@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-10-12"
+last_updated: "2025-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -2171,11 +2171,11 @@ XI. Coordinar con la Secretaría de las Mujeres, la elaboración e implementaci�
 
 XII. Las demás previstas en las normas jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2025)</small>
 
 ###### Artículo 65.
 
-Corresponde al Instituto Estatal de Educación Pública de Oaxaca, a la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología y a las instituciones de educación superior pública y privada:
+Corresponde al Instituto Estatal de Educación Pública de Oaxaca, a la Secretaría de Educación Pública de Oaxaca y a las instituciones de educación superior pública y privada:
 
 I. Participar en la elaboración del Programa y en el diseño de modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -2187,7 +2187,9 @@ IV. Desarrollar programas educativos en todos los tipos, niveles y modalidades q
 
 V. Elaborar materiales educativos, cursos y talleres para la prevención, atención, sanción y erradicación de la violencia contra las mujeres y el desarrollo de habilidades para la solución pacífica de conflictos;
 
-VI. Emitir las disposiciones administrativas necesarias, para garantizar que los docentes y el personal administrativo de los centros educativos, coadyuven para que las aulas y las escuelas se conviertan en verdaderos espacios para la reflexión y el ejercicio de las premisas que fundamentan una convivencia pacífica y armónica;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+VI. Emitir las disposiciones administrativas necesarias, para garantizar que los docentes y el personal administrativo de los centros educativos, coadyuven para que en las aulas y las escuelas se fomente el trato equitativo e igualitario de su relación con sus educandos y de ellos entre sí; y el uso de un lenguaje incluyente hacia su alumnado, todo ello mediante la sensibilización, capacitación y formación en perspectiva de género, enfoque intercultural e interseccional;
 
 VII. Garantizar a las mujeres la igualdad de oportunidades y facilidades en la obtención de becas, créditos educativos y otros beneficios, aplicando medidas extraordinarias para lograr la equidad;
 
@@ -2199,7 +2201,9 @@ IX. Garantizar mediante acciones, que la educación que se imparte en el Estado 
 
 X. Capacitar al personal docente y administrativo de los albergues escolares y centros educativos, sobre la igualdad de oportunidades y la prevención de la violencia contra las mujeres, en especial sobre el hostigamiento y acoso sexual;
 
-XI. Desarrollar modelos de intervención para detectar la violencia contra las mujeres en albergues escolares y centros educativos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2025)</small>
+
+XI. Desarrollar y diseñar los modelos de intervención; así como los mecanismos a los que el alumnado podrá recurrir en caso de experimentar alguna situación de violencia o discriminación;
 
 XII. Capacitar y sensibilizar al personal docente y administrativo a fin de que otorgue atención urgente a las alumnas que sufren algún tipo de violencia, así como sobre la obligación de informar a las instancias competentes aquellos casos de violencia contra las mujeres que llegasen a ocurrir en los albergues escolares o centros educativos;
 
@@ -2211,33 +2215,81 @@ XIV. Asegurar el derecho de las niñas y mujeres a la educación, alfabetizació
 
 XV. Incorporar en los programas educativos, en todos los niveles de la instrucción, los principios de igualdad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales, culturales y sistemas normativos internos que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
-XVI. Establecer como requisito de contratación a todo el personal de no contar con antecedentes penales de violencia contra las mujeres;
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2025)</small>
 
-XVII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+XVI. Prevenir, atender y acompañar los casos que configuren violencia de género que se presenten al interior de los centros escolares de nivel medio superior o superior, para ello las instituciones educativas contarán con una Coordinación de Igualdad y No discriminación.
 
-XVIII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+XVII. Establecer como requisito de contratación a todo el personal de no contar con antecedentes penales de violencia contra las mujeres;
 
-XIX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
+XVIII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+
+XIX. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+XX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XXI. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado;
+XXII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en el territorio del Estado;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXII. Supervisar la elaboración, actualización, instrumentación y aplicación de los protocolos necesario (sic) para la atención de denuncias de hostigamiento, abuso, acoso y violencia sexual en las instituciones educativas públicas y privadas del Estado, así como participar en su elaboración vigilando que se realicen con base en una perspectiva de género y de Derechos humanos;
+XXIII. Supervisar la elaboración, actualización, instrumentación y aplicación de los protocolos necesario (sic) para la atención de denuncias de hostigamiento, abuso, acoso y violencia sexual en las instituciones educativas públicas y privadas del Estado, así como participar en su elaboración vigilando que se realicen con base en una perspectiva de género y de Derechos humanos;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXIII. Corresponde a las Instituciones de Educación Superior Públicas del Estado , elaborar, aprobar, observar y aplicar los protocolos necesarios y suficientes de actuación especializados para la prevención, atención, sanción y erradicación de las violencias contra las mujeres en razón de género, de forma particular en lo relacionado con el acoso y hostigamiento sexual, así como con la violencia digital, en todas sus formas y manifestaciones, dirigidos al personal y estudiantes de los centros educativos universitarios; y
+XXIV. Corresponde a las Instituciones de Educación Superior Públicas del Estado , elaborar, aprobar, observar y aplicar los protocolos necesarios y suficientes de actuación especializados para la prevención, atención, sanción y erradicación de las violencias contra las mujeres en razón de género, de forma particular en lo relacionado con el acoso y hostigamiento sexual, así como con la violencia digital, en todas sus formas y manifestaciones, dirigidos al personal y estudiantes de los centros educativos universitarios; y
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XXIV. Las demás que le confiera esta Ley y otros ordenamientos aplicable (sic)
+XXV. Las demás que le confiera esta Ley y otros ordenamientos aplicable (sic)
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 65 Bis.
+
+Al interior de los centros escolares de nivel medio superior o superior, las instituciones educativas contarán con una Coordinación de Igualdad y No discriminación.
+
+La Coordinación de Igualdad y No discriminación tendrá como objetivo prevenir, atender y acompañar los casos que configuren violencia de género que se presenten al interior de los centros escolares de nivel medio superior o superior.
+
+La persona titular de la Coordinación de Igualdad y No discriminación, será designada por la o el Directivo de la institución académica, así como la integración de los perfiles que requiera para su funcionamiento, el proceso de selección se realizará a través de convocatorias públicas para elegir a los perfiles requeridos.
+
+La Coordinación de Igualdad y No discriminación, deberá contar con la estructura necesaria para los trabajos (sic) prevención y atención de la violencia, así como los recursos humanos y materiales para el cumplimiento de sus atribuciones.
+
+La persona titular de la Coordinación, deberá contar con experiencia en materia de género, derechos humanos y seguimiento a los procesos (sic) denuncia en casos de violencia en contra de las mujeres.
+
+Dentro de la estructura, la Coordinación, deberá contar con un área destinada a la capacitación, difusión y formación permanente dirigida al personal docente, administrativo y alumnado general, así como un área destinada a brindar atención psicológica y de trabajo social.
+
+Es importante que el personal que elabore (sic) en la Coordinación cuente con la formación necesaria, así como con la capacitación y recursos suficientes para atender los casos que lleguen. De igual forma, que sea capaz de activar los distintos mecanismos y recursos para atender los casos que llegaran a presentarse sin añadir responsabilidades adicionales a la víctima.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2025)</small>
+
+###### Artículo 65 Ter.
+
+La Coordinación de Igualdad y No discriminación, tendrá las siguientes atribuciones:
+
+I. Formular, implementar y coordinar los programas y acciones que permitan generar entre el personal docente, administrativo y la comunidad estudiantil, una convivencia libre de violencia de género y discriminación;
+
+II. Proponer el diseño e implementación de políticas institucionales sobre erradicación de la discriminación y violencia de género;
+
+III. Brindar apoyo especializado y asesoría al personal docente y administrativo en la formulación de las planeaciones y programas de estudio para hacerlos congruentes con la política de igualdad y no discriminación, así como de prevención y radicación de la violencia de género;
+
+IV. Diseñar los mecanismos a los que el alumnado podrá recurrir en caso de experimentar alguna situación de violencia de género;
+
+V. Capacitar al personal docente, personal administrativo y alumnado en general en materia de género y prevención de actos que constituyan violencia de género;
+
+VI. Diseñar el procedimiento de queja a través del cual el alumnado podrá presentar queja o denuncia sobre situaciones de violencia y discriminación experimentadas en el ámbito escolar. Es recomendable que dicho procedimiento cuente con la opción de presentar quejas de forma anónima de manera que la institución inicie una investigación sobre el hecho denunciado;
+
+VII . Brindar orientación legal tratándose de casos que constituyan un ilícito, proporcionando al alumnado, personal docente o administrativo, orientación respecto de las instancias a las que deberá acudir para presentar la denuncia, los documentos que le serán requeridos y en caso de ser necesario, el acompañamiento a la víctima;
+
+VIII. Emitir reportes periódicos, semestrales o anuales, sobre el mecanismo de quejas recibidas y su estatus, que permita dar un panorama amplio sobre el trabajo y el impacto de estas herramientas en la comunidad estudiantil;
+
+IX. Realizar actividades de formación, investigación y difusión de los marcos jurídicos, políticas de prevención y mecanismos que puedan incluirse dentro de las instituciones educativas para mitigar, prevenir y atender la violencia de género; y
+
+X. Las demás que le confieran la presente Ley y las disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
@@ -3304,3 +3356,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 5 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2513.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIONES VI Y XI DEL ARTÍCULO 65; SE ADICIONA LA FRACCIÓN XVI RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 65, Y LOS ARTÍCULOS 65 BIS Y 65 TER, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
