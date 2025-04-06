@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adopciones-para-el-estado-de-durango-71911"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2020-11-19"
+last_updated: "2025-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -167,7 +167,17 @@ II. Que el adoptante goza de buena salud física y mental, probando tal situaci�
 
 III. Que el adoptante cuente con la solvencia moral necesaria y que además tiene medios económicos suficientes para proveer a la subsistencia, la educación y el cuidado de quien se pretende adoptar, proporcionándole un ambiente familiar favorable para su desarrollo, lo que se acreditará con el estudio socioeconómico, las constancias de trabajo o ingresos y valoraciones de campo necesarias;
 
-IV. Que el o los adoptantes no han sido condenados por delito que merezca pena privativa de la libertad que exceda de dos años de prisión, acreditado con la carta de no antecedentes penales expedida por el Tribunal Superior de Justicia en el Estado de residencia del o los adoptantes; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
+
+IV. Que el o los adoptantes no han sido condenados por delito que merezca pena privativa de la libertad que exceda de dos años de prisión, acreditado con la carta de no antecedentes penales expedida por el Tribunal Superior de Justicia en el Estado de residencia del o los adoptantes;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2025)</small>
+
+V. Que el o los adoptantes no se encuentren inscritos en el Registro Nacional de Obligaciones Alimentarias; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2025)</small>
+
+VI. Las demás que establezca el Código Nacional de Procedimientos Civiles y Familiares, las Leyes Federales y en su caso, los tratados Internacionales de los que el Estado Mexicano sea parte.
 
 Además se deberá acompañar el o las actas de nacimiento de los adoptantes y de la niña, niño o adolescente que se pretende adoptar, y en su caso acta con que se acredite el estado civil de los adoptantes.
 
@@ -664,3 +674,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 152 POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONAN LAS FRACCIONES V Y VI DEL ARTÍCULO 7 DE LA LEY DE ADOPCIONES PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
