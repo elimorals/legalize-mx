@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2024-06-23"
+last_updated: "2025-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2025.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -775,13 +775,17 @@ XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecno
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
 
-XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza; y
+XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
 
-XXIII. Formular y fomentar las condiciones requeridas para el uso responsable y saludable del traslado de útiles y materiales escolares, de manera que se evite la sobrecarga o el peso excesivo de la mochila de los estudiantes.
+XXIII. Formular y fomentar las condiciones requeridas para el uso responsable y saludable del traslado de útiles y materiales escolares, de manera que se evite la sobrecarga o el peso excesivo de la mochila de los estudiantes; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2025)</small>
+
+XXIV. Proporcionar los elementos básicos de protección civil tales como señalización de seguridad, capacitación y simulacros, un programa, interno de protección civil, con la finalidad de brindar seguridad y capacidad de respuesta ante la eventualidad de alguna emergencia o desastre tanto a docentes como a Niñas, Niños y Adolescentes.
 
 ###### Artículo 38.
 
@@ -1345,9 +1349,11 @@ El Ministerio Público tendrá la intervención que las leyes dispongan en los p
 
 ### Capítulo Único. De los Centros de Asistencia Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2025)</small>
+
 ###### Artículo 65.
 
-Los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros, serán determinados por las autoridades estatales y municipales, en términos de lo dispuesto por esta Ley, la Ley General y Estatal de Salud y la Ley General y Estatal de Asistencia Social y demás disposiciones jurídicas aplicables.
+Los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros, serán determinados por las autoridades estatales y municipales, en términos de lo dispuesto por esta Ley, la Ley General y Estatal de Salud, la Ley General y Estatal de Asistencia Social y la Ley de Protección Civil del Estado de Durango y demás disposiciones jurídicas aplicables.
 
 Las instalaciones de los centros de asistencia social deberán cumplir con las condiciones establecidas por la Ley General.
 
@@ -1361,7 +1367,9 @@ Los servicios que presten los centros de asistencia social estarán orientados a
 
 I. Un entorno seguro, afectivo y libre de violencia;
 
-II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
+
+II. cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicología, para la cual deberán contar con un programa interno de protección civil;
 
 III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
 
@@ -2480,3 +2488,11 @@ P.O. 23 DE JUNIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 6 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 151 POR EL QUE SE ADICIONA LA FRACCIÓN XXIV Y SE REFORMAN LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 37, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 65 Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 66 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
