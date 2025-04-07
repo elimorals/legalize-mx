@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-las-personas-16665
 country: "mx"
 rank: "codigo"
 publication_date: "2023-06-09"
-last_updated: "2023-06-09"
+last_updated: "2025-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE LAS MUJERES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LAS MUJERES, PUBLICADO EN LA G.G. DE 7 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE ABRIL DE 2025 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 102 de la Gaceta del Gobierno del Estado de México, el viernes 9 de junio de 2023.
 
@@ -590,3 +592,15 @@ TERCERO. Se abroga el Código de Conducta y Reglas de Integridad de las Personas
 Toluca de Lerdo, Estado de México a 17 de marzo de 2023.
 
 LA SECRETARIA DE LAS MUJERES.- LCDA. AURORA DENISSE UGALDE ALEGRÍA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE LAS MUJERES”.]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta y Reglas de Integridad de las Personas Servidoras Públicas de la Secretaría de las Mujeres, publicado en el Periódico Oficial “Gaceta del Gobierno” el 9 de junio de 2023 y demás disposiciones de igual o menor jerarquía que se contraponga a lo establecido en el presente Código de Conducta.
