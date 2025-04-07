@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2025-01-09"
+last_updated: "2025-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -280,6 +280,14 @@ c. Trastorno de la conducta alimentaria;
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2024)</small>
 
 d. Deficiencias en su desarrollo físico, mental, psicológico, social, cuando este sea afectado por condiciones familiares adversas o por violencia familiar;
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+d Bis. Lesiones no intencionales;
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+d Ter. Enfermedades raras no infecto-contagiosas, crónicas o crónico-degenerativas.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -1682,3 +1690,9 @@ P.O. 9 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 20 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE INTERÉS SUPERIOR DE LA NIÑEZ Y ADOLESCENCIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 220 - LXVI POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES COMO SUJETOS DE ASISTENCIA SOCIAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
