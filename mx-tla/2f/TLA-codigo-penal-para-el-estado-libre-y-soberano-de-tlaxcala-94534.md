@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2025-03-19"
+last_updated: "2025-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2025.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3289,6 +3289,50 @@ IV. Si el sujeto activo del delito de extorsión, se encuentra privado de su lib
 
 V. Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+###### Artículo 270 Bis.
+
+A quien, por sí o por interpósita persona, por medio de amenazas o ejerciendo violencia física o moral, obligue a cualquier persona a dar, hacer, dejar de hacer o tolerar cualquier acción u omisión, respecto de alguna obligación civil o mercantil, con el propósito de obtener un pago o beneficio de cualquier tipo, para sí o para un tercero, se le impondrá una pena de diez a quince años de prisión y multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización. Esta conducta se perseguirá por querella.
+
+Las penas previstas en este artículo se incrementarán hasta en una mitad, cuando:
+
+I. Se realice por persona servidora en funciones.
+
+Esta conducta se considerará grave en términos de la Ley General de Responsabilidades Administrativas;
+
+II. Se realice por un miembro de una empresa de seguridad privada;
+
+III. Se cometa utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica o mensajería de plataforma virtual;
+
+IV. Se cometa empleando imágenes, mensajes escritos, audios o videos;
+
+V. Se realice por persona que se ostente como integrante o miembro de un grupo u organización delictivo, aún cuando no lo sea;
+
+VI. Se realice desde el interior de cualquier centro penitenciario o de reinserción social;
+
+VII. Se realice en contra de personas dedicadas al comercio;
+
+VIII. Se realice en contra de personas dedicadas al transporte de personas o mercancías;
+
+IX. Se realice en contra de personas menores de dieciocho o mayores de sesenta años;
+
+X. Se realice a través de personas menores de dieciocho años;
+
+XI. Se realice ocasionando daños;
+
+XII. Se realice con la utilización de armas, instrumentos aptos para agredir u objetos de utilería similares a armas de fuego, y
+
+XIII. Se provoque un hecho de tránsito con la finalidad de obtener inmediatamente dinero por concepto de reparación de daños.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+###### Artículo 270 Ter.
+
+A quien, sin contar con autorización de las autoridades financieras conforme a la legislación aplicable, se dedique habitualmente a préstamo de dinero, otorgamiento de crédito, financiamiento o cualquier acción que implique el otorgamiento de recursos económicos, aprovechándose de la necesidad económica, estado de pobreza, error o desconocimiento de persona alguna, le hiciera dar garantía o prometer cualquier ventaja desproporcional económica con las condiciones de préstamo, se le impondrá de uno a siete años de prisión y multa de cinco mil a ocho mil veces el valor de la Unidad de Medida y Actualización.
+
+Las penas establecidas en el presente artículo se incrementarán hasta en un tercio cuando se realice ejerciendo medios coactivos, intimidación o amenazas.
+
 ### CAPÍTULO VII. ASALTO
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
@@ -3430,6 +3474,12 @@ También se comete en (sic) delito indicado, aunque no se ejerza violencia físi
 ###### Artículo 283 Ter.
 
 A quien cometa el delito de requerimiento extrajudicial ilícito de pago se le impondrán de seis meses a dos años de prisión y multa de ciento ochenta a trescientas setenta veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+###### Artículo 283 Ter 1.
+
+A quien utilice medios ilícitos o efectúe actos de hostigamiento para lograr el cobro de una deuda civil o mercantil propia, de un tercero o de quien funja como endosatario, se le impondrá de uno a cuatro años de prisión y multa de dos mil a tres mil veces el valor de la Unidad de Medida y Actualización; con independencia de las sanciones que correspondan si para tal efecto se emplearon documentación, sellos falsos o se usurparon funciones públicas o de profesión.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE AGOSTO DE 2020)</small>
 
@@ -4520,6 +4570,12 @@ Se impondrá de seis meses a cinco años de prisión y multa de treinta y seis a
 I. Al que fabrique, produzca o publique libros, escritos, imágenes u otros objetos obscenos y al que los exponga, distribuya o haga circular públicamente, y
 
 II. Al que ejecute o haga ejecutar por otro, en público exhibiciones obscenas.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+###### Artículo 360 Bis.
+
+A la autoridad, propietario, titular, responsable o encargado de una unidad económica que autorice o permita el baile de hombres y/o mujeres desnudos y/o semidesnudos con mensaje explícito de carácter erótico y/o sexual para el público asistente, se le impondrá de seis a doce años de prisión y multa de cinco mil a siete mil veces el valor de la Unidad de Medida y Actualización, con independencia de la clausura definitiva del establecimiento.
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES
 
@@ -6010,3 +6066,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se oponga al contenido del presente Decreto
+
+P.O. 7 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 144.- SE ADICIONA EL ARTÍCULO 360 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente este Decreto.
+
+P.O. 7 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 143.- POR EL QUE SE ADICIONAN LOS ARTÍCULOS 270 BIS, 270 TER Y 283 TER 1, TODOS AL CÓDIGO PENAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
