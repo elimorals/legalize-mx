@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-03-10"
+last_updated: "2025-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -641,49 +641,67 @@ La Secretaría generará mecanismos para apoyar y promover la creación y difusi
 
 ### CAPÍTULO VIII. DE LA EDUCACIÓN INCLUSIVA
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2025)</small>
+
 ###### Artículo 51.
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir, reducir y eliminar las barreras y prácticas de discriminación, exclusión y segregación que limitan el acceso, permanencia, participación y aprendizaje de los educandos.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir, reducir y eliminar las barreras y prácticas de discriminación, exclusión y segregación que limitan el acceso, permanencia, participación y aprendizaje de las y los educandos.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades, ritmos y estilos de aprendizaje de todos y cada uno de las y los educandos.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2025)</small>
 
 ###### Artículo 52.
 
-La Secretaría asegurará la educación inclusiva en todos los tipos y niveles, con el fin de favorecer el aprendizaje de todos los estudiantes, con énfasis en quienes están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
+La Secretaría asegurará la educación inclusiva en todos los tipos y niveles, modalidades y opciones del Sistema, con el fin de favorecer el aprendizaje de todas las y los estudiantes, con énfasis en quienes están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
 
-I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
+I. Favorecer el máximo logro de aprendizaje de las y los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
-II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
+II. Desarrollar al máximo la personalidad, los talentos y la creatividad de las y los educandos;
 
-III. Favorecer la plena participación de niñas, niños, adolescentes y jóvenes, en su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
+III. Favorecer la plena participación de las y los educandos, en su educación, y facilitar el ingreso, la permanencia, el tránsito y la continuidad de sus estudios en la educación obligatoria;
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, circunstancias, necesidades, intereses, capacidades habilidades, estilos y ritmos de aprendizaje, entre otras;
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación integral;
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad; y
+VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad;
 
-VII. Garantizar que las personas con discapacidad aprendan, desarrollen, consoliden y se certifiquen en las competencias para el trabajo y la vida, que favorezcan su inclusión laboral a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+VII. Garantizar que las personas con discapacidad aprendan, desarrollen, consoliden y se certifiquen en las competencias para el trabajo y la vida, que favorezcan su inclusión laboral a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad, y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2025)</small>
+
+VIII. Supervisar periódicamente las acciones implementadas en favor de la educación inclusiva, con la intervención de todos los actores que conforman el Sistema Educativo Estatal, de acuerdo con los lineamientos que emita la Secretaría.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2025)</small>
 
 ###### Artículo 53.
 
-En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
+En la aplicación de esta Ley, se garantizará el derecho a la educación de las y los educandos con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
 
-La Secretaría, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la Autoridad Educativa Federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
+La Secretaría, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la Autoridad Educativa Federal, para atender a las y los educandos con características, capacidades, circunstancias, necesidades, intereses, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
 
-I. Brindar educación especial en condiciones necesarias, previa valoración de niñas, niños, adolescentes y jóvenes, y decisión de madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de niñas, niños, adolescentes y jóvenes que enfrentan barreras para el aprendizaje y la participación;
+I. Prestar educación especial en condiciones necesarias, previa valoración por parte de las y los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de las y los educandos que enfrentan barreras para el aprendizaje y la participación;
 
-II. Ofrecer modelos accesibles para brindar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+II. Ofrecer modelos accesibles para brindar educación especial, procurando su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
-III. Brindar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes y/o talentos específicos en los niveles de educación obligatoria;
+III. Prestar y fortalecer la educación especial para apoyar a las y los educandos con alguna discapacidad, aptitudes sobresalientes, talentos y/o trastornos en los niveles de educación obligatoria, y brindar las opciones educativas pertinentes;
 
-IV. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar, prevenir, reducir o eliminar las barreras para el aprendizaje y la participación, y brinde los apoyos que los educandos requieran;
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2025)</small>
 
-V. Garantizar la satisfacción de las necesidades básicas de aprendizaje, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva de los educandos con alguna discapacidad o aptitudes sobresalientes y/o talentos específicos;
+III Bis. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
 
-VI. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación; y
+IV. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar, prevenir, reducir o eliminar las barreras para el aprendizaje y la partición, y brinde los apoyos que las y los educandos requieran;
 
-VII. Procurar la cobertura en todo el territorio estatal, con personal especializado, en los servicios de educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes, previo diagnóstico.
+V. Garantizar la satisfacción de las necesidades básicas de aprendizaje, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva de las y los educandos con discapacidad;
+
+VI. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras para el aprendizaje y la participación en todos los actores sociales involucrados en educación, y
+
+VII. Procurar la cobertura en todo el territorio estatal, con personal especializado, en los servicios de educación especial para apoyar a las y los educandos con alguna discapacidad, previo diagnóstico.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2025)</small>
+
+La Secretaría emitirá lineamientos en los cuales se determinen los criterios orientadores para la prestación de los servicios de educación especial a los que se refiere el presente artículo y se cumpla con el principio de inclusión.
 
 ###### Artículo 54.
 
@@ -691,13 +709,25 @@ Para garantizar la educación inclusiva, la Secretaría, en el ámbito de su com
 
 I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana dependiendo de las capacidades de los educandos y la enseñanza del español para las personas con discapacidad auditiva;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2025)</small>
 
-III. Asegurar que los educandos con alguna discapacidad reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana dependiendo de las capacidades de las y los educandos y la enseñanza del español para las personas con discapacidad auditiva;
 
-IV. Asegurar que se realicen ajustes razonables para inclusión de las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2025)</small>
 
-V. Proporcionar a los educandos con aptitudes sobresalientes y/o talentos específicos, la atención especializada que requieran de acuerdo con sus capacidades, intereses y necesidades.
+III. Asegurar que las y los educandos con alguna discapacidad reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2025)</small>
+
+IV. Asegurar que se realicen ajustes razonables para inclusión de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2025)</small>
+
+V. Fortalecer los aprendizajes de las y los educandos con aptitudes sobresalientes y/o talentos específicos, la atención especializada que requieran de acuerdo con sus capacidades, ritmos, intereses y necesidades, y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2025)</small>
+
+VI. Fomentar la enseñanza de modelos pedagógicos en la formación docente, para brindar la educación que las y los educandos requieran.
 
 ###### Artículo 55.
 
@@ -2542,3 +2572,9 @@ P.O. 10 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 211 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN FINANCIERA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN INCLUSIVA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
