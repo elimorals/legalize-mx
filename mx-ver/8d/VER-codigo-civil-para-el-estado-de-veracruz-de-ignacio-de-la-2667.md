@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2025-03-07"
+last_updated: "2025-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ABRIL DE 2025.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -4141,9 +4141,9 @@ ARTICULO 676
 
 Todo acto del estado civil relativo a otro ya registrado deberá anotarse en el acta correspondiente y el documento que dé lugar a la anotación se insertará en el apéndice respectivo, que en el caso de no haberlo se formará, con excepción de las actas derivadas de un reconocimiento, para lo cual, se atenderá lo dispuesto en el artículo 708. Se realizará también este procedimiento cuando lo mande la autoridad judicial o lo disponga expresamente la Ley.
 
-> <small>(REFORMADO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2025)</small>
 
-Las copias que se expidan de estas actas contendrán una referencia de la anotación.
+Las copias que se expidan de estas actas contendrán una referencia de la anotación, a excepción de la que se expida por motivo del reconocimiento de identidad de género autopercibida.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4773,11 +4773,11 @@ Cuando una autoridad ordene la exhumación y de ésta resulte que la causa de la
 
 ### CAPITULO IX. De la rectificación de las actas del estado civil
 
-> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2025)</small>
 
 ARTICULO 759
 
-La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo lo dispuesto en el artículo siguiente y el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, excepto en lo dispuesto en el artículo siguiente, en el reconocimiento que voluntariamente haga un padre de su hijo y en el trámite administrativo de reconocimiento de identidad de género autopercibida, los cuales se sujetarán a las prescripciones de este Código.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -4796,6 +4796,50 @@ Ha lugar a demandar la rectificación:
 I.- Por falsedad, cuando se alegue que el suceso registrado no pasó; y
 
 II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial del acto registrado.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2025)</small>
+
+ARTICULO 761 BIS
+
+Para el caso de quien solicite el trámite de reconocimiento de identidad de género autopercibida, se estará a lo previsto en los siguientes artículos.
+
+El reconocimiento de identidad de género autopercibida es oponible ante terceros y de ninguna manera constituye la extinción o desconocimiento de los derechos, obligaciones y responsabilidades contraídas con anterioridad al trámite administrativo de reconocimiento de identidad de género autopercibida y el consecuente levantamiento de una nueva acta, los cuales permanecerán intocados y por ende son completamente exigibles.
+
+Se entiende por identidad de género, la vivencia interna e individual de género tal y como cada persona lo siente, la cual podría corresponder o no con el sexo asignado al momento del nacimiento y registrado en su acta primigenia; en ella se incluye la vivencia personal del cuerpo y de las diversas expresiones de género.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2025)</small>
+
+ARTICULO 761 TER
+
+El trámite administrativo de reconocimiento de identidad de género autopercibida es integral, basado en el consentimiento libre e informado, confidencial, expedito, gratuito y sin la exigencia de certificaciones médicas, psicológicas, intervenciones quirúrgicas, tratamientos hormonales u otras que puedan resultar irrazonables, patologizantes o estigmatizantes, y que atenten contra la dignidad de la persona humana.
+
+Para el levantamiento de una nueva acta de nacimiento, a través del trámite administrativo de reconocimiento de identidad de género autopercibida, se deberán cumplir los siguientes requisitos:
+
+I. Contar con la nacionalidad mexicana por nacimiento;
+
+II. Presentar, por sí o a través de su representante legal, ante la Dirección General del Registro Civil del Estado, o ante cualquiera de sus Oficialías en el Estado, una solicitud en la que se especifique el nombre completo y los datos registrales del acta primigenia, así como el nombre solicitado sin apellidos, y el género autopercibido; y
+
+III. Una copia certificada del acta primigenia, para efecto de realizar la cancelación correspondiente.
+
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2025)</small>
+
+ARTICULO 761 QUATER
+
+El procedimiento del trámite administrativo de reconocimiento de identidad de género autopercibida ante la Dirección General del Registro Civil del Estado, o ante cualquiera de sus Oficialías en el Estado, será de la siguiente manera:
+
+I. Al recibir la solicitud a la que hace referencia la fracción II del artículo 761 TER, dará inicio el trámite administrativo de reconocimiento de identidad de género autopercibida, el cual será resuelto en un término máximo de siete días hábiles;
+
+II. Su procedencia deberá resolverse por la autoridad administrativa ante quien se hubiere presentado la solicitud, a través de una constancia que ordene levantar una nueva acta de nacimiento y la cancelación del acta de nacimiento primigenia, en un término de tres días hábiles;
+
+III. Cuando el trámite se haya realizado en la Oficialía del Registro Civil que conoció del registro primigenio de nacimiento, luego de haber resuelto la solicitud en los términos de la fracción I, se procederá de inmediato al levantamiento de la nueva acta de nacimiento y la cancelación del acta primigenia; la resolución deberá informarse a la Dirección General del Registro Civil del Estado para que, a su vez, proceda a la cancelación correspondiente en los libros que obren en su poder; de la cancelación realizada no podrán expedirse informes, salvo que lo solicite la persona titular del derecho, su representante legal o cuando sea requerida por mandamiento judicial o petición ministerial;
+
+IV. Cuando el trámite se haya realizado en oficina distinta de aquella en la que se haya registrado el nacimiento, el Encargado del Registro Civil resolverá la solicitud en los términos establecidos en las fracciones I y II, y la resolución deberá informarse a la Oficina del Registro Civil que haya conocido del registro primigenio de nacimiento y a la Dirección General del Registro Civil para que, a su vez, procedan a la cancelación correspondiente en los libros que obren en su poder; y
+
+V. Para concluir con el trámite, la autoridad que haya resuelto deberá entregar por duplicado a la persona solicitante la constancia a la que se refiere la fracción II, así como la nueva acta de nacimiento.
+
+La autoridad que haya resuelto deberá solicitar la actualización de los datos de identidad de la persona promovente en los registros oficiales correspondientes.
+
+De la cancelación realizada al acta de nacimiento primigenia no podrán expedirse informe, salvo que lo solicite la persona titular del derecho, su representante legal o cuando sea requerida por mandamiento judicial o petición ministerial.
 
 (REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)
 
@@ -17086,3 +17130,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 243 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Estado de Veracruz.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
