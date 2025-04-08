@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2025-01-03"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -531,13 +531,17 @@ XIII.- Proporcionar capacitación y adiestramiento en los términos de la presen
 
 XIV.- Adoptar las medidas, adecuaciones, ajustes y mejoras necesarios que aseguren el libre acceso y desplazamiento de las personas en general, así como también de las personas trabajadoras que padezcan de alguna discapacidad en condiciones de igualdad y no discriminación. Para estos efectos deberán modificar, en su caso, las instalaciones, en los términos que señalen las propias autoridades y la normatividad vigente;
 
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-XV.- Implementar, con base en el Programa Interno de Protección Civil que establece la Ley del Sistema de Protección Civil del Estado de San Luis Potosí, capacitación para las y los trabajadores en el rubro, por lo menos una vez al año dentro de la jornada laboral, y
+XV.- Implementar, con base en el Programa Interno de Protección Civil que establece la Ley del Sistema de Protección Civil del Estado de San Luis Potosí, capacitación para las y los trabajadores en el rubro, por lo menos una vez al año dentro de la jornada laboral;
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2025)</small>
 
-XVI.- Cumplir con las demás obligaciones que deriven de este Ordenamiento.
+XVI.- Establecer periodos de descanso durante la jornada de trabajo, de acuerdo a la naturaleza del cargo, puesto y de las funciones de las personas trabajadoras, no se les podrá obligar a permanecer de pie durante la totalidad de la jornada laboral, ni prohibirles tomar asiento. Las Instituciones públicas del Estado y Municipios deberán mantener un número suficiente de asientos o sillas con respaldo a disposición de las personas trabajadoras, las que deberán estar ubicadas en áreas específicas que para tal efecto se designen, en las mismas instalaciones del lugar de trabajo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2025)</small>
+
+XVII.- Cumplir con las demás obligaciones que deriven de este ordenamiento.
 
 ### CAPITULO II.
 
@@ -2282,3 +2286,13 @@ P.O. 3 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0138.- SE ADICIONA EL ARTÍCULO 35 BIS, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+P.O. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0184.- SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 51; Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 51, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las instituciones públicas del Estado y los Municipios contarán con un plazo de noventa días naturales a la entrada en vigor de este Decreto, para armonizar y actualizar sus Reglamentos y normatividad interna para promover, respetar y garantizar los periodos obligatorios de reposo durante la jornada laboral, así como el derecho de las personas trabajadoras para usar asientos o sillas con respaldo durante los periodos de descanso, de acuerdo a la propia naturaleza del cargo, puesto, comisión o funciones.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
