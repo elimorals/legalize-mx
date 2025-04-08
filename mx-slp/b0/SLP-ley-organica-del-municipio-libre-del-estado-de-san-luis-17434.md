@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2024-09-25"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -270,6 +270,12 @@ Adquieren la calidad de habitantes del municipio, los avecindados en él con una
 ###### ARTICULO 11.
 
 Los ciudadanos del municipio tendrán las obligaciones y prerrogativas que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2025)</small>
+
+ARTICULO 11 BIS. La ciudadanía accederá a políticas públicas con perspectiva de género, con la finalidad de que se garantice la igualdad entre mujeres y hombres, así como la inclusión social. Además de recibir de manera oportuna, permanente y constante una atención integral con perspectiva de género a través de las áreas competentes.
+
+Las autoridades municipales tendrán la responsabilidad de implementar políticas públicas para mejorar la situación y condición de las mujeres, y que sean libres de cualquier tipo de violencia.
 
 ## TITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
@@ -581,13 +587,17 @@ X. Proponer para su aprobación al Congreso del Estado, las cuotas y tarifas apl
 
 XI. Reglamentar los espectáculos públicos, la publicidad y anuncios, vigilando que se desarrollen conforme a derecho, a la moral y a las buenas costumbres;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, de conformidad con el artículo 13 fracción VI, de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno y Ordenamientos de los Municipios del Estado de San Luis Potosí, y
+XII. Formular y aprobar su reglamento interno, en el que se habrá de considerar, entre otros, el procedimiento en caso de que fallezca algún integrante del ayuntamiento, de conformidad con el artículo 13 fracción VI, de la Ley que Establece las Bases para la Emisión de Bandos de Policía y Gobierno y Ordenamientos de los Municipios del Estado de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-XIII. Autorizar en los términos de la ley, los incentivos fiscales a los propietarios de los predios que tengan estatus de baldíos y que se encuentren limpio (sic), debidamente delimitados y cercados. Estímulo que operará en favor de quienes lo soliciten y demuestren el cumplimiento en los términos que establezca cada ayuntamiento.
+XIII. Autorizar en los términos de la ley, los incentivos fiscales a los propietarios de los predios que tengan estatus de baldíos y que se encuentren limpio (sic), debidamente delimitados y cercados. Estímulo que operará en favor de quienes lo soliciten y demuestren el cumplimiento en los términos que establezca cada ayuntamiento, y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2025)</small>
+
+XIV. Generar políticas públicas con perspectiva de género que garanticen la igualdad entre mujeres y hombres, así como la inclusión social.
 
 c) En materia Operativa:
 
@@ -1371,17 +1381,27 @@ El tesorero y todos los empleados que manejen fondos y valores, están obligados
 
 Para ser Tesorero del ayuntamiento es necesario cumplir con los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-I. Contar con título y cédula profesional de licenciado en contabilidad pública, administración pública o economía, con una antigüedad mínima de tres años en el ejercicio de la profesión;
+I. Contar con título y cédula profesional de licenciatura en administración, con antigüedad mínima de tres años; y experiencia en el área financiera de dos años;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad, y
+II. No tener sentencia condenatoria ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-III. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del ayuntamiento.
+III. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios, y
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
+
+IV. No tener parentesco consanguíneo o por afinidad hasta en el cuarto grado, con los integrantes del ayuntamiento.
 
 ###### ARTICULO 81.
 
@@ -1906,6 +1926,10 @@ Las comisiones se conformarán de forma plural y proporcional, teniendo en cuent
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 El Reglamento respectivo determinará el trámite y los procedimientos que deberán de seguir los asuntos, disposiciones y acuerdos que se turnen expresamente a una comisión, así como los plazos y resolución de los mismos.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2025)</small>
+
+Tratándose de los ayuntamientos a los que se refiere el artículo 13 fracción III de esta Ley, con la aprobación de la mayoría simple, se podrán fusionar comisiones de conformidad con la compatibilidad de la materia que conozcan, y preferentemente durante a la que alude el artículo que antecede.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -3550,5 +3574,13 @@ P.O. 25 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1132.- SE REFORMA EL ARTÍCULO 77 EN SUS FRACCIONES II Y IV, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0185.- SE REFORMAN LAS FRACCIONES XII Y XIII DEL INCISO B) DEL ARTÍCULO 31 Y LAS FRACCIONES I Y II DEL ARTÍCULO 80; Y ADICIONA EL ARTÍCULO 11 BIS, ASÍ COMO LA FRACCIÓN XIV AL INCISO B) DEL ARTÍCULO 31, LA FRACCIÓN III AL ARTÍCULO 80 Y UN PÁRRAFO CUARTO AL ARTÍCULO 90, A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
