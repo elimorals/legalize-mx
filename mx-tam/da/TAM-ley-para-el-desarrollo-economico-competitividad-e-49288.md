@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-economico-competitividad-e-49288"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-24"
-last_updated: "2023-08-23"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 24 de noviembre de 2005.
 
@@ -713,9 +713,15 @@ III. Impulsar los estudios de gran visión que le permitan detectar, analizar y 
 
 IV. Coordinar acciones y emitir recomendaciones tendientes a mejorar el orden jurídico aplicable a las actividades productivas y brindar mayor certidumbre a los inversionistas;
 
-V. Analizar las solicitudes y aprobar en su caso el monto del porcentaje propuesto respecto al subsidio de los estímulos fiscales, así como también el otorgamiento de los incentivos no fiscales establecidos en esta ley.
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-VI. Las demás que establezca esta ley, y otras disposiciones aplicables.
+V. Proponer al Ejecutivo Estatal el otorgamiento de estímulos fiscales para las empresas que contraten personas privadas de la libertad, liberadas y/o externadas;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
+
+VI. Analizar las solicitudes y aprobar en su caso el monto del porcentaje propuesto respecto al subsidio de los estímulos fiscales, así como también el otorgamiento de los incentivos no fiscales establecidos en esta ley; y
+
+VII. Las demás que establezca esta ley, y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
 
@@ -771,11 +777,11 @@ La Secretaría podrá celebrar convenios de coordinación y colaboración con en
 
 ### CAPITULO IV. DEL OTORGAMIENTO DE ESTIMULOS A LA INVERSION PRODUCTIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 18.
 
-El Consejo, el Comité y/o la Secretaría, podrán recomendar al Ejecutivo Estatal el otorgamiento de estímulos previstos en la presente Ley para apoyar la instalación y ampliación de empresas, atendiendo los siguientes rubros: generación de empleos directos e indirectos; contratación de estudiantes, personas adultas mayores y/o personas con discapacidad; nivel salarial de los empleos generados; monto y origen de la inversión; inversión en tecnología; proveeduría a empresas del Estado y/o del país; diversificación de mercados; prestaciones laborales a sus trabajadores; aplicación de programas de reciclaje; implementación de fuentes de energía renovables no contaminantes; y ubicación en parques industriales o zonas de menor crecimiento económico.
+El Consejo, el Comité y/o la Secretaría, podrán recomendar al Ejecutivo Estatal el otorgamiento de estímulos previstos en la presente Ley para apoyar la instalación y ampliación de empresas, atendiendo los siguientes rubros: generación de empleos directos e indirectos; contratación de estudiantes, personas adultas mayores, personas con discapacidad y/o personas liberadas o externadas; nivel salarial de los empleos generados; monto y origen de la inversión; inversión en tecnología; proveeduría a empresas del Estado y/o del país; diversificación de mercados; prestaciones laborales a sus trabajadoras y trabajadores; aplicación de programas de reciclaje; implementación de fuentes de energía renovables no contaminantes; y ubicación en parques industriales o zonas de menor crecimiento económico.
 
 En la observancia de las disposiciones inherentes a los procedimientos para el otorgamiento de los estímulos aquí previstos, las autoridades competentes deberán proceder garantizando en lo conducente los principios de equidad e igualdad de género.
 
@@ -1478,3 +1484,11 @@ P.O. 23 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-271 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 13 SEXIES, FRACCIÓN V; Y 18, PÁRRAFO PRIMERO; Y SE ADICIONA UNA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 13 SEXIES, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
