@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-03-28"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5657,9 +5657,13 @@ XVII.- Al que por cualquier razón tuviere a su cargo la administración o el cu
 
 XVIII.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro otorgándole o endosándole a nombre propio o de otro un título de crédito de los denominados pagarés a la orden y que el otorgante sabe que no ha de pagarle o que en el momento de la suscripción del mismo es económicamente insolvente a sabiendas que no tiene bienes suficientes para garantizar su pago, o al que libre un cheque a favor de otra persona a sabiendas que no tiene fondos suficientes para su pago en el momento de librarlo. Del mismo modo, al que teniendo la obligación de pago de cualquier título de crédito, realice conductas distintas a las señaladas en esta fracción con la finalidad de no cumplir con la obligación contraída.
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
-XIX.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores.
+XIX.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2025)</small>
+
+XX.- Al que, por medio de plataformas digitales, tiendas en línea, o cualquier medio electrónico, engañe o incite al error al consumidor, mediante la venta de productos o servicios falsos.
 
 ###### ARTICULO 419.
 
@@ -7744,6 +7748,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-266 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, Y LAS FRACCIONES II, IV Y VI, Y SE ADICIONA LA FRACCIÓN VII, RECORRIENDO EN SU ORDEN NATURAL LA SUBSECUENTE, AL PÁRRAFO TERCERO DEL ARTÍCULO 426, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-270 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIX, Y SE ADICIONA LA FRACCIÓN XX, AL ARTÍCULO 418, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
