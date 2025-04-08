@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2023-06-06"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -65,7 +65,9 @@ d) definir los principios para su formación, atención, protección y desarroll
 
 ###### ARTICULO 2.
 
-1. La familia es la célula básica de la sociedad. En sentido amplio es el conjunto de personas que se encuentran vinculadas por una relación de parentesco, el cual puede ser por consanguinidad, afinidad o legal, según deriven de la filiación, el matrimonio o la adopción. En sentido estricto, por familia, se entiende el grupo reducido que forman el padre, la madre y los hijos, con exclusión de los demás parientes, o por lo menos con exclusión de los parientes colaterales, como son los tíos y primos, y que, siguiendo la tradición latina, viven bajo el mismo techo y bajo la dirección y los recursos del jefe de la casa.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2025)</small>
+
+1. La familia es la célula básica de la sociedad. Es el conjunto de personas que se encuentran vinculadas por una relación de parentesco, el cual puede ser por consanguinidad, afinidad, o legal, según deriven de la filiación, el matrimonio, el concubinato, o la adopción.
 
 2. La familia tiene como función esencial la convivencia estable e integrada, el cuidado y la protección de sus miembros por medio de la permanencia y estabilidad de sus relaciones interpersonales.
 
@@ -77,7 +79,9 @@ d) definir los principios para su formación, atención, protección y desarroll
 
 1. Los principios rectores de la familia son:
 
-a) todo varón y mujer en edad núbil, tienen derecho a contraer matrimonio, célula básica de la familia. El matrimonio es el acuerdo de voluntades libremente expresadas por un hombre y una mujer, con objeto de unir sus vidas en forma permanente a fin de procurarse ayuda mutua y la preservación de la especie, que se celebra ante la autoridad competente y con los requisitos y formalidades que la ley dispone;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2025)</small>
+
+a) Toda persona mayor de edad tiene derecho a contraer matrimonio, o estar en concubinato. El matrimonio es el acuerdo de voluntades libremente expresadas, con objeto de unir sus vidas en forma permanente a fin de procurarse ayuda mutua y que se celebra ante la autoridad competente y con los requisitos y formalidades que la ley dispone; el concubinato es la relación de hecho que se genera entre dos personas que, sin tener ningún vínculo matrimonial y siendo mayores de edad, han tenido descendencia o han emprendido un proyecto de vida en común fundado en la afectividad, el consentimiento y la solidaridad libremente aceptada con la finalidad de convivir de forma estable;
 
 b) la integración estable y permanente del núcleo familiar para la convivencia;
 
@@ -535,6 +539,10 @@ d) alentar la formación y práctica de conductas sustentadas en principios y va
 
 1. Es derecho y deber del padre y de la madre corregir oportuna, adecuada, humana y moderadamente a sus hijos y auxiliarse, en caso necesario, de profesionales especializados o de los servicios de orientación familiar y psicopedagógica, a cargo de centros educativos o entidades de protección de niñas, niños y adolescentes o de la familia.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2025)</small>
+
+La facultad de corregirlos será siempre mediante formas de crianza positiva y participativa, así como mediante el ejemplo. En ningún caso esta facultad implicará cualquier forma de maltrato físico o psicológico, castigo corporal y/o humillante.
+
 2. En caso que la conducta del hijo no pudiere ser corregida por los medios indicados, los padres podrán solicitar al juez que provea medidas tutelares. Este, para decidir, ordenará los estudios técnicos del grupo familiar que estime convenientes.
 
 ###### ARTICULO 36.
@@ -848,6 +856,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-582 MEDIANTE EL CUAL SE REFORMAN DIVERSAS LEYES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-269 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, PÁRRAFO 1; 3, PÁRRAFO 1, INCISO A); Y SE ADICIONA UN SUBPÁRRAFO SEGUNDO AL PÁRRAFO 1 DEL ARTÍCULO 35 DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
