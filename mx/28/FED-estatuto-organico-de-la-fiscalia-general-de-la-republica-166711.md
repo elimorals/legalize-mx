@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-fiscalia-general-de-la-republica-166711
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-06-19"
-last_updated: "2023-07-20"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2023-03-31"
 
 ESTATUTO ORGÁNICO DE LA FISCALÍA GENERAL DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE JULIO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2025.
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 19 de junio de 2023.
 
@@ -157,17 +155,25 @@ i. Unidad Especializada en Asuntos Jurídicos;
 
 a). Unidad de Constitucionalidad, y
 
-b). Unidad de Normatividad, y
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+b). Unidad de Normatividad.
 
 ii. Unidad Especializada en Transparencia y Apertura Gubernamental.
 
-c. Unidad de Vinculación;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-d. Unidad Especial de Género y Violencia Contra la Mujer;
+c. Unidad de Vinculación con el Congreso de la Unión;
 
-e. Unidad de Comunicación Social, y
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-f. Coordinación Administrativa de la Oficina del Fiscal General.
+d. Unidad de Enlace y Coordinación;
+
+e. Unidad Especial de Género y Violencia Contra la Mujer;
+
+f. Unidad de Comunicación Social, y
+
+g. Coordinación Administrativa de la Oficina del Fiscal General.
 
 II. Fiscalía Especializada de Control Competencial:
 
@@ -179,11 +185,13 @@ c. Fiscalía Especial en Investigación de Delitos contra el Ambiente y Previsto
 
 d. Fiscalía Especial en Investigación de Delitos Cometidos por personas Servidoras Públicas y Contra la Administración de Justicia;
 
-e. Fiscalía Especial en Investigación de Delitos contra los Derechos de Autor y la Propiedad Industrial;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-f. Fiscalía Especial en Investigación de Delitos de Comercio de Narcóticos Destinados al Consumo Final;
+e. Fiscalía Especial en Investigación de Delitos contra los Derechos de Autor y la Propiedad Industrial, y
 
-g. Fiscalía Especial en Investigación de Delitos Sociales y Políticos del Pasado, y
+f. (DEROGADO, D.O.F. 8 DE ABRIL DE 2025)
+
+g. (DEROGADO, D.O.F. 8 DE ABRIL DE 2025)
 
 h. Fiscalía Especial para Asuntos Internacionales:
 
@@ -321,7 +329,9 @@ d. Fiscalía Especial de Investigación de Delitos relacionados con Personas Mig
 
 e. Fiscalía Especial para la Investigación de Delitos relacionados con Recomendaciones de la Comisión Nacional de los Derechos Humanos;
 
-f. Fiscalía Especial para la atención de Delitos cometidos por Personas Indígenas y Afromexicanas;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+f. Fiscalía Especial en Investigación de Delitos cometidos por Personas Indígenas y Afromexicanas y en Investigación de Delitos Sociales y Políticos del Pasado;
 
 g. Unidad de Seguimiento a Quejas, Conciliaciones y Recomendaciones de la Comisión Nacional de los Derechos Humanos;
 
@@ -531,17 +541,29 @@ h. Unidad de Servicios Aéreos.
 
 XIII. Órgano Interno de Control:
 
-a. Unidad de Responsabilidades y Jurídico Contenciosa;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+a. Unidad de Responsabilidades Administrativas;
 
 b. Unidad de Auditoría Interna;
 
-c. Unidad de Investigaciones, Evolución Patrimonial y Conflicto de Interés;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-d. Unidad de Control y Evaluación;
+c. Unidad de Denuncias e Investigaciones;
 
-e. Unidad de Procedimientos del Régimen Especial, y
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-f. Unidad de Verificación del Destino Final de Bienes Asegurados.
+d. Unidad Jurídica, Contenciosa y de Evolución Patrimonial;
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+e. Unidad de Vigilancia y Cumplimiento en Materia de Transparencia, Información Pública y Protección de Datos Personales;
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+f. Unidad de Control y Evaluación, y
+
+g. Unidad de Verificación del Destino Final de Bienes Asegurados.
 
 ###### Artículo 6.
 
@@ -589,7 +611,9 @@ XV. En la comunicación, actividades y flujo de información de las Unidades Adm
 
 XVI. Proponer a la Oficialía Mayor los recursos humanos, materiales y financieros necesarios para el cumplimiento de sus atribuciones y ejercer el presupuesto que les sea asignado con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados, de conformidad con los Manuales de Organización y de Procedimientos;
 
-XVII. Autorizar, dentro del ámbito de su competencia, permisos y licencias de conformidad con las necesidades del servicio y el ordenamiento jurídico;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Autorizar permisos, dentro del ámbito de su competencia, y someter a la autorización de la Oficialía Mayor las licencias, de conformidad con las necesidades del servicio y el ordenamiento jurídico;
 
 XVIII. Promover la queja para iniciar el procedimiento de separación del Servicio Profesional de Carrera de las personas servidoras públicas a su cargo, conforme a lo previsto en la Ley, el Estatuto del Servicio Profesional de Carrera y las demás disposiciones aplicables que se expidan en la materia;
 
@@ -617,15 +641,31 @@ XXIX. Informar a la Unidad Especializada en Asuntos Jurídicos, la existencia de
 
 XXX. Proponer a las personas servidoras públicas merecedoras de permanencia, reconocimientos o apoyos y desarrollo, conforme al servicio profesional de carrera, de conformidad con la normatividad aplicable;
 
-XXXI. Realizar acta de entrega-recepción, debiendo entregar toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o guarda y custodia. Esta obligación también será aplicable a las personas servidoras públicas que, por comisión, suplencia, encargo o bajo cualquier otra figura, hayan quedado como personas encargadas provisionales de alguna Unidad Administrativa cuya persona titular deba cumplir con esta obligación, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXXII. Las demás que les confieran el ordenamiento jurídico en el ámbito de su competencia o las que determinen las personas que sean de su superior jerarquía o la persona titular de la Fiscalía General.
+XXXI. Verificar la guarda, custodia y actualización documental permanente de los asuntos de su competencia, por el periodo establecido en los ordenamientos jurídicos;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXII. Realizar acta de entrega-recepción, debiendo entregar toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos, que hayan sido puestos bajo su responsabilidad o guarda y custodia. Esta obligación también será aplicable a las personas servidoras públicas que, por comisión, suplencia, encargo o bajo cualquier otra figura, hayan quedado como personas encargadas provisionales de alguna Unidad Administrativa cuya persona titular deba cumplir con esta obligación, y
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXIII. Las demás que les confiera el ordenamiento jurídico en el ámbito de su competencia o las que determinen las personas de superior jerarquía o la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Las personas titulares de las Coordinaciones Administrativas tendrán las facultades señaladas en las fracciones I, II, III, VIII, IX, X, XII, XIV, XV, XVI, XVII, XIX, XXII, XXVII, XXXI y XXXII del presente artículo.
 
 ###### Artículo 8.
 
 Ejercicio de las facultades.
 
 Las facultades de las personas titulares de las Unidades Administrativas a que se refiere el artículo 5 de este Estatuto Orgánico, se ejercerán por su conducto y por las personas servidoras públicas a su cargo, de conformidad con lo que establezca la persona titular de la Fiscalía General, la persona que sea superior en jerarquía y en los Manuales de Organización y de Procedimientos que se emitan.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Las personas titulares de las Unidades Administrativas previstas en las fracciones II a XII del artículo 11 de la Ley podrán delegar el ejercicio de sus facultades para actos concretos y por tiempo determinado, cuando lo estimen necesario para la mejor gestión de los asuntos a su cargo.
 
 ###### Artículo 9.
 
@@ -643,7 +683,9 @@ Las coordinaciones administrativas podrán realizar notificaciones, vía correo 
 
 Manuales de Organización y de Procedimientos.
 
-Atendiendo a sus necesidades operativas, las personas titulares de las Unidades Administrativas referidas en el artículo 11, fracciones I a XII de la Ley, expedirán los Manuales de Organización y de Procedimientos de las Unidades Administrativas a su cargo, conforme a los lineamientos que emita la persona titular de la Oficialía Mayor, en los cuales incluirán, entre otros elementos, su estructura orgánica, las funciones de cada uno de los puestos considerando que dichas funciones se encuentren alineadas a las atribuciones de las cuales está investida cada una de las Unidades Administrativas, evitando su duplicidad y dando evidencia de los tramos de responsabilidad jurídica, así como el presupuesto y el resumen de plazas por nivel asignados a cada una de las Unidades Administrativas y Subunidades que tengan adscritas para el desempeño de sus funciones, las reglas para la suplencia de las personas servidoras públicas que les estén adscritas y los procedimientos a que deberán ceñirse las Unidades Administrativas que tengan adscritas para el cumplimiento de sus atribuciones.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Atendiendo a sus necesidades operativas, las personas titulares de las Unidades Administrativas referidas en el artículo 11, fracciones I a XII de la Ley, expedirán los Manuales de Organización y de Procedimientos de las Unidades Administrativas a su cargo, conforme a los lineamientos que emita la persona titular de la Oficialía Mayor, en los cuales incluirán, entre otros elementos, su estructura orgánica, las funciones de cada uno de los puestos considerando que dichas funciones se encuentren alineadas a las atribuciones de las cuales está investida cada una de las Unidades Administrativas, evitando su duplicidad y dando evidencia de los tramos de responsabilidad jurídica, las reglas para la suplencia de las personas servidoras públicas que les estén adscritas y los procedimientos a que deberán ceñirse las Unidades Administrativas que tengan adscritas para el cumplimiento de sus atribuciones.
 
 A tal efecto, los Manuales de Organización y de Procedimientos en cada una de las Unidades Administrativas referidas en el artículo 11, fracciones II a XI de la Ley deberán considerar además de lo anterior, las reglas para el turno de los asuntos a su cargo y lo previsto en el Plan Estratégico de Procuración de Justicia, así como las cargas de trabajo reales de conformidad con la información que arroje el Sistema Institucional de Evaluación de Resultados.
 
@@ -683,7 +725,9 @@ La persona titular de la Fiscalía General contará con las personas servidoras 
 
 Las personas titulares de las Unidades Administrativas previstas en el presente Capítulo serán designadas y removidas libremente por la persona titular de la Fiscalía General y dependerán directamente de ésta.
 
-La persona titular de la Fiscalía General, en su calidad de persona Presidente de la Conferencia Nacional de Procuración de Justicia, nombrará y removerá a la persona que desempeñará la Secretaría Técnica, la cual realizará las funciones que se determinan en la Ley General del Sistema Nacional de Seguridad Pública y en los Estatutos de la Conferencia Nacional de Procuración de Justicia.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+La persona titular de la Fiscalía General, en su calidad de persona Presidente de la Conferencia Nacional de Procuración de Justicia, nombrará y removerá a la persona que desempeñará la Secretaría Técnica, la cual realizará las funciones que se determinan en la Ley General del Sistema Nacional de Seguridad Pública y en los Estatutos de la Conferencia Nacional de Procuración de Justicia, además, representará a la Fiscalía General ante el Sistema Nacional de Seguridad Pública y fungirá como enlace ante el Consejo Nacional de Seguridad Pública.
 
 ###### Artículo 15.
 
@@ -723,7 +767,9 @@ V. Supervisar la calidad técnico jurídica, idoneidad y oportunidad de los asun
 
 VI. Prestar apoyo y asesoría en materia jurídica a la persona titular de la Fiscalía General y a las personas titulares de las Unidades Administrativas por instrucciones de la persona titular de la Fiscalía General en el desarrollo de las funciones que les confiere la Constitución, la Ley y las demás disposiciones aplicables;
 
-VII. Supervisar la actuación de la Unidad Especializada en Asuntos Jurídicos, de la Unidad Especializada en Transparencia y Apertura Gubernamental y de la Unidad de Vinculación;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VII. Supervisar la actuación de la Unidad Especializada en Asuntos Jurídicos, de la Unidad Especializada en Transparencia y Apertura Gubernamental, de la Unidad de Vinculación con el Congreso de la Unión y de la Unidad de Enlace y Coordinación;
 
 VIII. Coordinar a las Unidades Administrativas para alcanzar las metas institucionales y acatar las instrucciones de la persona titular de la Fiscalía General;
 
@@ -753,7 +799,11 @@ II. Representar, preparar, presentar y dar seguimiento hasta su total conclusió
 
 III. Elaborar los informes, desahogar requerimientos, interponer los recursos, así como intervenir con las facultades de persona delegada en las audiencias, rendir pruebas, formular alegatos y promover incidentes previstos en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, y realizar las demás actuaciones que resulten procedentes, cuando no sean de la competencia expresa de otra Unidad Administrativa;
 
-IV. Allanarse, transigir, abstenerse de ejercitar acciones y desistirse de ellas en los juicios de su competencia, así como abstenerse de interponer los recursos cuando así proceda;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IV. Allanarse, transigir, abstenerse de ejercitar acciones y desistirse de ellas en los juicios de su competencia, así como abstenerse de interponer los recursos cuando así proceda.
+
+Asimismo, celebrar convenios, transacciones, conciliaciones, y en general cualquier forma de medio alternativo de solución de controversias, en representación de la Fiscalía General, previa opinión, en cada caso, de las personas titulares de la Oficialía Mayor y del Órgano Interno de Control;
 
 V. Designar a las personas servidoras públicas que tengan el carácter de personas delegadas, representantes o apoderadas en los juicios, controversias y asuntos de su competencia, así como revocar dicha designación;
 
@@ -763,9 +813,13 @@ VII. Revisar, proponer y dictaminar los actos o instrumentos jurídicos que se p
 
 VIII. Desahogar los asuntos relativos al apoyo y asesoría en materia jurídica que requiera la persona titular de la Fiscalía General, y las consultas que en el ámbito de su competencia le formulen las Unidades Administrativas, y someterlos a la consideración de la persona titular de la Consejería General;
 
-IX. Revisar y dictaminar los casos en que se proponga la rescisión, suspensión o terminación anticipada de los contratos o convenios en materia de adquisiciones, arrendamientos, servicios y obra pública, así como de los servicios relacionados con esta última;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-X. Sustanciar, en su caso, los procedimientos en que se proponga la rescisión, suspensión o terminación anticipada de los contratos derivados de la ley reglamentaria del artículo 134 de la Constitución y de las demás disposiciones aplicables;
+IX. Recibir y analizar las solicitudes de inicio de los procedimientos de rescisión, suspensión o terminación anticipada de los contratos o convenios en materia de adquisiciones, arrendamientos, servicios y obra pública, así como de los servicios relacionados con esta última, previo dictamen en el que la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria determine la procedencia;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+X. Sustanciar y resolver los procedimientos de rescisión de los contratos derivados de la ley reglamentaria del artículo 134 de la Constitución y de las demás disposiciones aplicables;
 
 XI. Dictaminar, en materia laboral, sobre la procedencia de la terminación de los efectos del nombramiento de las personas servidoras públicas de la Fiscalía General, que por la naturaleza de su nombramiento así corresponda;
 
@@ -797,9 +851,25 @@ XXIV. Desahogar las consultas que en el ámbito de su competencia le sean formul
 
 XXV. Representar a la persona titular de la Fiscalía General en el ejercicio de las facultades que le otorgan los artículos 105, fracciones I, inciso l), II, inciso i), y III, y 107, fracciones V, VIII y XIII, de la Constitución en materia de controversias constitucionales, acciones de inconstitucionalidad, solicitudes de ejercicio de la facultad de atracción y denuncias de contradicción de criterios, respectivamente;
 
-XXVI. Representar a la persona titular de la Fiscalía General en el ejercicio de las facultades que le otorga el artículo 19, fracciones XXXVI, inciso b), y XXXVII, inciso b), de la Ley, en materia de controversias constitucionales y acciones de inconstitucionalidad, en los términos de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXVII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XXVI. Coordinar el seguimiento en el Congreso de la Unión en el proceso legislativo de leyes o decretos que resulten relevantes para el funcionamiento de la Fiscalía General, en coordinación con la Unidad de Vinculación con el Congreso de la Unión;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVII. Prestar apoyo a las Unidades Administrativas en las materias de su competencia, así como para representarlas y asesorarlas en el inicio, trámite e impugnación de procedimientos administrativos ante otras Unidades Administrativas y otros entes públicos, en representación de los intereses de la Fiscalía General;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVIII. Elaborar los escritos de queja, previa solicitud de las personas titulares de las Unidades Administrativas para iniciar el procedimiento de separación, en defensa de los intereses de la Fiscalía General;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIX. Asesorar y colaborar con las personas agentes del Ministerio Público de la Federación en la promoción de los procedimientos de declaración especial de ausencia, de declaración de ausencia y de presunción de muerte conforme a la legislación procedimental aplicable;
+
+XXX. Representar a la persona titular de la Fiscalía General en el ejercicio de las facultades que le otorga el artículo 19, fracciones XXXVI, inciso b), y XXXVII, inciso b), de la Ley, en materia de controversias constitucionales y acciones de inconstitucionalidad, en los términos de la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables, y
+
+XXXI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 18.
 
@@ -861,9 +931,13 @@ XI. Elaborar anteproyectos de iniciativas de ley o de reformas constitucionales 
 
 XII. Realizar opiniones jurídicas sobre las iniciativas de ley o de reformas constitucionales o legales que se presenten en el Congreso de la Unión en las materias competencia de la Fiscalía General, conforme a las instrucciones de la persona titular de la Fiscalía General o de la persona titular de la Unidad Especializada en Asuntos Jurídicos;
 
-XIII. Elaborar y someter a la consideración de la persona titular de la Unidad Especializada en Asuntos Jurídicos las opiniones jurídicas respecto de las consultas que se formulen para la emisión o actualización de protocolos de actuación, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XIII. Dar seguimiento en el Congreso de la Unión al proceso legislativo de leyes o decretos que resulten relevantes para el funcionamiento de la Fiscalía General, en coordinación con la Unidad de Vinculación con el Congreso de la Unión, e informarlo a la persona titular de la Unidad Especializada en Asuntos Jurídicos;
+
+XIV. Elaborar y someter a la consideración de la persona titular de la Unidad Especializada en Asuntos Jurídicos las opiniones jurídicas respecto de las consultas que se formulen para la emisión o actualización de protocolos de actuación, y
+
+XV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 20.
 
@@ -871,21 +945,33 @@ Facultades de la persona titular de la Unidad Especializada en Transparencia y A
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad Especializada en Transparencia y Apertura Gubernamental tendrá las siguientes facultades:
 
-I. Implementar y promover las políticas de transparencia, acceso a la información, protección de datos personales, accesibilidad, gobierno y datos abiertos dentro de la Institución, salvaguardando la información susceptible de ser clasificada como reservada o confidencial, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Informar a la persona que sea su superior en jerarquía cuando una Unidad Administrativa se niegue a colaborar en materia de transparencia, acceso a la información, protección de datos personales y, en su caso, hacer del conocimiento a la Unidad Administrativa competente para iniciar el procedimiento de responsabilidad en caso de que persista la negativa;
+I. Aplicar las políticas en materia de transparencia que emita el Órgano Interno de Control;
 
-III. Desempeñarse como Unidad de enlace de la Oficina del Fiscal General, según lo dispuesto en las disposiciones aplicables en materia de transparencia;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IV. Coordinar la recepción y difusión de la información concerniente a las obligaciones de transparencia conforme a las disposiciones aplicables, además de verificar que todas las Unidades Administrativas publiquen, actualicen y validen la información que generen o posean en ejercicio de sus facultades, competencias y funciones, de conformidad con los acuerdos adoptados por el Comité de Transparencia y los lineamientos que emita el Sistema Nacional de Transparencia para tal fin;
+II. Informar a la persona que sea su superior en jerarquía cuando una Unidad Administrativa se niegue a colaborar en materia de transparencia, acceso a la información, protección de datos personales y, en su caso, hacer del conocimiento al Órgano Interno de Control para que inicie el procedimiento de responsabilidad en caso de que persista la negativa;
 
-V. Recibir y realizar los trámites internos necesarios, ante las Unidades Administrativas, para dar atención a las solicitudes de acceso a la información y de ejercicio de los derechos ARCO, así como efectuar las respectivas notificaciones;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VI. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información y para el ejercicio de derechos ARCO y solicitar a las Unidades Administrativas la información pertinente, a efecto de atender las respuestas a las personas particulares;
+III. Desempeñarse como Unidad de enlace de la Oficina del Fiscal General, de conformidad con las disposiciones aplicables en materia de transparencia y protección de datos personales;
 
-VII. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información; así como solicitar a las Unidades Administrativas la información pertinente, a efecto de tramitar las respuestas correspondientes a las peticiones ciudadanas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VIII. Auxiliar a las personas en la elaboración de solicitudes de acceso a la información, de ejercicio de derechos ARCO y, en su caso, orientarlos sobre los sujetos obligados competentes;
+IV. Recabar y difundir lo relativo a las obligaciones de transparencia comunes y las obligaciones especificas previstas en la Ley General de Transparencia y Acceso a la Información Pública y propiciar que las Unidades Administrativas la actualicen periódicamente, de conformidad con los acuerdos y lineamientos adoptados por el Comité de Transparencia y el Sistema Nacional de Acceso a la Información Pública;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Recibir y realizar los trámites internos necesarios, ante las Unidades Administrativas, para dar atención a las solicitudes de acceso a la información y de ejercicio de los derechos ARCO, así como elaborar las respuestas a los ciudadanos y efectuar las respectivas notificaciones;
+
+VI. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
+
+VII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Auxiliar a las personas particulares en la elaboración de solicitudes de acceso a la información, de ejercicio de derechos ARCO y, en su caso, orientarles sobre los sujetos obligados competentes, conforme a las disposiciones jurídicas aplicables;
 
 IX. Habilitar a las personas servidoras públicas para recibir y dar trámite a las solicitudes de acceso a la información y de ejercicio de derechos ARCO;
 
@@ -895,17 +981,27 @@ XI. Presidir a través de su persona titular, el Comité de Transparencia de la 
 
 XII. Designar y, en su caso, remover a la persona que funja como Secretaria Técnica del Comité de Transparencia de la Institución;
 
-XIII. Proponer al Comité de Transparencia de la Institución los procedimientos internos que aseguren y fortalezcan la eficiencia y eficacia en la gestión de las solicitudes de acceso a la información y de ejercicio de derechos ARCO;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Proponer al Comité de Transparencia de la Institución los procedimientos internos que aseguren y fortalezcan la eficiencia y eficacia en la gestión de las solicitudes de acceso a la información y de ejercicio de derechos ARCO, así como aquellos instrumentos de evaluación de calidad sobre la gestión de las solicitudes y ejercicios de dichos derechos;
 
 XIV. Realizar las acciones necesarias para cumplir con los acuerdos e instrucciones del Comité de Transparencia de la Institución;
 
-XV. Promover acuerdos interinstitucionales con organismos especializados para la atención de solicitudes de información y de ejercicio de derechos ARCO en la lengua indígena, braille o cualquier otro formato accesible;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVI. Ejecutar las acciones a efecto de garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de condiciones, el derecho de acceso a la información y de protección de datos personales;
+XV. Promover acuerdos con instituciones públicas especializadas para la atención de solicitudes de información y de ejercicio de derechos ARCO en la lengua indígena, braille o cualquier otro formato accesible;
 
-XVII. Participar en coordinación con las Unidades Administrativas competentes en el fomento de la capacitación continua y especializada para todas las personas servidoras públicas de la Institución en materia de transparencia, acceso a la información pública, así como de protección de datos personales;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. Coordinar la publicación y difusión de información proactiva y de datos abiertos, así como establecer instrumentos de coordinación con las Unidades Administrativas competentes en materia de gobierno abierto;
+XVI. Ejecutar las acciones a efecto de garantizar que la generación, publicación y entrega de la información sea accesible, confiable, completa, verificable, veraz y oportuna, en términos de lo dispuesto por la legislación y normatividad aplicables;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Participar en colaboración con el Órgano Interno de Control y el Centro de Formación y Servicio Profesional de Carrera, en la capacitación continua y especializada para todas las personas servidoras públicas de la Institución en materia de transparencia, acceso a la información pública, así como de protección de datos personales;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Coordinar la difusión proactiva de la información de interés público y de datos abiertos, así como establecer instrumentos de coordinación con las Unidades Administrativas competentes en materia de apertura institucional;
 
 XIX. Coadyuvar con la persona titular de la Oficialía Mayor en la elaboración de lineamientos para la organización, sistematización y operación de la administración de documentos, archivos y acervos;
 
@@ -913,43 +1009,85 @@ XX. Diseñar e implementar proyectos, estudios y programas permanentes de inform
 
 XXI. Establecer mecanismos de análisis de información estadística en materia de transparencia, rendición de cuentas, acceso a la información, datos abiertos, protección de datos personales y participación ciudadana en la Fiscalía General, en coordinación con la Unidad de Planeación y Coordinación Interinstitucional;
 
-XXII. Determinar e implementar las políticas de transparencia y rendición de cuentas; su accesibilidad; salvaguardar la información de carácter reservado o confidencial conforme a las disposiciones aplicables; así como, realizar las respuestas a las solicitudes de información pública, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXII. Promover e implementar políticas de transparencia con sentido social procurando su accesibilidad; salvaguardar la información de carácter reservado o confidencial conforme a las disposiciones aplicables, y
 
 XXIII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
+> <small>(REFORMADO EPÍGRAFE, D.O.F. 8 DE ABRIL DE 2025)</small>
+
 ###### Artículo 21.
 
-Facultades de la persona titular de la Unidad de Vinculación.
+Facultades de la persona titular de la Unidad de Vinculación con el Congreso de la Unión.
 
-Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Vinculación tendrá las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-I. Fungir como enlace para la coordinación entre la Institución y las dependencias, entidades y entes del gobierno, tanto federales como locales, así como con organizaciones gubernamentales relacionadas con la competencia de la Institución;
+Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Vinculación con el Congreso de la Unión tendrá las siguientes facultades:
 
-II. Proponer, en coordinación con las Unidades Administrativas competentes, la celebración de convenios o acuerdos de la Institución con los tres órdenes de gobierno y con instituciones y organismos de los sectores social y privado, para la ejecución del Plan Estratégico de Procuración de Justicia, así como dar seguimiento a su cumplimiento;
+I. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-III. Fungir como enlace de la Fiscalía General en el Congreso de la Unión, en el Congreso de la Ciudad de México y en las legislaturas de las entidades federativas;
+II. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-IV. Recibir y dar seguimiento a los asuntos del ámbito de competencia de la Fiscalía General en el Congreso de la Unión, en el Congreso de la Ciudad de México y en las legislaturas de las entidades federativas, en coordinación con las dependencias y entidades competentes del Gobierno Federal, y las Unidades Administrativas, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-V. Recibir, canalizar y dar seguimiento a los requerimientos que realizan a la Fiscalía General las cámaras del Congreso de la Unión, el Congreso de la Ciudad de México y las legislaturas de los estados, así como a las gestiones que realicen sus integrantes;
+III. Fungir como enlace de la Fiscalía General en el Congreso de la Unión;
 
-VI. Dar seguimiento en el Senado de la República y en la Cámara de Diputados a las reformas de la competencia de la Fiscalía General que resulten relevantes para su funcionamiento;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IV. Recibir y dar seguimiento en el Congreso de la Unión a los asuntos del ámbito de competencia de la Fiscalía General;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Recibir, canalizar y dar seguimiento a los requerimientos que realizan a la Fiscalía General las Cámaras del Congreso de la Unión, así como a las gestiones que realicen sus integrantes;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VI. Dar seguimiento en el Senado de la República y en la Cámara de Diputados a los procesos legislativos de leyes o decretos que resulten relevantes para el funcionamiento de la Fiscalía General, en coordinación con la Unidad de Normatividad e informarlo a la persona titular de la Unidad Especializada en Asuntos Jurídicos;
 
 VII. Coordinar y conducir ante la Cámara de Diputados la negociación relativa al presupuesto anual del Ramo 49 Fiscalía General de la República correspondiente a la Fiscalía General;
 
 VIII. Acordar ante el Congreso de la Unión los formatos relativos a la comparecencia o reuniones de trabajo a las que se tenga programado que asista la persona titular de la Fiscalía General;
 
-IX. Guardar estrecha relación interinstitucional con las mesas directivas, juntas de coordinación política y coordinadores parlamentarios representados en las Cámaras del Congreso de la Unión;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-X. Representar y coordinar la intervención de la Institución en los trabajos y ante los órganos y entidades que integran el Sistema Nacional de Seguridad Pública, y el Sistema de Seguridad Nacional;
+IX. Guardar estrecha relación interinstitucional con las mesas directivas, juntas de coordinación política y coordinadores parlamentarios representados en las Cámaras del Congreso de la Unión, y
 
-XI. Prestar auxilio a la persona que designe la persona titular de la Fiscalía General para ejercer la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, de conformidad con las disposiciones aplicables;
+X. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XII. Planear, organizar y coordinar la celebración de reuniones, en el marco de los trabajos de la Conferencia Nacional de Procuración de Justicia;
+XI. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XIII. Dar seguimiento a las acciones derivadas de los acuerdos y convenios de colaboración emanados de las reuniones celebradas en el marco de los trabajos de la Conferencia Nacional de Procuración de Justicia, promover su cumplimiento y la cooperación de las instituciones de procuración de justicia del país, en atención a los estatutos emitidos por dicho órgano colegiado, y
+XII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
+
+XIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 XIV. Las demás actividades que le encomiende la persona titular de la Fiscalía General.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 21 Bis.
+
+Facultades de la persona titular de la Unidad de Enlace y Coordinación.
+
+Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Enlace y Coordinación tendrá las siguientes facultades:
+
+I. Prestar auxilio a la persona que designe la persona titular de la Fiscalía General para ejercer la Secretaría Técnica de la Conferencia Nacional de Procuración de Justicia, de conformidad con las disposiciones aplicables;
+
+II. Planear, organizar y coordinar la celebración de reuniones en el marco de los trabajos de la Conferencia Nacional de Procuración de Justicia;
+
+III. Dar seguimiento a las acciones derivadas de los acuerdos y convenios de colaboración emanados de las reuniones celebradas en el marco de los trabajos de la Conferencia Nacional de Procuración de Justicia, promover su cumplimiento y la cooperación de las instituciones de procuración de justicia del país, en atención a los estatutos emitidos por dicho órgano colegiado;
+
+IV. Fungir como enlace para la atención de los actos solicitados en colaboración por las personas integrantes de la Conferencia Nacional de Procuración de Justicia y turnarlos para su cumplimiento a las Unidades Administrativas competentes;
+
+V. Representar y coordinar la intervención de la Institución en los trabajos y ante los órganos y entidades que integran el Sistema Nacional de Seguridad Pública y el Consejo de Seguridad Nacional;
+
+VI. Fungir como enlace de la Fiscalía General ante las entidades que integran el Sistema Nacional de Seguridad Pública y el Consejo de Seguridad Nacional;
+
+VII. Fungir como enlace de la Fiscalía General ante el Congreso de la Ciudad de México y con las legislaturas de las entidades federativas;
+
+VIII. Recibir y dar seguimiento a los asuntos del ámbito de competencia de la Fiscalía General en el Congreso de la Ciudad de México y en las legislaturas de las entidades federativas, de conformidad con las disposiciones aplicables, y
+
+IX. Las demás actividades que le encomiende la persona titular de la Fiscalía General.
 
 ###### Artículo 22.
 
@@ -1027,9 +1165,13 @@ XIV. Expedir el Manual de Identidad Gráfica de la Fiscalía General;
 
 XV. Establecer las políticas, estrategias y demás disposiciones para el desarrollo, contenido y administración de la página de internet de la Fiscalía General, en coordinación con las Unidades Administrativas competentes;
 
-XVI. Determinar el periódico de circulación nacional en el que se efectuará la publicación de los edictos, de manera adicional al Diario Oficial de la Federación. Para efectos de lo anterior, se tomará en consideración aquel periódico de circulación nacional que brinde la mayor cobertura, inmediatez y el menor costo para la Institución, dando cumplimiento en todo momento a los procedimientos establecidos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público o a la normatividad que en su caso se expida, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVII. Las demás funciones que le encomiende la persona titular de la Fiscalía General.
+XVI. Gestionar la publicación de edictos que le sean solicitados para el ejercicio de las facultades de las personas agentes del Ministerio Público de la Federación y las demás Unidades Administrativas, así como emitir los lineamientos correspondientes;
+
+XVII. Determinar el periódico de circulación nacional en el que se efectuará la publicación de los edictos, de manera adicional al Diario Oficial de la Federación. Para efectos de lo anterior, se tomará en consideración aquel periódico de circulación nacional que brinde la mayor cobertura, inmediatez y el menor costo para la Institución, dando cumplimiento en todo momento a los procedimientos establecidos en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público o a la normatividad que en su caso se expida, y
+
+XVIII. Las demás funciones que le encomiende la persona titular de la Fiscalía General.
 
 ###### Artículo 24.
 
@@ -1159,9 +1301,13 @@ X. Fungir como enlace entre las autoridades administrativas, órganos desconcent
 
 XI. Proponer la elaboración de los protocolos de actuación para investigar y perseguir los hechos que la ley señale como delitos en materia de su competencia para ser aplicados por las personas servidoras públicas que tengan adscritas;
 
-XII. Proponer a la persona titular de la Fiscalía General la expedición, modificación o abrogación de protocolos de actuación nacionales o institucionales, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Proporcionar el informe público anual sobre los avances y resultados de su gestión a la persona titular de la Fiscalía General, así como a la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados, a más tardar el quince de enero de cada año.
+XII. Designar a las personas agentes del Ministerio Público de la Federación que en auxilio emitirán el parecer a que se refieren los artículos 133, segundo párrafo y 141, apartado A, quinto párrafo, del Código Federal de Procedimientos Penales;
+
+XIII. Proponer a la persona titular de la Fiscalía General la expedición, modificación o abrogación de protocolos de actuación nacionales o institucionales, y
+
+XIV. Proporcionar el informe público anual sobre los avances y resultados de su gestión a la persona titular de la Fiscalía General, así como a la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados, a más tardar el quince de enero de cada año.
 
 ###### Artículo 32.
 
@@ -1189,7 +1335,9 @@ f. Subunidad de Control y Apoyo Técnico Jurídico a la Litigación;
 
 g. Subunidad del Sistema Procesal Penal Inquisitivo Mixto, y
 
-h. Aquellas que, previo acuerdo con la persona titular de la Fiscalía General, se instalen, las cuales llevarán a cabo las funciones que se detallen en los Manuales de Organización y de Procedimientos que emitan, y
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+h. Aquellas que, previo acuerdo con la persona titular de la Fiscalía General, se instalen, las cuales llevarán a cabo las funciones que se detallen en los Manuales de Organización y de Procedimientos que emitan, previa autorización presupuestal correspondiente.
 
 IV. Las Unidades Administrativas previstas en el presente Estatuto Orgánico, que sean necesarias para el debido ejercicio de las atribuciones a cargo de la Fiscalía Especializada.
 
@@ -1309,9 +1457,13 @@ Subunidad de Control y Apoyo Técnico Jurídico a la Litigación.
 
 La Subunidad de Control y Apoyo Técnico Jurídico a la Litigación se encargará de realizar las funciones siguientes:
 
-I. Brindar apoyo técnico jurídico y de gestión a las personas agentes del Ministerio Público de la Federación adscritas a las Fiscalías Especiales;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Auxiliar en la integración de carpetas de investigación, mediante el apoyo en su revisión, para sugerir actos que aporten elementos para el esclarecimiento de los hechos, y proponer la posible teoría del caso que se presentará ante el órgano jurisdiccional;
+I. Brindar apoyo técnico jurídico y de gestión en coadyuvancia con las personas agentes del Ministerio Público de la Federación adscritas a las Fiscalías Especiales en la investigación y litigación de asuntos a su cargo y participar en la elaboración de estrategias en aquellos casos que, por su relevancia o complejidad, lo ameriten;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Auxiliar en la integración de carpetas de investigación, mediante el apoyo en la revisión de los planes de investigación, para sugerir actos que aporten elementos para el esclarecimiento de los hechos, y proponer la posible teoría del caso que se presentará ante el órgano jurisdiccional, mediante la revisión de pautas y elaboración de guías del actuar ministerial;
 
 III. Auxiliar en la litigación estratégica de los asuntos de alta complejidad y en aquellos que por su importancia y trascendencia así lo instruya la persona titular de la Fiscalía Especializada;
 
@@ -1323,7 +1475,9 @@ V. Las demás funciones que le encomiende la persona titular de la Fiscalía Esp
 
 Subunidad del Sistema Procesal Penal Inquisitivo Mixto.
 
-La Subunidad de Sistema Procesal Penal Inquisitivo Mixto se encargará de realizar las funciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+La Subunidad del Sistema Procesal Penal Inquisitivo Mixto se encargará de realizar las funciones siguientes:
 
 I. Supervisar el proceso y colaborar con las personas agentes del Ministerio Público de la Federación en la integración de las Averiguaciones Previas competencia de la Fiscalía Especializada;
 
@@ -1337,7 +1491,7 @@ V. Revisar las solicitudes o propuestas de no ejercicio de la acción penal que 
 
 VI. Las demás funciones que le encomiende la persona titular de la Fiscalía Especializada.
 
-Con el objeto de que realicen los dictámenes relacionados con el no ejercicio de la acción penal y la reserva, para su posterior autorización en definitiva en los procedimientos penales federales que se tramiten conforme al Código Federal de Procedimientos Penales se seguirá contando con personas agentes del Ministerio Público de la Federación auxiliares, que conservarán las facultades que derivan de las disposiciones aplicables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
 ### CAPÍTULO II. UNIDADES SUSTANTIVAS.
 
@@ -1465,7 +1619,9 @@ Solución de conflictos competenciales.
 
 Para la solución de conflictos competenciales entre las personas agentes del Ministerio Público de la Federación adscritas a las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional, Unidades de Investigación o Equipos Especiales de Investigación y Litigación, se seguirá el procedimiento siguiente:
 
-I. Si al tener conocimiento de hechos que la ley señale como delito, la persona agente del Ministerio Público de la Federación estima que su conocimiento no corresponde a la competencia de la Fiscalía Especial, Fiscalía que integra el Sistema de Coordinación Regional, Unidad de Investigación o Equipo Especial de Investigación y Litigación a la cual se encuentre adscrita lo informará por escrito, de manera debidamente fundada y motivada a la Unidad Administrativa que, de entre éstas, estime competente, una vez que cuente con los elementos para establecer la incompetencia correspondiente, debiendo justificar la temporalidad utilizada para acreditar tal circunstancia, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Si al tener conocimiento de hechos que la ley señale como delito, la persona agente del Ministerio Público de la Federación estima que su conocimiento no corresponde a la competencia de la Fiscalía Especial, Fiscalía que integra el Sistema de Coordinación Regional, Unidad de Investigación o Equipo Especial de Investigación y Litigación a la cual se encuentre adscrita lo informará por escrito dentro de los quince días naturales siguientes a que tenga conocimiento del hecho denunciado o querellado, de manera debidamente fundada y motivada a la Unidad Administrativa que, de entre éstas, estime competente, una vez que cuente con los elementos para establecer la incompetencia correspondiente, debiendo justificar la temporalidad utilizada para acreditar tal circunstancia, y
 
 II. Si la persona agente del Ministerio Público de la Federación adscrita a la Fiscalía Especial, Fiscalía que integra el Sistema de Coordinación Regional, Unidad de Investigación o Equipo Especial de Investigación y Litigación requerida considera que tiene competencia, se avocará al conocimiento del asunto y solicitará le sea remitida inmediatamente la carpeta de investigación.
 
@@ -1519,9 +1675,15 @@ I. Conducir y supervisar, por conducto de las Fiscalías Especiales a su cargo, 
 
 II. Resolver las controversias competenciales entre las diversas Fiscalías Especializadas de la Fiscalía General conforme al procedimiento previsto en el presente Estatuto Orgánico;
 
-III. Atender, previo acuerdo con la persona titular de la Fiscalía General, los asuntos relevantes que le encomiende, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+III. Atender, previo acuerdo con la persona titular de la Fiscalía General, los asuntos relevantes que le encomiende y en su caso turnarlos a la Fiscalía Especial en Investigación de Asuntos Relevantes;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IV. Informar oportunamente a la persona titular de la Fiscalía General el trámite otorgado a los asuntos internacionales en materia de extradiciones y cooperación internacional concernientes al ámbito de competencia de la Institución, y
+
+V. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 47.
 
@@ -1535,7 +1697,9 @@ Facultades de la persona titular de la Fiscalía Especial en Investigación de A
 
 Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Asuntos Relevantes tendrá las siguientes facultades:
 
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos y de los fenómenos delictivos de orden federal que le sean turnados por la persona titular de la Fiscalía Especializada de Control Competencial, previo acuerdo con la persona titular de la Fiscalía General, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Participar en la investigación y persecución de los hechos que la ley señale como delitos y de los fenómenos delictivos del orden federal que le sean turnados por la persona titular de la Fiscalía Especializada de Control Competencial, previo acuerdo con la persona titular de la Fiscalía General y sin limitación alguna por competencia de otra Unidad Administrativa, por especialidad o bien jurídico tutelado, y
 
 II. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
@@ -1565,7 +1729,9 @@ Facultades de la persona titular de la Fiscalía Especial en Investigación de D
 
 Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Delitos Cometidos por personas Servidoras Públicas y Contra la Administración de Justicia tendrá las siguientes facultades:
 
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos cometidos por personas servidoras públicas federales que no se encuentren adscritas a la Fiscalía General y que no se trate de hechos de corrupción tipificados como delito en el Título Décimo del Código Penal Federal;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Participar en la investigación y persecución de los hechos que la ley señale como delitos cometidos por personas servidoras públicas federales en ejercicio de sus funciones, salvo aquellos casos en que el resultado típico se actualice estando adscritas a la Fiscalía General y que no se trate de hechos de corrupción tipificados como delito en el Título Décimo del Código Penal Federal;
 
 II. Participar en la investigación y persecución de los hechos que la ley señale como delitos contra la administración de justicia, previstos en el Código Penal Federal y en leyes especiales del orden federal, y
 
@@ -1583,23 +1749,11 @@ II. Las demás que se establezcan en algún otro ordenamiento jurídico que sea 
 
 ###### Artículo 53.
 
-Facultades de la persona titular de la Fiscalía Especial en Investigación de Delitos de Comercio de Narcóticos Destinados al Consumo Final.
-
-Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Delitos de Comercio de Narcóticos Destinados al Consumo Final tendrá las siguientes facultades:
-
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos contra la salud en su modalidad de narcomenudeo, de competencia federal, previstos en la Ley General de Salud, y
-
-II. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2025)
 
 ###### Artículo 54.
 
-Facultades de la persona titular de la Fiscalía Especial en Investigación de Delitos Sociales y Políticos del Pasado.
-
-Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Delitos Sociales y Políticos del Pasado tendrá las siguientes facultades:
-
-I. Participar en la investigación y, en su caso, persecución de las Averiguaciones Previas y procesos penales relacionados con los homicidios de José Francisco Ruiz Massieu y Juan Jesús Posadas Ocampo, así como de los asuntos que por su importancia y trascendencia le hayan sido o le sean asignados, hasta su conclusión, y
-
-II. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2025)
 
 ###### Artículo 55.
 
@@ -1627,7 +1781,9 @@ IX. Desarrollar mecanismos de seguimiento de las actividades de las Representaci
 
 X. Participar en la investigación y persecución de los hechos que la ley señale como delitos cometidos en el extranjero, en los que se actualice la hipótesis de competencia extraterritorial prevista en el artículo 4° del Código Penal Federal, así como en los casos de delitos cometidos en territorio nacional, en los que se encuentren involucradas personas con inmunidad diplomática o personas representantes de organismos internacionales acreditados en México;
 
-XI. Coordinar los asuntos internacionales competencia de las distintas Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XI. Coordinar los asuntos internacionales competencia de las distintas Unidades Administrativas e informar a la persona titular de la Fiscalía Especializada de Control Competencial los asuntos internacionales concernientes al ámbito de su competencia;
 
 XII. Coordinar la opinión y participación de la Fiscalía General en la negociación de tratados internacionales, así como en la elaboración y celebración de acuerdos interinstitucionales que sean competencia de la Institución, previa opinión de la Unidad Especializada en Asuntos Jurídicos, así como de las Unidades Administrativas competentes, y
 
@@ -1665,9 +1821,13 @@ Facultades de la persona titular de la Unidad de Procedimientos Internacionales.
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Procedimientos Internacionales tendrá las siguientes facultades:
 
-I. Intervenir en los casos de extradición internacional, que formulen las autoridades competentes federales o de las entidades federativas y la Ciudad de México, de conformidad con lo dispuesto por la Constitución, los tratados internacionales en la materia, la Ley de Extradición Internacional, la Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Intervenir y tramitar las peticiones de entrega y recepción de personas solicitadas en extradición, en coordinación con las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional, Unidades de Investigación y fiscalías y procuradurías de las entidades federativas y de la Ciudad de México;
+I. Intervenir en los casos de extradición internacional, que formulen las autoridades competentes federales o de las entidades federativas y la Ciudad de México, de conformidad con lo dispuesto por la Constitución, los tratados internacionales en la materia, la Ley de Extradición Internacional, la Ley y demás disposiciones aplicables, analizando las condiciones jurídicas de procedencia relativas a cada caso;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Intervenir y tramitar, previo análisis de las condiciones jurídicas de procedencia relativas a cada caso, las peticiones de entrega y recepción de personas solicitadas en extradición, en coordinación con las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional, Unidades de Investigación y fiscalías y procuradurías de las entidades federativas y de la Ciudad de México;
 
 III. Participar en los casos en que se reconozca la jurisdicción de la Corte Penal Internacional, en el ámbito de competencia de la Institución;
 
@@ -1681,9 +1841,15 @@ VII. Colaborar con la Policía para la obtención de informes, datos o cooperaci
 
 VIII. Desahogar las consultas en materia de extradición, asistencia jurídica internacional, y análisis jurídico internacional que le sean formuladas por las Unidades Administrativas y otras autoridades;
 
-IX. Establecer, en coordinación con las autoridades competentes, canales de comunicación y mecanismos de cooperación con autoridades extranjeras y organismos internacionales, para realizar diligencias en materias de extradición, asistencia jurídica internacional, traslado de reos, recuperación de activos y otros del ámbito de competencia de la Fiscalía General, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-X. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+IX. Informar a la persona titular de la Fiscalía Especial para Asuntos Internacionales el trámite y conclusión de los asuntos a su cargo;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+X. Establecer, en coordinación con las autoridades competentes, canales de comunicación y mecanismos de cooperación con autoridades extranjeras y organismos internacionales, para realizar diligencias en materias de extradición, asistencia jurídica internacional, traslado de reos, recuperación de activos y otros en el ámbito de competencia de la Fiscalía General, y
+
+XI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 58.
 
@@ -1961,9 +2127,17 @@ X. Informar a la Unidad Especializada en Asuntos Jurídicos, la existencia de te
 
 XI. Recabar, previo al desahogo de la vista referida, la opinión a que se refiere el artículo 18, fracción V, del presente Estatuto Orgánico;
 
-XII. Coordinar con la Unidad de Constitucionalidad las acciones inherentes para el cumplimiento y efectos señalados en las fracciones VI y X del artículo 18 del presente Estatuto Orgánico, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XII. Atender y sustanciar los asuntos que en términos del artículo 102, segundo párrafo del Código Nacional de Procedimientos Civiles y Familiares le sean remitidos en materia de contiendas sobre competencia;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Asesorar y colaborar en la promoción y trámite de los procedimientos de declaración especial de ausencia, declaración de ausencia y presunción de muerte conforme a la legislación procesal que resulte aplicable, por conducto de las personas agentes del Ministerio Público de la Federación adscritas a los órganos jurisdiccionales competentes;
+
+XIV. Coordinar con la Unidad de Constitucionalidad las acciones inherentes para el cumplimiento y efectos señalados en las fracciones VI y X del artículo 18 del presente Estatuto Orgánico, y
+
+XV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 73.
 
@@ -2065,7 +2239,9 @@ Facultades de la persona titular de la Fiscalía Especial en Investigación de O
 
 Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Operaciones con Recursos de Procedencia Ilícita, Falsificación y Alteración de Moneda y Fiscales tendrá las siguientes facultades:
 
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos previstos en el artículo 2 de la Ley Federal contra la Delincuencia Organizada, en relación con el de operaciones con recursos de procedencia ilícita, previsto y sancionado en el artículo 400 Bis del Código Penal Federal y falsificación, uso de moneda falsificada a sabiendas y alteración de moneda, previstos y sancionados en los artículos 234, 236 y 237 del Código Penal Federal, así como los hechos tipificados como delitos de contrabando y su equiparable, previstos en los artículos 102 y 105; los previstos en el artículo 113 Bis, exclusivamente cuando las cifras, cantidad o valor de los comprobantes fiscales que amparan operaciones inexistentes, falsas o actos jurídicos simulados, superen tres veces lo establecido en la fracción III del artículo 108, y de defraudación fiscal, previsto en el artículo 108, así como los supuestos de defraudación fiscal equiparada, previstos en los artículos 109, fracciones I y IV, exclusivamente cuando el monto de lo defraudado supere tres veces lo dispuesto en la fracción III, del artículo 108, todos previstos en el Código Fiscal de la Federación;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Participar en la investigación y persecución de los hechos que la ley señale como delitos previstos en el artículo 2 de la Ley Federal contra la Delincuencia Organizada, en relación con el de operaciones con recursos de procedencia ilícita, previsto y sancionado en el artículo 400 Bis del Código Penal Federal y falsificación, uso de moneda falsificada a sabiendas y alteración de moneda, previstos y sancionados en los artículos 234, 236 y 237 del Código Penal Federal;
 
 II. Ejercer las atribuciones y cumplir las obligaciones que la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita establece para las personas agentes del Ministerio Público de la Federación;
 
@@ -2363,7 +2539,9 @@ Facultades de la persona titular de la Fiscalía Especializada en materia de Der
 
 Adicionalmente a las previstas en el artículo 31 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especializada en materia de Derechos Humanos tendrá las siguientes facultades:
 
-I. Conducir y supervisar, por conducto de las Fiscalías Especiales a su cargo, la investigación y persecución de los hechos que la ley señale como delitos del orden federal previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y en la Ley de Migración; los hechos que la ley señale como delitos cometidos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta; los hechos que la ley señale como delitos del orden federal denunciados por la Comisión Nacional de los Derechos Humanos como consecuencia de recomendaciones por violaciones o violaciones graves a derechos humanos; los hechos que la ley señale como delitos del orden federal en los que el sujeto pasivo o activo del mismo sea una persona migrante y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social, la cual deberá ejercerse obligatoriamente cuando exista una declaración de violaciones graves a derechos humanos; los hechos que la ley señale como delitos del orden federal en los que se encuentren involucradas personas de algún pueblo o comunidad indígena y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Conducir y supervisar, por conducto de las Fiscalías Especiales a su cargo, la investigación y persecución de los hechos que la ley señale como delitos del orden federal previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y en la Ley de Migración; los hechos que la ley señale como delitos cometidos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta; los hechos que la ley señale como delitos del orden federal denunciados por la Comisión Nacional de los Derechos Humanos como consecuencia de recomendaciones por violaciones o violaciones graves a derechos humanos; los delitos que se desprendan de recomendaciones internacionales en materia de derechos humanos; los hechos que la ley señale como delitos del orden federal en los que el sujeto pasivo o activo del mismo sea una persona migrante y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social, la cual deberá ejercerse obligatoriamente cuando exista una declaración de violaciones graves a derechos humanos; los hechos que la ley señale como delitos del orden federal en los que se encuentren involucradas personas de algún pueblo o comunidad indígena y, en ejercicio de la facultad de atracción, cuando se trate de un asunto de trascendencia social, así como en la investigación de delitos sociales y políticos del pasado;
 
 II. Coordinar y proporcionar apoyo a las Unidades Administrativas en el trámite y seguimiento de las Quejas, Conciliaciones y Recomendaciones de la Comisión Nacional de los Derechos Humanos, así como facilitar apoyo técnico jurídico en la materia;
 
@@ -2493,23 +2671,53 @@ Facultades de la persona titular de la Fiscalía Especial para la Investigación
 
 Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial para la Investigación de Delitos relacionados con Recomendaciones de la Comisión Nacional de los Derechos Humanos tendrá las siguientes facultades:
 
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos que se hayan cometido como consecuencia de violaciones o violaciones graves a derechos humanos siempre que preceda denuncia de la Comisión Nacional de los Derechos Humanos, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+I. Participar en la investigación y persecución de los hechos que la ley señale como delitos que se hayan cometido como consecuencia de violaciones o violaciones graves a derechos humanos siempre que preceda denuncia de la Comisión Nacional de los Derechos Humanos, así como continuar con las investigaciones en los casos en que, previo al dictado de la Recomendación, exista una carpeta de investigación en trámite;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Participar en la investigación de los delitos denunciados por el Mecanismo Nacional de Prevención de la Tortura de la Comisión Nacional de los Derechos Humanos, y
+
+III. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+
+> <small>(REFORMADO EPÍGRAFE, D.O.F. 8 DE ABRIL DE 2025)</small>
 
 ###### Artículo 110.
 
-Facultades de la persona titular de la Fiscalía Especial para la atención de Delitos cometidos por Personas Indígenas y Afromexicanas.
+Facultades de la persona titular de la Fiscalía Especial en Investigación de Delitos cometidos por Personas Indígenas y Afromexicanas y en investigación de Delitos Sociales y Políticos del Pasado.
 
-Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial para la atención de Delitos cometidos por Personas Indígenas y Afromexicanas tendrá las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial en Investigación de Delitos cometidos por Personas Indígenas y Afromexicanas y en investigación de Delitos Sociales y Políticos del Pasado tendrá las siguientes facultades:
 
 I. Participar en la investigación y persecución de aquellos hechos que la ley señale como delitos del orden federal no considerados como delincuencia organizada o electorales, en los que se encuentren como imputadas personas que pertenezcan a algún pueblo o comunidad indígena o afromexicana atendiendo a los usos, costumbres y sistemas normativos;
 
 II. Formular opiniones técnico jurídicas en las cuales se tomen en cuenta los tratados, convenios y acuerdos internacionales de los que el Estado Mexicano sea parte, con relación a las diligencias y actuaciones que se practiquen en los procedimientos penales en el orden federal, en los que se encuentre sujeta una o varias personas indiciadas o imputadas pertenecientes a un pueblo o comunidad indígena o afromexicana, y enviarlas oportunamente a la persona agente del Ministerio Público de la Federación que intervenga en el procedimiento de que se trate;
 
-III. Gestionar, cuando así se requiera, el apoyo de personas traductoras o intérpretes para que asistan a personas que pertenezcan a pueblos o comunidades indígenas o afromexicanas que no hablen o no entiendan suficientemente el idioma español, durante el procedimiento penal, en términos de las disposiciones de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+III. Gestionar, cuando así se requiera, el apoyo de personas traductoras o intérpretes para que asistan, durante el procedimiento penal, a personas que pertenezcan a pueblos o comunidades indígenas o afromexicanas que no hablen o no entiendan suficientemente el idioma español, en términos de las disposiciones de la Ley General de Derechos Lingüísticos de los Pueblos Indígenas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IV. Participar en la investigación y, en su caso, persecución de las Averiguaciones Previas y procesos penales relacionados con los homicidios de José Francisco Ruiz Massieu, Juan Jesús Posadas Ocampo y Luis Donaldo Colosio Murrieta, así como en cualquier otra investigación relacionada con los casos o con las personas implicadas en los mismos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Participar en la investigación en materia de desapariciones forzadas de personas durante la década de los años 70 y principios de los 80 del siglo XX, con relevancia social o política;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VI. Participar en la investigación respecto de los hechos ocurridos con motivo de la represión por fuerzas gubernamentales del movimiento estudiantil y popular entre julio y octubre de 1968, así como de la agresión contra los integrantes de la manifestación estudiantil y popular del 10 de junio de 1971;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VII. Participar en la investigación por los hechos probablemente constitutivos de delitos en el contexto de la Guerra Sucia, de represión sistemática y generalizada que se vivió en el estado de Guerrero, cometidos de 1965 a 1990, y
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia o los asuntos que le hayan sido o le sean asignados por la persona que sea su superior en jerarquía, hasta su total conclusión.
 
 ###### Artículo 111.
 
@@ -2619,17 +2827,17 @@ Facultades de la persona titular de la Fiscalía Especial para la Investigación
 
 Adicionalmente a las previstas en el artículo 41 del presente Estatuto Orgánico, la persona titular de la Fiscalía Especial para la Investigación de Delitos Relativos a Hechos de Violencia contra las Mujeres tendrá las siguientes facultades:
 
-I. Participar en la investigación y persecución de los hechos que la ley señale como delitos del orden federal previstos en el Código Penal Federal, relativos a los hechos de violencia contra las mujeres por su condición de género;
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+I. Fungir como la Fiscalía Especializada para atender los hechos que la ley considera como delitos del orden federal relacionados con las violencias de género en contra de las mujeres, prevista en el artículo 2 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-II. Participar en la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes cuando se trate de mujeres víctimas de tortura sexual conforme a los criterios internacionales y nacionales en materia de derechos humanos;
+II. Participar en la investigación y persecución de los hechos que la ley señale como delitos del orden federal previstos en el Código Penal Federal, relativos a los hechos de violencia contra las mujeres por su condición de género;
 
-> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+III. Participar en la investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes cuando se trate de mujeres víctimas de tortura sexual conforme a los criterios internacionales y nacionales en materia de derechos humanos;
 
-III. Cumplir con las obligaciones y facultades que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia para las personas agentes del Ministerio Público de la Federación, y
+IV. Cumplir con las obligaciones y facultades que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia para las personas agentes del Ministerio Público de la Federación, y
 
-IV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+V. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 117.
 
@@ -3333,9 +3541,17 @@ XXVI. Operar, coordinar y supervisar el correcto y oportuno registro, almacenami
 
 XXVII. Coordinar, operar y supervisar el correcto y oportuno registro, almacenamiento, sistematización, control, administración y seguimiento de la información relativa al inicio, trámite y conclusión de las actuaciones de las personas agentes de la Policía Federal Ministerial conforme a la materia de su competencia e implementar las medidas necesarias para que la información referida se entregue de forma periódica al Sistema Institucional de Evaluación de Resultados;
 
-XXVIII. Organizar equipos de personas agentes de la Policía Federal Ministerial capacitadas y especializadas en materia de hechos que por sus características requieran una atención especializada como, entre otros, en los casos de trata de personas, desaparición forzada, o corrupción, y supervisar que tengan una comunicación directa y permanente con las personas agentes del Ministerio Público de la Federación competentes en el conocimiento de estos asuntos, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXIX. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XXVIII. Realizar la asignación y resguardo de armamento, accesorios y municiones, a las personas agentes de la Policía Federal Ministerial, e informar de cada asignación a la Unidad de Seguridad Institucional, para tramitar la credencial institucional que ampare la portación de arma de fuego, de acuerdo con la licencia oficial colectiva otorgada a la Fiscalía General;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIX. Administrar y supervisar los depósitos de armamento y municiones de la Policía Federal Ministerial y designar a las personas agentes de la Policía Federal Ministerial encargadas de su operación;
+
+XXX. Organizar equipos de personas agentes de la Policía Federal Ministerial capacitadas y especializadas en materia de hechos que por sus características requieran una atención especializada como, entre otros, en los casos de trata de personas, desaparición forzada, o corrupción, y supervisar que tengan una comunicación directa y permanente con las personas agentes del Ministerio Público de la Federación competentes en el conocimiento de estos asuntos, y
+
+XXXI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 144.
 
@@ -3721,7 +3937,9 @@ VI. Coordinar, supervisar y evaluar el cumplimiento de los procesos en materia d
 
 VII. Coordinar, supervisar y evaluar el cumplimiento de los protocolos de actuación emitidos por las autoridades competentes, aplicables a las personas agentes de la Policía Federal Ministerial y las personas analistas para el correcto desarrollo de sus funciones;
 
-VIII. Coordinar, supervisar y evaluar el debido y oportuno diseño, construcción, implementación y administración del sistema informático nacional interoperable previsto en el artículo 38 de la Ley, así como del Banco Nacional de Datos Forenses y demás sistemas, bases y bancos de datos institucionales o nacionales, relativos al fenómeno criminal nacional e internacional, así como de los mercados criminales previstos, en su caso, en las leyes especiales, tratados internacionales y demás disposiciones vinculadas con la competencia de la Fiscalía General, conforme a las directrices que en cada caso emita la persona titular de la Agencia de Investigación Criminal;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Coordinar, supervisar y evaluar el debido y oportuno diseño, construcción, implementación y administración del sistema informático nacional interoperable previsto en el artículo 38 de la Ley, así como del Banco Nacional de Datos Forenses y demás sistemas, registros, plataformas, bases y bancos de datos institucionales o nacionales, relativos al fenómeno criminal nacional e internacional, así como de los mercados criminales previstos, en su caso, en las leyes especiales, tratados internacionales y demás disposiciones vinculadas con la competencia de la Fiscalía General, para lo cual podrá realizar acciones que simplifiquen, fusionen o determinen el cierre de su operación, conforme a las directrices que en cada caso emita la persona titular de la Agencia de Investigación Criminal;
 
 IX. Coordinar, supervisar y evaluar las medidas de articulación y colaboración a cargo de las personas agentes de la Policía Federal Ministerial y las personas analistas que implemente la persona titular de la Agencia de Investigación Criminal, conforme a lo previsto en la fracción XII del artículo 128 del presente Estatuto Orgánico;
 
@@ -3943,7 +4161,9 @@ XV. Vigilar que los mecanismos alternativos de solución de controversias se lle
 
 XVI. Celebrar convenios para su adecuado funcionamiento con los servicios auxiliares y complementarios prestados por instituciones públicas o privadas, que puedan coadyuvar para el adecuado cumplimiento de su función, previo acuerdo con la persona titular de la Fiscalía General y el visto bueno de la Unidad Especializada en Asuntos Jurídicos;
 
-XVII. Realizar en conjunto con la persona titular del Órgano de Formación de Servicio Profesional de Carrera las tareas de certificación periódica de las personas facilitadoras, la cual se llevará a cabo de conformidad con los lineamientos emitidos por la Conferencia Nacional de Procuración de Justicia y tendrá una vigencia de tres años, que podrá ser renovable;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Realizar en conjunto con la persona titular del Centro de Formación y Servicio Profesional de Carrera las tareas de certificación periódica de las personas facilitadoras, la cual se llevará a cabo de conformidad con los lineamientos emitidos por la Conferencia Nacional de Procuración de Justicia y tendrá una vigencia de tres años, que podrá ser renovable;
 
 XVIII. Emitir los protocolos de actuación para los asuntos de su competencia y para ser aplicados por las personas servidoras públicas que tengan adscritas;
 
@@ -3973,7 +4193,9 @@ Facultades de la persona titular de la Oficialía Mayor.
 
 Adicionalmente a las previstas en el artículo 16 de la Ley y el artículo 7 del presente Estatuto Orgánico, la persona titular de la Oficialía Mayor tendrá las siguientes facultades:
 
-I. Instruir a las Unidades Administrativas que le están adscritas, la administración y gestión de los recursos humanos, financieros, materiales, patrimoniales, presupuestales, tecnológicos e informáticos de la Fiscalía General y autorizar asuntos críticos, relevantes y estratégicos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Instruir a las Unidades Administrativas que le están adscritas, la administración y gestión de los recursos humanos, financieros, materiales, patrimoniales, presupuestarios, tecnológicos e informáticos de la Fiscalía General y autorizar asuntos críticos, relevantes y estratégicos;
 
 II. Instruir a las Unidades Administrativas que le están adscritas, la administración y gestión de la información administrativa de la Fiscalía General, con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza;
 
@@ -3989,11 +4211,15 @@ VII. Celebrar los acuerdos, bases de colaboración, convenios, contratos y demá
 
 VIII. Interpretar, para efectos administrativos, las disposiciones en materia presupuestaria, adquisiciones, obra pública, gastos de seguridad pública nacional, clima y cultura organizacional, servicio profesional de carrera y las complementarias al Estatuto del Servicio Profesional de Carrera, resolver los casos específicos no previstos y establecer los mecanismos y esquemas de control presupuestario y contable que faciliten la operación y la toma de decisiones;
 
-IX. Establecer los lineamientos para la organización, sistematización y operación de la administración de documentos, archivos y acervos, conforme a las normas que determine el Archivo General de la Nación y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IX. Emitir los lineamientos para la organización, sistematización y operación de la administración de los espacios físicos para albergar los documentos, archivos y acervos de la Institución, tanto materiales como electrónicos, en cumplimiento a las disposiciones que emita el Consejo de Gobierno del Sistema Institucional de Evaluación de Resultados en acatamiento a la normatividad aplicable;
 
 X. Emitir visto bueno de los Manuales de Organización y de Procedimientos previo a su expedición, para que las personas titulares de las Unidades Administrativas previstas en el artículo 11 fracciones I a XIII de la Ley, estén en condiciones de expedirlos, e instruir llevar su registro y resguardo una vez expedidos;
 
-XI. Emitir lineamientos para que con criterios técnicos y austeros se expidan los Manuales de Organización y de Procedimientos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XI. Emitir lineamientos para la elaboración y actualización de los Manuales de Organización y de Procedimientos, con criterios técnicos y alineados a los principios de racionalidad y austeridad republicana;
 
 XII. Emitir el Manual de Remuneraciones de la Fiscalía General;
 
@@ -4005,13 +4231,19 @@ XV. Instruir la gestión y el desarrollo del capital humano de la Institución;
 
 XVI. Ejercer el control presupuestario de los servicios personales;
 
-XVII. Instruir la aplicación, calificación y valoración que se aplican a las personas servidoras públicas de la Institución, respecto de la evaluación de control de confianza, de la evaluación del desempeño y de la evaluación de competencias profesionales;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. Aprobar el modelo de profesionalización y el modelo institucional de competencias profesionales de las personas servidoras públicas de la Institución, orientado a desarrollar sus competencias profesionales y fomentar su permanencia, así como aprobar el Plan de implementación y de madurez de los modelos de profesionalización e institucional de competencias profesionales;
+XVII. Instruir la aplicación, calificación y valoración de las evaluaciones de control de confianza, del desempeño y de competencias profesionales;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Aprobar el Modelo de Profesionalización y el Modelo Institucional de Competencias Profesionales, así como, el Plan de Implementación y del Grado de Madurez del Modelo de Profesionalización y del Modelo Institucional de Competencias Profesionales;
 
 XIX. Instruir el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, contabilidad y evaluación;
 
-XX. Instruir a las Unidades Administrativas que le están adscritas, la administración y ejercicios de los recursos destinados a la procuración de justicia, así como el presupuesto aprobado y autorizado del Ramo 49 Fiscalía General de la República, de conformidad con lo dispuesto en el artículo 87 de la Ley y demás ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XX. Instruir a las Unidades Administrativas que le están adscritas, la administración y ejercicio de los recursos destinados a la procuración de justicia, así como del presupuesto aprobado y autorizado del Ramo 49 Fiscalía General de la República, de conformidad con lo dispuesto en el artículo 87 de la Ley y demás ordenamientos jurídicos aplicables;
 
 XXI. Instruir la integración de los informes específicos o individuales, requeridos por la Auditoría Superior de la Federación en los términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
@@ -4021,13 +4253,17 @@ XXIII. Constituir, representar y coordinar la integración, administración y op
 
 XXIV. Presidir y coordinar la integración, administración y operación del Comité Técnico del Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia”;
 
-XXV. Aprobar los ingresos excedentes por prestación de servicios y el uso de los recursos financieros de la Fiscalía General en materia de contrataciones, ejercicio del gasto, adquisiciones, arrendamientos y contratación de bienes, servicios y obras públicas, así como de asociaciones público-privadas de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXV. Aprobar el destino de los ingresos propios excedentes obtenidos por cualquier rubro de la Ley de Ingresos;
 
 XXVI. Dar seguimiento al ejercicio del presupuesto de la Institución, así como emitir las bases y los lineamientos para llevar a cabo la contabilidad de la Institución con apego a la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
 XXVII. Acordar con la persona titular de la Fiscalía General la cartera institucional de proyectos de inversión para el ejercicio fiscal que corresponda, así como aquellos proyectos de inversión que se requieran adicionar durante la ejecución de la cartera institucional;
 
-XXVIII. Aprobar los proyectos de inversión, para efectos de su incorporación a la cartera institucional, que impliquen erogaciones de gasto de capital destinadas a obra pública, a la adquisición, modificación y/o mantenimiento de inmuebles, o a la adquisición de bienes muebles institucionales, incluyendo rehabilitaciones, que impliquen un aumento en su capacidad o vida útil que impacten a mediano o largo plazo en la contribución de los objetivos de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVIII. Aprobar los proyectos de inversión, para efectos de su incorporación a la cartera institucional, que impliquen erogaciones de gasto de capital destinadas a obra pública, a la adquisición, modificación y/o mantenimiento de inmuebles, o a la adquisición de bienes muebles, incluyendo rehabilitaciones, que impliquen un aumento en su capacidad o vida útil que impacten a mediano o largo plazo en la contribución de los objetivos de la Fiscalía General;
 
 XXIX. Emitir la autorización especial para convocar a procedimientos de contratación, cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se solicite;
 
@@ -4063,7 +4299,9 @@ XLIV. Definir indicadores y metas institucionales, de acuerdo con el Plan Estrat
 
 XLV. Establecer directrices para la generación, sistematización e integración de los informes de las distintas Unidades Administrativas;
 
-XLVI. Instruir la realización de proyectos estratégicos de la Fiscalía General, abarcando desde el diseño hasta la evaluación de éstos, así como implementar los proyectos transversales que determine la persona titular de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XLVI. Instruir el diseño, elaboración y evaluación de proyectos estratégicos de la Fiscalía General, así como implementar los proyectos transversales que determine la persona titular de la Fiscalía General;
 
 XLVII. Instruir la elaboración de estudios sobre el desarrollo organizacional de la Fiscalía General;
 
@@ -4077,7 +4315,9 @@ LI. Instruir que la licencia colectiva de portación de armas para las personas 
 
 LII. Instruir la administración y control de la prestación de los servicios aéreos a la Institución y, en su caso, previa autorización de la persona titular de la Fiscalía General a aquéllos que requieran otras instancias oficiales en los tres niveles de gobierno, siempre que no se afecten las necesidades de la Fiscalía General y de conformidad con las disposiciones aplicables;
 
-LIII. Dictaminar las propuestas de movimientos de estructuras orgánicas y ocupacionales de la Fiscalía General, respetando los principios de racionalidad y austeridad republicana previa determinación de la persona titular de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+LIII. Autorizar las modificaciones a las estructuras orgánicas y ocupacionales de la Fiscalía General, respetando los principios de racionalidad y austeridad republicana previa determinación de la persona titular de la Fiscalía General;
 
 LIV. Instruir a la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados, realizar el seguimiento puntual de los indicadores que midan el desempeño de las Unidades Administrativas y de las personas servidoras públicas encargadas de la Función Sustantiva;
 
@@ -4087,9 +4327,19 @@ LVI. Instruir la identificación de los puestos de niveles inferiores a los desc
 
 LVII. Instruir la integración de los indicadores y metas del desempeño de las Unidades Administrativas y personas servidoras públicas encargadas de la Función Sustantiva y proporcionar el soporte administrativo para las definiciones y mejoras de estos;
 
-LVIII. Proponer al Consejo de Gobierno del Sistema Institucional de Evaluación de Resultados, la integración del grupo de trabajo que realizará la revisión y análisis de la información que remita el Órgano Interno de Control en materia de auditorías, revisiones y visitas que realice con el objeto de examinar, supervisar, fiscalizar, evaluar y promover en la Fiscalía General la eficiencia, eficacia y legalidad en su gestión y el funcionamiento del sistema de control interno, así como de las recomendaciones y las medidas correctivas que se realicen, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-LIX. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+LVIII. Emitir a solicitud de la Unidad Especializada en Asuntos Jurídicos opinión sobre la conveniencia de celebrar convenios, transacciones, conciliaciones y, en general, cualquier forma de medio alternativo de solución de controversias;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+LIX. Aprobar y emitir los programas anuales de adquisiciones, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+LX. Proponer al Consejo de Gobierno del Sistema Institucional de Evaluación de Resultados la integración del grupo de trabajo que revisará y analizará la información que el Órgano Interno de Control remita en materia de auditorías, revisiones y visitas que realice con el objeto de examinar, supervisar, fiscalizar, evaluar y promover en la Fiscalía General la eficiencia, eficacia y legalidad en su gestión y el funcionamiento del sistema de control interno, así como de las recomendaciones y las medidas correctivas que se realicen, y
+
+LXI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ### CAPÍTULO II. ORGANIZACIÓN DE LA OFICIALÍA MAYOR.
 
@@ -4141,11 +4391,15 @@ III. Controlar la asignación de los números y/o folios que correspondan a los 
 
 IV. Coordinar, supervisar y dar seguimiento a la correcta integración del control de gestión de la Oficialía Mayor, y uso de los sellos utilizados para tal efecto;
 
-V. Fijar directrices, dar seguimiento, coordinar y supervisar la correcta aplicación de las leyes y disposiciones en materia de control documental, archivística, clasificación, desclasificación y baja documental;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VI. Administrar y gestionar la información administrativa de la Fiscalía General, en las materias de su competencia con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza;
+V. Supervisar la correcta aplicación de las leyes y disposiciones en materia de control documental, archivística, clasificación, desclasificación y baja documental, en el ámbito de competencia de la Oficialía Mayor;
 
-VII. Proponer a la persona titular de la Oficialía Mayor los lineamientos o normas relativas a la organización, sistematización y operación de la administración de documentos, archivos y acervos, conforme a las normas que determine el Archivo General de la Nación y el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y demás disposiciones aplicables, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VI. Administrar y gestionar la información administrativa de la Fiscalía General, en las materias de su competencia con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza, y
+
+VII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 VIII. Las demás que le encomiende la persona titular de la Oficialía Mayor.
 
@@ -4157,15 +4411,21 @@ Facultades de la persona titular del Centro de Formación y Servicio Profesional
 
 La persona titular del Centro de Formación y Servicio Profesional de Carrera ejercerá sus facultades con autonomía técnica y de gestión, de conformidad con lo dispuesto en el artículo 53 de la Ley, para lo cual, adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico tendrá las siguientes facultades:
 
-I. Proponer a la persona titular de la Oficialía Mayor las normas, políticas, lineamientos, criterios, procedimientos, disposiciones y estrategias estableciendo controles para su cumplimiento en materia de planeación, de prospectiva, de administración y organización de los recursos humanos, de servicios personales, incluidas las de remuneraciones, de compatibilidad de empleos cargos y comisiones, de desarrollo integral y profesionalización, de clima y cultura organizacional, de estructuras orgánicas y ocupacionales, de servicios de carrera, las complementarias al Estatuto del Servicio Profesional de Carrera, de evaluación del desempeño de la Fiscalía General, así como las de regulación, funcionamiento y operación del Centro de Evaluación y Control de Confianza, alineado a los principios de racionalidad y austeridad republicana, así como instruir su aplicación y supervisión;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Proponer a la persona titular de la Oficialía Mayor las normas, políticas, lineamientos, criterios, procedimientos, disposiciones y estrategias, estableciendo controles para su cumplimiento, en materia de planeación prospectiva de estructuras orgánicas y ocupacionales, de administración y organización de los recursos humanos, de servicios personales, incluidas las de remuneraciones, de compatibilidad de empleos, cargos y comisiones, de desarrollo integral y profesionalización, de clima y cultura organizacional, de servicio de carrera, las complementarias al Estatuto del Servicio Profesional de Carrera, de evaluación del desempeño de la Fiscalía General, así como las de regulación, funcionamiento y operación del Centro de Evaluación y Control de Confianza, alineado a los principios de racionalidad y austeridad republicana, así como instruir su aplicación y supervisión;
 
 II. Coordinar la operación y actuación de la Unidad de Planeación y Desarrollo para la Formación de los Recursos Humanos, de la Unidad de Recursos Humanos, del Centro de Evaluación y Control de Confianza y de la Unidad de Servicio Profesional de Carrera;
 
-III. Proponer a la persona titular de la Oficialía Mayor, los lineamientos para la elaboración de los Manuales de Organización y de Procedimientos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+III. Proponer a la persona titular de la Oficialía Mayor, los lineamientos para la elaboración y actualización de los Manuales de Organización y de Procedimientos;
 
 IV. Instruir la integración del catálogo de puestos y la elaboración de los perfiles, en coordinación con las Unidades Administrativas, así como la elaboración de las valuaciones de los puestos;
 
-V. Participar en el análisis de las propuestas de modificaciones de estructuras orgánicas y ocupacionales de la Fiscalía General, respetando los principios de racionalidad y austeridad republicana;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Dictaminar las propuestas de modificaciones de estructuras orgánicas y ocupacionales de la Fiscalía General, respetando los principios de racionalidad y austeridad republicana;
 
 VI. Diseñar e implementar, previo acuerdo con la persona titular de la Oficialía Mayor, planes de estímulos, reconocimientos y apoyos que premien la excelencia en el desempeño individual;
 
@@ -4181,7 +4441,9 @@ XI. Determinar los criterios y métodos necesarios para la operación del sistem
 
 XII. Proponer a la persona titular de la Oficialía Mayor, los planes y programas de estudio para la formación, capacitación, actualización, adiestramiento, especialización y profesionalización, basada en competencias profesionales, así como la promoción de las personas servidoras públicas de la Institución;
 
-XIII. Aprobar la capacitación, actualización y especialización de las personas servidoras públicas de la Institución, los programas de educación a distancia mediante la utilización de los recursos tecnológicos disponibles que satisfagan las necesidades de profesionalización de las personas servidoras públicas de la Institución, así como su calendarización y, en su caso, implementación de acciones específicas en cumplimiento del modelo de profesionalización y del modelo institucional de competencias profesionales en coordinación con las Unidades Administrativas y con el Instituto Nacional de Ciencias Penales, así como con las instituciones educativas, organismos públicos y privados nacionales y extranjeros;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Aprobar la capacitación, actualización y especialización de las personas servidoras públicas de la Institución, los programas de educación a distancia mediante la utilización de los recursos tecnológicos disponibles que satisfagan las necesidades de profesionalización de las personas servidoras públicas de la Institución, así como su calendarización y, en su caso, implementación de acciones específicas en cumplimiento del Modelo de Profesionalización y del Modelo Institucional de Competencias Profesionales en coordinación con las Unidades Administrativas y con el Instituto Nacional de Ciencias Penales, así como con las instituciones educativas, organismos públicos y privados nacionales y extranjeros;
 
 XIV. Coordinar a las personas servidoras públicas encargadas de operar los modelos de profesionalización que deban cumplir las personas servidoras públicas de la Institución;
 
@@ -4241,7 +4503,9 @@ c. Los previstos en el artículo 42 de la Ley General para Prevenir y Sancionar 
 
 d. Los previstos en el artículo 9 de Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita;
 
-e. Los previstos en los artículos 65 y 66, de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+e. Los previstos en los artículos 63, 64, 65 y 66 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
 
 f. Los previstos en el artículo 8o., párrafo cuarto, de la Ley Federal contra la Delincuencia Organizada;
 
@@ -4251,9 +4515,13 @@ h. En su caso, todas aquellas modificaciones, reformas, adiciones que complement
 
 XXV. Administrar y gestionar la información administrativa de la Fiscalía General, en las materias de su competencia con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza;
 
-XXVI. Coordinar a las Unidades Administrativas bajo su adscripción para que realicen la ejecución de los procesos de evaluación de control de confianza, de evaluación del desempeño y de evaluación de competencias profesionales, mediante los cuales se realiza la aplicación, calificación y valoración de las personas servidoras públicas de la Institución;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXVII. Coordinar el diseño y elaboración del modelo de profesionalización y del modelo institucional de competencias profesionales, así como del Plan de implementación y de madurez de los modelos de profesionalización e institucional de competencias profesionales para proponerlos a la aprobación de la persona titular de la Oficialía Mayor;
+XXVI. Coordinar a las Unidades Administrativas bajo su adscripción para que realicen la ejecución de los procesos de evaluación de control de confianza, de evaluación del desempeño y de evaluación de competencias profesionales, mediante los cuales se realiza su aplicación, calificación y valoración a las personas servidoras públicas de la Institución;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVII. Coordinar el diseño y elaboración del Modelo de Profesionalización y del Modelo Institucional de Competencias Profesionales, así como del Plan de Implementación y del Grado de Madurez del Modelo de Profesionalización y del Modelo Institucional de Competencias Profesionales, para proponerlos a la aprobación de la persona titular de la Oficialía Mayor;
 
 XXVIII. Instruir a las Unidades Administrativas bajo su cargo, entre otros, la elaboración de propuestas de mejora continua a los instrumentos, procesos, procedimientos y sistemas de operación que sean de su competencia;
 
@@ -4261,7 +4529,9 @@ XXIX. Instruir la elaboración de estudios sobre el desarrollo organizacional de
 
 XXX. Instruir la evaluación periódica de la estructura organizacional de la Fiscalía General, para asegurar que se alinea con los objetivos institucionales y, en su caso, ha sido adaptada y actualizada para cumplir con algún objetivo emergente;
 
-XXXI. Coordinar los servicios y prestaciones a las personas servidoras públicas estableciendo controles que permitan mejorar los procesos de operación e instruir las evaluaciones de calidad de los mismos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXI. Coordinar los servicios y prestaciones correspondientes, que otorga la Institución a las personas servidoras públicas, estableciendo controles que permitan mejorar los procesos de operación e instruir las evaluaciones de calidad de los mismos;
 
 XXXII. Participar en coordinación con la Unidad Especializada de Presupuesto y Tesorería, en la integración del anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República de los servicios personales;
 
@@ -4285,49 +4555,99 @@ Facultades de la persona titular de la Unidad de Planeación y Desarrollo para l
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Planeación y Desarrollo para la Formación de los Recursos Humanos tendrá las siguientes facultades:
 
-I. Diseñar y elaborar el modelo institucional de competencias profesionales con la participación del Instituto Nacional de Ciencias Penales, así como diseñar y elaborar el Plan de implementación y del grado de madurez de los modelos de profesionalización e institucional de competencias profesionales con la participación del Centro de Evaluación y Control de Confianza y de la Unidad de Servicio Profesional de Carrera, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Planear y organizar los procesos para el diseño, desarrollo del Modelo de Competencias Institucionales de la Fiscalía General y coordinar su integración con la participación del Instituto Nacional de Ciencias Penales y mantenerlo actualizado, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+I. Diseñar y elaborar el Modelo Institucional de Competencias Profesionales con la participación del Instituto Nacional de Ciencias Penales, así como, el Plan de Implementación y del Grado de Madurez del Modelo Institucional de Competencias Profesionales, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-III. Diseñar y organizar en coordinación con el Instituto Nacional de Ciencias Penales y la Unidad de Servicio Profesional de Carrera la capacitación, actualización y especialización basada en competencias profesionales que realice el Instituto Nacional de Ciencias Penales a las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras en las materias y técnicas de su especialización, así como en relación con las disposiciones aplicables de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IV. Coordinar con el Instituto Nacional de Ciencias Penales el diseño y elaboración de los cursos, basado en competencias profesionales, que se hayan definido en el Programa Anual de Capacitación, incluida la formación Ética y Profesional en la Fiscalía General, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+II. Diseñar y elaborar con la participación del Centro de Evaluación y Control de Confianza y de la Unidad de Servicio Profesional de Carrera, el Plan de Implementación y del Grado de Madurez del Modelo de Profesionalización conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-V. Coordinar la emisión de los planes y programas de estudio con el Instituto Nacional de Ciencias Penales, para la formación, capacitación, actualización, adiestramiento, especialización y profesionalización, basadas en competencias profesionales, así como la promoción de las personas servidoras públicas de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VI. Coordinar la capacitación, actualización y especialización que realice el Instituto Nacional de Ciencias Penales de las personas servidoras públicas de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+III. Planear y organizar los procesos para el diseño y desarrollo del Modelo Institucional de Competencias Profesionales de la Fiscalía General y coordinar su integración con la participación del Instituto Nacional de Ciencias Penales y mantenerlo actualizado, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-VII. Promover la implementación de programas de educación a distancia, mediante la utilización de los recursos tecnológicos disponibles que satisfagan las necesidades de profesionalización de las personas servidoras públicas de la Institución, en coordinación con las Unidades Administrativas, el Instituto Nacional de Ciencias Penales y otras instituciones competentes en la materia, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VIII. Proponer las actividades de coordinación e intercambio científico y tecnológico, así como para la profesionalización de las personas servidoras públicas de la Institución que complementen y fortalezcan las propias, con instituciones, organizaciones u organismos públicos y privados, que realicen actividades afines, y en su caso, elaborar los proyectos de convenio, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+IV. Diseñar y organizar en coordinación con el Instituto Nacional de Ciencias Penales y la Unidad de Servicio Profesional de Carrera, la capacitación, actualización y especialización basadas en las competencias profesionales que se brinden a las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras en las materias y técnicas de su especialización, de conformidad con las disposiciones aplicables de la Institución y las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-IX. Identificar las necesidades de recursos humanos de las Unidades Administrativas conforme a su modelo de gestión y metas establecidas en el Sistema Institucional de Evaluación de Resultados para el eficiente y eficaz desarrollo de la Función Sustantiva, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-X. Realizar la evaluación periódica de la estructura organizacional de la Institución y analizarla, para asegurar que se alinea con los objetivos institucionales y, en su caso, ha sido adaptada y actualizada para cumplir con algún objetivo emergente en coordinación con la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados y con la Unidad de Planeación y Coordinación Interinstitucional, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+V. Coordinar con el Instituto Nacional de Ciencias Penales el diseño y elaboración de los cursos, basados en las competencias profesionales, que se hayan definido en el Programa Anual de Capacitación, incluyendo la formación Ética y Profesional en la Fiscalía General, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XI. Realizar el análisis de los proyectos de Manuales de Organización y de procedimientos de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XII. Diseñar y elaborar las normas, políticas, lineamientos, criterios, procedimientos, disposiciones y estrategias estableciendo controles para su cumplimiento en materia de planeación, prospectiva con una visión de justicia e igualdad de género de estructuras orgánicas y ocupacionales alineadas a los principios de racionalidad y austeridad republicana, así como coordinar su aplicación y supervisión, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+VI. Coordinar la emisión de los planes y programas de estudio con el Instituto Nacional de Ciencias Penales, para la formación, capacitación, actualización, adiestramiento, especialización y profesionalización, basadas en las competencias profesionales;
 
-XIII. Operar en el ámbito de su competencia el sistema de registro de la información relativa a la aplicación del modelo de profesionalización de las personas servidoras públicas de la Institución y realizar la explotación de información para la generación de informes diversos, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIV. Identificar las acciones de formación profesional iniciales y futuras requeridas por el talento humano en la Institución, para su desarrollo y permanencia, así como coordinar su implementación con las Unidades Administrativas competentes;
+VII. Coordinar la promoción de las personas servidoras públicas de la Institución de conformidad con el esquema que para tal fin desarrolle la Unidad de Servicio Profesional de Carrera, de acuerdo con las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XV. Coordinar con la participación de las Unidades Administrativas, la detección de las necesidades institucionales en materia de capacitación, actualización, especialización, desarrollo humano, académico, certificación, adiestramiento y profesionalización de las personas servidoras públicas de conformidad con lo dispuesto en la Ley y, en el caso de las Fiscalías Especializadas, Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional, de las Unidades de Investigación, y de la Agencia de Investigación Criminal, atendiendo a su especialización, con las características adicionales que establecen las leyes, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVI. Coordinar el proceso de alineación de puestos con la participación de las Unidades Administrativas, derivado del proceso de descripción y perfilamiento, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+VIII. Coordinar la capacitación, actualización y especialización que realice el Instituto Nacional de Ciencias Penales, de las personas servidoras públicas de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XVII. Coordinar la elaboración de la normativa aplicable al proceso de descripción, perfilamiento y valuación de puestos de la institución, así como la disposiciones y procedimientos sobre el desarrollo del servicio profesional de carrera, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. Elaborar e integrar las propuestas de mejora continua a los instrumentos, procesos, procedimientos y sistemas de operación, entre otros, que contribuyan a la eficiencia y eficacia de los servicios que se prestan;
+IX. Promover la implementación y actualización de programas de educación a distancia, mediante la utilización de los recursos tecnológicos disponibles que satisfagan las necesidades de profesionalización de las personas servidoras públicas de la Institución, en coordinación con las Unidades Administrativas, el Instituto Nacional de Ciencias Penales y otras instituciones competentes en la materia, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XIX. Coordinar el proceso de evaluación de la calidad de los servicios que prestan las Unidades Administrativas que integran el Centro de Formación y Servicio Profesional de Carrera, conforme a las instrucciones de su persona titular;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XX. Coordinar el proceso de planeación de los servicios que permita establecer indicadores de medición para la mejora de los procesos de operación, así como la determinación de estándares de los servicios que se prestan a las personas que integran la Fiscalía General y, cuando sea el caso, a sus familiares, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+X. Proponer actividades de coordinación e intercambio científico, tecnológico y de profesionalización para las personas servidoras públicas de la Institución que las complementen y fortalezcan, con instituciones, organizaciones u organismos públicos y privados que realicen actividades afines, y en su caso, elaborar los proyectos de convenios, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XXI. Coordinar y elaborar los estudios sobre el desarrollo organizacional de la Fiscalía General con la participación de las Unidades Administrativas, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera, y
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XI. Identificar las necesidades de recursos humanos de las Unidades Administrativas conforme a su modelo de gestión y metas establecidas en el Sistema Institucional de Evaluación de Resultados para el eficiente y eficaz desarrollo de la Función Sustantiva, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XII. Realizar el análisis y la evaluación periódica de la estructura organizacional de la Institución, para asegurar que la misma se encuentre alineada con los objetivos institucionales y, en su caso, que ha sido adaptada y actualizada para cumplir con algún objetivo emergente, lo cual se realizará en coordinación con la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados y con la Unidad de Planeación y Coordinación Interinstitucional, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Realizar el análisis de los proyectos de Manuales de Organización y de Procedimientos de la Fiscalía General;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIV. Diseñar y elaborar los proyectos de normas, políticas, lineamientos, criterios, procedimientos, disposiciones y estrategias, estableciendo controles para su cumplimiento, en materia de planeación prospectiva de estructuras orgánicas y ocupacionales con una visión de justicia e igualdad de género y alineadas a los principios de racionalidad y austeridad republicana; así como, coordinar su aplicación y supervisión, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XV. Operar, en el ámbito de su competencia, el sistema de registro de la información relativa a la aplicación del Modelo de Profesionalización de las personas servidoras públicas de la Institución, así como, realizar la explotación de la información para la generación de informes diversos, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVI. Identificar las acciones de formación profesional iniciales y continuas requeridas, para el desarrollo y permanencia del talento humano, así como, coordinar su implementación con las Unidades Administrativas competentes;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Coordinar, con la participación de las Unidades Administrativas, la detección de las necesidades institucionales en materia de capacitación, actualización, especialización, desarrollo humano, académico, certificación, adiestramiento y profesionalización de las personas servidoras públicas, de conformidad con lo dispuesto en la Ley. En el caso de las Fiscalías Especializadas, Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional, así como, de las Unidades de Investigación, y de la Agencia de Investigación Criminal, se realizará atendiendo a su especialización, con las características adicionales que establecen las leyes respectivas. Lo anterior de conformidad con las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Proponer, a la persona titular del Centro de Formación y Servicio Profesional de Carrera, políticas relativas al análisis de puestos para determinar su alineación en la estructura organizacional de la Institución;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIX. Colaborar en la elaboración de la normativa aplicable al proceso de descripción, perfilamiento y valuación de puestos de la Institución, así como de las disposiciones y procedimientos sobre el desarrollo del servicio profesional de carrera, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XX. Elaborar las propuestas de mejora continua a los instrumentos, procesos, procedimientos y sistemas de operación, entre otros, que contribuyan a la eficiencia y eficacia de los servicios que presta; e integrar las correspondientes de las Unidades Administrativas que conforman el Centro de Formación y Servicio Profesional de Carrera;
+
+XXI. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXII. Coordinar el proceso de planeación y de evaluación de la calidad de los servicios que permita establecer indicadores de medición y estándares de servicios para la mejora de los procesos de operación, que prestan las Unidades Administrativas que integran el Centro de Formación y Servicio Profesional de Carrera, a las personas servidoras públicas de la Fiscalía General y, cuando sea el caso, a sus familiares, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIII. Coordinar y elaborar los estudios sobre el desarrollo organizacional de la Fiscalía General con la participación de las Unidades Administrativas, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 176.
 
@@ -4337,7 +4657,9 @@ Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico
 
 I. Diseñar y elaborar las normas, políticas, lineamientos, criterios, procedimientos, disposiciones y estrategias estableciendo controles para su cumplimiento en materia de administración y organización de los recursos humanos, de servicios personales incluidas las de remuneraciones, de compatibilidad de empleos cargos y comisiones, con una visión de justicia e igualdad de género, de estructuras orgánicas y ocupacionales alineadas a los principios de racionalidad y austeridad republicana, así como coordinar su aplicación y supervisión, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-II. Coordinar con la participación de las Unidades Administrativas la integración del Catálogo de Puestos de la Institución y gestionar sus cambios, así mismo proponer los datos que deban de incorporarse a éste para la mejora continua de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Coordinar con la participación de las Unidades Administrativas la integración del Catálogo de Puestos de la Institución y gestionar sus cambios;
 
 III. Conducir el análisis e integrar las modificaciones y justificaciones de la estructura orgánica y ocupacional de la Institución, respetando los principios de racionalidad y austeridad republicana y elaborar el proyecto de análisis y dictamen;
 
@@ -4347,7 +4669,9 @@ V. Proporcionar a las personas servidoras públicas y, en su caso, a sus familia
 
 VI. Realizar el pago de remuneraciones y demás prestaciones, así como de la liquidación a las personas servidoras públicas de la Institución, y aplicar los descuentos procedentes o declarar su prescripción, previa consulta a la Unidad Especializada en Asuntos Jurídicos conforme al ordenamiento jurídico;
 
-VII. Expedir y suscribir las credenciales de las personas servidoras públicas de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VII. Diseñar, expedir y suscribir las credenciales de identificación de las personas servidoras públicas de la Fiscalía General;
 
 VIII. Gestionar y administrar los seguros de las personas servidoras públicas de la Institución, según corresponda de conformidad con las disposiciones aplicables;
 
@@ -4367,7 +4691,9 @@ XV. Integrar y controlar los expedientes de las personas servidoras públicas de
 
 XVI. Participar con la Unidad de Servicio Profesional de Carrera, en el registro de la información sobre los procedimientos administrativos o penales a que sean sujetas las personas servidoras públicas de la Institución y notificar a las Unidades Administrativas competentes para que lleven a cabo las acciones que procedan;
 
-XVII. Registrar y, en su caso, aplicar las sanciones a las que se hagan acreedoras las personas servidoras públicas de la Institución, salvo en lo que compete al régimen disciplinario normado por otras disposiciones distintas a la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del apartado “B” del artículo 123 de la Constitución y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Registrar y, en su caso, aplicar las sanciones o medidas sobre el sueldo o funciones a las que se hagan acreedoras las personas servidoras públicas de la Institución, salvo en lo que compete al régimen disciplinario normado por otras disposiciones distintas a la Ley Federal de los Trabajadores al Servicio del Estado Reglamentaria del apartado "B" del artículo 123 de la Constitución y demás disposiciones aplicables;
 
 XVIII. Tramitar y, en su caso, emitir las constancias de nombramiento, licencias, reubicación, cambios de adscripción y bajas de las personas servidoras públicas de la Institución, de conformidad con las disposiciones aplicables en coordinación con las Unidades Administrativas competentes;
 
@@ -4393,7 +4719,9 @@ XXVIII. Proponer la normatividad aplicable al proceso de valuación de puestos d
 
 XXIX. Elaborar las propuestas de mejora continua a los instrumentos, procesos, procedimientos y sistemas de operación, entre otros, que contribuyan a la eficiencia y eficacia de los servicios que se prestan;
 
-XXX. Proponer a la persona titular del Centro de Formación y Servicio Profesional de Carrera los lineamientos para la elaboración de los Manuales de Organización y de Procedimientos con criterios técnicos y austeros;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXX. Proponer a la persona titular del Centro de Formación y Servicio Profesional de Carrera los lineamientos para la elaboración y actualización de los Manuales de Organización y de Procedimientos con criterios técnicos y austeros;
 
 XXXI. Operar en el ámbito de su competencia el registro y actualización de las personas aspirantes a ingresar a la Institución y de sus personas servidoras públicas en un sistema de información;
 
@@ -4403,9 +4731,15 @@ XXXIII. Participar en la elaboración de los perfiles de los puestos y realizar 
 
 XXXIV. Proponer las actividades de coordinación e intercambio científico y tecnológico, así como para la profesionalización de las personas servidoras públicas de la Institución y del Instituto Nacional de Ciencias Penales que complementen y fortalezcan las propias, con instituciones, organizaciones u organismos públicos y privados, que realicen actividades afines y, en su caso, elaborar los proyectos de convenio que correspondan, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XXXV. Proponer los datos que deban incorporarse a los perfiles de los puestos para mejorar la calidad de las valuaciones de puestos como parte de la mejora continua de la Fiscalía General, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXXVI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XXXV. Celebrar contratos, convenios y demás instrumentos jurídicos, en materia de recursos humanos, hasta por el monto autorizado en las disposiciones generales que emita la persona titular de la Oficialía Mayor;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXVI. Proponer los datos que deban incorporarse en las descripciones y los perfiles de los puestos para mejorar la calidad de las valuaciones de puestos de la Fiscalía General, y
+
+XXXVII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 177.
 
@@ -4439,7 +4773,9 @@ XII. Expedir el Certificado Único Policial de las personas servidoras públicas
 
 XIII. Cancelar certificados, cuando sea procedente;
 
-XIV. Resguardar y custodiar los expedientes que se integren con motivo de los procesos de evaluación y certificación, los cuales tendrán el carácter de información reservada y confidencial, incluyendo los datos personales, información y documentos que obren en los mismos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIV. Resguardar y custodiar la información generada que se integre con motivo de los procesos de evaluación y certificación, los cuales tendrán el carácter de información reservada y confidencial, incluyendo los datos personales, información y documentos que obren en los mismos;
 
 XV. Transferir la información que le sea requerida por las autoridades judiciales o administrativas competentes conservando su clasificación de conformidad con las disposiciones aplicables;
 
@@ -4455,7 +4791,9 @@ XX. Operar en el ámbito de su competencia el registro y actualización de las p
 
 XXI. Operar en el ámbito de su competencia el sistema de registro de la información relativa a la aplicación del modelo de profesionalización de las personas servidoras públicas de la Institución y realizar la explotación de información para la generación de informes diversos, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
-XXII. Participar en el diseño y elaboración del modelo de profesionalización y del modelo institucional de competencias profesionales, así como del Plan de implementación y del grado de madurez de los modelos de profesionalización e institucional de competencias profesionales, en coordinación con las Unidades de Planeación y Desarrollo para la Formación de los Recursos Humanos y del Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXII. Participar en el diseño y elaboración del Modelo de Profesionalización y del Modelo Institucional de Competencias Profesionales, así como del Plan de Implementación y del Grado de Madurez de los Modelos de Profesionalización e Institucional de Competencias Profesionales, en coordinación con las Unidades de Planeación y Desarrollo para la Formación de los Recursos Humanos y de Servicio Profesional de Carrera;
 
 XXIII. Participar en la elaboración de la normativa aplicable al proceso de perfilamiento de puestos de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
@@ -4475,13 +4813,15 @@ Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico
 
 I. Diseñar y elaborar políticas, criterios institucionales, procesos, procedimientos, lineamientos, y convocatorias en materia de servicio profesional de carrera, para lo cual promoverá la participación de las Unidades Administrativas competentes, del Instituto Nacional de Ciencias Penales y de otras instituciones de educación superior, así como darles seguimiento y promover su estricta observancia;
 
-II. Realizar los Proyectos de descripción y perfil de puestos de las personas servidoras públicas de la Institución;
+II. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 III. Elaborar los planes de carrera de acuerdo con la adscripción de puesto y perfiles en coordinación con las Unidades Administrativas;
 
 IV. Tramitar, resolver y ejecutar los procedimientos para la formación, ascenso, adscripción, y otorgamiento de estímulos, reconocimientos o apoyos respecto de las personas servidoras públicas de la Institución;
 
-V. Coordinar el diseño, instrumentación, valoración y ejecución de los sistemas de evaluación del desempeño profesional de las personas servidoras públicas de la Institución;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Coordinar el diseño, instrumentación, valoración y ejecución del sistema de monitoreo y evaluación del desempeño de las personas servidoras públicas de la Institución;
 
 VI. Realizar las gestiones administrativas que resulten de los procedimientos de reclutamiento, selección, contratación, movimientos y comisiones de las personas servidoras públicas de la Institución;
 
@@ -4501,7 +4841,9 @@ XIII. Iniciar, tramitar, sustanciar y ejecutar el procedimiento de separación a
 
 XIV. Realizar en coordinación con la Unidad de Recursos Humanos, el registro de la información sobre los procedimientos administrativos o penales a que sean sujetas las personas servidoras públicas de la Institución y notificar a las instancias competentes para que se lleven a cabo las acciones que procedan;
 
-XV. Diseñar contenidos de capacitación, actualización y especialización basado en competencias profesionales de las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras en las materias y técnicas de su especialización, así como en relación con las disposiciones aplicables de la Institución, incluyendo al personal de apoyo a la labor sustantiva;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XV. Participar, en coordinación con la Unidad de Planeación y Desarrollo para la Formación de los Recursos Humanos y el Instituto Nacional de Ciencias Penales, en el diseño de los contenidos de capacitación, actualización y especialización basado en competencias profesionales de las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras en las materias y técnicas de su especialización, así como en relación con las disposiciones aplicables de la Institución, incluyendo al personal de apoyo a la labor sustantiva;
 
 XVI. Diseñar y proponer un modelo de profesionalización, así como participar con la Unidad de Planeación y Desarrollo para la Formación de los Recursos Humanos en el diseño y construcción del Plan de implementación y del grado de madurez de los modelos de profesionalización e institucional de competencias profesionales, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
@@ -4509,9 +4851,13 @@ XVII. Diseñar y proponer a la persona titular del Centro de Formación y Servic
 
 XVIII. Ejecutar los procesos del servicio profesional de carrera, con base en los principios de autonomía, legalidad, objetividad, eficiencia, profesionalismo, honradez, respeto a los derechos humanos, interculturalidad, perspectiva de protección integral de los derechos de la niñez y adolescencia, debida diligencia, lealtad, imparcialidad, especialidad y perspectiva de género;
 
-XIX. Diseñar con la participación de las Unidades Administrativas perfiles de puestos de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XX. Elaborar la normativa aplicable al proceso de descripción, perfilamiento de puestos de la Institución, así como establecer las disposiciones y procedimientos sobre el desarrollo del servicio profesional de carrera, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+XIX. Diseñar con la participación de las Unidades Administrativas los perfiles de puestos de la Institución, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XX. Coordinar y elaborar, con la participación de las Unidades Administrativas correspondientes, la normativa aplicable al proceso de descripción, perfilamiento de puestos de la Institución, así como establecer las disposiciones y procedimientos sobre el desarrollo del servicio profesional de carrera;
 
 XXI. Elaborar las propuestas de mejora continua a los instrumentos, procesos, procedimientos y sistemas de operación, entre otros, que contribuyan a la eficiencia y eficacia de los servicios que se prestan;
 
@@ -4519,7 +4865,9 @@ XXII. Proponer a la persona titular del Centro de Formación y Servicio Profesio
 
 XXIII. Operar en el ámbito de su competencia el registro y actualización de las personas aspirantes a ingresar a la Institución y de sus personas servidoras públicas en un sistema de información;
 
-XXIV. Operar en el ámbito de su competencia un sistema de registro de la información relativa a la aplicación del modelo de profesionalización de las personas servidoras públicas de la Institución y realizar la explotación de información;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIV. Administrar y operar en el ámbito de su competencia un sistema de registro de la información relativa a la aplicación del modelo de profesionalización de las personas servidoras públicas de la Institución y aprovechar la obtención de información para beneficio de la Institución;
 
 XXV. Participar en el ámbito de su competencia en la coordinación de la detección de las necesidades institucionales en materia de capacitación, actualización, especialización, desarrollo humano, académico, certificación, adiestramiento y profesionalización de las personas servidoras públicas con la participación de las Unidades Administrativas, de conformidad con lo dispuesto en la Ley y, en el caso de las Fiscalías Especializadas, Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional, de las Unidades de Investigación, y de la Agencia de Investigación Criminal, atendiendo a su especialización, con las características adicionales que establecen otras leyes;
 
@@ -4527,7 +4875,7 @@ XXVI. Participar en coordinación con la Unidad de Planeación y Desarrollo para
 
 XXVII. Participar en la calendarización de los cursos de capacitación y de formación profesional, y en su caso, implementar acciones específicas en cumplimiento del modelo de profesionalización y del modelo institucional de competencias profesionales, con la Unidad de Planeación y Desarrollo para la Formación de los Recursos Humanos, así como con las instituciones educativas, organismos públicos y privados nacionales y extranjeros;
 
-XXVIII. Promover la implementación de programas de educación a distancia, mediante el uso de los recursos tecnológicos disponibles que satisfagan las necesidades de profesionalización de las personas servidoras públicas de la Institución, en coordinación con las Unidades Administrativas, el Instituto Nacional de Ciencias Penales y otras instituciones competentes en la materia, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
+XXVIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 XXIX. Proponer las actividades de coordinación e intercambio científico y tecnológico, así como para la profesionalización de las personas servidoras públicas de la Institución que complementen y fortalezcan las propias, con instituciones, organizaciones u organismos públicos y privados, que realicen actividades afines, y en su caso, elaborar los proyectos de convenio que correspondan, conforme a las instrucciones de la persona titular del Centro de Formación y Servicio Profesional de Carrera;
 
@@ -4559,7 +4907,9 @@ VI. Determinar criterios que procuren la eficiencia del ejercicio del gasto e im
 
 VII. Supervisar el trámite y, en su caso, autorizar las adecuaciones presupuestarias que soliciten las Unidades Administrativas Responsables;
 
-VIII. Supervisar las validaciones de suficiencia presupuestaria que requieran las Unidades Administrativas Responsables con cargo a su presupuesto asignado, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Supervisar las validaciones de suficiencia presupuestaria que requieran las Unidades Administrativas Responsables con cargo a su presupuesto autorizado, conforme a las disposiciones aplicables;
 
 IX. Dirigir la integración de la cartera de proyectos de inversión y el seguimiento a su avance presupuestario, con base en las disposiciones aplicables;
 
@@ -4569,7 +4919,9 @@ XI. Supervisar el cumplimiento de las disposiciones en materia presupuestaria re
 
 XII. Proponer las políticas y criterios institucionales para la contratación de los servicios financieros que se requieran para el cumplimiento de las funciones de la Fiscalía General;
 
-XIII. Autorizar la apertura de las cuentas bancarias que soliciten las Unidades Administrativas Responsables para el ejercicio de sus funciones, de acuerdo con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Autorizar la apertura y, en su caso, contratar las cuentas bancarias que soliciten las Unidades Administrativas Responsables para el ejercicio de sus funciones, de acuerdo con las disposiciones aplicables;
 
 XIV. Supervisar la realización de las ministraciones y de los pagos para cumplir con las obligaciones a cargo de la Fiscalía General;
 
@@ -4579,9 +4931,13 @@ XVI. Dictar las medidas para la administración de la liquidez, incluyendo la po
 
 XVII. Supervisar la recepción de ingresos propios excedentes que le correspondan a la Fiscalía General y proponer su destino para su asignación al presupuesto autorizado, en términos de las disposiciones aplicables;
 
-XVIII. Diseñar las políticas y criterios para la recepción, control, custodia, cancelación y liberación de las garantías que deban otorgarse a favor de la Fiscalía General, previa la calificación y aceptación de las mismas por el área contratante, así como su envío a la Unidad Administrativa Responsable para el ejercicio de las acciones legales que procedan;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIX. Establecer medidas y criterios para mejorar el proceso para la expresión razonable de la información financiera, así como promover la actualización periódica del Manual de Contabilidad Gubernamental de la Fiscalía General de la República y de los procedimientos contenidos en el mismo;
+XVIII. Proponer las disposiciones que regulan la gestión integral de los procesos vinculados a las garantías otorgadas a favor de la Fiscalía General, por contratos celebrados en procedimientos de contratación de obras o de adquisición y arrendamiento de bienes y prestación de servicios;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIX. Establecer medidas y criterios que contribuyan a la presentación razonable de la información financiera, así como promover la actualización periódica del Manual de Contabilidad Gubernamental de la Fiscalía General de la República;
 
 XX. Supervisar el proceso de elaboración de los estados financieros y los informes de rendición de cuentas, incluyendo la cuenta pública, en cumplimiento a las disposiciones aplicables;
 
@@ -4589,7 +4945,9 @@ XXI. Conducir, en colaboración con las Unidades Administrativas, así como con 
 
 XXII. Vigilar la gestión para la publicación de los estados financieros, la información programática y presupuestaria en la página de internet de la Fiscalía General; la integración y envío a la Secretaría de Hacienda y Crédito Público de la información correspondiente al Informe Trimestral sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública; así como la publicación trimestral en el Diario Oficial de la Federación de los ingresos en el periodo, incluyendo los rendimientos financieros; egresos; destino y saldo de los fideicomisos, mandatos y contratos análogos en los que participe la Fiscalía General;
 
-XXIII. Planear y diseñar los procesos de guarda y custodia de la documentación original que justifique y compruebe las operaciones financieras de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIII. Supervisar los procesos de guarda y custodia de la documentación original que justifique y compruebe las operaciones financieras de la Fiscalía General, conforme a las disposiciones aplicables;
 
 XXIV. Determinar las acciones conducentes para la operación y administración de los sistemas presupuestario, contable y financiero con los que opere la Fiscalía General;
 
@@ -4611,7 +4969,9 @@ Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico
 
 I. Dar seguimiento al ejercicio del gasto y, en su caso, proponer las medidas necesarias para optimizar la aplicación de los recursos presupuestarios mediante su reasignación;
 
-II. Dirigir la integración, en materia presupuestaria, la cartera institucional de los proyectos de inversión y coordinar el seguimiento de su avance financiero;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Dirigir la integración, en materia presupuestaria, de la cartera institucional de los proyectos de inversión y coordinar el seguimiento de su avance financiero;
 
 III. Coadyuvar en la presentación de las declaraciones de carácter fiscal y efectuar el entero de las retenciones que la Fiscalía General debe realizar por concepto de impuestos, derechos, cuotas de seguridad social y demás contribuciones, en términos de las disposiciones aplicables;
 
@@ -4621,33 +4981,49 @@ V. Coadyuvar en la concertación de la estructura programática de la Fiscalía 
 
 VI. Conducir la integración del anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República, conforme a las disposiciones aplicables;
 
-VII. Dirigir la integración del calendario de gasto del Presupuesto de Egresos aprobado del Ramo 49 Fiscalía General de la República;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VIII. Informar a las Unidades Administrativas Responsables del presupuesto aprobado y su calendario de gasto autorizado;
+VII. Dirigir la integración del calendario del Presupuesto de Egresos aprobado del Ramo 49 Fiscalía General de la República;
 
-IX. Apoyar en la emisión de las validaciones de suficiencia presupuestaria que requieran las Unidades Administrativas Responsables, con cargo a su presupuesto asignado, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Informar a las Unidades Administrativas Responsables del presupuesto aprobado y su calendario;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IX. Apoyar en la emisión de las validaciones de suficiencia presupuestaria que requieran las Unidades Administrativas Responsables, con cargo a su presupuesto autorizado, conforme a las disposiciones aplicables;
 
 X. Vigilar el cumplimiento de las disposiciones en materia presupuestaria respecto de las solicitudes de contrataciones anticipadas y proponer la autorización correspondiente;
 
-XI. Dirigir el trámite de las solicitudes de adecuación presupuestaria de las Unidades Administrativas Responsables y, en su caso, emitir su autorización, así como verificar su aplicación al presupuesto modificado de la institución;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XI. Dirigir el trámite de las solicitudes de adecuación presupuestaria de las Unidades Administrativas Responsables y, en su caso, emitir su autorización, así como verificar su registro en el presupuesto autorizado;
 
 XII. Vigilar el cumplimiento de las disposiciones en materia presupuestaria respecto de las solicitudes de contrataciones plurianuales y proponer la autorización correspondiente;
 
 XIII. Auxiliar en el proceso de validación en materia presupuestaria y, conforme al marco normativo, de las solicitudes de oficio de liberación de inversión, así como el registro presupuestario correspondiente en el capítulo de gasto respectivo;
 
-XIV. Vigilar el registro presupuestario de los ingresos excedentes captados, a efecto de que se amplíe el techo presupuestario y se proceda a su asignación correspondiente;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIV. Vigilar el registro presupuestario de los ingresos propios excedentes obtenidos, a efecto de que se amplíe el techo presupuestario y se proceda a su asignación correspondiente;
 
 XV. Dirigir la atención de solicitudes de trámite, asignación, ejercicio y comprobación de viáticos de las Unidades Administrativas Responsables;
 
-XVI. Dirigir el proceso de fiscalización de la documentación justificativa y comprobatoria del gasto que presentan las Unidades Administrativas Responsables del sector central para la generación de cuentas por liquidar con cargo a su presupuesto disponible autorizado;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVII. Coordinar y supervisar la operación, mantenimiento y actualización del sistema informático presupuestario;
+XVI. Dirigir los procesos de verificación de la documentación justificativa y comprobatoria del gasto que presentan las Unidades Administrativas Responsables de oficinas centrales para la generación de cuentas por liquidar con cargo a su presupuesto autorizado; así como el de trámite de solicitudes de pago que presentan las Fiscalías Federales con base en la aprobación que emite la Coordinación Administrativa en la Fiscalía Especializada de Control Regional respecto de la documentación justificativa y comprobatoria original que se encuentra en guardia y custodia de dichas Fiscalías;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Coordinar las acciones para la operación, mantenimiento y actualización de los sistemas de registro y control presupuestario;
 
 XVIII. Supervisar el apoyo que se brinda a las Unidades Administrativas Responsables en materia presupuestaria, así como del ejercicio del gasto, a efecto de que presenten los trámites correspondientes;
 
 XIX. Coordinar el seguimiento del avance financiero de los proyectos de inversión de la Fiscalía General;
 
-XX. Conducir la integración, en coordinación con las Unidades Administrativas Responsables, los reportes del ejercicio del presupuesto para los informes institucionales;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XX. Conducir la integración, en coordinación con las Unidades Administrativas Responsables, de los reportes del ejercicio del presupuesto para los informes institucionales;
 
 XXI. Elaborar reportes en materia presupuestaria y del ejercicio del gasto, y
 
@@ -4661,19 +5037,29 @@ Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico
 
 I. Dirigir el proceso para que la recaudación de los ingresos provenientes de la aplicación de la Ley de Ingresos de la Federación, así como los demás ingresos que correspondan a la Fiscalía General, se realice conforme a las disposiciones aplicables;
 
-II. Gestionar ante la Tesorería de la Federación, las acciones necesarias para que la Fiscalía General reciba la ministración de recursos presupuestarios que le corresponda conforme al calendario de gasto autorizado;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-III. Gestionar ante las instancias correspondientes, las acciones necesarias para que la Fiscalía General reciba los ingresos propios excedentes que le correspondan conforme a las disposiciones aplicables;
+II. Gestionar ante la Tesorería de la Federación, las acciones necesarias para que la Fiscalía General reciba la ministración de recursos presupuestarios que le corresponda conforme al calendario del presupuesto autorizado;
 
-IV. Establecer el proceso a través del cual las Unidades Administrativas Responsables deberán reintegrar a la Unidad Especializada de Presupuesto y Tesorería los recursos no ejercidos durante el ejercicio fiscal corriente, y su posterior incorporación a las disponibilidades financieras de la Institución;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-V. Autorizar las ministraciones y los pagos para el cumplimiento de las obligaciones a cargo de la Fiscalía General, con base en las solicitudes de pago previamente aceptadas por el área fiscalizadora correspondiente, de conformidad con las disposiciones aplicables;
+III. Gestionar ante las instancias correspondientes, el registro de los ingresos propios excedentes obtenidos a favor de la Fiscalía General por cualquier concepto en el rubro correspondiente de la Ley de Ingresos, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+IV. Proponer y dirigir los procesos a través de los cuales las Unidades Administrativas Responsables deberán reintegrar los recursos líquidos no ejercidos, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Autorizar las ministraciones y los pagos para el cumplimiento de las obligaciones a cargo de la Fiscalía General, con base en las solicitudes de pago realizadas por el área competente correspondiente, de conformidad con las disposiciones aplicables;
 
 VI. Autorizar la ejecución de las ministraciones correspondientes a las cuentas requeridas, conforme a las solicitudes realizadas por la Unidad de Recursos Humanos para el pago de Servicios Personales;
 
 VII. Supervisar que el proceso de entrega de los recursos financieros autorizados, por concepto de Gastos de Seguridad Pública y Nacional, a las Unidades Administrativas Responsables correspondientes, se realice de conformidad con los procedimientos y controles administrativos establecidos en las disposiciones aplicables;
 
-VIII. Conducir el proceso requerido para la asignación de recursos del Fondo Rotatorio a las diversas Unidades Administrativas Responsables, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Conducir el proceso para la asignación de recursos del Fondo Rotatorio a las diversas Unidades Administrativas Responsables, de conformidad con las disposiciones aplicables;
 
 IX. Instruir las acciones requeridas para el cumplimiento de las obligaciones de pago que deriven de resoluciones emitidas por autoridad competente, solicitados por las Unidades Administrativas Responsables, previa opinión favorable de la Unidad Especializada en Asuntos Jurídicos;
 
@@ -4689,7 +5075,9 @@ XIV. Determinar la elaboración de los análisis estadísticos y financieros de 
 
 XV. Supervisar la posición diaria e integración de las disponibilidades financieras de la Fiscalía General, necesarias para cubrir las obligaciones de pago de la Institución y cumplir con la estrategia de inversión autorizada;
 
-XVI. Coadyuvar en la supervisión de la operación, mantenimiento y actualización del sistema informático financiero;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVI. Coordinar las acciones para la operación, mantenimiento y actualización de los sistemas de registro y control de las operaciones financieras;
 
 XVII. Determinar la estructura de cuentas y servicios financieros requeridos para la captación de recursos monetarios, pago de obligaciones e inversión de disponibilidades financieras de la Fiscalía General;
 
@@ -4711,25 +5099,35 @@ Facultades de la Unidad de Contabilidad y Rendición de Cuentas.
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Contabilidad y Rendición de Cuentas tendrá las siguientes facultades:
 
-I. Registrar en la contabilidad de la Institución los ingresos obtenidos, así como los gastos realizados, incluyendo los correspondientes a los recursos del Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia”;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Registrar en la contabilidad las transacciones que lleve a cabo la Institución, expresadas en términos monetarios, captando los diversos eventos económicos identificables y cuantificables que afecten los bienes e inversiones, las obligaciones y pasivos, así como el patrimonio, incorporando las correspondientes a las realizadas con los recursos del Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia”;
 
 II. Coordinar y vigilar la integración y depuración de las cuentas contables de débitos, créditos y saldos, así como de los activos fijos y movimientos de almacenes relacionadas con las operaciones financieras y patrimoniales de la Fiscalía General;
 
-III. Elaborar los proyectos de medidas y criterios para mejorar el proceso para la expresión razonable de la información financiera, así como elaborar y promover la actualización periódica del Manual de Contabilidad Gubernamental de la Fiscalía General de la República;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+III. Elaborar los proyectos de medidas y criterios que contribuyan a la presentación razonable de la información financiera, así como llevar a cabo la actualización periódica del Manual de Contabilidad Gubernamental de la Fiscalía General de la República;
 
 IV. Conducir la elaboración y actualización de las disposiciones, esquemas o mecanismos que deberán observar las Unidades Administrativas Responsables en materia programática y contable, conforme a las disposiciones legales aplicables;
 
-V. Conducir la incorporación en la contabilidad de la institución de los bienes muebles e inmuebles y cualquier otro activo adquirido con recursos administrados por el Fideicomiso denominado "Fondo para el Mejoramiento de la Procuración de Justicia”;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Conducir la incorporación en la contabilidad de la institución de los bienes muebles e inmuebles y cualquier otro activo no circulante adquirido con recursos presupuestarios y con los del Fideicomiso denominado "Fondo para el Mejoramiento de la Procuración de Justicia”;
 
 VI. Coordinar la atención de los requerimientos de las autoridades competentes en materia de Contabilidad Gubernamental, así como fungir como enlace ante la Unidad de Contabilidad Gubernamental de la Secretaría de Hacienda y Crédito Público;
 
-VII. Coordinar y supervisar la operación, mantenimiento y actualización del sistema informático contable;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VII. Coordinar las acciones para la operación, mantenimiento y actualización de los sistemas de registro y control contable;
 
 VIII. Integrar y analizar el proceso de rendición de cuentas mediante la armonización de la información programática, presupuestaria y contable;
 
 IX. Aprobar la información financiera y la correspondiente a la de rendición de cuentas, incluyendo el Informe de Avance de Gestión Financiera y de la Cuenta Pública, en la forma y términos de las disposiciones aplicables;
 
-X. Participar en la publicación de los estados financieros, así como de la información programática y presupuestaria en la página de internet de la Fiscalía General, así como integrar y remitir a la Secretaría de Hacienda y Crédito Público, la información correspondiente al Informe Trimestral sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+X. Enviar para su publicación los estados financieros, la información programática y presupuestaria, en la página de internet de la Fiscalía General, asimismo, integrar y remitir a la Secretaría de Hacienda y Crédito Público, la información correspondiente al Informe Trimestral sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública;
 
 XI. Coordinar la integración de la información sobre objetivos, metas e indicadores de desempeño de los programas presupuestarios para la rendición de cuentas, así como fungir como enlace ante la Unidad de Evaluación del Desempeño de la Secretaría de Hacienda y Crédito Público;
 
@@ -4745,7 +5143,9 @@ XVI. Conducir el seguimiento de las metas de los indicadores de desempeño de la
 
 XVII. Vigilar el registro en el sistema que para tal efecto disponga la Secretaría de Hacienda y Crédito Público, referente a las solicitudes de modificación de las metas de los indicadores de desempeño que presenten las Unidades Administrativas Responsables;
 
-XVIII. Administrar el proceso de resguardo, custodia, digitalización y conservación de los expedientes que soportan documentalmente el registro de las transacciones financieras;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Administrar el proceso de guarda, custodia, digitalización y conservación de los expedientes que soportan documentalmente el registro de las transacciones financieras de las Unidades Administrativas Responsables de oficinas centrales, excepto el de las Fiscalías Federales, las cuales conservan en guardia y custodia la documentación justificativa y comprobatoria original;
 
 XIX. Realizar las gestiones administrativas para la baja de la documentación contable de la institución que ha cumplido su plazo de conservación, conforme a las disposiciones aplicables;
 
@@ -4787,9 +5187,13 @@ X. Elaborar, en coordinación con la Unidad de Control Presupuestario, los crite
 
 XI. Emitir opinión respecto a los instrumentos jurídicos, convenios, contratos, acuerdos u otros actos análogos que involucren recursos presupuestarios, que deba suscribir la persona titular de la Unidad Especializada de Presupuesto y Tesorería;
 
-XII. Elaborar los proyectos de instrumentos normativos y técnicos, así como los esquemas y mecanismos que se requieran para mejor proveer la administración y operación en materia de las garantías no fiscales, que deban otorgarse a favor de la Fiscalía General; en sus etapas de recepción, control, custodia y liberación, previa calificación y aceptación por la Unidad Administrativa contratante, en su caso, coadyuvar y proporcionar la información que requiera la Unidad Especializada en Asuntos Jurídicos para la defensa jurídica de la Fiscalía General, ante las instancias jurisdiccionales que correspondan;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Fungir como enlace, y atender las solicitudes de acceso a la información en materia de transparencia, en colaboración con las Unidades adscritas a la Unidad Especializada de Presupuesto y Tesorería; dar seguimiento al cumplimiento de las demás obligaciones de transparencia, de conformidad con las disposiciones legales aplicables, así como dar cumplimiento a las obligaciones de transparencia del Fideicomiso denominado “Fondo para el Mejoramiento de la Procuración de Justicia”;
+XII. Elaborar, los proyectos de disposiciones que regulan la gestión integral de los procesos vinculados a la calificación, aceptación, control, guarda y custodia, liberación, cancelación, devolución, efectividad, registro contable, y trámite de los ingresos excedentes de las garantías otorgadas a favor de la Fiscalía General, por contratos celebrados en procedimientos de contratación de obras o de adquisición y arrendamiento de bienes y prestación de servicios, en la forma y términos de la normatividad aplicable, para aprobación superior;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Fungir como enlace, y atender las solicitudes de acceso a la información en materia de transparencia y protección de datos personales, en colaboración con las Unidades adscritas a la Unidad Especializada de Presupuesto y Tesorería; dar seguimiento al cumplimiento de las demás obligaciones de transparencia y protección de datos personales, de conformidad con las disposiciones legales aplicables, así como dar cumplimiento a las obligaciones de transparencia y protección de datos personales del Fideicomiso denominado "Fondo para el Mejoramiento de la Procuración de Justicia";
 
 XIV. Coordinar con las Unidades Administrativas competentes la ejecución del pago de resoluciones emitidas por autoridad competente, previa opinión favorable de la Unidad Especializada en Asuntos Jurídicos y en términos de las disposiciones aplicables;
 
@@ -4797,9 +5201,29 @@ XV. Participar en los Órganos Colegiados, que le sean designados en términos d
 
 XVI. Elaborar y proponer la interpretación de las disposiciones en las materias presupuestaria y contable; resolver los casos no previstos, así como atender las consultas que formulen las Unidades Administrativas Responsables en dichas materias;
 
-XVII. Elaborar el análisis para la determinación del monto a cobrar de los productos o aprovechamientos por arrendamiento de bienes muebles e inmuebles o prestación de servicios, con base en la información que proporcionen las Unidades Administrativas solicitantes y en coordinación con las áreas competentes en la materia, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. Las demás que se establezcan en algún otro ordenamiento jurídico en el ámbito de su competencia.
+XVII. Administrar el sistema de control y seguimiento de las garantías otorgadas a favor de la Fiscalía General, por contratos celebrados en procedimientos de contratación de obras o de adquisición y arrendamiento de bienes y prestación de servicios, en términos de las disposiciones aplicables, así como aprobar el registro de inscripción en dicho sistema;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Recibir las garantías otorgadas a favor de la Fiscalía General, por contratos celebrados en procedimientos de contratación de obras o de adquisición y arrendamiento de bienes y prestación de servicios, para su guarda y custodia;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIX. Aprobar el registro de la liberación de las garantías otorgadas a favor de la Fiscalía General, por contratos celebrados en procedimientos de contratación de obras o de adquisición y arrendamiento de bienes y prestación de servicios en el sistema de control y seguimiento, y remitir las mismas a la Unidad Administrativa contratante, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XX. Solicitar el requerimiento de pago para la efectividad de las garantías otorgadas a favor de la Fiscalía General, por contratos celebrados en procedimientos de contratación de obras o de adquisición y arrendamiento de bienes y prestación de servicios, ante las instituciones financieras correspondientes, previa solicitud de la Unidad Administrativa contratante; en la forma y términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXI. Verificar que las solicitudes de pago en cumplimiento de resoluciones emitidas por autoridad competente cuenten con la documentación justificativa y comprobatoria correspondiente;
+
+XXII. Elaborar el análisis para la determinación del monto a cobrar de los productos o aprovechamientos por arrendamiento de bienes muebles e inmuebles o prestación de servicios, con base en la información que proporcionen las Unidades Administrativas solicitantes y en coordinación con las áreas competentes en la materia, y
+
+XXIII. Las demás que se establezcan en algún otro ordenamiento jurídico en el ámbito de su competencia.
 
 ### CAPÍTULO V. UNIDAD ESPECIALIZADA DE RECURSOS, SERVICIOS E INFRAESTRUCTURA INMOBILIARIA.
 
@@ -4809,43 +5233,87 @@ Facultades de la persona titular de la Unidad Especializada de Recursos, Servici
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria tendrá las siguientes facultades:
 
-I. Administrar e Implementar, conforme a las disposiciones aplicables, los procesos y procedimientos de administración de los recursos materiales, servicios, obras públicas y servicios relacionados con las mismas y proponer reformas a las disposiciones que no se encuentren reguladas en la materia;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Administrar el programa de adquisiciones, arrendamientos y contratación de servicios, obras públicas y servicios relacionados con las mismas, así como vigilar y supervisar su avance;
+I. Administrar e implementar, conforme a las disposiciones aplicables, los procesos y procedimientos de administración de los recursos materiales, servicios generales, obras públicas y servicios relacionados con las mismas y proponer reformas a las disposiciones que no se encuentren reguladas en la materia;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Someter a aprobación de la persona titular de la Oficialía Mayor los programas anuales de adquisiciones, arrendamientos y servicios y de obras públicas y servicios relacionados con las mismas, así como vigilar y supervisar su avance;
 
 III. Ejercer en el ámbito de su competencia, las atribuciones que, conforme a la Ley Federal para la Administración y Enajenación de los Bienes del Sector Público y demás disposiciones aplicables, le correspondan a la Fiscalía General;
 
-IV. Fungir como responsable inmobiliario y administrador de los recursos materiales, para lo cual desempeñará las funciones que en materia de bienes muebles e inmuebles le confiere la Ley General de Bienes Nacionales;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE ABRIL DE 2025)</small>
 
-V. Proponer a la persona titular de la Oficialía Mayor la expedición de normas, políticas, manuales, procedimientos y lineamientos, para la transparente, eficiente y justificada ejecución de los procesos de adquisiciones, arrendamientos, servicios, obra pública, enajenación de bienes muebles, control presupuestal y patrimonio inmobiliario de la Fiscalía General;
+IV. Implementar un sistema de administración inmobiliaria, como responsable inmobiliario, para lo cual contará con las facultades siguientes:
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+a. Determinar la situación física, jurídica y administrativa de los inmuebles de la Fiscalía General de manera conjunta con las coordinaciones administrativas de las Unidades Administrativas previstas en el artículo 11, fracciones II a XIII, de la Ley;
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+b. Emitir el programa anual inmobiliario de la Fiscalía General;
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+c. Operar los acervos documentales e informativos de los inmuebles de la Fiscalía General;
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+d. Adoptar las medidas conducentes para la adecuada conservación, mantenimiento, vigilancia y, en su caso, aseguramiento contra daños, de los inmuebles de la Fiscalía General, y
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+e. Dar aviso en forma inmediata a la Unidad Especializada en Asuntos Jurídicos de cualquier hecho o acto jurídico que se realice con violación a la Ley General de Bienes Nacionales, respecto de los inmuebles que tiene destinados y los que forman parte del patrimonio de la Fiscalía General.
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Proponer a la persona titular de la Oficialía Mayor la expedición de normas, políticas, manuales, procedimientos y lineamientos, en el ámbito de su competencia;
 
 VI. Supervisar que los procesos relativos a las adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, en cuanto a su planeación, programación, presupuestación y ejecución cumplan con las disposiciones aplicables;
 
 VII. Supervisar el proceso de ejecución del Programa Anual de Disposición Final de Bienes Muebles y de los procesos de desincorporación, en cumplimiento a las disposiciones aplicables;
 
-VIII. Realizar las contrataciones públicas de bienes servicios, arrendamientos, ejecución de obras y servicios relacionados con las mismas, así como suscribir los instrumentos jurídicos hasta por el monto autorizado, en los términos previstos en los ordenamientos jurídicos aplicables; dar seguimiento a los compromisos contractuales, y al otorgamiento de los anticipos y pagos correspondientes, en coordinación con las áreas requirentes y la Unidad Especializada de Presupuesto y Tesorería;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IX. Determinar e instaurar los procedimientos de rescisión, suspensión, terminación anticipada de los contratos o convenios en materia de adquisiciones, arrendamientos, servicios, así como de obras públicas y servicios relacionados con las mismas; dar vista a la Unidad Especializada en Asuntos Jurídicos y hacer del conocimiento al Órgano Interno de Control de la Fiscalía General los casos que se presenten;
+VIII. Celebrar contratos, convenios y suscribir los instrumentos jurídicos en materia de contrataciones públicas de adquisición de bienes, servicios generales, arrendamientos, ejecución de obras y servicios relacionados con las mismas, así como contar con un registro del cumplimiento de compromisos contractuales y de pagos en coordinación con la Unidad Especializada de Presupuesto y Tesorería y las áreas requirentes quienes proporcionarán la información de manera anual;
 
-X. Abastecer y racionalizar los recursos materiales y servicios que requieran las Unidades Administrativas, así como administrar el patrimonio inmobiliario y el aseguramiento de bienes;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XI. Evaluar y supervisar los proyectos de construcción, mantenimiento, conservación y adaptación de inmuebles propiedad o en uso de la Fiscalía General que aseguren el aprovechamiento del activo;
+IX. Integrar los expedientes correspondientes y emitir un dictamen respecto a la procedencia de las solicitudes para iniciar los procedimientos de rescisión, suspensión, terminación anticipada de contratos o convenios en materia de adquisiciones, arrendamientos, servicios, así como de obras públicas y servicios relacionados con las mismas, cuando se reúnan los elementos necesarios para, en su caso, remitir el expediente y el dictamen a la Unidad Especializada en Asuntos Jurídicos y una vez que ésta resuelva, informar al Órgano Interno de Control de la Fiscalía General las resoluciones correspondientes;
 
-> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XII. Integrar y ejecutar el Programa de Seguros Patrimoniales de la Fiscalía General;
+X. Abastecer los recursos materiales y servicios que requieran las Unidades Administrativas, así como administrar el patrimonio inmobiliario y el aseguramiento de bienes;
 
-XIII. Instruir la prestación de servicios generales, de apoyo, incluidas las solicitudes de servicios de transporte en sus distintas modalidades;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XI. Evaluar y supervisar los trabajos de construcción, instalación, ampliación, adecuación, remodelación, restauración, conservación, mantenimiento, modificación y demolición de inmuebles propiedad o en uso de la Fiscalía General que aseguren su máximo aprovechamiento;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XII. Emitir y ejecutar el programa de seguros patrimoniales de la Fiscalía General;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Instruir la prestación de servicios generales y de apoyo, incluidas las solicitudes de servicios de transporte en sus distintas modalidades;
 
 XIV. Instruir los servicios de archivo conforme a las disposiciones emitidas en materia de archivo, transparencia, acceso a la información pública y protección de datos personales;
 
 XV. Administrar y gestionar la información administrativa de la Fiscalía General, en las materias de su competencia con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza;
 
-XVI. Definir y coordinar las acciones tácticas que realizarán las Unidades Administrativas que tiene adscritas para la realización de proyectos estratégicos de la Fiscalía General en las materias de recursos materiales, servicios generales y obras públicas, abarcando desde el diseño hasta la evaluación de estos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVII. Participar en coordinación con la Unidad Especializada de Presupuesto y Tesorería, en la integración del anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República de los recursos materiales, servicios generales y obras;
+XVI. Definir y coordinar las acciones tácticas que realizarán las Unidades Administrativas que tiene adscritas para el diseño, elaboración y evaluación de proyectos estratégicos de la Fiscalía General en las materias de recursos materiales, servicios generales y obras públicas;
 
-XVIII. Proponer a la persona titular de la Oficialía Mayor el dimensionamiento de requerimientos de recursos materiales, servicios generales identificados en las Unidades Administrativas, para el eficiente y eficaz desarrollo de sus Funciones Sustantivas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Participar en coordinación con la Unidad Especializada de Presupuesto y Tesorería, en la integración del anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República, en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Informar a la persona titular de la Oficialía Mayor sobre los requerimientos de recursos materiales, arrendamientos, servicios generales, obras públicas y servicios relacionados con las mismas identificados en las Unidades Administrativas, para el eficiente y eficaz desarrollo de la Función Sustantiva;
 
 XIX. Proponer a la persona titular de la Oficialía Mayor, las políticas para el control administrativo de los bienes asegurados por el Ministerio Público, en los términos de las disposiciones aplicables con observancia de los principios de legalidad, eficiencia, eficacia, economía, transparencia y honradez que faciliten la operación y la toma de decisiones, estableciendo controles para su cumplimiento;
 
@@ -4859,21 +5327,33 @@ Facultades de la persona titular de la Unidad de Recursos Materiales.
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Recursos Materiales tendrá las siguientes facultades:
 
-I. Dirigir el desarrollo de proyectos estratégicos en materia de adquisiciones, arrendamientos y servicios que mejoren la operación de las Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Ejecutar los actos y procedimientos en materia de adquisiciones, arrendamientos y servicios, así como, en obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones aplicables y atendiendo la disponibilidad presupuestaria;
+I. Elaborar proyectos de normas, políticas, manuales, procedimientos y lineamientos, en el ámbito de su competencia y ponerlos a consideración de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
 
-III. Conducir la integración y seguimiento del Programa Anual de Adquisiciones, Arrendamientos y Servicios de la Institución, conforme las disposiciones en la materia, para contribuir al desarrollo de las funciones encomendadas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IV. Presentar a consideración de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria otras disposiciones en materia de adquisiciones, arrendamientos y servicios;
+II. Ejecutar los actos y procedimientos en materia de adquisiciones, arrendamientos y a solicitud de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria ejecutar actos y procedimientos en materia de servicios generales, obras públicas y servicios relacionados con las mismas, de conformidad con las disposiciones aplicables y atendiendo la disponibilidad presupuestaria;
 
-V. Proponer el anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República en materia de adquisiciones, arrendamientos y servicios, para su integración en el presupuesto anual de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VI. Presentar la adecuación, modificación o cambio de los indicadores de desempeño de la Unidad de Recursos Materiales;
+III. Elaborar con la participación de la Unidad de Servicios Generales, Transportes y de Apoyo, el proyecto del programa anual de adquisiciones, arrendamientos y servicios, para ponerlo a consideración de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, con el propósito de contribuir en el desarrollo de las funciones encomendadas a la Fiscalía General;
 
-VII. Desarrollar los medios de comunicación con las Unidades Administrativas, para la oportuna asignación de los bienes muebles y prestación de servicios;
+IV. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-VIII. Integrar la información relativa a la ejecución del Programa Anual de Disposición Final de Bienes Muebles y participar en los procesos de desincorporación de bienes muebles del patrimonio de la Institución, conforme las necesidades de las Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Proponer a la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria el anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República en su ámbito de competencia para su integración en el presupuesto anual de la Fiscalía General;
+
+VI. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VII. Desarrollar los medios de comunicación con las Unidades Administrativas para la oportuna asignación de los bienes muebles;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VIII. Integrar y ejecutar el programa anual de disposición final de bienes muebles y participar en los procesos de desincorporación de bienes muebles del patrimonio de la Institución, conforme las necesidades de las Unidades Administrativas;
 
 IX. Dirigir las acciones necesarias para la baja y destino final de los bienes muebles propiedad de la Fiscalía General;
 
@@ -4881,39 +5361,65 @@ X. Definir e instrumentar en el ámbito de su competencia las acciones para la a
 
 XI. Dotar en tiempo y forma los recursos materiales de apoyo solicitados por las Unidades Administrativas de conformidad con las disposiciones aplicables;
 
-XII. Supervisar que las solicitudes de contratación en materia de adquisiciones, arrendamientos y servicios presentadas por las Unidades Administrativas cumplan con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Verificar la existencia de suficiencia presupuestal en la partida correspondiente a los requerimientos formulados por las Unidades Administrativas, en materia de adquisiciones, arrendamientos y servicios, para su contratación:
+XII. Supervisar que las solicitudes de contrataciones presentadas por las Unidades Administrativas, así como los actos y procedimientos que se ejecuten en materia de adquisiciones y arrendamientos cumplan con las disposiciones aplicables;
 
-XIV. Dirigir la elaboración de las investigaciones de mercado que se realicen, previo a los procedimientos para la adquisición de bienes y contratación de arrendamientos de bienes muebles o servicios;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XV. Coordinar las acciones encaminadas a la administración y suministro de los recursos materiales a las Unidades Administrativas, para contribuir al cumplimiento de sus Funciones Sustantivas;
+XIII. Verificar la existencia de suficiencia presupuestal en la partida correspondiente a los requerimientos formulados por las Unidades Administrativas, en materia de adquisiciones y arrendamientos de bienes muebles, así como de los actos y procedimientos que ejecute, para su contratación;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIV. Dirigir la elaboración de las investigaciones de mercado que se realicen previo a los procedimientos para la adquisición de bienes y contratación de arrendamientos de bienes muebles, así como de los actos y procedimientos que ejecute;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XV. Coordinar y dirigir las acciones encaminadas a la administración y suministro de los recursos materiales a las Unidades Administrativas, para contribuir al cumplimiento de la Función Sustantiva;
 
 XVI. Determinar las acciones necesarias para llevar a cabo los procedimientos de contratación conforme a las disposiciones en la materia;
 
-XVII. Coparticipar en la elaboración de los contratos y convenios de adquisiciones, arrendamientos y de prestación de servicios de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. Participar como Secretario Técnico en el Comité de Adquisiciones, Arrendamientos y Servicios, así como en cualquier otro que por sus atribuciones le sea designado;
+XVII. Celebrar contratos, convenios y demás instrumentos jurídicos en materia de adquisiciones y arrendamientos de bienes muebles, así como aquellos derivados de los actos y procedimientos que ejecute, incluyendo proyectos especiales, hasta por el monto autorizado en las disposiciones generales que emita la persona titular de la Oficialía Mayor;
 
-XIX. Aplicar las disposiciones establecidas en materia de adquisiciones, arrendamientos y contratación de servicios;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Verificar y autorizar, en su caso, los pagos a las personas proveedoras o personas prestadoras de servicios con la facturación procedente, así como supervisar la determinación de incumplimientos de obligaciones contractuales imputables a ellas; establecer las medidas preventivas o correctivas al respecto y verificar el avance de los trabajos o servicios a fin de dar cumplimiento a las condiciones establecidas en los contratos, pedidos o convenios formalizados, en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIX. Aplicar las disposiciones establecidas en materia de adquisiciones y arrendamientos de bienes muebles, así como de aquellos actos y procedimientos que ejecute;
 
 XX. Difundir las disposiciones en materia de los bienes muebles y recursos materiales a las Unidades Administrativas, para su aplicación;
 
-XXI. Verificar el pago a personas proveedoras por las adquisiciones, arrendamientos y servicios recibidos por la Fiscalía General, de conformidad con las condiciones establecidas en los contratos firmados;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXII. Instruir la aplicación de las rescisiones administrativas, terminaciones anticipadas, suspensiones temporales, convenios modificatorios u otra figura jurídica de la contratación de adquisiciones, arrendamientos y servicios;
+XXI. Integrar un registro del cumplimiento de compromisos contractuales y de pagos en materia de adquisiciones, arrendamientos y servicios recibidos por la Fiscalía General, en coordinación con las áreas requirentes, quienes proporcionarán la información de manera anual;
 
-XXIII. Supervisar la integración del expediente que contenga la documentación probatoria, para proceder a la reclamación de las pólizas de garantía otorgadas por las personas proveedoras y personas prestadoras de servicios y seguros expedidos a favor de la Fiscalía General;
+XXII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XXIV. Dirigir el suministro de los recursos materiales que requieran las Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXV. Coordinar la contratación del asesor externo de seguros para la integración del Programa de Seguros de los bienes patrimoniales;
+XXIII. Integrar la información para la emisión del programa de seguros patrimoniales expedidos a favor de la Fiscalía General, así como llevar a cabo la reclamación de los siniestros;
 
-XXVI. Supervisar la integración de los expedientes de contratación, para que contengan la documentación justificativa, verificando la organización, clasificación, conservación, uso, actualización, guarda, custodia y destino final del archivo documental que dé soporte e identifique técnica, administrativa y jurídicamente los procesos, de conformidad con el ordenamiento jurídico, para su presentación a los órganos de control y fiscalización cuando estos lo requieran;
+XXIV. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XXVII. Dirigir la operación del Almacén Central procurando la distribución de los bienes muebles de acuerdo con las necesidades de las Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXVIII. Promover los mecanismos de registro, control, inventario de bienes muebles, así como la operación del Almacén Central de la Fiscalía General, y
+XXV. Coordinar la contratación del asesor externo de seguros para la integración del programa de seguros de los bienes patrimoniales;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVI. Supervisar en el ámbito de su competencia, que los expedientes de contratación contengan la documentación justificativa, que dé soporte e identifique técnica, administrativa y jurídicamente los procesos de planeación, programación, presupuestación, ejecución, contratación y pago, de conformidad con los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVII. Dirigir la operación del almacén central para la distribución de los bienes muebles de acuerdo con las necesidades de las Unidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVIII. Establecer los mecanismos de registro, control, inventario de bienes muebles, y
 
 XXIX. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
@@ -4923,17 +5429,25 @@ Facultades de la persona titular de la Unidad de Servicios Generales, Transporte
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Servicios Generales, Transportes y de Apoyo tendrá las siguientes facultades:
 
-I. Proponer a la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, políticas, bases y lineamientos con la finalidad de transparentar, justificar y determinar los procedimientos de actuación de las personas servidoras públicas de la Institución;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Proponer el anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República en materia de servicios generales, para su integración en el presupuesto anual de la Fiscalía General;
+I. Elaborar proyectos de normas, políticas, manuales, procedimientos y lineamientos, en el ámbito de su competencia y ponerlos a consideración de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
 
-III. Proponer acciones de mejora continua de carácter financiero, administrativo y técnico que permitan lograr una mayor eficacia, calidad, oportunidad, financiamiento y demás circunstancias pertinentes;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Proponer a la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria el anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República en el ámbito de su competencia, para su integración en el presupuesto anual de la Fiscalía General;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+III. Ejecutar los actos y procedimientos en materia de contratación de servicios generales y transporte, de conformidad con las disposiciones aplicables y atendiendo la disponibilidad presupuestaria;
 
 IV. Establecer la comunicación con las Unidades Administrativas, para la prestación de los servicios generales, transportes y de apoyo;
 
 V. Coordinar la implementación de proyectos estratégicos en materia de servicios generales, transportes y de apoyo que mejoren la operación de las Unidades Administrativas;
 
-VI. Dar seguimiento al programa anual de adquisiciones relativo a los servicios generales, transportes y de apoyo requeridos en materia de limpieza, jardinería, fumigación, filtros de agua, suministro de gas LP y natural, estacionamientos, análisis químico bacteriológico, mensajería y paquetería nacional e internacional, impresión en offset, emblemas institucionales, fletes y maniobras, mantenimiento preventivo y correctivo para equipos de oficina y administración, mantenimiento y conservación del mobiliario de oficina, adquisición de boletos de avión, y administración de los archivos institucionales;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VI. Participar con la Unidad de Recursos Materiales en la elaboración del proyecto del programa anual de adquisiciones, arrendamientos y servicios en el ámbito de su competencia, que se pondrá a consideración de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, con el propósito de contribuir en el desarrollo de las funciones encomendadas a la Fiscalía General;
 
 VII. Definir e instrumentar, en el ámbito de su competencia, las acciones para la atención de los proyectos especiales;
 
@@ -4941,37 +5455,55 @@ VIII. Verificar que las solicitudes de contratación, en materia de servicios ge
 
 IX. Verificar que la suficiencia presupuestal de los requerimientos formulados por las Unidades Administrativas, en materia de servicios generales, transportes y de apoyo existentes, permita la contratación y la ejecución de los trabajos;
 
-X. Supervisar el análisis de la investigación de mercado en materia de servicios generales, transportes y de apoyo requeridos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+X. Dirigir la elaboración de las investigaciones de mercado que se realicen previo a los procedimientos para la contratación de servicios generales, transportes y de apoyo requeridos;
 
 XI. Supervisar la gestión de los requerimientos para las contrataciones necesarias para la prestación de los servicios generales, transportes y de apoyo, mediante licitación pública, invitación a tres personas o adjudicación directa, observando las disposiciones aplicables;
 
-XII. Verificar la elaboración de los contratos y convenios en materia de servicios generales, transportes y de apoyo de la Fiscalía General;
+XII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XIII. Coordinar la firma de contratos, convenios y demás instrumentos jurídicos, cuidando que se efectúen hasta por el monto autorizado, bajo el régimen de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad y especialidad, previstos en el ordenamiento jurídico;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIV. Participar en los Comités que por sus atribuciones sea designada;
+XIII. Celebrar contratos, convenios y demás instrumentos jurídicos en materia de contratación de servicios generales, transportes y de apoyo requeridos, incluyendo proyectos especiales, hasta por el monto autorizado en las disposiciones generales que emita la persona titular de la Oficialía Mayor;
+
+XIV. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 XV. Ejecutar las disposiciones establecidas en materia de servicios generales, transportes y de apoyo requeridos;
 
 XVI. Hacer del conocimiento las disposiciones aplicables en materia de administración de los servicios generales, transportes y de apoyo a las Unidades Administrativas, para su aplicación;
 
-XVII. Verificar y autorizar, en su caso, el otorgamiento de anticipos, pagos a las personas proveedoras o personas prestadoras de servicios con la facturación procedente, a fin de dar cumplimiento a las condiciones establecidas en los contratos, pedidos o convenios formalizados;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. Supervisar la determinación de las sanciones a las personas prestadoras de servicios por incumplimiento de obligaciones contractuales imputables a ellas; establecer las medidas preventivas o correctivas al respecto y verificar el avance de los trabajos o servicios;
+XVII. Verificar y autorizar, en su caso, los pagos a las personas proveedoras o personas prestadoras de servicios con la facturación procedente, así como supervisar la determinación de incumplimientos de obligaciones contractuales imputables a ellas; establecer las medidas preventivas o correctivas al respecto y verificar el avance de los servicios, a fin de dar cumplimiento a las condiciones establecidas en los contratos, pedidos o convenios formalizados, en el ámbito de su competencia;
 
-XIX. Promover los procedimientos de suspensión, rescisiones administrativas, terminaciones anticipadas, convenios y demás instrumentos jurídicos de la contratación de servicios generales, transportes y de apoyo;
+XVIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XX. Participar en la integración de la documentación probatoria para proceder con la reclamación de las pólizas de garantía y seguros, otorgadas por las personas prestadoras de servicios;
+XIX. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-XXI. Coordinar la elaboración, integración, actualización y ejecución del programa anual de adquisiciones de los servicios generales, transportes y de apoyo requeridos, conforme a las disposiciones en la materia, con el propósito de contribuir en el desarrollo de las funciones encomendadas a la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XX. Integrar la documentación probatoria para proceder con la reclamación de siniestros de las pólizas de seguros otorgadas por las personas prestadoras de servicios;
+
+XXI. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 XXII. Coordinar la prestación de los servicios generales, transportes y de apoyo que requieran las Unidades Administrativas;
 
 XXIII. Supervisar la ejecución y prestación de servicios generales, transportes y de apoyo; observar su desarrollo, de conformidad con lo establecido en las condiciones contractuales y verificar el avance físico-financiero del programa de trabajo, en estricto apego a las disposiciones aplicables;
 
-XXIV. Supervisar que la integración de los expedientes de contratación contenga la documentación justificativa, verificando la organización, clasificación, conservación, uso, actualización, guarda, custodia y destino final del archivo documental que dé soporte e identifique técnica, administrativa y jurídicamente los procesos, de conformidad con el ordenamiento jurídico, para su presentación a los órganos de control y fiscalización cuando estos lo requieran, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XXIV. Administrar y organizar los servicios de archivo de la Fiscalía General, para lo cual tendrá la calidad de área coordinadora de archivos conforme a la Ley General de Archivos y las disposiciones en materia de acceso a la información pública y protección de datos personales y las que emita el Consejo de Gobierno del Sistema Institucional de Evaluación de Resultados;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXV. Integrar un registro del cumplimiento de compromisos contractuales y de pagos en materia de servicios generales, transportes y de apoyo recibidos por la Fiscalía General, en coordinación con las áreas requirentes, quienes proporcionarán la información de manera anual;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVI. Supervisar en el ámbito de su competencia, que los expedientes de contratación contengan la documentación justificativa, que dé soporte e identifique técnica, administrativa y jurídicamente los procesos de planeación, programación, presupuestación, ejecución, contratación y pago, de conformidad con los ordenamientos jurídicos aplicables, y
+
+XXVII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 187.
 
@@ -4979,19 +5511,27 @@ Facultades de la persona titular de la Unidad de Infraestructura Inmobiliaria.
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Infraestructura Inmobiliaria tendrá las siguientes facultades:
 
-I. Proponer al titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, las políticas, bases y lineamientos en materia de obras públicas y servicios relacionados con las mismas, así como criterios, acuerdos o demás disposiciones que contribuyan a transparentar, justificar y agilizar los procedimientos de actuación;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Coordinar la elaboración del anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República en materia de obras públicas y servicios relacionados con las mismas, para su integración en el presupuesto anual de la Fiscalía General;
+I. Elaborar proyectos de normas, políticas, manuales, procedimientos y lineamientos, en el ámbito de su competencia y ponerlos a consideración de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
 
-III. Promover acciones de mejora continua de carácter financiero, administrativo y técnico que permitan lograr una mayor eficacia, calidad, oportunidad, financiamiento y demás circunstancias pertinentes;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. Proponer a la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria el anteproyecto de presupuesto anual del Ramo 49 Fiscalía General de la República en el ámbito de su competencia, para su integración en el presupuesto anual de la Fiscalía General;
+
+III. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 IV. Establecer comunicación con las Unidades Administrativas, para la ejecución de los trabajos requeridos, en cuanto a obras públicas, servicios relacionados con las mismas y proyectos especiales;
 
 V. Definir la implementación de proyectos estratégicos que mejoren la operación de las Unidades Administrativas usuarias en materia de obras públicas y servicios relacionados con las mismas;
 
-VI. Supervisar el seguimiento a los programas anuales de obras públicas y servicios relacionados con las mismas, considerando la inclusión de proyectos especiales, así como trabajos de mantenimiento, conservación y adecuación de los inmuebles, instalaciones y equipos de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VII. Elaborar el Programa Anual Inmobiliario e instrumentar las acciones necesarias en las instalaciones de la Fiscalía General para que se optimice su aprovechamiento;
+VI. Elaborar el proyecto del programa anual de obras públicas y servicios relacionados con las mismas, considerando la inclusión de proyectos especiales, así como trabajos de construcción, instalación, ampliación, adecuación, remodelación, restauración, conservación, mantenimiento, modificación y demolición de los inmuebles, instalaciones y equipos de la Fiscalía General, para ponerlo a consideración de la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, con el propósito de contribuir en el desarrollo de las funciones encomendadas a la Fiscalía General;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VII. Elaborar el proyecto de programa anual inmobiliario e instrumentar las acciones necesarias en las instalaciones de la Fiscalía General para optimizar su aprovechamiento;
 
 VIII. Conducir las acciones necesarias para la baja y destino final de los bienes inmuebles propiedad de la Fiscalía General;
 
@@ -4999,19 +5539,31 @@ IX. Definir e instrumentar en el ámbito de su competencia las acciones para la 
 
 X. Conducir los procesos requeridos en cuanto a planeación, programación y ejecución de las obras públicas y servicios relacionados con las mismas, incluyendo proyectos especiales, con la finalidad de garantizar las condiciones óptimas de las instalaciones de la infraestructura inmobiliaria de la Fiscalía General, y vigilar que se lleven a cabo bajo los principios de eficiencia, eficacia, economía, transparencia y honradez;
 
-XI. Coordinar la atención de las solicitudes de las Unidades Administrativas para la atención de necesidades de mantenimiento a maquinaria y equipo a nivel central;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XII. Solicitar la suficiencia presupuestal de las requisiciones formuladas por las Unidades Administrativas en materia de obras públicas y servicios relacionados con las mismas, incluyendo proyectos especiales, que permita la mejor toma de decisiones en cuanto a la ejecución de los trabajos solicitados;
+XI. Coordinar la atención de las solicitudes de las Unidades Administrativas para la atención de necesidades de mantenimiento a maquinaria y equipo;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XII. Solicitar la suficiencia presupuestal de las requisiciones formuladas por las Unidades Administrativas en materia de obras públicas y servicios relacionados con las mismas, incluyendo proyectos especiales y adquisición de bienes de inversión para equipamiento y amueblado de inmuebles, para llevar a cabo las contrataciones respectivas;
 
 XIII. Supervisar el análisis de los componentes de los precios unitarios de los conceptos de obra presentados por la persona contratista, de conformidad al presupuesto;
 
-XIV. Tramitar las contrataciones públicas en materia de obras públicas y servicios relacionados con las mismas, considerando proyectos especiales, mediante la instrumentación de procedimientos de licitación pública, invitación a tres personas o adjudicación directa y asegurando las mejores condiciones e intereses de la Fiscalía General en cuanto a precio, calidad y financiamiento;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XV. Colaborar en la elaboración de contratos y convenios de obras públicas y servicios relacionados con las mismas;
+XIV. Supervisar y tramitar que las solicitudes de contrataciones en materia de obra pública y servicios relacionados con las mismas presentadas por las Unidades Administrativas cumplan con las disposiciones aplicables;
 
-XVI. Suscribir contratos, convenios y demás instrumentos jurídicos, en materia de obras públicas y servicios relacionados con las mismas, incluyendo proyectos especiales, hasta por el monto autorizado, bajo el régimen de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, especialidad y en los términos previstos en el ordenamiento jurídico;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVII. Participar como Secretario Técnico en el Comité de Obra Pública y en cualquier otro que por sus atribuciones sea designado;
+XV. Dirigir la elaboración de las investigaciones de mercado que se realicen previo a los procedimientos para la adjudicación de obras públicas y servicios relacionados con las mismas;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVI. Celebrar contratos, convenios y demás instrumentos jurídicos en materia de obras públicas y servicios relacionados con las mismas, incluyendo proyectos especiales, hasta por el monto autorizado en las disposiciones generales que emita la persona titular de la Oficialía Mayor;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Verificar y autorizar, en su caso, los pagos a las personas proveedoras o personas contratistas, con la facturación procedente, así como supervisar la determinación de incumplimientos de obligaciones contractuales imputables a ellas; establecer las medidas preventivas o correctivas al respecto y verificar el avance de los trabajos, a fin de dar cumplimiento a las condiciones establecidas en los contratos, pedidos o convenios formalizados, en el ámbito de su competencia;
 
 XVIII. Adoptar las disposiciones establecidas en materia de obras públicas y servicios relacionados con las mismas;
 
@@ -5025,11 +5577,27 @@ XXII. Supervisar la integración del expediente que contenga la documentación p
 
 XXIII. Administrar los bienes inmuebles y servicios de infraestructura que requieran las Unidades Administrativas;
 
-XXIV. Supervisar la debida integración del expediente único de obra pública y/o de servicios relacionados con las mismas y proyectos especiales, verificando que contenga la documentación justificativa que dé soporte e identifique técnica, administrativa y jurídicamente los procesos de planeación, programación, presupuestación, ejecución, entrega-recepción y finiquito de los trabajos contratados;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXV. Verificar la guarda y custodia documental, por el periodo establecido en el ordenamiento jurídico y prever su actualización para la presentación a los órganos de control y fiscalización cuando éstos lo requieran, y
+XXIV. Supervisar en el ámbito de su competencia la debida integración del expediente único de obra pública y/o de servicios relacionados con las mismas y proyectos especiales, verificando que contenga la documentación justificativa que dé soporte e identifique técnica, administrativa y jurídicamente los procesos de planeación, programación, presupuestación, ejecución, contratación, entrega-recepción, pago y finiquito de los trabajos contratados, de conformidad con los ordenamientos jurídicos aplicables;
 
-XXVI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXV. Fungir como enlace de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, ante la Unidad de Planeación y Coordinación Interinstitucional, para el registro, modificación e informes de avance de los proyectos de inversión que se ejecuten;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVI. Ejecutar los actos y procedimientos de contratación en materia de obras públicas y servicios relacionados con las mismas, considerando proyectos especiales, de conformidad con las disposiciones aplicables y atendiendo la disponibilidad presupuestaria;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVII. Ejecutar las acciones que instruya la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, como el responsable inmobiliario en el marco del sistema de administración inmobiliaria;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXVIII. Integrar un registro del cumplimiento de compromisos contractuales y de pagos en materia de infraestructura inmobiliaria recibidos por la Fiscalía General, en coordinación con las áreas requirentes quienes proporcionarán la información de manera anual, y
+
+XXIX. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 188.
 
@@ -5037,35 +5605,61 @@ Facultades de la persona titular de la Unidad de Control, Seguimiento y Normativ
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Control, Seguimiento y Normatividad tendrá las siguientes facultades:
 
-I. Supervisar el cumplimiento de la elaboración, formalización y seguimiento de contratos, convenios y otros actos administrativos que celebre la Fiscalía General con dependencias y proveedores, a través de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, así como dirigir la integración de expedientes de los instrumentos jurídicos que se generen;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-II. Identificar las necesidades de recursos materiales y servicios generales de las Unidades Administrativas conforme a su modelo de gestión y metas establecidas en el Sistema Institucional de Evaluación de Resultados para el eficiente y eficaz desarrollo de la Función Sustantiva;
+I. Elaborar los contratos, convenios y otros actos administrativos que celebre la Fiscalía General a través de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, así como la integración de expedientes de los instrumentos jurídicos que se generen con motivo de la solicitud de las áreas requirentes de la Fiscalía General y supervisar la formalización de los mismos;
+
+II. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 III. Conducir la formulación de respuestas a requerimientos de información de acuerdo con las disposiciones en materia de transparencia y acceso a la información;
 
-IV. Dirigir la preparación y seguimiento de las sesiones de los Comités de Adquisiciones, Arrendamientos y Servicios; y de Bienes Muebles y Obra Pública;
+IV. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
-V. Coordinar, con la participación de las áreas de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, la formulación del proyecto de presupuesto en materia de recursos materiales, servicios generales, obra pública y arrendamiento, con el fin de cumplir con los objetivos y programas institucionales;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Coordinar, con la participación de las Unidades Administrativas de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, la formulación del proyecto de presupuesto en materia de recursos materiales, arrendamientos de bienes muebles, servicios generales, obras públicas y servicios relacionados con las mismas, con el fin de cumplir con los objetivos y programas institucionales;
 
 VI. Establecer los mecanismos que permitan contar con una eficiente planeación, ejercicio y seguimiento al presupuesto autorizado a la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
 
-VII. Proponer la aplicación de mecanismos eficientes para el trámite de pago de adquisiciones, estimaciones de obra y prestación de servicios de la Fiscalía General, en apego a las condiciones contractuales que se establezcan;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VIII. Coordinar la gestión del patrimonio inmobiliario, con el fin de mantener un adecuado ordenamiento de los inmuebles en arrendamiento o comodato de la Fiscalía General;
+VII. Tramitar las solicitudes de pago de adquisiciones, estimaciones de obra y prestación de servicios de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, en apego a las condiciones contractuales que se establezcan;
+
+VIII. (DEROGADA, D.O.F. 8 DE ABRIL DE 2025)
 
 IX. Impulsar y promover la participación de las diferentes Unidades Administrativas de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, para integrar los requerimientos de información y observaciones que formulen los diferentes órganos fiscalizadores;
 
-X. Elaborar y coordinar las propuestas de las Unidades Administrativas para el diseño, validación, autorización y publicación de normas, políticas, manuales, procedimientos y lineamientos, para la transparente, eficiente y justificada ejecución de los procesos de adquisiciones, arrendamientos, servicios, obra pública, enajenación de bienes muebles, control presupuestal y patrimonio inmobiliario de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+X. Elaborar y coordinar las propuestas de las Unidades Administrativas para el diseño, validación, autorización y publicación de normas, políticas manuales, procedimientos y lineamientos, para la transparente, eficiente y justificada ejecución de los procesos de adquisiciones, arrendamientos, contratación de servicios, obra pública y servicios relacionados con las mismas, baja y destino final de bienes muebles, control presupuestal y patrimonio inmobiliario de la Fiscalía General;
 
 XI. Participar en el análisis de la información que se genere en la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, para establecer reportes estadísticos que permitan evaluar las acciones y decisiones que se adopten por las Unidades Administrativas;
 
-XII. Fungir como enlace ante la Unidad Especializada de Presupuesto y Tesorería, para el registro, modificación e informes de avance de los proyectos de inversión que se ejecuten;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Coadyuvar en la atención de los asuntos solicitados a la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria que le requieran, a efecto de proporcionar información adecuada;
+XII. Fungir como enlace ante la Unidad Especializada de Presupuesto y Tesorería para la realización de trámites presupuestales en el ámbito de competencia de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
 
-XIV. Controlar y dar seguimiento a la documentación que se reciba en la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, así como informar a su persona titular sobre los asuntos relevantes para su oportuna y eficaz atención, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XIII. Coadyuvar en la atención de los asuntos solicitados a la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria que le requieran, a efecto de proporcionar información adecuada en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIV. Recibir y analizar las solicitudes de inicio de los procedimientos de rescisión administrativa, suspensión o terminación anticipada de los contratos o convenios en materia de adquisiciones, arrendamientos y servicios, obras públicas y servicios relacionados con las mismas, que reciba de la persona que funja como administrador del contrato o convenio, a fin de emitir el proyecto de dictamen en el que se contenga la determinación de procedencia del procedimiento, señalando el procedimiento de adjudicación del que derivó el contrato celebrado, la manifestación expresa de que no se han aplicado ni cobrado penas convencionales o realizado deducciones de pago y anexando al mismo las actas circunstanciadas de incumplimiento de obligaciones contractuales levantadas por la persona administradora del contrato, la documentación que soporte los incumplimientos del proveedor, las gestiones de comunicación ante el proveedor informando las deficiencias o incumplimientos, las documentales que comprueben la ejecución de las garantías otorgadas por el proveedor o, en su caso, la manifestación expresa de que no se han ejecutado, así como cualquier otra documentación relacionada con la solicitud de inicio del procedimiento y proponerlo a la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XV. Verificar las pólizas de garantía otorgadas por las personas proveedoras, las personas contratistas y personas prestadoras de servicios expedidas a favor de la Fiscalía General y remitirlas a la Unidad Especializada de Presupuesto y Tesorería;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVI. Recibir de las Unidades Administrativas los expedientes integrados que acrediten el incumplimiento por parte de las personas proveedoras, contratistas y personas prestadoras de servicios, a fin de hacer efectiva las garantías a través de la Unidad Especializada de Presupuesto y Tesorería;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Administrar la documentación que se reciba en la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria, así como informar a su persona titular sobre los asuntos relevantes, y
+
+XVIII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 189.
 
@@ -5099,9 +5693,19 @@ XII. Ejecutar en coordinación con las Unidades Administrativas responsables, pr
 
 XIII. Elaborar diagnósticos en materia de resguardo, almacenamiento, guarda y custodia de los bienes asegurados y proporcionarlos al Sistema Institucional de Evaluación de Resultados y a las Unidades Administrativas competentes para el desarrollo de políticas en la materia;
 
-XIV. Rendir el informe mensual pormenorizado sobre la utilización de los Bienes al Instituto para Devolver al Pueblo lo Robado referido en el artículo 22 párrafo cuarto de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, en los términos que al efecto establezca, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XIV. Rendir el informe mensual pormenorizado sobre la utilización de los Bienes al Instituto para Devolver al Pueblo lo Robado referido en el artículo 22 párrafo cuarto de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, en los términos que al efecto establezca;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XV. Participar en la concertación de acuerdos en los que se establezcan los términos y condiciones relacionados con los servicios, en los patios concesionarios o particulares para la verificación de seguridad en el inmueble y la conservación del estado físico de los vehículos asegurados bajo su resguardo así como su liberación ágil y oportuna;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVI. Acordar con la persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria la celebración de convenios con los patios concesionarios o particulares para el resguardo de vehículos asegurados, en términos de lo estipulado en la fracción anterior, para que soliciten los recursos financieros necesarios para su ejecución, y
+
+XVII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ###### Artículo 190.
 
@@ -5111,15 +5715,21 @@ Para el desarrollo de sus funciones, la Unidad de Registro de Aseguramientos Min
 
 I. Verificar el cumplimiento de las disposiciones aplicables y de las políticas para el control administrativo de los bienes asegurados que establezca la persona titular de la Oficialía Mayor;
 
-II. Supervisar la trazabilidad de los objetos, instrumentos, productos o bienes relacionados con hechos que la ley señala como delitos, con el objeto de conocer su estado registral de forma confiable y en tiempo real, tanto en las Averiguaciones Previas, como en las carpetas de investigación;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-III. Corroborar la calidad, idoneidad y oportunidad del registro de los bienes asegurados por parte de las personas agentes del Ministerio Público de la Federación adscritas a las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional y Unidades de Investigación, así como de las personas agentes de la Policía Federal Ministerial adscritas a la Agencia de Investigación Criminal, haciendo acopio de los archivos y registros formulados, incluso los relativos al primer respondiente en el Informe Policial Homologado o en la Cadena de Custodia;
+II. Supervisar la trazabilidad de los objetos, instrumentos, productos o bienes relacionados con hechos que la ley señala como delitos, con el objeto de acceder a los expedientes para conocer el estado registral, así como la situación jurídica de forma confiable y en tiempo real, tanto en las Averiguaciones Previas, como en las carpetas de investigación;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+III. Corroborar la calidad, idoneidad y oportunidad del registro de los bienes asegurados por parte de las personas agentes del Ministerio Público de la Federación adscritas a las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional y Unidades de Investigación, así como de las personas agentes de la Policía Federal Ministerial y personas peritas adscritas a la Agencia de Investigación Criminal así como de su intervención, exclusivamente respecto de bienes asegurados, haciendo acopio de las actuaciones de los archivos y registros formulados, incluso los relativos al primer respondiente en el Informe Policial Homologado o en la Cadena de Custodia;
 
 IV. Verificar que se realice el registro de los bienes asegurados en Justici@Net y confirmar los datos que en ésta se ingresen;
 
 V. Contar con un registro sobre el control de los bienes asegurados tanto de Averiguaciones Previas como de carpetas de investigación, desde el ingreso de los objetos, instrumentos, productos o bienes relacionados con hechos que la ley señala como delitos, hasta su destino final, programando y proponiendo alternativas para contar con datos confiables;
 
-VI. Informar a la persona titular de la Unidad de Registro de Aseguramientos Ministeriales y Destino Final y a las autoridades competentes de los hechos u omisiones de que tengan conocimiento y que puedan constituir infracciones administrativas o delitos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VI. Dar vista a las autoridades competentes respecto de actos u omisiones en materia de bienes asegurados, que puedan constituir infracciones administrativas o delitos, para que los órganos fiscalizadores y sancionadores determinen los procedimientos administrativos o penales correspondientes;
 
 VII. Coadyuvar y asesorar a las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional y Unidades de Investigación, así como a la Agencia de Investigación Criminal en los procedimientos y registros que se realicen sobre bienes asegurados;
 
@@ -5127,9 +5737,17 @@ VIII. Generar información relacionada con el control administrativo de los bien
 
 IX. Proponer indicadores de gestión y desempeño que permitan al Sistema Institucional de Evaluación de Resultados determinar el nivel de productividad, cumplimiento de políticas y obtención de resultados en materia de bienes asegurados;
 
-X. Intervenir en la entrega-recepción de los bienes asegurados y supervisar que se realice a través del uso de la INTERFAZ, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XI. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+X. Coadyuvar con las personas agentes del Ministerio Público de la Federación, responsables de los bienes asegurados, a efecto de que presenten las denuncias en contra de los encargados del resguardo y conservación de los bienes asegurados que hayan incumplido con sus responsabilidades. Lo anterior, con la asistencia de la Unidad Especializada en Asuntos Jurídicos;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XI. Realizar periódicamente visitas de verificación a los patios concesionarios o particulares para corroborar la existencia de los bienes asegurados a su resguardo, así como las medidas de conservación efectivas que practiquen, elaborando un informe;
+
+XII. Intervenir en la entrega-recepción de los bienes asegurados y supervisar que se realice a través del uso de la INTERFAZ, y
+
+XIII. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ### CAPÍTULO VI. UNIDAD ESPECIALIZADA EN EL SISTEMA INSTITUCIONAL DE EVALUACIÓN DE RESULTADOS.
 
@@ -5397,7 +6015,9 @@ XI. Validar previo acuerdo con la persona titular de la Unidad Especializada de 
 
 XII. Administrar la Cartera Institucional de Proyectos de Inversión, partiendo desde el proceso de planeación, para continuar con la dictaminación y aprobación, informando de manera periódica el seguimiento a su avance a la persona titular de la Unidad Especializada de Presupuesto y Tesorería;
 
-XIII. Coordinar y administrar los proyectos estratégicos de la Institución, abarcando desde el diseño hasta la evaluación de éstos, así como implementar los proyectos transversales que determine la persona titular de la Fiscalía General;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Coordinar y administrar el diseño, elaboración y evaluación de proyectos estratégicos de la Institución, así como implementar los proyectos transversales que determine la persona titular de la Fiscalía General;
 
 XIV. Fungir como la instancia responsable encargada de aplicar lo establecido en el Capítulo I, del Título Tercero, de la Ley General de Mejora Regulatoria;
 
@@ -5451,19 +6071,29 @@ VI. Emitir la opinión técnica en materia de adquisición de equipo de segurida
 
 VII. Colaborar con las Unidades Administrativas para el cumplimiento de las obligaciones de la Fiscalía General relacionadas con el Registro Nacional de Armamento y Equipo;
 
-VIII. Solicitar ante la autoridad competente, la licencia oficial colectiva de portación de armas para las personas servidoras públicas de la Institución, conforme a las disposiciones aplicables, y vigilar su vigencia, verificando en todo momento el cumplimiento de los requisitos establecidos para su asignación y portación, así como tramitar la portación respectiva con el objeto de que se consigne en la credencial que se expida para tal efecto;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IX. Administrar y vigilar el cumplimiento de los lineamientos o disposiciones que se expidan en relación con los resguardos de armas y municiones; el parque de vehículos blindados; la contratación de servicios de seguridad; el uso de los gastos de seguridad nacional; el funcionamiento del Cuarto de Monitoreo/CCTV; lo relativo a los uniformes y la protección a las instalaciones;
+VIII. Solicitar ante la autoridad competente la licencia oficial colectiva de portación de armas para las personas servidoras públicas de la Fiscalía General, conforme a las disposiciones aplicables; vigilar su vigencia, manteniendo en todo momento el registro, seguimiento y control del cumplimiento de los requisitos establecidos para su asignación y portación; tramitar la portación respectiva con el objeto de que se consigne en la credencial que se expida para tal efecto, y emitir los formatos de solicitud y resguardo que se utilicen para la asignación de armamento, accesorios y municiones;
 
-X. Elaborar y rendir periódicamente a la Secretaría de la Defensa Nacional y a la Secretaría de Gobernación los informes de las armas que se encuentran en poder de la Institución, incluyendo la atención de las revistas correspondientes;
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XI. Hacer del conocimiento del Centro de Formación y Servicio Profesional de Carrera las necesidades de capacitación en temas de seguridad institucional y protección civil, así como su difusión y promoción;
+IX. Administrar y vigilar el cumplimiento de las disposiciones en relación con la asignación de armamento, accesorios y municiones propiedad de la Fiscalía General, así como el debido funcionamiento de los depósitos y bancos de armas para su almacenamiento;
 
-XII. Administrar y gestionar la información administrativa de la Fiscalía General, en las materias de su competencia con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Ejecutar, dentro de su esfera competencial, las disposiciones que emita la persona titular de la Oficialía Mayor para regular los márgenes de autonomía de gestión de los órganos que se encuentren dentro del ámbito de la Fiscalía General, y
+X. Administrar y vigilar el cumplimiento de los lineamientos o disposiciones que se expidan en relación con el parque de vehículos blindados; la contratación de servicios de seguridad; el uso de los gastos de seguridad nacional en el ámbito de su competencia; el funcionamiento del Cuarto de Monitoreo/CCTV, uso de los uniformes y la protección a las instalaciones;
 
-XIV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
+XI. Elaborar y rendir periódicamente a la Secretaría de la Defensa Nacional y a la Secretaría de Gobernación los informes de las armas que se encuentran en poder de la Institución, incluyendo la atención de las revistas correspondientes;
+
+XII. Hacer del conocimiento del Centro de Formación y Servicio Profesional de Carrera las necesidades de capacitación en temas de seguridad institucional y protección civil, así como su difusión y promoción;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Ocuparse de gestionar la información administrativa de la Fiscalía General, en las materias de su competencia con estricto apego a la normatividad que le aplique de acuerdo con su naturaleza;
+
+XIV. Ejecutar, dentro de su esfera competencial, las disposiciones que emita la persona titular de la Oficialía Mayor para regular los márgenes de autonomía de gestión de los órganos que se encuentren dentro del ámbito de la Fiscalía General, y
+
+XV. Las demás que se establezcan en algún otro ordenamiento jurídico que sea aplicable en el ámbito de su competencia.
 
 ### CAPÍTULO X. UNIDAD DE SERVICIOS AÉREOS.
 
@@ -5473,7 +6103,9 @@ Facultades de la persona titular de la Unidad de Servicios Aéreos.
 
 Adicionalmente a las previstas en el artículo 7 del presente Estatuto Orgánico, la persona titular de la Unidad de Servicios Aéreos tendrá las siguientes facultades:
 
-I. Proporcionar el servicio de transportación aérea que requiera la Institución, de conformidad con la normatividad aeronáutica vigente y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Proporcionar el servicio de transportación aérea que requiera la Institución, de conformidad con la normatividad aeronáutica vigente y demás disposiciones aplicables, ya sea a través de la contratación de servicios de terceros o utilizando aeronaves propiedad de la Fiscalía General o cualquier otra que bajo cualquier título se encuentre en su posesión;
 
 II. Llevar a cabo las operaciones aéreas que demanden las acciones de investigación y persecución de los hechos que la ley señala como delitos federales, en coordinación con las Unidades Administrativas competentes;
 
@@ -5605,17 +6237,29 @@ Estructura del Órgano Interno de Control.
 
 Para el pleno ejercicio de sus facultades, el Órgano Interno de Control, contará con las Unidades Administrativas siguientes:
 
-I. Unidad de Responsabilidades y Jurídico Contenciosa;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+I. Unidad de Responsabilidades Administrativas;
 
 II. Unidad de Auditoría Interna;
 
-III. Unidad de Investigaciones, Evolución Patrimonial y Conflicto de Interés;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IV. Unidad de Control y Evaluación;
+III. Unidad de Denuncias e Investigaciones;
 
-V. Unidad de Procedimientos del Régimen Especial, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-VI. Unidad de Verificación del Destino Final de Bienes Asegurados.
+IV. Unidad Jurídica, Contenciosa y de Evolución Patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+V. Unidad de Vigilancia y Cumplimiento en Materia de Transparencia, Información Pública y Protección de Datos Personales;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+VI. Unidad de Control y Evaluación, y
+
+VII. Unidad de Verificación del Destino Final de Bienes Asegurados.
 
 La persona titular del Órgano Interno de Control bajo su más estricta responsabilidad, conforme su Autonomía Técnica y Autonomía de Gestión, podrá delegar o distribuir entre sus Unidades Administrativas sus facultades o atribuciones conservando su ejercicio directo, así como establecer las reglas a las que se sujetará su suplencia, en los casos de excusas o ausencias y de las personas titulares de las Unidades Administrativas que tenga adscritas, a través de los acuerdos que emita, los cuales se publicarán en el Diario Oficial de la Federación, en términos del artículo 92 de la Ley.
 
@@ -5693,31 +6337,41 @@ La Ventanilla Única de Atención deberá tener un registro y control de todas l
 
 Objeto.
 
-El modelo de gestión fungirá como el marco de referencia de administración a partir del cual, las Fiscalías Especializadas y la Agencia de Investigación Criminal, organizarán sus Unidades Administrativas para el ejercicio de la Función Sustantiva, cumpliendo las metas y objetivos fijados en el Plan Estratégico de Procuración de Justicia.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-Además, el modelo de gestión deberá ajustarse a los principios que se encuentran en el presente Estatuto Orgánico, a los datos que arroje el Sistema Institucional de Evaluación de Resultados, y a los lineamientos para la elaboración de los Manuales de Organización y de Procedimientos que expida la persona titular de la Oficialía Mayor, orientando la operación institucional con el propósito de incentivar la mejora continua, orientándola hacia las personas usuarias del sistema de justicia.
+El modelo de gestión fungirá como el marco de referencia de administración a partir del cual las Fiscalías Especializadas, la Agencia de Investigación Criminal y el Órgano Especializado de Mecanismos Alternativos de Solución de Controversias organizarán sus Unidades Administrativas para el ejercicio de la Función Sustantiva, cumpliendo las metas y objetivos fijados en el Plan Estratégico de Procuración de Justicia.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Además, el modelo de gestión deberá ajustarse a los principios previstos en el presente Estatuto Orgánico, a los datos que arroje el Sistema Institucional de Evaluación de Resultados, así como a los lineamientos para la elaboración de los Manuales de Organización y de Procedimientos que expida la persona titular de la Oficialía Mayor, enfocando la operación institucional hacia las personas usuarias con el propósito de incentivar la mejora continua del sistema de justicia.
 
 ###### Artículo 213.
 
 Responsables de la expedición y actualización.
 
-Las personas titulares de las Fiscalías Especializadas y la Agencia de Investigación Criminal, en sus Manuales de Organización y de Procedimientos, determinarán las modalidades y particularidades en que cada una de las Unidades Administrativas que tengan adscritas desarrollará el modelo de gestión, diseñando procesos y esquemas que mejoren la capacidad de respuesta institucional y la atención a las personas víctimas de los hechos que la ley señala como delitos de competencia federal, de acuerdo con la especialidad de cada una de ellas.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Las personas titulares de las Fiscalías Especializadas, la Agencia de Investigación Criminal y el Órgano Especializado de Mecanismos Alternativos de Solución de Controversias, en sus Manuales de Organización y de Procedimientos, determinarán las modalidades y particularidades en que cada una de las Unidades Administrativas que tengan adscritas desarrollará el modelo de gestión, diseñando procesos y esquemas que mejoren la capacidad de respuesta institucional y la atención a las personas víctimas de los hechos que la ley señala como delitos de competencia federal, de acuerdo con la especialidad de cada una de ellas.
 
 ###### Artículo 214.
 
 De la supervisión de la Función Sustantiva.
 
-> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-Las personas titulares de las Fiscalías Especializadas y la Agencia de Investigación Criminal deberán supervisar el cumplimiento de las obligaciones previstas en la Ley y dar seguimiento a la aplicación del modelo de gestión que hubiesen definido para cada una de las Unidades Administrativas que tengan adscritas, por lo que se encargarán de supervisar el cumplimiento de los tiempos procesales y de que se practiquen oportunamente las diligencias pertinentes, a fin de evitar retrasos injustificados en la integración de las carpetas de investigación por parte del personal a su cargo, así como el cumplimiento de los criterios de operación, en los términos que se precisan en el Título IX, del presente Estatuto Orgánico.
+Las personas titulares de las Fiscalías Especializadas, la Agencia de Investigación Criminal y el Órgano Especializado de Mecanismos Alternativos de Solución de Controversias deberán supervisar el cumplimiento de las obligaciones previstas en la Ley y dar seguimiento a la aplicación del modelo de gestión que hubiesen definido para cada una de las Unidades Administrativas que tengan adscritas, por lo que se encargarán de supervisar el cumplimiento de los tiempos procesales y de que se practiquen oportunamente las diligencias pertinentes, a fin de evitar retrasos injustificados en la integración de las carpetas de investigación por parte del personal a su cargo, así como el cumplimiento de los criterios de operación, en los términos que se precisan en el Título IX del presente Estatuto Orgánico. Asimismo, deberán tener personal a su cargo que identifique, supervise y les informe puntualmente de las investigaciones que por alguna circunstancia o característica deban tener estricto seguimiento.
 
-Para efectos del párrafo anterior, las Fiscalías Especializadas y la Agencia de Investigación Criminal integrarán equipos de supervisión que les reportarán directamente, con la finalidad de lograr una distribución estratégica de los casos que permita impactar en el incremento substancial de la resolución de casos.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Para efectos del párrafo anterior, las Fiscalías Especializadas, la Agencia de Investigación Criminal y el Órgano Especializado de Mecanismos Alternativos de Solución de Controversias integrarán equipos de supervisión que les reportarán directamente, con la finalidad de lograr una distribución estratégica de los casos que permita impactar en el incremento sustancial de la resolución de casos.
 
 ###### Artículo 215.
 
 Principios.
 
-En la implementación del modelo de gestión, las Fiscalías Especializadas y la Agencia de Investigación Criminal deberán observar los siguientes principios:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+En la implementación del modelo de gestión, las Fiscalías Especializadas, la Agencia de Investigación Criminal y el Órgano Especializado de Mecanismos Alternativos de Solución de Controversias deberán observar los siguientes principios:
 
 I. Trabajo colaborativo: Las personas servidoras públicas en el desempeño de la Función Sustantiva, actuarán en cada uno de sus actos de forma coordinada, participativa y sucesiva, con unidad de propósito y esfuerzo, a efecto de que la falta de alguno de sus integrantes no menoscabe la actuación y representación de la Institución;
 
@@ -5831,7 +6485,15 @@ Operación Sustantiva.
 
 Las personas agentes del Ministerio Público de la Federación, las personas agentes de la Policía Federal Ministerial, las personas peritas y las personas analistas, en la investigación y persecución de los hechos que la ley señala como delitos del orden federal, deberán ceñir su actuación al ámbito de su competencia, de conformidad con los principios y obligaciones previstas en los artículos 4, 47 y 48 de la Ley, y demás disposiciones que tengan el deber jurídico de observar, para lo cual deberán ser supervisados en todo momento por las personas que sean sus superiores en jerarquía, o por quienes ejerzan sobre ellas funciones de mando.
 
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Las personas agentes del Ministerio Público de la Federación, las personas agentes de la Policía Federal Ministerial, las personas peritas y las personas analistas, en el ejercicio de sus funciones, usarán en los procedimientos y trámites jurisdiccionales o administrativos la firma electrónica certificada por el Poder Judicial de la Federación o cualquier otra que instruya la Oficialía Mayor mediante disposiciones de carácter general.
+
 El control y evaluación técnico jurídica, la inspección, supervisión, investigación, revisión y control de la actuación de las personas agentes del Ministerio Público de la Federación, las personas agentes de la Policía Federal Ministerial, las personas peritas y las personas analistas corresponderá a la Fiscalía Especializada de Asuntos Internos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+El incumplimiento a los criterios señalados en el presente Capítulo será causa de responsabilidad.
 
 ###### Artículo 223.
 
@@ -5903,9 +6565,13 @@ X. En el caso de asuntos con detenido la carpeta de investigación deberá inici
 
 XI. Las Fiscalías Especiales, Fiscalías que integran el Sistema de Coordinación Regional o Unidades de Investigación, dentro de las veinticuatro horas posteriores a la aceptación de la competencia, deberán remitir la carpeta de investigación a la Unidad Administrativa que corresponda para su atención correspondiente;
 
-XII. Dentro de los cinco días hábiles siguientes al inicio de la carpeta de investigación, se verificará el cumplimiento total de los requisitos de procedencia y oportunidad previstos en el Código Nacional y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal; hecho lo anterior, en los casos que resulte procedente, deberán recabarse los datos de identificación de las partes y el consentimiento de la persona víctima o de la persona ofendida para la derivación de la carpeta de investigación a la persona facilitadora y se enviará la solicitud al Órgano Especializado de Mecanismos Alternativos de Solución de Controversias, en un plazo de veinticuatro horas;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Para efectos de la fracción anterior se realizarán previamente, todas las diligencias urgentes e inaplazables que sean necesarias, en caso de atraso deberá informar por escrito a la persona que sea su superior en jerarquía;
+XII. Dentro de los cinco días hábiles siguientes al inicio de la carpeta de investigación, se verificará el cumplimiento total de los requisitos de procedencia y oportunidad previstos en el Código Nacional y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal; hecho lo anterior, en los casos que resulte procedente, deberán recabarse los datos de identificación, domicilio y medio de contacto de las partes, previa corroboración por las personas agentes de la Policía Federal Ministerial, y el consentimiento de la persona víctima o de la persona ofendida para la derivación de la carpeta de investigación a la persona facilitadora y se enviará la solicitud al Órgano Especializado de Mecanismos Alternativos de Solución de Controversias en un plazo de veinticuatro horas;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XIII. Para efectos de la fracción anterior, se deberán realizar las actuaciones urgentes o inaplazables que sean necesarias, debiendo preservar los indicios en la carpeta de investigación, en caso de atraso, deberá informarlo por escrito a la persona que sea su superior en jerarquía;
 
 XIV. Cualquier diligencia, acto o técnica de investigación realizada por las personas agentes del Ministerio Público de la Federación debe registrarse y realizarse con motivo de la integración de una carpeta de investigación y estar vinculados directamente con el esclarecimiento de los hechos o la obtención de indicios o datos de prueba, así como contar, en su caso, con la aprobación de la persona en funciones de Fiscal en Jefe;
 
@@ -5949,9 +6615,91 @@ XXXII. En el término de las cuarenta y ocho horas posteriores a haberse decreta
 
 XXXIII. Dentro de las cuarenta y ocho horas posteriores a que la autoridad judicial lo hubiese determinado y notificado, informar a sus personas superiores en jerarquía la emisión del auto de apertura a juicio, señalando las pruebas que se desahogarán en juicio y, en su caso, los acuerdos probatorios a que hayan allegado las partes;
 
-XXXIV. Interponer en los plazos legales establecidos para tales efectos los medios de impugnación respectivos en contra de las determinaciones judiciales que resulten adversas a los intereses de la Fiscalía General mediante su generación en Justici@Net; asimismo, registrar dentro de las cuarenta y ocho horas posteriores a la emisión de las resoluciones judiciales de trámite y definitivas, según corresponda, precisando el sentido de la resolución recaída a los mismos e informar de manera permanente e ininterrumpida a sus personas superiores en jerarquía el estado procesal que guardan, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XXXV. En los casos que lo determinen las personas agentes del Ministerio Público de la Federación, verificar la posibilidad de tramitar soluciones alternas o la terminación anticipada del proceso, mediante el procedimiento abreviado, siempre que se cubran los requisitos establecidos en los artículos 188, 192 o 201 del Código Nacional.
+XXXIV. La persona agente del Ministerio Público de la Federación hará del conocimiento a las partes del procedimiento penal que podrán ser notificadas a través de correo electrónico, debiendo recabar los datos necesarios, en términos de los artículos 82, fracción I, inciso b y 83 del Código Nacional.
+
+La persona agente del Ministerio Público de la Federación deberá recabar el acuse de enviado y recibido de la notificación que sea remitida vía correo electrónico, con la finalidad de que sea agregado a la carpeta de investigación;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXV. La persona agente del Ministerio Público de la Federación deberá verificar que el Informe Policial Homologado se encuentre debidamente requisitado, de forma completa, íntegra y precisa, estableciendo las circunstancias de lugar, modo y tiempo, niveles de contacto y demás pormenores de la detención, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXVI. La persona agente del Ministerio Público de la Federación deberá ejercer actos de investigación pertinentes en las carpetas de investigación a su cargo, aun cuando estén judicializadas, a efecto de evitar su prescripción, reportando los movimientos a la persona Fiscal en Jefe;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXVII. En todas las carpetas de investigación donde se aseguren narcóticos, la persona agente del Ministerio Público de la Federación inmediatamente ordenará la conservación de las muestras representativas que estime adecuadas en cada caso y la realización de los dictámenes periciales correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXVIII. En los eventos de incineración de estupefacientes, psicotrópicos, sustancias nocivas o peligrosas para la salud, la persona agente del Ministerio Público de la Federación a cargo del evento deberá remitir copia del acta de identificación, conteo y pesaje al Órgano Interno de Control y a la Unidad de Registro de Aseguramientos Ministeriales y Destino Final;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXXIX. En el caso de detenciones en contra de mujeres embarazadas o que se encuentren lactando y proceda la prisión preventiva, se deberá informar inmediatamente a la persona detenida sobre su derecho a la salud y el interés superior de la niñez que le asiste, así como su derecho a solicitar a la autoridad judicial que se ejecute la prisión preventiva en su domicilio, salvo cuando se trate de asuntos en materia de delincuencia organizada, haya riesgo de sustracción de la acción de la justicia, se presuma un riesgo social o se requieran medidas especiales de seguridad, en cuyo caso se solicitará su internamiento en el centro penitenciario más cercano a su domicilio.
+
+Asimismo, se deberá solicitar al personal médico pericial la revisión inmediata de las personas detenidas para contar a la brevedad con el informe sobre las medidas de salud que se deban adoptar a fin de garantizar el principio de interés superior de la niñez y el derecho a la salud de la mujer;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XL. Interponer en los plazos legales establecidos para tales efectos los medios de impugnación respectivos en contra de las determinaciones judiciales que resulten adversas a los intereses de la Fiscalía General mediante su generación en Justici@Net; asimismo, registrar dentro de las cuarenta y ocho horas posteriores a la emisión de las resoluciones judiciales de trámite y definitivas, según corresponda, precisando el sentido de la resolución recaída a los mismos e informar de manera permanente e ininterrumpida a las personas superiores en jerarquía el estado procesal que guardan, y
+
+XLI. En los casos que lo determinen las personas agentes del Ministerio Público de la Federación, verificar la posibilidad de tramitar soluciones alternas o la terminación anticipada del proceso, mediante el procedimiento abreviado, siempre que se cubran los requisitos establecidos en los artículos 188, 192 o 201 del Código Nacional.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 223 Bis.
+
+Plazo para la integración de las carpetas de investigación.
+
+La persona agente del Ministerio Público de la Federación tendrá la obligación de integrar y, conforme a las formas de terminación de la investigación, resolver la carpeta a su cargo en un máximo de trescientos sesenta y cinco días naturales contados a partir de su apertura.
+
+Para lo anterior, tendrá la obligación de realizar y dar seguimiento a los actos de investigación, diligencias y actuaciones necesarias de la carpeta de investigación a su cargo.
+
+Cuando una carpeta de investigación haya excedido el plazo señalado en el primer párrafo, se deberán realizar las acciones siguientes:
+
+I. De manera conjunta, la persona agente del Ministerio Público de la Federación y su Fiscal en Jefe presentarán a la persona titular de la Fiscalía Especial, a la persona titular de la Unidad de Investigación o a la persona titular del Equipo Especial de Investigación y Litigación, según corresponda, la justificación por la que no fue resuelta la carpeta de investigación en el plazo de trescientos sesenta y cinco días naturales contados a partir de su fecha de apertura;
+
+La justificación deberá contener las acciones inmediatas a realizar para cumplir con el plan de investigación y los plazos en que se efectuarán éstas. El plan de investigación estará sujeto a la aprobación de la persona titular de la Fiscalía Especial, Unidad de Investigación o del Equipo Especial de Investigación y Litigación. Agotadas las acciones, la persona agente del Ministerio Público de la Federación y su Fiscal en Jefe determinarán si hay elementos suficientes para continuar con la investigación o, en su caso deberán:
+
+a. Determinar la carpeta de investigación conforme a las formas de terminación de la investigación y proceder a su notificación en términos del Código Nacional, o
+
+b. Elaborar un informe explicando las razones por las que no es posible determinar la investigación, a efecto de que la persona titular de la Fiscalía Especial, Unidad de Investigación o del Equipo Especial de Investigación y Litigación ordene las instrucciones que correspondan para resolver en definitiva la carpeta de investigación.
+
+II. Cuando la persona agente del Ministerio Público de la Federación y su Fiscal en Jefe no puedan determinar la carpeta de investigación por causa de la abstención de una entidad pública de proporcionar la información o documentación necesaria que posee en ejercicio de sus facultades y que sustenta los hechos o la responsabilidad penal en la carpeta de investigación, deberán:
+
+a. Requerir a la entidad pública, a través de los medios de apremio establecidos en el Código Nacional, que brinde la información o documentación en el plazo que le sea requerida, y
+
+b. Agotados los medios de apremio, y de prevalecer la omisión de la entidad pública, se realizará un último requerimiento donde se le informará: que se dará vista a las autoridades competentes a fin de que se determinen las responsabilidades que en su caso procedan y la consecuente abstención de investigar o el no ejercicio de la acción penal;
+
+III. Cuando la persona agente del Ministerio Público de la Federación y su Fiscal en Jefe no puedan determinar la carpeta de investigación en virtud de que no ha sido localizada la persona denunciante, la persona imputada o la persona víctima que sea indispensable para sustentar los hechos o la responsabilidad penal, se deberá:
+
+a. Instruir a la Policía Federal Ministerial para que: identifique el último domicilio de la persona denunciante, imputada o víctima; así como localice y obtenga una prueba de vida de ésta, en un plazo no mayor a tres meses, a efecto de que comparezca y se determine si hay elementos suficientes para continuar con la investigación.
+
+b. En caso de que no se haya localizado u obtenido una prueba de vida de la persona denunciante, imputada o víctima, determinará la conveniencia de solicitar a la autoridad judicial competente el inicio del procedimiento de declaración especial de ausencia, la declaración de ausencia y presunción de muerte, según corresponda, en los términos de la legislación procedimental aplicable.
+
+La persona agente del Ministerio Público de la Federación y su Fiscal en Jefe deberán dar seguimiento al procedimiento señalado en el párrafo anterior hasta la declaración de muerte, a efecto de resolver en definitiva la carpeta de investigación.
+
+En todos los casos, cuando la persona agente del Ministerio Público de la Federación determine el archivo temporal deberá revisar cuando menos cada año la procedencia de reactivar la investigación hasta que sea procedente el inciso a) de la fracción I del presente artículo, lo que deberá justificar ante la persona titular de la Fiscalía Especial, la persona titular de la Unidad de Investigación o la persona titular del Equipo Especial de Investigación y Litigación, según corresponda, quien lo hará del conocimiento de la Fiscalía Especializada de Asuntos Internos y el Órgano Interno de Control para que éstos ejerzan sus facultades correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 223 Ter.
+
+Colaboración en los procedimientos de declaración de ausencia y presunción de muerte.
+
+La solicitud del procedimiento de declaración especial de ausencia, la declaración de ausencia y presunción de muerte, según corresponda conforme a la legislación procedimental local aplicable a que se refiere el artículo anterior, será tramitada por la persona agente del Ministerio Público de la Federación y su Fiscal en Jefe, con asesoría y colaboración de la Unidad Especializada en Asuntos Jurídicos y de la Fiscalía Especial de Amparo, a través de sus personas agentes del Ministerio Público de la Federación adscritas en las entidades federativas, a fin de realizar las gestiones necesarias para su desahogo.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 223 Quáter.
+
+Medidas u órdenes de protección para mujeres, adolescentes, niñas y niños.
+
+Tratándose de casos de peligro inminente o extrema urgencia, las personas agentes del Ministerio Público Federal bajo su más estricta responsabilidad podrán determinar la desocupación inmediata del domicilio conyugal o de pareja, de la persona agresora, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, en los términos que se precisan en el artículo 34 Quáter, fracción VII de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 224.
 
@@ -5983,9 +6731,13 @@ d. El señalamiento de la persona que lo habría cometido o participado en su co
 
 e. La indicación de las personas que puedan fungir como personas testigos de los hechos denunciados.
 
-VIII. Entregar el resultado de los actos de investigación que le fueron solicitados a más tardar quince días previos a la expiración del plazo decretado para la realización de la investigación complementaria, y
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-IX. Registrar sus actuaciones en el Sistema de Información Criminal o SIC, a más tardar dentro de las cuarenta y ocho horas posteriores a su realización.
+VIII. En el caso de detenciones realizadas por personas agentes de la Policía Federal Ministerial, el Informe Policial Homologado deberá ser debidamente requisitado de forma completa, íntegra y precisa, estableciendo las circunstancias de lugar, modo y tiempo, niveles de contacto y pormenores de la detención, conforme a las disposiciones aplicables;
+
+IX. Entregar el resultado de los actos de investigación que le fueron solicitados a más tardar quince días previos a la expiración del plazo decretado para la realización de la investigación complementaria, y
+
+X. Registrar sus actuaciones en el Sistema de Información Criminal o SIC, a más tardar dentro de las cuarenta y ocho horas posteriores a su realización.
 
 ###### Artículo 225.
 
@@ -6299,7 +7051,9 @@ El Consejo de Gobierno del Sistema Institucional de Evaluación de Resultados se
 
 I. La persona titular de la Oficialía Mayor, quien lo presidirá;
 
-II. La persona titular de la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados quien ocupará la Secretaría Técnica;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+II. La persona titular de la Unidad Especializada en el Sistema Institucional de Evaluación de Resultados;
 
 III. La persona titular del Órgano Interno de Control;
 
@@ -6329,25 +7083,35 @@ XV. La persona titular del Centro de Formación y Servicio Profesional de Carrer
 
 XVI. La persona titular de la Unidad Especializada de Presupuesto y Tesorería;
 
-XVII. La persona titular de la Unidad Especializada de Infraestructura Tecnológica, Comunicaciones y Sistemas;
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVIII. La persona titular de la Unidad de Planeación y Coordinación Interinstitucional;
+XVII. La persona titular de la Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria;
 
-XIX. La persona titular de la Inspección General de Operaciones;
+XVIII. La persona titular de la Unidad Especializada de Infraestructura Tecnológica, Comunicaciones y Sistemas;
 
-XX. La persona titular de la Policía Federal Ministerial;
+XIX. La persona titular de la Unidad de Planeación y Coordinación Interinstitucional;
 
-XXI. La persona titular del Centro Federal Pericial Forense;
+XX. La persona titular de la Inspección General de Operaciones;
 
-XXII. La persona titular de Centro Federal de Inteligencia Criminal;
+XXI. La persona titular de la Policía Federal Ministerial;
 
-XXIII. La persona titular de la Unidad Especializada en Asuntos Jurídicos, y
+XXII. La persona titular del Centro Federal Pericial Forense;
 
-XXIV. La persona titular de la Unidad Especializada en Transparencia y Apertura Gubernamental.
+XXIII. La persona titular de Centro Federal de Inteligencia Criminal;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXIV. La persona titular de la Unidad Especializada en Transparencia y Apertura Gubernamental, y
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XXV. La persona titular de la Unidad Especializada en Asuntos Jurídicos, quien se hará cargo de la secretaría técnica, con voz y voto.
 
 La persona titular del Instituto Nacional de Ciencias Penales, y la persona presidente del Consejo Ciudadano, serán convocadas como invitadas permanentes, con voz, pero sin voto.
 
-Cada integrante podrá designar una persona servidora pública que lo supla en sus ausencias, quién deberá tener facultades para la toma de decisiones y será el vínculo entre la Unidad Administrativa que represente y el órgano de gobierno del Sistema Institucional de Evaluación de Resultados.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+Cada integrante podrá designar una persona servidora pública que lo supla en sus ausencias, quien deberá tener facultades para la toma de decisiones y será el vínculo entre la Unidad Administrativa que represente y el órgano de gobierno del Sistema Institucional de Evaluación de Resultados.
 
 La persona titular del Centro de Formación y Servicio Profesional de Carrera suplirá a la persona presidente en sus ausencias.
 
@@ -6387,15 +7151,31 @@ X. Emitir lineamientos para la captura, recolección, suministro, actualización
 
 XI. Verificar y validar los datos y la información que genere el Sistema Estadístico de la Fiscalía General;
 
-XII. Constituir los grupos de trabajo o comités que se consideren necesarios, de manera permanente o transitoria, para el estudio, análisis y desahogo de los asuntos de su competencia;
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XIII. Establecer, actualizar y mantener en operación el sistema de control interno de la Fiscalía General, tomando como referencia el Marco Integrado de Control Interno del Sistema Nacional de Fiscalización, para lo cual emitirá las disposiciones relativas al cumplimiento del objetivo del control interno, que sean necesarias en las categorías correspondientes a la operación, información, cumplimiento y salvaguarda, así como validar y aprobar los indicadores, la metodología de evaluación de la gestión y las metas de la Fiscalía General;
+XII. Emitir los lineamientos para la organización y conservación de los archivos de la Institución y disponer la integración del grupo interdisciplinario a que se refiere la Ley General de Archivos;
 
-XIV. Recibir y revisar la información que le remita del Órgano Interno de Control en materia de auditorías, revisiones y visitas que realice, con el objeto de examinar, supervisar, fiscalizar, evaluar y promover en la Fiscalía General la eficiencia, eficacia y legalidad en su gestión y el funcionamiento del sistema de control interno, así como de las recomendaciones y las medidas correctivas que se realicen;
+XIII. Constituir los grupos de trabajo o comités que se consideren necesarios, de manera permanente o transitoria, para el estudio, análisis y desahogo de los asuntos de su competencia;
 
-XV. Evaluar y supervisar el funcionamiento del sistema de control interno de la Fiscalía General, así como ordenar las acciones que las Unidades Administrativas deben realizar para su mejora continua; además de instrumentar los mecanismos, procedimientos específicos y acciones que se requieran para la debida observancia de las disposiciones que se emitan en la materia, y
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-XVI. Implementar, actualizar y mejorar el sistema de control interno de la Fiscalía General, identificando y clasificando los mecanismos de control en preventivos, detectivos y correctivos, privilegiándose los preventivos y las prácticas de autocontrol, para evitar que se produzcan resultados o acontecimientos no deseados o inesperados que impidan en términos de eficiencia, eficacia y economía el cumplimiento de las metas y objetivos de la Fiscalía General.
+XIV. Establecer, actualizar y mantener en operación el sistema de control interno de la Fiscalía General, tomando como referencia el Marco Integrado de Control Interno del Sistema Nacional de Fiscalización, para lo cual emitirá las disposiciones relativas al cumplimiento del objetivo del control interno que sean necesarias en las categorías correspondientes a la operación, información, cumplimiento y salvaguarda, así como validar y aprobar los indicadores, la metodología de evaluación de la gestión y las metas de la Fiscalía General;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XV. Recibir y revisar la información que le remita el Órgano Interno de Control en materia de auditorías, revisiones y visitas que realice, con el objeto de examinar, supervisar, fiscalizar, evaluar y promover en la Fiscalía General la eficiencia, eficacia y legalidad en su gestión y el funcionamiento del sistema de control interno, así como de las recomendaciones y las medidas correctivas que se realicen;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVI. Evaluar y supervisar el funcionamiento del sistema de control interno de la Fiscalía General, ordenar las acciones que las Unidades Administrativas deben realizar para su mejora continua, e instrumentar los mecanismos, procedimientos específicos y acciones para la debida observancia de las disposiciones que se emitan en la materia;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVII. Implementar, actualizar y mejorar el sistema de control interno de la Fiscalía General, identificando y clasificando los mecanismos de control en preventivos, detectivos y correctivos, privilegiándose los preventivos y las prácticas de autocontrol, para evitar que se produzcan resultados o acontecimientos no deseados o inesperados que impidan en términos de eficiencia, eficacia y economía el cumplimiento de las metas y objetivos de la Fiscalía General, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+XVIII. Emitir reglas para su funcionamiento y operación.
 
 ### CAPÍTULO III. INTELIGENCIA.
 
@@ -6475,6 +7255,10 @@ Para efectos de la notificación del inicio de la imposición del correctivo dis
 
 En cuanto al procedimiento, éste se regirá conforme lo dispuesto por la Ley General de Responsabilidades Administrativas y en lo no previsto, conforme a las disposiciones de la Ley Federal del Procedimiento Contencioso Administrativo.
 
+## TÍTULO XII. RECOMPENSAS
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
 ### CAPÍTULO I. NORMATECA.
 
 ###### Artículo 249.
@@ -6525,9 +7309,9 @@ Toda la información generada, obtenida, adquirida, transformada o en posesión 
 
 Información de la Fiscalía General.
 
-> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
 
-Los expedientes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, circulares, contratos, convenios, instructivos, notas, memorandos, bases de datos, sistemas informáticos o bien, cualquier otro registro que documente el ejercicio de atribuciones, facultades y/o funciones de las personas servidoras públicas de la Fiscalía General o por intercambio de información con otros entes públicos o privados, nacionales o internacionales, sin importar su fuente o fecha de elaboración, podrán actualizar los supuestos de reserva o confidencialidad, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, y demás disposiciones aplicables en la materia.
+Los expedientes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, circulares, contratos, convenios, instructivos, notas, memorandos, bases de datos, sistemas informáticos o bien, cualquier otro registro que documente el ejercicio de atribuciones, facultades y/o funciones de las personas servidoras públicas de la Fiscalía General o por intercambio de información con otros entes públicos o privados, nacionales o internacionales, sin importar su fuente o fecha de elaboración, podrán actualizar los supuestos de reserva o confidencialidad, de conformidad con la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en la materia.
 
 Los actos o registros de investigación, así como todos los documentos, independientemente de su contenido o naturaleza, los objetos, los registros de voz e imágenes o elementos relacionados, son estrictamente reservados, por lo que únicamente las partes del proceso penal podrán tener acceso a los mismos, con las limitaciones establecidas en el Código Nacional, la Ley Nacional de Extinción de Dominio y demás disposiciones aplicables. Cuando alguna autoridad deba acceder, por estar prevista en términos de la ley y la normatividad aplicable su facultad, deberá consultar en sitio la información y recabar las copias certificadas que requiera para el ejercicio de sus atribuciones.
 
@@ -6535,7 +7319,9 @@ Los actos o registros de investigación, así como todos los documentos, indepen
 
 Clasificación de la información.
 
-La carga de la prueba para justificar toda negativa de acceso a la información, por actualizarse cualquiera de los supuestos de clasificación previstos en la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública, será responsabilidad de las personas titulares de las Unidades Administrativas, por lo que deberán fundar y motivar adecuadamente la clasificación de la información ante una solicitud de acceso a la información, al generar versiones públicas para dar cumplimiento a las obligaciones de transparencia o cuando ello se determine mediante resolución de autoridad competente.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+La carga de la prueba para justificar toda negativa de acceso a la información, por actualizarse cualquiera de los supuestos de clasificación previstos en la Ley General de Transparencia y Acceso a la Información Pública será responsabilidad de las personas titulares de las Unidades Administrativas, por lo que deberán fundar y motivar adecuadamente la clasificación de la información ante una solicitud de acceso a la información, al generar versiones públicas para dar cumplimiento a las obligaciones de transparencia o cuando ello se determine mediante resolución de autoridad competente.
 
 Las personas titulares de las Unidades Administrativas serán las responsables de clasificar la información, por lo que deberán examinar la clasificación invocada para verificar si encuadra en una causal de reserva o de confidencialidad. En ausencia de las personas titulares de las Unidades Administrativas, la información será clasificada por la persona que las supla, en términos de la Ley y el presente Estatuto Orgánico.
 
@@ -6589,7 +7375,9 @@ II. El Comité de Transparencia, cuando determine que no se actualizan las causa
 
 Obligaciones de transparencia.
 
-La Fiscalía General, a través de sus Unidades Administrativas publicará, difundirá y actualizará en su página oficial y en el Sistema de Portales de Obligaciones de Transparencia de la Plataforma Nacional de Transparencia, la información derivada de las obligaciones de transparencia comunes y específicas previstas en la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+La Fiscalía General, a través de la Unidad Especializada en Transparencia y Apertura Gubernamental propiciará que las Unidades Administrativas que la conforman publiquen, difundan y actualicen en su página oficial y Portal de Obligaciones de Transparencia de la Plataforma Nacional de Transparencia, la información derivada de las obligaciones de transparencia comunes y específicas previstas en la Ley General de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 260.
 
@@ -6636,6 +7424,444 @@ Información estadística.
 Los datos estadísticos asentados en los informes que remitan las Unidades Administrativas deberán ser congruentes con las actividades desarrolladas en cumplimiento de las Funciones Sustantivas y constituirán la información que deba ser remitida al Sistema Institucional de Evaluación de Resultados.
 
 La información o datos estadísticos emitidos por el Sistema Estadístico de la Fiscalía General será la fuente de información oficial y obligatoria para los reportes, informes o solicitudes de información referentes a las actividades de la Fiscalía General.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+## TÍTULO XIII. ÓRGANOS COLEGIADOS
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 266.
+
+Ofrecimiento de Recompensas.
+
+El ofrecimiento de recompensas sólo se efectuará en favor de personas que colaboren para la obtención de información útil y veraz, en las situaciones extraordinarias que justifiquen las recompensas y que correspondan a las investigaciones a cargo de la Fiscalía General, tendientes a la identificación, localización, detención o aprehensión de personas relacionadas con la investigación de los hechos que la ley señala como delitos del orden federal.
+
+En ningún caso se cubrirán recompensas a persona servidora pública que durante la vigencia del ofrecimiento de recompensa hubiese ejercido funciones relacionadas con la seguridad pública, así como a cónyuges, concubinas, concubinos o persona conviviente y parientes consanguíneos o por afinidad hasta el cuarto grado.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 267.
+
+Comité de Recompensas.
+
+Los ofrecimientos de recompensas estarán a cargo de un órgano colegiado denominado Comité de Recompensas.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 268.
+
+Integración.
+
+El Comité de Recompensas se integrará anualmente por tres de las personas titulares de las Unidades Administrativas enlistadas a continuación:
+
+I. Fiscalía Especializada de Control Competencial;
+
+II. Fiscalía Especializada de Control Regional;
+
+III. Fiscalía Especializada en materia de Delincuencia Organizada;
+
+IV. Fiscalía Especializada en materia de Delitos Electorales;
+
+V. Fiscalía Especializada en materia de Combate a la Corrupción;
+
+VI. Fiscalía Especializada en materia de Derechos Humanos;
+
+VII. Fiscalía Especializada en Delitos de Violencia Contra las Mujeres, Grupos en Situación de Vulnerabilidad y Trata de Personas, o
+
+VIII. Fiscalía Especializada de Asuntos Internos.
+
+La integración del Comité de Recompensas comenzará con las personas titulares de las Unidades Administrativas señaladas en las fracciones I a III del párrafo anterior. Posteriormente, se integrará por aquellas personas titulares referidas en las fracciones II a IV y así sucesivamente.
+
+De igual forma, la presidencia del Comité de Recompensas se rotará de manera sucesiva cada año, iniciando en la fracción I del presente artículo.
+
+Serán invitados permanentes del Comité de Recompensas la persona titular de la Oficialía Mayor, la persona titular de la Agencia de Investigación Criminal y la persona titular del Órgano Interno de Control.
+
+La persona titular de la Unidad Especializada en Asuntos Jurídicos fungirá como secretaria técnica.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 269.
+
+Sesiones.
+
+El Comité de Recompensas sesionará de forma ordinaria en los meses de enero y julio de cada año y de forma extraordinaria previa solicitud de cualquiera de sus integrantes. Durante la sesión de julio se anunciará a las personas titulares de las Fiscalías Especializadas que fungirán como integrantes del Comité de Recompensas para el siguiente año, así como a la persona titular en la que recaerá la presidencia.
+
+Para la celebración de las sesiones ordinarias o extraordinarias, la secretaría técnica enviará a las personas participantes la convocatoria con el orden del día y la documentación correspondiente a las personas integrantes con una anticipación de cinco días hábiles para las ordinarias y de al menos veinticuatro horas para las extraordinarias.
+
+Para que las sesiones del Comité de Recompensas se consideren válidas, se requerirá de la asistencia de la mayoría de las personas integrantes. Las resoluciones se tomarán por mayoría de votos de las personas integrantes presentes. En caso de empate, la presidencia tendrá voto de calidad en la toma de decisiones.
+
+La persona titular de la secretaría técnica deberá informar en cada sesión el cumplimiento de los acuerdos previamente adoptados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 270.
+
+Sesiones por medios electrónicos.
+
+En el caso de las sesiones celebradas a través de medios electrónicos, la secretaría técnica remitirá a las personas integrantes del Comité de Recompensas un correo electrónico con los puntos de acuerdo que se someterán a votación, notificando el plazo máximo para emitir su voto, el cual se realizará en los términos: aceptado o rechazado.
+
+Una vez vencido el plazo para emitir el voto, la persona encargada de la secretaría técnica verificará el sentido de éstos y dará cuenta de los acuerdos adoptados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 271.
+
+Actas de las sesiones.
+
+La persona encargada de la secretaría técnica levantará un acta de cada sesión, autorizándola con su firma, la cual llevará un número consecutivo y contendrá los acuerdos aprobados y la lista de asistencia firmada por las personas asistentes o la constancia de emisión de votos vía electrónica.
+
+La persona encargada de la secretaría técnica resguardará los documentos, correspondencia, comunicaciones y el archivo del Comité de Recompensas.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 272.
+
+Funciones del Comité de Recompensas.
+
+El Comité de Recompensas tendrá las siguientes funciones:
+
+I. Autorizar y emitir los ofrecimientos de recompensas, estableciendo su monto y vigencia, así como las condiciones y modalidades para su entrega;
+
+II. Evaluar la información recibida y determinar su relevancia y veracidad a fin de autorizar la entrega de las recompensas;
+
+III. Garantizar la confidencialidad de las personas informantes, en cada caso;
+
+IV. Dictar las medidas para la supervisión del proceso de entrega de recompensas;
+
+V. Entregar a la persona titular de la Fiscalía General un informe público anual sobre el estado de los ofrecimientos de recompensas y el pago de éstas;
+
+VI. Emitir reglas para su funcionamiento y para el ofrecimiento, el seguimiento y la entrega de recompensas;
+
+VII. Resolver los casos específicos no previstos en materia de recompensas;
+
+VIII. Revisar los informes periódicos que se le rindan sobre los ofrecimientos de recompensas vigentes y resolver acerca de su vigencia;
+
+IX. Emitir sus reglas de operación, funcionamiento y procedimientos previo visto bueno de la Unidad Especializada en Asuntos Jurídicos, y
+
+X. Las demás que se establezcan en algún otro ordenamiento jurídico aplicable en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 273.
+
+Propuesta de recompensa.
+
+La persona agente del Ministerio Público de la Federación que requiera información adicional para la resolución de una investigación a su cargo, previo visto bueno de la persona Fiscal en Jefe, propondrá a la persona titular de la Fiscalía Especial, a la persona titular de la Unidad de Investigación o la persona titular del Equipo Especial de Investigación y Litigación a la cual está adscrita, ofrecer una recompensa.
+
+La petición deberá hacerla por escrito, debidamente fundada y motivada, acompañando copia certificada de toda la documentación que sustente su propuesta.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 274.
+
+Presentación de la propuesta de recompensa.
+
+La persona titular de la Fiscalía Especial, la persona titular de la Unidad de Investigación o la persona titular del Equipo Especial de Investigación y Litigación, que corresponda, previa autorización de la persona titular de la Fiscalía Especializada que corresponda presentará la propuesta ante la secretaría técnica del Comité de Recompensas.
+
+La Secretaría Técnica informará de la propuesta al presidente del Comité de Recompensas en turno, y de acuerdo con sus indicaciones, la incluirá en la siguiente sesión ordinaria o extraordinaria.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 275.
+
+Presentación y discusión de la propuesta de recompensa.
+
+La persona titular de la Fiscalía Especial, la persona titular de la Unidad de Investigación o la persona titular del Equipo Especial de Investigación y Litigación, que corresponda, asistirá a la sesión del Comité de Recompensas que al efecto se convoque, teniendo derecho al uso de la voz para justificar su propuesta y resolver los cuestionamientos de los integrantes del Comité de Recompensas.
+
+La aprobación del Comité de Recompensas no prejuzga sobre la disponibilidad de los recursos fideicomitidos o presupuestarios de la Institución, por lo que la persona titular de la Oficialía Mayor deberá manifestarse con respecto a la viabilidad presupuestaria de la emisión del acuerdo de ofrecimiento de recompensa.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 276.
+
+Acuerdo de recompensa.
+
+Los ofrecimientos de recompensa se emitirán por escrito, debidamente fundados y motivados, y serán firmados por los integrantes del Comité de Recompensas, expresando al menos:
+
+I. La descripción de la información útil y veraz que corresponda a las investigaciones a cargo de la Fiscalía General, tendientes a la identificación, localización, detención o aprehensión de personas relacionadas con la investigación de los hechos que la ley señala como delitos del orden federal;
+
+II. El monto máximo que se pagará en el caso concreto, basado en la complejidad del caso, la falta de información disponible, impacto de la información en el éxito de la investigación, la gravedad de los hechos investigados, los riesgos para los informantes o aquellas otras circunstancias que el Comité de Recompensas determine en cada caso concreto;
+
+III. La instrucción para su publicación en el Diario Oficial de la Federación y a través de los medios de comunicación que se estimen adecuados para asegurar una amplia difusión del aviso de recompensa;
+
+IV. La precisión de los canales seguros y confidenciales para la recepción de información por la Fiscalía Especial, la Unidad de Investigación o el Equipo Especial de Investigación y Litigación a cargo de la investigación, y
+
+V. La vigencia del ofrecimiento de la recompensa.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 277.
+
+Recepción de información.
+
+Recibida la información por la que se ha ofrecido una recompensa, la persona agente del Ministerio Público de la Federación a cargo de la investigación ordenará la práctica de las diligencias que sean necesarias a efecto de registrar y conservar la información recibida y determinar su relevancia y veracidad.
+
+Por conducto de la persona titular de la Fiscalía Especial, la persona titular de la Unidad de Investigación o la persona titular del Equipo Especial de Investigación y Litigación a cargo de la investigación se hará del conocimiento del Comité de Recompensas el resultado a efecto de que se pronuncie sobre el pago que pudiera corresponder.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 278.
+
+Instrucción para el pago de la recompensa.
+
+Previa convocatoria, el Comité de Recompensas analizará el informe remitido por la Fiscalía Especial, la Unidad de Investigación o del Equipo Especial de Investigación y Litigación a cargo de la investigación, e instruirá el pago de la recompensa, conforme al monto máximo previamente determinado tomando en consideración la relevancia, veracidad de la información y demás particularidades del caso.
+
+Ordenado el pago, la persona titular de la Fiscalía Especial, la persona titular de la Unidad de Investigación o la persona titular del Equipo Especial de Investigación y Litigación a cargo de la investigación deberá obtener la suficiencia económica por parte del Comité Técnico del Fideicomiso o la suficiencia presupuestaria por parte de la persona titular de la Oficialía Mayor, según corresponda.
+
+El pago se hará con cargo al patrimonio del fideicomiso denominado Fondo para el Mejoramiento de la Procuración de Justicia y, supletoriamente, con cargo al presupuesto anual del Ramo 49 Fiscalía General de la República.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 279.
+
+Notificación del pago de la recompensa.
+
+La persona informante será notificada sobre la decisión del Comité de Recompensas y el monto de la recompensa a pagar.
+
+El pago se realizará por conducto de la Fiscalía Especial, de la Unidad de Investigación o del Equipo Especial de Investigación y Litigación a cargo de la investigación.
+
+Tanto en la notificación del acuerdo del Comité de Recompensas, como en el pago de la recompensa deberán adoptarse las medidas necesarias para garantizar la confidencialidad y seguridad de la persona informante.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 280.
+
+Informe sobre los ofrecimientos de recompensas vigentes.
+
+La persona agente del Ministerio Público de la Federación a cargo de la investigación en donde se ofreció una recompensa deberá rendir anualmente un informe al Comité de Recompensas en que justifique la necesidad de mantener vigente el ofrecimiento de recompensa. La falta de presentación oportuna del informe será motivo suficiente para que el Comité de Recompensas cancele o suspenda la vigencia de un ofrecimiento de recompensa, sin perjuicio de la responsabilidad en que incurra el responsable de la omisión. El Comité de Recompensas resolverá lo que corresponda en cada caso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+## TÍTULO XIII. ARMAMENTO, MUNICIONES Y ACCESORIOS
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 281.
+
+Órganos Colegiados.
+
+Cuando por disposición de alguna ley o disposición de carácter general se integre un comité, comisión, consejo u órgano colegiado bajo cualquier denominación, se estará a lo previsto en el presente Título.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 282.
+
+Funciones.
+
+Los órganos colegiados creados al interior de la Fiscalía General tendrán las siguientes funciones:
+
+I. Emitir los instrumentos necesarios para su funcionamiento, previo visto bueno de la Unidad Especializada en Asuntos Jurídicos;
+
+II. Resolver los asuntos materia de su competencia;
+
+III. Designar a la persona entre sus integrantes que fungirá como presidenta, a falta de designación expresa;
+
+IV. Celebrar las sesiones ordinarias y extraordinarias a que se les convoque;
+
+V. Aprobar el calendario anual de sesiones ordinarias;
+
+VI. Autorizar, en casos extraordinarios y cuando así se justifique, la creación de subcomités así como su integración, la forma y términos en que deberán informar al órgano colegiado de los asuntos que se les hayan encomendado;
+
+VII. Rendir un informe anual a la persona titular de la Fiscalía General sobre el estado que guardan los asuntos a su cargo, y
+
+VIII. Las demás que se establezcan en algún otro ordenamiento jurídico, aplicable en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 283.
+
+Integrantes.
+
+El total de integrantes del órgano colegiado deberá resultar en un número impar. Se integrará por las personas titulares de las Unidades Administrativas relacionadas con el objeto del órgano colegiado, las cuales tendrán voz y voto en el desarrollo de las sesiones. Serán suplidas por personas que ocupen la jerarquía inmediata inferior a la persona titular, dentro de la Unidad Administrativa de que se trate. Toda persona integrante deberá votar los asuntos que se sometan a su consideración, aceptándolos o rechazándolos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 284.
+
+Invitados.
+
+Cuando la persona titular de la Oficialía Mayor y la persona titular del Órgano Interno de Control no sean integrantes de un comité, siempre serán convocadas a las sesiones como invitados permanentes, con voz y sin voto, sin perjuicio de la facultad del presidente del órgano colegiado de invitar a las sesiones a las personas que estime adecuado para el desahogo de los asuntos competentes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 285.
+
+Secretaría Técnica.
+
+Los órganos colegiados contarán con una secretaría técnica responsable de levantar las actas, resguardar los documentos, correspondencia y archivo, así como de prestar auxilio al seguimiento de los asuntos competencia del órgano. A falta de designación expresa por el órgano colegiado, la secretaría técnica recaerá en la persona titular de la Unidad Especializada en Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 286.
+
+Sesiones.
+
+Los órganos colegiados sesionarán en forma ordinaria al menos una vez por año y de forma extraordinaria previa convocatoria de cualquiera de sus integrantes. Para la celebración de las reuniones ordinarias o extraordinarias la secretaría técnica enviará la convocatoria con el orden del día y la documentación correspondiente a las personas integrantes, con una anticipación de al menos veinticuatro horas o la que se establezca en sus reglas de operación.
+
+Para que las sesiones se consideren válidas, se requerirá de la asistencia de la mayoría de las personas integrantes. Las resoluciones se tomarán por mayoría de votos de las personas integrantes presentes. En caso de empate, la presidencia tendrá voto de calidad en la toma de decisiones.
+
+La persona titular de la secretaría técnica deberá informar en cada sesión el cumplimiento de los acuerdos previamente adoptados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 287.
+
+Sesiones por medios electrónicos.
+
+En el caso de las sesiones celebradas a través de medios electrónicos, la secretaría técnica remitirá a las personas integrantes del órgano colegiado un correo electrónico con los puntos de acuerdo que se someterán a votación, notificando el plazo máximo para emitir su voto, el cual se realizará en los términos: aceptado o rechazado.
+
+Una vez vencido el plazo para emitir el voto, la persona encargada de la secretaría técnica verificará el sentido de éstos y dará cuenta de los acuerdos adoptados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 288.
+
+Actas de las sesiones.
+
+La persona encargada de la secretaría técnica levantará un acta de cada sesión, autorizándola con su firma, la cual llevará un número consecutivo y contendrá los acuerdos aprobados y la lista de asistencia firmada por las personas asistentes o la constancia de emisión de votos vía electrónica.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 289.
+
+Asignación de armamento, municiones y accesorios.
+
+Las personas servidoras públicas autorizadas por el Fiscal General y facultadas para el uso de armas de fuego deberán cumplir con los requisitos para su inclusión en la licencia oficial colectiva otorgada a la Fiscalía General por la Secretaría de la Defensa Nacional, cumpliendo las obligaciones, medidas de seguridad y de cuidado, así como la capacitación necesaria para el uso de armamento.
+
+La asignación de armamento, municiones y accesorios consistirá en:
+
+I. Armamento: las armas de fuego registradas en la licencia oficial colectiva otorgada a la Fiscalía General;
+
+II. Accesorios: los cargadores, portafusiles, portacargadores, portapistolas, miras ópticas y cualquier otro aditamento, dispositivo o complemento que se provea conjuntamente o con posterioridad para su uso con el tipo de arma de fuego asignada, y
+
+III. Municiones: los cartuchos o proyectiles necesarios para cargar y accionar las armas de fuego propiedad de la Fiscalía General.
+
+La persona titular de la Policía Federal Ministerial realizará la asignación de armas, accesorios y municiones a las personas agentes de la Policía Federal Ministerial a su cargo. Para el caso de personas servidoras públicas distintas a las mencionadas la asignación la realizará a la Unidad de Seguridad Institucional.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 290.
+
+Requisitos de las personas servidoras públicas para la asignación de armamento, municiones y accesorios.
+
+Para que les sea asignado armamento, accesorios y municiones, las personas servidoras públicas deberán cumplir con los requisitos establecidos en la licencia oficial colectiva otorgada a la Fiscalía General y además:
+
+I. Aprobar los exámenes físicos y de control de confianza para la portación de armas, previstos en la licencia oficial colectiva otorgada a la Fiscalía General;
+
+II. Acreditar la capacitación necesaria en cuanto a medidas de seguridad, portación, uso y manejo de armas prevista en la licencia oficial colectiva otorgada a la Fiscalía General;
+
+III. No tener impedimento legal o restricción judicial para la portación de armas, y
+
+IV. Encontrarse registradas en la licencia oficial colectiva otorgada a la Fiscalía General.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 291.
+
+Supervisión y resguardo.
+
+La persona titular de la Policía Federal Ministerial y la persona titular de la Unidad de Seguridad Institucional, en el ámbito de sus respectivas competencias, tendrán las obligaciones siguientes:
+
+I. Verificar que la asignación de armamento, accesorios y municiones se realice únicamente a las personas servidoras públicas que reúnan los requisitos establecidos en la licencia oficial colectiva otorgada a la Fiscalía General;
+
+II. Verificar que los depósitos de armamento, accesorios y municiones de la Fiscalía General cuenten con las especificaciones de seguridad establecidas en la licencia oficial colectiva otorgada a la Fiscalía General;
+
+III. Supervisar que el armamento, accesorios y municiones se encuentren en perfecto estado de funcionamiento al momento de su asignación, quedando estrictamente prohibida la entrega de aquellos que no se encuentren en condiciones óptimas;
+
+IV. Actualizar de manera semestral, los controles de resguardos del armamento, accesorios y municiones, así como las credenciales que amparen la portación de armas de fuego;
+
+V. Constatar que las personas servidoras públicas incluidas en la licencia oficial colectiva otorgada a la Fiscalía General, tengan credencial institucional vigente con el señalamiento expreso que ampare la portación de arma de fuego;
+
+VI. Supervisar que las personas servidoras públicas con asignación de armamento, accesorios y municiones, cumplan con las obligaciones establecidas en este Estatuto Orgánico;
+
+VII. Supervisar que las personas servidoras públicas con asignación de armamento, participen en los cursos de capacitación que ofrezca la Fiscalía General, especialmente en aquellos enfocados en la ética policial en materia de manejo de armamento, uso legítimo de la fuerza y respeto a los derechos humanos, y
+
+VIII. La Policía Federal Ministerial y, en su caso, la Unidad de Seguridad Institucional, una vez que lleven a cabo la asignación del armamento, municiones y accesorios, deberán generar el formato de resguardo correspondiente, que deberá ser firmado por las personas servidoras públicas, con el visto bueno de la persona titular de su Unidad Administrativa de adscripción.
+
+La Policía Federal Ministerial deberá informar cada asignación y resguardo del armamento a la Unidad de Seguridad Institucional, para su registro y seguimiento, además realizará las acciones necesarias que permitan acceso a dicha Unidad para consulta al sistema informático en el que conserva los resguardos realizados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 292.
+
+Medidas de cuidado y protección.
+
+Las personas servidoras públicas autorizadas para la portación de armas de fuego deberán tomar las medidas de cuidado y protección siguientes:
+
+I. Mantener en buenas condiciones de uso y operación el armamento, accesorios y municiones, debiendo gestionar su mantenimiento periódico.
+
+II. En caso de descompostura, deterioro, daño o modificación del armamento deberán notificarlo de inmediato a la persona que sea de su superior jerarquía. Cuando lo anterior sea imputable a la persona resguardante, ésta deberá asumir los costos de reparación o reposición;
+
+III. Abstenerse de dañar o modificar el armamento, accesorios y municiones, total o parcialmente, incluyendo el número de la matrícula o de su inventario;
+
+IV. Presentar el armamento para su revista ante la Secretaría de la Defensa Nacional y ante la Fiscalía General en las fechas, lugares y plazos que se señalen para tal efecto;
+
+V. Llevar a cabo las medidas de prevención que disminuyan los riesgos de robo, pérdida, destrucción o extravío, del armamento, accesorios y municiones;
+
+VI. Entregar el armamento, accesorios y municiones en condiciones óptimas de uso cuando así le sea requerido;
+
+VII. Al concluir su servicio, entregar en los depósitos de la Fiscalía General la credencial que ampara la portación de armas de fuego, así como el armamento, accesorios y municiones al concluir su servicio, absteniéndose de preservarlos en instalaciones ajenas a la Fiscalía General;
+
+VIII. Abstenerse de portar a la vista el armamento dentro y fuera de las instalaciones de la Fiscalía General, y
+
+IX. Devolver a la persona titular de la Unidad Administrativa de su adscripción, cuando le sea solicitado, el armamento, accesorios y municiones bajo su resguardo, así como la credencial que ampara la portación de arma de fuego, de manera inmediata.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 293.
+
+Robo, pérdida, destrucción o extravío.
+
+En caso de robo, pérdida, destrucción o extravío del armamento, accesorios o municiones, la persona servidora pública, en un plazo máximo de setenta y dos horas contadas a partir de ocurrido el evento, deberá realizar lo siguiente:
+
+I. Presentar ante el Ministerio Público de la Federación la denuncia de robo, pérdida, destrucción o extravío, de manera inmediata;
+
+II. Hacer del conocimiento de la Secretaría de la Defensa Nacional tal hecho, mediante oficio con acuse de recibo o al correo electrónico que ésta designe, adjuntando copia de la denuncia correspondiente;
+
+III. Hacer del conocimiento de los hechos a la Unidad de Seguridad Institucional, mediante aviso al correo electrónico que ésta señale, y
+
+IV. Informar de manera escrita a la persona que sea de su superior jerarquía los sucesos ocurridos, con copia de conocimiento a la persona titular de la Unidad Administrativa de su adscripción, a la persona titular de la Unidad de Seguridad Institucional y a la persona titular de la Unidad Especializada en Asuntos Jurídicos de la Institución, adjuntando copia de los siguientes documentos:
+
+a. Acuse de recibo del oficio dirigido a la Secretaría de la Defensa Nacional referido en la fracción II del presente artículo;
+
+b. Resguardo del armamento;
+
+c. Credencial institucional vigente que ampare la portación de arma de fuego;
+
+d. Último talón de pago, y
+
+e. Dos copias certificadas de la denuncia presentada ante el Ministerio Público de la Federación.
+
+La persona servidora pública deberá precisar ante cada una de las autoridades señaladas en las fracciones anteriores, el lugar, fecha, y hora del incidente, así como el tipo de armamento, modelo, calibre y número de matrícula, accesorios y municiones extraviados, destruidos o robados.
+
+En virtud del robo, pérdida, destrucción o extravío del armamento asignado a la persona servidora pública, la persona que sea de su superior jerarquía deberá asignarle funciones administrativas hasta en tanto no se haya resarcido el daño y se determinen las responsabilidades correspondientes. De igual forma, deberá entregar a la persona superior jerarquía la credencial que lo acredite como facultado para la portación de arma de fuego.
+
+Una vez resarcido el daño y determinada la responsabilidad correspondiente, la persona que sea de su superior jerarquía podrá solicitar nuevamente la asignación de armamento a la persona servidora pública, debiendo realizar las gestiones administrativas correspondientes, sin perjuicio de las consecuencias a que haya lugar en los procedimientos administrativos que se inicien.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 294.
+
+Trámite de recuperación o resarcimiento.
+
+La Policía Federal Ministerial, y en su caso la Unidad de Seguridad Institucional, llevará a cabo los procedimientos administrativos de recuperación, resarcimiento y determinación del costo por el robo, pérdida, destrucción o extravío del armamento, accesorios o municiones.
+
+Para estos efectos, solicitará al Centro Federal Pericial Forense la emisión del dictamen de avalúo correspondiente, adjuntando para ello copia certificada de la denuncia presentada por el robo, pérdida, destrucción o extravío del armamento.
+
+La Policía Federal Ministerial, y en su caso, la Unidad de Seguridad Institucional solicitará el pago del resarcimiento pecuniario, incluyendo el costo del armamento, municiones, accesorios, multas, deducibles y demás gastos en que incurra la Fiscalía General, a la persona servidora pública responsable. Asimismo, realizará el procedimiento de la baja del armamento, accesorios y municiones robados, extraviados o destruidos de los inventarios fijos.
+
+A consideración de la Unidad de Seguridad Institucional y previa justificación de la persona titular de la Policía Federal Ministerial, se podrá exceptuar el pago referido en este artículo cuando el robo, pérdida, destrucción o extravío se genere como consecuencia del cumplimiento del servicio.
+
+La Unidad Especializada de Recursos, Servicios e Infraestructura Inmobiliaria se encargará de realizar los trámites para la aplicación del seguro que se tenga contratado por la Fiscalía General, en caso de que proceda.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2025)</small>
+
+###### Artículo 295.
+
+Determinación de responsabilidades de la persona servidora pública en el robo, pérdida, destrucción o extravío.
+
+La persona titular de la Policía Federal Ministerial, y en su caso la persona titular de la Unidad de Seguridad Institucional, en los casos de robo, pérdida, destrucción o extravío del armamento, accesorios y municiones, deberá dar vista a la Fiscalía Especializada de Asuntos Internos, al Órgano Interno de Control y a la Unidad Especializada en Asuntos Jurídicos, para los efectos a que haya lugar en el ámbito de sus respectivas competencias.
 
 ## TRANSITORIOS.
 
@@ -6700,3 +7926,27 @@ Lo previsto en el presente artículo no será aplicable a los asuntos que la per
 Décimo Sexto. En tanto se publican los Acuerdos por los cuales, en términos del artículo 92 de la Ley, la persona titular del Órgano Interno de Control distribuye sus facultades y atribuciones entre las Unidades Administrativas previstas en el presente Estatuto Orgánico, y establece las reglas de suplencia por excusas o ausencias, seguirá vigente el Acuerdo A/OIC/001/2022 por el que se distribuyen las facultades del Órgano Interno de Control de la Fiscalía General de la República entre sus Unidades Administrativas y se establecen las reglas para la suplencia de su titular, publicado en el Diario Oficial de la Federación el 23 de febrero de 2022.
 
 Ciudad de México, a 31 de marzo de 2023.- El Fiscal General de la República, Dr. Alejandro Gertz Manero.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES”.]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Aquellas Unidades Administrativas que se extinguen o modifican por virtud de la presente reforma, deberán transferir los asuntos, recursos humanos, materiales y financieros con los que contaban a las Unidades Administrativas correspondientes, de acuerdo con lo estipulado en la presente reforma.
+
+Tercero. Las actuales Unidades de Responsabilidades y Jurídico Contenciosa, de Investigaciones, Evolución Patrimonial y Conflicto de Interés y de Procedimientos del Régimen Especial del Órgano Interno de Control continuarán con la conclusión de los asuntos a su cargo hasta en tanto la persona titular del Órgano Interno de Control emita el correspondiente acuerdo por el que se distribuyan sus facultades entre sus Unidades Administrativas.
+
+Cuarto. La Unidad de Comunicación Social deberá emitir los lineamientos a que se refiere la fracción XVI del artículo 23 del Estatuto Orgánico de la Fiscalía General de la República dentro de los noventa días naturales posteriores a la entrada en vigor de la presente reforma.
+
+Quinto. Las Unidades Administrativas deberán, en su caso, actualizar sus Manuales de Organización y Manuales de Procedimientos.
+
+Sexto. La facultad establecida en el artículo 72, fracción XII del Estatuto Orgánico entrará en vigor cuando se emita la Declaratoria que indistinta y sucesivamente realicen las Cámaras de Diputados y Senadores que integran el Congreso de la Unión, previa solicitud del Poder Judicial de la Federación, sin que la misma pueda exceder del 01 de abril de 2027, en términos del artículo segundo transitorio del “Decreto por el que se expide el Código Nacional de Procedimientos Civiles y Familiares” publicado en el Diario Oficial de la Federación.
+
+Séptimo. La Unidad de Seguridad Institucional contará con un plazo de sesenta días naturales posteriores a la entrada en vigor de la presente reforma, para emitir el formato de solicitud de asignación de armamento, accesorios y municiones, así como el formato de resguardo de armamento, en estricto apego a lo señalado en la presente reforma y en la licencia oficial colectiva otorgada a la Fiscalía General.
+
+Octavo. El Centro Federal de Inteligencia Criminal deberá entregar a la Unidad Especializada en Asuntos Jurídicos, dentro de los noventa días naturales posteriores a la entrada en vigor de la presente reforma, los expedientes, acuerdos específicos de recompensas vigentes y en general, la documentación relacionada con el Comité de Recompensas, mediante la suscripción del acta de entrega recepción correspondiente.
+
+Noveno. Los órganos colegiados que a la entrada en vigor de la presente reforma estén operando en la Fiscalía General deberán, dentro de los noventa días naturales siguientes concluir sus funciones. La integración e instalación de aquellos que resulten estrictamente necesarios para la operación se realizará en los términos del Estatuto Orgánico.
