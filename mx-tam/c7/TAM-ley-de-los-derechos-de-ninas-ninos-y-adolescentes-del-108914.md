@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2025-03-28"
+last_updated: "2025-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1359,9 +1359,29 @@ Siempre que se encuentre una niña, niño o adolescente en el contexto de la com
 
 El Instituto Nacional de Migración, los Jueces, el Sistema DIF Tamaulipas y los Sistemas DIF Municipales y las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior o voluntad.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 63.
 
-Las garantías de debido proceso que se deberán aplicar en los procesos migratorios que involucran a niñas, niños y adolescentes son los establecidos en la Ley General.
+Las garantías de debido proceso que deberán aplicarse en los procedimientos migratorios que involucren a niñas, niños y adolescentes serán las previstas en la Ley General, además de las siguientes:
+
+I.- El derecho a ser notificadas o notificados de la existencia de un procedimiento y de la decisión que se adopte en el marco del proceso migratorio;
+
+II.- El derecho a ser informadas o informados de sus derechos;
+
+III.- El derecho a que los procedimientos migratorios sean llevados a cabo por personal especializado;
+
+IV.- El derecho de las niñas, niños y adolescentes a ser escuchadas o escuchados, ya sea de manera directa o a través de sus representantes legales. En caso de no contar con ellos, se les deberá designar una persona tutora que los represente durante el procedimiento, garantizando su participación en todas las etapas procesales;
+
+V.- El derecho a ser asistidas o asistidos de manera gratuita por una persona traductora y/o intérprete;
+
+VI.- El acceso efectivo a la comunicación y asistencia consular;
+
+VII.- El derecho a ser asistidas o asistidos por una persona abogada y a comunicarse libremente con ella;
+
+VIII.- El derecho a que la decisión que se adopte sea preponderantemente humanista, evalúe el interés superior de las niñas, niños y adolescentes y se encuentre debidamente fundada y motivada; y
+
+IX.- El derecho a conocer la duración del procedimiento que se llevará a cabo, el cual deberá observar el principio de celeridad.
 
 ###### ARTÍCULO 64.
 
@@ -2338,6 +2358,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-265 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO 2 DEL ARTÍCULO 46, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-273 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
