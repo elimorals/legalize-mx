@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2024-09-18"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -35,7 +35,9 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-I.- DEL PROCESO LEGISLATIVO …
+I.- DEL PROCESO LEGISLATIVO
+
+[...]
 
 Por lo anteriormente expuesto, esta LII Legislatura ha tenido a bien expedir la siguiente:
 
@@ -163,6 +165,14 @@ XXX (SIC). Medidas de protección especial: conjunto de acciones, programas y ac
 
 XXXI. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
+
+XXXII. Mínima intervención: Consiste en que, cuando se solicite a niñas, niños y adolescentes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, sea el menor número de veces posible y la misma se haga fuera del horario escolar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
+
+XXXIIII. No revictimización: cuando intervienen en procedimientos judiciales como víctimas o testigos las personas juzgadoras determinen las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de mayor beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido; (sic)
+
 ###### Artículo 5.
 
 Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
@@ -204,6 +214,14 @@ XIV. La accesibilidad.
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 XV. El derecho al libre desarrollo de la personalidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
+
+XVI. La Mínima intervención, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
+
+XVII. La No revictimización.
 
 ###### Artículo 7.
 
@@ -902,6 +920,12 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 57 Bis.
 
 Las autoridades estatales y municipales propiciarán la participación gratuita de niñas, niños y adolescentes de escasos recursos en talleres, cursos, espectáculos y otras actividades educativas, culturales, artísticas y deportivas llevados a cabo por el Estado, los municipios y sus dependencias.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2025)</small>
+
+###### Artículo 57 Ter.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a establecer un programa de recuperación de parques y espacios públicos seguros para el esparcimiento, en beneficio de niñas, niños y adolescentes; en coordinación con la dependencia encargada de la seguridad.
 
 ### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
@@ -1643,6 +1667,12 @@ XVII. Promover políticas públicas y revisar las ya existentes relacionadas con
 
 XVIII. Las demás que sean necesarias para el cumplimiento de esta Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2025)</small>
+
+###### Artículo 100 Bis.
+
+Los municipios que conforman el Estado de Morelos, deberán de instalar su Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, los cuales estarán constituidos con una integración, organización y con las atribuciones conferidas al Sistema de Protección Local, en el ámbito de sus competencias y estructura, los Sistemas Municipales tendrán como objetivo principal garantizar la protección integral de los derechos de la niñez que radican en sus municipios, su creación y funcionamiento será supervisado por el Sistema de Protección Local para asegurar su eficiencia y eficacia conforme a los principios establecidos en la presente Ley.
+
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 101.
@@ -2146,3 +2176,33 @@ PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERO (SIC). El Poder Ejecutivo de Morelos y los Municipales deberán presupuestar las necesidades de la (sic) implementar las acciones que se derivan del presente dictamen en el ejercicio fiscal 2025.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHENTA Y UNO POR EL QUE SE ADICIONAN FRACCIONES A LOS ARTÍCULOS 4 Y 6 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+
+Primera. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado de Morelos, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO OCHENTA Y TRES POR EL QUE SE ADICIONA EL ARTÍCULO 100 BIS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Los Sistema (sic) Municipales de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, deberá (sic) ser instalada (sic) en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVENTA Y DOS.- POR EL QUE SE ADICIONA UN ARTÍCULO 57 TER A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, EN MATERIA DE RESCATE DE PARQUES Y ESPACIOS PÚBLICOS, SEGUROS Y DIGNOS PARA SU RECREACIÓN”.]
+
+Primera. Remítase el presente Decreto a la Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segunda. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Tercera: Cada municipio del Estado de Morelos conforme a la competencia otorgada en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberá asignar en sus ejercicios presupuestarios anuales un recurso destinado a la recuperación de parques y espacios públicos, así como a garantizar la seguridad de los mismos, proyectado con aportaciones locales, así como desarrollar su proceso de ejecución, comprobación y finiquito que está bajo la responsabilidad de los Ejecutores, por lo que éstos deberán cumplir con todas las disposiciones aplicables en materia de seguimiento, verificación, supervisión, evaluación, fiscalización y auditoría que señale cada uno de los ayuntamientos.
