@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-del-congreso-del-estado-de-174
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-18"
-last_updated: "2024-09-18"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en el Número 367 del Periódico Oficial del Estado de Chiapas, el miércoles 18 de septiembre de 2024.
 
@@ -1091,9 +1091,11 @@ V. Realizar actos protocolarios o diplomáticos.
 
 En las sesiones solemnes se observará el ceremonial correspondiente para cada caso según lo dispuesto en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2025)</small>
+
 ###### Artículo 86.
 
-Son sesiones ordinarias las que se celebren durante los días martes y jueves dentro de los períodos ordinarios; serán públicas, comenzarán por regla general a las 12:00 horas y durarán hasta cuatro horas; dentro de las cuales deberá agotarse el orden del día previamente establecido, de lo contrario, por disposición del Presidente de la Mesa Directiva o por iniciativa de alguno de los legisladores, aprobada por el voto de las dos terceras partes de los Diputados y las Diputadas presentes, podrán ser prorrogadas.
+Son sesiones ordinarias las que se celebren durante los días martes y miércoles dentro de los períodos ordinarios; serán públicas, comenzarán por regla general a las 12:00 horas y durarán hasta cuatro horas; dentro de las cuales deberá agotarse el orden del día previamente establecido, de lo contrario, por disposición del Presidente de la Mesa Directiva o por iniciativa de alguno de los legisladores, aprobada por el voto de las dos terceras partes de los Diputados y las Diputadas presentes, podrán ser prorrogadas.
 
 Las sesiones ordinarias públicas, se podrán convertir en secretas, previo acuerdo del Pleno del Congreso del Estado.
 
@@ -2296,3 +2298,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y el Honorable Congreso 
 Dado en el Auditorio de la Facultad de Arquitectura de la Universidad Autónoma de Chiapas, sede del Poder Legislativo, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 14 días del mes de septiembre del año 2024.- D. P. C. SONIA CATALINA ÁLVAREZ.- D. S. C. YOLANDA DEL ROSARIO CORREA GONZÁLEZ.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciocho días del mes de Septiembre del año dos mil veinticuatro.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 232 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 86 DE LA LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
