@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2024-09-04"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -3677,6 +3677,10 @@ ACTA DE NACIMIENTO DE HIJOS FUERA DE MATRIMONIO. Para que se haga constar en el 
 
 La madre tiene obligación de admitir a su hijo, y derecho a que su nombre figure en el acta de nacimiento. Si al hacer la presentación un tercero no se da el nombre de la madre, se omitirá este dato en el acta, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2025)</small>
+
+Cuando uno de los progenitores hubiere fallecido previo a la declaración de nacimiento de un hijo, está se podrá realizar por el padre o madre sea el caso, en compañía de los padres de la persona progenitora fallecida, a falta de estos podrá realizarse en compañía de familiares colaterales iguales en segundo grado o los colaterales desiguales ascendientes en tercer grado, quienes sin más trámites podrán pedir se haga constar en el acta de nacimiento del hijo, el nombre de la persona progenitora fallecida.
+
 ###### ARTÍCULO 445.
 
 PROHIBICIÓN DE ASENTAR CALIFICATIVOS A LAS PERSONAS REGISTRADAS. En las actas de nacimiento, por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta que contenga dicha nota se testarán de oficio dichas palabras por quien la tenga a su cargo.
@@ -7234,3 +7238,11 @@ P.O. 4 DE SEPTIEMBRE DE 2024.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHENTA Y DOS POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 444 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
