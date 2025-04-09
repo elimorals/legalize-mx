@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-y-desarrollo-agricola-para-el-estado-de-151317"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-24"
-last_updated: "2024-07-08"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en la Tercera Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 24 de septiembre de 2021.
 
@@ -86,6 +86,46 @@ Son sujetos de esta Ley:
 I. Las personas físicas o morales que se dediquen de manera directa o indirecta a la agricultura; y
 
 II. Los usuarios de agroquímicos.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2025)</small>
+
+###### Artículo 3 Bis.
+
+En la formulación y conducción de la política agropecuaria, que se desarrollará con enfoque productivo, así como en el cumplimiento de esta Ley, se observarán los principios siguientes:
+
+I. Promoción: La promoción del bienestar social y económico de los sujetos de la Ley, así como el incremento del ingreso y el mejoramiento de la calidad de vida;
+
+II. Atención diferenciada: La corrección de disparidades del desarrollo a través de la atención diferenciada de las zonas rurales de mayor rezago y con enfoque productivo;
+
+III. Impulso prioritario: El impulso prioritario del desarrollo productivo-económico y social de las comunidades rurales de mayor marginación o retraso, enfatizando la reconversión productiva sustentable, para avanzar en el abatimiento del rezago que presentan algunas regiones del estado y los municipios;
+
+IV. Contribución y seguridad alimentaria: La política de contribución a la soberanía y seguridad alimentarias, mediante el impulso de la producción agropecuaria del estado;
+
+V. Cuidado de los recursos naturales y protección de los ecosistemas: El fomento de la conservación del suelo, agua, de la biodiversidad, los recursos filogenéticos para la agricultura y la alimentación, y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable;
+
+VI. Valoración benéfica: La valoración de las diversas funciones económicas, ambientales, sociales y culturales que beneficien la agricultura del estado;
+
+VII. Eficacia de los derechos de las personas: La garantía del ejercicio de los derechos de las y los agricultores establecidos en la presente Ley;
+
+VIII. Respeto del derecho de pueblos indígenas: La garantía del derecho de los pueblos indígenas y originarios al desarrollo agropecuario y rural; y de su participación en la utilización, administración y conservación de los recursos naturales existentes en sus tierras;
+
+IX. Igualdad de la mujer: Garantizar la participación de las mujeres en la actividad agrícola, con participación preferente en el medio rural e indígena en la toma de decisiones en la comunidad en torno al control, protección y aprovechamiento sustentable de los recursos naturales;
+
+X. Sustentabilidad: La transformación para el logro de la sustentabilidad del desarrollo de la agricultura, con especial atención al medio rural, considerando la diversificación de las actividades productivas, propiciando el uso óptimo, la conservación, el mejoramiento de los recursos rurales y la observancia de los sitios establecidos para la actividad agrícola en los programas estatal y municipales de desarrollo urbano y ordenamiento ecológico territorial;
+
+XI. Desarrollo rural sustentable: El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+
+XII. Oportunidad económica: La implementación de medidas para que las productoras y los productores, aprovechen las oportunidades económicas y comerciales, derivado del desarrollo de los mercados y de los convenios, acuerdos y tratados en la materia suscritos por el estado;
+
+XIII. Autoabasto: El incremento, diversificación, reconversión y mejoramiento de las actividades productivas en el medio rural, para fortalecer la economía rural;
+
+XIV. Modernización: La expansión y tecnificación de la infraestructura hidrológica y de tratamiento para el reúso de agua, así como el desarrollo de los caminos rurales;
+
+XV. Acceso tecnológico: Garantizar el acceso y uso de las tecnologías de la información y comunicación, incluyendo el acceso gratuito de manera progresiva al internet de banda ancha, para que las y los agricultores puedan recibir servicios públicos de calidad, privilegiándose a personas, grupos y comunicaciones en situación de discriminación;
+
+XVI. Capacitación de calidad: Garantizar el acceso a la educación, capacitación técnica y tecnológica para integrarse a la sociedad del conocimiento, así como para contribuir con el desarrollo de la economía local y elevar el bienestar de la población, reduciendo la desigualdad; y
+
+XVII. Incremento productivo: El impulso a los proyectos que sean altamente generadores de empleo e incremento productivo, en especial para la mujer rural, y los que contribuyan a la mitigación y adaptación a los efectos del cambio climático.
 
 ###### Artículo 4.
 
@@ -636,3 +676,9 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 Artículo Segundo. El Consejo Estatal del Agave deberá quedar constituido en un término no mayor de ciento ochenta días hábiles siguientes a la entrada en vigor del presente decreto.
 
 Artículo Tercero. La Secretaría de Desarrollo Agroalimentario y Rural en un término de 90 días hábiles, emitirá las disposiciones para implementar los procesos para el otorgamiento de los distintivos comerciales.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 63, QUE EXPIDE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 3 BIS A LA LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
