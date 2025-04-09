@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2024-07-31"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -2759,6 +2759,12 @@ XIV. Las demás que la Legislatura Local determine según las condiciones territ
 
 Cuando los servicios públicos sean prestados directamente por el Ayuntamiento corresponderá al Presidente Municipal la vigilancia y supervisión de los mismos.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2025)</small>
+
+###### Artículo 124 Bis.
+
+– En cada uno de los 36 Ayuntamientos, se deberá de instalar la Ventanilla de Atención Incluyente para otorgar la gestión, asesoría, información y orientación sobre el acceso a los diferentes servicios, tramites y programas municipales a todas las personas hablantes de una lengua indígena y de las personas con discapacidad.
+
 ### CAPÍTULO II. OBRAS PÚBLICAS MUNICIPALES
 
 ###### Artículo 125.
@@ -4706,3 +4712,15 @@ De igual manera quedan exentos de la presente reforma los municipios indígenas.
 CUARTA. Los Municipios podrán suscribir convenios con el Instituto de Desarrollo y Fortalecimiento Municipal así como con Instituciones Educativas con registro y validez oficial ante la Secretaría de Educación del Estado de Morelos, para la realización de cursos, capacitaciones y diplomados que consideren pertinentes para el mejor desarrollo de las funciones de los servidores públicos.
 
 QUINTA. En el caso de que los servidores públicos o aspirantes a ser designados en los cargos señalados en el presente Decreto, no encontraren centro educativo o persona autorizada por el Consejo Nacional de Normalización y Certificación en Competencias Laborales dentro del Estado de Morelos para la impartición de la certificación, podrán realizarse en otra entidad federativa reconociéndose la misma en nuestra entidad.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO NOVENTA Y TRES.- POR EL QUE SE ADICIONA EL ARTÍCULO 124 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. La instalación de la ventanilla de atención incluyente, se realizará hasta en tanto se cuente con la suficiencia presupuestal por parte de cada uno de los 36 ayuntamientos.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
