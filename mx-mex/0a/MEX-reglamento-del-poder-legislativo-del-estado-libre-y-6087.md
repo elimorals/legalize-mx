@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2024-11-12"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2025.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -489,11 +489,17 @@ d) Los referentes a las personas pensionadas y jubiladas; y
 
 e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XXIV. La Comisión de Desarrollo Social, conocerá de los temas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 9 DE ABRIL DE 2025)</small>
 
-a) Los de la legislación relacionada con el desarrollo social;
+XXIV. La Comisión de Desarrollo y Bienestar Social, conocerá de los temas siguientes:
 
-b) Los de apoyo social;
+> <small>(REFORMADO, G.G. 9 DE ABRIL DE 2025)</small>
+
+a) Los de la legislación relacionada con el desarrollo y bienestar social;
+
+> <small>(REFORMADO, G.G. 9 DE ABRIL DE 2025)</small>
+
+b) Bienestar Integral;
 
 c) Sobre pobreza extrema y marginación; y
 
@@ -3384,3 +3390,19 @@ SEGUNDO.- La elección de la Directiva se realizará en la sesión inmediata sig
 TERCERO.- Para los efectos a que se refiere la presente y en relación con el artículo 42 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, la Asamblea de la “LXII” Legislatura elegirá la integración de la Directiva, incluyendo a la Persona Titular de la Presidencia que deberá concluir el año de ejercicio constitucional correspondiente, conforme a los términos de este Decreto y a los procedimientos establecidos para tales efectos.
 
 Las Personas Titulares de las Vicepresidencias y las Secretarías que resulten electas concluirán sus funciones el día cuatro de diciembre del año en curso.
+
+G.G. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL PRIMER PÁRRAFO Y LOS INCISOS A) Y B) DE LA FRACCIÓN XXIV DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
