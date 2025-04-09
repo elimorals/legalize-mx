@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2024-05-22"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -859,11 +859,13 @@ X. Las mutilaciones por razones estéticas o cualesquiera otras que no resulten 
 
 XI. El uso de artificios pirotécnicos de tipo petardo o trueno que produzca efectos sonoros superiores a los 80 decibeles dentro de las zonas urbanas y rurales que afecten a los animales no humanos.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2025)</small>
+
 ###### Artículo 67.
 
 Se prohíbe azuzar animales para que acometan entre ellos, y hacer de las peleas así provocadas, espectáculo público o privado.
 
-Se exceptúa la charrería, las corridas de toros, novillos o becerros, jaripeos y peleas de gallos, las que habrán de sujetarse a los reglamentos y disposiciones vigentes.
+Se exceptúa la charrería, jaripeos y peleas de gallos, las que habrán de sujetarse a los reglamentos y disposiciones vigentes.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
@@ -880,6 +882,32 @@ d) Las demás que los reglamentos municipales contemplen.
 ###### Artículo 68.
 
 Las sanciones administrativas de la presente Ley, estarán sujetas a lo dispuesto en los reglamentos que para tal efecto emita la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial, y los gobiernos municipales.
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2025)</small>
+
+I. Queda estrictamente prohibida la realización, promoción, organización o participación en espectáculos públicos o privados en los que se cause derramamiento de sangre, sufrimiento físico o muerte de animales como parte del entretenimiento o atracción principal;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE ABRIL DE 2025)</small>
+
+II. Esta disposición incluye:
+
+a) Peleas de animales de cualquier especie, ya sean clandestinas o autorizadas;
+
+b) Eventos taurinos, como corridas de toros, novilladas, encierros y demás prácticas similares; y,
+
+c) Espectáculos o eventos en los que se utilicen animales con fines de entretenimiento que impliquen maltrato físico, heridas, mutilaciones o cualquier forma de sufrimiento innecesario.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE ABRIL DE 2025)</small>
+
+III. El incumplimiento de lo establecido en este artículo será sancionado conforme a las disposiciones de esta Ley, con:
+
+a) Multas económicas de cuatro mil unidades de medida y actualización (UMA);
+
+b) Clausura temporal o definitiva del lugar donde se lleve a cabo el evento;
+
+c) Inhabilitación de permisos y licencias para los organizadores o responsables del espectáculo; y,
+
+d) En caso de reincidencia, las sanciones se incrementarán hasta el doble de la pena inicial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2023)</small>
 
@@ -1024,5 +1052,11 @@ P.O. 11 DE ABRIL DE 2024.
 P.O. 22 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 643 POR EL QUE "SE REFORMAN LAS FRACCIONES IX Y X; Y, SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 66 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 175 POR EL QUE “SE MODIFICA EL ARTÍCULO 67; Y, SE ADICIONAN LAS FRACCIONES I, II, Y III AL ARTÍCULO 68 DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
