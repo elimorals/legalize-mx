@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-proteccion-pecuaria-del-estado-de-morelos-8907
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-15"
-last_updated: "2024-03-06"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 15 de agosto de 2012.
 
@@ -1415,9 +1415,25 @@ VI. Se prohíbe la movilización de colmenas y abejas reinas, de los lugares fro
 
 ACUACULTURA.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2025)</small>
+
 ###### Artículo 196.
 
-La Secretaría realizará las acciones necesarias para fomentar y promover el desarrollo de la acuacultura y la pesca, en todas sus modalidades y niveles de inversión, y para tal efecto se estará a lo que establezcan las Leyes de la materia aplicables en el Estado de Morelos.
+La Secretaría realizará las acciones necesarias para fomentar y promover el desarrollo de la acuacultura y la pesca, en todas sus modalidades y niveles de inversión, y para tal efecto se estará a lo que establezcan las Leyes de la materia aplicables en el Estado de Morelos y para tal efecto:
+
+I. Fomentará la investigación, en reproducción, genética, nutrición, sanidad y extensionismo;
+
+II. Elaborará programas de industrialización, comercialización y consumo de productos acuícolas tendientes a fortalecer las redes de valor de los productos generados por la acuacultura, mediante acciones de apoyo y difusión;
+
+III. Otorgará asesorías dirigidas a las personas acuicultoras del estado para que el cultivo y explotación de la flora y fauna acuática, se lleven a cabo de acuerdo con las prácticas e investigaciones científicas y tecnológicas actuales;
+
+IV. Procurará la construcción de parques de acuacultura, así como de las unidades de producción, centros acuícolas y laboratorios dedicados a la producción de organismos destinados al ornato, al cultivo y redoblamiento de las especies de la flora y fauna acuática;
+
+V. Otorgará asesorías en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivos y demás bienes que requieran el desarrollo de la actividad acuícola;
+
+VI. Procurará la construcción, conservación, mejoramiento y equipamiento de embarcaciones y de arte de pesca selectiva y ambientalmente seguras; y
+
+VII. Garantizará la organización económica de los productores y demás agentes relacionados al sector, a través de mecanismos de comunicación, concertación y planeación.
 
 ### CAPÍTULO V.
 
@@ -1622,3 +1638,15 @@ SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. El requisito contenido en el artículo que se adiciona a través del presente Decreto, deberá de exigirse a partir de la siguiente designación de la persona titular de la Dirección General de Ganadería y Acuacultura de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHENTA Y SIETE.- POR EL QUE SE REFORMA EL ARTÍCULO 196 DE LA LEY DE FOMENTO Y PROTECCIÓN PECUARIA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. El presente Decreto, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
+
+CUARTA. Se derogan las disposiciones de igual o menor rango que se opongan a la presente reforma.
