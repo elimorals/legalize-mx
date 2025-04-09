@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2023-09-14"
+last_updated: "2025-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -509,9 +509,23 @@ VII. La adopción de la jurisdicción territorial de los Regiones de Desarrollo 
 
 VIII. Los procedimientos mediante los cuales el Gobierno Federal aplica programas especiales de atención en situaciones de emergencia;
 
-IX. La reclasificación de los municipios y localidades marginadas atendiendo a la realidad estatal, además de lo que especifica la normatividad federal; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2025)</small>
 
-X. Las demás necesarias para el cumplimiento del objeto de esta Ley.
+IX. La reclasificación de los municipios y localidades marginadas atendiendo a la realidad estatal, además de lo que especifica la normatividad federal;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE ABRIL DE 2025)</small>
+
+X. La implementación de campañas de carácter permanente con el objetivo de informar a la población rural sobre los derechos, apoyos y servicios de los que son beneficiarios, respecto a:
+
+a) Los programas públicos que se implementen y los requisitos necesarios para ser personas beneficiarias de los mismos.
+
+b) La presentación de denuncias, ante las instancias correspondientes, en defensa de sus derechos.
+
+c) Las condiciones laborales que señala la materia.
+
+Las campañas deberán implementarse también en la lengua indígena que en cada una de las comunidades prevalezca; y
+
+XI. Las demás necesarias para el cumplimiento del objeto de esta Ley.
 
 ###### Artículo 28.
 
@@ -1756,3 +1770,13 @@ SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al contenido del presente decreto.
 
 CUARTA. En un plazo no mayor de 90 días naturales, el Ejecutivo del Estado deberá realizar las reformas pertinentes al Reglamento de la Ley de Desarrollo Rural Sustentable del Estado de Morelos, en relación a las modificaciones realizadas.
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO OCHENTA POR EL QUE SE REFORMA LA FRACCIÓN IX, X, Y SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 27 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA.- Se derogan las disposiciones de igual o menor rango que se opongan a la presente reforma.
