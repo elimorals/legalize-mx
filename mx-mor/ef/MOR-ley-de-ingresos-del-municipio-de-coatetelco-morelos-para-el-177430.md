@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-coatetelco-morelos-para-el-177
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MOR"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE COATETELCO, MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2025
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE INGRESOS DEL MUNICIPIO DE COATETELCO, MORELOS, PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2025, PUBLICADA EN EL P.O. DE 9 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE INGRESOS DEL MUNICIPIO DE COATETELCO, MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DEL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025 (ABROGADO).
 
 Ley publicada en la Tercera Sección del Número 6382 del Periódico Oficial del Estado de Morelos, el martes 31 de diciembre de 2024.
-
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO “VER IMAGEN PDF”; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA IMPUGNADO ANTE ESTE TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 10.
 
@@ -660,3 +660,35 @@ trabajos designados por la autoridad para un servicio
 comunitario, con la finalidad de cubrir la sanción
 
 correspondiente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE INGRESOS DEL MUNICIPIO DE COATETELCO, MORELOS, PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2025”.]
+
+PRIMERO.- Remítase la presente Ley a la Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44 y 70 fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos, y para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La presente Ley de Ingresos para el ejercicio fiscal 2025 entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial del Estado de Morelos.
+
+TERCERO.- Entrada en vigor la presente Ley queda abrogada la Ley de Ingresos del Municipio de Coatetelco, Morelos, para el Ejercicio Fiscal del 1 de enero al 31 de diciembre de 2025, publicada en el Periódico Oficial “Tierra y Libertad” número 6382, Tercera Sección, edición extraordinaria, de fecha 31 de diciembre de 2024.
+
+CUARTO.- Si el infractor de los reglamentos gubernativos y de policía, fuese jornalero, obrero o trabajador, no podrá ser sancionada con multa mayor del importe de su jornada o salario de un día. Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso normal.
+
+QUINTO.- El Municipio dentro de las facilidades que brinde para el cumplimiento fiscal y respetando la costumbre de aquellos contribuyentes que están en posibilidad de pagar en forma anticipada sus contribuciones relacionadas con el impuesto predial y servicios públicos municipales para el ejercicio fiscal 2026 podrá recibir el importe de los montos recaudados por pago adelantado; sin embargo, el Ayuntamiento no podrá ejercer dichos ingresos en el año corriente, sino que tendrá que registrar el pago anticipado en una cuenta de orden y la aplicación y registro del gasto deberá realizarse en el ejercicio fiscal al que corresponderá dicho ingreso.
+
+SEXTO.- Los pagos de las obligaciones fiscales, en efectivo y con cheque, serán invariablemente en moneda nacional y se aplicará el redondeo, de un centavo hasta cincuenta centavos se pagará el peso inmediato inferior, de cincuenta y un centavos hasta noventa y nueve centavos se pagará el peso completo.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo establecido en esta Ley, en particular los diversos recursos administrativos de las diferentes leyes administrativas en las materias reguladas por este ordenamiento. Los recursos administrativos en trámite a la entrada en vigor de esta Ley se resolverán conforme a la Ley de la materia.
+
+OCTAVO.- Se declara la suspensión de los cobros de derechos municipales, que contravengan lo dispuesto por el convenio de adhesión al Sistema Nacional de Coordinación Fiscal y la Coordinación en Materia de Derechos, que se han celebrado entre el Gobierno Federal y el Estado de Morelos. En su caso, se estará a lo dispuesto por el capítulo VII, de la Ley de Coordinación Hacendaria del Estado de Morelos.
+
+NOVENO.- Las cuotas contempladas en los conceptos de esta ley serán tasadas en unidades de medidas y actualización vigente (UMA); el monto de la UMA será el que se encuentre vigente al momento en que se efectúe el pago.
+
+DÉCIMO.- Cualquier cambio a las tasas, cuotas o tarifas que establece la presente ley, sólo serán aplicables hasta en tanto se publiquen las reformas correspondientes, para lo que se observarán los mismos trámites que se hicieron para su formación.
+
+DÉCIMO PRIMERO.- El Sistema Operador de la Recaudación de Ingresos Municipales establecerá la normatividad y la mejora regulatoria que fomenten el uso de los medios electrónicos para generar e incrementar la captación de ingresos.
+
+DÉCIMO SEGUNDO.- Queda exceptuado cualquier tipo de descuento en la infracción de tránsito por conducir en estado de ebriedad o bajo los efectos de cualquier droga, estupefaciente psicotrópico u otra sustancia tóxica, avalado por el certificado médico.
+
+DÉCIMO TERCERO.- Para lo no contemplado en las disposiciones de esta ley, se aplicará supletoriamente lo dispuesto por la Ley General de Hacienda Municipal del Estado de Morelos y por el Código Fiscal para el Estado de Morelos.
