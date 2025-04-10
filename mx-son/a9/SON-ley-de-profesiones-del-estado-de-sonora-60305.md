@@ -4,7 +4,7 @@ identifier: "SON-ley-de-profesiones-del-estado-de-sonora-60305"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-18"
-last_updated: "2020-12-21"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PROFESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2025.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de marzo de 2008.
 
@@ -324,6 +324,14 @@ Los estudiantes de las profesiones en los niveles de técnico, técnico superior
 > <small>(REFORMADO, B.O. 3 DE OCTUBRE DE 2019)</small>
 
 En todo caso, el servicio social que presten los estudiantes, sin perjuicio de las disposiciones que emitan las autoridades competentes, deberá enfocarse a vincularlos con las necesidades de su comunidad y será considerado como experiencia laboral, sin que ésta se acredite como relación laboral.
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2025)</small>
+
+Artículo 18 BIS.- A efecto de sensibilizar a los prestadores del servicio social y a la sociedad en general, sobre el valor de la corresponsabilidad social, el servicio social deberá fomentar la solidaridad, la cooperación y la participación social, así como una mayor cohesión social, para lo cual podrá acreditarse total o parcialmente, a través de servicios comunitarios que contribuyan al desarrollo social, económico o cultural de su comunidad, conforme al Programa Municipal de Corresponsabilidad Social Educativa existente en el municipio respectivo.
+
+Los servicios comunitarios son actividades que los alumnos deben prestar de manera directa para atender una necesidad de una comunidad del Estado de Sonora, o para contribuir al mejoramiento de la calidad de vida de sus habitantes.
+
+Tratándose de estudiantes de las profesiones en los niveles de técnico y técnico superior, se estará a lo dispuesto en el artículo 135 BIS 1 de la Ley de Educación del Estado· de Sonora.
 
 ###### Artículo 19.
 
@@ -664,3 +672,19 @@ B.O. 21 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA Y A LA LEY DE PROFESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado cuenta con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para ajustar sus disposiciones reglamentarias a lo dispuesto en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, los ayuntamientos del Estado cuentan con un plazo de 180 días naturales para emitir su Programa Municipal de Corresponsabilidad Social Educativa.
