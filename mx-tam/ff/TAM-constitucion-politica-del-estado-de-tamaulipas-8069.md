@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-03-21"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE MARZO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -769,39 +767,65 @@ V.- De la Autoridad Jurisdiccional Electoral.- En términos de lo que dispone la
 
 Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-El Tribunal Electoral del Estado de Tamaulipas se integra con tres magistrados electorales, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, en términos de la Constitución Federal y la legislación aplicable.
+El Tribunal Electoral del Estado de Tamaulipas se integra con cinco Magistradas y Magistrados electorales, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, en términos de la Constitución Federal y la legislación aplicable.
 
-Los requisitos para ser Magistrado Electoral en el Estado de Tamaulipas son los que establece la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-En términos de la ley general aplicable, los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública.
+Los requisitos para ser Magistrada o Magistrado Electoral en el Estado de Tamaulipas son los que establece la Ley General de Instituciones y Procedimientos Electorales.
 
-En caso de presentarse alguna vacante temporal de alguno de los magistrados que componen el Tribunal Electoral del Estado, se cubrirá de conformidad con el procedimiento que disponga la Ley.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-En términos de la Constitución Federal y la ley general aplicable tratándose de una vacante definitiva de magistrado, será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+En términos de la ley general aplicable, las Magistradas y Magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública.
 
-Los magistrados del Tribunal Electoral designarán, de entre ellos, por votación mayoritaria, al Magistrado Presidente que los dirija y represente. La ley estatal aplicable establecerá el procedimiento de designación del Magistrado Presidente, las reglas para cubrir vacantes temporales que se presenten y la forma en que la presidencia del Tribunal se rotará.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-En términos de lo que dispone la ley general aplicable, durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados, asimismo, concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+En caso de presentarse alguna vacante temporal de alguno de las Magistradas y Magistrados que componen el Tribunal Electoral del Estado, se cubrirá de conformidad con el procedimiento que disponga la Ley.
 
-Los magistrados electorales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Federal a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-La retribución que reciban los Magistrados Electorales y el Magistrado Presidente, será igual a la que recibe un Magistrado del Supremo Tribunal de Justicia del Estado.
+En términos de la Constitución Federal y la ley general aplicable tratándose de una vacante definitiva de Magistrada o Magistrado, será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
 
-La ley general aplicable determinará las causas de responsabilidad de los magistrados electorales.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-Los magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y las leyes de responsabilidades de los servidores públicos aplicables.
+Las Magistradas y Magistrados del Tribunal Electoral designarán, de entre ellos, por votación mayoritaria, a la Magistrada o Magistrado Presidente que los dirija y represente. La ley estatal aplicable establecerá el procedimiento de designación de la Magistrada o Magistrado Presidente, las reglas para cubrir vacantes temporales que se presenten y la forma en que la presidencia del Tribunal se rotará.
 
-Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes del Estado.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+En términos de lo que dispone la ley general aplicable, durante el periodo de su encargo, las Magistradas y los Magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados, asimismo, concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+Las Magistradas y Magistrados electorales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Federal a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+La retribución que reciban las y los Magistrados Electorales y la o el Magistrado Presidente, será igual a la que recibe una o un Magistrado del Supremo Tribunal de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+La ley general aplicable determinará las causas de responsabilidad de las Magistradas y Magistrados electorales.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+Las Magistradas y Magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y las leyes de responsabilidades de los servidores públicos aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+Las Magistradas y los Magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes del Estado.
 
 El Tribunal Electoral del Estado funcionará en Pleno y será la única instancia para la resolución de los asuntos en materia electoral. Sus resoluciones serán emitidas con plenitud de jurisdicción, y contará con la fuerza coactiva del Estado para hacer cumplir sus ejecutorias. Podrá emitir criterios de jurisprudencia de conformidad con lo previsto en la ley respectiva. Sus sesiones de resolución serán públicas, en los términos que establezcan la ley y el reglamento correspondiente.
 
 El Tribunal Electoral del Estado únicamente podrá declarar la nulidad de una elección por causas expresamente señaladas en la Constitución Federal, esta Constitución y las leyes correspondientes.
 
-Para el ejercicio de su competencia, el Tribunal Electoral del Estado contará con un Secretario General de Acuerdos, un Secretario Técnico del Pleno, Secretarios de Estudio y Cuenta, y demás personal que requiera, en términos de la Ley.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
 
-El Secretario General de Acuerdos y el Secretario Técnico del Pleno serán designados por dicho órgano a propuesta del Magistrado Presidente, en los términos de la Ley.
+Para el ejercicio de su competencia, el Tribunal Electoral del Estado contará con una Secretaría General de Acuerdos, una Secretaría Técnica del Pleno, Secretarias y Secretarios de Estudio y Cuenta, y demás personal que requiera, en términos de la Ley.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+Las personas titulares de la Secretaría General de Acuerdos y de la Secretaría Técnica del Pleno serán designadas por dicho órgano a propuesta de la Magistrada o Magistrado Presidente, en los términos de la Ley.
 
 Al Tribunal Electoral del Estado le corresponde resolver en forma definitiva e inatacable, en los términos de esta Constitución, y según lo disponga la ley, acerca de:
 
@@ -809,11 +833,15 @@ Al Tribunal Electoral del Estado le corresponde resolver en forma definitiva e i
 
 a) Las impugnaciones en las elecciones de Gobernadora o de Gobernador, Diputadas, Diputados e integrantes de los Ayuntamientos;
 
-b) Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+b) Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de las y los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
 
 c) Las impugnaciones de actos, resoluciones y omisiones del Instituto Electoral de Tamaulipas;
 
-d) Los conflictos o diferencias laborales entre el Tribunal Electoral del Estado o el Instituto Electoral de Tamaulipas y sus servidores; y
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2025)</small>
+
+d) Los conflictos o diferencias laborales entre el Tribunal Electoral del Estado o el Instituto Electoral de Tamaulipas y las personas servidoras públicas; y
 
 e) Las demás que señale la ley.
 
@@ -5778,3 +5806,23 @@ P.O. 12 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-278 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 20, PÁRRAFO SEGUNDO, FRACCIÓN V, PÁRRAFOS TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO SEGUNDO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO SÉPTIMO, DÉCIMO OCTAVO Y DÉCIMO NOVENO, INCISOS B) Y D), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Senado de la República para los efectos de su competencia que, de conformidad con lo previsto en el artículo 20 base V, párrafo tercero de la Constitución Política del Estado de Tamaulipas que por el presente Decreto se reforma, el pleno del Tribunal Electoral del Estado de Tamaulipas se integra por cinco magistraturas.
+
+###### ARTÍCULO TERCERO.
+
+Al concluir el proceso electoral extraordinario 2024-2025 el Senado de la República deberá iniciar el proceso correspondiente para designar las magistraturas vacantes a efecto de que inicien funciones una vez que concluya el periodo de las magistraturas designadas en el año 2018.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
