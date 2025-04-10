@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-149820
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-06-02"
-last_updated: "2021-06-02"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE ABRIL DE 2025.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 2 de junio de 2021.
 
@@ -45,9 +45,11 @@ Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupci�
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 10 DE ABRIL DE 2025)</small>
+
 ###### Artículo 1.
 
-Objeto del estatuto orgánico
+Objeto
 
 Este estatuto orgánico tiene por objeto regular la organización y el funcionamiento de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
@@ -71,11 +73,13 @@ III. Ley: la Ley del Sistema Estatal Anticorrupción de Yucatán.
 
 IV. Órgano de gobierno: el Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
-V. Queja: la reclamación formulada ante la comisión ejecutiva por actos u omisiones de autoridades o servidores públicos estatales o municipales, o particulares, por la posible comisión de hechos de corrupción o faltas administrativas, a efecto de que se emita una recomendación.
+V. (DEROGADA, D.O. 10 DE ABRIL DE 2025)
 
 VI. Secretaría ejecutiva: la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
-VII. Secretario técnico: el titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+VII. Secretario técnico: la persona titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
 ### Capítulo II. Organización
 
@@ -111,15 +115,23 @@ Patrimonio
 
 El patrimonio de la secretaría ejecutiva estará integrado de conformidad con lo previsto en el artículo 32 de la ley.
 
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
+
 ###### Artículo 6.
 
-Suplencias
+Suplencias del Secretario técnico y de los directores
 
-El secretario técnico será suplido por el director jurídico en sus ausencias temporales que no excedan de quince días.
+Las ausencias temporales del secretario técnico que no excedan de quince días naturales serán suplidas por la persona de nivel jerárquico inmediato inferior que este designe por oficio, en las modalidades administrativas que establezca.
 
-En caso de ausencia definitiva, el órgano de gobierno designará, de entre los directores de la secretaría ejecutiva, a la persona que fungirá como encargada temporal del despacho, entre tanto el propio órgano de gobierno nombra al nuevo secretario técnico.
+En caso de ausencias temporales mayores a quince días naturales, el órgano de gobierno designará, de entre las personas titulares de las direcciones de la secretaría ejecutiva, a la persona que fungirá como encargada temporal del despacho, hasta en tanto el secretario técnico se reincorpore a sus funciones.
 
-Los directores de la secretaría ejecutiva deberán designar, por oficio, a sus suplentes, quienes deberán tener el nivel jerárquico inmediato inferior al de aquellos y los sustituirán en sus ausencias temporales que no excedan de quince días. En caso de no haber designación explícita o de que las ausencias excedan dicho plazo, el director ausente será suplido por quien designe el secretario técnico.
+En caso de ausencia definitiva, el órgano de gobierno designará, de entre las personas titulares de las direcciones de la secretaría ejecutiva, a la persona que fungirá como encargada temporal del despacho hasta en tanto se nombre al nuevo secretario técnico, en términos de la legislación aplicable.
+
+La persona encargada del despacho del Secretario técnico designada por el órgano de gobierno gozará de las mismas facultades, obligaciones y responsabilidades que el secretario técnico durante el tiempo que ejerza dicho cargo.
+
+Las suplencias de las personas que ocupan los cargos de dirección en la Secretaría ejecutiva serán realizadas por los mismos mediante oficio. Las personas designadas deberán contar con el nivel jerárquico inmediato inferior y serán quienes los sustituirán en ausencias temporales que no excedan los quince días naturales.
+
+Ante la falta de designación explícita o cuando las ausencias excedan el plazo señalado en el párrafo anterior, será el Secretario técnico quien designe al suplente.
 
 ### Capítulo III. Funcionamiento
 
@@ -159,11 +171,19 @@ Suplencias
 
 Los integrantes del órgano de gobierno nombrarán, por escrito dirigido al secretario de actas y acuerdos, a sus suplentes, quienes los sustituirán en sus ausencias con las facultades y obligaciones que dispone el Reglamento del Código de la Administración Pública de Yucatán, este estatuto orgánico y las demás disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, D.O. 10 DE ABRIL DE 2025)</small>
+
+El presidente será suplido en términos del segundo párrafo del artículo 27 de la Ley.
+
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
+
 ###### Artículo 11.
 
 Invitados
 
-El presidente del órgano de gobierno, por conducto del secretario de actas y acuerdos, podrá invitar a participar en las sesiones a los representantes de los sectores público, privado y social cuya presencia sea de interés para los asuntos que deban tratarse. Estas personas contarán únicamente con derecho a voz y no se contabilizarán para efectos del cuórum necesario para sesionar.
+El presidente del órgano de gobierno, por conducto del secretario de actas y acuerdos, podrá invitar a participar en las sesiones a los representantes de los sectores público, privado y social, así como a las personas funcionarias públicas de la Secretaría ejecutiva e integrantes del Comité de Participación Ciudadana, cuyas opiniones y comentarios pudiesen ser de utilidad para la propia sesión.
+
+Los invitados contarán únicamente con derecho a voz, y no se contabilizarán para efectos del cuórum necesario para sesionar.
 
 ###### Artículo 12.
 
@@ -171,11 +191,15 @@ Carácter de los cargos
 
 Los cargos de los integrantes del órgano de gobierno son de carácter honorífico; por lo tanto, quienes los ocupen no recibirán retribución alguna por su desempeño.
 
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
+
 ###### Artículo 13.
 
 Sesiones
 
-El órgano de gobierno sesionará, de manera ordinaria, por lo menos, cuatro veces al año, y, de manera extraordinaria, cuando lo considere el presidente o lo soliciten, por lo menos, cuatro integrantes, por la urgencia o importancia de asuntos específicos a tratar y que sean de la competencia del propio órgano de gobierno.
+El órgano de gobierno sesionará, de manera ordinaria, por lo menos cuatro veces al año, y, de manera extraordinaria cuando lo considere el presidente o lo soliciten por lo menos cuatro integrantes ante la trascendencia o importancia de asuntos específicos a tratar que sean de la competencia del propio Órgano de gobierno, las cuales podrán ser presenciales o a distancia, mediante el uso de herramientas tecnológicas, de acuerdo a lo que establezca el Reglamento del Código de la Administración Pública de Yucatán.
+
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
 
 ###### Artículo 14.
 
@@ -183,15 +207,19 @@ Convocatorias
 
 El presidente, por conducto del secretario de actas y acuerdos, convocará por escrito a los integrantes del órgano de gobierno con una anticipación de, por lo menos, cinco días hábiles a la fecha en que habrán de celebrarse las sesiones ordinarias y veinticuatro horas, en el caso de las sesiones extraordinarias.
 
-Las convocatorias se realizarán por oficio o correo electrónico y deberán señalar, por lo menos, el número de la sesión y el día, la hora y el lugar de su celebración. Además, llevarán adjuntas el orden del día y la documentación correspondiente.
+Las convocatorias de las sesiones se realizarán mediante oficio o correo electrónico a cada una de las personas integrantes del Órgano de gobierno y deberán señalar, por lo menos, el número de sesión, la modalidad, el carácter, es decir, ordinaria o extraordinaria, el día, hora y lugar de su celebración. Adicionalmente, llevarán adjuntas el orden del día y la documentación necesaria para desahogar los asuntos a tratar en la sesión correspondiente.
+
+En los casos en que se celebren sesiones bajo la modalidad en línea, se precisará el sistema, plataforma o medio tecnológico a través del cual se llevará a cabo, en cuyo caso deberán enviarse oportunamente enlaces electrónicos necesarios para el acceso a dicha sesión.
+
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
 
 ###### Artículo 15.
 
 Cuórum
 
-El órgano de gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes. En todo caso se deberá contar con la presencia del presidente y del secretario técnico, o de sus respectivos suplentes.
+El órgano de gobierno sesionará válidamente en primera convocatoria con la asistencia de la mayoría de sus integrantes con derecho a voz y voto, incluido su presidente o quien le supla. En las sesiones será obligatoria la asistencia del Secretario técnico o quien se encuentre encargado del despacho, en términos de este estatuto orgánico.
 
-Cuando, por falta de cuórum, la sesión programada no pudiera celebrarse el día determinado para tal efecto, el presidente, por conducto del secretario de actas y acuerdos, emitirá, dentro de los tres días hábiles siguientes, una segunda convocatoria para realizar dicha sesión, la cual se llevará a cabo con la presencia de los integrantes que asistan. Esta sesión no podrá celebrarse sino transcurridas veinticuatro horas, contadas a partir de la convocatoria correspondiente.
+Cuando, por falta de cuórum, la sesión programada no pudiera celebrarse el día determinado para tal efecto, el presidente, por conducto del secretario de actas y acuerdos, emitirá, dentro de los tres días hábiles siguientes, una segunda convocatoria para realizar dicha sesión, la cual se llevará a cabo con la presencia de los integrantes que asistan; siempre que se cuente con la presencia del presidente y el secretario técnico. Esta sesión no podrá celebrarse sino transcurridas veinticuatro horas, contadas a partir de la convocatoria correspondiente.
 
 ###### Artículo 16.
 
@@ -201,13 +229,15 @@ Los acuerdos del órgano de gobierno se tomarán por el voto de la mayoría de l
 
 Los integrantes del órgano de gobierno deberán emitir su voto sobre los asuntos que se traten en las sesiones, salvo que se encontraran legalmente impedidos para ello, en cuyo caso el integrante en cuestión hará valer tal circunstancia y este hecho se asentará en el acta respectiva.
 
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
+
 ###### Artículo 17.
 
 Asuntos a tratar en las sesiones
 
-En las sesiones del órgano de gobierno se abordarán, preferentemente, solo los asuntos considerados en el orden del día correspondiente, que será elaborado por el secretario de actas y acuerdos, y aprobado por el presidente.
+En las sesiones del órgano de gobierno se abordarán los asuntos considerados en el orden del día correspondiente.
 
-Los integrantes del órgano de gobierno podrán proponer, durante el desarrollo de las sesiones o en cualquier otro momento, la inclusión de asuntos en el orden del día de sesiones subsiguientes. El secretario de actas y acuerdos presentará estas propuestas al presidente, para su consideración y aprobación.
+Las personas integrantes del órgano de gobierno podrán proponer, durante el desarrollo de las sesiones o en cualquier otro momento, la inclusión de puntos en el orden del día de sesiones subsiguientes. El secretario de actas y acuerdos presentará estas propuestas al presidente, para su consideración e inclusión en el orden del día de la convocatoria correspondiente
 
 ###### Artículo 18.
 
@@ -225,7 +255,9 @@ I. Convocar, por conducto del secretario de actas y acuerdos, a las sesiones del
 
 II. Someter a consideración y aprobación del órgano de gobierno su calendario de sesiones así como el orden del día y las actas de sus sesiones.
 
-III. Presentar las propuestas de acuerdo a la consideración y votación de los integrantes del órgano de gobierno.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+III. Presentar las propuestas de acuerdos a la consideración y votación de las personas integrantes del órgano de gobierno.
 
 ###### Artículo 20.
 
@@ -297,7 +329,9 @@ VI. Presentar de manera trimestral y anual al órgano de gobierno los informes s
 
 VII. Proponer a las autoridades estatales o municipales las acciones legislativas, normativas o administrativas que permitan desincentivar la comisión de faltas administrativas y hechos de corrupción.
 
-VIII. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquellas que requieran autorización especial, en términos de las disposiciones jurídicas aplicables; y hacer cesión de bienes.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+VIII. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquellas que requieran autorización especial, en términos de las disposiciones jurídicas aplicables; hacer cesión de bienes; y, coadyuvar en el trámite de los procesos judiciales y procedimientos jurisdiccionales ante las autoridades competentes, en los asuntos en que la Secretaría Ejecutiva tenga interés jurídico o legítimo.
 
 IX. Transigir, comprometer en árbitros, someterse a arbitraje y realizar toda clase de actos dentro de procedimientos arbitrales, de mediación o amigable composición; absolver y articular posiciones; y recusar juzgadores y árbitros.
 
@@ -325,7 +359,9 @@ Unidades administrativas y personal de la secretaría ejecutiva
 
 La secretaría ejecutiva contará con las unidades administrativas previstas en el artículo 4, fracción II, de este estatuto orgánico.
 
-Para el ejercicio de sus respectivas atribuciones, dichas unidades administrativas estarán encabezadas por un director y contarán con las unidades administrativas complementarias y el personal que autorice el órgano de gobierno, a propuesta del secretario técnico, con base en la disponibilidad presupuestaria y en las necesidades del servicio.
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
+
+Para el ejercicio de sus respectivas atribuciones, dichas unidades administrativas estarán encabezadas por un director y contarán con el personal que autorice el órgano de gobierno, a propuesta del Secretario técnico, con base en la disponibilidad presupuestaria y en las necesidades del servicio.
 
 Las funciones del personal técnico y administrativo que labore en la secretaría ejecutiva se establecerán en los manuales que para tal efecto se emitan.
 
@@ -353,13 +389,73 @@ VIII. Someter a la consideración del secretario técnico el ingreso, la licenci
 
 IX. Suscribir los documentos relacionados con el ejercicio de sus facultades y obligaciones así como los que les correspondan por delegación o suplencia.
 
-X. Realizar los dictámenes e informes que les solicite el secretario técnico.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+X. Realizar los dictámenes e informes que les solicite el secretario técnico y que guarden relación con las atribuciones de la unidad administrativa a su cargo.
 
 XI. Participar en consejos, comisiones, comités u órganos colegiados de naturaleza análoga, previa indicación del secretario técnico.
 
 XII. Solventar oportunamente las observaciones resultantes de las auditorías que se le practiquen a la unidad administrativa a su cargo.
 
-XIII. Las demás que les encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XIII. Expedir certificaciones de documentos que obren en el archivo de la dirección a su cargo.
+
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XIV. Brindar apoyo y asesoría técnica a la comisión ejecutiva, en temas inherentes a las atribuciones de la dirección a su cargo.
+
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XV. Elaborar los avisos de privacidad inherentes a los datos personales que recaben en el ejercicio de sus funciones y someterlos a consideración del Comité de Transparencia por conducto de su presidente.
+
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XVI. Fungir como área competente en el trámite de solicitudes de acceso a la información y de protección de datos personales.
+
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XVII. Integrar el índice de expedientes clasificados como reservados con que cuente su área y mantenerlo actualizado.
+
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XVIII. Colaborar en la elaboración de los documentos normativos y administrativos necesarios para el desarrollo de las funciones del Sistema.
+
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XIX. Las demás que les encomiende el Secretario técnico, las que se establezcan en este estatuto orgánico y las previstas en los manuales de la Secretaría ejecutiva.
+
+> <small>(ADICIONADO, D.O. 10 DE ABRIL DE 2025)</small>
+
+###### Artículo 27 Bis.
+
+Facultades y obligaciones generales de los jefes de departamento
+
+Los jefes de departamento con los que cuente la Secretaría ejecutiva, tendrán las siguientes facultades y obligaciones generales:
+
+I. Proporcionar asesoría técnica en los asuntos de su competencia a las personas servidoras públicas que, en su caso, la soliciten por escrito.
+
+II. Proporcionar la información, datos o cooperación técnica que le sea requerida, por escrito, internamente o por otras dependencias y entidades, previo acuerdo con su superior jerárquico.
+
+III. Evaluar el desempeño de las labores del personal adscrito a su departamento y promover la capacitación permanente para su desarrollo profesional y mejora continua en sus funciones.
+
+IV. Proponer a su superior jerárquico, las necesidades de capacitación para la integración del Programa Anual de Capacitación.
+
+V. Resguardar y organizar el archivo de trámite que corresponda a su unidad administrativa.
+
+VI. Formular y proponer a su superior jerárquico, conforme a los lineamientos establecidos, los proyectos de manuales de organización, procedimientos y servicios correspondientes al Departamento a su cargo.
+
+VII. Formular los dictámenes técnicos, periciales y contables, opiniones e informes que le sean encomendados por su superior jerárquico, en aquellos asuntos que sean propios de su competencia.
+
+VIII. Elaborar los anteproyectos de oficios y documentos a su superior jerárquico para cumplir con las funciones de la dirección que pertenecen en los términos de las disposiciones legales aplicables.
+
+IX. Elaborar y presentar a su superior jerárquico el proyecto de informe sobre los resultados de las acciones relevantes, avances de los programas y demás actividades propias del departamento a su cargo, así como participar en la elaboración de los informes que deban remitirse a las instancias competentes, en el ámbito de su competencia.
+
+X. Colaborar en la generación de insumos técnicos para que se provean a la comisión ejecutiva, por conducto del Secretario técnico.
+
+XI. Las demás que les encomiende el Secretario técnico, las que se establezcan en este estatuto orgánico y las previstas en los manuales de la Secretaría ejecutiva.
+
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
 
 ###### Artículo 28.
 
@@ -367,75 +463,57 @@ Facultades y obligaciones del director de Análisis, Prevención y Políticas P�
 
 El director de Análisis, Prevención y Políticas Públicas tendrá las siguientes facultades y obligaciones:
 
-I. Diseñar propuestas de políticas públicas, programas, estrategias y acciones para prevenir, detectar y disuadir la comisión de hechos de corrupción y faltas administrativas.
+I. Diseñar las propuestas de insumos técnicos, políticas públicas, programas, estrategias y acciones para prevenir, detectar y disuadir la comisión de hechos de corrupción y faltas administrativas.
 
-II. Proponer programas y acciones que impulsen el cumplimiento en el estado de los tratados internacionales en materia de combate a la corrupción de los que el Estado mexicano sea parte.
+II. Impulsar la colaboración con instituciones públicas, instancias académicas, organismos internacionales, organizaciones de la sociedad civil, a fin de obtener datos relevantes, desarrollar estudios e investigaciones conjuntas; y documentar buenas prácticas sobre riesgos, inteligencia y ciencias de datos en materia de combate y control de la corrupción.
 
-III. Proponer medidas que exijan a los servidores públicos informar a las autoridades competentes sobre los actos de corrupción de los que tengan conocimiento.
+III. Proponer los mecanismos para la coordinación de la Secretaría ejecutiva con las autoridades competentes en materia de fiscalización y control de recursos públicos, y de prevención y disuasión de faltas administrativas y hechos de corrupción.
 
-IV. Proponer el diseño de medidas y controles preventivos, detectivos y correctivos para el fortalecimiento institucional de entes públicos y privados en materia de combate a la anticorrupción.
+IV. Diseñar anteproyectos de metodologías e indicadores de seguimiento y evaluación en relación con los insumos técnicos, políticas públicas, programas, estrategias y acciones para prevenir, detectar y disuadir la comisión de hechos de corrupción y faltas administrativas;
 
-V. Proponer medidas para fortalecer los sistemas de gestión de riesgos y de control interno.
+V. Proponer al secretario técnico el requerimiento de información que deba realizarse a los entes públicos en relación con el cumplimiento de la política nacional o estatal en materia de combate a la corrupción, así como de las políticas integrales implementadas, con el objeto de recabar datos, observaciones y propuestas para su revisión, evaluación o modificación, de conformidad con los indicadores generados para tales efectos.
 
-VI. Proponer mecanismos para preservar la integridad de los libros y registros contables, estados financieros u otros documentos relacionados con ingresos y gastos públicos, para prevenir su falsificación.
+VI. Gestionar el desarrollo de los estudios y análisis que, en materia anticorrupción, solicite el secretario técnico.
 
-VII. Promover la participación de los sectores público, privado y social en el diseño y la implementación de programas, lineamientos y medidas en materia de combate a la corrupción.
+VII. Sugerir la adopción de medidas para el fortalecimiento y la transparencia de los procedimientos en materia de adquisiciones, arrendamientos y servicios.
 
-VIII. Proponer los principios, las bases y los mecanismos para la coordinación de la secretaría ejecutiva con las autoridades competentes en materia de fiscalización y control de recursos públicos, y de prevención y disuasión de faltas administrativas y hechos de corrupción.
+VIII. Elaborar la propuesta y el esquema de seguimiento de las recomendaciones que emita el comité coordinador.
 
-IX. Elaborar los anteproyectos de políticas integrales, metodologías e indicadores que apruebe la comisión ejecutiva, a efecto de que sean sometidos a la consideración del comité coordinador.
+IX. Participar en el diseño e implementación de los programas preventivos y formativos en materia de combate a la corrupción.
 
-X. Diseñar las propuestas de las evaluaciones de las políticas integrales que se deban realizar.
+X. Coordinar la elaboración del anteproyecto del informe anual del comité coordinador y de los anteproyectos de informes que deba generar la comisión ejecutiva en el ejercicio de sus funciones legales.
 
-XI. Proponer al secretario técnico el requerimiento de información que deba realizarse a los entes públicos en relación con el cumplimiento de la política nacional o estatal en materia de combate a la corrupción, así como de las políticas integrales implementadas, con el objeto de recabar datos, observaciones y propuestas para su revisión, evaluación o modificación, de conformidad con los indicadores generados para tales efectos.
+XI. Las demás que le encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
 
-XII. Gestionar el desarrollo de los estudios y análisis que en materia anticorrupción le solicite el secretario técnico.
-
-XIII. Sugerir la adopción de medidas para el fortalecimiento y la transparencia de los procedimientos en materia de adquisiciones, arrendamientos y servicios, así como de licencias, permisos, concesiones y casos análogos.
-
-XIV. Diseñar programas de capacitación, actualización y profesionalización para los servidores públicos estatales y municipales, tendientes a cumplir con los objetivos de los sistemas nacional y estatal anticorrupción, cuyo contenido sea previamente aprobado por el comité coordinador.
-
-XV. Colaborar con la Dirección de Vinculación y la Dirección Jurídica en la capacitación del personal de la secretaría ejecutiva.
-
-XVI. Proponer la implementación de políticas de integridad y normas de conducta para el correcto ejercicio de la función pública, orientadas a prevenir hechos de corrupción, faltas administrativas y conflictos de intereses, así como para asegurar la preservación y el adecuado uso de los recursos públicos.
-
-XVII. Participar en el diseño y la implementación de los programas preventivos y formativos, así como de promoción, difusión y vinculación de la secretaría ejecutiva.
-
-XVIII. Emitir opinión formal sobre las quejas que le presente la Dirección Jurídica, sugerir las acciones conducentes, y participar en la audiencia de aclaración que forma parte del procedimiento de queja, en términos del reglamento correspondiente.
-
-XIX. Elaborar y someter a consideración del secretario técnico los informes que deba rendir la secretaría ejecutiva.
-
-XX. Brindar apoyo y asesoría técnica a la comisión ejecutiva.
-
-XXI. Supervisar y dar seguimiento a los acuerdos que tome el Subcomité Permanente de Fiscalización.
-
-XXII. Las demás que le encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
 
 ###### Artículo 29.
 
-Facultades y obligaciones del director de Vinculación Interinstitucional El director de Vinculación Interinstitucional tendrá las siguientes facultades y obligaciones:
+Facultades y obligaciones del director de Vinculación Interinstitucional
 
-I. Proponer e implementar, previa aprobación del comité coordinador, mecanismos de coordinación con el sector público en materia de prevención, detección y disuasión de hechos de corrupción y faltas administrativas.
+El director de Vinculación Interinstitucional tendrá las siguientes facultades y obligaciones:
 
-II. Promover e implementar mecanismos de coordinación con los sectores público y social, y la sociedad en general, para su participación en el desarrollo de políticas públicas integrales en materia de combate a la corrupción.
+I. Proponer e impulsar mecanismos de coordinación con el sector público, privado y social, en materia de prevención, detección y disuasión de hechos de corrupción y faltas administrativas, así como mecanismos de participación respecto de políticas públicas en materia de combate a la corrupción.
 
-III. Integrar y mantener actualizado el directorio de organizaciones de la sociedad civil cuyo objeto esté directa o indirectamente relacionado con la ley.
+II. Promover y dar seguimiento a la celebración de convenios y acuerdos de colaboración institucional, en el marco de las atribuciones sustantivas del sistema estatal y de la Secretaría ejecutiva.
 
-IV. Aprobar, rechazar o revocar la inscripción de las organizaciones de la sociedad civil en el directorio que lleve la secretaría ejecutiva.
+III. Supervisar, impulsar y participar en la ejecución de los programas conjuntos y coordinados de promoción, difusión y vinculación que impulse la Secretaría Ejecutiva como parte de los objetivos del Sistema Estatal Anticorrupción
 
-V. Fomentar la participación de organizaciones de la sociedad civil, organizaciones no gubernamentales u otros grupos análogos, en la prevención y el combate a la corrupción.
+IV. Promover la vinculación e interacción con los sectores público, privado y social en el ámbito estatal y municipal, así como propuestas de coordinación y participación que se requieran conforme a la Política Estatal de la materia.
 
-VI. Gestionar el desarrollo de programas de capacitación tendientes a cumplir con los objetivos de los sistemas estatal y nacional anticorrupción, cuyo contenido deberá ser previamente aprobado por el comité coordinador.
+V. Establecer vínculos con las organizaciones de la sociedad civil, instituciones académicas y privadas para el desarrollo de proyectos relacionados con la promoción de la cultura de la integridad, ética pública, entre otras relacionadas con los objetivos del Sistema Estatal Anticorrupción.
+
+VI. Diseñar y gestionar el desarrollo de programas conjuntos y coordinados de capacitación, actualización y profesionalización, tendientes a cumplir con los objetivos del Sistema Estatal Anticorrupción y su homólogo nacional, así como establecer coordinación con las instancias competentes para su implementación;
 
 VII. Organizar congresos, conferencias, foros, seminarios, concursos y demás eventos que se realicen en el marco de las atribuciones de la secretaría ejecutiva.
 
-VIII. Desarrollar programas, campañas de difusión y acciones para concientizar y fomentar la participación ciudadana en la prevención y el combate a la corrupción, así como para dar a conocer las actividades y los resultados de la secretaría ejecutiva en el ejercicio de sus atribuciones.
+VIII. Desarrollar programas, campañas de difusión y acciones para concientizar y fomentar la participación ciudadana en la prevención y el combate a la corrupción, así como para dar a conocer las actividades y los resultados de la Secretaría ejecutiva en el ejercicio de sus atribuciones.
 
-IX. Realizar actividades de información pública para fomentar la cultura de la integridad así como la inclusión de programas educativos, sean escolares o universitarios.
+IX. Promover y realizar actividades para fomentar la cultura de la integridad, así como la inclusión de programas educativos, sean escolares o universitarios.
 
-X. Gestionar y verificar la debida atención de las solicitudes de apoyo que realicen los integrantes del Sistema Estatal Anticorrupción.
+X. Coordinar con los integrantes del Sistema Estatal Anticorrupción la realización de programas, acciones y eventos públicos relacionados con su objeto.
 
-XI. Las demás que le encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
+XI. Las demás que le encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la Secretaría ejecutiva.
 
 ###### Artículo 30.
 
@@ -467,11 +545,13 @@ XI. Gestionar la publicación en el Diario Oficial del Gobierno del Estado de Yu
 
 XII. Participar en la elaboración de los contratos, convenios y demás instrumentos jurídicos que requiera la secretaría ejecutiva para su adecuado funcionamiento, y procurar su debido registro y resguardo.
 
-XIII. Recibir, en auxilio de la comisión ejecutiva, las quejas, integrar los expedientes, formular el proyecto de determinación y, en su caso, elaborar la propuesta y el esquema de seguimiento de las recomendaciones correspondientes, en términos del reglamento aplicable.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
 
-XIV. Proponer a la comisión ejecutiva los proyectos de acuerdo que se desprendan de los procedimientos de queja así como las solicitudes de información que deban realizarse a las autoridades o servidores públicos, o los escritos dirigidos a los quejosos en los que se les solicite precisar o ampliar su queja, o aportar documentos o pruebas, en términos del reglamento aplicable.
+XIII. Coordinar la orientación jurídica en materia de probables faltas administrativas y hechos de corrupción que brinde el personal adscrito a la Dirección Jurídica.
 
-XV. Requerir al personal que para tal efecto designe los informes respecto del avance en el trámite de las quejas presentadas en la secretaría ejecutiva.
+XIV. (DEROGADA, D.O. 10 DE ABRIL DE 2025)
+
+XV. (DEROGADA, D.O. 10 DE ABRIL DE 2025)
 
 XVI. Auxiliar, en el ámbito de su competencia, a las demás unidades administrativas de la secretaría ejecutiva en el desarrollo de los procedimientos en materia de adquisiciones, arrendamientos y servicios.
 
@@ -479,29 +559,15 @@ XVII. Participar y emitir las opiniones jurídicas que correspondan en las sesio
 
 XVIII. Apoyar al secretario técnico en el ejercicio de las facultades y obligaciones que le corresponden como secretario técnico del órgano de gobierno y del comité coordinador.
 
-XIX. Obtener y proporcionar copias certificadas de los documentos que obren en los archivos de la secretaría ejecutiva.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XIX. Presidir el Comité de Transparencia y dar cumplimiento a las obligaciones en la materia, en el ámbito de su competencia.
 
 XX. Las demás que le encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
 
 ###### Artículo 31.
 
-Facultades y obligaciones de los analistas
-
-Los analistas, adscritos a la Dirección Jurídica, tendrán las siguientes facultades y obligaciones:
-
-I. Organizar el trabajo técnico y profesional que le sea asignado por el secretario técnico o el director jurídico.
-
-II. Recibir, registrar e integrar las quejas que se presenten en la secretaría ejecutiva e informar al director jurídico cuando, del análisis y estudio de las solicitudes, se desprenda que no son competencia de la secretaría ejecutiva.
-
-III. Auxiliar en el despacho de la correspondencia concerniente a los trámites competencia de la Dirección Jurídica, tanto la que deba enviarse a las autoridades como a los quejosos o agraviados, y recabar los respectivos acuses de recibo.
-
-IV. Elaborar las propuestas de los acuerdos que se desprendan de los expedientes de queja y las solicitudes de información que se formulen a las distintas autoridades o servidores públicos con motivo de las quejas recibidas.
-
-V. Elaborar las propuestas de los escritos que deban dirigirse a los quejosos o agraviados para que precisen o amplíen sus quejas o aporten documentos o pruebas.
-
-VI. Presentar mensualmente al director jurídico los informes respecto del avance en el trámite de las quejas recibidas.
-
-VII. Las demás que le encomienden el secretario técnico o el director jurídico, o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
+(DEROGADO, D.O. 10 DE ABRIL DE 2025)
 
 ###### Artículo 32.
 
@@ -535,13 +601,19 @@ XII. Coordinar el servicio social y las prácticas profesionales que los estudia
 
 XIII. Establecer, mantener actualizado y vigilar el cumplimiento del programa interno de protección civil de la secretaría ejecutiva, de conformidad con las disposiciones jurídicas aplicables.
 
-XIV. Efectuar las acciones que permitan conservar en óptimas condiciones las instalaciones, el equipo y el mobiliario de la secretaría ejecutiva.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XIV. Administrar los bienes muebles e inmuebles patrimonio de la Secretaría ejecutiva, así como establecer los mecanismos para su resguardo, custodia, almacenaje y, en su caso, desincorporación, así como registrar contablemente los movimientos de altas y bajas, en términos de las disposiciones legales aplicables.
 
 XV. Verificar el adecuado funcionamiento de los sistemas y equipos informáticos de la secretaría ejecutiva, y de las plataformas digitales que le corresponda administrar.
 
-XVI. Elaborar las políticas, los lineamientos y los programas institucionales en materia de informática y de tecnologías de la información y comunicación que requiera el Sistema Estatal Anticorrupción.
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
 
-XVII. Proponer mecanismos y medidas para la adecuada interacción entre los miembros de los sistemas estatal y nacional anticorrupción, y las unidades administrativas de la secretaría ejecutiva.
+XVI. Elaborar los anteproyectos de políticas, los lineamientos y los programas institucionales en materia de informática y de tecnologías de la información y comunicación que requiera el Sistema Estatal Anticorrupción.
+
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XVII. Supervisar la adecuada interconexión entre los sistemas informáticos del sistema estatal y los sistemas informáticos y plataformas del Sistema Nacional Anticorrupción, así como su correcto funcionamiento, soporte, mantenimiento y mejora continua, con arreglo a las disposiciones jurídicas aplicables.
 
 XVIII. Promover la implementación de sistemas locales de información, en coordinación con las demás unidades administrativas de la secretaría ejecutiva.
 
@@ -549,17 +621,27 @@ XIX. Determinar medidas en materia de seguridad informática, para asegurar la p
 
 XX. Coordinar el desarrollo de las actividades de la secretaría ejecutiva en materia de archivos, para el cumplimiento de las disposiciones jurídicas aplicables.
 
-XXI. Las demás que le encomiende el secretario técnico o que establezcan este estatuto orgánico o los manuales de la secretaría ejecutiva.
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XXI. Administrar y procesar la nómina de las personas servidoras públicas de la Secretaría ejecutiva.
+
+> <small>(ADICIONADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XXII. Realizar y tramitar las adecuaciones presupuestales que requiera la Secretaría ejecutiva, en términos de las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(REFORMADA, D.O. 10 DE ABRIL DE 2025)</small>
+
+XXIII. Las demás que le encomiende el secretario técnico, o que establezcan este estatuto orgánico, o los manuales de la Secretaría ejecutiva.
 
 #### Sección cuarta. Comisión ejecutiva
+
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
 
 ###### Artículo 33.
 
 Integración y atribuciones
 
-La comisión ejecutiva es el órgano técnico auxiliar de la secretaría ejecutiva.
-
-Estará integrada, en términos del artículo 43 de la ley, por el secretario técnico y los integrantes del Comité de Participación Ciudadana, con excepción de quien funja como su presidente. Deberá generar los insumos técnicos previstos en el artículo 44 de la ley, necesarios para que el comité coordinador realice sus funciones, así como ejercer las atribuciones que establezca el reglamento del mecanismo de queja.
+Estará integrada, en términos del artículo 43 de la ley, por el secretario técnico y los integrantes del Comité de Participación Ciudadana, con excepción de quien funja como su presidente. Deberá generar los insumos técnicos previstos en el artículo 44 de la ley, necesarios para que el comité coordinador realice sus funciones.
 
 ###### Artículo 34.
 
@@ -569,13 +651,15 @@ Las sesiones de la comisión ejecutiva se ajustarán a lo previsto en el artícu
 
 ### Capítulo IV. Vigilancia y supervisión
 
+> <small>(REFORMADO, D.O. 10 DE ABRIL DE 2025)</small>
+
 ###### Artículo 35.
 
 Órgano de vigilancia y supervisión
 
-Las funciones de vigilancia de la secretaría ejecutiva estarán, en términos del artículo 41 de la ley, a cargo de un órgano de control interno, cuyo titular será designado por la Secretaría de la Contraloría General y contará con las facultades y obligaciones previstas en el Código de la Administración Pública de Yucatán y su reglamento.
+Las funciones de vigilancia de la secretaría ejecutiva estarán a cargo de un comisario público, mismo que será designado por la Secretaría de la Contraloría General y contará con las facultades y obligaciones previstas en el Código de la Administración Pública de Yucatán y su reglamento.
 
-El titular del órgano de control interno no formará parte del órgano de gobierno, pero podrá asistir a sus sesiones únicamente con derecho a voz.
+El comisario no formará parte del órgano de gobierno, pero podrá asistir a sus sesiones únicamente con derecho a voz.
 
 ### Capítulo V. Relaciones laborales
 
@@ -602,3 +686,17 @@ Aprobado por el Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Esta
 Lic. Edwin Manuel Rejón Pacheco
 
 Secretario técnico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SESEAY 02/2025 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales el Acuerdo por el que se modifica el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
