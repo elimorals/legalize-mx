@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2025-04-03"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -323,7 +323,7 @@ XL.- Promover la cultura de prevención de las enfermedades crónico degenerativ
 
 XLI.- Inculcar el valor del respeto y protección de la vida animal;
 
-> <small>(REFORMADA, B.O. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 10 DE ABRIL DE 2025)</small>
 
 XLII.- Inculcar y fortalecer la cultura del cuidado del agua y el aprendizaje de su uso responsable;
 
@@ -355,7 +355,7 @@ III.- Será humanista, al fomentar el aprecio y respeto por la dignidad de las p
 
 IV.- Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-> <small>(REFORMADA, B.O. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 10 DE ABRIL DE 2025)</small>
 
 V.- Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, el cuidado del agua y su uso responsable, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
@@ -695,7 +695,7 @@ La autoridad educativa estatal y las autoridades municipales, en el ámbito de s
 
 > <small>(ADICIONADO, B.O. 3 DE ABRIL DE 2025)</small>
 
-Para brindar una mayor cobertura, las instituciones de educación superior deberán incrementar la cantidad de cupos en su plantilla estudiantil, impartiendo la educación a distancia y semi presencial, a través de las plataformas digitales y las herramientas con las que cuenta cada institución.
+Para brindar una mayor cobertura, las instituciones de educación superior deberán incrementar la cantidad de cupos en sus plantilla estudiantil, impartiendo la educación a distancia y semi presencial, a través de las plataformas digitales y las herramientas con las que cuenta cada institución.
 
 Respeto a la autonomía universitaria
 
@@ -1177,15 +1177,15 @@ XXIV.- Aprendizaje en las tecnologías de la información y comunicación;
 
 XXV.- El fomento de los principios básicos de seguridad y educación vial;
 
-> <small>(REFORMADA, B.O. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 10 DE ABRIL DE 2025)</small>
 
-XXVI.- El fomento a la cultura de la prevención del delito, con la finalidad de permitir que la sociedad se desarrolle en un ambiente armónico y seguro, que permita el bienestar y desarrollo pleno;
+XXVI.- El Fomento a la cultura de la prevención del delito, con la finalidad de permitir que la sociedad se desarrolle en un ambiente armónico y seguro, que permita el bienestar y desarrollo pleno;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 10 DE ABRIL DE 2025)</small>
 
 XXVII.- El fomento a la cultura del cuidado del agua y el aprendizaje de su uso responsable; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 3 DE ABRIL DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], B.O. 10 DE ABRIL DE 2025)</small>
 
 XXVIII.- Los demás necesarios para el cumplimiento de los fines y criterios de la educación establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en el artículo 13 de la presente Ley.
 
@@ -2123,7 +2123,9 @@ I.- Gestionar el mejoramiento de los servicios educativos, la construcción y am
 
 II.- Estimular, promover y apoyar actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
 
-III.- Promover en la escuela y en coordinación con las autoridades, los programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos reconocidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes;
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2025)</small>
+
+III.- Participar en la elaboración del Programa Municipal de Corresponsabilidad Social; así como promover en la escuela y en coordinación con las autoridades, todos los programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos reconocidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 IV.- Realizar propuestas que contribuyan a la formulación de contenidos locales para la elaboración de los planes y programas de estudio, las cuales serán entregadas a la autoridad educativa correspondiente;
 
@@ -2148,6 +2150,30 @@ Atribuciones del consejo estatal de participación escolar
 En el Estado de Sonora, operará un consejo estatal de participación escolar en la educación, como órgano de consulta, orientación y apoyo. Dicho consejo, será integrado por las asociaciones de madres y padres de familia, maestras y maestros.
 
 Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2025)</small>
+
+Programa Municipal de Corresponsabilidad Social Educativa
+
+###### Artículo 133 Bis.
+
+Cada municipio deberá contar con un Programa Municipal de Corresponsabilidad Social Educativa, en el que deberá definir los servicios comunitarios que pueden prestarse en cada municipio y las condiciones para su prestación.
+
+Se entiende por servicios comunitarios a todas aquellas actividades autorizadas en el Programa Municipal de Corresponsabilidad Social Educativa y supervisadas por el Ayuntamiento respectivo, en coordinación con la autoridad educativa competente, que los estudiantes pueden prestar de manera directa, en su caso, de acuerdo a su especialización técnica o profesional, para atender una necesidad de una comunidad, o para contribuir al mejoramiento de la calidad de vida de sus habitantes, atendiendo a las características y necesidades propias de cada municipio, y deberán estar enfocados a alguna de las siguientes finalidades:
+
+I.- Cuidado del medio ambiente.
+
+II.- Fortalecimiento a servicios de salud.
+
+III.- Apoyo a la educación.
+
+IV.- Asistencia a grupos vulnerables.
+
+V.- Desarrollo social.
+
+VI.- Mejoramiento de infraestructura municipal.
+
+El Programa Municipal de Corresponsabilidad Social Educativa deberá comunicarse a la Secretaría, y para su elaboración el Ayuntamiento deberá convocar al Consejo Municipal de Participación Escolar, pudiendo invitar a integrantes de los sectores privado y social del municipio respectivo, así como a las autoridades que considere necesarias para esos efectos.
 
 ### Capítulo III. Del servicio social
 
@@ -2174,6 +2200,14 @@ Requisito adicional para la acreditación del servicio social
 Artículo 135 BIS.- Para acreditar el servicio social, además de lo dispuesto en el presente capítulo, los alumnos prestadores de servicio social, deberán plantar un árbol endémico en las zonas o lugares que para tal efecto designe la institución educativa o el municipio respectivo.
 
 Los municipios deberán coordinarse con la Secretaría y con la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, para designar las zonas o lugares para la plantación, cuidado, protección y conservación de los árboles endémicos a que se refiere este artículo.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2025)</small>
+
+Corresponsabilidad Social en el servicio social de Educación Media Superior
+
+Artículo 135 BIS 1.- A efecto de sensibilizar a los prestadores del servicio social y a la sociedad en general, sobre el valor de la corresponsabilidad social en el nivel de educación media superior, el servicio social deberá fomentar la solidaridad, la cooperación y la participación social, así como una mayor cohesión social, para lo cual podrá acreditarse total o parcialmente, a través de servicios comunitarios que contribuyan al desarrollo social, económico o cultural de su comunidad.
+
+Los alumnos de educación media superior en el Estado, tendrán derecho a que se les acredite una tercera parte adicional del tiempo que dediquen a la prestación de servicios comunitarios en su servicio social, conforme al Programa Municipal de Corresponsabilidad Social Educativa existente en el municipio respectivo.
 
 ### Capítulo IV. De la participación de los medios de comunicación
 
@@ -2995,7 +3029,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 3 DE ABRIL DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 123, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 123, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3014,3 +3048,33 @@ Se establece un periodo de 90 días hábiles para que el Poder Ejecutivo realice
 ###### ARTÍCULO CUARTO.
 
 La autoridad educativa estatal deberá incluir en sus campañas permanentes de información, la difusión focalizada de información sobre los derechos de niñas, niños y adolescentes migrantes, así como el procedimiento de ingreso al sistema educativo estatal.
+
+B.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA Y A LA LEY DE PROFESIONES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado cuenta con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para ajustar sus disposiciones reglamentarias a lo dispuesto en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, los ayuntamientos del Estado cuentan con un plazo de 180 días naturales para emitir su Programa Municipal de Corresponsabilidad Social Educativa.
+
+B.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 38, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación y Cultura deberá emitir su opinión a la autoridad educativa federal solicitándole que se actualicen y modifiquen los planes y programas de estudio de educación básica que se imparten en nuestro Estado, a efecto de que se incluyan contenidos regionales en los que se inculque la cultura del cuidado del agua y se imparta educación sobre su uso responsable.
+
+Con la opinión a que se refiere el párrafo anterior, la Secretaría de Educación y Cultura deberá presentar una propuesta que contenga el plan y programa de estudios con contenidos regionales en los que se inculque la cultura del cuidado del agua y se imparta educación sobre su uso responsable, para cuya elaboración deberá convocar a académicos y expertos en la materia.
