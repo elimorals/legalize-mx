@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-de-la-promotora-de-eventos-artisticos-165346
 country: "mx"
 rank: "codigo"
 publication_date: "2023-03-14"
-last_updated: "2024-11-04"
+last_updated: "2025-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA DE LA PROMOTORA DE EVENTOS ARTISTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025 (ABROGADO).
 
 Código publicado en la Sección Administrativa Periódico Oficial del Estado de Campeche, el martes 14 de Marzo de 2023.
 
@@ -738,3 +740,15 @@ P.O. 4 DE NOVIEMBRE DE 2024.
 PRIMERO.- Se instruye a todos los servidores públicos de la Promotora de Eventos, Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
 
 SEGUNDO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+P.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE".]
+
+PRIMERO.- Se instruye a todas las personas servidoras públicas de la Promotora de Eventos, Artísticos, Culturales y de Convenciones del Estado de Campeche, PROEVENTOS CAMPECHE, a efecto de que pongan en práctica las medidas necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
+
+SEGUNDO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+TERCERO.- El presente CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROEVENTOS CAMPECHE, abroga el ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE MODIFICA EL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, emitido el 25 de octubre de 2024 y publicado en el Periódico Oficial del Estado el 4 de noviembre de 2024.
+
+CUARTO.– El CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA DE EVENTOS ARTÍSTICOS, CULTURALES Y DE CONVENCIONES DEL ESTADO DE CAMPECHE, PROVENTOS CAMPECHE, fue aprobado en la Primera Sesión extraordinaria del Comité de Ética de la Promotora de Eventos Artísticos, Culturales y de Convenciones del Estado de Campeche, en sesión realizada en la ciudad de San Francisco de Campeche, Campeche el día 28 de marzo de dos mil veinticinco.
