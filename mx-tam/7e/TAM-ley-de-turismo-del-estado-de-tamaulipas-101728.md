@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2024-09-24"
+last_updated: "2025-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -121,7 +121,13 @@ XIII. Ordenamiento Turístico del Territorio: Instrumento de la política turís
 
 XIV. Patrimonio Turístico: El conjunto de bienes y servicios de cualquier naturaleza que generan el interés de los turistas por sus características y valores naturales, históricos, culturales, estéticos o simbólicos, y que deben ser conservados y protegidos para el disfrute de las presentes y futuras generaciones;
 
-XV. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2025)</small>
+
+XV. Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios, incluidos en las plataformas digitales, a que se refiere esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2025)</small>
+
+XV Bis. Plataforma Tecnológica o Digital: Programas descargables en teléfonos móviles o instrumentos electrónicos, a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular, internet, o cualquier otra red, y que para efectos de la presente Ley, permiten a la persona física o moral, nacional o extranjera, propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador, o cualquier otra actividad análoga, que ponga en contacto a los prestadores de servicios turísticos y los turistas;
 
 XVI. Programa: El Programa de Turismo del Estado de Tamaulipas;
 
@@ -1043,9 +1049,15 @@ III. Guías de turistas, de conformidad con la clasificación prevista en los re
 
 IV. Restaurantes, cafeterías, bares, centros nocturnos y similares, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos y zonas arqueológicas;
 
-V. Empresas de sistemas de intercambio de servicios turísticos; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2025)</small>
 
-VI. Los demás que señale la Ley General y normatividad aplicable.
+V. Empresas de sistemas de intercambio de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2025)</small>
+
+VI. Servicios de hospedaje temporales y permanentes ofrecidos mediante plataformas digitales; y
+
+VII. Los demás que señale la Ley General y normatividad aplicable.
 
 ###### ARTÍCULO 74.
 
@@ -1260,6 +1272,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-914 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XXIV TER AL ARTÍCULO 3; UN TÍTULO QUINTO QUÁTER DENOMINADO “DEL TURISMO ESPACIAL”; Y LOS ARTÍCULOS 44 SEPTIES, 44 OCTIES, 44 NONIES Y 44 DECIES, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-279 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN XV; Y 73, FRACCIÓN V; Y SE ADICIONAN LAS FRACCIONES XV BIS AL ARTÍCULO 3; Y VI, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 73 DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
