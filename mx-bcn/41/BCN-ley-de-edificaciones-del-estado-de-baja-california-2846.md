@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2023-07-28"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -574,6 +574,10 @@ Queda prohibido permitir la entrada a un número mayor de vehículos al establec
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2022)</small>
 
 El propietario de un estacionamiento cuyo acceso exija al usuario una retribución, debe formular declaración expresa de hacerse responsable de los daños que sufran los vehículos estacionados y bajo su guarda. Para este efecto, el propietario deberá contar con las garantías necesarias y contratar los seguros correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+Tratándose de centros comerciales, con independencia del mecanismo que se emplee para la entrada y salida de vehículos y aun cuando el servicio de estacionamiento se encuentre bajo cualquier figura legal a cargo de un tercero, se deberá otorgar a sus clientes los primeros cuarenta minutos de estacionamiento gratuito.
 
 ###### ARTICULO 23.
 
@@ -1642,3 +1646,11 @@ P.O. 28 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 254 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 9, 15, 20, 21, 24, 35, 46, 48, 54, 69, 75, DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 84 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos tendrán un plazo de sesenta días naturales a partir de la entrada en vigor de la presente reforma para realizar las adecuaciones que resulten necesarias en la reglamentación municipal correspondiente, en los términos de este.
