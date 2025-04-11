@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-a-las-actividades-de-desarrollo-social-de-16243"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2022-11-11"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16243&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2000-04-24"
 ---
 # LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA LA CIUDAD DE MEXICO ANTES -- LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL --
 
-LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL
+LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2022.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -42,7 +42,9 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
 
-LEY DE FOMENTO ALAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE ABRIL DE 2025)</small>
+
+LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA LA CIUDAD DE MÉXICO
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -52,11 +54,11 @@ LEY DE FOMENTO ALAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVIL
 
 La presente Ley es de orden público, de interés social y de aplicación en la Ciudad de México y tiene por objeto fomentar las actividades de Desarrollo Social que realicen las organizaciones civiles en beneficio de la población en esta entidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ABRIL DE 2025)</small>
 
-###### Artículo 2.
+###### Articulo 2.
 
-Para los efectos de esta ley, se consideran actividades de Desarrollo Social las que realicen en el distrito federal, sin ánimo de lucro, en beneficio de terceros, con sentido de corresponsabilidad y transparencia, sin fines confesionales o político partidistas, y bajo los principios de solidaridad, filantropía y asistencia social, las organizaciones constituidas conforme a las leyes mexicanas, cualquiera que sea la forma jurídica que adopten, para:
+Para los efectos de esta ley, se consideran actividades de Desarrollo Social las que realicen en la Ciudad de México, sin ánimo de lucro, en beneficio de terceros, con sentido de corresponsabilidad y transparencia, sin fines confesionales o político partidistas, y bajo los principios de solidaridad, filantropía y asistencia social, las organizaciones constituidas conforme a las leyes mexicanas, cualquiera que sea la forma jurídica que adopten, para:
 
 I. Fortalecer y fomentar el goce y ejercicio de los derechos humanos;
 
@@ -311,6 +313,14 @@ TERCERO.- El Jefe de Gobierno de la Ciudad de México deberá adecuar el reglame
 G.O. 11 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 1, 2, FRACCIONES I, V, X Y XVIII, 5, FRACCIÓN VI, PÁRRAFO SEGUNDO, 6, 7, 8, 9, 10, FRACCIONES I, II, III, V, VI Y VIII, 11, FRACCIÓN V, 12 Y 13, ASÍ COMO LA DENOMINACIÓN, DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY Y SE REFORMA EL ARTÍCULO 2, AMBOS DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL”.]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
