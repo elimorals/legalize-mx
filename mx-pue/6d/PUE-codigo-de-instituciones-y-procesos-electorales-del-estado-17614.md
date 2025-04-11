@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2024-10-04"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE ABRIL DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -232,6 +232,10 @@ VI.- Consejo Distrital: El Consejo Distrital Electoral;
 VII.- Consejo Municipal: El Consejo Municipal Electoral;
 
 VIII.- Casilla: La Mesa Directiva de Casilla;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VIII Bis.- Diputada o Diputado Migrante: La persona poblana con residencia binacional que habiendo cumplido los requisitos y condiciones dispuestos en materia de nacionalidad y ciudadanía, así como por éste Código y la normatividad aplicable, resulte electa por el principio de representación proporcional como Diputada o Diputado local;
 
 IX.- Partidos Políticos: Los partidos políticos nacionales y estatales constituidos y registrados conforme a las disposiciones legales aplicables;
 
@@ -442,6 +446,22 @@ a) Violencia política contra las mujeres en razón de género o delito equivale
 b) Violencia familiar; e
 
 c) Incumplimiento de la obligación alimentaria.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+ARTÍCULO 15 Bis
+
+Para efectos de la elección de la Diputada o Diputado Migrante, además de los requisitos dispuestos en el artículo anterior, se deberá acreditar lo siguiente:
+
+a) Contar con domicilio simultáneo en el extranjero y la Entidad;
+
+b) Cumplir con el requisito de nacionalidad;
+
+c) Manifestar por escrito el compromiso del cumplimiento del cargo de Diputada o Diputado Migrante; y
+
+d) Por cuanto hace a la inscripción en el Registro Federal de Electorales, dispuesta en la fracción I del artículo anterior, bastara que las personas aspirantes acrediten su inscripción en el listado de electores residentes en el extranjero del Instituto Nacional Electoral.
+
+Para efectos de lo dispuesto dentro del presente artículo, no podrán postularse personas que desempeñen cargos diplomáticos o laborales en sedes diplomáticas o consulares, sino hasta después de haber transcurrido dos años de haberse separado del cargo respectivo y previa acreditación de los requisitos correspondientes.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DE DIPUTADOS, GOBERNADOR Y MIEMBROS DE LOS AYUNTAMIENTOS
 
@@ -4293,7 +4313,13 @@ Las y los ciudadanos podrán solicitar su registro como candidatas y candidatos 
 
 Para garantizar la paridad de género en forma horizontal, en cada fórmula, las (sic) personas propietaria y suplente deberán ser del mismo género.
 
-Para atender el principio de paridad de género en forma vertical, la lista de representación proporcional se integrará por fórmulas de candidatas y candidatos, compuestas cada una por una persona propietaria y una suplente del mismo género. Se integrarán, alternadamente, con fórmulas de género distinto hasta agotar la lista, así como en el género que la encabece en cada periodo electivo.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+Para atender el principio de paridad de género en forma vertical, la lista de representación proporcional se integrará por fórmulas de candidatas y candidatos, compuestas cada una por una persona propietaria y una suplente del mismo género. Se integrarán, alternadamente, con fórmulas de género distinto hasta agotar la lista, así como en el género que la encabece en cada periodo electivo. Para efectos del presente párrafo y con relación a la postulación de la Diputada o el Diputado Migrante, se deberá intercalar el género en cada elección por parte de los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+Para la postulación de la Diputada o el Diputado Migrante, los partidos deberán garantizar su integración dentro de los cinco primeros lugares de la lista de representación proporcional. Para el efecto, el Instituto emitirá las reglas específicas que hagan efectivo aquel derecho.
 
 Respecto de los Ayuntamientos, los partidos políticos registrarán a sus candidatas y candidatos por planillas integradas por fórmulas de propietarios y suplentes del mismo género, las cuales deberán alternarse de manera paritaria entre ambos géneros. Para garantizar la paridad de género, en caso de existir número impar en el registro de candidatas y candidatos de los Ayuntamientos, los partidos políticos podrán optar por situar en el primer lugar de dichos registros, a una fórmula de género femenino.
 
@@ -4627,13 +4653,17 @@ F. Las y los candidatos independientes figurarán en la misma boleta que se apru
 
 Se utilizará un recuadro para cada candidata o candidato independiente, fórmula o planilla de candidatas o candidatos independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos, candidatas y candidatos comunes, o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2025)</small>
 
 ###### ARTÍCULO 202.
 
-Los candidatos a Diputados por el principio de mayoría relativa y por el principio de representación proporcional, se registrarán por fórmulas compuestas, cada una, por un propietario y un suplente del mismo género.
+Las y los candidatos a Diputados por el principio de mayoría relativa y por el principio de representación proporcional, se registrarán por fórmulas compuestas, cada una, por un propietario y un suplente del mismo género. Para el caso de la elección de la Diputada o el Diputado Migrante, la fórmula deberá acreditar dicha condición en términos de este Código y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Para el caso de los diputados que busquen la reelección solo podrán ser postulados por el mismo Distrito Electoral por el que obtuvieron su constancia de mayoría en la elección inmediata anterior, o bien siendo incluidos en la lista de Diputados por el principio de Representación Proporcional del partido político que los postuló inicialmente, de acuerdo con las reglas establecidas en el artículo 16 apartado C de este Código.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Los Diputados electos por el Principio de Representación Proporcional, que pretendan la reelección podrán ser postulados tanto por el Principio de Mayoría Relativa como por el de Representación Proporcional, del partido político que los postuló inicialmente de acuerdo con las reglas establecidas en el artículo 16 apartado C de este Código.
 
@@ -4742,6 +4772,18 @@ Para poder ser registrado como candidato a Gobernador, el Instituto deberá veri
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE JULIO DE 2017)</small>
 
 El partido político postulante deberá manifestar por escrito que los candidatos cuyo registro solicitan, fueron seleccionados de conformidad con los estatutos del propio partido político.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+ARTÍCULO 208 Bis
+
+Para el caso de la elección de la Diputada o el Diputado Migrante, además de los documentos descritos dentro del artículo anterior, la solicitud deberá acompañarse de los siguientes:
+
+I. Matrícula consular o constancia de inscripción en el listado de electores residentes en el extranjero, expedida por el Instituto Nacional Electoral, para acreditar domicilio en el extranjero;
+
+II. Certificado de nacionalidad expedido por la Secretaría de Relaciones Exteriores, para acreditar que no posee otra nacionalidad; y
+
+III. Carta compromiso del cumplimiento del cargo de Diputada o Diputado Migrante, en caso de resultar electa.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -6679,9 +6721,9 @@ ARTÍCULO 324 QUATER.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
 ARTÍCULO 324 QUINQUIES.- (DEROGADO, P.O. 31 DE JULIO DE 2017)
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
 
-ARTÍCULO 324 SEXIES.- Los partidos políticos y sus candidatos a Gobernador no podrán realizar campaña electoral en el extranjero; en consecuencia; quedan prohibidas en cualquier tiempo, las actividades, actos y propaganda electoral en el extranjero. Asimismo, la contratación de medios de comunicación para la promoción del proceso electoral, o de algún partido o candidato.
+ARTÍCULO 324 SEXIES.- Los partidos políticos y sus candidatos a Gobernador o Gobernadora y a Diputada o Diputado Migrante no podrán realizar campaña electoral en el extranjero; en consecuencia, quedan prohibidas en cualquier tiempo, las actividades, actos y propaganda electoral en el extranjero. Asimismo, la contratación de medios de comunicación para la promoción del proceso electoral, o de algún partido o candidato.
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -8760,5 +8802,13 @@ P.O. 4 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO POSTERIOR A LA FRACCIÓN VII DEL ARTÍCULO 353 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a los 90 días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 201, EL PRIMER PÁRRAFO DEL 202 Y EL 324 SEXIES Y SE ADICIONA LA FRACCIÓN VIII BIS, AL ARTÍCULO 2, EL 15 BIS, UN QUINTO PÁRRAFO AL 201, RECORRIÉNDOSE EN EL ORDEN LOS SUBSECUENTES Y EL 208 BIS, TODOS DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que entren en vigor las disposiciones constitucionales en materia de la diputación migrante, en términos del artículo transitorio vigésimo sexto del Decreto del Congreso del Estado por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, en materia judicial, entre otros.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
