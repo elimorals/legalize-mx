@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2025-03-12"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -103,11 +103,13 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, servidoras y servidores públicos en el Estado de Hidalgo, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
 
-En el Estado de Hidalgo, (sic) reconoce y protege el derecho a la vida. Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
+En el Estado de Hidalgo, (sic) reconoce y protege el derecho a la vida. Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, la orientación sexual, la identidad de género, la expresión de género, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
 
-Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deberá combatirse.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+Toda persona tiene derecho a la libre determinación de su identidad y de su expresión de género. Cualquier tipo de discriminación y de intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que debe combatirse.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
@@ -388,6 +390,8 @@ Toda persona tiene derecho a gozar de los beneficios del desarrollo de la cienci
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 El Estado apoyará la investigación científica, el desarrollo tecnológico y su aplicación práctica a través de la innovación, lo que permitirá ser más competitivo y la posibilidad de incorporar a los hidalguenses a la sociedad del conocimiento.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
 
@@ -4616,3 +4620,9 @@ DÉCIMO PRIMERO. Las magistradas y los magistrados del Tribunal de Justicia Admi
 DÉCIMO SEGUNDO. Transcurrido un año a partir de las elecciones ordinarias del año 2027, se integrará una comisión interinstitucional para la revisión del marco constitucional y legal que, con motivo de la presente reforma, se haya emitido. Dicha comisión se integrará por las personas servidoras públicas que designe el Poder Legislativo, Ejecutivo y Judicial, y tendrá como objetivo la identificación, discusión y formulación de las adecuaciones al marco jurídico aplicable, necesarias para la operación óptima de la reforma implementada, sin contravenir lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
 DÉCIMO TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 227-LXVI QUE REFORMA EL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
