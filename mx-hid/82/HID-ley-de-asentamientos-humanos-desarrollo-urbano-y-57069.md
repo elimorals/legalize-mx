@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2025-03-10"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -98,6 +98,10 @@ I.- Acción urbana: El proceso de aprovechamiento, acondicionamiento y utilizaci
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 I BIS. Áreas verdes y espacios libres: Los jardines, parques, plazas públicas, áreas deportivas y de esparcimiento destinadas dentro de un fraccionamiento;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+I TER. Arquitectura o urbanismo hostil: acción mediante la cual se altera o construye el espacio público para desalentar su uso para el confort, abrigo, descanso, bienestar, accesibilidad y gozo;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -522,6 +526,10 @@ Así como la supervisión de la ejecución de las obras de urbanización e infra
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
 
 XXVII BIS.- Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XXVII TER.- Vigilar, establecer medidas y ejecutar acciones para reducir la presencia de arquitectura o urbanismo hostil en el espacio público;
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2343,9 +2351,17 @@ IX. Se deberán definir los instrumentos, públicos o privados, que promuevan la
 
 X. Se establecerán los lineamientos para que el diseño y traza de vialidades en los Centros de Población asegure su continuidad, procurando una cantidad mínima de intersecciones, que fomente la movilidad, de acuerdo a las características topográficas y culturales de cada región;
 
-XI. Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana, la conservación de los monumentos y el paisaje y mobiliario urbano; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-XII. En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares.
+XI. Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana, la conservación de los monumentos y el paisaje y mobiliario urbano;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XII. En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares, y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XIII. Se deberá asegurar que en los espacios públicos no se implemente el uso de arquitectura o urbanismo hostil.
 
 Los municipios vigilarán y protegerán la seguridad, integridad, calidad, mantenimiento y promoverán la gestión del Espacio Público con cobertura suficiente.
 
@@ -2864,3 +2880,9 @@ SEGUNDO. Dentro de un plazo de 180 días naturales contados a partir de la publi
 TERCERO. Dentro de un plazo de 180 días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo, se deberá realizar la adecuación al Reglamento de la Ley.
 
 CUARTO. Los Fraccionadores que efectúen obras, construcciones, instalaciones o servicios están sujetos a lo que establezca la norma vigente al momento de que se les haya otorgado la autorización correspondiente.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO, EN MATERIA DE URBANISMO HOSTIL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
