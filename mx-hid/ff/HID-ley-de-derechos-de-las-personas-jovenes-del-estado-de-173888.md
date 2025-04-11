@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-de-las-personas-jovenes-del-estado-de-173888"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-15"
-last_updated: "2024-07-15"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Número 29 Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2024.
 
@@ -39,11 +39,11 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-[…]
+[...]
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -110,6 +110,12 @@ Las personas jóvenes tienen derecho a la vida. Las autoridades estatales y muni
 ###### Artículo 7.
 
 El goce de los derechos y libertades de las personas jóvenes no admite ninguna discriminación fundada en el origen nacional, étnico o cultural, el sexo, las características sexuales, la orientación sexual, la expresión o identidad de género, la lengua, la religión, las opiniones, la condición social, las aptitudes físicas, o la discapacidad, el lugar donde se vive, los recursos económicos o cualquier otra condición o circunstancia personal o social.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 7 Bis.
+
+El Poder Ejecutivo del Estado y los municipios, en coordinación con las autoridades competentes, promoverán e impulsarán acciones y políticas destinadas a garantizar el pleno ejercicio de los derechos de las personas jóvenes con discapacidad, así como su participación activa en la comunidad.
 
 ###### Artículo 8.
 
@@ -230,6 +236,10 @@ Queda prohibida la explotación económica y todo trabajo que ponga en peligro l
 ###### Artículo 20.
 
 El Poder Ejecutivo del Estado de Hidalgo deberá contemplar un sistema de empleo que comprenda: bolsa de trabajo, capacitación para acceder o crear opciones de empleo laboral, recursos económicos para proyectos productivos, convenios y estímulos fiscales con empresas que promuevan actividades de inserción y calificación de personas jóvenes en el trabajo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+Dicho sistema deberá contemplar políticas que garanticen la inclusión laboral de todas las personas jóvenes de la entidad, evitando cualquier clase de discriminación motivada por alguna de las categorías señaladas en el artículo 7 de esta Ley.
 
 ###### Artículo 21.
 
@@ -924,3 +934,11 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. JULIO RAMÓN MENCHACA SALAZAR
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 223 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN DE LAS PERSONAS JÓVENES CON DISCAPACIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
