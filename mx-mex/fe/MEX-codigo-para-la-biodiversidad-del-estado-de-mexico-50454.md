@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-03-10"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ABRIL DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -785,11 +785,29 @@ VII. La integración y ejecución de investigaciones científicas y sociales, ad
 
 VIII. Establecer campañas para la correcta clasificación de los residuos sólidos urbanos, y la promoción de la economía circular.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 11 DE ABRIL DE 2025)</small>
 
 ###### Artículo 2.
 
-19. La Secretaría proveerá a la Secretaría de Educación, Ciencia, Tecnología e Innovación, material relativo a temas de cultura ambiental para su inclusión en las currículas formales de la educación preescolar, primaria y secundaria del Sistema Estatal de Educación.
+19. La Secretaría proveerá a la Secretaría de Educación, Ciencia, Tecnología e Innovación, el material relativo a la cultura ambiental para su inclusión en los planes y programas escolares del Sistema Estatal de Educación considerando, entre otros los contenidos de carácter ecológico, siguientes:
+
+I. El cuidado, respeto y protección de los seres sintientes;
+
+II. La cultura y uso sustentable del agua;
+
+III. El manejo integral de los residuos;
+
+IV. La prevención de la contaminación en sus diferentes modalidades;
+
+V. El aprovechamiento racional de los recursos naturales;
+
+VI. La protección, preservación y cuidado de las áreas verdes en sus diversas modalidades, así como la reforestación y cultura de conservación forestal;
+
+VII. El desarrollo de actividades y emprendimientos sustentables, y
+
+VIII. Todos aquellos relativos a la protección, preservación y cuidado del medio ambiente, con el propósito de generar conciencia ecológica, y promover el aprovechamiento sustentable de los recursos naturales, así como, la adopción de prácticas responsables que contribuyan a su conservación y a mitigar el cambio climático.
+
+La Secretaría coadyuvará en la elaboración de programas de difusión, capacitación a personal docente, así como en el desarrollo de conferencias, actividades y mecanismos enfocados a reducir el cambio climático y sus efectos con toda la comunidad educativa.
 
 ###### Artículo 2.
 
@@ -1573,13 +1591,19 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 #### SECCION TERCERA. DE LAS DECLARATORIAS PARA EL ESTABLECIMIENTO, ADMINISTRACION Y VIGILANCIA DE AREAS NATURALES PROTEGIDAS
 
-###### Artículo 2.
-
-101. Las áreas naturales protegidas de competencia estatal se establecerán mediante declaratoria expedida por el Gobernador del Estado conforme al presente Libro y a las demás disposiciones aplicables según proceda, previo estudio técnico que se elabore en los términos que emita la Secretaría, la que coordinará dicho estudio con la participación de los Ayuntamientos que corresponda, las dependencias federales y estatales competentes y con sectores público y social.
+> <small>(REFORMADO, G.G. 11 DE ABRIL DE 2025)</small>
 
 ###### Artículo 2.
 
-102. La Secretaría propondrá al titular del Poder Ejecutivo la expedición de declaratorias para el establecimiento de áreas naturales protegidas de jurisdicción estatal y éste podrá solicitar a la Federación el establecimiento de áreas naturales protegidas de jurisdicción federal.
+101. Las áreas naturales protegidas de competencia estatal se establecerán mediante Decreto expedido por la persona titular del Ejecutivo Estatal conforme al presente Libro y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 2.
+
+102. La Secretaría propondrá la declaratoria de cada área natural protegida, previa elaboración del estudio técnico justificativo, el cual se elaborará con la participación de los municipios que corresponda, dependencias federales y estatales competentes, así como a los sectores público, privado y social. El estudio técnico justificativo deberá ponerse a disposición del público en general conforme a los criterios previstos en el Reglamento de este Libro.
+
+Asimismo, el Ejecutivo Estatal podrá proponer a la Federación el establecimiento de áreas naturales protegidas de jurisdicción federal.
 
 ###### Artículo 2.
 
@@ -8584,3 +8608,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 La Secretaría del Campo, en coordinación con las Secretarías del Agua y del Medio Ambiente y Desarrollo Sostenible, emitirá la Norma Técnica Estatal correspondiente para regular el uso de productos químicos o tecnología en la inhibición, alteración o modificación del ciclo hidrológico con fines agrícolas, ello con el objetivo de lograr un desarrollo rural integral y sostenible.
+
+G.G. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 2.19, 2.101 Y 2.102 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Poder Ejecutivo del Estado de México podrá modificar o actualizar las declaratorias y/o decretos de creación, programas de manejo, recategorización y demás disposiciones relativas a las Áreas Naturales Protegidas de jurisdicción estatal, que hubieran sido creadas mediante actos del Poder Legislativo, fundados en la legislación vigente previo a la entrada en vigor de este Código, siguiendo las formalidades previstas en el presente Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
