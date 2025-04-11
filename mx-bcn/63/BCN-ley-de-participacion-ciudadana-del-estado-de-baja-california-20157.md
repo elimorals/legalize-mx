@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2023-09-02"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -63,9 +63,13 @@ III.- Iniciativa Ciudadana, y
 
 IV.- Consulta Popular.
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-V.- Presupuesto Participativo.
+V.- Presupuesto Participativo; y,
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VI.- Parlamento Abierto.
 
 Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad y la equidad.
 
@@ -1019,6 +1023,28 @@ La Iniciativa Ciudadana en el ámbito municipal es el instrumento mediante el cu
 
 El presupuesto participativo es el instrumento de participación ciudadana a través del cual se reconoce a los ciudadanos de los municipios, la potestad de presentar propuestas para la realización de obras públicas para que sean valoradas y en su caso aprobadas por sus cabildos en el Presupuesto de Egresos Municipal de cada año, conforme a las disposiciones contenidas en el reglamento municipal de la materia.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2025)</small>
+
+## TÍTULO CUARTO. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2025)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 82.
+
+Para los efectos de la presente Ley, se definirá el Parlamento Abierto como un conjunto de acciones legislativas destinadas a crear espacios de interacción entre la ciudadanía y el Congreso de Baja California. El objetivo es garantizar que el ejercicio de sus funciones sea evaluado, fiscalizado y sometido al escrutinio público, de acuerdo con los siguientes principios:
+
+I.- Transparencia en la información;
+
+II.- Rendición de cuentas;
+
+III.- Evaluación del desempeño legislativo; y,
+
+IV.- Participación ciudadana y uso de tecnologías de la información.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1100,3 +1126,9 @@ P.O. 2 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 288 MEDIANTE EL CUAL, SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 21, 27 BIS, 33, 134, 139, 146, 168, 327, 328 Y 330 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA; 6, 21 Y 43 DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA; 6, 7, 10, 12, 14 DE LA LEY DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN LA ADICIÓN DE UN CAPÍTULO IX BIS DENOMINADO “DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL” Y LA ADICIÓN DE LOS ARTÍCULOS 22 BIS Y 22 TER AL MISMO ORDENAMIENTO; LA ADICIÓN DE UN ARTÍCULO 4 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LAS REFORMAS A LOS ARTÍCULOS 3, 5, 7, 14, 29, 31, 32, 33 Y 34 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 78 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
