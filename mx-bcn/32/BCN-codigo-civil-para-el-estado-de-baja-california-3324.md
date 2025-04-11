@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2024-06-28"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -7023,15 +7023,19 @@ VII.- Entre coherederos sobre bienes de la masa hereditaria.
 
 ### CAPITULO V. DE LA INTERRUPCION DE LA PRESCRIPCION
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2025)</small>
+
 ###### ARTICULO 1155.
 
 La prescripción se interrumpe:
 
 I.- Si el poseedor es privado de la posesión de la cosa o del goce del derecho por más de un año;
 
-II.- Por demanda u otro cualquier género de interpelación judicial notificada al poseedor o al deudor en su caso.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-Se considerará la prescripción como no interrumpida por la interpelación judicial, si el actor desistiese de ella, o fuese desestimada su demanda;
+II.- Por demanda, denuncia penal o cualquier otro género de interpelación judicial, debidamente notificada al poseedor o al deudor en su caso, respecto del bien poseído.
+
+Se considerará la prescripción como no interrumpida por la interpelación judicial, si el actor desistiese de ella o fuese desestimada su demanda; tratándose de denuncia penal se tendrá por no interrumpida la prescripción cuando se determine el no ejercicio de la acción penal o la inexistencia de una pena condenatoria.
 
 III.- Porque la persona a cuyo favor corre la prescripción reconozca expresamente de palabra o por escrito, o tácitamente por hechos indudables, el derecho de la persona contra quien prescribe.
 
@@ -16894,3 +16898,9 @@ P.O. 28 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 442 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, 132, 133 BIS, 134 BIS Y CREA EL 134 TER DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 83 MEDIANTE EL CUAL SE APRUEBA LA REFORMA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
