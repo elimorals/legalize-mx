@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2025-02-07"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -1345,7 +1345,9 @@ XIV. La autorización al Ejecutivo a contratar empréstitos a nombre del Estado;
 
 XV. El otorgamiento a la persona titular del Poder Ejecutivo del Estado de facultades extraordinarias, en los casos que la Constitución del Estado prevé, y los tendientes a aprobar o reprobar el ejercicio de tales facultades;
 
-XVI. El conocimiento, en su carácter de comisión de examen previo conforme a la ley de la materia, los concernientes a los juicios políticos, y de responsabilidad;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XVI. El conocimiento, en su carácter de comisión instructora conforme a la ley de la materia, los concernientes a los juicios políticos, y de responsabilidad, en su caso;
 
 XVII. Los asuntos concernientes a las controversias que se susciten entre uno o más municipios, y entre éstos y el Poder Ejecutivo o el Poder Judicial del Estado, siempre y cuando no posean un carácter contencioso;
 
@@ -1485,7 +1487,9 @@ IV. Los relativos a la remoción, y calificación de la renuncia, de la o del Fi
 
 V. Los encaminados a obtener del Poder Legislativo, amnistías o indultos por delitos del orden común;
 
-VI. Los relativos, en su carácter de comisión de examen previo conforme a la ley de la materia, a los juicios políticos, y de responsabilidad;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VI. Los relativos, en su carácter de comisión instructora, conforme a la ley de la materia, a los juicios políticos, y de responsabilidad, en su caso;
 
 VII. Los relativos a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
 
@@ -1968,3 +1972,11 @@ P.O. 7 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0154.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 98, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0186.- SE REFORMAN LA FRACCIÓN XVI DEL ARTÍCULO 107 Y LA FRACCIÓN VI DEL ARTÍCULO 114, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 4°, EL PÁRRAFO PRIMERO DEL ARTÍCULO 20, EL PÁRRAFO PRIMERO DEL ARTÍCULO 32 Y EL ARTÍCULO 37, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 131, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
