@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-entrega-recepcion-de-los-recursos-de-la-23680"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-13"
-last_updated: "2018-02-22"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23680&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-02-28"
 
 LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el miércoles 13 de marzo de 2002.
 
@@ -200,9 +200,11 @@ La Comisión receptora deberá conocer la situación de la administración y des
 
 El proceso de entrega recepción deberá principiar desde que la autoridad entrante del órgano de la administración pública respectiva de la Ciudad de México haya sido legalmente reconocida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ABRIL DE 2025)</small>
+
 ###### Artículo 18.
 
-Para llevar a cabo la entrega-recepción de los recursos públicos de la Administración Pública del Distrito Federal los titulares salientes deberán llevar a cabo un acto formal, por el cual entreguen el informe a los titulares entrantes de su gestión realizada y el acta administrativa en el que conste el estado que guarda la administración, contenidas en un sólo documento.
+Para llevar a cabo la entrega-recepción de los recursos públicos de la Administración Pública de la Ciudad de México los titulares salientes deberán llevar a cabo un acto formal, por el cual entreguen el informe a los titulares entrantes de su gestión realizada y el acta administrativa en el que conste el estado que guarda la administración, contenidas en un sólo documento.
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. ADICIONADO], G.O. 22 DE FEBRERO DE 2018)</small>
 
@@ -318,9 +320,11 @@ c) Un ejemplar para el archivo del área que corresponda, y;
 
 d) Un ejemplar para el representante del órgano de control respectivo.
 
+> <small>(REFORMADO, G.O. 11 DE ABRIL DE 2025)</small>
+
 ###### Artículo 20.
 
-La verificación del contenido del acta correspondiente deberá realizarse por el servidor público entrante en un término de quince días hábiles contados a partir de la fecha de entrega-recepción de la dependencia, entidad u órgano político administrativo del gobierno del Distrito Federal. Durante dicho lapso el servidor público saliente podrá ser requerido para que haga las aclaraciones y proporcione la información adicional que se le solicite.
+La verificación del contenido del acta correspondiente deberá realizarse por el servidor público entrante en un término de quince días hábiles contados a partir de la fecha de entrega-recepción de la Dependencia, Entidad u Órgano Político Administrativo del Gobierno de la Ciudad de México. Durante dicho lapso el servidor público saliente podrá ser requerido para que haga las aclaraciones y proporcione la información adicional que se le solicite.
 
 > <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
 
@@ -391,3 +395,11 @@ CUARTO.- Se otorga un plazo de 180 días naturales para que la Contraloría Gene
 QUINTO.- Dentro (sic) lo establecido en el artículo 2, fracciones II y VI de esta Ley, se encuentran incluidos los concejales, derivado de la reforma política de la Ciudad de México y atendiendo a la reforma del artículo 122 constitucional y a la expedición de la Constitución Política de la Ciudad de México.
 
 Estos nuevos sujetos tienen la obligación de apegarse a lo establecido en la presente Ley y seguir el procedimiento de entrega recepción, el cual deberán realizar ante la Contraloría de la Alcaldía o ante la comisión u órgano interno que para tal efecto designen en el Bando correspondiente de cada Alcaldía.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 18 PÁRRAFO PRIMERO Y 20 DE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
