@@ -4,7 +4,7 @@ identifier: "HID-ley-de-imagen-urbana-para-el-estado-de-hidalgo-168099"
 country: "mx"
 rank: "ley"
 publication_date: "2023-10-05"
-last_updated: "2025-01-28"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Alcance dos del Periódico Oficial del Estado de Hidalgo, el jueves 5 de octubre de 2023.
 
@@ -86,6 +86,10 @@ Para efectos de la presente Ley, se entenderá por:
 I.- Alineamiento: Traza sobre el terreno que limita el predio respectivo con la vía pública en uso o futura, determinada en los planos y proyectos debidamente aprobados;
 
 II.- Anuncio: Medio de información que indique, señale, exprese y muestre al público cualquier mensaje de manera gráfica o escrita;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+II Bis.- Arquitectura o urbanismo hostil: acción mediante la cual se altera o construye el espacio público para desalentar su uso para el confort, abrigo, descanso, bienestar, accesibilidad y gozo.
 
 III.- Banqueta: Franja longitudinal exclusiva para el flujo peatonal, que además funciona como transición entre el espacio público y el privado, localizada entre el paramento de las edificaciones o límite de propiedad y la superficie de rodamiento a desnivel, acotada por la guarnición;
 
@@ -460,6 +464,10 @@ IV.- El mobiliario urbano deberá armonizar con el ambiente y carácter del ento
 V.- Asegurar resistencia a las inclemencias climáticas y permitir realizar un fácil mantenimiento;
 
 VI.- No deben presentar acabados que representen un peligro a la integridad física de las personas;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VI Bis.- No utilizar arquitectura o urbanismo hostil;
 
 VII.- Los materiales a utilizar deben garantizar calidad, durabilidad, seguridad y ser antivandálicos;
 
@@ -952,3 +960,9 @@ P.O. 28 DE ENERO DE 2025.
 [N. D E. TRANSITOROS DEL “DECRETO NÚM. 24 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 A LA LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESPACIOS URBANOS ORDENADOS, ABIERTOS Y SOSTENIBLES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 225 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO, EN MATERIA DE URBANISMO HOSTIL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
