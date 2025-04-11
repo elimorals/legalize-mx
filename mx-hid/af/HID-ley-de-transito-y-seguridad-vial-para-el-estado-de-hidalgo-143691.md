@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2024-07-02"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -812,6 +812,10 @@ II.- Obedecer los dispositivos tecnológicos, así como aquellos que sirven para
 III.- Respetar los límites de velocidad que establezca esta Ley, su Reglamento, los Reglamentos Municipales y los señalamientos viales, conduciendo con prudencia en zonas escolares y hospitales;
 
 IV.- Respetar al peatón y su derecho preferente de paso;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+IV. BIS. Respetar al ciclista y abstenerse de obstruir la circulación en las ciclovías.
 
 V.- Disminuir la velocidad y de ser preciso, detener la marcha del vehículo, así como tomar las precauciones necesarias ante la concentración de peatones o vehículos en puestos de revisión;
 
@@ -1792,5 +1796,11 @@ P.O. 19 DE ENERO DE 2024.
 P.O. 2 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1006 QUE REFORMA LA FRACCIÓN V Y VI DEL APARTADO B DEL ARTÍCULO 127 Y SE ADICIONA LA FRACCIÓN VII DEL APARTADO B DEL ARTÍCULO 127, DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 226 - LXVI QUE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 67 DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
