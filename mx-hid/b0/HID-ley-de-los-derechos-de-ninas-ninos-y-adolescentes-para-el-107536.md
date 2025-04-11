@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-02-27"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -411,13 +411,17 @@ XX. Derecho de acceso a las tecnologías de la información y comunicación;
 
 XXI. Derecho a una crianza positiva;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-XXII. Derecho a una parentalidad asistida; y
+XXII. Derecho a una parentalidad asistida;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-XXIII. Derecho a una alimentación nutritiva, suficiente y de calidad.
+XXIII. Derecho a una alimentación nutritiva, suficiente y de calidad, y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1831,13 +1835,51 @@ Todas las niñas, niños y adolescentes tienen derecho a una alimentación nutri
 
 La desnutrición, malnutrición, sobrealimentación y trastornos alimenticios en niñas, niños y adolescentes constituyen un asunto de salud pública para el Estado y los municipios, por lo que en el ámbito de su competencia, deberán crear programas y ejecutar acciones tendientes a brindarles una correcta educación alimentaria y mejoramiento nutricional.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2025)</small>
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Vigésimo Cuarto
+
+Del Derecho a la Movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 100 Bis 11.
+
+Niñas, niños y adolescentes tienen derecho a la movilidad, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, esta ley y las disposiciones legales aplicables en la materia.
+
+El Estado y los municipios, en el ámbito de sus respectivas competencias, fomentarán proyectos de infraestructura vial que incorporen un enfoque preventivo para reducir los factores de riesgo y la ocurrencia de lesiones graves, además de garantizar el uso y disfrute del espacio público.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 100 Bis 12.
+
+El estado y los municipios, en el ámbito de sus respetivas competencias, implementarán acciones para promover:
+
+A) Entornos escolares seguros, a través de elementos de diseño, gestión, mantenimiento y operación que prioricen la seguridad vial en los trayectos y accesos a los centros educativos, considerando en todo momento:
+
+I. Procurar una infraestructura urbana que cuente con un diseño universal para atender las necesidades de niñas, niños y adolescentes, conforme a la legislación aplicable;
+
+II. Procurar establecer medidas para proteger la salud de niñas, niños y adolescentes, reduciendo niveles de contaminación ambiental y acústica;
+
+III. Involucrar a niñas, niños y adolescentes en el diseño de estos entornos a través de mecanismos apropiados, incorporando criterios que garanticen sus necesidades de movilidad, conforme al Capítulo Décimo Quinto de esta Ley, y
+
+IV. Promover el uso de metodologías e indicadores para identificar factores de riesgo y fomentar entornos seguros que mejoren la calidad de vida.
+
+B) Espacios públicos adecuados y seguros a través de:
+
+I. Proveer equipamiento y mobiliario urbano que garantice un entorno accesible y seguro para la movilidad y disfrute de vías públicas;
+
+II. Fomentar la participación de niñas, niños y adolescentes en el diseño y gestión de los espacios públicos, considerando sus necesidades específicas, según lo dispuesto en el Capítulo Décimo Quinto de esta Ley;
+
+III. Incorporar como criterio en el diseño del espacio público y la infraestructura vial, la disminución de flujos y velocidades vehiculares favoreciendo una convivencia armónica en las vías públicas, y
+
+IV. Promover espacios públicos y zonas recreativas, deportivas y de juego que sean seguras, accesibles y suficientes, considerando la edad, diversidad funcional, discapacidad u otras condiciones, para garantizar los derechos al deporte, al juego, al esparcimiento y al desarrollo saludable.
+
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 101.
 
@@ -1927,7 +1969,7 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De la Distribución de Competencias
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 106.
 
@@ -2059,7 +2101,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
+### Capítulo Segundo. De la Distribución de Competencias
 
 ###### Artículo 113.
 
@@ -2067,7 +2109,7 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
+### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
 
 ###### Artículo 114.
 
@@ -2193,7 +2235,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF Hidalgo.
 
-### Capítulo Quinto. Del Programa Estatal
+### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
 ###### Artículo 118.
 
@@ -2317,7 +2359,7 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 La Procuraduría de Protección, contara con Subprocuradurías Regionales a efecto de que logre la mayor presencia y cobertura posible en los municipios, quienes contaran con unidades de atención acorde a la autonomía e independencia presupuestal de cada municipio.
 
-### Capítulo Sexto. De la Secretaría Ejecutiva
+### Capítulo Quinto. Del Programa Estatal
 
 ###### Artículo 122.
 
@@ -2419,7 +2461,7 @@ El Sistema Estatal de Protección Integral se reunirá cuando menos dos veces al
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial.
 
-### Capítulo Séptimo. De la Evaluación y Diagnóstico
+### Capítulo Sexto. De la Secretaría Ejecutiva
 
 ###### Artículo 127.
 
@@ -2439,9 +2481,7 @@ El Programa Estatal deberá incluir mecanismos transparentes que permitan su eva
 
 Los Sistemas Estatal y municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
-### Capítulo Octavo. De los Sistemas Municipales de Protección
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
+### Capítulo Séptimo. De la Evaluación y Diagnóstico
 
 ###### Artículo 131.
 
@@ -2495,7 +2535,9 @@ III. Tener como mínimo cinco años de experiencia en las áreas correspondiente
 
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo. De los Sistemas Municipales de Protección
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2021)</small>
 
 ###### Artículo 133.
 
@@ -2503,7 +2545,7 @@ Corresponde a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED]
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de metas y acciones en materia de derechos de niñas, niños y adolescentes y de acuerdo con el resultado, tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL] y a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] podrán emitir las sugerencias y recomendaciones que consideren pertinentes a través de las instancias competentes.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
 
 ###### Artículo 134.
 
@@ -2580,6 +2622,8 @@ II. Contar con título profesional de nivel licenciatura, debidamente registrado
 III. Tener como mínimo tres años de experiencia en las áreas correspondientes a su función:
 
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 136.
 
@@ -2992,5 +3036,11 @@ P.O. 9 DE ENERO DE 2025.
 P.O. 27 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 208 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XXI Y SE ADICIONA UNA FRACCIÓN XXI BIS AL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE CENTROS ESCOLARES LIBRES DE DROGAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 224 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE DERECHO A LA MOVILIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
