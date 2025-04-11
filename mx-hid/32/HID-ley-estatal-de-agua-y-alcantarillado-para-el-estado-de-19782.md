@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-09-17"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -869,13 +869,159 @@ VIII. Los demás bienes y derechos que formen parte de su patrimonio por cualqui
 
 Los bienes de los Organismos Operadores Municipales, Intermunicipales y de la Comisión, destinados en forma directa a la prestación de los servicios públicos, serán inembargables e imprescriptibles, considerándose del dominio público.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
+
 ###### Artículo 41.
 
-La vigilancia del Organismo estará a cargo de un Comisario designado por el Síndico Procurador.
+La vigilancia del Organismo Operador Municipal estará a cargo de un Comisario designado por la o el Síndico Procurador, quien deberá ser una persona servidora pública de la Administración Municipal, por lo que dicha función es de carácter honorífico y no deberá causar ninguna retribución dentro del Organismo Operador Municipal.
+
+Sus facultades y obligaciones serán las siguientes:
+
+I. Vigilar y evaluar en materia operacional, administrativa y legal el actuar del Órgano de Gobierno del Organismo Operador Municipal, a través de los procesos de planeación, programación, presupuesto de ingresos y egresos, ejercicio del gasto, patrimonio, inversión, obra pública, sistema de contabilidad, adquisiciones, arrendamientos y servicios, recursos humanos, materiales y financieros; y que estos se realicen bajo principios de legalidad, racionalidad, austeridad, eficacia, eficiencia y transparencia;
+
+II. Vigilar el cumplimiento de los objetivos, programas, proyectos y metas institucionales, de conformidad con el Programa Municipal de Desarrollo;
+
+III. Presentar ante la Junta de Gobierno, durante el mes de enero de cada año, su Programa Anual de Trabajo;
+
+IV. Evaluar de forma anual el manejo de los ingresos y egresos del Organismo Operador Municipal;
+
+V. Vigilar que las peticiones realizadas al Organismo Operador Municipal se resuelvan oportunamente;
+
+VI. Solicitar al Organismo la información que considere necesaria para el desempeño de sus funciones, a través de la persona designada como titular de la Dirección General, respecto de los asuntos de su competencia;
+
+VII. Durante el mes de agosto, presentar por escrito a la o al Síndico Procurador y a la persona titular de la Dirección General, un informe anual de los asuntos de su competencia, emitiendo su opinión sobre los estados financieros y la información programática presupuestal;
+
+VIII. Vigilar que la persona titular de la Dirección General cumpla con los acuerdos y resoluciones de la Junta de Gobierno;
+
+IX. Advertir a los integrantes del Órgano de Gobierno, que los acuerdos que tomen sean en apego a la normatividad aplicable, y en caso de incumplimiento, dar vista a las autoridades competentes;
+
+X. Vigilar que las sesiones del Órgano de Gobierno se realicen conforme a las disposiciones legales aplicables y llevar un control de las mismas, además de dar seguimiento al cumplimiento de los acuerdos que de ellas emanen;
+
+XI. Participar en el ejercicio de sus facultades y atribuciones, en la celebración de sesiones, asesorías técnicas y/o mesas de trabajo, y
+
+XII. Las demás que le confieran otras disposiciones, y que no se contrapongan con las establecidas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 41 Bis.
+
+Cada Organismo Operador Municipal contará con un Órgano Interno de Control que tendrá por objeto la vigilancia del cumplimiento de las disposiciones normativas, promoviendo la productividad, eficiencia y eficacia en el ejercicio de los recursos, a través de la implementación de sistemas de control interno adecuado.
+
+Los Órganos Internos de Control de cada Organismo Operador Municipal deberán contar con la estructura orgánica necesaria para cumplir las funciones de autoridad investigadora, substanciadora y resolutora, en los términos de las leyes en la materia. Por ningún motivo podrán recaer los cargos de autoridad substanciadora y resolutora en la misma persona que la investigadora.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 41 Ter.
+
+La titularidad del Órgano Interno de Control recaerá en una persona cuyo nombramiento deberá realizarse mediante convocatoria pública y abierta, emitida por la Junta de Gobierno.
+
+Las personas aspirantes deberán registrarse personalmente en días y horarios hábiles, conforme al domicilio y el procedimiento que señale la Junta de Gobierno en la convocatoria.
+
+Concluida la etapa de registros, la persona titular de la Dirección General del Organismo y el Comisario emitirán un informe a la Junta de Gobierno, el cual deberá contener el número de aspirantes registrados y determinará las personas que han cumplido con los requisitos establecidos en la convocatoria.
+
+Derivado del informe, la Junta de Gobierno organizará la presentación y defensa de ensayos por parte de las y los aspirantes, y en sesión pública se votará la designación de la persona que habrá de ocupar el cargo de titular del Órgano Interno de Control del Organismo.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 41 Quater.
+
+En la convocatoria a que hace referencia el artículo anterior, se establecerá que las personas aspirantes deberán cubrir los siguientes requisitos:
+
+I. Contar con ciudadanía mexicana;
+
+II. Tener título y cédula de licenciatura en derecho, contaduría pública o carrera afín, expedidos por autoridad legalmente facultada para ello, y tener como mínimo dos años de experiencia en la materia;
+
+III. No ser o haber sido miembro adherente o afiliado a algún partido político durante el año anterior a la fecha de emisión de la convocatoria;
+
+IV. No desempeñar o haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político dentro del año anterior a la designación;
+
+V. No haber sido registrada como candidata, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+VI. No contar con inhabilitación vigente para desempeñar un cargo, empleo o comisión en el servicio, y
+
+VII. Presentar un ensayo en tópicos de trasparencia, rendición de cuentas y combate a la corrupción, que permita analizar su visión respecto a estos temas, el cual será analizado por la persona titular de la Dirección General y la o el Comisario del Organismo Operador Municipal.
+
+Dentro de la convocatoria se establecerá que las personas aspirantes comparecerán ante la Junta de Gobierno para la defensa de su ensayo, quienes en sesión del Organismo Operador Municipal expondrán de manera verbal los motivos por los que desean ser titular del Órgano Interno de Control. La falta o inasistencia injustificada a esta sesión será suficiente para descartar su aspiración sin necesidad de su aprobación por parte de la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 41 Quinquies.
+
+Previo al desahogo del procedimiento establecido en esta Ley, la Junta de Gobierno nombrará a la persona titular de Órgano Interno de Control por mayoría de votos, la cual deberá ser nombrada a más tardar dentro de los cuarenta y cinco días naturales siguientes al inicio de la administración.
+
+La persona designada solo podrá ser removida por mayoría de votos, por causas graves determinadas en la ley, debidamente justificadas y por resolución firme derivada de un procedimiento de responsabilidad administrativa; en cuyo caso, la nueva designación se llevará a cabo de conformidad con el procedimiento establecido en el presente ordenamiento.
+
+La violación al procedimiento de designación de la persona titular de (sic) Órgano Interno de Control estará afectada de nulidad y se considera violación grave a esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2025)</small>
+
+###### Artículo 41 Sexies.
+
+El órgano Interno de Control del Organismo Operador Municipal tendrá las siguientes facultades y obligaciones:
+
+I. Vigilar el cumplimiento de las políticas, programas y demás disposiciones legales y reglamentarias del Organismo;
+
+II. Planear, organizar y coordinar el sistema de control y evaluación;
+
+III. Inspeccionar el ejercicio del gasto público del Organismo Operador Municipal, en congruencia con su presupuesto de Egresos;
+
+IV. Promover la participación de la sociedad, a través de la figura de contraloría social, en los procesos de vigilancia y evaluación de los programas y acciones del Organismo Operador Municipal;
+
+V. Aplicar las normas de control, fiscalización, contabilidad y auditoría, previa consulta con la Auditoría Superior del Estado y la Secretaría de Contraloría de la Administración Pública Estatal;
+
+VI. Emitir, observar y vigilar el cumplimiento del Código de Ética de las y los servidores públicos en el Organismo;
+
+VII. Generar su programa anual de auditoría y ejecutarlo, verificando que el uso y destino de los recursos coincida con el Presupuesto de Egresos, programas anuales y Acuerdos emitidos por la Junta de Gobierno conforme a derecho;
+
+VIII. Ejercer la vigilancia y el control del gasto público, procurando el máximo rendimiento de los recursos y el equilibrio presupuestal;
+
+IX. Supervisar que las acciones relativas a la planeación, programación, presupuestación, contratación, gasto y control de las adquisiciones y arrendamientos de bienes muebles y servicios, de cualquier naturaleza, se realicen en términos de las disposiciones aplicables;
+
+X. Vigilar el cumplimiento de las obligaciones derivado de los convenios o acuerdos que se suscriban con el Estado;
+
+XI. Inspeccionar que las obras que realice el Organismo Operador Municipal se ajusten a las especificaciones contratadas;
+
+XII. Recibir, registrar y resguardar las declaraciones de situación patrimonial y de intereses y, en su caso, la fiscal anual, que deban presentar las y los servidores públicos; y practicar las investigaciones que fueren pertinentes respecto del cumplimiento de esta obligación, de acuerdo con las leyes y reglamentos;
+
+XIII. Tramitar en términos de la Ley de Responsabilidades Administrativas del Estado de Hidalgo, los procedimientos administrativos que resulten con motivo de la falta de presentación de las declaraciones de situación patrimonial, de intereses y constancia de presentación de declaración fiscal que se encuentran obligadas las y los servidores públicos;
+
+XIV. Informar a la persona titular de la Dirección General el resultado de las evaluaciones realizadas y proponer las medidas correctivas que procedan;
+
+XV. Conocer por conducto de las autoridades investigadora, substanciadora y resolutora, según corresponda, de los actos u omisiones que pudieran constituir faltas administrativas cometidas por servidoras y servidores públicos, ex servidores públicos y particulares, para lo cual deberá:
+
+a) Recibir denuncias por presuntas faltas administrativas;
+
+b) Investigar la presunta responsabilidad administrativa de faltas administrativas, de oficio, por denuncia o derivada de auditorías;
+
+c) Determinar la existencia o inexistencia de presunta responsabilidad administrativa;
+
+d) Calificar las faltas administrativas;
+
+e) Iniciar, substanciar y en su caso, resolver los procedimientos de responsabilidad administrativa, e
+
+f) Imponer y ejecutar las sanciones administrativas, cuando así corresponda.
+
+XVI. Interponer las denuncias correspondientes ante el Ministerio Público cuando, de las investigaciones realizadas, se desprenda la comisión de algún delito perseguible de oficio;
+
+XVII. Proponer e instrumentar los mecanismos necesarios en la gestión pública para el desarrollo administrativo en las dependencias y entidades, a fin de que los recursos humanos y materiales, así como los procedimientos técnicos, sean aprovechados y aplicados con criterios de eficacia, descentralización, desconcentración y simplificación administrativa. Al efecto, realizará las investigaciones, estudios y análisis sobre estas materias y aplicará las disposiciones administrativas que resulten necesarias;
+
+XVIII. Verificar que se cumplan las disposiciones legales, normas, políticas y lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obras públicas del Organismo;
+
+XIX. Vigilar que los recursos se apliquen en los términos estipulados en las leyes, reglamentos y convenios respectivos;
+
+XX. Colaborar con la Secretaría de Contraloría del Poder Ejecutivo del Estado, con la Auditoría Superior del Estado y con la Contraloría Interna Municipal, para el cumplimiento de las atribuciones que les competan;
+
+XXI. Participar en la entrega-recepción de las unidades administrativas del Organismo;
+
+XXII. Revisar los estados financieros del área encargada de administrar las finanzas y verificar que los informes sean remitidos en tiempo y forma al Auditor Superior del Estado;
+
+XXIII. Revisar los inventarios de bienes muebles e inmuebles propiedad del Organismo, y
+
+XXIV. Las demás que le atribuyan expresamente las leyes y reglamentos en la materia.
 
 ###### Artículo 42.
 
-El Comisario evaluará el desempeño global y por áreas específicas del Organismo, con apego a las disposiciones legales vigentes, el cumplimiento de sus metas y programas, así como el manejo de sus ingresos y egresos, pudiendo solicitar y estando el Organismo obligado a proporcionar la información que requiera para la adecuada realización de sus funciones.
+(DEROGADO, P.O. 11 DE ABRIL DE 2025)
 
 ###### Artículo 43.
 
@@ -2536,3 +2682,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Poder Legislativo Estatal realizará las adecuaciones necesarias a las leyes locales de la materia, a fin de favorecer una exacta aplicación de la norma.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 221 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO, EN MATERIA DE ÓRGANOS INTERNOS DE CONTROL EN LOS ORGANISMOS OPERADORES MUNICIPALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Para efecto de la emisión de las convocatorias, los organismos operadores municipales de la entidad contarán con un término de noventa días naturales contados a partir de la publicación del presente Decreto.
