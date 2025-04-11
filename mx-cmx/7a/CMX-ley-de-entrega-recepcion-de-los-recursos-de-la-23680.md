@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-entrega-recepcion-de-los-recursos-de-la-23680"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-13"
-last_updated: "2018-02-22"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23680&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,374 +20,392 @@ issue_date: "2002-02-28"
 ---
 # LEY DE ENTREGA RECEPCION DE LOS RECURSOS DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE ENTREGA-RECEPCION DE LOS RECURSOS DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL --
 
-LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE FEBRERO DE 2018.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 15 DE ABRIL DE 2011.
 
-Ley publicada en la Gaceta Oficial del Distrito Federal el miércoles 13 de marzo de 2002.
+Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 19 de agosto de 2004.
 
-ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL,
+EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO, EN EJERCICIO DE LA ATRIBUCION QUE LE CONFIERE EL ARTICULO 13 FRACCION V DEL DECRETO DEL EJECUTIVO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO, EN SESION ORDINARIA CELEBRADA EL 17 DE MARZO DEL DOS MIL CUATRO; Y
 
-II LEGISLATURA
+C O N S I D E R A N D O
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
-(Al margen superior izquierdo un escudo que dice. CIUDAD DE MÉXICO.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-ANDRÉS MANUEL LÓPEZ OBRADOR, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
-
-Que la Honorable Asamblea Legislativa del Distrito Federal, II Legislatura, se ha servido dirigirme el siguiente:
-
-DECRETO
-
-(Al margen superior izquierdo un escudo nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, II LEGISLATURA)
-
-LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL,
-
-II LEGISLATURA
-
-D E C R E T A:
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE FEBRERO DE 2018)</small>
-
-LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO.
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-La presente Ley es de orden público y establece las disposiciones conforme a los cuales los servidores públicos de la Administración Pública de la Ciudad de México, al separarse de su empleo, cargo o comisión, deberán rendir por escrito el estado de los asuntos de su competencia y entregar los recursos humanos, materiales y financieros, que les hayan sido asignados para el ejercicio de sus funciones.
-
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Universidad Tecnológica del Sur del Estado de México.
 
 ###### Artículo 2.
 
-Para los efectos de la presente Ley, se entenderá por:
+Para efectos del presente Reglamento, se entiende por:
 
-I. Contraloría General.- La Contraloría General de la Ciudad de México.
+I. Decreto, al Decreto del Ejecutivo por el que se crea el organismo público descentralizado de carácter estatal denominado Universidad Tecnológica del Sur del Estado de México;
 
-II. Servidor Público.- Toda persona que desempeñe un empleo, cargo o comisión en la Administración Pública de la Ciudad de México.
+II. Universidad u Organismo, a la Universidad Tecnológica del Sur del Estado de México;
 
-III. Dependencias.- Las Secretarías, la Fiscalía General de Justicia de la Ciudad de México, la Oficialía Mayor, la Secretaría de la Contraloría General y la Consejería Jurídica y de Servicios Legales.
+III. Consejo, al Consejo Directivo de la Universidad Tecnológica del Sur del Estado de México; y
 
-IV. Entidades.- Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos.
-
-V. Entrega - Recepción.- El acto de entrega de los recursos humanos, materiales y financieros de un servidor público a su sustituto, el cual puede ser:
-
-a) Intermedia.- Aquélla cuya causa no es la conclusión de un periodo de gestión en la Administración Pública de la Ciudad de México.
-
-b) Final.- Aquélla cuyo motivo es la conclusión de un periodo de gestión en la Administración Pública de la Ciudad de México.
-
-VI. Órganos Político Administrativos.- Las Alcaldías de la Ciudad de México en las demarcaciones territoriales.
-
-VII. Ente.- Las entidades, dependencias y órganos político administrativos de la Administración Pública Local.
+IV. Rector, al Rector de la Universidad Tecnológica del Sur del Estado de México.
 
 ###### Artículo 3.
 
-Los servidores públicos obligados por la presente Ley son, el Jefe de Gobierno de la Ciudad de México, los titulares de las Dependencias, Unidades Administrativas, Órganos Político Administrativos, Órganos Desconcentrados y Entidades; así como sus subordinados con nivel de subsecretario, Director General, Director de Área, Subdirector, Jefe de Unidad Departamental y los servidores públicos que ostenten un empleo, cargo o comisión, con niveles homólogos o equivalentes a los referidos.
+La Universidad es un organismo público descentralizado de carácter estatal, con personalidad jurídica y patrimonio propios, que tiene a su cargo el despacho de los asuntos que le confiere el Decreto y otras disposiciones legales.
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 4.
 
-La entrega-recepción de los recursos de las Dependencias, Entidades u Órganos Político Administrativos del Gobierno de la Ciudad de México a quienes sea aplicable en términos del artículo 3° de esta Ley, deberá efectuarse por escrito, mediante acta administrativa que describa el estado que guarda la Dependencia, Entidad u Órgano Político Administrativo correspondiente y que cumpla con los requisitos establecidos en la presente Ley.
-
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+La Universidad se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, así como por lo que establezcan otros ordenamientos legales.
 
 ###### Artículo 5.
 
-En la entrega-recepción final intervendrán:
-
-I. El servidor público titular saliente;
-
-II. El servidor público titular entrante;
-
-III. El representante de la Secretaría de la Contraloría General de la Ciudad de México o la Contraloría Interna, según sea el caso.
-
-IV. A solicitud expresa, representantes de organismos de la Sociedad Civil o ciudadanos habitantes de la demarcación territorial que corresponde a la jurisdicción del gobierno que participa en el acto de entrega-recepción
+La Universidad conducirá sus actividades en forma programada, con base en lo señalado por la Ley de Planeación del Estado de México y Municipios y su reglamento, el Plan de Desarrollo del Estado de México y los programas a su cargo.
 
 ###### Artículo 6.
 
-Los servidores públicos obligados a realizar la entrega de la entidad, dependencia u órgano político administrativos, deberán anexar mediante acta administrativa, un informe de su gestión que cumpla con la normatividad y procedimientos que prescriba la Contraloría General o la contraloría interna respectiva, según sea el caso.
+La dirección y administración de la Universidad corresponden a:
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+I. El Consejo Directivo; y
 
-### CAPITULO SEGUNDO. SUJETOS Y ÓRGANOS
+II. El Rector.
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+### CAPITULO II. DEL CONSEJO DIRECTIVO
 
 ###### Artículo 7.
 
-Los servidores públicos que en los términos de esta Ley, se encuentren obligados a realizar la entrega-recepción y que al término de su ejercicio sean ratificados en su cargo, deberán efectuar el proceso de entrega-recepción ante el órgano de control interno que corresponda, en un plazo que no exceda los quince días hábiles o conforme lo establezca el mismo órgano de control interno.
+El Consejo es la máxima autoridad de la Universidad, sus determinaciones serán obligatorias para el Rector y las unidades administrativas que integran a este Organismo.
 
 ###### Artículo 8.
 
-Los órganos de control interno de cada uno de los órganos que están sujetos a esta ley deberán emitir un formato general para el acto de entrega-recepción en la que contenga los lineamientos fundamentales a que se contrae esta ley.
+El Consejo se integrará de acuerdo con lo establecido en el Decreto y funcionará de conformidad con las disposiciones aplicables.
 
-###### Articulo 9.
+###### Artículo 9.
 
-Las titulares de las dependencias, entidades y órganos político administrativos, deberán comunicar a sus órganos de control interno, los nombres, atribuciones y responsabilidades de los servidores públicos en quienes recaigan las obligaciones establecidas por la presente ley, dentro de los quince días hábiles siguientes a la recepción de la oficina.
+El Consejo tendrá las atribuciones establecidas en el Decreto y en otras disposiciones aplicables.
 
-### CAPÍTULO TERCERO. DEL PROCESO DE ENTREGA RECEPCIÓN
+### CAPITULO III. DE LAS ATRIBUCIONES DEL RECTOR
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, G.G. 15 DE ABRIL DE 2011)</small>
 
 ###### Artículo 10.
 
-En caso de que el servidor público entrante se percate de irregularidades en los documentos y recursos recibidos, dentro de un término de máximo 40 días hábiles, contados a partir de la fecha de entrega-recepción de la oficina, deberá hacerlas del conocimiento del Órgano de Control Interno de la Dependencia, Entidad u Órgano Político Administrativo de que se trate, a fin de que sea requerido el servidor público saliente y proceda a su aclaración.
-
-El Órgano de Control Interno de que se trate, una vez recibido el escrito que señale las probables irregularidades detectadas en la verificación del acta de entrega-recepción, citará dentro de los quince días hábiles a que se refiere el párrafo anterior, a los servidores públicos entrante (sic) y salientes, a efecto de solicitarles las aclaraciones pertinentes y se proporcione la documentación que, en su caso, resultare faltante, levantando un acta administrativa en presencia del representante del órgano de control, dejando asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas; de considerarse por parte del servidor público entrante que no se aclaran dichas inconsistencias, el órgano de control procederá a realizar las investigaciones a que haya lugar y de resultar que se constituye probable responsabilidad administrativa, se procederá conforme al régimen de responsabilidades de los servidores públicos. En caso de responsabilidad penal, se procederá conforme a la ley lo indique.
+Al frente de la Universidad habrá un Rector, quien será designado y removido por el Gobernador del Estado, a propuesta del Secretario de Educación y durará en su cargo cuatro años, pudiendo ser ratificado por un período más.
 
 ###### Artículo 11.
 
-Cuando el servidor público saliente no proceda a la entrega en los términos de esta Ley del informe sobre los asuntos y recursos a su cargo, será requerido por el órgano de control interno correspondiente, para que en un lapso de quince días hábiles contados a partir de la fecha de su separación, cumpla con esta obligación.
+Corresponden al Rector, además de las señaladas en el Decreto, las atribuciones siguientes:
 
-Si el servidor público saliente dejare de cumplir esta obligación, será responsable en los términos de la Ley Federal de Responsabilidad de los Servidores Públicos.
+I. Proponer al Consejo la creación de nuevas carreras, acordes con los objetivos de la Universidad y con los requerimientos sociales;
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+II. Someter a la autorización del Consejo, propuestas de mejora a la organización y al funcionamiento de la Universidad;
+
+III. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+IV. Expedir los diplomas, constancias, certificados de estudio, títulos profesionales y grados académicos, así como validar las actas de examen profesional que otorgue la Universidad;
+
+V. Dirigir la planeación y evaluación de las actividades de la Universidad, así como los servicios escolares;
+
+VI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como los casos no previstos en el mismo;
+
+VII. Vigilar la aplicación de las políticas para el mejoramiento académico y administrativo de la Universidad, así como las relativas al desarrollo tecnológico, difusión, cultura y extensión;
+
+VIII. Otorgar las licencias, permisos y autorizaciones que le correspondan;
+
+IX. Promover que las actividades de las unidades administrativas de la Universidad se realicen de manera coordinada; y
+
+X. Las demás que le señalen otras disposiciones legales.
 
 ###### Artículo 12.
 
-Con el propósito de dar cumplimiento al contenido de este ordenamiento y hacer posible la entrega oportuna y debida de los asuntos y recursos a su cargo, los servidores públicos sujetos a esta Ley deberán mantener permanentemente actualizados sus registros. Controles y demás documentación relativa a su gestión.
+Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
 
-Asimismo, por un periodo de cuarenta días hábiles deberán de conservar su domicilio registrado y sus números telefónicos disponibles para ser localizados en caso de dudas o aclaraciones respecto a sus resultados del acto de entrega-recepción.
+I. Dirección de la Carrera de Mecatrónica;
+
+II. Dirección de la Carrera de Administración y Evaluación de Proyectos;
+
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2011)</small>
+
+III. Dirección de la Carrera de Contaduría;
+
+IV. Dirección de la Carrera de Tecnología de Alimentos;
+
+> <small>(REFORMADA, G.G. 15 DE ABRIL DE 2011)</small>
+
+V. Dirección de la Carrera de Tecnologías de la Información y Comunicación Área Sistemas Informáticos;
+
+VI. Dirección de Vinculación;
+
+VII. Dirección de Administración y Finanzas; y (sic)
+
+VIII. Abogado General;
+
+> <small>(ADICIONADA, G.G. 15 DE ABRIL DE 2011)</small>
+
+IX. Contraloría Interna.
+
+La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el manual general de organización del Organismo; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable y con el presupuesto de egresos respectivo.
+
+### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LOS DIRECTORES
 
 ###### Artículo 13.
 
-La entrega de asuntos inconclusos y de recursos encomendados al servidor público saliente no lo excluye de responsabilidad administrativa o de cualquier otra índole, por actos u omisiones que con motivo de sus (sic) empleo, cargo o comisión, constituyan inobservancia a los diversos ordenamientos jurídicos
-
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+Al frente de cada Dirección habrá un Director, quién será designado y removido por el Consejo a propuesta del Rector. Para el cumplimiento de sus atribuciones, los directores se auxiliarán de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la organización interna aprobada a la Universidad y con el presupuesto de egresos respectivo.
 
 ###### Artículo 14.
 
-El servidor público saliente deberá preparar la entrega de los asuntos y recursos, mediante acta administrativa, la cual incluirá:
+Corresponden a los Directores las atribuciones genéricas siguientes:
 
-I. El informe del estado de los asuntos a su cargo;
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la Dirección a su cargo;
 
-II. Informe exacto sobre la situación de los recursos financieros y humanos, y sobre los bienes muebles e inmuebles a su cargo;
+II. Formular y proponer al Rector los anteproyectos de programa anual de actividades y de presupuesto de la Dirección a su cargo;
 
-III. Informe sobre los presupuestos, programas, estudios y proyectos;
+III. Acordar con el Rector la atención de los asuntos de la Dirección a su cargo que requieran de su intervención;
 
-IV. Obras Públicas en proceso;
+IV. Formular los estudios, dictámenes, opiniones e informes que les sean requeridos por el Rector;
 
-V. Manuales de organización y de procedimientos;
+V. Proponer al Rector modificaciones jurídicas y administrativas que tiendan a mejorar la organización y el funcionamiento de la Dirección a su cargo;
 
-VI. Situación administrativa, desarrollo, cumplimiento o en su caso desviación de programas;
+VI. Vigilar el cumplimiento de las disposiciones aplicables a la Dirección a su cargo;
 
-VII. La demás información y documentación relativa que señale el manual de normatividad, y
+VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia;
 
-VIII. El informe de los asuntos en trámite o pendientes.
+VIII. Coordinar sus actividades con los titulares de las demás unidades administrativas de la Universidad, para el mejor desempeño de sus funciones;
 
-IX. Los datos de acceso en general y contraseñas a los portales electrónicos, suscripciones o servicios a través de internet de los cuales la institución, órgano o dependencia forme parte.
+IX. Vigilar que los servidores públicos adscritos a la Dirección a su cargo cumplan con las funciones encomendadas;
+
+X. Proponer al Rector el ingreso, licencia, promoción, remoción y despido del personal de la Dirección a su cargo;
+
+XI. Participar, en el ámbito de su competencia, en la elaboración, actualización y aplicación de los reglamentos, manuales administrativos y cualquier otra disposición que regule la organización y el funcionamiento de la Universidad;
+
+XII. Desempeñar las comisiones que les encomiende el Rector y mantenerlo informado del desarrollo de las mismas;
+
+XIII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten;
+
+XIV. Proporcionar, previo acuerdo del Rector, la información, datos o el apoyo técnico que les sea solicitado por las dependencias u otros organismos auxiliares; y
+
+XV. Las demás que les señalen otras disposiciones legales y aquellas que les encomiende el Rector.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 15 DE ABRIL DE 2011)</small>
+
+### CAPITULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES, DEL ABOGADO GENERAL Y DE LA CONTRALORIA INTERNA
 
 ###### Artículo 15.
 
-El informe escrito sobre los asuntos a cargo del servidor público saliente deberá contener una descripción de la situación de su oficina a la fecha de inicio de su gestión; de las actividades emprendidas y resultados obtenidos durante la misma, así como de las actividades que no se han concluido y por último la situación de la oficina en la fecha de retiro o término de su gestión.
+Corresponde a las Direcciones de Carrera:
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+I. Propiciar el desarrollo tecnológico de la carrera a su cargo que permita el avance del conocimiento y fortalezca la enseñanza tecnológica;
+
+II. Participar con las instancias competentes en el diseño y modificación de los planes y programas de estudio de la carrera a su cargo;
+
+III. Vigilar y evaluar los procesos de enseñanza aprendizaje de la carrera a su cargo;
+
+IV. Proponer técnicas de enseñanza y métodos de evaluación para eficientar las actividades académicas de la carrera a su cargo, y vigilar su cumplimiento;
+
+V. Proponer al Rector modificaciones al contenido temático de los programas académicos y de investigación de la carrera a su cargo y, de ser procedentes, aplicarlas;
+
+VI. Supervisar la aplicación de los lineamientos académicos en materia de prácticas y estadías profesionales;
+
+VII. Participar en la evaluación curricular de la carrera a su cargo;
+
+VIII. Opinar, en el ámbito de su competencia, sobre la revalidación y equivalencias de los estudios realizados en otras instituciones educativas;
+
+IX. Participar en las acciones de vinculación de la carrera a su cargo con los sectores público, social y privado;
+
+X. Proponer criterios para la asignación de becas a los estudiantes de la carrera a su cargo;
+
+XI. Fomentar la titulación de los alumnos egresados de la carrera a su cargo;
+
+XII. Proponer al Rector el perfil profesional del personal académico que requiera contratarse en la carrera a su cargo;
+
+XIII. Proponer al Rector la planta docente de la carrera a su cargo;
+
+XIV. Impulsar la formación y superación del personal docente de la carrera a su cargo;
+
+XV. Evaluar el desempeño del personal docente adscrito a la carrera a su cargo, así como aplicar exámenes de oposición para ocupar las plazas vacantes;
+
+XVI. Administrar y mantener los talleres y los laboratorios que le corresponden, en condiciones adecuadas para el desarrollo de las actividades y prácticas inherentes a la carrera a su cargo; y
+
+XVII. Las demás que les señalen otras disposiciones legales y las que les encomiende el Rector.
 
 ###### Artículo 16.
 
-Una vez que haya sido reconocido legalmente el servidor público designado, deberá designar una Comisión integrada por cuatro personas para que en coordinación con el servidor público saliente y dos personas igualmente designadas, puedan iniciar la transferencia de los documentos e informes que contengan los estados de los asuntos relacionados con los recursos financieros, humanos y materiales.
+Corresponde a la Dirección de Vinculación:
 
-La Comisión receptora deberá conocer la situación de la administración y desarrollo de los programas, proyectos y en su caso obras públicas en proceso, de tal forma que al momento de relevarse la titularidad de los cargos pueda continuar la actividad gubernamental.
+I. Proponer mecanismos de vinculación entre la Universidad y los sectores público, social y privado para el mejor cumplimiento de los programas académicos y el beneficio comunitario;
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+II. Proponer y ejecutar los programas culturales y deportivos de la Universidad;
+
+III. Difundir y operar entre la comunidad universitaria los programas de ciencia y cultura;
+
+IV. Promover proyectos especiales que requiera la Universidad para el cumplimiento de su objeto;
+
+V. Impulsar la colocación de los egresados de la Universidad en el mercado laboral;
+
+VI. Integrar, ejecutar y evaluar los programas de vinculación de la Universidad;
+
+VII. Colaborar con el Patronato de la Universidad en la gestoría para obtener recursos financieros;
+
+VIII. Organizar, en coordinación con las direcciones de carrera, conferencias, seminarios, talleres y cualquier otra actividad que contribuya a la formación del educando;
+
+IX. Proponer al Rector la celebración de convenios de vinculación con el sector público, social y privado;
+
+X. Coordinar con los sectores público, social y privado el desarrollo de prácticas y estadías de los alumnos; y
+
+XI. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Rector.
 
 ###### Artículo 17.
 
-El proceso de entrega recepción deberá principiar desde que la autoridad entrante del órgano de la administración pública respectiva de la Ciudad de México haya sido legalmente reconocida.
+Corresponde a la Dirección de Administración y Finanzas:
+
+I. Administrar y custodiar los fondos y valores provenientes de los recursos ordinarios y extraordinarios con los que cuente la Universidad, en términos de la normatividad federal y estatal aplicable;
+
+II. Aplicar las políticas, normas, sistemas, registros y procedimientos para la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de la Universidad;
+
+III. Elaborar y someter a la consideración del Rector el anteproyecto de presupuesto anual de ingresos y de egresos de la Universidad, sujetándose a la normatividad en la materia;
+
+IV. Elaborar con la participación que corresponda a las demás unidades administrativas de la universidad, los proyectos de manuales administrativos para someterlos a la consideración del Rector;
+
+V. Procesar la información contable y elaborar los estados financieros del organismo;
+
+VI. Elaborar y ejecutar los programas anuales de adquisiciones, conservación, mantenimiento y reparación de bienes muebles e inmuebles de la Universidad;
+
+VII. Proponer y ejecutar acciones para la modernización administrativa de la Universidad y vigilar su cumplimiento;
+
+VIII. Cumplir con los ordenamientos legales en materia de adquisiciones, conservación, mantenimiento y reparación de bienes muebles e inmuebles;
+
+IX. Llevar el inventario de los bienes muebles e inmuebles de la Universidad;
+
+X. Presidir el comité de adquisiciones, arrendamientos de bienes y servicios, con el propósito de que las operaciones respectivas se realicen de acuerdo con la normatividad aplicable;
+
+XI. Proveer los bienes, materiales y servicios para el desarrollo de las actividades académicas y administrativas de la Universidad;
+
+XII. Coordinar y evaluar la prestación de los servicios médicos de la Universidad;
+
+XIII. Elaborar y proponer al Rector programas para el desarrollo, capacitación y control del personal administrativo de la Universidad; y
+
+XIV. Las demás que le señalen otras disposiciones legales y las que le encomiende el Rector.
 
 ###### Artículo 18.
 
-Para llevar a cabo la entrega-recepción de los recursos públicos de la Administración Pública del Distrito Federal los titulares salientes deberán llevar a cabo un acto formal, por el cual entreguen el informe a los titulares entrantes de su gestión realizada y el acta administrativa en el que conste el estado que guarda la administración, contenidas en un sólo documento.
+Corresponde al Abogado General:
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. ADICIONADO], G.O. 22 DE FEBRERO DE 2018)</small>
+I. Representar a la Universidad en los asuntos judiciales, con las facultades que al efecto le otorgue el Rector;
 
-Este deberá ser publicado para efecto de análisis de terceros.
+II. Asesorar jurídicamente al Rector en los asuntos competencia de la Universidad;
 
-Los titulares salientes de los entes deberán preparar la información relativa al acta administrativa en forma específica, anexando pormenorizadamente la información y documentación relativa al estado que guarda la dependencia, entidades u órganos político administrativos correspondiente. Esta información formará parte de la entrega-recepción de los recursos públicos del Estado y deberá incluir en lo que sea aplicable:
+III. Formular y revisar los proyectos de reglamentos, acuerdos, convenios, contratos y demás ordenamientos jurídicos que pretenda expedir o celebrar la Universidad;
 
-I.- Estructura Orgánica;
+IV. Otorgar asesoría jurídica que requiera el personal de la Universidad para el desarrollo de sus funciones;
 
-II.- Marco Jurídico de actuación, especificando si se trata de: Ley, Reglamento, Decreto o Acuerdo que regule su estructura y funcionamiento; nombre o título del ordenamiento jurídico que complemente su ámbito de actuación; fecha de expedición; publicación, número de la gaceta oficial y fecha; en caso de existir, incluir, manual de organización y procedimientos, de trámite y servicios al público, o de cualquier otro tipo.
+V. Compilar y divulgar las leyes, decretos, reglamentos, acuerdos, convenios, contratos, circulares y demás disposiciones en las que se sustenta la organización y el funcionamiento de la Universidad;
 
-III.- Recursos Humanos:
+VI. Verificar la aplicación de los instrumentos y normas que regulan las relaciones de trabajo en la Universidad;
 
-A). Plantilla actualizada del personal, con adscripción, nombre, categoría, señalando si el trabajador es de base, sindical, extraordinario, eventual o se encuentra sujeto a contrato por tiempo fijo o por obra determinada y detalle de su percepción mensual, indicando sueldo base.
+VII. Informar al Rector de las actividades que realice en el cumplimiento de sus funciones;
 
-B). Relación de personal sujeto a pago de honorarios, especificando el nombre de la persona que presta sus servicios, importe mensual de honorarios y la descripción de actividades.
+VIII. Proponer disposiciones normativas complementarias que coadyuven a eficientar el funcionamiento de la Universidad; y
 
-C). Relación del personal con licencia, permiso o comisión, señalando el nombre; el área a la que está adscrito el servidor público, el área a la que está comisionado y el período de ausencia.
+IX. Las demás que le señalen otras disposiciones legales y aquellas que le encomiende el Rector.
 
-IV.- Recursos materiales:
+> <small>(ADICIONADO, G.G. 15 DE ABRIL DE 2011)</small>
 
-A) Relación de la unidad administrativa resguardante de mobiliario y equipo de oficina, así como de los artículos de decoración y publicaciones, con una información clara del número de inventario, descripción del artículo, marca, modelo, serie, ubicación, especificaciones y el nombre del servidor público a quien se le tiene asignado el bien y la referencia de resguardo.
+Artículo 18 bis.- Corresponde a la Contraloría Interna:
 
-B) Relación de equipo de transporte y maquinaria, por unidad administrativa responsable, con información de tipo, marca, modelo, color, placas, número de control, serie, así como el nombre y cargo del servidor público a quien se le tiene asignado y la referencia del resguardo.
+I. Recibir, tramitar y resolver las quejas y denuncias que se interpongan en contra de los servidores públicos de la Universidad.
 
-C) Relación de equipo de comunicación por unidad administrativa responsable, conteniendo número de inventario, tipo de aparato, marca, serie, nombre y cargo del servidor público resguardante.
+II. Recibir y tramitar las sugerencias y reconocimientos ciudadanos respecto a los servicios que ofrece la Universidad y al desempeño de sus servidores públicos.
 
-D) Relación por unidad administrativa responsable, describiendo el número y nombre del artículo, unidad de medida y existencias.
+III. Elaborar el Programa Anual de Control y Evaluación, conforme a las políticas, normas, lineamientos, procedimientos y demás disposiciones que al efecto se establezcan y someterlo a la consideración de la Dirección General de Control y Evaluación que le corresponda, así como llevar a cabo su ejecución y cumplimiento.
 
-E) Relación de los bienes inmuebles, señalando los datos del Registro Público de la Propiedad, descripción del bien, tipo de predio, Delegación ubicación y el uso actual que se le da al bien inmueble.
+IV. Iniciar, substanciar y resolver los procedimientos administrativos, de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-F) Relación de inventario de almacén por unidad administrativa responsable, describiendo el número y nombre del artículo, unidad de medida y existencia.
+V. Acordar la suspensión temporal de servidores públicos de la Universidad durante la substanciación del procedimiento administrativo, de acuerdo con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, dando aviso a la autoridad correspondiente.
 
-V.- Recursos Financieros:
+VI. Fincar pliegos preventivos de responsabilidad y calificar la responsabilidad administrativa resarcitoria, pudiendo confirmarla, modificarla o cancelarla, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
-A).- Estado financieros en los que se anexe los libros y registros de contabilidad, balance general, estado de resultado, estado de origen, y aplicación de fondos.
+VII. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones aplicables, sin menoscabo de lo dispuesto por el Reglamento Interior de la Secretaría de la Contraloría.
 
-B).- La relación de cuentas bancarias que en su caso se manejen, acompañando su último estado de cuenta expedido con la institución bancaria correspondiente. Relación de cheques inversiones, valores, títulos o cualquier otro contrato de crédito o similares a éstas, que contenga el número de cuenta, nombre de la institución bancaria, fecha de vencimiento o de presentación de estado de cuenta, saldo, firma registrada y los estados de cuenta correspondientes expedidos por la institución de que se trate, debidamente conciliados.
+VIII. Realizar las acciones de control y evaluación, a fin de constatar que la Universidad observe las disposiciones aplicables en el ejercicio de los recursos federales.
 
-C).- La relación de cheques pendientes de entregar que contenga: fecha, el nombre de la institución bancaria, cuenta de cheques, número de cheque, el importe de los cheques pendientes de entregar, el nombre del beneficiario y el concepto del gasto por el cual fue expedido el cheque.
+IX. Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones de la Universidad.
 
-D).- Relación de ingresos pendientes de depósito que contenga: Folio de ingresos, fecha y monto del mismo.
+X. Proponer y acordar con la unidad administrativa auditada, acciones de mejora, derivadas de sus funciones de control y evaluación, tendentes a fortalecer el control interno y la gestión de la Universidad, así como vigilar su implementación.
 
-E).- Relación de documentos y cuentas por cobrar que contenga: número de documento, nombre del deudor, saldo, vencimiento y el concepto de la deuda.
+XI. Realizar el seguimiento a la solventación de las observaciones que formule con motivo del ejercicio de sus funciones de control y evaluación, así como de las realizadas por auditores externos y, en su caso, por otras instancias de fiscalización.
 
-F).- Relación de pasivos a corto, mediano y largo plazo que especifique: número de documento, nombre del acreedor, saldo, vencimiento y concepto de la deuda.
+XII. Vigilar que la Universidad cumpla las disposiciones jurídicas y administrativas aplicables en sus diferentes ámbitos.
 
-G).- Relación de pasivos contingentes, describiendo el número de documento, entidad o dependencia avalada, saldo, fecha de vencimiento y el concepto avalado.
+XIII. Elaborar diagnósticos de la Universidad, con base en las acciones de control y evaluación que realice.
 
-H).- Presupuesto ejercido, anotándose el ejercicio que corresponda, el número de cuenta, subcuenta, importe parcial e importe total.
+XIV. Participar en los procesos de entrega y recepción de las unidades administrativas de la Universidad, verificando su apego a la normatividad correspondiente.
 
-VI. - Obras Públicas:
+XV. Promover el fortalecimiento de mecanismos de control de la gestión de la Universidad e impulsar el autocontrol y la autoevaluación en el cumplimiento de sus planes, programas, objetivos y metas, así como la mejora continua de los procesos y servicios públicos.
 
-A).- Inventario de obras, por tipo de inversión que contenga: programa y nombre de la obra, ubicación de cada obra, especificando localidad y metas, inversión autorizada, ejercida y por ejercer y el porcentaje de avance físico y financiero y modalidad de adjudicación.
+XVI. Ejercer, cuando así se le encomiende, las funciones de Comisario en la Universidad.
 
-B).- Relación de anticipos de obras pendientes de amortizar que contenga: número de contrato, nombre del contratista, costo total, importe de anticipos otorgados, amortizados y el saldo.
+XVII. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delitos e instar al área facultada de la Universidad para formular, cuando así se requiera, las querellas a que hubiere lugar.
 
-C).- Relación de inventario de desarrollo social por tipo de inversión que contenga: programa/proyecto y nombre del mismo, así como su ubicación, especificando: localidad, metas, unidad de medida correspondiente, inversión autorizada, ejercida y por ejercer y la condición en que se encuentra.
+XVIII. Realizar ante las diversas instancias jurisdiccionales, la defensa jurídica de las resoluciones que emita.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE FEBRERO DE 2018)</small>
+XIX. Verificar el adecuado ejercicio del presupuesto de la Universidad, atendiendo los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable.
 
-VII. Derechos y obligaciones:
+XX. Expedir constancias o certificar copias de documentos existentes en sus archivos.
 
-A) Relación de contratos y convenios. Lo anterior deberá contener: el número de contrato o convenio, fecha, el nombre de la persona física o moral con quien se celebra el contrato y descripción del contrato o convenio.
+XXI. Proponer al Rector la aplicación de normas complementarias en materia de control.
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+XXII. Intervenir en los procesos de adquisiciones de bienes, arrendamientos, servicios y obra pública, cuando la normatividad así lo determine.
 
-B) Relación de acuerdos de coordinación y anexos de ejecución derivados de convenios firmados, especificando: nombre del documento, dependencias participantes, el total de los recursos comprometidos en el acuerdo y la inversión convenida, ya sea federal, local o en las demarcaciones territoriales.
+XXIII. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
 
-D) (sic) Relación de contratos de fideicomiso, con la información clara del número de fideicomiso, nombre del programa, fideicomitente, fiduciario, fecha del contrato, objetivo, patrimonio inicial y situación actual.
+XXIV. Las demás que le confieren otras disposiciones legales y las que le encomiende la Secretaría de la Contraloría.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE FEBRERO DE 2018)</small>
-
-VIII.- Relación de archivos:
-
-A) Relación de archivos por unidad administrativa, especificando sus títulos, expedientes que contiene, la ubicación y el número correspondiente de inventario del archivo; si el archivo se capturó en computadora, deberá especificarse el formato, el tamaño y el nombre del archivo informático donde se haya instalado.
-
-B) Relación de libros del registro civil y sus duplicados, especificando claramente. La localidad, año, número de libros de nacimiento, matrimonio, defunción, reconocimiento de hijos, adopción, divorcio, registros de ejecutorias que declaren la ausencia, presunción de muerte, tutela, pérdida o limitación de la capacidad legal para administrar bienes, y de las informaciones testimoniales para acreditar hechos relativos al nacimiento, así como el total de libros.
-
-C) Relación de archivos por secciones: Registro Público de la Propiedad y del Comercio, deberá informar: secciones, período, legajos, número de inscripciones y ubicación.
-
-D) Relación de Archivo General de Notarías. La información deberá contener: número de notaría, titular, número de volúmenes y período.
-
-E) Relación de protocolos en poder de notarios. Se deberá informar: número de notaría, titular, número de volúmenes, así como la fecha de autorización del primer y último libro.
-
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
-
-F) Relación de archivos históricos de la Ciudad de México que contenga aquellos documentos que representen un valor e integren la memoria colectiva de la Ciudad de México.
-
-IX.- Otros:
-
-A) Relación de asuntos pendientes de resolver, con la descripción de: número de expediente, asunto, fecha de inicio, situación actual del mismo y fecha probable de terminación.
-
-B) Relación de formas oficiales, con la descripción clara de: nombre de la forma, numeración, cantidad, precio unitario, total y responsable.
-
-C) Relación de procesos, especificando tipo de juicio, autoridad que conoce del procedimiento y el estado procesal en que se encuentra el mismo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE FEBRERO DE 2018)</small>
-
-D) Relación de toda clase de suscripciones, identidades o accesos a portales electrónicos por medio de usuarios y contraseñas.
+### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 19.
 
-El servidor público entrante y saliente, deberá firmar por cuadruplicado el acta de entrega-recepción, a más tardar dentro de los quince días hábiles siguientes a la fecha en que surta efectos la renuncia del servidor público saliente, ante el representante del órgano de control respectivo y con la asistencia de dos testigos que podrán ser nombrados por ambos servidores públicos y, en su caso, cuando por la importancia del empleo, cargo o comisión lo amerite, se designaran personas para proporcionar información y documentación y, para verificar el contenido de la misma.
+El Rector será suplido en sus ausencias menores de 15 días, por el servidor público de la jerarquía inmediata inferior que aquél designe. En las mayores de 15 días, por quien designe el Presidente del Consejo.
 
-Los anexos del acta de entrega-recepción son responsabilidad de los servidores públicos entrante y saliente, y en su caso, de las personas para proporcionar información y documentación y, para verificar el contenido de la misma, por lo que deberán ser revisados y firmados previo a la formalización del acta de entrega-recepción. El acta y sus anexos deberán ser distribuidos de la siguiente forma:
+> <small>(ADICIONADO, G.G. 15 DE ABRIL DE 2011)</small>
 
-a) Un ejemplar para el servidor público entrante.
-
-b) Un ejemplar para le servidor público saliente.
-
-c) Un ejemplar para el archivo del área que corresponda, y;
-
-d) Un ejemplar para el representante del órgano de control respectivo.
+En las ausencias definitivas del Rector, el Consejo Directivo nombrará al servidor público que ocupará provisionalmente el cargo, hasta en tanto el Gobernador del Estado designa al nuevo titular de la Universidad.
 
 ###### Artículo 20.
 
-La verificación del contenido del acta correspondiente deberá realizarse por el servidor público entrante en un término de quince días hábiles contados a partir de la fecha de entrega-recepción de la dependencia, entidad u órgano político administrativo del gobierno del Distrito Federal. Durante dicho lapso el servidor público saliente podrá ser requerido para que haga las aclaraciones y proporcione la información adicional que se le solicite.
+Los Directores y Jefes de Departamento serán suplidos en sus ausencias menores de 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe su superior inmediato.
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+T R A N S I T O R I O S
 
-###### Artículo 21.
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
 
-La Secretaría de la Contraloría General de la Ciudad de México o la Contraloría Interna, vigilarán, de conformidad con su competencia, el cumplimiento de las disposiciones y procedimientos a que se refiere esta Ley.
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-###### Artículo 22.
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Tecnológica del Sur del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno", el 2 de julio de 1999.
 
-Los servidores públicos deberán proporcionar la información y documentación que les requieran el órgano de control respectivo.
+Aprobado por el Consejo Directivo de la Universidad Tecnológica del Sur del Estado de México, según consta en acta de su trigésima séptima Sesión Ordinaria, celebrada en el municipio de Tejupilco, México, a los diecisiete días del mes de marzo del dos mil cuatro.
 
-###### Artículo 23.
+ING. AGUSTÍN GASCA PLIEGO
 
-El servidor público saliente 30 días antes de que concluya su empleo, cargo o comisión deberá solicitar la intervención del órgano de control que corresponda para la debida intervención que le compete conforme a esta ley.
+SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DEL CONSEJO DIRECTIVO
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+(RUBRICA).
 
-###### Artículo 24.
+ING. ROGELIO KURI GONZALEZ
 
-La Secretaría de la Contraloría General de la Ciudad de México tiene facultad para dictar las medidas complementarias para la observancia de esta Ley, así como para solicitar, desde un año antes, la documentación que considere necesaria para preparar la entrega final del Órgano Ejecutivo Local de la Ciudad de México.
+RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO Y SECRETARIO DEL CONSEJO DIRECTIVO
 
-###### Artículo 25.
+(RUBRICA).
 
-El incumplimiento de las disposiciones de la presente Ley será sancionado por la respectiva contraloría de acuerdo con la legislación en materia de responsabilidades de los servidores públicos.
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
 
-> <small>(REFORMADO, G.O. 22 DE FEBRERO DE 2018)</small>
+G.G. 15 DE ABRIL DE 2011.
 
-###### Artículo 26.
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
-Ningún servidor público, señalado en el artículo 3 de la presente Ley, podrá dejar el puesto sin llevar a cabo el acto de entrega-recepción correspondiente; para este efecto el superior jerárquico respectivo deberá designar el sustituto definitivo o provisional, en el caso de entrega-recepción inmediata, dentro de un plazo no mayor de 15 días naturales a partir de la fecha en que sea aceptada la renuncia, se notifique baja o se lleve a cabo el cambio de puesto. En caso de incumplimiento de la anterior obligación, el superior jerárquico correspondiente será responsable en términos de la Ley Federal de Responsabilidad de los servidores públicos y demás legislación aplicable. En caso de urgencia para la entrega-recepción se podrán habilitar horas o días para hacer la entrega correspondiente, dicha habilitación la hará el Titular del Órgano de Gobierno correspondiente o por el por el (sic) Órgano de Control Interno correspondiente, según sea el caso.
+SEGUNDO.- Este Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-## TRANSITORIOS
-
-###### ARTÍCULO PRIMERO.
-
-La presente Ley entra en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que se opongan a la presente Ley.
-
-###### ARTÍCULO TERCERO.
-
-Se otorga un plazo máximo de 180 días naturales para que la Contraloría General u órgano interno correspondiente de los entes de la Administración Pública, apliquen la normatividad a que se contrae esta Ley.
-
-###### ARTÍCULO CUARTO.
-
-La Asamblea Legislativa del Distrito Federal, deberá realizar las reformas necesarias en las leyes orgánicas de los demás órganos de gobierno y autónomos a efecto de legislar sobre la entrega recepción en los mismos.
-
-Recinto Legislativo, a 27 de diciembre de 2001.- POR LA MESA DIRECTIVA.- DIP. WALTER ALBERTO WIDMER LÓPEZ, PRESIDENTE.- SECRETARIA, DIP. LORENA RÍOS MARTÍNEZ.- SECRETARIO, DIP. HÉCTOR GUTIÉRREZ DE ALBA.- FIRMAS.
-
-En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de febrero del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELÍZAGA.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.- EL SECRETARIO DE FINANZAS, CARLOS MANUEL URZÚA MACÍAS- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-G.O. 22 DE FEBRERO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL".]
-
-PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
-
-SEGUNDO.- El presente decreto entrará en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
-
-TERCERO.- Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan a la presente Ley.
-
-CUARTO.- Se otorga un plazo de 180 días naturales para que la Contraloría General u Órgano Interno correspondiente de los entes de la Administración Pública de la Ciudad de México, apliquen la normatividad a que se contrae esta Ley.
-
-QUINTO.- Dentro (sic) lo establecido en el artículo 2, fracciones II y VI de esta Ley, se encuentran incluidos los concejales, derivado de la reforma política de la Ciudad de México y atendiendo a la reforma del artículo 122 constitucional y a la expedición de la Constitución Política de la Ciudad de México.
-
-Estos nuevos sujetos tienen la obligación de apegarse a lo establecido en la presente Ley y seguir el procedimiento de entrega recepción, el cual deberán realizar ante la Contraloría de la Alcaldía o ante la comisión u órgano interno que para tal efecto designen en el Bando correspondiente de cada Alcaldía.
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
