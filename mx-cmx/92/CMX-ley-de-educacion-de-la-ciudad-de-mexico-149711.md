@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-de-la-ciudad-de-mexico-149711"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2023-08-04"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149711&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-06-04"
 
 LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el No. 612 de la Gaceta Oficial de la Ciudad de México, el lunes 7 de junio de 2021.
 
@@ -320,9 +320,13 @@ XXXVIII. Establecer con la organización sindical titular del contrato colectivo
 
 XXXVIII BIS. Promover la capacitación del personal docente en las materias de derechos humanos, prevención de la violencia y el acoso escolar, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria;
 
-> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2025)</small>
 
-XXXVIII Ter. Velar por que en el interior de los planteles educativos no se distribuya ni consuma sustancias psicotrópicas, enervantes, u otros productos que puedan perjudicar la salud del educando. De igual forma, prevenir la introducción y portación de cualquier tipo de objeto que pueda ser utilizado para atentar o poner en riesgo la integridad física de la comunidad escolar; y
+XXXVIII TER. Velar por que en el interior de los planteles educativos no se distribuya ni consuma sustancias psicotrópicas, enervantes, u otros productos que puedan perjudicar la salud del educando. De igual forma, prevenir la introducción y portación de cualquier tipo de objeto que pueda ser utilizado para atentar o poner en riesgo la integridad física de la comunidad escolar;
+
+> <small>(ADICIONADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+XXXVIII QUATER. Promover, en coordinación con la Secretaría de Salud de la Ciudad de México, la capacitación del personal docente en la prevención y detección oportuna del cáncer de mama, del cáncer cervicouterino y del virus del papiloma humano; y
 
 XXXIX. Las demás que establezcan otras disposiciones legales en materia educativa.
 
@@ -1008,11 +1012,11 @@ Los contenidos de estudio tendrán por objeto propiciar en el educando el desarr
 
 Los planes y programas de estudio que determine la Autoridad Educativa Federal, las adecuaciones que por Ley correspondan a la Secretaría, así como los planes y programas de estudio de las instituciones educativas dependientes de la Secretaría, serán publicados en el Órgano de difusión local.
 
-> <small>(REFORMADO, G.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, G.O. 11 DE ABRIL DE 2025)</small>
 
 ###### Artículo 63.
 
-Los planes y programas de estudio del Sistema Educativo de la Ciudad se basarán invariablemente en el respeto a los derechos humanos, igualdad sustantiva, sustentabilidad del medio ambiente, el respeto y protección a los animales como seres sintientes, responsabilidad social, equidad, inclusión, perspectiva de género, cultura de envejecimiento activo y la solidaridad intergeneracional, perspectiva intercultural, cultura de paz y no violencia, sana convivencia, así como diálogo y participación de educandos, personas educadoras, autoridades, madres y padres de familia o tutores e instituciones sociales.
+Los planes y programas de estudio del Sistema Educativo de la Ciudad se basarán invariablemente en el respeto a los derechos humanos, igualdad sustantiva, sustentabilidad del medio ambiente, cultura del cuidado y gestión del agua, el respeto y protección a los animales como seres sintientes, responsabilidad social, equidad, inclusión, perspectiva de género, cultura de envejecimiento activo y la solidaridad intergeneracional, perspectiva intercultural, cultura de paz y no violencia, sana convivencia, así como diálogo y participación de educandos, personas educadoras, autoridades, madres y padres de familia o tutores e instituciones sociales.
 
 ###### Artículo 64.
 
@@ -1532,9 +1536,17 @@ V. Llevar a cabo las acciones de participación, coordinación y difusión neces
 
 VI. Promover cooperativas con la participación de la comunidad educativa, las cuales tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos. Su funcionamiento se apegará a los criterios de honestidad, integridad, transparencia y rendición de cuentas en su administración. La Secretaría emitirá los lineamientos para su operación, de conformidad con las disposiciones aplicables;
 
-VII. Coadyuvar en la dignificación de los planteles educativos, a través del Comité Escolar de Administración Participativa, de acuerdo con los lineamientos que emita la Secretaría, y
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2025)</small>
 
-VIII. Realizar actividades encaminadas al beneficio del centro escolar correspondiente.
+VII. Coadyuvar en la dignificación de los planteles educativos, a través del Comité Escolar de Administración Participativa, de acuerdo con los lineamientos que emita la Secretaría;
+
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+VIII. Realizar actividades encaminadas al beneficio del centro escolar correspondiente, e
+
+> <small>(ADICIONADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+IX. Impulsar campañas y actividades permanentes con perspectiva de género, de concientización y prevención del cáncer de mama, virus del papiloma humano y cáncer cervicouterino en los centros escolares, incluyendo la difusión de información sobre la autoexploración y la importancia del diagnóstico oportuno, en coordinación con las instituciones de salud.
 
 ###### Artículo 123.
 
@@ -1783,3 +1795,19 @@ G.O. 4 DE AGOSTO DE 2023.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO EN MATERIA DE PREVENCIÓN Y DETECCIÓN OPORTUNA DE CÁNCER DE MAMA”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 63 DE LA LEY DE EDUCACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
