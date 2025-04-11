@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2024-11-29"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -134,9 +134,13 @@ XIX. Relación afectiva o de hecho: Aquella en la que se comparte una relación 
 
 XX. Tipos de violencia: Los distintos daños que puede ocasionar la violencia contra las mujeres;
 
-> <small>(ADICIONADA, G.O. 10 DE OCTUBRE DE 2023)</small>
+> <small>(ADICIONADA, G.O. 11 DE ABRIL DE 2025)</small>
 
-XX Bis. Servicios reeducativos: Procesos mediante los cuales se trabaja con las personas agresoras de manera individual o colectiva, con el objetivo de erradicar las creencias de supremacía masculina, las prácticas machistas y aquellas conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades;
+XX Bis. Senderos Seguros: Estrategia integral de seguridad con perspectiva de género para el diseño de espacios públicos para contribuir positivamente a la erradicación de la violencia de género en la vía pública mediante la recuperación del espacio, protección ante emergencias, el mejoramiento de la infraestructura basada en acciones de iluminación, adecuación de espacios y mejoramiento de calles, camellones, parques, plazas y adecuación para facilitar el tránsito seguro y libre de violencia en la Ciudad de México.
+
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+XX Ter. Servicios reeducativos: Procesos mediante los cuales se trabaja con las personas agresoras de manera individual o colectiva, con el objetivo de erradicar las creencias de supremacía masculina, las prácticas machistas y aquellas conductas que posibilitan, justifican y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades.
 
 XXI. Tribunal: El Tribunal Superior de Justicia de la Ciudad de México;
 
@@ -603,6 +607,10 @@ IV. Fomentar un ambiente laboral libre de discriminación, riesgos y violencia l
 > <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
 V. Remitir la información y estadísticas a la red de información de violencia contra las mujeres conforme a la periodicidad y especificidad que solicite la Secretaría de las Mujeres; y
+
+> <small>(ADICIONADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+V Bis. Impulsar de forma coordinada Senderos Seguros en las demarcaciones territoriales que integran la Ciudad de México.
 
 VI. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
 
@@ -2331,3 +2339,11 @@ G.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación, salvo en los casos específicos a que se refieren los artículos 1º y 2º de la Declaratoria de vigencia del Código Nacional de Procedimientos Civiles y Familiares en la Ciudad de México publicada el día 9 de agosto de 2024, casos en los cuales entrarán en vigor conforme a las fechas que señale dicha declaratoria.
+
+G.O. 11 DE ABRIL DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XX BIS. Y SE REFORMA LA FRACCIÓN XX TER. DEL ARTÍCULO 3, Y SE ADICIONA UNA FRACCIÓN V BIS. DEL ARTÍCULO 15 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
