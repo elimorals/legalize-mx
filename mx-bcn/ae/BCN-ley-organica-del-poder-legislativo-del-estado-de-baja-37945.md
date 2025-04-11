@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2024-11-29"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -2119,7 +2119,13 @@ V.- Considerandos tomados en cuenta para el apoyo, modificación o rechazo de la
 
 VI.- Conclusiones o puntos resolutivos; y,
 
-VII.- Fecha y espacio para la firma de los Diputados.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VII.- Fecha y espacio para la firma de las Diputadas y los Diputados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+El contenido de los dictámenes deberá realizarse con perspectiva de género y estar redactados en lenguaje incluyente y no sexista.
 
 ###### ARTICULO 123.
 
@@ -2519,9 +2525,19 @@ La declaración patrimonial será presentada ante la Unidad de Contraloría Inte
 
 ARTICULO 169 BIS.- El registro individual de votaciones se publicará en el portal de internet con la denominación "Semáforo de Votaciones", y contendrá el registro de votaciones nominales y económicas dadas en pleno y comisiones.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2025)</small>
+
+### CAPITULO TERCERO. DEL PARLAMENTO ABIERTO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2025)</small>
+
 ###### ARTICULO 170.
 
-(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2016)
+El Congreso del Estado fomentará la implementación de un Parlamento Abierto basado en los principios de transparencia en la información, rendición de cuentas, evaluación del desempeño legislativo, participación ciudadana y uso de tecnologías de la información. En el ejercicio de sus funciones, las y los Diputados deberán establecer un marco de apertura institucional que permita a la ciudadanía involucrarse de manera pacífica y organizada en los procesos legislativos.
+
+Además, el Congreso del Estado promoverá la adopción de mejores prácticas de transparencia para alcanzar los principios establecidos en este artículo, así como la promoción de una agenda de parlamento y gobierno abierto en los niveles estatal y municipal.
+
+Como parte de los mecanismos de participación ciudadana, se creará un espacio permanente en el portal de Internet del H. Congreso del Estado. A través de este espacio, se recibirán las opiniones de la ciudadanía sobre las iniciativas de ley presentadas.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -3246,3 +3262,21 @@ P.O. 29 DE NOVIEMBRE DE 2024.
 PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
 
 SEGUNDO. Publíquese en la Gaceta del Congreso del Estado de Baja California.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 78 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO.- Publíquese en la Gaceta del Congreso del Estado de Baja California.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado, para los efectos conducentes.
+
+CUARTO.- El Congreso del Estado tendrá un plazo de 180 días, contados a partir de la entrada en vigor de la presente reforma, para realizar las adecuaciones necesarias en los procesos legislativos internos, a fin de cumplir con los principios establecidos en materia de parlamento abierto. Corresponderá a la Junta de Coordinación Política velar por el cumplimiento de lo anterior.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 81 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.– La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
