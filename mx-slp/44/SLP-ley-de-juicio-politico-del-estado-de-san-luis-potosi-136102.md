@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juicio-politico-del-estado-de-san-luis-potosi-136102"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-16"
-last_updated: "2024-04-19"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de abril de 2019.
 
@@ -71,13 +71,17 @@ La autoridad competente para aplicar la presente Ley será el Congreso del Estad
 
 Para efectos de esta Ley se entiende por:
 
-I. Comisión Instructora: la integrada por las comisiones de, Gobernación; y Justicia, que tiene por objeto admitir y, en su caso, resolver la procedencia del juicio político; determinando si hay elementos que hagan presumir la existencia de los hechos; la presunta responsabilidad del denunciado; y solicitar la conformación de la Comisión Jurisdiccional;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+I. Comisión Instructora: la integrada por las comisiones de, Gobernación; y Primera de Justicia, que tiene por objeto admitir y, en su caso, resolver la procedencia del juicio político; determinando si hay elementos que hagan presumir la existencia de los hechos; la presunta responsabilidad del denunciado; y solicitar la conformación de la Comisión Jurisdiccional;
 
 II. Comisión Jurisdiccional: la que se conforma por el Congreso del Estado de conformidad con su Ley Orgánica, y Reglamento, para sustanciar el procedimiento respectivo, y dictaminar sobre la responsabilidad en el juicio político, proponiendo al Pleno en su resolución, las sanciones que establece esta Ley;
 
 III. Congreso: el Congreso del Estado Libre y Soberano de San Luis Potosí;
 
-IV. Reglamento: el Reglamento para el Gobierno Interior del Congreso del Estado Libre y Soberano de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+IV. Reglamento: el Reglamento del Congreso del Estado de San Luis Potosí, y
 
 VI (SIC). Pleno: el Pleno del Congreso del Estado.
 
@@ -235,9 +239,11 @@ V. Por alguna otra causa manifiesta.
 
 Recibida la denuncia por la oficialía mayor del Congreso, la turnará a más tardar el día hábil siguiente al en que la reciba, a la Secretaría de la Directiva del Congreso, la que citará al denunciante para el efecto de que la ratifique en un término de tres días, contados desde la fecha en que se da por recibida la citación; si el interesado no se presenta a ratificar, la denuncia será archivada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 20.
 
-Una vez ratificado el escrito, la Secretaría del Congreso lo turnará con la documentación correspondiente a las comisiones de, Gobernación; y Justicia, quienes actuarán unidas como Comisión Instructora.
+Una vez ratificado el escrito, la Secretaría del Congreso lo turnará con la documentación correspondiente a las comisiones de, Gobernación; y Primera de Justicia, quienes actuarán unidas como Comisión Instructora.
 
 Recibida la denuncia por las citadas comisiones revisarán de oficio si se actualiza alguna de las causas de improcedencia que señala el artículo 18 de esta Ley.
 
@@ -317,9 +323,11 @@ Dictada la resolución definitiva en el procedimiento, los documentos y expedien
 
 No podrán votar en ningún caso los diputados que hubiesen presentado la imputación contra el servidor público; tampoco aquéllos que hayan aceptado el cargo de defensor, aun cuando lo renuncien después de haber comenzado a ejercer el cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 32.
 
-Para todo lo no previsto en esta Ley respecto a discusiones y votaciones, se observarán, en lo conducente, las reglas que establecen, la Constitución Política del Estado; la Ley Orgánica del Poder Legislativo del Estado; y el Reglamento para el Gobierno Interior del Congreso del Estado, para discusión y votación de las leyes.
+Para todo lo no previsto en esta Ley respecto a discusiones y votaciones, se observarán, en lo conducente, las reglas que establecen, la Constitución Política del Estado; la Ley Orgánica del Poder Legislativo del Estado; y el Reglamento del Congreso del Estado de San Luis Potosí, para discusión y votación de las leyes.
 
 En todo caso, las votaciones deberán ser nominales para formular, aprobar o reprobar las conclusiones o dictámenes de la Comisión Jurisdiccional, y para resolver incidental o definitivamente en el procedimiento.
 
@@ -343,9 +351,11 @@ En la apreciación y valoración de las pruebas, se observarán las disposicione
 
 #### Sección Tercera. Procedimiento Jurisdiccional
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 37.
 
-El Congreso substanciará el procedimiento de juicio político consignado en la presente Ley por conducto de la Comisión Jurisdiccional creada al efecto, la cual estará integrada en términos de la Ley Orgánica del Poder Legislativo, y el Reglamento para el Gobierno Interior del Congreso del Estado.
+El Congreso substanciará el procedimiento de juicio político consignado en la presente Ley por conducto de la Comisión Jurisdiccional creada al efecto, la cual estará integrada en términos de la Ley Orgánica del Poder Legislativo, y el Reglamento del Congreso del Estado de San Luis Potosí.
 
 ###### ARTÍCULO 38.
 
@@ -528,3 +538,11 @@ P.O. 19 DE ABRIL DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0186.- SE REFORMAN LA FRACCIÓN XVI DEL ARTÍCULO 107 Y LA FRACCIÓN VI DEL ARTÍCULO 114, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 4°, EL PÁRRAFO PRIMERO DEL ARTÍCULO 20, EL PÁRRAFO PRIMERO DEL ARTÍCULO 32 Y EL ARTÍCULO 37, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 131, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
