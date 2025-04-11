@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2025-03-14"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -134,6 +134,10 @@ XXI. Sistema Estatal de Protección: Sistema de Protección de Niñas, Niños y 
 XXII. Sistemas Municipales: Sistemas cada uno de los Municipios del Estado de Baja California para el Desarrollo Integral de la Familia.
 
 XXIII. Sistemas Municipales de Protección: Sistemas de Protección de Niñas, Niños y Adolescentes de los Municipios.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XXIV.- Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar.
 
 ###### Artículo 5.
 
@@ -563,25 +567,39 @@ V. El trabajo antes de la edad mínima de quince años, prevista en el artículo
 
 VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
 
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-VIII. La pornografía impresa que se publicita de manera abierta y sin la cubierta necesaria, dejándola a la vista y alcance sin restricción alguna de niñas, niños y adolescentes, en lugares dedicados a la comercialización, venta y distribución de este tipo de producciones.
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-IX. La violencia extrema contra animales, prohibiendo su asistencia o participación activa a menores de edad en eventos o espectáculos en los que esta se genera.
+VIII. La pornografía impresa que se publicita de manera abierta y sin la cubierta necesaria, dejándola a la vista y alcance sin restricción alguna de niñas, niños y adolescentes, en lugares dedicados a la comercialización, venta y distribución de este tipo de producciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+IX. La violencia extrema contra animales, prohibiendo su asistencia o participación activa a menores de edad en eventos o espectáculos en los que esta se genera; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
 X. El castigo corporal y humillante.
 
-Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizado, estigmatizante, ridiculizado y de menosprecio, así como cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2025)</small>
 
 Las autoridades competentes están obligadas a implementar medidas especiales para prevenir, atender, erradicar y sancionar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2025)</small>
 
 Asimismo, las autoridades en el ámbito de sus respectivas competencias, promoverán en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, la cultura de la prevención para la protección de los derechos de niñas, niños y adolescentes, respecto de los riesgos y problemas derivados del acceso a medios de comunicación y uso responsable de las tecnologías.
 
@@ -995,9 +1013,21 @@ X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan 
 
 XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 
-XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XIV. Garantizar la mínima intervención en los procedimientos judiciales en calidad de víctimas o testigos; y,
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XV. Garantizar la no revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 ###### Artículo 79.
 
@@ -1021,7 +1051,9 @@ Las autoridades del Estado y sus Municipios, en el ámbito de sus respectivas co
 
 I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
 
-II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del artículo 83 de la Ley General;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del artículo 83 de la Ley General, y cumpliendo el principio de mínima intervención;
 
 III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez;
 
@@ -2000,3 +2032,15 @@ P.O. 14 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 52 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 6, 20, 24, 41, 42, 92, 97 Y 105 DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 75 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
