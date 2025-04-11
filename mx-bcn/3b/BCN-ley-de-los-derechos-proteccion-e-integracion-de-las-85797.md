@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2025-03-14"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -95,9 +95,9 @@ El Ejecutivo Estatal y los Ayuntamientos deberán prever, en su Proyecto de Pres
 
 En el Proyecto de Ley de Ingresos Estatal y Municipal, se considerarán descuentos, exenciones y beneficios a favor de las personas adultas mayores, de conformidad con las disposiciones fiscales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2025)</small>
 
-###### Artículo 6.
+###### ARTÍCULO 6.
 
 Para los efectos de este ordenamiento se entenderá por:
 
@@ -121,33 +121,41 @@ V. Cuidador: Aquella persona mayor de edad que preste sus servicios, ya sea de f
 
 VI. Desarrollo Integral: El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-VII. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
+VII. Envejecimiento: Proceso gradual que se desarrolla durante el curso de vida y que conlleva cambios biológicos, fisiológicos, psico-sociales y funcionales de variadas consecuencias, las cuales se asocian con interacciones dinámicas y permanentes entre el sujeto y su medio;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-VIII. Género: Conjunto de papeles, atribuciones y representaciones de hombres y mujeres en nuestra cultura que toman como base la diferencia sexual;
+VIII. Envejecimiento activo y saludable: Proceso por el cual se optimizan las oportunidades de bienestar físico, mental y social, de participar en actividades sociales, económicas, culturales, espirituales y cívicas, y de contar con protección, seguridad y atención, con el objetivo de ampliar la esperanza de vida saludable y la calidad de vida de todos los individuos en la vejez, y permitirles así seguir contribuyendo activamente a sus familias, amigos, comunidades y naciones. El concepto de envejecimiento activo y saludable se aplica tanto a individuos como a grupos de población;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-IX. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
+IX. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-X. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
+X. Género: Conjunto de papeles, atribuciones y representaciones de hombres y mujeres en nuestra cultura que toman como base la diferencia sexual;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-XI. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física o mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+XI. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-XII. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+XII. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
 
-> <small>(REFORMADA [N. DE E. REUBICADA CON SUS INCISOS], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-XIII. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
+XIII. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física o mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE ABRIL DE 2025)</small>
+
+XIV. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+
+> <small>(REFORMADA [N. DE E. REUBICADA CON SUS INCISOS], P.O. 11 DE ABRIL DE 2025)</small>
+
+XV. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
 
 a) Independientes: cuando sean aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente;
 
@@ -157,9 +165,13 @@ c) Dependientes absolutos: cuando sufran de una enfermedad crónica o degenerati
 
 d) En situación de riesgo o desamparo: cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección del Gobierno del Estado y de la Sociedad civil Organizada.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE ABRIL DE 2025)</small>
 
-XIV. Violencia Contra las Personas Adultas Mayores. Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+XVI. Vejez: Construcción social de la última etapa del curso de vida; y,
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XVII. Violencia Contra las Personas Adultas Mayores: Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -173,17 +185,29 @@ III. La violencia patrimonial. Es cualquier acto u omisión que afecta la superv
 
 IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
 V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE ABRIL DE 2025)</small>
 
 VI. La violencia institucional. Son los actos u omisiones de las y los servidores públicos que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como su acceso al disfrute de políticas públicas; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 11 DE ABRIL DE 2025)</small>
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores, como son de manera enunciativa más no limitativa, las siguientes:
+
+a) Abandono: La falta de acción deliberada o no para atender de manera integral las necesidades de una persona mayor que ponga en peligro su vida o su integridad física, psíquica o moral;
+
+b) Discriminación: Cualquier distinción, exclusión, restricción que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;
+
+c) Discriminación múltiple: Cualquier distinción, exclusión o restricción hacia la persona adulta mayor fundada en dos o más factores de discriminación;
+
+d) Discriminación por edad en la vejez: Cualquier distinción, exclusión o restricción basada en la edad que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;
+
+e) Maltrato: Acción u omisión, única o repetida, contra una persona mayor que produce daño a su integridad física, psíquica y moral y que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza; y,
+
+f) Negligencia: Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión, desamparo e indefensión que le causa un daño o sufrimiento a una persona mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias.
 
 ## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
@@ -641,13 +665,17 @@ V. Establecer una base de información sobre las condiciones socioeconómicas, c
 
 #### SECCIÓN IV. DE LA SECRETARÍA DE SALUD
 
-###### Artículo 39.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 11 DE ABRIL DE 2025)</small>
+
+###### ARTÍCULO 39.
 
 Corresponde a la Secretaría de Salud:
 
 I. Garantizar el acceso a la atención médica en las clínicas y hospitales públicos con una orientación especializada para las personas adultas mayores;
 
-II. Promover la atención especial, que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufran de discapacidades funcionales. Asimismo, los programas de salud incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+II. Promover la atención especial, que deberán recibir los programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufran de discapacidades funcionales. Asimismo, los programas de salud incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento activo y saludable;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2020)</small>
 
@@ -665,7 +693,9 @@ VII. Proporcionar, en coordinación con la Secretaría de Bienestar, orientació
 
 VIII. Establecer mecanismos bajo el principio de coordinación interinstitucional, para proporcionar medicamentos, previo estudio socioeconómico, que determine su distribución sin costo alguno, en caso de estado de necesidad o abandono de las personas adultas mayores;
 
-IX. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento sano y activo;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+IX. Realizar acciones de prevención que induzcan a la sociedad a conocer y tomar las medidas pertinentes para acceder a un envejecimiento activo y saludable;
 
 X. Fomentar la capacitación en materia de primeros auxilios, terapias de rehabilitación, técnicas de alimentación y tratamiento de las personas adultas mayores, para aquellas personas que tengan a éstas a su cuidado;
 
@@ -1162,3 +1192,9 @@ P.O. 14 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 53 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 BIS DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 77 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
