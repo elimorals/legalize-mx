@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2024-12-31"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -779,7 +779,11 @@ Para los efectos de esta Ley se considerará:
 
 I.- Automovilista: El conductor de vehículos destinados para uso particular, y que no se encuentren comprendidos en las fracciones siguientes.
 
-II.- Chofer: El conductor de vehículos destinados a la explotación del servicio público de transporte, ya sea de pasajeros o de carga. Quedan comprendidos dentro de esta denominación el conductor que maneje vehículo de servicio particular, para transporte de pasajeros o carga, mediante el pago de una retribución económica.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+II.- Chofer: El conductor de vehículos destinados a la explotación del servicio público de transporte, ya sea de pasajeros o de carga. Queda comprendido dentro de esta denominación el conductor que maneje vehículo de servicio particular, para transporte de pasajeros o carga, mediante el pago de una retribución económica.
+
+Salvo prueba en contrario, se presumirá que los vehículos tipo pick up o paneles cerrados de servicio particular no se destinan al servicio público de transporte de pasajeros o de carga mediante el pago de una retribución económica por lo que únicamente en caso de acreditarse esta circunstancia se deberá exigir al conductor la licencia en la modalidad referida en el párrafo anterior.
 
 III.- Motociclista: El conductor de motocicletas, sea cual fuere la capacidad de los centímetros cúbicos del motor, ya sea para el servicio particular o para el desempeño de un trabajo.
 
@@ -1204,3 +1208,11 @@ P.O. 31 DE DICIEMBRE DE 2024.
 PRIMERO.- La presente reforma entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría de Hacienda del Estado deberá emitir, o en su caso, adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días naturales siguientes contados a partir de su entrada en vigor.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 69 MEDIANTE EL CUAL SE REFORMA LA LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La entrada en vigor de la presente reforma no dará lugar a reembolso, devolución o compensación alguna respecto a las multas cobradas y pagadas con anterioridad a su inicio de vigencia.
