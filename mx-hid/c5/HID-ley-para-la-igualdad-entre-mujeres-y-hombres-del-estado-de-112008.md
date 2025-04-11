@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-01-28"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -117,7 +117,9 @@ La trasgresión a los principios y programas que la misma prevé será sancionad
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones Afirmativas: Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+I. Acciones Afirmativas: Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, con el objeto de revertir escenarios de desigualdad histórica y que van encaminadas a acelerar la igualdad sustantiva de trato y oportunidades entre mujeres y hombres;
 
 II. Armonización legislativa: Adecuación del marco jurídico estatal y municipal con los tratados internaciones y normas nacionales en materia de derechos humanos e igualdad;
 
@@ -127,7 +129,9 @@ IV. Consejos Generales de Planeación para la Agenda de Género: Son mecanismosp
 
 V. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-VI. Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VI. Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo, ya sea de manera directa o indirecta, pública o privada, que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -137,9 +141,13 @@ VI Bis. Empoderamiento: Es un proceso por medio del cual se transita de cualquie
 
 VI Ter. Estereotipo sexual: Es una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino;
 
-VII. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
 
-VIII. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+VII. Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar que no dependen del sexo de las personas;
+
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+VIII. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales; la cual conlleva la obligación del Estado de aplicar medidas estructurales, legales o de política pública para alcanzar dichos objetivos;
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -149,7 +157,9 @@ IX. Instituto: El Instituto Hidalguense de las Mujeres;
 
 X. Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Hidalgo;
 
-XI. Perspectiva de género: Categoría científica, analítica y política que revisa las relaciones, construcciones y significados sociales entre mujeres y hombres, a partir de las diferencias biológicas, eliminado la opresión de género, que se base en la desigualdad y discriminación;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XI. Perspectiva de género: Categoría científica, analítica y política que revisa las relaciones, construcciones y significados sociales entre mujeres y hombres, a partir de las diferencias biológicas, eliminado (sic) la opresión de género que se base en la desigualdad y discriminación. Este enfoque busca resignificar contenidos y estructuras tradicionales, con el propósito de establecer metodologías y mecanismos orientados a construir una sociedad más equitativa, basada en la igualdad de género;
 
 XII. Política de Igualdad: Conjunto de acciones para lograr la igualdad sustantiva;
 
@@ -157,7 +167,9 @@ XIII. Programa Estatal de Igualdad: El Programa Estatal para la Igualdad entre M
 
 XIV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XV. Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas; y
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2025)</small>
+
+XV. Transversalidad: Herramienta metodológica que permite garantizar la incorporación de la perspectiva de género como eje integrador, con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción o instrumento que se programe, tratándose de actividades legislativas, políticas públicas, ejecutivas, administrativas, reglamentarias, económicas y culturales en las instituciones públicas y privadas, tendientes garantizar la concreción del principio de igualdad, y
 
 XVI. Unidades Institucionales para la Igualdad entre Mujeres y Hombres: Son mecanismos institucionales que tienen por objeto implementar dentro de la Dependencia o Entidad respectiva, las políticas y lineamientos para el cumplimiento de las disposiciones de las leyes en la materia y de impulsar diversas acciones y recomendaciones que emita el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, así como de la Comisión de Igualdad y no Discriminación.
 
@@ -996,5 +1008,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 28 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE PRINCIPIOS RECTORES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 222 – LXVI POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
