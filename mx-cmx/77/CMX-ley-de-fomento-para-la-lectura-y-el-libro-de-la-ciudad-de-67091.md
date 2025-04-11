@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-para-la-lectura-y-el-libro-de-la-ciudad-de-67091
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2022-05-27"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67091&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-02-25"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 4 de marzo de 2009.
 
@@ -228,7 +228,9 @@ Corresponde a la Subsecretaría de Educación:
 
 I. En coordinación con la autoridad educativa federal se buscará impulsar la incorporación de asignaturas de comprensión y fomento a la lectura en el nivel básico de educación, y
 
-II. Fomentar la realización de talleres, círculos literarios, libro clubes y cualesquiera otras medidas conducentes al fomento de la lectura y del libro, en las instituciones educativas pertenecientes al Sistema Educativo de la Ciudad de México, en la Red de Bibliotecas Públicas de la Ciudad de México y en los espacios públicos en donde se implementen programas sociales a cargo del Gobierno de la Ciudad.
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+II. Fomentar la realización de talleres, círculos literarios, círculos de lectura con perspectiva de género, libro clubes y cualesquiera otras medidas conducentes al fomento de la lectura y del libro, en las instituciones educativas pertenecientes al Sistema Educativo de la Ciudad de México, en la Red de Bibliotecas Públicas de la Ciudad de México y en los espacios públicos en donde se implementen programas sociales a cargo del Gobierno de la Ciudad.
 
 > <small>(ADICIONADO, G.O. 27 DE MAYO DE 2022)</small>
 
@@ -446,7 +448,9 @@ III. Una persona representante designada, por cada una de las personas titulares
 
 IV. Hasta 10 vocales, a invitación de la presidencia;
 
-V. Las personas que presidan las Comisiones de Derechos Culturales y de Educación, del Congreso de la Ciudad de México;
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 2025)</small>
+
+V. Las personas que presidan, o a través de representantes designados por sus titulares, las Comisiones de Derechos Culturales, de Educación, así como de los Comités de Archivo y Bibliotecas y de Asuntos Editoriales del Congreso de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
 
@@ -605,5 +609,23 @@ G.O. 27 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN XI; 6 FRACCIÓN IV; 11 PÁRRAFO PRIMERO Y FRACCIONES IV Y V; Y 23, FRACCIONES III Y VI; SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 6; I BIS AL ARTÍCULO 23 Y SE ADICIONAN LOS ARTÍCULOS 7 BIS, 7 TER Y 7 QUATER Y SE DEROGAN LAS FRACCIONES XII DEL ARTÍCULO 2; I, IX Y X DEL ARTÍCULO 9 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO”.]
 
 Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN V AL ARTÍCULO 23 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México y para su mayor difusión, publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 7 TER DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DE LA CIUDAD DE MÉXICO".]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
