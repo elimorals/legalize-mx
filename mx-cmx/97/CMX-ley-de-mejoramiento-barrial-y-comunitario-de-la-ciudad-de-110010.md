@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-mejoramiento-barrial-y-comunitario-de-la-ciudad-de-11001
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-29"
-last_updated: "2022-10-27"
+last_updated: "2025-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110010&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2015-08-28"
 ---
 # LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DE LA CIUDAD DE MEXICO --ANTES LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DEL DISTRITO FEDERAL--
 
-LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DEL DISTRITO FEDERAL
+LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 2025.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el martes 29 de septiembre de 2015.
 
@@ -50,7 +50,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DEL DI
 
 Se expide la Ley de Mejoramiento Barrial y Comunitario del Distrito Federal para quedar como sigue:
 
-LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE ABRIL DE 2025)</small>
+
+LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DE LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -225,3 +227,11 @@ G.O. 27 DE OCTUBRE DE 2022.
 PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 11 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY DE MEJORAMIENTO BARRIAL Y COMUNITARIO DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
