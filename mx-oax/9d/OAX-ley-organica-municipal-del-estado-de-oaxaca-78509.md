@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-02-10"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -931,11 +931,11 @@ IX. Sesionar de manera pública, garantizando el acceso a la información de los
 
 X.- Rendir un informe de actividades al Ayuntamiento, mismo que deberá celebrarse dentro de las dos últimas semanas del mes de noviembre de cada año, sobre las actividades realizadas durante el desempeño de sus funciones, de los dictámenes llevados a cabo y del estado que guardan los asuntos públicos al interior de las Comisiones Municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2025)</small>
 
 ###### ARTÍCULO 56.
 
-En la primera sesión ordinaria del primer año de gestión del Ayuntamiento y a propuesta del Presidente Municipal, se integrarán las comisiones que sean necesarias, las cuales de ninguna manera podrán, denostar, denigrar o menoscabar la dignidad de sindico o regidor alguno para el adecuado funcionamiento de los servicios públicos municipales, pudiendo ser de manera enunciativa y no limitativa las siguientes:
+En la primera sesión ordinaria del primer año de gestión del Ayuntamiento y a propuesta del presidente Municipal, se integrarán las comisiones que sean necesarias, las cuales de ninguna manera podrán denostar denigrar o menoscabar la dignidad de síndico o regidor alguno para el adecuado funcionamiento de los servicios públicos municipales, pudiendo ser de manera enunciativa y no limitativa las siguientes:
 
 I.- Hacienda Municipal;
 
@@ -1003,9 +1003,13 @@ XXIVV (SIC).- De Desarrollo Cultural y Artesanal;
 
 XXV.- De Protección Civil, y
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+XXVI.- De atención e Inclusión a las Personas con Discapacidad, y;
+
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXVI.- Las demás que apruebe el Ayuntamiento.
+XXVII.- Las demás que apruebe el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -4708,3 +4712,11 @@ P.O. 10 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 534.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXVI RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
