@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2024-11-09"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -191,17 +191,17 @@ IV. Establecer mecanismos que proporcionen el acceso general y equitativo hacia 
 
 V. Promover y fomentar en los diversos sectores la participación adecuada que permita obtener financiamientos adicionales a los que otorgue el Estado, para los artistas, gestores y creadores, así como para adquisición, mejoramiento o rehabilitación de la infraestructura cultural a partir de la participación activa de la sociedad civil y en especial, de los sectores económicos;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-VI. Asesorar técnicamente a las comunidades indígenas, autoridades municipales y comunitarias en relación a sus propuestas, relativas al fortalecimiento, transmisión y preservación de sus manifestaciones culturales, así como la gestión de proyectos orientados a la cooperación cultural.
+VI. Asesorar técnicamente a las comunidades indígenas, pueblos y comunidades afromexicanas, autoridades municipales y comunitarias en relación a sus propuestas relativas al fortalecimiento, preservación, protección y desarrollo de su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad, así como la gestión de proyectos orientados a la cooperación cultural.
 
 > <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
 VII. Promover programas y acciones que consideren los lugares simbólicos y al medio ambiente como un valor y bien cultural, en cuya preservación debe estimularse y coordinarse la participación de las comunidades indígenas así como el pueblo afromexicano, en su conjunto;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-VIII. Generar centros de capacitación regionales y comunitarios que fomenten la construcción de la equidad social entre los diversos grupos étnicos en el Estado, así como el reconocimiento de la diversidad cultural y el desarrollo de relaciones de convivencia interculturales del Estado.
+VIII. Generar centros de capacitación regionales y comunitarios que fomenten la construcción de la equidad social entre los diversos grupos étnicos, así como los pueblos y comunidades afromexicanas en el Estado, así como el reconocimiento de la diversidad cultural y el desarrollo de relaciones de convivencia interculturales del Estado;
 
 IX. Estimular en todos los sectores de la población, el fomento de la cultura popular y la educación artística, formal e informal, el fomento a la lectura, las artes plásticas, la música, las artes escénicas, audiovisuales, tecnologías culturales, la creación literaria, la difusión editorial entre otras;
 
@@ -319,7 +319,9 @@ III. Igualdad de Género.
 
 IV. Formación, Capacitación, Educación e Investigación Artística y Cultural;
 
-V. Difusión y divulgación cultural; y
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+V. Difusión, divulgación cultural, reconocimiento y protección de los conocimientos, aportes y contribuciones en la historia y a la diversidad cultural del Estado;
 
 VI. Desarrollo Cultural Sustentable.
 
@@ -479,15 +481,19 @@ Por lo que en diseño y ejecución de los programas para el respeto a la diversi
 
 I. Contribuir al reconocimiento de formas de organización, concepciones del mundo, lenguajes y desarrollo de las capacidades estéticas de los portadores de las culturas populares, especialmente las indígenas, así como a la protección y preservación de sus costumbres y tradiciones en cualquiera de sus manifestaciones.
 
-II. Apoyar a los creadores para realizar proyectos culturales de alto impacto en sus comunidades a través de programas que destinen recursos económicos, asesoría y gestión, en una vinculación directa con las comunidades y en estrecha relación con las instancias estatales de cultura;
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-III. Fortalecer las expresiones del arte popular y la artesanía mexicanas, fortaleciendo sus raíces, y construir puentes de interculturalidad, con respeto a las concepciones culturales propias de cada expresión étnica;
+II. Tratándose de los pueblos y comunidades afromexicanas contribuir al reconocimiento de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva;
+
+III. Apoyar a los creadores para realizar proyectos culturales de alto impacto en sus comunidades a través de programas que destinen recursos económicos, asesoría y gestión, en una vinculación directa con las comunidades y en estrecha relación con las instancias estatales de cultura;
+
+IV. Fortalecer las expresiones del arte popular y la artesanía mexicanas, fortaleciendo sus raíces, y construir puentes de interculturalidad, con respeto a las concepciones culturales propias de cada expresión étnica;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2016)</small>
 
-IV. Fomentar la recuperación, revalorización y recreación de la tradición artística popular en el Estado, como parte de la preservación y salvaguardia del patrimonio cultural material e inmaterial; y
+V. Fomentar la recuperación, revalorización y recreación de la tradición artística popular en el Estado, como parte de la preservación y salvaguardia del patrimonio cultural material e inmaterial; y
 
-V. Investigar, recopilar y sistematizar el universo simbólico del arte popular, así como el significado de sus formas e iconografías expresado a través de su gran diversidad de lenguajes.
+VI. Investigar, recopilar y sistematizar el universo simbólico del arte popular, así como el significado de sus formas e iconografías expresado a través de su gran diversidad de lenguajes.
 
 ### CAPÍTULO QUINTO. FORMACIÓN, CAPACITACIÓN, EDUCACIÓN E INVESTIGACIÓN ARTÍSTICA Y CULTURAL
 
@@ -972,3 +978,11 @@ P.O. 9 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2473.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 18 DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, el cual entrará en vigor al día siguiente de su referida publicación.
+
+P.O. 12 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 614 MEDIANTE EL CUAL REFORMAN LAS FRACCIONES VI Y VIII DEL ARTÍCULO 6, Y LA FRACCIÓN V DEL ARTÍCULO 11; Y SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 22, TODAS DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
