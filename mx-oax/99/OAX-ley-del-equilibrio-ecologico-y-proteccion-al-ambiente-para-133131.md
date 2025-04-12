@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2025-02-10"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -137,7 +137,9 @@ XVIII. Disposición final: Acción de depositar permanentemente los residuos só
 
 XIX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XX. Educación ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+XX. Educación ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida, así como la asimilación de conocimientos para fomentar el uso de energías renovables;
 
 XXI. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, la transformación y el desarrollo del hombre y demás seres vivos;
 
@@ -621,9 +623,11 @@ Las Normas Técnicas Ambientales en materia ambiental son de cumplimiento obliga
 
 #### SECCIÓN V. DE LA INVESTIGACIÓN Y EDUCACIÓN ECOLÓGICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2025)</small>
+
 ###### Artículo 24.
 
-La Secretaría y autoridades municipales, en el ámbito de su competencia, promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+La Secretaría y autoridades municipales, en el ámbito de su competencia, promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, fomento y uso de energías renovables, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias en los diversos ciclos educativos especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
 Establecerán lineamientos, recomendaciones y directrices tendientes a que las autoridades e instancias educativas y culturales, públicas y privadas, introduzcan en sus procesos educativos, contenidos y metodologías para el desarrollo de conocimientos, cambio de hábitos y aptitudes en la población, orientadas a favorecer las transformaciones necesarias para alcanzar un desarrollo sustentable y un ambiente sano.
 
@@ -648,6 +652,10 @@ V. Promover tecnologías orientadas al aprovechamiento racional de los recursos 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2024)</small>
 
 VI. Establecer estrategias para el fomento y conservación del patrimonio natural en el Estado;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+VII. Diseñar y establecer estrategias para el fomento y uso de las energías renovables;
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
 
@@ -3322,3 +3330,11 @@ P.O. 10 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 609.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XX DEL ARTÍCULO 4, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 24; Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 25 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
