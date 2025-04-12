@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2024-10-05"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -353,7 +353,9 @@ I. Autogestión: Implica la recuperación del control de su calidad de vida, la 
 
 II. Consulta y consentimiento libre previo e informado: Derecho de los pueblos y comunidades indígenas de ser consultados y consensados para la implementación de los planes y programas de desarrollo social y humano;
 
-III. Equidad de género: Es la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género. La construcción de una nueva relación de convivencia social entre hombres y mujeres, desprovista de relaciones de dominación, estigmatización y sexismo;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+III. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, así como la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social, y
 
 IV. Equidad social: Se refiere a la superación de toda forma de desigualdad, exclusión o subordinación social basada en roles de género, edad, características físicas, pertenencia étnica, preferencia sexual, origen nacional, práctica religiosa o cualquier otra;
 
@@ -402,6 +404,10 @@ XXI. Universalidad: la política de desarrollo social está dirigida a todos los
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 XXII. Dignidad Humana: Cuyo sustento son los derechos humanos por el que se reconoce a toda persona la libertad y la igualdad, actuando como objetivo de las acciones de la política de desarrollo social.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+XXIII. Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Oaxaca y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte
 
 ###### Artículo 16.
 
@@ -1844,3 +1850,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 608.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 15 DE LA LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
