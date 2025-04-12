@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-11-02"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -613,7 +613,13 @@ La Secretaría de Salud a través de los Servicios de Salud de Oaxaca pondrán a
 
 II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
-III.- Que se asegure la adecuada distribución y comercialización de los medicamentos e insumos para los servicios de salud de la entidad.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+III.- Que se asegure la adecuada distribución y comercialización de los medicamentos e insumos para los servicios de salud de la entidad; y
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+IV.- Promover y vigilar la aplicación oportuna de las vacunas contenidas en el Programa de Vacunación Universal, a las niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2023)</small>
 
@@ -925,9 +931,9 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención humanizada de la mujer sin violencia, ni discriminación y con enfoque de derechos humanos durante el embarazo, el parto y el puerperio.
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción del derecho a recibir oportunamente las vacunas contenidas en el Programa de Vacunación Universal;
 
 > <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4566,3 +4572,7 @@ P.O. 2 DE NOVIEMBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE ABRIL DE 2025.
+
+> <small>[N. DE E. EL "DECRETO NÚM. 602.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 31; LA FRACCIÓN II DEL ARTÍCULO 56; LAFRACCIÓN VI AL ARTÍCULO 60; LA FRACCIÓN III AL ARTÍCULO 94 Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 31; LA FRACCION VII, RECORRIENDO LA SUBSECUENTE AL ARTICULO 60; Y EL ARTICULO 312 BIS, TODOS DE LA LEY ESTATAL DE SALUD", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTA EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]</small>
