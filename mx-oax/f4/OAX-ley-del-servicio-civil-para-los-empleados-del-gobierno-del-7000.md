@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2024-10-12"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -189,17 +189,25 @@ ARTICULO 19 BIS.- Durante la jornada continua a que se refieren los artículos 1
 
 Por cada seis días de servicio, el empleado disfrutará de un día de descanso con goce de sueldo íntegro.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 21.
 
-Las mujeres disfrutarán de un descanso de treinta días anteriores y sesenta días posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda se podrá transferir hasta veinte de los treinta días de descanso previos al parto para después del mismo.
+Las mujeres y personas gestantes disfrutarán de un descanso de treinta días anteriores y sesenta días posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda se podrá transferir hasta veinte de los treinta días de descanso previos al parto para después del mismo.
 
-También gozarán del período de lactancia hasta por el término máximo de seis meses y derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día de una hora, para alimentar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrá acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo los primeros seis meses y complementario hasta avanzado el segundo año de edad.
+Las mujeres y personas lactantes gozarán del período de lactancia hasta por el término máximo de seis meses y derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día de una hora, para alimentar a sus hijas o hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrá acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
-En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
+En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente
 
-En caso de adopción de un infante disfrutarán de un descanso de seis semanas con goce de sueldo, posteriores al día en que lo reciban.
+La otra persona progenitora gozará de un permiso de cuarenta días laborables con goce íntegro de sueldo, contados a partir del nacimiento de su hija o hijo, el cual deberá ser acreditado con documento idóneo.
+
+Las y los trabajadores al servicio del estado disfrutarán de un permiso en caso de la adopción de un infante, el cual comenzará a contarse a partir de la entrega física de la niña, niño o adolescente por parte de la institución oficialmente responsable, que deberá acreditarlo con documento idóneo y; que se aplicará en los términos siguientes:
+
+I. En el caso de que la niña o el niño adoptado tenga menos de seis meses de edad, la licencia será de cuarenta días naturales, contados a partir de la entrega de la niña o niño adoptado.
+
+II. Cuando la niña o niño adoptado tenga entre seis y doce meses de edad, la licencia será de treinta días naturales.
+
+Si la niña o el niño adoptado es mayor de doce meses, la licencia será de quince días naturales.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -1203,7 +1211,7 @@ TERCERO. Se derogan todas las disposiciones legales de menor jerarquía que se o
 
 P.O. 30 DE MARZO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1933.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 QUÁTER A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1933.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 21 QUÁTER A LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
 
@@ -1218,3 +1226,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Los poderes Ejecutivo, Legislativo y Judicial, deberán expedir en un plazo de 60 días naturales los lineamientos generales que regirán esta relación laboral.
+
+P.O. 12 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 601.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 21 DE LA LEY DE SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
