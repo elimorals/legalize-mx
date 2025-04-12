@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2024-10-12"
+last_updated: "2025-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -231,9 +231,9 @@ LXVII. Riesgo Inminente: aquel riesgo que según la opinión de una instancia t�
 
 LXVIII. Reglamento: al Reglamento de esta Ley;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
 
-LXIX. Secretaría: a la Secretaría de Gobierno;
+LXIX. Secretaría: a la Secretaría de Seguridad y Protección Ciudadana;
 
 LXX. Simulacro: representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
 
@@ -479,11 +479,11 @@ Igualmente, en cada uno de sus ámbitos se asegurarán del correcto funcionamien
 
 El Coordinador Estatal con sustento en las Leyes y disposiciones locales, propiciará una distribución estratégica de las tareas entre las Delegaciones Regionales ubicadas con criterios basados en la localización de los riesgos, necesidades y recursos disponibles.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2025)</small>
 
 ###### Artículo 22.
 
-La coordinación ejecutiva del Sistema Estatal recaerá en la Secretaría de Gobierno, a través de la Coordinación Estatal, la cual tendrá las atribuciones que le confieren la presente Ley y su Reglamento.
+La coordinación ejecutiva del Sistema Estatal recaerá en la Secretaría de Seguridad y Protección Ciudadana, a través de la Coordinación Estatal, la cual tendrá las atribuciones que le confieren la presente Ley y su Reglamento.
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL
 
@@ -813,11 +813,11 @@ La Coordinación Estatal prestará al Consejo Consultivo la colaboración necesa
 
 ### Capítulo IV. De la Coordinación Estatal de Protección Civil y Gestión de Riesgos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2025)</small>
 
 ###### Artículo 33.
 
-Se crea la Coordinación Estatal de Protección Civil y Gestión de Riesgos, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gobierno, con domicilio en la Ciudad de Oaxaca de Juárez y Delegaciones Regionales en el interior del Estado; tendrá a su cargo la organización, coordinación y operación del Sistema Estatal de Protección Civil; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo una entidad paraestatal con ámbito competencial en todo el Estado, con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos, de desastres y protección civil.
+Se crea la Coordinación Estatal de Protección Civil y Gestión de Riesgos, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Seguridad y Protección Ciudadana, con domicilio en la Ciudad de Oaxaca de Juárez y Delegaciones Regionales en el interior del Estado; tendrá a su cargo la organización, coordinación y operación del Sistema Estatal de Protección Civil; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo una entidad paraestatal con ámbito competencial en todo el Estado, con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos, de desastres y protección civil.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS, FRACCIONES Y NUMERALES], P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -831,47 +831,51 @@ II. Un Coordinador Estatal, y
 
 III. La estructura orgánica que requiera para su funcionamiento.
 
-B). La Junta Directiva será la máxima autoridad de la Coordinación Estatal.
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 12 DE ABRIL DE 2025, EL ANTERIOR NUMERAL 1 PASO A FORMAR PARTE DEL PRIMER PÁRRAFO DEL INCISO B.]</small>
 
-1. Estará integrada por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+B) La Junta Directiva será la máxima autoridad de la Coordinación Estatal; estará integrada por:
 
-I. Un Presidente, que será el Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+I. Un Presidente, que será la persona titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 II. Un Secretario Técnico, que será el Coordinador Estatal;
 
-III. Los vocales siguientes:
+> <small>(REFORMADA [N. DE E. CON SUS VOCALES], P.O. 12 DE ABRIL DE 2025)</small>
 
-Vocal A, el Titular de la Secretaría de Finanzas;
+III. Las vocalías siguientes:
 
-Vocal B, el Titular de la Secretaría de Administración;
+Vocal A, la persona titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+Vocal B, la persona titular de la Secretaría de Administración;
 
-Vocal C, el Titular de la Secretaría de Seguridad y Protección Ciudadana;
+Vocal C, la persona titular de la Comisión Estatal Forestal;
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+Vocal D, la persona titular de la Secretaría de las Infraestructuras y Comunicaciones;
 
-Vocal D, el Titular de la Secretaría de Infraestructuras y Comunicaciones;
+Vocal E, la persona titular de la Secretaría de Salud;
 
-Vocal E, el Titular de la Secretaría de Salud;
+Vocal F, la persona titular del Instituto de Planeación para el Bienestar;
 
-Vocal F, el Titular de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+Vocal G, la persona titular de la Secretaría de Bienestar, Tequio e Inclusión;
 
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ANTES NUMERAL 1], P.O. 12 DE ABRIL DE 2025)</small>
 
-Vocal G, la o el Titular de la Secretaría del Bienestar del Estado de Oaxaca
+IV. Un Comisario, que será la persona titular de la Secretaría de Honestidad, Transparencia y Función Pública.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ANTES NUMERAL 2], P.O. 12 DE ABRIL DE 2025)</small>
 
-1. Un Comisario, que será el Titular de la Secretaría de Honestidad, Transparencia y Función Pública;
+1. Cada miembro propietario de la Junta designará un suplente mediante oficio dirigido al Presidente de la Junta Directiva; siempre que el Suplente no esté impedido legalmente para ese efecto; cuyo cargo será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones de la Junta Directiva.
 
-2. Cada miembro propietario de la Junta Directiva designará un suplente mediante oficio dirigido al Presidente de la Junta Directiva; siempre que el Suplente no esté impedido legalmente para ese efecto, cuyo cargo será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones de la Junta Directiva.
+> <small>(REFORMADO [N. DE E. ANTES SEGUNDO PÁRRAFO DEL NUMERAL 2], P.O. 12 DE ABRIL DE 2025)</small>
 
 Los acuerdos de la Junta Directiva se tomarán por mayoría de votos y el quórum se integrará con la asistencia de la mitad más uno de sus miembros con derecho a voto, siempre que entre ellos se encuentre el Presidente de la misma o su suplente.
 
-La Junta Directiva celebrará sesiones ordinarias trimestralmente, las cuales serán convocadas por el Presidente. Podrán celebrarse sesiones extraordinarias, cuando el Presidente lo estime conveniente o a petición de una tercera parte de los miembros de la misma; dichas sesiones serán convocadas a través del Secretario Técnico por instrucciones del Presidente. Sus integrantes participarán en las sesiones con voz y voto; excepto el Secretario Técnico y el Comisario, quienes tendrán voz pero no voto. En caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO [N. DE E. ANTES TERCER PÁRRAFO DEL ANTERIOR NUMERAL 2], P.O. 12 DE ABRIL DE 2025)</small>
+
+2. La Junta Directiva celebrará sesiones ordinarias trimestralmente, las cuales serán convocadas por el Presidente. Podrán celebrarse sesiones extraordinarias, cuando el Presidente lo estime conveniente o a petición de una tercera parte de los miembros de la misma; dichas sesiones serán convocadas a través del Secretario Técnico por instrucciones del Presidente. Sus integrantes participarán en las sesiones con voz y voto; excepto el Secretario Técnico y el Comisario, quienes tendrán voz pero no voto. En caso de empate, el Presidente tendrá voto de calidad.
 
 Las convocatorias y el orden del día se comunicarán por escrito cuando menos con cinco días hábiles de anticipación tratándose de sesiones ordinarias y de un día natural si se trata de sesiones extraordinarias, indicando la convocatoria en cada caso lugar, fecha y hora en que se celebrará la sesión, remitiéndose la documentación correspondiente. Tratándose de sesiones extraordinarias, se indicará el asunto específico que las motiva.
 
@@ -984,6 +988,10 @@ III. Las aportaciones, transferencias y subsidios que reciba de los gobiernos fe
 IV. Los bienes que adquiera, respecto de otras entidades públicas o particulares por concepto de donación, compra-venta, cesión o cualquier otro título legal, y
 
 V. Los ingresos que genere su propio patrimonio.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2025)</small>
+
+10. Las relaciones laborales entre la Coordinación Estatal de Protección Civil y Gestión de Riesgos y su personal de confianza, así como el de contrato, mandos medios y superiores, se regirán conforme a lo establecido en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 34.
 
@@ -1165,9 +1173,17 @@ LVI.- Expedir nombramientos internos y honoríficos de los delegados regionales 
 
 LVII. Promover y coordinar, con la Federación, los Municipios instituciones privadas y el sector social, la constitución de mecanismos tendientes a la obtención y donación de alimentos para ser entregados a las personas afectadas por los desastres naturales; y
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+LVIII. Comprar o arrendar maquinaria, así como vehículos necesarios para el cumplimiento de su objeto, tendientes a la mejora de la infraestructura que represente un riesgo a la seguridad de los habitantes, así como para la prevención de desastres.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
+
+LIX. Apoyar con maquinaria y equipo a los municipios en las tareas de mantenimiento, mejora de la infraestructura que represente un riesgo a la seguridad de los habitantes, así como para la prevención de desastres.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE FEBRERO DE 2023)</small>
 
-LVIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
+LX. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -1180,6 +1196,12 @@ Para el debido cumplimiento de sus atribuciones, la Coordinación Estatal operar
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 Las atribuciones y funciones específicas del Coordinador Estatal derivadas de esta Ley, se establecerán en su Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2025)</small>
+
+###### Artículo 36 Bis.
+
+En la adquisición, arrendamiento o la obtención de uso de maquinaria, equipo, herramientas, materiales, y en su caso, vehículos para auxiliar en la atención inmediata o urgente de riesgos, vulnerabilidades, siniestros y fenómenos perturbadores, así como para la atención inmediata a infraestructura que represente un riesgo para la población y en la atención de desastres, se podrán contratar a través de procedimientos por excepción a la licitación, en los casos en donde la atención se requiere de manera inmediata y la Coordinación Estatal no cuente con los materiales suficientes para poder ejercer sus funciones.
 
 > <small>(REFORMADO [N. DE E. ESTA PÁRRAFO], P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2338,3 +2360,17 @@ P.O. 12 DE OCTUBRE DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 623.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXIX DEL ARTÍCULO 4; EL ARTÍCULO 22; EL PRIMER PÁRRAFO, LAS FRACCIONES I Y III, Y LOS NUMERALES 1 Y 2 DEL INCISO B) DEL ARTÍCULO 33; Y SE ADICIONA EL NUMERAL 10 AL ARTÍCULO 33; LAS FRACCIONES LVIII Y LIX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 35, Y EL ARTÍCULO 36 BIS, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan a salvo los derechos laborales del personal de base que hayan estado adscritos hasta antes del presente Decreto, quienes continuarán rigiéndose por lo dispuesto en el Apartado "B" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO. El personal de base que ingrese después de la vigencia del presente decreto, regirá su relación laboral por lo dispuesto en el Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+QUINTO. La Coordinación Estatal de Protección Civil y Gestión de Riesgos deberá a la brevedad posible, llevar a cabo los procedimientos correspondientes para registrar al personal de contrato, confianza, mandos medios y superiores en el régimen de seguridad social del Instituto Mexicano del Seguro Social.
