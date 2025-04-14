@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-03-10"
+last_updated: "2025-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -176,6 +176,14 @@ El Estado promoverá el desarrollo integral de las personas jóvenes, a través 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
 
 Toda persona tiene derecho a desarrollarse en un entorno seguro y a vivir libre de violencia. El Estado implementará las políticas públicas necesarias para garantizar la seguridad ciudadana.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2025)</small>
+
+Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El derecho a la información será garantizado por el Estado, debiendo observar en todo momento los principios y bases establecidas en el apartado A del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2025)</small>
+
+Las autoridades garantes de los derechos de acceso a la información y protección de datos personales en el Estado, serán, por parte del Ejecutivo, la Contraloría del Estado, quién además, conocerá de los asuntos en materia de transparencia y protección de datos personales de los Municipios; por parte de los Poderes Legislativo, Judicial y demás sujetos obligados, serán sus Órganos Internos de Control; y, el Instituto Estatal Electoral, conocerá de los partidos políticos locales, en términos de lo dispuesto por las leyes secundarias en la materia.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -577,9 +585,9 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
 
-II.- Las personas Magistradas, tanto del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, del Tribunal Electoral, y las Personas Juzgadoras; personas Secretarias de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; a la persona Titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes; y las personas delegadas de las dependencias federales en el Estado.
+II.- Las personas Magistradas, tanto del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, del Tribunal Electoral, y las Personas Juzgadoras; las personas Secretarias de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona Titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado.
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -809,9 +817,7 @@ XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuici
 
 XXXVI.- Expedir, modificar o abrogar, la Ley Orgánica del Tribunal de Justicia Administrativa y las leyes relativas en la materia, para su organización, funcionamiento y regulación, respetando los preceptos establecidos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
-
-XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Comisión Legislativa de Transparencia y Anticorrupción a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos;
+XXXVII.- (DEROGADA, P.O. 14 DE ABRIL DE 2025)
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
 
@@ -1221,9 +1227,7 @@ XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios
 
 El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
-
-XX.- Objetar, en su caso, el nombramiento de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, designados por el Congreso del Estado, conforme a lo dispuesto por la Ley de la materia;
+XX.- (DEROGADA, P.O. 14 DE ABRIL DE 2025)
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -1793,7 +1797,7 @@ II.- La Fiscalía General del Estado, prevista en el Artículo 59 de esta Consti
 
 III.- La Comisión Estatal de Derechos Humanos, prevista en el Artículo 62 de esta Constitución; y
 
-IV.- El Instituto de Transparencia del Estado, previsto en el Artículo 62 A de esta Constitución.
+IV.- (DEROGADA, P.O. 14 DE ABRIL DE 2025)
 
 > <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOTERCERO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
@@ -2063,27 +2067,7 @@ V. El Congreso del Estado llamará a los electos para que rindan la protesta de 
 
 La Ley establecerá las bases del servicio profesional en el organismo.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 62 A.- Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El derecho a la información será garantizado por el Estado.
-
-El Instituto de Transparencia del Estado de Aguascalientes es un órgano autónomo, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica y de gestión; responsable de garantizar el cumplimiento del derecho de acceso a la información pública y la protección de los datos personales en posesión de los sujetos obligados conforme a los principios, bases y procedimientos establecidos en el Artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley local de la materia y demás disposiciones aplicables; regirá su funcionamiento de acuerdo a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto para el buen desahogo de sus funciones. Para asegurar el cumplimiento de sus determinaciones, el Instituto podrá imponer las medidas de apremio que prevea la ley.
-
-El Instituto se integrará por tres Comisionados nombrados por el Congreso del Estado privilegiándose la experiencia en materia de acceso a la información pública y protección de datos personales, así como la igualdad de género en su conformación. Los requisitos para ser Comisionado se especificarán en la Ley de la materia.
-
-El Gobernador del Estado podrá objetar los nombramientos de Comisionados conforme a lo previsto en esta Constitución y en la Ley de la materia.
-
-El Congreso del Estado llamará a quien haya sido designado Comisionado para que rinda la protesta de ley.
-
-Los Comisionados durarán en su encargo un período de siete años, sin derecho a reelegirse.
-
-El Comisionado Presidente del Instituto será designado por los propios comisionados mediante mayoría de votos, durará en su encargo tres años pudiendo ser reelecto para un periodo igual, siempre y cuando la duración de su nombramiento lo permita.
-
-El Instituto contará con un Consejo Consultivo cuya conformación, funcionamiento y designación de sus integrantes se regulará en la Ley.
-
-La Ley de la materia y las disposiciones reglamentarias respectivas, establecerán las bases y principios del servicio civil de carrera en el Instituto.
+Artículo 62 A.- (DEROGADO, P.O. 14 DE ABRIL DE 2025)
 
 > <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOCUARTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
@@ -2219,9 +2203,9 @@ No pueden ser electos persona Titular de la Presidencia Municipal, persona Regid
 
 I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
 
-II. Las personas Magistradas, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial de Aguascalientes, del Tribunal Electoral y las personas Juzgadoras; personas Titulares de una Secretaría de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes; y las personas delegadas de las dependencias federales en el Estado;
+II. Las personas Magistradas, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial de Aguascalientes, del Tribunal Electoral y las personas Juzgadoras; personas Titulares de una Secretaría de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE AGOSTO DE 2024)</small>
 
@@ -2383,11 +2367,11 @@ CAPITULO DECIMOSEPTIMO
 
 De la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2025)</small>
 
 ###### Artículo 73.
 
-Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, a los Comisionados del Instituto de Transparencia del Estado y al personal de éste, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos y a los órganos u organismos autónomos quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos y a los órganos u organismos autónomos quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2409,9 +2393,9 @@ Serán sujetos de responsabilidad política los servidores públicos que en el e
 
 No procede el juicio político por el sólo hecho de la manifestación de ideas.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
 
-Serán sujetos de Juicio Político la persona titular de la Gubernatura del Estado, las Diputadas de Legislatura Local, las personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial Órgano de Administración Judicial (sic) del Poder Judicial del Estado, así como las personas Juzgadoras del Poder Judicial del Estado, las personas Titulares de las Dependencias del Poder Ejecutivo, la persona Fiscal General del Estado, la persona Consejera Presidenta y las personas Consejeros Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta de la y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes, a las personas Titulares de los órganos organismos (sic) públicos descentralizados, las personas Titulares de los organismos autónomos y las personas Directoras generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; la persona Titular de la Presidencia Municipal, personas Regidoras o Síndicas de los Ayuntamientos.
+Serán sujetos de Juicio Político la persona titular de la Gubernatura del Estado, las personas titulares de las Diputaciones de la Legislatura Local, las personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, así como las personas Juzgadoras del Poder Judicial del Estado, las personas Titulares de las Dependencias del Poder Ejecutivo, la persona Fiscal General del Estado, la persona Consejera Presidenta y las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, las personas Titulares de los organismos públicos descentralizados, las personas Titulares de los organismos autónomos y las personas Directoras generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; la persona Titular de las Presidencias Municipales, las personas Regidoras o Síndicas de los Ayuntamientos.
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2425,9 +2409,9 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la normatividad penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
 
-Para proceder penalmente en contra de las personas Diputadas Locales, la persona titular de la Gubernatura del Estado, las personas Magistradas del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, del Tribunal de Justicia Administrativa, la persona Titular de la Secretaría General de Gobierno, la persona Titular de la Fiscalía General del Estado, la persona Titular de la Presidencia Municipal, personas Regidoras o Síndicas de los Ayuntamientos, así la persona Consejera Presidenta y las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes, a la persona Comisionada Presidenta y las personas Comisionadas Ciudadanas del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de las personas Diputadas, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
+Para proceder penalmente en contra de las personas titulares de las Diputaciones del Poder Legislativo Local, la persona titular de la Gubernatura del Estado, las personas Magistradas del Supremo Tribunal de Justicia del Estado, del Tribunal de Disciplina Judicial de Aguascalientes, las personas integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, del Tribunal de Justicia Administrativa, la persona Titular de la Secretaría General de Gobierno, la persona Titular de la Fiscalía General del Estado, la persona Titular de las Presidencias Municipales, las personas Regidoras o Síndicas de los Ayuntamientos, así como la persona Consejera Presidenta y las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de las personas Diputadas, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando la persona acusada haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, la persona acusada quedará automáticamente separada de su cargo y sujeto a la acción de los tribunales comunes.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
 
@@ -2527,15 +2511,15 @@ c) El titular de la Fiscalía Estatal Especializada en Combate a la Corrupción;
 
 d) El titular de la secretaría del Ejecutivo del Estado, responsable del control interno;
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
 
-e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa;
+e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa, y
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
 
-f) Una persona representante del Tribunal de Disciplina Judicial de Aguascalientes; y
+f) Una persona representante del Tribunal de Disciplina Judicial de Aguascalientes.
 
-g) Un representante del Instituto de Transparencia del Estado.
+g) (DEROGADO, P.O. 14 DE ABRIL DE 2025)
 
 II.- Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
 
@@ -4626,3 +4610,45 @@ P.O. 10 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 140.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones del Instituto de Transparencia del Estado de Aguascalientes, serán asumidas, según corresponda, por el Poder Ejecutivo a través la Contraloría del Estado, quien conocerá también de los asuntos en materia de transparencia y protección de datos personales de los Municipios del Estado de Aguascalientes; por lo que respecta a los Poderes Judicial y Legislativo será por conducto de sus Órganos Internos de Control respectivamente; y en lo competente a los demás sujetos obligados responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, será en los términos que establezca la Constitución y demás leyes locales en las materias de acceso a la información y protección de datos personales.
+
+Para ello, el Congreso del Estado contará con un plazo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto, para llevar a cabo las adecuaciones necesarias a las leyes secundarias que correspondan para su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+El procedimiento de extinción del Instituto de Transparencia del Estado de Aguascalientes se deberá iniciar al día siguiente de la publicación de este Decreto, y deberá de concluir en un plazo no mayor a treinta días naturales contados a partir de su entrada en vigor.
+
+Las personas comisionadas que integran el Instituto de Transparencia del Estado de Aguascalientes, deberán llevar a cabo todos los actos y procesos administrativos y legales necesarios, que permitan la entrega a (sic) recepción, según corresponda, a la Contraloría del Estado de Aguascalientes, a los órganos internos de control de los Poderes Legislativo y Judicial, a los órganos constitucionales autónomos y a los municipios.
+
+Asimismo, deberá llevar a cabo los actos y procedimientos necesarios para extinguir o cancelar los fondos, mandatos o contratos análogos que no se encuentren previstos en una ley o demás ordenamientos legales o jurídicos, a fin de dar cumplimiento al término establecido en el presente artículo, por lo que deberá enterar a la Secretaría de Finanzas del Estado sobre la totalidad de los recursos financieros, así como los productos y aprovechamientos derivados de los mismos.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto no se expida la legislación secundaria para dar cumplimiento al presente Decreto, se seguirán aplicando las disposiciones normativas en materia de acceso a la información y protección de datos personales que sean vigentes.
+
+Los actos jurídicos emitidos por el Instituto de Transparencia del Estado de Aguascalientes, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales de las personas trabajadoras del Instituto de Transparencia del Estado de Aguascalientes serán respetados en su totalidad, de conformidad con las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, reglamentación interna y demás disposiciones aplicables para tal efecto.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales del Instituto de Transparencia del Estado de Aguascalientes a la Contraloría del Estado, a través de los acuerdos y procedimientos administrativos que según procedan.
+
+Para efecto de lo anterior, la Secretaría de Administración del Estado, Secretaría de Finanzas del Estado y la Contraloría del Estado, según corresponda, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
