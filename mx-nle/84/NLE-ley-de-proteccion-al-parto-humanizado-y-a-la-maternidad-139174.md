@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-al-parto-humanizado-y-a-la-maternidad-139174"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-20"
-last_updated: "2019-11-20"
+last_updated: "2025-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN AL PARTO HUMANIZADO Y A LA MATERNIDAD DIGNA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Segunda al Número 143 del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de Noviembre de 2019.
 
@@ -245,7 +245,9 @@ V.- Al acceso y continuidad en la educación, por lo que no podrá restringirse 
 
 VI.- A contar con asesoría legal por cualquier acto de discriminación, vejación y vulneración de sus derechos como mujer embarazada. En los casos que se considere necesario, gozará de los servicios de defensoría pública a través del Gobierno del Estado, para interponer los recursos, juicios o medios legales de defensa necesarios para proteger o reivindicar sus derechos; y
 
-VII.- Recibir apoyo psicológico o psiquiátrico durante el embarazo y después del parto cuando se trate de embarazos no previstos, a través del Sistema para el Desarrollo Integral de la Familia del Estado y la Secretaría de Salud del Estado, por el tiempo que el especialista señale. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad.
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
+
+VII.- Recibir apoyo psicológico o psiquiátrico durante el embarazo y después del parto que incluya atención psicológica perinatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado y la Secretaría de Salud del Estado, por el tiempo que el especialista señale. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad.
 
 ###### Artículo 16.
 
@@ -596,3 +598,13 @@ MANUEL ENRIQUE DE LA O CAVAZOS
 EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 GENARO ALANÍS DE LA FUENTE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 090. SE REFORMAN LAS FRACCIONES XIV, XXII Y XXIII DEL APARTADO A) DEL ARTÍCULO 4; EL ARTÍCULO 24; LA FRACCIÓN I DEL ARTÍCULO 25; LAS FRACCIONES III Y IV DEL ARTÍCULO 26; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN VIII Y LA FRACCIÓN IX DEL ARTÍCULO 73 BIS; LA FRACCIÓN V Y VI DEL ARTÍCULO 73 BIS IV; Y SE ADICIONA LA FRACCIÓN XXIV AL APARTADO A) DEL ARTÍCULO 4; LA FRACCIÓN I BIS AL ARTÍCULO 25; LA FRACCIÓN V AL ARTÍCULO 26; EL ARTÍCULO 31 BIS 2, EL ARTÍCULO 31 BIS 3; LA FRACCIÓN X AL ARTÍCULO 73 BIS; LA FRACCIÓN VII AL ARTÍCULO 73 BIS IV Y UN ARTÍCULO 98 BIS 3, TODOS DE LA LEY ESTATAL DE SALUD; Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 15 DE LEY DE PROTECCIÓN AL PARTO HUMANIZADO Y A LA MATERNIDAD DIGNA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal del ente ejecutor.
