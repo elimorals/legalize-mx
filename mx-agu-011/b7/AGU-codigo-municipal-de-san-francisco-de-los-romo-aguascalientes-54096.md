@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2024-12-02"
+last_updated: "2025-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2025.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -271,6 +271,8 @@ En la medida de lo posible las comisiones y servidores públicos que integren la
 
 El H. Ayuntamiento del Municipio de San Francisco de los Romo residirá en la ciudad cabecera municipal o donde transitoriamente decida hacerlo y será encargado de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios municipales y velar por los intereses del Municipio.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2025)</small>
+
 ###### ARTICULO 16.
 
 Son Autoridades del Gobierno Municipal, en orden jerárquico, las siguientes:
@@ -289,9 +291,9 @@ VI. Los Delegados Municipales; y
 
 VII. Los Comisarios Municipales.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 22 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2025)</small>
 
-Los Organismos Auxiliares serán honorarios y ejercerán las atribuciones que les confieran las Autoridades Municipales, siendo de carácter enunciativo más no limitativo los siguientes:
+ARTICULO 16 BIS.- Los Organismos Auxiliares serán honorarios y ejercerán las atribuciones que les confieran las Autoridades Municipales, siendo de carácter enunciativo más no limitativo los siguientes:
 
 I. Consejo de Desarrollo Municipal;
 
@@ -318,8 +320,6 @@ XI. Comisión para la Prevención del Delito;
 XII. Comisión del Combate al Narcomenudeo;
 
 XIII. Los Comités de Obras;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2023)</small>
 
 XIV. Consejo Municipal de Ordenamiento Territorial y Desarrollo Urbano;
 
@@ -23642,5 +23642,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 2 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA NUEVA FRACCIÓN IX AL ARTÍCULO 68 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE ABRIL DE 2025.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE SE “REFORMA AL SEGUNDO PÁRRAFO DEL ARTÍCULO 16 PARA CONVERTIRSE EN ARTÍCULO 16 BIS DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]</small>
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
