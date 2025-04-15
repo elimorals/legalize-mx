@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-educacion-para-el-estado-de-tlaxcala-143221"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-26"
-last_updated: "2024-03-21"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 26 de mayo de 2020.
 
@@ -1133,9 +1133,11 @@ La Autoridad Educativa, en el ámbito de su competencia, aplicará y vigilará e
 
 Las Autoridades Educativas realizarán acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de los educandos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2025)</small>
+
 ###### Artículo 79.
 
-Dentro de las escuelas queda prohibida la distribución y comercialización de los alimentos que no favorezcan la salud de los educandos, así como las bebidas energizantes.
+Dentro de las escuelas queda prohibida la publicidad, preparación, distribución, expendio, venta o donación, de productos preenvasados, alimentos y bebidas no alcohólicas, procesados, ultra procesados y a granel, que no favorezcan la salud de las personas estudiantes o la pongan en riesgo por su bajo valor nutricional, que excedan los límites máximos de calorías, azúcares, grasas saturadas, grasas trans y sodio añadidos, en términos de la Ley General de Salud, la Modificación a la Norma Oficial Mexicana NOM-051-SCFI/SSA1-2010 y los Lineamientos Generales emitidos por las Secretarías de Salud y de Educación Pública Federal, a los que deberán sujetarse a la preparación, distribución y expendio de los alimentos y bebidas, con el objeto de fomentar los estilos de vida saludables en alimentación dentro de los centros educativos.
 
 Las Autoridades Educativas promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
 
@@ -2504,6 +2506,18 @@ Se derogan las disposiciones que contravengan el contenido de este Decreto.
 P.O. 21 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 341.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, LEY DE CULTURA FÍSICA Y DEPORTE, LEY MUNICIPAL, TODAS PARA EL ESTADO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 15 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 145.– SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 50 BIS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TLAXCALA, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 79 DE LA LEY DE EDUCACIÓN PARA EL GOBIERNO DE TLAXCALA”.]
 
 ###### ARTÍCULO PRIMERO.
 
