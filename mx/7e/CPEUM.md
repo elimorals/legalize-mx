@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2025-04-01"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2025.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1170,9 +1170,9 @@ La ley establecerá los mecanismos que faciliten la organización y la expansió
 
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, promoviendo la competitividad e implementando una política nacional para el desarrollo industrial sustentable que incluya vertientes sectoriales y regionales, en los términos que establece esta Constitución.
 
-> <small>(ADICIONADO, D.O.F. 5 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2025)</small>
 
-A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero, sexto y noveno de este artículo, las autoridades de todos los órdenes de gobierno, en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la ley general en la materia.
+A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la ley nacional en la materia.
 
 > <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
 
@@ -2908,9 +2908,9 @@ XXIX-W. Para expedir leyes en materia de responsabilidad hacendaria que tengan p
 
 XXIX-X. Para expedir la ley general que establezca la concurrencia de la federación, las entidades federativas, los municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de las víctimas.
 
-> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2025)</small>
 
-XXIX-Y. Para expedir la ley general que establezca los principios y bases a los que deberán sujetarse los órdenes de gobierno, en el ámbito de sus respectivas competencias, en materia de mejora regulatoria;
+XXIX-Y. Para expedir la ley nacional que establezca los principios y obligaciones a los que deberán sujetarse los órdenes de gobierno, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas;
 
 > <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2017)</small>
 
@@ -9551,3 +9551,19 @@ D.O.F. 1 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE APOYO A JÓVENES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO DÉCIMO DEL ARTÍCULO 25 Y LA FRACCIÓN XXIX-Y DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA Y DIGITALIZACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo que no excederá de noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso de la Unión expedirá la legislación a que se refiere el artículo 73, fracción XXIX-Y, de esta Constitución.
+
+Tercero.- La ley nacional a que se refiere el artículo 73, fracción XXIX-Y, de esta Constitución deberá considerar al menos lo siguiente:
+
+1. Un modelo nacional de simplificación y digitalización de trámites y servicios;
+
+2. Establecer la autoridad nacional en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas y públicas, y
+
+3. Prever herramientas de simplificación y digitalización de trámites y servicios.
