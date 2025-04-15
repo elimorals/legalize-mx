@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg54-2025-del-consejo-general-del-instituto-178081"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-02-19"
-last_updated: "2025-02-19"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178081&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2025-01-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA FISCALIZACIÓN DE LOS PROCESOS ELECTORALES DEL PODER JUDICIAL, FEDERAL Y LOCALES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 15 DE ABRIL DE 2025, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2025.
 
 Acuerdo publicado en el Número 047/2025 del Diario Oficial de la Federación, el miércoles 19 de febrero de 2025.
 
@@ -82,3 +84,19 @@ https://ine.mx/sesion-extraordinaria-del-consejo-general-30-de-enero-de-2025-al-
 Página DOF
 
 www.dof.gob.mx/2025/INE/CGext202501_30_ap_8.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE ABRIL DE 2025.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICAN LOS LINEAMIENTOS PARA LA FISCALIZACIÓN DE LOS PROCESOS ELECTORALES DEL PODER JUDICIAL, FEDERAL Y LOCALES, EN CUMPLIMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-JDC-1235/2025 Y ACUMULADOS", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica el anexo del Acuerdo INE/CG54/2025, por el que se emitieron los Lineamientos para la fiscalización de los de los Procesos Electorales del Poder Judicial Federal y Locales, en los términos precisados en los Considerando 7 del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección Ejecutiva de Asuntos Jurídicos de este Instituto para que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, el cumplimiento a lo ordenado al resolver el expediente SUP-JDC-1235/2025 y acumulados.
+
+TERCERO. Hágase del conocimiento el presente Acuerdo a los 32 Organismos Públicos Electorales Locales, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+
+CUARTO. Se instruye a la Unidad Técnica de Fiscalización para que notifique el presente Acuerdo a las personas candidatas a los cargos del Poder Judicial, Federal y Locales, a través del buzón electrónico que para tal efecto se establezca, conforme al artículo 498 de la Ley General de Instituciones y Procedimientos Electorales.
+
+QUINTO. Publíquese en la página de Internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
