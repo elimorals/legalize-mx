@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-02-20"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -123,9 +123,17 @@ VII.- Contar con facilidades para obtener una segunda opinión;
 
 VIII.- Recibir atención médica en caso de urgencia;
 
-IX.- Contar con un expediente clínico y a solicitar un resumen clínico; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2025)</small>
 
-X.- Ser atendido cuando se inconforme por la atención médica recibida.
+IX.- Contar con un expediente clínico y a solicitar un resumen clínico;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2025)</small>
+
+X.- Ser atendido cuando se inconforme por la atención medica recibida; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2025)</small>
+
+XI.- Derecho a una atención primaria de salud basada en la persona y la comunidad, promovida a través de una colaboración intersectorial donde los sectores de salud, desarrollo social, privado, educación, y trabajo se involucren en la planeación y ejecución de programas de salud. Las acciones incluirán brigadas de atención domiciliaria, jornadas de salud comunitarias, centros de atención móvil, y programas de prevención, promoción y autocuidado, atención a la salud, rehabilitación y cuidados paliativos, en los que la población participe activamente en la construcción de su salud.
 
 ###### ARTICULO 3°.
 
@@ -4112,6 +4120,14 @@ El cumplimiento del presente Decreto estará sujeto a la disponibilidad presupue
 P.O. 20 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-244 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3°, FRACCIÓN I, INCISO P); 17, FRACCIÓN II; 88 Y 89; Y SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 5°, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-277 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX, X Y SE ADICIONA UNA FRACCIÓN XI, AL ARTÍCULO 2° TER, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
