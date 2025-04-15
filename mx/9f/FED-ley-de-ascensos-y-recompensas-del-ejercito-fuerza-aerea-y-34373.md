@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2022-09-09"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -145,9 +145,17 @@ I. Por propuesta, previo concurso en cada Organismo, para cubrir las plazas de C
 
 II. Por egreso de algún establecimiento de educación militar, al aprobar satisfactoriamente el curso respectivo, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2025)</small>
 
-III. Por aprobar satisfactoriamente el cuarto año en las carreras que imparten las Escuelas Militar de Ingenieros y Médico Militar, y ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
+III. Por aprobar satisfactoriamente el cuarto año en las carreras que imparten las Escuelas Militar de Ingeniería, de Medicina y de Odontología, y ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ABRIL DE 2025)</small>
+
+III Bis. Por cursar una especialidad con una duración mínima de tres años en la Escuela Militar de Graduados de Sanidad, los Mayores y Oficiales Médicos Cirujanos que tengan derecho a participar en la promoción general, estarán exentos de presentar los exámenes teóricos y podrán ascender por rigurosa escala jerárquica, hasta el grado de Teniente Coronel, siempre y cuando cumplan los demás requisitos establecidos en esta Ley, su reglamento y disposiciones que emita el Estado Mayor Conjunto de la Defensa Nacional;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ABRIL DE 2025)</small>
+
+III Ter. Por acreditar una especialidad con una duración mínima de tres años en la Escuela Militar de Graduados de Sanidad u otra institución educativa, nacional o internacional, los Mayores y Oficiales Médicos Cirujanos que cuenten con cédula profesional y certificado de especialidad avalado por el Comité Normativo Nacional de Consejos de Especialidades Médicas, podrán ascender por rigurosa escala jerárquica hasta Teniente Coronel, siempre y cuando reúnan los demás requisitos establecidos en esta Ley, su reglamento, el artículo 196 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como las disposiciones que emita el Estado Mayor Conjunto de la Defensa Nacional;
 
 IV. Por acreditación de la aptitud profesional en la promoción especial para Subtenientes egresados de las escuelas de formación;
 
@@ -157,7 +165,9 @@ a. Promoción de especialistas para Sargentos Primeros de los servicios y especi
 
 b. La promoción general para los Subtenientes hasta Mayores de las armas o servicios.
 
-VI. Por acuerdo del Presidente de la República, tomando en consideración los resultados de la promoción superior para los ascensos a Coronel y hasta General de División, y
+> <small>(REFORMADA, D.O.F. 15 DE ABRIL DE 2025)</small>
+
+VI. Por acuerdo de la persona titular del Ejecutivo Federal, tomando en consideración los resultados de la promoción superior para los ascensos a Coronel y hasta General de División, y
 
 VII. Por los supuestos del artículo 31 de esta Ley.
 
@@ -215,7 +225,9 @@ III. Acreditar los conocimientos de su especialidad mediante certificado expedid
 
 En tiempo de paz, los ascensos de Subteniente hasta Teniente Coronel, sólo serán conferidos en concurso de selección, en el que podrán participar los militares del mismo escalafón y jerarquía para establecer su derecho al ascenso, previa comprobación de las circunstancias señaladas en el artículo 8 de esta Ley.
 
-Quedan exceptuados de esta disposición los ascensos a que se refieren las fracciones II, III, V inciso a, y VII del artículo 9 de esta Ley, los cuales serán conferidos fuera de concurso. Los militares que asciendan con base en la fracción VII del artículo mencionado, estarán obligados a efectuar y aprobar los cursos estatuidos por la normativa vigente en materia de educación militar al momento de su ascenso, para quedar capacitados en el desempeño de su nuevo empleo.
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 2025)</small>
+
+Quedan exceptuados de esta disposición los ascensos a que se refieren las fracciones II, III, III Ter, V inciso a, y VII del artículo 9 de esta Ley, los cuales serán conferidos fuera de concurso. Los militares que asciendan con base en la fracción VII del artículo mencionado, estarán obligados a efectuar y aprobar los cursos estatuidos por la normativa vigente en materia de educación militar al momento de su ascenso, para quedar capacitados en el desempeño de su nuevo empleo.
 
 ###### ARTÍCULO 16.
 
@@ -1030,3 +1042,15 @@ CONFORME EL PERSONAL NAVAL SEA REASIGNADO A LA SECRETARÍA DE MARINA EN TÉRMINO
 Octavo.- Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
 
 Noveno.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
+
+D.O.F. 15 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Tercero.- La Secretaría de la Defensa Nacional, conforme a su presupuesto autorizado, determinará el número de vacantes que se otorgarán anualmente al personal objeto de la presente reforma.
+
+Cuarto.- Todas las referencias que hagan mención a la Escuela Militar de Ingenieros y a la Escuela Médico Militar contenidas en otros ordenamientos, se entenderán realizadas a la Escuela Militar de Ingeniería y a la Escuela Militar de Medicina.
