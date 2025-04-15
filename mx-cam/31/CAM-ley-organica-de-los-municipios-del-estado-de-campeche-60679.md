@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2022-06-07"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -1220,6 +1220,16 @@ VIII. Celebrar contratos de comodato con propietarios de lotes baldíos, a que s
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2018)</small>
 
 IX. Las demás facultades que le atribuyan las leyes.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2025)</small>
+
+ARTÍCULO 107 BIS.- En materia de Política Ambiental Municipal, el Ayuntamiento tiene las facultades siguientes:
+
+a) Formular, aprobar y administrar las zonas de conservación ecológica de los centros de población, jardines públicos, parques urbanos, espacios abiertos con áreas verdes y demás áreas análogas previstas en la legislación local. Podrán favorecer el reúso y aprovechamiento del agua tratada en el riego de los parques y áreas verdes;
+
+b) La promoción del desarrollo del riego en parques y áreas verdes en su demarcación y la aprobación de recursos para fortalecer el funcionamiento y/o mantenimiento de las unidades de riego a su cargo; y
+
+c) Las demás que determinen otras disposiciones legales aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LOS ACTOS QUE REQUIEREN AUTORIZACIÓN DEL CONGRESO DEL ESTADO
 
@@ -2718,3 +2728,13 @@ OCTAVO.- El Ejecutivo Estatal y el H. Congreso del Estado deberán realizar las 
 NOVENO.- Conforme a lo dispuesto en el presente Decreto, el Ejecutivo Estatal cuenta con el plazo de cuarenta y cinco días hábiles, posteriores a la firma de los convenios a los que se hace referencia en los artículos 50 y 50 Bis, para la suscripción, actualización o modificación de los Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos celebrados por el Estado con los HH. Ayuntamientos.
 
 DÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 77 POR EL QUE SE “SE ADICIONA EL ARTÍCULO 107 BIS A LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En los casos que sean necesarios, los Ayuntamientos tendrán un plazo de ciento veinte días hábiles contados a partir de la entrada en vigor del presente decreto, para adecuar sus reglamentos conforme a lo establecido en el mismo.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
