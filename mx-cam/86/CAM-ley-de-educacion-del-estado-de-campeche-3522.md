@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2025-03-28"
+last_updated: "2025-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -179,9 +179,9 @@ XVI.- Fomentar y orientar la actividad científica y tecnológica de manera que 
 
 XVII.- Lograr que las experiencias y conocimientos obtenidos al adquirir, transmitir y acrecentar la cultura, se integren de tal modo que se armonicen tradición e innovación;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2025)</small>
 
-XVIII.- Fomentar el cuidado de la salud individual, prevenir sobre los perjuicios que causan los tóxicos y propiciar el rechazo a los vicios;
+XVIII.- Impulsar campañas permanentes de información y concientización dirigidas a niñas, niños y adolescentes, sobre la detección y prevención oportuna de la conducta suicida, así como los daños que provoca el consumo de sustancias psicoactivas a la salud física, mental, emocional y su rendimiento escolar, de conformidad con lo establecido en la Ley de Salud Mental para el Estado de Campeche y demás normatividad aplicable;
 
 XIX.- Excluir de la enseñanza toda instrucción y propaganda de cualquier credo o doctrina religiosa;
 
@@ -441,9 +441,21 @@ XXVI. Promover la universalización de la educación temprana o inicial en el Es
 
 XXVII.- Coordinarse con la Secretaría de Salud del Estado, para elaborar e integrar contenidos educativos que permitan sensibilizar a los alumnos sobre los diversos trastornos de salud mental y sus consecuencias, así como para implementar protocolos para la detección y atención oportuna de esos trastornos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2025)</small>
 
-XXVIII.- Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
+XXVIII. Promover la capacitación del personal docente del uso responsable y seguro de las tecnologías de la información y comunicación, fomentando y fortaleciendo las capacidades de los educandos;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2025)</small>
+
+XXIX. Fomentar la capacitación del personal docente en materias de derechos humanos, prevención de la violencia, acoso escolar, igualdad y no discriminación, así como la eliminación de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2025)</small>
+
+XXX. Garantizar, mediante programas, acciones, componentes y estrategias que, en los espacios educativos establecidos en el Estado de Campeche, se cuente con un ambiente saludable y seguro, libre de la distribución y consumo de sustancias psicotrópicas, enervantes u otros productos que puedan comprometer la salud y el bienestar de las y los educandos. Asimismo, se promoverán medidas tendientes a concientizar a la comunidad escolar sobre la introducción y portación de objetos que representen un riesgo para su integridad física y emocional, priorizando siempre el interés superior de la niñez y su derecho a una educación libre de violencia y conductas que afecten su desarrollo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2025)</small>
+
+XXXI. Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1672,3 +1684,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
 TERCERO.- Las Secretarías de Educación y de Salud, adoptarán las medidas necesarias en sus programas y acciones de trabajo, procurando que se realicen con sus previsiones presupuestales asignadas.
+
+P.O. 15 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 78 POR EL QUE "SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 11; LA FRACCIÓN XXVIII Y, SE ADICIONAN LAS FRACCIONES XXIX, XXX Y XXXI DEL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
