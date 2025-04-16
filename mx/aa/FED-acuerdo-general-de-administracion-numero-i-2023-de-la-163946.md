@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-i-2023-de-la-163946"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-02-02"
-last_updated: "2024-04-24"
+last_updated: "2025-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163946&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2023-01-27"
 
 > <small>[N. DE E. CON RELACIÓN AL PRESENTE ORDENAMIENTO SE SUGIERE CONSULTAR EL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DEL 6 DE MAYO DE 2022.]</small>
 
-ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN LA ESTRUCTURA ORGÁNICA Y DIVERSAS ATRIBUCIONES DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA Y LA COORDINACIÓN GENERAL DE ASESORES DE LA PRESIDENCIA.
+ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN LA ESTRUCTURA ORGÁNICA Y DIVERSAS ATRIBUCIONES DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA Y LA COORDINACIÓN GENERAL DE ASESORES DE LA PRESIDENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
 
 Acuerdo publicado en el Número 2 del Diario Oficial de la Federación, el jueves 2 de febrero de 2023.
 
@@ -47,7 +47,9 @@ Por lo anteriormente expuesto y con fundamento en las disposiciones jurídicas s
 
 ACUERDO GENERAL DE ADMINISTRACIÓN
 
-PRIMERO. La Secretaría General de la Presidencia tendrá las atribuciones previstas en los artículos 9o., fracciones I, II, III, IV, V, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI, y 20, fracciones VIII, IX, X, XI y XII, del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación (ROMA).
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2025, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+PRIMERO. La Secretaría General de la Presidencia tendrá las atribuciones previstas en los artículos 9o., fracciones I, II, III, IV, V, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI, 20, fracciones VIII, IX, X, XI y XII, y 25, fracciones III, VII y VIII, del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación (ROMA). Adicionalmente, la Secretaría General de la Presidencia tendrá la atribución de dirigir el servicio de visitas guiadas a los inmuebles de la Suprema Corte de Justicia de la Nación.
 
 Para el ejercicio de sus atribuciones contará con las áreas siguientes:
 
@@ -116,3 +118,21 @@ QUINTO. Las referencias que se hagan en las disposiciones jurídicas aplicables 
 SEXTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense las anotaciones respectivas al Acuerdo General de Administración número I/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veintiséis de enero de dos mil veintitrés, por el que se modifican la estructura orgánica y diversas atribuciones de la Secretaría General de la Presidencia y la Coordinación General de Asesores de la Presidencia.
 
 SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2025, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE ABRIL DE DOS MIL VEINTICINCO, QUE REFORMA EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO I/2023, DE LA PRESIDENTA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN LA ESTRUCTURA ORGÁNICA Y DIVERSAS ATRIBUCIONES DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA Y LA COORDINACIÓN GENERAL DE ASESORES DE LA PRESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se deroga el numeral Segundo del Acuerdo General de Administración número V/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de quince de agosto de dos mil veintitrés, por el que se establecen las denominaciones y atribuciones de la Coordinación de Fortalecimiento Institucional, así como de la Secretaría de Enlace y Coordinación.
+
+TERCERO. En su caso, deberá formalizarse la entrega y recepción de recursos, información y documentación, derivado de la modificación de la organización de los órganos y áreas correspondientes, con motivo de la entrada en vigor del presente Acuerdo General de Administración, de conformidad con las disposiciones jurídicas aplicables.
+
+CUARTO. La Oficialía Mayor, en coordinación con los órganos y áreas competentes, realizará las acciones necesarias para adecuar las estructuras orgánicas conforme al presente Acuerdo General de Administración, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor de este instrumento.
+
+QUINTO. Las referencias que se hagan en las disposiciones jurídicas aplicables a la Secretaría de Enlace y Coordinación, se entenderán hechas a la Secretaría General de la Presidencia.
+
+SEXTO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense las anotaciones respectivas al Acuerdo General de Administración número I/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veintiséis de enero de dos mil veintitrés, por el que se modifican la estructura orgánica y diversas atribuciones de la Secretaría General de la Presidencia y la Coordinación General de Asesores de la Presidencia, así como al Acuerdo General de Administración número V/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de quince de agosto de dos mil veintitrés, por el que se establecen las denominaciones y atribuciones de la Coordinación de Fortalecimiento Institucional, así como de la Secretaría de Enlace y Coordinación, a fin de que el contenido de estos se encuentre debidamente actualizado; dicha integración deberá realizarse en el archivo respectivo del portal de est (sic) Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+SÉPTIMO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
