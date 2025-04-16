@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2025-03-10"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -417,9 +417,9 @@ XVI. Vigilar el buen estado y promover el aumento de jardines y parques recreati
 
 XVII. Promover la apertura y mejoras de caminos vecinales y la construcción de puentes, avenidas y toda obra que se considere útil para el Municipio y sus habitantes;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2025)</small>
 
-XVIII. Promover la exhibición de espectáculos sanos, educativos y vigilar el orden público, reglamentando lo concerniente al buen orden que deba observarse en los teatros, cines, circos, plazas de toros, palenques, auditorios, estadios y demás lugares donde se exhiban espectáculos al público;
+XVIII. Promover la exhibición de espectáculos sanos, educativos y vigilar el orden público, reglamentando lo concerniente al buen orden que deba observarse en los teatros, cines, circos, plazas de toros, palenques, auditorios, estadios y demás lugares donde se exhiban espectáculos al público; quedando prohibida la difusión pública de imágenes, reproducción de música, mensajes, expresiones, interpretaciones o representaciones que hagan apología del delito, donde se exalte a personas vinculadas a la delincuencia organizada, a grupos delictivos o que incite violencia hacia la autoridad o a la sociedad en eventos abiertos al público.
 
 XIX. Combatir el alcoholismo y prohibir la venta de bebidas embriagantes, sin excepción, en fábricas, estaciones de ferrocarril y autobuses, así como en cualquier centro escolar y de trabajo;
 
@@ -2922,3 +2922,11 @@ P.O. 10 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 36 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
