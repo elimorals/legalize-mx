@@ -4,7 +4,7 @@ identifier: "FED-estatuto-de-los-servicios-parlamentarios-administrativos-y-1731
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-05-17"
-last_updated: "2024-05-17"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2024-04-25"
 
 ESTATUTO DE LOS SERVICIOS PARLAMENTARIOS, ADMINISTRATIVOS Y TÉCNICOS DEL SENADO DE LA REPÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
 
 Estatuto publicado en el Número 15 del Diario Oficial de la Federación, el viernes 17 de mayo de 2024.
 
@@ -1437,6 +1437,10 @@ Artículo 61
 
 1. La Contraloría es el órgano del Senado responsable de fiscalizar que el ejercicio presupuestal, los procesos administrativos, parlamentarios y técnicos, la situación y evolución patrimonial de las personas servidoras públicas del Senado y de los grupos parlamentarios, así como el aprovechamiento de los recursos humanos, materiales y financieros del Senado, se realicen bajo principios de eficiencia, eficacia, economía, legalidad, transparencia, honradez y racionalidad, a fin de contribuir al trabajo legislativo.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+2. La Contraloría Interna del Senado de la República es la autoridad garante y ejercerá las atribuciones aplicables que le correspondan en materia de acceso a la información pública, protección de datos personales y transparencia, así como conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones, conforme a las disposiciones jurídicas aplicables.
+
 Artículo 62
 
 1. A la Contraloría le corresponde:
@@ -1487,9 +1491,15 @@ v) Coordinar y, en su caso, participar conforme a sus atribuciones, en los actos
 
 w) Planear, dirigir y coordinar las acciones necesarias para que la Contraloría dé cumplimiento a lo establecido en el Sistema de Evaluación del Desempeño del Senado de la República;
 
-x) Emitir las disposiciones normativas y administrativas, reglas y bases de carácter general y políticas en el ejercicio de sus atribuciones, así como dirigir, coordinar y administrar el funcionamiento de las áreas que integran la Contraloría; y
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-y) Las demás que se deriven de las leyes, disposiciones y acuerdos aplicables.
+x) Emitir las disposiciones normativas y administrativas, reglas y bases de carácter general y políticas en el ejercicio de sus atribuciones, así como dirigir, coordinar y administrar el funcionamiento de las áreas que integran la Contraloría;
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+y) Delegar, mediante acuerdo publicado en la Gaceta del Senado de la República, las facultades que, de conformidad con este Estatuto, así como de otros ordenamientos, correspondan a ésta, a las personas servidoras públicas de las unidades administrativas de la Contraloría Interna, y
+
+z) Las demás que se deriven de las leyes, disposiciones y acuerdos aplicables.
 
 Artículo 63
 
@@ -1692,3 +1702,13 @@ SEGUNDO. Se abroga el Estatuto de los Servicios Parlamentarios, Administrativos 
 Senado de la República a los 25 días del mes de abril de 2024.
 
 Ciudad de México, 25 de abril de 2024.- MESA DIRECTIVA: Sen. Ana Lilia Rivera Rivera, Presidenta.- Rúbrica.- Sen. Sergio Pérez Flores, Vicepresidente.- Rúbrica.- Sen. Alejandra Noemí Reynoso Sánchez, Vicepresidenta.- Rúbrica.- Sen. Sylvana Beltrones Sánchez, Vicepresidenta.- Rúbrica.- Sen. Noé Fernando Castañón Ramírez, Vicepresidente.- Rúbrica.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbrica.- Sen. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.- Sen. Ricardo Velázquez Meza, Secretario.- Rúbrica.- Sen. Navor Alberto Rojas Mancera, Secretario.- Rúbrica.- Sen. María Guadalupe Saldaña Cisneros, Secretaria.- Rúbrica.- Sen. Alejandra Lagunes Soto Ruiz, Secretaria.- Rúbrica.- Sen. Elvia Marcela Mora Arellano, Secretaria.- Rúbrica.- Sen. Daniel Gutiérrez Castorena, Secretario.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA MESA DIRECTIVA POR EL QUE SE PROPONE AL PLENO LA MODIFICACIÓN DEL ESTATUTO DE LOS SERVICIOS PARLAMENTARIOS, ADMINISTRATIVOS Y TÉCNICOS DEL SENADO DE LA REPÚBLICA, CORRESPONDIENTE A LA ATENCIÓN Y EJERCICIO DE DERECHOS EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y TRANSPARENCIA”.]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su publicación en la Gaceta Parlamentaria.
+
+SEGUNDO. El Manual de Organización de la Contraloría Interna deberá actualizarse y aprobarse a los 60 días de la entrada en vigor de la presente reforma al Estatuto.
