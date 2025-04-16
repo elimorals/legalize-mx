@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-01-27"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2919,6 +2919,24 @@ En caso de que exista algún grado de consumación de otros tipos penales, al re
 
 Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando se trate de cualquier servidor público que participe en la realización de los delitos previstos en este artículo. Además, se impondrá a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión pública.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2025)</small>
+
+ARTÍCULO 178 E.- Provocación a cometer un delito o apología del delito.- Comete el delito de provocación o apología del delito quien, mediante la difusión pública de imágenes, mensajes, expresiones, interpretaciones o representaciones que exalten, justifiquen o glorifiquen algún tipo penal de los contenidos en este Código, a personas vinculadas con la delincuencia organizada, al uso de armas prohibidas, al narcotráfico, a grupos delictivos o a la violencia contra la autoridad o la sociedad, a través de música, representaciones artísticas de cualquier tipo, o mediante cualquier otro medio expresivo, ya sea de forma presencial o mediante su transmisión por medios de comunicación o plataformas digitales, en el contexto de espectáculos abiertos al público, públicos o realizados por particulares.
+
+A quien incurra en esta conducta se le impondrá una pena de 6 meses a 1 año de prisión y de 6,000 a 8,000 días multa, cuando el delito del que se haya hecho apología no se haya ejecutado.
+
+En caso de que el delito instigado se lleve a cabo, se impondrá al responsable la pena prevista para el delito consumado, en atención a su calidad de instigador y al grado de participación que haya tenido en su comisión.
+
+Las penas de prisión y multa señaladas se aumentarán hasta en una mitad más respecto de los mínimos y máximos establecidos, cuando el mensaje esté dirigido a niñas, niños o adolescentes, se difunda en centros escolares, culturales o recreativos, o se relacione con la promoción explícita de grupos delictivos organizados.
+
+Además de la sanción penal correspondiente, en todos los casos se impondrá al responsable la obligación de reparar íntegramente los daños y perjuicios ocasionados.
+
+No se configurará el delito cuando el contenido tenga una finalidad informativa, periodística, crítica, educativa, cultural o de denuncia social, y no tenga por objeto la incitación o promoción del delito.
+
+La imposición de la pena prevista en este artículo no excluirá la aplicación de sanciones de carácter administrativo que, en su caso, correspondan conforme a la legislación municipal o estatal aplicable en materia de espectáculos, cultura, seguridad pública o prevención del delito.
+
+El presente delito se perseguirá por noticia criminal, sin necesidad de querella o denuncia previa.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
@@ -4442,3 +4460,11 @@ P.O. 27 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 75.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
+
+P.O. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 175.- SE ADICIONA EL ARTÍCULO 178 E AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
