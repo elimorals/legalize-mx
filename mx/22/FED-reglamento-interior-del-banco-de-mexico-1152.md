@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2025-03-27"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -89,11 +89,11 @@ El miembro de la Junta de Gobierno que desee abstenerse de firmar algún acta, p
 
 Asimismo, se deberá conservar en un apéndice del acta respectiva un ejemplar de cada uno de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS UNIDADES, D.O.F. 15 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 4o.
 
-Para el desempeño de las funciones encomendadas por la Ley, el Gobernador contará con las Unidades siguientes:
+Para el desempeño de las funciones encomendadas por la Ley, la Gobernadora o el Gobernador contará con las Unidades siguientes:
 
 Dirección General de Administración
 
@@ -191,9 +191,9 @@ Dirección Jurídica
 
 Unidad de Transparencia
 
-> <small>(REFORMADO, D.O.F. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como de una Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, una Subcoordinación de Operaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior. Las atribuciones encomendadas por este Reglamento a los titulares de las unidades administrativas mencionadas en este párrafo podrán ser ejercidas por ellos en forma individual.
+Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo séptimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de la Gobernadora o del Gobernador, así como de una Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, una Subcoordinación de Operaciones del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las Unidades Administrativas a que se refiere este Reglamento Interior. Las atribuciones encomendadas por este Reglamento a los titulares de las unidades administrativas mencionadas en este párrafo podrán ser ejercidas por ellos en forma individual.
 
 > <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -219,9 +219,9 @@ La creación y extinción de los comités deberá hacerse del conocimiento de la
 
 En el caso de que el Gobernador acuerde la creación de un comité, podrá invitar a sus sesiones a un miembro de la Junta de Gobierno, quien participará únicamente con voz.
 
-> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables al Banco en esa materia. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por las personas titulares de la Unidad de Transparencia, de la Dirección de Seguridad y Organización de la Información y de la Dirección Jurídica. Serán suplentes de los integrantes mencionados los funcionarios que designen las personas titulares de las Unidades Administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
+El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como de las demás disposiciones aplicables al Banco en esas materias. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por las personas titulares de la Unidad de Transparencia, de la Dirección de Seguridad y Organización de la Información y de la Dirección Jurídica. Serán suplentes de los integrantes mencionados los funcionarios que designen las personas titulares de las Unidades Administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por la Gobernadora o el Gobernador.
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2018)</small>
 
@@ -267,11 +267,11 @@ El Grupo Interdisciplinario deberá resolver por mayoría de votos y será presi
 
 BIS.- Para los efectos previstos en el artículo 5o. de la Ley del Banco de México, la función de Cajero Principal deberá ser desempeñada por quien designe la Junta de Gobierno.
 
-> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-###### ARTICULO 4o.
+###### ARTICULO 4o. Ter.
 
-TER.- El Banco contará con un Órgano Interno de Control para los efectos del artículo 109, fracción III, quinto párrafo, de la Constitución Política de los Estados Unidos Mexicanos, así como de la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, la Ley General del Sistema Nacional Anticorrupción y las demás disposiciones aplicables al Banco en esas materias. Dicho órgano estará integrado y se regirá de conformidad con lo dispuesto por el Capítulo II de este Reglamento.
+El Banco contará con un Órgano Interno de Control para los efectos del artículo 109, fracción III, quinto párrafo, de la Constitución Política de los Estados Unidos Mexicanos, así como de la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación, la Ley General del Sistema Nacional Anticorrupción, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y las demás disposiciones aplicables al Banco en esas materias. Dicho órgano estará integrado y se regirá de conformidad con lo dispuesto por el Capítulo II de este Reglamento.
 
 ###### ARTICULO 5o.
 
@@ -1509,9 +1509,9 @@ Los documentos electrónicos que se generen con motivo de la tramitación y reso
 
 III. Hacerse cargo de la defensa jurídica del Banco en procesos y procedimientos ante autoridades judiciales, administrativas y del trabajo;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-IV. Atender y dar seguimiento a los juicios de amparo, controversias constitucionales o cualquier otro proceso de carácter constitucional en los que intervengan el Banco, la Junta, sus miembros o los funcionarios o empleados del propio Banco, con motivo del ejercicio de su empleo, cargo o comisión;
+IV. Atender y dar seguimiento a los juicios de amparo, controversias constitucionales o cualquier otro proceso de carácter constitucional en los que intervengan el Banco, la Junta, sus miembros, su Órgano Interno de Control o los funcionarios o empleados del propio Banco, con motivo del ejercicio de su empleo, cargo o comisión;
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -1765,9 +1765,9 @@ II. Verificar el cumplimiento de las normas y manuales relativos a los sistemas 
 
 III. Desahogar las solicitudes planteadas al Banco en materia de confirmación de saldos y, en general, de operaciones en las que éste sea parte, así como requerir información de la misma naturaleza;
 
-> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-IV. Verificar a través de auditorías, la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco, así como de la información en general;
+IV. Verificar a través de auditorías, la aplicación de los criterios para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión de las Unidades Administrativas del Banco, de los relativos al cumplimiento de obligaciones en materia de transparencia, acceso a la información pública, así como de la información en general;
 
 V. (DEROGADA, D.O.F. 9 DE MAYO DE 2019)
 
@@ -1939,13 +1939,41 @@ XXI. En representación del Órgano Interno de Control, las demás atribuciones 
 
 XXII. Emitir recomendaciones a las unidades administrativas del Banco para el fortalecimiento del control en sus procesos, derivado de las revisiones que realice en el ejercicio de sus atribuciones, así como turnarlas a las áreas competentes para su atención y seguimiento;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XXIII. Establecer mecanismos para facilitar, a las unidades administrativas del Banco, la difusión entre su personal de la legislación, políticas y normas que regulan el ejercicio de las atribuciones de estas, así como su cumplimiento, y
+XXIII. Establecer mecanismos para facilitar, a las unidades administrativas del Banco, la difusión entre su personal de la legislación, políticas y normas que regulan el ejercicio de las atribuciones de estas, así como su cumplimiento;
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XXIV. Expedir las reglas a las que se sujetará la recepción, tramitación y resolución, de manera electrónica, de los procedimientos administrativos a que se refieren las fracciones XII, XIII y XIV del presente artículo, así como I, VI, VII y VIII del artículo 30 Bis 1.
+XXIV. Expedir las reglas a las que se sujetará la recepción, tramitación y resolución, incluso de manera electrónica, de los procedimientos administrativos a que se refieren las fracciones XII, XIII y XIV del presente artículo, así como I, VI, VII y VIII del artículo 30 Bis 1;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXV. Recibir, conocer, tramitar, sustanciar y proveer, incluso de manera electrónica, lo necesario para que el Comité Garante resuelva los recursos de revisión a que se refieren la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable al Banco, en dichas materias, y proponer el proyecto de resolución de los recursos de revisión al citado Comité. A tal efecto, conforme a lo previsto en dichos ordenamientos, podrá acordar la ampliación de los plazos de resolución, de lo cual informará a las demás personas integrantes del Comité Garante;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXVI. Conocer y resolver las denuncias a que se refieren la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable al Banco, en dichas materias;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXVII. Determinar e imponer las medidas de apremio, así como las sanciones que correspondan en el ámbito de sus atribuciones cuando, para efecto de dichas sanciones, se trate de personas presuntas infractoras que no cuenten con la calidad de servidoras públicas, de conformidad con lo previsto en la normatividad aplicable al Banco, en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXVIII. Realizar las diligencias que sean necesarias para la sustanciación de los asuntos que conozca, incluyendo la celebración de audiencias, requerimientos y desahogo de pruebas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXIX. Proponer al Comité Garante las normas, reglas, lineamientos y disposiciones para el cumplimiento de la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable al Banco, en dichas materias;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXX. Presentar a la Gobernadora o el Gobernador el informe anual de actividades en materia de transparencia y acceso a la información pública, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXXI. Las que las leyes y disposiciones aplicables al Banco, en materia de transparencia, acceso a la información pública y protección de datos personales, otorguen a la Autoridad Garante; con excepción de aquellas que, en dicho carácter, el presente Reglamento confiera en esas materias al Comité Garante o a otros integrantes del Órgano Interno de Control del propio Banco, en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2020)</small>
 
@@ -2005,23 +2033,33 @@ ARTICULO 30 BIS 4.- (DEROGADO, D.O.F. 5 DE OCTUBRE DE 2010)
 
 El Comité de Transparencia tendrá las atribuciones siguientes:
 
-I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables al Banco, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información pública que someta a su consideración la Unidad de Transparencia.
 
 II. Coordinar, supervisar y realizar, de conformidad con las disposiciones aplicables, las acciones necesarias para garantizar en el Banco el derecho a la protección de los datos personales, e instituir los procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de los mencionados datos.
 
 III. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia, realicen los titulares de las unidades administrativas del Banco, así como aquellas en las que se niegue por cualquier causa el ejercicio de los derechos de acceso, rectificación, cancelación u oposición al tratamiento de datos personales, y notificar a las referidas unidades administrativas las resoluciones adoptadas.
 
-IV. De conformidad con la normatividad aplicable en materia de transparencia de la información, ordenar, en su caso, a las unidades administrativas del Banco que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, expongan, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+IV. De conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública, ordenar, en su caso, por medio de la Unidad de Transparencia, que las Unidades Administrativas del Banco expongan, de forma fundada y motivada, las razones por las cuales, en el asunto particular, no cuentan con la información requerida, lo cual se notificará a la persona solicitante.
 
 V. Establecer políticas, programas y criterios para facilitar la obtención de información y el ejercicio del derecho de acceso a la información, así como aquellos criterios específicos que resulten necesarios para la mejor observancia de las disposiciones en materia de protección de datos personales, y supervisar su aplicación.
 
-VI. Promover la capacitación y actualización de los trabajadores adscritos a la Unidad de Transparencia.
+VI. (DEROGADA, D.O.F. 16 DE ABRIL DE 2025)
 
-VII. Establecer programas de capacitación y actualización en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para los servidores públicos del Banco.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-VIII. Recabar y enviar al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con los lineamientos que este expida, los datos necesarios para la elaboración del informe anual que este deba presentar conforme a las disposiciones legales aplicables.
+VII. Establecer y promover programas de capacitación y actualización en materia de transparencia, acceso a la información pública, accesibilidad y protección de datos personales, para los servidores públicos del Banco.
 
-IX. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás normatividad aplicable.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+VIII. Recabar, con el apoyo de la Unidad de Transparencia, y enviar a la Dirección de Control Interno, de conformidad con los lineamientos que el Comité Garante expida, los datos necesarios para la elaboración del informe anual correspondiente para su presentación.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+IX. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de las disposiciones aplicables al Banco en materia de transparencia y acceso a la información pública.
 
 > <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
@@ -2029,7 +2067,9 @@ X. Establecer los criterios específicos en materia de datos personales y expedi
 
 XI. Aprobar los formatos de solicitudes de acceso a la información y para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales que, en su caso, elabore la Unidad de Transparencia.
 
-XII. Establecer los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables en esas materias.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XII. Establecer los costos de reproducción y envío a que se refieren las disposiciones aplicables al Banco en materia de transparencia, acceso a la información pública y protección de datos personales, que someta a su consideración la Unidad de Transparencia.
 
 XIII. Elaborar las reglas necesarias para su operación.
 
@@ -2037,17 +2077,23 @@ XIV. Invitar a sus sesiones a aquellos funcionarios del Banco que pudieran auxil
 
 XV. Supervisar, en coordinación con las áreas o unidades administrativas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad.
 
-XVI. Aprobar las políticas, programas, medidas, documentos, controles, mecanismos, procedimientos, esquemas de mejores prácticas, planes de trabajo, informes y demás acciones que las unidades administrativas competentes sometan a su consideración a través de la Unidad de Transparencia, para el cumplimiento de los principios y deberes previstos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables en esa materia.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XVII. Dar seguimiento y cumplimiento a las resoluciones emitidas por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+XVI. Aprobar las políticas, programas, medidas, documentos, controles, mecanismos, procedimientos, esquemas de mejores prácticas, planes de trabajo, informes y demás acciones que las Unidades Administrativas competentes sometan a su consideración a través de la Unidad de Transparencia, para el cumplimiento de los principios y deberes previstos en las disposiciones aplicables al Banco en materia de protección de datos personales.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XVII. Dar seguimiento y cumplimiento a las resoluciones emitidas por las instancias competentes, en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 XVIII. Por conducto de la Unidad de Transparencia, dar vista al órgano de investigación de responsabilidades a fin de que actúe en su ámbito de competencia.
 
-XIX. Aprobar el formato de clausulado que, en su caso, será incluido en los contratos o instrumentos jurídicos que se pretenda celebrar, con la finalidad de formalizar la transferencia de datos personales y la relación con terceros encargados de tratarlos.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2019)</small>
+XIX. Aprobar el formato de clausulado que someta a su consideración la Unidad de Transparencia que, en su caso, será incluido en los contratos o instrumentos jurídicos que las Unidades Administrativas pretendan celebrar, con la finalidad de formalizar la transferencia de datos personales y la relación con terceros encargados de tratarlos.
 
-XX. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley Federal de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como de cualquier otra normatividad aplicable a las materias referidas.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XX. Las demás que deriven de la normatividad aplicable al Banco en materia de transparencia, acceso a la información pública y protección de datos personales, para el Comité de Transparencia.
 
 Las unidades administrativas deberán dar cumplimiento a las disposiciones y resoluciones que emita el Comité de Transparencia, en el ámbito de su competencia.
 
@@ -2071,27 +2117,47 @@ VII. Proponer personal habilitado que sea necesario para recibir y dar trámite 
 
 VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, y costos de reproducción y envío.
 
-IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+IX. Promover e implementar políticas de transparencia con sentido social procurando su accesibilidad.
 
 X. Fomentar, promover y difundir, al interior del Banco, la transparencia y accesibilidad, así como la cultura de protección de datos personales.
 
-XI. Hacer del conocimiento de la autoridad competente, la probable responsabilidad de trabajadores del Banco por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y en las demás disposiciones aplicables en esas materias.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XII. Promover acuerdos con instituciones públicas especializadas que pudieran auxiliarle para atender solicitudes de información, o las relativas al ejercicio de derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, en lenguas indígenas, braille o cualquier otro formato, para garantizar condiciones de accesibilidad.
+XI. Hacer del conocimiento de la instancia competente, la probable responsabilidad de personas servidoras públicas del Banco por el incumplimiento de las obligaciones previstas en la normatividad aplicable a este último en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-XIII. Suscribir con los demás sujetos obligados, de conformidad con las disposiciones aplicables en materia de transparencia, acceso a la información pública y protección de datos personales, acuerdos o programas con fines de cooperación respecto de dichas materias.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables en la materia.
+XII. Promover acuerdos con instituciones especializadas que pudieran auxiliarle para atender solicitudes de información, o las relativas al ejercicio de derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, en lenguas indígenas, braille o cualquier otro formato, para garantizar condiciones de accesibilidad.
+
+XIII. (DEROGADA, D.O.F. 16 DE ABRIL DE 2025)
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realicen las instancias competentes, en términos de las disposiciones aplicables al Banco en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XIV Bis. Recibir las denuncias que le presenten físicamente sobre el incumplimiento a las obligaciones de transparencia y remitirlas a la Dirección de Control Interno.
 
 XV. (DEROGADA, D.O.F. 15 DE OCTUBRE DE 2021)
 
-XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y emitir el informe correspondiente en términos de las disposiciones en la materia.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XVII. Recibir los recursos de revisión que le presenten y remitirlos al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la normatividad aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
+XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emitan las instancias competentes, y emitir el informe correspondiente en términos de las disposiciones aplicables al Banco en materia de transparencia, acceso a la información pública y protección de datos personales.
 
-XVIII. Solicitar, de manera fundada y motivada, al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la ampliación del plazo para dar cumplimiento a la resolución de que se trate emitida por el citado Instituto, de conformidad con la normatividad aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XIX. Proponer al Comité de Transparencia los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables.
+XVII. Recibir los recursos de revisión que le presenten y remitirlos a la Dirección de Control Interno, de conformidad con la normatividad aplicable al Banco en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XVIII. Solicitar, de manera fundada y motivada, a la persona que presida el Comité Garante, la ampliación del plazo para dar cumplimiento a las resoluciones que este emita, de conformidad con la normatividad aplicable al Banco en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XIX. Proponer al Comité de Transparencia, previa opinión de la Dirección de Contabilidad, Planeación y Presupuesto, los costos de reproducción y envío a que se refiere la normatividad aplicable al Banco en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 XX. Poner a disposición del público, de manera gratuita, los formatos para solicitar información, o para ejercer los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales, así como equipo de cómputo, en las instalaciones que indique el propio Banco, con el mismo objeto.
 
@@ -2109,23 +2175,57 @@ XXVI. Establecer mecanismos para asegurar que los datos personales se entreguen 
 
 XXVII. Informar al solicitante, titular de datos personales o su representante, según corresponda, el monto de los costos a cubrir por la reproducción y envío de información o datos personales, y en su caso exceptuar el pago de los mismos atendiendo a las circunstancias socioeconómicas del interesado, en términos de las disposiciones normativas aplicables.
 
-XXVIII. Poner en práctica los programas de capacitación y actualización que apruebe el Comité de Transparencia para los servidores públicos del Banco, en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, y realizar las gestiones y trámites correspondientes ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XXIX. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública, de la Ley Federal de Transparencia y Acceso a la Información Pública, de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y de cualquier otra normatividad aplicable en esas materias.
+XXVIII. Elaborar y someter a consideración del Comité de Transparencia, los programas de capacitación y actualización para los servidores públicos del Banco, en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, y ponerlos en práctica en coordinación con la Dirección de Control Interno.
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXVIII Bis. Informar a la Dirección de Control Interno sobre la aplicabilidad de las obligaciones de transparencia a cargo del Banco.
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXIX. Las demás que deriven de las leyes en materia de transparencia, acceso a la información pública y protección de datos personales, así como de cualquier otra normatividad aplicable al Banco en esas materias, como sujeto obligado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE JULIO DE 2017)</small>
 
 ### CAPITULO II. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2019)</small>
-
-ARTICULO 31 TER.- El Órgano Interno de Control estará integrado por la Junta de Gobierno, la Comisión prevista en el artículo 61 de la Ley, la Dirección de Control Interno, la Unidad de Auditoría, la Unidad de Investigación adscrita a esta última y la Dirección Jurídica, cada una en el ámbito de las atribuciones que, como parte del referido Órgano, les confiere el presente Reglamento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
+> <small>(REFORMAD0, D.O.F. 16 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 31 Ter.
 
-El Órgano Interno de Control estará integrado por la Junta de Gobierno, la Comisión prevista en el artículo 61 de la Ley, la Dirección de Control Interno, la Unidad de Auditoría y la Dirección Jurídica, cada una en el ámbito de las atribuciones que, en su carácter de integrantes del referido Órgano, les confiere el presente Reglamento.
+El Órgano Interno de Control estará integrado por la Junta de Gobierno, la Comisión prevista en el artículo 61 de la Ley, la Dirección General Jurídica, la Dirección de Control Interno, la Unidad de Auditoría, la Unidad de Investigación adscrita a esta última y la Dirección Jurídica, cada una en el ámbito de las atribuciones que, como parte del referido Órgano, les confiere el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+Para el ejercicio de las atribuciones encomendadas a la Autoridad Garante establecidas en las leyes y demás disposiciones aplicables al Banco en materia de transparencia, acceso a la información pública y protección de datos personales, el Banco contará con un Comité Garante integrado por las personas titulares de la Dirección General Jurídica, la Dirección de Control Interno y la Unidad de Auditoría. Lo anterior, en adición a las atribuciones de la Dirección de Control Interno y de otras Unidades Administrativas integrantes del Órgano Interno de Control, en su calidad de Autoridad Garante, previstas en el presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+El Comité a que se refiere el párrafo inmediato anterior, deberá resolver por mayoría de votos y será presidido por la persona titular de la Dirección General Jurídica, quien tendrá voto de calidad en caso de empate. El Presidente resolverá sobre la ampliación del plazo para el cumplimiento de las resoluciones que al efecto emita el órgano colegiado, informando de ello a las demás personas integrantes.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+El Comité contará con una Secretaría y Prosecretaría, cuyas personas titulares serán designadas por la Gobernadora o el Gobernador.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+Las personas titulares de las Unidades Administrativas que integran el Comité Garante contarán con suplente, los cuales serán designados por la Gobernadora o el Gobernador de entre las personas funcionarias de cada una de las Unidades Administrativas que son titulares.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 16 DE ABRIL DE 2025)</small>
+
+El Comité Garante tendrá las atribuciones siguientes:
+
+I. Conocer y resolver los recursos de revisión a que se refieren la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad aplicable al Banco, en dichas materias.
+
+II. Emitir recomendaciones, criterios, normas, reglas, lineamientos y disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+III. Aprobar el programa anual de verificación de obligaciones de transparencia que le presente la Dirección de Control Interno.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+El Comité Garante podrá solicitar la opinión de una persona experta independiente respecto del desempeño de las atribuciones conferidas a la Autoridad Garante. Asimismo, para el ejercicio de sus atribuciones, podrá solicitar, cuando lo estime conveniente, la opinión de personas expertas independientes especializadas en materia de transparencia, acceso a la información pública y protección de datos personales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -2653,11 +2753,11 @@ En contra de la resolución del recurso de revisión procederá el juicio de amp
 
 ### CAPÍTULO VI. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 65.
 
-Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
+Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y a la Gobernadora o Gobernador, respectivamente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -2679,7 +2779,9 @@ En el caso de procesos de carácter judicial, administrativo o del trabajo, en l
 
 El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar dos funcionarios de la Dirección Jurídica que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior. En este último supuesto, cuando se utilicen medios electrónicos que no permitan la coexistencia de dos firmas electrónicas, será suficiente una de ellas.
 
-Los servidores públicos distintos a los miembros de la Junta de Gobierno, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo o en procesos constitucionales por el Gerente Jurídico de lo Contencioso o el Subgerente de Procesos Jurisdiccionales.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+Los servidores públicos distintos a los miembros de la Junta de Gobierno, los Directores Generales, el Secretario de la Junta, los Directores y los titulares de las Unidades de Transparencia y Auditoría podrán ser representados en el juicio de amparo o en procesos constitucionales por el Gerente Jurídico de lo Contencioso o el Subgerente de Procesos Jurisdiccionales. Estos últimos también podrán representar, en los citados procesos constitucionales, a las personas que ejerzan las funciones que deriven del ejercicio de las atribuciones a cargo de la Autoridad Garante.
 
 ## TRANSITORIOS
 
@@ -3334,3 +3436,11 @@ D.O.F. 27 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DE LA “ADICIÓN AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
 
 ÚNICO. La presente adición al Reglamento Interior del Banco de México entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
