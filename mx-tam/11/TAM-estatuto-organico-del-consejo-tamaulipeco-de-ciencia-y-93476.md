@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-consejo-tamaulipeco-de-ciencia-y-93476"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-07"
-last_updated: "2013-03-07"
+last_updated: "2025-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGÍA, PUBLICADO EN EL P.O. DE 16 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2025 (DEROGADO).
 
 Estatuto publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 7 de marzo de 2013.
 
@@ -478,3 +480,33 @@ SEGUNDO.- Los acuerdos, circulares y demás disposiciones pronunciadas antes de 
 TERCERO.- Este Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGÍA.- EL DIRECTOR GENERAL.- LIC. FRANCISCO JAVIER HERNÁNDEZ MONTEMAYOR.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL CONSEJO TAMAULIPECO DE CIENCIA Y TECNOLOGÍA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular de la Dirección General deberá implementar las acciones necesarias para la difusión del presente Estatuto Orgánico, haciéndolo del conocimiento del personal del Organismo.
+
+###### ARTÍCULO TERCERO.
+
+Se deroga el Estatuto Orgánico del Consejo Tamaulipeco de Ciencia y Tecnología publicado en el Periódico Oficial del Estado de Tamaulipas Número 30, de fecha 7 de marzo de 2013.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Estatuto Orgánico.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Estatuto serán continuados y resueltos por las Unidades Administrativas que, conforme a este documento, resulten competentes.
+
+###### ARTÍCULO SEXTO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados para los efectos legales correspondientes.
