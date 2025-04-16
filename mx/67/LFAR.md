@@ -4,7 +4,7 @@ identifier: "LFAR"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2019-11-19"
-last_updated: "2019-11-19"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139125&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAR"
 
 LEY FEDERAL DE AUSTERIDAD REPUBLICANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de noviembre de 2019.
 
@@ -136,7 +136,7 @@ Los órganos encargados del control interno o de la fiscalización en cada ente 
 
 En tanto no se autoricen nuevos programas o se amplíen las metas de los existentes, los gastos por concepto de telefonía, telefonía celular, fotocopiado, combustibles, arrendamientos, viáticos, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, papelería, pasajes, congresos, convenciones, exposiciones y seminarios, necesarios para cumplir la función de cada dependencia y organismo, no podrán exceder de los montos erogados en el ejercicio presupuestal inmediato anterior, una vez considerados los incrementos en precios y tarifas oficiales o la inflación. Lo anterior, salvo las autorizaciones presupuestales que otorgue la Secretaría de Hacienda y Crédito Público, previa justificación.
 
-Las secretarías de Hacienda y Crédito Público y de la Función Pública, en sus respectivos ámbitos de competencia, emitirán los lineamientos para la adquisición de bienes y servicios de uso generalizado de los entes públicos, de manera consolidada, con objeto de obtener las mejores condiciones con relación a precio, calidad y oportunidad, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente, sin perjuicio de lo previsto en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y otros ordenamientos legales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
 ###### Artículo 11.
 
@@ -156,7 +156,9 @@ III. Se prohíben las plazas con nivel de Dirección General Adjunta que no ejer
 
 IV. Los representantes gremiales en los órganos tripartitos, con excepción de aquellos que se desempeñen en los Tribunales Laborales, ocuparán cargos honoríficos, por lo que no recibirán remuneración alguna por el desempeño de su función, y
 
-V. La contratación de servicios de consultoría, asesoría y de todo tipo de despachos externos para elaborar estudios, investigaciones, proyectos de ley, planes de desarrollo, o cualquier tipo de análisis y recomendaciones, se realizará exclusivamente cuando las personas físicas o morales que presten los servicios no desempeñen funciones similares, iguales o equivalentes a las del personal de plaza presupuestaria, no puedan realizarse con la fuerza de trabajo y capacidad profesional de los servidores públicos y sean indispensables para el cumplimiento de los programas autorizados, considerando lo establecido en los artículos 19 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 62 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+V. La contratación de servicios de consultoría, asesoría y de todo tipo de despachos externos para elaborar estudios, investigaciones, proyectos de ley, planes de desarrollo, o cualquier tipo de análisis y recomendaciones, se realizará exclusivamente cuando las personas físicas o morales que presten los servicios no desempeñen funciones similares, iguales o equivalentes a las del personal de plaza presupuestaria, no puedan realizarse con la fuerza de trabajo y capacidad profesional de las personas servidoras públicas y sean indispensables para el cumplimiento de los programas autorizados, considerando lo establecido en los artículos 27 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 62 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ###### Artículo 13.
 
@@ -363,3 +365,61 @@ Décimo. Quedan derogadas todas las disposiciones que se opongan al contenido de
 Ciudad de México, a 8 de octubre de 2019.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Verónica Delgadillo García, Secretaria.- Dip. Ma. Sara Rocha Medina, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 14 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE AUSTERIDAD REPUBLICANA; DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Y DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores.
+
+Tercero.- Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
+
+Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor del presente ordenamiento. La Plataforma Digital de Contrataciones Públicas deberá iniciar operaciones en su totalidad en un plazo no mayor a treinta meses, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior seguirán aplicando en lo conducente las relativas al Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
+
+En tanto entra en operación la Plataforma Digital de Contrataciones Públicas, la difusión y el comunicado de los acuerdos marco, la solicitud de cotización de la adjudicación directa con negociación, así como el anuncio del diálogo competitivo, se publicarán en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
+
+Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan (sic) al presente instrumento.
+
+Quinto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+Sexto.- Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+Séptimo.- Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión.
+
+Octavo.- A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco.
+
+Noveno.- Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto.
+
+Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a ocho meses contados a partir de la entrada en vigor del presente Decreto. En tanto no se emitan dichas políticas, bases y lineamientos, las dependencias y entidades continuarán utilizando las disposiciones vigentes.
+
+Décimo.- La instalación del Comité de Contrataciones Estratégicas deberá llevarse a cabo a más tardar en los treinta días hábiles posteriores a la publicación de la presente Ley, asimismo la lista de bienes y servicios a contratar de manera consolidada para el ejercicio fiscal 2025, deberá ser aprobada por dicho órgano colegiado en un plazo no mayor a sesenta días hábiles a partir de su instalación.
+
+Décimo Primero.- El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Décimo Segundo.- Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
+
+Décimo Tercero.- Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
+
+I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
+
+II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
+
+Décimo Cuarto.- El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
+
+Décimo Quinto.- Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
+
+I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
+
+II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;
+
+III. El Oficio UNAOPSPF/309/AD/0725/2007, de fecha 31 de octubre de 2007, emitido por la entonces Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría de la Función Pública, disponible en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, y
+
+IV. Los Lineamientos para las adquisiciones de papel para uso de oficina por parte de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 2 de octubre de 2009.
+
+Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento.
