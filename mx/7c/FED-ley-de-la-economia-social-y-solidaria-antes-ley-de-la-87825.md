@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-economia-social-y-solidaria-antes-ley-de-la-87825"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-23"
-last_updated: "2023-12-29"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87825&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-05-22"
 
 LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -353,7 +353,7 @@ XV. (DEROGADA, D.O.F. 11 DE JUNIO DE 2013)
 
 XVI. Establecer un Observatorio del Sector Social de la Economía, que sirva como herramienta para la sistematización de las experiencias nacionales del Sector;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 16 DE ABRIL DE 2025)</small>
 
 XVII. Definir las distintas regiones geoeconómicas necesarias para el cumplimento de las disposiciones contenidas en la presente Ley;
 
@@ -369,9 +369,13 @@ XIX. Impulsar el diseño de políticas públicas en el ámbito educativo que fom
 
 XX. Favorecer cadenas productivas de valor, locales, regionales, nacionales y globales, que sirvan para el escalamiento progresivo de los Organismos del Sector;
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-XXI. El Instituto en materia de fomento, determinará las reglas, lineamientos y, en general, todo lo necesario a fin de garantizar el adecuado ejercicio de los recursos públicos, en la prestación de apoyos y estímulos a los organismos del sector, y
+XXI. El Instituto en materia de fomento, determinará las reglas, lineamientos y, en general, todo lo necesario a fin de garantizar el adecuado ejercicio de los recursos públicos, en la prestación de apoyos y estímulos a los organismos del sector;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XXI Bis. Definir e implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, respecto del cumplimiento de la presente Ley, particularmente en lo que corresponde a los fines, valores, principios y prácticas del cooperativismo y de la Economía Social y Solidaria. Para coadyuvar en la implementación de dicho modelo de certificación, el Instituto podrá suscribir convenios de coordinación con las entidades federativas, los municipios y las alcaldías de la Ciudad de México, y
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -659,7 +663,9 @@ Los miembros de los Órganos encargados de la administración, la vigilancia y e
 
 Sin perjuicio de los derechos y prerrogativas que establecen las leyes relativas a las distintas formas asociativas, se reconocen a los Organismos del Sector los siguientes derechos:
 
-I. Ser sujetos de fomento y apoyo a sus actividades económicas por parte del Estado;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+I. Ser sujetos de fomento y apoyo a sus actividades económicas por parte del Estado, previa certificación emitida por el Instituto;
 
 II. Gozar de autonomía en cuanto a su régimen interno;
 
@@ -681,7 +687,9 @@ VIII. (DEROGADA, D.O.F. 11 DE JUNIO DE 2013)
 
 Los Organismos del Sector deberán ajustarse a lo siguiente:
 
-I. Cumplir y hacer cumplir los principios, valores y prácticas consagrados en la presente Ley;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+I. Cumplir y hacer cumplir los fines, valores, principios y prácticas previstos en la presente Ley, lo cual acreditarán conforme al modelo de certificación correspondiente;
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
 
@@ -717,7 +725,9 @@ XV. (DEROGADA, D.O.F. 11 DE JUNIO DE 2013)
 
 XVI. En caso de disolución, transmitir los bienes que haya adquirido con apoyos y estímulos públicos, a otro u otros Organismos del Sector que realicen actividades objeto de fomento. El Organismo del Sector que se disuelva tendrá la facultad de elegir a quién transmitirá dichos bienes;
 
-XVII. Contribuir al desarrollo socioeconómico nacional;
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+XVII. Contribuir al desarrollo socioeconómico nacional, y
 
 XVIII. Las demás que señale la presente Ley y leyes aplicables.
 
@@ -900,3 +910,59 @@ D.O.F. 29 DE DICIEMBRE DE 2023.
 Primero.- El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Todas las referencias que hagan mención a la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo referente al sector social de la economía contenidas en las leyes y normatividad vigente, se entenderán realizadas a la Ley de la Economía Social y Solidaria.
+
+D.O.F. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE AUSTERIDAD REPUBLICANA; DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Y DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores.
+
+Tercero.- Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
+
+Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor del presente ordenamiento. La Plataforma Digital de Contrataciones Públicas deberá iniciar operaciones en su totalidad en un plazo no mayor a treinta meses, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior seguirán aplicando en lo conducente las relativas al Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
+
+En tanto entra en operación la Plataforma Digital de Contrataciones Públicas, la difusión y el comunicado de los acuerdos marco, la solicitud de cotización de la adjudicación directa con negociación, así como el anuncio del diálogo competitivo, se publicarán en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
+
+Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan al presente instrumento.
+
+Quinto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+Sexto.- Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+Séptimo.- Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión.
+
+Octavo.- A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco.
+
+Noveno.- Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto.
+
+Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a ocho meses contados a partir de la entrada en vigor del presente Decreto. En tanto no se emitan dichas políticas, bases y lineamientos, las dependencias y entidades continuarán utilizando las disposiciones vigentes.
+
+Décimo.- La instalación del Comité de Contrataciones Estratégicas deberá llevarse a cabo a más tardar en los treinta días hábiles posteriores a la publicación de la presente Ley, asimismo la lista de bienes y servicios a contratar de manera consolidada para el ejercicio fiscal 2025, deberá ser aprobada por dicho órgano colegiado en un plazo no mayor a sesenta días hábiles a partir de su instalación.
+
+Décimo Primero.- El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Décimo Segundo.- Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
+
+Décimo Tercero.- Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
+
+I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
+
+II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
+
+Décimo Cuarto.- El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
+
+Décimo Quinto.- Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
+
+I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
+
+II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;
+
+III. El Oficio UNAOPSPF/309/AD/0725/2007, de fecha 31 de octubre de 2007, emitido por la entonces Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría de la Función Pública, disponible en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, y
+
+IV. Los Lineamientos para las adquisiciones de papel para uso de oficina por parte de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 2 de octubre de 2009.
+
+Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento.
