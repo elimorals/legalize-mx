@@ -4,7 +4,7 @@ identifier: "LGSC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-08-03"
-last_updated: "2018-01-19"
+last_updated: "2025-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSC"
 
 LEY GENERAL DE SOCIEDADES COOPERATIVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de agosto de 1994.
 
@@ -58,9 +58,17 @@ La sociedad cooperativa es una forma de organización social integrada por perso
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Organismos cooperativos, a las uniones, federaciones y confederaciones que integren las sociedades cooperativas, y
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-II.- Sistema Cooperativo, a la estructura económica y social que integran las sociedades cooperativas y sus organismos. El Sistema Cooperativo es parte integrante del Movimiento Cooperativo Nacional.
+I.- Organismos cooperativos, a las uniones, federaciones y confederaciones que integren las sociedades cooperativas;
+
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+II.- Sistema Cooperativo, a la estructura económica y social que integran las sociedades cooperativas y sus organismos. El Sistema Cooperativo es parte integrante del Movimiento Cooperativo Nacional, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+III.- Instituto, al Instituto Nacional de la Economía Social.
 
 ###### Artículo 4.
 
@@ -128,39 +136,49 @@ II.- Serán de capital variable;
 
 III.- Habrá igualdad esencial en derechos y obligaciones de sus socios e igualdad de condiciones para las mujeres;
 
-IV.- Tendrán duración indefinida, y
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2009)</small>
+IV.- Tendrán duración indefinida;
 
-V.- Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el Artículo 33 Bis de esta Ley.
+> <small>(REFORMADA, D.O.F. 16 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+V.- Se integrarán con un mínimo de cinco Socios, con excepción de aquellas a que se refiere el Artículo 33 Bis de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+VI.- No podrá rechazarse la integración de socios por razón de origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro criterio que pueda dar lugar a un acto discriminatorio, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+VII.- No podrán formar parte ni depender de partidos políticos o de asociaciones religiosas.
+
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
 ###### Artículo 12.
 
 La constitución de las sociedades cooperativas deberá realizarse en asamblea general que celebren los interesados, y en la que se levantará un acta que contendrá:
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+I. Las bases constitutivas;
 
-I. Datos generales de los fundadores;
+II. Nombres y datos generales de los fundadores, como Clave Única de Registro de Población y domicilio; así como identificación oficial vigente;
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+III. Nombres de las personas que hayan resultado electas para integrar por primera vez los órganos sociales, las comisiones y los comités, de constituirse éstos, así como las funciones, los poderes y facultades que se les confieran, y
 
-II. Nombre de las personas que hayan resultado electas para integrar por primera vez consejos y comisiones, y
+IV. La suscripción de los certificados de aportación, así como las condiciones y plazos para pagarlos.
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+Los socios fundadores deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa, y de ser suyas las firmas autógrafas o huellas dactilares que obren en el acta constitutiva, ante el Instituto, utilizando para tal efecto el sistema electrónico del Padrón Nacional de Sociedades Cooperativas.
 
-III. Las bases constitutivas.
+Los actos cooperativos posteriores a la constitución de las Sociedades Cooperativas que deban inscribirse para dar publicidad ante terceros también deberán inscribirse en el Padrón Nacional de Sociedades Cooperativas del Instituto, quien tramitará su inscripción ante el Registro Público de Comercio.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+El Acta Constitutiva de la Sociedad Cooperativa deberá ser presentada para su ratificación, empadronamiento e inscripción a partir de su firma. Las Cooperativas que se constituyan quedarán integradas al Padrón Nacional de Sociedades Cooperativas del propio Instituto.
 
-Los socios deberán acreditar su identidad y ratificar su voluntad de constituir la sociedad cooperativa y de ser suyas las firmas o las huellas digitales que obran en el acta constitutiva, ante notario público, corredor público, juez de distrito, juez de primera instancia en la misma materia del fuero común, presidente municipal, secretario, delegado municipal o titular de los órganos político-administrativos de la Ciudad de México, del lugar en donde la sociedad cooperativa tenga su domicilio.
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
 
 ###### Artículo 13.
 
-A partir del momento de la firma de su acta constitutiva, las sociedades cooperativas contarán con personalidad jurídica, tendrán patrimonio propio y podrán celebrar actos y contratos, así como asociarse libremente con otras para la consecución de su objeto social.
+A partir del momento de la firma de su acta constitutiva, las sociedades cooperativas contarán con personalidad jurídica distinta a la de sus socios, tendrán patrimonio propio y podrán celebrar actos y contratos, así como asociarse libremente con otras para la consecución de su objeto social, en términos de lo que establezcan las disposiciones.
 
-El acta constitutiva de la sociedad cooperativa de que se trate, se inscribirá en el Registro Público de Comercio que corresponda a su domicilio social.
+El acta constitutiva de la sociedad cooperativa de que se trate, se inscribirá en el Registro Público de Comercio que corresponda a su domicilio social. El Instituto remitirá el Acta Constitutiva formalizada y los datos que se requieran para la inscripción, dentro del plazo que acuerden la Secretaría de Bienestar y la Secretaría de Economía para tales efectos.
 
 ###### Artículo 14.
 
@@ -206,9 +224,29 @@ XIII.- Las demás disposiciones necesarias para el buen funcionamiento de la soc
 
 Las cláusulas de las bases constitutivas que no se apeguen a lo dispuesto por esta ley, serán nulas de pleno derecho para todos los efectos legales correspondientes.
 
+> <small>(REFORMADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
 ###### Artículo 17.
 
-Las oficinas encargadas del Registro Público de Comercio, deberán expedir y remitir en forma gratuita, a la Secretaría de Desarrollo Social, copia certificada de todos los documentos que sean objeto de inscripción por parte de las sociedades cooperativas, así como la información que solicite la propia dependencia, a fin de integrar y mantener actualizada la estadística nacional de sociedades cooperativas.
+La Secretaría de Bienestar expedirá el Acuerdo que contenga las bases de operación y funcionamiento del sistema electrónico a que alude el artículo 12 de este ordenamiento.
+
+La Secretaría de Economía y la Secretaría de Bienestar, con la intervención del Instituto, suscribirán el instrumento jurídico adecuado que permita agilizar de forma segura y electrónica el registro de las Sociedades Cooperativas en el Sistema Integral de Gestión Registral, así como para obtener mediante el acceso a dicho Sistema la información relativa a las Sociedades Cooperativas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE ABRIL DE 2025)</small>
+
+###### Artículo 17 Bis.
+
+El Instituto en materia de información queda facultado para:
+
+I. Integrar un padrón de todas las Cooperativas que operan en el territorio nacional y de las que se certifiquen conforme la normativa aplicable;
+
+II. Proporcionar información estadística de las Cooperativas registradas y sus correspondientes actividades económicas, en coordinación con el Instituto Nacional de Estadística y Geografía;
+
+III. Facilitar la supervisión de las Sociedades Cooperativas por las autoridades competentes, y
+
+IV. Proveer información para el diseño de programas de fomento y desarrollo sustentable de la actividad cooperativa.
+
+Las Sociedades Cooperativas deberán entregar la información que les sea requerida por el Instituto, a efecto de complementar y actualizar el padrón a que se refiere este artículo, en congruencia con lo establecido en la Ley de la Economía Social y Solidaria.
 
 ###### Artículo 18.
 
@@ -1239,3 +1277,59 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO VIGÉSIMO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO Y, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE AUSTERIDAD REPUBLICANA; DE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA Y DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriores.
+
+Tercero.- Las disposiciones relativas a la Plataforma Digital de Contrataciones Públicas entrarán en vigor en la fecha de inicio de operación de cada uno de los módulos que la integran conforme a los avisos que dé a conocer la Secretaría Anticorrupción y Buen Gobierno en el Diario Oficial de la Federación.
+
+Los módulos de la Plataforma Digital de Contrataciones Públicas necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor del presente ordenamiento. La Plataforma Digital de Contrataciones Públicas deberá iniciar operaciones en su totalidad en un plazo no mayor a treinta meses, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+En tanto entran en vigor las disposiciones a que se refiere el párrafo anterior seguirán aplicando en lo conducente las relativas al Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
+
+En tanto entra en operación la Plataforma Digital de Contrataciones Públicas, la difusión y el comunicado de los acuerdos marco, la solicitud de cotización de la adjudicación directa con negociación, así como el anuncio del diálogo competitivo, se publicarán en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet.
+
+Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, a fin de adecuarlo al contenido del mismo. Hasta en tanto eso suceda, se continuará aplicando el Reglamento vigente en lo que no se opongan al presente instrumento.
+
+Quinto.- Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor de la presente Ley, continuarán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+Sexto.- Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+Séptimo.- Las infracciones que hayan sido cometidas con anterioridad a la entrada en vigor de la presente Ley, serán sancionadas de conformidad con la legislación vigente al momento de su comisión.
+
+Octavo.- A partir de la fecha de entrada en vigor del presente Decreto, todas las referencias en los demás ordenamientos jurídicos que se hagan a los contratos marco, deberán entenderse hechas a los acuerdos marco.
+
+Noveno.- Los lineamientos y disposiciones a que hace referencia la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Decreto.
+
+Las políticas, bases y lineamientos a que hace referencia el artículo 4 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán ser emitidos en un plazo no mayor a ocho meses contados a partir de la entrada en vigor del presente Decreto. En tanto no se emitan dichas políticas, bases y lineamientos, las dependencias y entidades continuarán utilizando las disposiciones vigentes.
+
+Décimo.- La instalación del Comité de Contrataciones Estratégicas deberá llevarse a cabo a más tardar en los treinta días hábiles posteriores a la publicación de la presente Ley, asimismo la lista de bienes y servicios a contratar de manera consolidada para el ejercicio fiscal 2025, deberá ser aprobada por dicho órgano colegiado en un plazo no mayor a sesenta días hábiles a partir de su instalación.
+
+Décimo Primero.- El Instituto Nacional de la Economía Social deberá implementar el modelo de certificación de las Sociedades Cooperativas y de los demás Organismos del Sector Social de la Economía, a más tardar, a los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Décimo Segundo.- Las Sociedades Cooperativas que se hayan constituido legalmente previo a la entrada en vigor del presente Decreto, podrán registrarse en el Padrón Nacional de Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto.
+
+Décimo Tercero.- Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos:
+
+I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo.
+
+II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
+
+Décimo Cuarto.- El sistema electrónico para que las Cooperativas formalicen sus Actas Constitutivas a que se refiere el artículo 13 de la Ley General de Sociedades Cooperativas, deberá ponerse en funcionamiento en un plazo máximo de seis meses contados a partir de la suscripción del instrumento referido en el transitorio anterior.
+
+Décimo Quinto.- Para efectos de lo previsto en el artículo 18, fracciones I y II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, se mantienen con plenos efectos las disposiciones siguientes:
+
+I. El Decreto por el que se establecen diversas medidas en materia de adquisiciones, uso de papel y de la certificación de manejo sustentable de bosques por la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 5 de septiembre de 2007;
+
+II. La Circular que contiene los Lineamientos generales relativos a los aspectos de sustentabilidad ambiental para las adquisiciones, arrendamientos y servicios del sector público, publicada en el Diario Oficial de la Federación el 31 de octubre de 2007;
+
+III. El Oficio UNAOPSPF/309/AD/0725/2007, de fecha 31 de octubre de 2007, emitido por la entonces Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal de la Secretaría de la Función Pública, disponible en el Sistema Electrónico de Información Pública Gubernamental denominado CompraNet, y
+
+IV. Los Lineamientos para las adquisiciones de papel para uso de oficina por parte de las dependencias y entidades de la Administración Pública Federal, publicados en el Diario Oficial de la Federación el 2 de octubre de 2009.
+
+Décimo Sexto.- Las dependencias y entidades tendrán un plazo de tres meses contado a partir de la entrada en vigor del presente Decreto, para revisar que la información de sus procedimientos de contratación y los datos relevantes de los contratos publicados en CompraNet que se publicaron a partir del año 2020, sea congruente con la que obra en sus expedientes de contratación con la finalidad de que la información que se migre a la Plataforma sea consistente. En caso de requerirse actualizaciones deberán solicitarse a la Dirección General de Innovación en Contrataciones Públicas de la Secretaría Anticorrupción y Buen Gobierno, fundando y motivando dicho requerimiento.
