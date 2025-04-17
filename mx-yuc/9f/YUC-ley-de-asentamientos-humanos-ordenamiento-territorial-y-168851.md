@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-asentamientos-humanos-ordenamiento-territorial-y-168851"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-22"
-last_updated: "2023-12-22"
+last_updated: "2025-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE ABRIL DE 2025.
 
 Ley publicada en el Suplemento Número 35,269 del Diario Oficial del Estado de Yucatán, el viernes 22 de diciembre de 2023.
 
@@ -3367,13 +3367,17 @@ Artículo primero. Este decreto entrará en vigor a los ciento veinte días natu
 
 Excepciones de la vigencia
 
-Artículo segundo. Se exceptúa de la entrada en vigor las disposiciones legales contenidas en este decreto que se refieran a la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, que entrará en vigor en un plazo de trescientos sesenta y cinco días naturales posteriores a la entrada en vigor del decreto y la reforma a la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, que entrará en vigor en un plazo de ciento ochenta días naturales, dentro del cual la normatividad reglamentaria que le corresponde.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE ABRIL DE 2025)</small>
+
+Artículo segundo. Se exceptúan de la entrada en vigor, las disposiciones legales contenidas en este decreto que se refieran a la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, las cuáles entrarán en vigor el día 20 de abril del 2026, para tal efecto, el Poder Ejecutivo del Estado deberá tomar las previsiones presupuestales correspondientes.
 
 Se exceptúan las disposiciones legales contenidas en este decreto que hagan referencia a la emisión de la factibilidad urbana-ambiental a cargo del Instituto de Movilidad y Desarrollo Urbano Territorial, que entrarán en vigor en un plazo de noventa días naturales, contado a partir de la entrada en vigor de este mismo decreto. Entre tanto, la Secretaría de Desarrollo Sustentable seguirá siendo la autoridad competente para recibir las solicitudes relacionadas con la factibilidad urbana-ambiental, así como para tramitarlas, substanciarlas y resolverlas, de conformidad con el artículo décimo quinto.
 
 Obligación normativa
 
-Artículo tercero. El Congreso del Estado de Yucatán deberá expedir las leyes correspondientes y realizar las modificaciones necesarias a la legislación secundaria, para armonizarla a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+> <small>(REFORMADO, D.O. 17 DE ABRIL DE 2025)</small>
+
+Artículo tercero. El Congreso del Estado de Yucatán deberá realizar las adecuaciones normativas necesarias a la legislación secundaria, para armonizarla a las disposiciones contenidas en este decreto.
 
 Obligación normativa
 
@@ -3440,3 +3444,21 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 17 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 67/2025 POR EL QUE SE MODIFICAN LOS DECRETOS 702/2023 POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE YUCATÁN Y LA LEY DE PROCURACIÓN DE JUSTICIA AMBIENTAL Y URBANA DEL ESTADO DE YUCATÁN, Y 721/2023 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN, LA LEY DE VIVIENDA DEL ESTADO DE YUCATÁN Y LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DEL ESTADO DE YUCATÁN, EN MATERIA DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ejercicio de atribuciones
+
+Artículo segundo. Las dependencias y entidades correspondientes continuarán ejerciendo las atribuciones en materia de control, inspección, vigilancia y sanción en materia ambiental, que les conferían las leyes vigentes previo a la entrada en vigor del Decreto 702/2023 que expide la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán y la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán, hasta en tanto entre en funciones la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, conforme a la Ley de Procuración de Justicia Ambiental y Urbana del Estado de Yucatán; así como también lo dispuesto en el Decreto 721/2023 que modifica la Ley de Gobierno de los Municipios del Estado de Yucatán, la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, la Ley de Vivienda del Estado de Yucatán y la Ley sobre el Régimen de Propiedad en Condominio del Estado de Yucatán, en materia de asentamientos humanos y desarrollo urbano, hasta en tanto entre en funciones la Procuraduría de Justicia Ambiental y Urbana.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico en lo que se opongan a lo señalado en este Decreto.
