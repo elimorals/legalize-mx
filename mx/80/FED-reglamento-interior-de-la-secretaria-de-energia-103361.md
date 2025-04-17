@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-energia-103361"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-31"
-last_updated: "2014-10-31"
+last_updated: "2025-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-29"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ENERGIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, PUBLICADO EN EL D.O.F. DE 17 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PÚBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2025 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 31 de octubre de 2014.
 
@@ -2372,3 +2374,25 @@ c) La Dirección de Expendio al Público, a quien corresponderá el ejercicio de
 d) La Dirección de Apoyo Técnico en Petrolíferos, a quien corresponderá el ejercicio de las facultades establecidas en las fracciones I, IV, VI, VII, IX, X, XI y XII.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Energía publicado en el Diario Oficial de la Federación el 31 de octubre de 2014 y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Tercero.- Se deberán expedir los manuales de organización y los de procedimientos de la Secretaría, necesarios para el funcionamiento de la dependencia, dentro de los 90 días hábiles contados a partir de la entrada en vigor de este decreto.
+
+Cuarto.- Los asuntos en trámite por parte de las unidades administrativas que se eliminan, en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este ordenamiento. Dichas unidades administrativas notificarán a los interesados el cambio respectivo.
+
+En el caso de que las unidades administrativas no se eliminen, pero sus facultades sean modificadas, corresponderá a la unidad administrativa competente conforme al Reglamento Interior abrogado, terminar la sustanciación de los asuntos que se encuentren en trámite y, en su caso, dictar la resolución que corresponda.
+
+Quinto.- Las referencias que se hacen y las atribuciones o facultades que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+Sexto.- La Unidad de Administración y Finanzas realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y la disponibilidad presupuestaria.
+
+Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán ser cubiertas con cargo al presupuesto aprobado a la Secretaría de Energía en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda, por lo que no se incrementará su presupuesto y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
