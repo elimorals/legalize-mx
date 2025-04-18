@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2024-12-20"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,19 @@ state: "COA"
 ---
 # CODIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
+CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS, PUBLICADO EN EL D.O.F. DE 13 DE DICIEMBRE DE 2006, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
-Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1999.
+EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-Al margen un logotipo, que dice: Caminos y Puentes Federales de Ingresos y Servicios Conexos.
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS.
+DECRETA
 
-INDICE
+NÚMERO 518.-
 
 ###### ARTÍCULO ÚNICO.
 
@@ -117,9 +117,15 @@ d) El registro, derechos y obligaciones de las candidaturas independientes en lo
 
 e) La organización y funcionamiento del Instituto, y Tribunal Electoral;
 
-f) La organización de los actos y procedimientos para la organización y desarrollo de las elecciones de los poderes Legislativo y Ejecutivo, y de los Ayuntamientos; y
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+f) La regulación de los actos y procedimientos para la preparación, organización, desarrollo, calificación y validez de las elecciones de los poderes Legislativo, Judicial y Ejecutivo, y de los Ayuntamientos;
 
 g) La relación entre el Instituto y el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+h) La inscripción, participación, evaluación, selección, postulación, registro y demás derechos y obligaciones de las personas candidatas a los cargos judiciales populares del Estado en los procesos judiciales electorales a ocupar algún cargo de elección popular del Poder Judicial del Estado de Coahuila de Zaragoza, en los términos que establece la Constitución General y la Constitución, este Código y demás disposiciones legales.
 
 ###### Artículo 4.
 
@@ -132,6 +138,14 @@ g) La relación entre el Instituto y el Instituto Nacional.
 2. DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES Y HASTA LA CONCLUSIÓN DE LA JORNADA COMICIAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL DE TODA PROPAGANDA GUBERNAMENTAL, DE CUALQUIER ENTE PÚBLICO. LA ÚNICA EXCEPCIÓN A LO ANTERIOR SERÁN LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASOS DE EMERGENCIA. DOS SEMANAS ANTES Y DURANTE TODO EL DESARROLLO DE LA JORNADA ELECTORAL, SERÁN SUSPENDIDAS TODAS LAS ENTREGAS DERIVADAS DE CUALQUIER TIPO DE PROGRAMA ASISTENCIAL EN EL ESTADO.
 
 3. La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto, a los partidos políticos y sus candidatos. El Instituto emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+La promoción de la participación ciudadana para el ejercicio del derecho al sufragio en las elecciones judiciales corresponde exclusivamente al Instituto y a las personas candidatas a los cargos judiciales populares, en los términos, condiciones y límites previstos en la Constitución y la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Para regular la participación electoral de las personas candidatas, el Instituto, a través de la Comisión Especial de Elecciones Judiciales, emitirá las reglas a las que se sujetarán las entrevistas, mesas de discusión o foros de debate organizados por el propio Instituto o en aquellos que se organicen de manera gratuita por el sector público, privado o social, en condiciones de equidad, con los límites y condiciones que establece la Constitución General y la Constitución.
 
 4. El Instituto dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en este Código.
 
@@ -175,11 +189,21 @@ n) Afiliadas.
 
 ñ) Simpatizantes.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+o) Aspirantes a candidatas judiciales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+p) Candidatas judiciales.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LA CIUDADANÍA EN LAS ELECCIONES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 6.
 
@@ -198,6 +222,10 @@ n) Afiliadas.
 7. La ciudadanía podrá participar en las candidaturas independientes a los cargos de elección popular, bajo los requisitos establecidos por este Código.
 
 8. Es obligación de la ciudadanía integrar las mesas directivas de casilla en los términos de las leyes generales y este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+9. La persona ciudadana coahuilense podrá participar como candidata judicial a los cargos de magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y personas juzgadoras, cualquiera (sic) sea su denominación, bajo los requisitos establecidos por este Código y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 7.
 
@@ -309,7 +337,9 @@ e) Haber sido condenado, por sentencia ejecutoria, a la suspensión o pérdida d
 
 f) Los demás que señale este Código.
 
-### CAPITULO II. DEL CONSEJO DE ADMINISTRACION
+### CAPÍTULO SEGUNDO. DE LOS REQUISITOS DE ELEGIBILIDAD
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 10.
 
@@ -351,11 +381,53 @@ h) No haber sido condenada o condenado por resolución o condena judicial firme 
 
 > <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
-### CAPITULO III. DEL DIRECTOR GENERAL
+### CAPÍTULO TERCERO. AFECTACIÓN A LOS DERECHOS POLÍTICO-ELECTORALES POR VIOLENCIA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+
+(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+Artículo 11 BIS. La vigencia de la inelegibilidad A LA QUE SE REFIEREN LOS INCISOS G) Y H) DEL ARTÍCULO ANTERIOR durará:
+
+(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. EN MATERIA ELECTORAL POR EL TIEMPO QUE SE ESTABLEZCA EN EL REGISTRO NACIONAL PARA PERSONAS SANCIONADAS POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO.
+
+(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. En materia penal por el tiempo que dure la extinción de la sanción penal, QUE NO PODRÁ SER MENOR A TRES AÑOS.
+
+(NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. EN MATERIA FAMILIAR, CIVIL O LABORAL, POR EL PLAZO QUE UNA VEZ PRESENTADA LA SOLICITUD DE INELEGIBILIDAD, EL TRIBUNAL ELECTORAL DETERMINE SEGÚN EL CASO EN CONCRETO.
+
+La solicitud para declarar la inelegibilidad podrá ser presentada por cualquier persona a través de un Juicio Electoral o Juicio para la para la (sic) Protección de los Derechos Político-Electorales de la Ciudadanía ante el Tribunal Electoral, dentro del plazo establecido en la Ley de Medios de Impugnación, debiéndose garantizar el derecho de audiencia.
+
+Para tal efecto, el Tribunal deberá realizar las notificaciones personales correspondientes y podrá allegarse de todos los documentos necesarios para sustanciar y resolver el medio de impugnación.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 11 TER. El derecho a ser votado podrá suspenderse temporalmente cuando existan actos cuya naturaleza contenga violencia en razón de género, estableciéndose como supuestos enunciativos, pero no limitativos, los siguientes:
+
+I. Las personas deudoras alimentarias que no proporcionen los recursos necesarios a cualquier persona ascendiente o descendiente, menores incapaces o adultos mayores, respecto de la que tenga obligación legal de proveer a su alimentación, habitación, salud y/o educación.
+
+II. Las personas agresoras físicas que infrinjan daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas en su pareja, cónyuge, ascendientes o descendientes.
+
+III. Las personas agresoras sexuales que cometan actos que degraden o dañen el cuerpo y/o la sexualidad de la víctima y que por tanto atenten contra su libertad, dignidad e integridad física.
+
+IV. Las personas agresoras psicológicas que cometan cualquier acto u omisión que dañe la estabilidad mental de una mujer, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+Este procedimiento especial de suspensión temporal de derechos político-electorales seguirá el trámite de un procedimiento especial sancionador, mismo que deberá abreviarse, atendiendo la urgencia de la sustanciación del asunto, aplicando los mismos criterios de temporalidad previstos en el artículo anterior.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DE DIPUTACIONES, GUBERNATURA DE LAS Y LOS INTEGRANTES DE LOS AYUNTAMIENTOS
 
-### CAPITULO IV. DE LAS FACULTADES DE LOS DIRECTORES Y COORDINADORES
+### CAPÍTULO PRIMERO. DE LOS SISTEMAS ELECTORALES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 12.
 
@@ -599,7 +671,9 @@ c) Acceder a los mismos recursos económicos y materiales que el resto de las re
 
 d) Contar con la asistencia correspondiente para cualquier traducción que requiera en el ejercicio de su encargo.
 
-### CAPITULO V. DE LAS UNIDADES ADMINISTRATIVAS
+### CAPÍTULO SEGUNDO. DE LA REPRESENTACIÓN PROPORCIONAL EN EL CONGRESO Y LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 18.
 
@@ -721,7 +795,9 @@ En el caso de que un partido político no haya registrado una lista de candidatu
 
 10. La asignación de las regidurías étnicas se llevará a cabo de conformidad con los lineamientos que para tal efecto emita el Consejo General del Instituto y su funcionamiento atenderá a las bases contenidas en el artículo 17 Quater.
 
-### CAPITULO VI. DEL CONEXO INDUSTRIAL
+### CAPÍTULO TERCERO. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 20.
 
@@ -787,7 +863,7 @@ c) Ayuntamientos, cada tres años.
 
 4. Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Ley de Partidos en lo aplicable, por las del presente Código y las que, conforme a los mismos, establezcan sus estatutos.
 
-### CAPITULO VII. DE LA CONTRALORIA INTERNA
+### CAPÍTULO PRIMERO. DE LAS AGRUPACIONES POLÍTICAS
 
 ###### Artículo 25.
 
@@ -833,7 +909,7 @@ g) Las demás que establezca este Código.
 
 ## TÍTULO SEGUNDO. DE LA CONSTITUCIÓN, REGISTRO, DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
-### CAPITULO VIII. DE LAS DELEGACIONES REGIONALES
+### CAPÍTULO PRIMERO. DE LOS PARTIDOS
 
 ###### Artículo 26.
 
@@ -871,7 +947,7 @@ e) Los demás que establezca este Código.
 
 2. Los partidos políticos nacionales acreditados ante el Instituto, perderán el derecho al otorgamiento de financiamiento público estatal, en los términos del presente Código, cuando no alcancen en la última elección de diputaciones locales por el principio de mayoría relativa, al menos, tres por ciento de la votación válida emitida.
 
-### CAPITULO IX. DE LAS GERENCIAS DE TRAMO
+### CAPÍTULO SEGUNDO. DE LA CONSTITUCIÓN Y EL REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES
 
 ###### Artículo 29.
 
@@ -965,7 +1041,9 @@ g) Padrón de la ciudadanía afiliada.
 
 1. Una vez obtenido el registro y publicado en el Periódico Oficial, los partidos políticos locales gozarán de personalidad jurídica para todos los efectos legales correspondientes.
 
-### CAPITULO X. DE LA COMISION MIXTA DE PRODUCTIVIDAD Y CALIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO TERCERO. DERECHOS, OBLIGACIONES Y PROHIBICIONES DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 39.
 
@@ -1005,19 +1083,41 @@ e) Ser agente del ministerio público federal o estatal.
 
 3. Un partido político, aportando elementos de prueba, podrá pedir al Consejo General del Instituto se investigue las actividades de otros partidos políticos, cuando incumplan sus obligaciones de manera grave o sistemática.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-### CAPITULO XI. DE LOS COMITES TECNICOS ESPECIALIZADOS
+###### Artículo 43 Bis.
+
+1. Los partidos políticos no podrán participar en ningún caso y en ninguna etapa del proceso electoral de las elecciones judiciales.
+
+2. Se prohíbe de manera categórica que los partidos políticos puedan intervenir, observar o hacer proselitismo en el proceso electoral judicial, directa o indirectamente, ni mucho menos podrán expresarse, a través de sus dirigentes, liderazgos y/o militantes, a favor o en contra de las personas candidatas que participen en el proceso.
+
+3. Los partidos tienen prohibido participar en las acciones, sesiones, reuniones, debates, entrevistas, foros, mesas directivas de casillas, centros de votación o cualquier actividad relacionada con el proceso judicial electoral.
+
+4. El Instituto se encargará de vigilar y sancionar de manera estricta este régimen legal de prohibiciones para asegurar el principio constitucional de no intervención partidista, así como de vigilar la no intervención gubernamental en las elecciones judiciales, a fin de garantizar la independencia judicial.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO CUARTO. DE LAS OBLIGACIONES EN MATERIA DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 44.
 
 1. Los partidos políticos, las agrupaciones políticas y las candidaturas independientes son sujetos obligados y deberán apegarse a lo dispuesto por el artículo 6o de la Constitución General y demás ordenamientos aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+2. Las personas aspirantes y candidatas a los cargos judiciales populares son sujetos obligados en materia de transparencia, en los términos y modalidades que establezca la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 45.
 
 1. Los principios, bases, términos y procedimientos establecidos en la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Acceso a la Información Pública y la Protección de Datos Personales para el Estado de Coahuila, serán aplicables para los partidos políticos, las agrupaciones políticas y las candidaturas independientes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+2. La Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza establecerá las reglas de transparencia judicial a las que se sujetará las personas aspirantes o candidatas a los cargos judiciales populares, sin poner en riesgo la garantía de independencia judicial prevista en la Constitución.
 
 ###### Artículo 46.
 
@@ -1029,11 +1129,9 @@ e) Ser agente del ministerio público federal o estatal.
 
 1. El Instituto Coahuilense de Acceso a la Información Pública es el órgano garante en el estado competente para conocer y resolver los recursos de revisión de derechos de acceso a la información y derechos de Acceso, Rectificación, Cancelación y Oposición, emitir recomendaciones, y en caso de incumplimiento a este capítulo y a las leyes de la materia podrá imponer las medidas cautelares y sanciones correspondientes, a los miembros de los partidos políticos, agrupaciones y candidaturas independientes dando vista al Instituto para que imponga y ejecute la sanción determinada, en términos de las disposiciones aplicables.
 
-### CAPITULO XII. DE LAS SUPLENCIAS
+### CAPÍTULO QUINTO. DE LOS ASUNTOS INTERNOS
 
-## TRANSITORIOS
-
-ESTATUTO ORGANICO DE CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 48.
 
@@ -1071,119 +1169,7 @@ f) La emisión de los reglamentos internos y acuerdos de carácter general que s
 
 3. Cualquier ciudadana o ciudadano podrá presentar ante el Instituto, queja o denuncia por presuntas violaciones a las disposiciones de este Código, las que serán sustanciadas mediante el procedimiento administrativo sancionador previsto en este Código. El Instituto verificará que las autoridades estatales y municipales respeten el libre ejercicio de los derechos de los partidos políticos locales.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-###### ARTICULO 1o.
-
-Caminos y Puentes Federales de Ingresos y Servicios Conexos es un Organismo Público Federal Descentralizado con personalidad jurídica y patrimonio propios, creado por Decreto del Ejecutivo Federal publicado en el Diario Oficial de la Federación el 29 de junio de 1963, y reestructurada su organización y funcionamiento por Decreto Presidencial publicado del,(sic) 2 de agosto de 1985, modificado el 24 de noviembre de 1993 y 14 de septiembre de 1995.
-
-Tiene como antecedente inicial la Entidad Paraestatal de las mismas características, denominada Caminos Federales de Ingresos, establecida por Decreto Presidencial publicado en el Organo Oficial citado, el 31 de julio de 1958.
-
-###### ARTICULO 2o.
-
-El Organismo, que atiende la prestación de un servicio público, tiene por objeto:
-
-I. Administrar y explotar por sí o a través de terceros mediante concesión otorgada en términos de las disposiciones legales aplicables los caminos y puentes federales que ha venido operando, así como en los que en lo futuro se construyan con cargo a su patrimonio o le sean entregados para tal objeto;
-
-II. Llevar a cabo por sí o a través de terceros la conservación, reconstrucción y mejoramiento de dichas vías con cargo a su patrimonio;
-
-III. Proponer en los términos de ley a las autoridades competentes las tarifas que se aplicarán para la explotación de las vías y los servicios que presta, así como percibir y disponer de su ingreso conforme a su presupuesto;
-
-IV. Administrar y explotar por sí o a través de terceros mediante concesión, los servicios conexos y auxiliares a las vías generales de comunicación a que se refieren las fracciones anteriores;
-
-V. Establecer, administrar y explotar en forma directa o a través de sus entidades subsidiarias, plantas industriales para producir bienes necesarios para la realización de su objeto o instrumentar la producción y distribución de estos bienes;
-
-VI. Construir, administrar y explotar por sí o por terceros las instalaciones complementarias que requiera para el cumplimiento de su objeto;
-
-VII. Promover y fomentar la participación de particulares bajo el régimen de concesión en la construcción y explotación de caminos y puentes federales, conforme a los lineamientos que emita la Secretaría de Comunicaciones y Transportes;
-
-VIII. Participar, conforme a las disposiciones legales aplicables, en proyectos de inversión y coinversión, así como en todas las actividades inherentes a estos proyectos, para la construcción y explotación de las vías generales de comunicación a que se refiere este precepto, pudiendo afectar con tal propósito los ingresos provenientes de las vías que administra, con la aprobación de la Secretaría de Comunicaciones y Transportes;
-
-IX. Obtener financiamiento y créditos con cargo a su patrimonio, para la realización de su objeto con sujeción a las disposiciones legales aplicables;
-
-X. Administrar caminos y puentes federales concesionados mediante la celebración de los convenios correspondientes;
-
-XI. Coadyuvar a solicitud de la Secretaría de Comunicaciones y Transportes, en la inspección de las carreteras y puentes federales concesionados y, en su caso, operar estos últimos;
-
-XII. Coadyuvar, a solicitud de la Secretaría de Comunicaciones y Transportes en la ejecución y operación del programa de caminos y puentes concesionados, y
-
-XIII. En general, celebrar y realizar todos los actos jurídicos derivados de la Ley Federal de las Entidades Paraestatales y los demás que sean necesarios para el cumplimiento de su objeto.
-
-###### ARTICULO 3o.
-
-Para el estudio, planeación, atención y ejecución de los asuntos y actos que le competen, Caminos y Puentes Federales de Ingresos y Servicios Conexos, contará con los siguientes Servidores Públicos, Unidades Administrativas y Organos Especiales, Desconcentrados y Colegiados:
-
-- Consejo de Administración
-
-- Director General
-
-- Director de Planeación y Desarrollo
-
-- Director de Operación
-
-- Director Técnico
-
-- Director Jurídico
-
-- Director de Administración y Finanzas
-
-- Director de Obra Concesionada
-
--.Contralor Interno
-
-- Coordinador de Incorporación Carretera
-
-- Coordinador de Comercialización
-
-- Coordinador de Modernización
-
-- Coordinador de Comunicación Social
-
-- Coordinador de Delegaciones
-
-- Coordinador de Seguimiento y Supervisión
-
-- Subdirección de Planeación y Proyectos
-
-- Subdirección de Análisis Estadístico y Políticas Tarifarias
-
-- Subdirección de Normas de Operación
-
-- Subdirección de Supervisión de Operación
-
-- Subdirección de Conservación
-
-- Subdirección de Desarrollo Tecnológico
-
-- Subdirección de Asuntos Jurídicos
-
-- Subdirección de Seguridad y Salvaguarda
-
-- Subdirección de Recursos Humanos y Materiales
-
-- Subdirección de Finanzas
-
-- Subdirección de Informática
-
-- Subdirección de Administración de Contratos de Obra Concesionada
-
-- Subdirección de Evaluación de Obra Concesionada
-
-- Conexo Industrial
-
-- Delegaciones Regionales
-
-- Gerencias de Tramo
-
-- Comisión Mixta de Productividad y Calidad
-
-- Comités Técnicos Especializados
-
-###### ARTICULO 4o.
-
-El Organismo conducirá sus actividades en forma programada, con base en las políticas que, para el logro de los objetivos y prioridades de la planeación nacional del desarrollo y de los programas sectorial e institucional, establezca el Presidente de los Estados Unidos Mexicanos.
-
-La administración del Organismo estará a cargo del Consejo de Administración y del Director General.
+### CAPÍTULO SEXTO. DE LA JUSTICIA INTRAPARTIDARIA
 
 ###### Artículo 50.
 
@@ -1235,149 +1221,7 @@ c) Gozar del régimen fiscal que se establece en este Código y en las leyes de 
 
 d) Usar las franquicias postales y telegráficas que sean necesarias para el cumplimiento de sus funciones.
 
-### CAPITULO SEGUNDO. DEL CONSEJO DE ADMINISTRACION
-
-###### ARTICULO 5o.
-
-El Consejo de Administración es la autoridad suprema del Organismo.
-
-###### ARTICULO 6o.
-
-El Consejo de Administración estará integrado por el Secretario de Comunicaciones y Transportes quien tendrá el carácter de Presidente; los secretarios de Hacienda y Crédito Público, de Desarrollo Social, y de Comercio y Fomento Industrial y por el Director General del Banco Nacional de Obras y Servicios Públicos, S.N.C.
-
-Por cada Consejero Propietario habrá un suplente a nivel de Subsecretario o Director General o de su equivalente, quien será designado por el Consejero Titular y contará con las mismas facultades que los Consejeros Propietarios, en caso de ausencia de éstos.
-
-La Secretaría de Contraloría y Desarrollo Administrativo designará un Comisario Público Propietario y un suplente, quienes tendrán a su cargo la vigilancia del Organismo en los términos legales procedentes.
-
-###### ARTICULO 7o.
-
-Para ser miembros del Consejo se requiere gozar de reconocida calidad moral, capacidad o prestigio, con experiencia vinculada con la naturaleza y tipo de operaciones y servicios del Organismo.
-
-Estos durarán en sus cargos por el tiempo que subsista su designación, que podrá ser revocada libremente por quien la emitió.
-
-Deberán asistir a las sesiones a que sean convocados y en caso de impedimento, lo comunicarán con la debida oportunidad al Director General, por conducto del Secretario. La falta de asistencia injustificada de los Servidores Públicos, dará lugar a la aplicación de las sanciones previstas en la Ley de Responsabilidades respectiva.
-
-###### ARTICULO 8o.
-
-Corresponden al Consejo de Administración las siguientes facultades indelegables:
-
-I. Establecer en congruencia con el programa del Sector, las políticas generales y las prioridades para que el Organismo atienda sus acciones de productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
-
-II. Aprobar los programas del Organismo y conocer su presupuesto aprobado, incluido en el Presupuesto de Egresos Anual de la Federación y, en su caso, sus modificaciones, en los términos de la legislación aplicable;
-
-III. Aprobar la propuesta de las tarifas de servicios que preste el Organismo, para ser establecidas por la Secretaría de Hacienda y Crédito Público con participación de la Secretaría de Comunicaciones y Transportes;
-
-IV. Aprobar la concertación de préstamos para el financiamiento del Organismo con créditos internos y externos, observando los lineamientos que al respecto dicten las autoridades competentes;
-
-V. Expedir las normas para que cuando fuere necesario, el Director General pueda disponer de activos fijos del Organismo que no correspondan a las operaciones propias de su objeto;
-
-VI. Aprobar anualmente, previo informe de los Comisarios y dictamen de los auditores externos, los estados financieros del Organismo y autorizar su publicación;
-
-VII. Aprobar de acuerdo con la Ley de Adquisiciones y Obras Públicas y su Reglamento, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Organismo con terceros en materia de obras públicas, adquisiciones, arrendamientos y prestaciones de servicios relacionados con bienes muebles;
-
-VIII. Aprobar la estructura básica de la organización del Organismo y el Estatuto Orgánico y, en su caso, sus modificaciones;
-
-IX. Proponer al Ejecutivo Federal, en su caso, por conducto de la Secretaría de Hacienda y Crédito Público, los convenios de fusión con otras entidades;
-
-X. Autorizar la creación de comités de apoyo;
-
-XI. Nombrar y remover, a propuesta del Director General, a los servidores públicos del Organismo que ocupen cargos con las dos jerarquías administrativas inferiores a aquél, aprobar la fijación de sus sueldos y prestaciones y concederles licencias;
-
-XII. Nombrar y remover a propuesta de su Presidente, entre personas ajenas al Organismo, al Secretario quien podrá ser miembro o no del mismo; asimismo designar o remover a propuesta del Director General de la entidad al Prosecretario del Consejo, quien podrá ser o no miembro de éste o del Organismo;
-
-XIII. Proponer, en los casos de excedentes económicos del Organismo, la constitución de reservas y su aplicación para su determinación por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público;
-
-XIV. Establecer, con sujeción a las disposiciones legales relativas, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Organismo requiera para la prestación de sus servicios;
-
-XV. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General, con la intervención que corresponda a los comisarios;
-
-XVI. Acordar con sujeción a las disposiciones legales relativas los donativos o pagos extraordinarios, y verificar que los mismos se apliquen precisamente a los fines señalados, en las instrucciones de la Secretaría de Comunicaciones y Transportes;
-
-XVII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor del Organismo, cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Hacienda y Crédito Público por conducto de la Secretaría de Comunicaciones y Transportes;
-
-XVIII. Acordar la realización de todas las operaciones inherentes al objeto del Organismo, y delegar discrecionalmente, en su caso, salvo las que tienen restricción, facultades en el Director General;
-
-XIX. Nombrar al Director General cuando así lo indique el Presidente de la República al través del Secretario de Comunicaciones y Transportes;
-
-XX. Constituir a propuesta de su Presidente o cuando menos de una tercera parte de sus miembros, comités o subcomités técnicos especializados;
-
-XXI. Controlar la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; atender los informes que en materia de control y auditoría le sean turnados y vigilar la implantación de las medidas correctivas a que hubiere lugar;
-
-XXII. Conocer sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, presentado por el Director General;
-
-XXIII. Autorizar el establecimiento de los sistemas de administración de personal e incentivos;
-
-XXIV. Fijar con la normatividad emitida por la Secretaría de Hacienda y Crédito Público, las remuneraciones que correspondan a sus miembros por el ejercicio de esta función;
-
-XXV. Establecer los estímulos y recompensas o, en su caso, las medidas correctivas a que se hagan acreedores los Consejeros como resultado del desempeño de sus cargos;
-
-XXVI. Conocer los informes de los resultados de la actuación de los Comités o Subcomités;
-
-XXVII. Emitir los criterios y políticas de operación que el Organismo debe observar, tomando en cuenta su situación financiera y sus metas a alcanzar;
-
-XXVIII. Establecer los criterios de racionalidad, austeridad y disciplina conforme a los cuales el Organismo debe ejercer su presupuesto autorizado, en concordancia con los lineamientos del Presupuesto de Egresos de la Federación en vigor;
-
-XXIX. Aprobar el anteproyecto anual del presupuesto que le presente el Director General, elaborado de acuerdo a las asignaciones del gasto financiamiento dictadas por la Secretaría de Hacienda y Crédito Público;
-
-XXX. Conocer el informe anual presentado por los Comisarios Públicos, sobre los estados financieros, con base en el dictamen de los auditores externos, y
-
-XXXI. Proporcionar oportunamente a los Comisarios Públicos la información y documentación que requieran para el debido cumplimiento de sus funciones.
-
-###### ARTICULO 9o.
-
-El Consejo de Administración funcionará válidamente cuando en la sesión se encuentren presentes por lo menos la mitad más uno de sus miembros, siempre que entre ellos se encuentre un representante de la Secretaría de Comunicaciones y Transportes.
-
-En el caso de ausencia del Presidente, la sesión será presidida por el Consejero Secretario de Estado que le corresponda, según el orden de precedencia y a falta de éstos por el suplente del Secretario de Comunicaciones y Transportes.
-
-Todos los miembros del Consejo deberán emitir su voto sobre los asuntos que se desahoguen en las sesiones respectivas, salvo que se encuentren impedidos para ello.
-
-Las resoluciones del Consejo se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad.
-
-Las sesiones que celebre el Consejo de Administración podrán ser ordinarias y extraordinarias. Las sesiones ordinarias se llevarán a cabo, cuando menos cada tres meses.
-
-Las extraordinarias se efectuarán cuando lo considere necesario el Presidente del Consejo o lo solicite por lo menos la tercera parte de los Consejeros, o bien el Comisario.
-
-###### ARTICULO 10o.
-
-Para la celebración de las sesiones, la convocatoria deberá ir acompañada del Orden del Día y de la documentación correspondiente, los cuales deberán ser enviados por el Director General o por el Secretario, en su caso, y recibidos por los miembros del Consejo y Comisarios Públicos, con una anticipación no menor a cinco días hábiles.
-
-En caso de que la reunión convocada no pudiera llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
-
-###### ARTICULO 11o.
-
-Corresponde al Presidente del Consejo de Administración:
-
-I. Instalar, presidir y levantar las sesiones;
-
-II. Diferir o suspender la reunión por causas que pudieren afectar su celebración o el desarrollo de la misma y que a su juicio así lo ameriten;
-
-III. Dirigir y moderar los debates;
-
-IV. Resolver en caso de empate con su voto de calidad, y
-
-V. Firmar las actas de las sesiones.
-
-###### ARTICULO 12o.
-
-Corresponde al Secretario:
-
-I. Elaborar, con la anticipación debida, el Orden del Día de las sesiones del Consejo de Administración, tomando en cuenta los asuntos que a propuesta de los Consejeros, del Director General del Organismo y del Comisario, se deban incluir en el mismo y someterlo a la aprobación del Presidente del Consejo de Administración;
-
-II. Enviar para su estudio a los integrantes del Consejo de Administración, la documentación de los asuntos a tratar, asegurándose que su recepción se efectúe cuando menos cinco días hábiles antes de la celebración de la sesión;
-
-III. Pasar lista de asistencia y verificar que el número de asistentes sea por lo menos de la mitad más uno de los representantes;
-
-IV. Elaborar el calendario de sesiones del Consejo de Administración, que deba ser sometido a su aprobación y distribuirlo entre los consejeros, y
-
-V. Recabar información sobre el cumplimiento de los acuerdos del Consejo de Administración y ponerla a disposición de éste.
-
-###### ARTICULO 13o.
-
-Corresponde al Prosecretario:
-
-I. Dar lectura al acta de la sesión anterior y tomar nota de las observaciones de los Consejeros para su modificación, y
-
-II. Levantar las actas de las sesiones que celebre el Consejo de Administración y asentarlas, una vez aprobadas, en el libro respectivo, obteniendo las firmas del Presidente y de los Consejeros que concurran. Asimismo, llevar el registro de los acuerdos tomados en las sesiones del propio Consejo.
+### CAPÍTULO PRIMERO. DEL ACCESO A LOS MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 54.
 
@@ -1417,107 +1261,7 @@ c) Se establezcan condiciones de equidad en el formato.
 
 5. La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de las candidatas y los candidatos invitadas a estos debates no será causa para la no realización del mismo.
 
-### CAPITULO TERCERO. DEL DIRECTOR GENERAL
-
-###### ARTICULO 14o.
-
-El Director General será designado por el Presidente de la República o, a indicación de éste, a través del Secretario de Comunicaciones y Transportes, por el Consejo de Administración.
-
-###### ARTICULO 15o.
-
-Para ser nombrado Director General se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, que no adquiera otra nacionalidad, y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Haber desempeñado por más de cinco años cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
-
-III. No encontrarse en los impedimentos de tener parentesco por consanguinidad o afinidad hasta el cuarto grado, o civil, con cualquiera de los miembros del Consejo; tener litigios pendientes con el Organismo; estar sentenciado por delitos patrimoniales, inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; tener participación o intereses particulares o familiares en empresas relacionadas con las operaciones del Organismo; no desempeñar algún otro empleo, cargo oficial o particular que obstaculice su función o, ser Diputado o Senador al H. Congreso de la Unión.
-
-###### ARTICULO 16o.
-
-La representación del Organismo, así como el trámite y resolución de los asuntos de su competencia corresponde originalmente al Director General, quien para la mejor distribución, desarrollo y realización del trabajo, podrá delegar sus facultades en servidores públicos subalternos, con excepción de aquellas que deberán ser ejercidas directamente por él, sin perder por ello su ejercicio directo.
-
-###### ARTICULO 17o.
-
-Serán facultades y obligaciones del Director General, las siguientes:
-
-I. Administrar y representar legalmente al Organismo;
-
-II. Elaborar los programas institucionales de corto, mediano y largo plazos, así como los presupuestos del Organismo y presentarlos para su aprobación al Consejo de Administración;
-
-III. Preparar los programas de organización;
-
-IV. Establecer los métodos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo;
-
-V. Dictar las medidas pertinentes a fin de que las funciones del Organismo se realicen de manera articulada, congruente y eficaz;
-
-VI. Establecer los procedimientos para controlar la calidad de los servicios;
-
-VII. Proponer al Consejo de Administración el nombramiento o la remoción de los dos primeros niveles de servidores del Organismo, la fijación y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Consejo;
-
-VIII. Recabar información y elementos estadísticos que reflejen el estado de las funciones del Organismo para así poder mejorar la gestión de la misma;
-
-IX. Establecer los sistemas de control necesarios para alcanzar las metas u objetivos propuestos;
-
-X. Presentar periódicamente al Consejo de Administración el informe del desempeño de las actividades del Organismo, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas;
-
-XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe el Organismo y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con el propio Consejo y escuchando al Comisario Público;
-
-XII. Ejecutar los acuerdos que dicte el Consejo de Administración;
-
-XIII. Suscribir, en su caso, los contratos individuales que regulen las relaciones laborales del Organismo con sus trabajadores;
-
-XIV. Delegar y revocar poderes, como mandatario general del Organismo;
-
-XV. Integrarse a las Comisiones Intersecretariales del Ejecutivo Federal, cuando sea invitado;
-
-XVI. Dar cuenta al Congreso de la Unión, cuando se estudie un negocio relativo al Organismo;
-
-XVII. Proporcionar información y datos a dependencias y entidades públicas y a las instituciones privadas que lo soliciten;
-
-XVIII. Preparar y mantener una administración ágil y eficiente;
-
-XIX. Manejar y erogar recursos con sus propios órganos;
-
-XX. Elaborar el programa financiero y someterlo a la autorización del Consejo de Administración;
-
-XXI. Instalar y presidir la Comisión Mixta de Productividad y Calidad, así como designar a sus miembros y a los que integren otras comisiones o comités que sean necesarios para el buen funcionamiento del Organismo y que no requerirán para su funcionamiento recursos propios;
-
-XXII. Disponer de activos fijos de operación no propias, según autorización del Consejo de Administración;
-
-XXIII. Intervenir en convenios, contratos, pedidos o acuerdos de obras públicas y de adquisiciones y arrendamientos relativos a bienes muebles;
-
-XXIV. Proponer al Consejo de Administración la estructura básica del Organismo y sus modificaciones y, tramitar ante la Secretaría de Hacienda y Crédito Público la estructura no básica y modificaciones;
-
-XXV. Someter al Consejo el proyecto del Estatuto Orgánico y, en su caso, sus modificaciones, y disponer, luego de aprobados, la publicación en el Diario Oficial de la Federación;
-
-XXVI. Adscribir en su caso, orgánicamente a sus Unidades Administrativas; así como aprobar y expedir los manuales de Organización, de Procedimientos y de Servicios al Público, necesarios para el funcionamiento del Organismo;
-
-XXVII. Proponer al Consejo de Administración los nombramientos, remoción y licencias, sueldos y prestaciones de los Directores, Subdirectores y/o equivalentes;
-
-XXVIII. Proponer al Prosecretario del Consejo de Administración;
-
-XXIX. Establecer y aplicar indicadores estadísticos de gestión y sistemas de registro, información, evaluación y control;
-
-XXX. Instrumentar y supervisar programas de modernización, desconcentración, descentralización, simplificación administrativas y de capacitación y actualización de personal;
-
-XXXI. Elaborar y proponer al Consejo de Administración sistemas de administración de personal e incentivos;
-
-XXXII. Tramitar documentación para las reuniones de Consejo de Administración y conocer de ajustes procedentes;
-
-XXXIII. Presentar al Consejo de Administración informes sobre la aplicación de criterios de racionalidad, austeridad y disciplina presupuestal;
-
-XXXIV. Proponer al Consejo de Administración modificaciones a tarifas de servicios y mecanismos diferenciales para comercialización;
-
-XXXV. Suscribir convenios de desempeño congruentes con el programa institucional;
-
-XXXVI. Fijar de conformidad con las disposiciones legales vigentes, las Condiciones Generales de Trabajo para regular las relaciones laborales con el personal de base del Organismo y mantener al corriente los escalafones y los estímulos y recompensas;
-
-XXXVII. Establecer relaciones cordiales con el Sindicato Nacional de Trabajadores del Organismo y atender, en su caso, a través de sus colaboradores, las solicitudes de mejoramiento laboral que le soliciten, según corresponda;
-
-XXXVIII. Recibir en acuerdo a los Directores, Contralor Interno, Subdirectores, Coordinadores, Titular del Conexo Industrial, Delegados Regionales y Gerentes de Tramo de reporte directo, así como conceder audiencias al demás personal del Organismo y al público que lo solicite, y
-
-XXXIX. Las que señalen las otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.
+### CAPÍTULO SEGUNDO. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 57.
 
@@ -1677,57 +1421,7 @@ d) Los rendimientos financieros obtenidos a través de esta modalidad deberán d
 
 2. En caso de que el Instituto Nacional Electoral delegue las funciones de fiscalización al Instituto, los partidos políticos o coaliciones deberán presentar los informes, a que se refiere el párrafo anterior, ante la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Instituto.
 
-### CAPITULO CUARTO. DE LAS FACULTADES DE LOS DIRECTORES Y COORDINADORES
-
-###### ARTICULO 18o.
-
-Corresponde a los Directores y Coordinadores:
-
-I. Acordar con el Director General el despacho de los asuntos de las Unidades Administrativas bajo su responsabilidad e informarle sobre el desarrollo de los mismos, salvo el Coordinador de Seguimiento y Supervisión, quien acordará directamente con el Director de Administración y Finanzas, de quien dependerá jerárquicamente;
-
-II. Elaborar los anteproyectos del Programa Presupuesto Anual que les corresponda y vigilar, en su caso, una vez aprobados, su correcta aplicación;
-
-III. Establecer, de acuerdo a su competencia las normas y procedimientos de trabajo, que regulan el funcionamiento de las Unidades Administrativas de su adscripción;
-
-IV. Desempeñar las encomiendas que el Director General les indique y mantenerlo informado sobre el desarrollo de sus actividades;
-
-V. Someter a la aprobación del Director General los estudios y proyectos que consideren de trascendencia, elaborados por las Unidades Administrativas a su cargo;
-
-VI. Suscribir los documentos relativos al ejercicio de sus funciones, las señaladas por delegación de facultades y las relativas a señalamientos de suplencia;
-
-VII. Proporcionar en forma periódica y sistemática la información sobre los avances, físico y financieros del ejercicio de su presupuesto y, en su caso, proporcionar los comentarios y justificaciones a las desviaciones del mismo, con el objeto de integrar los informes que debe proporcionar la entidad;
-
-VIII. Dirigir y controlar la operación y funcionamiento de las Unidades Administrativas a su cargo, según los lineamientos y prioridades indicadas por el Director General;
-
-IX. Apoyar las medidas de mejoramiento y desconcentración administrativas y proponer al Director General la delegación de facultades en sus colaboradores;
-
-X. Vigilar el cabal cumplimiento de las disposiciones legales de los asuntos de su competencia;
-
-XI. Resolver sobre las licitaciones públicas, en materia de adquisiciones y obras públicas en que participen las Unidades Administrativas a su cargo, de acuerdo a la normatividad correspondiente;
-
-XII. Emitir opinión respecto de convenios y contratos que celebre el Organismo en aspectos del área de su competencia;
-
-XIII. Proponer en su caso, el establecimiento de nuevos servicios a los usuarios y la mejoría de los existentes;
-
-XIV. Proporcionar o instruir que se facilite la información, datos o la cooperación técnica requerida internamente o por otras instituciones públicas o privadas, de acuerdo con las políticas establecidas al respecto;
-
-XV. Recibir en acuerdo a los responsables de las Unidades Administrativas del área de su competencia, así como conceder audiencias al demás personal colaborador y al público que lo solicite;
-
-XVI. Formar parte de las comisiones o comités internos del área de su competencia o los que indique el Director General;
-
-XVII. Coordinar entre ellos las labores encomendadas a su cargo, a fin de obtener el mejor desempeño conjunto;
-
-XVIII. Colaborar con las áreas correspondientes en el diseño e implantación de programas destinados a incrementar la eficiencia sustantiva y administrativa de las Unidades Administrativas a su cargo y en la adecuada evaluación del desempeño de sus trabajadores;
-
-XIX. Atender en su caso, según corresponda, los asuntos que les sean presentados por el Sindicato Nacional de Trabajadores del Organismo directamente o a través del Director General;
-
-XX. Operar, en su caso, el Sistema de Orientación e Información al Público, y
-
-XXI. Llevar a cabo las demás facultades que las disposiciones legales y el Director General les confieran, afines a las anteriores.
-
-> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2002)</small>
-
-Además de lo previsto en el presente artículo, y sin perjuicio de la facultad que la fracción I del artículo 17o. del presente instrumento confiere al Director General, corresponde a los directores Técnico y Jurídico, en forma mancomunada, la representación del organismo en los procedimientos de rescisión administrativa de los contratos de obras públicas y servicios relacionados con las mismas, en los casos de incumplimiento de los contratistas; asimismo, corresponde a los directores de Administración y Finanzas y Jurídico, en forma conjunta, la representación del organismo en los procedimientos de rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios del sector público en los casos de incumplimiento de los proveedores, en los términos de las leyes aplicables.
+### CAPÍTULO TERCERO. DE LA FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 65.
 
@@ -1769,373 +1463,9 @@ Además de lo previsto en el presente artículo, y sin perjuicio de la facultad 
 
 2. En los casos en los que se promocione a dos o más candidatos a cargos de elección popular en elecciones estatales, sin que haya participación de candidatos a cargos de elección federal, el Instituto determinará las reglas aplicables para el prorrateo.
 
-### CAPITULO QUINTO. DE LAS UNIDADES ADMINISTRATIVAS
+### CAPÍTULO CUARTO. DE LAS COALICIONES Y FUSIONES
 
-###### ARTICULO 19o.
-
-Al frente de las Unidades Administrativas habrá Subdirectores, quienes tendrán a su cargo la responsabilidad técnica y administrativa de su adecuado funcionamiento.
-
-Estarán auxiliados según proceda, por uno o varios Gerentes y Jefes de Departamento, así como personal de apoyo que las necesidades del servicio requiera, se precisen en el Manual General de Organización vigente y figuren en el presupuesto y estructura ocupacional autorizada.
-
-###### ARTICULO 20o.
-
-Corresponde a los Subdirectores las siguientes facultades:
-
-I. Atender las labores encomendadas a la Unidad Administrativa a su cargo, así como intervenir en la elaboración del Programa Anual de Trabajo y el proyecto de presupuesto correspondientes;
-
-II. Acordar con su superior inmediato los asuntos de su competencia;
-
-III. Intervenir en la designación, desarrollo, capacitación, promoción y adscripción del personal a su cargo, autorizar licencias de conformidad con las necesidades de servicio y participar en los casos de sanciones, remoción y cese de personal de su responsabilidad, de conformidad con las disposiciones legales aplicables y, en su caso, con las Condiciones Generales de Trabajo;
-
-IV. Coordinar sus actividades con los otros Subdirectores, cuando el caso lo requiera, para el desempeño cabal de las atribuciones a su cargo;
-
-V. Elaborar los dictámenes, opiniones e informes que le sean solicitados conforme a las normas establecidas;
-
-VI. Resolver sobre los recursos de reconsideración que se le impongan, cuando legalmente procedan en el área de su competencia;
-
-VII. Proporcionar información, datos o la cooperación técnica que les sea requerida internamente o por otras instituciones públicas o privadas de acuerdo con las políticas establecidas al respecto;
-
-VIII. Recibir en acuerdo a los Gerentes y Jefes de Departamento, y los demás servidores subalternos, así como conceder audiencias al público;
-
-IX. Preparar y someter a la consideración de su superior inmediato los proyectos de reorganización de la Unidad Administrativa a su cargo, el Manual de Organización y demás documentos normativos, coordinándose para tal efecto con la Subdirección de Recursos Humanos y Materiales;
-
-X. Vigilar el correcto uso y salvaguarda de los materiales, equipos y demás recursos que estén asignados a la Unidad Administrativa a su cargo; así como atender los programas auxiliares;
-
-XI. Colaborar con las áreas correspondientes en el diseño e implantación de programas destinados a incrementar la eficiencia sustantiva y administrativa de las Unidades Administrativas a su cargo y en la adecuada evaluación del desempeño de sus trabajadores;
-
-XII. Vigilar que el ejercicio del presupuesto se ejerza de acuerdo con el Manual de Normas Presupuestarias para la Administración Pública, y que se proporcione la información para la integración de los diferentes reportes presupuestales de acuerdo a las fechas límites para el proceso presupuestario, así como la necesaria para la integración de la Cuenta de la Hacienda Pública;
-
-XIII. Atender, en su caso, según corresponda, los requerimientos del Sindicato Nacional de Trabajadores del Organismo, presentados directamente o a través de las autoridades superiores;
-
-XIV. Participar en las comisiones o comités internos de su ámbito de competencia o los que indique el Director General;
-
-XV. Vigilar el cumplimiento a las observaciones emitidas por los diferentes entes fiscalizadores;
-
-XVI. Proporcionar la información de los indicadores de desempeño e informes de actividades de la unidad administrativa a su cargo, y
-
-XVII. Realizar, además, aquellas facultades que las disposiciones legales y el Director General les confieran, afines a las que anteceden.
-
-###### ARTICULO 21o.
-
-La Subdirección de Planeación y Proyectos tendrá asignadas las siguientes funciones:
-
-I. Desarrollar las funciones de planeación e identificar los programas y proyectos estratégicos del Organismo, así como monitorear y supervisar su adecuada implementación;
-
-II. Asesorar y apoyar a las unidades administrativas del Organismo cuando éstas lo soliciten, en la formulación e instrumentación de los planes, programas o proyectos institucionales;
-
-III. Evaluar las tendencias del sector carretero y analizar su impacto institucional en los programas y proyectos en proceso de ejecución y próximos a instrumentarse;
-
-IV. Coordinar la evaluación y, en su caso, proponer proyectos carreteros que posibiliten la ampliación e integración de la red carretera de altas especificaciones;
-
-V. Coordinar la identificación y promoción de proyectos rentables de inversión asociados con el uso y aprovechamiento integral de los derechos de vía;
-
-VI. Coordinar el diseño de esquemas de ingeniería financiera sobre proyectos de inversión que impliquen recursos, concesiones, permisos u otro tipo de responsabilidad, donde participe CAPUFE;
-
-VII. Coadyuvar en el proceso de análisis y evaluación de las solicitudes de participación de CAPUFE en proyectos de inversión y coinversión con particulares y entidades estatales para la construcción y explotación de vías generales de comunicación bajo el sistema de concesión;
-
-VIII. Evaluar y proponer mecanismos alternativos de fondeo para el financiamiento de proyectos carreteros;
-
-IX. Coordinar, con base en la información proporcionada por las áreas sustantivas de la entidad, la elaboración e integración de diversos documentos informativos oficiales relativos al quehacer productivo institucional, solicitados por las entidades globalizadoras, y
-
-X. Coordinar la implementación del Programa de Modernización de la Administración Pública (PROMAP) en la entidad, de conformidad con la metodología establecida por la SECODAM y en coordinación con la SCT.
-
-###### ARTICULO 22o.
-
-La Subdirección de Análisis Estadístico y Políticas Tarifarias tendrá a su cargo las siguientes funciones:
-
-I. Conceptualizar, integrar y difundir la información estadística necesaria para la planeación y evaluación institucional, así como proponer programas de difusión de estadísticas institucionales;
-
-II. Coordinar el manejo y generación de los sistemas de información institucional y de apoyo directivo;
-
-III. Coordinar el establecimiento de mecanismos de coordinación interinstitucional con organismos de generación de información;
-
-IV. Proporcionar la información y la cooperación técnica que le sea requerida en materia de su competencia;
-
-V. Coordinar el desarrollo de estudios sobre tarifas óptimas y proponer la política tarifaria aplicable a la explotación de los caminos y puentes de la red propia, así como participar en la conformación de una estructura tarifaria racional para la red concesionada;
-
-VI. Coordinar el desarrollo de estudios específicos de elasticidad-precio de la demanda, por ejes y tramos carreteros, y
-
-VII. Coordinar la instrumentación del sistema de indicadores de gestión institucional para la medición y evaluación de los resultados del Organismo.
-
-###### ARTICULO 23o.
-
-La Subdirección de Normas de Operación, tendrá a su cargo las siguientes funciones:
-
-I. Proponer los mecanismos de control para la distribución de los rollos y comprobantes de pago a las delegaciones regionales y gerencias de tramo del organismo;
-
-II. Establecer y proponer, así como mantener actualizada la normatividad y disposiciones que reglamenten la operación de las plazas de cobro y servicios complementarios en autopistas, caminos directos y puentes que administra el organismo, a través de las delegaciones regionales y gerencias de tramo en el ámbito nacional;
-
-III. Coordinar el programa integral de mantenimiento a los equipos de control de tránsito e instalaciones y equipamiento eléctrico en las plazas de cobro de las diferentes delegaciones regionales y gerencias de tramo;
-
-IV. Coordinar con la dirección técnica las necesidades de adecuación, remodelación y mantenimiento, de las plazas de cobro y áreas de influencia dentro de la red carretera del Organismo;
-
-V. Integrar en coordinación con la Dirección de Planeación y Desarrollo, los instrumentos de planeación y programas estratégicos correspondientes a la unidad administrativa a su cargo;
-
-VI. Integrar y proponer a la Dirección de Operación la adquisición de equipo de control de tránsito, así como supervisar su instalación en las plazas de cobro, y coordinarse con la Subdirección de Informática para la implementación de sistemas y software requeridos para su operación en la red carretera a cargo del Organismo;
-
-VII. Proporcionar la asesoría y capacitación al personal de las delegaciones regionales y gerencias de tramo en el ámbito nacional, en lo concerniente a la operación de los servicios dentro de su ámbito de competencia;
-
-VIII. Representar al Director de Operación de acuerdo a sus instrucciones ante las autoridades federales, estatales, municipales, así como con los convenios bilaterales de carácter internacional relativos a las atribuciones a su cargo;
-
-IX. Coordinar que los servicios complementarios que se proporcionan a los clientes se realicen y cumplan con la normatividad establecida, y
-
-X. Coordinar el cumplimiento de la normatividad que expidan las dependencias externas, con relación al uso del derecho de vía, paraderos y accesos en la red carretera del Organismo.
-
-###### ARTICULO 24o.
-
-La Subdirección de Supervisión de Operación tendrá a su cargo las siguientes funciones:
-
-I. Impulsar y desarrollar mecanismos de supervisión dirigidos al personal que participa en la operación de las plazas de cobro correspondientes a la red propia y contratada, con el objeto de dar cumplimiento a las disposiciones vigentes para tal efecto;
-
-II. Vigilar que los servicios que proporciona el Organismo a los clientes de la red propia y contratada, sean de acuerdo a las normas establecidas y con la máxima calidad;
-
-III. Establecer los procesos para la captación de los ingresos de las plazas de cobro, con el apoyo de la Subdirección de Informática;
-
-IV. Elaborar e implementar estudios de supervisión de ingeniería de tránsito, tendientes a incrementar la eficiencia operativa de la red propia y contratada de los caminos y puentes del Organismo, y
-
-V. Proponer a la Subdirección de Normas de Operación, el Programa Integral de Mantenimiento para Instalaciones Eléctricas, de equipos electrónicos de peaje de las delegaciones regionales, gerencias de tramo y plazas de cobro.
-
-###### ARTICULO 25o.
-
-La Subdirección de Conservación tendrá a su cargo las siguientes funciones:
-
-I. Controlar la instrumentación de las políticas y normas técnicas para programar, presupuestar, ejecutar, controlar y evaluar la conservación, reconstrucción y el mejoramiento de los caminos y puentes federales de cuota a cargo del Organismo;
-
-II. Supervisar y coordinar la elaboración y desarrollo de los programas de conservación, reconstrucción y mejoramiento de los caminos y puentes de cuota;
-
-III. Coordinar la recopilación de las normas técnicas relacionadas con la conservación de caminos y puentes y, en su caso, participar en su elaboración;
-
-IV. Establecer y definir en coordinación con la Subdirección de Informática los criterios para el procesamiento de datos generados que permitan el control del avance físico y financiero de las obras de conservación;
-
-V. Evaluar la operación de las políticas, normas y actividades de conservación, reconstrucción y mejoramiento de los caminos y puentes federales de cuota, y
-
-VI. Coordinar la integración del programa anual de adquisición de recursos materiales y de mantenimiento de maquinaria y equipo para la conservación y reconstrucción de los caminos y puentes federales de cuota a cargo del Organismo, en coordinación con la Subdirección de Recursos Humanos y Materiales.
-
-###### ARTICULO 26o.
-
-La Subdirección de Desarrollo Tecnológico tendrá a su cargo las siguientes funciones:
-
-I. Definir y proponer las políticas, normas y procedimientos técnicos para apoyar técnicamente al desarrollo de las obras de construcción, conservación y remodelación de la red carretera y bienes inmuebles propiedad del Organismo;
-
-II. Establecer convenios con instituciones de educación superior que permitan conocer las investigaciones efectuadas sobre el uso de nuevas tecnologías en la construcción y conservación de carreteras y todas las obras relacionadas;
-
-III. Promover la utilización de nuevos materiales en la conservación de las autopistas y puentes de cuota, con base en la experiencia de otros países;
-
-IV. Definir las reglas e instructivos técnicos, bajo los cuales se ejecutarán los programas carreteros y se mantendrán permanentemente actualizadas las especificaciones para la construcción, reconstrucción y conservación de los caminos y puentes a cargo de la entidad, en función de las innovaciones de desarrollo tecnológico;
-
-V. Realizar los estudios necesarios para la aplicación de nuevas tecnologías y materiales en los trabajos de conservación de las autopistas y puentes de cuota, así como en las obras de edificación, ecología y elementos auxiliares;
-
-VI. Promover reuniones técnicas, seminarios, congresos y conferencias relacionadas con el uso de nuevas tecnologías y materiales en la construcción de carreteras y de obras de edificación, para la operación de las unidades administrativas que conforman el Organismo;
-
-VII. Revisar e implantar normas ecológicas para mitigar el impacto ambiental en carreteras;
-
-VIII. Mantener estrecha comunicación con la Secretaría de Comunicaciones y Transportes para la identificación y, en su caso, la elaboración e implantación de normas técnicas de aplicación de nuevas tecnologías, relacionadas con la conservación de los caminos y puentes a cargo del Organismo, y
-
-IX. Supervisar la integración de estudios para el establecimiento de la normatividad bajo la cual se otorgarán permisos de tránsito de vehículos y cargas que deban transitar por la red carretera de acuerdo con las leyes, reglamentos vigentes y a su clasificación.
-
-###### ARTICULO 27o.
-
-La Subdirección de Asuntos Jurídicos tendrá a su cargo las siguientes funciones:
-
-I. Vigilar el cumplimiento en la formalización de las operaciones inmobiliarias que lleve a cabo el Organismo;
-
-II. Vigilar el cumplimiento de los contratos relativos a los diversos seguros contratados por esta entidad;
-
-III. Vigilar el cumplimiento de las actividades encomendadas al Comité de Normalización del Organismo;
-
-IV. Vigilar que se represente legalmente a esta entidad ante toda clase de autoridades judiciales;
-
-V. Vigilar que se preste asesoría en materia legal a los servidores públicos de este organismo;
-
-VI. Emitir los dictámenes respecto de los trabajadores que violen las Condiciones Generales de Trabajo de esta entidad;
-
-VII. Vigilar que se presenten las denuncias por actos ilícitos cometidos por los servidores públicos de este Organismo en el desempeño de sus funciones o con motivo de ellas;
-
-VIII. Vigilar que se coadyuve en materia laboral con la Subdirección de Recursos Humanos y Materiales y en las negociaciones con el Sindicato Nacional de Trabajadores del Organismo;
-
-IX. Controlar la participación en los procesos de licitaciones públicas e invitaciones restringidas, así como el procedimiento jurídico relativo a la revisión y elaboración de los contratos y convenios en materia de adquisiciones, arrendamientos, servicios, obra pública, servicios relacionados con la misma, sistema IAVE, concesiones y permisos que celebre esta entidad. Asimismo, los convenios y contratos en materia de fideicomisos y de prestación de servicios de la infraestructura carretera concesionada que administra y opera el Organismo;
-
-X. Vigilar la participación, como asesor, en los Comités de Adquisiciones, Arrendamientos y Servicios y de Obra Pública y Servicios Relacionados con la misma, así como el de Enajenación de Bienes Muebles e Inmuebles y el de Inversiones y demás comités que se establezcan, y
-
-XI. Vigilar que se preste la asesoría en materia de fideicomisos, prestación de servicios, administración y operación.
-
-###### ARTICULO 28o.
-
-La Subdirección de Seguridad y Salvaguarda tendrá a su cargo las siguientes funciones:
-
-I. Controlar y vigilar la ejecución del programa de trabajo para la instalación, operación y mantenimiento de los equipos de comunicación y emitir y diseñar, en coordinación con las áreas correspondientes, el uso de nuevos equipos de comunicación;
-
-II. Controlar, supervisar y proporcionar la información estadística y cooperación técnica, requerida por oficinas centrales, delegaciones regionales y gerencias de tramo, así como a las instituciones públicas, de acuerdo con las normas y lineamientos establecidos al respecto;
-
-III. Supervisar la operatividad de la vigilancia y seguridad del personal, así como de bienes muebles e inmuebles y de las instalaciones y equipos de trabajo propiedad del Organismo;
-
-IV. Supervisar las normas sobre el resguardo y traslado de valores, boletos de peaje, equipos y documentos, entre otros, y
-
-V. Supervisar la elaboración e implantación de los programas operativos para la prevención y auxilio en casos de desastre, para la prevención de accidentes en el trabajo, así como el mejoramiento de las condiciones en el mismo.
-
-###### ARTICULO 29o.
-
-La Subdirección de Recursos Humanos y Materiales tendrá a su cargo las siguientes funciones:
-
-I. Estudiar y atender los requerimientos de personal de las Unidades Administrativas que integran el Organismo e intervenir en la selección, nombramiento o contratación, evaluación, ubicación y reubicación, así como llevar el registro y control del personal, y tramitar las identificaciones y certificaciones correspondientes;
-
-II. Coordinar la programación y ejercicio del presupuesto de servicios personales, efectuar los trámites requeridos y vigilar el cumplimiento de las normas y disposiciones establecidas; sobre todo en lo relativo al pago de las remuneraciones centrales y desconcentradas;
-
-III. Participar en la elaboración, revisión, difusión y vigilar el cumplimiento de las Condiciones Generales de Trabajo y de los Reglamentos de Escalafón, de Capacitación y de Seguridad e Higiene y, demás disposiciones reglamentarias del orden laboral, en coordinación con las Comisiones Mixtas correspondientes;
-
-IV. Elaborar y mantener actualizado el Catálogo Institucional de Puestos y participar en la actualización del tabulador de sueldos y salarios en el Organismo, y atender las políticas para su aplicación;
-
-V. Definir con base en las estrategias y objetivos dictados por la Dirección General, las estructuras orgánicas que permitan a la entidad cumplir con sus objetivos;
-
-VI. Integrar, actualizar y difundir los manuales de organización y de procedimientos, asesorar a las Unidades Administrativas que conforman la entidad en la formulación de manuales específicos y de aquellos documentos de soporte necesarios para el desarrollo y cumplimiento de las funciones asignadas;
-
-VII. Desarrollar e implementar los estudios relacionados a estructuras orgánicas, sistemas, métodos y procedimientos que requiera el Organismo;
-
-VIII. Integrar y coordinar bajo los lineamientos establecidos por la Coordinadora Sectorial, el Programa de Modernización y Simplificación Administrativa comprometido por las áreas que conforman el Organismo;
-
-IX. Fijar, en los términos de las Condiciones Generales de Trabajo, los procedimientos y normas para la imposición de sanciones, al personal de base;
-
-X. Proporcionar la asesoría y apoyo que en materia de relaciones laborales requiera el personal y las áreas del Organismo, y coordinar la adecuada evaluación del desempeño de los trabajadores;
-
-XI. Fomentar y proporcionar al personal las prestaciones, servicios e incentivos a que son acreedores por parte del Organismo y gestionar ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, las que le corresponde atender; así como aplicar los sistemas de estímulos y recompensas establecidos por la Ley en la materia;
-
-XII. Celebrar convenios y acuerdos con las instituciones, organismos y entidades culturales para la ejecución de programas orientados al bienestar social y cultural de los trabajadores del Organismo y sus familiares derechohabientes;
-
-XIII. Elaborar, controlar y evaluar los programas de capacitación y desarrollo de personal en general y los vinculados al sistema escalafonario;
-
-XIV. Integrar el Programa Anual de Adquisiciones y Servicios, de conformidad con los requerimientos que presenten las áreas del Organismo;
-
-XV. Adquirir, administrar y abastecer los recursos materiales y servicios y suministrarlos según lo requieran las áreas del Organismo, de conformidad con el programa autorizado;
-
-XVI. Intervenir en la elaboración, autorización, trámite y supervisión de convenios, contratos y pedidos que sobre adquisiciones y servicios celebre el Organismo;
-
-XVII. Participar en las licitaciones públicas para adquisición y prestación de servicios de acuerdo con la normatividad aplicable;
-
-XVIII. Emitir la normatividad respecto de la administración, operación y mantenimiento de la maquinaria y el equipo de construcción propiedad del Organismo destinado a la conservación de sus Carreteras de Cuota, en coordinación con la Dirección Técnica;
-
-XIX. Llevar y mantener actualizado el inventario físico de bienes muebles, la estimación de su depreciación, afectación y destino final, así como controlar el Almacén Central del Organismo y supervisar el funcionamiento de los almacenes foráneos;
-
-XX. Difundir en las Delegaciones Regionales, Gerencias de Tramo y Conexo Industrial, las normas e instructivos que regulan las adquisiciones, suministro y almacenamiento de los bienes y servicios conforme a las disposiciones legales aplicables;
-
-XXI. Analizar, programar y ejecutar las obras de adaptación y mantenimiento que se requieran en los edificios al servicio del Organismo, tramitar las solicitudes de justipreciación y avalúo sobre predios e inmuebles, y mantener actualizado el inventario general de los mismos;
-
-XXII. Coadyuvar en el mantenimiento y operación de los Programas Internos de Protección Civil, de Seguridad e Higiene y de Preservación y Protección del Entorno Ecológico en lo relativo a las personas, los bienes, instalaciones e información del Organismo; así como proporcionar y supervisar los servicios de intendencia y seguridad de las instalaciones y edificios del Organismo;
-
-XXIII. Proporcionar los servicios de mensajería, transporte y trámites derivados de éstos que le soliciten las áreas del Organismo;
-
-XXIV. Llevar el control de los vehículos del Organismo, fijar el procedimiento administrativo para su asignación y reparación, así como coordinar y controlar el suministro de combustibles y lubricantes;
-
-XXV. Proporcionar y normar los servicios de correspondencia, archivo y depuración de documentos que requieran las Unidades Administrativas, las Delegaciones Regionales, Gerencias de Tramo y el Conexo Industrial y asesorarlas en la implantación de los sistemas correspondientes, y
-
-XXVI. Las demás que le señalen los superiores jerárquicos y los ordenamientos legales, sean afines a las que anteceden.
-
-###### ARTICULO 30o.
-
-La Subdirección de Finanzas tendrá a su cargo las siguientes funciones:
-
-I. Planear y supervisar la programación y presupuestación de los recursos propios del Organismo, así como realizar las modificaciones necesarias en el presupuesto del mismo, conforme a las normas y lineamientos establecidos;
-
-II. Determinar y proponer a la Dirección de Administración y Finanzas, con base en la legislación aplicable, las acciones convenientes para la inversión de los recursos financieros excedentes del Organismo;
-
-III. Coordinar, supervisar e integrar los informes sobre el ejercicio presupuestal de cada una de las Unidades Administrativas, Delegaciones Regionales y Gerencias de Tramo que conforman la Entidad;
-
-IV. Formular y analizar los estados financieros y presupuestales del Organismo, con el objeto de dar a conocer la situación financiera y presupuestal para que se tomen las acciones necesarias que mantengan en forma sana las finanzas de la entidad;
-
-V. Vigilar que el funcionamiento y operación del Sistema Contable y Presupuestal de los recursos propios del Organismo, sean conforme a la legislación aplicable y a las normas y principios de Contabilidad Gubernamental Generalmente Aceptados;
-
-VI. Supervisar que los servicios bancarios contratados cumplan con los objetivos financieros solicitados;
-
-VII. Coordinar y supervisar el programa de pagos por concepto de adquisición de bienes, contratación de servicios, de obra pública y otros;
-
-VIII. Coordinar las acciones de cobranza de los adeudos derivados de la operación realizada con recursos propios;
-
-IX. Coordinar el registro de los ingresos y el seguimiento de los depósitos bancarios correspondientes;
-
-X. Coordinar el establecimiento de un modelo de programación financiera que permita definir y monitorear en el corto y mediano plazos el comportamiento del remanente financiero del Organismo en función del desempeño real y programado de los ingresos y gastos, así como prever las disponibilidades financieras futuras y sus posibles alternativas de utilización, y
-
-XI. Formular e integrar el anteproyecto de Presupuesto y el Programa Operativo Anual de la entidad y someterlo a la consideración de la Dirección General, a través de la Dirección de Administración y Finanzas.
-
-###### ARTICULO 31o.
-
-La Subdirección de Informática tendrá a su cargo las siguientes funciones:
-
-I. Planear e instrumentar el desarrollo informático y de telecomunicaciones en la entidad, identificar prioridades de acuerdo con los objetivos fijados por la Dirección General, Direcciones y Coordinaciones y orientarlos a la reducción de costos y al incremento de la eficiencia y productividad de las áreas que conforman el Organismo;
-
-II. Efectuar investigaciones sobre nuevas tecnologías, a fin de determinar aquellas que sea conveniente incorporar para el desarrollo y modernización del Organismo;
-
-III. Planear, analizar y dictaminar los requerimientos presupuestales de bienes y servicios informáticos y de telecomunicaciones necesarios en las áreas del Organismo, que contribuyan al logro de los objetivos fijados por la entidad;
-
-IV. Identificar las necesidades de capacitación y programar en coordinación con la Subdirección de Recursos Humanos y Materiales, los cursos de capacitación y actualización requeridos con motivo de la instrumentación de nuevas tecnologías para el desarrollo de las funciones en las áreas que conforman el Organismo;
-
-V. Definir, actualizar y difundir las políticas, normas y lineamientos en materia de informática y telecomunicaciones, garantizar el uso adecuado y eficiente de los equipos y aplicaciones, así como, la salvaguarda y respaldo de la información generada;
-
-VI. Desarrollar e implementar los estudios relacionados con los sistemas automatizados de información y de telemática que requiera el Organismo;
-
-VII. Desarrollar por sí o a través de terceros, el diseño, implantación y operación de los sistemas y programas automatizados de información del Organismo, de conformidad con la normatividad establecida;
-
-VIII. Coadyuvar, con base en los lineamientos normativos, en la realización de los estudios de desconcentración que requiera el Organismo;
-
-IX. Dirigir y coordinar la operación del centro de cómputo, garantizar su continua operación y funcionamiento, a efecto de proporcionar a las áreas del Organismo que lo requieran los apoyos para la emisión de productos y reportes necesarios para la oportuna toma de decisiones;
-
-X. Implementar mecanismos que permitan a las áreas automatizar sus procesos o actividades bajo esquemas de productividad, eficiencia, desarrollo y reducción de costos;
-
-XI. Integrar el Programa Operativo Anual y el Anteproyecto de Presupuesto de la Subdirección y someterlo a consideración de la Dirección de Administración y Finanzas;
-
-XII. Coordinar las actividades de conservación y mantenimiento general que requiera el equipo de cómputo y de telecomunicaciones y proponer el establecimiento de normas generales y específicas para su uso y máximo aprovechamiento, así como el de los servicios inherentes;
-
-XIII. Proporcionar el soporte técnico a las áreas usuarias de bienes informáticos que permitan el eficiente manejo y operación de los sistemas de cómputo y de telecomunicaciones y coadyuvar al desarrollo de las funciones asignadas a las áreas del Organismo;
-
-XIV. Desarrollar sistemas de cómputo bajo esquemas integrales, evaluar permanentemente la incorporación de nuevos servicios y aplicaciones que contemplen la cobertura total de las operaciones y contribuyan al desarrollo funcional de las áreas que conforman el Organismo;
-
-XV. Asesorar a las Delegaciones Regionales y Gerencias de Tramo en el ámbito nacional y a las Unidades Administrativas que conforman el Organismo en la aplicación de normas y procedimientos en materia de programación y de telecomunicación, y
-
-XVI. Estandarizar el uso de paquetes de software en las áreas que conforman la entidad con el fin de facilitar la explotación y el intercambio de información entre las diferentes Unidades Administrativas.
-
-###### ARTICULO 32o.
-
-La Subdirección de Administración de Contratos de Obra Concesionada tendrá a su cargo las siguientes funciones:
-
-I. Establecer y proponer los criterios y mecanismos de recuperación de la inversión aplicada al desarrollo de los caminos y puentes concesionados;
-
-II. Evaluar, coordinar y controlar el desarrollo de las operaciones derivadas de los contratos de prestación de servicios celebrados por el Organismo con personas físicas y morales para la operación, administración y conservación de caminos y puentes concesionados;
-
-III. Vigilar y controlar que el funcionamiento y operación del Sistema Contable y Presupuestal de las operaciones derivadas de los contratos de prestación de servicios celebrados por el Organismo con personas físicas y morales para la operación, administración y conservación de caminos y puentes concesionados, sean conforme a la legislación aplicable y a las normas y principios de contabilidad generalmente aceptados;
-
-IV. Supervisar la elaboración de los presupuestos anuales derivados de los contratos de prestación de servicios celebrados por el Organismo;
-
-V. Dirigir las actividades encaminadas al análisis de la estructura financiera de cada proyecto concesionado, con el propósito de darle seguimiento a las inversiones del Organismo y realizar una toma de decisiones confiable;
-
-VI. Coordinar la elaboración y seguimiento de informes relativos a la administración de los proyectos concesionados;
-
-VII. Revisar el anteproyecto de presupuesto de inversión financiera y someterlo a consideración de la Dirección de Obra Concesionada;
-
-VIII. Evaluar el desempeño operativo y financiero de los proyectos concesionados que cuentan con apoyos económicos del Organismo;
-
-IX. Participar, según sea el caso, en los Comités Técnicos como miembro de éstos cuando el Organismo tenga participación económica y como operador invitado en aquellos casos en que sea contratado como tal, y
-
-X. Evaluar los resultados del sistema integral de información de la obra concesionada.
-
-###### ARTICULO 33o.
-
-La Subdirección de Evaluación de Obra Concesionada tendrá a su cargo las siguientes funciones:
-
-I. Establecer los planes y programas necesarios para el desarrollo de evaluaciones a la obra concesionada;
-
-II. Coordinar con las Direcciones de Operación, Técnica, Administración y Finanzas y la Dirección Jurídica para el cumplimiento de los lineamientos, procedimientos y alcances de la inspección y/o administración para la eficiente operación y mantenimiento de la infraestructura concesionada;
-
-III. Revisar la elaboración de informes y reportes relativos a la operación y mantenimiento de las obras concesionadas, derivados de las visitas de supervisión que se realicen en la infraestructura concesionada;
-
-IV. Participar, según sea el caso, en los Comités Técnicos como miembro de éstos, cuando el Organismo tenga participación económica en la obra concesionada, participe como operador por cuenta de terceros, sea designado como miembro o como invitado;
-
-V. Definir y establecer los procedimientos necesarios para vigilar y dar seguimiento del cumplimiento de las normas y lineamientos de operación y mantenimiento establecidos por la Secretaría de Comunicaciones y Transportes para la Infraestructura de Obra Concesionada;
-
-VI. Coordinar con las concesionarias y operadoras las visitas de evaluación de las obras concesionadas, para verificar su funcionalidad, condiciones operativas y de conservación de las carreteras y puentes federales concesionados;
-
-VII. Verificar el seguimiento de las observaciones detectadas en el transcurso de las supervisiones a las obras concesionadas, a través de las sesiones del Comité Técnico del Fideicomiso;
-
-VIII. Verificar, en el ámbito de competencia del Organismo y con el apoyo de la Dirección Jurídica, que la construcción de los caminos y puentes se sujeten a los lineamientos establecidos por la Secretaría de Comunicaciones y Transportes en los títulos de concesión otorgados para tales efectos, y
-
-IX. Integrar y analizar la información necesaria para establecer un control estadístico pormenorizado de aforos vehiculares e ingresos captados, así como de los servicios prestados por cada obra concesionada.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 70.
 
@@ -2471,41 +1801,9 @@ c) La obtención del apoyo de la ciudadanía, y
 
 d) El registro de candidaturas independientes.
 
-### CAPITULO SEXTO. DEL CONEXO INDUSTRIAL
+### CAPÍTULO PRIMERO. DE LA CONVOCATORIA
 
-###### ARTICULO 34o.
-
-El Conexo Industrial tiene por objeto producir pinturas, emulsiones asfálticas y aditivos para asfalto con el propósito de satisfacer las necesidades de insumos de la más alta calidad para la conservación y mantenimiento de la red carretera del Organismo; promover su comercialización en los mercados internos y externos, así como brindar capacitación constante, información sobre avances tecnológicos y soporte técnico a las áreas del Organismo que lo requieran, asimismo, participar en licitaciones públicas nacionales e internacionales para ofrecer los productos que fabrica y competir en los mercados abiertos de sus productos.
-
-###### ARTICULO 35o.
-
-Al frente del Conexo Industrial estará un Titular designado por el Director General; de quien dependerá, y quien estará auxiliado por Jefes de Departamento, así como por el personal de apoyo que las necesidades del servicio requiera, se precisen en el Manual de Organización y figuren en el presupuesto y estructura ocupacional autorizada.
-
-###### ARTICULO 36o.
-
-El Titular del Conexo Industrial tendrá asignadas las siguientes funciones:
-
-I. Dirigir, supervisar y evaluar los mecanismos que permitan una eficiente operación y desarrollo de las actividades de producción de emulsiones y pinturas;
-
-II. Administrar y evaluar el desarrollo y aplicación de los recursos humanos, materiales y financieros de las plantas industriales, de conformidad con la normatividad establecida;
-
-III. Supervisar que el funcionamiento y operación del sistema contable del Conexo Industrial se lleve a cabo conforme a la legislación aplicable y a las normas y principios generalmente aceptados;
-
-IV. Realizar la promoción y comercialización de sus productos en los mercados nacionales e internacionales;
-
-V. Supervisar periódicamente los almacenes e identificar la capacidad física cubierta, proyectando las necesidades futuras y/o ampliaciones a los mismos;
-
-VI. Planear, dirigir, coordinar y evaluar la operación del proceso de comercialización de los productos de las plantas industriales en apego a la normatividad establecida;
-
-VII. Coordinar y supervisar la ejecución de los programas de mantenimiento de las plantas industriales con la finalidad de dar cumplimiento a las metas y objetivos propuestos en la planeación;
-
-VIII. Coordinar el desarrollo y mantener actualizados los planes estratégicos y los de mejoramiento tecnológico de procesos y equipos de las plantas industriales;
-
-IX. Coordinar y supervisar la integración de la información técnica y estadística de las plantas industriales, que permita una adecuada toma de decisiones;
-
-X. Supervisar la integración de los estados financieros y presupuestales del Conexo Industrial, con el objeto de proponer las acciones necesarias para mantener en forma sana las finanzas de la entidad, y
-
-XI. Vigilar el desarrollo y cumplimiento de los Programas de Seguridad e Higiene de Protección Civil que establezca el Organismo.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 92.
 
@@ -2513,65 +1811,9 @@ XI. Vigilar el desarrollo y cumplimiento de los Programas de Seguridad e Higiene
 
 2. El Instituto dará amplia difusión a la convocatoria.
 
-### CAPITULO SEPTIMO. DE LA CONTRALORIA INTERNA
+### CAPÍTULO SEGUNDO. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
-###### ARTICULO 37o.
-
-Al frente del Organo Interno de Control habrá un Contralor Interno, cuya designación o remoción corresponde a la Secretaría de Contraloría y Desarrollo Administrativo y que estará auxiliado por Subcontralores, Gerentes, Jefes de Departamento y Coordinadores de Contraloría, así como por el personal de apoyo que las necesidades del servicio requiera, se precisen en el Manual de Organización y figuren en el presupuesto.
-
-###### ARTICULO 38o.
-
-La Contraloría Interna tendrá las siguientes funciones:
-
-I. Instrumentar las políticas, procedimientos y estrategias de operación de la Contraloría Interna, conforme a las normas y directrices que fije la Secretaría de Contraloría y Desarrollo Administrativo; en materia de fiscalización, control, seguimiento y evaluación de programas, objetivos y metas;
-
-II. Establecer las bases generales para la realización de auditorías, tanto a las diferentes unidades administrativas del nivel central como a las Delegaciones Regionales, Gerencias de Tramo y Conexo Industrial que conforman la estructura del Organismo;
-
-III. Integrar y enviar a la Secretaría de Contraloría y Desarrollo Administrativo para su autorización el Programa Anual de Control y Auditoría;
-
-IV. Llevar a cabo o promover la realización de auditorías integrales, específicas, de evaluación de programas y de seguimiento para verificar el desempeño general del Organismo;
-
-V. Vigilar y comprobar el debido cumplimiento de las disposiciones, normas y lineamientos que regulan la planeación, la programación, la presupuestación y el ejercicio de los recursos autorizados al Organismo;
-
-VI. Verificar y comprobar que las adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza, así como la contratación de obra pública se realicen con apego a las disposiciones normativas que rigen estas materias;
-
-VII. Vigilar y constatar que el sistema de contabilidad y registro de operaciones; la contratación y pago de remuneraciones al personal; la contratación de adquisiciones, arrendamientos, servicios y obra pública; la conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; los almacenes y demás activos y recursos materiales del Organismo, se ajusten a las leyes y disposiciones normativas que rigen;
-
-VIII. Vigilar y evaluar que las acciones relacionadas con el Programa de Modernización de la Administración Pública (PROMAP) se realicen con estricto apego a los criterios de racionalidad, austeridad y disciplina presupuestal;
-
-IX. Vigilar la adecuada y oportuna atención de las observaciones que formulen tanto los Organos de Fiscalización Externa como la Contraloría Interna;
-
-X. Informar periódicamente al Director General sobre los resultados de auditoría, así como de otros asuntos vinculados con la función del Organo de Control Interno;
-
-XI. Apoyar al Director General en la instrumentación de sistemas y mecanismos de control preventivo, correctivo y de evaluación permanente de la gestión administrativa, para asegurar el desarrollo eficiente de las operaciones y la calidad de los servicios que presta el Organismo;
-
-XII. Representar al titular de la Secretaría de Contraloría y Desarrollo Administrativo ante los Tribunales Federales para la defensa jurídica de las resoluciones que se emitan en materia administrativa;
-
-XIII. Vigilar la debida atención de las quejas e inconformidades que presente la ciudadanía en contra de servidores públicos del Organismo, así como las de particulares que deriven de convenios o contratos celebrados con el mismo;
-
-XIV. Emitir resoluciones y aplicar sanciones en materia administrativa a servidores públicos del Organismo, en su caso, presentar las denuncias correspondientes ante el Ministerio Público Federal;
-
-XV. Intervenir, conforme a sus facultades, en la recepción y entrega de obras, en las altas y bajas de bienes del activo fijo propiedad del Organismo, así como en los cambios o bajas del personal y en aquellos otros casos que determine la Secretaría de Contraloría y Desarrollo Administrativo;
-
-XVI. Asesorar y apoyar al Director General y a las diferentes unidades administrativas del Organismo, sin involucrarse en la toma de decisiones;
-
-XVII. Proporcionar la información que solicita la Secretaría de Contraloría y Desarrollo Administrativo, la Dirección General del Organismo y el H. Consejo de Administración;
-
-XVIII. Vigilar la suficiencia y oportunidad de los informes especiales y rutinarios que le soliciten al Organismo las autoridades globalizadoras, sectoriales y fiscalizadoras;
-
-XIX. Elaborar y enviar a la Secretaría de Contraloría y Desarrollo Administrativo el informe mensual de actividades del Organo de Control Interno;
-
-XX. Proporcionar trimestralmente a la Secretaría de Contraloría y Desarrollo Administrativo, los avances del Sistema de Información Periódica y el Informe de Autoevaluación;
-
-XXI. Fungir como Secretario Técnico del Comité de Control y Auditoría;
-
-XXII. Asesorar a los diferentes Comités Técnicos Especializados del Organismo;
-
-XXIII. Elaborar y proponer a la Dirección de Administración y Finanzas los anteproyectos de Presupuesto del Organo de Control Interno;
-
-XXIV. Vigilar que los Servidores Públicos del Organismo cumplan oportunamente con la obligación de presentar sus declaraciones de situación patrimonial, y
-
-XXV. Promover y autorizar la participación del personal de la Contraloría Interna en los cursos de capacitación que sean necesarios.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 93.
 
@@ -2613,107 +1855,9 @@ c) Las y los aspirantes al cargo de integrantes de los ayuntamientos, ante el se
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPITULO OCTAVO. DE LAS DELEGACIONES REGIONALES
+### CAPÍTULO TERCERO. DE LA OBTENCIÓN DEL APOYO DE LA CIUDADANÍA
 
-###### ARTICULO 39o.
-
-Para la mejor atención y eficiente despacho de los asuntos de su competencia, el Organismo contará con Delegaciones Regionales en el número y circunscripción que autorice el Consejo de Administración. Los cuales como Unidades Administrativas desconcentradas en el territorio nacional, estarán jerárquicamente subordinadas a la administración central y contarán con la organización y las atribuciones específicas que fueren necesarias para resolver sobre la materia, en su ámbito territorial determinado, de conformidad con las disposiciones legales aplicables y con los acuerdos delegatorios del Director General.
-
-###### ARTICULO 40o.
-
-Al frente de cada Delegación Regional habrá un Delegado Regional, designado por el Director General, y quien será auxiliado por los Subdelegados y Jefes de Unidad, así como del personal de apoyo que las necesidades del servicio requieran, se precisen en el Manual de Organización respectivo y figuren en el presupuesto y su estructura ocupacional autorizada.
-
-###### ARTICULO 41o.
-
-Corresponde a los Delegados Regionales, en su ámbito jurisdiccional, las siguientes facultades:
-
-I. Representar al Organismo en los asuntos de su competencia, en las entidades federativas de su adscripción;
-
-II. Atender las disposiciones legales aplicables, así como los acuerdos del Director General, con la debida fundamentación y motivación legal;
-
-III. Atender el eficaz y eficiente desempeño de las labores encomendadas a la Delegación Regional a su cargo, así como intervenir en la elaboración de los programas operativos y de los proyectos de presupuesto correspondientes;
-
-IV. Cumplir y hacer cumplir las disposiciones legales y administrativas aplicables en los asuntos de la Delegación, incluyendo los programas auxiliares;
-
-V. Firmar y notificar las acciones de trámite, así como las resoluciones o disposiciones superiores y aquellas que se emitan con fundamento en las facultades que se les hayan atribuido;
-
-VI. Mantener informado al Director General, Directores, Coordinador de Delegaciones y demás Unidades Administrativas del Organismo, que así lo requieran, respecto de los asuntos que atienda la Delegación;
-
-VII. Acordar con el Director General y demás Superiores que corresponda, la resolución de los asuntos cuya tramitación se encuentre en la competencia de la Delegación a su cargo;
-
-VIII. Recibir en acuerdo a los Subdelegados, Jefes de Unidad y demás colaboradores de la Delegación según los asuntos que les correspondan y conceder audiencia al público que lo solicite;
-
-IX. Proporcionar, en atención con las políticas establecidas, los informes, datos y la cooperación técnica que le sean requeridas por las Unidades Administrativas del Organismo y por otras Instituciones Públicas y Privadas, y
-
-X. Atender en su caso, según proceda, las solicitudes del Sindicato Nacional de Trabajadores del Organismo presentadas directamente o a través de las autoridades superiores.
-
-###### ARTICULO 42o.
-
-Corresponde a las Delegaciones Regionales, en su ámbito jurisdiccional, las siguientes funciones:
-
-I. Contar con la representación del Organismo y mantener relaciones de coordinación con los representantes de los Gobiernos Federal, Estatales y Municipales e Instituciones privadas y sociales;
-
-II. Programar y evaluar el funcionamiento y gestión de las áreas a su cargo de acuerdo con las disposiciones técnicas, operativas y administrativas, así como la normatividad y legislación vigente a efecto de cumplir los objetivos establecidos;
-
-III. Elaborar el programa operativo anual de corto y mediano plazos, el anteproyecto de inversión, gasto corriente y presentarlo a consideración de la Dirección General, a través de la Dirección de Administración y Finanzas;
-
-IV. Atender la administración de recursos humanos, materiales y financieros asignados a la Delegación Regional, de conformidad con las disposiciones jurídicas y administrativas establecidas;
-
-V. Realizar los registros contables y presupuestales derivados de las operaciones que realiza, con base en la normatividad emitida por la Dirección de Administración y Finanzas y de acuerdo a los Principios de Contabilidad Gubernamental generalmente aceptados, en el caso de los recursos propios;
-
-VI. Realizar los registros contables y presupuestales derivados de las operaciones realizadas en el marco de los contratos de prestaciones de servicios celebrados por el Organismo con personas físicas y morales para la operación, administración y conservación de caminos y puentes concesionados, conforme a la legislación aplicable y a las normas y principios de contabilidad generalmente aceptados;
-
-VII. Realizar las gestiones de cobranzas derivadas de la operación que realiza, ya sea de adeudos con origen en recursos propios o de terceros;
-
-VIII. Ejecutar convenio de prestación de servicios, celebrado por el Organismo con los fideicomisos o la red contratada;
-
-IX. Participar y coordinar la realización de los concursos de adquisición de bienes y servicios y obra pública, y verificar que se lleven a cabo de acuerdo a la normatividad establecida;
-
-X. Supervisar, en el ámbito de su competencia, el cumplimiento de contratos que el Organismo celebre con proveedores de servicios y contratistas de obra;
-
-XI. Elaborar, ejecutar y supervisar los programas de conservación y mantenimiento de la infraestructura carretera y de puentes de la red propia, contratada y rescatada, bajo la jurisdicción de la Delegación Regional;
-
-XII. Elaborar el programa de mantenimiento mensual y anual de vehículos, maquinaria y equipo para la construcción, reconstrucción y conservación de los caminos y puentes a cargo del Organismo o para la operación de los mismos;
-
-XIII. Vigilar la adecuada conservación y eficiente aprovechamiento de los edificios e instalaciones físicas a cargo de la Delegación Regional;
-
-XIV. Coordinar y controlar la entrega-recepción de las obras públicas autorizadas, y verificar de acuerdo a la normatividad establecida la elaboración de actas;
-
-XV. Vigilar y controlar de acuerdo con las políticas establecidas el consumo y la adecuada utilización de combustibles y lubricantes, así como de la entrada y salida de refacciones del almacén para las reparaciones correspondientes;
-
-XVI. Difundir y vigilar la observancia de la normatividad aplicable a la operación de plazas de cobro y servicios complementarios, así como aquella emitida por la Dirección de Operación relativa al área de su competencia;
-
-XVII. Coordinar y supervisar a los proveedores de servicio de mantenimiento preventivo y correctivo de los diferentes equipos de control de tránsito, con el objeto de que se proporcionen, de conformidad con los contratos autorizados;
-
-XVIII. Atender el desahogo de las quejas y denuncias presentadas por los clientes de los servicios que proporciona el Organismo para su solución;
-
-XIX. Vigilar y controlar las necesidades y ejercicio de recursos financieros, humanos y materiales, que requieran los centros de trabajo de la Delegación Regional de acuerdo con las disposiciones y lineamientos establecidos;
-
-XX. Supervisar el desarrollo de acciones tendientes al mejor control, guarda y conservación de los bienes y activos fijos que se encuentren en el almacén correspondiente;
-
-XXI. Efectuar bajo las directrices establecidas por la Subdirección de Informática, el programa de desarrollo informático de la Delegación Regional, a fin de garantizar el logro de los objetivos institucionales;
-
-XXII. Supervisar y coordinar la aplicación de los programas auxiliares, de higiene, seguridad, capacitación, reforestación y protección del entorno ecológico necesario para el adecuado funcionamiento de la Delegación Regional tomando en consideración los objetivos, planes y programas estratégicos del Organismo;
-
-XXIII. Coordinar y canalizar a la Secretaría de Comunicaciones y Transportes las solicitudes de acceso, cruzamientos, anuncios y demás ocupaciones del derecho de vía en las carreteras de cuota en el ámbito de su jurisdicción;
-
-XXIV. Integrar informes y proporcionar los dictámenes que le sean solicitados por el Director General, Contralor Interno, Coordinador de Delegaciones o las áreas correspondientes, relacionadas con el desempeño de las áreas bajo su responsabilidad;
-
-XXV. Supervisar el cumplimiento y ejecución de las actividades asignadas a cada una de las Unidades Administrativas que conforman la delegación regional a su cargo, y aplicar la normatividad establecida;
-
-XXVI. Mantener relaciones con los representantes de los gobiernos federales, estatales y municipales, con entidades de la iniciativa privada, para promover la concertación de acciones sobre el uso de autopistas, puentes y servicios, así como la ejecución de la obra pública;
-
-XXVII. Atender las solicitudes que el Sindicato Nacional de Trabajadores de Caminos y Puentes Federales de Ingresos y Servicios Conexos presente a la Delegación Regional, directamente o a través de las autoridades superiores;
-
-XXVIII. Realizar el proceso de aseguramiento de los bienes patrimoniales a cargo de la Delegación Regional, así como las fianzas que se presenten a su favor o de terceros, en coordinación con la Dirección Jurídica;
-
-XXIX. Promover y participar en las sesiones de los comités consultivos y técnicos que se establezcan para la atención y seguimiento de acciones, e informar a la superioridad de las alternativas de solución que se tomen;
-
-XXX. Vigilar que los recursos financieros se apliquen conforme a las disposiciones emitidas en la materia;
-
-XXXI. Vigilar que el registro y control contable y presupuestal de los recursos financieros se realice conforme a las disposiciones emitidas en la materia e informar a las dependencias normativas correspondientes, y
-
-XXXII. Las demás que señalen los superiores jerárquicos y los ordenamientos legales, afines a las que anteceden.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 95.
 
@@ -2841,107 +1985,7 @@ El Instituto establecerá la utilización de la cédula de respaldo o, en su cas
 
 1. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de este Código.
 
-### CAPITULO NOVENO. DE LAS GERENCIAS DE TRAMO
-
-###### ARTICULO 43o.
-
-Para elevar la calidad de los servicios que ofrece el Organismo y desconcentrar funciones operativas y administrativas que permitan atender localmente y de manera adecuada y eficiente la administración, operación y conservación de los tramos carreteros que por la distancia que existe con las delegaciones regionales, requieren una atención inmediata, se conformarán, Gerencias de Tramo de acuerdo a las necesidades, en el número y circunscripción que autorice el Consejo de Administración. Las cuales como Unidades Administrativas desconcentradas en el territorio nacional, estarán jerárquicamente subordinadas a la administración central y contarán con la organización y las atribuciones específicas que fueren necesarios para resolver sobre la materia, en su ámbito territorial determinado, de conformidad con las disposiciones legales aplicables y con los acuerdos delegatorios del Director General.
-
-###### ARTICULO 44o.
-
-Al frente de cada Gerencia de Tramo habrá un Gerente de Tramo, designado por el Director General, y quien será auxiliado, de acuerdo a la extensión territorial del tramo carretero, por Subgerentes, así como del personal operativo de apoyo que las necesidades del servicio requieran, se precisen en el Manual de Organización respectivo y figuren en el presupuesto y su estructura ocupacional autorizada.
-
-###### ARTICULO 45o.
-
-Corresponde a los Gerentes de Tramo, en su ámbito jurisdiccional, las siguientes facultades:
-
-I. Representar al Organismo en los asuntos de su competencia; en las Entidades Federativas de su adscripción;
-
-II. Atender las disposiciones legales aplicables, así como los acuerdos del Director General, con la debida fundamentación y motivación legal;
-
-III. Atender el eficaz y eficiente desempeño de las labores encomendadas a la Gerencia de Tramo a su cargo, así como intervenir en la elaboración de los programas operativos y de los proyectos de presupuesto correspondientes;
-
-IV. Cumplir y hacer cumplir las disposiciones legales y administrativas aplicables en los asuntos de la Gerencia, incluyendo los programas auxiliares;
-
-V. Firmar y notificar las acciones de trámite, así como las resoluciones o disposiciones superiores y aquellas que se emitan con fundamento en las facultades que se les hayan atribuido;
-
-VI. Mantener informado al Director General, Directores, Coordinador de Delegaciones y demás Unidades Administrativas del Organismo, que así lo requieran, respecto de los asuntos que atienda la Gerencia;
-
-VII. Acordar con el Director General y demás Superiores que corresponda, la resolución de los asuntos cuya tramitación se encuentre en la competencia de la Gerencia a su cargo;
-
-VIII. Recibir en acuerdo a los Subgerentes, Jefes de Unidad y demás colaboradores de la Gerencia según los asuntos que les correspondan y conceder audiencia al público que lo solicite;
-
-IX. Proporcionar, en atención con las políticas establecidas, los informes, datos y la cooperación técnica que le sean requeridas por las Unidades Administrativas del Organismo y por otras Instituciones Públicas y Privadas, y
-
-X. Atender, en su caso, según proceda, las solicitudes del Sindicato Nacional de Trabajadores del Organismo presentadas directamente o a través de las autoridades superiores.
-
-###### ARTICULO 46o.
-
-Corresponde a las Gerencias de Tramo, en su ámbito jurisdiccional, las siguientes funciones:
-
-I. Contar con la representación del Organismo y mantener relaciones de coordinación con los representantes de los Gobiernos Federal, Estatales y Municipales e Instituciones privadas y sociales;
-
-II. Programar y evaluar el funcionamiento y gestión de las áreas a su cargo de acuerdo con las disposiciones técnicas, operativas y administrativas, así como la normatividad y legislación vigente a efecto de cumplir los objetivos establecidos;
-
-III. Elaborar el programa operativo anual de corto y mediano plazos, el anteproyecto de inversión, gasto corriente y presentarlo a consideración de la Dirección General, a través de la Coordinación de Delegaciones;
-
-IV. Atender la administración de recursos humanos, materiales y financieros asignados a la Gerencia de Tramo, de conformidad con las disposiciones jurídicas y administrativas establecidas;
-
-V. Realizar los registros contables y presupuestales derivados de las operaciones que realiza, con base en la normatividad emitida por la Dirección de Administración y Finanzas y de acuerdo a los Principios de Contabilidad Gubernamental generalmente aceptados, en el caso de los recursos propios;
-
-VI. Realizar, en su caso, los registros contables y presupuestales derivados de las operaciones realizadas en el marco de los contratos de prestaciones de servicios celebrados por el Organismo con personas físicas y morales para la operación, administración y conservación de caminos y puentes concesionados, conforme a la legislación aplicable y a las normas y principios de contabilidad generalmente aceptados;
-
-VII. Realizar las gestiones de cobranzas derivadas de la operación que realiza, ya sea de adeudos con origen en recursos propios o de terceros;
-
-VIII. Ejecutar convenio de prestación de servicios, celebrado por el Organismo con los fideicomisos o la red contratada;
-
-IX. Participar y coordinar la realización de los concursos de adquisición de bienes y servicios y obra pública, y verificar que se lleven a cabo de acuerdo a la normatividad establecida;
-
-X. Supervisar en el ámbito de su competencia, el cumplimiento de contratos que el Organismo celebre con proveedores de servicios y contratistas de obra;
-
-XI. Elaborar, ejecutar y supervisar los programas de conservación y mantenimiento de la infraestructura carretera y de puentes de la red propia, contratada y rescatada, bajo la jurisdicción de la Gerencia de Tramo;
-
-XII. Elaborar el programa de mantenimiento mensual y anual de vehículos, maquinaria y equipo para la construcción, reconstrucción y conservación de los caminos y puentes a cargo del Organismo o para la operación de los mismos;
-
-XIII. Vigilar la adecuada conservación y eficiente aprovechamiento de los edificios e instalaciones físicas a cargo de la Gerencia de Tramo;
-
-XIV. Coordinar y controlar la entrega-recepción de las obras públicas autorizadas, y verificar de acuerdo a la normatividad establecida la elaboración de actas;
-
-XV. Vigilar y controlar de acuerdo con las políticas establecidas el consumo y la adecuada utilización de combustibles y lubricantes, así como de la entrada y salida de refacciones del almacén para las reparaciones correspondientes;
-
-XVI. Difundir y vigilar la observancia de la normatividad aplicable a la operación de plazas de cobro y servicios complementarios, así como aquélla emitida por la Dirección de Operación relativa al área de su competencia;
-
-XVII. Coordinar y supervisar a los proveedores de servicio de mantenimiento preventivo y correctivo de los diferentes equipos de control de tránsito, con el objeto de que se proporcionen, de conformidad con los contratos autorizados;
-
-XVIII. Atender el desahogo de las quejas y denuncias presentadas por los clientes de los servicios que proporciona el Organismo para su solución;
-
-XIX. Vigilar y controlar las necesidades y ejercicio de recursos financieros, humanos y materiales, que requieran los centros de trabajo de la Gerencia de Tramo de acuerdo con las disposiciones y lineamientos establecidos;
-
-XX. Supervisar el desarrollo de acciones tendientes al mejor control, guarda y conservación de los bienes y activos fijos que se encuentren en el almacén correspondiente;
-
-XXI. Efectuar bajo las directrices establecidas por la Subdirección de Informática, el programa de desarrollo informático de la Gerencia de Tramo, a fin de garantizar el logro de los objetivos institucionales;
-
-XXII. Supervisar y coordinar la aplicación de los programas auxiliares, de higiene, seguridad, capacitación, reforestación y protección del entorno ecológico necesario para el adecuado funcionamiento de la Gerencia de Tramo tomando en consideración los objetivos, planes y programas estratégicos del Organismo;
-
-XXIII. Coordinar y canalizar a la Secretaría de Comunicaciones y Transportes las solicitudes de acceso, cruzamientos, anuncios y demás ocupaciones del derecho de vía en las carreteras de cuota en el ámbito de su jurisdicción;
-
-XXIV. Integrar informes y proporcionar los dictámenes que le sean solicitados por el Director General, Contralor Interno, Coordinador de Delegaciones o las áreas correspondientes, relacionadas con el desempeño de las áreas bajo su responsabilidad;
-
-XXV. Supervisar el cumplimiento y ejecución de las actividades asignadas a cada una de las Unidades Administrativas que conforman la Gerencia de Tramo a su cargo, y aplicar la normatividad establecida;
-
-XXVI. Mantener relaciones con los representantes de los Gobiernos federales, estatales y municipales, con entidades de la iniciativa privada, para promover la concertación de acciones sobre el uso de autopistas, puentes y servicios, así como la ejecución de la obra pública;
-
-XXVII. Atender las solicitudes que el Sindicato Nacional de Trabajadores de Caminos y Puentes Federales de Ingresos y Servicios Conexos presente a la Gerencia de Tramo, directamente o a través de las autoridades superiores;
-
-XXVIII. Realizar el proceso de aseguramiento de los bienes patrimoniales a cargo de la Gerencia de Tramo, así como las fianzas que se presenten a su favor o de terceros, en coordinación con la Dirección Jurídica;
-
-XXIX. Promover y participar en las sesiones de los comités consultivos y técnicos que se establezcan para la atención y seguimiento de acciones, e informar a la superioridad de las alternativas de solución que se tomen;
-
-XXX. Vigilar que los recursos financieros se apliquen conforme a las disposiciones emitidas en la materia;
-
-XXXI. Vigilar que el registro y control contable y presupuestal de los recursos financieros se realice conforme a las disposiciones emitidas en la materia e informar a las dependencias normativas correspondientes, y
-
-XXXII. Las demás que señalen los superiores jerárquicos y los ordenamientos legales, afines a las que anteceden.
+### CAPÍTULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS ASPIRANTES
 
 ###### Artículo 115.
 
@@ -3025,29 +2069,7 @@ l) Las demás establecidas por este Código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPITULO DECIMO. DE LA COMISION MIXTA DE PRODUCTIVIDAD Y CALIDAD
-
-###### ARTICULO 47o.
-
-El Organismo contará, asimismo, con la Comisión Mixta de Productividad y Calidad, que servirá como órgano de participación de las Autoridades Superiores, las Unidades Administrativas y del Sindicato Nacional de los Trabajadores de base del Organismo, a fin de propiciar el desarrollo de una cultura laboral, promover la elevación de la productividad y el mejoramiento de la calidad de los servicios que otorga y mejorar el nivel de vida de sus trabajadores.
-
-###### ARTICULO 48o.
-
-La Comisión Mixta de Productividad y Calidad se integrará por el Director General, los Directores, el Contralor Interno y los Coordinadores y Subdirectores que considere conveniente el propio Director General. Este, a su vez, invitará al Secretario General del Sindicato para que participe, en compañía de otros miembros de esa Organización Sindical, en esta Comisión y designará al Secretario Técnico.
-
-###### ARTICULO 49o.
-
-La Comisión Mixta de Productividad y Calidad promoverá la elaboración y aplicación de Programas que tengan por objeto:
-
-I. Lograr la modernización de los esquemas y procedimientos laborales;
-
-II. Atender la superación y el desarrollo de la función administrativa;
-
-III. Dar atención prioritaria a la administración y desarrollo del personal;
-
-IV. Inducir la investigación y el desarrollo para mejorar la tecnología en los procesos de trabajo, y
-
-V. Fortalecer las relaciones laborales.
+### CAPÍTULO QUINTO. DEL REGISTRO DE CANDIDATURAS INDEPENDIENTES
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS DE ELEGIBILIDAD
 
@@ -3241,25 +2263,7 @@ b) Respecto de las fórmulas de candidaturas a sindicaturas y regidurías indepe
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
 
-### CAPITULO DECIMO PRIMERO. DE LOS COMITES TECNICOS ESPECIALIZADOS
-
-###### ARTICULO 50o.
-
-El Organo de Gobierno, a propuesta de su presidente o cuando menos de la tercera parte de sus miembros, podrá constituir comités o subcomités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal del Organismo, atender problemas de administración y organización del otorgamiento de servicios, así como para la selección y aplicación de los adelantos tecnológicos y uso de los demás instrumentos que permitan elevar su eficiencia.
-
-Los comités o subcomités técnicos que se integren operarán como instancias de apoyo del Consejo de Administración, de acuerdo a lo siguiente:
-
-I. Realizar el análisis de los asuntos que le sean encomendados, a fin de proponer alternativas de solución a problemas específicos, o estrategias de desarrollo, en el ámbito de su competencia para mejorar la prestación de los servicios o los aspectos de administración u organización;
-
-II. Opinar sobre los resultados obtenidos por el Organismo;
-
-III. Elaborar y dar seguimiento a sus propios programas de operación;
-
-IV. Dar seguimiento a las políticas, estrategias y programas que en su ámbito de actuación se implanten en el Organismo;
-
-V. Coadyuvar al cumplimiento de las leyes, reglamentos, acuerdos y demás disposiciones aplicables en el ámbito de su competencia, y
-
-VI. Conocer, analizar y, en su caso, recomendar las adecuaciones que se estimen convenientes a los presupuestos anuales de gasto de inversión y de aplicación de los recursos financieros del Organismo.
+### CAPÍTULO PRIMERO. DE LAS PRERROGATIVAS
 
 ###### Artículo 133.
 
@@ -3373,51 +2377,7 @@ c) Las candidaturas independientes correspondientes a integrantes de los ayuntam
 
 1. El registro de los nombramientos de los representantes ante mesas directivas de casilla y generales, se realizará en los términos previstos en este Código.
 
-### CAPITULO DECIMO SEGUNDO. DE LAS SUPLENCIAS
-
-###### ARTICULO 51o.
-
-Durante las ausencias temporales del Director General, el despacho y resolución de los asuntos correspondientes al Organismo quedarán a cargo de los Directores que corresponda según la naturaleza de los asuntos a tratar. Si durante las mismas los Directores tuvieran que ejercer facultades consideradas indelegables del Director General, el Presidente del Consejo de Administración proveerá lo conducente, atendiendo a la urgencia y demás circunstancias del acontecimiento.
-
-###### ARTICULO 52o.
-
-Las ausencias temporales de los Directores, Subdirectores, Delegados Regionales, Gerentes de Tramo y del titular del Conexo Industrial serán suplidas, para el despacho de los asuntos de su competencia, por los servidores públicos de jerarquía inmediata inferior del área de su responsabilidad y que por las circunstancias y naturaleza del suceso le corresponda conocer.
-
-La ausencia temporal del Contralor Interno será suplida por el Subcontralor que éste designe.
-
-## TRANSITORIOS
-
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna Unidad Administrativa cuyas funciones estén establecidas por una norma anterior, dichas funciones se entenderán concedidas a la Unidad Administrativa que determine este Estatuto Orgánico.
-
-TERCERO.- Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben de pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia correspondiente.
-
-CUARTO.- Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingresos y Servicios Conexos, publicado en el Diario Oficial de la Federación el 4 de noviembre de 1994.
-
-QUINTO.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
-
-Dado en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos noventa y nueve, previa aprobación del mismo en la sesión CLVIII ordinaria del Consejo de Administración, celebrada el mismo día, mes y año.- El Secretario de Comunicaciones y Transportes, y Presidente del Consejo de Administración, Carlos Ruiz Sacristán.- Rúbrica.- El Director General de Caminos y Puentes Federales de Ingresos y Servicios Conexos, Gustavo Carvajal Moreno.- Rúbrica.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
-
-D.O.F. 17 DE ABRIL DE 2002.
-
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- En su oportunidad, inscríbase, en su caso, en el Registro Público de Organismos Descentralizados.
-
-D.O.F. 13 DE DICIEMBRE DE 2006.
-
-PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Cuando en este Estatuto Orgánico se dé una denominación nueva o distinta a alguna unidad administrativa cuyas funciones estén establecidas por una norma anterior, dichas funciones se entenderán concedidas a la unidad administrativa que determine este Estatuto Orgánico.
-
-TERCERO.- Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben de pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se les haya atribuido en este instrumento, la competencia correspondiente.
-
-CUARTO.- Se abroga el Estatuto Orgánico de Caminos y Puentes Federales de Ingresos y Servicios Conexos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999.
-
-QUINTO.- El presente Estatuto Orgánico, así como las reformas y adiciones al mismo, deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados.
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS
 
 #### SECCIÓN PRIMERA. DEL FINANCIAMIENTO
 
@@ -5075,7 +4035,9 @@ a) Los partidos políticos;
 
 b) Las agrupaciones políticas;
 
-c) Las y los aspirantes, precandidatas y precandidatos, candidatas y candidatos y candidatas y candidatos independientes a cargos de elección popular;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+c) Las personas aspirantes, precandidatas, candidatas y candidatas independientes, a cargos públicos de elección popular del poder ejecutivo, legislativo, judicial y ayuntamientos;
 
 d) Las ciudadanas y los ciudadanos, o cualquier persona física o moral;
 
@@ -5239,6 +4201,30 @@ n) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y
 
 o) El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General, este Código; y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 263 Bis.
+
+1. Constituyen infracciones de las personas aspirantes o candidatas judiciales:
+
+a) El incumplimiento de las obligaciones y prohibiciones establecidas en los principios y reglas previstas en la Constitución General, la Constitución, la Ley General y este Código;
+
+b) La realización de actos anticipados de campaña;
+
+c) Recibir cualquier financiamiento público y/o privado prohibido por la ley;
+
+d) Realizar actos constitutivos de violencia política contra las mujeres en razón de género y/o recurrir a expresiones que degraden, denigren o discriminen a otras personas candidatas;
+
+e) El incumplimiento de las resoluciones y acuerdos del Instituto Nacional o del Instituto;
+
+f) La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
+
+g) La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas o instituciones;
+
+h) La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Nacional o del Instituto, y
+
+i) El incumplimiento de cualquiera de las disposiciones contenidas en la Ley General, este Código y demás disposiciones aplicables.
+
 ###### Artículo 264.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2020)</small>
@@ -5377,9 +4363,9 @@ III. Con la suspensión o cancelación de su registro, que en el primer caso no 
 
 Según la gravedad de la falta, la autoridad electoral competente, podrá restringir el registro como agrupación política.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-c) Respecto de las y los aspirantes, precandidatas y precandidatos, candidatas y candidatos o candidatas y candidatos independientes a cargos de elección popular:
+c) Respecto de las personas aspirantes, precandidatas, candidatas, candidatas independientes a cargos de elección popular de los poderes ejecutivo, legislativo y judicial, o de los ayuntamientos, según corresponda:
 
 i. Con amonestación pública;
 
@@ -5388,6 +4374,10 @@ ii. Con multa de hasta cinco mil unidades de medida y actualización;
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 iii. Con la pérdida del derecho de la precandidatura infractora a ser registrada como candidatura, o en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatas o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político por el cual pretendan ser postuladas o postulados. En todo caso, el partido político conservará el derecho a sustituir a la precandidatura o candidatura sancionada.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+En el caso de las candidaturas judiciales, con la pérdida, cancelación o suspensión del derecho a la aspiración, candidatura, postulación, registro y/o participación en las elecciones judiciales. En todo caso, los poderes del Estado, conforme a la Constitución Local y este Código, conservarán el derecho a sustituir libremente a la candidatura sancionada.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -5973,7 +4963,9 @@ d) Aplicar las disposiciones generales, reglas, lineamientos, criterios y format
 
 e) Garantizar los derechos y acceso a las prerrogativas de los partidos políticos y candidaturas, incluyendo la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales y locales y, en su caso, las candidaturas independientes en la entidad.
 
-f) Garantizar la celebración libre, auténtica y periódica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos del estado.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+f) Garantizar la celebración libre, auténtica y periódica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Judicial y Ejecutivo, así como de los Ayuntamientos del Estado, en los términos, procedimientos, condiciones y modalidades para cada elección popular. Las elecciones judiciales se celebrarán conforme a sus reglas especiales previstas en este Código.
 
 g) Velar por la libertad, autenticidad y efectividad del sufragio popular.
 
@@ -6113,6 +5105,10 @@ b) Los Comités Distritales.
 
 c) Las Mesas Directivas de Casilla.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+d) Los Comités Judiciales Electorales, estatal, distritales y/o municipales según corresponda.
+
 ###### Artículo 331.
 
 1. El Instituto contará con un órgano de vigilancia que se denominará Contraloría Interna.
@@ -6251,11 +5247,15 @@ u) Aprobar las actividades coordinadas con el Instituto Nacional para la integra
 
 v) REGISTRAR LA CANDIDATURA A LA GUBERNATURA; LAS LISTAS DE CANDIDATURAS A DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPO EN SITUACIÓN DE VULNERABILIDAD QUE PRESENTEN LOS PARTIDOS POLÍTICOS Y, DE MANERA SUPLETORIA, LAS FÓRMULAS DE CANDIDATURAS A DIPUTACIONES POR EL PRINCIPIO DE MAYORÍA RELATIVA, ASÍ COMO A LAS Y LOS INTEGRANTES DE LOS AYUNTAMIENTOS.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+Las listas de las candidaturas judiciales se registrarán libremente, en los términos de la Constitución, este Código y la Ley, por cada uno de los poderes ejecutivo, legislativo y judicial, respectivamente, ante el Instituto. La Secretaría Ejecutiva del Instituto se encargará de manera exclusiva de preparar, elaborar, organizar, autorizar y ordenar las actividades necesarias para garantizar con certeza la inserción de los listados de las candidaturas en las boletas, el formato de las boletas y demás paquetería electoral de las elecciones judiciales.
+
 w) Instrumentar el programa de resultados electorales preliminares de conformidad con las reglas, lineamientos, criterios y formatos que para tal efecto emita el Instituto Nacional;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-x) Realizar los cómputos estatales de las elecciones de Gubernatura y diputaciones de representación proporcional, en el primer caso, declarar la validez de la elección, entregar la constancia de mayoría correspondiente y declarar formalmente electo al Gobernador Constitucional del Estado de Coahuila de Zaragoza y, en el segundo, hacer la asignación correspondiente y entregar las constancias respectivas;
+x) Realizar los cómputos estatales de las elecciones de Gubernatura, diputaciones de representación proporcional, así como de los cargos judiciales populares. En el primer caso, declarar la validez de la elección, entregar la constancia de mayoría correspondiente y declarar formalmente electo al Gobernador Constitucional del Estado de Coahuila de Zaragoza y, en el segundo, hacer la asignación correspondiente y entregar las constancias respectivas. En el tercer caso de las elecciones judiciales, declarar el cómputo de las mismas y entregar las constancias de mayoría a las listas de candidaturas electas, a partir de los acuerdos que le presente la Comisión Especial de Elecciones Judiciales y la Secretaría Ejecutiva, respectivamente.
 
 y) Aprobar el Programa Anual del Instituto;
 
@@ -6273,7 +5273,13 @@ cc) Resolver respecto a los proyectos de dictamen, acuerdo o resolución que se 
 
 dd) Asumir la competencia de los Comités Electorales Distritales y Municipales una vez que se ha declarado su desinstalación o desintegración; y
 
-ee) Las demás que le confiera este Código u otras disposiciones legales aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+ee) La preparación, organización, cómputo y calificación de la jornada del proceso judicial electoral le corresponderá, de manera exclusiva y conforme a sus reglas especiales, al Instituto, a través del Consejo General, la Comisión Especial de Elecciones Judiciales, la Secretaría Ejecutiva, los Comités Judiciales Electorales y sus demás órganos auxiliares, en los términos que establezca la Constitución, este Código y las demás leyes especiales aplicables.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+ff) Las demás que le confiera este Código u otras disposiciones legales aplicables.
 
 ###### Artículo 345.
 
@@ -7117,6 +6123,18 @@ l) Coadyuvar, cuando así se determine, a la implementación de programas de cap
 
 m) Las demás que les confiera este Código, otras disposiciones aplicables o el Consejo General.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 377 Bis.
+
+1. El Consejo General del Instituto, conforme al principio de austeridad presupuestal, autorizará, conforme al Presupuesto de Egresos que corresponda, la creación, funcionalidad y competencia de los Comités Judiciales Electorales que proponga la Secretaría Ejecutiva, para llevar a cabo la celebración de las elecciones judiciales, ordinarias y extraordinarias.
+
+2. El Consejo General creará de manera temporal una Comisión Especial de Elecciones Judiciales integrada por tres personas consejeras para llevar a cabo las elecciones judiciales, ordinarias o extraordinarias, con la operación y asistencia técnica de la Secretaría Ejecutiva, los Comités Judiciales Electorales y sus órganos auxiliares.
+
+3. La Secretaría Ejecutiva del Instituto es el órgano técnico especializado que se encargará de organizar, supervisar y vigilar a los Comités Judiciales Electorales, estatal, distritales o municipales según corresponda, para garantizar la organización, preparación, desarrollo y vigilancia, de los procesos electorales para la elección de los cargos judiciales locales. Todo órgano del Instituto deberá proporcionar el auxilio y colaboración necesaria que requiera la Secretaría Ejecutiva para llevar a cabo la elección judicial.
+
+4. Los Comités Judiciales Electorales se instalarán, funcionarán y extinguirán conforme a los principios de certeza, funcionalidad, eficacia y austeridad administrativa para asegurar la organización de las elecciones judiciales. Su organización y competencia podrá ser estatal, distrital o municipal según el acuerdo de instalación.
+
 #### SECCIÓN SEGUNDA. DE LOS COMITÉS MUNICIPALES ELECTORALES
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
@@ -7709,6 +6727,16 @@ Para el cumplimiento de sus obligaciones deberá ejercer su presupuesto con hone
 
 3. El Tribunal Electoral residirá en la Ciudad de Saltillo, Coahuila de Zaragoza, y tendrá jurisdicción y competencia en materia electoral (sic) todo el territorio del Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+4. El (sic) Tribunal Electoral del Estado le corresponderá conocer y resolver las controversias que única y exclusivamente presenten las personas aspirantes y/o candidatas a cargos judiciales de elección popular, conforme a la Ley aplicable.
+
+No se admitirá recurso o medios de impugnación no previstos en la Ley, ni tampoco presentados por las personas aspirantes o candidatas referidas en el párrafo anterior, que no tengan interés jurídico, personal y directo, para defender su derecho a ser electo para ocupar un cargo judicial popular.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 4, P.O. 20 DE DICIEMBRE DE 2024.]</small>
+
+En el caso de las personas sancionadas por la violación al debido proceso judicial electoral, el Tribunal Electoral conocerá y resolverá, en los términos de su competencia, para determinar la responsabilidad y sus sanciones de las personas con interés jurídico, personal y directo.
+
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
 
 ###### Artículo 424.
@@ -7739,13 +6767,13 @@ Para el cumplimiento de sus obligaciones deberá ejercer su presupuesto con hone
 
 1. El Tribunal Electoral será competente para conocer y resolver en forma definitiva e inatacable sobre:
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-a) Las impugnaciones en las elecciones para diputaciones Locales y de Ayuntamientos.
+a) Las impugnaciones en las elecciones para diputaciones Locales, de Ayuntamientos, y en la elección de la Gubernatura del Estado;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
-b) Las impugnaciones que se presenten sobre la elección de la Gubernatura del Estado.
+b) Las impugnaciones que se presenten sobre la elección de los cargos populares del Poder Judicial del Estado;
 
 c) Las impugnaciones que se realicen en contra de los actos o resoluciones definitivos de los órganos del Instituto sobre registro de un partido estatal, asignación de prerrogativas económicas a los partidos políticos, o cualquier acto o acuerdo que afecten la constitucionalidad o legalidad en materia político-electoral o de sistema de partidos políticos.
 
@@ -8317,6 +7345,1002 @@ xv. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 1. Cuando la Contraloría encuentre responsabilidades administrativas atribuibles a cualquiera de los magistrados del Tribunal Electoral, integrará el expediente y lo remitirá de inmediato a la Presidencia de la Cámara de Senadores para los efectos conducentes.
 
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+# LIBRO OCTAVO. DEL PROCESO PARA LA ELECCIÓN DE CARGOS DE PERSONAS MAGISTRADAS O JUZGADORAS DEL PODER JUDICIAL DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 444.
+
+1. Las disposiciones de este Libro regularán en forma especial las elecciones de las personas aspirantes y/o candidatas a los cargos judiciales populares, de conformidad con lo previsto en la Constitución y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+2. El Instituto, a través del Consejo General, la Comisión Especial de Elecciones Judiciales y la Secretaría Ejecutiva, proveerán lo conducente, en el ámbito de sus competencias, para la adecuada aplicación de las normas contenidas en el presente Libro.
+
+3. En todo lo no previsto en este Libro para las personas candidatas a los cargos judiciales populares se aplicarán, en forma supletoria, las disposiciones establecidas en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 445.
+
+1. El derecho a elegir y a ser electo a un cargo de elección popular que forme parte del Poder Judicial del Estado, se sujetarán a este proceso electoral judicial que se rige con las bases, procedimientos, términos, modalidades y requisitos que señala la Constitución, este Código y demás leyes aplicables.
+
+2. La elección de personas magistradas y juzgadoras del Poder Judicial del Estado de Coahuila de Zaragoza, se realizará mediante elección libre y auténtica basada en el sufragio universal, directo, libre y secreto por la ciudadanía el día que se realicen las elecciones judiciales ordinarias del año electoral que corresponda, salvo las elecciones extraordinarias que, conforme a la ley y su convocatoria, se realicen para tal efecto.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 446.
+
+1. Las personas que aspiren a participar a un cargo judicial de elección popular deberán cumplir, además de lo previsto en los artículos 138 y 139 de la Constitución según se trate, los siguientes requisitos:
+
+a) Presentar su acta de nacimiento oficial;
+
+b) Presentar copia certificada de su credencial para votar para demostrar su inscripción en el Registro Federal de Electores;
+
+c) Acreditar la buena reputación, buena fama y honorabilidad con:
+
+i. Cartas de respaldo profesional de universidades, instituciones u organizaciones del Estado;
+
+ii. Carta de no antecedentes penales;
+
+iii. Constancia de no responsabilidad administrativa expedida por el Tribunal de Justicia Administrativa de Coahuila de Zaragoza, y
+
+iv. Demás documentos que los Comités de Evaluación consideren pertinentes para tal efecto.
+
+e) Presentar su carta oficial de residencia en el Estado;
+
+f) Contar con la certificación de perfil judicial idóneo, por parte de la institución que se encargue de la formación judicial del Poder Judicial del Estado, en los términos que disponga la Ley, y
+
+g) Los demás que determine la Convocatoria correspondiente para demostrar los conocimientos técnicos necesarios para el desempeño del cargo y su competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica.
+
+2. Los Comités de Evaluación serán los competentes para emitir el dictamen de elegibilidad de los requisitos que deberán acreditar las personas aspirantes para el cargo judicial de que se trate.
+
+3. La persona que no reúna los requisitos legales para el cargo judicial de que se trate no tendrá derecho a participar en la evaluación y selección de los listados de las candidaturas que realice (sic) conforme a este Código los Comités de Evaluación.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 447.
+
+1. Las personas que aspiren a participar a un cargo judicial de elección popular deberán cumplir, además del artículo anterior, con la presentación de un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.
+
+2. El Comité de Evaluación que corresponda será competente para emitir el dictamen de idoneidad para que las personas aspirantes tengan derecho a conformar el listado de postulación a fin de que, cada uno de los poderes ejecutivo, legislativo y judicial, presenten libremente ante el Instituto el registro del listado de planillas que corresponda a sus candidaturas por cada órgano colegiado o cargo judicial unipersonal, conforme a este Código y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+3. El Instituto no podrá modificar ni alterar la conformación del listado que cada Poder remita para el registro de las candidaturas. En caso de que la Secretaría Ejecutiva advierta alguna omisión o irregularidad, prevendrá al Poder de que se trate para que observe lo previsto en la Constitución, este Código o la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 448.
+
+1. Las personas que aspiren a ser registradas como las personas candidatas a los cargos judiciales populares deberán atender, en forma diligente y oportuna, todas las disposiciones reglamentarias y los requerimientos, criterios, acuerdos o resoluciones que emitan las autoridades competentes durante el proceso.
+
+2. Las personas aspirantes deberán observar en el proceso de participación, evaluación y selección el respeto debido ante el Comité de Evaluación.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN A LOS CARGOS JUDICIALES POPULARES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 449.
+
+1. Para los efectos de este Código, el proceso de selección de las personas aspirantes a los cargos judiciales populares para poder ser candidatas, comprende las etapas siguientes:
+
+a) La Convocatoria General expedida por el Congreso del Estado o, en sus recesos, por la Diputación Permanente;
+
+b) La instalación de los Comités de Evaluación para asegurar el registro de los aspirantes y su participación en forma accesible, pública e incluyente;
+
+c) La convocatoria pública de cada uno de los Comités de Evaluación conforme a las bases de la Convocatoria General;
+
+d) La conformación por parte de los Comités de Evaluación que corresponda de los listados de postulación que implica emitir:
+
+i. El dictamen de elegibilidad;
+
+ii. El dictamen de idoneidad;
+
+iii. La lista de los mejores perfiles calificados, y
+
+iv. El envío de la lista de las personas a postular para que cada uno de los poderes del Estado conforme libremente el listado de planillas de las candidaturas judiciales de que se trate;
+
+e) Presentación de los listados de las candidaturas judiciales por parte de cada uno de los poderes ejecutivo, legislativo y judicial, ante el Instituto para su debida inserción en las boletas electorales.
+
+2. Cada autoridad que participa en el proceso de selección deberá mantener una debida comunicación y colaboración estrecha, para observar el principio de definitividad de cada una de sus etapas para garantizar la debida participación de los aspirantes, en igualdad de condiciones.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO PRIMERO. DE LA CONVOCATORIA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 450.
+
+1. El Congreso del Estado o, en sus recesos, la Diputación Permanente, expedirá la Convocatoria General dentro de los noventa días naturales siguientes del mes de junio del año anterior al de la jornada de la elección judicial que corresponda, conforme a la Constitución, este Código y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+2. El Órgano de Administración Judicial, antes de la Convocatoria remitirá al Congreso del Estado o, en sus recesos, a la Diputación Permanente, un informe detallado de los cargos judiciales a elegir, el cual deberá contener:
+
+a) Denominación de los cargos judiciales;
+
+b) Duración de cada cargo;
+
+c) Materia y competencia específica de los cargos;
+
+d) Demarcación electoral geográfica, estatal y/o distrital de los órganos a elegir conforme a la Convocatoria General;
+
+e) Distrito Judicial o adscripción en su caso, y
+
+f) Demás información relevante que se considere necesaria para la adecuada convocatoria.
+
+3. La información deberá ser remitida con antelación suficiente para que el Congreso del Estado, o en sus recesos, a la Diputación Permanente, pueda emitir la convocatoria en tiempo y forma, garantizando la difusión oportuna a la ciudadanía.
+
+4. De generarse vacantes no previstas en la convocatoria con fecha posterior a su publicación y previo al cierre de esta, el Órgano de Administración Judicial lo comunicará de inmediato al Congreso del Estado, o en sus recesos, a la Diputación Permanente, para su incorporación en la convocatoria respectiva.
+
+5. En la convocatoria se incluirá el calendario electoral, en el que se detallarán los plazos y términos de cada una de las etapas del proceso electoral, desde el registro de las personas candidatas a los cargos judiciales populares hasta la etapa de resolución de controversias, observando los principios de certeza, legalidad y equidad en la contienda.
+
+6. El Congreso del Estado o, en sus recesos, la Diputación Permanente, dará amplia difusión a la convocatoria.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 451.
+
+1. Las convocatorias de elecciones judiciales extraordinarias se sujetarán a las reglas, plazos, modalidades, excepciones, condiciones y términos que, en lo aplicable y conducente, determine el Congreso del Estado o, en sus recesos, la Diputación Permanente, para llevar a cabo la renovación judicial de que se trate.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. DE LA INSTALACIÓN DEL COMITÉ DE EVALUACIÓN
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LOS REQUISITOS DE ELEGIBILIDAD
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 452.
+
+1. Cada Poder integrará e instalará su Comité de Evaluación de cada Poder conformado por tres personas reconocidas en la actividad jurídica, que recibirán los expedientes de las personas aspirantes, dictaminará el cumplimiento de los requisitos de elegibilidad y evaluará con el dictamen de idoneidad a las mejores personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.
+
+2. El Comité se encargará de remitir a cada Poder el listado de las mejores personas calificadas que reúnan el perfil judicial idóneo, en los términos que establezca este Código y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 453.
+
+1. Para integrar el Comité de Evaluación se requiere:
+
+a) Ser originario del Estado o contar con una residencia mínima de un año en el mismo;
+
+b) No desempeñar o haber desempeñado cargos de elección popular, en el último año anterior a su designación;
+
+c) No formar parte ni haber formado parte en los últimos cinco años de algún órgano de dirección de los partidos políticos a nivel nacional, estatal, distrital o municipal;
+
+d) Tener un modo honesto de vivir, ser de reconocida probidad y contar con conocimientos jurídicos suficientes para el desempeño adecuado de sus funciones, y
+
+e) Contar con una experiencia mínima de cinco años en el ejercicio de la profesión jurídica o en la defensa de derechos humanos.
+
+2. Cada Poder podrá convocar, invitar, integrar e instalar libremente a su Comité de Evaluación que se organizará y funcionará conforme a este Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. INSTALACIÓN DEL COMITÉ DE EVALUACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 454.
+
+1. El Comité de Evaluación deberá instalarse dentro de los treinta días naturales siguientes a la Convocatoria.
+
+2. Su funcionamiento será colegiado. Cada integrante tendrá derecho a voz y voto. Las resoluciones del Comité se tomarán por mayoría.
+
+3. Cada Comité tendrá una Secretaría Técnica con las siguientes funciones:
+
+a) Convocar a las reuniones del Comité;
+
+b) Dar fe de las actuaciones y acuerdos tomados en cada sesión;
+
+c) Dirigir las reuniones, deliberaciones y certificar las votaciones;
+
+d) Preparar los documentos necesarios para la evaluación y selección de los aspirantes;
+
+e) Levantar las actas de cada reunión y cumplir los acuerdos tomados, y
+
+f) Desempeñar cualquier otra función ejecutiva que se requiera para el adecuado funcionamiento del Comité.
+
+4. Quienes integran el Comité de Evaluación permanecerán en el cargo durante el tiempo que establezca la convocatoria correspondiente, el cual será determinado en función del período necesario para cumplir con las labores de evaluación y selección de aspirantes.
+
+5. La participación de las personas integrantes del Comité será honorífica, por lo que no recibirán remuneración alguna.
+
+6. El Comité de Evaluación operará conforme a las reglas y procedimientos establecidos en el presente Código, la Convocatoria General y demás disposiciones aplicables, conforme a los principios de publicidad, transparencia, objetividad y accesibilidad.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 455.
+
+1. El Comité deberá privilegiar el uso de tecnologías de la información para optimizar el proceso de recepción de solicitudes, así como para la evaluación y selección de postulaciones, garantizando con ello eficiencia, accesibilidad y transparencia en sus procedimientos.
+
+2. Con el fin de facilitar los procesos de recepción de solicitudes, evaluación y selección de postulaciones, el Comité podrá celebrar acuerdos de colaboración con instituciones públicas y privadas para facilitar su funcionamiento.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO TERCERO. DE LA INTEGRACIÓN DE LOS LISTADOS DE POSTULACIÓN
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. ETAPAS DE REGISTRO Y DICTAMEN DE ELEGIBILIDAD
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 456.
+
+1. Una vez instalados los Comités de Evaluación, se expedirá una convocatoria pública y abierta para abrir el registro de solicitudes a aspirantes para integrar los listados de postulación conforme a los cargos judiciales correspondientes.
+
+2. Los aspirantes podrán inscribirse simultáneamente en la lista de uno o más poderes, pero siempre y cuando resulte para el mismo cargo judicial en cada inscripción, salvo las candidaturas suplentes previstas en el numeral 2 del artículo 469 de este Código.
+
+3. Los Comités de Evaluación emitirán la convocatoria en un plazo máximo de quince días naturales, a partir de su instalación, con el propósito de garantizar la inscripción, participación y evaluación de los aspirantes a cada cargo judicial.
+
+4. La convocatoria deberá detallar:
+
+a) Los requisitos específicos para cada cargo judicial, conforme a las disposiciones legales aplicables;
+
+b) Los procedimientos para la inscripción, incluyendo plazos, formatos y la documentación requerida, y
+
+c) Las etapas posteriores del proceso, incluyendo mecanismos de evaluación y criterios de dictaminación.
+
+5. La convocatoria será ampliamente difundida a través de medios electrónicos, plataformas oficiales y cualquier otro medio que garantice el acceso efectivo de los aspirantes, priorizando la transparencia y la accesibilidad del proceso.
+
+6. Para garantizar el derecho constitucional de las personas magistradas o juzgadoras que ocupan funciones judiciales en el cargo de elección popular a elegir o reelegir, el Poder Judicial del Estado, a través del Pleno del Tribunal Superior de Justicia, deberán incorporar de manera directa a los listados de planillas de las candidaturas que libremente conformen y remitan al Instituto, a las personas que se encuentren en funciones en los cargos judiciales a elegir o reelegir, excepto cuando manifiesten la declinación de su candidatura, renuncien, retiren o sean postuladas para un cargo diverso, en los términos que establezca este Código o la Ley.
+
+Las personas magistradas o juzgadoras que se encuentren en funciones judiciales, también podrán solicitar de manera directa su incorporación a los listados de las candidaturas que libremente conformen los Poderes Ejecutivo y Legislativo, para que éstos determinen libremente si los incorporan a sus listados que remitan al Instituto, respectivamente, en los términos que establezca este Código, la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y la Convocatoria General.
+
+Solamente aplicará para el Poder Judicial, la incorporación automática de las personas a que se refiere el primer párrafo de este numeral, a los listados que conforme y remita al Instituto. Los poderes Legislativo y Ejecutivo podrán, con plena libertad, incorporarlos o no a sus listados de las planillas de que se trate.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 457.
+
+1. Concluido el período de inscripción, los Comités de Evaluación tendrán un plazo de cinco días hábiles para emitir un dictamen de elegibilidad.
+
+2. Este dictamen será público y contendrá los nombres de los aspirantes que cumplen con los requisitos legales y formales establecidos en la convocatoria.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 458.
+
+1. El dictamen de elegibilidad deberá publicarse a más tardar al día siguiente de su emisión en las plataformas electrónicas oficiales del Comité que corresponda, así como en los medios que aseguren su consulta abierta y accesible.
+
+2. La elegibilidad se definirá a partir de:
+
+a) El cumplimiento estricto de los requisitos legales establecidos para el cargo judicial, y
+
+b) La revisión exhaustiva de la documentación presentada.
+
+3. Las personas aspirantes con interés personal y directo podrán impugnar el dictamen de elegibilidad conforme a la Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. ETAPA DE DICTAMEN DE IDONEIDAD
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 459.
+
+1. Cada Comité de Evaluación iniciará la etapa de dictamen de idoneidad a partir de los criterios meritocráticos que resulten objetivos y necesarios para evaluar y calificar a las personas con mejor perfil judicial idóneo.
+
+2. La evaluación podrá incluir comparecencias, audiencias, entrevistas y/o exámenes, en los términos que determine libremente cada Comité de Evaluación.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 460.
+
+1. Durante los cinco días hábiles siguientes a la publicación del dictamen de elegibilidad, cada Comité de Evaluación podrá recibir opiniones, pruebas e informaciones presentadas por la ciudadanía, de manera escrita, respecto a cada aspirante, tanto a favor como en contra, a fin de calificar su perfil con la participación social.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 461.
+
+1. Cada Comité de Evaluación realizará el análisis integral de la documentación y del perfil de las personas aspirantes que reúnan los requisitos de elegibilidad.
+
+2. Para la valoración de cada aspirante, el Comité considerará el perfil curricular, antecedentes profesionales y académicos, así como otros criterios relevantes que cada Comité determine para evaluar la honestidad y buena reputación de los candidatos.
+
+3. En la revisión de cada requisito, se incluirán indicadores objetivos de calificación, puntuación y rendimiento, sobre el desempeño y la idoneidad de los aspirantes.
+
+4. En cada rubro se podrá obtener una calificación mínima de entre 0 y 100 puntos. Se sacará promedio del total de la evaluación y calificación.
+
+5. Para la evaluación de los expedientes, por lo menos se deberán tomar en consideración los siguientes rubros:
+
+a) El promedio general obtenido en la licenciatura o en estudios de posgrado;
+
+b) En caso de postulación para un órgano jurisdiccional especializado, el promedio general en las materias relacionadas con dicha especialización, en la licenciatura o posgrado;
+
+c) Práctica profesional en un área jurídica afín al cargo;
+
+d) Certificación o calificación obtenida en el examen de oposición validado por la escuela de formación judicial local, y
+
+e) Estudios de posgrado o cursos en un área jurídica afín al cargo o en materia de derechos humanos, así como impartición de docencia e investigación jurídica.
+
+6. Los criterios de evaluación para garantizar en forma meritocrática la carrera judicial deberán justificarse de manera objetiva con un puntaje definido en las convocatorias respectivas.
+
+7. El proceso de evaluación podrá incluir audiencias, entrevistas, comparecencias, exámenes prácticos y teóricos, así como cualquier otro método de interrogatorio o evaluación que se considere pertinente para la valoración del perfil personal y profesional.
+
+8. Para asegurar la transparencia del proceso, los resultados de las evaluaciones emitidos por los integrantes del Comité deberán hacerse públicos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 462.
+
+1. Cada Comité de Evaluación recibirá una lista de las personas aspirantes que cuenten con un certificado emitido por la escuela de formación judicial, para cumplir el requisito previsto en las fracciones (sic) V de los artículos 138 y 139, de la Constitución.
+
+2. La escuela de formación judicial deberá realizar las convocatorias públicas respectivas para que las personas interesadas puedan participar en los programas, cursos o exámenes que les permitan obtener la certificación del perfil judicial idóneo, conforme a la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. DEL LISTADO DE MEJORES PERFILES CALIFICADOS
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 463.
+
+1. Con base en el certificado emitido por la Escuela Judicial y los resultados de las evaluaciones en el proceso, cada Comité de Evaluación emitirá un dictamen de idoneidad basado en los conocimientos técnicos, honestidad, buena fama pública, competencia, y antecedentes profesionales y académicos de cada aspirante, conforme a las bases previstas en la Convocatoria.
+
+2. Este dictamen evaluará y calificará a las aspirantes que demuestren ser las personas mejor calificadas por su perfil judicial idóneo.
+
+3. Solo se incluirán en este listado los aspirantes que alcancen una calificación mínima de 80 puntos sobre 100.
+
+4. Cada Comité de Evaluación integrará un listado abierto que integrará las mejores personas calificadas para que su perfil sea tomado en cuenta por cada Poder, a fin de que libremente se hagan los listados de candidaturas que correspondan.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 464.
+
+1. El dictamen de idoneidad podrá ser impugnado por el interesado de manera personal y directa conforme a la Ley, pero solo para revisar la objetividad en la calificación del perfil idóneo judicial.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN CUARTA. DEL LISTADO DE POSTULACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 465.
+
+1. Los Comités de Evaluación deberán enviar sus listados de postulación a cada Poder, según la lista de aspirantes que corresponda, con un informe detallado que justifique, por lo menos, la evaluación de cada aspirante de la manera siguiente:
+
+a) Resultados de las entrevistas, comparecencias, observaciones y demás información relevante del proceso de participación en la evaluación;
+
+b) Calificaciones obtenidas en los exámenes o acreditaciones académicas y profesionales, y
+
+c) Calificación de los méritos documentales presentados para evaluar su perfil idóneo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN QUINTA. DEL REGISTRO DE LAS CANDIDATURAS JUDICIALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 466.
+
+1. Cada Poder del Estado será libre y responsable de seleccionar y remitir el registro del listado de las postulaciones de personas candidatas a los cargos judiciales populares dentro del plazo establecido en la convocatoria oficial.
+
+2. Las postulaciones enviadas fuera de este plazo no serán admitidas bajo ninguna circunstancia.
+
+3. Las personas incluidas en el listado de registro ante el Instituto, correspondiente a cada Poder, podrán ser presentadas como candidatas simultáneamente por uno o varios poderes del Estado, siempre que aspiren al mismo cargo.
+
+4. Las listas de personas candidatas a los cargos judiciales populares que elaboren los Poderes del Estado para los cargos judiciales populares deberán priorizar a aquellas personas que hayan destacado en la administración de justicia por su eficiencia, probidad y compromiso con los principios de imparcialidad, ética e independencia judicial. También podrán incluirse personas con reconocida honorabilidad, competencia, y trayectoria en otras áreas del ámbito jurídico.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 467.
+
+1. En el caso de los órganos colegiados que se integran por el Tribunal Superior de Justicia y el Tribunal Disciplinario Judicial, cada Poder podrá presentar un listado para conformar hasta dos planillas que conformen los cargos a elegir de manera paritaria, con la columna de propietarios y suplentes, respectivamente.
+
+2. En caso del listado de los cargos unipersonales de los juzgados, cualquiera que sea su denominación, los Poderes del Estado podrán presentar, para cada cargo, hasta una dupla del listado de candidaturas unipersonales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 468.
+
+1. En los órganos colegiados, la conformación de las candidaturas deberá observar el criterio de paridad de género mediante las siguientes reglas:
+
+a) Reservar candidaturas en forma paritaria exclusivamente para mujeres, de modo que el voto popular al listado permita elegir el número necesario de mujeres para asegurar la paridad en el órgano colegiado conforme a la planilla;
+
+b) En órganos colegiados impares a elegir, la mayoría será femenina consistente en la mitad más uno, siempre que la composición previa ha sido mayoritariamente masculina, y
+
+c) Las mujeres podrán participar en el listado de la planilla bajo el principio de piso mínimo paritario.
+
+2. En los cargos judiciales unipersonales, el criterio de paridad de género se observará mediante las siguientes reglas:
+
+a) Reservar candidaturas en forma paritaria exclusivamente para mujeres, permitiendo, en general, la elección de mujeres por voto popular en el número necesario de la totalidad de los órganos a elegir, para lograr la paridad en los órganos judiciales unipersonales;
+
+b) En el caso de que los órganos unipersonales a elegir sean impares, se reservará la mitad más uno para mujeres cuando la conformación previa haya sido predominantemente masculina, y
+
+c) Las mujeres podrán postularse para candidaturas unipersonales bajo el criterio de piso mínimo paritario.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 469.
+
+1. Cada Poder del Estado elaborará hasta una dupla de listados en planilla que incluyan las candidaturas propuestas para cada cargo a elegir, ya sea de naturaleza unipersonal o colegiada. El listado será considerado de manera integral para registrar las propuestas de candidaturas de cada Poder.
+
+2. Cada listado de las candidaturas en planilla de los órganos colegiados se integrará por una columna de personas candidatas, propietarias y suplentes.
+
+3. Por cada listado de candidaturas propietarias del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, se elegirá también un listado de candidaturas suplentes que preferentemente se conformarán entre las personas del Poder Judicial para garantizar la carrera judicial o que se hayan destacado en la profesión jurídica. Los Poderes del Estado podrán escoger válidamente como suplentes del órgano colegiado de que se trate a personas juzgadoras en funciones o del servicio profesional de carrera que aspiren a esos cargos judiciales, sin perjuicio de que participen simultáneamente para ser titulares de magistraturas del Tribunal Distrital o juzgadoras, cualquiera que sea su denominación. En este caso, los aspirantes participarán como propietarias (sic) para el cargo que aspiran como titulares, solicitando a los poderes del estado directamente que puedan ser tomados en cuenta en la lista de suplentes del Tribunal Superior de Justicia o del Tribunal de Disciplina Judicial.
+
+4. Las magistraturas suplentes cubrirán las ausencias temporales o definitivas de los propietarios que correspondan en los términos de Ley, por el período constitucional de que se trate. La designación se realizará por el Pleno del Tribunal Superior de Justicia, a propuesta de su Presidencia.
+
+5. Las ausencias definitivas y temporales de los demás cargos judiciales del Poder Judicial se suplirán en los términos que establezca la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 470.
+
+1. Los Poderes del Estado presentarán sus candidaturas de manera oficial ante el Instituto, a más tardar el 15 de abril del año que corresponda a las elecciones judiciales.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO CUARTO. DEL REGISTRO DE LAS CANDIDATAS JUDICIALES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 471.
+
+1. Son prerrogativas y derechos de las personas candidatas a los cargos judiciales populares registradas:
+
+a) Participar en la campaña electoral correspondiente y en la elección al cargo para el que hayan sido registrados;
+
+b) Tener acceso a los tiempos de radio y televisión, únicamente en la etapa de las campañas electorales, de conformidad con lo dispuesto por el Instituto Nacional;
+
+c) Realizar actos de campaña para difundir su imagen e ideas en los términos de este Código;
+
+d) Replicar y aclarar la información que generen los medios de comunicación, cuando consideren que se calumnia o afecta su imagen o que se difundan hechos falsos o sin sustento alguno;
+
+e) Podrán participar en entrevistas, mesas de discusión o foros de debate organizados por el propio Instituto o en aquellos que se organicen de manera gratuita por el sector público, privado o social, en condiciones de equidad;
+
+f) Demostrar y difundir su carrera judicial como garantía para asegurar el perfil idóneo a los cargos judiciales populares;
+
+g) Participar y acceder a las acciones paritarias en los cargos de elección popular del Poder Judicial, unipersonales y colegiados, en los términos que establezca este Código, y
+
+h) Las demás que les otorgue este Código y los demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 472.
+
+1. Son obligaciones de las personas aspirantes y candidatas a los cargos judiciales populares:
+
+a) Conducirse con respeto irrestricto a lo dispuesto en la Constitución General, en la Constitución, en este Código y en la normativa aplicable;
+
+b) Respetar y acatar los acuerdos que emitan el Consejo General del Instituto, la Comisión Especial de Elecciones Judiciales, la Secretaría Ejecutiva y los Comités Judiciales Electorales que les resulten aplicables;
+
+c) Respetar y acatar los topes de gastos personales de campaña en los términos del presente Código;
+
+d) Proporcionar al Instituto la información y documentación que este solicite, en los términos del presente Código, y
+
+e) Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de las asociaciones y organizaciones religiosas e iglesias. Tampoco podrán aceptar aportaciones o donativos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia de:
+
+i. Los poderes Ejecutivo, Legislativo y Judicial de la Federación, del Estado, de las entidades federativas y los ayuntamientos;
+
+ii. Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, centralizada o paraestatal, y los órganos de gobierno de la Ciudad de México;
+
+iii. Los organismos autónomos federales, estatales y de la Ciudad de México;
+
+iv. Los partidos políticos y personas físicas o morales;
+
+v. Los organismos internacionales de cualquier naturaleza, y
+
+vi. Las personas que vivan o trabajen en el extranjero.
+
+f) Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
+
+g) Abstenerse de proferir calumnias en contra de las instituciones, autoridades electorales o personas candidatas a los cargos judiciales populares;
+
+h) Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por partidos políticos;
+
+i) Abstenerse de realizar actos que generen presión o coacción a los electores;
+
+j) Abstenerse de recibir aportaciones y donaciones en efectivo, así como metales y piedras preciosas por cualquier persona física o moral;
+
+k) Abstenerse de señalar el Poder que propone su candidatura;
+
+l) Abstenerse de realizar proselitismo electoral, en el caso de seguir en funciones en un cargo, empleo o comisión oficial, entorpeciendo sus funciones públicas;
+
+m) Abstenerse de calumniar a otras personas candidatas a los cargos judiciales populares, y
+
+n) Las demás que establezcan este Código y los demás ordenamientos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 473.
+
+1. Las personas candidatas a los cargos judiciales populares que incumplan con la normativa electoral que les resulte aplicable, serán sancionados en términos de este Código.
+
+2. Las personas candidatas que tengan un cargo, empleo o comisión oficial, en cualquier orden de gobierno federal, estatal o municipal, así como cualquier organismo constitucional autónomo o de cualquier otra naturaleza, podrán continuar ejerciendo sus funciones durante el período de campaña, siempre que no entorpezcan sus horarios y días laborales para no obstaculizar el ejercicio regular de sus funciones públicas.
+
+3. El Instituto velará en forma estricta por el cumplimiento de estas reglas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. DEL ACCESO A LOS MEDIOS DE COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 474.
+
+1. Las personas candidatas a los cargos judiciales populares en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión, a fin de promover su candidatura o influir en el proceso electoral.
+
+2. Ninguna otra persona física o jurídica colectiva, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de la ciudadanía, ni a favor o en contra de alguna candidatura judicial. La violación de esta disposición será sancionada en los términos dispuestos por la Ley General.
+
+3. El Instituto, en coordinación con el Instituto Nacional, garantizará a las personas candidatas judiciales el derecho de acceso a radio y televisión de manera igualitaria, en los términos establecidos en la Constitución General y las leyes aplicables, así como conforme a las determinaciones de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 475.
+
+1. La Comisión Especial de Elecciones Judiciales y el sector público, privado o social podrán organizar debates, de forma gratuita y en condiciones de equidad, entre las personas candidatas a cargos judiciales, con el fin de promover el derecho de la ciudadanía a una información veraz, imparcial y suficiente sobre sus propuestas y posturas.
+
+2. Los debates organizados por el Instituto se regirán por los lineamientos que para tal efecto emita la Comisión Especial de Elecciones Judiciales, atendiendo al principio de racionalidad presupuestaria, se habrá de preferir la realización de debates en línea, sobre los debates presenciales.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO QUINTO. DE LA PROPAGANDA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 476.
+
+1. Durante el período de campañas electorales, las personas candidatas podrán difundir su trayectoria profesional, méritos y perspectivas sobre la función jurisdiccional, la teoría del Derecho y la impartición de justicia, utilizando únicamente los medios legales establecidos.
+
+2. La propaganda electoral permitida será únicamente la impresa en papel reciclable o difundida en redes sociales. Deberá ser respetuosa del medio ambiente y retirarse tres días antes de la jornada electoral.
+
+3. Las personas candidatas podrán participar en foros de debate organizados por el Instituto, así como en foros organizados de manera gratuita por sectores público, privado o social, siempre que se garantice la equidad en las condiciones de participación.
+
+4. Las personas candidatas podrán formular y presentar propuestas relativas a la función jurisdiccional y al sistema de impartición de justicia en el Estado.
+
+5. Las personas candidatas a los cargos judiciales populares podrán utilizar redes sociales o medios digitales para promover sus candidaturas, siempre y cuando no impliquen gastos adicionales destinados a potenciar o amplificar el alcance de sus contenidos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO. DE LOS TOPES DE GASTOS Y SU FISCALIZACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 477.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+1. Los topes de los gastos inherentes al proceso electoral de las personas candidatas a los cargos judiciales populares se sujetará (sic) a los lineamientos que para tal efecto emita la Comisión Especial de Elecciones Judiciales. La Unidad de Fiscalización, se encargará de realizar la fiscalización correspondiente, cuando así se lo delegue el Instituto Nacional. La Unidad Técnica fiscalizará a las organizaciones de observación electoral que participen en el proceso electoral judicial local, aplicando los lineamientos de la autoridad nacional electoral.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+2. En los casos previstos en el párrafo anterior, la Unidad de Fiscalización del Instituto deberá operar conforme a los reglamentos, acuerdos, lineamientos y directrices que emita el Instituto Nacional.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 478.
+
+1. La Comisión Especial de Elecciones Judiciales determinará los límites de los gastos personales autorizados para las personas candidatas en el proceso de elección de las personas candidatas a los cargos judiciales populares, observando los principios de austeridad y racionalidad en el uso de recursos.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+2. Cuando así se lo delegue la autoridad nacional electoral, la Unidad de Fiscalización del Instituto vigilará que las personas candidatas a los cargos judiciales populares, por sí o por interpósita persona, se abstengan de realizar erogaciones de recursos públicos o privados con el fin de promover sus candidaturas judiciales, en estricto cumplimiento de los principios de equidad y transparencia establecidos en la normativa electoral.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 479.
+
+1. Para efectos de este Código, se entenderán como gastos inherentes al proceso electoral que le corresponden financiar de manera personal a las personas candidatas a los cargos judiciales populares, los siguientes:
+
+a) Gastos relacionados con la producción y distribución de propaganda impresa o digital, en papel, en redes sociales o en medios de radio y televisión;
+
+b) Gastos relacionados con la difusión de dicha propaganda, en cualquier modalidad o formato que implique un costo razonable asociado, y
+
+c) Los gastos de traslado, hospedaje y alimentación de las personas candidatas que correspondan conforme al período de campaña.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO TERCERO. DEL PROCESO ELECTORAL JUDICIAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO PRIMERO. PRINCIPIOS GENERALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 480.
+
+1. Los cargos judiciales locales se elegirán de acuerdo con la demarcación electoral geográfica de la elección de que se trate. Podrá ser estatal o distrital, según se establezca en la Convocatoria General, previa información del Órgano de Administración Judicial.
+
+2. Para las magistraturas del Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial u otros tribunales distritales o juzgados con jurisdicción estatal, cualquiera que sea su denominación, se establecerá una circunscripción única estatal o distrital, según corresponda.
+
+3. Podrán elegirse personas magistradas y juzgadoras en un determinado distrito judicial que tengan una determinada competencia estatal o distrital, sin perjuicio de la adscripción o readscripción que establezca el Órgano de Administración Judicial. Cada distrito judicial se integrará en los términos que establezca su Ley Orgánica.
+
+4. Los Comités Judiciales Electorales estatal, distritales o municipales, según corresponda, estarán encargados de intervenir dentro de su circunscripción electoral para coadyuvar en la preparación, organización, desarrollo y vigilancia de los procesos judiciales electorales correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 481.
+
+1. El proceso electoral ordinario se inicia en los términos que establezca la Convocatoria General y concluye al resolverse el último de los medios de impugnación que se hayan interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+
+2. Para los efectos de este Código, el proceso electoral judicial ordinario comprende las etapas siguientes:
+
+a) Preparación de la elección;
+
+b) Jornada electoral;
+
+c) Resultados de las elecciones, y
+
+d) Dictamen y declaración de validez de la elección.
+
+3. La etapa de preparación de la elección se inicia con la primera sesión que celebre el Consejo General del Instituto para crear e instalar la Comisión Especial de Elecciones Judiciales y los Comités Judiciales Electorales que correspondan, y concluyen al iniciarse la jornada electoral.
+
+4. La etapa de la jornada electoral se inicia a las 8:00 horas del día de la elección y concluye con la clausura de la casilla o centro de votación en los términos que determine la Comisión Especial de Elecciones Judiciales.
+
+5. La etapa de resultados de las elecciones se inicia con la remisión de los paquetes electorales a los Comités Judiciales Electorales, y concluye con los cómputos y declaraciones de validez que el órgano electoral realice en los términos de este Código.
+
+6. La etapa de dictamen y declaración de validez de la elección se inicia cuando el Consejo General del Instituto realiza los cómputos y califica la elección, declarando la validez de la misma y entregando la constancia correspondiente, concluyendo con el aviso de que no se presentó ninguna impugnación o con las resoluciones que emitan las autoridades jurisdiccionales.
+
+7. Atendiendo al principio de definitividad que rige en los procesos electorales, a la conclusión de cualquiera de sus etapas o de alguno de los actos o actividades trascendentes de los órganos electorales, la Secretaría Ejecutiva o el Comité Judicial Electoral de que se trate, según corresponda, podrá difundir su realización y conclusión por los medios que estime pertinentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 482.
+
+1. El Instituto, a través del Consejo General, la Comisión Especial de Elecciones Judiciales, la Secretaría Ejecutiva, los Comités Judiciales Electorales, será la autoridad exclusiva y responsable de la organización integral del proceso electivo judicial en el Estado.
+
+2. Dicho proceso incluirá la planeación, organización, desarrollo de la jornada electoral, y la ejecución de los cómputos de resultados, conforme a lo dispuesto en la Constitución, este Código y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+3. En la difusión y promoción de la participación ciudadana en el proceso electivo judicial que realice el Instituto, se habrá de privilegiar el uso de las tecnologías de la información, entre ellos, página de internet, redes sociales, video conferencias, así como los demás medios electrónicos institucionales que se tengan disponibles. En todo caso, se podrán llevar a cabo, eventos presenciales de promoción en aquellas comunidades que no tengan acceso cotidiano a dichas herramientas digitales, así como en puntos estratégicos de alta concentración de personas y de comunidades interesadas en la impartición de justicia. En todas las actividades se habrá de observar los principios de austeridad, eficacia y eficiencia del gasto público, buscado la conformación de trabajos conjuntos con aliados estratégicos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 483.
+
+1. Una vez realizados los cómputos por los Comités Judiciales Electorales, el Consejo General del Instituto, a propuesta de la Secretaría Ejecutiva entregará las constancias de mayoría a los listados de las planillas de las personas candidatas que obtengan el mayor número de votos válidos en el proceso electivo judicial, garantizando con ello la legalidad y transparencia en la designación de los cargos judiciales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 484.
+
+1. La Secretaría Ejecutiva del Instituto será responsable de la producción, custodia y distribución de la documentación y los materiales electorales necesarios para llevar a cabo el proceso de elección judicial.
+
+2. Todos los materiales electorales, incluidas las boletas, actas de cómputo y demás documentación electoral, estarán sujetos a revisión y control para evitar irregularidades o prácticas que vulneren el derecho al voto de la ciudadanía.
+
+3. En todo caso, el principio de austeridad regirá la organización del proceso judicial electoral conforme al Presupuesto de Egresos que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO TERCERO. DE LAS CAMPAÑAS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 485.
+
+1. Para los efectos de este Código, las campañas electorales judiciales son el conjunto de actividades que las candidaturas llevan a cabo, con la finalidad de solicitar el voto de la ciudadanía a favor de una candidatura para su acceso a un cargo de elección popular en el Poder Judicial.
+
+2. Se entenderán por actos anticipados de campaña, aquéllos que se realicen fuera de los plazos que se establezcan para realizar actos de campaña electoral judicial, cuya finalidad consista en solicitar el voto de la ciudadanía en favor de una candidatura, para acceder a un cargo de elección popular en el Poder Judicial o posicionarse con el fin de obtener una candidatura.
+
+3. Quienes incurran en actos anticipados de campaña o incumplan con las disposiciones del presente Código en materia de campañas, se harán acreedores a las sanciones que al efecto determine este Código, independientemente de que el Instituto queda facultado para ordenar la suspensión inmediata de los actos anticipados de campaña.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 486.
+
+1. Durante los períodos de campaña, las personas candidatas podrán realizar erogaciones de recursos personales para cubrir únicamente gastos de carácter personal, incluyendo viáticos y traslados, dentro de la circunscripción estatal, distrital o municipal que corresponda a su candidatura.
+
+2. La Comisión Especial de Elecciones Judiciales emitirá las disposiciones específicas respecto a los montos máximos admisibles para cubrir los gastos personales de las candidaturas. Estos montos estarán sujetos a una revisión previa de la Unidad Técnica de Fiscalización, considerando el tipo de cargo judicial en disputa.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 487.
+
+1. Las personas magistradas o juzgadoras en funciones que participen como candidatas en el proceso de elección deberán abstenerse de utilizar los recursos materiales, humanos y financieros que se encuentren a su disposición en razón de su cargo judicial para cualquier actividad relacionada con sus campañas electorales, con el objetivo de asegurar la imparcialidad y la neutralidad en el ejercicio de sus funciones.
+
+2. Las personas magistradas o juzgadoras en funciones podrán participar como candidatas en el proceso electoral sin que sea necesario separarse de su cargo. Si lo hacen, deberán pedir licencia sin goce de sueldo por el tiempo que lo soliciten conforme a la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+3. En todo momento, deberán procurar que sus actos de campaña no interfieran con el cumplimiento de sus responsabilidades judiciales, manteniendo un desempeño adecuado en sus funciones y asegurando la continuidad del servicio público de impartición de justicia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 488.
+
+1. La duración de las campañas para las personas candidatas a una magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o del Tribunal Distrital será de veinte días.
+
+2. Para las candidaturas a personas juzgadoras, cualquiera que sea su denominación, la duración de las campañas será de diez días.
+
+3. Las campañas electorales concluirán tres días antes de la jornada electoral.
+
+4. En ningún caso se permitirá una etapa de precampaña para la elección de cargos judiciales.
+
+5. El día de la jornada electoral y durante los tres días anteriores, no se permitirá la celebración ni la difusión de reuniones de campaña, de propaganda o de proselitismo electorales que autorice este Código. Durante este periodo, estará prohibida la difusión, por cualquier medio, de encuestas o sondeos de opinión, hasta la conclusión de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 489.
+
+1. Los topes de gastos personales permitidos por cada candidatura judicial serán establecidos por la Comisión Especial de Elecciones Judiciales en función del tipo de elección correspondiente.
+
+2. La Comisión Especial de Elecciones Judiciales fijará los montos máximos de gasto a más tardar treinta días antes del inicio de las respectivas campañas electorales judiciales.
+
+3. Las personas candidatas, directa o indirectamente, tienen prohibido el uso de recursos públicos o privados con fines de promoción o publicidad de sus candidaturas. Esta disposición incluye la prohibición de destinar fondos para la creación o difusión de propaganda electoral, tanto en medios tradicionales como digitales, fuera de los límites de gastos personales definidos por el Instituto.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 490.
+
+1. Queda estrictamente prohibido que los partidos políticos y las personas servidoras públicas, en el ejercicio de sus funciones o mediante interpósita persona, realicen actos de proselitismo a favor o en contra de cualquiera de las candidaturas judiciales. Esta prohibición incluye, la promoción, respaldo o descalificación de alguna candidatura en cualquier espacio público o privado, y a través de medios de comunicación, redes sociales, o cualquier otro medio.
+
+2. Las personas servidoras públicas, así como las dirigencias y representantes de los partidos políticos, deberán observar una conducta de neutralidad e imparcialidad durante el proceso electoral judicial, absteniéndose de cualquier intervención que pueda influir en la opinión pública o en el voto a favor o en contra de una candidatura judicial.
+
+3. Los sindicatos, asociaciones y comunidades religiosas y las personas extranjeras tienen prohibido hacer proselitismo electoral dentro del proceso, ni tampoco pueden participar para suscribir cartas o apoyos a las personas aspirantes o candidatas judiciales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 491.
+
+1. La propaganda electoral sólo podrá difundirse en formatos digitales e impresos y a través de redes sociales. Todo material impreso deberá ser reciclable y ambientalmente responsable, y deberá retirarse al menos tres días antes de la jornada electoral.
+
+2. Queda prohibida la realización de reuniones públicas, marchas o cualquier otra forma de acto público, con excepción de la distribución de propaganda electoral.
+
+3. La Comisión Especial de Elecciones Judiciales proporcionará a las personas candidatas, un micrositio de internet que incluirá al menos, el perfil personal, fotografía, medios de contacto público, trayectoria académica e historial profesional y laboral de las personas candidatas, ajustándose a los lineamientos que la Comisión Especial de Elecciones Judiciales establezca. El micrositio podrá integrarse a la página oficial del Instituto o, en su caso, en un dominio independiente.
+
+4. Las personas candidatas podrán emplear redes sociales y otros medios digitales para promocionar sus candidaturas, siempre y cuando no se efectúen gastos adicionales para amplificar el alcance o la visibilidad de los contenidos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 492.
+
+1. La propaganda y mensajes que en el curso de las campañas electorales judiciales difundan las personas candidatas, tendrán derecho a ejercer el derecho a la libertad de expresión con sus límites y condiciones para acceder al cargo judicial.
+
+2. Durante el período de campañas electorales, las personas candidatas podrán difundir su trayectoria profesional, méritos y visiones sobre la función jurisdiccional, la teoría y práctica del Derecho y la impartición de justicia, a través de los medios establecidos por la normativa aplicable.
+
+3. Las personas candidatas podrán presentar propuestas sobre la función jurisdiccional y el mejoramiento del sistema de justicia en el Estado.
+
+4. La propaganda electoral no deberá incluir expresiones calumniosas, discriminatorias o que constituyan actos de violencia política en razón de género.
+
+5. En las oficinas, edificios y locales ocupados por la administración y los poderes públicos, así como en los destinados al culto religioso, no podrá fijarse ni distribuirse propaganda electoral de ningún tipo, salvo cuando se trate de los locales públicos concedidos para ese fin y exclusivamente por el tiempo de duración del acto de campaña de que se trate.
+
+6. Las candidaturas judiciales tendrán derecho de réplica ante los medios de comunicación conforme a lo establecido en la ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 493.
+
+1. Las quejas motivadas por la propaganda electoral de las candidaturas serán sustanciadas conforme a los procedimientos sancionadores previstos en este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO CUARTO. DE LA OBSERVACIÓN ELECTORAL
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 494.
+
+1. Las personas físicas o agrupaciones interesadas, así como las misiones nacionales e internacionales, podrán participar como observadoras electorales siempre que acrediten oportunamente su calidad ante la Comisión Especial de Elecciones Judiciales, cumpliendo con los siguientes requisitos y procedimientos:
+
+a) La ciudadanía y organizaciones que pretendan actuar como observadoras deberán señalar en el escrito de solicitud los datos de identificación personal y la manifestación expresa de que se conducirán conforme a los principios de imparcialidad, objetividad, certeza y legalidad, y sin vínculos a partido u organización política alguna;
+
+b) La solicitud de registro para participar como observadores electorales podrá presentarse en forma personal o a través de la organización a la que pertenezcan ante el Consejo General del Instituto, a partir del inicio del proceso electoral y hasta el 15 de abril del año de la elección;
+
+c) La Secretaría Ejecutiva del Instituto dará cuenta de las solicitudes para su aprobación en la siguiente sesión que celebre la Comisión Especial de Elecciones Judiciales. La resolución que se emita deberá ser notificada a los solicitantes. La Comisión Especial de Elecciones Judiciales garantizará este derecho y resolverá cualquier planteamiento que pudiera presentarse por parte de la ciudadanía o las organizaciones interesadas, y
+
+d) No podrá ser observadora electoral (sic), las personas:
+
+i. Que hayan sido integrantes de dirigencias nacionales, estatales o municipales de partido político alguno, en los últimos tres años anteriores a la elección, y
+
+ii. Que hayan sido candidatas a puesto de elección popular en los últimos tres años anteriores a la elección.
+
+e) Las personas observadoras deberán asistir a los cursos de capacitación que impartan el Instituto o las propias organizaciones a las que pertenezcan los observadores electorales bajo los lineamientos y contenidos que dicten las autoridades competentes del Instituto, las que podrán supervisar dichos cursos. La falta de supervisión no imputable a la organización respectiva no será causa para que se niegue la acreditación.
+
+2. Se permitirá la participación de organismos nacionales e internacionales de observación electoral, siempre y cuando cumplan con los requisitos y principios establecidos por la Comisión Especial de Elecciones Judiciales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 495.
+
+1. Las personas observadoras electorales acreditadas deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza, legalidad, transparencia y profesionalismo durante todo el proceso electoral.
+
+2. Las personas observadoras electorales no podrán intervenir en la organización ni en el desarrollo de las actividades electorales, limitando su actuación a la mera observación.
+
+3. La Comisión Especial de Elecciones Judiciales podrá revocar la acreditación de cualquier persona observadora o agrupación que incumpla con las disposiciones legales, previa evaluación de las pruebas que lo justifiquen y respetando su garantía de audiencia.
+
+4. Las organizaciones a las que pertenezcan las personas observadoras acreditadas serán responsables de supervisar las actividades que sus integrantes realicen en el marco de la observación electoral. Las organizaciones que tengan conocimiento de alguna falta, omisión o irregularidad cometida por una de sus personas observadoras en el desarrollo de sus funciones deberán informar de manera inmediata al Instituto, a través de la Comisión Especial de Elecciones Judiciales, solicitando el retiro de la acreditación correspondiente.
+
+5. Las personas observadoras electorales se abstendrán de:
+
+a) Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones, e interferir en el desarrollo de estas;
+
+b) Hacer proselitismo de cualquier tipo o manifestarse en favor de alguna candidatura;
+
+c) Externar cualquier expresión que calumnie a las instituciones, autoridades electorales o candidaturas, y
+
+d) Declarar el triunfo de alguna candidatura.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 496.
+
+1. Las personas observadoras electorales podrán presentarse el día de la jornada electoral con sus acreditaciones y gafetes en una o varias casillas o centros de votación, así como en los locales de los comités judiciales electorales, pudiendo observar los siguientes actos:
+
+a) Instalación de la casilla o centro de votación;
+
+b) Desarrollo de la votación;
+
+c) Escrutinio y cómputo de la votación en la casilla o centro de votación;
+
+d) Fijación de resultados de la votación en el exterior de la casilla o centro de votación;
+
+e) Clausura de la casilla o centro de votación;
+
+f) Lectura en voz alta de los resultados en los comités, y
+
+g) Recepción de escritos de incidencias y protesta.
+
+2. La Comisión Especial de Elecciones Judiciales publicará un informe final sobre la observación electoral, el cual incluirá un resumen de las actividades realizadas, los incidentes reportados y las recomendaciones emitidas por las personas observadoras acreditadas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO QUINTO. DE LAS MESAS DIRECTIVAS DE CASILLA O CENTROS DE VOTACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 497.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+1. La Comisión Especial de Elecciones Judiciales se encargará de implementar la capacitación electoral, en auxilio del Instituto Nacional cuando éste así lo requiera.
+
+2. Las publicaciones de las listas de integrantes de las mesas directivas y ubicación de las casillas o centros de votación, se fijarán en los edificios y lugares públicos más concurridos del municipio y en los medios electrónicos de que disponga el Instituto.
+
+3. El día de la jornada electoral, la ubicación de las casillas electorales o centros de votación deberá ser dada a conocer a la ciudadanía mediante la colocación de señales claramente visibles en los lugares en que se haya determinado su instalación.
+
+4. La Comisión Especial de Elecciones Judiciales se podrá coordinar con el Instituto Nacional para llevar a cabo la integración, instalación y capacitación de las mesas directivas de casillas o centro de votación en el Estado.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+5. La Comisión Especial de Elecciones Judiciales podrá autorizar el uso de la urna electrónica en las casillas o centros de votación para facilitar el voto en la jornada electoral, cuando así lo determine el Instituto Nacional, de conformidad con los lineamientos que, al efecto, emita en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 498.
+
+1. Los partidos políticos, coaliciones y cualquier agrupación política registrada quedarán prohibidos de intervenir, directa o indirectamente, en la selección, integración y funcionamiento de las mesas directivas de casilla o centros de votación, durante los procesos electorales.
+
+2. Esta prohibición incluye:
+
+a) La designación o recomendación de ciudadanos para fungir como funcionarios de casilla o centros de votación;
+
+b) La realización de actividades de capacitación o supervisión dirigidas a los funcionarios de casilla o centros de votación, y
+
+c) La participación en la logística, provisión de materiales o cualquier acción relacionada con la operación de las casillas o centros de votación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SEXTO. DE LAS BOLETAS Y PAQUETERÍA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 499.
+
+1. Para la emisión del voto en la elección judicial, la Comisión Especial de Elecciones Judiciales, a propuesta de la Secretaría Ejecutiva del Instituto, aprobará el modelo de boleta electoral.
+
+2. Las boletas para la elección judicial por lo menos deberán tener las siguientes características y requisitos:
+
+a) El listado de las personas que integran en columna la planilla por cada Poder del Estado. En el listado de las magistraturas del Tribunal Superior y Disciplinario se incorporará la lista de suplentes en la columna respectiva;
+
+b) El cargo a elegir y su jurisdicción que corresponda en su caso;
+
+c) El Poder que postula la candidatura judicial que podrá ser resaltado con color en cada columna;
+
+d) Nombre y apellidos de la persona candidata;
+
+e) Sello y firmas impresas de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto;
+
+f) El emblema del Instituto impreso al reverso de la boleta;
+
+g) Número de folio desprendible en numeración progresiva, según la votación de que se trate, y
+
+h) El papel y las medidas de seguridad autorizadas por la Comisión Especial de Elecciones Judiciales que prevengan su falsificación, deberán ajustarse al principio de autoridad y racionalidad presupuestal.
+
+3. En la boleta se integrarán los listados de planillas de los órganos colegiados a elegir que presenten libremente los Poderes, ordenados por el apellido en orden alfabético y se dividirán los listados de las candidaturas de manera horizontal en tres columnas resaltadas por cada uno de los poderes Ejecutivo, Legislativo y Judicial. Cada columna, además, se dividirá entre propietario y suplentes en los términos que establece este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 500.
+
+1. Las características de la documentación y material electoral se determinarán en términos de lo señalado en las reglas, lineamientos, criterios y formatos aprobados por la Comisión Especial de Elecciones Judiciales.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 501.
+
+1. No habrá modificación a las boletas en caso de cancelación del registro de uno o más candidatas o candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para candidaturas que estuviesen legalmente autorizadas y registradas.
+
+2. En todo caso, cuando por resolución judicial se ordene incluir alguna candidatura, que por omisión no aparezca en la boleta original, se establecerá en la resolución la inclusión en el listado que corresponda aún cuando no aparezca en la boleta por imposibilidad real de impresión.
+
+3. Los errores en los nombres o la ausencia del nombre de las personas candidatas, no serán motivo para demandar la nulidad de la votación correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 502.
+
+1. La Secretaría Ejecutiva del Instituto será responsable de entregar la documentación y los materiales electorales, a los Comités Judiciales Electorales de acuerdo con los plazos establecidos en este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 503.
+
+1. La documentación y materiales electorales contendrán los elementos que establezca la Comisión Especial de Elecciones Judiciales.
+
+2. Para las elecciones judiciales se aplicará, en lo conducente, lo dispuesto en los artículos del 206 al 209 de este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA JORNADA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 504.
+
+1. La jornada electoral se llevará a cabo el primer domingo del mes de junio del año de la elección conforme a la Constitución, este Código y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+2. Para la instalación, apertura y cierre de casillas o centros de votación, el escrutinio y cómputo de la votación en el día de la jornada electoral se aplicarán, en lo conducente, las reglas que establezca la Comisión Especial de Elecciones Judiciales conforme a este Código.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 505.
+
+1. El escrutinio y cómputo es el procedimiento por el cual las personas integrantes de cada una de las mesas directivas de casilla o centros de votación, determinan:
+
+a) El número de electores que votó en la casilla;
+
+b) El número de votos emitidos en favor de cada listado de candidatura, y
+
+c) El número de votos nulos.
+
+2. El voto será válido a favor de la marca que se haga en el recuadro que contenga la columna del listado de la planilla que comprenda las candidaturas, propietarias y suplentes, de los órganos colegiados; o a favor de cada una de las personas juzgadoras en los cargos unipersonales que correspondan al listado de la planilla de que se trate.
+
+3. Son votos nulos:
+
+a) Aquel expresado en una boleta que se depositó en la urna, sin haberse marcado ningún listado de planillas que corresponda a las candidaturas judiciales, y
+
+b) Cuando se marque dos o más listados de planillas que contengan las candidaturas diferentes de los poderes del Estado.
+
+4. Se contará como voto válido para todo el listado de las candidaturas, la marca que se haga en un solo recuadro en el que se contenga quienes integran el listado de la planilla del órgano colegiado, propietarios y suplentes, o en el listado de los cargos unipersonales, en términos de lo dispuesto por este Código.
+
+5. Se entiende por boletas sobrantes aquellas que, habiendo sido entregadas a la mesa directiva de casilla o centro de votación, según la disponibilidad presupuestaria, no fueron utilizadas por los electores. En ningún caso las boletas sobrantes, se sumarán a los votos nulos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+## TÍTULO CUARTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 506.
+
+1. Una vez que el Consejo General del Instituto realice la sumatoria final, previo el procedimiento ante los Comités Judiciales Electorales, procederá a declarar las constancias de mayoría a favor de la planilla que resulte con mayor número de votos y publicará los resultados de la elección, previo proyecto de acuerdo de la Secretaría Ejecutiva.
+
+2. El Consejo General del Instituto hará entrega de las constancias de mayoría a las candidaturas que resulten ganadoras de la planilla de que se trate y emitirá la declaración de validez respectiva.
+
+3. El Consejo General del Instituto entregará las constancias de mayoría a las planillas de los listados de candidaturas que resulten ganadoras y emitirá la declaración de validez de la elección respectiva. Emitida la declaración de validez de la elección, el Instituto comunicará los resultados al Poder Judicial del Estado de Coahuila de Zaragoza.
+
+4. Las personas magistradas y juzgadoras locales electas deberán tomar protesta de su encargo e iniciarán sus funciones en los términos que establece la Constitución y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
+
+###### Artículo 507.
+
+1. El proceso judicial electoral se regirá como un procedimiento especial por estos principios y reglas previstos de manera específica en este Libro.
+
+2. En lo conducente y supletorio, se aplicarán las reglas previstas en este Código para el proceso electoral.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -8636,3 +8660,45 @@ P.O. 26 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 224.- SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado, en los términos y modalidades establecidas por el Decreto que reforman, modifican, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Coahuila de Zaragoza, en materia de reforma del poder judicial.
+
+###### ARTÍCULO SEGUNDO.
+
+El Proceso Judicial Electoral Extraordinario 2024-2025 para el régimen local, por esta única ocasión y con la finalidad de garantizar la realización de la jornada electoral del primero de junio de 2025, se regirá, en lo conducente y aplicable, por las disposiciones de la Constitución y este Código con las bases, modalidades y excepciones transitorias establecidas en la reforma constitucional local, la Convocatoria General que expida el Congreso del Estado y demás disposiciones aplicables que emitan las autoridades competentes para implementar en forma extraordinaria dicha elección.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo General del Instituto, conforme a las disposiciones de este Código, deberá celebrar sesión para dar inicio a la etapa de la preparación de la elección de los cargos del Poder Judicial del Estado, así como para crear, instalar y atribuir sus funciones, facultades y responsabilidades de la Comisión Especial de Elecciones Judiciales, a más tardar el quince de enero de dos mil veinticinco. En el caso de los Comités Judiciales Electorales se hará lo conducente a más tardar el 15 de febrero de 2025. En todo caso, la Secretaría Ejecutiva del Instituto procederá a realizar el proyecto de acuerdo respectivo y ejecutar todo lo necesario para el debido funcionamiento de los órganos del Instituto conforme a las reglas previstas en este Código.
+
+El Instituto Electoral de Coahuila deberá realizar las modificaciones presupuestales necesarias y, en su caso, comprometer recursos de su presupuesto aprobado para el ejercicio 2024, con el fin de atender las elecciones extraordinarias 2024-2025, a partir de la publicación del presente Decreto y hasta la conclusión del proceso electoral judicial extraordinario. Así mismo, deberá realizar las modificaciones necesarias al presupuesto correspondiente para el ejercicio 2025 aprobado por el Congreso del Estado, con el mismo fin.
+
+###### ARTÍCULO CUARTO.
+
+Para acreditar el requisito de elegibilidad de candidaturas judiciales consistente en el certificado de perfil idóneo previsto en la fracción V del artículo 138 y la fracción V del artículo 139 de la Constitución, por esta única ocasión y para participar en el Proceso Electoral Extraordinario 2025 y 2027, respectivamente, el mismo será cumplido con la certificación o evaluación equivalente que determine el actual Instituto de Especialización Judicial del Poder Judicial, en los términos siguientes:
+
+1. Las personas aspirantes, a partir del inicio del proceso judicial electoral, podrán solicitar ante el Pleno dicha certificación, con los documentos que estimen convenientes para acreditar su perfil judicial idóneo, a fin de que el Instituto de Especialización Judicial expida la certificación en tiempo y forma antes de que inicie el período de registro de aspirantes. Para tal efecto, el Pleno deberá habilitar y facilitar el servicio de la expedición de dicha constancia por parte del Instituto de Especialización Judicial.
+
+2. En caso de que el aspirante no obtenga la certificación correspondiente, deberá manifestarlo así en su solicitud para que el Comité de Evaluación de que se trate determine la fecha del examen correspondiente, con auxilio del Instituto de Especialización Judicial, según el cargo judicial a aspirar. Si el aspirante no obtiene una calificación mínima de 80 sobre 100, el Comité de Evaluación lo declarará inelegible e inidóneo.
+
+3. Para la elección judicial de la jornada de primero de junio de dos mil veintisiete, la certificación del perfil idóneo se cumplirá en la forma que determine la escuela de formación judicial conforme los programas o cursos que se convoquen para tal efecto conforme a la Ley Orgánica del Poder Judicial del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan y quedan sin efecto alguno, todas las disposiciones que contravengan este Decreto.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 240.- SE REFORMAN LOS NUMERALES 1 Y 2 DEL ARTÍCULO 477, EL NUMERAL 2 DEL ARTÍCULO 478 Y LOS NUMERALES 1 Y 5 DEL ARTÍCULO 497 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En el Proceso Judicial Electoral Extraordinario 2024-2025 iniciado el 20 de diciembre de 2024 en el Estado, se aplicarán los lineamientos o directrices en materia de fiscalización de candidaturas judiciales, de urnas y voto electrónico, y de capacitación electoral que emita el Instituto Nacional Electoral.
+
+TERCERO.- Se derogan y quedan sin efecto alguno todas las disposiciones que contravengan este Decreto.
