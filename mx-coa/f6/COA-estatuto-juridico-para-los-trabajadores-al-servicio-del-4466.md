@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2020-11-27"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -559,37 +559,33 @@ V.- Cuando esté sujeto a proceso ante el Tribunal de Conciliación y Arbitraje,
 
 DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 48.
 
-Ningún trabajador de base o de base sindicalizado podrá ser cesado sino por justa causa; en consecuencia, el nombramiento o designación de los trabajadores de base o de base sindicalizados sólo dejará de surtir efecto, sin responsabilidad para las dependencias, por las siguientes causas:
+Ninguna persona trabajadora de base o de base sindicalizado podrá ser cesado sino por justa causa; en consecuencia, el nombramiento o designación de las y los trabajadores de base o de base sindicalizados sólo dejará de surtir efecto, sin responsabilidad para las dependencias, por las siguientes causas:
 
-I.- Por renuncia o abandono de empleo del trabajador;
+I.- Por renuncia o abandono de empleo de la persona trabajadora;
 
 II.- Por repetida negligencia o descuido en las labores técnicas relativas al funcionamiento de maquinaria o equipo, o a la atención de personas, que ponga en peligro a los bienes o que cause la suspensión o la deficiencia de un servicio o que ponga en peligro la salud o la vida de las personas, en los términos que señalen los reglamentos de trabajo aplicables a la dependencia respectiva;
 
 III.- Por conclusión del término o de la obra determinantes de la designación;
 
-IV.- Por muerte del trabajador;
+IV.- Por muerte de la persona trabajadora;
 
-V.- Por incapacidad permanente del trabajador, física o mental, que le impida el desempeño de sus labores;
+V.- Por incapacidad permanente de la persona trabajadora, física o mental, que le impida el desempeño de sus labores;
 
 VI.- Por resolución del Tribunal de Conciliación y Arbitraje, en los casos siguientes:
 
-a).- Cuando el trabajador incurriere en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra la esposa, los hijos, los padres o hermanos de uno u otros, ya sea dentro o fuera de las horas de servicio.
+a). - Cuando la persona trabajadora incurriere en faltas de probidad u honradez o en amagos, injurias, malos tratamientos, actos de violencia, contra sus superiores, compañeras o compañeros de trabajo, o contra los familiares de uno u otros, ya sea dentro o fuera de las horas de servicio.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-b).- Cuando el trabajador falte sin causa justificada por más de tres días en un período de treinta días.
+b). - Cuando la persona trabajadora falte sin causa justificada por más de tres días en un período de treinta días.
 
 Para los efectos de esta Ley, dos medias jornadas computan un día de labores.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+Queda prohibido a las dependencias dar de baja o terminar la relación laboral de los trabajadores de base o de base sindicalizados que tengan la calidad de personas desaparecidas, siempre que exista denuncia, reporte o queja, en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y únicamente (sic)
 
-Queda prohibido a las dependencias dar de baja o terminar la relación laboral de los trabajadores de base o de base sindicalizados que tengan la calidad de personas desaparecidas, siempre que exista denuncia, reporte o queja, en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y únicamente durante los cinco meses siguientes a aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia, caso en el cual continuará la prohibición.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+(sic) durante los cinco meses siguientes a aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia, caso en el cual continuará la prohibición.
 
 En el caso del párrafo anterior, se tendrá al trabajador con licencia sin goce de sueldo.
 
@@ -597,19 +593,21 @@ c).- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, m
 
 d).- Por cometer actos inmorales durante el trabajo.
 
-e).- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo de su trabajo.
+e).- Por cometer actos de acoso y hostigamiento sexual, así como cualquier tipo de violencia fisica, sexual, psicológica, económica, patrimonial, mediática, digital, o por acecho, o cualquier tipo de violencia contemplada en la Ley de Acceso a las Mujeres a una Vida Libre de Violencia en Coahuila en el lugar o establecimiento de trabajo.
 
-f).- Por comprometer con su imprudencia, descuido o negligencia la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que allí se encuentren.
+f).- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo de su trabajo.
 
-g).- Por desobedecer reiteradamente y sin justificación las órdenes que reciba de sus superiores, relacionadas con sus servicios.
+g).- Por comprometer con su imprudencia, descuido o negligencia la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que allí se encuentren.
 
-h).- Por concurrir al trabajo en estado de embriaguez, o bajo la influencia de algún narcótico o droga enervante.
+h).- Por desobedecer reiteradamente y sin justificación las órdenes que reciba de sus superiores, relacionadas con sus servicios.
 
-i).- Por falta comprobada de cumplimiento de las condiciones generales de trabajo de la dependencia respectiva.
+i).- Por concurrir al trabajo en estado de embriaguez, o bajo la influencia de algún narcótico o droga enervante.
 
-j).- Por prisión que sea el resultado de una sentencia ejecutoria.
+j).- Por falta comprobada de cumplimiento de las condiciones generales de trabajo de la dependencia respectiva.
 
-En los casos a que se refiere esta fracción, el trabajador que diere motivo para la terminación de los efectos del nombramiento, podrá ser, desde luego, suspendido en su trabajo mientras el Tribunal de Conciliación y Arbitraje dicte su resolución.
+k).- Por prisión que sea el resultado de una sentencia ejecutoria.
+
+En los casos a que se refiere esta fracción, la persona trabajadora que diere motivo para la terminación de los efectos del nombramiento, podrá ser, desde luego, suspendido en su trabajo mientras el Tribunal de Conciliación y Arbitraje dicte su resolución.
 
 En el caso de que el cese sea justificado, el trabajador no tiene derecho al pago de salarios caídos.
 
@@ -2380,3 +2378,15 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 246.- SE REFORMA EL ARTÍCULO 9 FRACCIÓN IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 19; SE ADICIONA EL ARTÍCULO 9 BIS, LA FRACCIÓN X AL ARTÍCULO 47, EL ARTÍCULO 54 BIS, ASÍ COMO UN CAPÍTULO XIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 48 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DEL ESTADO DE COAHUILA; SE REFORMA EL ARTÍCULO 41 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 299 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
