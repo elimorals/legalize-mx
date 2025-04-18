@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-1023
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-02"
-last_updated: "2020-03-20"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -583,43 +583,59 @@ IV.- Cuando el trabajador esté sujeto a proceso ante el Tribunal de Conciliaci�
 
 ### CAPÍTULO SEGUNDO. DE LA TERMINACIÓN DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS TRABAJADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 41.
 
-Ningún trabajador de la Educación considerado de base o temporal, podrá ser cesado ni despedido sino por justa causa. En consecuencia, el nombramiento de dichos trabajadores sólo dejará de surtir efectos sin responsabilidad para el Estado, en los siguientes casos:
+Ninguna persona trabajadora de la Educación considerado de base o temporal, podrá ser cesada ni despedida sino por justa causa. En consecuencia, el nombramiento de dichas personas trabajadoras sólo dejará de surtir efectos sin responsabilidad para el Estado, en los siguientes casos:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE ABRIL DE 2025)</small>
 
 I.- Por renuncia o abandono de empleo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE ABRIL DE 2025)</small>
+
 II.- Por repetida negligencia o descuido en las labores técnicas relativas al funcionamiento de maquinaria o equipo, o a la atención de personas, que ponga en peligro a los bienes o que cause la suspensión o la deficiencia de un servicio o que ponga en peligro la salud o la vida de las personas, en los términos que señalen los acuerdos, circulares, manuales, protocolos y reglamentos estatales y/o federales que les sean aplicables;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE ABRIL DE 2025)</small>
 
 III.- Por conclusión del término para el que fue extendido su nombramiento;
 
-IV.- Por muerte del trabajador;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2025)</small>
 
-V.- Por incapacidad permanente del trabajador, física o mental, que le impida el desempeño de sus labores;
+IV.- Por muerte de la persona trabajadora;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2025)</small>
+
+V.- Por incapacidad permanente de la persona trabajadora, física o mental, que le impida el desempeño de sus labores;
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS INCISOS], P.O. 18 DE ABRIL DE 2025)</small>
 
 VI.- Por resolución discrecional del Tribunal de Conciliación y Arbitraje, en los casos siguientes:
 
-a).- Cuando el trabajador incurriere en falta de probidad u honradez o en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra los familiares de uno u otros, ya sea dentro o fuera de las horas de servicio;
+a).- Cuando la persona trabajadora incurriere en falta de probidad u honradez o en actos de violencia, amagos, injurias o malos tratamientos contra sus jefes o compañeros o contra los familiares de uno u otros, ya sea dentro o fuera de las horas de servicio;
 
-b).- Cuando faltare por más de tres días consecutivos o más de cinco alternados en un periodo de treinta días a sus labores sin causa justificada; cuando se trate de trabajadores distintos a los contemplados en el artículo 3° de la Ley General del Servicio Profesional Docente o el artículo 39 del presente Estatuto;
+b).- Cuando faltare por más de tres días consecutivos o más de cinco alternados en un periodo de treinta días a sus labores sin causa justificada; cuando se trate de personas trabajadoras distintas a los contemplados (sic) en el artículo 3° de la Ley General del Servicio Profesional Docente o el artículo 39 del presente Estatuto;
 
 c).- Por destruir, menoscabar o afectar intencionalmente edificios, obras, maquinaria, instrumentos, materias primas, documentación y/o información oficial, y demás objetos relacionados con el trabajo;
 
-d).- Por cometer actos inmorales, de hostigamiento y/o acoso sexual contra cualquier persona en el lugar o establecimiento de trabajo;
+d).- Por cometer actos inmorales durante el trabajo;
 
-e).- Por revelar secretos técnicos, documentación y/o información oficial, así como los asuntos reservados de que tuviere conocimiento con motivo del trabajo, cuya divulgación pueda causar perjuicio a la Secretaría de Educación;
+e).- Por cometer actos de acoso y hostigamiento sexual, así como cualquier tipo de violencia física, sexual, psicológica, económica, patrimonial, mediática, digital, o por acecho, o cualquier tipo de violencia contemplada en la Ley de Acceso a las Mujeres a una Vida Libre de Violencia en Coahuila en el lugar o establecimiento de trabajo;
 
-f).- Por comprometer con su imprudencia, descuido o negligencia, la seguridad del centro de trabajo o de las personas que allí se encuentren;
+f).- Por revelar secretos técnicos, documentación y/o información oficial, así como los asuntos reservados de que tuviere conocimiento con motivo del trabajo, cuya divulgación pueda causar perjuicio a la Secretaría de Educación;
 
-g).- Por desobedecer reiteradamente y sin justificación las órdenes que reciba de sus superiores, relacionadas con sus servicios;
+g).- Por comprometer con su imprudencia, descuido o negligencia, la seguridad del centro de trabajo o de las personas que allí se encuentren;
 
-h).- Por concurrir al trabajo en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que, en este último caso, exista prescripción médica. Además de iniciar su servicio, el trabajador deberá poner el hecho del conocimiento del patrón y presentar la prescripción suscrita por el médico;
+h).- Por desobedecer reiteradamente y sin justificación las órdenes que reciba de sus superiores, relacionadas con sus servicios;
 
-i).- Por falta comprobada de cumplimiento al contrato o a las condiciones generales de trabajo;
+i).- Por concurrir al trabajo en estado de embriaguez o bajo la influencia de algún narcótico o droga enervante, salvo que, en este último caso, exista prescripción médica. Además de iniciar su servicio, la persona trabajadora deberá poner el hecho del conocimiento del patrón y presentar la prescripción suscrita por el médico;
 
-j).- Por sanción que sea resultado de una sentencia Ejecutoriada;
+j).- Por falta comprobada de cumplimiento al contrato o a las condiciones generales de trabajo;
 
-k).- Por participar un funcionario público, en alguna forma de ingreso o promoción distinta a lo establecido en este Estatuto o en las disposiciones legales aplicables, autorizar o efectuar algún pago o contraprestación u obtenga algún beneficio.
+k).- Por sanción que sea resultado de una sentencia Ejecutoriada; y
+
+l).- Por participar un funcionario público, en alguna forma de ingreso o promoción distinta a lo establecido en este Estatuto o en las disposiciones legales aplicables, autorizar o efectuar algún pago o contraprestación u obtenga algún beneficio.
 
 Por cualquiera de las causas a que se refiere esta fracción, el Titular de la Secretaría podrá suspender los efectos del nombramiento si con ello está conforme la Sección Sindical correspondiente; pero si ésta no estuviera de acuerdo, y cuando se trate de alguna de las causas graves previstas en los incisos a), b), c), d), e), h) y j), el Titular podrá demandar la conclusión de los efectos del nombramiento ante el Tribunal de Conciliación y Arbitraje, el cual proveerá de plano, en incidente por separado, la suspensión de los efectos del nombramiento, sin perjuicio de continuar el procedimiento en lo principal hasta agotarlo en los términos y plazos que correspondan, para determinar en definitiva sobre la procedencia o improcedencia de la terminación de los efectos del nombramiento.
 
@@ -1298,3 +1314,15 @@ P.O. 20 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 571.- SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 37 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 246.- SE REFORMA EL ARTÍCULO 9 FRACCIÓN IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 19; SE ADICIONA EL ARTÍCULO 9 BIS, LA FRACCIÓN X AL ARTÍCULO 47, EL ARTÍCULO 54 BIS, ASÍ COMO UN CAPÍTULO XIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 48 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DEL ESTADO DE COAHUILA; SE REFORMA EL ARTÍCULO 41 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 299 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
