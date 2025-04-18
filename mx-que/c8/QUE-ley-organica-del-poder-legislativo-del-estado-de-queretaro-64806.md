@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2024-08-23"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -559,6 +559,10 @@ c) Acuerdo: La resolución expedida por el Poder Legislativo, en materia de su a
 
 La recepción de documentos se realizará por la Oficialía de Partes en días y horas hábiles, que se comprenderán de lunes a viernes, de las 9:00 a las 15:00 horas. Los que se presenten para trámite Legislativo, deberán ser exhibidos de manera impresa y en archivo electrónico, en formato de procesador de textos editable o enviados de forma electrónica desde el correo institucional asignado al autor del documento.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Tratándose del trámite de minutas de reformas a la Constitución Política de los Estado Unidos Mexicanos, su recepción podrá realizarse a través de medios electrónicos al correo institucional oficial habilitado para dichos medios, siempre que sean remitidas por cualquiera de las Cámaras del Congreso de la Unión.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2023)</small>
 
 La Presidencia o la Secretaría de Servicios Parlamentarios de la Legislatura podrá habilitar días, horas y formatos distintos a los señalados cuando con ello se logre una comunicación adecuada en el envío y recepción de documentos que, por su importancia requieran de trámite distinto. Los documentos que no fueren recibidos en Oficialía de Partes o bajo las excepciones de la presente Ley se tendrán por no presentados ante el Poder Legislativo.
@@ -582,6 +586,10 @@ En el caso de documentos recibidos que no constituyan trámite legislativo, la f
 (Trámite preferente de asuntos) Podrán ser considerados para trámite preferente o de urgente y obvia resolución, las iniciativas de Ley presentadas por el Poder Ejecutivo, el Poder Judicial u Organismos Constitucionales Autónomos. Dicho trámite consistirá en establecer menores plazos para la resolución de los mismos.
 
 La Presidencia de la Legislatura resolverá lo conducente, no obstante, en ningún caso podrán omitirse etapas del proceso legislativo.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Tendrán el carácter de preferente para su resolución, las minutas de reforma a la Constitución Política de los Estados Unidos Mexicanos, para las cuales, una vez recibidas, deberán turnarse a la Comisión competente al día siguiente de su recepción.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -655,11 +663,11 @@ Cuando la iniciativa proponga la creación de organismos, dependencias o la ampl
 
 (Iniciativas presentadas por particulares) Las iniciativas de particulares serán presentadas en los términos de la Constitución Política del Estado de Querétaro, la Ley de Participación Ciudadana del Estado de Querétaro y la presente Ley
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2025)</small>
 
 ###### Artículo 44.
 
-(Turno de iniciativa) La Secretaría de Servicios Parlamentarios, dentro de un plazo de 7 días hábiles contados a partir de la recepción de iniciativas, realizará el turno a la Comisión de dictamen que estime competente.
+(Turno de iniciativa) La Secretaría de Servicios Parlamentarios, dentro de un plazo de 7 días hábiles contados a partir de la recepción de iniciativas, realizará el turno a la Comisión de dictamen que estime competente. Se exceptúan de lo anterior, exclusivamente las Minutas de reforma a la Constitución Política de los Estados Unidos Mexicanos remitidas por cualquiera de las cámaras que integran el Congreso de la Unión, las cuales deberán turnarse al día siguiente de su recepción.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1089,6 +1097,10 @@ No podrá modificarse sustancialmente el contenido en los proyectos de Ley o Dec
 
 El oficio por el que se remita el proyecto de Ley o Decreto para promulgación y posterior publicación se firmará por la Presidencia de la Legislatura en funciones, independientemente de la fecha en que se haya aprobado por el Pleno.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Tratándose del trámite de minutas de reformas a la Constitución Política de los Estado Unidos Mexicanos, su remisión podrá realizarse a través de medios electrónicos al correo institucional oficial de las Cámaras del Congreso de la Unión.
+
 Los Acuerdos aprobados por el Pleno de la Legislatura no requerirán agotar el trámite previsto en el presente artículo, salvo indicación de la Presidencia de la Legislatura.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
@@ -1199,6 +1211,10 @@ IV. La firma autógrafa o firma electrónica de la Presidencia de la Legislatura
 
 La convocatoria deberá ser remitida al menos con 48 horas de anticipación a la fecha y hora en que habrá de celebrarse la sesión.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Cuando la sesión sea convocada únicamente para desahogar minutas de reformas a la Constitución Política de los Estados Unidos Mexicanos, podrá ser convocada con al menos un día de anticipación.
+
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 La Presidencia de la Legislatura podrá convocar a sesionar en el caso de designación de Gobernador provisional, interino o sustituto, o bien cuando se trate de asuntos que considere de urgente resolución. La Sesión se considerará válida cuando exista quórum legal para ello.
@@ -1213,7 +1229,13 @@ Las dependencias del Poder Legislativo deberán brindar el apoyo necesario en el
 
 (Asuntos que integrarán el orden del día) Para la integración del orden del día, la Presidencia de la Legislatura considerará preferentemente los dictámenes que hayan sido ingresados en la Oficialía de Partes, con cuarenta y ocho horas de anticipación a la sesión correspondiente, computándose en días hábiles.
 
-El Pleno, a solicitud de cualquier diputado y por mayoría de votos de los presentes, podrá agregar o retirar asuntos del orden del día de la sesión, hasta antes de abrir el punto de asuntos generales.
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Tratándose de dictámenes emitidos con motivo de reformas a la Constitución Política de los Estados Unidos Mexicanos, podrán integrarse al orden del día los que hayan sido ingresados a Oficialía de Partes con un día de anticipación a la sesión correspondiente.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+El Pleno, a solicitud de cualquier diputado y por mayoría de votos de los presentes, podrá agregar o retirar asuntos del orden del día de la sesión, hasta antes de abrir el punto de asuntos generales; no se podrán agregar asuntos de otra naturaleza en el orden del día, cuando se trate de sesiones en las que se vayan a desahogar minutas de reformas a la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
 
@@ -2209,6 +2231,10 @@ En caso de circunstancias extraordinarias que impidan llevar a cabo una sesión 
 
 (Tiempo de la convocatoria). La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con 48 horas de anticipación a la fecha y hora en que haya de celebrarse la sesión y con aviso a la Secretaría de Servicios Parlamentarios, Oficialía Mayor, Dirección de Comunicación Social y Dirección de Investigación y Estadística Legislativa, para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Las sesiones de las comisiones concernientes a minutas de reformas a la Constitución Política de los Estados Unidos Mexicanos, la Presidencia podrá expedir y remitir la convocatoria a esta con al menos un día de anticipación a celebrarse.
+
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
 
 Las sesiones de las comisiones ordinarias o especiales del Poder Legislativo deberán ser transmitidas en tiempo real en el portal institucional en internet o plataformas de las redes sociales con mayor número de usuarios en el País y en el Estado.
@@ -2715,9 +2741,9 @@ VI. Los demás asuntos que a juicio de la Presidencia de la Legislatura, deban h
 
 Los documentos que aparezcan en la Gaceta Legislativa tendrán el carácter de informativos. Las modificaciones hechas a los mismos con posterioridad a la edición de la Gaceta, no constituyen responsabilidad para la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
 
-La Gaceta Legislativa se remitirá a los diputados a un correo electrónico institucional, cuarenta y ocho horas antes de la hora en que se celebre la sesión, salvo casos excepcionales que acuerde la Presidencia de la Legislatura.
+La Gaceta Legislativa se remitirá a los diputados a un correo electrónico institucional, cuarenta y ocho horas antes de la hora en que se celebre la sesión, salvo casos excepcionales que acuerde la Presidencia de la Legislatura, tratándose de sesiones en las que únicamente se desahogarán minutas de reformas de la Constitución Política de los Estados Unidos Mexicanos, en cuyo caso, la gaceta podrá enviarse un día ante de la realización de la sesión.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3630,3 +3656,13 @@ Artículo Primero. La presente Ley entrará en vigor el día de su aprobación p
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de Sexagésima Primera Legislatura, del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
