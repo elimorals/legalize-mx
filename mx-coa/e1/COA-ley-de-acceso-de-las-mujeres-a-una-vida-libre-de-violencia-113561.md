@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2023-11-28"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -513,23 +513,21 @@ II. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional
 
 III. Violencia en el ámbito institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia;
 
-IV. Violencia en el ámbito laboral y escolar: Se ejerce por las personas que tienen un vínculo laboral, escolar o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2025)</small>
+
+IV. Violencia en el ámbito laboral y escolar: Se ejerce por las personas que tienen un vínculo laboral, escolar o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que dañe, en la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad,
+
+La violencia de este tipo también se configura, aún cuando solamente exista el riesgo potencial o latente de causar a la víctima, cualquier daño o perjuicio de los señalados en el párrafo anterior.
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso sexual, el hostigamiento sexual, el acoso laboral o el hostigamiento laboral.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+Debiéndose entender por relaciones laborales, aquellas emanadas de empleos formales e informales y, por relaciones educativas, además de las originadas en el ámbito escolarizado y formal, las que emanan también, de la educación no escolarizada, no formal e informal, que impliquen subordinación, y en las que baste el riesgo latente o potencial de causar a la víctima, daño o perjuicio.
 
-El hostigamiento sexual consiste en ejercer poder en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral o educativo, y se manifiesta por medio de expresiones verbales o conductas físicas de connotación lasciva hacia la víctima.
+Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género; además de exigir como requisito para el ingreso o ascenso a un empleo la presentación de certificado médico de no embarazo, despedir a una trabajadora o coaccionarla para que renuncie por estar embarazada y todas las conductas referidas en la Ley Federal del Trabajo.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2018)</small>
+Constituyen violencia escolar todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que dañan autoestima, la dignidad, salud, integridad, libertad y seguridad de las víctimas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas.
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
-
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2018)</small>
-
-Constituye violencia laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género; además de exigir como requisito para el ingreso o ascenso a un empleo la presentación de certificado médico de no embarazo, despedir a una trabajadora o coaccionarla para que renuncie por estar embarazada
-
-Constituyen violencia escolar todas aquellas conductas, acciones u omisiones, infligidas por el personal docente o administrativo o cualquier integrante de la comunidad educativa que dañan la dignidad, salud, integridad, libertad y seguridad de las víctimas; y
+Las instituciones, organismos y dependencias públicas y privadas deberán contar con protocolos que prevean los mecanismos necesarios para la acreditación, investigación y sanción de estas conductas, por los órganos competentes.
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -538,6 +536,24 @@ V. Violencia en la comunidad: Son los actos individuales o colectivos que transg
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
 
 Queda comprendido en cualquiera de las anteriores modalidades, la violencia digital que se presente a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales o correo electrónico, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual; así como daño moral a ellas y/o (sic) su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, erótico o sexual, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 9 Bis.
+
+Para efectos del hostigamiento o el acoso sexual, corresponde al gobierno estatal:
+
+I. Reivindicar la dignidad y el respeto de las mujeres en todos los ámbitos de su vida;
+
+II. Establecer un mecanismo que favorezca su erradicación en diversos centros tanto educativos, sociales y laborales, ya sean de orden público o privado, suscribiendo los acuerdos necesarios para tal fin;
+
+III. Seguir de manera puntual, los mecanismos, procesos y procedimientos, establecidos en esta ley, la Ley general de Responsabilidades y las demás, que tengan por objeto sancionar el hostigamiento y acoso sexual en el ámbito escolar y laboral, e inhibir su comisión. Los elementos que se recaben en los mismos, servirán para la presentación de la denuncia ante las autoridades correspondientes, a quienes se les deberá notificar de manera inmediata;
+
+IV. Proporcionar a quien sea víctima de hostigamiento o acoso sexual asesoría jurídica, atención médica y psicológica especializada y gratuita con el objeto de reparar el daño causado;
+
+V. Garantizar el seguimiento de los procesos pertinentes, a las personas superiores jerárquicas de la persona hostigadora o acosadora en el ámbito laboral o escolar, cuando sean omisas en recibir y/o dar curso a una queja, a fin de que se apliquen las sanciones penales y/o administrativas que correspondan;
+
+VI. Tratándose de víctimas mujeres menores de dieciocho años de edad, deberán implementar, por personal especializado, mecanismos para detectar, investigar y sancionar la violencia en el ámbito escolar o laboral, los cuales serán acordes con los principios de interés superior de la niñez y libre desarrollo de la personalidad;
 
 ### CAPÍTULO III. DE LAS ACCIONES PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -691,15 +707,21 @@ Todas las acciones que se realicen con motivo de la prevención, atención, asis
 
 ### CAPÍTULO IV. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2025)</small>
 
 ###### Artículo 17.
 
-Las órdenes de protección, son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, podrán otorgarse e instrumentarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes en materia penal, civil y familiar, en el momento en que tenga conocimiento de los hechos de violencia contra las mujeres presuntamente constitutivos de infracciones o delitos, evitando en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo ya sea con la víctima directa, indirectas o ambas.
+Las órdenes de protección, son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, podrán otorgarse e instrumentarse de oficio o a petición de parte, por las autoridades administrativas, los órganos internos de control, por el Ministerio Público o por los órganos jurisdiccionales competentes en materia penal, civil, familiar, laboral o administrativo en el momento en que tenga conocimiento de los hechos de violencia contra las mujeres presuntamente constitutivos de infracciones o delitos, evitando en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo ya sea con la víctima directa, indirectas o ambas.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 En virtud de la notoria urgencia, en los municipios, la expedición e instrumentación de las órdenes de protección de emergencia y preventivas de carácter temporal hasta por 72 horas, les corresponderá a los jueces municipales, una vez concedida dicha orden de protección, el juez municipal deberá hacerlo del conocimiento del Ministerio Público o de la autoridad jurisdiccional competente.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 Para la ejecución y seguimiento de las órdenes de protección, se contará con el auxilio de las Instituciones de Seguridad Pública Estatal o Municipal, pudiendo utilizar en caso de ser necesaria la fuerza pública para su efectividad, de conformidad con el procedimiento y observancia que determine la Ley para la Emisión y Seguimiento de las Medidas de Protección para Mujeres en Situación de Violencia del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 Las órdenes de protección serán giradas de oficio tratándose de niñas, niños y adolescentes o incapaces y de urgente aplicación en función del interés superior de la víctima y de naturaleza precautorias y cautelares, en los términos de la Ley de la materia.
 
@@ -715,17 +737,25 @@ II. Preventivas; y
 
 III. De naturaleza civil o familiar.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2025)</small>
 
 ###### Artículo 19.
 
-Las órdenes de protección deberán ser otorgadas e implementadas por el Ministerio Público o por los órganos jurisdiccionales competentes inmediatamente que tenga conocimiento de los hechos que las generen, en todos los casos relacionados con violencia familiar, violencia de género y delitos contra la libertad, la seguridad sexual y contra la familia, y deberán tomar en consideración:
+Las órdenes de protección deberán ser otorgadas e implementadas por el Ministerio Público, por los órganos jurisdiccionales o administrativos competentes inmediatamente que tenga conocimiento de los hechos que las generen, en todos los casos relacionados con violencia familiar, violencia de género y delitos contra la libertad, la seguridad sexual y contra la familia, y deberán tomar en consideración:
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 I. El riesgo o peligro existente;
 
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 II. La seguridad de la víctima o víctimas indirectas; y
 
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2020)</small>
+
 III. Los demás elementos de convicción con que se cuente.
+
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2020)</small>
 
 Las órdenes de protección tendrán una duración que dependerá directamente con que la víctima de violencia deje de estar expuesta al riesgo, garantizando la vida, integridad y seguridad de las víctimas, y en su caso de las víctimas indirectas.
 
@@ -1227,6 +1257,10 @@ VIII. Evaluar el cumplimiento de los objetivos propuestos en el propio programa;
 
 IX. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
 
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2025)</small>
+
+X. Elaborar un informe sobre la situación sobre los casos de Acoso y Hostigamiento Sexual con fines lascivos en el Estado de Coahuila.
+
 ### CAPÍTULO VII. DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ###### Artículo 48.
@@ -1470,6 +1504,26 @@ VI. Promover, en su caso, en coordinación con la Secretaría del Trabajo y el I
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2020)</small>
 
 VII. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+Artículo 54 bis. Corresponde a la Secretaría del Trabajo:
+
+I. Diseñar y aplicar programas en materia laboral, para atender y proporcionar oportunidades y opciones de empleo en igualdad de oportunidades a mujeres y hombres en la Entidad;
+
+II. Garantizar, desde el ámbito de su competencia, las acciones de difusión y capacitación permanentes con el personal de los centros laborales, los mecanismos que privilegien el desarrollo laboral y productivo de las mujeres en materia de empleo; la eliminación de toda práctica de acoso laboral, con mecanismos de denuncia que incluyan asesoría legal y psicológica, así como también métodos para la investigación y sanción del acoso laboral, que permita el respeto a los derechos humanos y la privacidad;
+
+III. Promover programas que permitan a las mujeres el acceso, y permanencia en programas de autoempleo;
+
+IV. Llevar a cabo campañas en los sectores productivos, de no discriminación y erradicación de toda forma de violencia contra las mujeres, a fin de concientizar sobre la necesidad de empoderar a la mujer dentro del sector laboral;
+
+V. Coadyuvar con las dependencias y entidades de la Administración Pública Estatal y municipal para el efectivo cumplimiento de esta Ley;
+
+VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VII. Orientar a las víctimas de violencia en el ámbito laboral y sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en la legislación vigente; y
+
+VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -2293,6 +2347,40 @@ Nada de lo enunciado en la presente Ley, afectará a disposición alguna que pue
 
 La violencia ejercida contra las mujeres será sancionada en los términos de la legislación civil, penal, administrativa, laboral y demás aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2025)</small>
+
+### CAPÍTULO XIII. DE LOS PROTOCOLOS DE ACTUACIÓN PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE VIOLENCIA DE GÉNERO CONTRA MUJERES, ADOLESCENTES Y NIÑAS
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 121.
+
+Las dependencias y entidades de los poderes del estado, los ayuntamientos y organismos constitucionales autónomos deberán contar con protocolos especializados en la prevención, atención y sanción de la violencia de género contra las mujeres, adolescentes y niñas. Asimismo, estas instituciones deberán contar con protocolos para la prevención, atención y sanción de la violencia laboral, así como del hostigamiento y acoso sexual.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 122.
+
+Los protocolos de actuación en materia de prevención, atención, sanción y erradicación de violencia de género contra las mujeres y niñas a que se refiere esta ley deberán estar alineados a los Modelos elaborados en el marco del Sistema Nacional y establecer cuando menos:
+
+I. Las reglas mínimas de actuación en la prevención, atención, sanción y erradicación de las violencias contra mujeres y niñas;
+
+II. Las acciones específicas de prevención, atención y/o sanción, necesarias para cada tipo y modalidad de la violencia a la que va dirigido; y
+
+III. Los elementos teóricos, normativos, prácticos y técnicos para su ejecución.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 123.
+
+Las dependencias y entidades públicas que en el ejercicio de sus funciones tengan injerencia con instituciones privadas como centros educativos y laborales y de salud entre otros, deberán de expedir y vigilar la aplicación de los protocolos de actuación en materia de prevención, atención, sanción y erradicación de la violencia de género contra mujeres, adolescentes y niñas a los que se refiere esta ley aplicable para dichas instituciones.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 124.
+
+En el caso de los protocolos especializados en la prevención, atención y erradicación del acoso y hostigamiento, además de lo que establece el artículo anterior deberán contemplar las medidas de reparación integral del daño y la protección en todo el proceso de la integridad de las víctimas.
+
 T R A N S I T O R I O S
 
 PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Estado.
@@ -2726,3 +2814,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones en contrario a este Decreto.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 246.- SE REFORMA EL ARTÍCULO 9 FRACCIÓN IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 19; SE ADICIONA EL ARTÍCULO 9 BIS, LA FRACCIÓN X AL ARTÍCULO 47, EL ARTÍCULO 54 BIS, ASÍ COMO UN CAPÍTULO XIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 48 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DEL ESTADO DE COAHUILA; SE REFORMA EL ARTÍCULO 41 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 299 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
