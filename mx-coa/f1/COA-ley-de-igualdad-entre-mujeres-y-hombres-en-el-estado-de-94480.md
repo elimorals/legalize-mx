@@ -4,7 +4,7 @@ identifier: "COA-ley-de-igualdad-entre-mujeres-y-hombres-en-el-estado-de-94480"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2022-04-29"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -1395,6 +1395,40 @@ Procedencia del recurso.
 
 En contra de las resoluciones dictadas con base en esta ley y de las disposiciones jurídicas que de ella emanen, procede el recurso de inconformidad y podrán ser impugnadas por el particular ante la propia autoridad que emitió el acto. Se interpondrá dentro de los quince días hábiles siguientes a la fecha en que se notifique la resolución recurrida.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2025)</small>
+
+## Título VII. De las Unidades de Igualdad de Género y Erradicación de la Violencia
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 62.
+
+Las dependencias y entidades, sus organismos auxiliares del Ejecutivo, los Poderes Legislativo y Judicial, organismos autónomos y municipios crearán enlaces de Igualdad de Género y Erradicación de la Violencia, mediante criterios transversales, que tengan por objeto implementar e institucionalizar la perspectiva de género y fungir como órgano de consulta y asesoría en la instancia correspondiente.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+###### Artículo 63.
+
+Son atribuciones de las los (sic) Enlaces de Igualdad de Género y Erradicación de la Violencia, las siguientes:
+
+I. Promover y vigilar que sus planes, programas, acciones y presupuestos sean realizados con perspectiva de género;
+
+II. Generar acciones con perspectiva de género que garanticen el acceso de las mujeres a una vida libre de violencia, promuevan la igualdad, el empoderamiento de las mujeres, el respeto a los derechos humanos y la eliminación de la discriminación;
+
+III. Dar cumplimiento a los instrumentos internacionales, nacionales y estatales en materia de derechos humanos garantizando en todo momento la igualdad de trato y oportunidades entre mujeres y hombres; así como prevenir, atender, sancionar y erradicar la violencia contra las mujeres en el ámbito de su competencia;
+
+IV. Elaborar el programa anual de trabajo para promover la igualdad entre mujeres y hombres y de prevención y erradicación de la violencia de género de su institución, en conjunto con las demás áreas administrativas;
+
+V. Realizar acciones para prevenir la violencia y discriminación laboral, así como el hostigamiento y acoso sexual;
+
+VI. Promover la revisión y actualización del marco jurídico estatal en materia de igualdad de género y protección a los derechos humanos de las mujeres, en el ámbito de competencia de su institución;
+
+VII. Elaborar y presentar un informe semestral de las acciones realizadas en el ámbito de su competencia en materia de la política de Igualdad entre Mujeres y Hombres y de Prevención y Eliminación de la violencia contra las Mujeres, en el marco de los Sistemas Estatales;
+
+VIII. Coadyuvar en el seguimiento de los indicadores de género correspondientes a su Institución; y
+
+IX. Las demás que se establezcan en otras disposiciones jurídicas.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1674,3 +1708,15 @@ P.O. 29 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 221.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 1 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 246.- SE REFORMA EL ARTÍCULO 9 FRACCIÓN IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 19; SE ADICIONA EL ARTÍCULO 9 BIS, LA FRACCIÓN X AL ARTÍCULO 47, EL ARTÍCULO 54 BIS, ASÍ COMO UN CAPÍTULO XIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 48 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DEL ESTADO DE COAHUILA; SE REFORMA EL ARTÍCULO 41 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 299 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
