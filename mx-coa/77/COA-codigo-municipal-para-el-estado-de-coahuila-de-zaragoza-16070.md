@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2024-05-31"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -3555,41 +3555,45 @@ En el caso del párrafo anterior, se tendrá al trabajador con licencia sin goce
 
 ### CAPÍTULO DÉCIMO. DE LA RESCISIÓN DE LA RELACIÓN JURÍDICA LABORAL
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 299.
 
-Ningún trabajador de base podrá ser cesado sino por justa causa; en consecuencia, el nombramiento o designación de los trabajadores de base sólo dejará de surtir efectos, sin responsabilidad para las entidades públicas municipales, por las siguientes causas:
+Ninguna persona trabajadora de base podrá ser cesada sino por justa causa; en consecuencia, el nombramiento o designación de las y los trabajadores de base sólo dejará de surtir efectos, sin responsabilidad para las entidades públicas municipales, por las siguientes causas:
 
-I. Engañar el trabajador o en su caso el sindicato, con certificados falsos o referencias en los que se atribuyan al trabajador capacidad, aptitudes y facultades de las que carece.
+I. Engañar la persona trabajadora o en su caso el sindicato, con certificados falsos o referencias en los que se atribuyan a la persona trabajadora capacidad, aptitudes y facultades de las que carece;
 
-II. Por negligencia o descuido en las labores técnicas relativas al funcionamiento de maquinaria o equipo, o a la atención de personas, que ponga en peligro a los bienes o que cause la suspensión o la deficiencia de un servicio, o que ponga en peligro la salud o la vida de las personas, en los términos que señalen los reglamentos de trabajo aplicables a la entidad pública respectiva.
+II. Por negligencia o descuido en las labores técnicas relativas al funcionamiento de maquinaria o equipo, o a la atención de personas, que ponga en peligro a los bienes o que cause la suspensión o la deficiencia de un servicio, o que ponga en peligro la salud o la vida de las personas, en los términos que señalen los reglamentos de trabajo aplicables a la entidad pública respectiva;
 
-III. Cuando el trabajador incurriere en faltas de probidad u honradez o en actos de violencia, amenazas graves, injurias o malos tratos contra sus superiores o compañeros o contra la esposa, los hijos, los padres o los hermanos de uno u otros, ya sea dentro o fuera de las horas de servicio, salvo que medie provocación o que obre en defensa propia.
+III. Cuando la persona trabajadora incurriere en faltas de probidad u honradez, en actos de violencia, amenazas graves, injurias o malos tratos contra sus superiores o compañeros o contra la esposa, los hijos, los padres o los hermanos de uno u otros, ya sea dentro o fuera de las horas de servicio, salvo que medie provocación o que obre en defensa propia;
 
-IV. Cuando el trabajador tenga más de tres faltas sin causa justificada en un periodo de 30 días.
+IV. Cuando la persona trabajadora tenga más de tres faltas sin causa justificada en un periodo de 30 días;
 
-Para los efectos de esta fracción, las faltas en las jornadas acumuladas se entenderán como faltas por cada uno de los turnos correspondientes; cuando la jornada se desarrolle en dos etapas discontinuas, la falta de asistencia a una de esas partes deberá computarse como media falta.
+Para los efectos de esta fracción, las faltas en las jornadas acumuladas se entenderán como faltas por cada uno de los turnos correspondientes; cuando la jornada se desarrolle en dos etapas discontinuas, la falta de asistencia a una de esas partes deberá computarse como media falta;
 
-V. Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas, documentos y demás objetos y útiles relacionados con el trabajo.
+V. Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas, documentos y demás objetos y útiles relacionados con el trabajo;
 
-VI. Por cometer actos inmorales durante la jornada de trabajo.
+VI. Por cometer actos inmorales durante la jornada de trabajo;
 
-VII. Por revelar los asuntos de que tenga conocimiento con motivo de su trabajo, y que requieran de discreción por razón del servicio público, siempre que causen prejuicio a la entidad pública.
+VII. Cometer actos de acoso y hostigamiento sexual, así como cualquier tipo de violencia física, sexual, psicológica, económica, patrimonial, mediática, digital, o por acecho en cualquiera de sus modalidades, o cualquier tipo de violencia contemplada en la Ley de Acceso a las Mujeres a una Vida Libre de Violencia en Coahuila;
 
-VIII. Por comprometer con su imprudencia, descuido o negligencia la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que ahí se encuentren.
+VIII. Por revelar los asuntos de que tenga conocimiento con motivo de su trabajo, y que requieran de discreción por razón del servicio público, siempre que causen prejuicio a la entidad pública;
 
-IX. Por desobedecer sin justificación las órdenes que reciba de sus superiores, siempre que se trate de los servicios derivados de la relación jurídica.
+IX. Por comprometer con su imprudencia, descuido o negligencia la seguridad del taller, oficina o dependencia donde preste sus servicios o de las personas que ahí se encuentren;
 
-X. Por concurrir al trabajo en estado de embriaguez, o bajo la influencia de algún narcótico o droga enervante, salvo, que en este último caso exista prescripción médica, previo acreditamiento de ella.
+X. Por desobedecer sin justificación las órdenes que reciba de sus superiores, siempre que se trate de los servicios derivados de la relación jurídica;
 
-XI. Por ingerir, durante la jornada de trabajo, bebidas embriagantes o drogas enervantes, salvo que en este último caso exista prescripción médica, que deberá comprobar.
+XI. Por concurrir al trabajo en estado de embriaguez, o bajo la influencia de algún narcótico o droga enervante, salvo, que en este último caso exista prescripción médica, previo acreditamiento de ella;
 
-XII. Por falta comprobada de cumplimiento de alguna de las condiciones generales de trabajo de la dependencia respectiva.
+XII. Por ingerir, durante la jornada de trabajo, bebidas embriagantes o drogas enervantes, salvo que en este último caso exista prescripción médica, que deberá comprobar;
 
-XIII. Por haberse dictado en su contra sentencia definitiva condenatoria por la comisión de un delito que este sancionado con pena corporal.
+XIII. Por falta comprobada de cumplimiento de alguna de las condiciones generales de trabajo de la dependencia respectiva
 
-XIV. Por el abandono de empleo.
+XIV. Por haberse dictado en su contra sentencia definitiva condenatoria por la comisión de un delito que este sancionado con pena corporal;
 
-XV. Por realizar actos u omisiones cuya gravedad y consecuencias sean análogas a las causales anteriores en lo que al servicio asignado se refiere.
+XV. Por el abandono de empleo;
+
+XVI. Por realizar actos u omisiones cuya gravedad y consecuencias sean análogas a las causales anteriores en lo que al servicio asignado se refiere.
 
 ###### ARTÍCULO 300.
 
@@ -5308,3 +5312,15 @@ El presente Decreto entrará en vigor el primero de enero de dos mil veinticinco
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Estado de Coahuila.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 246.- SE REFORMA EL ARTÍCULO 9 FRACCIÓN IV, EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 19; SE ADICIONA EL ARTÍCULO 9 BIS, LA FRACCIÓN X AL ARTÍCULO 47, EL ARTÍCULO 54 BIS, ASÍ COMO UN CAPÍTULO XIII DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 48 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DEL ESTADO DE COAHUILA; SE REFORMA EL ARTÍCULO 41 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA Y SE REFORMA EL ARTÍCULO 299 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones a que hace referencia contarán con 180 días a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes a sus reglamentaciones internas.
