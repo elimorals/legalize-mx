@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2024-12-20"
+last_updated: "2025-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -7909,9 +7909,13 @@ n) Las demás que establezcan este Código y los demás ordenamientos.
 
 ###### Artículo 477.
 
-1. Los topes de gastos personales y la fiscalización de los gastos inherentes al proceso electoral de las personas candidatas a los cargos judiciales populares se sujetará a los lineamientos que para tal efecto emita la Comisión Especial de Elecciones Judiciales. La Unidad de Fiscalización, se encargará de realizar la fiscalización correspondiente.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
 
-2. En el caso previsto en el párrafo anterior, la Unidad de Fiscalización del Instituto deberá operar conforme a los reglamentos, acuerdos y directrices que emita la Comisión Especial de Elecciones Judiciales.
+1. Los topes de los gastos inherentes al proceso electoral de las personas candidatas a los cargos judiciales populares se sujetará (sic) a los lineamientos que para tal efecto emita la Comisión Especial de Elecciones Judiciales. La Unidad de Fiscalización, se encargará de realizar la fiscalización correspondiente, cuando así se lo delegue el Instituto Nacional. La Unidad Técnica fiscalizará a las organizaciones de observación electoral que participen en el proceso electoral judicial local, aplicando los lineamientos de la autoridad nacional electoral.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+2. En los casos previstos en el párrafo anterior, la Unidad de Fiscalización del Instituto deberá operar conforme a los reglamentos, acuerdos, lineamientos y directrices que emita el Instituto Nacional.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -7919,7 +7923,9 @@ n) Las demás que establezcan este Código y los demás ordenamientos.
 
 1. La Comisión Especial de Elecciones Judiciales determinará los límites de los gastos personales autorizados para las personas candidatas en el proceso de elección de las personas candidatas a los cargos judiciales populares, observando los principios de austeridad y racionalidad en el uso de recursos.
 
-2. La Unidad de Fiscalización vigilará que las personas candidatas a los cargos judiciales populares, por sí o por interpósita persona, se abstengan de realizar erogaciones de recursos públicos o privados con el fin de promover sus candidaturas judiciales, en estricto cumplimiento de los principios de equidad y transparencia establecidos en la normativa electoral.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+2. Cuando así se lo delegue la autoridad nacional electoral, la Unidad de Fiscalización del Instituto vigilará que las personas candidatas a los cargos judiciales populares, por sí o por interpósita persona, se abstengan de realizar erogaciones de recursos públicos o privados con el fin de promover sus candidaturas judiciales, en estricto cumplimiento de los principios de equidad y transparencia establecidos en la normativa electoral.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -8187,7 +8193,9 @@ g) Recepción de escritos de incidencias y protesta.
 
 ###### Artículo 497.
 
-1. La Comisión Especial de Elecciones Judiciales se encargará de implementar la capacitación electoral, la ubicación de las casillas o centros de votación y la designación de los funcionarios, con la asistencia técnica de la Secretaría Ejecutiva del Instituto.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+1. La Comisión Especial de Elecciones Judiciales se encargará de implementar la capacitación electoral, en auxilio del Instituto Nacional cuando éste así lo requiera.
 
 2. Las publicaciones de las listas de integrantes de las mesas directivas y ubicación de las casillas o centros de votación, se fijarán en los edificios y lugares públicos más concurridos del municipio y en los medios electrónicos de que disponga el Instituto.
 
@@ -8195,7 +8203,9 @@ g) Recepción de escritos de incidencias y protesta.
 
 4. La Comisión Especial de Elecciones Judiciales se podrá coordinar con el Instituto Nacional para llevar a cabo la integración, instalación y capacitación de las mesas directivas de casillas o centro de votación en el Estado.
 
-5. La Comisión Especial de Elecciones Judiciales podrá autorizar el uso de la urna electrónica en las casillas o centros de votación, para facilitar el voto en la jornada electoral.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2025)</small>
+
+5. La Comisión Especial de Elecciones Judiciales podrá autorizar el uso de la urna electrónica en las casillas o centros de votación para facilitar el voto en la jornada electoral, cuando así lo determine el Instituto Nacional, de conformidad con los lineamientos que, al efecto, emita en la materia.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -8682,3 +8692,13 @@ Para acreditar el requisito de elegibilidad de candidaturas judiciales consisten
 ###### ARTÍCULO QUINTO.
 
 Se derogan y quedan sin efecto alguno, todas las disposiciones que contravengan este Decreto.
+
+P.O. 18 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 240.- SE REFORMAN LOS NUMERALES 1 Y 2 DEL ARTÍCULO 477, EL NUMERAL 2 DEL ARTÍCULO 478 Y LOS NUMERALES 1 Y 5 DEL ARTÍCULO 497 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En el Proceso Judicial Electoral Extraordinario 2024-2025 iniciado el 20 de diciembre de 2024 en el Estado, se aplicarán los lineamientos o directrices en materia de fiscalización de candidaturas judiciales, de urnas y voto electrónico, y de capacitación electoral que emita el Instituto Nacional Electoral.
+
+TERCERO.- Se derogan y quedan sin efecto alguno todas las disposiciones que contravengan este Decreto.
