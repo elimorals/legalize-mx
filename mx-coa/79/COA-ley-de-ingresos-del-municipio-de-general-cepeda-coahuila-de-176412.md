@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-general-cepeda-coahuila-de-176
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-17"
-last_updated: "2024-12-17"
+last_updated: "2025-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE GENERAL CEPEDA, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
 
 Ley publicada en la Quinta Sección del Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 17 de diciembre de 2024.
 
