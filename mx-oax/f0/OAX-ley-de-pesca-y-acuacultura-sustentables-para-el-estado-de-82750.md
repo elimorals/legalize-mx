@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2023-07-15"
+last_updated: "2025-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -53,7 +53,9 @@ I. Establecer y definir los principios para ordenar, fomentar y regular el manej
 
 II. Realizar convenios de coordinación y colaboración entre las distintas dependencias y organismos de la administración pública federal, estatal y municipal, relativa a los sectores pesqueros y acuícolas;
 
-III. Promover el mejoramiento de la calidad de vida de los pescadores y acuacultores de la Entidad, a través de los programas que se instrumenten para el sector pesquero y acuícola, además de impulsar su organización, capacitación, concertación y mecanismos de participación;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+III. Promover el mejoramiento de la calidad de vida de los pescadores y acuicultores de la Entidad, a través de los programas que se instrumenten para el sector pesquero y acuícola, además de impulsar su organización, capacitación, concertación y mecanismos de participación;
 
 IV. Coadyuvar con las dependencias de la Federación en el establecimiento de las bases para el ordenamiento, conservación, la protección, la repoblación y el aprovechamiento sustentable de los recursos pesqueros y acuícolas, así como la rehabilitación de los ecosistemas en que se encuentran dichos recursos;
 
@@ -195,13 +197,17 @@ XXXIX. Red Estatal: A la Red Estatal de Investigación Pesquera y Acuícola;
 
 XL. Repoblación: Es el acto de introducir organismos acuáticos vivos nativos en cualquiera de sus estadios, de su ciclo de vida en cuerpos de agua, con fines de mantener, recuperar o incrementar las poblaciones naturales pesqueras;
 
-XLI. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, dependiente de la administración pública federal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XLI. SADER: Secretaría de Agricultura y, Desarrollo Rural, dependiente de la administración pública federal;
 
 XLII. Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico y control de las plagas y enfermedades que afectan a las especies acuícolas;
 
 XLIII. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
-XLIV. SEPESCA: Secretaría de Pesca y Acuacultura, dependiente de la administración pública estatal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XLIV. DPA: Dirección de Pesca y Acuacultura, dependiente de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, de la administración pública estatal;
 
 (ADICIONADA, P.O. 29 DE ENERO DE 2013) (REPUBLICADA, P.O. 12 DE FEBRERO DE 2013)
 
@@ -227,15 +233,19 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 El Gobierno del Estado y sus ayuntamientos ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con esta Ley, con la distribución de competencia prevista en la LGPAS y en otros ordenamientos legales en la materia.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 8.
 
-Las atribuciones que esta Ley otorga al Estado, serán ejercidas por el Poder Ejecutivo Estatal a través de la SEPESCA, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la Ley.
+Las atribuciones que esta Ley otorga al Estado, serán ejercidas por el Poder Ejecutivo Estatal a través del titular de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de la Ley.
 
-Cuando, por razón de la materia y de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la SEPESCA ejercerá sus atribuciones en coordinación con las mismas.
+Cuando, por razón de la materia y de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría de Fomento Agroalimentario y Desarrollo Rural, ejercerá sus atribuciones en coordinación con las mismas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 9.
 
-Corresponde a la SEPESCA, el ejercicio de las siguientes atribuciones:
+Corresponde al titular de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, el ejercicio de las siguientes atribuciones:
 
 I. Promover, fomentar y administrar el aprovechamiento y desarrollo de los recursos pesqueros y acuícolas, definiendo las especies prioritarias;
 
@@ -255,7 +265,9 @@ V. Proponer el aprovechamiento responsable y sustentable de la flora y fauna acu
 
 VI. Impulsar la conservación de los recursos pesqueros y la repoblación de las áreas de pesca en coordinación con las autoridades competentes;
 
-VII. Proponer al Gobernador del Estado, por conducto del titular de la SEPESCA, el presupuesto destinado al sector de pesca y acuacultura que deberá incluir al menos los siguientes programas: fomento acuícola, desarrollo pesquero, fortalecimiento de los sistemas producto, ordenamiento, desarrollo de capacidades y comercialización;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+VII. Proponer al Gobernador del Estado, el presupuesto destinado al sector de pesca y acuacultura que deberá incluir al menos los siguientes programas: fomento acuícola, desarrollo pesquero, fortalecimiento de los sistemas producto, ordenamiento, desarrollo de capacidades y comercialización.
 
 VIII. Promover y apoyar la construcción, mejora y equipamiento de embarcaciones, artes de pesca, métodos y técnicas de pesca;
 
@@ -309,7 +321,9 @@ XXIX. Coordinar impulsar y fomentar la organización y desarrollo de exposicione
 
 XXX. Promover entre los habitantes del Estado, el consumo de productos pesqueros y acuícolas, sobre todo en especies que abunden en la Entidad, destacando sus beneficios y valores nutritivos.
 
-XXXI. Fomentar la igualdad de oportunidades de la mujer en las actividades de pesca y acuacultura, así como su inclusión en los programas que a la SEPESCA le competa en su diseño y ejecución;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XXXI. Fomentar la igualdad de oportunidades de la mujer en las actividades de pesca y acuacultura, así como su inclusión en los programas que a la DPA le competa en su diseño y ejecución;
 
 (REFORMADA, P.O. 29 DE ENERO DE 2013) (REPUBLICADA, P.O. 12 DE FEBRERO DE 2013)
 
@@ -323,9 +337,11 @@ Además de las atribuciones señaladas con anterioridad, corresponden al Estado 
 
 ### CAPÍTULO II. DE LA COORDINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 10.
 
-Para la consecución de los objetivos de la presente Ley, la SEPESCA y, en su caso, con la participación de los municipios, podrá celebrar convenios o acuerdos de coordinación con la Federación, con el objeto de asumir las siguientes funciones:
+Para la consecución de los objetivos de la presente Ley, la Secretaría de Fomento Agroalimentario y Desarrollo Rural, en coordinación con la DPA, en su caso, con la participación de los municipios, podrá celebrar convenios o acuerdos de coordinación con la Federación, con el objeto de asumir las siguientes funciones:
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 
@@ -343,9 +359,11 @@ VI.- La inspección y vigilancia en cumplimiento de esta Ley y demás disposicio
 
 VII. Promover y favorecer el bienestar social y económico de los pescadores y de sus familias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 11.
 
-Los convenios y acuerdos de coordinación que suscriba el Estado, a través de la SEPESCA, deberán sujetarse a lo siguiente:
+Los convenios y acuerdos de coordinación que suscriba el Estado, a través de la Secretaría de Fomento Agroalimentario y Desarrollo Rural en conjunto con la DPA, deberán sujetarse a lo siguiente:
 
 I. Establecer su objeto con precisión, las materias y facultades que se asumirán, que deberán ser acordes con la Política Nacional de Pesca y Acuacultura Sustentables, así como la que establece en esta materia, el Plan Estatal de Desarrollo del Estado de Oaxaca;
 
@@ -387,9 +405,11 @@ IX. Las demás que establezcan la presente Ley y la LGPAS.
 
 Los municipios podrán ejercer sus atribuciones por conducto de las Regidurías de Pesca y/o Acuacultura o de los órganos que los ayuntamientos determinen en sus reglamentos respectivos, pudiéndose establecer Comisiones de Pesca y/o Acuacultura como órganos de trabajo al interior de los cabildos.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 14.
 
-Los municipios promoverán la integración de los Consejos Municipales de Pesca y Acuacultura, con el propósito de generar y promover la participación de los pescadores, acuacultores y productores de sus comunidades, en la administración y manejo de los recursos pesqueros y acuícolas.
+Los municipios promoverán la integración de los Consejos Municipales de Pesca y Acuacultura, con el propósito de generar y promover la participación de los pescadores, acuicultores y productores de sus comunidades, en la administración y manejo de los recursos pesqueros y acuícolas.
 
 ###### Artículo 15.
 
@@ -421,17 +441,23 @@ IV. Que la investigación científica y tecnológica se consolide como herramien
 
 V. Reconocer a la pesca y acuacultura como una actividad productiva que permita ofrecer la generación de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población en la entidad, así como la generación de divisas;
 
-VI. El ordenamiento de la pesca y acuacultura debe hacerse a través de planes y programas que incluyan la definición de sitios para su realización, su tecnificación y diversificación, buscando la aplicación de nuevas tecnología (sic) que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+VI. El ordenamiento de la pesca y acuacultura debe hacerse a través de planes y programas que incluyan la definición de sitios para su realización, su tecnificación y diversificación, buscando la aplicación de nuevas tecnologías que reduzcan los impactos ambientales y que permitan ampliar el número de especies nativas que se cultiven;
 
 VII. Promover el uso de artes y métodos de pesca selectivos y de menor impacto ambiental, así como prácticas responsables a fin de conservar y mantener la disponibilidad de los recursos pesqueros, la estructura de las poblaciones, la restauración de los ecosistemas costeros y acuáticos, así como la calidad de los productos de la pesca;
 
-VIII. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en los que se encuentran las autoridades administrativas en el ámbito de su competencia, se adoptara el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+VIII. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en los que se encuentran las autoridades administrativas en el ámbito de sus competencias, adoptaran el enfoque precautorio que incluya la definición de límites de captura y esfuerzos aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;
 
 IX. Impulsar la transparencia en los procedimientos administrativos relativos al otorgamiento de permisos para realizar actividades pesqueras y acuícolas, así como las medidas para el control del esfuerzo pesquero, se autoricen considerando los planes, programas y acciones del estado y municipios atendiendo los principios de transparencia y eficiencia, e incorporando mecanismos de control accesibles a los productores;
 
 X. La participación, consenso y compromisos de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas;
 
-XI. Posicionar los productos pesqueros y acuícola (sic) estatales en los mercados de alto valor, garantizando la eficiencia y sanidad a lo largo de la cadena productiva;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XI. Posicionar los productos pesqueros y acuícolas estatales en los mercados de alto valor, garantizando la eficiencia y sanidad a lo largo de la cadena productiva;
 
 XII. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distribución y comercialización de productos pesqueros y acuícolas;
 
@@ -439,7 +465,9 @@ XIII. El sector pesquero (sic) acuícola se desarrollará desde una perspectiva 
 
 XIV. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
 
-XV. El impulso del estado equilibrado y equitativo, que priorice el desarrollo de las comunidades pesqueras; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XV. El impulso del estado equilibrado y equitativo, que priorice el desarrollo de las comunidades pesqueras; incrementando la rentabilidad de los pequeños pescadores y acuicultores, en apego a las políticas del Gobierno Federal, la CONAPESCA.
 
 XVI. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura.
 
@@ -447,9 +475,27 @@ XVI. Financiamiento para el desarrollo e innovación tecnológica y científica,
 
 XVII. Promover y favorecer el bienestar social y económico de los pescadores y de sus familias.
 
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XVIII. Proporcionar a las comunidades de pequeños pescadores apoyo técnico para organizar, mantener, intercambiar y mejorar los conocimientos tradicionales.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XIX. Promover el desarrollo sostenible de las actividades pesqueras y acuícolas a través del Aprovechamiento Sustentable y la conservación de las pesquerías de interés comercial, en beneficio del sector productivo.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XX. Implementar en coordinación con la CONAPESCA, una política pesquera y acuícola de cooperación internacional proactiva que incrementen las capacidades financieras, técnicas, tecnológicas y de adiestramiento, para el desarrollo pesquero y acuícola.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+XXI. Acompañamiento para los pescadores y acuacultores del sector rural, para que dentro de sus actividades de gestión y productivas tengan apoyo técnico, científico y de innovación que les permita tener una mayor productividad de manera eficiente y con ello asegurar beneficios tanto en producción como en utilidades e ingresos.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 18.
 
-Los municipios, en el ámbito de sus respectivas competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.
+Los municipios, las comunidades indígenas y afromexicanas en el ámbito de sus respectivas competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.
 
 ###### Artículo 19.
 
@@ -493,27 +539,19 @@ XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca
 
 XV. El bienestar social y económico de los pescadores y de sus familias.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 21.
 
-Para las acciones de inspección y vigilancia, la SEPESCA, con la participación que corresponda a la Federación, establecerá mecanismos de coordinación con otras dependencias de la administración pública estatal en materia de seguridad pública y procuración de justicia, a efecto de realizar dichas acciones, mismas que tendrán como función primordial la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas y delitos relacionados con la actividad.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE FEBRERO DE 2013)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE FEBRERO DE 2013)</small>
+Para las acciones de inspección y vigilancia, la Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA, con la participación que corresponda a la Federación, establecerá mecanismos de coordinación con otras dependencias de la administración pública estatal en materia de seguridad pública y procuración de justicia, a efecto de realizar dichas acciones, mismas que tendrán como función primordial la salvaguarda de los recursos pesqueros y acuícolas, así como la prevención de infracciones administrativas y delitos relacionados con la actividad.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE PESCA Y ACUACULTURA
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 22.
 
-A efecto de proponer programas de carácter estatal, regional y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, el Estado, a través de la SEPESCA, integrará el Consejo Estatal de Pesca y Acuacultura.
-
-Este Consejo, será el foro intersectorial de apoyo, coordinación, consulta, concertación y asesoría que será convocado cuando menos dos veces al año, que tendrá como objeto proponer políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos. Su funcionamiento se determinará en el reglamento de esta Ley.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE FEBRERO DE 2013)</small>
-
-De conformidad con lo dispuesto en el artículo 22 de la LGPAS, será a través del Consejo, el mecanismo mediante el cual el Estado tendrá participación en el Comité Mixto del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, así como del Fondo de Garantía Estatal para el Desarrollo Pesquero y Acuícola que establece la presente Ley.
+A efecto de proponer programas de carácter estatal, regional y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, el Estado, a través de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, integrará el Consejo Estatal de Pesca y Acuacultura.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2013)</small>
 
@@ -535,27 +573,37 @@ VI. Un vocal representante por cada uno de los Consejos Municipales, y
 
 VII. Previo acuerdo del Consejo, podrán integrarse como invitados, las personas, comités de sistemas producto o instituciones vinculadas con la materia, quienes tendrán derecho a voz, pero no a voto.
 
-El Titular de la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura, fungirá como Presidente Suplente del Consejo.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
+La o el Titular de la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, fungirá como Presidente Suplente del Consejo.
 
 Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, teniendo las mismas facultades y derechos. Los miembros propietarios y suplentes, desempeñarán su encargo a título honorífico.
 
 El quórum legal para sesionar será con la asistencia del setenta y cinco por ciento de sus integrantes, y tomarán las decisiones por mayoría de votos de los presentes; en caso de empate, quien presidirá la sesión, tendrá el voto de calidad. La mecánica y demás aspectos relativos a su operación, se establecerán en el Reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 23.
 
-La SEPESCA promoverá la integración del Consejo Estatal de Pesca y Acuacultura que, como órgano colegiado local, podrá emitir opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas en trámite, previamente a que sean resueltas por la autoridad competente, en los términos de lo que establece la LGPAS.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA, promoverán la integración del Consejo Estatal de Pesca y Acuacultura que, como órgano colegiado local, podrá emitir opiniones y observaciones técnicas respecto de las solicitudes de aprovechamiento de recursos pesqueros y acuícolas en trámite, previamente a que sean resueltas por la autoridad competente, en los términos de lo que establece la LGPAS.
 
 ## TÍTULO CUARTO. DEL FOMENTO A LA PESCA Y A LA ACUACULTURA
 
 ### CAPÍTULO I. DEL FOMENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 24.
 
-La SEPESCA, en coordinación con los ayuntamientos y el Gobierno Federal, a través de sus instancias competentes, realizarán las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA, en coordinación con los ayuntamientos y el Gobierno Federal, a través de sus instancias competentes, realizarán las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
-I. Establecerá convenios con las instituciones públicas y privadas para que brinden servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a los pescadores, acuacultores, y organizaciones de productores que se dediquen a las actividades de pesca y acuacultura;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
 
-II. Asesorará a los acuacultores para que el cultivo y explotación de la flora y la fauna acuática, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas aconsejen; así como en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivo y demás bienes que requiera el desarrollo de la actividad acuícola;
+I. Establecerá convenios con las instituciones públicas y privadas para que brinden servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a los pescadores, acuicultores y organizaciones de productores que se dediquen a las actividades de pesca y acuacultura;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+II. Asesorará a los acuicultores para que el cultivo y explotación de la flora y la fauna acuática, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas aconsejen; así como en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivo y demás bienes que requiera el desarrollo de la actividad acuícola;
 
 III. Fomentará, promoverá y realizará acciones tendientes a:
 
@@ -575,7 +623,9 @@ g) La organización económica de los productores y demás agentes relacionados 
 
 h) La realización de obras de rehabilitación ambiental en sistemas lagunarios costeros;
 
-i) La aplicación de estímulos fiscales, económicos y de apoyo financiero necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura, así como para las actividades de procesos de transformación e industrialización de productos pesqueros y acuícolas. Para estos efectos, la SEPESCA se coordinará con las dependencias federales y municipales, además de observar y aplicar lo dispuesto en la Ley de Energía para el Campo;
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
+i) La aplicación de estímulos fiscales, económicos y de apoyo financiero necesarios para el desarrollo productivo y competitivo de la pesca y la acuacultura, así como para las actividades de procesos de transformación e industrialización de productos pesqueros y acuícolas. Para estos efectos, la Secretaría de Fomento Agroalimentario y Desarrollo Rural a través de la DPA se coordinará con las dependencias federales y municipales, además de observar y aplicar lo dispuesto en la Ley de Energía para el Campo;
 
 j) Fortalecer acciones para la formación de capital humano que se vincule con organizaciones de productores que participan en las cadenas productivas acuícolas y pesqueras; y
 
@@ -593,13 +643,17 @@ m) Establecer e implementar mecanismos complementarios de apoyo y programas que 
 
 n) El autoconsumo interno y la producción local de pesca y acuacultura; así como, campañas que promuevan la importancia de los productos acuícolas y pesqueros en la alimentación.
 
-IV. La SEPESCA implementará políticas de apoyo para la producción de especies acuícolas a los productores y acuacultores del sector social pesquero de la Entidad; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+IV. La Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA implementará políticas de apoyo para la producción de especies acuícolas a los productores y acuicultores del sector social pesquero de la Entidad; y
 
 V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 25.
 
-En materia de pesca deportivo-recreativa, la SEPESCA, en coordinación con las dependencias competentes, los sectores interesados y, en su caso, con los municipios, fomentará la práctica y el desarrollo de esta actividad, para lo cual:
+En materia de pesca deportivo-recreativa, la Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA, en coordinación con las dependencias competentes, los sectores interesados y, en su caso, con los municipios, fomentará la práctica y el desarrollo de esta actividad, para lo cual:
 
 I. Previo convenio con la Federación, podrá administrar los permisos para la realización de la pesca deportivo-recreativa;
 
@@ -619,11 +673,11 @@ VIII. Las demás que señale la LGPAS y otros ordenamientos de la materia.
 
 ### CAPÍTULO II. DEL FONDO DE GARANTÍA ESTATAL PARA EL DESARROLLO PESQUERO Y ACUÍCOLA
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 26.
 
-El Fondo de Garantía Estatal para el Desarrollo Pesquero y Acuícola, FOGAPE, será el instrumento para promover la operación de esquemas de financiamiento para organizaciones de productores, pescadores y acuacultores de la Entidad, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva, desarrollando mecanismos adecuados que apoyen la creación de fondos de garantía, pudiendo realizarlo a través del Fondo para el Fomento Estatal de las Actividades Productivas de Oaxaca (FIDEAPO).
+El Fondo de Garantía Estatal para el Desarrollo Pesquero y Acuícola, FOGAPE, será el instrumento para promover la operación de esquemas de financiamiento para organizaciones de productores, pescadores y acuicultores de la Entidad, facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva, desarrollando mecanismos adecuados que apoyen la creación de fondos de garantía, pudiendo realizarlo a través del Fondo para el Fomento Estatal de las Actividades Productivas de Oaxaca (FIDEAPO).
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
 
@@ -635,9 +689,11 @@ El Fondo de Garantía Estatal para el Desarrollo Pesquero y Acuícola, estará i
 
 ### CAPÍTULO I. DE LA COORDINACIÓN GENERAL DE INVESTIGACIÓN EN PESCA Y ACUACULTURA
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 28.
 
-La Coordinación General de Investigación en Pesca y Acuacultura, será el área administrativa de la SEPESCA encargada de coordinar y orientar la investigación científica y tecnológica en esta materia, a través de los centros de investigación, universidades, colegios, escuelas e instituciones académicas relacionadas con las ciencias pesqueras y acuícolas, que deseen incorporarse y participar en la Red Estatal de Investigación Pesquera y Acuícola.
+La Coordinación General de Investigación en Pesca y Acuacultura, será el área administrativa de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, encargada de coordinar y orientar la investigación científica y tecnológica en esta materia, a través de los centros de investigación, universidades, colegios, escuelas e instituciones académicas relacionadas con las ciencias pesqueras y acuícolas, que deseen incorporarse y participar en la Red Estatal de Investigación Pesquera y Acuícola.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2013) (REPUBLICADO, P.O. 12 DE FEBRERO DE 2013)
 
@@ -647,7 +703,9 @@ El Coordinador será nombrado por el titular del Poder Ejecutivo y tendrá, entr
 
 I. Convocar, integrar y coordinar a la Red Estatal de Investigación Pesquera y Acuícola;
 
-II. Coordinar la celebración de convenios de colaboración entre la SEPESCA y los centros de investigación, universidades, colegios, escuelas e instituciones académicas relacionadas en ciencias pesqueras y acuícolas, que deseen incorporarse dentro de la Red Estatal.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+II. Coordinar la celebración de convenios de colaboración entre la Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o de la DPA y los centros de investigación, universidades, colegios, escuelas e instituciones académicas relacionadas en ciencias pesqueras y acuícolas, que deseen incorporarse dentro de la Red Estatal.
 
 ###### Artículo 30.
 
@@ -655,7 +713,9 @@ La Red Estatal tendrá, entre otras facultades que señale el reglamento respect
 
 I. Contribuir al desarrollo técnico-científico de la pesca y la acuacultura en las regiones de la Entidad;
 
-II. Emitir opiniones técnicas a la SEPESCA, en materia de proyectos y programas pesqueros y acuícolas;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+II. Emitir opiniones técnicas a la Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o a la DPA, en materia de proyectos y programas pesqueros y acuícolas;
 
 III. Emitir opiniones de carácter técnico-científico para la administración y conservación de los recursos pesqueros y acuícolas;
 
@@ -671,13 +731,13 @@ Las demás disposiciones relativas a la CGIPA y a la Red Estatal de Investigaci�
 
 ### CAPÍTULO II. DE LA CARTA ESTATAL PESQUERA
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 31.
 
-La Carta Estatal Pesquera es la presentación cartográfica y escrita que contiene el resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera en el Estado; así como los indicadores sobre la disponibilidad y conservación de los recursos pesqueros en la Entidad. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones por parte de las autoridades de la SEPESCA, en la adopción e implementación de instrumentos y medidas para el sector.
+La Carta Estatal Pesquera es la presentación cartográfica y escrita que contiene el resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera en el Estado; así como los indicadores sobre la disponibilidad y conservación de los recursos pesqueros en la Entidad. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones por parte de las autoridades de la Secretaría de Fomento Agroalimentario y Desarrollo Rural y de la DPA, en la adopción e implementación de instrumentos y medidas para el sector.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
-
-La elaboración y actualización de la Carta Estatal Pesquera estará a cargo de la CGIPA, con la participación que le corresponda a las demás unidades administrativas de la SEPESCA, y deberá publicarse anualmente o cuando sea necesario, por determinación de la CGIPA, en el Periódico Oficial del Gobierno del Estado.
+La elaboración y actualización de la Carta Estatal Pesquera estará a cargo de la CGIPA, con la participación que le corresponda a las demás unidades administrativas de la Secretaría de Fomento Agroalimentario y Desarrollo Rural o la DPA y deberá publicarse anualmente o cuando sea necesario, por determinación de la CGIPA en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 32.
 
@@ -693,9 +753,11 @@ IV. Las normas aplicables en materia de preservación, protección, aprovechamie
 
 V. La demás información que se determine en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 33.
 
-Previo a la publicación de la Carta Estatal Pesquera y sus actualizaciones, la SEPESCA podrá solicitar la opinión de las dependencias de la administración pública estatal que deban intervenir, de conformidad con sus atribuciones, para que emitan las observaciones que consideren pertinentes.
+Previo a la publicación de la Carta Estatal Pesquera y sus actualizaciones, la Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA podrá solicitar la opinión de las dependencias de la administración pública estatal que deban intervenir, de conformidad con sus atribuciones, para que emitan las observaciones que consideren pertinentes.
 
 ## TÍTULO SEXTO. INSTRUMENTOS DE LA POLÍTICA PESQUERA
 
@@ -727,9 +789,11 @@ III. Los recursos pesqueros sujetos a (sic) aprovechamiento; y
 
 IV. Los planes de manejo pesquero, sancionados y publicados.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 36.
 
-La SEPESCA apoyará la creación de mecanismos de control de los propios productores, apoyados en el conocimiento tradicional de sistemas de manejo, donde existan, y promoverá la formación de grupos comunitarios que coadyuven a la administración y protección de dichos recursos sobre la base de los principios establecidos en la LGPAS.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural y/o la DPA, apoyará la creación de mecanismos de control de los propios productores, apoyados en el conocimiento tradicional de sistemas de manejo, donde existan, y promoverá la formación de grupos comunitarios que coadyuven a la administración y protección de dichos recursos sobre la base de los principios establecidos en la LGPAS.
 
 ### CAPÍTULO III. PLANES DE MANEJO
 
@@ -753,23 +817,29 @@ VII. Las artes y métodos de pesca autorizados.
 
 ### CAPÍTULO IV. DE LAS CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 38.
 
-El Estado, a través de la SEPESCA, podrá suscribir con la Federación los convenios o acuerdos de coordinación para la administración de los permisos de pesca deportivo-recreativa, conforme a las disposiciones previstas en esta Ley y en la LGPAS.
+El Estado, a través de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, podrá suscribir con la Federación los convenios o acuerdos de coordinación para la administración de los permisos de pesca deportivo-recreativa, conforme a las disposiciones previstas en esta Ley y en la LGPAS.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 39.
 
-La SEPESCA implementará los mecanismos y las políticas necesarias para asesorar en la gestión y trámite de los permisos y concesiones a personas, organizaciones o grupos que estén interesados en el ejercicio de las actividades de pesca y acuacultura.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, implementará los mecanismos y las políticas necesarias para asesorar en la gestión y trámite de los permisos y concesiones a personas, organizaciones o grupos que estén interesados en el ejercicio de las actividades de pesca y acuacultura.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 40.
 
-La SEPESCA promoverá ante la SAGARPA/CONAPESCA que las decisiones respecto del otorgamiento de permisos y concesiones se basen en criterios de equidad social y en la información científica disponible del recurso pesquero, así mismo impulsará que éstas se otorguen preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, promoverá ante la SADER/CONAPESCA que las decisiones respecto del otorgamiento de permisos y concesiones se basen en criterios de equidad social y en la información científica disponible del recurso pesquero, así mismo impulsará que éstas se otorguen preferentemente a los habitantes de las comunidades locales, siempre y cuando utilicen artes de pesca autorizadas.
 
-En igualdad de circunstancias, la SEPESCA impulsará ante la SAGARPA/CONAPESCA que tengan preferencia las solicitudes de las comunidades indígenas. Cuando la concesión o permiso pueda afectar el hábitat de alguna comunidad indígena, para lo cual se deberá recabar el parecer de los representantes de dicha comunidad.
+En igualdad de circunstancias, la Secretaría de Fomento Agroalimentario y Desarrollo Rural, impulsará ante la SADER/CONAPESCA que tengan preferencia las solicitudes de las comunidades indígenas. Cuando la concesión o permiso pueda afectar el hábitat de alguna comunidad indígena, para lo cual se deberá recabar el parecer de los representantes de dicha comunidad.
 
-Con el fin de apoyar las actividades productivas de las comunidades indígenas, la SEPESCA promoverá ante la instancia federal correspondiente, programas que favorezcan su desarrollo sustentable, además de que le sean dotados estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
+Con el fin de apoyar las actividades productivas de las comunidades indígenas, la Secretaría de Fomento Agroalimentario y Desarrollo Rural, promoverá ante la instancia federal correspondiente, programas que favorezcan su desarrollo sustentable, además de que le sean dotados estímulos, recursos y tecnologías para que incrementen sus capacidades productivas.
 
-La SEPESCA promoverá ante la instancia federal normativa, los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones o permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos indígenas, o bien, para asegurar que les sea interpretado su contenido.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, promoverá ante la instancia federal normativa, los procedimientos y mecanismos necesarios, para que los títulos o documentos en los que consten las concesiones o permisos, sean traducidos a las lenguas de los concesionarios o permisionarios pertenecientes a los pueblos indígenas, o bien, para asegurar que les sea interpretado su contenido.
 
 ## TÍTULO SÉPTIMO. DE LA PESCA
 
@@ -779,9 +849,11 @@ La SEPESCA promoverá ante la instancia federal normativa, los procedimientos y 
 
 En el caso de los permisos de pesca deportivo-recreativa, sus titulares permisionarios están obligados a comprobar ante las autoridades correspondientes que las capturas realizadas se efectuaron de conformidad a lo autorizado en los mismos.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 42.
 
-Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la SAGARPA/CONAPESCA, conforme a las disposiciones que para tal efecto se emitan.
+Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la SADER/CONAPESCA, conforme a las disposiciones que para tal efecto se emitan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -817,7 +889,7 @@ Para el ejercicio de estas atribuciones, se estará a lo dispuesto en el reglame
 
 ### CAPÍTULO III. DE LA PESCA ARTESANAL
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 44 Bis.
 
@@ -825,13 +897,19 @@ En el Estado de Oaxaca se declara de interés público y social, la investigaci�
 
 Por lo que el Estado y los Municipios adquieren la obligación de respetar, reconocer y atender de manera prioritaria a la pesca artesanal que realicen los pueblos y comunidades indígenas y afromexicanas, como actores económicos productivos, frente a otros modelos de desarrollo productivo. Asimismo, deberán proteger, conservar y difundir los conocimientos y prácticas utilizados en la pesca artesanal.
 
-El Estado de Oaxaca garantizará que los pescadores artesanales, participen en los procesos de toma de decisiones pertinentes y los órganos que establece esta Ley; así mismo deberán consultar sobre los proyectos o acciones que pudieran afectarlos.
+Asimismo, deberán proteger, conservar y difundir los conocimientos de los pequeños pescadores y trabajadores del pescado, incluidos los pueblos indígenas y Afromexicanos para restablecer, conservar, proteger y llevar a cabo una gestión conjunta de los ecosistemas acuáticos y costeros locales.
+
+El Estado de Oaxaca garantizará que los pescadores artesanales, participen en los procesos de toma de decisiones para la gestión de los recursos pesqueros de los que dependen y los órganos que establece esta Ley; así mismo deberán consultar sobre los proyectos o acciones que pudieran afectarlos.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 44 Ter.
 
 El Gobierno del Estado y sus Ayuntamientos establecerán políticas y programas preferenciales en favor de la pesca artesanal, tomando en consideración la vulnerabilidad; la situación de pobreza, discriminación y exclusión prevalecientes en las comunidades indígenas y afromexicanas; la falta de seguridad alimentaria y nutricional; con el objeto de crear mayores oportunidades, mejores condiciones de acceso, garantías especiales que contribuyan a la equidad social, al desarrollo sostenible y a la justicia social
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2025)</small>
+
+El Estado deberá proporcionar a las comunidades de pequeños pescadores, pueblos indígenas y afromexicanos, apoyo técnico para organizar, mantener, intercambiar y mejorar los conocimientos tradicionales sobre los peces y las técnicas pesqueras, al mismo tiempo que se actualiza el conocimiento relativo a los ecosistemas acuáticos.
 
 Asimismo, deberán de analizar y, en su caso, prevenir los impactos negativos de adoptar políticas y medidas que contribuyan a la sobrecapacidad pesquera y, por consiguiente, a la sobreexplotación de los recursos pesqueros con resultados adversos en las y los pescadores artesanales.
 
@@ -883,9 +961,11 @@ IV. Impulsar la repoblación de crías para revertir los efectos de sobreexplota
 
 V. Fomentar y promover la diversidad de los productos acuícolas; y
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 48.
 
-La SEPESCA coadyuvará al crecimiento ordenado de la acuacultura, atendiendo principalmente las áreas o zonas con potencial para desarrollar esta actividad.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, coadyuvará al crecimiento ordenado de la acuacultura, atendiendo principalmente las áreas o zonas con potencial para desarrollar esta actividad.
 
 ###### Artículo 49.
 
@@ -903,19 +983,21 @@ III. Los programas de desarrollo de acuacultura derivados de los señalados en l
 
 El Estado, en coordinación con la Federación, en los términos de la legislación en la materia, podrá convenir acciones que propicien el ordenamiento territorial de los desarrollos acuícolas ubicados en aguas continentales del territorio estatal.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 51.
 
-Para regular e inducir las actividades de acuacultura llevadas a cabo en una región de la Entidad, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio natural, el Estado, a través de la SEPESCA, podrá establecer planes de acuacultura, como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
+Para regular e inducir las actividades de acuacultura llevadas a cabo en una región de la Entidad, con el propósito de garantizar la productividad, la funcionalidad y sustentabilidad del medio natural, el Estado, a través de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, podrá establecer planes de acuacultura, como instrumentos de planeación, conforme a las disposiciones de la presente Ley.
 
 ### CAPÍTULO II. DE LA CARTA ESTATAL ACUÍCOLA
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 52.
 
-La Carta Estatal Acuícola es la presentación cartográfica y escrita de los indicadores de la actividad acuícola estatal, de las especies destinadas a la acuacultura, del desarrollo de la biotecnología y de las zonas por su vocación de cultivo. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones por parte de las autoridades de la SE PESCA, en la adopción e implementación de instrumentos y medidas para el sector.
+La Carta Estatal Acuícola es la presentación cartográfica y escrita de los indicadores de la actividad acuícola estatal, de las especies destinadas a la acuacultura, del desarrollo de la biotecnología y de las zonas por su vocación de cultivo. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones por parte de las autoridades de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, en la adopción e implementación de instrumentos y medidas para el sector.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
-
-La elaboración y actualización de la Carta Estatal Acuícola estará a cargo de la CGIPA con la participación que le corresponda a las demás unidades administrativas de la SEPESCA, y deberá publicarse anualmente o cuando sea necesario, por determinación de la CGIPA, en el Periódico Oficial del Gobierno del Estado.
+La elaboración y actualización de la Carta Estatal Acuícola estará a cargo de la CGIPA, con la participación que le corresponda a las demás unidades administrativas de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, y deberá publicarse anualmente o cuando sea necesario, por determinación de la CGIPA, en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 53.
 
@@ -953,7 +1035,9 @@ III. Las características geográficas de la zona o región;
 
 IV. Las obras de infraestructura existentes y aquéllas que se planeen, desarrollar y su programa de administración;
 
-V. La forma de organización y administración de la unidad de manejo, así como los mecanismos de participación de los acuacultores asentados en la misma;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+V. La forma de organización y administración de la unidad de manejo, así como los mecanismos de participación de los acuicultores asentados en la misma;
 
 VI. La descripción de las características físicas y biológicas de la unidad de manejo acuícola;
 
@@ -965,9 +1049,11 @@ IX. Acciones de crecimiento y tecnificación; y
 
 X. El programa de prevención y control de contingencias, de monitoreo y las demás que por las características propias de la unidad de manejo acuícola se requieran.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 56.
 
-Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuacultores. La SEPESCA promoverá que se hagan dictámenes donde conste el adecuado cumplimiento de la legislación en la materia, de los planes de manejo y, en su caso, podrá hacer las recomendaciones sobre las medidas preventivas y correctivas necesarias, para garantizar una actividad sustentable.
+Las auditorías técnicas preventivas tendrán la finalidad de determinar el grado de cumplimiento de la normatividad y de los planes de manejo respectivos por parte de los acuicultores. La Secretaría de Fomento Agroalimentario y Desarrollo Rural, promoverá que se hagan dictámenes donde conste el adecuado cumplimiento de la legislación en la materia, de los planes de manejo y, en su caso, podrá hacer las recomendaciones sobre las medidas preventivas y correctivas necesarias, para garantizar una actividad sustentable.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2013)</small>
 
@@ -987,15 +1073,19 @@ En lo relativo a las concesiones y permisos para las diferentes modalidades de l
 
 ### CAPÍTULO I. DE LA SANIDAD DE ESPECIES ACUÍCOLAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 59.
 
-La SEPESCA, en coordinación con el Comité de Sanidad Acuícola, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas en los términos de los acuerdos y convenios que se celebren con las instancias de la SAGARPA/CONAPESCA y del SENASICA, de conformidad con esta Ley, la LGPAS y demás disposiciones que resulten aplicables.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, en coordinación con el Comité de Sanidad Acuícola, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas en los términos de los acuerdos y convenios que se celebren con las instancias de la SADER/CONAPESCA y del SENASICA, de conformidad con esta Ley, la LGPAS y demás disposiciones que resulten aplicables.
 
 Los Comités de Sanidad Acuícola serán órganos auxiliares para que el SENASICA lleve a cabo la prevención, diagnóstico y control de enfermedades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 60.
 
-La SEPESCA se coordinará con las instancias de la SAGARPA/CONAPESCA, con el objeto de:
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, se coordinará con las instancias de la SADER/CONAPESCA, con el objeto de:
 
 I. Organizar, apoyar y .supervisar el funcionamiento de los organismos auxiliares;
 
@@ -1007,9 +1097,11 @@ IV. Realizar acciones de saneamiento acuícola.
 
 ### CAPÍTULO II. DE LAS MEDIDAS SANITARIAS
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 61.
 
-Para la coordinación y aplicación de las medidas sanitarias, la SEPESCA atenderá a la declaratoria emitida y publicada en el Diario Oficial de la Federación por la autoridad federal competente respecto del estatus sanitario que corresponda, como zona libre, zona en vigilancia, zona de escasa prevalencia o zona infectada con relación a las especies acuáticas de la Entidad, conforme a lo establecido en la LGPAS.
+Para la coordinación y aplicación de las medidas sanitarias, la Secretaría de Fomento Agroalimentario y Desarrollo Rural, atenderá a la declaratoria emitida y publicada en el Diario Oficial de la Federación por la autoridad federal competente respecto del estatus sanitario que corresponda, como zona libre, zona en vigilancia, zona de escasa prevalencia o zona infectada con relación a las especies acuáticas de la Entidad, conforme a lo establecido en la LGPAS.
 
 ###### Artículo 62.
 
@@ -1019,11 +1111,11 @@ El Estado, los municipios, órganos de asistencia y particulares interesados pod
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL DE INFORMACIÓN PESQUERA Y ACUÍCOLA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 63.
 
-La SEPESCA integrará y operará el Sistema Estatal de Información Pesquera y Acuícola, a través de las UAPAS, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas que se desarrollen dentro del territorio del Estado. El Sistema se integrará con la información siguiente:
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, integrará y operará el Sistema Estatal de Información Pesquera y Acuícola, a través de las UAPAS, que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas que se desarrollen dentro del territorio del Estado. El Sistema se integrará con la información siguiente:
 
 I. La Carta Estatal Pesquera;
 
@@ -1031,13 +1123,13 @@ II. La Carta Estatal Acuícola;
 
 III. El Registro Estatal de Pesca y Acuacultura;
 
-III (SIC). El Informe de la situación de la pesca y la acuacultura en el Estado de Oaxaca, así como los indicadores de su desarrollo;
+IV. El Informe de la situación de la pesca y la acuacultura en el Estado de Oaxaca, así como los indicadores de su desarrollo;
 
-IV. Los convenios y acuerdos suscritos en materia de pesca y acuacultura; y
+V. Los convenios y acuerdos suscritos en materia de pesca y acuacultura; y
 
-V. El anuario estadístico de pesca y acuacultura.
+VI. El anuario estadístico de pesca y acuacultura.
 
-De conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, la información mencionada en el presente artículo deberá ser publicada en la página electrónica de la SEPESCA, así como en los medios impresos a su alcance.
+De conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, la información mencionada en el presente artículo deberá ser publicada en la página electrónica de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, así como en los medios impresos a su alcance.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2013)</small>
 
@@ -1045,15 +1137,19 @@ De conformidad con lo establecido en la Ley de Transparencia y Acceso a la Infor
 
 Las comunidades pesqueras y acuícolas de los municipios, proporcionarán la información a su Unidad de Administración Pesquera y Acuícola que corresponda, para actualizar la Carta Estatal Pesquera y la Carta Estatal Acuícola, así como para integrar la estadística local al Sistema Estatal de Información Pesquera y Acuícola, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 64.
 
-Todos los titulares de concesiones o permisos deberán, en los términos de la presente Ley y de la LGPAS, presentar los informes acerca de los datos estadísticos requeridos por la SEPESCA para el cumplimiento de sus fines y objetivos.
+Todos los titulares de concesiones o permisos deberán, en los términos de la presente Ley y de la LGPAS, presentar los informes acerca de los datos estadísticos requeridos por la Secretaría de Fomento Agroalimentario y Desarrollo Rural, para el cumplimiento de sus fines y objetivos.
 
 ### CAPÍTULO II. DEL REGISTRO ESTATAL DE PESCA Y ACUACULTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 65.
 
-El Registro Estatal de Pesca y Acuacultura estará a cargo de la SEPESCA, que tendrá carácter público, y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
+El Registro Estatal de Pesca y Acuacultura estará a cargo de la Secretaría de Fomento Agroalimentario y Desarrollo Rural, que tendrá carácter público, y tiene por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
 
 I. Las personas físicas o morales que se dediquen a la pesca y la acuacultura, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico;
 
@@ -1067,33 +1163,37 @@ V. Las personas físicas o morales que cuenten con certificados de sanidad, inoc
 
 VI. Las escuelas pesqueras y los centros dedicados a la investigación o enseñanza en materia de flora y fauna acuáticas aprovechables para la pesca y acuacultura.
 
-La SEPESCA podrá solicitar a la SAGARPA/CONAPESCA, la expedición del certificado de registro correspondiente.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, podrá solicitar a la SADER/CONAPESCA, la expedición del certificado de registro correspondiente.
 
 La organización y funcionamiento del Registro se determinará en las disposiciones reglamentarias de la presente Ley.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 66.
 
-La SEPESCA integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, ofertas y demanda de los productos acuícolas.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, ofertas y demanda de los productos acuícolas.
 
 ## TÍTULO DÉCIMO TERCERO. INSPECCIÓN Y VIGILANCIA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 67.
 
-La SEPESCA formulará y ejercerá la política local de inspección y vigilancia pesquera y acuícola en el marco de los convenios que se celebren con la Federación y con la participación que corresponda a otras dependencias de la administración pública estatal y federal.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, formulará y ejercerá la política local de inspección y vigilancia pesquera y acuícola en el marco de los convenios que se celebren con la Federación y con la participación que corresponda a otras dependencias de la administración pública estatal y federal.
 
-(ADICIONADO, P.O. 29 DE ENERO DE 2013) (REPUBLICADO, P.O. 12 DE FEBRERO DE 2013)
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, en coordinación con la dependencia federal competente y con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas, gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal.
 
-La SEPESCA, en coordinación con la dependencia federal competente, y con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas, gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el programa y promoverá la participación de las demás dependencias y entidades de la administración pública estatal y de los ayuntamientos en términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
-(ADICIONADO, P.O. 29 DE ENERO DE 2013) (REPUBLICADO, P.O. 12 DE FEBRERO DE 2013)
-
-La SEPESCA dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el programa y promoverá la participación de las demás dependencias y entidades de la administración pública estatal y de los ayuntamientos en términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2025)</small>
 
 ###### Artículo 68.
 
-La SEPESCA, en apego al convenio que celebre con la Federación, formulará el Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, e instrumentará las acciones pertinentes de prevención y combate a la pesca ilegal.
+La Secretaría de Fomento Agroalimentario y Desarrollo Rural, en apego al convenio que celebre con la Federación, formulará el Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, e instrumentará las acciones pertinentes de prevención y combate a la pesca ilegal.
 
 ###### Artículo 69.
 
@@ -1111,15 +1211,19 @@ I. No cumplir con la obligación de inscripción y actualización en el Registro
 
 II. Falsificar o alterar los documentos que acreditan su inscripción en el Registro- Estatal de Pesca y Acuacultura;
 
-III. Proporcionar información falsa o alterada a la SEPESCA, cuando exista la obligación para ello, en los términos del reglamento respectivo; y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2025)</small>
+
+III. Proporcionar información falsa o alterada a la Secretaría de Fomento Agroalimentario y Desarrollo Rural, cuando exista la obligación para ello, en los términos del reglamento respectivo; y
 
 IV. Cualquier otra contravención a lo dispuesto en la presente Ley y su reglamento.
 
 ### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 71.
 
-Las infracciones a los preceptos de esta Ley, su reglamento y demás disposiciones administrativas que de ella deriven, señaladas en el artículo anterior, serán sancionados (sic)administrativamente por la SEPESCA con las siguientes sanciones:
+Las infracciones a los preceptos de esta Ley, su reglamento y demás disposiciones administrativas que de ella deriven, señaladas en el artículo anterior, serán sancionados (sic) administrativamente por la Secretaría de Fomento Agroalimentario y Desarrollo Rural, con las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
@@ -1127,9 +1231,11 @@ II. Imposición de multa; y
 
 III. Cancelación del Registro Estatal de Pesca y Acuacultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2025)</small>
+
 ###### Artículo 72.
 
-Para la imposición de las sanciones por infracciones a esta Ley, la SEPESCA tomará en cuenta:
+Para la imposición de las sanciones por infracciones a esta Ley, la Secretaría de Fomento Agroalimentario y Desarrollo Rural, tomará en cuenta:
 
 I. La gravedad de la infracción;
 
@@ -1296,3 +1402,13 @@ P.O. 15 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 616.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 3, LAS FRACCIONES XLI Y XLIV DEL ARTÍCULO 5, EL ARTÍCULO 8, EL PRIMER PÁRRAFO Y LAS FRACCIONES VII Y XXXI DEL ARTÍCULO 9, EL PRIMER PÁRRAFO DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 11, EL ARTÍCULO 14, LAS FRACCIONES VI, VIII, XI Y XV DEL ARTÍCULO 17, LOS ARTÍCULOS 18, 21 Y 22, EL TERCER PÁRRAFO DEL ARTÍCULO 22 BIS, EL ARTÍCULO 23, EL PÁRRAFO PRIMERO, LAS FRACCIONES I Y II, EL INCISO i) DE LA FRACCIÓN III Y LA FRACCIÓN IV DEL ARTÍCULO 24, EL PRIMER PÁRRAFO DEL ARTÍCULO 25, LOS ARTÍCULOS 26 Y 28, LA FRACCIÓN II DEL ARTÍCULO 29, LA FRACCIÓN II DEL ARTÍCULO 30, LOS ARTÍCULOS 31, 33, 36, 38, 39, 40, 42, 44 BIS, 48, 51 Y 52, LA FRACCIÓN V DEL ARTÍCULO 55, EL ARTÍCULO 56, EL PRIMER PÁRRAFO DEL ARTÍCULO 59, EL PRIMER PÁRRAFO DEL ARTÍCULO 60, LOS ARTÍCULOS 61, 63 Y 64, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 65, LOS ARTÍCULOS 66, 67 Y 68, LA FRACCIÓN III DEL ARTÍCULO 70, EL PRIMER PÁRRAFO DEL ARTÍCULO 71 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 72; SE ADICIONAN LAS FRACCIONES XVIII, XIX, XX Y XXI AL ARTÍCULO 17, Y UN SEGUNDO PÁRRAFO RECORRIENDO EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 44 TER; TODOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
