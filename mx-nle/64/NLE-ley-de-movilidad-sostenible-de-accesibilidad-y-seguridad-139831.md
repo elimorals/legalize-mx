@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2025-01-24"
+last_updated: "2025-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -829,6 +829,14 @@ CXIX. Transporte: Es el medio físico a través del cual se realiza el traslado 
 
 CXX. Transporte público de pasajeros: Es el medio de traslado que se ofrece a (sic) al público en general de forma continua, uniforme, regular, permanente e ininterrumpida, y sujeta a horarios establecidos y criterios de optimización mediante algoritmos tecnológicos que otorga la autoridad competente a través de entidades, concesionarios o mediante permisos;
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+CXX BIS. Transporte Público Intermunicipal: el servicio cuyo recorrido comprende puntos situados dentro de vialidades de dos o más municipios;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+CXX BIS. 1 (SIC) Transporte Público Municipal: el servicio cuyo recorrido comprende puntos situados dentro de los límites de un municipio;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
 
 CXXI. Transporte Regional: Servicio de Transporte Público de pasajeros fuera del área metropolitana o del área conurbada de Monterrey;
@@ -995,15 +1003,21 @@ XI. Los demás que señalen esta Ley, su Reglamento y otros ordenamientos legale
 
 En las acciones en materia de vialidad, accesibilidad, movilidad, y seguridad vial en Zonas Conurbadas o Metropolitanas, las Comisiones establecidas en los términos de la LAHOTDU, fungirán como mecanismos de coordinación entre el Estado y los Municipios.
 
-Para la aprobación de los nuevos desarrollos habitacionales, deberá contarse con la aprobación de la factibilidad del servicio de transporte público de pasajeros emitida por el Instituto, en el que se valorará el estudio de movilidad presentado por el desarrollador de acuerdo a lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2025)</small>
 
-En caso de aprobarse la factibilidad en la misma se establecerán las medidas necesarias para proporcionar un servicio de calidad a los usuarios y de acuerdo a las tarifas establecidas por el Instituto.
+La aprobación de los nuevos desarrollos habitacionales, estará supeditada a la existencia de factibilidad para el servicio de transporte público de pasajeros, la cual será emitida por el Instituto, tras evaluar el estudio de movilidad presentado por el desarrollador de acuerdo a lo antes establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado.
 
-En caso de ser negativa la factibilidad los desarrolladores podrán obligarse mediante un convenio con el Instituto, como medida de adaptación a proporcionar con cargo al desarrollador los servicios de transporte para el nuevo desarrollo hasta en tanto se determine por el Instituto que existe la demanda que justifique la prestación del servicio público en las condiciones tarifarias y de calidad establecidas para el resto de las rutas, lo anterior con base en lo que señale el Reglamento. En caso de que los traslados tengan que realizarse recorriendo tramos de jurisdicción federal en todo caso deberá justificarse el contar con las autorizaciones federales conducentes para la celebración de los convenios referidos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE ABRIL DE 2025)</small>
 
-En ningún caso podrán autorizarse desarrollos habitacionales nuevos sin contar con la factibilidad del servicio de transporte público de pasajeros, o haberse obligado mediante el convenio de medidas de adaptación a que se refiere el presente artículo.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 21 DE ABRIL DE 2025)</small>
 
-En la etapa de construcción de los desarrollos nuevos autorizados, donde no se cuente con el servicio de transporte público de pasajeros, las empresas constructoras o desarrolladoras deberán presentar un programa de traslado de personal para su aprobación por parte del Instituto, en los términos del Reglamento.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+En ningún caso podrán autorizarse nuevos desarrollos habitacionales si no existe factibilidad para el servicio de transporte público de pasajeros. Esta disposición es inapelable y no podrá sustituirse mediante convenios de medidas de adaptación.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+En la etapa de construcción de los desarrollos nuevos autorizados, las empresas constructoras o desarrolladoras deberán presentar un programa de traslados de personal para su aprobación por parte del instituto, en los términos del reglamento.
 
 ###### Artículo 11.
 
@@ -1153,11 +1167,17 @@ XV. Emitir en coordinación con el Instituto los lineamientos, manuales y criter
 
 XVI. Establecer programas de sustitución para el pago del transporte público SETME y SETRA mediante mecanismos de reciclaje de botellas de plástico, en los cuales los usuarios del transporte, puedan canjear por bonos, tarjeta, boletos u otro instrumento de cambio que determine la autoridad.
 
-Para ello la autoridad podrá realizar convenios de colaboración con las empresas legalmente establecidas dedicadas al reciclaje de productos de botellas de plástico clasificados como tales, con el objeto de establecer disposiciones dirigidas para llevar a cabo los programas y especificaciones que determine la secretaría, con atención a lo dispuesto por el párrafo segundo del artículo 17 de esta Ley; y
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2021)</small>
+Para ello la autoridad podrá realizar convenios de colaboración con las empresas legalmente establecidas dedicadas al reciclaje de productos de botellas de plástico clasificados como tales, con el objeto de establecer disposiciones dirigidas para llevar a cabo los programas y especificaciones que determine la secretaría, con atención a lo dispuesto por el párrafo segundo del artículo 17 de esta Ley;
 
-XVII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2025)</small>
+
+XVII. Implementar el uso de tecnologías avanzadas e inteligencia artificial para optimizar la estructura general del sistema de transporte público, así como el itinerario o recorrido de las rutas y sus respectivos ramales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2025)</small>
+
+XVIII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento y otros ordenamientos jurídicos aplicables en la materia siempre y cuando no contravengan esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2022)</small>
 
@@ -1335,13 +1355,17 @@ XXXIV. Realizar los operativos de control de uso de distractores durante la cond
 
 XXXV. En términos de lo establecido en el presente ordenamiento, considerará implementar auditorías e inspecciones en materia municipal, como parte de instrumentos preventivos, correctivos y evaluativos que analicen la operación de la infraestructura de movilidad e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la presente Ley, de acuerdo a los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial que emita el Sistema Nacional;
 
-> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2025)</small>
 
-XXXVI. Otorgar, previo cumplimiento de los requisitos establecidos en el reglamento y en la factibilidad del Instituto, permiso a particulares para la operación de rutas intermunicipales de transporte público y transporte de personal; y
+XXXVI. Otorgar, previo cumplimiento de los requisitos establecidos en el reglamento y en la factibilidad del Instituto, permiso a particulares para la operación de rutas municipales e intermunicipales de transporte público y transporte de personal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2025)</small>
 
-XXXVII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables en la materia.
+XXXVII. Impulsar la creación de rutas municipales e intermunicipales de transporte; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2025)</small>
+
+XXXVIII. Las demás atribuciones que le otorguen la presente Ley, su Reglamento, y otros ordenamientos jurídicos aplicables en la materia.
 
 ###### Artículo 16.
 
@@ -2037,7 +2061,15 @@ Podrán celebrarse sesiones extraordinarias cuando se considere conveniente y si
 
 Para considerar válida una sesión, deberán comparecer cuando menos la mitad más uno de los miembros integrantes del Consejo. En caso de no reunirse el quórum referido, podrá en su segunda convocatoria, celebrarse la sesión con los miembros que se encuentren presentes.
 
-Todas las sesiones del Consejo serán públicas y deberán transmitirse en vivo en el portal de internet del Consejo y del Instituto, y a través de sus redes sociales.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+Todas las sesiones y reuniones de trabajo del Consejo y sus comisiones serán públicas y deberán transmitirse en vivo en el portal de internet del Consejo y del Instituto, y a través de sus redes sociales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2025)</small>
+
+Una vez finalizadas, las transmisiones no deberán ser eliminadas, a fin de resguardar cada video para consulta directa del público.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 21 DE ABRIL DE 2025)</small>
 
 Las propuestas que emita el Consejo no serán vinculatorias, las relativas a la aplicación de tarifas, la Junta de Gobierno y el Director General del Instituto deberán aplicar en los términos de esta Ley.
 
@@ -2571,6 +2603,28 @@ II. Control y registro vehicular y revisión físico-mecánica y de emisiones; y
 
 III. Control y registro de conductores.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+###### Artículo 70 Bis 2.
+
+Son derechos de las personas operadoras de las unidades de transporte público en sus diferentes modalidades:
+
+I. Recibir reconocimientos públicos, estímulos e incentivos económicos o especie. Las autoridades estatales y municipales podrán realizar las convocatorias pertinentes;
+
+II. Recibir capacitación gratuita de las autoridades competentes que tengan atribución en las materias relacionadas con su actividad;
+
+III. Recibir, al iniciar la jornada laboral, la unidad de transporte asignada en óptimo estado físico, mecánico, eléctrico, higiene y limpieza;
+
+IV. Que la unidad asignada cuente con una póliza de seguro vigente con cobertura amplia y que le brinde asesoría y representación legal en caso de algún siniestro;
+
+V. Recibir un trato digno y respetuoso de parte de los usuarios, inspectores de movilidad o elementos tránsito y de los demás servidores públicos, así como de sus patrones prestadores de los servicios de transporte público;
+
+VI. Recibir respuesta o resolución por escrito respecto del trámite administrativo que, como operador del transporte, solicitudes a las autoridades competentes, la cual no podrá exceder el plazo de 15 días hábiles a partir de iniciado dicho trámite;
+
+VII. Recibir asesoría y representación legal de la Procuraduría de la Defensa del Trabajo; y
+
+VIII. A que no le sea retenida la licencia de conducir o tarjeta de circulación por alguna infracción cometida, salvo causa debidamente justificada conforme al Reglamento de esta ley.
+
 #### SECCIÓN PRIMERA. SETME
 
 SERVICIO DE TRANSPORTE METROPOLITANO
@@ -2748,6 +2802,12 @@ Adicionalmente el Instituto podrá implementar tecnologías que permitan el cont
 ###### Artículo 83.
 
 Los prestadores del Servicio de Taxis deberán contar con la respectiva concesión del Instituto, el cual dará certeza jurídica para que los prestadores puedan adquirir créditos automotrices y mantengan la fuente de su trabajo.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+###### Artículo 83 Bis.
+
+Los prestadores del Servicio de Taxis, que sean personas físicas, tendrán el derecho a designar libremente hasta dos beneficiarios para que, en caso de incapacidad física o mental, ausencia declarada judicialmente o por fallecimiento, puedan sustituirlo en el orden de prelación que señale ante el Instituto.
 
 ###### Artículo 84.
 
@@ -3021,6 +3081,30 @@ Se sancionará a los motociclistas que no respeten su carril de circulación, as
 
 Los Municipios establecerán sanciones en sus reglamentos a los usuarios de automóviles particulares que no respeten el contenido de este artículo y de los reglamentos municipales en lo relativo al respeto al espacio público abierto, banquetas y los carriles exclusivos de los medios de transporte no motorizados y motorizados. Dichas sanciones serán en proporción a la gravedad que representa en esta Ley no respetar la prioridad que se establece en el artículo 5 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+###### Artículo 112 Bis.
+
+Toda motocicleta, mototaxi o similar, que transite en las vías públicas del Estado se deberá encontrar en condiciones de funcionamiento mecánicas y técnicas satisfactorias y estarán provistas de los dispositivos siguientes:
+
+I. Un faro en la parte delantera con mecanismo para el cambio de luz baja a la de alta intensidad y viceversa;
+
+II. Dos espejos retrovisores laterales;
+
+III. Una lámpara indicadora de frenado de luz roja reflejante, luces direccionales e intermitentes en la parte trasera;
+
+IV. Un sistema de escape sin modificaciones que aumenten las emisiones sonoras; y
+
+V. Los demás que dispongan la Ley General, esta Ley, su Reglamento, la Norma Oficial Mexicana vigente y otras disposiciones legales aplicables.
+
+Además de lo anterior, los usuarios de vehículos no motorizados, motocicletas o similares, que se dediquen al reparto de mercancías o a la prestación de servicios, deberán utilizar chaleco o chaqueta de material resistente que cuando menos tenga el veinte por ciento de material reflejante o portar vestimenta de material resistente que permita repartir este porcentaje de material reflejante en brazos y piernas, conforme a lo establecido en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+###### Artículo 112 Bis 1.
+
+La Secretaría de Movilidad y Planeación Urbana del Estado en conjunto con los Municipios promoverán y llevarán a cabo, campañas de cultura y seguridad vial que garanticen la concientización y seguridad de las personas motociclistas, además de implementar acciones y cursos de capacitación especializada para facilitar las mejores prácticas en la conducción de motocicletas, el apego a las disposiciones de jerarquía de la movilidad, de la seguridad vial, la movilidad del cuidado y conocimiento general de las disposiciones legales, reglamentarias y demás normativas aplicables.
+
 ###### Artículo 113.
 
 Los Municipios en sus Reglamentos Municipales darán preferencia para el uso de vía pública a peatones y medios no motorizados, conforme a la jerarquía establecida en el artículo 5 de esta Ley. Los municipios podrán establecer el pago de una cuota por estacionamiento en vía pública en parquímetros a los vehículos de motor de combustión interna de combustible fósil.
@@ -3133,9 +3217,41 @@ V. Circular en forma paralela o entre carriles que correspondan a otros vehícul
 
 VI. No circular con las luces encendidas;
 
-VII. No porte debidamente los elementos de seguridad que establece el Reglamento de esta Ley; o
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2025)</small>
 
-VIII. Transporte carga peligrosa para sí mismo o para terceros.
+VII. No porte debidamente los elementos de seguridad que establece el Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+VIII. Transporte carga peligrosa para sí mismo o para terceros;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+IX. Asistirse o sujetarse de otro vehículo en movimiento que transiten por la vía pública;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+X. Llevar carga que dificulte su visibilidad, equilibrio, adecuada operación;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+XI. Circular dos o más motocicletas en posición paralela en un mismo carril;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+XII. Transitar sobre las aceras y áreas reservadas al uso de peatones y ciclistas;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+XIII. Realizar maniobras riesgosas, piruetas o zigzaguear, cambios abruptos de carril que pongan en riesgo la integridad física y la de terceros;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+XIV. Rebasar vehículos circulando por el espacio que dejan los mismos entre los carriles; o
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+XV. No señalar de forma anticipada que van a efectuar una vuelta.
 
 Además de las sanciones anteriormente señaladas, se retirará de la circulación la unidad como medida de seguridad, e (sic) los casos de las fracciones II y III, y en caso de reincidencia en los supuestos de las fracciones I, IV, V, VI, VII, Y VIII.
 
@@ -3311,7 +3427,9 @@ XI. Promover la participación ciudadana en la toma de decisiones en materia de 
 
 XII. Incrementar la resiliencia del sistema de movilidad y seguridad vial fomentando diversas opciones de transporte;
 
-XIII. Definir estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en los sistemas de movilidad conforme a sus necesidades en un marco de seguridad;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+XIII. Promover políticas, planes y acciones con perspectiva de género que promuevan y garanticen la igualdad sustantiva, la equidad, la seguridad e integridad física de las mujeres en materia de movilidad, así como estrategias y acciones que provengan y erradiquen la violencia sexual, el acoso y las agresiones dentro del sistema de transporte publico integrado y concesionado;
 
 XIV. Establecer medidas para el uso de una metodología basada en la perspectiva de género, que garantice el diseño de soluciones a través de acciones afirmativas, prioritariamente con el objetivo de erradicar las violencias de género al hacer uso de la vía. Lo anterior debe tomar en consideración la interseccionalidad de las mujeres, y los principios de equidad y transversalidad;
 
@@ -3421,11 +3539,23 @@ f) Botón de pánico; y
 
 g) Contenedor de basura.
 
-V. Carriles Exclusivos: Vialidades determinadas e identificadas para el único uso de autobuses, BTR, y/o vehículos de usos compartido.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+V. Carriles Exclusivos: Vialidades determinadas e identificadas para el único uso de autobuses, BTR, y/o vehículos de usos compartido; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+VI. Paradas: Lugar donde obligatoriamente se detienen los autobuses, midibuses y microbuses para realizar sólo labores de ascenso y descenso de pasajeros, esta deberá contar con caseta techada, para la seguridad y protección del usuario.
 
 > <small>(ADICIONADO, P.O. 24 DE ENERO DE 2025)</small>
 
 Los materiales para la construcción de las estaciones inteligentes sustentables que se mencionan en la fracción IV del presente artículo buscarán ser preferentemente de material reciclable.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2025)</small>
+
+###### Artículo 133 Bis.
+
+Para efecto de la fracción VI del artículo anterior, la autoridad competente bajo convenio podrá concesionar, por tiempo determinado, la instalación, climatización y equipamiento de las casetas a empresas publicitarias en contraprestación del servicio, para el cumplimiento de la disposición.
 
 ## TÍTULO SÉPTIMO. ESPACIO PÚBLICO E INFRAESTRUCTURA
 
@@ -4159,7 +4289,9 @@ I. El retiro de los vehículos de la circulación para dejarlos en depósito en 
 
 II. La suspensión de la concesión o permiso de transporte público o privado, o de la licencia del conductor, que puede ser temporal o definitiva, parcial o total, y se aplicará por el tiempo necesario para corregir las irregularidades que la hubieren motivado, ejecutándose las acciones necesarias que permitan asegurar tal medida;
 
-III. El aseguramiento de vehículos, instalaciones y/o anuncios publicitarios, el cual tendrá lugar cuando éstos se destinen a actividades ilegales o cualquier otra que impida la prestación del servicio público de transporte o provoquen distracción de los conductores o inseguridad en la operación. El Instituto podrá retirarlos y situarlos en depósito, para que el interesado en un plazo no mayor de treinta días contados a partir de la fecha en que se determinó la medida de seguridad, subsane el motivo que le dio origen o en su caso se determine su destino; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+III. El aseguramiento de vehículos, instalaciones y/o anuncios publicitarios, el cual tendrá lugar cuando éstos se destinen a actividades ilegales o cualquier otra que impida la prestación del servicio público de transporte o provoquen distracción de los conductores o inseguridad en la operación. El Instituto podrá retirarlos y situarlos en depósito, para que el interesado en un plazo no mayor de treinta días contados a partir de la fecha en que se determinó la medida de seguridad, subsane el motivo que le dio origen o en su caso se determine su destino;
 
 IV. La Requisa del servicio público de transporte y demás bienes muebles e inmuebles afectos al mismo, la determinará el Instituto y se mantendrá mientras subsistan las condiciones que la motivaron, a fin de garantizar la prestación del servicio público de transporte y satisfacer las necesidades de la población en general y podrá darse en los siguientes casos:
 
@@ -4168,6 +4300,10 @@ a) De desastre natural, alteración del orden público o cuando se prevea algún
 b) Cuando prevalezca el deterioro de las condiciones de calidad, seguridad, oportunidad, permanencia y continuidad en la prestación del servicio público de transporte; y
 
 c) Cuando se interrumpa la prestación del servicio público de transporte, sin causa justificada.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2025)</small>
+
+V. El retiro de los vehículos de la circulación para dejarlos en depósito en las instalaciones de los prestadores de servicio o en aquellas áreas que determine la autoridad, el cual tendrá lugar cuando el vehículo circule con placas alteradas, dañadas o dobladas, cuando se encuentren ocultas total o parcialmente por cualquier medio incluyendo aditamentos de cualquier material, micas, etiquetas o calcomanías que obstruyan o distorsionen su vista total o parcialmente.
 
 El Gobierno del Estado podrá indemnizar a los prestadores de servicio afectados con la requisa, previo avalúo de la Secretaría de Finanzas y Tesorería General del Estado que se realizará en un máximo de noventa días, si no hubiere acuerdo sobre el monto de la indemnización, se nombrarán peritos por ambas partes para efectos de determinar el monto de la indemnización, si después de treinta días subsiste el desacuerdo entre los peritos se procederá a reintegrar los bienes requisados.
 
@@ -4708,3 +4844,15 @@ P.O. 24 DE ENERO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 SEGUNDO.- Para el cumplimiento de esta disposición, el Gobierno del Estado realizará las acciones necesarias para que de manera gradual y de acuerdo a su disponibilidad presupuestal de cumplimiento al presente Decreto.
+
+P.O. 21 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 088. SE REFORMA EL SEGUNDO, QUINTO Y SEXTO PÁRRAFO DEL ARTÍCULO 10, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XVI Y, LA FRACCIÓN XVII TODOS DEL ARTÍCULO 12, LAS FRACCIONES XXXVI Y XXXVII DEL ARTÍCULO 15, EL PÁRRAFO QUINTO DEL ARTÍCULO 56, LA FRACCIÓN VII Y VIII DEL ARTÍCULO 120 BIS, LA FRACCIÓN XIII DEL ARTÍCULO 127, LA FRACCIÓN V DEL ARTÍCULO 133, FRACCIÓN III DEL ARTÍCULO 195; Y SE ADICIONAN LAS FRACCIONES CXX BIS Y CXX BIS 1 AL ARTÍCULO 8, LA FRACCIÓN XVIII AL ARTÍCULO 12, LA FRACCIÓN XXXVIII AL ARTÍCULO 15, UN SEXTO PÁRRAFO AL ARTÍCULO 56, LOS ARTÍCULOS 70 BIS 2, 83 BIS, 112 BIS, 112 BIS 1, LAS FRACCIONES IX, X, XI, XII, XIII, XIV Y XV AL ARTÍCULO 120 BIS, LA FRACCIÓN VI AL ARTÍCULO 133 Y EL ARTÍCULO 133 BIS; SE DEROGA EL TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 10, TODO DE LA LEY DE MOVILIDAD SOSTENIBLE, DE ACCESIBILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto de Control Vehicular deberá modificar su Reglamento Interior en un plazo de 120 días naturales para que realice las adecuaciones necesarias para su debido cumplimiento, en lo que es materia del presente decreto.
+
+TERCERO.- La persona Titular del Poder Ejecutivo, así como de los Ayuntamientos contarán con un plazo de 120 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+CUARTO.- Para la implementación de esta disposición, el Gobierno del Estado y los municipios procederán a elaborar coordinadamente los planes y acciones necesarios para que, de acuerdo a su disponibilidad presupuestal, den cumplimiento a este decreto.
