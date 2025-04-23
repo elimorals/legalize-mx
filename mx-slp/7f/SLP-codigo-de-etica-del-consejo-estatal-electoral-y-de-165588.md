@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-del-consejo-estatal-electoral-y-de-165588"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-13"
-last_updated: "2023-04-13"
+last_updated: "2025-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACION CIUDADANA DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DEL ÓRGANO INTERNO DE CONTROL DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSI, POR MEDIO DEL CUAL EMITE EL CÓDIGO DE ÉTICA, PUBLICADO EN EL P.O. DE 23 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de abril de 2023.
 
@@ -424,3 +426,17 @@ C.P.C. JESÚS CHEVAILE ABAD
 TITULAR DEL ÓRGANO INTERNO DE CONTROL
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL ÓRGANO INTERNO DE CONTROL, POR MEDIO DEL CUAL SE EMITE EL CÓDIGO DE ÉTICA”.]
+
+PRIMERO. El presente Código de Ética del Consejo Estatal Electoral y de Participación Ciudadana, entrará en vigor al siguiente día de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo del Órgano Interno de Control del Consejo Estatal Electoral y de Participación Ciudadana de San Luis Potosí, por medio del cual se emitió el Código de Ética, de fecha 28 veintiocho de marzo de 2023.
+
+TERCERO. Dese máxima publicidad al presente acuerdo en la página oficial de este Consejo Estatal Electoral y de Participación Ciudadana, y póngase en conocimiento de las personas servidoras públicas adscritas al Consejo, para su cumplimiento.
+
+CUARTO. Publíquese en el Periódico Oficial del Estado para los efectos legales correspondientes.
