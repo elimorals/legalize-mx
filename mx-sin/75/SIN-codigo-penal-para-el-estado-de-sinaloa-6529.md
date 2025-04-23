@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2024-08-19"
+last_updated: "2025-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -3677,17 +3677,29 @@ A quienes resuelvan de concierto cometer uno o varios delitos previstos en el pr
 
 Se aplicará pena de cuatro años seis meses a quince años de prisión y de mil a dos mil días multa, a quien:
 
-I. Aceche, vigile, espíe o proporcione información, sobre las actividades oficiales o personales que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública con la finalidad de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones o servidores públicos;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-II. Ingrese, altere o acceda a información de las Instituciones de Seguridad Pública con los fines señalados en el párrafo anterior;
+I. Aceche, vigile, espíe, persiga o proporcione información por cualquier medio de comunicación, sobre las actividades oficiales o personales que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública, con fines no lícitos, a fin de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones o servidores públicos, o con la finalidad de evitar la captura de un delincuente o miembro de una asociación delictuosa u organización criminal;
 
-III. Aceche o vigile en cualquier lugar o realice cualquier acto, tendientes a evitar la captura de algún delincuente o miembro de una asociación delictuosa u organización criminal; o
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+II. Ingrese, altere, acceda o intervenga información o comunicación privada u oficial de las Instituciones de Seguridad Pública con los fines señalados en la fracción anterior;
+
+(NOTA: EL 26 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 24 DE ABRIL DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 107, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+III. OBTENGA INFORMACIÓN, UTILIZANDO CUALQUIER MEDIO TECNOLÓGICO SOBRE ACCIONES, ACTIVIDADES O UBICACIÓN DE LAS INSTITUCIONES SEÑALADAS EN LA FRACCIÓN ANTERIOR;
 
 IV. Elabore, imprima, fabrique, proporcione, posea, desplace, traslade, aloje, aplique o instale expresiones impresas en lugares públicos o mensajes producidos por cualquier otro medio, que contengan advertencias o amenazas, en contra de servidores públicos, Instituciones Públicas y del Estado, con la finalidad de entorpecer o evitar el cumplimiento de sus funciones u ocasionarles un daño a dichas instituciones o servidores públicos.
 
 La pena prevista en este artículo se aumentará desde un tercio hasta una mitad, al que realice las conductas descritas en este precepto utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
 
 La pena señalada en este numeral se aumentará desde un tercio hasta un tanto más y se impondrá además, la destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por servidores públicos o por ex servidores públicos de las fuerzas armadas, instituciones de seguridad pública o de procuración o administración de justicia.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+La pena prevista en este artículo se aumentará hasta en una mitad más a quien, para la comisión del delito, utilice, induzca u obligue a menores de edad, personas adultas mayores o que no tienen capacidad para comprender el significado del hecho o resistirlo.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -5468,3 +5480,11 @@ P.O. 19 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 107 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LAS FRACCIONES I, II Y III DEL PÁRRAFO PRIMERO DEL ARTÍCULO 293 BIS; Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 293 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
