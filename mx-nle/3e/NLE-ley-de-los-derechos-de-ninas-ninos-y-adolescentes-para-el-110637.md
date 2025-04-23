@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2025-02-28"
+last_updated: "2025-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -110,6 +110,10 @@ V Bis. Castigo humillante: es cualquier trato ofensivo, denigrante, desvalorizad
 VI. Certificado de Idoneidad: documento expedido por el Sistema Estatal DIF por medio de la Procuraduría de Protección o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VII. Certificado de Idoneidad para Acogimiento Familiar: documento expedido por el Sistema Estatal DIF por medio de la Procuraduría de Protección o por los Sistemas Municipales DIF debidamente certificados por la Procuraduría de Protección, que determina que los solicitantes son aptos para ello;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+VII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes. tomando en cuenta su edad, facultades, características. cualidades, intereses, motivaciones, límites y aspiraciones. Salvaguardando el interés superior de la niñez con un enfoque de derechos humanos.
 
 VIII. Constitución Federal: la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -231,13 +235,21 @@ XII. El principio pro persona;
 
 XIII. El acceso a una vida libre de violencia;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-XIV. La accesibilidad, y
+XIV. La accesibilidad;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-XV. El derecho al adecuado desarrollo de la autonomía evolutiva de la personalidad.
+XV. El derecho al adecuado desarrollo de la autonomía evolutiva de la personalidad;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XVII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
@@ -299,7 +311,9 @@ VIII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integra
 
 IX. Derecho a una vida libre de violencia y a la integridad personal;
 
-X. Derecho a la protección de la salud y a la seguridad social;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+X. Derecho a la protección de la salud física y mental, así como a la seguridad social;
 
 XI. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
@@ -327,13 +341,17 @@ XXI. Derecho de acceso a las tecnologías de la información y comunicación, as
 
 XXII. Derecho de niñas, niños y adolescentes refugiados no acompañados;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-XXIII. Derecho a revisión de la medida; y
+XXIII. Derecho a revisión de la medida;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-XXIV. Derechos para la Protección de niñas y niños en primera infancia.
+XXIV. Derechos para la Protección de niñas y niños en primera infancia; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XXV. Derecho a disfrutar una vivienda digna y decorosa.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -352,6 +370,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 15.
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+En aras de brindar la más amplia protección de los derechos humanos de niñas, niños y adolescentes, cuando se encuentren en una familia monoparental, y que solo cuenten con un ingreso, el Estado garantizará su correcto desarrollo psicosocial y educativo.
 
 ###### Artículo 16.
 
@@ -454,6 +476,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
 
 Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Cuando las niñas, niños y adolescentes se encuentren bajo el supuesto establecido en el párrafo anterior, el Estado deberá garantizar apoyo y acompañamiento integral. Esta atención podrá incluir apoyo psicológico, prevención de discriminación, integración social, educativo, médico y económico de ser necesario.
 
 ###### Artículo 26.
 
@@ -865,6 +891,10 @@ Es obligación de quienes ejerzan la patria potestad, tutela o guarda y custodia
 
 I. Proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo;
 
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+I Bis. Desempeñar una crianza positiva y respetuosa;
+
 II. Brindarles el respeto, afecto y la tolerancia que les son indispensables para llegar a la edad adulta habiendo alcanzado dicho crecimiento; y
 
 III. Respetarles los derechos que les reconocen la Constitución Federal, la Constitución Estatal, y en las demás disposiciones aplicables, y permitirles su ejercicio como parte fundamental de su crecimiento.
@@ -903,7 +933,9 @@ En el estado de Nuevo León, la edad mínima para contraer matrimonio es de 18 a
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y su desarrollo integral.
 
-De conformidad con este derecho, la educación, la crianza, la corrección de niñas, niños y adolescentes no pueden ser considerados como justificante para tratarlos con violencia.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+De conformidad con este derecho, la educación, la crianza, la corrección de niñas, niños y adolescentes no pueden ser considerados como justificante para tratarlos con violencia, asimismo deberán ser cuidados, protegidos, guiados y formados mediante una crianza positiva y respetuosa de todos sus derechos.
 
 En el Estado se asegurará que todas las niñas, niños y adolescentes, no sufran violencia en el seno de sus familias, en los centros de enseñanza, en los lugares de trabajo, en las calles ni en ningún otro lugar.
 
@@ -923,9 +955,17 @@ V. La explotación económica y/o el desempeño de cualquier trabajo que pueda s
 
 VI. El trabajo antes de la edad mínima de quince años, prevista en las disposiciones aplicables;
 
-VII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-VIII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+VIII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+IX. La violencia digital, de la cual se deberán tomar acciones para detectar, atender y prevenir en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar su dignidad, intimidad, libertad y vida privada.
 
 ###### Artículo 50.
 
@@ -1021,9 +1061,11 @@ Las autoridades estatales y municipales cuidarán que en el territorio de la ent
 
 ### CAPÍTULO XI. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2025)</small>
+
 ###### Artículo 60.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud.
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental.
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, se coordinarán a fin de:
 
@@ -1067,7 +1109,9 @@ XV. Establecer las medidas para que en los servicios de salud se detecten y atie
 
 XVI. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-XVII. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XVII. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental, previniendo y atendiendo en forma prioritaria conductas suicidas;
 
 XVIII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación;
 
@@ -1189,9 +1233,9 @@ Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a 
 
 ### CAPÍTULO XIII. DEL DERECHO A LA EDUCACIÓN
 
-###### Artículo 75.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2025)</small>
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Federal, Constitución Local, la Ley General de Educación, Ley Estatal de Educación y demás disposiciones aplicables.
+Artículo. 75. Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos, basada en un enfoque de derechos humanos y de igualdad, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos, a las libertades fundamentales y la cultura de la paz, en los términos del artículo 3o. de la Constitución Federal, Constitución Local, la Ley General de Educación, Ley Estatal de Educación y demás disposiciones aplicables.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto en esta Ley.
 
@@ -1215,19 +1259,25 @@ VIII. Establecer mecanismos para promover acciones de educación inicial de niñ
 
 IX. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales;
 
-X. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+X. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de instalaciones y condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje y pleno desarrollo de los educandos;
 
 XI. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 
 XII. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-XIII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso sexual o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite y detecte en los centros educativos;
+XIII. Conformar una instancia multidisciplinaria para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso sexual o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite y detecte en los centros educativos, así como, la promoción de la cultura de la denuncia desde edades tempranas.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
 
-XIV. Se elaboren protocolos de actuación sobre situaciones de acoso, violencia escolar o sexual que afecte a niñas, niños y adolescentes, para guiar la actuación del personal docente y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+Esta instancia garantizará un manejo apropiado de los casos, asegurando que las víctimas reciban el apoyo necesario y que se tomen las medidas suficientes para prevenir futuros incidentes de conformidad con el Procedimiento de Rehabilitación en Casos de Acoso o Violencia Escolar, todo lo anterior siempre en observancia de lo establecido en la Ley para Prevenir, Atender y Erradicar el Acoso y la Violencia Escolar del Estado de Nuevo León;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+XIV. Se elaboren y actualicen con regularidad los protocolos de actuación sobre situaciones de acoso, violencia escolar o sexual que afecte a niñas, niños y adolescentes, para guiar la actuación del personal docente y para quienes ejerzan la patria potestad, tutela o guarda y custodia. Estos protocolos deben incluir medidas para la prevención, identificación temprana, intervención, seguimiento y evaluación de las acciones emprendidas;
 
 XV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -1251,13 +1301,25 @@ XXII. Establecer mecanismos para fomentar el uso responsable y seguro de las tec
 
 XXIII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
 
-Las disposiciones de la presente fracción, también serán aplicables para los niños y adolescentes que ejerzan la paternidad, y
+Las disposiciones de la presente fracción, también serán aplicables para los niños y adolescentes que ejerzan la paternidad;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
 
-XXIV. Establecer programas educativos para el aprendizaje de lenguas extranjeras para la Educación Básica.
+XXIV. Establecer programas educativos para el aprendizaje de lenguas extranjeras para la Educación Básica;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XXV. Implementar acciones para proporcionar formación de inteligencia emocional a los niños, niñas y adolescentes;
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XXVI. Fomentar la cultura financiera adecuada, desde edades tempranas, que los prepare para una implementación oportuna en las siguientes etapas de la vida; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XXVII. Elaborar programas dirigidos tanto a la población docente como estudiantil que difundan los valores y principios de la cultura de paz.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -1293,11 +1355,21 @@ Para efectos del párrafo anterior, las autoridades educativas estatales y munic
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
-II. Desarrollar actividades de capacitación para el personal administrativo y docente en el ámbito público y privado;
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
 
-III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar; y
+II. Desarrollar e impartir cursos y talleres de capacitación para el personal administrativo y docente en el ámbito público y privado, primordialmente sobre prevenir y atender los diferentes tipos de violencia en las instituciones educativas;
 
-IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley, la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Nuevo León y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+III. Establecer mecanismos gratuitos y de fácil acceso en materia de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar. Estos mecanismos deben estar disponibles en horarios adecuados y ser administrados por profesionales capacitados.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Asimismo, deben garantizar la privacidad y respeto por los derechos de las niñas, niños y adolescentes involucrados y proporcionarles el apoyo psicoemocional, legal y educativo según sea necesario; y
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar. Estas sanciones serán proporcionales de acuerdo a la gravedad de la ofensa y se acompañarán de programas reeducativos, cuando sea su caso y de concientización para prevenir la reincidencia, conforme a lo dispuesto en esta Ley, la Ley de Responsabilidades Administrativas del Estado de Nuevo León y demás disposiciones aplicables.
 
 ###### Artículo 78.
 
@@ -1445,9 +1517,17 @@ II. La existencia en la sociedad de servicios, instalaciones y oportunidades des
 
 III. La orientación a niñas, niños y adolescentes en el ejercicio de sus derechos;
 
-IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos; y
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-V. El enfoque de inclusión, igualdad, no discriminación y perspectiva de derechos humanos.
+IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+V. El enfoque de inclusión, igualdad, no discriminación y perspectiva de derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+VI. El conocimiento de la educación emocional, resiliencia y empatía.
 
 ###### Artículo 89.
 
@@ -1485,6 +1565,10 @@ Niñas, niños y adolescentes tienen derecho de reunirse y asociarse, sin más l
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Deberán de garantizar que su integridad física, psicológica y emocional no se vea afectada.
+
 ###### Artículo 95.
 
 Las autoridades estatales y municipales destinarán espacios y servicios que permitan el ejercicio del derecho al que se refiere este Capítulo en condiciones de igualdad. Se establecerán programas de educación para la democracia, la tolerancia y la participación. Además, a fin de permitir la libre convivencia de niñas, niños y adolescentes en su comunidad, el Estado deberá:
@@ -1507,9 +1591,11 @@ Niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o
 
 No se considerará injerencia ilegal o arbitraria, aquella que emane de quienes ejerzan la patria potestad, tutela, guarda o custodia, en el cumplimiento de la obligación de orientar, supervisar y en su caso restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al Interés Superior de la Niñez.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
 ###### Artículo 98.
 
-Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez, en términos de la Ley General.
 
 ###### Artículo 99.
 
@@ -1665,6 +1751,10 @@ Las autoridades estatales, en el ámbito de su competencia, deberán garantizar 
 
 Las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Ninguna niña, niño o adolescente migrante, independientemente de su situación migratoria, podrá ser detenido o privado de su libertad por razones migratorias. La Procuraduría de Protección de Niñas, Niños y Adolescentes, en términos de la legislación aplicable y en coordinación con la autoridad migratoria competente, garantizará un acompañamiento legal y psicosocial adecuado, asegurando el acceso inmediato a información clara sobre sus derechos y la provisión de representación jurídica durante cualquier procedimiento migratorio o administrativo en el que se vean involucrados.
+
 ###### Artículo 115.
 
 Para garantizar la protección integral de los derechos, el Sistema DIF Estatal y los Sistemas Municipales DIF en coordinación con el Instituto Nacional de Migración, habilitarán espacios de alojamiento o albergues con estándares mínimos para dar una atención adecuada a niñas, niños y adolescentes migrantes, en donde se respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas.
@@ -1672,6 +1762,10 @@ Para garantizar la protección integral de los derechos, el Sistema DIF Estatal 
 Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
 
 En caso de que el Sistema Estatal DIF o los Sistemas Municipal DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, Delegación Nuevo León, con el fin de proporcionarles el tratamiento adecuado para adoptar medidas de protección especiales.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Las niñas, niños y adolescentes migrantes tendrán acceso inmediato y sin discriminación a los servicios de salud y educación en el Estado de Nuevo León, de acuerdo a lo establecido en las leyes de la materia.
 
 ###### Artículo 116.
 
@@ -1706,6 +1800,14 @@ Niñas, niños y adolescentes tienen derecho de acceso a las tecnologías de la 
 > <small>(ADICIONADO, P.O. 29 DE MARZO DE 2021)</small>
 
 Artículo 119 BIS. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a garantizar que niñas, niños y adolescentes, tengan el derecho al acceso y uso seguro del internet como medio efectivo paro (sic) ejercer su derecho o la no discriminación, información, comunicación, educación, salud, esparcimiento, entre otros, acorde a los fines dispuestos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León y los Tratados Internacionales, así como su integración a la sociedad de la información y el conocimiento conforme con los principios de interdependencia y demás términos en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+###### Artículo 119 Bis 1.
+
+El Estado promoverá políticas públicas de prevención, protección, atención y sanción del acoso sexual y de todas las formas de violencia que causen daño a su intimidad, privacidad, seguridad o dignidad, realizada mediante el uso de tecnologías de la información y la comunicación.
+
+Las autoridades competentes deberán establecer estrategias educativas de supervisión y sensibilización dirigidas a niñas, niños y adolescentes, así como a sus padres, madres o tutores, para fomentar el uso responsable y seguro de las tecnologías digitales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
 
@@ -1765,7 +1867,9 @@ VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, a
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral y, en su lugar, ejercer prácticas de crianza positiva. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -1867,7 +1971,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de las Instituciones Asistenciales se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -2263,13 +2369,17 @@ XXXIV. La Procuraduría de Protección será la única autoridad facultada para 
 
 XXXV. Ejercer acción para el aseguramiento de alimentos, iniciando al (sic) procedimiento previsto en el Código de Procedimientos Civiles del Estado, a favor de los derechos de las niñas, niños y adolescentes, dejando a salvo los derechos de los interesados;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-XXXVI. Realizar las acciones necesarias para investigar y proteger de manera integral a niñas y adolescentes, en situación de embarazo temprano; y
+XXXVI. Realizar las acciones necesarias para investigar y proteger de manera integral a niñas y adolescentes, en situación de embarazo temprano;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2025)</small>
 
-XXXVII. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
+XXXVII. Integrar un Protocolo de Atención Integral para Niñas, Niños y Adolescentes Migrantes; y
+
+> <small>(ADICIONADA, [N. DE E. REUBICADA] P.O. 23 DE ABRIL DE 2025)</small>
+
+XXXVIII. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
 
 El Procurador de Protección podrá delegar a sus subalternos las atribuciones que se señalan (sic) este artículo.
 
@@ -2787,7 +2897,9 @@ En su ejercicio las Defensorías Municipales recibirán las quejas y denuncias p
 
 Bajo el ámbito de las atribuciones municipales que le correspondan auxiliarán a la Procuraduría de Protección.
 
-Para el cumplimiento de las atribuciones citadas en este artículo, el Ejecutivo del Estado creará un fondo de apoyo municipal para la niñez, el cual será aplicado exclusivamente para el fortalecimiento de las defensorías municipales, debiéndose priorizar en el recurso humano, para la conformación de los equipos multidisciplinarios y especializados mencionados en el artículo 168, mismos que deberán dar atención las 24 horas. Adicionalmente podrá ser utilizado para su capacitación y certificación en la materia y posteriormente invertirse en la infraestructura y equipos necesarios para la óptima operación de las defensorías municipales correspondientes.
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Para el cumplimiento de las atribuciones citadas en este artículo, el Ejecutivo del Estado creará un fondo de apoyo municipal para la niñez, el cual será aplicado exclusivamente para el fortalecimiento de las defensorías municipales, debiéndose priorizar en el recurso humano, para la conformación de los equipos multidisciplinarios y especializados mencionados en los artículos 168 y 168 Bis 1, mismos que deberán dar atención las 24 horas. Adicionalmente podrá ser utilizado para su capacitación y certificación en la materia y posteriormente invertirse en la infraestructura y equipos necesarios para la óptima operación de las defensorías municipales correspondientes.
 
 En lo referente a los equipos multidisciplinarios, citados en el párrafo anterior deberá crearse un equipo por cada 40 mil niñas, niños y adolescentes.
 
@@ -2826,6 +2938,10 @@ IV. Un médico, que podrá ser de otra área del municipio; y
 V. Personal técnico y operativo necesario para el cumplimiento de las atribuciones que le confiere esta ley. El equipo técnico de la defensoría municipal no podrá ser personal de otras áreas de atención del Municipio, con excepción del médico.
 
 En la inteligencia de que deberán contar con título y cédula profesional para el ejercicio de su profesión debidamente registrado y experiencia en la materia, así como no encontrarse inhabilitado como servidor público o no haber sido sentenciado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+Las Defensorías Municipales facilitarán el acceso a la atención psicológica y pláticas de competencia parental para la implementación del Plan de Restitución de Derechos. Para lo anterior, los municipios podrán realizar los convenios necesarios para su cumplimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2020)</small>
 
@@ -3270,3 +3386,13 @@ P.O. 28 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 059. SE REFORMA LA FRACCIÓN XXXIX DEL ARTÍCULO 4, LAS FRACCIONES Y LOS INCISOS A), D), G), Y H) DE LA FRACCIÓN V DEL ARTÍCULO 150, SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 4, UNA FRACCIÓN I BIS AL ARTÍCULO 137 Y UN INCISO I) A LA FRACCIÓN V DEL ARTÍCULO 150, TODOS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 091. SE REFORMAN LAS FRACCIONES: XIV Y XV DEL ARTÍCULO 6; LAS FRACCIONES: X, XXIII Y XXIV DEL ARTÍCULO 13; SEGUNDO PÁRRAFO DEL ARTÍCULO 48, LAS FRACCIONES: VII Y VIII DEL ARTÍCULO 49; PÁRRAFO PRIMERO Y FRACCIÓN XVII DEL ARTÍCULO 60; PRIMER PÁRRAFO, FRACCIONES: X, XIII, XIV, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXIII Y XXIV DEL ARTÍCULO 75; LAS FRACCIONES: II, III Y IV DEL ARTÍCULO 77; LAS FRACCIONES: IV Y V DEL ARTÍCULO 88; EL ARTÍCULO 98; LA FRACCIÓN VIII DEL ARTÍCULO 121; LA FRACCIÓN VII DEL ARTÍCULO 128, LAS FRACCIONES: XXXVI Y XXXVII DEL ARTÍCULO 145; EL QUINTO PÁRRAFO DEL ARTÍCULO 168 Y SE ADICIONAN LA FRACCIÓN VII BIS AL ARTÍCULO 4, XVI Y XVII AL ARTÍCULO 6; LA FRACCIÓN XXV AL ARTÍCULO 13; SEGUNDO PÁRRAFO AL ARTÍCULO 15; TERCER PÁRRAFO AL ARTÍCULO 25; UNA FRACCIÓN I BIS AL ARTÍCULO 45; UNA FRACCIÓN IX AL ARTÍCULO 49; UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIII, LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 75; UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DE ARTÍCULO 77; UNA FRACCIÓN VI AL ARTÍCULO 88; UN TERCER PÁRRAFO AL ARTÍCULO 94; UN TERCER PÁRRAFO AL ARTÍCULO 114; UN CUARTO PÁRRAFO AL ARTÍCULO 115; UN ARTÍCULO 119 BIS 1; UNA FRACCIÓN XXXVIII AL ARTÍCULO 145 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 168 BIS 1. TODOS DE LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Autoridades sujetas al cumplimiento del presente Decreto, reformaran sus reglamentos y normativa correspondiente en un plazo no mayor a los 90 días naturales a la entrada en vigor del presente Decreto.
+
+TERCERO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal.
