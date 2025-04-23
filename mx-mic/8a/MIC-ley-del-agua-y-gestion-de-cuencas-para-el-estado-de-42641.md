@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2024-04-11"
+last_updated: "2025-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -85,119 +85,125 @@ IV. Alcantarillado: La red o sistema de conductos y accesorios para recolectar y
 
 V. Aguas pluviales: Las que provienen de lluvias, nieve o granizo;
 
-VI. Aguas residuales: Aquellas aguas que una vez utilizadas se descargan a cuerpos receptores;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-VII. Bienes inherentes: Las zonas federales y materiales pétreos para la construcción como grava y arena, de cauces, corrientes y cuerpos de agua, de propiedad nacional;
+VI. Agua residual: El agua de composición variada que proviene de las descargas de uso público urbano, doméstico, industrial, comercial, de servicios, agrícola pecuario, de las plantas de tratamiento y en general, de cualquier uso, así como la mezcla de ellas;
 
-VIII. Cauce de una corriente: El canal natural o artificial que tiene la capacidad necesaria para que las aguas de la creciente máxima ordinaria escurran sin derramarse;
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-IX. Comisión: La Comisión Estatal del Agua y Gestión de Cuencas;
+VII. Agua tratada: Agua residual resultante del proceso de tratamiento o adecuación de su calidad, para remover total o parcialmente sus cargas contaminantes, a fin de lograr su reúso o aprovechamiento;
 
-X. Comunidad rural: Los centros de población con menos de 2,500 habitantes;
+VIII. Bienes inherentes: Las zonas federales y materiales pétreos para la construcción como grava y arena, de cauces, corrientes y cuerpos de agua, de propiedad nacional;
 
-XI. CNA: La Comisión Nacional del Agua;
+IX. Cauce de una corriente: El canal natural o artificial que tiene la capacidad necesaria para que las aguas de la creciente máxima ordinaria escurran sin derramarse;
 
-XII. Comité de Cuenca: Los órganos auxiliares y subordinados a la Comisión, que se constituyen a nivel de subcuenca y unidades hidrológicas de menor orden;
+X. Comisión: La Comisión Estatal del Agua y Gestión de Cuencas;
 
-XIII. Concesión: El título otorgado por los Ayuntamientos del Estado, con la participación de la Comisión, para la prestación de los servicios públicos del sector hídrico;
+XI. Comunidad rural: Los centros de población con menos de 2,500 habitantes;
 
-XIV. Concesionario: La persona física o moral a la que se concesione la prestación de los servicios públicos;
+XII. CNA: La Comisión Nacional del Agua;
 
-XV. Consejo: Los Consejos de Cuenca;
+XIII. Comité de Cuenca: Los órganos auxiliares y subordinados a la Comisión, que se constituyen a nivel de subcuenca y unidades hidrológicas de menor orden;
 
-XVI. Organismo: Los Organismos de Cuenca;
+XIV. Concesión: El título otorgado por los Ayuntamientos del Estado, con la participación de la Comisión, para la prestación de los servicios públicos del sector hídrico;
 
-XVII. Contratistas: Las personas físicas o morales que celebren contratos con la Comisión, los municipios, organismos operadores municipales o intermunicipales, en los términos de esta Ley;
+XV. Concesionario: La persona física o moral a la que se concesione la prestación de los servicios públicos;
 
-XVIII. Cuenca hidrológica: El territorio donde las aguas fluyen al mar a través de una red de cauces que convergen en uno principal, o bien el territorio donde las aguas forman una unidad autónoma o diferenciada de otras, aún sin que desemboquen en el mar. La cuenca, conjuntamente con los acuíferos, constituyen la unidad de gestión del recurso hidráulico;
+XVI. Consejo: Los Consejos de Cuenca;
 
-XIX. Derivación: La conexión a la instalación hidráulica interior de un predio para abastecer de agua a uno o más usuarios localizados en otros predios;
+XVII. Organismo: Los Organismos de Cuenca;
 
-XX. Descarga: Las aguas residuales o pluviales que se vierten en el sistema de alcantarillado y drenaje;
+XVIII. Contratistas: Las personas físicas o morales que celebren contratos con la Comisión, los municipios, organismos operadores municipales o intermunicipales, en los términos de esta Ley;
 
-XXI. Drenaje: El sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas residuales o pluviales;
+XIX. Cuenca hidrológica: El territorio donde las aguas fluyen al mar a través de una red de cauces que convergen en uno principal, o bien el territorio donde las aguas forman una unidad autónoma o diferenciada de otras, aún sin que desemboquen en el mar. La cuenca, conjuntamente con los acuíferos, constituyen la unidad de gestión del recurso hidráulico;
 
-XXII. Desarrollo sustentable: En materia de recursos hídricos, es el proceso evaluable mediante criterios e indicadores de carácter hídrico, económico, social y ambiental, que tiende a mejorar la calidad de vida y la productividad de las personas, que se fundamenta en las medidas necesarias para la preservación del equilibrio hidrológico, el aprovechamiento y protección de los recursos hídricos, de manera que no se comprometa la satisfacción de las necesidades de agua de las generaciones futuras;
+XX. Derivación: La conexión a la instalación hidráulica interior de un predio para abastecer de agua a uno o más usuarios localizados en otros predios;
 
-XXIII. Distrito de riego: Una o varias superficies previamente delimitas y dentro de cuyo perímetro se ubica la zona de riego, el cual cuenta con las obras de infraestructura hidráulica, aguas superficiales y del subsuelo, así como con sus vasos de almacenamiento, su zona federal, de protección y demás bienes y obras conexas; pudiendo establecerse también con una o varias unidades de riego;
+XXI. Descarga: Las aguas residuales o pluviales que se vierten en el sistema de alcantarillado y drenaje;
 
-XXIV. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
+XXII. Drenaje: El sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas residuales o pluviales;
 
-XXV. Estructura tarifaría: La tabla que establece por cada tipo de usuarios, los precios por unidad de servicio que deberá pagar cada usuario, y en su caso, el nivel de consumo;
+XXIII. Desarrollo sustentable: En materia de recursos hídricos, es el proceso evaluable mediante criterios e indicadores de carácter hídrico, económico, social y ambiental, que tiende a mejorar la calidad de vida y la productividad de las personas, que se fundamenta en las medidas necesarias para la preservación del equilibrio hidrológico, el aprovechamiento y protección de los recursos hídricos, de manera que no se comprometa la satisfacción de las necesidades de agua de las generaciones futuras;
 
-XXVI. Federación: Las Dependencias y Entidades de la Administración Pública Federal;
+XXIV. Distrito de riego: Una o varias superficies previamente delimitas y dentro de cuyo perímetro se ubica la zona de riego, el cual cuenta con las obras de infraestructura hidráulica, aguas superficiales y del subsuelo, así como con sus vasos de almacenamiento, su zona federal, de protección y demás bienes y obras conexas; pudiendo establecerse también con una o varias unidades de riego;
 
-XXVII. Gobernador: El Gobernador Constitucional del Estado;
+XXV. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-XXVIII. Junta: La Junta de Gobierno de la Comisión;
+XXVI. Estructura tarifaría: La tabla que establece por cada tipo de usuarios, los precios por unidad de servicio que deberá pagar cada usuario, y en su caso, el nivel de consumo;
 
-XXIX. Gestión de Cuencas: El conjunto de acciones entre instituciones y sociedad, dirigidas al desarrollo coordinado del agua, la tierra, así como de los recursos relacionados con estos y el medio ambiente en la cuenca hidrológica;
+XXVII. Federación: Las Dependencias y Entidades de la Administración Pública Federal;
 
-XXX. Ley: La Ley de Agua y Gestión de Cuencas del Estado de Michoacán;
+XXVIII. Gobernador: El Gobernador Constitucional del Estado;
 
-XXXI. Organismos operadores: Los organismos públicos descentralizados de los municipios, cuyo objeto general será la prestación de los servicios de agua potable, alcantarillado y saneamiento;
+XXIX. Junta: La Junta de Gobierno de la Comisión;
 
-XXXII. Prestador de servicios: Los organismos operadores municipales, intermunicipales o concesionarios, que presten servicios públicos de agua potable, alcantarillado y saneamiento;
+XXX. Gestión de Cuencas: El conjunto de acciones entre instituciones y sociedad, dirigidas al desarrollo coordinado del agua, la tierra, así como de los recursos relacionados con estos y el medio ambiente en la cuenca hidrológica;
 
-XXXIII. Programa: El Programa Estatal Hídrico;
+XXXI. Ley: La Ley de Agua y Gestión de Cuencas del Estado de Michoacán;
 
-XXXIV. Proyecto Estratégico de Desarrollo: El estudio basado en un diagnóstico integral de las condiciones de los sistemas de agua potable, alcantarillado y saneamiento, en los municipios;
+XXXII. Organismos operadores: Los organismos públicos descentralizados de los municipios, cuyo objeto general será la prestación de los servicios de agua potable, alcantarillado y saneamiento;
 
-XXXV. Reglamento: El Reglamento de la Ley de Agua y Gestión de Cuencas del Estado de Michoacán;
+XXXIII. Prestador de servicios: Los organismos operadores municipales, intermunicipales o concesionarios, que presten servicios públicos de agua potable, alcantarillado y saneamiento;
 
-XXXVI. Reincidencia: La infracción reiterada a una misma disposición de esta Ley o su Reglamento, siempre que ésta no hubiere sido desvirtuada;
+XXXIV. Programa: El Programa Estatal Hídrico;
 
-XXXVII. Reúso: La utilización de aguas residuales previamente tratadas, que cumplen con lo establecido en las normas oficiales mexicanas, en la industria, riego, agricultura y otros usos;
+XXXV. Proyecto Estratégico de Desarrollo: El estudio basado en un diagnóstico integral de las condiciones de los sistemas de agua potable, alcantarillado y saneamiento, en los municipios;
 
-XXXVIII. Ribera o Zona Federal: Las fajas de terreno de diez metros de anchura contiguas al cauce de las corrientes o al vaso de los depósitos de propiedad nacional, medidas horizontalmente a partir del nivel de aguas máximas ordinarias. La amplitud de la ribera o zona federal será de cinco metros en los cauces con una anchura no mayor de cinco metros. En los ríos, estas fajas se delimitarán a partir de cien metros río arriba, contados desde la desembocadura de estos en el mar;
+XXXVI. Reglamento: El Reglamento de la Ley de Agua y Gestión de Cuencas del Estado de Michoacán;
 
-XXXIX. Saneamiento: La conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
+XXXVII. Reincidencia: La infracción reiterada a una misma disposición de esta Ley o su Reglamento, siempre que ésta no hubiere sido desvirtuada;
 
-XL. Servicios Ambientales: Los beneficios de interés social que se derivan de las cuencas hidrológicas y sus componentes, tales como la regulación climática, la conservación de los ciclos hidrológicos, control de la erosión e infraestructura aguas abajo, control de inundaciones, recarga de acuíferos, mantenimiento de los escurrimientos en calidad y cantidad, formación de suelo, la captura de carbono, purificación de los cuerpos de agua, conservación y protección de la biodiversidad; para la aplicación de este concepto en esta Ley se consideran los recursos forestales y su vínculo con los hídricos;
+XXXVIII. Reúso: La utilización de aguas residuales previamente tratadas, que cumplen con lo establecido en las normas oficiales mexicanas, en la industria, riego, agricultura y otros usos;
 
-XLI. Servicios públicos: Los de uso público urbano de agua potable, alcantarillado y saneamiento;
+XXXIX. Ribera o Zona Federal: Las fajas de terreno de diez metros de anchura contiguas al cauce de las corrientes o al vaso de los depósitos de propiedad nacional, medidas horizontalmente a partir del nivel de aguas máximas ordinarias. La amplitud de la ribera o zona federal será de cinco metros en los cauces con una anchura no mayor de cinco metros. En los ríos, estas fajas se delimitarán a partir de cien metros río arriba, contados desde la desembocadura de estos en el mar;
 
-XLII. Sistema: El Sistema Estatal Hídrico;
+XL. Saneamiento: La conducción, tratamiento, alejamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verter dichas aguas en una corriente o depósito de propiedad nacional;
 
-XLIII. Sistema de Información: El Sistema Estatal de Información del Agua;
+XLI. Servicios Ambientales: Los beneficios de interés social que se derivan de las cuencas hidrológicas y sus componentes, tales como la regulación climática, la conservación de los ciclos hidrológicos, control de la erosión e infraestructura aguas abajo, control de inundaciones, recarga de acuíferos, mantenimiento de los escurrimientos en calidad y cantidad, formación de suelo, la captura de carbono, purificación de los cuerpos de agua, conservación y protección de la biodiversidad; para la aplicación de este concepto en esta Ley se consideran los recursos forestales y su vínculo con los hídricos;
 
-XLIV. Suspensión de los servicios: La acción y efecto de interrumpir temporalmente el suministro de agua potable por infracciones a las disposiciones normativas aplicables;
+XLII. Servicios públicos: Los de uso público urbano de agua potable, alcantarillado y saneamiento;
 
-XLV. Tarifa media de equilibrio: La tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero del prestador de los servicios;
+XLIII. Sistema: El Sistema Estatal Hídrico;
 
-XLVI. Toma: La conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
+XLIV. Sistema de Información: El Sistema Estatal de Información del Agua;
 
-XLVII. Unidad de Riego: La superficie definida para ser beneficiada por infraestructura hidráulica y fuentes de agua definidas, bajo criterios que deben determinarse entre la Comisión y otras dependencias federales;
+XLV. Suspensión de los servicios: La acción y efecto de interrumpir temporalmente el suministro de agua potable por infracciones a las disposiciones normativas aplicables;
 
-XLVIII. Uso: La aplicación parcial o total del agua a una actividad, prevista en esta Ley;
+XLVI. Tarifa media de equilibrio: La tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero del prestador de los servicios;
 
-XLIX. Uso Agrícola: La utilización de agua nacional destinada al riego para la producción agrícola y su preparación para la primera enajenación, siempre que los productos no hayan sido objeto de transformación industrial;
+XLVII. Toma: La conexión autorizada a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal, medidor volumétrico y el cuadro;
 
-L. Uso Ambiental: El caudal o volumen mínimo necesario en cuerpos receptores, incluyendo corrientes de diversa índole o embalses, o el caudal mínimo de descarga natural de un acuífero, que debe conservarse para proteger las condiciones ambientales y el equilibrio ecológico del sistema;
+XLVIII. Unidad de Riego: La superficie definida para ser beneficiada por infraestructura hidráulica y fuentes de agua definidas, bajo criterios que deben determinarse entre la Comisión y otras dependencias federales;
 
-LI. Uso Consuntivo: El volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo;
+XLIX. Uso: La aplicación parcial o total del agua a una actividad, prevista en esta Ley;
 
-LII. Uso Doméstico: La utilización de agua nacional destinada al uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+L. Uso Agrícola: La utilización de agua nacional destinada al riego para la producción agrícola y su preparación para la primera enajenación, siempre que los productos no hayan sido objeto de transformación industrial;
 
-LIII. Uso en Acuacultura: La utilización de aguas nacionales destinada al cultivo, reproducción y desarrollo de cualquier especie de la fauna y flora acuáticas;
+LI. Uso Ambiental: El caudal o volumen mínimo necesario en cuerpos receptores, incluyendo corrientes de diversa índole o embalses, o el caudal mínimo de descarga natural de un acuífero, que debe conservarse para proteger las condiciones ambientales y el equilibrio ecológico del sistema;
 
-LIV. Uso Industrial: La utilización de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en parques industriales, en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
+LII. Uso Consuntivo: El volumen de agua de una calidad determinada que se consume al llevar a cabo una actividad específica, el cual se determina como la diferencia del volumen de una calidad determinada que se extrae, menos el volumen de una calidad también determinada que se descarga, y que se señalan en el título respectivo;
 
-LV. Uso Pecuario: La utilización de aguas nacionales para la cría y engorda de ganado, aves de corral y otros animales, y su preparación para la primera enajenación siempre que no comprendan la transformación industrial;
+LIII. Uso Doméstico: La utilización de agua nacional destinada al uso particular de las personas y del hogar, riego de sus jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos que no constituya una actividad lucrativa, en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
-LVI. Uso Público Urbano: La utilización de agua nacional para centros de población y asentamientos humanos, a través de la red municipal;
+LIV. Uso en Acuacultura: La utilización de aguas nacionales destinada al cultivo, reproducción y desarrollo de cualquier especie de la fauna y flora acuáticas;
 
-LVII. Usuario: La persona física o moral que utilice los servicios públicos;
+LV. Uso Industrial: La utilización de aguas nacionales en fábricas o empresas que realicen la extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en parques industriales, en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa, las salmueras que se utilizan para la extracción de cualquier tipo de sustancias y el agua aún en estado de vapor, que sea usada para la generación de energía eléctrica o para cualquier otro uso o aprovechamiento de transformación;
 
-LVIII. Vaso de lago, laguna o estero: El depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
+LVI. Uso Pecuario: La utilización de aguas nacionales para la cría y engorda de ganado, aves de corral y otros animales, y su preparación para la primera enajenación siempre que no comprendan la transformación industrial;
 
-LIX. Zona de Protección: La faja de terreno inmediata a las presas, estructuras hidráulicas y otra infraestructura hidráulica e instalaciones conexas, cuando dichas obras sean de propiedad nacional, en la extensión que en cada caso fije la CNA y cuando dichas obras sean de propiedad estatal, en la extensión que fije la Comisión, para su protección y adecuada operación, conservación y vigilancia, de acuerdo con lo dispuesto en los reglamentos de esta Ley;
+LVII. Uso Público Urbano: La utilización de agua nacional para centros de población y asentamientos humanos, a través de la red municipal;
 
-LX. Zona Reglamentada: Aquellas áreas específicas de las cuencas o regiones hidrológicas, que por sus características de deterioro, fragilidad del ecosistema, sobreexplotación o para su restauración, requieren un manejo específico para garantizar la sustentabilidad hidrológica;
+LVIII. Usuario: La persona física o moral que utilice los servicios públicos;
 
-LXI. Zona de Reserva: Las limitaciones en el uso o aprovechamiento de una porción o la totalidad del agua de una cuenca o región hidrológica, para prestar un servicio público, implantar un programa de restauración, conservar o preservar el agua o cuando el Estado resuelva explotarlos por causa de interés público; y,
+LIX. Vaso de lago, laguna o estero: El depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
 
-LXII. Zona de Veda: La supresión total de aprovechamientos de agua adicionales a los establecidos legalmente y el control de estos mediante reglamentos específicos, en una región determinada, cuenca o acuífero, en virtud del grave deterioro del agua en cantidad o calidad o por la afectación a la sustentabilidad hidrológica.
+LX. Zona de Protección: La faja de terreno inmediata a las presas, estructuras hidráulicas y otra infraestructura hidráulica e instalaciones conexas, cuando dichas obras sean de propiedad nacional, en la extensión que en cada caso fije la CNA y cuando dichas obras sean de propiedad estatal, en la extensión que fije la Comisión, para su protección y adecuada operación, conservación y vigilancia, de acuerdo con lo dispuesto en los reglamentos de esta Ley;
+
+LXI. Zona Reglamentada: Aquellas áreas específicas de las cuencas o regiones hidrológicas, que por sus características de deterioro, fragilidad del ecosistema, sobreexplotación o para su restauración, requieren un manejo específico para garantizar la sustentabilidad hidrológica;
+
+LXII. Zona de Reserva: Las limitaciones en el uso o aprovechamiento de una porción o la totalidad del agua de una cuenca o región hidrológica, para prestar un servicio público, implantar un programa de restauración, conservar o preservar el agua o cuando el Estado resuelva explotarlos por causa de interés público; y,
+
+LXIII. Zona de Veda: La supresión total de aprovechamientos de agua adicionales a los establecidos legalmente y el control de estos mediante reglamentos específicos, en una región determinada, cuenca o acuífero, en virtud del grave deterioro del agua en cantidad o calidad o por la afectación a la sustentabilidad hidrológica.
 
 ### CAPÍTULO TERCERO. DE LOS PRINCIPIOS DE LA POLÍTICA HÍDRICA
 
@@ -425,7 +431,11 @@ XXXIII. Presentar las denuncias que correspondan ante autoridades competentes cu
 
 XXXIV. Promover que los usuarios que descarguen aguas residuales adopten dentro de sus procesos la utilización de materiales biodegradables, siempre y cuando técnicamente sean viables atendiendo a las Normas Oficiales Mexicanas (NOM) reglamentarias de la materia;
 
-XXXV. Las demás que le señale el Gobernador y otras disposiciones normativas aplicables.
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XXXV. Promover el uso del agua tratada para actividades no esenciales;
+
+XXXVI. Las demás que le señale el Gobernador y otras disposiciones normativas aplicables.
 
 ###### Artículo 12.
 
@@ -1651,9 +1661,11 @@ Cuando el vertido o descarga de las aguas residuales afecten o puedan afectar fu
 
 Corresponde a los organismos operadores municipales, administrar las aguas residuales de origen público urbano hasta antes de su descarga en cuerpos o corrientes de propiedad nacional, pudiendo promover su reutilización en los términos y condiciones de la presente Ley y su Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2025)</small>
 
-Artículo 110 bis. Las instituciones públicas o privadas y los usuarios de agua de primer uso, deberán promover la reutilización de agua residual tratada, de manera gradual en diversos niveles. Teniendo un lapso no mayor de tres años para la realización de acciones que les permitan cumplir la meta mínima del 30% del volumen usado.
+Artículo 110 bis. Las instituciones públicas o privadas y los usuarios de agua de primer uso, realizarán acciones positivas para el reciclaje del agua y la reutilización de agua residual tratada, de manera gradual en diversos niveles. Teniendo un lapso no mayor de tres años para la realización de acciones que les permitan cumplir la meta mínima del 30% del volumen usado.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2024)</small>
 
 Se podrá utilizar agua residual tratada en sus diversos niveles, en los siguientes casos:
 
@@ -2154,5 +2166,11 @@ P.O. 5 DE JULIO DE 2023.
 P.O. 11 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 610 POR EL QUE “SE ADICIONA EL ARTÍCULO 110 BIS A LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 153 POR EL QUE “SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII RECORRIENDO DE FORMA SUBSECUENTE LAS SIGUIENTES FRACCIONES DEL ARTÍCULO 3; SE ADICIONA LA FRACCIÓN XXXV DEL ARTÍCULO 11, RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN SUBSECUENTE; Y, SE REFORMA EL ARTÍCULO 110 BIS DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
