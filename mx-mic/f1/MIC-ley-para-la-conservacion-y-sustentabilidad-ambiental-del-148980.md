@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2025-04-04"
+last_updated: "2025-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -171,6 +171,10 @@ XVIII. Consumo Sustentable: Actividades productivas necesarias para generar un b
 
 XIX. Contaminación: A la presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
+> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XIX BIS. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmosfera;
+
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2022)</small>
 
 XX. Contaminación acústica: La presencia en el ambiente de sonidos molestos e intempestivos que rebasen los límites máximos permisibles señalados en las normas oficiales, que para efecto emitan las autoridades competentes; o aquel que, por su intensidad, duración o frecuencia, impliquen daño, riesgo o perjudique a las personas, con independencia de la cual sea la fuente que los origine;
@@ -190,6 +194,20 @@ XXVI. Ecología: La ciencia que estudia las relaciones existentes entre los sere
 XXVII. Efectos adversos del cambio climático: Variaciones en el medio ambiente, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
 XXVIII. Energías limpias: La energía limpia es el sistema de producción de energía con exclusión de cualquier contaminación o la gestión mediante la que nos deshacemos de todos los residuos peligrosos. Las energías limpias son entonces, aquellas que no generan residuos;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE ABRIL DE 2025)</small>
+
+XXVIII BIS. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica; incluye:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y particulares en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación; y,
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar.
 
 XXIX. Energías renovables: Aquellas cuya fuente reside en fenómenos de la naturaleza, procesos o materiales susceptibles de ser transformados en energía aprovechable por el ser humano, que se regeneran naturalmente, por lo que se encuentran disponibles en forma continua o periódica y que al ser generadas no liberan emisiones contaminantes. Se consideran fuentes de energía renovables, de manera enunciativa más no limitativa, las siguientes:
 
@@ -2013,6 +2031,16 @@ Las autoridades municipales en el ámbito de su competencia deberán realizar la
 
 Las autoridades competentes deberán respetar los usos y costumbres, garantizando el sano equilibrio y la tranquilidad de las personas y animales.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+En la construcción de obras o instalaciones que generen luz intrusa, en el funcionamiento de las existentes deberán llevarse a cabo acciones preventivas y correlativas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+###### Artículo 162 Ter.
+
+Promover en coordinación con la Secretaría de Energía, las autoridades estatales o municipales en (sic) la formulación y aplicación de programas para prevenir, reducir y controlar la contaminación lumínica, que tenga por objeto el cumplimiento de la normatividad aplicable.
+
 ###### Artículo 163.
 
 Los responsables de las fuentes emisoras de ruido, deberán proporcionar a las autoridades competentes la información que se les requiera respecto a las emisiones que generen.
@@ -3050,3 +3078,9 @@ P.O. 4 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO154 POR EL QUE "SE REFORMA EL ARTÍCULO 74 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 155 POR EL QUE "SE ADICIONAN EN SUS ÓRDENES SUBSECUENTES LAS FRACCIONES XIX BIS Y XXVIII BIS DEL ARTÍCULO 4°, EL ÚLTIMO PÁRRAFO AL ARTÍCULO 162 BIS; Y, EL ARTÍCULO 162 TER DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
