@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prevencion-y-gestion-integral-de-residuos-en-el-767
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-15"
-last_updated: "2022-02-18"
+last_updated: "2025-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 15 de Septiembre de 2010.
 
@@ -151,9 +151,17 @@ c) Baterías;
 
 d) Envases y embalajes;
 
-e) Neumáticos; y,
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
 
-f) Pilas.
+e) Neumáticos;
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+f) Pilas; y,
+
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2025)</small>
+
+g) Paneles solares.
 
 XXX. Relleno sanitario: Instalación en la cual se depositan de manera permanente los residuos urbanos, en sitios y en condiciones apropiadas para prevenir o reducir la liberación de contaminantes al ambiente, los procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
 
@@ -217,9 +225,13 @@ II. Identificar y proponer a la Secretaría de Medio Ambiente y Recursos Natural
 
 III. Crear, mantener actualizado y accesible al público, el Sistema de Información sobre Residuos de Manejo Especial y Sitios Contaminados;
 
-IV. Formular, fomentar y conducir la política de información y difusión en materia de generación y manejo sustentable de residuos de manejo especial y de sitios contaminados;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
 
-V. Fomentar la política de separación de residuos de manejo especial;
+IV. Formular, fomentar y conducir la política de información y difusión en materia de generación y manejo sustentable de residuos de manejo especial y de sitios contaminados; así como del producto prioritario;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+V. Fomentar la política de separación de residuos de manejo especial y del producto prioritario;
 
 VI. Fomentar y ejecutar en coordinación con las autoridades municipales los Planes de Manejo para residuos de manejo especial de conformidad con lo establecido por el presente ordenamiento;
 
@@ -239,7 +251,9 @@ IX. Promover y apoyar permanentemente el establecimiento de programas municipale
 
 X. Prevenir y controlar la contaminación del suelo generada por residuos, así como su remediación y, en su caso, la recuperación o revalorización de los sitios remediados;
 
-XI. Establecer y promover mecanismos y acciones, tendientes a prevenir y reducir la generación de residuos de manejo especial, así como la contaminación de suelos o sitios vulnerables;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XI. Establecer y promover mecanismos y acciones, tendientes a prevenir y reducir la generación de residuos de manejo especial, del producto prioritario, así como la contaminación de suelos o sitios vulnerables;
 
 XII. Promover el desarrollo y aplicación de instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o evitar la generación de residuos, el aprovechamiento de su valor y su gestión integral;
 
@@ -253,7 +267,9 @@ XVI. Promover la participación de los distintos sectores de la sociedad en la f
 
 XVII. Promover, evaluar y aprobar los planes de manejo y los programas para la instalación del Sistema Integral de Prevención y Gestión de Residuos de Manejo Especial;
 
-XVIII. Promover en coordinación con el Gobierno Federal y las autoridades municipales correspondientes, la creación de infraestructura para la gestión integral de residuos urbanos, de manejo especial y residuos peligrosos, con la participación de los inversionistas y representantes de los sectores sociales interesados;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2025)</small>
+
+XVIII. Promover en coordinación con el Gobierno Federal y las autoridades municipales correspondientes, la creación de infraestructura para la gestión integral de residuos urbanos, de manejo especial, residuos peligrosos y del producto prioritario, con la participación de los inversionistas y representantes de los sectores sociales interesados;
 
 XIX. Regular, vigilar y aplicar las medidas o restricciones relacionadas al manejo de los residuos peligrosos producto de la celebración de convenios con la Federación;
 
@@ -1306,3 +1322,9 @@ P.O. 18 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 157 POR EL QUE “SE ADICIONA EL INCISO G) A LA FRACCIÓN XXIX DEL ARTÍCULO 3 Y SE REFORMAN LAS FRACCIONES IV, V, XI Y XVIII DEL ARTÍCULO 6 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
