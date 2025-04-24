@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2025-01-20"
+last_updated: "2025-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2025.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -1883,7 +1883,9 @@ De la misma manera, deberá entonarse el Himno Nacional al inicio de aquellas se
 
 Para su funcionamiento, el Congreso del Estado tendrá las siguientes dependencias:
 
-I.- Instituto Superior de Auditoría y Fiscalización;
+> <small>(REFORMADA, B.O. 24 DE ABRIL DE 2025)</small>
+
+I.- Centro de Investigaciones Parlamentarias del Estado de Sonora.
 
 II.- Oficialía Mayor; y
 
@@ -3341,11 +3343,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Se derogan todas aquellas disposiciones que (sic) opongan a lo previsto en el presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+B.O. 24 DE ABRIL DE 2025.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 41, QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 183 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 31 DE MAYO DE 2023.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE USURPACIÓN DE IDENTIDAD”.]
 
