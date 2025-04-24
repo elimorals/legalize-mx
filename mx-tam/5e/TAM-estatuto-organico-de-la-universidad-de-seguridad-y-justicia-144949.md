@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-universidad-de-seguridad-y-justicia-144
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-11-11"
-last_updated: "2020-11-11"
+last_updated: "2025-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2025 (DEROGADO).
 
 Estatuto publicado en el Número 36 del Periódico Oficial del Estado de Tamaulipas, el miércoles 11 de noviembre de 2020.
 
@@ -1260,3 +1262,37 @@ Se derogan todas las disposiciones normativas que se opongan al presente Estatut
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital de Tamaulipas, a los veinticinco días del mes de septiembre del año dos mil veinte.
 
 ATENTAMENTE.- EL RECTOR DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS.- MTRO. JESÚS ANTONIO LARA MATA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE SEGURIDAD Y JUSTICIA DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los reglamentos y demás disposiciones normativas de la Universidad, deberán de adecuarse conforme al presente Estatuto Orgánico en un término de 90 días naturales a partir de la entrada en vigor del presente instrumento.
+
+###### ARTÍCULO TERCERO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad al artículo 23 de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+El Rector de la Universidad deberá instrumentar las acciones necesarias para la difusión del presente Estatuto Orgánico, haciéndolo del conocimiento a la comunidad universitaria.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
+
+###### ARTÍCULO SEXTO.
+
+Se deroga el Estatuto Orgánico de la Universidad de Seguridad y Justicia de Tamaulipas, publicado en el Periódico Oficial del Estado Número 136, de fecha 11 de noviembre de 2020 y sus subsecuentes reformas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones normativas que se opongan al presente Estatuto Orgánico.
