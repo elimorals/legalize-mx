@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-144
 country: "mx"
 rank: "codigo"
 publication_date: "2020-10-20"
-last_updated: "2020-10-20"
+last_updated: "2025-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL INSTITUTO DE LA JUVENTUD DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE LA JUVENTUD DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE LA JUVENTUD DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2025 (DEROGADO).
 
 Código publicado en Número 126 del Periódico Oficial del Estado de Tamaulipas, el martes 20 de octubre de 2020.
 
@@ -606,3 +608,25 @@ Los casos no previstos en este Código de Conducta y Prevención de Conflictos d
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de la Juventud de Tamaulipas.
 
 ATENTAMENTE.- EL DIRECTOR GENERAL DEL INSTITUTO DE LA JUVENTUD.- ING. ÁNGEL DE JESÚS COVARRUBIAS VILLAVERDE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE LA JUVENTUD DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de la Juventud de Tamaulipas, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas y regirán permanentemente durante el periodo de su vigencia.
+
+###### ARTÍCULO SEGUNDO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de la Juventud de Tamaulipas, serán resueltos por el Comité de Ética, Conducta y Prevención de Conflictos de Interés del Instituto de la Juventud de Tamaulipas, a propuesta de su Presidente o Presidenta, con la Asesoría de la Unidad de Ética.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de la Juventud de Tamaulipas.
+
+###### ARTICULO CUARTO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Instituto de la Juventud de Tamaulipas, publicado en el Periódico Oficial número 126 de fecha 20 de octubre de 2020.
