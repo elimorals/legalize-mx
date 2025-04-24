@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ciencia-y-tecnologia-del-estado-de-durango-52313"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-26"
-last_updated: "2022-11-20"
+last_updated: "2025-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de octubre de 2006.
 
@@ -193,7 +193,9 @@ II. La dependencia o entidad de la Administración Pública Municipal competente
 
 Una vez concluida la formulación de los programas, las dependencias y entidades responsables los someterán al C. Gobernador del Estado y a los Ayuntamientos, respectivamente, según corresponda, para su aprobación y posterior publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango o en las Gacetas Municipales, dentro de los diez días hábiles siguientes a su autorización.
 
-Dentro del mismo plazo los programas serán remitidos a la Entidad de Auditoría Superior del Estado para los efectos que precedan en materia de fiscalización superior.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2025)</small>
+
+Dentro del mismo plazo los programas serán remitidos a la Auditoría Superior del Estado para los efectos que precedan en materia de fiscalización superior.
 
 ###### Artículo 9.
 
@@ -968,3 +970,11 @@ P.O. 20 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2025.
+
+> <small>[N. DE E. TRASITORIOS DEL “DECRETO NO. 154 POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 8 DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]</small>
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
