@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2023-03-30"
+last_updated: "2025-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE ABRIL DE 2025.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -166,6 +166,24 @@ VI.- Las demás que señalen los ordenamientos jurídicos aplicables.
 ###### ARTÍCULO 6º.
 
 Para el cumplimiento de sus funciones de seguridad pública, el Estado contará con la Secretaría de Seguridad Pública como dependencia de la administración pública estatal, la cual tendrá las facultades y obligaciones que se establecen en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 24 DE ABRIL DE 2025)</small>
+
+ARTÍCULO 6 BIS.- El Estado, para cumplimiento de sus funciones de seguridad pública, contará con el fondo estatal para fortalecer las instituciones de seguridad pública, procuración e impartición de justicia, evaluación de la acción gubernamental en la materia, la corresponsabilidad ciudadana frente al delito y para promover la competitividad del estado, el cual será administrado mediante un Fideicomiso Público que se denominará FICOSEG, a que hace referencia el artículo 292 BIS-11 de la Ley de Hacienda del Estado.
+
+La presidencia y la dirección general del fideicomiso, se designará por mayoría de votos de los integrantes del comité técnico.
+
+La integración, organización y funcionamiento del Comité Técnico, se establecerá en el Decreto de creación del fideicomiso con veinte representantes de los organismos del sector privado que durarán cuatros (sic) años en su encargo y serán seleccionados por el Comité Ciudadano de Seguridad Pública del Estado de Sonora establecido en el artículo 28 de la Ley de Seguridad Publica para el Estado de Sonora y cuatro representantes del Gobierno del Estado que serán los titulares de la Secretaria de Hacienda, Secretaria de Seguridad Pública, Secretaria de Economía y Turismo y el Titular de la Fiscalía General de Justicia del Estado.
+
+Estarán como invitados con voz, pero sin voto, el Presidente del Supremo Tribunal de Justicia y la Secretaria Anticorrupción y Buen Gobierno, pueden asistir a las reuniones del comité de manera personal o nombrar una persona que asista en su representación.
+
+En el uso, manejo, administración y disposición de los recursos públicos y del patrimonio del fideicomiso les serán aplicables las disposiciones establecidas, en la Ley de Fiscalización Superior para el Estado de Sonora, Ley Orgánica del Poder Ejecutivo del Estado de Sonora, Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora, Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Sonora, Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Sonora, Ley de Responsabilidades y Sanciones para el Estado de Sonora y sus respectivos reglamentos, así como por los ordenamientos legales y administrativos que regulen los distintos ámbitos en los que participe el Fideicomiso en cumplimiento de sus fines.
+
+Los pagos a los prestadores de servicios personales, servicios profesionales y financieros propios del fideicomiso, papelería, y diversas convocatorias para asambleas del Comité Técnico y en general, los gastos de operación no excederán del tres por ciento de los ingresos del fideicomiso, la cantidad restante se aplicará en un ochenta por ciento en fortalecer a las instituciones de seguridad pública, procuración e impartición de justicia, evaluación de la acción gubernamental en la materia, la corresponsabilidad ciudadana frente al delito y el veinte por ciento restante para promover competitividad del Estado.
+
+Los integrantes del Comité Técnico del sector privado no serán considerados servidores públicos.
+
+La responsabilidad que pudiera derivarse de la operación del fideicomiso, como lo son el proceso de asignación de recursos económicos o en especie, planeación, ejecución, vigilancia, seguimiento, presupuesto, procesos de administración o determinación de la característica y monto de apoyo, cumplimiento de obligaciones fiscales, es única y exclusivamente de quien suscribe el documento, y/o en su caso del titular de la Entidad a la cual representa.
 
 ###### ARTÍCULO 7º.
 
@@ -3254,3 +3272,23 @@ Los derechos del personal del Instituto Superior de Seguridad Pública del Estad
 ###### ARTÍCULO OCTAVO.
 
 Dentro del plazo de 180 días naturales contados a partir de la entrada en vigor del presente ordenamiento, el Ejecutivo del Estado deberá emitir las disposiciones administrativas correspondientes para regular y estructurar el Sistema de Atención a la Violencia Familiar y Género, previsto en el artículo 77 BIS fracción II de la presente ley.
+
+B.O. 24 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 42, QUE ADICIONA UN ARTÍCULO 6 BIS A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado dentro de los treinta días naturales, contados a partir de la entrada en vigor del presente decreto, expedirá el decreto de creación del Fideicomiso Público que se denominará FICOSEG, observando las disposiciones establecidas en la presente iniciativa.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Secretario de Hacienda para que, en representación del Gobierno del Estado, concurra ante la Institución Financiera que ofrezca las mejores condiciones del mercado, a efectos de que funja como fiduciaria, y se formalice la suscripción del contrato de fideicomiso correspondiente. En todo caso, éste cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije, en su caso al comité técnico en términos del segundo párrafo del artículo 47 y 47 BIS F de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+Los primeros representantes de los organismos del sector privado serán seleccionados por el del Comité Ciudadano de Seguridad Pública del Estado de Sonora, quien determinará la (sic) vigencias de esas designaciones por dos, tres y cuatro años por esa única vez, y los sustitutos de estos durarán cuatros (sic) años en su encargo.
