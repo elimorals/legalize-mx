@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2023-09-29"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -1115,7 +1115,9 @@ IV. Orientarlos respecto a la formación profesional, las oportunidades de emple
 
 V. Apoyar a quienes sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
 
-VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+VI. Prevenir el delito y las adicciones, mediante el diseño, ejecución de programas y campañas de información y concientización con carácter permanente sobre los daños que provoca el consumo de sustancias psicoactivas, alcohol y tabaco;
 
 VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de su interés;
 
@@ -2756,5 +2758,13 @@ P.O. 29 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0839.- SE REFORMA EL ARTÍCULO 88, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0188.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 54 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
