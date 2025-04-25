@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-consejo-potosino-de-ciencia-y-tecnologia-34231
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-30"
-last_updated: "2023-04-14"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -155,17 +155,27 @@ XXVI. Las demás que establezca el Reglamento de esta Ley.
 
 El Consejo Directivo, estará integrado por:
 
-I. Un Presidente, quien será el Gobernador del Estado, o la persona que el designe a través del nombramiento correspondiente;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-II. Un Secretario, que será el Director General del COPOCYT, y
+I. La Presidencia, quien será la persona titular del Poder Ejecutivo del Estado, o la persona que designe a través del nombramiento correspondiente;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+II. La Secretaría, que será la persona titular de la Dirección General del COPOCYT, y
 
 III. Diez vocales, los cuales serán:
 
-a) El Secretario de Educación Pública en el Estado, o su representante.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-b) El Secretario de Desarrollo Económico, o su representante.
+a) La persona titular de la Secretaría de Educación Pública en el Estado, o su representante.
 
-c) El Rector de la Universidad Autónoma de San Luis Potosí, o su representante.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+b) La persona titular de la Secretaría de Desarrollo Económico, o su representante.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+c) La persona titular de la Rectoría de la Universidad Autónoma de San Luis Potosí, o su representante.
 
 d) Un representante de los centros públicos de investigación en el Estado.
 
@@ -175,9 +185,13 @@ f) Un representante de las instituciones privadas de educación superior en el E
 
 g) Tres representantes de las cámaras y asociaciones del sector productivo más importante del Estado.
 
-Los representantes de las instituciones y organismos señalados en los incisos d), e), f) y g) serán elegidos por sus representados, a convocatoria del Director General del COPOCYT, y durarán en su cargo tres años.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-El Presidente, el Secretario y los vocales titulares, nombrarán a sus respectivos suplentes.
+Las personas representantes de las instituciones y organismos señalados en los incisos d), e), f) y g) serán elegidos por sus representados, a convocatoria de la persona titular de la Dirección General del COPOCYT, y durarán en su cargo tres años.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+La o el Presidente, la o el Secretario y las o los vocales titulares, nombrarán a sus respectivos suplentes.
 
 Todos estos cargos serán honoríficos, por lo que las personas que los desempeñen no devengarán compensación alguna.
 
@@ -421,9 +435,11 @@ Para el debido cumplimiento de sus atribuciones, el Contralor Interno se podrá 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
+
 ###### ARTICULO 20.
 
-Para su auxilio el Director General del COPOCYT, podrá contar con los directores de área siguientes:
+Para su auxilio la persona titular de la Dirección General del COPOCYT, podrá contar con las y los directores de área siguientes:
 
 I. De análisis y prospectiva;
 
@@ -439,47 +455,59 @@ VI. De asistencia jurídica y propiedad intelectual.
 
 Asimismo, podrá contar con tres coordinadores: de evaluación y seguimiento de proyectos; de sistemas de información y estadística; y de comunicación institucional y política editorial; y demás personal administrativo de apoyo.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 21.
 
-El Director de Análisis y Prospectiva apoyará a la Dirección General en la planeación, programación, presupuestación, ejecución y evaluación de las tareas relacionadas directamente con la gestión de los proyectos de investigación, desarrollo tecnológico e innovación, y las acciones de promoción científica, tecnológica y de innovación, vinculadas al Sistema Estatal de Investigadores.
+La persona titular de la Dirección de Análisis y Prospectiva apoyará a la Dirección General en la planeación, programación, presupuestación, ejecución y evaluación de las tareas relacionadas directamente con la gestión de los proyectos de investigación, desarrollo tecnológico e innovación, y las acciones de promoción científica, tecnológica y de innovación, vinculadas al Sistema Estatal de Investigadores.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 22.
 
-El Director de Vinculación y Divulgación apoyará al Director General en las acciones de vinculación con los sectores académico, productivo y social, con las instituciones, organismos y centros de investigación, así como con las instancias gubernamentales de los distintos órdenes de gobierno. Además apoyará las acciones relacionadas con los programas de divulgación científica y tecnológica.
+La persona titular de la Dirección de Vinculación y Divulgación apoyará al Director General en las acciones de vinculación con los sectores académico, productivo y social, con las instituciones, organismos y centros de investigación, así como con las instancias gubernamentales de los distintos órdenes de gobierno. Además apoyará las acciones relacionadas con los programas de divulgación científica y tecnológica.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 23.
 
-El Director de Intercambio y Becas auxiliará al Director General en la coordinación de las acciones, orientadas al intercambio y formación de los recursos humanos del sector de ciencia, tecnología e innovación, a través de la cooperación institucional con agencias, instancias de gobierno, fundaciones y otros organismos, de carácter nacional e internacional.
+La persona titular de la Dirección de Intercambio y Becas auxiliará al Director General en la coordinación de las acciones, orientadas al intercambio y formación de los recursos humanos del sector de ciencia, tecnología e innovación, a través de la cooperación institucional con agencias, instancias de gobierno, fundaciones y otros organismos, de carácter nacional e internacional.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 24.
 
-El Director de Administración y Finanzas se encargará de la adecuada administración del personal, y de los recursos financieros y materiales del organismo; realizará las demás funciones que las disposiciones legales le atribuyan, así como aquellas que le confiera el Director General.
+La persona titular de la Dirección de Administración y Finanzas se encargará de la adecuada administración del personal, y de los recursos financieros y materiales del organismo; realizará las demás funciones que las disposiciones legales le atribuyan, así como aquellas que le confiera el Director General.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 25.
 
-El Director de Capacitación y Asistencia Técnica brindará la preparación y apoyo técnico a las instancias de gobierno, de educación, del sector privado y social, y demás personas que lo soliciten, en materia de investigación científica y tecnológica.
+La persona titular de la Dirección de Capacitación y Asistencia Técnica brindará la preparación y apoyo técnico a las instancias de gobierno, de educación, del sector privado y social, y demás personas que lo soliciten, en materia de investigación científica y tecnológica.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 26.
 
-El Director de Asistencia Jurídica y Propiedad Intelectual auxiliará al Director General, en la elaboración de los instrumentos legales que regularán al COPOCYT, así como en la asesoría jurídica y promoción ante las instancias que correspondan, de los asuntos que le encomiende el Director General.
+La persona titular de la Dirección de Asistencia Jurídica y Propiedad Intelectual auxiliará a la Dirección General, en la elaboración de los instrumentos legales que regularán al COPOCYT, así como en la asesoría jurídica y promoción ante las instancias que correspondan, de los asuntos que le encomiende la persona titular de la Dirección General.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 27.
 
-El Coordinador de Evaluación y Seguimiento de Proyectos establecerá las metodologías y criterios técnicos, de evaluación y seguimiento de los proyectos de investigación apoyados a través de los diversos fondos que, para tal efecto, coordine el COPOCYT.
+La persona titular de la Coordinación de Evaluación y Seguimiento de Proyectos establecerá las metodologías y criterios técnicos, de evaluación y seguimiento de los proyectos de investigación apoyados a través de los diversos fondos que, para tal efecto, coordine el COPOCYT.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 28.
 
-El Coordinador de Sistemas de Información y Estadística se encargará de la operación y manejo, del Sistema Estatal de Información Científica y Tecnológica; siendo el responsable de garantizar el adecuado funcionamiento de todos los sistemas de comunicación, información, servicios de cómputo y telecomunicaciones, indispensables para el acceso público a la información relativa a los programas, proyectos y acciones del sector de ciencia, tecnología e innovación.
+La persona titular de la Coordinación de Sistemas de Información y Estadística se encargará de la operación y manejo, del Sistema Estatal de Información Científica y Tecnológica; siendo el responsable de garantizar el adecuado funcionamiento de todos los sistemas de comunicación, información, servicios de cómputo y telecomunicaciones, indispensables para el acceso público a la información relativa a los programas, proyectos y acciones del sector de ciencia, tecnología e innovación.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### ARTICULO 29.
 
-El Coordinador de Comunicación Institucional y Política Editorial tendrá a su cargo, dar a conocer a la sociedad los objetivos y alcances de los diversos programas a cargo del COPOCYT, y facilitar el acceso a la información sectorial proveniente de otras fuentes. Además, será el responsable de dar a conocer los avances, productos y eventos de los propios programas del organismo.
+La persona titular de la Coordinación de Comunicación Institucional y Política Editorial tendrá a su cargo, dar a conocer a la sociedad los objetivos y alcances de los diversos programas a cargo del COPOCYT, y facilitar el acceso a la información sectorial proveniente de otras fuentes. Además, será el responsable de dar a conocer los avances, productos y eventos de los propios programas del organismo.
 
 ###### ARTICULO 30.
 
@@ -570,3 +598,19 @@ P.O. 14 DE ABRIL DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0187.- SE REFORMAN DIVERSAS FRACCIONES E INCISOS DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0190.- SE REFORMAN LOS ARTÍCULOS 20, PÁRRAFO PRIMERO, 21, 22, 23, 24, 25, 26, 27, 28 Y 29, DE LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
