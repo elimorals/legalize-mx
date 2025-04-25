@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-04-14"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -47,15 +47,15 @@ Declaraciones.
 
 El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-En el Estado de Aguascalientes se fomentará el patrimonio cultural, la historia y la identidad local. Podrá contar con himno, escudo y bandera como símbolos propios, mismos que deberán ser respetados. Las leyes secundarias regularán lo correspondiente a sus características y usos.
+En el Estado de Aguascalientes se fomentará el patrimonio cultural, la historia y la identidad local, reconociendo la composición pluricultural de sus personas, el valor de sus fiestas, tradiciones y conocimientos que identifican a los grupos, pueblos y comunidades que integran su territorio, como un pilar fundamental de la convivencia social basada en las libertades de los seres humanos. Podrá contar con himno, escudo y bandera como símbolos de identidad cultural local, mismos que deberán respetar y no contravenir los símbolos nacionales. Las leyes secundarias regularán lo correspondiente a sus características y usos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### Artículo 2o.
 
-En el Estado de Aguascalientes el respeto a la dignidad humana es la base de los derechos humanos. Todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establece.
+En el Estado de Aguascalientes el respeto a la dignidad humana, la autonomía individual y la libertad constituyen principios jurídicos que permean en todo ordenamiento legal, pero también como un derecho fundamental que debe ser respetado en todo caso, cuya importancia resalta al ser la base y condición para el disfrute de los demás derechos y el desarrollo integral de la personalidad. Todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano sea parte, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y con las condiciones que la propia Constitución Federal establece.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
@@ -143,9 +143,9 @@ Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
+Toda persona tiene derecho al acceso a la cultura, al disfrute de los bienes y servicios que presta el Estado en la materia, al ejercicio de sus derechos culturales. El Estado tiene la obligación de respetar, proteger, promover y garantizar todas las expresiones culturales, sus fiestas, tradiciones y conocimientos que conviven en su territorio, siempre que no afecten la dignidad de las personas ni impliquen actos discriminatorios o contrarios a los derechos humanos. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para la protección de todas las manifestaciones culturales y para garantizar la libertad de acceso y participación en cualquiera de ellas, sin discriminación alguna. El Estado y los municipios promoverán el reconocimiento de sus patrimonios e identidades culturales en los términos que dispone esta Constitución.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
 
@@ -237,11 +237,11 @@ El Estado y los Municipios garantizarán el derecho de acceso libre a internet, 
 
 El Estado y los Municipios impulsarán la sociedad del conocimiento mediante la investigación científica y la innovación tecnológica, a través de los programas y políticas que desarrollen y ejecuten las autoridades en la materia, de acuerdo a las facultades y atribuciones que las leyes les otorguen.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### Artículo 7o.
 
-Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado. El Estado velará por la conservación y continuidad de las especies animales que son emblemáticas, representativas y que constituyen símbolos de la identidad de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
 
@@ -261,15 +261,23 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 
 A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía e impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2025)</small>
+
+La Feria Nacional de San Marcos es patrimonio cultural y pilar del desarrollo económico y social del Estado de Aguascalientes. Se declara de orden público e interés social la conservación, protección y fortalecimiento de las tradiciones que son históricamente emblemáticas como garantía del desarrollo económico del Estado y del bienestar de las personas involucradas en sus actividades. La ley establecerá los mecanismos para asegurar la sustentabilidad cultural, ambiental y económica que garantice esta tradición y los derechos de las personas involucradas en sus actividades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE ABRIL DE 2025)</small>
+
+La charrería y la tauromaquia en su usanza tradicional, como expresiones históricas y tradiciones culturales emblemáticas del Estado de Aguascalientes, serán promovidas, protegidas y difundidas como parte del patrimonio cultural inmaterial de la entidad y de la Feria Nacional de San Marcos, observando en todo momento el respeto a los derechos humanos, así como a la protección y bienestar animal, en los términos que dispongan las leyes aplicables. La ley establecerá los mecanismos para asegurar la sustentabilidad cultural, ambiental y económica que garantice esta tradición y los derechos de las personas involucradas en sus actividades.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
 
 La mejora regulatoria es una política de Estado obligatoria para todas las autoridades estatales y municipales en sus respectivos ámbitos de competencia, cuyo objetivo es elevar la competitividad y productividad, así como garantizar la obtención de beneficios superiores a sus costos, el máximo bienestar para la sociedad y la transparencia.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
 
 El Estado generará un registro estatal obligatorio que incluya todos los trámites y servicios actualizados de las autoridades públicas, con el objeto de generar certeza y seguridad jurídica, así como facilitar su cumplimiento mediante el uso de Tecnologías de la Información. La Ley regulará el Sistema Estatal de Mejora Regulatoria.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE ABRIL DE 2025)</small>
 
 Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Asimismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
 
@@ -4652,3 +4660,11 @@ Para efecto de lo anterior, la Secretaría de Administración del Estado, Secret
 ###### ARTÍCULO SÉPTIMO.
 
 Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 171.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+– Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
