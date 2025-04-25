@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2024-09-04"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -383,7 +383,9 @@ La Comisión Estatal del Agua está integrada por:
 
 I. La Junta de Gobierno;
 
-II. El Director General, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+II. La persona titular de la Dirección General, y
 
 III. El personal técnico y administrativo que requiera para su funcionamiento.
 
@@ -391,25 +393,39 @@ III. El personal técnico y administrativo que requiera para su funcionamiento.
 
 La Junta de Gobierno se integra con los siguientes miembros:
 
-I. El Gobernador del Estado, o el funcionario a quien éste designe, quien la presidirá;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+I. La persona titular del Poder Ejecutivo del Estado, o la o el funcionario a quien éste designe, la presidirá;
 
 II. Los siguientes funcionarios:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-a) El Secretario de Finanzas.
+a) La persona titular de la Secretaría de Finanzas.
 
-b) El Secretario de Ecología y Gestión Ambiental.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-c) El Secretario de Desarrollo Urbano, Vivienda y Obras Públicas.
+b) La persona titular de la Secretaría de Ecología y Gestión Ambiental.
 
-d) El Secretario de Desarrollo Agropecuario y Recursos Hidráulicos.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-e) El Secretario de Desarrollo Social y Regional;
+c) La persona titular de la Secretaría de Desarrollo Urbano, Vivienda y Obras Públicas.
 
-III. El Presidente del Consejo Técnico Consultivo, y
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-IV. El Presidente del Consejo Estatal Hídrico.
+d) La persona titular de la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+e) La persona titular de la Secretaría de Desarrollo Social y Regional;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+III. La persona titular de la Presidencia del Consejo Técnico Consultivo, y
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+IV. La persona titular de la Presidencia del Consejo Estatal Hídrico.
 
 Por cada integrante propietario se designará un suplente, con todas las atribuciones que corresponden al propietario.
 
@@ -829,9 +845,9 @@ Cuando así lo considere conveniente el Consejo Hídrico Estatal, podrá invitar
 
 Para la elección y designación de las personas que integrarán el Consejo Hídrico Estatal, el Congreso del Estado, a través de la Comisión del Agua, emitirá convocatoria pública en el primer periodo ordinario en que se instale cada legislatura.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-La convocatoria deberá exhortar a las organizaciones, asociaciones, instituciones y público en general, involucrados en el tema hídrico, a participar en el procedimiento de elección; dicha convocatoria deberá reflejar de forma clara y precisa los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas señaladas, para, en su caso, integrarse el Consejo Hídrico Estatal.
+La convocatoria deberá exhortar a las organizaciones, asociaciones, instituciones y público en general, involucrados en el tema hídrico, a participar en el procedimiento de elección; dicha convocatoria deberá reflejar de forma clara y precisa los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de paridad de género, legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas señaladas, para, en su caso, integrarse el Consejo Hídrico Estatal.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -3872,3 +3888,19 @@ P.O. 4 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0189.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 33 DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0191.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 9°; LA FRACCIÓN I, LOS INCISOS A), B), C), D) Y E) DE LA FRACCIÓN II, III Y IV DEL ARTÍCULO 10, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
