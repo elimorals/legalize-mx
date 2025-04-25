@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-y-defensa-de-los-derechos-de-ninas-10742
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2025-04-11"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -1091,6 +1091,32 @@ El Sistema y los Sistemas Municipales deberán observa (sic) los procedimientos 
 
 El Sistema y los Sistemas Municipales, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior o voluntad.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+Artículo 84 BIS. Las garantías de debido proceso que se deberán aplicar en los procesos migratorios que involucran a niñas, niños y adolescentes son las siguientes:
+
+I. El derecho a que les sea notificada la existencia de un procedimiento y de la decisión que se adopte en el marco del proceso migratorio;
+
+II. El derecho a que sean informados de sus derechos;
+
+III. El derecho a que los procesos migratorios sean llevados por una persona funcionaria especializada;
+
+IV. El derecho de la niña, niño y adolescente a ser escuchado y a participar en las diferentes etapas procesales;
+
+V. El derecho a ser asistido gratuitamente por una persona traductora y/o intérprete;
+
+VI. El acceso efectivo a la comunicación y asistencia consular;
+
+VII. El derecho a ser asistido por una persona abogada y a comunicarse libremente con ella;
+
+VIII. El derecho, en su caso, a la representación en suplencia;
+
+IX. El derecho a que la decisión que se adopte evalúe el interés superior de la niña, niño y adolescente, y esté debidamente fundamentada;
+
+X. El derecho a recurrir la decisión ante la autoridad jurisdiccional competente; y,
+
+XI. El derecho a conocer la duración del procedimiento que se llevará a cabo, mismo que deberá seguir el principio de celeridad.
+
 ###### Artículo 85.
 
 Para garantizar la protección integral de los derechos, el Sistema y los Sistemas Municipales habilitarán espacios de alojamiento o albergues para recibir a niñas, niños y adolescentes migrantes. Asimismo, acordarán los estándares mínimos para que los espacios de alojamiento o albergues brinden la atención adecuada a niñas, niños y adolescentes migrantes.
@@ -2044,3 +2070,9 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 76 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 88 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 84 BIS A LA LEY PARA LA PROTECCIÓN Y DEFENSA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
