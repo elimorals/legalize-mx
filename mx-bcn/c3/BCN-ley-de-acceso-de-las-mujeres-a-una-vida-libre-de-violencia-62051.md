@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2025-02-07"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -237,13 +237,17 @@ XXV. Interculturalidad: El enfoque intercultural parte del reconocimiento y resp
 
 Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-XXVI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto (sic) pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas; y,
+XXVI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto (sic) pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-XXVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
+XXVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2025)</small>
+
+XXVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -285,13 +289,13 @@ III. Violencia Patrimonial.- Es cualquier acto u omisión que afecta el desarrol
 
 IV. Violencia Económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física, incluyéndose la exhibición del cuerpo de la mujer en imágenes privadas o comerciales que inciten a realizar actividades de índole sexual. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+V. Violencia Sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física, incluyéndose la exhibición del cuerpo de la mujer en imágenes privadas o comerciales que inciten a realizar actividades de índole sexual. Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante la apropiación del cuerpo y procesos reproductivos de las mujeres que se expresa en un trato deshumanizador, omisión de atención oportuna y eficaz, abuso de medicalización y patologización de los procesos naturales, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, o cualquier otra que tenga como resultado la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad, impactando la calidad de vida de las mujeres;
+VI. Violencia Obstétrica.- Toda conducta, acción u omisión que ejerza el personal de salud o personal administrativo de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto o puerperio, mediante la apropiación del cuerpo y procesos reproductivos de las mujeres que se expresa en un trato deshumanizador, omisión de atención oportuna y eficaz, abuso de medicalización y patologización de los procesos naturales, prácticas sin consentimiento como esterilización o realizar cesárea sin motivo, o cualquier otra que tenga como resultado la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad, impactando la calidad de vida de las mujeres;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -541,11 +545,17 @@ Incurrirán en responsabilidad administrativa los servidores públicos del Gobie
 
 Violencia en la comunidad: Se entiende por violencia en la comunidad, los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+###### Artículo 15 Bis.
+
+Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos, cuya acción representa una vulneración a los derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2025)</small>
 
 ###### Artículo 16.
 
-El Gobierno del Estado y los Municipales, en tanto no se erradique la violencia en la comunidad, en perjuicio de las mujeres, establecerán las siguientes estrategias:
+El Gobierno del Estado y sus Municipios deben garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
 
 I. Obtendrán la percepción individual y como grupo de las mujeres, del posible estado de riesgo en que se encuentran, en una sociedad que discrimina;
 
@@ -565,13 +575,17 @@ IV. Impulsarán la cultura jurídica, de legalidad y de denuncia de actos violen
 
 V. El establecimiento de un registro en la Base Estatal de las órdenes de protección que se emitan por las autoridades competentes para la protección de las mujeres y de personas sujetas a ellas, para brindar el adecuado seguimiento;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-VI. La implementación de acciones en materia de prevención y seguridad pública a favor de las mujeres; y,
+VI. La implementación de acciones en materia de prevención y seguridad pública a favor de las mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-VII. La reeducación que eliminé estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia, la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria.
+VII. La reeducación que eliminé estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia, la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2025)</small>
+
+VIII. El diseño e implementación de políticas y programas dirigidos a promover y desarrollar espacios y transportes públicos seguros y libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -2014,3 +2028,15 @@ P.O. 7 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 39 MEDIANTE EL CUAL SE CREA LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, SE REFORMA EL ARTÍCULO 33 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, Y SE REFORMA EL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO-. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 85 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 86 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
