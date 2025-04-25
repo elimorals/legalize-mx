@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2025-02-14"
+last_updated: "2025-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -753,9 +753,17 @@ a) Las personas que aparezcan inscritas en el Registro de Deudores Alimentarios 
 
 b) Las personas condenadas por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo;
 
-c) Las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; y
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
-d) Las personas que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género.
+c) Las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género;
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+d) Las personas que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2025)</small>
+
+e) Las personas obligadas y que derivado de su empleo o cargo de mando dentro del servicio público, incumplan con la aplicación del principio de paridad de género.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -1398,6 +1406,10 @@ VIII. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del E
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
 IX. No haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+X. No haber incurrido en el incumplimiento de la aplicación del principio de paridad de género.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
@@ -2499,15 +2511,17 @@ II. Ser originario o vecino de la municipalidad en que se elija cuando menos con
 
 Para éste efecto, la vecindad no se pierde por ausencia en el desempeño de cualquier cargo de elección popular o de designación en los poderes Legislativo, Ejecutivo o Judicial;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-III. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección; y
+III. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección;
 
-> <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO], P.O. 19 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
-IV. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora; no haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo.
+IV. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora; no haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo; y
 
-No podrán ser electas para estos cargos, como propietarias o suplentes, las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; o que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por dichas autoridades por cometer violencia política contra las mujeres en razón de género.
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2025)</small>
+
+V. No haber incurrido en el incumplimiento de la aplicación del principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4862,3 +4876,11 @@ P.O. 14 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. En un plazo de 120 días naturales el Congreso del Estado deberá armonizar el marco jurídico correspondiente a la materia para adecuarlo al contenido del presente Decreto a partir de la entrada en vigor del mismo.
+
+P.O. 25 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 72 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
