@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2023-09-23"
+last_updated: "2025-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -601,9 +601,17 @@ III. Gozar de buena reputación en la sociedad civil por su reconocida probidad,
 
 IV. No haber desempeñado algún cargo dentro de la administración pública federal, estatal o municipal durante los dos últimos años anteriores al día de la designación;
 
-V. No haber sido condenado o condenada por delito intencional; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2025)</small>
 
-VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos.
+V. No haber sido condenado o condenada por delito intencional:
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2025)</small>
+
+VI. No haber resultado responsable por violaciones a los derechos humanos en algunas de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos; y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2025)</small>
+
+VII. No estar inscrito en el Registro de Deudores Alimentarios Morosos y tampoco en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1352,3 +1360,13 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Las Direcciones que se crean operarán con los recursos asignados a las Direcciones extinguidas, sin afectar el presupuesto ya asignado.
 
 CUARTO. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca contará con un plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto, para adecuar el reglamento de la Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
+
+P.O. 26 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 636.- MEDIANTE EL CUAL REFORMA LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 77 (SIC) SÉPTIES DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
