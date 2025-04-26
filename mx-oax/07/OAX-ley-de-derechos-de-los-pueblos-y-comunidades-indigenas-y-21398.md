@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-21398"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-19"
-last_updated: "2023-01-28"
+last_updated: "2025-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 28 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 26 DE ABRIL DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 19 de junio de 1998.
 
@@ -301,6 +301,10 @@ El Estado de Oaxaca reconoce la existencia de sistemas normativos internos de lo
 
 El Estado de Oaxaca reconoce la validez de las normas internas de los pueblos y comunidades indígenas y afromexicanas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria, organización sociopolítica y en general de la prevención y solución de conflictos al interior de cada comunidad, siempre que no vulneren los derechos humanos; garantizando una cultura de participación ciudadana, compromiso con la democracia, tolerancia, interculturalidad e igualdad de género a través de acciones, planes y programas de formación política y liderazgo, que faciliten la integración de las mujeres a las actividades políticas de la comunidad, el Municipio y el Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2025)</small>
+
+Los pueblos y comunidades regidas por sistemas normativos indígenas deberán garantizar la inclusión de mujeres en los procesos de designación para los cargos comunitarios y de toma de decisiones, promoviendo la igualdad de género como un principio armonizado con los derechos colectivos. La exclusión de mujeres en dichos procesos será considerada una práctica contraria al respeto a los derechos humanos y al principio de no discriminación.
+
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 30.
@@ -455,11 +459,11 @@ En caso de controversias entre autoridades municipales y comunitarias, y hombres
 
 El Estado reconoce las diversas formas de organización de las familias indígenas y afromexicanas.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2025)</small>
 
 ###### Artículo 46.
 
-El Estado promoverá, en el marco de las prácticas tradicionales de los pueblos y comunidades indígenas y afromexicanas, la participación plena de las mujeres en la vida política, económica, social y cultural, en condiciones de igualdad, que tiendan a lograr su realización, su superación, así como el reconocimiento y el respeto a su dignidad.
+El Estado promoverá, en el marco de las prácticas tradicionales de los pueblos y comunidades indígenas y afromexicanas, la participación plena y efectiva de las mujeres en la vida política, económica, social y cultural, en condiciones de igualdad, indistintamente de su estado civil, circunstancia social, religión, las opiniones, las preferencias sexuales o cualquier otra, que tiendan a lograr su realización, su superación, así como el reconocimiento y el respeto a su dignidad.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -742,3 +746,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 26 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 648.- MEDIANTE EL CUAL REFORMA LOS ARTÍCULOS 29 Y 46 DE LA LEY DE DERECHOS DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANO DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación n (sic) el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
