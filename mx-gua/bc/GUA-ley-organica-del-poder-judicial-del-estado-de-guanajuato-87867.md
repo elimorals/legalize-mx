@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2023-11-20"
+last_updated: "2025-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -1487,6 +1487,16 @@ III. Juzgados laborales; y
 
 IV. Juzgados mixtos.
 
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2025)</small>
+
+V. Juzgados mixtos especializados en violencia contra las mujeres.
+
+Los juzgados especializados en violencia contra las mujeres tendrán competencia mixta, conocerán de las materias penal y familiar, con las facultades y atribuciones que establece la presente Ley.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN V, P.O. 28 DE ABRIL DE 2025.]</small>
+
+Los juzgados especializados en violencia contra las mujeres estarán integrados con el número de personas juzgadoras penales y civiles especializadas en materia familiar y demás personal que determine el Consejo del Poder Judicial.
+
 El Consejo del Poder Judicial, podrá determinar que los juzgados civiles se avoquen a conocer exclusivamente de asuntos mercantiles o familiares.
 
 El Consejo del Poder Judicial podrá determinar que los juzgados penales conozcan de los delitos contra la salud en su modalidad de narcomenudeo.
@@ -1839,9 +1849,39 @@ XIX. Recibir e instruir los recursos de apelación que se interpongan en contra 
 
 XX. Las demás que le asignen las leyes o reglamentos.
 
-#### Sección Única. Jueces Menores
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE ABRIL DE 2025)</small>
 
-Designación
+#### Sección Tercera. Jueces Especializados en Violencia Contra las Mujeres
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2025)</small>
+
+###### Artículo 116
+
+Bis. Son atribuciones de los juzgados mixtos especializados en violencia contra las mujeres, las siguientes:
+
+I. En materia penal, conocer del procedimiento penal del sistema acusatorio y oral, respecto de los siguientes delitos contenidos en el Código Penal del Estado de Guanajuato:
+
+a) Delitos contra la vida y la salud personal;
+
+b) Delitos contra la libertad y seguridad de las personas;
+
+c) Delitos contra la libertad sexual; y
+
+c) Delitos contra la familia;
+
+II. En materia penal, resolver sobre las medidas cautelares, providencias precautorias u órdenes de protección de conformidad con el Código Nacional de Procedimientos Penales, así como cualquier medida tendiente a proteger los derechos de las mujeres víctimas de violencia, por cualquiera de los delitos señalados en la fracción I de este artículo, cometidos en su contra; y
+
+III. En materia civil especializada en oralidad familiar, siempre que los actos de violencia sean cometidos en el ámbito familiar contra la mujer con la que el agresor tenga o haya tenido una relación de pareja, de matrimonio, de concubinato, o de pareja de hecho; o bien sea pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo, o por afinidad hasta el cuarto grado, así como contra el adoptante, adoptado o adoptada; y de igual forma, en contra de cualquier otra mujer o, en su caso, de sus hijos e hijas que estén sujetos a la custodia, guarda, protección, educación o cuidado del presunto agresor o probable responsable:
+
+a) Decretar provisionalmente alimentos, guarda y custodia, separación o depósito de personas y régimen de convivencia entre padre o tutor no custodio y las hijas o hijos;
+
+b) Conocer y resolver de las medidas preparatorias, de aseguramiento y precautorias previstas en la legislación procesal civil;
+
+c) Conocer y resolver de los juicios en lo principal relacionados con las providencias y medidas previstos en la legislación procesal civil;
+
+d) Emitir, controlar, evaluar y dar seguimiento a las órdenes de protección en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Guanajuato; y
+
+e) Dictar las medidas cautelares o de protección que reclamen por su propio derecho las mujeres víctimas de violencia o, en representación de sus hijos e hijas.
 
 ### Capítulo XIV. Juzgados Menores
 
@@ -1880,6 +1920,10 @@ II. Secretarios de acuerdos;
 III. Secretarios proyectistas; y
 
 IV. Los actuarios y demás personal de apoyo que determine el Consejo del Poder Judicial.
+
+#### Sección Única. Jueces Menores
+
+Designación
 
 ###### Artículo 120.
 
@@ -4012,3 +4056,17 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 235, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE ABRIL DE 2025.
+
+[N. DE E TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 64, QUE EXPIDE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Consejo del Poder Judicial creará, mediante acuerdo, los juzgados mixtos especializados en violencia contra las mujeres a que se refiere el presente Decreto y determinará las regiones en las que entrarán en funciones, asimismo establecerá su número y las medidas necesarias para su operación.
+
+Artículo Tercero. Los asuntos a que se refiere el presente Decreto, que se encuentre en trámite ante los juzgados penales o civiles a la entrada en vigor del mismo, continuarán substanciándose ante el juzgado en que se promovieron.
+
+Artículo Cuarto. El Poder Judicial solicitará al Poder Ejecutivo la suficiencia presupuestal necesaria para la creación y funcionamiento de los juzgados mixtos especializados en violencia contra las mujeres, a que se refiere el presente Decreto.
+
+Artículo Quinto. Los juzgados especializados en violencia contra las mujeres conocerán los asuntos a que se refiere el presente Decreto de conformidad a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Guanajuato, en tanto entra en vigor el Código Nacional de Procedimientos Civiles y Familiares.
