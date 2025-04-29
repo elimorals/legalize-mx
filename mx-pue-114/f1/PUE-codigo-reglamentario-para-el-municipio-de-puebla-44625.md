@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3079,13 +3079,25 @@ X. Justicia Cívica. Conjunto de procedimientos e instrumentos de Buen Gobierno 
 
 XI. Justicia Restaurativa. Herramienta que permite crear condiciones que favorezca la participación de los vecinos, víctimas u ofendidos, ofensores y a la comunidad en general como grupo en la solución del conflicto, la reparación del daño y la reintegración del tejido social;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XII. Mediación. Es el procedimiento en el cual dos o más personas que tienen un problema en común, solicitan el apoyo de un tercero que facilita la comunicación entre ellos, para que, de manera pacífica y equitativa, lleguen a un acuerdo satisfactorio para ambas partes. El mediador conduce a las partes a que de ellas surja la decisión; y
+XII. Mediación. Es el procedimiento en el cual dos o más personas que tienen un problema en común, solicitan el apoyo de un tercero que facilita la comunicación entre ellos, para que, de manera pacífica y equitativa, lleguen a un acuerdo satisfactorio para ambas partes. El mediador conduce a las partes a que de ellas surja la decisión;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XIII. Perspectiva de género. Es el instrumento o método jurídico de análisis en la aplicación de la justicia cívica por la Jueza o Juez de Justicia Cívica al constatar la existencia de una relación desequilibrada de poder, identificando a la persona que se encuentra en situación de desigualdad por razón de género y valorar la posible adopción de medidas especiales de protección.
+XIII. Perspectiva de género. Es el instrumento o método jurídico de análisis en la aplicación de la justicia cívica por la Jueza o Juez de Justicia Cívica al constatar la existencia de una relación desequilibrada de poder, identificando a la persona que se encuentra en situación de desigualdad por razón de género y valorar la posible adopción de medidas especiales de protección;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XIV. Autoridad Administrativa: A las juezas y jueces adscritos a la Dirección de Juzgados de Justicia Cívica de la Sindicatura Municipal del Honorable Ayuntamiento del Municipio de Puebla;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XV. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se interceptan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XVI. Medidas u órdenes de protección administrativas. A los actos de urgente aplicación, en función del interés superior de la víctima; son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas y niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -3765,13 +3777,21 @@ XV. Proponer a la o el Presidente Municipal los nombramientos, adscripción y re
 
 XVI. Celebrar convenios con instituciones públicas y privadas para lograr la canalización de personas infractoras a efecto de realizar el trabajo a favor de la comunidad;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XVII. Dotar a los Juzgados de Justicia Cívica del personal suficiente para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal; y
+XVII. Dotar a los Juzgados de Justicia Cívica del personal suficiente para el desempeño de sus funciones, de conformidad con la disponibilidad presupuestal;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
 
-XVIII. Las demás facultades que le confiera el presente Capítulo; así como las que le encomiende el Ayuntamiento y la o el Presidente Municipal.
+XVIII. Coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres, implementado (sic) Medidas u Órdenes de Protección administrativas a través de los Jueces y Juezas de Justicia Cívica, que permitan salvaguardar la integridad de las mujeres, adolescentes, niñas y niños en situación de violencia;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XIX. Procurar la capacitación al personal policial y a las personas servidoras públicas de la Sindicatura Municipal respecto de la metodología y pautas de actuación interinstitucional para la emisión de medidas u órdenes de protección administrativas, con enfoque de derechos humanos, perspectiva de género e interseccionalidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XX. Las demás facultades que le confiera el presente Capítulo; así como las que le encomiende el Ayuntamiento y la o el Presidente Municipal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -3831,13 +3851,25 @@ XII. Cuidar y vigilar que se respeten las garantías y los derechos humanos, en 
 
 XIII. Habilitar al personal para suplir las ausencias de la o el Juez y del personal siempre y cuando el cargo y los conocimientos a desempeñar lo permitan;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XIV. Proponer al Síndico la creación y apertura de Juzgados, dependiendo de las necesidades que se tengan en el Municipio, así como las normas y criterios para mejorar el funcionamiento de la Justicia Municipal; y
+XIV. Proponer al Síndico la creación y apertura de Juzgados, dependiendo de las necesidades que se tengan en el Municipio, así como las normas y criterios para mejorar el funcionamiento de la Justicia Municipal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
 
-XV. Las demás funciones que le confiera el presente Código y otras disposiciones legales aplicables.
+XV. Coordinar la implementación de las Medidas u Órdenes de Protección administrativas a través de los Jueces y Juezas de Justicia Cívica conforme a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en el protocolo correspondiente;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XVI. Informar a la persona Titular de la Sindicatura Municipal, el seguimiento de las Medidas u Órdenes de Protección administrativas implementadas;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XVII. Proponer a la persona Titular de la Sindicatura Municipal, las capacitaciones en relación a la metodología y pautas de actuación interinstitucional con enfoque de derechos humanos, perspectiva de género e interseccionalidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XVIII. Las demás funciones que le confiera el presente Código y otras disposiciones legales aplicables;
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -4083,13 +4115,41 @@ XX. (DEROGADA, P.O. 16 DE OCTUBRE DE 2024)
 
 XXI. Custodiar y devolver todos los objetos y valores que depositen las y los probables infractores;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XXII. En función de la competencia que corresponda, canalizar a la Dirección de Asuntos Internos, los casos de maltrato o abuso por parte de los elementos de seguridad pública a las posibles personas infractoras; y
+XXII. En función de la competencia que corresponda, canalizar a la Dirección de Asuntos Internos, los casos de maltrato o abuso por parte de los elementos de seguridad pública a las posibles personas infractoras;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
 
-XXIII. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos.
+XXIII. Emitir las medidas u órdenes de protección que considere necesarias para salvaguardar la integridad física y psicológica de las mujeres, adolescentes, niñas y niños víctimas de violencia, cuya vigencia será hasta por un término de 72 horas conforme a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en el Protocolo correspondiente. Para tal fin, con apoyo de la o el Secretario del Juzgado se deberán redactar las actas correspondientes sobre las medidas u órdenes de protección decretadas, contando las personas juzgadoras con fe pública para realizar cualquier acto relacionado con la emisión de dichas medidas u órdenes de protección;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXIV. Informar el seguimiento de las Medidas u Órdenes de Protección administrativas implementadas a la Persona Titular de la Dirección de Juzgados de Justicia Cívica;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXV. Notificar las Medidas u Órdenes de Protección administrativas a persona agresora e instancias y dependencias que correspondan, para lo cual podrá solicitar el auxilio y acompañamiento del personal policial;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXVI. Informar a la parte agresora el contenido de las Medidas u Órdenes de Protección administrativas que se hayan dictado a favor de la víctima, así como las faltas administrativas o delitos en que puede incurrir;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXVII. Notificar las Medidas u Órdenes de Protección administrativas a la autoridad judicial en un término no mayor a 24 horas a efecto de que ratifique, modifique o revoque y en su caso den seguimiento a la misma;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXVIII. Mantener contacto directo con la persona víctima de violencia a fin de brindarle la información correspondiente a la remisión de las actuaciones realizadas ante la autoridad jurisdiccional competente; y
+
+> <small>[N. DE E. ESTA FRACCIÓN ES SIMILAR AL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO, P.O. 29 DE ABRIL DE 2025.]</small>
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XXIX. Las demás atribuciones que le confieran este Reglamento y otros ordenamientos. Las y los Jueces de Justicia Cívica Itinerante, además de lo anterior, se encontrarán facultados para ejecutar recorridos estacionarios, móviles y mixtos en la jurisdicción municipal a efecto de llevar la Justicia Cívica a lugares donde se dificulte asistir a un Juzgado;
+
+> <small>[N. DE E. ESTE PÁRRAFO ES SIMILAR A LA FRACCIÓN XXIX DEL PRESENTE ARTÍCULO, P.O. 29 DE ABRIL DE 2025.]</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2021)</small>
 
@@ -41494,3 +41554,13 @@ P.O. 31 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Dictamen entrará en vigor el primero de enero de dos mil veinticinco.
 
 SEGUNDO. Se deroga toda disposición que se oponga al presente Dictamen.
+
+P.O. 29 DE ABRIL DE 2025.
+
+[N. DE E TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE ABRIL DE 2025, QUE APRUEBA EL DICTAMEN PRESENTADO POR LAS Y LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN, POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 9 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, EN ARMONIZACIÓN A LA EMISIÓN DE MEDIDAS U ÓRDENES DE PROTECCIÓN DE NATURALEZA ADMINISTRATIVA ESTABLECIDA EN LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO. La presente reforma entrará en vigor, a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Sindicatura Municipal en un lapso de 90 días naturales, contados a partir de la entrada en vigor del presente Dictamen actualizarán la normatividad administrativa que instrumenta las acciones, estrategias y lineamientos bajo los cuales se regirá la Justicia Cívica de conformidad con la presente reforma.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
