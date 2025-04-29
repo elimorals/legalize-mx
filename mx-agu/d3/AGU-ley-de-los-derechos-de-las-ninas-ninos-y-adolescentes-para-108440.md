@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-12-16"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -183,6 +183,10 @@ XX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 XXI. Órgano Jurisdiccional: Los juzgados o tribunales del Estado de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXI Bis. Perspectiva de Género: A la visión científica, analítica y política sobre las mujeres y los hombres en que se propone la eliminación de las causas de aprensión de género como la desigualdad, injusticia y jerarquización de las personas basada en el género; promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en la cual, las mujeres y los hombres tengan el mismo valor, igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
 
 XXII. Primera Infancia: Periodo de vida de crecimiento y desarrollo, comprendido desde los 0 a los 5 años de edad;
@@ -295,13 +299,17 @@ XIII. El acceso a una vida libre de violencia;
 
 XIV. La accesibilidad;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XV. La unidad familiar; y
+XV. La unidad familiar;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XVI. El derecho al adecuado desarrollo evolutivo de la personalidad.
+XVI. El derecho al adecuado desarrollo evolutivo de la personalidad; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XVII. La perspectiva de género.
 
 El interés superior es el principio rector, en virtud del cual el Estado debe tomar las decisiones y realizar las actuaciones para la protección de los derechos de niñas, niños y adolescentes, en cuyo caso quien ejerza la patria potestad, tutela, guarda y custodia, tendrán el derecho de acceder a la información integral de dichas decisiones y actuaciones.
 
@@ -1167,9 +1175,11 @@ Son niñas, niños o adolescentes con discapacidad los que por razón congénita
 
 Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 54.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y acciones afirmativas en términos de las disposiciones aplicables considerando la perspectiva de género, los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
 
 La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
 
@@ -1299,11 +1309,17 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos; e
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
 
 ###### Artículo 59.
 
@@ -3278,6 +3294,22 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 P.O. 16 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 38.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 141.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 142.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
