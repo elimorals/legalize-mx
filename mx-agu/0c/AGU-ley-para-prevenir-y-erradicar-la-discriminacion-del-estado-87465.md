@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2024-09-23"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -75,9 +75,9 @@ I. Impedir el acceso a la educación pública o privada, así como becas e incen
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la equidad o que difundan o induzcan una condición de subordinación;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-III. Prohibir o negar el libre acceso, permanencia o ascenso al empleo por preferencia religiosa, sexual, identidad, filiación política o los antecedentes penales, en los términos previstos en las leyes aplicables. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
+III. Prohibir o negar el libre acceso, permanencia o ascenso al empleo por preferencia religiosa, sexual, identidad, filiación política o los antecedentes penales, en los términos previstos en las leyes aplicables, así como la poca experiencia en el ámbito laboral debido a la edad de la persona. En el caso de las mujeres, condicionar las oportunidades referidas a la realización en cualquier momento de pruebas de gravidez o embarazo;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -498,3 +498,11 @@ P.O. 23 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 134.- SE REFORMA LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
