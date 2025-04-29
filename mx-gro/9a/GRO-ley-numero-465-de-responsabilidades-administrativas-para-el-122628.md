@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-465-de-responsabilidades-administrativas-para-el-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2020-11-27"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -606,6 +606,14 @@ Para efectos de la fracción anterior, los servidores públicos que denuncien un
 ###### Artículo 64 Bis.
 
 Serán responsables el, la o los servidores públicos que obstruyan, impidan o se nieguen a realizar el proceso de entrega recepción, así como ocultar o no proporcionar la información correspondiente señalada en la Ley número 213 de Entrega Recepción de las Administraciones Públicas del Estado y Municipios de Guerrero.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 64 Ter.
+
+Incurrirán en falta administrativa grave las personas servidoras públicas que, estando obligada (sic) a ello, omitan enterar las aportaciones de seguridad social que hayan sido retenidas a las personas trabajadoras al servicio del Estado, en los términos y condiciones establecidos por las leyes laborales y de seguridad social aplicables.
+
+Lo anterior será sancionado conforme a lo dispuesto en la presente Ley, sin prejuicio (sic) de las responsabilidades civiles o penales que, en su caso, procedan conforme a las disposiciones legales correspondientes.
 
 ### Capítulo III. Actos de particulares vinculados con faltas administrativas graves
 
@@ -1866,3 +1874,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase al titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
 
 TERCERO. Publíquese en la página oficial y en la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 216 POR EL QUE SE ADICIONA EL ARTÍCULO 64 TER DE LA LEY NÚMERO 465 DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
