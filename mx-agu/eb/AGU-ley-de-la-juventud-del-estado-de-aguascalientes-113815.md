@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2025-01-06"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -217,13 +217,17 @@ XII. Impulsar la cultura de la libre información en los Jóvenes que sea útil 
 
 XIII. Promover la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XIV. Promover la inclusión de los jóvenes en los proyectos de labor social y comunitaria; y
+XIV. Promover la inclusión de los jóvenes en los proyectos de labor social y comunitaria;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
 
-XV. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+XV. Generar en conjunto con las autoridades en materia electoral, mecanismos y programas que favorezcan la participación de las juventudes en la vida democrática del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XVI. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -554,3 +558,11 @@ El presente decreto iniciara su vigencia a partir del día siguiente al de su pu
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo Estatal de la Juventud dispondrá de un término de 60 días naturales contados a partir del inicio de vigencia de este Decreto, para realizar las armonizaciones correspondientes en su Reglamento.”
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 149.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
