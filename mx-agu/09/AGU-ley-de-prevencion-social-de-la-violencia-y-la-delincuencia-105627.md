@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1056
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-30"
-last_updated: "2024-01-22"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
 
@@ -163,7 +163,11 @@ Artículo 7 B.- La prevención en el ámbito comunitario pretende atender los fa
 
 I. La participación ciudadana y comunitaria en acciones que establezcan las prioridades de la prevención, mediante diagnósticos participativos, el mejoramiento de las condiciones de seguridad en su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los métodos alternos para la solución de conflictos;
 
-II. El mejoramiento del acceso de la comunidad a los servicios básicos;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+II. El mejoramiento del acceso de la comunidad a los servicios básicos, para lo cual habrá permanente coordinación, fomentando los convenios de colaboración entre las Presidencias Municipales y Centro Estatal.
+
+Para cumplimiento de lo anterior, se hará la coordinación transversal Internamente entre las secretarías y direcciones municipales, según sea el caso, de Seguridad Pública, Desarrollo Urbano o cualquier servicio público que garantice la mejora de la seguridad pública de las colonias, fraccionamientos y comunidades, de igual manera, tanto las Presidencias Municipales como el Centro Estatal, podrán fomentar convenios de colaboración con la Secretaría de Salud, para atender salud pública y salud mental en la comunidad, de conformidad a lo establecido en la presente Ley;
 
 III. El Fomento del desarrollo comunitario; la convivencia y la cohesión social entre las comunidades frente a problemas locales;
 
@@ -439,17 +443,83 @@ La Participación Ciudadana y Comunitaria, organizada o no organizada en materia
 
 La Participación Ciudadana y Comunitaria tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención social del delito, la cultura de la legalidad, la solución de conflictos a través del diálogo, la protección o autoprotección del delito, la denuncia ciudadana y en general, cualquier actividad que se relacione con la seguridad pública, a fin de sensibilizar a la ciudadanía sobre la importancia de colaborar con las autoridades, de manera individual u organizada, para el cumplimiento del objeto de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 22.
 
-Se promoverá la participación de la ciudadanía a través de los Consejos Estatal y Municipales de Consulta y Participación Ciudadana, trabajando de manera coordinada, con absoluto apego a lo establecido en la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, y en las demás leyes aplicables.
+La participación comunitaria en la prevención de las violencias y la delincuencia es un derecho de las personas residentes en el Estado.
+
+Bajo el principio de subsidiariedad, corresponde en primer lugar a los Municipios, la obligación de la promoción y constitución de los comités de participación comunitaria, con independencia si el Municipio está integrado al esquema de mando coordinado, éste podrá llevar a cabo convenios de colaboración con el Estado, para que éste último cumpla con la obligación anteriormente referida.
+
+Se promoverá la participación de la ciudadanía a través de los comités de participación comunitaria, los cuales son agrupaciones de ciudadanos con intereses compartidos en la prevención de la violencia y la delincuencia en una zona o lugar específico, por proximidad geográfica o vecindad.
+
+Asimismo, se promoverán acciones de participación ciudadana por los Consejos Estatal y Municipales de Consulta y Participación Ciudadana, trabajando de manera coordinada, con absoluto apego a lo establecido en la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, y en las demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 22 Bis.
+
+El objeto de los Comités de participación comunitaria es coadyuvar en la función pública, a través de la promoción, fomento, difusión, discusión, análisis y evaluación de aspectos vinculados con la prevención del delito y la violencia, la cultura de la legalidad, la solución de conflictos a través del diálogo, la mediación, la protección o autoprotección del delito, la denuncia ciudadana y cualquier actividad que se relacione con la seguridad pública.
+
+La información, experiencias y demás información generada a partir de los Comités de participación comunitaria, serán recopiladas por el Centro Estatal así como por las Presidencias Municipales, así mismo, las Presidencias Municipales y el Centro Estatal llevarán un tablero de control que permita evaluar los resultados y avances obtenidos de los Comités.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 23.
 
-El Centro Estatal, promoverá la organización ciudadana por medio de redes vecinales, escolares, gremiales y profesionales, así como organizaciones para la prevención social de la violencia y la delincuencia para asegurar la participación activa de la comunidad en la planificación, gestión, evaluación y supervisión de las políticas de prevención social del delito.
+Les corresponde a las Presidencias Municipales y al Centro Estatal, la promoción y constitución de los comités de participación comunitaria, como agrupaciones de ciudadanos con intereses compartidos en la prevención de la violencia y la delincuencia en una zona o lugar específico.
+
+El Centro Estatal coadyuvara con las Presidencias Municipales en los requerimientos que emanen de los comités, a través de la vinculación con otras dependencias del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 23 Bis.
+
+Cualquier persona del Estado, colectiva o individualmente podrá solicitar la creación y, o incorporación a los Comités de participación comunitaria, de manera honorífica, con las autoridades correspondientes, de manera escrita, verbal o a través de algún medio o sistema electrónico, manifestando nombre, edad y domicilio, acompañado de documentación que lo acredite.
+
+Las Presidencias Municipales deberán informar al Centro Estatal la constitución de los Comités con el fin de coordinar y evitar duplicar actividades.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 23 Ter.
+
+La organización al interior de los comités será a través de la representación de un presidente, un secretario y tres vocales elegidos por los ciudadanos que sean parte del comité.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 24.
 
-El Consejo Estatal y los Consejos Municipales de Consulta y Participación Ciudadana, deberán dar rápida y adecuada respuesta a las temáticas planteadas a través de la participación comunitaria.
+Los Comités tendrán las siguientes funciones dentro de su demarcación:
+
+I. Realizar libremente el diagnóstico de su perímetro, en donde podrán plantear cualquier problema que consideren relevante y de atención pública;
+
+II. Gestionar en favor de los habitantes de la zona en específico de atención (sic) las necesidades que tengan ante cualquier autoridad, dando seguimiento a los acuerdos y decisiones tomadas;
+
+III. Convocar reuniones;
+
+IV. Proponer a las diversas autoridades Estatal y Municipales, las medidas para mejorar las condiciones de seguridad, prevención, protección de su entorno, mejora en servicios públicos, rehabilitación de su entorno o adecuación de infraestructura urbana;
+
+V. Colaborar con las autoridades de Seguridad Pública Estatal y Municipales en el mantenimiento del orden público y la tranquilidad de sus habitantes;
+
+VI. Realizar denuncias o quejas sobre irregularidades y fomentar el uso, cuando proceda, de la denuncia anónima a través de los mecanismos propios establecidos por Seguridad Pública Estatal y Municipales;
+
+VII. Promover entre sus integrantes la solución pacífica de los problemas, mediante el diálogo, conciliación o mediación, con el propósito de armonizar los intereses de las partes del conflicto;
+
+VIII. Fomentar la participación de los vecinos de la zona en las reuniones del comité;
+
+IX. Contar con un padrón de vecinos de la zona en la que habiten, de conformidad con lo previsto en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios;
+
+X. Fomentar la promoción de valores, hábitos y principios cívicos relacionados con el respeto a las normas de convivencia social, a la cultura de la legalidad y denuncia ciudadana;
+
+XI. Promover mediante mecanismos ciudadanos, que las autoridades de Seguridad Pública Estatal y Municipales realicen con las acciones que se relacionen con los problemas de su comunidad, colaborando para la realización de las evaluaciones que permitan conocer el resultado de estas, así como su impacto en la contención de delitos o infracciones;
+
+XII. Cooperar en los casos de emergencia con las autoridades de seguridad pública, siempre que ello no sea confidencial o de riesgo para su integridad;
+
+XIII. Promover espacios digitales mediante la conectividad a través de herramientas tecnológicas para la interacción continua entre gobierno y gobernado;
+
+XIV. Las que se deriven de los acuerdos o convenios de colaboración con las autoridades de seguridad pública; y
+
+XV. Todas las demás que sean necesarias para lograr un entorno seguro para los habitantes en el Estado conforme a las disposiciones aplicables.
 
 ### CAPÍTULO QUINTO. De la Creación y Funcionamiento de los Observatorios Ciudadanos de Seguridad Pública
 
@@ -652,3 +722,19 @@ P.O. 22 DE ENERO DE 2024.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 147.- SE REFORMA LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los comités durante el cierre del Ejercicio, programarán sus necesidades para el siguiente Ejercicio Fiscal.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
