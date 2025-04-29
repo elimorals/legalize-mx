@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2024-07-01"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -457,21 +457,21 @@ XI.- Garantizar el derecho a la denuncia por violación a la presente Ley en el 
 
 XII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XIII.- Promover condiciones de trabajo que eviten el acoso y hostigamiento sexual y su prevención y atención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación;
+XIII.- Promover condiciones de trabajo que eviten el acoso y hostigamiento sexual y su prevención y atención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.; (sic)
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE ABRIL DE 2025)</small>
 
 XIV.- Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XV.- Promover acciones que eliminen las asimetrías de género, raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones; y
+XV.- Promover acciones que eliminen las asimetrías de género; raza, etnia, preferencia sexual y cualquier otro tipo de discriminación en el acceso y permanencia al mercado laboral, en la toma de decisiones y en la distribución de las remuneraciones; y
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2025)</small>
 
-XVI.- Diseñar Políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres.
+XVI.- Diseñar políticas y programas para desarrollar competencias y habilidades digitales de las mujeres rurales.
 
 ###### Artículo 25.
 
@@ -1114,3 +1114,11 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 145.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
