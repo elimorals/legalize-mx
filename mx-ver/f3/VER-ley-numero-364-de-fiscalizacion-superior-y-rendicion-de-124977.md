@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-de-fiscalizacion-superior-y-rendicion-de-124977"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-18"
-last_updated: "2023-07-19"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 18 de diciembre de 2017.
 
@@ -55,85 +55,109 @@ De Fiscalización Superior y Rendición de Cuentas del Estado de Veracruz de Ign
 
 Esta Ley es de orden público e interés social y tiene por objeto reglamentar lo dispuesto por los artículos 116, fracción II, de la Constitución Política de los Estados Unidos Mexicanos; 33, fracciones XXIX y XXX, y 67 fracción III, de la Constitución Política del Estado de Veracruz de Ignacio de la Llave; así como, establecer las bases para la organización y el funcionamiento, del Órgano de Fiscalización Superior del Estado.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 2.
 
 Para efectos de esta Ley se entenderá por:
 
-I. Alcance de la Auditoría: Se refiere al objeto y delimitación que tendrán las Auditorías y que podrán ser: Financiera Presupuestal, Técnica a la Obra Pública, Legal, Forense, de Desempeño o Cumplimiento de Objetivos o Integral. Comprende la evaluación de los principales procesos del Ente Fiscalizable para obtener una visión completa de su gestión y puede ser específica en cuanto a la fiscalización de una política, programa, actividad institucional, régimen, concepto de gasto o sistema, cuya ejecución o aplicación es concurrente con el Ente Fiscalizable;
+I. Actuaciones Electrónicas: Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y, en su caso, los actos que se emitan conforme a esta Ley, ya sean físicos o electrónicos y que sean comunicados por vía electrónica;
 
-II. Auditoría de Legalidad: Es aquella que tiene por objeto revisar, comprobar y verificar que los actos y procedimientos administrativos, y demás actos jurídicos de derecho público o privado, relativos a la Gestión Financiera de los Entes Fiscalizables, se instruyeron, tramitaron o ejecutaron conforme al principio de legalidad que dispone el artículo 4, párrafo segundo de la Constitución del Estado y demás disposiciones normativas aplicables;
+II. Acuse de Recibo Electrónico: El mensaje de datos que se genera a través de los medios electrónicos de que dispone el Órgano, con el cual se acredita de manera fehaciente la fecha y hora de recepción de documentos electrónicos relacionados con los actos que se emitan conforme a esta Ley;
 
-III. Auditoría Forense: Es una revisión conformada por un conjunto de técnicas multidisciplinarias que tienen como finalidad el examen y la revisión de los indicios, procesos, hechos y evidencias para la detección o investigación de posibles actos que puedan implicar alguna irregularidad o conducta delictiva;
+III. Alcance de la Auditoría: Se refiere al objeto y delimitación que tendrán las auditorías y que podrán ser: Financiera Presupuestal, Técnica a la Obra Pública, Legal, Forense, de Desempeño o Cumplimiento de Objetivos, de Deuda Pública y Disciplina Financiera, de Orden Social, o Integral. Comprende la evaluación de los principales procesos del Ente Fiscalizable para obtener una visión completa de su gestión y puede ser específica en cuanto a la fiscalización de una política, programa, actividad institucional, régimen, concepto de gasto o sistema, cuya ejecución o aplicación es concurrente con el Ente Fiscalizable;
 
-IV. Auditoría Gubernamental: Actividad profesional multidisciplinaria ejercida por el Órgano, por los Despachos Externos o Prestadores de Servicios Profesionales de Auditoría, respecto al objeto auditado, sujeto al cumplimiento de las reglas de fiscalización de acuerdo a la disciplina que se audita;
+IV. Auditoría de Legalidad: Es aquélla que tiene por objeto revisar, comprobar y verificar que los actos y procedimientos administrativos, y demás actos jurídicos de derecho público o privado, relativos a la Gestión Financiera de los Entes Fiscalizables, se instruyeron, tramitaron o ejecutaron conforme al principio de legalidad que dispone el artículo 4, párrafo tercero de la Constitución del Estado y demás disposiciones normativas aplicables;
 
-V. Auditoría sobre el Desempeño: La verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos, o ambos;
+V. Auditoría de Orden Social: Es la verificación del cumplimiento de la normatividad en la integración, organización y funcionamiento de los órganos de participación ciudadana establecidos en la legislación en materia de planeación, presupuestación y coordinación fiscal;
 
-VI. Autonomía de Gestión: La facultad del Órgano de Fiscalización Superior del Estado, para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales, financieros y demás que formen parte de su patrimonio, que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución Política del Estado de Veracruz de Ignacio de la Llave y en esta Ley;
+VI. Auditoría Forense: Es una revisión conformada por un conjunto de técnicas multidisciplinarias que tienen como finalidad el examen y la revisión de los indicios, procesos, hechos y evidencias para la detección o investigación de posibles actos que puedan implicar alguna irregularidad o conducta delictiva;
 
-VII. Autonomía Técnica: La facultad del Órgano de Fiscalización Superior del Estado, para decidir sobre la planeación, programación, ejecución, informes y seguimiento en el proceso de la fiscalización superior;
+VII. Auditoría Gubernamental: Actividad profesional multidisciplinaria ejercida por el Órgano, por los Despachos o Prestadores de Servicios Profesionales de Auditoría, respecto del objeto auditado, sujeto al cumplimiento de las reglas de fiscalización de acuerdo con la disciplina que se audita;
 
-VIII. Ayuntamientos: Los Órganos de Gobierno de los municipios del Estado de Veracruz de Ignacio de la Llave;
+VIII. Auditoría sobre el Desempeño: La verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos, o ambos;
 
-IX. Comisión: La Comisión Permanente de Vigilancia del Congreso;
+IX. Autonomía de Gestión: La facultad del Órgano de Fiscalización Superior del Estado, para decidir sobre su organización interna, estructura y funcionamiento, así como la administración de sus recursos humanos, materiales, financieros y demás que formen parte de su patrimonio, que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución del Estado y en esta Ley;
 
-X. Congreso: El H. Congreso del Estado de Veracruz de Ignacio de la Llave;
+X. Autonomía Técnica: La facultad del Órgano de Fiscalización Superior del Estado, para decidir sobre la planeación, programación, ejecución, informes y seguimiento en el proceso de la fiscalización superior;
 
-XI. Constitución del Estado: La Constitución Política del Estado de Veracruz de Ignacio de la Llave;
+XI. Ayuntamientos: Los Órganos de Gobierno de los municipios del Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(F. DE E., G.O. 7 DE FEBRERO DE 2018)</small>
+XII. Buzón Fiscalizador: Medio electrónico de comunicación utilizado por el Órgano y los Entes Fiscalizables para notificar, transmitir o almacenar actuaciones electrónicas, mensajes de datos e información emitida conforme a esta Ley;
 
-XII. Cuentas Públicas: Aquellas a que se refiere el artículo 33, fracción XXIX de la Constitución del Estado y que se definen en el artículo 26 de la presente Ley;
+XIII. Comisión: La Comisión Permanente de Vigilancia del Congreso;
 
-XIII. Despachos: Los Despachos Externos que prestan servicios profesionales de auditoría;
+XIV. Congreso: El H. Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-XIV. Ente Fiscalizador: El Congreso o el Órgano, en el ámbito de sus respectivas competencias constitucionales;
+XV. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
 
-XV. Entes Fiscalizables: Aquellos que se refieren en el artículo 67, fracción III, bases 1 y 8 de la Constitución del Estado y los previstos en el artículo 12, de la presente Ley;
+XVI. Cuentas Públicas: Aquéllas a que se refiere el artículo 33, fracción XXIX de la Constitución del Estado y que se definen en el artículo 26 de la presente Ley;
 
-XVI. Entes Públicos: Aquellos a que se refiere el artículo 3, fracción X, de la Ley General de Responsabilidades Administrativas, así como, a los que la Constitución y las leyes del Estado, les otorguen ese carácter;
+XVII. Despachos: Los Despachos que prestan servicios profesionales de auditoría;
 
-XVII. Fiscalía Especializada: La Fiscalía Especializada en Combate a la Corrupción en el Estado;
+XVIII. Dirección de Correo Electrónico: Dirección en internet señalada por los sujetos de esta Ley, para enviar y recibir mensajes de datos, relacionados con las actuaciones electrónicas practicadas por el Órgano;
 
-XVIII. Fiscalización Superior: Facultad de revisión de las Cuentas Públicas originaria del Congreso, referida en los artículos 33, fracción XXIX; y 67, fracción III, bases 1 a 8, de la Constitución del Estado;
+XIX. Documento Electrónico: Información que es generada, consultada, modificada o procesada por medios electrónicos y que constituye un documento de archivo cuyo tratamiento es automatizado y requiere de una herramienta específica para leerse o recuperarse;
 
-XIX. Gestión Financiera: La actividad relacionada directamente con el ejercicio presupuestal de los ingresos, egresos y deuda pública, la administración, captación, ministración, manejo, custodia y aplicación de los fondos y recursos públicos, y la ejecución de obra pública que realizan los Entes Fiscalizables; y, en general, de los recursos públicos que éstos utilicen para la ejecución de los planes y programas estatales y municipales aprobados, de conformidad con las leyes y demás disposiciones en la materia, en el periodo que corresponde a una Cuenta Pública;
+XX. Ente Fiscalizador: El Congreso o el Órgano, en el ámbito de sus respectivas competencias constitucionales;
 
-XX. Hallazgos: Hechos irregulares detectados por el auditor, en el control interno del Ente auditado, que deben ser comunicados a los responsables del Ente Fiscalizable, para que se adopten las medidas correctivas;
+XXI. Entes Fiscalizables: Aquéllos que se refieren en el artículo 67, fracción III, bases 1 y 8 de la Constitución del Estado y los previstos por el artículo 12 de la presente Ley;
 
-XXI. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la Ley General de Responsabilidades Administrativas, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del servidor público o de un particular en la comisión de faltas administrativas;
+XXII. Entes Públicos: Aquéllos a que se refiere el artículo 3, fracción X, de la Ley General de Responsabilidades Administrativas, así como a los que la Constitución y las leyes del Estado, les otorguen ese carácter;
 
-XXII. Informes de Seguimiento: Documentos que deberán entregarse al Congreso, los primeros cinco días de los meses de marzo y septiembre de cada año, para informarle sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los Informes Individuales;
+XXIII. e.firma: El certificado digital de Firma Electrónica Avanzada expedido por el Servicio de Administración Tributaria;
 
-XXIII. Informe del Resultado o Informe General Ejecutivo: El Informe del Resultado o Informe General Ejecutivo del Resultado de la Fiscalización Superior de las Cuentas Públicas, a que se refieren los artículos 33, fracción XXX y 67 fracción III, bases 5 y 8, de la Constitución del Estado, que contiene las conclusiones técnicas y el resultado de la fiscalización superior de las Cuentas Públicas de los Entes Fiscalizables; y que deberá presentar el Órgano al Congreso, por conducto de la Comisión, en términos de esta Ley;
+XXIV. Firma Electrónica Avanzada: Los datos que en forma electrónica son vinculados o asociados a un mensaje de datos, que corresponden inequívocamente al firmante, con la finalidad de asegurar la integridad y autenticidad del mismo, de tal forma que esté vinculada únicamente al firmante y a los datos a que se refiere, y sea detectable cualquier modificación ulterior de éstos; que produce los mismos efectos jurídicos que la firma autógrafa;
 
-XXIV. Informes Individuales: Los informes de cada una de las revisiones, auditorías y evaluaciones, practicadas a los Entes Fiscalizables, con motivo de la fiscalización superior de las Cuentas Públicas;
+XXV. Firmante: El servidor público o el usuario que utiliza los datos de la firma electrónica en sus relaciones con el Órgano;
 
-XXV. Organismos: Los Organismos Autónomos a que refiere el artículo 67 de la Constitución del Estado;
+XXVI. Fiscalía Especializada: La Fiscalía Especializada en Combate a la Corrupción en el Estado;
 
-XXVI. Órgano: El Órgano de Fiscalización Superior del Estado;
+XXVII. Fiscalización Superior: Facultad de revisión de las Cuentas Públicas originaria del Congreso, referida en los artículos 33, fracción XXIX; y 67, fracción III, bases 1 a 8, de la Constitución del Estado;
 
-XXVII. Órganos Internos de Control: Aquellos a que se refiere el artículo 76 Bis, de la Constitución del Estado; así como, a los que la Constitución y demás leyes del Estado, también les otorguen ese carácter;
+XXVIII. Gestión Financiera: La actividad relacionada directamente con el ejercicio presupuestal de los ingresos, egresos y deuda pública, la administración, captación, ministración, manejo, custodia y aplicación de los fondos y recursos públicos, y la ejecución de obra pública que realizan los Entes Fiscalizables; y, en general, de los recursos públicos que éstos utilicen para la ejecución de los planes y programas estatales y municipales aprobados, de conformidad con las leyes y demás disposiciones en la materia, en el periodo que corresponde a una Cuenta Pública;
 
-XXVIII. Padrón: El Padrón de Despachos Externos y Prestadores de Servicios Profesionales de Auditoría;
+XXIX. Hallazgos: Hechos irregulares detectados por el auditor, en el control interno del Ente auditado, que deben ser comunicados a los responsables del Ente Fiscalizable, para que se adopten las medidas correctivas;
 
-XXIX. Planes: El Plan Veracruzano de Desarrollo y los Planes Municipales de Desarrollo, así como los demás de naturaleza programática, sectorial u operativa que aprueben los Entes Fiscalizables;
+XXX. Informe de Presunta Responsabilidad Administrativa: El instrumento en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la Ley General de Responsabilidades Administrativas, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y presunta responsabilidad del servidor público o de un particular en la comisión de faltas administrativas;
 
-XXX. Poderes: El Poder Público que se divide en Legislativo, Ejecutivo y Judicial, conforme al artículo 17, de la Constitución del Estado;
+XXXI. Informes de Seguimiento: Documentos que deberán entregarse al Congreso, los primeros cinco días de los meses de marzo y septiembre de cada año, para informarle sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los Informes Individuales;
 
-XXXI. Prestadores de Servicios de Auditoría: Los Prestadores de Servicios Profesionales de Auditoría, en su carácter de personas físicas;
+XXXII. Informe del Resultado o Informe General Ejecutivo: El Informe del Resultado o Informe General Ejecutivo del Resultado de la Fiscalización Superior de las Cuentas Públicas, a que se refieren los artículos 33, fracción XXX y 67 fracción III, bases 5 y 8, de la Constitución del Estado, que contiene las conclusiones técnicas y el resultado de la fiscalización superior de las Cuentas Públicas de los Entes Fiscalizables; y que deberá presentar el Órgano al Congreso, por conducto de la Comisión, en términos de esta Ley;
 
-XXXII. Programas: Los contenidos en los procesos o presupuestos aprobados a que se sujeta la gestión o actividad de los Entes Fiscalizables;
+XXXIII. Informes Individuales: Los informes de cada una de las revisiones, auditorías y evaluaciones, practicadas a los Entes Fiscalizables, con motivo de la fiscalización superior de las Cuentas Públicas;
 
-XXXIII. SEA: El Sistema Estatal Anticorrupción;
+XXXIV. Medios Electrónicos: Los dispositivos tecnológicos utilizados y autorizados para transmitir o almacenar datos e información;
 
-XXXIV. Secretaría: Secretaría de Finanzas y Planeación;
+XXXV. Mensaje de Datos: La información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología;
 
-XXXV. Servidores Públicos: Los que se consideran como tales en el artículo 76, de la Constitución del Estado, la Ley Orgánica del Municipio Libre; y aquellos a los cuales las demás leyes del Estado, les den ese carácter;
+XXXVI. Organismos: Los Organismos Autónomos a que refiere el artículo 67 de la Constitución del Estado;
 
-XXXVI. Tribunal Estatal: El Tribunal Estatal de Justicia Administrativa; y
+XXXVII. Órgano: El Órgano de Fiscalización Superior del Estado de Veracruz;
 
-XXXVII. Unidades Presupuestales: Aquellas a que se refiere el artículo 2, fracción LXIII, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave;
+XXXVIII. Órganos Internos de Control: Aquéllos a que se refiere el artículo 76 Bis, de la Constitución del Estado, así como a los que la Constitución y demás leyes del Estado, también les otorguen ese carácter;
+
+XXXIX. Padrón: El Padrón de Despachos y Personas Prestadoras de Servicios Profesionales de Auditoría;
+
+XL. Personas Prestadoras de Servicios de Auditoría: Las y los Prestadores de Servicios Profesionales de Auditoría, en su carácter de personas físicas;
+
+XLI. Planes: El Plan Veracruzano de Desarrollo y los Planes Municipales de Desarrollo, así como los demás de naturaleza programática, sectorial u operativa que aprueben los Entes Fiscalizables;
+
+XLII. Poderes: El Poder Público que se divide en Legislativo, Ejecutivo y Judicial, conforme al artículo 17 de la Constitución del Estado;
+
+XLIII. Programas: Los contenidos en los procesos o presupuestos aprobados a que se sujeta la gestión o actividad de los Entes Fiscalizables;
+
+XLIV. SEA: El Sistema Estatal Anticorrupción;
+
+XLV. Secretaría: Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave;
+
+XLVI. Servidores Públicos: Los que se consideran como tales en el artículo 76, de la Constitución del Estado, la Ley Orgánica del Municipio Libre; y aquéllos a los cuales las demás leyes del Estado, les den ese carácter;
+
+XLVII. Sistema Integral para la Fiscalización: Sistema de Gestión Administrativa que vincula los sistemas informáticos utilizados por el Órgano, en cada una de las etapas, fases y procesos del Procedimiento de Fiscalización Superior;
+
+XLVIII. Tribunal Estatal: El Tribunal de Justicia Administrativa del Estado de Veracruz, y
+
+XLIX. Unidades Presupuestales: Aquéllas a que se refiere el artículo 2, fracción LXIII, del Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 3.
 
@@ -147,7 +171,9 @@ Cuando así lo determine el Congreso, el Órgano deberá auxiliarlo en la debida
 
 Los actos administrativos que emita el Órgano y se deban notificar, deberán reunir por lo menos, los siguientes requisitos:
 
-I. Constar por escrito;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+I. Constar por escrito o en los medios electrónicos previstos por la presente Ley;
 
 II. Señalar la autoridad que lo emite;
 
@@ -155,15 +181,19 @@ III. Señalar lugar y fecha de emisión;
 
 IV. Estar fundado, motivado y expresar la resolución, objeto o propósito de que se trate; y
 
-V. Ostentar la firma del funcionario competente y el nombre del Ente Fiscalizable, o de las personas físicas o morales a las que vaya dirigido.
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+V. Ostentar la firma autógrafa del funcionario competente y el nombre del Ente Fiscalizable, o de las personas físicas o morales a las que vaya dirigido o, en su caso, la Firma Electrónica Avanzada.
 
 ###### Artículo 5.
 
 Para el mejor cumplimiento de sus facultades, el Órgano, proporcionará asistencia durante el Procedimiento de Fiscalización Superior a los Entes Fiscalizables, procurando orientarlos y auxiliarlos cuando éstos lo soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 6.
 
-A falta de disposición expresa y en las cuestiones no previstas en esta Ley, se aplicará en forma supletoria y en lo conducente, lo previsto por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, y complementariamente, las disposiciones del Código Financiero y el Código Hacendario Municipal, ambos para el Estado de Veracruz de Ignacio de la Llave, así como, los Códigos Hacendarios Municipales equivalentes para los municipios que cuenten con ellos; asimismo, las disposiciones aplicables de carácter federal, como la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal; y las disposiciones que resulten aplicables en materia de responsabilidades administrativas; igualmente, aquellas disposiciones relacionadas con el ejercicio de la fiscalización superior, como las demás que resulten aplicables a la materia.
+A falta de disposición expresa y en las cuestiones no previstas por esta Ley, se aplicará en forma supletoria y en lo conducente, lo dispuesto por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave y, complementariamente, las disposiciones del Código Financiero y el Código Hacendario Municipal, ambos para el Estado de Veracruz de Ignacio de la Llave, así como los Códigos Hacendarios Municipales equivalentes para los municipios que cuenten con ellos y la Ley de Firma Electrónica Avanzada para el Estado de Veracruz de Ignacio de la Llave y sus Municipios, además de las disposiciones en materia de medios electrónicos siempre y cuando no se opongan a la presente Ley; asimismo, las disposiciones aplicables de carácter federal, como la Ley General de Contabilidad Gubernamental; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Coordinación Fiscal, y las disposiciones que resulten aplicables en materia de responsabilidades administrativas; igualmente, aquellas disposiciones relacionadas con el ejercicio de la fiscalización superior, así como las demás que resulten aplicables a la materia.
 
 El Órgano será la instancia facultada para interpretar las disposiciones de esta Ley, únicamente en el ámbito administrativo.
 
@@ -173,9 +203,15 @@ El Órgano emitirá las reglas técnicas para la práctica de auditorías, con b
 
 Asimismo, los manuales, guías, instructivos, formatos y demás instrumentos que expida el Órgano, necesarios para el cumplimiento de las disposiciones legales y reglamentarias aplicables, se publicarán en el portal de internet del Órgano; así como, en el sistema de portales de obligaciones de transparencia.
 
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+Además, contará con los medios electrónicos que permitan la práctica de auditorías en vía remota, con la finalidad de simplificar, facilitar y agilizar el Procedimiento de Fiscalización Superior, así como las demás actuaciones electrónicas que realice el Órgano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 8.
 
-El Órgano, expedirá certificaciones de los documentos que obren en los archivos, que no exijan reserva, previo pago que se realice en términos de esta Ley; salvo aquellos que sean solicitados por la autoridad competente, conforme a las disposiciones legales aplicables.
+El Órgano, expedirá certificaciones de los documentos físicos y electrónicos que obren en sus archivos y que no exijan reserva, previo pago que se realice en términos de esta Ley, salvo aquéllos que sean solicitados por la autoridad competente, conforme a las disposiciones legales aplicables.
 
 Para tal efecto, se considerarán las siguientes cuotas:
 
@@ -185,23 +221,33 @@ b) Por copias simples, 0.02 de la Unidad de Medida Actualizada, por hoja.
 
 En el caso de las solicitudes de información recibidas a través de la Unidad de Transparencia, su tramitación se realizará conforme a los procedimientos de la ley de la materia, considerando las cuotas señaladas en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 9.
 
-Los Entes Fiscalizables retendrán el cinco al millar del monto de las obras contratadas por concepto de inspección, supervisión y vigilancia de las mismas. Estos recursos serán remitidos al Órgano para su administración.
+Los Entes Fiscalizables retendrán el cinco al millar del monto de las obras contratadas por concepto de inspección, supervisión y vigilancia de las mismas, sobre el importe de cada una de las estimaciones de obra. Estos recursos serán enterados al Órgano de manera simultánea con cada pago que se realice al contratista, lo que será revisado en los correspondientes Estados Mensuales de Obra Pública. El incumplimiento en la entrega de estos recursos será sancionado por el Órgano con la imposición de una multa al servidor público responsable, de trescientas a mil veces el valor diario vigente de la Unidad de Medida y Actualización.
 
 En el caso del Poder Ejecutivo, se estará a lo dispuesto por la ley en materia de obra pública para el Estado.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 10.
 
-El Órgano emitirá las reglas de carácter general para devolver o destruir la documentación que obre en sus archivos, después de que prescriban las facultades de fiscalización, observando lo que para tal efecto, establezca la legislación local en materia de archivos y demás disposiciones aplicables.
+El Órgano emitirá las reglas de carácter general para devolver o destruir la documentación que obre en sus archivos, así como para el tratamiento de la información generada por los medios electrónicos de que dispone, después de que prescriban las facultades de fiscalización, observando lo que para tal efecto establezca la legislación local en materia de archivos y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 11.
 
-El Órgano resguardará la documentación de las Cuentas Públicas de cada ejercicio; los Informes que se emitan; así como, la demás documentación que genere en el ejercicio de sus facultades, conforme a los plazos de prescripción que, según el caso, la Constitución del Estado, esta Ley y demás disposiciones legales aplicables, mientras sean exigibles las responsabilidades administrativas o de cualquier otra naturaleza, derivadas de las irregularidades que se detecten en los actos y procedimientos objeto de revisión.
+El Órgano resguardará la documentación de las Cuentas Públicas de cada ejercicio, los Informes que se emitan y la demás documentación física o electrónica que genere en el ejercicio de sus facultades, conforme a los plazos de prescripción que establezcan, según el caso, la Constitución del Estado, esta Ley y demás disposiciones legales aplicables, mientras sean exigibles las responsabilidades administrativas o de cualquier otra naturaleza, derivadas de las irregularidades que se detecten en los actos y procedimientos objeto de revisión.
 
-Asimismo, recabará y conservará por el tiempo que establezcan las disposiciones aplicables, los documentos relativos a las resoluciones o sentencias, determinantes de la imposición de sanciones por responsabilidades administrativas; por el fincamiento de indemnizaciones y sanciones pecuniarias; así como, los documentos derivados de las acciones promovidas en materia de responsabilidades administrativas ante el Tribunal Estatal (sic) Justicia Administrativa o ante la Fiscalía Especializada, o a las autoridades que resulten competente (sic), para la imposición de sanciones que correspondan a los servidores públicos y a los particulares.
+Asimismo, recabará y conservará por el tiempo que establezcan las disposiciones aplicables, los documentos relativos a las resoluciones o sentencias determinantes de la imposición de sanciones por responsabilidades administrativas y por el fincamiento de indemnizaciones y sanciones pecuniarias, así como los documentos derivados de las acciones promovidas en materia de responsabilidades administrativas ante el Tribunal Estatal, la Fiscalía Especializada o las autoridades que resulten competentes, para la imposición de sanciones que correspondan a los servidores públicos y a los particulares.
 
-La información que genere, reciba, recopile o resguarde el Órgano, tendrá el carácter de pública o reservada, en términos de la ley de la materia.
+Contará con el Sistema Integral para la Fiscalización el cual vinculará los medios y sistemas informáticos y electrónicos del Órgano y el Buzón Fiscalizador, así como las demás herramientas tecnológicas que éste determine.
+
+Dicho sistema dispondrá de la infraestructura técnica para facilitar el tratamiento de los datos y que éstos se puedan ordenar, estructurar y clasificar en formatos específicos, conforme a las metodologías que para el efecto emita el Órgano. Contará con la vinculación de las diferentes etapas, fases y procesos del Procedimiento de Fiscalización Superior, para la planeación, organización, dirección y control en la gestión administrativa y de control interno.
+
+La información que genere, reciba, recopile o resguarde el Órgano, tendrá el carácter de pública.
 
 ### CAPÍTULO II. De las Obligaciones de los Entes Fiscalizables
 
@@ -209,21 +255,35 @@ La información que genere, reciba, recopile o resguarde el Órgano, tendrá el 
 
 Tendrán el carácter de Entes Fiscalizables, las Dependencias y Entidades de los Poderes, los Organismos Autónomos, la Universidad Veracruzana, los ayuntamientos, las Entidades Paraestatales y Paramunicipales, los Organismos Descentralizados, los Organismos Desconcentrados, las Empresas de Participación Estatal o Municipal, así como cualquier otro ente sobre el que el Estado y los municipios tengan control sobre sus decisiones o acciones; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga; así como, los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos estatales y municipales y demás que competa fiscalizar o revisar al Órgano, y aun cuando pertenezcan al sector privado o social; y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, ministrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 13.
 
-Los Entes Fiscalizables, servidores públicos y demás autoridades del Estado, así como, las personas físicas o morales, los Despachos y Prestadores de Servicios de Auditoría, tendrán las obligaciones siguientes:
+Los Entes Fiscalizables, servidores públicos y demás autoridades del Estado, así como las personas físicas o morales sujetas a esta Ley, los Despachos y Personas Prestadoras de Servicios de Auditoría, tendrán las obligaciones siguientes:
 
 I. Cumplir con las normas, procedimientos, métodos y sistemas que para el ejercicio de la facultad de Fiscalización Superior, emita el Órgano;
 
-II. Facilitar al Órgano y a su personal actuante, a los Despachos y Prestadores de Servicios de Auditoría habilitados por él, los auxilios que requieran para el ejercicio de sus funciones en materia de fiscalización superior; asimismo, proporcionar la información y documentación que soliciten para realizar las revisiones, compulsas, auditorías e investigaciones, de conformidad con los procedimientos establecidos en esta Ley, y demás disposiciones aplicables, y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero;
+II. Facilitar al Órgano y a su personal actuante, a los Despachos y Personas Prestadoras de Servicios de Auditoría habilitados por él, los auxilios que requieran para el ejercicio de sus funciones en materia de fiscalización superior; asimismo, deberán proporcionar la información y documentación debidamente certificada y foliada o autenticada que les sea solicitada, incluso cuando se proporcione por medios electrónicos según sea el caso, para realizar las revisiones, compulsas, auditorías e investigaciones, de conformidad con los procedimientos establecidos en esta Ley, y demás disposiciones aplicables, y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero;
 
 III. Cumplir en los términos y plazos que establece la presente Ley, con los requerimientos, solicitudes y citaciones que les formule el Órgano;
 
 IV. No obstaculizar ni impedir directamente o por omisión, el ejercicio de las funciones que conforme a esta Ley y al Reglamento Interior del Órgano, corresponda al personal debidamente comisionado, designado o habilitado por el Órgano;
 
-V. Solventar los hallazgos que determinen el Órgano, los Despachos y Prestadores de Servicios de Auditoría habilitados, así como contestar y atender las compulsas e inspecciones que les fueren practicadas en términos de esta Ley, dentro de los cinco días siguientes de que fueron formuladas; y
+V. Solventar los hallazgos que determinen el Órgano, los Despachos y Prestadores de Servicios de Auditoría habilitados, así como contestar y atender las compulsas e inspecciones que les fueren practicadas en términos de esta Ley, dentro de los cinco días siguientes de que fueron formuladas;
 
-VI. Las Unidades Presupuestales del Poder Ejecutivo, como Entes Fiscalizables, deberán responder ante el Órgano, como responsables de la administración de los recursos estatales y federales de que dispongan para la realización de los programas presupuestarios y actividades institucionales a su cargo.
+VI. Con la finalidad de practicar las actuaciones electrónicas previstas por esta Ley, los servidores públicos de los Entes sujetos al Procedimiento de Fiscalización Superior deberán proporcionar al Órgano la dirección de correo electrónico oficial que le fue asignada por el Ente Fiscalizable, así como una dirección de correo electrónico personal y, asimismo, las demás personas físicas o morales sujetas a esta Ley deberán indicar una dirección de correo electrónico personal.
+
+Las y los servidores públicos deberán proporcionar además un domicilio para oír y recibir notificaciones y, en caso de presentarse algún cambio, deberán informarlo al Órgano dentro de los tres días hábiles siguientes a que ocurra;
+
+VII. Contar con el certificado e.firma, que deberán registrar ante el Órgano;
+
+VIII. Atender los citatorios, emplazamientos, requerimientos, así como los informes o documentos que les solicite el Órgano y que sean notificados personalmente, o a través del Buzón Fiscalizador;
+
+IX. Los Titulares de los Entes Fiscalizables deberán designar, de entre sus servidores públicos, al responsable del manejo y atención del Buzón Fiscalizador, lo que informarán al Órgano en los términos previstos por las fracciones I, III y IV del artículo 44 de esta Ley;
+
+X. Serán responsables solidarios las personas físicas o morales, despachos y Personas Prestadoras de Servicios de Auditoría, en los casos en que hayan participado en la revisión de la Cuenta Pública e incurran en responsabilidad, por actos u omisiones que causen un daño o perjuicio, o ambas, estimable en dinero a la Hacienda Pública o, en su caso, al patrimonio de los Entes Fiscalizables; y
+
+XI. Las Unidades Presupuestales del Poder Ejecutivo, como Entes Fiscalizables, deberán responder ante el Órgano como responsables de la administración de los recursos estatales y federales de que dispongan para la realización de los programas presupuestarios y actividades institucionales a su cargo.
 
 El Órgano hará uso de las medidas de apremio establecidas en el artículo 15 de esta Ley, para hacer cumplir sus determinaciones, y sancionar el incumplimiento de las obligaciones anteriores.
 
@@ -231,7 +291,9 @@ El Órgano hará uso de las medidas de apremio establecidas en el artículo 15 d
 
 Cuando conforme a esta Ley, los Órganos Internos de Control, deban colaborar con el Ente Fiscalizador, establecerán una estrecha coordinación a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgarán las facilidades que permitan al personal auditor, llevar a cabo el ejercicio de sus funciones.
 
-Los servidores públicos de los Órganos Internos de Control, deberán proporcionar la documentación que les solicite el Ente Fiscalizador, con motivo de las actividades de control y evaluación que efectúen, o cualquier otra que se les requiera, relacionada con el ejercicio de las facultades de fiscalización superior.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+Los servidores públicos de los Órganos Internos de Control deberán proporcionar la documentación que les solicite el Ente Fiscalizador, con motivo de las actividades de control y evaluación que efectúen, o cualquier otra que se les requiera, relacionada con el ejercicio de las facultades de fiscalización superior, así como participar, en su caso, en las funciones desarrolladas por el Órgano a través del Sistema de Evaluación y Fiscalización de Veracruz (SEFISVER), de conformidad con los lineamientos que al efecto se expidan.
 
 ### CAPÍTULO III. De las Medidas de Apremio
 
@@ -269,6 +331,10 @@ Las actuaciones y diligencias que se lleven a cabo por o ante el Órgano, se pra
 
 El titular del Órgano, podrá habilitar los días y horas inhábiles, para actuar o para que se practiquen diligencias cuando hubiere causa urgente que así lo exija. Esta circunstancia, deberá comunicarse por escrito al interesado, así como las diligencias que hayan de practicarse, y no alterará el cálculo del plazo, excepto cuando se inicie una actuación o diligencia en horas hábiles, en cuyo caso podrá concluirse en horas inhábiles, sin afectar su validez y podrá suspenderse por causa de fuerza mayor, caso fortuito, por necesidades del servicio o a juicio del personal que lleve a cabo la actuación o diligencia.
 
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+En el caso de las actuaciones electrónicas, las mismas podrán efectuarse en cualquier fecha y hora, teniéndose por legalmente hechas en el momento en que se genera el correspondiente acuse de recibo electrónico, lo que deberá realizarse en días y horas hábiles. Previo a la práctica de la notificación electrónica, será enviado un aviso de la misma a la dirección de correo electrónico proporcionada para tal fin, de conformidad con lo establecido por las reglas de carácter general para el funcionamiento del Buzón Fiscalizador que para tal efecto emita el Órgano.
+
 ###### Artículo 19.
 
 Para efectos de esta Ley, son días hábiles todos los del año, con excepción de los sábados, domingos, los que señale como de descanso obligatorio la Ley Federal del Trabajo, y los días que mediante acuerdo se publiquen en la Gaceta Oficial del Estado y en el portal de internet del Órgano, los que declare como no laborables el titular del Órgano o los que el Congreso establezca como inhábiles.
@@ -281,9 +347,11 @@ Si el día del vencimiento fuere inhábil, éste se correrá al primer día háb
 
 Cuando en la presente Ley no se señale un término para la práctica de un acto, diligencia o el ejercicio de un derecho, el Órgano podrá fijarlo y no será inferior a tres días hábiles, ni mayor a quince días hábiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 21.
 
-Las notificaciones de los actos administrativos o resoluciones, se efectuarán, a más tardar, el tercer día hábil siguiente a aquel en que se dicten y se harán:
+Las notificaciones de los actos administrativos o resoluciones, se efectuarán, a más tardar el quinto día hábil siguiente a aquél en que se dicten y se harán:
 
 I. Personalmente a los interesados y por oficio a las autoridades, en su caso, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, regularización del procedimiento y demás resoluciones o actos administrativos que puedan ser impugnados. En estos casos, también podrán efectuarse por correo registrado con acuse de recibo.
 
@@ -293,7 +361,11 @@ II. Por edicto que se publique por una sola vez en la Gaceta Oficial del Estado,
 
 III. Por estrados, las cuales se harán fijando durante cinco días hábiles consecutivos el documento que se pretenda notificar, en un sitio abierto al público de las instalaciones del Órgano, pudiendo publicarlo en su portal de internet, dejando constancia de la práctica de la notificación en el expediente o documento respectivo, cuando así lo solicite la parte interesada, no conste su domicilio para oír notificaciones, el señalado resulte inexacto o, exista algún impedimento para notificarle por otro medio;
 
-IV. Por vía electrónica a las partes, cuando así lo soliciten y previo registro de su firma electrónica y de su dirección de correo electrónico; y
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+IV. Por vía electrónica cuando así lo determine el Órgano, a los servidores públicos o ex servidores públicos de los Entes Fiscalizables, Despachos o Personas Prestadoras de Servicios Profesionales de Auditoría.
+
+Tratándose de las personas físicas o morales, públicas o privadas, que hayan captado, recaudado, administrado, ministrado, manejado, ejercido, cobrado o recibido en pago directa o indirectamente recursos públicos estatales o municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines, harán uso del medio de notificación señalado en esta fracción, y
 
 V. En las oficinas del Órgano, si se presentan los interesados a quienes deba notificarse, incluyendo las que deban practicarse personalmente o por oficio.
 
@@ -315,11 +387,13 @@ El notificador asentará razón de todas y cada una de las circunstancias observ
 
 Las notificaciones deberán hacerse en días y horas hábiles.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 24.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente al en que se practiquen o, en su caso, el día hábil siguiente al en que el interesado o su representante legal se hagan sabedores de la notificación omitida o irregular.
+Las notificaciones surtirán sus efectos el día hábil siguiente al en que se practiquen o, en su caso, el día hábil siguiente al en que el interesado o su representante legal se hagan sabedores de la notificación omitida o irregular. Toda notificación practicada en día inhábil surtirá sus efectos legales el día hábil siguiente.
 
-Toda notificación practicada en día inhábil, surtirá sus efectos legales el día hábil siguiente.
+Las notificaciones electrónicas surtirán sus efectos al tercer día hábil siguiente a aquél en que se tengan por legalmente realizadas, de conformidad con lo previsto por el artículo 18 de esta Ley y con lo establecido por las reglas de carácter general para el funcionamiento del Buzón Fiscalizador que emita el Órgano.
 
 ###### Artículo 25.
 
@@ -391,9 +465,17 @@ III. Información Programática, con la desagregación siguiente:
 
 a) Gasto por categoría programática;
 
-b) Programas y proyectos de inversión; y
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
 
-c) Indicadores de resultados;
+b) Programas y proyectos de inversión;
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+c) Indicadores de resultados, y
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+d) Cumplimiento de los objetivos de los programas y metas del gasto que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia y cualquier otra forma de discriminación.
 
 IV. Información complementaria, para generar las cuentas nacionales y atender otros requerimientos provenientes de los organismos internacionales de los que México es miembro.
 
@@ -445,9 +527,11 @@ Las Cuentas Públicas del año anterior, serán presentadas por los Entes Fiscal
 
 El Congreso, por conducto de la Comisión, remitirá al Órgano las Cuentas Públicas dentro de los primeros quince días del mes posterior en que éste las reciba, con las opiniones y recomendaciones que se estimen pertinentes.
 
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 29.
 
-Los Entes Fiscalizables, con excepción de los Ayuntamientos y las Entidades Paramunicipales, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, estarán obligados a presentar al Congreso informes trimestrales sobre su Gestión Financiera en los términos señalados por ésta y demás leyes aplicables. El Congreso, por conducto de la Comisión, remitirá al Órgano estos informes de manera escrita y, cuando sea el caso, de manera electrónica, dentro de los diez días hábiles siguientes al de su recepción.
+Los Entes Fiscalizables, con excepción de los Ayuntamientos y las Entidades Paramunicipales, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, estarán obligados a presentar al Congreso y al Órgano a través de los medios electrónicos que determine y de conformidad con las reglas de carácter general que para tal efecto emita, los informes trimestrales sobre su Gestión Financiera en los términos señalados por ésta y demás leyes aplicables.
 
 ###### Artículo 30.
 
@@ -455,13 +539,19 @@ Los Ayuntamientos presentarán al Congreso y al Órgano los estados financieros 
 
 Los Ayuntamientos y las Entidades Paramunicipales presentarán, al Congreso y al Órgano, los estados financieros y los estados de obra pública a que se refiere el párrafo anterior, a través de medios electrónicos y de conformidad con las reglas de carácter general que emita el Órgano.
 
-Las reglas generales que emita el Órgano deberán incluir disposiciones de orden técnico y económico para posibilitar el financiamiento, adquisición, capacitación y asesoría para la instrumentación del sistema informático o electrónico, que garanticen la seguridad, confiabilidad, confidencialidad, reserva y resguardo de la información contenida en los estados financieros y de obra pública, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables. Al efecto, el sistema informático deberá generar el acuse de recibo electrónico que permita probar la fecha y hora de recepción de los referidos estados financieros y de obra pública.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+Las reglas de carácter general que emita el Órgano deberán incluir disposiciones de orden técnico y económico para posibilitar el financiamiento, adquisición, capacitación y asesoría para la instrumentación del sistema informático o electrónico, que garanticen la seguridad, confiabilidad, confidencialidad, reserva y resguardo de la información contenida en los estados financieros y de obra pública, de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables. Al efecto, el sistema informático deberá generar el acuse de recibo electrónico que permita probar la fecha y hora de recepción de los referidos estados financieros y de obra pública.
 
 Los estados financieros y los estados de obra pública del mes que corresponda deberán remitirse de manera electrónica a más tardar el día veinticinco del mes inmediato posterior. Sólo por causa debidamente justificada, dichos estados podrán presentarse de manera impresa, pero siempre dentro del plazo antes señalado.
 
-Los Entes Fiscalizables municipales, deberán presentar al Órgano el programa general de inversión, las modificaciones presupuestales, los reportes trimestrales de avances físico-financieros y el cierre de ejercicio, mediante el sistema informático y en las fechas que para cada uno de ellos se establezcan en las reglas generales que se refieren en el párrafo tercero de este artículo.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
 
-Sin perjuicio de lo previsto en el artículo 67, fracción III, de la Constitución del Estado y de lo dispuesto por esta Ley, el Órgano comunicará a los Órganos Internos de Control municipales, el resultado obtenido respecto al estudio de los documentos mencionados en el párrafo anterior, a efecto de que cada instancia proceda en términos de sus respectivas competencias.
+Los Entes Fiscalizables municipales deberán presentar al Órgano el programa general de inversión, las modificaciones presupuestales, los reportes trimestrales de avances físico-financieros y el cierre de ejercicio, mediante el sistema informático, en las fechas que para cada uno de ellos se establezcan en las reglas de carácter general que se refieren en el párrafo tercero de este artículo. Adicionalmente deberán entregar en los mismos términos, la información correspondiente a la integración, organización y funcionamiento de los órganos de participación ciudadana.
+
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+Sin perjuicio de lo previsto por el artículo 67, fracción III, de la Constitución del Estado y de lo dispuesto por esta Ley, el Órgano comunicará a los Órganos Internos de Control que corresponda, el resultado obtenido respecto del estudio de los documentos mencionados en el párrafo anterior, a efecto de que cada instancia proceda en términos de sus respectivas competencias.
 
 ###### Artículo 31.
 
@@ -475,7 +565,13 @@ El Congreso sancionará el incumplimiento de la presentación de Cuentas Públic
 
 Asimismo, el Congreso sancionará el incumplimiento de la presentación de los informes trimestrales de gestión financiera, o de los estados financieros y estados de obra pública mensuales previstos en este capítulo, según corresponda, por conducto de su unidad o área administrativa responsable de los servicios jurídicos, con la imposición, al servidor público responsable, de una multa de trescientas a mil veces el valor diario vigente de la Unidad de Medida y Actualización.
 
-De igual manera, se sancionará a través del Órgano, el incumplimiento de la presentación del programa general de inversión, las modificaciones presupuestales, los reportes trimestrales de avances físico-financieros y el cierre del ejercicio, previstos en este Capítulo, por conducto de su unidad o área administrativa responsable de los servicios jurídicos, con la imposición, al servidor público responsable, de trescientas a mil veces el valor diario vigente de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+De igual manera, se sancionará a través del Órgano, el incumplimiento de la presentación del programa general de inversión, las modificaciones presupuestales, los reportes trimestrales de avances físico-financieros, el cierre del ejercicio y, en su caso, la información correspondiente a la integración, organización y funcionamiento de los órganos de participación ciudadana, previstos por este Capítulo, con la imposición al servidor público responsable de una multa de trescientas a mil veces el valor diario vigente de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+Igual sanción se aplicará cuando se detecten diferencias entre la información financiera y la de programas y proyectos de inversión presentada por el mismo Ente Fiscalizable, correspondiente al mismo periodo.
 
 ###### Artículo 33.
 
@@ -547,9 +643,11 @@ El Ente Fiscalizador será responsable subsidiario de los daños y perjuicios qu
 
 El Procedimiento de Fiscalización Superior, podrá iniciar a partir del primer día hábil del año siguiente al cierre del ejercicio fiscal, sin perjuicio de que las observaciones o recomendaciones que, en su caso, realice el Órgano se refieran a la información definitiva presentada en las Cuentas Públicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 44.
 
-El Órgano podrá solicitar en cualquier momento, a los Entes Fiscalizables, responsables solidarios o terceros relacionados, datos, documentos e información del ejercicio en curso, respecto de procesos concluidos; así como, aquellos que considere necesarios para la planeación y programación de las auditorías.
+El Órgano podrá solicitar en cualquier momento y por cualquiera de los medios previstos en esta Ley, a los Entes Fiscalizables, responsables solidarios o terceros relacionados con ellos, datos, documentos e información impresa o electrónica del ejercicio en curso, respecto de procesos concluidos, así como aquéllos que considere necesarios para la planeación y programación de las auditorías.
 
 De igual manera, podrá solicitar los datos personales identificativos para la integración de información en los sistemas informáticos desarrollados por el Órgano.
 
@@ -557,19 +655,31 @@ Las solicitudes que se realicen, en los términos señalados en el presente art�
 
 I. La solicitud se notificará al Ente Fiscalizable, responsable solidario o tercero relacionado, de conformidad con lo establecido en la presente Ley;
 
-II. La solicitud deberá indicar el lugar y el plazo en los cuales deberán ser presentados y proporcionados, los datos, informes y documentos que, en su caso, precise el Órgano;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
 
-III. Los datos, informes y documentos requeridos, deberán presentarse mediante escrito, debidamente firmado en forma autógrafa, por la persona a quien fue dirigida la solicitud o por su representante legal, con personalidad debidamente acreditada;
+II. La solicitud deberá indicar el lugar, el plazo y el medio a través del cual deberán ser presentados y proporcionados los datos, informes y documentos que precise el Órgano;
 
-IV. La documentación deberá ser entregada en copia debidamente certificada y foliada por el funcionario competente para ello, y en dispositivo electrónico, sin perjuicio de que el Órgano requiera en los casos que considere necesarios, los originales para cotejo; y
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
 
-V. El escrito a través del cual se dé cumplimiento al requerimiento, deberá ser dirigido al titular del Órgano, haciendo referencia al número de oficio con que le fueron solicitados los datos, informes y documentos.
+III. Los datos, informes y documentos requeridos deberán presentarse mediante escrito, debidamente firmado en forma autógrafa, por la persona a quien fue dirigida la solicitud o por su representante legal, con personalidad debidamente acreditada o, en su caso, con la Firma Electrónica Avanzada cuando se trate de documentos electrónicos;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+IV. La documentación deberá ser entregada en copia debidamente certificada y foliada por el funcionario competente para ello, y en dispositivo electrónico, sin perjuicio de que el Órgano requiera en los casos que considere necesarios, los originales para cotejo. En caso de que dicha documentación sea remitida a través del Buzón Fiscalizador deberá adjuntarse la correspondiente certificación.
+
+Cuando se trate de documentos electrónicos, el servidor público encargado de expedir copias certificadas deberá realizarlo de manera electrónica a través del Buzón Fiscalizador, y
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+V. El documento a través del cual se dé cumplimiento al requerimiento deberá ser dirigido al titular del Órgano, haciendo referencia al número de oficio con que le fueron solicitados los datos, informes y documentos.
 
 Los Órganos Internos de Control de los Entes Fiscalizables, deberán colaborar con el Ente Fiscalizador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 45.
 
-El Procedimiento de Fiscalización Superior, inicia con la notificación personal o por correo registrado con acuse de recibo, a los titulares de los Entes Fiscalizables, del oficio que contenga la Orden de Auditoría; y concluirá con la entrega de los Informes Individuales y el Informe General Ejecutivo, al Congreso a través de la Comisión.
+El Procedimiento de Fiscalización Superior inicia con la notificación personal; por correo registrado con acuse de recibo o por vía electrónica a través del Buzón Fiscalizador, a los Titulares de los Entes Fiscalizables, del oficio que contenga la Orden de Auditoría, sin perjuicio de que el mismo pueda tratarse de un documento electrónico, y concluirá con la entrega de los Informes Individuales y el Informe General Ejecutivo, al Congreso a través de la Comisión.
 
 A partir del inicio formal del Procedimiento de Fiscalización Superior, éste deberá concluir en un período no mayor de un año, salvo que por resolución jurisdiccional, se ordene su reposición. En este caso el Órgano deberá emitir la resolución correspondiente, dentro del plazo de seis meses, contado a partir de que se notifique la reposición respectiva. Este plazo podrá prorrogarse una sola vez por seis meses más.
 
@@ -599,6 +709,10 @@ b) Que se hayan alcanzado las metas, conforme a los indicadores aprobados;
 
 c) Que cuentan con los mecanismos de control interno, adecuados y funcionales;
 
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+d) Que se hayan cumplido los objetivos de los programas y las metas de gasto que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia y cualquier otra forma de discriminación;
+
 V. Determinar si existen discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existe exactitud o justificación en los ingresos obtenidos o en los gastos realizados; y
 
 VI. Promover las acciones o denuncias, para la imposición de las sanciones administrativas y penales correspondientes, por la probable comisión de faltas graves o delitos, que se conozcan por el Ente Fiscalizador, derivado de sus revisiones, auditorías e investigaciones; asimismo, dar vista a las autoridades competentes para el seguimiento e investigación de aquellas conductas o faltas, consideradas como no graves, para su investigación y sanciones respectivas;
@@ -619,7 +733,9 @@ Se realizará con apego a las disposiciones constitucionales, legales y reglamen
 
 El Ente Fiscalizador podrá ejecutar el Procedimiento de Fiscalización Superior, conforme a las modalidades siguientes:
 
-I. Revisión de Gabinete, mediante solicitud a los Entes Fiscalizables para el fin de que exhiban, en el domicilio del Ente Fiscalizador, la información y documentación comprobatoria que corresponda; y
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+I. Revisión de Gabinete, mediante requerimiento a los Entes Fiscalizables para el fin de que exhiban, en el domicilio del Ente Fiscalizador o a través de los medios electrónicos previstos por la presente Ley, la información y documentación comprobatoria que corresponda, y
 
 II. Visita Domiciliaria o de Campo, por sí o por conducto de Despachos, en el domicilio legal del Ente Fiscalizable, en el lugar donde se encuentren sus archivos o en el sitio de la obra pública a fiscalizar.
 
@@ -631,6 +747,10 @@ En las modalidades señaladas en las fracciones I y II del presente artículo, s
 
 Las actas, los informes de auditoría pública y los dictámenes técnico y financiero presupuestal que elaboren los Despachos o Prestadores de Servicios de Auditoría, respecto de ejercicios presupuestales y Cuentas Públicas de los Entes Fiscalizables que los hubieren contratado, se sujetarán a las formalidades de revisión previstas en esta Ley y demás disposiciones aplicables, y se someterán a la aprobación del Órgano.
 
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+El Órgano podrá hacer uso del Buzón Fiscalizador en cualquier etapa y modalidad del Procedimiento de Fiscalización Superior.
+
 Subsección Primera
 
 De la Revisión de Gabinete
@@ -639,13 +759,19 @@ De la Revisión de Gabinete
 
 Para la ejecución del Procedimiento de Fiscalización Superior, mediante la modalidad de Revisión de Gabinete, el Ente Fiscalizador se sujetará a lo siguiente:
 
-I. La solicitud de informes o documentos se harán en el domicilio legal del Ente Fiscalizable, con las formalidades de una notificación personal o, por correo registrado con acuse de recibo, al servidor público que acredite el nombramiento, titularidad o representación legal del Ente Fiscalizable;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+I. El requerimiento de informes o documentos se hará al Ente Fiscalizable con las formalidades de una notificación personal, por correo registrado con acuse de recibo; a través del Buzón Fiscalizador, o en las oficinas del Órgano, al servidor público que acredite el nombramiento, titularidad o representación legal del Ente Fiscalizable;
 
 II. En la solicitud, se indicará el objeto de la revisión, el alcance que deba tener, su duración, el ejercicio presupuestal a que se refiere, y el plazo en que se deberán proporcionar en el domicilio del Ente Fiscalizador, los informes o documentos requeridos;
 
-III. Los informes o documentos requeridos deberán ser proporcionados por el servidor público que acredite el nombramiento, titularidad o representación legal del Ente Fiscalizable, en original o copia certificada expedida por el funcionario del Ente Fiscalizable facultado para ello, por autoridad competente o por fedatario público;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
 
-IV. Si con motivo de la revisión de los informes o documentos presentados por los Entes Fiscalizables, el Ente Fiscalizador encuentra incumplimiento de las disposiciones que regulan la Gestión Financiera, formulará el Pliego de Observaciones en el que se harán constar los hechos u omisiones que entrañen incumplimiento, y lo hará del conocimiento del servidor público o persona responsable para su debida solventación; y
+III. Los informes o documentos requeridos deberán ser proporcionados por el servidor público que acredite el nombramiento, titularidad o representación legal del Ente Fiscalizable, en original o copia certificada expedida por el funcionario del Ente Fiscalizable facultado para ello, por autoridad competente o por fedatario público. Dichos informes o documentos podrán ser remitidos a través del Buzón Fiscalizador;
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+IV. Si con motivo de la revisión de los informes o documentos presentados por los Entes Fiscalizables, el Ente Fiscalizador encuentra incumplimiento de las disposiciones que regulan la Gestión Financiera, formulará el Pliego de Observaciones en el que se harán constar los hechos u omisiones que entrañen incumplimiento, y lo hará del conocimiento del servidor público o persona responsable para su debida solventación, a través del Buzón Fiscalizador o, ante su imposibilidad, en cualquiera de las formas previstas por la Ley.
 
 V. En el Pliego de Observaciones, se podrán incluir aquellas recomendaciones que resultaren de la ejecución de auditorías al desempeño, en las que se hará constar de manera enunciativa, más no limitativa, los hechos u omisiones que entrañen:
 
@@ -665,7 +791,9 @@ De la Visita Domiciliaria o de Campo
 
 Para la ejecución del Procedimiento de Fiscalización Superior, mediante la modalidad de Visita Domiciliaria o de Campo, el Ente Fiscalizador se sujetará a lo siguiente:
 
-I. El procedimiento iniciará con la notificación al Ente Fiscalizable, del oficio de Orden de Visita Domiciliaria o de Campo del Ente Fiscalizador, que deberá expresar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE ABRIL DE 2025)</small>
+
+I. El Procedimiento iniciará con la notificación al Ente Fiscalizable, del oficio de Orden de Visita Domiciliaria o de Campo del Ente Fiscalizador, la cual será practicada con las formalidades de una notificación personal; por correo registrado con acuse de recibo; a través del Buzón Fiscalizador, o en las oficinas del Órgano, y deberá expresar:
 
 a) La denominación del Ente Fiscalizable al que se dirige y el lugar en el que deba practicarse;
 
@@ -681,7 +809,9 @@ IV. Los auditores designados por el Ente Fiscalizador levantarán acta circunsta
 
 V. Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer al lugar donde se realice la visita, por ausentarse antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En cualesquiera de estas circunstancias, el representante del Ente Fiscalizable deberá designar de inmediato a otros testigos y, ante la negativa o imposibilidad de los designados, los auditores nombrarán a quienes deban sustituirlos;
 
-VI. El representante del Ente Fiscalizable con quien se entienda la visita, estará obligado a permitir a los auditores designados por el Ente Fiscalizador, el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición los libros, registros, sistemas y demás documentos que contengan información sobre el ejercicio de los recursos públicos asignados al Ente Fiscalizable, los cuales serán examinados en el domicilio de éste, en el lugar donde se encuentren sus archivos o en el lugar de la obra de que se trate. Los auditores podrán solicitar y obtener copia certificada de dichos documentos, la que podrá ser expedida por el servidor público del Ente Fiscalizable facultado para ello, por autoridad competente o por fedatario público;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+VI. El representante del Ente Fiscalizable con quien se entienda la visita estará obligado a permitir a los auditores designados por el Ente Fiscalizador, el acceso al lugar o lugares objeto de la misma, así como a poner y mantener a su disposición los libros, registros, sistemas y demás documentos que contengan información sobre el ejercicio de los recursos públicos asignados al Ente Fiscalizable, los cuales serán examinados en el domicilio de éste, en el lugar donde se encuentren sus archivos físicos o electrónicos o en el lugar de la obra de que se trate. Los auditores podrán solicitar y obtener copia certificada de dichos documentos, la que podrá ser expedida por el servidor público del Ente Fiscalizable facultado para ello, por autoridad competente o por fedatario público y, en su caso, requerir que sea remitida al Órgano a través del Buzón Fiscalizador;
 
 VII. En las Actas Circunstanciadas se hará constar:
 
@@ -697,7 +827,9 @@ e) Nombre y cargo de la persona con quien se entendió la diligencia, y los docu
 
 f) Nombre, domicilio y documentos con que se identificaron los auditores y las personas que fungieron como testigos;
 
-g) Documentación que fue solicitada al Ente Fiscalizable y la que fue entregada por éste a los auditores; y
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+g) Documentación que fue solicitada al Ente Fiscalizable y la que fue entregada por éste a los auditores, así como el medio a través del cual se realizó, y
 
 h) Los hechos u omisiones observados por los auditores y, en su caso, las observaciones del representante del Ente Fiscalizable con relación a los hechos u omisiones asentados en el acta.
 
@@ -707,7 +839,9 @@ IX. A juicio de los auditores, o por petición del representante del Ente Fiscal
 
 X. Si al cierre del acta la persona con quien se entendió la diligencia o los testigos se negaren a firmarla, o aquélla se negare a aceptar copia de la misma, esta circunstancia también se asentará en la propia acta, sin que afecte su validez y valor probatorio, dándose por concluida la visita.
 
-Si con motivo de la visita domiciliaria o de campo el Ente Fiscalizador detecta irregularidades o incumplimiento de las disposiciones que regulan la Gestión Financiera, formulará el Pliego de Observaciones correspondiente, en el que se harán constar de manera circunstanciada los hechos u omisiones que entrañen irregularidades o incumplimiento a las disposiciones, y lo hará del conocimiento del servidor público o persona responsable para su debida solventación.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+Si con motivo de la visita domiciliaria o de campo el Ente Fiscalizador detecta irregularidades o incumplimiento de las disposiciones que regulan la Gestión Financiera, formulará el Pliego de Observaciones correspondiente, en el que se harán constar de manera circunstanciada los hechos u omisiones que entrañen irregularidades o incumplimiento a las disposiciones, y lo hará del conocimiento del servidor público o persona responsable para su debida solventación, a través de los medios previstos por la presente Ley;
 
 XI. En el Pliego de Observaciones, se podrán incluir aquellas recomendaciones que resultaren de la ejecución de auditorías al desempeño, en las que se hará constar de manera enunciativa, más no limitativa, los hechos u omisiones que entrañen:
 
@@ -723,11 +857,11 @@ Subsección Tercera
 
 Del Pliego de Observaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 52.
 
-Si como resultado de la ejecución del Procedimiento de Fiscalización Superior resultaren observaciones, el Ente Fiscalizador notificará el pliego correspondiente a los servidores públicos o personas responsables de su solventación, aun cuando se hayan separado del cargo público, otorgándoles un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación respectiva, para que presenten las aclaraciones y la documentación justificatoria y comprobatoria que las solvente debidamente.
+Si como resultado del Procedimiento de Fiscalización Superior se determinaran observaciones, el Ente Fiscalizador notificará personalmente o a través del Buzón Fiscalizador el pliego correspondiente a los servidores públicos o personas responsables de su solventación, aun cuando se hayan separado del cargo público, otorgándoles un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta sus efectos la notificación respectiva, para que presenten las aclaraciones y la documentación justificatoria y comprobatoria que las solvente debidamente.
 
 > <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -809,7 +943,9 @@ Los Informes Individuales y el Informe General Ejecutivo se entregarán al Congr
 
 Los Informes Individuales y el Informe General Ejecutivo, tendrán el carácter de públicos, y se mantendrán en el portal de internet del Órgano, en formatos abiertos conforme a lo establecido en la legislación aplicable en materia de transparencia y acceso a la información pública.
 
-El Órgano deberá guardar reserva de las actuaciones, observaciones y recomendaciones contenidas en los Informes Individuales y el Informe General Ejecutivo, hasta en tanto se entreguen a la Comisión.
+> <small>(REFORMADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+El Órgano deberá guardar reserva de las actuaciones, observaciones y recomendaciones contenidas en los Informes Individuales y el Informe General Ejecutivo, hasta en tanto se entreguen a la Comisión, igualmente guardará reserva de la información y documentación que le sea remitida por los Entes Fiscalizables.
 
 ### CAPÍTULO V. De la conclusión de la Fiscalización de la Cuenta Pública
 
@@ -822,6 +958,22 @@ La Comisión someterá al Pleno del Congreso el dictamen de los informes corresp
 ###### Artículo 60.
 
 El Congreso del Estado por conducto de la Comisión, analizará el contenido de los informes presentados por el Órgano, con el propósito de aportar las sugerencias que considere convenientes, junto con las que hubiere realizado el Órgano, respecto de las propuestas de reformas o modificaciones a las disposiciones legales, que en su consideración contribuirían a mejorar la gestión financiera y el desempeño de los Entes Fiscalizables; asimismo, en las materias de transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, G.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 60 Bis.
+
+Una vez aprobados los Informes Individuales y el Informe General Ejecutivo por el H. Congreso del Estado, el Órgano notificará al Titular del Órgano Interno de Control del Ente Fiscalizable que corresponda, o a quien ejerza esas funciones, las Observaciones y Recomendaciones determinadas que sean de su competencia para su debida atención.
+
+Los Titulares de los Órganos Internos de Control o sus equivalentes tendrán, en la atención de las Observaciones y Recomendaciones que les notifique el Órgano, las obligaciones siguientes:
+
+I. Informar al Órgano, en términos del artículo 78, segundo párrafo de esta Ley, dentro de los treinta días hábiles siguientes a la vista desahogada, la fecha y el número de expediente con el que se inició la investigación o procedimiento respectivo;
+
+II. Remitir, dentro de los diez días hábiles siguientes a su emisión, copia certificada de las resoluciones definitivas que se dicten en los procedimientos iniciados, y
+
+III. Promover las acciones necesarias para atender las Recomendaciones que le notifique el Órgano en atención al Decreto que expida el Congreso, y rendir el informe correspondiente en términos de lo establecido en los artículos 14 y 20 de esta Ley.
+
+La omisión en el cumplimiento de las obligaciones antes señaladas será sancionada en los términos establecidos por esta Ley, con independencia de lo que resulte en materia de responsabilidades administrativas.
 
 ### CAPÍTULO VI. Del seguimiento a las Observaciones, Recomendaciones y Acciones Promovidas
 
@@ -1109,9 +1261,19 @@ XXVIII. Realizar auditorías sobre el desempeño para evaluar la eficacia, efici
 
 XXIX. Ordenar y practicar auditorías forenses, a efecto de prevenir, investigar, y detectar el fraude financiero;
 
-XXX. Elaborar estudios e investigaciones relacionadas con las materias de su competencia y publicarlos; y
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
 
-XXXI. Las demás que expresamente señalen la Constitución del Estado, esta Ley, y las demás disposiciones aplicables en materia de fiscalización superior.
+XXX. Elaborar estudios e investigaciones relacionadas con las materias de su competencia y publicarlos;
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+XXXI. Integrar un registro con las direcciones de correo electrónico oficiales y con la vertiente pública de las firmas electrónicas de los servidores públicos de los Entes Fiscalizables y de los Despachos o Personas Prestadoras de Servicios Profesionales de Auditoría;
+
+> <small>(ADICIONADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+XXXII. Emitir las reglas de carácter general para el funcionamiento del Buzón Fiscalizador, y
+
+XXXIII. Las demás que expresamente señalen la Constitución del Estado, esta Ley, y las demás disposiciones aplicables en materia de fiscalización superior.
 
 ###### Artículo 86.
 
@@ -1171,7 +1333,9 @@ VI. Expedir el Reglamento Interior del Órgano, que tendrá por objeto la distri
 
 VII. Emitir las reglas técnicas a que deberán sujetarse las modalidades y alcances de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas, verificando que sean presentadas en los términos de esta Ley y de conformidad con los principios y normas de contabilidad gubernamentales que establezcan las disposiciones aplicables; los cuales deberán publicarse en la Gaceta Oficial del Estado;
 
-VIII. Expedir los manuales de organización, procedimientos y servicios al público del Órgano, que se harán públicos (sic) portal de internet del Órgano;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+VIII. Expedir los manuales de organización y procedimientos del Órgano, que se harán públicos en el portal de internet del mismo;
 
 IX. Expedir el Reglamento del Servicio Público de Carrera, así como el Estatuto sobre las condiciones generales de trabajo de los servidores públicos del Órgano; y demás cuerpos reglamentarios o lineamientos necesarios para el ejercicio de sus atribuciones; los cuales deberán publicarse en la Gaceta Oficial del Estado;
 
@@ -1193,7 +1357,9 @@ XVII. Formular y entregar al Congreso, por conducto de la Comisión, los Informe
 
 XVIII. Imponer las sanciones que como medida de apremio se establecen en esta Ley; así como derivado del Procedimiento de Fiscalización Superior, llevar a cabo la investigación y substanciación de las faltas graves cometidas por los servidores públicos en términos de las disposiciones aplicables en materia de responsabilidades administrativas;
 
-XIX. Realizar las funciones que le correspondan, como integrante del Sistema Nacional de Fiscalización, Sistema Estatal Anticorrupción, o en cualquier otra instancia de la que forme parte, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+XIX. Realizar las funciones que le correspondan como integrante del Sistema Nacional de Fiscalización y del Sistema Estatal Anticorrupción, o en cualquier otra instancia de la que forme parte; promover el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos, así como apoyar en todo momento la implementación de mejoras para la fiscalización de los recursos federales y locales, en términos de las disposiciones aplicables;
 
 XX. Llevar a cabo conforme a las disposiciones de esta Ley, del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave y demás legislación aplicable, el procedimiento administrativo de ejecución para hacer efectivas las multas que como medidas de apremio imponga el Órgano; así como de las indemnizaciones y multas que como sanciones se determinen y finquen en los términos de esta Ley;
 
@@ -1207,9 +1373,13 @@ XXIV. Coordinarse con los integrantes del Sistema Estatal Anticorrupción, para 
 
 XXV. Ordenar la práctica de auditorías de desempeño, de legalidad y forense; así como, las diligencias que resulten necesarias, para su realización, de conformidad con el procedimiento, los alcances y en los términos que determine la Constitución del Estado, esta Ley y demás disposiciones aplicables; y
 
-XXVI. Suscribir convenios, acuerdos, contratos y demás instrumentos de naturaleza análoga, relacionados con sus atribuciones en los términos dispuestos por esta Ley y las disposiciones que resulten aplicables;
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
 
-Las demás necesarias para hacer efectivas las atribuciones del Órgano, así como las que señalen la Constitución del Estado, esta Ley y demás disposiciones legales que resulten aplicables.
+XXVI. Suscribir convenios, acuerdos, contratos y demás instrumentos de naturaleza análoga, relacionados con sus atribuciones en los términos dispuestos por esta Ley y las disposiciones que resulten aplicables, y
+
+> <small>(REFORMADA, G.O. 29 DE ABRIL DE 2025)</small>
+
+XXVII. Las demás necesarias para hacer efectivas las atribuciones del Órgano, así como las que señalen la Constitución del Estado, esta Ley y demás disposiciones legales que resulten aplicables.
 
 ###### Artículo 91.
 
@@ -1370,3 +1540,19 @@ G.O. 19 DE JULIO DE 2023.
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El Órgano de Fiscalización Superior del Estado, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones y adiciones que sean necesarias a su marco normativo para la implementación de los medios electrónicos a los que se refiere el mismo.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, los Entes Fiscalizables deberán proporcionar al Órgano de Fiscalización Superior del Estado la información necesaria para la implementación de los medios electrónicos a que se refiere el mismo. Para efectos de lo anterior, el citado Organismo Autónomo realizará las solicitudes que estime pertinentes e impondrá las medidas de apremio a que haya lugar.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, el Órgano de Fiscalización Superior del Estado celebrará los instrumentos jurídicos necesarios tendentes a la implementación de la Firma Electrónica Avanzada en el Procedimiento de Fiscalización Superior y demás actuaciones electrónicas que se emitan conforme al mismo.
+
+QUINTO. A partir de la entrada en funcionamiento del Buzón Fiscalizador, los Entes Fiscalizables deberán integrar y mantener actualizado un archivo físico con la documentación remitida al Órgano a través del Buzón Fiscalizador o de cualquier otro medio electrónico de los que disponga el Órgano, la cual deberá estar debidamente certificada y disponible para su remisión a cualquier autoridad que la requiera.
+
+SEXTO. A partir de la entrada en vigor del presente Decreto, el Órgano podrá realizar las acciones que permitan y faciliten a los Entes Fiscalizables recibir y remitir la información inherente al Procedimiento de Fiscalización Superior en curso.
