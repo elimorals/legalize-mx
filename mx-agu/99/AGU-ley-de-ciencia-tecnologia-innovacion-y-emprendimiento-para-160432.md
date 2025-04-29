@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2024-06-03"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -43,7 +43,9 @@ LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE 
 
 ## TÍTULO PRIMERO. GENERALIDADES
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 29 DE ABRIL DE 2025)</small>
+
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 1°.
 
@@ -201,13 +203,75 @@ X. Los apoyos que otorgue el Instituto deberán definirse con base a los logros 
 
 XI. Los apoyos que otorgue el Instituto deberán realizarse con base a los principios de igualdad sustantiva y perspectiva de género, para contribuir a la consolidación y transformación de una Sociedad del Conocimiento.
 
-### CAPÍTULO I. Naturaleza Jurídica y Objeto
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ABRIL DE 2025)</small>
 
-### CAPÍTULO II. Patrimonio
+### CAPÍTULO II. Las Obligaciones del Estado
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 6° Bis.
+
+El Estado debe fomentar que la formación, la investigación, la divulgación y el desarrollo de proyectos en materia de humanidades, ciencias, tecnologías e innovación se realice bajo los siguientes principios: rigor epistemológico, igualdad y no discriminación, libertad académica, inclusión, pluralidad y equidad epistémicas, interculturalidad, diálogo de saberes, producción horizontal y transversal del conocimiento, trabajo colaborativo, solidaridad, beneficio social y precaución.
+
+Las autoridades competentes en la aplicación de la presente Ley deben vigilar que dichas actividades cumplan con los lineamientos establecidos en la normativa aplicable, especialmente la relacionada con el principio precautorio, la seguridad, salud, responsabilidad ética, social y ambiental o cualquier otra causa de interés público, social o general.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 6° Ter.
+
+El Estado debe garantizar un entorno favorable para la promoción, desarrollo y comunicación de las humanidades, las ciencias, las tecnologías y la innovación y adoptará medidas que promuevan la calidad técnica de la investigación, la disposición social y el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales en todo el Estado, así como la adecuación cultural y la seguridad humana y ambiental a través de sus aplicaciones tecnológicas.
+
+###### Artículo 6° Quáter.
+
+El Estado debe garantizar las libertades de investigación, de cátedra y de expresión necesarias para el desarrollo de las humanidades, las ciencias, las tecnologías y la innovación. En consecuencia, promoverá y respetará la libertad de las personas humanistas, científicas, tecnólogas e innovadoras para:
+
+I. Realizar actividades de investigación en condiciones que garanticen su independencia de juicio técnico y permitan corroborar sus resultados;
+
+II. Reunirse, asociarse y colaborar en los planos estatal, nacional e internacional;
+
+III. Establecer los fines, objetivos, enfoques teóricos, métodos y técnicas de la investigación que lleven a cabo;
+
+IV. Intercambiar, difundir y divulgar datos, información y análisis relacionados con sus investigaciones, en los términos de la normativa aplicable;
+
+V. Manifestar sus opiniones, sin censura alguna, respecto de la institución en que se desempeñan y los proyectos en los que participan, ya sea de manera directa o a través de órganos y organizaciones académicas de conformidad con la normativa de cada institución; y
+
+VI. Discutir ideas de manera libre e informada.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 6° Quinquies.
+
+El Estado debe garantizar la promoción, desarrollo y comunicación de las humanidades, las ciencias, las tecnologías y la innovación a través de los siguientes medios:
+
+I. El marco constitucional y normativo aplicable;
+
+II. La Agenda Nacional, Local, la planeación estratégica y participativa;
+
+III. Los ejes programáticos y de articulación;
+
+IV. Los instrumentos de financiamiento de conformidad con las disposiciones jurídicas aplicables;
+
+V. El Sistema Estatal;
+
+VI. Los órganos del Estado y las autoridades competentes en la materia;
+
+VII. Los mecanismos e instrumentos públicos de fomento y apoyo; y
+
+VIII. El Sistema Nacional de Información y el REICyTEA.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE ABRIL DE 2025)</small>
+
+### CAPÍTULO III. Fines, principios y bases de las políticas públicas
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 6° Sexies.
+
+Para cumplir con el objeto de esta Ley, el Estado y los municipios, a través de las instituciones correspondientes, deben aplicar políticas públicas dirigidas a realizar, fomentar y apoyar la formación, investigación, difusión, divulgación y desarrollo de proyectos, en materia de humanidades, ciencias, tecnologías e innovación, así como el acceso abierto a la información que derive de dichas actividades, con el fin de contribuir al avance del conocimiento universal, al fortalecimiento de la soberanía del Estado, al desarrollo integral y sostenible del mismo, al bienestar de las generaciones presentes y futuras, a la preservación, restauración, protección y mejoramiento del ambiente, y a la consecución de los objetivos constitucionales del Estado.
 
 ## TÍTULO SEGUNDO. INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES
 
-### CAPÍTULO III. Organización
+### CAPÍTULO I. Naturaleza Jurídica y Objeto
 
 ###### Artículo 7°.
 
@@ -281,7 +345,7 @@ XXII. Realizar las demás actividades inherentes al cumplimiento de su objeto en
 
 XXIII. Constituir, integrar y operar un Repositorio Estatal ajustado a estándares internacionales con el propósito de articular y dar certeza a los contenidos, así como seguridad a los procedimientos de acceso, recuperación, autentificación y evaluación de la información alojada en el repositorio.
 
-### CAPÍTULO IV. Junta de Gobierno
+### CAPÍTULO II. Patrimonio
 
 ###### Artículo 10.
 
@@ -325,7 +389,7 @@ III. Los derechos de propiedad intelectual e industrial respecto de los resultad
 
 IV. Las demás que se establezcan a través de reglas o lineamientos de carácter general, en función de programas y proyectos específicos.
 
-### CAPÍTULO V. Dirección General
+### CAPÍTULO III. Organización
 
 ###### Artículo 13.
 
@@ -349,7 +413,7 @@ Además, contará con la estructura orgánica y el personal profesional, técnic
 
 Cada uno de los órganos y unidades administrativas referidas en el presente artículo cuentan con las atribuciones que se establecen en la Ley y en el Reglamento, y deben desarrollar sus actividades con estricto respeto a sus respectivas competencias y de forma coordinada.
 
-### CAPÍTULO VI. Unidades Administrativas
+### CAPÍTULO IV. Junta de Gobierno
 
 ###### Artículo 14.
 
@@ -553,7 +617,7 @@ VI. La información y los documentos, de forma adjunta, necesarios para el anál
 
 La Junta de Gobierno puede crear las comisiones internas de trabajo, permanentes o transitorias, que juzgue pertinentes para el mejor desempeño de sus atribuciones.
 
-### CAPÍTULO VII. Órgano de Vigilancia
+### CAPÍTULO V. Dirección General
 
 ###### Artículo 28.
 
@@ -615,7 +679,7 @@ XX. Supervisar y vigilar la debida observancia de la presente Ley y demás orden
 
 XXI. Las demás que le confieren la presente Ley, la Junta de Gobierno y otras disposiciones en la materia.
 
-### CAPÍTULO VIII. Órgano Interno de Control
+### CAPÍTULO VI. Unidades Administrativas
 
 ###### Artículo 31.
 
@@ -625,7 +689,7 @@ Las facultades y obligaciones de las unidades administrativas referidas en el pr
 
 Los servidores públicos del primer nivel jerárquico inferior al de la persona titular de la Dirección General, serán designados y removidos por la persona titular del Poder Ejecutivo del Estado.
 
-### CAPÍTULO IX. Consejo Consultivo
+### CAPÍTULO VII. Órgano de Vigilancia
 
 ###### Artículo 32.
 
@@ -637,7 +701,7 @@ La o el Comisario Público cuenta con facultades para evaluar el desempeño gene
 
 Para el cumplimiento de las funciones citadas la Junta de Gobierno y la persona titular de la Dirección General del Instituto deberán proporcionar la información que solicite la o el Comisario Público del Instituto y el Órgano Superior de Fiscalización del Estado, este último únicamente respecto de las cuentas públicas que le sean presentadas.
 
-### CAPÍTULO X. Régimen Laboral
+### CAPÍTULO VIII. Órgano Interno de Control
 
 ###### Artículo 34.
 
@@ -765,7 +829,7 @@ XII. Resolver las inconformidades previstas en la Ley de Adquisiciones, Arrendam
 
 XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
 
-### CAPÍTULO XI. Ausencias y Suplencias
+### CAPÍTULO IX. Consejo Consultivo
 
 ###### Artículo 39.
 
@@ -823,15 +887,13 @@ Las recomendaciones del Consejo se tomarán por mayoría de votos; en caso de em
 
 Los acuerdos se asentarán en un Acta, que será suscrita por el Presidente y el Secretario de Actas del Consejo, siendo éste último el responsable del resguardo de la misma.
 
-### CAPÍTULO I. Financiamiento
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+### CAPÍTULO X. Régimen Laboral
 
 ###### Artículo 43.
 
 Las relaciones de trabajo entre el Instituto y su personal se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
 
-### CAPÍTULO II. Fondos
+### CAPÍTULO XI. Ausencias y Suplencias
 
 ###### Artículo 44.
 
@@ -839,7 +901,9 @@ Para efectos del presente Capítulo se estará en lo dispuesto por el Reglamento
 
 ## TÍTULO TERCERO. FINANCIAMIENTO, FONDOS Y ESTÍMULOS FISCALES
 
-### CAPÍTULO III. Estímulos Fiscales
+### CAPÍTULO I. Financiamiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
 
 ###### Artículo 45.
 
@@ -905,13 +969,13 @@ IV. Promover y estimular la creación equipamiento, mantenimiento y preservació
 
 Las reasignaciones de recursos de un proyecto que por necesidades del servicio requiera ser aplicadas a otro, deberá realizarse por la Junta de Gobierno previa solicitud fundada y motivada del Director General.
 
-### CAPÍTULO I. Divulgación, Difusión y Fomento de la Cultura Emprendedora, Innovadora y Científica
+### CAPÍTULO II. Fondos
 
 ###### Artículo 53.
 
 El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo del ecosistema emprendedor del estado, así como de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones emprendedoras, innovadoras, científicas y tecnológicas; realización de proyectos específicos de emprendimiento de alto impacto económico, social, ecológico, de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de casos de éxito emprendedor, de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos o centros de investigación, así como otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, y la investigación, así como a personas dedicadas al desarrollo de tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
 
-### CAPÍTULO II. Jornadas de Divulgación de la Cultura Científica y Fomento al Emprendimiento y la Innovación
+### CAPÍTULO III. Estímulos Fiscales
 
 ###### Artículo 54.
 
@@ -923,7 +987,7 @@ Para los efectos del presente artículo, se consideran como gastos e inversiones
 
 ## TÍTULO CUARTO. INSTRUMENTOS DE APOYO AL EMPRENDIMIENTO, LA INNOVACIÓN, LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
-### CAPÍTULO III. Formación de Recursos Humanos
+### CAPÍTULO I. Divulgación, Difusión y Fomento de la Cultura Emprendedora, Innovadora y Científica
 
 ###### Artículo 55.
 
@@ -947,7 +1011,7 @@ IV. Promover la producción de materiales cuya finalidad sea la divulgación de 
 
 Para incrementar la divulgación y difusión de emprendimiento, ciencia, tecnología e innovación en el Estado, el Instituto impulsará y apoyará logística y económicamente la realización de seminarios, coloquios, veranos, cursos, congresos y ferias de investigación y desarrollo.
 
-### CAPÍTULO IV. Plan Rector del Sistema Estatal para la Gestión del Conocimiento
+### CAPÍTULO II. Jornadas de Divulgación de la Cultura Científica y Fomento al Emprendimiento y la Innovación
 
 ###### Artículo 58.
 
@@ -955,7 +1019,7 @@ El Gobierno del Estado, a través del Instituto llevará a cabo Jornadas de Divu
 
 Para la adecuada realización de las Jornadas de Divulgación de la Cultura Científica, la Innovación Tecnológica y el Emprendimiento, el Instituto atenderá a lo dispuesto en el Capítulo Tercero del presente Título.
 
-### CAPÍTULO V. Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
+### CAPÍTULO III. Formación de Recursos Humanos
 
 ###### Artículo 59.
 
@@ -981,7 +1045,7 @@ IV. Apoyar la integración de las comunidades emprendedoras, innovadoras, cient�
 
 V. Promover la creación de programas de apoyo y becas para mujeres con la finalidad de fortalecer a este sector poblacional, contribuyendo a la consolidación y transformación de perspectiva de género del Estado de Aguascalientes en una Sociedad del Conocimiento.
 
-### CAPÍTULO I. Relaciones entre la Investigación y el Sector Productivo
+### CAPÍTULO IV. Plan Rector del Sistema Estatal para la Gestión del Conocimiento
 
 ###### Artículo 61.
 
@@ -1007,7 +1071,7 @@ IV. El análisis de la situación del Estado respecto de los principales indicad
 
 V. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y largo plazo, por parte de los sectores público, privado, científico y académico para que el Estado alcance niveles de desarrollo económico y social mediante la aplicación de conocimientos e innovaciones tecnológicas equiparables a los de los países de la economía del conocimiento.
 
-### CAPÍTULO II. Relaciones entre el Emprendimiento, la Investigación y la Educación
+### CAPÍTULO V. Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
 
 ###### Artículo 63.
 
@@ -1037,9 +1101,7 @@ Las bases proveerán lo necesario para que el REICyTEA favorezca la vinculación
 
 ## TÍTULO QUINTO. DE LA VINCULACIÓN, INNOVACIÓN, DESARROLLO TECNOLÓGICO Y ACCESO A INTERNET GRATUITO PARA EL ESTADO DE AGUASCALIENTES
 
-### CAPÍTULO III. Coordinación y Desconcentración
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+### CAPÍTULO I. Relaciones entre la Investigación y el Sector Productivo
 
 ###### Artículo 66.
 
@@ -1145,9 +1207,7 @@ En cada caso se determinará la forma y condiciones en que el Instituto recupera
 
 Los apoyos a que se refiere el Artículo anterior se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; y se mantendrán mientras se demuestre la viabilidad técnica y económica del proyecto.
 
-### CAPÍTULO IV. Del Programa Estatal “Acceso a Internet Gratuito para el Estado de Aguascalientes”
-
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
+### CAPÍTULO II. Relaciones entre el Emprendimiento, la Investigación y la Educación
 
 ###### Artículo 72.
 
@@ -1165,7 +1225,9 @@ El Gobierno del Estado, a través del Instituto reconocerá los logros sobresali
 
 El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación científica y tecnológica y la solución de problemas en el sector productivo.
 
-### CAPÍTULO ÚNICO. Responsabilidades Administrativas
+### CAPÍTULO III. Coordinación y Desconcentración
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
 
 ###### Artículo 76.
 
@@ -1176,6 +1238,10 @@ La persona titular del Poder Ejecutivo, a través del Instituto, podrá suscribi
 El Instituto convendrá con las entidades y dependencias de la administración pública federal, estatal o municipal a efecto de lograr acciones coordinadas que fomenten las actividades en materia de emprendimiento, innovación, ciencia y tecnología.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2023)</small>
+
+### CAPÍTULO IV. Del Programa Estatal “Acceso a Internet Gratuito para el Estado de Aguascalientes”
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
 
 ###### Artículo 77 Bis.
 
@@ -1212,6 +1278,8 @@ III. Plazas públicas;
 IV. Parques públicos; y
 
 V. Principales puntos turísticos.
+
+### CAPÍTULO ÚNICO. Responsabilidades Administrativas
 
 ## TÍTULO SEXTO. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
@@ -1356,3 +1424,11 @@ P.O. 3 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 135.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
