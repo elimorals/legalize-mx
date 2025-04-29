@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-03-28"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "GRO"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2025 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1969,15 +1967,13 @@ Los ascendientes o tutores que entreguen en una casa de asistencia o beneficenci
 
 No se procederá contra la madre que entregue a su hijo por ignorancia o pobreza extremas o cuando sea producto de algún delito.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 169 Bis.
 
 Abandono injustificado de mujer embarazada
 
-(NOTA: EL 4 DE NOVIEMBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 146/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE SEPTIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 843, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-Se impondrá de seis meses a tres años de prisión, multa de ciento cincuenta a quinientas veces el Valor Diario de la Unidad de Medida y Actualización, Y PRIVACIÓN DE DERECHOS FAMILIARES, a quien, a pesar de que este cuente a su disposición de recursos materiales para su subsistencia, abandone a una mujer a la que sabe ha embarazado, si ésta carece de los recursos necesarios para atender a su alimentación, habitación y salud.
+Se impondrá de seis meses a tres años de prisión, multa de ciento cincuenta a quinientas veces el Valor Diario de la unidad de Medida y Actualización, a quien, a pesar de que este cuente a su disposición de recursos materiales para su subsistencia, abandone a una mujer a la que sabe ha embarazado, si ésta carece de los recursos necesarios para atender a su alimentación, habitación y salud.
 
 Pudiéndose incrementar un tercio de las sanciones especificadas en el párrafo anterior, cuando derivado del abandono resultare con lesiones o se haya puesto en riesgo la salud de la mujer embarazada o en riesgo la salud del producto concebido.
 
@@ -2329,6 +2325,14 @@ Acoso sexual contra niñas, niños y adolescentes
 
 A quien realice los actos previstos en el artículo anterior en contra de una niña, niño o adolescente, o que no tenga capacidad para comprender el significado del hecho, se le impondrán de cuatro a diez años de prisión y de cien a cuatrocientos días multa del valor diario de la Unidad de Medida y Actualización.
 
+> <small>(F. DE E., P.O. 29 DE ABRIL DE 2025)</small>
+
+Si se ejerciere violencia física o psicológica las penas previstas se aumentarán en una mitad.
+
+> <small>(F. DE E., P.O. 29 DE ABRIL DE 2025)</small>
+
+Este delito se perseguirá por querella.
+
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 (sic)186 bis. Acoso sexual callejero
@@ -2673,15 +2677,13 @@ Para los efectos de este artículo, se tendrá como consumado el delito aun cuan
 
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario, éstos se determinarán con base en la capacidad económica y nivel de vida que el deudor y el acreedor alimentario hayan tenido en los dos últimos años.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 205 Bis.
 
 Fraude Familiar
 
-(NOTA: EL 4 DE NOVIEMBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 146/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE SEPTIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 843, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-A quien en detrimento del régimen patrimonial del matrimonio en sociedad conyugal generado durante este o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, se le aplicará prisión de uno a cinco años Y MULTA DE TRESCIENTOS SESENTA VECES DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.
+A quien, en detrimento del régimen patrimonial del matrimonio en sociedad conyugal generado durante este o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, se le aplicará prisión de uno a cinco años y multa de cien a trescientos sesenta veces de la Unidad de Medida y Actualización.
 
 ###### Artículo 206.
 
@@ -3140,6 +3142,38 @@ II. Se marque, contramarque, señale o contra señale ganado, animales ajenos en
 III. Se expidan certificados falsos para obtener guías, simulando ventas o haga conducir animales que no sean de su prioridad sin estar debidamente autorizado para ello, o haga uso de certificados para cualquier negociación sobre ganado o pieles ajenas, y
 
 IV. Se apodere de una o más cabezas de ganado propio, que se halle en poder de otro, en virtud de una relación contractual o por mandato de autoridad.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 232 Quater.
+
+Se sancionará a quien o quienes con ánimo de dominio y sin el consentimiento de la persona que legalmente pueda otorgarlo, se apoderen para sí o para otro de animales de compañía, que se encuentren bajo el cuidado, custodia o propiedad de alguna persona, se les impondrá una pena de seis meses a un año y una multa de cincuenta a cien veces de la Unidad de Medida y Actualización (UMA).
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 232 Quinquies.
+
+Quien retenga temporalmente a animales de compañía con el propósito de obtener un lucro por concepto de devolución, algún beneficio económico, y/o causar daño o perjuicio a su propietario o a cualquiera otra persona, se le impondrán prisión de seis meses a dos años y una multa de cincuenta a cien veces de la Unidad de Medida y Actualización (UMA). Se aumentarán en una tercera parte la pena y multa mencionada, si se le causan lesiones al animal, y en una mitad si se le provoca la muerte.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+###### Artículo 232 Sexies.
+
+Se aumentarán en una mitad las penas previstas en los dos artículos anteriores, cuando la conducta se cometa:
+
+I. En un lugar cerrado;
+
+II. Aprovechando alguna relación de trabajo, de servicio o de hospitalidad;
+
+III. Aprovechando la confianza depositada en él o los autores;
+
+IV. Por quien haya recibido el animal de compañía a su cuidado;
+
+V. Que los autores actúen en grupo;
+
+VI. Por medio del engaño o aprovechando el error en que otro se halle;
+
+VII. En contra de persona con discapacidad, menor de edad o de más de sesenta años.
 
 ###### Artículo 233.
 
@@ -5510,3 +5544,23 @@ P.O. 28 DE MARZO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 212 POR EL QUE SE REFORMAN LOS ARTÍCULOS 169 BIS Y 205 BIS CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 215 POR EL QUE SE ADICIONA EL ARTÍCULO 232 QUATER, EL ARTÍCULO 232 QUINQUIES Y EL ARTÍCULO 232 SEXIES AL CÓDIGO PENAL PARA EL ESTADO DE GUERRERO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
