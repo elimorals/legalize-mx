@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-aguascalentense-de-las-personas-1642
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-02-03"
-last_updated: "2024-12-26"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Extraordinario del Número 3 del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -157,15 +157,19 @@ XXIII.- Realizar acciones en conjunto con el Instituto Nacional de Migración, i
 
 XXIV.- En coordinación con los Municipios, crear y promover un Protocolo de Atención para las Personas Migrantes o en Retorno al Estado de Aguascalientes que los identifique, atienda y vincule con las instancias competentes, para poder acceder de manera integral a los derechos y servicios previstos por esta Ley, así como los previstos por las instituciones federales, estatales y municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
 XXV.- Crear y administrar el Programa para Repatriación de Restos Humanos, para brindar el servicio de traslado funerario de las personas migrantes aguascalentenses residentes en el extranjero que por alguna circunstancia han fallecido fuera del territorio nacional, de conformidad con las disposiciones de la Ley General de Salud y las normativas aplicables en materia sanitaria y consular, siendo su función exclusivamente apoyar con los costos asociados para Repatriación de Restos Humanos y de acuerdo a la suficiencia presupuestaria del Instituto.
 
-En ningún caso el Instituto podrá entregar recursos económicos a los familiares de las personas fallecidas; la erogación y pago se realizará al proveedor del servicio de traslado funerario que sea contratado; y
+En ningún caso el Instituto podrá entregar recursos económicos a los familiares de las personas fallecidas; la erogación y pago se realizará al proveedor del servicio de traslado funerario que sea contratado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
 
-XXVI.- Las demás que se requieran para cumplir con sus objetivos y las que se deriven de esta Ley.
+XXVI.- Crear políticas públicas que permitan la inclusión de actividades laborales de mujeres migrantes en situación de vulnerabilidad, garantizando su pleno desarrollo en actividades productivas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XXVII.- Las demás que se requieran para cumplir con sus objetivos y las que se deriven de esta Ley.
 
 ### CAPÍTULO III. Patrimonio
 
@@ -702,3 +706,11 @@ La Junta de Gobierno del Instituto, emitirá dentro de los 180 días siguientes 
 ###### ARTÍCULO CUARTO.
 
 El Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2025 deberá establecer y destinar los recursos económicos necesarios al Instituto Aguascalentense de las Personas Migrantes para el cumplimiento de las disposiciones establecidas en el presente Decreto.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148.- SE REFORMA LA LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
