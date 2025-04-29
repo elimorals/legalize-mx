@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2024-04-15"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MEXICO -ANTES- LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
+LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 15 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -37,7 +37,9 @@ LA H. "LV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
 
-LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE ABRIL DE 2025)</small>
+
+LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -51,15 +53,17 @@ Las disposiciones de la presente ley son de orden público, interés social y de
 
 La presente Ley tiene por objeto:
 
-I. Generar las condiciones que aseguren el desarrollo social y el pleno disfrute de los derechos sociales;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+I. Generar las condiciones que eleven el bienestar social y la protección de los derechos sociales de las personas en situación de vulnerabilidad, pobreza, carencias sociales y marginación;
 
-II. Garantizar el derecho igualitario e incondicional de toda la población al desarrollo social y a sus programas y acciones;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+II. Garantizar el derecho igualitario e incondicional de toda la población a su bienestar, al desarrollo social y a sus programas y acciones;
 
-III. Establecer las bases para un desarrollo integral, a fin de superar la pobreza, la marginación y la exclusión social;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
+
+III. Establecer las bases para un bienestar integral, a fin de disminuir la pobreza, la reducción de las carencias sociales y desigualdad social;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -69,9 +73,9 @@ IV. Promover la implementación de políticas públicas subsidiarias que ayuden 
 
 V. Garantizar la evaluación permanente de las políticas públicas, programas y acciones de desarrollo social;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-VI. Promover políticas públicas, programas y acciones de desarrollo social que favorezcan la inclusión y participación social, a fin de alcanzar una mayor cohesión social; y
+VI. Promover políticas públicas, programas y acciones de bienestar y desarrollo social que favorezcan la inclusión y participación social, a fin de alcanzar una mayor cohesión social; y
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -97,9 +101,9 @@ III. Programa de desarrollo social: Acción gubernamental dirigida a modificar l
 
 IV. Acción de desarrollo social: Acción gubernamental dirigida a modificar la condición de desigualdad social mediante la prestación de un servicio a un usuario;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-V. Ley: La Ley de Desarrollo Social del Estado de México;
+V. Ley: La Ley de Bienestar y Desarrollo Social del Estado de México;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -135,7 +139,9 @@ d) Definición del tipo de apoyo a otorgar;
 
 e) Definición del mecanismo de enrolamiento;
 
-f) Establecimiento de la contraprestación del beneficiario;
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2025)</small>
+
+f) Derechos y obligaciones de las personas beneficiarias;
 
 g) Graduación del beneficiario;
 
@@ -143,9 +149,9 @@ h) Mecanismos de participación social; y
 
 i) Quejas y denuncias.
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-XII. Pobreza: Condición social de las personas en hogares que presentan carencias en sus derechos sociales y baja capacidad de ingreso, que limitan su desarrollo y la mejoría permanente de su calidad de vida;
+XII. Pobreza: a la situación en la que se encuentran las personas, cuando presentan alguna de las carencias sociales y sus ingresos son insuficientes para adquirir los bienes y servicios que requieren para satisfacer sus necesidades alimentarias y no alimentarias;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -217,11 +223,11 @@ XXIX. Población en situación de calle: A aquellas personas que viven desvincul
 
 ### CAPITULO II. DE LOS DERECHOS SOCIALES
 
-> <small>(REFORMADO, G.G. 2 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 4.
 
-Son considerados derechos sociales: la educación, la salud, el trabajo, la alimentación segura, nutritiva y de calidad, la vivienda, el disfrute de un medio ambiente sano, la seguridad social, el acceso a las tecnologías de la información y comunicación y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+Son considerados derechos para el desarrollo social: la educación, la salud, el trabajo digno, la alimentación segura, nutritiva y de calidad, la vivienda adecuada, que cuente con espacios y servicios básicos, el disfrute de un medio ambiente sano, la seguridad social, el acceso a las tecnologías de la información y comunicación y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPITULO III. DE LA APLICACION Y LOS SUJETOS DEL DESARROLLO SOCIAL
 
@@ -319,11 +325,13 @@ XVI. Interés superior de la niñez: Conjunto de acciones y procesos tendientes 
 
 Los planes y programas Estatales y Municipales de Desarrollo Social, deberán contemplar prioritariamente:
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-I. Educación obligatoria;
+I. Acceso a la educación;
 
-II. Salud;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
+
+II. Acceso a los servicios de salud;
 
 III. Generación, conservación y capacitación para el trabajo y el incremento de la competitividad;
 
@@ -331,13 +339,17 @@ III. Generación, conservación y capacitación para el trabajo y el incremento 
 
 III Bis. Desarrollo Rural Sostenible;
 
-IV. Alimentación, nutrición materno infantil y abasto social de productos básicos;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-V. Vivienda;
+IV. Acceso a la alimentación de calidad y a la nutrición, en especial la materno infantil, y el abasto social de productos básicos;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-VI. Superación de la pobreza, marginación y exclusión; y
+V. Acceso a espacio y servicios básicos en una vivienda adecuada;
+
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
+
+VI. Contribuir a elevar la calidad de vida de las personas beneficiarias; y
 
 VII. Obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano.
 
@@ -369,9 +381,9 @@ I. Presupuestar anualmente en materia de desarrollo social, con base a esta Ley 
 
 II. Participar en el Sistema Nacional de Desarrollo Social y coordinar el Sistema Estatal de Desarrollo Social;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-III. Formular y aplicar políticas públicas compensatorias en beneficio de las personas, familias y grupos sociales en situación de desigualdad social;
+III. Formular y aplicar políticas públicas, programas y acciones para mejorar el ingreso económico y disminuir las carencias sociales;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -389,9 +401,9 @@ VIII. Integrar y administrar el registro social y el padrón único de beneficia
 
 IX. Informar a la sociedad, a través del Manual Ciudadano los programas estatales de desarrollo social;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-X. Fomentar la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en la creación, articulación e instrumentación de estrategias y programas y acciones de desarrollo social;
+X. Fomentar y fortalecer la participación de instituciones académicas, de investigación, organizaciones no gubernamentales y de la sociedad en general en la creación, articulación e instrumentación de estrategias, programas y acciones de desarrollo social;
 
 XI. Promover y ejecutar por si o con la participación de los diversos órdenes de gobierno y de la sociedad programas, proyectos, estrategias y acciones para el desarrollo social, con enfoque sostenible, territorial, urbano, rural, local, municipal, regional y/o metropolitano;
 
@@ -405,9 +417,9 @@ Son obligaciones de los municipios en materia de desarrollo social las siguiente
 
 I. Formular, dirigir e implementar la política social municipal con acuerdo del COPLADEMUN;
 
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
 
-II. Coordinar con el Gobierno del Estado, la ejecución de los programas y acciones de desarrollo social;
+II. Coordinar y fortalecer la vinculación con el Gobierno del Estado, la ejecución de los programas y acciones de desarrollo social;
 
 III. Convenir acciones con otros municipios de la entidad, en materia de desarrollo social;
 
@@ -478,6 +490,10 @@ La publicidad y la información relativa a todos los programas de desarrollo soc
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
 
 La Secretaría y los Ayuntamientos en el ámbito de sus respectivas competencias, deberán traducir a las lenguas originales de los pueblos indígenas más representativos asentados en el territorio estatal y municipal, los programas sociales a su cargo y las reglas de operación de éstos.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2025)</small>
+
+Las herramientas tecnológicas diseñadas para proporcionar información detallada sobre los Programas Sociales, requisitos y beneficios disponibles de acuerdo con las Reglas de Operación considerarán los ajustes y necesidades de personas con discapacidad y aquellas con limitaciones de alfabetización de conformidad con el principio de accesibilidad universal.
 
 ### CAPITULO III. DEL FINANCIAMIENTO
 
@@ -649,11 +665,11 @@ IV. Referencia de antecedentes de participación social;
 
 V. Las demás que solicite la Secretaría.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2025)</small>
 
 ###### Artículo 35.
 
-La Secretaría, con base en la solicitud e información proporcionada por los interesados, instruirá su registro inmediato y solicitará, en caso de ser necesaria, la inclusión de esta solicitud en la sesión inmediata siguiente del Consejo, estableciendo la comunicación necesaria entre las dependencias y organismos auxiliares del Ejecutivo.
+La Secretaría, con base en la solicitud e información proporcionada por los interesados, instruirá su registro.
 
 ###### Artículo 36.
 
@@ -1258,3 +1274,15 @@ Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 105.- POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO PARA QUEDAR COMO LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO, LAS FRACCIONES I, II, III Y VI DEL ARTÍCULO 2, LA FRACCIÓN V, EL INCISO F) DE LA FRACCIÓN XI Y LA FRACCIÓN XII DEL ARTÍCULO 3, EL ARTÍCULO 4, LAS FRACCIONES I, II, IV, V Y VI DEL ARTÍCULO 11, LAS FRACCIONES III Y X DEL ARTÍCULO 13, LA FRACCIÓN II DEL ARTÍCULO 14, Y EL ARTÍCULO 35, Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 19 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 16 Y EL INCISO B DE LA FRACCIÓN III DEL ARTÍCULO 36 DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 35 DE LA LEY DEL SEGURO DE DESEMPLEO PARA EL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 96 DUODECIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Ley de Desarrollo Social del Estado de México se entenderán hechas a la Ley de Bienestar y Desarrollo Social del Estado de México.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
