@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2025-03-31"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -6093,17 +6093,19 @@ Lo anterior, salvo lo dispuesto para los condominios de tipo especial.
 
 Para los efectos del artículo anterior, también se consideran servicios urbanos indispensables, las áreas destinadas al estacionamiento vehicular, incluyendo para visitantes, de bici estacionamientos o de actividades comerciales, educativas, de recreo y de vigilancia, en la extensión necesaria, cuando una o varias de dichas áreas deban existir a consideración del Consejo Estatal o del Municipio en su caso, previa opinión de la SEPLADE.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 442.
 
-Los servicios urbanos indispensables serán prestados permanentemente por la administración del condominio o promotor, con las cuotas y aportaciones de los condóminos, por lo que no serán responsabilidad del Municipio; salvo los servicios que hubiera recibido el mismo, conforme a lo establecido en este Código.
+Los servicios urbanos indispensables serán prestados permanentemente por la administración del condominio o promotor, según lo establezca el Reglamento de la Administración del Condominio con las cuotas y aportaciones de los condóminos, por lo que no serán responsabilidad del Municipio; salvo los servicios que hubiera recibido el mismo, conforme a lo establecido en este Código.
 
-El reglamento de administración del condominio, deberá contemplar las medidas que se adoptarán para que los condóminos cumplan con la obligación de cubrir las cuotas para la prestación de los servicios comunes y, en su caso la suspensión de su prestación por falta de pago de dichas cuotas.
+El reglamento de administración del condominio establecerá el grado de participación del promotor en la prestación de los servicios urbanos indispensables, además deberá contemplar las medidas que se adoptarán para que los condóminos cumplan con la obligación de cubrir las cuotas para la prestación de los servicios comunes y, en su caso la suspensión de su prestación por falta de pago de dichas cuotas.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
 ###### ARTÍCULO 443.
 
-La SEPLADE y el Municipio respectivo exigirán que la prestación de los servicios en los condominios se haga de manera adecuada, oportuna y suficiente por parte de los promotores o la administración de los mismos. El dictamen de la autorización correspondiente, determinará las especificaciones y características de construcción de la infraestructura y equipamiento que se requiera en el condominio.
+La SEPLADE y el Municipio respectivo exigirán que la prestación de los servicios en los condominios se haga de manera adecuada, oportuna y suficiente por parte de los promotores o la administración de los mismos según lo establezca el Reglamento de la Administración del Condominio. El dictamen de la autorización correspondiente, determinará las especificaciones y características de construcción de la infraestructura y equipamiento que se requiera en el condominio.
 
 ###### ARTÍCULO 444.
 
@@ -6325,9 +6327,9 @@ X.- Los casos y condiciones en que pueda ser modificado el régimen de propiedad
 
 XI.- Tratándose de condominios verticales y comerciales o de servicios, la existencia en su momento de un contrato de seguro contra incendios del inmueble para proteger las construcciones; en el caso de los condominios destinados para interés social y que son financiados por los organismos estatales y municipales, éstos quedarán relevados de la obligación de presentar un contrato de seguro, sin embargo una vez entregada la administración del Condominio a los condóminos, deberá sugerirles la contratación de dicho seguro.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
-Al apéndice de la escritura, se agregarán foliados y autorizados, el plano general y parciales de zonificación, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto condominal, los planos tipo correspondientes a cada uno de los predios, departamentos, viviendas o áreas y a los elementos comunes; el reglamento de administración del condominio y cualquier otro de los documentos, constancias o descripciones a que se refiere este artículo, a fin de simplificar la escritura pública correspondiente. De la documentación anterior, se entregará a la administración del condominio copias certificadas por el notario público, para el debido desempeño de sus atribuciones.
+Al apéndice de la escritura, se agregarán foliados y autorizados, el plano general y parciales de zonificación, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto condominal, los planos tipo correspondientes a cada uno de los predios, departamentos, viviendas o áreas y a los elementos comunes; el reglamento de administración del condominio en donde se establezca el grado de participación del promotor en la prestación de servicios y cualquier otro de los documentos, constancias o descripciones a que se refiere este artículo, a fin de simplificar la escritura pública correspondiente. De la documentación anterior, se entregará a la administración del condominio copias certificadas por el notario público, para el debido desempeño de sus atribuciones.
 
 ###### ARTÍCULO 465.
 
@@ -6362,6 +6364,10 @@ Previa a la inscripción de las escrituras constitutivas del régimen de propied
 ###### ARTÍCULO 470.
 
 En los contratos para adquisición de los derechos de propiedad sobre un predio, departamento, vivienda, o área, sujeto al régimen de propiedad en condominio, tiene la obligación el promotor de informar al propietario de los derechos y obligaciones de haber adquirido bajo ese régimen de propiedad; además se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva y se hará constar que el notario público entrega al condómino una copia del reglamento de administración del condominio, avalado por la SEPLADE o el Municipio según corresponda e inscrito en el Instituto Registral y Catastral.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+Los Contratos para adquisición de los derechos de propiedad de un predio establecen un acuerdo de voluntades entre las partes, por lo que el reglamento de administración del condómino podrá establecer la participación del promotor en la administración, prestación de servicios y todo lo referente a las medidas que le permitan preservar el entorno estético condominal.
 
 ###### ARTÍCULO 471.
 
@@ -6495,9 +6501,11 @@ Los notarios o fedatarios públicos, para efecto de realizar una escritura trasl
 
 #### Sección Quinta. Administración y Asamblea General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 490.
 
-La escritura pública constitutiva y el reglamento de administración del condominio establecerán las características y condiciones para la organización y funcionamiento del condominio y, en su caso, del conjunto condominal.
+La escritura pública constitutiva y el reglamento de administración del condominio establecerán las características y condiciones para la organización y funcionamiento del condominio, el grado de participación del promotor en la prestación de servicios y, en su caso, del conjunto condominal.
 
 El órgano supremo del condominio es la Asamblea General de Condóminos. La asamblea general de condóminos sesionará de manera ordinaria o extraordinaria.
 
@@ -6599,11 +6607,15 @@ Cualesquiera de los disidentes o ausentes podrán oponerse judicialmente a las r
 
 La oposición no suspende, mientras se dicta resolución judicial, la ejecución de los acuerdos impugnados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 498.
 
-La administración de los inmuebles sujetos al régimen de propiedad en condominio estará a cargo de un administrador o comité de administración que establezca el Reglamento de Administración del Condominio o que esté designado en la Asamblea General de Condóminos.
+La administración de los inmuebles sujetos al régimen de propiedad en condominio estará a cargo de un administrador o comité de administración que establezca el Reglamento de Administración del Condominio o que esté designado en la Asamblea General de Condóminos. El primer Administrador podrá ser el Promotor o quien este designe.
 
-En el reglamento de administración del condominio podrá establecerse que la titularidad de la administración esté a cargo de un comité integrado por 2 o más condóminos con las mismas atribuciones y facultades del administrador único.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+En el reglamento de administración del condominio podrá establecerse que la titularidad de la administración esté a cargo de un comité integrado por 2 o más condóminos con las mismas atribuciones y facultades ya establecidas en la escritura pública constitutiva.
 
 Los miembros del comité de administración, durarán en su cargo 1 año, pudiendo ser reelectos cuantas veces sea necesario y no tendrán derecho a remuneración alguna, salvo pacto en contrario. El comité tomará sus resoluciones por mayoría y en caso de empate o desacuerdo, someterá el asunto al Comité de Propietarios y de Vigilancia del condominio o a la Asamblea General de Condóminos.
 
@@ -6621,9 +6633,13 @@ Salvo que el reglamento de administración del condominio disponga otra cosa, el
 
 El administrador o comité de administración deberá ser ratificado para continuar en su cargo, en la sesión ordinaria de la asamblea general de condóminos a celebrarse dentro de los 2 primeros meses de cada año, previa opinión del comité de propietarios y de vigilancia.
 
-Tratándose de condominios nuevos, el primer administrador será designado por el promotor de los mismos, quien durará en su cargo hasta que lo sustituya el promotor o la asamblea general de condóminos.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
-De igual forma, tomando en cuenta el costo de la prestación de los servicios básicos, el promotor será el facultado para determinar el monto de la cuota ordinaria a cargo de los condóminos, la cual podrá ser modificada una vez que se entreguen las obras de urbanización y la administración del condominio.
+Tratándose de condominios nuevos, el primer Administrador podrá ser el Promotor o podrá ser designado por el promotor, quien durará en su cargo hasta que lo sustituya el promotor o la asamblea general de condóminos.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+De igual forma, tomando en cuenta el costo de la prestación de los servicios básicos, el promotor será el facultado para determinar el monto de la cuota ordinaria a cargo de los condóminos y la prestación de los servicios básico y otros especializados. Además, podrá definir todas las medidas necesarias para preservar el entorno estético condominal. Esta cuota podrá ser modificada una vez que se entreguen las obras de urbanización y la administración del condominio, o de acuerdo a lo que se establezca en el Reglamento de Administración del Condominio.
 
 ###### ARTÍCULO 502.
 
@@ -6739,11 +6755,15 @@ X.- Opinar sobre la destrucción, ruina o reconstrucción del condominio, previa
 
 XI.- Las demás que le confieren este Código, el reglamento de administración del condominio, la escritura pública constitutiva, la propia asamblea general de condóminos y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### ARTÍCULO 509.
 
-La elaboración del primer reglamento de administración del condominio será por el promotor.
+La elaboración del primer reglamento de administración del condominio será por el promotor, en este primer reglamento determinará su grado de participación para el buen funcionamiento de la administración del condominio, así como en la prestación de los servicios urbanos indispensables y todo lo referente a las medidas que le permitan preservar el entorno estético condominal.
 
-Cualquier modificación al Reglamento en caso de existir la autorización de venta y adquirentes de predios, viviendas, departamentos o áreas, se acordará en asamblea general de condóminos de carácter extraordinaria con el acuerdo como mínimo del 75% de los condóminos presentes o representados en la asamblea. Tratándose de condominios de nueva creación, que requieran obras de edificación y/o urbanización, la modificación al reglamento se podrá realizar por los condóminos después de que se hubieran entregado las obras y la administración a los condóminos. Incluso posteriormente la asamblea podrá expedir un nuevo Reglamento, cumpliendo las formalidades legales respectivas.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+Cualquier modificación al Reglamento en caso de existir la autorización de venta y adquirentes de predios, viviendas, departamentos o áreas, se acordará en asamblea general de condóminos de carácter extraordinaria con el acuerdo como mínimo del 75% de los condóminos presentes o representados en la asamblea. Tratándose de condominios de nueva creación, que requieran obras de edificación y/o urbanización, la modificación al reglamento se podrá realizar por los condóminos después de que se hubieran entregado las obras y la administración a los condóminos o como se determine en el reglamento de Administración del Condominio. Incluso posteriormente la asamblea podrá expedir un nuevo Reglamento, cumpliendo las formalidades legales respectivas.
 
 El reglamento de administración del condominio contendrá, sin contravenir lo establecido en este Código y la escritura pública constitutiva, las disposiciones que por las características específicas del condominio se consideren apropiadas y necesarias, refiriéndose por lo menos a lo siguiente:
 
@@ -6775,9 +6795,17 @@ XIII.- El procedimiento de modificación y extinción del régimen de propiedad 
 
 XIV.- Las bases para la modificación o expedición de un nuevo reglamento de administración del condominio conforme a lo establecido en este Código y la escritura pública constitutiva;
 
-XV.- La determinación de criterios para asuntos que requieran una mayoría especial en caso de votación y no previstos en este Código; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XVI.- Las demás que establezcan este Código, la escritura pública constitutiva y otros ordenamientos jurídicos aplicables.
+XV. La determinación de criterios para asuntos que requieran una mayoría especial en caso de votación y no previstos en este Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XVI.- Las Formas de participación del Promotor en la Administración, en la prestación de Servicios; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE ABRIL DE 2025)</small>
+
+XVII.- Las demás que establezcan este Código, la escritura pública constitutiva, el Reglamento de Administración y otros ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 510.
 
@@ -10204,3 +10232,11 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente.
 ###### ARTÍCULO TERCERO.
 
 Se abroga la Ley por la que se crea la Procuraduría Estatal del (sic) Desarrollo Urbano del Estado de Aguascalientes, publicada mediante decreto número 453 en el Periódico Oficial del Estado de Aguascalientes, en fecha 13 de noviembre de 2023.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 143.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
