@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-82804"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2021-09-08"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de septiembre de 2011.
 
@@ -107,7 +107,9 @@ XXII. Fideicomiso: El Fideicomiso Fondo de Fomento Agropecuario del Estado de Ta
 
 XXIII. Granja o unidad de producción acuícola: El conjunto de instalaciones y activos productivos dedicados a la acuacultura, por una persona física o moral en un predio y/o cuerpo de agua específico;
 
-XXIV. Guía de pesca: El documento expedido por la SAGARPA o autoridad competente, que ampara la movilización o internación en el territorio estatal de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XXIV. Guía de pesca: El documento expedido por la SADER o autoridad competente, que ampara la movilización o internación en el territorio estatal de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados;
 
 XXV. Inocuidad: Es la condición de calidad sanitaria de los productos pesqueros y acuícolas que garantiza su consumo sin efectos dañinos en la salud de los consumidores;
 
@@ -173,9 +175,13 @@ LV. Sanidad acuícola: El conjunto de acciones, procedimientos, prácticas y med
 
 LVI. Sanitización: La aplicación de sustancias químicas a los recursos pesqueros o acuícolas, así como a las instalaciones, equipos y transporte en los que dichos recursos se encuentren o movilicen, con el fin de evitar el desarrollo de microorganismos causantes de enfermedades o reducir el número de éstos cuando se advierta un riesgo sanitario;
 
-LVII. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación de la administración pública federal;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-LVIII. Secretaría: La Secretaría de Desarrollo Rural del Gobierno del Estado de Tamaulipas;
+LVII. SADER: La Secretaría de Agricultura y Desarrollo Rural de la administración pública federal;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+LVIII. Secretaría: La Secretaría de Desarrollo Rural, Pesca y Acuacultura del Gobierno del Estado de Tamaulipas, o la unidad administrativa que asuma sus funciones a nivel estatal;
 
 LIX. SENASICA: El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -253,7 +259,9 @@ I. Diseñar, coordinar y ejecutar la política, los instrumentos y los programas
 
 II. Elaborar, ejecutar y evaluar el Programa Estatal de Desarrollo Pesquero y Acuícola, así como los programas e instrumentos que se deriven del mismo, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Desarrollo y los Programas que de él se deriven;
 
-III. Administrar las actividades de pesca y acuacultura en el marco de la presente ley y su reglamento, así como, en su caso, del convenio específico signado con la SAGARPA;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+III. Administrar las actividades de pesca y acuacultura en el marco de la presente ley y su reglamento, así como, en su caso, del convenio específico signado con la SADER;
 
 IV. Celebrar convenios o acuerdos de coordinación con el Gobierno Federal en materia de pesca y acuacultura;
 
@@ -265,7 +273,9 @@ VII. Promover la creación y operación de esquemas y mecanismos de financiamien
 
 VIII. Promover, en coordinación con las dependencias y entidades competentes, el consumo de una mayor variedad de productos pesqueros y acuícolas, con énfasis en las especies que produce el Estado, destacando sus beneficios y valor nutritivo;
 
-IX. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación de los productores e industrializadores en la administración y manejo de los recursos pesqueros y acuícolas;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+IX. Integrar el Consejo Estatal de Pesca y Acuacultura para promover la participación de los productores y otros eslabones de las cadenas de valor en la planeación de estrategias para la administración y manejo de los recursos pesqueros y acuícolas; propiciando la participación de los organismos públicos de los 3 niveles de gobierno que puedan tener competencia en ramas relacionadas con el desarrollo de la pesca y la acuacultura;
 
 X. Participar con las dependencias y entidades competentes de la administración pública federal en la formulación, e implementación de los programas de ordenamiento territorial, así como pesquero y acuícola;
 
@@ -275,13 +285,19 @@ XI. Promover y participar, de conformidad con la Ley de Infraestructura de la Ca
 
 XII. Proponer y formular planes de manejo pesquero y acuícola, en coordinación con las dependencias competentes de la administración pública y organizaciones no gubernamentales y de conformidad con las normas oficiales mexicanas y otras disposiciones aplicables; publicarlos en el Periódico Oficial del Estado, promover su aplicación, seguimiento y evaluación;
 
-XIII. Otorgar y administrar los permisos para las actividades de pesca y acuacultura, así como las autorizaciones, constancias, certificaciones y demás documentos previstos en esta ley, su reglamento o en el marco del convenio específico signado con la SAGARPA;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-XIV. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco de la presente ley o del convenio específico signado con la SAGARPA en estas materias;
+XIII. Otorgar y administrar los permisos para las actividades de pesca y acuacultura, así como las autorizaciones, constancias, certificaciones y demás documentos previstos en esta ley, su reglamento o en el marco del convenio específico signado con la SADER;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XIV. Formular y ejercer la política estatal de inspección y vigilancia pesquera y acuícola en el marco de la presente ley o del convenio específico signado con la SADER en estas materias;
 
 XV. Ejercer, de manera directa o en concurrencia con los municipios, las facultades y atribuciones conferidas por esta ley en los cuerpos de agua dulce continental, así como en las granjas acuícolas e instalaciones dedicadas a la producción de insumos biológicos o biogénicos para la acuacultura que se ubiquen dentro del territorio y jurisdicción del Estado;
 
-XVI. Aplicar medidas de sanidad, inocuidad y calidad acuícola y pesquera, de conformidad con las Normas Oficiales Mexicanas, con las disposiciones de esta ley y su reglamento, así como en el marco del convenio específico signado con la SAGARPA en estas materias;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XVI. Aplicar medidas de sanidad, inocuidad y calidad acuícola y pesquera, de conformidad con las Normas Oficiales Mexicanas, con las disposiciones de esta ley y su reglamento, así como en el marco del convenio específico signado con la SADER en estas materias;
 
 XVII. Promover, directamente o en coordinación con las autoridades educativas, la investigación aplicada, el desarrollo e innovación tecnológicos de la pesca y la acuacultura, así como servicios de asesoría y capacitación;
 
@@ -395,7 +411,9 @@ XII. Los instrumentos y acciones integrales de inspección y vigilancia para el 
 
 1. Se crea el Consejo Estatal de Pesca y Acuacultura como una instancia de coordinación y concertación con los sectores público, social y privado para proponer políticas, programas, proyectos e instrumentos de carácter estatal tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesquera y acuícola, así como para incrementar la competitividad del sector.
 
-2. El Consejo Estatal podrá emitir opiniones a la SAGARPA u otras dependencias y entidades federales respecto del aprovechamiento de los recursos pesqueros y acuícolas en Tamaulipas.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+2. El Consejo Estatal podrá emitir opiniones a la SADER u otras dependencias y entidades federales respecto del aprovechamiento de los recursos pesqueros y acuícolas en Tamaulipas.
 
 ###### ARTÍCULO 15.
 
@@ -407,17 +425,45 @@ II. Un Vicepresidente, que será el titular de la Secretaría, quien fungirá co
 
 III. Un Secretario Ejecutivo, que será el Subsecretario de Pesca y Acuacultura; y
 
-IV. Cinco vocales, que a invitación del Presidente serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ABRIL DE 2025)</small>
 
-a) Un representante de la pesca ribereña;
+IV. Hasta 15 personas vocales consejeras titulares, que a invitación de la Presidencia serán:
 
-b) Un representante de la pesca de altamar;
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
-c) Un representante de la acuacultura;
+a) 3 representantes de la pesca ribereña;
 
-d) Un representante de una institución de educación superior o de investigación en materia de pesca o acuacultura; y
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
-e) Un representante de la industria de la transformación pesquera y acuícola.
+b) 2 representantes de la pesca de altamar;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+c) 3 representantes de la acuacultura;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+d) 1 representante de una institución académica superior;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+e) 1 representante de la industria de la transformación pesquera y acuícola; y
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+f) Las personas vocales restantes, que con apego al presente artículo y cumpliendo los criterios de admisión que se determinen en el seno del consejo, pueden ser invitados por la Presidencia o por conducto de la Vicepresidencia.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+En el Consejo Estatal de Pesca y Acuacultura serán considerados como Invitados Permanentes la Comisión Nacional de Acuacultura y Pesca o la unidad administrativa que asuma sus funciones en el ámbito federal; el Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables; y, previa invitación de la Presidencia por conducto de la Vicepresidencia, las instituciones públicas cuyas atribuciones tengan concurrencia y/o relación directa con los procesos normativos inherentes a la práctica de la pesca y/o acuacultura; o bien, puedan contribuir para su desarrollo.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+Los invitados permanentes tendrán voz en las sesiones del Consejo, sin derecho a voto.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+De manera eventual y de conformidad con los temas del orden del día de las reuniones del Consejo, la Presidencia por conducto de la Vicepresidencia, podrá convocar Invitados Especiales, en función a la naturaleza de su intervención.
 
 2. A excepción del Presidente, cada miembro propietario designará un suplente quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a este corresponda.
 
@@ -707,7 +753,9 @@ VII. La información que la Secretaría determine por su utilidad para planear e
 
 2. La organización y funcionamiento del Registro se determinará en el reglamento de esta ley.
 
-3. La Secretaría remitirá a la SAGARPA la información correspondiente al Registro, para la actualización del Registro Nacional de Pesca y Acuacultura.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+3. La Secretaría remitirá a la SADER la información correspondiente al Registro, para la actualización del Registro Nacional de Pesca y Acuacultura.
 
 ###### ARTÍCULO 39.
 
@@ -1274,3 +1322,11 @@ P.O. 8 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-303 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
