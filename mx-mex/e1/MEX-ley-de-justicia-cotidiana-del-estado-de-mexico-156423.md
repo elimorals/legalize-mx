@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-cotidiana-del-estado-de-mexico-156423"
 country: "mx"
 rank: "ley"
 publication_date: "2022-03-10"
-last_updated: "2024-04-05"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Sección Primera del Número 46 de la Gaceta del Gobierno del Estado de México, el jueves 10 de marzo del 2022.
 
@@ -137,9 +137,11 @@ Las personas residentes en el Estado de México tienen derecho de recurrir al di
 
 ### CAPÍTULO TERCERO. DE LA JUSTICIA ITINERANTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 12.
 
-La justicia itinerante tiene por objeto acercar trámites y servicios a las comunidades alejadas, de difícil acceso o que se encuentran en estado de marginación jurídica, pobreza o exclusión, o bien, que merecen especial atención de conformidad con lo que dispone el artículo 12 de la Ley de Desarrollo Social del Estado de México.
+La justicia itinerante tiene por objeto acercar trámites y servicios a las comunidades alejadas, de difícil acceso o que se encuentran en estado de marginación jurídica, pobreza o exclusión, o bien, que merecen especial atención de conformidad con lo que dispone el artículo 12 de la Ley de Bienestar y Desarrollo Social del Estado de México.
 
 Para efectos de lo dispuesto en el párrafo anterior, se deberá de considerar que la atención, trámites, servicios, materiales e insumos estén traducidos a los dialectos de los pueblos originarios de la entidad y comunidades indígenas en un lenguaje claro.
 
@@ -362,3 +364,15 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105.- POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO PARA QUEDAR COMO LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO, LAS FRACCIONES I, II, III Y VI DEL ARTÍCULO 2, LA FRACCIÓN V, EL INCISO F) DE LA FRACCIÓN XI Y LA FRACCIÓN XII DEL ARTÍCULO 3, EL ARTÍCULO 4, LAS FRACCIONES I, II, IV, V Y VI DEL ARTÍCULO 11, LAS FRACCIONES III Y X DEL ARTÍCULO 13, LA FRACCIÓN II DEL ARTÍCULO 14, Y EL ARTÍCULO 35, Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 19 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 16 Y EL INCISO B DE LA FRACCIÓN III DEL ARTÍCULO 36 DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 35 DE LA LEY DEL SEGURO DE DESEMPLEO PARA EL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 96 DUODECIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Ley de Desarrollo Social del Estado de México se entenderán hechas a la Ley de Bienestar y Desarrollo Social del Estado de México.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
