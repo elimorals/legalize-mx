@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-12-09"
+last_updated: "2025-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -2327,13 +2327,17 @@ I. Todos los vehículos destinados al transporte público de personas, deberán 
 
 II. Los vehículos destinados a la enseñanza de manejo, deberán contar con una póliza de seguro a favor del contratante y daños a terceros, cobertura que deberá estar debidamente prevista en el contrato de prestación de servicios respectivo. Dicha póliza es irrenunciable;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-III. Los vehículos destinados al transporte público de personas deberán contar con botones de pánico, además de portar el número económico de la unidad para su identificación en el tablero u otro lugar visible del vehículo; y
+III. Los vehículos destinados al transporte público de personas deberán contar con botones de pánico, ademes (sic) de portar el número económico de la unidad para su identificación en el tablero u otro lugar visible del vehículo;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-IV. Los vehículos destinados al transporte público de personas en la modalidad de transporte escolar, taxis y el contratado a través de plataformas tecnológicas, deberán de contar con los medios necesarios para brindar el servicio de transporte a personas con discapacidad que requieran trasladar accesorios como sillas de ruedas, andaderas u otros similares.
+IV. Los vehículos destinados al transporte público de personas en la modalidad de transporte escolar, taxis y el contratado a través de plataformas tecnológicas, deberán de contar con los medios necesarios para brindar el servicio de transporte a personas con discapacidad que requieran trasladar accesorios como sillas de ruedas, andaderas u otros similares; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+V. Los vehículos destinados al servicio de transporte público de personas en las modalidades previstas del inciso a) al inciso i) de la fracción I del Artículo 119 de esta Ley, así como los vehículos destinados al servicio de transporte de personas contratado a través de plataformas tecnológicas, están obligados a encender las luces interiores de las unidades respectivas, por la noche cuando se encuentren prestando el servicio; dichas luces deberán cumplir con las especificaciones que establezca la CMOV.
 
 ###### ARTÍCULO 91.
 
@@ -4001,7 +4005,9 @@ Esta disposición será exigible en los vehículos con capacidad para más de di
 
 El Poder Ejecutivo del Estado brindará estímulos a aquellos concesionarios que adapten los vehículos en beneficio de las personas con movilidad limitada;
 
-XL. Instalar botones de pánico en las unidades de transporte público; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XL. Instalar botones de pánico en las unidades de transporte público, así como prever que cuenten con luces interiores con las especificaciones requeridas; y
 
 XLI. Las demás que señalen esta Ley y otras disposiciones legales, reglamentarias y administrativas.
 
@@ -4031,9 +4037,17 @@ g) Evitar detener el curso de la unidad con fines personales haciendo esperar al
 
 h) Mantener la unidad de servicio en óptimo estado mecánico y de higiene, de tal manera que proporcionen el nivel de servicio y comodidad requerido por los usuarios;
 
-i) Mostrar en el interior de la unidad la información relacionada con la tarifa autorizada, identificación del conductor y número telefónico para quejas y sugerencias; y
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
-j) Mostrar en los asientos de personas con discapacidad, el letrero de uso exclusivo y engomado del logotipo internacional de las personas con discapacidad;
+i) Mostrar en el interior de la unidad la información relacionada con la tarifa autorizada, identificación del conductor y número telefónico para quejas y sugerencias;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+j) Mostrar en los asientos de personas con discapacidad, el letrero de uso exclusivo y engomado del logotipo internacional de las personas con discapacidad; y
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+k) Encender las luces interiores de la unidad por la noche, cuando se encuentren prestando el servicio; esta disposición solo será obligatoria para las personas operadoras que presten el servicio de transporte publico de personas según corresponda;
 
 II. Portar el uniforme de trabajo reglamentario durante el servicio;
 
@@ -4241,9 +4255,9 @@ La carta de registro de las unidades se podrá expedir por un período de tres, 
 
 I. Copia certificada del título de propiedad del vehículo;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-II. Que la antigüedad del vehículo con el que se prestará el servicio no exceda de seis años; además deberá contar con cuatro puertas, cinco plazas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire, aire acondicionado, así como el cumplimiento de los requisitos para su circulación previstos en esta Ley y el Reglamento;
+II. Que la antigüedad del vehículo con el que se prestará el servido (sic) no exceda de seis años; además deberá contar con cuatro puertas, cinco plazas, cinturones de seguridad en condiciones de uso para todos los pasajeros, bolsas de aire, aire acondicionado, luces interiores, así como el cumplimiento de los requisitos para su circulación previstos en esta Ley y el Reglamento;
 
 III. Copia de la póliza del seguro vehicular vigente;
 
@@ -4295,9 +4309,17 @@ V. Abstenerse de realizar, por el servicio que prestan, oferta directa en la ví
 
 VI. Abstenerse de realizar cobros en dinero en efectivo;
 
-VII. Fijar en un lugar visible el holograma, emblema o distintivo autorizado que los identifique; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-VIII. Verificar las condiciones del vehículo, conforme a lo que establezca la autoridad competente.
+VII. Fijar en un lugar visible el holograma, emblema o distintivo autorizado que los identifique;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+VIII. Verificar las condiciones del vehículo, conforme a lo que establezca la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+IX. Encender las luces interiores de los vehículos por la noche, cuando se encuentren prestando el servicio de transporte.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -4639,7 +4661,9 @@ Los conductores de bicicletas o motocicletas podrán llevar carga cuando sus veh
 
 Los conductores de automóviles, sin perjuicio de las demás normas que establezca la presente Ley, deberán de observar las siguientes disposiciones:
 
-I. Conducir sujetando con ambas manos el volante o control de la dirección y no llevar entre sus brazos a personas u objeto alguno, ni permitir que otra persona, desde un lugar diferente destinado al conductor, tome el control de la dirección, distraiga u obstruya la conducción del vehículo;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+I. Conducir sujetando con ambas manos el volante o control de la dirección y no llevar entre sus brazos a personas, animal u objeto alguno, ni permitir que otra persona, desde un lugar diferente destinado al conductor, tome el control de la dirección, distraiga u obstruya la conducción del vehículo;
 
 II. Circular con las puertas cerradas;
 
@@ -4871,7 +4895,9 @@ Las maniobras de ascenso y descenso de pasajeros deberán realizarse en toda oca
 
 Todo usuario de los servicios urbanos podrá reportar a la dependencia competente, a los operadores que infrinjan este precepto, indicando el número de placas, ruta de que se trate, lugar y hora aproximada en que se cometió la infracción. La autoridad competente citará a los interesados y previa fundamentación y motivación, impondrá la sanción a que hubiere lugar.
 
-Es obligatorio encender las luces interiores de la unidad por la noche tratándose de vehículos de transporte público urbano, cuando estos se encuentren en movimiento.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+Los vehículos destinados al servicio de transporte público de personas en las modalidades previstas del inciso a) al inciso i) de la fracción I del artículo 119 de esta Ley, así como los vehículos destinados al servicio de transporte de personas contratado a través de plataformas tecnológicas, están obligados a encender las luces interiores de las unidades respectivas por la noche, cuando se encuentren prestando el servicio; dichas luces deberán cumplir con las especificaciones que establezca la CMOV.
 
 En las rutas urbanas, no se permitirá el ascenso de animales de cualquier especie, con excepción de los que se consideran guías o lazarillos.
 
@@ -6582,3 +6608,15 @@ Hasta en tanto no entren en vigencia las disposiciones reglamentarias derivadas 
 ###### ARTÍCULO CUARTO.
 
 Quedan sin efectos todas aquellas disposiciones normativas y reglamentarias que se opongan al presente Decreto
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 150.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Coordinación General de Movilidad del Estado de Aguascalientes deberá emitir las disposiciones que establezcan las especificaciones de las luces interiores que deban portar los vehículos destinados al servicio de transporte publico de personas en las modalidades previstas del inciso a) al inciso i) de la fracción I del artículo 119 de la Ley de Movilidad del Estado de Aguascalientes, así como los vehículos destinados al servicio de transporte de personas contratado a través de plataformas tecnológicas, dentro (sic) los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
