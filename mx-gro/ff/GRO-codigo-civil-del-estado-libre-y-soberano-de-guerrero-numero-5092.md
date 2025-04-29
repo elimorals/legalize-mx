@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2024-06-17"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -12661,11 +12661,13 @@ El arrendador que no haga las obras que ordenen las autoridades sanitarias y mun
 
 La duración mínima de todo contrato de arrendamiento de fincas urbanas destinadas a la habitación será de un año forzoso para el arrendador y voluntario para el arrendatario, que será prorrogable, a voluntad del arrendatario, hasta por dos años más, siempre y cuando se encuentre al corriente en el pago de las rentas.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+
 ###### Artículo 2386.
 
 Para los efectos de este capítulo la renta deberá estipularse en moneda nacional.
 
-La renta sólo podrá ser incrementada anualmente; en su caso el aumento no podrá exceder del ochenta y cinco por ciento del incremento porcentual, fijado al salario mínimo general de la zona económica respectiva, en el año calendario en el que el contrato se renueve o se prorrogue.
+La renta solo podrá ser incrementada anualmente; el incremento de la renta nunca será mayor a la inflación reportada por el Banco de México en el año anterior, respecto de la cantidad pactada como renta mensual.
 
 ###### Artículo 2387.
 
@@ -15990,3 +15992,13 @@ DÉCIMO TERCERO. Los actos relativos a bienes muebles deberán inscribirse en el
 DÉCIMO CUARTO. La persona Titular del Ejecutivo del Estado deberá prever los recursos financieros necesarios que permitan dar cumplimiento a las disposiciones establecidas en esta Ley, para lo cual, deberá enviar al Congreso del Estado la propuesta para ser integrada en el Presupuesto de Egresos del Estado, en el ejercicio fiscal correspondiente.
 
 DÉCIMO QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, y en la Gaceta Oficial del Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 214 POR EL QUE SE REFORMA EL ARTÍCULO 2386 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
