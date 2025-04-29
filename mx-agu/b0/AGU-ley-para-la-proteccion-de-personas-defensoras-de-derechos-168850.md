@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-personas-defensoras-de-derechos-16885
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2023-12-27"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
 
 Ley publicada en el Extraordinario del Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -124,6 +124,10 @@ b) Quienes propongan algún aspirante deberán anexar la documentación necesari
 c) Recibidas las propuestas, la Comisión Legislativa de Derechos Humanos analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos;
 
 d) La Comisión Legislativa de Derechos Humanos emitirá un dictamen en el que se informe al Pleno del Congreso del Estado que candidatos cumplen con los requisitos, a fin de que dicho órgano soberano elija a los Consejeros con el voto de la mayoría de los Diputados que integran el Congreso del Estado. En caso de que el dictamen plantee una propuesta de integración, ésta deberá en atención a las propuestas recibidas y respetar el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
+
+e) La persona representante de defensores de derechos humanos y la de periodistas durará en su encargo 3 años, y podrá ser removida por el Congreso del Estado cuando incurra en alguna falta administrativa de las descritas en la Ley en materia o actúe negligentemente en el ejercicio de sus funciones, siempre con la misma votación requerida para su nombramiento.
 
 La persona representante de la Secretaría General de Gobierno presidirá la Coordinación Estatal y en los casos en que no sea posible su presencia se elegirá un presidente suplente para esa única ocasión de entre las demás personas integrantes.
 
@@ -426,3 +430,13 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de diciembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 146.- SE REFORMA LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
