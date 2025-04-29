@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2024-05-24"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2497,7 +2497,9 @@ XI. Promover la cultura de los grupos étnicos asentados en el territorio munici
 
 XII. Fomentar y proponer acciones de desarrollo social con perspectiva de género y respeto a los derechos humanos, y
 
-XIII. Las demás que señale la Ley de Desarrollo Social del Estado de México, su reglamento y las disposiciones jurídicas aplicables, así como aquellas que le confiera el Presidente Municipal o el Ayuntamiento.
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2025)</small>
+
+XIII. Las demás que señale la Ley de Bienestar y Desarrollo Social del Estado de México, su reglamento y las disposiciones jurídicas aplicables, así como aquellas que le confiera la persona titular de la Presidencia Municipal o el Ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2020)</small>
 
@@ -5728,3 +5730,15 @@ G.G. 24 DE MAYO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105.- POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO PARA QUEDAR COMO LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MÉXICO, LAS FRACCIONES I, II, III Y VI DEL ARTICULO 2, LA FRACCIÓN V, EL INCISO F) DE LA FRACCIÓN XI Y LA FRACCIÓN XII DEL ARTÍCULO 3, EL ARTÍCULO 4, LAS FRACCIONES I, II, IV, V Y VI DEL ARTÍCULO 11, LAS FRACCIONES III Y X DEL ARTÍCULO 13, LA FRACCIÓN II DEL ARTÍCULO 14, Y EL ARTÍCULO 35, Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 19 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY DE JUSTICIA COTIDIANA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 16 Y EL INCISO B DE LA FRACCIÓN III DEL ARTÍCULO 36 DE LA LEY DE VIVIENDA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 35 DE LA LEY DEL SEGURO DE DESEMPLEO PARA EL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 96 DUODECIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Ley de Desarrollo Social del Estado de México se entenderán hechas a la Ley de Bienestar y Desarrollo Social del Estado de México.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
