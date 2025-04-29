@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2024-06-03"
+last_updated: "2025-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -581,13 +581,17 @@ VII. Los programas de vivienda y de medio ambiente sano y sustentable, que apoye
 
 VIII. Los programas y fondos públicos que promuevan la generación y conservación del empleo y las actividades productivas, así como el fortalecimiento del sector social de la economía y su vinculación con la innovación tecnológica;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano y rural; y
+IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano y rural;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
 
-X. Los programas que garanticen el acceso a la alimentación, por medio de la producción de alimentos para el autoconsumo, con la operación de los huertos familiares, comunitarios y escolares. Estos programas serán de aplicación estatal, debiendo operar en áreas urbanas, semi urbanas y rurales.
+X. Los programas que garanticen el acceso a la alimentación, por medio de la producción de alimentos para el autoconsumo, con la operación de los huertos familiares, comunitarios y escolares, así como la donación de alimentos. Estos programas serán de aplicación estatal, debiendo operar en áreas urbanas, semi urbanas y rurales; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+
+XI. Los programas y campañas de atención y protección integral a las mujeres en periodo de gestación y lactancia.
 
 ###### Artículo 36.
 
@@ -1434,3 +1438,9 @@ P.O. 3 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 29 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 144.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
