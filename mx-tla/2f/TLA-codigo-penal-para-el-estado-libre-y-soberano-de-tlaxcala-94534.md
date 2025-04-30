@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2025-04-07"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -2244,6 +2244,14 @@ Cuando los delitos a que se refieren los artículos 147, 157 y 164 del presente 
 A quien sin ser servidor público se atribuya ese carácter y ejerza alguna de las funciones de tal, se le impondrán de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces el valor de la Unidad de Medida y Actualización.
 
 Cuando el sujeto activo se atribuya en vías de hecho la condición de miembro de una corporación policíaca o militar sin serlo, la punibilidad será de tres a ocho años de prisión y multa de doscientas dieciséis a quinientas setenta y seis veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2025)</small>
+
+###### Artículo 171 Bis.
+
+Comete el delito de usurpación de funciones notariales, quien sin contar con la patente o registro como notario y sin ostentarse como notario o induzca a la creencia de serlo, brinde o simule realizar servicios notariales, ya sea de manera presencial o por medios remotos, se le impondrán de cinco a ocho años de prisión y multa de ocho mil a dieciséis mil unidades de medida y actualización.
+
+La penalidad aumentará en una mitad cuando el sujeto activo se ostente como notaria o notario público sin serlo; o siendo notario se encuentre suspendido del ejercicio de dicha función, o habiendo sido, tenga por cancelada la patente de notario.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -5087,6 +5095,24 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 Se impondrán de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización, a quien para obtener un beneficio o causar un daño, indebidamente produzca o edite, por cualquier medio técnico, imágenes, textos o voces, total o parcialmente.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2025)</small>
+
+###### Artículo 405 Bis.
+
+Comete el delito de ejercicio indebido de la función notarial, la notaria o notario que ejerza dicha función fuera de su demarcación territorial o fuera del ámbito territorial del distrito judicial de su adscripción, se le impondrán de dos a cinco años de prisión y multa de dos mil a ocho mil unidades de medida y actualización.
+
+Quedan exceptuados de este delito los actos siguientes:
+
+I. Dar fe del asentamiento de acta por la existencia, identidad, capacidad legal, reconocimiento y puesta de firmas en documentos de personas identificadas por la persona titular de la Notaría;
+
+II. La protocolización de documentos;
+
+III. Cuando presten servicios a causa de la excusa de los notarios pertenecientes a la demarcación territorial para realizar una gestión;
+
+IV. Por la autenticación de hechos, y
+
+V. Cuando exista autorización para prestar servicios fuera de la demarcación por la persona titular de la Dirección de Notarias y Registros Públicos del Estado de Tlaxcala.
+
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA LA ECONOMÍA PÚBLICA ESTATAL
 
 ### CAPÍTULO I. DELITOS CONTRA EL CONSUMO
@@ -6094,3 +6120,19 @@ Los procedimientos penales que se hayan iniciado antes de la entrada en vigor de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 136.- SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Hasta en tanto se declare la aplicación del Código Nacional de Procedimientos Civiles y Familiares, será aplicable el Código de Procedimientos Civiles para el Estado Libre y Soberano de Tlaxcala, en lo que respecta al Artículo Primero del presente Decreto
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
