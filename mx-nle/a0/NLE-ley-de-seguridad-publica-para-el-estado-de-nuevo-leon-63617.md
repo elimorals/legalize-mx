@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2023-11-01"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -137,9 +137,17 @@ IV.- La ejecución de las sanciones y medidas penales de seguridad, la reinserci
 
 V.- La administración y operación de los Centros de Reclusión;
 
-VI.- La atención y asistencia a las víctimas de delitos; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
 
-VII.- El apoyo a la población en casos de siniestros o desastres naturales.
+VI.- La atención y asistencia a las víctimas de delitos;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+VII.- El apoyo a la población en casos de siniestros o desastres naturales; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+VIII.- La prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas.
 
 ###### Artículo 5.
 
@@ -289,9 +297,17 @@ VII. Los programas que habrán de ejecutarse por las autoridades de Seguridad P�
 
 VIII. Los responsables y la forma y términos en que se desarrollará la coordinación con autoridades Federales, de otros Estados y otros Países;
 
-IX. La forma en que participarán los organismos e instituciones del sector empresarial, civil, académico y de la sociedad en su conjunto; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
 
-X. La previsión de los recursos que resulten necesarios.
+IX. La forma en que participarán los organismos e instituciones del sector empresarial, civil, académico y de la sociedad en su conjunto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2025)</small>
+
+X. El plan estratégico para la prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE ABRIL DE 2025)</small>
+
+XI. La previsión de los recursos que resulten necesarios;
 
 ###### Artículo 16.
 
@@ -431,9 +447,17 @@ X. Las acciones policiales conjuntas, en los términos y condiciones que precisa
 
 XI. La regulación y control de los servicios de seguridad privada y otros auxiliares;
 
-XII. Relaciones con la comunidad y fomento de la cultura de prevención de infracciones administrativas y delitos; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
 
-XIII. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
+XII. Relaciones con la comunidad y fomento de la cultura de prevención de infracciones administrativas y delitos;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+XIII. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+XIV. Las acciones enfocadas a la prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas.
 
 La coordinación se hará en los términos del Artículo 21, décimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -633,9 +657,17 @@ XX. Proponer fórmulas para la distribución de los fondos federales, estatales 
 
 XXI. La celebración de acuerdos y convenios de carácter vinculatorio entre el Estado y los Municipios con el objeto de garantizar la ejecución coordinada de acciones;
 
-XXII. Establecer políticas de incentivos salariales y económicos para los agentes de policía estatales y municipales; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
 
-XXIII. Las demás que determinen las Leyes.
+XXII. Establecer políticas de incentivos salariales y económicos para los agentes de policía estatales y municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2025)</small>
+
+XXIII. Diseñar estrategias operativas para la prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2025)</small>
+
+XXIV. Las demás que determinen las Leyes.
 
 ###### Artículo 39.
 
@@ -4054,3 +4086,9 @@ P.O. 1 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 383. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES REALIZADAS AL DECRETO NO. 383 DE FECHA 3 DE MAYO DEL 2023, QUE CONTIENE INICIATIVA DE REFORMA AL ARTÍCULO 32 BIS 1, Y SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 158 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 096. SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 4; LAS FRACCIONES IX Y X DEL ARTÍCULO 15; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 32; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 38 Y, SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 4; LA FRACCIÓN XI DEL ARTÍCULO 15; LA FRACCIÓN XIV DEL ARTÍCULO 32 Y LA FRACCIÓN XIV DEL ARTÍCULO 38, TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
