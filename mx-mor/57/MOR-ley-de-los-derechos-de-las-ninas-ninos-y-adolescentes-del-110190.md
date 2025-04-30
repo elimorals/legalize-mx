@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2025-04-09"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -1135,6 +1135,10 @@ XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufri
 
 XIV. Garantizar que el entorno en el que sean escuchados niñas, niños o adolescentes sea reconfortante, tranquilizante, agradable, amigable, sensible y adecuado para su edad.
 
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+XV. Establecer medidas de protección a niñas, niños y adolescentes indígenas y afromexicanos que por razones de riesgo hayan sido desplazados de su comunidad protegiendo su lengua, vestimenta o manifestaciones culturales.
+
 ###### Artículo 78.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
@@ -2206,3 +2210,11 @@ Primera. Remítase el presente Decreto a la Titular del Poder Ejecutivo, para su
 Segunda. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Tercera: Cada municipio del Estado de Morelos conforme a la competencia otorgada en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, deberá asignar en sus ejercicios presupuestarios anuales un recurso destinado a la recuperación de parques y espacios públicos, así como a garantizar la seguridad de los mismos, proyectado con aportaciones locales, así como desarrollar su proceso de ejecución, comprobación y finiquito que está bajo la responsabilidad de los Ejecutores, por lo que éstos deberán cumplir con todas las disposiciones aplicables en materia de seguimiento, verificación, supervisión, evaluación, fiscalización y auditoría que señale cada uno de los ayuntamientos.
+
+P.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIEN POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 77 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
