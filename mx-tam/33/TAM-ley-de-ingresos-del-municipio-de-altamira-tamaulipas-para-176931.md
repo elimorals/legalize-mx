@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-altamira-tamaulipas-para-17693
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-28"
-last_updated: "2024-12-28"
+last_updated: "2025-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE ALTAMIRA, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Ley publicada en el Extraordinario al Número 45 del Periódico Oficial del Estado de Tamaulipas, el sábado 28 de diciembre de 2024.
 
@@ -37,9 +37,9 @@ Los derechos por los servicios de planificación, urbanización y pavimentación
 
 I.- a la XIV [...]
 
-XV. POR COLOCACIÓN DE TUBERÍAS, DUCTOS, GASODUCTOS POR TIERRA, LAGUNAS, RÍOS Y MAR POR METRO LINEAL O FRACCIÓN:
+XV. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ABRIL DE 2025)
 
-a) Por el tendido de la tubería, ductos gasoductos en tierra, lecho de lagunas, ríos y mar 25% de una UMA
+a) (DEROGADO, P.O. 30 DE ABRIL DE 2025)
 
 ###### Artículo 30.
 
@@ -53,7 +53,7 @@ a) Instalaciones aéreas de cable, telefónicas y eléctricas 30% de una UMA
 
 b) Instalaciones subterráneas; hidráulicas, sanitarias, cable, telefónicas y eléctricas 15% de una UMA
 
-c) Conectores, emisores, acometidas, redes de gas o redes subterráneas de uso particular 50% de una UMA
+c). (DEROGADO, P.O. 30 DE ABRIL DE 2025)
 
 d) Por renta anual de uso de la vía pública para instalaciones aéreas y subterráneas 1 Al millar de una UMA
 
@@ -77,6 +77,6 @@ b) Poste de madera o concreto hasta 11 metros 10 UMA
 
 c) Postes de madera, concreto o acero mayores a 11 metros 20 UMA
 
-XVIII. POR COLOCACIÓN DE TUBERÍAS, DUCTOS, GASODUCTOS POR TIERRA, LAGUNAS, RÍOS Y MAR POR METRO LINEAL O FRACCIÓN:
+XVIII. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE ABRIL DE 2025)
 
-a) Por el tendido de la tubería, ductos, gasoductos en tierra, lecho de lagunas, ríos y mar 25% UMA
+a) (DEROGADO, P.O. 30 DE ABRIL DE 2025)
