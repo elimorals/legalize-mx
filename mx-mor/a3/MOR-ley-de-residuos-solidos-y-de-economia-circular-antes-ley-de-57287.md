@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2023-02-15"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -90,6 +90,10 @@ X. Fomentar la transición paulatina al uso de materiales reutilizables, y con e
 > <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
 XI. Crear mecanismos que incentiven el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+XII. Los propietarios o poseedores de predios de dominio privado y los titulares de áreas concesionadas que se encuentran contaminados por residuos tendrán de un año y hasta cinco años para llevar a cabo acciones de remediación del sitio afectado por la contaminación, previamente autorizado por la Secretaria.
 
 ###### ARTÍCULO 3.
 
@@ -158,6 +162,10 @@ III. Las medidas de emergencia que las autoridades apliquen en caso fortuito o f
 IV. Las acciones de emergencia para contener los riesgos a la salud derivados del manejo de residuos; y
 
 V. Las acciones que realice el Estado en sus tres niveles de Gobierno para garantizar la conservación del medio ambiente, y corregir las omisiones en las condiciones ambientales, tecnológicas, económicas y sociales, señaladas en la presente Ley, la Ley General para la Prevención y Gestión Integral de los Residuos, los tratados internacionales, normas oficiales mexicanas y demás ordenamientos aplicables a la materia. Las medidas, obras y acciones a que se refiere este Artículo se deberán sujetar a los procedimientos que establezcan las leyes en la materia y el Reglamento de esta Ley.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+VI. Derivado de la fracción anterior, de manera conjunta el estado y los municipios donde se encuentre ubicado el sitio contaminado realizarán las acciones necesarias para llevar a cabo la remediación y mitigar riesgos al ambiente y a la salud de la población; estas acciones se llevarán a cabo con los ingresos provenientes de las infracciones a lo dispuesto en el artículo 104 de la Ley de Residuos Sólidos y de Economía Circular para el Estado de Morelos.
 
 ###### ARTÍCULO 5.
 
@@ -338,6 +346,10 @@ XLVI. Recicladores: Personas físicas o morales independientes u organizadas, o 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2023)</small>
 
 XLVII. Remanufactura: Proceso industrial que crea un producto a partir de productos usados o piezas usadas donde se realiza al menos un cambio importante en el producto y que puede incluir la incorporación de nuevos componentes.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+XLVIII. Restauración: Es devolver un ecosistema, hábitat, casa o instalación comercial a su estado original o a un estado cercano a como era antes. Puede incluir la limpieza de playas, ríos, bosques, montes, campos, complejos mineros, puentes, carreteras, humedales y selvas.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -538,6 +550,10 @@ I. Autorizar y llevar a cabo el control de los residuos peligrosos generados o m
 II. Autorizar y controlar las actividades realizadas por los microgeneradores de residuos peligrosos de conformidad con las normas oficiales mexicanas correspondientes; y
 
 III. Establecer y actualizar los registros que correspondan en los casos anteriores e imponer las sanciones aplicables, relacionadas con los actos a que se refiere este artículo.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+IV. Elaborar mecanismos de planeación regional para coordinar acciones e inversiones que propicien la Remediación de Sitios Contaminados y elaborar convenios de colaboración para (sic) elaboración del Plan Municipal de Remediación de Sitios Contaminados, mismo que deberá estar referido en el marco de (sic) jurídico en materia de residuos del municipio que interviene.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -839,7 +855,9 @@ El Gobierno Estatal y los Ayuntamientos instrumentarán en las Leyes de Ingresos
 
 Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme a la Ley de Ingresos del Estado de Morelos y de sus Municipios, las actividades relacionadas con:
 
-I. Remedición de sitios contaminados con residuos sólidos;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+I. Remediación de sitios contaminados con residuos sólidos;
 
 II. Inversión en tecnología en manejo de residuos;
 
@@ -1265,6 +1283,10 @@ La regulación del uso del suelo y los programas de ordenamiento ecológico y de
 
 Las acciones en materia de remediación de sitios, previstas en este capítulo, se llevarán a cabo mediante programas estatales y/o municipales, de conformidad con lo que señale el Reglamento, y la Ley General de Equilibrio Ecológico y Protección al Ambiente.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2025)</small>
+
+Los propietarios o poseedores de predios de dominio privado y los titulares de áreas concesionadas responsables de la remediación del predio contaminado deberán tramitar su autorización correspondiente ante la Secretaría.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2023)</small>
 
 ## TÍTULO SEGUNDO BIS. DE LA ECONOMÍA CIRCULAR
@@ -1427,6 +1449,10 @@ II. Además de las multas que se establecen en la fracción anterior, se harán 
 
 III. Además de las sanciones que se establecen en las fracciones I y II, los infractores se harán acreedores, en caso de que proceda, al decomiso por parte de la autoridad, de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados.
 
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+IV. Es obligación de los infractores la de realizar la remediación del sitio contaminado de acuerdo a los lineamientos que se encuentran en la presente Ley, su reglamento y las normas oficiales.
+
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
 ###### ARTÍCULO 99.
@@ -1444,6 +1470,10 @@ Si una vez concluido el plazo concedido por la autoridad para subsanar la o las 
 La Procuraduría o la autoridad municipal competente, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con residuos sólidos, siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
 
 Cuando se determine la comisión de dos o más infracciones a que refiere el Artículo 84, se tomará en cuenta la más alta. Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión en ésta tal circunstancia.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2025)</small>
+
+Lo anterior no exime al infractor para realizar el trámite correspondiente ante la Secretaria para establecer los plazos y los términos que apliquen a la remediación de un sitio contaminado.
 
 ###### ARTÍCULO 102.
 
@@ -1540,6 +1570,10 @@ III. El confinamiento o tratamiento final autorizado;
 IV. La suspensión temporal, parcial o total del aprovechamiento o de las actividades que se trate, y
 
 V. Las demás que determinen la autoridad competente con el objeto de evitar que se causen o continúen causando riesgos o daños al ambiente o a la salud.
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+
+VI. La remediación y en su caso restauración del sitio contaminado.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
 
@@ -1810,3 +1844,11 @@ TERCERA. El Ejecutivo del estado deberá expedir y modificar los reglamentos cor
 CUARTA. En tanto se expidan las disposiciones reglamentarias que se deriven de la presente ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
 
 QUINTA. Los ayuntamientos deberán expedir o en su caso actualizar, los reglamentos correspondientes en un plazo de ciento ochenta días hábiles a partir de la publicación de la presente ley.
+
+P.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO SESENTA Y DOS POR EL QUE SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 2, LA FRACCIÓN VI AL ARTÍCULO 4, LA FRACCIÓN XLVIII AL ARTÍCULO 7, LA FRACCIÓN IV AL ARTÍCULO 11, UN SEGUNDO PÁRRAFO AL ARTÍCULO 92, LA FRACCIÓN IV AL ARTÍCULO 98, UN TERCER PÁRRAFO AL ARTÍCULO 101, UNA FRACCIÓN VI AL ARTÍCULO 112, Y SE REFORMA LA FRACCIÓN I AL ARTÍCULO 39, TODOS DE LA LEY DE RESIDUOS SÓLIDOS Y DE ECONOMÍA CIRCULAR PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Se remite el presente Decreto al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación.
