@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-03-14"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ABRIL DE 2025.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -160,25 +160,11 @@ C) Subsecretaría de Gobierno, a la que quedan adscritas:
 
 1. Dirección General de Gobierno; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 14 DE MARZO DE 2025)</small>
+2. (DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
-2. Dirección General de Concertación Política, Prevención y Buen Gobierno, a la que quedan adscritas:
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
-
-2.1. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Oriente;
-
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
-
-2.2. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Poniente;
-
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
-
-2.3. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Norte; y
-
-> <small>(REFORMADO, G.O. 14 DE MARZO DE 2025)</small>
-
-2.4. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Sur.
+3. Secretaría Ejecutiva de la Unidad de Atención a la Diversidad Sexual (UNADIS).
 
 D) (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
@@ -204,13 +190,25 @@ I) (DEROGADO, G.O. 1 DE OCTUBRE DE 2021)
 
 J) Dirección Ejecutiva de Asuntos Agrarios;
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-K) Coordinación General de Atención a la Movilidad Humana de la Ciudad de México; y
+K) Coordinación General de Atención a la Movilidad Humana de la Ciudad de México;
 
-> <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-L) Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales.
+L) Dirección Ejecutiva de Vinculación y Relaciones Intergubernamentales; y
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 30 DE ABRIL DE 2025)</small>
+
+M) Subsecretaría de Concertación Política, Prevención y Buen Gobierno, a la que le quedan adscritas:
+
+1.1. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Oriente;
+
+1.2. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Poniente;
+
+1.3. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Norte; y
+
+1.4. Dirección Ejecutiva de Concertación Política, Prevención y Buen Gobierno Regional Sur.
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2020)</small>
 
@@ -642,31 +640,43 @@ A) Dirección General de Planeación y Evaluación Estratégica;
 
 B) (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
-C) Dirección General de Enlace Interinstitucional;
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+C) Dirección General de Participación Comunitaria y Acceso a la Educación;
 
-D) Dirección Ejecutiva Jurídico Normativa;
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+D) Dirección General Jurídica Normativa y de la Unidad de Transparencia;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 E) Subsecretaría de Educación, a la que quedan adscritas:
 
-1. Dirección General de Desarrollo Institucional;
+1. (DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
-2. Dirección Ejecutiva de Educación de Bachillerato y Estudios Superiores;
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+2. Dirección Ejecutiva de Educación de las Juventudes; y
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+3. Dirección General de Cuidados y Educación de las Infancias.
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 F) Subsecretaría de Ciencia, Tecnología e Innovación, a la que quedan adscritas:
 
-1. Dirección General de Ciencia, Divulgación y Transferencia de Conocimiento; y
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-2. Dirección General de Cómputo y Tecnologías de la Información;
+1. Dirección General de Derecho a la Ciencia, Divulgación y Transferencia del Conocimiento;
 
-> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-3) Dirección General de Desarrollo e Innovación Tecnológica;
+2. Dirección Ejecutiva de Cómputo y Tecnologías de la Información; y
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+3. Dirección General de Desarrollo, Innovación Tecnológica y Divulgación Científica.
 
 G) (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
@@ -732,13 +742,7 @@ IX. A la Secretaría de Bienestar e Igualdad Social de la Ciudad de México:
 
 A) Dirección Ejecutiva de Planeación y Seguimiento del Sistema de Bienestar y Cuidados;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE FEBRERO DE 2021)</small>
-
-B) Dirección General de Diversidad Sexual y Derechos Humanos.
-
-1. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
-
-2. (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
+B) (DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
 C) (DEROGADO, G.O. 14 DE MARZO DE 2025)
 
@@ -956,11 +960,23 @@ A) Dirección General de Trabajo y Previsión Social;
 
 B) Dirección General de Economía Social y Solidaria;
 
-C) Dirección General de Empleo;
+C) (DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
-D) Dirección Ejecutiva de Estudios del Trabajo; y
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
 
-E) Procuraduría de la Defensa del Trabajo.
+D) Dirección Ejecutiva de Estudios del Trabajo;
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+E) Procuraduría de la Defensa del Trabajo;
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+F) Dirección Ejecutiva de Programas de Apoyo al Empleo; y
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+G) Dirección Ejecutiva del Seguro de Desempleo.
 
 > <small>(ADICIONADA [N. DE E. CON SU INCISO], G.O. 30 DE DICIEMBRE DE 2024)</small>
 
@@ -1383,6 +1399,42 @@ XX. Impulsar y coadyuvar las acciones emprendidas por las Alcaldías en la recup
 XXI. Establecer la coordinación y colaboración con las autoridades de los tres niveles de gobierno, con el propósito de dar cumplimiento a las atribuciones conferidas por este Reglamento y otras disposiciones; y
 
 XXII. Las demás que se deriven de otras disposiciones legales aplicables y las que asigne la Secretaría de Gobierno.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+###### Artículo 26 Bis.
+
+Corresponde a la Subsecretaría de Concertación Política, Prevención y Buen Gobierno:
+
+I. Diseñar, proponer y ejecutar las políticas públicas en materia de concertación política, prevención y gestión social para las Alcaldías de la Ciudad de México;
+
+II. Coadyuvar, en el ámbito de sus competencias, en la instrumentación de los mecanismos de participación Ciudadana previstos en la ley respectiva;
+
+III. Registrar y clasificar las demandas y peticiones Ciudadanas, cuando correspondan al ámbito de las Alcaldías, así como llevar en coordinación con las mismas el seguimiento y evaluación de su atención;
+
+IV. Operar y participar en la prevención, gestión y búsqueda de soluciones a conflictos de carácter político y de demandas sociales en la Ciudad de México, en coordinación con las Alcaldías, y sirviendo como enlace entre las Dependencias, Unidades Administrativas y Órganos Desconcentrados competentes, con los grupos involucrados;
+
+V. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de programas y proyectos que fomenten la prevención y gestión de conflictos sociales, concertación política y la gestión social, basados en una cultura de paz y de corresponsabilidad entre el gobierno y la sociedad;
+
+VI. Coordinar la planeación, creación y operación de espacios de interlocución entre organizaciones sociales y sectoriales y, entre éstas y la Administración Pública, a través de la vinculación con las autoridades zonales correspondientes, para la prevención de conflictos sociales o políticos y la búsqueda de soluciones a sus demandas o propuestas;
+
+VII. Auxiliar en las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil a través de las autoridades zonales correspondientes;
+
+VIII. Crear espacios para la prevención, gestión y concertación entre los grupos sociales y sectoriales en conflicto;
+
+IX. Realizar los estudios necesarios en coordinación con las instancias competentes, para conocer los planteamientos Ciudadanos y proponer las mejores vías para su solución;
+
+X. Coordinar con las distintas autoridades involucradas en la organización y supervisión de las visitas y giras a las demarcaciones territoriales de las personas titulares de la Jefatura de Gobierno y Secretaría de Gobierno, para el logro de una comunicación efectiva entre autoridades y gobernados;
+
+XI. Promover la creación de redes de comunicación en la Ciudad de México, en el ámbito nacional e internacional, con el fin de intercambiar experiencias, conocimientos y recursos en la búsqueda de la concertación política, prevención, gestión social de conflictos y atención ciudadana eficaz;
+
+XII. Realizar recorridos y visitas periódicas a las Alcaldías con el objetivo de sensibilizar, asesorar, coadyuvar, prevenir o dar seguimiento a acuerdos y su cumplimiento, relacionados con la gestión de conflictos sociales;
+
+XIII. Proponer proyectos para la reorganización territorial de la Ciudad de México y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de las Alcaldías;
+
+XIV. Coordinar a las Direcciones Generales de Coordinación Política, Prevención y Buen Gobierno en los asuntos que les sean encomendados; y
+
+XV. Las demás que se deriven de otras disposiciones legales y las que le asigne la persona titular de la Secretaría de Gobierno.
 
 #### SECCIÓN II. DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
@@ -1848,13 +1900,17 @@ La Subsecretaría de Educación tendrá las siguientes atribuciones:
 
 I. Auxiliar al Secretario en el ejercicio de sus atribuciones;
 
-II. Desarrollar, implementar y coordinar todas las acciones y políticas que sean necesarias en el marco de la educación básica, media superior y superior, para impulsar y fortalecer la educación pública en todos sus niveles;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+II. Dirigir la formulación, implementación y evaluación de políticas y proyectos que fortalezcan el cuidado y el derecho a la educación de las niñas, niños, adolescentes y jóvenes de la Ciudad de México;
 
 III. Formular los anteproyectos de programas y de presupuesto que le correspondan, así como verificar su correcta y oportuna ejecución por parte de las Unidades Administrativas correspondientes;
 
 IV. Gestionar con las autoridades federales competentes, la viabilidad de recibir transferencias federales para la mejora y el desarrollo de la política educativa, de conformidad con la normatividad aplicable;
 
-V. Proponer a la persona titular de la Secretaría los proyectos de normas pedagógicas, planes y programas de estudio para la educación básica;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+V. Someter a consideración de la persona titular de la Secretaría los proyectos y acciones que fortalezcan el cuidado y educación de las niñas, niños, adolescentes y jóvenes de la Ciudad de México;
 
 VI. Participar en la elaboración de proyectos de normas pedagógicas, planes y programas de estudio para la educación, media superior y superior que impartan las instituciones educativas pertenecientes al Sistema Educativo de la Ciudad de México, y someterlos a consideración de la persona titular de la Secretaría;
 
@@ -1864,7 +1920,9 @@ VIII. Propiciar el establecimiento de centros educativos dependientes de la Secr
 
 IX. Establecer en todos los niveles educativos de la Ciudad de México, programas académicos y materiales pedagógicos que incorporen la innovación en la aplicación de las tecnologías de la información;
 
-X. Impulsar estrategias y políticas de mejora continua en la educación, orientadas a fomentar la conclusión de los estudios, por parte de los alumnos, evitando la deserción escolar;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+X. Coordinar el desarrollo de programas de apoyo para evitar la desafiliación escolar y promover la conclusión de estudios de las y los jóvenes estudiantes de educación media superior;
 
 XI. Brindar asistencia en temas vinculados con intercambio de profesores e investigadores, así como elaboración de programas, otorgamiento de becas, sistemas de información y documentación y servicios de apoyo relativos al desarrollo de la ciencia, la tecnología y la innovación en la Ciudad de México, tanto en el ámbito nacional como internacional;
 
@@ -1876,9 +1934,13 @@ XIV. Supervisar la aplicación de la normatividad vigente en materia de educaci�
 
 XV. Realizar en coordinación con los organismos competentes, la evaluación de instituciones educativas en la Ciudad de México, para atender la problemática en materia de educación para la salud, cívica, medio ambiente y deportiva;
 
-XVI. Desarrollar acciones que promuevan la educación para la salud, el medio ambiente y la educación cívica;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XVII. Diseñar, ejecutar y evaluar los programas y políticas que deban instrumentarse para garantizar la equidad en la educación, la educación para la salud, el medio ambiente y la educación cívica;
+XVI. Emitir programas y políticas con una perspectiva humanista que promuevan, en la educación, habilidades para la vida, la convivencia, el trabajo, la paz, la salud, el medio ambiente y la educación cívica;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XVII. Diseñar, ejecutar y evaluar los programas y políticas con una política humanista que deban instrumentarse para procurar la equidad en la educación, la educación para la salud, el medio ambiente y la educación cívica;
 
 XVIII. Coordinar y fungir como enlace con las Alcaldías, para promover la aplicación de los programas y políticas que permitan la equidad en la educación;
 
@@ -1888,13 +1950,15 @@ XX. Establecer las bases y lineamientos para el otorgamiento de apoyos económic
 
 XXI. Supervisar el seguimiento a los programas y apoyos educativos a estudiantes matriculados en instituciones públicas que impartan educación a nivel básico, medio superior y superior en la Ciudad de México;
 
-XXII. Implementar en todos los niveles educativos en la Ciudad de México, programas que promuevan el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXII. Colaborar en todos los niveles educativos en la Ciudad de México, para implementar programas que promuevan el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos originarios, indígenas y personas afrodescendientes;
 
 XXIII. Establecer y coordinar programas para impartir la educación básica indígena, atendiendo a la conservación y preservación de sus tradiciones, costumbres y valores culturales
 
-XXIV. Desarrollar y facilitar en todas las áreas de la Secretaría el uso de normas, metodologías y herramientas de evaluación de la calidad de los servicios educativos de la Ciudad de México para su mejoramiento;
+XXIV. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
-XXV. Difundir entre las Unidades Administrativas de la Secretaría los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización para elevar la calidad de la educación en todos sus niveles;
+XXV. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
 XXVI. Promover la capacitación en materia de calidad al personal que forma parte del Sistema Educativo de la Ciudad de México;
 
@@ -1926,9 +1990,41 @@ XXXVII. Vigilar el otorgamiento de las becas que se deriven del cumplimiento al 
 
 XXXVIII. Coordinar y ordenar la supervisión e inspección de los servicios educativos que impartan los particulares a los que la Secretaría les haya otorgado el Reconocimiento de Validez Oficial de Estudios o que estén gestionando su incorporación a ésta, a efecto de verificar que cumplan con las normas técnico-pedagógicas y administrativas que establecen las disposiciones legales en la materia;
 
-XXXIX. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinados (sic), y
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XL. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+XXXIX. Expedir de conformidad con la normatividad aplicable las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinados (sic);
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE ABRIL DE 2025)</small>
+
+XL. Impulsar políticas y proyectos con una perspectiva humanista que promuevan la educación para la vida, la ciudadanía, el trabajo, y la paz;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XLI. Determinar lineamientos, criterios y programas para la ampliación de la cobertura y la mejora de la educación inicial, en el marco del Sistema Público de Cuidados de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XLII. Coordinar el desarrollo de proyectos que complementen y fortalezcan la educación escolar de las niñas, niños, adolescentes y jóvenes que asisten a las escuelas y planteles de educación básica y media superior de la Ciudad de México, en coordinación con las autoridades educativas federales;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XLIII. Coordinar acciones con la autoridad educativa federal, otras dependencias locales y con organizaciones de la sociedad civil, para promover la inclusión y la equidad educativa en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XLIV. Atender en representación de la persona titular de la Secretaría, las sesiones ordinarias y extraordinarias, así como los trabajos acordados del Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XLV. Elaborar y operar el Programa Anual de Formación y Actualización del personal docente que labora en los Centros de Atención y Cuidado Infantil para la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XLVI. Supervisar, atender, coordinar y verificar el funcionamiento y operación que impacta en el ámbito educativo en los Centros de Atención y Cuidado Infantil para la Ciudad de México; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE ABRIL DE 2025)</small>
+
+XLVII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
 ###### Artículo 33.
 
@@ -1954,9 +2050,13 @@ VIII. Supervisar, de conformidad con la normatividad de la materia, el desarroll
 
 IX. Coordinar los trabajos multidisciplinarios, interinstitucionales e intersectoriales para la integración y ejecución de proyectos científicos, tecnológicos y de innovación catalogados como prioritarios a cargo de la Secretaría;
 
-X. Conducir los programas de formación, apoyo y desarrollo de académicos, científicos, tecnólogos y profesionales de alto nivel académico, en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XI. Organizar ferias, exposiciones, congresos y cualquier otra forma eficiente para el desarrollo de la ciencia, la tecnología e innovación, a nivel nacional e internacional;
+X. Conducir los programas de formación, apoyo y desarrollo, en entornos formales o no formales y sus diferentes modalidades, para fortalecer conocimientos y habilidades en materia de las ciencias, humanidades, tecnología e innovación que contribuyan a la equidad social y a la reducción de las desigualdades;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XI. Diseñar, organizar y coordinar actividades, programas y proyectos de difusión y divulgación a fin de fortalecer el acceso abierto y gratuito a la información derivada de la investigación científica y humanística; el desarrollo tecnológico y la innovación;
 
 XII. Diseñar los lineamientos para la creación, regulación y extinción de los centros públicos de investigación del Gobierno de la Ciudad de México;
 
@@ -1970,7 +2070,9 @@ XVI. Establecer redes científicas, tecnológicas y de innovación a fin de esta
 
 XVII. Coordinar los programas de mantenimiento, funcionamiento y evaluación de los bienes de tecnología de información de la Secretaría;
 
-XVIII. Brindar asistencia en temas vinculados con intercambio de profesores e investigadores, así como elaboración de programas, otorgamiento de becas, sistemas de información y documentación y servicios de apoyo relativos al desarrollo de la ciencia, la tecnología y la innovación en la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XVIII. Proponer, a la persona titular de la Secretaría, acciones de cooperación nacional e internacional, para la elaboración de programas, intercambio y otorgamiento de becas; sistemas de información y documentación y servicios de apoyo relativos al desarrollo de la ciencia, la tecnología y la innovación en la Ciudad de México;
 
 XIX. Planear, promover y evaluar políticas públicas encaminadas a la cooperación en materia de ciencia, tecnología e innovación en la Ciudad de México;
 
@@ -1988,17 +2090,31 @@ XXIV. Proponer las normas para regular la administración de los recursos destin
 
 XXV. Garantizar el óptimo funcionamiento de los equipos de cómputo, comunicaciones y procesamiento de datos al interior de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México a través de acciones de mantenimiento y soporte técnico.
 
-XXVI. Diseñar estrategias de comunicación para difundir capsulas informativas de temas coyunturales en materia educativa;
+XXVI. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XXVII. Expedir, de conformidad con la normativa aplicable, las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinadas;
 
-> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XXVII Bis. Dirigir, coordinar, supervisar y evaluar la actividad institucional de la Dirección General de Desarrollo e Innovación Tecnológica; y
+XXVII Bis. Dirigir, coordinar, supervisar y evaluar la actividad institucional de la Dirección General de Desarrollo, Innovación Tecnológica y Divulgación Científica;
 
-XXVIII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE ABRIL DE 2025)</small>
+
+XXVIII. Coordinar con sectores públicos y privados el diseño, ejecución, seguimiento, evaluación, difusión y divulgación de mecanismos que permitan incentivar el desarrollo y la inversión productiva en materia de ciencia, humanidades, tecnología e innovación, así como promover la creación de empresas privadas de base científica y tecnológica responsables con el ambiente y con el bienestar social;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXIX. Establecer mecanismos para la protección, gestión y transferencia de los conocimientos y de los derechos de propiedad intelectual derivados de los proyectos, programas y demás actividades promovidas por la Secretaría para favorecer el interés público;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXX. Proponer, a la persona titular de Secretaría, actividades, programas y políticas públicas que impulsen la protección de los derechos de autor y de propiedad industrial conforme a la legislación aplicable y los tratados internacionales en la materia suscritos por el Estado mexicano; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE ABRIL DE 2025)</small>
+
+XXXI. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
 #### SECCIÓN V. DE LA SECRETARÍA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL
 
@@ -2880,75 +2996,45 @@ IX. Participar en la organización de los actos cívicos del Gobierno de la Ciud
 
 X. Cooperar con las acciones y programas de Gobierno de la Ciudad de México en el Centro Histórico y demás vialidades, dentro del ámbito de su competencia, en lo relativo al uso de los espacios públicos, así como en la regulación (sic) espectáculos masivos que se realicen, para garantizar la convivencia pacífica y el ejercicio de los derechos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+###### Artículo 56 Bis.
+
+Corresponde a la Secretaría Ejecutiva de la Unidad de Atención a la Diversidad Sexual (UNADIS):
+
+I. Asesorar y auxiliar a la persona titular de la Secretaría de Gobierno en la conducción de la política interior cuando se trate de los derechos de las personas LGBTTTI, para que a su vez desde Secretaría de Gobierno asesore y auxilie a los organismos y poderes locales, siempre y cuando no se atribuya a otra dependencia;
+
+II. Participar en la elaboración de propuestas, emisión de opiniones y brindar asesoría derivadas de consultas, proyectos de leyes, decretos para impulsar en el ámbito administrativo sobre el cumplimiento de los preceptos constitucionales federales y locales por parte de las autoridades de la Ciudad, en lo que se refiere a la promoción, respeto, protección, progresividad y garantía de los derechos de las personas LGBTTTI;
+
+III. Brindar auxilio en las acciones relacionadas con el Sistema de Atención a Víctimas, el Sistema Integral de Derechos Humanos y la Protección Integral de Personas Defensoras de Derechos Humanos y Periodistas, cuando se trate de personas LGBTTTI;
+
+IV. Coadyuvar en la implementación de acciones de las autoridades de la ciudad ante las manifestaciones públicas y atención de las demandas, peticiones, conflictos y expresiones de protesta social que se realicen en la vía pública y su solución o canalización a las instancias correspondientes con el objetivo de promover la protección, la convivencia pacífica y el ejercicio de los derechos de las personas LGBTTTI, de conformidad con las normas y protocolos aplicables para cada caso;
+
+V. Diseñar, promover y ejecutar acciones de prevención para erradicar la violencia en cualquiera de sus modalidades generada contra las personas por su orientación sexual, identidad, expresión de género, características sexuales, estado serológico y otros tipos de discriminación contra las personas LGBTTTI que habitan o transitan en la Ciudad de México, además de brindar atención psicosocial y asesoría legal a las personas que lo soliciten mediante el Centro de Atención Psicosocial para las Personas LGBTTTI “Espacia (sic) Arcoíris”, dependiente de la Secretaría Ejecutiva de la Unidad de Atención a la Diversidad Sexual;
+
+VI. Promover la suscripción de convenios y acuerdos de colaboración, entre el Gobierno de la Ciudad de México y entidades del sector social y privado, en materia de combate a la discriminación, exclusión social y todas las formas de violencia, que garanticen el ejercicio de los derechos y libertades fundamentales de las personas LGBTTTI que habitan o transitan en la Ciudad de México; y
+
+VII. Las demás que le confieran las Leyes y otros ordenamientos jurídicos.
 
 ###### Artículo 57.
 
-Corresponde a la Dirección General de Concertación Política, Prevención y Buen Gobierno:
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-I. Diseñar, proponer y ejecutar las políticas públicas en materia de concertación política, prevención y gestión social para las Alcaldías de la Ciudad de México;
-
-II. Coadyuvar, en el ámbito de sus competencias, en la instrumentación de los mecanismos de participación Ciudadana previstos en la ley respectiva;
-
-III. Registrar y clasificar las demandas y peticiones Ciudadanas, cuando correspondan al ámbito de las Alcaldías, así como llevar en coordinación con las mismas el seguimiento y evaluación de su atención;
-
-IV. Operar y participar en la prevención, gestión y búsqueda de soluciones a conflictos de carácter político y de demandas sociales en la Ciudad de México, en coordinación con las Alcaldías, y sirviendo como enlace entre las Dependencias, Unidades Administrativas y Órganos Desconcentrados competentes, con los grupos involucrados;
-
-V. Coordinar la planeación, diseño, promoción, ejecución, seguimiento y control de programas y proyectos que fomenten la prevención y gestión de conflictos sociales, concertación política y la gestión social, basados en una cultura de paz y de corresponsabilidad entre el gobierno y la sociedad;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-VI. Coordinar la planeación, creación y operación de espacios de interlocución entre organizaciones sociales y sectoriales y, entre éstas y la Administración Pública, a través de la vinculación con las autoridades zonales correspondientes, para la prevención de conflictos sociales o políticos y la búsqueda de soluciones a sus demandas o propuestas;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-VII. Auxiliar en las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil a través de las autoridades zonales correspondientes;
-
-VIII. Crear espacios para la prevención, gestión y concertación entre los grupos sociales y sectoriales en conflicto;
-
-IX. Realizar los estudios necesarios en coordinación con las instancias competentes, para conocer los planteamientos Ciudadanos y proponer las mejores vías para su solución;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-X. Coordinar con las distintas autoridades involucradas en la organización y supervisión de las visitas y giras a las demarcaciones territoriales de las personas titulares de la Jefatura de Gobierno y Secretaría de Gobierno, para el logro de una comunicación efectiva entre autoridades y gobernados;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XI. Promover la creación de redes de comunicación en la Ciudad de México, en el ámbito nacional e internacional, con el fin de intercambiar experiencias, conocimientos y recursos en la búsqueda de la concertación política, prevención, gestión social de conflictos y atención ciudadana eficaz;
-
-> <small>(REFORMADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XII. Realizar recorridos y visitas periódicas a las Alcaldías con el objetivo de sensibilizar, asesorar, coadyuvar, prevenir o dar seguimiento a acuerdos y su cumplimiento, relacionados con la gestión de conflictos sociales;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XIII. Proponer proyectos para la reorganización territorial de la Ciudad de México y la determinación de las funciones y la estructura orgánica, ocupacional y de organización de las Alcaldías;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XIV. Coordinar a las Direcciones Generales de Coordinación Política, Prevención y Buen Gobierno en los asuntos que les sean encomendados; y
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
-
-XV. Las demás que se deriven de otras disposiciones legales y las que le asigne la persona titular de la Secretaría de Gobierno.
+(DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE MARZO DE 2025)</small>
 
 Artículo 57 BIS.- Corresponde a las Direcciones Ejecutivas de Concertación Política, Prevención y Buen Gobierno Regional Oriente, Regional Poniente, Regional Norte y Regional Sur:
 
-> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-I. Acordar con la persona titular de la Dirección General de Concertación Política, Prevención y Buen Gobierno, el despacho de los asuntos de su ámbito de competencia en materias de concertación política, atención social, gestión ciudadana, coordinación política y buen gobierno;
+I. Acordar con la persona titular de la Subsecretaría de Concertación Política, Prevención y Buen Gobierno, el despacho de los asuntos de su ámbito de competencia en materias de concertación política, atención social, gestión ciudadana, coordinación política y buen gobierno;
 
 > <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
 II. Propiciar los acuerdos necesarios para la ejecución de las políticas públicas y mecanismos en materia de concertación política, prevención y gestión social de las Alcaldías;
 
-> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-III. Asistir a la Dirección General de Concertación Política, Prevención y Buen Gobierno en la instrumentación de los mecanismos de participación ciudadana previstos en la ley respectiva, en la zona de su competencia;
+III. Asistir a la Subsecretaría de Concertación Política, Prevención y Buen Gobierno en la instrumentación de los mecanismos de participación ciudadana previstos en la ley respectiva, en la zona de su competencia;
 
 > <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2021)</small>
 
@@ -2962,13 +3048,13 @@ V. Articular estrategias de enlace y diálogo entre los grupos involucrados y la
 
 VI. Establecer las relaciones con los órganos de representación vecinal, tanto formales como de la sociedad civil en la zona de su competencia;
 
-> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-VII. Coadyuvar en la vigilancia del debido cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emitan la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en la zona de su competencia, e informar de su cumplimiento a la persona titular de la Dirección General de Concertación Política, Prevención y Buen Gobierno; y
+VII. Coadyuvar en la vigilancia del debido cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emitan la persona titular de la Jefatura de Gobierno y el Congreso de la Ciudad de México, en la zona de su competencia, e informar de su cumplimiento a la persona titular de la Subsecretaría de Concertación Política, Prevención y Buen Gobierno; y
 
-> <small>(REFORMADA, G.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-VIII. Las demás que se deriven de otras disposiciones legales y las que le asignen las personas titulares de la Secretaría de Gobierno y de la Dirección General de Concertación Política, Prevención y Buen Gobierno.
+VIII. Las demás que se deriven de otras disposiciones legales y las que le asignen las personas titulares de la Secretaría de Gobierno y de la Subsecretaría de Concertación Política, Prevención y Buen Gobierno.
 
 ###### Artículo 58.
 
@@ -7236,7 +7322,21 @@ XXXVIII. (DEROGADA, G.O. 24 DE DICIEMBRE DE 2024)
 
 Corresponde a la Dirección General de Planeación y Evaluación Estratégica:
 
-I. Coordinar la ejecución de las políticas y lineamientos en materia de planeación en los temas de educación, ciencia, tecnología e innovación que establezca la persona titular de la Secretaría;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+I. Coordinar las políticas y lineamientos internos en materia de planeación estratégica, diseño, seguimiento y evaluación interna relativos a la educación, ciencia, tecnología e innovación, así como aquellos que establezca la persona titular de la Secretaría en el marco del desempeño institucional eficiente y efectivo;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+I Bis. Coordinar la elaboración de diagnósticos, reportes, informes y demás documentos que se requieran para fines del seguimiento y evaluación de planes, programas y proyecto estratégicos de la Secretaría, así como aquellos solicitados por los entes públicos del Gobierno de la Ciudad de México considerando los programas transversales y sectoriales;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+I Ter. Coordinar el monitoreo, seguimiento y evaluación interna de los programas, proyectos y acciones a cargo de la Secretaría con el fin de conocer sus avances y proponer los ajustes pertinentes;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+I Quáter. Diseñar las metodologías e instrumentos metodológicos para el seguimiento y la evaluación interna de los planes, programas y proyecto estratégicos de la Secretaría;
 
 II. Diseñar sistemas de información y seguimiento de los proyectos estratégicos de la Secretaría;
 
@@ -7248,13 +7348,13 @@ V. Coordinar los procedimientos de verificación y seguimiento de planeación, e
 
 VI. Recomendar estrategias, lineamientos y criterios técnicos a que deberán sujetarse las Unidades Administrativas de la Secretaría, en relación con los programas de modernización, calidad total, mejora de procesos, de regulación, ahorro, transparencia y combate a la corrupción;
 
-VII. Coordinar la participación oportuna de las Unidades Administrativas de la Secretaría, en los proyectos y actividades estratégicas con el fin de conocer sus avances y proponer los ajustes pertinentes;
+VII. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
 VIII. Desarrollar los sistemas de diagnóstico, interpretación y desarrollo de planes, programas y proyectos que faciliten una planeación preventiva en todas las áreas de la Secretaría;
 
-IX. Determinar los procedimientos de verificación y seguimiento de programas, planes y proyectos, que permitan conocer con objetividad, precisión, oportunidad y regularidad el desarrollo de las actividades estratégicas de la Secretaría;
+IX. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
-X. Coordinar los procedimientos de verificación y seguimiento de planeación, evaluación y monitoreo que permitan conocer con objetividad, precisión, oportunidad y regularidad el desarrollo de las actividades estratégicas de la Secretaría;
+X. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
 XI. Evaluar los resultados de las políticas, estrategias y actividades que implemente la Secretaría y, en su caso proponer las medidas correctivas conducentes;
 
@@ -7282,11 +7382,15 @@ XXI. Las demás que le sean encomendadas por la persona titular de la Secretarí
 
 (DEROGADO, G.O. 21 DE JULIO DE 2023)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 159.
 
-Corresponde a la Dirección General de Enlace Interinstitucional:
+Corresponde a la Dirección General de Participación Comunitaria y Acceso a la Educación:
 
-I. Proponer la celebración de convenios de colaboración con instituciones públicas y/o privadas para ampliar la oferta y mejorar la calidad educativa en los niveles de educación básica, media superior y superior en la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+I. Proponer la celebración de convenios de colaboración con instituciones públicas y/o privadas para fortalecer la infraestructura escolar, así como ampliar la oferta y mejorar la calidad educativa en los niveles de educación básica, media superior y/o superior en la Ciudad de México;
 
 II. Ejecutar acciones de vinculación bilateral con instituciones gubernamentales y no gubernamentales que imparten educación en sus distintos niveles educativos en la Ciudad de México para el seguimiento de programas y proyectos educativos instrumentados en conjunto;
 
@@ -7298,7 +7402,9 @@ V. Diseñar y ejecutar los mecanismos de vinculación institucional con los cent
 
 VI. Coordinar la celebración de acuerdos de vinculación entre la Secretaría de Educación, Ciencia, Tecnología e Innovación y las instituciones gubernamentales que ofrecen capacitación para el trabajo, el autoempleo y educación con el fin de fortalecer la formación de las personas estudiantes;
 
-VII. Determinar y definir los mecanismos de colaboración con las instituciones gubernamentales que permitan auspiciar becas, intercambio estudiantil y apoyos educativos para el beneficio de las personas estudiantes del Sistema Educativo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+VII. Proponer mecanismos de colaboración con las instituciones gubernamentales que permitan auspiciar becas, intercambio estudiantil y apoyos educativos para el beneficio de las personas estudiantes del Sistema Educativo de la Ciudad de México;
 
 VIII. Desarrollar estrategias, programas y proyectos a través de la vinculación con las instituciones gubernamentales que contribuyan a incrementar las oportunidades de desarrollo, formación académica y profesional de las personas estudiantes del Sistema Educativo de la Ciudad de México;
 
@@ -7310,9 +7416,13 @@ XI. Fungir como enlace entre la Secretaría de Educación, Ciencia, Tecnología 
 
 XII. Coordinar la participación de instituciones gubernamentales y sector social para el diseño de estrategias y proyectos educativos que permitan atender las necesidades de educación integral de las personas estudiantes;
 
-XIII. Implementar mecanismos para la participación y recopilar la opinión de instituciones gubernamentales y sector social que permitan identificar propuestas de atención y prevención de problemas sociales con el fin de mejorar el Sistema Educativo de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XIV. Establecer y fomentar vínculos con instituciones gubernamentales y no gubernamentales para ofrecer servicios educativos que contribuyan al desarrollo integral de la persona estudiante, dando especial énfasis a grupos vulnerables y a la atención de necesidades emergentes;
+XIII. Implementar mecanismos y estrategias territoriales para promover la participación de estudiantes y comunidades con la finalidad de identificar propuestas de atención y prevención de problemáticas para transformar el Sistema Educativo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XIV. Establecer vínculos con instituciones gubernamentales y no gubernamentales para ofrecer servicios educativos que contribuyan, desde la primera infancia, al desarrollo integral de las personas estudiantes, con énfasis a grupos vulnerables;
 
 XV. Involucrar a instituciones gubernamentales y no gubernamentales en el desarrollo y ejecución de los programas implementados por la Secretaría de Educación, Ciencia, Tecnología e Innovación con el fin de asegurar una mayor difusión y participación social;
 
@@ -7326,15 +7436,21 @@ XIX. Coordinar la difusión de los eventos y programas sociales que la Secretar�
 
 XX. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2025)</small>
 
 ###### Artículo 160.
 
-Corresponde a la Dirección Ejecutiva Jurídico Normativa:
+Corresponde a la Dirección General Jurídica Normativa y de la Unidad de Transparencia:
 
 I. Dirigir y coordinar las funciones y acciones jurídicas necesarias para la defensa de los intereses de la Secretaría, así como de sus Unidades Administrativas;
 
-II. Representar a la Secretaría, así como a sus Unidades Administrativas en toda clase de juicios, incluyendo amparo, contencioso administrativo y laborales, así como rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse y/o desistirse de las demandas;
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+I Bis. Practicar las diligencias de notificación de resoluciones emitidas por las diversas Unidades Administrativas de la Secretaría, en cumplimiento de las normas jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+II. Representar a la Secretaría, así como a sus Unidades Administrativas en toda clase de juicios, incluyendo amparo, contencioso administrativo y laborales, así como rendir informes, contestar demandas, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, certificar y constatar la idoneidad de los documentos que se encuentren en los archivos de la Dirección General, autorizar delegados e incluso allanarse y/o desistirse de las demandas;
 
 III. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas, en el ámbito de su competencia;
 
@@ -7362,23 +7478,33 @@ XIV. Validar, formular y promover la concertación de convenios o acuerdos con l
 
 XV. Interpretar las leyes y disposiciones en las materias competencia de la Secretaría de Educación, Ciencia Tecnología e Innovación;
 
-XVI. Validar con su firma y autenticar las constancias, certificados, títulos, diplomas y grados académicos de la oferta educativa a cargo de la Secretaría, así como de aquellos cuyos programas le otorgan el reconocimiento de validez oficial de estudios que se expidan por las instituciones educativas incorporadas;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XVI. Validar con su firma y autenticar las constancias, certificados y títulos, de la oferta educativa a cargo de la Secretaría, así como de aquellos cuyos programas le otorgan el Reconocimiento de Validez Oficial de Estudios que se expidan por las instituciones educativas incorporadas;
 
 XVII. Vigilar el cumplimiento de la normatividad aplicable y llevar a cabo, en coordinación con las unidades administrativas correspondientes, los mecanismos necesarios para su cumplimiento;
 
-XVIII. Registrar los certificados, títulos y grados académicos emitidos por la Secretaría y coordinar las gestiones que ante la Federación correspondan;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XVIII. Registrar los certificados y títulos emitidos por la Secretaría y coordinar las gestiones que ante la Federación correspondan;
 
 XIX. Tramitar ante la Secretaría de Educación Pública, la Dirección General de Profesiones y demás instituciones facultadas como autoridad de carácter educativo, los registros necesarios para el reconocimiento de validez oficial de los estudios cuyo otorgamiento de certificación competan a la Secretaría;
 
 XX. Diseñar y desarrollar el Sistema de Acreditación y Certificación, para unificar criterios que permitan promover una administración escolar eficiente que apoye la labor educativa con base en la participación de los involucrados en los procesos de control escolar;
 
-XXI. Coordinar y regular los servicios de incorporación, revalidación y equivalencia de estudios en la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XXII. Otorgar validez a los estudios realizados dentro del sistema educativo de la Secretaría de Educación de la Ciudad de México, mediante la expedición de certificados parciales y totales, constancias, diplomas o títulos;
+XXI. Coordinar, regular y otorgar los servicios de incorporación, revalidación y equivalencia de estudios en la Ciudad de México;
 
-XXIII. Autenticar los certificados, títulos, diplomas y grados de acreditación académica expedidos por las instituciones privadas de Educación Media Superior y Superior, y de Formación para el Trabajo, que cuenten con Reconocimiento de Validez Oficial de Estudios, conforme a la normativa y los convenios de coordinación que correspondan;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XXIV. Revalidar y otorgar equivalencias de estudios, distintos de los mencionados en la fracción V del artículo 13 de la Ley General de Educación, de conformidad con los lineamientos generales que la autoridad educativa federal expida;
+XXII. Otorgar validez a los estudios realizados dentro del sistema educativo de la Secretaría, mediante la expedición de certificados parciales y totales, constancias y/o títulos;
+
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXIII. Autenticar los certificados y títulos de acreditación académica expedidos por las instituciones privadas de Educación Media Superior y Superior, y de Formación para el Trabajo, que cuenten con Reconocimiento de Validez Oficial de Estudios, conforme a la normativa y los convenios de coordinación que correspondan;
+
+XXIV. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
 XXV. Emitir e interpretar las normas en materia de reconocimiento de validez oficial de estudios, así como brindar asesoría en el cumplimiento de éstas;
 
@@ -7390,11 +7516,17 @@ XXVIII. Asignar las claves de identificación de los documentos de certificació
 
 XXIX. Representar a la Secretaría de Educación, Ciencia, Tecnología e Innovación ante las autoridades competentes en materia de acceso a la información pública, gobierno abierto y protección a los datos personales;
 
-XXX. Fungir como Titular de la Unidad de Transparencia para atender el ejercicio del derecho al acceso a la información pública y, en su caso, la protección de sus datos personales en poder (sic) la Secretaría de Educación de la Ciudad de México, de los Ciudadanos;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXX. Fungir como Titular de la Unidad de Transparencia para atender los derechos de acceso a la información pública, protección de datos personales y el ejercicio de los derechos de acceso, rectificación, cancelación, oposición y portabilidad de los datos personales de los ciudadanos en posesión de la Secretaría;
 
 XXXI. Atender y desahogar todos los requerimientos que, en materia de transparencia, acceso a la información pública, gobierno abierto y protección a los datos personales se realicen a la Dependencia, incluyendo la presentación de informes, la atención de las solicitudes de información, denuncias por incumplimiento de obligaciones de transparencia o de datos personales y de los recursos de revisión;
 
 XXXII. Coordinar a las Unidades Administrativas de la Dependencia para que den cumplimiento a la normatividad aplicable en materia de transparencia, acceso a la información pública, datos personales y gobierno abierto; atiendan puntualmente las solicitudes de información pública y datos personales, obligaciones de transparencia, fomenten la cultura de la transparencia y protección de datos personales e informen a la ciudadanía respecto de las acciones que se realizan a través de la rendición de cuentas;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXXII Bis. Recabar, publicar y actualizar las obligaciones de transparencia; proponer al Comité de Transparencia los procedimientos internos para la atención de solicitudes; asesorar y orientar a los particulares sobre la elaboración de solicitudes y las instancias a las que pueden acudir a solicitar orientación, consultas o interponer quejas sobre la prestación del servicio; asesorar a las áreas internas de la Secretaría en materia de datos personales; fomentar la cultura de la transparencia y la privacidad; coordinar las actividades de capacitación; nombrar al responsable de capacitación; nombrar al enlace de datos personales; y efectuar las notificaciones correspondientes;
 
 XXXIII. Desarrollar e implementar acciones y políticas que fortalezcan la cultura de la transparencia, el acceso a la información pública la protección de datos personales, el gobierno abierto y rendición de cuentas, y
 
@@ -7402,45 +7534,13 @@ XXXIV. Las demás que le sean encomendadas por la persona titular de la Secretar
 
 ###### Artículo 161.
 
-Corresponde a la Dirección General de Desarrollo Institucional:
+(DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
-I. Presentar al Subsecretario de Educación las peticiones y proyectos provenientes de instituciones públicas y privadas, organizaciones sociales, representantes sindicales o el público en general, siempre que estén relacionados con la materia educativa;
-
-II. Establecer una comunicación permanente con las autoridades educativas de las Alcaldías y coordinar acciones con éstas, para dar atención y seguimiento a las demandas y necesidades existentes en materia educativa;
-
-III. Promover las oportunidades que favorezcan la máxima cobertura y calidad de la educación en la Ciudad de México;
-
-IV. Dar seguimiento al trámite de los asuntos presentados por cualquier persona o institución en las unidades administrativas de la Secretaría;
-
-V. Impulsar la comunicación interna, el trabajo colegiado y la vinculación entre las unidades administrativas para desarrollar acciones estratégicas que mejoren la calidad educativa en la Ciudad de México;
-
-VI. Coordinar a los representantes de la Secretaría ante las comisiones, órganos u organismos en los que ésta participe o deba participar;
-
-VII. Coordinarse con las Unidades Administrativas de la Secretaría los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización para elevar la calidad de la educación en todos sus niveles;
-
-VIII. Diseñar capacitación en materia de calidad al personal que forma parte del Sistema Educativo de la Ciudad de México;
-
-IX. Brindar asesoría a las escuelas del Sistema Educativo de la Ciudad de México y a las distintas Unidades Administrativas de la Secretaría, respecto de los conceptos de calidad y mejora continua de los servicios educativos;
-
-X. Diseño de metodologías y herramientas de evaluación de la calidad de los servicios educativos de la Ciudad de México para su mejoramiento dirigidos a las distintas Unidades Administrativas de la Secretaría;
-
-XI. Atender, orientar y buscar las soluciones de los conflictos que se presenten derivados de la función educativa;
-
-XII. Autorizar estrategias, lineamientos y criterios técnicos a que deberán sujetarse las Unidades Administrativas de la Secretaría, en relación con los programas de modernización educativa, calidad total y mejora de procesos de enseñanza-aprendizaje;
-
-XIII. Establecer entre las Unidades Administrativas de la Secretaría, los programas, políticas y criterios técnicos en materia de calidad, innovación y modernización en materia educativa;
-
-XIV. Formular de manera sistemática y permanente, en coordinación con las Unidades Administrativas de la Secretaría y las entidades especializadas competentes, la evaluación de la calidad y eficacia de la educación de la Ciudad de México, para el cumplimiento de las políticas, objetivos, programas, proyectos, actividades, compromisos y el impacto de los mismos;
-
-XV. Determinar las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación de la educación de la Ciudad de México, incluyendo las relativas al financiamiento, la certificación y acreditación de la calidad y la búsqueda de alternativas de financiamiento del Sistema Educativo;
-
-XVI. Establecer un sistema de evaluación educativa en la Ciudad de México que permita contar con indicadores del desempeño y evolución de las funciones educativas; y
-
-XVIII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2025)</small>
 
 ###### Artículo 162.
 
-Corresponde a la Dirección Ejecutiva de Educación de Bachillerato y Estudios Superiores:
+Corresponde a la Dirección Ejecutiva de Educación de las Juventudes:
 
 I. Auxiliar a la persona Titular de la Subsecretaría de Educación en el ejercicio de sus atribuciones;
 
@@ -7484,17 +7584,73 @@ XX. Registrar y administrar las bases de datos o sistemas de registro de las esc
 
 XXI. Elaborar los acuerdos de modificación de los reconocimientos de validez oficial de estudios otorgados a las Instituciones de Educación Media Superior y Superior, y de Formación para el Trabajo, respecto de los cambios de titulares, de domicilio, apertura de nuevos planteles, así como de los planes y programas de estudio;
 
-XXII. Realizar las acciones necesarias para la aplicación de las sanciones correspondientes a las Instituciones de Educación Media Superior y Superior, y de Formación para el Trabajo, que infrinjan la normativa relativa al Reconocimiento de Validez Oficial de Estudios;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXII. Notificar a la instancia jurídica cuando se presuma que las Instituciones de Educación Media Superior y Superior, y de Formación para el Trabajo, infrinjan la normativa relativa al Reconocimiento de Validez Oficial de Estudios;
 
 XXIII. Realizar los procedimientos para garantizar que la información y documentación relacionada con el reconocimiento de Validez Oficial de Estudios respecto de la solicitud de terminación voluntaria de los servicios educativos que ofrezcan los particulares, a los cuales la Secretaría haya otorgado el Reconocimiento de Validez Oficial de Estudios;
 
-XXIV. Supervisar los servicios educativos que impartan los particulares a los que la Secretaría les haya otorgado el Reconocimiento de Validez Oficial de Estudios o que estén gestionando su incorporación a ésta, a efecto de verificar que cumplan con las normas técnico-pedagógicas y administrativas que establecen las disposiciones legales en la materia; y
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
 
-XXV. Las demás que le sean encomendadas por la persona titular de la Subsecretaría de Educación, congruentes con la normativa aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+XXIV. Supervisar los servicios educativos que impartan los particulares a los que la Secretaría les haya otorgado el Reconocimiento de Validez Oficial de Estudios o que estén gestionando su incorporación a ésta, a efecto de verificar que cumplan con las normas técnico-pedagógicas y administrativas que establecen las disposiciones legales en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE ABRIL DE 2025)</small>
+
+XXV. Proponer acciones para mejorar la infraestructura necesaria para el uso y la innovación con tecnologías de la información en los planteles de educación media superior, en coordinación con las autoridades educativas correspondientes;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XXVI. Establecer vínculos de coordinación y colaboración con otras dependencias y actores educativos para el logro los proyectos institucionales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 30 DE ABRIL DE 2025)</small>
+
+XXVII. Las demás que le sean encomendadas por la persona titular de la Subsecretaría de Educación, congruentes con la normativa aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+###### Artículo 162 Bis.
+
+Corresponde a la Dirección General de Cuidados y Educación de las Infancias:
+
+I. Auxiliar a la persona Titular de la Subsecretaría de Educación en el ejercicio de sus atribuciones, así como presentarle peticiones y proyectos, en materia educativa, provenientes de instituciones públicas y privadas;
+
+II. Coordinar la elaboración, implementación y evaluación de proyectos y acciones que fortalezcan el cuidado y el derecho a la educación de las niñas, niños, adolescentes y jóvenes de la Ciudad de México;
+
+III. Integrar del anteproyecto los proyectos de presupuesto que le correspondan, así como verificar su correcta y oportuna ejecución por parte de las Unidades;
+
+IV. Coordinar los procesos de planeación y programación de los proyectos y acciones de las direcciones de área bajo su adscripción;
+
+V. Formular los instrumentos normativos necesarios para impulsar la mejora de las condiciones institucionales de la educación inicial en la Ciudad de México, en un marco de articulación con las políticas y dependencias involucradas en el Sistema Público de Cuidados;
+
+VI. Proponer programas, proyectos o acciones que amplíen los servicios de educación inicial en la Ciudad de México;
+
+VII. Coordinar el diseño, operación y evaluación de acciones que, en el marco de la Política Nacional de Educación Inicial, fortalezcan el modelo educativo y la formación de los y las agentes educativas, padres, madres y personas cuidadoras de los servicios educativos en la Ciudad de México;
+
+VIII. Determinar las políticas, prioridades, programas y medidas de acción de carácter estratégico que pudieran derivarse de la evaluación de la educación de la Ciudad de México;
+
+IX. Formular proyectos que fortalezcan la educación de las niñas, niños y adolescentes, a través del desarrollo de actividades culturales y deportivas, así como de la participación comunitaria, en las escuelas y planteles de educación básica de la Ciudad de México, en coordinación con las autoridades educativas federales;
+
+X. Formular de manera sistemática y permanente, en coordinación con las unidades administrativas de la Secretaría y las entidades especializadas competentes, la evaluación de la calidad y eficacia de la educación de la Ciudad de México relacionado con las infancias, para el cumplimiento de las políticas, objetivos, programas, proyectos, actividades, compromisos y el impacto de los mismos;
+
+XI. Establecer un sistema de evaluación educativa en la Ciudad de México que permita contar con indicadores del desempeño y evolución de las funciones educativas relacionadas con las infancias;
+
+XII. Operar el Programa Anual de Formación y Actualización del personal docente que labora en los Centros de Atención y Cuidado Infantil para la Ciudad de México;
+
+XIII. Apoyar a la persona titular de la Secretaría, las sesiones ordinarias y extraordinarias, así como los trabajos acordados del Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia;
+
+XIV. Vigilar que la coordinación para el desarrollo de proyectos que complementen y fortalezcan la educación escolar de las niñas, niños, adolescentes y jóvenes que asisten a las escuelas y planteles de educación básica y media superior de la Ciudad de México, se realice con base a lo programado;
+
+XV. Vigilar que los programas y políticas que se promuevan desde la Secretaría, contemplen una perspectiva humanista que promuevan, en la educación, habilidades para la vida, la convivencia, el trabajo, la paz, la salud, el medio ambiente y la educación cívica;
+
+XVI. Atender el funcionamiento y operación que impacta en el ámbito educativo en los Centros de Atención y Cuidado Infantil para la Ciudad de México;
+
+XVII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2025)</small>
 
 ###### Artículo 163.
 
-Corresponde a la Dirección General de Ciencia, Divulgación y Transferencia del Conocimiento:
+Corresponde a la Dirección General de Derecho a la Ciencia, Divulgación y Transferencia del Conocimiento:
 
 I. Diseñar, instrumentar y ejecutar los mecanismos necesarios para el desarrollo y la vinculación institucional con los centros de investigación, la comunidad científica, las Alcaldías, la sociedad civil y los sectores académicos y productivos para el desarrollo de la ciencia, la tecnología e innovación que fomenten la mejora de la calidad del Sistema Educativo de la Ciudad de México;
 
@@ -7502,7 +7658,9 @@ II. Elaborar propuestas de normatividad para regular, evaluar, seleccionar, auto
 
 III. Someter a consideración de la Subsecretaría de Ciencia Tecnología e Innovación, los objetivos y metas específicas para asegurar la ejecución del Programa de Desarrollo Científico, Tecnológico y de Innovación y establecer con las unidades administrativas competentes de la Secretaría;
 
-IV. Dar seguimiento a las actividades que realicen los Comités de Fomento y Desarrollo Científico, Tecnológico e Innovación de las Alcaldías.
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+IV. Dar seguimiento, en coordinación con la Dirección General de Desarrollo, Innovación Tecnológica y Divulgación Científica, a las acciones institucionales con las Alcaldías y otros organismos del Gobierno de la Ciudad de México para el fomento y mejora continua de la infraestructura de investigación científica y humanística, así como el desarrollo tecnológico y la innovación para el progreso social, con pertinencia y respeto a las vocaciones de los territorios y sus comunidades;
 
 V. Colaborar con los grupos de trabajo que se integren para la evaluación, aprobación y seguimiento de los proyectos científicos, tecnológicos y de innovación prioritarios;
 
@@ -7520,11 +7678,15 @@ XI. Divulgar los programas y las implicaciones del desarrollo de la ciencia, la 
 
 XII. Incentivar el desarrollo de las actividades científicas, tecnológicas y de innovación en proyectos relacionados con el medio ambiente, desarrollo social, desarrollo rural y urbano en la Ciudad de México;
 
-XIII. Establecer en coordinación con la Secretaría de Desarrollo Económico de la Ciudad de México los mecanismos que permitan incentivar el desarrollo y la inversión productiva en materia de ciencia, tecnología e innovación;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XIII. Coadyuvar en las acciones con los sectores públicos y privados el diseño, ejecución, seguimiento, evaluación, difusión y divulgación de mecanismos que permitan incentivar el desarrollo y la inversión productiva en materia de ciencia, humanidades, tecnología e innovación, así como promover la creación de empresas privadas de base científica y tecnológica responsables con el ambiente y con el bienestar social;
 
 XIV. Implementar actividades relativas a la cooperación en materia de ciencia, tecnología e innovación en la Ciudad de México;
 
-XV. Promover convocatorias dirigidas a la comunidad científica y académica, el sector social o las instituciones públicas o privadas para fomentar la creación de grupos de investigación de alto nivel orientados a la búsqueda de soluciones a los principales problemas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+XV. Fomentar la creación de grupos de investigación de alto nivel, a través de convocatorias, programas u otros mecanismos dirigidos a la comunidad científica y académica, el sector social o instituciones públicas o privadas, para la búsqueda de soluciones a los principales problemas de la Ciudad de México;
 
 XVI. Participar en las acciones necesarias para el otorgamiento de premios, estímulos y cualquier otro tipo de reconocimiento a los académicos, investigadores, docentes, científicos y en general cualquier persona que haya contribuido al mejoramiento de la Ciudad de México, en materia de ciencia, tecnología e innovación;
 
@@ -7532,9 +7694,11 @@ XVII. Identificar los posibles recursos económicos o de cualquier índole prove
 
 XVIII. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 164.
 
-Corresponde a la Dirección General de Cómputo y Tecnologías de la Información:
+Corresponde a la Dirección Ejecutiva de Cómputo y Tecnologías de la Información:
 
 I. Diseñar sistemas de información y seguimiento para los proyectos estratégicos de la Secretaría;
 
@@ -7548,7 +7712,9 @@ V. Colaborar con las Unidades Administrativas de la Secretaría correspondientes
 
 VI. Generar y promover proyectos audiovisuales que fomenten la equidad de la educación y la investigación científica en la Ciudad de México;
 
-VII. Diseñar, implementar y evaluar los proyectos que involucren las tecnologías de la información y comunicaciones, así como la investigación científica para el mejoramiento de la educación básica, media superior y superior de la Ciudad de México, dentro del ámbito de competencia de la Secretaría;
+> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2025)</small>
+
+VII. Proponer los proyectos que involucren las tecnologías de la información y comunicaciones, así como la investigación científica para el mejoramiento de la educación básica, media superior y superior de la Ciudad de México, dentro del ámbito de competencia de la Secretaría;
 
 VIII. Coordinarse con las Unidades Administrativas de la Secretaría correspondientes para el manejo de las bases de datos con información estadística educativa, científica y tecnológica en la Ciudad de México, con la finalidad de apoyar las actividades que lleve a cabo la Secretaría;
 
@@ -7560,63 +7726,111 @@ XI. Fomentar la incorporación de la innovación tecnológica en el desarrollo e
 
 XII. Desarrollar actividades para el óptimo funcionamiento de los equipos de cómputo, comunicaciones y procesamiento de datos al interior de la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México a través de acciones de mantenimiento y soporte técnico.
 
-XIII. Impulsar la identificación de oportunidades de desarrollo y factibilidad de nuevas ciencias, tecnologías e innovación para el fortalecimiento de la infraestructura tecnológica y de servicios en la Ciudad de México;
+XIII. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
-XIV. Impulsar y promover el establecimiento de redes científicas, tecnológicas y de innovación a fin de establecer sistemas de cooperación en esas materias; y
+XIV. (DEROGADA, G.O. 30 DE ABRIL DE 2025)
 
 XV. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
-> <small>(ADICIONADO, G.O. 21 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2025)</small>
 
 ###### Artículo 164 Bis.
 
-Corresponde a la Dirección General de Desarrollo e Innovación Tecnológica el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección General de Desarrollo, Innovación Tecnológica y Divulgación Científica:
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 I. Instrumentar las acciones que permitan generar proyectos de desarrollo en tecnología e innovación, que contribuyan a la creación, mejora, desarrollo o modernización de procesos, bienes o servicios que beneficien a la población en la ciudad;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 II. Proponer, instrumentar y participar en la suscripción de convenios de coordinación y colaboración con la Administración Pública Local, el sector social, instituciones públicas, privadas, científicas y académicas, para el establecimiento de programas y apoyos destinados a impulsar el desarrollo científico, tecnológico y de innovación, la propiedad intelectual, las tecnologías de la información y la transferencia tecnológica en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 III. Asesorar en la elaboración de los lineamientos que regulen la evaluación, selección, autorización, apoyo, operación y conclusión de los proyectos innovadores que contribuyan a la creación, mejora, desarrollo o modernización de procesos, innovación, productos, servicios y proyectos de desarrollo tecnológico y de innovación que beneficien a la población en la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 IV. Propiciar la creación y participación en los Centros de Investigación de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 V. Establecer las bases y participación en los grupos de trabajo competentes que se integren para la evaluación, aprobación y seguimiento de los proyectos de desarrollo tecnológico y de innovación prioritarios de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 VI. Supervisar el desarrollo de los proyectos tecnológicos y de innovación que sean autorizados de conformidad con la normativa vigente aplicable;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 VII. Contribuir con el trabajo multidisciplinario, interinstitucional e intersectorial para la integración y ejecución de proyectos de desarrollo tecnológico y de innovación a cargo de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 VIII. Coadyuvar para la formación, apoyo y desarrollo en disciplinas científicas, académicas, tecnológicas, de investigación y profesionales de alto nivel académico, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 IX. Promover la participación de la comunidad científica y de los sectores público, social y privado en el desarrollo, aplicación y fomento de los programas y proyectos de innovación;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 X. Proponer y ejecutar las políticas públicas y lineamientos para favorecer las actividades de innovación, propiedad intelectual y de patentes;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XI. Dar seguimiento y continuidad a las acciones para la organización de eventos, ferias, exposiciones y congresos relacionados con el desarrollo de la ciencia, tecnología e innovación;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XII. Proponer el establecimiento de mecanismos de colaboración con la Administración Pública Local y los Órganos Políticos Administrativos necesarios para promover la realización de programas y la asignación de recursos en materia de ciencia, tecnología e Innovación;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XIII. Coadyuvar en la atención de las consultas que realicen las Dependencias y Entidades de la Administración Pública de la Ciudad de México, sobre la instrumentación de los proyectos de ciencia, tecnología e innovación, así como las que formulen las Alcaldías, las personas físicas y los organismos de los sectores social o privado en esta materia;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XIV. Coadyuvar en la promoción a la cultura del registro de los productos o procedimientos que descubran o desarrollen las personas físicas o morales que realicen sus actividades en la Ciudad de México, para proteger la propiedad intelectual y las patentes;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XV. Realizar de manera coordinada los estudios y actividades necesarias para que la Secretaría brinde los apoyos relacionados con las materias de propiedad industrial y derechos de autor en la Ciudad de México, que permitan orientar el apoyo a proyectos de desarrollo científico, tecnológico y de innovación;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XVI. Proponer la implementación de programas que permitan que los proyectos de innovación que lleve a cabo la Secretaría tengan impacto y relación con el desarrollo de inversiones estratégicas en la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XVII. Impulsar la innovación de la infraestructura tecnológica y de servicios públicos con asesorías y apoyos otorgados por la Secretaría;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XVIII. Fomentar entre los entes públicos o privados el intercambio, movilidad o estancias de investigadores, científicos, académicos o profesionistas de alto nivel, en materia de ciencia, tecnología e innovación, cumpliendo con los requisitos para el otorgamiento de apoyos en las carreras de investigación con proyección internacional encaminados a cumplir con los fines de la Secretaría;
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XIX. Impulsar y promover, a solicitud de la persona titular de la Subsecretaría de Ciencia, Tecnología e Innovación de la Ciudad de México, el establecimiento de redes científicas a fin de establecer sistemas de cooperación;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XX. Coadyuvar para establecer los mecanismos necesarios para el intercambio de profesoras, profesores, investigadoras e investigadores, otorgamiento de becas, sistemas de información y documentación, así como servicios de apoyo relativos al desarrollo científico, tecnológico y de innovación, en coordinación con las diferentes Unidades Administrativas de la Secretaría.
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XXI. Fomentar la aplicación y el desarrollo de la ciencia, tecnología e innovación de la información y comunicación en temas estratégicos para la ciudad;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XXII. Asesorar en los proyectos de investigación y desarrollo tecnológico en torno al tema de la sociedad de la información y el conocimiento;
 
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
+
 XXIII. Expedir, de conformidad con la normativa aplicable, las copias certificadas de los documentos que obren en los archivos del área a su cargo, así como de aquellos que expidan en el ejercicio de sus funciones las personas servidoras públicas que le están subordinadas; y
+
+> <small>(ADICIONADA, G.O. 21 DE JULIO DE 2023)</small>
 
 XXIV. Las demás que le sean encomendadas por la persona titular de la Secretaría, en concordancia con la normativa vigente aplicable a la materia y el presente Reglamento.
 
@@ -8274,35 +8488,9 @@ XXI. Las demás atribuciones conferidas por la persona titular de la Secretaría
 
 (DEROGADO, G.O. 31 DE AGOSTO DE 2020)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
-
 ###### Artículo 172 Bis.
 
-Corresponde a la Dirección General de Diversidad Sexual y Derechos Humanos:
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-I. Promover e impulsar acciones enfocadas a difundir, garantizar, proteger y respetar los derechos económicos, sociales, culturales y ambientales en especial a los grupos de atención prioritaria con la Administración Pública de la Ciudad y con la población en general;
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-II. Participar de forma colaborativa en la creación de condiciones de igualdad y no discriminación con las instancias correspondientes en el ámbito de su competencia a efecto de facilitar, garantizar el acceso y pleno disfrute a los derechos económicos, sociales, culturales y ambientales de los habitantes de la Ciudad;
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-III. Diseñar, promover y ejecutar acciones en materia de diversidad sexual que tengan por objetivo impulsar la inclusión y bienestar de todas las personas independientemente de su orientación sexual, expresión e identidad de género en la Administración Pública de la Ciudad;
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-IV. Proporcionar a la Administración Pública de la Ciudad acompañamiento y orientación eficaz en materia de derechos económicos, sociales, culturales y ambientales;
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-V. Coordinar y promover con las diversas instituciones académicas y organizaciones de la sociedad civil el establecimiento de convenios y/o acuerdos que fomenten los derechos económicos, sociales, culturales y ambientales, de las personas LGBTTTI y de la población en general; y
-
-> <small>(ADICIONADA, G.O. 31 DE AGOSTO DE 2020)</small>
-
-VI. Las demás atribuciones conferidas por la persona titular de la Secretaría, así como las que expresamente le atribuyen este Reglamento y las que le otorguen otros ordenamientos jurídicos o administrativos.
+(DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
 > <small>(ADICIONADO, G.O. 14 DE MARZO DE 2025)</small>
 
@@ -11140,27 +11328,7 @@ XIII. Coadyuvar con las Alcaldías, autoridades de la Ciudad de México y autori
 
 ###### Artículo 222.
 
-Corresponde a la Dirección General de Empleo:
-
-I. Dirigir el diseño, operación y evaluación de los programas de apoyo para personas buscadoras de empleo que incluyen la vinculación laboral, la capacitación para el trabajo, el seguro de desempleo y el autoempleo, así como los demás que se establezcan para la atención de esa población en la Ciudad de México;
-
-II. Establecer los mecanismos y acciones necesarias para la igualdad sustantiva entre mujeres y hombres en los programas de apoyo para personas buscadoras de empleo que opere la Secretaría, contribuyendo al respeto de sus derechos humanos laborales y a la independencia económica;
-
-III. Proponer y operar los mecanismos de atención especial para la inclusión laboral de los grupos de atención prioritaria y personas trabajadoras que por su condición de vulnerabilidad lo ameriten, reconociendo su derecho al trabajo digno y la independencia económica;
-
-IV. Coordinar la operación, conforme a las disposiciones normativas y presupuestarias aplicables, del Programa del Seguro de Desempleo que, aunado a la capacitación y vinculación laboral según corresponda en cada caso, buscará la reinserción a una actividad productiva de la población beneficiaria;
-
-V. Proponer y aplicar los mecanismos de coordinación y operación necesarios con las demarcaciones territoriales de la Ciudad de México para la operación de los programas de apoyo para buscadores de empleo y para los grupos de atención prioritaria y personas en condición de vulnerabilidad;
-
-VI. Establecer y operar los esquemas de colaboración con el Servicio Nacional de Empleo para la operación de las acciones y programas de atención, capacitación, colocación y el autoempleo de personas buscadoras de empleo y en condición de vulnerabilidad;
-
-VII. Gestionar y verificar la adecuada organización y programación de cursos relativos a los programas de becas de capacitación a personas buscadoras de empleo para que se realicen oportuna y eficazmente, evaluando la ejecución de las acciones e informando a las instancias competentes los avances correspondientes;
-
-VIII. Promover y establecer los mecanismos de coordinación necesarios con el Instituto de Capacitación para el Trabajo de la Ciudad de México, y otras instancias públicas y privadas, para la capacitación de la población que se atiende mediante los programas de apoyo que opere la Secretaría;
-
-IX. Proponer la celebración de convenios de colaboración o coordinación con entidades públicas o privadas, nacionales e internacionales, y aplicar las acciones que correspondan al ámbito de acción de la Dirección General, con el objeto de coadyuvar al logro de los objetivos de los programas que opere la Secretaría; y
-
-X. Proponer e impulsar campañas informativas y de difusión de los programas de apoyo que tiene la Secretaría para la atención de buscadores de empleo y para los grupos de atención prioritaria y personas en condición de vulnerabilidad.
+(DEROGADO, G.O. 30 DE ABRIL DE 2025)
 
 ###### Artículo 223.
 
@@ -11213,6 +11381,82 @@ XII. Dirigir y coordinar sus funciones, mediante la asignación de facultades a 
 XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de los trabajadores asalariados, ofreciendo sus servicios de manera gratuita; y
 
 XIV. Establecer mesas de conciliación entre empleadores y trabajadores, para disminuir el número de demandas a presentar antelas (sic) autoridades jurisdiccionales en materia de trabajo de competencia local, en el ámbito de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+Artículo 224 BIS.- Corresponde a la Dirección Ejecutiva de Programas de Apoyo al Empleo:
+
+I. Asegurar la correcta administración de los recursos presupuestales de la Oficina del Servicio Nacional de Empleo de la Ciudad de México, aplicando los criterios de transparencia, honestidad, sustentabilidad y eficiencia que establece la normatividad aplicable, con el fin de optimizar el desarrollo de los programas de apoyo al empleo;
+
+II. Determinar de manera conjunta con la instancia federal y/o estatal que corresponda, el resultado programático-presupuestal anual de los servicios y programas de apoyo al empleo que opera el Servicio Nacional de Empleo de la Ciudad de México, para optimizar los resultados comprometidos;
+
+III. Vigilar que los recursos asignados a cada uno de los programas de apoyo al empleo realizados con recurso federal o local, se operen con criterios de eficiencia, transparencia y honestidad apegados a la normatividad en beneficio de las personas buscadoras de empleo, a los grupos de atención prioritaria y a las personas en condición de vulnerabilidad para que se ejerzan conforme a los lineamientos y normatividad vigente;
+
+IV. Controlar la ejecución de recursos humanos, financieros y materiales de la Oficina del Servicio Nacional de Empleo de la Ciudad de México para procurar su correcta aplicación;
+
+V. Aprobar el contenido de los informes de gestión operativa y de control del gasto correspondientes a las actividades institucionales para dar seguimiento a la operación de los programas de apoyo al empleo;
+
+VI. Establecer procedimientos para la entrega de apoyos económicos y en especie a personas beneficiarias, los grupos de atención prioritaria y a las personas en condición de vulnerabilidad de los programas de apoyo al empleo, realizado con recurso federal o local;
+
+VII. Aprobar la correcta administración de los recursos financieros destinados a la entrega de apoyos económicos, de los programas de apoyo al empleo pagados con recurso federal o local, para cumplir con la normatividad vigente en la materia;
+
+VIII. Aprobar la comprobación de los recursos financieros federales y locales, ante las diversas instancias de Gobierno, para la correcta rendición de cuentas;
+
+IX. Supervisar la adquisición de maquinaria, equipo, herramienta, mobiliario y la contratación de servicios relacionados con los subsidios de apoyos de los programas de apoyo al empleo para la entrega oportuna del subprograma que se trate a los beneficiados;
+
+X. Diseñar estrategias de ocupación temporal que permitan proporcionar a las personas desempleadas o subempleadas la posibilidad de participar en el desarrollo de actividades de carácter temporal, en el marco de proyectos locales, de las Alcaldías y/o regionales de carácter gubernamental, social y/o comunitario de instituciones públicas o privadas para que sean candidatos a ocupar una vacante de trabajo;
+
+XI. Determinar instrumentos normativos, documentos y estrategias para la inserción y la reinserción socio laboral, la capacitación y el emprendimiento, que se deban observar en las Unidades Operativas del Servicio Nacional de Empleo, para el incremento de la empleabilidad de las personas buscadoras de empleo de la Ciudad de México;
+
+XII. Diseñar instrumentos normativos y estrategias para la correcta implementación de los Programas de Apoyo al Empleo y su operación, en las Unidades de Operación del Servicio de Empleo;
+
+XIII. Realizar acciones que contribuyan al cumplimiento de las políticas laborales y/o de empleo a nivel federal y local o que requieran una respuesta a la coyuntura de la Ciudad de México, para insertar a las personas buscadoras de empleo en el sector formal de la economía;
+
+XIV. Asegurar el desempeño de acciones conjuntas para el desarrollo económico, social y ambiental de otros programas afines a la Secretaría vinculados a las políticas laborales/ o políticas de empleo y estrategias de inserción y reinserción socio laboral;
+
+XV. Elaborar convenios y contratos de colaboración y en general todo tipo de actos jurídicos interinstitucionales y la Oficina del Servicio Nacional de Empleo de la Ciudad de México para la eficiencia de los Programas de Apoyo al Empleo;
+
+XVI. Coordinar mecanismos de supervisión, monitoreo, seguimiento y evaluación de la correcta aplicación de las normas y procedimientos establecidos para la operación de los Programas de Apoyo al Empleo de la población desempleada, subempleada y/o grupos de atención prioritaria;
+
+XVII. Establecer los procedimientos de contraloría social a fin de promover la transparencia, en la operación y el involucramiento de la población beneficiaria en estos procesos;
+
+XVIII. Establecer los procedimientos de la coordinación de planeación e información ocupacional para dar a conocer los reportes y resultados de los programas de apoyo al empleo;
+
+XIX. Planear una estrategia de comunicación, promoción y difusión virtual e impresa, en diferentes medios informativos adecuados a la población, para difundir el portafolio integral de los programas de apoyo al empleo con criterios de inclusión y sustentabilidad; y
+
+XX. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2025)</small>
+
+Artículo 224 TER.- Corresponde a la Dirección Ejecutiva del Seguro de Desempleo:
+
+I. Dirigir la operación del programa social denominado Seguro de Desempleo y Subprograma Seguro de Desempleo Activo para la incorporación al mercado de trabajo y al goce del derecho de un trabajo digno a las personas desempleadas residentes de la Ciudad de México;
+
+II. Proponer al superior jerárquico las modificaciones a las reglas de operación, a fin de que el programa sea accesible a la población objetivo;
+
+III. Establecer instrumentos de control interno para la supervisión del desarrollo del programa y subprograma, atendiendo a los principios de transparencia, atención ciudadana y simplificación administrativa;
+
+IV. Evaluar el impacto del programa y subprograma, mediante emisión e indicadores de gestión, que permitan tomar medidas preventivas y/o solventar contratiempos en su ejecución;
+
+V. Proponer campañas informativas y de difusión del programa social Seguro de Desempleo y subprograma Seguro de Desempleo Activo, dirigidos a los habitantes de la Ciudad de México;
+
+VI. Impulsar campañas de difusión dirigidas a buscadores de empleo, grupos de atención prioritaria y personas en condición de vulnerabilidad que requieran el apoyo del programa social Seguro de Desempleo y subprograma Seguro de Desempleo Activo;
+
+VII. Realizar asambleas informativas para divulgar los beneficios y requisitos del programa social Seguro de Desempleo y subprograma Seguro de Desempleo Activo;
+
+VIII. Publicar en los portales oficiales las listas de personas aceptadas al programa Seguro de Desempleo y subprograma Seguro de Desempleo Activo a fin de que éstas puedan continuar con los trámites conducentes;
+
+IX. Coordinar los trámites para el otorgamiento del apoyo económico del programa Seguro de Desempleo y subprograma Seguro de Desempleo Activo, a fin de que las personas interesadas obtengan el beneficio;
+
+X. Brindar información sobre los requisitos de acceso al programa social Seguro de Desempleo y subprograma Seguro de Desempleo Activo;
+
+XI. Emitir la cancelación o baja del programa Seguro de Desempleo y subprograma Seguro de Desempleo Activo atendiendo a los supuestos establecidos en las reglas de operación;
+
+XII. Cumplir con los convenios de colaboración que se celebren con otras dependencias para el otorgamiento del programa Seguro de Desempleo y subprograma Seguro de Desempleo Activo;
+
+XIII. Atender las quejas presentadas por los solicitantes al programa Seguro de Desempleo y subprograma Seguro de Desempleo Activo, a fin de valorar su viabilidad; y
+
+XIV. Las demás previstas en otros ordenamientos jurídicos y administrativos aplicables o las que le encomiende la persona superior jerárquica.
 
 #### SECCIÓN XVIII. DE LA SECRETARÍA DE TURISMO
 
@@ -15953,6 +16197,22 @@ SEXTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en 
 G.O. 14 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Los asuntos e instrumentos jurídicos que, con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas que se cancelan o se modifican, serán atendidos y resueltos por aquellas que las sustituyan o asuman las atribuciones que se transfieren en virtud del mismo, en el ámbito de su respectiva competencia. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de las unidades administrativas que se cancelan o se modifican por virtud de este Decreto, se entenderán referidas a aquellas que asuman tales funciones o atribuciones.
+
+CUARTO.- Las referencias hechas en este Reglamento, así como, de manera enunciativa más no limitativa en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones normativas, así como en contratos o convenios, a las Unidades Administrativas que mediante el presente Decreto se cancelan o cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+QUINTO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
+
+SEXTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
