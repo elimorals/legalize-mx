@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-nuevo-laredo-tamaulipas-176956
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-28"
-last_updated: "2025-01-17"
+last_updated: "2025-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE NUEVO LAREDO, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 17 DE ENERO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NO. 66-217 PUBLICADO EN EL P.O. DEL 28 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Ley publicada en el Extraordinario Número 45 del Periódico Oficial del Estado de Tamaulipas, el sábado 28 de diciembre de 2024.
 
@@ -43,31 +41,33 @@ inciso
 
 […]
 
-XII Por licencia de construcción
+XII. (DEROGADA, P.O. 30 DE ABRIL DE 2025)
 
-de ductos subterráneos y
+[…]
 
-aéreos (gas natural, cable
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
 
-para televisión, electrificación
+XLII Por licencia de construcción
 
-y demás empresas privadas
+de ductos subterráneos y aéreos
 
-que requieren ocupar territorio
+(cable para televisión, electrificación
 
-municipal para brindar sus
+y demás empresas privadas que
 
-servicios); o sustitución de
+requieren ocupar territorio municipal
 
-cable de cobre por cable de
+para brindar sus servicios); sustitución
 
-fibra óptica en líneas ya
+de cable de cobre por cable de fibra
 
-existentes.
+óptica en líneas ya existentes o
 
-a Aéreo 0.60 UMA
+instalación en líneas nuevas:
 
-por metro lineal.
+a Aéreo 0.60 UMA por
+
+metro lineal.
 
 b Subterráneo 0.30 UMA por
 
@@ -75,14 +75,16 @@ metro lineal.
 
 c Sustitución de cable de cobre 0.12 de UMA
 
-por cable de fibra óptica en por metro
+por cable de fibra óptica en por metro lineal.
 
-líneas ya existentes. lineal.
+líneas ya existentes
 
-d Permiso de instalación 4.80 UMAS
+o instalaciones
 
-de postes, cualquier medida,
+en líneas nuevas
 
-por unidad,
+d Permiso de instalación 4.80 UMA
 
-[…]
+de postes, cualquier
+
+medida, por unidad,
