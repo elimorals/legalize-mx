@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-municipio-de-tampico-tamaulipas-para-el-177
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-28"
-last_updated: "2024-12-28"
+last_updated: "2025-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE INGRESOS DEL MUNICIPIO DE TAMPICO, TAMAULIPAS, PARA EL EJERCICIO FISCAL DEL AÑO 2025.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
 
 Ley publicada en el Número 45 Extraordinario del Periódico Oficial del Estado de Tamaulipas, el sábado 28 de diciembre de 2024.
 
@@ -39,23 +39,7 @@ CONCEPTO TARIFA
 
 [I a IX…]
 
-X. Por licencia de construcción de ductos
-
-subterráneos y aéreos (gas natural, cable
-
-para televisión y demás empresas privadas
-
-que requieren ocupar territorio
-
-para brindar sus servicios)
-
-a) Aéreo. 25% de una UMA por
-
-metro lineal
-
-b) Subterráneo. 50% de una UMA por
-
-metro lineal
+X. (DEROGADA, P.O. 30 DE ABRIL DE 2025)
 
 [XI a XXXIII…]
 
@@ -81,6 +65,6 @@ Cuota mínima 10 UMAS
 
 3.- Transmisión de señales de televisión por cable. $1.00
 
-4.- Distribución de gas, gasolina y similares. $1.00
+4.- (DEROGADO, P.O. 30 DE ABRIL DE 2025)
 
 […]
