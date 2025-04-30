@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2024-07-11"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2025.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -329,9 +329,11 @@ Los testigos que intervengan en las actas del Registro Civil deberán ser mayore
 
 La alteración de actas hecha por el Oficial o funcionario del Registro Civil, la falsificación o la inserción de circunstancias o declaraciones falsas, así como la superposición de hojas, la destrucción de las mismas o su desaparición, será causa de destitución del Oficial o del funcionario del Registro Civil que las realice o permita, sin perjuicio de la aplicación de las penas previstas para el delito correspondiente y de la obligación de indemnizar los daños y perjuicios al afectado.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 50.
 
-Los vicios y defectos de las actas, sujetan al Oficial del Registro Civil a hacer las correcciones que señale el reglamento respectivo, pero cuando sean substanciales producirán la nulidad del acto.
+Los vicios y defectos de las actas, sujetan al Oficial del Registro Civil a hacer las aclaraciones y rectificaciones que señale este Código, pero cuando sean substanciales producirán la nulidad del acto y se tramitaran en los términos que disponga el Código de Procedimientos Civiles para el Estado de Baja California Sur.
 
 ###### Artículo 51.
 
@@ -851,9 +853,15 @@ Cuando se recobre la patria potestad, la capacidad para administrar bienes, se r
 
 ### CAPÍTULO X. De la nulidad, rectificación, modificación y reposición de las actas del Registro Civil
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 140.
 
-La nulidad o modificación substancial de un acta del Registro Civil, así como su reposición cuando no existan ejemplares auténticos, no puede decretarse sino mediante sentencia judicial debidamente ejecutoriada, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo.
+La nulidad o modificación substancial, de un acta del Registro Civil, así como su reposición cuando no existan datos de registro en los libros o en los apéndices documentales correspondientes, no podrá decretarse sino mediante sentencia judicial debidamente ejecutoriada, salvo el reconocimiento que voluntariamente haga un progenitor de su hijo.
+
+Para efectos del párrafo anterior se entenderá por modificación substancial, a aquella que implique una modificación esencial, fundamental, trascendente, importante, o medular del contenido del acta.
+
+La reposición, aclaración y rectificación de las actas del registro civil se iniciara a través de una solicitud administrativa presentada ante las oficinas del Registro Civil.
 
 ###### Artículo 141.
 
@@ -871,29 +879,69 @@ IV.- Cuando se hayan violado las formalidades esenciales que condicionan el leva
 
 La declaración de nulidad de un acta será anotada al margen de la misma por el Oficial del Registro Civil, señalando la fecha de la resolución, el número de expediente y la autoridad judicial que resolvió la causa.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 143.
 
-Para que proceda la reposición de actas ante la autoridad judicial, es necesario que no exista en los archivos, ninguno de los ejemplares originales.
+Para que proceda la reposición de actas ante la autoridad judicial, es necesario que no exista en los archivos, ninguno de los ejemplares originales o datos de registro en los libros o en los apéndices documentales correspondientes.
 
-> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
 
 ###### Artículo 144.
 
-Cuando el error que contenga el acta sea sólo mecanográfico, ortográfico o de otra índole que no afecte los datos esenciales de aquélla, sólo se aclarará y su trámite se hará ante la Dirección Estatal del Registro Civil, o ante la Dirección del Registro Civil del Ayuntamiento que corresponda, conforme a las disposiciones del reglamento correspondiente.
+Las actas del registro civil celebradas en el Estado de Baja California Sur, podrán aclararse o rectificarse, y su trámite se hará ante la Dirección General del Registro Civil conforme a las disposiciones de este Código.
 
-Las Direcciones del Registro Civil de los Ayuntamientos, deberán de hacer de conocimiento en un plazo no mayor a cinco días hábiles siguientes a la conclusión del procedimiento de aclaración de actos registrales, de la aclaración que se hubiere realizado, a la Dirección Estatal del Registro Civil, acompañando al oficio de conocimiento, copia certificada del expediente que se hubiere formado con razón del trámite.
+A. El procedimiento de aclaración administrativa de actos registrales, procederá cuando:
 
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
+I.- Nombre o nombres del Registrado: Cuando se incurra en errores manifiestos, escritos en forma abreviada, errores mecanográficos u ortográficos.
 
-Artículo 144 BIS.- Los casos en que se realizara, el procedimiento de aclaración de actos registrales, serán los siguientes:
+II.- Apellidos del Registrado: Para que los apellidos de la persona inscrita se encuentren igualmente redactados con aquellos de sus padres;
 
-I.- Nombre o nombres del Registrado: Cuando se incurra en errores manifiestos, escritos en forma abreviada, errores mecanográficos u ortográficos;
+III.- Fecha de Nacimiento: se llevara a cabo conforme a los datos consignados en el comprobante de nacimiento original;
 
-II.- Apellidos del Registrado: Para que los apellidos del inscrito se encuentren igualmente redactados con aquellos de sus padres;
+IV.- Sexo del Registrado: De acuerdo a lo señalado en el comprobante de nacimiento original o en el caso de disconformidad de los registros que lleva este servicio.
 
-III.- Fecha de Nacimiento: Se rectificara conforme a los datos consignados en el comprobante de nacimiento original;
+B. La rectificación administrativa de (sic) acto registral procederá cuando:
 
-IV.- Sexo del Registrado: De acuerdo a lo señalado en el comprobante de nacimiento original o en el caso de disconformidad de los registros que lleva este Servicio.
+I. Se pretenda modificar el nombre de la persona en su acta de nacimiento, cuando la persona interesada demuestre que ha usado invariable y constantemente otro diverso en su vida social y jurídica al que aparece en su registro de nacimiento;
+
+II.- Se trate de complementar uno de los nombres de los padres en el registro de nacimiento de la persona de que se trate.
+
+III.- Se pretenda complementar el nombre de los contrayentes en el acta de matrimonio, cuando se solicite por ambos cónyuges.
+
+IV.- Exista discrepancia con los nombres asentados en el acta de registro, cuando aparezca un nombre distinto al margen que el que aparece en el cuerpo del acta.
+
+V.- Uno o ambos de los padres hayan rectificado sus actas respectivas, y los datos modificados tengan relación directa con las actas de los hijos.
+
+VI.- Se pretenda modificar el estado civil asentado en un acta de defunción siempre que se demuestre el vínculo con el acta de matrimonio o certificado de inexistencia de matrimonio o acta de defunción del conyuge o su equivalente.
+
+El trámite se iniciará (sic) la persona interesada ante la Dirección General del Registro Civil, en la capital del Estado, o ante el Oficial del Registro Civil de su domicilio, quien integrará el expediente y lo remitirá a la Dirección General del Registro Civil en un plazo no mayor de tres días hábiles.
+
+La Dirección General del Registro Civil una vez recibida la solicitud de aclaración o rectificación, deberá resolver en un plazo de quince días hábiles contados a partir de la recepción de la misma.
+
+En el procedimiento administrativo de aclaración y rectificación de actas del Registro Civil, en el apéndice documental del acta correspondiente, bastará con que se integre la solicitud donde el compareciente acredite su personalidad, los documentos en que funde la procedencia de la rectificación cuando no puedan advertirse de los propios registros, la resolución, y copia del acta con la anotación marginal.
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
+
+###### Artículo 144 Bis.
+
+El interesado en la aclaración y rectificación de un acta del Registro Civil deberá presentar ante la Dirección Estatal del Registro Civil o ante el Oficial del Registro Civil de su domicilio, solicitud por escrito que contendrá:
+
+I.- Nombre, domicilio y generales del interesado;
+
+II.- Los datos del acta de cuya rectificación, aclaración o modificación se trate, y
+
+III.- Los motivos por los que debe rectificarse, aclararse o modificarse el acta respectiva en razón de los datos que ésta contenga o los documentos que se exhiban.
+
+A la solicitud deberá acompañarse copia certificada del acta que debe ser rectificada, copia certificada de las actas relacionadas con aquélla cuya rectificación se solicite y de cualquier otro documento que justifique la rectificación.
+
+Cuando la aclaración, rectificación o modificación se tramite a través del Oficial del Registro Civil, este remitirá dentro de los tres días hábiles siguientes a los de su recepción, el original de la solicitud y los documentos anexos a la Dirección General del Registro Civil, para que dicte resolución fundada y motivada declarando si procede o no la rectificación.
+
+La aclaración, rectificación o modificación decretada en la vía administrativa, es oponible a terceros, quienes podrán hacer valer sus derechos en la vía y forma que corresponda.
+
+La Dirección General deberá dictar sus resoluciones en un plazo máximo de quince días hábiles, la cual deberá notificarse a los interesados en los términos y plazos que se establezcan en el reglamento respectivo.
+
+Al Procedimiento administrativo ante el Registro Civil, serán aplicables supletoriamente las normas procesales civiles y familiares vigentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JULIO DE 2024)</small>
 
@@ -981,25 +1029,25 @@ II. El cambio de nombre y género, no libera ni exime de las obligaciones o resp
 
 III. Los trámites relacionados con el proceso registral deben tender a ser lo menos gravosos posibles, sobre todo si el solicitante se encuentra en situación de pobreza y/o vulnerabilidad.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
 
 ###### Artículo 145.
 
-La modificación del contenido de un acta del Registro Civil, deberá realizarse ante la autoridad judicial, cuando implique:
+La modificación del contenido de un acta del Registro Civil, deberá realizarse ante la autoridad judicial, cuando:
 
-I. Una modificación del estado civil de las personas;
+I.- Afecte a terceros que no participaron en su levantamiento;
 
-II. Afecte a terceros que no participaron en su levantamiento;
+II.- Cuando se trate de modificar las causas de muerte en un registro de defunción cuando se asentaron otras diversas en el certificado médico.
 
-III. La modificación o cambio del nombre propio o apellidos, para adecuarla a la realidad social, cuando el interesado demuestre que ha usado invariable y constantemente otro diverso en su vida social y jurídica al que aparece en su acta de nacimiento;
+III. Cuando la fecha de nacimiento sea posterior a la fecha de registro, salvo en los casos de campañas especiales de registros extemporáneos.
 
-(NOTA: EL 20 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 114/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IV.- En caso de homonimia, si le causa perjuicio moral o económico, podrá pedirse, se autorice transformar el primero de los apellidos de simple ha compuesto o de compuesto a simple.
 
-IV. EL CAMBIO DEL NOMBRE PROPIO, POR EL QUE TENGA REGISTRADO LE CAUSE AFRENTA, SEA INFAMANTE O LO EXPONGA AL RIDÍCULO; Y
+V. Cuando el interesado no acredite con documentación suficiente su pretensión.
 
-V. En caso de homonimia si le causa perjuicio moral o económico, podrá pedirse, se autorice transformar el primero de los apellidos de simple ha compuesto o de compuesto a simple.
+Cuando no se actualice alguna de las hipótesis contenidas en las fracciones anteriores, se procederá de conformidad a lo establecido en el artículo 144 en la vía administrativa.
 
-La modificación del acta que implique el cambio o modificación de nombre o apellidos de una persona, no a (sic) privan de sus derechos, no modifican ni se extinguen obligaciones; incluidos las provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados salvo en los casos de modificación de actas del registro civil derivadas de juicios de contradicción o investigación de paternidad.
+La modificación del acta que implique el cambio o modificación de nombre o apellidos de una persona, no la privan de sus derechos, no modifica ni extingue obligaciones; incluidos (sic) las provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, salvo en los casos de modificación de actas del registro civil derivadas de juicios de contradicción o investigación de paternidad.
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
 
@@ -1017,9 +1065,11 @@ Pueden pedir la modificación de un acta, su nulidad o reposición, las personas
 
 Tratándose de actas relativas a menores o incapacitados, podrán pedir la modificación quienes ejerzan la patria potestad o el tutor.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 148.
 
-El juicio de nulidad, reposición, rectificación o modificación de actas, se seguirá en la forma que establezca el Código de Procedimientos Civiles.
+El juicio de nulidad de las actas del registro civil será administrativo solo en el caso de duplicidad de actas, en todos los demás casos se seguirá en la forma que establezca el Código de Procedimientos Civiles.
 
 ###### Artículo 149.
 
@@ -16358,3 +16408,11 @@ TERCERO. El Consejo Estatal de Adopciones y Familias de Acogimiento, debe expedi
 CUARTO. Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur.
 
 QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3143 SE REFORMAN LOS ARTÍCULOS (SIC) 50, SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 140, Y SE REFORMAN LOS ARTÍCULOS 143, 144, 144 BIS Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24 Y SE REFORMA EL ARTÍCULO 697 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el cual entrara en vigor al día siguiente de su publicación.
+
+SEGUNDO.- la Dirección General del registro Civil deberá armonizar su reglamento y demás disposiciones legales aplicables a lo establecido en el presente decreto.
