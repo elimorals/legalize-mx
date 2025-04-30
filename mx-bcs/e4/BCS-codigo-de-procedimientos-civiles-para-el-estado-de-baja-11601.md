@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2022-03-20"
+last_updated: "2025-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2025.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -163,9 +163,11 @@ El demandado que pida sea llamado el tercero, deberá proporcionar el domicilio 
 
 El tercero que, aduciendo un derecho propio, intente excluir los derechos del actor y del demandado o los del primero solamente, tiene la facultad de concurrir al proceso aun cuando ya esté dictada sentencia ejecutoria.
 
-###### Artículo 24.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2025)</small>
 
-Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de las acciones del estado civil perjudican aún a los que no litigaron.
+###### ARTÍCULO 24.
+
+Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, emancipación, tutela, adopción, divorcio y ausencia, o atacar el contenido de las constancias del registro civil para que se anulen o repongan las actas del estado civil cuando no existan ejemplares originales o datos de registro en los libros o en los apéndices documentales correspondientes. Las decisiones judiciales recaídas en el ejercicio de las acciones del estado civil perjudican aún a los que no litigaron.
 
 Las acciones del estado civil fundadas en la posesión de estado producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -4841,9 +4843,11 @@ Las apelaciones de interlocutorias o autos se substanciarán con sólo un escrit
 
 En estas apelaciones los términos a que se refiere el artículo 687 se reducirán a tres días.
 
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2025)</small>
+
 ###### Artículo 697.
 
-La revisión de las sentencias recaídas en los juicios sobre nulidad, rectificación o modificación, y reposición de actas del estado civil; sobre nulidad de matrimonio por las causas expresadas en los artículos 244, 245 y 249 a 252 del Código Civil, y de las resoluciones que ordenen el registro de nacimiento, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
+La revisión de las sentencias recaídas en los juicios sobre nulidad o la reposición de las actas del estado civil cuando no existen ejemplares originales o datos de registro en los libros o en los apéndices documentales correspondientes de actas del estado civil: sobre nulidad de matrimonio por las causas expresadas en los artículos 244, 245 y 249 a 252 del Código Civil, y de las resoluciones que ordenen el registro de nacimiento, abre de oficio la segunda instancia, con intervención del ministerio público y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 
 ### CAPITULO II. De la apelación extraordinaria
 
@@ -6984,3 +6988,11 @@ B.O. 20 DE MARZO DE 2022.
 PRIMERO. El presente decreto entrara en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 30 DE ABRIL DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3143 SE REFORMAN LOS ARTÍCULOS 50, SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 140, Y SE REFORMAN LOS ARTÍCULOS 143, 144, 144 BIS Y 148 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 24 Y SE REFORMA EL ARTÍCULO 697 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- Publíquese el presente decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el cual entrara en vigor al día siguiente de su publicación.
+
+SEGUNDO.- la Dirección General del registro Civil deberá armonizar su reglamento y demás disposiciones legales aplicables a lo establecido en el presente decreto.
