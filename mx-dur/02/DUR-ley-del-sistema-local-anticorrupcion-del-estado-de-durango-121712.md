@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-sistema-local-anticorrupcion-del-estado-de-durango-1217
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2023-06-18"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
 
 Ley publicada en el No. 42 del Periódico Oficial del Gobierno del Estado de Durango, el jueves 25 de mayo de 2017.
 
@@ -145,9 +145,11 @@ III. Los órganos de Control Interno de los Municipios, quienes concurrirán a t
 
 El Consejo Coordinador es la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema Local y de éste con el Sistema Nacional Anticorrupción, y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas estatales de prevención y combate a la corrupción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2025)</small>
+
 ###### Artículo 9.
 
-El Consejo Coordinador tendrá las siguientes facultades:
+El Consejo Coordinador tendrá las siguientes facultades
 
 I. La elaboración de su programa de trabajo anual;
 
@@ -175,7 +177,9 @@ XII. Verificar que la integración a la Plataforma Nacional Digital se siga en l
 
 XIII. Celebrar convenios de coordinación, colaboración y concertación necesarios para el cumplimiento de los fines del Sistema Local en apego a la normatividad que regula el Sistema Nacional;
 
-XIV. Promover el establecimiento de lineamientos y convenios de cooperación entre las autoridades financieras y fiscales para facilitar a los Órganos internos de control y a la Entidad de Auditoría Superior del Estado, la consulta expedita y oportuna a la información que resguardan relacionada con la investigación de faltas administrativas y hechos de corrupción en los que estén involucrados flujos de recursos económicos;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
+
+XIV. Promover el establecimiento de lineamientos y convenios de cooperación entre las autoridades financieras y fiscales para facilitar a los Órganos internos de control y a la Auditoría Superior del Estado, la consulta expedita y oportuna a la información que resguardan relacionada con la investigación de faltas administrativas y hechos de corrupción en los que estén involucrados flujos de recursos económicos;
 
 XV. Disponer las medidas necesarias para que las autoridades competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, accedan a la información necesaria para el ejercicio de sus atribuciones, contenida en los sistemas que se conecten con la Plataforma Digital;
 
@@ -185,13 +189,17 @@ XVII. Emitir los lineamientos que permitan las denuncias de faltas administrativ
 
 XVIII. Las demás señaladas por esta ley.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 1 DE MAYO DE 2025)</small>
+
 ###### Artículo 10.
 
 Son integrantes del Consejo Coordinador:
 
 I. Un representante del Consejo de Participación Ciudadana, quien lo presidirá;
 
-II. El Titular de la Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
+
+II. El Titular de la Auditoría Superior del Estado;
 
 III. El Titular de la Fiscalía Especializada en Combate a la Corrupción,
 
@@ -429,9 +437,11 @@ II. Los recursos que le sean asignados anualmente dentro del Presupuesto de Egre
 
 III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro título. Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado y el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2025)</small>
+
 ###### Artículo 27.
 
-La Secretaría Ejecutiva será auditada por la Entidad de Auditoria Superior del Estado, exclusivamente respecto a las siguientes materias:
+La Secretaria Ejecutiva será auditada por la Auditoría Superior del Estado, exclusivamente respecto a las siguientes materias:
 
 I. Presupuesto;
 
@@ -441,7 +451,9 @@ III.- Conservación, uso, destino, afectación, enajenación y baja de bienes mu
 
 IV. Responsabilidades administrativas de Servidores públicos; y
 
-V. Transparencia y acceso a la información pública, conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado. La Entidad de Auditoria Superior del Estado no podrá realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
+
+V. Transparencia y acceso a la información pública, conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado. La Auditoría Superior del Estado no podrá realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
 ###### Artículo 28.
 
@@ -553,7 +565,9 @@ El Sistema Local de Fiscalización tiene por objeto establecer acciones y mecani
 
 Son integrantes del Sistema Local de Fiscalización:
 
-I. La Entidad de Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
+
+I. La Auditoría Superior del Estado;
 
 II. La Secretaría de Contraloría del Estado, y
 
@@ -567,9 +581,11 @@ I. Crear un sistema electrónico en términos del Título Cuarto de la presente 
 
 II. Informar al Consejo Coordinador sobre los avances en la fiscalización de recursos locales y municipales. Todos los Entes públicos fiscalizadores y fiscalizados deberán apoyar en todo momento al Sistema Local de Fiscalización para la implementación de mejoras para la fiscalización de los recursos locales y municipales.
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2025)</small>
+
 ###### Artículo 38.
 
-El Sistema Local de Fiscalización contará con un Comité Rector conformado por la Entidad de Auditoría Superior del Estado, la Secretaría de Contraloría del Estado y siete miembros rotatorios de los órganos encargados del control interno en los municipios, que serán elegidos por periodos de dos años, por insaculación. El Comité Rector será presidido de manera dual por el Auditor Superior del Estado y el titular de la Secretaría de Contraloría del Estado, o por los representantes que de manera respectiva designen para estos efectos.
+El Sistema Local de Fiscalización contará con un Comité Rector conformado por la Auditoría Superior del Estado, la Secretaría de Contraloría del Estado y siete miembros rotatorios de los órganos encargados del control interno en los municipios, que serán elegidos por periodos de dos años, por insaculación. El Comité Rector será presidido de manera dual por el Auditor Superior del Estado y el titular de la Secretaría de Contraloría del Estado, o por los representantes que de manera respectiva designen para estos efectos.
 
 ###### Artículo 39.
 
@@ -659,9 +675,15 @@ En el procedimiento al que alude el párrafo I anterior, se estará a lo dispues
 
 ### Capítulo Único. De las recomendaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2025)</small>
+
 ###### Artículo 49.
 
-El Secretario Técnico solicitará a los miembros del Consejo Coordinador toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir el Consejo Coordinador, incluidos los proyectos de recomendaciones. Asimismo, solicitará a la Entidad de Auditoria Superior del Estado y los Órganos internos de control de los Entes públicos que presenten un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+El Secretario Técnico solicitará a los miembros del Consejo Coordinador toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir el Consejo Coordinador, incluidos los proyectos de recomendaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MAYO DE 2025)</small>
+
+Asimismo, solicitará a la Auditoría Superior del Estado y los Órganos internos de control de los Entes públicos que presenten un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
 
 Los informes serán integrados al informe anual del Consejo Coordinador como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante el Consejo Coordinador. El informe anual a que se refiere el párrafo anterior deberá ser aprobado como máximo treinta días previos a que culmine el periodo anual de la presidencia.
 
@@ -804,3 +826,11 @@ P.O. 18 DE JUNIO DE 2023.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 161 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
