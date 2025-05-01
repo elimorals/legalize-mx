@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-106258"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-28"
-last_updated: "2024-03-17"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 28 de diciembre de 2014.
 
@@ -399,7 +399,11 @@ V. Promover la participación de la sociedad en el análisis y solución de la p
 
 VI. Impulsar la profesionalización y acreditación de los integrantes de los cuerpos de seguridad pública; y
 
-VII. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2025)</small>
+
+VII. En el ámbito de su competencia, emitir la reglamentación necesaria para prohibir la comercialización de replicas, juguetes y accesorios que tengan características similares a cualquier arma de fuego real en su forma, dimensiones, recubrimientos, textura y colores, y que no cumplan con las Normas Oficiales Mexicanas en la materia; así como para establecer las sanciones administrativas aplicables a la violación de la prohibición y medidas de incautación; y
+
+VIII. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 ###### ARTÍCULO 34.
 
@@ -448,6 +452,10 @@ XIX. Auxiliar a la población de su circunscripción territorial en caso de acci
 XX. Auxiliar a las autoridades estatales de protección civil y ejercer las funciones que le corresponden, en el ámbito de su competencia, en caso de accidentes y siniestros;
 
 XXI. Participar en las conferencias nacionales de Seguridad Pública Municipal en caso de ser designados por el Consejo de Seguridad Pública Estatal; y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2025)</small>
+
+XXI (SIC). En el ámbito de su jurisdicción, emitir a la población los comunicados pertinentes sobre la regulación y uso de los juguetes y réplicas de armas de fuego; y
 
 XXII. Las demás que les señalen las disposiciones jurídicas y reglamentarias aplicables.
 
@@ -735,7 +743,11 @@ XVIII. El tratamiento técnico de los asuntos delictivos, frente a la investigac
 
 XIX. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos, cuando dichas actividades se realicen en lugares públicos y actuarán conforme a sus atribuciones, en términos de lo dispuesto por los artículos 475 y 476 de la Ley General de Salud; y
 
-XX. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2025)</small>
+
+XX. Fomentar la proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la cooperación con otros actores sociales, bajo la comunicación y colaboración interna e interinstitucional que fortalezca la gobernabilidad local y promueva la mediación, como procedimiento voluntario para solucionar pacíficamente conflictos derivados de molestias y problemáticas de la convivencia comunitaria que no constituyan delitos; y
+
+XXI. Las demás que le señalen las disposiciones jurídicas y reglamentarias aplicables.
 
 ###### ARTÍCULO 55.
 
@@ -1267,7 +1279,9 @@ Los fines de la Carrera Policial son:
 
 I. Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Instituciones Policiales;
 
-II. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
+
+II. Promover la proximidad social, la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
 
 III. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
 
@@ -2662,3 +2676,19 @@ SEGUNDO. En el caso de las integrantes de la institución de seguridad pública 
 TERCERO. En el plazo no mayor de 180 días a partir de la entrada en vigor del presente Decreto, las autoridades estatales y municipales deberán adecuar las disposiciones reglamentarias correspondientes para dar cumplimiento a las obligaciones previstas en el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 155 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO, EN MATERIA DE PROXIMIDAD SOCIAL DE LAS POLICÍAS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 156 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
