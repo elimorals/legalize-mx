@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-fiscalia-general-del-estado-de-durango-68339
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-02-26"
-last_updated: "2023-06-18"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de febrero de 2009.
 
@@ -1129,6 +1129,8 @@ Para la imposición de las sanciones a que se refiere el presente artículo, se 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE MAYO DE 2025)</small>
+
 ###### Artículo 53.
 
 Se constituye el patrimonio social denominado Fondo Auxiliar para la Procuración de Justicia, el cual será administrado y vigilado por un Comité Administrador integrado de la siguiente forma:
@@ -1169,9 +1171,9 @@ Primera.- Invertirá las cantidades que integran el fondo en la adquisición de 
 
 Segunda.- En el informe que rinda el Fiscal General comunicará el resultado de los ingresos y rendimientos de las inversiones, así como de las erogaciones efectuadas, y,
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
 
-Tercera.- La Entidad de Auditoria Superior del Estado, practicará las auditorías internas o podrá ordenar auditorías externas que considere necesarias para verificar que el manejo del fondo se haga en forma conveniente, honesta y transparente.
+Tercera.- La Auditoría Superior del Estado, practicará las auditorías internas o podrá ordenar auditorías externas que considere necesarias para verificar que el manejo del fondo se haga en forma conveniente, honesta y transparente.
 
 ###### Artículo 54.
 
@@ -1442,3 +1444,11 @@ P.O. 18 DE JUNIO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 159 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
