@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2024-03-24"
+last_updated: "2025-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -3053,6 +3053,12 @@ El monto de la reparación del daño será, por lo menos, igual a la desproporci
 
 La sanción privativa de la libertad se reducirá en una tercera parte sí, antes de que se dicte sentencia ejecutoriada, se devolviere a la víctima la cantidad lucrada ilícitamente con el pago de los intereses legales correspondientes.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2025)</small>
+
+###### Artículo 218 Bis.
+
+Se equipara al delito de usura, y se sancionará con la pena establecida en el artículo 217 Bis a la persona intermediaria que con el ánimo de obtener un lucro indebido, y aprovechándose del estado de necesidad económica de la persona, compre productos frutícolas, agrícolas y/o florícolas a un menor precio del establecido por los productores, con la finalidad de revenderlos a un precio mayor.
+
 ### CAPÍTULO VIII BIS. DELITOS CONTRA LA ECONOMÍA PECUARIA
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
@@ -3078,6 +3084,10 @@ I. Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pert
 II. Ocupe un inmueble de su propiedad, en los casos que la ley no le permita por hallarse en poder de otras personas o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y,
 
 III. Al que en términos de las fracciones anteriores, distraiga sin derecho el curso de las aguas.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2025)</small>
+
+Cuando la o las víctimas del delito fueran adultos mayores, la pena descrita en el primer párrafo de este artículo se incrementará hasta en dos tercios de la pena que corresponda.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2017)</small>
 
@@ -7050,6 +7060,22 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en 
 P.O. 24 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 560 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 334, 334 BIS Y 335 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DELITO DE CORRUPCIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 157 QUE CONTIENE REFORMA A LAS FRACCIONES V Y VI DEL ARTICULO 218 DEL CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 158 QUE CONTIENE REFORMA AL ARTÍCULO 220, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE DESPOJO CONTRA ADULTOS MAYORES”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
