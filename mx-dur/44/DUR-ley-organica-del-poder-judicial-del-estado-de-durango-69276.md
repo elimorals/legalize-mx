@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2024-11-28"
+last_updated: "2025-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -315,7 +315,9 @@ XXXII. Determinar los mecanismos para la supervisión e inspección del funciona
 
 XXXIII. Hacer del conocimiento del Procurador General de Justicia los hechos que puedan ser constitutivos de delitos atribuidos a los servidores públicos de la administración de justicia;
 
-XXXIV. Atender las observaciones y recomendaciones que le formule la Entidad de Auditoría Superior del Estado, respecto del ejercicio de su presupuesto, en los términos que establezca la ley;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2025)</small>
+
+XXXIV. Atender las observaciones y recomendaciones que le formule la Auditoría Superior del Estado, respecto del ejercicio de su presupuesto, en los términos que establezca la ley;
 
 XXXV. Resolver, de oficio o por denuncia, las contradicciones entre precedentes obligatorios emitidos por las salas;
 
@@ -3724,6 +3726,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se
 P.O. 28 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 059 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, EN MATERIA DEL REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 160 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
