@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2024-06-28"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -337,25 +337,29 @@ VII. Violencia vicaria: Acción u omisión cometida por aquel con quien una muje
 
 VIII. Violencia Ácida: Se refiere al uso de cualquier tipo de agente o sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas, medicamentos, drogas, gases o cualquier otra sustancia que provoque lesiones, que causen daño físico irreversible a una mujer o que le cause alguna discapacidad.
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2025)</small>
 
-IX. Violencia digital, es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+IX. Violencia simbólica: es la que se ejerce a través de patrones estereotipados, mensajes, valores, íconos o signos que transmiten y reproducen dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
+
+X. Violencia digital: es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 
 Entre otras, se puede manifestar mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, ya sean propias o de otra persona que cause daño o perjuicio y que atente contra la integridad, la dignidad, la libertad o la vida privada de las mujeres.
 
-Para efectos de la presente fracción se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+Para efectos de la presente fracción se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
 
-IX (SIC). Violencia mediática, se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
+XI. Violencia mediática: se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
 
-X. Violencia reproductiva: son todas las acciones u omisiones que limitan o vulneran el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de las hijas e hijos, acceso a métodos anticonceptivos de su elección y acceso a una maternidad elegida y segura; y
+XII. Violencia reproductiva: son todas las acciones u omisiones que limitan o vulneran el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de las hijas e hijos, acceso a métodos anticonceptivos de su elección y acceso a una maternidad elegida y segura;
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE MAYO DE 2025)</small>
 
-XI. Violencia política: La violencia contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular, menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+XIII. Violencia política: la violencia contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular, menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
@@ -409,9 +413,9 @@ v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de daña
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MAYO DE 2025)</small>
 
-XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -1816,3 +1820,13 @@ PRIMERO. - El presente Decreto surtirá sus efectos a partir de la fecha de su p
 SEGUNDO. - Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
 
 TERCERO. - Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231, POR EL QUE SE REFORMAN LAS FRACCIONES IX, X, XI Y XII, Y SE ADICIONAN LAS FRACCIONES XIII Y XIV, DEL ARTÍCULO 9 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno de Estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+TERCERO. Publíquese en la Gaceta Parlamentaria, en el Portal Web de este H. Congreso del Estado de Guerrero, en las redes sociales de internet y difúndase a través de los medios de comunicación para su conocimiento general.
