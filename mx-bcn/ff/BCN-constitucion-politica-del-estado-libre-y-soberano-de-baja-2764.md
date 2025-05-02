@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2024-12-31"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -2531,15 +2531,17 @@ El Fiscal General del Estado, en términos de las disposiciones legales aplicabl
 
 Al frente de la Fiscalía General del Estado estará un Fiscal General, que durará en su cargo seis años.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE MAYO DE 2025)</small>
+
 Para ocupar el cargo de Fiscal General del Estado, se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos civiles;
 
 II.- Tener cuando menos treinta y cinco años de edad al día de la designación;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
 
-III.- Haber realizado por lo menos durante cinco años anteriores a su designación una actividad profesional comprobable relacionada con la investigación de los delitos y el esclarecimiento de los hechos, en la procuración de justicia, combate de la delincuencia y prevención del delito; así como contar con título profesional de Licenciado en Derecho o Abogado.
+III.- Contar con título profesional de Licenciatura en Derecho o Abogacía y haber realizado por lo menos durante cinco años anteriores a su designación una actividad profesional comprobable relacionada con la investigación de los delitos, el esclarecimiento de los hechos, la procuración de justicia, el combate de la delincuencia o la prevención del delito; tratándose de las personas titulares de la Fiscalía Especializada en Combate a la Corrupción y de la Fiscalía Especializada para la Atención de Delitos Electorales bastará con que dicha actividad esté relacionada con la materia de responsabilidades administrativas o combate a la corrupción, y con la materia electoral, respectivamente.
 
 IV.- No estar sujeto o vinculado a proceso penal o haber sido condenado por delito doloso;
 
@@ -2560,6 +2562,8 @@ Contra la resolución del Congreso del Estado no se admitirá recurso alguno.
 El Fiscal General del Estado no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
 El Fiscal General del Estado presentará anualmente al Poder Legislativo y Ejecutivo del Estado un informe de actividades. Asimismo, comparecerá ante el Pleno del Congreso del Estado cuando éste se lo solicite para rendir cuentas o a informar sobre su gestión.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE MAYO DE 2025)</small>
 
 El Fiscal General del Estado será designado con base al procedimiento siguiente:
 
@@ -5896,3 +5900,13 @@ DÉCIMO QUINTO.- Dentro de los noventa días naturales siguientes a la entrada e
 DÉCIMO SEXTO.- El Consejo General del Instituto Estatal Electoral, estará facultado para emitir los acuerdos necesarios para la organización, desarrollo, cómputos Distritales, vigilancia y fiscalización en la campaña y jornada electoral del Proceso Electoral extraordinario del año 2025, y garantizará el cumplimiento de las disposiciones constitucionales y legales.
 
 DÉCIMO SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 90 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Aprobadas las presentes reformas por el Pleno del Congreso del Estado, túrnese a los Ayuntamientos del Estado de Baja California para el proceso legislativo previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo a que se refiere el transitorio anterior, y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
