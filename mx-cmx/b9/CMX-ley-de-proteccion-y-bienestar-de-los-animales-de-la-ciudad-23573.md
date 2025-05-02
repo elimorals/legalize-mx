@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2025-03-25"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MAYO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -232,6 +232,10 @@ VI Bis 2. Animal de compañía: Aquel que convive con los seres humanos, vive ba
 
 Los animales de compañía de especies de fauna silvestre estarán sujetos a lo establecido por la Ley General de Vida Silvestre y por las Normas Oficiales Mexicanas que emita la Secretaría de Medio Ambiente y Recursos Naturales.
 
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
+
+VI BIS 3. Animal comunitario: Perro o gato que vive en el espacio público o áreas comunes dentro de una comunidad determinada, el cual es aceptado, alimentado, supervisado y cuidado por un grupo de personas dentro de la misma comunidad, dentro de sus posibilidades;
+
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 VII. Animal feral: El animal doméstico que al quedar fuera del control del ser humano se establecen en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat;
@@ -303,6 +307,10 @@ XVIII. Bienestar Animal: Estado físico y mental en que el animal vive, es manej
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
 XVIII BIS. Bozal: Estructura de cuero o plástico, tipo cesto utilizado para cubrir el hocico de un animal que le impide morder, pero lo suficientemente abierto para permitirle respirar;
+
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
+
+XVIII BIS 1. Persona benefactora o personas benefactoras: aquellas que, dentro de sus posibilidades, proveen a los animales comunitarios de condiciones adecuadas en términos de nutrición, ambiente, salud, comportamiento y estado mental;
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -575,6 +583,10 @@ V. Participar en las instancias de carácter social y vecinal, que cuiden, asist
 > <small>(ADICIONADA, G.O. 18 DE JUNIO DE 2012)</small>
 
 VI. Cuidar y velar por la observancia y aplicación de la presente Ley.
+
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
+
+VII. En el caso de las personas benefactoras de animales comunitarios, brindarles en la medida de sus posibilidades, las condiciones adecuadas de nutrición, esterilización, ambiente, salud, comportamiento y estado mental y asegurarse de que porten un collar o pechera de identificación con los datos de al menos una persona de la comunidad.
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2023)</small>
 
@@ -1816,6 +1828,10 @@ Artículo 34 Quintus. (DEROGADO, G.O. 27 DE SEPTIEMBRE DE 2024)
 
 Toda persona física o moral que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización correspondiente y a valerse de los procedimientos más adecuados y disponer de todos los medios necesarios, a fin de que los animales reciban un trato digno y respetuoso y mantengan niveles adecuados de bienestar de acuerdo con los adelantos científicos en uso. Además, deberá cumplir con las normas oficiales mexicanas correspondientes. La tutela responsable de cualquier animal obliga a la persona tutora a inmunizarlo contra enfermedades de riesgo zoonótico o epizoótico propias de la especie. Asimismo, deberá tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y malos olores.
 
+> <small>(ADICIONADO, G.O. 2 DE MAYO DE 2025)</small>
+
+Queda prohibido que las escuelas de adiestramiento empleen maltrato animal en los métodos de enseñanza que reciba el animal; los cuales deberán llevarse a cabo mediante mecanismos y/o técnicas adecuadas que garanticen su bienestar.
+
 > <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
 Toda persona física o moral que se dedique al adiestramiento de perros de seguridad y a la prestación de servicios de seguridad que manejen animales, deberá contar con un certificado expedido por la Secretaría de Seguridad Ciudadana de la Ciudad de México en los términos establecidos en el reglamento de la presente Ley.
@@ -2454,6 +2470,10 @@ XI. Coordinarse con la Secretaría de Salud para el impulso y ejecución de camp
 
 XII. Implementar políticas públicas que mejoren las condiciones de protección y cuidado animal en los Centros de Atención Canina y Felina y en las Clínicas Veterinarias en las Demarcaciones Territoriales y análogos;
 
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
+
+XII Bis. Coadyuvar con una política pública que promueva el trato digno y respetuoso a los animales comunitarios y fomentar una cultura de cuidado, esterilización y tutela responsable;
+
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
 XIII. Coordinarse con la Secretaría de Salud y las Alcaldías para el adecuado funcionamiento de los Centros de Atención Canina y Felina y de las Clínicas Veterinarias en las Alcaldías y análogos;
@@ -2951,3 +2971,13 @@ TERCERO. Dentro de los 210 días naturales posteriores a la entrada en vigor del
 CUARTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Congreso de la Ciudad de México realizará la actualización y armonización de la legislación aplicable.
 
 QUINTO. Se derogan todas aquellas disposiciones que contravengan el contenido del presente decreto.
+
+G.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN Y DE BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
