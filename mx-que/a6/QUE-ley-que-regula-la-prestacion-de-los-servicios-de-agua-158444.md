@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-la-prestacion-de-los-servicios-de-agua-158444"
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-21"
-last_updated: "2024-04-09"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "QUE"
 LEY QUE REGULA LA PRESTACIÓN DE LOS SERVICIOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE MAYO DE 2025.]</small>
 
 Ley publicada en el Número 38 del Periódico Oficial del Estado de Querétaro, el sábado 21 de mayo de 2022.
 
@@ -2143,11 +2145,13 @@ b) Ratificación.
 
 Los precios por la prestación de los servicios a que se refiere el presente artículo serán aprobadas por el Consejo Directivo a propuesta del Vocal Ejecutivo, de conformidad con los costos de construcción, operación, administración, mantenimiento, sustitución, conservación, volumen de agua consumido, uso autorizado y, en su caso, el volumen de agua residual descargado conforme al gasto máximo instantáneo o el determinado conforme al medidor volumétrico instalado por el Prestador de los Servicios, mismas que deberán publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
+> <small>(F. DE E., P.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 162.
 
-El precio de conexión para la recepción de los servicios respectivos, sean de agua potable, alcantarillado, saneamiento y disposición de las aguas residuales, incluyendo la recirculación y reutilización de dichas aguas, contempla el costo del material necesario para la instalación de los servicios, mano de obra, corte (sic)
+El precio de conexión para la recepción de los servicios respectivos, sean de agua potable, alcantarillado, saneamiento y disposición de las aguas residuales, incluyendo la recirculación y reutilización de dichas aguas, contempla el costo del material necesario para la instalación de los servicios, mano de obra, corte y reparación del pavimento.
 
-El precio por concepto de uso de infraestructura para la prestación de los servicios a nuevos usuarios estará basado en la determinación y análisis del costo marginal de litro sobre segundo que determine la Comisión conforme a los importes que sean aprobados por el Consejo Directivo, en el cual se considerarán los costos de inversión en infraestructura hidráulica y equipamiento que establezca la propia Comisión.
+Las obras, adecuaciones, equipamiento e instalaciones al interior de los domicilios de los usuarios serán realizados por cargo y cuenta de éstos.
 
 ###### Artículo 163.
 
