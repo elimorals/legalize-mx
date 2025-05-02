@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-servidoras-y-servidores-publicos-de-15572
 country: "mx"
 rank: "codigo"
 publication_date: "2022-02-18"
-last_updated: "2022-02-18"
+last_updated: "2025-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE SERVIDORAS Y SERVIDORES PUBLICOS DE LA SECRETARIA GENERAL DE GOBIERNO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE SERVIDORAS Y SERVIDORES PÚBLICOS DE LA SECRETARÍA GENERAL DE GOBIERNO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025 (ABROGADO).
 
 Código publicado en el Número 26 del Periódico Oficial del Estado de Nuevo León, el viernes 18 de febrero de 2022.
 
@@ -322,3 +324,15 @@ Así lo acuerda y firma a los 14-catorce días del mes de febrero de 2022-dos mi
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. JAVIER LUIS NAVARRO VELASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Acuerdo Administrativo por el que se emite el Código de Conducta de Servidoras y Servidores Públicos de la Secretaría General de Gobierno, publicado en el Periódico Oficial del Estado de fecha 18 de febrero de 2022.
+
+TERCERO.- El presente documento deberá ser difundido en la página oficial de internet, con la finalidad de hacerlo del conocimiento de las personas servidoras públicas de la Secretaría.
