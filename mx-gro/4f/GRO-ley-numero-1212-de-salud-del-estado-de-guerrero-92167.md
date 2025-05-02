@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2024-08-13"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -635,7 +635,9 @@ V. Formular y desarrollar programas municipales de salud en el marco del sistema
 
 VI. Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes;
 
-VII. Promover y vigilar, en su ámbito de competencia, una educación nutrimental para evitar y erradicar la obesidad en su población y en especial, en menores de edad y adolescentes.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
+
+VII. Promover y vigilar, en su ámbito de competencia, una educación nutrimental para evitar y erradicar el sobrepeso y la obesidad en su población y en especial, en menores de edad y adolescentes.
 
 VIII. Hacer uso de sus facultades de autoridad, para sancionar a aquellos establecimientos que se encuentren ubicados en calles adjuntas o aledañas a instituciones educativas, expendan comida no nutritiva conocida como chatarra; debiendo instituir en sus reglamentos de comercio, así como en las autorizaciones o permisos respectivos, los lineamientos establecidos en el inciso c) del artículo 19, fracción II del artículo 79 y 80 de la presente Ley.
 
@@ -1547,7 +1549,9 @@ La Secretaría de Salud tendrá a su cargo:
 
 I. Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
 
-II. Normar, en coordinación con la Secretaría de Educación Guerrero, el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2025)</small>
+
+II. Normar, en coordinación con la Secretaría de Educación Guerrero, el desarrollo de los programas y actividades de educación en materia de nutrición, prevención, tratamiento y control de la desnutrición, el sobrepeso y la obesidad, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables.
 
 III. Coordinarse con la Secretaría de Salud del Gobierno Federal, para el establecimiento de investigaciones químicas, biológicas, sociales y económicas, que permitan conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de condiciones nutritivas y de salud de la población;
 
@@ -3318,3 +3322,13 @@ SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre
 TERCERO. La Secretaría de salud y las unidades médicas del sector privado deberán realizar las adecuaciones administrativas y de infraestructura necesarias, en un término de 180 días, para dar cumplimiento a las disposiciones del presente Decreto.
 
 CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Oficial del Congreso del Estado, para su conocimiento generar (sic) y efectos legales conducentes.
+
+P.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, EN MATERIA DE SOBREPESO Y OBESIDAD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
