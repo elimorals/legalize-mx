@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2025-03-07"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2025.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -78,7 +78,9 @@ b) Otorgar facilidades administrativas relacionadas con el (sic) transmisión de
 
 c) Diseñar estímulos, apoyos fiscales, créditos y subsidios para fomentar la construcción la vivienda de interés social y popular;
 
-VII. Establecer las normas para la producción de vivienda en la Ciudad de México.
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
+
+VII. Establecer las normas para la producción de vivienda adecuada en la Ciudad de México.
 
 VIII. Determinar y definir competencias y responsabilidades específicas de los órganos de gobierno para cumplir con su obligación de respetar, garantizar, proteger y promover el derecho de los habitantes a una vivienda adecuada.
 
@@ -88,7 +90,9 @@ X. Definir los lineamientos y criterios de la política pública que en materia 
 
 XI. Establecer los instrumentos y mecanismos institucionales para que los órganos de gobierno cumplan con las obligaciones generales del Estado.
 
-XII. Promover que las viviendas se ubiquen en zonas que cuenten con infraestructura urbana y vial que fomenten la accesibilidad y una movilidad urbana sustentable, en donde se privilegien el uso de vehículos limpios, los medios de transporte no motorizados y/o eficientes y se favorezca la calidad de vida de las y los habitantes de la Ciudad de México;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
+
+XII. Promover que las viviendas cuenten, sin importar su ubicación territorial con infraestructura urbana y vial que fomenten la accesibilidad y una movilidad urbana sustentable, en donde se privilegien el uso de vehículos limpios, los medios de transporte no motorizados y/o eficientes y se favorezca la calidad de vida de las y los habitantes de la Ciudad de México;
 
 XIII. Integrar el Consejo de Vivienda;
 
@@ -105,6 +109,10 @@ XVI. Disponer las sanciones aplicables a los particulares que incumplan con lo e
 > <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2024)</small>
 
 XVII. Garantizar la producción pública de vivienda en arrendamiento asequible para las personas de menores ingresos por parte del Gobierno de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
+
+XVIII. Garantizar el acceso a vivienda adecuada a poblaciones vulnerables como personas adultas mayores, mujeres, madres y padres solteros, personas con discapacidad, personas indígenas, personas afromexicanas, integrantes de la comunidad de la diversidad sexual y de género y jóvenes.
 
 ###### Artículo 2.
 
@@ -124,9 +132,11 @@ VI. El Código Civil del Distrito Federal.
 
 Así como los demás ordenamientos legales relacionados con la materia de vivienda del ámbito Federal y de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 3.
 
-El derecho a la vivienda es un derecho humano fundamental, el cual se deberá reconocer con base en los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en particular la Constitución de la Ciudad de México, así como en los tratados internacionales de los que el Estado mexicano sea parte. La presente Ley reconoce que el derecho a una vivienda adecuada deberá cumplir con los siguientes elementos:
+El derecho a la vivienda adecuada es un derecho humano fundamental, el cual se deberá reconocer con base en los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, y en particular la Constitución de la Ciudad de México, así como en los tratados internacionales de los que el Estado mexicano sea parte. La presente Ley reconoce que el derecho a una vivienda adecuada deberá cumplir con los siguientes elementos:
 
 I. Seguridad y certeza jurídica de la propiedad o legítima posesión;
 
@@ -142,11 +152,11 @@ VI. Ubicación tomando en cuenta el acceso a oportunidades de empleo, servicios 
 
 VII. Adecuación a las soluciones arquitectónicas y urbanísticas, de los procesos productivos de la vivienda y el uso de materiales, con base en el respeto a la diversidad cultural, medioambiental y geográfica.
 
-> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
 
 ###### Artículo 4.
 
-Por ningún motivo será obstáculo para el ejercicio del derecho a la vivienda, la condición económica, el origen étnico o nacional, apariencia física, color de piel, lengua, género, edad, discapacidades, condición social, situación migratoria, condiciones de salud, embarazo, religión, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil, creencias políticas.
+Por ningún motivo será obstáculo para el ejercicio del derecho a la vivienda adecuada, la condición económica, el origen étnico o nacional, apariencia física, color de piel, lengua, genero, edad, discapacidades, condición social, situación migratoria, condiciones de salud, embarazo, religión, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil, creencias políticas.
 
 ###### Artículo 5.
 
@@ -244,7 +254,7 @@ XLII. PROGRAMA SECTORIAL DE VIVIENDA: Es aquel que establecerá los ejes, objeti
 
 XLIII. PUEBLOS ORIGINARIOS: Aquellos que descienden de poblaciones que habitaban en el territorio actual de la Ciudad de México en la época de la conquista o la colonización, o del establecimiento de sus actuales fronteras territoriales, y que actualmente conservan sus instituciones sociales, económicas, culturales y políticas o parte de ellas, manteniendo una continuidad histórica y que están asentados en un territorio determinado;
 
-XLIV. SECRETARÍA: La Secretaría de Desarrollo Urbano y Vivienda del Ciudad de México;
+XLIV. SECRETARÍA: La Secretaría de Desarrollo Urbano y Vivienda del (sic) Ciudad de México;
 
 XLV. SECTOR PRIVADO: Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda, con fines preponderantemente de lucro;
 
@@ -324,11 +334,15 @@ El Fideicomiso de Recuperación Crediticia (FIDERE) es el organismo encargado de
 
 #### SECCIÓN I. TITULAR DE LA JEFATURA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 11.
 
-La o el Titular de la Jefatura de Gobierno del Ciudad de México, para efectos de esta Ley, tiene las siguientes atribuciones:
+La o el Titular de la Jefatura de Gobierno de la Ciudad de México, para efectos de esta Ley, tiene las siguientes atribuciones:
 
-I. Formular, conducir y evaluar la política y programación de vivienda en el Ciudad de México, conforme a los ordenamientos jurídicos aplicables en la materia de planeación urbana y de vivienda, así como a otros programas que incidan en la materia;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
+
+I. Formular, conducir y evaluar la política y programación de vivienda adecuada en la Ciudad de México, conforme a los ordenamientos jurídicos aplicables en la materia de planeación urbana y de vivienda, así como a otros programas que incidan en la materia;
 
 II. Implementar las acciones conducentes que garanticen la transversalidad en materia de vivienda, desarrollo urbano, movilidad, social, económico, espacio público, patrimonio cultural y urbano, y medio ambiente, en coordinación con las dependencias y entidades de la Administración Pública Local;
 
@@ -372,7 +386,7 @@ VII. Diseñar y operar el Sistema de Información de la Vivienda, el cual comple
 
 VIII. Brindar un informe sobre las medidas de mitigación, en el cual se establezca el monto y el predio por el que fueron cobradas, así como la zona en la cual incidieron;
 
-IX. Desarrollar una política de suelo, reservas territoriales con viabilidad financiera, técnica, ambiental y jurídica, para el desarrollo del Programa Institucional, en concordancia con los diferentes Programas de Desarrollo Urbano y de Ordenamiento Ecológico del Ciudad de México; y
+IX. Desarrollar una política de suelo, reservas territoriales con viabilidad financiera, técnica, ambiental y jurídica, para el desarrollo del Programa Institucional, en concordancia con los diferentes Programas de Desarrollo Urbano y de Ordenamiento Ecológico del (sic) Ciudad de México; y
 
 X. Diseñar estrategias que permitan atender, integrar y desincentivar los asentamientos humanos irregulares.
 
@@ -380,13 +394,15 @@ XI. Vigilar que los programas de construcción de vivienda para la venta, promov
 
 #### SECCIÓN III. DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 13.
 
-El Instituto es el principal instrumento del gobierno de la Ciudad de México para la protección y realización del derecho a la vivienda de la población que por su condición socioeconómica o por otras condiciones de vulnerabilidad, requieren de la acción del Estado para garantizarlo, de tal manera que para dar cumplimiento a esta Ley tendrá además de las atribuciones comprendidas en su decreto de creación, las siguientes:
+El Instituto es el principal instrumento del Gobierno de la Ciudad de México para la protección y realización del derecho a la vivienda de la población que por su condición socioeconómica o por otras condiciones de vulnerabilidad, requieren de la acción del Estado para garantizarlo, de tal manera que para dar cumplimiento a esta Ley tendrá además de las atribuciones comprendidas en su decreto de creación, las siguientes:
 
-> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
 
-I. Elaborar el Programa Institucional de Vivienda de interés social y popular en términos de lo establecido por la Ley de Planeación del Desarrollo del Distrito Federal, que contenga por lo menos, los siguientes elementos: Programa de Vivienda en Conjunto, Programa de Mejoramiento de Vivienda, Programa de Vivienda en Arrendamiento Asequible para las personas de menores ingresos, Rescate de Cartera Hipotecaria, Programa de Vivienda en Riesgo, Programa Comunitario de Producción y Gestión Social del Hábitat, y Vivienda en Uso;
+I. Elaborar el Programa Institucional de Vivienda adecuada de interés social y popular en términos de lo establecido por la Ley del Sistema de Planeación del Desarrollo de la Ciudad de México, que contenga por lo menos, los siguientes elementos: Programa de Vivienda en Conjunto, Programa de Mejoramiento de Vivienda, Programa de Vivienda en Arrendamiento Asequible para las personas de menores ingresos, Rescate de Cartera Hipotecaria, Programa de Vivienda en Riesgo, Programa Comunitario de Producción y Gestión Social del Hábitat, y Vivienda en Uso;
 
 II. Diseñar, implementar y realizar las acciones que permitan satisfacer las necesidades de vivienda de interés social y popular, producción social del hábitat y de la vivienda para las y los habitantes de la Ciudad de México;
 
@@ -448,11 +464,15 @@ II. Velar, en coordinación con la Secretaría y las autoridades competentes, po
 
 #### SECCIÓN V. DEL ÓRGANO LEGISLATIVO DE LA CIUDAD DE MÉXICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 19.
 
-El Órgano Legislativo de la Ciudad de México, será competente en materia de vivienda, para:
+El Congreso de la Ciudad de México, será competente en materia de vivienda, para:
 
-I. Velar por los intereses de la ciudadanía en materia de vivienda;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
+
+I. Velar por los intereses de la ciudadanía en materia de vivienda adecuada;
 
 II. Salvaguardar la convivencia y coordinación entre las autoridades de la presente Ley;
 
@@ -478,13 +498,17 @@ La coordinación entre las autoridades locales y federales en materia de viviend
 
 Los convenios y acuerdos de coordinación que al efecto se formulen, serán públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 21.
 
-Los órganos de gobierno la Ciudad de México, en coordinación con las entidades federales, fomentarán:
+Los Poderes de la Ciudad de México, en coordinación con las entidades federales, fomentarán:
 
 I. La articulación y congruencia de las políticas y de los programas nacionales de vivienda, con los de los municipios de otros estados de la República Mexicana y los Órganos Políticos Administrativos;
 
-II. La disposición y transferencia de recursos, para la ejecución de los programas de vivienda;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
+
+II. La disposición y transferencia de recursos, para la ejecución de los programas de vivienda adecuada;
 
 III. La donación, transferencia, asignación, venta, entre otras acciones, de suelo e inmuebles para el desarrollo de los programas de vivienda;
 
@@ -532,9 +556,9 @@ La o el Titular de la Jefatura de Gobierno, a través de la Secretaría y el Ins
 
 Los acuerdos y convenios que se celebren con los sectores social y privado podrán tener por objeto:
 
-> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
 
-I. Buscar que un mayor número de personas, tengan acceso a una vivienda, estableciendo mecanismos que garanticen este derecho, preferentemente a la población en situación de pobreza, trabajadores, madres solteras y personas jóvenes entre los 18 y 35 años;
+I. Buscar que un mayor número de personas, tengan acceso a una vivienda adecuada, estableciendo mecanismos que garanticen este derecho, preferentemente a la población en situación de pobreza, trabajadores, personas adultas mayores, mujeres, madres y padres solteros, personas con discapacidad, personas indígenas, personas afromexicanas, integrantes de la comunidad de la diversidad sexual y de género y personas jóvenes entre los 18 y 35 años;
 
 II. Promover la creación de fondos e instrumentos para la generación oportuna de vivienda y suelo para el desarrollo del Programa Institucional;
 
@@ -557,6 +581,8 @@ Todos los acuerdos y convenios que se celebren con el sector privado, se conside
 ## TÍTULO II. DE LA POLÍTICA Y DE LOS PROGRAMAS DE VIVIENDA
 
 ### CAPITULO I. DE LA POLÍTICA DE VIVIENDA
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 2 DE MAYO DE 2025)</small>
 
 ###### Artículo 26.
 
@@ -626,9 +652,11 @@ XXII. Las demás que establezcan las disposiciones legales en la materia.
 
 ### CAPÍTULO II. DE LOS PROGRAMAS DE VIVIENDA
 
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 27.
 
-El gobierno de la Ciudad de México aplicará los principios y lineamientos de la política de vivienda, principalmente, mediante los siguientes Programas:
+El gobierno de la Ciudad de México aplicará los principios y lineamientos de la política de vivienda adecuada, principalmente, mediante los siguientes Programas:
 
 I. El Programa Sectorial de Vivienda;
 
@@ -706,13 +734,17 @@ VII. Los mecanismos específicos para la evaluación, actualización y, en su ca
 
 La o el Titular de a (sic) Jefatura de Gobierno y la Secretaría, deberán considerar las opiniones emitidas por el Consejo de Vivienda, sobre los programas de vivienda.
 
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 34.
 
-Para la elaboración de la política y los programas de Vivienda, el ejecutivo tomará en cuenta y se apoyará en las propuestas que los sectores social, privado y los particulares interesados, envíen al Consejo de Vivienda.
+Para la elaboración de la política y los programas de Vivienda adecuada, el ejecutivo tomará en cuenta y se apoyará en las propuestas que los sectores social, privado y los particulares interesados, envíen al Consejo de Vivienda.
+
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
 
 ###### Artículo 35.
 
-Los programas de vivienda podrán realizarse en los predios que cuenten con los siguientes criterios:
+Los programas de vivienda adecuada podrán realizarse en los predios que cuenten con los siguientes criterios:
 
 I. Se ubiquen en suelo urbano conforme a los Programas de Desarrollo Urbano vigentes;
 
@@ -746,11 +778,15 @@ El Consejo de Vivienda deberá enviar sus opiniones a las autoridades encargadas
 
 Las autoridades, en un lapso no mayor a 60 días hábiles, tendrán la obligación de informar a la opinión pública la respuesta a los planteamientos del propio Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 38.
 
-Para el cumplimiento de su objeto, el Consejo de Vivienda tendrá las siguientes funciones:
+Para el cumplimiento de su objeto, la Secretaría de Vivienda tendrá las siguientes funciones:
 
-I. Conocer, analizar y formular propuestas con respecto a las políticas de vivienda y desarrollo urbano, contenidas en los programas de Vivienda y emitir opiniones sobre su cumplimiento, con una visión de coordinación metropolitana;
+> <small>(REFORMADA, G.O. 2 DE MAYO DE 2025)</small>
+
+I. Conocer, analizar y formular propuestas con respecto a las políticas de vivienda adecuada y desarrollo urbano, contenidas en los programas de Vivienda y emitir opiniones sobre su cumplimiento, con una visión de coordinación metropolitana;
 
 II. Conocer, analizar y formular propuestas del Sistema de Información de la Vivienda;
 
@@ -840,9 +876,11 @@ El Gobierno de la Ciudad, a través de la Secretaría del Medio Ambiente, promov
 
 ### CAPÍTULO II. PRODUCCIÓN SOCIAL DEL HÁBITAT Y EL ESPACIO PÚBLICO
 
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 50.
 
-Las áreas donde se concentren proyectos de vivienda para satisfacer la demanda de la población, deberán contemplar acciones de mejoramiento en el entorno de la vivienda, el diseño de infraestructura urbana para fomentar la movilidad no motorizada, con la finalidad de mejorar el espacio público así como para garantizar el abastecimiento de los servicios públicos y la movilidad urbana sustentable.
+Las áreas donde se concentren proyectos de vivienda adecuada para satisfacer la demanda de la población, deberán contemplar acciones de mejoramiento en el entorno de la vivienda, el diseño de infraestructura urbana para fomentar la movilidad no motorizada, con la finalidad de mejorar el espacio público, así como para garantizar el abastecimiento de los servicios públicos y la movilidad urbana sustentable.
 
 ###### Artículo 51.
 
@@ -858,11 +896,11 @@ En todas las acciones que se realicen, se deberá garantizar la seguridad a toda
 
 ### CAPÍTULO ÚNICO. DE LA VIVIENDA ACCESIBLE Y ASEQUIBLE
 
-> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
 
 ###### Artículo 53.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría y el Instituto, dentro de los Programas de Vivienda, deberán promover condiciones de igualdad y equidad que garanticen el derecho a una vivienda a los diferentes sectores de la población conforme a sus características socioeconómicas, culturales y demográficas, prioritariamente a la población de bajos recursos económicos, trabajadores, madres solteras y las personas jóvenes entre los 18 y 35 años.
+El Gobierno de la Ciudad de México, a través de la Secretaría, dentro de los Programas de Vivienda, deberá promover condiciones de igualdad y equidad que garanticen el derecho a una vivienda adecuada a los diferentes sectores de la población conforme a sus características socioeconómicas, culturales y demográficas, prioritariamente en situación de pobreza, trabajadores, personas adultas mayores, mujeres, madres y padres solteros, personas con discapacidad, personas indígenas, personas afromexicanas, integrantes de la comunidad de la diversidad sexual y de género y personas jóvenes entre los 18 y 35 años.
 
 ###### Artículo 54.
 
@@ -1018,9 +1056,11 @@ III. Se impulsaran los principios y valores cooperativistas.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, G.O. 2 DE MAYO DE 2025)</small>
+
 ###### Artículo 72.
 
-El Gobierno de la Ciudad de México deberá adoptar las acciones necesarias para garantizar el derecho a la vivienda; para lograr este propósito podrá valerse del financiamiento público, la aplicación de medidas de carácter fiscal, la promoción en la aplicación de recursos de los Organismos Nacionales de Vivienda, de los Órganos Políticos Administrativos y del Gobierno Federal, así como de la participación de empresas y entidades financieras del sector privado.
+El Gobierno de la Ciudad de México deberá adoptar las acciones necesarias para garantizar el derecho a la vivienda adecuada; para lograr este propósito podrá valerse del financiamiento público, la aplicación de medidas de carácter fiscal, la promoción en la aplicación de recursos de los Organismos Nacionales de Vivienda, de las Alcaldías y del Gobierno Federal, así como de la participación de empresas y entidades financieras del sector privado.
 
 > <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2024)</small>
 
@@ -1417,3 +1457,13 @@ G.O. 7 DE MARZO DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, EN SUS FRACCIONES VII Y XII; 3, 4, 11, FRACCIÓN I, 13 FRACCIÓN I; 19 FRACCIÓN I, 21, FRACCIÓN II; 24 FRACCIÓN I, 26, 27, 34, 35, 38, FRACCIÓN I; 50, 53 Y 72, Y SE ADICIONA UNA FRACCIÓN XVIII AL ARTÍCULO 1 DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
