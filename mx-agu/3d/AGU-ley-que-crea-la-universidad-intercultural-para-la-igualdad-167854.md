@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-la-universidad-intercultural-para-la-igualdad-1678
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-18"
-last_updated: "2024-05-13"
+last_updated: "2025-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "AGU"
 ---
 # LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 2 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de septiembre de 2023.
 
@@ -808,3 +810,47 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 185.- SE EXPIDE LA LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley que crea la Universidad Intercultural para la Igualdad, expedida mediante Decreto Número 428 por la LXV Legislatura del Estado Libre y Soberano de Aguascalientes, publicada en el Periódico Oficial del Estado el día 18 de septiembre de 2023, así como sus reformas y modificaciones subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+La Universidad Intercultural para la Igualdad a la que se hace mención en el presente Decreto, para todo efecto a que haya lugar, es el mismo organismo descentralizado de la Administración Pública del Estado de Aguascalientes al que se hace referencia en la Ley que se abroga, en consecuencia, conservará y continuará con sus recursos humanos, financieros y materiales en los términos en los que se encuentran actualmente.
+
+###### ARTÍCULO CUARTO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes deberán realizar, en el ámbito de sus competencias, las asignaciones o readecuaciones presupuestales que resulten necesarias, a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto, de acuerdo con la suficiencia presupuestal correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Las personas representantes de la sociedad civil que actualmente integran la Junta de Gobierno de la Universidad continuarán en su cargo hasta en tanto concluyan el periodo por el cual fueron nombradas de conformidad con las disposiciones vigentes que fundaron y motivaron dicho acto.
+
+###### ARTÍCULO SEXTO.
+
+El nombramiento de la persona titular de la Rectoría de la Universidad seguirá vigente y continuará en su cargo hasta en tanto concluya el periodo por el cual fue designada de conformidad con las disposiciones vigentes que fundaron y motivaron dicho acto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para el caso de las personas integrantes de la Junta de Gobierno de la Universidad que corresponden a los órganos colegiados establecidos en el presente Decreto, la Universidad deberá llevar a cabo los procedimientos correspondientes, a efecto de que sean instalados de manera inmediata al inicio de sus actividades académicas.
+
+###### ARTÍCULO OCTAVO.
+
+La Junta de Gobierno de la Universidad deberá realizar todas las acciones necesarias para la expedición del Reglamento Interior de la Ley que crea la Universidad Intercultural para la Igualdad y demás normatividad institucional indispensable, a efecto de que las funciones, unidades administrativas y órganos colegiados encuentren congruencia y armonía con el presente Decreto, lo cual deberá realizarse en un término que no exceda de 120 días hábiles siguientes a su instalación.
+
+###### ARTÍCULO NOVENO.
+
+Se instruye a la persona titular de la Rectoría para que lleve a cabo las acciones necesarias para la inscripción del presente Decreto en el Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes, en el libro correspondiente a las Entidades Paraestatales y en atención a lo establecido por la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+Quedarán sin efectos todas aquellas disposiciones que se opongan a las contenidas en la presente Ley.
