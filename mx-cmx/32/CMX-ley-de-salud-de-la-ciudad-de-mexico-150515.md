@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2023-10-10"
+last_updated: "2025-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MAYO DE 2025.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -1377,6 +1377,10 @@ IV. El apoyo y fomento de la investigación y difusión en materia de anticoncep
 V. El establecimiento y realización de mecanismos idóneos para la adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de atención sexual, reproductiva y de planificación familiar;
 
 VI. La aplicación de programas preventivos en materia de salud sexual y salud reproductiva, incluyendo la aplicación de vacunas contra enfermedades de transmisión sexual;
+
+> <small>(ADICIONADA, G.O. 2 DE MAYO DE 2025)</small>
+
+VI. Bis. El fomento a la salud sexual y el bienestar de las mujeres, la operación de programas de información, prevención y atención para quienes cursan las etapas del climaterio;
 
 VII. El fomento de la paternidad y la maternidad responsable;
 
@@ -2915,3 +2919,13 @@ Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicaci
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 68 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
