@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-universidad-tecnologica-de-tabasco-159
 country: "mx"
 rank: "codigo"
 publication_date: "2022-08-24"
-last_updated: "2022-08-24"
+last_updated: "2025-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DE TABASCO, PUBLICADO EN EL P.O. DE 3 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2025 (ABROGADO).
 
 Código publicado en el Suplemento G al Número 8344 del Periódico Oficial del Estado de Tabasco, el miércoles 24 de agosto de 2022.
 
@@ -766,3 +768,13 @@ Cargo:
 Unidad Administrativa:
 
 Firma
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DE TABASCO”.]
+
+PRIMERO. El presente Código entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo mediante el cual se emite el Código de Conducta de la Universidad Tecnológica de Tabasco, publicado el 24 de agosto de 2022, en el Suplemento G del Periódico Oficial del Gobierno del Estado de Tabasco número 8344.
