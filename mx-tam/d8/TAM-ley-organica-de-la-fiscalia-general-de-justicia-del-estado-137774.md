@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2024-11-18"
+last_updated: "2025-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -813,11 +813,13 @@ VIII. Autorizar la propuesta de los Agentes del Ministerio Público para decreta
 
 IX. Autorizar la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional de Procedimientos Penales o, en su caso, la formulación de conclusiones no acusatorias en los procesos penales en términos de los artículos 327 y 328 del Código de Procedimientos Penales para el Estado de Tamaulipas;
 
-X. Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+X. Gestionar, promover o solicitar ante las Fiscalías y Órganos de Procuración de Justicia de la Federación y de las Entidades Federativas, las colaboraciones requeridas por los Agentes del Ministerio Público de su adscripción, para la investigación y persecución de los delitos por hechos de corrupción y conexos.
 
-XI. Celebrar convenios con instituciones y organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias, conocimientos y avances tecnológicos;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2025)</small>
+
+XI. Implementar mecanismos de colaboración y coordinación con autoridades de los tres órdenes de gobierno, a través de la suscripción de convenios, acuerdos o contratos en el ámbito de su competencia, así como con instituciones y organismos públicos o privados, nacionales o extranjeros, con la finalidad de fortalecer los procesos y procedimientos de investigación y persecución del delito en materia de corrupción y delitos conexos;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
 
@@ -951,7 +953,7 @@ F. Dirección de Prevención y Difusión; y
 
 G. Unidad de Inteligencia Financiera y Económica:
 
-a) Dirección de Investigación Financiera y Patrimonial;
+a) (DEROGADO, P.O. 3 DE MAYO DE 2025)
 
 b) Dirección de Análisis de Información;
 
@@ -1005,7 +1007,9 @@ II. Proponer al Fiscal Especializado en Combate a la Corrupción la celebración
 
 III. Requerir a las dependencias, entidades y demás órganos de la Administración Pública del Estado, de la Federación y de los municipios, la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren;
 
-IV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2025)</small>
+
+IV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como certificar documentos, libros y registros, sean físicos, digitales o electrónicos, relativos a la información que haya sido generada o bien que obra en sus archivos o expedientes;
 
 V. Participar, previo acuerdo con el Fiscal Especializado en Combate a la Corrupción, en la formulación, vigilancia y cumplimiento de los convenios o acuerdos de coordinación o colaboración suscritos en los términos de las leyes, reglamentos o acuerdos aplicables;
 
@@ -2780,3 +2784,19 @@ En tanto no se emita la normatividad jurídica y administrativa indispensable pa
 ###### ARTÍCULO OCTAVO.
 
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante la Unidad de Inteligencia Financiera y Económica, serán atendidos por ésta hasta su conclusión.
+
+P.O. 3 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-313 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 27, FRACCIONES X Y XI DEL PÁRRAFO PRIMERO; Y 27 QUINQUIES, FRACCIÓN IV; Y SE DEROGA EL INCISO A) DE LA LETRA G, DEL PÁRRAFO PRIMERO DEL ARTÍCULO 27 BIS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos competencia de la Dirección de Investigación Patrimonial y Financiera que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser atendidos por ésta hasta su conclusión, así mismo, se instruye a las instancias pertinentes, para efecto de llevar a cabo las adecuaciones administrativas correspondientes, las cuales deberán quedar concluidas en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto.
