@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-08-28"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -3235,6 +3235,12 @@ III.- En el acta que se levante con motivo de la verificación se hará constar 
 
 IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
 
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2025)</small>
+
+###### ARTICULO 259 Bis.
+
+Durante las visitas de verificación, los verificadores podrán emplear los medios tecnológicos que la autoridad sanitaria estatal o municipal competente consideren idóneos y que aporten elementos para garantizar una correcta actuación, brindando mayor certeza en la realización de dichas diligencias, de conformidad con los términos y formatos que se señalen en el Procedimiento que para tal efecto se establezca. La autoridad al hacer uso de medios tecnológicos deberá garantizar el adecuado tratamiento de los datos personales, relacionado con la privacidad e intimidad de las personas, de acuerdo con la Ley de la materia.
+
 ###### ARTICULO 260.
 
 La recolección de muestras se efectuará con sujeción a las siguientes reglas:
@@ -4614,3 +4620,11 @@ P.O. 28 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 155.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
