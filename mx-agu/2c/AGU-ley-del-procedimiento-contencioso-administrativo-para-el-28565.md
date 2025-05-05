@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-procedimiento-contencioso-administrativo-para-el-28565"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-19"
-last_updated: "2024-12-02"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 19 de septiembre de 1999.
 
@@ -203,13 +203,15 @@ La gestión de negocios no procederá en el Procedimiento de lo Contencioso Admi
 
 La representación legal de los particulares se otorgará en escritura pública o carta poder, firmada ante dos testigos y ratificada la firma del otorgante ante notario público, o ante el Secretario General de Acuerdos de la Sala.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 8°.
 
-Los particulares o sus representantes, podrán autorizar por escrito a un licenciado en Derecho para que a su nombre reciba notificaciones, siempre que anexe copia certificada de su cédula profesional o que la misma esté registrada ante el Poder Judicial del Estado.
+Los particulares o sus representantes, podrán autorizar por escrito a un licenciado en Derecho para que a su nombre reciba notificaciones, siempre que anexe copia certificada de su cedula profesional o que la misma esté registrada ante el Tribunal de Justicia Administrativa del Estado.
 
-La persona así autorizada podrá ser promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
+
+La persona así autorizada podrá hacer promociones de trámite, rendir pruebas, alegar en las audiencias e interponer recursos. Las autoridades podrán nombrar delegados para los mismos fines. Con independencia de lo anterior, las partes podrán autorizar a cualquier persona con capacidad legal para oír notificaciones e imponerse de los autos, quien no gozará de las demás facultades a que se refiere este párrafo.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1438,3 +1440,11 @@ P.O. 2 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157.- SE REFORMA LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
