@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-derechos-de-las-personas-168365"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-06"
-last_updated: "2023-11-06"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS MIGRANTES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Número 45 del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de noviembre de 2023.
 
@@ -107,9 +107,7 @@ IX. Oficina de Enlace: Aquellas oficinas en los municipios del Estado de Aguasca
 
 X. DIF: Sistema para el Desarrollo Integral de la Familia;
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XI. REGISTRO: EL REGISTRO ESTATAL DE PERSONAS MIGRANTES; Y
+XI. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
 XII. Secretaría: Secretaría de (sic) General de Gobierno.
 
@@ -117,9 +115,11 @@ XII. Secretaría: Secretaría de (sic) General de Gobierno.
 
 La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto del Instituto Aguascalentense de las Personas Migrantes y a los Ayuntamientos por medio del ente encargado para ello o las oficinas de enlace establecidas en los diferentes municipios del Estado, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 6.
 
-Son sujetos de esta Ley, las personas migrantes, y tendrán los (sic) siguientes obligaciones y derechos por parte del Estado, mismos que se mencionan de manera enunciativa, más no limitativa y los cuales son los siguientes:
+Son sujetos de esta Ley, las personas migrantes, y tendrán las siguientes obligaciones y derechos por parte del Estado, mismos que se mencionan de manera enunciativa, más no limitativa y los cuales son los siguientes:
 
 I. Recibir información respecto de los programas de atención a personas migrantes y de los requisitos necesarios para ser beneficiarias de estos;
 
@@ -129,9 +129,7 @@ III. Recibir los servicios y prestaciones de los programas de atención a person
 
 IV. Presentar denuncias y quejas, ante las instancias correspondientes, por el incumplimiento de esta Ley;
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-V. PROPORCIONAR LA INFORMACIÓN QUE LES SEA REQUERIDA POR LAS AUTORIDADES;
+V. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
 VI. Mantenerse al margen de cualquier condicionamiento de tipo político partidista, para la obtención de los beneficios de los programas de atención a personas migrantes; y
 
@@ -255,13 +253,11 @@ El Estado de Aguascalientes reconocerá, promoverá y garantizará a las persona
 
 Todas las personas migrantes, así como sus familias tienen el mismo derecho a recibir y ser beneficiarías de las acciones, apoyos, protección y programas gubernamentales a que se refiere esta ley, por lo que queda prohibida toda práctica discriminatoria en el otorgamiento y prestación de bienes y servicios derivados de las políticas, programas y acciones de atención a migrantes y sus familias.
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 20.
 
-Las personas migrantes podrán acceder a los servicios educativos, tendrán derecho a recibir cualquier tipo de atención médica, PREVISTA POR EL SECTOR PÚBLICO, independientemente de su situación migratoria y conforme a las disposiciones legales y reglamentarias aplicables.
-
-En la prestación de servicios educativos y médicos, ningún acto administrativo establecerá restricciones al extranjero, mayores a las establecidas de manera general para las personas mexicanas.
+Las personas migrantes podrán acceder a los servicios educativos, tendrán derecho a recibir cualquier tipo de atención médica, independientemente de su situación migratoria y conforme a las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 21.
 
@@ -271,11 +267,11 @@ El Registro Civil del Estado de Aguascalientes no podrá negar a las personas mi
 
 Las personas, independientemente de su situación migratoria, tendrán derecho a la procuración e impartición de justicia, respetando en todo momento el derecho al debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución Política de los Estados Unidos Mexicanos, los tratados y convenios internacionales en los que el Estado Mexicano sea parte, la Constitución Política del Estado de Aguascalientes y demás leyes aplicables.
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 23.
 
-En los procedimientos aplicables a niñas, niños y adolescentes migrantes, EN TANTO EL INSTITUTO NACIONAL DE MIGRACIÓN DETERMINA SU CONDICIÓN MIGRATORIA, el Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con el Sistema Nacional DIF, deberán brindar la protección que prevé la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes y demás disposiciones aplicables, a fin de que, bajo el principio de interés superior de la niñez, garanticen la pronta adopción de medidas y su mayor protección de los derechos de las Niñas, Niños y Adolescentes migrantes.
+En los procedimientos aplicables a niñas, niños y adolescentes migrantes, el Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con el Sistema Nacional DIF, deberán brindar la protección que prevé la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes y demás disposiciones aplicables, a fin de que, bajo el principio de interés superior de la niñez, garanticen la pronta adopción de medidas y su mayor protección de los derechos de las Niñas, Niños y Adolescentes migrantes.
 
 ###### ARTÍCULO 24.
 
@@ -293,9 +289,7 @@ V. A gozar de oportunidades igualitarias de acceso al trabajo o de otras posibil
 
 VI. A recibir atención médica en términos de lo dispuesto en la Ley General de Salud, la Ley de Salud del Estado de Aguascalientes y demás normatividad aplicable;
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VII. LA POSIBILIDAD DE INSCRIBIRSE EN EL REGISTRO ESTATAL DE PERSONAS MIGRANTES;
+VII. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
 VIII. Recibir un trato respetuoso, oportuno y con calidad;
 
@@ -319,27 +313,21 @@ XVII. Los demás que establezcan esta Ley, la Ley de Migración y otros ordenami
 
 A toda persona migrante le serán respetados sus derechos humanos, sin distinción de sexo, edad, idioma, origen étnico, raza, color, credo religioso, preferencia sexual, ideología política, posición social o económica, o cualquier otra condición que atente contra la dignidad humana y tenga por objeto menoscabar o anular los derechos y libertades de las personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 25.
 
-Las personas migrantes y sus familias tendrán las siguientes obligaciones, los (sic) cuales son enunciativos (sic) mas no limitativos (sic), siendo los (sic) siguientes:
+Las personas migrantes y sus familias tendrán las siguientes obligaciones, las cuales son enunciativas mas no limitativas, siendo las siguientes:
 
 I. Respetar la Constitución Política del Estado Libre y Soberano de Aguascalientes, las Leyes y Reglamentos estatales y locales que de ella emanan, así como cualquier disposición legal vigente en el Estado de Aguascalientes;
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
-II. CUANDO SE TRATE DE EXTRANJEROS CON SITUACIÓN MIGRATORIA REGULAR, RESGUARDAR Y CUSTODIAR LA DOCUMENTACIÓN QUE ACREDITE SU IDENTIDAD Y SU SITUACIÓN;
+III. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IV. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
-III. MOSTRAR LA DOCUMENTACIÓN QUE ACREDITE SU IDENTIDAD O SU SITUACIÓN MIGRATORIA REGULAR, CUANDO LES SEA REQUERIDA POR LAS AUTORIDADES MIGRATORIAS;
-
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IV. PROPORCIONAR LA INFORMACIÓN Y DATOS PERSONALES QUE LES SEAN SOLICITADOS POR LAS AUTORIDADES COMPETENTES, EN EL ÁMBITO DE SUS ATRIBUCIONES, LO ANTERIOR SIN PERJUICIO DE LO PREVISTO EN LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE AGUASCALIENTES Y DEMÁS DISPOSICIONES APLICABLES EN LA MATERIA; Y
-
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-V. LOS (SIC) DEMÁS QUE ESTABLEZCAN ESTA LEY, LA LEY DE MIGRACIÓN Y OTROS ORDENAMIENTOS Y DISPOSICIONES APLICABLES.
+V. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
 ###### ARTÍCULO 26.
 
@@ -355,19 +343,13 @@ Las autoridades estatales y municipales están obligadas a brindar las facilidad
 
 ### CAPÍTULO QUINTO. DEL REGISTRO ESTATAL DE PERSONAS MIGRANTES
 
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### ARTÍCULO 29.
 
-El Registro Estatal de Personas Migrantes estará a cargo del Instituto Aguascalentense de las Personas Migrantes, será carácter confidencial y tendrá por objeto la inscripción voluntaria de información por parte de las personas migrantes con respecto a su nombre, procedencia, domicilio en su lugar de origen y en general, de todos aquellos datos que pudieren facilitar su ubicación o la de sus familiares con el objeto de facilitar la reunificación familiar y el análisis del fenómeno migratorio para su futuro estudio y prevención adecuada.
-
-En la operación del Registro deberá observarse en todo momento lo dispuesto en la legislación federal en materia de protección de datos personales y en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
-
-(NOTA: EL 19 DE AGOSTO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 222/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 5 DE MAYO DE 2025)
 
 ###### ARTÍCULO 30.
 
-Cualquier autoridad estatal y municipal que otorgue a cualquier persona migrante algún beneficio de los establecidos en esta ley, deberá preguntarle si desea ser inscrito en el Registro Estatal de Personas Migrantes, para lo cual deberá contar con los formatos adecuados para realizar dicha inscripción, siempre observando el carácter voluntario del registro y no condicionante para la prestación de algún beneficio.
+(DEROGADO, P.O. 5 DE MAYO DE 2025)
 
 ### CAPÍTULO SÉPTIMO. DE LAS FACULTADES DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -424,3 +406,11 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDO SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de octubre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 154.- SE REFORMA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS MIGRANTES DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. - El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
