@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2025-01-27"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -4195,19 +4195,31 @@ III. Que el sujeto activo sea padrastro, hijastro o hermanastro de la víctima;
 
 IV. Que la víctima se encuentre en estado de gravidez;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2025)</small>
 
-V. Que la víctima sea menor de dieciocho años de edad, y
+V. Que la víctima sea menor de dieciocho años de edad;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2025)</small>
 
-VI. Que el delito fuere cometido previo suministro de estupefacientes o psicotrópicos para causar la inconsciencia de la víctima.
+VI. Que el delito fuere cometido previo suministro de estupefacientes o psicotrópicos para causar la inconsciencia de la víctima, y
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2025)</small>
 
-Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
+VII. Que el delito se cometa en presencia de las hijas o hijos, o de los progenitores de la víctima.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
+
+Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos. El Juez, en su caso, decretará la pérdida de los derechos de la patria potestad, tutela y los de carácter sucesorio, además, serán inhabilitados para ser tutores y/o curadores, lo que permitirá una protección integral a favor de quienes subsisten a la víctima.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MAYO DE 2025)</small>
+
+Para efectos del párrafo anterior y una vez que la sentencia cause ejecutoria, el Juez que la haya pronunciado remitirá copia certificada de ella a la Dirección Estatal del Registro Civil competente, para los efectos conducentes.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2025)</small>
+
+El responsable del delito de feminicidio o la tentativa de éste, además de las sanciones correspondientes, deberá realizar el pago de la reparación integral y adecuada del daño a favor de la víctima o de quienes le subsisten, incluyendo la atención médica y psicológica de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que se requieran como consecuencia del delito.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 5 DE MAYO DE 2025)</small>
 
 Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito.
 
@@ -5454,3 +5466,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones, en lo que resulten contrarias al presente Decreto.
 
 TERCERO. En un plazo no mayor de 180 días deberán realizarse las adecuaciones normativas a efecto de estar en condiciones (sic) atender lo dispuesto en el presente Decreto.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 361 TER DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE AGRAVANTE Y REPARACIÓN INTEGRAL DEL DAÑO EN EL DELITO DE FEMINICIDIO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
