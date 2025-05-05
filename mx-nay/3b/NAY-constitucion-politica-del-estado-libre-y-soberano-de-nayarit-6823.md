@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2025-03-13"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MARZO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -105,9 +103,9 @@ I. La más estricta igualdad ante las leyes, sin otras diferencias que las que r
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
 
-La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia.
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de la familia. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -117,37 +115,7 @@ II. La plena libertad humana sin más limitaciones que las impuestas por la prop
 
 III. La dignidad humana, los derechos que le son inherentes, el ejercicio libre de la personalidad, el respeto a la ley y al derecho ajeno, constituyen la base del estado democrático, la seguridad pública y la paz del Estado de Nayarit.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2011)</small>
-
-IV. La protección y promoción del desarrollo de los valores de etnias indígenas que habitan en el Estado de Nayarit, además de observar lo ordenado en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, se realizará conforme a las bases y principios siguientes:
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2011)</small>
-
-Nuestra composición étnica plural, integrada por Coras, Huicholes, Mexicaneros y Tepehuanos se sustenta en los pueblos y comunidades indígenas que los integran y a los cuales les asiste el derecho a la libre determinación expresada en la autonomía para decidir sobre sus formas internas de convivencia y organización social, económica y cultural; en la creación de sus sistemas normativos, sus usos y costumbres, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural. Solo se reconocerá como limitante a lo anteriormente establecido, el menoscabo a los Derechos Humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos y los reconocidos en la presente Constitución.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El desarrollo de sus lenguas y tradiciones, así como la impartición de la educación bilingüe estará protegida por la Ley la cual sancionará cualquier forma de discriminación.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Deberán participar en la elaboración y ejecución de planes y programas de desarrollo educativo, productivo, económico, cultural o social que se relacione con sus comunidades.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-La ley regulará la eficacia de sus propios sistemas normativos, estableciendo procedimientos de convalidación. Los tribunales y jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad de la mujer.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-En los términos que la Ley establezca, se preverán procedimientos simplificados y asistencia a los indígenas para que cuenten con un servicio eficiente del Registro Civil, así como de otras instituciones vinculadas con dichos servicios.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-La Ley protegerá la propiedad y posesión de sus tierras cualquiera que sea la modalidad de éstas, así como los derechos individuales y colectivos de uso y aprovechamiento del agua y recursos naturales, asegurando la protección del medio ambiente.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Los derechos sociales que esta Constitución otorga a los pueblos y comunidades indígenas, deberán ejercitarse de manera directa a través de sus autoridades o por los interesados mismos.
+IV. (DEROGADA, P.O. 5 DE MAYO DE 2025)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -159,9 +127,13 @@ VI. El derecho de propiedad y la libertad de disponer de ella en la forma, limit
 
 En el caso de extinción de dominio, la ley establecerá un procedimiento jurisdiccional autónomo y especial, distinto del de carácter penal, que solamente procederá respecto de los delitos y bienes expresamente determinados por la Constitución General, en el que se incluyan los medios de defensa necesarios para el particular afectado.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MAYO DE 2025)</small>
 
-VII. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas.
+VII. La libertad de trabajar y disponer de los productos del trabajo, de acuerdo con las prescripciones que establecen las leyes relativas. El Estado y los Municipios, en la esfera de competencias y atribuciones que les corresponde, realizarán las acciones necesarias para erradicar la brecha salarial de género. Los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo Estatal y sus equivalentes en los Municipios, deberán observar el principio de paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2025)</small>
+
+A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2021)</small>
 
@@ -201,9 +173,15 @@ IX. La libertad de externar el pensamiento sin más limitaciones que el respeto 
 
 X. La libertad de asociarse o reunirse para cualquier objeto lícito, con las restricciones y prerrogativas a que se refiere el artículo 9º de la Constitución General de la República.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MAYO DE 2025)</small>
 
-XI. La seguridad pública como función del Estado y de los Municipios en sus respectivas competencias señaladas por esta Constitución. La actuación de las instituciones policiales se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
+XI. La seguridad pública como función del Estado y de los Municipios en sus respectivas competencias señaladas por esta Constitución; cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4o. de la Constitución Federal y el numeral 3 de la fracción XIII del presente artículo que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2025)</small>
+
+Las autoridades competentes conocerán sobre las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos del fuero común relacionados con las violencias de género contra las mujeres, en términos de las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El Estado y los Municipios en los términos que la ley de la materia señale, establecerán un sistema de seguridad pública y se coordinarán con la Federación con ese fin.
 
@@ -259,7 +237,11 @@ XIII. Los derechos sociales que a continuación se enuncian:
 
 2.- Toda mujer y su producto tienen derecho a la atención médica gratuita durante el periodo de embarazo y el parto.
 
-3.- Los niños, las niñas y los adolescentes tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación. En condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben de atender al interés superior del menor.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
+
+3.- Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. Las leyes definirán las bases y modalidades para garantizar su relación de conformidad con lo previsto en la fracción XI del presente artículo.
+
+Los niños, las niñas y los adolescentes tienen derecho a vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, así como a ser protegidos contra cualquier forma de maltrato, perjuicio, daño, agresión, abuso, o explotación. En condiciones de libertad, integridad y dignidad; por lo que las leyes que se promulguen para tal efecto, deben de atender al interés superior del menor.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -414,6 +396,136 @@ Las Leyes de la materia establecerán los supuestos que por su naturaleza permit
 > <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2019)</small>
 
 XIX. En los juicios o procedimientos seguidos en forma de juicio, se deberá respetar la igualdad entre las partes, el debido proceso, así como los derechos que garanticen la audiencia y defensa en el ámbito de una tutela judicial efectiva. Además, cuando no se transgredan tales principios y garantías, los órganos de jurisdicción deberán privilegiar la solución del conflicto de fondo sobre los meros formalismos procedimentales.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2025)</small>
+
+###### Art. 7 Bis.
+
+La protección y promoción del desarrollo de los valores de pueblos y comunidades indígenas y afromexicanas, que habitan en el Estado de Nayarit, además de observar lo ordenado en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, se realizará conforme a las bases y principios siguientes:
+
+El Estado de Nayarit tiene composición pluricultural y multilingüe, integrada por los pueblos y comunidades Na'ayeri, Meshikan, O'dam y Wixárika, les asiste el derecho a la libre determinación expresada en la autonomía para decidir sobre sus formas internas de convivencia y organización social, económica, cultural, política o parte de ellas; en la creación de sus sistemas normativos, formas de gobierno tradicional, desarrollo, formas de expresión religiosa y artística y en la facultad para proteger su identidad y patrimonio cultural.
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
+
+Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
+
+A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I. Decidir, conforme a sus sistemas normativos y de acuerdo con esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural;
+
+II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y el marco legal aplicable, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
+
+La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con sus sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de esta Constitución y leyes aplicables;
+
+III. Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad;
+
+IV. Acceder y desempeñar cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales;
+
+V. Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes;
+
+VI. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas Na'ayeri, Meshikan, O'dam y Wixárika, como un elemento constitutivo de la diversidad cultural del Estado, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan;
+
+VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud;
+
+VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia;
+
+IX. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas de conformidad al marco legal aplicable;
+
+X. Elegir, en los municipios con población indígena, representantes en los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a la Ley Municipal para el Estado de Nayarit y demás disposiciones aplicables;
+
+XI. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales con respeto a los preceptos de esta Constitución.
+
+Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística;
+
+XII. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables, y
+
+XIII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
+
+Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en esta Constitución.
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción.
+
+B. El Estado y los Municipios, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas en coordinación con ellos.
+
+Para tal efecto, dichas autoridades tienen la obligación de:
+
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+
+El Estado reconocerá el trabajo comunitario de los pueblos y comunidades indígenas como parte de su organización social y cultural;
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos;
+
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley;
+
+IV. Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
+
+a) La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
+
+b) La formación de profesionales indígenas y la implementación de la educación comunitaria;
+
+c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+
+d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
+
+e) La ejecución de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para el Estado; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo.
+
+V. Asegurar el acceso efectivo a los servicios de salud mediante su ampliación en la cobertura, con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional;
+
+VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil;
+
+VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales;
+
+VIII. Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos;
+
+IX. Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha;
+
+X. Gestionar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales;
+
+XI. Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena;
+
+XII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+XIII. Establecer políticas públicas para proteger a las comunidades y personas indígenas migrantes, tanto en el territorio nacional como en el extranjero, en especial, mediante acciones destinadas a:
+
+a) Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;
+
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+
+d) Velar permanentemente por el respeto de sus derechos humanos, y
+
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
+
+XIV. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y de los planes municipales y, en su caso, incorporando las recomendaciones y propuestas que realicen, y
+
+XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo.
+
+El Congreso Local, el Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos.
+
+C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
+
+Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio del Estado desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
+
+Los pueblos y comunidades afromexicanas tienen el carácter de sujetos de derecho público, con personalidad jurídica y patrimonio propio. Tienen además derecho a:
+
+I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva;
+
+II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia estatal y a la diversidad cultural del Estado, y
+
+III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
+
+El Estado y los Municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Art. 8.
 
@@ -2041,11 +2153,11 @@ Tratándose de controversias constitucionales o de acciones de inconstitucionali
 
 #### SECCIÓN I. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
 
 ###### Art. 92.
 
-El Ministerio Público es el representante legítimo de los intereses sociales y es una institución autónoma, dotado de personalidad jurídica y de patrimonio propio, que se rige en el ejercicio de sus funciones por los principios de buena fe, certeza, legalidad, objetividad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
+El Ministerio Público es el representante legítimo de los intereses sociales y es una institución autónoma, dotado de personalidad jurídica y de patrimonio propio, que se rige en el ejercicio de sus funciones por los principios de buena fe, certeza, legalidad, objetividad, imparcialidad, eficacia, honradez, profesionalismo, autonomía, eficiencia, responsabilidad, perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
@@ -2167,11 +2279,11 @@ Las facultades y obligaciones del Fiscal General y de los Agentes del Ministerio
 
 #### SECCIÓN II. De las Fiscalías Especializadas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
 
 ###### Art. 100.
 
-La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales y en combate a la corrupción, cuyos titulares serán nombrados y removidos por el voto de las dos terceras partes de los miembros del Congreso del Estado presentes en la sesión correspondiente, observando el principio de paridad de género.
+La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales, combate a la corrupción y en investigación de delitos relacionados con las violencias de género contra las mujeres; cuyos titulares serán nombrados y removidos por el voto de las dos terceras partes de los miembros del Congreso del Estado presentes en la sesión correspondiente, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 2018)</small>
 
@@ -2511,7 +2623,13 @@ h) Intervenir en la formulación y aplicación de programas de transporte públi
 
 i) Celebrar convenios para la administración y custodia de las zonas federales.
 
-En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
+
+En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarias, y
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2025)</small>
+
+IV. Nombrar a las personas titulares de las dependencias y entidades de la administración pública municipal, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2008)</small>
 
@@ -3223,7 +3341,9 @@ La Universidad Autónoma de Nayarit es una institución autónoma de educación 
 
 La ley regulará el servicio civil y en especial las condiciones de ingreso a éste; las promociones y ascensos con base en mérito y aptitud; los cambios, suspensiones y cesantías; los deberes de los servidores públicos y los recursos contra las resoluciones que los afecten; garantizando a los empleados públicos la estabilidad en el cargo.
 
-Los servidores públicos del Estado, de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2025)</small>
+
+Los servidores públicos del Estado, de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 La ley determinará los conceptos de retribuciones y límites salariales de los servidores públicos, la que no podrá ser igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, en los términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -4848,3 +4968,35 @@ DÉCIMO CUARTO. Para la interpretación y aplicación de este Decreto, los órga
 DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO SEXTO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la Entidad.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA EL ARTÍCULO 7 BIS Y DEROGA LA FRACCIÓN IV DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, atendiendo a las disposiciones y salvedades previstas en los artículos transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Poder Ejecutivo y los Municipios deberán realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los pueblos y comunidades indígenas reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor del Decreto.
+
+CUARTO. El Congreso del Estado, en un plazo de noventa días, contados a partir de la entrada en vigor de este Decreto, deberá realizar la armonización del marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto, así como expedir sus leyes reglamentarias.
+
+QUINTO. El presente Decreto se deberá traducir a las lenguas de los pueblos indígenas reconocidos en el Estado de Nayarit y dará la difusión correspondiente.
+
+SEXTO. El Poder Ejecutivo, el Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias deberán establecer las partidas específicas en los presupuestos de egresos para el ejercicio fiscal 2026 que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes en la materia.
+
+SÉPTIMO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la Entidad.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA, PERSPECTIVA DE GÉNERO, DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y ERRADICACIÓN DE LA BRECHA SALARIAL POR RAZONES DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un plazo de noventa días, contados a partir de la entrada en vigor del presente Decreto, para que el Congreso del Estado realice la armonización de las disposiciones legales correspondientes.
+
+TERCERO. En un plazo de ciento ochenta días hábiles contados a partir de la expedición de las disposiciones legales a que se refiere el artículo transitorio anterior, se deberá realizar la modificación a la estructura orgánica de la Fiscalía General del Estado, con el fin de contemplar la Fiscalía Especializada en Investigación de Delitos relacionados con las Violencias de Género contra las Mujeres.
+
+El procedimiento para la designación del titular de la Fiscalía Especializada en Investigación de Delitos relacionados con las Violencias de Género contra las Mujeres, funciones, competencia y su organización serán determinados por la ley reglamentaria en los términos que menciona el artículo 100 de esta Constitución.
+
+CUARTO. Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, y artículo 96 de la Ley Orgánica del Poder Legislativo, remítase el presente Decreto a los Ayuntamientos de la Entidad.
