@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-08-28"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -3235,6 +3235,12 @@ III.- En el acta que se levante con motivo de la verificación se hará constar 
 
 IV.- Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
 
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2025)</small>
+
+###### ARTICULO 259 Bis.
+
+Durante las visitas de verificación, los verificadores podrán emplear los medios tecnológicos que la autoridad sanitaria estatal o municipal competente consideren idóneos y que aporten elementos para garantizar una correcta actuación, brindando mayor certeza en la realización de dichas diligencias, de conformidad con los términos y formatos que se señalen en el Procedimiento que para tal efecto se establezca. La autoridad al hacer uso de medios tecnológicos deberá garantizar el adecuado tratamiento de los datos personales, relacionado con la privacidad e intimidad de las personas, de acuerdo con la Ley de la materia.
+
 ###### ARTICULO 260.
 
 La recolección de muestras se efectuará con sujeción a las siguientes reglas:
@@ -4615,81 +4621,13 @@ P.O. 28 DE AGOSTO DE 2024.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 39/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DECIMOSEGUNDO DE DISTRITO EN EL ESTADO DE GUANAJUATO, CON RESIDENCIA EN LEÓN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 5 DE MAYO DE 2025.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de febrero de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 155.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido para los Juzgados de Distrito en el Estado de Guanajuato, con residencia en León, continuará aplicándose hasta el diecinueve de febrero de dos mil dieciocho, y se modifica para incorporar al Juzgado de Distrito de nueva creación, para quedar como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 22 al 29 de enero de 2018 Juzgado Tercero de Distrito en el
-
-Estado de Guanajuato, con
-
-residencia en León
-
-Del 29 de enero al 5 de febrero Juzgado Cuarto de Distrito en el
-
-de 2018 Estado de Guanajuato, con
-
-residencia en León
-
-Del 5 al 12 de febrero de 2018 Juzgado Séptimo de Distrito en el
-
-Estado de Guanajuato, con
-
-residencia en León
-
-Del 12 al 19 de febrero de 2018 Juzgado Decimoprimero de Distrito en el
-
-Estado de Guanajuato, con
-
-residencia en León
-
-Del 19 al 26 de febrero de 2018 Juzgado Decimosegundo de Distrito en el
-
-Estado de Guanajuato, con
-
-residencia en León
-
-Del 26 de febrero al 5 de marzo Juzgado Tercero de Distrito en el Estado
-
-de 2018 de Guanajuato, con residencia
-
-en León
-
-Del 5 al 12 de marzo de 2018 Juzgado Cuarto de Distrito en el Estado
-
-de Guanajuato, con residencia en León
-
-Y así sucesivamente en ese orden.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XVI, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a XV. …
-
-XVI. …
-
-1. a 2. …
-
-3. Doce juzgados de Distrito en el Estado de Guanajuato: dos con residencia en la ciudad del mismo nombre, cinco con sede en León, tres con residencia en Celaya y dos con sede en Irapuato.
-
-XVII. a XXXII. …”
-
-SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-D.O.F. 9 DE FEBRERO DE 2018.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 3/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DOMICILIO Y RESIDENCIA DEL PRIMER TRIBUNAL COLEGIADO Y DEL TRIBUNAL UNITARIO, AMBOS DEL VIGÉSIMO OCTAVO CIRCUITO; DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO EN EL ESTADO DE TLAXCALA, ASÍ COMO AL CAMBIO DE DENOMINACIÓN Y DOMICILIO DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE LA PROPIA ENTIDAD FEDERATIVA, TODOS CON RESIDENCIA EN TLAXCALA, TLAXCALA”.]
 
