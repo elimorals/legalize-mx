@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2024-08-05"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -151,9 +151,11 @@ XVII. Establecer las bases para la regulación, control y supervisión, de acuer
 
 XVIII. Promover y fomentar una cultura turística entre los habitantes del Estado y prestadores de servicios turísticos a que se refiere la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
+
 ###### Artículo 5°.
 
-La Secretaría, además de las atribuciones señaladas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, tendrá las siguientes:
+La Secretaría, además de las atribuciones señaladas en la Ley Orgánica de la Administración Pública Estatal, tendrá las siguientes:
 
 I. Regular, controlar y supervisar, de acuerdo con las leyes y reglamentos, los servicios turísticos no sujetos a la competencia de la Federación, respetando el ámbito de competencia de los Ayuntamientos, de acuerdo a los convenios celebrados;
 
@@ -193,9 +195,17 @@ XVII. Impulsar la ampliación y mejoramiento de los productos turísticos, promo
 
 XVIII. Coadyuvar con las dependencias competentes, en la gestión de apoyos a las pequeñas y medianas empresas, que tengan como fin el desarrollo de la industria turística;
 
-XIX. Promover, en coordinación con la dependencia del ramo, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación; y
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2025)</small>
 
-XX. Las demás que señalen las leyes y reglamentos aplicables en la materia.
+XIX. Promover, en coordinación con la dependencia del ramo, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, apoyando las iniciativas tendientes a su conservación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2025)</small>
+
+XX. Establecer los lineamientos para impulsar la innovación, el desarrollo y diversificación de productos turísticos competitivos, que respondan a las tendencias los mercados nacional e internacional; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE MAYO DE 2025)</small>
+
+XXI. Las demás que señalen las leyes y reglamentos aplicables en la materia.
 
 ## TITULO SEGUNDO. DE LOS SERVICIOS TURISTICOS Y DE LA PROTECCION AL TURISTA
 
@@ -1206,3 +1216,11 @@ P.O. 5 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 153.- SE REFORMA LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
