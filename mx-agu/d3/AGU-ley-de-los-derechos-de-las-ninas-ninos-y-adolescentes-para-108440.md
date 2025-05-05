@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-04-29"
+last_updated: "2025-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -127,9 +127,9 @@ VIII. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DI
 
 VIII Bis. Ciberbullying: Forma de Violencia por medio de las tecnologías digitales que puede ocurrir en las redes sociales, plataformas de mensajería, plataformas de juegos y teléfonos móviles.
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2025)</small>
 
-IX. Crianza Positiva: Comportamiento de las madres, padres y de quienes ejerzan la patria potestad, guarda y custodia o bien la tutela, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades y la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes; evitando la violencia vicaria.
+IX. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
 
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -943,9 +943,11 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito 
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)</small>
+
 ###### Artículo 44.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado de Aguascalientes y las de sus Municipios, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como a quienes los tengan bajo su atención y cuidado, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado y municipios, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2023)</small>
 
@@ -1905,7 +1907,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de los niños, niñas y adolescentes;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2025)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de los niños, niñas y adolescentes y en la crianza positiva;
 
 VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
 
@@ -3310,6 +3314,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 29 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 142.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 5 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 156.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
