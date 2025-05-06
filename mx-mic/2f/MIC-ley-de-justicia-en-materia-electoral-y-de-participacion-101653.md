@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-en-materia-electoral-y-de-participacion-101653"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2023-06-02"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2014.
 
@@ -239,9 +239,17 @@ II. Los escritos deberán presentarse dentro de los plazos establecidos para la 
 
 III. Los escritos deberán ir acompañados del documento con el que se acredite su personería en los términos del presente Ordenamiento;
 
-IV. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta Ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político o coalición; y,
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
 
-V. Los escritos deberán contener nombre y firma autógrafa.
+IV. Podrán ofrecer y aportar pruebas sólo en los casos en que así proceda y dentro de los plazos establecidos en esta Ley, siempre y cuando estén relacionadas con los hechos y agravios invocados en el medio de impugnación interpuesto o en el escrito presentado por su partido político o coalición;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
+
+V. Los escritos deberán contener nombre y firma autógrafa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2025)</small>
+
+VI. Se reconocerá el derecho de los candidatos a juzgadores para coadyuvar únicamente en impugnaciones relacionadas con su proceso de selección, sin intervención de partidos políticos.
 
 ### CAPÍTULO VI. DE LA LEGITIMACIÓN Y DE LA PERSONERÍA
 
@@ -663,9 +671,11 @@ De reincidir los magistrados tres veces en la misma conducta, el Pleno del Tribu
 
 ### CAPÍTULO I. DE LA PROCEDENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 47.
 
-Dentro de un proceso electoral exclusivamente en la etapa de preparación de la elección, el recurso de revisión procederá, para los partidos políticos, coaliciones, candidatos comunes o candidatos independientes, contra los actos, acuerdos y resoluciones de los consejos distritales y municipales, emitidos hasta cinco días antes de la elección.
+Dentro de un proceso electoral exclusivamente en la etapa de preparación de la elección, el recurso de revisión procederá, para los partidos políticos, coaliciones, candidatos comunes, candidatos independientes o candidatos a juzgadores, contra los actos, acuerdos y resoluciones de los consejos distritales y municipales, emitidos hasta cinco días antes de la elección.
 
 Para los ciudadanos procede el recurso de revisión contra actos de los consejos distritales o municipales del Instituto cuando:
 
@@ -783,6 +793,22 @@ c) Existir error aritmético en los resultados consignados en el acta de cómput
 
 d) Contravenir las reglas y fórmulas de asignación de los diputados electos por el principio de representación proporcional.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 6 DE MAYO DE 2025)</small>
+
+IV. En la elección de Jueces y Magistrados del Poder Judicial del Estado de Michoacán, cuando se impugne:
+
+a) La validez de la elección de una o varias candidaturas;
+
+b) Los resultados consignados en las actas de cómputo;
+
+c) La asignación de constancias de mayoría y validez;
+
+d) Cualquier acto que altere el resultado final de la elección de los juzgadores; y,
+
+e) La elegibilidad de una candidatura a juzgador.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS FRACCIONES], P.O. 6 DE MAYO DE 2025)</small>
+
 Asimismo, el juicio de inconformidad procederá para impugnar, dentro de los procesos de Referéndum y Plebiscito, los siguientes actos:
 
 I. Contra los resultados consignados en las actas de cómputo distritales o municipales, por nulidad de la votación recibida en una o varias casillas, o por error aritmético;
@@ -841,9 +867,17 @@ El juicio de inconformidad sólo podrá ser promovido por:
 
 I. Los representantes de los partidos políticos, coaliciones o candidatos independientes acreditados ante los organismos electorales;
 
-II. Los candidatos independientes, que hayan obtenido su registro por parte del Instituto; y,
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
 
-III. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes; y, en el caso de los procesos de Referéndum y Plebiscito, el sujeto que los haya solicitado.
+II. Los candidatos independientes, que hayan obtenido su registro por parte del Instituto;
+
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
+
+III. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes; y, en el caso de los procesos de Referéndum y Plebiscito, el sujeto que los haya solicitado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2025)</small>
+
+IV. Los candidatos a juzgadores, que hayan sido registrados por al menos un Poder del Estado, ante el Instituto.
 
 ### CAPÍTULO V. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
@@ -899,11 +933,17 @@ II. Los relativos a la elección de diputados por el principio de mayoría relat
 
 III. Los correspondientes a la elección de diputados por el principio de representación proporcional, a más tardar treinta y tres días después de su recepción por el Tribunal;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
 
-IV. Los relativos a la elección de Gobernador, a más tardar a los cuarenta y ocho días después de su recepción por el Tribunal; y,
+IV. Los relativos a la elección de Gobernador, a más tardar a los cuarenta y ocho días después de su recepción por el Tribunal;
 
-V. Los relativos a los procesos de Referéndum o Plebiscito, a más tardar quince días después de su recepción por el Tribunal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2025)</small>
+
+V. En la elección de jueces y magistrados del Poder Judicial del Estado de Michoacán, a más tardar treinta y cinco días después de su recepción por el Tribunal; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 6 DE MAYO DE 2025)</small>
+
+VI. Los relativos a los procesos de Referéndum o Plebiscito, a más tardar quince días después de su recepción por el Tribunal.
 
 ###### ARTÍCULO 64.
 
@@ -930,6 +970,10 @@ Tratándose de la inelegibilidad de candidatos a diputados y regidores electos p
 Tratándose de la inelegibilidad del candidato a presidente municipal, se comunicará al Congreso para que proceda a la designación correspondiente, conforme a sus atribuciones.
 
 De resultar inelegibles los dos integrantes de la fórmula de candidatos a síndico y regidores por el principio de mayoría relativa, que hubieren obtenido constancia de mayoría, se procederá en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2025)</small>
+
+En caso de inelegibilidad de un candidato electo a Juez o Magistrado del Poder Judicial del Estado de Michoacán, el Congreso del Estado procederá a la designación correspondiente, garantizando la paridad de género y la idoneidad del perfil.
 
 ###### ARTÍCULO 68.
 
@@ -981,9 +1025,11 @@ V. Cuando los gastos erogados en la contratación de tiempos y espacios en medio
 
 Cuando se declare nula una elección se comunicará al Congreso y al Instituto para que procedan conforme a la ley.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 71.
 
-El Pleno del Tribunal podrá declarar la nulidad de una elección de diputados, de ayuntamientos y de gobernador, cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos o coaliciones promoventes o los candidatos.
+El Pleno del Tribunal podrá declarar la nulidad de una elección de Diputados, de Ayuntamientos, de Gobernador, de Jueces y Magistrados cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, se encuentren plenamente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección, salvo que las irregularidades sean imputables a los partidos o coaliciones promoventes o los candidatos. Para el caso de la elección de Jueces y Magistrados, dichos partidos o colaciones son actores prohibidos en la elección.
 
 ### CAPÍTULO IV. DE LA NULIDAD DE LAS ELECCIONES
 
@@ -1039,11 +1085,23 @@ a) Considere que se violó su derecho político-electoral de ser votado cuando, 
 
 b) Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político o agrupación política;
 
-c) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior; y,
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
 
-d) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable.
+c) Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior;
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
+
+d) Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a los precandidatos y candidatos a cargos de elección popular aún cuando no estén afiliados al partido señalado como responsable; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE MAYO DE 2025)</small>
+
+e) También procederá para los candidatos a jueces y magistrados cuando consideren que se han vulnerado sus derechos en el proceso de selección y elección.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE MAYO DE 2025)</small>
 
 El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE MAYO DE 2025)</small>
 
 En los casos previstos en el inciso d) del párrafo 1 de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
@@ -1057,7 +1115,9 @@ Cuando por causa de inelegibilidad de los candidatos, las autoridades electorale
 
 Son competentes para resolver el juicio para la protección de los derechos político-electorales del ciudadano el Tribunal, en única instancia:
 
-I. En relación con las elecciones de Gobernador, Diputados y ayuntamientos;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
+
+I. En relación con las elecciones de Gobernador, Diputados, Ayuntamientos, Jueces y Magistrados;
 
 II. Cuando se trate de la violación de los derechos político-electorales por determinaciones emitidas por los partidos políticos en la elección de candidatos a los cargos de Gobernador, Diputados, ayuntamientos y dirigentes de los órganos estatales de dichos institutos, así como en los conflictos internos de los partidos políticos;
 
@@ -1186,3 +1246,19 @@ P.O. 2 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 397 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 73 DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 167 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 14, 47, PÁRRAFO PRIMERO, 55, 59, 63, 71, 74 Y 76, FRACCIÓN I; Y, SE ADICIONA AL ARTÍCULO 67, UN PÁRRAFO CUARTO, TODOS DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Las disposiciones contenidas en este Decreto serán aplicables al Proceso Electoral Extraordinario 2024-2025 que dio inicio el día de la entrada en vigor del Decreto 03 del Congreso de Michoacán de Ocampo, garantizando el derecho de los candidatos ya registrados a acceder a los medios de impugnación establecidos en esta Reforma.
+
+Tercero. Las resoluciones, acuerdos y actos emitidos por las autoridades electorales antes de la entrada en vigor de este Decreto conservarán su validez, sin perjuicio de los derechos de los candidatos a juzgadores a impugnar cualquier determinación posterior conforme a la presente Reforma.
+
+Cuarto. El Instituto Electoral de Michoacán deberá realizar las adecuaciones necesarias en sus lineamientos y procedimientos internos en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto, con el fin de garantizar su correcta aplicación.
+
+Quinto. El Tribunal Electoral del Estado, deberá realizar las adecuaciones normativas y reglamentarias necesarias para armonizar la legislación estatal con las disposiciones de este Decreto en un plazo no mayor a treinta días naturales.
+
+Sexto. Notifíquese al Instituto Electoral de Michoacán y al Tribunal Electoral del Estado el presente Decreto, para los efectos legales que hubiere a lugar.
