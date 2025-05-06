@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-jovenes-del-estado-de-michoacan-de-ocampo-81518"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2023-11-15"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
 
 Ley publicada en la quinta sección del Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -217,7 +217,11 @@ VII. Acceder a los servicios de salud pública, así como a estar informados sob
 
 VIII. Promover a nivel nacional e internacional, medidas que faciliten la movilidad académica y estudiantil entre los jóvenes, acordando para ello el establecimiento de los procedimiento validación que permitan, en su caso, la equivalencia de los niveles, grados académicos y títulos profesionales de sus respectivos sistemas educativos;
 
-IX. Promover que las instituciones gubernamentales y legislativas fomenten la participación de los jóvenes en la formulación de políticas y leyes referidas a la juventud.
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2025)</small>
+
+IX. Fomentará la creación, desarrollo, asistencia, investigación, difusión y sustentabilidad de proyectos empresariales generados por la juventud, así como de políticas públicas que promuevan el sentido emprendedor de los jóvenes; y,
+
+X. Promover que las instituciones gubernamentales y legislativas fomenten la participación de los jóvenes en la formulación de políticas y leyes referidas a la juventud.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -269,7 +273,11 @@ XIII. Establecer en coordinación con los gobiernos municipales, programas y cur
 
 XIV. Ejecutar las acciones que le correspondan y que estén previstas en el Plan Estatal de Desarrollo para este rubro, así como coadyuvar en la vigilancia del cumplimiento de esta Ley; y,
 
-XV. Las demás que promuevan la participación y desarrollo integral de los jóvenes.
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2025)</small>
+
+XV. Promover estrategias orientadas al desarrollo de proyectos productivos de jóvenes emprendedores, innovadores, creativos y competitivos que impulsen el desarrollo local y regional del Estado; y,
+
+XVI. Las demás que promuevan la participación y desarrollo integral de los jóvenes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -706,3 +714,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Notifíquese a los 111 Ayuntamientos, al Concejo Mayor de Cherán y al Concejo Municipal de Penjamillo, para que informen a sus Consejos Juveniles Municipales.
 
 TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+P.O. 6 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 171 POR EL QUE “SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 6 RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN SUBSECUENTE; Y, LA FRACCIÓN XV AL ARTÍCULO 8 RECORRIÉNDOSE EN SU ORDEN LA FRACCIÓN SUBSECUENTE, DE LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y trámites correspondientes.
