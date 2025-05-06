@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-crea-el-premio-campeche-93383"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2014-08-01"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY QUE CREA EL "PREMIO CAMPECHE"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de marzo de 2013.
 
@@ -53,43 +53,49 @@ Se crea el "Premio Campeche", como la más alta distinción que pueden otorgar u
 
 El premio se otorgará cada año, el día 29 de abril, fecha en que se conmemora el nacimiento jurídico del Estado libre y soberano de Campeche, por los representantes de los tres poderes del Estado, en ceremonia pública con carácter de solemne.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 3.
 
-El premio consistirá en una medalla de oro y un pergamino en el que se harán constar los méritos del ciudadano premiado.
+El premio consistirá en:
 
-La medalla tendrá en el anverso el Escudo del Estado de Campeche, circundado por las siguientes leyendas: “Estado Libre y Soberano de Campeche” y “Premio Campeche”. En el reverso, el nombre del galardonado y la edición del premio.
+I. Una medalla de oro o su equivalente en un estímulo económico; y
 
-> <small>N. DE E. VÉASE IMAGEN EN LA SECCIÓN LEGISLATIVA DEL P.O. DE 20 DE MARZO DE 2013, PÁGINA 3.</small>
+II. Un pergamino en el que se harán constar los méritos de la o el ciudadano premiado.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+La medalla tendrá en el anverso el Escudo del Estado de Campeche, circundado por las siguientes leyendas: “Estado Libre y Soberano de Campeche” y “Premio Campeche”. En el reverso, el nombre de la o el galardonado y la edición del premio.
+
+ANVERSO REVERSO
+
+> <small>[N. DE E. VÉASE IMÁGEN EN EL P.O. DE 6 DE MAYO DE 2025, PÁGINA 2.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 4.
 
 Para el otorgamiento del Premio se integrará un Comité Evaluador, de la siguiente manera:
 
-a) El Gobernador Constitucional del Estado, quien fungirá como Presidente;
+a) La Gobernadora o el Gobernador del Estado, quien fungirá como Presidenta o Presidente;
 
-b) El Presidente de la Junta de Gobierno y Administración del H. Congreso del Estado;
+b) La o el Presidente de la Junta de Gobierno y Administración del H. Congreso del Estado;
 
-c) El Magistrado Presidente del H. Tribunal Superior de Justicia del Estado;
+c) La o el Magistrado Presidente del H. Tribunal Superior de Justicia del Estado;
 
-d) El Secretario de Gobierno, quien fungirá como Secretario del Comité;
+d) La Secretaria o Secretario de Gobierno, quien fungirá como secretaria o secretario del Comité;
 
-e) El Secretario de Educación del Estado;
+e) La o el Secretario de Educación del Estado;
 
-f) Un representante de las Instituciones Educativas Autónomas de nivel Superior;
+f) Un representante de las Instituciones de Educación Autónomas de nivel Superior; y
 
-g) Dos representantes de la sociedad civil; y
+g) Dos representantes de la sociedad civil.
 
-h) Un Notario Público en ejercicio, que tendrá como función la de certificar y dar fe pública de las decisiones que se tomen. Del resultado de las decisiones tomadas se levantará un acta circunstanciada que se entregará al Comité para los efectos a que haya lugar.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 5.
 
-Las propuestas de candidatos merecedores del otorgamiento del Premio deberán ser presentadas ante la Secretaría de Gobierno durante el plazo comprendido del 1 de enero al 31 de marzo de cada año.
+Las propuestas de candidatas o candidatos merecedores del otorgamiento del Premio deberán ser presentadas ante la Secretaría de Gobierno durante el plazo comprendido del 1 de enero al 31 de marzo de cada año.
 
-Previo a lo anterior, la Secretaría de Gobierno, deberá publicar la convocatoria para la entrega del "Premio Campeche" en los periódicos de mayor circulación en el Estado y difundir por todos los medios digitales y electrónicos posibles la publicación de la citada convocatoria.
+Previo a lo anterior, la Secretaría de Gobierno, deberá publicar la convocatoria para la entrega del “Premio Campeche” en el Periódico Oficial del Estado y difundir por todos los medios digitales y electrónicos posibles la publicación de la citada convocatoria.
 
 ###### ARTÍCULO 6.
 
@@ -109,21 +115,27 @@ Dentro de los primeros quince días del mes de abril de cada año, el Comité Ev
 
 El Comité Evaluador, tomando en consideración la categoría o contenido de la propuesta, se apoyará en las instancias o dependencias que sean afines a la misma, cuyos titulares serán invitados a la sesión del Comité, quienes participarán sólo con derecho a voz.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 10.
 
-Una vez analizadas las propuestas, el Comité Evaluador emitirá su fallo, a través de un acuerdo certificado por el Notario Público.
+Una vez analizadas las propuestas, el Comité Evaluador emitirá su fallo mediante acuerdo.
 
-Las decisiones se adoptarán por mayoría de votos de los integrantes presentes. En caso de empate, el Presidente tendrá voto de calidad. El fallo del Comité será inapelable.
+Las decisiones se adoptarán por la mayoría de votos de las y los integrantes presentes y constarán en acta circunstanciada. En caso de empate, la o el Presidente tendrá voto de calidad. El fallo del Comité será inapelable.
 
-El acuerdo de otorgamiento del Premio se notificará de inmediato al ciudadano distinguido.
+El acuerdo de otorgamiento del Premio se notificará de inmediato a la o el ciudadano distinguido.
+
+Las decisiones y acuerdos adoptados por el Comité serán certificados por la o el Notario Público que para tal efecto se designe.
 
 ###### ARTÍCULO 11.
 
 El acuerdo del Comité se dará a conocer a efecto de que se convoque a la ceremonia solemne referida en el artículo 2 de la presente Ley, y se hará público en los medios de comunicación y en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 12.
 
-La Secretaría de Finanzas incluirá anualmente dentro del Presupuesto de Egresos del Estado de Campeche, una partida suficiente para la dotación del Premio, conforme a los lineamientos que oportunamente le señale el C. Gobernador del Estado.
+La Secretaría de Administración y Finanzas incluirá anualmente dentro del Presupuesto de Egresos del Estado de Campeche, una partida suficiente para la dotación del premio, conforme a los lineamientos que emita la Secretaría de Gobierno.
 
 ## TRANSITORIOS
 
@@ -148,3 +160,13 @@ P.O. 1 DE AGOSTO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto
+
+P.O. 6 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 81 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, 4, 5, 10 Y 12 DE LA LEY QUE CREA EL “PREMIO CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por única ocasión el premio a que se refiere el presente decreto en su edición 2025, se entregará el día 8 de mayo de dicha anualidad.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
