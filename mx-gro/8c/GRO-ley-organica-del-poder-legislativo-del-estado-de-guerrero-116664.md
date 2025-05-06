@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2024-06-21"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -1433,7 +1433,9 @@ IV. Elaborar y en su caso, modificar, las leyes locales cuya expedición haga ob
 
 V. Legislar en materia de división territorial del Estado a fin de crear, suprimir o fusionar municipalidades o distritos judiciales, aumentar o disminuir sus respectivos territorios, anexándoles o segregándoseles pueblos o localidades para una mejor administración general, mediante iniciativa del Titular del Poder Ejecutivo o del Tribunal Superior de Justicia, según corresponda;
 
-VI. Otorgar las Preseas "Sentimientos de la Nación" y "Eduardo Neri", en los términos establecidos por esta Ley Orgánica;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
+
+VI. Otorgar las Preseas “Sentimientos de la Nación”, “Eduardo Neri” y “Faustina Benítez”, en los términos establecidos por esta Ley Orgánica;
 
 VII. Legislar sobre el Municipio Libre sujetándose a lo establecido por el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -3775,7 +3777,9 @@ V. Sustanciar el procedimiento y aprobar la erección de nuevos Municipios en el
 
 VI. Sustanciar el procedimiento especial en materia de derechos humanos;
 
-VII. Otorgar las preseas "Sentimientos de la Nación" y "Eduardo Neri Reynoso", y reconocimientos a personas e instituciones;
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
+
+VII. Otorgar las preseas “Sentimientos de la Nación”, “Eduardo Neri” y “Faustina Benítez”, y reconocimientos a personas e instituciones;
 
 VIII. Analizar y aprobar el Plan Estatal de Desarrollo;
 
@@ -4023,7 +4027,9 @@ La Comisión Legislativa de Derechos Humanos, si lo considera necesario, someter
 
 Desahogada la comparecencia y analizadas las constancias del expediente, la Comisión Ordinaria de Derechos Humanos del Congreso del Estado formulará sus conclusiones por escrito ante el Pleno y se dará vista con ellas, en su caso, a las autoridades competentes.
 
-### CAPÍTULO OCTAVO. DE LAS PRESEAS SENTIMIENTOS DE LA NACIÓN Y EDUARDO NERI REYNOSO, DEL MURO DE HONOR DEL RECINTO Y DE LOS RECONOCIMIENTOS ESPECIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2025)</small>
+
+### CAPÍTULO OCTAVO. DE LAS PRESEAS SENTIMIENTOS DE LA NACIÓN, EDUARDO NERI REYNOSO Y FAUSTINA BENÍTEZ, DEL MURO DE HONOR DEL RECINTO Y DE LOS RECONOCIMIENTOS ESPECIALES
 
 #### SECCIÓN I. DISPOSICIONES PRELIMINARES
 
@@ -4062,6 +4068,16 @@ La Presea "Sentimientos de la Nación" se otorgará por lo menos cada tres años
 II.- Eduardo Neri Reynoso.-Esta Presea reconoce el trabajo de Diputados Guerrerenses, locales o federales, que se hayan distinguido por su trabajo legislativo y su aportación a la construcción del marco jurídico de la Nación y del Estado de Guerrero.
 
 La Presea Eduardo Neri Reynoso será concedida por lo menos una vez cada tres años, el día trece de octubre, en el marco de la conmemoración del natalicio del distinguido guerrerense.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2025)</small>
+
+III.- “Faustina Benítez”. Esta presea se otorgará preferentemente a mujeres que hayan destacado en lucha social o activismo por el reconocimiento y defensa de los derechos de las niñas y mujeres, principalmente, en el estado de Guerrero.
+
+La Presea “Faustina Benítez”, podrá ser elaborada bajo un diseño que se obtenga a través de un concurso abierto, mismo que deberá ser aprobado por el Comité seleccionador y que atenderá como mínimo a las características siguientes: medalla circular de bronce bañada en oro con 10 centímetros de diámetros (sic), con una imagen de Faustina Benítez al centro y la inscripción “Presea Faustina Benítez”, en el perímetro de la medalla está inscrito colocando el año en la cual se entregará la presea.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, P.O. 6 DE MAYO DE 2025.]</small>
+
+La Presea "Faustina Benítez" será concedida cada tres años, el día 15 de febrero, en sesión solemne del H. Congreso del Estado en el Municipio de Coyuca de Benítez, Guerrero.
 
 En las Sesiones donde se otorguen dichas Preseas, se contará con la presencia de los Poderes Ejecutivo y Judicial del Estado.
 
@@ -4838,3 +4854,13 @@ Remítase este Decreto a la Gobernadora del Estado Libre y Soberano de Guerrero,
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto para su conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación.
+
+P.O. 6 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero, para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero y los efectos legales conducentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
