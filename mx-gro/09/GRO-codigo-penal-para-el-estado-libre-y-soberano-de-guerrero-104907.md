@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-04-29"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -4537,7 +4537,9 @@ Si el responsable de los delitos previstos en este artículo es un defensor de o
 
 Encubrimiento por favorecimiento
 
-Se impondrán de seis meses a tres años de prisión y de veinticinco a ciento cincuenta días multa, a quien después de la ejecución de un delito y sin haber participado en éste:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2025)</small>
+
+Se impondrá de uno a cuatro años de prisión y multa de cincuenta a doscientos veces la Unidad de Medida y Actualización (UMA). A quien después de la ejecución de un delito y sin haber participado en este:
 
 I. Ayude en cualquier forma a la persona inculpada a eludir las investigaciones de la autoridad competente o a sustraerse de la acción de la justicia;
 
@@ -4545,15 +4547,31 @@ II. Oculte o favorezca el ocultamiento de la persona inculpada del delito, u ocu
 
 III. Oculte o asegure para la persona inculpada, el instrumento, objeto, producto o provecho del delito;
 
-IV. A quien requerido por la autoridad, no proporcione la información de que disponga para la investigación del delito, o para la aprehensión o detención de la persona inculpada, o
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2025)</small>
+
+IV. A quien, requerido por la autoridad, no proporcione la información de que disponga para la investigación del delito, o para la aprehensión o detención de la persona inculpada, o
 
 V. No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que sabe van a cometerse o se están cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este artículo o en otras normas aplicables.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2025)</small>
+
+Las sanciones previstas en el párrafo primero de este artículo, no serán aplicables cuando el infractor que se oculte sea responsable de un delito grave.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2025)</small>
+
+El juez, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado de encubrimiento del responsable de delitos graves, impondrá una pena de cuatro a diez años de prisión y multa de doscientas a quinientas veces la Unidad de Medida y Actualización (UMA).
+
 ###### Artículo 326.
 
-Causas de exclusión del procedimiento
+Causas de exclusión del procedimiento.
 
-No se procederá contra quien oculte a la persona inculpada de cometer un delito o impida que se averigüe, siempre que la persona tenga la calidad de defensor, ascendiente o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, cónyuge, concubina o concubinario o persona ligada con la persona inculpada por amor, respecto, gratitud o estrecha amistad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2025)</small>
+
+No se procederá contra quien oculte a la persona inculpada de cometer un delito o impida que se averigüe, siempre que la persona tenga la calidad de defensor, ascendientes (sic) o descendiente consanguíneo en línea recta o colateral hasta el cuarto grado, cónyuge, concubina o concubinario o persona ligada con la persona inculpada por amor, respecto (sic), gratitud o estrecha amistad.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2025)</small>
+
+Las absolutorias previstas en el párrafo anterior, no serán aplicables cuando el infractor que se oculte sea responsable de un delito grave.
 
 ## Título Vigésimo. Delitos cometidos en el ejercicio de la profesión
 
@@ -5564,3 +5582,13 @@ PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su pub
 SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+
+P.O. 6 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 213 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO, SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 325, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 326, AMBOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
