@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2025-04-23"
+last_updated: "2025-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -759,6 +759,10 @@ Además, realizarán programas de reforestación en todo el Estado, dicho progra
 
 En la planeación y realización de acciones que promuevan el desarrollo sustentable del Estado, a cargo de las dependencias y entidades estatales y municipales, conforme a sus respectivas competencias, se observarán los principios de política ambiental y los criterios ambientales para la promoción del desarrollo local sustentable.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2025)</small>
+
+Promover la implementación y construcción de un huerto-escuela en las escuelas públicas y privadas de nivel básico a nivel medio superior con el objetivo de la recuperación de un espacio en estado de abandono y deterioro, y rehabilitarlo como un modelo agroecológico, con fines didácticos y demostrativos para que los niños y jóvenes comprendan el manejo de los espacios ambientales, así como la importancia de la agricultura para un mejoramiento en el medio ambiente.
+
 ###### Artículo 23.
 
 Para efectos del otorgamiento de estímulos fiscales, crediticios o financieros por parte del Estado, se considerarán prioritarias las actividades relacionadas con la conservación y restauración de los ecosistemas, la protección del ambiente y el aprovechamiento sustentable de los recursos naturales.
@@ -1172,6 +1176,10 @@ IV. Que las instituciones de educación superior en el Estado y los organismos d
 V. La integración y ejecución de investigaciones científicas y sociales, además de programas para el desarrollo de técnicas y procedimientos, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento de los recursos y proteger los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones de los sectores social y privado, investigadores y especialistas; y,
 
 VI. La promoción de actividades que modifican los hábitos de consumo orientados hacia la responsabilidad socio-ambiental.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2025)</small>
+
+VII. Se promoverá en las escuelas públicas y privadas de nivel básico a nivel medio superior la Educación Ambiental para crear una concientización a los individuos para sopesar los distintos lados de la problemática ambiental en nuestro Estado, que mediante el pensamiento crítico y acciones se logre estimular sus propias habilidades para resolver los problemas ambientales de su entorno.
 
 ###### Artículo 66.
 
@@ -3084,3 +3092,9 @@ P.O. 23 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 155 POR EL QUE "SE ADICIONAN EN SUS ÓRDENES SUBSECUENTES LAS FRACCIONES XIX BIS Y XXVIII BIS DEL ARTÍCULO 4°, EL ÚLTIMO PÁRRAFO AL ARTÍCULO 162 BIS; Y, EL ARTÍCULO 162 TER DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 156 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 22; Y, UNA FRACCIÓN VII AL ARTÍCULO 65 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
