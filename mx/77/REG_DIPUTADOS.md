@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2024-05-02"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2025.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -70,9 +70,13 @@ X. Ley: La Ley Orgánica del Congreso General de los Estados Unidos Mexicanos;
 
 XI. Mesa Directiva: La Mesa Directiva de la Cámara de Diputados;
 
-XII. Presidente: La Diputada o Diputado que preside la Mesa Directiva de la Cámara de Diputados;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2025)</small>
 
-XIII. Presidente de la Junta Directiva: La Diputada o Diputado que preside el órgano de dirección de la comisión o comité;
+XII. Presidencia: La Diputada o Diputado que preside la Mesa Directiva de la Cámara de Diputados;
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2025)</small>
+
+XIII. Presidencia de la Junta Directiva: La Diputada o Diputado que preside el órgano de dirección de la comisión o comité;
 
 XIV. Reglamento: El Reglamento de la Cámara de Diputados;
 
@@ -500,6 +504,10 @@ V. Para ocupar un cargo dentro de su partido político.
 
 6. Los Secretarios de Estado ocuparán el lugar que les asigne la Mesa Directiva.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2025)</small>
+
+7. La Presidencia designará comisiones de cortesía, conformadas por una diputada o diputado, integrante de cada grupo parlamentario, que acompañarán a su entrada y salida, hasta la puerta exterior del Salón de Sesiones, a las diputadas y diputados que se presenten a rendir protesta, a servidoras y servidores públicos e invitadas o invitados especiales, que asistan a una sesión.
+
 ###### Artículo 30.
 
 1. En el caso de reuniones interparlamentarias con legisladores de otras naciones o de organismos binacionales o multilaterales, así como en reuniones con jefes de Estado o de gobierno de otros países, sólo con el acuerdo de la Junta se podrá hacer uso del Salón de sesiones o de otro espacio que se considere adecuado para ello, dentro del Recinto.
@@ -872,9 +880,9 @@ I. La Secretaría presentará el asunto al Pleno,
 
 II. El Presidente, atendiendo el tema de cada asunto, informará al Pleno de su envío a la comisión o comisiones que corresponda, señalando para qué efectos se turna, y
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2025)</small>
 
-III. La Secretaría hará constar por escrito el trámite y lo cumplimentará dentro de las setenta y dos horas siguientes. Para este efecto bastará la firma de un Secretario.
+III. La Secretaría hará constar el trámite el mismo día, en un sistema electrónico de gestión de turno y lo cumplimentará por escrito dentro de las setenta y dos horas siguientes. Para este efecto bastará la firma de un Secretario.
 
 ###### Artículo 67.
 
@@ -2710,19 +2718,15 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 ###### Artículo 183.
 
-1. La comisión que considere conveniente prorrogar la decisión del asunto turnado, deberá hacer la solicitud al Presidente, por conducto de su Junta Directiva, dentro del término para dictaminar, establecido en el artículo anterior.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+1. La comisión que considere conveniente prorrogar la decisión del asunto turnado, lo deberá acordar a través de su Junta Directiva, dentro del término para dictaminar, establecido en el artículo anterior e informar a la Mesa Directiva.
 
-2. La Mesa Directiva deberá resolver las solicitudes de prórroga, considerando las circunstancias y argumentos de la petición. En caso de otorgarse, las comisiones tendrán hasta cuarenta y cinco días más, contados a partir del día siguiente en que se hubiese cumplido el término. No podrá haber más de una prórroga.
+2. (DEROGADO, D.O.F. 7 DE MAYO DE 2025)
 
-> <small>(ADICIONADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+3. (DEROGADO, D.O.F. 7 DE MAYO DE 2025)
 
-3. La solicitud que realice la comisión, así como el acuerdo por el que la Mesa Directiva resuelva, serán publicados en la Gaceta.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
-
-4. Las solicitudes de prórroga no procederán tratándose de iniciativas con trámite preferente.
+4. (DEROGADO, D.O.F. 7 DE MAYO DE 2025)
 
 ###### Artículo 184.
 
@@ -2734,7 +2738,7 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 ###### Artículo 185.
 
-1. Cuando se trate de asuntos que por su naturaleza requieran de un plazo distinto, la comisión deberá solicitar a la Mesa Directiva, por conducto de su Junta Directiva, dentro del término para dictaminar, el tiempo necesario para la formulación del dictamen. En la solicitud se establecerán las circunstancias y argumentos para tal fin.
+(DEROGADO, D.O.F. 7 DE MAYO DE 2025)
 
 ###### Artículo 186.
 
@@ -3202,9 +3206,9 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 2. El Presidente deberá elaborar listas de oradores a favor y en contra, que leerá completas antes de iniciar la discusión.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2025)</small>
 
-3. Los oradores harán uso de la palabra alternadamente hasta por tres minutos, y procederá la votación de cada reserva después de su presentación.
+3. Los oradores harán uso de la palabra alternadamente hasta por cinco minutos, y procederá la votación de cada reserva después de su presentación.
 
 4. El Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido, cuando haya concluido la segunda ronda. En caso afirmativo, se procederá a la votación, en caso negativo, se leerá la lista de los oradores aún inscritos en ambos sentidos y continuará el desahogo de la siguiente ronda en los términos expuestos. Concluida la discusión se procederá a la votación.
 
@@ -3228,17 +3232,13 @@ I. Las diputadas o diputados que pretendan la interposición de una demanda de c
 
 II. La Junta deberá acordar y solicitar a la Mesa Directiva, que el Área Jurídica de la Cámara, emita en un plazo no mayor de cinco días, una opinión técnica sobre los argumentos para la procedencia o improcedencia de la misma. Este plazo no se aplicará cuando este por vencerse el término constitucional para su formulación;
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 2025)</small>
 
-III. La Junta dará a conocer el proyecto de demanda anexando la opinión técnica, la cual deberá entregarse a todas las diputadas y los diputados, en versión electrónica o impresa para los diputados y diputadas que lo soliciten al menos veinticuatro horas antes de su discusión y votación en el Pleno, y
+III. Una vez que se emita la opinión jurídica sobre la demanda, la Junta analizará y resolverá mediante el sistema de voto ponderado de sus integrantes. De lograrse la mayoría, se dará curso ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días después de haber sido votada.
 
-> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+IV. (DEROGADA, D.O.F. 7 DE MAYO DE 2025)
 
-IV. Si el Pleno aprueba su presentación, el Presidente deberá dar curso en tiempo y forma ante la Suprema Corte de Justicia de la Nación, en ningún caso tardará más de tres días después de haber sido votada.
-
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
-
-2. Sin perjuicio de lo dispuesto en los párrafos anteriores, el Presidente podrá por sí mismo, en uso de la representación originaria que ostenta de la Cámara, como lo dispone el artículo 23, numeral 1, inciso l), de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, presentar demanda de controversia constitucional cuando lo estime necesario para defender los intereses de ésta, aún en los períodos de receso.
+2. (DEROGADO, D.O.F. 7 DE MAYO DE 2025)
 
 ### CAPITULO V. De las Acciones de Inconstitucionalidad
 
@@ -4224,17 +4224,25 @@ V. Anunciado el resultado de una votación, ésta no podrá modificarse por ning
 
 1. Los órganos de gobierno, las comisiones ordinarias, comités y demás órganos legislativos, así como sus Juntas Directivas podrán realizar en todo momento y, a convocatoria de su respectiva Presidencia, con el acuerdo de su Junta Directiva, sus reuniones en la modalidad semipresencial, con el quórum establecido en el presente Reglamento, ya sea que las diputadas y los diputados concurran de manera física al lugar donde se cite la reunión o de forma telemática utilizando la Plataforma Digital.
 
-2. Las convocatorias a reuniones ordinarias o extraordinarias deberán publicarse en la Gaceta Parlamentaria y se remitirán por vía electrónica al correo institucional de la diputada y del diputado que conformen la comisión o comité u órgano legislativo respectivo, con la anticipación que establece el Reglamento.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2025)</small>
 
-3. En caso de que una diputada o un diputado concurra de manera telemática, lo comunicará por vía electrónica al Presidente de la comisión o comité u órgano legislativo, para que le sea proporcionada la contraseña de acceso a la reunión por vía telemática.
+2. Las convocatorias a reuniones ordinarias o extraordinarias deberán publicarse en la Gaceta y se remitirán por vía electrónica al correo institucional de la diputada y del diputado que conformen la comisión o comité u órgano legislativo respectivo, con la anticipación que establece el Reglamento.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2025)</small>
+
+3. En caso de que una diputada o un diputado decida asistir, de manera telemática, lo comunicará, por vía electrónica, a la Presidencia de la comisión o comité u órgano legislativo, para que, el equipo técnico autorizado para ello, proporcione el usuario y la contraseña de acceso a la reunión convocada en modalidad semipresencial.
 
 > <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 313.
 
-1. La votación de los dictámenes que se aborden en la reunión respectiva se realizará mediante firma autógrafa para las diputadas y los diputados que concurran de manera física a la misma, y mediante la Plataforma Digital para los que concurran de manera telemática, garantizando, en todo momento, la inclusión de las Firmas Electrónicas al dictamen que en cualquier sentido se vote, mismas que deberán adjuntarse al dictamen que se remita a la Mesa Directiva y se publique en la Gaceta Parlamentaria. De toda asistencia y votación la Secretaría Técnica de la comisión o comité u órgano legislativo generará un registro electrónico para debida constancia en la propuesta de acta que realice la Secretaría de la Junta Directiva.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2025)</small>
 
-2. Las Secretarías Técnicas elaborarán un reporte de resultados de las votaciones, en donde consten los votos registrados presencialmente, los emitidos por medio de la Plataforma Digital y, en su caso, los que se emitan de viva voz, cuando ésta no se pueda utilizar por las diputadas y los diputados que concurran de manera remota, así como el sentido de cada voto. Cada asunto que se remita a la Mesa Directiva deberá contar con el mismo para poder ser procesado.
+1. La votación de los dictámenes que se discutan en la reunión respectiva, se realizará a través de la Plataforma Digital, garantizando, en todo momento, la inclusión de las Firmas Electrónicas al dictamen que se remita a la Mesa Directiva y se publique en la Gaceta. La Secretaría Técnica, de la comisión o comité u órgano legislativo, generará un registro electrónico de todas las asistencias y votaciones para debida constancia en la propuesta de acta que realice la Secretaría de la Junta Directiva.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2025)</small>
+
+2. Las Secretarías Técnicas elaborarán un reporte de resultados de las votaciones, en donde consten los votos emitidos por medio de la Plataforma Digital y, en su caso, los que se emitan de viva voz, cuando ésta no se pueda utilizar por las diputadas y los diputados, así como el sentido de cada voto. Todos los asuntos que tengan una votación nominal y que se remitan a la Mesa Directiva deberán acompañarse con el reporte de resultados y la lista de asistencia respectivos, para poder ser procesados.
 
 3. Las Secretarías Técnicas videograbarán las reuniones, que se celebren por la Plataforma Digital de videoconferencia, a efecto de contar con un respaldo de la participación, asistencia y registro de la emisión del voto de sus integrantes y, de esta manera darle certeza jurídica a las mismas. Una copia de la videograbación se entregará a la brevedad a la Mesa Directiva, como parte del expediente del asunto legislativo correspondiente.
 
@@ -4593,3 +4601,9 @@ D.O.F. 2 DE MAYO DE 2024.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se abrogan los Criterios para Inscripciones de Honor de la Cámara de Diputados, publicados en el Diario Oficial de la Federación, el 3 de octubre de 2011.
+
+D.O.F. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE LENGUAJE INCLUSIVO Y OPTIMIZACIÓN DE TRÁMITES Y PROCEDIMIENTOS PARLAMENTARIOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
