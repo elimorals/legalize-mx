@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2025-02-13"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -769,9 +769,11 @@ En todo caso, la sanción deberá registrarse en las bases de datos y de persona
 
 ### Capítulo III. Del Escalafón Jerárquico, Reconocimientos y Estímulos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2025)</small>
+
 ###### Artículo 37.
 
-El personal que labora en la Secretaría estará sujeto al escalafón jerárquico correspondiente dentro de las categorías de escala siguientes:
+La Secretaría estará a cargo del Secretario, quien tendrá el mando de las Instituciones policiales; el personal que labora estará sujeto al escalafón jerárquico correspondiente dentro de las categorías de escala siguientes:
 
 I. Básica.
 
@@ -781,19 +783,31 @@ III. Inspectores.
 
 IV. Comisarios.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+
 ###### Artículo 38.
 
 El escalafón jerárquico estará compuesto por los grados siguientes:
 
-I. Comisarios:
+I. Secretario:
+
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 7 DE MAYO DE 2025, PÁGINA 29.]</small>
+
+II. Comisarios:
 
 a) Comisario General.
 
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 7 DE MAYO DE 2025, PÁGINA 29.]</small>
+
 b) Comisario Jefe.
+
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 7 DE MAYO DE 2025, PÁGINA 30.]</small>
 
 c) Comisario.
 
-II. Inspectores:
+> <small>[N. DE E. VÉASE IMAGEN EN EL P.O. DE 7 DE MAYO DE 2025, PÁGINA 30.]</small>
+
+III. Inspectores:
 
 a) Inspector General.
 
@@ -801,7 +815,7 @@ b) Inspector Jefe.
 
 c) Inspector.
 
-III. Oficiales:
+IV. Oficiales:
 
 a) Subinspector.
 
@@ -809,7 +823,7 @@ b) Oficial.
 
 c) Suboficial
 
-IV. Escala Básica:
+V. Escala Básica:
 
 a) Policía Primero.
 
@@ -1366,3 +1380,13 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarqu�
 Artículo Tercero.- La persona titular de la Secretaría de Seguridad del Pueblo, deberá someter a consideración de la persona Titular del Poder Ejecutivo, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, las adecuaciones normativas requeridas, para su aprobación, expedición y publicación correspondiente.
 
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, a la entrada en vigor del presente Decreto, realizarán de inmediato las acciones necesarias para su cumplimiento.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan a lo establecido en el presente Decreto.
+
+Artículo Tercero.- Las disposiciones contenidas en el presente Decreto, no conllevan el otorgamiento de remuneraciones extraordinarias; por lo que, cada policía operativo mantendrá la categoría nominal con la que se encuentra dado de alta y acorde a los Manuales de Instrucciones y Dictámenes de Integración de las Plazas, que administrativa y jurídicamente se encuentran vigentes y validadas por la Secretaría de Finanzas.
