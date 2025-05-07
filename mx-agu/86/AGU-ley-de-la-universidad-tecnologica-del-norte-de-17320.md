@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-del-norte-de-17320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2024-05-13"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 
@@ -147,13 +147,17 @@ II. Dos representantes del Gobierno del Estado, designados por el titular del Po
 
 III. Tres representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
-IV. Un representante del Ayuntamiento de cada uno de los Municipios en donde se encuentre ubicado un campus de la Universidad Tecnológica del Norte de Aguascalientes, los cuales serán designados por cada uno de los respectivos cabildos; y
+IV. Un representante del Ayuntamiento de cada uno de los Municipios en donde se encuentre ubicado un campus de la Universidad Tecnológica del Norte de Aguascalientes, los cuales serán designados por cada uno de los respectivos cabildos;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
-V. Dos representantes del sector productivo y uno del sector social del Estado, a invitación del titular del Poder Ejecutivo Estatal.
+V. Dos representantes del sector productivo y uno del sector social del Estado, a invitación del titular del Poder Ejecutivo Estatal; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+VI. Un representante de la Comisión de Educación y Cultura del Poder Legislativo del Estado de Aguascalientes.
 
 ###### ARTICULO 6o.
 
@@ -570,3 +574,11 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 162.- SE REFORMA LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
