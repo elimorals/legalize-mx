@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-05-05"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -247,13 +247,21 @@ XXXV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de l
 
 XXXVI. Sistema Nacional de Protección: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
-XXXVII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte; y
+XXXVII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
-XXXVIII. Trastornos Específicos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas.
+XXXVIII. Trastornos Específicos del Aprendizaje: Dificultad específica y persistente que interfiere en el aprendizaje de habilidades académicas;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XXXIX. Mínima intervención: el que cuando niñas, niños y adolescentes participen en procedimientos judiciales, como víctimas o testigos, lo sean el menor número de veces posible, siempre y cuando se haga fuera del horario escolar; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XL. No revictimización: el que cuando niñas, niños y adolescente (sic) participen en procedimientos judiciales como víctimas o testigos, las personas juzgadoras deban tomar las medidas necesarias para evitar su revictimización; las cuales se deberán guiar por el criterio de más beneficio, la atención de sus necesidades y el contexto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2023)</small>
 
@@ -299,17 +307,25 @@ XIII. El acceso a una vida libre de violencia;
 
 XIV. La accesibilidad;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE MAYO DE 2025)</small>
 
 XV. La unidad familiar;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
-XVI. El derecho al adecuado desarrollo evolutivo de la personalidad; y
+XVI. El derecho al adecuado desarrollo evolutivo de la personalidad;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MAYO DE 2025)</small>
 
-XVII. La perspectiva de género.
+XVII. La accesibilidad;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVIII. Mínima intervención; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XIX. No revictimización.
 
 El interés superior es el principio rector, en virtud del cual el Estado debe tomar las decisiones y realizar las actuaciones para la protección de los derechos de niñas, niños y adolescentes, en cuyo caso quien ejerza la patria potestad, tutela, guarda y custodia, tendrán el derecho de acceder a la información integral de dichas decisiones y actuaciones.
 
@@ -3326,3 +3342,11 @@ P.O. 5 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 159.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
