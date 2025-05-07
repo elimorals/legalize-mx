@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2024-12-16"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -1611,9 +1611,11 @@ El IDEA, promoverá en coordinación con el IEA, el desarrollo e investigación 
 
 El IDEA, coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2025)</small>
+
 ###### Artículo 109.
 
-Los deportistas integrantes del SIEDE tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
+Las personas deportistas integrantes del SIEDE tendrán derecho a recibir atención médica, y psicológica deportiva. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1623,15 +1625,17 @@ En el caso, los deportistas, los entrenadores e instructores que integren el pad
 
 Las instituciones y organizaciones de los sectores social y privado están obligadas a prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+
 ###### Artículo 111.
 
-Las instituciones del sector salud y educativo promoverán en su respectivo ámbito de competencia, programas de atención médica para deportistas, formación y actualización de especialistas en medicina del deporte y ciencias aplicadas, así como para la investigación científica.
+Las instituciones del sector salud y educativo promoverán en su respectivo ámbito de competencia, programas de atención médica y psicológica para las personas deportistas, formación y actualización de especialistas en medicina y psicología del deporte en ciencias aplicadas, así como para la investigación científica.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
 ###### Artículo 112.
 
-La Secretaría de Salud y el IDEA procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina y demás ciencias aplicadas al deporte.
+La Secretaría de Salud y el IDEA procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones y afecciones psicológicas derivadas de la práctica deportiva, así como proporcionar servicios especializados y de alta calidad en medicina, psicología del deporte y demás ciencias aplicadas al deporte.
 
 ###### Artículo 113.
 
@@ -2376,3 +2380,11 @@ P.O. 16 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 158.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
