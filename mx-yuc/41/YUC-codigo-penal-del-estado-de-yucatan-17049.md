@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2024-08-05"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -4723,6 +4723,8 @@ BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuaren
 
 ### CAPÍTULO VI. ABORTO
 
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 388.
 
 Se impondrá sanción de tres meses hasta dos años de prisión y de dos a veinte días-multa:
@@ -4741,45 +4743,53 @@ Si de las agresiones mencionadas resultaren una o más lesiones, se observarán 
 
 ###### ARTÍCULO 389.
 
-Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
+Aborto es la interrupción del embarazo en cualquier momento antes de su conclusión.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+Para efectos de este Código se entenderá por persona gestante a toda aquella con capacidad de gestar.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 390.
 
-A quien hiciere abortar a una mujer, se le aplicará de uno a cinco años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella; cuando faltare éste, la prisión será de tres a ocho años y si se empleare violencia física o moral, se impondrá al imputado de seis a nueve años de prisión.
+Se impondrá de tres meses a un año de prisión o de cincuenta días a doscientos días de trabajo a favor de la comunidad, a la mujer o persona gestante que voluntariamente procure su aborto o consienta que otro la haga abortar posterior a la conclusión de la doceava semana de embarazo.
+
+Al que hiciere abortar a una mujer o persona gestante con consentimiento de ella posterior a la conclusión de la doceava semana de gestación se le aplicará la misma pena que el párrafo anterior. Si esta persona fuera personal de la salud o se ostentase como tal, la sanción será de uno a dos años de prisión, además, se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta, que se computarán una vez que concluya la pena privativa de la libertad.
+
+En estos casos no será punible la tentativa.
+
+En caso de no acreditarse el delito de aborto, este no podrá ser reclasificado por el delito de homicidio en razón del parentesco o relación.
+
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 391.
 
-Si el aborto lo causare un médico, cirujano, comadrón o partero, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá, en su caso, de dos a cinco años en el ejercicio de su profesión.
+Aborto forzado es la interrupción del embarazo en cualquier momento de este, sin el consentimiento de la mujer embarazada o de la persona gestante.
 
-A quien habitualmente se hubiere dedicado a la práctica de abortos, se le privará del ejercicio de su profesión u oficio.
+A quien realice un aborto forzado a una mujer embarazada o persona gestante, por cualquier medio que emplease se le aplicará de cinco a diez años de prisión, y si mediare violencia física, psicológica, emocional o moral, se le impondrá de nueve a quince años de prisión.
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+Si el aborto forzado lo causare un médico, cirujano, comadrón o partero, enfermero o practicante, además de las sanciones que le correspondan se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta, que se computarán una vez que concluya la pena privativa de la libertad.
+
+El delito de aborto forzado podrá ser sancionado en grado de tentativa, en los términos dispuestos por este Código.
 
 ###### ARTÍCULO 392.
 
-Se impondrá de tres meses a un año de prisión, a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar.
+(DEROGADO, D.O. 7 DE MAYO DE 2025)
 
-Tratándose de las sanciones a que se refiere este artículo, aplicables a la mujer que se procure su aborto, el juez queda facultado para sustituirlas por un tratamiento médico integral; bastará que lo solicite y ratifique la responsable.
-
-El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto la atención integral de las consecuencias generadas con motivo de la práctica del aborto provocado.
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 393.
 
-El aborto no es sancionable en los siguientes casos:
+Se considerarán excluyentes del delito de aborto:
 
-I. Cuando sea causado por acto culposo de la mujer embarazada;
+I. Cuando sea causado por acto culposo de la mujer embarazada o la persona gestante.
 
-> <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
+II. Cuando el embarazo sea el resultado de una violación o de una inseminación artificial no consentida en términos del artículo 394 Bis de este código.
 
-II.- Cuando el embarazo sea el resultado de una violación o de una inseminación artificial no consentida en términos del artículo 394 Bis de este código;
+III. Cuando de no provocarse el aborto, la mujer embarazada o la persona gestante corra peligro de muerte.
 
-III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico siempre que esto fuere posible y no sea peligrosa la demora;
+IV. Cuando el aborto obedezca a causas de precariedad económica.
 
-IV. Cuando el aborto obedezca a causas económicas graves y justificadas y siempre que la mujer embarazada tenga ya cuando menos tres hijos, y
-
-V. Cuando se practique con el consentimiento de la madre y del padre en su caso y a juicio de dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
+V. Cuando se practique con el consentimiento de la mujer embarazada o la persona gestante, y exista dictamen médico especializado que manifieste razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
 ### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
 
@@ -6072,3 +6082,15 @@ D.O. 5 DE AGOSTO DE 2024.
 PRIMERO.- Publíquese el presente decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 72/2025 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE DESPENALIZACIÓN DEL ABORTO EN LAS PRIMERAS DOCE SEMANAS DE GESTACIÓN".]
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación Expresa
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
