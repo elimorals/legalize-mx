@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-01-13"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -15021,6 +15021,18 @@ El poder supremo de las asociaciones reside en la asamblea general. El director 
 
 Será aplicable a las asociaciones lo dispuesto en el artículo 2588; y cuando no haya director nombrado, cualquiera que tenga interés en que se haga la designación podrá exigirlo así, pudiendo hacerla el juez en caso de urgencia, para el negocio que lo requiera y entretanto no la hagan los asociados.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2025)</small>
+
+###### Artículo 2548-A.
+
+Las asambleas podrán celebrarse de forma presencial, por videoconferencia o de manera híbrida, siempre que así se prevea y reglamente en los Estatutos de la asociación.
+
+Las asambleas presenciales son aquellas que requieren la presencia física de los miembros en un domicilio determinado. Las asambleas por videoconferencia son aquellas en las que los asociados participan exclusivamente a través de medios electrónicos o plataformas digitales. Por último, las asambleas híbridas son aquellas en las que se convoca una reunión presencial, permitiendo a los asociados asistir de manera física o participar a través de medios electrónicos o plataformas digitales.
+
+Los asociados podrán celebrar asambleas por medio de videoconferencia o de forma híbrida, que permita la comunicación en tiempo real, siempre y cuando la convocatoria señale el medio electrónico por el cual se celebrará, indicando la dirección electrónica o número de la reunión y, en su caso, la contraseña.
+
+La reunión deberá grabarse y conservarse por la administración de la asociación y una copia de la grabación se agregará al acta respectiva. Se levantará por escrito o en documento electrónico y será firmada de manera autógrafa o firma electrónica avanzada.
+
 ###### Artículo 2549.
 
 La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por lo menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el Juez de lo Civil a petición de dichos asociados.
@@ -15043,7 +15055,9 @@ V.- Sobre los demás asuntos que le encomienden los estatutos.
 
 Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día.
 
-Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+
+Sus decisiones serán tomadas a mayoría de votos de los miembros que asistan a las asambleas.
 
 ###### Artículo 2552.
 
@@ -18150,3 +18164,11 @@ P.O. 13 DE ENERO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 161.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
