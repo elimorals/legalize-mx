@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2024-12-31"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2025 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -129,15 +131,13 @@ Los órganos de control interno, en ejercicio de su función de auditoría, se r
 
 La coordinación con la Administración Pública Federal, respecto de la planeación, programación, presupuestación y ejecución de los programas y proyectos de inversión, cuando proceda, se realizará a través de los órganos del Consejo de Planeación y Evaluación del Estado de Yucatán.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
 
 ###### Artículo 10.
 
-Las políticas generales en materia de administración y desarrollo de personal y prestación del servicio social en las dependencias y entidades de la administración pública serán formuladas, aplicadas y coordinadas por la Secretaría de Administración y finanzas, la cual en lo que respecta a la contratación de personal para ocupar los puestos vacantes o de nueva creación, destinará cuando menos al 3 por ciento de aquellas, a personas con alguna discapacidad, debiendo existir la disponibilidad y la solicitud para ocupar la misma, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
+Las políticas generales en materia de administración y desarrollo de personal y prestación del servicio social en las dependencias y entidades de la administración pública serán formuladas, aplicadas y coordinadas por la Secretaria de Administración y Finanzas, la cual en lo que respecta a la contratación de personal para ocupar los puestos vacantes o de nueva creación, destinará cuando menos al 3 por ciento de aquellas, a personas con alguna discapacidad, así como el 2 por ciento a las personas adultas mayores, debiendo existir la disponibilidad y la solicitud para ocupar la misma, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
 
-> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-Para los efectos del párrafo anterior, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de Ley General para la Inclusión de las Personas con Discapacidad.
+Para los efectos del párrafo anterior, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de (sic) Ley General para la Inclusión de las Personas con Discapacidad, y por persona adulta mayor lo dispuesto por el artículo 3 fracción I de la Ley de los Derechos de las Personas Adultos (sic) Mayores.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
@@ -4088,3 +4088,15 @@ El Gobernador, en la elaboración del proyecto de presupuesto de egresos, deber�
 Décimo cuarto. Titulares de las dependencias
 
 Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, el Secretario de Fomento Económico y Trabajo y la Secretaría de Investigación, Innovación y Educación Superior, que hasta antes de la entrada en vigor de este decreto se desempeñaban como tales, continuarán como Secretario de Economía y Trabajo y Secretaría de Ciencia, Humanidades, Tecnología e Innovación, respectivamente, a partir de la entrada en vigor de este decreto y concluirán sus cargos en los términos de sus nombramientos.
+
+D.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 71/2025 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE INCLUSIÓN LABORAL A LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación Expresa
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
