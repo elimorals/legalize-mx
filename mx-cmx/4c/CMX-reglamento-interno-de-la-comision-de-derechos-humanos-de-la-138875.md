@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2025-03-03"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MAYO DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -574,9 +574,13 @@ I. Una Dirección de Atención y Orientación;
 
 II. Una Dirección de Registro y Acciones de Prevención;
 
-III. Una Dirección de Atención Psicosocial;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2025)</small>
 
-IV. Una Dirección de Servicios Médicos y Psicológicos, y
+III. Una Dirección de Atención y Periciales Psicosociales;
+
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2025)</small>
+
+IV. Una Dirección de Servicios Periciales en Derechos Humanos
 
 V. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
 
@@ -590,7 +594,9 @@ I. Atender a las personas que soliciten alguno de los servicios de la Comisión 
 
 II. Atender a las personas peticionarias que acudan o llamen a la Comisión, realizando una entrevista a fin de valorar si del asunto se desprende una posible violación a derechos humanos competencia de este Organismo;
 
-III. Coordinar, realizar y dar seguimiento a las acciones de trabajo social, médicas y psicológicas vinculadas con la atención de las personas peticionarias, posibles víctimas, presuntas víctimas y víctimas que acuden a la Comisión a recibir alguno de los servicios que ésta brinda, cuando sean necesarias o cuando las Visitadurías Generales o la Dirección Ejecutiva de Seguimiento así lo soliciten, de conformidad con la disponibilidad de recursos y las capacidades del Área;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2025)</small>
+
+III. Coordinar, realizar y dar seguimiento a las acciones de trabajo social, médicas, psicológicas y psicosociales vinculadas con la atención de las personas que acuden a la Comisión a recibir alguno de los servicios que ésta brinda y, en su caso, emitir peritajes vinculados con la atención de las personas peticionarias, posibles víctimas, presuntas víctimas y víctimas cuando las Visitadurías Generales o la Dirección Ejecutiva de Seguimiento así lo soliciten, de conformidad con la disponibilidad de recursos y las capacidades del Área;
 
 IV. Valorar y acordar las solicitudes de colaboración o acompañamiento realizadas por instituciones distintas a esta Comisión y por personas peticionarias, cuando la solicitud se circunscriba a las funciones de esta Dirección General;
 
@@ -792,7 +798,7 @@ Para el cumplimiento de sus atribuciones, la Dirección General Jurídica contar
 
 I. Una Dirección de Asuntos Jurídicos;
 
-II. Una Dirección de Procedimientos de Transparencia; y
+II. (DEROGADA, G.O. 7 DE MAYO DE 2025) y
 
 III. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
 
@@ -830,13 +836,19 @@ XII. Sustanciar aquellos procedimientos administrativos de carácter contencioso
 
 XIII. Revisar y validar los convenios y contratos a celebrar por la Comisión;
 
-XIV. Recibir, valorar, registrar y dar trámite a las solicitudes de información pública de ejercicio de los derechos ARCO, a través de la Dirección de Procedimientos de Transparencia, hasta la entrega de la respuesta la persona solicitante; así como coordinar el cumplimiento legal de la política de protección de datos personales del ente;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2025)</small>
 
-XV. Coordinar las acciones para la debida operación de la Dirección de Procedimientos de Transparencia, tanto al interior como al exterior de la Comisión;
+XIV. Recibir, valorar, registrar y dar trámite a las solicitudes de información pública de ejercicio de los derechos ARCO, hasta la entrega de la respuesta (sic) la persona solicitante; así como coordinar el cumplimiento legal de la política de protección de datos personales del ente;
+
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2025)</small>
+
+XV. Coordinar las acciones para la debida operación de la Unidad de Transparencia, tanto al interior como al exterior de la Comisión;
 
 XVI. Revisar la motivación y fundamentación legal de la documentación oficial de la Comisión;
 
-XVII. A través de su titular, de la Dirección de Asuntos Jurídicos y de la Dirección de Procedimientos de Transparencia, expedir y certificar copias de los documentos y constancias que obren en los archivos de las Áreas de la Comisión;
+> <small>(REFORMADA, G.O. 7 DE MAYO DE 2025)</small>
+
+XVII. A través de su titular y de la Dirección de Asuntos Jurídicos, expedir y certificar copias de los documentos y constancias que obren en los archivos de las Áreas de la Comisión;
 
 XVIII. Realizar, a través de su personal, las notificaciones que sean necesarias para el ejercicio de sus funciones;
 
@@ -2465,3 +2477,13 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México el presente Ac
 SEGUNDO. La reforma al Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México aprobada por Acuerdo 04/2025 entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Se instruye a la Dirección General de Administración de la Comisión de Derechos Humanos de la Ciudad de México, que una vez que cobre vigencia citada reforma, realice las gestiones necesarias para que opere el contenido del acuerdo 04/2025 en los demás instrumentos administrativos y legales de organización interna de este Organismo.
+
+G.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 11/2025, APROBADO POR EL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO EN LA CUARTA SESIÓN ORDINARIA CELEBRADA EN FECHA 24 DE ABRIL DE 2025”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México el presente Acuerdo y su anexo.
+
+SEGUNDO. La reforma al Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México aprobada por Acuerdo 11/2025 entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se instruye a la Dirección General de Administración de la Comisión de Derechos Humanos de la Ciudad de México, que una vez que cobre vigencia citada reforma, realice las gestiones necesarias para que opere el contenido del Acuerdo 11/2025 en los demás instrumentos administrativos y legales de organización interna de este Organismo.
