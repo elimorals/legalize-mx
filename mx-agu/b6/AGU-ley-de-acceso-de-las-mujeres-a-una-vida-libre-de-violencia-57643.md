@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2024-08-13"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -255,21 +255,41 @@ VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integ
 
 IX. Empoderamiento de la Mujer: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, libertad, autodeterminación, autonomía y responsabilidad, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE MAYO DE 2025)</small>
 
 X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE MAYO DE 2025)</small>
 
 XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MAYO DE 2025)</small>
 
-XII. Víctima indirecta: Familiares o aquellas personas físicas dependientes de la víctima directa que tengan una relación inmediata con ella; y
+XII. Víctima indirecta: Familiares o aquellas personas físicas dependientes de la víctima directa que tengan una relación inmediata con ella;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 7 DE MAYO DE 2025)</small>
 
 XIII. Daño: Cualquier menoscabo que sufre una persona como consecuencia de la acción u omisión de otra, por si o a través de interpósita persona y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica.
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XIV. La universalidad, la interdependencia, e indivisibilidad de los derechos humanos: Todas las personas son titulares de todos los derechos humanos, ligados unos con otros de tal forma que se deben reconocer, proteger y garantizar de forma integral por todas las autoridades;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XV. La debida diligencia: la obligación por parte de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVI. La interseccionalidad: herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras categorías creando múltiples ejes de diferencias que se intersecan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión o privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVII. La interculturalidad: el enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente validas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVIII. El enfoque diferencial de género: tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad, así como las vulneraciones especificas a sus derechos humanos en tanto pertenecientes a sus grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas.
 
 ###### Artículo 5°.
 
@@ -2080,3 +2100,11 @@ P.O. 13 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 160.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
