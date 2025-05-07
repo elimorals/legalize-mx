@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2025-04-17"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2025 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -2197,17 +2199,17 @@ V.- El índice de contenido.
 
 Para la satisfacción de las necesidades colectivas de los habitantes, cada Ayuntamiento organizará las funciones y medios necesarios a través de una corporación de naturaleza administrativa que se denomina Administración Publica Municipal, cuyo funcionamiento corresponde encabezar de manera directa al Presidente Municipal en su carácter de órgano ejecutivo, quien podrá delegar sus funciones y medios en funcionarios bajo su cargo, en atención al ramo o materia, sin menoscabo de las facultades y atribuciones conferidas al Ayuntamiento.
 
-> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
 
-Los Ayuntamientos destinarán el 3 por ciento de los puestos vacantes y de nueva creación a personas con alguna discapacidad.
+Los Ayuntamientos destinarán el 3 por ciento de los puestos vacantes y de nueva creación a personas con discapacidad, así como un 2 por ciento a personas adultas mayores.
 
 > <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 Para los efectos del párrafo anterior, deberá de existir la disponibilidad y la solicitud para ocupar las mismas, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
 
-> <small>(ADICIONADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
 
-Para los efectos del primer párrafo, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de (sic) Ley General para la Inclusión de las Personas con Discapacidad.
+Para los efectos del primer párrafo, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, y por persona adulta mayor lo dispuesto por el artículo 3 fracción I de la Ley de los Derechos de las Personas Adultos Mayores.
 
 > <small>(ADICIONADO, D.O. 20 DE ENERO DE 2023)</small>
 
@@ -4612,3 +4614,15 @@ Artículo segundo. Las dependencias y entidades correspondientes continuarán ej
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas aquellas disposiciones normativas de igual o menor rango jerárquico en lo que se opongan a lo señalado en este Decreto.
+
+D.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 71/2025 POR EL QUE SE MODIFICA EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE INCLUSIÓN LABORAL A LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación Expresa
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
