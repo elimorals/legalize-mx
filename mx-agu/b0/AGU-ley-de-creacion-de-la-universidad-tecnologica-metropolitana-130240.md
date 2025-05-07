@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-creacion-de-la-universidad-tecnologica-metropolitana-130
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-03"
-last_updated: "2024-05-13"
+last_updated: "2025-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de septiembre de 2018.
 
@@ -241,9 +241,17 @@ V.- El Titular del Instituto de Educación de Aguascalientes;
 
 VI.- Tres representantes de la Administración Pública Federal, designados por el Secretario de Educación Pública, por conducto de la Subsecretaría de Educación Superior y/o de la Coordinación General de Universidades Tecnológicas y Politécnicas;
 
-VII.- Un representante del Ayuntamiento de Aguascalientes; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
-VIII.- Tres representantes del sector productivo de la región invitados por el Titular del Poder Ejecutivo del Estado.
+VII.- Un representante del Ayuntamiento de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
+VIII.- Tres representantes del sector productivo de la región invitados por el Titular del Poder Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+IX.- Un representante de la Comisión de Educación y Cultura del Poder Legislativo del Estado de Aguascalientes.
 
 Los Consejeros durarán en su cargo durante el tiempo que desempeñen las funciones del puesto por el cual conforman dicho Consejo. En el caso de los representantes del sector productivo, durarán en su cargo tres años, pudiendo ser invitados a participar por un periodo igual.
 
@@ -604,3 +612,11 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 162.- SE REFORMA LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
