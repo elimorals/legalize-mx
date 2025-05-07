@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-operacion-y-funcionamiento-interno-del-26149"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-23"
-last_updated: "2002-10-23"
+last_updated: "2025-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26149&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-12-11"
 ---
 # REGLAMENTO DE OPERACION Y FUNCIONAMIENTO INTERNO DEL CONSEJO TECNICO CONSULTIVO NACIONAL DE SANIDAD ANIMAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE OPERACIÓN INTERNO DEL CONSEJO TÉCNICO CONSULTIVO NACIONAL DE SANIDAD ANIMAL, PUBLICADO EN EL D.O.F. DE 7 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE OPERACION Y FUNCIONAMIENTO INTERNO DEL CONSEJO TECNICO CONSULTIVO NACIONAL DE SANIDAD ANIMAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2025 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el 23 de octubre de 2002.
 
@@ -576,3 +578,13 @@ Los gastos derivados de la operación del Consejo, tales como: nómina del perso
 27.1 Las declaraciones de cualquier índole a nombre del Consejo Técnico Consultivo Nacional de Sanidad Animal, sólo las podrán hacer el Presidente y/o el Vicepresidente del mismo.
 
 Se suscribe el presente documento en tres ejemplares por todas las partes que intervienen a los once días del mes de diciembre de dos mil uno.- El Presidente, Luis Alberto Zarco Quintero.- Rúbrica.- El Representante Vicepresidente, Héctor Rodríguez Licea.- Rúbrica.- El Secretario Ejecutivo, José Angel del Valle Molina.- Rúbrica.- El Representante FMVZ, UNAM, Francisco Trigo Tavera.- Rúbrica.- El Vocal INIFAP, Carlos Agustín Vega y Murguía.- Rúbrica.- El Representante CNG, Juan Ramón González Sáenz Pardo.- Rúbrica.- El Vocal SENASICA, Javier Trujillo Arriaga.- Rúbrica.- El Vocal AVM, Francisco Suárez Güemes.- Rúbrica.- El Vocal AMMVEB, Jorge Avila García.- Rúbrica.- El Representante Vocal ANECA, Roberto Señas Cuesta.- Rúbrica.- El Representante Vocal FedMVZ, Eduardo Posadas Manzano.- Rúbrica.- El Representante Vocal INFARVET, Mario Pérez Leyton.- Rúbrica.- El Vocal AMVEC, Joaquín Becerril Angeles.- Rúbrica.- El Representante Vocal CMP, Enrique Domínguez Lucero.- Rúbrica.- El Representante Vocal UNA, Carlos Sánchez Widmann.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE OPERACIÓN INTERNO DEL CONSEJO TÉCNICO CONSULTIVO NACIONAL DE SANIDAD ANIMAL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Con la entrada en vigor del presente Reglamento queda abrogado el Reglamento de operación y funcionamiento interno del Consejo Técnico Consultivo Nacional de Sanidad Animal, publicado en el Diario Oficial de la Federación el 23 de octubre de 2002.
