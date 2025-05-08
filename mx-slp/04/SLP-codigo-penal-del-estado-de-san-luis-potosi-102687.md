@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2025-03-07"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1685,7 +1685,9 @@ I. Exista, o haya existido una relación de parentesco; afecto; docente; o labor
 
 II. Exista en la víctima signos de violencia sexual de cualquier tipo;
 
-III. Se haya infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida; o actos de necrofilia; o que generen sufrimiento.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+III. Se halla infligido a la víctima, lesiones, o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida, entre ellas las provocadas por ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, líquidos a altas temperaturas o cualquier otra sustancia; o actos de necrofilia; o que generen sufrimiento;
 
 IV. Existan antecedentes de violencia, sexual, física, psicológica, patrimonial, económica, o de cualquier indicio de amenaza, producidas en el ámbito, familiar; laboral; o escolar, del sujeto activo en contra de la víctima;
 
@@ -1708,6 +1710,10 @@ En el caso de que no se acredite el delito de feminicidio, se aplicarán las reg
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
 Además, con el fin de preservar evidencia que pudiera revelar nuevas líneas de investigación para el esclarecimiento de los hechos, el agente del Ministerio Público prohibirá estrictamente, bajo su criterio y responsabilidad, la cremación de todo cadáver respecto del que se presuma la comisión de un feminicidio, en tanto se dicte sentencia firme. Quien incurra en esta conducta se le impondrá la pena señalada en el párrafo último del artículo 208 de este Código.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+ARTÍCULO 135 BIS. Se entenderá que existe feminicidio en grado de tentativa, cuando se agreda o ataque a una mujer empleando ácido o sustancias corrosivas, cáusticas, irritantes, tóxicas o inflamables o cualquier otra sustancia análoga, o fuego, con independencia de que se causen o no alteraciones externas y/o internas en la salud de la mujer víctima.
 
 ### CAPÍTULO III. Lesiones
 
@@ -1793,7 +1799,7 @@ Si entre el sujeto activo y la víctima existió una relación sentimental, afec
 
 ARTÍCULO 142 TER. Las penas previstas en el artículo anterior se aumentarán en dos tercios en los siguientes casos:
 
-I. Cuando las lesiones sean provocadas mediante el empleo de ácidos o substancias corrosivas, o
+I. (DEROGADA, P.O. 8 DE MAYO DE 2025)
 
 II. Cuando las lesiones sean provocadas en los órganos genitales femeninos o en las mamas, excluyendo aquellas que sean consecuencia de llevar a cabo un procedimiento médico por motivos de salud.
 
@@ -5992,5 +5998,13 @@ P.O. 7 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0169.- SE REFORMA EL ARTÍCULO 110 EN SU PÁRRAFO TERCERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0194.- QUE REFORMA Y ADICIONA EL ARTÍCULO 4º DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
