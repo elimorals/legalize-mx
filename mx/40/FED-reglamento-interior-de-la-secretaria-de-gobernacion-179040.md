@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-179040"
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-03-21"
-last_updated: "2025-03-21"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179040&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-03-21"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBERNACION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MAYO DE 2025 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 8 DE MAYO DE 2025.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 21 de marzo de 2025.
 
@@ -529,7 +529,9 @@ La ausencia de las personas servidoras públicas de la Secretaría se suplirá d
 
 I. La persona titular de la Secretaría por las personas titulares de las Subsecretarías de Gobernación; de Derechos Humanos, Población y Migración; de Construcción de Paz, Participación Social y Asuntos Religiosos, y de la Unidad General de Asuntos Jurídicos, en asuntos de su competencia de conformidad con la materia;
 
-II. Las personas titulares de las subsecretarías, de la Unidad de Proyectos, Seguimiento y Evaluación Institucional; de la Unidad General de Asuntos Jurídicos; de la Unidad de Administración y Finanzas; de la Comisión Nacional para el Diálogo con los Pueblos Indígenas de México y de los órganos administrativos desconcentrados, por las personas titulares de las unidades, direcciones generales y coordinaciones de nivel jerárquico inmediato inferior que tengan adscritas, en el ámbito de sus respectivas competencias;
+> <small>(F. DE E., D.O.F. 8 DE MAYO DE 2025)</small>
+
+II. Las personas titulares de las subsecretarías, de la Unidad de Proyectos, Seguimiento y Evaluación Institucional; de la Unidad General de Asuntos Jurídicos; de la Unidad de Administración y Finanzas; de la Comisión para el Diálogo con los Pueblos Indígenas de México y de los órganos administrativos desconcentrados, por las personas titulares de las unidades, direcciones generales y coordinaciones de nivel jerárquico inmediato inferior que tengan adscritas, en el ámbito de sus respectivas competencias;
 
 III. Las demás personas servidoras públicas de la Secretaría, de sus órganos administrativos desconcentrados y oficinas de representación serán suplidas por:
 
