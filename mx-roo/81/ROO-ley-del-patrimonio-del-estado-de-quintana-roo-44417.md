@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-patrimonio-del-estado-de-quintana-roo-44417"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-28"
-last_updated: "2021-07-16"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 28 de marzo de 2005.
 
@@ -61,7 +61,9 @@ IV. Junta: La Junta de Gobierno de la Agencia;
 
 V. Dependencias: Las referidas como tal en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, incluyendo sus Órganos desconcentrados y demás Unidades Administrativas;
 
-VI. Director General: El Director General de la Agencia;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+VI. Directora o Director General: La Persona Titular de la Dirección General de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo;
 
 VII. Entidades: Los Organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, referidos como tal en la Ley de Entidades Paraestatales;
 
@@ -81,7 +83,9 @@ XIII. Proyectos de Asociación Público Privada: Aquellos proyectos de asociaci�
 
 XIV. Registro: El Registro del Patrimonio Público del Estado, y
 
-XV. Secretaría: La Secretaría de Desarrollo Económico.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XV. SEDE: La Secretaría de Desarrollo Económico.
 
 ###### Artículo 3.
 
@@ -125,9 +129,11 @@ Para iniciar los procedimientos judiciales en contra de actos de aplicación o i
 
 Serán de aplicación supletoria en lo no previsto en la presente Ley, según se trate, los Códigos Civil y de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### Artículo 9.
 
-Las disposiciones de esta Ley serán interpretadas, para efectos administrativos, por la Secretaría.
+Las disposiciones de esta Ley serán interpretadas, para efectos administrativos, por la SEFIPLAN.
 
 ## TÍTULO SEGUNDO. DEL PATRIMONIO DEL ESTADO
 
@@ -137,7 +143,9 @@ Las disposiciones de esta Ley serán interpretadas, para efectos administrativos
 
 Serán nulos de pleno derecho, los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público.
 
-La inscripción indebida en el Registro Público de la Propiedad y del Comercio del Estado, será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Gobierno del Estado de Quintana Roo, sin perjuicio de las sanciones civiles y penales en que se incurra, de acuerdo con la Ley de la materia.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
+La inscripción indebida en el Registro Público de la Propiedad y del Comercio del Estado, será sancionada en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Quintana Roo y sus Municipios, sin perjuicio de las sanciones civiles y penales en que se incurra, de acuerdo con la Ley de la materia.
 
 ###### Artículo 11.
 
@@ -191,9 +199,9 @@ II. Las Dependencias y las Entidades, así como los Gobiernos Federal y Municipa
 
 III. Si no se da cumplimiento a lo dispuesto en la fracción anterior, o se deja utilizar o de necesitar el inmueble, o se le da un uso distinto al aprobado conforme a esta Ley, los destinatarios deberán entregarlo con todas sus mejoras y accesiones a la Agencia, sin que tengan derecho a indemnización alguna. En caso de que los destinatarios incurran en omisión, la Agencia podrá proceder a requerir la entrega del bien, y en su defecto, a tomar posesión de el en forma administrativa, para destinarlo a los usos que, de acuerdo a la política inmobiliaria del Gobierno del Estado, resulten más convenientes;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-IV. Los destinatarios deberán utilizar los inmuebles de una manera óptima, atendiendo a los lineamientos que para tal efecto expidan la Secretaría y la Agencia, y
+IV. Las personas destinatarias deberán utilizar los inmuebles de una manera óptima, atendiendo a los lineamientos que para tal efecto expidan la SEFIPLAN y la Agencia, y
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -207,11 +215,11 @@ Respecto de los bienes inmuebles destinados a un servicio público, no se podrá
 
 Los inmuebles que estando destinados a un servicio público, de hecho o por derecho, fueren aprovechados temporalmente, en todo o en parte, en otros fines distintos que no puedan considerarse como servicio público, no pierden su carácter de bienes de dominio público.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 20.
 
-Cuando se requiera ejecutar obras de construcción, modificación, adaptación, conservación y mantenimiento de los inmuebles propiedad del Estado, así como para lograr su óptimo aprovechamiento, intervendrá la Agencia en coordinación con la Secretaría, dentro del ámbito de sus respectivas competencias.
+Cuando se requiera ejecutar obras de construcción, modificación, adaptación, conservación y mantenimiento de los inmuebles propiedad del Estado, así como para lograr su óptimo aprovechamiento, intervendrá la Agencia en coordinación con la SEFIPLAN, dentro del ámbito de sus respectivas competencias.
 
 ###### Artículo 21.
 
@@ -459,9 +467,11 @@ Las Dependencias y Entidades del Poder Ejecutivo del Estado podrán adquirir bie
 
 Las adquisiciones por vías de derecho público se regirán por la presente Ley, las leyes especiales y las demás disposiciones jurídicas aplicables. Las adquisiciones por vías de derecho privado se regularán por las disposiciones de esta Ley, la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con Bienes Muebles del Estado, el Código Civil y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### Artículo 48.
 
-Las Dependencias y Entidades deberán presentar al Instituto, un programa anual calendarizado, previamente aprobado por la Secretaría, que contenga sus necesidades inmobiliarias a fin de contar con la información que apoye las políticas y decisiones que se adopten en la materia.
+Las Dependencias y Entidades deberán presentar ante la Agencia, un programa anual calendarizado, previamente aprobado por la SEFIPLAN, que contenga sus necesidades inmobiliarias a fin de contar con la información que apoye las políticas y decisiones que se adopten en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -477,11 +487,11 @@ III. Asignar los inmuebles disponibles, y
 
 IV. Adquirir, en su caso, los inmuebles con cargo a la partida presupuestal autorizada a la dependencia o entidad interesada, y realizar las gestiones necesarias para la formalización de la operación.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 50.
 
-Las Dependencias y Entidades podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición, en cuyo caso están obligadas a acreditar tales supuestos ante la Agencia. Tanto en la adquisición como en el arrendamiento de inmuebles para oficinas públicas, se requerirá el dictamen estructural emitido por la Secretaría de Infraestructura y Transporte, independientemente de la competencia o intervención que les corresponda a otras dependencias.
+Las Dependencias y Entidades podrán arrendar bienes inmuebles para su servicio cuando no sea posible o conveniente su adquisición, en cuyo caso están obligadas a acreditar tales supuestos ante la Agencia. Tanto en la adquisición como en el arrendamiento de inmuebles para oficinas públicas, se requerirá el dictamen estructural emitido por la Secretaría de Obras Públicas, independientemente de la competencia o intervención que les corresponda a otras dependencias.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -499,11 +509,11 @@ Cuando el Ejecutivo Estatal adquiera inmuebles para cumplir con sus funciones, p
 
 Una vez formalizada la operación de compraventa, o donación, deberá darse aviso a la Agencia, a efecto de que realice la inscripción correspondiente en el Registro y se procedan a efectuar las anotaciones respectivas en el Registro Público de la Propiedad y del Comercio que corresponda.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 54.
 
-La Agencia, tomando en consideración las opiniones de las demás Dependencias y Entidades, y en consulta previa a la Junta y a la Secretaría, elaborará un programa de aprovechamiento inmobiliario anual, a fin de establecer mecanismos eficaces de control que permitan identificar, controlar y administrar el patrimonio inmobiliario del Estado.
+La Agencia, tomando en consideración las opiniones de las demás Dependencias y Entidades, y en consulta previa a la Junta y a la SEFIPLAN, elaborará un programa de aprovechamiento inmobiliario anual, a fin de establecer mecanismos eficaces de control que permitan identificar, controlar y administrar el patrimonio inmobiliario del Estado.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -513,11 +523,13 @@ La Agencia, tomando en consideración las opiniones de las demás Dependencias y
 
 ### CAPÍTULO ÚNICO. DE LA AGENCIA DE PROYECTOS ESTRATÉGICOS DEL ESTADO DE QUINTANA ROO
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 54 Bis.
 
-La Agencia de Proyectos Estratégicos del Estado de Quintana Roo, es un organismo público Descentralizado de la administración pública estatal, sectorizado a la Secretaría de Desarrollo Económico, con personalidad jurídica y patrimonio propio.
+La Agencia de Proyectos Estratégicos del Estado de Quintana Roo, es un organismo público Descentralizado de la administración pública estatal, sectorizado a la SEFIPLAN, con personalidad jurídica y patrimonio propio.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
 La Agencia tendrá su oficina central en la ciudad de Chetumal, pudiendo tener las delegaciones y oficinas que estime necesarias para el cumplimiento de su objeto, en otras ciudades del Estado.
 
@@ -565,43 +577,35 @@ I. La Junta de Gobierno, y
 
 II. La Dirección General.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 54 Septies.
 
 La Junta de Gobierno será el órgano superior de la Agencia y se integra por:
 
-I. El Gobernador del Estado, quien ocupará la Presidencia;
+I. La persona Titular del Poder Ejecutivo del Estado, quien ocupará la Presidencia;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+II. La persona Titular de la SEFIPLAN, con el carácter de Vicepresidencia, quien suplirá las ausencias de la persona Titular de la Presidencia;
 
-II. El Titular de la Secretaría de Desarrollo Económico, en calidad de Vicepresidente, quien suplirá las ausencias del Presidente.
+III. La persona Titular de la Secretaría de Desarrollo Territorial Urbano Sustentable, en calidad de Vocal;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+IV. La persona Titular de la Secretaría de Ecología y Medio Ambiente, en calidad de Vocal;
 
-III. El titular de la Secretaría de Desarrollo Territorial Urbano Sustentable, en calidad de Vocal;
+V. La persona Titular de la SEDE, en calidad de vocal;
 
-IV. El Titular de la Secretaría de Ecología y Medio Ambiente, en calidad de Vocal;
+VI. La persona Titular de la Secretaría de Obras Públicas, en calidad de Vocal, y
 
-V. El Titular de la Secretaría de Finanzas y Planeación, en calidad de Vocal;
+VII. Tres personas ciudadanas del Estado que sean designadas por el Comité.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+La Junta contará en apoyo de sus actividades con una Secretaría Técnica a cargo de la Directora o el Director General de la Agencia.
 
-VI. El titular de la Secretaría de Obras Públicas, en calidad de Vocal.
+Las personas integrantes en calidad de propietarias podrán designar a una persona suplente, quien deberá tener nivel de subsecretaria o su equivalente. Los cargos de las personas integrantes son honoríficos y no percibirán remuneración alguna.
 
-VII. Tres ciudadanos del Estado que sean designados por el Comité.
+La Junta funcionará válidamente con la concurrencia de la mayoría de sus personas integrantes, siendo indispensable la presencia de la persona Titular de la Presidencia o su suplente. Los acuerdos y resoluciones se tomarán por mayoría de votos de las personas integrantes presentes. En caso de empate la presidencia tendrá voto de calidad.
 
-La Junta contará en apoyo de sus actividades con un Secretario Técnico, que será el Director General de la Agencia.
+La Junta se reunirá por lo menos cuatro veces al año en sesión ordinaria, y en sesión extraordinaria las veces que fuere necesario a convocatoria de la Presidencia.
 
-Cada uno de los integrantes propietarios podrá designar un suplente, que deberá tener nivel de Subsecretario o su equivalente. Los cargos de los integrantes son honoríficos y no percibirán remuneración alguna.
-
-La Junta funcionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá estar el Presidente o quien deba suplirlo. Sus acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes. En caso de empate el Presidente o quien deba suplirlo, tendrá voto de calidad.
-
-La Junta se reunirá por lo menos cuatro veces al año en sesión ordinaria, y en sesión extraordinaria las veces que fuere necesario a convocatoria del Presidente.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2021)</small>
-
-La vigilancia de la Agencia estará a cargo de un Comisario Público Propietario y un suplente, designados por la Secretaría de la Contraloría.
+La vigilancia de la Agencia estará a cargo de una Comisaría Pública Propietaria y una suplente, designadas por la Secretaría Anticorrupción y Buen Gobierno.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -633,9 +637,13 @@ XI. Establecer los términos de las leyes aplicables, sistemas de cooperación y
 
 XII. Autorizar la contratación de servicios de asesoría, relacionados con los objetivos de la Agencia, cuando lo estime conveniente;
 
-XIII. Recibir y, en su caso, aprobar los informes del Director General;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XIV. Autorizar las ausencias del Director General cuando sean por un plazo mayor de quince días;
+XIII. Recibir y, en su caso, aprobar los informes de la Directora o el Director General;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XIV. Autorizar las ausencias de la Directora o el Director General cuando sean por un plazo mayor de quince días;
 
 XV. Disponer lo conducente para la adecuada administración del patrimonio de la Agencia y cuidar su eficiente manejo;
 
@@ -647,61 +655,101 @@ XVIII. Celebrar los contratos de Asociaciones público privadas y cualquier otro
 
 XIX. Las demás que se requieran para el cumplimiento del objeto de la Agencia, o que le confieran esta Ley u otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 54 Nonies.
 
-El Director General será designado y removido libremente por el Gobernador del Estado.
+La Directora o el Director General será designado y removido libremente por la Persona Titular del Poder Ejecutivo del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 54 Decies.
 
-Para ser Director General se requiere:
+Para ser Directora o Director General se requiere:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos y contar con la calidad de quintanarroense;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+I. Ser ciudadana o ciudadano mexicano, en pleno goce de sus derechos políticos;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 II. Contar con estudios profesionales, conocimientos o experiencia relacionados con el objeto de la Agencia, y
 
-III. No haber sido sentenciado por delitos patrimoniales, inhabilitado para desempeñar empleo, cargo o comisión en el servicio público, y no tener cargo de elección popular al momento de su designación.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
+III. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal, feminicidio, la libertad y seguridad sexuales, el normal desarrollo psicosexual, violencia familiar o doméstica, violencia obstétrica, violación a la intimidad sexual, violencia vicaria o demás conductas antijurídicas semejantes o equiparables; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos y por delitos que sean considerados actos de corrupción.
 
-Artículo 54 Undecies.- El Director General tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
+Artículo 54 Undecies.- La Directora o el Director General tendrá las siguientes facultades y obligaciones:
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 I. Representar técnica, administrativa y legalmente a la Agencia, con poder general para pleitos, cobranzas y actos de administración y dominio, con todas las facultades, aun las que requieran cláusula o poder especial, sin limitación alguna, conforme a la legislación aplicable;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 II. Proponer a la Junta los planes y programas que deba desarrollar la Agencia y ejecutar los que resulten aprobados;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 III. Someter a consideración de la Junta el informe de las actividades del ejercicio anterior, el proyecto de presupuesto, los estados financieros y los balances anuales;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 IV. Dirigir, administrar y supervisar todos los asuntos de la competencia de la Agencia;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 V. Participar en el Comité e informar a la Junta de la Agencia de las propuestas y recomendaciones que emita el Comité;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 VI. Proponer a la Junta las medidas que considere convenientes para el mejor funcionamiento de la Agencia, así como las modificaciones que correspondan al Reglamento Interior, a las Condiciones Generales de Trabajo, así como a la estructura y organización de la Agencia;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 VII. Contratar, convenir y suscribir los actos jurídicos necesarios para la obtención de créditos, recursos o inmuebles necesarios para el cumplimiento del objeto social de la Agencia, previa aprobación de la Junta;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 VIII. Firmar los títulos de propiedad a que se refiere el artículo 59 fracción XXI de esta ley;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 IX. Celebrar contratos con instituciones públicas federales, estatales y municipales, así como con personas físicas o morales, relacionados con el objeto de la Agencia y con la aplicación de la Ley;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 X. Otorgar poderes especiales y generales para pleitos y cobranzas y actos de administración con todas las facultades generales. Los que requieran cláusula especial para actos de dominio, deberán ser autorizados previamente por la Junta;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 XI. Seleccionar, contratar y remover al personal de la Agencia;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 XII. Establecer los sistemas administrativos, estadísticos, de control y evaluación, necesarios para la consecución de los objetivos de la Agencia y la actualización y desarrollo permanente de su organización, e informar a la Junta anualmente sobre la evaluación de la gestión;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 XIII. Formular y mantener actualizado el inventario de los bienes y recursos que integran el patrimonio de la Agencia;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 XIV. Asistir a las sesiones de la Junta en calidad de secretario, con derecho de voz, pero sin voto;
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 XV. Cumplir y hacer cumplir la presente ley, los acuerdos de la Junta y demás disposiciones legales aplicables;
 
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+
 XVI. Rendir a la Junta, los informes relativos a la administración del patrimonio del Estado, así como de la intervención de la Agencia en los proyectos a que se refiere la Ley de Asociaciones Público Privadas del Estado y Municipios de Quintana Roo, y
 
-XVII. Las demás que determine la Junta, el Ejecutivo del Estado o que deriven de la Ley y las demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XVII. Las demás que determine la Junta, la persona Titular del Poder Ejecutivo del Estado o que deriven de la Ley y las demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -719,9 +767,11 @@ Todas las Dependencias y Entidades estatales están obligadas a garantizar la se
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### Artículo 57.
 
-Corresponde al Titular del Ejecutivo del Estado:
+Corresponde a la persona Titular del Poder Ejecutivo del Estado:
 
 I. Establecer la política en materia de bienes patrimoniales estatales;
 
@@ -741,7 +791,9 @@ VIII. Emitir las reglas a que deberán sujetarse la administración, vigilancia,
 
 IX. Tomar las medidas administrativas y ejercer las acciones judiciales encaminadas a obtener, mantener o recuperar la posesión de los bienes del dominio del Estado, así como procurar su adecuado uso o destino;
 
-X. Instruir, en su caso, a la Procuraduría General de Justicia del Estado, el ejercicio de la acción reivindicatoria de los bienes de dominio del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+
+X. Instruir, en su caso, a la Consejería Jurídica del Poder Ejecutivo, el ejercicio de la acción reivindicatoria de los bienes de dominio del Estado;
 
 XI. Determinar la participación del Estado en empresas de participación estatal, asociaciones o sociedades civiles asimiladas a éstas o fideicomisos, cuando tengan como propósito la realización de operaciones inmobiliarias;
 
@@ -751,27 +803,57 @@ XIII. Emitir las disposiciones reglamentarias de esta Ley, y
 
 XIV. Las demás que se establezcan en este y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
-Estas atribuciones las ejercerá directamente, sin perjuicio de que las delegue en la Secretaría o la Agencia.
+Estas atribuciones las ejercerá directamente, sin perjuicio de que las delegue en la SEFIPLAN o la Agencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 58.
 
-Corresponde a la Secretaría:
+Corresponde a la SEFIPLAN:
 
 I. Formular, conducir y evaluar la política patrimonial sobre los bienes inmuebles del Estado, en congruencia con el Programa Estatal de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-II. En coordinación con la Agencia, proponer políticas para el aprovechamiento de la reserva territorial propiedad del Estado, así como de los inmuebles susceptibles de utilizarse para satisfacer necesidades de vivienda;
+II. En coordinación con la Agencia, proponer políticas para el aprovechamiento de la reserva territorial propiedad del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
 
 III. Formular, en coordinación con la Agencia, los programas de conservación de los inmuebles de dominio público, con la participación de las Dependencias y Entidades que los ocupan;
 
-IV. Promover, opinar e intervenir en la constitución de empresas de participación estatal, fideicomisos, asociaciones, sociedades civiles o asimiladas a estas, cuando tengan como propósito la realización de operaciones relacionadas con los bienes inmuebles del Estado, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-V. Las demás que se establezcan en este y otros ordenamientos legales aplicables.
+IV. Promover, opinar e intervenir en la constitución de empresas de participación estatal, fideicomisos, asociaciones, sociedades civiles o asimiladas a éstas, cuando tengan como propósito la realización de operaciones relacionadas con los bienes inmuebles del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2025)</small>
+
+V. Adquirir, administrar, destinar, custodiar, recuperar, en su caso, los bienes muebles que integran el patrimonio del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+VI. Elaborar y mantener permanentemente actualizado el padrón de los bienes muebles de dominio del Estado;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+VII. Vigilar la aplicación de lo dispuesto en esta Ley y en las disposiciones reglamentarias y administrativas que al efecto se emitan, dentro de su ámbito de competencia;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+VIII. Coordinar y conducir los actos jurídicos, registros, altas y bajas que se realicen sobre los bienes muebles regulados por esta Ley;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+IX. Proporcionar la asesoría que se le solicite para la adquisición, inventario, control y vigilancia que, sobre los bienes muebles de dominio del Estado, realicen las Dependencias y Entidades;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+X. Emitir los lineamientos administrativos de modernización y simplificación administrativa, de conservación, control y custodia que deban adoptarse en las Entidades, Dependencias y personas usuarias de los bienes muebles, para la debida administración del patrimonio del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE MAYO DE 2025)</small>
+
+XI. Las demás que se establezcan en este y otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -819,9 +901,9 @@ XIII. Integrar y mantener permanentemente actualizados el Registro del Patrimoni
 
 XIV. Revisar, evaluar, intervenir y celebrar contratos, convenios y demás actos jurídicos relacionados con la compraventa, arrendamiento, donación, Asociaciones público privadas y demás de carácter inmobiliario o de infraestructura estatal, así como proyectos en materia de desarrollo, infraestructura y cualesquier otros que de conformidad con el Plan Estatal de Desarrollo se requieran, que suscriban las entidades y dependencias de la Administración Pública Estatal y las personas de derecho público estatal con autonomía derivada de la Constitución Política del Estado Libre y Soberano de Quintana Roo, de conformidad con lo establecido en la Ley de Asociaciones Público Privadas para el Estado y los Municipios de Quintana Roo;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XV. En el ámbito de sus facultades, otorgar, en coordinación con la Secretaría, concesiones, permisos o autorizaciones para el uso o aprovechamiento de los bienes muebles o inmuebles de la Administración Pública Estatal; y gestionar las revocaciones y caducidad de las mismas incluyendo las autorizaciones relacionadas con Proyectos de Asociación Público Privadas;
+XV. En el ámbito de sus facultades, otorgar, en coordinación con la SEFIPLAN, concesiones, permisos o autorizaciones para el uso o aprovechamiento de los bienes muebles o inmuebles de la Administración Pública Estatal; y gestionar las revocaciones y caducidad de las mismas incluyendo las autorizaciones relacionadas con Proyectos de Asociación Público Privadas;
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -831,9 +913,9 @@ XVI. Establecer, adquirir, administrar y controlar las reservas territoriales de
 
 XVII. Realizar los actos de disposición y dominio de las reservas territoriales, bienes inmuebles o bienes muebles, que coadyuven al desarrollo urbano, económico o turístico de la Entidad, en coordinación, según el caso, con la Federación y los Municipios, y con otras dependencias y entidades de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XVIII. Determinar y convenir, conjuntamente con la Secretaría, las prioridades y requerimientos de suelo para vivienda;
+XVIII. Determinar y convenir, conjuntamente con la SEFIPLAN, las prioridades y requerimientos de suelo para vivienda;
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -887,21 +969,21 @@ XXX. Celebrar con las autoridades federales, estatales, municipales, Dependencia
 
 XXXI. Adquirir y enajenar bienes muebles e inmuebles; realizar y celebrar actos y contratos, y suscribir los documentos públicos y privados necesarios para la realización de objeto y administración de su patrimonio;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XXXII. Coordinar con la Secretaría, la instrumentación de la estrategia para financiar el desarrollo de Proyectos de Asociaciones Público Privados.
+XXXII. Coordinar con la SEFIPLAN, la instrumentación de la estrategia para financiar el desarrollo de Proyectos de Asociaciones Público Privados;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XXXIII. Obtener, en coordinación con la Secretaría, el financiamiento de contraparte, que es el monto que las entidades públicas requieren de invertir los Proyectos de Asociación público privado;
+XXXIII. Obtener, en coordinación con la SEFIPLAN, el financiamiento de contraparte, que es el monto que las entidades públicas requieren de invertir los Proyectos de Asociación Público Privada;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XXXIV. Diseñar e instrumentar en coordinación con la Secretaría, mecanismos para captar flujos de efectivo presupuestales para el pago y/o arrendamiento de los Proyectos de Asociación Público Privada;
+XXXIV. Diseñar e instrumentar en coordinación con la SEFIPLAN, mecanismos para captar flujos de efectivo presupuestales para el pago y/o arrendamiento de los Proyectos de Asociación Público Privada;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XXXV. Diseñar e instrumentar, en coordinación con la Secretaría, los proyectos de los decretos, mandatos, contratos, reglas de operación y demás documentos legales que se requieran;
+XXXV. Diseñar e instrumentar, en coordinación con la SEFIPLAN, los proyectos de los decretos, mandatos, contratos, reglas de operación y demás documentos legales que se requieran;
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2017)</small>
 
@@ -911,25 +993,9 @@ XXXVI. Cualquier otro acto jurídico necesario para instrumentar los Proyectos d
 
 XXXVII. Las demás que establezcan esta ley y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
-
 ###### Artículo 60.
 
-Corresponde a la SEFIPLAN:
-
-I. Adquirir, administrar, destinar, custodiar y recuperar, en su caso, los bienes muebles que integran el patrimonio del Estado;
-
-II. Elaborar y mantener permanentemente actualizado el padrón de los bienes muebles de dominio del Estado;
-
-III. Vigilar la aplicación de lo dispuesto en esta Ley y en las disposiciones reglamentarias y administrativas que al efecto se emitan, dentro de su ámbito de competencia;
-
-IV. Informar a la Secretaría de los actos jurídicos, registros, altas y bajas que se realicen sobre los bienes muebles regulados por esta Ley;
-
-V. Proporcionar la asesoría que se le solicite para la adquisición, inventario, control y vigilancia que sobre los bienes muebles de dominio del Estado, realicen las Dependencias y Entidades;
-
-VI. Emitir los lineamientos administrativos de modernización y simplificación administrativa, de conservación, control y custodia que deban adoptarse en las Entidades, Dependencias y personas usuarias de los bienes muebles, para la debida administración del patrimonio del Estado, y
-
-VII. Las demás que se establezcan en este y otros ordenamientos legales correspondientes.
+(DEROGADO, P.O. 8 DE MAYO DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -941,9 +1007,9 @@ Corresponde a la Secretaría de Desarrollo Territorial Urbano Sustentable:
 
 I. Adquirir, administrar, destinar, custodiar y recuperar, en su caso, los bienes inmuebles que integran el patrimonio del Estado en las materias de su competencia;
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-II. Informar a la Secretaría de los actos jurídicos, registros, altas y bajas que se realicen sobre los bienes inmuebles de su competencia regulados por esta ley;
+II. Informar a la SEFIPLAN de los actos jurídicos, registros, altas y bajas que se realicen sobre los bienes inmuebles de su competencia regulados por esta ley;
 
 > <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2014)</small>
 
@@ -1293,9 +1359,11 @@ Los concesionarios y las Autoridades auxiliares deberán conservar en forma orde
 
 En los títulos de las Concesiones otorgadas conforme a esta Ley, se señalará a la Dependencia o Entidad que tendrá el carácter de Autoridad Auxiliar, conforme a la competencia legal correspondiente. Esta Autoridad deberá verificar que la explotación del bien de que se trate o la prestación de los servicios públicos concesionados, según sea el caso, se realice de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### Artículo 86.
 
-La Autoridad concedente, la Autoridad Auxiliar y la Contraloría, en el ámbito de sus respectivas competencias, podrán realizar en cualquier tiempo visitas de verificación a los concesionarios, o personas físicas o morales subcontratadas, en los casos en que la ley permita la subcontratación, a efecto de constatar el estado y las condiciones en que se encuentra el bien objeto de la concesión o el servicio público concesionado. Al término de las visitas, las autoridades, levantarán el acta circunstanciada y formularán un dictamen técnico.
+La Autoridad concedente, la Autoridad Auxiliar y la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, podrán realizar en cualquier tiempo visitas de verificación a las personas concesionarias, o personas físicas o morales subcontratadas, en los casos en que la ley permita la subcontratación, a efecto de constatar el estado y las condiciones en que se encuentra el bien objeto de la concesión o el servicio público concesionado. Al término de las visitas, las autoridades, levantarán el acta circunstanciada y formularán un dictamen técnico.
 
 ###### Artículo 87.
 
@@ -1387,11 +1455,11 @@ En caso de resistencia o negativa al cumplimiento de esta disposición, podrán 
 
 Cuando se dé cualquiera de las causas de extinción de las Concesiones previstas en el Artículo 87 de esta Ley, la autoridad podrá tomar de inmediato posesión del bien concesionado o del servicio público amparado por la misma, según sea el caso. Lo anterior, salvo que alguna ley especial disponga lo contrario. Como consecuencia de la extinción de la concesión, los bienes afectos a la explotación del bien de que se trate o a la explotación del servicio público concesionado revertirán en favor del Estado sin indemnización alguna, independientemente de quien sea el propietario de tales bienes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
 
 ###### Artículo 98.
 
-Las obras e instalaciones que deba construir y realizar el concesionario conforme al título de concesión, sólo podrán llevarse a cabo, previa aprobación de los estudios y proyectos correspondientes por parte de la Dependencia o Entidad correspondiente conforme a la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, con la intervención que conforme a la ley le corresponda a la Secretaría de Infraestructura y Transporte y la Agencia. La ejecución, construcción, reconstrucción o realización de las obras e instalaciones se llevará a cabo bajo la supervisión técnica de la Dependencia o Entidad correspondiente conforme a la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, quién a su vez tendrá la obligación de asistirse del personal especializado en la materia.
+Las obras e instalaciones que deba construir y realizar la persona concesionaria conforme al título de concesión, sólo podrán llevarse a cabo, previa aprobación de los estudios y proyectos conducentes por parte de la Dependencia o Entidad de que se trate, así como con la intervención de la Secretaría de Obras Públicas y la Agencia, en los ámbitos de competencia correspondientes. La ejecución, construcción, reconstrucción o realización de las obras e instalaciones se llevará a cabo bajo la supervisión técnica de la Dependencia o Entidad correspondiente conforme a la Ley Orgánica de la Administración Pública del Estado de Quintana Roo, quién a su vez tendrá la obligación de asistirse del personal especializado en la materia.
 
 Los concesionarios estarán obligados a prestar el servicio y a conservar las obras, instalaciones y equipo afectos a la explotación de la concesión, de conformidad con las disposiciones legales, Normas Oficiales Mexicanas y las de referencia que resulten aplicables. El cumplimiento de estas obligaciones estará sometido a la vigilancia de la Autoridad Auxiliar.
 
@@ -1403,9 +1471,9 @@ Los Permisos Administrativos podrán ser:
 
 I. A título gratuito, cuando no se exija al particular una contraprestación pecuniaria o en especie a cambio del uso y goce temporal del bien permisionado, y
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie, a cambio del uso y goce del bien permisionado, la que en todo caso deberá estar fijada previamente por la Agencia y la Secretaría.
+II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie, a cambio del uso y goce del bien permisionado, la que en todo caso deberá estar fijada previamente por la Agencia y la SEFIPLAN.
 
 El presente Capítulo se aplicará de manera supletoria y en lo que no se oponga a los Permisos regulados por leyes específicas.
 
@@ -1749,10 +1817,18 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 146 POR EL QUE "SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 193 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+P.O. 8 DE MAYO DE 2025.
 
-PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 120 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO".]
 
-SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía, en todo lo que se opongan al contenido del presente decreto.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
-P.O. 15 DE MAYO DE 2017.
+SEGUNDO. En un plazo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo del Estado llevará a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+TERCERO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+CUARTO. La entrada en vigor del presente Decreto no afectará los recursos humanos, materiales y financieros que correspondan a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo y que, en virtud del presente Decreto, se sectoriza a la Secretaría de Finanzas y Planeación, por lo que no se afectarán regímenes, derechos laborales ni el cumplimiento de obligaciones previamente contraídas por el citado Organismo Público Descentralizado.
+
+QUINTO. Los asuntos, procedimientos y demás trámites vigentes a cargo de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo y que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán informados de inmediato a la Secretaría de Finanzas y Planeación, para la coordinación y seguimiento correspondiente.
