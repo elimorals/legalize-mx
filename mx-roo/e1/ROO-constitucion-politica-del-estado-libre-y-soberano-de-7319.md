@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2025-03-19"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -163,17 +163,21 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 El Estado garantiza la igualdad jurídica respecto de sus personas habitantes sin distinción de origen, sexo, condición o actividad social.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
-La mujer y el hombre serán sujetos de iguales derechos y obligaciones ante la Ley. Toda referencia de esta Constitución y de las leyes del Estado al género masculino, lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
+La mujer y el hombre son iguales ante la ley. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+El Estado garantizará que al trabajo igual corresponda un salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las Leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
 El Estado implementará medidas permanentes tendentes a combatir y eliminar la desigualdad social y económica en razón de género, garantizando la entrega de apoyos económicos y en especie, que contribuyan a mejorar el acceso a la salud, la alimentación, el empleo o la vivienda de las Mujeres y sus familias que habitan en el Estado de Quintana Roo, priorizando a las mujeres que se encuentren en situación de vulnerabilidad, bajo la suficiencia de los recursos autorizados para tal efecto.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2025)</small>
 
-Las Mujeres, las Adolescentes y las Niñas del Estado de Quintana Roo tienen derecho a vivir una vida libre de violencia, por lo que el Estado implementará medidas tendentes a prevenir, atender, sancionar y erradicar la violencia en su contra, en los términos que establezca la ley.
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, por lo que tendrá la obligación de implementar medidas tendentes a prevenir, atender, sancionar y erradicar la violencia en su contra, en los términos que establezcan las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -697,11 +701,15 @@ Las garantías previstas en las fracciones V, VII y IX también serán observada
 
 En todo proceso penal, la víctima o la persona ofendida por algún delito tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el ministerio público, a que se le preste atención médica de urgencia cuando lo requiera y los demás que señalen las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
 
-###### ARTICULO 29.
+###### Artículo 29.
 
-La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La investigación de los delitos corresponde al Ministerio Público, a la Secretaría de Seguridad Ciudadana del Ejecutivo Estatal y a las policías en el ámbito de su competencia, las cuales actuarán en coadyuvancia, así como bajo la conducción y mando del Ministerio Público en el ejercicio de esta función. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe del valor diario de la unidad de medida y actualización. La multa impuesta a los trabajadores no asalariados no excederá del equivalente al valor diario de un día de su ingreso.
+La imposición de las penas, su modificación y duración son propias y exclusivas de la Autoridad Judicial. La investigación de los delitos corresponde al Ministerio Público, a la Secretaría de Seguridad Ciudadana del Ejecutivo Estatal y a las policías en el ámbito de su competencia, las cuales actuarán en coadyuvancia, así como bajo la conducción y mando del Ministerio Público en el ejercicio de esta función, siendo que estas instituciones deberán llevar a cabo las facultades referidas con antelación basándose en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por 36 horas. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe del valor diario de la unidad de medida y actualización. La multa impuesta a los trabajadores no asalariados no excederá del equivalente al valor diario de un día de su ingreso.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+Para proteger el derecho de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
 
 > <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2025)</small>
 
@@ -6766,3 +6774,11 @@ Asimismo, ningún trámite podrá ser condicionado a la expedición de documento
 NOVENO. El Ayuntamiento del Municipio de Playa del Carmen deberá realizar las acciones jurídicas y administrativas necesarias a fin de actualizar gradualmente la papelería oficial, señalética, registros administrativos y cualquier otro documento o medio en el que se haga referencia al nombre anterior del Municipio. Esta actualización deberá llevarse bajo la disponibilidad presupuestaria, en el marco de los procesos de renovación habituales y asegurando la continuidad de los servicios municipales.
 
 DÉCIMO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 121 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
