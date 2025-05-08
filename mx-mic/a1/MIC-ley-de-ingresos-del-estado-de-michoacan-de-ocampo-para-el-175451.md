@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-17545
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-16"
-last_updated: "2024-12-16"
+last_updated: "2025-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Ley publicada en la Octava Sección del Número 8 del Periódico Oficial del Estado de Michoacán, el lunes 16 de diciembre de 2024.
 
@@ -5277,6 +5277,10 @@ DÉCIMO CUARTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo 
 
 DÉCIMO QUINTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno y el Secretario de Finanzas y Administración, de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2025)</small>
+
+DÉCIMO SEXTO. Para efectos de cubrir los derechos que se causen en el servicio de transporte público y privado que refieren los artículos 19, fracciones III y V, inciso B); así como el artículo 20, fracción II, ambos de esta Ley; como excepción transitoria a lo dispuesto en la Ley de Hacienda del Estado de Michoacán de Ocampo, se amplía el plazo para llevar a cabo dichos pagos, hasta el día 31 de mayo del año 2025.
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO en Morelia, Michoacán de Ocampo, a los 15 quince días del mes de diciembre de 2024 dos mil veinticuatro.
@@ -5286,3 +5290,13 @@ ATENTAMENTE.- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. JUAN ANTONIO MAGAÑA DE LA 
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 16 dieciséis días del mes de diciembre del año 2024 dos mil veinticuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- ELGOBERNADOR DEL ESTADO.- MTRO.ALFREDO RAMÍREZ BEDOLLA.-EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.-(Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 181 POR EL QUE “SE ADICIONA UN ARTICULO DECIMO SEXTO TRANSITORIO A LA LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2025”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
