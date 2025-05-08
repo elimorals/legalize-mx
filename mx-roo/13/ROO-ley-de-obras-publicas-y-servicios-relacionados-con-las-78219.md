@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2024-07-10"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -707,9 +707,11 @@ XI.- Se acepte la ejecución de los trabajos a título de dación en pago, en lo
 
 XII.- Se trate de obras o servicios relacionados con las mismas que, de realizarse bajo un procedimiento de licitación pública, pudieran afectar la seguridad del Estado o comprometer información de naturaleza reservada o confidencial para el Estado o los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 40.
 
-Las dependencias, entidades y ayuntamientos bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública; mediante adjudicación directa, cuando el importe de cada operación no exceda de siete mil veces el salario mínimo general vigente en el Estado y por invitación a cuando menos tres contratistas cuando el importe de cada operación no exceda de cuarenta y siete mil quinientas veces el salario mínimo general vigente en el Estado; tratándose de servicios relacionados con la obra pública a través del procedimiento de invitación restringida por adjudicación directa, cuando el importe no exceda de dos mil quinientas veces el salario mínimo general vigente en el Estado y por invitación a cuando menos tres contratistas cuando el importe no exceda de veintiséis mil veces el salario mínimo general vigente en el Estado, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+Las dependencias, entidades y ayuntamientos bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública; tratándose de obras públicas mediante adjudicación directa, cuando el importe de cada operación, no exceda de siete mil veces el valor de la Unidad de Medida de Actualización (UMA) vigente y por invitación a cuando menos tres contratistas, cuando el importe de cada operación no exceda de cuarenta y siete mil quinientas veces el valor de la Unidad de Medida de Actualización (UMA) vigente; tratándose de servicios relacionados con la obra pública a través del procedimiento de invitación restringida por adjudicación directa, cuando el importe no exceda de dos mil quinientas veces el valor de la Unidad de Medida de Actualización (UMA) vigente y por invitación a cuando menos tres contratistas, cuando el importe no exceda de veintiséis mil veces el valor de la Unidad de Medida de Actualización (UMA) vigente, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública, a que se refiere este artículo.
 
 La suma de los montos de los contratos que se realicen al amparo de este artículo no podrá exceder del treinta por ciento del presupuesto autorizado a las dependencias, entidades y ayuntamientos para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestario.
 
@@ -1572,3 +1574,11 @@ P.O. 10 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 118 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 40 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente decreto.
