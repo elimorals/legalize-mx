@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2025-03-21"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,15 @@ state: "SLP"
 ---
 # LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
+LEY DE INGRESOS DEL MUNICIPIO DE SANTA ELENA, YUCATÁN, PARA EL EJERCICIO FISCAL 2021
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
+TEXTO ORIGINAL.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
+Ley publicada en el Suplemento del Número 34371 del Diario Oficial del Estado de Yucatán, el martes 29 de diciembre de 2020.
 
-Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-DECRETO 744
-
-LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
-
-EXPOSICION DE MOTIVOS
-
-[...]
-
-Todo lo expuesto, conforme a las circunstancias que adquiere el turismo como sector prioritario para favorecer la inversión pública y privada, es congruente con los avances de la tecnología y las exigencias ciudadanas de mejorar el servicio turístico que promueven las instituciones públicas, concentrando su objetivo, en favorecer una mejor prestación del mismo a las personas que desean hacer de San Luis Potosí, un remanso y punto de llegada.
-
-LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSI
+(NOTA: EL 23 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE AGOSTO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ## TITULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -527,19 +517,17 @@ La Secretaría, en coordinación con las autoridades competentes, deberá realiz
 
 La propuesta de declaratoria también deberá contener los motivos que la justifican y la delimitación geográfica de la zona.
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-Las Zonas de Desarrollo Turístico Sustentable se clasificarán en:
+El cobro de los derechos por los servicios de la Unidad de Acceso a la Información que preste el Ayuntamiento se realizará de acuerdo con las siguientes tarifas:
 
-I. Prioritarias: aquéllas que por sus características naturales, ecológicas, históricas o culturales, constituyan un atractivo turístico que coadyuve al crecimiento económico de una zona, o bien, aquélla que cuente con la potencialidad para desarrollar actividades turísticas, y
+I.- Expedición de copias certificadas $ 3.00 por hoja
 
-II. Saturadas: aquéllas que requieran limitar el crecimiento de la actividad turística por alguna de las siguientes circunstancias:
+II.- Emisión de copias simples $ 1.00 por hoja.
 
-a) Por sobrepasar el límite máximo de la oferta turística que, teniendo en cuenta el número de servicios turísticos por habitante o densidad de población, se determine en el Reglamento.
+III.- Información en Discos magnéticos y C.D. $ 10.00 cada uno
 
-b) Por registrar una demanda que por su afluencia o tipo de actividad turística, genere situaciones incompatibles con el cuidado y protección del medio ambiente natural y cultural.
-
-La declaratoria de Zona de Desarrollo Turístico Saturada implicará la evaluación de la expedición de nuevas autorizaciones o permisos para prestar los servicios turísticos señalados en esta Ley, dicha declaratoria continuará vigente únicamente hasta que desaparezcan las circunstancias que hayan motivado su expedición, según declaratoria del Estado.
+IV.- Información en DVD $ 10.00 cada uno.
 
 ## TITULO QUINTO. DE LA PROFESIONALIZACION DE LA ACTIVIDAD TURISTICA
 
