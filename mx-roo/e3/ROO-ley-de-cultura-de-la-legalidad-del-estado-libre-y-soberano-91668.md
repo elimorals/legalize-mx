@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-cultura-de-la-legalidad-del-estado-libre-y-soberano-9166
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-01-15"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE CULTURA DE LA LEGALIDAD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2012.
 
@@ -59,6 +57,10 @@ II.- Consejo Estatal: Consejo Estatal Quintanarroense de Cultura de la Legalidad
 
 III.- Ley: Ley de Cultura de la Legalidad para el Estado libre y Soberano de Quintana Roo;
 
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+III Bis.- Justicia social: Principio que busca la creación de una sociedad mas justa e inclusiva, mediante la distribución equitativa de los recursos, oportunidades y beneficios. Vinculada con el respeto a los derechos humanos, la equidad, la igualdad de género, la dignidad y el acceso igualitario a las oportunidades económicas, sociales y políticas.
+
 IV.- Programa: Programa de Impulso, Fomento y Desarrollo de la Cultura de la Legalidad en el Estado de Quintana Roo;
 
 V.- Estado: Estado Libre y Soberano de Quintana Roo.
@@ -89,7 +91,9 @@ Las acciones que se realicen al amparo de la presente Ley deberán efectuarse co
 
 Son principios rectores en la observancia, interpretación y aplicación de esta Ley:
 
-I.- El interés superior del Estado para fomentar la Cultura de la Legalidad, generando relaciones armónicas y solidarias entre individuos e instituciones las cuales deben ser el centro de las políticas públicas de gobernabilidad, seguridad y justicia.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE MAYO DE 2025)</small>
+
+I.- El interés superior del Estado para fomentar la Cultura de la Legalidad y la Justicia Social, generando relaciones armónicas y solidarias entre individuos e instituciones las cuales deben ser el centro de las políticas públicas de gobernabilidad, seguridad y justicia.
 
 Este principio establecerá la Cultura de la Legalidad, con base en el conocimiento, respeto y cumplimiento de la ley fortaleciendo los valores sociales, cívicos y políticos en los actos de la sociedad civil y entes públicos;
 
@@ -362,3 +366,13 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE SALUD DEL ESTADO DE QUINTANA ROO.
 
 DR. RAFAEL ALPUCHE DELGADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 122 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA DE LA LEGALIDAD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
