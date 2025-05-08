@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2025-03-07"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -151,9 +151,9 @@ VII. Violencia en el noviazgo: el acto abusivo de poder u omisión intencional, 
 
 VIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-IX. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, armas u objetos, ácidos o sustancias corrosivas, cáusticas, irritantes, tóxicas o inflamables, o cualquier otras sustancias que, en determinadas condiciones, puedan provocar o no lesiones ya sean internas, externas, o ambas;
+IX. Violencia física: cualquier acto material, no accidental, que inflige daño a la mujer a través del uso de la fuerza física, armas u objetos, que en determinadas condiciones, puedan provocar o no lesiones ya sean internas, externas, o ambas;
 
 X. Violencia Institucional: actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen, o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. También constituirá violencia institucional cuando los órganos de procuración y administración de justicia emitan resoluciones o que contengan prejuicios basados en el género, patrones estereotipados de comportamiento o prácticas sociales y culturales fundadas en conceptos de inferioridad de las mujeres o de subordinación a los hombres;
 
@@ -232,6 +232,10 @@ u) Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ej
 v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
 La violencia política contra las mujeres en razón de género, se sancionará en los términos establecidos en la legislación electoral, penal, y de responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XIV Bis. Violencia por ataques con ácido, sustancias químicas o corrosivas, o con fuego: Es la que se realiza mediante la acción de arrojar hacia una persona, o derramar sobre una persona, o poner en contacto del cuerpo de una persona, cualquier tipo de gas, compuesto químico, ácido, álcalis, sustancia química, corrosiva, cáustica, irritante, tóxica, inflamable, explosiva, reactiva, líquido a alta temperatura, fuego, o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad, o poner en peligro la vida, o causar la muerte.
 
 XV. Violencia psicológica: todo acto u omisión que daña la estabilidad psicológica que puede consistir en: prohibiciones, coacciones, condicionamientos, intimidaciones, desdén, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, chantaje, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas, o cualquier otra que conlleva a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -1774,6 +1778,14 @@ TERCERO. Las dependencias y entidades competentes en el ambito estatal y municip
 P.O. 7 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0170.- SE REFORMAN LOS ARTÍCULOS 8° EN SU FRACCIÓN XIV Y 30 EN SU FRACCIÓN I; Y ADICIONA A LOS ARTÍCULOS 3° LA FRACCIÓN VII BIS Y 4° LA FRACCIÓN XII BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0194.- QUE REFORMA Y ADICIONA EL ARTÍCULO 4º DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
