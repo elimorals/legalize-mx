@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2025-02-12"
+last_updated: "2025-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -859,9 +859,25 @@ XLIII. Normar y controlar los procesos para la proveeduría de los bienes y serv
 
 XLIV. Normar y difundir el sistema de control de almacenes generales y de inventarios de los bienes muebles que sean patrimonio del Estado, así como establecer los lineamientos y procedimientos para su control, vigilancia, baja y destino final;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-XLV. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado, conforme a lo previsto en el artículo 60 de la Ley del Patrimonio del Estado de Quintana Roo, así como administrar y asegurar la conservación y mantenimiento de los mismos;
+XLV. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado, conforme a lo previsto en el artículo 58 de la Ley del Patrimonio del Estado de Quintana Roo, así como administrar y asegurar la conservación y mantenimiento de los mismos;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XLV Bis. Formular, coordinar, operar, supervisar, regular, vigilar y ejecutar las políticas y procesos, en materia de su competencia, de la política patrimonial sobre los bienes inmuebles del Estado de conformidad con la Ley del Patrimonio del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XLV Ter. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales en materia de inversión público privada;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XLV Quater. Establecer la política en materia de inversión público privada y social;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+
+XLV Quinquies. Establecer las directrices de los proyectos de asociación público privada en coordinación con la instancia de gobierno encargada de la administración de los proyectos estratégicos;
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -1269,9 +1285,9 @@ XLV. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción, fomento económico y competitividad, en materia industrial, minera de comercio exterior e interior, abasto servicios, artesanías, inversión público-privada, innovación y tecnología, desregulación económica, así como participar en lo relativo a la industrialización agropecuaria y forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine el Gobernador del Estado en vinculación con el Sistema Estatal de Planeación, y ejercer por delegación del Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal, Estatal y Municipal;
+I. Formular, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción, fomento económico y competitividad, en materia industrial, minera de comercio exterior e interior, abasto servicios, artesanías, innovación y tecnología, desregulación económica, así como participar en lo relativo a la industrialización agropecuaria y forestal, con base en las disposiciones constitucionales y legales aplicables y las normas y lineamientos que determine la persona Titular del Poder Ejecutivo del Estado en vinculación con el Sistema Estatal de Planeación, y ejercer por delegación de la persona Titular del Poder Ejecutivo del Estado, las atribuciones y funciones que en esas materias contengan los convenios suscritos entre las Administraciones Públicas Federal, Estatal y Municipal;
 
 II. (DEROGADA, P.O. 16 DE JULIO DE 2021)
 
@@ -1287,9 +1303,9 @@ VII. Promover y coordinar los programas de promoción del comercio exterior y la
 
 VIII. Coadyuvar con las autoridades competentes en la instrumentación y divulgación de la normatividad del registro de la propiedad industrial, así como en lo relacionado con el estímulo y orientación de la inversión estatal, nacional e internacional y el comercio exterior en la entidad;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
 
-IX. Establecer la política en materia de inversión público privada y social, atracción de inversiones y promover en coordinación con la Secretaría de Finanzas y Planeación, y las demás instancias gubernamentales en la materia, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad.
+IX. Establecer la política en materia de atracción de inversiones y promover en coordinación con la Secretaría de Finanzas y Planeación, y las demás instancias gubernamentales en la materia, la implantación de los programas económicos que dan lugar a los estímulos fiscales y facilidades administrativas para el fomento de las actividades económicas en la entidad;
 
 X. Coadyuvar con las autoridades federales y locales competentes en la implementación de la política de precios, su cumplimiento y observancia de las disposiciones jurídicas aplicables en calidad, peso y medidas necesarias para las actividades comerciales e industriales;
 
@@ -1365,9 +1381,7 @@ XXXVIII. Instrumentar, ejecutar y coordinar la política estatal de apoyo incluy
 
 XXXIX. (DEROGADA, P.O. 12 DE FEBRERO DE 2025)
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2017)</small>
-
-XL. Establecer las directrices de los proyectos de asociación público privada en coordinación con la instancia de gobierno encargada de la administración de los proyectos estratégicos; y
+XL. (DEROGADA, P.O. 8 DE MAYO DE 2025)
 
 XLI. (DEROGADA, P.O. 12 DE FEBRERO DE 2025)
 
@@ -2930,3 +2944,19 @@ OCTAVO. Las facultades y competencias con que cuentan los órganos internos de c
 NOVENO. La Secretaría de Finanzas y Planeación y la Secretaría Anticorrupción y Buen Gobierno dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias, que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente decreto y su régimen transitorio.
 
 DÉCIMO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 8 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 120 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DEL PATRIMONIO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, la persona Titular del Poder Ejecutivo del Estado llevará a cabo las adecuaciones reglamentarias y a las demás disposiciones normativas necesarias para el correcto funcionamiento de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo.
+
+En tanto, se adecúan las disposiciones reglamentarias seguirán aplicándose los reglamentos y demás normatividad que se encuentren vigentes en todo lo que no se oponga al presente decreto.
+
+TERCERO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+CUARTO. La entrada en vigor del presente Decreto no afectará los recursos humanos, materiales y financieros que correspondan a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo y que, en virtud del presente Decreto, se sectoriza a la Secretaría de Finanzas y Planeación, por lo que no se afectarán regímenes, derechos laborales ni el cumplimiento de obligaciones previamente contraídas por el citado Organismo Público Descentralizado.
+
+QUINTO. Los asuntos, procedimientos y demás trámites vigentes a cargo de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo y que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán informados de inmediato a la Secretaría de Finanzas y Planeación, para la coordinación y seguimiento correspondiente.
