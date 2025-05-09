@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2024-12-20"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2025.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -429,9 +429,9 @@ XX. VIGESIMO CIRCUITO:
 
 2. Un tribunal colegiado de apelación, con residencia en Cintalapa de Figueroa.
 
-> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 32/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 4/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2025)</small>
 
-3. Catorce Juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales y de Amparo en Materia Penal, con residencia en Cintalapa de Figueroa; siete Juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; uno en Materia Mercantil Federal, con residencia en Tuxtla Gutiérrez; y cuatro Juzgados de Distrito Mixtos con sede en Tapachula.
+3. Catorce Juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales y de Amparo en Materia Penal; siete Juzgados de Distrito de Amparo y Juicios Federales; uno en Materia Mercantil Federal, todos con residencia en Tuxtla Gutiérrez; y cuatro Juzgados de Distrito Mixtos con sede en Tapachula.
 
 XXI. VIGESIMO PRIMER CIRCUITO:
 
@@ -1013,9 +1013,9 @@ Los juzgados de Distrito en el Estado de Tamaulipas, con residencia en Tampico e
 
 XX. VIGESIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 4/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2025)</small>
 
-Los juzgados de Distrito de Procesos Penales Federales y de Amparo en Materia Penal en el Estado de Chiapas, con sede en Cintalapa de Figueroa y los juzgados de Distrito de Amparo y Juicios Federales en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Capitán Luis Ángel Vidal, Catazajá, Cintalapa de Figueroa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, El Parral, Emiliano Zapata, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mezcalapa, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Rincón Chamula San Pedro, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
+Los juzgados de Distrito de Procesos Penales Federales y de Amparo en Materia Penal en el Estado de Chiapas y los juzgados de Distrito de Amparo y Juicios Federales en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acala, Aldama, Altamirano, Amatán, Amatenango del Valle, Angel Albino Corzo, Benemérito de las Américas, Berriozábal, Bochil, Capitán Luis Ángel Vidal, Catazajá, Cintalapa de Figueroa, Coapilla, Comitán de Domínguez, Copainalá, Chalchihuitán, Chamula, Chanal, Chapultenango, Chenalhó, Chiapa de Corzo, Chiapilla, Chicoasén, Chicomuselo, Chilón, El Bosque, El Parral, Emiliano Zapata, Francisco León, Huitiupán, Huixtán, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, Larrainzar, La Concordia, La Independencia, La Libertad, La Trinitaria, Las Margaritas, Las Rosas, Maravilla Tenejapa, Marqués de Comillas, Mezcalapa, Mitontic, Montecristo de Guerrero, Nicolás Ruiz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Rincón Chamula San Pedro, Sabanilla, Salto de Agua, San Andrés Duraznal, San Cristóbal de las Casas, San Fernando, San Juan Cancuc, San Lucas, Santiago el Pinar, Simojovel, Sitalá, Socoltenango, Solosuchiapa, Soyaló, Suchiapa, Sunuapa, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tzimol, Venustiano Carranza, Villa Corzo, Villaflores, Yajalón y Zinacantán.
 
 > <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 16/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE OCTUBRE DE 2024)</small>
 
@@ -11370,5 +11370,19 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. El Juzgado Décimo Tercero de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Madero, Tamaulipas, así como la Oficina de Correspondencia Común que le presta servicio deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
 
 CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado del órgano jurisdiccional que cambia de residencia y domicilio.
+
+QUINTO. Se deroga cualquier disposición contraria a lo contenido en el presente Acuerdo.
+
+D.O.F. 9 DE MAYO DE 2025.
+
+ACUERDO GENERAL 4/2025 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y DE AMPARO EN MATERIA PENAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA, A LA CIUDAD DE TUXTLA GUTIÉRREZ.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Juzgados Primero y Segundo de Distrito de Procesos Penales Federales y de Amparo en Materia Penal en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, así como la Oficina de Correspondencia Común que les prestan servicio deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el cambio de residencia y domicilio dispuesto en el presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, prestará auxilio en el traslado de los órganos jurisdiccionales que cambian de residencia y domicilio.
 
 QUINTO. Se deroga cualquier disposición contraria a lo contenido en el presente Acuerdo.
