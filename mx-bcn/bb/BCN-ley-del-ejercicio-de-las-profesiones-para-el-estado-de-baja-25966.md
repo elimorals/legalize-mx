@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-ejercicio-de-las-profesiones-para-el-estado-de-baja-259
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-06"
-last_updated: "2023-05-26"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 6 de septiembre de 2002.
 
@@ -551,11 +551,11 @@ Las y los profesionistas de otras entidades federativas del país podrán ser re
 
 El trámite podrá realizarse en forma personal, o por conducto de las instituciones de educación superior, o bien por la Asociación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 19.
 
-La (sic) y los pasantes para ejercer en el Estado, requieren de autorización provisional expedida por el Departamento por un período de dos años, la cual podrá ser prorrogada por un año más.
+Las y los pasantes para ejercer en el Estado, requieren de autorización provisional expedida por el Departamento por un período de dos años, la cual podrá ser prorrogada por un año más.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE AGOSTO DE 2006)</small>
 
@@ -571,7 +571,9 @@ I.- Haber concluido los planes y programas relativos a la Licenciatura, Especial
 
 II.- Constancia de buena conducta expedida por la institución de educación superior de donde egresó;
 
-III.- No tener más de un año de terminados los estudios de su carrera profesional;
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2025)</small>
+
+III.- No tener más de dos años de terminados los estudios de su carrera profesional;
 
 IV.- Tener un promedio de calificaciones no inferior a ocho.
 
@@ -1284,3 +1286,9 @@ P.O. 26 DE MAYO DE 2023.
 PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. Las y los profesionistas que ejerzan en Baja California, y cuyo Título profesional haya sido expedido en otra entidad federativa, en caso de no contar con su Registro Profesional Estatal, tendrán un plazo de dos meses para solicitarlo.
+
+P.O. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO.89 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 19 DE LA LEY DE EJERCICIO DE LAS PROFESIONES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
