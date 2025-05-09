@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-de-la-junta-directiva-del-instituto-federal-de-160347"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-09-29"
-last_updated: "2022-09-29"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160347&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-09-19"
 
 ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE ESPECIALISTAS DE CONCURSOS MERCANTILES, POR EL QUE SE EMITEN LOS CRITERIOS DE SELECCIÓN Y ACTUALIZACIÓN DE LOS ESPECIALISTAS DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MAYO DE 2025.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 29 de septiembre de 2022.
 
@@ -111,7 +111,9 @@ En caso de presentar la solicitud de manera electrónica deberá manifestar bajo
 
 2.8. El Instituto recibirá la solicitud y analizará si reúne los requisitos ordenados por la Ley, las Reglas, y los presentes Criterios, acusando su recibo. El Instituto podrá solicitar cualquier información adicional que juzgue conveniente para la evaluación del solicitante.
 
-2.9. Una vez que se cuente con el expediente del solicitante debidamente integrado, el Instituto citará al solicitante a entrevistas, en las cuales podrá aplicar evaluaciones de conocimientos teóricos y prácticos, a fin de complementar la información para decidir sobre la inscripción en el Registro.
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2025)</small>
+
+2.9. Una vez que se cuente con el expediente del solicitante, la persona Titular de la Unidad de Registro y Control de Especialistas del Instituto, hará constar que dicho expediente está debidamente integrado y resguardado. Posteriormente, el Instituto citará al solicitante a entrevistas, en las cuales podrá aplicar evaluaciones de conocimientos teóricos y prácticos, a fin de complementar la información para decidir sobre la inscripción en el Registro.
 
 2.10. El Instituto podrá considerar algún otro elemento para la evaluación del solicitante.
 
@@ -150,3 +152,13 @@ Segundo.- A partir de la entrada en vigor del presente Acuerdo, se abrogan los �
 Tercero.- Los procedimientos para dar trámite a las solicitudes de inscripción en el Registro que se hayan presentado al Instituto con anterioridad a la entrada en vigor del presente Acuerdo, se regirán conforme a los Criterios de Selección y Actualización de los Especialistas de Concursos Mercantiles vigentes al momento de su presentación.
 
 El presente Acuerdo se emite en la Ciudad de México, el diecinueve de septiembre de dos mil veintidós.- El Director General del Instituto Federal de Especialistas de Concursos Mercantiles, Edgar Manuel Bonilla Del Ángel.- Rúbrica.- Vocales del Instituto Federal de Especialistas de Concursos Mercantiles: Jaime Alejandro Gutiérrez Vidal, Guillermo Casas, Marco Antonio López Pérez y María Isabel Almaraz Guzmán.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICA EL NUMERAL 2.9 DE LOS CRITERIOS DE SELECCIÓN Y ACTUALIZACIÓN DE LOS ESPECIALISTAS DE CONCURSOS MERCANTILES”.]
+
+Primera.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segunda.- Salvo la presente modificación, los Criterios de Selección y Actualización de los Especialistas de Concursos mercantiles, publicados en el Diario Oficial de la Federación el veintinueve de septiembre de dos mil veintidós, continúan vigentes.
