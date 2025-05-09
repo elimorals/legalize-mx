@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2021-03-10"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2025.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -2254,6 +2254,20 @@ de ordenamiento ecológico, en términos de la Ley
 Estatal de Protección Ambiental y los Programas de
 
 Ordenamiento Ecológico respectivos: 2.1205 UMA
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2025)</small>
+
+XI. Por el uso temporal del Santuario Parque Naturalia, mediante recorridos para observación de fauna silvestre, visitas guiadas y no guiadas, se pagarán derechos conforme a las siguientes cuotas:
+
+a) Por persona adulta 0.5526 UMA
+
+b) Niños de 2 a 11 años 0.2763 UMA
+
+c) Adultos mayores 60 años 0.2763 UMA
+
+En los supuestos establecidos en esta fracción, no se causará el Impuesto Adicional para el Fomento a la Educación.
+
+Los ingresos que se obtengan por los conceptos determinados en la presente fracción se destinarán al desarrollo de programas, proyectos y actividades vinculadas con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia de vida silvestre.
 
 ### Capítulo Séptimo. De los Derechos por Servicios Prestados por la Secretaría de Desarrollo Social
 
@@ -7711,6 +7725,52 @@ XXX. Trámite de reexpedición de constancia de
 
 liberación de servicio social: 2.3671 UMA
 
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2025)</small>
+
+###### Artículo 59 Quinquies.
+
+Por el uso Temporal del Aquarium del Puerto de Veracruz, mediante recorridos para observación de fauna silvestre y marina, visitas guiadas y no guiadas, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por persona adulta 1.5658 UMA
+
+II. Niños de 2 a 11 años 1.0132 UMA
+
+III. Adultos mayores de 60 años 1.0132 UMA
+
+En los supuestos establecidos en este artículo, no se causará el Impuesto Adicional para el Fomento de la Educación.
+
+Los ingresos que se obtengan por los conceptos determinados en el presente artículo se destinarán al desarrollo de programas, proyectos y actividades vinculadas con la restauración, conservación y recuperación de especies y poblaciones, así como a la difusión, capacitación y vigilancia de vida marina.
+
+> <small>(ADICIONADO, G.O. 9 DE MAYO DE 2025)</small>
+
+###### Artículo 59 Sexies.
+
+Por los servicios prestados por la Academia Regional de Seguridad Publica del Sureste:
+
+> <small>[N. DE E. VÉASE TABLA A. EN LA G.O. DE 9 DE MAYO DE 2025, PÁGINA 4.]</small>
+
+A. Formación Inicial.
+
+> <small>[N. DE E. VÉASE TABLA B. EN LA G.O. DE 9 DE MAYO DE 2025, PÁGINAS DE LA 4 A LA 5.]</small>
+
+B. Formación Continua.
+
+> <small>[N. DE E. VÉASE TABLA C. EN LA G.O. DE 9 DE MAYO DE 2025, PÁGINA 5.]</small>
+
+C. Formación de Mandos.
+
+> <small>[N. DE E. VÉASE TABLA D. EN LA G.O. DE 9 DE MAYO DE 2025, PÁGINA 5.]</small>
+
+D. Competencias Básicas para la Función Policial.
+
+> <small>[N. DE E. VÉASE TABLA E. EN LA G.O. DE 9 DE MAYO DE 2025, PÁGINAS DE LA 5 A LA 6.]</small>
+
+E. Actualización y Profesionalización en materia de Seguridad Pública, Procuración de Justicia, Sistema de Justicia Penal y Sistema Penitenciario.
+
+> <small>[N. DE E. VÉASE TABLA F. EN LA G.O. DE 9 DE MAYO DE 2025, PÁGINAS DE LA 6 A LA 7.]</small>
+
+F. Actualización en materia de Seguridad Pública, Procuración de Justicia, Sistema de Justicia Penal y Sistema Penitenciario.
+
 ## Título Cuarto. De los Derechos por Servicios Prestados Por el Poder Judicial del Estado
 
 > <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
@@ -7976,3 +8036,11 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 QUE ADICIONA LA FRACCIÓN XI, AL ARTÍCULO 19 Y LOS ARTÍCULOS 59 QUINQUIES Y 59 SEXIES, AL CÓDIGO DE DERECHOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave. El presente Decreto entrará en vigor el día de su publicación.
+
+Segundo. Las entidades públicas referidas en el presente Decreto, en el ámbito de sus respectivas competencias, deberán efectuar las adecuaciones a sus reglamentos interiores en el plazo de noventa días hábiles.
