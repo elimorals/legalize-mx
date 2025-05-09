@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2024-12-11"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2025.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -123,6 +123,10 @@ XVII. Diputado sin partido: La o el Diputado que emana de una contienda electora
 > <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
 XVII Bis. Diputación Migrante: La persona diputada dentro del Congreso que representa a las personas migrantes originarias de la Ciudad de México, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADA, G.O. 9 DE MAYO DE 2025)</small>
+
+XVII Ter. Formato de Lectura Fácil. Texto complementario al principal redactado en lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, eliminando barreras y dificultades para su comprensión, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
 
 XVIII. Gaceta parlamentaria: Documento de difusión interna de los instrumentos parlamentarios inscritos en el orden del día del Congreso;
 
@@ -2929,3 +2933,13 @@ G.O. 11 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVII TER AL ARTÍCULO 4, DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; SE ADICIONA UNA FRACCIÓN XVII TER AL ARTÍCULO 2; SE REFORMAN LAS FRACCIONES XI, XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 96; SE REFORMAN LAS FRACCIONES VIII, IX Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 106 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Congreso de la Ciudad de México, por conducto de la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, deberá elaborar la Guía para la Elaboración de Formatos de Lectura Fácil en Instrumentos Legislativos del Congreso de la Ciudad de México, dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto.
