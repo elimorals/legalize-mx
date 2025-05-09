@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2024-02-27"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -519,9 +519,11 @@ El Sindicato de Trabajadores al Servicio del Estado, Municipios y de los Organis
 
 (DEROGADO, P.O. 27 DE FEBRERO DE 2024)
 
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 39.
 
-Para la constitución del sindicato y para su reconocimiento, será necesario que esté integrado por una mayoría absoluta.
+Para la constitución del sindicato y para su reconocimiento, será necesario que esté integrado por un mínimo de veinte trabajadores.
 
 ###### ARTICULO 40.
 
@@ -1116,3 +1118,13 @@ TREINTA 2030
 TERCERO. Remítase a la Titular del Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general y efectos conducentes.
 
 CUARTO. Publíquese en la página web del Congreso General, para su conocimiento general y efectos conducentes.
+
+P.O. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224 POR EL QUE SE REFORMA EL ARTÍCULO 70 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248, Y EL ARTÍCULO 39 DE LA LEY NÚMERO 51 ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
