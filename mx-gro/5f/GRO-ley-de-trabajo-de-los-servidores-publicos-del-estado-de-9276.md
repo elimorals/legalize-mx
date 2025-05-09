@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2024-02-27"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -829,9 +829,11 @@ ARTICULO 68 A.- Cuando con motivo de un Convenio o Acuerdo de Coordinación se t
 
 (DEROGADO, P.O. 27 DE FEBRERO DE 2024)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2015)</small>
+
 ###### ARTICULO 70.
 
-En todo lo demás, los requisitos de constitución del sindicato y para su reconocimiento, será necesario que esté integrado por una mayoría absoluta y deberá registrarse en el Tribunal de Conciliación y Arbitraje, a cuyo efecto remitirá a éste, por duplicado, los siguientes documentos:
+En todo lo demás, los requisitos de constitución del sindicato y para su reconocimiento, será necesario que esté integrado por un mínimo de veinte trabajadores, y deberá registrarse en el Tribunal de Conciliación y Arbitraje, a cuyo efecto remitirá a éste, por duplicado, los siguientes documentos:
 
 I.- Copia autorizada del acta de asamblea constitutiva;
 
@@ -1476,3 +1478,13 @@ TREINTA 2030
 TERCERO. Remítase a la Titular del Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general y efectos conducentes.
 
 CUARTO. Publíquese en la página web del Congreso General, para su conocimiento general y efectos conducentes.
+
+P.O. 9 DE MAYO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224 POR EL QUE SE REFORMA EL ARTÍCULO 70 DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248, Y EL ARTÍCULO 39 DE LA LEY NÚMERO 51 ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
