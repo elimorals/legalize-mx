@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-estatal-de-cultura-fisica-y-deporte-del-35829
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-24"
-last_updated: "2025-03-10"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de diciembre de 2003.
 
@@ -349,9 +349,9 @@ b) La Secretaría de Educación;
 
 c) La Secretaría de Salud, y
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2025)</small>
 
-d) La Secretaria de Desarrollo social.
+d) La Secretaria de Igualdad e inclusión.
 
 Los vocales de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para este efecto con el carácter de suplente, mediante documento que se le remita a la misma.
 
@@ -774,3 +774,9 @@ P.O. 10 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 066. SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 8 Y SE ADICIONA UN INCISO M) A LA FRACCIÓN IV DEL ARTÍCULO 8 TODOS DE LA LEY DEL INSTITUTO ESTATAL DE CULTURAL FÍSICA Y DEPORTE DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 099. SE REFORMA EL INCISO D), DE LA FRACCIÓN IV DEL ARTÍCULO 13, DE LA LEY DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
