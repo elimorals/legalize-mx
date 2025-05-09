@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2022-11-21"
+last_updated: "2025-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -63,9 +63,9 @@ II.- Las niñas, niños y adolescentes en estado de abandono, desamparo, desnutr
 
 III.- Las niñas, niños y adolescentes infractores en lo referente a su atención integral y reintegración a la familia, sin menoscabo de lo que establezca la legislación penal y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2025)</small>
 
-IV.- Personas Adultas Mayores en desamparo, con discapacidad, marginación o sujetos al maltrato;
+IV.- Personas Adultas Mayores en desamparo, con discapacidad, marginación, sujetos al maltrato o que ejerzan la patria potestad;
 
 > <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -704,3 +704,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Organismo, dentro de los 60 días hábiles contados a partir de la publicación del presente Decreto, emitirá los lineamientos que regulen la integración y operación del Padrón Estatal de Niñas, Niños y Adolescentes en situación de orfandad.
 
 TERCERO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 9 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 095. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4o. DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones financieras y económicas emanadas del presente Decreto, durante el ejercicio fiscal presente, estas se realizarán acorde a las capacidades financieras del Estado.
+
+TERCERO.- El Ejecutivo del Estado así como los Municipios contarán con un plazo de 120 días hábiles a partir de la entrada en vigor del presente Decreto, para que realicen las adecuaciones necesarias a sus respectivos reglamentos
