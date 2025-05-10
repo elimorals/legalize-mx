@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2023-10-11"
+last_updated: "2025-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -3443,21 +3443,41 @@ Cualquier persona física o moral, tiene el derecho y el deber de denunciar ante
 
 La autoridad que tenga conocimiento de los hechos u omisiones señalados en el párrafo anterior, deberá denunciarlos ante la autoridad competente en la materia a fin de que se siga el procedimiento correspondiente.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2025)</small>
 
 ###### Artículo 206.
 
-La denuncia ciudadana podrá realizarse por cualquier ciudadano, mediante cualquiera de las siguientes vías: de forma verbal, por escrito, llamada telefónica, por correo electrónico que para tal efecto establezca la Secretaría o cualquier otro medio que la Secretaría estime conveniente; proporcionando como mínimo el denunciante:
+La denuncia ciudadana podrá realizarse por cualquier ciudadano, mediante cualquiera de las siguientes vías: de forma verbal, por escrito, llamada telefónica, por correo electrónico o por buzón, la cual podrá ser de manera anónima, que para tal efecto establezca la Secretaría o cualquier otro medio que la Secretaría estime conveniente; proporcionando como mínimo el denunciante:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 I. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y, en su caso, de su representante legal;
 
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 II. Los hechos, acciones u omisiones denunciados; y
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 III. En su caso, los datos que permitan identificar al presunto infractor o localizar la fuente contaminante.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2025)</small>
+
+En el caso de la denuncia anónima, está deberá cumplir con lo que establecen las fracciones II y III de este artículo.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 De la denuncia presentada, el servidor público que la reciba, levantará acta circunstanciada, el denunciante deberá ratificarla por escrito únicamente cuando se realice por vía telefónica, además deberá cumplir con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, caso en contrario se desechará el reporte de denuncia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MAYO DE 2025)</small>
+
+En el caso de la denuncia anónima una vez que se reciba, el servidor público deberá de revisarla, para ver que cumpla con los requisitos de las fracciones II y III del presente artículo, en caso contrario se desechará el reporte de denuncia.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
+
 No se admitirán denuncias notoriamente improcedentes o infundadas, aquéllas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2014)</small>
 
 Si el denunciante solicita guardar secreto respecto de su identidad, por razones de seguridad e interés particular, la Secretaría llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables le otorgan.
 
@@ -4119,17 +4139,17 @@ Si los daños ambientes (sic) fueren reversibles, al responsable de este delito 
 
 Un daño se considerará irreversible cuando, con las tecnologías y conocimientos disponibles, no fuere posible recuperar el ambiente para volverlo al estado anterior al hecho punible.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2025)</small>
 
 ###### Artículo 265.
 
-Para proceder penalmente por el delito previsto en este Capítulo, será necesario previamente que la Secretaría formule la denuncia correspondiente.
+Para proceder penalmente por el delito previsto en este Capítulo y otras disposiciones de la materia, cualquier persona podrá interponer la denuncia correspondiente ante la Fiscalía General de Justicia del Estado de Nuevo León, la cual analizará la presunta conducta delictiva denunciada y resolverá lo conducente, conforme a los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2025)</small>
 
 ###### Artículo 266.
 
-La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le sean solicitados por las personas denunciantes, el Ministerio Público o por las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales. La falta de respuesta de la Secretaría no impedirá la investigación de oficio de las conductas presuntamente delictivas.
 
 ## TRANSITORIOS
 
@@ -4500,3 +4520,23 @@ QUINTO.- Durante los primeros dieciocho meses de entrada en vigor del presente d
 Las empresas de extracción pétrea ubicadas fuera del área metropolitana de Monterrey y cuyas características de producción las obliguen, de acuerdo a lo establecido en la fracción XXI del artículo 126 BIS 1, a transitar al modelo de uso de agua residual tratada, dispondrán de un periodo de dos años después de la entrada en vigor del presente decreto para cumplir con lo establecido en el citado artículo.
 
 SEXTO.-Se derogan las disposiciones normativas que contravengan el presente Decreto.
+
+P.O. 10 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 105. SE REFORMA EL ARTÍCULO 206 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigor el presente decreto, la Secretaría de Medio Ambiente, dentro de un plazo no mayor a 30 días hábiles, deberá habilitar un espacio para establecer un buzón en la entrada del Pabellón Ciudadano, con la finalidad de que se puedan presentar denuncias por escrito de manera anónima.
+
+P.O. 10 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 111. SE REFORMAN LOS ARTÍCULOS 265 Y 266 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 2 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; SE ADICIONA LA FRACCIÓN VI BIS 2 AL ARTÍCULO 10, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se establece un plazo de hasta 30 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, para que el Fiscal General del Estado, designe a la persona que ocupará la titularidad de la Fiscalía Especializada en Materia Ambiental.
+
+TERCERO.- La Fiscalía General de Justicia del Estado de Nuevo León, expedirá las reformas a su Reglamento Interno, para dar cumplimiento a las disposiciones de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Nuevo León que por este Decreto se modifican, en un plazo no mayor a noventa días a partir de la entrada en vigor del mismo.
+
+CUARTO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y Tesorería General del Estado, deberá proveer las partidas presupuestales necesarias para la implementación de las presentes disposiciones, en el primer presupuesto de Egresos del Estado que se apruebe de forma posterior a la entrada en vigor del presente Decreto.
