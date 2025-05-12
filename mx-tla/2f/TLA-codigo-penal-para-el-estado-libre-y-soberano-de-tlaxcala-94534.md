@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2025-04-30"
+last_updated: "2025-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2025.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3545,7 +3545,9 @@ Lo anterior, con independencia del sexo del ofendido.
 
 Se aplicarán de veinticinco a treinta años de prisión y multa de setecientos veinte a mil ochenta Unidades de Medida y Actualización, a quien:
 
-I. Realice cópula con persona menor de catorce años de edad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+I. Sin violencia realice cópula con persona menor de dieciocho años de edad;
 
 II. Realice cópula con persona que no tenga la capacidad de comprender el significado del hecho;
 
@@ -3629,23 +3631,17 @@ IX. En contra de la víctima por su condición de género, preferencia sexual, y
 
 ### CAPÍTULO III. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 293.
 
-Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces el valor de la Unidad de Medida y Actualización.
+Se impondrá de seis meses a cuatro años de prisión y multa de treinta y seis a doscientas ochenta y ocho veces el valor de la Unidad de Medida y Actualización, a quien:
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
+I. Realice cópula con una persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por medio de la seducción, el engaño o por relación de poder, y
 
-I. A quien tenga cópula con una persona mayor de catorce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño; y
+II. A quien introduzca por vía oral, vaginal o anal cualquier parte del cuerpo humano distinto al pene, o cualquier elemento o instrumento, a una persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por la seducción, el engaño o por relación de poder.
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
-
-II. A quien introduzca por vía oral, vaginal o anal cualquier parte del cuerpo humano distinto al pene, o cualquier elemento o instrumento, a una persona mayor de catorce años y menos de dieciocho, obteniendo su consentimiento por la seducción y el engaño.
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
-
-Se procederá contra el inculpado del estupro por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
+Este delito se perseguirá por querella de la víctima o parte ofendida.
 
 ### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
 
@@ -6136,3 +6132,19 @@ Hasta en tanto se declare la aplicación del Código Nacional de Procedimientos 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 12 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 146.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 289 Y EL ARTÍCULO 293, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto, deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
