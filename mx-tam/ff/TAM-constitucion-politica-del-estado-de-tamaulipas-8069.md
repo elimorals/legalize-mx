@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-04-10"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -337,7 +337,21 @@ IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al 
 
 V. La libertad de información y, en particular de sus ciudadanos para asuntos políticos, así como para utilizar y divulgar la información pública que reciban. El Estado garantizará el acceso a la información pública. Todo ente público, entidad, órgano y organismo de los Poderes Legislativo, Ejecutivo y Judicial, y municipios; órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal; respetará esta libertad y pondrá a disposición del público la información con que cuente en virtud de sus actividades; salvo aquellas excepciones que se señalen expresamente en las leyes de la materia, o aquellas relativas a la intimidad, privacidad y dignidad de las personas, en los términos que señale la ley. La libertad de información comprende la protección del secreto profesional, sin demérito del derecho de réplica de toda persona ante la divulgación de información inexacta que le agravie.
 
-Para garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados establecidos en la presente fracción, el Estado contará con un organismo autónomo, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, el cual regirá su funcionamiento y actuación conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y en la Ley que para tales efectos deberá expedir el Congreso del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Para garantizar el derecho de acceso a la información y de protección de datos personales los sujetos obligados establecidos en la presente fracción, actuarán conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y en la Ley que para tales efectos expida el Congreso del Estado Libre y Soberano de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Los sujetos obligados del Estado deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. La Ley General y demás leyes en la materia, determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el Estado, para tales efectos el Congreso del Estado Libre y Soberano de Tamaulipas deberá expedir la ley de la materia del Estado, en la que, además, se determine la competencia y la facultad para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+El ejercicio de este derecho se regirá, como mínimo, por los principios de certeza, legalidad, congruencia, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+La ley del Estado establecerá aquella información que se considere reservada o confidencial;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2023)</small>
 
@@ -439,9 +453,9 @@ II.- La ratificación se hará por el voto de las dos terceras partes de los mie
 
 III.- El Comisionado Presidente y los Comisionados durarán siete años en su encargo, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
-Dentro del Instituto habrá un Consejo Consultivo integrado por representantes de las Secretarías de Salud, de Educación, de Bienestar Social, de Seguridad Pública, y de las Fiscalías establecidas por esta Constitución, así como del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, para el efecto de coordinar todos los aspectos relacionados con la cédula, su implementación y mecanismos de cooperación.
+Dentro del Instituto habrá un Consejo Consultivo integrado por representantes de las Secretarías de Salud, de Educación, de Bienestar Social, de Seguridad Pública, y de las Fiscalías establecidas por esta Constitución, así como la Dependencia del Ejecutivo Estatal responsable del control interno, para el efecto de coordinar todos los aspectos relacionados con la cédula, su implementación y mecanismos de cooperación.
 
 El Instituto será el responsable de la dirección, expedición, control, registro, gestión y todas las demás actividades relacionadas con la cédula estatal de identidad.
 
@@ -1375,9 +1389,9 @@ XXXV. (DEROGADA, P.O. 4 DE MARZO DE 2021)
 
 XXXVI. Expedir la ley reglamentaria del Centro de Conciliación Laboral del Estado de Tamaulipas, conforme a la legislación aplicable; dicho organismo estará a cargo del Poder Ejecutivo del Estado, el cual será especializado e imparcial, correspondiéndole a éste la función conciliatoria;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-XXXVII. Recibir la protesta constitucional a las Diputadas y los Diputados, a la persona titular del Poder Ejecutivo y a quienes, en su caso, deban ejercer esta función; a las y los Magistrados del Supremo Tribunal de Justicia; a las y los integrantes del Pleno del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial; a las Juezas y los Jueces; a las Magistradas o Magistrados del Tribunal de Justicia Administrativa del Estado; a la persona titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, y a las personas servidoras públicas que nombre y que conforme a las leyes deban rendirla;
+XXXVII. Recibir la protesta constitucional a las Diputadas y los Diputados, a la persona titular del Poder Ejecutivo y a quienes, en su caso, deban ejercer esta función; a las y los Magistrados del Supremo Tribunal de Justicia; a las y los integrantes del Pleno del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial; a las Juezas y los Jueces; a las Magistradas o Magistrados del Tribunal de Justicia Administrativa del Estado; a la persona titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas, y a las personas servidoras públicas que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -3231,9 +3245,9 @@ Los procedimientos para la aplicación de las sanciones mencionadas en las fracc
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
-La Auditoría Superior del Estado y la Contraloría Gubernamental, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en los artículos (sic) 20, Apartado C, fracción VII de la Constitución Federal y demás disposiciones legales aplicables.
+La Auditoría Superior del Estado y la Dependencia del Ejecutivo Estatal responsable del control interno, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa, de conformidad con lo previsto en los artículos 20, Apartado C, fracción VII de la Constitución Federal y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
 
@@ -3241,11 +3255,11 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, y del Tribunal Electoral del Estado, las personas integrantes del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las personas titulares de las dependencias de la Administración Pública Estatal, la persona titular de la Fiscalía General de Justicia, de las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, Magistradas y Magistrados del Tribunal de Justicia Administrativa, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales y así como las y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, y del Tribunal Electoral del Estado, las personas integrantes del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las personas titulares de las dependencias de la Administración Pública Estatal, la persona titular de la Fiscalía General de Justicia, de las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, Magistradas y Magistrados del Tribunal de Justicia Administrativa, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales y así como las y los integrantes de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2025)</small>
 
@@ -3267,11 +3281,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y del Tribunal Electoral del Estado, los miembros del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las personas titulares de las dependencias de la Administración Pública Estatal, la persona titular de la Fiscalía General de Justicia, las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, la o el Consejero Presidente y las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas y las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra la persona imputada.
+Para proceder penalmente contra las y los Diputados al Congreso del Estado, las y los Magistrados del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial y del Tribunal Electoral del Estado, los miembros del Pleno del Órgano de Administración Judicial, las Juezas y los Jueces, las personas titulares de las dependencias de la Administración Pública Estatal, la persona titular de la Fiscalía General de Justicia, las Fiscalías Especializadas en Combate a la Corrupción, Delitos Electorales y Asuntos Internos, la o el Consejero Presidente y las y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, la persona titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y las y los titulares de los organismos descentralizados estatales, empresas de participación estatal y fideicomisos públicos estatales, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra la persona imputada.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -3339,9 +3353,9 @@ Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves 
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-I.- El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción y de la Contraloría Gubernamental; por las Presidencias del Tribunal de Justicia Administrativa y del organismo autónomo garante previsto por el artículo 17, fracción V, último párrafo, de esta Constitución; por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana Local, quien lo presidirá.
+I.- El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción, y de la Dependencia del Ejecutivo Estatal responsable del control interno; por la Presidencia del Tribunal de Justicia Administrativa; por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana Local.
 
 II.- El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción; y serán designados en los términos establecidos por la Ley General del Sistema Nacional Anticorrupción y en la ley estatal en la materia. En la conformación del citado Comité se procurará que prevalezca la equidad de género.
 
@@ -5826,3 +5840,65 @@ Al concluir el proceso electoral extraordinario 2024-2025 el Senado de la Repúb
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-318 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN V, PÁRRAFO SEGUNDO; 17 TER, FRACCIÓN III, PÁRRAFO SEGUNDO; 58, FRACCIÓN XXXVII; 150, FRACCIÓN IV, PÁRRAFO CUARTO; 151, PÁRRAFO PRIMERO; 152, PÁRRAFO PRIMERO; Y 154, FRACCIÓN I; Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO A LA FRACCIÓN V AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones que contravengan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría de Administración, Secretaría de Finanzas, así como a la Contraloría Gubernamental que es la dependencia del ejecutivo estatal responsable del control interno, a realizar de manera inmediata, los procedimientos correspondientes para llevar a cabo las adecuaciones normativas y de estructura orgánica a las que haya lugar, derivados de la presente reforma, sin que tales procesos puedan exceder el plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Las adecuaciones normativas que se realicen, deberán considerar la eliminación de organismos, unidades administrativas o estructuras que representen duplicidad de funciones, así como la integración de los órganos desconcentrados o unidades administrativas en la dependencia de la administración pública que pueda asumir su competencia.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría de Finanzas, Secretaría de Administración, así como a la Contraloría Gubernamental a realizar de manera inmediata las adecuaciones y transferencias presupuestales, financieras y de recursos humanos, derivados de la presente reforma, sin que tales procesos puedan exceder de 60 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos, materiales, financieros, tecnológicos y documentales asignados al Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, se transferirán a la dependencia del Ejecutivo Estatal responsable del control interno, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+El presupuesto ejercido por el Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, se comprobará conforme a la legislación aplicable.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas se extinguirá al momento de la entrada en vigor de la legislación a que hace referencia el ARTÍCULO TERCERO transitorio del presente Decreto.
+
+Los actos jurídicos emitidos por dicho Instituto, con anterioridad a la entrada en vigor de la legislación secundaria aludida, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a la dependencia del Ejecutivo que asuma sus funciones, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los archivos institucionales, registros, padrones, plataformas y sistemas electrónicos del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, conforme al presente artículo transitorio, pasarán a formar parte de la dependencia del Ejecutivo que asuma sus funciones, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las personas Comisionadas del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación a que alude el ARTÍCULO TERCERO transitorio, salvo aquellos cuya vigencia de su nombramiento concluya previamente.
+
+###### ARTÍCULO OCTAVO.
+
+Los derechos laborales de las personas servidoras públicas serán respetados, en términos de la legislación aplicable, con la consideración de que la dependencia del Ejecutivo Estatal responsable del control interno, ajustará su presupuesto a su estructura orgánica y ocupacional de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán transferidos a la dependencia del Ejecutivo que asuma sus funciones, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita y serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que al momento de la entrada en vigor de la legislación a que hace referencia el ARTÍCULO TERCERO transitorio del presente Decreto, se encuentren en trámite ante el Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, serán transferidos a la dependencia del Ejecutivo que asuma sus funciones, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sea parte el Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, que se encuentre pendiente de resolver a la entrada en vigor de la legislación a que hace referencia el ARTÍCULO TERCERO transitorio del presente Decreto, será transferido a la dependencia del Ejecutivo que asuma sus funciones, en los términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para efectos de expedir la Ley de Transparencia del Estado, que refieren los párrafos segundo y tercero de la fracción V del artículo 17, el cual se adiciona en el presente decreto, el Congreso del Estado Libre y Soberano de Tamaulipas, contará con un término de 60 días naturales, contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
