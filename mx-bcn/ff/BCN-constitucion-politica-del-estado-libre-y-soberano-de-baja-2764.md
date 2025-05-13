@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2025-05-02"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -459,23 +459,27 @@ Asimismo, esta Constitución garantiza el derecho a establecer sus propios medio
 
 En términos del inciso C) del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los párrafos anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, mismo que incluye el respeto y trato digno a los animales para su bienestar integral; asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2025)</small>
+
+Esta Constitución y las leyes del Estado reconocen a los animales como seres sintientes sujetos de una especial protección, garantizando su bienestar integral a través de un trato digno y respetuoso.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MAYO DE 2025)</small>
 
 El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de este servicio en los términos de la Ley.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MAYO DE 2025)</small>
 
 Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MAYO DE 2025)</small>
 
 El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MAYO DE 2025)</small>
 
 Toda persona tiene el derecho humano a la seguridad ciudadana y a vivir libre de corrupción.
 
@@ -643,11 +647,11 @@ En los casos, donde la integración sea impar, en las nuevas designaciones se de
 
 ### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 8.
 
-·Son derechos de las y los habitantes del Estado:
+Son derechos de las y los habitantes del Estado:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -792,6 +796,10 @@ XXI.- Recibir un trato igualitario y respetuoso, sin preferencias o discriminaci
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
 XXII.- A que el Estado les proporcione el servicio de defensoría pública gratuita en los términos de la legislación aplicable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XXIII.- Si son mujeres jefas de familia en situación de vulnerabilidad económica, recibir un apoyo económico periódico de acuerdo al presupuesto aprobado. El referido apoyo se entregará en los términos y condiciones del programa que para tal efecto se expida.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -5910,3 +5918,23 @@ PRIMERO. Aprobadas las presentes reformas por el Pleno del Congreso del Estado, 
 SEGUNDO. Agotado el proceso legislativo a que se refiere el transitorio anterior, y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 91 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7 Y 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+## [N. DE E. TRANSITORIOS DEL PUNTO PRIMERO DEL DECRETO NO. 91.]
+
+Primero.- Aprobada la presente reforma por el Pleno del Congreso del Estado, remítase a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Segundo.- Cumplido el trámite previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, procesase (sic) a realizar la declaratoria de incorporación constitucional correspondiente, y remítase el presente Decreto para su publicación en el Periódico Oficial del Estado de Baja California.
+
+Tercero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+## [N. DE E. TRANSITORIOS DEL PUNTO SEGUNDO DEL DECRETO NO. 91.]
+
+Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Segundo.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Tercero.- El otorgamiento del apoyo económico a que se refiere el presente Decreto, se entregará conforme a las reglas de operación detallados en el “Programa Tarjeta Violeta” expedido por la Secretaría de Bienestar para el ejercicio fiscal que corresponda.
