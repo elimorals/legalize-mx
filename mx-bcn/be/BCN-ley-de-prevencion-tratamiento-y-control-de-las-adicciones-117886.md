@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-tratamiento-y-control-de-las-adicciones-11788
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-28"
-last_updated: "2018-03-02"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Baja California, el viernes 28 de octubre de 2016.
 
@@ -323,15 +323,21 @@ I. Que cuenten con autorización vigente de operación como establecimiento y la
 
 II. Las condiciones del establecimiento, verificando que sus instalaciones cumplan con los requerimientos de equipamiento, seguridad, higiene, espacios adecuados y suficientes, así como la organización adecuada de las diferentes áreas de servicio, en términos de la normatividad aplicable;
 
-III. Las condiciones en que se encuentren los usuarios, verificando que estas sean adecuadas para garantizar un servicio eficiente, basado en un trato respetuoso, en beneficio de su bienestar físico y psicológico y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2018)</small>
+III. Las condiciones en que se encuentren las personas usuarias, verificando que estas sean adecuadas para garantizar un servicio eficiente, basado en un trato respetuoso, en beneficio de su bienestar físico y psicológico;
 
-IV. La revision de las áreas encargadas de servicios médicos, terapéuticos y de alimentación de los usuarios, para verificar que esta cumplan (sic) con los requerimientos de la presente ley y su reglamento y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2018)</small>
+IV. La revisión de las áreas encargadas de servicios médicos, terapéuticos y de alimentación de las personas usuarias, para verificar que éstas cumplan con los requerimientos de la presente ley y su reglamento;
 
-V. La vigilancia de los establecimientos también comprenderá el cumplimiento de lo establecido en los artículos 38 y 40 de esta ley.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
+
+V. La vigilancia de los establecimientos también comprenderá el cumplimiento de lo establecido en los artículos 38 y 40 de esta ley; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+VI. La revisión de que en la población interna se encuentren sólo personas con padecimientos de consumo de sustancias psicoactivas y de adicciones y no personas con algún tipo de discapacidad u otro padecimiento, cuyo fin del internamiento sea resolver problemas familiares, sociales, laborales, de vivienda o cuidados.
 
 ###### ARTÍCULO 32.
 
@@ -552,3 +558,9 @@ P.O. 2 DE MARZO DE 2018.
 PRIMERO.- Las presentes reformas entrarán en vigor dentro de los noventas (sic) días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Establecimientos que reciban subsidios o recursos públicos, en un plazo no mayor al de noventa días contados a partir de la publicación de las presentes reformas, deberán adecuar sus programas conforme a lo establecido en el presente Decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO CUARTO DEL "DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
