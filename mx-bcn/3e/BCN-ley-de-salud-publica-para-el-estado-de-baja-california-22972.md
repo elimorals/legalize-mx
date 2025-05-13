@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2024-07-26"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -885,17 +885,17 @@ I.- El desarrollo de actividades educativas, socioculturales y recreativas que c
 
 II.- La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-III.- La realización de programas para la prevención del uso inadecuado de estupefacientes, psicotrópicos, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia;
+III.- La realización de programas para la prevención del uso inadecuado de estupefacientes, psicotrópicos, inhalantes y otras substancias que causan alteraciones mentales o dependencia;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción;
+IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a la población interna dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-V.- La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes;
+V.- La realización de programas para la detención y prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños, adolescentes y grupos vulnerables;
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -913,9 +913,13 @@ VIII.- El desarrollo de equipos de respuesta inmediata para situaciones de crisi
 
 IX.- La capacitación y educación en salud mental al personal de salud en el Sistema Estatal de Salud; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
 
-X.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+X.- El desarrollo de programas que promuevan, protejan y garanticen los derechos humanos en cualquier establecimiento de salud; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XI.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -927,13 +931,13 @@ La atención de la salud mental y las adicciones del comportamiento comprende to
 
 I.- La atención de personas usuarias, la rehabilitación psiquiátrica de enfermos crónicos, deficientes mentales, alcohólicos y personas enfermas que usen habitualmente estupefacientes o substancias psicotrópicas, o alguna droga.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de enfermos mentales, donde se incluirán los programas de talleres protegidos.
+II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento hospitalario o ambulatorio y rehabilitación de personas enfermas mentales, donde se incluirán los programas de talleres protegidos de rehabilitación.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como objetivo fomentar la integración psicológica, social y laboral del paciente de salud mental promoviendo el desarrollo de capacidades remanentes.
+III.- Los talleres protegidos de rehabilitación psiquiátrica tienen como objetivo fomentar la integración psicológica, social y laboral del paciente de salud mental promoviendo el desarrollo de capacidades remanentes, asistiéndole el derecho a recibir una justa compensación por su tarea en caso de participar en actividades que impliquen producción de objetos, obras o servicios que luego sean comercializados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -951,17 +955,17 @@ II.- Derecho a contar con mecanismos de apoyo en la toma de decisiones y a direc
 
 III.- Derecho al consentimiento informado de la persona con relación al tratamiento a seguir;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-IV.- Derecho a no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
+IV.- Derecho a recibir tratamiento y a ser tratada con la alternativa terapéutica más conveniente, que menos restrinja sus derechos y libertades, así como a que les sean impuestas únicamente las restricciones necesarias para garantizar su protección y la de terceros. En todo caso, se deberá procurar que el internamiento sea lo menos restrictivo posible y a que el tratamiento a recibir sea lo menos alterador posible;
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
 V.- Derecho a un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisando periódicamente y modificando de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-VI.- Derecho a no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+VI.- Derecho a no ser sometida a tratamientos irreversibles o que modifiquen la integridad de la persona, a no ser objeto de investigaciones clínicas ni tratamientos experimentales sin consentimiento libre e informado de manera fehaciente;
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -971,13 +975,21 @@ VII.- Derecho a ser tratado y atendido en su comunidad o lo más cerca posible a
 
 VIII.- Derecho a la confidencialidad de la información sobre su salud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-IX.- Derecho a tener acceso y disponibilidad a servicios de salud mental y adicciones; y,
+IX.- Derecho a tener acceso y disponibilidad a servicios de salud mental y adicciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
 
-X.- Los derechos establecidos en la legislación nacional, los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
+X.- Derecho a poder tomar decisiones relacionadas con su atención y su tratamiento dentro de sus posibilidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XI.- Derecho a recibir información con ajustes razonables a través de medios y tecnologías adecuadas para su comprensión de los derechos que le asisten, y de todo lo inherente a su salud y tratamiento, que en el caso de no ser comprendidas, se comunicarán a familiares, persona tutora o representante legal; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XII.- Los derechos establecidos en la legislación nacional, los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
@@ -1003,13 +1015,15 @@ Las personas prestadoras de servicios de salud mental, públicos o privados, est
 
 La persona con trastornos mentales y por consumo de sustancias psicoactivas, y de adicciones, es quien ostenta el derecho a consentir o denegar el permiso para cualquier tratamiento o internamiento, por lo que deberá presumirse que todos los pacientes tienen capacidad de discernir y deberán agotarse los esfuerzos para permitir que una persona acepte voluntariamente el tratamiento o el internamiento.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 33.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas estatales y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; para tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+Las madres, padres, personas tutoras o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las Autoridades Educativas estatales y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de las niñas, niños y adolescentes que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales; para tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de personas enfermas mentales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
-ARTÍCULO 33 BIS.- Para efectos del Artículo anterior, la Secretaría de Educación, fomentará la coordinación con la Secretaría de Salud del Estado, para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
+ARTÍCULO 33 BIS.- Para efectos del artículo anterior, la Secretaría de Educación y la Secretaría de Bienestar, fomentará la coordinación con la Secretaría de Salud del Estado para la implementación de acciones en los centros escolares de educación básica y media superior en el Sistema Estatal, que tengan como objeto:
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -1041,9 +1055,11 @@ ARTÍCULO 34 BIS.- En previsión de requerir en el futuro servicios de atención
 
 #### SECCION VI. DE LA ASISTENCIA SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 35.
 
-Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+Para los efectos de esta Ley, se entiende por asistencia social el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la persona, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
 
 La prestación de servicios de asistencia social será regulada por los ordenamientos legales aplicables en la materia, debiendo intervenir las Autoridades Sanitarias en aquellos asuntos relacionados con los servicios de salud.
 
@@ -4286,3 +4302,13 @@ P.O. 26 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 448 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 36 Y 45 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones y facultades de las autoridades estatales que deriven de la vigencia de las presentes reformas y que resulten materia de convenios entre la Federación y el Estado, se sujetarán para su cumplimiento a las disposiciones jurídicas aplicables.
+
+TERCERO.- Las obligaciones que se generen con motivo de la entrada en vigor de las presentes reformas se sujetarán a la disponibilidad presupuestal correspondiente de quienes ejecutan el gasto para el ejercicio fiscal de su vigencia y los subsecuentes.
