@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2023-10-24"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -1335,9 +1335,15 @@ III. Supuestos de prohibición para estacionar vehículos de transporte público
 
 IV. Áreas de estacionamiento para motocicletas, las cuales se acomodarán en batería;
 
-V. Estacionamiento de vehículos de los que desciendan o asciendan personas con capacidades diferentes; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
+
+V. Estacionamiento de vehículos de los que desciendan o asciendan personas con discapacidad o personas de movilidad limitada; y
 
 VI. Los demás que se consideren necesarios.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Se entiende como personas de movilidad limitada a aquellas que se encuentren definidas en la fracción XXXVII del artículo 2 de la Ley de Movilidad y Seguridad Vial del Estado de Campeche.
 
 ###### Artículo 121.
 
@@ -1377,11 +1383,19 @@ Se considerarán estacionamientos públicos a los lugares de propiedad privada c
 
 Los estacionamientos de propiedad municipal o administrados por el Municipio, así como los prestadores del servicio público de estacionamientos que operen bajo cualquier figura y que requieran de autorización municipal para su funcionamiento, deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y los vehículos.
 
-Asimismo, deberán disponer de espacios exclusivos para el uso de personas con capacidades diferentes; debiendo instalar los señalamientos, rampas, escaleras o elevadores necesarios, para dar un trato preferente y seguro a este segmento de la población.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Asimismo, deberán disponer de espacios exclusivos para el uso de personas con discapacidad y personas con movilidad limitada; debiendo instalar los señalamientos, rampas, escaleras o elevadores necesarios, para dar un trato preferente y seguro a este segmento de la población.
 
 Asimismo dispondrán de espacios exclusivos para el estacionamiento de motocicletas.
 
-Las dependencias del Gobierno del Estado y las de los Municipios, que brinden servicio público de estacionamiento, deberán instalar el mobiliario adecuado, para brindar servicio preferencial a las personas con discapacidad.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Las dependencias del Gobierno del Estado y las de los Municipios, que brinden servicio público de estacionamiento, deberán instalar el mobiliario adecuado, para brindar servicio preferencial a las personas con discapacidad y personas con movilidad limitada.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Los espacios exclusivos para personas con discapacidad y personas con movilidad limitada señalados en los párrafos previos del presente artículo, deberán estar ubicados en lugares que permitan el acceso y salida de forma fácil y rápida, preferentemente con la mayor cercanía posible al acceso principal y accesos secundarios del inmueble.
 
 ###### Artículo 128.
 
@@ -1590,3 +1604,13 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- El Poder Ejecutivo del Estado deberá prever para el siguiente ejercicio fiscal recursos humanos, materiales y financieros suficientes para el cumplimiento de este decreto.
 
 Tercero.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+[TRANSITORIOS DEL DECRETO NÚMERO 86 POR EL QUE “SE REFORMA LA FRACCIÓN V Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 120; Y SE REFORMAN LOS PÁRRAFOS SEGUNDO Y CUARTO Y, SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 127, AMBOS DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios contarán con un plazo de 90 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo contenido del presente decreto.
