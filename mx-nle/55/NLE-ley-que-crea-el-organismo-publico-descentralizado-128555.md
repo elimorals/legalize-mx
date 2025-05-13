@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-organismo-publico-descentralizado-128555"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-16"
-last_updated: "2018-05-16"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nuevo León, el miércoles 16 de mayo de 2018.
 
@@ -271,6 +271,14 @@ VIII. Difundir programas culturales entre la población del Estado, promoviendo 
 
 IX. Ofrecer una programación alternativa que permita al público contar con opciones de contenido social, cultural, educacional y deportivo;
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+IX BIS. Difundir actividades de los Poderes del Estado: Ejecutivo, Legislativo y Judicial, que convengan al desarrollo integral de las audiencias.
+
+Lo anterior, podrá ser realizado mediante convenios de colaboración que establezcan la forma, tiempo de transmisión y, en su caso, los costos que deberá cubrir al Sistema de Radios (sic) y Televisión de Nuevo León el Poder Público interesado, considerando que podrán hacer uso de sus propios recursos de grabación, producción y difusión así como de sus capacidades existentes, como el contenido pregrabado o en vivo que pueda ser retransmitido en su horario de programación.
+
+Dichos convenios, deberán garantizar que la programación informativa no afecte los contenidos fundamentales que fomentan la cultura, la educación y el desarrollo social;
+
 X. Crear y operar mecanismos para que la sociedad se involucre en el mejoramiento permanente de la Radio y Televisión y se logre una real identificación y sentido de permanencia;
 
 XI. Administrar la operación de los títulos de concesión otorgados al Gobierno del Estado de Nuevo León, en los términos de las disposiciones aplicables;
@@ -414,3 +422,11 @@ GENARO ALANÍS DE LA FUENTE
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 CARLOS ALBERTO GARZA IBARRA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 98. SE ADICIONA LA FRACCIÓN IX BIS AL ARTÍCULO 21 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SISTEMA DE RADIO Y TELEVISIÓN DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
