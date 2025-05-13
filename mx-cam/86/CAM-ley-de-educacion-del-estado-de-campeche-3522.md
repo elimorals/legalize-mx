@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2025-04-15"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -425,6 +425,10 @@ XXII-Bis.- Promover en todo el sistema educativo estatal mecanismos de prevenci�
 
 XXIII.- Implementar medidas dirigidas a fomentar la prevención de riesgos y la seguridad en el uso de los medios tecnológicos de información a favor de los educandos;
 
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+XXIII-Bis.- Promover capacitaciones semestrales al personal directivo, docente y administrativo de las Instituciones Educativas en materia de primeros auxilios; la capacitación deberá ser proporcionada por las instancias competentes en protección civil y primeros auxilios en coordinación con la Secretaría de Salud y la Secretaría de Protección y Seguridad Ciudadana del Estado de Campeche;
+
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XXIV.- Implementar campañas para promover la práctica del ejercicio y los deportes con la finalidad de combatir la obesidad y el sobrepeso entre la población de edad escolar;
@@ -597,9 +601,9 @@ La educación especial incluye la orientación a los padres o tutores, así como
 
 En la impartición de educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
-Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
+Se brindarán cursos a los docentes y al personal que labora en los planteles de educación, en materia de primeros auxilios, así como sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1692,3 +1696,15 @@ P.O. 15 DE ABRIL DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 84 POR EL QUE "SE ADICIONA LA FRACCIÓN XXIII-BIS AL ARTÍCULO 13 Y SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor del presente decreto deberán hacerse las adecuaciones que sean necesarias en las disposiciones legales y reglamentarias que lo ameriten, en un plazo no mayor a 180 días hábiles para la debida observancia de lo dispuesto por este decreto.
+
+TERCERO.- La Secretaría de Educación en coordinación con la Secretaría de Protección Civil y demás instancias competentes en el Estado, deberán llevar a cabo la capacitación al personal directivo, docente y administrativo de las Instituciones Educativas dentro de los horarios laborales.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
