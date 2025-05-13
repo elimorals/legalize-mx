@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-ingresos-de-los-municipios-del-estado-de-nuevo-leon-1780
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-02-17"
-last_updated: "2025-02-17"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección Sexta del Número 21 del Periódico Oficial del Estado de Nuevo León, el lunes 17 de febrero de 2025.
 
@@ -263,9 +263,11 @@ Los Municipios deberán abstenerse de realizar cualquier acción o formalizar cu
 
 Se autoriza a los Municipios para que por conducto de funcionarios legalmente facultados, sin detrimento de las atribuciones que les son propias a sus Ayuntamientos, realicen todas las gestiones, negociaciones, solicitudes y trámites necesarios, para que: (i) celebren los contratos con objeto de formalizar los financiamientos que cada Municipio decida contratar con base en lo autorizado en la presente Ley, (ii) suscriban los Contratos de Mandato Especial Irrevocable para Actos de Dominio, o bien, los convenios necesarios para adherirse al Fideicomiso Irrevocable de Administración y Pago, en cualquier caso con objeto de constituir el mecanismo de pago de las obligaciones a sus respectivos cargos que deriven del o los financiamientos que contraten con sustento en la presente Ley, (iii) pacten los términos y condiciones bajo las modalidades que consideren más convenientes para contratar los financiamientos objeto de la presente autorización, (iv) formalicen los actos jurídicos que se requieran para concretar lo autorizado en la presente Ley y (v) realicen cualquier acto para cumplir con sus disposiciones y/o con lo pactado en los instrumentos jurídicos que con base en éste se celebren, como son, enunciativa pero no limitativamente, girar instrucciones irrevocables o modificarlas, otorgar mandatos, realizar notificaciones, presentar avisos o información, solicitar inscripciones en registros fiduciarios y/o de deuda pública, entre otros.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
 ###### Artículo 15.
 
-El importe relativo a los financiamientos que individualmente contrate cada Municipio en el ejercicio fiscal 2025 con sustento en lo que se autoriza en la presente Ley será considerado ingreso por financiamiento o deuda en ese ejercicio fiscal, con independencia de lo que se encuentre previsto o no en el Presupuesto de Ingresos de cada Municipio para el ejercicio de que se trate; en tal virtud, a partir de la fecha de ese año en que cada Municipio celebre el contrato mediante el cual se formalice el crédito que concrete, deberá en el ámbito de su respectiva competencia, ajustar o modificar el Presupuesto de Ingresos y Egresos del ejercicio de que se trate, hasta por el monto que el Municipio ingresará a su hacienda para la contratación y disposición del o de los financiamientos autorizados en esta Ley, con el objeto de considerar el importe que permita realizar las erogaciones para el pago del servicio de la deuda a su respectivo cargo, que derive de los créditos contratados con sustento en esta Ley e informarán del ingreso y su aplicación al rendir la cuenta pública del ejercicio fiscal de que se trate.
+El importe relativo a los financiamientos que individualmente contrate cada Municipio en el ejercicio fiscal 2025 con sustento en lo que se autoriza en la presente Ley será considerado ingreso por financiamiento o deuda en ese ejercicio fiscal, con independencia de lo que se encuentre previsto o no en el Presupuesto de Ingresos de cada Municipio para el ejercicio de que se trate; en tal virtud, a partir de la fecha de ese año en que cada Municipio celebre el contrato mediante el cual se formalice el crédito que contrete, se considerará por reformado su presupuesto de ingresos para ese ejercicio fiscal 2025, en el entendido que cada Municipio, deberá en el ámbito de su respectiva competencia, ajustar o modificar el Presupuesto de Ingresos y Egresos del ejercicio de que se trate, sin requerir la aprobación del Congreso del Estado, para considerar el importe que permita realizar las erogaciones para el pago del servicio de la deuda de su respectivo cargo, que derive de los créditos contratados con sustento en esta Ley e informarán del ingreso y su aplicación al rendir la cuenta pública del ejercicio fiscal de que se trate.
 
 ###### Artículo 16.
 
@@ -305,7 +307,9 @@ QUINTO. Durante el año 2025 y mientras permanezca en vigor la Coordinación en 
 
 SEXTO. Las autorizaciones otorgadas mediante el presente Decreto, son aprobadas en términos de lo dispuesto por el artículo 23 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se realizaron previo análisis de la capacidad de pago, destino de los recursos, de los montos y garantías a otorgar como fuente de pago.
 
-SÉPTIMO. Los Municipios del Estado de Nuevo León que individualmente pretendan contratar financiamientos en el ejercicio fiscal 2025 con base en lo autorizado en la presente Ley, previamente a la formalización del contrato de crédito de que se trate deberán, para el tema del ingreso: (i) lograr que se prevea en el Presupuesto de Ingresos del Ejercicio Fiscal 2025, el importe que corresponda al o a los financiamientos que cada uno de ellos haya de contratar, o bien, (ii) obtener la reforma a su Presupuesto de Ingresos del Ejercicio Fiscal 2025 para incluir el monto que corresponda o, en su defecto, (iii) conseguir un decreto específico en el que se autorice el endeudamiento adicional, o inclusive, (iv) recibir autorización de este Congreso, a través de decreto específico, en el que se establezca la posibilidad de ejercer lo autorizado en el presente decreto, y que el importe del o de los financiamientos que serán contratados se considere como ingreso por financiamiento o deuda en el ejercicio fiscal 2025, y para el tema del egreso: (i) prever en su proyecto de presupuesto de egresos del ejercicio fiscal 2025, el monto que permita realizar las erogaciones para el pago del servicio de la deuda a cargo del Municipio que corresponda, en virtud del o los financiamientos que individualmente decidan contratar, o bien, (ii) realizar los ajustes necesarios a su presupuesto para tal propósito. Asimismo, se autoriza a ejercer dichas autorizaciones durante el ejercicio fiscal 2025 y/o 2026.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
+SÉPTIMO. Por lo que respecta al Artículo 7 de la presente Ley, los Municipios del Estado de Nuevo León que individualmente pretendan contratar financiamientos en el ejercicio fiscal 2025 con base en lo autorizado conforme a lo dispuesto en el mencionado artículo 7 de la presente Ley , previamente a la formalización del contrato de crédito de que se trate deberán, para el tema del ingreso: (i) lograr que se prevea en el Presupuesto de Ingresos del Ejercicio Fiscal 2025, el importe que corresponda al o a los financiamientos que cada uno de ellos haya de contratar, o bien, (ii) obtener la reforma a su Presupuesto de Ingresos del Ejercicio Fiscal 2025 para incluir el monto que corresponda o, en su defecto, (iii) conseguir un decreto específico en el que se autorice el endeudamiento adicional, o inclusive, (iv) recibir autorización de este Congreso, a través de decreto específico, en el que se establezca la posibilidad de ejercer lo autorizado en el presente decreto, y que el importe del o de los financiamientos que serán contratados se considere como ingreso por financiamiento o deuda en el ejercicio fiscal 2025, y para el tema del egreso: (i) prever en su proyecto de presupuesto de egresos del ejercicio fiscal 2025, el monto que permita realizar las erogaciones para el pago del servicio de la deuda a cargo del Municipio que corresponda, en virtud del o los financiamientos que individualmente decidan contratar, o bien, (ii) realizar los ajustes necesarios a su presupuesto para tal propósito. Asimismo, se autoriza a ejercer dichas autorizaciones durante el ejercicio fiscal 2025 y/o 2026.
 
 OCTAVO. El importe del o los financiamientos que individualmente decida contratar cada Municipio, independientemente de la fuente de pago, no podrán exceder la cantidad autorizada para cada uno de ellos, establecida en los artículos 7 y 10 de la presente Ley; en tal virtud, el monto de cada financiamiento se establecerá al considerar el periodo disponible entre el momento de su contratación, el plazo máximo para su amortización, el análisis de la capacidad de pago, el destino de los recursos y la fuente de pago de las operaciones de financiamiento adquiridas por cada Municipio.
 
@@ -336,3 +340,11 @@ EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 LIC. CARLOS ALBERTO GARZA IBARRA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 108. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 15 Y EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2025".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Nuevo León.
