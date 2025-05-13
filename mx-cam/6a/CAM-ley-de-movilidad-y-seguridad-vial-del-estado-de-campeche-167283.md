@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-movilidad-y-seguridad-vial-del-estado-de-campeche-167283
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-28"
-last_updated: "2024-12-26"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 28 de julio de 2023.
 
@@ -143,7 +143,9 @@ XXXV. Permiso: Al acto administrativo, mediante el cual el Estado a través del 
 
 XXXVI. Personas con discapacidad: A aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo y que, al interactuar con diversas barreras que le impone el entorno, se impida su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.
 
-XXXVII. Personas de movilidad limitada: A las personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición diversa a la discapacidad, presenten dificultad en el desplazamiento;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
+
+XXXVII. Personas de movilidad limitada: A las personas que de forma temporal o permanentemente, debido a enfermedad, embarazo, edad, accidente o alguna otra condición diversa a la discapacidad, presenten dificultad en el desplazamiento;
 
 XXXVIII. Personas o grupos en situación de vulnerabilidad: Se entiende a aquellas personas o grupos que encuentran especiales dificultades para la movilidad y ejercer con plenitud los derechos, por circunstancias o condiciones diversas en cada situación de vulnerabilidad;
 
@@ -2414,3 +2416,13 @@ En todo momento los derechos laborales de los trabajadores del "Instituto Estata
 TERCERO.- El Ejecutivo del Estado contará con un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto para realizar las modificaciones correspondientes al Reglamento en Materia de Transporte de la Ley de Movilidad y Seguridad Vial del Estado de Campeche.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico Estatal que se opongan a lo contenido en el presente Decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 86 POR EL QUE “SE REFORMA LA FRACCIÓN XXXVII DEL ARTÍCULO 2 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios contarán con un plazo de 90 días hábiles para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo contenido del presente decreto.
