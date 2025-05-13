@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-04-25"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -1268,6 +1268,62 @@ Así mismo, también tienen derecho a que las diferentes instancias gubernamenta
 ###### ARTÍCULO 66.
 
 Las niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Para su correcta protección en su participación en los procesos judiciales y de procuración de justicia, las autoridades deberán observar los siguientes elementos:
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+I. Adoptar todas las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+II. Garantizar la participación de niñas, niños y adolescentes sin que su edad biológica sea impedimento para recabar su opinión o testimonio;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+III. Considerar la conveniencia de ordenar una evaluación psicológica de niñas, niños y adolescentes, antes de citar a modo de preparación para la entrevista formal;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+IV. Garantizar, con auxilio de una persona especialista, que la participación del infante sea voluntaria;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+V. Contar durante toda la diligencia con personal especializado que facilite la comunicación entre las niñas, niños y adolescentes, y las personas juzgadoras durante su participación;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+VI. Proporcionar antes de la entrevista, información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial de que se trate y la importancia de su participación en el mismo;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+VII. Las salas donde se desahogará la entrevista deberán representar un entorno seguro y no intimidatorio, hostil, insensible o inadecuado;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+VIII. Procurar que niñas, niños y adolescentes desahoguen la diligencia únicamente en el mismo espacio físico que las personas especialistas en temas de infancia;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+IX. Seguir un formato de conversación y narrativa libre para el desahogo de la declaración o testimonio;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+X. Las preguntas aclaratorias que se llegaran a realizar deben ser lo más abiertas posibles y no ser sugestivas;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+XI. Contemplar el uso adecuado de materiales de apoyo para la expresión de los infantes;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+XII. Registrar de manera íntegra la diligencia en la que participa directamente el menor con el fin de evitar revictimizaciones y tener todo el material disponible para las demás partes, y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+XIII. Respetar en todo momento el derecho de privacidad e intimidad de las niñas, niños y adolescentes respecto de sus declaraciones y llevar a cabo las diligencias en las que participen en un contexto de confidencialidad.
 
 ### CAPÍTULO XVI. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
 
@@ -2768,3 +2824,11 @@ P.O. 25 DE ABRIL DE 2025.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0198.- ADICIONES AL ARTÍCULO 66 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
