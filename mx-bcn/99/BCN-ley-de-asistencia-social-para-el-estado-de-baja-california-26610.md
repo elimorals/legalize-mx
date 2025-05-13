@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2024-04-05"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -760,6 +760,10 @@ V.- Otras actividades que coadyuven a la protección de la salud.
 ###### ARTÍCULO 47.
 
 Son Instituciones de Asistencia Social Privada, las personas morales que con fines de interés público y no lucrativos, sean reconocidas por el Estado como auxiliares de la asistencia social, con capacidad para poseer un patrimonio propio destinado a la realización de actos de asistencia social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2025)</small>
+
+Las Instituciones de Asistencia Social Privada deberán privilegiar en todo momento el derecho de las personas sujetas a asistencia social a vivir en familia y comunidad, promoviendo preferentemente el restablecimiento, integración y preservación de los vínculos familiares, tomando en cuenta que estos no resulten en su perjuicio.
 
 ###### ARTÍCULO 48.
 
@@ -1576,3 +1580,9 @@ P.O. 5 DE ABRIL DE 2024.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO: Dentro de los 180 días siguientes al de la publicación del presente Decreto, las entidades y dependencias que correspondan llevarán a cabo las adecuaciones normativas que resulten necesarias en concordancia con el mismo.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO TERCERO DEL "DECRETO No. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
