@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2025-04-11"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -1057,11 +1057,13 @@ Para el caso de que las iniciativas y los puntos de acuerdo no hayan sido resuel
 
 Los asuntos de trámite que se turnen a comisiones deberán desahogarse en un plazo máximo de tres meses. La comisión podrá acordar que estos asuntos puedan ser desahogados por la Presidencia y Secretaría de cada comisión.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 89.
 
-Si en razón de su competencia es necesario turnar un mismo asunto a dos o más comisiones, éstas dictaminarán, de manera conjunta; correspondiendo la elaboración del dictamen y la convocatoria a la reunión, a aquélla a la que haya sido turnado el asunto en primer término.
+Si en razón de su competencia es necesario turnar un mismo asunto a dos o más comisiones, éstas dictaminarán de manera conjunta en reunión de comisiones unidas; correspondiendo la elaboración del proyecto de dictamen a aquélla a la que haya sido turnado el asunto en primer término.
 
-En caso de que el asunto no haya sido resuelto por la comisión de primer turno dentro del plazo que establece esta Ley, cualquiera de las comisiones podrá elaborar el dictamen respectivo y presentarlo ante el Pleno; en este caso, la Coordinación General de Servicios Parlamentarios lo hará del conocimiento del resto de las comisiones, quienes al no manifestarse en el término de diez días hábiles contados a partir de su conocimiento, se entenderá que están conformes con el sentido del dictamen que se haya presentado. De no ser coincidentes con el sentido del dictamen, podrán presentar uno diverso, en tal caso, éstos se someterán a la consideración del Pleno.
+En caso de que el asunto no haya sido resuelto en la forma prevista en el párrafo que antecede dentro del plazo de seis meses, cualquiera de las comisiones podrá elaborar el dictamen respectivo y presentarlo ante el Pleno; en este caso, la Coordinación General de Servicios Parlamentarios lo hará del conocimiento del resto de las comisiones, quienes al no manifestarse en el término de diez días hábiles contados a partir de su conocimiento, se entenderá que están conformes con el sentido del dictamen que se haya presentado. De no ser coincidentes con el sentido del dictamen, podrán presentar uno diverso, en tal caso, éstos se someterán a la consideración del Pleno en el orden en que hayan sido enviados.
 
 ###### ARTÍCULO 90.
 
@@ -1980,3 +1982,9 @@ P.O. 11 DE ABRIL DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0199.- QUE REFORMA EL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ, Y REFORMA Y DEROGA LOS ARTÍCULOS 140 Y 62 RESPECTIVAMENTE, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
