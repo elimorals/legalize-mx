@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2024-06-28"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -1369,7 +1369,9 @@ XXXII.- Favorecer la capacitación de los jóvenes en sus empleos e incentivar u
 
 XXXIII.- Desarrollar programas para la adecuada orientación vocacional y profesional, el cabal aprovechamiento del servicio social y la diversificación de los servicios educativos;
 
-XXXIV.- Fomentar la atención a los problemas de salud de los jóvenes, principalmente mediante medidas preventivas de orientación y asesoramiento en el campo de la sexualidad, planeación familiar, adicciones y salud mental;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
+
+XXXIV.- Promover la salud mental de las juventudes incluyendo programas de atención y asesoría psicológica profesional, por medios electrónicos o digitales, así como a través de una línea telefónica de orientación psicológica.
 
 XXXV.- impulsar la participación del sector privado y social, para apoyar, encauzar, motivar y promover a los jóvenes en actividades de educación académica, capacitación laboral, rehabilitación de adicciones, educación sexual, desenvolvimiento de sus aptitudes en las artes, la ciencia y el deporte, y
 
@@ -2002,3 +2004,9 @@ P.O. 28 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 440 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÙNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 93 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 83 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
