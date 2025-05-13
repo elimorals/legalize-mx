@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-2024
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-02"
-last_updated: "2016-03-18"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el día 2 de marzo de 2001.
 
@@ -210,6 +210,20 @@ V. Procurar la profesionalización de sus servicios y la continua formación té
 VI. Abstenerse de realizar acciones de proselitismo político-partidista o religioso, y
 
 VII. Las demás que se prevean en la presente Ley o en las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+ARTICULO 10 BIS.- Las organizaciones cuyos fines sean la asistencia de las personas con discapacidad tendrán la obligación de:
+
+I.- Respetar en todo momento el derecho de las personas que asistan, su voluntad y capacidad jurídica sobre sus derechos y obligaciones.
+
+II.- Capacitar en materia de salud y derechos humanos a su personal para la atención de las personas con discapacidad.
+
+III.- Mantener actualizados los expedientes, registros y bitácoras de atención a las personas usuarias de sus servicios, de acuerdo a las normas y disposiciones aplicables.
+
+IV.- Tener el nombre del familiar o persona tutora que asumirá la responsabilidad de la persona asistida, sin que esto implique sustituir la voluntad de esta.
+
+V.- Dar aviso a las autoridades competentes de la Secretaría de Salud y a la Fiscalía en caso de estar asistiendo a una persona no tenga capacidad de comprender el significado del hecho y que no tenga familiar o persona tutora registrada como responsable.
 
 ### CAPITULO IV. DE LAS AUTORIDADES
 
@@ -570,3 +584,11 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 444 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 12 FRACCIÓN XV, Y ADICIÓN DE LAS FRACCIONES XVI Y XVII A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor de las presentes reformas, se sujetarán a la disponibilidad presupuestal de los ejecutores del gasto responsables para el ejercicio fiscal de su vigencia y subsecuentes.
