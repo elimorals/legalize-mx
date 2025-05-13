@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2025-05-08"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3277,17 +3277,21 @@ Tratándose de propaganda o promoción de partidos o grupos políticos, se estar
 
 Cuando los daños se produzcan por semovientes en terrenos de siembra, el dueño de aquéllos tendrá la obligación de reparar el daño; excepto cuando los semovientes sean utilizados de manera dolosa para causarlos, en cuyo caso se impondrá una pena de tres meses a tres años de prisión, y multa de treinta a trescientos días del valor de la unidad de medida y actualización, sin perjuicio de la reparación del daño.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 235.
 
-Al que cause daño a bienes de valor científico, histórico, artístico, cultural, de servicio público, bosques, selvas, pastos o cultivos de cualquier género, se le impondrá una pena de tres a diez años de prisión y sanción pecuniaria de trescientos a un mil días del valor de la unidad de medida y actualización.
+Al que cause daño a bienes de valor científico, histórico, artístico, cultural, de servicio público, así como a bosques, selvas, pastos o cultivos de cualquier género, se le impondrá una pena de cinco a diez años de prisión y sanción pecuniaria de trescientos a un mil días del valor de la unidad de medida y actualización.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 236.
 
-Si el daño, destrucción o deterioro se causa por medio de inundación, incendio, sustancias peligrosas o explosivos, se impondrá una pena de tres a diez años de prisión y sanción pecuniaria de trescientos a mil días del valor de la unidad de medida y actualización.
+Cuando el daño, destrucción o deterioro de los bienes señalados en este capítulo, se causa por medio de inundación, incendio, sustancias peligrosas o explosivos, se impondrá una pena de siete a quince años de prisión y sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Se entenderá por sustancias peligrosas aquéllas que constituyan un riesgo para la salud o seguridad pública, según lo establecido en la normativa vigente.
 
 ### CAPÍTULO IV. Usurpación de Funciones Públicas o de Profesión y Uso Indebido de Condecoraciones o Uniformes
 
@@ -3855,7 +3859,7 @@ Las excluyentes de responsabilidad no serán aplicables tratándose del delito d
 
 ### CAPÍTULO I. Delitos contra el Ambiente
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 284.
 
@@ -4001,7 +4005,7 @@ Si el procesado o sentenciado fue inculpado por cualquier delito de los consider
 
 ###### ARTÍCULO 294.
 
-Se impondrá de uno a ocho años de prisión y sanción pecuniaria de cien a ochocientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite hasta tres metros cúbicos de residuos de la industria de la construcción en:
+Se impondrá de cuatro a quince años de prisión y sanción pecuniaria de cuatrocientos a ochocientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite hasta tres metros cúbicos de residuos de la industria de la construcción en:
 
 I. Un área natural protegida o área de valor ambiental de competencia del estado, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -4013,17 +4017,17 @@ IV. Un área verde en suelo urbano, y
 
 V. En un predio baldío.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
-Se impondrá de tres a nueve años de prisión y sanción pecuniaria de cien a novecientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas descritas en las fracciones anteriores.
+Se impondrá de siete a quince años de prisión y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización, a quien ilícitamente descargue o deposite más de tres metros cúbicos, en cualquier estado físico, excepto líquido, residuos de la industria de la construcción en las zonas descritas en las fracciones anteriores.
 
 Cuando una o más de las conductas descritas en el presente artículo se cometa a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubiere incurrido las personas físicas por el delito cometido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 295.
 
-Se impondrá de dos a nueve años de prisión y sanción pecuniaria de doscientos a novecientos días del valor de la unidad de medida y actualización, a quienes ocasionen daños o provoquen un desequilibrio a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
+Se impondrá de cuatro a quince años de prisión y sanción pecuniaria de cuatrocientos a ochocientos días del valor de la unidad de medida y actualización, a quienes ocasiones (sic) daños o provoquen un desequilibrio a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -4093,33 +4097,55 @@ El incendio de un tiradero a cielo abierto descontrolado, o de un relleno sanita
 
 Las penas previstas en este artículo se impondrán siempre que se ocasione daños a la salud de las personas, o a uno o más ecosistemas o sus elementos.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 296.
 
-Se impondrá de uno a siete años de prisión y sanción pecuniaria de cien a setecientos días del valor de la unidad de medida y actualización, a quien transporte, comercie, acopie, almacene o transforme madera en rollo o cualquier otro recurso forestal maderable, en cantidades de hasta cuatro metros cúbicos de madera en rollo o su equivalente.
+Se impondrá de cuatro a diez años de prisión y sanción pecuniaria de cuatrocientos a ochocientos días del valor de la unidad de medida y actualización, a quien transporte, comercie, acopie, almacene o transforme madera en rollo o cualquier otro recurso forestal maderable, en cantidades de hasta cuatro metros cúbicos de madera en rollo o su equivalente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 297.
 
-Se impondrá de dos a cinco años de prisión y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización, a quien ilícitamente ocasione uno o más incendios que dañen:
+Se impondrá de cinco a quince años de prisión y sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, a quien ilícitamente ocasione uno o más incendios que dañen:
 
 I. Un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
 
 II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Estado o municipios aplicables, así como lo establecido en el Programa o Programas de desarrollo Urbano aplicables;
 
-III. Una barranca, o
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-IV. Un área verde en suelo urbano.
+III. Una barranca;
 
-Las penas previstas en este artículo se aumentará (sic) en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+IV. Un área verde en suelo urbano;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+V. Predios baldíos con vegetación susceptible a incendios o acumulación de basura, ya sea en suelo urbano o rural, que representen un riesgo para la salud pública, el ambiente o la seguridad de las comunidades vecinas;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+VI. Infraestructura ecológica urbana, como techos verdes, bohíos, muros verdes o proyectos de restauración ambiental en desarrollo, cuya afectación por incendios ocasione daños ambientales o sociales significativos;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+VII. Zonas de pastizales y matorrales; y
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
+
+VIII. Inmuebles en general.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
+Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a una hectárea o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 298.
 
-Se impondrái (sic) de tres meses a cinco años de prisión y sanción pecuniaria de treinta a quinientos días del valor de la unidad de medida de actualización, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles, explote u ocasione daño o muerte a especies vegetales endémicas, en riesgo o en peligro de extinción.
+Se impondrá de cuatro a diez años de prisión y sanción pecuniaria de cuatrocientos a ochocientos días del valor de la unidad de medida y actualización, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles, explote u ocasione daño o muerte a especies vegetales endémicas, en riesgo o en peligro de extinción.
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
@@ -4129,11 +4155,11 @@ Las penas previstas en este artículo se duplicarán cuando una o más de las co
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo, o a beneficio de una persona moral, a ésta se impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 299.
 
-Se impondrá de seis meses a cinco años de prisión y sanción pecuniaria de sesenta a quinientos días del valor de la unidad de medida y actualización, a quien ilícitamente extraiga suelo, tierra, piedra, o cubierta vegetal por un volumen igual o mayor a dos metros cúbicos, de:
+Se impondrá de cuatro a diez años de prisión y sanción pecuniaria de cuatrocientos a ochocientos días del valor de la unidad de medida y actualización, a quien ilícitamente extraiga suelo, tierra, piedra, o cubierta vegetal por un volumen igual o mayor a dos metros cúbicos, de:
 
 I. Un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -6008,3 +6034,11 @@ P.O. 8 DE MAYO DE 2025.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0196.- QUE REFORMA Y ADICIONA LOS ARTÍCULOS 235, 236, 294, 295, 296, 297, 298 Y 299, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
