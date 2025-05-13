@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2024-04-05"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -81,11 +81,29 @@ IX. Secretarías.- A las Secretarías del Gobierno del Estado de México;
 
 X. Sector Auxiliar.- A los organismos auxiliares del Estado de México.
 
-XI. Plan Integral: Plan para el Desarrollo de la Juventud del Estado de México; y
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
+XI. Plan Integral.- Plan para el Desarrollo de la Juventud del Estado de México;
 
-XII. Juventud en situación precaria.- A aquellos que carecen de un lugar físico donde tengan su residencia de manera permanente, que realicen sus actividades de manera cotidiana en la vía pública, o que teniendo un hogar y una familia se encuentren desintegrados de la misma.
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XII. Juventud en situación precaria.- A aquellos que carecen de un lugar físico donde tengan su residencia de manera permanente, que realicen sus actividades de manera cotidiana en la vía pública, o que teniendo un hogar y una familia se encuentren desintegrados de la misma;
+
+> <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XIII. Medios Digitales.- Al sitio web o aplicación cuya función principal es difundir información generada por sus propios usuarios como textos, datos voz, imágenes, vídeos, música, sonidos o una combinación de estos, con la finalidad de interactuar, informar, entretener o educar;
+
+> <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XIV. Inclusión Digital.- Al proceso mediante el cual se garantiza el acceso equitativo, seguro y efectivo a las tecnologías de la información y la comunicación, incluyendo infraestructura, dispositivos, conectividad, habilidades digitales y contenidos pertinentes;
+
+> <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XV. Derechos Digitales.- Al conjunto de derechos humanos aplicados en entornos digitales, como el acceso a internet, la libertad de expresión, la protección de datos personales y la privacidad en línea; y
+
+> <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XVI. Cultura Digital.- Al conjunto de prácticas culturales, sociales, artísticas y educativas que se desarrollan y expresan en entornos digitales y mediante tecnologías de la información.
 
 ###### Artículo 4.
 
@@ -227,11 +245,11 @@ IX. Recibir, analizar, sistematizar, difundir y acceder de acuerdo con su desarr
 
 #### SECCIÓN III. DERECHOS ECONÓMICOS
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2025)</small>
 
 ###### Artículo 10.
 
-Los jóvenes, en términos del artículo 123, apartado A fracción III, de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a un empleo digno con un salario justo, con igualdad de oportunidades y de trato para mujeres y hombres; a la capacitación e inserción de jóvenes con discapacidad, jóvenes embarazadas o en etapa de lactancia; a que se les facilite el acceso, en su caso, a su primer empleo; a generar e innovar mecanismos para auto emplearse, así como recibir educación financiera para su pleno desarrollo social y económico.
+Las y los jóvenes tienen derecho a un empleo digno con un salario justo, con igualdad de oportunidades y de trato para mujeres y hombres; a la capacitación e inserción de jóvenes con discapacidad, jóvenes embarazadas o en etapa de lactancia; a que se les facilite el acceso, en su caso, a su primer empleo; a generar e innovar mecanismos ordinarios o digitales para auto emplearse, en cuanto a los últimos se deberá atender al principio de prevención de riesgos, además se deberá garantizar el acceso a la educación financiera para su pleno desarrollo social y económico.
 
 #### SECCIÓN IV. DERECHOS CULTURALES
 
@@ -239,9 +257,17 @@ Los jóvenes, en términos del artículo 123, apartado A fracción III, de la Co
 
 Los jóvenes tienen derecho a:
 
-I. El acceso a espacios culturales, a la libre creación y expresión de sus manifestaciones artísticas de acuerdo a sus intereses y expectativas, respetando la diversidad de idiosincrasia, lenguas y etnias indígenas; y
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
 
-II. La educación física y a practicar cualquier deporte basado en el respeto, la superación personal y colectiva, el trabajo en equipo y la solidaridad; a disfrutar de actividades de recreación y al acceso a espacios recreativos para el aprovechamiento positivo y productivo de su tiempo libre.
+I. El acceso a espacios culturales, a la libre creación y expresión de sus manifestaciones artísticas de acuerdo a sus intereses y expectativas, respetando la diversidad de idiosincrasia, lenguas y etnias indígenas;
+
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
+
+II. La educación física y a practicar cualquier deporte basado en el respeto, la superación personal y colectiva, el trabajo en equipo y la solidaridad; a disfrutar de actividades de recreación y al acceso a espacios recreativos para el aprovechamiento positivo y productivo de su tiempo libre; y
+
+> <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
+
+III. A la inclusión digital y a la promoción de la diversidad cultural, mediante el acceso y uso seguro y responsable del internet como medio efectivo para ejercer sus derechos de conformidad con los principios de interdependencia, equidad, asequibilidad, disponibilidad, accesibilidad, progresividad, calidad y la no discriminación prevaleciendo el respeto a su orientación sexual, identidad y expresión de genero de todas las personas en términos de las disposiciones jurídicas aplicables. Las autoridades promoverán programas de alfabetización digital y el uso responsable de las tecnologías, especialmente en poblaciones en situación de vulnerabilidad.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE OCTUBRE DE 2022)</small>
 
@@ -315,7 +341,13 @@ XX. Establecer programas y acciones para que los jóvenes participen en la conse
 
 XXI. Impulsar mecanismos que acerquen y vinculen a la juventud con la tecnología, fomentando la inclusión y acceso desde etapas tempranas de la vida.
 
-XXII. Crear, promover y apoyar un sistema de información que permita a los jóvenes obtener, acceder, procesar, intercambiar y difundir información actualizada y útil para su desarrollo profesional y humano, procurando que los medios de comunicación generen valores positivos en la juventud;
+> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XXII. Impulsar y apoyar un sistema de información digital que permita a la juventud, incluyendo aquellos que pertenecen a las poblaciones LGBTTTIQNB+, crear, acceder, procesar, intercambiar y difundir información útil para su desarrollo profesional y humano de manera libre, segura y responsable a medios digitales, que les permita incentivar aquellos que generen contenido positivo para la juventud a través de política de comunicación cultural;
+
+> <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
+
+XXII Bis. Fomentar y reconocer la creación de contenidos culturales, artísticos, educativos o sociales elaborados por jóvenes en plataformas digitales, mediante estímulos, concursos, becas o programas específicos de impulso a creadores juveniles digitales;
 
 XXIII. Promover acciones para evitar la migración de jóvenes mexiquenses;
 
@@ -966,3 +998,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 112.- POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3, EL ARTÍCULO 10, LAS FRACCIONES I Y II DEL ARTÍCULO 11 Y LA FRACCIÓN XXII DEL ARTÍCULO 13; Y SE ADICIONAN LAS FRACCIONES XIII, XIV, XV Y XVI AL ARTÍCULO 3, LA FRACCIÓN III AL ARTÍCULO 11 Y LA FRACCIÓN XXII BIS AL ARTÍCULO 13 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
