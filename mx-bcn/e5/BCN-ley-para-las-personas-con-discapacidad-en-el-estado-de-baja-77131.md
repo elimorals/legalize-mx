@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2023-12-08"
+last_updated: "2025-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -77,9 +77,13 @@ VIII. La aceptación y respeto de las personas con discapacidad como parte de la
 
 IX.- El reconocimiento de las diferencias de las personas con alguna discapacidad, con el objetivo de eliminar o minimizar las barreras que los mantienen en su discapacidad;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-X.- El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad.
+X.- El respeto a la evolución de las facultades de las niñas y los niños con discapacidad y de su derecho a preservar su identidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XI. El respeto al derecho de las personas con discapacidad a vivir en familia y comunidad, constituyendo el internamiento una medida especial de protección temporal de carácter subsidiario y como último recurso terapéutico.
 
 ###### ARTÍCULO 3.
 
@@ -92,6 +96,10 @@ I.- Accesibilidad: Las medidas pertinentes para asegurar el acceso de las person
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
 II.- Ajustes Razonables: Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+II BIS.- Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -116,6 +124,10 @@ VII.- Discapacidad: es toda restricción o ausencia (debido a una deficiencia) d
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
 VIII.- Discapacidad Auditiva: A la Originada por una deficiencia sensorial congénita o adquirida, caracterizada por la pérdida severa de la capacidad de percepción de las formas acústicas, producida ya sea por una alteración del órgano de la audición o bien de la vía auditiva, y que por la carencia de la agudeza auditiva se limita o impide la comunicación oral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+VIII BIS.- Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2018)</small>
 
@@ -253,6 +265,16 @@ XL.- Transversalidad: Es el proceso mediante el cual se instrumentan las políti
 
 Las personas con discapacidad gozarán de todos los derechos inherentes al ser humano, así como los establecidos en el marco jurídico nacional e internacional, por lo que cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, será considerada discriminación por motivo de discapacidad.
 
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+ARTÍCULO 4 BIS.- Se reconoce a las personas con discapacidad el derecho a vivir y crecer en el seno de su familia y a ser incluido en la comunidad, en igualdad de condiciones, opiniones y oportunidades de vida y desarrollo que la población en general.
+
+Aquellas que además sean mayores de edad, tienen derecho a elegir su lugar de residencia y con quien habitar, garantizando su capacidad para desarrollarse en forma independiente.
+
+Las personas con discapacidad no podrán ser obligadas a vivir con arreglo a un sistema de vida específico, por lo que tendrán derecho de acceder a una variedad de servicios de asistencia y servicios de apoyo en la comunidad que les facilite la convivencia e inclusión evitando su aislamiento o separación de ésta.
+
+Para el cumplimiento de lo anterior, las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán las medidas efectivas y pertinentes para facilitar el pleno goce de los derechos de las personas con discapacidad y su plena inclusión y participación en comunidad.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 5.
@@ -303,13 +325,11 @@ XIV. Contar con apoyo de guarderías para niños con discapacidad; y
 
 XV. Contar con estancias para adultos con discapacidad.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 6.
 
-Se reconoce a las discapacidades mental, motriz, sensorial y múltiple, en sus distintos grados y manifestaciones, sin distinción de las causas que las originen, ni la edad en que se manifiesten; y las personas que las enfrentan son beneficiarios de los derechos que confiere esta Ley.
-
-Para el caso específico de la discapacidad mental se reconocerán dos subgrupos, la discapacidad derivada de los trastornos del neurodesarrollo, como a los de la discapacidad psicosocial.
+Se reconoce a las discapacidades mental, intelectual, motriz, sensorial y múltiple, en sus distintos grados y manifestaciones, sin distinción de las causas que las originen, ni la edad en que se manifiesten; y las personas que las enfrentan son beneficiarios de los derechos que confiere esta Ley.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -339,11 +359,21 @@ ARTÍCULO 6 SEXIES.- En todas las medidas y apoyos para el ejercicio de la capac
 
 Estas salvaguardas deberán ser proporcionales y adecuadas a las circunstancias de la persona y durarán el menor tiempo posible.
 
-### CAPÍTULO I. DE LAS AUTORIDADES Y SUS FUNCIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MAYO DE 2025)</small>
+
+### CAPÍTULO IV. DE LA ATENCIÓN INTEGRAL
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+ARTÍCULO 6 SEPTIES.- Se entiende por atención integral los procesos o cualquier otra medida de intervención dirigidos a que las personas con discapacidad adquieran su máximo nivel de desarrollo y autonomía personal, y a lograr y mantener su máxima independencia, capacidad física, mental y social, y su inclusión y participación plena en todos los aspectos de la vida, así como la obtención de un empleo adecuado.
+
+Los programas de atención integral deberán comenzar en la etapa más temprana posible y basarse en una evaluación multidisciplinaria de las necesidades y capacidades de la persona con discapacidad, así como de las oportunidades del entorno, considerando las adaptaciones o adecuaciones oportunas y los apoyos a la toma de decisiones y a la promoción de la autonomía personal.
+
+Las dependencias y entidades del Gobierno Estatal y de los Municipios, en el ámbito de sus respectivas competencias, velarán por el mantenimiento de servicios de atención adecuados, mediante la coordinación de los recursos y servicios de habilitación y rehabilitación en los ámbitos de la salud, el empleo, la educación y los servicios necesarios, con el fin de garantizar a las personas con discapacidad una oferta de servicios y programas.
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SALUD
+### CAPÍTULO I. DE LAS AUTORIDADES Y SUS FUNCIONES
 
 ###### ARTÍCULO 7.
 
@@ -415,9 +445,13 @@ V.- La Comisión Estatal de los Derechos Humanos.
 
 Además de las autoridades señaladas en las fracciones del presente artículo, de igual forma corresponde la observancia y cumplimiento de esta Ley a las Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal, Organismos Constitucionales Autónomos, en el ámbito de sus respectivas competencias, así como a las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2025)</small>
 
-ARTÍCULO 7 BIS.- Las dependencias y entidades del Gobierno Estatal y de los Municipios, en el ámbito de sus respectivas competencias, así como, las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad, constituyen el Sistema Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad.
+Todas las autoridades señaladas en el presente artículo, adoptarán medidas efectivas que en el ámbito de sus atribuciones correspondan, para que las personas con discapacidad puedan acceder en igualdad de condiciones respecto a las demás personas, a vivir en familia y comunidad con las mismas opciones y oportunidades de vida y desarrollo.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+
+ARTÍCULO 7 BIS.- Las dependencias y entidades del Gobierno Estatal y de los Municipios, en el ámbito de sus respectivas competencias, así como, las personas físicas o morales de los sectores social y privado que presten servicios a las personas con discapacidad, en coordinación con la Secretaría de Salud, constituyen el Sistema Estatal para el Desarrollo y la Inclusión de las Personas con Discapacidad.
 
 El Sistema tiene como objeto la coordinación y seguimiento continuo de los programas, acciones y mecanismos interinstitucionales públicos y privados, que permitan la ejecución de las políticas públicas para el desarrollo y la inclusión de las personas con discapacidad.
 
@@ -425,9 +459,9 @@ El Sistema tiene como objeto la coordinación y seguimiento continuo de los prog
 
 Corresponde al Ejecutivo del Estado, realizar las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-I. Diseñar políticas públicas e implementar las acciones, estrategias y programas que en el ámbito Estatal, hagan efectivos los derechos de las personas con discapacidad y permitan los ajustes razonables;
+I. Diseñar políticas públicas e implementar las acciones, estrategias y programas que en el ámbito Estatal, hagan efectivos los derechos de las personas con discapacidad y permitan los ajustes razonables; a fin de cumplir con las obligaciones derivadas de los tratados internacionales de derechos humanos de los que el estado Mexicano es parte, adoptando medidas legislativas, administrativas y de otra índole, para hacer efectivos los derechos de las personas con discapacidad;
 
 II. Definir las estrategias y políticas necesarias para eliminar progresivamente la discriminación;
 
@@ -465,25 +499,29 @@ e) Elementos especiales para facilitar la comunicación, la información y la se
 
 f) Equipos y material pedagógico especiales para educación, capacitación y recreación de las personas con discapacidad, y
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-XI. Impulsar programas específicos de apoyo a la familia cuidadora, para que pueda continuar haciéndose cargo de la persona dependiente;
+XI. Impulsar programas específicos de apoyo suficiente a la familia cuidadora, para que pueda continuar haciéndose cargo de la persona dependiente;
 
 > <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
 
 XII. Establecer los convenios de coordinación con las Organizaciones de la Sociedad Civil que tengan por objeto la atención de las discapacidades, cuando no pueda proveer el servicio demandado por la ciudadanía y requiera canalizar a personas con discapacidad para su debida atención;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-XIII. Brindar información sobre los centros especializados en el adiestramiento de perros de asistencia, nacionales o extranjeros, a las personas con discapacidad que así lo requieran; y
+XIII. Brindar información sobre los centros especializados en el adiestramiento de perros de asistencia, nacionales o extranjeros, a las personas con discapacidad que así lo requieran;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-XIV. Considerar en todos los eventos oficiales, traducción simultánea a la Lengua de Señas Mexicanas para lograr una comunicación eficiente y el ejercicio al derecho a la información de las personas sordas o con discapacidad auditiva; y
+XIV. Considerar en todos los eventos oficiales, traducción simultánea a la Lengua de Señas Mexicanas para lograr una comunicación eficiente y el ejercicio al derecho a la información de las personas sordas o con discapacidad auditiva;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
 
-XV. Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales aplicables a la materia.
+XV. Garantizar el desarrollo integral de las personas con discapacidad, de manera plena y autónoma, en los términos de la presente Ley; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XVI. Las demás que resulten de la aplicación de la presente Ley y demás ordenamientos legales aplicables a la materia.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -503,7 +541,7 @@ VI. Promover que en las políticas, programas o acciones, se impulse la toma de 
 
 VII. Prestar servicios de atención a las personas con discapacidad con fundamento en los principios establecidos en la presente Ley.
 
-### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN
+### CAPÍTULO II. DE LA SECRETARÍA DE SALUD
 
 ###### ARTÍCULO 9.
 
@@ -545,19 +583,25 @@ VIII. Gestionar a través de los mecanismos institucionales correspondientes, la
 
 IX. Establecer los mecanismos para brindar servicios de detección, atención y tratamiento psicológicos para personas con discapacidad, así como de la persona o familia cuidadora;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-X. Realizar la capacitación y actualización continua de los profesionales, técnicos y auxiliares de la salud, principalmente del personal especializado en rehabilitación;
+X. Realizar la capacitación y actualización continua de los profesionales, técnicos y auxiliares de la salud, principalmente del personal especializado en rehabilitación a fin de que los profesionales de la salud proporcionen a las personas con discapacidad una atención digna y de calidad, sobre la base de un consentimiento libre e informado;
 
-XI. Establecer acciones de coordinación con instituciones públicas y privadas, para impulsar la investigación y la producción de artículos especiales para la atención de las diferentes discapacidades, con el propósito de facilitar su oportuna adquisición, y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+XI. Establecer acciones de coordinación con instituciones públicas y privadas, para impulsar la investigación y la producción de artículos especiales para la atención de las diferentes discapacidades, con el propósito de facilitar su oportuna adquisición;
 
-XII. Remitir un informe-diagnóstico sobre los diversos aspectos de las limitaciones y funcionalidades de las personas con discapacidad, su personalidad y entorno familiar con apego a los lineamientos establecidos por la Clasificación Nacional de Discapacidad, al Registro Estatal de Personas con Discapacidad; y
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+XII. Remitir un informe-diagnóstico sobre los diversos aspectos de las limitaciones y funcionalidades de las personas con discapacidad, su personalidad y entorno familiar con apego a los lineamientos establecidos por la Clasificación Nacional de Discapacidad, al Registro Estatal de Personas con Discapacidad;
 
-XIII. Las demás que sean necesarias para el cumplimiento de la presente ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XIII. Establecer centros asistenciales de carácter temporal para personas con discapacidad, donde sean atendidas en condiciones que respeten su dignidad y sus derechos, y les permita capacitarse para su inclusión en la sociedad, de conformidad con los principios establecidos en la presente Ley; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MAYO DE 2025)</small>
+
+XIV. Las demás que sean necesarias para el cumplimiento de la presente ley.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -567,7 +611,7 @@ Los procesos de prevención, habilitación y rehabilitación de las personas con
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
 
-### CAPÍTULO IV. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+### CAPÍTULO III. DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### ARTÍCULO 11.
 
@@ -723,9 +767,7 @@ La educación especial deberá contar con personal técnicamente capacitado y ca
 
 Se garantizará que quienes participen en la elaboración de los programas de educación especial para la atención de las personas con discapacidad cuenten con título profesional, especialización, experiencia y aptitudes en la materia.
 
-### CAPÍTULO V. DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL, Y DE LOS AYUNTAMIENTOS EN MATERIA DE DESARROLLO URBANO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+### CAPÍTULO IV. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
 ###### ARTÍCULO 19.
 
@@ -765,9 +807,9 @@ IX.- Las demás que sean necesarias para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2022)</small>
 
-### CAPÍTULO VI. DE LOS SISTEMAS ESTATAL Y MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+### CAPÍTULO V. DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL, Y DE LOS AYUNTAMIENTOS EN MATERIA DE DESARROLLO URBANO
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
 
 ###### ARTÍCULO 20.
 
@@ -811,13 +853,21 @@ III.- Que la adecuación de las instalaciones públicas sea progresiva con metas
 
 Las autoridades a que se refiere este capítulo impulsaran la inclusión de proyectos arquitectónicos que consideren las necesidades de Diseño Universal de las personas con discapacidad en los programas de vivienda.
 
-### CAPÍTULO VII. DE LOS INSTITUTOS DEL DEPORTE Y LA CULTURA FÍSICA, Y DE CULTURA DE BAJA CALIFORNIA
+### CAPÍTULO VI. DE LOS SISTEMAS ESTATAL Y MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
 Corresponderá al Sistema Estatal para el Desarrollo Integral de la Familia y autoridades municipales competentes en coordinación con la Secretaría de Salud, implementar el mecanismo para constatar, calificar, evaluar y declarar la certificación de condición de discapacidad, el cual debe de estar en estricto apego a lo establecido en la Clasificación Nacional de Discapacidad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+ARTÍCULO 23 BIS.- El Sistema Estatal para el Desarrollo Integral de la Familia participará en el ámbito de su competencia, en el diseño y ejecución de programas de prevención y de atención a las personas con discapacidad para su rehabilitación, e inclusión social, en apego a las normas y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2025)</small>
+
+ARTÍCULO 23 TER.- El Sistema Estatal para el Desarrollo Integral de la Familia otorgará a las personas con discapacidad atención especializada en materia de rehabilitación, atención psicológica, trabajo social así como la detección y su encauzamiento a los diversos programas, terapias y seguimientos que se requieran.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -859,7 +909,9 @@ V.- El Sistema Estatal para el Desarrollo Integral de la Familia, deberá incorp
 
 VI.- Y las demás que prevengan las disposiciones aplicables.
 
-### CAPÍTULO VIII. DEL INSTITUTO ESTATAL DE PLANEACIÓN Y COMITÉ DE PLANEACIÓN PARA EL ESTADO
+### CAPÍTULO VII. DE LOS INSTITUTOS DEL DEPORTE Y LA CULTURA FÍSICA, Y DE CULTURA DE BAJA CALIFORNIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 27.
 
@@ -919,7 +971,7 @@ XIII.- Las demás necesarias para el cumplimiento de la presente Ley.
 
 Dichas autoridades señaladas en el presente artículo, podrán llevar acabo (sic) acuerdos o convenios con las diferentes asociaciones civiles del Estado en materia de discapacidad para realizar dichas acciones.
 
-### CAPÍTULO IX. DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
+### CAPÍTULO VIII. DEL INSTITUTO ESTATAL DE PLANEACIÓN Y COMITÉ DE PLANEACIÓN PARA EL ESTADO
 
 ###### ARTÍCULO 28.
 
@@ -961,23 +1013,7 @@ Los ayuntamientos deberán procurar la concordancia de las estrategias, las acci
 
 La ejecución de los acuerdos tomados en el Subcomité Especial quedará a cargo de las dependencias y entidades de la Administración Pública Estatal y Municipal en sus respectivos ámbitos de competencias.
 
-### CAPÍTULO X
-
-FUNCIONES Y ATRIBUCIONES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
-
-ARTÍCULO 35 BIS.- La Comisión Estatal de los Derechos Humanos en el ámbito de su competencia, será la autoridad responsable de las acciones que en materia (sic) derechos humanos se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes funciones y atribuciones:
-
-I.- Coordinar las actividades relacionadas con los derechos humanos y la discapacidad a nivel estatal y municipal;
-
-II.- Observar la acción gubernamental a fin de que respeten los derechos de las personas con discapacidad;
-
-III.- Sensibilizar al público sobre las cuestiones relacionadas con la discapacidad y los derechos de las personas con discapacidad;
-
-IV.- Velar por que las personas con discapacidad que deseen participar en la formulación de las políticas y leyes que les afecten, no les sea vulnerado su derecho; y
-
-V.- Recomendar a las personas con discapacidad que participen en organizaciones y la sociedad civil, así como promover la creación de organizaciones de personas con discapacidad.
+### CAPÍTULO IX. DEBERES Y FACULTADES DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 34.
 
@@ -1039,17 +1075,33 @@ VIII.- Considerar en todos los eventos oficiales, traducción simultánea a la L
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO I. DE SU OBJETO Y ATRIBUCIONES
+### CAPÍTULO X
+
+FUNCIONES Y ATRIBUCIONES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 35 BIS.- La Comisión Estatal de los Derechos Humanos en el ámbito de su competencia, será la autoridad responsable de las acciones que en materia (sic) derechos humanos se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes funciones y atribuciones:
+
+I.- Coordinar las actividades relacionadas con los derechos humanos y la discapacidad a nivel estatal y municipal;
+
+II.- Observar la acción gubernamental a fin de que respeten los derechos de las personas con discapacidad;
+
+III.- Sensibilizar al público sobre las cuestiones relacionadas con la discapacidad y los derechos de las personas con discapacidad;
+
+IV.- Velar por que las personas con discapacidad que deseen participar en la formulación de las políticas y leyes que les afecten, no les sea vulnerado su derecho; y
+
+V.- Recomendar a las personas con discapacidad que participen en organizaciones y la sociedad civil, así como promover la creación de organizaciones de personas con discapacidad.
 
 ## TÍTULO TERCERO. DEL CONSEJO CONSULTIVO PARA PERSONAS CON DISCAPACIDAD DEL ESTADO
 
-### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO I. DE SU OBJETO Y ATRIBUCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 36.
 
-Se Crea el Consejo Consultivo para las Personas con Discapacidad, como instrumento de coordinación entre el Gobierno del Estado y las organizaciones, de carácter técnico consultivo y que tiene por objeto contribuir al establecimiento de una Política de Estado en la materia, así como coadyuvar en la planeación, promoción, vigilancia y evaluación de las acciones, estrategias y programas encaminados a la atención, integración y desarrollo de las personas con discapacidad.
+Se crea el Consejo Consultivo para las Personas con Discapacidad, como instrumento de coordinación entre el Gobierno del Estado y las organizaciones, de carácter técnico consultivo y que tiene por objeto contribuir al establecimiento de una Política de Estado en la materia, así como coadyuvar en la planeación, promoción, vigilancia y evaluación de las acciones, estrategias y programas encaminados a la atención, integración y desarrollo de las personas con discapacidad, que generen en éstas condiciones y opciones iguales a las demás personas a fin de facilitar el pleno goce de sus derechos para lograr su plena inclusión y participación en la comunidad.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1103,9 +1155,9 @@ XV. Rendir un informe público anual sobre el cumplimiento de sus objetivos, y
 
 XVI. Expedir en tiempo y forma su Reglamento Interno.
 
-### CAPÍTULO III. DEL ACCESO A ESPACIOS PÚBLICOS A PERSONAS CON DISCAPACIDAD ACOMPAÑADOS DE PERROS DE ASISTENCIA
+### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 38.
 
@@ -1253,13 +1305,9 @@ ARTÍCULO 53 BIS.- El Consejo se apoyará del Subcomité Especial de Asistencia 
 
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
 
-### CAPÍTULO IV. GOBIERNO INCLUYENTE
+### CAPÍTULO III. DEL ACCESO A ESPACIOS PÚBLICOS A PERSONAS CON DISCAPACIDAD ACOMPAÑADOS DE PERROS DE ASISTENCIA
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
-
-ARTÍCULO 62 BIS.- Las autoridades señaladas en las fracciones I, II, III y IV del artículo 7 de esta Ley, contarán con al menos un módulo de atención y orientación para personas con discapacidad, en aquellas ciudades donde tengan presencia de servicios y que corresponda a su jurisdicción. Dicho módulo contará con el personal humano debidamente capacitado en Lengua de Señas Mexicanas y en el contenido de la presente Ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1351,17 +1399,21 @@ El incumplimiento de lo dispuesto con relación al libre acceso de personas con 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE FEBRERO DE 2018)</small>
 
-### CAPÍTULO PRIMERO. DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IV. GOBIERNO INCLUYENTE
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2018)</small>
+
+ARTÍCULO 62 BIS.- Las autoridades señaladas en las fracciones I, II, III y IV del artículo 7 de esta Ley, contarán con al menos un módulo de atención y orientación para personas con discapacidad, en aquellas ciudades donde tengan presencia de servicios y que corresponda a su jurisdicción. Dicho módulo contará con el personal humano debidamente capacitado en Lengua de Señas Mexicanas y en el contenido de la presente Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2023)</small>
 
 ## TÍTULO CUARTO. DE LA RESPONSABILIDAD Y SANCIONES DE LOS SERVIDORES PÚBLICOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 2023)</small>
 
-### CAPÍTULO SEGUNDO. SANCIONES DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO PRIMERO. DE LOS SERVIDORES PÚBLICOS
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1376,6 +1428,10 @@ De igual forma las dependencias y entidades a que se refiere la presente Ley y q
 Ante el incumplimiento a lo establecido en la presente Ley, la persona con discapacidad podrá acudir a la Secretaría de la Honestidad y la Función Pública, o bien ante el órgano interno de control que corresponda, a interponer el procedimiento disciplinario que corresponda, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE ENERO DE 2023)</small>
+
+### CAPÍTULO SEGUNDO. SANCIONES DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 65.
 
@@ -1542,3 +1598,13 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 330 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 25 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor de las presentes reformas, se sujetarán a la disponibilidad presupuestal de quienes ejecutan el gasto en el ejercicio fiscal vigente y los subsecuentes.
+
+TERCERO.- Las obligaciones y facultades de las autoridades estatales que deriven de la vigencia de las presentes reformas y que resulten materia de convenios entre la Federación y el Estado, se sujetarán para su cumplimiento a las disposiciones jurídicas aplicables.
