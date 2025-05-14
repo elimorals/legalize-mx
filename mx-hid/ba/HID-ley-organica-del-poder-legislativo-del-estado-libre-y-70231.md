@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2025-03-26"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,13 +75,15 @@ El ejercicio de las funciones de los Diputados durante el período constituciona
 
 El Congreso del Estado, se integra con Diputados electos en su totalidad por sufragio universal, libre, secreto y directo, conforme a los principios de votación mayoritaria relativa y de representación proporcional, en el número y términos que determinen la Constitución Política del Estado de Hidalgo y la Legislación Electoral y podrán ser electos hasta por un periodo consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieran postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 5.
 
-Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Titulo Sexto, de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
+Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Períodos Ordinarios de Sesiones cada año, en los términos previstos por el Título Sexto de la Constitución Política del Estado de Hidalgo. Los períodos no podrán prorrogarse más allá de las fechas previstas en este Título.
 
-El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
+El Congreso podrá celebrar Periodos Extraordinarios, los cuales deberán ser aprobados por la Diputación Permanente a solicitud de la misma, de la Junta de Gobierno o del Ejecutivo del Estado. Una vez aprobados, la convocatoria a dichos periodos será realizada por la Directiva de la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+En dichos periodos sólo se tratarán los asuntos que se precisen en la convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -621,37 +623,41 @@ El Pleno sesionará de manera presencial o si fuera el caso virtual conforme a l
 
 La Directiva del Congreso, es el Órgano de Dirección de los Trabajos del Pleno o de la Diputación Permanente, en su caso; representante del Congreso en los asuntos de carácter legal, político y protocolario; intérprete de las disposiciones parlamentarias y garante de la inviolabilidad del Recinto Legislativo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 54.
 
-La Directiva del Congreso, estará integrada tanto en los periodos Ordinarios de Sesiones, como en las Sesiones Extraordinarias, por una Presidencia, una Vicepresidencia, dos Secretarías y dos Suplencias Generales, que resultaron electas por mayoría de votos de las Diputadas y de los Diputados presentes en la Sesión correspondiente.
+La Directiva del Congreso estará integrada tanto en los Periodos Ordinarios de Sesiones, como en los Periodos Extraordinarios, por una Presidencia, una Vicepresidencia, dos Secretarías y dos Suplencias Generales, que resultaron electas por mayoría de votos de las Diputadas y de los Diputados presentes en la Sesión correspondiente.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2024)</small>
-
-La Directiva de la Diputación Permanente se integrará de una Presidencia, una Vicepresidencia y dos Secretarías.
+La Directiva de la Diputación Permanente se integrará de la misma manera. Durante los Periodos Extraordinarios, la Directiva de la Diputación Permanente en funciones actuará como Directiva del Congreso.
 
 ###### ARTÍCULO 55.
 
 En la última sesión de la Diputación Permanente, con la mayoría de los Diputados de la Legislatura y bajo la conducción de la Directiva de la Diputación Permanente, se elegirá a la Directiva que deba fungir en el primer mes del siguiente Periodo Ordinario de Sesiones: y rendirán protesta en los términos del Artículo 7 fracción IV, de la presente Ley.
 
-El mismo procedimiento será aplicable tratándose de Periodos Extraordinarios de Sesiones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 En caso de no ser posible nombrar a la Directiva que presidirá los trabajos del siguiente periodo de Sesiones, por falta de Quórum o alguna otra causa, la Directiva en funciones, seguirá actuando hasta en tanto se nombre a la nueva Directiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 56.
 
-Durante los Períodos Ordinarios de Sesiones, la Directiva se renovará en su totalidad mensualmente, sin que los que hayan sido sus miembros, puedan ser electos para integrar otra Directiva en el mismo periodo de Sesiones.
+Durante los Periodos Ordinarios de Sesiones, la Directiva se renovará mensualmente.
 
-A la Presidencia de la Directiva, podrán- acceder los Diputados en proporción a la representatividad de los Grupos Legislativos y al número de meses que integran los períodos de Sesiones.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
-Los integrantes de la Directiva, tanto de la Diputación Permanente como de las Sesiones Extraordinarias, durarán en su cargo todo el período de receso o el tiempo que dure la Sesión Extraordinaria, en su caso.
+A la Directiva del Congreso podrán acceder las Diputadas y los Diputados en proporción a la representatividad de los Grupos Legislativos y Representaciones Partidistas.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 57.
 
-Las Sesiones Extraordinarias, serán convocadas conforme a lo dispuesto en el Tercer Párrafo del Artículo 5 de esta Ley.
+Los Periodos Extraordinarios serán convocados conforme a lo dispuesto por el Artículo 5 de esta Ley.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -883,9 +889,11 @@ Las Sesiones serán válidas, cuando se encuentren presentes por lo menos cinco 
 
 La convocatoria y los documentos relativos a la sesión correspondiente deberán ser del conocimiento de todos los Diputados.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 73.
 
-Cuando el Congreso del Estado celebre Sesiones Extraordinarias, la Diputación Permanente no suspenderá sus trabajos. La convocatoria para celebrar las Sesiones Extraordinarias, cuidará que no coincidan los horarios para su desahogo, con los de la Diputación Permanente.
+Cuando el Congreso del Estado celebre Periodos Extraordinarios, la Diputación Permanente no suspenderá sus trabajos. La convocatoria para celebrar los Periodos Extraordinarios cuidará que no coincidan los horarios para su desahogo, con los de la Diputación Permanente.
 
 ###### ARTÍCULO 74.
 
@@ -1059,9 +1067,9 @@ XXIV.- Comisión de Humanidades, Ciencias, Tecnología e Innovación;
 
 XXV.- Comisión de Turismo;
 
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
-XXVI.- Comisión de Transparencia y Anticorrupción;
+XXVI.- Comisión de Transparencia, Protección de Datos Personales y Anticorrupción;
 
 XXVII.- Comisión de Cultura;
 
@@ -2203,9 +2211,17 @@ En caso de empate en las votaciones, se repetirá la votación en la misma Sesi�
 
 Tratándose de reformas a la Constitución Política del Estado de Hidalgo, se requerirá la aprobación de por los menos las dos terceras partes del total de los Diputados del Congreso.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
-ARTÍCULO 175 BIS.- Para el caso de las Minutas de reforma o adición a la Constitución Política de los Estados Unidos Mexicanos, aprobadas por el Congreso de la Unión, se requiere de la aprobación, cuando menos de los dos tercios del número total de los Diputados que integran el Congreso del Estado.
+ARTÍCULO 175 BIS.- El Congreso del Estado de Hidalgo, como integrante del Constituyente Permanente, podrá aprobar o rechazar las Minutas de reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos que sean remitidas por el Congreso de la Unión para los efectos del artículo 135 de la Constitución General, conforme al siguiente procedimiento:
+
+I. La Presidencia de la Directiva comunicará a las Diputadas y los Diputados integrantes del Congreso sobre el contenido de la Minuta con Proyecto de Decreto Federal remitida por el Congreso de la Unión;
+
+II. La Presidencia de la Directiva convocará al Pleno del Congreso para dar lectura y someter a votación y discusión la Minuta de reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Para la aprobación de dicha Minuta Federal se requerirá una votación de cuando menos dos terceras partes del número total de las Diputadas y Diputados que integran el Congreso del Estado; y
+
+IV. Una vez aprobada o rechazada la Minuta de reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos, la Presidencia de la Directiva remitirá al Congreso de la Unión, copias certificadas del Decreto que contenga el sentido del voto emitido por el Congreso del Estado de Hidalgo.
 
 ###### ARTÍCULO 176.
 
@@ -3130,3 +3146,9 @@ P.O. 26 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 207 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, EN MATERIA DE LENGUAJE INCLUYENTE Y PARIDAD DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 230 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO Y DE SU REGLAMENTO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
