@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-turismo-para-el-estado-de-chiapas-153263"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE TURISMO PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en el Número 202 del Periódico Oficial del Estado de Chiapas, el viernes 31 de diciembre de 2021.
 
@@ -191,7 +191,11 @@ III. Promover y vigilar el cumplimiento de esta Ley, demás ordenamientos y Norm
 
 IV. Participar en programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos conforme a las políticas y programas de protección civil que al efecto se establezcan.
 
-V. Coadyuvar con la Fiscalía General del Estado y las instancias correspondientes en la prevención, seguimiento y combate de los delitos que atenten contra los derechos y patrimonio de los Turistas y Visitantes.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+V. Coadyuvar con la Fiscalía General del Estado y las instancias correspondientes en la prevención, seguimiento y combate de los delitos que atenten contra los derechos y patrimonio de los Turistas y Visitantes, garantizando en todo momento los derechos de las Niñas, Niños y Adolescentes en el marco del Interés Superior de la Niñez.
+
+Colaborar con la Procuraduría de Protección de Niñas, Niños y Adolescentes, así como las autoridades competentes, en la implementación y cumplimiento de protocolos de seguridad y protección integral dentro de los establecimientos hoteleros y de hospedaje, con el fin de prevenir, detectar y atender posibles situaciones de riesgo o delitos que afecten a niñas, niños y adolescentes.
 
 VI. Coadyuvar con las instancias correspondientes, en el desarrollo y ejecución de políticas públicas relacionadas a la inclusión de personas con discapacidad.
 
@@ -353,7 +357,9 @@ Los Turistas y Visitantes tendrán los siguientes:
 
 A. Derechos.
 
-I. Gozar de protección contra actos de discriminación, en términos de lo dispuesto por el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+I. Gozar de protección contra actos que vulneren sus derechos humanos, en especial cuando se involucren niñas, niños y adolescentes, los cuales deberán disfrutar de una vida plena acordes a su dignidad y en condiciones que garanticen su desarrollo integral, en términos del marco jurídico aplicable.
 
 II. Recibir Servicios Turísticos de calidad.
 
@@ -381,7 +387,9 @@ III. Consultar la Oferta Turística publicada por la Secretaría, en la Platafor
 
 IV. Consultar las páginas electrónicas y sitios de internet que impulsa la Secretaría, para conocer las características del destino.
 
-V. Identificarse plenamente ante el Prestador de Servicios Turísticos.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+V. Acreditar su identidad ante el prestador de servicios turísticos, mediante la exhibición de una identificación oficial vigente con fotografía.
 
 VI. Respetar los reglamentos de uso, condiciones del contrato de prestación de servicios o régimen interior de los Servicios Turísticos contratados.
 
@@ -425,7 +433,13 @@ XIII. Solicitar al personal encargado de las Visitas de Verificación y Vigilanc
 
 XIV. Ser incluidos en los programas de capacitación turística que promueva o lleve a cabo la Secretaría.
 
-XV. Los demás que establezcan los ordenamientos legales y administrativos en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2025)</small>
+
+XV. Recibir por parte de las autoridades competentes a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad, de conformidad con la legislación aplicable, los programas permanentes de información, capacitación y sensibilización en materia de derechos humanos de niñas, niños y adolescentes, así como en la prevención, detección y actuación ante casos de los delitos que atenten contra la integridad de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2025)</small>
+
+XVI. Los demás que establezcan los ordenamientos legales y administrativos en la materia.
 
 B. Obligaciones.
 
@@ -447,7 +461,9 @@ VIII. Obtener el Registro Nacional de Turismo.
 
 IX. Solicitar y obtener la CIET.
 
-X. Establecer protocolos de seguridad y primeros auxilios, en términos de lo que dispongan las autoridades competentes de la materia.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+X. Establecer protocolos de seguridad y garantizar la formación integral de su personal y trabajadores mediante programas permanentes de información, capacitación y sensibilización en materia de derechos humanos de niñas, niños y adolescentes, así como en la prevención, detección y actuación ante casos de los delitos que atenten contra la integridad de las niñas, niños y adolescentes, previstos y sancionados en el Código Penal para el Estado de Chiapas y la Ley para Prevenir y Combatir la Trata de Personas en el Estado de Chiapas. Asimismo, deberán asegurar el cumplimiento y seguimiento de protocolos emitidos por las autoridades competentes para la identificación, denuncia y atención inmediata de posibles delitos relacionados con estas conductas, en coordinación con las autoridades correspondientes.
 
 XI. Denunciar de forma inmediata ante la autoridad competente, todo hecho vinculado con violación a los derechos humanos de los Turistas o Visitantes.
 
@@ -465,7 +481,13 @@ XVII. Sujetarse al procedimiento administrativo en Materia Turística establecid
 
 XVIII. Cumplir con las certificaciones que para efectos de calidad y seguridad sean emitidas por la Secretaría de Turismo.
 
-XIX. Las demás que establezcan los ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2025)</small>
+
+XIX. Capacitar a sus trabajadores y empleados para prestar primeros auxilios;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2025)</small>
+
+XX. Las demás que establezcan los ordenamientos legales y administrativos aplicables.
 
 ###### Artículo 14.
 
@@ -1328,3 +1350,17 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 31 días del mes de diciembre del año dos mil veintiuno. D. P.C. MARÍA DE LOS ÁNGELES TREJO HUERTA. D.S. C. FLOR DE MARÍA ESPONDA TORRES. RÚBRICAS.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 31 días del mes de Diciembre del año dos mil veintiuno.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO 245 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO PARA EL ESTADO DE CHIAPAS, EN MATERIA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- La Secretaría de Turismo, en coordinación con la Fiscalía General del Estado, el Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás dependencias competentes, dispondrán de 180 días hábiles para la creación y publicación de los protocolos y acciones preventivas referidas en este Decreto.
+
+Artículo Cuarto.- Todas las modificaciones a las disposiciones reglamentarias derivadas de lo establecido en el presente Decreto, deberán ser expedidas, en un término no mayor de 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
