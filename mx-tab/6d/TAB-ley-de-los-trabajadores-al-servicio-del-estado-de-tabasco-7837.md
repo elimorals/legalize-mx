@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2024-05-29"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 La H. Quincuagésima Tercera Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades que le confiere el Artículo 36, fracciones I y XXXIX de la Constitución Política Local, y
 
-...
+[...]
 
 Ha tenido ha bien emitir el siguiente:
 
@@ -323,11 +323,15 @@ Serán considerados como días de descanso obligatorio, con goce de salario, los
 
 1° de Enero
 
-5 de Febrero
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+El primer lunes de Febrero en conmemoración del 5 de Febrero
 
 27 de Febrero
 
-21 de Marzo
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+El tercer lunes de Marzo en conmemoración del 21 de Marzo
 
 1° de Mayo
 
@@ -337,11 +341,19 @@ Serán considerados como días de descanso obligatorio, con goce de salario, los
 
 1° de Noviembre
 
-20 de Noviembre
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
-1° de Diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
+El tercer lunes de Noviembre en conmemoración del 20 de Noviembre
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+1 de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
 
 25 de Diciembre.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2025)</small>
+
+El que determinen las leyes electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral.
 
 ###### ARTICULO 33.
 
@@ -1404,3 +1416,11 @@ P.O. 29 DE MAYO DE 2024.
 PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL [N. DE E. TRANSITORIOS DEL DECRETO 106 POR EL QUE SE “REFORMAN LOS PÁRRAFOS TERCERO, QUINTO, DÉCIMO Y DÉCIMO PRIMERO Y SE ADICIONA EL PÁRRAFO DÉCIMO TERCERO, AL ARTÍCULO 32 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
