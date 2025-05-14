@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2024-12-31"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -1649,11 +1649,13 @@ Los informes trimestrales y la Cuenta Pública se entregarán en términos de la
 
 Los ejecutores de gasto, en el manejo de los recursos públicos estatales, deberán observar las disposiciones establecidas en la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo y demás disposiciones aplicables en la materia.
 
-Los ejecutores de gasto deberán remitir al Congreso del Estado la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+Los ejecutores de gasto deberán remitir al Congreso del Estado la información que éste les solicite en relación con sus respectivos presupuestos, en un plazo no mayor a diez días hábiles improrrogables contados a partir de la fecha de notificación de la solicitud.
 
-Dicha Solicitud se realizará por la Junta de Gobierno del Congreso del Estado de Hidalgo o por las comisiones competentes.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+Dicha solicitud se realizará por la Junta de Gobierno del Congreso del Estado de Hidalgo o por las comisiones competentes. Como resultado del análisis y estudio de la información proporcionada por los ejecutores de gasto, se deberá emitir un informe.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1900,3 +1902,9 @@ La aplicación de la disposición contenida en el párrafo que antecede no dará
 CUARTO. Las reformas a que refiere el artículo 41 de la Ley de Hacienda del Estado de Hidalgo, serán aplicables a las obligaciones contraídas desde el 01 de enero de 2020.
 
 La aplicación de la disposición contenida en el párrafo que antecede no dará lugar a devolución o compensación alguna.
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 231- LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO Y DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO, EN MATERIA DE ATRIBUCIONES DE LA COMISIÓN DE HACIENDA Y PRESUPUESTO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
