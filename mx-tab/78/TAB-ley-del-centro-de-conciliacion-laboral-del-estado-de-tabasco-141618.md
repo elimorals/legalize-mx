@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-centro-de-conciliacion-laboral-del-estado-de-tabasco-14
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-19"
-last_updated: "2020-02-19"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en el Suplemento N del Periódico Oficial del Estado de Tabasco, el miércoles 19 de febrero de 2020.
 
@@ -55,9 +55,11 @@ LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TABASCO
 
 Las disposiciones contenidas en la presente Ley son de orden público, interés general y observancia obligatoria en el Estado y tienen como objeto establecer la organización y funcionamiento del Centro de Conciliación Laboral del Estado de Tabasco, en los términos de lo dispuesto por los artículos 123 apartado A fracción XX segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, 590-E de la Ley Federal del Trabajo y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 2.
 
-El Centro de Conciliación Laboral del Estado de Tabasco es un organismo descentralizado de la administración pública estatal, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica, operativa, presupuestaria, de decisión y de gestión, en los términos de lo dispuesto en el artículo 52 primer párrafo de la Constitución Política del Estado Libre y Soberano de Tabasco, sectorizado a la Secretaría de Gobierno.
+El Centro de Conciliación Laboral del Estado de Tabasco es un organismo descentralizado de la administración pública estatal, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica, operativa, presupuestaria, de decisión y de gestión, en los términos de lo dispuesto en el artículo 52 primer párrafo de la Constitución Política del Estado Libre y Soberano de Tabasco, sectorizado a la Consejería Jurídica del Poder Ejecutivo del Estado.
 
 ###### Artículo 3.
 
@@ -87,7 +89,9 @@ III. Junta de Gobierno: Junta de Gobierno del Centro de Conciliación Laboral de
 
 IV. Ley: Ley del Centro de Conciliación Laboral del Estado de Tabasco;
 
-V. Secretaría: Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+V. Consejería: Consejería Jurídica del Poder Ejecutivo del Estado;
 
 VI. Presidencia: persona titular de la Presidencia de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Tabasco; y
 
@@ -141,17 +145,27 @@ II. La Dirección General.
 
 La Junta de Gobierno es el máximo órgano de decisión y se integra por:
 
-I. La persona titular de la Secretaría, quien ocupará la Presidencia;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+I. La persona titular de la Consejería, quien ocupará la Presidencia;
 
 II. La persona titular de la Dirección General, quien ocupará la Secretaría Técnica;
 
-III. La persona titular de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
-IV. La persona titular de la Secretaría de la Función Pública, en calidad de Comisario; y
+III. La persona titular de la Secretaría de Gobierno;
 
-V. La persona titular de la Coordinación General de Asuntos Jurídicos.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
-Los integrantes de la Junta de Gobierno designarán a su suplente, quienes deberán tener un nivel mínimo de director.
+IV. La persona titular de la Secretaría de Administración y Finanzas; y
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+V. La persona titular de la Secretaría Anticorrupción y Buen Gobierno, en calidad de Comisario.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+Los integrantes de la Junta de Gobierno designarán a su suplente, quienes deberán tener un nivel mínimo de director o directora.
 
 El desempeño del cargo de integrante de la Junta de Gobierno será honorífico, sin retribución de emolumento o compensación.
 
@@ -195,7 +209,9 @@ XIII. Aprobar el calendario de sesiones ordinarias;
 
 XIV. Aprobar a propuesta del Director General, la emisión de la convocatoria para la selección de conciliadores;
 
-XV. Nombrar y remover a propuesta de la Presidencia, al secretario técnico y su suplente; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XV. Nombrar y remover a propuesta de la Presidencia, a la persona titular de la Secretaría Técnica y su suplente; y
 
 XVI. Las que establezcan la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
@@ -287,7 +303,7 @@ I. El día, la hora y domicilio donde se efectuará la sesión correspondiente;
 
 II. El número de la sesión para la que se convoca;
 
-III. La mención de ser pública o privada;
+III. (DEROGADA, P.O. 14 DE MAYO DE 2025)
 
 IV. La mención de ser ordinaria o extraordinaria;
 
@@ -469,11 +485,13 @@ XVII. Las que le confieran el Estatuto Orgánico y demás disposiciones legales 
 
 ## TÍTULO TERCERO. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 47.
 
-El Centro de Conciliación contará con un Órgano Interno de Control, cuyo titular será designado y removido, previo acuerdo del Gobernador, por la Secretaría de la Función Pública y dependerá jerárquica y funcionalmente de la misma, de conformidad con lo establecido en la fracción X del artículo 43 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
+El Centro de Conciliación contará con un Órgano Interno de Control, cuyo titular será designado y removido por la Secretaría Anticorrupción y Buen Gobierno y dependerá jerárquica y funcionalmente de la misma, de conformidad con lo establecido en la fracción XLI del artículo 30 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
 
-Tendrá las funciones y responsabilidades que establecen la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública y las que señalen los demás ordenamientos aplicables en la materia. Para ello, contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, con la finalidad de garantizar la independencia entre ambas en el ejercicio de dichas funciones.
+Tendrá las funciones y responsabilidades que establecen la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno y las que señalen los demás ordenamientos aplicables en la materia. Para ello, contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, con la finalidad de garantizar la independencia entre ambas en el ejercicio de dichas funciones.
 
 ## TÍTULO CUARTO. DEL PATRIMONIO DEL CENTRO DE CONCILIACIÓN
 
@@ -524,3 +542,15 @@ SECRETARIO DE GOBIERNO
 GUILLERMO ARTURO DEL RIVERO LEÓN
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 105 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2; 6, FRACCIÓN V; 10, FRACCIONES I, III, IV Y V, Y PENÚLTIMO PÁRRAFO; 13, FRACCIÓN XV; 47; Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 24, TODOS DE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO. La Junta de Gobierno en su nueva conformación deberá instalarse dentro de un plazo no mayor a los treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
