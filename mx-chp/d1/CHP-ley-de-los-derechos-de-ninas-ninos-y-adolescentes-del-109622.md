@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2022-06-15"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
 
@@ -101,7 +101,9 @@ VIII. CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo 
 
 IX. Congreso del Estado: Al Honorable Congreso del Estado de Chiapas.
 
-X. (DEROGADA, P.O. 26 DE ABRIL DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2025)</small>
+
+X. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos.
 
 XI. Constitución Política local: A la Constitución Política del Estado de Chiapas.
 
@@ -165,6 +167,22 @@ XL. Sistema Nacional DIF: Al Sistema Nacional para el Desarrollo Integral de la 
 
 XLI. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XLII. Cultura de la Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XLIII. Mínima intervención: Consiste en que, cuando se solicite a niñas, niños y adolescentes, su intervención en procedimientos judiciales como víctimas o testigos, y sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XLIV. No revictimización: Implica que en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, cuando intervienen en procedimientos judiciales como víctimas o testigos, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XLV. Vínculo Materno Filial: A la relación biológica y de apego desarrollada entre niñas, niños y/o adolescentes con su madre.
+
 ###### Artículo 6°.
 
 Se consideran niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
@@ -204,6 +222,18 @@ XIII. El acceso a una vida libre de violencia.
 XIV. La accesibilidad.
 
 XV. Diligencia excepcional dentro de las medidas especiales de protección.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XVI. El derecho al adecuado desarrollo evolutivo de la personalidad.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XVII. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XVIII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 ###### Artículo 8°.
 
@@ -245,7 +275,9 @@ Toda persona que tenga conocimiento de hechos o actos que atenten, vulneren o tr
 
 Para efectos de la presente Ley, son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo.
 
 II. Derecho de prioridad.
 
@@ -255,7 +287,9 @@ IV. Derecho a vivir en familia.
 
 V. Derecho a la igualdad sustantiva.
 
-VI. Derecho a no ser discriminado.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+IV. Derecho a vivir en familia y a la protección de vínculo materno filial.
 
 VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral.
 
@@ -293,13 +327,19 @@ XXI. Derecho de acceso a las tecnologías de la información y comunicación, as
 
 XXII. Derecho a la Integridad Emocional.
 
-El Estado y sus municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición, a través de la ejecución de las acciones coordinadas que para el efecto se establezcan en los Programas Estatal y Municipales, respectivamente.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE MAYO DE 2025)</small>
 
-### Capítulo Segundo. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+El Estado y sus municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición, a través de la ejecución de las acciones coordinadas que para tal efecto se establezcan en los Programas Estatal y Municipales, respectivamente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2025)</small>
+
+### Capítulo Segundo. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### Artículo 16.
 
-Las niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Las niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la paz, la supervivencia y al desarrollo.
 
 Las autoridades e instituciones estatales y municipales, en el ámbito de sus respectivas competencias, deberán atender de manera inmediata las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como investigar y sancionar efectivamente los actos de privación de la vida.
 
@@ -307,9 +347,11 @@ Las autoridades e instituciones estatales y municipales, en el ámbito de sus re
 
 Las niñas, niños y adolescentes deberán disfrutar de una vida plena y digna en igualdad de condiciones a fin de garantizar su seguridad y desarrollo integral.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 18.
 
-Las niñas, niños y adolescentes tienen el derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni ser instrumento para la comisión de un delito u objeto del mismo.
+Las niñas, niños y adolescentes tienen el derecho a la paz, a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni ser instrumento para la comisión de un delito u objeto del mismo.
 
 ### Capítulo Tercero. Del Derecho de Prioridad
 
@@ -369,13 +411,15 @@ En los casos en que niñas, niños o adolescentes cumplan con los requisitos par
 
 Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, y los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa injustificada de practicarse la prueba pericial de paternidad o maternidad, la autoridad competente presumirá que es el padre o la madre respectivamente.
 
-### Capítulo Quinto. Del Derecho a Vivir en Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2017)</small>
+### Capítulo Quinto. Del Derecho a Vivir en Familia y a la Protección de Vínculo Materno Filial
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### Artículo 24.
 
-Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que conviva, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus padres, sino que deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
+Las niñas, niños y adolescentes tienen derecho a vivir en familia y a la protección de vínculo materno filial. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su Familia de origen o de los familiares con los que conviva, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus progenitores, sino que deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
 
 ###### Artículo 25.
 
@@ -387,13 +431,17 @@ Para ello, el Código de Procedimientos Civiles para el Estado de Chiapas establ
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 27.
 
-En los casos de ausencia de aquellas personas que se encargan de la tutela, guarda y custodia de niñas, niños y adolescentes que se encuentren separados de sus padres en los supuestos señalados en el párrafo anterior, será la Procuraduría de Protección Municipal correspondiente, en coordinación con la Procuraduría de Protección Estatal, las que realizarán las acciones necesarias para evitar que los mismos se encuentren en una situación de abandono, asimismo velará por que se preserve su integridad y se garanticen sus derechos.
+En los casos de ausencia de aquellas personas que se encargan de la tutela, guarda y custodia de niñas, niños y adolescentes que se encuentren separados de sus progenitores en los supuestos señalados en el párrafo anterior, será la Procuraduría de Protección Municipal correspondiente, en coordinación con la Procuraduría de Protección Estatal, las que realizarán las acciones necesarias para evitar que los mismos se encuentren en una situación de abandono, asimismo velará por que se preserve su integridad y se garanticen sus derechos.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### Artículo 28.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia, y en su caso, sean atendidas a través de las medidas necesarias para garantizar sus derechos que dispone la presente Ley y demás normativa aplicable.
 
 ###### Artículo 29.
 
@@ -403,9 +451,11 @@ Es un derecho de las niñas, niños y adolescentes cuyas familias estén separad
 
 Las niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en un espacio y forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 31.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, así como el restablecimiento del vínculo materno filial, siempre y cuando no sea contrario a su interés superior.
 
 Durante la localización de la familia, las niñas, niños y adolescentes tienen derecho a acceder a las modalidades alternativas de cuidados de carácter temporal, en tanto se incorporan a su familia conforme a las disposiciones legales aplicables.
 
@@ -429,11 +479,13 @@ Cuando las autoridades estatales y municipales tengan conocimiento de casos de n
 
 Las autoridades estatales y municipales, coadyuvarán de manera coordinada de acuerdo a sus respectivas competencias en la localización de una niña, niño o adolescente que haya sido trasladado o retenido ilícitamente en territorio chiapaneco, o trasladado legalmente pero retenido ilícitamente, a través de programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de niñas, niños y adolescentes, garantizando en todo momento su integridad física y psicológica, y preservando cada uno de sus derechos.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 37.
 
-Cuando una niña, niño o adolescente se encuentre privado de su familia o hayan sido separados (sic) de su familia de origen por resolución judicial, tendrá derecho a recibir la protección del Estado y los municipios, por conducto de las instancias competentes, quienes de manera coordinada deberán otorgar medidas especiales de protección a niñas, niños y adolescentes, a fin de garantizar en todo momento el goce pleno de sus derechos.
+Cuando una niña, niño o adolescente se encuentre privado de su familia o hayan sido separado de su familia de origen por resolución judicial, tendrá derecho a recibir la protección del Estado y los municipios, por conducto de las instancias competentes, quienes de manera coordinada deberán otorgar medidas especiales de protección a niñas, niños y adolescentes, a fin de garantizar en todo momento el goce pleno de sus derechos.
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar, debiendo considerar el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar, debiendo considerar el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia y a la protección de vínculo materno filial.
 
 ###### Artículo 38.
 
@@ -473,7 +525,9 @@ V. Los cambios en las modalidades alternativas de cuidados para las niñas, niñ
 
 El Sistema DIF Estatal y los Sistemas DIF Municipales deberán desarrollar una política integral en materia de cuidados alternativos y contar con programas respectivos que permitan a los niños, niñas y adolescentes acceder a los mismos, de conformidad con lo previsto por la Ley General y en la presente Ley.
 
-Las autoridades estatales y municipales competentes deberán tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+Las autoridades estatales y municipales competentes deberán tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia y a la protección de vínculo materno filial.
 
 ###### Artículo 41.
 
@@ -539,17 +593,21 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 Las Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 49.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, tienen la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como a quienes los tengan bajo su atención y cuidado, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas, las cuales, serán definidas en los Programas Estatal y municipales, respectivamente.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas apropiadas, las cuales, serán definidas en los Programas Estatal y municipales, respectivamente.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### Artículo 50.
 
-De conformidad con lo establecido por la Ley general, la edad mínima para contraer matrimonio en el Estado de Chiapas, será de 18 años.
+De conformidad con lo establecido por la Ley general, la edad mínima para contraer matrimonio en el Estado de Chiapas, será de 18 años:
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas de cesión a título oneroso o gratuito con fines de unión formal e informal o consuetudinaria.
+
+Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños y adolescentes que formen parte de comunidades indígenas, afromexicanas, con discapacidad, en situación de migración o desplazamiento o en exclusión social.
 
 ### Capítulo Octavo. Del Derecho ae (sic) Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -1149,13 +1207,23 @@ El Estado implementará de manera paulatina la infraestructura necesaria en aque
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 111.
 
-Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
+Quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, tendrán las obligaciones siguientes:
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Las leyes estatales deberán prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios.
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+
+c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo;
 
 II. Registrarlos dentro de los primeros sesenta días de vida, cumpliendo con el trámite de inscripción en el Registro Civil.
 
@@ -1163,9 +1231,13 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos.
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
-VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, a través de la crianza positiva.
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, la educación cívica, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación.
 
@@ -1275,7 +1347,9 @@ IX. Brindar una atención de calidad, personalizada y conforme al marco de respe
 
 Los Centros de Asistencia Social, serán responsables de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
 
-Los servicios que presten los Centros de Asistencia Social estarán orientados a brindar, en cumplimiento a sus derechos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2025)</small>
+
+Los Centros de Asistencia Social estarán orientados a brindar y prestar a las niñas, niños y adolescentes, en cumplimiento a sus derechos los servicios siguientes:
 
 I. Un entorno seguro, afectivo y libre de violencia.
 
@@ -1289,7 +1363,9 @@ V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarr
 
 VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral.
 
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva.
 
 VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos.
 
@@ -1387,7 +1463,9 @@ Corresponde a las autoridades Estatales y municipales de manera concurrente, las
 
 I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
 
-II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley.
 
 III. Garantizar el cabal cumplimiento de la presente Ley, de los instrumentos internacionales y demás ordenamientos aplicables.
 
@@ -1432,6 +1510,10 @@ XXII. Garantizar la protección de los derechos de niñas, niños y adolescentes
 XXIII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley.
 
 XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2025)</small>
+
+XXV. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
 
 ###### Artículo 129.
 
@@ -1617,9 +1699,13 @@ XXIII. Gestionar ante las autoridades correspondientes, la aplicación de las sa
 
 XXIV. En aquellos municipios en los que no exista Ministerio Público, o se encuentre ausente, podrá ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, dando aviso de inmediato al Ministerio Público más cercano y a la autoridad jurisdiccional competente, dentro del término previsto en el artículo 182 de esta Ley.
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE MAYO DE 2025)</small>
 
-XXV. Las demás que les confieran otras disposiciones aplicables para la atención integral de las niñas, niños y adolescentes.
+XXV. Implementar medidas para la protección de vínculo materno filial.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MAYO DE 2025)</small>
+
+XXVI. Las demás que les confieran otras disposiciones aplicables para la atención integral de las niñas, niños y adolescentes.
 
 ###### Artículo 136.
 
@@ -1797,45 +1883,69 @@ Los resultados de las evaluaciones serán entregados al Titular del Poder Ejecut
 
 Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes en el Estado de Chiapas, se crea el Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 152.
 
-El Sistema Estatal de Protección Integral estará conformado por:
+El Sistema Estatal de Protección Integral, estará conformado por las personas titulares de los Entes Públicos siguientes:
 
-I. El Titular del Poder Ejecutivo del Estado, quien lo presidirá.
+I. El Poder Ejecutivo del Estado, quien lo presidirá.
 
-II. El Titular de la Secretaría General de Gobierno.
+II. La Secretaría General de Gobierno y Mediación, quien lo coordinará.
 
-III. El Titular de la Secretaría de Hacienda.
+III. La Secretaría de Finanzas.
 
-IV. El Titular de la Secretaría del Trabajo.
+IV. La Secretaría de la Mujer e Igualdad de Género.
 
-V. La Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+V. La Secretaría de Medio Ambiente e Historia Natural.
 
-VI. El Titular de la Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
+VI. La Secretaría de Economía y del Trabajo.
 
-VII. El Titular de la Secretaría de Salud y Director General del Instituto de Salud.
+VII. La Secretaría del Humanismo.
 
-VIII. El Titular de la Secretaría de Educación.
+VIII. La Secretaría de Agricultura, Ganadería y Pesca.
 
-IX. El Titular de la Secretaría de Seguridad y Protección Ciudadana.
+IX. La Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
-X. El Titular de la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+X. La Secretaría de Salud.
 
-XI. El Titular de la Secretaría de la Juventud, Recreación y Deporte.
+XI. La Secretaría de Educación.
 
-XII. El Titular del Instituto de la Consejería Jurídica y de Asistencia Legal.
+XII. La Secretaría de Seguridad del Pueblo.
 
-XIII. La Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, DIF-Chiapas.
+XIII. La Secretaría de Movilidad y Transporte.
 
-XIV. El Titular de la Procuraduría General de Justicia del Estado.
+XIV. La Secretaría de la Frontera Sur.
 
-XV. El Presidente del Tribunal Superior de Justicia del Estado.
+XV. El Instituto de la Consejería Jurídica del Gobierno del Estado.
 
-XVI. Cuatro representantes de la sociedad civil, que serán nombrados por el Sistema Estatal de Protección Integral, en términos de lo que establezca el Reglamento de la Ley.
+XVI. El Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, Sistema DIF-Chiapas.
 
-Cada uno de los integrantes del Sistema Estatal de Protección Integral, tendrá derecho a voz y voto en las sesiones que se celebren.
+XVII. El Instituto de la Juventud del Estado de Chiapas.
 
-Serán invitados especiales a las sesiones del Sistema Estatal de Protección Integral, el Presidente de la Comisión Estatal de los Derechos Humanos, y los Presidentes de las Comisiones de Atención a la Mujer y a la Niñez, y de Atención a Grupos Vulnerables del Congreso del Estado, quienes intervendrán con voz, pero sin voto.
+XVIII. El Centro Estatal de Prevención Social de la Violencia y Participación Ciudadana.
+
+XIX. La Comisión Ejecutiva Estatal de Atención a Víctimas para el Estado de Chiapas.
+
+XX. El Instituto Chiapaneco de Educación para Jóvenes y Adultos.
+
+XXI. El Sistema Chiapaneco de Radio, Televisión y Cinematografía.
+
+XXII. El Consejo Estatal para las Culturas y las Artes de Chiapas.
+
+XXIII. La Agencia Digital Tecnológica del Estado.
+
+XXIV. El Instituto del Deporte del Estado de Chiapas.
+
+XXV. La Fiscalía General del Estado.
+
+XXVI. El Poder Judicial del Estado.
+
+XXVII. Cuatro representantes de la sociedad civil, que serán nombrados por el Sistema Estatal de Protección Integral, en términos de lo que establezca el Reglamento de la Ley.
+
+Cada una de las personas integrantes del Sistema Estatal de Protección Integral, tendrá derecho a voz y voto en las sesiones que se celebren.
+
+Las sesiones del Sistema Estatal de Protección Integral, serán invitados especiales la Comisión Estatal de los Derechos Humanos, y las Comisiones de Justicia, la Atención a la Mujer y a la Niñez, de Derechos Humanos, de Igualdad de Género, de Juventud y Deporte, y de Atención a Grupos en Situación de Vulnerabilidad e Inclusión del Honorable Congreso del Estado, quienes intervendrán con voz, pero sin voto.
 
 ###### Artículo 153.
 
@@ -1907,9 +2017,11 @@ El Sistema Estatal de Protección Integral se coordinará con el Sistema Naciona
 
 ### Capítulo Segundo. De la Secretaría Ejecutiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 159.
 
-La coordinación operativa del Sistema Estatal de Protección Integral, estará a cargo de la Secretaría Ejecutiva, que será un órgano administrativo de la Subsecretaría de Gobierno y Derechos Humanos, de la Secretaría General de Gobierno, la cual se implementará y constituirá como el máximo órgano de autoridad del propio Sistema.
+La coordinación operativa del Sistema Estatal de Protección Integral, estará a cargo de la Secretaría Ejecutiva, que será un órgano administrativo de la Secretaría General de Gobierno y Mediación, la cual se implementará y constituirá como el máximo órgano de autoridad del propio Sistema.
 
 La Secretaria Ejecutiva participará en las sesiones del Sistema Estatal de Protección Integral, únicamente con derecho a voz.
 
@@ -2378,3 +2490,19 @@ P.O. 15 DE JUNIO DE 2022.
 Artículo Primero: El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
 
 Artículo Segundo: Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 246 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, EN MATERIA DE VÍNCULO MATERNO FILIAL, CULTURA DE LA PAZ Y CRIANZA POSITIVA".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Entes Públicos en el ámbito de sus respectivas competencias, deberán realizar de inmediato las adecuaciones normativas, reglamentarias y administrativas pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Cuarto.- La persona titular de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral, llevará a cabo las acciones necesarias para el cumplimiento del presente Decreto.
+
+Artículo Quinto.- Para el caso que se pudieran generar erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos de los Entes Públicos en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+La persona titular del Poder Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
