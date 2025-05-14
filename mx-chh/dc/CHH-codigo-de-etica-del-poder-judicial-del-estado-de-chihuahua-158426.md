@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-etica-del-poder-judicial-del-estado-de-chihuahua-1584
 country: "mx"
 rank: "codigo"
 publication_date: "2022-05-21"
-last_updated: "2022-05-21"
+last_updated: "2025-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA Y CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 14 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025 (ABROGADO).
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 21 de mayo de 2022.
 
@@ -676,3 +678,15 @@ CONSTE.
 LICENCIADA OLIVIA CITLALLI AGUILAR NATIVIDAD
 
 SECRETARIA DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE CHIHUAHUA, EN FUNCIONES DE SECRETARIA EJECUTIVA DEL CONSEJO DE LA JUDICATURA POR AUSENCIA TEMPORAL DE SU TITULAR, CONFORME AL ARTÍCULO 270 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO. Publíquese la presente normativa en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se abroga el Código de Ética del Poder Judicial del Estado de Chihuahua, publicado en el Periódico Oficial del Estado del 21 de mayo de 2022.
