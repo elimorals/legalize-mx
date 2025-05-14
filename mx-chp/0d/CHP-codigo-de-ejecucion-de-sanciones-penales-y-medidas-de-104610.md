@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-104610"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-27"
-last_updated: "2014-11-27"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el jueves 27 de noviembre de 2014.
 
@@ -1121,9 +1121,13 @@ Para el cumplimiento de sus fines, el Patronato tendrá agencias en los Distrito
 
 ### Capítulo I. Generalidades
 
+(NOTA: EL 3 DE FEBRERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 66/2025, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE MAYO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 247, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 150.
 
-La externación, es la modalidad de tratamiento mediante la cual el Juez de Ejecución permite, que la compurgación de la pena se lleve a cabo en forma alternada dentro y fuera de los Centros. Dicho beneficio no se otorgará a los sentenciados por los delitos de homicidio calificado, delincuencia organizada, secuestro, violación o extorsión.
+LA EXTERNACIÓN, ES LA MODALIDAD DE TRATAMIENTO MEDIANTE LA CUAL EL JUEZ DE EJECUCIÓN PERMITE, QUE LA COMPURGACIÓN DE LA PENA SE LLEVE A CABO EN FORMA ALTERNADA DENTRO Y FUERA DE LOS CENTROS. DICHO BENEFICIO NO SE OTORGARÁ A LOS SENTENCIADOS POR LOS DELITOS DE HOMICIDIO CALIFICADO, FEMINICIDIO, DELINCUENCIA ORGANIZADA, SECUESTRO, VIOLACIÓN, O EXTORSIÓN.
 
 La libertad anticipada, es el beneficio otorgado por el Juez de Ejecución competente que concede a los internos previo cumplimiento de los requisitos, mediante el cual otorga su externación de manera definitiva, antes del término establecido en la sentencia ejecutoriada.
 
@@ -1133,7 +1137,11 @@ El sujeto de este beneficio podrá, en caso de sentencia condenatoria, solicitar
 
 El otorgamiento de los beneficios del tratamiento en externación y de la libertad anticipada se sujetará al procedimiento que para tal efecto establezca este mismo Código, en el cual se tomará como base la educación, la disciplina, el trabajo y la capacitación, siendo requisito indispensable la acreditación de los mismos y cuando menos el 60% de la sanción corporal compurgada al momento de la concesión de cualquiera de estos beneficios.
 
-Este beneficio no se otorgará a los sentenciados por los delitos de homicidio calificado, delincuencia organizada, secuestro, violación o extorsión.
+(NOTA: EL 3 DE FEBRERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 66/2025, DECLARÓ LA INVALIDEZ DEL SEXTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE MAYO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 247, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+ESTE BENEFICIO NO SE OTORGARÁ A LOS SENTENCIADOS POR LOS DELITOS DE HOMICIDIO CALIFICADO, FEMINICIDIO, DELINCUENCIA ORGANIZADA, SECUESTRO, VIOLACIÓN O EXTORSIÓN.
 
 ### Capítulo II. Remisión Parcial de la Pena
 
@@ -1423,7 +1431,11 @@ e) Externación.
 
 f) Libertad anticipada.
 
-Tratándose de delitos de extorción o secuestro, el juez de ejecución se encuentra impedido para conceder cualquiera de los anteriores beneficios; en tanto que en los delitos de homicidio calificado, violación o delincuencia organizada, no podrá conceder los correspondientes a libertad anticipada, externación o libertad preparatoria.
+(NOTA: EL 3 DE FEBRERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 66/2025, DECLARÓ LA INVALIDEZ DEL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE MAYO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 247, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+TRATÁNDOSE DE DELITOS DE EXTORCIÓN O SECUESTRO, EL JUEZ DE EJECUCIÓN SE ENCUENTRA IMPEDIDO PARA CONCEDER CUALQUIERA DE LOS ANTERIORES BENEFICIOS; EN TANTO QUE EN LOS DELITOS DE HOMICIDIO CALIFICADO, FEMINICIDIO, VIOLACIÓN O DELINCUENCIA ORGANIZADA, NO PODRÁ CONCEDER LOS CORRESPONDIENTES A LIBERTAD ANTICIPADA, EXTERNACIÓN O LIBERTAD PREPARATORIA.
 
 Además, estará obligado a resolver bajo los mismos procedimientos, en cualquier delito, las cuestiones relativas a:
 
@@ -1732,3 +1744,17 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 27 días del mes de noviembre del año dos mil catorce.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 247 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS; Y DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES AL CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Los Entes Públicos en el ámbito de sus respectivas competencias, deberán realizar de inmediato las adecuaciones normativas, reglamentarias y administrativas pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Cuarto.- Para el caso que se pudieran generar erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos de los Entes Públicos en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
