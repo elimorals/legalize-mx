@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2024-03-12"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -838,6 +838,16 @@ Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2021)</small>
 
 Queda prohibido el uso de los castigos corporales y humillantes que arriesguen la integridad física y emocional del menor de edad, en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2025)</small>
+
+###### Artículo 43 Bis.
+
+La legislación Civil del Estado establece como edad mínima para contraer matrimonio los 18 años de edad, por tanto, queda prohibido el matrimonio de personas que no cumplan al menos con esa edad.
+
+Las autoridades del Estado y de los municipios, en el ámbito de sus respectivas competencias deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas de cesión a título oneroso o gratuito con fines de unión formal e informal o consuetudinarias.
+
+Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños y adolescentes con discapacidad, en situación de movilidad, vulnerabilidad o exclusión social.
 
 ### CAPÍTULO NOVENO. DEL DERECHO DE ACCESO A UNA VIDA LIBRE DE VIOLENCIA Y A LA INTEGRIDAD PERSONAL
 
@@ -2360,3 +2370,9 @@ P.O. 12 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE CRIANZA POSITIVA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 43 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROHIBICIÓN DEL MATRIMONIO INFANTIL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
