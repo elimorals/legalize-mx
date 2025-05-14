@@ -4,7 +4,7 @@ identifier: "TAB-ley-forestal-del-estado-de-tabasco-50295"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-01"
-last_updated: "2017-07-05"
+last_updated: "2025-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY FORESTAL DEL ESTADO DE TABASCO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 1 de abril de 2006.
 
@@ -145,7 +145,9 @@ Restauración forestal: El conjunto de actividades tendentes a la rehabilitació
 
 Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
 
-Secretaría: Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+Secretaría: Secretaría de Medio Ambiente y Desarrollo Sostenible;
 
 SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
 
@@ -279,11 +281,13 @@ Además, difundirá las políticas de desarrollo forestal y de apoyos institucio
 
 La Comisión Estatal tendrá a su cargo la ejecución de las atribuciones que la Ley General y la presente Ley y su Reglamento le confieren, así como todas aquellas que sean necesarias para poder cumplir con su objeto.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 12.
 
-La Comisión Estatal estará a cargo de un Director General, quien será designado por el Titular del Poder Ejecutivo Estatal, debiendo recaer tal nombramiento preferentemente en un profesionista forestal con experiencia en la materia.
+La Comisión Estatal estará a cargo de una Directora o Director General, quien será designado por la persona Titular del Poder Ejecutivo Estatal, debiendo recaer tal nombramiento preferentemente en un profesionista forestal con experiencia en la materia.
 
-El Director General representará legalmente a la Comisión Estatal en el cumplimiento de su objeto, adscribiendo las unidades administrativas de la misma y aplicando los manuales, criterios y lineamientos administrativos que emita la Secretaría, pudiendo además delegar sus facultades y atribuciones de conformidad con lo previsto en esta Ley y demás disposiciones legales aplicables.
+La Directora o Director General representará legalmente a la Comisión Estatal en el cumplimiento de su objeto, adscribiendo las unidades administrativas de la misma y aplicando los manuales, criterios y lineamientos administrativos que emita la Secretaría, pudiendo además delegar sus facultades y atribuciones de conformidad con lo previsto en esta Ley y demás disposiciones legales aplicables
 
 ###### Artículo 13.
 
@@ -771,9 +775,11 @@ En un plazo de diez días hábiles contados a partir de la solicitud, la Secreta
 
 La función del Consejo es la de fungir como órgano de carácter consultivo y de asesoramiento para las dependencias federales y estatales responsables de la administración del sector forestal, en las materias que le señala la Ley y en las que se les solicite su opinión. Además, tendrá la atribución de fungir como órgano de asesoría, supervisión, vigilancia, evaluación y seguimiento en la aplicación de los criterios e instrumentos de política forestal, previstos en esta Ley y su reglamento, así mismo tendrá la función de órgano de concertación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
+
 ###### Artículo 67.
 
-El consejo esta integrado por un Presidente Propietario y un Suplente, un Secretario Técnico y por un Consejero representante de cada uno de los siguientes sectores:
+El consejo está integrado por una Presidenta o Presidente Propietario y un Suplente, una Secretaria o Secretario Técnico y por una Consejera o Consejero representante de cada uno de los siguientes sectores:
 
 I. Sector Social.- Productores forestales de ejidos;
 
@@ -795,15 +801,21 @@ IX. Sector Comunidades Indígenas.- Representante de comunidades indígenas invo
 
 X. Sector Comercio.- Productor forestal en la etapa comercial.
 
-Cada sector, miembro del consejo, estará conformado por un consejero titular y uno suplente. La incorporación de los diferentes sectores al Consejo Estatal Forestal, así como para otros sectores será mediante invitación del presidente.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2025)</small>
+
+Cada sector, miembro del consejo, estará conformado por una consejera o consejero titular y uno suplente. La incorporación de los diferentes sectores al Consejo Estatal Forestal, así como para otros sectores será mediante invitación de la Presidenta o Presidente.
 
 ###### Artículo 68.
 
 Serán miembros permanentes del consejo estatal forestal:
 
-I. El presidente, quién será el Titular del Ejecutivo del Estado, quien contará con un suplente, que será el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
 
-II. El Secretario Técnico, quién será designado por el Presidente del Consejo Estatal Forestal, no pudiendo recaer dicho encargo, en un servidor público de la Secretaría; y
+I. La Presidenta o Presidente, quién será la persona Titular del Ejecutivo del Estado, quien contará con un suplente, que será la persona titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2025)</small>
+
+II. La Secretaria o Secretario Técnico, quién será designado por la Presidenta o Presidente del Consejo Estatal Forestal, no pudiendo recaer dicho encargo, en una servidora o servidor público de la Secretaría; y
 
 III. Los consejeros representantes de cada uno de los sectores mencionados en el artículo anterior.
 
@@ -933,11 +945,11 @@ III. Imposición de multa; y
 
 IV. Devolución de los recursos económicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2025)</small>
 
 ###### Artículo 84.
 
-La imposición de las multas a que se refiere el artículo anterior, la determinará la Comisión Estatal y serán aplicadas por la Secretaría de Planeación y Finanzas del Gobierno del Estado, en la forma siguiente:
+La imposición de las multas a que se refiere el artículo anterior, la determinará la Comisión Estatal y serán aplicadas por la Secretaría de Administración y Finanzas del Gobierno del Estado, en la forma siguiente:
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -1054,3 +1066,13 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 14 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 104 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO VIGESIMOSÉPTIMO 12; 67, PÁRRAFO PRIMERO Y ÚLTIMO; 68, FRACCIONES I Y II; Y 84, PRIMER PÁRRAFO DE LA LEY FORESTAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, se deberán llevar a cabo todas las adecuaciones correspondientes a los ordenamientos de la Comisión Estatal Forestal.
