@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2024-10-09"
+last_updated: "2025-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -659,7 +659,9 @@ XIX. La Comisión de Igualdad de Género.
 
 XX. La Comisión de Atención a Grupos Vulnerables;
 
-XXI. La Comisión de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2025)</small>
+
+XXI. La Comisión de Pueblos y Comunidades Indígenas y Afromexicanas;
 
 XXII. La Comisión de la Juventud;
 
@@ -2504,3 +2506,11 @@ P.O. 9 DE OCTUBRE DE 2024.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 89 POR EL QUE “SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
