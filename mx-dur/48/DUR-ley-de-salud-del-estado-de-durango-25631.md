@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2024-06-23"
+last_updated: "2025-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -392,6 +392,10 @@ XVII. La detección, prevención, atención médica y orientación en situacione
 > <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
 
 XVIII. La prevención del suicidio.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2025)</small>
+
+XIX. Implementar de manera conjunta con la Secretaría de Seguridad Pública del Estado de Durango, un programa especial dirigido a las mujeres y personas menstruantes privadas de su libertad, orientado a facilitar el acceso a productos de gestión menstrual y analgésicos para el tratamiento de cólicos menstruales, a través de campañas de recolección, basadas en donaciones solidarias. Para ello, la Secretaría impulsará la colaboración del sector privado, organizaciones de la sociedad civil y ciudadanía en general, quienes podrán contribuir de manera voluntaria con la entrega continua de estos insumos esenciales.
 
 ###### ARTÍCULO 10.
 
@@ -4282,3 +4286,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 168 POR EL QUE SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 9 DE LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE MENSTRUACIÓN DIGNA PARA MUJERES EN SITUACIÓN DE RECLUSIÓN”.]
+
+P.O. 15 DE MAYO DE 2025.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
