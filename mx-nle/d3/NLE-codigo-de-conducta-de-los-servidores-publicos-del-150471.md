@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-del-150471"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-09"
-last_updated: "2021-07-09"
+last_updated: "2025-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL FIDEICOMISO DE PROYECTOS ESTRATEGICOS "FIDEPROES" DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL FIDEICOMISO DE PROYECTOS ESTRATÉGICOS "FIDEPROES", PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL FIDEICOMISO DE PROYECTOS ESTRATÉGICOS "FIDEPROES"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2025 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 9 de julio de 2021.
 
@@ -300,3 +302,17 @@ Así lo acuerda y firma en la ciudad de Monterrey, Nuevo León, siendo el día P
 EL C. DIRECTOR GENERAL DEL FIDEICOMISO DE PROYECTOS ESTRATÉGICOS "FIDEPROES"
 
 ARQ. JORGE LUIS MARTÍNEZ LARA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL FIDEICOMISO DE PROYECTOS ESTRATÉGICOS "FIDEPROES”.]
+
+PRIMERO. El presente Código de Conducta de las Personas Servidoras Públicas del Fideicomiso de Proyectos Estratégicos "FIDEPROES", entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Se abroga el Código de Conducta de los Servidores Públicos del Fideicomiso de Proyectos Estratégicos "FIDEPROES" publicado en el Periódico Oficial del Estado el 09 de julio del 2021.
+
+TERCERO. Gírense instrucciones a la Dirección de Administración y Finanzas para que el presente Código de Conducta se difunda en la página oficial de internet de FIDEPROES, así como para que a través del sistema electrónico de red interno se haga del conocimiento de cada uno de los servidores públicos que desempeñen un empleo, cargo o comisión en FIDEPROES, para su leal cumplimiento y observancia.
+
+CUARTO. El Área de Recursos Humanos de FIDEPROES, cuenta con un plazo de hasta 30 días hábiles para dar cumplimiento a lo previsto en el artículo 11 del presente Código de Conducta.
