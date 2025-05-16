@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-03-20"
+last_updated: "2025-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2025.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -702,6 +702,10 @@ Las autoridades ejecutarán programas para conservar, proteger y mejorar los rec
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
 La legislación y las normas que al efecto se expidan harán énfasis en el fomento a una cultura de protección a la naturaleza, al mejoramiento del ambiente, al aprovechamiento racional de los recursos naturales, a las medidas de adaptación y mitigación al cambio climático en el Estado y a la propagación de la flora y de la fauna existentes en el Estado. El daño y deterioro ambiental generarán responsabilidad en términos de ley.
+
+> <small>(ADICIONADO, G.G. 16 DE MAYO DE 2025)</small>
+
+El Estado garantizará el derecho de las comunidades a participar en la restauración y protección de los ecosistemas, promoviendo programas de reforestación, agricultura sostenible y conservación de recursos naturales, con el fin de mitigar el impacto del cambio climático y fortalecer la seguridad alimentaria, en los términos previstos en la ley.
 
 > <small>(REFORMADO, G.G. 21 DE MAYO DE 2024)</small>
 
@@ -5502,3 +5506,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Congreso del Estado Libre y Soberano de México deberá realizar la armonización legislativa correspondiente en un periodo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 114. DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
