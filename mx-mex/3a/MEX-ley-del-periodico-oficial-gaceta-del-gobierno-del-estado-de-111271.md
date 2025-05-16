@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-periodico-oficial-gaceta-del-gobierno-del-estado-de-111
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2024-04-05"
+last_updated: "2025-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2025.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -77,9 +77,11 @@ V. Periódico Oficial: Al Periódico Oficial "Gaceta del Gobierno".
 
 El periódico oficial es un medio de difusión de carácter permanente e interés público dependiente de la Consejería Jurídica y órgano informativo del Gobierno del Estado de México cuyo objeto es publicar las leyes, decretos, reglamentos, acuerdos, notificaciones, avisos, manuales y demás disposiciones de carácter general de los poderes del Estado, organismos autónomos, organismos auxiliares, ayuntamientos y de particulares.
 
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2025)</small>
+
 ###### Artículo 4.
 
-El periódico oficial se editará en la ciudad de Toluca de Lerdo, aún cuando los talleres de impresión se ubiquen en otro municipio y se difundirá ampliamente en el territorio del Estado.
+El Periódico Oficial se editará en la ciudad de Toluca de Lerdo y se difundirá ampliamente en el territorio del Estado.
 
 ###### Artículo 5.
 
@@ -127,13 +129,23 @@ VIII. Dirección electrónica del periódico oficial.
 
 IX. La leyenda oficial del año que corresponda.
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2025)</small>
+
+X. Medio electrónico de identificación para ser verificada a través de la plataforma tecnológica respectiva, el cual será incluido en cada página del Periódico Oficial.
+
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2025)</small>
 
 ###### Artículo 8.
 
-El Periódico Oficial se editará de forma impresa y en forma digital, la cual se publicará en el portal informativo del Gobierno del Estado y del diverso de la Dirección, ambas ediciones tendrán idénticas características y contenido.
+El Periódico Oficial se editará de forma electrónica y se publicará en el portal informativo del Gobierno del Estado, a cargo de la Dirección.
 
-La versión digital del periódico oficial tendrá validez legal y el carácter de documental pública cuando se emita por la Dirección a través del Departamento, asegurando la integridad y autenticidad de su contenido a través de la firma y sello electrónico y previo pago de la contribución respectiva.
+La versión electrónica del Periódico Oficial tendrá validez legal y el carácter de documental pública cuando se emita por la Dirección y/o la Subdirección, garantizando la integridad y autenticidad de su contenido mediante firma y sello electrónico y previo pago de la contribución respectiva cuando se soliciten ejemplares certificados.
+
+Además de la edición electrónica, se imprimirán cinco ejemplares, con idénticas características y contenido, para efectos de evidencia documental, así como para garantizar la publicación del Periódico Oficial en los casos en que resulte imposible por causas de fuerza mayor acceder a su edición electrónica, así como para remitir un ejemplar a los Poderes Legislativo y Judicial.
+
+Dichos ejemplares no estarán a la venta al público y quedarán en custodia de la Dirección, y de los Poderes Públicos respectivos.
+
+Las personas servidoras públicas de los poderes del Estado, organismos autónomos, organismos auxiliares, ayuntamientos y demás autoridades tienen la obligación de aceptar la versión electrónica del Periódico Oficial cuando se publiquen documentos derivados de actos, procedimientos, trámites o resoluciones de su competencia.
 
 ###### Artículo 9.
 
@@ -159,11 +171,11 @@ El periódico oficial deberá proveerse con recursos tecnológicos y humanos ade
 
 ### CAPÍTULO III. DE LA DIRECCIÓN
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2025)</small>
 
 ###### Artículo 11.
 
-La Dirección es la unidad administrativa adscrita a la Consejería Jurídica, encargada de ordenar la organización, administración, edición, publicación y circulación del periódico oficial.
+La Dirección es la unidad administrativa adscrita a la Consejería Jurídica, encargada de ordenar la organización, administración, edición y publicación del periódico oficial, de manera electrónica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -175,7 +187,9 @@ I. Editar, imprimir y publicar el periódico oficial en tiempo y forma.
 
 II. Recibir en custodia la documentación que habrá de publicarse como soporte de la edición respectiva, siempre que cumpla con los requisitos previstos en esta Ley.
 
-III. Compilar y registrar cronológicamente los ejemplares del periódico oficial.
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2025)</small>
+
+III. Compilar y registrar cronológicamente los ejemplares electrónicos e impresos del Periódico Oficial.
 
 IV. Elaborar los índices anuales de publicaciones.
 
@@ -191,9 +205,17 @@ VIII. Administrar y vigilar la página electrónica del periódico oficial.
 
 IX. Emitir ejemplares del periódico oficial con firma y sello electrónico, garantizando la integridad y autenticidad.
 
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE MAYO DE 2025)</small>
 
-X. Las demás que establezcan otras disposiciones jurídicas aplicables y las que le instruya la o el titular de la Consejería Jurídica.
+X. Incorporar el desarrollo y la innovación tecnológica a los procesos de edición y difusión del Periódico Oficial, incluyendo tecnologías de accesibilidad digital para personas con discapacidad.
+
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2025)</small>
+
+XI. Definir las directrices y lineamientos para la publicación de documentos en el Periódico Oficial.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 16 DE MAYO DE 2025)</small>
+
+XII. Las demás que establezcan otras disposiciones jurídicas aplicables y las que le instruya la o el titular de la Consejería Jurídica.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -205,11 +227,11 @@ I. Tipo de documento publicado, clasificado por materia.
 
 II. Suscripciones electrónicas.
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2025)</small>
 
 ###### Artículo 14.
 
-La persona titular de la Dirección archivará y mantendrá en custodia los documentos originales que presente el Ejecutivo para su publicación, archivo que resguardará durante un término de cinco años.
+La persona titular de la Dirección organizará y conservará los documentos originales que se presenten para su publicación, debiendo realizar su baja documental de conformidad con la vigencia y plazos de conservación establecidos en el catálogo de disposición documental correspondiente, de acuerdo con lo establecido en la Ley de Archivos y Administración de Documentos del Estado de México y Municipios.
 
 ### CAPÍTULO IV. DE LOS COSTOS DE INSERCIÓN
 
@@ -237,11 +259,11 @@ La Consejería Jurídica, por sí o por conducto de la Dirección o la Subdirecc
 
 La solicitud de publicación se dirige a la persona titular de la Consejería Jurídica y se presenta en original, en un horario de 9:00 a 18:00 horas en días hábiles, para su revisión, cotización y, en su caso, entrega de la orden de pago correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE MAYO DE 2025)</small>
 
 ###### Artículo 19.
 
-A la solicitud de publicación se debe anexar el documento a publicarse en formato impreso, firmado y sellado en original por la autoridad competente y el disco compacto en formato editable, indicando el número de publicaciones requeridas y, en su caso, el lapso entre una publicación y otra. Asimismo, se deberá anexar la resolución definitiva de la Comisión Estatal de Mejora Regulatoria o de la Comisión Municipal, según corresponda, cuando se trate de regulaciones que expidan los sujetos obligados en términos de lo previsto en la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
+A la solicitud de publicación se debe anexar el documento a publicarse en formato impreso, firmado autógrafamente o mediante firma electrónica o firma electrónica avanzada y sellado en original por la autoridad competente y el archivo electrónico en formato editable, indicando el número de publicaciones requeridas y, en su caso, el lapso entre una publicación y otra. Asimismo, se deberá anexar la resolución definitiva de la Comisión Estatal de Mejora Regulatoria o de la Comisión Municipal, según corresponda, cuando se trate de regulaciones que expidan los sujetos obligados en términos de lo previsto en la Ley para la Mejora Regulatoria del Estado de México y sus Municipios.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -256,6 +278,10 @@ El documento a publicar debe cumplir con las características que al efecto prev
 La ortografía y contenido de los documentos a publicar son responsabilidad del solicitante.
 
 Los documentos que no cumplan con los requisitos no serán publicados y en caso de ser recibidos, quedarán sujetos a revisión para su publicación.
+
+> <small>(ADICIONADO, G.G. 16 DE MAYO DE 2025)</small>
+
+En caso de que la información contenida en el archivo electrónico y la impresa sean diferentes, la persona titular de la Dirección o de la Subdirección comunicará a la persona interesada la discrepancia a efecto de subsanarla. De no atenderse la prevención el documento no será publicado. Para efectos de lo enviado por vía electrónica, se publicará el contenido del archivo tal cual haya sido remitido.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -540,3 +566,19 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 115.- POR EL QUE SE REFORMA EL ARTÍCULO 4, EL ARTÍCULO 8, EL ARTÍCULO 11, LAS FRACCIONES III Y X DEL ARTÍCULO 12, EL ARTÍCULO 14, Y EL ARTÍCULO 19; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 7, LAS FRACCIONES XI Y XII AL ARTÍCULO 12 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 20, DE LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor a los 180 días hábiles siguientes contados a partir de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Consejería Jurídica continuará con la venta de ejemplares del Periódico Oficial que tenga en existencia para tal fin al inicio de vigencia del presente Decreto.
+
+CUARTO. La Consejería Jurídica, la Oficialía Mayor y la Agencia Digital del Estado de México proveerán, en el ámbito de su competencia, las medidas técnicas, administrativas, ambientales y tecnológicas para el cumplimiento del presente Decreto, con base en la suficiencia presupuestal correspondiente.
+
+Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Consejería Jurídica que realicen funciones relacionadas con la edición e impresión del Periódico Oficial, y se les asignarán funciones para continuar con su relación laboral conforme a la legislación aplicable.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
