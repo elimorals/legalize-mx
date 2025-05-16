@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-ley-de-transporte-para-el-estado-de-baja-12259
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-06-05"
-last_updated: "2024-09-20"
+last_updated: "2025-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2025.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 5 de junio de 1998.
 
@@ -73,9 +73,13 @@ Las normas técnicas y convenios de colaboración a que se hace referencia, debe
 
 Los convenios que se celebren en los términos de la fracción IX del artículo 7º de la Ley entre el Ejecutivo del Estado y las distintas autoridades y organismos en materia de servicios de transporte público, señalarán específicamente el contenido sobre el que operarán los mismos.
 
+(NOTA: EL 23 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 180/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE JULIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, B.O. 16 DE MAYO DE 2025)</small>
+
 ###### Artículo 6º.
 
-Los concesionarios del autotransporte federal, a efecto de estar en posibilidad de prestar el servicio de que se trate en los tramos de jurisdicción estatal, deberán contar con el permiso correspondiente expedido por la ''Dirección''.
+Los concesionarios o permisionarios del autotransporte federal, a efecto de estar en posibilidad de prestar el servicio de que se trate en los tramos de jurisdicción estatal, deberán contar con el permiso eventual correspondiente expedido por la Dirección.
 
 ### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE
 
@@ -555,13 +559,15 @@ III.- Tratándose de necesidades eventuales o extraordinarias, se seguirá en lo
 
 IV.- Antes de entregarse el permiso eventual correspondiente, el beneficiario deberá presentar póliza de seguro del viajero y daños contra terceros, así como el vehículo o vehículos para su inspección y el pago de derecho del mismo.
 
-> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2024)</small>
+(NOTA: EL 23 DE JUNIO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 180/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE JULIO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, B.O. 16 DE MAYO DE 2025)</small>
 
 ###### Artículo 47 Bis.
 
-El permiso que se refiere en el artículo 6 del presente reglamento, deberá de cumplir con los requisitos que se describan en el artículo 47 del presente reglamento, sujetándose además en todo momento a los requisitos y modalidades establecidos en la Ley de Transporte para el Estado y en el presente reglamento; para el presente caso, dicho permiso solo se otorgará para el servicio público de Autotransporte de Turismo.
+El permiso que se refiere en el artículo 6 del presente reglamento, deberá de cumplir con los requisitos que se describan en el artículo 47 del presente reglamento, sujetándose además en todo momento a los requisitos y modalidades establecidos en la Ley de Transporte para el Estado y en el presente reglamento; para el presente caso, dicho permiso solo se otorgará para el servicio público de transporte en la modalidad de exclusivo de turismo.
 
-En caso de obtener la autorización del permiso eventual por parte de la Dirección, los concesionarios o permisionarios federales, solo podrán realizar el ascenso y descenso de turistas en vías de jurisdicción estatal, siempre y cuando los mismos acrediten que el servicio de transporte público se encuentre previamente contratado con setenta y dos horas de anticipación a la prestación del servicio, la omisión de lo anterior, dará lugar a la aplicación de sanciones y en su caso revocación inmediata del permiso eventual.
+En caso de obtener la autorización del permiso eventual por parte de la Dirección, los concesionarios o permisionarios federales, solo podrán realizar el ascenso y descenso de turistas en vías de jurisdicción estatal, siempre y cuando los mismos acrediten que el servicio de transporte público se encuentre previamente contratado con setenta horas de anticipación a la prestación del servicio, la omisión de lo anterior, dará lugar a la aplicación de sanciones y en su caso revocación inmediata del permiso eventual.
 
 > <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1544,5 +1550,11 @@ El presente decreto entrará en vigor el día de su publicación en el Boletín 
 B.O. 20 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL CUAL SE ADICIONAN LOS ARTÍCULOS 47 BIS Y 47 TER DEL REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL CUAL SE REFORMAN LOS ARTÍCULOS 6 Y 47 BIS DEL REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
