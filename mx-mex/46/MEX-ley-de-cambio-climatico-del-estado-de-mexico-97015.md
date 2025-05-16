@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cambio-climatico-del-estado-de-mexico-97015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-19"
-last_updated: "2024-04-05"
+last_updated: "2025-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2025.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el jueves 19 de diciembre de 2013.
 
@@ -211,13 +211,19 @@ II. Formular y expedir el PROMACC, así como vigilar y evaluar su cumplimiento;
 
 III. Formular e instrumentar políticas y acciones para enfrentar al cambio climático en congruencia con el Plan Nacional de Desarrollo, la Estrategia Nacional, el Programa Especial de Cambio Climático, el Plan Estatal de Desarrollo, el PEACC y con las leyes aplicables, en las materias de su competencia;
 
+> <small>(ADICIONADA, G.G. 16 DE MAYO DE 2025)</small>
+
+III Bis. Impulsar la conservación, restauración y manejo sustentable de los ecosistemas, con el fin de preservar los servicios ambientales esenciales para la adaptación y mitigación de los efectos del cambio climático;
+
 IV. Integrarse al Sistema Nacional de Cambio Climático, de conformidad con la Ley General;
 
 V. Coadyuvar con las autoridades federales y estatales en la instrumentación de la Estrategia Nacional, el Programa Especial de Cambio Climático, y el PEACC;
 
 VI. Desarrollar estrategias, programas y proyectos integrales de mitigación de las emisiones de gases de efecto invernadero, impulsando la movilidad sustentable, tanto pública como privada;
 
-VII. Realizar campañas de educación e información, en coordinación con las autoridades federales y estatales, con el apoyo del Instituto, para sensibilizar a la población sobre los efectos adversos del cambio climático;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2025)</small>
+
+VII. Implementar políticas públicas que fomenten la creación de azoteas y áreas verdes que ayuden a mejorar la imagen de la municipalidad y modificar benéficamente los microclimas disminuyendo los contaminantes atmosféricos;
 
 > <small>(REFORMADA, G.G. 6 DE MAYO DE 2022)</small>
 
@@ -1378,3 +1384,15 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 117.- POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 8 Y SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 8 DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
