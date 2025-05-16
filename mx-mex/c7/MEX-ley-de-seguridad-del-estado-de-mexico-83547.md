@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2024-04-05"
+last_updated: "2025-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -529,7 +529,9 @@ II. Gestionar y realizar el Programa Municipal de Seguridad Pública Preventiva 
 
 III. Aprobar convenios de coordinación en materia de seguridad pública con otros Municipios de la entidad y de coordinación y de asunción de funciones con el Estado, previa la observancia de las formalidades que establezcan los ordenamientos aplicables;
 
-IV. Aprobar el nombramiento del Director de Seguridad Pública Municipal o del servidor público que realice esta función;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2025)</small>
+
+IV. Aprobar el nombramiento de la persona titular de la Dirección de Seguridad Pública Municipal o de la persona servidora pública que realice esta función; vigilando que su formación académica y profesional sea conforme a los requisitos establecidos en la presente ley;
 
 V. Vigilar periódicamente el desarrollo y cumplimiento del servicio de seguridad pública;
 
@@ -569,7 +571,9 @@ V. Coadyuvar en la coordinación de las o los elementos de las instituciones pol
 
 VI. Supervisar la actuación de los integrantes de las instituciones policiales a su cargo, en la investigación de delitos, bajo el mando y conducción del ministerio público;
 
-VII. Proponer al ayuntamiento el nombramiento del Director de Seguridad Pública Municipal;
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2025)</small>
+
+VII. Proponer al ayuntamiento una terna para nombrar a la persona titular de la Dirección de Seguridad Pública Municipal, previa opinión no vinculante de la Secretaría;
 
 VIII. Promover el desarrollo y fortalecimiento de las dependencias encargadas de la seguridad pública municipal;
 
@@ -699,9 +703,17 @@ II. No estar inhabilitado o inhabilitada para desempeñar cargo, empleo, o comis
 
 III. No haber sido condenado o condenada por delito doloso que amerite pena privativa de libertad;
 
-IV. Tener Licenciatura y preferentemente especialización en seguridad pública, o contar con experiencia mínima de un año en la materia, y
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2025)</small>
 
-V. Someterse y aprobar las evaluaciones de certificación y control de confianza, para su ingreso y permanencia.
+IV. Tener título de Licenciatura, y contar con certificación o especialización como mando en seguridad pública expedida por la Universidad Mexiquense de Seguridad, y contar con experiencia mínima de un año en la materia.
+
+> <small>(REFORMADA, G.G. 16 DE MAYO DE 2025)</small>
+
+V. Someterse y aprobar las evaluaciones de certificación y control de confianza diseñadas por el Centro de Control de Confianza del Estado de México, específicamente para el desempeño del cargo de titulares de la Dirección de Seguridad Pública Municipal, para su ingreso y permanencia.
+
+> <small>(ADICIONADO, G.G. 16 DE MAYO DE 2025)</small>
+
+Para ocupar el cargo de mandos medios de jerarquía inmediata inferior a la persona titular de la Dirección de Seguridad Pública Municipal o equivalente, se deberá cumplir con los requisitos previstos en el presente artículo, así como solicitar y conocer, de manera previa a su nombramiento, la opinión no vinculante de la Secretaría.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -4848,3 +4860,15 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 116.- DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 20, LA FRACCIÓN VII DEL ARTÍCULO 21, Y LAS FRACCIONES IV Y V DEL ARTÍCULO 22 BIS, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 22 BIS DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La Universidad Mexiquense de Seguridad deberá establecer los planes y programas educativos correspondientes para dar cumplimiento al presente Decreto en un periodo no mayor a 90 días naturales posteriores a su entrada en vigor.
+
+CUARTO.- Para el mejor desempeño de sus responsabilidades, las personas directoras de Seguridad Pública Municipal o sus equivalentes, que actualmente se encuentren en funciones y que hayan sido designadas conforme al procedimiento previsto hasta antes de la entrada en vigor del presente Decreto, deberán de certificarse como mandos en seguridad pública, de acuerdo con los planes y programas educativos que para tal efecto establezca la Universidad Mexiquense de Seguridad.
