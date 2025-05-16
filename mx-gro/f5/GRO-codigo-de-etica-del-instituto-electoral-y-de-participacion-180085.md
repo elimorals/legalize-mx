@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-etica-del-instituto-electoral-y-de-participacion-1800
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-19"
-last_updated: "2019-02-19"
+last_updated: "2025-05-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # CODIGO DE ETICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2025 (SIN EFECTOS).
 
 Código publicado en el No. 15 del Periódico Oficial del Estado de Guerrero, el martes 19 de febrero de 2019.
 
@@ -380,3 +382,19 @@ EL TITULAR DE LA CONTRALORÍA INTERNA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓ
 C.P. ENRIQUE JUSTO BAUTISTA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 01/OIC/07-05-2025 POR EL QUE SE APRUEBA EL CÓDIGO DE ÉTICA DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. A partir de la aprobación y publicación del presente acuerdo, se deja sin efectos el Código de Ética del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, aprobado mediante acuerdo 01/CI/05-02-2019.
+
+TERCERO. Infórmese al Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, sobre la emisión del presente Código (sic) Ética, de conformidad con lo previsto en el artículo 20 fracción XL del Reglamento Interno del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero.
+
+CUARTO. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, deberá emitir su respectivo Código de Conducta, en términos del apartado Décimo Primero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, emitido por el Comité Coordinador del Sistema Nacional Anticorrupción, publicado en el Diario Oficial de la Federación el 12 de octubre del 2018.
+
+QUINTO. En los 30 días hábiles siguientes a la entrada en vigor del presente Código, los órganos del Instituto deberán realizar los actos necesarios para la instalación del Comité de Ética.
