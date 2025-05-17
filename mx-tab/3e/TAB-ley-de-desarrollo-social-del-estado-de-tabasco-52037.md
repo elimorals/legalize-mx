@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-social-del-estado-de-tabasco-52037"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2019-11-23"
+last_updated: "2025-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 30 de septiembre de 2006.
 
@@ -155,6 +155,10 @@ Los grupos sociales vulnerables tienen derecho a ser beneficiados con apoyos y a
 
 Los gobiernos Estatal y Municipal deberán formular y aplicar programas compensatorios, asistenciales, de desarrollo productivo e ingreso en beneficio de las personas, familias y grupos sociales vulnerables, debiendo establecer metas cuantificables.
 
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2025)</small>
+
+Las dependencias y entidades del Poder Ejecutivo y de los Municipios, en la medida de sus posibilidades, disponibilidad presupuestal y en el ámbito de sus competencias, impulsaran políticas públicas y acciones positivas que tengan por objeto facilitar la comprensión, garantizar el acceso y disfrute de los programas sociales disponibles a las personas con discapacidad visual o auditiva, priorizando la utilización de la Lengua de Señas Mexicana y el Sistema de Escritura Braille.
+
 ### CAPÍTULO III
 
 DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS.
@@ -167,7 +171,9 @@ I. Disfrutar de servicios públicos oportunos y de calidad;
 
 II. Recibir conforme a las reglas de operación de los programas, los servicios y prestaciones que los mismos amparen;
 
-III. Tener acceso a la información respecto a los programas, reglas de operación, modalidades, cobertura y aplicación de los recursos;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2025)</small>
+
+III. Tener acceso a la información respecto a los programas, reglas de operación, modalidades, cobertura y aplicación de los recursos; para estos efectos, tratándose de personas con discapacidad visual o auditiva, procurará brindarse a través del Sistema de Escritura Braille y la Lengua de Señas Mexicana;
 
 IV. Contar con la confidencialidad de su información personal; y
 
@@ -872,3 +878,11 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 17 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 115 POR EL QUE "SE REFORMA EL ARTÍCULO 10 EN SU FRACCIÓN III Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 9 TODOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- El Congreso del Estado, en un plazo de noventa días naturales, a partir de la entrada en vigor del Presente Decreto, deberá realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a este.
