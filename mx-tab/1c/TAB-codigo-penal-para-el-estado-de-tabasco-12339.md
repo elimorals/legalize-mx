@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-04-02"
+last_updated: "2025-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1699,23 +1699,31 @@ Aborto es la muerte del producto de la concepción causada por actos ejecutados 
 
 Se aplicará prisión de tres a seis años al que haga abortar a una mujer sin el consentimiento de ésta. Si se emplea violencia física o moral, la prisión será de seis a ocho años.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2025)</small>
+
 ###### Artículo 132.
 
-Se aplicará prisión de uno a tres años al que haga abortar a una mujer con el consentimiento de ésta. La misma pena se impondrá a la mujer que consienta en que otro la haga abortar.
+Se aplicará prisión de uno a tres años, al que haga abortar a una mujer con el consentimiento de ésta, después de las doce semanas de embarazo. La misma pena se impondrá a la mujer que consienta en que otro la haga abortar.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2025)</small>
 
 ###### Artículo 133.
 
-Se aplicará prisión de seis meses a tres años a la mujer que procure a sí misma el aborto.
+Se aplicará prisión de seis meses a tres años a la mujer que procure a sí misma el aborto después de las doce semanas de embarazo.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2025)</small>
 
 ###### Artículo 134.
 
-Si el aborto lo causare un médico, cirujano, comadrona o partero se le aplicará, además de las penas que le correspondan, conforme a los artículos anteriores, suspensión de dos a cinco años en el ejercicio de su profesión u oficio.
+Si el aborto después de las doce semanas de embarazo, lo causare un médico, cirujano, comadrona o partero se le aplicará, además de las penas que le correspondan, conforme a los artículos anteriores, suspensión de dos a cinco años en el ejercicio de su profesión u oficio.
 
 Artículos 135.- El delito de aborto solamente se sancionará cuando se haya consumado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2025)</small>
+
 ###### Artículo 136.
 
-No es punible el aborto:
+Se consideran como excluyentes de responsabilidad penal en el delito de aborto:
 
 I.- Cuando el embarazo sea resultado de una violación o de una inseminación indebida. En estos casos, no se requerirá sentencia ejecutoria sobre la violación o inseminación indebida, bastará la comprobación de los hechos; o
 
@@ -5746,3 +5754,19 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente decreto deberán concluirse aplicando el código penal vigente al momento de la supuesta comisión del delito y en ningún momento deberá considerarse que las nuevas disposiciones contenidas en el presente Decreto despenalizan los delitos cometidos con anterioridad.
 
 TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 17 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 113 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 132, 133, 134 Y 136, PRIMER PÁRRAFO DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El correspondiente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Infórmese por conducto de la Dirección de Asuntos Jurídicos del Congreso del Estado de Tabasco, al Tribunal Colegiado en Materia Penal del Décimo Circuito con domicilio en esta Ciudad de Villahermosa, Tabasco, el cumplimiento a la sentencia dictada en el Amparo en Revisión 153/2023 derivado del Juicio de Amparo Indirecto 355/2023-Ill.
