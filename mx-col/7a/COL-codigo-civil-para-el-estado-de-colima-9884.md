@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2024-09-21"
+last_updated: "2025-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2025.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -957,11 +957,15 @@ La infracción de este artículo produce responsabilidad para los Agentes del Mi
 
 ART. 54.- Las declaraciones de nacimientos se harán presentando al niño ante el Oficial del Registro Civil en su Oficina, en la casa paterna, o donde aquel hubiere nacido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2025)</small>
+
+ART. 55.- Tienen obligación de declarar el nacimiento a la persona Oficial del Registro Civil, el padre, la madre, o ambos, las y los abuelos, las autoridades municipales, ejidales, comunales y tradicional indígena, los médicos, cirujanos o comadronas que hubieren asistido al parto dentro de los tres días siguientes; debiendo emitir el acta de nacimiento en los siguientes tres días hábiles.
+
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
-ART. 55.- Tienen obligación de declarar el nacimiento al Oficial del Registro Civil, el padre, la madre, o ambos, las autoridades municipales, ejidales, comunales y tradicional indígena, los médicos, cirujanos o comadronas que hubieren asistido al parto dentro de los tres días siguientes; debiendo emitir el acta de nacimiento en los siguientes tres días hábiles.
-
 La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna. Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior estará a cargo del Director o de la persona encargada de la administración.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 Recibido el aviso, el Oficial del Registro Civil, deberá emitir el acta de nacimiento respectiva dentro de los tres días hábiles siguientes.
 
@@ -12038,3 +12042,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que s
 TERCERO.- En lo que respecta a las reformas al Código Civil para el Estado de Colima contenidas en el presente decreto, el Poder Ejecutivo del Estado y los Ayuntamientos, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos respectivos, a fin de garantizar el derecho de acceso a las nuevas actas para el reconocimiento de identidad de género.
 
 CUARTO.- La Dirección General del Registro Civil del Estado de Colima se coordinará con las Oficialías del Registro Civil de los Municipios, para que en un término no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, elaboren el formato único de solicitud y demás documentación necesaria para el ejercicio del derecho que se tutela en este instrumento.
+
+P.O. 17 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 89.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 55 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
