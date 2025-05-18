@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2024-12-26"
+last_updated: "2025-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -470,6 +470,20 @@ Corresponden a la Secretaría, las siguientes atribuciones:
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
 I.- Prestar los servicios de educación básica -incluyendo la indígena- y media superior, así como los de educación normal y demás para la formación de docentes de educación básica;
+
+> <small>(ADICIONADO [ N. DE E. CON LOS INCISOS QUE LO INTEGRAN], P.O. 18 DE MAYO DE 2025)</small>
+
+Así mismo, establecerá y elaborará programas en la enseñanza de la inteligencia artificial y su sistema se enfatizará de la siguiente manera:
+
+a) Beneficios económicos, sociales y culturales;
+
+b) Principios básicos;
+
+c) Medios para reconocer, interpretar y comprender la información proveniente de estos sistemas;
+
+d) Las obligaciones a las que se sujeta;
+
+e) Diferentes niveles de riesgo.
 
 II.- Prestar servicios de Educación Inicial, Especial, y para Adultos e implementar Programas Específicos de Capacitación para el Trabajo, en función de las necesidades productivas de los Municipios, las regiones y el Estado; así como Programas de Educación Extraescolar, de Actividades Culturales, Artísticas, Deportivas y de Recreación;
 
@@ -1601,6 +1615,14 @@ El tipo medio-superior comprende el nivel de bachillerato, los demás niveles eq
 
 Para cursar la educación media superior, es requisito indispensable, acreditar la educación secundaria.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2025)</small>
+
+ARTICULO 106 BIS.- Los modelos y planes de estudio de la educación de (sic) media superior, tendrán a su vez un enfoque preparatorio para los alumnos que durante esta educación cumplen la mayoría de edad. Tales programas de estudio y modelos educativos, tendrán en su contenido, la enseñanza de derechos laborales y derechos humanos, así como los aspectos básicos del sistema tributario de nuestro país.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2025)</small>
+
+ARTICULO 106 TER.- En las instalaciones educativas de nivel medio superior, se garantizará la promoción de los derechos humanos, así mismo se impartirá la enseñanza de los derechos laborales y los aspectos básicos del sistema tributario. Esto con la finalidad de que los alumnos que alcanzan la mayoría de edad, estén preparados para las situaciones cotidianas de la vida adulta.
+
 ###### ARTICULO 107.
 
 El bachillerato podrá ser Propedéutico, Terminal o Bivalente:
@@ -1611,11 +1633,11 @@ II.- Será Terminal, el que forme profesionalmente al egresado para su integraci
 
 III.- Será Bivalente, el que atienda las dos finalidades señaladas en las fracciones anteriores de este artículo.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2025)</small>
 
-###### ARTICULO 108.
+###### Artículo 108.
 
-La educación media superior promoverá el desarrollo y la aplicación de las ciencias, métodos y técnicas que proporcionen a los estudiantes elementos académicos y de formación humana para que puedan forjarse un proyecto de desarrollo personal que eleve su bienestar social con una visión global y de contexto, que les permita continuar sus estudios o decidir su incorporación al trabajo productivo.
+La educación media superior promoverá el desarrollo y la aplicación de las ciencias, métodos y técnicas que proporcionen a los estudiantes elementos académicos y de formación humana, la promoción de estilos de vida saludables, la educación para la salud, la importancia de la donación de órganos, tejidos y sangre, para que puedan forjarse un proyecto de desarrollo personal que eleve su bienestar social con una visión global y de contexto, que les permita continuar sus estudios o decidir su incorporación al trabajo productivo.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2039,9 +2061,15 @@ Asimismo, establecer la vinculación entre los maestros de educación física y 
 
 La educación para adultos está destinada a individuos de quince o más años, que no hayan cursado o concluido la educación básica y media superior, y comprende entre otras, la alfabetización, la educación primaria, la secundaria y la media superior, así como la capacitación para el trabajo, con las particularidades que demande el mercado laboral. Esta educación debe darse con la participación social, cuando se trate de trabajadores, deberá colaborar la empresa en la que prestan sus servicios los educandos adultos.
 
-La impartición de la Educación para Adultos a cargo de las autoridades educativas, se hará conforme a los ordenamientos correspondientes.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2025)</small>
+
+La impartición de la Educación para Adultos a cargo de las autoridades educativas, se hará conforme a los ordenamientos correspondientes, y velando en todo momento por el principio de progresividad. Por lo que en la educación para adultos en estricto sentido también se abordara lo pertinente a derechos humanos, derechos laborales y las obligaciones fiscales.
 
 La educación que impartan las empresas, se hará conforme lo que ordena la fracción XII del Apartado A) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación. La formación para el trabajo que se imparta de conformidad con este artículo, será adicional y complementaria a la Capacitación en el Trabajo, prevista en la fracción XIII del Apartado A) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2025)</small>
+
+ARTICULO 138 BIS.- El estado garantizará que la educación para adultos sea accesible a las personas que incursionaran en el mercado laboral, por lo que esta educación sentara las bases de los derechos laborales, derechos humanos y los aspectos básicos del sistema tributario.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2585,7 +2613,9 @@ IV. La instrucción de las hijas e hijos como elemento esencial del desarrollo h
 
 V. La socialización en la niña, niño y el adolescente;
 
-VI. La responsabilidad de las madres y padres de familia en el cuidado de las hijas e hijos;
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2025)</small>
+
+VI. La responsabilidad de las madres y padres de familia en el cuidado de las hijas e hijos, implementando cursos de prevención del acoso escolar, prevención del suicidio, protección civil y primeros auxilios en las escuelas públicas y privadas de todos los niveles educativos;
 
 VII. Saber comprender a las hijas e hijos en las diferentes etapas de su desarrollo;
 
@@ -3336,3 +3366,35 @@ P.O. 26 DE DICIEMBRE DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 164 SE ADICIONA EL ARTÍCULO 106 BIS, Y 106 TER, SE REFORMA EL ARTÍCULO 138 Y SE ADICIONA EL ARTÍCULO 138 BIS, A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 18 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 165 SE REFORMA EL ARTÍCULO 108 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 166 SE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 171 OCTIES DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 18 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 167 SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
