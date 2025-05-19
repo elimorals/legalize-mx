@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2024-12-27"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -71,17 +71,33 @@ Queda prohibida toda discriminación motivada por origen étnico o nacional, el 
 
 Esta Constitución reconoce y protege la participación de las mujeres en el desarrollo del estado, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán las medidas, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
-Son pueblos indígenas, aquellos que descienden de poblaciones que habitaban en el territorio del País al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+Esta Constitución reconoce a los pueblos y comunidades indígenas y afromexicanas como parte de la composición pluricultural y multiétnica del estado.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
-Son comunidades integrantes de un pueblo indígena, las que formen una unidad social, económica y cultural, asentadas en el estado y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+Esta Constitución reconoce el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
-Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia; así como de los pueblos y comunidades afromexicanas cualquiera que sea su autodeterminación, como parte de la composición pluricultural del estado, tomando en cuenta los principios generales del artículo 2° de la Constitución Federal y criterios etnolingüísticos y de asentamientos físicos.
+Son pueblos indígenas, aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio nacional; conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en el estado y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas, asentados en el estado desde la época colonial, con formas propias de organización social, económica, política y cultural, y que afirman su existencia como colectividades culturalmente diferenciadas.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia; así como de los pueblos y comunidades afromexicanas cualquiera que sea su autodeterminación, tomando en cuenta los principios generales del artículo 2o, Apartado A, fracciones I, III, IV, VI, VII, VIII, IX, XI, XII y XIII de la Constitución Federal y criterios etnolingüísticos físicos, de asentamientos físicos y de autoadscripción.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Se reconoce a los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
 
@@ -115,9 +131,9 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, acce
 
 Toda persona tiene derecho a disfrutar del acceso al internet.
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
-Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará.
+Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad con pertinencia cultural. El Estado lo garantizará.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -172,6 +188,10 @@ Las sentencias que pongan fin a los procedimientos orales, deberán ser explicad
 Toda persona tiene derecho a la educación, el Estado y los municipios impartirán y garantizarán la educación básica, media superior y superior, dicha educación será obligatoria, universal, inclusiva, pública, gratuita y laica, en términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
 La educación inicial, preescolar, primaria y secundaria, conforman la educación básica. La educación inicial es un derecho de la niñez y será responsabilidad del Estado y los municipios concientizar sobre su importancia. La educación superior será obligatoria en términos de la fracción X del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+El Estado y los municipios garantizarán y fortalecerán la educación indígena intercultural y plurilingüe.
 
 La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los Valores y la mejora continua del proceso de enseñanza aprendizaje.
 
@@ -4394,3 +4414,23 @@ P.O. 27 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 57, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 65, QUE EXPIDE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA (SIC) Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Congreso del Estado deberá llevar a cabo dentro del término de 180 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto y en los términos de la Ley General que al efecto expida el Congreso de la Unión en la materia, las adecuaciones a fin (sic) establecer en la legislación estatal las disposiciones que satisfagan los extremos de la presente reforma para garantizar los derechos de los pueblos y comunidades indígenas y afromexicanas en los siguientes rubros:
+
+1. A la protección de su identidad cultural, modos de vida, expresiones espirituales, patrimonio cultural material e inmaterial, propiedad intelectual colectiva; así como a su inclusión en la producción y registros de información, estadísticas y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+2. A desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio; así como a la garantía por parte del Estado del acceso a la salud intercultural y al reconocimiento de las personas, incluidos saberes y prácticas.
+
+3. A una atención adecuada para niñas, niños y adolescentes en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos, respecto del acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo.
+
+4. A ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística.
+
+5. A que el Sistema de Planeación Democrática del Desarrollo de la Entidad garantice el derecho al desarrollo integral de las personas indígenas con pleno respeto a su autonomía, basado en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables.
+
+6. A que en el Presupuesto de Egresos del Estado se establezcan asignaciones presupuestales destinadas a pueblos y comunidades indígenas que serán administradas y ejercidas directamente por estos de acuerdo con la Ley en la materia, observando criterios compensatorios, equitativos, justos y proporcionales.
