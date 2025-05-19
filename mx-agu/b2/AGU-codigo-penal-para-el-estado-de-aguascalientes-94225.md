@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-04-16"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -446,6 +446,10 @@ I. Realice la conducta típica y antijurídica, bajo miedo o temor de un mal act
 II. Realice la conducta típica y antijurídica, bajo un error invencible sobre la ilicitud de la conducta, ya sea porque desconozca la existencia de la norma o su alcance, o porque crea que está justificada su conducta; o
 
 III. Cuando razonablemente no pueda exigírsele una conducta diversa, en virtud de no haberse podido conducir conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+En aquellos casos en que se analice la conducta de una mujer o se actúe en defensa de ésta, la autoridad deberá actuar con perspectiva de género para determinar la procedencia.
 
 ###### ARTÍCULO 32.
 
@@ -4468,3 +4472,11 @@ P.O. 16 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 167.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
