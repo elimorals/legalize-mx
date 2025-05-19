@@ -4,7 +4,7 @@ identifier: "AGU-codigo-fiscal-del-estado-de-aguascalientes-11979"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2024-12-27"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Aguascalientes, el jueves 31 de diciembre de 1981.
 
@@ -2263,19 +2263,29 @@ Los términos fijados por períodos y aquellos en que se señale una fecha deter
 
 Salvo que las disposiciones legales respectivas o resoluciones señalen una fecha para la iniciación de los términos, éstos se computarán a partir del día hábil siguiente al que surta sus efectos la notificación, o en que se realicen los hechos o las circunstancias que las disposiciones legales o resoluciones administrativas prevengan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 127.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 25 de abril; el 1o. de mayo; el 16 de septiembre; el 15 de agosto; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo; el 12 de diciembre y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 25 de abril; el 1o. de mayo; el 16 de septiembre; el 15 de agosto; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de octubre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo; el 12 de diciembre y el 25 de diciembre.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales o cuando no se encuentren abiertas al público las oficinas fiscales, durante el horario normal, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
 Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o días inhábiles para la práctica de actuaciones determinadas, o para recibir pagos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 El horario hábil para llevar a cabo notificaciones y actos dentro de los procedimientos administrativos de comprobación y/o ejecución, es el comprendido entre las 7:00 y las 19:00 horas. Cuando se inicie un procedimiento de fiscalización o de ejecución en horario hábil, podrá concluirse en horario inhábil, sin afectar su validez.
 
@@ -4254,3 +4264,11 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decret
 ###### ARTÍCULO TERCERO.
 
 Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se deben llevar a cabo de conformidad con la normatividad vigente al momento de su inicio hasta su conclusión.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 172.- SE REFORMA LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
