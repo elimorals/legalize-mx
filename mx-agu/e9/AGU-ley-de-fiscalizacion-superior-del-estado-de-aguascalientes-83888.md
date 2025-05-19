@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2022-11-07"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -203,7 +203,9 @@ Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales 
 
 Las actuaciones y diligencias del personal del Órgano Superior de Fiscalización, se efectuarán en días y horas hábiles.
 
-Serán días hábiles todos los del año, excepto el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero; el tercer lunes de marzo en conmemoración del veintiuno de marzo, primero y cinco de mayo, dieciséis de septiembre, dos de noviembre, el tercer lunes de noviembre en conmemoración del veinte de noviembre, el primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, el veinticinco de diciembre, así como los sábados, domingos y aquéllos que el Órgano Superior de Fiscalización, declare como no laborables, mediante publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Serán días hábiles todos los del año, excepto el primero de enero, el primer lunes de febrero en conmemoración del cinco de febrero; el tercer lunes de marzo en conmemoración del veintiuno de marzo, primero y cinco de mayo, dieciséis de septiembre, dos de noviembre, el tercer lunes de noviembre en conmemoración del veinte de noviembre, el primero de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, el veinticinco de diciembre, así como los sábados, domingos y aquéllos que el Órgano Superior de Fiscalización, declare como no laborables, mediante publicación en el Periódico Oficial del Estado.
 
 Serán horas hábiles las comprendidas entre las 8:00 y las 18:30 horas. En caso de que se inicie una actuación o diligencia en horas hábiles, podrá concluirse en horas inhábiles. Sólo podrá suspenderse por causa de fuerza mayor, caso fortuito o por necesidades del servicio, mediante el acuerdo respectivo.
 
@@ -2108,6 +2110,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 7 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 215.- SE REFORMA LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+> <small>[N. DE E. TRANSTORIO DEL “DECRETO NÚMERO 172.- SE REFORMA LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”.]</small>
 
 ###### ARTÍCULO ÚNICO.
 
