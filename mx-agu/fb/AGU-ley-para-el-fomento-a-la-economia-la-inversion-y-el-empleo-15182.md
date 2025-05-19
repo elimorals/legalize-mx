@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2025-03-10"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -71,7 +71,9 @@ IV.- Consejo: El Consejo Consultivo para el Desarrollo Económico de Aguascalien
 
 Serán objetivos de la presente Ley los siguientes:
 
-I.- Promover la generación de nuevas fuentes de empleo y consolidar las existentes;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+I.- Impulsar la creación de nuevas fuentes de empleo y autoempleo individual y de grupo, la conservación de las existentes, promoviendo su distribución equitativa en las distintas regiones del Estado;
 
 II.- Coadyuvar y fortalecer los sectores económicos estratégicos, para que sean altamente competitivos a través de esquemas de agrupamientos empresariales, cadenas productivas y establecer programas de desarrollo de proveedores locales;
 
@@ -105,13 +107,29 @@ XIV.- Contar con un sistema de información estadística, que contenga variables
 
 XV.- Impulsar el establecimiento, desarrollo y vigilancia de Unidades Industriales de acuerdo a los lineamientos establecidos en la presente Ley y los reglamentos que al efecto se expidan;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XVI.- Impulsar la integración económica de las mujeres, las personas jóvenes y las personas adultas mayores, a través de planes y programas específicos; y
+XVI.- Fomentar las oportunidades de trabajo y garantizar el acceso preferente a los programas y apoyos que para tal efecto emita la Secretaría, para las personas que se encuentran en situación de vulnerabilidad económica, priorizando a las personas adultas mayores, madres solteras o jefas de familia o papás solteros;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XVII.- Promover la creación de condiciones económicas favorables para el desarrollo de las actividades empresariales en la Entidad.
+XVII.- Promover la creación de condiciones económicas favorables para el desarrollo de las actividades empresariales en la Entidad;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XVIII.- Promover el aumento de sectores que propicien en mayor medida el desarrollo de capital humano, la innovación, investigación, el desarrollo y la transferencia del conocimiento y las tecnologías;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIX.- Incentivar la agrupación y colaboración de empresas, centros de investigación e innovación tecnológica, en los sectores estratégicos, con el objetivo de consolidar el desarrollo de la economía del conocimiento conforme a la fracción VI del artículo 5°, de la Ley de Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XX.- Fomentar e impulsar la inclusión a la dinámica económica formal del estado, así como el apoyo a las personas que realizan, microemprendimientos de negocios por internet o redes sociales; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXI.- Promover la igualdad de oportunidades laborales, procurando que no se limite el acceso, la permanencia o el desarrollo en el empleo por razones de edad.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
 
@@ -211,7 +229,9 @@ IX.- Proponer y promover la metodología necesaria para incrementar la exportaci
 
 X.- Participar en la elaboración de los programas de promoción de la inversión nacional y extranjera;
 
-XI.- Sugerir programas que permitan el desarrollo integral de las micro y pequeñas empresas del Estado;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XI.- Sugerir programas que permitan el desarrollo integral de las micro y pequeñas empresas del Estado, incluyendo a las personas que realizan microemprendimientos de negocios por internet o redes sociales;
 
 > <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
@@ -285,7 +305,9 @@ c).- Plazo en que se realizará la inversión;
 
 d).- Programa de capacitación para la formación de los empleados;
 
-e).- Respeto al medio ambiente;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+e).- La instalación de tecnologías que permitan la protección y el mejoramiento del medio ambiente;
 
 f).- Consumo de agua;
 
@@ -293,7 +315,9 @@ g).- Prioridades estatales en cuanto bienes o servicios;
 
 h).- Perspectiva de crecimiento;
 
-i).- Desarrollo tecnológico; y
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+i).- El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares; y
 
 j).- Volumen de exportaciones.
 
@@ -465,23 +489,31 @@ ARTICULO 36 BIS.- La Secretaría deberá implementar el programa específico "He
 
 ### CAPÍTULO XI. Del Apoyo al Autoempleo
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 37.
 
-La Secretaría en coordinación con los sectores educativo, social y privado, apoyará el autoempleo de manera permanente, para tal finalidad, promoverá programas de capacitación y de incremento a la capacidad productiva.
+La Secretaría en coordinación con los sectores educativo, social y privado, apoyará el autoempleo de manera permanente, para lo cual deberá:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 2024)</small>
+I.- Implementar programas de promoción económica y de impulso al autoempleo;
 
-Tales programas deberán atender prioritariamente a las personas adultas mayores y a mujeres jefas de familia. Aunado a lo anterior la Secretaría deberá dar máxima publicidad a estos programas en su portal de internet y contar con reglas de operación claras y sencillas, buscando la simplificación administrativa.
+II.- Elaborar un programa de simplificación administrativa y gestión de trámites ante autoridades federales, estatales y municipales, para el establecimiento de su primer negocio;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE AGOSTO DE 2024)</small>
+III.- Ofrecer planes de capacitación tendientes a elevar la producción, calidad y competitividad de los bienes y servicios que ofrezca en su actividad económica;
 
-En el caso de los Municipios, la Secretaría se coordinará con los mismos a efecto de que el apoyo al autoempleo tenga el propósito de:
+IV.- Promover esquemas de apoyo que incidan en el abasto oportuno de los productos de la canasta básica; y
 
-I.- Vincular la oferta de los programas de capacitación con las necesidades del mercado y sus vocaciones económicas; y
+V.- Establecer incentivos y apoyos que les permita a las personas interesadas promover el proceso productivo y concretar los proyectos que les sea de interés propio.
 
-II.- Incrementar las oportunidades de empleo y mejorar el ingreso de su población.
+Estas acciones deberán dirigirse a personas que se encuentran en situación de vulnerabilidad económica, priorizando a las personas adultas mayores, madres solteras o jefas de familia o papás solteros; o quienes emprendan la actividad económica en su vivienda derivado de su estado de necesidad.
+
+La Secretaría deberá dar máxima publicidad a las acciones y programas en su portal de internet y contar con reglas de operación claras y sencillas, buscando la simplificación administrativa.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### ARTICULO 38.
+
+La Secretaría en coordinación con los Municipios, procurará que el autoempleo se vincule con las necesidades del mercado y sus vocaciones económicas, y se incrementen las oportunidades de empleo y la mejora en el ingreso de su población.
 
 ## TRANSITORIOS
 
@@ -660,3 +692,11 @@ P.O. 10 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 165.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
