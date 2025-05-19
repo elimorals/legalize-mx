@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2023-10-25"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -451,7 +451,9 @@ IV. Analizar, verificar y calificar la congruencia y vinculación de los distint
 
 V. Vigilar y Evaluar el cumplimiento de los programas de desarrollo urbano de competencia estatal;
 
-VI. Formular y difundir los Atlas de Riesgo conforme a las disposiciones de esta Ley, así como asesorar a los Municipios que lo soliciten en la expedición de las autorizaciones o licencias que se otorgan en las zonas de riesgo;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VI. Formular, difundir y actualizar cada seis años los Atlas de Riesgo conforme a las disposiciones de esta Ley, así como asesorar a los Municipios que lo soliciten en la expedición de las autorizaciones o licencias que se otorgan en las zonas de riesgo;
 
 VII. Crear y administrar sistemas de información geográfica y estadística para la planeación urbana regional, metropolitana o conurbada y municipal del Estado a través del Centro de Colaboración Geoespacial;
 
@@ -517,7 +519,9 @@ III. Aprobar, en los términos de esta Ley, los programas de ordenamiento de las
 
 IV. Promover los programas y realizar acciones de conservación, mejoramiento, consolidación y crecimiento de los centros de población en sus Municipios;
 
-V. Participar en la formulación y aprobación de los Atlas de Riesgo en los términos de lo dispuesto por esta Ley;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+V. Participar en la formulación, aprobación y actualización de los Atlas de Riesgo en los términos de lo dispuesto por esta Ley;
 
 VI. Convenir con el Estado y con otros Municipios la coordinación de acciones en materia de desarrollo urbano y en su caso que la, Secretaría, por un período que no excederá al período constitucional del Ayuntamiento, desempeñe de manera total o parcial las funciones técnicas o administrativas que le corresponden al Municipio, en la administración de la planeación del desarrollo urbano y en general en la materia de asentamientos humanos y desarrollo urbano, en cumplimiento de esta Ley, así como solicitar a la, Secretaría la asesoría técnica y jurídica en materia de ordenamiento territorial y desarrollo urbano;
 
@@ -557,7 +561,9 @@ XX. Ordenar, imponer y ejecutar las medidas cautelares y de seguridad y sancione
 
 XXI. Evitar el establecimiento de asentamientos humanos en zonas de alto riesgo, según lo indique el Atlas de Riesgo, en derechos de vía, en zonas consideradas de seguridad nacional, y en zonas de salvaguarda y de desarrollo controlado contiguas a industrias que realicen actividades altamente riesgosas;
 
-XXII. Revocar los acuerdos de licencias, permisos y autorizaciones que se expidan en contravención a las disposiciones de la presente Ley, y demás disposiciones civiles y administrativas de observancia general;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXII. Revocar los acuerdos de licencias, permisos y autorizaciones que se expidan en contravención a las disposiciones de la presente Ley, y demás disposiciones civiles y administrativas de observancia general, previa notificación al titular del permiso y otorgando un plazo no mayor de diez días hábiles para presentar alegatos o subsanar irregularidades, cuando ello sea posible;
 
 XXIII. Expedir las licencias para la instalación de anuncios, sujetándose a la normatividad establecida;
 
@@ -3353,7 +3359,17 @@ En las intersecciones entre vías principales ordinarias, el derecho de vía deb
 
 La metodología para resolver los nudos viales de las intersecciones entre las vías principales, tanto ordinarias como de acceso controlado, deberá ajustarse según los requerimientos, al orden siguiente:
 
-III (SIC). Solución a nivel mediante la instalación de rotonda o semáforos;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+a) Solución a nivel mediante la instalación de rotonda o semáforos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+b) Construcción sobre un eje de paso a desnivel preferentemente deprimido, conservando la rotonda o los semáforos a nivel; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+c) Construcción sobre el otro eje de paso a desnivel elevado, conservando la rotonda o los semáforos a nivel, para dar servicio a los flujos locales.
 
 IV. Construcción sobre un eje de paso a desnivel preferentemente deprimido, conservando la rotonda o los semáforos a nivel; y
 
@@ -3465,9 +3481,21 @@ X. Las señales de tránsito, lámparas, casetas, puentes peatonales, anuncios p
 
 XI. Las instalaciones subterráneas para los servicios públicos, tales como; teléfonos, alumbrado, semáforos y energía eléctrica, deberán localizarse preferentemente bajo las aceras o camellones excepto los cruces;
 
-XII. A cada lado de los derechos de vía federales se establecerán restricciones de construcciones conforme lo establezcan las Leyes federales; y
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XIII. Los derechos de paso no privados tendrán la anchura que dispongan las Leyes federales, estatales o los acuerdos de la autoridad competente.
+XI Bis. Las Empresas Paraestatales o lo (sic) Municipios, de acuerdo a su competencia y conforme a su suficiencia presupuestal, cuando detecten la falta o ausencia de coladeras, rejillas, pozo de visita, pozo de registro o cualquier otro mobiliario urbano que pueda poner en riesgo a transeúntes o conductores en las vías públicas, estos aditamentos, deberán ser sustituidos por otros que cuenten con materiales de policoncreto o cualquier otro material sustentable, que cumpla con los parámetros para sostener el peso requerido.
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XII. A cada lado de los derechos de vía federales se establecerán restricciones de construcciones conforme lo establezcan las Leyes federales;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIII. Los derechos de paso no privados tendrán la anchura que dispongan las Leyes federales, estatales o los acuerdos de la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIV. Las vialidades descritas en el artículo 169 fracciones II, III, IV, y V, contaran con el servicio de alumbrado público en ambas aceras.
 
 ###### Artículo 171.
 
@@ -3555,7 +3583,9 @@ VI. La autoridad competente tendrá un plazo de 40-cuarenta días hábiles, pror
 
 VII. Cumplidas las formalidades para la participación social en la formulación o modificación de los atlas, las autoridades competentes elaborarán la versión final de dichos atlas incorporando en lo conducente, los resultados de dicha participación. Los atlas o sus modificaciones se aprobarán de acuerdo a lo establecido para cada caso, los publicarán en forma íntegra en el Periódico Oficial del Estado y tratándose de los atlas de riesgo de los Municipios, además de publicarse en el Periódico Oficial del Estado, se publicarán en las Gacetas Municipales, cuando se tenga este órgano de difusión, y se inscribirán en el Registro Público de la Propiedad y del Comercio de Instituto Registral y Catastral del Estado, dentro de un plazo de 30-días hábiles a partir de su publicación en el Periódico Oficial del Estado, y entrarán en vigor a partir del día siguiente de la inscripción antes citada.
 
-Los atlas de riesgo, después de ser publicados en el Periódico Oficial del Estado, podrá (sic) expedir un aviso mínimo de un octavo de página en uno de los periódicos de mayor circulación de la entidad, en el que se manifieste que se ha concluido la etapa de consulta del atlas y se informe la fecha de su entrada en vigor.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Los atlas de riesgo estatal y municipales deberán actualizarse al menos cada seis años en los municipios que formen parte de la zona metropolitana y a nivel estatal, mientras que para los demás municipios la actualización deberá realizarse cada nueve años.
 
 ###### Artículo 177.
 
@@ -4605,9 +4635,9 @@ XIII. Realizarse y utilizarse bajo especificaciones que permitan prevenir y cont
 
 XIV. En los casos de instalación y construcción de anuncios panorámicos por seguridad y protección deben contar con una memoria de cálculo estructural firmada por un profesionista responsable que garantice una resistencia mínima de los componentes físicos de soporte de los anuncios de 120 Km./hr contra el viento; y
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XV. Contar, desde el inicio hasta la conclusión de la obra y mantener en todo momento a la vista del público, en el exterior del inmueble, en lugar de fácil acceso de la obra, una lona de materiales ecológicos la cual también deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias toxicas o nocivas para la salud o el medio ambiente, como también resistente a la intemperie de un metro cuadrado, que contenga los datos esenciales que permitan identificar el número de la Licencia o Permiso de Construcción o Edificación, otorgada por la Autoridad Competente, su vigencia, así como el tipo de obra, el uso o destino del suelo, giro de que se trate, y el nombre de la persona responsable de la construcción, quien lo será también de verificar el cumplimiento de esta disposición.
+XV. Contar, desde el inicio hasta la conclusión de la obra y mantener en todo momento a la vista del público, en el exterior del inmueble, en lugar de fácil acceso de la obra, una lona de materiales ecológicos la cual también deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias toxicas o nocivas para la salud o el medio ambiente, como también resistente a la intemperie de un metro cuadrado, que contenga los datos esenciales que permitan identificar en versión pública el número de la Licencia o Permiso de Construcción o Edificación, otorgada por la Autoridad Competente, su vigencia, así como el tipo de obra, el uso o destino del suelo, giro de que se trate, y el nombre de la persona responsable de la construcción, quien lo será también de verificar el cumplimiento de esta disposición.
 
 ### Capítulo Séptimo. De las Acciones de Conservación y Mejoramiento
 
@@ -6945,7 +6975,9 @@ IX. Cuando se realicen obras de construcción, urbanización y similares relativ
 
 X. Cuando se obstaculice o impida en alguna forma el cumplimiento de las ordenes de inspección expedidas por la autoridad competente;
 
-XI. Cuando se realice o promueva la venta de lotes, predios y edificaciones de un fraccionamiento, sin contar con la licencia, permiso o autorización correspondiente;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XI. Cuando se realice o promueva públicamente la venta de lotes, predios y edificaciones de un fraccionamiento o conjunto inmobiliario, por cualquier título o medio, a través de contratos o convenios, independientemente de su denominación, sin contar con la licencia, permiso o autorización correspondiente;
 
 XII. Cuando se promueva o permita la ocupación de un predio o edificación sin contar con las licencias, permisos y autorizaciones correspondientes o violando el uso de suelo que le corresponde; y
 
@@ -7023,9 +7055,11 @@ EN EL CASO DE LAS SUSPENSIONES SE CONSIDERARÁ MEDIDA CAUTELAR JUDICIAL, Y POR T
 
 EN EL CASO DE LAS CLAUSURAS, SE SEGUIRÁ EL PROCEDIMIENTO DE JUICIO ORDINARIO PREVISTO EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NUEVO LEÓN.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 383.
 
-Se sancionará con multa al propietario o a los responsables solidarios en los siguientes casos:
+Se sancionará con multa al propietario del predio o en su defecto, a la persona moral que encabece la ejecución de un determinado proyecto inmobiliario, en términos de cualquier acto jurídico, por conducto de su gerente, director, administrador o representante legal, así como a los responsables solidarios, en los siguientes casos:
 
 I. Multa de hasta 30-treinta unidades de medida y actualización:
 
@@ -7079,7 +7113,9 @@ IV. Multa desde 5000-cinco mil veces el salario mínimo prevaleciente en la zona
 
 a) Cuando el propietario, poseedor o responsable de obras que se lleven a cabo en inmuebles ubicados en zonas de riesgos establecidas en el atlas de riesgos, realice obras o instalaciones o actos sin permiso o autorización, o teniéndolo no cumpla con el mismo;
 
-b) Cuando se realice o promueva la venta de lotes, predios y edificaciones de un fraccionamiento o conjunto, sin contar con la licencia, permiso o autorización correspondiente; o
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+b) Cuando se realice o promueva públicamente la venta de lotes, predios y edificaciones de un fraccionamiento o conjunto inmobiliario, por cualquier título o medio, a través de contratos o convenios independientemente de su denominación, sin contar con la licencia, permiso o autorización correspondiente; o
 
 c) Cuando se realicen fraccionamientos, conjuntos o urbanizaciones sin contar con la debida autorización.
 
@@ -7467,9 +7503,11 @@ En caso de que la autoridad competente sea omisa y no notifique personalmente la
 
 ### Capítulo Octavo. De la Denuncia Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 422.
 
-La persona que considere que se han autorizado o se están llevando a cabo, construcciones, fraccionamientos, conjuntos, condominios cambios de usos del suelo o de uso de edificación, destinos del suelo, actos o acciones urbanas en contravención a las disposiciones de esta Ley, a los planes de desarrollo urbano aplicables, tendrá derecho a denunciar y exigir a la autoridad competente para que se dé inicio al procedimiento administrativo correspondiente y se lleven a cabo las suspensiones, demoliciones o modificaciones u otras medidas o sanciones, que sean necesarias para cumplir con los citados ordenamientos, cuando:
+La persona que considere que se han autorizado o se están llevando a cabo, construcciones, fraccionamientos, conjuntos, condominios cambios de usos del suelo o de uso de edificación, destinos del suelo, actos o acciones urbanas en contravención a las disposiciones de esta Ley u otras de observancia obligatoria relativas al desarrollo urbano, a los planes de desarrollo urbano aplicables, tendrá derecho a denunciar y exigir a la autoridad competente para que se dé inicio al procedimiento administrativo correspondiente y se lleven a cabo las suspensiones, demoliciones o modificaciones u otras medidas o sanciones, que sean necesarias para cumplir con los citados ordenamientos, cuando:
 
 I. Se demuestre un deterioro en la calidad de vida de los asentamientos humanos de la zona;
 
@@ -7738,3 +7776,11 @@ P.O. 25 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 438. SE ADICIONAN LAS FRACCIONES XII BIS, XII BIS I Y XII BIS II AL ARTÍCULO 208 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor el día siguiente al de su publicación.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 101. SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 10, LAS FRACCIONES V Y XXII DEL ARTÍCULO 11, EL PÁRRAFO TERCERO DE LA FRACCIÓN III DEL ARTÍCULO 169, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 170, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 176, LA FRACCIÓN XV DEL ARTÍCULO 237, LA FRACCIÓN XI DEL ARTÍCULO 382, EL PRIMER PÁRRAFO Y EL INCISO B) DE LA FRACCIÓN IV DEL ARTÍCULO 383, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 422; Y SE ADICIONAN LAS FRACCIONES XI BIS Y XIV AL ARTÍCULO 170, TODOS A LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A efecto de que los municipios del Estado cumplan con lo establecido en el artículo 176 del presente decreto, la Secretaría en un plazo de 180 días hábiles siguientes a su entrada en vigor emitirá los lineamientos de coordinación, asistencia técnica y presupuestal.
