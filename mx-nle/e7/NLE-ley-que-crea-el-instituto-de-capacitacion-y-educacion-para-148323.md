@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-capacitacion-y-educacion-para-1483
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-10"
-last_updated: "2025-03-10"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148323&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 10 de marzo de 2021.
 
@@ -121,15 +121,21 @@ I. Un Presidente Honorario, que será el Titular del Poder Ejecutivo del Estado,
 
 II. Cuatro representantes del Poder Ejecutivo del Estado que serán:
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
-a) El Secretario del Trabajo, quien desempeñará el cargo de Presidente Ejecutivo.
+a) La persona titular de la Secretaria del Trabajo, quien desempeñará el cargo de Presidente Ejecutivo.
 
-b) El Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
-c) El Secretario de Finanzas y Tesorero General del Estado.
+b) La persona titular de la Secretaría General de Gobierno
 
-d) El Secretario de Educación.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+c) La persona titular de la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+d) La persona titular de la Secretaria de Educación.
 
 III. Tres representantes del Gobierno Federal, designados por el Secretario de Educación Pública
 
@@ -366,3 +372,9 @@ P.O. 10 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 063. SE REFORMA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 8 Y SE ADICIONA UN ARTÍCULO 4 BIS, TODOS DE LA LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 103. SE REFORMAN LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN II DEL ARTÍCULO 8 DE LA LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y EDUCACIÓN PARA EL TRABAJO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
