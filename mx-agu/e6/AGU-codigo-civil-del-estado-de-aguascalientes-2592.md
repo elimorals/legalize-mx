@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-05-07"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2527,6 +2527,74 @@ IV.- Con relación a las personas adultas mayores que sean incapaces de satisfac
 
 El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2025)</small>
+
+Cuando la persona juzgadora apruebe un convenio o dicte sentencia en la que se fije un monto por concepto de pensión alimenticia, la persona obligada a su pago será inscrita de manera inmediata en el Registro Nacional de Obligaciones Alimentarias. Dicha inscripción se mantendrá hasta que acredite haber realizado el primer pago conforme a lo establecido en la resolución judicial o en el convenio aprobado. En consecuencia, de oficio o a petición de parte, la persona juzgadora ordenará la inscripción del deudor alimentario en el Registro Nacional de Obligaciones Alimentarias, proporcionando al Registro los datos de identificación del deudor alimentario, los cuales de manera enunciativa mas no limitativa serán los siguientes:
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+I. Nombre del deudor;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+II. Apellidos del deudor;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+III. CURP del deudor;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+IV. RFC con homoclave del deudor;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+V. Órgano jurisdiccional que ordenó la inscripción;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VI. Cuantía del cumplimiento de la obligación alimentaria;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VII. Plazo de pago de los alimentos definitivos;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VIII. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+IX. Edad;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+X. Sexo;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XI. Nacionalidad;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XII. Ocupación o profesión;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIII. Nombre completo de los acreedores alimentarios, y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIV. Parentesco.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Dichos datos deberán ser proporcionados a la persona Juzgadora por el acreedor alimentario o su representante.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+El deudor alimentario que demuestre ante la persona juzgadora haber liquidado en su totalidad los adeudos que por concepto de pensión alimenticia se hayan generado, podrá solicitar la cancelación de su inscripción, debiendo efectuarse de manera inmediata, con independencia de la temporalidad de actualización referida en el artículo 331 Quáter.
+
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 331 Bis.
@@ -2542,6 +2610,12 @@ El deudor alimentario deberá informar al juez y al acreedor alimentista, dentro
 ###### Artículo 331 Ter.
 
 El Juez podrá verificar de oficio o a petición de parte, con el auxilio de peritos o de instituciones que considere pertinentes, que la pensión alimenticia se destine a los fines previstos en este Código y podrá dictar medidas tendientes al cumplimiento de dichos fines.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 331 Quáter.
+
+Las personas Juzgadoras suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias, durante los primeros cinco días hábiles de cada mes, utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional para el Desarrollo Integral de la Familia para que con ella integre el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 332.
 
@@ -18172,3 +18246,17 @@ P.O. 7 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 – El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166.- SE REFORMAN LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la publicación de la presente reforma, las instituciones del Gobierno del Estado de Aguascalientes, así como los municipios que lo integran, contarán con un plazo máximo de 180 días naturales para realizar las modificaciones necesarias a sus reglamentos y normatividades internas.
+
+Dichas modificaciones deberán establecer la obligatoriedad de solicitar la constancia emitida por el Registro Nacional de Obligaciones Alimentarias como requisito en todos aquellos trámites que consideren pertinentes, en concordancia con las disposiciones de esta reforma y en cumplimiento con el marco normativo federal aplicable.
