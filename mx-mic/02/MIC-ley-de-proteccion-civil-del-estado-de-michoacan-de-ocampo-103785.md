@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-10378
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2023-06-13"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 25 de noviembre de 2014.
 
@@ -121,9 +121,11 @@ XXX. Zona de Riesgo: Espacio territorial determinado en el que existe la probabi
 
 XXXI. Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 4.
 
-Toda persona que habite o se encuentre de paso por el territorio estatal, tendrá derecho a ser informada, auxiliada y beneficiada de las acciones, recursos y medidas implementadas por las Instituciones de Protección Civil, en cumplimiento al objeto de esta Ley. Asimismo, la población vulnerable y expuesta a un peligro, será informada de ello, y a contar con las vías adecuadas de opinión y participación dentro de la Gestión Integral de Riesgos.
+Toda persona que resida, habite o transite en el Estado de Michoacán de Ocampo, tendrá derecho a ser informada, auxiliada y beneficiada de las acciones, recursos y medidas implementadas por las Instituciones de Protección Civil, en cumplimiento al objeto de esta Ley. Asimismo, la población vulnerable y expuesta a un peligro será informada de ello y contará con las vías adecuadas de opinión y participación dentro de la Gestión Integral de Riesgos.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2020)</small>
 
@@ -155,9 +157,11 @@ VII. Respeto a los derechos humanos y sus garantías; y,
 
 VIII. Establecimiento y desarrollo de una cultura de la Protección Civil, con énfasis en la prevención en la población en general.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 8.
 
-Las Instituciones de Protección Civil, podrán celebrar convenios de coordinación, colaboración y trabajo con las demás instancias competentes de los tres órdenes de gobierno.
+Las Instituciones de Protección Civil, en el ámbito de su competencia y atribuciones, podrán celebrar convenios de coordinación, colaboración y trabajo con las demás instancias competentes de los tres órdenes de Gobierno.
 
 ###### Artículo 9.
 
@@ -261,9 +265,11 @@ VII. Los grupos vecinales, organizaciones de la sociedad civil y representantes 
 
 Los integrantes del Sistema Estatal, deberán compartir con la autoridad competente que solicite y justifique su utilidad, toda información de carácter técnico que obre en su poder, relativa a los sistemas y redes de alerta, detección, monitoreo, pronóstico y medición de riesgos, así como la relacionada a la atención de los servicios de emergencia o casos de desastre en los que intervengan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 19.
 
-El Gobernador del Estado y los Presidentes Municipales, tendrán la responsabilidad de verificar la debida integración y funcionamiento de los sistemas de Protección Civil que les corresponda, conforme a lo establecido en la presente Ley y en la legislación municipal aplicable.
+El Gobernador del Estado y los Presidentes Municipales tendrán la responsabilidad de verificar la debida integración y funcionamiento de los sistemas de Protección Civil que les corresponda, conforme a lo establecido en la presente Ley, su Reglamento y la Legislación Municipal aplicable.
 
 Se asegurarán del correcto funcionamiento de las Coordinaciones de Protección Civil, promoviendo que sean constituidas con un nivel no menor de Dirección General, como organismos con autonomía administrativa, de operación y gestión, dependientes, financiera y orgánicamente de la Secretaría de Gobierno y de las Secretarías de los Ayuntamientos, respectivamente.
 
@@ -309,15 +315,19 @@ El Consejo Estatal podrá asesorarse del Consejo Consultivo y convocar a sus int
 
 El Consejo Estatal contará además, con un órgano auxiliar de apoyo que se denominará Comité Estatal de Emergencias y Desastres, el cual será responsable de orientar y colaborar en la toma de decisiones que sirvan para afrontar una condición de emergencia o desastre, presente o inminente, conforme a lo dispuesto en el capítulo X de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 24.
 
-El Consejo Estatal sesionará ordinariamente en pleno, por lo menos dos veces al año, preferentemente durante el mes de septiembre; y extraordinariamente, las veces que sea requerido, a convocatoria de su Presidente. Las sesiones del Consejo se considerarán instauradas, y sus decisiones válidas, con la asistencia de la mitad más uno de sus integrantes.
+El Consejo Estatal sesionará ordinariamente en pleno, por lo menos dos veces al año y extraordinariamente, las veces que sea requerido, a convocatoria de su Presidente. Las sesiones ordinarias del Consejo se considerarán instauradas, y sus decisiones válidas, con la asistencia de la mitad más uno de sus integrantes.
 
 Los integrantes miembros del Consejo Estatal, ejercerán sus funciones en forma honorífica, la Secretaría de Gobierno prestará el apoyo administrativo y financiero que requiera el Consejo para el cumplimiento de sus funciones, conforme al presupuesto respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 25.
 
-En caso de ausencias, el Gobernador del Estado será suplido por el Secretario de Gobierno, quien a su vez, podrá ser suplido por el Coordinador Estatal de Protección Civil. Los funcionarios señalados en las fracciones IV y V, podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior.
+En caso de ausencias, el Gobernador del Estado será suplido por el Secretario de Gobierno, quien a su vez, podrá ser suplido por el Coordinador Estatal de Protección Civil. Los funcionarios señalados en las fracciones IV y V del artículo 23 de esta Ley podrán ser suplidos por servidores públicos que ostenten cargos con nivel inmediato inferior.
 
 En el Reglamento Interior del Consejo Estatal, se establecerán las disposiciones adicionales que regulen su funcionamiento orgánico.
 
@@ -381,7 +391,9 @@ V. Compilar los acuerdos que se tomen en el Consejo Estatal, así como llevar el
 
 VI. Informar periódicamente al Consejo Estatal y a su Presidente, sobre el desarrollo de sus atribuciones y actividades;
 
-VII. Celebrar convenios de coordinación, colaboración y concertación con autoridades de los tres órdenes de gobierno, que sean necesarios para el cabal cumplimiento de los fines del Sistema Estatal;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VII. En el ámbito de su competencia y atribuciones, celebrar convenios de coordinación, colaboración y concertación con autoridades de los tres órdenes de Gobierno, que sean necesarios para el cabal cumplimiento de los fines del Sistema Estatal;
 
 VIII. Verificar el pleno cumplimiento de las disposiciones de esta Ley y su Reglamento, de los convenios generales y específicos en la materia, así como de las demás disposiciones aplicables, e informar lo conducente al Consejo Estatal;
 
@@ -649,9 +661,17 @@ XIX. Instrumentar y operar un Sistema Municipal de Inspección, Verificación y 
 
 XX. Elaborar y mantener actualizado su estado de fuerza operativa, integrado por el personal, vehículos, recursos materiales y demás equipamiento disponible, que en conjunto sumen la capacidad de respuesta;
 
-XXI. Ejercer el mando operativo en la geografía municipal ante una situación de riesgo, emergencia o desastre, coordinándose con la autoridad estatal competente y con otras instancias de seguridad; y,
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXII. Las demás que contengan otros ordenamientos legales aplicables.
+XXI. Ejercer el mando operativo en la geografía municipal ante una situación de riesgo, emergencia o desastre, coordinándose con la autoridad estatal competente y con otras instancias de seguridad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2025)</small>
+
+XXII. Implementar de manera conjunta con la Coordinación Estatal, mecanismos de coordinación para el intercambio de información respecto a las infracciones y expedición de documentos, así como de actividades, permisos, licencias, certificaciones, constancias, verificaciones, programas internos y dictámenes con la finalidad de entablar una colaboración conjunta ante situaciones de emergencia que representen riesgos, siniestros o desastres; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
+
+XXIII. Las demás que contengan otros ordenamientos legales aplicables.
 
 ###### Artículo 44.
 
@@ -909,9 +929,59 @@ Los aspirantes a Brigadistas Comunitarios, serán debidamente registrados y capa
 
 La Secretaría de Gobierno, a través de la Coordinación Estatal, se encargará de organizar el funcionamiento de esta Red; para tal efecto, las autoridades de Protección Civil del Estado y sus Municipios, promoverán en el marco de su competencia, la capacitación y preparación de los voluntarios que deseen constituirse en brigadistas comunitarios, debiendo registrar los grupos que se conformen en Michoacán e informar de ellos a la Red Nacional.
 
-### CAPÍTULO XIV. DECLARATORIA DE EMERGENCIA Y DESASTRE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2025)</small>
 
-### CAPÍTULO XV. INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
+### CAPÍTULO XIII BIS. DE LOS BOMBEROS
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 81 Bis.
+
+La Coordinación Estatal de Protección Civil y las Coordinaciones Municipales de Protección Civil, deberán prestar los servicios de Cuerpos de Bomberos, ante cualquier situación de emergencia que represente riesgos, siniestros o desastres.
+
+Los servicios a que se refiere el párrafo anterior se proporcionarán de manera gratuita y en condiciones de igualdad para todas las personas, sin discriminación, priorizando el bien común y la reducción de riesgos de emergencias.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 81 Ter.
+
+La actuación de los Bomberos del Estado de Michoacán de Ocampo tendrá, además de los previstos para todo servidor público como ejes rectores de su actuar, los siguientes principios:
+
+I. Prioridad en la protección a la vida, la salud y la integridad de las personas;
+
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en el auxilio a la población en caso de riesgo o emergencia;
+
+III. Subsidiariedad, complementariedad, transversalidad y proporcionalidad en las funciones asignadas a las diversas instancias del gobierno;
+
+IV. Publicidad y participación social en todas las fases de la Gestión Integral de Riesgos, particularmente en la mitigación y auxilio a la población;
+
+V. Corresponsabilidad entre sociedad y gobierno;
+
+VI. Honradez y respeto a los derechos humanos;
+
+VII. Capacitación; y,
+
+VIII. Lealtad institucional.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 81 Quater.
+
+Las funciones a desempeñar por el Cuerpo de Bomberos del Estado de Michoacán de Ocampo serán las siguientes:
+
+I. Atender, controlar y extinguir todo tipo de incendios cuando la capacidad del municipio sea rebasada, incluidos los de establecimientos e inmuebles de industrias y establecimientos privados, sin que ello implique no poder auxiliar;
+
+II. Ingresar en sitios cerrados, públicos o privados, donde se registre cualquier tipo de siniestro o desastre, pudiendo romper, retirar, sustraer cualquier tipo de objetos o materiales que impidan llevar a cabo su labor de auxilio en el combate de incendios y rescate de personas;
+
+III. Atender y controlar explosiones, derrames, fugas de gas y, en su caso, sustancias peligrosas que pongan en riesgo la integridad de las personas, en coordinación con autoridades competentes;
+
+IV. Coadyuvar en labores de rescate, incluyendo la atención a colisiones de los diferentes medios de transporte público o privado, y que se esté en riesgo la vida o la integridad de las personas;
+
+V. Auxiliar en la atención de riesgos ocasionados por fauna que represente un peligro para las personas; y,
+
+VI. Las demás que esta Ley, el Reglamento o normativa aplicable, les confieran de manera expresa.
+
+### CAPÍTULO XIV. DECLARATORIA DE EMERGENCIA Y DESASTRE
 
 ###### Artículo 82.
 
@@ -929,7 +999,7 @@ Las Declaratorias de Emergencia o de Desastre Natural, deberán ser solicitadas 
 
 Los Ayuntamientos del Estado podrán solicitar la emisión de una Declaratoria de Emergencia o Desastre, para tal efecto, deberán remitir al Ejecutivo Estatal, toda aquella información requerida para su validación y procedencia. En caso de acreditar los requisitos fijados en el ordenamiento respectivo, el Estado gestionará la Declaratoria ante la Federación.
 
-### CAPÍTULO XVII (SIC). FONDO ESTATAL DE PROTECCIÓN CIVIL Y DESASTRES NATURALES
+### CAPÍTULO XV. INSTRUMENTOS FINANCIEROS DE GESTIÓN DE RIESGOS
 
 ###### Artículo 86.
 
@@ -969,7 +1039,7 @@ Ante estos organismos fiscalizadores, se habrán de turnar y dar seguimiento a l
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 10 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO XVII. DONACIONES PARA AUXILIAR A LA POBLACIÓN MICHOACANA
+### CAPÍTULO XVII (SIC). FONDO ESTATAL DE PROTECCIÓN CIVIL Y DESASTRES NATURALES
 
 ###### Artículo 93.
 
@@ -999,7 +1069,7 @@ El Fondo Estatal de Protección Civil, y Desastres Naturales será operado, ejer
 
 En cualquier caso, las relaciones institucionales entre el Estado y los Municipios, definidas por la naturaleza, organización y destino de los recursos económicos que integren el Fondo Estatal de Protección Civil, y Desastres Naturales serán regidas, además de esta Ley y su Reglamento, por lo previsto en la Ley de Coordinación Fiscal del Estado de Michoacán y demás ordenamientos fiscales aplicables.
 
-### CAPÍTULO XVIII. SISTEMA DE INSPECCIÓN ESTATAL Y MUNICIPAL
+### CAPÍTULO XVII. DONACIONES PARA AUXILIAR A LA POBLACIÓN MICHOACANA
 
 ###### Artículo 96.
 
@@ -1031,7 +1101,7 @@ Cuando un organismo privado o voluntario con capacidad comprobada ante la autori
 
 Conforme al artículo anterior, toda recaudación de donativos realizada por grupos o personas del sector voluntario o privado, será objeto de supervisión y vigilancia por la Coordinación Estatal y las Municipales de Protección Civil, en sus respectivos ámbitos de competencia; debiendo requerir los informes que sean necesarios para comprobar la justificación legal y la transparencia de dicha actividad, así como el correcto ejercicio y destino de los recursos obtenidos.
 
-### CAPÍTULO XIX. MEDIDAS DE SEGURIDAD Y SANCIÓN
+### CAPÍTULO XVIII. SISTEMA DE INSPECCIÓN ESTATAL Y MUNICIPAL
 
 ###### Artículo 103.
 
@@ -1063,7 +1133,7 @@ Las autoridades de Protección Civil del Estado y sus Municipios, deberán solic
 
 La Coordinación Estatal prestará el apoyo técnicooperativo en materia de inspección, verificación y vigilancia, a las autoridades municipales que así lo soliciten, por carecer de capacidad instalada o suficiente para atender de manera adecuada e independiente la situación.
 
-### CAPÍTULO XX. OBLIGACIONES DE LOS PARTICULARES
+### CAPÍTULO XIX. MEDIDAS DE SEGURIDAD Y SANCIÓN
 
 ###### Artículo 109.
 
@@ -1091,27 +1161,51 @@ VII. Las demás que en materia de Protección Civil determine la legislación es
 
 Cuando se apliquen medidas de seguridad, se precisará su temporalidad y, en su caso, las acciones para su suspensión. Asimismo, las autoridades a que se refiere este artículo y la Secretaría de Gobierno, podrán promover ante otras instancias competentes, la ejecución de medidas de seguridad complementarias establecidas en otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 111.
 
 La Coordinación Estatal y las Municipales de Protección Civil, tendrán la facultad de imponer las siguientes medidas de sanción administrativa:
 
-I. Apercibimiento: por escrito y de carácter público;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-II. Clausura o Suspensión: temporal o definitiva, parcial o total de cualquier tipo de establecimiento, instalación o inmueble sujeto de inspección o que haya sido afectado por una situación de riesgo, emergencia o desastre; y,
+I. Apercibimiento: Por escrito y de carácter público;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-III. Multa: que podrá ir de 25 veces (sic) valor diario de la Unidad de Medida y Actualización, hasta 2500 veces dicho valor.
+II. Clausura o Suspensión: temporal o definitiva, parcial o total de cualquier tipo de establecimiento, instalación o inmueble sujeto de inspección o que haya sido afectado por una situación de riesgo, emergencia o desastre;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+III. Multa: Que podrá ir de 25 hasta 10000 veces el valor diario de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2025)</small>
+
+IV. Suspensión o revocación de permisos, licencias o autorizaciones que se hubieran otorgado por la autoridad estatal o municipal.
 
 Las multas generarán un crédito fiscal a favor del Estado, y también para sus Municipios, con base en las disposiciones aplicables del régimen fiscal estatal.
 
 Para exigir el cumplimiento de multas, la Coordinación Estatal solicitará a la autoridad fiscal estatal competente, la aplicación del Procedimiento Administrativo de Ejecución, previsto en el Código Fiscal del Estado. Mientras que las Coordinaciones Municipales, podrán acudir a esta vía, con base en las disposiciones contenidas en los convenios de coordinación fiscal, que para tal efecto, suscriban la Secretaría de Finanzas del Estado y los Ayuntamientos.
 
-En casos de reincidencia, las sanciones económicas aumentarán, y de acuerdo a la gravedad, podrán ser de hasta dos veces más del monto máximo permitido.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Para la imposición de las sanciones por infracciones a esta Ley, su Reglamento y demás disposiciones normativas aplicables, se tomará en cuenta la acción u omisión y los daños que se generen, así como la gravedad de la infracción, la cual se calificará en leves, graves y muy graves, conforme al Reglamento.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+En casos de reincidencia, las sanciones económicas aumentarán, de acuerdo a la gravedad, podrán ser de hasta dos veces más del monto máximo permitido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Se considera reincidente al infractor que incurre más de una vez en conductas que impliquen infracciones a un mismo precepto, dentro de un periodo de dos años contados a partir de la fecha en que se levante el acta en la que se hizo constar la primera infracción, siempre que ésta no hubiera sido desvirtuada.
 
 ###### Artículo 112.
 
 Para hacer efectivo el cumplimiento de medidas de inspección, seguridad y sanción impuestas por las autoridades de Protección Civil del Estado y sus Municipios, conforme a lo previsto en esta Ley, su Reglamento y demás normatividad aplicable, se podrá recurrir al auxilio de la fuerza pública, el cual se solicitará a las instancias de seguridad pública competentes.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Asimismo, estarán obligados a cumplir con las demás disposiciones legales que sean aplicables y a sujetarse a las medidas de inspección, verificación, vigilancia, seguridad y sanción que aplique la Coordinación Estatal de Protección Civil, en su respectiva esfera de competencia.
 
 ###### Artículo 113.
 
@@ -1125,7 +1219,7 @@ En el interior de establecimientos, inmuebles o espacios de tipo cerrado, destin
 
 Toda persona física o moral, pública o privada, que incumpla con las obligaciones depositadas en esta Ley, sobre medidas de Protección Civil y prevención de riesgos, serán sujetos de sanción administrativa, conforme a las disposiciones referentes que se señalen en el Reglamento de esta norma y en la demás legislación aplicable, sin perjuicio de la responsabilidad penal o civil, que en su caso proceda.
 
-### CAPÍTULO XXI. DETECCIÓN DE ZONAS DE RIESGO
+### CAPÍTULO XX. OBLIGACIONES DE LOS PARTICULARES
 
 ###### Artículo 116.
 
@@ -1153,7 +1247,7 @@ Una vez recibido el informe, la autoridad de Protección Civil efectuará las di
 
 En una situación de desastre colectivo, y con el fin de coadyuvar en las labores de atención, auxilio y recuperación organizadas por las autoridades competentes, los particulares podrán cooperar en ellas cuando así lo deseen; para ello, solicitarán su inscripción con vigencia perentoria en tanto persista la condición de necesidad, la cual será expedida por la Coordinación de Protección Civil responsable en el lugar de la contingencia.
 
-### CAPÍTULO XXII. ATENCIÓN A LA POBLACIÓN RURAL AFECTADA POR CONTINGENCIAS CLIMATOLÓGICAS
+### CAPÍTULO XXI. DETECCIÓN DE ZONAS DE RIESGO
 
 ###### Artículo 121.
 
@@ -1186,6 +1280,8 @@ En las disposiciones que regulen los programas de desarrollo urbano del Estado y
 ###### Artículo 126.
 
 La autorización de permisos de uso o destino de suelo, de aprovechamiento o utilización, por parte o a favor de servidores públicos estatales o municipales, que carezcan de la debida formalidad, tramitación o requisitos legales, se considerará una conducta grave; y la responsabilidad administrativa en que se incurra, será sancionada por la legislación estatal o municipal correspondiente, sin perjuicio de la normativa penal aplicable.
+
+### CAPÍTULO XXII. ATENCIÓN A LA POBLACIÓN RURAL AFECTADA POR CONTINGENCIAS CLIMATOLÓGICAS
 
 ###### Artículo 127.
 
@@ -1280,3 +1376,13 @@ P.O. 13 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Los ayuntamientos del Estado y el Concejo Mayor de Cherán tendrán 90 días, a partir de la entrada en vigor, para crear o armonizar su reglamentación municipal correspondiente con lo mandatado en el presente Decreto.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 177 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4, 8, EL PRIMER PÁRRAFO DEL ARTÍCULO 19, EL PRIMER PÁRRAFO DEL ARTÍCULO 24, EL PRIMER PÁRRAFO DEL ARTÍCULO 25, LA FRACCIÓN VII DEL ARTÍCULO 28, LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 43, EL ARTÍCULO 111; Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 43, EL CAPÍTULO XIII BIS, DENOMINADO DE LOS BOMBEROS, ASÍ COMO SUS ARTÍCULOS 81 BIS, 81 TER, 81 QUATER; Y, UN SEGUNDO PÁRRAFO AL ARTÍCULO 112, TODOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado, en un término no mayor a 180 ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá armonizar las disposiciones Reglamentarias correspondientes para el cumplimiento del presente Decreto.
+
+TERCERO. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
