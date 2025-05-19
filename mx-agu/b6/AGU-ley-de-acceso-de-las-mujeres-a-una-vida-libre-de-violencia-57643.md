@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-05-12"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -431,11 +431,11 @@ V. En el de las instituciones y servicio público; y
 
 VI. En espacios públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 10.
 
-La violencia familiar contra las mujeres es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho con la víctima.
+La violencia familiar contra las mujeres es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho. También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
 > <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
 
@@ -2276,3 +2276,11 @@ El presente Decreto iniciará su vigencia a partir del día siguiente de su publ
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado deberá realizar las modificaciones necesarias al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, en un plazo no mayor a 90 días naturales, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 168.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
