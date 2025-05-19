@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-mental-del-estado-de-aguascalientes-174218"
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-28"
-last_updated: "2024-08-28"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD MENTAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en el Número 50 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 28 de agosto de 2024.
 
@@ -69,9 +69,11 @@ V. Respetar, proteger, promover y garantizar los derechos humanos de las persona
 
 VI. Las demás que le señale esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 4.
 
-La salud mental es el estado de bienestar en el cual el individuo es consciente de sus capacidades, enfrenta las tensiones cotidianas de manera efectiva, realiza un trabajo productivo y contribuye a su comunidad, este bienestar se refleja en un funcionamiento adecuado en los aspectos cognitivos, emocionales y conductuales, permitiendo el desarrollo óptimo de sus potencialidades individuales en la convivencia, el trabajo y la recreación, en consecuencia, la salud mental es un elemento esencial para el desarrollo integral de la persona y su participación activa en la sociedad, debiendo ser garantizada y promovida como un derecho fundamental.
+Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 5.
 
@@ -506,3 +508,13 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 28 de agosto de 2024”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 169.- SE REFORMA LA LEY DE SALUD MENTAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
