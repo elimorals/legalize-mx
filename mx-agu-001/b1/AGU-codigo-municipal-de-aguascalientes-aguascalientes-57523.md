@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-03-31"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -7471,17 +7471,25 @@ Se aplicarán las sanciones que previene este Código, a las personas que infrin
 
 ### CAPÍTULO III. De los Parques y Jardines
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 476.
 
-Las áreas verdes públicas municipales representan sitios de esparcimiento, recreación, imagen urbana y equilibrio ecológico. Comprenden lo siguiente:
+Las áreas verdes públicas municipales es toda superficie cubierta de vegetación natural o inducida, localizada en bienes del dominio público y que ofrece servicios ambientales. También se refiere a la parte o subdivisión de un espacio público específico que cuenta con vegetación, dedicada al esparcimiento, decoración o conservación. Comprenden, de forma enunciativa y no limitativa, lo siguiente:
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 I. Los parques, parques de cuota, jardines vecinales, jardines tradicionales y bosques urbanos;
 
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 II. Las plazas, monumentos y fuentes públicas;
 
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 III. Los camellones, triángulos y glorietas;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 IV. La vegetación ubicada en la franja de equipamiento de las banquetas;
 
@@ -7505,9 +7513,13 @@ La Secretaría de Servicios Públicos por conducto de la Dirección de Parques y
 
 La Secretaría de Servicios Públicos también es la responsable, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable y otras autoridades, en el ámbito de sus respectivas competencias, de promover y regular entre los distintos sectores de la población, la participación en los programas de forestación, reforestación y plantación, vigilancia y conservación de las áreas verdes públicas.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 Las áreas verdes públicas y privadas, incluyéndose las de casas habitación cuando existiera la intención e interés de afectar especies vegetales, serán objeto de vigilancia y control del municipio, por lo que cualquier acción como creación, manejo, derribo, poda, reubicación de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por la autoridad municipal correspondiente.
 
-Los criterios diseño, construcción, modificación, manejo, mantenimiento, conservación, protección y restauración de los parques, jardines y áreas verdes del Municipio de Aguascalientes, se regularán conforme lo establece el Reglamento de Parques, Jardines y Áreas Verdes del Municipio de Aguascalientes.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Los criterios de diseño, construcción, modificación, manejo, mantenimiento, conservación, protección y restauración de los parques, jardines y áreas verdes del Municipio de Aguascalientes, se regularán conforme lo establece el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 477.
 
@@ -15751,11 +15763,11 @@ Los propietarios estarán obligados a reponer por su cuenta las banquetas y guar
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella, se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 1000.
 
-Cuando se pretenda llevar a cabo la extracción para reubicación o derribo de árboles, deberá tramitarse la autorización correspondiente como lo marcan los artículos 497 y 497 BIS del presente ordenamiento.
+Cuando se pretenda llevar a cabo la extracción para reubicación o derribo de árboles, deberá tramitarse la autorización correspondiente conforme a lo previsto en el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 1001.
 
@@ -26406,3 +26418,11 @@ P.O. 31 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DE “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES EN MATERIA DE ESPECTÁCULOS, APROBADAS EN LA SESIÓN EXTRAORDINARIA, CELEBRADA EL DÍA VEINTIOCHO DE MARZO DE DOS MIL VEINTICINCO”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA, ADICIÓN Y DEROGACIÓN DE DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL, DEL REGLAMENTO DE PROTECCIÓN AL MEDIO AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO, Y DEL REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES PARA EL MUNICIPIO EN MATERIA DE ARBOLADO URBANO”.]
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Municipio, por conducto de la Secretaría de Medio Ambiente y Desarrollo Sustentable, de la Secretaría de Servicios Públicos y de la Secretaría de Desarrollo Urbano, se coordinará con vecinos de todo tipo de fraccionamientos y condominios donde sus áreas verdes no se ajusten a las características establecidas en el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes, con el propósito de ejecutar acciones a fin de colocar el arbolado y jardinería necesarios para cumplir con las exigencias de dicho Reglamento.
