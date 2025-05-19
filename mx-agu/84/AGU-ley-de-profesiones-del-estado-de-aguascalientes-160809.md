@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-profesiones-del-estado-de-aguascalientes-160809"
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-31"
-last_updated: "2022-10-31"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 44 del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de octubre de 2022.
 
@@ -167,9 +167,11 @@ XVIII. Las demás que se le confieran en esta Ley y otros ordenamientos jurídic
 
 ### CAPÍTULO II. De las Profesiones
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 6°.
 
-La Autoridad Educativa Estatal determinará semestralmente las profesiones para cuyo ejercicio en el Estado de Aguascalientes será necesario contar con un título profesional. Esta determinación se llevará a cabo por conducto de la Comisión Estatal de Planeación de la Educación Superior del Estado, en seguimiento a lo establecido en el segundo párrafo del Artículo 5° de la Constitución Política de los Estados Unidos Mexicanos, cuyas resoluciones deberán ser publicadas en el Periódico Oficial del Estado.
+La Autoridad Educativa Estatal determinará las profesiones para cuyo ejercicio en el Estado de Aguascalientes será necesario contar con un título profesional. Esta determinación se llevará a cabo por conducto de la Comisión Estatal de Planeación de la Educación Superior del Estado, en los términos establecidos por la normatividad que para tal efecto se expida para su funcionamiento y en atención a lo establecido en el segundo párrafo del Artículo 5° de la Constitución Política de los Estados Unidos Mexicanos, cuyas resoluciones deberán ser publicadas en el Periódico Oficial del Estado.
 
 ###### Artículo 7°.
 
@@ -235,13 +237,17 @@ II. Copia certificada del acta constitutiva y de los estatutos o Reglamentos que
 
 III. Original y copia simple para cotejo de identificación oficial con fotografía, de la persona que ostente la representación legal de la Asociación Civil;
 
-IV. La relación de sus integrantes, cuyo número no deberá ser menor a cincuenta, haciendo constar el carácter de persona asociada;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+IV. La relación de sus integrantes, cuyo número no deberá ser menor a treinta, haciendo constar por escrito el carácter de persona asociada de cada uno de sus miembros dirigido a la persona titular del Instituto, el cual deberá estar suscrito por la persona representante legal del Colegio de Profesionistas del que se trate;
 
 V. La relación de personas asociadas que integran el Consejo Directivo;
 
 VI. Comprobante oficial del pago de derechos por concepto de registro y autorización, y
 
-VII. Copia certificada de todas las cédulas profesionales de los asociados.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VII. Copia simple y por ambos lados, de todas las cédulas profesionales de los asociados.
 
 Sólo las asociaciones de profesionistas que cumplan con los requisitos establecidos en la presente Ley podrán utilizar en su denominación la expresión "Colegio", indicándose la profesión y en su caso la especialidad a la que pertenezcan.
 
@@ -580,3 +586,21 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 28 de octubre de 2022.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 174.- SE REFORMA LA LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo Estatal, deberá actualizar y modificar la normatividad reglamentaria necesaria para el cumplimiento del presente Decreto, en un término no mayor a 120 días al de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones normativas y reglamentarias que se opongan al presente Decreto.
