@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-05-07"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -134,6 +136,10 @@ IX. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación
 > <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
 
 IX Bis. Cultura de Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+IX Ter. Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación en una persona por razón congénita o adquirida de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -425,13 +431,17 @@ XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de éstos 
 
 XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure su pleno desarrollo físico y mental; incluyendo el derecho a la lactancia materna, se procurará sea exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, siempre que las condiciones de salud del bebé, la salud y la voluntad de la madre lo permitan;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXIII. Derecho a la salud mental, entendido como la atención psicológica que garantice el bienestar emocional, psicológico y social de niñas, niños y adolescentes; y
+XXIII. Derecho a la salud mental, entendido como la atención psicológica que garantice el bienestar emocional, psicológico y social de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXV. Derecho de las niñas, niños y adolescentes con discapacidad al acceso a la salud, educación y desarrollo de tal manera que las barreras que impone el entorno social, no impidan su inclusión plena y efectiva en la sociedad.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1005,9 +1015,11 @@ Las niñas, niños y adolescentes tienen derecho a recibir orientación, educaci
 
 Las niñas, niños y adolescentes, tienen derecho a no sufrir violencia física o psicoemocional; a consecuencia, de ser utilizados como un medio, para ejercer violencia vicaria contra alguno de los progenitores de las niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 47.
 
-Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender, sancionar y reparar los casos en que niñas, niños o adolescentes se vean afectados por:
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -1069,7 +1081,9 @@ Las autoridades competentes deberán considerar la perspectiva de género en las
 
 Las leyes del Estado de Aguascalientes deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
-Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, atender, sancionar y reparar las afectaciones previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
 ###### Artículo 48.
 
@@ -1099,7 +1113,9 @@ Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel pos
 
 I. Reducir la morbilidad y mortalidad;
 
-II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria y en aquellos casos de niñas, niños y adolescentes con discapacidad;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -1157,13 +1173,17 @@ XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lo
 
 XXI. Establecer medidas tendientes a la prevención y atención de las consecuencias en la salud de niñas y niños ante el uso desmedido de dispositivos electrónicos durante la primera infancia;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXII. Adoptar las medidas normativas necesarias para que todos los establecimientos públicos y privados que permiten el acceso de personas menores de edad, cuenten con cambiadores de pañales para niñas y niños, tanto en baños públicos de mujeres como baños públicos de hombres; los cuales tendrán que cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes; y
+XXII. Adoptar las medidas normativas necesarias para que todos los establecimientos públicos y privados que permiten el acceso de personas menores de edad, cuenten con cambiadores de pañales para niñas y niños, tanto en baños públicos de mujeres como baños públicos de hombres; los cuales tendrán que cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXIII. Diseñar e implementar acciones y programas para detectar, atender y prevenir el suicidio en niñas, niños y adolescentes.
+XXIII. Diseñar e implementar acciones y programas para detectar, atender y prevenir el suicidio en niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXIV. Garantizar la educación a las niñas, niños y adolescentes con discapacidad, atendiendo las acciones necesarias para establecer las condiciones de accesibilidad en instalaciones educativas, proporcionar los apoyos didácticos, materiales y técnicos y contar con personal docente capacitado, a fin de garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1783,7 +1803,21 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la Ley General, la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2025)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+b) Los gastos derivados de la educación y la formación para proporcionar a los niños, niñas y adolescentes un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de salvaguardia, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo;
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, deberán proveer la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios;
 
@@ -2079,13 +2113,17 @@ D. Uso de sillas de retención infantil o de asiento de seguridad, que cumplan c
 
 E. El uso obligatorio de casco para personas usuarias de motocicletas.
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XV. Establecer medidas administrativas para la protección de niñas, niños y adolescentes en vehículos mediante el uso correcto de los sistemas de retención infantil, señaladas en la fracción que antecede; y
+XV. Establecer medidas administrativas para la protección de niñas, niños y adolescentes en vehículos mediante el uso correcto de los sistemas de retención infantil, señaladas en la fracción que antecede;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2025)</small>
 
-XVI. Cualquier otra prevista para el cumplimiento de esta Ley.
+XVI. Promover políticas públicas a favor de las niñas, niños y adolescentes con discapacidad, a fin de garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE MAYO DE 2025)</small>
+
+XVII. Cualquier otra prevista para el cumplimiento de esta Ley.
 
 ###### Artículo 110.
 
@@ -2123,13 +2161,17 @@ XII. Contar con un programa de atención, así mismo podrán contar (sic) una Pr
 
 La Procuraduría de Protección Municipal coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que, en caso de necesidad de medidas urgentes de protección, se dé vista a la Procuraduría de Protección Local de forma inmediata;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XIII. Establecer y ejecutar los mecanismos para la prevención, detección, atención y canalización de los casos de maltrato, perjuicio, acoso, agresión, abuso o cualquier otra forma de violencia que atente contra la integridad física, psicológica, afectiva o sexual de niñas, niños y adolescentes que se suscite en los centros educativos; y
+XIII. Establecer y ejecutar los mecanismos para la prevención, detección, atención y canalización de los casos de maltrato, perjuicio, acoso, agresión, abuso o cualquier otra forma de violencia que atente contra la integridad física, psicológica, afectiva o sexual de niñas, niños y adolescentes que se suscite en los centros educativos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2025)</small>
 
-XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
+XIV. Promover políticas públicas a favor de las niñas, niños y adolescentes con discapacidad, a fin de garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE MAYO DE 2025)</small>
+
+XV. Las demás que establezcan los ordenamientos locales y aquellas que deriven de los acuerdos que, de conformidad con la Ley General, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
 
 ### CAPÍTULO IV. De la Secretaría Ejecutiva
 
@@ -2193,13 +2235,17 @@ XXI. Coordinarse con los Sistemas Municipales de Protección, que establezcan lo
 
 XXII. Diseñar e implementar las políticas y programas necesarios para la prevención de la violación de los derechos de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXIII. Establecer programas de formación para padres de familia que promuevan el desarrollo de habilidades y herramientas para la educación parental en el marco de una crianza positiva a favor de las niñas, niños y adolescentes; y
+XXIII. Establecer programas de formación para padres de familia que promuevan el desarrollo de habilidades y herramientas para la educación parental en el marco de una crianza positiva a favor de las niñas, niños y adolescentes;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE MAYO DE 2025)</small>
 
-XXIV. Las demás que les otorguen otras disposiciones aplicables.
+XXIV. Generar los lineamientos para el mejoramiento de políticas públicas a favor de las niñas, niños y adolescentes con discapacidad, a fin de garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE MAYO DE 2025)</small>
+
+XXV. Las demás que les otorguen otras disposiciones aplicables.
 
 ###### Artículo 113.
 
@@ -2597,15 +2643,109 @@ Los Sistemas Local y Municipales contarán con órganos consultivos de apoyo, en
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+### CAPÍTULO X. Del Registro Nacional de Obligaciones Alimentarias
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 126 Bis.
 
 La ley reconoce a las niñas y niños que viven con sus madres en centros penitenciarios como un sector infantil en condiciones especiales de vulnerabilidad, por lo que las autoridades estatales y municipales, deberán garantizar el ejercicio, respeto, protección y promoción de sus derechos; así como prever las acciones, programas y mecanismos que les permitan un crecimiento y desarrollo pleno, en concordancia con el principio de protección integral, el derecho de igualdad sustantiva y la tutela de los derechos contenidos en la presente ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás normas aplicables.
 
 Para los efectos a que se refiere este artículo, se considerará a las niñas y niños que viven con sus madres en centros penitenciarios, desde que nacen y viven su primera infancia en dichos centros, por el hecho de que su madre se encontrare en estado de gravidez al momento de estar privada de su libertad, con motivo de la compurgación de una pena o de estar sometida a prisión preventiva, así como por los casos previstos en la Ley Nacional de Ejecución Penal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2025)</small>
+
+### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+
+###### Artículo 126 Ter.
+
+El Registro Nacional de Obligaciones Alimentarias, previsto por la Ley General, es la herramienta electrónica a cargo del Sistema Nacional DIF cuyo objeto es concentrar la información de deudores y acreedores de obligaciones alimentarias que suministren, intercambien, sistematicen, consulten, analicen y actualicen los Juzgados Familiares del Estado de Aguascalientes, con el fin de ocuparse como un instrumento para la efectiva protección y restitución de los derechos de niñas, niños y adolescentes.
+
+El Registro es público, gratuito y digital, en términos de lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Aguascalientes y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 126 Quáter.
+
+Los Juzgados Familiares en el Estado de Aguascalientes tienen la obligación de suministrar y actualizar la información al Registro sobre el incumplimiento de las obligaciones alimentarias en el ámbito de su competencia y jurisdicción, durante los primeros cinco días hábiles de cada mes.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 126 Quinquies.
+
+La inscripción en el Registro tiene efectos declarativos, por lo tanto, no protege ni prejuzga sobre derechos de las partes o terceros.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 126 Sexies.
+
+Para realizar la inscripción en el Registro, los Juzgados Familiares del Estado de Aguascalientes deberán suministrar los datos que se soliciten mediante el formato que para el efecto proporcione el Sistema Nacional DIF.
+
+De manera enunciativa y no limitativa estos serán los siguientes:
+
+I. Nombre o nombres del deudor;
+
+II. Apellido o apellidos del deudor;
+
+III. CURP del deudor;
+
+IV. RFC con homoclave del deudor;
+
+V. Órgano jurisdiccional que ordenó la inscripción;
+
+VI. Cuantía del cumplimiento de la obligación alimentaria;
+
+VII. Plazo de pago de los alimentos definitivos;
+
+VIII. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción;
+
+IX. Edad;
+
+X. Sexo;
+
+XI. Nacionalidad;
+
+XII. Ocupación o profesión;
+
+XIII. Nombre completo de los acreedores alimentarios, y
+
+XIV. Parentesco.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 126 Septies.
+
+La cancelación en el Registro será responsabilidad de los Juzgados Familiares del Estado de Aguascalientes, debiendo efectuarla de manera inmediata, con independencia de la temporalidad de actualización referida en el artículo 126 Quáter.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 126 Octies.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Aguascalientes, tendrán (sic) acceso total a la información de la Plataforma.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+###### Artículo 126 Nonies.
+
+El Estado y los municipios, en el ámbito de sus competencias, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
+Entre los trámites y procedimientos que podrán requerir la expedición de ese certificado, se encuentran los siguientes, los cuales son enunciativos mas no limitativos:
+
+I. Obtención de licencias y permisos para conducir;
+
+II. Para participar como candidato a cargos concejiles y de elección popular, directa o indirecta;
+
+III. La expedición de licencias del tipo comercial, a efecto de crear algún tipo de negociación;
+
+IV. En los procedimientos de adopción, que se lleven a cabo dentro del estado de Aguascalientes;
+
+V. Para participar como aspirante a cargos de jueces, magistrados o secretarios de acuerdo y proyectistas en el ámbito local;
+
+VI. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales; y
+
+VII. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene.
 
 ## TÍTULO SEXTO. DE LAS INFRACCIONES ADMINISTRATIVAS
 
@@ -3350,3 +3490,25 @@ P.O. 7 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166.- SE REFORMAN LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la publicación de la presente reforma, las instituciones del Gobierno del Estado de Aguascalientes, así como los municipios que lo integran, contarán con un plazo máximo de 180 días naturales para realizar las modificaciones necesarias a sus reglamentos y normatividades internas.
+
+Dichas modificaciones deberán establecer la obligatoriedad de solicitar la constancia emitida por el Registro Nacional de Obligaciones Alimentarias como requisito en todos aquellos trámites que consideren pertinentes, en concordancia con las disposiciones de esta reforma y en cumplimiento con el marco normativo federal aplicable.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 170.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará si (sic) vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
