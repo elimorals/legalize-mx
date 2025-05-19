@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-centro-publico-de-mecanismos-alternativos-de-179
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-05-12"
-last_updated: "2025-05-12"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179970&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,19 +21,23 @@ issue_date: "2025-04-30"
 
 > <small>[N. DE E. REGLAMENTO OBTENIDO DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/TFJA/SS-9-2025.pdf]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MAYO DE 2025 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-REGLAMENTO DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
+REGLAMENTO DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA DE JUSTICIA ADMINISTRATIVA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 19 DE MAYO DE 2025.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 12 de mayo de 2025.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Federal de Justicia Administrativa.- Pleno General de la Sala Superior.
 
-EXTRACTO DEL ACUERDO SS/9/2025, DENOMINADO “REGLAMENTO DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA.”
+> <small>(F. DE E., D.O.F. 19 DE MAYO DE 2025)</small>
 
-Con fundamento en lo dispuesto por el artículo 3, segundo párrafo, de la Ley Orgánica del Tribunal Federal de Justicia Administrativa; el Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa, en sesión celebrada el treinta de abril dos mil veinticinco, por unanimidad de votos a favor, aprobó el ACUERDO SS/9/2025, denominado “REGLAMENTO DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”, cuyos puntos más relevantes son:
+EXTRACTO DEL ACUERDO SS/9/2025, DENOMINADO “REGLAMENTO DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA DE JUSTICIA ADMINISTRATIVA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA.
+
+> <small>(F. DE E., D.O.F. 19 DE MAYO DE 2025)</small>
+
+Con fundamento en lo dispuesto por el artículo 3, segundo párrafo, de la Ley Orgánica del Tribunal Federal de Justicia Administrativa; el Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa, en sesión celebrada el treinta de abril dos mil veinticinco, por unanimidad de votos a favor, aprobó el ACUERDO SS/9/2025, denominado “REGLAMENTO DEL CENTRO PÚBLICO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA DE JUSTICIA ADMINISTRATIVA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”, cuyos puntos más relevantes son:
 
 [...]
 
