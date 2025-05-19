@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2024-09-05"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -4585,9 +4585,13 @@ XIII. La garantías a que se refiere el artículo 385 de este Código, a efecto 
 
 XIV. Escritura pública que acredite la donación a favor del Ayuntamiento de las superficies en los términos de este Código.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
-Los documentos anteriormente mencionados, que se presenten a efecto de obtener la autorización definitiva de los desarrollos a los que se refieren los artículos 314, 315, 316, 321, 323, 325 y 326 de este Código, deberán contener los elementos necesarios que permitan garantizar que las características de diseño universal en infraestructura urbana cumplan con el derecho a la accesibilidad e inclusión de las personas con discapacidad, con el objeto de que las vialidades, guarniciones, banquetas, placas de nomenclatura, señalamientos viales y de tránsito, parques urbanos, áreas verdes, áreas individuales y comunes de los adquirentes, así como el equipo, mobiliario e infraestructura del nuevo desarrollo, sean inclusivos y de acceso seguro, fácil y equitativo a las personas con cualquier tipo de discapacidad.
+Los documentos anteriormente mencionados, que se presenten a efecto de obtener la autorización definitiva de los desarrollos a los que se refieren los artículos 314, 315, 316, 317, 320, 321, 323, 325 y 326 de este Código, deberán contener los elementos necesarios que permitan garantizar que las características de diseño universal en infraestructura urbana cumplan con el derecho a la accesibilidad e inclusión de las personas con discapacidad, con el objeto de que las vialidades, guarniciones, banquetas, placas de nomenclatura, señalamientos viales y de tránsito, parques urbanos, áreas verdes, áreas individuales y comunes de los adquirentes, así como el equipo, mobiliario e infraestructura del nuevo desarrollo, sean inclusivos y de acceso seguro, fácil y equitativo a las personas con cualquier tipo de discapacidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Para obtener la aprobación del proyecto del sistema de distribución y suministro de agua potable en los desarrollos habitacionales mencionados en el párrafo que antecede, toda edificación debe contener cisternas y tinacos que permitan el almacenamiento de agua potable suficiente, saludable, aceptable, físicamente accesible y asequible para su uso personal y doméstico.
 
 ###### ARTÍCULO 352.
 
@@ -5744,3 +5748,11 @@ P.O. 5 DE SEPTIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 174 POR EL QUE “SE REFORMA EL ARTÍCULO 351 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
