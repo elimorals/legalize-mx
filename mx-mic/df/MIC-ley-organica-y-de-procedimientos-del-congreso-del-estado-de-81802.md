@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2025-03-31"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -945,11 +945,15 @@ V Bis. Desarrollo Integral de la Familia;
 
 VI. Desarrollo Rural;
 
-VII. Desarrollo Social;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VII. Bienestar Social;
 
 VIII. Desarrollo Sustentable y Medio Ambiente;
 
-IX. Desarrollo Urbano, Obra Pública y Vivienda;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+IX. Desarrollo Urbano, Ordenamiento Territorial e Infraestructura;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
@@ -1267,9 +1271,11 @@ VIII. Participar en los trabajos del Comité Estatal de Desarrollo Sustentable; 
 
 IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 73.
 
-Corresponde a la Comisión de Desarrollo Social, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+Corresponde a la Comisión de Bienestar Social, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
 I. Los referentes a la gestión y apoyo a organizaciones no gubernamentales, cuyo objeto sea el desarrollo social en el Estado;
 
@@ -1281,7 +1287,19 @@ IV. La promoción para que se mejoren los programas federales, estatales y munic
 
 V. Los relativos a la política de desarrollo económico integral y de beneficio social; y,
 
-VI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VI. Actualizar y definir la legislación en materia de bienestar social;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VII. Coadyuvar en las políticas públicas que minimicen y combatan la pobreza;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VIII. Contribuir en las estrategias que permitan al ámbito público gubernamental el desarrollo humano y social; y,
+
+IX. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -1327,17 +1345,21 @@ XII. Integrar, a través de su Presidente, el Consejo Estatal de Ecología del E
 
 XIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 75.
 
-Corresponde a la Comisión de Desarrollo Urbano, Obra Pública y Vivienda participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+Corresponde a la Comisión de Desarrollo Urbano, Ordenamiento Territorial e Infraestructura participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-I. Referidos a la expedición, reformas y adiciones a la Legislación de Asentamientos humanos; Desarrollo urbano; de Obras públicas; y Vivienda;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+I. Referidos a la expedición, reformas y adiciones a la legislación en materia de desarrollo urbano, ordenamiento territorial, infraestructura, asentamientos humanos, obras públicas y vivienda;
 
 II. Relativos al fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados, en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
-III. Conocer, opinar y en su caso proponer al Titular del Poder Ejecutivo y a los Ayuntamientos las modificaciones o adiciones al Plan Estatal y los Planes Municipales de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+III. Conocer, opinar y en su caso proponer al Titular del Poder Ejecutivo y a los Ayuntamientos las modificaciones o adiciones al Programa de Obra Pública del Estado, al Plan Estatal y los Planes Municipales de Desarrollo Urbano;
 
 IV. Conocer los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso de suelo y destinos de áreas;
 
@@ -1357,9 +1379,13 @@ IX. Integrar, a través de su Presidente, el Consejo Estatal de Ecología del Es
 
 X. Relativos a la autorización a los ayuntamientos y concejos municipales para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal; y,
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XI. Las relativas a las vías de comunicación y telecomunicaciones estatales en los sistemas y redes de organización y distribución de bienes y servicios urbanos, referentes a la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del Estado, en coordinación con la Comisión de Movilidad y Comunicaciones; y,
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 76.
 
@@ -4812,3 +4838,13 @@ P.O. 31 DE MARZO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto en el segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 182 POR EL QUE “SE REFORMAN LAS FRACCIONES VII Y IX DEL ARTÍCULO 62; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LAS FRACCIONES VI, VII Y VIII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 73; SE REFORMA EL PRIMER PÁRRAFO, LAS FRACCIONES I Y III Y SE ADICIONA LA FRACCIÓN XI, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 75, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto en el segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente Decreto a las presidencias de las comisiones de dictamen correspondientes, para su conocimiento.
