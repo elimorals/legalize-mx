@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-137185"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-08"
-last_updated: "2020-09-14"
+last_updated: "2025-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2019.
 
@@ -115,7 +115,9 @@ XIV. Órgano de Control: La Contraloría del Estado;
 
 XV. Órgano Interno de Control de los Sujetos de la Ley: Para la fracción III del Artículo 1 de la Ley, las Contralorías Municipales; para las fracciones I, II y IV del Artículo 1° de la Ley, las contralorías internas de cada Sujeto de la Ley;
 
-XVI. Órgano de Planeación: Coordinación General de Planeación y Proyectos o su equivalente en los Municipios;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XVI. Órgano de Planeación: Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, o su equivalente en los Municipios;
 
 XVII. Programa Anual de Obra Pública: Documento a través del cual se presentan los proyectos de inversión y monto programado de la obra pública;
 
@@ -125,13 +127,17 @@ XIX. Secretaría: La Secretaría de Obras Públicas del Estado;
 
 XX. Servicios Relacionados con la Obra Pública: Los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías especializadas que se vinculen con las acciones que regula esta Ley; la dirección o supervisión de la ejecución de las obras y los estudios que tengan por objeto rehabilitar, corregir o incrementar la eficiencia de la infraestructura e instalaciones y los de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, quedando también comprendidos los siguientes conceptos:
 
-a. La planeación, anteproyecto y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de ingeniería básica, estructural de instalaciones, de infraestructura industrial, electrometálica y de cualquier otra especialidad de ingeniería que se requiera para integrar un proyecto ejecutivo de obra pública;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+a. La planeación, anteproyecto, proyecto ejecutivo y Presupuestación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto arquitectónico, urbano o de ingeniería, que se requiera para integrar un proyecto ejecutivo de obra pública;
 
 b. La planeación, el anteproyecto y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto urbano, arquitectónico y de cualquier otra especialidad del diseño, de la arquitectura y el urbanismo, que se requiera para integrar un proyecto ejecutivo de obra pública;
 
 c. Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, topografía, geología, geotécnica, geofísica, geotérmica, meteorología, aerofotogrametría, ambientales, ecológicos, de ingeniería de tránsito, sismología y geodesia;
 
-d. Los estudios económicos y de preenversión (sic), factibilidad técnico-económica o social, la evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo y de distitución (sic) de la eficiencia de las instalaciones;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+d. Los estudios de preinversión, económicos, técnicos y legales, con el objetivo de evaluar la conveniencia de realizar un proyecto de inversión pública, que incluye la evaluación de la factibilidad técnico-económica y social, financiera, de adaptación, certeza legal de posesión de los inmuebles a intervenir u ocupar, de desarrollo y de restitución de la eficiencia de las instalaciones;
 
 e. Los trabajos de coordinación, supervisión y control de obra e instalaciones, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y de resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuestación o la elaboración de cualquier otro documento para la licitación de la adjudicación del contrato de obra correspondiente;
 
@@ -151,9 +157,37 @@ XXII. Sujeto de la Ley Normativo: Son aquellos Sujetos de la Ley que tienen las 
 
 XXIII. Sujeto de la Ley Operativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de utilizar, manejar u operar en el ámbito de su competencia las obras de infraestructura y su equipamiento que les sean entregadas por los Sujetos de la Ley Ejecutores en el Estado, o en su caso de los municipios;
 
-XXIV. Sujetos de la Ley: Los que se indican en el Artículo 1° de esta Ley, incluidos los señalados en las fracciones XXI, XXII y XXIII de este Artículo; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XXV. Términos de referencia: Documento en el cual se plasman las especificaciones técnicas que describen de manera detallada las características que se pretende tengan el servicio prestado.
+XXIV. Sujetos de la Ley: Los que se indican en el Artículo 1° de esta Ley, incluidos los señalados en las fracciones XXI, XXII y XXIII de este Artículo;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXV. Términos de referencia: Documento en el cual se plasman las especificaciones técnicas que describen de manera detallada las características que se pretende tengan el servicio prestado;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXVI. SEPI: Sistema Estatal de Proyectos de Inversión, implementado por el Órgano de Planeación, en el que las Dependencias y Entidades del ejecutivo del Estado o su similar en los Municipios, deberán conformar la cartera de programas y proyectos de inversión, permitiéndoles integrar sus necesidades de infraestructura y servicios relacionados, para que el Órgano de Planeación lleve a cabo la planeación y analice las alternativas que resuelvan eficientemente sus requerimientos para incorporar los programas y proyectos de inversión en el anteproyecto de Presupuesto de Egresos del Estado, y en su caso, al Programa Anual de Obra Pública;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXVII. Expediente técnico de obra: Documento integrado y elaborado conforme a lo establecido en la Ley de Obras Públicas y de su Reglamento por las dependencias y entidades ejecutoras de obra pública y servicios relacionados, que deberán presentarse ante el Órgano de Planeación, para su análisis y, en su caso, aprobación, visto bueno o pertinencia respecto de la suficiencia presupuestal de los recursos financieros programados;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXVIII. Ficha Técnica del Proyecto: Expediente documental registrado por los sujetos de ley ejecutores, a través del SEPI.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXIX. Informe de Pertinencia: Documento mediante el cual el Órgano de Planeación determina la pertinencia del expediente técnico de obra para su financiamiento y la conveniencia de su ejecución.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXX. Aprobación de expediente técnico de obra: Documento mediante el cual el Órgano de Planeación, aprueba la viabilidad técnica, así como de la suficiencia presupuestal de los recursos financieros programados de las fuentes de financiamiento ordinarias disponibles en el Presupuesto de Egresos del ejercicio fiscal vigente, para que los sujetos de ley ejecutores, procedan a gestionar la licitación, contratación, ejecución y control de la obra pública y servicios relacionados con la misma.
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XXXI. Visto bueno de expediente técnico de obra: Documento mediante el cual el Órgano de Planeación, otorga visto bueno respecto de la viabilidad técnica, así como de la disponibilidad de los recursos de las fuentes de financiamiento propias de las entidades durante el ejercicio fiscal vigente, previa aprobación o autorización emitida por la dependencia o entidad competente en la administración y control del origen de los recursos.
 
 ###### Artículo 3°.
 
@@ -199,7 +233,9 @@ Las controversias que se susciten con motivo de la interpretación de esta Ley y
 
 En la planeación de las obras públicas y de los servicios relacionados con las mismas, los Sujetos de la Ley deberán ajustarse a:
 
-I. Los objetivos y prioridades del Plan Estatal de Desarrollo y de los programas sectoriales, institucionales, regionales y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+I. Los objetivos y prioridades del Plan de Desarrollo del Estado y de los programas sectoriales, institucionales, regionales y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales;
 
 II. Los objetivos, metas y previsiones de recursos establecidos en el Presupuesto de Egresos para el Estado de Aguascalientes para el ejercicio fiscal de que se trate, considerando las modificaciones realizadas de conformidad con lo establecido en el Artículo 16 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
@@ -215,9 +251,13 @@ VII. Las características ambientales, climáticas y geográficas de la región 
 
 VIII. El banco de datos de las obras ejecutadas y de los proyectos ejecutivos; y
 
-IX. Para la elaboración de los proyectos ejecutivos solicitados por los entes requirentes a las dependencias ejecutoras, necesariamente deberán contar con autorización por escrito vía oficio del Órgano de Planeación en el que se determine la factibilidad técnica de llevarlo a cabo en el lugar solicitado. La solicitud que el ente requirente haga al Órgano de Planeación, deberá ser acompañada de la documentación que acredite la propiedad del bien inmueble donde se desarrollara el proyecto.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-Esta planeación deberá desarrollarse entre los Sujetos de la Ley, operativos y los normativos, en coordinación con el Órgano de Planeación o su similar en los Municipios, debiendo contar con ésta a más tardar el 31 de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquellas que se logren incluir en el escenario por la obtención de recursos adicionales podrán incluirse posteriormente a esta fecha, pero siempre antes del 30 de noviembre del ejercicio fiscal en que se autoricen. El Sujeto de la Ley Ejecutor deberá apegarse a los planes y proyectos programados y establecidos dentro de la planeación en los términos del presente artículo.
+IX. Para la elaboración de los proyectos ejecutivos solicitados por los entes requirentes a las dependencias ejecutoras, necesariamente deberán contar con autorización por escrito vía oficio del Órgano de Planeación en el que se determine la factibilidad técnica de llevarlo a cabo en el lugar solicitado. La solicitud que el ente requirente haga al Órgano de Planeación, deberá ser acompañada de la documentación que acredite la tenencia legal del bien inmueble donde se desarrollará el proyecto ejecutivo.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Esta planeación deberá desarrollarse entre los Sujetos de la Ley, operativos y los normativos, en coordinación con el Órgano de Planeación, a través del SEPI o su similar en los Municipios, debiendo contar con ésta a más tardar el treinta y uno de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquellas que se logren incluir en el escenario por la obtención de recursos adicionales podrán incluirse posteriormente a esta fecha, pero siempre antes del treinta de noviembre del ejercicio fiscal en que se autoricen. El Sujeto de la Ley Ejecutor deberá apegarse a los planes y proyectos programados y establecidos dentro de la planeación en los términos del presente artículo.
 
 ###### Artículo 12.
 
@@ -243,6 +283,10 @@ d. El recurso necesario para investigaciones, asesorías, consultorías y estudi
 
 e. El monto en caso de regularización y adquisición de la tenencia de la tierra, así como para la obtención de los permisos de construcción, autorizaciones y licencias que se requieran;
 
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+III.- La Cartera de Programas y Proyectos de Inversión registrados en el SEPI, considerando aquellos proyectos que cuenten con el estatus de “En Cartera”.
+
 Las acciones contenidas en las fracciones anteriores deberán ser realizadas por los Sujetos de la Ley que correspondan, conforme se establece en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, o su equivalente a nivel municipal, y demás disposiciones aplicables.
 
 ###### Artículo 13.
@@ -263,7 +307,15 @@ En los procedimientos para la contratación de obras públicas y de servicios re
 
 Los Sujetos de la Ley que realicen obras públicas y servicios relacionados con las mismas, sea por contrato, por administración directa o mixta, así como los contratistas con quienes aquéllas contraten, observarán en el ámbito de su competencia, las disposiciones que en materia de construcción rijan en el ámbito federal, estatal y municipal.
 
-Los Sujetos de la Ley, cuando sea el caso, previamente a la realización de las obras públicas deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas además de los derechos de bancos de materiales, y demás autorizaciones que se requieran. Las autoridades competentes deberán otorgar a los Sujetos de la Ley que realicen obras públicas las facilidades necesarias para su ejecución.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+De igual manera, los Sujetos de la Ley, cuando sea el caso, previamente a la realización de las obras públicas deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derecho de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, además de los derechos de bancos de materiales, y demás autorizaciones que se requieran, para efecto de integrarlos oportunamente al expediente técnico presentado ante el Órgano de Planeación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Las autoridades competentes deberán otorgar a los Sujetos de la Ley que realicen obras públicas las facilidades necesarias para su ejecución.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 Asimismo, es recomendable que los Sujetos de la Ley, involucren a los peritos responsables de obra y los peritos corresponsables, desde la realización de los estudios técnicos preliminares.
 
@@ -275,11 +327,15 @@ El monto total de las obras señaladas en el párrafo anterior no deberá excede
 
 En el caso de aquellas obras públicas o servicios relacionados con las mismas que se contemple que requieran recursos por más de un ejercicio presupuestal, deberá determinarse el presupuesto total de la obra y los presupuestos que correspondan a cada uno de los ejercicios de que se trate. Para los presupuestos de los ejercicios subsecuentes, deberán tomarse en cuenta los costos que en su momento se encuentren vigentes, las medidas previsibles para los ajustes de costos y, en su caso, los convenios de ampliación que aseguren la continuidad y terminación de los trabajos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 18.
 
-Los Sujetos de la Ley operativos o normativos, así como los entes requirentes de la obra pública, previo a la aprobación del recurso correspondiente, deberán acreditar ante el Órgano de Planeación sus proyectos ejecutivos autorizados, la propiedad o la tenencia legal del predio o bien inmueble donde se realizará la obra pública, enviando copia de dicha acreditación al Sujeto de la Ley Ejecutor y al Órgano de Control o en su caso a la equivalente a nivel municipal.
+Los Sujetos de la Ley ejecutores, operativos o normativos, así como los entes requirentes de la obra pública, previo a la aprobación, visto bueno o informe de pertinencia del expediente técnico de obra correspondiente, deberán acreditar ante el Órgano de Planeación el registro del proyecto o programa de inversión en la cartera del SEPI con el estatus de “En Cartera”, así como sus proyectos ejecutivos autorizados, la propiedad o la tenencia legal del bien inmueble donde se realizará la obra pública, enviando copia de dicha acreditación al Sujeto de la Ley Ejecutor y al Órgano de Control o en su caso a la equivalente a nivel municipal.
 
-Así mismo, los Sujetos de la Ley operadores de los inmuebles de la obra pública deberán enviar al Órgano de Control, o en su caso la equivalente a nivel municipal, dentro de los 30 días hábiles posteriores al acto de entrega- recepción de las obras públicas, copia certificada de los títulos de propiedad y su inscripción en el Registro Público de la Propiedad y del Comercio del Estado, así como los datos sobre la localización y construcción de las obras públicas, para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado o Municipio.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Así mismo, los Sujetos de la Ley operadores de los inmuebles de la obra pública deberán enviar al Órgano de Control, o en su caso la equivalente a nivel municipal, dentro de los treinta días hábiles posteriores al acto de entrega-recepción de las obras públicas, copia certificada de los títulos de propiedad y su inscripción en el Registro Público de la Propiedad y del Comercio del Estado, así como los datos sobre la localización y construcción de las obras públicas, para que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado o Municipio.
 
 ###### Artículo 19.
 
@@ -297,19 +353,33 @@ No podrán celebrarse contratos de servicios relacionados que tengan por objeto 
 
 Los Sujetos de la Ley podrán convocar, licitar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, solamente cuando cuenten con la aprobación de los recursos por parte del Órgano de Planeación, o del órgano municipal competente, del presupuesto de inversión y de gasto corriente, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes.
 
-Además, para convocar las obras públicas, se requerirá contar con los estudios, proyectos y especificaciones de construcción mismos que deberán estar descritos dentro de los conceptos particulares del Catálogo de conceptos del proyecto, los cuales deberán estar apegados a las normas de calidad de acuerdo a las características de cada proyecto; así como el programa de ejecución totalmente terminados o bien con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Además, para convocar las obras públicas, se requerirá contar con los estudios, proyectos y especificaciones de construcción aplicables en el ámbito estatal y/o municipal, así como el catálogo de conceptos del proyecto, los cuales deberán estar apegados a las normas de calidad de acuerdo a las características de cada proyecto; así como el programa de ejecución totalmente terminados (sic) o bien con un avance en su desarrollo que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión.
 
 Para convocar los servicios relacionados con la obra pública, se requerirá contar, en su caso, con los términos de referencia a detalle y las especificaciones necesarias totalmente terminadas para la ejecución, sin interrupción, del servicio correspondiente.
 
-En los casos previstos por las fracciones II, VIII y IX del Artículo 45 de esta Ley, y cuando la realización del procedimiento normal pudiese ocasionar perjuicios graves, bajo su responsabilidad y de manera indelegable, el Titular del Sujeto de la Ley podrá autorizar que se convoque, sin contar con la aprobación de los recursos prevista en este Artículo; sin embargo, bajo ningún motivo se podrá emitir fallo o asignar una obra, sin contar con la aprobación correspondiente.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+En los casos previstos por las fracciones II, VIII y IX del artículo 45 de esta Ley, y cuando la realización del procedimiento normal pudiese ocasionar perjuicios graves, bajo su responsabilidad y de manera indelegable, la persona Titular del Sujeto de la Ley convocante, previa autorización de la persona Titular de la Secretaría de Finanzas, podrá autorizar que se convoque, sin contar con la aprobación de los recursos prevista en este artículo; sin embargo, bajo ningún motivo se podrá emitir fallo o asignar una obra, sin contar con la aprobación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Los procedimientos de contratación referidos en el párrafo anterior, estarán sujetos a la disponibilidad presupuestal del año en que se prevé el inicio de su vigencia, por lo que sus efectos estarán condicionados a la existencia y disponibilidad de recursos presupuestarios, sin que la falta de realización de esta última condición suspensiva origine responsabilidad alguna para las partes.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 Los servidores públicos que autoricen en contravención a lo dispuesto en este Artículo, se harán acreedores a las sanciones que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 22.
 
-Los Sujetos de la Ley ejecutores de la obra pública, posterior a la presentación de la propuesta del programa anual de obra pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquel en que se vayan a ejecutar los trabajos, podrán elaborar los expedientes técnicos y remitirlos al Órgano de Planeación o a su equivalente a nivel municipal, para su análisis y probable aprobación, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública en el ejercicio fiscal anterior al de la ejecución de los trabajos, de los cuales se podrá llevar a cabo el procedimiento de contratación, debiendo cumplir con la forma y plazos indicados en esta Ley.
+Los Sujetos de la Ley ejecutores de la obra pública, atendiendo a lo establecido en el artículo 45 Bis de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, posterior a la presentación de la propuesta del Programa Anual de Obra Pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquel en que se inicie a ejecutar los trabajos, podrán elaborar los expedientes técnicos de obra y remitirlos al Órgano de Planeación o a su equivalente a nivel municipal, para su análisis y, en su caso, emisión del informe de pertinencia, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública y servicios relacionados con la misma en el ejercicio presupuestal anterior al de la ejecución de los trabajos, de los cuales se podrá iniciar el procedimiento de contratación, debiendo emitir el fallo de adjudicación correspondiente una vez que entre en vigor el Presupuesto de Egresos del Estado para el ejercicio presupuestal siguiente, debiendo cumplir con la forma y plazos indicados en esta Ley.
 
-El Órgano de Planeación o su similar en los municipios, en caso de que los expedientes técnicos cumplan con lo estipulado en esta Ley y en su Reglamento y previendo que se contará con recursos suficientes, en opinión de la Secretaría de Finanzas o su similar en los Municipios, procederá a la autorización correspondiente.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+El Órgano de Planeación o su similar en los municipios, en caso de que los expedientes técnicos de obra cumplan con lo estipulado en esta Ley y en su Reglamento y previendo que se contará con recursos suficientes, en opinión de la Secretaría de Finanzas o su similar en los Municipios, procederá a la emisión del oficio del Informe de Pertinencia.
 
 Para convocar los servicios relacionados con la obra pública, se requerirá contar, en su caso, con los términos de referencia a detalle y las especificaciones necesarias, totalmente terminados para la ejecución, sin interrupción, del servicio correspondiente.
 
@@ -345,6 +415,8 @@ El número de veces del valor diario de la unidad de medida de actualización co
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 8 DE JULIO DE 2019, PÁGINA 26.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 19 DE MAYO DE 2025, PÁGINA 5.]</small>
+
 A los montos derivados de la conversión en pesos que se obtengan de la tabla mencionada anteriormente deberá agregársele el Impuesto al Valor Agregado. El presupuesto para realizar obras públicas y servicios relacionados con las mismas será el total a ejercer, independientemente del programa o fuente de financiamiento en el que sea aplicable este ordenamiento estatal por el Sujeto de la Ley en el ejercicio presupuestal que corresponda. El Órgano de Planeación, en el ámbito estatal y sus similares en los Municipios, dentro de los quince días siguientes a la autorización del Programa Anual de Obra Pública por parte del Titular del Poder Ejecutivo Estatal o Municipal, según corresponda, de cada ejercicio presupuestal, serán las responsables de informar, por escrito, a las dependencias ejecutoras de obras públicas y servicios relacionados con las mismas que les correspondan, el presupuesto con el que cuenta cada una. El monto del presupuesto deberá actualizarse por el Órgano de Control dentro de los primeros cinco días hábiles de cada mes, siendo aplicable para los Sujetos de la Ley tres días hábiles posteriores a la recepción de la notificación de la actualización referida. Los recursos a los que se refiere el presente párrafo son aquellos en los que aplica la presente Ley.
 
 En casos excepcionales, cuando no sea posible determinar por parte del Órgano de Planeación el techo financiero al inicio del ejercicio presupuestal, se tomará como referencia únicamente para efectos de definir los rangos de la tabla arriba señalada, el techo financiero con el que se concluyó el ejercicio presupuestal inmediato anterior por cada sujeto de la Ley.
@@ -373,23 +445,43 @@ El domicilio del Comité será el mismo en el que se encuentre ubicada la sede d
 
 La Secretaría integrará y operará el Padrón Estatal de Contratistas de Obra Pública que tendrá por objetivo el registro de las personas físicas y morales que deseen ejecutar obras públicas o servicios relacionados con las mismas para los Sujetos de la Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Para lo anterior, los interesados en inscribirse en el Padrón Estatal de Contratistas de Obra Pública, podrán utilizar la plataforma digital para su registro, control y firma electrónica, de conformidad con lo establecido en la Ley sobre el uso de medios electrónicos para el Estado de Aguascalientes, así mismo, para este fin, los interesados deberán cubrir previamente ante (sic) Secretaría de Finanzas del Estado, el costo de su registro, conforme a las tarifas establecidas en la Ley de Ingresos del Estado de Aguascalientes, para el ejercicio fiscal vigente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
+
 El Padrón Estatal de Contratistas de Obra Pública proporcionará a los Sujetos de la Ley, la información completa, confiable y oportuna sobre las personas con capacidad para realizar obras y prestar servicios en las mejores condiciones y con la mejor calidad conforme a su especialidad, capacidad técnica y económica, así como por su domicilio.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 Los Sujetos de la Ley sólo podrán celebrar contratos de obra pública o servicios relacionados con las personas físicas o morales inscritas en el Padrón Estatal de Contratistas de Obra Pública. Sin embargo, cualquier persona física o moral podrá participar en procesos de licitación pública sin encontrarse inscrito, siempre que cubra los requisitos indicados en el Artículo 29 de esta Ley al presentar su propuesta y no se encuentre en los supuestos indicados en los Artículos 32 y 33 de esta Ley. Para participar dentro de una invitación a cuando menos cinco participantes y/o ser considerado para una adjudicación directa, deberá estar inscrito en el Padrón Estatal de Contratistas o cuando menos haber iniciado el proceso de inscripción debiendo contar como mínimo con un registro provisional.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
+
 En el caso de aquellas obras indicadas en las fracciones II, IV y VI del artículo 45 de esta Ley y las que tengan un techo financiero menor a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, incluyendo el Impuesto al Valor Agregado, podrá contratarse sin que el contratista se encuentre registrado en el Padrón Estatal de Contratistas de Obra Pública.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 La Secretaría dará publicidad al Padrón Estatal de Contratistas de Obra Pública, a través del Comité Interinstitucional del Estado de Aguascalientes, integrado por los Sujetos de la Ley, con los datos, la periodicidad, métodos, bases y lineamientos que se establezcan en el Reglamento.
 
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
+
 Los Sujetos de la Ley podrán llevar un registro de calificaciones para procedimientos de selección y consideración para adjudicaciones directas o invitación restringida. Por lo cual se deberán incluir, en el Reglamento de esta Ley los criterios a seguir para la calificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 29.
 
-Las personas físicas o morales interesadas en inscribirse al Padrón Estatal de Contratistas de Obra Pública y participar como contratistas y/o como prestadores de servicios, deberán de proporcionar a la Secretaría, lo que corresponda de la siguiente documentación:
+Las personas físicas o morales interesadas en inscribirse al Padrón Estatal de Contratistas de Obra Pública y participar como contratistas y/o como prestadores de servicios relacionados, deberán de presentar a la Secretaría, por medios electrónicos conforme a las disposiciones administrativas y el sistema informático que para el efecto implemente la Secretaría, lo que corresponda a la siguiente documentación:
 
-I. Original de la ficha de registro de datos generales de las personas interesadas y solicitud de inscripción al Padrón;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-II. Original y copia de la constancia de inscripción ante el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público;
+I. Ficha de registro de datos generales de las personas interesadas y solicitud de inscripción al Padrón;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+II. Constancia de inscripción ante el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público;
 
 III. Opinión de Cumplimiento de Obligaciones Fiscales, que se obtiene a través de la página de Internet del Servicio de Administración Tributaria, el cual deberán constar en sentido positivo en los términos de lo dispuesto por el Código Fiscal de la Federación, y estar vigente al día de la inscripción o refrendo en el Padrón, según sea el caso;
 
@@ -397,35 +489,75 @@ IV. Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales y de
 
 V. Para personas morales, copia certificada de la escritura constitutiva y en su caso de sus modificaciones, debidamente inscrita en el Registro Público de la Propiedad en la Sección de Comercio; para personas físicas, original o copia certificada del acta de nacimiento; además, en ambos casos, documentos que acrediten la personalidad del solicitante, el objeto de la empresa debe ser relacionado con el giro de la industria de la construcción de obra pública o privada de acuerdo a lo estipulado en el Artículo 2° Fracciones XIII y XX de esta ley;
 
-VI. Original del currículum de la empresa y del personal técnico que apoye a la empresa, sea por nómina o por honorarios y que esté facultado para ejercer la profesión, de conformidad con la Ley de Profesiones del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-VII. Original del inventario de maquinaria y equipo disponibles de su propiedad;
+VI. Currículum de la empresa y del personal técnico que apoye a la empresa, sea por nómina o por honorarios y que esté facultado para ejercer la profesión, de conformidad con la Ley de Profesiones del Estado de Aguascalientes;
 
-VIII. Original y copia del registro patronal ante el Instituto Mexicano del Seguro Social;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-IX. En su caso, original y copia de la constancia del registro del colegio de profesionistas que corresponda y/o de la cámara del ramo, siendo este requisito no obligatorio;
+VII. Inventario de maquinaria y equipo disponibles de su propiedad;
 
-X. Original y copia de la cédula profesional de la persona física o del responsable técnico de la persona moral; solo en el segundo caso, el responsable técnico podrá encontrarse en nómina, ser contratado por honorarios o ser socio de la empresa; cuando se encuentre en nómina o sea contratado por honorarios, además se deberá presentar una carta de aceptación de tal responsabilidad por parte del técnico responsable. Se hacen las aclaraciones de que el técnico responsable solo podrá serlo de él mismo y de máximo dos personas morales que lo llegasen a contratar y de que la cédula profesional deberá de ser de profesión cuyos estudios académicos avalen la especialidad declarada por el interesado. Si es el caso que dicho profesionista funja como superintendente o residente de obra, al ser contratada su representada, solo podrá serlo en una obra a la vez, a menos que se especifique lo contrario en las bases de licitación o en la minuta de la junta de aclaraciones de dudas mencionada en el Artículo 36 fracción IX de este ordenamiento, esta condición aplica igualmente para cualquier profesionista que sea asignado por el contratista para ocupar las funciones de superintendente y/o residente de obra;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XI. Original de la declaración escrita de no estar en los supuestos del Artículo 56 de esta Ley;
+VIII. Registro patronal ante el Instituto Mexicano del Seguro Social;
 
-XII. Original y copia de la declaración anual del ejercicio fiscal inmediato anterior, presentado ante la Secretaría de Hacienda y Crédito Público y para el caso de empresas de reciente creación que al momento de la inscripción en el Padrón no estén obligadas por la Secretaría de Hacienda y Crédito Público a presentar la declaración mencionada, deberán presentar los estados financieros avalados por Contador Público Certificado ante la Secretaría de Hacienda y Crédito Público, actualizados a la fecha de inscripción con un máximo de tres meses; y
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-XIII. Análisis de indirectos de oficina central de la empresa, el cual deberá ser revisado y autorizado por la Secretaría.
+IX. Constancia del registro del colegio de profesionistas que corresponda y/o de la cámara del ramo, siendo este requisito no obligatorio;
 
-En el caso de inscripciones para participar como contratistas, los interesados deberán entregar la totalidad de los documentos que se mencionan en las fracciones anteriores; para el caso de prestadores de servicios, se omitirá (sic) las fracciones VI, IX y XIII, mientras que las fracciones VIII Y XII se solicitarán solo si son aplicables para el tipo de servicio que se preste.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-En todos los casos, a la recepción de los documentos relacionados en las fracciones anteriores, se cotejarán los originales con las copias de los mismos y se reintegrarán los originales a los interesados, a excepción de aquellos que la Secretaría debe conservar.
+X. Cédula profesional de la persona física o del responsable técnico de la persona moral; solo en el segundo caso, el responsable técnico podrá encontrarse en nómina, ser contratado por honorarios o ser socio de la empresa; cuando se encuentre en nómina o sea contratado por honorarios, además se deberá presentar una carta de aceptación de tal responsabilidad por parte del responsable técnico. Se hacen las aclaraciones de que el responsable técnico solo podrá serlo de él mismo y de máximo dos personas morales que lo llegasen a contratar y de que la cédula profesional deberá de ser de profesión cuyos estudios académicos avalen la especialidad declarada por el interesado. Si es el caso que dicho profesionista funja como superintendente o residente de obra, al ser contratada su representada, solo podrá serlo en una obra a la vez, a menos que se especifique lo contrario en las bases de licitación o en la minuta de la junta de aclaraciones de dudas mencionada en el Artículo 36 fracción IX de este ordenamiento, esta condición aplica igualmente para cualquier profesionista que sea asignado por el contratista para ocupar las funciones de superintendente y/o residente de obra;
 
-Cualquier persona física o moral que desee estar inscrita en este Padrón Estatal de Contratistas deberá comprobar tener domicilio fiscal dentro del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XI. Declaración escrita de no estar en los supuestos del artículo 56 de esta Ley;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XII. Declaración anual del ejercicio fiscal inmediato anterior, presentado ante la Secretaría de Hacienda y Crédito Público y para el caso de empresas de reciente creación que al momento de la inscripción en el Padrón no estén obligadas por la Secretaría de Hacienda y Crédito Público a presentar la declaración mencionada, deberán presentar los estados financieros avalados por Contador Público Certificado ante la Secretaría de Hacienda y Crédito Público, actualizados a la fecha de inscripción con un máximo de tres meses;
+
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIII. Análisis de indirectos de oficina central de la empresa, el cual deberá ser revisado y autorizado por la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+XIV. Escrito de manifestación, bajo protesta de decir verdad de que, la documentación entregada es veraz, autentica, vigente y corresponde a su original.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+La documentación entregada por medios electrónicos, deberá ser firmada electrónicamente por medios remotos de comunicación electrónica a través del sistema informático que para el efecto implemente la Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MAYO DE 2025)</small>
+
+En sustitución de la firma autógrafa, se emplearán medios de identificación electrónica a través de la firma electrónica, los cuales producirán los mismos efectos legales y, en consecuencia, tendrán el mismo valor probatorio.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+La Secretaría, podrá solicitar la presentación de la documentación original correspondiente a cualquiera de las fracciones anteriores del presente artículo, para su debido cotejo y verificación de su autenticidad.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+En el caso de solicitar la inscripción al Padrón Estatal para participar como contratistas, los interesados deberán entregar de manera física o por medios electrónicos la totalidad de los documentos que se mencionan en las fracciones anteriores con firma autógrafa, o firma electrónica, según corresponda respectivamente; para el caso de prestadores de servicios relacionados, se omitirán las fracciones VI, IX y XIII, mientras que las fracciones VIII Y XII se solicitarán solo si son aplicables para el tipo de servicio que se preste.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE MAYO DE 2025)</small>
+
+Para contar con el Registro en el Padrón Estatal de Contratistas, cualquier persona física o moral deberá comprobar su domicilio fiscal dentro del Estado de Aguascalientes.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 La Secretaría podrá verificar por cualquier medio y en cualquier tiempo la razonabilidad y la veracidad de la información que proporcione el interesado, de acuerdo a lo establecido para las visitas de verificación previstas en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 30.
 
-El registro en el Padrón Estatal de Contratistas de Obra Pública tendrá vigencia durante el año en que haya sido solicitado y autorizado, contado a partir del día en que se entregue la constancia provisional de inscripción y hasta el treinta y uno de diciembre; a partir del primer día hábil del mes de enero de cada año, los interesados podrán solicitar la revalidación de su registro, debiendo entregar solamente lo indicado en las Fracciones IV, V, VII, IX, X y XI del Artículo anterior, actualizando la información a que se refiere cada uno; si del resto de las Fracciones hubiera (sic) existido modificaciones, deberá entregarse el documento respectivo al momento de la revalidación. De lo contrario, deberá manifestar por escrito que la documentación existente en el Padrón no tiene ningún cambio, así mismo si durante el año de vigencia se tiene alguna modificación en la situación legal de la empresa se podrá solicitar por escrito la modificación correspondiente acompañada de la documentación que acredite, esta condición aplica para cualquier profesionista que sea asignado por el contratista para ocupar las funciones de representante técnico.
+El registro en el Padrón Estatal de Contratistas de Obra Pública tendrá vigencia durante el año en que haya sido solicitado y autorizado, contado a partir del día en que se entregue la constancia provisional de inscripción y hasta el treinta y uno de diciembre; a partir del primer día hábil del mes de enero de cada año, los interesados podrán solicitar la revalidación de su registro, debiendo entregar solamente lo indicado en las Fracciones IV, V, VII, IX, X y XI del Artículo anterior, actualizando la información a que se refiere cada uno; si del resto de las Fracciones hubieran existido modificaciones, deberá entregarse el documento respectivo al momento de la revalidación. De lo contrario, deberá manifestar por escrito que la documentación existente en el Padrón no tiene ningún cambio, así mismo si durante el año de vigencia se tiene alguna modificación en la situación legal de la empresa se podrá solicitar por escrito la modificación correspondiente, acompañada de la documentación que acredite, esta condición aplica para cualquier profesionista que sea asignado por el contratista para ocupar las funciones de representante técnico.
 
-La Secretaría otorgará un Registro Provisional al interesado en inscribirse a este Padrón, al momento de cumplir con la totalidad de los requisitos solicitados, misma que no excederá del plazo referido en el presente artículo y cuya vigencia será hasta en tanto se emita la Cédula de Insripción (sic) definitiva.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+La Secretaría otorgará un Registro Provisional al interesado en inscribirse a este Padrón, al momento de cumplir con la totalidad de los requisitos solicitados, misma que no excederá del plazo referido en el presente artículo y cuya vigencia será hasta en tanto se emita la Cédula de Inscripción definitiva.
 
 ###### Artículo 31.
 
@@ -499,7 +631,9 @@ V. El capital contable mínimo con el que deberán cumplir los licitantes, mismo
 
 VI. La indicación de que no se permitirá la inscripción a la licitación a aquellas empresas que tengan, al momento de la inscripción, un atraso mayor al 10% en tiempo, por causas imputables a ellas mismas, en cualquier contrato celebrado con el Sujeto de la Ley convocante. El área de supervisión correspondiente deberá informar al área convocante del Sujeto de la Ley de la situación que guarde cada obra;
 
-VII. El lugar, las fechas y horarios en que podrán los interesados inscribirse a dicho proceso licitatorio, mismas que serán desde la publicación de la convocatoria y hasta nueve días calendario previos al acto de presentación y apertura de propuestas, siendo responsabilidad de los interesados acudir oportunamente a la inscripción al Padrón Estatal de Contratistas de Obra Pública. La convocante, dentro de los dos días hábiles siguientes al de la recepción de los documentos, resolverá si el interesado cumple con los requisitos exigidos para que éste pueda considerarse inscrito y, por tanto, proceda a la compra de las bases; en el supuesto que no satisfaga los requisitos, se le hará saber por escrito al interesado dentro del mismo plazo, las razones de tal negativa;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VII. El lugar, las fechas y horarios en que podrán los interesados inscribirse a dicho proceso licitatorio, mismas que serán desde la publicación de la convocatoria y hasta nueve días calendario previos al acto de presentación y apertura de propuestas siendo responsabilidad de los interesados acudir oportunamente a la inscripción al Padrón Estatal de Contratistas de Obra Pública. La convocante, dentro de los dos días hábiles siguientes al de la recepción de los documentos, resolverá si el interesado cumple con los requisitos exigidos para que éste pueda considerarse inscrito y, por tanto, proceda a la compra de las bases; en el supuesto que no satisfaga los requisitos, se le hará saber al interesado dentro del mismo plazo, las razones de tal negativa;
 
 VIII. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando el documento que contenga las bases, implique un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen, para lo cual el gasto total se dividirá entre el número mínimo de participantes que se estime adquirirán las bases, dentro del cual no podrán incluirse los costos relativos a indirectos, asesorías, estudios, materiales de oficina, mensajería y cualesquiera otros relacionados con la preparación de las bases. Los interesados podrán revisar tales documentos previamente al pago de dicho costo, el cual será requisito para participar en la licitación;
 
@@ -533,9 +667,15 @@ I. Nombre, denominación o razón social y domicilio de la convocante;
 
 II. Poderes del licitante que deberán acreditarse, si no está inscrito en el Padrón Estatal de Contratistas de Obra Pública;
 
-III. Fecha, hora y lugar de la visita de obra y de la junta de aclaraciones y modificaciones a las bases de licitación siendo obligatoria la asistencia a las reuniones que, en su caso, se realicen, así como la indicación de que, en caso de no asistir el licitante a ambos eventos, no será recibida su propuesta;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
-V (SIC). La utilización de los medios de difusión electrónica que para tal efecto establezca el Órgano de Control;
+III. Fecha, hora y lugar de la visita de obra y de la junta de aclaraciones y modificaciones a las bases de licitación siendo optativa la asistencia a las juntas de aclaraciones que, en su caso, se realicen; la obligatoriedad de asistir a la visita de obra, así como la indicación de que, en caso de no asistir el licitante, no será recibida su propuesta;
+
+> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+
+IV. Fecha, hora y lugar para la presentación y apertura de propuestas;
+
+V. La utilización de los medios de difusión electrónica que para tal efecto establezca el Órgano de Control;
 
 VI. Señalamiento de que será causa de desechamiento, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación o la comprobación de que algún licitante acuerde con otros, elevar o disminuir el costo de los trabajos o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes, así como el proporcionar información o documentación que resulte falsa;
 
@@ -545,7 +685,9 @@ VIII. La indicación de que las propuestas se presentarán en moneda nacional;
 
 IX. La indicación de que, a partir del término de la junta o juntas de aclaraciones o en su caso de la última de ellas, ninguna de las condiciones contenidas en las bases de la licitación, así como en las propuestas presentadas por los licitantes, podrán ser negociadas;
 
-X. Los procedimientos claros y detallados para la adjudicación de los contratos, de acuerdo al Artículo 44 de esta Ley, y de su Reglamento;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+X. Los procedimientos claros y detallados para la adjudicación de los contratos, de acuerdo al artículo 43 de esta Ley, y de su Reglamento;
 
 XI. Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones de construcción aplicables; catálogo de conceptos, cantidades y unidades de trabajo y los aranceles que el Consejo Consultivo de la Construcción de común acuerdo con la Secretaría señalen como referencia para determinar los sueldos y honorarios del personal técnico;
 
@@ -629,7 +771,9 @@ IV. En la segunda etapa, una vez conocido el resultado técnico mediante la lect
 
 V. Se señalarán fecha, lugar y hora en que se dará a conocer el fallo de la licitación; esta fecha deberá quedar comprendida dentro de los veinte días naturales contados a partir de la fecha de inicio de la primera etapa, y podrá diferirse siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo;
 
-VI. Se levantará acta de la segunda etapa, en la que se hará constar, como mínimo, el resultado técnico del análisis de las ofertas aceptadas en la primera etapa, las propuestas aceptadas para el análisis cualitativo en la segunda etapa, sus importes y porcentajes de utilidad, el promedio aritmético de los montos de las propuestas completas, el promedio estadístico de los porcentajes de utilidad de las propuestas completas, el rango y los montos mínimo y máximo mencionados en el Artículo 43 de la Ley, así como las propuestas que hubieren sido desechadas y los fundamentos legales y las causas que lo motivaron; el acta será firmada por los participantes y se les entregará copia de la misma, la falta de algunas firmas no invalidará su contenido y efectos, la convocante deberá realizar un análisis cualitativo y detallado de las propuestas económicas aceptadas, debiendo dar a conocer el resultado a los licitantes en el acto de fallo correspondiente;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+VI. Se levantará acta de la segunda etapa, en la que se hará constar, como mínimo, el resultado técnico del análisis de las ofertas aceptadas en la primera etapa, las propuestas aceptadas para el análisis cualitativo en la segunda etapa, sus importes y porcentajes de utilidad, el promedio aritmético de los montos de las propuestas completas, el promedio estadístico de los porcentajes de utilidad de las propuestas completas, el rango y los montos mínimo y máximo mencionados en el artículo 43 de la Ley, así como las propuestas que hubieren sido desechadas y los fundamentos legales y las causas que lo motivaron; El acta será firmada por los participantes y se les entregará copia de la misma a los licitantes que participaron, la falta de algunas firmas no invalidará su contenido y efectos, la convocante deberá realizar un análisis cualitativo y detallado de las propuestas económicas aceptadas, debiendo dar a conocer el resultado a los licitantes en el acto de fallo correspondiente;
 
 VII. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de propuestas. En sustitución de esta junta, la convocante podrá optar por comunicar el fallo de la licitación, por escrito a cada uno de los licitantes, siempre que éste se notifique a todos ellos el mismo día; y
 
@@ -653,7 +797,9 @@ e) Que las propuestas de los licitantes no presenten datos iguales o similares e
 
 II. Previo a la revisión cualitativa y detallada de las propuestas económicas aceptadas en la revisión cuantitativa, por encontrarse completas, el Sujeto de la Ley convocante deberá revisar que los montos de las propuestas no rebasen los límites mínimo y máximo que se establezcan, estos límites se obtendrán de la siguiente manera:
 
-a) De las propuestas aceptadas en la revisión cuantitativa de las propuestas económicas y anterior a la firma del acta correspondiente a la segunda etapa del acto de presentación y apertura de propuestas, se obtendrá el promedio aritmético de los montos totales de las propuestas aceptadas hasta ese momento, debiendo incluir, para obtener este promedio, el presupuesto base del Sujeto de la Ley, pero sin tomar en cuenta, sólo para este cálculo, el monto más alto y el más bajo del conjunto formado por las propuestas económicas aceptadas como completas y el presupuesto base; al resultado se le denominará "promedio" y estará representado en pesos;
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+a) De las propuestas aceptadas en la revisión cuantitativa se obtendrá el promedio aritmético de los montos totales de las propuestas aceptadas hasta ese momento, debiendo incluir, para obtener este promedio, el presupuesto base del Sujeto de la Ley, pero sin tomar en cuenta, sólo para este cálculo, el monto más alto y el más bajo del conjunto formado por las propuestas económicas aceptadas como completas y el presupuesto base; al resultado se le denominará "promedio" y estará representado en pesos;
 
 b) Del total de las propuestas económicas aceptadas como completas, se obtendrá el promedio estadístico de los porcentajes de utilidad; en este caso se considerarán, para el cálculo, todos los porcentajes de utilidad de las propuestas económicas aceptadas como completas, a excepción, sólo para este cálculo, del porcentaje de utilidad más bajo que se haya propuesto, en caso de que dos o más propuestas coincidan con la utilidad más baja solo se exceptuara una, no debiendo incluir el presupuesto base; al promedio de utilidades obtenido se le denominará "rango";
 
@@ -697,7 +843,9 @@ Contra la resolución que contenga el fallo no procederá recurso alguno en el m
 
 Los Sujetos de la Ley no adjudicarán el contrato cuando las posturas presentadas no reúnan los requisitos indicados en esta Ley y en las bases de la licitación o sus precios no fueren aceptables o las propuestas rebasen el techo financiero aprobado declarándose desierta la licitación, y expedirán una segunda convocatoria.
 
-La convocante podrá cancelar una licitación por casos fortuitos o de fuerza mayor, para lo cual, si la cancelación se da desde la publicación hasta el cierre de las inscripciones, se notificará por el mismo medio que se convocó, y a partir de este momento, la notificación se hará por escrito a los licitantes.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+La convocante podrá cancelar una licitación por caso fortuito; fuerza mayor; existan circunstancias justificadas, que provoquen la extinción de la necesidad de contratar los trabajos, o que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio al Estado o Municipio. La determinación de dar por cancelada la licitación, deberá precisar el acontecimiento que motiva la decisión. Si la cancelación se da desde la publicación hasta el cierre de las inscripciones, se notificará por el mismo medio que se convocó, y a partir de este momento, la notificación se hará por escrito a los licitantes.
 
 ### CAPITULO SÉPTIMO. Las Excepciones a la Licitación Pública
 
@@ -763,7 +911,13 @@ III. En las bases de licitación o en las invitaciones a cotizar se indicarán, 
 
 IV. Los interesados que acepten participar adquirirán las bases de licitación, y quedarán obligados a presentar su proposición, salvo en situaciones de fuerza mayor en que el licitante deberá presentar un escrito de disculpa a más tardar el día en que se celebre el acto de presentación de las propuestas correspondientes;
 
-V. Los plazos para la presentación de las propuestas se fijarán para cada obra o servicio relacionado atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos debiendo ser cuando menos de siete días naturales contados a partir de la fecha de celebración de la junta de aclaraciones para las invitaciones restringidas a cuando menos cinco participantes y de al menos tres días hábiles a partir de la entrega del escrito para cotizar y del catálogo de conceptos en la asignación directa;
+> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+
+V. Los plazos para la presentación de las propuestas se fijarán para cada obra o servicio relacionado atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos debiendo ser cuando menos de siete días naturales contados a partir de la fecha de celebración de la junta de aclaraciones para las invitaciones restringidas a cuando menos cinco participantes y de al menos tres días hábiles a partir de la entrega del escrito para cotizar y del catálogo de conceptos en la asignación directa.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Para el caso de Invitación restringida, la visita al sitio es obligatoria, la asistencia a las juntas de aclaración de dudas podrá ser presencial o a distancia a través de medios electrónicos y su asistencia será optativa y no obligatoria;
 
 VI. No serán aplicables, para formular las invitaciones correspondientes, las fracciones I, III, V y VII del Artículo 36 de la presente Ley; y
 
@@ -1021,7 +1175,9 @@ La aplicación del procedimiento de ajustes de costos a que se refiere el Artíc
 
 I. Los ajustes se calcularán a partir de la fecha en que se haya producido el incremento o decremento en el costo de los insumos, respecto de los trabajos faltantes de ejecutar conforme al programa de ejecución pactado en el contrato o en caso de existir atraso no imputable al contratista, con respecto al programa que se hubiere convenido.
 
-Para efectos de cada una de las revisiones y ajustes de los costos, que se presenten durante la ejecución de los trabajos, el mes de origen de estos será el correspondiente al de la junta de aclaraciones, aplicándose el último factor que se haya autorizado.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+Para efectos de cada una de las revisiones y ajustes de los costos, que se presenten durante la ejecución de los trabajos, el mes de origen de estos será el correspondiente al del acto de presentación y apertura de proposiciones, aplicándose el último factor que se haya autorizado.
 
 Cuando existan trabajos ejecutados fuera del periodo programado, por causa imputable al contratista, el ajuste se realizará considerando el periodo en que debieron ser ejecutados, conforme al programa convenido, salvo en el caso de que el factor de ajuste correspondiente al mes en el que efectivamente se ejecutaron, sea inferior a aquel en que debieron ejecutarse, en cuyo supuesto se aplicará este último;
 
@@ -1053,9 +1209,11 @@ c) Cuando proceda, importe de la obra pendiente de ejecutar reflejado en la expl
 
 VIII. Los demás lineamientos que para el efecto se emitan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 65.
 
-Los Sujetos de la Ley, podrán dentro del techo financiero autorizado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obra pública mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente no rebasen el veinticinco por ciento del monto pactado originalmente en el contrato, ni impliquen variaciones substanciales al proyecto original. Igual tratamiento operará para efectos del plazo, cuya prórroga podrá exceder del ejercicio fiscal de que se trate; ambos podrán formalizarse de manera conjunta o separada, independientemente del porcentaje de cada supuesto.
+Los Sujetos de la Ley, podrán dentro del techo financiero autorizado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obra pública mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente no rebasen el veinticinco por ciento del monto pactado originalmente en el contrato, ni impliquen variaciones substanciales al proyecto original. Igual tratamiento operará para efectos del plazo, cuya prórroga podrá exceder del ejercicio fiscal de que se trate; siempre y cuando se formalicen antes de 31 de diciembre del ejercicio fiscal en el cual se realizó la contratación y atendiendo lo establecido en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, en ambos podrán formalizarse de manera conjunta o separada, independientemente del porcentaje de cada supuesto.
 
 > <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
 
@@ -1149,7 +1307,9 @@ En el supuesto de existir atraso imputable al contratista, la penalización a la
 
 Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, el Sujeto de la Ley procederá a su recepción dentro de un plazo que no podrá exceder de diez días calendario, contados a partir de la comunicación de terminación de los trabajos asentada en bitácora. Al concluir dicho plazo, sin que el Sujeto de la Ley haya recibido los trabajos, bajo su responsabilidad, éstos se tendrán por recibidos.
 
-El Sujeto de la Ley comunicará a la Contraloría la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estima conveniente, nombre un representante que asista al acto. La asistencia al evento será para verificar la terminación y operación de la obra.
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+
+El Sujeto de la Ley comunicará al Órgano de Control que corresponda, la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estima conveniente, nombre un representante que asista al acto. La asistencia al evento será para verificar la terminación y operación de la obra.
 
 En la fecha señalada, el Sujeto de la Ley, bajo su responsabilidad, recibirá los trabajos y levantará el acta correspondiente.
 
@@ -1252,6 +1412,8 @@ La comprobación de la calidad de los trabajos se hará en los laboratorios, ins
 El resultado de las comprobaciones se hará constatar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el contratista y el representante del Sujeto de la Ley si hubieren intervenido. La falta de firma del contratista no invalidará dicho dictamen.
 
 ### CAPITULO DÉCIMO CUARTO. El Procedimiento de Conciliación
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 83.
 
@@ -1559,7 +1721,11 @@ Los contratistas podrán presentar quejas ante el Órgano de Control con motivo 
 
 Una vez recibida la queja respectiva, el Órgano de Control señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la recepción de la queja.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
+
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del contratista traerá como consecuencia el tenerlo por desistido de su queja.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 106.
 
@@ -1666,3 +1832,11 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en (sic) al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 163.- SE REFORMAN LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
