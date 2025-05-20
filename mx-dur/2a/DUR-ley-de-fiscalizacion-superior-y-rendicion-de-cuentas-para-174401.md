@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-17440
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-12"
-last_updated: "2024-09-12"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2025.
 
 Ley publicada en el Número 73 BIS del Periódico Oficial del Estado de Durango, el jueves 12 de septiembre de 2024.
 
@@ -209,7 +209,9 @@ La Auditoría podrá iniciar el proceso de fiscalización a partir del primer d�
 
 Sin perjuicio de lo anterior la Auditoría durante el ejercicio fiscal en curso, podrá revisar los procesos concluidos que los sujetos de fiscalización reporten en sus informes preliminares, así como las acciones que deban registrarse como comprometidas o devengadas, además de aquellos hechos que se deriven de denuncias y que pudieran constituir daño a la hacienda pública o al patrimonio de los entes públicos. Las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la cuenta pública respectiva.
 
-La Entidad, deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el informe de resultados correspondiente, en términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
+La Auditoría, deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el informe de resultados correspondiente, en términos de las disposiciones legales aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -217,7 +219,9 @@ A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y
 
 La interpretación de esta Ley estará a cargo de la Auditoría, basándose para ello en los principios y normas internacionales de auditoría, postulados básicos de contabilidad gubernamental y demás doctrina relativa a la fiscalización.
 
-La Entidad, publicará en el Periódico Oficial del Gobierno del Estado de Durango, su normativa interna conforme a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
+La Auditoría, publicará en el Periódico Oficial del Gobierno del Estado de Durango, su normativa interna conforme a las disposiciones legales aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -355,7 +359,9 @@ IX. Requerir a terceros que hubieran contratado con las entidades fiscalizadas o
 
 X. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas que, a juicio de la Auditoría, sea necesaria para llevar a cabo las auditorías correspondientes, sin importar el carácter de confidencial o reservado de la misma, que obren en poder de los entes fiscalizables; de los Órganos Internos de Control; de los auditores externos que contrate para efectos de practicar revisiones a los entes fiscalizables y, en su caso, de los particulares que hayan celebrado operaciones financieras con los entes públicos.
 
-La Entidad, tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial, cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos, egresos, deuda pública y obligaciones, estando obligada a mantener la misma confidencialidad y reserva, en términos de las disposiciones aplicables. Dicha información, solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Auditor o Auditora Superior y en su caso, por los auditores generales a que se refiere esta Ley.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
+La Auditoría, tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial, cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos, egresos, deuda pública y obligaciones, estando obligada a mantener la misma confidencialidad y reserva, en términos de las disposiciones aplicables. Dicha información, solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Auditor o Auditora Superior y en su caso, por los auditores generales a que se refiere esta Ley.
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría, información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones en términos de la legislación aplicable. Dicha información será conservada por la Auditoría, en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
@@ -367,7 +373,9 @@ XIII. Formular recomendaciones, solicitudes de aclaración, pliegos de observaci
 
 XIV. Promover y dar seguimiento ante las autoridades competentes la imposición de las sanciones que correspondan a los servidores públicos y particulares, por actos u omisiones susceptibles de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables, así como presentar, en su caso, denuncias y querellas.
 
-Para la promoción de las responsabilidades, la autoridad investigadora, una vez concluidas las investigaciones respectivas, presentará el informe de presunta responsabilidad administrativa correspondiente ante la autoridad substanciadora de la propia Entidad para que ésta, en caso de ser procedente, turne y presente el expediente, ante el Tribunal.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
+Para la promoción de las responsabilidades, la autoridad investigadora, una vez concluidas las investigaciones respectivas, presentará el informe de presunta responsabilidad administrativa correspondiente ante la autoridad substanciadora de la propia Auditoría para que ésta, en caso de ser procedente, turne y presente el expediente, ante el Tribunal.
 
 Cuando detecte la existencia de posibles faltas administrativas no graves, dará vista a los Órganos Internos de Control competentes para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan de conformidad con las disposiciones de la Ley General de Responsabilidades.
 
@@ -593,9 +601,11 @@ El dictamen de la Cuenta Pública no suspende el trámite de las acciones promov
 
 ### Capítulo I. De la fiscalización del Gasto Federalizado
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 42.
 
-La Entidad, para efectos de la elaboración del informe de resultados de fiscalización de Cuenta Pública, podrá fiscalizar los recursos federales que administren o ejerzan los entes públicos, así como los que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+La Auditoría, para efectos de la elaboración del informe de resultados de fiscalización de Cuenta Pública, podrá fiscalizar los recursos federales que administren o ejerzan los entes públicos, así como los que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
 ###### ARTÍCULO 43.
 
@@ -605,9 +615,11 @@ Cuando se acrediten afectaciones a la hacienda pública federal o al patrimonio 
 
 ### Capítulo II. De la fiscalización de las participaciones federales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 44.
 
-La Entidad, para efectos de la elaboración del informe de resultados de fiscalización de Cuenta Pública, podrá fiscalizar las participaciones federales, con independencia de los mecanismos de coordinación que hubiere celebrado con la Auditoría Superior de la Federación, en términos del artículo 79, fracción I, párrafo segundo, de la Constitución Federal. En todo caso, fiscalizará las participaciones federales conforme a los lineamientos técnicos que contengan los mecanismos de coordinación y colaboración correspondientes y que tendrán por objeto homologar y hacer eficiente y eficaz la fiscalización de las participaciones que ejerza el Estado, los municipios y en general, todos los entes públicos.
+La Auditoría, para efectos de la elaboración del informe de resultados de fiscalización de Cuenta Pública, podrá fiscalizar las participaciones federales, con independencia de los mecanismos de coordinación que hubiere celebrado con la Auditoría Superior de la Federación, en términos del artículo 79, fracción I, párrafo segundo, de la Constitución Federal. En todo caso, fiscalizará las participaciones federales conforme a los lineamientos técnicos que contengan los mecanismos de coordinación y colaboración correspondientes y que tendrán por objeto homologar y hacer eficiente y eficaz la fiscalización de las participaciones que ejerza el Estado, los municipios y en general, todos los entes públicos.
 
 Cuando se acrediten afectaciones a la hacienda pública federal o al patrimonio de los entes públicos federales, la Auditoría procederá a formularles el pliego de observaciones correspondiente y, de cuyos resultados, una vez concluido el procedimiento, informará a su similar de la federación para los efectos procedentes.
 
@@ -783,9 +795,11 @@ La autoridad investigadora de la Auditoría, elaborará el informe de presunta r
 
 Las responsabilidades que se finquen a las personas servidoras públicas de los entes fiscalizables, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 66.
 
-La autoridad investigadora de la Auditoría promoverá el informe de presunta responsabilidad administrativa ante la autoridad substanciadora de la propia Entidad, cuando los pliegos de observaciones no sean solventados por los entes fiscalizables y en su caso, directamente por los presuntos infractores.
+La autoridad investigadora de la Auditoría promoverá el informe de presunta responsabilidad administrativa ante la autoridad substanciadora de la propia Auditoría, cuando los pliegos de observaciones no sean solventados por los entes fiscalizables y en su caso, directamente por los presuntos infractores.
 
 Lo anterior, sin perjuicio de que la autoridad investigadora pueda promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
@@ -797,9 +811,11 @@ Los Órganos Internos de Control, deberán informar a la Auditoría dentro de lo
 
 Así mismo, los Órganos Internos de Control deberán informar a la Auditoría de la resolución definitiva que se determine o recaiga a sus promociones, dentro de los diez días hábiles posteriores a que se emita dicha resolución.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 68.
 
-La Entidad, en los términos de la Ley General del Sistema Nacional Anticorrupción, incluirá en la plataforma digital nacional establecida en dicha ley, información relativa a los sistemas de información específicos estipulados en la misma.
+La Auditoría, en los términos de la Ley General del Sistema Nacional Anticorrupción, incluirá en la plataforma digital nacional establecida en dicha ley, información relativa a los sistemas de información específicos estipulados en la misma.
 
 ### Capítulo II. Del Recurso de Reconsideración
 
@@ -987,9 +1003,11 @@ XV. Analizar la información, en materia de fiscalización superior, de contabil
 
 XVI. Las demás que le atribuyan expresamente las disposiciones legales y la normativa interior del Congreso.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 87.
 
-La Comisión presentará directamente a la Auditoría, un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el último día hábil del mes de mayo, del año en que se presente el informe anual. La Entidad, dará cuenta de su atención al presentar el informe anual del ejercicio siguiente.
+La Comisión presentará directamente a la Auditoría, un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el último día hábil del mes de mayo, del año en que se presente el informe anual. La Auditoría, dará cuenta de su atención al presentar el informe anual del ejercicio siguiente.
 
 ### Capítulo II. De la vigilancia de la Auditoría
 
@@ -1075,9 +1093,11 @@ En caso de que ninguno de los candidatos obtenga la votación requerida, el Cong
 
 La persona titular de la Auditoría, durará en el encargo siete años y podrá ser ratificada por una sola vez. Podrá ser removida por el Congreso por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en la presente ley, en concordancia con lo dispuesto por el Título Séptimo, Capítulo III, de la Constitución Local; si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 96.
 
-En caso de falta definitiva, renuncia o remoción del Auditor o Auditora Superior, la Comisión informará al Congreso para que éste designe a quien deba sustituirle conforme al procedimiento previsto en el artículo 94 de esta ley. En tanto la designa el Congreso, la Junta de Gobierno notificará a la persona servidora pública subalterna, para que funja de encargada de la Entidad, cuyo encargo no podrá exceder de noventa días hábiles.
+En caso de falta definitiva, renuncia o remoción del Auditor o Auditora Superior, la Comisión informará al Congreso para que éste designe a quien deba sustituirle conforme al procedimiento previsto en el artículo 94 de esta ley. En tanto la designa el Congreso, la Junta de Gobierno notificará a la persona servidora pública subalterna, para que funja de encargada de la Auditoría, cuyo encargo no podrá exceder de noventa días hábiles.
 
 En caso de conclusión del encargo y de no haberse realizado la designación o ratificación correspondiente, la Junta de Gobierno designará al Auditor o Auditora Superior Interino, cuyo nombramiento no podrá exceder de noventa días hábiles.
 
@@ -1181,7 +1201,9 @@ XXXIII. Expedir las políticas de integridad bajo las cuales deberá conducirse 
 
 XXXIV. Promover la profesionalización y mejora continua del personal de la Auditoría, en materia de fiscalización, auditoría gubernamental y temas afines que permitan incrementar la calidad profesional del personal involucrado.
 
-Así mismo, promover el desarrollo de capacidades, tanto al personal de la propia Entidad, como de los entes fiscalizables, en todas aquellas materias inherentes a sus respectivas funciones, a través de cursos, seminarios, talleres, diplomados, conferencias y demás mecanismos e instrumentos técnicos y didácticos que se consideren necesarios para este propósito, por sí o a través de expositores o capacitadores externos;
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
+Así mismo, promover el desarrollo de capacidades, tanto al personal de la propia Auditoría, como de los entes fiscalizables, en todas aquellas materias inherentes a sus respectivas funciones, a través de cursos, seminarios, talleres, diplomados, conferencias y demás mecanismos e instrumentos técnicos y didácticos que se consideren necesarios para este propósito, por sí o a través de expositores o capacitadores externos;
 
 XXXV. Imponer las multas conforme a los supuestos y términos previstos en esta Ley, y en su caso abstenerse de sancionar al infractor por una sola ocasión, bajo su más estricta responsabilidad, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor. Así mismo, podrá otorgar descuentos en el importe de las multas impuestas, conforme los lineamientos emitidos para tal efecto. Lo anterior procederá únicamente previa solicitud del infractor.
 
@@ -1379,7 +1401,9 @@ SEGUNDO. Se abroga la Ley de Fiscalización Superior del Estado de Durango, publ
 
 TERCERO. Los procedimientos administrativos iniciados o que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización Superior del Estado de Durango que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del año 2023 en tanto no contravengan lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
-CUARTO. La Entidad, deberá actualizar y, en su caso, publicar la normativa y lineamientos que conforme a sus atribuciones deba expedir, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, quedando sin efectos la normativa y lineamientos emitidos con fecha anterior a la promulgación de la presente ley.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
+
+CUARTO. La Auditoría, deberá actualizar y, en su caso, publicar la normativa y lineamientos que conforme a sus atribuciones deba expedir, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, quedando sin efectos la normativa y lineamientos emitidos con fecha anterior a la promulgación de la presente ley.
 
 QUINTO. La Comisión deberá emitir la reglamentación interior de la Unidad Técnica conforme a lo previsto en esta Ley, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente ley.
 
@@ -1414,3 +1438,13 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLAREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 169 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
