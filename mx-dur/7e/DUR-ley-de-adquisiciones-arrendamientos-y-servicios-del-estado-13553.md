@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1355
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2024-12-01"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 31 de diciembre de 1998.
 
@@ -333,9 +333,9 @@ En caso de que los proveedores incumplan con las obligaciones derivadas de los c
 
 La situación descrita en el párrafo anterior deberá hacerse del inmediato conocimiento de la Contraloría, por escrito, por conducto de los titulares de los organismos contratantes para su respectivo seguimiento y evaluación.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2025)</small>
 
-Lo dispuesto en este artículo no aplica a los contratos celebrados conforme a la Ley de Proyectos de Inversión y Prestación de Servicios.
+Lo dispuesto en este artículo no aplica a los contratos celebrados conforme a la Ley de Asociaciones Público Privadas para el Estado de Durango.
 
 ###### ARTÍCULO 24.
 
@@ -368,6 +368,10 @@ En las adquisiciones de papel a que se refiere el párrafo anterior, éste deber
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE JUNIO DE 2023)</small>
 
 Para el caso de pilas y baterías eléctricas, las adquisiciones se harán de manera exclusiva sobre dispositivos recargables, salvo cuando por estricta necesidad y por las características requeridas no exista dicha posibilidad en el mercado.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2025)</small>
+
+Tratándose de vehículos automotores, se procurará, dependiendo de la viabilidad financiera, la adquisición o arrendamiento de aquellas unidades que garanticen cero o bajas emisiones de gases contaminantes.
 
 ###### ARTÍCULO 26.
 
@@ -1294,5 +1298,21 @@ P.O. 1 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 065.- QUE CONTIENE REFORMA AL ARTÍCULO 41 QUATER, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL".]
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 170 QUE CONTIENE REFORMA AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 23 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 171 POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 25 BIS, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE DURANGO, EN MATERIA DE ADQUISICIONES ECOLÓGICAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
