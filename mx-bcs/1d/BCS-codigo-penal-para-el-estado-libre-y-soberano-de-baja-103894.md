@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2024-08-14"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1693,9 +1693,13 @@ Si entre los sujetos activo y pasivo de la violación existiera un vínculo matr
 
 Violación equiparada. Se equipara a la violación y se sancionará de quince a veintidós años y multa de cien a quinientos días, a quien:
 
-I. Realice cópula con persona menor de doce años de edad o con persona que no tenga capacidad para comprender el significado del hecho o por cualquier causa no pueda resistirla; o
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2025)</small>
 
-II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de doce años de edad o persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo.
+I. Realice cópula con persona menor de quince años de edad o con persona que no tenga capacidad para comprender el significado del hecho o por cualquier causa no pueda resistirla; o
+
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2025)</small>
+
+II. Introduzca por vía anal o vaginal cualquier elemento, instrumento o cualquier parte del cuerpo humano distinto del pene en una persona menor de quince años de edad o persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo.
 
 Si se ejerciera violencia física o moral, la pena prevista se aumentará en una tercera parte.
 
@@ -1707,11 +1711,11 @@ Abuso sexual. A quien sin consentimiento de una persona y sin el propósito de l
 
 Este delito se perseguirá por querella, salvo que concurra violencia o que sea cometido por ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el padrastro o la madrastra contra su hijastro, éste contra cualquiera de ellos, amasio de la madre o del padre contra cualquiera de los hijos de éstos o los hijos contra aquellos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2025)</small>
 
 ###### Artículo 180.
 
-Abuso sexual de personas menores de edad. A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de catorce años de edad o persona que no tenga capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirlo o la haga observar o ejecutar dicho acto, se le impondrán de cuatro a doce años de prisión y multa de doscientos a quinientos días.
+Abuso sexual de personas menores de edad. A quien sin propósito de llegar a la cópula ejecute un acto sexual en una persona menor de quince años de edad o persona que no tenga capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirlo o la haga observar o ejecutar dicho acto, se le impondrán de cuatro a doce años de prisión y multa de doscientos a quinientos días.
 
 Si se hiciera uso de la violencia física o moral la pena prevista se aumentará en una mitad.
 
@@ -1769,6 +1773,8 @@ Cuando el sujeto activo tenga la calidad de servidor público y haya cometido la
 
 ### CAPÍTULO V. ESTUPRO
 
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2025)</small>
+
 ###### Artículo 183 Bis.
 
 Comete el delito de ciberacoso quien hostigue, amenace o envíe contenido no requerido en una o más ocasiones que por medio de las Tecnologías de la Información y Telecomunicación, redes sociales, correo electrónico, mensajería instantánea o cualquier espacio digital y cause un daño en la dignidad personal o cualquier otro bien tutelado por la norma.
@@ -1817,7 +1823,7 @@ En el caso de que en esta conducta el sujeto activo la realice con violencia, se
 
 ###### Artículo 184.
 
-Estupro. A quien tenga cópula con persona mayor de doce y menor de dieciocho años de edad, obteniendo su consentimiento por cualquier tipo de engaño, se le impondrán de uno a seis años de prisión. Este delito se perseguirá por querella.
+Estupro. A quien tenga cópula con persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por cualquier tipo de engaño, se le impondrán de uno a seis años de prisión. Este delito se perseguirá por querella.
 
 ### CAPÍTULO VIII. EXHIBICIONISMO CORPORAL
 
@@ -4898,3 +4904,11 @@ B.O. 14 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 3062 SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3145 SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 178, EL PRIMER PÁRRAFO DEL ARTÍCULO 180 Y EL ARTÍCULO 184 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto y que se encuentren en trámite o pendientes de resolución, se seguirán substanciando hasta su conclusión conforme a las disposiciones vigentes y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
