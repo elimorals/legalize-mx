@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2025-03-14"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -89,9 +89,9 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 El Estado planeará, conducirá, coordinará y orientará la actividad económica estatal, y llevará a cabo la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, B.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 20 DE MAYO DE 2025)</small>
 
-El Estado promoverá las condiciones para el desarrollo rural sustentable integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo estatal y municipal, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación, asistencia técnica y todas las acciones necesarias para el logro de este objeto. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, así como la coordinación interinstitucional considerándolas de interés público.
+El Estado promoverá las condiciones para el desarrollo rural sustentable integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo estatal y municipal, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación, asistencia técnica y todas las acciones necesarias para el logro de este objeto. Asimismo expedirá la legislación reglamentaria para planear y organizar la producción agropecuaria, su industrialización y comercialización, así como la coordinación interinstitucional considerándolas de interés público. Así también, será función prioritaria del Estado fomentar, a través de la coordinación interinstitucional, el desarrollo sustentable de la pesca y la acuicultura.
 
 Al desarrollo económico concurrirán con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la entidad.
 
@@ -120,6 +120,10 @@ La Ley regulará el sistema Estatal de Mejora regulatoria que garantice benefici
 > <small>(ADICIONADO, B.O. 22 DE JUNIO DE 2016)</small>
 
 La Ley establecerá la creación de un catálogo estatal que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información. La inscripción en el catálogo y su actualización será obligatoria en los términos que establezca la ley.
+
+> <small>(ADICIONADO, B.O. 20 DE MAYO DE 2025)</small>
+
+El Estado promoverá, fomentará e impulsará la ciencia, la tecnología y la innovación para el desarrollo integral, sustentable y competitivo de Baja California Sur.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE NOVIEMBRE DE 2012)</small>
 
@@ -5010,3 +5014,9 @@ Las autoridades llevaran a cabo todas las acciones de carácter administrativo p
 La antigüedad de los trabajadores y defensoras y defensores públicos, no se verá afectada por su incorporación al Poder Judicial del Estado de Baja California Sur.
 
 Décimo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3148 SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
