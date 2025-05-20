@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2025-02-10"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2025.
-
-(REPUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2025)
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -513,7 +511,9 @@ V.- DE ASUNTOS COMERCIALES Y TURISTICOS.
 
 VI.- DE PESCA Y ACUICULTURA.
 
-VII.- DE COMUNICACIONES Y TRANSPORTES.
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2025)</small>
+
+VII.- DE COMUNICACIONES, TRANSPORTES, MOVILIDAD Y SEGURIDAD VIAL.
 
 VIII.-DE ASUNTOS LABORALES Y DE PREVISION SOCIAL.
 
@@ -659,13 +659,21 @@ g).- Representar al Congreso del Estado en el Consejo Estatal de Pesca y Acuacul
 
 h).- Las que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-VII.- DE COMUNICACIONES Y TRANSPORTES:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE MAYO DE 2025)</small>
+
+VII.- DE COMUNICACIONES, TRANSPORTES, MOVILIDAD Y SEGURIDAD VIAL:
 
 a).- Lo concerniente a los medios de Comunicación de Radio, Televisión, Teléfonos, Telégrafos, Correos, etc.
 
 b).- Lo relativo al transporte Aéreo, Marítimo y Terrestre, así como lo que se refiera al tránsito de todo tipo de vehículos.
 
-c).- Las demás que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE MAYO DE 2025)</small>
+
+c) Lo concerniente a la movilidad y la seguridad vial.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 20 DE MAYO DE 2025)</small>
+
+d) Las demás que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 VIII.- DE ASUNTOS LABORALES Y DE PREVISION SOCIAL:
 
@@ -677,7 +685,13 @@ c).- Lo relativo a la promoción y apoyo de la planta productiva del Estado para
 
 d).- La vigilancia del desempeño de la Procuraduría de la Defensa del Trabajo, Tribunal de Conciliación y Arbitraje para los trabajadores al servicio de los poderes del Estado y Municipios de Baja California Sur, así como las Juntas Locales de Conciliación y Arbitraje en la entidad.
 
-e).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE MAYO DE 2025)</small>
+
+e).- Lo relativo a la recepción, atención y seguimiento de las demandas y asuntos planteados que tengan el objetivo de tutelar y garantizar los derechos de las personas jubiladas y pensionadas en la entidad, así como la gestión y vinculación interinstitucional con las dependencias correspondientes para la solución de problemáticas del sector y la gestión de cualquier incremento en sus condiciones económicas, de salud y lo que se refiera a previsión y seguridad social.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 20 DE MAYO DE 2025)</small>
+
+f).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PÚBLICA:
 
@@ -3238,3 +3252,11 @@ B.O. 10 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3122 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO. - El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3147 SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 45, EL INCISO C) DE LA FRACCIÓN VII DEL ARTÍCULO 46, LA FRACCIÓN VII DEL ARTÍCULO 46 Y EL INCISO E) DE LA FRACCIÓN VIII DEL ARTÍCULO 46; Y SE ADICIONA EL INCISO D) A LA FRACCIÓN VII DEL ARTÍCULO 46, RECORRIÉNDOSE EL TEXTO DEL ACTUAL INCISO C) EN SU ORDEN SUBSECUENTE, Y EL INCISO F) A LA FRACCIÓN VIII DEL ARTÍCULO 46, RECORRIÉNDOSE EL TEXTO DEL ACTUAL INCISO E) EN SU ORDEN SUBSECUENTE; TODAS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se Derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
