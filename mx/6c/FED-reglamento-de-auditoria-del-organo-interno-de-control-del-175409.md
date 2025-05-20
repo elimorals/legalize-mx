@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-auditoria-del-organo-interno-de-control-del-17540
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-12-17"
-last_updated: "2024-12-17"
+last_updated: "2025-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175409&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2024-12-04"
 ---
 # REGLAMENTO DE AUDITORIA DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LAS DISPOSICIONES, BASES Y CRITERIOS DE LOS ACTOS DE FISCALIZACIÓN DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 20 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE AUDITORÍA DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2025 (ABROGADO).
 
 Reglamento publicado en el Número 18 del Diario Oficial de la Federación, el martes 17 de diciembre de 2024.
 
@@ -786,3 +788,23 @@ Ciudad de México. Diciembre 4, de 2024.- Actuando en suplencia por ausencia del
 (5) Publicado en el Diario Oficial de la Federación el diecinueve de agosto de dos mil quince y sus reformas publicadas en el citado medio de difusión oficial, el veintinueve de noviembre de dos mil dieciséis, el cuatro y doce de septiembre de dos mil diecisiete; ocho de febrero de dos mil diecinueve, veintiuno de julio y veintiuno de septiembre de dos mil veinte.
 
 (6) Publicado en el Diario Oficial de la Federación el ocho de enero de dos mil veintiuno.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LAS DISPOSICIONES, BASES Y CRITERIOS DE LOS ACTOS DE FISCALIZACIÓN DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL”.]
+
+PRIMERO. - Se emiten las DISPOSICIONES, BASES Y CRITERIOS DE LOS ACTOS DE FISCALIZACIÓN DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, las cuales se anexan al presente acuerdo y forma parte integrante del mismo.
+
+SEGUNDO. - El presente acuerdo y su anexo se reputan de interés general y entrarán en vigor el día siguiente de su publicación en la Gaceta Electoral del Instituto Nacional Electoral, rigiendo en todo el país para los asuntos competencia del Órgano Interno de Control del Instituto Nacional Electoral, así mismo se ordena su publicación en el Diario Oficial de la Federación.
+
+TERCERO. - Con la entrada en vigor del presente Acuerdo, se abroga el “Reglamento de Auditoría”, aprobado el 4 de diciembre del 2024 y publicado en el D.O.F. el 17 de diciembre de 2024.
+
+CUARTO. - Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, continuarán su tramitación y serán resueltos, conforme a las normas vigentes al momento de su inicio.
+
+QUINTO. - Con fundamento en el artículo 3, numeral 1, inciso g) del Reglamento de Sesiones del Consejo General del Instituto Nacional Electoral, publíquese este acuerdo en la Gaceta Electoral del Instituto Nacional Electoral, en la página de internet del Instituto Nacional Electoral, en la página de intranet en la sección relativa a este Órgano Interno de Control y en los estrados del propio Órgano Interno de Control.
+
+SEXTO. - Publíquense en el Diario Oficial de la Federación este Acuerdo General, así como las ligas electrónicas que correspondan, relacionadas con la Gaceta Electoral del Instituto Nacional Electoral y del propio Diario Oficial de la Federación donde presenten este Acuerdo íntegro; así como en la Gaceta Electoral del Instituto Nacional Electoral, en la página de internet del Instituto Nacional Electoral, en la sección relativa a este Órgano de Control, en la página de intranet del Instituto Nacional Electoral y en los estrados del mismo Órgano Interno de Control.
+
+SÉPTIMO. - Conforme a lo dispuesto por el artículo 82, inciso xx) del Reglamento Interior del Instituto Nacional Electoral, infórmese la expedición del presente acuerdo al Consejo General del propio instituto, por conducto de su Consejera Presidenta y comuníquese a la Secretaría Ejecutiva y a la Dirección Ejecutiva de Administración, ambas del Instituto Nacional Electoral, la expedición del presente acuerdo, para los efectos legales y administrativos a que haya lugar.
