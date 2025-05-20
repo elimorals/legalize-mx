@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2024-01-30"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -283,9 +283,9 @@ VI. Impulsar, en el ámbito estatal un sistema racional de administración y des
 
 VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2025)</small>
 
-VIII. Consolidar en el Sector Salud del Estado, en función de la disponibilidad presupuestal de este, un sistema de servicios, organización, funcionamiento y de ingeniería sanitaria de Bancos de Sangre y Plasma, así como de su transfusión mediante la expedición del Reglamento correspondiente y, en su caso las normas técnicas conducentes que para tal efecto elabore la Secretaria del Ramo, y a través de la necesaria puesta en operación por parte de la dependencia de los depósitos de Sangre funcionales y eficientes, ubicados en las localidades que así lo requieren dada su alta población de habitantes.
+VIII. Consolidar en el Sector Salud del Estado, en función de la disponibilidad presupuestal de este, un sistema de servicios, organización, funcionamiento y de ingeniería sanitaria de Bancos de Sangre y Plasma, así como de su transfusión mediante la expedición del Reglamento correspondiente y, en su caso las normas técnicas conducentes que para tal efecto elabore la Secretaría del Ramo, y a través de la necesaria puesta en operación por parte de la dependencia de los depósitos de sangre funcionales y eficientes, ubicados en las localidades que así lo requieren dada su alta población de habitantes. Para facilitar el proceso de donación y garantizar la disponibilidad oportuna de sangre y sus componentes, se procurará implementar horarios matutinos y vespertinos de atención a donantes, de forma que el servicio se brinde continua e ininterrumpidamente durante el año.
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4390,3 +4390,11 @@ P.O. 30 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 682.- SE REFORMA LA FRACCIÓN XX RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 7, EL ARTÍCULO 66, SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 66 DE LA LEY ESTATAL DE SALUD PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 2°, LA FRACCIÓN IV DEL ARTÍCULO 3°, LA FRACCIÓN III DEL ARTÍCULO 8° Y LA FRACCIÓN V DEL ARTÍCULO 8º BIS Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 5° DE LA LEY DE PREVENCIÓN DEL SUICIDIO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 249.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 6o, DE LA LEY ESTATAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
