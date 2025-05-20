@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2023-04-30"
+last_updated: "2025-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -633,9 +633,11 @@ IV.- Conservar en buen estado y libres de todo obstáculo, las rampas construida
 
 V.- Autorizar o negar el permiso o licencia de construcción a los establecimientos privados con acceso al público, con el objetivo de que cumplan con los espacios y la accesibilidad para las personas con discapacidad:
 
-> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 20 DE MAYO DE 2025)</small>
 
-VI.- Vigilar que los establecimientos públicos cuenten con los espacios necesarios para que las personas con discapacidad tengan un acceso digno y seguro a los espacios públicos;
+VI.- Garantizar que las instalaciones de los Parques y espacios públicos de nueva creación o donde se realicen remodelaciones, cuenten con condiciones de accesibilidad a las personas con discapacidad".
+
+Así mismo cuando se instalen Juegos infantiles en los espacios antes mencionados, se garantice también, la existencia de juegos infantiles inclusivos.
 
 VII.- Gestionar y vigilar ante las autoridades y empresas respectivas, la colocación de teléfonos públicos accesibles para personas con discapacidad, así como procurar la colocación de protectores para tensores de postes y cubiertas para coladeras, con sus respectivos señalamientos;
 
@@ -1646,3 +1648,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Sin menoscabo de lo previsto en el Artículo anterior, y para efectos de lo establecido en el Artículo Cuarto del presente Decreto, la Subsecretaría de Protección Civil funcionará una vez que entren en vigor las modificaciones contempladas en el presente Decreto, con el mismo presupuesto asignado a la Coordinación Estatal de Protección Civil.
 
 TERCERO.- Sin menoscabo de lo previsto en el Artículo Primero Transitorio de este Decreto, y para efectos de lo previsto en el Artículo Cuarto establecido en el presente Decreto, las trabajadoras y trabajadores que actualmente se encuentran asignados a la Coordinación Estatal de Protección Civil, pasarán a formar parte de la Subsecretaría de Protección Civil bajo las mismas condiciones laborales en que se encuentren actualmente, dejando por ende a salvo sus derechos laborales.
+
+B.O. 20 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3150 SE REFORMA EL NUMERAL VI DEL ARTÍCULO 33 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se exhorta a los Ayuntamientos en el Estado de Baja California Sur, en el ámbito de sus facultades y atribuciones, a que realicen las adecuaciones normativas correspondientes a fin de "garantizar que las instalaciones de los Parques y espacios públicos de nueva creación o donde se realicen remodelaciones, cuenten con condiciones de accesibilidad a las personas con discapacidad; Así mismo cuando se instalen Juegos infantiles en los espacios antes mencionados, se garantice también la existencia de juegos infantiles inclusivos"
