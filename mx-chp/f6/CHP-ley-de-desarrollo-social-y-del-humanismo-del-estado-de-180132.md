@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-social-y-del-humanismo-del-estado-de-180132"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2017-05-17"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY DE DESARROLLO SOCIAL Y DEL HUMANISMO DEL ESTADO DE CHIAPAS -- ANTES -- LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS
 
-LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS
+LEY DE DESARROLLO SOCIAL Y DEL HUMANISMO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Ley publicada en la Tercera Sección del Número 295 del Periódico Oficial del Estado de Chiapas, el miércoles 17 de mayo de 2017.
 
@@ -43,11 +43,13 @@ La Honorable Sexagésima Sexta Legislatura Constitucional del Estado Libre y Sob
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
-LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2025)</small>
+
+LEY DE DESARROLLO SOCIAL Y DEL HUMANISMO DEL ESTADO DE CHIAPAS
 
 ## Título Primero. Disposiciones Generales
 
@@ -57,15 +59,21 @@ LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS
 
 La presente Ley es de orden público, interés social y de observancia general en el Estado, tiene por objeto el de promover, proteger y garantizar el pleno ejercicio de los derechos sociales de toda persona en la Entidad, mediante una política integral de desarrollo social, de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Chiapas, la Ley General de Desarrollo Social, y demás disposiciones legales aplicables en la materia.
 
-El Estado y los municipios, deberán atender conforme a sus atribuciones, las acciones y actividades objeto de la presente Ley, promoviendo para ello la participación de la sociedad en su conjunto, así como de los pueblos y comunidades indígenas, mismas que deberán sumarse para que las políticas de desarrollo social se realicen en forma coordinada y eficaz.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
+
+El Estado y los municipios, deberán atender conforme a sus atribuciones, las acciones y actividades objeto de la presente Ley, promoviendo para ello la participación de la sociedad en su conjunto, así como de los pueblos, comunidades indígenas y afromexicanas, mismas que deberán sumarse para que las políticas de desarrollo social y del humanismo se realicen en forma coordinada y eficaz.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 2.
 
-La aplicación de la presente Ley, le corresponde a la Secretaría de Desarrollo Social, a las dependencias y entidades de la Administración Pública Estatal, y a los municipios en el ámbito de sus respectivas competencias.
+La aplicación de la presente Ley le corresponde a la Secretaría del Humanismo, a las Dependencias y Entidades de la Administración Pública Estatal y a los Municipios del Estado de Chiapas, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 3.
 
-La interpretación de la presente Ley se realizará conforme a los criterios gramatical, sistemático y funcional; a falta de estos, conforme a los principios generales del derecho, atendiendo a su finalidad y los principios rectores del desarrollo social.
+La interpretación de la presente Ley se realizará conforme a los criterios gramatical, sistemático y funcional; a falta de estos, conforme a los principios generales del derecho, atendiendo a su finalidad y los principios rectores del desarrollo social y del humanismo.
 
 Queda prohibida toda práctica discriminatoria y de exclusión social en los programas y acciones de desarrollo social en la Entidad. Además en el cumplimiento de los derechos sociales se privilegiará la dignificación social de las personas.
 
@@ -81,53 +89,77 @@ I. Cumplir con la responsabilidad social del Estado y municipios, asumiendo plen
 
 II. Fomentar el desarrollo social, garantizar el pleno ejercicio de los derechos sociales y crear los mecanismos necesarios para lograr la justa realización y concreción de los mismos.
 
-III. Coordinar y armonizar la política estatal y municipal de desarrollo social, en el marco de la política nacional de desarrollo social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
 
-IV. Definir los objetivos, vertientes, prioridades y lineamientos generales a los que debe sujetarse la política estatal de desarrollo social en su concepción, planeación, implementación y evaluación, para alcanzar adecuados niveles de crecimiento personal y comunitario.
+III. Coordinar y armonizar la Política Estatal y Municipal de Desarrollo Social y del Humanismo, en el marco de la Política Nacional de Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+IV. Definir los objetivos, vertientes, prioridades y lineamientos generales a los que debe sujetarse la Política Estatal de Desarrollo Social y del Humanismo en su concepción, planeación, implementación y evaluación, para alcanzar adecuados niveles de crecimiento personal y comunitario.
 
 V. Establecer las bases y principios generales para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas que se realicen en el Estado, y los municipios, en concordancia con la Federación en materia de desarrollo social.
 
 VI. Garantizar la calidad de los programas de desarrollo social a cargo del Estado y los municipios, así como su eficiente aplicación con apego a la equidad y la justicia.
 
-VII. Establecer el Sistema Estatal de Coordinación para el Desarrollo Social, en el que participen el Estado, los municipios, los sectores social y privado para consolidar las bases de coordinación de las acciones orientadas a la consecución de los objetivos y prioridades de la política de desarrollo social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
 
-VIII. Establecer los principios, objetivos, e instrumentos que el Estado, observará en materia de desarrollo social.
+VII. Establecer el Sistema Estatal de Coordinación para el Desarrollo Social, en el que participen el Estado, los Municipios, los sectores social y privado para consolidar las bases de coordinación de las acciones orientadas a la consecución de los objetivos y prioridades de la Política Estatal de Desarrollo Social y del Humanismo.
 
-IX. Impulsar la participación ciudadana, estableciendo espacios para que la sociedad coadyuve con la política estatal en materia de desarrollo social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+VIII. Establecer los principios, objetivos, e instrumentos que el Estado, observará en materia de Desarrollo Social y del Humanismo.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+IX. Impulsar la participación ciudadana, estableciendo espacios para que la sociedad coadyuve con la Política Estatal de Desarrollo Social y del Humanismo.
 
 X. Fomentar el desarrollo económico de las zonas de atención prioritaria en el Estado, a efecto de promover el desarrollo social en el Estado.
 
 XI. Fomentar las actividades productivas con beneficio social.
 
-XII. Garantizar el derecho a la igualdad de género, estableciendo los lineamientos y mecanismos institucionales que orienten al Estado y los municipios hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
 
-XIII. Establecer mecanismos de evaluación de las políticas, programas y proyectos de desarrollo social, atendiendo a su efectividad y transparencia; así como el control de la aplicación de los recursos públicos asignados a estos.
+XII. Garantizar el derecho a la igualdad de género, estableciendo los lineamientos y mecanismos institucionales que orienten al Estado y los municipios hacia el cumplimiento de la igualdad sustantiva en el ámbito del desarrollo social y del humanismo.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+XIII. Establecer mecanismos de evaluación de las políticas, programas y proyectos de desarrollo social y del humanismo, atendiendo a su efectividad y transparencia; así como el control de la aplicación de los recursos públicos asignados a estos.
 
 XIV. Combatir con eficiencia la pobreza, la marginación y la exclusión social.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 6.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Beneficiarios: A las personas que forman parte de la población atendida por los programas de desarrollo social, que cumplen los requisitos de la normatividad correspondiente.
+I. Asambleas del Pueblo: A las figuras organizativas ciudadanas que adoptan cada espacio territorial, con la finalidad de analizar, discutir y decidir las demandas solicitadas por la ciudadanía de manera plural, democrática, participativa y solidaria.
 
-II. Comisión Interinstitucional: A la Comisión Interinstitucional de Desarrollo Social.
+II. Beneficiarios: A las personas que forman parte de la población atendida por los programas de desarrollo social, que cumplen los requisitos de la normatividad correspondiente.
 
-III. Grupos sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida, por lo tanto, requieren de la atención e inversión del Estado para lograr su bienestar.
+III. Comisión Interinstitucional: A la Comisión Interinstitucional de Desarrollo Social y del Humanismo.
 
-IV. Ley: A la Ley de Desarrollo Social del Estado de Chiapas.
+IV. Grupos sociales en situación de vulnerabilidad: A los núcleos de población y personas que, por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida, por lo tanto, requieren de la atención e inversión del Estado para lograr su bienestar.
 
-V. Organizaciones: A las organizaciones civiles, sociales y asistenciales, legalmente constituidas, sin fines de lucro, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social.
+V. Humanismo: A la política gubernamental que coloca a la persona humana en el centro de las acciones de gobierno, considerando su carácter como ser social y comunitario, procurando el desarrollo integral y el respeto mutuo entre los diferentes grupos sociales.
 
-VI. Padrón Único de Beneficiarios: Al sistema de información que integra y organiza datos sobre las personas que reciben apoyos de los programas de desarrollo social, a cargo de las diferentes dependencias y entidades de la Administración Pública Estatal o municipal.
+VI. Ley: A la Ley de Desarrollo Social y del Humanismo del Estado de Chiapas.
 
-VII. Política de Desarrollo Social: Al conjunto de principios, políticas, programas y acciones institucionales orientadas a garantizar el acceso de toda persona a los derechos sociales reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Chiapas, bajo los principios rectores de la política de desarrollo social que promuevan la integración social, la igualdad de oportunidades, la superación de la pobreza y la supresión de la vulnerabilidad y marginación social.
+VII. Obras de Infraestructura Social Básica: A las obras que se realizan para satisfacer las necesidades básicas de la población, provenientes de los requerimientos establecidos a través de las Asambleas del Pueblo, en coadyuvancia con las instancias competentes.
 
-VIII. Secretaría: A la Secretaría de Desarrollo Social.
+VIII. Organizaciones: A las organizaciones civiles, sociales y asistenciales, legalmente constituidas, sin fines de lucro, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social.
 
-IX. Sistema Estatal: Al Sistema Estatal de Coordinación para el Desarrollo Social.
+IX. Padrón Único de Beneficiarios: Al sistema de información que integra y organiza datos sobre las personas que reciben apoyos de los programas de desarrollo social y del humanismo, a cargo de las diferentes Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal.
 
-X. Zonas de Atención Prioritaria: A las áreas o regiones socioeconómicas en la Entidad de carácter rural o urbano, cuya población registra índices de pobreza y altos grados de marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en la presente Ley.
+X. Política Estatal de Desarrollo Social y del Humanismo: Al conjunto de principios, políticas, programas y acciones institucionales orientadas a garantizar el acceso de toda persona a los derechos sociales reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Chiapas, bajo principios rectores que promuevan la integración social, la igualdad de oportunidades, la superación de la pobreza y la supresión de la vulnerabilidad y marginación social.
+
+XI. Reglamento: Al Reglamento de la Ley de Desarrollo Social y del Humanismo del Estado de Chiapas.
+
+XII. Secretaría: A la Secretaría del Humanismo.
+
+XIII. Sistema Estatal: Al Sistema Estatal de Coordinación para el Desarrollo Social.
+
+XIV. Zonas de Atención Prioritaria: A las áreas o regiones socioeconómicas en la Entidad, que tengan carácter rural o urbano, de pueblos, comunidades indígenas y afromexicanas y aquellos que sean reconocidos constitucionalmente como parte de la población pluricultural del Estado, cuya población registra índices de pobreza y altos grados de marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en la presente Ley.
 
 ## Título Segundo. De los Beneficiarios
 
@@ -137,9 +169,11 @@ X. Zonas de Atención Prioritaria: A las áreas o regiones socioeconómicas en l
 
 Se reconocen y consideran como derechos para el desarrollo social, la educación, la salud, la alimentación nutritiva y de calidad, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social, y los relativos a la no discriminación en los términos de la Constitución Política del Estado Libre y Soberano de Chiapas, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 8.
 
-Toda persona residente en el territorio del Estado, tiene acceso a los derechos para el desarrollo social y por lo tanto susceptible de ser considerado beneficiario de las políticas de desarrollo social establecidas en la presente Ley.
+Toda persona residente en el territorio del Estado, tiene acceso a los derechos para el desarrollo social y por lo tanto susceptible de ser considerado beneficiario de las políticas estatales de desarrollo social y del humanismo establecidas en la presente Ley.
 
 Los beneficiarios podrán acceder a los programas y acciones de desarrollo social, siempre y cuando se sujeten a los principios rectores de la política estatal y municipal, además de cumplir con los lineamientos que establezcan las reglas de operación de cada programa.
 
@@ -159,7 +193,9 @@ III. Adolescentes, adultos mayores y aquellas personas que se encuentren en situ
 
 IV. Personas con discapacidad.
 
-V. Indígenas.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+V. Personas integrantes de pueblos, comunidades indígenas y afromexicanas y aquellas reconocidas constitucionalmente como parte de la población pluricultural del Estado.
 
 VI. Trabajadores de zonas urbanas y campesinos en condiciones de pobreza alimentaria y/o patrimonial.
 
@@ -295,31 +331,39 @@ IV. Expedir y modificar la declaratoria, así como los lineamientos necesarios d
 
 V. Las demás disposiciones que establezca la presenta (sic) Ley y otros ordenamientos legales aplicables.
 
-### Capítulo III. De la Secretaría de Desarrollo Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2025)</small>
+
+### Capítulo III. De la Secretaría del Humanismo
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 22.
 
-La (sic) Secretaría, le corresponde las siguientes atribuciones:
+La Secretaría, en materia de desarrollo social y humanismo, tendrá las siguientes atribuciones:
 
-I. Instrumentar, supervisar, ejecutar y promover la Política Estatal para el Desarrollo Social e integrar el Programa Estatal de Desarrollo Social.
+I. Instrumentar, supervisar, ejecutar y promover la Política Estatal de Desarrollo Social y del Humanismo e integrar el Programa Estatal de Desarrollo Social.
 
 II. Establecer la definición, los criterios y lineamientos para determinar los indicadores e índices de medición de pobreza, marginación y vulnerabilidad, tomando en consideración lo establecido en esta Ley.
 
-III. Elaborar, Administrar y operar el Padrón Único de Beneficiarios.
+III. Elaborar, administrar y operar el Padrón Único de Beneficiarios.
 
-IV. Concertar con los Ayuntamientos la implementación de programas estatales y federales en materia de desarrollo social.
+IV. Concertar con los Ayuntamientos la implementación de programas estatales y federales en materia de desarrollo social y del humanismo.
 
-V. Celebrar convenios o acuerdos de coordinación y colaboración con el Gobierno Federal, los Ayuntamientos, los sectores social y privado en materia de desarrollo de infraestructura social y humano.
+V. Celebrar y ejecutar convenios o acuerdos de coordinación y colaboración con las Dependencias y Entidades de la Administración Pública Estatal, los Ayuntamientos y los sectores social y privado, en materia de desarrollo humano y de infraestructura social básica.
 
 VI. Proponer al titular del Poder Ejecutivo del Estado, la declaratoria de las Zonas de Atención Prioritarias, así como su modificación, de acuerdo a lo dispuesto en la presente Ley y demás ordenamientos legales aplicables.
 
-VII. Proponer al titular del Ejecutivo del Estado, la celebración de convenios de colaboración con las dependencias y entidades del Gobierno Federal, a efectos de llevar a cabo los objetivos de la presente Ley.
+VII. Proponer al titular del Poder Ejecutivo del Estado, la celebración de convenios de colaboración con las Dependencias y Entidades del Gobierno Federal, a efecto de llevar a cabo los objetivos de la presente Ley.
 
-VIII. Llevar a cabo un sistema de estadísticas anuales y sexenales, por zonas de atención prioritaria y programas respecto de la disminución de la pobreza y marginación en el Estado, con el fin de que las autoridades puedan evaluar y establecer si los programas han tenido eficiencia, eficacia y calidad en los mismos.
+VIII. Llevar a cabo un sistema de estadísticas anuales y sexenales, por zonas de atención prioritaria y programas encaminados a la disminución de la pobreza y marginación en el Estado, con el fin de que las autoridades puedan evaluar su eficiencia, eficacia y calidad.
 
-IX. Presidir la Comisión Interinstitucional de Desarrollo Social.
+IX. Presidir la Comisión Interinstitucional.
 
-X. Las demás disposiciones que le confiera la presente Ley y otros ordenamientos legales aplicables.
+X. Participar en las Asambleas del Pueblo y coadyuvar en la ejecución de los acuerdos concertados.
+
+XI. Ejecutar Obras de Infraestructura Social Básica, así como regular las acciones relativas a la planeación, programación, presupuestación, contratación, ejecución, supervisión, gasto, control, comprobación, adjudicación, adquisiciones y demás acciones complementarias a las mismas, conforme a la normatividad aplicable.
+
+XII. Las demás atribuciones que le confieran la presente Ley y la normatividad aplicable.
 
 ### Capítulo IV. De los Municipios
 
@@ -341,13 +385,17 @@ VI. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Municipio, l
 
 VII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades más necesitadas.
 
-## Título Cuarto. Política Estatal de Desarrollo Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2025)</small>
+
+## Título Cuarto. Política Estatal de Desarrollo Social y del Humanismo
 
 ### Capítulo I. De los Objetivos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 24.
 
-La Política Estatal de Desarrollo Social, comprende los programas, acciones, directrices, líneas de acción y convenios que establezca el Estado por medio de la Secretaría, encaminados a impulsar el desarrollo social y tendrá los siguientes objetivos:
+La Política Estatal de Desarrollo Social y del Humanismo, comprende los programas, acciones, directrices, líneas de acción y convenios que establezca el Estado por medio de la Secretaría, encaminados a impulsar el desarrollo social y tendrá los siguientes objetivos:
 
 I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, la inclusión social, así como la superación de la discriminación.
 
@@ -359,7 +407,9 @@ IV. Fomentar la igualdad de oportunidades económicas y aprovechar la capacidad 
 
 V. Coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr la integralidad, sustentabilidad y concurrencia del desarrollo social, mejorando la calidad de vida de los habitantes en el Estado.
 
-VI. Promover formas apropiadas de organización y participación de la sociedad en la formulación, ejecución, evaluación y control de los programas de desarrollo social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+VI. Promover formas apropiadas de organización y participación de la sociedad en la formulación, ejecución, evaluación y control de los programas de desarrollo social y del humanismo.
 
 VII. Promover políticas integrales de desarrollo social en la sociedad, para incrementar sus capacidades básicas y oportunidades de desarrollo.
 
@@ -367,9 +417,11 @@ VIII. Asegurar las acciones que permitan lograr los objetivos y metas de desarro
 
 IX. Fortalecer la integralidad de las familias, para promover mediante acciones y programas el desarrollo humano de sus miembros en busca de un mayor bienestar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 25.
 
-La Política Estatal de Desarrollo Social debe incluir, cuando menos, las siguientes vertientes:
+La Política Estatal de Desarrollo Social y del Humanismo debe incluir, cuando menos, las siguientes vertientes:
 
 I. Superación de la pobreza a través de la alimentación nutritiva y de calidad, salud, educación, la generación de empleo, del ingreso o el autoempleo mediante proyectos productivos, infraestructura social básica, y la capacitación, entre otros.
 
@@ -385,9 +437,11 @@ VI. Promoción de la participación ciudadana organizada en el desarrollo social
 
 ### Capítulo II. De la Planeación y Programación
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 26.
 
-La planeación en la Política Estatal de Desarrollo Social, se llevará a cabo a través del proceso por el cual se fijarán los objetivos, estrategias, metas, indicadores y evaluaciones, para su adecuado funcionamiento.
+La planeación en la Política Estatal de Desarrollo Social y del Humanismo, se llevará a cabo a través del proceso por el cual se fijarán los objetivos, estrategias, metas, indicadores y evaluaciones, para su adecuado funcionamiento.
 
 ###### Artículo 27.
 
@@ -425,7 +479,9 @@ V. Programas dirigidos a las personas o grupos en condiciones de pobreza, margin
 
 VI. Programas de educación obligatoria.
 
-VII. Programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+VII. Programas y Obras de Infraestructura Social Básica relacionadas al agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; las cuales serán ejecutadas por administración directa o por contrato, bajo los procedimientos de licitación pública, invitación restringida a tres o más personas o adjudicación directa, conforme a lo dispuesto en el Reglamento de la Ley.
 
 VIII. Programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía.
 
@@ -445,11 +501,13 @@ IV. Tomará en cuenta la mezcla de recursos provenientes de las dependencias y e
 
 ### Capítulo IV. De las Zonas de Atención Prioritaria
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 30.
 
-Se consideran Zonas de Atención Prioritaria, las áreas o regiones socioeconómicas de carácter rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en la presente Ley, y que se encuentran en condiciones de vida por debajo de los niveles mínimos de bienestar.
+Se consideran Zonas de Atención Prioritaria, las áreas o regiones socioeconómicas en la Entidad de carácter rural o urbano, de pueblos, comunidades indígenas y afromexicanas y aquellos que sean reconocidos constitucionalmente como parte de la población pluricultural del Estado, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos sociales establecidos en la presente Ley, y que se encuentran en condiciones de vida por debajo de los niveles mínimos de bienestar.
 
-Las Zonas de Atención Prioritaria serán integradas y propuestas anualmente por la Secretaría, tomando en consideración los indicadores de desarrollo social y humano. publicados por el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Evaluación de la Política de Desarrollo Social y la opinión de la instancia normativa competente.
+Las Zonas de Atención Prioritaria serán integradas y propuestas anualmente por la Secretaría, tomando en consideración los indicadores de desarrollo social y humano, publicados por el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Evaluación de la Política Estatal de Desarrollo Social y del Humanismo y la opinión de la instancia normativa competente.
 
 ###### Artículo 31.
 
@@ -553,17 +611,59 @@ III. Destinar la totalidad de los recursos programados al cumplimiento de las ac
 
 IV. Promover la formación, capacitación y profesionalización de sus integrantes.
 
-V. Cumplir con su objeto social con base en los principios rectores de la política de desarrollo social establecidos en la presente Ley.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+V. Cumplir con su objeto social con base en los principios rectores de la Política Estatal de Desarrollo Social y del Humanismo establecidos en la presente Ley.
 
 VI. Las demás inherentes al cumplimiento de su objeto social en los términos de las disposiciones legales aplicables.
 
 La Secretaría, implementará los mecanismos de coordinación necesarios con los tres órdenes de Gobierno, para la actualización constante del Registro Social.
 
-### Capítulo I. De su Objeto
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE MAYO DE 2025)</small>
+
+### Capítulo VI. De las Asambleas del Pueblo
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 41 bis.- Las Asambleas del Pueblo, son figuras organizativas ciudadanas que adoptan cada espacio territorial, con la finalidad de analizar, discutir y decidir las demandas solicitadas por la ciudadanía de manera plural, democrática, participativa y solidaria, mismas que se regirán conforme a los lineamientos de la presente ley.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 41 ter.- Las Asambleas del Pueblo, organizarán a la ciudadanía en áreas urbanas, rurales, como cabeceras municipales, barrios, colonias, fraccionamientos, unidades habitacionales, entre otras.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 41 quater.- Las Asambleas del Pueblo tendrán las siguientes atribuciones:
+
+I. Gestionar y coadyuvar ante la Secretaría, los programas de obra de infraestructura social básica y seguridad alimentaria para los habitantes de los municipios, con énfasis en los grupos de mayor rezago social, garantizando la participación ciudadana con base a las necesidades de la comunidad.
+
+II. Proponer y gestionar con base a las necesidades de la comunidad, proyectos de obra de infraestructura social básica.
+
+III. Suscribir actos administrativos derivados del desarrollo de sus actividades.
+
+IV. Colaborar en la conservación de cualquier obra pública situada en el área de su circunscripción.
+
+V. Promover campañas permanentes de limpieza y saneamiento ambiental en coordinación con las autoridades o instituciones correspondientes.
+
+VI. Promover la igualdad de género en la política pública a través de las Asambleas, con la participación de las mujeres en los procesos sociales.
+
+VII. Las demás que sean señaladas por la normatividad expedida en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 41 quinquies.- Sin perjuicio de otras formas de participación ciudadana, reconocidas en la Constitución Política del Estado Libre y Soberano de Chiapas, los tratados Internacionales en los que el Estado Mexicano sea parte y demás legislación aplicable, la Secretaría a través del órgano que al efecto determine, en coordinación con los Ayuntamientos, promoverán e impulsarán la participación social a través de las Asambleas del Pueblo; debiendo integrarse a éstas por la mayoría de los ciudadanos, con la finalidad de lograr el desarrollo del Municipio y mejorar las condiciones de vida de los habitantes de las respectivas circunscripciones.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 41 sexies.- La Secretaría será la encargada de presupuestar y ejecutar las obras de infraestructura social básica que se den como resultado de las Asambleas del Pueblo.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 41 septies.- En caso de presentarse alguna controversia sobre el funcionamiento de las Asambleas del Pueblo, la Secretaría, en coordinación con el Ayuntamiento, resolverán lo conducente y formalizarán el Acta a través de Sesión de Cabildo.
 
 ## Título Quinto. Sistema Estatal de Coordinación para el Desarrollo Social
 
-### Capítulo II. De las Instancias del Sistema Estatal
+### Capítulo I. De su Objeto
 
 ###### Artículo 42.
 
@@ -577,11 +677,17 @@ El Sistema Estatal, tiene por objeto:
 
 I. Establecer la coordinación entre las dependencias y entidades de la Administración Pública Estatal, para la formulación, ejecución y evaluación del Programa Sectorial de Desarrollo Social, así como programas, acciones e inversiones en la materia, con los demás órdenes de gobierno.
 
-II. Integrar la participación de los sectores público, social y privado en el cumplimiento de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
 
-III. Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones en el Estado con los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social.
+II. Integrar la participación de los sectores público, social y privado en el cumplimiento de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y del Humanismo.
 
-IV. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+III. Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones en el Estado con los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y del Humanismo.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+IV. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal de Desarrollo Social y del Humanismo.
 
 V. Impulsar la desconcentración y descentralización de los recursos y acciones para el desarrollo social, la rendición de cuentas y el fortalecimiento de la coordinación estatal.
 
@@ -589,11 +695,13 @@ VI. Fomentar la participación de la ciudadanía y de la sociedad organizada en 
 
 VII. Vigilar y asegurar que los recursos asignados al desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad.
 
-### Capítulo III. De la Comisión Interinstitucional de Desarrollo Social
+### Capítulo II. De las Instancias del Sistema Estatal
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 44.
 
-Las instancias del Sistema Estatal, vinculadas a la orientación, planeación, programación, ejecución, evaluación y reorientación en materia de Desarrollo Social, son:
+Las instancias del Sistema Estatal, vinculadas a la orientación, planeación, programación, ejecución, evaluación y reorientación en materia de Desarrollo Social y del Humanismo, son:
 
 I. La Secretaría.
 
@@ -605,23 +713,33 @@ III. Los Municipios.
 
 La Secretaría en el marco del Sistema Estatal, tendrá las siguientes atribuciones:
 
-I. Actuar como instancia coordinadora y articuladora de la Política Estatal de Desarrollo Social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+I. Actuar como instancia coordinadora y articuladora de la Política Estatal de Desarrollo Social y del Humanismo.
 
 II. Formular el Programa Sectorial de Desarrollo Social, así como los programas que se deriven del mismo.
 
-III. Coordinar con los municipios la implementación de programas estatales y federales en materia de desarrollo social.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
 
-IV. Proponer la celebración de convenios o acuerdos de coordinación, colaboración y concertación con el Gobierno Federal, los municipios y los sectores social y privado, en materia de desarrollo social.
+III. Coordinar con los municipios la implementación de programas estatales y federales en materia de desarrollo social y del humanismo.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+IV. Proponer la celebración de convenios o acuerdos de coordinación, colaboración y concertación con el Gobierno Federal, los municipios y los sectores social y privado, en materia de desarrollo social y del humanismo.
 
 V. Llevar a cabo un sistema de estadísticas anuales, por Zonas de Atención Prioritaria y programas, respecto de la disminución de la pobreza y marginación en el Estado, con el fin de que las autoridades puedan evaluar y establecer si los programas han tenido la eficiencia, eficacia y calidad requerida.
 
 VI. Las demás disposiciones que le confiera la presente Ley y otros ordenamientos legales aplicables en la materia.
 
-### Capítulo Único. De la Evaluación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2025)</small>
+
+### Capítulo III. De la Comisión Interinstitucional de Desarrollo Social y del Humanismo
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 46.
 
-La Comisión Interinstitucional, es un órgano permanente de consulta, asesoría y de opinión del Sistema Estatal, y será el instrumento de coordinación de las acciones del titular del Poder Ejecutivo del Estado a través de la Secretaría, para garantizar la integralidad en el diseño y ejecución de la política estatal de desarrollo social.
+La Comisión Interinstitucional, es un órgano permanente de consulta, asesoría y de opinión del Sistema Estatal, y será el instrumento de coordinación de las acciones de la persona titular del Poder Ejecutivo del Estado a través de la Secretaría, para garantizar la integralidad en el diseño y ejecución de la Política Estatal de Desarrollo Social y del Humanismo.
 
 ###### Artículo 47.
 
@@ -641,77 +759,67 @@ IV. Analizar y proponer esquemas alternativos de financiamiento para los program
 
 V. Emitir opiniones de las declaratorias de las Zonas de Atención Prioritaria, con base a la propuesta que formule la Secretaría.
 
-VI. Promover el intercambio de experiencias en materia de desarrollo social y de superación de la pobreza.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+VI. Promover el intercambio de experiencias en materia de desarrollo social y del humanismo, así como el de superación de la pobreza.
 
 VII. Revisar el marco normativo del desarrollo social y en su caso, proponer y promover modificaciones ante las instancias competentes.
 
-VIII. Recomendar medidas para que la Política Estatal en materia de desarrollo social sea aplicada con eficiencia y efectividad.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
+
+VIII. Recomendar medidas para que la Política Estatal de Desarrollo Social y del Humanismo sea aplicada con eficiencia y efectividad.
 
 IX. Las demás disposiciones que le señale la presente Ley, y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 49.
 
 La Comisión Interinstitucional, estará integrada por:
 
-I. Un Presidente, que será el titular de la Secretaría.
+I. Una Presidencia, que será ocupada por la persona titular de la Secretaría.
 
-II. Un Vicepresidente que será el titular de la Subsecretaría de Programas Federalizados y Políticas Sociales de la Secretaría.
+II. Una Secretaría Técnica, que será ocupada por la persona designada por la Presidencia.
 
-III. Un Secretario Técnico, que será designado por el Presidente.
+III. Vocalías, ocupadas por las personas titulares de:
 
-IV. Los Vocales, que serán los titulares de:
+a) Secretaría General de Gobierno y Mediación.
 
-a) Secretaría General de Gobierno.
+b) Secretaría Anticorrupción y Buen Gobierno.
 
-b) Secretaría de la Contraloría General.
+c) Secretaría de Finanzas.
 
-c) Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
+d) Secretaría de Economía y del Trabajo.
 
-d) Secretaría del Trabajo.
+e) Secretaría de la Mujer e Igualdad de Género.
 
-e) Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+f) Secretaría de Agricultura, Ganadería y Pesca.
 
-f) Secretaría de Economía.
+g) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
-g) Secretaría del Campo.
+h) Secretaría de Salud y/o Instituto de Salud.
 
-h) Secretaría de Pesca y Acuacultura.
+i) Secretaria de Medio Ambiente e Historia Natural.
 
-i) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
+j) Secretaría de Educación.
 
-j) Secretaría de Salud.
+k) Instituto del Deporte del Estado de Chiapas.
 
-k) Secretaría de Educación.
+l) Instituto de la Juventud del Estado de Chiapas.
 
-l) Secretaría de la Juventud, Recreación y Deporte.
-
-m) Instituto de Población y Ciudades Rurales.
+m) Instituto de la Infraestructura Física Educativa del Estado de Chiapas.
 
 n) Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
 
-o) Instituto AMANECER.
+ñ) Promotora de Vivienda Chiapas.
 
-p) La Comisión de Desarrollo Social y de Seguimiento al Cumplimiento de los Objetivos de Desarrollo Sostenible del Congreso del Estado.
+o) Los Presidentes de los Municipios que presenten características e índices altos de pobreza, marginación o de escaso desarrollo social en su territorio.
 
-V. Los representantes de las dependencias y entidades del Gobierno Federal, cuya competencia esté relacionada con la materia de desarrollo social:
+Los representantes estatales de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas; Secretaría de Bienestar; Programa de Abasto Social de Leche LICONSA; DICONSA; Secretaría de Desarrollo Agrario, Territorial y Urbano y el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, atendiendo a su competencia relacionada con la materia de desarrollo social y humanista, serán considerados invitados permanentes, con derecho a voz.
 
-a) Delegación de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+La persona titular de la Presidencia de la Comisión Interinstitucional podrá nombrar un representante en los casos que así lo considere.
 
-b) Delegación de la Secretaría de Desarrollo Social.
-
-c) Delegación del Programa de Abasto Social de leche LICONSA.
-
-d) Delegación de DICONSA.
-
-e) Delegación de PROSPERA.
-
-f) Delegación de la SEDATU.
-
-VI. Los Presidentes Municipales, que presenten características e índices de pobreza, marginación o de desarrollo social en su territorio.
-
-El Presidente de la Comisión Interinstitucional, en los casos que éste considere, autorizará al Vicepresidente, suplirlo en sus funciones.
-
-Los cargos de los integrantes de la Comisión Interinstitucional, tendrán el carácter de honoríficos y no percibirán ningún tipo de remuneración, sus funciones serán inherentes al cargo que desempeñen, además realizarán las acciones de seguimiento y ejecución de las tareas que le sean encomendadas, sus funciones y atribuciones estarán determinadas en el reglamento de la presente Ley.
+Los cargos de los integrantes de la Comisión Interinstitucional, tendrán el carácter de honoríficos y no percibirán ningún tipo de remuneración, sus funciones serán inherentes al cargo que desempeñen, además realizarán las acciones de seguimiento y ejecución de las tareas que le sean encomendadas; sus funciones y atribuciones estarán determinadas en el Reglamento de la presente Ley.
 
 ###### Artículo 50.
 
@@ -731,15 +839,19 @@ El reglamento de la presente Ley, dispondrá lo relativo a la periodicidad de su
 
 La Comisión Interinstitucional podrá invitar a expertos en las materias de que trata la presente Ley, para participar en estudios y actividades específicas que aporten conocimientos especializados.
 
-## Título Sexto. Evaluación de la Política de Desarrollo Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2025)</small>
 
-### Capítulo I. De la Denuncia Ciudadana
+## Título Sexto. Evaluación de la Política Estatal de Desarrollo Social y del Humanismo
+
+### Capítulo Único. De la Evaluación
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 53.
 
-La evaluación sobre los fondos, programas, proyectos y acciones de la política de desarrollo social, estará encaminada a conocer la operación y resultados de los programas y proyectos de desarrollo social, con la finalidad de identificar problemas en la implementación de programas y, en su caso, reorientar y reforzar la política de desarrollo social.
+La evaluación sobre los fondos, programas, proyectos y acciones de la política estatal de desarrollo social y del humanismo, estará encaminada a conocer la operación y resultados de los programas y proyectos de desarrollo social, con la finalidad de identificar problemas en la implementación de programas y, en su caso, reorientar y reforzar la política estatal de desarrollo social y del humanismo.
 
-Los resultados de las evaluaciones deberán permitir actualizar las políticas públicas de desarrollo social, las estrategias y las líneas de acción de los programas; medir básica, pero no exclusivamente, su impacto sobre las condiciones y la calidad de vida de los sectores, grupos e individuos en desventaja y marginación; incluir recomendaciones y medidas para la adecuación de las políticas que no funcionen adecuadamente, así como la inclusión de políticas nuevas que puedan mejorar la eficacia final del desarrollo social; establecer las consideraciones necesarias para la determinación de las Zonas de Atención Prioritaria; incluir, en su caso, los proyectos o programas propuestos por la sociedad, y establecer los sistemas de mejora continua necesarios, entre otros aportes.
+Los resultados de las evaluaciones deberán permitir actualizar las políticas públicas de desarrollo social y del humanismo, las estrategias y las líneas de acción de los programas; medir básica, pero no exclusivamente, su impacto sobre las condiciones y la calidad de vida de los sectores, grupos e individuos en desventaja y marginación; incluir recomendaciones y medidas para la adecuación de las políticas que no funcionen adecuadamente, así como la inclusión de políticas nuevas que puedan mejorar la eficacia final del desarrollo social; establecer las consideraciones necesarias para la determinación de las Zonas de Atención Prioritaria; incluir, en su caso, los proyectos o programas propuestos por la sociedad, y establecer los sistemas de mejora continua necesarios, entre otros aportes.
 
 ###### Artículo 54.
 
@@ -791,11 +903,13 @@ El seguimiento a las recomendaciones de los resultados de la evaluación de los 
 
 ## Título Séptimo. Denuncia Ciudadana, Sanciones y el Recurso
 
-### Capítulo II. De las Sanciones
+### Capítulo I. De la Denuncia Ciudadana
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 60.
 
-Los Beneficiarios, las Organizaciones, las instituciones o cualquier persona, podrán presentar denuncias ante la Secretaría de la Contraloría General u órgano de control interno que corresponda de los municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley y demás disposiciones legales en materia de desarrollo social.
+Los Beneficiarios, las Organizaciones, las instituciones o cualquier persona, podrán presentar denuncias ante la Secretaría Anticorrupción y Buen Gobierno u órgano de control interno que corresponda de los Municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley y demás disposiciones legales en materia de desarrollo social.
 
 ###### Artículo 61.
 
@@ -821,7 +935,7 @@ II. Por desistimiento del denunciante.
 
 III. Por resolución recaída sobre la denuncia.
 
-### Capítulo III. Del Recurso
+### Capítulo II. De las Sanciones
 
 ###### Artículo 63.
 
@@ -840,6 +954,8 @@ III. Violen la normatividad de los programas con la finalidad de favorecer a per
 IV. Utilicen los programas y fondos presupuestales para fines distintos de sus objetivos.
 
 V. Los demás actos que resulten sancionables en términos de la presente Ley y otros ordenamientos aplicables.
+
+### Capítulo III. Del Recurso
 
 ###### Artículo 65.
 
@@ -880,3 +996,23 @@ Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorabl
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 16 días del mes de Mayo del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 251 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- La Comisión Interinstitucional de Desarrollo Social y del Humanismo, deberá ser instalada dentro los sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- La persona Titular de la Secretaría del Humanismo, deberá someter a consideración de la persona Titular del Poder Ejecutivo del Estado, el proyecto del Reglamento de la Ley, en términos del presente Decreto, en un plazo no mayor a ciento veinte días hábiles posteriores a la publicación del presente Decreto.
+
+En tanto se expide el Reglamento de la Ley a que hace referencia el párrafo anterior, en lo que se refriere al procedimiento de contratación y ejecución de proyectos de Obra de Infraestructura Social Básica, serán aplicables las disposiciones contenidas en la Ley de Obra Pública del Estado de Chiapas.
+
+Artículo Quinto.- La persona Titular de la Secretaría del Humanismo, deberá expedir lineamientos pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Sexto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
