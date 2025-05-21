@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2024-12-04"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -47,11 +47,11 @@ Se expide la Ley Orgánica de la Fiscalía General del Estado de Chihuahua, para
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
 
 ###### Artículo 1.
 
-La Fiscalía General del Estado es la dependencia del Poder Ejecutivo del Estado encargada de las áreas de: Investigación y Persecución del Delito, incluyendo la Agencia Estatal de Investigación; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas; Combate a la Corrupción, y Desaparición Forzada de Personas; coadyuvante en materia de Seguridad Pública y Prevención.
+La Fiscalía General del Estado es la dependencia del Poder Ejecutivo del Estado encargada de las áreas de: Investigación y Persecución del Delito, incluyendo la Agencia Estatal de Investigación; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas; Combate a la Corrupción; Desaparición Forzada de Personas; e Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; coadyuvante en materia de Seguridad Pública y Prevención.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL ANEXO DEL P.O. DE 1 DE ENERO DE 2020, PÁGINA 31.]</small>
 
@@ -191,6 +191,10 @@ I. En materia de Delitos Electorales: la prevención, investigación y persecuci
 
 J. (DEROGADO, P.O. 30 DE ENERO DE 2023)
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+K. En materia de investigación de delitos de tortura y otros tratos o penas crueles, inhumanos y degradantes, en términos de lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos y Degradantes.
+
 ### CAPÍTULO II. De la Organización
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
@@ -229,13 +233,17 @@ VII. La Fiscalía Especializada en Combate a la Corrupción;
 
 VIII. La Fiscalía Especializada en Delitos Electorales.
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2025)</small>
 
-IX. Los Agentes del Ministerio Público.
+IX. La Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2025)</small>
 
-X. La Agencia Estatal de Investigación.
+X. Los Agentes del Ministerio Público.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2025)</small>
+
+XI. La Agencia Estatal de Investigación.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -595,7 +603,7 @@ La Fiscalía Especializada en Investigación de Violaciones a los Derechos Human
 
 I. El ejercicio de las atribuciones descritas en los apartados B y E del artículo 2 de esta Ley, en los hechos que determine el Fiscal General del Estado, o el servidor público en quien se delegue la facultad, atendiendo a los criterios de priorización determinados en el Reglamento Interior de la Fiscalía General, o mediante acuerdo que al efecto emita el Fiscal General y siempre que se trate de investigaciones respecto a alguna de las siguientes conductas delictivas:
 
-a. Tortura;
+a) (DEROGADO, P.O. 21 DE MAYO DE 2025)
 
 b. Desaparición forzada de personas;
 
@@ -633,9 +641,9 @@ II. Comisión Local de Búsqueda.
 
 III. Unidad Especializada en Investigación y Persecución de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares.
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2025)</small>
 
-IV. Unidad Especializada en Investigación de Violaciones a los Derechos Humanos y Tortura.
+IV. Unidad Especializada en Investigación de Violaciones a los Derechos Humanos.
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -666,6 +674,10 @@ Los servidores públicos que integren la unidad especializada referida en el art
 La Comisión Local de Búsqueda es la Unidad Administrativa, de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, que determina, ejecuta y da seguimiento a las acciones de búsqueda de Personas Desaparecidas y No Localizadas, en todo el territorio del Estado. Tiene por objeto impulsar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre autoridades que participan en la búsqueda, localización e identificación de personas.
 
 La Comisión Local de Búsqueda, en el ámbito de su competencia, tendrá las atribuciones señaladas por el artículo 53 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás disposiciones legales y reglamentarias aplicables de la legislación en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+La Comisión Local de Búsqueda, en armonía con la Alerta Amber y el Protocolo Alba, deberá diseñar la estrategia tecnológica y de telefonía celular adecuada, para desplegar las acciones iniciales en la búsqueda inmediata y sin dilación alguna de niñas, niños, adolescentes, mujeres y hombres desaparecidos o no localizados. Para lo cual, deberá proponer a la Fiscalía General del Estado, la celebración de convenios con instituciones públicas o privadas.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2018)</small>
 
@@ -748,6 +760,22 @@ El personal para el ejercicio de sus funciones deberá ser calificado y especial
 La Fiscalía Especializada en Delitos Electorales, contará con un área encargada de recopilar, administrar, conservar y actualizar una base estatal de estadística de los asuntos que tramite referente a violencia política contra las mujeres en razón de género, y compartirla, con la Fiscalía General de la República, el Instituto Estatal Electoral, el Tribunal Estatal Electoral y en su caso otras autoridades, de conformidad con los lineamientos que se emitan para tal fin.
 
 De la misma forma, la Fiscalía Especializada en Delitos Electorales contará con el personal técnico y los recursos materiales, humanos y financieros necesarios para el ejercicio de sus funciones, de conformidad con el reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+###### Artículo 11 Quinquies.
+
+La Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en el ámbito de su competencia, realizará funciones de prevención, investigación y persecución de los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, conforme lo dispone la citada Ley General, la presente Ley y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Artículo 11 Sexties. La Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, estará a cargo de una Fiscal Especializada o Fiscal Especializado, se integrará por las Unidades Orgánicas previstas en el Reglamento Interior de la Fiscalía General del Estado y por Agentes del Ministerio Público, quienes direccionarán las investigaciones en coordinación con el personal sustantivo de la Agencia Estatal de Investigación, la Dirección de Servicios Periciales y Ciencias Forenses, así como del resto de las Unidades Orgánicas de la Fiscalía General del Estado que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+###### Artículo 11 Septies.
+
+El personal sustantivo, para ser integrante y permanecer en la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, deberá cumplir como mínimo los requisitos establecidos en el artículo 58 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ###### Artículo 12.
 
@@ -2086,3 +2114,61 @@ P.O. 4 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil veinticinco, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0204/2025 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la efectiva implementación del presente Decreto, la Secretaría de Hacienda y la Fiscalía General, ambas del Estado, de conformidad con las disposiciones legales vigentes y aplicables, con sujeción a la disponibilidad prevista en el Presupuesto de Egresos del Estado de Chihuahua, realizarán las gestiones presupuestales necesarias.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos que actualmente estén en trámite ante la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, en materia de tortura y otros tratos o penas crueles, inhumanos o degradantes, pasarán a la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, que se crea en virtud del presente Decreto.
+
+La Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada de la Fiscalía General del Estado y la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, realizarán los trámites de entrega recepción que correspondan, para transmitir los documentos, archivos u otros bienes.
+
+###### ARTÍCULO QUINTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, destinados al conocimiento y tratamiento de asuntos en materia de tortura y otros tratos o penas crueles, inhumanos o degradantes, se integrarán a la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+Las y los servidores públicos adscritos a la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada que pasen a formar parte de la Fiscalía que se crea en virtud de este Decreto, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, con las áreas previstas para su conformación.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0206/2025 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el artículo 104 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, se conforma la Subcomisión de seguimiento post legislativo del presente Decreto, dependiente de la Comisión de Seguridad Pública y Protección Civil de este H. Congreso del Estado, a efecto de que verifique su operatividad, identifique áreas de oportunidad legislativa que considere necesarias para el cumplimiento de los fines del presente y, en su caso, formule las iniciativas para que se incorporen al proceso legislativo, de acuerdo con la normatividad aplicable.
+
+Para lo cual, podrán realizar reuniones informativas, de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema.
+
+La Subcomisión quedará conformada de la siguiente forma:
+
+Coordinadora: Diputada Nancy Janeth Frías Frías.
+
+Vocal: Diputada Irlanda Dominique Márquez Nolasco.
+
+Vocal: Diputado Pedro Torres Estrada.
+
+Pudiendo auxiliarse en cualquier momento, del Diputado Octavio Javier Borunda Quevedo.
+
+Secretaría Técnica: Guillermo Trejo Neder.
