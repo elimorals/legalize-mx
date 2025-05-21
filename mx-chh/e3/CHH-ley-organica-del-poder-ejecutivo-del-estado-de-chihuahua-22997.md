@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2024-11-23"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -234,6 +234,10 @@ VII. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2023)
 > <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2021)</small>
 
 VIII. Especializada en Delitos Electorales.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2025)</small>
+
+IX. Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 La Fiscalía General del Estado contará con las unidades orgánicas, administrativas y órganos administrativos desconcentrados que determine su Ley Orgánica.
 
@@ -1357,11 +1361,11 @@ XXIX.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2022)
 
 XXX.- Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2025)</small>
 
-###### ARTÍCULO 35.
+###### ARTICULO 35.
 
-La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado encargada de las áreas de Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas y Combate a la Corrupción; coadyuvante en materia de Seguridad Pública y Prevención.
+La Fiscalía General del Estado es la Dependencia del Poder Ejecutivo del Estado encargada de las áreas de Investigación y Persecución del Delito; Atención a Víctimas del Delito y de Violaciones a los Derechos Humanos; Investigación de Violaciones a Derechos Humanos; Operaciones Estratégicas; Combate a la Corrupción; e Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; coadyuvante en materia de Seguridad Pública y Prevención.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL P.O. 1 DE ENERO DE 2020, PÁGINA 4]</small>
 
@@ -1376,6 +1380,10 @@ A. Coadyuvar en materia de Seguridad Pública y Prevención del Delito:
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2020)</small>
 
 I. Participar, en el ámbito de su competencia, en el desarrollo de las políticas de seguridad pública que establezca el titular del Poder Ejecutivo y en la política criminal en el ámbito estatal, así como coadyuvar en la expedición de las normas, protocolos, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos, así como aquellas que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+En el caso de la Alerta Amber y el Protocolo Alba, deberán impulsar la celebración de convenios con instituciones públicas y privadas, para la instrumentación de estrategias tecnológicas, incluida la telefonía celular, que permitan desplegar las acciones iniciales en la búsqueda inmediata y sin dilación alguna, de niñas, niños, adolescentes, mujeres y hombres desaparecidos o no localizados.
 
 II. (DEROGADA, P.O. 1 DE ENERO DE 2020)
 
@@ -1541,6 +1549,10 @@ H. (DEROGADA, P.O. 30 DE ENERO DE 2023)
 
 I. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+J. En materia de investigación de delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, en términos de lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
 (NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PROCESO LEGISLATIVO DEL DECRETO NO. LXVI/RFLEY/0513/2019 I P.O. PUBLICADO EN EL P.O. DE 4 DE MARZO DE 2020, LA MODIFICACIÓN CORRESPONDE AL PRESENTE PÁRRAFO]</small>
@@ -1672,6 +1684,10 @@ IV. Proponer la política criminal en el ámbito Estatal, que comprende las norm
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
 V. Realizar aquellas acciones que tengan por objeto la búsqueda inmediata de mujeres, niñas y niños desaparecidos, utilizando los medios de comunicación a su alcance y, en su caso, estableciendo convenios con los sectores públicos y privados para darle la difusión debida.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+En el caso de la Alerta Amber y el Protocolo Alba, deberán impulsar la celebración de convenios con instituciones públicas y privadas, para la instrumentación de estrategias tecnológicas, incluida la telefonía celular, que permitan desplegar las acciones iniciales en la búsqueda inmediata y sin dilación alguna, de niñas, niños, adolescentes, mujeres y hombres desaparecidos o no localizados.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
@@ -3816,3 +3832,61 @@ En atención a lo que dispone el artículo 202 de la Constitución Política del
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0204/2025 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la efectiva implementación del presente Decreto, la Secretaría de Hacienda y la Fiscalía General, ambas del Estado, de conformidad con las disposiciones legales vigentes y aplicables, con sujeción a la disponibilidad prevista en el Presupuesto de Egresos del Estado de Chihuahua, realizarán las gestiones presupuestales necesarias.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, todos los asuntos que actualmente estén en trámite ante la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, en materia de tortura y otros tratos o penas crueles, inhumanos o degradantes, pasarán a la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, que se crea en virtud del presente Decreto.
+
+La Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada de la Fiscalía General del Estado y la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, realizarán los trámites de entrega recepción que correspondan, para transmitir los documentos, archivos u otros bienes.
+
+###### ARTÍCULO QUINTO.
+
+A la entrada en vigor del presente Decreto, todos los recursos humanos, materiales y financieros que formen parte de la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada, destinados al conocimiento y tratamiento de asuntos en materia de tortura y otros tratos o penas crueles, inhumanos o degradantes, se integrarán a la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+Las y los servidores públicos adscritos a la Fiscalía Especializada en Investigación de Violaciones a los Derechos Humanos y Desaparición Forzada que pasen a formar parte de la Fiscalía que se crea en virtud de este Decreto, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal realizará las adecuaciones reglamentarias y administrativas necesarias a efecto de operar la Fiscalía Especializada en Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, con las áreas previstas para su conformación.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0206/2025 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el artículo 104 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, se conforma la Subcomisión de seguimiento post legislativo del presente Decreto, dependiente de la Comisión de Seguridad Pública y Protección Civil de este H. Congreso del Estado, a efecto de que verifique su operatividad, identifique áreas de oportunidad legislativa que considere necesarias para el cumplimiento de los fines del presente y, en su caso, formule las iniciativas para que se incorporen al proceso legislativo, de acuerdo con la normatividad aplicable.
+
+Para lo cual, podrán realizar reuniones informativas, de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema.
+
+La Subcomisión quedará conformada de la siguiente forma:
+
+Coordinadora: Diputada Nancy Janeth Frías Frías.
+
+Vocal: Diputada Irlanda Dominique Márquez Nolasco.
+
+Vocal: Diputado Pedro Torres Estrada.
+
+Pudiendo auxiliarse en cualquier momento, del Diputado Octavio Javier Borunda Quevedo.
+
+Secretaría Técnica: Guillermo Trejo Neder.
