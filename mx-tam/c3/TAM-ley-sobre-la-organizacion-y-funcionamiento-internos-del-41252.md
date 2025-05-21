@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2025-02-12"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -805,13 +805,17 @@ ac) Anticorrupción;
 
 ad) Cohesión Social;
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
-ae) Energía y Cambio Climático; y
+ae) Energía y Cambio Climático;
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
-af) Participación Ciudadana.
+af) Participación Ciudadana; y
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+ag) Vivienda
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -4318,6 +4322,14 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 P.O. 12 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-240 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, INCISOS K) Y Ñ), DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-319 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS AE) Y AF); Y SE ADICIONA UN INCISO AG), AL NUMERAL 2, DEL ARTÍCULO 35, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
