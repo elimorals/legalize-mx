@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2025-03-01"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -3829,6 +3829,10 @@ Sin perjuicio de lo dispuesto en la Ley para la Prevención Social de la Violenc
 
 Para el caso de personas desaparecidas o no localizadas, deberán implementar sistemas de alerta y protocolos de acción inmediata para su búsqueda y localización, de acuerdo al Código Adam y el Protocolo Homologado de Búsqueda, en el que participarán las Instituciones de Seguridad Pública, corporaciones de emergencia, y podrán coadyuvar medios de comunicación, prestadores de servicios de telecomunicaciones, organizaciones no gubernamentales y ciudadanía en general.
 
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+En el caso de la Alerta Amber y el Protocolo Alba, las instituciones de seguridad pública, están obligadas a realizar las acciones específicas solicitadas por la autoridad competente, de acuerdo con los instrumentos o protocolos previamente establecidos.
+
 ###### Artículo 292.
 
 Los programas del Estado y los municipios en materia de prevención social de la violencia y la delincuencia, deberán sujetarse a las bases previstas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, la Ley General y demás disposiciones aplicables
@@ -4684,3 +4688,29 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se abrogan los Decretos No. LXVI/RFDEC/0619/2019 I P.O. y 1572/2016 XXI P.E.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFLEY/0206/2025 II P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el artículo 104 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, se conforma la Subcomisión de seguimiento post legislativo del presente Decreto, dependiente de la Comisión de Seguridad Pública y Protección Civil de este H. Congreso del Estado, a efecto de que verifique su operatividad, identifique áreas de oportunidad legislativa que considere necesarias para el cumplimiento de los fines del presente y, en su caso, formule las iniciativas para que se incorporen al proceso legislativo, de acuerdo con la normatividad aplicable.
+
+Para lo cual, podrán realizar reuniones informativas, de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema.
+
+La Subcomisión quedará conformada de la siguiente forma:
+
+Coordinadora: Diputada Nancy Janeth Frías Frías.
+
+Vocal: Diputada Irlanda Dominique Márquez Nolasco.
+
+Vocal: Diputado Pedro Torres Estrada.
+
+Pudiendo auxiliarse en cualquier momento, del Diputado Octavio Javier Borunda Quevedo.
+
+Secretaría Técnica: Guillermo Trejo Neder.
