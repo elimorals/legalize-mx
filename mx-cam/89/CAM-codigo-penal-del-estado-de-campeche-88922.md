@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-05-13"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1731,13 +1731,13 @@ VIII. El cuerpo o restos de la víctima hayan sido enterrados, ocultos, incinera
 
 IX. Cuando la víctima se haya encontrado en un estado de indefensión o vulnerabilidad, antes o durante la privación de la vida, entendiéndose esta como la situación de desprotección real o incapacidad que imposibilite su defensa o la solicitud de auxilio.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
-A quien cometa el delito de feminicidio se le impondrán de cuarenta y cinco a setenta años de prisión y multa de quinientas a mil Unidades de Medida y Actualización. Cuando la víctima sea menor de edad la pena mínima aplicable será de cincuenta y cinco años.
+A quien cometa el delito de feminicidio se le impondrán de cuarenta y cinco a setenta años de prisión y multa de quinientas a mil Unidades de Medida y Actualización. La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada, adulta mayor o con discapacidad, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
 
-Además de las sanciones que correspondan al sujeto activo, éste perderá, si los tuviere, todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+Además de las sanciones que correspondan al sujeto activo, éste perderá, si los tuviere, todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. En su caso, también perderá todo derecho con relación a las hijas e hijos de la víctima, garantizando el interés superior de la niñez en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -5376,3 +5376,13 @@ P.O. 13 DE MAYO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 88 POR EL QUE “SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 160 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
