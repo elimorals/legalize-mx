@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-derechos-y-cultura-indigena-del-estado-de-tabasco-68282"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2017-07-05"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Ley publicada en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 25 de abril de 2009.
 
@@ -107,9 +107,11 @@ El Estado deberá asegurar, que los integrantes de las comunidades indígenas go
 
 Los pueblos indígenas y sus comunidades, tienen derecho a determinar libremente su existencia como tales, y a que en la ley y en la práctica se les reconozca esa forma de identidad social y cultural. Asimismo, tienen derecho a determinar conforme a la tradición de cada uno, su propia composición, y a ejercer con autonomía todos los derechos que esta ley reconoce a dichos pueblos y sus comunidades.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 7.
 
-Los pueblos y comunidades indígenas tendrán el carácter de personas colectivas de derecho público.
+Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 
 ###### Artículo 8.
 
@@ -333,9 +335,21 @@ El Poder Ejecutivo del Estado directamente o en colaboración con los Ayuntamien
 
 El Poder Ejecutivo del Estado y los Ayuntamientos o Concejos Municipales, impulsarán una educación integral indígena, respetando el quehacer educativo dentro de su propio espacio cultural. La asignación de los recursos financieros, materiales y humanos, para instrumentar y llevara cabo las acciones educativas y culturales que se determinen, deberá hacerse de conformidad con el presupuesto asignado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS INCISOS], P.O. 21 DE MAYO DE 2025)</small>
+
 ###### Artículo 40.
 
-El Gobierno del Estado, debe hacer efectivo a los pueblos indígenas su derecho a una educación bilingüe gratuita y de calidad; tomando en cuenta criterios académicos y de desempeño profesional del personal docente asignado a las comunidades.
+El Gobierno del Estado, debe garantizar y fortalecer a los pueblos y comunidades indígenas reconocidos en el Estado de Tabasco, su derecho a una educación indígena intercultural y plurilingüe, basada en el respeto, promoción y preservación del patrimonio histórico y cultural, gratuita y de excelencia, mediante:
+
+a) La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
+
+b) La formación de profesionales indígenas y la implementación de la educación comunitaria;
+
+c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+
+d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
+
+e) La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para el Estado de Tabasco; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo.
 
 Esta educación bilingüe e intercultural, será impartida en todos los niveles, haciéndose obligatoria la enseñanza de las lenguas Chontal o Yokot´an, Chol, Zoque, Tzeltal, Tzotzil y Náhuatl, en la educación de los pueblos indígenas, y de sus comunidades donde radican estas etnias.
 
@@ -740,3 +754,11 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 114 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7 Y 40, PRIMER PÁRRAFO, DE LA LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado, en un plazo no mayor de noventa días naturales, a partir de la entrada en vigor del Presente Decreto, deberá realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a este.
