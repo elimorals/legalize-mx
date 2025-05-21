@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-04-08"
+last_updated: "2025-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -373,7 +373,13 @@ c).- TERCERA: Que no hubo necesidad racional del medio empleado en la defensa; y
 
 d).- CUARTA: Que el daño que iba a causar el agresor, era fácilmente reparable después por medios legales o era notoriamente de poca importancia comparado con el que causó la defensa.
 
-Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño a quien a través de la violencia, del escalamiento o por cualquier otro medio, trate de penetrar, sin derecho, a su hogar, al de su familia, a sus dependencias o a los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes propios o ajenos respecto de los que tenga la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la posibilidad de una agresión;
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2025)</small>
+
+Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño a quien a través de la violencia, del escalamiento o por cualquier otro medio, trate de penetrar, sin derecho, a su hogar, al de su familia, a sus dependencias o a los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes propios o ajenos respecto de los que tenga la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la posibilidad de una agresión. En los casos relacionados con mujeres víctimas de violencia de género, se deberá juzgar en todo momento bajo esta perspectiva.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+También se considerará legítima defensa cuando una persona actúe para proteger a una mujer que se encuentre en una situación de violencia de género, abarcando la violencia física, sexual y/o feminicida, conforme a lo previsto en la legislación general y local en la materia, y cause un daño al agresor, con el propósito de hacer cesar dicha conducta.
 
 III.- La necesidad de salvaguardar un bien jurídico propio o ajeno de un peligro real, grave, actual o inminente, y no previsto por el agente, siempre que no exista otro medio practicable y menos perjudicial y el bien sacrificado sea de menor jerarquía que el protegido;
 
@@ -392,6 +398,10 @@ No se justifica el hecho, ni se disminuye la sanción, cuando, por error o accid
 ###### ARTICULO 34.
 
 El que exceda en el caso de legítima defensa, por intervenir la tercera o cuarta circunstancia enumeradas en la fracción II del artículo 32, será sancionado como delincuente imprudencial.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2025)</small>
+
+No se considerará exceso en la legítima defensa, cuando al momento en que ésta se concrete concurran circunstancias en las que la persona agredida sufra miedo o terror que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados, conforme a las valoraciones psicológicas conducentes.
 
 ### CAPITULO III. CAUSAS DE INIMPUTABILIDAD
 
@@ -7756,6 +7766,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-270 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XIX, Y SE ADICIONA LA FRACCIÓN XX, AL ARTÍCULO 418, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-320 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL PÁRRAFO TERCERO, A LA FRACCIÓN II, DEL ARTÍCULO 32 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
