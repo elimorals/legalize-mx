@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2024-07-22"
+last_updated: "2025-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -1524,3 +1526,31 @@ P.O. 22 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA OBSTÉTRICA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 22 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit y su reglamento, publicados el 15 de noviembre de 2008 y el 08 de marzo de 2010 respectivamente, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por la presente Ley.
+
+CUARTO. En un plazo no mayor a 90 días naturales, posteriores a la entrada en vigor de la Ley, el Ejecutivo Estatal emitirá el Reglamento del presente ordenamiento.
+
+QUINTO. En un plazo no mayor a 180 días naturales, posteriores a la entrada en vigor de la presente Ley deberán realizarse las adecuaciones normativas siguientes:
+
+I. De la esfera de la Administración Pública Estatal, el Titular del Poder Ejecutivo, así como las dependencias y entidades en su ámbito competencial realizarán las adecuaciones normativas que sean necesarias para cumplir el Objeto de la presente Ley;
+
+II. Las modificaciones pertinentes al Acuerdo Administrativo que crea el Centro de Justicia para la Mujer del Estado de Nayarit, publicado el 28 de mayo del 2012, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y
+
+III. En la esfera Municipal, los Ayuntamientos emitirán los Reglamentos y reformarán aquellos que sean necesarios para cumplir el objeto de la presente Ley.
+
+SEXTO. El Sistema Estatal a que se refiere esta Ley, se integrará en un plazo no mayor a 60 días siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. En un plazo no mayor a 180 días naturales posteriores a la entrada en vigor de la presente Ley, se deberá integrar la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencia de Género.
+
+OCTAVO. En un plazo no mayor a 90 días naturales posteriores a la entrada en vigor de la presente Ley, las autoridades administrativas, ministeriales y jurisdiccionales deberán establecer sus Lineamientos Básicos para la Implementación de las Órdenes de Protección.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán de conformidad con la disponibilidad presupuestal del Estado y sus municipios para el presente ejercicio fiscal y subsecuentes.
