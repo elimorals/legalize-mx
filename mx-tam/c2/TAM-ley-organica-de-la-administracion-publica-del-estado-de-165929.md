@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-02-26"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -267,31 +267,57 @@ XVI. Formular y proponer al Gobernador políticas públicas, planes, programas y
 
 XVII. Dar seguimiento a las políticas, planes, programas y acciones de gobierno y evaluar sus resultados presupuestales, económicos y sociales, informando al Gobernador de ellos;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XVIII. Administrar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
+XVIII. Planificar, administrar y supervisar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XIX. Analizar las necesidades de información de las diferentes Dependencias y Entidades, con objeto de hacer más eficiente y optimizar los sistemas actuales; y proponer, desarrollar y ejecutar por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
+XIX. Analizar las necesidades de información de las diferentes Dependencias y Entidades, con objeto de hacer más eficiente y optimizar los sistemas actuales; y proponer, desarrollar, ejecutar proyectos ya sea de manera interna o a través de terceros, así como autorizar los proyectos de desarrollos tecnológicos que se lleven a cabo en el ámbito de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XX. Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos y coordinar el otorgamiento de los servicios que en la materia requieran las distintas Dependencias y Entidades de la Administración Pública;
+XX. Emitir disposiciones para la adquisición, arrendamiento y prestación de servicios en materia de tecnologías de la información y comunicaciones, telecomunicaciones, y desarrollo de software, así como dictaminar su aprovisionamiento de las Dependencias y Entidades de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XXI. Definir, desarrollar, operar y regular la política pública estatal en materia de informática, tecnologías de la información, telecomunicación, Gobierno Digital y datos abiertos en Dependencias y Entidades de la Administración Pública Estatal, en términos de las disposiciones aplicables;
+XXI. Definir, desarrollar, regular, operar y conducir la política pública estatal en materia de informática, tecnologías de la información, telecomunicaciones, gobierno digital, datos abiertos, gobierno abierto, gestión de datos y mejora regulatoria en las Dependencias y Entidades de la Administración Pública Estatal y los municipios, asegurando su correcta implementación y cumplimiento conforme a las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+XXII. (DEROGADA, P.O. 22 DE MAYO DE 2025)
 
-XXII. Establecer mecanismos de coordinación que aseguren la eficiencia, eficacia, economía, transparencia y honradez en la administración de los recursos humanos, materiales, físicos y tecnológicos de las direcciones administrativas o equivalentes en su función en las Dependencias y Entidades de la Administración Pública Estatal, quienes informarán a la Oficina del Gobernador, el estado que guarda la unidad administrativa a su cargo en la periodicidad que dicha dependencia establezca, manteniendo un monitoreo permanente mediante la implementación de sistemas de inteligencia administrativa;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+XXIII. Diseñar, desarrollar y optimizar las redes de voz, video y datos para mejorar la operación de las Dependencias y Entidades de la Administración Pública Estatal;
 
-XXIII. Diseñar y desarrollar las redes de voz, video y datos e impulsar su aplicación para una efectiva operación en las dependencias y entidades de la Administración Pública Estatal; y
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
 
-XXIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXIV. Fomentar el cumplimiento de las políticas públicas en materia de inclusión digital, innovación e inteligencia digital en el Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+
+XXV. Gestionar la ejecución de la política de simplificación y digitalización, integrando la tecnología en los procesos regulatorios del Gobierno del Estado y municipios;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+
+XXVI. Coordinar la simplificación y digitalización de trámites y servicios a cargo de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+
+XXVII. Diseñar y conducir proyectos de simplificación y digitalización en coordinación con los municipios del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+
+XXVIII. Gestionar el análisis de las bases de datos que las Dependencias y Entidades de la Administración Pública Estatal generen, mediante una arquitectura de datos consumibles, excluyendo la información en materia de seguridad para identificar información que contribuya a la toma de decisiones y al diseño de políticas públicas;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+
+XXIX. Definir los instrumentos, herramientas y mecanismos para la implementación del modelo integral de contacto ciudadano de la Agencia para las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2025)</small>
+
+XXX. Fungir como Autoridad en materia de Firma Electrónica Avanzada, en término de la normatividad aplicable; y
+
+XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección II. De la Secretaría General de Gobierno
 
@@ -1319,7 +1345,9 @@ IV. Establecer mecanismos internos para la Administración Pública Estatal que 
 
 V. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda y patrimonio;
 
-VI. Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal, al igual que implementar la mejora regulatoria de trámites y servicios gubernamentales y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
+
+VI. Organizar y coordinar el desarrollo administrativo integral en las Dependencias y Entidades de la Administración Pública Estatal, emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, respectivamente, con criterios de eficacia, legalidad, eficiencia y modernización administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias;
 
 VII. Conducir las políticas, establecer las normas y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación del personal, estructuras orgánicas y ocupacionales, de conformidad con las respectivas normas de control de gasto en materia de servicios personales; sin perjuicio de las atribuciones de la Secretaría de Administración;
 
@@ -1353,7 +1381,9 @@ XX. Analizar y dictaminar las estructuras orgánicas y ocupacionales de las depe
 
 XXI. Conducir en forma coordinada con la Secretaría de Administración y la Secretaría de Obras Públicas, la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus municipios y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas respectivamente, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez, mediante la emisión de lineamientos, manuales y demás instrumentos análogos que se requieran en materia de contrataciones públicas; asesorar a través de sus áreas competentes, en materia de adquisiciones, obras públicas y servicios relacionados con las mismas, cuando así lo requieran las dependencias y entidades de la Administración Pública Estatal, en su caso, los municipios;
 
-XXII. Definir y vigilar las políticas de gobierno abierto y datos abiertos, en el ámbito de las dependencias y entidades de la Administración Pública Estatal en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
+
+XXII. Vigilar la aplicación de las políticas de gobierno abierto y datos abiertos, en el ámbito de las Dependencias y Entidades de la Administración Pública Estatal en términos de las disposiciones aplicables;
 
 XXIII. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
 
@@ -1772,3 +1802,19 @@ Se instruye a la Secretaría de Economía para que en un plazo de 90 días, post
 ###### ARTÍCULO QUINTO.
 
 Los actos jurídicos celebrados por la Empresa de Participación Estatal Mayoritaria denominada "Administración Portuaria Integral de Tamaulipas", Sociedad Anónima de Capital Variable, previos a la entrada en vigor del presente Decreto, se entenderán válidos y vigentes, sin que se cause perjuicio alguno derivado de la nueva sectorización de la misma.
+
+P.O. 22 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-323 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Oficina del Gobernador, así como a la Contraloría Gubernamental, realizar las adecuaciones presupuestales, financieras y de recursos humanos, a efecto de dar cumplimiento a lo establecido en el presente Decreto, las cuales deberán quedar concluidas en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto, debiéndose garantizar en todo memento las prestaciones económicas con que cuenta actualmente el recurso humano adscrito a la Contraloría Gubernamental.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
