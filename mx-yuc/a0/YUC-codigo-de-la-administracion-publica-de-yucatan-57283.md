@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2025-05-07"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2025 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 22 DE MAYO DE 2025.]</small>
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -137,7 +137,9 @@ La coordinación con la Administración Pública Federal, respecto de la planeac
 
 Las políticas generales en materia de administración y desarrollo de personal y prestación del servicio social en las dependencias y entidades de la administración pública serán formuladas, aplicadas y coordinadas por la Secretaria de Administración y Finanzas, la cual en lo que respecta a la contratación de personal para ocupar los puestos vacantes o de nueva creación, destinará cuando menos al 3 por ciento de aquellas, a personas con alguna discapacidad, así como el 2 por ciento a las personas adultas mayores, debiendo existir la disponibilidad y la solicitud para ocupar la misma, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
 
-Para los efectos del párrafo anterior, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de (sic) Ley General para la Inclusión de las Personas con Discapacidad, y por persona adulta mayor lo dispuesto por el artículo 3 fracción I de la Ley de los Derechos de las Personas Adultos (sic) Mayores.
+> <small>(F. DE E., D.O. 22 DE MAYO DE 2025)</small>
+
+Para los efectos del párrafo anterior, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, de (sic) Ley General para la Inclusión de las Personas con Discapacidad, y por persona adulta mayor lo dispuesto por el artículo 3 fracción I de la Ley de los Derechos de las Personas Adultas Mayores.
 
 > <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
