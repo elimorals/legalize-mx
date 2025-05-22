@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-proteccion-de-personas-que-intervienen-en-el-102590
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2024-12-04"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -631,11 +631,9 @@ El Programa establecerá cuando menos los requisitos de ingreso, terminación, m
 
 Desacato de la medida de protección ordenada
 
-(NOTA: EL 19 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO, DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 194/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE DICIEMBRE DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 0017, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2024)</small>
-
-Aquél o aquélla a quien corresponda acatar la medida de protección acordada a favor de las víctimas, testigos y demás sujetos procesales, que no le diere cabal cumplimiento, en los términos y condiciones establecidos, será sancionado con prisión de tres meses a un año Y MULTA DE QUINIENTAS UNIDADES DE MEDIA (SIC) Y ACTUALIZACIÓN.
+Aquél o aquélla a quien corresponda acatar la medida de protección acordada a favor de las víctimas, testigos y demás sujetos procesales, que no le diere cabal cumplimiento, en los términos y condiciones establecidos, será sancionado con prisión de tres meses a un año y multa de cien a quinientas Unidades de Media (sic) y Actualización.
 
 ###### Artículo 51.
 
@@ -696,3 +694,9 @@ P.O. 4 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0017.- SE REFORMAN LAS FRACCIONES III Y VII DEL ARTÍCULO 4º; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 6º; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 12; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 14; EL TERCER PÁRRAFO DEL ARTÍCULO 23; LA FRACCIÓN II DEL ARTÍCULO 28; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 44; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; LAS FRACCIONES VI Y VII DEL ARTÍCULO 47 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 50, DE LA LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 22 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0204.- QUE REFORMA EL ARTÍCULO 50, DE LA LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
