@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-firma-electronica-avanzada-para-el-estado-de-95999"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2023-08-23"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -105,9 +105,9 @@ XVI. Mensaje de datos: La información generada, enviada, recibida o archivada p
 
 XVII. Prestador de servicios de certificación: La persona física o moral, pública o privada, que expide certificados electrónicos, o prestan otros servicios en relación con la firma electrónica avanzada; y
 
-> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XVIII. Secretaría: La Secretaría de Administración del Estado de Tamaulipas.
+XVIII. Oficina del Gobernador: Oficinas del Gobernador del Estado de Tamaulipas.
 
 ###### ARTÍCULO 4.
 
@@ -263,9 +263,9 @@ II. En caso de requerirse su presentación, si la misma puede mostrarse a la per
 
 1. Para los efectos de la presente Ley, serán autoridades certificadoras en su respectivo ámbito de competencia:
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-I. El Poder Ejecutivo, por conducto de la Secretaría;
+I. El Poder Ejecutivo, por conducto de la Oficina del Gobernador;
 
 II. El Poder Legislativo;
 
@@ -591,9 +591,9 @@ VIII. Cancelación o suspensión del certificado a solicitud del interesado.
 
 ###### ARTÍCULO 40.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2025)</small>
 
-1. Cuando un servidor público deje de prestar sus servicios y cuente con un certificado de firma electrónica avanzada en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo. Tratándose de titulares de dependencias estatales, la cancelación se hará por la Secretaría, y de titulares de entidades estatales, la orden de cancelación la hará el titular de la dependencia que tenga a su cargo la coordinación administrativa, salvo que sean coordinadas directamente por el Ejecutivo Estatal, casos en que la cancelación la hará directamente la Secretaría.
+1. Cuando una persona servidora pública deje de prestar sus servicios y cuente con un certificado de firma electrónica avanzada en virtud de sus funciones, el superior jerárquico ordenará la cancelación inmediata del mismo. Tratándose de titulares de dependencias estatales, la cancelación se hará por la Oficina del Gobernador y de titulares de entidades estatales, la orden de cancelación la hará el titular de la dependencia que tenga a su cargo la coordinación administrativa, salvo que sean coordinadas directamente por el Ejecutivo Estatal, casos en que la cancelación la hará directamente la Oficina del Gobernador.
 
 2. Tratándose de servidores públicos electos a un puesto de elección popular, o designados para cumplir un periodo de tiempo determinado, que cuenten con un certificado de firma electrónica avanzada en virtud de sus funciones, el mismo deberá ser cancelado desde el momento en que concluyó el periodo para el que fue electo o designado.
 
@@ -734,6 +734,22 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Administración y la Contraloría Gubernamental realizarán en un término de 90 días, las adecuaciones y transferencias que con motivo de la expedición del presente Decreto deban realizarse de una dependencia a otra.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-324 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN XVIII; 23, PÁRRAFO 1, FRACCIÓN I; Y 40, PÁRRAFO 1 DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Oficina del Gobernador y la Secretaría de Administración realizarán en un término de 60 días, las adecuaciones y transferencias que con motivo de la expedición del presente Decreto deban realizarse.
 
 ###### ARTÍCULO TERCERO.
 
