@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2025-05-07"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE MAYO DE 2025 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 22 DE MAYO DE 2025.]</small>
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -2207,9 +2207,9 @@ Los Ayuntamientos destinarán el 3 por ciento de los puestos vacantes y de nueva
 
 Para los efectos del párrafo anterior, deberá de existir la disponibilidad y la solicitud para ocupar las mismas, siempre y cuando posean estas personas, los conocimientos, destrezas y/o aptitudes compatibles con la función a desempeñar.
 
-> <small>(REFORMADO, D.O. 7 DE MAYO DE 2025)</small>
+(REFORMADO, D.O. 7 DE MAYO DE 2025) (F. DE E., D.O. 22 DE MAYO DE 2025)
 
-Para los efectos del primer párrafo, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, y por persona adulta mayor lo dispuesto por el artículo 3 fracción I de la Ley de los Derechos de las Personas Adultos Mayores.
+Para los efectos del primer párrafo, se entenderá por discapacidad lo dispuesto por el artículo 2, fracciones IX, X, XI, XII, XIII, y por persona adulta mayor lo dispuesto por el artículo 3 fracción I de la Ley de los Derechos de las Personas Adultas Mayores.
 
 > <small>(ADICIONADO, D.O. 20 DE ENERO DE 2023)</small>
 
