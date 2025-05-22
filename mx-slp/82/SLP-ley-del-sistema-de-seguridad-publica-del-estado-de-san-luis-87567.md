@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2024-09-18"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1339,11 +1339,15 @@ XV. Participar en el establecimiento de fondos de apoyo para beneficio propio y 
 
 XVI. Permanecer en su cargo cumpliendo con las funciones inherentes al mismo, excepto en los casos previstos por la presente Ley y su Reglamento;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XVII. Recibir orientación, asesoría y tratamiento psicológico, lo cual deberá de ser otorgado por la institución de seguridad pública a la que pertenezcan, y
+XVII. Recibir orientación, asesoría y tratamiento psicológico, lo cual deberá de ser otorgado por la institución de seguridad pública a la que pertenezcan;
 
-XVIII. Las demás que les confieran las leyes y reglamentos en la materia.
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2025)</small>
+
+XVIII. Pago de gastos funerarios con (sic) caso de fallecimiento en el cumplimiento de sus funciones, y
+
+XIX. Las demás que les confieran las leyes y reglamentos en la materia.
 
 ###### ARTICULO 58.
 
@@ -3246,3 +3250,9 @@ P.O. 18 DE SEPTIEMBRE DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0200.- QUE REFORMA Y ADICIONA EL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
