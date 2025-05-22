@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-defensoria-publica-del-estado-de-san-luis-potosi-1025
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-17"
-last_updated: "2025-03-31"
+last_updated: "2025-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 17 de septiembre de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 767
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-E X P O S I C I Ó N D E M O T I V O S...
+E X P O S I C I Ó N D E M O T I V O S
+
+[...]
 
 Con la expedición de una nueva Ley de la Defensoría Pública del Estado, en concordancia con los postulados del nuevo Sistema de Justicia Penal de corte adversarial, y que como órgano desconcentrado de la administración pública, dependiente del Despacho del Gobernador, contará con la autonomía técnica y de gestión que le permitirá operar de manera ágil y eficiente para cumplir efectivamente con su propósito de brindar la debida defensa pública que garantizan los artículos 20 de la Constitución General de la República y 18 de la Constitución Política del Estado.
 
@@ -671,7 +673,9 @@ Las atribuciones, de las y los defensores públicos, son las siguientes:
 
 I. Conducirse con ética profesional, de conformidad con el Código de Ética establecido para servidores públicos del Poder Ejecutivo del Estado;
 
-II. Atender de forma inmediata las solicitudes que le sean turnadas por la dirección del área a la cual se encuentren adscritos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
+
+II. Atender de forma inmediata las solicitudes que le sean turnadas por la dirección del área a la cual se encuentren adscritos, bajo la perspectiva de género, así como de infancia y adolescencia;
 
 III. Atender con profesionalismo, calidad y actitud de servicio a las personas solicitantes de sus servicios;
 
@@ -699,9 +703,9 @@ XIII. Las y los defensores Públicos en materia penal, deberán observar los lin
 
 XIV. Las y los defensores públicos adscritos al área de personas y comunidades indígenas, además de cumplir con los requisitos antes descritos en la representación o defensa deberán observar y cumplir las obligaciones y facultades que se describen en el Reglamento Interior de la Defensoría Pública;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2025)</small>
 
-XV. Tratándose de las y los defensores de oficio especializados en el Sistema de Justicia Penal para Adolescentes, deberán acreditar los cursos de capacitación organizados por la Coordinación General de la Defensoría Pública, y
+XV. Tratándose de las y los defensores de oficio especializados en el Sistema de Justicia Penal para Adolescentes, deberán actuar bajo la perspectiva de infancia y adolescencia, y acreditar los cursos de capacitación organizados por la Coordinación General de la Defensoría Pública, y
 
 XVI. Las demás que se deriven de la naturaleza de sus funciones y los que se establezcan en el Reglamento Interior.
 
@@ -1110,3 +1114,11 @@ P.O. 31 DE MARZO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0203.- QUE REFORMA LAS FRACCIONES II Y XV, DEL ARTÍCULO 44 DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
