@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2025-05-02"
+last_updated: "2025-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -279,6 +279,20 @@ XVI. Establecer programas para:
 
 9. Las demás que se consideren necesarias según las circunstancias sociales de las regiones y municipios de la entidad.
 
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 23 DE MAYO DE 2025)</small>
+
+XVII. Garantizar la confidencialidad de los datos personales de las mujeres víctimas de violencia, en consecuencia, deberán:
+
+1. Evitar transferencia de registros de datos personales de las mujeres víctimas de violencia en todos aquellos libros, archivos, expedientes u otros sistemas, físicos o digitales, que puedan ser susceptibles de apropiación de la información por parte de terceros.
+
+2. La persona servidora pública a cargo del manejo y consignación de datos personales de mujeres víctimas de violencia será responsable de su conservación, confidencialidad y resguardo.
+
+3. La persona servidora pública que difunda o facilite datos personales de mujeres víctimas de violencia será sancionado de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley de Protección de Datos Personales del Estado de Guerrero en Posesión de Sujetos Obligados, el Código Penal para el Estado de Guerrero y la Ley Responsabilidad Política, Penal y Civil de los Servidores Públicos del Estado de Guerrero.
+
+4. Los datos personales de mujeres víctimas de violencia tendrán el carácter de reservados de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales del Estado de Guerrero en Posesión de Sujetos Obligados.
+
+5. Las instituciones públicas que brinden servicios de prevención o atención a las mujeres víctimas de violencia deberán reservar los datos personales de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales del Estado de Guerrero en Posesión de Sujetos Obligados.
+
 ## TÍTULO TERCERO
 
 ### CAPÍTULO I. TIPOS DE VIOLENCIA
@@ -422,6 +436,10 @@ XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de da�
 ARTÍCULO 9 BIS.- Tratándose de violencia digital o mediática para garantizar la integridad de la víctima se ordenará a la autoridad competente las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley. En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
 
 La violencia digital y mediática será sancionada en la forma y términos que establezca el artículo 187 del Código Penal para el Estado Libre y Soberano de Guerrero, No. 499.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2025)</small>
+
+El Estado y los Municipios deberán, en cualquier momento, garantizar la protección de los datos sensibles de las mujeres que han sufrido violencia digital, mediática o cualquier otro tipo de violencia.
 
 ### CAPÍTULO II. DE LA VIOLENCIA FAMILIAR
 
@@ -1539,6 +1557,10 @@ XIII. Solicitar al Ejecutivo del Estado, la declaratoria de Alerta de Violencia 
 
 XIV. Instalar el Sistema Municipal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, contando con la participación de representantes del Ayuntamiento, de la administración pública municipal y de las organizaciones de mujeres en el municipio.
 
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XV. Brindar servicios de prevención y de atención a mujeres víctimas de cualquier tipo de violencia, protegiendo en todo momento los datos de las usuarias, sus hijas e hijos.
+
 > <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
 
 #### SECCIÓN DÉCIMA OCTAVA. DE LAS ORGANIZACIONES CIVILES
@@ -1830,3 +1852,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 TERCERO. Publíquese en la Gaceta Parlamentaria, en el Portal Web de este H. Congreso del Estado de Guerrero, en las redes sociales de internet y difúndase a través de los medios de comunicación para su conocimiento general.
+
+P.O. 23 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236 POR EL QUE SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 8, UN TERCER PÁRRAFO AL ARTÍCULO 9 BIS Y LA FRACCIÓN XV AL ARTÍCULO 59 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
