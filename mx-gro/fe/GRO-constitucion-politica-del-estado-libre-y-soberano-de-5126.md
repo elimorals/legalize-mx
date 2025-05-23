@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2022-05-20"
+last_updated: "2025-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -3401,11 +3401,15 @@ Los Ayuntamientos también contarán con Consejos de Participación Ciudadana, q
 
 #### SECCIÓN II. ESTATUTO JURÍDICO DE SUS INTEGRANTES
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 173.
 
-Para ser Presidente Municipal, Síndico o Regidor de un ayuntamiento se requiere cumplir con los requisitos previstos en el artículo 46 de esta Constitución, ser originario del municipio que corresponda o con una residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+Para ser Presidente Municipal o Síndico de un Ayuntamiento, se requiere cumplir con los requisitos previstos en el artículo 46 de esta Constitución, ser originario del municipio que corresponda o con una residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2025)</small>
+
+Para ser Regidor de un Ayuntamiento se requiere cumplir con los mismos requisitos que el de Presidente o Síndico Procurador, con la excepción de tener dieciocho años de edad cumplidos el día de la elección.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5332,3 +5336,15 @@ TERCERO.- Para la conformación de los ayuntamientos instituyentes de los nuevos
 CUARTO.- Remítase a la titular del Poder Ejecutivo para su conocimiento (sic) efectos legales correspondientes.
 
 QUINTO.- Publíquese en el portal web del Congreso, para conocimiento general.
+
+P.O. 23 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 183 QUE REFORMA EL PÁRRAFO PRIMERO Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 173 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos correspondientes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
