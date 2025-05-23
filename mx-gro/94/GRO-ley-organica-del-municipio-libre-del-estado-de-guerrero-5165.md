@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-09-17"
+last_updated: "2025-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -457,37 +457,59 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 El Ayuntamiento radicará en la Cabecera del Municipio respectivo. Sólo con la aprobación del Congreso del Estado y con causa justificada, podrá trasladarse a otro lugar dentro de los límites territoriales del Municipio.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 29.
 
-Los Ayuntamientos a propuesta de la Presidencia Municipal y observando el principio de paridad, nombrarán a las personas servidoras públicas, sin perjuicio de la denominación o rango jerárquico que los propios Ayuntamientos establezcan, en la titularidad de las siguientes áreas:
+Los Ayuntamientos a propuesta de la Presidencia Municipal y en cumplimiento al principio de paridad, nombrarán a las personas servidoras públicas, sin perjuicio de la denominación o rango jerárquico que los propios Ayuntamientos establezcan, en la titularidad de las siguientes áreas:
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
 I. Secretaría General;
 
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
 II. Oficialía Mayor o Administración;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
 III. Tesorería;
 
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
 IV. Seguridad Pública; quien deberá reunir los requisitos previstos en la Ley de Seguridad Pública del Estado de Guerrero, además de ser previamente evaluada/o, capacitada/o y certificada/o por las instancias estatales competentes.
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
 V. Obras Públicas;
 
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
 VI. Unidad de Atención a la Juventud;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
 VII. Dirección de Fomento al Empleo;
 
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
 VIII. Dirección de la Mujer;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
 IX. Unidad de Protección Civil, quien deberá contar con la certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional, de conformidad con la Ley General de Protección Civil; y,
 
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+
 X. Demás áreas de nivel equivalente.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
 
 Las personas servidoras públicas a que se refiere este artículo no podrán ser parientes de ningún Edil hasta el cuarto grado por afinidad o consanguinidad.
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
 
-En las propuestas de personas que se presenten para ocupar cualquier cargo en la administración municipal, se deberá observar el principio de paridad en su designación.
+En las propuestas de personas que se presenten para ocupar cualquier cargo en la administración municipal, se deberá cumplir con el principio de paridad en su designación.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -4664,5 +4686,15 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 23 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
 
 TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
