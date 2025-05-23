@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-y-erradicar-el-acoso-y-la-95013"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2021-03-10"
+last_updated: "2025-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2013.
 
@@ -41,13 +41,19 @@ LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTAD
 
 ### CAPÍTULO I. DEL OBJETO
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Nuevo León y tiene como finalidad, establecer principios, criterios, mecanismos, procedimientos y programas para prevenir, atender y erradicar cualquier tipo de acoso y violencia escolar, ya sea de manera directa o indirecta, dentro o al exterior de las instituciones educativas públicas y privadas, su aplicación será obligatoria desde educación inicial, básica y hasta la media superior.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Nuevo León y tiene por objeto establecer los principios y criterios que, desde la perspectiva de una cultura de paz, enfoque de género y de derechos humanos de la infancia y juventud, orienten el diseño e instrumentación, evaluación y control de las políticas públicas para reconocer, atender, erradicar y prevenir el acoso y la violencia física y psicológica escolar, dentro o al exterior de las instituciones educativas públicas y privadas, su aplicación será obligatoria desde educación inicial, básica y hasta la media superior.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 2.
 
-Para efectos de lo establecido en esta Ley, cada escuela con organización completa de educación básica y media superior, contarán con un psicólogo y/o trabajador social, debidamente titulado que será el responsable de coadyuvar con las acciones relacionadas con la prevención, atención y erradicación del acoso y violencia escolar.
+Para efectos de lo establecido en esta Ley, cada escuela con organización completa de educación básica y media superior, deberán contar ya sea con un psicólogo o un criminólogo y/o un trabajador social, el cual estará debidamente titulado y certificado como mediador para la solución de conflictos y será el responsable de coadyuvar con las acciones relacionadas con la prevención, atención y erradicación del acoso y violencia escolar.
+
+La intervención de los criminólogos en los centros educativos será preferentemente donde se identifiquen factores de riesgo asociados a conductas delictivas o situaciones que excedan el ámbito psicoeducativo, priorizándose en todo caso la atención psicológica especializada.
 
 ### CAPÍTULO II. DEFINICIONES Y PRINCIPIOS
 
@@ -85,27 +91,67 @@ XIV. Procedimiento de Rehabilitación: El Procedimiento General de Rehabilitaci�
 
 XV. Programa de atención integral: El Programa de Atención Integral por parte de las dependencias públicas o privadas que atiendan a las personas en casos de acoso o violencia escolar.
 
-XV. Programa de prevención: El Programa diseñado por cada Institución Educativa para la Prevención y Erradicación de la Violencia Escolar.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
 
-XVI. Receptor indirecto del maltrato escolar: Familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos.
+XVI. Programa de prevención: El Programa diseñado por cada Institución Educativa para la Prevención y Erradicación de la Violencia Escolar.
 
-XVII. Represalias: Acciones que se apliquen, como medida de consecuencia y reacción, en contra de quien reporte casos de acoso o violencia escolar, proporcione información durante una investigación, o sea testigo o poseedor de información fiable en algún caso de violencia o acoso escolar.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
 
-XVIII. Secretaría: Secretaría de Educación del Estado.
+XVII. Receptor indirecto del maltrato escolar: Familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos.
 
-XIX. Violencia escolar: La acción u omisión dolosa con la intención de dañar física o psicológicamente a una persona perteneciente a la comunidad educativa, ya sean alumnos, profesores, padres, personal directivo o subalterno y que se produce dentro de las instalaciones escolares, o bien en otros espacios directamente relacionados con el ámbito escolar, alrededores de la escuela o lugares donde se desarrollan actividades extraescolares. También, se considera violencia escolar las acciones que se realicen a través de las redes sociales, o cualquier tipo de comunicación, escrita, electrónica o a través de imágenes que pretenda dañar la dignidad de las personas en el ámbito señalado.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XVIII. Represalias: Acciones que se apliquen, como medida de consecuencia y reacción, en contra de quien reporte casos de acoso o violencia escolar, proporcione información durante una investigación, o sea testigo o poseedor de información fiable en algún caso de violencia o acoso escolar.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XIX. Secretaría: Secretaría de Educación del Estado.
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XX. Violencia escolar: La acción u omisión dolosa con la intención de dañar física o psicológicamente a una persona perteneciente a la comunidad educativa, ya sean alumnos, alumnas, docentes, padres, personal directivo, subalterno y de apoyo que se produce dentro de las instalaciones escolares, o bien en otros espacios directamente relacionados con el ámbito escolar, alrededores de la escuela, lugares donde se desarrollan actividades extraescolares. También, se considera violencia escolar las acciones que se realicen a través de las redes sociales, o cualquier tipo de comunicación, escrita, electrónica o a través de imágenes que pretenda dañar la dignidad de las personas en el ámbito señalado.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XXI. Cultura de la paz: El conjunto de valores, actitudes y comportamientos, modos de vida y acción que, inspirándose en ella, reflejan el respeto de la vida, de la persona humana, de su dignidad y sus derechos, el rechazo de la violencia, comprendidas todas las formas de agresión, y la adhesión a los principios de libertad, justicia, solidaridad, fraternidad, tolerancia y entendimiento, tanto entre los pueblos, como entre los grupos y las personas.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XXII. Registro Estatal de Incidencia de casos de acoso o violencia entre escolares: La complicación detallada de la incidencia del acoso y violencia escolar en el Estado, que realizará la Secretaría.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 4.
 
-La convivencia escolar debe tener los siguientes principios:
+Los principios rectores de esta Ley son:
 
-I. Respeto a la dignidad de la persona;
+I. El interés superior de la niñez y adolescencia;
 
-II. No discriminación;
+II. Respeto a la dignidad de la persona;
 
-III. Armonía; y
+III. Armonía;
 
-IV. Solución pacífica de conflictos.
+IV. No discriminación;
+
+V. La perspectiva de género;
+
+VI. La cultura de la paz;
+
+VII. Una vida libre de violencia;
+
+VIII. La solución pacífica de conflictos;
+
+IX. La cohesión comunitaria;
+
+X. La coordinación interinstitucional;
+
+XI. La resiliencia, y
+
+XII. El enfoque de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2025)</small>
+
+Los principios de esta Ley constituyen el marco conforme al cual las autoridades deberán planear, crear, ejecutar, dar seguimiento y evaluar el conjunto de acciones de gobierno para garantizar un ambiente libre de violencia en las instituciones educativas y prevenir el acoso escolar.
 
 ###### Artículo 5.
 
@@ -123,25 +169,41 @@ V. Sexual: Toda aquella discriminación, acoso o violencia contra otro miembro d
 
 VI. De exclusión social: Cuando el miembro de la comunidad escolar es notoriamente excluido y aislado, o amenazado con serlo, de la convivencia escolar por razones de discriminación de cualquier tipo.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 6.
 
 Los alumnos de una institución educativa tienen derecho a:
 
-I. Que se les respete su integridad física y emocional;
+I. Que se les respete su integridad física, psicológica y social;
 
 II. No ser excluidos del grupo educativo;
 
-III. Que en caso de conflicto con sus compañeros tenga acceso a métodos de mediación para la resolución del mismo;
+III. Que en caso de conflicto con sus compañeros tenga acceso a métodos de mediación y justicia restaurativa para la resolución del mismo;
 
-IV. Que les sean respetados todos sus derechos como seres humanos;
+IV. Que les sean respetados todos sus derechos humanos;
 
 V. No ser discriminados por ningún motivo;
 
 VI. Estar libres de violencia en las aulas, en las instalaciones educativas, en los lugares aledaños a éstas, en transportes educativos, en redes sociales y en su tránsito hacia y desde la escuela a sus hogares;
 
-V. Un entorno socioeducativo estable; y
+VII. Un entorno socioeducativo estable;
 
-VII. Los demás que se establezcan en las disposiciones legales aplicables.
+VIII. Gozar de un ambiente de tranquilidad, paz, y libre de violencia dentro y fuera de las instalaciones educativas;
+
+IX. Participar en actividades que fomenten la sana convivencia y la paz para prevenir el acoso escolar;
+
+X. Conocer y participar en el Plan y Programa de Prevención del Acoso y la Violencia escolar que dicten las autoridades educativas;
+
+XI. Conocer el Reglamento de Disciplina Escolar, así como las sanciones a las que puede ser acreedor si fomenta el acoso y la violencia escolar en su plantel educativo;
+
+XII. Ser tratados con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
+
+XIII. Contar con protección inmediata y efectiva por parte de las autoridades correspondientes cuando se encuentre en riesgo su integridad física o psicológica;
+
+XIV. Ser canalizado para recibir información, asesoría y representación jurídica gratuita y expedita, así como atención y acompañamiento médico y psicológico por parte de las autoridades correspondientes; y
+
+XV. Los demás que se establezcan en las disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -171,19 +233,53 @@ Los alumnos receptores de acoso o violencia escolar tendrán los siguientes dere
 
 I. A presentar su queja ante la autoridad escolar de su elección de manera pública, privada o anónima a través de cualquier medio, por sí mismo, por sus padres o cualquier persona de su confianza;
 
-II. A que se investigue de manera pronta y eficaz los hechos materia de la queja, entrevistando a todos y cada uno de los involucrados y testigos de los hechos;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
 
-III. A que se hagan cesar de manera inmediata el acoso o la violencia de la que fueron objeto;
+II. Ser tratados con respeto a su integridad y el ejercicio pleno de sus derechos tanto por la comunidad educativa, como por las autoridades competentes;
 
-IV. Recibir de manera inmediata, por parte de profesionales en la materia atención médica, psicológica y jurídica;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
 
-V. A ser cambiado de grupo escolar en caso de que lo solicite;
+III. A que se investigue (sic) de manera pronta y eficaz los hechos materia de la queja, entrevistando a todos y cada uno de los involucrados y testigos de los hechos;
 
-VI. A ser reubicado a diverso plantel que le garantice un ambiente más amigable cuando así lo requieran sus padres o tutores;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
 
-VII. A que no se divulgue ni difundan los detalles de los hechos violentos cuando así lo soliciten sus padres; y
+IV. Contar con protección inmediata y efectiva por parte de las autoridades educativas cuando se encuentre en riesgo su integridad física o psicológica, al ser receptores de violencia;
 
-VII (SIC). A que se apliquen al agresor de forma inmediata y adecuada las medidas disciplinarias pertinentes conforme al Reglamento de Disciplina Escolar.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+V. A que se hagan cesar de manera inmediata el acoso o la violencia de la que fueron objeto;
+
+> <small>(REFORMADA P.O. 23 DE MAYO DE 2025)</small>
+
+VI. Recibir de manera inmediata, atención y acompañamiento médico, psicológico y jurídico por las instancias correspondientes según sean las circunstancias y necesidades de cada caso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
+
+VII. Contar con asesoría y representación coadyuvante gratuita y expedita por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes en los procedimientos jurisdiccionales en que participen;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+VIII. A ser cambiado de grupo escolar en caso de que lo solicite;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+IX. A ser reubicado a diverso plantel que le garantice un ambiente más amigable cuando así lo requieran sus padres o tutores;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 2025)</small>
+
+X. A que no se divulgue ni difundan los detalles de los hechos violentos cuando así lo soliciten sus padres;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XI. A ser canalizados a las instancias correspondientes para su atención oportuna según sean las circunstancias y las necesidades de cada caso;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XII. En caso de riesgo grave, a que se dicten medidas cautelares tendientes a salvaguardar su dignidad, integridad física y asegurar su derecho a la vida; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XIII. A que se apliquen al agresor de forma inmediata y adecuada las medidas disciplinarias pertinentes conforme al Reglamento de Disciplina Escolar.
 
 ### CAPÍTULO III. DE LA DISCIPLINA ESCOLAR
 
@@ -205,11 +301,21 @@ III. Métodos e instrumentos que procuren mejorar las relaciones de la comunidad
 
 Para la difusión del Reglamento de Disciplina Escolar se implementarán las siguientes medidas:
 
-I. Deberá leerse y comentarse a los alumnos por parte del Director o maestro titular del grupo, a más tardar dentro de los cinco días hábiles siguientes al comienzo de cada ciclo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
 
-II. Se proporcionará A cada estudiante un ejemplar y otro, a los padres o tutores, con la correspondiente constancia de recibido; y
+I. La Secretaria a través de medios electrónicos difundirá el Reglamento de Disciplina Escolar, a todos los planteles educativos públicos y privados del Estado, así mismo trabajara en un formato de fácil lectura y comprensión para niñas, niños y adolescentes;
 
-III. Se fijarán un mínimo de cinco ejemplares en los lugares más visibles del plantel escolar, los cuales deberán conservarse durante todo el ciclo escolar, en caso de pérdida, extravío o destrucción, la escuela los repondrá.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+II. Deberá leerse, comentarse y difundirse en formatos de fácil lectura para los alumnos, por parte del Director o maestro titular del grupo, a más tardar dentro de los cinco días hábiles siguientes al comienzo de cada ciclo;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+III. Se proporcionará a cada estudiante un ejemplar de fácil lectura y otro, a los padres o tutores, con la correspondiente constancia de recibido; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+IV. Se fijarán un mínimo de cinco ejemplares en los lugares más visibles del plantel escolar, los cuales deberán conservarse durante todo el ciclo escolar, en caso de pérdida, extravío o destrucción, la escuela los repondrá.
 
 ### CAPÍTULO IV. DEL PLAN GENERAL Y PROGRAMA DE PREVENCIÓN
 
@@ -217,15 +323,19 @@ III. Se fijarán un mínimo de cinco ejemplares en los lugares más visibles del
 
 El Consejo elaborará el Plan General de Prevención del Acoso y Violencia Escolar, el cual deberá realizarse un mes antes del inicio del ciclo anual de actividades, con una amplia consulta de las autoridades, personal escolar directivo, docentes, especialistas de la materia, padres de familia o tutores, educandos, así como de organismos y organizaciones de la sociedad civil especializados en el tema.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 13.
 
-Cada escuela, con el apoyo del psicólogo y/o trabajador social, elaborará su propio Programa de Prevención del Acoso y la Violencia Escolar de conformidad con su propio diagnóstico e incidencia, con base en el Plan General que emita el Consejo.
+Cada escuela, con el apoyo ya sea de un psicólogo o un criminólogo y/o de un trabajador social, certificado como mediador para la solución de conflictos elaborará su propio Programa de Prevención del Acoso y la Violencia Escolar de conformidad con su propio diagnóstico e incidencia, con base en el Plan General que emita el Consejo.
 
 ###### Artículo 14.
 
 El Programa de Prevención de Acoso y Violencia Escolar, deberá someterse a consideración de la Secretaría, al inicio de cada ciclo escolar.
 
-La Secretaría tendrá un plazo de cinco días hábiles para hacer los comentarios a los Programas a fin de remitirlos de inmediato a las escuelas, para que con el apoyo del psicólogo y/o trabajador social, en un plazo de cinco días hábiles realicen, en su caso, las modificaciones que correspondan.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
+La Secretaría tendrá un plazo de cinco días hábiles para hacer los comentarios a los Programas a fin de remitirlos de inmediato a las escuelas, para que, con el apoyo ya sea de un criminólogo, o de un psicólogo o de un trabajador social, certificado como mediador para la solución de conflictos, en un plazo de cinco días hábiles realicen, en su caso, las modificaciones que correspondan.
 
 ###### Artículo 15.
 
@@ -249,9 +359,17 @@ VI. Fomentar la participación de estudiantes, personal escolar y autoridades, a
 
 VII. Informar a la comunidad escolar sobre las formas de prevención del acoso y la violencia escolar, sus consecuencias y procedimientos de rehabilitación y sanción;
 
-VIII. Elaborar el registro estadístico de los incidentes de acoso y violencia entre escolares y garantizar el acceso a la información; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
 
-IX. Establecer lineamientos para prevenir y aplicar las medidas disciplinarias, por cualquier tipo de acoso o violencia de los docentes en contra escolares.
+VIII. Elaborar el registro estadístico de los incidentes de acoso y violencia entre escolares y garantizar el acceso a la información;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+IX. Establecer lineamientos para prevenir y aplicar las medidas disciplinarias, por cualquier tipo de acoso o violencia de los docentes en contra (sic) escolares; y
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+X. Fomentar los valores de respeto, igualdad, solidaridad entre docentes, directivos y personal administrativo y difundir los planes de acción para denunciar un caso de acoso o violencia dentro y fuera de las aulas escolares.
 
 ###### Artículo 17.
 
@@ -285,7 +403,9 @@ En las escuelas y planteles educativos se implementarán las acciones necesarias
 
 En las escuelas y planteles educativos con base en el Plan General y Programa de Prevención del Acoso y Violencia Escolar, se realizarán dos talleres semestrales, preferentemente en los meses de enero y agosto, de capacitación al personal directivo y docente, administrativo y de apoyo, para la prevención y atención del acoso y violencia entre escolares conforme a protocolos definidos, concretos y ejecutables que al efecto establezca el Consejo en el Plan General.
 
-Dichos talleres deberán ser impartidos obligatoriamente por un Psicólogo o Pedagogo asignado al plantel.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
+Dichos talleres deberán ser impartidos obligatoriamente ya sea por un criminólogo, o un psicólogo o de un trabajador social, certificado como mediador para la solución de conflictos, asignado al plantel.
 
 ###### Artículo 20.
 
@@ -295,31 +415,39 @@ Las escuelas y planteles educativos, informarán a la Secretaría o a la Entidad
 
 La Secretaría supervisará que los talleres se realicen con los estándares de calidad, la metodología y herramientas pedagógicas apropiadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 22.
 
-Cada institución educativa, con apoyo del psicólogo y/o del trabajador social, deberá:
+Cada institución educativa, con apoyo ya sea de un psicólogo o un criminólogo y/o de un trabajador social, certificado como mediador para la solución de conflictos deberá:
 
 I. Desarrollar un programa educativo focalizado a los estudiantes, para que conozcan y comprendan los lineamientos establecidos por los Procedimientos o Protocolos para la Prevención de Acoso y Violencia Escolar;
 
 II. Establecer mecanismos eficaces para detectar oportunamente los casos de acoso y violencia escolar, promoviendo mediante la cultura de la denuncia;
 
-III. Colocar buzones de denuncia anónima, específicamente para asuntos de acoso y violencia escolar, en lugares visibles; así como dar seguimiento inmediato a las denuncias recibidas en los citados buzones; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+III. Colocar buzones de denuncia anónima, específicamente para asuntos de acoso y violencia escolar, en lugares visibles; así como dar seguimiento inmediato a las denuncias recibidas en los citados buzones; en el supuesto de contener un posible delito, se deberá dar aviso a la Fiscalía General de Justicia del Estado de Nuevo León; y
 
 IV. Realizar una evaluación de la capacitación proporcionada, así como de los mecanismos para detectar los casos de acoso y violencia escolar.
 
 Con base en los resultados anteriores, la institución educativa deberá en su caso, detectar las deficiencias, y a partir de ellas redefinir las estrategias y elaborar un nuevo programa tendiente a continuar la actividad de formación integral de los alumnos, con base en el respeto irrestricto a los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 23.
 
-Las instituciones educativas al inicio del ciclo escolar presentarán a la Secretaría el programa de capacitación en la materia, para los estudiantes, elaborado con el apoyo del psicólogo y/o trabajador social, en el cual deberá incluirse como mínimo una actividad académica mensual, en la que participarán obligatoriamente todos los alumnos. Dicha capacitación será impartida por profesionales de la psicología y/o pedagogía asignados al plantel.
+Las instituciones educativas al inicio del ciclo escolar presentarán a la Secretaría el programa de capacitación en la materia, para los estudiantes, elaborado con el apoyo ya sea de un psicólogo o un criminólogo y/o de un trabajador social, certificado como mediador para la solución de conflictos, en el cual deberá incluirse como mínimo una actividad académica mensual, en la que participarán obligatoriamente todos los alumnos. Dicha capacitación será impartida por profesionales de la psicología y/o pedagogía asignados al plantel.
 
 En el programa de capacitación a los estudiantes se deberá incluir, la fecha de las actividades académicas sobre el tema.
 
 Dicho programa de capacitación deberá ser entregado a los padres de familia al inicio del ciclo escolar y se les recordará por escrito con cinco días de anticipación a la celebración de la actividad académica, para que, en su caso, asistan en compañía de sus hijos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 24.
 
-Las instituciones educativas al inicio del ciclo escolar presentarán a la Secretaría un programa de capacitación en la materia, para los Padres de Familia, elaborado con el apoyo del psicólogo y/o trabajador social, en el cual se deberá incluir como mínimo una actividad académica trimestral obligatoria, y será impartida por profesionales de la psicología y/o pedagogía asignados al plantel.
+Las instituciones educativas al inicio del ciclo escolar presentarán a la Secretaría un programa de capacitación en la materia, para los Padres de Familia, elaborado con el apoyo ya sea de un psicólogo o un criminólogo y/o de un trabajador social, certificado como mediador para la solución de conflictos, en el cual se deberá incluir como mínimo una actividad académica trimestral obligatoria, y será impartida por profesionales de la psicología y/o pedagogía asignados al plantel.
 
 En el programa de capacitación a los padres de familia se deberá incluir, la fecha de la actividad académica y el tema.
 
@@ -341,7 +469,9 @@ II. Tres representantes de padres de familia, que serán designados por la Asoci
 
 III. Dos representantes del personal docente, que serán designados por el Director del plantel educativo; y
 
-IV. El psicólogo y/o trabajador social adscrito al plantel, quien será el responsable de la Brigada.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+IV. El psicólogo o criminólogo y/o el trabajador social certificado como mediador para la solución de conflictos adscrito al plantel, quien será el responsable de la Brigada.
 
 Las brigadas sesionarán una vez al mes. Podrán invitar a sus reuniones o actividades a dos representantes de los estudiantes, designados por la propia Brigada, dándose preferencia a la participación de los educandos, como parte de su proceso formativo y siempre atendiendo a la propia naturaleza del nivel educativo.
 
@@ -395,9 +525,11 @@ VI. La conformación de las Brigadas deberá realizarse dentro de los primeros q
 
 ### CAPÍTULO VII. DEL PROCEDIMIENTO GENERAL DE REHABILITACIÓN INTEGRAL EN MATERIA DE VIOLENCIA Y ACOSO ENTRE ESCOLARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 30.
 
-La Secretaría coordinará la elaboración del Procedimiento de Rehabilitación en Casos de Acoso y Violencia entre Escolares, a través de una consulta amplia. El Procedimiento de Rehabilitación será armónico con el Plan General de Prevención y deberá consultarse con el personal escolar directivo, psicólogo y/o trabajador social, padres de familia o tutores, educandos y organizaciones de la sociedad civil especializadas en el tema.
+La Secretaría coordinará la elaboración del Procedimiento de Rehabilitación en Casos de Acoso y Violencia entre Escolares, a través de una consulta amplia. El Procedimiento de Rehabilitación será armónico con el Plan General de Prevención y deberá consultarse con el personal escolar directivo, ya sea el psicólogo o criminólogo y/o el trabajador social, padres de familia o tutores, educandos y organizaciones de la sociedad civil especializadas en el tema.
 
 El Procedimiento de Rehabilitación será sometido por la Secretaría a la aprobación del Consejo.
 
@@ -449,9 +581,11 @@ IV. Respeto a los Derechos Humanos de los estudiantes: abstenerse en todo moment
 
 El Procedimiento de Rehabilitación en Casos de Acoso o Violencia Escolar, deberá garantizar las intervenciones de cada autoridad competente del acoso o violencia que correspondan, con base en una unidad conceptual y un conjunto de lineamientos de coordinación que impidan la fragmentación de la acción y la revictimización que sufren las personas receptoras de violencia o de acoso escolar al acudir a servicios de atención, sin la coordinación adecuada.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 35.
 
-Cada Director supervisará, con el apoyo del psicólogo y/o trabajador social, el Procedimiento de Rehabilitación en Casos de Acoso o Violencia Escolar.
+Cada Director supervisará, con el apoyo del (sic) ya sea del psicólogo o criminólogo y/o el trabajador social, el Procedimiento de Rehabilitación en Casos de Acoso o Violencia Escolar.
 
 ###### Artículo 36.
 
@@ -537,9 +671,11 @@ III. La implementación de medidas disciplinarias; y
 
 IV. En todos los casos, el informe reservará los datos personales de los involucrados en el acoso, de conformidad con las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 46.
 
-Las instituciones educativas a partir de datos proporcionados por el psicólogo y/o el trabajador social, deberán presentar a la Secretaría un Informe al término del ciclo escolar, respecto a los incidentes de acoso y violencia entre escolares. Dicho informe, será la base para el que realice la Secretaría anualmente en la materia. El informe deberá incluir como mínimo los datos y acciones a que se refiere el Artículo anterior.
+Las instituciones educativas a partir de datos proporcionados por psicólogo o criminólogo y/o el trabajador social, deberán presentar a la Secretaría un Informe al término del ciclo escolar, respecto a los incidentes de acoso y violencia entre escolares. Dicho informe, será la base para el que realice la Secretaría anualmente en la materia. El informe deberá incluir como mínimo los datos y acciones a que se refiere el Artículo anterior.
 
 ###### Artículo 47.
 
@@ -558,6 +694,8 @@ La Secretaría garantizará el libre, pleno y permanente acceso a la informació
 ###### Artículo 49.
 
 En la clasificación de la información sobre el acoso y violencia escolar deberá reservarse la identidad y datos personales de las personas generadoras, receptoras en forma directa o indirecta, testigos y demás participantes, de hechos y actos de acoso y violencia escolar.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 23 DE MAYO DE 2025)</small>
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SUS FACULTADES PARA IMPLEMENTAR LA LEY
 
@@ -597,7 +735,9 @@ II. Realizar el diseño e implementación del Plan de Prevención del Acoso y vi
 
 III. Establecer los mecanismos de diagnóstico especializado de los casos de acoso y violencia escolar en el Estado;
 
-IV. Suscribir convenios de colaboración en la materia;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+IV. Suscribir convenios de colaboración en la materia con los sectores público, privado y social, para promover los derechos de niñas, niños y adolescentes, el fomento de la cultura de la paz, resolución no violenta de conflictos, fortalecimiento de la cohesión comunitaria y convivencia armónica dentro de las instituciones educativas;
 
 V. Establecer los mecanismos de denuncia de casos de acoso y violencia escolar;
 
@@ -615,9 +755,37 @@ XI. Elaborar y publicar un informe anual sobre el acoso y violencia entre escola
 
 XII. Vigilar que todas las instituciones educativas cumplan con la capacitación prevista en esta Ley;
 
-XIII. Expedir y reformar el Reglamento de Disciplina Escolar; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
 
-XIV. Vigilar el cumplimiento de esta Ley.
+XIII. Expedir y reformar el Reglamento de Disciplina Escolar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XIV. Realizar estudios, investigaciones, informes y diagnósticos que contengan estadísticas, indicadores e informes que permitan conocer la incidencia del fenómeno de acoso y violencia escolar en el Estado, así como su impacto en el entorno escolar en la deserción de los centros educativos, en el desempeño académico de los estudiantes, en sus vínculos familiares y comunitarios y el desarrollo integral de todas sus potencialidades;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XV. Implementar una encuesta anual dirigida a estudiantes, personal docente y administrativo de las escuelas, padres de familia o tutores para identificar los centros educativos con mayor incidencia de acoso y violencia escolar, observando la mayor protección de la identidad y datos personales conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XVI. Impartir capacitación y especialización, al cuerpo docente de escuelas públicas y privadas del Estado, sobre la promoción y respeto de los derechos humanos de niñas, niños y adolescentes, cultura de la paz y mecanismos alternativos para la solución de conflictos.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XVII. Impulsar, conjuntamente con las autoridades respectivas, la capacitación sobre el conocimiento, atención y prevención del acoso escolar al personal docente y administrativo de instituciones educativas públicas y privadas, padres de familia o tutores y a las personas que voluntariamente deseen recibirla;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XVIII. Elaborar y difundir materiales educativos objetivos, veraces, oportunos, con base en criterios científicos para la prevención y atención de los tipos de acoso escolar;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XIX. Impulsará campañas de difusión que transmitan la importancia de una convivencia en un ambiente de tranquilidad, paz, concordia y libre de violencia familiar, educativa, comunitaria y social, haciendo uso también de las tecnologías de la información; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XX. Vigilar el cumplimiento de esta Ley y su reglamento.
 
 ###### Artículo 53.
 
@@ -625,7 +793,9 @@ Corresponde a la Secretaría de Salud:
 
 I. Diseñar, implementar y evaluar periódicamente un programa integral de apoyo a los estudiantes generadores y receptores de acoso o violencia entre escolares, así como a los receptores indirectos, para proporcionarles atención psicológica y médica especializada, dando seguimiento a su recuperación;
 
-II. Recabar y sistematizar datos estadísticos en materia de impactos que tiene el acoso y la violencia entre escolares en la salud de los estudiantes receptores de acoso o violencia entre escolares; asimismo, realizar investigaciones en la materia que contribuyan en la elaboración de políticas públicas para la prevención, combate y erradicación del acoso y violencia entre escolares;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+II. Realizar investigaciones, recabar y sistematizar datos estadísticos en materia de salud pública, sobre el impacto que tiene el acoso escolar respecto de la salud psicológica de los estudiantes receptores de acoso o violencia escolar, cuyos resultados contribuyan en la elaboración de políticas públicas para su prevención, tratamiento y erradicación y remitirlos a la Secretaría a efecto de que sean incluidos en el Registro Estatal;
 
 III. Diseñar, implementar y ejecutar programas especializados para prevenir las afectaciones en la salud mental de los estudiantes en contextos de acoso o violencia entre escolares, dirigidas a los integrantes de la comunidad educativa;
 
@@ -657,9 +827,13 @@ II. Elaborar e instrumentar acciones y políticas de prevención social del acos
 
 III. Planear y desarrollar conjuntamente con el Consejo la campaña de información y prevención del acoso y la violencia entre escolares, desde el ámbito familiar para promover una convivencia libre de acoso y violencia escolar;
 
-IV. Realizar acciones de capacitación a su personal en el tema de acoso y violencia entre escolares, con el fin de sensibilizar y proporcionar una atención adecuada a todos los involucrados, respetando en todo momento los derechos humanos de las niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
 
-V. Administrar la base de datos que contengan información de carácter público a efecto de que pueda registrarse el seguimiento de los casos de acoso y violencia entre escolares, desde la etapa de averiguación previa y hasta la ejecución de sentencia, incluyendo el procedimiento respectivo para la reparación del daño, observando la mayor protección de la identidad y datos personales conforme a la legislación aplicable;
+IV. Capacitar y sensibilizar a su personal en el tema de acoso y violencia escolar, con el fin de proporcionar una atención adecuada a todos los involucrados, basada en el respeto y garantía de los derechos humanos de la niñez y adolescencia;
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+V. Formular y administrar bases de datos que contengan información de carácter público, a efecto que pueda registrarse el seguimiento de los casos donde las personas que integren la comunidad educativa sean víctima de algún delito que atente contra su integridad personal, como consecuencia del acoso o violencia escolar, desde el momento de la interposición de la denuncia y hasta la ejecución de la sentencia, incluyendo el procedimiento respectivo para la reparación del daño, observando la mayor protección de la identidad y datos personales conforme a la legislación aplicable;
 
 VI. Crear unidades especializadas para la atención de alumnos receptores de acoso o violencia entre escolares que sean víctimas de algún delito;
 
@@ -671,7 +845,9 @@ VIII. Las demás que señale la presente Ley, su Reglamento y las disposiciones 
 
 Corresponde a la Comisión Estatal de Derechos Humanos:
 
-I. Recibir, conocer, investigar y en su caso, formular recomendaciones públicas a las quejas recibidas por presuntas situaciones de violencia en el centro escolar;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+I. Recibir, conocer e investigar de oficio o a petición de parte, sobre quejas presentadas, por presuntas situaciones de violación a los derechos humanos derivadas de situaciones de acoso y violencia escolar, cuando exista omisión en la atención o tratamiento de parte de servidores públicos;
 
 II. Coadyuvar con las acciones en materia de prevención, combate y erradicación del acoso y violencia entre escolares;
 
@@ -687,17 +863,29 @@ I. Coordinarse con las demás autoridades correspondientes para fomentar un ambi
 
 II. Implementar mecanismos para proporcionar asesoría jurídica a los estudiantes receptores de acoso o violencia entre escolares;
 
-III. Impulsar campañas de difusión sobre la convivencia libre de violencia en los ámbitos, familiar, educativo, comunitario y social;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
 
-IV. Realizar acciones de capacitación y sensibilización a su personal en el tema de acoso o violencia entre escolares, con el fin de proporcionar una adecuada atención a todos los involucrados, respetando los derechos de las niñas, niños y adolescentes; y
+III. Impulsar campañas de información, sobre la prevención, tratamiento y erradicación del acoso y la violencia escolar, así como promover la convivencia en un ambiente de tranquilidad, paz y libre de violencia en los ámbitos familiar, educativo, comunitario y social;
 
-V. Las demás que señale la presente Ley, su Reglamento y las disposiciones legales aplicable (sic).
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+IV. Realizar acciones de capacitación y sensibilización a su personal en el tema de acoso o violencia entre escolares, con el fin de proporcionar una adecuada atención a todos los involucrados, respetando los derechos de las niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
+
+V. Participar con las instancias correspondientes en mecanismos de detección, denuncia y canalización de los casos de acoso escolar, así como prácticas discriminatorias, que permitan articular una estrategia facilitadora de referencia y contra referencia de agresores, víctimas y cómplices; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+VI. Las demás que señale la presente Ley, su Reglamento y las disposiciones legales aplicable (sic).
 
 ###### Artículo 58.
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia del Estado:
 
-I. Planear y desarrollar conjuntamente con el Consejo, campañas de información, prevención, combate y erradicación del acoso o violencia entre escolares, desde el ámbito familiar;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+I. Planear y desarrollar, conjuntamente con el Consejo, campañas de información, prevención, tratamiento y erradicación del acoso y la violencia escolar desde el ámbito familiar, así como, promover la convivencia en un ambiente de tranquilidad, paz, concordia y libre de violencia;
 
 II. Realizar acciones de capacitación y sensibilización a su personal en el tema de acoso o violencia entre escolares, con el fin de proporcionar una adecuada atención a todos los involucrados, respetando los derechos de las niñas, niños y adolescentes;
 
@@ -705,7 +893,11 @@ III. Coordinar y promover campañas de información sobre los tipos y modalidade
 
 IV. Informar a la Secretaría sobre casos que puedan constituir acoso o violencia entre escolares, y que sean detectados en los servicios que preste como parte de sus actividades;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE MAYO DE 2025)</small>
+
 V. Intervenir en casos de violencia a estudiantes cuando los realice el padre, la madre o el tutor, cualquier familiar, docente o autoridad escolar; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE MAYO DE 2025)</small>
 
 VI. Las demás que señale la presente Ley, su Reglamento y las disposiciones legales aplicable (sic).
 
@@ -741,15 +933,39 @@ XIII. Designar al personal con perfiles profesionales acordes a las disposicione
 
 XIV. Someter a consideración de la Brigada Escolar los proyectos para sancionar a los autores de acoso escolar o violencia entre escolares y represalias;
 
-XV. Presentar a la Brigada Escolar los proyectos elaborados con apoyo del psicólogo y/o el trabajador social, para sancionar a los cómplices en casos de acoso escolar o violencia entre escolares y represalias;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XV. Presentar a la Brigada Escolar los proyectos elaborados con apoyo ya sea de un psicólogo o criminólogo y/o el trabajador social, certificado como mediador para la solución de conflictos para sancionar a los cómplices en casos de acoso escolar o violencia entre escolares y represalias;
 
 XVI. Denunciar a la Secretaría los casos en los que el generador de acoso o violencia sea un docente;
 
-XVII. Preparar y presentar a la Secretaría un informe anual sobre acoso o violencia entre escolares, elaborado por el psicólogo y/o trabajador social;
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
 
-XVIII. Remitir al personal capacitado los casos de violencia y acoso escolar que se presenten en un centro educativo; y
+XVII. Preparar y presentar a la Secretaría un informe anual sobre acoso o violencia entre escolares, elaborado por el psicólogo y/o trabajador social, además de generar información solicitada por la Secretaría para el Registro Estatal;
 
-XIX. La demás que prevea esta Ley o su Reglamento.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XVIII. Remitir al personal capacitado los casos de violencia y acoso escolar que se presenten en un centro educativo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XIX. Autorizar el uso de recursos tecnológicos para la vigilancia e investigación de los casos de acoso y violencia escolar que se presenten, sin menoscabo del ejercicio de los derechos humanos de niñas, n ños (sic) y adolescentes;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XX. Difundir el Reglamento de Disciplina Escolar, así como información sobre la prevención, atención y sanción del acoso y violencia escolar, en formatos accesibles y de fácil lectura para maestros, alumnos y padres de familia;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XXI. Instruir al cuerpo docente del centro o institución educativa que difundan información a alumnos y padres de familia sobre como detectar, reportar y atender el acoso o violencia escolar en niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2025)</small>
+
+XXII. Aplicar las medidas disciplinarias a los agresores de acoso y violencia escolar y represalias, de conformidad al Reglamento de Disciplina Escolar; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE MAYO DE 2025)</small>
+
+XXIII. La demás que prevea esta Ley o su Reglamento.
 
 ### CAPÍTULO II. CONSEJO PARA LA PREVENCIÓN, TRATAMIENTO Y ERRADICACIÓN DEL ACOSO Y VIOLENCIA ENTRE ESCOLARES
 
@@ -907,6 +1123,30 @@ Cuando se trate de quejas en contra de trabajadores de instituciones educativas 
 
 Por las infracciones a la presente Ley, la Secretaría de Educación del Estado sancionará, en los términos de lo establecido en la Ley de Educación del Estado.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE MAYO DE 2025)</small>
+
+### CAPÍTULO III BIS. DE LOS DOCENTES, DIRECTIVOS, PERSONAL ADMINISTRATIVO O SUBALTERNO VÍCTIMAS DE VIOLENCIA ESCOLAR
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2025)</small>
+
+Artículo 72 BIS. Los docentes, directivos, personal administrativo o subalterno que sean víctimas de violencia escolar tendrán derecho a:
+
+I. Presentar su queja ante la autoridad escolar correspondiente de manera pública, privada o anónima, a través de cualquier medio disponible;
+
+II. Que los hechos denunciados sean investigados de manera pronta y expedita, garantizando la recopilación de pruebas y la entrevista con todas las personas involucradas;
+
+III. Tomar las medidas necesarias para que cesen de inmediato todos los actos de violencia de los que son víctimas;
+
+IV. Recibir atención médica, psicológica y jurídica de manera inmediata por parte de profesionales especializados;
+
+V. Que las autoridades educativas le ofrezcan la posibilidad de ser reubicado a otro plantel;
+
+VI. La protección de su privacidad, asegurando que no se divulguen ni difundan detalles de los hechos cuando así lo solicité;
+
+VII. Que se apliquen de manera inmediata y adecuada las medidas disciplinarias pertinentes contra el agresor, conforme al Reglamento de Disciplina Escolar; y
+
+VIII. Que se le garanticen sus derechos para interponer las acciones legales correspondientes ante las autoridades judiciales competentes.
+
 ### CAPÍTULO IV. DE LOS RECURSOS
 
 ###### Artículo 73.
@@ -966,3 +1206,11 @@ P.O. 10 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 459. SE REFORMAN LOS ARTÍCULOS 71 Y 72 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA LAS FRACCIONES I, II, III, Y POR ADICIÓN DE UNA FRACCIÓN IV DEL ARTÍCULO 121 A LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 102. POR EL QUE SE REFORMA LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO Y LA VIOLENCIA ESCOLAR DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: La Legislatura, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto que formulen las autoridades responsables de aplicar la presente Ley para el desarrollo de acciones de conocimiento, atención y prevención del acoso escolar, debiendo asignar los recursos de manera específica y en programas prioritarios.
