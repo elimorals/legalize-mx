@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2024-11-27"
+last_updated: "2025-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2020-07-08"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/TFJA/SS-10-2025.pdf]
+
+[NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -69,65 +71,83 @@ Este Reglamento norma la forma de operación de las Comisiones Consultivas, y es
 
 Los órganos superiores que instituye este Reglamento, así como sus titulares e integrantes, se coordinarán para cumplir con las facultades y deberes institucionales que les competen.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 2.
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-I. Centro de Estudios: El Centro de Estudios Superiores en Materia de Derecho Fiscal y Administrativo del Tribunal Federal de Justicia Administrativa;
+I. Autoridad Garante: Autoridad responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados;
 
-II. Estatuto: El Estatuto del Sistema Profesional de Carrera Jurisdiccional del Tribunal;
+II. Centro Público de Mecanismos Alternativos: Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa del Tribunal Federal de Justicia Administrativa;
 
-III. Juicio tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria, o el juicio de resolución exclusiva de fondo;
+III. Comisión para la Igualdad: La Comisión para la Igualdad de Género;
 
-IV. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas sus etapas, así como de los procedimientos previstos en el artículo 58 de la Ley Federal de Procedimiento Contencioso Administrativo, a través del Sistema de Justicia en Línea, incluso en los casos en que sea procedente la vía sumaria;
+IV. Estatuto: El Estatuto del Sistema Profesional de Carrera Jurisdiccional del Tribunal;
 
-V. Juicio en la vía ordinaria: El juicio contencioso administrativo federal en todos los casos que prevé la Ley Federal de Procedimiento Contencioso Administrativo con excepción de los supuestos referidos en el Capítulo XI del Título II de dicha Ley;
+V. Juicio tradicional: El juicio contencioso administrativo federal que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales, incluso en los casos en que sea procedente la vía sumaria, o el juicio de resolución exclusiva de fondo;
 
-VI. Juicio en la vía Sumaria: El juicio contencioso administrativo federal en aquellos casos a los que se refiere el Capítulo XI del Título II de la Ley Federal de Procedimiento Contencioso Administrativo;
+VI. Juicio en línea: Substanciación y resolución del juicio contencioso administrativo federal en todas sus etapas, así como de los procedimientos previstos en el artículo 58 de la Ley Federal de Procedimiento Contencioso Administrativo, a través del Sistema de Justicia en Línea, incluso en los casos en que sea procedente la vía sumaria;
 
-VII. Juicio de Resolución Exclusiva de Fondo: El juicio contencioso administrativo federal a que se refiere el Capítulo XII del Título II de la Ley Federal de Procedimiento Contencioso Administrativo;
+VII. Juicio en la vía ordinaria: El juicio contencioso administrativo federal en todos los casos que prevé la Ley Federal de Procedimiento Contencioso Administrativo con excepción de los supuestos referidos en el Capítulo XI del Título II de dicha Ley;
 
-VIII. Junta: La Junta de Gobierno y Administración;
+VIII. Juicio en la vía sumaria: El juicio contencioso administrativo federal en aquellos casos a los que se refiere el Capítulo XI del Título II de la Ley Federal de Procedimiento Contencioso Administrativo;
 
-IX. Ley: La Ley Orgánica del Tribunal Federal de Justicia Administrativa;
+IX. Juicio de resolución exclusiva de fondo: El juicio contencioso administrativo federal a que se refiere el Capítulo XII del Título II de la Ley Federal de Procedimiento Contencioso Administrativo;
 
-X. Ley de Transparencia: La Ley Federal de Transparencia y Acceso a la Información Pública;
+X. Junta: La Junta de Gobierno y Administración del Tribunal Federal de Justicia Administrativa;
 
-XI. Ley de Protección de Datos Personales: La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+XI. Ley: La Ley Orgánica del Tribunal Federal de Justicia Administrativa;
 
-XII. Pleno General: El órgano que se conforma por el Presidente del Tribunal, por los trece Magistrados que integran las Secciones de la Sala Superior y por los dos Magistrados de la Sala Superior que forman parte de la Junta de Gobierno y Administración;
+XII. Ley de Transparencia: La Ley General de Transparencia y Acceso a la Información Pública;
 
-XIII. Pleno Jurisdiccional de la Sala Superior: El órgano integrado por el Presidente del Tribunal y por los diez Magistrados integrantes de la Primera y Segunda Secciones de la Sala Superior;
+XIII. Ley de Protección de Datos Personales: La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-XIV. Presidente: El Presidente del Tribunal, de la Sala Superior, del Pleno General, del Pleno Jurisdiccional y de la Junta;
+XIV. Manuales y otras normativas emitidas por el Pleno General o la Junta: Son las disposiciones, lineamientos, instructivos o circulares, que obliguen a su cumplimiento a las personas servidoras públicas del mismo a partir de su publicación en los medios electrónicos de la institución y/o en el Diario Oficial de la Federación;
 
-XV. Reglamento: El presente Reglamento Interior;
+XV. Órganos administrativos del Tribunal: Las Secretarías, Unidades Administrativas; Direcciones Generales, Delegaciones y personas servidoras públicas a que hace referencia el Título Tercero de este Reglamento;
 
-XVI. Revista: El medio de comunicación electrónico, a través del cual se dan a conocer las jurisprudencias, los precedentes o las tesis aisladas, emitidos por el Pleno Jurisdiccional de la Sala Superior o las Secciones, así como los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal; también se podrán realizar ediciones impresas de la Revista para una mayor difusión de las resoluciones mencionadas;
+XVI. Personas Servidoras públicas: Las personas que desempeñan un empleo, cargo o comisión en el Tribunal;
 
-XVII. Manuales y otras normativas emitidas por el Pleno General o la Junta: Son las disposiciones, lineamientos, instructivos o circulares, que obliguen a los servidores públicos del mismo a partir de su publicación en los medios electrónicos de la institución y/o en el Diario Oficial de la Federación;
+XVII. Personal Jurisdiccional: Personas servidoras públicas referidas en las fracciones I a X del artículo 42 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa a quienes les corresponde tramitar y/o resolver los juicios contenciosos administrativos federales, o bien, los procedimientos de responsabilidades administrativas de las personas servidoras públicas y particulares vinculados con faltas graves;
 
-XVIII. Salas Regionales: Las Salas a que se refiere el artículo 28 de la Ley, que podrán ser Ordinarias, Auxiliares, Especializadas o Mixtas;
+XVIII. Pleno General: El órgano que se conforma por el presidente del Tribunal, por los trece magistrados que integran las Secciones de la Sala Superior y por los dos magistrados de la Sala Superior que forman parte de la Junta de Gobierno y Administración;
 
-XIX. Salas Regionales Ordinarias: Las Salas Regionales a que se refiere el artículo 28, fracción I, de la Ley;
+XIX. Pleno Jurisdiccional de la Sala Superior: El órgano integrado por el presidente del Tribunal y por los diez magistrados integrantes de la Primera y Segunda Secciones de la Sala Superior;
 
-XX. Salas Auxiliares: Las Salas Regionales a que se refiere el artículo 28, fracción II, de la Ley;
+XX. Presidente: El presidente del Tribunal, de la Sala Superior, del Pleno General, del Pleno Jurisdiccional y de la Junta;
 
-XXI. Salas Especializadas: Las Salas Regionales a que se refiere el artículo 28, fracción III, de la Ley;
+XXI. Reglamento: El Reglamento Interior del Tribunal Federal de Justicia Administrativa;
 
-XXII. Salas Regionales Mixtas: Las Salas Regionales a que se refiere el artículo 28, fracción IV, de la Ley;
+XXII. Revista: El medio de comunicación electrónico o impreso a través del cual se dan a conocer las jurisprudencias, los precedentes y las tesis aisladas, emitidos por el Pleno Jurisdiccional de la Sala Superior o las Secciones, así como los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal;
 
-XXIII. Sala Superior: El órgano integrado por los dieciséis Magistrados que opera en términos de lo dispuesto por los artículos 7 y 8 de la Ley;
+XXIII. Salas Regionales: Las Salas a que se refiere el artículo 28 de la Ley, que podrán ser Ordinarias, Auxiliares, Especializadas o Mixtas;
 
-XXIV. Secciones: Integradas por la Primera y Segunda del Pleno Jurisdiccional de la Sala Superior, y la Tercera relativa a Responsabilidades Administrativas Graves de la Sala Superior;
+XXIV. Salas Regionales Ordinarias: Las Salas Regionales a que se refiere el artículo 28, fracción I, de la Ley;
 
-XXV. Sistema de Control y Seguimiento de Juicios: La plataforma tecnológica del Tribunal donde se registrarán electrónicamente las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional, las Secciones, las Salas Regionales Ordinarias, Especializadas, Auxiliares y/o Mixtas del Tribunal, así como los Magistrados Instructores y demás personal que cuente con un usuario y clave de acceso, tal y como se prevé en el Título Cuarto, capítulo I de este Reglamento;
+XXV. Salas Auxiliares: Las Salas Regionales a que se refiere el artículo 28, fracción II, de la Ley;
 
-XXVI. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal para registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal; y
+XXVI. Salas Especializadas: Las Salas Regionales a que se refiere el artículo 28, fracción III, de la Ley;
 
-XXVII. Tribunal: El Tribunal Federal de Justicia Administrativa.
+XXVII. Salas Regionales Mixtas: Las Salas Regionales a que se refiere el artículo 28, fracción IV, de la Ley;
 
-Para efectos de la fracción III de este artículo, y en los casos que el Pleno General considere fundadamente que existen causas de emergencia o circunstancias que impidan el funcionamiento normal de la función jurisdiccional, se podrá habilitar la práctica de las actuaciones procesales que procedan por medios electrónicos, sin perjuicio de incorporar las constancias respectivas al expediente impreso cuando hayan cesado las referidas condiciones de excepción, pero antes del cierre de instrucción. La Junta emitirá los acuerdos para la instrumentación de las herramientas informáticas necesarias para facilitar dichos trámites a los actores y autoridades que opten por esta modalidad, privilegiando los casos de personas de bajos recursos que presenten demandas de pensiones civiles del ISSSTE o por adeudos del INFONAVIT.
+XXVIII. Sala Superior: El órgano integrado por los dieciséis magistrados que funciona en términos de lo dispuesto en los artículos 7 y 8 de la Ley;
+
+XXIX. Secciones: Integradas por la Primera, Segunda y Tercera de la Sala Superior;
+
+XXX. Sistema de Control y Seguimiento de Juicios (SICSEJ): La plataforma tecnológica del Tribunal donde se registrarán electrónicamente las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional, la Primera y Segunda Secciones, las Salas Regionales Ordinarias, Especializadas, Auxiliares y/o Mixtas del Tribunal.
+
+Para el uso de este sistema las personas servidoras públicas contarán con un usuario y una clave de acceso, como se prevé en el Título Cuarto, Capítulo I de este Reglamento;
+
+XXXI. Sistemas Informáticos: Contempla la totalidad de los sistemas implementados y/o administrados técnicamente por la Dirección General de los Sistemas de Información del Tribunal;
+
+XXXII. Sistema de Justicia en Línea (SJL): Sistema informático establecido por el Tribunal para registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal, tanto en la vía ordinaria, como sumaria;
+
+XXXIII. Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA): La plataforma tecnológica del Tribunal, en donde se registrarán electrónicamente las actuaciones que realiza la Tercera Sección de la Sala Superior, las Salas Especializadas en Materia de Responsabilidades Administrativas o, en su caso, la Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, en el ámbito de sus competencias previstas en la Ley General de Responsabilidades Administrativas;
+
+XXXIV. Tribunal: El Tribunal Federal de Justicia Administrativa, y
+
+XXXV. Unidades Administrativas: Son las áreas encargadas de planear, coordinar, ejecutar y evaluar las funciones y atribuciones conferidas por el marco de este reglamento, independientemente del nivel jerárquico de cada Titular.
 
 ###### Artículo 3.
 
@@ -145,9 +165,11 @@ Corresponde al Presidente, al Pleno General, al Pleno Jurisdiccional, a las Secc
 
 El Pleno General resolverá los casos que no puedan ser desahogados en términos del párrafo anterior, así como las consultas que se formulen respecto a lo establecido en el artículo 46 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 6.
 
-El horario de labores de los servidores públicos del Tribunal, con excepción de lo que establezcan las Condiciones Generales de Trabajo, será el siguiente y podrá modificarse por la Junta, según las necesidades del servicio o por causas de fuerza mayor, emergencia sanitaria o perturbaciones sociales que impidan el desarrollo normal de las actividades esenciales.
+El horario de labores de las personas servidoras públicas del Tribunal, con excepción de lo que establezcan las Condiciones Generales de Trabajo, será el siguiente y podrá modificarse por la Junta según las necesidades del servicio.
 
 I. Personal operativo, de 8:30 a 15:30 horas;
 
@@ -159,9 +181,13 @@ a) Primer turno: de 8:30 a 16:30 horas;
 
 b) Segundo turno: de 16:30 a 00:30 horas del día siguiente; y
 
-IV. Personal de mandos medios, superiores y enlace adscritos a las Secretarías y Unidades Administrativas de la Junta, unidades especializadas y al Órgano Interno de Control, de 9:00 a 15:00 y de 16:30 a 18:30 horas.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-El Pleno General de la Sala Superior, en su primera sesión del año, determinará el calendario oficial de labores del Tribunal, el cual deberá publicarse en el Diario Oficial de la Federación.
+IV. Personal de mandos medios, superiores y enlace adscritos a la Secretaría General de Acuerdos, así como a los órganos administrativos y al Órgano Interno de Control, de 9:00 a 15:00 y de 16:30 a 18:30 horas;
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+El Pleno General, en su primera sesión del año, establecerá el calendario oficial de labores del Tribunal, el cual deberá publicarse en el Diario Oficial de la Federación, así como cualquier modificación a lo largo del año.
 
 Cualquier acuerdo posterior del Pleno General de la Sala Superior, que modifique el mencionado calendario de labores, también deberá publicarse en el Diario Oficial de la Federación.
 
@@ -385,6 +411,10 @@ VI. La determinación del ejercicio o no de la facultad de atracción, será com
 
 VII. Una vez que se declare el cierre de instrucción, la Sala Especializada remitirá el expediente original a la Secretaría Adjunta de la Tercera Sección, la que lo turnará al Magistrado ponente que corresponda.
 
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Para los efectos previstos en el presente artículo, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones deberá diseñar los repositorios conducentes en el Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA), para el registro de los datos que permitan identificar, desde la emisión del acuerdo de admisión y/o radicación del informe de presunta responsabilidad administrativa, aquellos juicios con características especiales susceptibles de ser atraídos por la Tercera Sección.
+
 ###### Artículo 19.
 
 Cuando en un juicio del conocimiento del Pleno Jurisdiccional de la Sala Superior o de las Secciones se planteen o sobrevengan causales de sobreseimiento por desistimiento o porque la autoridad dejó sin efecto la resolución o actos impugnados hasta antes del cierre de la instrucción, se estará a lo siguiente:
@@ -406,6 +436,10 @@ Cuando un proyecto sometido a consideración de alguna de las Secciones empate e
 Para la sesión en la que se hubiera listado nuevamente el asunto se convocará a los Magistrados y, en caso de ausencia o por impedimento de alguno de ellos, lo suplirá el Presidente del Tribunal.
 
 En caso de que un Magistrado disienta del criterio de la mayoría, podrá formular voto particular que se insertará o engrosará al final de la sentencia correspondiente, siempre que dicho voto fuere presentado a la Secretaría Adjunta dentro de los cinco días siguientes a la fecha de la sesión.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Cuando un asunto atraído por la Primera o Segunda Sección deba ser resuelto por el Pleno Jurisdiccional, o de éste a aquellas, se mantendrá el turno del ponente designado originalmente, cambiándose las claves de identificación en el expediente, según corresponda.
 
 ### Capítulo III.
 
@@ -435,21 +469,27 @@ II. La sesión convocada será presidida por el Magistrado decano, que será aqu
 
 III. Pasada la lista de asistencia, y verificado el quórum legal que se integrará por la mitad más uno de los Magistrados integrantes del Pleno General, la Secretaría General de Acuerdos dará cuenta del Orden del Día, para su aprobación en vía económica por los Magistrados presentes;
 
-IV. Los Magistrados que cumplan con los requisitos y presenten su candidatura a la Presidencia, podrán solicitar el uso de la palabra y tendrán un máximo de diez minutos para exponer las líneas esenciales del Plan de Trabajo. Las intervenciones serán en orden alfabético de su primer apellido;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IV. Los magistrados que cumplan con los requisitos, podrán solicitar el uso de la palabra y tendrán un máximo de diez minutos para exponer las líneas esenciales del plan de trabajo. Las intervenciones serán en orden alfabético de su primer apellido;
 
 V. Los Magistrados presentes emitirán su voto de manera personal, libre, secreta e intransferible, depositándolo por escrito en una urna;
 
-VI. Para ser electo Presidente del Tribunal se requerirá la mitad más uno de los votos de los Magistrados presentes en la Sesión, que serán computados por dos escrutadores nombrados para tal efecto;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VII. Si en la primera ronda sólo se presentan dos candidaturas y éstas obtienen el mismo número de votos, pero ninguna alcanza la votación a que se refiere la fracción anterior, se repetirá el proceso de elección hasta por tres veces más; si subsiste el empate se abrirá un receso de quince minutos y agotado éste se realizará de nuevo el proceso, si persiste el empate en esta última consulta, quien presida la sesión tendrá voto de calidad;
+VI. Para ser electo presidente del Tribunal, se requerirá la mitad más uno de los votos de los magistrados presentes en la Sesión, que serán computados por dos Magistrados designados como escrutadores para tal efecto. En caso de que ningún aspirante a la Presidencia obtenga la mayoría requerida en la primera ronda, se celebrará una nueva votación en la que solo participarán como aspirantes las dos personas que hayan obtenido en la primera ronda el mayor número de votos, resultando electo aquella persona que alcance la mitad más uno de los votos a su favor. En caso de que en la segunda ronda tampoco se alcance la mayoría señalada, el decano con mayor antigüedad en la Sala Superior tendrá voto de calidad.
 
-VIII. Si se presentan varias candidaturas, pero dos de ellos obtienen el mismo número de votos, pero no la mayoría, a que se refiere la fracción VI, se procederá a una segunda ronda de votación entre ellos, eliminando las candidaturas con menor votación.
+En caso de que en la primera ronda ningún aspirante a la presidencia obtenga la mayoría requerida y resulten dos aspirantes empatados en segundo lugar, éstos se someterán a una nueva votación y quien alcance la mayoría de votos, pasará a otra ronda de votación con el que hubiera obtenido el primer lugar en la primera ronda, conforme a lo establecido en el párrafo anterior; en caso de que se presente un nuevo empate entre los aspirantes que quedaron en segundo lugar, el decano con mayor antigüedad en la Sala Superior tendrá voto de calidad.
 
-IX. Si se presentan varias candidaturas, pero ninguno de ellos obtiene la mayoría de votos a que se refiere la fracción VI, se procederá a una segunda ronda de votación, dejando para una votación final al que obtuvo el mayor número de votos en la primera ronda.
+VII. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-En la segunda ronda sólo participarán los candidatos que obtuvieron el segundo y tercer lugar, o sólo los dos que obtuvieren un segundo lugar, con objeto exclusivo de seleccionar al contendiente en una ronda de votación final;
+VIII. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-X. Si se presenta un empate que impida actualizar cualquiera de los supuestos previstos en las fracciones anteriores, el Decano que presida la sesión tendrá voto de calidad;
+IX. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+X. Si se presenta un empate que impida actualizar cualquiera de los supuestos previstos en la fracción VI, el decano con mayor antigüedad en la Sala Superior que presida la sesión tendrá voto de calidad;
 
 XI. La Secretaría General de Acuerdos dará cuenta de los votos en cada ronda, y
 
@@ -489,7 +529,9 @@ VII. Autorizar, junto con el Secretario General de Acuerdos, las actas en que se
 
 VIII. Dirigir la ejecución de las determinaciones y acuerdos de la Junta;
 
-IX. Autorizar, junto con el Secretario Auxiliar de la Junta, las actas en que se hagan constar las deliberaciones y acuerdos de dicho órgano y firmar el engrose de las resoluciones que emita;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IX. Autorizar, junto con la Secretaría Técnica de la Junta, las actas en que se hagan constar las deliberaciones y los acuerdos de dicho órgano y firmar el engrose de las resoluciones que emita;
 
 X. Ejercer la facultad de atracción de los juicios con características especiales, de conformidad con las disposiciones aplicables, a efecto de someterlos al Pleno Jurisdiccional para su resolución;
 
@@ -537,11 +579,33 @@ XXXI. Podrá atender a los Magistrados y a los Secretarios de Acuerdos que, de m
 
 XXXII. Suscribir convenios de colaboración o cooperación con todo tipo de instituciones públicas, Universidades e Institutos de Investigación, así como autoridades administrativas y jurisdiccionales, nacionales e internacionales, con el apoyo especializado de las unidades administrativas correspondientes, a fin de dirigir la buena marcha del Tribunal, y
 
-XXXIII. Las demás que establezcan las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXIII. Designar a la persona servidora pública que lo represente como suplente ante el Sistema Nacional Anticorrupción y los diferentes órganos que lo conforman.
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXIV. Designar a la persona Titular de la Unidad para la Igualdad de Género y someter su nombramiento para aprobación de la Junta;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXV. Designar a la persona Titular del Centro Público de Mecanismos Alternativos y someter su nombramiento para aprobación de la Junta;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXVI. Las demás que establezcan las disposiciones aplicables.
 
 Se requerirá la autorización de la Junta para la suscripción de los convenios de colaboración que impliquen la erogación de recursos del Tribunal, la cual se soportará con el dictamen técnico que justifique la propuesta de autorización, elaborado por el área responsable.
 
 Para realizar sus funciones, el Presidente contará con las unidades administrativas y el personal de apoyo especializado establecidos en el presente Reglamento y que figuren en el presupuesto autorizado.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+###### Artículo 26 Bis.
+
+Los Magistrados que presidan las Secciones serán designadas por quienes integren la Sección correspondiente en la primera sesión de cada año, la cual será privada. Durarán en su cargo un año y no podrán ser reelectos para el periodo inmediato siguiente.
+
+En el caso de faltas definitivas de las personas que presiden las Secciones, la Sección respectiva hará la designación para concluir el periodo faltante. La persona designada para concluir el periodo no estará impedida para ser designada en la misma función en el periodo inmediato siguiente.
 
 ### Capítulo IV.
 
@@ -605,9 +669,13 @@ En el ejercicio de la función disciplinaria, la Junta emitirá complementariame
 
 IV. Carrera Jurisdiccional: Se refiere a las fases de ingreso, promoción, permanencia y retiro de los servidores públicos señalados en las fracciones VI a X del artículo 42 de la Ley.
 
-En los términos del artículo 25 de la Ley, las sesiones de la Junta serán públicas, y sólo en los casos que la ley lo establezca las sesiones podrán ser privadas. A efecto de realizar las versiones públicas de las sesiones, así como para asegurar la fiabilidad de las actas de las mismas, la Junta contará con un sistema de registro de audio y video. La compilación y el resguardo de la información que se genere en dicho sistema quedarán a cargo de la Secretaría Auxiliar de la Junta.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
-La Junta tendrá la facultad de citar a los titulares de las áreas administrativas, para que informen de las actividades a su cargo o de algún asunto en específico. Para ello, los titulares deberán enviar por escrito a la Secretaría Auxiliar de la Junta, con cinco días de anticipación a la fecha de la cita, la información o documentación de respaldo para que sea analizada por los integrantes de la Junta.
+En términos del artículo 25 de la Ley, las sesiones de la Junta serán públicas; sólo en los casos que la ley lo establezca, las sesiones podrán ser privadas. A efecto de realizar las versiones públicas de las sesiones, así como para asegurar la fiabilidad de las actas de las mismas, la Junta contará con un sistema de registro de audio y video. La compilación y el resguardo de la información que se genere en dicho sistema quedarán a cargo de la Secretaría Técnica de la Junta.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+La Junta tendrá la facultad de citar a las sesiones a las personas titulares de las áreas administrativas, para que informen de las actividades a su cargo o de algún asunto en específico. Para ello, cuando la materia del asunto lo permita, los titulares deberán enviar por escrito a la Secretaría Técnica de la Junta, antes de la fecha programada para la sesión a la que fueron convocados, la información o documentación de respaldo con el propósito de que pueda ser analizada por los integrantes.
 
 ###### Artículo 29.
 
@@ -677,7 +745,7 @@ Para los efectos de lo dispuesto por el artículo 23, fracciones VI y XVIII de l
 
 ###### Artículo 35.
 
-Los servidores públicos de nuevo ingreso comunicarán por escrito a la Junta el compromiso institucional que asumen en los términos del artículo anterior.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 36.
 
@@ -721,9 +789,11 @@ IV. Cualquiera otra condición o elemento que contribuya a garantizar la imparci
 
 Las evaluaciones periódicas de los servidores públicos se basarán en los elementos objetivos y datos estadísticos sobre el desempeño del cargo, así como en los criterios de calificación, cuantitativos y cualitativos, que determine la Junta, así como, en su caso, las causas de retiro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 40.
 
-Para verificar el correcto funcionamiento de las Salas Regionales, la Junta designará anualmente a sus Magistrados Visitadores quienes constatarán la regularidad registrada en la marcha jurisdiccional y administrativa de las Salas Regionales que correspondan durante dicho periodo, a través de un proceso permanente que se realizará conforme a las Reglas establecidas por la Junta en el Reglamento de Vigilancia del Desempeño Jurisdiccional y Administrativo para las Salas Regionales Ordinarias, Especializadas, Auxiliares y/o Mixtas; así como en los Manuales de Visita que tendrán carácter obligatorio.
+Para verificar el correcto funcionamiento de las Salas Regionales, la Junta designará anualmente a sus magistrados visitadores quienes constatarán la regularidad registrada en la marcha jurisdiccional y administrativa de las Salas Regionales que correspondan durante dicho periodo, a través de un proceso permanente que se realizará conforme a las Reglas establecidas por la Junta en el Reglamento de Vigilancia del Desempeño Jurisdiccional y Administrativo para las Salas Regionales Ordinarias, Especializadas, Auxiliares y/o Mixtas.
 
 En todo caso, se procurará realizar el proceso de vigilancia del desempeño jurisdiccional preferentemente a través de medios electrónicos y excepcionalmente de manera presencial.
 
@@ -749,13 +819,17 @@ VII. Vigencia de condiciones adecuadas del clima laboral y de las medidas establ
 
 VIII. Cumplimiento del horario de trabajo.
 
-Las visitas tendrán primordialmente carácter preventivo, se realizarán de manera uniforme e incluirán la revisión de expedientes e información necesaria para valorar el adecuado desempeño jurisdiccional; así como la revisión aleatoria de la información del Sistema de Control y Seguimiento de Juicios para constatar su veracidad.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Las visitas tendrán primordialmente carácter preventivo, se realizarán de manera uniforme e incluirán la revisión de expedientes e información necesaria para valorar el adecuado desempeño jurisdiccional y sancionador, según sea el caso; así como la revisión aleatoria de la información del Sistema de Control y Seguimiento de Juicios (SICSEJ), del Sistema de Justicia en Línea (SJL) y del Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA), como corresponda, para constatar su veracidad.
 
 Al final de cada visita, los visitadores emitirán un reporte de observaciones sobre la situación de las Salas Regionales visitadas y una propuesta de recomendaciones para mejorar su desempeño, a fin de que se dé continuidad a las mismas, en la forma y términos que determine la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 41.
 
-Las visitas que excepcionalmente realizarán los visitadores a las Salas Regionales podrán ser:
+Las visitas que realizarán los visitadores a las Salas Regionales podrán ser:
 
 I.- Visitas ordinarias:
 
@@ -763,33 +837,49 @@ a. Directas o presenciales en la sede de la Sala, o
 
 b. Indirectas o de gabinete, y
 
-II.- Visitas presenciales extraordinarias, cuando el Presidente o la Junta en pleno así lo determinen.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+II.- Visitas presenciales extraordinarias, cuando excepcionalmente la Presidencia o la Junta en pleno así lo determinen.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 42.
 
-Dentro de los treinta días hábiles siguientes al treinta y uno de diciembre de cada año, la Junta procederá a informar de la evaluación del estado que guarda la impartición de justicia fiscal y administrativa al Pleno General, con los resultados de las visitas practicadas a las Salas Regionales, y con vista de otros elementos objetivos relacionados con el buen funcionamiento del Tribunal.
+Con los resultados de las visitas practicadas a las Salas Regionales, y con vista de otros elementos objetivos relacionados con el buen funcionamiento del Tribunal, la Junta podrá presentar ante el Pleno General las propuestas de acuerdos y reformas al reglamento que correspondan, para mejorar la impartición de justicia.
 
 ###### Artículo 43.
 
 Para la integración y desarrollo del Sistema de Información Estadística sobre el desempeño del Tribunal, la Junta promoverá el uso de tecnologías de información y comunicaciones que garanticen la veracidad, oportunidad, suficiencia y seguridad jurídica de los datos respectivos.
 
-El Sistema a que se refiere este artículo, deberá diseñarse de tal manera que su estructura informática, así como su instrumentación y operación, proporcionen en tiempo real los elementos suficientes para, cuando menos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
+
+El Sistema a que se refiere este artículo podrá diseñarse de tal manera que su estructura informática, su instrumentación y operación contemplen los siguientes elementos:
 
 I. Conocer los plazos de instrucción de los juicios contencioso administrativos que se tramitan en las Salas del Tribunal y los lapsos que transcurren entre cada tramo procesal del procedimiento;
 
-II. Conocer la productividad jurisdiccional por día, Sala, Magistrado, Secretario de Acuerdos, Actuario, Archivista u Oficial de Partes, respecto de demandas nuevas recibidas, sentencias dictadas, inventario inicial e inventario final al día de la consulta, acuerdos dictados, resoluciones interlocutorias emitidas, notificaciones practicadas, y todos aquellos datos jurisdiccionales necesarios para verificar el adecuado funcionamiento del Tribunal y sus Salas integrantes;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-III. Conocer las partes litigantes, representantes y defensores, así como los servidores públicos involucrados en cada caso, clasificando la información de manera individual y por bloques de actores y autoridades demandadas;
+II. Conocer la productividad jurisdiccional por Sala, Magistrado y Secretario de Acuerdos, Actuario, respecto de demandas nuevas recibidas, sentencias dictadas, inventario inicial e inventario final al día de la consulta, acuerdos dictados, resoluciones interlocutorias emitidas, y todos aquellos datos jurisdiccionales necesarios para verificar el adecuado funcionamiento del Tribunal y sus Salas integrantes; así como, de forma general, el total de notificaciones practicadas y promociones recibidas.
+
+III. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
 IV. Conocer los montos reclamados en cada juicio y clasificar la información por montos totales, y grupos de actores y autoridades demandadas;
 
-V. Identificar los actos impugnados y los agravios más recurrentes en los juicios contencioso administrativos que se promuevan ante el Tribunal, agrupando los datos por Sala Regional y clasificando en bloques los que procedan o los que se desestiman, así como las autoridades más recurrentes en la comisión de actos u omisiones que culminan con sentencias condenatorias;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VI. Conocer el número de amparos y revisiones fiscales que se presentan por Sala Regional, Magistrado y Secretario de Acuerdos, destacando las causas determinantes de la concesión de fallos favorables a los promoventes, agrupándolos también por montos;
+V. Identificar las materias de las resoluciones impugnadas en los juicios contencioso-administrativos que se promuevan ante el Tribunal, agrupando los datos por Sala Regional; así como las autoridades más recurrentes en la comisión de actos u omisiones que culminan con sentencias condenatorias.
 
-VII. Conocer los inventarios actualizados de los asuntos en trámite que tienen a su cargo los Secretarios de Acuerdos de cada Sala Regional, indicando la fecha de presentación de la demanda, el acto impugnado, el agravio o agravios de fondo que fueron procedentes, la fecha y naturaleza del último acuerdo recaído en el expediente, la indicación de si el expediente está integrado y no quedan cuestiones pendientes de resolver, si cuenta con cierre de instrucción, si se encuentra en la fase de preparación del proyecto de sentencia, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VIII. Conocer el historial actualizado de los Magistrados, Secretarios de Acuerdos y demás miembros del Servicio Profesional de Carrera Jurisdiccional del Tribunal, para relacionar su productividad cuantitativa y cualitativa y su desempeño laboral, con su capacidad profesional y académica, y con su comportamiento y trayectoria en el Tribunal.
+VI. Conocer el número de amparos y revisiones fiscales que se presentan por Sala Regional, magistrado y secretario de acuerdos, identificando el total de casos en los que se ha confirmado la resolución impugnada y aquellos en los que se ha dado la razón a la parte quejosa o recurrente.
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VII. Conocer los inventarios actualizados de los asuntos en trámite que tienen a su cargo los secretarios de acuerdos de cada Sala Regional, indicando la fecha de presentación de la demanda, el acto impugnado, la fecha y naturaleza del último acuerdo recaído en el expediente, la indicación de si el expediente está integrado y no quedan cuestiones pendientes de resolver, si cuenta con cierre de instrucción, si se encuentra en la fase de preparación del proyecto de sentencia, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Conocer el historial actualizado de los magistrados, secretarios de acuerdos para relacionar su productividad cuantitativa y cualitativa y su desempeño laboral, con su capacidad profesional y académica, y con su comportamiento y trayectoria en el Tribunal.
 
 Los datos mensuales del Sistema del comportamiento jurisdiccional, deberán darse a conocer a los Magistrados integrantes de la Junta, dentro de la segunda quincena del mes siguiente a aquel al que corresponda la información.
 
@@ -833,143 +923,243 @@ De las Salas Regionales.
 
 Para los efectos del artículo 30 de la Ley, el territorio nacional se divide en las regiones con los límites territoriales siguientes:
 
-I. Noroeste I, que comprende el Estado de Baja California;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-II. Noroeste II, que comprende el Estado de Sonora;
+I. Baja California, que comprende el Estado de Baja California;
 
-III. Noroeste III, que comprende los Estados de Baja California Sur y Sinaloa;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Norte-Centro I, que comprende el Estado de Chihuahua;
+II. Sonora, que comprende el Estado de Sonora;
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Norte–Centro II, que comprende los Estados de Coahuila y Durango;
+III. Sinaloa que comprende los Estados de Baja California Sur y Sinaloa;
 
-VI. Noreste, que comprende el Estado de Nuevo León y los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa del Estado de Tamaulipas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VII. Occidente, que comprende los Estados de Colima, Jalisco y Nayarit;
+IV. Chihuahua, que comprende el Estado de Chihuahua;
 
-VIII. Centro I, que comprende el Estado de Aguascalientes;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IX. Centro II, que comprende el Estado de Querétaro;
+V. Coahuila, que comprende los Estados de Coahuila y Durango;
 
-X. Centro III, que comprende los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Doctor Mora, Dolores Hidalgo, Jerécuaro, Salamanca, Salvatierra, San Diego de la Unión, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Victoria, Villagrán y Xichú, del Estado de Guanajuato;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XI. Norte-Este del Estado de México, que comprende los municipios de: Acolman, Aculco, Amecameca, Apaxco, Atenco, de la Llave; Atizapán de Zaragoza, Atlautla, Axapusco, Ayapango, Coacalco de Berriozábal, Cocotitlán, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chalco, Chapa de Mota, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatepec de Morelos, Ecatzingo, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotepec, Jilotzingo, Juchitepec, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Nopaltepec, Otumba, Ozumba, Papalotla, Polotitlán, San Martín de las Pirámides, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco, Tonanitla, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Valle de Chalco Solidaridad, Villa del Carbón y Zumpango;
+VI. Nuevo León, que comprende el Estado de Nuevo León y los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa del Estado de Tamaulipas;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XII. Oriente, que comprende los Estados de Puebla y Tlaxcala.
+VII. Jalisco, que comprende los Estados de Colima, Jalisco y Nayarit;
 
-XIII. Golfo, que comprende el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Pacífico, que comprende el Estado de Guerrero;
+VIII. Aguascalientes, que comprende el Estado de Aguascalientes;
 
-XV. Sureste, que comprende el Estado de Oaxaca;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVI. Peninsular, que comprende los Estados de Yucatán y Campeche;
+IX. Querétaro, que comprende el Estado de Querétaro;
 
-XVII. Metropolitanas, que comprenden la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVIII. Golfo-Norte, que comprende el Estado de Tamaulipas, con excepción de los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa, del propio Estado;
+X. Guanajuato I, que comprende los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Doctor Mora, Dolores Hidalgo, Jerécuaro, Salamanca, Salvatierra, San Diego de la Unión, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Victoria, Villagrán y Xichú, del Estado de Guanajuato;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Estado de México I, que comprende los municipios de: Atenco, de la Llave; Atizapán de Zaragoza, Atlautla, Axapusco, Ayapango, Coacalco de Berriozábal, Cocotitlán, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chalco, Chapa de Mota, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatepec de Morelos, Ecatzingo, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotepec, Jilotzingo, Juchitepec, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Nopaltepec, Otumba, Ozumba, Papalotla, Polotitlán, San Martín de las Pirámides, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco, Tonanitla, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Valle de Chalco Solidaridad, Villa del Carbón y Zumpango del Estado de México;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XII. Puebla, que comprenden los Estados de Puebla y de Tlaxcala;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIII. Veracruz, que comprende el Estado de Veracruz;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Guerrero, que comprende el Estado de Guerrero;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Oaxaca, que comprende el Estado de Oaxaca;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Yucatán, que comprende los Estados de Yucatán y Campeche;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Ciudad de México, que comprende la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Tamaulipas, que comprende el Estado de Tamaulipas, con excepción de los municipios de Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Ciudad Camargo, Díaz Ordaz y Reynosa, del propio Estado;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 XIX. Chiapas, que comprende el Estado de Chiapas;
 
-XX. Caribe, que comprende el Estado de Quintana Roo;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXI. Pacífico-Centro, que comprende el Estado de Michoacán;
+XX. Quintana Roo, que comprende el Estado de Quintana Roo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Michoacán, que comprende el Estado de Michoacán;
 
 XXII. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2024)
 
-XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIII. Zacatecas, que comprende el Estado de Zacatecas;
+
+(REPUBLICADA, D.O.F. 23 DE MAYO DE 2025)
 
 XXIV. Morelos, que comprende el Estado de Morelos;
 
+(REPUBLICADA, D.O.F. 23 DE MAYO DE 2025)
+
 XXV. San Luis Potosí, que comprende el Estado de San Luis Potosí;
 
+(REPUBLICADA, D.O.F. 23 DE MAYO DE 2025)
+
 XXVI. Tabasco, que comprende el Estado de Tabasco;
+
+(REPUBLICADA, D.O.F. 23 DE MAYO DE 2025)
 
 XXVII. Hidalgo, que comprende el Estado de Hidalgo;
 
 XXVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2022)
 
-XXIX. Sur del Estado de México, que comprende los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXX. Centro IV, que comprende los municipios de: Abasolo, Cuerámaro, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, San Felipe, San Francisco del Rincón, Silao de la Victoria, Uriangato, Valle de Santiago y Yuriria, del Estado de Guanajuato.
+XXIX. Estado de México II, que comprende los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán, del Estado de México, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXX. Guanajuato II, que comprende los municipios de Abasolo, Cuerámaro, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, San Felipe, San Francisco del Rincón, Silao de la Victoria, Uriangato, Valle de Santiago y Yuriria, del Estado de Guanajuato.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 49.
 
 En las regiones señaladas en el artículo anterior, la sede, denominación y el número de Salas Regionales, serán las siguientes:
 
-I. Región del Noroeste I: Dos Salas que se denominarán, “Primera Sala Regional del Noroeste I” y “Segunda Sala Regional del Noroeste I”, con sede en la Ciudad de Tijuana, Estado de Baja California;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-II. Región del Noroeste II: Una Sala que se denominará “Sala Regional del Noroeste II”, con sede en Ciudad Obregón, Estado de Sonora;
+I. Región Baja California: dos Salas que se denominarán, “Primera Sala Regional en Baja California” y “Segunda Sala Regional en Baja California”, con sede en la Ciudad de Tijuana, Estado de Baja California;
 
-III. Región del Noroeste III: Dos Salas que se denominarán, “Primera Sala Regional del Noroeste III” y “Segunda Sala Regional del Noroeste III”, con sede en la Ciudad de Culiacán, Estado de Sinaloa;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del Norte-Centro I”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
+II. Región Sonora: una Sala que se denominará “Sala Regional en Sonora”, con sede en Ciudad Obregón, Estado de Sonora;
 
-> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Región del Norte-Centro II: Tres Salas que se denominarán, “Primera Sala Regional del Norte-Centro II”, “Segunda Sala Regional del Norte-Centro II” y “Tercera Sala Regional del Norte-Centro II”, todas con sede en la Ciudad de Torreón, Estado de Coahuila;
+III. Región Sinaloa: dos Salas que se denominarán, “Primera Sala Regional en Sinaloa” y “Segunda Sala Regional en Sinaloa”, con sede en la Ciudad de Culiacán, Estado de Sinaloa;
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VI. Región del Noreste: Cuatro Salas que se denominarán, “Primera Sala Regional del Noreste”, “Segunda Sala Regional del Noreste”, “Tercera Sala Regional del Noreste” y “Cuarta Sala Regional del Noreste”, todas con sede en San Pedro Garza García, Nuevo León;
+IV. Región Chihuahua: una Sala que se denominará “Sala Regional en Chihuahua”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
-VII. Región de Occidente: Tres Salas que se denominarán, “Primera Sala Regional de Occidente”, “Segunda Sala Regional de Occidente” y “Tercera Sala Regional de Occidente”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VIII. Región del Centro I: Una Sala que se denominará “Sala Regional del Centro I”, con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
+V. Región Coahuila: tres Salas que se denominarán, “Primera Sala Regional en Coahuila”, “Segunda Sala Regional en Coahuila” y “Tercera Sala Regional en Coahuila”, todas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
-IX. Región del Centro II: Una Sala que se denominará “Sala Regional del Centro II”, con sede en la Ciudad de Querétaro, Estado de Querétaro;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-X. Región del Centro III: Una Sala que se denominará, “Sala Regional del Centro III”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
+VI. Región Nuevo León: cuatro Salas que se denominarán, “Primera Sala Regional en Nuevo León”, “Segunda Sala Regional en Nuevo León”, “Tercera Sala Regional en Nuevo León” y “Cuarta Sala Regional en Nuevo León”, todas con sede en San Pedro Garza García, Nuevo León;
 
-XI. Región Norte-Este del Estado de México: Dos Salas que se denominarán, “Primera Sala Regional Norte-Este del Estado de México” y “Segunda Sala Regional Norte-Este del Estado de México”, con sede en Tlalnepantla, Estado de México;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+VII. Región Jalisco: tres Salas que se denominarán, “Primera Sala Regional en Jalisco”, “Segunda Sala Regional en Jalisco” y “Tercera Sala Regional en Jalisco”, todas con sede en la Ciudad de Guadalajara, Estado de Jalisco;
 
-XII. Región de Oriente: Tres Salas que se denominarán, “Primera Sala Regional de Oriente”, “Segunda Sala Regional de Oriente” y “Tercera Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+VIII. Región Aguascalientes: una Sala que se denominará “Sala Regional en Aguascalientes”, con sede en la Ciudad de Aguascalientes, Estado de Aguascalientes;
 
-XIII. Región del Golfo: Dos Salas que se denominarán, “Primera Sala Regional del Golfo” y “Segunda Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
+IX. Región Querétaro: una Sala que se denominará “Sala Regional en Querétaro”, con sede en la Ciudad de Querétaro, Estado de Querétaro;
 
-XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Sureste”, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
+X. Región Guanajuato I: una Sala que se denominará, “Sala Regional en Guanajuato I”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVII. Región Metropolitana: Trece Salas que se denominarán, "Primera Sala Regional Metropolitana", "Segunda Sala Regional Metropolitana", "Tercera Sala Regional Metropolitana", “Cuarta Sala Regional Metropolitana”, "Quinta Sala Regional Metropolitana", "Sexta Sala Regional Metropolitana", "Séptima Sala Regional Metropolitana", "Octava Sala Regional Metropolitana", "Novena Sala Regional Metropolitana", "Décima Sala Regional Metropolitana", "Décimo Primera Sala Regional Metropolitana", "Décimo Segunda Sala Regional Metropolitana", y "Décimo Cuarta Sala Regional Metropolitana", todas con sede en la Ciudad de México;
+XI. Región Estado de México I: dos Salas que se denominarán, “Primera Sala Regional en el Estado de México I” y “Segunda Sala Regional en el Estado de México I”, con sede en el Municipio de Naucalpan, Estado de México;
 
-XVIII. Región del Golfo-Norte: Una Sala que se denominará “Sala Regional del Golfo-Norte”, con sede en Ciudad Victoria, Estado de Tamaulipas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIX. Región de Chiapas: Una Sala que se denominará “Sala Regional de Chiapas”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
+XII. Región Puebla: tres Salas que se denominarán, “Primera Sala Regional en Puebla”, “Segunda Sala Regional en Puebla” y “Tercera Sala Regional en Puebla”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
 
-XX. Región del Caribe: Una Sala que se denominará “Sala Regional del Caribe”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXI. Región del Pacífico-Centro: Una Sala que se denominará “Sala Regional del Pacífico-Centro”, con sede en la ciudad de Morelia, Estado de Michoacán;
+XIII. Región Veracruz: dos Salas que se denominarán, “Primera Sala Regional en Veracruz” y “Segunda Sala Regional en Veracruz”, con sede en la ciudad de Xalapa- Enríquez, Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Región Guerrero: una Sala que se denominará “Sala Regional en Guerrero”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Región Oaxaca: una Sala que se denominará “Sala Regional en Oaxaca”, con sede en la Ciudad de Oaxaca, Estado de Oaxaca;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Región Yucatán: una Sala que se denominará “Sala Regional en Yucatán”, con sede en la Ciudad de Mérida, Estado de Yucatán;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Región Ciudad de México: trece Salas que se denominarán, “Primera Sala Regional en la Ciudad de México”, “Segunda Sala Regional en la Ciudad de México”, “Tercera Sala Regional en la Ciudad de México”, “Cuarta Sala Regional en la Ciudad de México”, “Quinta Sala Regional en la Ciudad de México”, “Sexta Sala Regional en la Ciudad de México”, “Séptima Sala Regional en la Ciudad de México”, “Octava Sala Regional en la Ciudad de México”, “Novena Sala Regional en la Ciudad de México”, “Décima Sala Regional en la Ciudad de México”, “Décimo Primera Sala Regional en la Ciudad de México”, “Décimo Segunda Sala Regional en la Ciudad de México”, y “Décimo Cuarta Sala Regional en la Ciudad de México”, todas con sede en la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Región Tamaulipas: una Sala que se denominará “Sala Regional en Tamaulipas”, con sede en Ciudad Victoria, Estado de Tamaulipas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIX. Región Chiapas: una Sala que se denominará “Sala Regional en Chiapas”, con sede en la Ciudad de Tuxtla Gutiérrez, Estado de Chiapas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XX. Región Quintana Roo: una Sala que se denominará “Sala Regional en Quintana Roo”, con sede en la ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Región Michoacán: una Sala que se denominará “Sala Regional en Michoacán”, con sede en la ciudad de Morelia, Estado de Michoacán;
 
 XXII. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2024)
 
-XXIII. Región del Norte-Centro IV: una Sala que se denominará “Sala Regional del Norte-Centro IV”, con sede en la ciudad de Zacatecas, Estado de Zacatecas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXIV. Región de Morelos: Una Sala que se denominará “Sala Regional de Morelos”, con sede en la Ciudad de Cuernavaca, Estado de Morelos;
+XXIII. Región Zacatecas: una Sala que se denominará “Sala Regional en Zacatecas”, con sede en la ciudad de Zacatecas, Estado de Zacatecas;
 
-XXV. Región de San Luis Potosí: Una Sala que se denominará “Sala Regional de San Luis Potosí”, con sede en la Ciudad de San Luis Potosí, Estado de San Luis Potosí;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXVI. Región de Tabasco: Una Sala que se denominará “Sala Regional de Tabasco”, con sede en la Ciudad de Villahermosa, Estado de Tabasco;
+XXIV. Región Morelos: una Sala que se denominará “Sala Regional en Morelos”, con sede en la Ciudad de Cuernavaca, Estado de Morelos;
 
-XXVII. Región Hidalgo: Una Sala que se denominará “Sala Regional de Hidalgo” con sede en la Ciudad de Pachuca, Estado de Hidalgo;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXV. Región San Luis Potosí: una Sala que se denominará “Sala Regional en San Luis Potosí”, con sede en la Ciudad de San Luis Potosí, Estado de San Luis Potosí;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXVI. Región Tabasco: una Sala que se denominará “Sala Regional en Tabasco”, con sede en la Ciudad de Villahermosa, Estado de Tabasco;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXVII. Región Hidalgo: una Sala que se denominará “Sala Regional en Hidalgo” con sede en la Ciudad de Pachuca, Estado de Hidalgo;
 
 XXVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2022)
 
-XXIX. Región Sur del Estado de México: Una Sala que se denominará “Sala Regional Sur del Estado de México”, con sede en la Ciudad de Toluca, Estado de México, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXX. Región del Centro IV: Una Sala que se denominará, “Sala Regional del Centro IV”, con sede en el municipio de Silao, Guanajuato.
+XXIX. Región Estado de México II: una Sala que se denominará “Sala Regional en el Estado de México II”, con sede en la Ciudad de Toluca, Estado de México, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXX. Región Guanajuato II: una Sala que se denominará, “Sala Regional en Guanajuato II”, con sede en el municipio de Silao, Guanajuato.
 
 ###### Artículo 50.
 
@@ -977,15 +1167,15 @@ El Tribunal tendrá Salas Regionales Especializadas cuya denominación, sede, co
 
 I. Una Sala Especializada en Materia de Propiedad Intelectual, con sede en la Ciudad de México y competencia material para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan en la vía tradicional o en línea, contra las resoluciones definitivas a que se refiere el artículo 3, fracciones I, IV, XII, XIII, XV, y último párrafo de la Ley, dictadas en aplicación de la Ley de la Propiedad Industrial, la Ley Federal del Derecho de Autor, la Ley Federal de Variedades Vegetales, así como de otros ordenamientos jurídicos nacionales o internacionales que regulen a dicha materia de Propiedad Intelectual, o por las autoridades encargadas de aplicar y de observar dichas normas, así como aquellos juicios en los que se controviertan, o que tengan alguna injerencia, derechos derivados de la citada materia;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+II. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-II. Una Sala Especializada Mixta en Juicios en Línea y en Materia Ambiental y de Regulación, con sede en la Ciudad de México, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, los juicios tramitados en el Sistema de Justicia en Línea versión 1.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
 
-De igual forma, conocerá de los juicios promovidos respecto de resoluciones definitivas, actos administrativos y procedimientos que encuadren en la fracción III del presente artículo.
+III. Salas Especializadas en Materia Ambiental y de Regulación, con sede en la Ciudad de México, que tendrán competencia material en todo el territorio nacional para:
 
-III. Una Sala Especializada en Materia Ambiental y de Regulación, con sede en la Ciudad de México, que tendrá competencia material en todo el territorio nacional para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
 
-a. Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones I, IV, XII, XIII y XV y último párrafo, del artículo 3 de la Ley, dictadas por los Órganos Reguladores a que se refiere esta fracción, Secretarías de Estado, entidades de la Administración Pública Federal, así como por las entidades federativas en los casos de coordinación y concurrencia previamente establecidos en la legislación correspondiente, directamente relacionadas con las materias que sean competencia de los Órganos Reguladores de la Actividad del Estado. Para los efectos de esta fracción, los Órganos Reguladores de la Actividad del Estado son únicamente los siguientes:
+a. Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones I, IV, XII, XIII y XV y último párrafo, del artículo 3 de la Ley, dictadas por la Secretaría de Energía, en materia energética y de hidrocarburos; por los Órganos Reguladores a que se refiere esta fracción, Secretarías de Estado, entidades de la Administración Pública Federal, así como por las entidades federativas en los casos de coordinación y concurrencia previamente establecidos en la legislación correspondiente, directamente relacionadas con las materias que sean competencia de los Órganos Reguladores de la Actividad del Estado. Para los efectos de esta fracción, los Órganos Reguladores de la Actividad del Estado son únicamente los siguientes:
 
 1.- Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS). Con relación a este órgano regulador, se exceptúan del conocimiento de esta Sala aquellas resoluciones definitivas, actos administrativos y procedimientos, que estén vinculados con un derecho de Propiedad Intelectual, en cuyo caso será competencia de la Sala Especializada en materia de Propiedad Intelectual;
 
@@ -995,7 +1185,7 @@ a. Tramitar y resolver los juicios que se promuevan contra resoluciones definiti
 
 4.- Comisión Nacional de Facilitación del Transporte Aéreo Internacional (CNFTAI);
 
-5.- Comisión Nacional de Hidrocarburos (CNH);
+5. (DEROGADO, D.O.F. 23 DE MAYO DE 2025)
 
 6.- Comisión Nacional de Seguridad Nuclear y Salvaguardias (CNSNS);
 
@@ -1007,11 +1197,19 @@ a. Tramitar y resolver los juicios que se promuevan contra resoluciones definiti
 
 10.- Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA).
 
-> <small>(ADICIONADO, D.O.F. 7 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
-11.- Comisión Reguladora de Energía (CRE).
+11. Comisión Nacional de Energía.
 
 b. Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones I, IV, XII, XIII y XV y último párrafo, del artículo 3 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia; con la excepción de resoluciones definitivas, actos administrativos y procedimientos, a que se refiere este inciso, emitidos por la Comisión Nacional del Agua o sus unidades administrativas, supuestos en los cuales será competente la Sala Regional del Tribunal que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Dichas Salas Especializadas serán las siguientes:
+
+a) La Primera Sala Especializada en Materia Ambiental y de Regulación, con sede en la Ciudad de México;
+
+b) La Segunda Sala Especializada en Materia Ambiental y de Regulación, con sede en la Ciudad de México.
 
 IV. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
 
@@ -1031,33 +1229,45 @@ e) Quinta Sala Especializada en materia de Responsabilidades Administrativas, co
 
 VI. Una Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, con sede en la Ciudad de México, y competencia para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan en términos del capítulo XII de la Ley Federal de Procedimiento Contencioso Administrativo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2024)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 51.
 
 El Tribunal tendrá las Salas Auxiliares siguientes:
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)
 
 I. Salas Auxiliares con jurisdicción material mixta y territorial en toda la República, cuya denominación y sede será la siguiente:
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
-a) Tercera Sala Regional del Norte-Centro II y Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción V, y 49, fracción V, de este Reglamento.
+a) Tercera Sala Regional en Coahuila y Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción V, y 49, fracción V, de este Reglamento.
 
-b) Sala Regional del Norte-Centro IV y Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
-c) Sala Regional del Sur del Estado de México y Auxiliar, con sede en la Ciudad de Toluca, Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIX, y 49, fracción XXIX, de este Reglamento.
+b) Sala Regional en Zacatecas y Auxiliar, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIII, y 49, fracción XXIII, de este Reglamento.
 
-d) Sala Regional de Morelos y Auxiliar, con sede en la Ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIV, y 49, fracción XXIV, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
-e) Sala Regional de Tabasco y Auxiliar, con sede en la Ciudad de Villahermosa, Estado de Tabasco, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXVI, y 49, fracción XXVI, de este Reglamento.
+c) Sala Regional en el Estado de México II y Auxiliar, con sede en la Ciudad de Toluca, Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIX, y 49, fracción XXIX, de este Reglamento.
 
-f) Sala Regional del Caribe y Auxiliar, con sede en la Ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XX, y 49, fracción XX, de este Reglamento.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
-g) Tercera Sala Regional de Oriente y Auxiliar, con sede en la Ciudad de San Andrés Cholula, Estado de Puebla, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XII, y 49, fracción XII, de este Reglamento.
+d) Sala Regional en Morelos y Auxiliar, con sede en la Ciudad de Cuernavaca, Estado de Morelos, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXIV, y 49, fracción XXIV, de este Reglamento.
 
-II. (DEROGADA, D.O.F. 31 DE ENERO DE 2024)
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+e) Sala Regional en Tabasco y Auxiliar, con sede en la Ciudad de Villahermosa, Estado de Tabasco, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XXVI, y 49, fracción XXVI, de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+f) Sala Regional en Quintana Roo y Auxiliar, con sede en la Ciudad de Cancún, Municipio de Benito Juárez, Estado de Quintana Roo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XX, y 49, fracción XX, de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+g) Tercera Sala Regional en Puebla y Auxiliar, con sede en la Ciudad de San Andrés Cholula, Estado de Puebla, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional Ordinaria, conforme a los artículos 48, fracción XII, y 49, fracción XII, de este Reglamento.
+
+II. (DEROGADA, D.O.F. 31 DE ENERO DE 2024) (REPUBLICADA SU DEROGACIÓN, D.O.F. 23 DE MAYO DE 2025)
 
 > <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
 
@@ -1421,6 +1631,8 @@ En los juicios tramitados a través del Sistema de Justicia en Línea, y siempre
 
 De los Secretarios de Acuerdos de Sala Superior y de la Junta.
 
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
+
 ###### Artículo 77.
 
 Corresponde a los Secretarios de Acuerdos de Sala Superior y de la Junta:
@@ -1435,7 +1647,9 @@ c) Dar cumplimiento a los acuerdos dictados por autoridad competente en materia 
 
 d) Otorgar al Magistrado de su adscripción la más amplia colaboración en el desarrollo de todas las actividades que tengan a su cargo y las que el Tribunal le haya encomendado;
 
-e) Elaborar las versiones públicas correspondientes a los expedientes que estén a su cargo, de conformidad con los lineamientos dispuestos en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás ordenamientos en materia de Transparencia aplicables, y
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+e) Elaborar las versiones públicas correspondientes a los expedientes que estén a su cargo, de conformidad con los lineamientos dispuestos en la Ley General de Transparencia y Acceso a la Información Pública, y demás ordenamientos en materia de Transparencia aplicables, y
 
 f) Las demás que les confieran otras disposiciones jurídicas aplicables.
 
@@ -1475,9 +1689,11 @@ La Coordinación de Compilación y Sistematización de Tesis, en coordinación c
 
 El Tribunal llevará un archivo electrónico especial, en el que conservará las publicaciones a que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 80.
 
-Corresponde al Coordinador de Compilación y Sistematización de Tesis:
+Corresponde al coordinador de Compilación y Sistematización de Tesis, así como a las personas titulares del área de Compilación de Tesis de la Primera, Segunda y Tercera Sección de la Sala Superior:
 
 I. En relación con las tesis aprobadas por el Pleno Jurisdiccional de la Sala Superior, revisar las versiones mecanográficas de las sesiones del Pleno Jurisdiccional de la Sala Superior y las Secciones:
 
@@ -1493,7 +1709,9 @@ e. Registrar en la base de datos, la información de las tesis, precedentes, rei
 
 f. Verificar la vigencia de las tesis, precedentes, reiteraciones y jurisprudencias, aprobadas por el Pleno Jurisdiccional de la Sala Superior o las Secciones, e incluir anotaciones marginales correspondientes para su orientación a los usuarios que las consulten.
 
-II. Respecto a los criterios aislados emitidos por las Salas Regionales Ordinarias, Especializadas o Auxiliares, enviados para su publicación en los medios electrónicos del Tribunal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
+
+II. Respecto a los criterios aislados emitidos por las Salas Regionales Ordinarias, Especializadas, Auxiliares y/o Mixtas, enviados para su publicación en los medios electrónicos del Tribunal:
 
 a) Corroborar que los criterios aislados propuestos, reúnan los requisitos necesarios para su publicación, tales como:
 
@@ -1869,7 +2087,9 @@ Del Servicio de Transmisión Electrónica de Contenidos.
 
 El Tribunal tendrá un Servicio de Transmisión Electrónica de Contenidos que tendrá por objeto difundir por medios electrónicos el contenido de las sesiones públicas del Pleno Jurisdiccional, las Secciones, y las Salas Regionales, así como las diligencias, actuaciones procesales o audiencias que deban practicar.
 
-La operación de dicho servicio deberá resguardar los datos personales de conformidad con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+La operación de dicho servicio deberá resguardar los datos personales de conformidad con la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley General de Transparencia y Acceso a la Información Pública.
 
 Por cuanto hacen a las sesiones públicas de las Salas Regionales que se difundan a través del Servicio de Transmisión Electrónica de Contenidos, éstas se desarrollarán conforme al Acuerdo que para tal efecto emita la Junta.
 
@@ -1877,9 +2097,11 @@ Por cuanto hacen a las sesiones públicas de las Salas Regionales que se difunda
 
 De los Lineamientos para el Registro de Peritos del Tribunal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 94.
 
-La Junta llevará el Registro de Peritos del Tribunal por conducto de la Unidad de Peritos, conforme a las normas, reglas de operación y lineamientos que se establezcan para tal efecto.
+La Junta llevará el Registro de Peritos del Tribunal, así como de las personas defensoras de oficio, para los efectos de los Lineamientos para Investigar, Substanciar y Sancionar las Responsabilidades Administrativas de las Personas Servidoras Públicas señaladas en las fracciones I a XI del artículo 42 de la Ley, así como para el personal administrativo contemplado en las fracciones XII a XIV y último párrafo del referido artículo, que solicite el Órgano Interno de Control, por conducto de la Unidad de Peritos Terceros, conforme a las normas, reglas de operación y lineamientos que se establezcan.
 
 La integración del Registro de Peritos del Tribunal, así como el desempeño, la permanencia, designación, aceptación del cargo y pago de sus honorarios se sujetarán a los lineamientos siguientes:
 
@@ -1895,13 +2117,17 @@ V. La designación de los peritos terceros que se requieran para la resolución 
 
 VI. Los peritos terceros inscritos en el Registro tendrán la obligación de aceptar el cargo conferido cuando sean designados dentro de un juicio contencioso administrativo, salvo que exista impedimento legal para su desempeño, en cuya hipótesis deberán manifestarlo oportunamente por escrito, fundando y motivando la causa del impedimento;
 
-VII. Los peritos terceros designados en un juicio contencioso administrativo que se inconformen por cualquier medio contra dicha determinación, podrán ser eliminados del padrón de peritos, salvo causa justificada que sea determinada así por la Unidad de Peritos del Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VII. Los peritos terceros designados en un juicio contencioso administrativo que se inconformen por cualquier medio contra dicha determinación, podrán ser eliminados del padrón respectivo, salvo causa justificada que sea determinada así por la Unidad de Peritos Terceros del Tribunal;
 
 VIII. El incumplimiento por parte de los peritos a sus obligaciones tendrá como consecuencia su cancelación en el Registro, sin perjuicio de las responsabilidades administrativas, civiles o penales que correspondan, y
 
 IX. En los casos de peritos terceros del Tribunal, la Junta expedirá el arancel para el pago de sus honorarios, el cual será objeto de revisión periódica para homologarlo, en lo posible, con los vigentes en otros Tribunales. Cuando el perito tercero considere que el costo del peritaje excede el arancel establecido, deberá presentar un escrito a la Junta en el que exprese la motivación y fundamento del costo sugerido.
 
-Las cuestiones no previstas en estos lineamientos y que guarden relación con la operatividad, actualización, eficacia y eficiencia del Registro de Peritos, serán resueltas por la Junta.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Para los efectos de la asignación de personas defensoras de oficio, se estará a lo previsto en los lineamientos señalados en el primer párrafo de este artículo.
 
 ###### Artículo 95.
 
@@ -1939,29 +2165,45 @@ II. Entregará al perito los billetes de depósito debidamente endosados, corres
 
 De la Estructura Funcional de la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 97.
 
-Para el cumplimiento de sus atribuciones, la Junta contará con las Secretarías, unidades administrativas, direcciones generales, delegaciones, coordinaciones y servidores públicos que se indican a continuación:
+Para el cumplimiento de sus atribuciones, la Junta contará con los órganos administrativos que se indican a continuación:
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 I. Secretarías:
 
-a. Secretaría Auxiliar.
+a. Secretaría Técnica.
 
 b. Secretaría Operativa de Administración.
 
 c. Secretaría Operativa de Tecnologías de la Información y las Comunicaciones.
 
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)
+
 II. Unidades administrativas:
 
-a. Unidad de Sistemas de Carrera.
+a. (DEROGADO, D.O.F. 23 DE MAYO DE 2025)
 
-b. Unidad de Peritos.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+b. Unidad de Peritos Terceros.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+c. Unidad de Transparencia.
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)
 
 III. Direcciones Generales:
 
 a. Dirección General de Programación y Presupuesto.
 
-b. Dirección General de Recursos Humanos.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+b. Dirección General de Recursos Humanos y Servicio Profesional de Carrera.
 
 c. Dirección General de Recursos Materiales y Servicios Generales.
 
@@ -1973,9 +2215,7 @@ f. Dirección General de los Sistemas de Información.
 
 g. Dirección General de Archivos.
 
-IV. Coordinaciones:
-
-a. Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales.
+IV. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
 V. Delegaciones:
 
@@ -1983,37 +2223,51 @@ a. Delegaciones Administrativas.
 
 b. Delegaciones de Tecnologías de la Información y las Comunicaciones.
 
-VI. Servidores Públicos: Los Secretarios, Directores Generales, delegados y Titulares de las áreas a que se refieren las fracciones anteriores; los directores, subdirectores y Jefes de Departamento que se señalen en los manuales de organización respectivos, y el personal de enlace que conforme a las necesidades del servicio se requiera y figure en el presupuesto autorizado.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VI. Las personas servidoras públicas adscritas a las secretarías, direcciones generales, delegaciones y titulares de las áreas a que se refieren las fracciones anteriores; las personas servidoras públicas con cargos de directores, subdirectores y jefes de departamento que se señalen en los manuales de organización respectivos, y el personal de enlace, así como el personal operativo de confianza designado desde su nombramiento, que, conforme a las necesidades del servicio, se requiera y figure en el presupuesto autorizado.
 
 Los servidores públicos a que se refieren las fracciones anteriores serán considerados personal de confianza, para el desempeño de sus funciones contarán con el personal operativo que, conforme a las necesidades del servicio, se requiera y figure en el presupuesto autorizado.
 
 Las atribuciones de vigilancia y disciplina que competen a la Junta, se regirán por las normas de los Reglamentos específicos que emita dicho Órgano colegiado, lo mismo que las que corresponden al ámbito de las responsabilidades administrativas, con apego a las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 98.
 
-Las Secretarías, unidades administrativas, direcciones generales y coordinaciones, estarán adscritas de la siguiente manera:
+Las secretarías, unidades administrativas y direcciones generales estarán adscritas de la siguiente manera:
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)
 
 I. A la Junta:
 
-1) La Secretaría Auxiliar.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+1) La Secretaría Técnica.
 
 2) La Secretaría Operativa de Administración.
 
 3) La Secretaría Operativa de Tecnologías de la Información y las Comunicaciones.
 
-4) La Unidad de Sistemas de Carrera.
+4) (DEROGADO, D.O.F. 23 DE MAYO DE 2025)
 
-II. A la Secretaría Auxiliar:
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-1) La Unidad de Peritos,
+II. A la Secretaría Técnica:
 
-2) La Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales.
+1) La Unidad de Peritos Terceros
+
+2) La Unidad de Transparencia.
+
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)
 
 III. A la Secretaría Operativa de Administración:
 
 1) La Dirección General de Programación y Presupuesto.
 
-2) La Dirección General de Recursos Humanos.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+2) Dirección General de Recursos Humanos y Servicio Profesional de Carrera.
 
 3) La Dirección General de Recursos Materiales y Servicios Generales.
 
@@ -2035,9 +2289,11 @@ IV. A la Secretaría Operativa de Tecnologías de la Información y las Comunica
 
 De las Secretarías, Unidades Administrativas y Servidores Públicos de la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 99.
 
-Corresponde a la Secretaría Auxiliar de la Junta:
+Corresponde a la Secretaría Técnica de la Junta:
 
 I. Dar trámite a los asuntos competencia de la Junta;
 
@@ -2065,13 +2321,31 @@ XII. Realizar las acciones necesarias a efecto de notificar los acuerdos y resol
 
 XIII. Coadyuvar en la preparación de la memoria anual del funcionamiento del Tribunal que la Junta debe presentar al Presidente de la República y al Congreso de la Unión;
 
-XIV. Supervisar el correcto funcionamiento de la Unidad de Peritos y la Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XV. Compilar y resguardar bajo su más estricta responsabilidad la información que se genere en el sistema de audio y video, a efecto de realizar las versiones públicas de las sesiones, así como para asegurar la fiabilidad de las actas de las mismas, y
+XIV. Supervisar el correcto funcionamiento de las unidades de Peritos Terceros y de Transparencia;
 
-XVI. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que competan a las unidades administrativas que tenga adscritas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
-Sin perjuicio del ejercicio directo de las atribuciones establecidas en el presente artículo por parte del titular de la Secretaría Auxiliar, corresponderá a los Directores de Área adscritos a la misma el ejercicio de las previstas en las fracciones I, II, VII, IX, X, XIII, y XVI, mientras que a los Actuarios el ejercicio de la atribución prevista en la fracción XII.
+XV. Ejecutar la política que, en materia de transparencia, acceso a la información pública y protección de datos, determiné el Comité de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Compilar y resguardar bajo su más estricta responsabilidad la información que se genere en el sistema de audio y video, a efecto de realizar las versiones públicas de las sesiones, así como para asegurar la fiabilidad de las actas de las mismas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Realizar las evaluaciones de las personas servidoras públicas que requiera el Pleno General, para los efectos del artículo 16, fracción VI, de la Ley; así como las evaluaciones del desempeño de las personas servidoras públicas que señale la normativa vigente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que competan a los órganos administrativos que tenga adscritos.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Sin perjuicio del ejercicio directo de las atribuciones establecidas en el presente artículo por parte de la persona titular de la Secretaría, corresponderá a los directores de área adscritos a la misma, el ejercicio de las atribuciones previstas en las fracciones I, II, VII, IX, X, XIII, XVII y XVIII; a los actuarios, el ejercicio de la atribución contenida en la fracción XII.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 100.
 
@@ -2081,75 +2355,151 @@ I. Elaborar y someter a la aprobación de la Junta las políticas, programas, no
 
 II. Vigilar la aplicación y cumplimiento de las políticas y lineamientos para la administración de los recursos financieros, materiales y humanos del Tribunal que apruebe la Junta, o que establezcan las disposiciones jurídicas aplicables;
 
-III. Dirigir, en coordinación con las unidades administrativas, la integración del anteproyecto de presupuesto anual y del calendario de gasto y de la Cuenta Pública Federal, con sujeción a lo que establezca la Ley de Presupuesto y Responsabilidad Hacendaria y la Ley de Fiscalización y Rendición de Cuentas de la Federación o que establezcan las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Autorizar los trámites inherentes a la gestión presupuestaria del Tribunal, así como autorizar y promover el adecuado manejo de los recursos humanos, materiales y financieros, con apego a la normativa aplicable;
+III. Dirigir, en coordinación con los órganos administrativos del Tribunal, la integración del anteproyecto de presupuesto anual y del calendario de gasto y de la Cuenta Pública Federal, con sujeción a lo que establezca la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la Ley de Fiscalización y Rendición de Cuentas de la Federación o la normativa jurídica aplicable;
 
-V. Evaluar la situación presupuestal y financiera del Tribunal y proponer las medidas preventivas y correctivas que estime convenientes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
-VI. Verificar el cumplimiento de las normas de control, fiscalización y evaluación que emitan las autoridades en el ámbito de su competencia;
+IV. Informar a la Junta y al Pleno General del seguimiento al ejercicio programático presupuestal cada seis meses;
 
-VII. Dirigir las políticas laboral y salarial del Tribunal, que dicte la Junta y coordinar las acciones para la conformación del clima laboral respetuoso, armónico, productivo e incluyente en el Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VIII. Suscribir y expedir los nombramientos, bajas, licencias y suspensiones de los servidores públicos del Tribunal que apruebe la Junta, en términos de las disposiciones jurídicas aplicables;
+V. Autorizar los trámites inherentes a la gestión presupuestaria del Tribunal, así como autorizar y promover el adecuado manejo de los recursos humanos, materiales y financieros, con apego a la normativa aplicable;
 
-IX. Vigilar el cumplimiento del marco jurídico aplicable, así como de las políticas y lineamientos que emita la Junta para la adquisición y arrendamiento de bienes muebles, la prestación de servicios, las obras y los servicios relacionados con las mismas y arrendamiento de bienes inmuebles que contrate el Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-X. Dirigir, en coordinación con las áreas administrativas, la elaboración del proyecto del Programa Anual de Adquisiciones, Arrendamientos y Servicios;
+VI. Evaluar la situación presupuestal y financiera del Tribunal y proponer las medidas preventivas y correctivas que estime convenientes;
 
-XI. Suscribir, previa revisión de la estructura legal de la Unidad de Asuntos Jurídicos con la participación de las áreas administrativas que corresponda, los contratos, convenios, acuerdos y los documentos relativos al ejercicio de sus funciones, así como aquéllos que le sean señalados por delegación o le corresponda por suplencia y, en su caso, rescindirlos o darlos por terminados anticipadamente, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XII. Proponer y coordinar los programas relacionados con la modernización y mejoramiento administrativo, el desarrollo organizacional, la transparencia y la rendición de cuentas que autorice la Junta;
+VII. Coordinar la implementación y el cumplimiento de las normas de control y evaluación que emitan las autoridades en el ámbito de su competencia;
 
-XIII. Coordinar y vigilar las actividades de las Delegaciones Administrativas, emitiendo los lineamientos que regulen su desempeño;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Supervisar que las Delegaciones Administrativas elaboren las afectaciones presupuestarias que, en su caso, sean necesarias;
+VIII. Dirigir las políticas laboral y salarial del Tribunal que dicte la Junta y coordinar las acciones para la conformación del clima laboral respetuoso, armónico, productivo e incluyente en la institución;
 
-XV. Supervisar que las Delegaciones Administrativas cuenten con los controles suficientes que les permitan vigilar los bienes del Tribunal de las salas regionales a las que se encuentren adscritos, así como mantener actualizados los resguardos correspondientes;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVI. Asesorar, en su caso, cuando así lo requieran las Delegaciones Administrativas sobre los procedimientos de contratación para la adquisición y arrendamiento de bienes muebles, la prestación de servicios y arrendamiento de inmuebles;
+IX. Suscribir los nombramientos, comisiones y suspensiones de las personas servidoras públicas del Tribunal que apruebe la Junta, en términos de las disposiciones jurídicas aplicables;
 
-XVII. Proponer a la Junta las mejoras a los Lineamientos de Gestión que se establezcan para las Delegaciones Administrativas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVIII. Verificar el cumplimiento de las Delegaciones Administrativas sobre los informes que le sean solicitados por las Direcciones Generales de Recursos Humanos, Programación y Presupuesto, y Recursos Materiales;
+X. Vigilar el cumplimiento del marco jurídico aplicable, así como de la normativa que emita la Junta para la adquisición y arrendamiento de bienes muebles, la prestación de servicios, las obras y los servicios relacionados con las mismas y arrendamiento de bienes inmuebles que contrate el Tribunal;
 
-XIX. Programar las visitas de inspección y supervisión a las Delegaciones Administrativas para verificar el adecuado desempeño de sus titulares;
+(REUBICADA, D.O.F. 23 DE MAYO DE 2025)
 
-XX. Dirigir los Programas de Protección Civil y de Seguridad e Higiene, así como verificar el adecuado desempeño del servicio médico dentro del Tribunal;
+XI. Dirigir, en coordinación con las áreas administrativas, la elaboración del proyecto del Programa Anual de Adquisiciones, Arrendamientos y Servicios;
 
-XXI. Requerir a las áreas administrativas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes que le solicite la Junta o cualquier otra autoridad competente;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXII. Coordinar la planeación de los temas y asuntos de su competencia que deban ser sometidos a consideración de la Junta, anexando la documentación soporte correspondiente;
+XII. Suscribir, en el ámbito de sus atribuciones, con la participación de las áreas administrativas que corresponda, los contratos, convenios, acuerdos y los documentos relativos al ejercicio de sus funciones, así como aquéllos que le sean señalados por delegación administrativa y, en su caso, las rescisiones o terminaciones anticipadas, de conformidad con las disposiciones jurídicas aplicables;
 
-XXIII. Presentar a la Secretaría Auxiliar la información y documentación correspondiente a los asuntos de su competencia que deban ser sometidos a la consideración de la Junta;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXIV. Asistir a las sesiones ordinarias y extraordinarias de la Junta a las que sea convocado y exponer, a petición de sus integrantes, las precisiones complementarias a los proyectos de su competencia, que se presenten a consideración de la misma;
+XIII. Proponer y coordinar los programas relacionados con la modernización, simplificación y mejoramiento administrativo, el desarrollo organizacional, la transparencia y la rendición de cuentas que autorice la Junta;
 
-XXV. Hacer del conocimiento de las áreas administrativas que tenga adscritas, los acuerdos y resoluciones de la Junta en materia de su competencia, supervisar su desarrollo y verificar su ejecución;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXVI. Supervisar los pagos, llevar la contabilidad y elaborar los informes necesarios, a través de la Tesorería de la Dirección General de Programación y Presupuesto;
+XIV. Supervisar, a través de la Dirección General de Delegaciones Administrativas, las actividades de las delegaciones administrativas;
 
-XXVII. Aplicar, bajo su más estricta responsabilidad, las normas para el ingreso, permanencia, promoción y retiro del personal del Tribunal y expedir los nombramientos que no sean competencia exclusiva de Junta;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXVIII. Mantener actualizados los inventarios de recursos humanos, bienes muebles e inmuebles del Tribunal, incorporándolos a las plataformas tecnológicas correspondientes;
+XV. Autorizar lineamientos de gestión y sus mejoras que se establezcan para las delegaciones administrativas a propuesta de la Dirección General de Delegaciones Administrativas;
 
-XXIX. Supervisar los procesos de adquisición y arrendamiento de bienes muebles, de prestación de servicios, así como los de obra pública y servicios relacionados con la misma; así como llevar a cabo las contrataciones de arrendamiento inmobiliario que resulten necesarias;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXX. Supervisar la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en posesión el Tribunal;
+XVI. Autorizar las visitas a las delegaciones administrativas que realice la Dirección General de Delegaciones Administrativas, la Dirección General de Recursos Materiales y Servicios Generales y la Dirección General de Archivos, para verificar el adecuado desempeño de sus titulares;
 
-XXXI. Suscribir con la participación de la Dirección General de Recursos Humanos o de las Delegaciones Administrativas, los convenios de colaboración en materia de servicio social y prácticas profesionales;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXXII. Suscribir los endosos de las facturas de los vehículos que forman parte del parque vehicular del Tribunal, cuando resulte necesario;
+XVII. Dirigir los programas de protección civil y de seguridad e higiene, así como supervisar, a través de la Dirección General de Recursos Humanos y Servicio Profesional de Carrera el adecuado desempeño del servicio médico dentro del Tribunal;
 
-XXXIII. Conducir la revisión de las Condiciones Generales de Trabajo del Tribunal, difundirlas entre el personal y vigilar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXXIV. Coordinar normativa y operativamente las gestiones de los archivos de trámite, concentración y en su caso histórico;
+XVIII. Requerir a las áreas administrativas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes que le solicite la Junta o cualquier otra autoridad competente;
 
-XXXV. Proponer a la Junta la elaboración de criterios, procedimientos y métodos para administrar y mejorar el funcionamiento de los archivos del Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXXVI. Auxiliar a la Junta en los procedimientos para la evaluación del desempeño de los servidores públicos del Tribunal que esta le señale, de conformidad con las disposiciones aplicables, y
+XIX. Coordinar la planeación de los temas y asuntos de su competencia que deban ser sometidos a consideración de la Junta, anexando la documentación soporte correspondiente;
 
-XXXVII. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que le competan a las unidades administrativas que tenga adscritas.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XX. Presentar a la Secretaría Técnica la información y documentación correspondiente a los asuntos de su competencia que deban ser sometidos a la consideración de la Junta;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Asistir a las sesiones ordinarias y extraordinarias de la Junta a las que sea convocado y exponer, a petición de sus integrantes, las precisiones complementarias a los proyectos de su competencia, que se presenten a consideración de la misma;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXII. Hacer del conocimiento de las áreas administrativas que tenga adscritas, los acuerdos y resoluciones de la Junta en materia de su competencia, supervisar su desarrollo y verificar su ejecución;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIII. Supervisar el ejercicio del presupuesto, los pagos, llevar la contabilidad y elaborar los informes necesarios, a través de la Dirección General de Programación y Presupuesto;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIV. Aplicar, bajo su más estricta responsabilidad, a través de la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, la normativa en materia de personal que emita el Tribunal, y autorizar las comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta, las que se otorgarán siempre que estén debidamente justificadas de manera excepcional por los requirentes, presentadas a la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, quién realizará la validación;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXV. Supervisar que la plantilla de los recursos humanos se ajuste a la estructura orgánica autorizada;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXVI. Supervisar que el inventario de bienes muebles e inmuebles del Tribunal, se encuentre actualizado en las plataformas tecnológicas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXVII. Supervisar los procesos de adquisición y arrendamiento de bienes muebles, de prestación de servicios, así como los de obra pública y servicios relacionados con la misma, de las delegaciones administrativas, a través de la Dirección General de Delegaciones Administrativas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXVIII. Supervisar la adecuada conservación de los bienes muebles e inmuebles que bajo cualquier título tenga en posesión el Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIX. Suscribir, a través de las Direcciones Generales de Recursos Humanos y Servicio Profesional de Carrera y Delegaciones Administrativas, convenios de colaboración en materia de servicio social, prácticas profesionales y meritorios jurisdiccionales;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXX. Suscribir los instrumentos o documentos que sean necesarios para la venta o baja de los vehículos que forman parte del parque vehicular del Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXI. Conducir la revisión de las Condiciones Generales de Trabajo del Tribunal, difundirlas entre el personal y vigilar su cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXII. Coordinar normativa y operativamente las gestiones de los archivos de trámite, concentración y, en su caso, histórico;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXIII. Proponer a la Junta la elaboración de documentos con criterios, procedimientos y métodos para administrar y mejorar el funcionamiento de los archivos del Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXIV. Proponer a la Junta las acciones de capacitación del personal en el ámbito administrativo, previa detección de necesidades, para su capacitación, desarrollo y actualización;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXV. Auxiliar a la Junta en los procedimientos para la evaluación del desempeño de las personas servidoras públicas del Tribunal, de conformidad con la normativa vigente;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXVI. Verificar y supervisar la aplicación del Estatuto y normas de carrera jurisdiccional que emita la Junta;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXVII. Supervisar la operación de la intranet en coordinación con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones y la Dirección General de Comunicación Social, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXVIII. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que les competan a los órganos administrativos que tenga adscritos.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 101.
 
@@ -2157,25 +2507,41 @@ Corresponde a la Secretaría Operativa de Tecnologías de la Información y las 
 
 I. Dar seguimiento al cumplimiento de los objetivos del Plan Estratégico del Tribunal, en el ámbito de su competencia, para proporcionar a las dependencias del Tribunal, a la Junta y al Pleno General, los recursos informáticos que requieran para el desarrollo de las actividades que tengan encomendadas;
 
-II. Revisar y presentar a la Junta el Programa Institucional en Tecnologías de la Información y Comunicaciones, así como las políticas, objetivos, estrategias y líneas de acción para su desarrollo y supervisar su ejecución, en coordinación con las áreas competentes del Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-III. Planear y coordinar la aplicación de las políticas y programas en materia de Tecnologías de la Información y Comunicaciones, de conformidad con la normativa aplicable;
+II. Presentar a la Junta el Programa Institucional en Tecnologías de la Información y las Comunicaciones, así como las políticas, objetivos, estrategias, y líneas de acción para su desarrollo y supervisar su ejecución, en coordinación con las áreas competentes del Tribunal;
 
-IV. Fijar y proponer a la Junta políticas y estrategias, para que todos los sistemas informáticos y soluciones digitales de comunicación e información del Tribunal existentes y por desarrollar, se integren al Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Determinar y proponer a la Secretaría Operativa de Administración, el anteproyecto de presupuesto en materia de Tecnologías de la Información y Comunicaciones del Tribunal;
+III. Coordinar la planeación y aplicación de las políticas y programas en materia de Tecnologías de la Información y Comunicaciones, de conformidad con la normativa aplicable;
 
-VI. Evaluar los requerimientos del Tribunal en Tecnologías de la Información y Comunicaciones, así como el cumplimiento de las obligaciones contratadas con terceros en esta materia, conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IV. Proponer a la Junta, las políticas y estrategias, para que todos los sistemas informáticos y soluciones digitales de comunicación e información se integren a los sistemas informáticos, de acuerdo con las necesidades jurisdiccionales y administrativas del Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+V. Detectar las necesidades en materia de tecnologías de la información y comunicaciones del Tribunal, para la integración del anteproyecto de presupuesto y su presentación a la Secretaría Operativa de Administración;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VI. Evaluar los requerimientos del Tribunal en materia de tecnologías de la información y comunicaciones, y coordinar el cumplimiento de las obligaciones contratadas con terceros, en el ámbito de sus atribuciones, conforme a la normativa aplicable;
 
 VII. Revisar y determinar las acciones relacionadas con la administración de riesgos en el ámbito de Tecnologías de la Información y Comunicaciones e implementar indicadores de gestión y desempeño; así como medidas para asegurar el cumplimiento del Programa Institucional en Tecnologías de la Información y Comunicaciones;
 
-VIII. Planear, diseñar, mantener y supervisar la operación de los sistemas de información que requieran los órganos jurisdiccionales y áreas administrativas del Tribunal, a través de las Direcciones Generales a su cargo;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Establecer estrategias para la correcta operación de los sistemas de información que requieran los órganos jurisdiccionales y áreas administrativas del Tribunal;
 
 IX. Supervisar la ejecución de los programas de capacitación en Tecnologías de la Información y Comunicaciones;
 
-X. Diseñar, crear, organizar, operar, y actualizar, las bases de datos que compilen la información que facilite la toma de decisiones de los órganos superiores de este Tribunal, en materia de administración, vigilancia, disciplina y carrera jurisdiccional, resguardando, bajo su más estricta responsabilidad, las medidas de seguridad, reserva y confidencialidad de los datos contenidos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
 
-Estas bases de datos deberán contener, por lo menos, la información que en cada uno de los rubros se precisa:
+X. Proporcionar las herramientas tecnológicas que permitan diseñar, crear, organizar operar y actualizar las bases de datos que compilen la información que facilite la toma de decisiones de los órganos superiores de este Tribunal, en materia de administración, vigilancia, disciplina y carrera jurisdiccional, disponiendo las medidas de seguridad, reserva y confidencialidad de los datos contenidos, siendo responsabilidad de las áreas competentes la administración de la información;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
+
+Estas bases de datos contendrán, la información que en cada uno de los rubros se precisa:
 
 a) Administración: la relación actualizada de los recursos humanos al servicio del Tribunal, por Sala, área o dependencia jurisdiccional o administrativa. La identificación de los inmuebles y bienes muebles e informáticos al servicio de las diversas áreas administrativas y jurisdiccionales del Tribunal, especificando su ubicación, el documento con el que se comprueba su legal propiedad o posesión, su costo o el gasto por concepto de adquisición o renta, según sea el caso; además deberán reportarse los contratos de servicios y de arrendamiento de los bienes de naturaleza diversa a los inmuebles; el desglose del gasto ejercido y las nuevas requisiciones a cargo de cada una de las Salas que integran este Tribunal, o bien de las áreas administrativas que lo componen; así como la cantidad que eroga la institución para el desahogo, trámite y resolución de cada uno de los juicios radicados en las Salas.
 
@@ -2189,31 +2555,55 @@ La Secretaría podrá solicitar a las diversas áreas administrativas y jurisdic
 
 Estas bases de datos servirán para alimentar a los Sistemas de Información del Tribunal;
 
-XI. Someter a consideración y aprobación de la Junta, tanto la actualización de los reportes de información que, de manera periódica son proporcionados por las Salas en el proceso de visita, como la adición de los nuevos reportes que faciliten la verificación del buen funcionamiento del Tribunal, y la aplicación de medidas preventivas y correctivas. Los Magistrados Visitadores podrán enviar a la Secretaría Operativa de Tecnologías, sus solicitudes y sugerencias para estas inclusiones;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XII. Dirigir, coordinar, supervisar y vigilar el cumplimiento de las funciones encomendadas a los Delegados de Tecnologías de la Información y Telecomunicaciones y a las áreas administrativas que tiene adscritas, emitiendo los lineamientos que regulen su desempeño y vigilando su cumplimiento en coordinación con los Presidentes de las Salas;
+XI. Actualizar los formatos de reporte de información que solicite el Comité de Modernización Tecnológica, con base en las solicitudes y propuestas de los magistrados visitadores;
 
-XIII. Participar, con las áreas administrativas competentes del Tribunal, en la celebración de convenios, contratos y demás instrumentos jurídicos, con organismos, instituciones o entidades tanto públicas como privadas, nacionales o internacionales en materia de Tecnologías de la Información y Comunicaciones, conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Presentar a la Secretaría Auxiliar la información y documentación de los asuntos de su competencia que deban ser considerados por la Junta, elaborando la documentación soporte correspondiente;
+XII. Coordinar y vigilar el cumplimiento de las funciones encomendadas a las delegaciones de Tecnologías de la Información y Comunicaciones y a las áreas administrativas que tiene adscritas, emitiendo los lineamientos que regulen su desempeño;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIII. Participar, con las áreas administrativas competentes del Tribunal, en la celebración de convenios, contratos y demás instrumentos jurídicos, con organismos, instituciones o entidades tanto públicas como privadas, nacionales o internacionales en materia de Tecnologías de la Información y Comunicaciones, en el ámbito de sus competencias;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Presentar a la Secretaría Técnica la información y documentación de los asuntos de su competencia que deban ser considerados por la Junta, elaborando la documentación soporte correspondiente;
 
 XV. Coordinar la planeación de los temas y asuntos de su competencia que deban ser sometidos a consideración de la Junta;
 
 XVI. Asistir a las sesiones ordinarias y extraordinarias de la Junta a las que sea convocado y exponer, a petición de sus integrantes, las precisiones complementarias a los proyectos de su competencia, que se presenten a consideración de la misma;
 
-XVII. Hacer del conocimiento de las áreas administrativas que tenga adscritas, los acuerdos y resoluciones de la Junta en materia de su competencia, supervisar su desarrollo y verificar su ejecución;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVIII. Definir, supervisar y coordinar la actualización de la plataforma tecnológica del Tribunal, la seguridad y disponibilidad de la información;
+XVII. Hacer del conocimiento de las áreas administrativas que tenga adscritas, los acuerdos y resoluciones de la Junta en materia de su competencia, coordinando su ejecución;
 
-XIX. Determinar las necesidades del Tribunal en materia de Tecnologías de la Información y las Comunicaciones, así como evaluar y proponer los proyectos que optimicen y automaticen las funciones y procedimientos de los órganos jurisdiccionales y las unidades administrativas con apego al marco normativo aplicable al Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XX. Suscribir, previa revisión de la Unidad de Asuntos Jurídicos y revisión normativa del Órgano Interno de Control, con la participación de las áreas administrativas que corresponda, los contratos, convenios, acuerdos y los documentos relativos al ejercicio de sus funciones, así como aquéllos que le sean señalados por delegación o le corresponda por suplencia y, en su caso, rescindirlos o darlos por terminados anticipadamente, de conformidad con las disposiciones jurídicas aplicables, y
+XVIII. Definir estrategias para la actualización de la plataforma tecnológica del Tribunal, la seguridad y disponibilidad de la información;
 
-XXI. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que le competan a las unidades administrativas que tenga adscritas.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIX. Coordinar, en conjunto con el Comité de Modernización Tecnológica, la detección de las necesidades del Tribunal en materia de Tecnologías de la Información y las Comunicaciones, así como la evaluación y proposición de los proyectos que optimicen y automaticen las funciones y procedimientos de los órganos jurisdiccionales y los órganos administrativos, con apego al marco normativo aplicable al Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XX. Suscribir, previa revisión de la Unidad de Asuntos Jurídicos en el ámbito de sus atribuciones, con la participación de las áreas administrativas que corresponda, los contratos, convenios, acuerdos y los documentos relativos al ejercicio de sus funciones, así como aquéllos que le sean señalados por delegación o le corresponda por suplencia y, en su caso, solicitar a la Dirección General de Recursos Materiales y Servicios Generales la rescisión o terminación anticipada, de conformidad con las disposiciones jurídicas aplicables, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Las demás que le asigne directamente la Junta y le confieran otras disposiciones normativas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Para el desempeño de sus atribuciones, la persona titular de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, se auxiliará de las Direcciones Generales y áreas a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 102.
 
-Corresponde a los Secretarios, Directores Generales, delegados y Titulares de las áreas a que se refieren los artículos 97, fracciones I a V y 114 del presente Reglamento:
+Corresponde a los titulares de las secretarías, direcciones generales, delegaciones y de las áreas a que se refieren los artículos 97, fracciones I, II, III y V; y 114 del presente Reglamento.
 
 I. Rendir a su superior jerárquico, con la periodicidad que determine, los informes de actividades que hayan desarrollado en el periodo respectivo;
 
@@ -2229,7 +2619,9 @@ VI. Expedir y certificar, en su caso, las copias de documentos o constancias que
 
 VII. Coordinarse con las demás áreas del Tribunal y en su caso, con otras dependencias y entidades del sector público, en el desempeño y para el mejor despacho de los asuntos de su competencia;
 
-VIII. Adoptar, en el ámbito de su competencia y respecto a las atribuciones encomendadas al área a su cargo, las medidas necesarias para el combate a la corrupción y a la transparencia de la información pública gubernamental;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Adoptar, en el ámbito de su competencia y respecto a las atribuciones encomendadas al área a su cargo, las medidas necesarias para el combate a la corrupción y garantizar la transparencia, acceso a la información y protección de datos personales;
 
 IX. Atender los requerimientos de información y de coordinación que le formulen la Junta, su Presidente, las Comisiones o los Comités, para llevar a cabo las actividades que permitan realizar una planeación integral del Tribunal, y
 
@@ -2239,9 +2631,11 @@ X. Las demás facultades que les confieran las disposiciones legales y administr
 
 De las Unidades Administrativas de la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 103.
 
-Corresponde a la Unidad de Peritos:
+Corresponde a la Unidad de Peritos Terceros:
 
 I. Llevar y mantener actualizado el registro de Peritos del Tribunal;
 
@@ -2255,7 +2649,9 @@ V. Proponer a la Junta el arancel que servirá de base para el pago de los honor
 
 VI. Comunicar a la Junta cualquier irregularidad en la conducta o ética de los peritos, así como de cualquier infracción a alguna disposición normativa por parte de éstos;
 
-VII. Rendir los informes que le solicite el Titular de la Secretaría Auxiliar y la Junta, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VII. Rendir los informes que le solicite la Secretaría Técnica y la Junta, y
 
 VIII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
@@ -2289,9 +2685,19 @@ VII. Coordinar junto con los gestores de archivo de concentración, la Secretar�
 
 VIII. Proponer a la Junta los programas de capacitación y asesoría archivística;
 
-IX. Coordinar con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, las actividades destinadas a la automatización de los archivos y a la gestión de documentos electrónicos, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-X. Las demás que le confieran otras disposiciones jurídicas o la Junta.
+IX. Coordinar con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+X. Promover, en coordinación con el Centro de Estudios, el aprovechamiento del conocimiento jurídico resguardado en los archivos del Tribunal.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Las demás que le confieran otras disposiciones jurídicas o la Junta.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 105.
 
@@ -2325,147 +2731,259 @@ XIII. Tramitar ante la Secretaría de Hacienda y Crédito Público, las solicitu
 
 XIV. Promover que las unidades responsables del Tribunal den cumplimiento a las disposiciones presupuestarias aplicables a fideicomisos, mandatos o contratos análogos, así como gestionar ante las instancias correspondientes el registro y demás trámites presupuestarios que sean solicitados por las unidades responsables;
 
-XV. Resguardar los testimonios de escrituras públicas, contratos y expedientes que avalen el estado legal de inmuebles al servicio del Tribunal, a través del área correspondiente;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVI. Controlar y resguardar la información generada por la participación del Tribunal como fideicomitente o beneficiario, en fideicomisos o contratos análogos;
+XV. Controlar y resguardar la información generada por la participación del Tribunal como fideicomitente o beneficiario, en fideicomisos o contratos análogos;
 
-XVII. Atender las instancias de fiscalización que se requieran en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVIII. Realizar el registro contable de las operaciones, de manera pormenorizada y detallada, constatando que las reglas aplicables a dicho registro observen el marco normativo vigente para el ejercicio de recursos federales, y
+XVI. Atender las instancias de fiscalización que se requieran en el ámbito de su competencia;
 
-XIX. Las demás que le confieran otras disposiciones jurídicas y los acuerdos de la Junta y del Pleno General.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Realizar el registro contable de las operaciones, de manera pormenorizada y detallada, constatando que las reglas aplicables a dicho registro observen el marco normativo vigente para el ejercicio de recursos federales;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Programar, presupuestar y administrar los recursos financieros en materia de servicios personales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIX. Actuar en representación del Tribunal ante las autoridades en materia fiscal en el ámbito local y federal, excepción hecha de aquellas de naturaleza contenciosa que correspondan a la unidad de asuntos jurídicos o de las que requieran poder especial;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XX. Elaborar los dictámenes de impacto presupuestario a las estructuras orgánicas, para su aprobación por parte de la Junta, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Las demás que le confieran otras disposiciones jurídicas y los acuerdos de la Junta y del Pleno General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 106.
 
-Corresponde a la Dirección General de Recursos Humanos:
+Corresponde a la Dirección General de Recursos Humanos y Servicio Profesional de Carrera:
 
-I. Planear, organizar, realizar y controlar, entre otras, las acciones relativas al nombramiento, contratación, control de asistencia, credencialización, pago de remuneraciones y prestaciones e incentivos, de conformidad con la normativa aplicable y los acuerdos de la Junta;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-II. Administrar los recursos humanos del Tribunal con base en la Ley y en las políticas, normas, y procedimientos que aprueben el Pleno Jurisdiccional y la Junta en el ámbito de sus respectivas competencias;
+I. Planear, organizar, dirigir y coordinar, entre otras, las acciones relativas al nombramiento, contratación, control de asistencia, credencialización, pago de remuneraciones, prestaciones, incentivos o cualquier otro pago, de conformidad con la normativa aplicable y los acuerdos de la Junta; así como, expedir y suscribir las constancias de nombramiento, bajas, licencias y comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+II. Administrar los recursos humanos del Tribunal con base en la Ley y en el Estatuto, así como las políticas, normas y procedimientos que aprueben el Pleno Jurisdiccional y la Junta en el ámbito de sus respectivas competencias incluyendo los sistemas de carrera;
 
 III. Realizar las acciones relacionadas con la actualización de la estructura ocupacional del Tribunal, previa autorización de la Junta;
 
-IV. Programar, presupuestar y administrar el gasto en materia de servicios personales y efectuar los trámites correspondientes;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Analizar y presupuestar la estructura orgánica y funcional del Tribunal y presentar a la Secretaría Operativa de Administración, propuestas de organización para mejorar el funcionamiento de la institución;
+IV. Elaborar el calendario de pagos de las remuneraciones del personal del Tribunal, de conformidad con el calendario de días laborales;
 
-VI. Supervisar que las actividades relacionadas con el pago y la administración de los recursos relativos a sueldos, salarios, sistemas de estímulos, y recompensas, obligaciones fiscales y otras prestaciones se realicen en tiempo, conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+V. Analizar la estructura orgánica y funcional del Tribunal y presentar a la Secretaría Operativa de Administración, propuestas de organización para mejorar el funcionamiento de la institución;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VI. Supervisar que las actividades relacionadas con el pago y la administración de los recursos relativos a sueldos, salarios, estímulos y recompensas, obligaciones fiscales y otras prestaciones se realicen en tiempo, conforme a la normativa aplicable;
 
 VII. Coordinar la elaboración de los Manuales de organización y de procedimientos del Tribunal, en coordinación con las distintas áreas y tramitar su aprobación por parte de la Junta;
 
-VIII. Elaborar y proponer a la Secretaría Operativa de Administración los dictámenes de impacto presupuestario a las estructuras orgánicas y, en su caso, la modificación de la estructura orgánica ocupacional y salarial desde el punto de vista técnico, estratégico, organizacional y operacional, para su aprobación por parte de la Junta;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Elaborar los dictámenes a las estructuras orgánicas y, en su caso, la modificación a la estructura orgánico ocupacional y salarial desde el punto de vista técnico, estratégico, organizacional y operacional, para la aprobación de la Secretaría Operativa de Administración;
 
 IX. Proponer las normas a seguir en materia de prevención de riesgos profesionales y accidentes de trabajo, atendiendo las recomendaciones de la Comisión Mixta de Seguridad e Higiene;
 
-X. Proponer, gestionar y difundir servicios asistenciales, culturales, deportivos y sociales para los trabajadores y trabajadoras del Tribunal, con perspectiva de género;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XI. Verificar la debida integración de los expedientes de los servidores públicos del Tribunal;
+X. Proponer, gestionar y difundir servicios asistenciales, culturales, deportivos y sociales para las personas servidoras públicas del Tribunal, con perspectiva de género;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Integrar y resguardar los expedientes de las personas servidoras públicas del Tribunal de conformidad con la normativa;
 
 XII. Participar en la elaboración, revisión y difusión de las Condiciones Generales de Trabajo, aplicarlas y vigilar su cumplimiento;
 
-XIII. Colaborar con la Unidad de Sistemas de Carrera en la implementación de los sistemas de carrera jurisdiccional del Tribunal, los programas de servicio social y prácticas profesionales, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+XIII. Coordinar e implementar los programas de servicio social y prácticas profesionales y meritorios jurisdiccionales en el Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Elaborar los perfiles de puesto de los Órganos Administrativos del Tribunal, así como los relacionados con los sistemas de carrera jurisdiccional; y someterlos a aprobación de la Junta, previa validación de las respectivas áreas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Identificar e integrar las necesidades de capacitación administrativa de las personas servidoras públicas del Tribunal, así como elaborar y someterlos a aprobación de la Junta, previa validación a la Secretaría Operativa de Administración, los programas relacionados con la capacitación del personal en el ámbito administrativo del Tribunal, así como celebrar los instrumentos jurídicos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Aplicar la normativa en materia de personal que emita el Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Proponer a la Secretaría Operativa de Administración los contenidos, criterios técnicos, metodologías y herramientas para instrumentar los sistemas de carrera jurisdiccional del Tribunal, a fin de ser sometidos a la Junta;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Aplicar el Estatuto y las normas de carrera jurisdiccional del Tribunal que emita la Junta;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIX. Verificar el adecuado desempeño del servicio médico dentro del Tribunal, en los casos de las Salas con sede distinta a la Ciudad de México lo hará en coordinación con la Dirección General de Delegaciones Administrativas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XX. Coordinar el adecuado desempeño del servicio médico dentro del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Validar las solicitudes de comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta, siempre que estén debidamente justificadas de manera excepcional por los requirentes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 107.
 
 Corresponde a la Dirección General de Recursos Materiales y Servicios Generales:
 
-I. Proponer, dirigir y supervisar el cumplimiento de las políticas, bases y lineamientos para la administración y control de las adquisiciones y arrendamientos de bienes, de obras y la contratación de obras y servicios de cualquier naturaleza;
+I. Proponer, dirigir y supervisar el cumplimiento de las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma;
 
-II. Coordinar la elaboración y ejecución de los programas de inversión, adquisiciones, arrendamientos, servicios y obra pública;
+II. Proveer y/o administrar los servicios generales, seguridad, vigilancia, aseguramiento de bienes patrimoniales, mantenimientos, trabajos de conservación y adecuación, entre otros, que se requieran para el correcto funcionamiento de los bienes muebles e inmuebles utilizados por las áreas del Tribunal;
 
-III. Coordinar, supervisar y asegurar que los procesos para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, así como su suministro y ejecución se lleven a cabo de manera programada y oportuna, conforme a las disposiciones jurídicas aplicables;
+III. Coordinar la elaboración y ejecución de los programas de inversión, adquisiciones, arrendamientos, servicios y obra pública;
 
-IV. Supervisar que la construcción, adquisición, arrendamiento, ocupación y aprovechamiento de inmuebles destinados al Tribunal, así como de los equipos e instalaciones con que cuentan, se realice de conformidad con los programas y normas aplicables;
+IV. Efectuar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma, asegurando que su suministro y ejecución se lleven a cabo de manera programada y oportuna, conforme a las disposiciones jurídicas aplicables;
 
-V. Verificar que el mantenimiento, conservación, adaptación y acondicionamiento de los bienes inmuebles y sus equipos, se realice de conformidad con los programas y normas aplicables;
+V. Supervisar y verificar que la obra, adquisición, arrendamiento, ocupación, mantenimiento, conservación, acondicionamiento y aprovechamiento de bienes inmuebles destinados al Tribunal, así como de los equipos e instalaciones con que cuentan, se realice de conformidad con los programas y disposiciones jurídicas aplicables;
 
-VI. Mantener actualizado el inventario general de los inmuebles, promoviendo su regularización jurídico administrativa y tramitar las solicitudes de justipreciación y avalúos que se requieran;
+VI. Realizar las investigaciones de mercados que soliciten las áreas administrativas requirentes para iniciar un procedimiento de contratación, a fin de encontrar las mejores condiciones para el Tribunal de conformidad con las disposiciones jurídicas aplicables;
 
-VII. Coordinar el funcionamiento de los Comités de Adquisiciones, Bienes Muebles y Obras Públicas del Tribunal, de conformidad con las disposiciones jurídicas aplicables;
+VII. Mantener actualizado el inventario general de los inmuebles, promoviendo su regularización jurídico-administrativa y tramitar las solicitudes de justipreciación y avalúos que se requieran;
 
-VIII. Supervisar la elaboración y ejecución de los contratos de adquisiciones, arrendamientos, obras públicas y servicios de cualquier naturaleza que requiera el Tribunal y, en su caso, rescindirlos o darlos por terminados anticipadamente, en coordinación con la Unidad de Asuntos Jurídicos;
+VIII. Coordinar la participación y el funcionamiento de los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles y Obras Públicas del Tribunal, de conformidad con las disposiciones jurídicas aplicables;
 
-IX. Tramitar, en coordinación con las áreas administrativas requirentes, los contratos que afecten el presupuesto del Tribunal y los demás actos de administración que deban ser documentados, y someterlos oportunamente a la firma de la Secretaría Operativa de Administración, previa revisión jurídica de la Unidad de Asuntos Jurídicos y revisión normativa del Órgano Interno de Control en el ámbito de sus competencias;
+IX. Supervisar la elaboración y formalización, en coordinación con las áreas administrativas requirentes, de los contratos y convenios de adquisiciones, arrendamientos, obras públicas y servicios de cualquier naturaleza que requiera el Tribunal, así como, los demás actos de administración que deban ser documentados para someterlos a revisión y validación de la Unidad de Asuntos Jurídicos conforme a sus atribuciones;
 
-X. Gestionar el trámite de pago a proveedores de bienes, arrendamientos y servicios, así como de obra pública, previa validación y autorización del área requirente, y en su caso, por el Administrador del respectivo contrato, en términos de los compromisos adquiridos y demás disposiciones jurídicas aplicables;
+X. Tramitar y ejecutar las rescisiones o terminaciones anticipadas solicitadas por el área administrativa requirente, respecto de los contratos de adquisiciones, arrendamientos, obras públicas y servicios de cualquier naturaleza formalizados por el Tribunal, previa asesoría jurídica de la Unidad de Asuntos Jurídicos, de acuerdo con sus atribuciones;
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+XI. Suscribir los contratos y convenios de adquisiciones, arrendamientos, obras públicas y servicios de cualquier naturaleza que requiera el Tribunal y que por monto correspondan a la Dirección General de Recursos Materiales y Servicios Generales, de acuerdo con lo establecido en las disposiciones jurídicas aplicables;
 
-XI. Mantener actualizado el inventario físico de bienes muebles, su afectación y disposición final, a excepción de los bienes informáticos, así como controlar el almacén central;
+XII. Mantener actualizado el inventario físico de bienes instrumentales y de consumo, con la participación de las áreas del Tribunal, su afectación y disposición final, a excepción de los bienes informáticos, así como administrar el almacén central;
 
-XII. Realizar el aseguramiento de los bienes patrimoniales del Tribunal, y ejecutar las acciones conducentes en los casos de siniestro;
+XIII. Contratar los seguros institucionales y realizar el aseguramiento de los bienes patrimoniales del Tribunal, y ejecutar las acciones conducentes en los casos de siniestro con los representantes o apoderados de las Aseguradoras, pudiendo solicitar asesoría a la Unidad de Asuntos Jurídicos, en términos del artículo 118 del presente Reglamento;
 
-XIII. Supervisar los procedimientos de las adquisiciones, los servicios generales, la ejecución de las obras y los servicios relacionados con las mismas que le sean encomendados;
+XIV. Administrar el parque vehicular del Tribunal, ya sea propio o arrendado;
 
-XIV. Administrar el parque vehicular propio y arrendado del Tribunal;
+XV. Coordinar la elaboración, integración, operación y evaluación del Programa de Seguridad y Protección Civil, de conformidad con la normativa aplicable;
 
-XV. Coordinar la integración y operación del Programa de Seguridad y Protección Civil, de conformidad con la normativa aplicable;
+XVI. Resguardar los testimonios de escrituras públicas, contratos y expedientes que avalen el estado legal de inmuebles al servicio del Tribunal, a través del área correspondiente, y
 
-XVI. Elaborar los contratos de adquisiciones y arrendamientos de bienes muebles, de prestación de servicios, de obra pública y servicios relacionados con la misma, así como de arrendamiento inmobiliario, y en su caso, rescindirlos o darlos por terminados anticipadamente, previa autorización del área jurídica;
+XVII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-XVII. Someter, previamente a su firma, a revisión de la Unidad de Asuntos Jurídicos, los contratos, convenios modificatorios y demás actos que emita, en el ámbito de su competencia;
-
-XVIII. Llevar a cabo los procesos de adquisición y arrendamiento de bienes muebles, de prestación de servicios, así como los de obra pública y servicios relacionados con la misma, asimismo llevar a cabo las contrataciones de arrendamiento inmobiliario que resulten necesarias, y
-
-XIX. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 108.
 
 La Dirección General de Delegaciones Administrativas tendrá a su cargo las siguientes atribuciones:
 
-I. Coordinar y supervisar, conforme a las disposiciones aplicables y en los términos que en su caso instruya la Junta, las acciones de las Delegaciones Administrativas adscritas a las Salas Regionales con sede distinta a la Ciudad de México;
+I. Coordinar y vigilar, conforme a las disposiciones aplicables y en los términos que, en su caso, instruya la Secretaría Operativa de Administración, las acciones de las delegaciones administrativas adscritas a las Salas Regionales con sede distinta a la Ciudad de México;
 
-II. Elaborar, organizar y mantener actualizado un sistema de información administrativa que permita conocer el estado que guardan los recursos humanos, los bienes muebles e inmuebles, las contrataciones y el ejercicio presupuestal y contable de las Delegaciones Administrativas, para una adecuada y oportuna toma de decisiones;
+II. Elaborar, organizar y mantener actualizados los controles administrativos que permitan conocer el estado que guardan los recursos humanos, los bienes muebles e inmuebles, las contrataciones y el ejercicio presupuestal y contable de las delegaciones administrativas, para una adecuada y oportuna toma de decisiones;
 
-III. Coordinar la operación de los Delegados Administrativos, y fungir como enlace entre éstos y las Direcciones Generales de la Secretaría Operativa de Administración;
+III. Coordinar y dar seguimiento a los asuntos en materia de recursos humanos, materiales, servicios generales y presupuesto, gestionados por las delegaciones administrativas, y actuar en su representación ante las direcciones generales de la Secretaría Operativa de Administración;
 
-IV. Dar seguimiento, en coordinación con la Dirección General de Programación y Presupuesto, a la integración y ejercicio de los presupuestos respectivos de las Delegaciones Administrativas;
+IV. Supervisar que las delegaciones administrativas elaboren las afectaciones presupuestarias que, en su caso, sean necesarias;
 
-V. Supervisar la administración de los contratos y convenios de servicios en las Delegaciones Administrativas;
+V. Asesorar y coordinar, con las delegaciones administrativas, los procesos de adquisición de bienes muebles, contratación de servicios y de arrendamiento inmobiliario que resulten necesarias, y participar en la formalización de los contratos y convenios de adquisiciones, arrendamientos y servicios, previa revisión y validación de la Unidad de Asuntos Jurídicos que le soliciten las delegaciones;
 
-VI. Coordinar, conjuntamente con la Dirección General de Recursos Materiales y Servicios Generales, la vigilancia de la infraestructura, el mantenimiento inmobiliario y la actualización de programas de protección civil;
+VI. Mantener actualizado el “perfil de puesto” que deben cubrir las personas que aspiren a ocupar una delegación administrativa que, en su caso, propongan las Presidencias de las Salas Regionales, en coordinación con la Dirección General de Recursos Humanos y Servicio Profesional de Carrera;
 
-VII. Elaborar y mantener actualizado el Perfil de Puesto que deben cubrir los aspirantes a Delegados Administrativos que, en su caso, propongan los Magistrados Presidentes de las Salas Regionales;
+VII. Coordinar con la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, los asuntos relacionados con los programas y las acciones de capacitación, especialización y actualización que requieran las delegaciones administrativas, así como gestionar las necesidades de capacitación de la Dirección General;
 
-VIII. Elaborar y mantener actualizado el examen de conocimientos técnicos que deben presentar los aspirantes a Delegados Administrativos, y coordinar con la Dirección General de Recursos Humanos la aplicación del mismo;
+VIII. Dar seguimiento, asesorar y fungir como enlace con la Unidad de Transparencia, respecto del cumplimiento de las obligaciones de las delegaciones administrativas en materia de transparencia, acceso a la información y protección de datos personales;
 
-IX. Coordinar, con la Dirección General de Recursos Humanos, las acciones de capacitación, especialización y actualización que requieran los Delegados Administrativos;
+IX. Elaborar, mantener actualizados y someter a autorización de la Secretaría Operativa de Administración, los lineamientos de gestión para las delegaciones administrativas que se establezcan;
 
-X. Dar seguimiento al cumplimiento de las obligaciones de las Delegaciones Administrativas en materia de transparencia y acceso a la información;
+X. Coordinar el cumplimiento de directrices, protocolos, políticas y procedimientos administrativos que establezcan las direcciones generales adscritas a la Secretaría Operativa de Administración, relacionados con los procesos en materia de recursos humanos, materiales, financieros, de seguridad, de servicios, así como protección civil, transparencia y archivos en las delegaciones administrativas, de acuerdo con la normativa aplicable;
 
-XI. Elaborar y proponer a la Secretaría Operativa de Administración, las mejoras a los Lineamientos de Gestión que se establezcan para las Delegaciones Administrativas, y
+XI. Supervisar que las delegaciones administrativas cuenten con los controles suficientes que les permitan vigilar los bienes del Tribunal de las Salas Regionales a las que se encuentren adscritos, así como mantener actualizados los resguardos correspondientes;
 
-XII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+XII. Verificar el cumplimiento de las delegaciones administrativas sobre los informes que le sean solicitados por las Direcciones Generales de Recursos Humanos, Programación y Presupuesto y Recursos Materiales y Servicios Generales;
+
+XIII. Elaborar y someter a autorización del titular de la Secretaría Operativa de Administración, el programa de visitas a las delegaciones administrativas para verificar el adecuado desempeño de sus titulares, y
+
+XIV. Las demás que le confieran otras disposiciones y la Junta.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 109.
 
-Corresponde a las Delegaciones Administrativas:
+Corresponde a las delegaciones administrativas:
 
-I. Cumplir con las directrices y protocolos que elabore la Dirección General de Delegaciones Administrativas para el ejercicio de las atribuciones contenidas en este Reglamento;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-II. Ejecutar las órdenes relacionadas con la elaboración y ejercicio del presupuesto, así como el manejo de los recursos financieros que le sean asignados, conforme a las directrices de la Dirección General de Programación y Presupuesto;
+I. Cumplir con las directrices, protocolos, políticas y procedimientos que establezcan las Direcciones Generales de la Secretaría Operativa de Administración en materia de recursos humanos, materiales, financieros, de seguridad, servicios, así como protección civil, transparencia y archivos, en las delegaciones administrativas;
 
-III. Analizar y solicitar, a la Dirección General de Programación y Presupuesto las afectaciones presupuestarias que se requieran;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Solicitar a la Dirección General de Delegaciones Administrativas los movimientos de personal;
+II. Dar cumplimiento a la planeación, programación, presupuestación, ejercicio y control del Presupuesto conforme a las reglas establecidas por la Dirección General de Programación y Presupuesto;
 
-V. Controlar los bienes del Tribunal en la Sala o Salas de su adscripción, así como los resguardos de los asignados a los servidores públicos y vigilar su conservación;
+III. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-VI. Llevar a cabo los procesos de adquisición y arrendamiento de bienes muebles, de prestación de servicios, así como llevar a cabo las contrataciones de arrendamiento inmobiliario que resulten necesarias;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
-VII. Elaborar y suscribir los contratos y convenios modificatorios de adquisiciones y arrendamiento de bienes inmuebles, de prestación de servicios, así como de arrendamiento inmobiliario; y en su caso, rescindirlos o darlos por terminados anticipadamente;
+IV. Gestionar los movimientos de personal que requieran los titulares en las Salas Regionales;
 
-VIII. Someter, a revisión de la Unidad de Asuntos Jurídicos los contratos, convenios modificatorios y demás actos que emita, en el ámbito de su competencia, previamente a su firma;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IX. Asegurar el debido cumplimiento de los servicios que se contraten y mantener el control de acceso del personal y de los bienes a los inmuebles;
+V. Administrar los bienes instrumentales y de consumo del Tribunal en la Sala de su adscripción, vigilar su conservación y mantener actualizados los resguardos del activo fijo asignado;
 
-X. Adoptar las medidas necesarias para la debida observancia de Lineamientos de Gestión que se establezcan para las Delegaciones Administrativas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XI. Rendir los informes que le sean solicitados por la Dirección General de Delegaciones Administrativas en materia de recursos financieros, humanos y materiales asignados a la Sala o Salas de su adscripción, y
+VI. Llevar a cabo, en coordinación con la Dirección General de Delegaciones Administrativas, los procesos de adquisición de bienes muebles, contratación de prestación de servicios, así como las contrataciones de arrendamiento inmobiliario que resulten necesarias;
 
-XII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VII. Realizar las investigaciones de mercado de adquisición de bienes y contratación de servicios de los procedimientos de licitación pública, invitación a cuando menos tres personas, en aquellos casos que así corresponda;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Elaborar y suscribir los contratos y convenios modificatorios de adquisiciones y arrendamiento de bienes inmuebles, de prestación de servicios, así como de arrendamiento inmobiliario; y en su caso, rescindirlos o darlos por terminados anticipadamente;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IX. Supervisar las solicitudes que realicen las Delegaciones Administrativas a la Unidad de Asuntos Jurídicos, en el ámbito de su competencia, respecto de los proyectos de contratos, convenios modificatorios y demás actos que emita, previo a su firma;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+X. Asegurar el debido cumplimiento de los servicios que se contraten y mantener el control de acceso del personal y de los bienes a los inmuebles, debiendo informar a la Dirección General de Delegaciones Administrativas sobre cualquier incumplimiento;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Adoptar las medidas necesarias para la debida observancia de los lineamientos de gestión de las delegaciones administrativas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XII. Rendir los informes que le sean solicitados por la Dirección General de Delegaciones Administrativas en materia de recursos humanos, materiales, financieros, de seguridad, servicios, así como protección civil, transparencia y archivos, asignados a la Sala o Salas de su adscripción;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIII. Enviar a la Dirección General de Delegaciones Administrativas, las necesidades de capacitación, especialización y actualización que se requiera en cada Delegación Administrativa;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Dar cumplimiento a las obligaciones de transparencia, acceso a la información y protección de datos personales, así como solicitar a la Dirección General de Delegaciones Administrativas las asesorías que requieran, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 110.
 
@@ -2473,17 +2991,23 @@ Corresponde a la Dirección General de Infraestructura Tecnológica:
 
 I. Diseñar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones las políticas, lineamientos, normas o procedimientos en materia de Tecnologías de la Información y Telecomunicaciones de su competencia, conforme al marco tecnológico existente, a fin de fortalecer, innovar, optimizar y complementar los servicios informáticos y la plataforma tecnológica institucional;
 
-II. Difundir, promover, instrumentar, aplicar y vigilar las políticas, lineamientos, normas y procedimientos en materia de Tecnologías de la Información y Telecomunicaciones de su competencia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+II. Definir, diseñar, proponer, difundir, promover, instrumentar, aplicar y vigilar las políticas, lineamientos, normas y procedimientos en materia de Tecnologías de la Información y Comunicaciones de su competencia;
 
 III. Definir, diseñar, establecer, operar y administrar de manera directa o mediante la contratación de servicios de terceros, la plataforma tecnológica del Tribunal que permita apoyar a las diferentes áreas administrativas y jurisdiccionales en el cumplimiento de sus funciones;
 
-IV. Instrumentar, supervisar y evaluar la plataforma tecnológica y los servicios informáticos que se presten en el Tribunal, de acuerdo con las mejores prácticas nacionales e internacionales, en apoyo a las especificaciones técnicas que determine la Dirección General de los Sistemas de la Información;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IV. Instrumentar, supervisar y evaluar la plataforma tecnológica y los servicios informáticos que se presten en el Tribunal, de acuerdo con las mejores prácticas nacionales e internacionales, en apoyo a las especificaciones técnicas que determine la Dirección General de los Sistemas de la Información, resguardando las medidas de seguridad, reserva y confidencialidad de los datos contenidos, siendo responsabilidad de las áreas competentes la administración de la referida información;
 
 V. Promover, permanentemente, la evolución, innovación, optimización y estandarización de la plataforma tecnológica;
 
 VI. Planear y ejercer el presupuesto en materia de Tecnologías de la Información y Telecomunicaciones que le corresponda, conforme a los objetivos institucionales del Tribunal;
 
-VII. Evaluar la viabilidad técnica y operativa de los requerimientos de las áreas administrativas y jurisdiccionales del Tribunal, para proponer al Secretario Operativo de Tecnologías de la Información y las Comunicaciones, la adquisición o arrendamiento de bienes y servicios en materia de Tecnologías de la Información y Telecomunicaciones que le corresponda, conforme a las políticas y criterios autorizados;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VII. Evaluar la viabilidad técnica y operativa de los requerimientos de las áreas administrativas y jurisdiccionales del Tribunal, para proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, la adquisición o arrendamiento de bienes y servicios en materia de tecnologías de la información y telecomunicaciones que le corresponda, conforme a las políticas y criterios autorizados;
 
 VIII. Administrar y operar los servicios de infraestructura de cómputo, de comunicaciones, aplicaciones informáticas y componentes tecnológicos, de manera directa o mediante la contratación de terceros;
 
@@ -2499,11 +3023,15 @@ XIII. Diseñar, desarrollar, integrar, implementar, proporcionar y mantener los 
 
 XIV. Diseñar, implementar y evaluar los mecanismos y procedimientos que permitan la integridad, accesibilidad, disponibilidad, seguridad, confidencialidad y resguardo de la información que se almacena en la plataforma tecnológica del Tribunal;
 
-XV. Diseñar y proponer al Secretario Operativo de Tecnologías de la Información y las Comunicaciones la implementación y mantenimiento de los planes de continuidad y de recuperación de la información y operación de tecnologías de la información y comunicaciones en caso de contingencia o desastres del Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Diseñar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones la implementación y mantenimiento de los planes de continuidad y de recuperación de la información y operación de tecnologías de la información y comunicaciones en caso de contingencia o desastres del Tribunal;
 
 XVI. Planear, administrar y evaluar el mantenimiento preventivo, de detección y correctivo de los bienes y servicios informáticos, así como de los componentes de la plataforma tecnológica del Tribunal;
 
-XVII. Diseñar los servicios de infraestructura de cómputo central, computo distribuido, centros de cómputo, telecomunicaciones, redes locales, enlaces de comunicación, servicios informativos, de telefonía, los sistemas de energía eléctrica (UPS y plantas de energía), las aplicaciones informáticas y componentes tecnológicos;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Definir, diseñar y proponer los servicios de infraestructura de cómputo central, cómputo distribuido, centros de cómputo, telecomunicaciones, redes locales, enlaces de comunicación, servicios informativos, de telefonía, los sistemas de energía eléctrica (UPS y plantas de energía), las aplicaciones informáticas y componentes tecnológicos;
 
 XVIII. Operar y administrar los centros de cómputo en los que se tenga infraestructura tecnológica propiedad del Tribunal o de arrendamiento con terceros;
 
@@ -2513,11 +3041,17 @@ XX. Definir, diseñar, proponer, establecer, operar y administrar de manera dire
 
 XXI. Definir, establecer, operar y administrar los servicios de telefonía local y de larga distancia nacional e internacional contratados con terceros y que ocupan para el desarrollo de sus funciones las diferentes unidades administrativas y jurisdiccionales;
 
-XXII. Brindar el apoyo administrativo y técnico a los Delegados de Tecnologías de la Información y Comunicaciones de las Salas Regionales con sede distinta a la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXIII. Formular y recopilar, anualmente, las necesidades de las áreas administrativas y jurisdiccionales en materia de Tecnologías de la Información y Telecomunicaciones que le corresponda, a fin de elaborar el plan de adquisiciones o arrendamiento de bienes y servicios informáticos;
+XXII. Brindar el apoyo administrativo y técnico a las Delegaciones de Tecnologías de la Información y Comunicaciones de las Salas Regionales con sede distinta a la Ciudad de México;
 
-XXIV. Diseñar, desarrollar, operar y administrar el funcionamiento de la página web institucional, de los sitios de internet, intranet y otros sitios del Tribunal que tengan presencia en internet, así como proporcionar a las áreas responsables de la administración de la información contenida en dichos sitios y aplicaciones, las herramientas tecnológicas para tal efecto;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIII. Recopilar y formular, anualmente, las necesidades de las áreas administrativas y jurisdiccionales en materia de tecnologías de la información y las comunicaciones que le corresponda, a fin de elaborar el plan de adquisiciones o arrendamiento de bienes y servicios informáticos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIV. Proporcionar las herramientas tecnológicas a las áreas responsables de operar y administrar el funcionamiento de la página web institucional, de los sitios de Internet, intranet y otros espacios del Tribunal en Internet, así como brindar el apoyo técnico a las personas responsables de la administración de la información contenida en dichos sitios y aplicaciones;
 
 XXV. Administrar las licencias de programas de cómputo o servicios de mantenimiento adquiridos por el Tribunal, en materia de Tecnologías de la Información y Telecomunicaciones;
 
@@ -2527,81 +3061,141 @@ XXVII. Elaborar y proponer a la Secretaría Operativa de Tecnologías de la Info
 
 XXVIII. Administrar los mecanismos para la transmisión, videograbación, difusión y almacenamiento de los eventos que el Tribunal requiera difundir a nivel nacional e internacional, así como las sesiones y demás diligencias del Pleno General, de las Secciones de Sala Superior, así como de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas;
 
-XXIX. Acordar con el Secretario Operativo de Tecnologías de la Información y las Comunicaciones los asuntos de su competencia, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIX. Acordar con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones los asuntos de su competencia, y
 
 XXX. Las demás que le señalen otras disposiciones jurídicas y la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 111.
 
 Corresponde a la Dirección General de Sistemas de Información:
 
-I. Planear, administrar y supervisar las actividades de diseño, desarrollo, implementación, operación, mantenimiento y mejora continua de los sistemas informáticos que requiera el Tribunal y supervisar el cumplimiento de las obligaciones contratadas con terceros en esta materia, conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+I. Planear, administrar y supervisar las actividades de análisis, diseño, desarrollo, implementación, operación, mantenimiento y mejora continua de los sistemas informáticos y páginas web, que requiera el Tribunal y supervisar el cumplimiento de las obligaciones contratadas con terceros en esta materia, conforme a la normativa aplicable;
 
 II. Proponer, difundir y vigilar el cumplimiento de las normas, políticas, lineamientos, estándares y procedimientos para el aseguramiento de la calidad y la seguridad de la información del Tribunal, en el ámbito de su competencia;
 
-III. Proponer al Secretario Operativo de Tecnologías de la Información y las Comunicaciones, los requerimientos para la adquisición o arrendamiento de Software y Hardware necesarios para la óptima operación del Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Identificar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones los temas relacionados con el Sistema de Justicia en Línea que requieran difundirse;
+III. Proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, los requerimientos para la adquisición o arrendamiento de Software y Hardware necesarios para la óptima operación de los sistemas informáticos del Tribunal y, en su caso, solicitar a la Dirección General de Infraestructura Tecnológica, los ajustes que correspondan a la infraestructura tecnológica para su instrumentación;
 
-V. Identificar y proponer las reformas y adiciones a las disposiciones jurídicas aplicables al Tribunal, al juicio contencioso administrativo federal y al Sistema de Justicia en Línea, necesarias para la óptima operación de este último;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VI. Determinar la viabilidad de los requerimientos funcionales del Sistema de Justicia en Línea, considerando las implicaciones técnicas y el impacto normativo y, en su caso, proponer modificaciones a disposiciones jurídicas y administrativas aplicables al Tribunal, al juicio contencioso administrativo federal y al Sistema de Justicia en Línea;
+IV. Identificar y proponer a la persona servidora pública titular de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones los temas relacionados con los sistemas informáticos que requieran difundirse;
 
-VII. Proporcionar a las Salas el reporte que determine la existencia de la interrupción de la disponibilidad de los sistemas informáticos jurisdiccionales del Tribunal, así como del Sistema de Justicia en Línea, en coordinación con la Dirección General de Infraestructura Tecnológica;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VIII. Atender los requerimientos de las Salas en los que adviertan que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, a efecto de que se proceda en los términos previstos en la Ley Federal de Procedimiento Contencioso Administrativo y demás lineamientos emitidos por la Junta, dando cuenta a esta última de lo anterior;
+V. Identificar y proponer las reformas y adiciones a las disposiciones jurídicas aplicables al Tribunal, al juicio contencioso administrativo federal, necesarias para la óptima operación de los sistemas informáticos;
 
-IX. Instrumentar las medidas de protección para evitar conductas que provoquen modificaciones, alteraciones, destrucción y pérdida de la información contenida en el Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-X. Coordinar y administrar los contenidos de las páginas web del Sistema de Justicia en Línea;
+VI. Determinar la viabilidad de los requerimientos funcionales de los sistemas informáticos, considerando las implicaciones técnicas, el impacto normativo y, en su caso, proponer modificaciones a las disposiciones legales y normativas relativas al Tribunal y a la tramitación del juicio contencioso administrativo federal;
 
-XI. Evaluar los requerimientos funcionales que deban ser incluidos en el Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XII. Dirigir, supervisar, e intervenir en las diversas fases de análisis, diseño, desarrollo y puesta en operación de los mantenimientos o actualizaciones que requiera el Sistema de Justicia en Línea y en su caso, verificar el cumplimiento de los servicios contratados a terceros;
+VII. Proporcionar a las Salas, previa solicitud del área afectada, en caso de interrupción de alguno de los sistemas informáticos, un reporte técnico, en coordinación con la Dirección General de Infraestructura Tecnológica, informando el motivo de la interrupción, la causa, la duración de la incidencia y el alcance;
 
-XIII. Identificar los requerimientos necesarios para la óptima operación del Sistema de Justicia en Línea, así como proponer y realizar las acciones que correspondan;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Realizar las acciones necesarias tendentes al mantenimiento funcional del Sistema de Justicia en Línea;
+VIII. Atender los requerimientos de las áreas usuarias de los Sistemas Informáticos en los que adviertan que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en cualquiera de estos, a efecto de que se proceda en los términos previstos en la Ley Federal de Procedimiento Contencioso Administrativo, en la Ley General de Responsabilidades Administrativas y demás lineamientos emitidos por la Junta, dando cuenta a esta última de lo anterior, al Órgano Interno de Control o a la Junta en el ámbito de sus atribuciones, según corresponda;
 
-XV. Administrar los procesos relacionados con las actividades jurisdiccionales y con la información estadística del Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVI. Establecer los mecanismos necesarios para que la información que se integre en el Sistema de Justicia en Línea pueda ser utilizada de manera óptima por todos los usuarios, de acuerdo con su competencia;
+IX. Instrumentar las medidas de protección para minimizar y disuadir conductas que provoquen modificaciones, alteraciones, destrucción y pérdida de la información contenida en los sistemas informáticos;
 
-XVII. Mantener actualizados los catálogos y plantillas del Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVIII. Analizar los requerimientos de los usuarios del Sistema de Justicia en Línea y, en su caso, solicitar a la Dirección General de Infraestructura Tecnológica, los ajustes que correspondan a la infraestructura tecnológica para su instrumentación;
+X. Coordinar y administrar los contenidos de las páginas web de los sistemas informáticos;
 
-XIX. Analizar los requerimientos técnicos de mejoras funcionales de los Sistemas Informáticos del Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Evaluar los requerimientos funcionales que deban ser incluidos en los sistemas informáticos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XII. Dirigir, supervisar, e intervenir en las diversas fases de análisis, diseño, desarrollo y puesta en operación de los mantenimientos o actualizaciones que requieran los sistemas informáticos y, en su caso, verificar el cumplimiento de los servicios contratados a terceros;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIII. Identificar los requerimientos necesarios para la óptima operación de los sistemas informáticos, así como proponer y realizar las acciones que correspondan;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Realizar las acciones necesarias tendentes al mantenimiento funcional de los sistemas informáticos.
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Administrar los procesos relacionados con las actividades jurisdiccionales y con la información estadística los sistemas informáticos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Establecer los mecanismos necesarios para que la información que se integre en los sistemas informáticos pueda ser utilizada de manera óptima por todos los usuarios, de acuerdo con su competencia;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Mantener actualizados los catálogos y plantillas de los sistemas informáticos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Analizar los requerimientos de los usuarios de los sistemas informáticos y, en su caso, solicitar a la Dirección General de Infraestructura Tecnológica los ajustes que correspondan a la infraestructura tecnológica para su instrumentación;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIX. Analizar los requerimientos técnicos de mejoras funcionales de los sistemas informáticos;
 
 XX. Participar en el desarrollo de los productos estadísticos y herramientas para el manejo de información que apoyen la planeación integral del Tribunal;
 
 XXI. Generar y administrar los repositorios de información para la explotación de información administrativa, curricular, observaciones y seguimiento de visitas, incidentes de disciplina y los que se generen de la información jurisdiccional para proporcionar a los Comités de la Junta y Comisiones del Pleno General y demás unidades y áreas administrativas, las herramientas tecnológicas de explotación y análisis;
 
-XXII. Integrar y desarrollar el Sistema de Información Estadística sobre el desempeño del Tribunal, que deberá contener plazos de instrucción de los juicios, la productividad jurisdiccional, las partes litigantes, los montos económicos, los actos impugnados y los agravios recurrentes, los amparos y revisiones fiscales, el inventario de asuntos en trámite y la información curricular del personal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXII. Integrar y desarrollar el Sistema de Información Estadística en coordinación con las áreas competentes, para la explotación de información administrativa y jurisdiccional, así como proporcionar las herramientas tecnológicas para su consulta y análisis, a los Comités de la Junta y Comisiones del Pleno General y órganos administrativos, en el ámbito de su competencia;
 
 XXIII. Atender requerimientos de las Salas relacionados con las fallas del Sistema de Justicia en Línea, en cuanto al uso, acceso o recepción de notificaciones, así como a la consulta y el envío de información mediante la utilización de la firma electrónica avanzada, clave de acceso y contraseñas;
 
-XXIV. Atender los requerimientos relacionados con el Sistema de Control y Seguimiento de Juicios;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXV. Atender las solicitudes de requerimientos funcionales necesarios para la mejora en la operación del Sistema de Justicia en Línea, provenientes de usuarios internos y externos;
+XXIV. Atender los requerimientos relacionados con los sistemas informáticos;
 
-XXVI. Establecer, administrar y coordinar un Centro de Atención, que operará telefónicamente y en línea, para asesorar a los usuarios internos y externos del Sistema de Justicia en Línea;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXVII. Dirigir, coordinar, evaluar y supervisar la operación y actividades de los Módulos de Registro del Sistema de Justicia en Línea, conforme a los lineamientos que al efecto expida la Junta;
+XXV. Atender las solicitudes de requerimientos funcionales necesarios para la mejora en la operación de los sistemas informáticos, provenientes de usuarios internos y externos;
 
-XXVIII. Administrar el registro de usuarios internos y externos del Sistema;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXIX. Determinar las necesidades de conocimientos y habilidades de los usuarios de los sistemas informáticos jurisdiccionales del Tribunal, a efecto de diseñar, promover y evaluar la ejecución de planes y programas de capacitación respecto de la funcionalidad del Sistema, poniéndolo en conocimiento y en su caso, aprobación, de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+XXVI. Establecer, administrar y coordinar un Centro de Atención, que operará telefónicamente y en línea, para asesorar a los usuarios internos y externos de los sistemas informáticos;
 
-XXX. Proponer al Secretario Operativo de Tecnologías de la Información y las Comunicaciones, el programa de adquisiciones o arrendamiento de bienes y servicios en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXXI. Acordar con el Secretario Operativo de Tecnologías de la Información y las Comunicaciones los asuntos de su competencia, y
+XXVII. Dirigir, coordinar, evaluar y supervisar la operación y actividades de los módulos de registro y baja de usuarios dentro de los sistemas informáticos, conforme a los lineamientos que al efecto expida la Junta;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXVIII. Administrar el registro de usuarios internos y externos de los sistemas informáticos;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIX. Determinar las necesidades de conocimientos y habilidades de los usuarios de los sistemas informáticos del Tribunal, a efecto de diseñar, promover y evaluar la ejecución de planes y programas de capacitación respecto de la funcionalidad de los Sistemas, poniéndolo en conocimiento de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXX. Proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones el programa de adquisiciones o arrendamiento de bienes y servicios;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXXI. Acordar con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones los asuntos de su competencia, y
 
 XXXII. Las demás que le confieran otras disposiciones jurídicas y la Secretaría Operativa de Tecnologías de Información y las Comunicaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 112.
 
-Corresponde a las Delegaciones de Tecnologías de la Información y Telecomunicaciones:
+Corresponde a las Delegaciones de Tecnologías de la Información y Comunicaciones:
 
 I. Recabar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, los requerimientos necesarios para implantar, administrar y operar la infraestructura tecnológica y de sistemas informáticos jurisdiccionales requeridos;
 
@@ -2623,39 +3217,13 @@ IX. Apoyar personalmente en las labores de control y vigilancia de la Junta, ver
 
 X. Las demás que le confieran otras disposiciones jurídicas y la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 113.
 
-Corresponde a la Unidad de Sistemas de Carrera:
+El Centro Público de Mecanismos Alternativos es un órgano especializado del Tribunal, con sede en la Ciudad de México, para dar cumplimiento a Ley General de Mecanismos Alternativos de Solución de Controversias.
 
-I. Definir y proponer los contenidos, criterios técnicos, metodologías y herramientas para instrumentar los sistemas de carrera jurisdiccional del Tribunal;
-
-II. Supervisar y asegurar la aplicación del Estatuto y normas de carrera jurisdiccional del Tribunal;
-
-III. Coordinar, supervisar y asegurar que los procesos para el ingreso, permanencia, promoción y retiro de servidores públicos del Tribunal se lleven a cabo de manera programada y oportuna, conforme al Estatuto y normas de carrera jurisdiccional aprobados;
-
-IV. Remitir las evaluaciones y demás documentos que justifiquen las propuestas de contratación, promoción y cambio de adscripción del personal, a la Dirección General de Recursos Humanos para la expedición del nombramiento correspondiente, previa autorización de la Junta;
-
-V. Proponer a la Junta las resoluciones que procedan, para el ingreso, promoción, permanencia o retiro de servidores públicos del Tribunal, en términos de las disposiciones jurídicas aplicables,
-
-VI. Auxiliar a la Junta en los procedimientos para la evaluación del desempeño de los servidores públicos del Tribunal que éste señale, de conformidad con las disposiciones aplicables;
-
-VII. Desarrollar y aplicar los procedimientos y criterios establecidos para la evaluación del desempeño de los servidores públicos del Tribunal;
-
-VIII. Supervisar que las herramientas de evaluación seleccionadas midan los conocimientos y capacidades establecidos para cada uno de los puestos;
-
-IX. Proponer a la Dirección General del Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo acciones de capacitación conforme a la detección de necesidades del personal y con base al presupuesto;
-
-X. Vigilar que el programa anual de capacitación contribuya a mejorar el nivel de conocimientos, capacidades y competencias del personal;
-
-XI. Llevar y mantener actualizado el registro y memoria documental de los resultados de las evaluaciones, concursos y resoluciones que se efectúen de conformidad con el Estatuto y normas de carrera jurisdiccional del Tribunal;
-
-XII. Elaborar el informe anual de evaluación de la operación de los sistemas de carrera jurisdiccional;
-
-XIII. Administrar el registro de servidores públicos de carrera jurisdiccional y expedir las constancias correspondientes;
-
-XIV. Coordinar los programas de servicio social de estudiantes de instituciones públicas y privadas a nivel medio superior y superior en el Tribunal, y
-
-XV. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+El Centro Público de Mecanismos Alternativos contará con la organización, estructura, personal y funciones establecidas en el reglamento de la materia, emitido por el Pleno General, en términos de la Ley General de Mecanismos Alternativos de Solución de Controversias.
 
 ### Capítulo IV.
 
@@ -2665,85 +3233,185 @@ De las Unidades Administrativas Especializadas.
 
 El Tribunal contará con las siguientes unidades administrativas especializadas, las cuales estarán adscritas al Presidente:
 
-I. Dirección General del Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+I. Centro Público de Mecanismos Alternativos;
 
 II. Dirección General de Comunicación Social;
 
-III. Unidad de Asuntos Jurídicos, y
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Unidad de la Oficina del Presidente.
+III. Dirección General del Centro de Estudios Superiores en Materia de Derecho Fiscal y Administrativo del Tribunal Federal de Justicia Administrativa;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IV. Unidad de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+V. Unidad para la Igualdad de Género, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VI. Unidad de la Oficina de Presidencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 115.
 
-Al frente del Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo habrá un Director General designado por el Presidente.
+El presidente designará a la persona servidora pública que estará al frente del Centro de Estudios.
 
 El nombramiento correspondiente deberá recaer en una persona que acredite destacada trayectoria profesional y académica, en actividades de investigación y docencia, preferentemente en áreas de Derecho Fiscal, Administrativo, Aduanero, de Comercio Exterior, de Propiedad Intelectual, de Responsabilidades o Combate a la Corrupción.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 116.
 
-Corresponde al Director General del Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo:
+Corresponde a la Dirección General del Centro de Estudios:
 
-I. Elaborar, proponer y ejecutar los programas permanentes de capacitación para los servidores públicos del Tribunal, así como los de especialización y actualización en las materias de su competencia dando vista a la Junta, y considerando, en materia de Responsabilidades Administrativas, los criterios que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
+I. Elaborar, proponer, implementar, impartir, operar y ejecutar los doctorados, maestrías, especializaciones, diplomados, cursos, talleres, seminarios y programas permanentes de capacitación de forma continua y actualizada en las materias competencia del Tribunal, mediante las modalidades escolarizada y no escolarizada, para capacitar a las personas servidoras públicas y al personal de carrera jurisdiccional que laboran en dicho Tribunal, así como a personas externas al mismo, informando a la Junta y considerando, en materia de responsabilidades administrativas, los criterios que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-II. Coordinar, compilar y dar seguimiento a los trabajos y compromisos del Congreso Anual de Magistrados del Tribunal, en los términos que señale la Junta;
+II. Diseñar y ejecutar programas de capacitación, actualización, así como realizar la evaluación y certificación de personas facilitadoras en las materias fiscal y administrativa, de conformidad con lo establecido en la Ley General de Mecanismos Alternativos de Solución de Controversias y la normativa que se expida para tales efectos;
 
-III. Dirigir y coordinar la impartición de cursos, conferencias, congresos y seminarios conforme a los programas autorizados, así como formular las convocatorias y contenidos temáticos correspondientes;
+Asimismo, participar en la celebración de convenios con instituciones públicas y privadas para la impartición de cursos de capacitación orientados a la obtención de certificación de personas facilitadoras.
 
-IV. Promover la investigación, enseñanza y difusión de las materias fiscal y administrativa, y participar con las unidades administrativas competentes del Tribunal, en la celebración de convenios con instituciones públicas y privadas, para tal efecto;
+Tratándose de personas externas al Tribunal, podrán establecerse cuotas de recuperación;
 
-V. Gestionar y mantener actualizado el reconocimiento de validez oficial de los estudios que imparta el Centro de Estudios;
+III. Otorgar, negar o renovar la certificación de las personas facilitadoras en las materias fiscal y administrativa, de conformidad con lo establecido en la Ley General de Mecanismos Alternativos de Solución de Controversias y la normativa que se expida para tales efectos;
 
-VI. Expedir, conforme a las normas establecidas, los documentos que acrediten los grados académicos correspondientes a los estudios que imparta el Centro de Estudios;
+IV. Coordinar, compilar y dar seguimiento a los trabajos y acuerdos relacionados y derivados del Congreso Anual de Magistrados del Tribunal, en los términos que determine la Junta;
 
-VII. Proponer y coordinar el otorgamiento de los premios y reconocimientos académicos aprobados por la Junta;
+V. Dirigir y coordinar la impartición de cursos, conferencias, congresos y seminarios, tanto de forma presencial como a distancia, así como formular las convocatorias de los posgrados modalidad escolarizada y modalidad no escolarizada, y contenidos temáticos de los eventos académicos de referencia;
 
-VIII. Promover la obtención de becas en instituciones educativas para el personal profesional del Tribunal y someter a la autorización de la Junta, las reglas y procedimientos para su otorgamiento;
+VI. Gestionar y mantener actualizado el reconocimiento de validez oficial de los estudios de posgrado modalidad escolarizada y modalidad no escolarizada, que imparta el Centro de Estudios ante las autoridades competentes;
 
-IX. Promover y coordinar acciones, en el ámbito de su competencia, con otros organismos impartidores de justicia, para el logro de sus objetivos;
+VII. Promover la investigación, enseñanza y difusión de las materias fiscal y administrativa, así como participar en la celebración de convenios con instituciones públicas y privadas, para tal efecto;
 
-X. Actualizar, ordenar y conservar el acervo documental, bibliográfico, hemerográfico, videográfico y audiovisual de las Bibliotecas y permitir su consulta;
+VIII. Expedir, conforme a las normas establecidas, los documentos que acrediten los grados académicos correspondientes a los estudios que imparta el Centro de Estudios;
 
-XI. Dirigir y supervisar las librerías del Tribunal, así como la publicación, distribución y venta de obras jurídicas especializadas en dichos establecimientos;
+IX. Proponer y coordinar el otorgamiento de los premios y reconocimientos académicos aprobados por la Junta;
 
-XII. Elaborar, proponer y aplicar los lineamientos para determinar la integración, contenido, edición, diseño y formación tipográfica de la Revista y demás obras que publique el Tribunal, así como las políticas, normas y procedimientos para regular, fijar y actualizar su distribución, difusión y precios de venta, conforme a la normativa aplicable;
+X. Promover la obtención de becas en instituciones educativas para el personal profesional del Tribunal y someter a la autorización de la Junta, las reglas y procedimientos para su otorgamiento;
 
-XIII. Recopilar, revisar, clasificar y seleccionar la información y material necesario para la publicación de la Revista y demás obras del Tribunal, así como supervisar, en su caso, la captura, formación e impresión de las mismas;
+XI. Promover y coordinar acciones, en el ámbito de su competencia, con otros organismos impartidores de justicia, para el logro de sus objetivos;
 
-XIV. Gestionar, inscribir y mantener actualizados, a nombre del Tribunal, los derechos de autor, certificados de licitud y contenido, y otros registros análogos, de la Revista y demás obras que publique, así como resguardar y conservar los registros y demás documentación que obtenga;
+XII. Promover los servicios bibliotecarios y garantizar su acceso;
 
-XV. Elaborar el informe anual del Centro de Estudios y presentarlo a la Junta;
+XIII. Organizar y actualizar las colecciones de la biblioteca y conservar la especialización de sus contenidos;
 
-XVI. Coadyuvar en la preparación del Informe Anual de Labores y de la Memoria Anual, así como coordinar la edición, grabado e impresión de ambos documentos, y
+XIV. Preservar el patrimonio documental del Tribunal;
 
-XVII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+XV. Elaborar, proponer y aplicar los lineamientos para determinar la integración, contenido, edición, diseño y formación tipográfica de la Revista y demás obras que publique el Tribunal, así como las políticas, normas y procedimientos para regular, fijar y actualizar su distribución, difusión y precios de venta, conforme a la normativa aplicable, en coordinación con la Dirección de General de Comunicación Social en el ámbito de sus atribuciones;
 
-Sin perjuicio de su ejercicio directo por parte del Director General del Centro de Estudios, al Director de Difusión corresponderá el ejercicio de las atribuciones previstas en las fracciones XI, XII, XIII, XIV y XVI del presente artículo.
+XVI. Recopilar, revisar, clasificar y seleccionar la información y material necesario para la publicación de la Revista y demás obras del Tribunal, así como supervisar, en su caso, la captura, formación e impresión de las mismas;
+
+XVII. Supervisar y coordinar la actualización de la información contenida en los sistemas electrónicos de consulta de tesis y jurisprudencias;
+
+XVIII. Contar, en el ámbito de su competencia, con representaciones acreditadas en términos de lo dispuesto en la Ley del Servicio Exterior Mexicano.
+
+XIX. Actuar en representación del Tribunal ante las autoridades, dependencias y entidades competentes en materia de propiedad intelectual, a efecto de gestionar, inscribir y mantener actualizados los derechos de autor, certificados de licitud de título y contenido, y otros registros análogos, de la Revista y demás obras que publique, así como resguardar y conservar los registros y demás documentación que obtenga, en coordinación con la Unidad de Asuntos Jurídicos del Tribunal, en los ámbitos de sus competencia;
+
+XX. Elaborar el informe anual del Centro de Estudios y presentarlo a la Junta;
+
+XXI. Coadyuvar en la preparación del Informe Anual de Labores y de la Memoria Anual, así como coordinar la edición, grabado e impresión de ambos documentos, y
+
+XXII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+Sin perjuicio de su ejercicio directo por parte de la Dirección General del Centro de Estudios, al titular de la Dirección de Difusión corresponderá el ejercicio de las atribuciones previstas en las fracciones XV, XVI, XVII, XVIII y XIX del presente artículo, quedando sujetas las actividades de difusión en coordinación con la Dirección General de Comunicación Social en términos del artículo 117, fracciones IV, VIII y XIII de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 117.
 
-Corresponde a la Dirección General de Comunicación Social:
+Corresponde a la Dirección General de Comunicación Social.
 
 I. Ejecutar y asegurar el cumplimiento de la política de comunicación social y de relaciones públicas del Tribunal, de conformidad con los lineamientos que dicte la Presidencia y demás disposiciones jurídicas aplicables;
 
-II. Elaborar el programa de difusión de los trabajos del Tribunal, para aprobación de la Presidencia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-III. Coordinar el desarrollo de las estrategias de difusión y comunicación autorizadas;
+II. Elaborar el programa anual de difusión de los trabajos del Tribunal, para la aprobación de la Presidencia;
 
-IV. Emitir, analizar y distribuir información a través de los medios de comunicación, sobre el desarrollo de los programas y actividades del Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Integrar y seleccionar la información que generen las diferentes áreas del Tribunal y proponer su publicación a la Presidencia;
+III. Coordinar e implementar el desarrollo de las estrategias de difusión y comunicación autorizadas;
 
-VI. Organizar los sistemas y mecanismos operativos de enlace con las áreas del Tribunal para garantizar un flujo informativo eficiente;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-VII. Fortalecer la relación con los medios de comunicación para la óptima utilización de los espacios de comunicación, expresión y difusión del Tribunal;
+IV. Emitir, difundir y dar seguimiento a información sobre el desarrollo de los programas y actividades del Tribunal a través de los medios de comunicación y redes sociales;
 
-VIII. Crear archivos temáticos de información generada en los medios de comunicación, sobre eventos actuales en el ámbito nacional e internacional, relacionados con las actividades del Tribunal;
+V. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-IX. Evaluar los resultados derivados de los programas y campañas de difusión e información del Tribunal;
+VI. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-X. Planear y coordinar, con el apoyo de las unidades administrativas, la información contenida en las páginas de Internet e intranet del Tribunal, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XI. Las demás que le confieran otras disposiciones jurídicas.
+VII. Fortalecer la relación con los medios de comunicación para la óptima utilización de los espacios de comunicación y difusión del Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Enviar a los magistrados la información generada en los medios de comunicación, sobre eventos actuales en el ámbito nacional e internacional, relacionados con las actividades del Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IX. Evaluar los resultados de los programas y campañas de difusión e información del Tribunal, debiendo informar de los mismos a la Presidencia de manera periódica;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+X. Revisar, con el apoyo de los órganos administrativos, que la información que se difunda tanto en el portal web de Internet, los micrositios autorizados, las redes sociales del Tribunal, como en la intranet y medios de comunicación interna, se apegue a la normativa aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Elaborar y actualizar el Manual de Identidad Gráfica del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XII. Establecer sistemas y mecanismos de enlace con los diferentes órganos administrativos y jurisdiccionales del Tribunal, para garantizar que se apeguen a lo establecido en el Manual de Identidad Gráfica del Tribunal, así como a las políticas de comunicación social autorizadas por la Presidencia;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIII. Coordinar, con la participación de los diferentes órganos administrativos y jurisdiccionales del Tribunal, las actividades susceptibles de difusión en medios de comunicación y redes sociales sobre las actividades institucionales y jurisdiccionales que lleva a cabo este Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Gestionar el registro de los activos de la información ante la SOTIC, el resguardo y administración de las cuentas y los perfiles oficiales en redes sociales actuales y de nueva creación, en los que se involucre el nombre, logotipo, colores y demás símbolos que identifican al Tribunal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Las demás que le confieran otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Artículo 117 bis. Corresponde a la Unidad para la Igualdad de Género:
+
+I. Ejecutar los programas, las estrategias y acciones que proponga la Comisión para la Igualdad y sean aprobados por la Junta, en materia de igualdad entre mujeres y hombres, prevención y atención de la violencia de género, discriminación y en general toda forma de violencia laboral;
+
+II. Llevar a cabo, por sí o a través de terceros, diagnósticos para conocer las necesidades de las personas y colectivos en situación de vulnerabilidad, tendientes a fortalecer su acceso a la justicia y la tutela efectiva de sus derechos en el Tribunal, así como recopilar, sistematizar y difundir la información que se obtenga;
+
+III. Realizar estudios especializados sobre prevención, atención, control y disuasión del acoso laboral, hostigamiento sexual, acoso sexual y discriminación;
+
+IV. Elaborar investigaciones, estudios, opiniones técnicas, propuestas de medidas, notas e informes con el apoyo de la Comisión para la Igualdad;
+
+V. Brindar la atención de primer contacto a las presuntas víctimas de acoso laboral, acoso sexual, hostigamiento sexual, discriminación y toda forma de violencia laboral o de género en el Tribunal y darles acompañamiento cuando así lo soliciten;
+
+VI. Recibir, orientar y asesorar a las personas que soliciten apoyo como presuntas víctimas de acoso laboral, hostigamiento sexual, acoso sexual, violencia de género, discriminación y toda forma de violencia laboral en el Tribunal;
+
+VII. Dar seguimiento a las medidas preventivas, de atención inmediata o de reparación determinadas por la Junta de Gobierno y Administración en la atención de quejas y denuncias realizadas por las personas servidoras públicas del Tribunal, así como las externas;
+
+VIII. Formular, por conducto de la Comisión para la Igualdad, herramientas metodológicas, procesos, procedimientos, protocolos, diagnósticos, indicadores y evaluaciones para medir y dar seguimiento a las políticas institucionales instrumentadas en materia de igualdad entre mujeres y hombres, prevención de la violencia de género y la discriminación;
+
+IX. Gestionar la ejecución de las acciones de capacitación y profesionalización en materia de igualdad entre mujeres y hombres, perspectiva de género, prevención de la violencia de género y la discriminación que determine la Comisión para la Igualdad en coordinación con el Centro de Estudios y demás órganos administrativos, y cuenten con la aprobación de la Junta;
+
+X. Coordinar, por sí o a través de terceros, la difusión, promoción y sensibilización de las personas servidoras públicas respecto a los contenidos de la normativa nacional e internacional relacionada con la materia de igualdad entre mujeres y hombres, perspectiva de género, prevención de la violencia de género y la discriminación, en coordinación con las áreas del Tribunal que corresponda de acuerdo a sus atribuciones, y previa aprobación de la Dirección General de Comunicación Social en términos del artículo 117, fracciones IV, VIII y X de este Reglamento;
+
+XI. Proponer al Presidente del Tribunal la construcción de redes de colaboración con diferentes actores del sector público y privado para la ejecución de las acciones, programas y políticas sugeridas por la Comisión para la Igualdad;
+
+XII. Dar atención a las solicitudes de acceso a la información pública, así como las obligaciones en materia de transparencia que en su caso le correspondan;
+
+XIII. Dar seguimiento a los acuerdos que deriven de las Sesiones de la Comisión para la Igualdad, y
+
+XIV. Las demás funciones que determine la Presidencia, la Junta y le confieran las disposiciones aplicables.
+
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 118.
 
@@ -2751,25 +3419,53 @@ Corresponde a la Unidad de Asuntos Jurídicos:
 
 I. Revisar y validar la estructura legal de los convenios, contratos, acuerdos y demás actos jurídicos que celebre, emita u otorgue el Tribunal, así como proporcionar asesoría jurídica sobre su interpretación, suspensión, rescisión, revocación, terminación, nulidad y demás aspectos y efectos jurídicos;
 
-II. Previa autorización de la Junta y del Pleno General, presentar denuncia o querella ante el Ministerio Público competente, así como designar al personal autorizado para tal efecto, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico, acordar conciliaciones y, en su caso, desistirse de ellas, siempre y cuando no afecten el orden público y el interés social y que dicho desistimiento haya sido sometido a consideración de la Junta y del Pleno General;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+II. Previa autorización de la Junta, presentar denuncia o querella ante el Ministerio Público competente, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico, así como desahogar ante la autoridad competente los mecanismos alternativos de solución de controversias, la suspensión condicional del proceso o procedimiento abreviado o cualquier otro que la normativa en materia penal establezca y sea aplicable, siempre y cuando sea acorde con la legislación correspondiente, no afecten el orden público y el interés social, ni los intereses del Tribunal.
 
 III. Representar al Presidente, al Pleno General, al Pleno Jurisdiccional de la Sala Superior y a la Junta ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades de trabajo en las controversias laborales, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en los que intervenga, interponiendo los recursos que procedan, absolver posiciones a nombre del Presidente o de los integrantes de la Junta, ejerciendo la representación en el curso del proceso respectivo;
 
-IV. Representar, sin perjuicio de su ejercicio directo, al Tribunal, al Pleno General, a la Junta, al Presidente, a la Secretaría General de Acuerdos, a la Secretaría Auxiliar de la Junta, a las Secretarías Operativas, en los juicios de amparo en los que hayan sido señalados como autoridades responsables o terceros interesados, rindiendo los correspondientes informes previos y con justificación, así como autorizar como delegados de representación a los servidores públicos adscritos a la propia Unidad de Asuntos Jurídicos para los efectos más amplios que establezca la Ley de Amparo, sin perjuicio directo en los juicios que así lo determinen las autoridades jurisdiccionales en dicha materia;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Representar, sin perjuicio de su ejercicio directo, al Tribunal, al Pleno General, a la Junta, al Presidente, a la Secretaría General de Acuerdos, a la Secretaría Auxiliar de la Junta, a las Secretarías Operativas, en todas las controversias jurídicas o procedimientos administrativos seguidos en forma de juicio en que éstos sean parte con motivo del ejercicio de sus funciones con todos los derechos procesales que las leyes de las materias jurídicas reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones civiles o de cualquier otra materia jurídica, oponer excepciones, interponer toda clase de recursos, desistirse de ellos, incluso del juicio de amparo, transigir, comprometer en árbitros, absolver y articular posiciones, formular repreguntas, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces, y en general para que promueva y realice todos los actos permitidos por las leyes, pudiendo en todo caso delegar dicha facultad de representación en los servidores públicos adscritos a la Unidad de Asuntos Jurídicos, a efecto de salvaguardar los intereses jurídico económicos del Tribunal;
+IV. Representar, sin perjuicio de su ejercicio directo, al Tribunal, a la Presidencia, al Pleno General, a la Junta, a los personas titulares de la Secretaría General de Acuerdos, de la Secretaría Técnica de la Junta de Gobierno y Administración, de la Secretaría Operativa de Administración y de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, así como a Direcciones Generales en los juicios de amparo en los que hayan sido señalados como autoridades responsables o terceros interesados, según corresponda, en términos de la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando el actuar de dichas autoridades no devenga del ejercicio de sus facultades jurisdiccionales, según se trate.
 
-VI. Resolver las consultas que en materia jurídica formulen las unidades administrativas del Tribunal y, en su caso, proporcionar asesoría jurídica;
+Asimismo, brindar orientación, en el ámbito de sus atribuciones, a las personas servidoras públicas que así lo soliciten, por el ejercicio de sus atribuciones y facultades, y para el cumplimiento de sus obligaciones, durante el desempeño del servicio público.
 
-VII. Revisar desde el punto de vista jurídico las bases y contenido de las garantías que deban constituirse para el cumplimiento de las obligaciones derivadas de los contratos y convenios en los que sea parte el Tribunal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
-VIII. Asesorar jurídicamente en los procedimientos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza;
+V. Representar a la persona que presida el Tribunal en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando sea parte.
 
-IX. Participar como asesor legal en los Comités integrados por el Tribunal, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-X. Las demás que establezcan las leyes y el presente Reglamento.
+VI. Representar, sin perjuicio de su ejercicio directo, al Tribunal, al Pleno General, a la Junta, al presidente, a la Secretaría General de Acuerdos, a la Secretaría Técnica de la Junta, a las Secretarías Operativas, a las Direcciones Generales en todas las controversias jurídicas o procedimientos administrativos seguidos en forma de juicio en que éstos sean parte con motivo del ejercicio de sus funciones con todos los derechos procesales que las leyes de las materias jurídicas reconocen a las personas físicas y morales, tanto para presentar demandas, ampliación a las mismas, como para contestarlas y reconvenir a la contraparte, ejercitar acciones civiles o de cualquier otra materia jurídica, oponer excepciones, interponer toda clase de recursos, desistirse de ellos, incluso del juicio de amparo, transigir, comprometer en árbitros, absolver y articular posiciones, formular repreguntas, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces, y en general para que promueva y realice todos los actos permitidos por las leyes, pudiendo en todo caso delegar dicha facultad de representación en las personas servidoras públicas adscritos a la Unidad de Asuntos Jurídicos, a efecto de salvaguardar los intereses jurídicos y económicos del Tribunal;
 
-Sin perjuicio de su ejercicio directo por parte del Titular de la Unidad de Asuntos Jurídicos, corresponderá al Titular de la Unidad Jurídica ejercer las atribuciones previstas en las fracciones III, VI y X, por su parte, la Dirección de Asuntos Contenciosos el ejercicio de las atribuciones previstas en las fracciones II, IV y V; y a la Dirección de Consulta en Adquisiciones, Arrendamientos, Servicios y Obra Pública, el cumplimiento de las diversas I, VI, en el ámbito de su competencia, VII, VIII y IX de este artículo.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VII. Resolver las consultas que en materia jurídica formulen los órganos administrativos del Tribunal y, en su caso, proporcionar asesoría jurídica;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VIII. Revisar desde el punto de vista jurídico las bases y contenido de las garantías que deban constituirse para el cumplimiento de las obligaciones derivadas de los contratos y convenios en los que sea parte el Tribunal;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IX. Asesorar jurídicamente en los procedimientos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+X. Participar con asesoría legal en los Comités integrados por el Tribunal, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XI. Las demás que establezcan las leyes y el presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Sin perjuicio de su ejercicio directo por parte del titular de la Unidad de Asuntos Jurídicos, corresponderá a la Unidad Jurídica Contenciosa ejercer las atribuciones previstas en las fracciones II, III, VI, VII, y XI. Por su parte, la Unidad de Asuntos Procesales Constitucionales corresponderá el ejercicio de las atribuciones previstas en las fracciones IV y V. A la Unidad de Consulta en Adquisiciones, Arrendamientos, Servicios y Obra Pública, le corresponderá el cumplimiento de las diversas I, VIII, IX, X en el ámbito de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Para los casos de ausencia de las personas servidoras públicas titulares de los órganos señalados, las direcciones de áreas adscritas directamente a cada una de ellas, asumirá en el ámbito de su competencia las atribuciones que establece este artículo.
 
 ###### Artículo 119.
 
@@ -2791,99 +3487,143 @@ Corresponde a la Unidad de la Oficina del Presidente:
 
 ###### Artículo 120.
 
-El Tribunal contará con los recursos tecnológicos necesarios para que cualquier persona pueda acceder a la Plataforma Nacional de Transparencia, de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública.
+Corresponde a la persona Titular del Centro Público de Mecanismos Alternativos.
+
+I. Proponer a la Junta de Gobierno y Administración los nombramientos de las personas servidoras públicas que integren el Centro Público de Mecanismos Alternativos;
+
+II. Vigilar el cumplimiento de Ley General de Mecanismos Alternativos de Solución de Controversias;
+
+III. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos, así como supervisar su correcto funcionamiento;
+
+IV. Suscribir convenios de colaboración con instituciones públicas y privadas, nacionales o extranjeras, para la impartición de cursos de capacitación y programas académicos orientados a la Certificación de las personas facilitadoras, conforme al reglamento que se expida para el Centro Público de Mecanismos Alternativos, y
+
+V. Las demás que señale el Reglamento del Centro Público de Mecanismos Alternativos de Solución de Controversias del Tribunal Federal de Justicia Administrativa y demás disposiciones en la materia.
+
+El Centro Público de Mecanismos Alternativos podrá tener presencia física en las distintas regiones establecidas en el Reglamento Interior del Tribunal, de acuerdo con la disponibilidad presupuestaria y de recursos humanos y materiales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ### Capítulo V.
 
 De la Transparencia y el Acceso a la Información.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 121.
 
-Para el cumplimiento de sus obligaciones de transparencia y acceso a la información pública y protección de datos personales, el Tribunal contará con los órganos siguientes:
+El Tribunal contará con los recursos tecnológicos necesarios para que cualquier persona pueda acceder a la Plataforma Nacional de Transparencia, de conformidad con lo dispuesto por la Ley de Transparencia, y contará con los órganos siguientes:
 
-I. La Coordinación de Transparencia, Acceso a la Información y Protección de Datos personales;
+I. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
+
+(REPUBLICADA, D.O.F. 23 DE MAYO DE 2025)
 
 II. La Unidad de Transparencia, y
 
 III. El Comité de Transparencia.
 
-Dichas unidades se integrarán, operarán y realizarán las funciones a que se refiere la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como en los ordenamientos que en las materias expida el Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos y el Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Dichas unidades se integrarán, operarán y realizarán las funciones a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como los ordenamientos en las materias que se expidan.
 
 La Junta podrá emitir toda la normatividad complementaria que regule dichas materias al interior del Tribunal a propuesta del Comité de Transparencia.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 122.
 
-La Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales, se encargará de planear, diseñar, evaluar y proponer las acciones, políticas y directrices para actualizar y difundir el cumplimiento de las obligaciones de transparencia, acceso a la información y protección de datos personales.
+La Unidad de Transparencia, se encargará de coordinar la implementación de la política en materia de transparencia, acceso a la información pública y protección de datos personales; procurar la difusión de la información pública; ser el vínculo en el Tribunal con los solicitantes de información y el organismo garante federal en materia de transparencia, acceso a la información y protección de datos personales, y dirigir las acciones que permitan dar cumplimiento a las obligaciones de acceso, rectificación, oposición o cancelación de datos personales.
 
-El Titular de la Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales, tendrá las facultades siguientes:
+La persona titular de la Unidad de Transparencia, además de las funciones que establecen las leyes en materia de transparencia, acceso a la información y protección de datos personales, tendrá las facultades siguientes:
 
-I. Coordinar y supervisar las acciones para proporcionar la información en cumplimiento a las obligaciones de transparencia, así como para la atención a las solicitudes de acceso a la información y protección de datos personales, y aquéllas tendientes a una efectiva rendición de cuentas, acorde a los principios aplicables en las materias;
+I. Proponer a la Junta, por conducto de su Secretaría Técnica, previa aprobación del Comité de Transparencia, la implementación de políticas públicas en materia de transparencia, acceso a la información y protección de datos personales, en observancia con el marco jurídico aplicable del Tribunal;
 
-II. Coordinarse con las áreas jurisdiccionales y administrativas, así como con la Unidad de Transparencia, para la atención de los asuntos en materia de transparencia, acceso a la información y protección de datos personales;
+II. Coordinar las acciones para proporcionar la información en cumplimiento a las obligaciones de transparencia, así como para la atención a las solicitudes de acceso a la información y protección de datos personales, y aquéllas tendientes a una efectiva rendición de cuentas, acorde a los principios aplicables en las materias;
 
-III. Supervisar la publicación y actualización de las obligaciones de transparencia, en términos de la normatividad aplicable;
+III. Coordinar que las áreas jurisdiccionales y administrativas publiquen y actualicen las obligaciones de transparencia, en términos de las disposiciones jurídicas aplicables;
 
-IV. Proponer a las instancias correspondientes, la implementación de políticas públicas en materia de transparencia, acceso a la información y protección de datos personales, en observancia con el marco jurídico aplicable del Tribunal;
+IV. Supervisar, en el ámbito de su competencia, las publicaciones que se realicen en el medio electrónico oficial de difusión normativa del Tribunal;
 
-V. Supervisar el cumplimiento de los compromisos y acuerdos que haya celebrado el Tribunal respecto de aquellos asuntos en materia de transparencia, acceso a la información y protección de datos en que sea parte;
+V. Coordinar la recepción, el trámite y desahogo de las solicitudes de acceso a la información, así como las de acceso, rectificación, cancelación u oposición a la publicación de datos personales que obren en los archivos del Tribunal, notificar a los solicitantes las determinaciones emitidas en los procedimientos correspondientes y, en su caso, entregar la información requerida, así como desahogar los medios de impugnación que se interpongan;
 
-VI. Planear, programar y evaluar las actividades de capacitación en materia de transparencia, acceso a la información y protección de datos personales en que sea parte;
+VI. Coordinar la asesoría y comunicación con las áreas jurisdiccionales y administrativas, para la atención de los asuntos en materia de transparencia, acceso a la información y protección de datos personales;
 
-VII. Promover la colaboración interinstitucional en materia de transparencia, acceso a la información y protección de datos personales, e impulsar la celebración de acuerdos de cooperación con los demás sujetos obligados por la Ley;
+VII. Gestionar a petición de las áreas jurisdiccionales y administrativas, y previa aprobación del Comité de Transparencia, el plazo para dar respuesta a las solicitudes de acceso a la información y datos personales, cuando exista causa justificada para ello, de conformidad con las leyes de la materia;
 
-VIII. Elaborar estudios en materia de transparencia, acceso a la información y protección de datos personales, tendientes al cumplimiento de las disposiciones normativas aplicables, así como para promover la política interna que en dichas materias defina el Tribunal;
+VIII. Verificar que las áreas jurisdiccionales y administrativas operen conforme a los procedimientos para la atención de las solicitudes de acceso a la información y protección de datos personales, aprobados por la Autoridad Garante y el Comité de Transparencia;
 
-IX. Proponer los Manuales de Organización y Procedimiento de la Coordinación, así como su actualización, y
+IX. Informar al Comité de Transparencia sobre las incidencias graves que se presente en el cumplimiento de las obligaciones de transparencia y en el desahogo y atención de las solicitudes de acceso a la información y derechos de acceso, rectificación, cancelación y oposición de datos personales (ARCO);
 
-X. Las demás que le confiera el Presidente del Tribunal, siempre y cuando no contravengan las disposiciones jurídicas de la materia;
+X. Presentar los informes que le sean requeridos por el Comité de Transparencia y, de ser el caso, a la Autoridad Garante, en términos de la normativa aplicable;
+
+XI. Elaborar propuestas de atención a requerimientos formulados por la Autoridad Garante, para someterlos a consideración del Comité de Transparencia, en los casos que resulte necesario;
+
+XII. Supervisar el cumplimiento de los compromisos y acuerdos que haya celebrado el Tribunal respecto de aquellos asuntos en materia de transparencia, acceso a la información y protección de datos en que sea parte;
+
+XIII. Planear, programar y evaluar las actividades de capacitación en materia de transparencia, acceso a la información y protección de datos personales en que sea parte;
+
+XIV. Fungir como enlace del Tribunal ante la Autoridad Garante;
+
+XV. Elaborar propuestas de normativa interna en materia de transparencia, acceso a la información y protección de datos personales, para someterlas a consideración del Comité de Transparencia;
+
+XVI. Las demás que le confiera la Presidencia del Tribunal o la Junta siempre y cuando no contravengan las disposiciones jurídicas de la materia;
+
+XVII. Asesorar a las áreas jurisdiccionales y administrativas, sobre la propuesta de clasificación de la información o declaratorias de inexistencia de información, conforme a los lineamientos y criterios sustentados por la Autoridad Garante y por el Comité de Transparencia;
+
+XVIII. Prorrogar a petición de las áreas jurisdiccionales y administrativas, y previa aprobación del Comité de Transparencia, el plazo establecido en las leyes de la materia para dar respuesta a las solicitudes de acceso a la información y datos personales, cuando exista causa justificada para ello;
+
+XIX. Requerir a los enlaces de transparencia para que realicen la búsqueda de la información solicitada en los plazos previstos por la legislación aplicable y, en su caso, efectuar las gestiones necesarias para su entrega;
+
+XX. Elaborar propuestas de normatividad interna en materia de transparencia, acceso a la información y protección de datos personales, para someterlas a consideración del Comité de Transparencia;
+
+XXI. Verificar que las áreas jurisdiccionales y administrativas operen conforme a los procedimientos para la atención de las solicitudes de acceso a la información y protección de datos personales, aprobados por la Autoridad Garante y el Comité de Transparencia;
+
+XXII. Requerir a las áreas jurisdiccionales y administrativas que actualicen la información pública, conforme a las leyes de transparencia, los lineamientos y criterios, el calendario de actualización, las observaciones realizadas por la Autoridad Garante y las demás disposiciones que apruebe el Comité de Transparencia;
+
+XXIII. Requerir a las áreas jurisdiccionales y administrativas que actualicen la información pública, conforme a las leyes de transparencia, los lineamientos y criterios, el calendario de actualización, las observaciones realizadas por el Órgano Garante y las demás disposiciones que apruebe el Comité de Transparencia;
+
+XXIV. Elaborar los informes para presentarlos ante el Comité de Transparencia y posteriormente, de ser el caso, a la Autoridad Garante;
+
+XXV. Elaborar propuestas de atención a requerimientos formulados por la Autoridad Garante, para someterlos a consideración del Comité de Transparencia, y
+
+XXVI. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Coordinación.
+
+La persona titular de la Unidad de Transparencia designará a un oficial de protección de datos personales, quien coadyuvará con las funciones de la Unidad en esa materia y realizará las atribuciones establecidas en la Ley de la materia y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 123.
 
-La Unidad de Transparencia es el órgano adscrito a la Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales, encargada de recibir y tramitar las solicitudes de acceso a la información, y las relativas al acceso, rectificación, oposición o cancelación de datos personales (ARCO) y de verificar el cumplimiento a las obligaciones de transparencia.
-
-El Titular de la Unidad de Transparencia, además de las facultades que establecen las leyes en materia de transparencia, acceso a la información y protección de datos personales, tendrá las siguientes facultades:
-
-I. Asesorar a las áreas jurisdiccionales y administrativas, sobre la propuesta de clasificación de la información o declaratorias de inexistencia de información, conforme a los lineamientos y criterios sustentados por el órgano garante y por el Comité de Transparencia;
-
-II. Prorrogar a petición de las áreas jurisdiccionales y administrativas, y previa aprobación del Comité de Transparencia, el plazo establecido en las leyes de la materia para dar respuesta a las solicitudes de acceso a la información y datos personales, cuando exista causa justificada para ello;
-
-III. Requerir a los enlaces de transparencia para que realicen la búsqueda de la información solicitada en los plazos previstos por la legislación aplicable y, en su caso, efectuar las gestiones necesarias para su entrega;
-
-IV. Elaborar propuestas de normatividad interna en materia de transparencia, acceso a la información y protección de datos personales, para someterlas a consideración del Comité de Transparencia;
-
-V. Verificar que las áreas jurisdiccionales y administrativas operen conforme a los procedimientos para la atención de las solicitudes de acceso a la información y protección de datos personales, aprobados por el Órgano Garante y el Comité de Transparencia;
-
-VI. Requerir a las áreas jurisdiccionales y administrativas que actualicen la información pública, conforme a las leyes de transparencia, los lineamientos y criterios, el calendario de actualización, las observaciones realizadas por el Órgano Garante y las demás disposiciones que apruebe el Comité de Transparencia;
-
-VII. Informar oportunamente al Comité de Transparencia sobre cualquier inconveniente, problemática o dificultad que se presente en el cumplimiento de las obligaciones de trasparencia y en el desahogo y atención de las solicitudes de acceso a la información y derechos ARCO;
-
-VIII. Elaborar los informes para presentarlos ante el Comité de Transparencia y posteriormente, de ser el caso, al Órgano Garante en términos de la normatividad aplicable;
-
-IX. Elaborar propuestas de atención a requerimientos formulados por el Órgano Garante, para someterlos a consideración del Comité de Transparencia, y
-
-X. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Coordinación.
-
-El Titular de la Unidad de Transparencia podrá designar a un oficial de protección de datos personales cuando así lo estime conveniente, quien realizará las atribuciones mencionadas en el presente artículo, en los términos que prevé el artículo 85, penúltimo párrafo de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, mismo que formará parte de la Unidad de Transparencia.
+(DEROGADO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 124.
 
 El Comité de Transparencia es el órgano especializado, responsable de instruir, coordinar y supervisar el cumplimiento de las obligaciones de transparencia, y el debido ejercicio del derecho de acceso a la información y protección de datos personales, conforme a los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las leyes de la materia.
 
-Dicho cuerpo colegiado estará integrado por un número impar de miembros, los cuales serán elegidos por la Junta de conformidad con lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública y la Ley Federal de Transparencia y Acceso a la Información Pública.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Dicho cuerpo colegiado estará integrado por un número impar de miembros, los cuales serán elegidos por la Junta de conformidad con lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública.
 
 El Comité de Transparencia, además de las atribuciones que le confieren las leyes específicas de la materia, tendrá las siguientes:
 
-I. Celebrar las sesiones ordinarias mensuales y extraordinarias que sean necesarias para el desahogo de las solicitudes y atención de los temas de transparencia, acceso a la información pública y protección de datos personales.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-II. Supervisar la aplicación de los criterios emitidos por el Órgano Garante, y de los específicos para el Tribunal en materia de transparencia, acceso a la información pública y protección de datos personales; así como ordenar su sistematización.
+I. Celebrar las sesiones ordinarias y extraordinarias que el Comité determine que sean necesarias para el desahogo de las solicitudes y atención de los temas de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+II. Supervisar la aplicación de los criterios emitidos por la Autoridad Garante, y de los específicos para el Tribunal en materia de Transparencia, acceso a la información pública y protección de datos personales; así como ordenar su sistematización;
 
 III. Aprobar la normatividad interna complementaria, en materia de transparencia, acceso a la información y protección de datos personales.
 
-IV. Aprobar e instruir a la Unidad de Transparencia, el envío de los informes correspondientes al Órgano Garante, de conformidad con los lineamientos que éste expida.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Supervisar en coordinación con la Dirección General de Infraestructura Tecnológica, la publicación y actualización de las obligaciones de transparencia en el sitio web institucional y la atención a las observaciones que formule el Órgano Garante.
+IV. Aprobar e instruir a la Unidad de Transparencia, el envío de los informes correspondientes a la Autoridad Garante, de conformidad con los lineamientos que éste expida;
 
-VI. Vigilar el cumplimiento de las resoluciones y recomendaciones que emita el Órgano Garante y los órganos de Alzada.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+V. Supervisar en coordinación con la Dirección General de Infraestructura Tecnológica, la publicación y actualización de las obligaciones de transparencia en el sitio web institucional y la atención a las observaciones que formule la Autoridad Garante;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+VI. Vigilar el cumplimiento de las resoluciones y recomendaciones que emita la Autoridad Garante y los órganos de Alzada, y
 
 VII. Las demás que establezca la normatividad vigente.
 
@@ -2895,17 +3635,27 @@ En los asuntos de la competencia del Tribunal, en el primer acuerdo que se dicte
 
 Del Órgano Interno de Control.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 126.
 
-El Tribunal contará con un Órgano Interno de Control adscrito al Pleno General. Para su conducción el Pleno General nombrará a un Titular a quien corresponderá, además de las atribuciones establecidas en los artículos 62 y 67 de la Ley Orgánica, las siguientes:
+El Tribunal contará con un Órgano Interno de Control adscrito al Pleno General. Para su conducción el Pleno General nombrará a una persona titular, quien podrá ejercer las atribuciones establecidas en los artículos 62 y 67 de la Ley, y las que el presente Reglamento confiere a las direcciones generales a su cargo.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 23 DE MAYO DE 2025)</small>
+
+La persona titular del Órgano Interno de Control tiene las facultades siguientes:
 
 I. Formular, un Programa Anual de Actividades que abarque sus funciones de auditoría, de control interno, de evaluación del desempeño, revisiones al cumplimiento de los acuerdos que emita la Junta, visitas inspecciones, investigaciones, atención de quejas y denuncias, registro patrimonial en materia administrativa, actos de entrega recepción por conclusiones de encargo o cambios de Ponencia; así como de acciones para prevenir la corrupción, para someterlo a la autorización del Pleno General por conducto de su Presidente y sus posteriores modificaciones;
 
-II. Ordenar conforme al Programa Anual de Actividades autorizado, la ejecución de Auditorías de Cumplimiento Financiero, de Obra Pública, a Proyectos Tecnológicos, a los Procedimientos de Contratación y a partidas específicas del Presupuesto, debiendo en su caso, promover las medidas preventivas, correctivas o el inicio de investigaciones tendentes a la determinación de los elementos de prueba que ameriten, en su caso, el inicio de procedimientos de responsabilidades administrativas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+II. Ordenar conforme al Programa Anual de Actividades autorizado, la ejecución de auditorías, visitas e inspecciones de tipo financiero, presupuestal y administrativas, a proyectos tecnológicos, obra pública y contrataciones, debiendo, en su caso, promover el cumplimiento de las recomendaciones correctivas y preventivas derivado de los resultados obtenidos o el inicio de investigaciones tendentes a la determinación de los elementos de prueba que, en su caso, ameriten el inicio de una investigación;
 
 III. Ordenar conforme al Programa Anual de Actividades autorizado, auditorías del desempeño, emitiendo, en su caso, las recomendaciones sobre acciones susceptibles de mejora preventiva y correctiva;
 
-IV. Ordenar conforme al Programa Anual de Actividades autorizado, revisiones a Sistemas de Control y Registro; al cumplimiento de los acuerdos de la Junta y al cierre de la Cuenta Pública del ejercicio, debiendo, en su caso, emitir las recomendaciones sobre acciones susceptibles de mejora preventiva y recomendaciones correctivas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IV. Ordenar, conforme al Programa Anual de Actividades autorizado, las auditorías de desempeño y las revisiones al control interno, debiendo, en su caso, promover el cumplimiento de las recomendaciones sobre acciones susceptibles de mejora preventiva y recomendaciones correctivas;
 
 V. Presentar a los Titulares de las áreas auditadas o revisadas los informes de resultados correspondientes e informar de ellos al Pleno General, por conducto de su Presidente, trimestralmente;
 
@@ -2913,189 +3663,277 @@ VI. Propiciar y vigilar el óptimo aprovechamiento de los recursos financieros, 
 
 VII. Supervisar la atención de quejas y denuncias contra personal operativo, la ejecución de investigaciones y la emisión del acuerdo resolutivo sobre la presunción de responsabilidad, para su turno a la Dirección General de Responsabilidades y Registro Patrimonial, quien habrá de resolver sobre la sanción que corresponda;
 
-VIII. Llevar a cabo las acciones que procedan conforme a la ley de la materia, a fin de lograr el cobro de las sanciones económicas que se impongan a los servidores públicos a que se refiere el artículo 67, fracción I de la Ley;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IX. Supervisar que las observaciones emitidas por la Auditoría Superior de la Federación sean atendidas oportunamente por los servidores públicos correspondientes;
+VIII. Designar a representantes del Órgano Interno de Control para actos de entrega recepción de las personas servidoras públicas con motivo de la conclusión de su encargo o por promoción, en cumplimiento de la obligación respectiva;
 
-X. Participar en el ámbito de su competencia en el cumplimiento de los objetivos que acuerden los Comités que integran el Sistema Nacional Anticorrupción, con apego a la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XI. Instruir los procedimientos, resolver los recursos, así como representar legalmente al Órgano Interno de Control ante las instancias jurisdiccionales que conozcan de sus asuntos promovidos con motivo del ejercicio de sus atribuciones. Dicha facultad de representación podrá ser ejercida conjunta o separadamente por los titulares de las áreas adscritas o mediante delegación a las mismas por el Titular, de conformidad con el ámbito de su competencia;
+IX. Aprobar los informes de resultados y recomendaciones derivadas de las auditorías, revisiones al control interno y seguimientos ejecutados, para su presentación a las personas titulares de los órganos administrativos;
 
-XII. Supervisar que las inconformidades que presenten los particulares derivadas de los procedimientos de licitación de adquisiciones, arrendamientos, servicios diversos y obra pública que realice el personal del Tribunal, se atiendan conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+X. Evaluar los Programas Operativos Anuales, en relación con su consistencia con la planeación estratégica y el cumplimiento de metas y objetivos, en el ámbito de su competencia;
 
-XIII. Realizar análisis aleatorio sobre la evolución patrimonial de algunos de los servidores públicos a que se refieren las fracciones XII a XIV y último párrafo, del artículo 42 de la Ley, con independencia de las facultades que tiene la Junta de Gobierno y Administración del Tribunal respecto de los funcionarios previstos en las fracciones I a XI del último artículo en cita; así como las aclaraciones que se llevan a cabo para su justificación y transparencia y en su caso, determinar la presunta responsabilidad, así como coordinar la debida integración del padrón de servidores públicos obligados adscritos a este Tribunal.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIV. Supervisar el debido cumplimiento de las obligaciones que establecen las Leyes de Transparencia a sujetos obligados y en la atención de solicitudes de información pública;
+XI. Propiciar y vigilar la implementación, actualización, supervisión y seguimiento del Sistema de Control Interno Institucional; así como promover la integración y las sesiones del Comité de Control Interno Institucional;
 
-XV. Propiciar y vigilar la implementación, actualización, supervisión y seguimiento del Sistema de Control Interno Institucional; así como promover la integración y las sesiones del Comité de Control Interno Institucional;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVI. Promover conjuntamente con las Direcciones Generales adscritas al Órgano Interno de Control, la celebración y actualización de convenios con autoridades federales y locales competentes, en materia de Control Interno, Sistemas de Información Estadística y Registro Patrimonial, previa autorización del Pleno General por conducto de su Presidente;
+XII. Participar en los comités, subcomités y grupos conforme a las disposiciones aplicables;
 
-XVII. Asistir como asesor normativo a los Comités y Subcomités de Adquisiciones, Arrendamientos y Servicios; de bienes Muebles; de Obras Públicas y Servicios relacionados, pudiendo designar a un representante suplente cuyo cargo no sea menor al de Director de Área;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XVIII. Supervisar la revisión normativa de los modelos de contrato, previo a su utilización por la Dirección de Adquisiciones, con motivo de las contrataciones que afecten el presupuesto del Tribunal;
+XIII. Supervisar la atención de quejas y denuncias contra personal operativo, la ejecución de investigaciones y la emisión del acuerdo resolutivo sobre la presunción de responsabilidad, para su turno a la Dirección General de Responsabilidades y Registro Patrimonial;
 
-XIX. Designar a representantes del Órgano Interno de Control para actos de entrega recepción de servidores públicos con motivo de la conclusión de su encargo o por promoción y, en cumplimiento de la obligación establecida en el Reglamento Interior de este Tribunal;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XX. Actuar como integrante de los Comités de: Control Interno Institucional, de Transparencia y de Protección Civil, pudiendo designar a un representante suplente cuyo cargo no sea menor al de Director de Área;
+XIV. Instruir los procedimientos, resolver los recursos, así como realizar la defensa jurídica de las resoluciones que emita, representando legalmente al Órgano Interno de Control ante las instancias que conozcan de sus asuntos promovidos con motivo del ejercicio de sus atribuciones. Dicha facultad de representación podrá ser ejercida de manera conjunta o separa por las personas titulares de las Direcciones Generales de Responsabilidades y Registro Patrimonial, y de Denuncias;
 
-XXI. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda o a petición de autoridad competente, y;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XXII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno General y la Junta, en el ámbito de sus competencias.
+XV. Conocer de los recursos de reclamación;
 
-Para el desempeño de sus funciones, el Titular del órgano Interno de Control contará con las Direcciones Generales adscritas de: Denuncias, de Responsabilidades y Registro Patrimonial, así como de Auditoría y Revisiones, Control Interno y Auditoría del Desempeño.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Llevar a cabo las acciones que procedan conforme a la ley de la materia, a fin de lograr el cobro de las sanciones económicas que se impongan a las personas servidoras públicas a que se refiere el artículo 50 de la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Supervisar la atención de las inconformidades interpuestas por los actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, y demás disposiciones en materia de contrataciones públicas, así como resolver el recurso de revisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Emitir las resoluciones que correspondan respecto de los recursos de revisión que se interpongan en contra de las resoluciones emitidas por la Dirección General de Responsabilidades y Registro Patrimonial en los procedimientos de inconformidad, intervenciones de oficio y sanciones a personas físicas o morales, previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIX. Recibir y supervisar los procedimientos de sanción a proveedores, licitantes o contratistas;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XX. Dirigir las actividades sobre la divulgación, asesoría y vigilancia en el cumplimiento de la declaración de situación patrimonial y de intereses a que están obligadas todas las personas servidoras públicas del Tribunal y en caso de existir incumplimiento en lo relacionado a su presentación, turnarlo a la autoridad investigadora que corresponda, para que ésta determine la existencia de presuntas faltas administrativas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXI. Participar, en el ámbito de su competencia, en el cumplimiento de los objetivos que acuerden los Comités que integran el Sistema Nacional Anticorrupción, con apego a la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXII. Contribuir al cumplimiento de acciones y compromisos del Tribunal en el marco del Sistema Nacional Anticorrupción;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIII. Supervisar el debido cumplimiento de las obligaciones que establecen las Leyes de Transparencia a sujetos obligados y en la atención de solicitudes de información pública;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXIV. Promover, conjuntamente con las direcciones generales adscritas al Órgano Interno de Control, la celebración y actualización de convenios con autoridades federales y locales competentes, en materia de Control Interno, Sistemas de Información Estadística y Registro de sanciones y Situación patrimonial, previa autorización del Pleno General por conducto de la Presidencia;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XXV. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno General y la Junta, en el ámbito de sus competencias.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Para el desempeño de sus funciones, de acuerdo con lo establecido en la legislación correspondiente, el Órgano Interno de Control contará, bajo el mando de la persona que sea su titular, con las siguientes direcciones generales: Denuncias; Responsabilidades y Registro Patrimonial; Auditoría, y Auditoría del Desempeño y Control Interno.
+
+(REPUBLICADO PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)
 
 ###### Artículo 127.
 
 Corresponde a la Dirección General de Denuncias:
 
-I. Recibir las denuncias que se formulen por posibles actos u omisiones que pudieran constituir faltas administrativas cometidas por servidores públicos a que hacen referencia las fracciones XII a la XIV y último párrafo del artículo 42 de la Ley, por conductas sancionables de conformidad con la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-II. Practicar de oficio o por denuncia, las investigaciones conforme a lo establecido en el Titulo IV, artículo 113 de la Constitución Política de los Estados Unidos Mexicanos; la Ley Orgánica del Tribunal Federal de Justicia Administrativa; la Ley General de Protección de Datos Personales en Posesión de los Sujetos Obligados, así como lo dispuesto en la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos vigentes en materia de responsabilidades administrativas;
+I. Recibir las denuncias que se formulen por posibles actos u omisiones que pudieran constituir faltas administrativas cometidas por las personas servidoras públicas a que hace referencia las fracciones XII a la XIV y último párrafo del artículo 42 de la Ley, o particulares; por conductas sancionables de conformidad con la Ley General de Responsabilidades Administrativas;
 
-III. Implementar un registro cronológico o libro de gobierno, de todas las denuncias recibidas, investigaciones iniciadas y acciones realizadas hasta la resolución de cada una;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IV. Citar, cuando lo estime necesario, al denunciante para la ratificación de la denuncia, dicha facultad puede hacerse extensiva, para la citación de otros servidores públicos del Tribunal que tengan conocimiento de los hechos denunciados a fin de constatar la veracidad de los mismos, o en su caso, aporten elementos, datos o indicios que complementen las investigaciones en contra de él o los denunciados;
+II. Practicar de oficio o por denuncia, o derivado de auditorías practicadas por las autoridades competentes, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de las personas servidoras públicas o de los particulares por conductas sancionables, conforme a lo establecido en el Título IV, artículo 113 de la Constitución Política de los Estados Unidos Mexicanos; la Ley; la Ley General de Protección de Datos Personales en Posesión de los Sujetos Obligados, así como lo dispuesto en la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos vigentes en materia de responsabilidades administrativas;
 
-V. Formular los requerimientos necesarios a las Unidades Administrativas del Tribunal, para que, de acuerdo con sus facultades, proporcionen información para la debida integración de los expedientes en trámite;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+III. Implementar un registro de las denuncias recibidas, investigaciones iniciadas y acciones realizadas hasta la resolución de cada una;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+IV. Citar, cuando lo estime necesario, a la parte denunciante para la ratificación de la denuncia, dicha facultad puede hacerse extensiva, para la citación de otras personas servidoras públicas del Tribunal que tengan conocimiento de los hechos denunciados a fin de constatar la veracidad de los mismos, o, en su caso, aporten elementos, datos o indicios que complementen las investigaciones en contra de las personas denunciadas;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+V. Formular los requerimientos necesarios a los órganos administrativos del Tribunal, para que, de acuerdo con sus facultades, proporcionen información para la debida integración de los expedientes en trámite;
 
 VI. Formular requerimientos de información a particulares, que sean sujetos de investigación por haber cometido presuntas faltas administrativas, en términos de la Ley General de Responsabilidades Administrativas;
 
 VII. Ordenar la práctica de visitas de verificación, las cuales se sujetarán a lo previsto en la Ley Federal de Procedimiento Administrativo:
 
-VIII. Concluidas las diligencias de investigación que integren las denuncias presentadas ante el órgano Interno de Control, procederá al análisis de los hechos, así como de la información recabada, a fin de determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como faltas administrativas; de existir elementos de presunta responsabilidad, calificará dichas conductas como graves o no graves; notificará la resolución a las partes, y una vez concluido este proceso, remitirá el informe de presunta responsabilidad administrativa a la Dirección General de Responsabilidades y Registro Patrimonial o en su caso a la Sala Especializada en Materia de Responsabilidades Administrativas correspondiente;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-IX. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos los de archivo por falta de elementos cuando así proceda, y de inicio de procedimiento disciplinario de responsabilidad administrativa;
+VIII. Concluidas las diligencias de investigación que integren las denuncias presentadas ante el Órgano Interno de Control, procederá al análisis de los hechos, así como de la información recabada, a fin de determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como faltas administrativas; de existir elementos de presunta responsabilidad, calificará dichas conductas como graves o no graves; notificará el acuerdo a la parte denunciante, y una vez concluido este proceso, remitirá el informe de presunta responsabilidad administrativa a la Dirección General de Responsabilidades y Registro Patrimonial;
 
-X. Informar al Pleno General en asuntos de su competencia, a la Junta, así como a la Unidad de Asuntos Jurídicos, los hechos en que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos que les corresponda investigar;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XI. Iniciar la investigación respectiva de oficio, si así lo considera conveniente, por presumir la inobservancia de las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+IX. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos el de conclusión y archivo del expediente cuando así proceda, así como el informe de presunta responsabilidad administrativa, con el fin de turnarlo a la autoridad substanciadora en el que se incluirá la calificación de la falta administrativa;
 
-XII. Recibir denuncias de inconformidad de particulares con personalidad de proveedores de bienes o servicios, derivadas de los procesos licitatorios que celebre la Unidad Administrativa responsable de los mismos en el Tribunal. En su caso, tramitar los procedimientos de conciliación previstos en las Leyes referidas en el párrafo anterior; para tales efectos, podrán emitir todo tipo de acuerdos, así como presidir y conducir las sesiones de conciliación y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XIII. Acordar con el Titular del Órgano la resolución de los asuntos relevantes a su cargo;
+X. Hacer del conocimiento de la Unidad de Asuntos Jurídicos, los hechos que puedan ser constitutivos de delitos imputables a las personas servidoras públicas que les corresponda investigar;
 
-XIV. Dar atención a las solicitudes de información pública, respondiendo como sujeto obligado con apego a la Ley General de Acceso a la Información y Protección de Datos Personales;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-XV. Expedir las copias certificadas de los documentos que se encuentren en sus archivos, y
+XI. Recibir las denuncias que se formulen en contra de personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, y demás disposiciones en materia de contrataciones públicas;
 
-XVI. Las demás que le confieran otras disposiciones jurídicas y el Pleno General de la Sala Superior.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XII. Practicar de oficio o por denuncia las investigaciones en contra de personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, y demás disposiciones en materia de contrataciones públicas;
+
+Para efectos del párrafo anterior, podrá emitir cualquier acuerdo de trámite y llevar a cabo toda clase de diligencias;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIII. Acordar con la persona titular del Órgano Interno de Control la resolución de los asuntos relevantes a su cargo;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XIV. Coordinar la atención a las solicitudes de acceso a la información pública remitidas al Órgano Interno de Control por la Unidad de Transparencia del Tribunal con apego a la Ley General de Transparencia y Acceso a la Información Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XV. Practicar las actuaciones y diligencias que se estimen procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de actos u omisiones que pudieran constituir faltas administrativas, de conformidad con la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVI. Imponer las medidas de apremio que establece la Ley General de Responsabilidades Administrativas para las autoridades investigadoras para hacer cumplir sus determinaciones, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVII. Expedir las copias certificadas de los documentos que se encuentren en sus archivos, y
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XVIII. Las demás que le confieran otras disposiciones jurídicas aplicables y el Pleno General.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 128.
 
 Corresponde a la Dirección General de Responsabilidades y Registro Patrimonial:
 
-I. Recibir de la Dirección General de Denuncias el informe de presunta responsabilidad administrativa, y en su caso prevenirla, en los términos señalados en el artículo 195 de la Ley General de Responsabilidades Administrativas;
+I. Recibir el informe de presunta responsabilidad administrativa, y determinar sobre su admisión o prevención, según sea el caso, en los términos señalados en el artículo 195 de la Ley General de Responsabilidades Administrativas;
 
-II. Instruir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial en los términos establecidos en la Ley General de Responsabilidades Administrativas, respecto de los servidores públicos establecidos en las fracciones XII a XIV, y último párrafo del artículo 42, de la Ley;
+II. Substanciar el procedimiento de responsabilidades administrativas, de faltas no graves, en términos de la Ley General de Responsabilidades Administrativas, respecto de las personas servidoras públicas previstas en las fracciones XII a XIV, y último párrafo del artículo 42, de la Ley;
 
-III. Remitir, una vez desahogada la audiencia inicial y tratándose de asuntos relacionados con faltas graves o faltas de particulares, los autos originales del expediente a las Salas Especializadas en Materia de Responsabilidades Administrativas en los términos que dispone el artículo 209, fracción I, de la Ley General de Responsabilidades Administrativas;
+III. Imponer medios de apremio para hacer cumplir sus determinaciones y medidas cautelares en términos de la Ley General de Responsabilidades Administrativas;
 
-IV. Substanciar el procedimiento de responsabilidades administrativas, en los asuntos relacionados con faltas administrativas no graves, de los servidores públicos establecidos en las fracciones XII a XIV, y último párrafo del artículo 42, de la Ley, en los términos establecidos en la Ley General de Responsabilidades Administrativas;
+IV. Remitir, una vez desahogada la audiencia inicial y tratándose de asuntos relacionados con faltas graves o faltas de particulares, los autos originales del expediente a las Salas Especializadas en Materia de Responsabilidades Administrativas en los términos que dispone el artículo 209, fracción I, de la Ley General de Responsabilidades Administrativas;
 
-V. Formular los requerimientos necesarios a las Unidades Administrativas del Tribunal, para que le sea proporcionada la información necesaria para la integración de los expedientes en trámite;
+V. Formular los requerimientos necesarios a los órganos administrativos del Tribunal y a cualquier persona física o moral, pública o privada y a entes públicos, en términos de la Ley General de Responsabilidades Administrativas, para la atención de los asuntos en materia de responsabilidades, así como para el cumplimiento de sus facultades;
 
-VI. Elaborar y poner a consideración del Titular del Órgano Interno de Control del Tribunal el Proyecto de Resolución de Responsabilidades Administrativas;
+VI. Elaborar y poner a consideración de la persona titular del Órgano Interno de Control del Tribunal el Proyecto de Resolución de Responsabilidades Administrativas;
 
-VII. Recibir, tramitar y resolver, según sea el caso, los recursos que se interpongan en términos de la Ley General de Responsabilidades Administrativas, en contra de las resoluciones y/o actuaciones que se deriven de los procedimientos de responsabilidades;
+VII. Conocer y tramitar los recursos de reclamación e inconformidad al amparo de la Ley General de Responsabilidades Administrativas;
 
-VIII. Recibir, instruir y resolver las inconformidades interpuestas por los actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, y servicios relacionados con la misma;
+VIII. Recibir, instruir y resolver las inconformidades interpuestas por los actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas, y demás disposiciones en materia de contrataciones públicas;
 
-IX. Tramitar, instruir e imponer las sanciones a los licitantes, proveedores y contratistas en los términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma;
+IX. Tramitar los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de las leyes de la materia y someterlos a la resolución de la persona titular del Órgano Interno de Control;
 
-X. Tramitar los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de las leyes de la materia y someterlos a la resolución del Titular del Órgano Interno de Control;
+X. Iniciar, instruir y resolver, en su caso, el procedimiento de intervenciones de oficio, por presumir la inobservancia de las disposiciones en materia de adquisiciones, arrendamientos y servicios, y obras públicas y servicios relacionados con las mismas;
 
-XI. Llevar a cabo los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos;
+XI. Tramitar, instruir y resolver los procedimientos administrativos de sanción a personas físicas o morales por infracciones a las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios, obras públicas y servicios relacionados con las mismas, y demás disposiciones en materia de contrataciones públicas, e imponer las sanciones correspondientes;
 
-XII. Instrumentar las gestiones de coordinación relacionadas a la inscripción, actualización, verificación, certificación, seguimiento y demás relacionadas que establece el marco jurídico en materia de situación patrimonial de los servidores públicos del Tribunal, con las áreas administrativas facultadas para ello respectivamente, y en su caso, del Sistema de Evolución Patrimonial, de Declaración de Intereses, de Constancias de Presentación de Declaración Fiscal y de los Servidores públicos que intervengan en procedimientos de contrataciones públicas de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
+XII. Tramitar, en beneficio del Tribunal, los procedimientos de conciliación en materia de adquisiciones, arrendamientos y servicios, y obras públicas y servicios relacionados con las mismas, derivados de las solicitudes de conciliación que se presenten, por desavenencias causadas por el cumplimiento de los contratos o pedidos celebrados por los proveedores o contratistas, derivadas de los procesos licitatorios que celebre la Unidad Administrativa responsable de los mismos en el Tribunal;
 
-XIII. Verificar que los servidores públicos del Tribunal obligados a presentar declaración de situación patrimonial, cumplan en tiempo y forma con dicha obligación y emitir la determinación que corresponda en caso de incumplimiento;
+Para efectos de lo anterior, podrán emitir todo tipo de acuerdos, así como presidir y conducir las sesiones de conciliación y llevar a cabo las diligencias, requerimientos, citaciones, notificaciones y prevenciones a que haya lugar, tutelando en todo momento la protección de los intereses del Tribunal;
 
-XIV. Coordinar, vigilar y controlar la recepción, registro y resguardo de las declaraciones de situación patrimonial de los servidores públicos del Tribunal obligados a presentarlas, así como analizar e investigar su situación patrimonial;
+XIII. Llevar a cabo los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos;
 
-XV. Proponer al Titular del Órgano Interno de Control las normas y formatos conforme a los cuales los servidores públicos del Tribunal deberán formular su declaración de situación patrimonial, así como los manuales e instructivos correspondientes, para su presentación a la Junta;
+XIV. Instrumentar las gestiones de coordinación relacionadas a la inscripción, actualización, verificación, certificación, seguimiento y demás relacionadas que establece el marco jurídico en materia de situación patrimonial de las personas servidoras públicas del Tribunal, con las áreas administrativas facultadas para ello respectivamente, y en su caso, del Sistema de Evolución Patrimonial, de Declaración de Intereses, de Constancias de Presentación de Declaración Fiscal y de las personas servidoras públicas que intervengan en procedimientos de contrataciones públicas de la Plataforma Digital Nacional del Sistema Nacional Anticorrupción;
 
-XVI. Coordinar con las autoridades federales o locales que correspondan, las investigaciones, revisiones y auditorías relacionadas con la presentación, evolución e investigación de la situación patrimonial de los servidores públicos del Tribunal;
+XV. Coordinar las actividades para la divulgación y asesoría sobre la obligación de presentar la declaración de situación patrimonial y de intereses, a los servidores públicos del Tribunal; así como verificar que cumplan en tiempo y forma con dicha obligación y emitir la determinación que corresponda en caso de incumplimiento;
 
-XVII. Recibir y resolver las inconformidades de los servidores públicos del Tribunal, respecto del resultado de la investigación, expediente y resolución definitiva que deriven de la declaración de situación patrimonial;
+XVI. Coordinar, vigilar y controlar la recepción, registro y resguardo de documentación relativa a la comprobación de la presentación de las declaraciones de situación patrimonial de las personas servidoras públicas del Tribunal obligadas a presentarlas, así como realizar la evolución de las declaraciones patrimoniales de las personas servidoras públicas contempladas en las fracciones XII a XIV y último párrafo del artículo 42 de la Ley que instruya la persona titular del Órgano Interno de Control; y de ser el caso, la verificación de la evolución patrimonial de los declarantes, pudiendo emitir la determinación que en términos de la Ley General de Responsabilidades Administrativas y demás normativa aplicable que corresponda;
 
-XVIII. Turnar a la Junta, en el caso de los servidores públicos a que se refieren las fracciones I a XI del artículo 42 de la Ley, cuando se trate de los servidores públicos del Tribunal a que se refieren las fracciones XII a XIV y último párrafo del mismo artículo, los expedientes de análisis de la evolución e investigación patrimonial integrados para la instauración del procedimiento disciplinario correspondiente;
+XVII. Formular requerimientos a las autoridades competentes, dependencias y entidades públicas, así como a las instituciones bancarias y entidades financieras, cuando lo considere necesario, los datos relacionados con registros y operaciones e información bancaria que se requiera para llevar a cabo la evolución y verificación patrimonial;
 
-XIX. Recabar, integrar y analizar la información para la implementación y actualización del Registro de Servidores Públicos Sancionados del Tribunal y expedir las constancias que correspondan en términos de las disposiciones jurídicas aplicables;
+La información y documentación podrá solicitarse a las instituciones financieras por conducto de la Comisión Nacional Bancaria y de Valores, Comisión Nacional de Seguros y Fianzas; y la Comisión Nacional de Ahorro para el Retiro previo cumplimiento de los requisitos legales exigidos;
 
-XX. Coordinar y supervisar la recepción, registro, seguimiento y control de obsequios, donativos o beneficios a que se refiere la Ley General de Responsabilidades Administrativas;
+XVIII. Recibir, analizar e inscribir la información proporcionada por las autoridades resolutoras competentes para mantener actualizado el registro de personas servidoras públicas sancionadas del Tribunal y expedir las constancias que correspondan, en términos de las disposiciones jurídicas aplicables;
 
-XXI. Asesorar a los servidores públicos del Tribunal en materia de declaración de situación patrimonial, y;
+XIX. Coordinar y supervisar en el ámbito de su competencia, el registro, seguimiento y control de obsequios, donativos o beneficios a que se refiere la Ley General de Responsabilidades Administrativas, y
 
-XXII. Las demás que le confieran otras disposiciones jurídicas y el Pleno General de la Sala Superior.
+XX. Las demás que le confieran el Pleno General y otras disposiciones jurídicas.
 
-Sin perjuicio de su ejercicio directo por parte del Titular de la Dirección General de Responsabilidades y Registro Patrimonial, al Director de Responsabilidades le corresponderá el ejercicio de las facultades establecidas en las fracciones I, II, III, IV, V, VI, VII, VIII, XIX y XXII del presente numeral y al Director de Registro Patrimonial las facultades establecidas en las fracciones XIV a XXII de este artículo.
+Sin perjuicio de su ejercicio directo por parte de la persona titular de la Dirección General de Responsabilidades y Registro Patrimonial, a la Dirección de Responsabilidades le corresponderá el ejercicio de las facultades establecidas en las fracciones I a XIII y XX del presente numeral y a la Dirección de Registro Patrimonial las facultades establecidas en las fracciones V y XIII a XX de este artículo.
+
+Lo anterior sin menoscabo de que dichas direcciones y su personal pueden auxiliar a la Dirección General de Responsabilidades y Registro Patrimonial, en el ejercicio directo de dichas atribuciones.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 129.
 
 Corresponde a la Dirección General de Auditoría:
 
-I. Presentar al Titular del Órgano Interno de Control, las bases para la planeación del Programa Anual de Actividades que ha de presentarse al Pleno General para su autorización, en lo referente a la realización de Auditorías de tipo financiero, presupuestal, administrativas y de Obra Pública; Auditorías especiales a la ejecución de Proyectos Tecnológicos; la Revisión a Procedimientos de Contratación y al Seguimiento de las Recomendaciones resultantes de auditorías ejecutadas, redactando los Programas detallados para dichas auditorías, revisiones y seguimientos;
+I. Presentar a la persona Titular del Órgano Interno de Control las auditorías, visitas e inspecciones de tipo financiero, presupuestal, administrativas; a proyectos tecnológicos, obra pública y contrataciones; para su integración al Programa Anual de Actividades del Órgano Interno de Control que se presente al Pleno General, para su autorización;
 
-II. Coordinar el inicio y la ejecución de las Auditorías de los diversos tipos antes enunciados, conforme al Programa Anual de Actividades autorizado, aplicando las guías, cuestionarios, normas y técnicas necesarias para la práctica de las auditorías;
+II. Dirigir y coordinar el inicio y la ejecución de las auditorías, visitas, e inspecciones a los órganos administrativos del Tribunal, las cuales podrán abarcar periodos de diversos ejercicios conforme al Programa Anual de Actividades autorizado, para fiscalizar el cumplimiento de las disposiciones legales y normativas en materia financiera, administrativa, contable, presupuestal, de obra pública y contrataciones; así como los acuerdos que emita el Pleno General y la Junta;
 
-III. Supervisar la determinación de hallazgos en las auditorías, confrontarlos con los responsables de las áreas auditadas, concluir las observaciones definitivas y definir la redacción de las recomendaciones correctivas y/o preventivas que deban sugerirse para su atención en un plazo perentorio;
+III. Verificar los hallazgos determinados en las auditorías, visitas e inspecciones y presentar los resultados preliminares a los responsables de los órganos administrativos del Tribunal auditados; formular las observaciones definitivas y las recomendaciones correctivas, preventivas o ambas que procedan para su atención, en el plazo que se establezca;
 
-IV. Coordinar el inicio y la ejecución de las Revisiones a los procedimientos de contratación conforme al Programa Anual de Actividades autorizado, aplicando el programa detallado, las normas y técnicas necesarias para la práctica de las revisiones;
+IV. Dirigir y coordinar el inicio y la ejecución del seguimiento al cumplimiento de las recomendaciones correctivas y preventivas y determinar los porcentajes de avance o la atención de las observaciones, determinadas en las auditorías practicadas por el Órgano Interno de Control, así como las recomendaciones promovidas por otras instancias de fiscalización;
 
-V. Supervisar la determinación de hallazgos en las revisiones, confrontarlos con los responsables de las áreas revisadas, concluir las observaciones definitivas y definir la redacción de las recomendaciones correctivas o preventivas que deban sugerirse para su atención en un plazo perentorio;
+V. Presentar, previa aprobación de la persona titular del Órgano Interno de Control, a los titulares de los órganos auditados o revisados, los informes de resultados correspondientes, así como contribuir con esta misma información a la integración de informes trimestrales del referido Órgano;
 
-VI. Coordinar el inicio y la ejecución de las acciones de Seguimiento al cumplimiento de las recomendaciones de observaciones pendientes de atender, debiendo concluir los porcentajes de avance o la solventación de las mismas. Emitir los folios con los resultados del seguimiento y previa aprobación del Titular del Órgano Interno, informar a las Unidades auditadas los resultados concluidos;
+VI. Atender las instrucciones de la persona titular del Órgano Interno de Control, para verificar que se hayan cumplido las recomendaciones de las observaciones formuladas por actos de fiscalización de la Auditoría Superior de la Federación y del propio Órgano Interno;
 
-VII. Presentar, previa aprobación del Titular del Órgano Interno de Control, a los Titulares de las Unidades auditadas o revisadas, los informes de resultados correspondientes, así como contribuir con esta misma información a la integración de informes trimestrales del referido Órgano;
+VII. Turnar a la Dirección General Denuncias el informe de resultados de las auditorías, visitas e inspecciones, cuando de los mismos se adviertan probables faltas administrativas de servidores públicos y/o de particulares;
 
-VIII. Atender las instrucciones del Titular del Órgano Interno de Control, para verificar que se hayan cumplido las recomendaciones de las observaciones formuladas por actos de fiscalización de la Auditoría Superior de la Federación y del propio Órgano Interno;
+VIII. Participar, de manera presencial o por medios electrónicos, en los procesos de entrega de papel de desecho y bienes muebles instrumentales e informáticos, que soliciten los órganos administrativos del Tribunal, en cumplimiento a las disposiciones establecidas en la materia;
 
-IX. Turnar a la Dirección General de Denuncias los expedientes integrados, dictámenes técnicos y contables, relativos a las investigaciones y auditorías que se hubieran practicado, cuando de las mismas se deriven presuntas responsabilidades;
+IX. Intervenir, en términos de lo establecido en el presente Reglamento, de manera presencial o por medios electrónicos en los actos de entrega-recepción de las personas servidoras públicas del Tribunal, en representación de la persona titular del Órgano Interno de Control; asimismo, proporcionar la orientación y asesoría sobre el procedimiento a seguir, a quien lo requiera, independientemente de que se solicite o no la presencia de un representante del Órgano Interno de Control;
 
-X. Presenciar la destrucción de expedientes resueltos en el ámbito de su competencia, de archivo antiguo que autorice la Junta a la Dirección General de Archivos, para su baja, enajenación o destrucción; así como también, el destino final de bienes muebles del Tribunal;
+X. Formular requerimientos a las personas titulares de los órganos administrativos del Tribunal sobre información, documentación y demás datos necesarios para llevar a cabo las atribuciones y funciones encomendadas en materia de fiscalización, incluyendo aquella que las disposiciones legales consideren con carácter reservada o confidencial, con la obligación de mantener ese tratamiento conforme a lo que determinen las leyes;
 
-XI. Intervenir en términos del artículo 141 del Reglamento Interior del Tribunal, en representación del Titular del Órgano Interno de Control en los eventos de actas de entrega-recepción de los servidores públicos de confianza del Tribunal, al concluir sus nombramientos o separarse de sus cargos, por cualquier causa; proporcionar la orientación y asesoría sobre el procedimiento a seguir, al servidor público que lo requiera, independientemente de que solicite o no la presencia de un representante del mencionado Órgano Interno;
+XI. Coordinar el cumplimento de las disposiciones en materia de transparencia, acceso a la información y de datos personales relacionado con los informes de resultados de las auditorías y revisiones de control interno practicadas;
 
-XII. Registrar cronológicamente todos los ejemplares de Actas que remitan los servidores públicos salientes y realizar conciliaciones con la Dirección de Administración de Personal para conocer los casos del personal que ha causado baja y que habiendo transcurrido quince días naturales, no haya remitido su acta de entrega recepción o no la haya formulado, a efecto de poder requerirle el cumplimiento de su obligación;
+XII. Registrar cronológicamente todos los ejemplares de actas que remitan las personas servidoras públicas salientes y realizar conciliaciones con la Dirección de Administración de Personal para conocer los casos del personal que ha causado baja y que habiendo transcurrido quince días naturales, no haya remitido su acta de entrega recepción o no la haya formulado, a efecto de poder requerirle el cumplimiento de su obligación; y en caso de no hacerlo iniciar el procedimiento para remitir a lo establecido en la Ley General de Responsabilidades Administrativas;
 
 XIII. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda a petición de autoridad competente, y
 
-XIV. Las demás que le confiera el Pleno General de Sala Superior por conducto del Titular del Órgano Interno de Control.
+XIV. Las demás que le confiera el Pleno General por conducto de la persona titular del Órgano Interno de Control.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 130.
 
-Corresponde a la Dirección General de Auditoría del Desempeño y Revisiones al Control Interno Institucional.
+Corresponde a la Dirección General de Auditoría del Desempeño y Control Interno, lo siguiente:
 
-I. Presentar al Titular del Órgano Interno de Control, las bases para la elaboración del Programa Anual de Actividades que ha de presentarse al Pleno General para su autorización, en lo referente a la realización de Auditorías del Desempeño; Revisiones al Control Interno y Sistemas de Registro de las áreas administrativas centrales y regionales; Participar como asesor normativo suplente en los diversos Comités y Subcomités integrados por la Secretaría Operativa de Administración; Programar Seguimientos al Cumplimiento de las Recomendaciones sobre acciones de mejora derivadas de las auditorías concluidas y redactar los Programas detallados para dichas auditorías, revisiones y seguimientos;
+I. Presentar a la persona titular del Órgano Interno de Control, las auditorías del desempeño y las revisiones al control interno que se llevarán a cabo a los órganos administrativos del Tribunal, para su integración al Programa Anual de Actividades del Órgano Interno de Control que se presente al Pleno General para su autorización;
 
-II. Supervisar la determinación de hallazgos en las Auditorías del Desempeño, confrontar resultados con las áreas auditadas y concluir las recomendaciones sobre acciones susceptibles de mejora preventivas y correctivas en su caso;
+II. Dirigir y coordinar el inicio y la ejecución de las auditorías al desempeño y las revisiones al control interno, a los órganos administrativos del Tribunal, las cuales podrán abarcar periodos de diversos ejercicios conforme al Programa Anual de Actividades autorizado para verificar la observancia de las normas, programas y metas establecidos, así como evaluar la eficiencia y eficacia en el cumplimiento de sus objetivos; así como los acuerdos que emita el Pleno General y la Junta;
 
-III. Al principio de cada ejercicio fiscal, participar observando las acciones que debe realizar la Dirección General de Programación y Presupuesto con motivo del Cierre de la Cuenta Pública del ejercicio, debiendo emitir las recomendaciones que correspondan de conformidad con la Guía que emita la Secretaría de Hacienda y Crédito Público para llevar a cabo dicho cierre presupuestal;
+III. Verificar los hallazgos determinados en las auditorías del desempeño y las revisiones al control interno y presentar los resultados preliminares a los responsables de los órganos administrativos auditados y revisados; y posteriormente formular las observaciones y recomendaciones preventivas sobre acciones susceptibles de mejora y de ser el caso correctivas, que procedan para su atención en el plazo que se establezca;
 
-IV. Intervenir como Asesor Suplente en los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles y de Obra Pública y Servicios Relacionados con las mismas y de Control Interno, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado el Titular del Órgano Interno de Control, de conformidad con las disposiciones jurídicas aplicables;
+IV. Dirigir y coordinar el seguimiento a la implementación y cumplimiento de las recomendaciones y acciones de mejora emitidas con motivo de las auditorías del desempeño y las revisiones al control interno practicadas a los órganos administrativos del Tribunal, debiendo determinar los porcentajes de avance o la atención de las mismas;
 
-V. Atender las invitaciones de la Dirección General de Recursos Materiales y Servicios Generales a presenciar los procedimientos licitatorios que se lleven a cabo para la adquisición o arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, en las instalaciones del Tribunal con sede en la Ciudad de México;
+V. Presentar a la persona titular del Órgano Interno de Control los informes de resultados de las auditorías de desempeño y las revisiones al control interno, así como los seguimientos ejecutados, para comunicarlos a las personas titulares de los órganos administrativos del Tribunal auditados y/o revisados;
 
-VI. Coordinar el inicio y la ejecución de las Revisiones a los Sistemas de Registro y a Procedimientos de Control Interno, aplicando los manuales, guías, instructivos y procedimientos necesarios;
+VI. Formular requerimientos a las personas titulares de los órganos administrativos del Tribunal sobre información, documentación y demás datos para llevar a cabo las atribuciones y funciones encomendadas en materia de auditoría del desempeño y la mejora de la gestión, incluyendo aquella que las disposiciones legales consideren con carácter reservada o confidencial, con la obligación de mantener ese tratamiento conforme a lo que determinen las leyes aplicables;
 
-VII. Supervisar la determinación de hallazgos en las Revisiones a los Sistemas de Registro o a Procedimientos de Control Interno, confrontar los resultados con los responsables de las áreas revisadas y concluir las recomendaciones preventivas o correctivas en su caso;
+VII. Participar como suplente de la persona titular del Órgano Interno de Control en los comités, subcomités y grupos conforme a las disposiciones jurídicas aplicables;
 
-VIII. Atender las invitaciones de la Dirección de Almacenes e Inventarios, para presenciar la toma física de inventarios de bienes muebles y de consumo, en las diversas instalaciones de almacenamiento del Tribunal, supervisando la elaboración de las actas correspondientes y los anexos que contienen los resultados de cada inventario;
+VIII. Apoyar a la persona titular del Órgano Interno de Control en la organización del Comité de Control Interno Institucional, en conformidad con el Manual de Integración y Funcionamiento del Comité;
 
-IX. Coordinar el inicio y la ejecución de los seguimientos programados para verificar el cumplimiento de las recomendaciones sobre acciones susceptibles de mejora pendientes de atender, debiendo concluir los porcentajes de avance o la solventación de las mismas. Emitir los folios con los resultados del seguimiento;
+IX. Atender las invitaciones de la Dirección General de Recursos Materiales y Servicios Generales y de las delegaciones administrativas a presenciar los procedimientos licitatorios que se lleven a cabo para la adquisición o arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, en las instalaciones del Tribunal, de manera presencial o por medios electrónicos, pudiendo designar a una persona representante;
 
-X. Presentar, previa aprobación del Titular del Órgano Interno de Control, a los Titulares de las Unidades o Áreas auditadas o revisadas, los informes de resultados correspondientes y aportar dicha información para los informes trimestrales del referido Órgano Interno;
+X. Con los resultados de la Revisión a los Sistemas de Registro y de los Procedimientos de Control Interno que aplican los diversos órganos administrativos del Tribunal, presentar en su caso, una propuesta de actualización de la normativa vigente ante el Comité de Control Interno Institucional y promover que la Junta tenga conocimiento de los acuerdos del Comité relacionados con la normativa en materia administrativa;
 
-XI. Apoyar al Titular del Órgano Interno de Control en la organización del Comité de Control Interno Institucional que preside el Presidente del Tribunal de conformidad con el Manual de Integración del Comité y su programa de sesiones;
+XI. Evaluar la consistencia de los Programas Operativos Anuales en cuanto a su planeación estratégica y el cumplimiento de sus metas y objetivos, en el ámbito de competencia;
 
-XII. Con los resultados de la Revisión a los Sistemas de Registro y de los Procedimientos de Control Interno que aplican las diversas unidades administrativas del Tribunal, presentar propuesta de actualización de la normativa vigente ante el Comité de Control Interno Institucional y promover que la Junta tenga conocimiento de los acuerdos del Comité relacionados con la normatividad en materia administrativa;
+XII. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda a petición de autoridad competente, y
 
-XIII. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda a petición de autoridad competente, y
-
-XIV. Las demás que le confiera el Pleno General de Sala Superior por conducto del Titular del Órgano Interno de Control.
+XIII. Las demás que le confiera el Pleno General por conducto de la persona titular del Órgano Interno de Control.
 
 ## Título Cuarto.
 
@@ -3155,17 +3993,21 @@ Los servidores públicos del Tribunal cuyas funciones los vinculen directamente 
 
 La inobservancia de dichas obligaciones será causa de responsabilidad y motivará la aplicación de las sanciones que correspondan.
 
-### Capítulo I.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-De las Responsabilidades Administrativas.
+### Capítulo III.. Del Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA)
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+Artículo 133 bis. El registro y control de las actuaciones que realicen la Tercera Sección de la Sala Superior, las Salas Especializadas en Materia de Responsabilidades Administrativas y la Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, en los procedimientos de responsabilidades administrativas, se efectuarán en forma electrónica, utilizando el Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA).
 
 ## Título Quinto.
 
 Del Régimen interno.
 
-### Capítulo II
+### Capítulo I.
 
-De las Licencias y Suplencias.
+De las Responsabilidades Administrativas.
 
 ###### Artículo 134.
 
@@ -3197,6 +4039,10 @@ Concluida la etapa de investigación, tratándose de las conductas calificadas c
 
 La Junta por conducto de otro de sus Magistrados substanciará el procedimiento de responsabilidades administrativas, en los términos de la ley de la materia y una vez concluida ésta, someterá a los tres Magistrados restantes que no participaron en la investigación y substanciación, el proyecto de resolución para que se emita el fallo que corresponda, respecto de las conductas no graves.
 
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+En caso excepcional, cuando no exista quórum legal con motivo de la falta de nombramientos de magistrados, para la votación de la resolución a que se refiere el párrafo anterior, el Pleno General designará, mediante Acuerdo y por el periodo de un año, a una magistrada o magistrado para esos efectos.
+
 Respecto de los servidores públicos mencionados en las fracciones V a XI del artículo 42 de la Ley, tratándose de conductas graves, la Junta de Gobierno concluida la substanciación del procedimiento enviará el expediente a la Sala competente del Tribunal, en términos de la Ley de la materia.
 
 ###### Artículo 136.
@@ -3211,9 +4057,9 @@ Una vez terminada la substanciación del procedimiento a que se refiere el párr
 
 Contra la resolución del Pleno Jurisdiccional, no procederá recurso alguno.
 
-### Capítulo III.
+### Capítulo II
 
-Disposiciones finales.
+De las Licencias y Suplencias.
 
 ###### Artículo 137.
 
@@ -3227,9 +4073,15 @@ III. Tratándose de licencias urgentes que formule el personal de base, éstas s
 
 Mismo criterio se observará cuando se traten de licencias requeridos con urgencia por el personal jurisdiccional y administrativo de confianza, siempre que la licencia no rebase de tres días.
 
-IV. Las licencias al personal administrativo de base y de confianza que excedan de los plazos señalados en las fracciones I, II y III que anteceden, serán concedidas por la Junta, a petición del interesado, mediante escrito debidamente motivado y cuenten con la conformidad del Magistrado o del titular de la Secretaría o unidad administrativa a que se encuentren adscritos en términos del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-V. Tratándose de ausencias por periodos de hasta tres meses, los Magistrados deberán solicitar a la Junta licencia por escrito, debidamente motivada, la cual se otorgará en su caso, con goce de sueldo por el primer mes y sin goce de sueldo hasta por dos meses más, en el entendido que en caso de enfermedad y cuando el caso lo amerite, se podrá ampliar esta licencia;
+IV. Las licencias a los trabajadores que excedan de los plazos señalados en las fracciones I, II y III que anteceden, serán concedidas por la Junta, a petición del interesado, mediante escrito debidamente motivado y cuenten con la conformidad del Magistrado o del titular de la Secretaría o unidad administrativa a que se encuentren adscritos en términos del presente Reglamento;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+V. Tratándose de licencias por periodos de hasta tres meses, el personal jurisdiccional deberá solicitarla a la Junta por escrito debidamente motivado, la cual se otorgará, en su caso, con goce de sueldo por el primer mes y sin goce de sueldo hasta por dos meses más, en el entendido que en caso de enfermedad y cuando el caso lo amerite, se podrá ampliar esta licencia sin goce de sueldo.
+
+Tratándose de los Magistrados, la licencia con goce de sueldo podrá otorgarse hasta por dos meses, cuando exista causa justificada debidamente acreditada ante la Junta;
 
 VI. La Junta podrá conceder licencias con goce de sueldo, hasta por tres meses, cuando sean solicitadas por los Magistrados, Contralor, Secretario General de Acuerdos y Secretarios Adjuntos de Acuerdos de las Secciones, con el propósito de iniciar y concluir los trámites correspondientes a su jubilación;
 
@@ -3237,7 +4089,7 @@ VII. Las licencias a los Secretarios Operativos y Auxiliar de la Junta y al Cont
 
 VIII. Las licencias por enfermedad o maternidad al personal del Tribunal, se otorgarán en términos de las leyes aplicables;
 
-IX. Las licencias al personal jurisdiccional hasta por dieciocho meses se otorgarán, sin goce de sueldo y por una sola ocasión, atendiendo a las causas particulares por las cuales se solicite, previa autorización de la Junta.
+IX. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
 Las licencias previstas en las fracciones I y II que se otorguen a los trabajadores, no se tomaran a cuenta de los días económicos a que tienen derecho, cuando así sea el caso.
 
@@ -3253,7 +4105,13 @@ Para suplir las ausencias temporales de los servidores públicos del Tribunal, s
 
 I. En caso de falta temporal, y para el efecto del cumplimiento de las funciones de naturaleza jurisdiccional, el Presidente será suplido alternativamente, cada treinta días naturales, por los Presidentes de las Secciones, siguiendo el orden alfabético de su primer apellido;
 
-En caso de ausencia del Presidente de Sección que corresponda, la suplencia correrá a cargo del Presidente de la otra Sección, y a falta de éste por el Magistrado Decano, siguiendo la regla que se establece en el artículo 23, fracción II, de este Reglamento;
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+En el caso de faltas temporales de los presidentes de las Secciones, serán suplidas por las magistradas o los magistrados de la Sección siguiendo el orden alfabético de sus apellidos.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
+En caso de que, derivado del número de integrantes de la Sección correspondiente o por cualquier otro motivo, no resulte viable el procedimiento antes señalado, la suplencia correrá a cargo del presidente de la otra Sección, y a falta de éste por el magistrado decano, siguiendo la regla que se establece en el artículo 23, fracción II, de este Reglamento;
 
 II. Para el despacho de los asuntos administrativos encomendados a la Junta, el Presidente será suplido por los Magistrados de Sala Superior integrantes de la Junta, siguiendo el orden alfabético de su primer apellido;
 
@@ -3277,13 +4135,15 @@ IX. La falta temporal del Secretario General de Acuerdos, será suplida por los 
 
 La falta temporal de los Secretarios Adjuntos de Acuerdos de la Primera, Segunda y Tercera Sección será suplida por el Secretario Adjunto que esté presente, y en ausencia de éstos por la persona titular de la Secretaría General de Acuerdos.
 
-> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
-X. Las ausencias temporales del titular de la Secretaría Operativa de Administración, serán suplidas por los titulares de la Dirección General de Programación y Presupuesto; Dirección General de Recursos Humanos; Dirección General de Recursos Materiales y Servicios Generales, de la Dirección General de Delegaciones Administrativas, y de la Dirección General de Archivos, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
+X. Las ausencias temporales del titular de la Secretaría Operativa de Administración, serán suplidas por los titulares de la Dirección General de Recursos Materiales y Servicios Generales; Dirección General de Archivos; Dirección General de Programación y Presupuesto; Dirección General de Recursos Humanos y Servicio Profesional de Carrera; Dirección General de Delegaciones Administrativas, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
 XI. Las ausencias temporales del titular de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, serán suplidas por los titulares de la Dirección General de Infraestructura Tecnológica, y de la Dirección General de los Sistemas de Información, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
-XII. Las ausencias temporales del titular de la Secretaría Auxiliar, serán suplidas por el Secretario General de Acuerdos, los titulares de la Unidad de Peritos, y de la Unidad de Transparencia, en el orden indicado, y en caso de ausencia de estos dos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+
+XII. Las ausencias temporales de la persona titular de la Secretaría Técnica serán suplidas por la persona titular de la Secretaría General de Acuerdos y de las Secretarías Adjuntas de Acuerdos de la Primera y Segunda Sección, en el orden indicado;
 
 XIII. Las ausencias temporales del Titular del Órgano Interno de Control, serán suplidas por los titulares de la Dirección General de Denuncias; la Dirección General de Responsabilidades y Registro Patrimonial; la Dirección General de Auditoría y la Dirección General de Auditoría del Desempeño y Revisiones al Control Interno Institucional, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
@@ -3291,37 +4151,39 @@ XIV. Las ausencias del Titular de la Unidad de Asuntos Jurídicos en controversi
 
 XV. En caso de ausencias de los Secretarios de Acuerdos de Sala Superior y de Sala Regional, a causa de licencias que les hayan sido otorgadas, la Junta determinará la posibilidad de brindar apoyo con personal jurisdiccional al Magistrado al que aquéllos estén adscritos, en función de la disponibilidad presupuestal y de plazas con que se cuente.
 
+### Capítulo III.
+
+Disposiciones finales.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+
 ###### Artículo 139.
 
-El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de las Secciones, el Secretario Auxiliar de la Junta, los Secretarios de Acuerdos de Sala Superior y de Sala Regional, así como los Actuarios tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad, bajo pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
+Las personas titulares de la Secretaría General de Acuerdos, de las Secretarías Adjuntas de Acuerdos de las Secciones, de la Secretaría Técnica de la Junta, de las Secretarías de Acuerdos de Sala Superior, de la Junta y de Sala Regional, así como de las Actuarías tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad, bajo pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 140.
 
-El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de las Secciones, el Secretario Auxiliar de la Junta, y los Secretarios de Acuerdos de Sala Superior, de la Junta y de Sala Regional, podrán expedir constancias de documentos que obren en los expedientes de la Sala, Junta, Sección o ponencia a que estén adscritos, en términos de las disposiciones jurídicas aplicables.
+Los personas titulares de la Secretaría General de Acuerdos, de las Secretarías Adjuntas de Acuerdos de las Secciones, de la Secretaría Técnica de la Junta, y de las Secretarías de Acuerdos de Sala Superior, de la Junta y de Sala Regional; así como las personas servidoras públicas que los suplan en caso de ausencia, en términos del artículo 138 de este Reglamento, podrán expedir constancias de documentos que obren en los expedientes de la Sala, Junta, Sección o ponencia a la que estén adscritos, en términos de las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 141.
 
-Todo servidor público que tenga un puesto de confianza en el Tribunal, al concluir su nombramiento o separarse de su cargo por cualquier causa, deberá entregar, en un plazo no mayor a quince días hábiles posterior a la fecha de su separación o conclusión del encargo, a quien lo sustituya en sus funciones, a su superior jerárquico o a quien este último designe para tal efecto, los recursos financieros, humanos y materiales que tenga asignados para el ejercicio de sus atribuciones y, en su caso, los proyectos, los expedientes y asuntos pendientes de atender.
+Las personas servidoras públicas del Tribunal, desde el nivel de Dirección de Área o equivalente hasta presidente, así como el personal administrativo que maneje o administren fondos, bienes y valores institucionales, y el personal jurisdiccional que tenga a su cargo expedientes, al separarse de su empleo, cargo o comisión, deberá entregar, en un plazo no mayor a quince días hábiles posterior a la fecha de su separación o conclusión del encargo a quien les sustituya en el cargo o comisión, a su superior jerárquico, o a quien éste designe para recibir los recursos financieros, humanos y materiales que tuviesen asignados; así como los expedientes y asuntos a su cargo, para el ejercicio de sus atribuciones o funciones encomendadas.
 
-La entrega recepción se efectuará mediante Acta Administrativa en la que deberán intervenir dos testigos, pudiendo contar con la presencia de un representante designado por el Titular del Órgano Interno de Control o la Junta, debiendo remitir, en todo caso, copia con firmas autógrafas del acta que se levante al señalado Órgano Interno de Control. Dicha acta contendrá, según corresponda, los siguientes elementos: El marco jurídico de actuación, situación programática, presupuestaria y financiera, situación de los recursos materiales, estudios y proyectos, situación de los recursos humanos, los asuntos en trámite, el informe de los asuntos a su cargo y del estado que guardan, la situación de las observaciones de visitas o auditorías en proceso de atención, informe sobre el cumplimiento de las obligaciones establecidas en la Ley General de Transparencia y Acceso a la Información Pública, así como la documentación soporte de los datos e información referida en el acta.
+La entrega recepción se efectuará mediante acta administrativa con la participación de dos personas servidoras públicas, en calidad de testigos de asistencia, pudiendo contar con la presencia de un representante del Órgano Interno de Control, previa solicitud por escrito que realice la persona servidora pública saliente. Dicha acta contendrá la información y características que se señalen en los lineamientos que para tal efecto apruebe la Junta.
 
-Una vez formalizada el Acta de Entrega - Recepción, el servidor público de nuevo ingreso, el superior jerárquico o a quien este último designe, deberá verificar dentro de los siguientes treinta días naturales, el contenido de dicha acta y de sus anexos. Para tal efecto y durante el plazo antes señalado, el servidor público que dejó el cargo podrá ser requerido con el fin de que realice las aclaraciones y proporcione la información adicional que se le solicite, en un plazo no mayor a cinco días hábiles, a partir del día siguiente a ser notificado.
-
-La elaboración del Acta de Entrega - Recepción, de ninguna manera implica liberación alguna de responsabilidades que pudieran llegarse a determinar con posterioridad por autoridad competente.
+La verificación del contenido del acta administrativa de entrega recepción y anexos, deberá realizarse por el servidor público entrante o por la persona designada por el superior jerárquico para recibir el despacho, considerando un plazo máximo de 30 días naturales, contados a partir de la fecha de la entrega recepción. Durante el periodo señalado, la persona saliente podrá ser requerida para que realice las aclaraciones o proporcione la información adicional que se le solicite.
 
 En caso de que dicha persona se negare a efectuar la aclaración o a acudir a entregar los documentos faltantes, se deberá levantar acta circunstanciada con asistencia de dos testigos, describiendo la documentación y/o la información faltante o incompleta, remitiendo un ejemplar al Órgano Interno de Control con el fin de que éste requiera al mencionado servidor público su cumplimiento o en su caso, proceda de conformidad con lo establecido en la Ley General de Responsabilidades Administrativas.
 
-Asimismo, si el servidor público que ingrese al Tribunal no procediera de conformidad con el párrafo anterior, asumirá las responsabilidades correspondientes en los términos de la ley en comento.
+En caso de que la persona servidora pública entrante detecte irregularidades durante la verificación de contenido del acta administrativa de entrega-recepción, deberá hacerla del conocimiento, por escrito, al Órgano Interno de Control, a efecto de requerir a la persona servidora pública saliente o en su caso, se proceda de conformidad a la Ley General de Responsabilidades Administrativas.
 
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 14 DE JULIO DE 2022)</small>
+En el supuesto de que la persona servidora pública saliente omita rendir el informe de los asuntos a su cargo, especificando el estado que guardan y/o que no haga entrega de los recursos que tuviese asignados, sin causa justificada y motivada, la persona servidora pública entrante al tomar posesión o, en su caso, quien supla la ausencia del cargo correspondiente, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos y recursos asignados, haciéndolo del conocimiento de la persona superior jerárquica y del Órgano Interno de Control, en un plazo no mayor a 3 días naturales, contados a partir de la fecha en que haya vencido el plazo para realizar la entrega-recepción, para los efectos que procedan.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 14 DE JULIO DE 2022)</small>
-
-> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2022)</small>
-
-Para el caso de que el servidor público deje el cargo por cualquier motivo, la Secretaría Operativa de Administración, por conducto de la Dirección General de Recursos Humanos, deberá remitir al superior jerárquico del servidor público copia de la constancia de baja del mismo, y en caso de que no se haya formalizado el acta de entrega-recepción, el superior jerárquico lo hará del conocimiento del Órgano Interno de Control.
+Las personas titulares de los órganos del Tribunal, de los órganos auxiliares de la función jurisdiccional, así como de los órganos auxiliares de la función administrativa deberán informar por escrito al Órgano Interno de Control los casos en los que el personal adscrito a sus áreas, al separarse, por cualquier causa del cargo, empleo o comisión, no hagan entrega de los recursos y asuntos asignados en el plazo establecido de quince días hábiles, a fin de que sea requerido para el cumplimiento de dicha obligación, en caso de no hacerlo iniciar el procedimiento por el fincamiento de responsabilidades conforme se establece en la Ley General de Responsabilidades Administrativas.
 
 ## TRANSITORIOS.
 
@@ -3448,3 +4310,35 @@ D.O.F. 27 DE NOVIEMBRE DE 2024.
 Primero. Publíquese el presente Acuerdo en la página oficial del Tribunal y en el Diario Oficial de la Federación.
 
 Segundo. El presente Acuerdo entrará en vigor el 1° de diciembre de 2024.
+
+D.O.F. 23 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SS/10/2025, DENOMINADO "SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA".]
+
+PRIMERO.- Publíquese el presente Acuerdo en la página de internet del Tribunal; y un extracto del mismo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los siguientes transitorios.
+
+TERCERO.- Al día siguiente de la entrada en vigor del presente Reglamento y hecha la designación de la persona Titular del Centro Público de Mecanismos Alternativos, ésta deberá atender lo dispuesto en los artículos Transitorios Séptimo y Décimo Cuarto de la Ley General de Mecanismos Alternativos de Solución de Controversias.
+
+CUARTO.- Las referencias que se hagan en las disposiciones jurídicas aplicables a la Coordinación de Transparencia, Acceso a la Información y Protección de Datos Personales, se entenderán hechas a la Unidad de Transparencia.
+
+QUINTO.- Las referencias que se hagan en las disposiciones jurídicas aplicables a la Secretaría Auxiliar de la Junta de Gobierno y Administración se entenderán hechas a la Secretaría Técnica del mismo órgano de gobierno.
+
+SEXTO.- Las referencias que se hagan en las disposiciones jurídicas aplicables a la Unidad de Peritos se entenderán hechas a la Unidad de Peritos Terceros.
+
+SÉPTIMO.- Las referencias que se hagan en las disposiciones jurídicas aplicables a la Unidad de Sistemas de Carrera se entenderán hechas a la Dirección General de Recursos Humanos y Servicio Profesional de Carrera en lo que así corresponda.
+
+OCTAVO.- El registro y control de las actuaciones que refiere el artículo 133 bis se efectuarán conforme lo establecido en los Lineamientos establecidos en el Acuerdo E/JGA/10/2024, o en su caso, el Acuerdo correspondiente.
+
+NOVENO.- La asignación de recursos presupuestales y humanos que sean imperantes deberán sujetarse a las economías que resulten después de cubrir los compromisos presupuestarios de este Tribunal, sin que sea impedimento para la comisión de los recursos humanos necesarios para la operación mínima indispensable de las áreas que así lo requieran.
+
+DÉCIMO.- Los procedimientos administrativos que se deriven del cumplimiento del presente Acuerdo, deberán observar las disposiciones establecidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento y demás disposiciones jurídicas aplicables.
+
+DÉCIMO PRIMERO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones para que, a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, que se requieran para implementar lo dispuesto en el presente Acuerdo en un plazo no mayor a 30 días naturales contados a partir del día siguiente de su publicación.
+
+DÉCIMO SEGUNDO.- Dentro de los 30 días naturales siguientes a la entrada en vigor del presente Acuerdo, la Junta de Gobierno y Administración emitirá los lineamientos que, en coordinación con el Órgano Interno de Control, se elaboren para el proceso de entrega-recepción previsto en el artículo 141 de este Reglamento.
+
+DÉCIMO TERCERO.- A la entrada en vigor de los lineamientos a que se refiere el transitorio anterior, se deberá contar con la herramienta tecnológica que para tales efectos se implemente; para lo cual el Órgano Interno de Control realizará las gestiones correspondientes para que, en coordinación con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones se lleve a cabo el diseño y desarrollo de la citada herramienta, y se obtenga la autorización de la Junta de Gobierno y Administración, dicha herramienta deberá contar con mecanismos de seguridad que aseguren la integridad, disponibilidad y autenticidad de la información.
+
+DÉCIMO CUARTO.- La reforma a la fracción XI del artículo 49 entrará en vigor una vez que la Junta de Gobierno y Administración determine el cambio de sede de la Primera y Segunda Salas Regionales Estado de México I.
