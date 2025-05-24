@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-05-21"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -6189,15 +6189,19 @@ III. Un área natural protegida estatal o municipal, o un área de valor ambient
 
 IV. Al suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del territorio del Estado aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 463.
 
-Al responsable de la comisión del delito de incendios, previsto en la fracción I del artículo anterior, se le impondrá una sanción de un año a siete años de prisión y multa de seiscientas a diez mil veces el valor diario de la Unidad de Medida y Actualización.
+Al responsable de la comisión del delito de incendios, previsto en la fracción I del artículo anterior, se le impondrá una sanción de dos a diez años de prisión y multa de seiscientas a diez mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 Al responsable de la comisión del delito de incendios previstos en las fracciones II a la IV del artículo anterior, se le impondrá una sanción de seis meses a cuatro años de prisión y multa de trescientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2025)</small>
+
+Se impondrá la misma sanción prevista en el párrafo que antecede, al que permita por acción o inacción en un inmueble de su propiedad, se lleve a cabo la acumulación de residuos sólidos urbanos, sin contar con el permiso respectivo emitido por la autoridad competente, así como por el crecimiento desmedido de vegetación, con los cuales se propicie la generación de un incendio.
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6253,13 +6257,13 @@ III. Un área verde en suelo urbano.
 
 Se aplicará la misma sanción prevista en este artículo a quien independientemente de haber obtenido el permiso o autorización respectiva, no observe los lineamientos, condicionantes o métodos de extracción o explotación previstos para tal efecto.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 467.
 
 Comete el delito de privación de la vida, lesiones, malos tratos, crueldad o tortura contra cualquier especie animal, quien ejecute una o varias de esas conductas, sin fines deportivos, científicos, o bien sin contar con autorización legal de la autoridad competente, y se le sancionará conforme a lo dispuesto por el artículo 469 del presente Código.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 468.
 
@@ -7774,6 +7778,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-320 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL PÁRRAFO TERCERO, A LA FRACCIÓN II, DEL ARTÍCULO 32 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-331 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE AL ARTÍCULO 463 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
