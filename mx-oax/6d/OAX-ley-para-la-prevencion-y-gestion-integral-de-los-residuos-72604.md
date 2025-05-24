@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2024-02-24"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -129,9 +129,9 @@ XIX. Gestor: La persona física o moral autorizada en los términos de esta Ley,
 
 XX. Incineración: El proceso industrial para transformar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia son controlados a fin de cumplir con los parámetros ambientales establecidos;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-XXI. SEMAEDESO: La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
+XXI. SECRETARÍA: Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad;
 
 XXII. Inventario de residuos sólidos: La base de datos en la cual se registran y clasifican los volúmenes de generación de los diferentes residuos sólidos, la cual se integra con la información proporcionada por los generadores, en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
 
@@ -239,9 +239,9 @@ Son autoridades competentes para la aplicación de la presente Ley, y ejercerán
 
 I. El titular del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-II. La SEMAEDESO; y
+II. La SECRETARÍA; y
 
 III. Los Ayuntamientos.
 
@@ -327,9 +327,9 @@ XXXI Bis.- Implementar entre la población, programas de difusión y promoción 
 
 XXXII.- Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Las atribuciones que esta Ley confiere al Estado serán ejercidas por el Ejecutivo Estatal, a través de la SEMAEDESO, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de esta Ley. Cuando se requiera de la intervención de otras dependencias del Ejecutivo del Estado, la SEMAEDESO ejercerá sus atribuciones en coordinación con las mismas, apegado (sic) a la normativa aplicable.
+Las atribuciones que esta Ley confiere al Estado serán ejercidas por el Ejecutivo Estatal, a través de la SECRETARÍA, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de esta Ley. Cuando se requiera de la intervención de otras dependencias del Ejecutivo del Estado, la SECRETARÍA ejercerá sus atribuciones en coordinación con las mismas, apegado (sic) a la normativa aplicable.
 
 Las dependencias y entidades de la Administración Pública Estatal que ejerzan atribuciones que les confieran otros ordenamientos cuyas disposiciones se relacionen con el objeto de la presente Ley, ajustarán su ejercicio a los criterios, reglamentos y demás disposiciones jurídicas que se deriven del presente ordenamiento, de las Normas Oficiales Mexicanas, así como de las normas ambientales estatales correspondientes.
 
@@ -337,9 +337,9 @@ Las dependencias y entidades de la Administración Pública Estatal que ejerzan 
 
 Corresponden directamente al Titular del Poder Ejecutivo del Estado las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-l. Expedir y publicar los Programas Estatales para la Gestión Integral de los Residuos y de Remediación de Sitios Contaminados, que formule la SEMAEDESO;
+I. Expedir y publicar los Programas Estatales para la Gestión Integral de los Residuos y de Remediación de Sitios Contaminados, que formule la SECRETARÍA;
 
 II. Expedir las disposiciones reglamentarias y presupuestales para proveer a la exacta observancia de la presente Ley; y
 
@@ -347,9 +347,9 @@ III. Expedir las declaratorias de remediación de sitios contaminados, conforme 
 
 ###### Artículo 10.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Corresponde a la SEMAEDESO en coordinación con los Ayuntamientos, en los términos de la fracción XXI del artículo 8 de ésta Ley y de los acuerdos de coordinación respectivos, el ejercicio de las siguientes facultades en relación con el manejo y gestión integral de residuos sólidos urbanos:
+Corresponde a la SECRETARÍA en coordinación con los Ayuntamientos, en los términos de la fracción XXI del artículo 8 de esta Ley de los acuerdos de coordinación respectivos, el ejercicio de las siguientes facultades en relación con el manejo y gestión integral de residuos sólidos urbanos:
 
 I. Coadyuvar en la planeación, organización, control y vigilancia del Programa Municipal para la Prevención y Gestión Integral de los residuos sólidos urbanos, con base en los lineamientos del Programa Estatal;
 
@@ -373,9 +373,9 @@ IX. Hacer cumplir las disposiciones de la presente Ley, su Reglamento y demás d
 
 Son facultades de los Ayuntamientos, en coordinación con sus Agencias y demás asentamientos humanos:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-l. Formular los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y para la Prestación del Servicio Público de Limpia, por sí o en coordinación con la SEMAEDESO, y con la participación de representantes de los distintos sectores sociales y de los pueblos y comunidades indígenas que habiten en sus circunscripciones territoriales, observando lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial;
+I. Formular los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y para la Prestación del Servicio Público de Limpia, por sí o en coordinación con la SECRETARÍA, y con la participación de representantes de los distintos sectores sociales y de los pueblos y comunidades indígenas que habiten en sus circunscripciones territoriales, observando lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial;
 
 II. Emitir los bandos, ordenanzas, reglamentos, y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley en materia de gestión integral de residuos sólidos urbanos;
 
@@ -401,9 +401,9 @@ XII. Establecer las rutas, horarios y frecuencias en que debe prestarse el servi
 
 XIII. Atender oportunamente las quejas y denuncias de la población por contaminación de residuos sólidos ó sobre el manejo integral de los residuos, y dictar las medidas necesarias para su mejor y pronta solución;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-XIV. Coadyuvar con la Federación y la SEMAEDESO en el control de los residuos peligrosos generados o manejados por microgeneradores, de acuerdo a las disposiciones legales existentes y los convenios que se suscriban para tales efectos;
+XIV. Coadyuvar con la Federación y la SECRETARÍA en el control de los residuos peligrosos generados o manejados por microgeneradores, de acuerdo a las disposiciones legales existentes y los convenios que se suscriban para tales efectos;
 
 XV. Coadyuvar con la Federación en la prevención y atención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
 
@@ -427,9 +427,9 @@ Las autoridades comunitarias tienen atribución para establecer disposiciones di
 
 ###### Artículo 13.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-El Ejecutivo del Estado, por conducto de la SEMAEDESO, podrá suscribir con la Federación convenios de coordinación, con asignación de recursos federales, para asumir las siguientes funciones:
+El Ejecutivo del Estado, por conducto de la SECRETARÍA, podrá suscribir con la Federación convenios de coordinación, con asignación de recursos federales, para asumir las siguientes funciones:
 
 I. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos, de conformidad con las Normas Oficiales Mexicanas que expida la SEMARNAT;
 
@@ -473,41 +473,41 @@ X. Los neumáticos usados, muebles, enseres domésticos usados en gran volumen, 
 
 XI. Residuos de laboratorios industriales, químicos, biológicos, de producción o de investigación, con excepción de los residuos considerados peligrosos por la Ley General; y
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-XII. Otros que determine la SEMAEDESO de común acuerdo con los Municipios y/o con la SEMARNAT, para facilitar su gestión Integral.
+XII. Otros que determine la SECRETARÍA de común acuerdo con los Municipios y/o con la SEMARNAT, para facilitar su gestión integral.
 
 ### CAPÍTULO II. CLASIFICACIÓN DE RESIDUOS SUJETOS A PLANES DE MANEJO
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 16.
 
-La SEMAEDESO clasificará los residuos sólidos urbanos y de manejo especial que se sujetarán a planes de manejo, de conformidad con los criterios que establezca la SEMARNAT en las Normas Oficiales Mexicanas, así como las Normas Ambientales Estatales que se expidan para tales efectos, las cuales contendrán los listados de los mismos.
+La SECRETARÍA clasificará los residuos sólidos urbanos y de manejo especial que se sujetarán a planes de manejo, de conformidad con los criterios que establezca la SEMARNAT en las Normas Oficiales Mexicanas, así como las Normas Ambientales Estatales que se expidan para tales efectos, las cuales contendrán los listados de los mismos.
 
-La SEMAEDESO y las autoridades municipales podrán proponer a la SEMARNAT los residuos sólidos que deban agregarse a los listados contenidos en las Normas Oficiales Mexicanas mencionadas en el párrafo anterior.
+La SECRETARÍA y las autoridades municipales podrán proponer a la SEMARNAT los residuos sólidos que deban agregarse a los listados contenidos en las Normas Oficiales Mexicanas mencionadas en el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 17.
 
-La SEMAEDESO publicará en los órganos de difusión oficial y diarios de circulación local la relación de los residuos de manejo especial sujetos a planes de manejo.
+La SECRETARÍA publicará en los órganos de difusión oficial y diarios de circulación local la relación de los residuos de manejo especial sujetos a planes de manejo.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 18.
 
-El manejo de los residuos peligrosos que se generen en cantidades menores a las que generan los microgeneradores: hogares, unidades habitacionales, oficinas, instituciones, dependencias y entidades públicas, y pequeños comercios, deberá realizarse conforme lo dispongan las autoridades municipales, de acuerdo con los convenios que se establezcan con la Federación y/o la SEMAEDESO, siguiendo lo dispuesto en este ordenamiento.
+El manejo de los residuos peligrosos que se generen en cantidades menores a las que generan los microgeneradores: hogares, unidades habitacionales, oficinas, instituciones, dependencias y entidades públicas, y pequeños comercios, deberá realizarse conforme lo dispongan las autoridades municipales, de acuerdo con los convenios que se establezcan con la Federación y/o la SECRETARÍA, siguiendo lo dispuesto en este ordenamiento.
 
-Las autoridades municipales, en coordinación con la SEMAEDESO y la SEMARNAT, realizarán las acciones de comunicación, concienciación y capacitación necesarias para que los generadores de los residuos peligrosos señalados en el párrafo anterior, lleven a cabo el manejo adecuado e integral de los mismos.
+Las autoridades municipales, en coordinación con la SECRETARÍA y la SEMARNAT, realizarán las acciones de comunicación, concienciación y capacitación necesarias para que los generadores de los residuos peligrosos señaladas (sic) en el párrafo anterior, lleven a cabo el manejo adecuado e integral de los mismos.
 
 ### CAPÍTULO III. DEL INVENTARIO DE GENERACIÓN DE RESIDUOS
 
 ###### Artículo 19.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO y las autoridades municipales, en el ámbito de sus respectivas competencias, elaborarán, actualizarán y difundirán los inventarios de generación de residuos sólidos urbanos y de manejo especial, así como de sus fuentes generadoras.
+La SECRETARÍA y las autoridades municipales, en el ámbito de sus respectivas competencias, elaborarán, actualizarán y difundirán los inventarios de generación de residuos sólidos urbanos y de manejo especial, así como de sus fuentes generadoras.
 
 Para ello se basarán en la información y datos que les proporcionen los generadores de dichos residuos y las empresas de servicio de manejo de los mismos, en los trámites de autorizaciones o concesiones y en los planes de manejo respectivos.
 
@@ -547,27 +547,27 @@ IX. Bioacumulables.
 
 ###### Artículo 22.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-En la elaboración de los inventarios a que se refiere el presente capítulo, la SEMAEDESO y las autoridades municipales competentes observarán lo dispuesto en los artículos 20 y 21 del presente ordenamiento.
+En la elaboración de los inventarios a que se refiere el presente capítulo, la SECRETARÍA y las autoridades municipales competentes observarán lo dispuesto en los artículos 20 y 21 del presente ordenamiento.
 
 El Reglamento de la Ley establecerá el contenido general, lineamientos y criterios para la elaboración del inventario de residuos de manejo especial, así como los criterios y lineamientos para la elaboración del inventario de residuos sólidos urbanos por los Municipios.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Para garantizar la adecuada difusión de los inventarios de residuos, la SEMAEDESO y las autoridades municipales los publicarán en el órgano de difusión oficial que les corresponda conforme a su jurisdicción.
+Para garantizar la adecuada difusión de los inventarios de residuos, la SECRETARÍA y las autoridades municipales los publicarán en el órgano de difusión oficial que les corresponda conforme a su jurisdicción.
 
 ## TÍTULO CUARTO. INSTRUMENTOS DE PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 ### CAPÍTULO I. PROGRAMAS ESTATAL Y MUNICIPALES PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 23.
 
-La SEMAEDESO formulará e implementará el Programa Estatal para la Prevención y Gestión Integral de los Residuos, conforme a lo dispuesto en esta Ley y con base en el Diagnóstico Básico para la Gestión Integral de Residuos.
+La SECRETARÍA formulará e implementará el Programa Estatal para la Prevención y Gestión Integral de los Residuos, conforme a lo dispuesto en esta Ley y con base en el Diagnóstico Básico para la Gestión Integral de Residuos.
 
-En su integración, la SEMAEDESO tomará en cuenta, entre otros elementos, la información del inventario de generación de residuos de manejo especial.
+En su integración, la SECRETARÍA tomará en cuenta, entre otros elementos, la información del inventario de generación de residuos de manejo especial.
 
 ###### Artículo 24.
 
@@ -595,9 +595,9 @@ El Reglamento de la Ley establecerá el contenido general del Programa Estatal c
 
 Las autoridades municipales deberán formular sus Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos, para lo cual observarán lo previsto en los Artículos 23 y 24 de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-El Ejecutivo del Estado, a través de la SEMAEDESO y las autoridades municipales, inducirán las acciones de los particulares, personas físicas y morales, organizaciones sociales de producción, y del conjunto de la población, a fin de propiciar el cumplimiento de las políticas y los objetivos establecidos en los programas a que se refiere el presente capítulo.
+El Ejecutivo del Estado, a través de la SECRETARÍA y las autoridades municipales, inducirán las acciones de los particulares, personas físicas y morales, organizaciones sociales de producción, y del conjunto de la población, a fin de propiciar el cumplimiento de las políticas y los objetivos establecidos en los programas a que se refiere el presente capítulo.
 
 ### CAPÍTULO II. DE LOS PLANES DE MANEJO
 
@@ -635,9 +635,9 @@ I. Atendiendo a los sujetos que intervienen en ellos:
 
 a) Privados, los que instrumenten los particulares que conforme a esta Ley y las Normas Oficiales Mexicanas y Normas Ambientales Estatales respectivas se encuentran obligados a la elaboración, formulación e implementación de un plan de manejo de residuos; y
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-b) Mixtos, los que instrumenten los particulares señalados en el inciso anterior con la participación de la SEMAEDESO o de las autoridades municipales, en el ámbito de sus respectivas competencias.
+b) Mixtos, los que instrumenten los particulares señalados en el inciso anterior con la participación de la SECRETARÍA o de las autoridades municipales, en el ámbito de sus respectivas competencias.
 
 II. Considerando la posibilidad de asociación de los sujetos obligados a su formulación y ejecución, podrán ser:
 
@@ -653,23 +653,23 @@ b) Regionales, cuando se apliquen en el territorio de dos o más Municipios del 
 
 c) Estatal, cuando su aplicación sea en el territorio del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO y las autoridades municipales, en su ámbito de competencia, podrán establecer otras disposiciones y modalidades que consideren aplicables por la naturaleza o tipo de residuos objeto de los planes de manejo.
+La SECRETARÍA y las autoridades municipales, en su ámbito de competencia, podrán establecer otras disposiciones y modalidades que consideren aplicables por la naturaleza o tipo de residuos objeto de los planes de manejo.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 30.
 
-Los planes de manejo deberán registrarse ante la SEMAEDESO o ante las autoridades municipales correspondientes, según sea el caso.
+Los planes de manejo deberán registrarse ante la SECRETARÍA o ante las autoridades municipales correspondientes, según sea el caso.
 
-El registro de planes de manejo de residuos de manejo especial estará sujeto a la aprobación de la SEMAEDESO, en la forma, requisitos, procedimientos y términos que establezca el Reglamento de esta Ley y demás disposiciones aplicables.
+El registro de planes de manejo de residuos de manejo especial estará sujeto a la aprobación de la SECRETARÍA, en la forma, requisitos, procedimientos y términos que establezca el Reglamento de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 31.
 
-Para hacer viable y efectivo el principio de valorización y aprovechamiento de residuos sólidos urbanos y de manejo especial, se podrá transmitir la propiedad de los mismos, a título oneroso o gratuito, para ser utilizados como insumo o materia prima en otro proceso productivo y podrán considerarse como subproductos cuando la transmisión de propiedad se encuentre documentada e incluida en el plan de manejo que se haya registrado ante la SEMAEDESO o las autoridades municipales competentes.
+Para hacer viable y efectivo el principio de valorización y aprovechamiento de residuos sólidos urbanos y de manejo especial, se podrá transmitir la propiedad de los mismos, a título oneroso o gratuito, para ser utilizados como insumo o materia prima en otro proceso productivo y podrán considerarse como subproductos cuando la transmisión de propiedad se encuentre documentada e incluida en el plan de manejo que se haya registrado ante la SECRETARÍA o las autoridades municipales competentes.
 
 ### CAPÍTULO III. DERECHO A LA INFORMACIÓN
 
@@ -685,9 +685,9 @@ Las autoridades del Estado y de los Municipios, elaborarán y difundirán inform
 
 ###### Artículo 34.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO y las autoridades municipales, en su respectivo ámbito de competencia, promoverán y fomentarán la participación equitativa de todos los sectores de la sociedad oaxaqueña en la prevención de la generación, la valorización y gestión integral de residuos, para lo cual realizarán lo siguiente:
+La SECRETARÍA y las autoridades municipales, en su respectivo ámbito de competencia, promoverán y fomentarán la participación equitativa de todos los sectores de la sociedad oaxaqueña en la prevención de la generación, la valorización y gestión integral de residuos, para lo cual realizarán lo siguiente:
 
 I. Fomentarán y apoyarán la conformación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas correspondientes, así como para prevenir la contaminación de sitios con materiales y residuos, y llevar a cabo su remediación;
 
@@ -703,9 +703,9 @@ VI. Impulsarán acciones conjuntas con la comunidad para la prevención y gesti�
 
 VII. Integrarán órganos de consulta en los que participen entidades y dependencias de la administración pública federal, estatal y municipal, instituciones académicas, organizaciones sociales y empresariales, y de pueblos y comunidades indígenas, que tendrán funciones de asesoría, evaluación y seguimiento de las políticas y programas de prevención y gestión integral de los residuos.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Dichos órganos de consulta podrán emitir las opiniones y observaciones que estimen pertinentes, las cuales serán consideradas por la SEMAEDESO y las autoridades municipales en las decisiones que adopten en su esfera de competencias (sic).
+Dichos órganos de consulta podrán emitir las opiniones y observaciones que estimen pertinentes, las cuales serán consideradas por la SECRETARÍA y las autoridades municipales en las decisiones que adopten en su esfera de competencias.
 
 La organización y funcionamiento de los órganos de consulta se sujetarán a las disposiciones que para tal efecto se establezcan en el Reglamento de esta Ley;
 
@@ -719,21 +719,21 @@ b) Las acciones de valorización de residuos sólidos urbanos, en los términos 
 
 c) La armonización de sus actividades de prevención, protección, restauración, conservación y vigilancia en materia de residuos, con las disposiciones de esta Ley, su Reglamento y demás ordenamientos que resulten aplicables; y
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-d) La conformación de Comités de Vigilancia de programas y acciones de manejo y gestión integral de residuos sólidos urbanos y de manejo especial, así como de remediación de sitios contaminados, en los que intervengan personal de la SEMAEDESO, autoridades municipales y representantes de pueblos y comunidades indígenas designados por las autoridades comunitarias correspondientes.
+d) La conformación de Comités de Vigilancia de programas y acciones de manejo y gestión integral de residuos sólidos urbanos y de manejo especial, así como de remediación de sitios contaminados, en los que intervengan personal de la SECRETARÍA, autoridades municipales y representantes de pueblos y comunidades indígenas designados por las autoridades comunitarias correspondientes.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-En los mecanismos, instrumentos y acciones que se implementen para la participación de los pueblos y comunidades indígenas, la SEMAEDESO y las autoridades municipales considerarán sus usos y costumbres, y respetarán su autonomía conforme lo establecido en la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+En los mecanismos, instrumentos y acciones que se implementen para la participación de los pueblos y comunidades indígenas, la SECRETARÍA y las autoridades municipales considerarán sus usos y costumbres, y respetarán su autonomía conforme lo establecido en la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
 ### CAPÍTULO V. DE LA CULTURA, EDUCACIÓN Y CAPACITACIÓN
 
 ###### Artículo 35.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO en coordinación con las dependencias competentes de la Administración Pública Estatal, las correspondientes de los Municipios, la SEMARNAT, organizaciones e Instituciones públicas, privadas y sociales, realizará en materia de cultura y educación del manejo y gestión integral de residuos sólidos urbanos y de manejo especial las siguientes acciones:
+La SECRETARÍA en coordinación con las dependencias competentes de la Administración Pública Estatal, las correspondientes de los Municipios, la SEMARNAT, organizaciones e instituciones públicas, privadas y sociales, realizará en materia de cultura y educación del manejo y gestión integral de residuos sólidos urbanos y de manejo especial las siguientes acciones:
 
 I. Realizar campañas permanentes de difusión orientados a promover la participación organizada de toda la sociedad en programas inherentes a la gestión integral de residuos sólidos urbanos y de manejo especial;
 
@@ -751,25 +751,31 @@ VII. Promover los principios en materia de manejo y gestión integral de residuo
 
 VIII. Otras que sean de interés para desarrollar y fortalecer la cultura del manejo y gestión integral de los residuos sólidos urbanos y de manejo especial.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+
 ###### Artículo 36.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+En materia de capacitación, la SECRETARÍA, en coordinación con las autoridades federales, estatales y municipales competentes, así como con los sectores social y privado, realizará las siguientes acciones de manera enunciativa y no limitativa:
 
-En materia de capacitación la SEMAEDESO, en coordinación con las autoridades federales, estatales y municipales competentes en materia de capacitación, así como de los sectores social y privado, realizará las siguientes acciones de manera enunciativa y no limitativa:
+I. Promover la formación y capacitación de técnicos y profesionistas en el manejo de residuos sólidos urbanos y de manejo especial;
 
-I. Promover la formación y capacitación de técnicos y profesionistas del manejo y gestión integral de residuos sólidos urbanos y de manejo especial;
+II. Recomendar la actualización constante de los planes de estudio en carreras relacionadas con el manejo y gestión integral de residuos, tanto en escuelas públicas como privadas.
 
-II. Recomendar la actualización constante de los planes de estudios de carreras relacionadas con el manejo y gestión integral de residuos y afines, que se impartan por escuelas públicas o privadas;
+III. Organizar programas de formación continua y actualización dirigidos a los servidores públicos estatales y municipales relacionados con la gestión de residuos.
 
-III. Organizar programas de formación continua y actualización de los servidores públicos estatales y municipales relacionados con esta materia;
+IV. Apoyar la formación, capacitación y actualización de los prestadores de servicios en materia de gestión integral de residuos.
 
-IV. Apoyar la formación, capacitación y actualización de los prestadores de servicios en materia de gestión integral de residuos;
+V. Impulsar programas de educación y sensibilización dirigidos a la población en general, para el adecuado manejo, separación, valorización y disposición de residuos sólidos urbanos;
 
-V. Impulsar programas de educación y capacitación dirigidos a la población en general, para el adecuado manejo, separación, valorización y disposición de residuos sólidos urbanos;
+VI. Formular programas de becas para la formación y capacitación en materia de manejo y gestión integral de residuos.
 
-VI. Formular programas de becas para la formación y capacitación en materia de manejo y gestión integral de residuos; y
+VII. Promover la competencia laboral y su certificación en el manejo y gestión integral de residuos.
 
-VII. Promover la competencia laboral y su certificación.
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2025)</small>
+
+###### Artículo 36 Bis.
+
+La SECRETARÍA proporcionará asistencia técnica y asesoría continua a los municipios para la correcta implementación de los procesos de separación de residuos sólidos. Esto incluirá la creación de herramientas, manuales o guías específicos para facilitar la labor municipal y el monitoreo de su desempeño.
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS URBANOS
 
@@ -863,9 +869,9 @@ El servicio público de limpia, incluyendo la construcción, operación y manten
 
 Los particulares que realicen la prestación del servicio público de limpia mediante concesión se deberán apegar a lo dispuesto en esta Ley, su Reglamento, las Normas Oficiales Mexicanas, Normas Ambientales Estatales y las disposiciones legales y municipales que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Los Ayuntamientos interesados, en coordinación con la SEMAEDESO, promoverán la atracción de inversión y capacidades del sector privado para la prestación del servicio público de limpia, y particularmente para la instalación, operación, mantenimiento, clausura y postclausura de rellenos sanitarios.
+Los Ayuntamientos interesados, en coordinación con la SECRETARÍA, promoverán la atracción de inversión y capacidades del sector privado para la prestación del servicio público de limpia, y particularmente para la instalación, operación, mantenimiento, clausura y postclausura de rellenos sanitarios.
 
 Los Ayuntamientos podrán celebrar convenios de coordinación para la prestación del servicio público de limpia y el establecimiento de rellenos sanitarios intermunicipales. En dichos convenios se establecerán, entre otros aspectos, la participación de cada Municipio en el financiamiento de las obras, operación y mantenimiento del relleno sanitario, la cantidad y tipo de residuos a disponer, la clausura y postclausura de dichos rellenos, y en su caso, la participación de particulares en la prestación del servicio público de limpia de cada Municipio por la vía de la concesión.
 
@@ -937,17 +943,17 @@ El personal que labore en las estaciones de transferencia y plantas de selecció
 
 ###### Artículo 60.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Las instalaciones de tratamiento térmico autorizadas por la SEMAEDESO deberán cumplir con lo establecido por esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás ordenamientos que resulten aplicables.
+Las instalaciones de tratamiento térmico autorizadas por la SECRETARÍA deberán cumplir con lo establecido por esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás ordenamientos que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Los propietarios y administradores de estas plantas deberán realizar reportes mensuales y enviar dicha información a la SEMAEDESO para su evaluación y control.
+Los propietarios y administradores de estas plantas deberán realizar reportes mensuales y enviar dicha información a la SECRETARÍA para su evaluación y control.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO emitirá la Norma Ambiental Estatal que establezca los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de actividades humanas relacionadas con el tratamiento térmico de los residuos sólidos urbanos.
+La SECRETARÍA emitirá la Norma Ambiental Estatal que establezca los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de actividades humanas relacionadas con el tratamiento térmico de los residuos sólidos urbanos.
 
 Queda restringida la emisión de dioxinas y furanos a la atmósfera que rebasen los límites establecidos en la normatividad federal y estatal aplicable, derivadas de este tipo de tratamientos.
 
@@ -983,11 +989,11 @@ Los rellenos sanitarios que agoten su vida útil se destinarán como parques, ja
 
 Los productores y comercializadores cuyos productos y servicios generen residuos sólidos urbanos establecerán acciones para minimizar la generación de dichos residuos, su manejo responsable, y su reutilización y reciclaje.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 67.
 
-La SEMAEDESO, en coordinación con los Ayuntamientos interesados, instrumentará (sic) programas para la utilización de materiales o subproductos provenientes de los residuos sólidos urbanos, a fin de promover mercados para su aprovechamiento, vinculando a los propios Ayuntamientos, al sector privado, organizaciones sociales y otros agentes económicos.
+La SECRETARÍA, en coordinación con los Ayuntamientos interesados, instrumentará programas para la utilización de materiales o subproductos provenientes de los residuos sólidos urbanos, a fin de promover mercados para su aprovechamiento, vinculando a los propios Ayuntamientos, al sector privado, organizaciones sociales y otros agentes económicos.
 
 ###### Artículo 68.
 
@@ -1013,9 +1019,9 @@ Las dependencias y entidades de los tres Poderes que conforman el Gobierno del E
 
 Las autoridades estatales y municipales, de manera coordinada, fomentarán programas para que los establecimientos de mayoristas, tiendas de departamentos y centros comerciales cuenten con espacios y servicios destinados a la recepción de materiales y subproductos de los residuos sólidos urbanos valorizables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO podrá emitir guías para el adecuado manejo y valorización de residuos que generen los establecimientos, tiendas y centros antes mencionados.
+La SECRETARÍA podrá emitir guías para el adecuado manejo y valorización de residuos que generen los establecimientos, tiendas y centros antes mencionados.
 
 ###### Artículo 70.
 
@@ -1043,11 +1049,11 @@ Los Ayuntamientos por sí o a través de terceros mediante concesión, diseñar�
 
 Los Ayuntamientos procurarán que la composta producida se utilice en la agricultura, parques, jardines, áreas verdes, áreas de valor ambiental, áreas naturales protegidas y otras que requieran ser regeneradas.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 72.
 
-La SEMAEDESO, en coordinación con dependencias estatales y autoridades municipales que operen centros de composteo, promoverá el fomento de mercados para la comercialización del material que resulte del composteo.
+La SECRETARÍA podrá emitir guías para el adecuado manejo y valorización de residuos que generen los establecimientos, tiendas y centros antes mencionados.
 
 ###### Artículo 73.
 
@@ -1063,13 +1069,13 @@ La composta que no pueda ser aprovechada deberá ser enviada a suelos que requie
 
 La responsabilidad del manejo y disposición final de los residuos de manejo especial corresponde a quien los genera.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-En el caso de que se contraten los servicios de manejo y disposición final de residuos de manejo especial por gestores autorizados por la SEMAEDESO, la responsabilidad por las operaciones será de estas últimas, independientemente de la responsabilidad solidaria que tiene el generador.
+En el caso de que se contraten los servicios de manejo y disposición final de residuos de manejo especial por gestores autorizados por la SECRETARÍA, la responsabilidad por las operaciones será de estas últimas, independientemente de la responsabilidad solidaria que tiene el generador.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Los generadores de residuos de manejo especial que transfieran éstos a empresas o gestores que presten los servicios de manejo, deberán cerciorarse que cuentan con las autorizaciones respectivas y vigentes ante la SEMAEDESO, en caso contrario serán responsables de los daños que ocasione su manejo.
+Los generadores de residuos de manejo especial que transfieran éstos a empresas o gestores que presten los servicios de manejo, deberán cerciorarse que cuentan con las autorizaciones respectivas y vigentes ante la SECRETARÍA, en caso contrario serán responsables de los daños que ocasione su manejo.
 
 ###### Artículo 75.
 
@@ -1081,9 +1087,9 @@ En cualquier caso los generadores deberán dejar libres de dichos residuos y de 
 
 Los generadores de residuos de manejo especial tienen las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-l. Registrarse ante la SEMAEDESO y someter a su aprobación el plan de manejo correspondiente, esto último conforme a las Normas Oficiales Mexicanas y Normas Ambientales Estatales; y
+I. Registrarse ante la SECRETARÍA y someter a su aprobación el plan de manejo correspondiente, esto último conforme a las Normas Oficiales Mexicanas y Normas Ambientales Estatales; y
 
 II. Llevar una bitácora y presentar un informe anual acerca de la generación y modalidades de manejo a las que sujetaron sus residuos.
 
@@ -1093,9 +1099,9 @@ En el Reglamento de esta Ley se establecerán el procedimiento, requisitos, cont
 
 ###### Artículo 77.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Requieren autorización de la SEMAEDESO:
+Requieren autorización de la SECRETARÍA:
 
 I. La prestación de servicios de manejo integral de residuos de manejo especial;
 
@@ -1109,13 +1115,13 @@ V. El establecimiento de confinamientos dentro de las instalaciones en las que s
 
 VI. La utilización de tratamientos térmicos de residuos de manejo especial por esterilización o termólisis.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO otorgará las autorizaciones por tiempo determinado y, en su caso, podrán ser prorrogadas o modificadas, siempre que los interesados cumplan con lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables.
+La SECRETARÍA otorgará las autorizaciones por tiempo determinado y, en su caso, podrán ser prorrogadas o modificadas, siempre que los interesados cumplan con lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-El plazo para la resolución de solicitudes de autorización será de 45 días hábiles contados a partir del día siguiente a aquel en que la SEMAEDESO reciba la solicitud.
+El plazo para la resolución de solicitudes de autorización será de 45 días hábiles contados a partir del día siguiente a aquel en que la SECRETARÍA reciba la solicitud.
 
 Las solicitudes no resueltas en este plazo se entenderán en sentido negativo a los intereses de los solicitantes. Esta situación podrá ser impugnada a través del recurso de revisión previsto en la Ley de Justicia Administrativa del Estado o a través de las vías jurisdiccionales correspondientes.
 
@@ -1127,9 +1133,9 @@ Las autorizaciones para el manejo integral de residuos de manejo especial, son i
 
 Son causas de revocación de las autorizaciones las siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-l. Que exista falsedad en la información proporcionada a la SEMAEDESO;
+I. Que exista falsedad en la información proporcionada a la SECRETARÍA;
 
 II. Cuando las actividades de manejo integral de los residuos de manejo especial contravengan la normativa aplicable;
 
@@ -1147,33 +1153,33 @@ El Reglamento de esta Ley establecerá los requisitos, procedimientos, términos
 
 Los residuos de manejo especial deberán separarse conforme a la clasificación establecida en el Artículo 15 de esta Ley, dentro de las instalaciones donde se generen, así como en las plantas de selección y tratamiento, con la finalidad de identificar aquellos que sean susceptibles de valorización.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 82.
 
-Se deberá evitar la mezcla de residuos de manejo especial con otros materiales o residuos para no contaminarlos y provocar reacciones que puedan poner en riesgo la salud, el ambiente o los recursos naturales. La SEMAEDESO establecerá los procedimientos a seguir para determinar la incompatibilidad entre un residuo de manejo especial y otro material o residuo.
+Se deberá evitar la mezcla de residuos de manejo especial con otros materiales o residuos para no contaminarlos y provocar reacciones que puedan poner en riesgo la salud, el ambiente o los recursos naturales. La SECRETARÍA establecerá los procedimientos a seguir para determinar la incompatibilidad entre un residuo de manejo especial y otro material o residuo.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 83.
 
-La SEMAEDESO expedirá Normas Ambientales Estatales para el almacenamiento temporal de residuos de manejo especial, las cuales tendrán como objetivo la prevención de la generación de lixiviados y su infiltración en los suelos, emisión de olores, arrastre de dichos residuos por el agua de lluvia o por el viento, incendios, explosiones y acumulación de vapores tóxicos, fugas o derrames.
+La SECRETARÍA expedirá Normas Ambientales Estatales para el almacenamiento temporal de residuos de manejo especial, las cuales tendrán como objetivo la prevención de la generación de lixiviados y su infiltración en los suelos, emisión de olores, arrastre de dichos residuos por el agua de lluvia o por el viento, incendios, explosiones y acumulación de vapores tóxicos, fugas o derrames.
 
 ###### Artículo 84.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Los generadores que reciclen residuos de manejo especial dentro del mismo predio donde se generaron, deberán presentar ante la SEMAEDESO, con 30 días de anticipación a su reciclaje, un informe técnico que incluya los procedimientos, métodos o técnicas mediante los cuales llevarán a cabo tales procesos, a efecto de que la SEMAEDESO, en su caso, emita las observaciones que procedan.
+Los generadores que reciclen residuos de manejo especial dentro del mismo predio donde se generaron, deberán presentar ante la SECRETARÍA, con 30 días de anticipación a su reciclaje, un informe técnico que incluya los procedimientos, métodos o técnicas mediante los cuales llevarán a cabo tales procesos, a efecto de que la SECRETARÍA, en su caso, emita las observaciones que procedan.
 
 Esta disposición no es aplicable si se trata de procesos que liberen contaminantes al ambiente.
 
 En todo caso, el reciclaje de residuos se deberá desarrollar conforme a las disposiciones legales de impacto ambiental, riesgo, prevención de la contaminación del agua, aire y suelo y otras que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 85.
 
-Quienes realicen procesos de tratamiento físicos, químicos o biológicos de residuos de manejo especial, deberán especificar en los Planes de Manejo que presenten a la SEMAEDESO, los procedimientos, métodos o técnicas mediante los cuales se realizarán estos, conforme a las Normas Oficiales Mexicanas, y demás disposiciones aplicables.
+Quienes realicen procesos de tratamientos físicos, químicos o biológicos de residuos de manejo especial, deberán especificar en los Planes de Manejo que presenten a la SECRETARÍA, los procedimientos, métodos o técnicas mediante los cuales se realizarán estos, conforme a las Normas Oficiales Mexicanas, y demás disposiciones aplicables
 
 ###### Artículo 86.
 
@@ -1187,9 +1193,9 @@ Quienes generen y manejen residuos de manejo especial y requieran de un confinam
 
 ###### Artículo 88.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Las personas físicas o morales interesadas en obtener autorizaciones para llevar a cabo los servicios a terceros para el transporte, acopio, almacenamiento, reutilización, reciclado, tratamiento y disposición final de residuos de manejo especial, según sea el caso, deberán presentar ante la SEMAEDESO su solicitud de autorización, en la que proporcionen, según corresponda, la siguiente información:
+Las personas físicas o morales interesadas en obtener autorizaciones para llevar (sic) cabo los servicios a terceros para el transporte, acopio, almacenamiento, reutilización, reciclado, tratamiento y disposición final de residuos de manejo especial, según sea el caso, deberán presentar ante la SECRETARÍA su solicitud de autorización, en la que proporcionen, según corresponda, la siguiente información:
 
 I. Datos generales: Nombre o razón social, domicilio fiscal, documentación legal que lo acredite, nombre y firma del representante legal de la empresa;
 
@@ -1213,11 +1219,11 @@ IX. Las demás que determine el Reglamento de esta Ley, aplicables a cada tipo d
 
 En el caso de la prestación de servicios relativos a la disposición final de los residuos de manejo especial, la responsabilidad del prestador de servicios se extiende por el término de 20 años posteriores al cierre de sus operaciones.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 90.
 
-La SEMAEDESO podrá emitir guías y lineamientos para facilitar el cumplimiento de requisitos para la obtención de las autorizaciones a que se refiere este capítulo.
+La SECRETARÍA podrá emitir guías y lineamientos para facilitar el cumplimiento de requisitos para la obtención de las autorizaciones a que se refiere este capítulo.
 
 ## TÍTULO SÉPTIMO. RESPONSABILIDAD SOBRE CONTAMINACIÓN Y REMEDIACIÓN DE SITIOS
 
@@ -1229,53 +1235,53 @@ Quienes resulten responsables de la contaminación de un sitio, así como de da�
 
 I. Llevar a cabo las acciones necesarias para restaurar y recuperar las condiciones del suelo; y
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-II. Indemnizar por los daños causados a terceros y/o al ambiente, en la forma y términos que fije la SEMAEDESO conforme al Reglamento de la presente Ley.
+II. Indemnizar por los daños causados a terceros y/o al ambiente, en la forma y términos que fije la SECRETARÍA conforme al Reglamento de la presente Ley.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 92.
 
-Las autoridades municipales deberán presentar, para su autorización, ante la SEMAEDESO, el Plan de Regularización del o los tiraderos a cielo abierto que se encuentren en su jurisdicción, de conformidad con la normatividad aplicable, para su saneamiento y rehabilitación como Relleno Sanitario, o saneamiento y clausura.
+Las autoridades municipales deberán presentar, para su autorización, ante la SECRETARÍA, el Plan de Regularización del o los tiraderos a cielo abierto que se encuentren en su jurisdicción, de conformidad con la normatividad aplicable, para su saneamiento y rehabilitación como Relleno Sanitario, o saneamiento y clausura.
 
 ###### Artículo 93.
 
 Los propietarios o poseedores de predios de dominio privado y los titulares de áreas concesionadas, cuyos suelos resulten contaminados por residuos sólidos urbanos o de manejo especial, serán responsables solidarios de llevar a cabo las acciones de remediación que resulten necesarias, sin perjuicio del derecho a repetir en contra del causante de la contaminación.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-No podrá transmitirse la propiedad de sitios contaminados con residuos sólidos urbanos o de manejo especial, salvo autorización expresa de la SEMAEDESO.
+No podrá transmitirse la propiedad de sitios contaminados con residuos sólidos urbanos o de manejo especial, salvo autorización expresa de la SECRETARÍA.
 
 Las personas que transmitan a terceros los inmuebles que hubieran sido contaminados por dichos residuos, deberán informar dicha situación a quienes les transmitan la propiedad o posesión de dichos bienes.
 
 Con independencia de la remediación, quienes resulten responsables de la contaminación de un sitio con residuos sólidos urbanos o de manejo especial, se harán acreedores a las sanciones penales y administrativas correspondientes.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 94.
 
-Las autoridades municipales, en coordinación con la SEMAEDESO, llevarán a cabo acciones para identificar, inventariar, registrar y categorizar los sitios contaminados con residuos sólidos urbanos y residuos de manejo especial, de conformidad con los criterios que se establezcan en el Reglamento de esta Ley.
+Las autoridades municipales, en coordinación con la SECRETARÍA, llevarán a cabo acciones para identificar, inventariar, registrar y categorizar los sitios contaminados con residuos sólidos urbanos y residuos de manejo especial, de conformidad con los criterios que se establezcan en el Reglamento de esta Ley.
 
-Las autoridades municipales inscribirán en el Registro Público de la Propiedad del Estado los sitios contaminados que se encuentren en su territorio, informando a la SEMAEDESO sobre tales sitios inscrito (sic)
+Las autoridades municipales inscribirán en el Registro Público de la Propiedad del Estado los sitios contaminados que se encuentren en su territorio, informando a la SECRETARÍA sobre tales sitios inscritos.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 95.
 
-Tratándose de contaminación de sitios con residuos sólidos urbanos o de manejo especial, por caso fortuito o fuerza mayor, la SEMAEDESO, en coordinación y apoyo de las autoridades municipales, estatales y federales, impondrán las medidas de emergencia necesarias para hacer frente a la contingencia, a efecto de no poner en riesgo la salud o el medio ambiente.
+Tratándose de contaminación de sitios con residuos sólidos urbanos o de manejo especial, por caso fortuito o fuerza mayor, la SECRETARÍA, en coordinación y apoyo de las autoridades municipales, estatales y federales, impondrán las medidas de emergencia necesarias para hacer frente a la contingencia, a efecto de no poner en riesgo la salud o el medio ambiente.
 
 ###### Artículo 96.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-En el caso de abandono de sitios contaminados con residuos sólidos urbanos o de manejo especial o que se desconozca el propietario o poseedor del inmueble, la SEMAEDESO y los municipios afectados, coordinadamente, podrán formular y ejecutar programas de remediación de sitios contaminados, con el propósito de que se lleven a cabo las acciones necesarias para su recuperación y restablecimiento y, de ser posible, su incorporación a procesos productivos.
+En el caso de abandono de sitios contaminados con residuos sólidos urbanos o de manejo especial o que se desconozca el propietario o poseedor del inmueble, la SECRETARÍA y los municipios afectados, coordinadamente, podrán formular y ejecutar programas de remediación de sitios contaminados, con el propósito de que se lleven a cabo las acciones necesarias para su recuperación y restablecimiento y, de ser posible, su incorporación a procesos productivos.
 
 Las acciones en materia de remediación de estos sitios se llevarán a cabo mediante programas, de conformidad con lo que señale el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO y las autoridades municipales, según sea el caso, están facultados (sic) para hacer que los responsables de sitios abandonados cubran los costos de remediación de dichos sitios.
+La SECRETARÍA y las autoridades municipales, según sea el caso, están facultados (sic) para hacer que los responsables de sitios abandonados cubran los costos de remediación de dichos sitios.
 
 ###### Artículo 97.
 
@@ -1331,35 +1337,35 @@ Quedan exentas de la restricción del párrafo anterior aquellas bolsas que haya
 
 ### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 100.
 
-En materia de residuos sólidos urbanos, la SEMAEDESO y las autoridades municipales establecerán procedimientos de inspección y vigilancia para verificar el cumplimiento de está Ley, en el ámbito de su competencia.
+En materia de residuos sólidos urbanos, la SECRETARÍA y las autoridades municipales establecerán procedimientos de inspección y vigilancia para verificar el cumplimiento de esta Ley, en el ámbito de su competencia.
 
-La SEMAEDESO está facultado (sic) para instaurar procedimientos de inspección y vigilancia a autoridades municipales respecto a su manejo integral de residuos sólidos urbanos.
+La SECRETARÍA está facultada para instaurar procedimientos de inspección y vigilancia a autoridades municipales respecto a su manejo integral de residuos sólidos urbanos.
 
-En materia de residuos de manejo especial, para verificar y comprobar el cumplimiento de esta Ley, la SEMAEDESO, en coordinación con las autoridades municipales, realizará a través de personal autorizado los actos de inspección y vigilancia que consideren necesarios.
+En materia de residuos de manejo especial, para verificar y comprobar el cumplimiento de esta Ley, la SECRETARÍA, en coordinación con las autoridades municipales, realizará a través de personal autorizado los actos de inspección y vigilancia que consideren necesarios.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 101.
 
-Por lo que hace a los requisitos y formalidades a observar en la realización de visitas de inspección y vigilancia por parte de la SEMAEDESO, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo III del Título Sexto de la Ley del Equilibrio Ecológico del Estado, y las relativas y aplicables de la Ley de Justicia Administrativa del Estado.
+Por lo que hace a los requisitos y formalidades a observar en la realización de visitas de inspección y vigilancia por parte de la SECRETARÍA, son aplicables supletoriamente a este Capítulo las disposiciones del Capítulo III del Título Sexto de la Ley del Equilibrio Ecológico del Estado, y las relativas y aplicables de la Ley de Justicia Administrativa del Estado.
 
 ### CAPÍTULO II. MEDIDAS CORRECTIVAS, DE SEGURIDAD O DE URGENTE APLICACIÓN
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 102.
 
-Si de las visitas de inspección se desprenden infracciones a la presente Ley, la SEMAEDESO o la autoridad municipal, en el ámbito de su competencia, requerirá al interesado, cuando proceda, mediante notificación personal para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento
+Si de las visitas de inspección se desprenden infracciones a la presente Ley, la SECRETARÍA o la autoridad municipal, en el ámbito de su competencia, requerirá al interesado, cuando proceda, mediante notificación personal para que adopte de inmediato las medidas correctivas que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundado y motivado el requerimiento.
 
 ###### Artículo 103.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial, la SEMAEDESO, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad o de urgente aplicación:
+En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial, la SECRETARÍA, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad o de urgente aplicación:
 
 I. La clausura temporal parcial o total de las fuentes contaminantes, así como de las instalaciones en que se generen, manejen o dispongan finalmente los residuos de manejo especial;
 
@@ -1371,29 +1377,29 @@ IV. El aseguramiento precautorio de residuos de manejo especial, y demás bienes
 
 V. La estabilización o cualquier acción análoga que impida que los residuos de manejo especial ocasionen efectos adversos a la salud o al medio ambiente.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Asimismo, la SEMAEDESO podrá promover ante autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos, necesaria para evitar efectos adversos a la salud o al medio ambiente.
+Asimismo, la SECRETARÍA podrá promover ante autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos, necesaria para evitar efectos adversos a la salud o al medio ambiente.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 104.
 
-Cuando proceda, la SEMAEDESO podrá ordenar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de estas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas acciones se ordene el retiro de las medidas de seguridad impuestas.
+Cuando proceda, la SECRETARÍA podrá ordenar al interesado las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de estas medidas, así como los plazos para su realización, a fin de que una vez cumplidas estas acciones se ordene el retiro de las medidas de seguridad impuestas.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 105.
 
-Si el interesado se rehúsa a cumplir las acciones para subsanar las irregularidades que motivaron la imposición de la o las medidas de que se trate, la SEMAEDESO las podrá realizar inmediatamente con cargo total al interesado renuente.
+Si el interesado se rehúsa a cumplir las acciones para subsanar las irregularidades que motivaron la imposición de la o las medidas de que se trate, la SECRETARÍA las podrá realizar inmediatamente con cargo total al interesado renuente.
 
-En el caso en que el interesado realice las medidas correctivas, de seguridad o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la SEMAEDESO imponga alguna o algunas de las sanciones establecidas en esta Ley, deberá considerar tal situación como atenuante de la infracción cometida.
+En el caso en que el interesado realice las medidas correctivas, de seguridad o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la SECRETARÍA imponga alguna o algunas de las sanciones establecidas en esta Ley, deberá considerar tal situación como atenuante de la infracción cometida.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 106.
 
-La SEMAEDESO podrá aplicar lo establecido en este Capítulo para el caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos sólidos urbanos, conforme al artículo 10 de esta Ley.
+La SECRETARÍA podrá aplicar lo establecido en este Capítulo para el caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos sólidos urbanos, conforme al artículo 10 de esta Ley.
 
 ## TÍTULO NOVENO. INFRACCIONES Y SANCIONES
 
@@ -1407,25 +1413,25 @@ Son infracciones a lo establecido en esta Ley:
 
 I. Realizar cualquiera de las conductas prohibidas enunciadas en los artículos 68 Bis, 92, 98 y 99, o incumplir lo previsto en el artículo 68 de esta Ley;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-II. Realizar cualquiera de las actividades enunciadas en el artículo 77 sin contar previamente a su realización con la autorización de la SEMAEDESO;
+II. Realizar cualquiera de las actividades enunciadas en el artículo 77 sin contar previamente a su realización con la autorización de la SECRETARÍA;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-III. No presentar y/o registrar el plan de manejo de residuos de manejo especial ante la SEMAEDESO, en los casos previstos en esta Ley y en las Normas Oficiales Mexicanas correspondientes; y
+III. No presentar y/o registrar el plan de manejo de residuos de manejo especial ante la SECRETARÍA, en los casos previstos en esta Ley y en las Normas Oficiales Mexicanas correspondientes; y
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-IV. Incumplir la realización y ejecución de las medidas correctivas, de seguridad o de urgente aplicación ordenadas por la SEMAEDESO.
+IV. Incumplir la realización y ejecución de las medidas correctivas, de seguridad o de urgente aplicación ordenadas por la SECRETARÍA.
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 108.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la SEMAEDESO y/o la autoridad municipal correspondiente en el ámbito de sus competencias, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
+Las infracciones establecidas en el artículo anterior, serán sancionadas administrativamente por la SECRETARÍA y/o la autoridad municipal correspondiente en el ámbito de sus competencias, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
@@ -1439,9 +1445,9 @@ IV. El decomiso de los instrumentos, equipos, maquinaria y cualesquiera otros ob
 
 V. Clausura temporal o definitiva, total o parcial, en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-a) Cuando el infractor no hubiere cumplido con las medidas correctivas, de seguridad o de urgente aplicación, en los plazos y condiciones impuestos por la SEMAEDESO y/o la autoridad municipal correspondiente;
+a) Cuando el infractor no hubiere cumplido con las medidas correctivas, de seguridad o de urgente aplicación, en los plazos y condiciones impuestos por la SECRETARÍA y/o la autoridad municipal correspondiente;
 
 b) Cuando el infractor no hubiere dado cumplimiento a la sanción consistente en la remediación del sitio contaminado; y
 
@@ -1449,15 +1455,15 @@ c) En casos de reincidencia;
 
 VI. Arresto administrativo hasta por treinta y seis horas;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Si una vez vencido el plazo concedido por la SEMAEDESO y/o la autoridad municipal correspondiente, para subsanar la o las infracciones, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato.
+Si una vez vencido el plazo concedido por la SECRETARÍA y/o la autoridad municipal correspondiente, para subsanar la o las infracciones, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato.
 
 ###### Artículo 109.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-En la aplicación de las sanciones administrativas establecidas en el artículo anterior, la SEMAEDESO y/o la autoridad municipal correspondiente, en el ámbito de su competencia, tomarán en consideración lo siguiente:
+En la aplicación de las sanciones administrativas establecidas en el artículo anterior, la SECRETARÍA y/o la autoridad municipal correspondiente, en el ámbito de su competencia, tomarán en consideración lo siguiente:
 
 I. La gravedad de la infracción cometida;
 
@@ -1477,37 +1483,37 @@ VIII. La reincidencia.
 
 Para los efectos de este Capítulo, se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en el periodo de un año contado a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, y siempre que ésta no hubiese sido desvirtuada.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 110.
 
-Cuando la gravedad de la infracción lo amerite, la SEMAEDESO y/o la autoridad municipal correspondiente, solicitará a la autoridad federal, estatal o municipal, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios que haya dado lugar a la infracción.
+Cuando la gravedad de la infracción lo amerite, la SECRETARÍA y/o la autoridad municipal correspondiente, solicitará a la autoridad federal, estatal o municipal, la suspensión, revocación o cancelación de la concesión, permiso, licencia y en general de toda autorización otorgada para la realización de actividades comerciales, industriales o de servicios que haya dado lugar a la infracción.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 111.
 
-Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado por la SEMAEDESO y/o la autoridad municipal correspondiente, para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones de esta Ley aplicables a la realización de inspecciones.
+Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, el personal comisionado por la SECRETARÍA y/o la autoridad municipal correspondiente, para ejecutarla procederá a levantar acta detallada de la diligencia, observando las disposiciones de esta Ley aplicables a la realización de inspecciones.
 
-En los casos en que se imponga como sanción la clausura temporal, la SEMAEDESO y/o la autoridad municipal correspondiente, deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+En los casos en que se imponga como sanción la clausura temporal, la SECRETARÍA y/o la autoridad municipal correspondiente, deberá indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
 ###### Artículo 112.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-La SEMAEDESO y/o la autoridad municipal correspondiente dará a los bienes decomisados alguno de los siguientes destinos:
+La SECRETARÍA y/o la autoridad municipal correspondiente dará a los bienes decomisados alguno de los siguientes destinos:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-l. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la SEMAEDESO y/o la autoridad municipal correspondiente podrá proceder a su venta directa; y
+I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la SECRETARÍA y/o autoridad municipal correspondiente podrá proceder a su venta directa, y
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
 II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5 mil veces la Unidad de Medida de Actualización vigente al momento de imponer la sanción.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-En la determinación del valor de los bienes sujetos a venta o remate, la SEMAEDESO considerará el precio que respecto de dichos bienes corra en el mercado, al momento de realizarse la operación.
+En la determinación del valor de los bienes sujetos a venta o remate, la SECRETARÍA considerará el precio que respecto de dichos bienes corra en el mercado, al momento o de realizarse la operación.
 
 En ningún caso los responsables de la infracción que hubiera dado lugar al decomiso podrán participar ni beneficiarse de la venta o remate de los bienes decomisados.
 
@@ -1517,15 +1523,15 @@ Los ingresos que se obtengan de las multas por infracciones a esta Ley y demás 
 
 I. Un 50% a la integración de un fondo para la remediación de sitios contaminados y/o para la operación del Programa Estatal o Municipales, según corresponda; y
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-II. El 50% restante a la integración de un fondo para el fortalecimiento de la función de inspección y vigilancia que realiza la SEMAEDESO o en su caso la autoridad municipal correspondiente, en las materias de su competencia a que se refiere esta Ley.
+II. El 50% restante a la integración de un fondo para el fortalecimiento de la función de inspección y vigilancia que realiza la SECRETARÍA o en su caso la autoridad municipal correspondiente, en las materias de su competencia a que se refiere esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 114.
 
-La SEMAEDESO podrá aplicar lo dispuesto en el último párrafo del artículo 158 de la Ley del Equilibrio Ecológico del Estado para los efectos de conmutación de penas.
+La SECRETARÍA podrá aplicar lo dispuesto en el último párrafo del artículo 158 de la Ley del Equilibrio Ecológico del Estado para los efectos de conmutación de penas.
 
 ## TÍTULO DÉCIMO. DENUNCIA POPULAR Y RECURSO DE REVISIÓN
 
@@ -1533,17 +1539,17 @@ La SEMAEDESO podrá aplicar lo dispuesto en el último párrafo del artículo 15
 
 ###### Artículo 115.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
 
-Toda persona, grupos sociales, pueblos y comunidades indígenas, organizaciones no gubernamentales; asociaciones y sociedades, podrán denunciar ante la SEMAEDESO o las autoridades municipales competentes, todo hecho, acto u omisión que:
+Toda persona, grupos sociales, pueblos y comunidades indígenas, organizaciones no gubernamentales, asociaciones y sociedades, podrán denunciar ante la SECRETARÍA o las autoridades municipales competentes, todo hecho, acto u omisión que:
 
 I. Produzca o pueda producir desequilibrio ecológico, daños al ambiente o a la salud pública por el manejo indebido de residuos sólidos urbanos o residuos de manejo especial; o
 
 II. Contravenga las disposiciones de la presente Ley, su Reglamento, las demás disposiciones que de ella deriven y las Normas Oficiales Mexicanas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Para estos efectos las personas interesadas deberán presentar denuncia popular de manera verbal o por escrito. Si en la localidad no existiera representación de la SEMAEDESO, la denuncia se podrá formular ante la autoridad municipal correspondiente. Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden estatal, deberá ser remitida a la SEMAEDESO para su atención y trámite respectivos.
+Para estos efectos las personas interesadas deberán presentar denuncia popular de manera verbal o por escrito. Si en la localidad no existiera representación de la SECRETARÍA, la denuncia se podrá formular ante la autoridad municipal correspondiente. Si la denuncia fuera presentada ante la autoridad municipal y resulta del orden estatal, deberá ser remitida a la SECRETARÍA para su atención y trámite respectivos.
 
 ###### Artículo 116.
 
@@ -1551,13 +1557,13 @@ Para el trámite, substanciación y resolución de las denuncias populares prese
 
 ### CAPÍTULO II. DEL RECURSO DE REVISIÓN
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
 ###### Artículo 117.
 
-Las resoluciones definitivas dictadas por la SEMAEDESO o la autoridad municipal, en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y las disposiciones que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o, cuando proceda, intentar la vía jurisdiccional que corresponda.
+Las resoluciones definitivas dictadas por la SECRETARÍA o la autoridad municipal, en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y las disposiciones que de ella deriven, podrán ser impugnadas por los afectados mediante el recurso de revisión, dentro de los quince días siguientes a la fecha de su notificación o, cuando proceda, intentar la vía jurisdiccional que corresponda.
 
-El recurso de revisión se interpondrá directamente ante la Unidad administrativa de la SEMAEDESO o autoridad municipal que haya emitido el acto recurrido la que, en su caso, lo admitirá y determinará el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva. En los casos de que la resolución impugnada haya sido impuesta por la máxima autoridad de la SEMAEDESO o de la autoridad municipal, el recurso será resuelto por dicha autoridad.
+El recurso de revisión se interpondrá directamente ante la Unidad administrativa de la SECRETARÍA o autoridad municipal que haya emitido el acto recurrido la que, en su caso, lo admitirá y determinará el otorgamiento o la denegación de la suspensión del acto recurrido, turnando el recurso a su superior jerárquico para su resolución definitiva. En los casos de que la resolución impugnada haya sido impuesta por la máxima autoridad de la SECRETERÍA (SIC) o de la autoridad municipal, el recurso será resuelto por dicha autoridad.
 
 ###### Artículo 118.
 
@@ -1726,3 +1732,11 @@ P.O. 24 DE FEBRERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 633.- MEDIANTE EL CUAL REFORMA DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 36 BIS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
