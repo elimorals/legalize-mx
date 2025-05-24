@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2025-03-13"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -985,6 +985,10 @@ La formación inicial que imparten las escuelas normales del Estado de Tamaulipa
 
 2.- Con el acuerdo de las autoridades, madres y padres de familia o tutores y la comunidad, en la medida de sus posibilidades, funcionarán como un centro de aprendizaje comunitario, donde además de educar a niñas, niños, adolescentes y jóvenes, se integrará a las familias y a la comunidad para colaborar en grupos de reflexión, de estudio y de información sobre su entorno.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2025)</small>
+
+3.- Conforme a la Ley de Seguridad Escolar, las Brigadas de cada plantel de educación básica, serán las facultadas para promover acciones con el fin de evitar el uso de teléfonos móviles inteligentes en horario escolar por parte del alumnado.
+
 ###### ARTÍCULO 89.
 
 1.- Los muebles e inmuebles destinados a la educación impartida por las autoridades educativas estatal y municipales; y por los particulares con autorización o con reconocimiento de validez oficial de estudios en el Estado de Tamaulipas, así como los servicios e instalaciones necesarios para proporcionar educación, forman parte del Sistema Educativo Estatal.
@@ -1732,3 +1736,15 @@ P.O. 13 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66 – 332 MEDIANTE EL CUAL SE ADICIONA EL NUMERAL 3 AL ARTÍCULO 88 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo improrrogable de 90 días hábiles posteriores al inicio de la vigencia, deberán quedar conformadas las Brigadas en cada centro escolar; y resolverán sobre la prohibición de teléfonos móviles inteligentes, así como los mecanismos de implementación, informándolo a la Autoridad Educativa a más tardar en los 30 días posteriores a su adopción.
