@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2025-05-03"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -1867,7 +1867,9 @@ II. A que la aplicación de las reglas del Servicio de Carrera sea objetiva, jus
 
 III. Desempeñar una carrera conforme a este servicio que se base en el mérito, en la superación constante y a tener estabilidad, conforme a las disposiciones aplicables, en el desempeño de su función;
 
-IV. Desempeñarse en su asignación, contando con condiciones adecuadas y dignas de trabajo y a formarse de manera integral;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+
+IV. Desempeñarse en su asignación, contando con condiciones adecuadas y dignas de trabajo, incluyendo asistencia en materia de salud mental, así como a formarse de manera integral;
 
 V. Contar con una remuneración que corresponda a los servicios prestados a la Fiscalía General;
 
@@ -2800,3 +2802,11 @@ Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto
 ###### ARTÍCULO TERCERO.
 
 Los asuntos competencia de la Dirección de Investigación Patrimonial y Financiera que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán ser atendidos por ésta hasta su conclusión, así mismo, se instruye a las instancias pertinentes, para efecto de llevar a cabo las adecuaciones administrativas correspondientes, las cuales deberán quedar concluidas en un plazo no mayor a 90 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-333 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 70, FRACCIÓN IV, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS Y SE REFORMAN LOS ARTÍCULOS 13, FRACCIONES II Y XXXI; 28, FRACCIÓN XVI; Y 32, PÁRRAFO 1; Y SE ADICIONA LA FRACCIÓN XVII, RECORRIENDO EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 28, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
