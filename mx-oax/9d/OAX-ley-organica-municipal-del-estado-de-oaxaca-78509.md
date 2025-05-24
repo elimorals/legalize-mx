@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2025-04-12"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -365,9 +365,9 @@ En los municipios donde se encuentren asentados pueblos indígenas, los ayuntami
 
 El Ayuntamiento constituye el Órgano de Gobierno del Municipio. Se asentará en la cabecera municipal. Entre el Ayuntamiento y el Gobierno del Estado no habrá autoridad intermedia alguna.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
 
-Entre el Ayuntamiento y el Gobierno del Estado no habrá autoridad intermedia alguna. Se deberán expedir por el Ayuntamiento, en ejercicio de las atribuciones previstas en la fracción I, Apartado A, del artículo 43, el reglamento interior del mismo, el reglamento del Cabildo, los manuales de procedimientos, así como las demás disposiciones legales y administrativas necesarias para su buena organización y funcionamiento.
+El Ayuntamiento deberá aprobar su bando de policía y gobierno, los reglamentos, las circulares y disposiciones administrativas de observancia general dentro de su territorio municipal, que organicen la administración pública municipal, que regulen las materias, procedimientos, funciones y servicios públicos de su competencia, de conformidad con sus atribuciones previstas en la fracción I, apartado A, del artículo 43 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -4718,5 +4718,13 @@ P.O. 12 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 534.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXVI RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE MAYO DE 2025
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 624.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 29 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
