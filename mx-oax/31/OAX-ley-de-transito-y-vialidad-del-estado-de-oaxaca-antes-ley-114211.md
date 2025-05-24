@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2024-08-24"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2025 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -1177,11 +1179,17 @@ Los elementos de la policía víal estatal tendrán la facultad para realizar op
 
 Los Policías Viales Estatales tienen la atribución de solicitar a todo conductor de vehículo, se sometan a la práctica de examen de embriaguez o de antidoping, para determinar si se encuentra bajo efectos producidos por el alcohol, sustancias estupefacientes o psicotrópicas.
 
-Para los operativos de la detección del alcohol, las autoridades competentes en materia de tránsito, se sujetarán a los protocolos emitidos por el Consejo Nacional para la Prevención de Accidentes y el Consejo Estatal para la Prevención de Accidentes.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+
+Para los operativos de la detección del alcohol, las autoridades Estatales y Municipales competentes en materia de tránsito, de manera coordinada, establecerán los procedimientos de seguridad, control y despliegue logístico en puntos estratégicos del Territorio Municipal sujetándose a los protocolos emitidos por el Consejo Nacional para la Prevención de Accidentes y el Consejo Estatal para la Prevención de Accidentes.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 La persona que al conducir cualquier tipo de vehículo en estado de ebriedad será sancionado con arresto de veinticuatro horas, conmutables por actividades de apoyo a la comunidad, mismas que deberá cumplir en un lapso no mayor a treinta días desde la fecha de la infracción. En caso de reincidencia, el arresto será inconmutable y se cancelará la licencia de conducir; independientemente de los delitos que se configuren.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2025)</small>
+
+En caso de que la persona no sea el propietario del vehículo remitido al depósito y el conductor no hubiere dentro de los treinta días posteriores a la imposición de la infracción, cumplida la sanción impuesta en su totalidad, el propietario deberá cubrir una multa de 70 veces la Unidad de Medida y Actualización Vigente, siempre que la unidad no cuente con reporte de robo, para que le sea entregada la unidad.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -1700,3 +1708,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo del Estado y las autoridades municipales contarán con 60 días naturales a partir de la publicación del presente Decreto para adecuar sus reglamentos de tránsito conforme a lo aquí dispuesto.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 634.- MEDIANTE EL CUAL REFORMA EL TERCER PÁRRAFO Y SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 85 DE LA LEY DE TRÁNSITO Y MOVILIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
