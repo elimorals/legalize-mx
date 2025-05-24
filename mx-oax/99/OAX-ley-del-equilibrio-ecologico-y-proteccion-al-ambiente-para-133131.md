@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2025-04-12"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -272,6 +272,10 @@ XV. Regular los sistemas de recolección, transporte, almacenamiento, tratamient
 XVI. Vigilar el cumplimiento y aplicar las sanciones administrativas por violación al presente ordenamiento y disposiciones que de ella emanen, en el ámbito de su competencia y de las atribuciones que le otorga la Ley General y las Normas Oficiales; así como en los casos de desequilibrio ecológico o daño al ambiente en áreas de jurisdicción estatal, cuando rebasen el ámbito de éstas, sin perjuicio de que la Federación ejercite las atribuciones que le competen;
 
 XVII. Formular, coordinar y evaluar programas y acciones en materia de protección y restauración de los sistemas naturales del Estado y sus elementos;
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2025)</small>
+
+Tratándose de aquellos Municipios que se ven afectados por el fenómeno de la gentrificación, la Secretaría, de manera coordinada con aquellos, podrá formular, coordinar y evaluar los programas a que se refiere el párrafo anterior;
 
 XVIII. La formulación, expedición y ejecución de los programas de ordenamiento ecológico del territorio de acuerdo con lo establecido en el artículo 20 Bis 2 de la Ley General y conforme a esta Ley, con la participación de los Municipios y sectores de la sociedad civil;
 
@@ -3338,3 +3342,11 @@ P.O. 12 DE ABRIL DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 631.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XVII DEL ARTÍCULO 6 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
