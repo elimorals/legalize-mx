@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-10-26"
+last_updated: "2025-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 24 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -4485,60 +4485,58 @@ P.O. 26 DE OCTUBRE DE 2023.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 346.- ARTÍCULO PRIMERO. SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO. SE DEROGA EL INCISO Y) DEL INCISO 312) CORRESPONDIENTE AL INCISO 3) DE LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2020.- ARTÍCULO TERCERO. SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO "RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE AGUASCALIENTES".]
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 1° de octubre de 2025.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se abroga la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 de fecha 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto las Magistradas y los Magistrados del Supremo Tribunal de Justicia de Tamaulipas, tomen protesta constitucional de sus cargos ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 1º de octubre de 2025, el Poder Judicial del Estado continuará rigiéndose para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 del 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
 
 ###### ARTÍCULO CUARTO.
 
-En un plazo no mayor a 120 días siguientes a la entrada en vigor del presente Decreto, las Autoridades competentes deberán emitir las adecuaciones normativas necesarias para el cumplimiento del presente Decreto. Hasta en tanto, se aplicará la normativa vigente.
+Hasta en tanto los miembros del Tribunal de Disciplina Judicial tomen protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 1º de octubre de 2025, y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial.
 
 ###### ARTÍCULO QUINTO.
 
-El encargado de llevar los trabajos y operaciones, desde la entrada en vigor del presente Decreto y hasta su extinción, será quien ocupe la titularidad del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, tomando en consideración lo previsto en el ARTÍCULO CUARTO TRANSITORIO del presente Decreto.
+I.- Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de disciplina y control interno.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura del Estado al Tribunal de Disciplina Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+II. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, tanto del Supremo Tribunal de Justicia, como del Consejo de la Judicatura del Estado.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura del Estado al Órgano de Administración Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
 
 ###### ARTÍCULO SEXTO.
 
-Los asuntos administrativos, legales y judiciales, así como los archivos, expedientes, documentos, expedientes en trámite y carpetas del Régimen Estatal de Protección Social en Salud del Estado de Aguascalientes, serán transferidos al Instituto de Servicios de Salud del Estado de Aguascalientes, a través de los acuerdos administrativos de transferencia respectivos, dicho Instituto deberá continuar con la tramitación de los asuntos según corresponda.
+Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor del presente Decreto, en los que se haya emitido el informe o dictamen conclusivo de la etapa de investigación, se substanciarán por el Tribunal de Disciplina Judicial, o el Órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento.
 
 ###### ARTÍCULO SÉPTIMO.
 
-A la entrada en vigencia del presente Decreto se realizarán las siguientes transferencias de personal, de recursos financieros y materiales:
-
-a) Del Instituto de Medio Ambiente a la Secretaría de Medio Ambiente;
-
-b) De la Comisión para el Desarrollo Agropecuario a la Secretaría de Desarrollo Rural y Agroempresarial; y
-
-c) De una Entidad o Dependencia a otra, según proceda.
-
-Los acuerdos y convenios celebrados con el Gobierno Federal, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado las respectivas Entidades y Dependencias extintas, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+Los procedimientos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial y sus órganos auxiliares, o en su caso por el Órgano de Administración Judicial, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el propio Tribunal.
 
 ###### ARTÍCULO OCTAVO.
 
-Las obligaciones laborales de cada Entidad o Dependencia que se extinga o desaparezca, serán asumidas por la respectiva Dependencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones aplicables.
-
-Los derechos laborales de los trabajadores de base del Instituto de Servicios de Salud del Estado de Aguascalientes, así como su afiliación al Sindicato que les corresponda en su ámbito laboral, serán garantizados atendiendo a lo establecido en la Ley de Salud del Estado de Aguascalientes y en el Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría de Salud, según corresponda.
-
-En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Oficialía Mayor y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+En todo lo no previsto en el presente Decreto, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura del Estado mediante acuerdo general.
 
 ###### ARTÍCULO NOVENO.
 
-Las transferencias del personal y recursos materiales y financieros a que se refieren los artículos que anteceden, serán coordinadas y vigiladas por la Secretaría de Finanzas, la de Fiscalización y Rendición de Cuentas y por la Oficialía Mayor, y deberán concluir a más tardar en el mes de noviembre del 2011.
-
-Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura orgánica, programática y financiera, a los calendarios financieros y de metas, así como por las de recursos humanos y de activos patrimoniales· según correspondan.
-
-Las Secretarías de Finanzas, la de Fiscalización y Rendición de Cuentas y la Oficialía Mayor, con la participación de las Dependencias y Entidades correspondientes, al concluir dichos traspasos deberán rendir el informe respectivo a la Legislatura del Estado, para su sanción.
-
-El Titular del Poder Ejecutivo, publicará en el Periódico Oficial del Estado la conclusión del proceso de transferencia de cada una de las Dependencias y Entidades respectivas.
+Los Acuerdos Generales emitidos por el Consejo de la Judicatura del Estado continuarán vigentes en todo lo que no se oponga a la presente Ley hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
 
 ###### ARTÍCULO DÉCIMO.
 
-Cuando esté siendo sustanciado un asunto competencia de alguna Dependencia o Entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por otra u otras, deberán transferirse los expedientes en trámite y el archivo a la nueva Dependencia o Entidad la cual deberá concluir dichos asuntos y dictar la resolución correspondiente.
-
-Los asuntos que con motivo de este Decreto deban pasar de una Dependencia o Entidad a otra, permanecerán en el último trámite que hubieren alcanzado, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
-
-En relación a los expedientes, asuntos, procedimientos y recursos instaurados en la Contraloría General del Estado, que serán asumidos por la Secretaría de Fiscalización y Rendición de Cuentas, ésta publicará en el Periódico Oficial del Estado el Acuerdo de Inicio de Funciones, que hará las veces de notificación de que dicha Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
+Hasta en tanto se crean los juzgados especializados en materia mercantil, seguirán conociendo de los juicios de esta materia las y los jueces civiles y menores, atendiendo a la cuantía del negocio, con excepción de los asuntos de oralidad mercantil, cuya competencia corresponde en exclusiva a los Jueces de Primera Instancia en materia Civil.
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
-El Titular del Poder Ejecutivo del Estado deberá expedir los reglamentos interiores de las Dependencias de nueva creación a que se refiere el presente ordenamiento, así como adecuar los de las Dependencias cuyas atribuciones se reforman o modifican, dentro del plazo de 60 días naturales, contados a partir de la entrada en vigencia del presente Decreto. Entre tanto, se aplicarán los reglamentos que han regido en lo que no contravengan al presente Decreto, quedando facultado el Jefe de Gabinete para resolver las cuestiones de competencia reglamentaria que al efecto se presenten.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 382.- ÚNICO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 83 OCTIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
