@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2025-02-12"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -267,7 +267,9 @@ Son atribuciones del Secretario:
 
 I.- Desarrollar las políticas de seguridad pública y proponer en el ámbito estatal los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Gobernador del Estado;
 
-II.- Diseñar y ejecutar programas para fomentar la cultura de legalidad;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+
+II.- Diseñar y ejecutar programas para fomentar la cultura de legalidad y el respeto a los derechos humanos;
 
 III.- Proponer al Gobernador del Estado las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
 
@@ -329,7 +331,9 @@ XXIX.- Evaluar el cumplimiento del Programa Estatal de Seguridad Pública y los 
 
 XXX.- Informar oportunamente al Gobernador del Estado sobre los avances y resultados del Programa Estatal de Seguridad Pública y demás acciones emprendidas, en materia de seguridad pública;
 
-XXXI.- Aprobar las normas y políticas relacionadas con el desarrollo del personal que interviene en funciones de seguridad pública;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+
+XXXI.- Aprobar las normas y políticas relacionadas con el desarrollo del personal que interviene en funciones de seguridad pública, entre las que se encontrarán las encaminadas al mejoramiento de las condiciones laborales de los integrantes, su constante capacitación, profesionalización, así como promover su bienestar físico y mental;
 
 XXXII.- Administrar el porte colectivo estatal de armas y suscribir las credenciales para tal efecto, a los Integrantes, en los términos de la presente Ley;
 
@@ -831,7 +835,15 @@ XV.- Llevar a cabo las funciones y obligaciones establecidas en el Código Nacio
 
 XVI.- Otorgar y garantizar la protección y auxilio, en todo momento, a las víctimas del delito y de violaciones de derechos humanos; y
 
-XVII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+
+XVI.- Otorgar y garantizar la protección y auxilio, en todo momento, a las víctimas del delito y de violaciones a derechos humanos;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2025)</small>
+
+XVII.- Promover la mejora en las condiciones laborales de los Integrantes, incluyendo el cuidado de su salud mental; y
+
+XVIII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 29.
 
@@ -893,7 +905,9 @@ Son requisitos de ingreso a las instituciones policiales los establecidos en el 
 
 ###### ARTÍCULO 32.
 
-1.- Los Integrantes recibirán capacitación permanente, a fin de que cuenten con los atributos necesarios para cumplir con los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+
+1.- Los integrantes recibirán capacitación permanente, a fin de que cuenten con los atributos necesarios para cumplir con los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos, reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que México sea parte.
 
 2.- En sus programas las dependencias establecerán los instrumentos de formación policial que fomenten estos principios y velarán por su estricto cumplimiento.
 
@@ -2676,3 +2690,11 @@ En un plazo no mayor a noventa días naturales contados a partir de la publicaci
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-333 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE ATENCIÓN A LA SALUD MENTAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
