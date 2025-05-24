@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2023-07-29"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -3429,7 +3429,9 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-SEGUNDO.- La Secretaria deberá aplicar el CAPÍTULO X del TÍTULO QUINTO de la Ley de Movilidad para el Estado de Oaxaca, para regularizar los expedientes administrativos de los títulos de concesiones otorgados durante los ejercicios fiscales 2014, 2015 y 2016, mismos que estuvieron sujetos a un procedimiento de auditoría por parte de la Secretaría de la Contraloría y Transparencia Gubernamental, contando con el plazo a partir de la entrada en vigor de la presente hasta el plazo que establece el párrafo cuarto del artículo 108 de la Ley.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+
+SEGUNDO.- La Secretaría deberá seguir aplicando el CAPÍTULO X DEL TÍTULO QUINTO de la Ley de Movilidad para el Estado de Oaxaca, para regularizar los expedientes administrativos de los Títulos de concesiones otorgados mediante los ejercicios fiscales 2014, 2015 y 2016, mismos que estuvieron sujetos a un procedimiento de auditoría por parte de la entonces Secretaria de la Contraloría y Transparencia Gubernamental, contando con el plazo a partir de la entrada en vigor de la presente hasta su conclusión total.
 
 TERCERO.- Los sistemas informáticos a los cuales se refieren en el CAPÍTULO X del TÍTULO QUINTO de la Ley, son aquellos que reconozca la Ley y su Reglamento, el Reglamento Interno de la Secretaría de Movilidad y el Manual de Procedimientos de la Secretaría de Movilidad.
 
@@ -3514,3 +3516,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 635.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 2866 PUBLICADO EL 20 DE NOVIEMBRE DE 2021”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
