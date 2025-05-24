@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-procuraduria-de-proteccion-al-ambiente-del-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-16"
-last_updated: "2021-08-24"
+last_updated: "2025-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de junio de 2018.
 
@@ -59,17 +59,39 @@ II. Fomentar una participación decidida, informada y responsable de la sociedad
 
 III. Promover el acceso a la información ambiental para la toma de decisiones, procurando poner a disposición de la población, información oportuna y objetiva para mejorar la toma de decisiones en materia de justicia ambiental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 3.
 
-En el cumplimiento de sus objetivos, la Procuraduría de Protección al Ambiente del Estado de Oaxaca, deberá buscar siempre la alta calidad administrativa, para lo cual se regirá por los siguientes principios:
+En el cumplimiento de sus objetivos, la Procuraduría de Protección al Ambiente del Estado de Oaxaca, deberá buscar siempre la alta calidad administrativa y jurídica, para lo cual se regirá por los siguientes principios:
 
 I. Eficacia y eficiencia de sus actuaciones;
 
 II. Responsabilidad y evaluación con base en la satisfacción ciudadana;
 
-III. Rendición de cuentas y transparencia; e
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-IV. Imparcialidad.
+III. Rendición de cuentas y transparencia;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
+
+IV. Imparcialidad;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2025)</small>
+
+V. De precaución;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2025)</small>
+
+VI. In dubio pro natura;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2025)</small>
+
+VII. De participación ciudadana; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2025)</small>
+
+VIII. De no regresión.
 
 ### Capítulo II. Del domicilio y catálogo de definiciones
 
@@ -417,9 +439,11 @@ Cuando no sea posible proporcionar el apoyo a los informes solicitados por la Pr
 
 ### Capítulo Único. Del Procedimiento Administrativo
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 32.
 
-Los procedimientos jurídicos y administrativos que inicie la Procuraduría se regirán por los principios de economía, legalidad, transparencia, derechos humanos, imparcialidad y demás previstos en la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.
+Los procedimientos jurídicos y administrativos que inicie la Procuraduría se regirán por los principios de economía, legalidad, transparencia, derechos humanos, imparcialidad, medioambientales y demás previstos en la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca, y otras leyes aplicables en la materia.
 
 ###### ARTÍCULO 33.
 
@@ -474,3 +498,11 @@ P.O. 24 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 632.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES III Y IV DEL ARTÍCULO 3 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 32; Y SE ADICIONA LAS FRACCIONES V, VI, VIII Y VIII AL ARTÍCULO 3 DE LA LEY QUE CREA LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
