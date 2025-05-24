@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2023-10-26"
+last_updated: "2025-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 24 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -4484,3 +4484,57 @@ P.O. 26 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 1° de octubre de 2025.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se abroga la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 de fecha 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto las Magistradas y los Magistrados del Supremo Tribunal de Justicia de Tamaulipas, tomen protesta constitucional de sus cargos ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 1º de octubre de 2025, el Poder Judicial del Estado continuará rigiéndose para todos los efectos por las atribuciones, competencias, obligaciones, reglas de votación, faltas, licencias y demás disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado, expedida mediante Decreto No. 361 del 13 de diciembre del 2000 y publicada en el Anexo al Periódico Oficial No. 135 del 19 de diciembre del 2000.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto los miembros del Tribunal de Disciplina Judicial tomen protesta de su encargo ante el Congreso del Estado Libre y Soberano de Tamaulipas, el 1º de octubre de 2025, y hasta en tanto sea creado el Órgano de Administración Judicial y sus integrantes inicien funciones con esa misma fecha, el Consejo de la Judicatura del Estado continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial.
+
+###### ARTÍCULO QUINTO.
+
+I.- Al Tribunal de Disciplina Judicial le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de disciplina y control interno.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura del Estado al Tribunal de Disciplina Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+II. Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, tanto del Supremo Tribunal de Justicia, como del Consejo de la Judicatura del Estado.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura del Estado al Órgano de Administración Judicial, estos serán respetados en todo momento, de conformidad con lo dispuesto en las leyes laborales y demás disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor del presente Decreto, en los que se haya emitido el informe o dictamen conclusivo de la etapa de investigación, se substanciarán por el Tribunal de Disciplina Judicial, o el Órgano de Administración Judicial, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial y sus órganos auxiliares, o en su caso por el Órgano de Administración Judicial, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el propio Tribunal.
+
+###### ARTÍCULO OCTAVO.
+
+En todo lo no previsto en el presente Decreto, el Pleno del Tribunal de Disciplina Judicial regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura del Estado mediante acuerdo general.
+
+###### ARTÍCULO NOVENO.
+
+Los Acuerdos Generales emitidos por el Consejo de la Judicatura del Estado continuarán vigentes en todo lo que no se oponga a la presente Ley hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial emitan sus propios Acuerdos.
+
+###### ARTÍCULO DÉCIMO.
+
+Hasta en tanto se crean los juzgados especializados en materia mercantil, seguirán conociendo de los juicios de esta materia las y los jueces civiles y menores, atendiendo a la cuantía del negocio, con excepción de los asuntos de oralidad mercantil, cuya competencia corresponde en exclusiva a los Jueces de Primera Instancia en materia Civil.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
