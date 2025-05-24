@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2025-02-20"
+last_updated: "2025-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -3591,9 +3591,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación, sin p
 
 SEGUNDO.- Las y los titulares de Magistratura y juzgados, que exclusivamente y con motivo de la entrada en vigor del "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial", publicado en el Diario Oficial de la Federación, el 15 de septiembre de 2024, y la propia del Estado de Chihuahua, deban retirarse del cargo antes de concluir el periodo por el que fueron designados, por declinar o manifestar que no es su deseo participar en el proceso de elección, podrán, con cargo al Presupuesto de Egresos del Poder Judicial del Estado, por única ocasión y antes del 25 de febrero del año 2025:
 
-I.- Solicitar una pensión o jubilación que establece la Ley de Pensiones Civiles del Estado de Chihuahua y demás leyes aplicables, si cumplen con los requisitos que las mismas establecen, finiquitándose su relación laboral con las prestaciones laborales proporcionales que les correspondan, según sea el caso.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2025)</small>
 
-Las y los juzgadores que se encuentren disfrutando de las prestaciones previstas en los párrafos segundo y tercero del artículo 29, vigente al momento de la presente reforma, no se verán afectados por la entrada en vigor de este Decreto.
+I.- Solicitar una pensión o jubilación que establece la Ley de Pensiones Civiles del Estado de Chihuahua y demás leyes aplicables, si cumplen con los requisitos que las mismas establecen, finiquitándose su relación laboral con las prestaciones laborales que les correspondan, según sea el caso. Además, las y los titulares de Magistratura y juzgados de primera instancia que se encuentren en el supuesto antes indicado accederán, a manera de pensión complementaria, al cincuenta por ciento de la compensación que percibían como activos hasta su fallecimiento, la cual tendrá un incremento anual conforme al Índice Nacional de Precios al Consumidor que determine el Instituto Nacional de Estadística y Geografía (INEGI).
+
+Las y los juzgadores, o sus beneficiarios, que se encuentren disfrutando de una pensión o jubilación, así como aquellos que a más tardar el 31 de agosto de 2025 reúnan los requisitos para obtenerla, podrán gozar de los beneficios contenidos en los artículos 29 y 30 en su texto vigente antes de la presente reforma; los cuales no se verán afectados por la entrada en vigor de este Decreto. Sin embargo, podrán acogerse a los beneficios que este les otorgue.
 
 II.- Las personas juzgadoras titulares que no puedan acceder a una pensión o jubilación, en los términos de la Ley de Pensiones Civiles del Estado de Chihuahua; al pago de un finiquito por el importe equivalente a tres meses de sueldo base y demás prestaciones laborales ordinarias, así como a un porcentaje de la compensación mensual que recibían como activos al momento de la entrada en vigor de la presente reforma, a la fecha de su baja en el cargo, si su antigüedad laboral es igual o mayor a los 10 años de servicio en el Poder Judicial del Estado, se realizará conforme a la siguiente tabla:
 
@@ -3652,3 +3654,13 @@ TERCERO.- El pago de las prestaciones que, de manera complementaria a las pensio
 CUARTO.- Se amplía el plazo establecido en el Artículo Cuarto Transitorio de la Ley Electoral Reglamentaria de los artículos 99, 100, 101, 102 y 103 de la Constitución para Elegir Personas Juzgadoras del Estado de Chihuahua, al 27 de febrero de 2025 para que el Consejo de la Judicatura envíe al Congreso del Estado, el listado que contenga los nombres de las personas en funciones en el cargo que desean contender, las personas que declinan su participación o participan por otro cargo distinto, ya sea en el Poder Judicial Estatal o Federal.
 
 Las personas juzgadoras que decidan acogerse a los beneficios contenidos en la presente reforma, deberán hacerlo del conocimiento del Consejo de la Judicatura, a más tardar el 25 de febrero de 2025.
+
+P.O. 24 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFDEC/0234/2025 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO, FRACCIÓN I, DEL DECRETO N° LXVIII/RFLEY/0189/2025 III P.E.”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO.- Las Magistradas, Magistrados, Juezas y Jueces de primera instancia, que cumplan con los requisitos que establece la Ley de Pensiones Civiles del Estado de Chihuahua para acceder a una pensión o jubilación, ya sea que se encuentren en proceso de retiro o que presenten su solicitud de pensión o jubilación antes del primero de septiembre de 2025, serán acreedores a los beneficios del presente Decreto, con independencia de la fecha en que hayan presentado su solicitud.
+
+TERCERO.- Las pensiones y jubilaciones que reciban las personas integrantes del Poder Judicial del Estado o sus beneficiarios familiares, ya en retiro o que se otorguen en los términos del Decreto No. LXVIII/RFLEY/0189/2025 III P.E. y del presente, constituyen derechos adquiridos y, en consecuencia, no podrán ser afectadas por ninguna resolución o disposición normativa que se expida con posterioridad a su otorgamiento.
