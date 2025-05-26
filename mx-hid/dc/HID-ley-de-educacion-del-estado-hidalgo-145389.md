@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-04-07"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -578,6 +578,10 @@ La Secretaría y las autoridades educativas municipales respetarán el régimen 
 En el Estado de Hidalgo se reconoce el derecho de toda persona a gozar de los beneficios del desarrollo científico, humanístico, tecnológico y de la innovación, considerados como elementos fundamentales de la educación y la cultura.
 
 La Secretaría y la Autoridad Educativa Municipal, en el ámbito de su competencia, promoverán el desarrollo tecnológico, la innovación, el emprendimiento, la vinculación y divulgación de la investigación científica para el beneficio social y el desarrollo de las actividades productivas del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Con el fin de reducir la brecha de género, la Secretaría y la Autoridad Educativa Municipal, con el apoyo del Consejo de Ciencia, Tecnología e Innovación de Hidalgo, en el ámbito de sus respectivas atribuciones impulsarán la creación de programas para incentivar y apoyar la incorporación de niñas, adolescentes y mujeres jóvenes en las ciencias, la tecnología, las ingenierías y las matemáticas.
 
 ###### Artículo 44.
 
@@ -2578,3 +2582,9 @@ P.O. 7 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN INCLUSIVA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 234 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE NIÑAS, ADOLESCENTES Y JÓVENES MUJERES EN LAS CIENCIAS, LA TECNOLOGÍA, LAS INGENIERÍAS Y LAS MATEMÁTICAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
