@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-04-11"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -243,9 +243,9 @@ III. Impulsar la vinculación interinstitucional en el marco de la Comisión de 
 
 IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal; y
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
+V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de inclusión financiera que contribuya a cerrar la brecha de participación de las mujeres en el sistema financiero, así como en la toma de decisiones y en la vida social, deportiva, cultural y civil.
 
 ###### Artículo 12.
 
@@ -294,6 +294,10 @@ La Política que desarrolle el Ejecutivo Estatal deberá considerar los siguient
 I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
 
 II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+II Bis. Promover la inclusión financiera con perspectiva de género, mediante el impulso de programas, proyectos y acciones que incrementen el financiamiento económico, conocimiento y uso de la tecnología para propiciar la autonomía económica de las mujeres.
 
 III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
 
@@ -1016,3 +1020,9 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 222 – LXVI POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 239 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN FINANCIERA EN FAVOR DE LAS MUJERES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
