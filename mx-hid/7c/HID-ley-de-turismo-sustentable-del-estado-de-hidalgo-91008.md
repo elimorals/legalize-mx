@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2025-01-28"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -529,9 +529,9 @@ IV.- Elaborar, aplicar y evaluar, con la participación de la Secretaría, el Pr
 
 V.- Atender los asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley, u otros ordenamientos legales en concordancia con ella;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-VI. Constituir el Consejo Municipal de Turismo, garantizando el principio de paridad de género, el cual deberá sesionar cada trimestre.
+VI.- Constituir el Consejo Municipal; el cual tendrá como objetivo coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística del municipio. Será presidido por la presidenta o el presidente municipal, y estará integrado por la persona titular de la dirección de Turismo o quien tenga a su cargo acciones relacionadas con la actividad turística, así como por las personas representantes de las demás autoridades que la Presidencia determine, procurando el principio de paridad de género en su conformación. El Consejo deberá sesionar cada trimestre.
 
 VII.- Consensuar con los sectores privado y social, acciones tendientes a detonar programas en el sector con el impulso de las micro, pequeñas y medianas empresas turísticas;
 
@@ -1512,3 +1512,9 @@ P.O. 28 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 187 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN Y PARTICIPACIÓN ACTIVA DE PERSONAS ADULTAS MAYORES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 238 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE CONSEJOS CONSULTIVOS MUNICIPALES DE TURISMO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
