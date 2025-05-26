@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-175471"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2025-03-31"
+last_updated: "2025-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en la Décima Segunda Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
@@ -58,6 +58,16 @@ Para los efectos de esta Ley, la Unidad de Medida y Actualización, es el valor 
 Salvo disposición expresa prevista en la presente Ley de Ingresos, los montos en ella contenidos se entenderán en moneda nacional.
 
 Los valores de los actos o actividades previstos en la presente Ley, no incluyen el Impuesto al Valor Agregado, así como cualquier otra contribución que se cause con motivo de su realización; excepto aquellos casos que indique de manera específica que si lo incluyen.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+###### Artículo 1º Bis.
+
+El Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá establecer mecanismos que permitan a los contribuyentes realizar, de manera voluntaria y expresa, aportaciones económicas destinadas al sostenimiento de instituciones de asistencia o beneficencia pública de carácter público o privado, así como con fundaciones sin fines de lucro que promuevan la salud pública, la protección de la niñez así como de las personas adultas mayores y el bienestar de las personas con discapacidad, al momento de efectuar el pago de contribuciones, derechos, productos o aprovechamientos.
+
+Las aportaciones que se realicen en estos términos no se considerarán ingresos públicos, no generarán contraprestación alguna ni darán lugar a obligaciones fiscales para el contribuyente. Los recursos recabados serán transferidos de manera íntegra a la institución destinataria, conforme a los convenios que se celebren para tal efecto.
+
+La participación del contribuyente será totalmente libre e informada, y en los términos establecidos en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados. Su negativa a realizar la aportación no tendrá consecuencia alguna ni condicionará el cumplimiento de sus obligaciones fiscales.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -14140,3 +14150,11 @@ P.O. 31 DE MARZO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181.- SE REFORMAN LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO 2025; Y, LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Secretaría de Finanzas del Estado de Aguascalientes deberá realizar las adecuaciones correspondientes a su Reglamento Interior en un término no mayor a 90 días naturales, a fin de establecer entre las facultades del titular de la dependencia la posibilidad de celebrar convenios con instituciones de asistencia o beneficencia pública o privada, así como con fundaciones sin fines de lucro que promuevan la salud pública, la protección de la niñez y el bienestar de las personas con discapacidad, para que puedan recibir donaciones voluntarias por parte de los contribuyentes a través de las cajas recaudadoras y cuentas bancarias de la propia Secretaría.
