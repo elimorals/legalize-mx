@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2024-05-17"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -923,6 +923,10 @@ La Comisión orientará y apoyará a los quejosos sobre el contenido de la queja
 
 Adicionalmente, estarán a disposición de los quejosos formularios que faciliten el trámite.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Las personas quejosas o denunciantes podrán designar asesores o asesoras jurídicos ante la Comisión, a quienes podrán facultar para el efecto de que tengan acceso al expediente de queja o denuncia y para recibir notificaciones relacionadas con el asunto.
+
 ###### Artículo 68.
 
 La Comisión registrará las denuncias y las quejas que se presenten, expidiendo un acuse de recibo.
@@ -951,7 +955,13 @@ La Comisión garantizará la confidencialidad de las investigaciones, de las que
 
 Únicamente de manera excepcional y justificada, decidirá si proporciona o no a autoridades o personas distintas a los denunciantes dicha información.
 
-Los denunciantes o quejosos, con el objeto de facilitar la mejor defensa de sus intereses, tienen derecho a que la Comisión les proporcione la información que obre en el expediente en el momento en que lo deseen.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Las personas quejosas o denunciantes tienen derecho a acceder o recibir información del expediente respectivo, por sí mismas o a través de quien les represente o asesore jurídicamente; para ello no se requiere mayor formalidad que solicitarlo verbalmente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Las personas quejosas o denunciantes pueden obtener copias del expediente en el momento en que lo soliciten. La Comisión solo podrá negar la expedición de las copias solicitadas por razones de interés público, las cuales deberá precisar y motivar en el acuerdo respectivo.
 
 ###### Artículo 73.
 
@@ -1662,3 +1672,11 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 905 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240.- LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS HUMANOS DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LAS PERSONAS QUEJOSAS O DENUNCIANTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
