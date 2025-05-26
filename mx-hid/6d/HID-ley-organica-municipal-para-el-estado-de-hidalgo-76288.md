@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-02-27"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -390,6 +390,10 @@ ARTÍCULO 25 BIS.- Los municipios, en el ejercicio de sus atribuciones en materi
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 Además, deberán promover políticas públicas con un enfoque integral que atienda las diversas formas de migración considerando las causas estructurales y sus impactos.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+ARTÍCULO 25 TER.- Los municipios que tengan alta o muy alta intensidad migratoria procurarán contar con una dependencia encargada de los asuntos relacionados con la población migrante en su territorio; la cual tendrá a su cargo: la promoción de los derechos de esta población; el fomento de acciones para mantener la unidad familiar o la reunificación de las personas migrantes hidalguenses con sus familias; la coordinación con las autoridades estatales y federales en materia migratoria; la ejecución de las atribuciones previstas para los municipios en las leyes aplicables en la materia, y las demás que se establezcan en el reglamento respectivo.
 
 ### CAPÍTULO TERCERO. DE LA TRANSPARENCIA MUNICIPAL
 
@@ -1801,13 +1805,17 @@ o).- De Desarrollo Agropecuario;
 
 o BIS).- De agua potable, drenaje, alcantarillado, tratamiento y disposición y saneamiento de aguas residuales;
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
 
-p).- De Transparencia y Acceso a la Información Pública; y
+p).- De Transparencia y Acceso a la Información Pública;
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
 
-q).- De Mejora Regulatoria.
+q).- De Mejora Regulatoria, y
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+r).- De atención a Migrantes.
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -5184,3 +5192,9 @@ P.O. 27 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 202–LXVI POR EL QUE SE ADICIONA UN INCISO KK) A LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO AL DEPORTE Y LA CULTURA FÍSICA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 233 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE LOS DERECHOS DE PERSONAS MIGRANTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
