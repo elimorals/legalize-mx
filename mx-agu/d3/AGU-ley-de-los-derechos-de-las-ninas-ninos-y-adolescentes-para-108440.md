@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-05-19"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE MAYO DE 2025 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE MAYO DE 2025.]</small>
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -395,7 +395,9 @@ VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
 IX. Derecho a la protección de la salud y a la seguridad social;
 
-X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
+(REFORMADA, P.O. 19 DE MAYO DE 2025) (F. DE E., P.O. 26 DE MAYO DE 2025)
+
+X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad física, mental, intelectual y/o visual;
 
 XI. Derecho a la educación;
 
@@ -1113,9 +1115,9 @@ Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel pos
 
 I. Reducir la morbilidad y mortalidad;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+(REFORMADA, P.O. 19 DE MAYO DE 2025) (F. DE E., P.O. 26 DE MAYO DE 2025)
 
-II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria y en aquellos casos de niñas, niños y adolescentes con discapacidad;
+II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria y en aquellos casos de Niñas, Niños y Adolescentes con discapacidad;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -1823,7 +1825,9 @@ Las autoridades del Estado de Aguascalientes y de sus Municipios, deberán prove
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
-III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+
+III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo, proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo, y en su caso, dar seguimiento y acompañamiento a los procesos de violencia escolar que les conciernan, en términos de la Ley para Prevenir, Atender y Erradicar la Violencia Escolar en el Estado de Aguascalientes;
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos, atendiendo al interés superior;
 
@@ -1857,9 +1861,9 @@ XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, 
 
 XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida de las niñas, niños y adolescentes.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-XIV. Responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes por la omisión en su deber de cuidado, en términos del Artículo 1793 del Código Civil;
+XIV. En el caso de quienes ejercen la patria potestad, tutela, guarda y custodia, responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes, incluidos aquellos derivados de actos que causen un daño moral. Lo anterior por la omisión en su deber de cuidado, en términos de los artículos 1790, 1793 y 1796 del Código Civil;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
@@ -3512,3 +3516,15 @@ P.O. 19 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará si (sic) vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178.- SE REFORMAN EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; Y, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
