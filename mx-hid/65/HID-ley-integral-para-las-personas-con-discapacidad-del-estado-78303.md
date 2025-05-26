@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-06-18"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -623,7 +623,9 @@ Las personas con discapacidad que tengan como apoyo para realización de sus act
 
 Las Dependencias, Entidades Públicas y los municipios, para prestar sus servicios están obligados a garantizar la accesibilidad de las personas con discapacidad.
 
-Asimismo, deberán diseñar mecanismos efectivos para brindarles un trato preferencial, así como para facilitarles información.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Asimismo, deberán diseñar mecanismos efectivos, apoyados en el uso de tecnologías de la información, para brindarles un trato preferencial, así como para facilitarles información de manera clara y accesible.
 
 ###### Artículo 59.
 
@@ -1312,3 +1314,9 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 987 POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD EN EL (SIC) ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 58 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO, EN MATERIA DE USO DE TECNOLÓGICAS DE LA INFORMACIÓN EN BENEFICIO DE LA POBLACIÓN CON DISCAPACIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
