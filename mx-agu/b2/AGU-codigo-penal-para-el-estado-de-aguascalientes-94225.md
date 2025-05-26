@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-05-19"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2323,25 +2323,31 @@ XIII. Practicar un procedimiento médico quirúrgico de especialidad sin contar 
 
 Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión; tratándose de los supuestos descritos por las fracciones VIII a la XIII, la pena de prisión incrementará hasta dos terceras partes en sus mínimos y máximos, imponiéndose una multa de 100 a 300 días, el pago total de la reparación de los daños y perjuicios ocasionados y de 1 a 5 años de inhabilitación para ejercer su profesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 158.
 
-Responsabilidad médica asistencial. La Responsabilidad Médica Asistencial se cometerá por directores, encargados o administradores de cualquier centro de salud, cuando prestado un servicio médico:
+Responsabilidad médica asistencial. La Responsabilidad Médica Asistencial se cometerá por directores, encargados o administradores de cualquier centro de salud, cuando:
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-I. Impidan la salida del paciente o retengan sin necesidad a un recién nacido, cuando aquél o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
+I. Habiendo prestado un servicio médico, impidan la salida del paciente o retengan sin necesidad a un recién nacido, cuando aquél o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-II. Retarden o nieguen por cualquier motivo la entrega de un cadáver a sus deudos, excepto cuando se requiera orden de autoridad competente para el efecto;
+II. Habiendo prestado un servicio médico, retarden o nieguen por cualquier motivo la entrega de un cadáver a sus deudos, excepto cuando se requiera orden de autoridad competente para el efecto;
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-III. Nieguen o restrinjan el acceso al hospital o centro de salud, a una mujer embarazada, cuando haya riesgo de afectación a su salud o integridad física, así como del producto de la concepción; o
+III. Nieguen o restrinjan el acceso al hospital o centro de salud, a una mujer embarazada, cuando haya riesgo de afectación a su salud o integridad física, así como del producto de la concepción;
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-IV. Proporcionen sin causa justificada un lugar inapropiado a la mujer embarazada para realizarle el parto.
+IV. Proporcionen sin causa justificada un lugar inapropiado a la mujer embarazada para realizarle el parto; o
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+V. Nieguen o restrinjan el acceso a un hospital o centro de salud a cualquier persona cuya vida se encuentre en riesgo, sin que le procure el acceso a atención médica de emergencia prehospitalaria poniendo al paciente fuera de peligro para su traslado a otra institución de salud.
 
 Así mismo, se considerará como Responsabilidad Médica Asistencial, el surtir una receta los encargados, empleados o dependientes de una farmacia, sustituyendo la medicina específicamente señalada por otra que cause daño a la salud del paciente, o sea evidentemente inapropiada al padecimiento para el que se prescribió.
 
@@ -4480,3 +4486,15 @@ P.O. 19 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 180.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
