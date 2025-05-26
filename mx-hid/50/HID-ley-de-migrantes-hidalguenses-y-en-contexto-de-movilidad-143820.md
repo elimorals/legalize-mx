@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2024-05-30"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -567,6 +567,18 @@ Para la aprobación de una obra pública o proyecto productivo con la participac
 
 Para la aprobación de proyectos productivos, se priorizarán aquellos de personas repatriadas, los proyectos con aportación de remesas y los presentados por familiares de migrantes fallecidos en el extranjero.
 
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+###### Artículo 25 Bis.
+
+La Secretaría, en coordinación con los municipios, tendrá las siguientes atribuciones en materia de personas hidalguenses repatriadas:
+
+I. Garantizar un trato seguro y digno, con respeto irrestricto a sus derechos humanos;
+
+II. Promover el acceso a sus derechos básicos, y
+
+III. Coadyuvar con las autoridades estatales y federales en actividades relacionadas con la materia migratoria.
+
 ### CAPÍTULO III. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
 ###### Artículo 26.
@@ -790,3 +802,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 942 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 243.– LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE TRATO DIGNO A LAS PERSONAS HIDALGUENSES REPATRIADAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
