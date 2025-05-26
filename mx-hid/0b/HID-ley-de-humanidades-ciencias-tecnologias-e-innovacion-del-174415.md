@@ -4,7 +4,7 @@ identifier: "HID-ley-de-humanidades-ciencias-tecnologias-e-innovacion-del-174415
 country: "mx"
 rank: "ley"
 publication_date: "2024-09-17"
-last_updated: "2024-09-17"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Alcance Uno del Número 38 del Periódico Oficial del Estado de Hidalgo, el martes 17 de septiembre de 2024.
 
@@ -502,6 +502,10 @@ Las Universidades e Instituciones de Educación Superior en el Estado promoverá
 Artículo 37 (sic).- Las autoridades educativas del Estado de Hidalgo, deben promover el mejoramiento continuo de las prácticas de enseñanza y de aprendizaje en todos los tipos educativos sobre la base del progreso científico y tecnológico, incluyendo la capacitación permanente de educadores, la actualización de los planes y programas de estudio y el acceso a tecnologías adecuadas para la educación, incluidas aquellas tecnologías que se basan en el aprendizaje a partir de datos capaces de crear contenido nuevo desde un conjunto de reglas y patrones previamente establecidos. De igual manera, promoverán el diseño y aplicación de métodos y programas para la enseñanza de las humanidades, las ciencias, las tecnologías y la innovación en todos los tipos, niveles, modalidades y opciones educativas, en particular para la educación básica.
 
 Asimismo, el Consejo Estatal, en coordinación con las autoridades educativas del Estado de Hidalgo, apoyará la creación de programas de difusión para impulsar la participación y el interés de la sociedad, docentes y padres de familia en el fomento de las humanidades, las ciencias, las tecnologías y la innovación, las vocaciones científicas y tecnológicas desde la educación básica y la consolidación de espacios de divulgación para niñas, niños, adolescentes y jóvenes, así como para personas adultas mayores y grupos sociales en situación de vulnerabilidad, procurando una distribución geográfica e institucional equitativa en el territorio estatal que garantice la observancia del principio constitucional de igualdad y no discriminación.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Con el fin de reducir la brecha de género, el Consejo Estatal y las autoridades educativas fomentarán e impulsarán la creación de programas para incentivar y apoyar la incorporación de niñas, adolescentes y mujeres jóvenes en las ciencias, la tecnología, las ingenierías y las matemáticas.
 
 ###### Artículo 38.
 
@@ -986,3 +990,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JULIO RAMÓN MENCHACA SALAZAR RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 234 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE NIÑAS, ADOLESCENTES Y JÓVENES MUJERES EN LAS CIENCIAS, LA TECNOLOGÍA, LAS INGENIERÍAS Y LAS MATEMÁTICAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
