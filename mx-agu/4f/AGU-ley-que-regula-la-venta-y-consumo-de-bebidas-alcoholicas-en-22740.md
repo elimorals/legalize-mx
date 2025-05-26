@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-regula-la-venta-y-consumo-de-bebidas-alcoholicas-en-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2024-06-24"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 26 de noviembre de 2001.
 
@@ -275,9 +275,11 @@ II.- Los que en forma expresa determine el Ayuntamiento por acuerdo de cabildo o
 
 Queda prohibido instalar establecimientos cuyo giro sea la venta o consumo de bebidas alcohólicas en bienes del dominio público de la Federación, del Estado o del Municipio o edificios de la beneficencia pública, a excepción de aquellos dedicados a espectáculos, eventos culturales o centros de recreación, donde conforme su naturaleza lo autorice el Ayuntamiento respectivo, indicando las modalidades y limitaciones que considere necesarios para esas actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 24.
 
-Para el caso de nuevos establecimientos que se encuentren comprendidos en la Fracción I del Artículo 11 de esta Ley, no se otorgará licencia si se encuentran situados a una distancia menor de ciento cincuenta metros a la redonda de escuelas, hospitales, templos, cuarteles, centros de prevención o readaptación social y hospicios o que se encuentren adyacentes o frente a este tipo de establecimientos o fábricas en que presten sus servicios trabajadores.
+Para el caso de nuevos establecimientos que se encuentren comprendidos en la fracción I del Artículo 11 de esta Ley, no se otorgará licencia si se encuentran situados a una distancia menor de ciento cincuenta metros a la redonda de escuelas, hospitales, templos, cuarteles, centros de atención de adicciones, centros de reinserción social y hospicios o que se encuentren adyacentes o frente a este tipo de establecimientos o fábricas en que presten sus servicios trabajadores.
 
 Los nuevos establecimientos referidos en la Fracción I del Artículo 11 de esta Ley, no deberán situarse a una distancia menor de ciento cincuenta metros uno de otro, a excepción de aquéllos que se establezcan en zonas que el Cabildo determine como turísticas, las que deberán precisar en sus límites.
 
@@ -648,3 +650,11 @@ El presente decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos tendrán un término de 180 días naturales contados a partir del inicio de vigencia de este Decreto para aprobar la reglamentación y expedir el protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 184.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 24 DE LA LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
