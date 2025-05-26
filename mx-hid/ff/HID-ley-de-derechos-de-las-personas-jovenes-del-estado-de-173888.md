@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-de-las-personas-jovenes-del-estado-de-173888"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-15"
-last_updated: "2025-04-11"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Número 29 Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2024.
 
@@ -703,9 +703,17 @@ VI. Igualdad de género;
 
 VII. Participación e inclusión de las personas de las personas (sic) con discapacidad;
 
-VIII. Participación e inclusión de las personas de la diversidad sexual; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-IX. Protección a las culturas originarias.
+VIII. Participación e inclusión de las personas de la diversidad sexual;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+
+IX. Protección a las culturas originarias, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+X. Aportación a la cultura política y la democracia.
 
 ## TÍTULO TERCERO. DEL INSTITUTO HIDALGUENSE DE LA JUVENTUD Y LAS INSTANCIAS MUNICIPALES
 
@@ -940,5 +948,11 @@ RÚBRICA
 P.O. 11 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 223 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN DE LAS PERSONAS JÓVENES CON DISCAPACIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 241 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 80 DE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE RECONOCIMIENTO A SUS APORTACIONES A LA CULTURA POLÍTICA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
