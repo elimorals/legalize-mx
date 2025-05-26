@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2024-05-13"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -1789,9 +1789,9 @@ En los asuntos relacionados con faltas administrativas graves o faltas de partic
 
 La autoridad substanciadora deberá observar lo dispuesto en las Fracciones I a VII del Artículo anterior, luego de lo cual procederá conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la autoridad substanciadora deberá, bajo su responsabilidad, enviar a la Sala los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio del Tribunal de Justicia Administrativa;
+I. A más tardar dentro de los tres días hábiles siguientes de haber concluido la audiencia inicial, la autoridad substanciadora deberá, bajo su responsabilidad, enviar al Tribunal de Justicia Administrativa, los autos originales del expediente, así como notificar a las partes de la fecha de su envío, indicando el domicilio de dicho Tribunal;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MAYO DE 2024)</small>
 
@@ -2432,3 +2432,9 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 179.- SE REFORMAN LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; Y, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
