@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2025-04-07"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -49,7 +49,9 @@ SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primer
 
 Por lo que, en mérito de lo expuesto; y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR El SIGUIENTE:
 
@@ -269,7 +271,7 @@ Tienen derecho a la asistencia social las personas y familias que por sus condic
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE JULIO DE 2018)</small>
 
-I. Las niñas, niños y adolescentes, que se encuentren en situación de vulnerabilidad, en especial aquellas que se encuentren en situación de riesgo o afectados por:
+I.- Las niñas, niños y adolescentes, que se encuentren en situación de vulnerabilidad, en especial aquellas que se encuentren en situación de riesgo o afectados por:
 
 a. Desnutrición;
 
@@ -363,7 +365,9 @@ e.- Padres en situación de vulnerabilidad.
 
 IV.- Indígenas, indígenas migrantes, desplazados o en situación vulnerable;
 
-V.- Migrantes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+
+V.- Personas migrantes y personas repatriadas;
 
 VI.- Adultos mayores que se encuentren en abandono, maltrato, abuso o en situación de vulnerabilidad;
 
@@ -1133,9 +1137,15 @@ II.- Celebrará convenios para la coordinación de acciones de asistencia social
 
 III.- Promoverá, con base en el principio de la corresponsabilidad, la organización y participación de la comunidad en los programas y proyectos en materia de asistencia social en beneficio de los sujetos materia de esta Ley;
 
-IV.- Promoverá que el sector privado destine recursos financieros o en especie en beneficio de los programas y proyectos en materia de asistencia social; y
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-V.- Las demás que coadyuven a cumplir con su objetivo de asistencia social.
+IV. Promoverá que el sector privado destine recursos financieros o en especie en beneficio de los programas y proyectos en materia de asistencia social;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+V. Promoverá, en términos de la legislación aplicable, la adquisición de productos con proveedores que garanticen la cadena de distribución en los programas de alimentación y alimentación escolar, con productos regionales de calidad, sobre todo aquellos que por naturaleza sean perecederos, y
+
+VI. Las demás que coadyuven a cumplir con su objetivo de asistencia social.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
 
@@ -1694,5 +1704,17 @@ P.O. 9 DE ENERO DE 2025.
 P.O. 7 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 220 - LXVI POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 7 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE NIÑAS, NIÑOS Y ADOLESCENTES COMO SUJETOS DE ASISTENCIA SOCIAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 237 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 40 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROGRAMAS DE ALIMENTACIÓN Y ALIMENTACIÓN ESCOLAR".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE TRATO DIGNO A LAS PERSONAS HIDALGUENSES REPATRIADAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
