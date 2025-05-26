@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-04-11"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1753,17 +1753,17 @@ Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Te
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 8 Bis de la Constitución Política del Estado de Hidalgo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
 
 ###### Artículo 100 Bis 2.
 
-Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, a una vida libre de violencia y a la integridad personal, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, procurarán a las niñas, niños y adolescentes su derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, a una vida libre de violencia y a la integridad personal, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
 
 ###### Artículo 100 Bis 3.
 
-En concordancia con el Derecho a la Educación, las autoridades competentes deberán establecer mecanismos para fomentar que niñas, niños y adolescentes, hagan uso responsable y seguro de las tecnologías de información y comunicación y el uso del internet, previniendo el ciberacoso y todas las formas de violencia digital.
+En concordancia con el Derecho a la Educación, las autoridades estatales y municipales establecerán mecanismos para fomentar que niñas, niños y adolescentes hagan uso responsable y seguro de las tecnologías de información y comunicación y el uso del internet, previniendo el ciberacoso y todas las formas de violencia digital, a través de la promoción de políticas de prevención, protección, atención y sanción del ciberacoso y de todas las formas de violencia digital que causen daño a su intimidad, privacidad, seguridad o dignidad.
 
 > <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -3044,3 +3044,9 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 224 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE DERECHO A LA MOVILIDAD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 232 - LXVI POR EL QUE SE REFORMAN LOS ARTÍCULOS 100 BIS 2 Y 100 BIS 3 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCESO SEGURO AL INTERNET Y A LAS TECNOLOGÍAS DE LA INFORMACIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
