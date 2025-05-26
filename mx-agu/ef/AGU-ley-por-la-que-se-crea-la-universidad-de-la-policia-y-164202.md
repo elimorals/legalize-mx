@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-universidad-de-la-policia-y-164202"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-03"
-last_updated: "2024-05-13"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -657,7 +657,9 @@ La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el inf
 
 I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la Universidad y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
 
-II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al (sic) Universidad, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos a la Universidad, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
 III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
 
@@ -675,9 +677,13 @@ IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de 
 
 X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-XII. abilitar (sic) días y horas inhábiles para la práctica de diligencias;
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
 
 XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
 
@@ -701,7 +707,9 @@ I. Admitir el informe de presunta responsabilidad administrativa, emitido por la
 
 Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la Universidad.
 
-Tratándose de faltas graves y faltas de particulares vinculados (sic) con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+
+Tratándose de faltas graves y faltas de particulares vinculados por faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente al Tribunal de Justicia Administrativa del Estado de Aguascalientes, para la continuación del procedimiento administrativo y su resolución.
 
 En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
 
@@ -711,7 +719,9 @@ III. Presentar denuncias o querellas en asuntos de competencia del Órgano Inter
 
 IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
 
-V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
 VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
 
@@ -942,3 +952,9 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 179.- SE REFORMAN LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; Y, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
