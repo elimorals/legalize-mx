@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-universidad-de-la-policia-y-164202"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-03"
-last_updated: "2024-05-13"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,29 @@ state: "AGU"
 ---
 # LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICIA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
+LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
 
-Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
-MARÍA TERESA JIMÉNEZ ESQUIVEL, Gobernadora Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
 
-La LXV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente:
+Que la Honorable Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
 
-Decreto Número 293
+Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+
+La Honorable Quincuagésima Octava Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracción I de la Constitución Política del Estado: 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
+
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+LEY NÚMERO 58
+
+ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+## TÍTULO PRIMERO
 
 ###### ARTÍCULO PRIMERO.
 
@@ -47,699 +57,1947 @@ Se expide la Ley por la que se crea la Universidad de la Policía y Ciencias de 
 
 LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-### CAPÍTULO I. Naturaleza Jurídica, Fines y Atribuciones
+### CAPÍTULO ÚNICO. Disposiciones generales
 
-###### Artículo 1°.
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-Se crea la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, como un Organismo Público Descentralizado de la Administración Pública Paraestatal, con domicilio en el estado de Aguascalientes y con personalidad jurídica y patrimonio propios, dotada de plena capacidad técnica- jurídica y que tendrá por objeto legal, la selección y preparación profesional de los integrantes y aspirantes a formar parte de las instituciones de seguridad pública del Estado y de procuración de justicia, en coordinación con cada una de las instituciones de seguridad pública y procuración de justicia, en estricto apego a los programas rectores de profesionalización establecidos en concordancia con la Ley General del Sistema Nacional de Seguridad Pública; así como las funciones de impartir educación superior, realizar investigación aplicada y difusión del conocimiento, y prestar servicios relacionados con las áreas de las ciencias de la seguridad y la procuración de justicia.
+###### Artículo 1.
 
-###### Artículo 2°.
+La presente Ley es de observancia general para la Administración Pública del Estado de Veracruz de Ignacio de la Llave y tiene por objeto establecer las bases de la organización y funcionamiento de las dependencias centralizadas y entidades paraestatales en que se divide.
 
-La Universidad, contará con las facultades y atribuciones que se establecen en el presente Decreto y en el Reglamento Interior que al efecto se expida, asumiendo las funciones, modalidades y oferta educativa en materia de formación Inicial, capacitación continua, ejerciendo las atribuciones señaladas en el artículo 47 de la Ley General del Sistema Nacional de Seguridad Pública y las señaladas en materia de profesionalización en la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-###### Artículo 3°.
+###### Artículo 2.
 
-El lenguaje empleado en la presente Ley no busca generar discriminación alguna, por lo que las referencias o alusiones hechas en su contenido deberán entenderse en un sentido incluyente y con perspectiva de género.
+Las Secretarías del Despacho, la Procuraduría General de Justicia, la Contraloría General y la Coordinación General de Comunicación Social integran la Administración Pública Centralizada.
 
-###### Artículo 4°.
+###### Artículo 3.
 
-Para los efectos de esta Ley se entiende por:
+Los organismos descentralizados, las empresas de participación estatal, los fideicomisos, las comisiones, los comités, los consejos, las juntas y demás organismos auxiliares integran la Administración Pública Paraestatal.
 
-I. Consejo Académico: El Órgano de consulta del Rector;
+###### Artículo 4.
 
-II. Junta; La Junta de Gobierno de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes;
+La Administración Pública del Estado deberá conducir sus actividades conforme a las políticas, prioridades y restricciones que, para el logro de los objetivos y metas del Plan Veracruzano de Desarrollo y programas de gobierno, establezca el Gobernador del Estado directamente o a través de sus dependencias y entidades, las que se sujetarán a la planeación estatal y presupuestación, bajo criterios de racionalidad y disciplina fiscal, así como a la contabilidad, evaluación, información periódica, auditoría interna y control de gestión que dispongan las leyes de la materia.
 
-III. Planes y Programas de Estudio: El conjunto de asignaturas estructuradas de forma curricular y secuenciadas cronológicamente, que tienen por objeto integrar conocimientos, habilidades y aptitudes relacionadas con la oferta académica de Técnico Superior Universitario, Licenciatura, Especialidad, Maestría y Doctorado, así como programas de continuidad de estudio para sus egresados y de otras Instituciones de Educación Superior;
+###### Artículo 5.
 
-IV. Programa Rector: El conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las instituciones policiales e instituciones de procuración de justicia;
+Las dependencias y entidades de la Administración Pública se organizarán internamente en órganos jerárquicamente subordinados y estarán obligadas a coordinar entre sí sus actividades y a proporcionarse mutua ayuda, cooperación y asesoría.
 
-V. Reglamento Interior: El Reglamento Interior de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes; y
+### CAPÍTULO I. Del Ejecutivo del Estado
 
-VI. Universidad: La Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes.
+###### Artículo 6.
 
-###### Artículo 5°.
+Los titulares de las dependencias centralizadas y entidades paraestatales:
 
-La Universidad, tendrá las siguientes funciones:
+I. Rendirán, antes de tomar posesión de su cargo, la protesta de ley bajo la siguiente fórmula: para recibir la protesta, el Gobernador, o quien éste designe, dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de nuestro Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de... que el Estado os ha conferido?". El interrogado contestará: "Sí, protesto". Acto seguido, la misma autoridad que toma la protesta dirá: "Si no lo hiciereis así, que la Nación y el Estado os lo demanden";
 
-I. Impartir cursos de formación, actualización y especialización en coordinación con el Instituto de Educación de Aguascalientes e Instituciones de Educación Superior para el desarrollo del personal de las Instituciones de Seguridad Pública y de Empresas de Seguridad Privada;
+II. Al tomar posesión de su cargo y al concluirlo, levantarán inventarios de los bienes que reciban o de los que entreguen, según sea el caso, debiendo registrarlos ante la Secretaría de Finanzas y Planeación, e informar de ello a la Contraloría General. No podrán aceptar ni desempeñar dos o más cargos de carácter remunerado del Estado, de éste y la Federación, o del Estado y el Municipio, salvo previa autorización del Congreso o la Diputación Permanente. Quedan exceptuados de esta disposición, los empleos del ramo de la enseñanza, las consejerías o representaciones ante órganos colegiados y los de carácter honorífico en asociaciones científicas, literarias o de beneficencia;
 
-II. Ofrecer Educación Superior, a través de los Programas Académicos de Técnico Superior Universitario, Licenciatura, Especialidad, Maestría y Doctorado, así como Programas de Continuidad de Estudio para sus egresados y de otras Instituciones de Educación Superior; y realizar investigación aplicada, difundir el conocimiento y prestar servicios en las áreas relacionadas con las ciencias de la seguridad y la procuración de justicia;
+III. Comparecerán ante el Congreso, a convocatoria expresa de éste, por conducto del Gobernador, para dar cuenta del estado que guarda la dependencia o entidad a su cargo, así como cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo o actividad;
 
-III. Certificar y capacitar al personal de las empresas de seguridad privada en el Estado;
+IV. Serán responsables de la posesión, vigilancia y conservación de los bienes de propiedad estatal que administren, así como de la correcta aplicación de los recursos que les sean asignados y no podrán hacer pago alguno que no esté previsto en el presupuesto autorizado o determinado en las leyes de la materia. Los servidores públicos que administren fondos y valores del Estado caucionarán debidamente su manejo; y
 
-IV. Expedir certificados y otorgar constancias, diplomas, títulos o grados académicos a las personas que hayan concluido los estudios correspondientes, los cuales tendrán validez en toda la República, de conformidad con lo establecido en la Ley General de Educación Superior;
+V. Serán responsables por el incumplimiento de las obligaciones que les impongan esta ley y demás leyes del Estado, conforme a los supuestos y consecuencias previstos en el régimen de responsabilidades de los servidores públicos.
 
-V. Ofrecer Formación Inicial, a través del curso de formación requerido para la incorporación de aspirantes a la carrera policial y de procuración de justicia, de acuerdo a los lineamientos del programa rector;
+#### SECCIÓN PRIMERA. De los subsecretarios
 
-VI. Impartir formación continua correspondiente a la actualización, especialización y alta dirección a los integrantes de las instituciones que conforman los sistemas de seguridad y justicia, con base al programa rector de profesionalización;
+###### Artículo 7.
 
-VII. Fomentar una cultura de prevención del delito a través de las diferentes dependencias de los tres niveles de gobierno, que tengan funciones de seguridad pública o educativas y vinculándose con organizaciones sociales;
+Para ser titular de cualesquiera de las dependencias o entidades de la Administración Pública del Estado se requiere:
 
-VIII. Establecer los procedimientos y requisitos de selección, ingreso y permanencia del alumnado, así como de acreditación y certificación de estudios, con sujeción a los lineamientos establecidos por la Universidad y la normatividad de Educación Superior aplicable;
+I. Ser veracruzano, en términos de lo dispuesto por el artículo 11 de la Constitución Política del Estado;
 
-IX. Promover el intercambio y la movilidad estudiantil a través de la revalidación o la declaración de estudios equivalentes, en apego a las disposiciones de la autoridad educativa competente;
+II. Contar con título profesional expedido por autoridad o institución legalmente facultada para ello;
 
-X. Desarrollar en el alumno el conocimiento, las habilidades y aptitudes que le permitan aplicar conocimientos científicos y técnicos; y conducirse con ética y profesionalismo;
+III. Tener un modo honesto de vivir; y
 
-XI. Realizar Estudios y Proyectos que promuevan la investigación científica y el desarrollo tecnológico, y se traduzcan en aportaciones concretas que contribuyan a la profesionalización e innovación de las Instituciones de Seguridad y de Justicia;
+IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-XII. Promover y suscribir convenios con Organizaciones e Instituciones afines de los diversos sectores social, Público y privado tanto nacionales como extranjeras, para el intercambio y la cooperación en programas y proyectos de beneficio institucional;
+Para ser titular de la Procuraduría General de Justicia se estará a lo dispuesto por los artículos 50 y 53 de la Constitución Política del Estado.
 
-XIII. Coordinarse con la Academia Nacional de Seguridad Pública, las Academias Regionales y Estatales, para implementar actividades académicas dirigidas al personal de las diferentes áreas de especialidades de seguridad pública del Estado de Aguascalientes y los demás Estados de la República;
+## TÍTULO SEGUNDO
 
-XIV. Administrar su patrimonio con apego a las disposiciones legales aplicables; y
+###### Artículo 8.
 
-XV. Llevar a cabo los demás actos jurídicos, académicos y administrativos, necesarios para el cumplimiento de su objeto.
+El Titular del Poder Ejecutivo, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, podrá:
 
-### CAPÍTULO II. De los Órganos de Gobierno
+I. Autorizar la creación o supresión de los órganos que requieran las dependencias centralizadas y nombrar o remover libremente a sus titulares; así como designar a los prestadores de servicios de apoyo técnico o asesoría que para el mejor desempeño de sus funciones requiera el Gobernador del Estado;
 
-###### Artículo 6°.
+II. Expedir los reglamentos interiores, decretos y acuerdos que tengan por objeto regular el funcionamiento de las dependencias del Ejecutivo. Los reglamentos interiores detallarán las atribuciones que, conforme a esta ley, se otorgan a las diversas dependencias y su distribución entre los órganos que las componen; asimismo, establecerán la forma en que sus titulares podrán ser suplidos en sus ausencias;
 
-La Universidad contará con los siguientes Órganos de Gobierno y administración:
+III. Crear comisiones intersecretariales para la realización de programas en que deban intervenir varias dependencias o entidades; así como ordenar cuáles de éstas deberán coordinar sus acciones para la atención urgente o prioritaria de asuntos de interés social;
 
-I. Junta de Gobierno; y
+IV. Crear, conforme a las bases que establece esta Ley y demás legislación aplicable, las entidades paraestatales y los órganos desconcentrados que requiera la Administración Pública;
 
-II. Rectoría
+V. Agrupar las entidades paraestatales por sectores definidos, conforme a la esfera de competencia de las Secretarías del Despacho;
 
-#### Sección Primera. De la Junta de Gobierno
+VI. Ordenar la realización de auditorías, revisiones y evaluaciones a las dependencias centralizadas y entidades paraestatales, y designar a los titulares de sus respectivos órganos de control interno y vigilancia;
 
-###### Artículo 7°.
+VII. Autorizar, por escrito, conforme a lo dispuesto por esta ley y demás leyes del Estado, a los titulares de las dependencias y entidades de la Administración Pública a celebrar acuerdos y convenios en el ámbito de su competencia;
 
-La Junta es el órgano de gobierno de la Universidad y se integra de la siguiente forma:
+VIII. Recurrir, excepcionalmente y previa autorización del Congreso, al endeudamiento directo para destinarlo a inversiones públicas o cubrir un déficit imprevisto en la Hacienda, en términos de lo dispuesto por la Constitución Política del Estado, esta ley y las leyes de la materia;
 
-I. La persona titular del Poder Ejecutivo del Estado quien presidirá y podrá ser suplido por la persona servidora pública que designe;
+IX. Determinar conforme a lo dispuesto por la Constitución y leyes federales, así como por la Constitución y leyes estatales, los casos de expropiación, ocupación temporal y limitación de dominio;
 
-II. La persona titular de la Secretaría General de Gobierno;
+X. Designar a quien lo represente en las controversias a que se refiere la fracción I del artículo 105 de la Constitución Federal, y en los demás juicios en que intervenga con cualquier carácter; así como a quien lo represente ante el Congreso del Estado, para efectos de lo previsto en los artículos 35 fracción III y 36, ambos de la Constitución Política del Estado;
 
-III. La persona titular de la Secretaría de Seguridad Pública del Estado de Aguascalientes;
+XI. Ordenar, en términos de lo dispuesto por el artículo 51 de la Constitución Política del Estado, la comparecencia de los titulares de las dependencias y entidades de la Administración Pública ante el Congreso, para dar cuenta del estado que guardan las mismas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades;
 
-IV. La persona titular de (sic) del Instituto de Educación del Estado de Aguascalientes;
+XII. Resolver, por conducto de la Secretaría de Gobierno, a qué dependencia corresponde conocer de un asunto cuando exista duda sobre cuál de ellas deba atenderlo, así como determinar, en casos extraordinarios, qué dependencia se encargará de atender asuntos específicos;
 
-V. La persona titular de la Fiscalía General de Justicia del Estado de Aguascalientes;
+XIII. Delegar en servidores públicos subalternos, sin perjuicio de ejercerlas directamente, las atribuciones que de la Constitución Política del Estado, esta ley y demás legislación de la Entidad no se deriven como exclusivas del titular del Poder Ejecutivo; y
 
-VI. La persona titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XIV. Las demás que expresamente le confieran esta ley y las diversas leyes del Estado.
 
-VII. La persona titular de la Dirección General de Seguridad Pública y Vialidad Estatal;
+###### Artículo 9.
 
-VIII. La persona titular de la Dirección General de Reinserción Social;
+Para el estudio, planeación, resolución y despacho de los asuntos de los diversos ramos de la Administración Pública Centralizada, el Titular del Poder Ejecutivo contará con las siguientes dependencias:
 
-IX. La persona titular de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE ENERO DE 2001)</small>
 
-X. La persona titular de la Comisión de Educación y Cultura del Congreso del Estado y quien solo tendrá derecho a voz; y
+I. Secretaría de Gobierno
 
-XI. El Secretario General de la Universidad quien fungirá como Secretario Técnico y quien solo tendrá derecho a voz.
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-###### Artículo 8°.
+II. Secretaría de Seguridad Pública
 
-En ningún caso podrá ser miembro de la Junta:
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
-I. La persona titular de la Rectoría;
+III. Secretaría de Finanzas y Planeación
 
-II. Los cónyuges y/o las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado con cualquiera de los integrantes de la Junta;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-III. Las personas que se encuentren en alguno de los supuestos de conflicto de interés señalados por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+IV. Secretaría de Educación
 
-IV. Las personas sentenciadas por delitos dolosos, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio Público.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2005)</small>
 
-###### Artículo 9°.
+V. Secretaría de Trabajo, Previsión Social y Productividad;
 
-La Junta funcionará de la siguiente manera:
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-I. Las personas titulares de la Junta serán suplidas por la o el Servidor Público que designen para tal efecto, el cual deberá contar cuando menos con el nivel de Director General o de Área.
+VI. Secretaría de Desarrollo Económico y Portuario
 
-II. El cargo de miembro de la Junta será honorífico, por lo cual no recibirán retribución alguna;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-III. La persona titular de la Rectoría participará en las sesiones de la Junta, y sólo tendrá voz en las mismas;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 2002)</small>
 
-IV. A las sesiones de la Junta podrán asistir los Servidores Públicos que sean convocados para ello, por determinación de la persona que la presida y/o a propuesta de la persona titular de la Rectoría, así como las personas representantes de Instituciones Públicas de los tres niveles de Gobierno, o de instituciones privadas y particulares que sean invitadas a participar, por considerar que cuenta con la especialidad técnica necesaria
+VII. Secretaría de Comunicaciones
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+VIII. Secretaría de Desarrollo Social
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+VIII Bis. Secretaría de Medio Ambiente
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IX. Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+X. Secretaría de Salud
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+XI. Secretaría de Turismo, Cultura y Cinematografía;
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+XI Bis. Secretaría de Protección Civil;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XII. Contraloría General
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIII. Procuraduría General de Justicia
+
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+XIV. Coordinación General de Comunicación Social.
+
+Las dependencias tendrán igual rango y entre ellas no habrá preeminencia alguna, con excepción de lo que establece la Constitución Política del Estado acerca de la Secretaría de Gobierno.
 
 ###### Artículo 10.
 
-La Junta celebrará al menos cuatro sesiones ordinarias anuales, las que serán convocadas por la persona que la presida a través de la Secretaría Técnica.
+Al frente de cada dependencia habrá un titular que, para el despacho de los asuntos que le competan, se auxiliará con subsecretarios o sus equivalentes, directores generales, directores, subdirectores, jefes y subjefes de departamento, oficina, sección y mesa, y demás prestadores de servicios de apoyo técnico o asesoría, en términos de lo dispuesto por esta ley, cuando así lo señalen sus respectivos reglamentos interiores y lo determinen sus presupuestos.
 
-La Junta podrá sesionar de manera extraordinaria las veces que resulte necesario, estas sesiones podrán ser convocadas por la persona que presida la Junta Directiva o a solicitud escrita de por lo menos la tercera parte de las personas que la integran, a través de la Secretaría Técnica y podrá celebrar sesiones extraordinarias cuando así lo requiera su Presidente o al menos cuatro de sus miembros.
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-Las sesiones ordinarias se convocarán con 5 días naturales de antelación y para las extraordinarias con al menos 48 horas previas al día de la sesión;
+Cada dependencia contará, además con una unidad administrativa subordinada directamente al titular de la misma y que será responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo, en los términos de las disposiciones aplicables.
 
-El Secretario Técnico comunicará y distribuirá los documentos inherentes a los asuntos previstos en el orden del día, con la finalidad de que se pueda sesionar válidamente;
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-Las resoluciones se tomarán por la mayoría de las personas presentes, teniendo la persona titular de la Presidencia voto de calidad en caso de empate.
+En el caso de la Secretaría de Finanzas y Planeación, las funciones que corresponden a la unidad administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
 
-###### ARTÍCULO 11.
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-La Junta sesionará válidamente con la asistencia de la mitad más uno de sus integrantes y siempre que la mayoría de las personas asistentes sean representantes de la Administración Pública Estatal.
+Los titulares de las unidades administrativas a que se refiere este artículo deberán contar con experiencia laboral en la administración pública y con título profesional de licenciatura, preferentemente en Derecho, Contaduría, Administración, Economía, o posgrado en alguna rama de la administración pública, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
 
-En las sesiones de la Junta, todas sus personas integrantes contarán con derecho de voz y voto en los asuntos que se sometan a su consideración con excepción del integrante establecido en la fracción XI del artículo 7° de esta Ley, quien únicamente contará con derecho a voz.
+###### Artículo 11.
+
+Corresponde originalmente a los titulares de las dependencias, el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto aquellas que por disposición de ley o del reglamento interior respectivo deban ser ejercidas exclusivamente por dichos titulares. Para su validez, los actos de delegación deberán constar por escrito y publicarse en la Gaceta Oficial del Estado.
 
 ###### Artículo 12.
 
-Corresponden a la Junta las siguientes atribuciones:
+Los titulares de las dependencias centralizadas tendrán las atribuciones comunes siguientes:
 
-I. Dictar las normas para el funcionamiento, aplicación de recursos y organización de la Universidad;
+I. Coordinar, en la esfera de su competencia y por acuerdo del titular del Poder Ejecutivo, la política gubernamental, y ejercer sus atribuciones en términos de lo dispuesto por esta ley, demás legislación aplicable y el reglamento interior respectivo;
 
-II. Aprobar los programas y presupuestos de la Universidad, así como sus modificaciones, en los términos de la legislación aplicable;
+II. Representar legalmente a la dependencia a su cargo y, en los asuntos que así se determine, al Gobierno del Estado por acuerdo expreso del titular del Poder Ejecutivo;
 
-III. Aprobar previo informe de los Comisarios, los estados financieros de la Universidad;
+III. Formular, en el ámbito de su competencia, proyectos de ley, decreto, reglamentos, acuerdos y convenios, los que remitirán para su autorización al Gobernador del Estado, a través de la Secretaría de Gobierno, para los efectos, según el caso, de lo dispuesto por los artículos 34 fracción III, 49 fracción III y 50 primer y segundo párrafos, de la Constitución Política del Estado, así como 8 fracción II de esta ley;
 
-IV. Aprobar la estructura básica de la organización de la Universidad y las modificaciones que procedan a la misma;
+IV. Comparecer ante el Congreso del Estado, a convocatoria expresa de éste y por conducto del Gobernador, para dar cuenta del estado que guarda la dependencia a su cargo; o por instrucción del Gobernador cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo;
 
-V. Procurar la obtención de recursos que permitan el incremento del Patrimonio de la Universidad (sic) el cumplimiento de todos sus objetos;
+V. Realizar, en los casos que así proceda, acciones de coordinación con autoridades federales, de otras entidades federativas o de los Ayuntamientos del Estado;
 
-VI. Conocer los informes de labores que trimestralmente rinda la persona titular de la Rectoría;
+VI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
 
-VII. Autorizar el Manual General de Organización y Métodos qué elabore y presente el Rector;
+VII. Celebrar, conforme a lo dispuesto por el artículo 8 fracción VII de esta ley, acuerdos y convenios en el ámbito de su competencia, previa autorización escrita del Gobernador del Estado;
 
-VIII. Aprobar el Proyecto del Presupuesto de Egresos (sic) la Universidad;
+VIII. Celebrar, en la esfera de su competencia, contratos en los términos señalados por esta ley y demás leyes del Estado;
 
-IX. Aprobar los actos de dominio respecto del Patrimonio de la (sic);
+IX. Certificar y, en su caso, expedir copias de los documentos que se encuentren en los archivos de su dependencia;
 
-X. Aprobar y modificar la normatividad reglamentaria, manuales, lineamientos, reglas de operación y demás ordenamientos jurídicos necesarios para el funcionamiento de la Universidad;
+X. Nombrar y remover libremente a los servidores públicos de la dependencia a su cargo, cuyo nombramiento o remoción no estén determinados de otra forma por la Constitución o leyes del Estado;
 
-XI. Conocer y aprobar, en su caso, los informes generales y especiales que le presente la persona titular de la Rectoría; y
+XI. Nombrar al titular de la unidad administrativa responsable de la presupuestación, programación y ejercicio del presupuesto de la dependencia que corresponda, en los términos que establezca el reglamento interior respectivo;
 
-XII. Las demás atribuciones establecidas en la presente Ley, La Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, así como las que sean necesarias para el cumplimiento del objeto de la Universidad.
+XII. Elaborar la estadística de la dependencia a su cargo, para la integración de la Estadística General del Gobierno del Estado;
 
-Las atribuciones conferidas en este artículo estarán sujetas a lo establecido en el artículo 41 de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+XIII. Establecer, en términos de lo dispuesto por el artículo 8 fracción V de esta ley, y conforme a las prioridades señaladas en el Plan Veracruzano de Desarrollo, las políticas de desarrollo de las entidades paraestatales del sector correspondiente, así como planear, coordinar, vigilar y evaluar su operación y resultados, de conformidad con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas;
 
-Los acuerdos y resoluciones de la Junta se tomarán por el voto de la mayoría de las personas integrantes presentes en la sesión que se trate, excepto en los supuestos legales o reglamentarios que establezcan una mayoría calificado (sic). En caso de empate en la votación de algún asunto tratado en sesión de la Junta la persona que presida tendrá voto de calidad.
+XIV. Tener bajo su adscripción directa, para la atención y despacho de los asuntos de su competencia, los órganos administrativos desconcentrados creados por Decreto del titular del Poder Ejecutivo del Estado, que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso;
 
-#### Sección Segunda. De la Rectoría
+XV. Designar a los prestadores de servicios de apoyo técnico o asesoría que requieran para el mejor desempeño de sus funciones y de conformidad con el presupuesto respectivo;
+
+XVI. Expedir los Manuales de Organización, Procedimientos y Servicios al Público necesarios para el funcionamiento de la dependencia a su cargo, los que deberán contener información sobre su estructura, organización y forma de realizar las actividades que están bajo su responsabilidad, así como sobre sus sistemas de comunicación y coordinación. Los manuales y demás instrumentos de apoyo administrativo interno deberán mantenerse permanentemente actualizados;
+
+XVII. Atender las incidencias de carácter laboral y aplicar las sanciones que correspondan;
+
+XVIII. Asesorar a los Municipios del Estado, cuando así lo soliciten, en la esfera de su competencia; y
+
+XIX. Las demás que expresamente se señalen en esta Ley y las leyes del Estado.
+
+#### SECCIÓN SEGUNDA. De los directores generales
 
 ###### Artículo 13.
 
-La persona titular de la Rectoría será el representante legal de la Universidad y Presidente del Consejo Académico.
-
-Para ser titular de la Rectoría se requiere:
-
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
-
-II. Tener más de treinta y cinco años de edad al momento de su designación;
-
-III. Poseer al día de su designación título profesional en cualquier materia relacionada con las Ciencias Sociales, de Seguridad Pública, tres años de experiencia y/o destacada trayectoria en el ámbito de formación académica en las áreas de seguridad y procuración de justicia;
-
-IV. Poseer reconocidos méritos académicos y una sólida trayectoria en el ámbito de la Educación Superior;
-
-V. Tener experiencia profesional en Instituciones de Seguridad Pública o de Justicia;
-
-VI. Ser persona Honorable, de reconocido prestigio y competencia profesional;
-
-VII. No ser dirigente de partido político alguno, ni ser precandidato, candidato, ni estar desempeñando cargo de elección popular, excepto si renuncia a su precandidatura o candidatura o se separará del cargo, según corresponda previo a su designación; y
-
-VIII. No ser ministro de algún culto religioso.
+Cada uno de los órganos de las dependencias se regirán por las normas legales aplicables a su funcionamiento, por las disposiciones del Reglamento Interior correspondiente y por sus Manuales de Organización, Procedimientos y Servicios al Público.
 
 ###### Artículo 14.
 
-La persona titular de la Rectoría de la Universidad será nombrado (sic) por la persona titular del Poder Ejecutivo del Estado y la designación será informada a la Junta.
+Los titulares de las Subsecretarías, o sus equivalentes, tendrán las atribuciones comunes siguientes:
+
+I. Ejecutar, dirigir y controlar, en la esfera de su competencia y por acuerdo de la superioridad, la política gubernamental, en términos de lo dispuesto por esta ley y demás legislación aplicable;
+
+II. Representar legalmente a la Subsecretaría a su cargo, así como a la Secretaría del Despacho de su adscripción en los casos que así se determine por acuerdo expreso de la superioridad;
+
+III. Someter a la aprobación de la superioridad los estudios, proyectos, asuntos, ejecución y evaluación de los programas sectoriales que les corresponda, con la periodicidad y forma que se acuerde;
+
+IV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
+
+V. Expedir, en su caso, copias certificadas de los documentos que se encuentren en sus archivos;
+
+VI. Proponer a la superioridad el nombramiento o remoción de los servidores públicos del órgano a su cargo, cuando no se determine de otra forma por la Constitución y leyes del Estado;
+
+VII. Proponer al titular de la Secretaría los proyectos de ley, decreto, reglamentos, acuerdos y convenios relativos al ámbito de su competencia, así como los manuales de organización, procedimientos y de servicios al público de los órganos a cargo de la Subsecretaría;
+
+VIII. Formular el programa operativo anual y el presupuesto de la Subsecretaría; así como planear, dirigir y controlar las actividades administrativas relativas a los recursos financieros, humanos y materiales de sus órganos;
+
+IX. Cumplir las acciones que les encomiende el titular de la Secretaría y, por acuerdo de éste, proporcionar la información o cooperación que requieran otras dependencias del Ejecutivo;
+
+X. Rendir a su superior, por escrito, los informes mensual y anual de las actividades realizadas por el órgano a su cargo; y
+
+XI. Las demás que expresamente señalen esta ley y las leyes del Estado.
 
 ###### Artículo 15.
 
-Para el adecuado desempeño de sus funciones la persona titular de la Rectoría contará con las siguientes facultades:
+Los titulares de las Direcciones Generales tendrán las atribuciones comunes siguientes:
 
-I. Cumplir y hacer cumplir el Decreto de Creación de la Universidad y demás Reglamentos que integran el marco jurídico de la Universidad;
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes al órgano administrativo a su cargo, de acuerdo con los lineamientos que le indiquen sus superiores, en términos de la legislación aplicable;
 
-II. Dirigir la Universidad, vigilando el cumplimiento de las normas jurídicas que le son aplicables y el logro de su objeto legal;
+II. Acordar con el Subsecretario de su adscripción la resolución de los asuntos de su competencia y proponer las medidas de desarrollo administrativo necesarias para el mejor funcionamiento del órgano a su cargo;
 
-III. Proponer a la Junta todos los proyectos de reglamentos, y modificaciones a los mismos que para su ejecución deban ser aprobados;
+III. Formular los dictámenes, opiniones e informes que les sean solicitados; así como los anteproyectos de programas y del presupuesto del órgano a su cargo, y gestionar los recursos que sean necesarios para el eficaz cumplimiento de las funciones que tengan encomendadas;
 
-IV. Vigilar el cumplimiento de los acuerdos de la Junta;
+IV. Proponer a la superioridad el nombramiento o remoción de los servidores públicos del órgano a su cargo, cuando no se determine de otra forma por la Constitución y leyes del Estado;
 
-V. Otorgar y revocar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial;
+V. Coordinar sus actividades con los titulares de los demás órganos administrativos de la Subsecretaría para el mejor funcionamiento de la misma;
 
-VI. Rendir de manera trimestral a la Junta, informes del funcionamiento académico, administrativo y financiero de la Universidad y ejecutar los acuerdos emanados por este órgano, así como las demás disposiciones y procedimientos que contribuyan al buen funcionamiento de la Universidad;
+VI. Tramitar y, en su caso, resolver los recursos que se le presenten, cuando legalmente proceda;
 
-VII. Emitir las políticas operativas de planeación, administración, académicas, vinculación, difusión y extensión que deben regular la operación de la Universidad;
+VII. Acordar con los servidores públicos subalternos los asuntos que tengan asignados;
 
-VIII. Impulsar la promoción de la Universidad y de sus planes de estudio a través de diversas actividades y medios de comunicación, con el fin de posicionarla ante las Instituciones de Educación Media Superior, del sector productivo y sociedad en general;
+VIII. Proporcionar, por acuerdo de la superioridad, la información, los datos o la cooperación que les sean requeridos por otras dependencias o entidades de la Administración Pública del Estado;
 
-IX. Ejercer la representación legal de la Universidad;
+IX. Rendir a su superior, por escrito, los informes mensual y anual de las actividades realizadas por la Dirección General a su cargo; y
 
-X. Suscribir los títulos profesionales, certificados de estudio, de los programas académicos impartidos por la Universidad;
+X. Las demás que expresamente le confieran esta ley y las demás leyes del Estado.
 
-XI. Celebrar convenios, contratos y acuerdos de colaboración con dependencias o entidades de la Administración Pública Estatal y Federal, con organismos e instituciones del sector privado y social y con instituciones de educación superior nacionales e internacionales;
+#### SECCIÓN TERCERA. De la competencia de las dependencias
 
-XII. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranza, aún de aquellas que requieran de autorización especial, según otras disposiciones legales o reglamentarias;
-
-XIII. Proponer el programa operativo anual y el anteproyecto de presupuesto de la Rectoría en base a la normatividad o lineamientos establecidos en la Universidad para tal efecto, ante la Junta; y
-
-XIV. Las demás atribuciones establecidas en la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
-
-#### Sección Tercera. De la Vicerrectoría
+De la Secretaría de Gobierno
 
 ###### Artículo 16.
 
-La Vicerrectoría es la Instancia que se encarga de apoyar y asistir a la persona titular de la Rectoría en las tareas de coordinación, ejecución, supervisión, seguimiento y evaluación de las políticas generales, así como de contribuir para el cumplimiento de los objeto (sic) y metas que queden establecidos por la Rectoría o por la Junta.
-
-La persona titular de la Vicerrectoría de la Universidad deberá cumplir los mimos (sic) requisitos referidos en el artículo 13 correspondientes a la persona titular de la Rectoría de la presente Ley y será nombrada por la persona titular del Poder Ejecutivo del Estado, quien así lo informará a la Junta.
+Los demás órganos de las Subsecretarías o sus equivalentes y de las Direcciones Generales se organizarán y funcionarán en los términos que señale el reglamento interior respectivo, de conformidad con las atribuciones que para cada dependencia establezcan expresamente esta ley y las demás leyes del Estado.
 
 ###### Artículo 17.
 
-Las facultades de la persona titular de la Vicerrectoría son las siguientes:
+La Secretaría de Gobierno es la dependencia responsable de coordinar la política interna de la Entidad y tendrá la competencia que expresamente le confiere la Constitución Política del Estado, esta ley y demás legislación aplicable.
 
-I. Recomendar a la persona titular de la Rectoría las políticas y prioridades para la asignación de recursos a los Programas de Desarrollo Académico, científico y cultural de la Universidad;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 29 DE ENERO DE 2001, PÁGINAS DE LA 12 A LA 13.]</small>
 
-II. Proponer y difundir los elementos normativos y metodológicos para la Prevención, organización, seguimiento y evaluación de las actividades conducentes a la obtención, distribución y control de los recursos Institucionales
-
-III. Establecer los sistemas de información requeridos para el desarrollo institucional;
-
-IV. Dirigir el proceso de diseño y ejecución de los diferentes Planes y Programas de Estudio de la Universidad, vigilar su ejecución y participar en su evaluación permanente;
-
-V. Dirigir los diferentes niveles, subniveles, departamentos, áreas y comisiones y mantener contacto permanente con sus responsables;
-
-VI. Elaborar y presentar periódicamente a la persona titular de la Rectoría, los informes que este pida;
-
-VII. Asegurar el cumplimiento de los estándares de calidad educativa emitidos por la autoridad educativa nacional;
-
-VIII. Suplir a la persona titular de la Rectoría en sus ausencias menores a 30 dias; y
-
-IX. Las demás que le delegue la persona titular de la Rectoría, la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
-
-#### Sección Cuarta. Del Consejo Académico
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### Artículo 18.
 
-El Consejo Académico es la máxima autoridad académica de la Universidad, es un órgano asesor de la persona titular de la Rectoría y está conformado por:
+Son atribuciones del Secretario de Gobierno, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. La persona titular de la Rectoría;
+I. Sustituir al Gobernador del Estado en sus ausencias temporales que no excedan de treinta días, para efectos de lo dispuesto por el artículo 48, fracciones I y II, de la Constitución Política del Estado;
 
-II. Dos Directivos entre los cuales debe figurar la persona titular de la Dirección Académica; y
+II. Establecer, dirigir y controlar la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente. Al efecto, aprobará los programas respectivos de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
 
-III. Dos docentes.
+III. Someter al acuerdo del Gobernador del Estado los asuntos encomendados a la Secretaría y los del sector correspondiente;
+
+IV. Desempeñar las comisiones y funciones especiales que el Gobernador le confiera y mantenerlo informado sobre su desarrollo y ejecución;
+
+V. Proponer al Gobernador del Estado los proyectos de leyes, decretos, reglamentos, acuerdos, convenios y órdenes sobre asuntos de la competencia de la Secretaría y los del sector correspondiente;
+
+VI. Presentar ante el Congreso del Estado las iniciativas de leyes o decretos que formule el Ejecutivo;
+
+VII. Publicar las leyes y decretos que expida el Congreso del Estado, así como las leyes federales;
+
+VIII. Vigilar, en el orden administrativo, la exacta observancia de las leyes, decretos y reglamentos;
+
+IX. Tramitar los recursos administrativos que compete resolver al Gobernador del Estado;
+
+X. Designar y remover a los representantes de la Secretaría en las comisiones u organismos en que participe;
+
+XI. Autorizar el proyecto del presupuesto anual de egresos de la Secretaría y de las comisiones que presida, así como autorizar y supervisar la aplicación eficiente de los recursos financieros, humanos y materiales de la Secretaría;
+
+XII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XIII. Someter a la consideración del Gobernador del Estado, las propuestas para regular el aprovechamiento del tiempo que corresponda a la Entidad, en los canales concesionados de radio y televisión, conforme a la legislación aplicable;
+
+XIV. Tramitar lo relativo al ejercicio de las atribuciones que la Constitución Política del Estado le confiere al titular del Poder Ejecutivo, en materia de nombramientos y remociones, así como aquellos que resulten de las leyes federales. Quedan exceptuados los nombramientos y remociones que la ley atribuye expresamente a otra dependencia del Ejecutivo del Estado;
+
+XV. Administrar la Editora de Gobierno del Estado y vigilar todo lo relacionado con la Gaceta Oficial;
+
+XVI. Proporcionar a los Poderes de la Federación la cooperación y el auxilio que requieran para el debido cumplimiento de lo dispuesto por ordenamientos del ámbito federal;
+
+XVII. Coordinar las relaciones del Poder Ejecutivo con la Federación y las Entidades Federativas, los Poderes Legislativo y Judicial del Estado, así como con los Municipios;
+
+XVIII. Coordinar las relaciones del Gobierno del Estado con los diversos grupos sociopolíticos de la Entidad;
+
+XIX. Intervenir, en el ámbito de su competencia y conforme a las leyes federales y estatales aplicables, en la observancia de las disposiciones relativas a población, pirotecnia, detonantes, armas de fuego y explosivos, uso de símbolos patrios y culto religioso, juegos y sorteos y asuntos agrarios de la Entidad;
+
+XX. Llevar el registro de autógrafos y legalizar las firmas de los servidores públicos estatales, inclusive los de la Universidad Veracruzana; de los Presidentes Municipales y Secretarios de los Ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública para autentificar los documentos en que intervengan o que los mismos expidan;
+
+XXI. Vigilar las funciones de los Notarios Públicos del Estado, así como autorizar sus libros de protocolo y controlar el Archivo de Notarías;
+
+XXII. Organizar y vigilar el ejercicio de las funciones del Registro Civil;
+
+XXIII. Coordinar, dirigir y vigilar las actividades de las Juntas de Mejoramiento Moral, Cívico y Material;
+
+XXIV. Organizar y mantener actualizado el Archivo General del Gobierno del Estado, así como del Registro Público de la Propiedad y del Comercio;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXVII. Administrar y resguardar los centros de observación y adaptación social para menores infractores;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXVIII. Vigilar y controlar, en términos de la legislación aplicable, lo relativo a la demarcación y límites del Estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXIX. Brindar asesoría jurídica al Gobierno del Estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXX. Coordinar la formulación de las iniciativas de leyes o decretos, reglamentos, acuerdos, convenios y órdenes sobre los asuntos competencia del Poder Ejecutivo y, en su caso, tramitar su promulgación y publicación en la Gaceta Oficial del estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXI. Difundir y mantener actualizada la compilación de las legislaciones estatal y federal vigentes;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXII. Intervenir en la realización de los actos jurídicos necesarios para reivindicar la propiedad del Estado;
+
+> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+
+XXXIII. Fomentar el desarrollo de la cultura política en la Entidad;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXIV. Dirigir y coordinar las políticas y programas de la Administración Pública en materia de Equidad de Género y Desarrollo Municipal, participando en los Órganos de Gobierno de las instituciones que se constituyan para el manejo y atención de esos temas, mismas que estarán sectorizados a esta Secretaría.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXXVII. (DEROGADA, G.O. 20 DE MAYO DE 2002)
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XXXVIII. Coordinar, dirigir y vigilar la política en materia de transporte y otorgar, rescatar, revertir o revocar, conforme a la ley de la materia, concesiones, permisos, autorizaciones o licencias a personas físicas o morales, para la prestación de servicios públicos de transporte de personas y carga, así como controlar su adecuado funcionamiento y los servicios auxiliares de transporte;
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XXXIX. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo estatal. Así como elaborar y ejecutar los programas relacionados con el Sistema de Prevención y Readaptación Social del Estado;
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XL. Administrar los centros de readaptación social y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XLI. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social, de conformidad con las leyes de la materia, y
+
+> <small>(ADICIONADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XLII. Custodiar, en coordinación con la Secretaría de Seguridad Pública, a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+
+XLIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE ENERO DE 2001)</small>
+
+De la Secretaría de Seguridad Pública
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+###### Artículo 18 Bis.
+
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, y tránsito, de conformidad con las leyes de la materia.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
+
+###### Artículo 18 Ter.
+
+Son atribuciones del secretario de Seguridad Pública, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Establecer, dirigir y controlar, en el ámbito de su competencia, la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente; aprobando al efecto los programas respectivos, de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+
+II. Desarrollar, instrumentar y ejecutar la política de seguridad pública estatal;
+
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+III. Participar y colaborar en las medidas que adopte la Secretaría de Gobierno para organizar las actividades que atiendan el fenómeno delictivo;
+
+IV. Presidir el Consejo Estatal de Seguridad Pública;
+
+V. Nombrar y remover, con acuerdo del Gobernador del Estado, al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública y de su Consejo Estatal;
+
+VI. Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
+
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2008)</small>
+
+VII. Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales, así como nombrar y remover a los titulares de las mismas, a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+
+VIII. (DEROGADA, G.O. 1 DE FEBRERO DE 2008)
+
+IX. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
+
+X. Disponer, por acuerdo del Gobernador del Estado, del mando de la policía municipal en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2011)</small>
+
+XI. Coordinar, dirigir y vigilar la política estatal en materia de tránsito y la aplicación de las disposiciones de la ley de la materia, relativas a la circulación de vehículos por las vías públicas y áreas o zonas privadas con acceso al público, comprendidas dentro del Estado que no sean de competencia federal, así como el estacionamiento de vehículos y los servicios auxiliares de tránsito;
+
+XII. Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la autoridad federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito de su competencia;
+
+XIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades judiciales;
+
+XIV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
+
+XV. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
+
+XVI. (DEROGADA, G.O. 30 DE AGOSTO DE 2006)
+
+> <small>(REFORMADA, G.O. 30 DE AGOSTO DE 2006)</small>
+
+XVII. Custodiar, en coordinación con la Secretaría de Gobierno a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XVIII. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en caso de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado.
+
+De la Secretaría de Finanzas y Planeación
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 19.
 
-El Consejo Académico tiene entre sus facultades las siguientes:
+La Secretaría de Finanzas y Planeación es la dependencia responsable de coordinar la administración financiera y tributaria de la Hacienda Pública y de proyectar con la participación de las dependencias y entidades de la administración pública, la planeación, programación y presupuestación del Estado, en el marco del sistema de planeación democrática, así como de llevar el control administrativo de los recursos humanos y materiales, y el control del ejercicio de los recursos financieros de conformidad con lo dispuesto por esta Ley y demás disposiciones aplicables.
 
-I. Proponer la creación y modificación de Planes y Programas de Estudio y la realización de estudios de pertinencia para tales efectos;
-
-II. Emitir opinión en materia de revalidación individual de estudios realizados por alumnos en otras instituciones educativas;
-
-III. Emitir opinión en materia de convalidación de Estudios, respecto de los realizados en otros programas académicos dentro de la Universidad;
-
-IV. Autorizar Programas individuales de movilidad académica;
-
-V. Autorizar el adelanto de asignaturas no seriadas en materia de flexibilidad Académica;
-
-VI. Conocer, discutir y en su caso aprobar las solicitudes de vías de titulación y temas de tesis a nivel Licenciatura y posgrado, si procediere;
-
-VII. Resolver en definitiva los recursos de revisión de examen, conforme a la legislación Universitaria aplicable;
-
-VIII. Emitir opinión en materia de exámenes profesionales de Técnico Superior Universitario, Licenciatura, Especialidad, Maestría y Doctorado, así como ceremonias de titulación, si procediere;
-
-IX. Designar comisiones en asuntos de su competencia; y
-
-X. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
-
-### CAPÍTULO III. De la Estructura Orgánica y Funcionamiento
+### CAPÍTULO II. De la Administración Pública Centralizada
 
 ###### Artículo 20.
 
-La Universidad, para su organización y funcionamiento, contará con la siguiente estructura orgánica;
+Son atribuciones del Secretario de Finanzas y Planeación, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-I. Rectoría;
+I. Establecer la política de la Hacienda Pública, conforme a lo establecido en el Plan Veracruzano de Desarrollo y los programas, política económica y objetivos del Gobierno del Estado;
 
-II. Vicerrectoría;
+II. Coordinar la política económica para el desarrollo del Estado;
 
-III. Secretaría General;
+III. Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Veracruz;
 
-IV. Dirección Académica;
+IV. Diseñar, implementar y actualizar un sistema de programación del gasto público, acorde con los objetivos y necesidades de la Administración Pública, asesorando y apoyando a las dependencias y entidades en la integración de sus programas específicos;
 
-V. Dirección de Vinculación, Comunicación y Participación Social;
+V. (DEROGADA, G.O. 2 DE JULIO DE 2004)
 
-VI. Dirección de Planeación y Proyectos;
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
-VII. Dirección Jurídica, Transparencia y Acceso a la Información Pública;
+VI. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de carácter financiero aplicables en el Estado;
 
-VIII. Dirección de Administración y Finanzas;
+VII. Practicar revisiones y auditorías a los contribuyentes;
 
-IX. Dirección de Servicios Escolares; y
+VIII. Presupuestar anualmente el gasto público del Gobierno del Estado, tomando en consideración los anteproyectos de presupuestos de las dependencias y entidades del gobierno estatal, quienes deberán elaborar y presentarlos con la anticipación necesaria en términos de las disposiciones legales aplicables;
 
-X. Órgano Interno de Control
+IX. Programar y calcular los ingresos del estado y formular el proyecto de presupuesto de ingresos y egresos anualmente, para someterlo a la consideración del Gobernador del Estado;
 
-Las unidades administrativas, además contarán con la estructura orgánica y el personal profesional, técnico y administrativo que requieran para el mejor desempeño de sus actividades y de conformidad con el presupuesto autorizado para el ejercicio fiscal correspondiente.
+X. Determinar, recaudar, custodiar y administrar los impuestos, derechos, productos, aprovechamientos, participaciones, multas y otros conceptos señalados en las leyes impositivas relacionadas con la Hacienda Pública del Estado;
 
-#### Sección Primera. De la Persona Titular de la Secretaría General
+XI. Llevar las estadísticas de ingresos y egresos del Gobierno del Estado; así como integrar y mantener actualizada la informática de la entidad y lo relativo a la situación geográfica del Estado;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XII. Autorizar la suficiencia presupuestal a las dependencias centralizadas y entidades paraestatales para el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva y las leyes aplicables;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XIII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones, transferencias o reducciones de los recursos asignados a las dependencias centralizadas y las entidades paraestatales comprendidas en el presupuesto de egresos;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XIV. Distribuir a través del Sistema Integral de Administración Financiera del Estado de Veracruz, a su cargo, los recursos financieros a las dependencias centralizadas y entidades paraestatales, de conformidad con el presupuesto autorizado y para los efectos de las acciones de control y evaluación del gasto público que establece esta Ley, el Código Financiero para el Estado y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
+
+XV. Coordinar los programas de inversión pública de las dependencias y entidades de la administración pública;
+
+XVI. Presentar denuncias y formular querellas, ratificar las mismas, recibir el pago por concepto de reparación de daños y, en su caso, sin perjuicio del erario estatal, otorgar el perdón al acusado e imponer las sanciones que correspondan por infracciones a la Ley de Hacienda y demás leyes fiscales cuya aplicación le esté encomendada directamente;
+
+XVII. Intervenir en los juicios de carácter fiscal que se ventilen ante los tribunales competentes, cuando tenga interés la Hacienda Pública del Estado;
+
+XVIII. Ejercitar las acciones y oponer las excepciones que procedan, para la defensa administrativa y judicial de los derechos de la Hacienda del Estado;
+
+XIX. Llevar el control de la deuda pública del Estado y efectuar los pagos correspondientes;
+
+XX. Ejercer la facultad económico-coactiva para hacer efectivos los créditos fiscales a favor de la Hacienda Pública del Estado;
+
+XXI. Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
+
+XXII. Proponer al Ejecutivo Estatal los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes sobre asuntos financieros, tributarios; y en las materias de planeación, programación, presupuestación y evaluación de la actividad económica del Estado;
+
+XXIII. Proporcionar, en coordinación con la Secretaría de Gobierno, la asesoría que en materia de interpretación y aplicación de leyes tributarias del Estado, le sea solicitada por los Ayuntamientos; así como realizar una labor permanente de difusión y orientación fiscal;
+
+XXIV. Resolver las consultas que en materia de interpretación y aplicación de leyes tributarias del Estado, le planteen los contribuyentes, sobre casos particulares concretos;
+
+XXV. Intervenir como fideicomitente único, en los fideicomisos del Gobierno del Estado;
+
+XXVI. Formular mensualmente los estados financieros consolidados de la Hacienda Pública y ponerlos en conocimiento del Gobernador del Estado;
+
+XXVII. Hacer la glosa preventiva de los ingresos y egresos del Gobierno Estatal; así como elaborar la cuenta pública;
+
+XXVIII. Autorizar la cancelación de cuentas incobrables;
+
+XXIX. Otorgar, previo acuerdo del Ejecutivo Estatal, estímulos fiscales en los casos que procedan;
+
+XXX. Tramitar y resolver los recursos administrativos en la esfera de su competencia;
+
+XXXI. Administrar el catastro de la Entidad, de conformidad a lo establecido en las disposiciones legales respectivas;
+
+XXXII. Elaborar y mantener actualizado el Padrón de Contribuyentes;
+
+XXXIII. Vigilar, en coordinación con la Contraloría General, que los empleados que administren fondos y valores del Estado caucionen debidamente su manejo;
+
+XXXIV. Custodiar los documentos que constituyan valores del Estado;
+
+XXXV. Controlar las actividades de las oficinas recaudadoras de la Entidad;
+
+XXXVI. Participar en el establecimiento de los criterios y montos de estímulos fiscales, en coordinación con las dependencias a las que corresponda el fomento de las actividades productivas;
+
+XXXVII. Atender las observaciones del Órgano de Fiscalización Superior;
+
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+XXXVIII. Establecer los lineamientos sobre la forma y términos en que las dependencias centralizadas y entidades paraestatales deberán llevar su contabilidad, solicitarles informes y cuentas para consolidar la contabilidad gubernamental, llevar la estadística general del Gobierno del Estado y examinar periódicamente los flujos de información de cada dependencia centralizada y entidad paraestatal, instruyendo en su caso, las modificaciones necesarias;
+
+XXXIX. Informar a la Contraloría General sobre las responsabilidades que afecten la Hacienda Pública del Estado en el ejercicio del gasto;
+
+XL. Vigilar financiera y administrativamente la operación de entidades que no estén expresamente encomendadas a otra dependencia;
+
+XLI. Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado con cargo a su propio presupuesto, a favor de los Municipios o de instituciones de los sectores social y privado, se apliquen conforme a los términos establecidos en los programas aprobados al efecto;
+
+XLII. Asesorar al Gobernador del Estado en la elaboración de los convenios que celebre con los Gobiernos Federal y Municipales, o de otras entidades federativas, en materia de planeación, programación, supervisión y evaluación del desarrollo del Estado;
+
+XLIII. Formular las bases y normas de planeación, programación, presupuestación, ejecución y evaluación, que deberán observar las dependencias de la Administración Pública Estatal en materia de adquisiciones;
+
+XLIV. (DEROGADA, G.O. 2 DE JULIO DE 2004)
+
+XLV. Verificar y comprobar el cumplimiento de las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación de servicios, obra pública, resguardos, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+XLVI. Establecer normas, lineamientos y políticas en materia de administración, remuneraciones y desarrollo de personal de las dependencias y entidades del Ejecutivo;
+
+XLVII. Coadyuvar en la promoción de la capacitación del personal del Gobierno del Estado, para el mejor desempeño de sus labores;
+
+XLVIII. Participar en la elaboración de las condiciones generales de trabajo; vigilar su cumplimiento y difundirlas entre el personal del Gobierno del Estado;
+
+XLIX. Emitir, en coordinación con la Contraloría General, criterios y lineamientos para el ejercicio de los recursos presupuestales relativos a servicios personales, adquisiciones, obras públicas, arrendamientos y servicios generales de las dependencias y entidades;
+
+L. Elaborar el programa anual de adquisiciones y servicios consolidados de la Administración Pública Estatal y licitar públicamente su adjudicación;
+
+LI. Emitir, en coordinación con la Contraloría General, criterios y lineamientos relacionados con la conservación, mantenimiento, control de inventarios, manejo de almacenes y resguardo de los bienes muebles de propiedad estatal;
+
+LII. Emitir los lineamientos para establecer sistemas uniformes de control del ejercicio del presupuesto aplicables a las dependencias y entidades; y
+
+LIII. Dictaminar sobre solicitudes de ampliación presupuestal por modificaciones a la estructura orgánica y de recursos humanos que presenten las dependencias y entidades.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LIV. Vigilar y administrar los inmuebles de propiedad estatal destinados o no a un servicio público o a fines de interés social, cuando no estén afectos a otras dependencias; los que se utilicen para dicho fin y los equiparados con éstos, conforme a la ley; así como las plazas, paseos y parques públicos, cuya construcción o conservación esté a cargo del Gobierno del Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LV. Tramitar, previo acuerdo con el Gobernador del Estado, la adquisición, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Estatal. Tratándose de enajenaciones a título oneroso o gratuito, o para conceder el uso o disfrute de bienes inmuebles de propiedad estatal, deberá obtenerse previamente la autorización del Congreso del Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LVI. Tramitar y ejecutar los acuerdos del Gobernador del Estado relativos a la expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LVII. Mantener actualizado el avalúo de los bienes inmuebles estatales; el catastro y la información geográfica y estadística de la Entidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Educación
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+
+#### SECCIÓN SEGUNDA. De los Organismos Descentralizados
 
 ###### Artículo 21.
 
-La persona titular de la Secretaría General es el funcionario encargado de coordinar todas las actividades y programas especiales de la Universidad y sus estamentos, cuya designación deberá ser aprobada por la Junta.
+La Secretaría de Educación es la dependencia responsable de coordinar la política educativa del Estado y organizar el Sistema Educativo Estatal en todos sus niveles y modalidades, en los términos que establece la Constitución Política del Estado y las leyes aplicables; así como de desarrollar, supervisar y coordinar los programas educativos, científicos y deportivos, a fin de promover, fomentar y procurar el progreso y el bienestar de la población de la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 22.
 
-Las funciones de la persona titular de la Secretaría General son las siguientes:
+Son atribuciones del Secretario de Educación, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. Colaborar con la persona titular de la Rectoría en sus funciones de dirección de la Universidad;
+I. Planear, fomentar, dirigir y vigilar la educación que impartan las instituciones educativas en todos los tipos, niveles y modalidades, conforme a las bases que establece la Constitución Política del Estado, esta ley y demás leyes del Estado;
 
-II. Certificar con su firma los acuerdos del Consejo Académico, levantar las actas de sus sesiones y asentarlas en el libro correspondiente;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-III. Autorizar con la persona titular de la Rectoría los títulos profesionales y los diplomas que acrediten la obtención de un grado Universitario. Los certificados de estudio y cartas de pasante serán firmados por la persona titular de la Secretaría General;
+II. Formular las políticas y programas generales relativos a las actividades recreativas y deportivas;
 
-IV. Coordinar los procesos de carácter académico y administrativo, para verificar y evaluar si las Actividades de las dependencias administrativas y unidades Académicas se realizaron con eficacia y oportunidad para el logro de los objeto (sic) y metas programadas;
+III. Fomentar el conocimiento de la lengua nacional y la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
 
-V. Colaborar con la persona titular de la Rectoría en la Coordinación de los sistemas y programas de participación para la planeación y evaluación académica y demás que implemente para tales efectos;
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-VI. Coadyuvar en el diseño e implementación de estrategias novedosas de enseñanza y aprendizaje;
+IV. Desarrollar y promover el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio educativo y científico de la Entidad;
 
-VII. Contribuir en el cumplimiento de las funciones sustantivas de la Universidad, particularmente en la formación de profesionistas y Técnicos útiles a la sociedad, mediante los servicios de Administración escolar que la Universidad ofrezca;
+V. Cuidar que la educación que se imparta a los pueblos indígenas se haga en forma bilingüe, con respeto a sus tradiciones, usos y costumbres, e incorpore contenidos acerca de su etnohistoria y cosmovisión;
 
-VIII. Promover innovaciones educativas que mejoren la calidad del proceso de enseñanza-aprendizaje en los diversos niveles educativos de la Universidad;
+VI. Establecer y desarrollar programas especiales para una mejor integración a la sociedad de los miembros de la tercera edad y de los discapacitados;
 
-IX. Dar validez a los resultados del proceso enseñanza-aprendizaje durante la vida académica de los alumnos en la universidad, desde su ingreso hasta la conclusión de sus estudios;
+VII. Gestionar, elaborar y, en su caso ejecutar, los acuerdos de coordinación que en materia educativa celebre el Estado con el Gobierno Federal o con los Ayuntamientos;
 
-X. Vigilar el cumplimiento de la legislación sobre inscripción y revalidación de estudios, así como los procedimientos y trámites administrativos inherentes;
+VIII. Organizar y fomentar la educación artística que se imparta en las instituciones educativas, para la difusión de las bellas artes y de las artes populares;
 
-XI. Fomentar el intercambio entre Universitarios prestando asesoría a las entidades académicas y dependencias Universitarias, respecto a las diversas posibilidades y modalidades de cooperación institucional en favor de la comunidad Universitaria;
+IX. Otorgar becas a los estudiantes de escasos recursos económicos en los términos de las disposiciones legales relativas;
 
-XII. Promover modelos de atención para el alumnado y las y los egresados de la Universidad, con el fin de facilitar su incorporación al mercado laboral, en condiciones que satisfagan sus expectativas y las de los potenciales empleadores; y
+X. Otorgar equivalencias y revalidar en términos de la ley los estudios que sean equivalentes a los que se impartan en el Estado;
 
-XIII. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
-#### Sección Segunda. De la Dirección Académica
+XI. Incorporar y reconocer los estudios que impartan las instituciones educativas particulares pertenecientes al Sistema Educativo Estatal y ejecutar las políticas y programas en materia de Educación Superior en la Entidad; así como realizar labores de control, supervisión y evaluación a las Instituciones de Educación Básica, Media Superior y Superior y autorizar, otorgar, modificar o revocar los Registros de Validez Oficial del (sic) Estudios y verificar los procedimientos que deban seguirse para el otorgamiento de certificados, títulos profesionales y grados académicos que expidan u otorguen;
+
+XII. Coordinar con las universidades e instituciones de educación superior, el servicio social de pasantes, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIII. Coordinar, organizar, dirigir y fomentar con los ayuntamientos e instituciones públicas o particulares el establecimiento de bibliotecas y hemerotecas, así como promover la creación de instituciones de divulgación científica y educativa;
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+XIV. Promover, en coordinación con la Secretaría de Turismo, Cultura y Cinematografía, la edición y distribución de obras científicas, pedagógicas, históricas y literarias, para la difusión del conocimiento y el desarrollo cultural; asimismo, elevar el nivel educativo de la población del Estado;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XV. Mantener por sí o en coordinación con los gobiernos federal y municipales, programas permanentes de Educación para Adultos, de Alfabetización, de Enseñanza Abierta y para trabajadores, así como la acreditación de estudios; constituirá una prioridad la erradicación de Analfabetismo, particularmente en los sectores sociales afectados con mayor grado de marginación.
+
+XVI. Fomentar y vigilar el desarrollo de la investigación científica y tecnológica en la Entidad;
+
+XVII. Promover, en coordinación con la Secretaría de Salud y Asistencia y la de Desarrollo Regional, los programas de educación para la salud y mejoramiento del ambiente;
+
+XVIII. Coordinar con las autoridades competentes, la realización de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo, y el tabaquismo;
+
+XIX. Promover y organizar actividades de recreación y aprovechamiento del tiempo libre, tendientes a estimular la formación integral de la niñez y la juventud veracruzanas;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XX. Coordinar, organizar y fomentar la enseñanza y la práctica de los deportes en los planteles educativos del Estado, así como impulsar la participación de los veracruzanos en los torneos y justas deportivas nacionales e internacionales, procurando elevar su competitividad y alcanzar niveles de excelencia.
+
+XXI. Vigilar, en coordinación con las autoridades competentes, la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
+
+XXII. Fomentar en los educandos el amor y el respeto a los símbolos patrios, y cuidar que se cumpla con el espíritu de la ley de la materia;
+
+XXIII. Promover, en coordinación con las autoridades competentes, los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2010)</small>
+
+XXIV. Patrocinar, en coordinación con la Secretaría de Turismo, Cultura y Cinematografía, la realización de congresos, asambleas, reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, artístico y educativo;
+
+XXV. Planear, organizar y supervisar el desarrollo de programas de educación tecnológica, con el fin de crear, conservar y transmitir la cultura y la ciencia, con respeto a la libertad de cátedra y de investigación, de libre examen y de discusión de las ideas, y procurar su vinculación con el sector productivo;
+
+XXVI. Estudiar, analizar e incorporar las experiencias e innovaciones de otros sistemas educativos, a fin de actualizar los planes y programas de estudio de la educación tecnológica en la Entidad;
+
+XXVII. Participar, en coordinación con la autoridad competente, en los programas de educación agropecuaria, forestal y pesquera;
+
+XXVIII. Administrar y supervisar las instalaciones deportivas que se encuentren a su cargo;
+
+XXIX. Coordinar acciones en materia deportiva con autoridades municipales, estatales, federales o de otras Entidades Federativas, de conformidad con las disposiciones legales aplicables;
+
+XXX. Autorizar y llevar el registro de academias, gimnasios, clubes y escuelas en el Estado, que realicen actividades de instrucción deportiva, recreativa o de capacitación física;
+
+XXXI. Cooperar, en su caso, con las tareas que desarrollen las diferentes organizaciones deportivas;
+
+XXXII. Evaluar el Sistema Educativo Estatal;
+
+XXXIII. Ajustar el calendario escolar respecto al establecido por la autoridad educativa federal, cuando ello resulte necesario en atención a requerimientos específicos en la Entidad, en términos de la legislación aplicable;
+
+XXXIV. Promover la participación social para el fortalecimiento y desarrollo del Sistema Educativo Estatal; y
+
+XXXV. Promover los servicios de formación, actualización, capacitación y superación profesional para los maestros del Sistema Educativo Estatal.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXVI. Dirigir, coordinar y ejecutar las políticas públicas que conlleven a elevar la calidad de la Educación Preescolar que imparta el Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXVII. Proponer y ejecutar las políticas y programas del Estado en materia de investigación científica y tecnológica, así como divulgación de la ciencia y la tecnología y la promoción de los usos sociales del conocimiento como la conectividad enciclomedia y otros esquemas similares.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE JUNIO DE 2005)</small>
+
+De la Secretaría de Trabajo, Previsión Social y Productividad.
+
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 22 Bis.
+
+La Secretaría de Trabajo, Previsión Social y Productividad es la dependencia responsable de conducir y coordinar la política laboral en el estado, y tendrá la competencia que en la materia le otorguen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JUNIO DE 2005)</small>
+
+###### Artículo 22 Ter.
+
+Son atribuciones del Secretario de Trabajo, Previsión Social y Productividad, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+I. Vigilar, en el ámbito estatal, la exacta aplicación de las disposiciones contenidas en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y los reglamentos estatales vigentes en materia laboral, así como las relaciones del Gobierno del Estado con sus trabajadores;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+II. Formular y ejecutar el Programa Estatal de Empleo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+III. Promover y procurar el equilibrio de los factores de la producción, de conformidad con las disposiciones legales aplicables;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+IV. Organizar y operar el Servicio Estatal de Empleo, previo diagnóstico de la oferta y la demanda de trabajo en la Entidad;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+V. Aplicar los programas y normas que determinen la estrategia para la capacitación y adiestramiento y la seguridad e higiene en el trabajo, en coordinación con la autoridad federal del trabajo y con la participación de los sectores patronal, de los trabajadores, académicos y profesionales de la sociedad que inciden en este ámbito;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+VI. Vigilar, mediante visitas e inspecciones, que los centros de trabajo cumplan con las disposiciones legales en materia laboral; realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+VII. Presidir la Junta Local de Conciliación y Arbitraje y las Juntas Especiales de la misma, cuando se trate de conflictos colectivos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+VIII. Presidir el Pleno de la Junta Local de Conciliación y Arbitraje;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+IX. Ejecutar los convenios y acuerdos que en materia de Trabajo firme el Ejecutivo Estatal con la Federación, coadyuvando con la dependencia federal correspondiente en la solución de los conflictos suscitados con motivo de Contratos-Ley de empresas asentadas en la Entidad;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+X. Dirigir y coordinar la Procuraduría para la Defensa del Trabajo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XI. Promover programas en materia de Previsión Social, así como organizar y patrocinar conferencias, exposiciones, reuniones, cursos y demás actividades tendientes a elevar el nivel de vida de los trabajadores y sus familias;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XII. Estudiar y proponer al Ejecutivo del Estado, una política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del Estado y la mejoría de quienes laboran en ella;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XIII. Auxiliar en sus funciones a la Comisión Regional de los Salarios Mínimos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XIV. Aportar a las autoridades federales del trabajo, la información que soliciten para el cumplimiento de sus funciones;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XV. Participar en la integración y funcionamiento de los organismos estatales encargados de la Capacitación y Adiestramiento y de la Seguridad e Higiene en el Trabajo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XVI. Intervenir, a petición de parte, en la revisión de los contratos colectivos de trabajo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XVII. Mediar y conciliar, a petición de parte o cuando la situación lo amerite, en los conflictos que surjan de presuntas violaciones a la Ley Federal del Trabajo o a los contratos colectivos de trabajo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XVIII. Formular y ejecutar programas de difusión de los cambios que se den en las normas laborales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XIX. Promover y apoyar el incremento de la calidad y la productividad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XX. Fomentar y apoyar la organización social para el trabajo y el autoempleo; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 20 DE MAYO DE 2002)</small>
+
+XXI. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Desarrollo Económico y Portuario
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
+
+#### SECCIÓN TERCERA. De las Empresas de Participación Estatal
+
+###### Artículo 48.
+
+Son empresas de participación estatal aquellas que, además de lo dispuesto por esta ley y leyes del Estado, satisfagan algunos de los siguientes requisitos:
+
+I. Que el Gobierno Estatal, o uno o más organismos descentralizados, u otras empresas de participación estatal, considerados conjunta o separadamente, aporten o sean propietarios del 51% o más del capital social;
+
+II. Que en la constitución de su capital, se hagan figurar acciones de serie especial, que sólo puedan ser suscritas por el Gobierno del Estado; y
+
+III. Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u Órgano de Gobierno, así como designar al Presidente, al Director, al Gerente o cuando tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas del Consejo de Administración o de la Junta Directiva u Órgano de Gobierno equivalente.
+
+###### Artículo 49.
+
+Las empresas de participación estatal deberán tener por objeto áreas prioritarias, en los términos del artículo 43 de esta ley.
+
+###### Artículo 50.
+
+Cuando alguna empresa de participación estatal no cumpla con el objeto a que se contrae el artículo anterior, o ya no resulte conveniente conservarla como entidad paraestatal desde el punto de vista económico o del interés público, la Secretaría de Finanzas y Planeación, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Gobernador del Estado la enajenación de la participación estatal o en su caso su disolución o liquidación, en términos de la legislación aplicable. La enajenación de los títulos representativos del capital de la Administración Pública Estatal, deberá realizarse a través de las operaciones que garanticen las mejores condiciones de venta para el Gobierno del Estado, de acuerdo con las normas que emita la Secretaría de Finanzas y Planeación. La Contraloría General vigilará el debido cumplimiento de lo anterior.
+
+###### Artículo 51.
+
+El Gobernador del Estado, por conducto de la dependencia coordinadora de sector, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+
+###### Artículo 52.
+
+Los Consejos de Administración, o sus equivalentes, de las empresas de participación estatal, se integrarán de acuerdo a su normatividad interna y en lo que no se oponga a lo dispuesto por esta ley.
+
+Los integrantes de dichos consejos, o sus equivalentes, que representen la participación del Gobierno del Estado, además de aquellos a que se refiere el artículo 42 de este ordenamiento, serán designados por el titular del Ejecutivo del Estado, directamente o a través de la dependencia coordinadora de sector. Asimismo, éstos deberán constituir en todo tiempo más de la mitad de los miembros del Consejo, y serán servidores públicos de la Administración Pública Estatal o personas de reconocida calidad moral o prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
+
+###### Artículo 53.
+
+La fusión o disolución de las empresas de participación estatal se efectuará conforme a los lineamientos o disposiciones establecidos en la normatividad interna de la empresa y legislación correspondiente.
+
+La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas y Planeación, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ###### Artículo 23.
 
-La Dirección Académica será la encargada de la administración, organización y supervisión del desarrollo de los programas académicos y su titular tendrá las siguientes funciones:
+La Secretaría de Desarrollo Económico y Portuario es la dependencia responsable de coordinar la política de desarrollo industrial, comercial y portuario de la entidad, así como de vigilar la aplicación y observancia de las disposiciones legales en estas materias.
 
-I. Gestionar la oferta educativa que se promueva en la Universidad;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
-II. Suscribir con la persona titular de la Rectoría, o cuando este lo determine, los certificados, constancias, diplomas, títulos o grados académicos a las personas que hayan concluido los estudios correspondientes;
+#### SECCIÓN CUARTA. De los Fideicomisos Públicos
 
-III. Coordinar las Escuelas de Formación de la Universidad;
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
-IV. Proponer y desarrollar los programas de formación para los aspirantes e integrantes de las instituciones de seguridad y de justicia, en estricto apego al Programa Rector de Profesionalización vigente;
+###### Artículo 54.
 
-V. Elaborar el calendario de actividades académicas y remitirlo a la persona titular de la Rectoría para su debida aprobación;
+Son fideicomisos públicos las entidades creadas por ley o decreto del Congreso o por decreto del Titular del Ejecutivo, que se constituyan con recursos que conforman la Hacienda Pública del Estado y se organicen, de acuerdo a su normatividad interior, con el propósito de auxiliar al Ejecutivo en la realización de actividades prioritarias de interés público.
 
-VI. Desarrollar los procedimientos correspondientes para la selección y evaluación del personal docente de la Universidad;
+Los fideicomisos contarán con un Comité Técnico que será presidido por la persona que al efecto se designe en su Decreto Constitutivo o en el Contrato de Fideicomiso; la Secretaría de Finanzas y Planeación designará, al menos, un representante en cada Comité Técnico, quien tendrá voz y voto. Asimismo, los que lo requieran, se auxiliarán de una estructura administrativa para el cumplimiento de sus objetivos, sujeta a las disposiciones legales aplicables y a los lineamientos que al efecto expidan la Secretaría de Finanzas y Planeación y la Contraloría General.
 
-VII. Proponer a la Junta, por medio de la persona titular de la Rectoría y previa revisión del Consejo Académico, las reformas que estime convenientes al Reglamento y a la demás normatividad que rija en la Universidad;
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-VIII. Propiciar mediante el adecuado aprovechamiento de los recursos institucionales, la creación y mantenimiento de las facilidades necesarias para la correcta ejecución de las labores de la Universidad; y
+###### Artículo 54 Bis.
 
-IX. Las demás que establezca la Presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+Los Fideicomisos públicos se ajustarán, en cuanto a su organización, funcionamiento y atribuciones, a las disposiciones que el presente capítulo establece para los Órganos de Gobierno, a las disposiciones normativas que emitan la Secretaría de Finanzas y Planeación y la Contraloría General, así como a los términos previstos en el propio contrato de constitución del fideicomiso.
 
-#### Sección Tercera. De la Dirección de Vinculación, Comunicación y Participación Social
+El cargo de miembro del Comité Técnico será estrictamente personal y sólo podrá desempeñarse por medio de representantes, de conformidad con las disposiciones reglamentarias aplicables a la dependencia o entidad que representen.
+
+###### Artículo 55.
+
+El Ejecutivo del Estado a través de la Secretaría de Finanzas y Planeación, quien será el fideicomitente único del Gobierno del Estado, cuidará que los contratos mediante los cuales se constituyan los fideicomisos públicos contengan:
+
+I. Disposiciones que precisen los derechos y acciones que corresponda ejercer al fiduciario sobre los bienes fideicometidos;
+
+II. Las instituciones que establezca o que se deriven de derechos de fideicomisarios;
+
+III. Los derechos que el fideicomitente se reserve y las atribuciones que fije en su caso al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos a que se refiere el artículo anterior;
+
+IV. La facultad expresa del Gobierno del Estado de revocarlos, en su caso, sin perjuicio de los derechos que correspondan a los fideicomisarios, salvo que se trate de fideicomisos constituidos por mandato de la ley o que la naturaleza de sus fines no lo permita;
+
+V. Las facultades especiales que en su caso se otorguen al Comité Técnico, indicando cuales asuntos requieren de la aprobación del mismo para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución fiduciaria;
+
+VI. Disposiciones para la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicio al fideicomiso, si no es posible reunir al Comité Técnico, previa consulta y autorización de la dependencia coordinadora de sector;
+
+VII. Las estipulaciones que se deriven de la naturaleza específica del fideicomiso de que se trate y que sean necesarias para garantizar los recursos de la Administración Pública Estatal, de conformidad con lo señalado por esta ley y demás disposiciones aplicables; y
+
+VIII. La determinación de su estructura administrativa.
+
+###### Artículo 56.
+
+Las instituciones fiduciarias, a través del delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+La estructura administrativa de aquellos Fideicomisos que la requieran, deberá ser aprobada conjuntamente por la Secretaría de Finanzas y Planeación y la Contraloría General del Estado, a propuesta de la coordinadora de sector.
+
+###### Artículo 57.
+
+La institución fiduciaria tendrá las obligaciones siguientes:
+
+I. Realizar y celebrar, por instrucción del Comité Técnico, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso;
+
+II. Informar al fideicomitente y al Comité Técnico acerca de la ejecución de los acuerdos;
+
+III. Presentar al fideicomitente y al Comité Técnico la información contable requerida para precisar la situación financiera del fideicomiso; y
+
+IV. Cumplir con los demás requerimientos que, de común acuerdo con el fideicomitente y el Comité Técnico, se fijen.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+###### Artículo 57 Bis.
+
+Los fideicomisos deberán proporcionar a la Secretaría de Finanzas y Planeación y a la Contraloría General, la información y datos que se les soliciten, así como la que les requiera su coordinadora de sector.
+
+Para el cumplimiento de lo anteriormente establecido, la Secretaría de Finanzas y Planeación conjuntamente con la coordinadora de sector, y la Contraloría, harán compatibles los requerimientos de información que se demanden a los fideicomisos, racionalizando los flujos de información.
 
 ###### Artículo 24.
 
-La Dirección de Vinculación, Comunicación y Participación Social es la encargada de crear el vínculo entre la Universidad, Instituciones Públicas Estatales, Federales y otros organismos públicos y privados con la finalidad de convenir programas y estrategias para el desarrollo de acciones que coadyuven a la formación y profesionalización de los estudiantes y elementos de las diversas corporaciones policiacas y de procuración de justicia, coadyuvando en el fortalecimiento de la imagen institucional mediante programas y proyectos encaminados a la difusión de los objeto (sic) de la Universidad, coordinando las acciones para la comunicación, mediante la concentración, jerarquización y distribución de información a fin de posicionar, fortalecer, mantener e impulsar la imagen y quehacer institucional, de manera local, nacional e internacional.
+Son atribuciones del Secretario de Desarrollo Económico y Portuario, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+I. Formular, dirigir, coordinar y controlar, en términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del estado de Veracruz, relativos al fomento de las actividades industriales, mineras y portuarias.
+
+II. Apoyar los programas de investigación tecnológica industrial y fomentar su divulgación;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+III. Promover, fomentar y, en su caso, participar en la creación de parques, corredores y ciudades industriales así como en el desarrollo de la infraestructura portuaria y servicios conexos de competencia estatal;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IV. En coordinación con la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca participar en los programas de impulso a la industria piscícola en el Estado.
+
+V. Promover y fomentar en los términos de las leyes de la materia, la inversión, las coinversiones y la instalación de empresas convenientes al Estado de Veracruz, que generen fuentes de empleo;
+
+VI. Participar en coordinación con las autoridades competentes, en la planeación y programación de las obras e inversiones tendientes a promover la racional explotación de los recursos minerales del Estado;
+
+VII. Servir de órgano de consulta y asesoría en materia de desarrollo económico, tanto a los organismos públicos y privados como a las dependencias del Ejecutivo;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VIII. Asesorar técnicamente a los ayuntamientos y a los sectores social y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos y de desarrollo portuario;
+
+IX. Promover, en coordinación con la Secretaría de Finanzas y Planeación, el otorgamiento de estímulos de orden tributario con objeto de fomentar la participación de la iniciativa privada en la inversión productiva en la Entidad;
+
+X. Diseñar y establecer mecanismos administrativos tendientes a reducir y agilizar trámites en los procesos de establecimiento de nuevas empresas;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XI. Proponer las políticas y ejecutar los programas relativos al fomento del comercio y del desarrollo portuario; de acuerdo con el Plan Veracruzano de Desarrollo;
+
+XII. Asesorar técnicamente, en materia de desarrollo comercial y de abastos, a las dependencias y entidades de la Administración Pública y a los sectores social y privado que así lo soliciten;
+
+XIII. Fomentar y organizar la producción económica del artesanado y de las industrias familiares, así como su comercialización;
+
+XIV. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado;
+
+XV. Fomentar el desarrollo del pequeño comercio;
+
+XVI. Promover y coordinar la distribución y comercialización de productos, así como el establecimiento de los consumos básicos de la población;
+
+XVII. Auxiliar a las autoridades federales en la vigilancia del estricto cumplimiento de la política de precios, particularmente en lo que se refiere a artículos de consumo generalizado y de uso popular;
+
+XVIII. Promover y apoyar el desarrollo del comercio exterior;
+
+XIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXI. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXIII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXIV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXVI. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXVII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXVIII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+XXX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados y en general en las acciones dirigidas a la protección al consumidor;
+
+XXXII. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXIII. Vigilar que los créditos destinados a la industria, minería, comercio y desarrollo portuario señalados en los planes y programas, se orienten hacia los renglones prioritarios aprobados;
+
+XXXIV. Fomentar la organización y constitución de toda clase de sociedades cooperativas, así como otorgar la asistencia técnica y administrativa correspondiente; y
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXV. Difundir las actividades industriales, comerciales y portuarias a través de misiones comerciales, ferias, exposiciones, convenciones y demás eventos de promoción.
+
+De la Secretaría de Comunicaciones
 
 ###### Artículo 25.
 
-Las atribuciones y obligaciones de la Dirección de Vinculación, Comunicación y Participación Social serán las siguientes:
-
-I. Establecer, difundir y supervisar los lineamientos, normatividad, políticas, programas y procedimientos relacionados con la imagen institucional en coordinación con la Secretaría de Comunicación Social y Vocería del Gobierno del Estado;
-
-II. Planear, programar, jerarquizar y coordinar en acuerdo con la Rectoría y unidades administrativas, la información que se genere en las mismas, para su correspondiente Difusión en los medios de comunicación;
-
-III. Coordinar el enlace institucional da la Rectoría y vocerías con los medios de comunicación;
-
-IV. Proponer y supervisar la narrativa institucional en comunicados, mensajes, material gráfico a fin de mantener la uniformidad visual y discursiva en la Universidad;
-
-V. Coordinar las actividades de promoción y difusión de la oferta educativa en los foros correspondientes para la captación de aspirantes;
-
-VI. Coordinar y supervisar el archivo de imágenes para la producción y edición de material gráfico de apoyo a la comunicación, difusión, promoción de Actividades propias de la Universidad;
-
-VII. Establecer las Relaciones Públicas necesarias con todos los órdenes de gobierno, Organismos de la sociedad civil organizada y sociedad en general para fortalecer la imagen y presencia de la institución en materia de Seguridad y Prevención de la violencia y la delincuencia;
-
-VIII. Crear el vínculo con las instituciones de educación para la implementación de programas de proximidad social, prevención de la violencia y el delito, acrecentando así la buena imagen de las corporaciones de seguridad;
-
-IX. Crear los programas necesarios para el seguimiento y profesionalización continua de los estudiantes de la Universidad, así como la creación de una bolsa de trabajo para los mismos;
-
-X. Incentivar la Participación Social mediante programa de visitas escolares al (sic) Universidad, motivando así a la incorporación y atracción de nuevos alumnos al mismo, generando campañas de Difusión.
-
-XI. Administrar eficientemente los recursos humanos, financieros y materiales asignados a la Dirección de Vinculación, Comunicación y Participación Social, de acuerdo a las políticas y normatividad establecidas, en coordinación con las correspondientes instancias reguladoras; y
-
-XII. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+La Secretaría de Comunicaciones, es la dependencia responsable de coordinar la política del desarrollo de las vías de comunicación de jurisdicción estatal.
 
 #### Sección Cuarta. De la Dirección de Planeación y Proyectos
 
 ###### Artículo 26.
 
-La Dirección de Planeación y Proyectos será la encargada de establecer objeto y formular estrategias que permitan alcanzar los mismos, así como el desarrollo de planes de acción que implementen dichas estrategias. Además, coordinar los procesos de planeación para la toma de decisiones estratégicas que permitan mejorar el desempeño institucional.
+Son atribuciones del Secretario de Comunicaciones, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
+
+I. Dirigir, proyectar y controlar la presupuestación y ejecución de los programas relativos a la construcción, conservación y rehabilitación de las vías de comunicación estatales;
+
+II. Formular el programa anual de construcción, conservación y rehabilitación de autopistas, carreteras, caminos, puentes, aeropuertos, estaciones y centrales de telecomunicaciones o de autotransporte de jurisdicción estatal, de acuerdo con el Plan Veracruzano de Desarrollo y con la participación, en su caso, de los Ayuntamientos de la Entidad, las autoridades estatales y federales o los particulares vinculados con estas autoridades;
+
+III. Proyectar, construir, conservar y rehabilitar las autopistas, carreteras, puentes, aeropuertos, estaciones y centrales de telecomunicaciones o de autotransporte de jurisdicción estatal, en cooperación con los Gobiernos Federal o Municipal, así como con los particulares;
+
+IV. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras para la construcción, mantenimiento y rehabilitación de autopistas, carreteras, puentes, estaciones y centrales de telecomunicaciones o de autotransporte y aeropuertos de jurisdicción estatal;
+
+V. Establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de contratos en materia de obra pública, vigilar su cumplimiento y, en su caso, rescindirlos administrativamente de conformidad con la ley;
+
+VI. Formular lineamientos y especificaciones técnicas para el uso de las vías de comunicación estatal;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+VII. Coordinarse con la Secretaría de Medio Ambiente para que, en los derechos de vía de las vías estatales de comunicación, se respeten las prescripciones en materia de equilibrio ecológico y de protección al ambiente;
+
+VIII. Participar en el otorgamiento de concesión de autopistas, carreteras, puentes o aeropuertos de jurisdicción estatal; supervisar su cumplimiento y, en su caso, llevar a cabo el procedimiento para su rescate, reversión o aplicación de sanciones;
+
+IX. Asesorar a los particulares en la realización de obras públicas en materia de vías de comunicación estatal, cuando así lo soliciten;
+
+X. Cuidar que en la construcción, conservación y rehabilitación de vías de comunicación estatal se respeten las disposiciones aplicables en materia de equilibrio ecológico y la protección al ambiente;
+
+XI. Vigilar y conservar los servicios de telefonía y radiotelefonía del Estado y los demás medios que no estén considerados como Vías Generales de Comunicación;
+
+XII. Fomentar la telecomunicación que tenga fines oficiales y culturales;
+
+XIII. Trabajar coordinadamente con los Ayuntamientos de la Entidad, así como con dependencias y entidades estatales o federales y personas físicas o morales del sector privado, vinculadas con el desarrollo de las vías de comunicación estatal;
+
+XIV. Suscribir, previa autorización del titular del Poder Ejecutivo, convenios para la proyección, construcción, rehabilitación, conservación o administración de vías de comunicación estatal y, en su caso, federal; y
+
+XV. Promover y, en su caso, organizar la capacitación, investigación y el desarrollo tecnológico en materia de vías de comunicación estatal.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVI. Coordinar y ejecutar las políticas y programas del Estado, tanto en materia de aeronáutica como de servicios aéreos gubernamentales;
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+De la Secretaría de Desarrollo Social
+
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 27.
 
-Las facultades y obligaciones de la Dirección de Planeación y Proyectos son las siguientes:
+La Secretaría de Desarrollo Social es la dependencia responsable de coordinar la política de desarrollo social para el combate a la pobreza, en particular en materia de asentamientos humanos, ordenamiento del desarrollo territorial regional y urbano y de vivienda, así como ejecutar obras públicas relacionadas con estas materias; y de normar y coordinar la prestación de servicios de asistencia pública y social, incluyendo el Sistema Estatal de Desarrollo Humano y Familiar, en los términos de la normatividad que lo regule.
 
-I. Coordinar a las unidades administrativas para el desarrollo e integración del Programa Operativo Anual;
-
-II. Seguimiento, análisis del reporte del Programa Operativo Anual;
-
-III. Coordinación de actividades con las unidades administrativas para la integración de los informes requeridos;
-
-IV. Desarrollar e integrar de (sic) la información institucional para los planes de gobierno y otras organizaciones aplicables;
-
-V. Realizar los trabajos de formulación y evaluación integral de los planes de desarrollo y Proyectos a corto, mediano y largo plazo de la Universidad;
-
-VI. Presentar a la Junta, a través de la Rectoría, para su aprobación, las propuestas de planes y proyectos a corto, mediano y largo plazo para el desarrollo, innovación y mejora continua institucional;
-
-VII. Efectuar y coordinar con las unidades administrativas los trabajos de análisis, diseño, cultura y evaluación de los procesos administrativos Institucionales, así como realizar otros Estudios que se requieran para que la estructura y Sistemas de la Universidad, funcionen en forma adecuada y eficiente;
-
-VIII. Integrar la información para el desarrollo de manuales operativos, de procesos y otros que se requieran;
-
-IX. Fungir como enlace de Planeación y Proyectos con las diferentes instancias de gobierno y privadas, nacionales e internacionales;
-
-X. Apoyar en las Actividades designadas por Rectoría;
-
-XI. Diseñar implementar y operar los diferentes Sistemas de aseguramiento de la calidad de la Universidad;
-
-XII. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 #### Sección Quinta. De la Dirección Jurídica, Transparencia y Acceso a la información Pública
 
 ###### Artículo 28.
 
-La Dirección Jurídica, Transparencia y Acceso a la Información Pública es la Unidad de representación y asesoría de asuntos litigiosos y contenciosos, consulta e Investigación Jurídica de la Universidad, revisión de asuntos jurídicos en las diversas materias del Derecho; transparencia y protección de datos personales, así como compilar, sistematizar y difundir las normas jurídicas que regulen el funcionamiento de la Universidad.
+Son atribuciones del Secretario de Desarrollo Social, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+I. Coordinar con la Federación y los municipios, las acciones que incidan en el combate a la pobreza, propiciando la simplificación de los procedimientos y el establecimiento de medidas de seguimiento y control;
+
+II. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2009)
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+III. Formular y apoyar la ejecución de las políticas y los programas nacionales, regionales, estatales y municipales para el desarrollo urbano y la vivienda, así como para el señalamiento y cuidado de los destinos y usos de las reservas territoriales para asentamiento humano;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IV. Formular, ejecutar y evaluar los programas estatales y regionales en materia de asentamientos humanos y vivienda, con base en el Plan Nacional y el Plan Veracruzano de Desarrollo,
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+V. Promover la ejecución de programas de vivienda en coordinación con las autoridades federales y de los ayuntamientos en cuya jurisdicción habrán de efectuarse las obras respectivas;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VI. Promover la coordinación con dependencias y entidades, federales o municipales, a fin de atender los problemas relativos a los asentamientos humanos irregulares en la entidad;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VII. Asesorar y coadyuvar con los ayuntamientos que así lo soliciten, en el señalamiento de las reservas territoriales destinadas a casas habitación, viviendas de interés social, parques, mercados, corredores industriales, zonas ecológicas, escuelas y otros espacios de naturaleza similar;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VIII. Gestionar, ante las autoridades que correspondan, la transferencia al Gobierno del Estado, de los terrenos de propiedad federal ubicados en la entidad y en los que existan asentamientos humanos;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IX. Fomentar la organización de sociedades cooperativas de vivienda y de materiales de construcción;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+X. Promover a nivel estatal la adquisición de suelo urbano para vivienda o para el desarrollo urbano;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XI. Promover y apoyar, conforme al Plan Veracruzano de Desarrollo, la realización de los programas regionales y municipales de desarrollo urbano, para la integración de un sistema Estatal del Suelo;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XII. Promover, en coordinación con las autoridades federales y estatales, la realización de obras e instalaciones para dotar a los núcleos de población de servicio eléctrico, particularmente en las zonas rurales; así como de agua y gas;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIII. Asesorar, a solicitud de los propios ayuntamientos, en la elaboración de proyectos y ejecución de obras municipales de agua potable y alcantarillado, en la administración y operación de estos servicios y, en su caso, ejecutar y supervisar dichas obras;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+XIV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas relacionadas con el desarrollo social, de acuerdo con el Plan Estatal de Desarrollo, así como dirigir, coordinar y controlar la ejecución de las mismas;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XV. Elaborar y, en su caso, sancionar los proyectos y presupuestos de las obras públicas, en coordinación con las dependencias a las que corresponda su ejecución;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVI. Proyectar, ejecutar y, en su caso, supervisar por administración directa o a través de terceros por licitación, las obras públicas de competencia de esta Secretaría y establecer las bases técnicas a que deben sujetarse las licitaciones para la adjudicación de los respectivos contratos y vigilar el cumplimiento de los mismos;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVII. Asesorar técnicamente a los ayuntamientos en la realización de obras públicas, cuando así lo soliciten;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVIII. Construir, reconstruir y conservar, los edificios públicos, los monumentos históricos y las obras de ornato realizadas por el Estado, exceptuando las encomendadas a otra dependencia;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIX. Coadyuvar, a petición de los ayuntamientos, en la elaboración de proyectos y en la ejecución de la obra pública municipal;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XX. Formular, por acuerdo del Gobernador del Estado y con la intervención que corresponda a los municipios, las declaratorias de zonas de riesgo e integrar las comisiones que normen, regulen, limiten o prohíban la ocupación de éstas, en los términos que disponga la normativa aplicable;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXI. Conocer del ejercicio de acción popular, del procedimiento administrativo que en esta materia se inicie con motivo de la inobservancia de la ley, así como de la aplicación de las sanciones correspondientes;
+
+XXII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXIV. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXV. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXV Bis. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXV Ter. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXVI. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+XXVII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVIII. Desarrollar, supervisar y evaluar la operación del Sistema para el Desarrollo Humano y Familiar de los Veracruzanos, en protección y apoyo de la infancia, los adultos mayores, las personas con capacidades diferentes y otros grupos vulnerables de la sociedad.
+
+XXIX. (DEROGADA, G.O. 13 DE ENERO DE 2006)
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+XXX. Coordinar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial la población indígena, los menores, las personas con discapacidades, adultos mayores y la población marginada de las áreas rurales y urbanas, con la finalidad de contribuir a elevar su nivel de vida, asimismo, dirigir y coordinar los programas y acciones de protección a los migrantes veracruzanos y sus familias.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+De la Secretaría de Medio Ambiente
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 28 Bis.
+
+La Secretaría de Medio Ambiente es la dependencia responsable de coordinar las políticas de preservación y restauración del equilibrio ecológico, cambio climático y protección del medio ambiente en el Estado.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 28 Ter.
+
+Son atribuciones del Secretario de Medio Ambiente, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Formular, conducir, instrumentar y evaluar la política estatal en materia de equilibrio ecológico, protección al ambiente y cambio climático;
+
+II. Emitir disposiciones administrativas en materia de equilibrio ecológico, medio ambiente y cambio climático, dentro de su esfera de atribuciones;
+
+III. Atender los asuntos relativos a la preservación, conservación y restauración del equilibrio ecológico y protección al ambiente, así como aplicar los instrumentos de política ambiental de conformidad con las leyes, normas y demás disposiciones aplicables, en el ámbito de su competencia;
+
+IV. Promover el cumplimiento de las disposiciones legales en materia ambiental en coadyuvancia con los órganos encargados de la ejecución de los planes, programas y proyectos en materia de fomento y conservación del equilibrio ecológico y la protección del medio ambiente en el ámbito de su competencia;
+
+V. Participar en la formulación de planes, programas y proyectos estatales y municipales evaluando su apego al marco normativo aplicable en materia de equilibrio ecológico, protección al ambiente, riesgo ambiental y cambio climático;
+
+VI. Promover, establecer, instrumentar y coordinar las acciones encaminadas a prevenir y controlar según corresponda, en el marco de su competencia, la contaminación del agua, aire y suelo, así como el registro de contaminantes y su monitoreo;
+
+VII. Participar en el diseño de programas que promuevan o faciliten la vigilancia, la regulación y la realización de auditorías ambientales en el ámbito de la competencia estatal;
+
+VIII. Establecer las políticas generales, emitir los criterios y las normas técnicas en materia de prevención y gestión integral de residuos sólidos y de manejo especial, en los términos que definan los instrumentos jurídicos de la materia, implementando en su caso acciones mediante la concertación con la Federación, Estados y Municipios;
+
+IX. Evaluar el impacto ambiental generado por la realización de obras o actividades, así como, en su caso, los estudios de riesgo que le correspondan, siempre que no sean expresamente reservados a la Federación o a los municipios, otorgando la expedición de las autorizaciones correspondientes, de conformidad con la normatividad aplicable;
+
+X. Formular la política de ordenamiento ecológico del territorio desarrollando, ejecutando y evaluando los programas correspondientes a través de la concertación con los municipios y todos los sectores sociales;
+
+XI. Prevenir, medir y controlar la contaminación a la atmósfera y la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales en el territorio del Estado y en el ámbito de jurisdicción estatal, generada por fuentes fijas o móviles;
+
+XII. Regular, promover y supervisar el aprovechamiento sustentable y la prevención y control de la contaminación y, en su caso, saneamiento de las aguas de jurisdicción estatal, así como de las aguas nacionales que tenga asignadas el Estado en el ámbito de su competencia;
+
+XIII. Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en el Estado, con la participación de los municipios y de la sociedad en general cuando lo considere conveniente, dentro de su ámbito de competencia;
+
+XIV. Regular, prevenir, controlar y en su caso efectuar acciones tendientes a evitar la degradación ambiental generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos;
+
+XV. Colaborar en la atención de emergencias y contingencias ambientales, en los términos de sus atribuciones, así como proponer al Ejecutivo del Estado la adopción de las medidas necesarias para la prevención y el control de sus posibles efectos adversos sobre el entorno ecológico;
+
+XVI. Coordinar, en el ámbito de su competencia, las acciones relativas a la formulación e instrumentación de políticas estatales para la prevención y mitigación de emisiones de gases de efecto invernadero, la adaptación a los efectos adversos del cambio climático y, en general, promover el desarrollo de programas y estrategias de acción climática relativos al cumplimiento de los compromisos internacionales adquiridos en materia de cambio climático;
+
+XVII. Desarrollar, ejecutar y evaluar, en el ámbito de su competencia, los programas correspondientes a las políticas en materia de cambio climático para su incorporación sectorial o intersectorial correspondiente;
+
+XVIII. Coordinar, en el ámbito de su competencia, con las demás autoridades la categorización, los criterios ambientales y las características funcionales de los productos y servicios considerados en esquemas de etiquetado ambiental y aquellos que ostenten un comportamiento ambiental adecuado;
+
+XIX. Coordinar con las autoridades competentes la instrumentación de los programas y las medidas para la preservación de los recursos naturales, la prevención de la contaminación, el ordenamiento y la limpieza de las playas, el mejoramiento ambiental de las actividades e instalaciones turísticas, así como la implementación de empresas del mismo ramo, sujetos a un sistema de indicadores de sustentabilidad;
+
+XX. Establecer, en coordinación con las autoridades federales, estatales y municipales, y los particulares cuando lo considere conveniente, el marco legal y normativo en materia de cambio climático, bajo criterios de transversalidad en las políticas públicas del Gobierno del Estado;
+
+XXI. Fomentar la generación de información y conocimiento técnico-científico sobre los efectos del cambio climático y la variabilidad climática en el Estado, así como contribuir a la generación de capital humano capacitado en la mitigación de gases de efecto invernadero y la adaptación al cambio climático;
+
+XXII. Fortalecer la cultura ecológica mediante programas de educación ambiental;
+
+XXIII. Impulsar el desarrollo y uso de tecnologías para aprovechar los recursos naturales y la protección del entorno ecológico bajo criterios de sustentabilidad, mediante políticas de estímulos e incentivos en coordinación con la Secretaría de Finanzas y Planeación;
+
+XXIV. Promover y proporcionar la transparencia de la información pública en materia ambiental;
+
+XXV. Crear los órganos necesarios para el mejor desempeño de sus funciones;
+
+XXVI. Celebrar todo tipo de contratos, convenios y acuerdos para facilitar el desempeño de sus funciones;
+
+XXVII. Aplicar las medidas de seguridad y sanciones administrativas que procedan, por infracciones a la Ley de la materia y demás disposiciones legales aplicables; y
+
+XXVIII. Participar, en el ámbito de su competencia, en las acciones que realicen otras autoridades federales, estatales y municipales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Desarrollo Agropecuario, Forestal y Pesca
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 29.
 
-Las facultades y atribuciones de la Dirección Jurídica, Transparencia y Acceso a la Información Pública serán las siguientes:
+La Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca es la dependencia responsable de coordinar las políticas públicas de desarrollo agrícola, ganadero, forestal y pesquero en la entidad.
 
-I. Asesorar Jurídicamente a la persona titular de la Rectoría y a las demás autoridades de la Universidad, actuando corno Órgano jurídico de consulta, sistematizando y difundiendo los criterios necesarios para interpretar y aplicar, para efectos administrativos, las disposiciones legales que normen sus actividades;
-
-II. Fungir como Órgano de consulta, asesoría, apoyo y asistencia Jurídica en las materias de su competencia, para todas las unidades administrativas y las y los Servidores Públicos adscritos a la Universidad, en los asuntos que deriven del ejercicio de sus atribuciones; y procurar la unificación de criterios en la aplicación de normas y el cumplimiento de las formalidades previstas en los procedimientos administrativos;
-
-III. Otorgar Seguridad al Patrimonio e intereses de la Universidad, apoyando legalmente el ejercicio de sus atribuciones, así como atender todos aquellos asuntos en que tenga interés jurídico;
-
-IV. Compilar y difundir las disposiciones Jurídicas relacionadas con las atribuciones de la Universidad;
-
-V. Elaborar y dictaminar los convenios, contratos, acuerdos, bases de coordinación o colaboración y, en general, cualquier instrumento jurídico que celebre la Universidad con Organismos de los sectores Público, privado y social;
-
-VI. Formular los ante Proyectos de leyes, reglamentos, decretos, acuerdos y órdenes que la persona titular de la rectoría proponga y demás disposiciones normativas que correspondan o sean materia competencia de la Universidad;
-
-VII. Previo poder otorgado por el Rector, representar legalmente a la Universidad tanto en los pleitos y cobranzas, actos de Administración, juicios de orden laboral como en los asuntos contenciosos en los que sea parte e intervenir en las reclamaciones de carácter jurídico que puedan afectar los intereses de la institución, interponer recursos, formular querellas e incluso desistirse de las mismas, articular y absolver posiciones, ejercer y desistirse de acciones judiciales, administrativas y laborales e inclusive en materia del juicio de amparo;
-
-VIII. Elaborar las actas administrativas que correspondan con respecto al desempeño de las funciones del personal y remitirlas a la unidad administrativa, conforme a la normatividad aplicable; asesorar a las unidades administrativas de la Universidad en los asuntos laborales relativos a su personal, incluyendo la elaboración de constancias, actas administrativas y otros documentos similares;
-
-IX. Realizar la certificación de documentos, sobre originales que obren en los archivos existentes de la Universidad;
-
-X. Iniciar y dar trámite a los procedimientos de rescisión y de exigibilidad de garantías y penalización de los contratos, pedidos y demás negocios jurídicos en los que participe la Universidad, previa solicitud y dictamen que formule el área responsable del control, seguimiento y ejecución del contrato, pedido o negocio jurídico de que se trate;
-
-XI. Elaboración de contratos, especificando en las cláusulas; derechos, obligaciones y causales de terminación, apegados a la normatividad aplicable para tal efecto; Representar a la Universidad y dar trámite a los asuntos relacionados con propiedad industrial y derechos de autor ante las autoridades competentes;
-
-XII. Proponer al Rector los instrumentos jurídicos necesarios para el cumplimiento de los fines y objeto de la Universidad;
-
-XIII. Dar seguimiento a las solicitudes de información Pública que sean solicitadas, bajo los medios legales que contempla la ley de la materia;
-
-XIV. Elaborar el informe anual de las Actividades desempeñadas y remitirlo a la Dirección de Planeación y Proyectos; y
-
-XV. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 #### Sección Séptima (sic). De la Dirección de Administración y Finanzas
 
 ###### Artículo 30.
 
-La Dirección de Administración y Finanzas es la responsable de la ejecución de los procesos del presupuesto, ejercicio y control, así como administrar los recursos humanos, financieros y materiales, la adquisición de bienes y servicios, elaborar el anteproyecto anual de ingresos y egresos, de conformidad a las medidas de racionalidad y disciplina en el uso del gasto de acuerdo al programa operativo anual y al plan institucional de la Universidad; y su titular tendrá las siguientes atribuciones:
+Son atribuciones del Secretario de Desarrollo Agropecuario, Rural, Forestal y Pesca, conforme a la distribución de competencia que establezca su Reglamento Interior, las siguientes:
 
-I. aplicar las normas y políticas generales para administrar y custodiar el patrimonio de la Universidad;
+I. Fomentar la producción agrícola, frutícola, forestal y obras de infraestructura hidráulica, así como apoyar, vigilar y, en su caso, ejecutar los programas que en esta materia deriven del Plan Veracruzano de Desarrollo;
 
-II. Aplicar las normas y políticas generales en materia de recursos humanos, materiales y financieros de la Universidad;
+II. Fomentar, conforme a los programas en la materia, la organización, capacitación y asistencia técnica a los productores agrícolas, frutícolas y forestales;
 
-III. Ejercer el presupuesto de la Universidad, de conformidad con las disposiciones legales y administrativas aplicables al manejo de recursos públicos;
+III. Promover que el crédito y seguro agrícola, frutícola y forestal, se orienten hacia los renglones prioritarios que señale el Plan Veracruzano de Desarrollo;
 
-IV. Revisar la contabilidad de las operaciones de la Universidad, así como revisar, autorizar, y presentar a la persona titular de la Rectoría los informes, balances y estados financieros que le sean requeridos;
+IV. Efectuar las acciones de coordinación con autoridades federales, estatales o municipales, con el objeto de que los productores cuenten, con suficiencia, calidad y oportunidad, con los insumos para la producción;
 
-V. Gestionar los trámites para la adquisición de bienes y servicios que requiera la Universidad para su funcionamiento;
+V. Estimular el establecimiento de empresas proveedoras de insumos, equipo e implementos agrícolas, acordes a las necesidades del Estado;
 
-VI. Revisar el trámite de becas otorgadas a los alumnos, conforme a las disposiciones legales aplicables;
+VI. Propiciar la concertación de acciones entre productores y dependencias oficiales, que permitan el fomento de patronatos de productores de semillas y material vegetativo mejorado, para cubrir las necesidades del Estado;
 
-VII. Coordinar la conservación y mantenimiento de los bienes muebles e inmuebles de la Universidad, así como los registros de altas, bajas y modificaciones que se realicen;
+VII. Formular el inventario de los recursos e infraestructura agrícola, frutícola, forestal e hidráulica existentes en el Estado, promoviendo su explotación racional y eficiente;
 
-VIII. Revisar y autorizar el registro de altas, bajas e incidencias laborales de personal de la Universidad, para los efectos administrativos y legales correspondientes;
+VIII. Proponer, apoyar y, en su caso, ejecutar las obras de infraestructura agrícola e hidráulica en cooperación con el Gobierno Federal, los Municipios y las organizaciones de productores;
 
-IX. Elaborar y proponer al Rector, los presupuestos de ingresos y egresos de la Universidad, y llevar el control contable presupuestal;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-X. Revisar y autorizar el pago de salarios al personal administrativo y docente, en los términos que dispongan las normativas aplicables; y
+IX. Participar, de conformidad con las disposiciones aplicables, en el aprovechamiento de los recursos hidráulicos de la entidad; tratándose de los lagos, ríos y otros cuerpos de agua, las políticas y programas se definirán y ejecutarán coordinadamente con las Secretarías de Desarrollo Social y de Medio Ambiente;
 
-XI. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+X. Fomentar la realización de proyectos de ingeniería agrícola e hidráulica, como obras de pequeña irrigación y abrevadero, drenaje, terraceros, nivelaciones, al igual que de construcciones rurales, como bodegas, cobertizos, galeras, zahúrdas, baños, silos y otros similares, en coordinación con las Secretarías de Desarrollo Social y de Medio Ambiente;
+
+XI. Promover, apoyar y realizar en su caso, campañas para prevenir y combatir las plagas y enfermedades que atacan a las especies vegetales del Estado;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XII. Asesorar a los municipios y organismos productores que lo soliciten, en materia agrícola, frutícola, forestal, hidráulica y pesquera;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIII. Promover la creación de organismos y mecanismos que permitan el control de la comercialización por parte de los productores, de los insumos y productos agrícolas, forestales y pesqueros así como fomentar la comercialización y producción de cultivos y especies con demanda internacional;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIV. Gestionar lo necesario para que los precios de garantía y de mercado de los productos agrícolas, frutícolas, forestales y pesqueros se fijen con equidad;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XV. Fomentar la creación, la organización y el desarrollo de industrias relacionadas con la producción agrícola, frutícola, forestal y pesquera que se genera en la entidad, en coordinación con la Secretaría de Desarrollo Económico y Portuario;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVI. Promover y apoyar la investigación básica y aplicada ligada a la problemática agrícola, frutícola, forestal, hidráulica y pesquera estatal, así como fomentar la divulgación y adopción de las tecnologías y sistemas generados, que aumenten la producción y productividad del campo;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVII. Fomentar la enseñanza agrícola, frutícola, forestal, pesquera e hidráulica, mediante la creación de campos experimentales, escuelas y centros de capacitación y demostración, así como coordinar acciones con los centros educativos con esta materia establecidos en el Estado;
+
+> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVIII. Vigilar la preservación de los recursos agrícolas, frutícolas, pesqueros y forestales, así como la de los recursos naturales renovables factibles de utilizarse y desarrollar su potencial productivo;
+
+XIX. Fomentar y apoyar la conservación y preservación de suelos agrícolas y áreas forestales, a través del manejo integral de cuencas hidrográficas;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+XX. Fomentar programas de reforestación, en coordinación con las Secretarías de Desarrollo Social y de Medio Ambiente;
+
+XXI. Fomentar y controlar los servicios agrícolas que establezca el Estado, tales como: distribución de semillas mejoradas, fertilizantes, árboles frutales y centrales de maquinaria entre otros;
+
+XXII. Fomentar la producción pecuaria, así como la vigilancia, apoyo y, en su caso, ejecución de las obras y servicios pecuarios en cooperación con los Gobiernos Federal y Municipales, en coordinación con los productores y con base en el Plan Veracruzano de Desarrollo;
+
+XXIII. Fomentar la organización de los productores pecuarios conforme al Plan Veracruzano de Desarrollo;
+
+XXIV. Ayudar al mejor funcionamiento de las organizaciones ganaderas regionales y locales;
+
+XXV. Asesorar y capacitar a las organizaciones de productores e impulsar programas de desarrollo ganadero;
+
+XXVI. Promover el otorgamiento de créditos y orientarlos hacia los renglones prioritarios señalados en el Plan Veracruzano de Desarrollo, así como promover el seguro ganadero;
+
+XXVII. Promover el aprovechamiento de esquilmos agrícolas y subproductos agroindustriales en alimentación animal;
+
+XXVIII. Efectuar las acciones de coordinación con autoridades federales, estatales o municipales, con el objeto de que los productores cuenten, con suficiencia, calidad y oportunidad, con los insumos para elevar la producción y productividad ganaderas;
+
+XXIX. Estimular el establecimiento, en forma preferente, de empresas productoras de insumos, equipo e implementos pecuarios, de acuerdo a las necesidades de la ganadería;
+
+XXX. Coordinar campañas sanitarias en forma intensiva y permanente, para prevenir y combatir enfermedades epizoóticas que afecten a la ganadería;
+
+XXXI. Fomentar el uso de la inseminación artificial y los programas reproductivos para elevar la calidad genética de los hatos;
+
+XXXII. Preservar y fomentar la infraestructura pecuaria, así como formular el inventario ganadero del Estado;
+
+XXXIII. Fomentar y organizar exposiciones ganaderas municipales y estatales de grandes y pequeñas especies, conforme al calendario que se acuerde;
+
+XXXIV. Participar, en coordinación con las autoridades que correspondan y con los productores, en la aplicación de campañas y programas para combatir los efectos negativos de plagas que afecten la apicultura en el Estado;
+
+XXXV. Promover la industrialización de productos y subproductos de origen animal;
+
+XXXVI. Apoyar programas de investigación pecuaria y fomentar la transferencia de tecnología que mejoren la producción ganadera;
+
+XXXVII. Promover la introducción de nuevas variedades de forrajes;
+
+XXXVIII. Controlar y vigilar la movilización del ganado, productos y subproductos, para reducir el abigeato y evitar la propagación de plagas y enfermedades, de conformidad con la legislación aplicable;
+
+XXXIX. Ejecutar la política pesquera del Estado, de acuerdo al Plan Veracruzano de Desarrollo y en coordinación con las autoridades federales y, en su caso, las municipales;
+
+XL. Difundir la aplicación de los métodos y procedimientos técnicos y científicos destinados a obtener mejores rendimientos en la actividad pesquera;
+
+XLI. Organizar al sector pesquero del Estado, conforme a los programas nacionales y municipales establecidos en convenios de coordinación;
+
+XLII. Promover el desarrollo de comunidades pesqueras y acuacultoras;
+
+XLIII. Promover y coadyuvar en la conservación de la flora y fauna marítima, pluvial y lacustre, y fomentar su desarrollo;
+
+XLIV. Asesorar técnicamente a pescadores y acuacultores;
+
+XLV. Fomentar la constitución de sociedades de producción pesquera, asociaciones, cooperativas, uniones de pescadores y acuacultores, y proporcionarles apoyo técnico; así como fomentar el establecimiento de sociedades de consumo de productos pesqueros, y procurar su financiamiento;
+
+XLVI. Promover la industrialización de los productos pesqueros y el establecimiento de empacadoras y frigoríficos, proporcionando asesoría técnica y de gestoría;
+
+XLVII. Participar, en la esfera de su competencia, en la preservación de los recursos pesqueros;
+
+XLVIII. Coadyuvar con el Gobierno Federal en la integración y revisión del Registro Nacional de Pesca;
+
+XLIX. Contribuir con las autoridades federales y locales competentes, al fomento de la producción pesquera;
+
+L. Promover y apoyar el desarrollo de la infraestructura pesquera, así como la racional explotación y consumo de los recursos pesqueros;
+
+LI. Fomentar la capacitación y la asistencia técnica de los productores agropecuarios, forestales y pesqueros del Estado, a fin de que éstos incursionen en el avance tecnológico en sistemas de organización propicios para su desarrollo; y
+
+LII. Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos eventuales y permanentes.
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+LIII. En coordinación con la Secretaría de Desarrollo Social, promover programas tendientes a la integración de actividades económicas para el desarrollo rural sustentable del Estado, que permitan la generación de empleos eventuales y permanentes; y
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+LIV. Vigilar y supervisar en coordinación con la Secretaría de Salud y las autoridades municipales competentes, el funcionamiento y operación de los rastros de la entidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
+
+De la Secretaría de Salud
+
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 2006)</small>
 
 #### Sección Octava. De La Dirección De Servicios Escolares
 
 ###### Artículo 31.
 
-La Dirección de Servicios Escolares se encarga de apoyar en la estructuración de los Planes y Programas de Estudio, así como desarrollar, establecer y difundir las normas, políticas y procedimientos que regulen el devenir académico de la Universidad, instrumentando acciones de carácter administrativo que coadyuven a la promoción y optimización del desempeño académico de profesores y alumnos.
+La Secretaría de Salud es la dependencia responsable de coordinar las políticas y programas de salud pública y seguridad social en la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2006)</small>
 
 ###### Artículo 32.
 
-Las funciones y facultades de la Dirección de Servicios Escolares son las siguientes:
+Son atribuciones del Secretario de Salud, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
 
-I. Colaborar en la estructuración de los Planes y Programas de Estudio que serán evaluados y autorizados por el Consejo Académico de la Universidad;
+I. Proponer las políticas, conducir y evaluar los programas de salud de acuerdo con el Plan Veracruzano de Desarrollo;
 
-II. establecer y difundir las normas, políticas y procedimientos que se deberán observar en todo trámite escolar de la Universidad;
+II. Planear, normar, establecer, coordinar y evaluar el sistema integral de servicios de salud y asistencia para el Estado, en coordinación con instituciones de salud de los gobiernos federal, estatal, y municipales, y con instituciones sociales y privadas;
 
-III. Llevar a cabo las actividades de administración escolar, con base a los lineamientos que establezca la Dirección Académica;
+III. Planear y ejecutar las campañas sobre servicios médicos, salud pública y asistencia social, y, en su caso, en coordinación con las autoridades federales y municipales, e instituciones sociales y privadas;
 
-IV. Ejecutar el control y seguimiento de los Planes y Programas de Estudio aprobados a la Universidad, así como realizar el registro del historial académico de los estudiantes, cuidando que se satisfagan los requerimientos Institucionales de información;
+IV. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-V. Establecer y mantener actualizado el registro y control de los trámites de inscripción y reinscripción de los alumnos;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-VI. Promover la Difusión de los Programas de Estudio que ofrece la Universidad
+V. En coordinación con la Secretaría de Medio Ambiente y con las autoridades federales y municipales competentes, participar en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
 
-VII. Integrar y mantener actualizada la estadística escolar de los egresados;
+VI. Dictar normas técnicas en materia de salubridad local y verificar su cumplimiento;
 
-VIII. Verificar la oportuna y adecuada realización de los trámites que se realicen respecto a: certificados, grados, diplomas y constancias;
+VII. Planear y coordinar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en el Estado;
 
-IX. Modernizar el sistema de inscripción de los estudiantes;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
-X. Preparar y presentar los informes que le sean requeridos por las autoridades competentes, respecto de las actividades desarrolladas en el ámbito de su competencia; y
+VIII. En coordinación con la Secretaría de Desarrollo Social, vigilar y controlar la asistencia pública en la entidad;
 
-XI. Las demás que establezca la presente Ley, el Reglamento, acuerdos, decretos, circulares y demás ordenamientos legales aplicables.
+IX. Administrar los bienes y fondos que el Gobierno Estatal destine a los servicios de salud;
 
-### CAPÍTULO IV. Del Órgano Interno De Control
+X. Coadyuvar con la autoridad federal en la vigilancia del cumplimiento de las leyes federales en materia de salud, así como de sus reglamentos;
+
+XI. Proponer las bases para que los Gobiernos federal y estatales participen en la realización de programas destinados a promover la salud y educar a la población en esta materia;
+
+XII. Apoyar a los Municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica, salud pública y asistencia social; y
+
+XIII. Promover, organizar y participar en conferencias, convenciones, encuentros y congresos relacionados con el derecho a la salud.
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIV. Coordinar y ejecutar las políticas y acciones que corresponden al Gobierno del Estado en relación al Seguro Popular.
+
+> <small>(ADICIONADA, G.O. 24 DE FEBRERO DE 2006)</small>
+
+XV. Establecer las normas para orientar los servicios de asistencia social en materia de salud, que presten los sectores público, social y privado y proveer su cumplimiento.
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
+
+XVI. Instrumentar, coordinar y operar el Registro Estatal de Personas Morales Prestadoras de Servicios Médicos, Guarderías y Velatorios.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 10 DE AGOSTO DE 2010)</small>
+
+De la Secretaría de Turismo, Cultura y Cinematografía
+
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+###### Artículo 32 Bis.
+
+La Secretaría de Turismo, Cultura y Cinematografía es la dependencia responsable de coordinar y ejecutar las políticas públicas y los programas de desarrollo y promoción del sector turístico de la Entidad; promover e impulsar la difusión de la cultura y de las manifestaciones artísticas; la conservación y el incremento del patrimonio cultural, histórico y artístico de Veracruz; así como normar y conducir las políticas y programas en los procesos de sistematización, seguimiento y compilación de la información pública gubernamental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+
+###### Artículo 32 Ter.
+
+Son atribuciones del Secretario de Turismo, Cultura y Cinematografía, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+I. Proponer, diseñar, coordinar, dirigir y supervisar en los términos de las leyes de la materia y del Plan Veracruzano de Desarrollo, la ejecución de las políticas y programas del Estado relativos al fomento de las actividades turísticas en un marco de sustentabilidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+II. Participar en la planeación y programación de las obras de infraestructura e inversiones en áreas de desarrollo turístico y cultural en la entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+III. Elaborar los estudios y programas de factibilidad de inversión turística que permitan su promoción y fomento, las coinversiones y la instalación de empresas vinculadas al sector, privilegiando la creación de fuentes de empleo;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+IV. Proveer técnica y económicamente el establecimiento de polos de desarrollo turístico en el territorio del Estado, de acuerdo con el Plan Veracruzano de Desarrollo, proponiendo al Ejecutivo Estatal la declaratoria de actividad prioritaria para impulsar nuevos proyectos y productos turísticos;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+V. Coordinar el Fondo Veracruzano para el Fomento de las Actividades Turísticas de la Entidad y presidir, de conformidad con la normativa vigente, los órganos de gobierno de aquellas entidades estatales relacionadas primordialmente con el sector;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VI. Fungir como coordinador sectorial de los parques recreativos, centros de visitantes y convenciones turísticos, de los parques temáticos, así como de los establecimientos relacionados primordialmente con el sector turístico en los términos y condiciones que la Ley señale;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VII. Servir de órgano de consulta y asesoría en materia de servicios turísticos, tanto a las entidades públicas como privadas;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+VIII. Asesorar técnicamente a las (sic) Ayuntamientos y a los sectores social y privado que lo soliciten, en la prestación de los servicios turísticos o en la ejecución de proyectos relacionados con la materia;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+IX. Procurar la conservación y protección del entorno natural y cultural de las zonas de desarrollo turístico en el Estado, actuando en coordinación con las autoridades competentes de otros órdenes de Gobierno en estas materias, particularmente la Secretaría de Medio Ambiente, así como promover la cultura turística y el turismo cultural;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+X. Fomentar y apoyar el turismo social, en concertación con los sectores público y privado, así como propiciar la formación de asociaciones, patronatos, comités y demás organismos que lo auspicien y prestarles la asesoría correspondiente;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XI. Formular y difundir la información turística del Estado con base en el Registro Estatal de Prestadores de Servicios Turísticos, el Inventario de Riquezas Turísticas del Estado y el Calendario de Actividades Recreativas, Tradicionales y Turísticas de Veracruz;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XII. Proporcionar información y orientación a los turistas atendiendo los centros de mayor afluencia, carreteras y terminales de transporte aéreo, terrestre y marítimo, según se requiera, así como instalar, coordinar y operar los módulos de información correspondientes;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIII. Codyuvar (sic) con las dependencias y entidades del sector público, así como con los sectores privado y social, en la conservación de los señalamientos turísticos y del patrimonio cultural en las vías públicas federales, estatales y municipales y en los lugares de mayor interés turístico del Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIV. Promover los atractivos culturales y naturales de la Entidad, instrumentando acciones con los sectores público y privado y a través de los medios de comunicación, a efecto de incrementar el flujo de turistas, ampliar su estadía e incrementar la derrama económica consecuente;
+
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
+
+XV. Proyectar y difundir la publicidad turística y cultural del Estado en coordinación con la Coordinación General de Comunicación Social; así como coadyuvar a la divulgación de la que efectúen los sectores social y privado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVI. Promover en coordinación con las autoridades federales competentes, la formulación de las declaratorias nacionales e internacionales relativas a zonas de desarrollo turístico de la Entidad, así como las declaratorias de patrimonio artístico, histórico o cultural;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVII. Atender los asuntos internacionales de la competencia de la Secretaría, así como la celebración y cumplimiento de convenios bilaterales y multilaterales de cooperación turística y cultural; de igual forma, concertar acciones en la materia con otras dependencias y entidades de la Administración Pública Federal y Estatal y celebrar acuerdos en lo relativo con los Gobiernos Municipales;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XVIII. Promover, organizar y participar en misiones, conferencias, ferias, exposiciones, encuentros, congresos, eventos tradicionales y folklóricos y en general, actividades culturales que contribuyan a una mayor afluencia de visitantes hacia el Estado;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XIX. Coordinarse con las autoridades competentes de los otros órdenes de Gobierno en materia de protección al turista;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XX. Establecer y operar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con las actividades y los servicios turísticos que se prestan en la Entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXI. Colaborar con las autoridades federales competentes en la vigilancia de la correcta aplicación de los precios autorizados o registrados, así como de la prestación de los servicios turísticos, conforme a las disposiciones legales de protección al consumidor;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXII. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales aplicables en materia de turismo, supervisando las actividades de las empresas vinculadas al sector, de conformidad con lo establecido en términos de ley;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXIII. Implementar los programas de calidad, capacitación y competitividad en la prestación de servicios turísticos;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXIV. Promover, ejecutar, coordinar y supervisar los planes y programas culturales y recreativos en la Entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXV. Formular las políticas y programas y ejecutar las acciones relativas a la difusión de la cultura y el arte y la conservación e incremento del patrimonio artístico, histórico y cultural, así como la promoción de las actividades conexas;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVI. Dirigir, coordinar, organizar y fomentar con los Ayuntamientos e instituciones públicas o particulares el establecimiento de casas de cultura y museos, así como promover la creación y mantenimiento de otras instituciones culturales;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVII. Promover la edición y distribución de obras literarias, estudios y documentos históricos que apoyen al conocimiento y desarrollo cultural y artístico de Veracruz;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXVIII. Promover, coordinar y realizar eventos que difundan las diversas manifestaciones de la Cultura y las Artes en la Entidad;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXIX. Incentivar, apoyar y coadyuvar con las autoridades federales de la materia, el desarrollo de la industria cinematográfica y promover a Veracruz como zona geográfica idónea para locaciones y filmaciones;
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXX. Promover y difundir los recursos naturales, el patrimonio histórico y las manifestaciones culturales y artísticas en los medios masivos de comunicación y propiciar su uso como escenarios de eventos nacionales e internacionales, particularmente en relación con la industria fílmica, la Radio y la Televisión;
+
+XXXI. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+XXXII. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+XXXIII. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+XXXIV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+XXXV. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+> <small>(ADICIONADA, G.O. 13 DE ENERO DE 2006)</small>
+
+XXXVI. Elaborar y coordinar de manera conjunta con miembros del sector la creación y revisión del Plan Estatal de Turismo alineado al Plan Nacional de Turismo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE FEBRERO DE 2008)</small>
+
+De la Secretaría de Protección Civil
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 2008)</small>
+
+###### Artículo 32 Quater.
+
+La Secretaría de Protección Civil es la dependencia responsable de la organización, coordinación y operación del Sistema de Protección Civil del Estado y tendrá la competencia que expresamente le confiere la Ley de Protección Civil y demás legislación aplicable.
+
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 2008)</small>
+
+Artículo 32 Quinter. Son atribuciones del Secretario de Protección Civil, conforme a la distribución de competencias que establezca su reglamento interior, las siguientes:
+
+I. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil para garantizar, mediante la adecuada planeación, la prevención, auxilio y recuperación de la población y de su entorno ante situaciones de emergencia o desastre, incorporando la participación activa de la ciudadanía, tanto en lo individual como en lo colectivo;
+
+II. Proponer políticas y estrategias para el desarrollo de programas estatales, regionales, municipales, internos de protección civil;
+
+III. Por acuerdo del Titular del Ejecutivo, representar al Gobierno del Estado en la firma de convenios de coordinación, colaboración y apoyo con las dependencias y entidades del Gobierno Federal, en materia de protección civil;
+
+IV. Participar, en coordinación con las dependencias y entidades responsables, en el ordenamiento territorial y de los asentamientos humanos y la planeación del desarrollo regional y urbano, en los términos que lo dispone la Ley de Desarrollo Urbano Regional y Vivienda para el Estado de Veracruz de Ignacio de la Llave;
+
+V. Participar en el establecimiento de medidas de protección del medio ambiente;
+
+VI. Emitir dictámenes sobre la reubicación de los asentamientos humanos en zonas de riesgo;
+
+VII. Participar en la formulación de las declaratorias de zonas de riesgo, en términos de lo que dispone la Ley de Desarrollo Urbano Regional y Vivienda para el Estado de Veracruz de Ignacio de la Llave;
+
+VIII. Participar en las comisiones que normen, regulen, limiten o prohíban la ocupación de las zonas de riesgo, en términos de lo que dispone la ley de la materia;
+
+IX. De conformidad a lo dispuesto en esta Ley Orgánica y en el Reglamento Interior de la Secretaría, crear las instancias, mecanismos, instrumentos y procedimientos de carácter técnico operativo, de servicios y logística que permitan prevenir y atender la eventualidad de un desastre;
+
+X. Investigar, estudiar y evaluar riesgos y daños provenientes de elementos, agentes naturales o humanos que puedan dar lugar a desastres, integrando y ampliando los conocimientos de los fenómenos perturbadores en coordinación con las dependencias y entidades federales, estatales y municipales;
+
+XI. Difundir entre las autoridades correspondientes y a la población en general, los resultados de los trabajos que realice, así como toda aquella información que permita la generación, desarrollo y consolidación de una cultura fundamentalmente preventiva de la protección civil;
+
+XII. Asesorar y apoyar a las dependencias y entidades de la administración pública estatal y municipal y a otras instituciones de carácter social y privado, en materia de protección civil;
+
+XIII. Instrumentar y en su caso operar redes de detección, monitoreo, pronóstico y medición de riesgos, en coordinación con las dependencias responsables;
+
+XIV. Participar en la evaluación y cuantificación de los daños ocasionados por fenómenos perturbadores, cuando así lo determinen las disposiciones específicas aplicables;
+
+XV. Presentar al Ejecutivo Estatal las solicitudes que deberán formularse en términos de Ley, para que sean emitidas las correspondientes declaratorias de emergencia y desastre;
+
+XVI. Desarrollar y actualizar el Atlas Estatal de Riesgos;
+
+XVII. Gestionar ante las autoridades correspondientes, la incorporación de la materia de protección civil en el sistema educativo estatal público y privado;
+
+XVIII. Coordinar la participación de los brigadistas comunitarios, comités científicos, comités locales de ayuda mutua, organizaciones civiles y de los grupos voluntarios, en la atención a las emergencias, así como en el restablecimiento de la normalidad, conforme a la normativa que emita el Consejo Estatal de Protección Civil;
+
+XIX. Establecer los planes y programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad, frente a los desastres provocados por los diferentes tipos de agentes perturbadores;
+
+XX. Emitir los dictámenes técnicos de vulnerabilidad y riesgo de instalaciones sanitarias públicas y privadas, existentes y futuras;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+
+XXI. Participar en la elaboración de programas y desarrollo de acciones tendientes a la solución de los problemas ambientales y del manejo de residuos sólidos urbanos y los que requieren manejo especial, en términos de lo que dispongan las leyes y reglamentos aplicables;
+
+XXII. Participar en coordinación con el Sistema Estatal para el Desarrollo Integral de la Familia, en la elaboración de los programas, establecimiento de las medidas y aplicación de las acciones, que permitan mejorar la calidad de vida de las personas con capacidades diferentes; y
+
+XXIII. Las demás que la ley le señale o le asignen el Gobernador del Estado y el Consejo Estatal de Protección Civil.
+
+De la Contraloría General
+
+### CAPÍTULO III. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
 ###### Artículo 33.
 
-El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la Universidad, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+La Contraloría General es la dependencia responsable de la función de control y evaluación gubernamental y desarrollo administrativo, así como de la inspección y vigilancia de los ingresos, gastos, recursos y obligaciones de las dependencias y entidades de la Administración Pública Estatal, durante el ejercicio presupuestal correspondiente.
 
 ###### Artículo 34.
 
-Para el ejercicio de sus funciones, el Órgano Interno de Control contará con la siguiente estructura:
+Son atribuciones del Contralor General, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-I. Unidad Auditora;
+I. Planear, organizar y coordinar el sistema de control y evaluación gubernamental;
 
-II. Unidad Investigadora; y
+II. Participar en la evaluación periódica de la relación que guardan los programas y presupuestos de las dependencias y entidades de la Administración Pública, con los objetivos y prioridades del Plan Veracruzano de Desarrollo, así como los resultados de su ejecución, a fin de recomendar la adopción de las medidas necesarias para corregir las desviaciones detectadas y proponer la adecuación, en su caso, del plan y los programas respectivos;
 
-III. Unidad Substanciadora y Resolutora.
+> <small>(REFORMADA, G.O. 2 DE JULIO DE 2004)</small>
 
-Los titulares de dichas Unidades serán designados por la persona titular del Poder Ejecutivo del Estado, en los mismos términos que lo son para la designación del Comisario Público, según lo que establezca la Ley para el Control de las Entidades Paraestatales.
+III. Controlar y evaluar los programas de inversión de las dependencias y entidades de la administración pública, conforme a los objetivos del Plan Veracruzano de Desarrollo;
 
-El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+IV. Proponer las normas y lineamientos que regulen los procedimientos de control, supervisión y evaluación de la Administración Pública Estatal, así como realizar el control y evaluación del gasto público, conforme al registro de las operaciones financieras, presupuestales y contables que se realicen a través del Sistema Integral de Administración Financiera del Estado de Veracruz;
+
+V. Revisar, en los términos de los instrumentos de coordinación que se suscriban, que los recursos financieros ministrados por la Federación al Gobierno del Estado, sean canalizados hacia los objetivos propuestos en los programas respectivos y se apliquen con honestidad y transparencia;
+
+VI. Vigilar, en coordinación con la Secretaría de Finanzas y Planeación, que los empleados que administren fondos y valores del Estado caucionen debidamente su manejo;
+
+VII. Establecer los criterios y procedimientos para la realización de auditorías y revisiones en las dependencias y entidades;
+
+VIII. Emitir, en coordinación con la Secretaría de Finanzas y Planeación, criterios y lineamientos en materia de adquisiciones, obras públicas, arrendamientos, contratación de servicios, desincorporación de activos, control de inventarios, manejo de almacenes, conservación, mantenimiento, resguardo y enajenación de los bienes de propiedad estatal;
+
+IX. Verificar y comprobar, en coordinación con la Secretaría de Finanzas y Planeación, el cumplimiento de las normas y disposiciones internas en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+
+X. Opinar sobre los proyectos de normas de contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como los de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas y Planeación;
+
+XI. Emitir criterios y lineamientos en materia de simplificación y desarrollo administrativo;
+
+XII. Emitir los lineamientos para la entrega y recepción de oficinas públicas, por cambio de sus titulares o responsables y verificar su cumplimiento;
+
+XIII. Designar, previo acuerdo del Gobernador del Estado, a los titulares de los órganos internos de control en las dependencias y entidades, así como vigilar, controlar y evaluar su gestión;
+
+XIV. Llevar el registro de la normatividad interna de las entidades paraestatales;
+
+XV. Proponer al Gobernador del Estado la designación de comisarios, o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las entidades paraestatales;
+
+XVI. Designar a los auditores externos de las dependencias y entidades y coordinar, supervisar y evaluar sus actividades;
+
+XVII. Informar al Gobernador del Estado y a los titulares de las dependencias y entidades que correspondan, los resultados de la verificación y evaluación de las mismas;
+
+XVIII. Auxiliar, a solicitud del Poder Legislativo, del Poder Judicial o de los Ayuntamientos de la entidad, a sus órganos internos de control o sus equivalentes;
+
+XIX. Verificar el avance y ejecución de los programas a cargo de las dependencias y entidades de la Administración Pública Estatal;
+
+XX. Inspeccionar el ejercicio del gasto público estatal y verificar su congruencia con el Presupuesto de Egresos aprobado;
+
+XXI. Vigilar el cumplimiento de las normas de control y evaluación; así como asesorar, apoyar y coordinar la operación de los órganos internos de control en las dependencias y entidades;
+
+XXII. Verificar que las dependencias y entidades cumplan las disposiciones legales en materia de planeación, programación, presupuestación, ejercicio, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores;
+
+XXIII. Realizar auditorías, revisiones y evaluaciones a las dependencias y entidades;
+
+XXIV. Inspeccionar y vigilar que las dependencias y entidades cumplan con las disposiciones legales y normativas en materia de sistemas de registro y contabilidad, contratación y pago de personal, inversiones, concesiones, contratación de servicios, obra pública, gasto corriente, adquisiciones, arrendamientos, conservación, enajenación y baja de bienes muebles e inmuebles, almacenes, control de inventarios y, en general, sobre los activos y recursos de la Administración Pública Estatal;
+
+XXV. Supervisar que los recursos, las estructuras administrativas y procedimientos de la Administración Pública Estatal sean empleados de manera eficiente y racional;
+
+XXVI. Promover la capacitación del personal del Gobierno del Estado para el mejor desempeño de sus labores y, conjuntamente con la Secretaría de Finanzas y Planeación, establecer normas, lineamientos y políticas en materia de administración y desarrollo del personal de las dependencias y entidades de la Administración Pública Estatal;
+
+XXVII. Revisar el desempeño de los servicios administrativos que proporciona el Gobierno Estatal, en apoyo a los programas del mismo, y proponer medidas para su mejoramiento;
+
+XXVIII. Supervisar que los recursos financieros otorgados por la Federación dentro de los convenios y programas que se establezcan con el Estado, sean canalizados hacia los objetivos propuestos en los mismos y se apliquen con honestidad y transparencia;
+
+XXIX. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
+
+XXX. Verificar que los arrendamientos inmobiliarios que celebre la Administración Pública Estatal estén sustentados en dictamen de justipreciación de rentas emitido por autoridad catastral;
+
+XXXI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, concursos, convenios o contratos que celebren con las dependencias y entidades; y
+
+XXXII. Conocer de la responsabilidad administrativa de los servidores públicos en términos de la ley de la materia.
+
+De la Procuraduría General de Justicia
 
 ###### Artículo 35.
 
-La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
+La Procuraduría General de Justicia es la dependencia encargada del Ministerio Público, responsable de procurar y vigilar el cumplimiento de las leyes y ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito, en términos de lo dispuesto por la Constitución Federal, la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y demás disposiciones aplicables.
 
-I. Elaborar, someter a consideración de la Junta y ejecutar el programa anual de auditorías a las diversas áreas que conforman la Universidad;
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos practicando auditorías y revisiones que permitan evaluar el desempeño de la Universidad;
+De la Coordinación General de Comunicación Social
 
-III. Presentar ante la Autoridad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman la Universidad;
-
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman la Universidad cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la propia Contraloría del Estado de Aguascalientes;
-
-V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la Ley de la materia;
-
-VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte de la Universidad el (sic) correcto ejercicio del gasto público;
-
-VII. Rendir informe trimestral a su Junta sobre el estado que guardan los asuntos de su competencia;
-
-VIII. Presentar a la persona titular de la Rectoría, a la Junta, los informes resultantes de las auditorías, exámenes y evaluaciones realizadas;
-
-IX. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
-
-X. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás autoridades competentes; y
-
-XI. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 36.
 
-La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y tiene las siguientes funciones:
+La Coordinación General de Comunicación Social es la dependencia responsable de coordinar la difusión informativa, publicitaria y promocional de las actividades, obras y servicios de la Administración Pública del Estado, a través de los distintos medios de comunicación o de manera directa.
 
-I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos a la Universidad y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
-
-II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al (sic) Universidad, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
-
-III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
-
-IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
-
-V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de la Universidad o bien, referidas a faltas de particulares en relación con la Universidad;
-
-VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos a la Universidad o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
-
-VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos a la Universidad o de los particulares, habilitando para ello al personal del área correspondiente;
-
-VIII. Emitir y acordar los escritos promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
-
-IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita a la Universidad;
-
-X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
-
-XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
-
-XII. abilitar (sic) días y horas inhábiles para la práctica de diligencias;
-
-XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
-
-XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
-
-XVI. Rendir informe trimestral a la Junta, a través de la persona titular de la Rectoría, sobre el estado que guardan los asuntos de su competencia;
-
-XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
-
-XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias derivadas de sus Investigaciones; y
-
-XIX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 37.
 
-La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y tiene las siguientes funciones:
+Son atribuciones del Coordinador General de Comunicación Social, conforme a la distribución de competencias que establezca su Reglamento Interior, las siguientes:
 
-I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Unidad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos de la Universidad, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+I. Dirigir y ejecutar la política de comunicación social y de relaciones públicas de la Administración Pública Estatal;
 
-Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos de la Universidad.
+II. Planear, normar, coordinar y orientar las actividades de difusión informativa, comunicación y publicidad social de la Administración Pública Estatal y evaluar la opinión pública sobre los programas y servicios gubernamentales;
 
-Tratándose de faltas graves y faltas de particulares vinculados (sic) con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+III. Registrar, analizar y sistematizar la información remitida en los medios de comunicación referente a los acontecimientos de interés del Estado de Veracruz y de la Federación;
 
-En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+IV. Establecer, coordinar y promover las relaciones públicas de la Administración Pública del Estado;
 
-II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+V. Analizar la información de los distintos medios de comunicación y proporcionar a las distintas dependencias y entidades, aquella relacionada con su ámbito de competencia;
 
-III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+VI. Mantener actualizado el banco hemerográfico, la fototeca, la videoteca, las grabaciones radiofónicas y producciones sobre la obra y actividades del Gobierno Estatal;
 
-IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+VII. Diseñar y operar el Programa General de Comunicación Social de la Administración Pública Estatal estableciendo, con el apoyo de los titulares de las dependencias, el funcionamiento y operación de las oficinas de comunicación social de las mismas; las que dependerán jerárquicamente de la Coordinación General de Comunicación Social y reportarán funcionalmente con los titulares de cada dependencia;
 
-VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+VIII. Coordinar la planeación, diseño, producción y evaluación de las campañas de publicidad social que realiza la Administración Pública del Estado a través de sus distintas dependencias e intervenir en la contratación, supervisión y trámite para la asignación de los recursos que se requiera para su realización;
 
-VII. Rendir informe trimestral a la Junta, a través de la persona que ocupe la Rectoría sobre el estado que guardan los asuntos de su competencia;
+IX. Proveer a los medios de comunicación, la información oficial que emita el Gobierno del Estado y generar los instrumentos, tiempos y espacios pertinentes a la difusión y promoción gubernamental;
 
-VIII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los Procedimientos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+X. (DEROGADA, G.O. 13 DE ENERO DE 2006)
 
-IX. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+XI. Establecer los vínculos y la colaboración con las instituciones académicas, los medios y los comunicadores en términos de convenios, acuerdos o programas de promoción y desarrollo comunicacional; y
 
-X. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones; y
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
-XI. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+XII. Coordinar con las dependencias de la administración pública estatal los procedimientos para la difusión informativa, la publicidad y la promoción de la Administración Pública mediante el establecimiento del Consejo Operativo para la Comunicación Gubernamental, que estará integrado por los responsables de la comunicación social en las dependencias, encabezadas por el titular de la Coordinación General de Comunicación Social.
 
-### CAPÍTULO V. Régimen de Suplencias de los Servidores Públicos
+### CAPÍTULO IV. DE LA TRANSMISIÓN Y CONTINUIDAD DE LOS ASUNTOS DE LA ADMINISTRACIÓN PÚBLICA
+
+###### Artículo 58.
+
+A partir del día 1 de noviembre del año de la transmisión del Poder Ejecutivo, en términos del artículo 44 de la Constitución Política del Estado, el Gobernador y los Titulares de las dependencias y entidades del Ejecutivo dispondrán lo necesario para iniciar la entrega de los asuntos de la Administración Pública encomendados a su cuidado. Para este efecto:
+
+I. Agilizarán los programas cuyo plazo de terminación no exceda de treinta días, para su oportuno cumplimiento;
+
+II. Vigilarán la continuación de los programas de plazo de terminación mayor a treinta días y ordenarán se prepare un documento de entrega, en el que consten: los antecedentes, el estado actual, los procedimientos a seguir, la fecha probable de terminación. En caso de haber retraso, las razones que lo hayan originado. El estado financiero y los anexos que correspondan;
+
+III. Ordenarán y supervisarán la actualización del inventario de los bienes a su cuidado;
+
+IV. Informarán al Gobernador electo, o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las juntas de trabajo que se requieran, de preferencia fuera del horario de labores;
+
+V. Se abstendrán de iniciar la ejecución de programas con terminación a largo plazo, con excepción de aquellos que por su naturaleza deban de iniciarse;
+
+VI. Vigilarán que los trámites normales de las dependencias a su cargo, se continúen ejecutando;
+
+VII. Formularán las actas de entrega correspondientes, que deberán suscribirse hasta la fecha de entrega;
+
+VIII. Los servidores públicos de la administración pública centralizada y paraestatal, que no sean ratificados en sus puestos, deberán permanecer en disponibilidad de quienes los sustituyan, hasta el día dieciséis del mes de diciembre del mismo año, con respecto a sus derechos laborales.
 
 ###### Artículo 38.
 
-La persona titular de la Vicerrectoría, suplirá en sus ausencias temporales de hasta treinta días de la persona titular de la Rectoría. En ausencias mayores a treinta días, se deberá llevar a cabo el procedimiento de designación de Rector de conformidad a lo establecido en la Ley para el Control de las Entidades Paraestatales.
+El presente capítulo tiene por objeto establecer las bases de organización, funcionamiento y control de las entidades paraestatales a que hace referencia el artículo 3 de esta ley. Las relaciones del Ejecutivo del Estado, o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública, se sujetarán, en primer término, a lo establecido en esta ley y sus disposiciones reglamentarias y, sólo en lo no previsto, a otras disposiciones según la materia que corresponda.
 
 ###### Artículo 39.
 
-En caso de ausencias temporales menores a treinta días de los titulares de las Unidades Administrativas, la persona titular de la Rectoría designará al servidor público que deberá suplirlo. En caso de ausencias mayores al término señalado en el párrafo anterior, los titulares de las Unidades Administrativas, serán suplidos observando el procedimiento para la designación de éstos previsto en la normatividad aplicable.
+La Universidad Veracruzana y demás instituciones de educación superior a las que la ley otorgue autonomía, se regirán por sus leyes específicas.
+
+El Instituto Electoral Veracruzano, la Comisión Estatal de Derechos Humanos y el Órgano de Fiscalización Superior, en cuanto organismos autónomos del Estado, atendiendo a sus objetivos y a la naturaleza de sus funciones, quedan excluidos de la observancia de las disposiciones del presente capítulo.
 
 ###### Artículo 40.
 
-En caso de ausencia de alguno de los titulares de las Unidades que integran al Órgano Interno de Control y Evaluación, se estará con lo dispuesto por la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y demás disposición normativa aplicable a la materia.
+Las entidades paraestatales gozarán de autonomía de gestión para el debido cumplimiento de su objeto, y de los objetivos y metas señaladas en sus programas. Al efecto, los órganos de gobierno, o sus equivalentes, de las entidades paraestatales, según sea el caso, expedirán su correspondiente normatividad interior, que deberá establecer las bases específicas de organización, funcionamiento y las atribuciones de sus respectivos directores generales, o similares, y de las distintas áreas que integren la entidad de que se trate. Dicha normatividad deberá publicarse en la Gaceta Oficial del Estado y registrarse ante la Contraloría General.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Cada entidad paraestatal contará, además con una unidad administrativa responsable de la presupuestación, programación y ejercicio del presupuesto a su cargo en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+Los titulares de las unidades administrativas de las entidades paraestatales deberán cumplir los requisitos que establece el artículo 10 de esta Ley y tendrán en lo conducente, las mismas atribuciones que sus similares de las dependencias.
 
 ### CAPÍTULO VI. Del Patrimonio de la Universidad, la Infraestructura y Equipamiento de sus Bienes
 
@@ -749,25 +2007,13 @@ En caso de ausencia de alguno de los titulares de las Unidades que integran al �
 
 ###### Artículo 41.
 
-El Patrimonio de la Universidad estará constituido por los bienes y recursos que a continuación se enumeran:
+Los Presidentes y miembros de los órganos de gobierno, consejos de administración, comités técnicos, o sus equivalentes, de las entidades paraestatales, serán designados por el Gobernador del Estado. Asimismo, los Directores Generales, o sus similares, de dichas entidades serán designados por el Gobernador del Estado o, con autorización de éste, por el titular de la dependencia coordinadora de sector; o por el órgano de gobierno, consejo de administración, comité técnico, o sus equivalentes, cuando así lo señale expresamente la ley o decreto de su creación.
 
-I. Los recursos que le sean asignados anualmente conforme a la Ley de Ingresos y Presupuesto de Egresos del Estado, para el ejercicio Fiscal;
+Además de los requisitos exigidos en el artículo 7, fracciones I a IV, de esta ley, el nombramiento de Director General, o su similar, de la entidad paraestatal de que se trate, deberá recaer en persona que cumpla con los siguientes:
 
-II. Los inmuebles y créditos que son actualmente de su propiedad, y los que con posterioridad haya adquirido;
+I. Haber desempeñado cargos cuyo ejercicio requiera conocimientos y experiencia en materia administrativa, y
 
-III. El efectivo, valores, créditos y otros bienes muebles, así como los equipos y semovientes con que cuenta en la actualidad el Instituto Estatal de Seguridad Pública;
-
-IV. Los legados y donaciones que se le hagan, y los fideicomisos que en su favor se constituyan;
-
-V. Los derechos y cuotas que por sus servicios recaude;
-
-VI. El dinero contenido en las cuentas bancarias y sus rendimientos;
-
-VII. Las utilidades, intereses, dividendos, rentas, aprovechamientos y esquilmos de sus bienes muebles e inmuebles; y
-
-VIII. Los bienes, derechos y demás ingresos que adquiera por el Títulos (sic) legal.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2024)</small>
+II. No encontrarse en algunos de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones II, III y IV del artículo 47 de esta ley.
 
 #### Sección Segunda. La Infraestructura y Equipamiento de sus Bienes
 
@@ -799,37 +2045,109 @@ VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y u
 
 ###### Artículo 42.
 
-Los servidores públicos que presten sus servicios en la Universidad, responderán administrativamente por el incumplimiento a las obligaciones contenidas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, esta Ley y en cualquier disposición aplicable al (sic) Universidad.
+Las entidades paraestatales deberán informar a la Secretaría de Finanzas y Planeación de los ingresos que perciban y someterán a su consideración, por conducto y con la aprobación de la dependencia coordinadora de sector, los presupuestos respectivos. Dichas entidades, sin perjuicio de lo establecido por su normatividad interior y las leyes aplicables, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los comisarios públicos que designe la Contraloría General.
+
+Al efecto, La Secretaría de Finanzas y Planeación tendrá miembros en los Órganos de Gobierno, Consejos de Administración, Comités Técnicos, o sus equivalentes, de las entidades paraestatales. También participarán otras dependencias y entidades, en la medida que tengan relación con el objeto de la entidad paraestatal de que se trate, conforme a su esfera de competencia y a las disposiciones relativas en la materia.
 
 ###### Artículo 43.
 
-Es obligación de los servidores públicos adscritos al (sic) Universidad mantener bajo su resguardo los bienes inmuebles, mobiliario y equipo que le sean encomendados para el desempeño de sus funciones en condiciones óptimas para el adecuado desarrollo de su labor, conforme a la normatividad aplicable. Será responsabilidad exclusiva del servidor público la pérdida o deterioro por su negligencia o mal uso de los bienes bajo su resguardo, en caso de que esto genere un daño patrimonial para la Universidad, deberá resarcirlo, sin menoscabo de la responsabilidad administrativa y penal de la que pueda ser objeto.
+Para los efectos de esta ley, se consideran áreas estratégicas o prioritarias aquellas que señala la Constitución Federal, la Constitución Política del Estado y las leyes que de ellas deriven, así como las actividades que con ese carácter establezca el Plan Veracruzano de Desarrollo para la satisfacción del interés público.
 
 ###### Artículo 44.
 
-Los servidores públicos deberán:
+Son organismos descentralizados las personas jurídicas creadas por ley o decreto del Congreso del Estado, o por decreto del titular del Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten y cuyo objeto sea:
 
-I. Custodiar y cuidar valores, documentación e información que, por razón de su empleo, cargo o comisión, estén bajo su cuidado, o a la cual tengan acceso, impidiendo o evitando el uso, sustracción, destrucción, ocultamiento o utilización indebida de aquellos, en términos de la legislación aplicable;
+I. La realización de actividades correspondientes a las áreas estratégicas o prioritarias;
 
-II. Utilizar exclusivamente para los fines que estén afectos, los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, las facultades que les sean atribuidas, o la información confidencial que obtengan con motivo de sus funciones, en términos de la legislación aplicable; y
+II. La prestación de un servicio público o social; o
 
-III. Las demás que señalen las disposiciones legales aplicables en la materia;
+III. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
 
 ###### Artículo 45.
 
-Las responsabilidades administrativas que se generen y a que se refiere el artículo anterior serán independientes de las demás responsabilidades civiles o penales que resulten procedentes.
+En las leyes o decretos que se expidan para la creación de un organismo descentralizado se establecerán, entre otros elementos:
+
+I. Su denominación;
+
+II. El domicilio legal;
+
+III. Su objeto, conforme lo señalado en el artículo anterior;
+
+IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
+
+V. La manera de integrar el órgano de gobierno y de designar al Director General, así como a los servidores públicos en las dos jerarquías inferiores a éste;
+
+VI. Las facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
+
+VII. Las atribuciones del Director General, quien tendrá la representación legal del organismo; y
+
+VIII. Sus órganos de vigilancia, así como sus facultades.
+
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista económico o del interés público, éste se podrá disolver, fusionar, liquidar o extinguir, según sea el caso, siempre que se observen las mismas formalidades establecidas para su creación y se fijen los términos de su disolución, fusión, liquidación o extinción.
 
 ### CAPITULO VII. Del Régimen Laboral
 
 ###### Artículo 46.
 
-Las relaciones laborales entre la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+Los organismos descentralizados serán administrados por un Órgano de Gobierno y un Director General.
+
+El Órgano de Gobierno estará integrado por no menos de tres ni más de diez miembros propietarios y de sus respectivos suplentes. El cargo de miembro del Órgano de Gobierno será estrictamente personal y no podrá desempeñarse por medio de representantes.
 
 ###### Artículo 47.
 
-Los participantes en las actividades académicas de la Universidad de la Policía y Ciencias de la Seguridad de Aguascalientes, en su calidad de docentes y aquellos que tienen calidad de alumnos, no tendrán relación laboral alguna con dicha Universidad, salvo disipación legal, convenio o contrato en contario.
+No pueden ser miembros del Órgano de Gobierno:
 
-## TRANSITORIOS
+I. El Director General del organismo de que se trate, con excepción de aquellos casos en que así lo determinen expresamente las leyes o decretos del Congreso del Estado;
+
+II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado o quienes tengan relaciones profesionales, laborales o de negocios con cualquiera de los miembros del Órgano de Gobierno o con el Director General;
+
+III. Las personas que tengan litigios pendientes con el organismo de que se trata; y
+
+IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. Esta Ley entregará en vigor el día siguiente a la fecha de su publicación en la Gaceta Oficial del gobierno del estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Administración Pública del Estado de Veracruz-Llave, expedida el treinta de diciembre de mil novecientos ochenta y seis.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo previsto por esta Ley.
+
+CUARTO. Las dependencias y entidades de la Administración Pública, a la brevedad posible, ajustarán su organización y normatividad interiores a las disposiciones contenidas en esta Ley.
+
+En tanto se expiden las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a esta Ley, los Reglamentos en vigor.
+
+QUINTO. El personal, con respeto a sus derechos laborales, así como los recursos financieros y materiales con que contaba la Secretaría de Comunicaciones y Obras Públicas, para el desempeño de sus funciones en materia de obras públicas, pasarán a la Secretaría de Desarrollo Regional.
+
+SEXTO. Los asuntos que a la fecha de entrada en vigor de esta Ley, en materia de obras públicas, este conociendo la Secretaría de Comunicaciones y Obras Públicas, continuarán su tramitación en la Secretaría de Desarrollo Regional.
+
+Dada en el salón de sesiones de la H. LVIII Legislatura del congreso del estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los dieciocho días del mes de mayo del año dos mil.
+
+Guillermo Zorrilla Fernández
+
+Diputado presidente
+
+(Rúbrica)
+
+Ana Lara Villar
+
+Diputada secretaria
+
+(Rúbrica)
+
+Por tanto, en cumplimiento de los artículos 35 párrafo segundo 49 fracción II de la Constitución Política del Estado, mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los dieciocho días del mes de mayo del año dos mil.
+
+Atentamente
+
+Sufragio efectivo. No reelección
+
+Licenciado Miguel Alemán Velazco
+
+Gobernador del Estado.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE ENERO DE 2001.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -933,7 +2251,23 @@ En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 
 
 P.O. 13 DE MAYO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 647.- SE REFORMAN LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE AGUASCALIENTES; LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE AGUASCALIENTES; LEY DE CREACIÓN DE LA UNIVERSIDAD TECNOLÓGICA METROPOLITANA DE AGUASCALIENTES; LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE CALVILLO DEL ESTADO DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES; LA LEY DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO; LA LEY DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES; Y, LA LEY QUE CREA LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 13 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ-LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia el día uno de junio del año dos mil uno.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El personal, con respecto a sus derechos laborales, así como los recursos financieros y materiales de las distintas áreas que en términos de este Decreto pasan a ser responsabilidad de la Secretaría de Seguridad Pública, se integrarán a esta dependencia para el desempeño de sus atribuciones.
+
+Cuarto. El personal, con respeto a sus derechos laborales, así como los recursos financieros y materiales de los centros de observación y adaptación social para menores infractores que en términos de este Decreto pasan a ser responsabilidad de la Secretaría de Gobierno, se integrarán a esta dependencia para el desempeño de sus atribuciones.
+
+Quinto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, a la brevedad posible, ajustarán su organización y normatividad interiores a las disposiciones contenidas en la misma.
+
+Sexto. En tanto se expiden las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a este Decreto, los reglamentos en vigor.
+
+Séptimo. Para efectos de lo previsto en el artículo 71, fracción XI, inciso h) de la Constitución Política del Estado de Veracruz-Llave y 35, fracción XXV, inciso h) de la Ley Orgánica del Municipio Libre, los Ayuntamientos podrán asumir la prestación del servicio público de tránsito, de conformidad con lo dispuesto por el artículo Tercero Transitorio del Decreto por el que se declaró reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintitrés de diciembre de mil novecientos noventa y nueve.
+
+G.O. 7 DE SEPTIEMBRE DE 2001.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -942,3 +2276,263 @@ El presente Decreto iniciará su vigencia a los 180 días naturales siguientes a
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 26 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+
+PRIMERO. Con objeto de adecuar las disposiciones legales en la materia, como consecuencia de esta reforma, el presente Decreto entrará en vigor a partir del 16 de diciembre del presente año.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El personal, así como los recursos materiales y financieros destinados a las funciones de prevención y readaptación social con que actualmente cuenta la Secretaría de Gobierno, pasarán a la Secretaría de Seguridad Pública.
+
+G.O. 12 DE FEBRERO DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 269 QUE REFORMA LOS ARTÍCULOS 9, FRACCIÓN VIII, 29 Y 30; Y ADICIONA EL ARTÍCULO 30 CON UNA FRACCIÓN LIII, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+
+Primero. Las presentes reformas entrarán en vigor al día siguientes (sic) de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan a las presentes reformas.
+
+Tercero. En un plazo no mayor de 60 días hábiles, contados a partir de la vigencia de las presentes reformas, se adecuará el Reglamento Interior de la Dependencia así como su organización y demás normatividad.
+
+Cuarto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad vigente.
+
+Quinto. En todos aquellos ordenamientos en que aparezca el nombre de la Secretaría de Desarrollo Agropecuario, Forestal y Pesquero, se deberá entender como Secretaría de Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación.
+
+G.O. 20 DE MAYO DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 QUE REFORMA, DEROGA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+
+Primero. Este Decreto entrará en vigor el día 1° de julio de 2002, previa publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. El personal, así como los recursos materiales y financieros destinados a las funciones de trabajo y previsión social con que actualmente cuenta la Secretaría de Gobierno, pasarán a la Secretaría de Trabajo y Previsión Social, debiendo ésta sujetarse al presupuesto autorizado para tal fin en el ejercicio fiscal de 2002.
+
+Cuarto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, adecuarán su organización y normatividad interiores, en un plazo no mayor de 60 días hábiles, contados a partir de la entrada en vigor del mismo.
+
+Quinto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable la normatividad vigente en lo que no se oponga al presente Decreto.
+
+G.O. 28 DE NOVIEMBRE DE 2002.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 303 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DEL CÓDIGO FINANCIERO PARA EL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado de Veracruz-Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los titulares de las Dependencias y Entidades del Poder Ejecutivo contarán con un plazo no mayor a treinta días naturales, a partir del inicio de la vigencia de este Decreto, para designar o ratificar a los titulares de las unidades administrativas, quienes deberán reunir los requisitos que señale la Ley.
+
+G.O. 18 DE MARZO DE 2003.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 547 DE REFORMA CONSTITUCIONAL”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz - Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 2 DE FEBRERO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 828 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DEL CÓDIGO FINANCIERO Y DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 2 DE JULIO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 848 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 10 DE AGOSTO DE 2004.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 856 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO, DEL CÓDIGO FINANCIERO PARA EL ESTADO, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- Las pólizas de fianza no fiscales otorgadas a favor de las dependencias y entidades del Poder Ejecutivo del Estado en fecha anterior al inicio de vigencia de este Decreto, observarán las disposiciones legales aplicables al momento de su emisión.
+
+CUARTO. Los Fideicomisos Públicos vigentes continuarán desempeñando las funciones que tienen encomendadas, bajo la dirección del Comité Técnico creado por virtud de su Decreto Constitutivo o, en su caso, de su Contrato de Fideicomiso.
+
+G.O. 29 DE JUNIO DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 245 QUE REFORMA EL ARTÍCULO 9 FRACCIÓN V, EL APARTADO UBICADO ENTRE LOS ARTÍCULOS 22 Y 22 BIS, QUE SE DENOMINARÁ DE LA SECRETARÍA DEL TRABAJO, PREVISIÓN SOCIAL Y PRODUCTIVIDAD, LOS ARTÍCULOS 22 BIS Y EL PRIMER PÁRRAFO DEL 22 TER, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 1 DE JULIO DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 247 QUE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 21 DE OCTUBRE DE 2005.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 286 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ Y DE LA LEY (SIC) TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 516 QUE REFORMA EL ARTÍCULO 18 BIS Y LA FRACCIÓN VII DEL ARTÍCULO 18 TER DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. El presupuesto, mobiliario, equipo, archivos y en general todos los recursos humanos, financieros y materiales que tienen asignados tanto la Dirección General de Tránsito y Transporte como el Instituto Veracruzano del Transporte, se transferirán de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, por disposición de este decreto.
+
+Artículo cuarto. El personal que por lo dispuesto en el presente decreto cambia de adscripción, conservará sus derechos laborales conforme a la ley.
+
+Artículo quinto. Todas las controversias judiciales y procedimientos administrativos que se encuentren en trámite y las que se reciban hasta antes de la entrega-recepción, tanto de la Dirección General de Tránsito y Transporte como del Instituto Veracruzano del Transporte, serán resueltas hasta su conclusión por el titular de la Secretaría de Seguridad Pública. En consecuencia, las controversias judiciales y procedimientos administrativos que se reciban a partir de la entrega-recepción, serán resueltas por el titular de la Secretaría de Gobierno.
+
+G.O. 13 DE ENERO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 522 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Cuando alguna Unidad Administrativa de las Secretarías establecidas conforme al texto anterior de esta Ley pase a otra Secretaría, el traspaso se hará incluyendo los recursos materiales, humanos y financieros a su cargo.
+
+Artículo tercero. Cuando en leyes y ordenamientos diversos se aluda al nombre de una Dependencia cuya denominación haya variado por efecto de estas reformas o adiciones, las atribuciones, deberes y responsabilidades consecuentes, se entenderán conferidas automáticamente a la Dependencia que bajo un nuevo nombre sustituya en sus funciones relativas a la anterior.
+
+Artículo cuarto. La emisión de los reglamentos internos que correspondan a las nuevas dependencias y la adecuación a los reglamentos internos de las dependencias que modifican sus funciones se deberá efectuar en un término de noventa días a partir del inicio de vigencia de la presente reforma.
+
+G.O. 24 DE FEBRERO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 541 QUE ADICIONA Y DEROGA DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Las Unidades Administrativas de las Secretarías establecidas en el texto anterior a esta Ley, que se trasladen o transfieran a otra Secretaría u oficina dependiente directamente del Ejecutivo Estatal, pasarán a su nueva adscripción con los recursos materiales, humanos y financieros que estén a su cargo.
+
+G.O. 30 DE AGOSTO DE 2006.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 570 QUE REFORMA LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los recursos materiales, humanos y financieros, que correspondían a la Secretaría de Seguridad Pública en materia de prevención y readaptación social pasan a la Secretaría de Gobierno.
+
+Tercero. El Gobernador del Estado en un término de noventa días a partir de la vigencia del presente Decreto, realizará las adecuaciones a los reglamentos internos de las dependencias que modifican sus atribuciones.
+
+G.O. 8 DE AGOSTO DE 2007.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 896 QUE ADICIONA LAS FRACCIONES XXV BIS Y XXV TER AL ARTÍCULO 28 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
+
+Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+Tercero. La Secretaría de Desarrollo Social y Medio Ambiente, en un plazo de treinta días de la entrada en vigor del presente decreto, deberá adecuar su Reglamento Interior a las presentes disposiciones.
+
+G.O. 1 DE FEBRERO DE 2008.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 225 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz.
+
+Segundo. El Reglamento Interior de la Secretaría de Protección Civil deberá emitirse dentro de los 90 días siguientes a la fecha de entrada en vigor del presente Decreto.
+
+Tercero. La Secretaría de Finanzas y Planeación realizará las adecuaciones procedentes a fin de que el presupuesto asignado a la Subsecretaría de Protección Civil, pase a la Secretaría de Protección Civil.
+
+Cuarto. Los recursos humanos y materiales asignados a la Subsecretaría de Protección Civil, se transferirán a la Secretaría de Protección Civil. La Contraloría General vigilará esa transferencia.
+
+Quinto. El personal que cambia de adscripción por lo dispuesto en el presente decreto, conservará sus derechos laborales conforme a la ley.
+
+G.O. 12 DE NOVIEMBRE DE 2009.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 578 QUE ADICIONA LA FRACCIÓN XLIII AL ARTÍCULO 18, Y DEROGA LA FRACCIÓN SEGUNDA DEL ARTÍCULO 28, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 10 DE AGOSTO DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 842 QUE REFORMA LOS ARTÍCULOS 9, FRACCIÓN XI, 22, FRACCIONES XIV Y XXIV, 32 BIS Y 32 TER, ASÍ COMO LA DENOMINACIÓN DEL ACÁPITE QUE ANTECEDE AL ARTÍCULO 32 BIS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Tercero. Cualquier referencia que en otras disposiciones estatales se realice a la Secretaría de Turismo y Cultura, se entenderá realizada a la Secretaría de Turismo, Cultura y Cinematografía.
+
+G.O. 14 DE DICIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 5 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Cuando en Leyes, Códigos, Reglamentos y demás ordenamientos legales aplicables se nombre, aun implícitamente, a la Secretaría de Desarrollo Social y Medio Ambiente, Secretaría de Desarrollo Regional, Secretaría de Desarrollo Urbano o a cualesquiera otras dependencias diversas que las hayan sustituido, a partir de la entrada en vigor del presente, se entenderá que se hace referencia a la Secretaría de Desarrollo Social. Cuando en dichos ordenamientos se hable de la Dirección General de Asuntos Ecológicos, de la Coordinación Estatal de Medio Ambiente, de la Coordinación General de Medio Ambiente, de la Subsecretaría de Medio Ambiente o de la Subsecretaría de Medio Ambiente y Cambio Climático o de cualesquiera otras dependencias diversas que las hayan sustituido, a partir de la entrada en vigor del presente decreto, se entenderá que se hace referencia a la Secretaría de Medio Ambiente.
+
+Tercero. Los recursos humanos, materiales y financieros, así como la adscripción de los órganos existentes de la Secretaría de Desarrollo Social y Medio Ambiente destinados a funciones relacionadas con el desarrollo social, serán transferidos a la Secretaría de Desarrollo Social, y los destinados a funciones relacionadas con el medio ambiente, serán transferidos a la Secretaría de Medio Ambiente.
+
+Cuarto. El reglamento de la Secretaría de Desarrollo Social y Medio Ambiente regirá a las Secretarías de Desarrollo Social y a la de Medio Ambiente, en lo que corresponda a sus atribuciones, en tanto no se promulguen sus respectivos reglamentos.
+
+Quinto. Los asuntos en trámite, a la entrada en vigor de este ordenamiento, serán resueltos por el área administrativa a la que se le atribuya la competencia correspondiente.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 10 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO Y LA LEY DE SALUD DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil once, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Todos aquellos casos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán rigiéndose por las disposiciones entonces vigentes y se resolverán conforme a ellas.
+
+Tercero. Cualesquiera disposiciones jurídicas o tributarias que hagan referencia al Impuesto Sobre Nóminas, y que no hayan sido expresamente reformadas, modificadas, abrogadas o derogadas por virtud del presente decreto, se entenderán referidas al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+G.O. 6 DE OCTUBRE DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 298 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. La adecuación del Reglamento interior de la Dependencia aludida en el presente decreto, se deberá efectuar en un término de treinta días a partir del inicio de vigencia del mismo.
+
+Tercero. Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 30 DE DICIEMBRE DE 2011.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 328 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Con pleno respeto a los derechos laborales de quienes integran los recursos humanos del Instituto Veracruzano del Transporte, así como sus recursos materiales y financieros, se transfieren a la Secretaría de Gobierno del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave. En un plazo no mayor a treinta días naturales, se efectuarán las modificaciones reglamentarias necesarias para la creación del área o unidad administrativa responsable de las funciones en esta materia.
+
+Artículo Tercero. Los recursos humanos, materiales y financieros afectos al servicio público de tránsito, asignados presupuestalmente a la Dirección General de Tránsito y Transporte de la Secretaría de Gobierno, se transfieren a la Secretaría de Seguridad Pública, quedando los destinados a la prestación del servicio público del transporte adscritos a la Dirección General de Transporte que por este Decreto se crea y que formará parte de la estructura orgánica de la Secretaría de Gobierno.
+
+Artículo Cuarto. El personal del Instituto Veracruzano del Transporte y de la Dirección General de Tránsito y Transporte que por razón de este Decreto cambia de adscripción, conservará sus derechos laborales.
+
+Artículo Quinto. La Secretaría de Gobierno, en coordinación con las Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación, de forma inmediata realizarán los trámites administrativos conducentes y las acciones necesarias para dar cumplimiento a lo dispuesto en este Decreto.
+
+Artículo Sexto. A la brevedad posible, la Secretaría de Gobierno y la Secretaría de Seguridad Pública propondrán al titular del Poder Ejecutivo del Estado sus respectivos proyectos de modificación a los Reglamentos Interiores que rigen a cada dependencia.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
