@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2024-09-17"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -91,7 +91,9 @@ IX. Las demás que establezca la ley.
 
 La aplicación de este Código corresponde, en el ámbito de su competencia, al Instituto Estatal Electoral, al Tribunal Electoral y al Congreso, todos del Estado de Hidalgo, quienes serán responsables de velar por el libre ejercicio de los derechos político - electorales, la efectividad del sufragio y la validez de las elecciones; contarán con el apoyo y colaboración de las autoridades federales, estatales y municipales para el mejor cumplimiento de sus funciones.
 
-La interpretación de este Código será conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa se aplicarán los principios generales del derecho.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+
+La interpretación de este Código será conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Hidalgo, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, así como a los criterios gramatical, sistemático y funcional. A falta de disposición expresa se aplicarán la jurisprudencia, los principios generales del derecho y los usos y costumbres que resulten vinculantes y aplicables al caso particular.
 
 ###### Artículo 3.
 
@@ -7314,3 +7316,9 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1094 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 235 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN FINANCIERA DE LAS MUJERES VÍCTIMAS DE VIOLENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
