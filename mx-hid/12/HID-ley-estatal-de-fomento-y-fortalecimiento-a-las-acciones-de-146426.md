@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-1464
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-20"
-last_updated: "2024-05-30"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el miércoles 20 de enero de 2021.
 
@@ -186,6 +186,10 @@ e. Atención de los derechos de las personas privadas de su libertad;
 f. Acciones que promuevan la no discriminación
 
 g. Víctimas de delitos y violaciones a los derechos humanos y sus familiares;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+h. Atención, promoción y defensa de los derechos humanos de las personas migrantes y personas repatriadas.
 
 VI. Promoción de actividades culturales, científicas y deportivas:
 
@@ -570,3 +574,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 929 POR EL QUE SE ADICIONA EL CAPÍTULO VII BIS A LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE TRATO DIGNO A LAS PERSONAS HIDALGUENSES REPATRIADAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
