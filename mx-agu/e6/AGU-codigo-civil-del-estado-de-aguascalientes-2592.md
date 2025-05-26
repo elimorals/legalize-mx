@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-05-19"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -11117,9 +11117,11 @@ Las personas que han causado en común un daño, son responsables solidariamente
 
 Las personas morales son responsables de los daños y perjuicios que causen sus representantes legales en el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+
 ###### Artículo 1793.
 
-Los que ejerzan la patria potestad tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que están bajo su poder y que habiten con ellos.
+Los que ejerzan la patria potestad, tutela, guarda y custodia tienen obligación de responder de los daños y perjuicios causados por los actos de los menores que están bajo su poder y que habiten con ellos. Lo anterior comprenderá también el daño moral establecido en el artículo 1790 de este Código.
 
 ###### Artículo 1794.
 
@@ -18260,3 +18262,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 A partir de la publicación de la presente reforma, las instituciones del Gobierno del Estado de Aguascalientes, así como los municipios que lo integran, contarán con un plazo máximo de 180 días naturales para realizar las modificaciones necesarias a sus reglamentos y normatividades internas.
 
 Dichas modificaciones deberán establecer la obligatoriedad de solicitar la constancia emitida por el Registro Nacional de Obligaciones Alimentarias como requisito en todos aquellos trámites que consideren pertinentes, en concordancia con las disposiciones de esta reforma y en cumplimiento con el marco normativo federal aplicable.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- SE REFORMAN EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; Y, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
