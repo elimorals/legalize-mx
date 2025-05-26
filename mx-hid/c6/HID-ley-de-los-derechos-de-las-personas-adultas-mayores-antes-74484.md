@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2025-01-28"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -857,6 +857,18 @@ Al Consejo Estatal de Población, le corresponde:
 
 I.- Crear un registro de información con la finalidad de determinar la cobertura y las características de los programas y beneficios dirigidos a las personas adultas mayores.
 
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+###### Artículo 28 Bis.
+
+Al Instituto Hidalguense de las Mujeres le corresponde:
+
+I.- Impulsar la transversalidad de la perspectiva de género en el diseño e implementación de políticas públicas dirigidas a las personas adultas mayores;
+
+II.- Fomentar la perspectiva de género, igualdad sustantiva y no discriminación en la cultura del envejecimiento, y
+
+III.- Promover acciones de prevención, atención y erradicación de la violencia de género contra las mujeres adultas mayores.
+
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES DEL EJECUTIVO Y DE LOS AYUNTAMIENTOS
 
 ###### Artículo 29.
@@ -1218,5 +1230,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 28 DE ENERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 187 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN Y PARTICIPACIÓN ACTIVA DE PERSONAS ADULTAS MAYORES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 242 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 28 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ATRIBUCIONES DEL INSTITUTO HIDALGUENSE DE LAS MUJERES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
