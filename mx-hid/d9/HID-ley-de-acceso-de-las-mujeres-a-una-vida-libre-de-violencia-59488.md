@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-01-28"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -863,7 +863,7 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
 
@@ -950,6 +950,10 @@ VI.- La Secretaría de Salud;
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 VII.- La Secretaría del Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+VII BIS.- La Secretaría de Desarrollo Económico del Estado de Hidalgo;
 
 VIII.- La Procuraduría General de Justicia del Estado;
 
@@ -1069,17 +1073,21 @@ XIII.- Fomentar la armonización legislativa para erradicar la discriminación y
 
 XIV.- Institucionalizar la Ruta de atención integral a mujeres en situación de violencia de género que deberán cumplir las dependencias y entidades de la administración pública estatal y municipal de Hidalgo y el uso del sistema de referencia y contrarreferencia y de la Cédula de Registro Único.
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XV.- Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-XVI.- Promover el desarrollo, implementación y evaluación de los proyectos para la creación, fortalecimiento y operación del Centro de Justicia para las Mujeres en las regiones del Estado, y
+XVI.- Promover el desarrollo, implementación y evaluación de los proyectos para la creación, fortalecimiento y operación del Centro de Justicia para las Mujeres en las regiones del Estado;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
 
-XVII.- Difundir la oferta institucional de servicios especializados que brinde el Centro de Justicia para Mujeres del Estado de Hidalgo en los municipios de la Entidad.
+XVII.- Difundir la oferta institucional de servicios especializados que brinde el Centro de Justicia para Mujeres del Estado de Hidalgo en los municipios de la Entidad, y
+
+> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
+
+XVIII.- Promover programas de emprendimiento, capacitación, inclusión financiera y herramientas digitales para las víctimas de todo tipo de violencia de género.
 
 ###### ARTÍCULO 37.
 
@@ -1959,7 +1967,7 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 ### CAPÍTULO VI. DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Bis.
 
@@ -2470,3 +2478,9 @@ P.O. 28 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO Y DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE PRINCIPIOS RECTORES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 235 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN FINANCIERA DE LAS MUJERES VÍCTIMAS DE VIOLENCIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
