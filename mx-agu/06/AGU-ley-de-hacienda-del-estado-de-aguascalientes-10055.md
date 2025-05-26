@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2024-12-27"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -106,6 +106,24 @@ En relación a los pagos señalados en los incisos que anteceden y en cuanto al 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 Los pagos de referencia se documentarán usando las formas autorizadas por la Secretaría de Finanzas del Estado, o con las formas precodificadas autorizadas para ello.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+ARTICULO 5º TER.- La Secretaría de Finanzas del Estado podrá establecer mecanismos que permitan a los contribuyentes, de manera voluntaria y expresa, realizar aportaciones económicas dirigidas al sostenimiento y fortalecimiento de instituciones de asistencia o beneficencia pública de carácter público o privado con fines sociales, así como con fundaciones sin fines de lucro que promuevan la salud pública, la protección de la niñez así como de las personas adultas mayores y el bienestar de las personas con discapacidad al momento de efectuar el pago de contribuciones, derechos o aprovechamientos estatales.
+
+Estas aportaciones no se considerarán ingresos públicos ni generarán obligaciones fiscales para el aportante. Su destino deberá ser íntegro a favor de la institución receptora, conforme a los convenios que se celebren para tal efecto. La voluntad del contribuyente será libre, informada y podrá manifestar su negativa sin que ello condicione o limite el cumplimiento de sus obligaciones fiscales.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+ARTICULO 5º QUÁTER.- Con el propósito de garantizar la correcta administración de los recursos obtenidos mediante aportaciones voluntarias, se observarán las siguientes disposiciones:
+
+I. Las aportaciones voluntarias deberán registrarse en cuentas específicas y mantenerse separadas de los ingresos ordinarios del Estado.
+
+II. La aplicación de dichos recursos se realizará conforme a los fines estipulados en los convenios celebrados con la institución beneficiaria o a las instrucciones del aportante, siempre que no contravengan el interés público ni disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+
+ARTICULO 5º QUINQUIES.- Con el fin de garantizar la transparencia y rendición de cuentas en el uso de los recursos provenientes de aportaciones voluntarias, el Órgano Superior de Fiscalización del Estado de Aguascalientes deberá vigilar su adecuada administración y verificar que sean aplicados conforme a los fines para los cuales fueron otorgados. Los resultados de dicha supervisión deberán integrarse en los informes correspondientes a la Cuenta Pública Anual, reflejando de manera clara, accesible y verificable el destino, ejercicio y aplicación de dichos recursos, además de tratar la información generada, conforme a lo previsto en la Ley General de Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3556,3 +3574,11 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decret
 ###### ARTÍCULO TERCERO.
 
 Los trámites iniciados con anterioridad a la entrada en vigor del presente decreto, se deben llevar a cabo de conformidad con la normatividad vigente al momento de su inicio hasta su conclusión.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181.- SE REFORMAN LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO 2025; Y, LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Secretaría de Finanzas del Estado de Aguascalientes deberá realizar las adecuaciones correspondientes a su Reglamento Interior en un término no mayor a 90 días naturales, a fin de establecer entre las facultades del titular de la dependencia la posibilidad de celebrar convenios con instituciones de asistencia o beneficencia pública o privada, así como con fundaciones sin fines de lucro que promuevan la salud pública, la protección de la niñez y el bienestar de las personas con discapacidad, para que puedan recibir donaciones voluntarias por parte de los contribuyentes a través de las cajas recaudadoras y cuentas bancarias de la propia Secretaría.
