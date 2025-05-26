@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2024-08-12"
+last_updated: "2025-05-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -947,9 +947,11 @@ X. Bachillerato Deportivo.
 
 Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación a distancia y aquellos que operen con base en la certificación por evaluaciones parciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2025)</small>
+
 ###### Artículo 35.
 
-La autoridad educativa, en el ámbito de su competencia, establecerá, de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en este tipo educativo, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso para las personas que así lo decidan, puedan ingresar a este tipo educativo, así como disminuir la deserción y abandono escolar, como puede ser el establecimiento de apoyos económicos.
+La autoridad educativa, en el ámbito de su competencia, establecerá, de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en este tipo de nivel educativo, poniendo énfasis en las personas jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso, así como disminuir la deserción y abandono escolar, implementando diversos tipos de apoyo, como económicos, entre otros, considerando de manera particular a las mujeres en etapa de embarazo, parto y puerperio, para quienes se promoverá la lactancia materna.
 
 De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
@@ -2562,3 +2564,11 @@ P.O. 12 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 26 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 183.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
