@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2025-03-05"
+last_updated: "2025-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -389,13 +389,13 @@ Las personas que habitan el Estado, igualmente participarán en la preservación
 
 El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 16.
 
-El Estado de San Luis Potosí reconoce la vida humana como fundamento de todos los derechos de los seres humanos, por lo que la respeta y protege desde el momento de su inicio en la concepción. Queda prohibida la pena de muerte, la cual no podrá aplicarse en ningún caso.
+El Estado de San Luis Potosí reconoce la vida digna como fundamento de todos los derechos de los seres humanos. Queda prohibida la pena de muerte, la cual no podrá aplicarse en ningún caso.
 
-No es punible la muerte dada al producto de la concepción, cuando sea consecuencia de una acción culposa de la mujer; el embarazo sea resultado de una violación o de una inseminación indebida; o de no provocarse el aborto la mujer corra peligro de muerte.
+Toda persona tiene derecho a decidir sobre su gestación de manera libre, informada, autónoma y responsable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MARZO DE 2015)</small>
 
@@ -4048,3 +4048,17 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deberá observar que la próxima elección de titular de la rectoría de la Universidad Autónoma de San Luis Potosí, sea una mujer, por lo que la convocatoria será dirigida a mujeres.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0205.- QUE REFORMA EL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE INTERRUPCIÓN LEGAL DEL EMBARAZO, Y ADICIONA LOS ARTÍCULOS 58 BIS Y 58 TER A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los ayuntamientos tendrán un plazo no mayor de dos meses para pronunciarse a favor o en contra de la reforma y adición que les es enviada por el Congreso del Estado; este plazo comenzará a partir de la recepción de la misma. En el entendido que, de no pronunciarse en el plazo estipulado, se les tendrá por conformes con los términos y, por tanto, aprobadas las adiciones y reformas enviadas por el Congreso del Estado.
+
+TERCERO. Las autoridades de salud deberán garantizar el acceso universal y gratuito a los servicios de interrupción legal del embarazo, en los términos establecidos por esta reforma constitucional, en coordinación y colaboración con profesionales de la salud, con plena observancia de los derechos humanos.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, las instituciones de salud pública, contarán con un plazo de sesenta días naturales para expedir o adecuar sus reglamentos, lineamientos y protocolos en materia de interrupción legal del embarazo.
+
+QUINTO. Se derogan las disposiciones que se contravengan al presente Decreto.
