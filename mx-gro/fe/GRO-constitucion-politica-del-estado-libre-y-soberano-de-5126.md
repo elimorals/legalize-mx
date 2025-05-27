@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-05-23"
+last_updated: "2025-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -156,6 +156,10 @@ VI. El derecho de acceder al agua; toda persona tiene derecho al acceso, disposi
 VII. El derecho a un medio ambiente sano para su desarrollo y bienestar. La ley definirá las bases, apoyos y modalidades para enfrentar los efectos adversos del cambio climático, estableciendo las medidas necesarias, así como la participación de la federación con el Estado y sus municipios, los diferentes sectores sociales para la consecución de dichos fines.
 
 El Estado deberá garantizar la protección, conservación y restauración de los bienes ambientales. La reparación del daño ambiental corresponderá a quien lo cause y, subsidiariamente, al Estado. La Ley determinará la procedencia de la responsabilidad penal y administrativa;
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2025)</small>
+
+El bienestar animal forma parte del derecho protegido en esta fracción. Esta Constitución y las leyes que de ella emanen, reconocen a los animales como seres sintientes. El Estado y los Municipios deberán garantizar la protección, cuidado, respeto y trato digno de los animales. En el ámbito de sus competencias, deberán promover la cultura del cuidado animal y la tutela responsable, así como realizar acciones para la atención de animales abandonados y atención de denuncias de maltrato animal.
 
 VIII. El derecho de los grupos vulnerables de acceder a condiciones de bienestar y hacer posible su inclusión social. El Estado considerará, presupuestalmente, las partidas necesarias para:
 
@@ -1507,7 +1511,9 @@ El mandato del Gobernador será de seis años improrrogables.
 
 El Gobernador no podrá ser removido de su cargo sino exclusivamente por las causas establecidas en el título Décimo Tercero de esta Constitución.
 
-1. El Gobernador recibirá una remuneración digna y adecuada, acorde a la naturaleza de su cargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el período para el que fue electo;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
+
+1. El Gobernador del Estado recibirá una remuneración digna y adecuada, acorde a la naturaleza de su cargo, la cual no podrá ser mayor a la establecida para el Presidente de la República en el presupuesto correspondiente. Sin contravenir lo dispuesto en este precepto, la remuneración podrá ser aumentada justificadamente, y no podrá disminuirse durante el período para el que fue electo.
 
 2. El Gobernador gozará de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado; y,
 
@@ -1931,6 +1937,10 @@ Los Magistrados no podrán ser removidos de su encargo durante el periodo de su 
 
 10. Los Jueces, en caso de infracciones y faltas, quedarán sujetos a los procedimientos sustanciados ante el Consejo de la Judicatura del Estado y conforme lo determine la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2025)</small>
+
+11. Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Jueces del Poder Judicial del Estado, no podrán ejercer la abogacía ante los órganos jurisdiccionales de dicho Poder Judicial, dentro de los dos años siguientes de la conclusión de su cargo.
+
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN III. TRIBUNAL SUPERIOR DE JUSTICIA
@@ -1971,7 +1981,9 @@ El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad
 
 El Tribunal Superior de Justicia será Presidido por un Magistrado, que no integrará Sala.
 
-1. El Magistrado Presidente será electo por el Pleno en la primera sesión de noviembre, cada tres años y podrá ser reelecto por una sola ocasión;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
+
+1. El Magistrado Presidente será electo por el Pleno, en la primera sesión de noviembre, cada tres años y podrá ser reelecto por una sola ocasión; debiendo recaer dicho cargo, entre los magistrados que tengan cuando menos un año de ejercicio en la función jurisdiccional.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
 
@@ -2125,9 +2137,9 @@ Las leyes definirán la forma y las modalidades de su designación, sus responsa
 
 Para ser presidente de la Comisión de los Derechos Humanos; consejero del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; o Fiscal General de la Fiscalía General, se requiere:
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2025)</small>
 
-I. Ser ciudadano mexicano, en ejercicio de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano, preferentemente guerrerense, en ejercicio de sus derechos civiles y políticos;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2160,6 +2172,10 @@ VIII. No haber sido titular de ninguna dependencia, entidad u organismo de la ad
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IX. No haber sido dirigente de algún partido político ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2025)</small>
+
+Además de los requisitos anteriores, los aspirantes al cargo de Fiscal General del Estado, deberán acreditar plenamente tener conocimientos en el campo del Derecho penal y experiencia en el ejercicio profesional de esa rama, por lo menos cinco años previos a la emisión de la convocatoria.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3755,11 +3771,33 @@ III. Deben aplicar con imparcialidad los recursos públicos que estén bajo su r
 
 IV. Tienen prohibida la difusión de propaganda o la realización de actos de promoción personalizada que incluya su nombre, imagen, voz o símbolos. La propaganda gubernamental deberá tener carácter institucional y fines informativos, educativos o de orientación social;
 
-V. Deberán recibir una remuneración adecuada y proporcional a sus responsabilidades por el desempeño de su función. Ningún servidor público podrá recibir una remuneración igual o mayor a la de su superior jerárquico, ni superior a la establecida para el Gobernador del Estado;
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
+
+V. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
 VI. Tienen prohibido desempeñar a la vez dos o más cargos o empleos públicos por los que se disfrute sueldo, excepto los de enseñanza, investigación o beneficencia pública que no impliquen remuneración o estímulo económico y que no comprometan su desempeño o resulten incompatibles; y,
 
 VII. No podrán ser objeto de ningún género de descuento sin su consentimiento, excepto cuando lo determine la ley o la autoridad judicial correspondiente.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2025)</small>
+
+VIII. Los servidores Públicos deberán recibir una remuneración adecuada y proporcional a sus responsabilidades por el desempeño de su función, empleo, cargo o comisión. Ningún servidor público podrá recibir remuneración, en términos de la fracción V del numeral 1 de este artículo, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2025)</small>
+
+IX. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2025)</small>
+
+X. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servicios de seguridad que requieran (sic) los servidores públicos por razón del cargo desempeñado;
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2025)</small>
+
+XI. Las remuneraciones de todos los servidores públicos y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto efectivo como en especie; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2025)</small>
+
+XII. Las remuneraciones de todos los servidores públicos deberán ser equitativas en el presupuesto de egresos correspondiente, el cual deberá sujetarse a las bases establecidas en fracciones anteriores.
 
 2. Los servidores públicos de base tendrán garantizada la estabilidad en el trabajo cuando la naturaleza del servicio lo requiera. Los servidores públicos de confianza disfrutarán de las medidas de protección al salario y de los beneficios de la seguridad social;
 
@@ -3807,11 +3845,11 @@ Los servidores públicos serán responsables por los actos u omisiones en que in
 
 3. La ley determinará los sujetos, supuestos de responsabilidad, procedimientos, autoridades competentes y las sanciones del régimen de responsabilidades de los servidores públicos del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 194.
 
-La responsabilidad del Estado y de los municipios por los daños que con motivo de su actividad administrativa irregular se causen en los bienes o derechos de los particulares será objetiva y subsidiaria. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5348,3 +5386,89 @@ SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Const
 TERCERO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos correspondientes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 224 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, RELATIVAS A LA REMUNERACIÓN DEL GOBERNADOR DEL ESTADO Y SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, le da marco constitucional a la Ley Número 18 de Remuneraciones de los Servidores Públicos del Estado de Gurrero. Las disposiciones que lo contravengan quedarán sin efectos.
+
+###### ARTÍCULO TERCERO.
+
+En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos correspondientes.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE MAGISTRADOS DEL PODER JUDICIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Una vez emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+La presente reforma constitucional entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO A LA FRACCIÓN VII DEL NUMERAL 1 DEL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+
+SEGUNDO.- Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+
+TERCERO.- Una vez emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes
+
+CUARTO.-. La presente adición constitucional entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+QUINTO.- Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 POR EL QUE SE REFORMA EL ARTICULO 194 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, RELATIVO A LA RESPONSABILIDAD PATRIMONIAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Una vez emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+La presente reforma constitucional entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
