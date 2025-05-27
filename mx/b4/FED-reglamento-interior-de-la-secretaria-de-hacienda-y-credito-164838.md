@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-1648
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-03-06"
-last_updated: "2025-02-24"
+last_updated: "2025-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164838&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-03-02"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2025.
 
 Reglamento publicado en el Número 5 del Diario Oficial de la Federación, el lunes 6 de marzo de 2023.
 
@@ -91,9 +91,21 @@ e) Dirección General de Procesos Legales:
 
 f) Dirección General de lo Contencioso;
 
-g) Coordinación de Análisis de Actividades Vulnerables, y
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-h) Coordinación de Infraestructura Tecnológica, y
+g) Coordinación de Análisis de Actividades Vulnerables;
+
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
+
+h) Coordinación de Infraestructura Tecnológica, e
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], D.O.F. 27 DE MAYO DE 2025)</small>
+
+i) Dirección General Especializada en Organizaciones Delictivas:
+
+1. Coordinación Operativa en Asuntos de Organizaciones Delictivas A, y
+
+2. Coordinación Operativa en Asuntos de Organizaciones Delictivas B;
 
 III. Unidad de Coordinación con Entidades Federativas:
 
@@ -835,7 +847,9 @@ IV. Participar con las unidades administrativas competentes de la Secretaría, e
 
 V. Emitir opinión jurídica a las unidades administrativas competentes de la Secretaría sobre la interpretación, para efectos administrativos, de las disposiciones de carácter general señaladas en la fracción I de este artículo, así como de las disposiciones legales de las que aquellas emanen;
 
-VI. Determinar y expedir, en coordinación con los órganos administrativos desconcentrados competentes de la Secretaría, las formas oficiales para la presentación de reportes a que se refiere el inciso b) de la fracción I de este artículo y para la recepción de los avisos y la presentación de la demás información que establecen la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y las reglas de carácter general que de dichos ordenamientos emanen;
+> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2025)</small>
+
+VI. Determinar y expedir, en coordinación con los órganos administrativos desconcentrados competentes de la Secretaría, las formas oficiales, las cuales deben publicarse en el Diario Oficial de la Federación, para la presentación de reportes a que se refiere el inciso b) de la fracción I de este artículo y para la recepción de los avisos y la presentación de la demás información que establecen la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y las reglas de carácter general que de dichos ordenamientos emanen;
 
 VII. Participar con los órganos administrativos desconcentrados competentes de la Secretaría, en la revisión, verificación, comprobación y evaluación del cumplimiento de las disposiciones de carácter general a que se refiere la fracción I de este artículo, así como de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, su Reglamento y demás disposiciones jurídicas que de dichos ordenamientos emanen, por parte de las entidades y personas obligadas a ello en términos de las disposiciones jurídicas aplicables;
 
@@ -1232,6 +1246,40 @@ VII. Proporcionar la atención y el soporte técnico a la Unidad de Inteligencia
 VIII. Implementar conjuntamente con la Dirección General de Tecnologías y Seguridad de la Información las políticas, normas y mecanismos que permitan una operación continua de la red de comunicaciones y de la infraestructura de tecnologías de información relacionada con los servicios informáticos de la Unidad de Inteligencia Financiera, y
 
 IX. Definir y promover en la Unidad de Inteligencia Financiera una cultura de calidad, seguridad y protección de la información.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2025)</small>
+
+Artículo 10 N.- La Dirección General Especializada en Organizaciones Delictivas tiene las atribuciones siguientes:
+
+I. Analizar la información contenida en los reportes, avisos y declaraciones a que se refiere la fracción VIII del artículo 10 del presente Reglamento, relativos a personas posiblemente relacionadas con organizaciones delictivas y delitos de alto impacto;
+
+II. Integrar los reportes de inteligencia relativos a personas posiblemente relacionadas con organizaciones delictivas y delitos de alto impacto, con base en los reportes, avisos y declaraciones a que se refiere la fracción VIII del artículo 10 de este Reglamento, así como en el resultado del análisis a que se refiere la fracción I de este artículo y, en su caso, coordinar la elaboración de dichos reportes de inteligencia;
+
+III. Requerir y recabar de las entidades y personas sujetas a las disposiciones de carácter general señaladas en la fracción I del artículo 10 de este Reglamento, así como de quienes realicen las actividades vulnerables, entidades colegiadas y órganos concentradores a que se refieren las secciones Segunda y Cuarta del Capítulo III de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, directamente o a través de las instancias correspondientes, según sea el caso, información, documentación, datos e imágenes relacionadas con los reportes y avisos previstos en dichas disposiciones, así como obtener información adicional de otras personas o fuentes para el ejercicio de sus atribuciones;
+
+IV. Participar en mecanismos de coordinación nacionales o internacionales, en materia de organizaciones delictivas y delitos de alto impacto;
+
+V. Fungir como enlace de la Unidad de Inteligencia Financiera con las autoridades competentes nacionales y extranjeras, jurisdicciones, instancias y organismos internacionales o intergubernamentales, para el diseño, implementación, seguimiento y ejecución de acciones estratégicas de coordinación, cooperación o colaboración, para la prevención de delitos de alto impacto, así como los relativos a personas posiblemente relacionadas con organizaciones delictivas y la protección del sistema financiero y la economía nacional;
+
+VI. Coordinar con la Fiscalía General de la República, la Secretaría de Seguridad y Protección Ciudadana y demás instancias competentes, el intercambio de información y documentación y la diseminación de productos de inteligencia en las materias de seguridad nacional y seguridad pública, conforme a los convenios de colaboración e intercambio de información que se hayan suscrito, y
+
+VII. Proporcionar, requerir e intercambiar con las autoridades competentes extranjeras la información y documentación necesarias para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2025)</small>
+
+Artículo 10 O.- Las coordinaciones operativas en Asuntos de Organizaciones Delictivas A y B tienen las atribuciones siguientes:
+
+I. Elaborar e integrar los análisis de los reportes, avisos y declaraciones a que se refiere la fracción VIII del artículo 10 del presente Reglamento, relativos a personas posiblemente relacionadas con organizaciones delictivas y delitos de alto impacto;
+
+II. Fungir como enlace de la Unidad de Inteligencia Financiera, previo acuerdo de su superior jerárquico, en grupos de trabajo con autoridades nacionales, extranjeras o internacionales, así como en mecanismos de coordinación de similar naturaleza, en materia de organizaciones delictivas y delitos de alto impacto;
+
+III. Proponer, para aprobación superior, acciones estratégicas de coordinación, cooperación o colaboración, para la prevención de delitos de alto impacto, así como los relativos a personas posiblemente relacionadas con organizaciones delictivas y la protección del sistema financiero y la economía nacional;
+
+IV. Proporcionar, requerir e intercambiar, previo acuerdo de su superior jerárquico, información, documentación y productos de inteligencia en materia de seguridad nacional y seguridad pública a la Fiscalía General de la República, la Secretaría de Seguridad y Protección Ciudadana y, demás instancias competentes, conforme a los convenios de colaboración e intercambio de información que se hayan suscrito;
+
+V. Elaborar y someter a consideración de su superior jerárquico proyectos de reportes de inteligencia relativos a personas posiblemente relacionadas con organizaciones delictivas y delitos de alto impacto, con base en los reportes, avisos y declaraciones a que se refiere la fracción VIII del artículo 10 de este Reglamento, así como en el resultado del análisis a que se refiere la fracción I del artículo 10 N del presente ordenamiento, y
+
+VI. Proponer a la persona titular de la Unidad de Inteligencia Financiera o a la persona titular de la Dirección General Especializada en Organizaciones Delictivas, según corresponda, casos de análisis que permitan obtener información relacionada con organizaciones delictivas y delitos de alto impacto, para lo cual deberá definir los tipos de operaciones que se incluirán en dichos análisis.
 
 ###### Artículo 11.
 
@@ -8057,7 +8105,9 @@ Las personas titulares de las subprocuradurías Fiscal Federal de Amparos y Fisc
 
 La persona titular de la Tesorería de la Federación será suplida en sus ausencias por las personas titulares de la Subtesorería de Operación, de la Subtesorería de Planeación Financiera y Administración de la Liquidez, de la Dirección General de Asuntos Jurídicos, de la Coordinación de Vigilancia de las Funciones de Tesorería, de la Coordinación de Planeación y Vinculación, de la Procuraduría Fiscal de la Federación, de la Subprocuraduría Fiscal Federal de Amparos, de la Subprocuraduría Fiscal Federal de Legislación y Consulta, de la Subprocuraduría Fiscal Federal de Asuntos Financieros, o de la Subprocuraduría Fiscal Federal de Investigaciones, en el orden indicado.
 
-La persona titular de la Unidad de Inteligencia Financiera será suplida en sus ausencias, por las personas titulares de la Dirección General de Asuntos Normativos e Internacionales, de la Dirección General de Procesos Legales, de la Dirección General de lo Contencioso, de la Dirección General de Integración de la Lista de Personas Bloqueadas y Procedimientos de Garantías de Audiencia, de la Dirección General de Análisis, y de la Dirección General de Información Estratégica, en ese orden.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
+
+La persona titular de la Unidad de Inteligencia Financiera será suplida en sus ausencias, por las personas titulares de la Dirección General de Asuntos Normativos e Internacionales, de la Dirección General de Procesos Legales, de la Dirección General de lo Contencioso, de la Dirección General de Integración de la Lista de Personas Bloqueadas y Procedimientos de Garantías de Audiencia, de la Dirección General de Análisis, de la Dirección General de Información Estratégica y de la Dirección General Especializada en Organizaciones Delictivas, en ese orden.
 
 La persona titular de la Unidad de Administración y Finanzas será suplida en sus ausencias por las personas titulares de las direcciones generales de Recursos Financieros, de Recursos Humanos, de Recursos Materiales, Obra Pública y Servicios Generales, de Talleres de Impresión de Estampillas y Valores, de Tecnologías y Seguridad de la Información, y de la Conservaduría de Palacio Nacional y Patrimonio Cultural, en el orden indicado.
 
@@ -8144,3 +8194,15 @@ QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución an
 SEXTO. Las gestiones administrativas y laborales, así como los recursos humanos, financieros, tecnológicos y materiales necesarios para el ejercicio de las atribuciones conferidas a las unidades administrativas de la Secretaría de Hacienda y Crédito Público, en términos del presente decreto, deberán sujetarse a las disposiciones jurídicas aplicables.
 
 SÉPTIMO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+D.O.F. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+TERCERO. Las erogaciones que deriven por la implementación del presente decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de Hacienda y Crédito Público, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en ejercicios fiscales subsecuentes.
+
+Las modificaciones a la estructura orgánica de la Secretaría de Hacienda y Crédito Público, que en su caso deriven por la entrada en vigor del presente decreto, se llevarán a cabo mediante movimientos compensados, por lo que no se debe incrementar el presupuesto aprobado en el capítulo de servicios personales para el presente ejercicio fiscal, ni el presupuesto regularizable de servicios personales y de gasto de operación de dicha dependencia para ejercicios fiscales subsecuentes.
