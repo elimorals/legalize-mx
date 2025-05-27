@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-121181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2019-10-17"
+last_updated: "2025-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-28"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2025.
 
 Reglamento publicado en la Edición Vespertina del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -1027,17 +1027,27 @@ XIII. Practicar las diligencias que les encomienden las autoridades judiciales, 
 
 XIV. Ejercer las demás funciones que le confieran las convenciones internacionales en materia consular de las que México sea parte y aquellas otras que le sean encomendadas por la Secretaría en los términos de las disposiciones jurídicas que así lo determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 82.
 
-El Jefe de Oficina Consular podrá delegar facultades en servidores públicos subalternos, sin menoscabo de su responsabilidad.
+La persona titular de la Oficina Consular podrá delegar facultades en personas servidoras públicas subalternas, sin menoscabo de su responsabilidad.
 
-La delegación de facultades se hará mediante un acuerdo escrito del Jefe de Oficina Consular en el cual se establezca el nombre del servidor público a quien se delegue, las facultades delegadas y, además, aparezca registrada la firma de aquél tanto en forma autógrafa como con su firma electrónica avanzada. El citado escrito se ajustará al modelo que emita la Secretaría.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
+
+La delegación de facultades se hará mediante un acuerdo escrito de la persona titular de la Oficina Consular en el cual se establezca el nombre de la persona servidora pública a quien se delegue, las facultades delegadas y, además, aparezca registrada la firma de aquél tanto en forma autógrafa como con su firma electrónica avanzada. El citado escrito se ajustará al modelo que emita la Secretaría.
 
 > <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2018)</small>
 
 La firma de los documentos notariales, de los actos del registro civil y las declaratorias de nacionalidad mexicana por nacimiento, será delegable sólo en la persona del jefe de cancillería, cónsul adscrito o jefe de la Sección Consular. En caso de que la circunstancia particular de la Oficina Consular lo amerite, previa autorización de la Dirección General de la Secretaría encargada de los Asuntos Consulares, se podrá delegar esta facultad en otro Funcionario Consular.
 
-Las delegaciones de facultades serán notificadas a la Secretaría por el Jefe de Oficina Consular, a efecto de autorizarlas y llevar el registro de las mismas.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
+
+Las delegaciones de facultades serán notificadas a la Secretaría por la persona titular de la Oficina Consular, a efecto de autorizarlas y llevar el registro de las mismas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 2025)</small>
+
+Para efectos del presente reglamento, se entenderá por persona titular de la Oficina Consular aquella denominada como Jefe de Oficina Consular, definida en el artículo 1-BIS la fracción XIII de la Ley del Servicio Exterior Mexicano.
 
 ###### ARTÍCULO 83.
 
@@ -1053,17 +1063,21 @@ En caso de que dichos documentos se hubieren extraviado, el titular de la Oficin
 
 Los Funcionarios Consulares se mantendrán actualizados a través de la capacitación señalada en el artículo 126 de este Reglamento, en particular en aquellos temas relativos a los servicios consulares.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL D.O.F. DE 27 DE MAYO DE 2025, PÁGINA 8.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 84.
 
-Los Jefes de Oficina Consular ejercerán las funciones de Juez del Registro Civil en términos de la Ley, del Código Civil Federal y del presente Reglamento, y autorizarán en el extranjero, las actas de registro civil concernientes al nacimiento, matrimonio y defunción de mexicanos que se encuentren en el extranjero y, en su caso, expedirán copias certificadas de las mismas. Los actos del estado civil de los mexicanos en el extranjero se asentarán en las formas que proporcione la Secretaría.
+La persona titular de la Oficina Consular ejercerá las funciones de Registro Civil en términos de la Ley, del Código Civil Federal, del presente Reglamento y demás disposiciones jurídicas aplicables, y estará facultada para autorizar los actos del estado civil de las personas mexicanas, relativos a nacimiento, reconocimiento de identidad de género, matrimonio y defunción, que se encuentren en el extranjero.
 
-En los casos de mexicanos nacidos en territorio nacional, que no cuenten con la inscripción de su nacimiento en el registro civil y que radiquen en el extranjero, las Oficinas Consulares deberán actuar con base en los requisitos y procedimientos establecidos en los lineamientos que para tal efecto emita la Secretaría.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MAYO DE 2025)</small>
 
-Para la inscripción de nacimientos previstos en el párrafo anterior, la autoridad consular, cuando lo estime necesario, podrá solicitar información a las autoridades locales competentes.
+Asimismo, podrán realizar la digitalización y las correcciones de los actos del estado civil emitidos en las oficinas consulares y expedir copias certificadas.
 
-Sólo se autorizarán actas de matrimonio cuando los dos contrayentes sean mexicanos.
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2025)</small>
 
-Las copias certificadas de las actas del Registro Civil expedidas por Funcionarios Consulares tendrán validez en México.
+Las copias certificadas de las actas del Registro Civil expedidas por las personas titulares de las Oficinas Consulares en las representaciones de México en el exterior tendrán validez en México.
 
 Las actas a que se refiere este artículo serán concentradas en la Oficina Central del Registro Civil en la Ciudad de México, en los términos y condiciones que señalen las disposiciones aplicables.
 
@@ -2024,3 +2038,11 @@ SEGUNDO. Cualquier solicitud o procedimiento que, de conformidad con el Artícul
 TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
 
 CUARTO. La Secretaría de Relaciones Exteriores realizará las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, se realicen con cargo al presupuesto aprobado a dicha Secretaría en el presente ejercicio fiscal y subsecuentes, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable de esa Secretaría para el presente ejercicio fiscal ni posteriores.
+
+D.O.F. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 82 Y 84 DEL REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se deriven del cumplimiento de la presente reforma, se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen.
