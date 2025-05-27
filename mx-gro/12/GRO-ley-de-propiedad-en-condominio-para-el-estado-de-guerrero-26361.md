@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-propiedad-en-condominio-para-el-estado-de-guerrero-26361
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2012-03-06"
+last_updated: "2025-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NUMERO 557
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 240 DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 27 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NÚMERO 557
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 13 de diciembre de 2002.
 
@@ -904,3 +906,29 @@ El presente Decreto entrará en vigor a los treinta días siguientes de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 240 DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga la Ley de Propiedad en Condominio para el Estado de Guerrero Número 557, publicada en el Periódico Oficial del Gobierno del Estado de Guerrero No. 102, de fecha 13 de diciembre de 2002.
+
+Tercero. La Secretaría de Finanzas y Administración contará con un plazo de sesenta días naturales, contados a partir de la entrada en vigor de esta Ley, para habilitar y publicar en el Periódico Oficial del Gobierno del Estado de Guerrero, el registro estatal de personas administradoras de condominios. A partir de dicha publicación, las personas administradoras contarán con un plazo de noventa días naturales para llevar a cabo su registro obligatorio, en los términos establecidos por esta Ley.
+
+Cuarto. Los Ayuntamientos del Estado contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de esta Ley, para establecer e implementar programas de orientación y capacitación a través de cursos y talleres en materia condominal, en coordinación con las autoridades estatales, instituciones educativas y organismos especializados.
+
+Quinto. Las personas propietarias de unidades privativas en condominios que no cuenten con una Asociación Civil constituida conforme a lo dispuesto por esta Ley, dispondrán de un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de la misma, para constituir su Asociación ante notaría pública, con ejercicio en el estado de Guerrero, salvo causa justificada, en atención al principio de certeza jurídica y sin perjuicio de la libertad de contratación reconocida en el marco constitucional, e inscribirla en el Registro Público de la Propiedad.
+
+Sexto. Los condominios o conjuntos condominales contarán con un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de esta Ley, para adecuar su escritura constitutiva y su Reglamento del Condominio conforme a las disposiciones previstas en esta Ley. En tanto no se realicen dichas adecuaciones, seguirán vigentes los instrumentos existentes, en lo que no se opongan a la presente Ley.
+
+Séptimo. Las personas administradoras, así como quienes integren Comités de Administración y Comités de Vigilancia en funciones al momento de la entrada en vigor de esta Ley, deberán cumplir con los requisitos de capacitación anual y registro estatal en un plazo máximo de noventa (90) días naturales contados a partir de la publicación del registro estatal previsto en el artículo segundo transitorio.
+
+Octavo. Los asuntos relacionados con el régimen de propiedad en condominio que se encuentren en trámite al momento de la entrada en vigor de esta Ley se resolverán conforme a las disposiciones de la legislación anterior, salvo que exista convenio expreso y por escrito entre las partes interesadas para sujetarse a lo establecido en esta Ley.
+
+Noveno. Lo dispuesto en el artículo 100 de esta Ley, en cuanto a la obligación de agotar previamente el procedimiento de mediación ante los Centros de Conciliación del Estado de Guerrero, será exigible únicamente cuando existan las condiciones materiales, técnicas y administrativas necesarias para su debida implementación.
+
+Décimo. Las medidas que adopte y las disposiciones que emita la persona administradora, dentro de sus funciones, con base en esta Ley y el Reglamento del Condominio, serán obligatorias para todas las personas condóminas
+
+Undécimo. Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía que se opongan a lo establecido en la presente Ley.
