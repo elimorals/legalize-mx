@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2024-06-14"
+last_updated: "2025-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1372,6 +1372,28 @@ VI. La participación en el establecimiento de mecanismos idóneos para la deter
 VII. La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas, y
 
 VIII. El desarrollo de programas en materia de salud dirigidos específicamente a las mujeres.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2025)</small>
+
+ARTICULO 58 BIS. El Sistema Público de Salud proporcionará los servicios necesarios para la interrupción del embarazo, en forma gratuita y en condiciones de calidad, en cumplimiento a las Normas Oficiales Mexicanas o las disposiciones aplicables en materia de salud reproductiva, cuando la mujer o la persona gestante lo soliciten.
+
+Con la finalidad de que la mujer o persona gestante esté en condiciones de decidir sobre su maternidad de manera libre y voluntaria; informada, autónoma y responsable, las instituciones de salud pública pondrán a su disposición servicios de atención médica de calidad, psicológica y social, con información objetiva, veraz, suficiente y oportuna de las opciones, alternativas y apoyos con que cuentan las mujeres y personas gestantes; así como de los procedimientos, riesgos, consecuencias y efectos de la interrupción del embarazo, siempre que esta sea solicitada dentro de las primeras doce semanas de gestación.
+
+Cuando la mujer o persona gestante decida practicarse la interrupción del embarazo, las instituciones de salud pública habrán de efectuarla de manera oportuna, debiendo cumplir con los requisitos establecidos en las disposiciones aplicables.
+
+Las instituciones de salud pública atenderán las solicitudes de interrupción del embarazo a todas las mujeres y personas gestantes solicitantes. El servicio tendrá carácter universal, gratuito y sin condicionamiento alguno.
+
+La interrupción del embarazo se llevará a cabo con base en lo dispuesto (sic) los protocolos y lineamientos emitidos por la Organización Mundial de la Salud, las Normas Oficiales Mexicanas y las disposiciones aplicables, con relación a la práctica clínica para un aborto seguro.
+
+En la práctica clínica para la interrupción del embarazo, las instituciones de salud pública deberán promover, garantizar, respetar y proteger la no discriminación, la confidencialidad y privacidad de las mujeres y personas gestantes solicitantes.
+
+Las instituciones de salud pública deberán ofrecer servicios de salud sexual, reproductiva y de planificación familiar a la mujer y a la persona gestante que haya practicado la interrupción de su embarazo, en los términos de esta Ley, y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2025)</small>
+
+ARTICULO 58 TER. Es obligación de las instituciones públicas de salud garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal de salud.
+
+Las instituciones de salud pública, en el ámbito de sus competencias, promoverán políticas públicas relacionadas con el ejercicio del aborto seguro, y la educación integral en sexualidad, en plena observancia con los derechos humanos.
 
 ###### ARTICULO 59.
 
@@ -5024,3 +5046,17 @@ P.O. 14 DE JUNIO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0205.- QUE REFORMA EL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE INTERRUPCIÓN LEGAL DEL EMBARAZO, Y ADICIONA LOS ARTÍCULOS 58 BIS Y 58 TER A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los ayuntamientos tendrán un plazo no mayor de dos meses para pronunciarse a favor o en contra de la reforma y adición que les es enviada por el Congreso del Estado; este plazo comenzará a partir de la recepción de la misma. En el entendido que, de no pronunciarse en el plazo estipulado, se les tendrá por conformes con los términos y, por tanto, aprobadas las adiciones y reformas enviadas por el Congreso del Estado.
+
+TERCERO. Las autoridades de salud deberán garantizar el acceso universal y gratuito a los servicios de interrupción legal del embarazo, en los términos establecidos por esta reforma constitucional, en coordinación y colaboración con profesionales de la salud, con plena observancia de los derechos humanos.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, las instituciones de salud pública, contarán con un plazo de sesenta días naturales para expedir o adecuar sus reglamentos, lineamientos y protocolos en materia de interrupción legal del embarazo.
+
+QUINTO. Se derogan las disposiciones que se contravengan al presente Decreto.
