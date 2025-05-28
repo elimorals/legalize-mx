@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2025-05-22"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3869,7 +3869,7 @@ Las penas anteriores se incrementarán en un tercio, cuando la persona obre de c
 
 ARTÍCULO 293 TER. A la persona privada de su libertad que se fugue mientras compurga alguna pena privativa de libertad, o en cumplimiento de una medida cautelar de prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva, ni se tendrá en cuenta la buena conducta que haya tenido antes de la fuga.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2025)</small>
 
 ###### ARTÍCULO 284.
 
@@ -3891,9 +3891,41 @@ Este delito se sancionará con una pena de uno a tres años de prisión, sanció
 
 En el caso de la fracción III de este artículo, la pena será de uno a cuatro años de prisión y sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO I. Delitos contra el Ambiente
+### CAPÍTULO V. Obstrucción de la Seguridad Pública y la Vigilancia Ilícita
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+ARTÍCULO 293 QUÁTER. Comete el delito de halconeo, el particular que utilizando cualquier medio o dispositivo con la finalidad de cometer o facilitar la ejecución de un delito previsto en las leyes locales u obstaculizar las labores realizadas por los cuerpos de seguridad en la prevención, investigación, persecución, sanción del delito o la ejecución penal, realice uno o más de los siguientes actos:
+
+I. Vigilancia, monitoreo, transmisión o seguimiento físico o virtual de las operaciones de los cuerpos de seguridad pública.
+
+II. Proporcionar o recopilar información sobre las acciones u operaciones de los cuerpos de seguridad pública.
+
+III. Interferir, manipular o alterar información operativa de los cuerpos de seguridad pública.
+
+IV. Ocultar, destruir o modificar registros o dispositivos tecnológicos, que contengan información sobre las operaciones de los cuerpos de seguridad pública.
+
+V. Colocar, instalar o emplear dispositivos tecnológicos no autorizados para el seguimiento, vigilancia o intercepción de comunicaciones de los cuerpos de seguridad pública.
+
+VI. Coordinar o dirigir de manera remota o presencial, las actividades de vigilancia o monitoreo realizadas por terceros para los fines descritos.
+
+VII. Desactivar, bloquear o sabotear equipos, herramientas o sistemas tecnológicos utilizados por los cuerpos de seguridad pública en el desarrollo de sus funciones.
+
+VIII. Revelar información operativa confidencial de los cuerpos de seguridad pública obtenida mediante medios ilícitos, a sabiendas de sus implicaciones delictivas.
+
+Por medios o dispositivos se entenderá cualquier equipo, herramienta o sistema tecnológico, mecánica o electrónica, tales como videocámaras, drones, teléfonos fijos, teléfonos celulares o inteligentes, computadoras, computadoras portátiles, tabletas electrónicas, micrófonos de cualquier tipo, dispositivos de geolocalización satelital, herramientas o programas de rastreo de dispositivos, tecnologías basadas en inteligencia artificial para el monitoreo de datos o patrones, aplicaciones de software desarrolladas o utilizadas con fines de vigilancia o rastreo, dispositivos de balizamiento, sensores de movimiento, térmicos o de proximidad, empleados para monitorear sin autorización, gafas o lentes con capacidad de grabación y transmisión en tiempo real, equipos diseñados para hackear, manipular o bloquear sistemas de comunicación o de seguridad de las autoridades, equipos de interceptación de comunicaciones, y cualquier otro medio equiparable o emergente.
+
+Igualmente, comete este delito quien instale, permita o consienta la instalación de cualquier medio o dispositivo tecnológico, mecánico o electrónico en bienes de su propiedad o posesión, de terceros, en terrenos baldíos, bienes abandonados, establecimientos, edificios públicos, vías o infraestructura pública, con los fines señalados en el párrafo primero.
+
+Quedan excluidas de este tipo penal, las actividades legítimas realizadas en el ejercicio de los derechos humanos, la libertad de prensa, asociación, el acceso a la información, la investigación académica, la vigilancia ciudadana en contextos legales, y cualquier otro derecho reconocido constitucionalmente, siempre y cuando dichas acciones no tengan fines delictivos.
+
+Este delito será sancionado con una pena de prisión de cinco a doce años, además de una multa equivalente de quinientos a mil doscientos días del valor de la Unidad de Medida y Actualización.
+
+Si las acciones descritas anteriormente ocasionan daño directo o ponen en riesgo la vida de los integrantes de los cuerpos de seguridad pública, o si para su comisión se emplea a niñas, niños o adolescentes, la pena se incrementará hasta en la mitad de las sanciones antes señaladas.
+
+El presente delito será aplicable sin perjuicio de otros tipos penales que regulen conductas específicas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3911,15 +3943,15 @@ Cuando el delito a que se refiere este capítulo sea cometido por un servidor p�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO II. Delitos contra la Gestión Ambiental
+### CAPÍTULO I. Delitos contra el Ambiente
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2025)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
+### CAPÍTULO II. Delitos contra la Gestión Ambiental
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 287.
 
@@ -3945,11 +3977,11 @@ En caso de indígenas, o campesinos, la acreditación como instrumento de trabaj
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
+### CAPÍTULO III. Delitos contra el Desarrollo Territorial Sustentable
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO IV. Disposiciones comunes a los Delitos previstos en los Capítulos I a III
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
-
-### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -3971,9 +4003,9 @@ Para los efectos de esta disposición se entiende por pandilla, la reunión habi
 
 Cuando quien cometa el delito a que se refiere el presente capítulo sea o haya sido servidor público de alguna corporación policíaca, las penas a que se refiere el artículo 288 de este Código se aumentarán en una mitad y se le impondrá, además, destitución, en su caso, del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro por el doble de la pena de prisión impuesta.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO V. Maltrato a los Animales Domésticos y Silvestres
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 291.
 
@@ -4003,17 +4035,19 @@ Si el procesado o sentenciado fue inculpado por cualquier delito de los consider
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2018)</small>
 
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+
 ### CAPÍTULO II. Cohecho
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
+## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTIÓN AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMÉSTICOS Y SILVESTRES
+
 ### CAPÍTULO III. Ejercicio ilícito de las Funciones Públicas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
-
-## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL AMBIENTE; LA GESTIÓN AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMÉSTICOS Y SILVESTRES
-
-### CAPÍTULO IV. Abandono de las Funciones Públicas
 
 ###### ARTÍCULO 294.
 
@@ -4181,7 +4215,7 @@ III. Una barranca, o
 
 IV. Un área verde en suelo urbano.
 
-### CAPÍTULO V. Coalición
+### CAPÍTULO IV. Abandono de las Funciones Públicas
 
 ###### ARTÍCULO 300.
 
@@ -4253,9 +4287,7 @@ VIII. Preste sus servicios como auditor técnico, especialista o perito o especi
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO VI. Abuso de Autoridad
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO V. Coalición
 
 ###### ARTÍCULO 306.
 
@@ -4321,7 +4353,9 @@ Cuando las conductas señaladas en las fracciones, IV, VI, y VIII de este dispos
 
 La autorización, permiso, licencia o documento expedido, que se haya obtenido o expedido por la comisión de las conductas descritas en este dispositivo, está afecta de nulidad absoluta.
 
-### CAPÍTULO VII. Tortura
+### CAPÍTULO VI. Abuso de Autoridad
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 309.
 
@@ -4373,11 +4407,7 @@ Cuando en la comisión de un delito previsto en los capítulos I a III de este T
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO VIII. Tráfico de Influencia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO VII. Tortura
 
 ###### ARTÍCULO 317.
 
@@ -4415,9 +4445,9 @@ Los delitos previstos en el presente capítulo se perseguirán de oficio.
 
 ## TÍTULO DÉCIMO SEXTO. DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO IX. Concusión
+### CAPÍTULO VIII. Tráfico de Influencia
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 336 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 336 ... Este delito se sancionará con una pena de uno a cuatro años de prisión, sanción pecuniaria de, cien a cuatrocientos días del valor de la unidad de medida y actualización, destitución e inhabilitación para el desempeño de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4467,7 +4497,9 @@ Para la individualización de las sanciones previstas a los delitos de este Tít
 
 Cuando los delitos a que se refieren los artículos, 321, y 327, del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
 
-### CAPÍTULO X. Peculado
+### CAPÍTULO IX. Concusión
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL TEXTO DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 337 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DE 11 DE ABRIL DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 17 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 337 ... Este delito se sancionará con una pena de uno a cinco años de prisión, sanción pecuniaria de veinte a cien días del valor de la unidad de medida y actualización, y destitución e inhabilitación por el doble de la pena de prisión impuesta para desempeñar empleo, cargo o comisión públicos."]</small>
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4509,7 +4541,7 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO XI. Enriquecimiento Ilícito
+### CAPÍTULO X. Peculado
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4565,9 +4597,7 @@ El delito a que se refiere el artículo anterior se sancionará con una pena de 
 
 Al infractor de las fracciones, IV, VI, VII, VIII, y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, y sanción pecuniaria de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
 
-### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+### CAPÍTULO XI. Enriquecimiento Ilícito
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4579,7 +4609,11 @@ Comete el delito de abandono de las funciones públicas el servidor público que
 
 Este delito se sancionará con una pena de uno a tres años de prisión, sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que percibía, e inhabilitación hasta por cuatro años para desempeñar empleo, cargo o comisión públicos.
 
-### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
+### CAPÍTULO XII. Delitos Cometidos por Servidores Públicos en la Procuración e Impartición de Justicia
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 0676, PUBLICADO EN EL P.O. 19 DE JULIO DE 2017, RELATIVO A LA DESINDEXACIÓN DEL SALARIO MÍNIMO, A EFECTO DE ARMONIZAR LAS DISPOSICIONES ESTATALES PARA ELIMINAR LAS REFERENCIAS AL SALARIO MÍNIMO, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 342 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DE 27 DE MAYO DE 2017. SE SUGIERE CONSULTAR LA PÁGINA 18 DE DICHA PUBLICACIÓN, QUE A LA LETRA DICE: "ARTÍCULO 342 .... I a V .... Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de cien a cuatrocientos días del valor de la unidad de medida y actualización, y destitución e inhabilitación de su empleo, cargo o comisión públicos, por el doble del lapso de la privación de la libertad que sea impuesta."]</small>
+
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2017)</small>
 
 ###### ARTÍCULO 326.
 
@@ -4597,49 +4631,7 @@ A los autores intelectuales, a los instigadores o a quienes encabecen el grupo c
 
 No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o hagan uso del derecho de huelga.
 
-### CAPÍTULO XIV. Uso ilícito de atribuciones y facultades
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 BIS. Comete el delito de uso ilícito de atribuciones y facultades:
-
-I. El servidor público que ilícitamente:
-
-a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación.
-
-b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico.
-
-c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal.
-
-d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos.
-
-e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos;
-
-II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
-
-a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
-
-b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
-
-III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
-
-IV. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
-
-Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
-
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
-
-ARTÍCULO 343 TER. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la (sic) Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
-
-I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
-
-II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
-
-Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
+### CAPÍTULO XIII. Deslealtad al Empleo, Cargo o Comisión, o Perjuicio al Servicio Público
 
 ###### ARTÍCULO 327.
 
@@ -4689,17 +4681,47 @@ El delito de abuso de autoridad se sancionará, con una pena de uno a cinco año
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO XV. Intimidación
+### CAPÍTULO XIV. Uso ilícito de atribuciones y facultades
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
 
-ARTÍCULO 343 QUÁTER. Comete el delito de intimidación:
+ARTÍCULO 343 BIS. Comete el delito de uso ilícito de atribuciones y facultades:
 
-I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
+I. El servidor público que ilícitamente:
 
-II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación.
 
-Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico.
+
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal.
+
+d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos.
+
+e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos;
+
+II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
+
+a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
+
+b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación;
+
+III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
+
+IV. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 TER. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio de la (sic) Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y sanción pecuniaria de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -4731,6 +4753,34 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 (DEROGADO, P.O. 11 DE ABRIL DE 2017)
 
+### CAPÍTULO XV. Intimidación
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
+
+ARTÍCULO 343 QUÁTER. Comete el delito de intimidación:
+
+I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas, y
+
+II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y sanción pecuniaria de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2017)</small>
+
+###### ARTÍCULO 336.
+
+Comete el delito de tráfico de influencia:
+
+I. El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+
+II. Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III. El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
+
+IV. Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y sanción pecuniaria de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+
 ### CAPÍTULO XVI. Ejercicio abusivo de funciones
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
@@ -4747,22 +4797,6 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de trescientas a un mil veces el valor diario de la Unidad de Medida y Actualización.
 
-###### ARTÍCULO 336.
-
-Comete el delito de tráfico de influencia:
-
-I. El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
-
-II. Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
-
-III. El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, y
-
-IV. Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
-
-Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y sanción pecuniaria de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
-
-### CAPÍTULO I. Delitos Contra el Consumo
-
 ###### ARTÍCULO 337.
 
 Comete el delito de concusión el servidor público que con tal carácter y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
@@ -4773,9 +4807,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivale
 
 Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y sanción pecuniaria de cien a trescientas veces al valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+### CAPÍTULO I. Delitos Contra el Consumo
 
 ###### ARTÍCULO 338.
 
@@ -4805,7 +4837,9 @@ II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente ex
 
 III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de mil quinientas veces del valor de la unidad de medida y actualización en el momento de cometerse el delito, se impondrá una pena de cinco a diez años de prisión, sanción pecuniaria de quinientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
+### CAPÍTULO II. Incumplimiento a Normas de Operación o Funcionamiento
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 340.
 
@@ -4831,9 +4865,7 @@ II. Cuando el monto a que asciende el enriquecimiento no exceda del equivalente 
 
 III. Cuando el monto a que asciende el enriquecimiento ilícito exceda del equivalente a cinco mil veces del valor de la unidad de medida y actualización, se impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización, y destitución e inhabilitación, del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPÍTULO I
-
-Ataques a las Vías de Comunicación y medios de Transporte.
+### CAPÍTULO III. Delitos Contra el Derecho de los Trabajadores
 
 ###### ARTÍCULO 342.
 
@@ -4917,9 +4949,9 @@ A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, X
 
 En caso de tratarse de particulares realizando funciones propias de supervisor o supervisora en libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, las personas jurídicas serán acreedoras a las penas y medidas en materia de responsabilidad penal establecidas en este Código.
 
-### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+### CAPÍTULO I
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+Ataques a las Vías de Comunicación y medios de Transporte.
 
 ###### ARTÍCULO 343.
 
@@ -4929,7 +4961,9 @@ Igualmente, comete este delito quien, para los mismos efectos a que se refiere e
 
 Asimismo, lo comete cualquier servidor público de los inicialmente nombrados, que posea alguno de los medios de comunicación señalados, que no le haya sido proporcionado por la corporación a que pertenezca, o que no lo tenga registrado ante la misma.
 
-De igual manera comete este delito, el servidor público o particular que posea un medio de comunicación del que deriven, se realicen, obtengan, genere datos, claves o códigos no autorizados, o cualquier referencia de ubicación o seguimiento de personas o agentes de seguridad.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
+De igual manera, comete este delito el servidor público que posea un medio de comunicación del que deriven, se realicen, obtengan, genere datos, claves o códigos no autorizados, o cualquier referencia de ubicación o seguimiento de personas o agentes de seguridad.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -4938,6 +4972,10 @@ Este delito se sancionará con una pena de cinco a doce años de prisión y sanc
 > <small>(DEROGADO SEXTO PÁRRAFO, P.O. 11 DE ABRIL DE 2017)</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2017)</small>
+
+### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO III. Delitos contra la Prestación del Servicio de Transporte Público de Pasajeros
 
@@ -4973,6 +5011,8 @@ Este delito se perseguirá por querella de la dependencia u órgano estatal del 
 
 ### CAPÍTULO IV. Violación de Correspondencia
 
+## TÍTULO DECIMO SÉPTIMO. DELITOS CONTRA LA ECONOMÍA PÚBLICA
+
 ### CAPÍTULO V. Delitos Contra la Seguridad Vial
 
 > <small>(ADICIONADO, P.O. 27 DE MARZO DE 2023)</small>
@@ -4994,10 +5034,6 @@ II. La conducta afecte vehículos de cualquier institución o cuerpo de segurida
 III. La conducta afecte vehículos que prestan auxilio médico, vial, o de cualquier otra clase que se relacione con el servicio público.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2023)</small>
-
-## TÍTULO DECIMO SÉPTIMO. DELITOS CONTRA LA ECONOMÍA PÚBLICA
-
-### CAPÍTULO I. Prevenciones Generales
 
 ###### ARTÍCULO 344.
 
@@ -5027,7 +5063,7 @@ Este delito se sancionará con una pena de cuatro a siete años de prisión, y s
 
 Las penas previstas en este artículo se aplicarán independientemente de las que correspondan por la comisión de cualquier otro delito.
 
-### CAPÍTULO II. Dolo en la Emisión del Voto
+### CAPÍTULO I. Prevenciones Generales
 
 ###### ARTÍCULO 346.
 
@@ -5041,7 +5077,7 @@ También comete el delito a que se refiere este capítulo quien en negocio estab
 
 En caso de reincidencia, o que además del incumplimiento a las normas de que se trata se haya incurrido en otro ilícito, con independencia de las penas o sanciones que correspondan se decretará la cancelación definitiva de la licencia o permiso y, en su caso, el decomiso de los bienes respectivos.
 
-### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
+### CAPÍTULO II. Dolo en la Emisión del Voto
 
 ###### ARTÍCULO 348.
 
@@ -5081,7 +5117,7 @@ Este delito se sancionará con una pena de tres a cinco años de prisión, y san
 
 DELITOS CONTRA LA SEGURIDAD DE LAS VÍAS DE COMUNICACIÓN; MEDIOS DE TRANSPORTE; LA PRESTACION DEL SERVICIO DE TRANSPORTE PÚBLICO DE PASAJEROS; VIOLACIÓN DE CORRESPONDENCIA; Y LA SEGURIDAD VIAL
 
-### CAPÍTULO IV. Violaciones al Proceso Electoral
+### CAPÍTULO III. Interferencia en el Desarrollo del Proceso Electoral
 
 ###### ARTÍCULO 351.
 
@@ -5123,7 +5159,7 @@ A quien destruya, inutilice, quite o cambie un dispositivo o señal de seguridad
 
 A quien entorpezca, paralice o deje de prestar un servicio público de transporte, se le impondrá una sanción de dos a ocho años de prisión y sanción pecuniaria de doscientos a ochocientos días del valor de la unidad de medida y actualización.
 
-### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
+### CAPÍTULO IV. Violaciones al Proceso Electoral
 
 ###### ARTÍCULO 357.
 
@@ -5155,9 +5191,9 @@ En caso de reincidencia de alguno de los delitos a que se refieren los artículo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE OCTUBRE DE 2016)</small>
 
-### CAPÍTULO VI. Inducción Ilícita a Electores
+### CAPÍTULO V. Violaciones Electorales Cometidas por Servidores Públicos
 
-### CAPÍTULO VII. No Desempeño del Cargo
+### CAPÍTULO VI. Inducción Ilícita a Electores
 
 ###### ARTÍCULO 361.
 
@@ -5185,13 +5221,13 @@ El delito de violación de correspondencia sólo se perseguirá por querella nec
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2023)</small>
 
-### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
+### CAPÍTULO VII. No Desempeño del Cargo
 
 ## TÍTULO DECIMO NOVENO. DELITOS CONTRA EL CORRECTO FUNCIONAMIENTO DEL SISTEMA ELECTORAL
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2023)</small>
 
-### CAPÍTULO IX. Violencia Política contra las Mujeres en Razón de Género
+### CAPÍTULO VIII. Inducción al Voto por Ministros de Culto Religioso
 
 ###### ARTÍCULO 365.
 
@@ -5210,6 +5246,8 @@ El delito de violación de correspondencia sólo se perseguirá por querella nec
 (DEROGADO, P.O. 27 DE FEBRERO DE 2023)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE FEBRERO DE 2023)</small>
+
+### CAPÍTULO IX. Violencia Política contra las Mujeres en Razón de Género
 
 ###### ARTÍCULO 369.
 
@@ -6064,3 +6102,9 @@ P.O. 22 DE MAYO DE 2025.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0207.- QUE REFORMA EL ARTÍCULO 343 Y ADICIONA EL ARTÍCULO 293, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
