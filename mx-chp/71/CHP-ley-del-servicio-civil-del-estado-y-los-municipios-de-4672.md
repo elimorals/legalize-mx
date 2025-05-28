@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-servicio-civil-del-estado-y-los-municipios-de-4672"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-01"
-last_updated: "2024-12-05"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 1 de mayo de 1992.
 
@@ -411,11 +411,13 @@ LAS MUJERES TRABAJADORAS GOZARAN DE LICENCIA DE MATERNIDAD REMUNERADA DE SESENTA
 
 EN EL CASO DE ADOPCION DE UN MENOR DE EDAD QUE SEA MAYOR A SEIS MESES DE EDAD, LAS MADRES ADOPTANTES GOZARAN DE UN PERIODO DE TREINTA DIAS NATURALES CON EL PAGO DE SALARIO INTEGRO, A PARTIR DEL MOMENTO EN QUE SE LES OTORGUE LA PATRIA POTESTAD DEL MENOR, A FIN DE GARANTIZAR SU INTEGRACION FAMILIAR Y SOCIAL.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 31.
 
-LA LICENCIA DE MATERNIDAD SE CONCEDE INDEPENDIENTEMENTE DE LAS VACACIONES ESTABLECIDAS O DEMAS DIAS DE DESCANSO OBLIGATORIO QUE SE ESTIPULEN EN LA LEY. SI EL CORRESPONDIENTE PERIODO VACACIONAL COINCIDE O QUEDA COMPRENDIDO DENTRO DE ESTE PERIODO, DICHO PERIODO EMPEZARA A CORRER AL DIA SIGUIENTE DE LA FECHA EN QUE SE CONCLUYA LA LICENCIA RESPECTIVA.
+LA LICENCIA DE MATERNIDAD SE CONCEDE INDEPENDIENTEMENTE DE LAS VACACIONES ESTABLECIDAS O DEMAS DIAS DE DESCANSO OBLIGATORIO QUE ESTIPULE LA LEY. SI EL CORRESPONDIENTE PERIODO VACACIONAL COINCIDE O QUEDA COMPRENDIDO DENTRO DE LA LICENCIA DE MATERNIDAD, DICHO PERIODO COMENZARA A CONTAR A PARTIR DEL DIA SIGUIENTE A LA CONCLUSION DE LA LICENCIA RESPECTIVA.
+
+SE OTORGARA UNA LICENCIA POR DUELO EN CASO DE MUERTE GESTACIONAL, PERINATAL O NEONATAL POR UN PLAZO MINIMO DE CINCO DIAS LABORABLES CON GOCE DE SUELDO, INDEPENDIENTEMENTE DEL TIEMPO DE SERVICIO, A LOS PADRES Y MADRES TRABAJADORAS A QUIENES SE REFIERE ESTA LEY.
 
 > <small>(ADICIONADO, P.O. 20 DE MAYO DE 2020)</small>
 
@@ -2280,3 +2282,17 @@ P.O. 5 DE DICIEMBRE DE 2024.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 257 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE CHIAPAS Y A LA LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- En un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente decreto, las autoridades de salud deberán desarrollar programas en materia de muerte gestacional, perinatal y neonatal, así como los protocolos necesarios para que los bancos de leche puedan recibir leche humana de mujeres en período de lactancia que tengan excedente, incluyendo aquellas que hayan experimentado pérdida gestacional, perinatal o neonatal.
+
+Artículo Cuarto.- Dentro de los 180 días naturales posteriores a la entrada en vigor del presente decreto, la Secretaría de Salud del Estado de Chiapas coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar acciones en materia de atención a la muerte gestacional, perinatal y neonatal.
+
+Artículo Quinto.- Las erogaciones derivadas de la entrada en vigor del presente decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables, dentro del ejercicio fiscal vigente y los subsecuentes.
