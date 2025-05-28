@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2024-12-31"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -833,17 +833,25 @@ Artículo 55 B.- Las mujeres embarazadas, por concepto de maternidad, disfrutar�
 
 En caso de maternidad por adopción, con fines de adaptación con su menor hijo, la madre gozará de una licencia de cuarenta y cinco días naturales.
 
-En todo caso, la madre conservará el pago salarial integro, su empleo, cargo o comisión y, en general, no podrán ser suspendidos o disminuidos sus derechos de trabajo y seguridad social.
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
 
-La violación a estas disposiciones, será considerada como despido injustificado.
+En caso de muerte fetal o perinatal contarán con un periodo de cuarenta días naturales contados a partir de la fecha de expedición del certificado médico de incapacidad, independientemente del momento en la gestación en el que se produzca.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
+En todo caso; la madre conservará el pago salarial integro, su empleo, cargo o comisión y, en general, no podrán ser suspendidos o disminuidos sus derechos de trabajo y seguridad social.
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
+La violación a estas disposiciones será considerada como despido injustificado.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2008)</small>
 
 Artículo 55 C.- Las madres, durante los seis meses siguientes al vencimiento de la incapacidad, para alimentar a sus hijos, disfrutarán de un descanso extraordinario de una hora.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
 
-Artículo 55 D.- Los cónyuges o concubinarios, por concepto de paternidad y con el propósito de ayudar a la madre en las tareas posteriores al parto o adopción, disfrutarán de un período de quince días hábiles con goce de salario íntegro; al efecto, el área de recursos humanos de la entidad en que preste sus servicios, reglamentará las medidas de comprobación, vigilancia y control necesarias para el cumplimiento del fin.
+Artículo 55 D.- Los cónyuges o concubinarios, por concepto de paternidad y con el propósito de ayudar a la madre en las tareas posteriores al parto, adopción, o en caso de muerte fetal o perinatal de sus hijos o hijas, disfrutarán de un período de quince días hábiles con goce de salario íntegro; al efecto, el área de recursos humanos de la entidad en que preste sus servicios, reglamentará las medidas de comprobación, vigilancia y control necesarias para el cumplimiento del fin.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
 
@@ -1898,3 +1906,11 @@ CUARTA. La Secretaría de Hacienda expedirá a más tardar el día 30 de enero d
 Los municipios deberán informar a la Secretaría de Hacienda del Poder Ejecutivo a más tardar el 15 de enero de 2025, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma en la Ley de Coordinación Hacendaria del Estado de Morelos.
 
 QUINTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS VEINTITRÉS.- REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión Oficial del Estado de Morelos.
