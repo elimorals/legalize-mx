@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2025-03-24"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -51,6 +51,10 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 
 El Estado y los Municipios que lo integran, expedirán o modificarán en su caso las normas legales y reglamentarias correspondientes en el ámbito de sus respectivas competencias, asimismo se tomarán las medidas presupuestales y administrativas pertinentes para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales vigentes en el país en materia de derechos humanos de las mujeres, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Constitución Política del Estado Libre y Soberano de Nuevo León y esta Ley.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+El Estado deberá contar con fiscalías especializadas para atender los delitos contra las mujeres y Centros de Justicia para las Mujeres.
+
 ###### Artículo 3.
 
 Todas las medidas que se deriven de la presente Ley garantizarán la prevención, atención, sanción y erradicación de todos los tipos de violencia contra las mujeres, para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
@@ -59,11 +63,49 @@ Todas las medidas que se deriven de la presente Ley garantizarán la prevención
 
 Tomando en cuenta los aspectos de no discriminación y libertad de las mujeres, los principios rectores para el acceso de todas las mujeres a una vida libre de violencia, que deberán ser observados en la elaboración y ejecución de las políticas públicas en el Estado y los Municipios, son:
 
-I. La promoción para el desarrollo integral de las mujeres.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-II. La igualdad jurídica entre los hombres y las mujeres; y
+I. La promoción para el desarrollo integral de las mujeres;
 
-III. El respeto a la dignidad humana de las mujeres.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+II. La igualdad jurídica, sustantiva, de resultados y estructural;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+III. El respeto a la dignidad humana de las mujeres;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+IV. La no discriminación;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+V. La libertad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+VI. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+VII. La perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+VIII. La debida diligencia;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+IX. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+X. La interculturalidad; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XI. El enfoque diferencial.
 
 ###### Artículo 5.
 
@@ -139,13 +181,25 @@ XIX. Alerta de Violencia de Género contra las Mujeres: conjunto de acciones gub
 
 XX. Relación de noviazgo: Vinculación afectiva entre dos personas que se sienten atraídas mutuamente; que pueden tener o no la intención de contraer matrimonio pero que por mutuo acuerdo conviven de manera consuetudinaria, teniendo la oportunidad de conocerse y compartir experiencias de vida;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XXI. Tecnologías de la información y la comunicación: son aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos; y
+XXI. Tecnologías de la información y la comunicación: son aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XXII. Contexto de violencia: La exposición a una constante y sistemática violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular, roles o estereotipos socialmente atribuidos o por asumir públicamente su orientación sexual, o por cualquier otro motivo de discriminación.
+XXII. Contexto de violencia: La exposición a una constante y sistemática violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular, roles o estereotipos socialmente atribuidos o por asumir públicamente su orientación sexual, o por cualquier otro motivo de discriminación;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXIV. Protocolo de Acompañamiento: Es un documento el cual contiene los pasos a seguir tendientes a orientar y asesorar de manera inmediata a las mujeres (sic) viven actos de violencia, garantizando su atención y acceso a la justicia en forma expedita y plena, en condiciones de igualdad y con Perspectiva de Género, será parte del Sistema para el Desarrollo Integral de la Familia del Estado y en coordinación con las dependencias estatales, municipales, y de los organismos descentralizados, así como de la Secretaría de Educación Estatal darán la difusión correspondiente; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXV. Centros de Justicia para las Mujeres: Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento.
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -159,15 +213,17 @@ I. Psicológica: el proveniente del acto u omisión que trascienda a la integrid
 
 II. Física: El acto que causa daño corporal no accidental a la mujer, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas, o ambas, en base al dictamen emitido por los especialistas en la materia;
 
-III. Sexual: El acto que degrada o daña la sexualidad de la víctima; atentando contra su libertad, dignidad e integridad física configurando una expresión de abuso de poder que presupone la supremacía del agresor sobre la mujer, denigrándola y considerándola como de menor valía o como objeto; en base al dictamen emitido por los especialistas en la materia;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+III. Sexual: Es cualquier acto que degrada o daña la sexualidad de la víctima; atentando contra su libertad, dignidad e integridad física, que constituya una supremacía del agresor al denigrarla y concebirla como objeto;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 IV. Patrimonial: La acción u omisión que dañe intencionalmente el patrimonio de la mujer o afecte la supervivencia de la víctima; puede consistir en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar daños a bienes individuales y comunes;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-V. Violencia Económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, o la percepción de un salario menor por igual trabajo en un mismo centro laboral;
+V. Violencia Económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, o la percepción de un salario menor por igual trabajo en un mismo centro laboral; así como la omisión total o parcial en el pago de la pensión. Desentendiéndose de sus obligaciones de cuidado respecto a las personas dependientes;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
 
@@ -271,11 +327,11 @@ i) No realizar las gestiones necesarias para que las mujeres que hubieren sufrid
 
 j) Todas aquellas previstas por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-> <small>(REFORMADA, 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-IX. Violencia mediática: Todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta, promueva estereotipos sexistas; haga apología de la violencia contra las mujeres y las niñas; produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que Compilación Legislativa del Estado de Nuevo León Secretaría General de Gobierno Subsecretaría de Asuntos Jurídicos y Atención Ciudadana Coordinación General de Asuntos Jurídicos Página 14 de 99 (sic) cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+IX. Violencia mediática: Todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta, promueva estereotipos sexistas; haga apología de la violencia contra las mujeres y las niñas; produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
 
-La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad;
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -371,7 +427,25 @@ Son formas de acoso sexual: el acoso expresivo, verbal, físico, las persecucion
 
 El Estado garantizará:
 
-I. La prevención a través de programas para modificar los patrones socioculturales de conducta, de hombres y mujeres, incluyendo el diseño de programas de educación formales y no formales apropiados a todo nivel del proceso educativo que contrarresten prejuicios, costumbres y todo (sic) otro tipo de prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para el hombre y la mujer que legitiman o exacerban la violencia sexual contra la mujer.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+I. La prevención a través de programas para modificar los patrones socioculturales de conducta, de hombres y mujeres, incluyendo el diseño de programas de educación;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+III. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+IV. El establecimiento de un banco de datos sobre las órdenes de protección y de personas sujetas a ellas, para realizar las acciones de política; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+V. El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos libre de todo tipo de violencia contra las mujeres.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -476,6 +550,10 @@ Para efectos de la violencia institucional todas las instancias del Estado y los
 I. El acceso a la justicia de las víctimas de violencia institucional; y
 
 II. El debido proceso para la determinación de la responsabilidad de las personas que hayan ejercido violencia institucional en los ámbitos de competencia involucrados.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Artículo 16 Bis I. Todas las dependencias e instituciones gubernamentales, así como las escuelas de todos los niveles educativos, deberán exhibir en lugares visibles de todas las áreas laborales, un violentómetro, donde se ejemplifiquen todo tipo de violencias en contra de las mujeres.
 
 ###### Artículo 17.
 
@@ -653,13 +731,19 @@ Cuando una mujer o una niña víctima de violencia soliciten una orden de protec
 
 En caso de tratarse de mujeres y niñas indígenas o con alguna discapacidad, la información proporcionada deberá ser en su idioma, mediante un formato pertinente y culturalmente adecuado.
 
-La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud. Queda prohibido hacer comentarios lesivos con prejuicios que insinúen la descalificación de los dichos de las personas denunciantes, así como insinuaciones o interrogatorios ofensivos respecto de la vida privada de la víctima.
 
 La autoridad que dicte la orden de protección deberá realizar una valoración del riesgo. Asimismo, proporcionará información a la mujer o niña para que, si así lo desea, acuda a una valoración médica o psicológica.
 
 Las autoridades competentes que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
 
 Las personas mayores de doce años de edad, podrán solicitar, a las autoridades competentes que los representen en sus peticiones y acciones, a efecto de que las autoridades correspondientes puedan de oficio dar el otorgamiento de las órdenes; quienes sean menores de doce años sólo podrán solicitar las órdenes a través de sus representantes legales.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+El desacato o incumplimiento de las disposiciones de este artículo, será causa de responsabilidad administrativa y se sancionará conforme a la Ley de Responsabilidades Administrativas del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -809,9 +893,13 @@ XX. Brindar a la persona agresora el servicio reeducativo, mismo que será integ
 
 XXI. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XXI Bis. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 6 fracción X de la presente Ley, y
+XXI Bis. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraidos, retenidos u ocultados de la madre, en términos de lo establecido en el artículo 6 fracción X de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXI Bis I. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora;
 
 XXII. Prohibición a la persona agresora de enajenar, prendar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal y, en cualquier caso, cuando se trate de bienes de sociedad conyugal, bajo el esquema del aseguramiento de bienes dando vista al Registro Público de la Propiedad y del Comercio en cada caso;
 
@@ -851,9 +939,13 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 
 XII. Brindar a la persona agresora el servicio reeducativo, mismo que será integral, especializado, gratuito y con perspectiva de género, con el objeto de evitar la reincidencia de la persona;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XIII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza; y
+XIII. La prohibición a la persona agresora de salir sin autorización judicial del país del ámbito territorial que fije el juez o la jueza;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XIII Bis. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -1013,13 +1105,17 @@ XI. El Instituto Estatal de la Juventud;
 
 XI Bis. Consejo para la Cultura y las Artes de Nuevo León;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XII. La Dependencia, Organismo Descentralizado o Unidad Administrativa cuyo objetivo sea la promoción del desarrollo integral de las mujeres por cada uno de los Municipios del Estado, que cuenten con éstos; y
+XII. La Dependencia, Organismo Descentralizado o Unidad Administrativa cuyo objetivo sea la promoción del desarrollo integral de las mujeres por cada uno de los Municipios del Estado, que cuenten con éstos;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
 
-XIII. Dos representantes de la sociedad civil con experiencia en la materia regulada por la presente ley, designados por el Ejecutivo a propuesta del Instituto.
+XIII. Instituto de Movilidad y Accesibilidad de Nuevo León; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XIV. Dos representantes de la sociedad civil con experiencia en la materia regulada por la presente ley, designados por el Ejecutivo a propuesta del Instituto.
 
 Los integrantes del Sistema tendrán voz y voto y podrán ser representados en sus ausencias por un suplente que designen para este efecto.
 
@@ -1075,13 +1171,21 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres en el ma
 
 XIII. Diseñar un modelo integral de atención a los derechos humanos y de ciudadanía de las mujeres, mismos que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones u organizaciones que ofrezcan el servicio reeducativo; y
+XIV. Diseñar y actualizar las bases que deberán instrumentar las instituciones u organizaciones que ofrezcan el servicio reeducativo;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XV. Promover campañas de capacitación laboral, con el fin de facilitar la inserción en el trabajo a mujeres víctimas de violencia. Además deberán priorizar que estos centros laborales se encuentren ubicados de forma accesible o cerca de sus domicilios.
+XV. Promover campañas de capacitación laboral, con el fin de facilitar la inserción en el trabajo a mujeres víctimas de violencia. Además deberán priorizar que estos centros laborales se encuentren ubicados de forma accesible o cerca de sus domicilios;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVI. Crear un plan de evaluación y certificación con la finalidad de reforzar y garantizar las competencias del personal de las instituciones de impartición de justicia, así como de las personas servidoras públicas encargadas de las políticas de prevención, sanción y eliminación de la violencia contra las mujeres; y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVII. Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos.
 
 ###### Artículo 29.
 
@@ -1165,13 +1269,25 @@ XXVII. Impulsar programas que promuevan la igualdad salarial entre mujeres y hom
 
 XXVII Bis. Las actuaciones y diligencias relacionadas con delitos en materia de violencia de género, realizadas por las autoridades, deberán atender al análisis de contexto de violencia del entorno de las víctimas y de perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XXVIII. Coordinar y promover, en conjunto con el Sistema de Radio y Televisión de Nuevo León, espacios destinados a la difusión de servicio social a la comunidad, en materia de los protocolos y/o alertas especializados (sic) en casos de búsqueda inmediata de personas con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas; y
+XXVIII. Coordinar y promover, en conjunto con el Sistema de Radio y Televisión de Nuevo León, espacios destinados a la difusión de servicio social a la comunidad, en materia de los protocolos y/o alertas especializados (sic) en casos de búsqueda inmediata de personas con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
 
-XXIX. Las demás aplicables a la materia, que le concedan las leyes u otros ordenamientos jurídicos.
+XXIX. Promover políticas públicas de prevención que garanticen espacios y transporte publico seguro, libres de todo tipo de violencia contra las mujeres y las niñas;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXX. Fomento a la inversión y desarrollo de infraestructura urbana para el fortalecimiento del transporte público con el fin de garantizar la movilidad segura de las mujeres y las niñas, basado en un sistema de planeación y gestión con enfoque de género;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXXI. Diseñar y actualizar el Modelo de Gestión Operativa de los Centros de Justicia para las Mujeres, así como los protocolos de atención especializados, desde las perspectivas de género, derechos humanos, interseccional, diferencial e intercultural; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XXXII. Las demás aplicables a la materia, que le concedan las leyes u otros ordenamientos jurídicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -1203,13 +1319,33 @@ X. Difundir a través de los diversos medios, los resultados del Sistema y del P
 
 XI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XII. Establecer las bases, acciones y medidas que se deberán llevar a cabo para el diseño, creación, implementación, evaluación y mejora del servicio reeducativo; y
+XII. Establecer las bases, acciones y medidas que se deberán llevar a cabo para el diseño, creación, implementación, evaluación y mejora del servicio reeducativo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
 
-XIII. Las demás previstas para el cumplimento de la presente Ley.
+XIII. Diseño e implementación de programas permanentes de sensibilización, capacitación y profesionalización del funcionariado público, policías y personas operadoras de transporte público, en prevención de la violencia de género, el acoso y hostigamiento sexual;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XIV. Remitir y coordinar la información para el Banco Nacional de Datos e Información de Casos de Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XV. Diseñar y actualizar el Modelo de Gestión Operativa de los Centros de Justicia para las Mujeres, así como los protocolos de atención especializados, desde las perspectivas de género, derechos humanos, interseccional, diferencial e intercultural;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVI. Promover y coordinar con los Municipios del Estado la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, así como las acciones encaminadas al seguimiento y evaluación de los mismos;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVII. Impulsar la creación y equipamiento de los Centros de Justicia para las Mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XVIII. Las demás previstas para el cumplimento de la presente Ley.
 
 ###### Artículo 33.
 
@@ -1253,11 +1389,17 @@ XVIII. Diseñar las campañas de prevención de la violencia contra las mujeres;
 
 XIX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XX. Administrar y operar el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres; y
+XX. Administrar y operar el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
 
-XXI. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XXI. Proporcionar la información, programas, ubicación de los Centros de Justicia, así como realizar campañas de información concernientes a la atención inmediata de las mujeres en casos de violencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XXII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 34.
 
@@ -1283,9 +1425,9 @@ VII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-I. Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la recopilación adecuada de pruebas en casos de hechos que puedan constituirse como delitos.
+I. Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos de las mujeres, tipos de violencia contra las mujeres, delitos que se cometen por razones de género, protocolos de actuación y atención a mujeres víctimas de violencia, perfiles y patrones de conducta de víctimas y victimarios, así como de lineamientos para la recopilación adecuada de pruebas en casos de hechos que puedan constituirse como delitos, desde las perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
@@ -1305,13 +1447,25 @@ VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y accion
 
 VIII. Integrar y proporcionar de manera periódica la información completa y oportuna para el Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia contra las Mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
 
-X. Las demás previstas para el cumplimiento de la presente Ley.
+X. Coadyuvar con la difusión de los datos de los reportes de mujeres que sean reportadas como desaparecidas;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XI. Aplicar, en su caso, los ajustes razonables a los procedimientos para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XII. Proponer al Consejo Nacional y Estatal de Seguridad Pública que los Centros de Justicia para las Mujeres sean considerados como Ejes Estratégicos, Programas y Subprogramas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XIII. Las demás previstas para el cumplimiento de la presente ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -1411,9 +1565,17 @@ XII. Establecer, utilizar, supervisar y mantener todos los instrumentos y accion
 
 XIII. Participar en el diseño, con una visión transversal, de la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XV. Las demás previstas para el cumplimiento de la presente Ley.
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XV. Promover el derecho de las mujeres, a una vida libre de violencias y con perspectiva de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 38.
 
@@ -1517,13 +1679,17 @@ III. Proporcionar de manera periódica la información completa y oportuna para 
 
 IV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en esta ley; y
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres víctimas de este tipo de violencia, en los términos señalados en esta ley;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
 
-VI. Las demás previstas para el cumplimiento de la presente Ley.
+VI. Vigilar los mecanismos que se implementen al interior de los centros de trabajo para prevenir, atender, sancionar y erradicar el acoso laboral, así como el acoso y hostigamiento de carácter sexual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+VII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 41.
 
@@ -1541,9 +1707,9 @@ V. Impulsar la formación de promotoras y promotores comunitarios para la ejecuc
 
 VI. Celebrar convenios de cooperación, coordinación y concertación en la materia,
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-VII. Impulsar procesos de capacitación sobre la violencia contra las mujeres y nuevas masculinidades para sus servidoras y servidores públicos; y
+VII. Elaborar, coordinar y aplicar el Protocolo de Acompañamiento, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal; y
 
 VIII. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -1649,13 +1815,21 @@ XII. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XIII. Impulsar y apoyar la creación de micrositios o vínculos de enlace en sus portales oficiales de internet y redes sociales oficiales, relativos a los protocolos y/o alertas especializadas en casos de búsqueda de personas con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XIV. Procurar en la reglamentación municipal en materia de anuncios, espacios de servicio social a la comunidad, para la colocación de publicidad, sea fija o semifija, móvil o pantallas electrónicas, que difunda la información relativa a los protocolos y/o alertas especializadas en casos de búsqueda inmediata de personas, con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas; y
+XIV. Procurar en la reglamentación municipal en materia de anuncios, espacios de servicio social a la comunidad, para la colocación de publicidad, sea fija o semifija, móvil o pantallas electrónicas, que difunda la información relativa a los protocolos y/o alertas especializadas en casos de búsqueda inmediata de personas, con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
 
-XV. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos jurídicos.
+XV. Procurar una perspectiva de género en todo el ciclo presupuestario;
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVI. Promover espacios y transportes públicos, libres de todo tipo de violencia contra las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XVII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
 
@@ -1668,6 +1842,14 @@ I. Promover la cultura de la no violencia en el marco del ejercicio de los derec
 II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
 
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Artículo 43 Bis I. Corresponde al Instituto de Movilidad y Accesibilidad:
+
+I. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia, acoso u hostigamiento sexual en el Transporte Público; y
+
+II. Elaborar y ejecutar en coordinación con el Instituto Estatal de las Mujeres, protocolos de acción, prevención y detección de violencia, acoso u hostigamiento sexual contra las mujeres en el transporte público.
 
 ### CAPÍTULO VIII. DE LA ATENCIÓN A LAS VÍCTIMAS
 
@@ -1717,11 +1899,17 @@ VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácti
 
 VIII. En los casos de violencia familiar o violencia vicaria o a través de interpósita persona, acudir a los refugios con sus hijas e hijos, o bien con las niñas, niños, adolescentes, personas con discapacidad, adultos mayores y personas con incapacidad jurídica legal y/o natural, que habiten con ellas en el mismo domicilio;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor, y
+IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor;
 
-X. Los demás señalados en esta Ley y otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+X. Acceder a los refugios y los Centros de Justicia para las Mujeres, mismos que deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XI. Los demás señalados en esta Ley y otras disposiciones legales.
 
 ###### Artículo 46.
 
@@ -1767,15 +1955,21 @@ IV. Dar información en formatos accesibles a las víctimas sobre las institucio
 
 V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
 
-> <small>(REFORMADA, P.O. 15 JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-VI. Permitir la permanencia de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, debiendo también proporcionarles a ellas y ellos la atención necesaria para su recuperación física y psicológica.
+VI. Permitir la permanencia de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, debiendo también proporcionarles a ellas y ellos la atención necesaria para su recuperación física y psicológica;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-VII. Contar con el personal debidamente capacitado y especializado en perspectiva de género, derechos humanos, con enfoque diferenciado, interculturalidad e interseccionalidad; y
+VII. Contar con el personal debidamente capacitado y especializado en perspectiva de género, derechos humanos, con enfoque diferenciado, interculturalidad e interseccionalidad;
 
-VIII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+VIII. Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones de accesibilidad necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación, incluyendo la posibilidad de contar con asistencia de personal de apoyo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+IX. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
 
 ###### Artículo 51.
 
@@ -2320,3 +2514,11 @@ P.O. 24 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 084. SE REFORMAN LAS FRACCIONES XIX Y XX DEL ARTÍCULO 5, ARTÍCULO 6, ARTÍCULO 8, ARTÍCULO 13, PRIMER PÁRRAFO DEL ARTÍCULO 15, TERCER PÁRRAFO DEL ARTÍCULO 18, LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 28, LAS FRACCIONES V Y VI DEL ARTÍCULO 44, LAS FRACCIONES IV Y VII DEL ARTÍCULO 50; Y SE ADICIONAN LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 5, UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 15, UN ARTÍCULO 24 BIS 14, UNA FRACCIÓN XV DEL ARTÍCULO 28, LAS FRACCIONES XIX BIS Y XXVII BIS DEL ARTÍCULO 31 Y LA FRACCIÓN VII DEL ARTÍCULO 44 TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 106 SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; Y SE REFORMAN LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo, las dependencias estatales y los Municipios del Estado, sujetos al presente decreto, expedirán o, en su caso, adecuarán sus reglamentos correspondientes en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
