@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2024-07-24"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. EL PRESENTE DECRETO NÚMERO 1967 PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2025, ES LA CONFIRMACIÓN CON LA ADECUACIÓN A LA VIGENCIA DE LA DISPOSICIÓN TERCERA TRANSITORIA DEL ANTERIOR DECRETO NÚMERO 1967 PUBLICADO EL 24 DE JULIO DE 2024.]</small>
+
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -383,7 +385,7 @@ VI.- Instalar, administrar y operar los Módulos de Atención en Salud Mental;
 
 VII.- Instalar y administrar el Sistema de Información, Vigilancia y Evaluación en Salud Mental;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MAYO DE 2025)</small>
 
 VIII.- Instalar, administrar y operar la línea telefónica de Salud Mental y la página electrónica para brindar orientación y canalización, a los servicios de atención mental, en su caso, con la colaboración de profesionales de la psicología, psiquiatría y trabajo social, actualizados de forma continua por instituciones educativas acordes al perfil profesional, así como por colegios o asociaciones profesionales que manifiesten su interés de participar en estos servicios;
 
@@ -1150,5 +1152,17 @@ PRIMERA.- Remítase el presente Decreto, al titular del Poder Ejecutivo del Esta
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Entrado en vigor el presente Decreto, el Titular del Poder Ejecutivo incluirá la partida correspondiente para su cumplimiento en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de dos mil veinticuatro y en los años subsecuentes.
+
+CUARTA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y SIETE POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 12 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto, a la titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, ambos en la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor a los treinta días posteriores al de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Entrado en vigor el presente Decreto, el Titular del Poder Ejecutivo incluirá la partida correspondiente para su cumplimiento en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de dos mil veinticinco y en los años subsecuentes.
 
 CUARTA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
