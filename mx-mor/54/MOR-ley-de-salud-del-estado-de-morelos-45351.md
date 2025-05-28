@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2024-09-04"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -761,9 +761,11 @@ Los profesionales a que se refiere el presente artículo deberán contar con cé
 
 ### CAPÍTULO II. ATENCIÓN MÉDICA
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
 ###### Artículo 40.
 
-Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restablecer su salud.
+Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restablecer su salud, así como aliviar el dolor y mejorar su calidad de vida.
 
 ###### Artículo 41.
 
@@ -771,9 +773,17 @@ Las actividades de atención médica son:
 
 I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-III.- De habilitación y rehabilitación, que incluyen acciones tendientes a corregir la discapacidad física y mental.
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+III.- De habilitación y rehabilitación, que incluyen acciones tendientes a corregir la discapacidad física y mental, y
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del usuario, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales, por parte de un equipo multidisciplinario.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
@@ -792,6 +802,12 @@ En todo caso, el cumplimiento total del Acto Médico relevará de responsabilida
 Todos los procesos del acto médico se sujetan a las disposiciones de la presente Ley, los reglamentos y normas vigentes aplicables y, en lo relativo a la práctica médica, se sujetan a la Lex Artis Ad Hoc de la medicina cuya observancia es obligatoria con las salvedades establecidas en la propia Ley para el desarrollo de innovaciones terapéuticas, las de consentimiento de las partes y del estado de necesidad establecidas como excluyentes de responsabilidad.
 
 En las controversias de la relación médico paciente, las autoridades del orden administrativo, de arbitraje médico, de procuración y administración de justicia deberán observar lo dispuesto por las leyes y reglamentos que correspondan, las normas oficiales vigentes y la Lex Artis Ad Hoc de la medicina para normar criterio y resolver conforme a derecho.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+###### Artículo 41 Quáter.
+
+Las dependencias y entidades del sector salud públicas o privadas en el Estado promoverán y apoyarán la formación de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades, accidentes, rehabilitación y cuidados paliativos.
 
 ### CAPÍTULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -1321,9 +1337,9 @@ IX. A designar a una persona de su confianza para que le acompañe y represente 
 
 La atención materno-infantil, tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-I. La atención integral y libre de violencia obstétrica, de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+I. La atención integral y libre de violencia obstétrica, de la mujer durante el embarazo, el parto y el puerperio, y en los casos en los que haya muerte fetal o perinatal, se deberá incluir la atención psicológica que requiera;
 
 II. La atención del menor y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y, en su caso, atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
@@ -1376,6 +1392,10 @@ I. Los programas para padres destinados a promover la atención materno-infantil
 II. Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes; y,
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+IV. Programas para abordar con sentido ético, respetuoso y humanitario, la muerte fetal y perinatal.
 
 > <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 21 DE JUNIO DE 2023)</small>
 
@@ -5058,3 +5078,19 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS VEINTIDÓS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto, a la Titular del Poder Ejecutivo, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS VEINTITRÉS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión Oficial del Estado de Morelos.
