@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-al-parto-humanizado-y-a-la-maternidad-139174"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-20"
-last_updated: "2025-04-14"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN AL PARTO HUMANIZADO Y A LA MATERNIDAD DIGNA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en la Sección Segunda al Número 143 del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de Noviembre de 2019.
 
@@ -245,9 +245,9 @@ V.- Al acceso y continuidad en la educación, por lo que no podrá restringirse 
 
 VI.- A contar con asesoría legal por cualquier acto de discriminación, vejación y vulneración de sus derechos como mujer embarazada. En los casos que se considere necesario, gozará de los servicios de defensoría pública a través del Gobierno del Estado, para interponer los recursos, juicios o medios legales de defensa necesarios para proteger o reivindicar sus derechos; y
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-VII.- Recibir apoyo psicológico o psiquiátrico durante el embarazo y después del parto que incluya atención psicológica perinatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado y la Secretaría de Salud del Estado, por el tiempo que el especialista señale. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad.
+VII.- Recibir apoyo psicológico o psiquiátrico durante el embarazo, después del parto y en el supuesto en el que sufra un evento de muerte gestacional o neonatal, a través del Sistema para el Desarrollo Integral de la Familia del Estado y la Secretaria de Salud del Estado, por el tiempo que el especialista señale. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad.
 
 ###### Artículo 16.
 
@@ -309,7 +309,13 @@ XI.- A recibir asesoría, acompañamiento y atención médica para que, encontr�
 
 XII.- A recibir atención psicológica y en su caso psiquiátrica por parte de la Secretaría de Salud, cuando se haya optado por la interrupción legal del embarazo;
 
-XIII.- A ser informada sobre el sistema de orientación y quejas disponible para inconformarse por la prestación de los servicios de salud.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XIII.- A que se les realice una valoración de riesgo de problemas de salud mental durante el embarazo, con la finalidad de prevenir y en su caso, atender estas condiciones y sus trastornos conexos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+XIV.- A ser informada sobre el sistema de orientación y quejas disponible para inconformarse por la prestación de los servicios de salud.
 
 ###### Artículo 22.
 
@@ -374,6 +380,20 @@ En los casos en los que el parto haya sido en casa o se haya presentado de maner
 XI.- La persona recién nacida tendrá derecho a las pruebas de escrutinio de tamizaje neonatal los primeros 5 días después del nacimiento;
 
 XII.- A dar en adopción al recién nacido, en términos de las disposiciones aplicables en materia civil, para lo cual recibirá asesoría psicológica a través del Sistema para el Desarrollo Integral de la Familia del Estado y atención psiquiátrica a través de la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE MAYO DE 2025)</small>
+
+#### Sección Cuarta. Después del Parto
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Artículo 23 bis.- La mujer tiene derecho hasta un año después del parto, a lo siguiente:
+
+I. Recibir orientación y vigilancia en materia de nutrición;
+
+II. Recibir atención para la prevención, detección, diagnóstico y tratamiento de cualquier trastorno mental asociado al post parto, a través de los servicios de la Secretaría de Salud y del Sistema para el Desarrollo Integral de la Familia del Estado y Municipios, así como de la Red de Atención del Sistema Estatal de Salud Mental, en términos de los artículos 40 y 41 de la Ley de Salud Mental para el Estado de Nuevo León; y
+
+III. Recibir orientación e información acerca de los diferentes métodos de planificación familiar.
 
 ### Capítulo IV. De los Derechos en relación con la Primera Infancia
 
@@ -455,15 +475,31 @@ I.- Brindar atención médica a la mujer que no cuente con ningún tipo de segur
 
 a) El embarazo, consistente en revisiones periódicas con el objetivo de verificar el desarrollo del mismo, así como el estado de salud tanto de la mujer gestante como del producto;
 
-b) El parto, brindar atención médica necesaria y atender cualquier emergencia obstétrica que se presente; y
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
 
-c) El puerperio, brindar atención médica a la madre en caso de ser necesario, así como el seguimiento al desarrollo de la persona recién nacida y la detección oportuna de enfermedades neonatales aplicando los esquemas de prevención necesarios.
+b) El parto, brindar atención médica necesaria y atender cualquier emergencia obstétrica que se presente;
+
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
+c) El puerperio, brindar atención médica a la madre en caso de ser necesario, así como el seguimiento al desarrollo de la persona recién nacida y la detección oportuna de enfermedades neonatales aplicando los esquemas de prevención necesarios; e
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+d) Implementar campañas permanentes de concientización y atención médica sobre la preeclampsia y la eclampsia, promoviendo la realización de pruebas de control prenatal desde el primer trimestre del embarazo. Asimismo, canalizar de forma inmediata a las pacientes que presenten signos de estas condiciones hacia las instituciones de salud correspondientes, para su atención adecuada y oportuna.
 
 II.- Impulsar la atención a la salud física, mental, sexual y reproductiva de las mujeres y sus parejas, garantizando el ejercicio pleno de su derecho a la salud;
 
-III.- Realizar campañas permanentes, en conjunto con la Secretaría de Educación, sobre planificación familiar voluntaria, dirigidas especialmente al grupo de adolescentes, además de dirigirlos a las dependencias correspondientes para recibir capacitación sobre el buen desarrollo e integración de la familia; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-IV.- Las demás que le confiera la presente Ley y las disposiciones legales aplicables.
+III.- Realizar campañas permanentes, en conjunto con la Secretaría de Educación, sobre los cambios anatomofisiológicos que experimenta la mujer durante y después del embarazo y sobre la planificación familiar voluntaria, dirigidas especialmente al grupo de adolescentes, además de dirigirlos a las dependencias correspondientes para recibir capacitación sobre el buen desarrollo e integración de la familia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+IV.- Diseñar, promover e impulsar campañas permanentes de sensibilización para proteger a mujeres en gestación, las cuales tengan como objetivo concientizar y prevenir sobre los riesgos asociados, especialmente destacando las medidas de protección personal ante la infección por el virus zika, chikungunya y otras enfermedades trasmitidas por vectores; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE MAYO DE 2025)</small>
+
+V.- Las demás que le confiera la presente Ley y las disposiciones legales aplicables.
 
 ###### Artículo 36.
 
@@ -553,6 +589,52 @@ El Gobierno del Estado deberá coordinarse con las organizaciones de la sociedad
 
 Para el cumplimiento a los objetivos de la presente ley, las autoridades en sus respectivos ámbitos de competencia harán uso de los recursos humanos, financieros y materiales con los que dispongan al momento de la aprobación y publicación de la misma.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MAYO DE 2025)</small>
+
+### Capítulo VIII
+
+De la Atención Integral y el Cuidado de la Salud Mental de la Mujer en casos de Duelo por Pérdida Gestacional o Perinatal.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+###### Artículo 45.
+
+La atención integral en casos de duelo por pérdida gestacional o perinatal, es aplicable a las instituciones de salud, públicas o privadas que tengan a cargo la atención materna perinatal y de salud mental.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+###### Artículo 46.
+
+Corresponde a las instituciones de salud, públicas o privadas, brindar lo siguiente:
+
+I. Atender la voluntad de la mujer gestante en lo referente a sus derechos frente al duelo perinatal en todas sus etapas;
+
+II. Brindar la atención integral del duelo por pérdida gestacional o perinatal;
+
+III. Garantizar un ambiente de protección e intimidad durante todas las fases de preparto, parto, recuperación y alojamiento hospitalario;
+
+IV. Garantizar que ninguna mujer sufra de violencia psicológica o física durante la atención hospitalaria;
+
+V. Garantizar que ninguna mujer gestante sea discriminada o limitada en sus derechos;
+
+VI. Proporcionar información veraz, comprensible, oportuna, suficiente, adecuada y basada en evidencia; y
+
+VII. Proporcionar asistencia psicosocial oportuna, durante toda la permanencia en las instituciones prestadoras de servicios de salud.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+###### Artículo 47.
+
+Las instituciones de salud, públicas o privadas, deberán:
+
+I.- Promover la realización de capacitaciones, de los servicios de atención en todos los niveles, sobre duelo por pérdida gestacional o perinatal;
+
+II.- Promover, la inclusión de contenidos sobre duelo por perdida gestacional o perinatal;
+
+III.- Promover acciones, programas, políticas y estrategias orientadas a la reducción de la tasa de mortalidad perinatal; y
+
+IV.- Efectuar el seguimiento por pérdida gestacional o perinatal.
+
 T R A N S I T O R I O S
 
 Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -608,3 +690,15 @@ P.O. 14 DE ABRIL DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal del ente ejecutor.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 104 SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 15; LA FRACCIÓN XII DEL ARTÍCULO 21; EL INCISO B) Y C) DE LA FRACCIÓN I Y LA FRACCIÓN ILL (SIC) Y IV DEL ARTÍCULO 35; Y SE ADICIONAN UNA FRACCIÓN XIV AL ARTÍCULO 21; UNA SECCIÓN CUARTA DENOMINADA “DESPUÉS DEL PARTO” AL CAPÍTULO ILL (SIC) QUE CONTIENE UN ARTÍCULO 23 BIS; UN INCISO D) A LA FRACCIÓN I, Y UNA FRACCIÓN V AL ARTÍCULO 35; UN CAPÍTULO VIII DENOMINADO “DE LA ATENCIÓN INTEGRAL Y EL CUIDADO DE LA SALUD MENTAL DE LA MUJER EN CASOS DE DUELO POR PÉRDIDA GESTACIONAL O PERINATAL” QUE CONTIENE LOS ARTÍCULOS 45, 46 Y 47, TODOS DE LA LEY DE PROTECCION AL PARTO HUMANIZADO Y A LA MATERNIDAD DIGNA DEL ESTADO DE NUEVO LEON”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia y los Municipios del Estado de Nuevo León, deberán adecuar sus reglamentos y demás disposiciones legales y administrativas correspondientes, en los términos del mismo.
+
+TERCERO.- De acuerdo a la capacidad presupuestaria del Gobierno y los Municipios del Estado, se dotará de los recursos necesarios a las dependencias de la administración pública correspondientes para el cumplimiento de las atribuciones previstas en esta Ley, debiéndose ajustar en todo momento a lo señalado en los artículos 10, 13 y 14, según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones y el uso de recursos excedentes.
+
+En todo caso, el Gobierno y los Municipios de Nuevo León, determinarán y destinarán el gasto público necesario en su Presupuesto de Egresos para el Ejercicio Fiscal inmediato siguiente a la entrada en vigor del presente Decreto, a fin de dad cumplimiento a las disposiciones de esta Ley.
