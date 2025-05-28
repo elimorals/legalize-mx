@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2025-02-14"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -489,11 +489,17 @@ El Estado de Campeche es libre y soberano en todo lo que concierne a su régimen
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
 La soberanía del Estado reside esencial y originariamente en el pueblo campechano, que la ejerce por medio del poder público que dimana del mismo pueblo y se instituye para beneficio de éste en los términos que establece esta Constitución.
 
-La renovación de los Poderes Legislativo y Ejecutivo, así como de los integrantes de Ayuntamientos y Juntas Municipales, es un derecho de los partidos políticos y de los ciudadanos, quienes podrán participar como candidatos de manera independiente; se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE MAYO DE 2025)</small>
+
+Los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo Estatal, así como sus equivalentes en los Municipios, deberán respetar el principio de paridad de género. Para tal efecto, se deberán armonizar las disposiciones, las formas y modalidades aplicables para su cumplimiento.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO], P.O. 28 DE MAYO DE 2025)</small>
+
+La renovación de los Poderes Legislativo y Ejecutivo, así como de las y los integrantes de Ayuntamientos y Juntas Municipales, es un derecho de los partidos políticos y de la ciudadanía, quienes podrán participar como personas candidatas de manera independiente; se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2021)</small>
 
@@ -1567,7 +1573,9 @@ La Ley organizará el Ministerio Público del Estado, cuyos integrantes serán l
 
 El Ministerio Público, como institución de buena fe y en su carácter de representante de los intereses de la sociedad, tendrá las siguientes atribuciones:
 
-I. Investigar y perseguir los delitos del fuero común cometidos en el territorio del Estado o que surtan sus efectos en el interior, con estricto respeto a los Derechos Humanos que precisan la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado. Esta función podrá ejercerla en coordinación con las Instituciones de Seguridad Pública, quienes actuarán bajo la conducción y mando del Ministerio Público, en términos de la Constitución Política de los Estados Unidos Mexicanos y las Leyes generales aplicables;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+I. Investigar y perseguir los delitos del fuero común cometidos en el territorio del Estado o que surtan sus efectos en el interior, también podrán conocer, otorgar y/o garantizar, las medidas u órdenes de protección derivadas de violencias de género perpetradas contra las mujeres, así como de delitos del fuero común vinculados a estas violencias, con estricto respeto a los Derechos Humanos que precisan la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado. Esta función podrá ejercerla en coordinación con las Instituciones de Seguridad Pública, quienes actuarán bajo la conducción y mando del Ministerio Público, en términos de la Constitución Política de los Estados Unidos Mexicanos y las Leyes generales aplicables;
 
 II. El ejercicio de la acción penal ante los órganos jurisdiccionales;
 
@@ -1575,9 +1583,21 @@ III. Ordenar detenciones en casos urgentes o de flagrancia, en las condiciones q
 
 IV. Velar por la legalidad como uno de los principios rectores de la convivencia social y promover la pronta, completa e imparcial procuración de justicia;
 
-V. Proteger los intereses de los menores, incapaces, ausentes e ignorados, así como los individuales y sociales, en los términos que determinen las Leyes; y
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-VI. Las demás que establezcan las Leyes reglamentarias.
+V. Proteger los intereses de las niñas, niños y adolescentes, personas con discapacidad, personas adultas mayores, ausentes e ignoradas, así como los individuales y sociales, en los términos que determinen las Leyes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2025)</small>
+
+VI. Las funciones de procuración de justicia deben llevarse a cabo bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, incorporando además una perspectiva de género y un firme respeto a los derechos humanos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] , P.O. 28 DE MAYO DE 2025)</small>
+
+VII. Las demás que establezcan las Leyes reglamentarias.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Con la finalidad de coordinar la prestación de servicios integrales destinados a prevenir, atender y erradicar la violencia y delitos contra las mujeres en el Estado, se contará con un organismo dependiente de la Fiscalía General del Estado, el cual se denominará “Centro de Justicia para las Mujeres”, que tendrá autonomía técnica y de gestión.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -2483,6 +2503,10 @@ IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especifica
 
 V. El H. Congreso del Estado, en el ámbito de su competencia, expedirá las leyes para hacer efectivo el contenido del presente artículo y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en el mismo.
 
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+VI. A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo ni género. Las leyes y reglamentos establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 121 Bis.
@@ -2549,19 +2573,27 @@ f) No ser ni haber sido dirigente de algún partido político, asociación relig
 
 La estructura administrativa, la organización y el funcionamiento del organismo garante en materia de transparencia y de protección de datos personales, así como el procedimiento de elección y sustitución de los Comisionados se establecerán en la legislación secundaria estatal en materia de transparencia.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 126.
 
-En el Estado, el varón y la mujer son iguales ante la Ley. Esta protegerá la organización y el desarrollo de la familia.
+En el Estado, la mujer y el hombre son iguales ante la Ley. Ésta protegerá la organización y el desarrollo de la familia. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1975)</small>
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1975)</small>
 
 La mujer tiene los mismos derechos civiles y políticos que el hombre; podrá ser electa y tendrá derecho al voto en cualquier elección, siempre que reúna los requisitos que señale la Ley.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 Toda persona tiene derecho al cuidado digno que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida, así como a cuidar. El Estado promoverá la corresponsabilidad entre mujeres y hombres, las familias, la comunidad y el propio Estado en las actividades de cuidado, las cuales son de interés público.
+
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Toda persona tiene derecho a vivir una vida libre de violencia, el Estado tiene deberes reforzados con la protección de las mujeres, adolescentes, niñas y niños.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -3604,3 +3636,13 @@ P.O. 14 DE FEBRERO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 91 POR EL QUE “SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24; LAS FRACCIONES I, V Y VI DEL ARTÍCULO 75 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 126 Y, SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 24; LA FRACCIÓN VII Y UN PÁRRAFO TERCERO AL ARTÍCULO 75; LA FRACCIÓN VI AL ARTÍCULO 121 Y UN PÁRRAFO QUINTO AL ARTÍCULO 126, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Posterior a la fecha de publicación y entrada en vigor, se contará con 180 días hábiles, para armonizar el marco jurídico correspondiente, debiendo incluir disposiciones que determinen los alcances.
+
+TERCERO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas deberán contemplar las medidas presupuestales correspondiente (sic), que permitan dar cumplimiento gradual a las presentes disposiciones.
