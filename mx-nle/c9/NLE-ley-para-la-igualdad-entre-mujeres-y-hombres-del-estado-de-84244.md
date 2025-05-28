@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2025-04-02"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -655,7 +655,13 @@ g) La aplicación de procesos igualitarios en la selección del personal, contem
 
 h) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
 
-XX. Difundir, previo consentimiento de las empresas o personas, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XX. Difundir, previo consentimiento de las empresas o personas, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres; e
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXI. Impulsar e implementar mecanismos que garanticen la prevención, atención, sanción y erradicación de la violencia y discriminación en razón de género en el ámbito laboral.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -1244,3 +1250,11 @@ P.O. 2 DE ABRIL DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- El Poder Ejecutivo, las dependencias estatales y los Municipios del Estado, sujetos al presente Decreto, expedirán o, en su caso, adecuará sus reglamentos correspondientes en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 106 SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; Y SE REFORMAN LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo, las dependencias estatales y los Municipios del Estado, sujetos al presente decreto, expedirán o, en su caso, adecuarán sus reglamentos correspondientes en un plazo no mayor a 90 días naturales a la entrada en vigor del presente Decreto.
