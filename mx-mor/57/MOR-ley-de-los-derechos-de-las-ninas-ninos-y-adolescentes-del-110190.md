@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2025-04-30"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -155,23 +155,27 @@ XXVIII. El Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral
 
 XXIX. El Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
-XXX. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXX. Salud Mental: el estado de bienestar que permite a las niñas, niños y adolescentes el buen funcionamiento cognitivo, afectivo, conductual, que beneficia el despliegue óptimo de sus potencialidades individuales convivencia, el aprendizaje y la recreación, que favorezca su desarrollo integral y dignidad humana.
+
+XXXI. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-XXX (SIC). Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos, y
+XXXII. Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos, y
 
 > <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-XXXI. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño.
+XXXIII. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
 
-XXXII. Mínima intervención: Consiste en que, cuando se solicite a niñas, niños y adolescentes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, sea el menor número de veces posible y la misma se haga fuera del horario escolar;
+XXXIV. Mínima intervención: Consiste en que, cuando se solicite a niñas, niños y adolescentes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, sea el menor número de veces posible y la misma se haga fuera del horario escolar;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
 
-XXXIIII. No revictimización: cuando intervienen en procedimientos judiciales como víctimas o testigos las personas juzgadoras determinen las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de mayor beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido; (sic)
+XXXV. No revictimización: cuando intervienen en procedimientos judiciales como víctimas o testigos las personas juzgadoras determinen las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de mayor beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido; (sic)
 
 ###### Artículo 5.
 
@@ -703,7 +707,9 @@ XIV. Establecer las medidas para que en los servicios de salud se detecten y ati
 
 XV. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVI. Establecer medidas tendentes a que en los servicios de salud y educativos se prevengan, se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental en todos los niveles de atención, así como informar oportunamente a quien ejerce la patria potestad, la tutela, guardia o custodia, con el objeto de orientarlos sobre las posibles acciones con el fin de garantizar su bienestar emocional, psicológico y social.
 
 XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación, y
 
@@ -856,6 +862,10 @@ XXII. Instaurar acciones encaminadas al fortalecimiento del núcleo familiar, a 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 XXIII. Fomentar el desarrollo de la infraestructura tecnológica en los planteles educativos para promover la formación científica y tecnológica de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XXIV. Incluir dentro del sistema educativo estatal la educación emocional, como una herramienta adecuada en materia de salud mental en las niñas, niños y adolescentes a través de instrumentos que favorezcan el desarrollo de la inteligencia emocional y su aplicación en las situaciones cotidianas y por extensión el fomento de actitudes positivas ante la vida, y el (sic) habilidades sociales y de escucha, de mediación, empatía, entre otras, como factores de desarrollo de bienestar individual y comunitario. Todo lo anterior, de conformidad con lo establecido en la Ley de Educación del Estado de Morelos.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -1445,9 +1455,13 @@ XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atenci
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
 
-XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley, y
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+XXIV. Determinar las acciones necesarias que garanticen el fomento, la promoción y preservación de la salud mental de las niñas, niños y adolescentes, en términos de lo establecido en la Ley de Salud Mental del Estado de Morelos.
+
+XXV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley, y
+
+XXVI. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
 
 ###### Artículo 94.
 
@@ -2218,3 +2232,15 @@ P.O. 30 DE ABRIL DE 2025.
 PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS VEINTICUATRO.- POR EL QUE SE ADICIONA LA FRACCIÓN XXX Y RECORRE LAS SUBSECUENTES EN SU ORDEN NATURAL DEL ARTÍCULO 4, REFORMA A LA FRACCIÓN XVI DEL ARTÍCULO 46, ADICIONA LA FRACCIÓN XXIV DEL ARTÍCULO 53, Y ADICIONA LA FRACCIÓN XXIV Y RECORRE LAS SUBSECUENTES EN SU ORDEN DEL ARTÍCULO 93 TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+Primero.- El Presente decreto iniciará su vigencia a partir de su aprobación en el pleno del Congreso del Estado de Morelos.
+
+Segundo.- Remítase a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Tercero.- Los centros educativos deberán canalizar los casos de salud mental detectados cuando así se requiera, a las instituciones especializadas en esta materia para atención.
+
+Cuarto.– A partir de la vigencia del presente decreto la Secretaría de Educación Pública del Estado de Morelos deberá de realizar dentro de un plazo de 90 días las adecuaciones necesarias a sus reglamentos para incluir la educación emocional en el sistema Educativo Estatal.
