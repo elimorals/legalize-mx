@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-04-08"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1381,9 +1381,9 @@ El tesorero y todos los empleados que manejen fondos y valores, están obligados
 
 Para ser Tesorero del ayuntamiento es necesario cumplir con los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
 
-I. Contar con título y cédula profesional de licenciatura en administración, con antigüedad mínima de tres años; y experiencia en el área financiera de dos años;
+I. Contar con título y cédula profesional de licenciatura en contaduría pública, administración, economía, o sus equivalentes con antigüedad mínima de tres años; y experiencia en el área financiera de dos años;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2025)</small>
 
@@ -3584,3 +3584,11 @@ P.O. 8 DE ABRIL DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0206.- QUE REFORMA EL ARTÍCULO 80, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
