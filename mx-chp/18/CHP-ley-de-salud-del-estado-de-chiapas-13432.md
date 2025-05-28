@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-salud-del-estado-de-chiapas-13432"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-12"
-last_updated: "2020-12-30"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE SALUD DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 12 de agosto de 1998.
 
@@ -751,15 +751,19 @@ EL EJECUTIVO ESTATAL, POR CONDUCTO DE LA SECRETARIA, PROMOVERA LA PARTICIPACION 
 
 LA ATENCION MATERNO - INFANTIL TIENE CARACTER PRIORITARIO Y COMPRENDE LAS ACCIONES SIGUIENTES:
 
-I.- LA ATENCION DE LA MUJER DURANTE EL EMBARAZO, EL PARTO Y EL PUERPERIO;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+I.- LA ATENCION INTEGRAL Y MULTIDISCIPLINARIA DE LA MUJER DURANTE EL EMBARAZO, EL PARTO Y EL PUERPERIO, INCLUYENDO LOS CASOS EN LOS QUE OCURRA MUERTE GESTACIONAL, PERINATAL Y NEONATAL.
 
 II.- LA ATENCION DEL NIÑO Y LA VIGILANCIA DE SU CRECIMIENTO Y DESARROLLO, INCLUYENDO LA PROMOCION DE LA NUTRICION OPTIMA Y VACUNACION; Y
 
 III.- LA PROMOCION DE LA INTEGRACION Y DEL BIENESTAR FAMILIAR FOMENTANDO LA RESPONSABILIDAD DE AMBOS PADRES EN EL CRECIMIENTO Y DESARROLLO FISICO Y MENTAL DE SUS HIJOS.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
 ###### ARTICULO 48.
 
-EN LOS SERVICIOS DE SALUD SE PROMOVERA LA ORGANIZACION INSTITUCIONAL DE COMITES DE ESTUDIO Y PREVENCION DE LA MORBILIDAD Y MORTALIDAD MATERNO - INFANTIL, A EFECTO DE CONOCER, SISTEMATIZAR Y EVALUAR EL PROBLEMA Y ADOPTAR LAS MEDIDAS CONDUCENTES.
+EN LOS SERVICIOS DE SALUD SE PROMOVERA LA ORGANIZACION INSTITUCIONAL DE COMITES DE ESTUDIO Y PREVENCION DE LA MORBILIDAD Y MORTALIDAD MATERNA, GESTACIONAL, PERINATAL, NEONATAL E INFANTIL, CON EL PROPOSITO DE CONOCER, REGISTRAR, SISTEMATIZAR Y EVALUAR EL PROBLEMA, ASI COMO ADOPTAR LAS MEDIDAS PERTINENTES EN TERMINOS QUE ESTABLEZCA LA SECRETARIA DE SALUD.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
@@ -779,15 +783,17 @@ II.- ACCIONES DE ORIENTACION Y VIGILANCIA INSTITUCIONAL, FOMENTO A LA LACTANCIA 
 
 III.- ACCIONES PARA CONTROLAR LAS ENFERMEDADES PREVENIBLES POR VACUNACION Y LAS INFECCIONES RESPIRATORIAS AGUDAS, PROCESOS DIARREICOS DE LOS MENORES DE CINCO AÑOS.
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2025)</small>
 
-IV.- LAS ACCIONES NECESARIAS PARA PREVENIR, IDENTIFICAR, ATENDER Y ERRADICAR LA VIOLENCIA OBSTETRICA CONTRA LAS MUJERES, GARANTIZADO UN TRATO DIGNO DURANTE EL EMBARAZO, PARTO Y PUERPERIO.
+IV.- PROGRAMAS PARA ABORDAR, CON UN ENFOQUE ETICO, RESPETUOSO Y HUMANITARIO, LA MUERTE GESTACIONAL, PERINATAL Y NEONATAL.
 
 ###### ARTICULO 51.
 
 LAS AUTORIDADES DE SALUD, EDUCATIVAS Y LABORALES DEL ESTADO, EN SUS RESPECTIVOS AMBITOS DE COMPETENCIA, APOYARAN Y FOMENTARAN:
 
-I.- LOS PROGRAMAS DESTINADOS A PROMOVER LA ATENCION MATERNO-INFANTIL DIRIGIDOS A LOS PADRES DE FAMILIA;
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+I.- LOS PROGRAMAS DESTINADOS A PROMOVER LA ATENCION MATERNO-INFANTIL DIRIGIDOS A LOS PADRES Y MADRES DE FAMILIA.
 
 II.- LAS ACTIVIDADES RECREATIVAS Y CULTURALES DESTINADAS A FORTALECER EL EQUILIBRIO FISICO Y MENTAL DEL NUCLEO FAMILIAR;
 
@@ -3924,3 +3930,17 @@ P.O. 30 DE DICIEMBRE DE 2020.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 257 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE CHIAPAS Y A LA LEY DEL SERVICIO CIVIL DEL ESTADO Y LOS MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- En un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente decreto, las autoridades de salud deberán desarrollar programas en materia de muerte gestacional, perinatal y neonatal, así como los protocolos necesarios para que los bancos de leche puedan recibir leche humana de mujeres en período de lactancia que tengan excedente, incluyendo aquellas que hayan experimentado pérdida gestacional, perinatal o neonatal.
+
+Artículo Cuarto.- Dentro de los 180 días naturales posteriores a la entrada en vigor del presente decreto, la Secretaría de Salud del Estado de Chiapas coordinará las actividades de las dependencias y entidades del sector salud para instrumentar y operar acciones en materia de atención a la muerte gestacional, perinatal y neonatal.
+
+Artículo Quinto.- Las erogaciones derivadas de la entrada en vigor del presente decreto se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables, dentro del ejercicio fiscal vigente y los subsecuentes.
