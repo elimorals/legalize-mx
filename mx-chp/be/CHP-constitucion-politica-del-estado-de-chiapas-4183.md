@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2025-03-31"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -395,7 +393,13 @@ XIII. A la libertad de reunión y asociación pacífica. Ninguna persona podrá 
 
 XIV. A asociarse sindicalmente para la defensa de sus derechos.
 
-XV. A acceder a la información pública gubernamental.
+> <small>(REFORMADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XV. A acceder a la información pública.
+
+> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
+
+XVI. A la protección de sus datos personales, así como al acceso, rectificación, cancelación y portabilidad de los mismos u oponerse al tratamiento de estos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2533,9 +2537,11 @@ Las leyes y el estatuto correspondiente determinarán los regímenes laborales y
 
 En los municipios regidos electoralmente por sistemas normativos internos indígenas, el Instituto de Elecciones y Participación Ciudadana tendrá la obligación de reconocer, respetar, coadyuvar, salvaguardar y garantizar el funcionamiento de dichos sistemas, vigilando que se respeten en todo momento los derechos individuales de las y los miembros de la comunidad.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+(NOTA: EL 9 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 198/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ONCEAVO DE ESTE ARTÍCULO, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales.
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Asimismo, se faculta al Instituto de Elecciones y Participación Ciudadana para organizar, desarrollar y vigilar las elecciones de autoridades auxiliares municipales; ASÍ COMO PARA QUE CONOZCA DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS PARTIDOS POLÍTICOS, DE LAS AGRUPACIONES POLÍTICAS Y DE LAS ASOCIACIONES CIVILES CREADAS POR CIUDADANAS Y CIUDADANOS QUE PRETENDAN POSTULAR SU CANDIDATURA INDEPENDIENTE; IGUALMENTE, EN LO RELACIONADO CON LA PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTIDOS POLÍTICOS.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2599,23 +2605,13 @@ En la substanciación y resolución de los medios de impugnación el Tribunal El
 
 Derivado de las controversias que se susciten en los procedimientos de los sistemas normativos internos de los municipios indígenas, durante esos procesos electivos, el Tribunal Electoral contará con un área especializada para la mediación y solución de éstos a través de medios alternos de justicia.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2025)</small>
 
 ### Capítulo IV. Del Órgano Garante del Acceso a la Información y Protección de Datos Personales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 102.
 
-El Estado contará con un órgano autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley de la materia.
-
-Dicho órgano estará conformado por tres Comisionados o la denominación que su reglamento interno otorgue, de los cuales uno fungirá como Comisionado Presidente; la legislación correspondiente que regirá a este órgano autónomo, establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión del derecho de acceso a la información pública; así como sus atribuciones, integración y funcionamiento.
-
-En su funcionamiento se regirá bajo los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-Los Comisionados de este órgano constitucional durarán en su encargo siete años. El Comisionado Presidente será designado por los propios Consejeros, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual. En la conformación se procurará la equidad de género.
-
-La Ley de la materia y sus reglamentos contendrán lo concerniente a los requisitos para ser Comisionado, al procedimiento de designación y remoción del cargo, así como las atribuciones que corresponden a los Comisionados en el desempeño de sus labores y el funcionamiento.
+(DEROGADO, P.O. 28 DE MAYO DE 2025)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5286,3 +5282,27 @@ Artículo Décimo Quinto. Los derechos laborales de las personas trabajadoras de
 Artículo Décimo Sexto. Para la efectiva implementación del presente Decreto, los Poderes Ejecutivo, Legislativo, y Judicial, tomarán las medidas presupuestales que sean pertinentes en los ejercicios fiscales subsecuentes.
 
 Artículo Décimo Séptimo. Se derogan todas las disposiciones que se contrapongan al contenido del presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 259 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- El Congreso del Estado de Chiapas dispondrá de un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones legislativas en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados, así como aquellas otras que considere necesarias para dar cumplimiento al presente Decreto.
+
+Las adecuaciones legislativas que se realicen deberán considerar la eliminación del Órgano Garante Estatal en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, así como la integración del Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, que deberá asumir su competencia, atribuciones, facultades y funciones, en lo referente al Poder Ejecutivo del Estado y los Municipios de Chiapas.
+
+Artículo Cuarto.- Una vez que entre en vigor la legislación secundaria estatal referida en el artículo Tercero Transitorio, se entenderá extinto el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas.
+
+Los actos jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, con anterioridad a la entrada en vigor de la legislación secundaria, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán vigentes y obligarán en sus términos al Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, que asuma las funciones del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos desarrollados, administrados, ejecutados o coordinados por el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, pasarán a formar parte del Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, que asuma las funciones, en términos del presente Decreto y de la legislación secundaria que al efecto se emita.
+
+Artículo Quinto.- Los personas que se desempeñan como Comisionados o Comisionadas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación secundaria aludida en el artículo Tercero Transitorio.
+
+Artículo Sexto.- Los derechos laborales de las personas servidoras públicas adscritas al Órgano Garante en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Chiapas, serán respetados en su totalidad, en términos de la legislación aplicable. Los recursos humanos con que cuente el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, pasarán a formar parte del Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, que asuma sus funciones, cuando corresponda.
