@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-05-21"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2763,7 +2763,7 @@ Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mita
 
 ### CAPÍTULO II. DELITOS QUE ATENTAN CONTRA El CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2025)</small>
 
 ###### Artículo 220.
 
@@ -2795,15 +2795,29 @@ Este delito se perseguirá por querella de parte.
 
 ###### Artículo 221.
 
-A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le aplicará sanción de dos a cinco años de prisión.
+A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le aplicará sanción de dos a cinco años de prisión y multa de cien a cuatrocientas Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 En todos los casos se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y, a criterio de la autoridad jurisdiccional competente, se decretará suspensión o pérdida de los derechos de familia.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
 Para los efectos de este artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
 
+> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2025)</small>
+
+Si el obligado tiene un ingreso económico variable se tomará como base diaria la cantidad que normalmente perciba entre el mínimo y el máximo en un periodo de quince días y sobre la cual el Juez fijará un porcentaje que no podrá ser superior al cincuenta, ni inferior al treinta por ciento.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+
 El delito de incumplimiento de obligaciones alimentarias, se perseguirá por querella cuando el sujeto pasivo sea el cónyuge, concubina o concubinario o con quien se mantenga una relación de pareja, y se perseguirá de oficio cuando el sujeto pasivo del abandono sea cualquiera otra persona respecto de quien el activo mantenga la obligación de proporcionar alimentos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 Cuando el sujeto pasivo sea persona diversa al cónyuge, concubina o concubinario o cualquiera otro con quien mantenga, relación de pareja, el perdón que aquel otorgue a favor del sujeto activo sólo surtirá efecto legal si éste cubre los alimentos no suministrados y garantiza, satisfactoriamente a juicio del juez, el pago oportuno de sus obligaciones futuras.
 
@@ -5386,3 +5400,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 90 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO QUINTO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, AL ARTÍCULO 221 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
