@@ -4,7 +4,7 @@ identifier: "MOR-decreto-numero-seiscientos-cuarenta-y-uno-por-el-que-se-186373"
 country: "mx"
 rank: "decreto"
 publication_date: "2022-12-21"
-last_updated: "2022-12-21"
+last_updated: "2025-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=186373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 DECRETO NÚMERO SEISCIENTOS CUARENTA Y UNO POR EL QUE SE CONCEDE PENSIÓN POR JUBILACIÓN A IRMA CATONGA CHERÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
 
 Decreto publicado en el Número 6152 del Periódico Oficial del Estado de Morelos, el miércoles 21 de diciembre de 2022.
 
@@ -51,9 +51,11 @@ DECRETO NÚMERO SEISCIENTOS CUARENTA Y UNO POR EL QUE SE CONCEDE PENSIÓN POR JU
 
 Se concede pensión por Jubilación a Irma Catonga Cheron, quien prestó inicialmente sus servicios en el Poder Ejecutivo del Estado de Morelos y posteriormente en el Poder Judicial del Estado de Morelos, ocupando como último cargo el de actuaria de Primera Instancia de manera Temporal e Interina, adscrita al Juzgado Primero Familiar de Primera Instancia del Sexto Distrito Judicial del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 28 DE MAYO DE 2025)</small>
+
 ###### ARTÍCULO 2.
 
-La pensión decretada lo es a razón del 100% a partir del día siguiente a aquél en que quede separada de sus labores, debiendo ser cubierta por el Poder Judicial del Estado de Morelos, con cargo al presupuesto autorizado a éste, en el Presupuesto de Egresos del Gobierno del Estado de Morelos; cumpliendo con lo que disponen los artículos 55, 56 y 58, fracción II, inciso a) de la Ley del Servicio Civil del Estado de Morelos en vigor.
+La pensión decretada deberá cubrirse a razón del 80% del último salario de la solicitante, a partir del día siguiente a aquél en que la trabajadora se separe de sus labores y será cubierto por el Poder Judicial del Estado de Morelos, quien deberá realizar el pago en forma mensual de la ampliación presupuestal otorgada mediante el oficio SH/0905-GH/2024 y de las partidas específicas del presupuesto aprobado a dicho Poder Judicial en cada ejercicio fiscal subsecuente.
 
 ###### ARTÍCULO 3.
 
@@ -84,3 +86,17 @@ SECRETARIO DE GOBIERNO
 SAMUEL SOTELO SALGADO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO SESENTA Y OCHO POR EL QUE SE REFORMA (SIC) ARTÍCULO 2º DEL DECRETO NÚMERO SEISCIENTOS CUARENTA Y UNO, PUBLICADO EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD” NUMERO 6152, EL 21 DE DICIEMBRE DE 2022, A TRAVÉS DEL CUAL SE CONCEDIÓ PENSIÓN POR JUBILACIÓN A IRMA CATONGA CHERON".]
+
+PRIMERO. Remítase el presente a la titular del Poder Ejecutivo del Estado para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Para estar en condiciones de solicitar al Poder Ejecutivo Estatal, la asignación y transferencia de recursos para el pago de la pensión, a través de la Dirección Jurídica requiérase al Poder Judicial del Estado de Morelos, a efecto de que informe a este Poder Legislativo la cantidad necesaria para el pago de la pensión respectiva.
+
+CUARTO. Notifíquese a la Segunda Sala de la Suprema Corte de Justicia de la Nación el contenido del presente Decreto, a efecto de dar cabal cumplimiento a la sentencia pronunciada en la Controversia Constitucional Número 199/2023, promovido (sic) por el Poder Judicial del Estado.
