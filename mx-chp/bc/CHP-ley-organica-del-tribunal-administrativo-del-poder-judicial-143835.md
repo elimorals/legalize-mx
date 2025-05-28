@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-tribunal-administrativo-del-poder-judicial-143
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-08-19"
-last_updated: "2025-01-27"
+last_updated: "2025-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 28 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025 (ABROGADA).
 
 Ley publicada en el Número 122 del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2020.
 
@@ -860,3 +862,33 @@ Artículo Tercero.- Las dependencias normativas y los órganos, en el ámbito de
 Artículo Cuarto.- El Pleno del Tribunal en un plazo no mayor a los 60 días naturales deberá realizar las reformas necesarias al Reglamento Interior del Tribunal, para el debido cumplimiento del presente Decreto.
 
 La persona titular del Poder Ejecutivo del Estado, dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
+
+P.O. 28 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 256 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley Orgánica del Tribunal Administrativo del Poder Judicial del Estado de Chiapas, publicada en el Periódico Oficial número 122, de fecha 19 de agosto de 2020.
+
+Artículo Tercero. Conforme a lo previsto en el artículo 108 de la Constitución Política del Estado Libre y Soberano de Chiapas, el Tribunal de Justicia Administrativa se integrará por la Magistrada y Magistrados que rindieron protesta ante la LXIX Legislatura del Estado del Honorable Congreso del Estado en sesión de fecha 23 de abril de 2025.
+
+Artículo Cuarto. La Junta de Gobierno y Administración deberá integrarse e instalarse formalmente dentro de los cinco días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Quinto. En un plazo no mayor a sesenta días naturales, contados a partir de la entrada en vigor del presente Decreto, el Tribunal de Justicia Administrativa, por conducto de su Junta de Gobierno y Administración o de la Sala de Revisión, según corresponda, deberá realizar las designaciones siguientes: juezas o jueces de primera instancia; personas titulares de la Secretaría General de Acuerdos y del Pleno; del Órgano Interno de Control; del Instituto de Justicia Administrativa; y del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa.
+
+Dichas designaciones se realizarán con libertad de criterio, y en el caso específico de las personas juzgadoras del Juzgado de Jurisdicción Administrativa, y del Juzgado Especializado en Responsabilidad Administrativa que se encuentran en funciones antes de la entrada en vigor del presente Decreto no les será aplicable lo establecido en el artículo 36, párrafo segundo de la presente Ley.
+
+Para el caso de las personas titulares de las áreas administrativas que se encuentran en funciones a la entrada en vigor del presente Decreto, continuarán en su encargo hasta en tanto la Junta de Gobierno y Administración determine lo conducente.
+
+Las obligaciones y derechos salariales y de seguridad social de las personas servidoras públicas que actualmente laboren en órganos jurisdiccionales administrativos, se respetarán en los términos de la legislación aplicable.
+
+Artículo Sexto. Las dependencias normativas y los órganos correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
+
+Artículo Séptimo. En un plazo que no exceda de noventa días a partir de la entrada en vigor del presente Decreto, la Junta de Gobierno y Administración deberá expedir el Reglamento Interior del Tribunal de Justicia Administrativa del Estado de Chiapas, hasta en tanto, se continuará aplicando el Reglamento Interior del extinto Tribunal Administrativo del Poder Judicial del Estado de Chiapas, en aquello que no se oponga al presente Decreto.
+
+Artículo Octavo. Hasta en tanto la Junta de Gobierno y Administración expida los Acuerdos Generales y Lineamientos previstos en esta Ley, se continuarán aplicando, en lo conducente, los que regían al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, siempre que no se opongan al presente Decreto.
+
+Toda referencia, atribución o mención normativa que corresponda al Tribunal Administrativo del Poder Judicial del Estado de Chiapas, se entenderán conferidas y serán atendidas por el Tribunal de Justicia Administrativa del Estado de Chiapas.
+
+Artículo Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
