@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-04-02"
+last_updated: "2025-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -1391,19 +1391,27 @@ IV.- Promover políticas de prevención y atención de la violencia contra las m
 
 V.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y Programas Estatales.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2025)</small>
 
-ARTÍCULO 43 TER.- Corresponde a la Secretaría de Trabajo las siguientes funciones:
+ARTÍCULO 43 TER.- Corresponde a la Secretaría de Desarrollo Económico y Trabajo las funciones siguientes:
 
 I.- Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
 
-II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres, así como para reducir y erradicar la brecha salarial de género;
 
 III.- Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
 
-IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo, y
+IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
 
-V.- Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres.
+V.- Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
+
+VII.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
+
+IX.- Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2308,3 +2316,11 @@ P.O. 2 DE ABRIL DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se dejan sin efecto las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA Y DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
