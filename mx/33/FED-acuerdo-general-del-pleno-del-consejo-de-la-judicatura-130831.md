@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-130831"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-10-10"
-last_updated: "2023-01-16"
+last_updated: "2025-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130831&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2018-09-27"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2025.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 10 de octubre de 2018.
 
@@ -99,7 +99,9 @@ XII. Políticas: Definición de directrices estratégicas para la gestión y tra
 
 XIII. Responsable: Consejo de la Judicatura Federal;
 
-XIV. Secretaría de Protección de Datos Personales: Oficial de protección de datos personales conforme a lo establecido en el artículo 85, párrafo segundo, de la Ley;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+XIV. Secretaría de Protección de Datos Personales: Oficial de protección de datos personales conforme a lo establecido en el artículo 79, párrafo segundo, de la Ley;
 
 XV. Servidor público vinculado: El o los servidores públicos designados por los titulares de las instancias, encargados del tratamiento de datos personales;
 
@@ -115,15 +117,19 @@ Interpretación del Acuerdo
 
 Las consultas de las instancias sobre la aplicación de la Ley y de este Acuerdo serán resueltas por la Unidad de Transparencia, salvo en aquellos casos en los que se requiera fijar criterio, lo cual le corresponderá al Comité. Una vez que se establezca el criterio la Unidad de Transparencia desahogará las consultas respectivas.
 
-La interpretación del presente Acuerdo corresponde al Pleno del Consejo.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+La interpretación del presente Acuerdo corresponde al Comité de Transparencia.
 
 ### CAPÍTULO SEGUNDO. TRATAMIENTO DE DATOS PERSONALES
 
 Principios generales para la protección de Datos Personales.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
 ###### Artículo 4.
 
-En el tratamiento de datos personales, el responsable por conducto de las instancias y los servidores públicos vinculados deberán observar los principios de calidad, consentimiento, finalidad, información, lealtad, licitud, proporcionalidad, y responsabilidad.
+En el tratamiento de datos personales, el responsable por conducto de las instancias y los servidores públicos vinculados deberán observar los principios de calidad, consentimiento, finalidad, información, lealtad, licitud, proporcionalidad, y responsabilidad; así como los deberes de confidencialidad y seguridad.
 
 Veracidad en los datos personales
 
@@ -161,7 +167,9 @@ Los titulares a los que se soliciten o se reciban sus datos personales deberán 
 
 El aviso de privacidad deberá ser difundido por los medios electrónicos y físicos con que cuenten las áreas administrativas.
 
-La Unidad de Transparencia pondrá a disposición de los titulares de las áreas administrativas los modelos de avisos de privacidad simplificado e integral y la guía de elaboración, para que en su ámbito de competencia y de ser necesario conforme al tratamiento de los datos personales que requieran, elaboren los avisos respectivos, de conformidad con lo previsto en los artículos 27 y 28 de la Ley.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+La Unidad de Transparencia pondrá a disposición de las personas titulares de las áreas administrativas los modelos de avisos de privacidad simplificado e integral y la guía de elaboración, para que en su ámbito de competencia y de ser necesario conforme al tratamiento de los datos personales que requieran, elaboren los avisos respectivos, de conformidad con lo previsto en los artículos 20, 21 y 22 de la Ley.
 
 Manifestación de la voluntad del titular en el manejo de datos personales
 
@@ -169,7 +177,9 @@ Manifestación de la voluntad del titular en el manejo de datos personales
 
 El consentimiento del titular podrá manifestarse de forma expresa o tácita, por regla general será válido el consentimiento tácito, salvo que una ley exija que la voluntad del titular se manifieste de manera expresa. El consentimiento expreso se recabará por las instancias a través de las atribuciones con que cuenten, para lo cual deberá elaborarse un acta o notificación que permita garantizar la certeza de su obtención.
 
-Todo tratamiento de datos personales para finalidades distintas a las establecidas en el aviso de privacidad, deberá contar con el consentimiento expreso o tácito de su titular, en términos de lo previsto en el artículo 21 de la Ley, con excepción de los supuestos previstos en los artículos 22 y 70 de la Ley.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+Todo tratamiento de datos personales para finalidades distintas a las establecidas en el aviso de privacidad, deberá contar con el consentimiento expreso o tácito de su titular, en términos de lo previsto en el artículo 15 de la Ley, con excepción de los supuestos previstos en los artículos 16 y 64 de la Ley.
 
 La revocación del consentimiento para el tratamiento de los datos personales, se podrá realizar por el titular en cualquier momento, a través del ejercicio de los derechos de cancelación y oposición de conformidad con lo dispuesto en el presente Acuerdo, sin que pueda tener efectos retroactivos.
 
@@ -195,9 +205,11 @@ Los sistemas de datos deberán garantizar el ejercicio de los derechos ARCO.
 
 Mecanismos para el cumplimiento del principio de responsabilidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
 ###### Artículo 13.
 
-Para adoptar los mecanismos previstos en el artículo 30 de la Ley, se atenderá a lo siguiente:
+Para adoptar los mecanismos previstos en el artículo 24 de la Ley, se atenderá a lo siguiente:
 
 I. La Unidad de Transparencia someterá para su aprobación al Comité las políticas y programas internos de protección de datos personales;
 
@@ -213,9 +225,11 @@ V. La Dirección General de Tecnologías de la Información, a solicitud de los 
 
 Acciones para la implementación de las medidas de seguridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
 ###### Artículo 14.
 
-Para establecer y mantener las medidas de seguridad para la protección de los datos personales, en los términos previstos en el artículo 33 de la Ley, se observará lo siguiente:
+Para establecer y mantener las medidas de seguridad para la protección de los datos personales, en los términos previstos en el artículo 27 de la Ley, se observará lo siguiente:
 
 I. La Unidad de Transparencia deberá proponer al Comité las políticas internas para la gestión y tratamiento de los datos personales;
 
@@ -233,9 +247,11 @@ VI. La Unidad de Transparencia deberá monitorear y revisar de manera periódica
 
 Sistema de gestión y documento de seguridad
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
 ###### Artículo 15.
 
-La Unidad de Transparencia documentará el sistema de gestión previsto en el artículo 34 de la Ley y elaborará el documento de seguridad a que se refiere el artículo 35 de la Ley, el cual se integrará con la información que señala el artículo anterior.
+La Unidad de Transparencia documentará el sistema de gestión previsto en el artículo 28 de la Ley y elaborará el documento de seguridad a que se refiere el artículo 29 de la Ley, el cual se integrará con la información que señala el artículo anterior.
 
 Cumplimiento de las obligaciones a cargo de la Unidad de Transparencia
 
@@ -309,7 +325,9 @@ Plazo para atender una solicitud
 
 La Unidad de Transparencia deberá emitir el acuerdo relativo a una solicitud de ejercicio de derechos ARCO, dentro de los tres días hábiles siguientes al en que se recibió la solicitud correspondiente.
 
-En el supuesto de que se requiera al solicitante para que amplíe, complete o corrija su petición, no se actualizará el plazo de respuesta establecido en el artículo 51 de la Ley, por lo que comenzará a computarse al día hábil siguiente del desahogo por parte del solicitante.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+En el supuesto de que se requiera a la persona solicitante para que amplíe, complete o corrija su petición, no se actualizará el plazo de respuesta establecido en el artículo 45 de la Ley, por lo que comenzará a computarse al día hábil siguiente del desahogo por parte de la persona solicitante.
 
 Tramitación de solicitudes para el ejercicio de los derechos ARCO
 
@@ -327,13 +345,17 @@ En caso de resultar procedente el ejercicio de los derechos de rectificación, c
 
 Reproducción de datos personales
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
 ###### Artículo 25.
 
-En los casos en que resulte procedente el ejercicio de acceso a los datos personales, y con la finalidad de agilizarlo, si el costo de reproducción es menor al equivalente al valor diario de la Unidad de Medida y Actualización (UMA), conforme a las tarifas aprobadas, el titular de la instancia deberá remitir los datos personales solicitados al momento de emitir la respuesta respectiva, en un plazo no mayor a cinco días hábiles, el cual podrá ser ampliado por la Secretaría de Protección de Datos Personales atendiendo a la complejidad de la información.
+En los casos en que resulte procedente el ejercicio de acceso a los datos personales, y con la finalidad de agilizarlo, la información deberá entregarse sin costo cuando implique la entrega de no más de veinte copias simples.
 
-Asimismo, la información deberá entregarse sin costo cuando implique la entrega de no más de veinte copias simples.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-La Secretaría de Protección de Datos Personales deberá tener a disposición del titular o de su representante, los datos personales en el medio de reproducción solicitado y/o las constancias que acrediten el ejercicio efectivo de los derechos ARCO durante un plazo máximo de sesenta días naturales, contados a partir del día siguiente al en que se hubiere notificado la respuesta de procedencia al titular.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+La Secretaría de Protección de Datos Personales deberá tener a disposición de la persona titular o de su representante, los datos personales en el medio de reproducción solicitado y/o las constancias que acrediten el ejercicio efectivo de los derechos ARCO durante un plazo máximo de sesenta días naturales, contados a partir del día siguiente al en que se hubiere notificado la respuesta de procedencia a la persona titular.
 
 Costos de reproducción
 
@@ -402,3 +424,15 @@ D.O.F. 16 DE ENERO DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las presentes adecuaciones normativas tendrán aplicación en la temporalidad establecida en el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, en correlación con el diverso Sexto Transitorio del Decreto por el que se expide la Ley Orgánica del Poder Judicial de la Federación, hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial determinen lo que corresponda.
+
+CUARTO. Para la implementación del presente Acuerdo no se realizará la creación de nuevas estructuras en las áreas y entes que son referidos.
