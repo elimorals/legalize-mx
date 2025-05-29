@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-138039"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-09-06"
-last_updated: "2023-01-16"
+last_updated: "2025-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2019-08-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2025.
 
 Acuerdo publicado al Número 5 de la Primera Sección del Diario Oficial de la Federación, el viernes 6 de septiembre de 2019.
 
@@ -61,7 +61,9 @@ I. Las atribuciones y organización de las autoridades en materia de acceso a la
 
 II. La forma y términos para el trámite a las solicitudes de acceso a la información pública;
 
-III. Las reglas para el cumplimiento de las obligaciones de transparencia y acceso a la información pública contempladas en la Ley Federal de Transparencia y Acceso a la Información Pública; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+III. Las reglas para el cumplimiento de las obligaciones de transparencia y acceso a la información pública contempladas en la Ley General de Transparencia y Acceso a la Información Pública; y
 
 IV. Los mecanismos y procedimientos especiales de acceso a la información pública generada por las áreas administrativas y los órganos jurisdiccionales.
 
@@ -69,7 +71,9 @@ IV. Los mecanismos y procedimientos especiales de acceso a la información públ
 
 De la aplicación del marco normativo en materia de acceso a la información pública y transparencia
 
-El derecho de acceso a la información pública o a la clasificación de la información se interpretarán bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, las leyes generales y federales en la materia, así como de los lineamientos, normas y reglas que hayan sido expedidos por las autoridades facultadas para ello.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+El derecho de acceso a la información pública o a la clasificación de la información se interpretarán bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la ley general en la materia, así como de los lineamientos, normas y reglas que hayan sido expedidos por las autoridades facultadas para ello.
 
 En la aplicación e interpretación del presente Acuerdo deberá prevalecer el principio de máxima publicidad, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte, así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo a las personas la protección más amplia.
 
@@ -85,17 +89,23 @@ I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que 
 
 II. Áreas: Órganos jurisdiccionales y áreas administrativas que cuenten o puedan contar con la información, de acuerdo con la Ley Orgánica del Poder Judicial de la Federación y demás normatividad aplicable;
 
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+II Bis. Autoridad garante: Órgano colegiado integrado por las personas titulares de la Contraloría del Consejo de la Judicatura Federal, Secretaría Ejecutiva de Disciplina y Secretaría Ejecutiva de Vigilancia;
+
 III. Comité: Comité de Transparencia del Consejo de la Judicatura Federal;
 
 IV. Consejo: Consejo de la Judicatura Federal;
 
 V. Enlace: Servidor público designado ante la Unidad de Transparencia para gestionar el acceso a la información en el área administrativa u órgano jurisdiccional correspondiente;
 
-VI. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+VI. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
-VII. Ley: Ley Federal de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-VIII. Lineamientos Técnicos Generales: Lineamientos Técnicos Generales para la publicación, homologación y estandarización de la información de las obligaciones establecidas en el Titulo Quinto y en la fracción IV del artículo 31 de la Ley General de Transparencia y Acceso a la Información Pública, que deben de difundir los sujetos obligados en los portales de Internet y en la Plataforma Nacional de Transparencia, expedidos por el Sistema;
+VII. Ley: Ley General de Transparencia y Acceso a la Información Pública;
+
+VIII. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 IX. Módulo de Acceso: Oficinas de las Administraciones Regionales, Delegaciones Administrativas y Administraciones de Edificios, localizadas en los diversos inmuebles administrados por el Consejo, encargadas de apoyar en el trámite de solicitudes de acceso a la información y de brindar información pública del Consejo;
 
@@ -107,7 +117,9 @@ XII. Presidente del Comité: Presidente del Comité de Transparencia;
 
 XIII. Secretario del Comité: Secretario Técnico del Comité;
 
-XIV. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+XIV. Sistema Nacional: Sistema Nacional de Acceso a la Información Pública; y
 
 XV. Unidad de Transparencia: Unidad de Transparencia del Consejo.
 
@@ -123,25 +135,67 @@ Una vez que se establezca el criterio orientador, la Unidad de Transparencia des
 
 De los principios rectores
 
-El Comité, la Unidad de Transparencia, los Módulos de Acceso y las áreas, regirán su funcionamiento por los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo y transparencia, al intervenir en los procedimientos administrativos de acceso a información pública.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+El Comité, la Unidad de Transparencia, los Módulos de Acceso y las áreas, regirán su funcionamiento por los principios de certeza, congruencia, documentación, eficacia, excepcionalidad, exhaustividad, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo y transparencia, al intervenir en los procedimientos administrativos de acceso a la información pública.
 
 En la tramitación de los procedimientos administrativos prevalecerá el principio de la economía procedimental, de manera que las solicitudes sean atendidas con la mayor celeridad.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA Y CUMPLIMIENTO DE LAS OBLIGACIONES DE TRANSPARENCIA
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
 ###### Artículo 6.
+
+De la Autoridad garante
+
+La Autoridad garante es la máxima autoridad en materia de transparencia y acceso a la información pública en el Consejo.
+
+Estará integrada por las personas titulares de la Contraloría del Consejo de la Judicatura Federal, Secretaría Ejecutiva de Disciplina y Secretaría Ejecutiva de Vigilancia, las cuales tendrán derecho a voz y voto.
+
+La persona titular de la Contraloría del Consejo de la Judicatura Federal fungirá como Presidente.
+
+Serán invitados con derecho a voz, pero sin voto, la persona titular de la Unidad de Transparencia y los asesores que designen los integrantes de la Autoridad garante.
+
+En caso de ausencia y de manera excepcional, los integrantes podrán designar a un suplente. Dicha designación deberá corresponder a personas que ocupen cargos de la jerarquía inmediata inferior a la de los integrantes.
+
+En caso de ausencia de la persona titular de la Contraloría del Consejo de la Judicatura Federal, la persona titular de la Secretaría Ejecutiva de Disciplina fungirá como la o el Presidente en la sesión respectiva.
+
+El Secretario Técnico de la Autoridad garante será designado por la o el Presidente de la Autoridad garante.
+
+En caso de ausencia del Secretario Técnico la Autoridad garante, la o el Presidente del Comité designará un suplente para que funja con ese carácter.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+###### Artículo 6 Bis.
+
+De las sesiones de la Autoridad garante
+
+La Autoridad garante sesionará en forma ordinaria y en forma extraordinaria, con la periodicidad que sus integrantes determinen.
+
+Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+###### Artículo 6 Ter.
+
+De las facultades y atribuciones de la Autoridad garante
+
+La Autoridad garante tendrá las facultades y atribuciones señaladas en la Ley, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones jurídicas aplicable (sic); así como para solicitar la celebración de instrumentos convencionales en materia de promoción, capacitación, actualización, colaboración interinstitucional y demás relacionados con la materia de transparencia y acceso a la información pública, cuando los mismos no generen el compromiso de recursos presupuestales a cargo del Consejo, los cuales serán autorizados por el Pleno y suscritos por medio de la o el presidente de la Autoridad garante.
+
+También se ejercerán en el ámbito de su competencia, las referidas en los artículos 9, 10, 11 y 12 del presente Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+###### Artículo 6 Quater.
 
 Del Comité
 
-El Comité es la máxima autoridad en materia de transparencia y acceso a la información pública en el Consejo.
-
-Estará integrado por los siguientes servidores públicos, los cuales tendrán derecho a voz y voto:
+Estará integrado por las siguientes personas servidoras públicas, los (sic) cuales tendrán derecho a voz y voto:
 
 I. La persona titular de la Secretaría Ejecutiva del Pleno, quien fungirá como Presidente;
 
-> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
-
-II. La persona titular de la Contraloría del Consejo de la Judicatura Federal; y
+II. La persona titular de la Dirección General de Gestión Judicial; y
 
 III. La persona titular de la Dirección General de Asuntos Jurídicos.
 
@@ -153,9 +207,7 @@ II. Los asesores que designen los integrantes del Comité.
 
 En caso de ausencia y de manera excepcional, los integrantes podrán designar a un suplente. Dicha designación deberá corresponder a personas que ocupen cargos de la jerarquía inmediata inferior a la de los integrantes.
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
-
-En caso de ausencia de la persona titular de la Secretaría Ejecutiva del Pleno, la persona titular de la Contraloría del Consejo de la Judicatura Federal fungirá como la o el Presidente en la sesión respectiva.
+En caso de ausencia de la persona titular de la Secretaría Ejecutiva del Pleno, la persona titular de la Dirección General de Gestión Judicial fungirá como la o el Presidente en la sesión respectiva.
 
 El Secretario Técnico del Comité será designado por el Presidente del Comité.
 
@@ -173,13 +225,15 @@ Existirá quórum para celebrar válidamente una sesión cuando se cuente con la
 
 De las facultades y atribuciones del Comité
 
-El Comité tendrá las facultades y atribuciones señaladas en el artículo 65 de la Ley y las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+El Comité tendrá las facultades y atribuciones señaladas en el artículo 40 de la Ley y las siguientes:
 
 I. Definir los procedimientos para la atención efectiva de las solicitudes de acceso a la información, así como sus trámites, costos y resultados;
 
 II. Promover la capacitación y actualización de los servidores públicos de órganos jurisdiccionales, órganos auxiliares y áreas administrativas del Consejo, en materia de transparencia; y acceso a la información;
 
-III. Autorizar la celebración de instrumentos convencionales en materia de promoción, capacitación, actualización, colaboración interinstitucional y demás relacionados con la materia de transparencia y acceso a la información pública, cuando los mismos no generen el compromiso de recursos presupuestales a cargo del Consejo; y
+III. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 IV. Las demás que determine el Pleno.
 
@@ -201,7 +255,7 @@ VI. Someter a votación las resoluciones, acuerdos y demás decisiones del Comit
 
 VII. Firmar, conjuntamente con los demás integrantes y con el secretario técnico del Comité, las actas aprobadas de las sesiones de éste;
 
-VIII. Suscribir los instrumentos convencionales que previamente sean autorizados por el Pleno; incluyendo los que tengan como objeto auxiliar en las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente; y
+VIII. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 IX. Las demás que determine el Pleno.
 
@@ -269,17 +323,27 @@ El Comité deberá de pronunciarse sobre el incumplimiento, para lo cual podrá 
 
 Si las áreas insisten en no dar cumplimiento a lo ordenado total o parcialmente, el Comité formulará la queja, denuncia o demanda ante la instancia competente.
 
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+###### Artículo 13 Bis.
+
+De los impedimentos y excusas
+
+Los integrantes de la Autoridad garante y del Comité estarán impedidos y deberán excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que le impidan resolverlos con independencia, profesionalismo e imparcialidad.
+
 ###### Artículo 14.
 
 De la Unidad de Transparencia
 
-La Unidad de Transparencia tendrá las funciones señaladas en el artículo 61 de la Ley, y para la atención del procedimiento contará con el personal adscrito que ejercerá las facultades previstas en el Manual Específico de Organización.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+La Unidad de Transparencia tendrá las funciones señaladas en el artículo 41 de la Ley, y para la atención del procedimiento contará con el personal adscrito que ejercerá las facultades previstas en el Manual Específico de Organización.
 
 Cuando algún área se niegue a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico de aquélla para que ordene al servidor público de que se trate, realizar sin demora las acciones conducentes.
 
-> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la Contraloría del Consejo de la Judicatura Federal para que determine lo conducente.
+Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la Contraloría del Consejo de la Judicatura Federal o de la Secretaría Ejecutiva de Disciplina para que determinen lo conducente.
 
 ###### Artículo 15.
 
@@ -299,7 +363,7 @@ V. Entregar a los requirentes, cuando proceda, las respuestas a sus solicitudes 
 
 VI. Remitir a la Unidad de Transparencia los comprobantes de pago que hubiese recibido para el trámite de la solicitud que se trate;
 
-VII. Informar mensualmente a la Unidad de Transparencia el número de solicitudes atendidas;
+VII. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 VIII. Comunicar de inmediato a la Unidad de Transparencia sobre cualquier problema o dificultad que se presente en la atención a las solicitudes de acceso a la información; y
 
@@ -311,7 +375,9 @@ De los titulares de las áreas y los enlaces
 
 Los titulares de las áreas en su ámbito de atribuciones, serán responsables de la gestión para la atención inmediata de las solicitudes.
 
-Los titulares de las áreas designarán un servidor público que fungirá como enlace con la Unidad de Transparencia e informarán por escrito su designación al Titular de la misma, a efecto de mantener la comunicación para las gestiones derivadas de trámites de las solicitudes de acceso a la información pública, recursos de revisión presentados ante el Instituto y el cumplimiento de las obligaciones de transparencia.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+Las personas titulares de las áreas designarán una persona servidora pública que fungirá como enlace con la Unidad de Transparencia e informarán por escrito su designación al Titular de la misma, a efecto de mantener la comunicación para las gestiones derivadas de trámites de las solicitudes de acceso a la información pública, recursos de revisión y el cumplimiento de las obligaciones de transparencia.
 
 ### CAPÍTULO TERCERO. DEL TRÁMITE DE ATENCIÓN A SOLICITUDES DE ACCESO A LA INFORMACIÓN
 
@@ -319,7 +385,9 @@ Los titulares de las áreas designarán un servidor público que fungirá como e
 
 De la normativa aplicable para el trámite de las solicitudes de acceso a la información
 
-En la atención de las solicitudes de acceso a la información, las áreas, la Unidad de Transparencia y el Comité aplicarán en lo que corresponda lo señalado en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte; así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados; en la Ley; la normativa emitida por el Consejo y los criterios del Comité de Transparencia.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+En la atención de las solicitudes de acceso a la información, las áreas, la Unidad de Transparencia y el Comité aplicarán en lo que corresponda lo señalado en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte; así como en las resoluciones y sentencias vinculantes que emitan los órganos nacionales e internacionales especializados; en la Ley; la normativa emitida por el Consejo y los criterios del Comité de Transparencia o de la Autoridad garante.
 
 ###### Artículo 18.
 
@@ -331,7 +399,9 @@ La Unidad de Transparencia y los Módulos de Acceso deberán contar con la infra
 
 De los requisitos de las solicitudes
 
-Las solicitudes podrán presentarse en los términos previstos en los artículos 123 y 125 de la Ley.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+Las solicitudes podrán presentarse en los términos previstos en los artículos 124 y 126 de la Ley.
 
 Cuando el solicitante o su representante presenten una solicitud de información ante un área distinta de la Unidad de Transparencia, deberá ser recibida y remitida a la Unidad en cuestión para su atención, a más tardar al día siguiente.
 
@@ -361,27 +431,21 @@ Del trámite
 
 Ante la presentación de una solicitud de acceso a la información que requiera la respuesta de las áreas, el trámite de atención se realizará de conformidad con lo siguiente:
 
-I. La Unidad de Transparencia, recibirá la solicitud de acceso a la información y la remitirá al área competente que genere o deba poseer la información, dentro del plazo de un día hábil;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-II. El área realizará los trámites que considere necesarios y emitirá una respuesta, la cual deberá remitirse a la Unidad de Transparencia, de conformidad con lo siguiente:
+I. La Unidad de Transparencia recibirá la solicitud de acceso a la información y la remitirá al área competente que genere o deba poseer la información, dentro del plazo de tres días hábiles;
 
-a) Si los detalles proporcionados para atender la solicitud de información resultan insuficientes, incompletos o erróneos, informará a la Unidad de Transparencia para que formule un requerimiento de información adicional al solicitante, dentro de un plazo que no podrá exceder de dos días hábiles contados a partir de la recepción de la solicitud;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-b) Si el área cuenta con la información y es pública, deberá notificarlo a la Unidad de Transparencia, dentro de los cuatro días hábiles siguientes a que se haya recibido la solicitud de información;
+II. El área contará con un plazo de tres días para emitir la respuesta correspondiente.
 
-c) En caso de que la información solicitada esté disponible públicamente, se le hará saber a la Unidad de Transparencia dentro de un plazo no mayor a dos días hábiles, especificando la fuente, el lugar y la forma en que se puede consultar, reproducir o adquirir dicha información;
+En el caso de que el área determine que la información solicitada no se encuentra en sus archivos, ya sea por una cuestión de inexistencia o de incompetencia, deberá notificarlo a la Unidad de Transparencia y deberá exponer los criterios de búsqueda utilizados para su localización, así como la orientación correspondiente sobre su posible ubicación;
 
-d) Si el área considera que la información solicitada es total o parcialmente reservada o confidencial, remitirá a la Unidad de Transparencia la respuesta a través de la cual se funde y motive la clasificación, dentro de los tres días hábiles siguientes a aquel en que se haya recibido la solicitud de información; y
+III. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
-e) En el caso de que el área determine que la información solicitada no se encuentra en sus archivos, ya sea por una cuestión de inexistencia o de incompetencia, deberá notificarlo a la Unidad de Transparencia dentro de los tres días hábiles siguientes en que haya recibido la solicitud y acompañará un informe en el que se expongan los criterios de búsqueda utilizados para su localización, así como la orientación correspondiente sobre su posible ubicación.
+IV. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
-En el caso de que en los contenidos de información solicitados se den dos o más de los supuestos mencionados en esta fracción, se dará atención en el supuesto del mayor plazo, con excepción del inciso a);
-
-III. Cuando la respuesta del área se remita por el supuesto del inciso a) de la fracción anterior, la Unidad de Transparencia, realizará el requerimiento de manera inmediata;
-
-IV. Cuando la respuesta del área se remita por los supuestos de los incisos b) y c) de la fracción II, la Unidad de Transparencia dará respuesta al solicitante dentro del plazo establecido en la normatividad aplicable; y
-
-V. Cuando la respuesta del área se remita por los supuestos de los incisos d) y e) de la fracción II, la Unidad de Transparencia la turnará en el plazo de dos días hábiles a la Secretaría para la Gestión, para que el Comité resuelva lo conducente dentro del plazo establecido en la normatividad aplicable.
+V. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 ###### Artículo 23.
 
@@ -407,13 +471,17 @@ La información deberá ser entregada sin costo, cuando implique la entrega de n
 
 La Unidad de Transparencia podrá exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante.
 
-Cuando la información corresponda a más de veinte hojas simples, deberá cubrirse de manera previa a la entrega el costo por su reproducción, el cual será fijado por el Pleno, para su destino al Fondo de Apoyo a la Administración de Justicia.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+Cuando la información corresponda a más de veinte hojas simples, deberá cubrirse de manera previa a la entrega el costo por su reproducción, el cual será fijado por el Comité de Transparencia, para su destino al Fondo de Apoyo a la Administración de Justicia.
 
 ###### Artículo 26.
 
 Del medio de comunicación para el trámite
 
-El sistema electrónico institucional será el medio de comunicación preferente para el trámite de los procedimientos de acceso a la información pública entre la Unidad de Transparencia y las áreas.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+El correo electrónico institucional será el medio de comunicación para el trámite de los procedimientos de acceso a la información pública entre la Unidad de Transparencia y las áreas.
 
 ###### Artículo 27.
 
@@ -427,7 +495,9 @@ Para el caso de que el requirente solicite la entrega de la información en un l
 
 De la atención de los recursos de revisión
 
-En la atención de los recursos de revisión interpuestos por el solicitante ante el Instituto, la Unidad de Transparencia dará trámite en los términos y plazos señalados en normatividad aplicable.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+En la atención de los recursos de revisión interpuestos por la persona solicitante, la Unidad de Transparencia dará trámite en los términos y plazos señalados en la normativa aplicable.
 
 Las áreas deberán atender los requerimientos de la Unidad de Transparencia y del Comité de acuerdo a los términos señalados por dichas autoridades y bajo el principio de economía procedimental.
 
@@ -435,15 +505,21 @@ Las áreas deberán atender los requerimientos de la Unidad de Transparencia y d
 
 Del acceso a la información en el trámite de los recursos de revisión
 
-Cuando se requiera en términos del artículo 153 de la Ley, que alguno de los Comisionados del Instituto tenga acceso la información clasificada para determinar su naturaleza, se observará lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-I. El Comisionado del Instituto, deberá remitir la solicitud de acceso al titular de la Unidad de Transparencia, con un mínimo de cinco días hábiles de anticipación al que pretenda llevarse a cabo la diligencia, quien de inmediato la hará del conocimiento del titular del área correspondiente y de los integrantes del Comité;
+Cuando se requiera en términos del artículo 150 de la Ley, que la Autoridad garante tenga acceso a la información clasificada para determinar su naturaleza, se observará lo siguiente:
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+I. Deberá remitir la solicitud de acceso al titular de la Unidad de Transparencia, con un mínimo de cinco días hábiles de anticipación al que pretenda llevarse a cabo la diligencia, quien de inmediato la hará del conocimiento del titular del área correspondiente y de los integrantes del Comité;
 
 II. La solicitud deberá estar debidamente fundada y motivada, precisando el objeto y alcances de la diligencia;
 
-III. La diligencia se entenderá exclusivamente con el Comisionado competente;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-IV. La información clasificada será consultada en el lugar en que se encuentre para su resguardo;
+III. La diligencia se entenderá exclusivamente con los integrantes de la Autoridad garante;
+
+IV. (DEROGADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 V. Por ningún motivo o circunstancia la información podrá reproducirse, divulgarse o difundirse a través de medio alguno;
 
@@ -455,7 +531,9 @@ VII. En aquellos casos en que la instancia sea un órgano jurisdiccional, con ex
 
 De la elaboración de las versiones públicas
 
-Los titulares de las áreas serán los responsables de elaborar las versiones públicas de toda la documentación que se encuentren bajo su resguardo, de conformidad con la normativa aplicable.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+Las personas titulares de las áreas serán las responsables de verificar que se elaboren las versiones públicas de la documentación que se encuentren bajo su resguardo, con motivo del cumplimiento de las obligaciones de transparencia o de una solicitud de información.
 
 La publicidad de las versiones públicas no requerirá de aprobación alguna.
 
@@ -477,9 +555,13 @@ La Unidad de Transparencia coordinará los trabajos al interior del Consejo para
 
 Tendrá las siguientes funciones:
 
-I. Recabar la información generada, organizada y preparada por las áreas únicamente para supervisar que cumplan con los criterios establecidos en los Lineamientos Técnicos Generales; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-II. Verificar que todas las áreas hayan publicado y actualizado en la sección de transparencia del portal del Consejo en internet y en la PNT que le corresponda en los tiempos y periodos establecidos en los Lineamientos Técnicos Generales.
+I. Recabar la información generada, organizada y preparada por las áreas únicamente para supervisar que cumplan con los criterios establecidos en la normativa respectiva; y
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+II. Verificar que todas las áreas hayan publicado y actualizado en la sección de transparencia del portal del Consejo en internet y en la PNT que le corresponda en los tiempos y periodos establecidos en la normativa respectiva.
 
 La responsabilidad última del contenido de la información es exclusiva de las áreas. El incumplimiento en la publicación de las obligaciones de transparencia, se hará del conocimiento del Comité.
 
@@ -487,7 +569,9 @@ La responsabilidad última del contenido de la información es exclusiva de las 
 
 De las obligaciones de las áreas
 
-I. Deberán publicar, actualizar y/o validar la información de las obligaciones de transparencia en la sección correspondiente al portal del Consejo en Internet y en la PNT, en el tramo de administración y con las claves de acceso que le sean otorgadas por el administrador del sistema, y conforme lo establecido en los Lineamientos Técnicos Generales; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+I. Deberán publicar, actualizar y/o validar la información de las obligaciones de transparencia en la PNT, en el tramo de administración y con las claves de acceso que le sean otorgadas por el administrador del sistema, y conforme lo establecido en la normativa respectiva; y
 
 II. Será responsabilidad del titular de cada área establecer los procedimientos necesarios para identificar, organizar, publicar, actualizar y validar la información que generan y/o poseen en ejercicio de sus facultades, competencias y funciones.
 
@@ -495,25 +579,23 @@ II. Será responsabilidad del titular de cada área establecer los procedimiento
 
 De la difusión de las obligaciones de transparencia
 
-La difusión de la información de las obligaciones de transparencia se realizará a través del portal del Consejo en Internet.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-La información pública derivada de las obligaciones de transparencia forma parte de los sistemas de archivos y gestión documental del Consejo, por tanto, los titulares de las áreas deberán asegurarse de que lo publicado en el portal del Consejo en Internet guarde coherencia con los documentos y expedientes que están bajo su resguardo.
+La difusión de la información de las obligaciones de transparencia se realizará a través de la PNT.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+Las áreas deberán asegurarse que la información publicada guarde coherencia con los documentos y expedientes que están bajo su resguardo.
 
 ### CAPÍTULO QUINTO. DEL ACCESO A LA INFORMACIÓN PÚBLICA DEL CONSEJO
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
 ###### Artículo 34.
 
 De la petición de sentencias o resoluciones en trámite, no emitidas, sin engrose o sin versión pública disponibles
 
-Si la petición involucra sentencias y demás resoluciones, cuando aún no se cuente con el engrose disponible o con su versión pública, se procederá de la siguiente manera:
-
-I. Tratándose de sentencias y resoluciones cuyo engrose no se encuentre disponible, la instancia respectiva informará esa circunstancia a la Unidad de Transparencia y quedará vinculada para que, una vez que cuente con la versión pública del engrose correspondiente, se lo remita para su debida notificación al peticionario. Para tales fines, se deberá notificar a la mencionada Unidad de Transparencia, vía correo electrónico, el día que el engrose se incorpore a la red;
-
-II. Tratándose de sentencias y resoluciones cuyo engrose se encuentre disponible, pero no así la versión pública, se requerirá a la instancia correspondiente para que proceda a su elaboración;
-
-III. En el acceso de las solicitudes que se refieran a sentencias y resoluciones que aún no se emiten, la instancia respectiva informará esa circunstancia a la Unidad de Transparencia; y
-
-IV. La Unidad de Transparencia o el Módulo de Acceso correspondiente notificará lo conducente al peticionario dentro de los dos días hábiles siguientes a la recepción.
+Si la petición involucra sentencias y demás resoluciones, cuando aún no se emitan o no se cuente con el engrose respectivo, el área informará esa circunstancia a la Unidad de Transparencia.
 
 ###### Artículo 35.
 
@@ -635,9 +717,9 @@ La responsabilidad de verificar que se realice dicha integración corresponderá
 
 De la consulta a las versiones públicas de la totalidad de las sentencias y de las resoluciones con que culminen los procedimientos competencia de los órganos jurisdiccionales
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-Las sentencias podrán consultarse por cualquier persona una vez que se emitan, por lo que deberán incorporarse al Sistema Integral de Seguimiento de Expedientes o, en su caso, al Sistema Integral de Gestión de Expedientes, en versión pública, salvo que se actualice alguna de las hipótesis legales que restrinjan la totalidad del documento, de conformidad con lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública.
+Las sentencias podrán consultarse por cualquier persona una vez que se emitan, por lo que deberán incorporarse al Sistema Integral de Seguimiento de Expedientes o, en su caso, al Sistema Integral de Gestión de Expedientes, en versión pública, salvo que se actualice alguna de las hipótesis legales que restrinjan la totalidad del documento, de conformidad con lo previsto en la Ley.
 
 La consulta de las versiones públicas de las sentencias emitidas por los jueces de Distrito o magistrados de Circuito de los Centros de Justicia Penal Federal, se realizará a través del Buscador de sentencias especializado en el sistema de justicia penal adversarial.
 
@@ -710,3 +792,15 @@ D.O.F. 16 DE ENERO DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las presentes adecuaciones normativas tendrán aplicación en la temporalidad establecida en el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, en correlación con el diverso Sexto Transitorio del Decreto por el que se expide la Ley Orgánica del Poder Judicial de la Federación, hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial determinen lo que corresponda.
+
+CUARTO. Para la implementación del presente Acuerdo no se realizará la creación de nuevas estructuras en las áreas y entes que son referidos.
