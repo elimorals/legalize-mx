@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-05-13"
+last_updated: "2025-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -1561,9 +1561,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad; y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Las leyes de la Entidad deberán prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento de los derechos alimentarios;
+Para los efectos de esta fracción, los derechos alimentarios comprenden la alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto. Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales y con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo. Las leyes de la Entidad deberán prever los procedimientos y la orientación jurídica necesaria, así como las medidas de apoyo para asegurar el cumplimiento de los derechos alimentarios;
 
 II. Registrarlos ante la oficialía de registro civil correspondiente dentro de los primeros sesenta días de vida;
 
@@ -2828,6 +2830,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0198.- ADICIONES AL ARTÍCULO 66 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0209.- QUE REFORMA EL ARTÍCULO 92, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
