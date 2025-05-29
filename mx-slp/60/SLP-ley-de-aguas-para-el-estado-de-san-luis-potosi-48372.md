@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2025-04-25"
+last_updated: "2025-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1375,6 +1375,14 @@ Así mismo, deberá expedir el reglamento que determine la integración y funcio
 
 En la integración de los comités de agua rurales se deberá procurar la paridad de género entre hombres y mujeres, estableciendo en el reglamento que refiere el párrafo anterior de este artículo, los mecanismos y lineamientos para su aplicación.
 
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2025)</small>
+
+Los comités de agua rurales, con el apoyo del Ayuntamiento respectivo prestarán los servicios públicos de agua potable, alcantarillado y en su caso el de aguas residuales tratadas, en los lugares en que existan estos servicios, dándole prelación a la modalidad de uso doméstico. Los comités actuarán orientados por las necesidades específicas de su localidad en materia de agua potable, alcantarillado y tratamiento de aguas residuales, y en seguimiento a esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2025)</small>
+
+Los servicios de alcantarillado y tratamiento de aguas residuales, solo lo prestarán los comités de agua rurales cuando así lo decidan y demuestren tener la capacidad técnica, de infraestructura, financiera y humana para hacerlo, pero sin que esta determinación soslaye a los ayuntamientos de su obligación de garantizarlos.
+
 ###### ARTICULO 82.
 
 Los comités de agua rurales estarán integrados por:
@@ -1398,6 +1406,10 @@ El Ayuntamiento deberá incluir en su proyecto de ley de ingresos respectiva, la
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
 
 ARTICULO 83 BIS. Los ingresos obtenidos serán destinados exclusivamente a hacer más eficiente la operación y el funcionamiento del comité de agua rural, así como a la ampliación y mejoramiento de la infraestructura hidráulica del mismo.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2025)</small>
+
+Los informes de administración y financieros de los comités de agua rurales, deberán ser puestos a disposición pública de los ayuntamientos.
 
 ###### ARTICULO 84.
 
@@ -3904,3 +3916,13 @@ P.O. 25 DE ABRIL DE 2025.
 PRIMERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0210.- ADICIONES A LOS ARTÍCULOS 81 Y 83 BIS, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Se concede un plazo de seis meses a partir de la entrada en vigencia de este Decreto, para que los ayuntamientos actualicen los reglamentos de los comités de agua rurales.
