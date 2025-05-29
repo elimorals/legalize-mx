@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2023-03-24"
+last_updated: "2025-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1439,7 +1439,9 @@ XX.- Migración y Asuntos Internacionales;
 
 XXI.- Asuntos Municipales;
 
-XXII.- Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
+
+XXII.- Ciencia, Humanidades, Tecnología e Innovación;
 
 XXIII.- Juventud y Deporte;
 
@@ -1457,9 +1459,9 @@ XXIX.- Vivienda;
 
 XXX.- Asuntos Metropolitanos;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
 
-XXXI.- Grupos Vulnerables;
+XXXI.- Atención a Personas en Situación de Vulnerabilidad;
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2014)</small>
 
@@ -1551,9 +1553,9 @@ II.- Diario de Debates, Crónica Legislativa y Asuntos Editoriales;
 
 III.- Atención Ciudadana;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2025)</small>
 
-IV.- Innovación y Tecnología; y
+IV.- Tecnología, Innovación y Sostenibilidad; y
 
 V.- Comunicación Social.
 
@@ -3026,3 +3028,11 @@ P.O. 24 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO; Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA."]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
