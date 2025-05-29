@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-del-servicio-profesional-de-carrera-en-el-centro-16032
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-09-27"
-last_updated: "2024-10-31"
+last_updated: "2025-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA EN EL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA EN EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025 (DEROGADA).
 
 Estatuto publicado en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2022.
 
@@ -676,3 +678,35 @@ El presente Acuerdo, entrará en vigor el día siguiente al de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Estatuto del Servicio Profesional de Carrera del Centro de Conciliación Laboral del Estado de Tamaulipas.
+
+P.O. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto del Servicio Profesional de Carrera del Centro de Conciliación Laboral del Estado de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto del Servicio Profesional de Carrera en el Centro de Conciliación Laboral del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado número 115, de fecha 27 de septiembre de 2022.
+
+###### ARTÍCULO TERCERO.
+
+El Director General del Centro de Conciliación Laboral del Estado de Tamaulipas realizará todos los trámites y gestiones necesarias para la difusión del presente Estatuto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Estatuto del Servicio Profesional de Carrera del Centro de Conciliación Laboral del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Como lo establece el presente Estatuto, la implementación del servicio profesional de carrera será gradual conforme a las disposiciones que presente el Titular de la Dirección General y que sean aprobados por la Junta de Gobierno.
+
+###### ARTÍCULO SEXTO.
+
+Se contará con 180 días a partir de la entrada en vigor del presente Estatuto para que se haya realizado el primer concurso conforme a la Ley, a fin de incorporar a los Servidores Públicos al Servicio Profesional de Carrera.
+
+Por lo anterior, se extiende el plazo de los nombramientos de las Jefaturas de Departamento de Conciliación hasta que se emitan los nuevos nombramientos para quienes ingresen al Servicio Profesional de Carrera (SPC) del Centro de Conciliación Laboral del Estado de Tamaulipas, conforme a lo dispuesto en el presente Estatuto, en términos del artículo 684-U, de la Ley Federal del Trabajo.
+
+Establecido el Servicio Profesional de Carrera, y si, por reestructuración se incorporan nuevos puestos al Catálogo, las personas que los hayan ocupado por al menos un año podrán ser designadas como encargadas de despacho por un máximo de un año. Durante este periodo, deberán seguir el procedimiento de ingreso al SPC, y si no obtienen su nombramiento dentro de ese plazo, se concluirá su nombramiento temporal sin responsabilidad para el CCLT y se concursará el puesto.
