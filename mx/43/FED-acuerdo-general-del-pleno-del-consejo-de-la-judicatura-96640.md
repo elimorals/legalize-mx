@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2024-12-20"
+last_updated: "2025-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2025.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -81,6 +81,10 @@ I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que r
 
 II. Áreas administrativas: las unidades administrativas y los órganos auxiliares;
 
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+II. Bis Autoridad garante: Órgano colegiado integrado por las personas titulares de la Contraloría del Consejo de la Judicatura Federal, Secretaría Ejecutiva de Disciplina y Secretaría Ejecutiva de Vigilancia;
+
 III. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)
 
 IV. Consejo: Consejo de la Judicatura Federal;
@@ -103,9 +107,7 @@ VIII. Ley: Ley Orgánica del Poder Judicial de la Federación;
 
 VIII. Bis. Ley de Carrera Judicial: Ley de Carrera Judicial del Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
-
-IX. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Información Pública;
+IX. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL CENTRO DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
@@ -2711,11 +2713,15 @@ El Titular de la Unidad de Transparencia, tendrá las siguientes atribuciones:
 
 I. Publicar en Internet las sentencias ejecutorias o resoluciones públicas relevantes generadas por los órganos jurisdiccionales e informar trimestralmente al Comité de Transparencia sobre los avances en la conformación del banco de datos;
 
-II. Operar y mantener actualizado el diccionario biográfico a través del Sistema de Recursos Humanos;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+II. Operar y mantener actualizado el diccionario biográfico a través del Sistema de Recursos Humanos, con apoyo de la Secretaría Ejecutiva de Vigilancia;
 
 III. Planear, programar, dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo;
 
-IV. Representar al Consejo, ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+IV. Presentar las pruebas y alegatos en los recursos de revisión ante la autoridad garante, así como proporcionar cualquier apoyo que se requiera para la resolución de los mismos;
 
 V. Proponer al personal de la unidad administrativa a su cargo;
 
@@ -2723,13 +2729,17 @@ VI. Informar a las áreas competentes, con la periodicidad que corresponda, sobr
 
 VII. Administrar el Portal de Transparencia;
 
-VIII. Ejercer las atribuciones conferidas en la Ley General de Transparencia y Ley Federal de Transparencia, así como la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-IX. Notificar al Consejero Jurídico del Poder Ejecutivo Federal las resoluciones del Instituto Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que se relacionen con el supuesto previsto en el artículo 110, fracción I, de la Ley Federal de Transparencia, para que pueda valorar la posible vulneración a la seguridad nacional y, en su caso, impugnarlas ente (sic) la Suprema Corte de Justicia de la Nación, en términos del artículo 189 de la Ley General de Transparencia; y
+VIII. Ejercer las atribuciones conferidas en la Ley General de Transparencia y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA ARMONIZACIÓN NORMATIVA DERIVADA DE LA REESTRUCTURACIÓN Y FORTALECIMIENTO DE LAS ÁREAS ADMINISTRATIVAS ADSCRITAS A LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 7 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
 
-X. Las demás que le confiera la Presidencia, el Comité de Transparencia y las disposiciones aplicables.
+IX. Notificar a la persona titular de la Consejería Jurídica del Ejecutivo Federal las resoluciones de la Autoridad garante que se relacionen con el supuesto previsto en el artículo 112, fracción I, de la Ley General de Transparencia, para que pueda valorar la posible vulneración a la seguridad nacional y, en su caso, impugnarlas ente (sic) la Suprema Corte de Justicia de la Nación, en términos de los artículos 160 y 184 de la Ley General de Transparencia; y
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, D.O.F. 29 DE MAYO DE 2025)</small>
+
+X. Las demás que le confiera la Presidencia, la Autoridad garante, el Comité de Transparencia y las disposiciones aplicables.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -7706,3 +7716,15 @@ D.O.F. 20 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo en intranet e internet.
+
+D.O.F. 29 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las presentes adecuaciones normativas tendrán aplicación en la temporalidad establecida en el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de reforma del Poder Judicial, en correlación con el diverso Sexto Transitorio del Decreto por el que se expide la Ley Orgánica del Poder Judicial de la Federación, hasta en tanto el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial determinen lo que corresponda.
+
+CUARTO. Para la implementación del presente Acuerdo no se realizará la creación de nuevas estructuras en las áreas y entes que son referidos.
