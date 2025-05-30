@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2024-08-16"
+last_updated: "2025-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -441,6 +441,16 @@ Los registros extemporáneos de nacimiento se realizarán conforme al procedimie
 
 El Oficial del Registro Civil, para garantizar el derecho a la identidad de las personas, realizará de manera gratuita la expedición de la primera copia certificada del acta de nacimiento con motivo del registro, incluyendo los casos en que el registro sea extemporáneo.
 
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+###### Art. 67 Bis.
+
+En el caso de que se realice un registro extemporáneo de nacimiento, es decir, cuando la inscripción del nacimiento se efectúe después del plazo establecido, se deberá proceder conforme a las disposiciones y procedimientos establecidos en el Reglamento del Registro del Estado Civil para el Estado de Campeche.
+
+Además, en estos casos, podrán requerirse pruebas adicionales que acrediten el hecho del nacimiento, tales como documentos médicos, testimonios o cualquier otra evidencia pertinente que respalde la solicitud de inscripción fuera de plazo. La finalidad de este procedimiento es asegurar que, aunque el registro se realice de forma extemporánea, se mantengan los estándares legales y administrativos que protejan los derechos de la persona registrada y aseguren la correcta integración de los datos en el sistema del Registro del Estado Civil.
+
+Para las localidades de la Entidad en donde no haya oficinas del Registro Civil, la Dirección del Registro del Estado Civil, atendiendo a la disponibilidad presupuestaria podrá implementar campañas periódicas para acercar el servicio a la población y en su caso, regularizar el estado civil de las personas que así lo requieran.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2019)</small>
 
 ###### Art. 68.
@@ -482,6 +492,14 @@ EI acuerdo de los padres respecto al orden de los apellidos, regirá para los de
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 Si éste se presenta como hijos de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y un apellido, sin hacer mención de esta circunstancia en el acta.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+Las copias certificadas de las actas de nacimiento expedidas por la Dirección del Registro del Estado Civil no tendrán fecha de caducidad, por lo que podrán ser utilizadas para la realización de trámites ante cualquier entidad pública o privada, siempre que se encuentren legibles y no presenten tachaduras, enmendaduras ni alteraciones que modifiquen su contenido, ni tampoco cuando sobrevenga un cambio de nombre, estado civil u otra circunstancia que afecte los datos inscritos en el documento.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+Las autoridades públicas del Estado, los municipios y los órganos autónomos deberán recibir, reconocer y validar las actas mencionadas en el párrafo anterior. En caso contrario, podrán ser sancionadas de acuerdo con lo dispuesto en la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.
 
 Si el nacimiento ocurriere en un establecimiento de reclusión o de reinserción social, el Oficial del Registro Civil deberá asentar como domicilio del nacido, el nombre de la población del Estado que corresponda.
 
@@ -1010,6 +1028,12 @@ La rectificación o enmienda a las actas del Registro Civil se hará en un plazo
 ###### Art. 147.
 
 La nulidad de las actas del Registro Civil o la rectificación de las mismas que importe alteración de la filiación, se tramitarán ante la autoridad judicial, con audiencia del Ministerio Público, a través del juicio que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+###### Art. 147 Bis.
+
+Cuando una persona tenga conocimiento de la existencia de dos registros de nacimiento a su nombre, en los archivos del Registro del Estado Civil, podrá solicitar, mediante escrito, la reserva administrativa de uno de los actos, siempre que acredite de manera fehaciente que se trata de la misma persona, sin perjuicio de las acciones legales que pueda emprender para solicitar la nulidad de dicho registro; para tal efecto se deberá proceder conforme al Reglamento del Registro del Estado Civil.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -16692,3 +16716,13 @@ TERCERO.- Con motivo de la entrada en vigor del presente decreto, las secretarí
 CUARTO.- Para el debido cumplimiento del presente decreto las secretarías, dependencias y entidades de la administración pública estatal deberán contar con protocolos para la atención de los diferentes grupos de la diversidad sexual.
 
 QUINTO.- Se derogan todas las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al contenido del presente decreto.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 92 POR EL QUE “SE ADICIONAN EL ARTÍCULO 67 BIS; LOS PÁRRAFOS QUINTO Y SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, AL ARTÍCULO 71 Y EL ARTÍCULO 147 BIS DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Gobierno de la Administración Pública del Estado, en conjunto con la Dirección del Registro del Estado Civil, contará con 120 días hábiles contados a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones a los reglamentos y emitir las disposiciones correspondientes.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
