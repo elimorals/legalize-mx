@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2022-07-01"
+last_updated: "2025-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2025.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -226,6 +226,16 @@ Las finanzas públicas del Estado estarán apegadas a las reglas de disciplina f
 > <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2018)</small>
 
 Asimismo, para satisfacer los objetivos a los que estén destinados, los recursos públicos de que dispongan las Unidades Presupuestales se administrarán de conformidad con los principios de: eficiencia, eficacia, economía, transparencia, honradez, rendición de cuentas y evaluación del desempeño. Para tal efecto, los Poderes, así como los Organismos Autónomos, tienen la obligación de publicar en sus portales de Internet, en los primeros cinco días de cada mes, la información financiera de sus unidades presupuestales, tanto sus ingresos como egresos; las participaciones mensuales por fondos que reciben distinguiendo los factores de distribución que le corresponde al Estado, los descuentos por concepto que realiza la Secretaría de Hacienda y Crédito Público, las aportaciones federales, los convenios provenientes del Ramo 23, los recursos de hidrocarburos recibidos tanto terrestres como marítimos, los remanentes de la bursatilización; el Impuesto Sobre la Renta participable, la deuda pública con su destino final, deuda contingente o circulante por dependencia, entidad, municipio u órgano autónomo; los estados financieros de los informes trimestrales del gasto público con las notas describiendo las cuentas de orden debidamente desglosadas como la marca la Ley de Contabilidad Gubernamental, así como todo reporte que deba ser entregado a la Federación en cumplimiento a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y al cumplimiento del principio de transparencia a que se refiere la fracción I del presente Código. El incumplimiento de este artículo será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado.
+
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2025)</small>
+
+###### Artículo 6 Bis.
+
+El Gobierno del Estado, a través de la Secretaría de Finanzas y Planeación, revisará, dictaminará e integrará la totalidad de los adeudos y pasivos de las Dependencias, Organismos Públicos Descentralizados y Municipios, con la finalidad de realizar una planeación financiera integral de todos los adeudos y pasivos del Estado de Veracruz de Ignacio de la Llave.
+
+La revisión se realizará sobre el ejercicio fiscal inmediato anterior al ejercicio actual, así como por los meses específicos que la Secretaría determine revisar del ejercicio en curso.
+
+Una vez concluida la revisión y presentado el Dictamen de integración de adeudos y pasivos del ejercicio correspondiente, no se podrán incluir adeudos y pasivos adicionales, los cuales se tendrán que incorporar en el ejercicio siguiente, previa dictaminación de la SEFIPLAN, siempre y cuando se justifique su reconocimiento como adeudo y/o pasivo.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1774,6 +1784,10 @@ Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán
 > <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2020)</small>
 
 El incumplimiento en los plazos señalados en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73, fracciones I incisos b) y c) y VII respectivamente, de este Código. Las autoridades fiscales emitirán las Reglas de Carácter General a las que se sujetará el contador público autorizado para la elaboración del Dictamen.
+
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2025)</small>
+
+Quedan exentos de dictaminarse las Dependencias, Organismos Públicos Descentralizados y Municipios en materia de Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, toda vez que de conformidad con el artículo 6 Bis, el Gobierno del Estado de Veracruz de Ignacio de la Llave a través de la Secretaría de Finanzas y Planeación, llevará a cabo la dictaminación de todos sus adeudos y pasivos, incluyendo el del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
 
 > <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -5970,3 +5984,13 @@ G.O. 1 DE JULIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado.
 
 SEGUNDO. Se deroga cualquier otra disposición que se oponga al presente Decreto.
+
+G.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 247 POR EL QUE SE ADICIONA EL ARTÍCULO 6 BIS Y UN CUARTO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 104, AMBOS DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y administrativas de igual o menor jerarquía del marco jurídico estatal que se opongan al presente Decreto.
+
+Tercero. Se concede un plazo de 90 días, contados a partir de la vigencia del presente Decreto, a efecto de que la Secretaría de Finanzas y Planeación realice las adecuaciones pertinentes a las disposiciones normativas y reglamentarias aplicables para dar cumplimiento efectivo a este Decreto.
