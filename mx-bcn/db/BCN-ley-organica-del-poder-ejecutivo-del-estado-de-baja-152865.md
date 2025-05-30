@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2025-01-31"
+last_updated: "2025-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -219,6 +219,8 @@ La Persona Titular del Poder Ejecutivo contará con la Coordinación de Gabinete
 
 La Coordinación de Gabinete contará con las unidades de asesoría, de apoyo técnico, de planeación del desarrollo, de coordinación y atribuciones que determine su reglamento, sin perjuicio de las atribuciones que ejercen las dependencias y entidades paraestatales de la Administración Pública en el ámbito de sus respectivas competencias. La Persona Titular del Poder Ejecutivo designará a la persona titular de la Coordinación de Gabinete.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 30 DE MAYO DE 2025, PÁGINA 4.]</small>
+
 ###### ARTÍCULO 21.
 
 Para el ejercicio de sus funciones corresponderá a la Coordinación de Gabinete, lo siguiente:
@@ -237,13 +239,11 @@ VI. Proponer a la Persona Titular del Poder Ejecutivo la organización de la Adm
 
 VII. Coordinar el Consejo de Impacto y Seguimiento de Asuntos Prioritarios de la Administración Pública;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+VIII. (DEROGADA, P.O. 30 DE MAYO DE 2025)
 
-VIII. Conducir y supervisar la ejecución de la política pública de Mejora Regulatoria del Estado, así como las acciones que corresponden en esta materia al Poder Ejecutivo a fin de promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de estos;
+IX. (DEROGADA, P.O. 30 DE MAYO DE 2025)
 
-IX. Dar seguimiento a los resultados en materia de gestión de datos, gobierno abierto, gobierno digital y gobernanza tecnológica;
-
-X. Definir la estrategia de crecimiento, administración y operación de la red estatal de telecomunicaciones y las redes particulares de las dependencias y entidades paraestatales de la Administración Pública integradas a éstas, asegurando el desarrollo ordenado de la infraestructura de cómputo y telecomunicaciones del Poder Ejecutivo; así como operar y administrar, la red estatal de datos y las redes particulares de las dependencias y entidades paraestatales de la Administración Pública que así lo soliciten;
+X. (DEROGADA, P.O. 30 DE MAYO DE 2025)
 
 XI. Coordinar y vigilar las actividades y el ejercicio de las atribuciones de las y los asesores especializados en temas jurídicos, técnicos y operativos, asignados a la Persona Titular del Poder Ejecutivo;
 
@@ -257,7 +257,7 @@ XV. Coordinar la atención y el seguimiento hasta su conclusión a los escritos 
 
 XVI. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
-Las atribuciones a que se refieren las fracciones VIII, IX y X del presente artículo, se realizarán por conducto del órgano desconcentrado que se determine para esos efectos en la ley o decreto correspondiente.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE MAYO DE 2025)</small>
 
 En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los miembros del gabinete en un mismo lugar, las reuniones podrán celebrarse a distancia, empleando medios electrónicos, ópticos o cualquier otra tecnología que permita su funcionamiento.
 
@@ -605,9 +605,29 @@ XXIII. Administrar el Archivo del Poder Ejecutivo, así como coordinar las unida
 
 XXIV. Tramitar el pago de proyectos de inversión y de adquisiciones y servicios de la Administración Pública Centralizada;
 
-XXV. Dar seguimiento, conjuntamente con la Coordinación de Gabinete o el órgano que se determine a las políticas, lineamientos y criterios técnicos en materia de tecnologías de informática y de las telecomunicaciones a que deberán sujetarse las dependencias y entidades paraestatales de la Administración Pública y asegurar su cumplimiento; y,
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2025)</small>
 
-XXVI Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
+XXV. Dar seguimiento a las políticas lineamientos y criterios técnicos en materia de tecnologías de informática y de las telecomunicaciones a que deberán sujetarse las dependencias y entidades paraestatales de la Administración Pública y asegurar su cumplimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2025)</small>
+
+XXVI. Conducir y supervisar la ejecución de la política pública de Mejora Regulatoria del Estado, así como las acciones que corresponden en esta materia al Poder Ejecutivo a fin de promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de estos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2025)</small>
+
+XXVII. Dar seguimiento a los resultados en materia de gestión de datos, gobierno abierto, gobierno digital y gobernanza tecnológica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2025)</small>
+
+XXVIII. Definir la estrategia de crecimiento, administración y operación de la red estatal de telecomunicaciones y las redes particulares de las dependencias y entidades paraestatales de la Administración Pública integradas a éstas, asegurando el desarrollo ordenado de la infraestructura de cómputo y telecomunicaciones del Poder Ejecutivo; así como operar y administrar, la red estatal de datos y las redes particulares de las dependencias y entidades paraestatales de la Administración pública que así lo soliciten; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE MAYO DE 2025)</small>
+
+XXIX. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2025)</small>
+
+Las atribuciones a que se refieren las fracciones XXV, XXVI, XXVII y XXVIII del presente artículo, se realizarán por conducto del órgano desconcentrado que se determine para esos efectos en la ley o decreto correspondiente.
 
 ###### ARTÍCULO 34.
 
@@ -1053,7 +1073,7 @@ XL. Impulsar la creación del Consejo Estatal de la Industria del Turismo Médic
 
 XLI. Promover y diseñar la política de salud veterinaria que incluya el programa estatal de zoonosis y ejecutar y evaluar las acciones preventivas e integrales de control, en coordinación con la Secretaría del Medio Ambiente y Desarrollo Sustentable a través del órgano que se determine;
 
-XLII. Participar, en el ámbito de su competencia en la formulación de propuestas ante la Comisión Fronteriza Binacional México - Estados Unidos, a fin de impulsar el intercambio médico y sanitario binacional; y,
+XLII. Participar, en el ámbito de su competencia en la formulación de propuestas ante la Comisión Fronteriza Binacional México – Estados Unidos, a fin de impulsar el intercambio médico y sanitario binacional; y,
 
 XLIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -1183,7 +1203,7 @@ XXV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables
 
 La Secretaría del Trabajo y Previsión Social tendrá las atribuciones y obligaciones siguientes:
 
-I. Ejercer las atribuciones que en materia de trabajo corresponden al Poder Ejecutivo:
+I. Ejercer las atribuciones que en materia de trabajo corresponden al Poder Ejecutivo;
 
 II. Fomentar el trabajo digno con perspectiva de género e inclusión de grupos vulnerables y sensibles, mediante acciones y programas que mejoren la calidad de los empleos existentes e impulsar la generación de empleos;
 
@@ -1191,9 +1211,9 @@ III. Generar y aplicar políticas públicas que establezcan la protección de lo
 
 IV. Difundir, promover y fomentar el empleo para personas con discapacidad y adultos mayores, y lograr en un plano de igualdad de oportunidades su incorporación al mercado laboral, coordinándose con las dependencias de la Administración Pública e instancias competentes;
 
-V. Vigilar la observancia y aplicación en el ámbito de su competencia de las disposiciones contenidas en el artículo 123 y demás relativas de la Constitución Federal, la Constitución del Estado, y Ley Federal del Trabajo y sus reglamentos;
+V. Vigilar la observancia y aplicación en el ámbito de su competencia de las disposiciones contenidas en el artículo 123 y demás relativas de la Constitución Federal, la Constitución del Estado, la Ley Federal del Trabajo y sus reglamentos;
 
-VI. Vigilar, mediante visitas e inspecciones que los centros de trabajo cumplan con las disposiciones legales en materia laboral y realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
+VI. Vigilar, mediante visitas e inspecciones, que los centros de trabajo cumplan con las disposiciones legales en materia laboral y realizar las recomendaciones necesarias cuando así lo ameriten e imponer las sanciones administrativas procedentes;
 
 VII. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo en el Estado, y promover su verificación a través de visitas de inspección;
 
@@ -1205,7 +1225,7 @@ X. Promover ante la instancia correspondiente la integración del Registro Públ
 
 XI. Coordinar la integración, establecimiento y funcionamiento del Tribunal de Arbitraje del Estado, así como de las comisiones que se formen para regular las relaciones obrero patronales de jurisdicción estatal y vigilar su funcionamiento conforme a la Ley del Servicio Civil, la Ley Federal del Trabajo y demás normatividad aplicable;
 
-XII. Organizar y operar el Servicios Estatal del Empleo, previo diagnóstico de la oferta y demanda de trabajo en el Estado;
+XII. Organizar y operar el Servicio Estatal del Empleo, previo diagnóstico de la oferta y demanda de trabajo en el Estado;
 
 XIII. Ejecutar los convenios y acuerdos que en materia de trabajo, firme la Persona Titular del Poder Ejecutivo con la Federación, previa validación de la Consejería Jurídica, coadyuvando con la dependencia federal correspondiente en la formulación de contratos-ley, tratándose de empresas de jurisdicción local;
 
@@ -1217,7 +1237,7 @@ XVI. Coordinar al Centro de Conciliación Laboral del Estado de Baja California,
 
 XVII. Proponer y participar en el Comité de Planeación para el Desarrollo del Estado, para el diseño de la política laboral con visión regional y local, impulsando líneas estratégicas y de acción tendientes a la mejoría de la productividad, la ocupación y el empleo, la capacitación, adiestramiento y certificación, la salud e higiene, y todas aquellas medidas institucionales que tengan como objetivo el fortalecimiento de la planta productiva del Estado y la mejoría de las personas que laboran en ella;
 
-XVIII. Vigilar el cumplimiento por parte del sector empresarial y patronal de los lineamientos en materia de trabajo establecidos en la Ley de Trabajo y demás normas legales aplicables;
+XVIII. Vigilar el cumplimiento por parte del sector empresarial y patronal de los lineamientos en materia de trabajo establecidos en la Ley Federal de Trabajo y demás normas legales aplicables;
 
 XIX. Dar cumplimiento, en el ámbito de su competencia, a los convenios internacionales en materia de derecho laboral;
 
@@ -1225,11 +1245,11 @@ XX. Promover la organización de las personas jornaleras agrícolas y pescadores
 
 XXI. Promover la democracia sindical y tener acceso a la contratación colectiva;
 
-XXII. Diseñar, promover e impartir en su carácter de autoridad corresponsable en términos de la ley de la materia, cursos de capacitación y adiestramiento para el trabajo para personas liberadas de los centros de reinserción social o sujetas a los servicios postpenales para contribuir a la restitución plena del ejercicio de su libertad, así como para personas sin empleo o rehabilitadas del uso de sustancias psicotrópicas o estupefacientes con el fin de reintegrarlos a un trabajo fijo, en coordinación con las dependencias y entidades paraestatales de la Administración Pública, del gobierno federal, Ayuntamiento u organismos públicos o privados;
+XXII. Diseñar, promover e impartir en su carácter de autoridad corresponsable en términos de la ley de la materia, cursos de capacitación y adiestramiento para el trabajo para personas liberadas de los centros de reinserción social o sujetas a los servicios postpenales para contribuir a la restitución plena del ejercicio de su libertad, así como para personas sin empleo o rehabilitadas del uso de sustancias psicotrópicas o estupefacientes con el fin de reintegrarlos a un trabajo fijo, en coordinación con las dependencias y entidades paraestatales de la Administración Pública, del gobierno federal, Ayuntamientos u organismos públicos o privados;
 
 XXIII. Promover la cultura y recreación entre las y los trabajadores y sus familias;
 
-XIV. Vigilar el cumplimiento de la Ley del Servicio Civil del Estado, la reglamentación en la materia y demás normatividad aplicable; y,
+XXIV. Vigilar el cumplimiento de la Ley del Servicio Civil del Estado, la reglamentación en la materia y demás normatividad aplicable; y,
 
 XXV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -2026,3 +2046,29 @@ Segundo.- Los derechos laborales de las personas servidoras públicas y demás p
 Tercero.- Los recursos humanos, materiales, presupuestales y demás que estén asignados para la operación del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado y el Servicio de Asistencia Telefónica, pasarán a cargo de la Fiscalía General del Estado de Baja California y se continuarán realizando las funciones sustantivas correspondientes.
 
 Cuarto.- Dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor de la presente reforma, se deberá adecuar el Reglamento Interno de la Secretaría de Seguridad Ciudadana.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. La Persona Titular del Poder Ejecutivo deberá realizar las modificaciones reglamentarias que resulten necesarias.
+
+Hasta en tanto se lleven a cabo las adecuaciones reglamentarias correspondientes a que se refiere este artículo, la Dirección General de la Agencia Digital del Estado funcionará conforme la estructura orgánica y ejercerá las atribuciones que le confieren las disposiciones reglamentarias vigentes en lo que no se contraponga a las presentes reformas.
+
+Tercero. Los recursos presupuestales y financieros asignados en el Presupuesto de Egresos del Estado de Baja California para el ejercicio fiscal 2025, para la atención del programa de "Gobierno Digital y Abierto al Servicio de la Población" se ejercerán por la Oficialía Mayor para el cumplimiento de las atribuciones y fines de la Dirección General de la Agencia Digital del Estado.
+
+Cuarto. La Oficialía Mayor de Gobierno en un plazo no mayor a sesenta días, deberá:
+
+a) Determinar el cambio o adscripción del personal de las dependencias, órganos, áreas o unidades administrativas que se separan, o transfieren funciones, transforman o modifican competencia, atendiendo a las funciones que previamente desarrollaban; y,
+
+b) Realizar las acciones administrativas necesarias para la transferencia del mobiliario, vehículos, equipos, tecnología, instrumentos, aparatos, maquinaria, archivos, información e instalaciones de las dependencias, órganos, áreas o unidades administrativas, a la dependencia que corresponda en términos de esta Ley, respetando las funciones que previamente se desarrollaban en las mismas.
+
+Quinto. En la transferencia de personal que se realice con motivo de las presentes reformas, cualquiera que sea la naturaleza y forma en que presten sus servicios, se respetarán en todo momento sus derechos laborales. El personal de base cuya relación se encuentre tutelada por lo dispuesto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California quedará a disposición de la Oficialía Mayor de Gobierno y sus derechos adquiridos y demás prestaciones no se afectarán por el presente Decreto.
+
+Sexto. Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos que a la fecha de publicación del Decreto se encuentren vigentes, continuarán surtiendo sus efectos hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
+
+Séptimo. Los asuntos, actos o tramites que se encuentren en curso o estén pendientes de resolución o conclusión a la fecha de entrada en vigor de las presentes reformas, y que con motivo de estas deban ser transferidos de una dependencia o entidad a otra dependencia, pasarán a las dependencias que señale la presente Ley de conformidad con el inicio de vigencia de las presentes reformas y de lo dispuesto en el artículo Octavo Transitorio de esta reforma.
+
+Octavo. Las atribuciones en materia de política de tecnologías de la información y telecomunicaciones para las dependencias y entidades paraestatales de la Administración Pública, a que se refiere el artículo 33, fracción XXVIII de la presente Ley, que actualmente están a cargo de la Secretaría de Hacienda a través de la Subsecretaria de Tecnología de la Información y Comunicaciones, las seguirá ejerciendo hasta en tanto no se emita la norma respectiva y se transfieran a la Oficialía Mayor de Gobierno por sí o a través del órgano que se determine; supuesto en el cual dichas atribuciones quedarán circunscritas al ámbito de competencia que le atribuye esta Ley a la Secretaría de Hacienda, con independencia de la vinculación que deberá tener con la Oficialía Mayor de Gobierno o la Dirección General de la Agencia Digital del Estado para el ejercicio de sus atribuciones.
