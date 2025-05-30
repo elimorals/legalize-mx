@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-05-06"
+last_updated: "2025-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2601,7 +2601,9 @@ III. Violencia obstétrica: Acción u omisión intencional por parte del persona
 
 IV. Violencia patrimonial: Acto u omisión que afecta la supervivencia de la víctima consistente en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades; puede abarcar los daños a los bienes comunes o propios de la víctima;
 
-V. Violencia psicológica: Todo acto u omisión que dañe la estabilidad psíquica o emocional de la victima, consistente en amedrentamientos, humillaciones, denigración, marginación, comparaciones destructivas, rechazo, prohibiciones, coacciones, amenazas, condicionamientos, intimidaciones, celotipia, abandono o actitudes devaluatorias de la autoestima; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2025)</small>
+
+V. Violencia psicológica: Todo acto u omisión que dañe la estabilidad psíquica o emocional de la víctima, consistente en amedrentamientos, humillaciones, denigración, marginación, comparaciones destructivas, rechazo, prohibiciones, coacciones, amenazas, condicionamientos, intimidaciones, celotipia, abandono o actitudes devaluatorias de la autoestima; y
 
 VI. Violencia sexual: Acto que degrada o daña el cuerpo o la sexualidad de la víctima, que atenta contra su libertad, dignidad e integridad, como una expresión de abuso de poder, al denigrarla o concebirla como objeto.
 
@@ -2611,9 +2613,17 @@ VIII. Violencia educativa: Acto u omisión que obstaculice, condicione o excluya
 
 IX. Violencia institucional: Acto u omisión en el ejercicio de la función pública que dilate, obstaculice, niegue la debida atención o impida el acceso a programas, acciones, recursos públicos y al disfrute de políticas públicas, por razones de género,
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2025)</small>
 
-X. Violencia Vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
+X. Violencia Vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que, al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2025)</small>
+
+XI. Violencia mediática: Se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad;
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2025)</small>
+
+XII. Violencia digital: Es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -5592,3 +5602,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232 POR EL QUE SE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 203 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
