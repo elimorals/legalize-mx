@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-05-27"
+last_updated: "2025-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -109,7 +109,9 @@ VIII. De igualdad y no discriminación, por motivos de raza, color, sexo, idioma
 
 IX. A la protección del matrimonio y la familia. Las autoridades velarán por la prevención, sanción y erradicación de la violencia: familiar, contra la mujer y, en su caso, de género;
 
-X. Los niños, niñas y adolescentes gozarán de la protección a sus derechos y a la adopción de las medidas que su condición exijan de la familia, el Estado y la sociedad atendiendo en todo momento a su interés superior;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2025)</small>
+
+X. Los derechos de las niñas, niños y adolescentes serán preferentes sobre cualquier uso y costumbre, el estado y la sociedad estarán obligados a garantizar la protección de sus derechos, principalmente aquellos que se refieran a su desarrollo personal integral y a la adopción de medidas que su condición como persona exijan.
 
 XI. A la identidad expresados en un nombre propio y a los apellidos de los progenitores o al de uno de ellos. La ley determinará la forma de asegurar éste derecho atendiendo, incluso, al género y a los trastornos de la diferenciación sexual, durante todas las etapas del desarrollo humano;
 
@@ -169,17 +171,37 @@ b) A las personas con discapacidades, a recibir atención especial que permita s
 
 c) A toda persona que habite o transite en el Estado, sin importar su procedencia o condición migratoria, a ser tratada humanamente y con respeto a la dignidad inherente al ser humano. El Estado atenderá preventivamente y en coordinación con los municipios los eventuales desplazamientos internos por cualesquiera de las causas que determine la ley correspondiente;
 
-d) De los niños y las niñas a la satisfacción de sus necesidades de alimentación, salud, sano esparcimiento para su desarrollo integral, y a recibir apoyos complementarios para su educación;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
 
-e) De las mujeres embarazadas a no ser discriminadas, a acceder a los servicios de salud materna, y a disponer de las facilidades necesarias para su adecuada recuperación; y,
+d) De los niños y las niñas a la satisfacción de sus necesidades de alimentación, salud, sano esparcimiento para su desarrollo integral, y a recibir apoyos complementarios para su educación y a la decisión sobre su persona para su desarrollo integral, con visión del interés superior del menor sobre cualquier uso y costumbre;
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+
+e) Que las mujeres embarazadas no sean discriminadas, se garantice su acceso a los servicios de salud materna desde el inicio del embarazo, el parto, el puerperio, y a disponer de las facilidades necesarias para su adecuada recuperación; y,
 
 f) De las víctimas de violencia familiar y sexual, maltrato infantil y personas privadas de su libertad, y a cualesquier nueva forma de esclavitud.
 
-IX. El derecho de toda persona a la recreación social, deportiva y cultural, que permita el sano esparcimiento como medida para auspiciar la integración y la convivencia colectiva.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2025)</small>
+
+IX. El derecho de toda persona a la recreación social y deportiva, que permita el sano esparcimiento como medida para auspiciar la integración y la convivencia colectiva.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2025)</small>
+
+IX Bis.- El derecho a la cultura. El Estado de Guerrero garantiza su respeto, promoción y difusión, así como la protección en el acceso a su goce y ejercicio pleno. Se entiende como derecho a la cultura, el derecho humano de todas las personas a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en el beneficio que de él resulten.
+
+Las manifestaciones culturales individuales o colectivas, a las que se refiere el párrafo anterior, son los elementos materiales e inmateriales pretéritos y actuales, reconocidas como identitarias, inherentes a la historia, arte, tradiciones, prácticas y conocimientos que integran la historia del estado de Guerrero.
+
+Toda persona tendrá derecho a conocer, de conformidad a lo que señalen las leyes de la materia, el patrimonio cultural de los bienes y servicios que se encuentran en el territorio guerrerense. El estado de Guerrero garantiza el reconocimiento de la identidad y dignidad de las personas, la libre determinación, autonomía y a la igualdad sustantiva en el acceso a los derechos culturales, procurando que las políticas culturales se den con base a los ejes transversales de perspectiva de género, intergeneracional, e intersección cultural.
+
+Las autoridades culturales promoverán la formación profesional en materia de arte y cultura para contribuir al pleno y libre desarrollo de los derechos culturales.
 
 > <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
 
 X. El derecho de acceder a toda persona de forma libre a internet, a las tecnologías de la información y comunicación.
+
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2025)</small>
+
+XI. El derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 2. El Estado deberá remover los obstáculos que impidan o dificulten el ejercicio de los derechos contenidos en esta sección; y, mediante políticas públicas, hacer realidad el progreso y el bienestar social de sus habitantes, y garantizar su acceso efectivo en los términos del artículo 6.1 de esta Constitución.
 
@@ -211,11 +233,11 @@ Las leyes y normas generales, establecerán los requisitos, condiciones y demás
 
 El Estado de Guerrero sustenta su identidad multiétnica, plurilingüística y pluricultural en sus pueblos originarios indígenas particularmente los nahuas, mixtecos, tlapanecos y amuzgos, así como en sus comunidades afromexicanas.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 9.
 
-Esta Constitución reconoce y garantiza el derecho a la libre determinación y autonomía de los pueblos indígenas y afromexicanos, atendiendo en todo momento a los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Instrumentos Internacionales en la materia e incorporados al orden jurídico nacional.
+Esta Constitución reconoce y garantiza el derecho a la libre determinación y autonomía de los pueblos indígenas y afromexicanos, atendiendo en todo momento a los principios consagrados en la Constitución Política de los Estado Unidos Mexicanos y en los Instrumentos Internacionales en la materia e incorporados al orden jurídico nacional, así como el interés superior de las niñas, niños y adolescentes sobre cualquier uso y costumbre.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -345,7 +367,31 @@ II. Ser votados para los cargos de representación popular, a través de candida
 
 III. Asociarse libre y pacíficamente para participar en los asuntos públicos del Estado;
 
-IV. Participar en los procesos de referéndum, revocación de mandato, plebiscito y demás instrumentos de participación ciudadana;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2025)</small>
+
+IV. Participar en los procesos de referéndum, revocación de mandato, plebiscito y demás instrumentos de participación ciudadana.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE MAYO DE 2025)</small>
+
+El que se refiere a la revocación de mandato de Gobernador, se llevará a cabo conforme lo siguiente:
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+a) Será convocado por el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero a petición de las ciudadanas y ciudadanos por un número equivalente, al menos, al diez por ciento de la lista nominal de electores, en la mitad más uno de los municipios y deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+
+El Instituto, dentro de los siguientes cincuenta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+b) Podrá llevarse a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta y será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+c) Su jornada de votación se efectuará en fecha posterior y no coincidente con procesos electorales o de participación ciudadana local o federal y quien asuma el mandato del ejecutivo revocado concluirá el periodo constitucional.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+d) Para regular y garantizar el ejercicio del derecho político de las ciudadanas y los ciudadanos a solicitar, participar, ser consultados y votar respecto a la revocación del mandato de la persona que resultó electa popularmente como Gobernador del Estado, El Congreso emitirá una ley reglamentaria.
 
 V. Presentar iniciativas de ley ante el Congreso del Estado, con excepción de la materia penal y tributaria, en los términos que establezca la Ley;
 
@@ -1207,6 +1253,10 @@ XXXVI. Autorizar al Gobernador para celebrar convenios sobre los límites del te
 
 XXXVII. Ejercer ante las instancias correspondientes las acciones en defensa del territorio y de la autonomía del Estado;
 
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2025)</small>
+
+XXXVII-Bis. Expedir las leyes que establezcan la coordinación del Estado y sus Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, así como en materia de movilidad y seguridad vial;
+
 XXXVIII. Expedir bases para autorizar al Gobernador y a los municipios la celebración de contratos para la prestación de servicios de mediano y largo plazo, dirigidos a crear infraestructura pública con la participación del sector privado;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
@@ -1387,11 +1437,11 @@ IX. Las demás que le señale esta Constitución.
 
 #### SECCIÓN I. DEL GOBERNADOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 71.
 
-El Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernador Constitucional del Estado de Guerrero.
+El Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernador Constitucional del Estado de Guerrero. No podrá durar en su encargo más de seis años y su mandato podrá ser revocado.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1505,19 +1555,11 @@ El mandato del Gobernador será de seis años improrrogables.
 
 3. El Gobernador interino, provisional, o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, no podrá ser electo para el periodo inmediato, siempre que desempeñe el cargo los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 82.
 
-El Gobernador no podrá ser removido de su cargo sino exclusivamente por las causas establecidas en el título Décimo Tercero de esta Constitución.
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
-
-1. El Gobernador del Estado recibirá una remuneración digna y adecuada, acorde a la naturaleza de su cargo, la cual no podrá ser mayor a la establecida para el Presidente de la República en el presupuesto correspondiente. Sin contravenir lo dispuesto en este precepto, la remuneración podrá ser aumentada justificadamente, y no podrá disminuirse durante el período para el que fue electo.
-
-2. El Gobernador gozará de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado; y,
-
-3. El Gobernador será sujeto de responsabilidad política y penal, en los términos del Título Décimo Tercero de la presente Constitución y de las demás leyes aplicables.
+El Gobernador podrá ser removido de su cargo mediante revocación de mandato y por las causas establecidas en el Título Décimo Tercero de esta Constitución.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1547,15 +1589,23 @@ Las ausencias temporales del Gobernador que no excedan de diez días serán cubi
 
 5. Si la ausencia temporal del Gobernador se convierte en definitiva, se procederá como lo dispone el artículo siguiente.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2025)</small>
 
 ###### ARTICULO 85.
 
-Ante la ausencia definitiva del Gobernador, ocurrida en los dos primeros años del período respectivo, el Congreso se constituirá en colegio electoral para nombrar, por el voto de las dos tercera (sic) partes del total de sus miembros, un Gobernador interino.
+Ante la ausencia definitiva del Gobernador, ocurrida en los dos primeros años del período respectivo, el Congreso se constituirá en colegio electoral para nombrar, por el voto de las dos terceras partes del total de sus miembros, un Gobernador interino.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 El Congreso deberá notificar al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, para que expida la convocatoria a elecciones, procurando que la fecha señalada coincida, si es posible, con la de las próximas elecciones a Diputados.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 Cuando la ausencia del Gobernador ocurra dentro de los cuatro últimos años del período respectivo, el Congreso designará, por el voto de las dos terceras partes del número total de sus miembros, un Gobernador sustituto, que deberá concluir el período.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+
+En caso de haberse revocado el mandato del Gobernador, el Congreso del Estado, dentro de los treinta días siguientes y por el voto de las dos terceras partes del número total de sus miembros, nombrará a un Gobernador Sustituto, quien concluirá el período constitucional.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2573,7 +2623,9 @@ I. Resolver las impugnaciones que se presenten en las elecciones de ayuntamiento
 
 II. Resolver las impugnaciones en contra de actos y resoluciones que violen los derechos político-electorales de los ciudadanos, previo agotamiento del principio de definitividad;
 
-III. Conocer de los medios de impugnación relacionados con los instrumentos de participación ciudadana;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2025)</small>
+
+III. Conocer de los medios de impugnación relacionados con los instrumentos de participación ciudadana, así como en materia de revocación de mandato.
 
 IV. Resolver los medios de impugnación en contra de actos y resoluciones de la autoridad electoral del Estado que violen normas constitucionales o legales;
 
@@ -3523,7 +3575,9 @@ XVII. Aprobar, por el acuerdo de las dos terceras partes de sus miembros, la sol
 
 XVIII. En términos de la Constitución Política de los Estados Unidos Mexicanos, estarán facultados para:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipales; los planes y programas de desarrollourbano (sic), deberán tomar como base lo establecido en los de ordenamiento ecológico y los Atlas de Riesgo.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipales, así como los planes en materia de movilidad y seguridad vial; los planes y programas de desarrollo urbano, deberán tomar como base lo establecido en los de ordenamiento ecológico y los Atlas de Riesgo.
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -3543,7 +3597,9 @@ i) Intervenir en la formulación y aplicación de programas de transporte públi
 
 j) De conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedir los reglamentos y disposiciones administrativas que sean necesarias;
 
-k) Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros municipios, el desarrollo de los centros urbanos situados en los territorios municipales del Estado o de otras Entidades federativas, siempre que formen o tiendan a formar una continuidad demográfica;
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+
+k) Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros municipios, el desarrollo de los centros urbanos situados en los territorios municipales del Estado o de otras Entidades federativas, siempre que formen o tiendan a formar una continuidad demográfica, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales de la materia;
 
 l) Asociarse libremente con municipios del Estado con población mayoritariamente indígena, con base en su filiación étnica e histórica, para conformar organizaciones de pueblos y comunidades indígenas que tengan por objeto implementar programas de desarrollo común y promover el bienestar y progreso comunitario; y,
 
@@ -5472,3 +5528,63 @@ La presente reforma constitucional entrará en vigor al día siguiente de su pub
 ###### ARTÍCULO QUINTO.
 
 Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 211 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Que una vez aprobada la reforma constitucional antes citada, Con fundamento en el artículo 199 numeral 1, fracción III de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase el presente Decreto a los municipios del Estado para los efectos legales a que haya lugar.
+
+CUARTO. Publíquese en el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el Portal Electrónico de esta Soberanía, para su conocimiento general y efectos legales procedentes.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236 POR EL QUE SE REFORMA EL INCISO E), FRACCIÓN VIII, NUMERAL 1, DEL ARTÍCULO 6, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 258 POR EL QUE SE REFORMA LA FRACCIÓN IX, Y SE ADICIONA UNA FRACCIÓN IX BIS, AL ARTÍCULO 6, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 800 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 801, POR EL QUE SE REFORMA EL ARTÍCULO 178 FRACCIÓN XVIII INCISOS A) Y K) Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 6 Y LA FRACCIÓN XXXVII BIS AL ARTÍCULO 61, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+CUARTO. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
