@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-137067"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-06-28"
-last_updated: "2023-08-01"
+last_updated: "2025-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137067&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2023/PEMEX/mod_eopmx_202306.pdf]</small>
+[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/PEMEX/eopemex_202505.pdf]
+
+[NOTA 2. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 30 DE MAYO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2025 (ABROGADO).
 
 Estatuto publicado en la Primera Sección al Número 22 del Diario Oficial de la Federación, el viernes 28 de junio de 2019.
 
@@ -8020,3 +8022,33 @@ Lo anterior sin perjuicio de que, en todo momento, deberán establecer la coordi
 SÉPTIMO. Los derechos laborales serán respetados en todo momento, de acuerdo con lo que establezcan las disposiciones aplicables.
 
 OCTAVO. En los casos que sea necesario, las áreas correspondientes propondrán las modificaciones a la normatividad interna y demás disposiciones jurídicas y administrativas que correspondan.
+
+D.O.F. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, PETRÓLEOS MEXICANOS”.]
+
+PRIMERO. El presente Estatuto entra en vigor el 1° de junio de 2025.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de Petróleos Mexicanos, publicado en el Diario Oficial de la Federación el 28 de junio de 2019.
+
+TERCERO. La estructura orgánica básica autorizada se remite, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos.
+
+CUARTO. En tanto se materialice la reestructura consignada en este Estatuto, para la transferencia de bienes, derechos y obligaciones, así como de recursos humanos, materiales y financieros, se deben realizar las acciones necesarias para dar continuidad a la operación y funcionamiento de Petróleos Mexicanos, así como realizar los actos y trámites indispensables para cumplir con su objeto y con los compromisos y obligaciones adquiridos en materias financiera, administrativa, laboral, fiscal y legal.
+
+QUINTO. Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por Petróleos Mexicanos o sus extintas empresas productivas subsidiarias, con anterioridad a la entrada en vigor de este Estatuto, se consideran conferidos por Petróleos Mexicanos a las personas a las que originalmente fueron otorgados, y subsisten en tanto no sean modificados o revocados expresamente, sin perjuicio del cambio de denominaciones y ubicación organizacional de las áreas que se modifican o incorporan por el presente Estatuto. De ser necesario, las áreas correspondientes de Petróleos Mexicanos deben realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento y revocación de los poderes conducentes.
+
+SEXTO. Los contratos, convenios y actos jurídicos vigentes con anterioridad a la entrada en vigor del presente Estatuto, se respetan en los términos pactados, salvo que se convenga lo contrario. Tratándose de los procedimientos de contratación que se encuentren en trámite, deben concluirse por las áreas que conforme al presente Estatuto asumen las funciones que correspondan.
+
+SÉPTIMO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, o de sus extintas empresas productivas subsidiarias, continúan en vigor en lo que no se opongan a la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, su Reglamento, al Estatuto Orgánico de la Empresa Pública del Estado, Petróleos Mexicanos y demás disposiciones aplicables, hasta en tanto se determine su modificación o se dejen sin efecto.
+
+OCTAVO. Para efectos de la integración de los grupos de trabajo o cualquier instancia colegiada de Petróleos Mexicanos, las responsabilidades a cargo de las áreas que se reubican o desaparecen con motivo de la reestructura, extinción o reincorporación de las áreas de las extintas empresas productivas subsidiarias, las asumen aquellas a las que se les atribuyen las funciones por virtud de este Estatuto, sin perjuicio de que, con posterioridad, se realicen los nombramientos o designaciones respectivas y se modifique la normatividad aplicable en cada caso.
+
+NOVENO. Las referencias que se hagan en otros instrumentos a las áreas cuya denominación se modifica o a áreas de las extintas empresas productivas subsidiarias, se entienden hechas a las áreas a las que se atribuyen las funciones conforme al presente Estatuto.
+
+DÉCIMO. Los asuntos, procedimientos, trámites o instrumentos de cualquier naturaleza que se hayan iniciado por las áreas que se reubican o desaparecen, o por las áreas de las extintas empresas productivas subsidiarias, deben continuarse hasta su conclusión por las áreas que asumen las funciones conforme a este Estatuto.
+
+DÉCIMO PRIMERO. A partir de la entrada en vigor del presente Estatuto, se deben realizar los actos de entrega-recepción individual que resulten procedentes con motivo de la reestructura, extinción, cambio de adscripción, o redistribución de funciones de las áreas que conforman la estructura de Petróleos Mexicanos, así como en los casos de las áreas de las extintas empresas productivas subsidiarias.
+
+La formalización de las actas de entrega-recepción individual debe contar con la intervención de la Auditoría Interna y observar los requisitos, formalidades y el plazo máximo de quince días hábiles que, para esos efectos, se establecen en los Lineamientos Generales para la regulación de los procedimientos de rendición de cuentas de la Administración Pública Federal y demás normatividad de la materia.
+
+DÉCIMO SEGUNDO. Las personas servidoras públicas que participen en la entrega y recepción de las áreas deben adoptar las medidas que correspondan, para garantizar la continuidad, urgencia, oportunidad y relevancia, en la atención o resolución de los asuntos o servicios que se encuentren en curso, al momento de realizar la transferencia de recursos, información y documentación a su cargo.
