@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-mejora-regulatoria-para-el-estado-de-baja-california-165
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-30"
-last_updated: "2022-12-30"
+last_updated: "2025-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PÚBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 30 de diciembre de 2022.
 
@@ -373,9 +373,11 @@ XVIII. Las demás que se deriven de esta Ley y otras disposiciones jurídicas ap
 
 ### CAPÍTULO IV. AUTORIDAD DE MEJORA REGULATORIA ESTATAL
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+
 ###### Artículo 21.
 
-La Agencia Digital es el órgano desconcentrado de la Coordinación de Gabinete, que funge como Autoridad de Mejora Regulatoria en el ámbito del Poder Ejecutivo del Estado, cuyo objeto es promover la mejora de las Regulaciones y la simplificación de Trámites y Servicios, así como la transparencia en la elaboración y aplicación de estos, procurando que generen el máximo beneficio a la sociedad en relación con sus costos.
+La Agencia Digital es el órgano desconcentrado de la Oficialía Mayor de Gobierno, que funge como Autoridad de Mejora Regulatoria en el ámbito del Poder Ejecutivo del Estado, cuyo objeto es promover la mejora de las Regulaciones y la simplificación de Trámites y Servicios, así como la transparencia en la elaboración y aplicación de estos, procurando que generen el máximo beneficio a la sociedad en relación con sus costos.
 
 ###### Artículo 22.
 
@@ -435,9 +437,11 @@ XXVI. Supervisar que los Sujetos Obligados de la Administración Pública Estata
 
 XXVII. Las demás que establezcan esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+
 ###### Artículo 23.
 
-La Agencia Digital estará a cargo de quien determine la Persona Titular del Ejecutivo Estatal, a propuesta de la Persona Titular de la Coordinación de Gabinete.
+La Agencia Digital estará a cargo de quien determine la Persona Titular del Ejecutivo Estatal, a propuesta de la Persona Titular de la Oficialía Mayor de Gobierno.
 
 ###### Artículo 24.
 
@@ -1106,3 +1110,11 @@ GOBERNADORA DEL ESTADO DE BAJA CALIFORNIA
 CATALINO ZAVALA MÁRQUEZ
 
 SECRETARIO GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 95 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
