@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2025-05-20"
+last_updated: "2025-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2025.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -915,9 +915,25 @@ j).- La atención de las demandas ciudadanas, propuestas y aportaciones tendient
 
 k).- Los asuntos a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
 
-l).- Presentar para su aprobación y/o modificación ante el Pleno en Sesión Pública, el Reglamento de Transparencia del Poder Legislativo del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2025)</small>
 
-m).- Los demás análogos que, a juicio del Presidente del Congreso, de la Diputación Permanente o la Junta de Gobierno y Coordinación Política, en su caso, le sean turnados.
+l).- Presentar para su aprobación y/o modificación ante el Pleno en Sesión Pública, el Reglamento de Transparencia del Poder Legislativo del Estado de Baja California Sur; y presentar para su aprobación y/o modificación ante la Junta de Gobierno y Coordinación Política, el proyecto de Lineamientos de Parlamento Abierto del Poder Legislativo del Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2025)</small>
+
+m).- Promover e impulsar la participación organizada de la sociedad, en actividades legislativas;
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2025)</small>
+
+n).- Promover e Impulsar el establecimiento de un sistema permanente que permita identificar la percepción de la ciudadanía, en relación con la legislación vigente;
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2025)</small>
+
+ñ).- Promover e Impulsar el establecimiento de un sistema de seguimiento y evaluación de las leyes o decretos vigentes; y
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2025)</small>
+
+o).- Las demás que a juicio de quien ocupe la presidencia de la mesa directiva o la junta de Gobierno y Coordinación Política, en su caso, sean turnados.
 
 XXV.- DE LA COMISIÓN DE ATENCIÓN A GRUPOS VULNERABLES Y A PERSONAS CON DISCAPACIDAD:
 
@@ -3075,6 +3091,34 @@ Artículo 261
 
 La información confidencial para la protección del derecho a la intimidad de las personas, se regirá por la ley de la materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 2025)</small>
+
+### CAPITULO CUARTO. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2025)</small>
+
+Artículo 261 BIS
+
+El Congreso del Estado se regirá por los principios de Parlamento Abierto, a través de la implementación de prácticas orientadas en la transparencia y acceso a la información pública, la rendición de cuentas, evaluación del desempeño legislativo y la participación ciudadana.
+
+Las normas y mecanismos de Parlamento Abierto deberán asegurar y promover la utilización de tecnologías de la información que permitan conocer el desempeño del Poder Legislativo, a través de formatos sencillos, mecanismos de búsqueda simples y bases de datos en línea con actualización periódica en los términos previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+Así como asegurar que las instalaciones, las sesiones y reuniones sean accesibles y preferentemente abiertas al público, en los casos que esta ley orgánica así lo establezca.
+
+> <small>(ADICIONADO, B.O. 31 DE MAYO DE 2025)</small>
+
+Artículo 261 TER
+
+El Congreso del Estado impulsara a través de los "Lineamientos de Parlamento Abierto", la implementación de mejores prácticas de transparencia para alcanzar los principios de Parlamento Abierto. Los lineamientos deberán considerar, entre otros, los siguientes aspectos:
+
+a) La promoción de la participación organizada de la sociedad, en las actividades legislativas;
+
+b) La promoción de una agenda de parlamento y gobierno abierto en los ámbitos estatal y municipal;
+
+c) El establecimiento de un sistema permanente que permita identificar la percepción y opinión de la ciudadanía, en relación con la legislación vigente; y
+
+d) La implementación de un sistema de seguimiento y evaluación de las leyes o decretos vigentes.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2024)</small>
 
 TÍTULO DECIMOPRIMERO
@@ -3260,3 +3304,13 @@ B.O. 20 DE MAYO DE 2025.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se Derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 31 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3153 SE REFORMA LOS INCISOS L) Y M) DE LA FRACCIÓN XXIV DEL ARTÍCULO 46, Y SE ADICIONAN LOS INCISOS N), Ñ) Y O) A LA FRACCIÓN XXIV DEL ARTÍCULO 46, UN CAPÍTULO CUARTO DENOMINADO: "DEL PARLAMENTO ABIERTO" AL TÍTULO DÉCIMO Y LOS ARTÍCULOS 261 BIS, 261 TER, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. La Comisión de Transparencia y Anticorrupción en un plazo no mayor de cuarenta y cinco días siguientes a la entrada en vigor del presente decreto deberá presentar el proyecto de “Lineamientos de Parlamento Abierto del Poder Legislativo del Estado de Baja California Sur", a la Junta de Gobierno y Coordinación Política, órgano de gobierno que deberá aprobarlos y expedirlos en un plazo no mayor a treinta días hábiles.
+
+Artículo Tercero. Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
