@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2025-05-20"
+last_updated: "2025-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2025.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -313,9 +313,9 @@ Todos los habitantes del Estado tienen derecho a participar en la vida cultural,
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 31 DE MAYO DE 2025)</small>
 
-Todos los habitantes del Estado tienen derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Baja California Sur. Los habitantes del Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la entidad, así como a participar su protección y en las actividades designadas a su conservación y mejoramiento. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la ley.
+Todos los habitantes del Estado tienen derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho de todo individuo de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Baja California Sur. Los habitantes del Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la entidad, así como a participar su (sic) protección y en las actividades designadas a su conservación y mejoramiento. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la ley, por lo tanto, todas las personas y los sectores público, social y privado coadyuvarán con las autoridades administrativas del Estado, para que la producción y consumo de bienes y servicios se realicen cuidando el medio ambiente y los recursos naturales, bajo criterios de sustentabilidad y economía circular, en la forma y términos que dispongan las leyes.
 
 > <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2013)</small>
 
@@ -5020,3 +5020,9 @@ B.O. 20 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 3148 SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+B.O. 31 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3146 SE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
