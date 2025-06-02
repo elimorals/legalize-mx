@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2025-04-29"
+last_updated: "2025-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -89,9 +89,17 @@ XI. Impulsar el fortalecimiento del Sistema Estatal de Investigación a través 
 
 XII. Divulgar y garantizar el acceso abierto a la información científica, tecnológica, de innovación y de emprendimiento en el Estado;
 
-XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a la Ciencia, Tecnología, Innovación y Emprendimiento, monto que no podrá ser menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria; y
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
 
-XIV. Impulsar el desarrollo y fortalecimiento del Ecosistema Estatal Emprendedor, basado en la innovación, la ciencia y la tecnología a través del EPICENTRO.
+XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a la Ciencia, Tecnología, Innovación y Emprendimiento, monto que no podrá ser menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+
+XIV. Impulsar el desarrollo y fortalecimiento del Ecosistema Estatal Emprendedor, basado en la innovación, la ciencia y la tecnología a través del EPICENTRO; y
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2025)</small>
+
+XV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registro de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
@@ -1432,3 +1440,11 @@ P.O. 29 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 187.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
