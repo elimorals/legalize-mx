@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-intercultural-para-la-igualdad-de-179865"
 country: "mx"
 rank: "ley"
 publication_date: "2025-05-02"
-last_updated: "2025-05-02"
+last_updated: "2025-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DE AGUASCALIENTES -- ANTES LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES --
 
-LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES
+LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario del Número 30 en el Periódico Oficial del Estado de Aguascalientes, el viernes 2 de mayo de 2025.
 
@@ -37,7 +37,9 @@ Decreto Número 185
 
 Se EXPIDE la “LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”, para quedar como sigue:
 
-“LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE JUNIO DE 2025)</small>
+
+“LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD”
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -1256,3 +1258,13 @@ GENNY JANETH LÓPEZ VALENZUELA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de abril de 2025”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. José Antonio Arámbula López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 204.- SE REFORMA LA DENOMINACIÓN DE LA LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
