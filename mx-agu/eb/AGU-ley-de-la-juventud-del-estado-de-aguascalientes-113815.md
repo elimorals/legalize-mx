@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2025-04-29"
+last_updated: "2025-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -137,7 +137,9 @@ VIII. Con problemas de salud mental y/o trastornos mentales.
 
 Los jóvenes tienen derecho a:
 
-I. Un sano desarrollo integral, para lograr su participación en la sociedad con responsabilidad;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+
+I. Un desarrollo pleno, asegurando su bienestar físico, emocional e intelectual, con el fin de que puedan integrarse activamente en la vida social, con la madurez y responsabilidad necesarias para participar en las decisiones y acciones que afectan a su comunidad;
 
 II. Expresar libremente sus ideas y opiniones salvo que representen ataques a la moral, a la vida privada o derechos de los terceros, provoquen algún delito o perturben el orden público;
 
@@ -165,19 +167,25 @@ XII. Acceder a espacios recreativos y culturales, garantizando la libertad de ex
 
 XIII. Recibir información, asesoría y capacitación gratuita por parte del Instituto o de las instancias de gobierno competentes, así como en su caso, de las dependencias municipales para el desarrollo de proyectos productivos basados en una cultura de emprendimiento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
 
-XIV. Recibir talleres de educación y participación cívica, salvo en el período de las precampañas, campañas electorales y hasta la jornada electoral; y
+XIV. Recibir talleres de educación y participación cívica, salvo en el período de las precampañas, campañas electorales y hasta la jornada electoral;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2025)</small>
 
-XV. Los demás que les reconozcan otras disposiciones legales o reglamentarias.
+XV. Participar libremente y en condiciones de igualdad en el ámbito político del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2025)</small>
+
+XVI. Los demás que les reconozcan otras disposiciones legales o reglamentarias.
 
 ### CAPÍTULO III. De las Políticas Públicas en Materia de Juventud
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 9°.
 
-Las políticas públicas dirigidas a la Juventud, son estrategias integrales, diseñadas e implementadas por el Ejecutivo y los Ayuntamientos en sus respectivos ámbitos competenciales y tienen el objeto de garantizar el cumplimiento de los derechos de los Jóvenes e impulsar el desarrollo de sus capacidades, que de forma enunciativa y no limitativa comprenden las siguientes acciones:
+Las políticas públicas dirigidas a la Juventud son estrategias integrales con enfoque multidisciplinario, diseñadas e implementadas por las autoridades facultadas en la presente Ley dentro de sus respectivos ámbitos competenciales. Su objeto es garantizar el cumplimiento de los derechos de los Jóvenes e impulsar el desarrollo de sus capacidades, que, de forma enunciativa y no limitativa, comprenden las siguientes acciones:
 
 I. Ofrecer estímulos para la adquisición de bienes y servicios;
 
@@ -566,3 +574,11 @@ P.O. 29 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 190.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
