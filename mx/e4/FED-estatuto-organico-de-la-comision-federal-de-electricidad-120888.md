@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2024-04-01"
+last_updated: "2025-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-04-05"
 ---
 # ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EN EL D.O.F. DE 2 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2025 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -1698,3 +1700,103 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
 
 ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA EMPRESA PÚBLICA DEL ESTADO, COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+PRIMERO. El presente Estatuto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Comisión Federal de Electricidad, publicado en el Diario Oficial de la Federación el 12 de abril de 2017, y sus reformas. Así mismo, se derogan todas las disposiciones internas que se opongan al presente estatuto.
+
+TERCERO. Los derechos de los trabajadores no se verán afectados por la implementación de la estructura básica y funciones que se autorizan mediante la emisión del presente Estatuto.
+
+CUARTO. Los asuntos que se encuentren en trámite en las áreas establecidas en el Estatuto que se abroga, deben ser atendidos por las áreas de la Comisión previstas en el presente Estatuto o las que se establezcan en los manuales de organización que asuman las funciones que correspondían a dichas unidades.
+
+QUINTO. Los titulares de las áreas establecidas en el presente estatuto ejercen las funciones que éste les asigna con independencia de la denominación de la función que a la fecha ostenten; lo anterior, hasta que se actualice la denominación de su función conforme a lo establecido en este ordenamiento.
+
+Los actos jurídicos emitidos conforme a las facultades que otorgaba el Estatuto que se abroga continuarán vigentes para todos los efectos legales a que haya lugar, en lo que no se opongan a las disposiciones del presente estatuto y en tanto se emitan nuevos actos jurídicos que sustituyan a los anteriores.
+
+SEXTO. Las Direcciones comprendidas en este Estatuto, sustituyen a las Direcciones Corporativas, Oficina del Abogado General, Subdirección de Negocios No Regulados, Direcciones de las extintas Empresas Productivas Subsidiarias de la Comisión, previstas en el Estatuto que se abroga, conforme a la siguiente tabla:
+
+ESTATUTO ABROGADO ESTATUTO ACTUAL
+
+Dirección Corporativa Dirección de
+
+de Operaciones Operación
+
+Dirección Corporativa de Dirección de Servicios
+
+Negocios Comerciales Especializados y Estrategia
+
+Comercial
+
+Dirección Corporativa Dirección de Finanzas
+
+de Finanzas
+
+Dirección Corporativa de Dirección de Administración
+
+Administración
+
+Dirección Corporativa de Dirección de Ingeniería y
+
+Ingeniería y Proyectos Proyectos de Infraestructura
+
+de Infraestructura
+
+Dirección Corporativa de Dirección de Planeación
+
+Planeación Estratégica
+
+Oficina del Abogado General Dirección Jurídica
+
+CFE Generación I Coordinación Regional de
+
+Producción Central
+
+CFE Generación II Coordinación Regional de
+
+Producción Occidente
+
+CFE Generación III Coordinación Regional de
+
+Producción Noroeste
+
+CFE Generación IV Coordinación Regional de
+
+Producción Norte
+
+CFE Generación V Coordinación de Contratos de
+
+Producción Externa de Energía
+
+CFE Generación VI Coordinación Regional de
+
+Producción Sureste
+
+CFE Transmisión Subdirección de Transmisión
+
+CFE Distribución Subdirección de Distribución
+
+CFE Suministrador de Coordinación Comercial
+
+Servicios Básicos
+
+CFE Telecomunicaciones Se integra a la Coordinación
+
+Internet para Todos TELECOM
+
+Las referencias que se hacen y las atribuciones o facultades que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las áreas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las áreas que correspondan conforme lo establecido en el mismo.
+
+SÉPTIMO. Las facultades establecidas en el Estatuto que se abroga y que actualmente corresponden a empresas filiales, de conformidad con el transitorio Décimo Tercero de la Ley del Sector Eléctrico publicada en el Diario Oficial de la Federación el 18 de marzo de 2025, en lo que respecta a los Términos para la Estricta Separación Legal de la Comisión Federal de Electricidad, continuarán siendo desempeñadas por las áreas que determinen los consejos de administración y los directores generales de cada una de las empresas filiales, en tanto no se contrapongan a las funciones y facultades establecidas en el presente estatuto o disposiciones normativas que resulten aplicables.
+
+OCTAVO. Los casos no contemplados en el presente Estatuto se atenderán procurando dar la solución más conveniente para el cumplimiento de los fines de la Comisión Federal de Electricidad, conforme a la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad y a las determinaciones que al efecto establezca la persona titular de la Dirección General, con el apoyo y opinión de la Dirección Jurídica.
+
+NOVENO. Los órganos colegiados y grupos de trabajo integrados por personas servidoras públicas, que al momento de la entrada en vigor del presente Estatuto Orgánico continúen en funciones, se conformarán por las personas titulares de las Unidades Administrativas que asuman sus atribuciones.
+
+DÉCIMO. En tanto se expiden nuevas disposiciones normativas de cualquier índole conforme a la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad, se continuarán aplicando los acuerdos, circulares, lineamientos, instructivos y demás disposiciones que han regido la actuación de las personas servidoras públicas de la Comisión Federal de Electricidad, en lo que no se opongan al presente Estatuto Orgánico.
+
+DÉCIMO PRIMERO. Los actos, procedimientos, actuaciones o determinaciones a cargo de las unidades administrativas, que se inicien o se encuentren en trámite a la entrada en vigor del presente Estatuto Orgánico, en ningún caso habrán de suspenderse, por lo que éstas tendrán el deber inexcusable de concluirlas y seguirlas efectuando con estricto apego a las disposiciones normativas que les resultaron aplicables de manera previa a la entrada en vigor de este Estatuto Orgánico, hasta en tanto se emitan las nuevas disposiciones normativas que las sustituyan.
+
+DÉCIMO SEGUNDO. En tanto se expiden los nuevos Manuales de Organización que correspondan, las Unidades Administrativas que actualmente operan deberán continuar conociendo los asuntos de su competencia conforme a las disposiciones normativas que les resultaron aplicables de manera previa a la entrada en vigor de este Estatuto Orgánico.
