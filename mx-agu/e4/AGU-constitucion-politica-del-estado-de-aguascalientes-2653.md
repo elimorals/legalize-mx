@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-04-25"
+last_updated: "2025-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -689,9 +689,9 @@ El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativ
 
 III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas, tomando en cuenta la Iniciativa enviada por el titular del Poder Ejecutivo, a la cual el Congreso, en su caso, podrá hacer modificaciones.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2025)</small>
 
-Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, que hayan sido previamente aprobados por el Pleno, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia.
+Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios, Asociaciones Público-Privadas, así como de Obra Pública Financiada, que hayan sido previamente aprobados por el Pleno, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
 
@@ -813,9 +813,9 @@ XXXII.- Elegir y nombrar al Fiscal General del Estado, y formular objeción a la
 
 XXXIII.- Designar a una persona integrante del Órgano de Administración Judicial del Poder Judicial del Estado en los términos de esta Constitución y legislar en materia del Servicio Profesional de Carrera Judicial, y demás legislación necesaria para el ejercicio de la función jurisdiccional en el Estado;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
 
-XXXIV.- Autorizar al Estado, los Municipios y sus entidades públicas, previo análisis de sus capacidades de pago, la contratación y los montos máximos para los Proyectos de Prestación de Servicios o de Asociaciones Público-Privadas, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá de dicha autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago.
+XXXIV.- Autorizar al Estado, los Municipios y sus entidades públicas, previo análisis de sus capacidades de pago, la contratación y los montos máximos que se destinarán para Obras Públicas Financiadas, Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, así como de las partidas plurianuales que se deriven de dichos esquemas para ser incluidos en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá de dicha autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
@@ -1173,9 +1173,9 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de noviembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
 
-III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
+III.- Solicitar al Congreso la autorización para celebrar Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, Obra Pública Financiada así como de las partidas plurianuales que se deriven de dichos esquemas para ser incluidos en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
 
@@ -2311,9 +2311,9 @@ Los recursos que integran la Hacienda Municipal serán ejercidos en forma direct
 
 Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2025)</small>
 
-Los Municipios, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán realizar Proyectos de Prestación de Servicios que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la autorización, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
+Los Municipios, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán contratar Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, así como Obra Pública Financiada, que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la autorización, así como de las partidas plurianuales que se deriven de dichos esquemas para ser incluidos en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -4668,3 +4668,11 @@ P.O. 25 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 – Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 197.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
