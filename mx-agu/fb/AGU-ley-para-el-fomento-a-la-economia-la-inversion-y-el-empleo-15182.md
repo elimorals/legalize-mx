@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2025-05-19"
+last_updated: "2025-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -95,9 +95,13 @@ X.- Trabajar conjuntamente con las autoridades municipales y federales relaciona
 
 XI.- Coadyuvar al proceso de mejora regulatoria y simplificación administrativa, de manera que estimule la creación de nuevas empresas y la ampliación de la planta productiva, así como el desarrollo eficiente de las actividades económicas;
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JUNIO DE 2025)</small>
 
-XII.- Fomentar el uso y la operación de instrumentos financieros, avances tecnológicos y de infraestructura, en los sectores económicos estratégicos; así como difundir e impulsar la inclusión financiera, orientando en torno al marco jurídico, características del sector y necesidades de crédito de las unidades económicas en Aguascalientes, a aquellas personas que deseen invertir en la creación de empresas de tecnología financiera;
+XII.- Fomentar el uso y la operación de instrumentos financieros, avances tecnológicos y de infraestructura, en los sectores económicos estratégicos; así como difundir e impulsar la inclusión financiera, orientando en torno al marco jurídico, características del sector y necesidades de crédito de las unidades económicas en Aguascalientes, a aquellas personas que deseen invertir en la creación de empresas de tecnología financiera.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2025)</small>
+
+Para tales efectos se entenderá como Inclusión Financiera, el acceso y uso de servicios financieros formales bajo una regulación apropiada que garantice esquemas de protección al consumidor y promueva la educación financiera para mejorar la capacidad financiera de todos los segmentos de la población;
 
 XIII.- Propiciar las condiciones adecuadas para atraer al Estado inversiones nacionales y extranjeras, a través de una política competitiva de incentivos para la inversión;
 
@@ -700,3 +704,15 @@ P.O. 19 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 188.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
