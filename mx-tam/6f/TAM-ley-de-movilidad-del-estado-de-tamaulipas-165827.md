@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-movilidad-del-estado-de-tamaulipas-165827"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-27"
-last_updated: "2023-04-27"
+last_updated: "2025-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo al Número 51 del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de abril de 2023.
 
@@ -537,11 +537,15 @@ III. La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 IV. La Secretaría de Obras Públicas;
 
-V. Los Ayuntamientos;
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-VI. Las dependencias u organismos municipales encargados de la movilidad; y
+V. La Secretaría de Seguridad Pública;
 
-VII. Las demás autoridades que se señalen en esta Ley y en otras disposiciones aplicables.
+VI. Los Ayuntamientos;
+
+VII. Las dependencias u organismos municipales encargados de la movilidad; y
+
+VIII. Las demás autoridades que se señalen en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 21.
 
@@ -715,6 +719,36 @@ V. Proporcionar a la Secretaría de Desarrollo Urbano y Medio Ambiente de forma 
 
 VI. Las demás que le confiera esta Ley, sus reglamentos, y demás ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+###### Artículo 27 Bis.
+
+La Secretaría de Seguridad Pública, tendrá las siguientes atribuciones:
+
+I. Coordinar con las autoridades de los tres órdenes de gobierno, el desarrollo y la aplicación de las políticas públicas en materia de movilidad del Estado;
+
+II. A través de la Dirección de Tránsito Estatal, atender lo establecido en el artículo 3 de la presente Ley, en materia de seguridad vial;
+
+III. En coordinación con las autoridades en materia de movilidad, establecer estrategias necesarias para el fortalecimiento de la seguridad vial, dándole seguimiento y evaluación;
+
+IV. En apego a la Ley de Tránsito, ampliar los planes y programas en materia de movilidad y seguridad vial; teniendo como prioridad la protección de la vida y la integridad física de las personas en sus desplazamientos en las vías públicas del territorio estatal;
+
+V. Establecer y poner en marcha planes y programas que tengan como propósito el mejoramiento de la seguridad vial;
+
+VI. Emitir normas, manuales y lineamientos técnicos para el mejoramiento de la seguridad vial;
+
+VII. Implementar programas en materia de educación, cultura y seguridad vial, desarrollar estrategias, programas y acciones en materia de protección al medio ambiente, proyectos para la movilidad y la seguridad vial, con prioridad en el uso de transporte público y los modos no motorizados, así como realizar programas permanentes de capacitación de personas conductoras;
+
+VIII. Colaborar con las autoridades municipales en la generación de la reglamentación de los estudios de impacto al tránsito y los estudios en materia de movilidad y seguridad vial y medio ambiente, abonando en el ámbito de sus competencias;
+
+IX. Instrumentar y articular, en concordancia con la política nacional estatal, sectorial y regional las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades, ocasionadas por siniestros de tránsito;
+
+X. Gestionar el sistema de datos de siniestralidad vial, recabando datos e información referentes, relacionados y relevantes a la siniestralidad vial por parte de las dependencias correspondientes, mismas que estarán obligadas a compartir dicha información;
+
+XI. Compartir con la Secretaría de Finanzas, la información generada de los movimientos al padrón vehicular; y
+
+XII. Las demás que le confiera esta Ley, sus reglamentos y demás ordenamientos jurídicos aplicables.
+
 ###### Artículo 28.
 
 Los Ayuntamientos, a través de las dependencias u organismos que para el efecto designen, implementarán políticas, programas y acciones para el cumplimiento de la presente Ley y su vinculación con sus planes de desarrollo municipal, planes de desarrollo urbano y todo lo demás que sea competencia concurrente en materia de movilidad con competencia en su territorio municipal, ejerciendo las atribuciones que le confieren la presente Ley, sus reglamentos, acuerdos y demás disposiciones legales aplicables, con respecto a movilidad de personas y bienes.
@@ -835,13 +869,17 @@ II. Secretaría de Desarrollo Urbano y Medio Ambiente, quien fungirá como Secre
 
 III. Secretaría General de Gobierno a través de la Subsecretaría de Transporte;
 
-IV. Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-V. Instituto de las Mujeres en Tamaulipas;
+IV. La Secretaría de Seguridad Pública;
 
-VI. Los Municipios a través de sus Ayuntamientos; y
+V. Sistema para el Desarrollo Integral de la Familia de Tamaulipas;
 
-VII. Observatorio Ciudadano de Movilidad.
+VI. Instituto de las Mujeres en Tamaulipas;
+
+VII. Los Municipios a través de sus Ayuntamientos; y
+
+VIII. Observatorio Ciudadano de Movilidad.
 
 Las personas integrantes del Sistema Estatal, no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
@@ -1718,3 +1756,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de marzo del año dos mil veintitrés.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-329 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Seguridad Pública del Estado de Tamaulipas, contará con 180 días naturales contados a partir de la publicación del presente decreto en el Periódico Oficial del Estado para emitir normas, manuales y lineamientos técnicos para el mejoramiento de la seguridad vial.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Seguridad Pública del Estado de Tamaulipas, contará con 120 días naturales contados a partir de la publicación del presente decreto en el Periódico Oficial del Estado, para diseñar y desarrollar los planes y programas en materia de seguridad vial.
