@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-etica-de-la-fiscalia-general-del-estado-de-puebla-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-21"
-last_updated: "2018-09-21"
+last_updated: "2025-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE ETICA DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025 (ABROGADO).
 
 Código publicado en la Quinta Sección al Número 15 del Periódico Oficial del Estado de Puebla, el viernes 21 de septiembre de 2018.
 
@@ -190,3 +192,17 @@ El Órgano Interno de Control y Visitaduría, la Comisión de Honor y Justicia, 
 ### CAPÍTULO VIII. SANCIONES
 
 Las sanciones que podrá imponer la autoridad en caso de que se compruebe que existe o existió incumplimiento a lo señalado en los capítulos anteriores, en todo momento, deberán relacionarse a lo establecido por la Ley General de Responsabilidades Administrativas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL ”ACUERDO DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DE LA FISCALÍA GENERAL DEL ESTADO, POR EL QUE EMITE EL CÓDIGO DE ÉTICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Código de Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Ética de la Fiscalía General del Estado de Puebla expedido mediante Acuerdo A/10/2018, suscrito por el entonces Titular de la Fiscalía General del Estado y publicado en el Periódico Oficial del Estado de Puebla el 21 de septiembre de 2018, así como todas las disposiciones normativas internas que se opongan a lo previsto en este Código.
+
+TERCERO. Se instruye a las y los Titulares de las Unidades Administrativas que integran la Fiscalía para que implementen las estrategias y acciones necesarias y pertinentes para la debida divulgación y cumplimiento del presente Código.
+
+CUARTO. Solicítese a la Oficialía Mayor y a la Coordinación General de Estadística y Sistemas de Información a efecto de que en el ámbito de sus atribuciones, realicen las gestiones necesarias para la difusión del presente Código a todas las Unidades Administrativas que integran a la Fiscalía.
