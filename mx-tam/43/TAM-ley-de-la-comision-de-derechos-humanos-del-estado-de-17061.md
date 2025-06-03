@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2024-11-06"
+last_updated: "2025-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -55,9 +55,11 @@ La presente ley es de orden público e interés social, reglamentaria de los art
 
 La Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo público autónomo con personalidad jurídica y patrimonio propio, que tiene por objeto esencial la protección, observancia, promoción, estudio y difusión de los derechos humanos previstos por el orden jurídico mexicano.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 3.
 
-La Comisión conocerá de quejas y denuncias sobre violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa provenientes de autoridades y servidores públicos que actúen en el ámbito del Estado de Tamaulipas.
+La Comisión conocerá de quejas y denuncias sobre violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa provenientes de autoridades y personas servidoras públicas que actúen en el ámbito del Estado de Tamaulipas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
 
@@ -83,17 +85,19 @@ La Comisión será independiente en el desempeño de sus funciones y para la ado
 
 ### CAPITULO I. INTEGRACION Y FUNCIONES DE LA COMISION
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 7.
 
-La Comisión estará integrada por el titular de la Presidencia, un Consejo Consultivo, un Secretario Técnico, tres Visitadores Generales y el personal profesional técnico y administrativo necesario para la realización de sus funciones.
+La Comisión estará integrada por una persona titular de la Presidencia, un Consejo Consultivo, una Secretaría Técnica, tres Visitadurías Generales y el personal profesional técnico y administrativo necesario para la realización de sus funciones.
 
 ###### ARTICULO 8.
 
 La Comisión tendrá las siguientes atribuciones:
 
-I.- Procurar la defensa de los derechos humanos por parte de todas las autoridades y servidores públicos que actúen en el ámbito del Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+I.- Procurar la defensa de los derechos humanos por parte de todas las autoridades y personas servidoras públicas que actúen en el ámbito del Estado;
 
 II.- Promover y fomentar el respeto de los derechos humanos en la Entidad;
 
@@ -105,9 +109,13 @@ III.- Recibir quejas y denuncias sobre presuntas violaciones de los derechos hum
 
 IV.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
 
-a).- Por actos u omisiones de autoridades o servidores públicos que actúen en el territorio del Estado;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
-b).- Cuando particulares u otras agrupaciones sociales cometan ilícitos con la tolerancia o anuencia de alguna autoridad o servidor público, o bien, cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que les confiere la Ley en relación con dichos ilícitos;
+a).- Por actos u omisiones de autoridades o personas servidoras públicas que actúen en el territorio del Estado;
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+b).- Cuando particulares u otras agrupaciones sociales cometan ilícitos con la tolerancia o anuencia de alguna autoridad o persona servidora pública, o bien, cuando estas últimas se nieguen infundadamente a ejercer las atribuciones que les confiere la Ley en relación con dichos ilícitos;
 
 V.- Formular recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas;
 
@@ -127,17 +135,17 @@ XI.- Realizar todas las acciones que sean necesarias para fomentar la cultura y 
 
 XII.- Expedir y reformar, en su caso, su reglamento interno;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-XIII.- Solicitar al Congreso del Estado que llame a comparecer a los servidores públicos que se nieguen a responder las recomendaciones emitidas por ella, con objeto de que expliquen el motivo de su negativa;
+XIII.- Solicitar al Congreso del Estado que llame a comparecer a las y los servidores públicos que se nieguen a responder las recomendaciones emitidas por ella, con objeto de que expliquen el motivo de su negativa;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
 
 XIII Bis.- La observancia del seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-XIV.- Ejercitar, por conducto de su Presidente, acciones de Inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, en términos del inciso g) de la fracción II del artículo 105 de la Constitución Federal; y
+XIV.- Ejercitar, por conducto de su Presidencia, acciones de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, en términos del inciso g) de la fracción II del artículo 105 de la Constitución Federal; y
 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -153,9 +161,9 @@ II.- Resoluciones de naturaleza jurisdiccional;
 
 III.- (DEROGADA, P.O. 15 DE MAYO DE 2013)
 
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-IV.- Actos u omisiones provenientes de autoridades o servidores públicos de la Federación.
+IV.- Actos u omisiones provenientes de autoridades o de personas servidoras públicas de la Federación.
 
 V.- (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2024)
 
@@ -167,7 +175,9 @@ Para los efectos de esta Ley se entiende por resoluciones de carácter jurisdicc
 
 I.- Las sentencias, laudos y resoluciones definitivas que concluyan una instancia;
 
-II.- Las sentencias interlocutorias o autos que decidan un incidente procesal;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+II.- Las sentencias interlocutorias o autos que decidan un incidente procesal; y
 
 III.- Los autos, decretos o acuerdos dictados por un órgano jurisdiccional para cuya expedición se haya realizado una valoración y determinación legal.
 
@@ -177,171 +187,215 @@ Todos los demás actos y omisiones procedimentales diferentes a los señalados e
 
 La Comisión por ningún motivo podrá emitir recomendaciones sobre cuestiones jurisdiccionales de fondo.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 11.
 
-Los cargos del Presidente, Secretario Técnico, Visitador y Consejero son incompatibles con el desempeño de cualquier otro cargo o empleo, público o privado, que implique una relación de subordinación, con excepción de las actividades docentes.
+Los cargos de la Presidencia, Secretaría Técnica, Visitaduría y Consejería son incompatibles con el desempeño de cualquier otro cargo o empleo, público o privado, que implique una relación de subordinación, con excepción de las actividades docentes.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 12.
 
-El Presidente, el Secretario y los Visitadores no podrán ser detenidos ni sujetos a responsabilidad civil, penal o administrativa por las recomendaciones, opiniones y demás actos que realicen en el ejercicio de sus funciones.
+La o el Presidente, la o el Secretario y las o los Visitadores no podrán ser detenidos ni sujetos a responsabilidad civil, penal o administrativa por las recomendaciones, opiniones y demás actos que realicen en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 13.
 
-El Presidente, el Secretario Técnico y los Visitadores, tendrán fe pública en las actuaciones que practiquen en el ejercicio de sus funciones.
+La o el Presidente, la o el Secretario y las o los Visitadores, tendrán fe pública en las actuaciones que practiquen en el ejercicio de sus funciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2013)</small>
 
 ### CAPITULO II. DEL CONSEJO CONSULTIVO DE LA COMISIÓN
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
-###### ARTÍCULO 14.
+###### ARTICULO 14.
 
-El Consejo Consultivo de la Comisión estará integrado por seis Consejeros, quienes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado. Por cada Consejero propietario habrá un suplente.
+El Consejo Consultivo de la Comisión estará integrado por seis Consejerías, quienes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas. Por cada Consejera y Consejero propietario habrá una suplencia.
 
-Para ser designado Consejero de la Comisión se deberán reunir los mismos requisitos que para ser titular de la Presidencia de la Comisión, excepto los establecidos en las fracciones IV y V del artículo 18 de la presente ley.
+Para la designación de una Consejería de la Comisión se deberán reunir los mismos requisitos que para ser titular de la Presidencia de la Comisión, excepto los establecidos en las fracciones IV y V del artículo 18 de la presente ley.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+Las y los integrantes del Consejo durarán en su cargo seis años y podrán ser reelectos para un siguiente período; en caso de falta o separación de una Consejera o Consejero, quien lo substituya complementará el período correspondiente. Estos cargos serán honoríficos.
 
-Los miembros del Consejo durarán en su cargo seis años y podrán ser reelectos para un siguiente período; en caso de falta o separación de un Consejero, quien lo substituya complementará el período correspondiente. Estos cargos serán honoríficos.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 15.
 
-El Consejo será presidido por el Presidente de la Comisión y contará con una Secretaría cuya función será desempeñada por el Secretario Técnico de la propia Comisión.
+El Consejo será presidido por la o el Presidente de la Comisión y contará con una Secretaría cuya función será desempeñada por la Secretaría Técnica de la propia Comisión.
 
 ###### ARTICULO 16.
 
 El Consejo de la Comisión tendrá las siguientes atribuciones:
 
-I.- Establecer los lineamientos generales de la actuación de la Comisión.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-II.- Aprobar el Reglamento Interno de la Comisión.
+I.- Establecer los lineamientos generales de la actuación de la Comisión;
 
-III.- Conocer el informe anual que el Presidente de la Comisión debe presentar al Titular del Poder Ejecutivo y al Congreso del Estado.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-IV.- Solicitar al Presidente de la Comisión información adicional sobre los asuntos que se encuentran en trámite o haya resuelto.
+II.- Aprobar el Reglamento Interno de la Comisión;
 
-V.- Conocer el anteproyecto de presupuesto de la Comisión.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-VI.- Conocer el informe del Presidente de la Comisión sobre el ejercicio presupuestal.
+III.- Conocer el informe anual que la o el Presidente de la Comisión debe presentar a la o el Titular del Poder Ejecutivo y al Congreso del Estado Libre y Soberano de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+IV.- Solicitar a la o el Presidente de la Comisión información adicional sobre los asuntos que se encuentran en trámite o haya resuelto;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+V.- Conocer el anteproyecto de presupuesto de la Comisión; y
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+VI.- Conocer el informe de la o el Presidente de la Comisión sobre el ejercicio presupuestal.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 17.
 
-El Consejo funcionará con sesiones ordinarias y extraordinarias, y quedará formalmente instalado con la asistencia de cuatro de sus miembros; sus decisiones se tomarán por mayoría de votos de los presentes, teniendo el Presidente voto de calidad para el caso de empate.
+El Consejo funcionará con sesiones ordinarias y extraordinarias, y quedará formalmente instalado con la asistencia de cuatro de sus integrantes; sus decisiones se tomarán por mayoría de votos de las y los presentes, teniendo la o el Presidente voto de calidad para el caso de empate.
 
-Las sesiones ordinarias se verificarán trimestralmente y las extraordinarias cuando sea necesario a juicio del Presidente o a petición de tres miembros del Consejo.
+Las sesiones ordinarias se verificarán trimestralmente y las extraordinarias cuando sea necesario a juicio de la o el Presidente o a petición de tres integrantes del Consejo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2025)</small>
 
-### CAPITULO III. DEL TITULAR DE LA PRESIDENCIA DE LA COMISIÓN
+### CAPITULO III. DE LA PERSONA TITULAR DE LA PRESIDENCIA DE LA COMISION
 
-> <small>(REFORMADO [ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 18.
 
-Para ser designado titular de la Presidencia de la Comisión se requiere:
+Para la designación del titular de la Presidencia de la Comisión se requiere:
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-I.- Ser mexicano y ciudadano tamaulipeco, en pleno ejercicio de sus derechos políticos y civiles;
+I.- Ser mexicana o mexicano y ciudadana o ciudadano tamaulipeco, en pleno ejercicio de sus derechos políticos y civiles;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 II.- Ser mayor de treinta años el día de su nombramiento;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-III.- Gozar de buena reputación y no haber sido condenado por delito doloso;
+III.- Gozar de buena reputación y no haber sido condenada o condenado por delito doloso;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-IV.- Poseer título profesional de abogado expedido por institución legalmente autorizada con una antigüedad mínima de cinco años; y
+IV.- Poseer título profesional de Licenciatura en Derecho expedido por institución legalmente autorizada con una antigüedad mínima de cinco años; y
 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Acreditar conocimientos y experiencia en materia de derechos humanos.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 19.
 
-El nombramiento del titular de la Presidencia de la Comisión será realizado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado.
+El nombramiento de la persona titular de la Presidencia de la Comisión será realizado por el voto de las dos terceras partes de las y los Diputados presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 20.
 
-El Presidente de la Comisión durará en sus funciones seis años y podrá ser designado exclusivamente para un siguiente período, en la misma forma de su primigenia elección.
+La o el Presidente de la Comisión durará en sus funciones seis años y podrá ser designado exclusivamente para un siguiente período, en la misma forma de su primigenia elección.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 21.
 
-El Presidente de la Comisión sólo podrá ser destituido o separado de su cargo mediante los procedimientos previstos en los artículos 151 y 152 de la Constitución Política del Estado. Cuando la ausencia sea temporal o definitiva, el Presidente será sustituido interinamente por el Secretario Técnico debiéndolo comunicar inmediatamente al Congreso del Estado.
+La o el Presidente de la Comisión sólo podrá ser destituido o separado de su cargo mediante los procedimientos previstos en los artículos 151 y 152 de la Constitución Política del Estado. Cuando la ausencia sea temporal o definitiva, la o el Presidente será sustituido interinamente por la o el Secretario Técnico debiéndolo comunicar inmediatamente al Congreso del Estado Libre y Soberano de Tamaulipas.
 
-Cuando se trate de la conclusión del periodo para el que fue electo el Presidente, el Secretario Técnico deberá comunicarlo al Congreso del Estado a más tardar 60 días antes de la fecha en que concluye a fin de que se instruya el procedimiento de designación correspondiente.
+Cuando se trate de la conclusión del periodo para el que fue electo la o el Presidente, la o el Secretario Técnico, deberá comunicarlo al Congreso del Estado a más tardar 60 días antes de la fecha en que concluye a fin de que se instruya el procedimiento de designación correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 22.
 
-El Presidente de la Comisión tendrá las siguientes atribuciones:
+La o el Presidente de la Comisión tendrá las siguientes atribuciones:
 
-I.- Ejercer la representación legal de la Comisión con las atribuciones de apoderado general para actos de administración y pleitos y cobranzas, con todas las facultades generales y las especiales que requieran de cláusula especial conforme a la Ley;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+I.- Ejercer la representación legal de la Comisión con las atribuciones de la o el apoderado general para actos de administración y pleitos y cobranzas, con todas las facultades generales y las especiales que requieran de cláusula especial conforme a la Ley;
 
 II.- Ejercer las funciones que esta Ley otorga a la Comisión;
 
 III.- Instrumentar, ejecutar y vigilar la aplicación de lineamientos generales de la Comisión;
 
-IV.- Nombrar al Secretario, Visitadores y demás personal que requiera la Comisión, así como crear las unidades administrativas que permiten un mejor funcionamiento;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-V.- Asignar y delegar atribuciones a los funcionarios de la Comisión;
+IV.- Nombrar a la o el Secretario, Visitadurías y demás personal que requiera la Comisión, así como crear las unidades administrativas que permiten un mejor funcionamiento;
 
-VI.- Solicitar a las autoridades y servidores públicos, directamente o por conducto de los demás funcionarios, los informes y documentos relacionados con las investigaciones que practique la Comisión sobre presuntas violaciones de los derechos humanos, así como verificar inspecciones o reconocimiento de lugares, cosas y personas para el cumplimiento de sus fines;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+V.- Asignar y delegar atribuciones a las y los funcionarios de la Comisión;
 
-VII.- Aprobar, emitir y publicar, en su totalidad o en forma resumida las recomendaciones y acuerdos de no responsabilidad que resulten de las investigaciones realizadas, con las excepciones que establece la presente ley.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-VIII.- Enviar un informe general al Titular del Poder Ejecutivo y al Congreso del Estado en el mes de enero de cada año, y comparecer ante el Pleno Legislativo cuando así se solicite;
+VI.- Solicitar a las autoridades y a las personas servidoras públicas, directamente o por conducto de las y los demás funcionarios, los informes y documentos relacionados con las investigaciones que practique la Comisión sobre presuntas violaciones de los derechos humanos, así como verificar inspecciones o reconocimiento de lugares, cosas y personas para el cumplimiento de sus fines;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión, con base en las previsiones de ingreso y del gasto público estatal que realice la Secretaría de Finanzas, y el respectivo informe sobre su ejercicio.
+VII.- Aprobar, emitir y publicar, en su totalidad o en forma resumida las recomendaciones y acuerdos de no responsabilidad que resulten de las investigaciones realizadas, con las excepciones que establece la presente ley;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-X.- Celebrar en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades, servidores públicos y organismos de defensa de los derechos humanos, así como con instituciones educativas y asociaciones culturales, para el mejor cumplimiento de los fines de la Comisión;
+VIII.- Enviar un informe general a la persona Titular del Poder Ejecutivo y al Congreso del Estado en el mes de enero de cada año, y comparecer ante el Pleno Legislativo cuando así se solicite;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-XI.- Proponer al Consejo Consultivo el programa anual de seguimiento de leyes y decretos relativas a los derechos humanos que le presente el Presidente de la Comisión, de modo que facilite el ejercicio de sus facultades de defensa de la constitucionalidad y convencionalidad en esa materia;
+IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión, con base en las previsiones de ingreso y del gasto público estatal que realice la Secretaria de Finanzas, y el respectivo informe sobre su ejercicio;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-XII.- Determinar sobre el incumplimiento de las recomendaciones, o sobre la insuficiencia de la fundamentación y motivación de la negativa presentada por los servidores públicos responsables; y
+X.- Celebrar en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades, las y los servidores públicos y organismos de defensa de los derechos humanos, así como con instituciones educativas y asociaciones culturales, para el mejor cumplimiento de los fines de la Comisión;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+XI.- Proponer al Consejo Consultivo el programa anual de seguimiento de leyes y decretos relativas a los derechos humanos que le presente la o el Presidente de la Comisión, de modo que facilite el ejercicio de sus facultades de defensa de la constitucionalidad y convencionalidad en esa materia;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+XII.- Determinar sobre el incumplimiento de las recomendaciones, o sobre la insuficiencia de la fundamentación y motivación de la negativa presentada por las y los servidores públicos responsables; y
 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 XIII.- Las demás que se señale en esta Ley u otros ordenamientos jurídicos.
 
-### CAPITULO IV. DEL SECRETARIO TECNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2025)</small>
+
+### CAPITULO IV. DE LA SECRETARIA TECNICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 23.
 
-El titular a la Secretaría Ejecutiva deberá reunir los siguientes requisitos:
+La persona titular a la Secretaría Ejecutiva deberá reunir los siguientes requisitos:
 
-I.- Ser ciudadano tamaulipeco en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-II.- Gozar buena reputación y no haber sido condenado por delito doloso;
+I.- Ser ciudadana o ciudadano tamaulipeco en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+II.- Gozar de buena reputación y no haber sido condenada o condenado por delito doloso;
 
 III.- Tener licenciatura en derecho con título expedido legalmente con una antigüedad mínima de cinco años;
 
 IV.- Ser mayor de treinta años de edad el día de su nombramiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 24.
 
-El Secretario Técnico tendrá las siguientes atribuciones:
+La o el Secretario Técnico tendrá las siguientes atribuciones:
 
-I.- Proponer al Presidente estudios sobre políticas y lineamientos generales que en materia de derechos humanos deba seguir la Comisión, así como instrumentar su aplicación;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+I.- Proponer a la o el Presidente estudios sobre políticas y lineamientos generales que en materia de derechos humanos deba seguir la Comisión, así como instrumentar su aplicación;
 
 II.- Promover y fortalecer las relaciones de la Comisión con organismos públicos, sociales y privados, en materia de derechos humanos;
 
@@ -351,49 +405,65 @@ IV.- Coordinar los programas sobre estudios, enseñanza, capacitación y difusi�
 
 V.- Proyectar y dictaminar los convenios de coordinación, colaboración y concertación que la Comisión pretenda celebrar;
 
-VI.- Coadyuvar con el Presidente de la Comisión en:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 3 DE JUNIO DE 2025)</small>
 
-a).- La ejecución y vigilancia de programas preventivos en materia de derechos humanos.
+VI.- Coadyuvar con la o el Presidente de la Comisión en:
 
-b).- La recepción e investigación de quejas presentadas ante la Comisión.
+a).- La ejecución y vigilancia de programas preventivos en materia de derechos humanos;
 
-c).- La formulación de recomendaciones, acuerdos y demás resoluciones que procedan con motivo de la tramitación de quejas.
+b).- La recepción e investigación de quejas presentadas ante la Comisión;
 
-d).- Los demás asuntos que le encomiende.
+c).- La formulación de recomendaciones, acuerdos y demás resoluciones que procedan con motivo de la tramitación de quejas;
+
+d).- Los demás asuntos que le encomiende; y
 
 VII.- Las demás que le sean conferidas en otras disposiciones legales y reglamentarias.
 
-### CAPITULO V. DE LOS VISITADORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2025)</small>
+
+### CAPITULO V. DE LAS VISITADURIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 25.
 
-Los Visitadores Generales deberán reunir los requisitos establecidos en el artículo 23 de esta Ley y tendrán las siguientes atribuciones:
+Las y los Visitadores Generales deberán reunir los requisitos establecidos en el artículo 23 de esta Ley y tendrán las siguientes atribuciones:
 
 I.- Recibir, admitir o rechazar las quejas que se presenten ante la Comisión;
 
-II.- Solicitar y recibir la información y documentación de las autoridades o servidores públicos involucrados en presuntas violaciones de derechos humanos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+II.- Solicitar y recibir la información y documentación de las autoridades o de las y los servidores públicos involucrados en presuntas violaciones de derechos humanos;
 
 III.- Realizar las actividades necesarias para lograr, a través de la conciliación o mediación, la solución inmediata de una queja, cuando la naturaleza del caso la permita;
 
-IV.- Practicar investigaciones, recibir pruebas y realizar las diligencias necesarias para el debido esclarecimiento de los hechos imputados a una autoridad o servidor público;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-V.- Elaborar los proyectos de recomendaciones y demás resoluciones procedentes con base en las investigaciones y pruebas obtenidas, para someterlas a la consideración del Presidente o Secretario de la Comisión.
+IV.- Practicar investigaciones, recibir pruebas y realizar las diligencias necesarias para el debido esclarecimiento de los hechos imputados a una autoridad o persona servidora pública;
 
-VI.- Las demás que les señalan los ordenamientos jurídicos o el Presidente de la Comisión.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+V.- Elaborar los proyectos de recomendaciones y demás resoluciones procedentes con base en las investigaciones y pruebas obtenidas, para someterlas a la consideración de la Presidencia o Secretaría de la Comisión; y
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+VI.- Las demás que les señalan los ordenamientos jurídicos o la o el Presidente de la Comisión.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 26.
 
-Para el mejor desempeño de sus funciones, los Visitadores Generales serán auxiliados por los visitadores adjuntos o especiales que designe o habilite el Presidente de la Comisión.
+Para el mejor desempeño de sus funciones, las y los Visitadores Generales serán auxiliados por las y los visitadores adjuntos o especiales que designe o habilite la Presidencia de la Comisión.
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 27.
 
-La Comisión podrá iniciar o proseguir a petición de parte o de oficio, el procedimiento de investigación sobre violaciones de derechos humanos imputadas a una autoridad o servidor público.
+La Comisión podrá iniciar o proseguir a petición de parte o de oficio, el procedimiento de investigación sobre violaciones de derechos humanos imputadas a una autoridad o persona servida pública.
 
 ###### ARTICULO 28.
 
@@ -409,11 +479,17 @@ Las quejas deberán presentarse por escrito, de forma oral o por lenguaje de se�
 
 Las quejas deberán contener:
 
-I.- El nombre, nacionalidad, ocupación y domicilio del quejoso y de quien promueve en su nombre;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-II.- La autoridad o servidor público a quien se impute responsabilidad, o los datos que permitan su identificación;
+I.- El nombre, nacionalidad, ocupación y domicilio de la parte quejosa y de quien promueve en su nombre;
 
-III.- Los actos u omisiones que constituyan presuntas violaciones de derechos humanos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+II.- La autoridad o persona servidora pública a quien se impute responsabilidad, o los datos que permitan su identificación;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+III.- Los actos u omisiones que constituyan presuntas violaciones de derechos humanos; y
 
 IV.- Las pruebas que se exhiben o puedan proporcionarse directamente, en su caso.
 
@@ -425,63 +501,85 @@ Para facilitar la presentación de quejas, la Comisión pondrá formularios a di
 
 Las quejas podrán presentarse en forma oral solamente cuando los comparecientes no puedan escribir o sean menores de edad.
 
-No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación si el quejoso no se identifica y la firma o impone su huella digital en un primer momento.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
-Cuando los quejosos o denunciantes se encuentren recluídos en un centro de detención o reclusorio, sus escritos deberán ser entregados a la Comisión sin demora alguna; para ello, el quejoso o denunciante podrá valerse del encargado del centro respectivo, o enviar su escrito con cualquier persona de su confianza.
+No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación si la parte quejosa no se identifica y la firma o impone su huella digital en un primer momento.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+Cuando las partes quejosas o denunciantes se encuentren recluidos en un centro de detención o reclusorio, sus escritos deberán ser entregados a la Comisión sin demora alguna; para ello, la parte quejosa o denunciante podrá valerse del encargado del centro respectivo, o enviar su escrito con cualquier persona de su confianza.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 30.
 
-El plazo para presentación de quejas será de un año a partir de la realización de acciones u omisiones que se estimen violatorias de derechos humanos o de que el quejoso tenga conocimiento de ellas. En casos excepcionales y tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante resolución razonada. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados de lesa humanidad.
+El plazo para presentación de quejas será de un año a partir de la realización de acciones u omisiones que se estimen violatorias de derechos humanos o de que la parte quejosa tenga conocimiento de ellas. En casos excepcionales y tratándose de infracciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante resolución razonada. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados de lesa humanidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 31.
 
-Las quejas que sean notoriamente improcedentes o infundadas por las causas establecidas en esta ley u otros ordenamientos, serán rechazadas de inmediato, pero se proporcionará asesoría al quejoso sobre las posibles soluciones del caso.
+Las quejas que sean notoriamente improcedentes o infundadas por las causas establecidas en esta ley u otros ordenamientos, serán rechazadas de inmediato, pero se proporcionará asesoría a la parte quejosa sobre las posibles soluciones del caso.
 
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 En todos los casos operará la suplencia en la deficiencia de la queja.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 32.
 
-Si de la queja formulada no se deducen elementos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que la aclare; si después de dos requerimientos no contesta, aquélla será archivada por falta de interés y se le tendrá por desistido.
+Si de la queja formulada no se deducen elementos que permitan la intervención de la Comisión, ésta requerirá por escrito a la parte quejosa para que la aclare; si después de dos requerimientos no contesta, aquélla será archivada por falta de interés y se le tendrá por desistido.
 
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 33.
 
-La presentación de quejas y la emisión de recomendaciones u otras resoluciones que efectúe la Comisión no afectarán los derechos y medios de defensa susceptibles de ser ejercidos por el quejoso; tampoco suspenderán ni interrumpirán sus plazos de preclusión, prescripción o caducidad. Esta circunstancia deberá comunicarse al interesado en el acuerdo de admisión de la instancia.
+La presentación de quejas y la emisión de recomendaciones u otras resoluciones que efectúe la Comisión no afectarán los derechos y medios de defensa susceptibles de ser ejercidos por la parte quejosa; tampoco suspenderán ni interrumpirán sus plazos de preclusión, prescripción o caducidad. Esta circunstancia deberá comunicarse a la persona interesada en el acuerdo de admisión de la instancia.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 34.
 
-Cuando la naturaleza del caso lo permita, desde el momento en que se admita una queja, los funcionarios o el personal técnico y profesional de la Comisión se pondrán en contacto con la autoridad o servidor público señalado como presunto responsable de la violación de derechos humanos, con el objeto de intentar la conciliación de intereses entre las partes involucradas y lograr una solución inmediata de la controversia.
+Cuando la naturaleza del caso lo permita, desde el momento en que se admita una queja, los funcionarios o el personal técnico y profesional de la Comisión se pondrán en contacto con la autoridad o persona servidora pública señalada como presunta responsable de la violación de derechos humanos, con el objeto de intentar la conciliación de intereses entre las partes involucradas y lograr una solución inmediata de la controversia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 35.
 
-Simultáneamente a la admisión de la instancia, la Comisión ordenará la notificación de la queja a la autoridad o servidor público señalado como presunto responsable, directamente o por conducto del superior jerárquico, y le solicitará que rinda un informe y remita la documentación respectiva, sobre los actos, omisiones o resoluciones que le imputan, en un plazo de diez días hábiles, el cual podrá reducirse en casos urgentes.
+Simultáneamente a la admisión de la instancia, la Comisión ordenará la notificación de la queja a la autoridad o persona servidora pública señalada como presunta responsable, directamente o por conducto del superior jerárquico, y le solicitará que rinda un informe y remita la documentación respectiva, sobre los actos, omisiones o resoluciones que le imputan, en un plazo de diez días hábiles, el cual podrá reducirse en casos urgentes.
 
 La notificación de la queja y la presentación del informe se realizarán en forma escrita, y en caso de urgencia, por cualquier medio de comunicación electrónica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 36.
 
-En el informe que rinda la autoridad o servidor público señalado como presunto responsable deberá precisar si son ciertos o no los actos u omisiones que se le imputan y expresar los antecedentes, motivaciones y fundamentos que sirvieron de base para su actuación, así como los demás elementos que estime pertinentes.
+En el informe que rinda la autoridad o persona servidora pública señalada como presunta responsable deberá precisar si son ciertos o no los actos u omisiones que se le imputan y expresar los antecedentes, motivaciones y fundamentos que sirvieron de base para su actuación, así como los demás elementos que estime pertinentes.
 
 La falta de presentación del informe o de la documentación que los apoye, así como el retraso injustificado en su entrega, además de la responsabilidad correspondiente, establecerá la presunción de ser ciertos los actos u omisiones que se reclaman, salvo prueba en contrario.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 37.
 
-Una vez rendido el informe o transcurrido el plazo fijado para su presentación, se le dará vista del mismo al quejoso para que exprese lo que a su interés convenga, y si fuese necesario o procedente, se abrirá un período probatorio cuya duración determinará la Comisión tomando en cuenta la gravedad del caso y los problemas para obtener probanzas, pero no será menor de diez días hábiles.
+Una vez rendido el informe o transcurrido el plazo fijado para su presentación, se le dará vista del mismo a la parte quejosa para que exprese lo que a su interés convenga, y si fuese necesario o procedente, se abrirá un período probatorio cuya duración determinará la Comisión tomando en cuenta la gravedad del caso y los problemas para obtener probanzas, pero no será menor de diez días hábiles.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 38.
 
-Las partes podrán ofrecer toda clase de pruebas y la Comisión recabarlas de oficio; para tal efecto, los Visitadores realizarán las investigaciones conducentes obteniendo informes y documentos, practicando visitas e inspecciones, citando testigos y peritos, y en general, allegarán los medios probatorios que permitan el esclarecimiento de los hechos y resolver lo procedente.
+Las partes podrán ofrecer toda clase de pruebas y la Comisión recabarlas de oficio; para tal efecto, las y los Visitadores realizarán las investigaciones conducentes obteniendo informes y documentos, practicando visitas e inspecciones, citando testigos y peritos, y en general, allegarán los medios probatorios que permitan el esclarecimiento de los hechos y resolver lo procedente.
 
 ###### ARTICULO 39.
 
 Las pruebas recibidas serán analizadas y valoradas en su conjunto de acuerdo con los principios de la lógica y la experiencia, a fin de que puedan producir convicción sobre los hechos materia de la queja.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 40.
 
-En cualquier etapa del procedimiento la Comisión podrá solicitar a las autoridades o servidores públicos que se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas o de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron. Dichas medidas pueden ser de conservación o restitutorias, según lo requiera la naturaleza del asunto.
+En cualquier etapa del procedimiento la Comisión podrá solicitar a las autoridades o personas servidoras públicas que se tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas o de daños de difícil reparación a los afectados, así como solicitar su modificación cuando cambien las situaciones que las justificaron. Dichas medidas pueden ser de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
 ### CAPITULO II. DE LAS RESOLUCIONES Y MEDIOS DE IMPUGNACION
 
@@ -489,9 +587,13 @@ En cualquier etapa del procedimiento la Comisión podrá solicitar a las autorid
 
 En el ejercicio de sus funciones, la Comisión podrá emitir las siguientes resoluciones:
 
-I.- Acuerdos.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-II.- Recomendaciones.
+I.- Acuerdos;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+II.- Recomendaciones; y
 
 III.- Opiniones.
 
@@ -513,15 +615,19 @@ Los acuerdos de trámite son aquellas resoluciones generales que dicte la Comisi
 
 Los acuerdos de improcedencia son las resoluciones que dicte la Comisión en los casos previstos en el Artículo 9 de esta Ley y cuando la queja sea extemporánea.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 46.
 
-Los acuerdos de no responsabilidad son las resoluciones que deberá dictar la Comisión cuando no se comprueben las violaciones de derechos humanos imputados a una autoridad o servidor público.
+Los acuerdos de no responsabilidad son las resoluciones que deberá dictar la Comisión cuando no se comprueben las violaciones de derechos humanos imputados a una autoridad o persona servidora pública.
 
 ###### ARTICULO 47.
 
 Los acuerdos de sobreseimiento son las resoluciones mediante las cuales se suspende o termina el procedimiento y se ordena el archivo del expediente de queja por:
 
-I.- Desistimiento del quejoso;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+I.- Desistimiento de la parte quejosa;
 
 II.- Conciliación de intereses de las partes;
 
@@ -531,33 +637,39 @@ III.- Cumplimiento voluntario de la queja antes de emitirse recomendación; y
 
 IV.- Cualquier otra causa que haga desaparecer sustancialmente la materia de la queja.
 
-En el caso a que se refiere la Fracción II de este artículo, el expediente podrá reabrirse cuando el quejoso denuncie a la Comisión que no se ha cumplido con el compromiso o con la restitución plena de sus derechos.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+En el caso a que se refiere la fracción II de este artículo, el expediente podrá reabrirse cuando la parte quejosa denuncie a la Comisión que no se ha cumplido con el compromiso o con la restitución plena de sus derechos.
 
 Para este efecto la Comisión dictará el acuerdo correspondiente en un plazo de setenta y dos horas y proveerá las acciones y determinaciones conducentes.
 
-El acuerdo de sobreseimiento no prejuzga sobre la responsabilidad administrativa, civil o penal en que haya incurrido el servidor público.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+El acuerdo de sobreseimiento no prejuzga sobre la responsabilidad administrativa, civil o penal en que haya incurrido la persona servidora pública.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 48.
 
-La recomendación es la resolución mediante la cual, la Comisión, después de haber concluído las investigaciones del caso, determina de acuerdo con el análisis y evaluación de los hechos, argumentos y pruebas que constan en el expediente, que la autoridad o servidor público ha violado los derechos humanos del afectado, al haber incurrido en actos u omisiones ilegales, injustos, irrazonables, inadecuados o erróneos y señala las medidas procedentes para la efectiva restitución a los afectados de sus derechos fundamentales, y en su caso, las sanciones susceptibles de ser aplicadas al responsable.
+La recomendación es la resolución mediante la cual, la Comisión, después de haber concluido las investigaciones del caso, determina de acuerdo con el análisis y evaluación de los hechos, argumentos y pruebas que constan en el expediente, que la autoridad o la persona servidora pública ha violado los derechos humanos del afectado, al haber incurrido en actos u omisiones ilegales, injustos, irrazonables, inadecuados o erróneos y señala las medidas procedentes para la efectiva restitución a los afectados de sus derechos fundamentales, y en su caso, las sanciones susceptibles de ser aplicadas al responsable.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 49.
 
-La recomendación será pública y autónoma, no vinculatoria para la autoridad o servidor público a quien se dirija y no podrá por sí misma anular, modificar o revocar los actos o resoluciones impugnados y denunciados.
+La recomendación será pública y autónoma, no vinculatoria para la autoridad o persona servidora pública a quien se dirija y no podrá por sí misma anular, modificar o revocar los actos o resoluciones impugnados y denunciados.
 
-En todo caso, una vez notificada la recomendación, el servidor público informará a la Comisión en un plazo de diez días hábiles si acepta o no dicha resolución y en caso afirmativo, remitirá dentro de los quince días siguientes las pruebas de su cumplimiento, pudiendo ampliarse el término cuando la naturaleza del asunto lo amerite.
+En todo caso, una vez notificada la recomendación, la persona servidora pública informará a la Comisión en un plazo de diez días hábiles si acepta o no dicha resolución y en caso afirmativo, remitirá dentro de los quince días siguientes las pruebas de su cumplimiento, pudiendo ampliarse el término cuando la naturaleza del asunto lo amerite.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o personas servidoras públicas, éstos deberán fundar, motivar y hacer pública su negativa.
 
-Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+En los casos establecidos en el párrafo anterior, la Comisión podrá solicitar al Congreso del Estado que llame a comparecer a las personas servidoras públicas que se nieguen a responder a las recomendaciones que emita, con objeto de que expliquen el motivo de su negativa.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
-
-En los casos establecidos en el párrafo anterior, la Comisión podrá solicitar al Congreso del Estado que llame a comparecer a los servidores públicos que se nieguen a responder a las recomendaciones que emita, con objeto de que expliquen el motivo de su negativa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 50.
 
-En los casos a que se refiere el artículo 9 de esta ley y de quejas extemporáneas, la Comisión podrá emitir opiniones en relación con los actos y omisiones provenientes de autoridades y servidores públicos que sean violatorios de derechos humanos.
+En los casos a que se refiere el artículo 9 de esta ley y de quejas extemporáneas, la Comisión podrá emitir opiniones en relación con los actos y omisiones provenientes de autoridades y personas servidoras públicas que sean violatorios de derechos humanos.
 
 Esta facultad será de naturaleza discrecional y la Comisión podrá ejercerla tomando en cuenta la gravedad o la urgencia del caso con el objeto de impedir o de extinguir violaciones a los derechos humanos.
 
@@ -565,11 +677,15 @@ Esta facultad será de naturaleza discrecional y la Comisión podrá ejercerla t
 
 La Comisión no estará obligada a entregar constancias, pruebas o actuaciones que obran en los expedientes a persona o autoridad alguna.
 
-De la misma manera, los servidores públicos que laboren en la Comisión no estarán obligados a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales o administrativos y se encuentre relacionada con su intervención en el tratamiento de las quejas radicadas en dicho Organismo.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+De la misma manera, las personas servidoras públicas que laboren en la Comisión no estarán obligados a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales o administrativos y se encuentre relacionada con su intervención en el tratamiento de las quejas radicadas en dicho Organismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 52.
 
-El quejoso tendrá derecho a impugnar la resolución definitiva de la Comisión que ponga fin al Procedimiento de queja, mediante el recurso de reconsideración.
+La parte quejosa tendrá derecho a impugnar la resolución definitiva de la Comisión que ponga fin al procedimiento de queja, mediante el recurso de reconsideración.
 
 El recurso deberá interponerse por escrito ante la propia Comisión dentro del plazo de diez días hábiles y contener una descripción de los hechos y razonamientos en que se apoya.
 
@@ -581,63 +697,89 @@ La Comisión resolverá el recurso en un plazo no mayor de quince días hábiles
 
 Las resoluciones que dicte la Comisión en los procedimientos de queja serán notificados a las partes en forma inmediata, utilizando los medios de comunicación más idóneos según sea el caso.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 54.
 
-El Presidente de la Comisión deberá publicar en su totalidad o en forma resumida las recomendaciones y los acuerdos de no Responsabilidad, así como otras resoluciones que juzgue conveniente. En casos excepcionales podrá determinar que los mismos sólo deben comunicarse a los interesados de acuerdo con las circunstancias del caso.
+La persona titular de la Presidencia de la Comisión deberá publicar en su totalidad o en forma resumida las recomendaciones y los acuerdos de no responsabilidad, así como otras resoluciones que juzgue conveniente. En casos excepcionales podrá determinar que los mismos sólo deben comunicarse a los interesados de acuerdo con las circunstancias del caso.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 55.
 
-El Presidente de la Comisión deberá enviar en el mes de enero de cada año un informe general al Congreso del Estado y al Titular del Poder Ejecutivo Estatal. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad. Asimismo, el Presidente de la Comisión comparecerá ante el Pleno Legislativo, cuando así se solicite, para brindar información adicional, sobre las actividades de la Comisión.
+La persona titular de la Presidencia de la Comisión deberá enviar en el mes de enero de cada año un informe general al Congreso del Estado Libre y Soberano de Tamaulipas y a la persona Titular del Poder Ejecutivo Estatal. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad. Asimismo, la persona titular de la Presidencia de la Comisión comparecerá ante el Pleno Legislativo, cuando así se solicite, para brindar información adicional, sobre las actividades de la Comisión.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 56.
 
-Los informes anuales del Presidente de la Comisión deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado ante y por la Comisión, la mención en cada caso de las autoridades investigadas, así como de las resoluciones y resultados obtenidos en las mismas.
+Los informes anuales de la persona titular de la Presidencia de la Comisión deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado ante y por la Comisión, la mención en cada caso de las autoridades investigadas, así como de las resoluciones y resultados obtenidos en las mismas.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 También expresarán las estadísticas, los programas desarrollados, el resumen de las acciones de inconstitucionalidad promovidas y los demás datos que se consideren convenientes.
 
-El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos para promover la expedición, modificación o derogación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más eficaz los derechos humanos y lograr una mayor eficiencia en la prestación del servicio público.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+El informe podrá contener proposiciones dirigidas a las autoridades y personas servidoras públicas para promover la expedición, modificación o derogación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más eficaz los derechos humanos y lograr una mayor eficiencia en la prestación del servicio público.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 En cumplimiento a las obligaciones que le impone la Ley General de Transparencia y Acceso a la Información Pública, la Comisión deberá poner a disposición del público y actualizar de oficio la información que al efecto establece el citado ordenamiento.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 57.
 
-Ninguna autoridad o servidor público podrá dar instrucciones a la Comisión con motivo de los informes señalados en los artículos anteriores.
+Ninguna autoridad o persona servidora pública podrá dar instrucciones a la Comisión con motivo de los informes señalados en los artículos anteriores.
 
-## TITULO CUARTO. DE LAS AUTORIDADES Y SERVIDORES PUBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2025)</small>
+
+## TITULO CUARTO. DE LAS AUTORIDADES Y PERSONAS SERVIDORAS PUBLICAS
 
 ### CAPITULO UNICO. DE LAS OBLIGACIONES Y RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 58.
 
-Las autoridades y servidores públicos del Estado y de los Municipios, tendrán la obligación de proporcionar a la Comisión:
+Las autoridades y las personas servidoras públicas del Estado y de los Municipios, tendrán la obligación de proporcionar a la Comisión:
 
-I.- Los informes y documentos que les requiera para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+I.- Los informes y documentos que les requiera para el cumplimiento de sus funciones; y
 
 II.- Las facilidades y el apoyo necesarios al personal autorizado de la Comisión para la práctica de visitas e inspecciones.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 59.
 
-A las autoridades y servidores públicos estatales que se les solicite información y documentación que estimen confidencial, lo comunicarán a la Comisión y expresarán las razones para considerarla así. En este supuesto la Comisión tendrá la facultad de hacer la calificación definitiva y solicitar que se le proporcione información v documentación que se manejará con la más estrecha reserva.
+A las autoridades y personas servidoras públicas estatales que se les solicite información y documentación que estimen confidencial, lo comunicarán a la Comisión y expresarán las razones para considerarla así. En este supuesto la Comisión tendrá la facultad de hacer la calificación definitiva y solicitar que se le proporcione información v documentación que se manejará con la más estrecha reserva.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 60.
 
-Las autoridades y servidores públicos serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión, de acuerdo con las disposiciones constitucionales y legales aplicables.
+Las autoridades y personas servidoras públicas serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión, de acuerdo con las disposiciones constitucionales y legales aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 61.
 
-Las autoridades y servidores públicos que no proporcionen la información veraz y oportuna o la documentación que les fuera solicitada por la Comisión, o que impidan la práctica de visitas e inspecciones a los funcionarios de la Comisión, serán sancionados con la responsabilidad administrativa que señalan el Código Municipal y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+Las autoridades y personas servidoras públicas que no proporcionen la información veraz y oportuna o la documentación que les fuera solicitada por la Comisión, o que impidan la práctica de visitas e inspecciones a las y los funcionarios de la Comisión, serán sancionados con la responsabilidad administrativa que señalan el Código Municipal para el Estado de Tamaulipas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 62.
 
-La Comisión podrá rendir un informe especial cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de autoridades y servidores públicos que deban intervenir o colaborar en sus investigaciones.
+La Comisión podrá rendir un informe especial cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de autoridades y personas servidoras públicas que deban intervenir o colaborar en sus investigaciones.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 63.
 
-La Comisión denunciará ante los órganos competentes a los servidores públicos que hubieran incurrido en delitos o infracciones en el desempeño de sus funciones, para la aplicación de las sanciones Penales o administrativas que procedan conforme a las leyes de la materia.
+La Comisión denunciará ante los órganos competentes a las y los servidores públicos que hubieran incurrido en delitos o infracciones en el desempeño de sus funciones, para la aplicación de las sanciones penales o administrativas que procedan conforme a las leyes de la materia.
 
 ## TITULO QUINTO. DEL REGIMEN LABORAL
 
@@ -649,9 +791,11 @@ La Comisión denunciará ante los órganos competentes a los servidores público
 
 Las relaciones laborales y prestaciones del personal Administrativo de la Comisión de Derechos Humanos del Estado de Tamaulipas, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 65.
 
-El personal que preste sus servicios a la Comisión, serán trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
+El personal que preste sus servicios a la Comisión, serán trabajadoras y trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
 
 ## TITULO SEXTO. DEL PATRIMONIO Y PRESUPUESTO
 
@@ -661,11 +805,11 @@ El personal que preste sus servicios a la Comisión, serán trabajadores de conf
 
 El patrimonio de la Comisión de Derechos Humanos del Estado se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se señalen en su presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 67.
 
-La Comisión remitirá su proyecto de presupuesto anual de egresos al Ejecutivo del Estado durante la segunda quincena del mes de octubre de cada año, por conducto de la Secretaría de Finanzas.
+La Comisión remitirá su proyecto de presupuesto anual de egresos a la persona titular del Ejecutivo del Estado durante la segunda quincena del mes de octubre de cada año, por conducto de la Secretaría de Finanzas.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -675,47 +819,61 @@ La Comisión remitirá su proyecto de presupuesto anual de egresos al Ejecutivo 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 68.
 
-El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las y los servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+El Órgano Interno de Control tendrá una persona titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
-En el desempeño de su cargo, el Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
+En el desempeño de su cargo, la persona Titular del Órgano Interno de Control se sujetará a los principios previstos en la ley en materia de responsabilidades administrativas del Estado.
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 69.
 
-El Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+La persona Titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta años cumplidos el día de la designación;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+II. Gozar de buena reputación y no haber sido condenada o condenado por delito doloso que amerite pena de prisión por más de un año;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
 
 III. Contar al momento de su designación con experiencia en el control, manejo y fiscalización de recursos;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+
 IV. Contar al día de su designación, con título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
 
 V. Contar con reconocida solvencia moral;
 
-VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultor o auditor externo del propio órgano, en lo individual durante ese periodo;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios o haber fungido como consultora o consultor o como auditora o auditor externo del propio órgano, en lo individual durante ese periodo;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
 
-VIII. No haber sido Secretario de Estado, Fiscal General de Justicia de alguna de las entidades federativas, Diputado Local, Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+VII. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2025)</small>
+
+VIII. No haber sido Secretaria o Secretario de Estado, titular de la Fiscalía General de Justicia de alguna de las entidades federativas, Diputada o Diputado Local, Gobernadora o Gobernador de algún Estado, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 70.
 
-El Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+La persona Titular del Órgano Interno de Control durará en su encargo seis años cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
 
-Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
+Tendrá un nivel jerárquico igual al de una Dirección General o su equivalente en la estructura orgánica del propio órgano, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización del Estado a que se refiere el artículo 76 de la Constitución Política del Estado de Tamaulipas.
 
 ## TRANSITORIOS
 
@@ -920,6 +1078,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 6 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-61 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN V, DEL ARTÍCULO 9o. DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-322 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
