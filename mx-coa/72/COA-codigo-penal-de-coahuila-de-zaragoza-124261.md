@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2024-12-03"
+last_updated: "2025-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -731,7 +731,9 @@ Artículo 46 (Persecución de los delitos culposos)
 
 Los delitos culposos sólo se perseguirán si existe querella de la víctima o persona ofendida, o de sus representantes legítimos o apoderados para dichos efectos.
 
-Se exceptúan de la regla del párrafo anterior a los delitos culposos de incendio forestal y de homicidio, con inclusión de cuando éste último se cometa bajo error vencible de tipo, mismos que se perseguirán de oficio.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+Se exceptúan de la regla del párrafo anterior a los delitos culposos de incendio forestal, incendio en zona urbana y de homicidio, con inclusión de cuando éste último se cometa bajo error vencible de tipo, mismos que se perseguirán de oficio.
 
 Sin embargo, el homicidio culposo también se perseguirá por querella, cuando el sujeto pasivo con relación al sujeto activo resulte ser cónyuge, compañero o compañera civil, concubinario o concubina, ascendiente o descendiente consanguíneo en línea recta, adoptante, adoptada o adoptado, pariente consanguíneo en línea colateral hasta el cuarto grado, o pariente por afinidad hasta el segundo grado. En tales casos, las personas que sean ofendidas podrán formular la querella.
 
@@ -5585,6 +5587,50 @@ Artículo 340 (Conductas con sustancias peligrosas)
 
 Se impondrá de dos a cuatro años de prisión y de mil a dos mil días multa, o de dos a cuatro años de libertad supervisada y de mil a dos mil días multa, a quien, sin autorización de las autoridades competentes, o sin observar las medidas de seguridad pertinentes, almacene, transporte o distribuya sustancias peligrosas para la vida, salud o patrimonio de las personas, por sus características tóxicas, corrosivas, explosivas, inflamables o combustibles.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+Artículo 340 bis (Incendio en zona urbana)
+
+Se impondrá de dos a seis años de prisión y de cuatrocientos a ochocientos días multa, a quien dolosamente y sin contar con el permiso o autorización de la autoridad competente para otorgarlo, provoque un incendio en un inmueble ubicado en zona urbana, propiedad o en posesión de una persona física o jurídica, de un ente público estatal o municipal y federal, cuando este se encuentre administrado por el Estado.
+
+Se aplicará la sanción prevista en el párrafo anterior, a quien dolosamente y sin contar con el permiso o autorización de la autoridad competente para otorgarlo, incendie maleza o cualquier material combustible en áreas públicas o de uso común ubicadas en zona urbana.
+
+Cuando se incendie a propósito uno o más árboles en algún parque o área verde de uso común que se ubiquen en una zona urbana del Estado o de cualquiera de sus municipios, se aplicará, según sea el caso, el artículo 420, 421 y 422 de este Código.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+Artículo 340 ter (Modalidades agravantes de incendios en zona urbana)
+
+Se aumentará en una mitad el mínimo y el máximo de las penas previstas en el artículo precedente, cuando:
+
+I. (Incendio con beneficio económico)
+
+Se obtenga un beneficio económico con el efecto del incendio;
+
+II. (Incendio que provoque daños)
+
+Como consecuencia del incendio se causen daños a propiedad ajena o se afecte la salud o la vida, de una o más personas;
+
+III. (Incendio extendido a bienes contiguos)
+
+El incendio se propague a bienes inmuebles contiguos;
+
+IV. (Incendio cercano a lugares de alto riesgo)
+
+El incendio se origine a una distancia menor a cien metros de hospitales, escuelas, gaseras, gasolineras y lugares que almacenen material altamente inflamable.
+
+Si como consecuencia de los incendios a que se refieren las fracciones anteriores y el artículo 340 bis, se llegaran a configurar otros tipos penales se aplicarán las reglas del concurso de delitos que proceda.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2025)</small>
+
+Artículo 340 quáter (Incendio en zona urbana por culpa)
+
+Cuando el incendio en las áreas referidas en los artículos 340 bis y 340 ter de este Código, sea causado por culpa, se impondrá a la persona responsable de la mitad del mínimo a la mitad del máximo de las penas de prisión señaladas en los artículos 340 bis y 340 ter, según el supuesto que se actualice, pero si el incendio no daña la propiedad, la vida o la salud de terceras personas, la pena de prisión que corresponda será alternativa a la de cien días multa, hasta multa por el valor de los daños causados, y también se le condenará a la reparación de dichos daños, en los términos de las disposiciones aplicables que para tal efecto prevé este Código.
+
+Para determinar la existencia de la culpa se estará a lo dispuesto en los artículos 42, 43, 44, 45, 46, 47, 48 y 53 de este Código, según sea el caso.
+
+Si antes de dictar sentencia se repara el daño causado culposamente, el hecho se excluirá de pena.
+
 ## Título Tercero. Delitos contra la seguridad pública
 
 ### Capítulo Segundo. Delitos contra tareas preventivas de seguridad pública
@@ -7159,9 +7205,11 @@ Se impondrá de dos a seis años de prisión y de cien a trescientos días multa
 
 ### Capítulo Tercero. Incendios forestales
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2025)</small>
+
 Artículo 420 (Incendio forestal o a árboles en parques y áreas verdes)
 
-Se impondrá de dos a seis años de prisión y de quinientos a mil días multa, a quien provoque dolosamente un incendio en no más de dos hectáreas, a algún bosque ubicado en cualquier parte del Estado que no sea de jurisdicción federal o que siéndolo se encuentre bajo la administración del Estado, o a propósito incendie uno o más árboles en algún parque o área verde de uso común que se ubiquen en una zona urbana del Estado o de cualquiera de sus municipios.
+Se impondrá de tres a siete años de prisión y de quinientos a mil días multa, a quien provoque dolosamente un incendio en no más de dos hectáreas, a algún bosque ubicado en cualquier parte del Estado que no sea de jurisdicción federal o que siéndolo se encuentre bajo la administración del Estado, o a propósito incendie uno o más árboles en algún parque o área verde de uso común que se ubiquen en una zona urbana del Estado o de cualquiera de sus municipios.
 
 Artículo 421 (Modalidades agravantes de incendios forestales)
 
@@ -8476,6 +8524,14 @@ Se derogan todas las disposiciones en contrario a este Decreto.
 P.O. 3 DE DICIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 136.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 298; EL ARTÍCULO 299 Y EL ARTÍCULO 300; SE ADICIONA EL ARTÍCULO 302 BIS, TODOS DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 251.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46 Y EL ARTÍCULO 420; SE ADICIONA EL ARTÍCULO 340 BIS, EL ARTÍCULO 340 TER Y EL ARTÍCULO 340 QUÁTER DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO ÚNICO.
 
