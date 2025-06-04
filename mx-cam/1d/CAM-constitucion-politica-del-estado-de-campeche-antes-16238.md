@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2025-05-28"
+last_updated: "2025-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -81,43 +81,37 @@ La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo prop
 
 ### CAPITULO III. De Los Derechos Humanos y sus Garantías
 
-(REFORMADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., P.O. 26 DE ABRIL DE 2024)
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 6.
 
 Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para toda persona que se encuentra en territorio nacional, las que estén en territorio campechano gozarán de los demás derechos humanos que la presente Constitución reconoce y garantiza en su ejercicio, así como los que surjan de los convenios internacionales suscritos por el Estado Mexicano y de las leyes que emita el Congreso de la Unión emanadas de la Carta Federal.
 
-Toda persona que sufra un daño o lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los Municipios, tendrá derecho a ser indemnizada conforme lo establece el artículo 101 bis de esta Constitución. En todas las decisiones y actuaciones de las autoridades administrativas, jurisdiccionales y legislativas, así como de las demás instituciones públicas o privadas de bienestar social, se velará y observará el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos humanos.
+Toda persona que sufra un daño o lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los Municipios, tendrá derecho a ser indemnizada conforme lo establece el artículo 101 bis de esta Constitución.
 
-Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá en ningún momento, ni en ninguna circunstancia, condicionarse o anteponerse a los derechos de la niñez y de la adolescencia. Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+En todas las decisiones y actuaciones de las autoridades administrativas, jurisdiccionales y legislativas, así como de las demás instituciones públicas o privadas de bienestar social, se velará y observará el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos humanos.
 
-(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
+Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá en ningún momento, ni en ninguna circunstancia, condicionarse o anteponerse a los derechos de la niñez y de la adolescencia.
+
+La alimentación adecuada es un derecho humano, el Estado promoverá permanentemente la erradicación del hambre y la mala nutrición.
+
+La lactancia materna es un derecho humano y el Estado promoverá campañas, políticas y programas para garantizar las condiciones que permitan a las madres y a las y los recién nacidos ejercerlo.
 
 La educación es un derecho humano. Este derecho incluye la facultad de recibir gratuitamente la enseñanza obligatoria en los términos que establece el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia.
 
-(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
-
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado promoverá y garantizará el respeto de este derecho.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2025)</small>
 
 Queda prohibido el maltrato a los animales. El Estado debe garantizar la protección, el trato adecuado, la conservación y el cuidado de los animales, en los términos que señalen las leyes respectivas.
 
-(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
-
 Toda persona tiene derecho a disfrutar de una vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
-
-(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
 
-(ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
-
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
-
 Toda persona tiene el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet.
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -217,7 +211,9 @@ En la educación básica que imparta el Estado será obligatoria la enseñanza d
 
 Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación.
 
-III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de las y los indígenas mediante programas de alimentación adecuada, promoviendo especialmente la lactancia materna a favor de la población infantil.
 
 IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda con pertinencia cultural, así como ampliar la cobertura de los servicios sociales básicos.
 
@@ -3639,10 +3635,18 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o
 
 P.O. 28 DE MAYO DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 91 POR EL QUE “SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24; LAS FRACCIONES I, V Y VI DEL ARTÍCULO 75 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 126 Y, SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 24; LA FRACCIÓN VII Y UN PÁRRAFO TERCERO AL ARTÍCULO 75; LA FRACCIÓN VI AL ARTÍCULO 121 Y UN PÁRRAFO QUINTO AL ARTÍCULO 126, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 91 POR EL QUE "SE REFORMAN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24; LAS FRACCIONES I, V Y VI DEL ARTÍCULO 75 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 126 Y, SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 24; LA FRACCIÓN VII Y UN PÁRRAFO TERCERO AL ARTÍCULO 75; LA FRACCIÓN VI AL ARTÍCULO 121 Y UN PÁRRAFO QUINTO AL ARTÍCULO 126, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Posterior a la fecha de publicación y entrada en vigor, se contará con 180 días hábiles, para armonizar el marco jurídico correspondiente, debiendo incluir disposiciones que determinen los alcances.
 
 TERCERO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas deberán contemplar las medidas presupuestales correspondiente (sic), que permitan dar cumplimiento gradual a las presentes disposiciones.
+
+P.O. 4 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 93 POR EL QUE “SE REFORMA EL ARTÍCULO 6o. Y LA FRACCIÓN III DEL PÁRRAFO DÉCIMO TERCERO DEL ARTÍCULO 7o., DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
