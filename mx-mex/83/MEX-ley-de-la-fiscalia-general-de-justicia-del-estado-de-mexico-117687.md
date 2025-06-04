@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2023-12-28"
+last_updated: "2025-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -549,7 +549,9 @@ La Fiscalía contará con las Fiscalías Especializadas en las materias siguient
 
 I. Anticorrupción.
 
-II. Delitos vinculados a la violencia de género.
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2025)</small>
+
+II. Atención a Mujeres Víctimas de Delitos por Razón de Género.
 
 III. Delitos cometidos por adolescentes.
 
@@ -562,6 +564,10 @@ V. Para la Atención de los Delitos cometidos contra la Libertad de Expresión, 
 VI. Las demás que se establezcan en el Reglamento.
 
 El personal operativo que integre las unidades administrativas antes referidas contará con la capacitación y en su caso especialización continua en los asuntos de su competencia, observando las mejores prácticas para el desempeño de sus funciones y la atención de las víctimas u ofendidos.
+
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2025)</small>
+
+Las Fiscalías Especializadas adscritas a la Fiscalía General de Justicia, gozarán de autonomía técnica y de gestión, en el ámbito de su competencia y tendrán, sin perjuicio de las facultades que se les concedan, deleguen o, en su caso, se desarrollen en la presente ley o en el Estatuto orgánico.
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -606,6 +612,28 @@ XVII. Las demás que le confieran otras disposiciones jurídicas aplicables.
 La Fiscalía Especializada en Combate a la Corrupción contará con las unidades administrativas, elementos de policía de investigación, así como recursos necesarios para el desempeño de sus funciones, conforme al Reglamento de esta Ley y la normatividad aplicable.
 
 El titular de esta Fiscalía será nombrado y removido en los términos señalados por la Constitución del Estado.
+
+> <small>(ADICIONADO, G.G. 4 DE JUNIO DE 2025)</small>
+
+###### Artículo 29 Ter.
+
+La Fiscalía Especializada en Atención de Delitos por Razón de Género cometidos contra Mujeres, Niñas, Niños y Adolescentes, tendrá a su cargo:
+
+I. Dirigir, integrar, coordinar y supervisar las investigaciones y en su caso, el ejercicio de la acción penal, por delitos cometidos contra las mujeres por razón de género, así como de los delitos de violencia familiar, delitos de incumplimiento de obligaciones alimentarias, homicidio de mujeres, feminicidio y demás delitos contemplados en el Código Penal del Estado, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y los otros ordenamientos nacionales y locales aplicables.
+
+II. Canalizar a víctimas hacia las dependencias o instituciones que proporcionen servicios tutelares, asistenciales, preventivos, y demás que sean necesarias, así como la vigilancia de su debida atención.
+
+III. Investigar delitos de violencia contra las mujeres por razón de género, en coordinación o auxilio de otras fiscalías, procuradurías de justicia o sus homólogas, de las entidades federativas o de la Federación.
+
+IV. Conocer y recibir las denuncias, querellas o investigaciones que se hayan presentado en otras unidades de la Fiscalía General, por hechos que pudieran ser constitutivos de los delitos de su competencia.
+
+V. Diseñar e implementar proyectos, estudios, programas permanentes de información y fomento de la cultura de la denuncia y legalidad, en materia de delitos relacionados por violencia a la mujer.
+
+VI. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+La Fiscalía Especializada en Atención de Delitos por Razón de Género cometidos contra Mujeres, Niñas, Niños y Adolescentes contará con las unidades administrativas, elementos de la policía de investigación, así como de los recursos necesarios para el desempeño de sus funciones, conforme al Reglamento de esta Ley y la normatividad aplicable.
+
+El personal adscrito a esta Fiscalía Especializada, además de cumplir con las características establecidas en la presente Ley, deberá contar con un perfil que garantice la aplicación de la perspectiva de género en su desempeño.
 
 ###### Artículo 30.
 
@@ -1958,3 +1986,11 @@ G.G. 28 DE DICIEMBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 119.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 29; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 29 Y EL ARTÍCULO 29 TER DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
