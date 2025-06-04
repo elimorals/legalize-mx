@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2024-04-05"
+last_updated: "2025-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -1205,9 +1205,17 @@ XII. Los organismos autónomos;
 
 XIII. La Universidad Autónoma del Estado de México;
 
-XIV. Dos mujeres representantes de organizaciones civiles especializadas en los Derechos Humanos de las Mujeres; y
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2025)</small>
 
-XV. Dos mujeres representantes de instituciones de investigación especializadas en equidad de género.
+XIV. Dos mujeres representantes de organizaciones civiles especializadas en los Derechos Humanos de las Mujeres;
+
+> <small>(REFORMADA, G.G. 4 DE JUNIO DE 2025)</small>
+
+XV. Dos mujeres representantes de instituciones de investigación especializadas en equidad de género; y
+
+> <small>(ADICIONADA, G.G. 4 DE JUNIO DE 2025)</small>
+
+XVI. La Fiscalía Especializada en Atención de Delitos por Razón de Género cometidos contra Mujeres, Niñas, Niños y Adolescentes.
 
 Las instituciones que gocen de autonomía por mandato constitucional, participarán en estricto apego a las disposiciones legales que las rijan.
 
@@ -2748,3 +2756,11 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 4 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 119.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 29; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 29 Y EL ARTÍCULO 29 TER DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 35; Y SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
