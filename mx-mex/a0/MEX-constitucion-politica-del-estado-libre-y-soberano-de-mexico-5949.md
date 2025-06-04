@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-05-16"
+last_updated: "2025-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2025.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -119,17 +119,25 @@ El Estado establecerá el Sistema de Cuidados del Estado de México que coordine
 
 Toda persona tiene derecho a elegir de forma libre la distribución del tiempo propio y para el autocuidado, que le permita decidir y ejercer la forma de vida que convenga a sus intereses, necesidades y voluntades. La ley establecerá las bases y modalidades que definan la competencia del estado y los municipios en la promoción, protección y ejercicio de este derecho.
 
-> <small>(ADICIONADO, G.G. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
-Los entes públicos del Estado garantizarán el derecho humano a una vida libre de violencia a las infancias, adolescencias y mujeres, tanto en el ámbito público como en el privado; debiendo observar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica, respeto a la dignidad humana de las mujeres, la no discriminación, la libertad y el desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos.
+Toda persona tiene derecho a vivir una vida libre de violencias. Los entes públicos del Estado tienen deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, para garantizar su derecho humano a una vida libre de violencias y a la integridad personal, tanto en el ámbito público como en el privado; debiendo garantizar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica; respeto a la dignidad humana de las mujeres, adolescentes, niñas y niños; perspectiva de género; no discriminación, libertad y desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos. La Ley definirá las bases y modalidades para su realización de conformidad con lo previsto en los artículos 83 Bis y 86 Bis.
 
 > <small>(ADICIONADO, G.G. 20 DE JULIO DE 2023)</small>
 
 El Estado promoverá políticas públicas inclusivas, que mejoren el bienestar, eleven la calidad de vida, y consoliden la justicia social; para erradicar cualquier práctica discriminatoria que someta o limite el acceso a los derechos sociales y la dignidad humana en la Entidad.
 
-> <small>(REFORMADO, G.G. 20 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
-El hombre y la mujer son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus miembros por ser base fundamental de la sociedad. Bajo el principio de igualdad consagrado en este precepto, debe considerarse la equidad entre hombre y mujer, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona, por consiguiente, las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen. El Estado promoverá la corresponsabilidad entre mujeres y hombres, las familias, la comunidad, el sector laboral y el propio Estado en las actividades de cuidado.
+La mujer y el hombre son iguales ante la ley, ésta garantizará el desarrollo pleno y la protección de la familia y sus integrantes por ser base fundamental de la sociedad. Bajo el principio de igualdad sustantiva consagrado en este precepto, debe considerarse la equidad entre mujer y hombre, en los ámbitos de desarrollo humano primordiales como lo son el educativo, laboral, político, económico, social y en general, todos aquellos que dignifiquen a la persona; por consiguiente, las autoridades deben velar porque en los ordenamientos secundarios se prevean disposiciones que la garanticen. El Estado promoverá la corresponsabilidad entre mujeres y hombres, las familias, la comunidad, el sector laboral y el propio Estado en las actividades de cuidado.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2025)</small>
+
+Toda persona tiene derecho a un trabajo digno. A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
+
+> <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2025)</small>
+
+El Estado y los municipios deberán de garantizar el derecho de las mujeres a la igualdad sustantiva. La Ley establecerá los mecanismos tendientes a la erradicación de toda discriminación, violencia o desigualdad contra las mujeres.
 
 > <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
@@ -1931,9 +1939,9 @@ XII. Nombrar a las y los Magistrados del Tribunal de Justicia Administrativa del
 
 XIII. Aceptar las renuncias de las Magistradas y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, previo sometimiento a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar sus licencias cuando éstas excedan de tres meses, sometiéndolas a la aprobación de la Legislatura del Estado o la Diputación permanente en su caso;
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2025)</small>
 
-XIV. Nombrar y remover libremente a las personas servidoras públicas del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes. Los nombramientos que realice favorecerán el principio de igualdad y equidad de género;
+XIV. Nombrar y remover libremente a las personas servidoras públicas del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes. Los nombramientos que realice garantizaran el principio de igualdad y paridad de género. Las leyes determinarán las formas y modalidades que correspondan.
 
 > <small>(REFORMADA, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -2105,9 +2113,13 @@ Para el despacho de los asuntos que la presente Constitución le encomienda, el 
 
 Para ser Secretaria o Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernadora o Gobernador del Estado.
 
-Para ser secretaria o secretario del despacho del Ejecutivo, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
-En los nombramientos de secretaria o secretario del despacho se favorecerá el principio de igualdad y equidad de género.
+Para ser secretaria o secretario del despacho del Ejecutivo, se requiere ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+
+En los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo del Estado se deberá garantizar el principio de igualdad y paridad de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -2149,19 +2161,17 @@ Asimismo, podrá aplicar mecanismos alternativos de solución de controversias, 
 
 El Ministerio Público hará efectivos los derechos del Estado en los casos que incidan en el ámbito de su competencia y en los casos previstos por la ley intervendrá en los juicios que afecten a quienes se otorgue especial protección, así como también en los procedimientos de ejecución de sentencias penales.
 
-> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 83.
 
-El Ministerio Público se integra en una Fiscalía General de Justicia, órgano público autónomo, dotado de personalidad jurídica y patrimonio propios con autonomía presupuestal, técnica y de gestión, así como con capacidad para decidir sobre el ejercicio de su presupuesto, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes aplicables, la cual estará a cargo de un Fiscal General.
+El Ministerio Público se integra en una Fiscalía General de Justicia, órgano público autónomo, dotado de personalidad jurídica y patrimonio propios con autonomía presupuestal, técnica y de gestión, así como con capacidad para decidir sobre el ejercicio de su presupuesto, que tiene como misión fundamental garantizar el acceso a la justicia de todas las personas, priorizando la protección de los derechos de las mujeres, adolescentes, niñas y niños, con perspectiva de género y una visión de igualdad sustantiva en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes aplicables, la cual estará a cargo de un Fiscal General.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+La ley establecerá las bases para la formación y profesionalización de las personas servidoras públicas de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos.
 
-La ley establecerá las bases para la formación y profesionalización de las personas servidoras públicas de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+Las personas servidoras públicas de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
-
-Las personas servidoras públicas de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+Para proteger el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias, la Fiscalía General de Justicia contará con una Fiscalía Especializada en Atención de Delitos por Razón de Género cometidos contra Mujeres, Niñas Niños y Adolescentes, con perspectiva de género.
 
 > <small>(ADICIONADO, G.G. 28 DE JULIO DE 2016)</small>
 
@@ -2175,9 +2185,13 @@ Su organización se regirá por los ejes de desconcentración territorial y espe
 
 Asimismo contará con las unidades administrativas necesarias para el ejercicio de sus funciones, de conformidad con las normas aplicables y la disponibilidad presupuestal.
 
-La Fiscalía General de Justicia contará con las fiscalías en materia de delitos electorales y anticorrupción, cuyos titulares serán nombrados y removidos por el Fiscal General y estarán jerárquicamente subordinados a éste.
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
-El nombramiento y la remoción referidos podrán ser objetados por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado en el plazo de diez días hábiles, a partir de la notificación de éstos.
+La Fiscalía General de Justicia contará, al menos con las fiscalías en materia de delitos electorales, anticorrupción y relacionados con la violencia de género contra mujeres, niñas niños y adolescentes, cuyos titulares serán nombrados y removidos por el Fiscal General y estarán jerárquicamente subordinados a éste.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
+
+El nombramiento y la remoción de los titulares de las fiscalías especializadas antes referidas podrán ser objetados por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado en el plazo de diez días hábiles, a partir de la notificación de éstos.
 
 Si la Legislatura se encontrará en receso, la Diputación Permanente convocará de inmediato a la Legislatura del Estado, a un periodo extraordinario, para objetar la designación o remoción, de conformidad con el procedimiento establecido.
 
@@ -2273,15 +2287,17 @@ El Ministerio Público y las policías se coordinarán en términos de la Ley Ge
 
 El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 86 Bis.
 
-La Seguridad Pública es una función del Estado a cargo de la Federación, las entidades federativas y los municipios, en sus respectivos ámbitos de competencia, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, que comprende la prevención, investigación y persecución de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+La Seguridad Pública es una función del Estado a cargo de la Federación, las entidades federativas y los municipios, en sus respectivos ámbitos de competencia, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 5o. de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, que comprende la prevención, investigación y persecución de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, así como por la perspectiva de género, la responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
 
-> <small>(ADICIONADO, G.G. 24 DE FEBRERO DE 2011)</small>
+La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en términos de ley, en la competencia correspondiente. La actuación de las instituciones de seguridad pública se regirá bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las Instituciones Policiales, deberán de coordinarse entre si para cumplir los objetivos de la Seguridad Pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública.
+Las Instituciones de Seguridad Pública serán disciplinadas, profesionales y de carácter civil.
+
+El Ministerio Público y las Instituciones Policiales deben coordinarse entre sí para cumplir los fines de la seguridad pública conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos, y conformarán los Sistemas Nacional y Estatal de Seguridad Pública, y deberán garantizar el cumplimiento de sus objetivos bajo los principios de igualdad sustantiva y no discriminación, con un enfoque integral que priorice la prevención, investigación y sanción de las violencias de género, y deberán promover una cultura de paz y respeto a los derechos humanos. Se prestará especial atención a las necesidades y particularidades de las mujeres, adolescentes, niñas y niños, asegurando su acceso a la justicia y a una vida libre de violencias.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -2869,11 +2885,11 @@ VI. Las y los ministros de cualquier culto, a menos que se separen formal, mater
 
 Las y los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 121.
 
-Para el despacho de los asuntos municipales cada Ayuntamiento designará una Secretaria o un Secretario y sus atribuciones serán las que determine la ley respectiva.
+Para el despacho de los asuntos municipales cada Ayuntamiento designará una Secretaria o un Secretario, garantizando el principio de paridad de género y sus atribuciones serán las que determine la ley respectiva.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2891,11 +2907,13 @@ Los municipios tendrán a su cargo las funciones y servicios públicos que seña
 
 Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento.
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 123.
 
-Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como lo relacionado al Sistema Municipal Anticorrupción y funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables. En la designación de los cargos de dirección de la administración pública municipal se observará el principio de igualdad y equidad de género.
+Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como lo relacionado al Sistema Municipal Anticorrupción y funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables.
+
+En los nombramientos de las personas titulares en la administración pública municipal, los Ayuntamientos deberán garantizar el principio de igualdad y de paridad de género, en la forma y modalidades que la ley determine.
 
 > <small>(REFORMADO, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -2993,13 +3011,13 @@ V. Asumir la representación jurídica del Municipio, conforme a la ley respecti
 
 VI. Rendir al ayuntamiento en sesión solemne de cabildo, dentro de los primeros cinco días hábiles del mes de diciembre de cada año, un informe por escrito y en medio electrónico del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2025)</small>
 
-VII. Someter a la consideración del Ayuntamiento los nombramientos de las o los titulares de las dependencias y entidades de la administración pública municipal;
+VII. Someter a la consideración del Ayuntamiento los nombramientos de personas titulares de las dependencias y entidades de la administración pública municipal, garantizando el principio de igualdad y paridad de género, en la forma y modalidades que la ley determine;
 
-> <small>(REFORMADA, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2025)</small>
 
-VIII. Nombrar y remover libremente a las o los servidores públicos del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan;
+VIII. Nombrar y remover libremente a las personas servidoras públicas del municipio cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes que de ella emanan, garantizando el principio de igualdad y paridad de género, en la forma y modalidad que la ley determine;
 
 > <small>(ADICIONADA, G.G. 16 DE MAYO DE 2001)</small>
 
@@ -5518,3 +5536,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “DECRETO NÚMERO 121.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS DÉCIMO SEGUNDO Y DÉCIMO CUARTO, DEL ARTÍCULO 5, LA FRACCIÓN XIV DEL ARTÍCULO 77, LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 79, EL ARTÍCULO 83, LOS PÁRRAFOS QUINTO Y SEXTO DEL ARTÍCULO 83 BIS, LOS ARTÍCULOS 86 BIS, 121 Y 123 Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 128, Y LAS ADICIONES DE LOS PÁRRAFOS DÉCIMO QUINTO Y DÉCIMO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
