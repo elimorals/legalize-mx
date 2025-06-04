@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-financiera-para-el-bienestar-172689"
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-04-17"
-last_updated: "2024-04-17"
+last_updated: "2025-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172689&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2024-04-04"
 ---
 # ESTATUTO ORGANICO DE FINANCIERA PARA EL BIENESTAR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR, PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2025 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Número 21 del Diario Oficial de la Federación, el miércoles 17 de abril de 2024.
 
@@ -734,3 +738,29 @@ QUINTO.- El Organismo emitirá el Manual de Organización Institucional en un pl
 SEXTO.- La persona Titular de la Dirección General designará a la persona servidora pública que consolidará y realizará el Acta Entrega Recepción de la Dirección de la Red Troncal a la Dirección de la Red de Telecomunicaciones y Mexsat.
 
 Ciudad de México, a 4 de abril de 2024.- Directora General de Financiera para el Bienestar, Mtra. María del Rocío Mejía Flores.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 4 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de Financiera para el Bienestar publicado en el Diario Oficial de la Federación el 17 de abril de 2024.
+
+TERCERO. A partir de la entrada en vigor de este Estatuto Orgánico, las Unidades Administrativas asumirán el ejercicio de las facultades, atribuciones y funciones que les correspondan, conforme a lo establecido en la normatividad vigente.
+
+CUARTO. Las menciones y atribuciones contenidas en otras disposiciones normativas a las unidades administrativas que dejan de existir serán realizadas por las nuevas unidades administrativas, hasta en tanto se autorice la Estructura Orgánica de Financiera para el Bienestar, tendrán las atribuciones siguientes:
+
+I. La persona Titular de la anterior Dirección Ejecutiva de Operación, asumirá el ejercicio de las facultades, atribuciones y funciones que le competen a la Dirección de Servicios Financieros y Operación de Sucursales, para lo cual, contará con las Unidades Administrativas y personal de apoyo necesario para el cumplimiento de sus funciones;
+
+II. La persona Titular de la anterior Dirección Ejecutiva de Administración, asumirá el ejercicio de las facultades, atribuciones y funciones que le competen a la Dirección de Administración y Finanzas, para lo cual, contará con las Unidades Administrativas y personal de apoyo necesario para el cumplimiento de sus funciones;
+
+III. La persona Titular de la anterior Dirección de Financiamiento y de Planeación, asumirá el ejercicio de las facultades, atribuciones y funciones que le competen a la Dirección de Planeación e Inclusión Financiera, para lo cual, contará con las Unidades Administrativas y personal de apoyo necesario para el cumplimiento de sus funciones.
+
+IV. La persona Titular de la anterior Dirección de Cumplimiento e Inteligencia, asumirá el ejercicio de las facultades, atribuciones y funciones que le competen a la Dirección de Inteligencia y Atención de Riesgos, para lo cual, contará con las Unidades Administrativas y personal de apoyo necesario para el cumplimiento de sus funciones
+
+El Organismo propondrá el nombramiento del titular de la Unidad Administrativa ante la Junta Directiva y gestionará ante la SHCP y la SABG, la aprobación y registro de la Estructura Orgánica, en términos de la normatividad aplicable.
+
+QUINTO. El Organismo emitirá el Manual de Organización Institucional en un plazo no mayor a 100 días hábiles posteriores a la aprobación y registro de la Estructura Orgánica.
