@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-95643"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2015-12-31"
+last_updated: "2025-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de julio de 2013.
 
@@ -61,11 +61,13 @@ La presente ley es de orden público y tiene por objeto regular las acciones rel
 
 Están sujetos a la disposición de esta ley:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-I.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Obra Pública y Comunicaciones, tratándose de la obra pública en el ámbito estatal.
+I.- El titular del Poder Ejecutivo del Estado, por conducto de la persona titular de la Secretaría de Infraestructura, tratándose de la obra pública en el ámbito estatal.
 
-II.- Los municipios por conducto de sus órganos u organismos administrativos que tengan facultades para ejecutar obra pública en términos de la Ley Orgánica Municipal, de su Decreto de Creación o cuando así lo determine el Ayuntamiento Municipal.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+II.- Los municipios por conducto de sus órganos u organismos administrativos que tengan facultades para ejecutar obra pública en términos de la Ley de Desarrollo Constitucional en Materia de Gobierno y Administración Municipal del Estado de Chiapas, de su Decreto de Creación o cuando así lo determine el Ayuntamiento Municipal.
 
 Las personas de derecho público de carácter estatal o municipal con autonomía derivada de sus decretos o acuerdos de creación o de la propia Constitución Local, para la realización de las obras propias, aplicarán las disposiciones estatales para la contratación, ejecución, supervisión y control de la obra pública, en lo que no se contraponga a los ordenamientos legales que los rigen, por lo que los órganos de control observarán estrictamente esta disposición.
 
@@ -75,15 +77,17 @@ La ejecución de la obra pública que realice el Poder Ejecutivo del Estado o lo
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-I.- Secretaría: A la Secretaría de Obra Pública y Comunicaciones, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la Infraestructura Física Educativa del Estado, de vivienda, infraestructura de desarrollo de energías, la construcción de Villas y Ciudades Rurales, y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, así como caminos e infraestructura hidráulica o cualquier otro rubro, que por disposición de Ley se encuentre reservada a una instancia diferente.
+I.- Secretaría: A la Secretaría de Infraestructura, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la Infraestructura Física Educativa del Estado, de vivienda, infraestructura de desarrollo de energías, la construcción de Villas y Ciudades Rurales, y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, así como caminos y puentes e infraestructura social básica o cualquier otro rubro, que por disposición de Ley, se encuentre reservada a una instancia diferente.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la Infraestructura Física Educativa, de Vivienda, de infraestructura de desarrollo de energías, para la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, así como caminos e infraestructura hidráulica, que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
+II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la Infraestructura Física Educativa, de Vivienda, de infraestructura de desarrollo de energías, para la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, así como caminos y puentes e infraestructura social básica que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
 
-III.- Municipios: Los señalados como tales en la Constitución Política local y en Ley Orgánica Municipal del Estado de Chiapas;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+III.- Municipios: Los señalados como tales en la Constitución Política del Estado Libre y Soberano de Chiapas y en la Ley de Desarrollo Constitucional en Materia de Gobierno y Administración Municipal;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -93,7 +97,9 @@ V.- Contratista: A la persona física o moral que celebra contratos de obra púb
 
 VI.- Licitante o proponente: A la persona física o moral que participa en cualquier procedimiento de licitación pública o bien de invitación restringida a tres o más personas;
 
-VII.- Órgano de Control: A la Dependencia del Ejecutivo Estatal denominada Secretaria de la Función Pública y en el caso de los municipios, el Síndico Municipal;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+VII.- Órgano de Control: A la Dependencia del titular del Poder Ejecutivo Estatal denominada Secretaría Anticorrupción y Buen Gobierno y en el caso de los municipios, el Síndico Municipal;
 
 VIII.- Gastos no Recuperables: Son las erogaciones acreditables realizadas por el contratista en el procedimiento de que se trate, previsto por esta ley, considerándose como tales los siguientes conceptos directamente relacionados con el procedimiento de que se trate:
 
@@ -105,13 +111,17 @@ c).- Costo de la preparación que exclusivamente corresponderá al pago de honor
 
 d).- En su caso, el costo de la emisión de garantías.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-IX.- Supervisor: Al servidor público adscrito a la Secretaría de Obra Pública y Comunicaciones, encargado de supervisar, vigilar, revisar y controlar el desarrollo de los trabajos de la obra pública, en sus aspectos de cantidad, calidad, costo y tiempo establecidos en el contrato respectivo y en los programas de ejecución del mismo; de tomar las decisiones técnicas correspondientes y necesarias para la correcta ejecución de los trabajos, mismo que será designado por la Secretaría de Obra Pública y Comunicaciones o el Municipio, según sea el caso, tan pronto sea adjudicada la obra correspondiente;
+IX.- Supervisor: La o el servidor público adscrito a la Secretaría de Infraestructura, encargado de supervisar, vigilar, revisar y controlar el desarrollo de los trabajos de la obra pública, en sus aspectos de cantidad, calidad, costo y tiempo establecidos en el contrato respectivo y en los programas de ejecución del mismo; de tomar las decisiones técnicas correspondientes y necesarias para la correcta ejecución de los trabajos, mismo que será designado por la Secretaría de Infraestructura o el Municipio, según sea el caso, tan pronto sea adjudicada la obra correspondiente;
 
-X.- Supervisor Externo: A la persona física o moral que mediante el contrato correspondiente, desarrollará las actividades de supervisión de obra en términos de la presente ley, su reglamento y demás disposiciones normativas vigentes, ajustándose en todo caso a los lineamientos que emita la Secretaria de la Función Pública;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-XI.- Verificador de Obra: Al servidor público adscrito a la Secretaria de la Función Pública, encargado de vigilar y verificar que los trabajos relativos a la supervisión externa en materia de obra del Ejecutivo, se ejecuten con apego a lo previsto en los contratos y programas respectivos y de conformidad con lo establecido en la presente ley y demás normatividad aplicable;
+X.- Supervisor Externo: A la persona física o moral que mediante el contrato correspondiente, desarrollará las actividades de supervisión de obra en términos de la presente ley, su reglamento y demás disposiciones normativas vigentes, ajustándose en todo caso a los lineamientos que emita la Secretaría Anticorrupción y Buen Gobierno;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+XI.- Verificador de Obra: La o el servidor público adscrito a la Secretaría Anticorrupción y Buen Gobierno, encargado de vigilar y verificar que los trabajos relativos a la supervisión externa en materia de obra del Ejecutivo, se ejecuten con apego a lo previsto en los contratos y programas respectivos y de conformidad con lo establecido en la presente ley y demás normatividad aplicable;
 
 XII.- Obra del Ejecutivo: A la obra pública ejecutada exclusivamente por las dependencias u organismos integrantes del Poder Ejecutivo del Estado;
 
@@ -133,7 +143,9 @@ IV.- Los servicios relacionados con la obra pública consistentes en los trabajo
 
 V.- Todos aquellos actos de naturaleza análoga a los que se ha hecho referencia en este artículo.
 
-Quedan excluidos de ser considerados como obra pública, los trabajos regulados por la Ley de Proyectos de Prestación de Servicios del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+Quedan excluidos de ser considerados como obra pública, los trabajos regulados por la Ley de Asociaciones Público Privada para el Estado de Chiapas.
 
 Cuando esta ley se refiera a la obra pública, se entenderá implícito los servicios relacionados con las mismas y su regulación se ajustará a lo previsto en el presente ordenamiento, en lo conducente, adecuándose a la naturaleza de los servicios respectivos.
 
@@ -141,9 +153,11 @@ Cuando esta ley se refiera a la obra pública, se entenderá implícito los serv
 
 El gasto de la obra pública se sujetará a las previsiones contenidas en las leyes que regulan el presupuesto, contabilidad y el gasto público del Estado y de los Municipios, según corresponda.
 
-###### Artículo 6°.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
 
-La Secretaría de la Función Pública y la Secretaria de Hacienda, en el ámbito estatal y conforme a sus respectivas competencias, dictarán las disposiciones administrativas y normativas que requieran la adecuada aplicación de esta Ley y su Reglamento. En lo que respecta a los municipios, estas disposiciones serán dictadas por el síndico y el tesorero municipal en el ámbito de su respectiva competencia. Cuando tales disposiciones sean de carácter general se publicarán en el Periódico Oficial.
+###### Artículo 6.
+
+La Secretaría Anticorrupción y Buen Gobierno y la Secretaría de Finanzas, en el ámbito estatal y conforme a sus respectivas competencias, dictarán las disposiciones administrativas y normativas que requieran la adecuada aplicación de esta Ley y su Reglamento. En lo que respecta a los municipios, estas disposiciones serán dictadas por el síndico y el tesorero municipal en el ámbito de su respectiva competencia. Cuando tales disposiciones sean de carácter general se publicarán en el Periódico Oficial.
 
 ###### Artículo 7°.
 
@@ -165,7 +179,9 @@ En los convenios que para tal efecto se celebren, se establecerán los términos
 
 La Secretaría o los Municipios que ejecuten obra pública y los contratistas con quienes aquellos contraten, observarán las disposiciones federales, estatales y/o municipales que en materia de arquitectura, de construcción, de desarrollo urbano y de protección del ambiente, rijan en el lugar de la obra y cumplirán los requisitos que para tal efecto se establecen en los reglamentos de construcción correspondientes, incluyendo las disposiciones sobre seguridad y en su caso, las disposiciones destinadas a la integración de personas con capacidades diferentes.
 
-Los servidores públicos que incumplan esta disposición, serán responsables de los daños y perjuicios que se originen, sin perjuicio de la responsabilidad civil y penal que proceda conforme a los ordenamientos aplicables, o la administrativa a que se hagan acreedores, conforme a esta Ley o a la Ley de Responsabilidades de los Servidores Públicos del Estado.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+Las y los servidores públicos que incumplan esta disposición, serán responsables de los daños y perjuicios que se originen, sin perjuicio de la responsabilidad civil y penal que proceda conforme a los ordenamientos aplicables, o la administrativa a que se hagan acreedores, conforme a esta Ley o a la Ley de Responsabilidades Administrativas para el Estado de Chiapas.
 
 ###### Artículo 11.
 
@@ -189,13 +205,17 @@ En lo no previsto en la presente Ley, su Reglamento y demás disposiciones que d
 
 En la planeación, programación y presupuestación de las obras públicas, la Secretaría o los Municipios, se sujetarán a:
 
-I.- Lo dispuesto en la Ley General de Asentamientos Humanos y la Ley de Desarrollo Urbano del Estado de Chiapas, según corresponda;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+I.- Lo dispuesto en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Chiapas, según corresponda;
 
 II.- Los objetivos y prioridades del Plan Estatal de Desarrollo, los Planes Municipales de Desarrollo, los programas sectoriales, institucionales, regionales, especiales y municipales según correspondan, así como a las previsiones establecidas en los programas anuales operativos;
 
 III.- Los objetivos, metas y previsión de recursos establecidos en los presupuestos de egresos que la Secretaría y los municipios tengan autorizados, conforme a las normas fiscales que los rigen;
 
-IV.- Evaluar y verificar si se cumplen con los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+IV.- Evaluar y verificar si se cumplen con los Objetivos de Desarrollo Sostenible del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas.
 
 ###### Artículo 15.
 
@@ -205,13 +225,17 @@ El gasto público tendrá como base para la programación de la obra pública la
 
 La Secretaría y los Municipios elaborarán los programas de obra pública y sus respectivos presupuestos considerando:
 
-I.- Los estudios de preinversión que se requieran para definir la factibilidad técnica, económica, ecológica y social de la realización de la obra pública, los cuales deberán contener invariablemente la factibilidad de uso de suelo y demás autorizaciones que exija la Ley de Desarrollo Urbano del Estado de Chiapas, y otras disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+I.- Los estudios de preinversión que se requieran para definir la factibilidad técnica, económica, ecológica y social de la realización de la obra pública, los cuales deberán contener invariablemente la factibilidad de uso de suelo y demás autorizaciones que exija la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Chiapas, y otras disposiciones legales aplicables;
 
 II.- Los objetivos y metas a corto, mediano y largo plazo;
 
 III.- Las acciones previas, durante y posteriores a su ejecución, incluyendo las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquellas en servicio, en estricto apego a lo dispuesto en el artículo 10 de esta Ley;
 
-IV.- Las características ambientales, climáticas, geográficas y socioeconómicas de la región donde deba realizarse la obra pública, así mismo deberá cumplir con los Objetivos de Desarrollo del Milenio del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+IV.- Las características ambientales, climáticas, geográficas y socioeconómicas de la región donde deba realizarse la obra pública, así mismo deberá cumplir con los Objetivos de Desarrollo Sostenible del Programa de Naciones Unidas para el Desarrollo de la Organización de las Naciones Unidas;
 
 V.- La coordinación que sea necesaria para resolver posibles interferencias y evitar duplicidad de trabajos o interrupción de los servicios públicos;
 
@@ -231,7 +255,9 @@ XII.- El uso preferente del empleo de recursos humanos y materiales, productos, 
 
 XIII.- Toda instalación de concurrencia del público, deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogos de la obra y las específicas para personas con capacidades diferentes;
 
-XIV.- Los dictámenes de riesgo que emita el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas, para prever contingencias a futuro;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+XIV.- Los dictámenes de riesgo que emita el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas, para prever contingencias a futuro;
 
 XV.- Los resultados previsibles y los demás que deban tomarse en cuenta según la naturaleza y características de la obra.
 
@@ -247,11 +273,15 @@ II.- Por administración directa.
 
 La Secretaría o los Municipios dentro de sus programas, elaborarán los presupuestos de cada una de las obras públicas que deban realizar, distinguiendo las que se han de ejecutar por contrato, de las que se ejecutarán por administración directa.
 
-Estas formas de ejecución de la obra pública podrán ser cambiadas, una por otra, previa autorización de la Secretaría de Hacienda o de la Tesorería Municipal, según corresponda.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+Estas formas de ejecución de la obra pública podrán ser cambiadas, una por otra, previa autorización de la Secretaría de Finanzas o de la Tesorería Municipal, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 19.
 
-La Secretaría o los Municipios estarán obligados a prever los efectos sobre el ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental, previstos por la Ley General de Equilibrio Ecológico y Protección al Ambiente de Aplicación Federal, o por la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chiapas, sus respectivos reglamentos y las normas oficiales que emitan las autoridades competentes, según sea el caso.
+La Secretaría o los Municipios estarán obligados a prever los efectos sobre el ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental, previstos por la Ley General del Equilibrio Ecológico y Protección al Ambiente de Aplicación Federal, o por la Ley Ambiental del Estado de Chiapas, sus respectivos reglamentos y las normas oficiales que emitan las autoridades competentes, según sea el caso.
 
 Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales, cuando estas pudieran deteriorarse, y se dará la intervención que corresponda a las autoridades que tengan atribuciones en la materia.
 
@@ -265,7 +295,9 @@ El cumplimiento de esta disposición legal deberá acreditarse a través de un d
 
 La Secretaría y los Municipios, cuando indispensablemente lo requiera la ejecución de los trabajos y a efecto de evitar la interrupción de los mismos, previamente a su inicio, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación del inmueble sobre los cuales se ejecutará la obra pública. En las bases de licitación o condiciones de contratación en el caso de adjudicación directa, se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista y el procedimiento que se seguirá para solventar en el marco de las disposiciones aplicables, lo antes establecido.
 
-La ejecución de los trabajos requerirá contar con el dictamen de riesgo que al inicio de la obra deba emitir el Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+La ejecución de los trabajos requerirá contar con el dictamen de riesgo que al inicio de la obra deba emitir el Instituto para la Gestión Integral de Riesgos de Desastres del Estado de Chiapas.
 
 ###### Artículo 22.
 
@@ -277,11 +309,13 @@ En el caso de la obra pública cuya ejecución rebase un ejercicio presupuestal,
 
 Para participar en los procedimientos de adjudicación y contratación de la obra pública que establece esta Ley, el interesado deberá estar inscrito en el registro de contratistas, situación que se acreditará con la constancia que se emita en términos del artículo 26 de esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
 ###### Artículo 24.
 
-La Secretaría de la Función Pública y el Síndico Municipal, en el ámbito de sus respectivas competencias, tendrán a su cargo el registro de contratistas, fijando los criterios y procedimientos para constatar su capacidad financiera y especialidad técnica.
+La Secretaría Anticorrupción y Buen Gobierno y el Síndico Municipal, en el ámbito de sus respectivas competencias, tendrán a su cargo el registro de contratistas, fijando los criterios y procedimientos para constatar su capacidad financiera y especialidad técnica.
 
-Los municipios podrán convenir entre sí o con la Secretaría de la Función Pública, la utilización de un mismo registro de contratistas. La Secretaría de la Función Pública y los Municipios, intercambiarán información periódicamente del estado que guarden sus registros, la relación de contratistas con inscripción vigente y los demás datos de identificación de los mismos; semestralmente se darán a conocer el contenido de sus registros, indicando los datos de identificación de los contratistas inscritos, a través de su publicación en el Periódico Oficial o por los medios de comunicación electrónica.
+Los municipios podrán convenir entre sí o con la Secretaría Anticorrupción y Buen Gobierno, la utilización de un mismo registro de contratistas. La Secretaría Anticorrupción y Buen Gobierno y los Municipios, intercambiarán información periódicamente del estado que guarden sus registros, la relación de contratistas con inscripción vigente y los demás datos de identificación de los mismos; semestralmente se darán a conocer el contenido de sus registros, indicando los datos de identificación de los contratistas inscritos, a través de su publicación en el Periódico Oficial o por los medios de comunicación electrónica.
 
 ###### Artículo 25.
 
@@ -323,7 +357,9 @@ Todos los documentos señalados en las fracciones de la I a la VI y VIII inciso 
 
 El contratista que en su solicitud de inscripción al registro respectivo, presente documentación apócrifa, se le negará dicha inscripción y además, no podrá obtener la misma por un lapso de tres años siguientes a la resolución que niega la inscripción.
 
-La Secretaría de la Función Pública o el Síndico Municipal según corresponda, negaran la inscripción en el registro de contratista, cuando el interesado no exhiba la documentación requerida en esta disposición legal o no acredite las condiciones establecidas en el primer párrafo de este artículo.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno o el Síndico Municipal según corresponda, negaran la inscripción en el registro de contratista, cuando el interesado no exhiba la documentación requerida en esta disposición legal o no acredite las condiciones establecidas en el primer párrafo de este artículo.
 
 ###### Artículo 26.
 
@@ -435,9 +471,11 @@ El contratista a quien le haya sido cancelada su inscripción en el registro, po
 
 ### Capítulo IV. Del Registro de Supervisores Externos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
+
 ###### Artículo 35.
 
-Para ser supervisor de obra pública, el interesado deberá estar inscrito en el registro de supervisores, situación que se acreditará con la constancia que emita la Secretaria de la Función Pública, en el ámbito de sus respectivas competencias, quien estará a cargo del registro de supervisores del Estado.
+Para ser supervisor de obra pública, el interesado deberá estar inscrito en el registro de supervisores, situación que se acreditará con la constancia que emita la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, quien estará a cargo del registro de supervisores del Estado.
 
 Para obtener la inscripción en el registro de supervisores, los interesados deberán acreditar su existencia legal y personalidad jurídica y su especialidad técnica en la materia de la obra pública de que se trate, para lo cual presentarán los siguientes documentos:
 
@@ -453,9 +491,13 @@ V. Constancia emitida por el colegio de profesionistas en el Estado de Chiapas, 
 
 VI. No estar inscritos en el registro de contratistas.
 
-VII.- Los demás que determine la Secretaría de la Función Pública, a través de los lineamientos que para tal efecto emita.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-La Secretaría de la Función Pública, negará la inscripción en el registro de supervisores, cuando el interesado no exhiba la documentación requerida en esta disposición legal.
+VII. Los demás que determine la Secretaría Anticorrupción y Buen Gobierno, a través de los lineamientos que para tal efecto emita.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno, negará la inscripción en el registro de supervisores, cuando el interesado no exhiba la documentación requerida en esta disposición legal.
 
 La constancia de inscripción en el registro de supervisores respectivos, deberá otorgarse o negarse en un plazo no mayor de 30 días naturales siguientes a que se reciba la solicitud respectiva.
 
@@ -551,7 +593,9 @@ El titular, mediante dictamen de justificación, podrá exceptuar a los contrati
 
 Las garantías que contempla esta Ley se constituirán:
 
-I.- Cuando se trate de obras ejecutadas por la Secretaría, o por el Instituto de Infraestructura Física Educativa, a favor de la Secretaría de Hacienda.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+I.- Cuando se trate de obras ejecutadas por la Secretaría, o por el Instituto de la Infraestructura Física Educativa del Estado de Chiapas, a favor de la Secretaría de Finanzas.
 
 II.- Cuando se trate de obras ejecutadas por el municipio, a favor de la tesorería municipal.
 
@@ -561,7 +605,9 @@ La Secretaría o los Municipios se abstendrán de recibir propuestas o celebrar 
 
 I.- Aquellas con las que el servidor público que intervenga en cualquier etapa del procedimiento de contratación, tengan relación personal, familiar o de negocios de las que pueda resultar algún beneficio para él, su cónyuge, concubina o parientes consanguíneos hasta el cuarto grado y por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades de las que el servidor público o las personas antes referidas, formen parte; al menos que el servidor público le este permitido excusarse de intervenir en el procedimiento respectivo;
 
-II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano de control respectivo conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, derivados de la aplicación de dicha ley, de la ley en materia de adquisición del estado y del presente ordenamiento;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
+
+II.- Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano de control respectivo conforme a la Ley de Responsabilidades Administrativas para el Estado de Chiapas, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, derivados de la aplicación de dicha ley, de la ley en materia de adquisición del Estado y del presente ordenamiento;
 
 III.- Los licitantes que participen en un mismo procedimiento de contratación y que se encuentren vinculados entre sí por algún socio o asociado en común;
 
@@ -581,13 +627,15 @@ En el ejercicio de sus atribuciones el órgano de control respectivo podrá inte
 
 ### Capítulo II. De los Comités de Obra Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
+
 ###### Artículo 46.
 
-Para la contratación de la obra pública en cualquiera de las modalidades a las que se refiere el artículo 40 de esta Ley, se constituye el Comité de Obra Pública del Poder Ejecutivo del Estado y los Comités de Obra Pública en cada uno de los municipios de la Entidad. El primero estará a cargo de lo concerniente a la obra pública en el ámbito estatal que no se encuentre reservada por disposición de ley a un organismo especializado, los segundos en el ámbito territorial del municipio de que se trate.
+Para la contratación de la obra pública en cualquiera de las modalidades a las que se refiere el artículo 40 de la presente Ley, se constituye el Comité de Obra Pública del Poder Ejecutivo del Estado y los Comités de Obra Pública en cada uno de los municipios de la Entidad. El primero estará a cargo de lo concerniente a la obra pública en el ámbito estatal que no se encuentre reservada por disposición de ley a un organismo especializado, los segundos en el ámbito territorial del municipio de que se trate.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
 
-Para el caso específico de la infraestructura Física Educativa, de infraestructura de Vivienda, de infraestructura de desarrollo de energías, de la Construcción de Villas y Ciudades Rurales, de la Infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado; así como de caminos e infraestructura hidráulica, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Instituto de Desarrollo de Energías del Estado de Chiapas, un Comité de Obra Pública del Instituto de Población y Ciudades Rurales, un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y un Comité de Obra de la Comisión de Caminos e Infraestructura Hidráulica, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
+Para el caso específico de la infraestructura Física Educativa, de infraestructura de Vivienda, de infraestructura de desarrollo de energías, de la Construcción de Villas y Ciudades Rurales, de la Infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado; así como de caminos y puentes e infraestructura social básica, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Instituto de Desarrollo de Energías del Estado de Chiapas, un Comité de Obra Pública del Instituto de Población y Ciudades Rurales, un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, un Comité de Obra de la Comisión de Caminos y Puentes y un Comité de Obra Pública en la Secretaría del Humanismo, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
 
 En la conformación, operación y ejecución de los Comités de obra pública, se deberá observar lo estipulado en la presente Ley. Estos Comités serán los responsables de llevar a cabo la adjudicación de la obra pública en cualquiera de las modalidades a la que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
 
@@ -595,15 +643,17 @@ En la conformación, operación y ejecución de los Comités de obra pública, s
 
 El Comité de Obra Pública, estará integrado por los siguientes miembros:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
-l. Un Presidente, que será el Secretario de Obra Pública y Comunicaciones.
+I. Un Presidente o Presidenta, que será la persona Titular de la Secretaría de Infraestructura.
 
 II. Un Director Ejecutivo, que será nombrado por el Titular del Poder Ejecutivo del Estado.
 
 III. Los vocales siguientes:
 
-a) El Secretario de Hacienda.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+a) La persona titular de la Secretaría de Finanzas.
 
 b) El Responsable del Área Jurídica de la Secretaría de Infraestructura.
 
@@ -611,15 +661,19 @@ c) Los Titulares de las áreas adscritas a la Secretaría de Infraestructura, qu
 
 d) Un representante de la Cámara Mexicana de la Industria de la Construcción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
 
-El Secretario de Obra Pública y Comunicaciones designará a la persona que fungirá como Secretario Técnico del Comité, interviniendo en las sesiones y acuerdos de este, únicamente con derecho a voz.
+La persona titular de la Secretaría de Infraestructura, designará a la persona que fungirá como Secretario Técnico del Comité, interviniendo en las sesiones y acuerdos de este, únicamente con derecho a voz.
 
-Fungirán como invitados con derecho únicamente a voz, en todas las sesiones del Comité: El representante que designe la Secretaría de la Función Pública, como invitado permanente; un representante del Instituto de Acceso a la Información Pública Estatal; un representante del Órgano de Fiscalización Superior del Congreso del Estado; un representante del Colegio de Ingenieros Civiles del Estado de Chiapas; un representante del Colegio de Arquitectos del Estado de Chiapas; y los especialistas, que en su caso, determine el Presidente o el Comité, para recibir su asesoramiento u opinión técnica en las diversas disciplinas que puedan resultar como tema de discusión, de acuerdo a las características, magnitud, complejidad o especialidad técnica de la obra pública que se pretenda contratar. Los miembros del Comité y los invitados deberán guardar absoluta confidencialidad de la información a que tengan acceso referente a los asuntos en proceso de discusión que no hayan sido resueltos por el Comité. La participación de los invitados no hace necesaria su firma en el acta de la sesión correspondiente, salvo en aquellos casos donde a petición de los invitados y por acuerdo del Comité, sus comentarios deban ser asentados en la misma acta para el desahogo de un asunto.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+Fungirán como invitados con derecho únicamente a voz, en todas las sesiones del Comité: El representante que designe la persona titular de la Secretaría Anticorrupción y Buen Gobierno, como invitado permanente; un representante del Instituto de Acceso a la Información Pública Estatal; un representante de la Auditoría Superior del Estado de Chiapas; un representante del Colegio de Ingenieros Civiles del Estado de Chiapas; un representante del Colegio de Arquitectos del Estado de Chiapas; y los especialistas, que en su caso, determine el Presidente o el Comité, para recibir su asesoramiento u opinión técnica en las diversas disciplinas que puedan resultar como tema de discusión, de acuerdo a las características, magnitud, complejidad o especialidad técnica de la obra pública que se pretenda contratar. Los miembros del Comité y los invitados deberán guardar absoluta confidencialidad de la información a que tengan acceso referente a los asuntos en proceso de discusión que no hayan sido resueltos por el Comité. La participación de los invitados no hace necesaria su firma en el acta de la sesión correspondiente, salvo en aquellos casos donde a petición de los invitados y por acuerdo del Comité, sus comentarios deban ser asentados en la misma acta para el desahogo de un asunto.
 
 El representante de la Cámara Mexicana de la Industria de la Construcción, vocal del Comité, y los invitados representantes del Colegio de Ingenieros Civiles y del Colegio de Arquitectos del Estado de Chiapas, deberán excusarse y no participar en las sesiones del Comité, cuando tengan intereses directos o sean socios de empresas que se encuentren participando en procedimientos de concurso que estén siendo dictaminados por el Comité.
 
-El Titular del Poder Ejecutivo designará, mediante escrito, a la persona que fungirá como Director Ejecutivo del Comité de Obra Pública.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+La persona titular del Poder Ejecutivo designará, mediante escrito, a la persona que fungirá como Director Ejecutivo del Comité de Obra Pública.
 
 En ausencia del Presidente, el Comité estará presidido por el Director Ejecutivo, quien tendrá las mismas atribuciones que el Presidente. Los funcionarios que integren el Comité así como los invitados, podrán nombrar por escrito, a quienes serán sus suplentes para asistir a las sesiones, quienes tendrán los mismos derechos y atribuciones que sus Titulares.
 
@@ -1165,9 +1219,11 @@ A criterio de la Secretaría o el Municipio, en este tipo de procedimiento de ad
 
 Todos los documentos que forman parte de este procedimiento de adjudicación directa deberán ser firmados por el contratista. La Secretaría o el Municipio que realice el procedimiento de adjudicación directa, será responsable de que para la asignación de contratos de obra pública, se observen los criterios que garanticen su cumplimiento, la continuidad de los trabajos, su supervisión y control, así como los medios para exigir responsabilidad al contratista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
+
 ###### Artículo 77.
 
-La Secretaría podrá adjudicar de manera directa, en los términos de lo prescrito en el capítulo V, del Título Tercero de esta Ley a aquellos trabajos de supervisión externa correspondientes a la obra del ejecutivo, a favor de los miembros de los colegios de profesionistas relacionados con la infraestructura del Estado inscritos en el registro de supervisores de la Secretaría de la Función Pública, siempre que dichos colegios hayan celebrado previamente convenios relativos a esta materia con la Secretaría de la Función Pública.
+La Secretaría podrá adjudicar de manera directa, en los términos de lo prescrito en el capítulo V, del Título Tercero de esta Ley a aquellos trabajos de supervisión externa correspondientes a la obra del ejecutivo, a favor de los miembros de los colegios de profesionistas relacionados con la infraestructura del Estado inscritos en el registro de supervisores de la Secretaría Anticorrupción y Buen Gobierno, siempre que dichos colegios hayan celebrado previamente convenios relativos a esta materia con la Secretaría Anticorrupción y Buen Gobierno.
 
 Para la designación de los supervisores externos, los colegios de profesionistas relacionados con la infraestructura del estado, deberán asignar a sus miembros los trabajos de supervisión de obra, de manera rotativa garantizando la participación de todos los afiliados a los mismos.
 
@@ -1309,11 +1365,13 @@ El supervisor se ubicara en el sitio de la ejecución de los trabajos, cuando la
 
 Los números generadores, las estimaciones, prorrogas, bitácoras, el finiquito de la entrega y recepción de la obra y demás actos en que intervenga el supervisor, deberán ir acompañados de la firma del supervisor externo.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
 ###### Artículo 87.
 
-La Secretaría de la Función Pública, determinará los casos en que se realizaran o no los actos de supervisión de la obra pública del Ejecutivo a través de los supervisores externos, tomando en cuenta los criterios presupuestales, cuantía y características técnicas de la obra.
+La Secretaría Anticorrupción y Buen Gobierno, determinará los casos en que se realizaran o no los actos de supervisión de la obra pública del Ejecutivo a través de los supervisores externos, tomando en cuenta los criterios presupuestales, cuantía y características técnicas de la obra.
 
-Para tales efectos la Secretaría de la Función Pública, conjuntamente con la Secretaría y la Secretaría de Hacienda, emitirá un acuerdo en el que se determinarán de manera específica los criterios señalados en el párrafo anterior; así como los porcentajes, términos y plazos en que deben pagarse los contratos asignados al supervisor externo.
+Para tales efectos la Secretaría Anticorrupción y Buen Gobierno, conjuntamente con la Secretaría y la Secretaría de Finanzas, emitirá un acuerdo en el que se determinarán de manera específica los criterios señalados en el párrafo anterior; así como los porcentajes, términos y plazos en que deben pagarse los contratos asignados al supervisor externo.
 
 ###### Artículo 88.
 
@@ -1597,25 +1655,29 @@ Una vez concluida la obra o parte utilizable de la misma, la Secretaría o los M
 
 ### Capítulo V. De la Supervisión Externa
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
 ###### Artículo 105.
 
-En lo relativo a la obra del Ejecutivo, la Secretaría podrá contratar la supervisión externa, en los términos establecidos en el artículo 77, de la presente Ley, sujetándose al siguiente procedimiento:
+En lo relativo a la obra del Poder Ejecutivo, la Secretaría podrá contratar la supervisión externa, en los términos establecidos en el artículo 77, de la presente Ley, sujetándose al siguiente procedimiento:
 
-I. Inmediatamente posterior a la etapa de adjudicación de la obra del Ejecutivo, la Secretaría deberá informar de esta situación a la Secretaría de la Función Pública, solicitando en este mismo acto la designación de la persona que habrá de realizar los trabajos de supervisión externa, indicando cual es el tipo de especialidad que requiere para la realización de los mismos;
+I. Inmediatamente posterior a la etapa de adjudicación de la obra del Ejecutivo, la Secretaría deberá informar de esta situación a la Secretaría Anticorrupción y Buen Gobierno, solicitando en este mismo acto la designación de la persona que habrá de realizar los trabajos de supervisión externa, indicando cual es el tipo de especialidad que requiere para la realización de los mismos;
 
-II. Una vez recibida la solicitud a que hace mención la fracción anterior, la Secretaría de la Función Pública, determinará con base en la información que obre en los archivos del registro de supervisores, quienes son las personas registradas para realizar los trabajos de supervisión de obra, haciéndolo del conocimiento de los colegios de profesionistas relacionados con la infraestructura del estado al que pertenezcan.
+II. Una vez recibida la solicitud a que hace mención la fracción anterior, Anticorrupción y Buen Gobierno, determinará con base en la información que obre en los archivos del registro de supervisores, quienes son las personas registradas para realizar los trabajos de supervisión de obra, haciéndolo del conocimiento de los colegios de profesionistas relacionados con la infraestructura del estado al que pertenezcan.
 
-III. Los Colegios de profesionistas relacionados con la infraestructura del Estado, tomando en consideración la información proporcionada por la Secretaría de la Función Pública, de manera rotativa determinará de entre sus miembros a quien realizara los trabajos, informando de tal designación a la Secretaría de la Función Pública, dentro del término de dos días hábiles contados a partir de que sea recibida la solicitud.
+III. Los Colegios de profesionistas relacionados con la infraestructura del Estado, tomando en consideración la información proporcionada por la Secretaría Anticorrupción y Buen Gobierno, de manera rotativa determinará de entre sus miembros a quien realizara los trabajos, informando de tal designación a la Secretaría Anticorrupción y Buen Gobierno, dentro del término de dos días hábiles contados a partir de que sea recibida la solicitud.
 
-IV. En caso de que los colegios de profesionistas relacionados con la infraestructura no responda dentro del término concedido, se le requerirá por segunda ocasión para que dentro del término de veinticuatro horas, contado a partir de que reciba el requerimiento, realice la designación respectiva.
+IV. En caso de que los colegios de profesionistas relacionados con la infraestructura no responda (sic) dentro del término concedido, se le requerirá por segunda ocasión para que dentro del término de veinticuatro horas, contado a partir de que reciba el requerimiento, realice la designación respectiva.
 
-V. Recibida la respuesta por parte del Colegio de Ingenieros, la Secretaría de la Función Pública, analizará y en su caso validará la designación realizada, haciendo del conocimiento a la Secretaría el nombre de la o las personas designadas para realizar la supervisión externa, a efecto de que se formalice el contrato respectivo;
+V. Recibida la respuesta por parte del Colegio de profesionistas, la Secretaría Anticorrupción y Buen Gobierno, analizará y en su caso validará la designación realizada, haciendo del conocimiento a la Secretaría el nombre de la o las personas designadas para realizar la supervisión externa, a efecto de que se formalice el contrato respectivo;
 
-La Secretaría de la Función Pública, podrá en todos los casos, designar de manera directa a quien realizará la supervisión externa, cuando cumplido lo establecido en la fracción IV de este artículo, los colegios de profesionistas relacionados con la infraestructura no designe a ningún agremiado o bien, cuando se designe a una persona que, desde la opinión de esta, no cumpla o no tenga la capacidad para realizar los trabajos de supervisión externa que se requieran o cuando no exista persona física o moral agremiada a los Colegios de Ingenieros que pueda realizar los mismos, lo cual hará de manera discrecional.
+La Secretaría Anticorrupción y Buen Gobierno, podrá en todos los casos, designar de manera directa a quien realizará la supervisión externa, cuando cumplido lo establecido en la fracción IV de este artículo, los colegios de profesionistas relacionados con la infraestructura no designe a ningún agremiado o bien, cuando se designe a una persona que, desde la opinión de esta, no cumpla o no tenga la capacidad para realizar los trabajos de supervisión externa que se requieran o cuando no exista persona física o moral agremiada a los Colegios de Ingenieros que pueda realizar los mismos, lo cual hará de manera discrecional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 106.
 
-Los contratos en materia de supervisión externa, se entenderán celebrados entre la Secretaría y los supervisores externos, debiendo sujetarse los mismos, a los lineamientos que para tal efecto emita la Secretaría de la Función Pública.
+Los contratos en materia de supervisión externa, se entenderán celebrados entre la Secretaría y los supervisores externos, debiendo sujetarse los mismos, a los lineamientos que para tal efecto emita la Secretaría Anticorrupción y Buen Gobierno.
 
 Los Colegios de Profesionistas relacionados con la Infraestructura del Estado al que pertenezca quien resulte designado como supervisor externo, participara en la celebración de dichos contratos como testigo de asistencia.
 
@@ -1629,9 +1691,13 @@ El verificador de obra, comprobara que la documentación generada durante la sup
 
 El verificador de obra, con base en los informes rendidos por el supervisor externo y en los resultados de las visitas de campo que realice a la obra, podrá emitir las recomendaciones al supervisor externo que estime pertinentes de todas las observaciones que haya detectado con relación a la supervisión externa, con la finalidad de que estas sean corregidas.
 
-En el supuesto de que el supervisor externo haga caso omiso de las recomendaciones emitidas por la Secretaría de la Función Pública, será causa de rescisión de contrato; designando de manera inmediata en sustitución de este un nuevo supervisor externo a través del procedimiento respectivo; sin que sea obstáculo para ello que el supervisor externo destituido impugne su remoción.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
 
-En todos los casos de manera discrecional la Secretaría de la Función Pública podrá llevar a cabo la remoción, cancelación, rescisión y/o terminación anticipada del contrato de supervisión externa.
+En el supuesto de que el supervisor externo haga caso omiso de las recomendaciones emitidas por la Secretaría Anticorrupción y Buen Gobierno, será causa de rescisión de contrato; designando de manera inmediata en sustitución de este un nuevo supervisor externo a través del procedimiento respectivo; sin que sea obstáculo para ello que el supervisor externo destituido impugne su remoción.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+En todos los casos de manera discrecional la Secretaría Anticorrupción y Buen Gobierno podrá llevar a cabo la remoción, cancelación, rescisión y/o terminación anticipada del contrato de supervisión externa.
 
 ## Título Cuarto. De la Información y la Verificación
 
@@ -1665,7 +1731,9 @@ Quienes incurran en actos de falsedad o infrinjan las disposiciones contenidas e
 
 Cuando proceda, el órgano de control, podrá proponer a la Secretaría o el Municipio contratante de forma fundada y motivada, la rescisión administrativa del contrato en que incida la infracción.
 
-A los servidores públicos que infrinjan las disposiciones de esta Ley, los órganos de control, aplicaran conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y al primer párrafo de este artículo, las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+A las y los servidores públicos que infrinjan las disposiciones de esta Ley, los órganos de control, aplicaran conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Chiapas y al primer párrafo de este artículo, las sanciones correspondientes.
 
 ###### Artículo 113.
 
@@ -1735,23 +1803,37 @@ En el supuesto de que las partes lleguen a una conciliación, el convenio respec
 
 Las personas interesadas podrán recurrir cualquier acto de procedimiento de contratación que contravenga las disposiciones que rigen las materias objeto de esta Ley, conforme al procedimiento señalado en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
 
-Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten a la Secretaría de la Contraloría o al Síndico Municipal las irregularidades que a su juicio hayan cometido en el procedimiento de contratación, a fin de que las mismas se corrijan.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+Lo anterior, sin perjuicio de que las personas interesadas previamente manifiesten a la Secretaría Anticorrupción y Buen Gobierno o al Síndico Municipal las irregularidades que a su juicio hayan cometido en el procedimiento de contratación, a fin de que las mismas se corrijan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2025)</small>
 
 ###### Artículo 122.
 
-La Secretaría de la Función Pública o el Síndico Municipal, sin perjuicio al procedimiento señalado en la Ley de Procedimientos Administrativos para el Estado de Chiapas, podrá realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajusten a las disposiciones de esta Ley, dentro de un plazo que no excederá de treinta días hábiles contados a partir de la fecha en que tengan conocimiento del presunto acto irregular. Transcurrido dicho plazo, deberán emitir la resolución correspondiente, dentro de los treinta días hábiles siguientes.
+La Secretaría Anticorrupción y Buen Gobierno o el Síndico Municipal, sin perjuicio al procedimiento señalado en la Ley de Procedimientos Administrativos para el Estado de Chiapas, podrá realizar las investigaciones que resulten pertinentes, a fin de verificar que los actos de cualquier procedimiento de contratación se ajusten a las disposiciones de esta Ley, dentro de un plazo que no excederá de treinta días hábiles contados a partir de la fecha en que tengan conocimiento del presunto acto irregular. Transcurrido dicho plazo, deberán emitir la resolución correspondiente, dentro de los treinta días hábiles siguientes.
 
-Una vez admitida la inconformidad o iniciadas las investigaciones, la Secretaría de la Función Pública o el síndico municipal, dará aviso a la Secretaría u Órgano Administrativo del Municipio que corresponda, a efecto de que rinda un informe circunstanciado, en un plazo de diez días naturales siguientes a la recepción del requerimiento respectivo, en el que se referirá a cada uno de los hechos investigados, debiendo acompañar la documentación relacionada con el procedimiento de contratación y que sustente el informe rendido; así también, se deberán hacer del conocimiento de los terceros que pudieran resultar perjudicados, para que dentro del término a que alude el párrafo anterior, manifiesten lo que a su interés convenga. Transcurrido dicho plazo sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluido su derecho.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
 
-La Secretaría de la Función Pública y el Síndico Municipal, estarán facultados, para requerir a la Secretaría y Órgano Administrativo del Municipio que corresponda, o a terceros, cualquier información o documentos que se requieran para la investigación de los hechos que realicen en los términos de este capítulo.
+Una vez admitida la inconformidad o iniciadas las investigaciones, la Secretaría Anticorrupción y Buen Gobierno o el síndico municipal, dará aviso a la Secretaría u Órgano Administrativo del Municipio que corresponda, a efecto de que rinda un informe circunstanciado, en un plazo de diez días naturales siguientes a la recepción del requerimiento respectivo, en el que se referirá a cada uno de los hechos investigados, debiendo acompañar la documentación relacionada con el procedimiento de contratación y que sustente el informe rendido; así también, se deberán hacer del conocimiento de los terceros que pudieran resultar perjudicados, para que dentro del término a que alude el párrafo anterior, manifiesten lo que a su interés convenga. Transcurrido dicho plazo sin que el tercero perjudicado haga manifestación alguna, se tendrá por precluido su derecho.
 
-Sin perjuicio de lo señalado en la Ley respectiva, durante la investigación de los hechos a que se refiere este artículo, la Secretaría de la Función Pública o el Síndico Municipal podrán suspender el procedimiento de contratación cuando:
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno y el Síndico Municipal, estarán facultados, para requerir a la Secretaría y Órgano Administrativo del Municipio que corresponda, o a terceros, cualquier información o documentos que se requieran para la investigación de los hechos que realicen en los términos de este capítulo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE JUNIO DE 2025)</small>
+
+Sin perjuicio de lo señalado en la Ley respectiva, durante la investigación de los hechos a que se refiere este artículo, la Secretaría Anticorrupción y Buen Gobierno o el Síndico Municipal podrán suspender el procedimiento de contratación cuando:
 
 I. Se advierta que existan o pudieren existir actos contrarios a las disposiciones de esta Ley o de las que de ella deriven, o bien, que de continuarse con el procedimiento de contratación pudiera producirse daños o perjuicios a la Secretaría o el Municipio de que se trate.
 
 II. Cuando la suspensión no cause perjuicio al interés social y no se contravengan disposiciones de orden público. En caso de que se determine la suspensión, la Secretaría o el Municipio deberán informar dentro de los tres días hábiles siguientes a la notificación de la suspensión, aportando la justificación del caso, si con la misma no se causa perjuicio al interés social o bien, se contravienen disposiciones de orden público, para que se resuelva lo que proceda.
 
-Cuando sea el inconforme quien solicite la suspensión, este deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Secretaría de la Función Pública o el Síndico Municipal, de conformidad con los lineamientos que al efecto expidan, lo cual no podrá ser menor al diez ni mayor del treinta por ciento de la propuesta económica del informe y cuando no sea posible conocer dicho monto, del presupuesto autorizado para llevar a cabo la obra pública de que se trate; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedara sin efecto la suspensión.
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN II, P.O. 4 DE JUNIO DE 2025.]</small>
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2025)</small>
+
+Cuando sea el inconforme quien solicite la suspensión, este deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Secretaría Anticorrupción y Buen Gobierno o el Síndico Municipal, de conformidad con los lineamientos que al efecto expidan, lo cual no podrá ser menor al diez ni mayor del treinta por ciento de la propuesta económica del informe y cuando no sea posible conocer dicho monto, del presupuesto autorizado para llevar a cabo la obra pública de que se trate; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedara sin efecto la suspensión.
 
 ###### Artículo 123.
 
@@ -1804,3 +1886,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 261 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los municipios del Estado de Chiapas que aún no han instalado sus Comités de Obra Pública Municipales, tendrán un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, para su debida instalación.
