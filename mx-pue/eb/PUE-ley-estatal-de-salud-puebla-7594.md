@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2024-12-31"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -2515,15 +2515,31 @@ Los propietarios de los animales a que se refiere el artículo anterior, están 
 
 Las Autoridades Sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 2025)</small>
 
-### CAPITULO XIX. ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA PLASTICA, ESTETICA Y RECONSTRUCTIVA
+### CAPITULO XIX. PROFESIONALES Y ESTABLECIMIENTOS DEDICADOS A LA CIRUGIA PLASTICA, ESTETICA Y RECONSTRUCTIVA
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
 
 ARTICULO 259 BIS.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece la Ley General de Salud y la presente Ley.
 
 La infracción a esta norma será vigilada por las autoridades sanitarias correspondientes quienes podrán denunciar ante autoridades administrativas, ministeriales o judiciales.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+Los establecimientos o unidades médicas que ofrezcan o presten servicios de cirugía plástica, estética y reconstructiva, sin apego a lo dispuesto en la presente Ley y en las disposiciones jurídicas aplicables, serán sancionados en términos de lo dispuesto en el capítulo II del Título Décimo Quinto de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+###### Artículo 259 Bis 1.
+
+Para la práctica de la cirugía plástica, estética y reconstructiva, así como para la realización de cualquier procedimiento invasivo cuyo fin sea cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, los profesionales que la ejerzan requieren de:
+
+I. Cédula profesional de especialidad o subespecialidad en cirugía plástica, reconstructiva o estética expedida por las instituciones de enseñanza superior o las instituciones de salud reconocidas oficialmente.
+
+II. Certificado vigente de especialista o subespecialista que acredite la capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en cirugía plástica, reconstructiva o estética, de conformidad con el artículo 81 de la Ley General de Salud.
+
+Los médicos en formación podrán realizar dichos procedimientos, acompañados y supervisados por un especialista en la materia.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
 
@@ -3001,11 +3017,13 @@ Se sancionará con multa del equivalente a la cantidad hasta de 1,000 veces el v
 
 La violación de la disposición contenida en el artículo 89 de esta Ley, se sancionará con multa del equivalente a la cantidad hasta de 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 309.
 
-Se sancionará con multa del equivalente a la cantidad de 1000 hasta 4000 veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 147, 154, 194, 200, 205, 224, 228, 237, 243, y 255 de esta Ley.
+Se sancionará con multa del equivalente a la cantidad de 1000 hasta 4000 veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 147, 154, 194, 200, 205, 224, 228, 237, 243, 255, 259 Bis y 259 Bis 1 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 La violación a las disposiciones contenidas en los artículos 287 y 301 de esta Ley, se sancionará con multa del equivalente a la cantidad de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -3634,3 +3652,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado deberá realizar a más tardar en 90 días naturales las adecuaciones reglamentarias correspondientes.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XIX DEL TÍTULO DÉCIMO SEGUNDO Y EL PRIMER PÁRRAFO DEL ARTÍCULO 309; Y ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 259 BIS Y EL 259 BIS 1, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
