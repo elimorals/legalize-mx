@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-arbolado-y-areas-verdes-urbanas-del-estado-de-puebla-175
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ARBOLADO Y ÁREAS VERDES URBANAS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Ley publicada en la Cuarta Sección del Número 21 del Periódico Oficial del Estado de Puebla, el martes 31 de diciembre de 2024.
 
@@ -147,9 +147,17 @@ III. Promover la realización de campañas destinadas a la plantación de árbol
 
 IV. Promover con los Ayuntamientos, la realización y actualización anual de sus inventarios de áreas verdes urbanas y para llevar un diagnóstico de la situación que guarda el arbolado;
 
-V. Emitir los lineamientos generales para la declaración de árboles patrimoniales, así como la (sic) programas para su mantenimiento y preservación, y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-VI. Las demás que se establezcan en la Legislación aplicable en la materia.
+V. Emitir los lineamientos generales para la declaración de árboles patrimoniales, así como los programas para su mantenimiento y preservación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+VI. Emitir lineamientos técnicos y ambientales para regular la aplicación de prácticas de mantenimiento del arbolado, tales como el uso controlado de productos o compuestos a base de cal, garantizando que cuenten con sustento científico, se ajusten a los principios de conservación ecológica y se coordinen con los Ayuntamientos para su implementación, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+VII. Las demás que se establezcan en la legislación aplicable en la materia.
 
 ###### ARTÍCULO 8.
 
@@ -195,9 +203,17 @@ XIX. Atender emergencias y contingencias suscitadas por riesgos generados por á
 
 XX. Cuidar de los árboles urbanos y suburbanos, con especial atención durante la temporada de estiaje, cuando menos durante los primeros años de la arborización;
 
-XXI. Ordenar y ejecutar la realización de visitas de verificación y de inspección que le correspondan para comprobar el cumplimiento de las disposiciones legales de su competencia; así como aplicar medidas de protección e imponer las infracciones correspondientes previo procedimiento administrativo, y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-XXII. Las demás que se establezcan en la Legislación aplicable en la materia.
+XXI. Ordenar y ejecutar la realización de visitas de verificación y de inspección que le correspondan para comprobar el cumplimiento de las disposiciones legales de su competencia; así como aplicar medidas de protección e imponer las infracciones correspondientes previo procedimiento administrativo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+XXII. Autorizar mediante dictamen técnico debidamente fundado, la aplicación de productos o compuestos a base de cal sobre árboles urbanos o suburbanos dentro del territorio municipal, conforme a los lineamientos técnicos y ambientales que emita la Secretaría, y supervisar su correcta ejecución; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+XXIII. Las demás que se establezcan en la legislación aplicable en la materia.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA DEL ARBOLADO Y ÁREAS VERDES
 
@@ -264,6 +280,12 @@ IX. Restitución de árboles, arbustos y vegetación muerta;
 X. Uso adecuado de equipo, herramienta, maquinaria para la poda, derribo, trasplante del arbolado, y
 
 XI. Compostaje del material obtenido de la poda o derribo.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+ARTÍCULO 13 BIS. La aplicación de productos o compuestos a base de cal en árboles urbanos y suburbanos únicamente podrá realizarse de forma regulada, de conformidad con los lineamientos técnicos, científicos y ambientales que emita la Secretaría, considerando la Paleta Vegetal y las condiciones ecológicas, fitosanitarias y climáticas de cada región.
+
+Para tales efectos, la Secretaría establecerá los criterios, métodos, especies, frecuencias, concentraciones y demás parámetros aplicables, así como los mecanismos de supervisión y verificación del encalado.
 
 ### CAPÍTULO CUARTO. DE LOS ÁRBOLES PATRIMONIALES
 
@@ -363,13 +385,25 @@ V. Dañar los espacios e infraestructura de las áreas verdes de uso público;
 
 V (SIC). Pintar, rayar, encalar o fijar cualquier objeto en árboles;
 
-VI. Podar árboles con el propósito de proporcionar visibilidad a anuncios o bien para permitir las maniobras de instalación de anuncios nuevos, mantenimiento o remodelación de los ya existentes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JUNIO DE 2025)</small>
 
-VII. Atentar mediante acciones de mutilación, podas drásticas, desmoche, remoción de la corteza parcial o total alrededor del tronco, verter cualquier sustancia tóxica, inflamable, corrosiva, reactiva o biológico-infecciosa o cualquier otra que dañe, lesione o mate al árbol o área verde;
+VI. Pintar, rayar o fijar objetos en árboles, así como aplicar productos o sustancias que alteren su fisiología, salvo lo previsto en el artículo 13 Bis de esta Ley, respecto del uso controlado de productos a base de cal;
 
-VIII. Quemar en las mediaciones de la vegetación, cualquier tipo de residuos que ponga en riesgo, el tronco y follaje de los árboles y arbustos, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2025)</small>
 
-IX. Arborizar con especies exóticas invasoras, que no se encuentren en la Paleta Vegetal.
+VII. Podar árboles con el propósito de proporcionar visibilidad a anuncios o bien para permitir las maniobras de instalación de anuncios nuevos, mantenimiento o remodelación de los ya existentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+VIII. Atentar mediante acciones de mutilación, podas drásticas, desmoche, remoción de la corteza parcial o total alrededor del tronco, verter cualquier sustancia tóxica, inflamable, corrosiva, reactiva o biológico-infecciosa o cualquier otra que dañe, lesione o mate al árbol o área verde;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+IX. Quemar en las mediaciones de la vegetación, cualquier tipo de residuos que ponga en riesgo, el tronco y follaje de los árboles y arbustos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JUNIO DE 2025)</small>
+
+X. Arborizar con especies exóticas invasoras, que no se encuentren en la Paleta Vegetal.
 
 ###### ARTÍCULO 24.
 
@@ -664,3 +698,19 @@ TERCERO. Se derogan las disposiciones legales, reglamentarias y administrativas 
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veinticuatro. Diputado Presidente. JOSÉ MIGUEL OCTAVIANO HUERTA RODRÍGUEZ. Rúbrica. Diputada Vicepresidenta. AZUCENA ROSAS TAPIA. Rúbrica. Diputada Vicepresidenta. LIDIA KARELY OCAÑA MADRID. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica. Diputada Secretaria. ILIANA JOCELYN OLIVARES LÓPEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. La Encargada de Despacho de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA NORMA ANGELICA SANDOVAL GÓMEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES V Y VI DEL ARTÍCULO 7, LAS FRACCIONES XXI Y XXII DEL 8, LAS FRACCIONES V, VI, VII, VIII Y IX DEL 23; Y ADICIONA LA FRACCIÓN VII AL 7, LA FRACCIÓN XXIII AL 8, LA FRACCIÓN X AL 23 Y EL 13 BIS; TODOS DE LA LEY DE ARBOLADO Y ÁREAS VERDES URBANAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado a través de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a noventa días hábiles contados a partir de su entrada en vigor, por lo que hasta su emisión, seguirán en vigor aquellas disposiciones que se hayan emitido con anterioridad, en lo que no contravengan al presente Decreto.
+
+CUARTO. Los Ayuntamientos deberán emitir o actualizar su normatividad municipal atendiendo el contenido del presente Decreto y en términos del artículo segundo transitorio del Decreto por el que se expide la Ley de Arbolado y Áreas Verdes Urbanas del Estado de Puebla, publicado en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil veinticuatro.
+
+CUARTO. Los Ayuntamientos deberán emitir o actualizar su normatividad municipal atendiendo el contenido del presente Decreto y en términos del articulo segundo transitorio del Decreto por el que se expide la Ley de Arbolado y Áreas Verdes Urbanas del Estado de Puebla, publicado en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil veinticuatro. (sic)
