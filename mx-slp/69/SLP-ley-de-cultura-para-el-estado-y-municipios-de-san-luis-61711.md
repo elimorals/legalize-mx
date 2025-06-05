@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2024-06-27"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -301,9 +301,9 @@ Además de las obligaciones que le establece la Ley Orgánica de la Administraci
 
 I. Garantizar los derechos culturales a maestros, alumnos y trabajadores del sector educativo;
 
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-II. Propiciar la formación cultural de los niños, jóvenes y adultos, escolarizados, semiescolarizados, e inscritos en los sistemas de educación abierta, a través de diferentes programas que incluyan la enseñanza de las artes y el fomento a la cultura, como parte de la educación básica obligatoria;
+II. Propiciar la formación cultural de las niñas, niños, jóvenes y adultos, escolarizados, semiescolarizados, e inscritos en los sistemas de educación abierta, a través de diferentes programas que incluyan la enseñanza de las artes y el fomento a la cultura, como parte de la educación básica obligatoria;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE ENERO DE 2024)</small>
 
@@ -471,7 +471,9 @@ La formación cultural se entiende como el conjunto de acciones que dotan a los 
 
 Independientemente de las obligaciones específicas de cada autoridad, de manera enunciativa, más no limitativa, éstas tendrán, en materia de formación cultural, las siguientes:
 
-I. Propiciar en coordinación con las instancias públicas y privadas correspondientes, la formación cultural de los niños, jóvenes y adultos en escolarización, a través de diferentes programas que incluyan la enseñanza de las artes, como parte de la educación básica obligatoria;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
+
+I. Propiciar en coordinación con las instancias públicas y privadas correspondientes, la formación cultural de las niñas, niños, jóvenes y adultos en escolarización, a través de diferentes programas que incluyan la enseñanza de las artes, como parte de la educación básica obligatoria;
 
 II. Propiciar la creación y el mantenimiento de espacios de formación cultural y artística, como instrumentos que provean a la población en general, de conocimiento y le permitan la producción simbólica que constituye la cultura; así como su distribución e intercambio;
 
@@ -527,9 +529,11 @@ XII. Impulsar la creación de circuitos que acerquen actividades de animación y
 
 XIII. Establecer el acceso gratuito a los museos un día a la semana, que será los domingos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 2025)</small>
+
 ## TITULO CUARTO
 
-DE LA DESCENTRALIZACION CULTURAL HACIA LOS MUNICIPIOS DEL ESTADO; DE LA CULTURA POPULAR E INDIGENA; DE LA ATENCION Y EL DESARROLLO CULTURAL PARA GRUPOS VULNERABLES; Y DE LOS NIÑOS, JOVENES Y PERSONAS ADULTAS MAYORES
+LA DESCENTRALIZACION CULTURAL HACIA LOS MUNICIPIOS DEL ESTADO; DE LA CULTURA POPULAR E INDIGENA; DE LA ATENCION Y EL DESARROLLO CULTURAL PARA GRUPOS VULNERABLES; Y DE LAS NIÑAS, NIÑOS, JOVENES Y PERSONAS ADULTAS MAYORES
 
 ### CAPITULO I. De la Descentralización Cultural Municipal
 
@@ -603,19 +607,29 @@ Para efectos de esta Ley se entiende por grupos vulnerables, aquéllos que estab
 
 Las autoridades encargadas de aplicar la presente Ley tendrán la responsabilidad de garantizar el acceso de los grupos vulnerables, a los bienes y servicios culturales. Por ello, independientemente de las atribuciones específicas de cada autoridad en materia de atención a grupos vulnerables, éstas deberán tomar en cuenta las particularidades de cada uno de éstos, para poder implementar las actividades y programas de formación, y difusión cultural y artística, descritos en esta Ley.
 
-### CAPITULO IV. De los Niños, Jóvenes y Personas Adultas Mayores
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JUNIO DE 2025)</small>
+
+### CAPITULO IV. De las Niñas, Niños, Jóvenes y Personas Adultas Mayores
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 28.
 
-Independientemente de las obligaciones específicas de cada autoridad, éstas tendrán en materia de niños, jóvenes y personas adultas mayores, las siguientes:
+Independientemente de las obligaciones específicas de cada autoridad, éstas tendrán en materia de niñas, niños, jóvenes y personas adultas mayores, las siguientes:
 
-I. Reconocer y respetar las diversas formas de expresión cultural y artística creadas por los niños, jóvenes y personas adultas mayores del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
+
+I. Reconocer y respetar las diversas formas de expresión cultural y artística creadas por las niñas, niños, jóvenes y personas adultas mayores del Estado de San Luis Potosí;
 
 II. Impulsar y promover programas culturales y artísticos dirigidos al público infantil, juvenil y a las personas adultas mayores de la Entidad;
 
-III. Fortalecer y apoyar la creación de espacios encaminados a promover la cultura entre niños, jóvenes y personas adultas mayores, y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-IV. Fomentar, mediante convenios de colaboración con las instituciones educativas, programas de difusión y formación artística y cultural para niños, jóvenes y personas adultas mayores.
+III. Fortalecer y apoyar la creación de espacios encaminados a promover la cultura entre niñas, niños, jóvenes y personas adultas mayores, y
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
+
+IV. Fomentar, mediante convenios de colaboración con las instituciones educativas, programas de difusión y formación artística y cultural para niñas, niños, jóvenes y personas adultas mayores.
 
 ## TITULO QUINTO. DE LAS EMPRESAS E INDUSTRIAS CULTURALES, Y DE LA PROMOCION Y GESTION CULTURAL
 
@@ -767,9 +781,9 @@ V. Los programas y acciones que promuevan la formación y capacitación artísti
 
 VI. Los programas y acciones dirigidos a la creación y formación de públicos;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-VII. Los programas y acciones dirigidos al desarrollo cultural de niños y jóvenes, personas adultas mayores, personas con discapacidad y grupos vulnerables;
+VII. Los programas y acciones dirigidos al desarrollo cultural de niñas, niños y jóvenes, personas adultas mayores, personas con discapacidad y grupos vulnerables;
 
 VIII. Los programas y acciones destinados al fomento a la lectura y al libro;
 
@@ -789,9 +803,9 @@ El titular del Ejecutivo del Estado debe garantizar los recursos financieros pú
 
 Corresponde a los ayuntamientos del Estado de San Luis Potosí, elaborar e instrumentar un Programa de Desarrollo Cultural Municipal, acorde con el Programa Sectorial de Cultura. Los programas municipales, además de ser emitidos por el presidente municipal, deben aprobarse por el cabildo.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
-Los ayuntamientos, promoverán, desarrollarán e impartirán, en sus Centros de Cultura; a los niños, niñas, adolescentes y adultos mayores, clases de cuando menos las siguientes artes; música, danza, escultura, pintura, literatura, canto y teatro.
+Los ayuntamientos, promoverán, desarrollarán e impartirán, en sus Centros de Cultura, a las niñas, niños, adolescentes y adultos mayores, clases de cuando menos las siguientes artes; música, danza, escultura, pintura, literatura, canto y teatro.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2018)</small>
 
@@ -924,5 +938,13 @@ P.O. 27 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1057.- SE REFORMA EL ARTÍCULO 8° Y LA FRACCIÓN III DEL ARTÍCULO 10; Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3° Y FRACCIÓN XIV BIS, AL ARTÍCULO 5°, TODAS DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0211.- QUE REFORMA LOS ARTÍCULOS 11, 17, 28, 52, 54 Y LAS DENOMINACIONES DEL TÍTULO CUARTO Y CAPÍTULO IV, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ.”]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
