@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-consejo-potosino-de-ciencia-y-tecnologia-34231
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-30"
-last_updated: "2025-04-25"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de agosto de 2003.
 
@@ -431,6 +431,14 @@ VIII. Las demás que le confiera esta Ley y otras disposiciones legales aplicabl
 
 Para el debido cumplimiento de sus atribuciones, el Contralor Interno se podrá auxiliar del personal técnico que requiera.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+ARTICULO 19 BIS. El Órgano Interno de Control contará con las autoridades, investigadora, y substanciadora, correspondiendo a la primera, la investigación de faltas administrativas; y a la segunda, dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa, y hasta la conclusión de la audiencia inicial, en los términos que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+ARTICULO 19 TER. La designación de las autoridades, investigadora, y substanciadora, corresponderá al Director General previo acuerdo del Consejo Directivo.
+
 ## TITULO TERCERO. DE LA ESTRUCTURA ADMINISTRATIVA AUXILIAR DEL DIRECTOR GENERAL DEL COPOCYT
 
 ### CAPITULO UNICO
@@ -614,3 +622,9 @@ P.O. 25 DE ABRIL DE 2025.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0212.- QUE ADICIONA LOS ARTÍCULOS 19 BIS Y 19 TER, A LA LEY ORGÁNICA DEL CONSEJO POTOSINO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
