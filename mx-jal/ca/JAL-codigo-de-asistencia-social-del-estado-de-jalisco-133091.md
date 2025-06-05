@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-133091"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-01"
-last_updated: "2024-10-31"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Código publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 1 de febrero de 2019.
 
@@ -145,7 +145,9 @@ I. Las niñas, niños y adolescentes en condiciones de vulnerabilidad, aquellos 
 
 a) De la y en la calle;
 
-b) Con enfermedades terminales;
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+b) Con cáncer o con enfermedades terminales;
 
 c) Violentados, maltratados, abusados o explotados;
 
@@ -169,13 +171,25 @@ l) Las embarazadas o que sean madres,
 
 m) Huérfanos;
 
-n) Con enfermedades o trastornos mentales;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JUNIO DE 2025)</small>
 
-ñ) Con desnutrición;
+n) En estado de orfandad por feminicidio u homicidio;
 
-o) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos; y
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE JUNIO DE 2025)</small>
 
-p) Hijas o hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+ñ) Con enfermedades o trastornos mentales;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE JUNIO DE 2025)</small>
+
+o) Con desnutrición;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE JUNIO DE 2025)</small>
+
+p) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE JUNIO DE 2025)</small>
+
+q) Hijas o hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
 
 II. Personas con problemas de alcoholismo u otras adicciones, cuando por estas causas se encuentren en estado de abandono o en situación de calle;
 
@@ -2026,3 +2040,9 @@ DÉCIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tan
 DÉCIMO PRIMERO. El Titular del Poder Ejecutivo, deberá aprobar y publicar las disposiciones reglamentarias necesarias para la correcta conformación y operación de las dependencias que conforman la Administración Pública Centralizada en los términos del presente Decreto.
 
 En el caso de la Secretaría de Seguridad y de la Fiscalía del Estado, sus reglamentos deberán prever la colaboración con la Secretaría de Inteligencia y Búsqueda, en los términos que disponga la ley.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29841/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 5 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
