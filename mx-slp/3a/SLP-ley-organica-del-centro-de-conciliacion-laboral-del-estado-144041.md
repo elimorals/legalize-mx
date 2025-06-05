@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1440
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-09-03"
-last_updated: "2024-10-17"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de septiembre de 2020.
 
@@ -439,6 +439,14 @@ II. Realizará sus actividades de acuerdo a reglas y bases que les permitan cump
 
 III. Examinará y evaluará los sistemas, mecanismos y procedimientos de control; efectuará revisiones y auditorías; vigilará que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentará a la persona titular de la Dirección General, a la Junta de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+ARTÍCULO 21 BIS. El Órgano Interno de Control contará con las autoridades, investigadora, y substanciadora, correspondiendo a la primera, la investigación de faltas administrativas; y a la segunda, dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del Informe de presunta responsabilidad administrativa, y hasta la conclusión de la audiencia inicial, en los términos que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+ARTÍCULO 21 TER. Para la designación de las autoridades, investigadora, y substanciadora, se estará a lo dispuesto en el artículo 18 fracción VIII de la presente Ley.
+
 ###### ARTÍCULO 22.
 
 El Centro de Conciliación contará con una Unidad de Transparencia, con rango de Subdirección, dependiente de la Dirección General a la que corresponden las funciones que determinan las leyes de la materia, y cuyo titular contará para tal efecto con facultades para dar respuesta en tiempo y forma a las solicitudes de información que se presenten a éste.
@@ -612,3 +620,9 @@ P.O. 17 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0213.- QUE ADICIONA LOS ARTÍCULOS 21 BIS Y 21 TER, A LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
