@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2025-03-15"
+last_updated: "2025-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -55,11 +55,11 @@ El Estado de Puebla es una entidad jurídica y política, organizada conforme a 
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo, laico, democrático y popular, teniendo como base de su organización política y administrativa el Municipio libre.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 3°.
 
-El pueblo ejerce su soberanía por medio por (sic) los Poderes del Estado, en los casos de su competencia, en la forma y términos que establecen la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+El pueblo ejerce su soberanía por medio de los Poderes del Estado, en los casos de su competencia, en la forma y términos que establecen la Constitución Política de los Estado (sic) Unidos Mexicanos y la particular del Estado.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2025)</small>
 
@@ -69,13 +69,15 @@ La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos, se 
 
 La organización de las elecciones es una función estatal que se realiza a través del Instituto Electoral del Estado, organismo público local, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y de la legislación electoral aplicable.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
-La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal. En la integración de los organismos autónomos se observará el mismo principio.
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las Secretarías de Despacho del Poder Ejecutivo Estatal y Municipal. En la integración de los organismos autónomos se observará el mismo principio.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE JULIO DE 2020)</small>
 
 La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. El Instituto Electoral del Estado podrá convenir con el Instituto Nacional Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2009)</small>
 
 I.- La elección de Gobernador, de Diputados por los principios de mayoría relativa y representación proporcional y de miembros de Ayuntamientos en el Estado, se efectuará conforme a lo previsto en esta Constitución, y el Código de la materia, que regulará:
 
@@ -83,15 +85,27 @@ I.- La elección de Gobernador, de Diputados por los principios de mayoría rela
 
 a) Los actos preliminares al inicio del proceso electoral, así como las etapas del proceso electoral y la forma de participación de los ciudadanos en el mismo;
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
+
 b) Los derechos, prerrogativas y obligaciones de los partidos políticos;
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
 
 c) Un sistema de medios de impugnación para garantizar que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad;
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
+
 d) Los plazos convenientes para el desahogo de las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales;
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
 
 e) Los supuestos y las reglas para la realización, en los ámbitos administrativos y jurisdiccional, de recuentos totales o parciales de votación;
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
+
 f) Las causales de nulidad de votación recibida en casilla y, de las elecciones; y
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
 
 g) Las faltas administrativas y sanciones.
 
@@ -114,6 +128,8 @@ El Consejo General será el Órgano Superior de Dirección del Instituto y el re
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
 El Consejo General se reunirá entre los días tres y cinco del mes de noviembre del año previo a la elección para declarar el inicio del Proceso Electoral.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2009)</small>
 
 El Consejo General del Instituto se integrará por:
 
@@ -191,6 +207,8 @@ Los partidos políticos deberán de constituirse sólo por ciudadanos sin interv
 
 La ley establecerá los términos y procedimientos para los partidos políticos nacionales que pierdan su registro y que opten por su registro local.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2009)</small>
+
 IV.- El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad, rectores en los procesos electorales.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
@@ -208,6 +226,8 @@ Además de lo establecido en las leyes que resulten aplicables, el Código de la
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
 
 Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la legislación aplicable.
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2009)</small>
 
 V.- La Ley de la materia establecerá los hechos considerados como delitos electorales.
 
@@ -333,11 +353,11 @@ Nadie podrá sustraerse de propia autoridad a la observancia de los preceptos le
 
 Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se establecerán por éstas, únicamente cuando sean de orden privado y se trate de individuos que notoriamente carezcan de instrucción y sean de escasas posibilidades económicas.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 11.
 
-Las mujeres y los hombres son iguales ante la Ley. En el Estado de Puebla se reconoce el valor de la igualdad radicado en el respeto a las diferencias y a la libertad.
+Las mujeres y los hombres son iguales ante la Ley. En el Estado de Puebla se reconoce el valor de la igualdad, fundamentado en el respeto a las diferencias y a la libertad. Además, el Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2012)</small>
 
@@ -369,37 +389,45 @@ V.- La atención de la salud de las y los habitantes del Estado, la promoción d
 
 VI.- Proteger el derecho que tiene toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS PÁRRAFOS E INCISOS], P.O. 5 DE JUNIO DE 2025)</small>
 
-VII.- Garantizar el acceso a la información pública en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como de proteger los datos personales y la información relativa a la vida privada, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública y la Ley aplicable a la materia.
+VII. Garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, y de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como de proteger los datos personales y la información relativa a la vida privada, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás legislación aplicable.
 
-El ejercicio del derecho de acceso a la información se regirá por los siguientes principios:
+El ejercicio de los derechos de acceso a la información pública y protección de datos personales se regirá por las siguientes bases y principios:
 
-a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional.
 
-b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+Sin perjuicio de lo dispuesto dentro del párrafo anterior, la ley establecerá aquella información que se considere reservada o confidencial.
 
-c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
 
-d) Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo, especializado e imparcial que establece esta Constitución.
+Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+
+b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados y las autoridades garantes contarán con las facultades suficientes para su atención.
+
+c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública.
+
+Asimismo, tendrá derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
+
+d) Se establecerán mecanismos de acceso a la información pública y de protección de datos personales, así como procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta constitución y las leyes aplicables.
 
 e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
 f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-g) La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes de la materia.
+g) Los sujetos obligados y las autoridades garantes deberán respetar, promover, difundir, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales, así como el uso responsable de la información, en el ámbito de su competencia.
 
-Para efectos de lo establecido en el inciso d), el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, será el organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de promover, difundir y garantizar en el Estado y sus Municipios, el acceso a la información pública, la protección de los datos personales y el uso responsable de la información en los términos que establezca la legislación de la materia y demás disposiciones aplicables.
+Las leyes en la materia determinarán las bases y procedimientos para el ejercicio efectivo de estos derechos.
 
-El Instituto a que se refiere esta fracción, se regirá por la ley en materia de transparencia y acceso a la información pública, la ley en materia de protección de datos personales en posesión de sujetos obligados y por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+Sin perjuicio de las demás atribuciones a su cargo, los órganos internos de control o, en su caso, las unidades administrativas a cargo del control interno de los Poderes Ejecutivo, Legislativo y Judicial del Estado, y de los Órganos Constitucionales Autónomos, fungirán como autoridades garantes en materia de transparencia, acceso a la información pública y protección de datos personales en términos de la legislación aplicable.
 
-El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+En términos del párrafo anterior, las autoridades garantes del Sindicato de los Trabajadores al Servicio del Estado, lo será el Tribunal de Arbitraje del Estado; de los Partidos Políticos, el Instituto Electoral del Estado y de los Ayuntamientos, la autoridad encargada del control interno del Ejecutivo Estatal.
 
-El Instituto estará conformado por tres comisionados, los cuales durarán en su encargo 6 años, sin posibilidad de reelección y serán designados por mayoría calificada del Pleno del Congreso del Estado, en los términos que establezca la ley de la materia. En su conformación se procurará la equidad de género.
+Para el ejercicio de sus atribuciones los sujetos obligados y las autoridades garantes se regirán por la legislación en materia de transparencia y acceso a la información pública, y de protección de datos personales, así como por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-El Instituto tendrá un Consejo Consultivo, integrado por tres consejeros, con experiencia en acceso a la información, protección de datos y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia, que serán designados en términos de la Ley de la materia.
+La inobservancia a las disposiciones en materia de acceso a la información pública y protección de datos personales será sancionada en los términos que dispongan las leyes de la materia.
 
-La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones;
+La ley establecerá las medidas de apremio que podrán imponer, en su caso, las autoridades garantes para asegurar el cumplimiento de sus decisiones;
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
@@ -451,9 +479,9 @@ d) Haber residido en el país durante los dos años anteriores al día de su des
 
 Las licencias de las Magistradas o Magistrados del Tribunal de Justicia Administrativa, cuando no excedan de treinta días, podrán ser concedidas por la Junta de Gobierno y Administración. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-XI.- La protección de los saberes colectivos, así como del patrimonio cultural y natural;
+XI. Reconocer, proteger, fomentar y preservar los saberes colectivos, así como del patrimonio lingüístico, cultural y natural.
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
@@ -551,15 +579,17 @@ La ley garantizará los derechos de la personalidad, comprendiendo, dentro de é
 
 El Estado fomentará las actividades lícitas de los individuos, que tiendan a la producción y adquisición de bienes que garanticen su bienestar.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 16.
 
 La ley protegerá el derecho de propiedad para que sus titulares obtengan los beneficios que son susceptibles de proporcionar los bienes.
 
-En función del progreso social, el Estado promoverá y fomentará la producción de bienes y la prestación de servicios por los particulares o por él mismo.
+En función del progreso social, el Estado promoverá y fomentará la producción de bienes y la prestación de servicios por los y las particulares o por él mismo.
 
-El Estado ejercitará, en beneficio de los habitantes del territorio poblano, las facultades que en materia económica le confieren esta Constitución y las leyes que de ella dimanan.
+El Estado ejercitará, en beneficio de los y las habitantes del territorio poblano, las facultades que en materia económica le confieren esta Constitución y las leyes que de ella dimanan.
+
+A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la legislación en la materia.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
@@ -567,9 +597,9 @@ El Estado ejercitará, en beneficio de los habitantes del territorio poblano, la
 
 Además de las obligaciones que las leyes les impongan, los habitantes del Estado, sin distinción alguna, deben:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-I.- Recibir la educación básica y media superior en la forma prevista por las leyes y conforme a los reglamentos y programas que expida el Gobernador;
+I.- Recibir la educación básica, media superior y superior en la forma prevista por las leyes y conforme a los reglamentos y programas que expida el Gobernador;
 
 II.- Contribuir para todos los gastos públicos de la manera proporcional y equitativa que dispongan las leyes;
 
@@ -599,13 +629,17 @@ II.- Los mexicanos mayores de edad hijos de padre o madre poblana, nacidos fuera
 
 III.- Los mexicanos mayores de edad nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, previa certificación que realice el Ayuntamiento del Municipio en el que residan.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 19.
 
-Son ciudadanos del Estado los poblanos hombres y mujeres de nacionalidad mexicana, que residan en la Entidad y reúnan además los siguientes requisitos:
+Son ciudadanas del Estado las personas de nacionalidad mexicana que residan en la Entidad y reúnan además los siguientes requisitos:
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
 I.- Haber cumplido dieciocho años; y
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
 II.- Tener modo honesto de vivir.
 
@@ -911,33 +945,31 @@ III.- Tener dieciocho años cumplidos el día de la elección.
 
 Con relación a la fracción I del presente artículo y para la elección de la diputada o diputado migrante, bastará que se acredite la calidad de persona poblana y el ejercicio pleno de derechos.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 37.
 
-No pueden ser electos diputados propietarios o suplentes:
+No pueden ser electos y electas diputadas propietarias o suplentes:
 
-I.- El Gobernador del Estado, aun cuando se separe definitivamente de su cargo.
+I. La persona Titular del Poder Ejecutivo del Estado, aun cuando se separe definitivamente de su cargo.
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2025)</small>
+II. Las Magistradas y Magistrados, en ejercicio, del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Electoral del Estado y del Tribunal de Justicia Administrativa, así como las y los integrantes del Órgano de Administración Judicial del Poder Judicial, las Secretarias y Secretarios de Estado, las Subsecretarias y Subsecretarios, la persona Titular de la Fiscalía General del Estado, la persona Secretaria Particular de la Gobernadora o Gobernador, las Directoras y los Directores de las Entidades del Ejecutivo y las personas Titulares de los cuerpos de Seguridad Pública del Estado.
 
-II.- Las Magistradas y Magistrados en ejercicio del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Electoral del Estado y del Tribunal de Justicia Administrativa, así como los integrantes del Órgano de Administración Judicial del Poder Judicial, las Secretarias y Secretarios de Estado, las Subsecretarias y Subsecretarios, Fiscal General del Estado, la persona Secretaria Particular de la Gobernadora o Gobernador, las Directoras los Directores de las Entidades del Ejecutivo y las personas Titulares de los cuerpos de Seguridad Pública del Estado;
+III. Las personas funcionarias del Gobierno Federal.
 
-III.- Los funcionarios del Gobierno Federal
+IV. Las personas que integran las fuerzas armadas del País.
 
-IV.- Los miembros de las fuerzas armadas del País.
+V. Los y las Presidentas Municipales y Juezas.
 
-V.- Los Presidentes Municipales, los Jueces y los Recaudadores de Rentas.
+VI. Las personas ministras de algún culto religioso.
 
-VI.- Los ministros de algún culto religioso.
+VII. Las personas diputadas que hayan ejercido funciones en el periodo inmediato anterior.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+En términos del párrafo que antecede, las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
-Los funcionarios y los miembros de las fuerzas armadas del país a los que se refieren respectivamente las fracciones II a V de este artículo, podrán ser electos Diputados propietarios o suplentes, si se separan definitivamente de su cargo, o del servicio activo, noventa días antes de la elección.
+VIII. La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
-
-Los diputados a la legislatura local podrán ser electos consecutivamente hasta por cuatro períodos, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los integrantes de la coalición que los hubieren postulado, salvo que hayan perdido o renunciado a su militancia antes de la mitad de su mandato.
+Las personas funcionarias y las que integran las fuerzas armadas del país a las que se refieren respectivamente las fracciones II a V de este artículo, podrán ser electas Diputadas propietarias o suplentes si se separan definitivamente de su cargo, o del servicio activo, según corresponda, noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1459,21 +1491,23 @@ a) El Gobernador provisional designado por la Comisión Permanente o el Gobernad
 
 b) El Gobernador substituto designado por el Congreso para concluir el período por falta absoluta del Gobernador de elección popular directa.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 74.
 
-Para ser Gobernador se requiere:
+Para ser Gobernador o Gobernadora se requiere:
 
-I.- Ser mexicano por nacimiento.
+I.- Ser persona mexicana por nacimiento.
 
-II.- Ser Ciudadano del Estado en pleno goce de sus derechos políticos.
+II.- Ser persona ciudadana del Estado en pleno goce de sus derechos políticos.
 
 III.- Tener 30 años cumplidos el día de la elección.
 
-IV.- No ser funcionario de la Federación, del Estado o del Municipio, ni militar en servicio activo o con mando de fuerzas dentro del Estado, a menos que se separe del cargo o servicio cuando menos noventa días antes de la elección.
+IV.- No ser persona funcionaria de la Federación, del Estado o del Municipio, ni militar en servicio activo o con mando de fuerzas dentro del Estado, a menos que se separe del cargo o servicio cuando menos noventa días antes de la elección.
 
-V.- No ser ministro de algún culto religioso.
+V.- No ser persona ministra de algún culto religioso.
+
+VI.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona Gobernadora en funciones.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -1819,9 +1853,9 @@ Conforme a lo que establezca la Ley, el Órgano de Administración Judicial podr
 
 La Sala Especializada en Materia Constitucional conocerá de manera permanente, en los términos que señale la Ley reglamentaria, de los asuntos siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2025)</small>
 
-I.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma local de carácter general y esta Constitución;
+I.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma local de carácter general y esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
@@ -1843,9 +1877,7 @@ c) Los partidos políticos con registro en el Estado, a través de sus dirigenci
 
 d) La Comisión de Derechos Humanos del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
-
-e) El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
+e) (DEROGADO, P.O. 5 DE JUNIO DE 2025)
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2022)</small>
 
@@ -2183,11 +2215,11 @@ La Ley establecerá las bases para la formación y actualización de los servido
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2025)</small>
 
 ###### Artículo 102.
 
-El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad de género. Las elecciones de los Ayuntamientos se efectuarán el día y año en que se celebran las elecciones federales para elegir Diputados al Congreso General. Las atribuciones que esta Constitución otorga al Gobierno Municipal se ejercerán por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna, entre éste y el Gobierno del Estado.
+El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad de género. Las elecciones de los Ayuntamientos se efectuarán el día y año en que se celebran las elecciones federales para elegir Diputadas y Diputados al Congreso General. Las atribuciones que esta Constitución otorga al Gobierno Municipal se ejercerán por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna, entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -2217,15 +2249,13 @@ e) En los casos a que se refieren las fracciones anteriores, los Regidores se ac
 
 f) En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2025)</small>
 
-II.- Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos podrán ser electos consecutivamente para el mismo cargo por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los integrantes de la coalición que los hubieren postulado, salvo que hayan perdido o renunciado a su militancia antes de la mitad de su mandato.
+II.- Las personas Titulares de las Presidencias Municipales, de las Regidurías y de la Sindicaturas Municipales de los Ayuntamientos no podrán ser electas consecutivamente para el mismo cargo.
 
-No podrán ser electos para un tercer período consecutivo, como propietarios:
+En términos del párrafo que antecede, las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
-a) Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos, electos popularmente.
-
-b) Las personas que desempeñen o hayan desempeñado las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé y la forma de su nombramiento, designación o elección.
+En ningún caso podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula.
 
 III.- (DEROGADA, P.O. 29 DE JULIO DE 2015)
 
@@ -2734,6 +2764,10 @@ El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2025)</small>
+
+En el Estado de Puebla se vigilarán y promoverán mecanismos para reducir y erradicar la brecha salarial de género.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -4334,3 +4368,27 @@ VIGÉSIMO CUARTO. Los Poderes del Estado deberán considerar las asignaciones pr
 VIGÉSIMO QUINTO. Conforme a lo establecido en el párrafo tercero de la fracción X del artículo 12 de este Decreto, se deberá nombrar una Magistrada o un Magistrado del Tribunal de Justicia Administrativa, antes de la instalación de la Junta de Gobierno y Administración de dicho Tribunal en términos previstos en la Ley.
 
 VIGÉSIMO SEXTO. En términos de lo dispuesto dentro del penúltimo párrafo de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, el contenido de los artículos 20, 21, 36 y 40 del presente Decreto, correspondientes a la Diputación Migrante, entrarán en vigor una vez que concluya el proceso electoral extraordinario local de 2025 y una vez que entren en funciones los Ayuntamientos que para el caso resulten electos.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DECLARA APROBADO EL DECRETO POR VIRTUD DEL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. El Congreso del Estado deberá armonizar su marco jurídico en materia de transparencia, acceso a la información pública y protección de datos personales, en términos de lo dispuesto por los artículos Cuarto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el veinte de diciembre de dos mil veinticuatro, y primero Transitorio del Decreto por el que se expide la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación el veinte de marzo de dos mil veinticinco.
+
+CUARTO. Una vez que entre en vigor la legislación a la que hace referencia el artículo transitorio anterior inmediato, iniciaran sus funciones las autoridades garantes referidas dentro del presente Decreto y quedará extinto el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, concluyendo sus funciones las y el Comisionado que lo integran, independientemente del periodo por el que fueron designados, salvo aquellos casos cuya vigencia de su nombramiento concluya previamente.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, realizará las gestiones necesarias para iniciar el proceso de conciliación ante las Secretarías de Planeación, Finanzas y Administración, y de Anticorrupción y Buen Gobierno, ambas del Estado de Puebla, para la transferencia de los recursos humanos, materiales, financieros y demás asuntos en trámite, quienes, en su caso, realizarán lo pertinente en el ámbito de su respectiva competencia y en apego a la normatividad aplicable en la materia.
+
+SEXTO. Las reformas contenidas dentro de los artículos 37, 74 y 102 del presente Decreto, en materia de nepotismo electoral y no reelección, serán aplicables a partir del proceso electoral 2029 - 2030, en consecuencia, las personas electas en el proceso electoral anterior o que se encuentren ejerciendo el cargo en el año dos mil treinta, no podrán ser reelectas.
+
+P.O. 5 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DECLARA APROBADO EL DECRETO POR VIRTUD DEL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y CUARTO DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL 11 Y SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE EN EL ORDEN EL SUBSECUENTE AL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
