@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2024-12-11"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -57,7 +57,9 @@ IV.- Fijar las reglas de colaboración administrativa, entre las autoridades fis
 
 V.- Constituir los organismos en materia de coordinación fiscal.
 
-### CAPITULO II. DE LAS PARTICIPACIONES A LOS MUNICIPIOS EN INGRESOS FEDERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2025)</small>
+
+### CAPITULO II. DE LAS PARTICIPACIONES A LOS MUNICIPIOS EN INGRESOS FEDERALES Y ESTATALES
 
 ###### ARTICULO 2.
 
@@ -557,6 +559,16 @@ Para los municipios de origen:
 
 En el supuesto de que se tuviera que aplicar lo indicado en el artículo 4o Bis 4, se tomará como cantidad efectiva obtenida en el mes que se calcula y de acuerdo con el o los coeficientes definitivos que los municipios de origen hayan recibido de dicho concepto en el año 2015, respectivamente, tomando en cuenta la metodología que se indica en el artículo 21 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+###### ARTICULO 23.
+
+La Secretaría de Administración y Finanzas estará facultada para calcular y compensar, en el caso de que la federación a través de la Secretaría de Hacienda y Crédito Público o de alguna de sus dependencias, hubiere informado la existencia de ajustes anuales, cuatrimestrales, trimestrales o de otra periodicidad, a favor o en contra del Estado y sus Municipios respecto a los fondos de participaciones, retenciones de fondos de estabilización de ingresos de cualquier tipo, aportaciones u otros relativos a la Ley de Coordinación Fiscal y al Convenio de Colaboración Administrativa en Materia Fiscal Federal, derivados del ejercicio fiscal en curso o respecto a ejercicios fiscales anteriores, o por recursos recibidos por el municipio dentro de cuyos límites se ubicaba el territorio de los municipios nuevos, ya sea que dichos recursos se hayan recibido en forma previa o posterior al inicio de funciones de la nueva municipalidad.
+
+Para el caso particular de los municipios nuevos, respecto a ajustes o retenciones de recursos recibidos por el o los municipios cuyo territorio se integró a aquellos, a favor o en contra previo al inicio de sus funciones, estos serán ajustados en forma proporcional a la población vigente al inicio de las funciones del nuevo municipio.
+
+Cuando los municipios de nueva creación cuenten con cifras de recaudación del impuesto predial (rústico y urbano), de las cuotas por servicio de agua potable y de ingresos propios que precisan las fórmulas de distribución de participaciones que se establecen en los artículos 3o Bis A, 3o Bis D, 4o, 4o Bis 2, 4o Bis 3, 4o Bis 6 y 5o Bis de esta Ley, de cuatro ejercicios fiscales completos, y de dos ejercicios completos para los artículos 3o Bis D, 4o Bis y 4o Bis 3, dejarán de ser considerados municipios de nueva creación.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
@@ -824,3 +836,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga el Artículo Segundo Transitorio de Decreto No. 375 publicado en el Periódico Oficial "El Estado de Sinaloa" No. 009, de fecha 20 de enero de 2023.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 119 POR EL QUE SE REFORMA Y ADICIONA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", y será aplicable a partir del ejercicio fiscal del año 2025.
