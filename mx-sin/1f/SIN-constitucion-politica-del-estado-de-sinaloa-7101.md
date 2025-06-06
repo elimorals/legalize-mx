@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2025-04-25"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -445,11 +445,11 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 14.
 
-Las elecciones a la Gubernatura del Estado, a las Diputaciones del Congreso del Estado, Presidencias Municipales, Sindicaturas de Procuración y Regidurías de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones a la Gubernatura del Estado, a las Diputaciones del Congreso del Estado, Presidencias Municipales, Sindicaturas de Procuración y Regidurías de los Ayuntamientos, Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, Juezas y Jueces se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y en su caso, conforme al principio de representación proporcional, con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -647,9 +647,9 @@ I. En 20 Municipalidades autónomas a saber:
 
 Ahome, El Fuerte, Choix, Guasave, Juan José Ríos, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Eldorado, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
 
-II. En los Circuitos y Distritos Judiciales que determine la Ley Orgánica del Poder Judicial del Estado;
+II. En los Distritos Judiciales que determine la Ley Orgánica del Poder Judicial del Estado.
 
 III. En los Distritos fiscales que la Ley General de Hacienda del Estado determine, pudiendo comprender cada uno de ellos, una o más Municipalidades enteras.
 
@@ -993,9 +993,9 @@ XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaraci�
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
 
-XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado y al titular del Centro de Conciliación Laboral, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
+XIV. Elegir a los Magistrados del Tribunal de Justicia Administrativa del Estado y al titular del Centro de Conciliación Laboral, mediante los procedimientos que esta Constitución y las leyes respectivas señalen.
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -1983,17 +1983,19 @@ Los particulares podrán impartir la educación en todos sus tipos, niveles y mo
 
 ### CAPITULO IV. PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 93.
 
-El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia, las Salas de Circuito, los Juzgados de Primera Instancia y los Juzgados Menores.
+El Poder Judicial se ejercerá en el Estado por el Supremo Tribunal de Justicia, los Juzgados de Primera Instancia y los Juzgados Menores.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+Esta Constitución garantiza la independencia e inamovilidad de las Magistradas y Magistrados tanto del Supremo Tribunal de Justicia del Estado y de los Titulares de Juzgados en el ejercicio de sus funciones. La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, capacitación, actualización y permanencia de quienes presten sus servicios al Poder Judicial del Estado, su capacitación será permanente y se desarrollará a través de un organismo encargado para ello; además, establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
 
-Esta Constitución garantiza la independencia e inamovilidad de las Magistradas y Magistrados tanto del Supremo Tribunal de Justicia del Estado, como de Circuito y de los Titulares de Juzgados en el ejercicio de sus funciones. La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, capacitación, actualización y permanencia de quienes presten sus servicios al Poder Judicial del Estado, su capacitación será permanente y se desarrollará a través de un organismo encargado para ello; además, establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género.
+En los términos que la ley disponga las sesiones del Pleno serán públicas.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Magistrados de Circuito y los Jueces percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante sus encargos.
+Las Magistradas y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, las Juezas y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo.
+
+La administración del Poder Judicial estará a cargo de un Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que, conforme a las bases que señala esta Constitución, establezcan las leyes.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2014)</small>
 
@@ -2007,17 +2009,15 @@ Toda persona Imputada y la víctima u ofendido tendrán los derechos que consagr
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se integrará por once miembros que serán tanto Magistradas como Magistrados Propietarios. Para su conformación se observará el principio de paridad de género, y funcionará en Pleno o en Salas. Las Salas también deberán ser integradas bajo ese mismo principio y serán competentes para conocer de los recursos que procedan en contra de sentencias definitivas, así como de los demás asuntos que establezca la ley.
+El Supremo Tribunal de Justicia se integrará por once magistraturas, en cuya conformación se observará el principio de paridad de género; siendo competente para conocer de los recursos que procedan en contra de todo tipo de resoluciones, así como de los demás asuntos que establezca la ley, y su organización estará establecida en la ley.
 
-La Titularidad de la Presidencia del Supremo Tribunal de Justicia recaerá en una Magistrada o en un Magistrado Propietario. El Pleno hará la designación en los términos que establezca la ley para el efecto y quien sea nombrado no integrará Sala durante su encargo.
+La Presidencia del Supremo Tribunal de Justicia del Estado se ejercerá por una de estas magistraturas, elegida por sus integrantes, en los términos que establezca la ley para tal efecto y no integrará sala durante su encargo.
 
-Habrá además cinco Titulares de Magistraturas Suplentes quienes sólo integrarán el Pleno o las Salas cuando sustituyan a una Magistrada o a un Magistrado Propietario. En estos casos también se observará el principio de paridad de género.
-
-Las o los Titulares de las Magistraturas Propietarias del Supremo Tribunal de Justicia serán electos por el Congreso del Estado, de una terna que le presente el Consejo de la Judicatura, observando siempre el principio de paridad de género. La elección se hará en escrutinio secreto.
+Las personas titulares de las Magistraturas Propietarias del Supremo Tribunal de Justicia serán electas en términos y conforme a las bases del artículo 96, observando siempre el principio de paridad de género. Durarán nueve años en el ejercicio de su encargo, podrán ser reelectas y, si lo fueren, solo podrán ser privadas de sus puestos en los términos que determine la Constitución General, esta Constitución y la legislación de responsabilidades aplicable.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2001)</small>
 
@@ -2039,63 +2039,87 @@ IV. Padecer incapacidad física o mental incurables, incluso cuando ésta fuere 
 
 La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario, los beneficios que tendrá el Magistrado que se retire forzosa o voluntariamente y el procedimiento que deberá seguirse para la formulación del dictamen, el cual se pondrá en conocimiento del Congreso del Estado o de la Diputación Permanente, para los efectos de su aprobación.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 96.
 
-Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; debiendo reunir los siguientes requisitos:
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado, las Magistradas y Magistrados del Tribunal de Disciplina Judicial y Juezas y Jueces de Primera Instancia, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda conforme al siguiente procedimiento:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes al inicio del proceso electoral ordinario, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia y demás información que requiera;
 
-II. No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco al día de su nombramiento;
+II. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a los párrafos segundo y tercero del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:
 
-III. Poseer con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello;
+a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad por más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+b) Cada Poder integrará un Comité de Evaluación conformado por cinco personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica, y
 
-V. Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en caso de ausencia en servicio de la República o del Gobierno del Estado, por un tiempo menor de seis meses.
+c) Los Comités de Evaluación integrarán un listado de las personas mejores evaluadas, pudiendo depurarlo mediante insaculación cuando sea necesario, para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género, que remitirán a la autoridad que represente a cada Poder para su aprobación y envío al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral del Estado de Sinaloa a más tardar el 12 de marzo del año de la elección que corresponda, a efecto de que organice el proceso electivo.
+
+Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y
+
+IV. El Instituto Electoral del Estado de Sinaloa efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado de Sinaloa, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas para los cargos de Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado y Magistradas y Magistrados del Tribunal de Disciplina Judicial rendirán protesta de su encargo ante dicho órgano legislativo.
+
+Para el caso de Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado y Magistradas y Magistrados del Tribunal de Disciplina Judicial, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de su titular hasta tres personas aspirantes por cada cargo; el Poder Legislativo postulará hasta tres personas por cada cargo, mediante votación calificada de dos tercios de sus integrantes presentes, y el Poder Judicial del Estado, por conducto del Pleno del Supremo Tribunal de Justicia del Estado, postulará hasta tres personas por cada cargo.
+
+Para el caso de Juezas y Jueces de Primera Instancia, la elección se realizará conforme al procedimiento establecido en este artículo y en los términos que lo dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará mediante votación de dos terceras partes de sus integrantes presentes; y el Poder Judicial del Estado postulará por conducto del Pleno del Supremo Tribunal de Justicia.
+
+El Congreso del Estado incorporará a los listados que remita al Instituto Electoral del Estado de Sinaloa a las personas titulares de los cargos señalados en los dos párrafos anteriores al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará entre las candidaturas que obtengan el mayor número de votos.
+
+La etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral del Estado de Sinaloa celebre en los primeros siete días del mes de septiembre del año anterior a la elección.
+
+Las personas candidatas podrán participar en foros de debate organizados por el propio Instituto o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+Para todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+La duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 97.
 
-Se instituye el Consejo de la Judicatura. La Ley Orgánica establecerá su organización, el régimen de incompatibilidadades (sic) de sus miembros y sus funciones, en particular en materia de capacitación, nombramientos, ascensos, inspección y régimen disciplinario, con el objeto de asegurar la independencia, eficacia, disciplina y decoro de los Tribunales y de garantizar a los Magistrados y Jueces, los beneficios de la carrera Judicial.
+Para ser electo Magistrada o Magistrado del Supremo Tribunal de Justicia del Estado, Magistrada o Magistrado del Tribunal de Disciplina Judicial, así como para Jueza o Juez de Primera Instancia se necesita:
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Contar el día de la publicación de la convocatoria señalada en el artículo 96 de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de Magistrada y Magistrado del Supremo Tribunal de Justicia del Estado deberá contar además con práctica profesional de al menos tres años en un área jurídica;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+IV. Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en el caso de ausencia en servicio de la República, por un tiempo menor de seis meses; y,
+
+V. No haber sido titular de Secretaría de despacho, Fiscal General del Estado, diputada o diputado local, ni titular del ejecutivo durante el año previo al día de la publicación de la convocatoria señalada en el artículo 96 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 98.
 
-Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia, sin goce de sueldo, por una sola vez, hasta por el término de seis meses. De igual derecho gozarán los Magistrados de Circuito y los Jueces de Primera Instancia que sean llamados para substituirlos.
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces, podrán obtener licencia hasta por un mes.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+Las licencias podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia del Estado para el caso de Magistradas y Magistrados del mismo; por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes; y por el Órgano de Administración Judicial para el caso de las Juezas y Jueces.
+
+Las licencias de Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial que excedan de un mes deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente; mientras que las licencias de Juezas y Jueces podrán concederse sin goce de sueldo por el Órgano de Administración Judicial. Ninguna licencia podrá exceder del término de un año.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 99.
 
-Las faltas absolutas de los Magistrados Propietarios del Supremo Tribunal de Justicia se cubrirán provisionalmente por los Suplentes, según lo determine el propio Tribunal, mientras que se hace una nueva elección en la forma que establece esta constitución y toma posesión el electo.
+Las faltas de las magistraturas del Supremo Tribunal de Justicia, de las magistraturas del Tribunal de Disciplina Judicial y de Juezas y Jueces que excedan de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
-Dichos Magistrados serán sustituidos en sus faltas temporales que excedan de quince días por los Magistrados Suplentes en los términos del párrafo anterior. Si las faltas no exceden de ese término, o en los casos de recusación o excusa, serán cubiertos en una Sala por los Magistrados de otra, según el turno que corresponda, y en el Pleno sólo serán sustituidos por los Magistrados Suplentes cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos, por lo menos, en la resolución de un determinado negocio.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
-
-Si no fuera posible integrar el Pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados Suplentes llamados conforme a los párrafos anteriores de este artículo, el Congreso del Estado, nombrará los Magistrados Interinos que sean necesarios.
-
-Las ausencias de cualquier índole de los Magistrados de Circuito serán cubiertas por el Secretario de la Sala de Circuito que corresponda, en tanto que el Supremo Tribunal de Justicia hace el nombramiento conducente.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 100.
 
-El cargo de Magistrado del Supremo Tribunal de Justicia será renunciable, en cualquier tiempo, por causa grave que calificará el Congreso, ante el que se presentará la renuncia. En los recesos de éste, la calificación se hará por la Diputación Permanente.
+El cargo de Magistrada o Magistrado del Supremo Tribunal de Justicia, así como magistrada o magistrado del Tribunal de Disciplina Judicial, serán renunciables, en cualquier tiempo, por causa grave que calificará el Congreso, ante el que se presentará la renuncia. En los recesos de éste, la calificación se hará por la Diputación Permanente.
 
-Igualmente será renunciable el cargo de Magistrado de Circuito ante el Supremo Tribunal de Justicia, quien resolverá lo procedente.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 101.
 
-Las licencias de los Magistrados del Supremo Tribunal de Justicia serán concedidas por el propio Tribunal cuando no excedan de un mes, en tanto que las que excedan de ese tiempo las concederá el Congreso, o en su defecto, la Diputación Permanente.
+(DEROGADO, P.O. 6 DE JUNIO DE 2025)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 102.
 
@@ -2107,11 +2131,9 @@ La prohibición que antecede no comprende:
 
 I. Los cargos docentes o en instituciones de beneficencia.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+II. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
-II. A los Magistrados Interinos, cuando solamente integren el Pleno o las Salas del Supremo Tribunal de Justicia en los casos de recusación o excusa.
-
-Las funciones notariales no podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde haya Notarios, excepto cuando el Notario esté impedido para ejercerlas. La Ley del Notariado reglamentará esta prevención.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
 
 III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
 
@@ -2119,11 +2141,11 @@ III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Prime
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 104.
 
-La Ley Orgánica del Poder Judicial reglamentará la integración y el funcionamiento del Pleno, de las Salas del Supremo Tribunal de Justicia, de las Salas de Circuito y de los Juzgados conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal de Justicia en Pleno:
+La Ley Orgánica del Poder Judicial reglamentará la integración y el funcionamiento del Pleno, de las Salas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial, del Órgano de Administración Judicial y de los Juzgados conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal de Justicia en Pleno:
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2139,29 +2161,21 @@ III. Conocer y resolver las controversias de cualquier orden que se susciten, en
 
 III Bis. (DEROGADA, P.O. 22 DE OCTUBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
 
-IV. Conocer de las competencias que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos distritos judiciales;
+IV. Conocer de los conflictos competenciales que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos distritos judiciales.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+V. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
-V. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sean absolutas, temporales o relativas a determinado negocio conforme al Artículo 94;
+VI. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+VII. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
-VI. Nombrar a los Magistrados de Circuito, Jueces, Secretarios, Actuarios y demás servidores públicos integrantes del Poder Judicial;
+VIII. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
 
-VII. Determinar el número de Salas de Circuito que deberá haber en el Estado, el lugar de su residencia, las materias que conozcan y el límite de su competencia territorial, así como determinar el número de Juzgados de Primera Instancia y las materias de que estos conozcan de conformidad con la Ley Orgánica del Poder Judicial del Estado de Sinaloa;
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-VIII. Nombrar cuando lo estime conveniente, Visitadores de Juzgados;
-
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
-
-IX. Expedir los reglamentos internos del Supremo Tribunal, de las Salas de Circuito y de los Juzgados;
+IX. Expedir los reglamentos internos del Supremo Tribunal de Justicia y de los Juzgados.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2171,59 +2185,69 @@ X. Las demás que le confieran las leyes.
 
 El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen, de preferencia a las leyes secundarias aunque éstas sean posteriores.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2025)</small>
 
-#### SECCION II. DE LAS SALAS DE CIRCUITO
+#### SECCIÓN II. DEL TRIBUNAL DE DISCIPLINA JUDICIAL Y EL ÓRGANO DE ADMINISTRACIÓN
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+(NOTA: EL 11 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### Art. 105 Bis.
 
-Las Salas de Circuito serán competentes para conocer de los recursos que procedan en contra de resoluciones distintas de sentencias definitivas, así como de los demás asuntos que prevenga la ley.
+EL TRIBUNAL DE DISCIPLINA JUDICIAL SERÁ UN ÓRGANO DEL PODER JUDICIAL CON INDEPENDENCIA TÉCNICA, DE GESTIÓN Y PARA EMITIR SUS RESOLUCIONES. SE INTEGRARÁ POR TRES PERSONAS ELECTAS POR LA CIUDADANÍA CONFORME AL PROCEDIMIENTO ESTABLECIDO EN EL ARTÍCULO 96 DE ESTA CONSTITUCIÓN. DURARÁN NUEVE AÑOS EN SU ENCARGO, SERÁN SUSTITUIDOS DE MANERA ESCALONADA Y NO PODRÁN SER ELECTOS PARA UN NUEVO PERIODO. LA PRESIDENCIA DEL TRIBUNAL SERÁ DESIGNADA POR SUS MIEMBROS EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY.
 
-Los Magistrados de Circuito serán nombrados por el Pleno del Supremo Tribunal de Justicia, preferentemente entre quienes hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que así lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, debiendo reunir los siguientes requisitos:
+El Tribunal de Disciplina Judicial funcionará en Pleno y en comisiones. El Pleno será la autoridad substanciadora en los términos que establezca la ley y resolverá en segunda instancia los asuntos de su competencia. Podrá ordenar oficiosamente o por denuncia el inicio de investigaciones, atraer procedimientos relacionados con faltas graves o hechos que las leyes señalen como delitos, ordenar medidas cautelares y de apremio y sancionar a las personas servidoras públicas del Poder Judicial que incurran en actos u omisiones contrarias a la ley, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de los asuntos que la ley determine.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+El Tribunal desahogará el procedimiento de responsabilidades administrativas en primera instancia a través de comisiones conformadas por uno de sus integrantes, que fungirá como autoridad sustanciadora y resolutora en los asuntos de su competencia. Sus resoluciones podrán ser impugnadas ante el Pleno del Tribunal de Disciplina, que resolverá por mayoría de votos, en los términos que señale la ley. Las decisiones del Tribunal serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de estas.
 
-II. No tener más de cincuenta y cinco años de edad, ni menos de treinta al día de su nombramiento;
+El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar al Pleno o a sus comisiones los informes de probable responsabilidad, para lo cual podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
-III. Poseer con una antigüedad mínima de cinco años, título profesional de Licenciado en Derecho, expedido por la autoridad o institución legalmente facultada para ello y cuatro años cuando menos, de práctica profesional;
+El Tribunal podrá dar vista al Ministerio Público competente ante la posible comisión de delitos y, sin perjuicio de sus atribuciones sancionadoras, solicitar el juicio político de las personas juzgadoras electas por voto popular ante el Congreso del Estado.
 
-IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad por más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas, con excepción de Magistradas y Magistrados, e integrantes del Órgano de Administración Judicial, que solo podrán ser removidos en los términos del Título VI de esta Constitución.
 
-V. Haber residido en el Estado de Sinaloa durante los últimos cinco años, salvo en caso de ausencia en servicio de la República o del Gobierno del Estado, por un tiempo menor de seis meses.
+El Tribunal evaluará el desempeño de Juezas y Jueces de Primera Instancia que resulten electas en la elección estatal que corresponda durante el segundo año de ejercicio. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
 
-Los Magistrados de Circuito sólo podrán ser privados de sus cargos conforme a las causas y procedimientos contenidos en esta Constitución.
+La ley señalará las áreas intervinientes en los procesos de evaluación y seguimiento de resultados, garantizando la imparcialidad y objetividad de las personas evaluadoras, así como los procedimientos para ordenar las siguientes medidas correctivas o sancionadoras cuando la evaluación resulte insatisfactoria:
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+a) Medidas de fortalecimiento, consistentes en actividades de capacitación y otras tendientes a reforzar los conocimientos o competencias de la persona evaluada, a cuyo término se aplicará una nueva evaluación, y
 
-Las Salas del Supremo Tribunal de Justicia, de oficio o a petición fundada de las Salas de Circuito, o por requerimiento del Fiscal General del Estado, podrán conocer de los asuntos de competencia de las Salas de Circuito cuando sus características especiales, su trascendencia o importancia así lo ameriten.
+b) Cuando la persona servidora pública no acredite favorablemente la evaluación que derive de las medidas correctivas ordenadas o se niegue a acatarlas, el Tribunal podrá ordenar su suspensión de hasta un año y determinar las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+###### Art. 105 Ter.
+
+El Órgano de Administración Judicial contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial. Tendrá a su cargo la determinación del número, competencia territorial y especialización por materias de los Juzgados de Primera Instancia; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
+
+(NOTA: EL 11 DE MAYO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 74/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+EL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL SE INTEGRARÁ POR CINCO PERSONAS, DE LAS CUALES, CUATRO DURARÁN EN SU ENCARGO SEIS AÑOS IMPRORROGABLES. DE ESTAS, UNA SERÁ DESIGNADA POR EL PODER EJECUTIVO, POR CONDUCTO DEL GOBERNADOR CONSTITUCIONAL DEL ESTADO; UNO POR EL CONGRESO DEL ESTADO MEDIANTE VOTACIÓN CALIFICADA DE DOS TERCIOS DE SUS INTEGRANTES PRESENTES; Y DOS POR EL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO. LA PRESIDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO INTEGRARÁ Y PRESIDIRÁ ASIMISMO EL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL.
+
+Quienes integren el Pleno del Órgano de Administración deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.
+
+Durante su encargo, las personas integrantes del Pleno del Órgano de Administración Judicial solo podrán ser removidas en los términos del Título VI de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo.
+
+La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Órgano de Administración Judicial contará con un órgano auxiliar encargado de la capacitación y formación judicial, así como de llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables, que se coordinará con la Escuela Nacional de Formación Judicial para los propósitos constitucionales de esta.
+
+De conformidad con lo que establezca la ley, el Órgano de Administración Judicial estará facultado para expedir acuerdos generales para el adecuado ejercicio de sus funciones. El Tribunal de Disciplina Judicial podrá solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar el adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia.
+
+El Órgano de Administración Judicial elaborará el presupuesto del Poder Judicial del Estado. Los presupuestos serán remitidos por dicho Órgano para su inclusión en el proyecto de Presupuesto de Egresos del Estado.
+
+En el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos o contratos análogos que no estén previstos en la ley.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 #### SECCION III. DE LOS JUECES DE PRIMERA INSTANCIA Y MENORES
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 106.
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia en Pleno y durarán tres años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados sólo podrán ser privados de sus puestos conforme a las prevenciones del Título VI de esta Constitución. Las disposiciones de este Artículo son aplicables a los Secretarios del Supremo Tribunal de Justicia y de las Salas.
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+Las Juezas y los Jueces de Primera Instancia serán electos mediante voto popular y durarán nueve años en el ejercicio de su encargo, podrán ser reelectos y, si lo fueren, solo podrán ser privados de sus puestos en los términos que determine la Constitución General, esta Constitución y la legislación de responsabilidades aplicable.
 
 ###### Art. 107.
 
-Para ser Jueces de Primera Instancia se requiere:
-
-I. Ser ciudadano mexicano por nacimiento y sinaloense, en el pleno ejercicio de sus derechos.
-
-II. Ser mayor de 25 años.
-
-III. Contar con título profesional de Licenciado en Derecho.
-
-IV. Ser de notoria buena conducta, y
-
-V. Aprobar examen de admisión en el Instituto de Capacitación Judicial.
+(DEROGADO, P.O. 6 DE JUNIO DE 2025)
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1968)</small>
 
@@ -2395,7 +2419,9 @@ Art. 109 Bis D. Se instituye el Sistema Estatal Anticorrupción como instancia d
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado; el presidente de la Comisión Estatal de Acceso a la Información Pública; así como por un representante del Supremo Tribunal de Justicia del Estado y otro del Comité de Participación Ciudadana.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por las presidencias del Tribunal de Justicia Administrativa del Estado; de la Comisión Estatal de Acceso a la Información Pública; así como por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana.
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -2809,11 +2835,11 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Art. 132.
 
-Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los diputados locales, los magistrados del Supremo Tribunal de Justicia del Estado, los magistrados de las Salas de Circuito del Poder Judicial del Estado, los secretarios de Despacho del Poder Ejecutivo, los jueces de Primera Instancia, así como los titulares y directores, o sus equivalentes, de las entidades, instituciones u organismos que integren, la Administración Pública Paraestatal, conforme al primer párrafo del artículo 130, así como los titulares de los órganos constitucionales autónomos, presidentes municipales, regidores y síndicos procuradores de los ayuntamientos.
+Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador o Gobernadora, las diputadas y diputados locales, las magistradas y magistrados del Supremo Tribunal de Justicia del Estado, las magistradas y magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Órgano de Administración Judicial, las personas titulares de las secretarías de Despacho del Poder Ejecutivo, las juezas y jueces de Primera Instancia, titulares y directoras, o sus equivalentes, de las entidades, instituciones u organismos que integren la Administración Pública Paraestatal conforme al primer párrafo del artículo 130, las personas titulares de los órganos constitucionales autónomos, así como las personas titulares de las presidencias municipales, regidurías y sindicaturas de procuración de los ayuntamientos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2857,9 +2883,9 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 Todo servidor público es penalmente responsable por los delitos que cometa y su conducta delictuosa será perseguida y sancionada conforme a las leyes penales.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
-Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación por mayoría absoluta de los diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a diputados de la Legislatura Local, magistrados del Supremo Tribunal de Justicia, jueces de primera instancia, secretarios de Despacho del Poder Ejecutivo, presidentes municipales y titulares de órganos constitucionales autónomos, quienes serán juzgados por la autoridad competente.
+Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación por mayoría absoluta de las diputadas y diputados presentes, de que ha lugar a proceder penalmente en contra de la persona inculpada, tratándose de delitos atribuidos a diputadas y diputados de la Legislatura Local, magistradas y magistrados del Supremo Tribunal de Justicia, magistradas y magistrados del Tribunal de Disciplina Judicial, personas integrantes del Órgano de Administración Judicial, juezas y jueces de primera instancia, personas titulares de las secretarías de Despacho del Poder Ejecutivo, de las presidencias municipales y titulares de órganos constitucionales autónomos, quienes serán juzgadas por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2991,9 +3017,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes servido
 
 (3).- A los titulares de las entidades de la Administración Pública Estatal y Paraestatal, al Recaudador de Rentas con residencia en la capital del Estado, les tomará la protesta el ciudadano Gobernador y ellos, a su vez, a los demás servidores públicos de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas dependencias administrativas del Ejecutivo, les tomará la protesta el Presidente Municipal en cuya circunscripción territorial ejerzan sus cargos.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
-(4).- A los Magistrados, los Secretarios y demás servidores públicos de las Salas de Circuito; a los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas; así como a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto cuerpo, ante el Tribunal en Pleno. A los Jueces Menores les tomará la protesta el de Primera Instancia de su Jurisdicción.
+(4).- A las personas integrantes del Órgano de Administración Judicial, titulares de las Secretarías y demás personas servidoras públicas del Supremo Tribunal de Justicia; así como a las Juezas y Jueces de Primera Instancia, les tomará la protesta la presidencia de aquel alto cuerpo, ante el Tribunal en Pleno.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -4884,3 +4910,37 @@ P.O. 25 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 86 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo. La renovación de la totalidad de los cargos de elección en el Poder Judicial del Estado se realizará en la elección estatal ordinaria del año 2027, de conformidad con lo dispuesto en el presente Decreto.
+
+Tercero. El Pleno del Supremo Tribunal de Justicia del Estado y el Consejo de la Judicatura del Estado continuarán ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial, hasta que inicien en funciones el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura del Estado en funciones a la entrada en vigor del presente Decreto se prorrogarán hasta la creación del Tribunal de Disciplina Judicial y el Órgano de Administración Judicial.
+
+Cuarto. El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial iniciarán sus funciones en la fecha en que se les tome protesta a las y los Magistrados del Tribunal de Disciplina Judicial que emanen del proceso electoral de 2027. En esa misma fecha, el Consejo de la Judicatura del Estado quedará extinto.
+
+Los procedimientos de responsabilidades administrativas que se encuentren en trámite previo al inicio de las funciones del Tribunal de Disciplina Judicial, continuarán su substanciación bajo las mismas reglas en que hayan iniciado hasta su conclusión.
+
+El Pleno del Supremo Tribunal de Justicia del Estado implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, financieros y presupuestales en lo que corresponde a sus funciones administrativas y de carrera judicial.
+
+Quinto. Para garantizar el escalonamiento en el Tribunal de Disciplina Judicial en la elección de 2027, por única ocasión se elegirá una magistratura por tres años; otra magistratura por seis años; y, otra magistratura por nueve años.
+
+Sexto. Las Salas de Circuito continuarán sus funciones hasta el día en que se les tome protesta a las y los Magistrados del Pleno del Supremo Tribunal de Justicia del Estado que resulten electos en el proceso electoral de 2027.
+
+El Pleno del Supremo Tribunal de Justicia del Estado expedirá los acuerdos necesarios para la atención de los asuntos en trámite a cargo de las Salas de Circuito.
+
+Séptimo. El Congreso del Estado realizará las adecuaciones a las leyes estatales que correspondan para dar cumplimiento al presente Decreto, con la debida anticipación para el proceso electoral de 2027.
+
+Octavo. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad.
+
+Las Juezas y Jueces del Poder Judicial del Estado que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo, serán acreedoras, siempre y cuando no tengan derecho a la jubilación, al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho, mismas que serán cubiertas con recursos estatales extraordinarios al momento de su retiro.
+
+Las Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado que concluyan su encargo por no postularse o no haber sido electos en la elección del año 2027, serán beneficiarias de un haber de retiro proporcional al tiempo de su desempeño, siempre y cuando no tengan derecho al retiro voluntario.
+
+Noveno. Se derogan todas las disposiciones que se opongan al presente Decreto.
