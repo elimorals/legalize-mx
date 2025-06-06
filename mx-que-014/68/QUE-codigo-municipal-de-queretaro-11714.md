@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2020-09-15"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -685,107 +685,9 @@ Para el despacho de los asuntos de su competencia, el Secretario de Economía y 
 
 ### CAPITULO VI. De la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
 ###### ARTICULO 73.
 
-La Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro, es la encargada de regular el ordenado crecimiento urbano municipal, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-l. Ejercer las atribuciones que en materia de planificación urbana y zonificación, consignan en favor de los municipios la Constitución Política de los Estados Unidos Mexicanos y el Código Urbano vigente en el Estado, el presente Código y demás disposiciones legales y reglamentarias;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-II. Elaborar, aprobar, ejecutar, evaluar y modificar planes, programas y declaratorias de desarrollo urbano dentro de su jurisdicción y competencia, en conjunto con la Secretaría de Movilidad;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-III. Participar en la planeación y ordenamiento del desarrollo urbano correspondiente al Municipio de Querétaro en la zona conurbada, en forma conjunta y coordinada con la Secretaría de Movilidad;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-IV. En conjunto con la Secretaría de Movilidad, aprobar las declaratorias de reservas, destinos y usos que se deriven de los planes parciales y sectoriales, y someterlas al Ejecutivo del Estado para su publicación, a través del Presidente Municipal;
-
-V. Participar en la elaboración de dictámenes sobre planes, programas y lineamientos de desarrollo urbano, así como en proyectos de fraccionamientos, edificaciones y otros elementos que se realicen en el Municipio;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-VI. Establecer y aplicar normas para el adecuado aprovechamiento del suelo, construcciones y la infraestructura determinando las características, densidades y requerimientos de construcción, en conjunto con la Secretaría de Movilidad.
-
-VII. Difundir el contenido de planes, programas, leyes y reglamentaciones urbanísticas ante el público en general, asociaciones profesionales, instituciones y otras agrupaciones similares;
-
-VIII. Celebrar, conforme al Código Urbano, convenios para la ejecución de planes y programas urbanísticos que se realicen en el Municipio;
-
-IX. Vigilar en el ámbito de su competencia y jurisdicción la observancia de los planes de desarrollo urbano, las declaratorias y las normas básicas correspondientes, así como la consecuente utilización del suelo;
-
-X. Atender solicitudes de vecinos en caso de reclamación por incompatibilidad de usos del suelo u otros problemas similares y proponer si procede acciones correctivas;
-
-XI. Promover la participación en forma organizada de grupos de vecinos en la formulación, revisión y control de los planes, programas y proyectos de ordenamiento urbano;
-
-XII. Intervenir, conjunta y cordialmente con el Gobierno del Estado, a través de los organismos responsables en la regularización de la tenencia de la tierra urbana;
-
-XIII. Identificar, declarar y conservar zonas, edificaciones o elementos con valor histórico o cultural;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XIV. Recibir y revisar los fraccionamientos por parte del municipio, en coordinación con las Secretarías de Movilidad y de Servicios Públicos Municipales.
-
-XV. (DEROGADA, P.O. 15 DE ENERO DE 2016)
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas, que deberán ser compatibles con las emitidas por la Secretaría de Movilidad en el ámbito de su competencia;
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
-
-XVII. Aplicar y vigilar las disposiciones municipales sobre uso del suelo, estacionamientos y anuncios, en conjunto con la Secretaría de Movilidad;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
-
-XVIII. Coordinar el desarrollo de proyectos municipales de edificaciones y de espacios urbanos, que reporten fuerte impacto sobre la ciudad, en conjunto con la Secretaría de Movilidad.
-
-XIX. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación con las instituciones federales, estatales o municipales, según sea el área de su competencia;
-
-XX. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
-
-XXI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
-
-XXII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
-
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
-
-XXIII. Recibir, tramitar y resolver el otorgamiento de los permisos de construcción de edificaciones de conformidad con la normatividad aplicable, así como aplicar y vigilar las disposiciones municipales sobre construcciones;
-
-XXIV. Llevar el registro de los profesionistas autorizados para elaborar planos de construcción de edificaciones;
-
-XXV. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
-
-XXVI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
-
-XXVII. Elaborar el diagnóstico ambiental del Municipio, definiendo en detalle la problemática existente y sus causas;
-
-XXVIII. Participar coordinadamente con las autoridades estatales y federales en la vigilancia y cumplimiento de las leyes normativas reglamentarias que regulan la ecología;
-
-XXIX. Proponer modificaciones a la reglamentación existente, a efecto de incluir criterios ecológicos locales, derivados de los estudios e investigaciones practicadas en el territorio municipal;
-
-XXX. Ejecutar o coordinar las acciones directas de protección o restauración ambiental, tales como reforestación, manejo adecuado de residuos sólidos, control de la erosión, implementación de alternativas ecológicas de uso del suelo, administración y vigilancia de áreas naturales protegidas; así como solicitar las evaluaciones de impacto ambiental;
-
-XXXI. Resolver o remitir a las instancias correspondientes las denuncias efectuadas por la ciudadanía en materia de deterioro ambiental;
-
-XXXII. Informar al Presidente Municipal de las secciones en las que se considera necesario solicitar el apoyo de los consejos ecológicos de participación ciudadana; y
-
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-XXXIII.- Autorizar a través de los titulares de la Secretaría, de la Dirección de Desarrollo Económico y Emprendedurismo o del Departamento de Licencias de Funcionamiento, la expedición, control, cancelación, revocación de las licencias municipales de funcionamiento, así como los permisos provisionales que establece la normatividad aplicable; y
-
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2016)</small>
-
-XXXIV.- Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
-
-Para el despacho de los asuntos de su competencia, el titular de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología se auxiliará de las Direcciones de Desarrollo Urbano, de Ecología Municipal, de Desarrollo Económico y Emprendedurismo, de Turismo y de Desarrollo Rural y Agropecuario, así como de los departamentos que al efecto se designen.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO DEL MUNICIPIO DE QUERÉTARO, P.O. 6 DE JUNIO DE 2025)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -7838,3 +7740,23 @@ Se instruye a la Secretaría de Administración para que realice los trabajos co
 ###### ARTÍCULO QUINTO.
 
 Comuníquese el presente a la persona titular de la Secretaría de Administración.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO ÚNICO: SE APRUEBA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en la Gaceta Oficial del Municipio de Querétaro.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de la fecha de la primera publicación en los medios de difusión precisados en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan el artículo 73 del Código Municipal de Querétaro y todas aquellas disposiciones de igual o menor jerarquía que contravengan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría del Ayuntamiento notifique el presente Acuerdo a las personas titulares de la Secretaría de Desarrollo Urbano y de la Secretaría de Administración.
