@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-05-30"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,861 +21,1031 @@ state: "GRO"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 499
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
+Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
-Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
+DECRETO NUMERO 97
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499.
+LA H. LII LEGISLATURA DEL ESTADO DE MEXICO
 
-ÁNGEL HELADIO AGUIRRE RIVERO, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
+DECRETA:
 
-Que el H. Congreso Local, se ha servido comunicarme que,
-
-LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
-
-C O N S I D E R A N D O S
-
-[...]
-
-Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local, 8º fracción I y 127 párrafos primero y tercero de la Ley Orgánica del Poder Legislativo en vigor, este Honorable Congreso decreta y expide el siguiente:
-
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499.
+REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
 # Libro Primero. Parte general
 
 ## Título Primero. Disposiciones generales
 
-### Capítulo Único. Derechos humanos y garantías penales
-
-(principios)
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-Legalidad
-
-A nadie se le podrá imponer pena, medida de seguridad, ni cualquier otra consecuencia jurídica del delito, sino por la realización de una acción u omisión expresamente prevista como delito en una ley vigente al tiempo de su realización, siempre que concurran los presupuestos señalados en la ley y la pena, la medida de seguridad o cualquier otra consecuencia jurídica, se encuentre previamente establecida en la ley.
+Este reglamento es de orden público e interés general y tiene por objeto regular la organización y funcionamiento del Poder Legislativo, conforme a las disposiciones de la Constitución Política del Estado Libre y Soberano de México y la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 2.
 
-Tipicidad y prohibición de la aplicación retroactiva, analógica y por mayoría de razón
-
-No podrá imponerse pena o medida de seguridad, ni cualquier otra consecuencia jurídica del delito, si no se acredita la existencia de los elementos del tipo penal, del delito de que se trate. Queda prohibida la aplicación retroactiva, analógica o por mayoría de razón de la ley penal en perjuicio de persona alguna.
-
-La ley penal sólo tendrá efecto retroactivo si favorece a la persona inculpada, cualquiera que sea la etapa del procedimiento, incluyendo la fase de la ejecución de la sanción penal. En caso de duda se aplicará la ley más favorable, habiéndose escuchado previamente a la persona inculpada.
+Para los efectos de este reglamento se entenderá por: "Constitución" a la Constitución Política del Estado Libre y Soberano de México; por "ley" a la Ley Orgánica del Poder Legislativo; por "reglamento" al Reglamento del Poder Legislativo; y por "ayuntamiento" al órgano de gobierno municipal electo popularmente o designado por la Legislatura.
 
 ###### Artículo 3.
 
-Prohibición de la responsabilidad objetiva
+La Legislatura sesionará en el recinto legislativo o en el que por decreto así se declare.
 
-Queda prohibida toda forma de responsabilidad objetiva, por lo que a ninguna persona se le podrá imponer pena, medida de seguridad, o consecuencia jurídica del delito, si no ha realizado la conducta con dolo o culpa.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 4.
 
-Bien jurídico
-
-Únicamente puede ser constitutiva de delito la acción u omisión que lesione o ponga en peligro al bien jurídico tutelado por la ley penal.
+La Legislatura, en la segunda sesión del primer período ordinario integrará a la Junta de Coordinación Política.
 
 ###### Artículo 5.
 
-Culpabilidad, proporcionalidad y presunción de inocencia
-
-No podrá imponerse pena alguna, ni declararse penalmente responsable a una persona, si la acción u omisión no han sido realizadas culpablemente. La medida de la pena estará en relación directa con el grado de culpabilidad de la persona respecto del hecho cometido, así como de la gravedad de éste. En ningún caso podrá imponerse pena alguna que sea mayor al grado de culpabilidad.
-
-Igualmente se requerirá la acreditación de la culpabilidad de la persona para la aplicación de una medida de seguridad, si ésta se impone accesoriamente a la pena, y su duración estará en relación directa con el grado de culpabilidad. Para la imposición de cualquiera de las restantes consecuencias jurídicas será necesaria la existencia, al menos, de un hecho típico y antijurídico, siempre que de acuerdo con las circunstancias personales del sujeto activo, haya merecimiento, necesidad racional e idoneidad de su aplicación en atención a los fines de prevención especial del delito y de reinserción social que con aquéllas pudieran alcanzarse.
-
-Toda persona acusada será tenida como inocente mientras no se pruebe que se cometió el delito que se le imputa y que ésta lo perpetró.
+El Gobernador del Estado rendirá protesta ante la Legislatura en los términos que señala la Constitución. Los diputados y demás asistentes deberán permanecer de pie.
 
 ###### Artículo 6.
 
-Jurisdiccionalidad
-
-Sólo podrá imponerse una consecuencia jurídica del delito por resolución de la autoridad competente y mediante un procedimiento seguido ante los tribunales previamente establecidos, por lo que ninguna persona podrá ser juzgada por leyes privativas ni por tribunales especiales.
+La protesta que deba rendir algún diputado, magistrado del Tribunal Superior de Justicia del Estado o del Tribunal de lo Contencioso Administrativo o cualquier otro servidor público, se llevará a cabo en la forma que determina la Constitución; para tal efecto, el presidente nombrará una comisión que lo introduzca y en su caso, le acompañe al salir del recinto. En el momento de la protesta los diputados y demás asistentes deberán permanecer de pie.
 
 ###### Artículo 7.
 
-Personalidad de las consecuencias jurídicas
+La Diputación Permanente, en funciones de Comisión Instaladora, recibirá de los organismos electorales y del tribunal electoral, la documentación que conforme a la ley de la materia deban remitir a la Legislatura entrante, así como las constancias de su elección que entregarán los diputados electos.
 
-Las consecuencias jurídicas que resulten de la comisión de un delito no trascenderán de la persona y bienes del sujeto activo.
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 8.
 
-Punibilidad independiente
-
-Quienes tengan la calidad de autores o de partícipes del delito responderán cada uno en la medida de su propia culpabilidad.
+La Comisión Instaladora, por conducto de la Secretaría de Asuntos Parlamentarios recibirá de los diputados electos la constancia de su elección y los citará a una junta preparatoria.
 
 ###### Artículo 9.
 
-Derecho penal del hecho
+El día y hora en que hubieren sido convocados los diputados electos, la junta, se desarrollará de la siguiente manera:
 
-No podrá restringirse ninguna garantía o derecho de la persona inculpada, ni imponerse consecuencia jurídica alguna del delito, con base en la peligrosidad del agente o en los rasgos de su personalidad. Toda determinación deberá fundamentarse en el hecho cometido y en el grado de lesión o puesta en peligro al que haya sido expuesto el bien jurídico tutelado.
+I.- Los trabajos iniciales serán conducidos por la Comisión Instaladora de la Legislatura;
+
+II.- Se pasará lista de asistencia a los diputados electos para verificar el quórum;
+
+III.- La Comisión Instaladora por conducto de su secretario, dará cuenta de las funciones realizadas como tal;
+
+IV.- La Comisión Instaladora entregará a la directiva que se elija, la documentación que hubiere recibido para la nueva Legislatura;
+
+V.- El presidente instará a los diputados a que elijan de entre sí, en votación secreta, a los integrantes de la directiva;
+
+VI.- Recabada la votación, el secretario hará el escrutinio, informando el resultado al presidente;
+
+VII.- El presidente hará la declaratoria de quienes resultaron electos para integrar la directiva.
 
 ###### Artículo 10.
 
-Dignidad de la persona humana
+Electa la directiva, el presidente rendirá protesta en los siguientes términos:
 
-Queda prohibido todo acto u omisión, en cualquier fase del procedimiento, que vulnere la dignidad humana de la víctima o de la persona inculpada. La infracción a este principio será sancionada con arreglo al ordenamiento jurídico aplicable.
+"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, las leyes que de una y otra emanen y desempeñar leal y patrióticamente con los deberes de mi encargo, y si no lo hiciere así, que la Nación y el Estado me lo demanden".
+
+A continuación el presidente tomará la protesta a los diputados en los términos siguientes:
+
+"¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México; las leyes que de una y otra emanen y desempeñar leal y patrióticamente con los deberes de su encargo?". Los diputados contestarán: "Sí, protesto". El Presidente dirá: "Si no lo hicieren así, que la Nación y el Estado se los demanden".
 
 ## Título Segundo. Ley penal
 
-### Capítulo I. Aplicación especial de la ley
+### CAPITULO II. DE LA INSTALACION DE LA LEGISLATURA
 
 ###### Artículo 11.
 
-Territorialidad
+Cumplido lo señalado en el artículo anterior, el presidente hará la declaración solemne de quedar legalmente constituida la Legislatura, en los siguientes términos:
 
-Este código se aplicará en el Estado de Guerrero por los delitos del fuero común que se cometan en su territorio.
+"La ... (número romano que le corresponda) Legislatura del Estado Libre y Soberano de México, se declara formalmente constituida y en aptitud de ejercer, a partir del 5 de septiembre, las atribuciones que le confieren la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, y las leyes que de ambas emanen".
+
+El presidente designará dos comisiones protocolarias para comunicar al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia la declaratoria de haber quedado legalmente constituida la nueva Legislatura, informándoles el lugar y la hora en que dará inicio el primer período ordinario de sesiones.
 
 ###### Artículo 12.
 
-Aplicación extraterritorial de la ley penal
+Los diputados electos que no hubieren asistido a la junta, rendirán protesta constitucional en la primera sesión a la que concurran.
 
-Este código se aplicará, asimismo, por los delitos cometidos en alguna entidad federativa, cuando:
+### CAPITULO III. DE LAS COMISIONES Y COMITES
 
-I. Produzcan efectos dentro del territorio del Estado de Guerrero, o
-
-II. Sean permanentes o continuados y se sigan cometiendo en el territorio del Estado de Guerrero.
-
-Son aplicables en lo conducente, las disposiciones de este código, por los delitos en contra de la salud en su modalidad de narcomenudeo a que se refiere el artículo 474 y demás disposiciones aplicables del Capítulo VII del Título Décimo Octavo de la Ley General de Salud.
-
-### Capítulo II. Aplicación temporal de la ley
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 13.
 
-Validez temporal
+Los cargos de los miembros de las comisiones legislativas, se incluirán en la propuesta de integración que formule la Junta de Coordinación Política, y serán un presidente, un secretario, un prosecretario y seis miembros.
 
-Es aplicable la ley penal vigente en el momento de la realización del delito.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
+
+Para su integración se considerará a los diputados de los diferentes grupos parlamentarios.
+
+> <small>(ADICIONADO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+Artículo 13 A.- Las facultades de las Comisiones Legislativas de manera enunciativa y no limitativa, son las siguientes:
+
+I. La Comisión de Gobernación y Puntos Constitucionales, conocerá de los temas siguientes:
+
+a) Sobre las reformas que se propongan a la Constitución General de la República y la particular del Estado;
+
+b) Los de conveniencia de secundar las iniciativas hechas por las Legislaturas de otras Entidades Federativas;
+
+c) De la Ley Orgánica y Reglamento del Poder Legislativo;
+
+d) De las leyes orgánicas y reglamentarias de los dispositivos de la Constitución Política del Estado;
+
+e) Los de organización y estructura de los Poderes Legislativo, Ejecutivo y Judicial;
+
+f) Los de iniciación ante el Congreso de la Unión de las leyes que a éste competan, así como su reforma o derogación;
+
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2014)</small>
+
+g) Las propuestas de nombramientos y resolución sobre renuncias, licencias temporales y absolutas de servidores públicos de los poderes Legislativo, Ejecutivo y Judicial, así como de órganos autónomos, salvo lo previsto en otras disposiciones constitucionales y legales.
+
+Los aspirantes harán una presentación ante la comisión sobre su trayectoria profesional y de las motivaciones que los impulsan para ocupar el cargo al que son propuestos, hasta por quince minutos y podrán ser interrogados por los diputados que las integren, quienes harán uso de la palabra hasta por siete minutos, teniendo los aspirantes en todo caso, derecho a réplica y dúplica hasta por diez minutos cada vez.
+
+h) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+II. La Comisión de Legislación y Administración Municipal, conocerá de los temas siguientes:
+
+a) Los referentes a la Legislación Municipal;
+
+b) De asociación con uno o más municipios del Estado o con los de otras entidades federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan;
+
+c) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+
+d) De la elevación de categorías políticas de los municipios;
+
+e) De conocimiento del procedimiento para que el gobierno estatal asuma una función o servicio municipal, al no existir el convenio correspondiente;
+
+f) De reformas a la Ley Orgánica Municipal y a las bases generales a las que se sujetan los Ayuntamientos; y
+
+g) Los asuntos que se le asignen en el Pleno de la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+III. La Comisión de Procuración y Administración de Justicia, conocerá de los temas siguientes:
+
+a) De reformas de los códigos y leyes del Estado en materia de impartición de justicia;
+
+b) Sobre la expedición y reforma a la legislación civil en su aspecto sustantivo y adjetivo;
+
+c) De las reformas de la legislación penal en su aspecto sustantivo y adjetivo;
+
+d) De las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
+
+e) De las leyes que establezcan y regulen los temas integrales en materia de tratamiento penal; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+IV. La Comisión de Planeación y Gasto Público, conocerá de los temas siguientes:
+
+a) Las Leyes de Ingresos del Estado y de los municipios;
+
+b) El Presupuesto de Egresos del Gobierno del Estado;
+
+c) El Código Financiero del Estado de México y Municipios;
+
+d) Los impuestos extraordinarios o especiales, estatales o municipales;
+
+e) La contratación de empréstitos del Estado y de los municipios en términos de la Constitución;
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política; y
+
+g) Las demás relativas y aplicables a la materia.
+
+V. La Comisión de Trabajo, Previsión y Seguridad Social, conocerá de los temas siguientes:
+
+a) De reformas de las leyes relativas a la relación de trabajo entre los Poderes o Ayuntamientos del Estado y sus respectivos trabajadores;
+
+b) Sobre la legislación relativa a la seguridad social de los trabajadores al servicio del Estado y los Municipios;
+
+c) Las correspondientes a la adopción de medidas de previsión social; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+VI. La Comisión de Educación, Cultura, Ciencia y Tecnología, conocerá de los temas siguientes:
+
+a) La legislación relacionada con la educación, cultura, ciencia, e investigación científica y tecnológica del Estado;
+
+b) La Ley Orgánica de la Universidad Autónoma del Estado de México y demás relativas; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+VII. La Comisión de Desarrollo Urbano, conocerá de los temas siguientes:
+
+a) Los de legislación relativa a asentamientos humanos;
+
+b) Los relacionados con el ordenamiento territorial;
+
+c) Los relativos a la vivienda; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+VIII. La Comisión de Planificación Demográfica, conocerá de los temas siguientes:
+
+a) Sobre las políticas públicas vinculadas con la población en cuanto a su volumen, estructura, dinámica y distribución en el territorio estatal;
+
+b) Los relacionados con la planificación demográfica; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+IX. La Comisión de Desarrollo Agropecuario y Forestal, conocerá de los temas siguientes:
+
+a) Los relacionados con actividades agrícolas, ganaderas, así como todas las relacionadas con el campo;
+
+b) Los vinculados con actividades agropecuarias, de forestación y reforestación;
+
+c) Los relacionados con la producción y comercialización de los productos del sector agropecuario; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+
+X. La Comisión de Protección Ambiental y Cambio Climático, conocerá de los temas siguientes:
+
+a) Sobre la protección, preservación, mejoramiento y renovación del equilibrio ecológico;
+
+b) Del agua potable, saneamiento y tratamiento del agua, así como procesamiento de desechos sólidos;
+
+c) De la protección de los animales;
+
+d) Sobre normas relativas a la protección al medio ambiente y el equilibrio ecológico;
+
+e) Relacionados con los bienes y servicios ambientales para el mantenimiento de los ecosistemas, la diversidad biológica y las cuencas hidrológicas;
+
+f) Los relacionados con el desarrollo sustentable, como la educación ambiental, ecoeficiencia, salud ocupacional, ecoturismo, transporte alternativo, vivienda ecológica; y
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+g) Los relacionados con el cambio climático;
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+h) Los asuntos que le asigne la Legislatura, la Diputación Permanente o la Junta de Coordinación Política.
+
+XI. La Comisión de Desarrollo Económico, Industrial, Comercial y Minero, conocerá de los temas siguientes:
+
+a) Los relacionados con los sectores productivos;
+
+b) Sobre el desarrollo de los sectores productivos del Estado;
+
+c) En materia de política de desarrollo económico integral;
+
+d) Respecto del desarrollo económico, industrial y comercial de los municipios;
+
+e) Los vinculados con el desarrollo minero; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XII. La Comisión de Comunicaciones y Transportes, conocerá de los temas siguientes:
+
+a) En materia de comunicaciones y transportes;
+
+b) Los relativos a la construcción y funcionamiento de las vías de comunicación;
+
+c) Los relacionados con la conservación y mantenimiento de las vías de comunicación en el Estado; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XIII. La Comisión de Derechos Humanos, conocerá de los temas siguientes:
+
+a) Sobre la legislación en materia de derechos humanos;
+
+b) Aquellos que se relacionen con la promoción y defensa de los derechos humanos;
+
+c) Sobre la convocatoria para ocupar los cargos de comisionado y consejeros ciudadanos de la Comisión de Derechos Humanos del Estado de México; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XIV. La Comisión de Salud, Asistencia y Bienestar Social, conocerá de los temas siguientes:
+
+a) Relacionados con la Salud Pública del Estado;
+
+b) Los relativos al marco jurídico en materia de salud;
+
+c) Sobre asistencia social, salud, drogadicción, alcoholismo, prostitución y tabaquismo; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XV. La Comisión de Seguridad Pública y Tránsito, conocerá de los temas siguientes:
+
+a) De las leyes relativas al tránsito de vehículos;
+
+b) Los relativos al orden público, la seguridad y la tranquilidad de las personas;
+
+c) Sobre las leyes que regulen el funcionamiento de los sistemas de reinserción social, las corporaciones de seguridad pública estatal y de las empresas que prestan los servicios de seguridad privadas;
+
+d) Los de coordinación en el marco del Sistema Nacional de Seguridad Pública;
+
+e) Los de coordinación de seguridad pública entre el Estado y municipios; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+XVI. La Comisión Electoral y de Desarrollo Democrático, conocerá de los temas siguientes:
+
+a) De reformas y adiciones a la Constitución del Estado, al Código Electoral y demás Leyes en materia electoral;
+
+b) Del proyecto de convocatoria a elecciones ordinarias o extraordinarias a Gobernador, Diputados y miembros de los Ayuntamientos;
+
+c) Sobre la designación de los Consejeros del Instituto Electoral del Estado, Magistrados del Tribunal Electoral del Estado y funcionarios electorales cuyo nombramiento se reserve por la Constitución del Estado; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XVII. La Comisión de Patrimonio Estatal y Municipal, conocerá de los temas siguientes:
+
+a) Los bienes patrimonio del Estado;
+
+b) Los bienes patrimonio de los municipios, así como los de uso común; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XVIII. La Comisión de Desarrollo Turístico y Artesanal, conocerá de los temas siguientes:
+
+a) Los relacionados con la actividad turística del Estado;
+
+b) Sobre la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos de la Entidad;
+
+c) Sobre el rescate, preservación, fortalecimiento y fomento de la actividad artesanal y de las artes populares del Estado; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XIX. La Comisión de Asuntos Metropolitanos, conocerá de los temas siguientes:
+
+a) Sobre la declaratoria de zonas metropolitanas del Estado y sus municipios o con otras entidades federativas colindantes;
+
+b) De la normatividad aplicable en los asuntos metropolitanos;
+
+c) Los relativos al crecimiento de las zonas urbanas y los programas de obra pública de los municipios y del Estado en zonas conurbadas; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XX. La Comisión de Vigilancia del Órgano Superior de Fiscalización, conocerá de los temas siguientes:
+
+a) De la Ley de Fiscalización Superior del Estado de México;
+
+b) De evaluación del Órgano Superior de Fiscalización del Estado;
+
+c) Del dictamen relativo a la terna para ocupar el cargo de Auditor Superior del Estado;
+
+d) Los relacionados con la licencia, renuncia o remoción del Auditor Superior del Estado; y
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+e) Revisar, analizar, aclarar y discutir, los documentos e informes que le sean entregados por el Órgano Superior de Fiscalización;
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXI. La Comisión de Asuntos Indígenas, conocerá de los temas siguientes:
+
+a) Sobre la legislación relacionada con las instituciones de desarrollo económico, social o cultural en las zonas étnicas del Estado;
+
+b) Los relativos a la integridad cultural y derechos de los indígenas;
+
+c) De promoción, defensa y rescate de la herencia y derechos indígenas en el Estado;
+
+d) Sobre la diversidad cultural y lingüística en nuestro Estado;
+
+e) Respecto a los usos y costumbres de los pueblos indígenas y su participación en el Estado; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXII. La Comisión de Protección Civil, conocerá de los temas siguientes:
+
+a) Sobre las leyes que establezcan y regulen los temas integrales en materia de protección civil;
+
+b) Los que promuevan la suscripción de convenios entre el Gobierno del Estado y los ayuntamientos, en materia de protección civil y de aquél con el Gobierno Federal;
+
+c) De los atlas de riesgos estatal y municipales;
+
+d) De las bases normativas sobre la organización, prevención y participación de la sociedad y las instituciones en los riesgos o fenómenos naturales; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE DICIEMBRE DE 2015)</small>
+
+XXIII. La Comisión Para la atención de grupos vulnerables, conocerá de los temas siguientes:
+
+a) Los relacionados con el marco jurídico de los derechos de los niños, de las personas con discapacidad, de los adultos mayores y de cualquier grupo vulnerable;
+
+b) Sobre la cultura de atención a grupos vulnerables;
+
+c) Relacionados con la protección integral a los niños, adolescentes y jóvenes;
+
+d) Los referentes a las personas pensionadas y jubiladas; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXIV. La Comisión de Desarrollo Social, conocerá de los temas siguientes:
+
+a) Los de la legislación relacionada con el desarrollo social;
+
+b) Los de apoyo social;
+
+c) Sobre pobreza extrema y marginación; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXV. La Comisión de Límites Territoriales del Estado de México y sus Municipios, conocerá de los temas siguientes:
+
+a) Fijar los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan;
+
+b) Crear y suprimir municipios, tomando en cuenta criterios de orden demográfico, político, social y económico; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2014)</small>
+
+XXVI. La Comisión Para la Igualdad de Género, conocerá de los temas siguientes:
+
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2014)</small>
+
+a) De igualdad entre el hombre y la mujer;
+
+b) Los relacionados con la participación de la mujer;
+
+c) Los relativos a iniciativas y reformas de los Códigos y Leyes del Estado, en los que se traten temas relativos a la mujer y la familia;
+
+d) Sobre erradicación de la violencia; y
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXVII. La Comisión de Seguimiento de la operación de Proyectos para Prestación de Servicios, conocerá de los temas siguientes:
+
+a) Los relacionadas con los proyectos de prestación de servicios;
+
+b) De la operación de proyectos para prestación de servicios; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXVIII. La Comisión de la Juventud y el Deporte, conocerá de los temas siguientes:
+
+a) Sobre el deporte;
+
+b) Los relacionados con el desarrollo integral de los jóvenes;
+
+c) Los relativos a los derechos de los jóvenes;
+
+d) Los de gestión en apoyo a la juventud;
+
+e) Sobre la prevención y erradicación de las adicciones entre los jóvenes; y
+
+f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXIX. La Comisión de Finanzas Públicas, conocerá de los temas siguientes:
+
+a) Concernientes a la expedición de las Leyes de Ingresos del Estado y municipios;
+
+b) Sobre el Presupuesto de Egresos del Estado;
+
+c) Los de reformas al Código Financiero del Estado de México y Municipios;
+
+d) Sobre gravámenes o cargas fiscales;
+
+e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política; y
+
+f) Las demás relativas y aplicables a la materia.
+
+XXX. La Comisión de Recursos Hidráulicos, conocerá de los temas siguientes:
+
+a) Sobre la legislación en materia de recursos hidráulicos;
+
+b) Los referentes al aprovechamiento, conservación y aprovechamiento de recursos hidráulicos;
+
+c) Sobre la infraestructura para el tratamiento de aguas residuales y para prevenir y recuperar la calidad de los recursos hidráulicos; y
+
+d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+XXXI. La Comisión de Apoyo y Atención al Migrante, conocerá de los temas siguientes:
+
+a) La legislación en materia de migración;
+
+b) De atención a los migrantes mexiquenses; y
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2012)</small>
+
+XXXII. La Comisión de Participación Ciudadana, conocerá de los temas e iniciativas siguientes:
+
+a) La legislación relacionada con los mecanismos de participación ciudadana; y
+
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+b) De las iniciativas de ley o decreto presentadas por los ciudadanos del Estado;
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA, G.G. 1 DE AGOSTO DE 2014)</small>
+
+XXXIII. La Comisión de Asuntos Internacionales, conocerá de los temas e iniciativas siguientes:
+
+a). Celebrar con autorización de la Junta de Coordinación Política, los convenios de Hermanamiento con otras entidades internacionales.
+
+b). Coadyuvar dentro del marco normativo, con las instancias competentes tanto nacionales como de otros países en el apoyo integral a los mexiquenses que se encuentren en el extranjero y a sus familiares.
+
+c). Participar en la promoción, desarrollo de convenios comerciales, fomento turístico, desarrollo económico, en temas de seguridad y con organismos internacionales en materia de respeto y reconocimiento de los tratados internacionales en materia de derechos humanos.
+
+d). Generar las condiciones y los acuerdos para establecer una red o asociaciones de Comisiones de Asuntos Internacionales con las entidades que cuenten con esta figura legislativa, y
+
+e) Las demás que le confiera la Junta de Coordinación Política, la Presidencia de la Legislatura y la Diputación Permanente.
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2015)</small>
+
+XXXIV. La Comisión de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y de Combate a la Corrupción, conocerá de los temas e iniciativas siguientes:
+
+a) De las iniciativas de ley, decreto o acuerdo relacionadas con la transparencia.
+
+b) De las iniciativas de ley, decreto o acuerdo relacionadas con el acceso a la información pública.
+
+c) De las iniciativas de ley, decreto o acuerdo relacionadas con la protección de datos personales.
+
+d) Con los asuntos legislativos vinculados a la transparencia, el acceso a la información pública y protección de datos personales;
+
+e) De las iniciativas de ley, decreto o acuerdo relacionadas con el Combate a la Corrupción;
+
+f) De las iniciativas de ley, decreto o acuerdo relacionadas con la rendición de cuentas;
+
+g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
+
+Lo dispuesto en el párrafo anterior, también será aplicable a los comités.
+
+En caso de ser necesario, la Asamblea determinará lo procedente.
 
 ###### Artículo 14.
 
-Ley más favorable
-
-Cuando entre la comisión del delito y la extinción de la pena, o consecuencia jurídica correspondiente, entre en vigor otra ley aplicable al caso, se estará a lo dispuesto en la ley más favorable a la persona inculpada o sentenciada. La autoridad que esté conociendo o haya conocido del procedimiento penal, aplicará de oficio la ley más favorable habiéndose escuchado previamente a la persona interesada.
-
-Cuando una persona haya sido sentenciada y la reforma atenúe la consecuencia jurídica impuesta, se aplicará de forma inmediata la ley más favorable sin afectar los derechos de la víctima en relación a la reparación del daño.
-
-En caso de que la nueva ley deje de considerar una determinada conducta u hecho como delictivo, se sobreseerán los procedimientos y cesarán los efectos de las sentencias en sus respectivos casos, ordenándose la libertad de los procesados o sentenciados, con excepción de la reparación del daño cuando se haya efectuado el pago.
-
-En caso de que cambiara la naturaleza de la sanción, se substituirá en lo posible, la señalada en la ley anterior por la prevista en la nueva ley.
+Al conocer de un asunto dos o más comisiones, los cargos de presidente, secretario y prosecretario, se turnarán alternativamente por reunión de trabajo, entre quienes ostenten dichos cargos en cada comisión.
 
 ###### Artículo 15.
 
-Momento y lugar del delito
+Los presidentes de las comisiones conducirán los trabajos de estudio y dictamen y serán responsables de los documentos y expedientes que les sean entregados.
 
-El momento y lugar de realización del delito son aquellos en que se concretan los elementos de su descripción legal.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
-### Capítulo III. Aplicación personal de la ley
+### CAPITULO IV. DE LAS FRACCIONES LEGISLATIVAS
+
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 16.
 
-Igualdad y edad penal
+Las reuniones de las comisiones serán públicas, salvo que por acuerdo de sus integrantes puedan tener el carácter de reservadas.
 
-Las disposiciones de este código se aplicarán por igual a todas las personas a partir de los dieciocho años de edad, incorporando la perspectiva de género, y considerando lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y la Constitución Política del Estado Libre y Soberano de Guerrero.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-A las personas menores de dieciocho años edad que realicen una conducta activa u omisiva prevista en algún tipo penal, se les aplicarán las disposiciones contenidas en las leyes correspondientes, por los órganos especializados destinados a ello y según las normas de procedimiento que las mismas establezcan.
-
-### Capítulo IV. Concurso aparente de normas
+### CAPITULO V. DE LAS SESIONES
 
 ###### Artículo 17.
 
-Especialidad, consunción y subsidiariedad
+Para el mejor desempeño de sus trabajos, las comisiones podrán invitar por conducto del Presidente de la Junta de Coordinación Política, a servidores públicos del Estado y de los municipios cuyos conocimientos o información favorezcan el estudio del asunto a dictaminar.
 
-Cuando una misma materia aparezca regulada por diversas disposiciones:
+Asimismo, podrán solicitar a la Junta de Coordinación Política que se invite a personas y a los representantes de instituciones públicas o privadas para proveerse de elementos de juicio para dictaminar.
 
-I. La especial prevalecerá sobre la general;
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
 
-II. La de mayor protección al bien jurídico absorberá a la de menor alcance, o
+Los presidentes de las comisiones recibirán de la Junta de Coordinación Política la solicitud que hicieren llegar el Gobernador del Estado y las autoridades a quienes la Constitución otorga el derecho de iniciativa, en los términos de la fracción XIV del artículo 62 de la ley, a efecto de tomar las providencias necesarias para que los solicitantes, o los representantes que hubieren designado para tal fin, puedan participar en el análisis y estudio de las iniciativas correspondientes.
 
-III. La principal excluirá a la subsidiaria.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
-### Capítulo V. Leyes especiales
+### CAPITULO VI. DE LAS INICIATIVAS
 
 ###### Artículo 18.
 
-Aplicación subsidiaria del Código Penal
+Las reuniones de trabajo de las comisiones, a las que concurran servidores públicos o expertos, se desarrollarán en lo conducente conforme a las reglas señaladas en este ordenamiento para la comparecencia de los servidores públicos ante la Legislatura. Tratándose de la participación del Gobernador del Estado o de las autoridades a quienes la Constitución otorga el derecho de iniciativa, o de los representantes que éstos designen para tal efecto, las comisiones podrán acordar un formato determinado.
 
-Cuando se cometa un delito no previsto en este código, pero sí en una ley especial del Estado de Guerrero, se aplicará esta última, y sólo en lo no previsto por la misma se aplicarán las disposiciones de este código.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
 ## Título Tercero. El delito
 
-### Capítulo I. Formas de comisión e imputación subjetiva
+### CAPITULO VII. DE LOS DICTAMENES
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 19.
 
-Principio de acto
+Las comisiones, cuando lo estimen necesario para la mejor comprensión y estudio de las iniciativas de que conozcan, podrán:
 
-El delito sólo puede ser realizado por acción o por omisión.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+I.- Por conducto de sus presidentes, pedir al Presidente de la Junta de Coordinación Política que solicite la información, datos o copias de documentos que estimen necesarios para el estudio de los asuntos a su cargo;
+
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+II.- Pedir al Presidente de la Junta de Coordinación Política, solicite al Gobernador del Estado, al Presidente del Tribunal Superior de Justicia, a los titulares de los Organismos Autónomos o a los presidentes municipales, la comparecencia ante la Asamblea, de servidores públicos cuando sea necesaria, para el estudio de iniciativas de ley o decreto relacionados con el despacho de sus respectivas competencias;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III.- Solicitar los servicios de asesoría profesional del sector público o privado, cuando se considere conveniente y previa aprobación del Presidente de la Junta de Coordinación Política.
 
 ###### Artículo 20.
 
-Omisión impropia o comisión por omisión
+Para el trámite de los asuntos de su competencia, las comisiones se reunirán cuantas veces sea necesario mediante citatorio que hagan sus respectivos presidentes a sus integrantes, de la siguiente manera:
 
-En los delitos de resultado material, será atribuible el resultado típico producido a quien omita impedirlo, si éste tenía el deber jurídico de evitarlo, si:
+> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
 
-I. Es garante del bien jurídico protegido;
+I.- A través del Secretario de la directiva, en sesión;
 
-II. De acuerdo con las circunstancias podía evitarlo, y
+> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2007)</small>
 
-III. Su inactividad es equivalente a la actividad prohibida en el tipo penal.
+II.- En reunión de las propias comisiones, debiendo señalar el Orden del Día a tratar en la reunión;
 
-Es garante del bien jurídico quien:
+III.- Por escrito con acuse de recibo en las oficinas de los diputados, cuando menos con veinticuatro horas de anticipación.
 
-a) Aceptó efectivamente su custodia;
+> <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
-b) Voluntariamente formaba parte de una comunidad que afrontaba peligros de la naturaleza;
+En todos los casos el citatorio contendrá el día, la hora y el lugar, debiendo acompañar el Orden del Día a tratar.
 
-c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico tutelado, o
+> <small>(ADICIONADO, G.G. 11 DE DICIEMBRE DE 2002)</small>
 
-d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia.
+Los presidentes deberán citar a reuniones de las comisiones directamente o a solicitud de la mayoría de los integrantes de las mismas. En este último caso, de no hacerlo, será el Secretario quien a petición de la mayoría referida haga la citación.
+
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
+
+El Gobernador del Estado o a las autoridades a quienes la Constitución otorga el derecho de iniciativa, y que hubieren solicitado participar en el análisis y estudio de las que hubieren presentado o que caigan dentro de su ámbito competencial, serán informadas de la fecha y hora en que tendrán lugar las sesiones, con al menos 24 horas de anticipación.
 
 ###### Artículo 21.
 
-Delito instantáneo, permanente o continuo y continuado
-
-Atendiendo al momento de la consumación del resultado típico, el delito puede ser:
-
-I. Instantáneo: cuando la consumación se agota en el mismo momento en que se han realizado todos los elementos del tipo penal;
-
-II. Permanente o continuo: cuando se viola el mismo precepto legal y la consumación se prolonga en el tiempo, o
-
-III. Continuado: cuando con unidad de propósito delictivo, pluralidad de conductas e identidad de sujeto pasivo, se concretan los elementos de un mismo tipo penal.
+En caso de ausencia de alguno de los integrantes de la directiva de la comisión, tomará su lugar quien le siga en orden jerárquico. Si la ausencia fuere definitiva, la Asamblea decidirá sobre la sustitución.
 
 ###### Artículo 22.
 
-Imputación subjetiva
+El presidente de la comisión será el encargado de presentar el dictamen a la consideración de la Asamblea. Cuando se trate de comisiones unidas, se pondrán de acuerdo sobre quien deba hacerlo, lo mismo cuando sea otro de los integrantes de las comisiones.
 
-Las acciones u omisiones delictivas únicamente pueden cometerse dolosa o culposamente.
-
-I. Dolo. Actúa dolosamente la persona que, conociendo los elementos objetivos del tipo penal o previendo como posible el resultado típico, quiere o acepta su realización, o
-
-II. Culpa. Actúa culposamente la persona que produce el resultado típico, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la infracción de un deber de cuidado que objetivamente era necesario observar.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ###### Artículo 23.
 
-Incriminación cerrada para la punibilidad de los delitos culposos
+En las reuniones de trabajo de las comisiones se estudiarán los asuntos, primero en lo general y luego en lo particular, pudiendo expresar los diputados integrantes de las mismas sus puntos de vista, verbalmente o por escrito. El Gobernador del Estado y las autoridades a quienes la Constitución otorga el derecho de iniciativa o, en su caso, sus representantes, tendrán similar derecho.
 
-Las acciones y omisiones culposas sólo serán punibles en los casos expresamente determinados por la ley.
-
-### Capítulo II. Formas de tentativa
+### CAPITULO VIII. DE LA DISCUSION
 
 ###### Artículo 24.
 
-Tentativa punible
+Para que una comisión pueda realizar reuniones de trabajo deberán asistir la mayoría de sus integrantes, entre los que deberá estar quien la presida.
 
-Únicamente es punible el delito cometido en grado de tentativa que haya puesto en peligro al bien jurídico tutelado:
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-I. Tentativa acabada. Existe tentativa acabada, cuando la resolución de cometer un delito se exterioriza realizando totalmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo, y aquél no se consuma por causas ajenas a la voluntad del agente, y
+Tratándose de comisiones unidas, para realizar sus reuniones se requerirá de la mitad más uno del total de los integrantes.
 
-II. Tentativa inacabada. Existe tentativa inacabada cuando la resolución de cometer un delito se exterioriza realizando parcialmente los actos ejecutivos que deberían producir el resultado, u omitiendo los que deberían evitarlo, y aquél no se consuma por causas ajenas a la voluntad del agente.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 25.
 
-Desistimiento y arrepentimiento en la tentativa
+La sustitución de algunos de los integrantes de las comisiones o comités, sólo será acordada por la Asamblea cuando de la motivación expresada en la propuesta de la Junta de Coordinación Política se desprenda la existencia de causa justificada.
 
-I. Desistimiento. Si el sujeto activo desiste espontáneamente de la ejecución ya iniciada del delito, no se le impondrá pena ni medida de seguridad alguna, por lo que a éste se refiere, sin perjuicio de aplicar la consecuencia jurídica que corresponda a los actos ejecutados u omitidos que constituyan por sí mismo delitos, y
+Salvo que se trate de falta absoluta o licencia definitiva, el diputado a sustituir podrá expresar lo que a su interés convenga.
 
-II. Arrepentimiento. Si el sujeto activo impide la consumación del delito, no se le aplicará pena ni medida de seguridad alguna, por lo que a éste se refiere, sin perjuicio de aplicar las que correspondan a los actos ejecutados u omitidos que constituyan por sí mismos delitos.
+### CAPITULO IX. DE LAS VOTACIONES
 
-### Capítulo III. Autoría y participación
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
 
 ###### Artículo 26.
 
-Modalidades
-
-Son responsables del delito quienes hayan intervenido en su comisión a título de autor o partícipe.
-
-A. Formas de autoría. Son autores, quienes:
-
-I. Autoría directa. Lo realicen por sí;
-
-II. Coautoría. Lo realicen conjuntamente;
-
-III. Autoría mediata. Lo realicen sirviéndose de otra persona como instrumento;
-
-B. Formas de participación. Son partícipes del delito, quienes:
-
-I. Inducción. Determinen dolosamente al autor a cometerlo;
-
-II. Complicidad. Dolosamente presten ayuda o auxilio al autor para su comisión, y
-
-III. Encubrimiento. Con posterioridad a su ejecución auxilien al autor en cumplimiento de una promesa anterior a la ejecución del delito.
-
-Para las hipótesis previstas en las fracciones V y VI se impondrá la punibilidad dispuesta en el artículo 84 de este código.
-
-A juicio del juzgador, el inductor podrá responder hasta con la misma consecuencia jurídica por la que pudiera responder el autor directo.
-
-Los partícipes inductores o cómplices responderán penalmente, siempre y cuando la conducta del autor del hecho principal suponga un comportamiento típicamente doloso y antijurídico, en un hecho consumado o realizado en grado de tentativa.
-
-En ningún caso el desistimiento o arrepentimiento del autor del hecho principal beneficiará a los partícipes.
+Los comités atenderán una materia específica y podrán ser permanentes o transitorios.
 
 ###### Artículo 27.
 
-Delito emergente
-
-Si varias personas toman parte en la realización de un delito y alguno de ellos comete un delito distinto al previamente determinado, todos serán responsables de éste, conforme a su propio grado de culpabilidad, siempre que concurran los siguientes requisitos:
-
-I. Que sirva de medio adecuado para cometer el principal;
-
-II. Que sea una consecuencia necesaria o natural de aquél, o de los medios concertados;
-
-III. Que hayan sabido antes que se iba a cometer; o bien,
-
-IV. Que cuando hayan estado presentes en su ejecución, no hayan hecho cuanto estaba de su parte para impedirlo.
+Los cargos dentro de los comités, su organización y funcionamiento, se regularán conforme a lo que les sea aplicable de la normatividad establecida para las comisiones de dictamen.
 
 ###### Artículo 28.
 
-Autoría indeterminada
-
-Cuando varias personas intervengan en la comisión de un delito y no pueda precisarse el daño que cada quien produjo, se atenderá lo dispuesto en el artículo 85 de este código para los efectos de la punibilidad.
+Los diputados cuya elección se origine por igual filiación de partido podrán constituirse en grupo parlamentario.
 
 ###### Artículo 29.
 
-De las personas jurídicas
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
-Cuando un miembro o representante de una persona jurídica, con excepción de las instituciones públicas del estado de Guerrero, cometa algún delito con los medios que para tal objeto le proporcione aquella, de modo que resulte cometido a nombre, bajo el amparo o en beneficio de ésta, el juez impondrá en la sentencia, previo juicio correspondiente y con la intervención del representante legal, las consecuencias jurídicas accesorias previstas en los artículos 70 y 71 de este código, sin perjuicio de las responsabilidad en que hayan incurrido las personas físicas.
-
-### Capítulo IV. Concurso de delitos
+### CAPITULO X. DEL PROCEDIMIENTO PARA SUSPENDER AYUNTAMIENTOS, DECLARAR SU DESAPARICION, SUSPENDER O REVOCAR EL MANDATO DE ALGUNO DE SUS MIEMBROS
 
 ###### Artículo 30.
 
-Concurso ideal y concurso real de delitos
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
-Existe concurso ideal cuando con una conducta de acción o de omisión se cometen varios delitos y concurso real cuando con pluralidad de conductas, activas u omisivas, se cometen varios delitos.
-
-No hay concurso de delitos cuando las conductas constituyan un delito continuado.
-
-En caso de concurso de delitos se estará a lo dispuesto en el artículo 82 de este código.
-
-### Capítulo V. Causas de exclusión del delito
+### CAPITULO XI. DEL ORDEN PUBLICO DE LAS SESIONES
 
 ###### Artículo 31.
 
-Causas de exclusión del delito
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
-Son causas de exclusión del delito cuando exista:
-
-I. Ausencia de conducta. La actividad o la inactividad se realicen sin intervención de la voluntad del agente;
-
-II. Atipicidad. Falte alguno de los elementos del tipo penal de que se trate;
-
-III. Consentimiento del titular del bien jurídico como causa de justificación. Se actúe con el consentimiento del titular del bien jurídico afectado o de la persona legalmente autorizada para otorgarlo, siempre que se cumplan los siguientes requisitos:
-
-a) Que se trate de un bien jurídico disponible;
-
-b) Que el titular del bien jurídico, o quien esté autorizado legalmente para consentir, tenga la capacidad jurídica para disponer libremente del mismo, y
-
-c) Que el consentimiento sea expreso o tácito y no medie vicio alguno en el consentimiento del titular.
-
-Se presume que hay consentimiento cuando el hecho se realice en circunstancias tales que permitan suponer fundadamente que, de habérsele consultado al titular del bien jurídico, o a quien estuviera autorizado para consentir, éstos hayan otorgado el consentimiento.
-
-IV. Legítima defensa como causa de justificación. Se repela una agresión real, actual o inminente, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad razonable de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de quien lo defienda;
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
-
-Existe defensa legítima propia al ejercicio del derecho de defenderse, al hecho de causar daño, lesión o privación de la vida, salvo prueba en contrario, a quien por cualquier medio trate de penetrar o se introduzca sin derecho al inmueble donde se encuentre el hogar o lugar de trabajo, incluidos inmuebles ubicados en bienes comunales, ejidales y de pequeña propiedad, del agente pasivo, víctima o víctimas, al de su familia, comunidad afectiva o a las de cualquier persona que tenga la obligación de defender. Al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación de proteger; o bien, se encuentren algunos de aquellos bienes, en lugares y en circunstancias tales que revelen la posibilidad de una agresión actual e inminente.
-
-En los casos de agresiones provenientes de menores se evitará lesionar al agresor y sólo se ejercerá la defensa necesaria y proporcional ante ataques graves. La contravención a esta disposición será considerada un exceso en la legítima defensa conforme a lo dispuesto en el artículo 87 de este código;
-
-V. Estado de necesidad justificante y estado de necesidad disculpante. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tenga el deber jurídico de afrontarlo, y
-
-VI. Cumplimiento de un deber y ejercicio de un derecho como causas de justificación. Se actúe en cumplimiento de un deber jurídico o en ejercicio de un derecho, dentro de los límites establecidos por la ley, siempre que exista necesidad razonable de la conducta empleada para cumplir el deber o ejercer el derecho.
-
-Se entenderá como cumplimiento de un deber, cuando los agentes policiales del Estado, previamente autorizados por el Titular del Ministerio Público, ejecuten una orden de infiltración como técnica para la investigación de los delitos contemplados en la Ley General de Salud en su modalidad de narcomenudeo. En la orden de infiltración, que sea expedida, se precisarán las modalidades, limitaciones y condiciones a que se encontrarán sujetos dichos agentes;
-
-VII. Obediencia jerárquica. Se actúe en virtud de obediencia jerárquica legítima;
-
-VIII. Inimputabilidad como causa de inculpabilidad, acciones libres en su causa, e imputabilidad disminuida. Al momento de realizar el hecho típico, el sujeto activo no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente haya provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación.
-
-Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 67 de este código;
-
-IX. Error de tipo invencible como causa de atipicidad y error de prohibición invencible como causa de inculpabilidad. Se realice la acción o la omisión bajo un error invencible, respecto de:
-
-a) Alguno de los elementos del tipo penal, o
-
-b) La ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que su conducta se encuentra justificada.
-
-Si los errores a los que se refieren los incisos anteriores son vencibles se estará a lo dispuesto por el artículo 86 de este código, y
-
-X. No exigibilidad de otra conducta como causa de inculpabilidad. En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-
-Las causas de exclusión del delito se resolverán de oficio en cualquier parte del procedimiento.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
-
-Si en los casos de las fracciones V y VI de este artículo la persona se excede, se atenderá a lo previsto en el artículo 87 de este código.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ## Título Cuarto. Consecuencias jurídicas del delito
 
-### Capítulo I. Penas, medidas de seguridad y consecuencias jurídicas accesorias para las personas morales
+### CAPITULO XII. DEL CEREMONIAL
 
 ###### Artículo 32.
 
-Catálogo de penas
+Los grupos parlamentarios podrán proponer que la Legislatura o la Diputación Permanente, en su caso, se pronuncien acerca de cuestiones de interés general.
 
-Las penas que se pueden imponer por la comisión de un delito son:
-
-I. Prisión;
-
-II. Tratamiento en libertad de imputables;
-
-III. Semilibertad;
-
-IV. Trabajo a favor de la víctima o de la comunidad;
-
-V. Sanción pecuniaria;
-
-VI. Decomiso de los instrumentos, objetos y productos del delito;
-
-VII. Suspensión de derechos, destitución e inhabilitación para el desempeño de cargos, comisiones o empleos;
-
-VIII. Amonestación;
-
-IX. Caución de no ofender;
-
-X. Reparación del daño, y
-
-XI. Tratamiento reeducativo psicoterapéutico.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 33.
 
-Catálogo de medidas de seguridad
-
-Las medidas de seguridad que se pueden imponer son:
-
-I. Supervisión de la autoridad;
-
-II. Prohibición de ir a un lugar determinado u obligación de residir en él;
-
-III. Tratamiento de inimputables o imputables disminuidos;
-
-IV. Tratamiento de deshabituación o desintoxicación, y
-
-V. Órdenes de protección.
+Los grupos parlamentarios coadyuvarán al mejor desarrollo del proceso legislativo y facilitarán la participación de los diputados en sus funciones, así como para la formación de criterios comunes en las discusiones y deliberaciones en que participen sus integrantes.
 
 ###### Artículo 34.
 
-Catálogo de consecuencias jurídicas accesorias para las personas morales
+(DEROGADO, G.G. 19 DE AGOSTO DE 2003)
 
-Las consecuencias jurídicas accesorias para las personas morales son:
-
-I. Disolución;
-
-II. Suspensión;
-
-III. Prohibición de realizar determinadas operaciones;
-
-IV. Intervención, y
-
-V. Remoción.
-
-### Capítulo II. Prisión
+### CAPITULO XIII. DEL REGISTRO LEGISLATIVO, DEL DIARIO DE DEBATES Y DE LA GACETA PARLAMENTARIA
 
 ###### Artículo 35.
 
-Concepto y duración
+Durante los períodos ordinarios, la Legislatura sesionará por lo menos una vez por semana o cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia.
 
-La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de sesenta años.
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
-En toda pena de prisión que se imponga se computará el tiempo de la detención.
+Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes.
 
-Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquellas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de sesenta años.
+### CAPITULO XIV. DE LAS DEPENDENCIAS DEL PODER LEGISLATIVO
 
-Las personas procesadas sujetas a prisión preventiva y las acusadas por delitos políticos, serán recluidas en establecimientos o departamentos especiales.
-
-Las mujeres compurgarán sus penas en lugares distintos de los destinados a los hombres.
-
-### Capítulo III. Tratamiento en libertad de imputables
+> <small>(REFORMADO, G.G. 26 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 36.
 
-Concepto y duración
-
-El tratamiento en libertad de imputables consiste en la aplicación, según el caso, de las medidas educativas, deportivas, laborales, de salud o de cualquier otra índole autorizadas por la ley, orientadas a la reinserción social de la persona sentenciada y bajo la orientación y cuidado de la autoridad ejecutora.
-
-Esta consecuencia jurídica podrá imponerse como pena autónoma o sustitutiva de la prisión, sin que su duración pueda exceder de la correspondiente a la pena de prisión sustituida.
+En los períodos extraordinarios, podrán celebrarse las que se requieran para la atención de los asuntos que los hayan motivado.
 
 ### Capítulo IV. Semilibertad
 
 ###### Artículo 37.
 
-Concepto y duración
+La Legislatura sesionará en las fechas previstas por la Constitución y regularmente los días y en la hora que previamente señale el Presidente de la Legislatura, debiendo convocar a los diputados en las siguientes formas:
 
-La semilibertad implica alternar periodos de libertad y privación de la misma, y se cumplirá conforme a los requisitos siguientes:
+I.- Mediante aviso público en sesión;
 
-I. Libertad durante la semana laboral con reclusión el fin de semana;
+II.- Por citatorio escrito con acuse de recibo, en las oficinas de los diputados en el recinto del Poder Legislativo, cuando menos con veinticuatro horas de anticipación;
 
-II. Libertad el fin de semana con reclusión durante el resto de ésta;
-
-III. Libertad diurna con reclusión nocturna, o
-
-IV. Libertad nocturna con reclusión diurna.
-
-La semilibertad podrá imponerse como pena autónoma o como sustitutiva de la prisión. En este último caso, la duración no podrá exceder de la que corresponda a la pena de prisión sustituida.
+III.- Por citatorio especial y personal, en casos excepcionales.
 
 ### Capítulo V. Trabajo a favor de la víctima o de la comunidad
 
 ###### Artículo 38.
 
-Trabajo a favor de la víctima
+Las sesiones de la Legislatura podrán ser por el carácter de citación:
 
-Consiste en la prestación de servicios remunerados en instituciones públicas, educativas, empresas de participación estatal o empresas privadas conforme a los términos del Código de Procedimientos Penales y la Ley número 847 de Ejecución Penal del Estado de Guerrero.
+I.- Normales;
+
+II.- Urgentes.
+
+Las sesiones normales se realizarán conforme a citatorio regular y las urgentes ameritarán citatorio especial.
 
 ###### Artículo 39.
 
-Trabajo a favor de la comunidad
+El presidente podrá declarar que la Legislatura se constituya en sesión permanente durante el tiempo que sea necesario para el desahogo de los asuntos que la motiven.
 
-Consiste en la prestación de servicios no remunerados en instituciones públicas, educativas, de asistencia o servicio social o en instituciones privadas de asistencia que no sean de carácter lucrativo y debidamente reguladas por el ordenamiento jurídico.
+En esa sesión solo podrán ser tratados aquellos asuntos que la motivaron y se dará por terminada cuando éstos se resuelvan o lo determine el Presidente de la Legislatura.
+
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 40.
 
-Reglas generales para su aplicación
-
-Respecto al trabajo a favor de la víctima o de la comunidad, deben aplicarse las siguientes disposiciones:
-
-I. Ambas consecuencias jurídicas deberán cumplirse bajo la orientación y vigilancia del juez de ejecución;
-
-II. El trabajo a favor de la víctima o de la comunidad se llevará a cabo en jornadas dentro de periodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia de la persona sentenciada y la de su familia sin que pueda exceder de la jornada extraordinaria que determina la ley laboral;
-
-III. La extensión de la jornada será fijada tomando en cuenta las circunstancias del caso y por ningún motivo se desarrollará en forma que resulte degradante o humillante para la persona sentenciada;
-
-IV. Ambas consecuencias jurídicas podrán imponerse como pena autónoma o sustitutiva de la pena de prisión o de multa, y
-
-V. Cada día de prisión o cada día multa será sustituido por una jornada de trabajo a favor de la víctima o de la comunidad.
+Las sesiones de la Legislatura serán públicas y podrán ser de régimen: deliberante; solemne; especial o jurisdiccional.
 
 ### Capítulo VI. Sanción pecuniaria
 
 ###### Artículo 41.
 
-Multa, reparación del daño y sanción económica
-
-La sanción pecuniaria comprende la multa, la reparación del daño y la sanción económica.
+Las sesiones deliberantes se ocuparán del análisis, discusión y resolución de iniciativas de ley, decreto, iniciativas al Congreso de la Unión o acuerdos, así como del tratamiento de cualquier otro asunto que sea sometido a la consideración de la Asamblea; en las mismas los diputados podrán ejercer su derecho a intervenir conforme a la ley y el reglamento.
 
 ###### Artículo 42.
 
-Multa
+Las sesiones de régimen deliberante se sujetarán en lo aplicable al siguiente procedimiento:
 
-La multa consiste en el pago de una cantidad determinada de dinero al Estado fijada mediante el esquema de días multa.
+I.- Lista de asistencia y verificación del quórum;
+
+II.- Aprobación del acta de la sesión anterior;
+
+III.- Comunicaciones de los Poderes de la Unión, de los Poderes Ejecutivo y Judicial del Estado, de los ayuntamientos, así como de las legislaturas de los demás estados;
+
+IV.- Minutas enviadas por el H. Congreso de la Unión;
+
+V.- Lectura de iniciativas;
+
+> <small>(REFORMADA, G.G. 3 DE MARZO DE 2011)</small>
+
+VI.- Dictámenes emitidos por las comisiones y, en su caso, iniciativas con carácter preferente, presentadas por el Gobernador del Estado, que no hubieren sido dictaminadas por las comisiones dentro del plazo legal respectivo;
+
+VII.- Discusión y resolución;
+
+VIII.- Otros asuntos;
+
+IX.- Clausura de la sesion.
+
+Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
 ###### Artículo 43.
 
-Reglas generales para la determinación de la multa
-
-Para la imposición de la multa debe atenderse a las siguientes disposiciones:
-
-I. Los mínimos y máximos de la multa atenderán a cada delito en particular, los cuales no podrán ser menores a un día ni mayores a tres mil días multa, salvo los casos expresamente señalados en este código;
-
-II. El día multa equivale a la percepción neta diaria de la persona imputada en el momento de cometer el delito;
-
-III. El límite inferior del día multa será equivalente al salario mínimo diario vigente en el Estado al momento de cometerse el delito, y
-
-IV. Para determinar el día multa se tomará en cuenta:
-
-a) El momento de la consumación si el delito es instantáneo;
-
-b) El momento en que cesó la consumación si el delito es permanente, o
-
-c) El momento de la consumación de la última conducta si el delito es continuado.
+Las sesiones solemnes que se realicen por mandato legal o por acuerdo expreso de la Asamblea, se sujetarán en su desarrollo a lo previsto en el orden del día y en el protocolo respectivo. La directiva cuidará de preservar el carácter solemne, sin que en ningún caso sea procedente el tratamiento de asuntos ajenos a la misma y sólo intervendrán los oradores registrados.
 
 ###### Artículo 44.
 
-Sustitución de la multa
+Las sesiones de la Legislatura serán solemnes cuando:
 
-Cuando se acredite que la persona sentenciada no puede pagar la multa o solamente puede cubrir parte de ésta, la autoridad judicial podrá sustituirla total o parcialmente por trabajo a favor de la víctima o de la comunidad, en cuyo caso cada jornada de trabajo saldará un día multa.
+I.- Se abran y clausuren períodos ordinarios o extraordinarios;
 
-Cuando no sea posible o conveniente la sustitución de la multa por trabajo a favor de la víctima o de la comunidad, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días multa sustituido sin que este plazo sea mayor al de la prescripción.
+II.- Se reciba la protesta constitucional del Gobernador del Estado;
+
+III.- Concurra ante la Legislatura el Gobernador del Estado a rendir informe acerca del estado que guarde la administración pública;
+
+IV.- Asista el Presidente de los Estados Unidos Mexicanos;
+
+V.- Se honre a personas o instituciones;
+
+VI.- Así lo acuerde la Asamblea.
 
 ###### Artículo 45.
 
-Exigibilidad de la multa
+La Legislatura cursará invitación al Presidente de los Estados Unidos Mexicanos, a las sesiones solemnes en las que el Gobernador del Estado rinda protesta o presente el informe sobre el estado que guarde la administración pública.
 
-Si la persona sentenciada no exhibe el importe de la multa impuesta dentro de los diez días hábiles siguientes a que cauce ejecutoria la sentencia, el juez de ejecución iniciará el procedimiento económico coactivo.
-
-En atención a las características del caso, la autoridad judicial de ejecución podrá fijar plazos razonables para el pago de la multa en exhibiciones parciales. En cualquier momento podrá cubrirse el importe de la multa, descontándose de ésta la parte proporcional a las jornadas de trabajo a favor de la víctima o de la comunidad que se hayan efectuado o el tiempo de prisión que se haya cumplido.
-
-Tratándose de mujeres con hijos menores de edad, madres solteras, mujeres mayores de sesenta y cinco años de edad; personas con alguna discapacidad; jóvenes menores de veintitrés años que acrediten que están realizando estudios en instituciones legalmente autorizadas y que demuestren que se dedican a una actividad lícita; indígenas monolingües; trabajadores o jornaleros, asalariados o no, que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona, cada jornada de trabajo saldará dos días de multa, y la multa sustitutiva de la pena privativa de libertad equivaldrá a un día de multa por dos de prisión.
-
-El importe de la multa y la sanción económica impuestas se destinará, en primer lugar, a la reparación del daño ocasionado por el delito. En el caso de que éste se haya cubierto o garantizado, el importe se destinará al mejoramiento de la administración de justicia.
+> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2013)</small>
 
 ### Capítulo VII. Decomiso de instrumentos, objetos y productos del delito
 
 ###### Artículo 46.
 
-Bienes susceptibles de decomiso
-
-El decomiso consiste en la aplicación a favor del Gobierno del Estado, de los instrumentos, objetos o productos del delito.
-
-Si son de uso lícito, se decomisarán sólo cuando la persona haya sido condenada por delito doloso; si pertenecen a un tercero, sólo se decomisarán cuando éste haya tenido conocimiento de su utilización para la comisión del delito y no lo denunció o no hizo cuanto estaba de su parte para impedirlo.
-
-El Ministerio Público durante la investigación procederá al inmediato aseguramiento de los bienes que podrían ser materia de decomiso. Si los bienes susceptibles de aseguramiento aparecieran con posterioridad al ejercicio de la acción penal, el Ministerio Público solicitará al juzgador la orden correspondiente.
+En sesión de la Legislatura, que deberá celebrarse en un plazo no menor a diez ni mayor a veinte días posteriores a la recepción del informe presentado por el Gobernador del Estado, la Asamblea analizará el contenido del mismo.
 
 ###### Artículo 47.
 
-Destino de los objetos decomisados
-
-La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito al pago de la reparación de los daños y perjuicios causados, al pago de la multa, o en su defecto, los destinará al mejoramiento de la procuración y administración de justicia del estado.
-
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convenga, con la excepción prevista en el último párrafo de este artículo, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se aplicará a favor del Estado.
-
-En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Estado, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley Orgánica de la Fiscalía General del Estado, cuando los bienes hayan estado a disposición del Ministerio Público, o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley respectiva, cuando hayan estado a disposición de la autoridad judicial.
-
-Cuando no sea persona cierta, no esté identificada, se desconozca el domicilio de la persona a quien deba de notificársele en los términos de este artículo o se encuentre fuera del Estado o del País, la notificación se hará mediante publicación en los términos que establezca en el Código de Procedimientos Penales o supletoriamente en el de Procedimientos Civiles, ambos para el Estado de Guerrero.
-
-Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, la autoridad competente ordenará de inmediato las medidas de cuidado debidas, incluida su destrucción o conservación para fines de docencia o investigación. Si se trata de material pornográfico se ordenará su inmediata destrucción.
-
-Los productos, rendimientos o beneficios obtenidos por los responsables o por otras personas, como resultado de su conducta ilícita, serán decomisados y se dispondrá de ellos conforme a lo establecido en el presente artículo.
-
-Tratándose de bienes inmuebles en el delito cometido por fraccionadores, pasarán a propiedad del organismo encargado del desarrollo urbano en el Estado para la regularización o reserva territorial con el objeto del ordenamiento urbano de los Municipios, autorizándose las anotaciones necesarias en los registros agrarios y de la propiedad que correspondan.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
-
-Respecto del aseguramiento de animales vivos, se canalizarán a lugares adecuados para su debido cuidado, siendo que en el caso de los animales domésticos, las asociaciones u organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, podrán solicitar en cualquier momento al Ministerio Público o Juez correspondiente, su resguardo temporal y tendrán preferencia, después del ofrecimiento que se haga primeramente, a los zoológicos de los tres órdenes de gobierno, en caso de que los hubiere, para obtener la posesión definitiva de los mismos por resolución judicial que así lo determine. Las personas que resulten responsables por el delito de maltrato o crueldad hacia los animales, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
-
-Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el estado de Guerrero, en los términos y condiciones que se establezcan mediante acuerdo que emita la persona titular de la Fiscalía General del Estado o el Pleno del Tribunal Superior de Justicia del Estado.
+Las sesiones especiales, tendrán por objeto recibir comparecencias, visitas de personas distinguidas o delegaciones legislativas de otras entidades federativas o extranjeras y las que expresamente determine la Asamblea. Estas sesiones en ningún caso tendrán carácter deliberante.
 
 ### Capítulo VIII. Suspensión de derechos, destitución e inhabilitación para el desempeño de cargos, comisiones o empleos
 
 ###### Artículo 48.
 
-Suspensión de derechos, destitución e inhabilitación
-
-La suspensión consiste en la pérdida temporal de derechos.
-
-La destitución consiste en la privación definitiva del empleo, cargo o comisión de cualquier naturaleza en el servicio público.
-
-La inhabilitación implica la incapacidad temporal para obtener y ejercer cargos, comisiones o empleos públicos.
+Durante las sesiones jurisdiccionales la Legislatura conocerá de los casos de suspensión y desaparición de ayuntamientos, o suspensión o revocación del mandato de sus miembros; se erigirá en Gran Jurado de Sentencia o en Jurado de Procedencia.
 
 ###### Artículo 49.
 
-Clases de suspensión
-
-La suspensión de derechos, son de dos clases:
-
-I. La que se impone por ministerio de ley como consecuencia necesaria de la pena de prisión, y
-
-II. La que se impone como pena autónoma.
-
-En el primer caso, la suspensión comenzará y concluirá con la pena de la cual sea consecuencia. En el segundo caso, si la suspensión se impone con pena privativa de la libertad, comenzará al cumplirse ésta y su duración será la señalada en la sentencia. Si la suspensión no va acompañada de prisión, empezará a contar desde que cause ejecutoria la sentencia. Su duración será de tres meses a quince años.
-
-A estas mismas reglas se sujetará la inhabilitación.
+Para que la Legislatura pueda sesionar, será necesaria la asistencia de por lo menos la mitad más uno de sus miembros. Si por falta de quórum no pudiera iniciarse la sesión, el presidente ordenará se pase lista a los presentes y se giren comunicaciones a los diputados ausentes, previniéndoles para que acudan a la sesión siguiente.
 
 ###### Artículo 50.
 
-Suspensión de derechos como consecuencia de la pena de prisión
-
-La pena de prisión produce la suspensión de los derechos políticos, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos, y en su caso, los derechos de tutela, curatela, para ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras, árbitro, arbitrador o representante de ausentes. La suspensión comenzará desde que cause ejecutoria la sentencia respectiva y concluirá cuando se extinga la pena de prisión.
+Las sesiones no podrán llevarse a cabo sin la asistencia del presidente o vicepresidente que lo supla.
 
 ###### Artículo 51.
 
-Destitución
-
-La destitución se hará efectiva a partir del día en que cause ejecutoria la sentencia.
+El presidente, los vicepresidentes, los secretarios y prosecretarios, ocuparán los lugares destinados a la directiva.
 
 ### Capítulo IX. Amonestación
 
 ###### Artículo 52.
 
-Amonestación
+El orden del día al que se sujetarán las sesiones será elaborado por el presidente.
 
-La amonestación consiste en la advertencia que el órgano jurisdiccional hace a la persona sentenciada en diligencia formal, explicándole las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndole de las consecuencias en caso de cometer otro delito.
+Antes de su aprobación podrán incorporarse al proyecto de orden del día, aquellos asuntos propuestos al presidente por los coordinadores de las fracciones legislativas o por los diputados.
 
-La amonestación se hará en privado o públicamente a juicio del órgano jurisdiccional y procederá en toda sentencia de condena que cause ejecutoria.
+Las sesiones se llevarán a cabo con sujeción al orden del día que sea aprobado.
 
 ### Capítulo X. Caución de no ofender
 
 ###### Artículo 53.
 
-Caución de no ofender
-
-La caución de no ofender consiste en la garantía que el órgano jurisdiccional puede exigir a la persona sentenciada para que no se repita el daño causado o que quiso causar al ofendido. Si se realiza el nuevo daño, la garantía se hará efectiva en favor del Estado, en la sentencia que se dicte por el nuevo delito.
-
-Si desde que cause ejecutoria la sentencia que impuso la caución transcurre un lapso de tres años sin que el sentenciado haya repetido el daño, el órgano jurisdiccional ordenará de oficio, o a solicitud de parte, la cancelación de la garantía.
-
-Si el sentenciado no puede otorgar la garantía, ésta será substituida por vigilancia de la autoridad durante un lapso que no excederá de tres años.
+Para iniciar y concluir las sesiones, el presidente expresará: "Se abre la sesión siendo las ... horas del día ...", y "se levanta la sesión, siendo las ... horas del día ..."
 
 ### Capítulo XI. Reparación del daño
 
 ###### Artículo 54.
 
-Reparación del daño
+Cuando durante el desarrollo de la sesión, algún diputado objetare la existencia del quórum, podrá solicitar al presidente de la Legislatura su verificación, quien en su caso, ordenará a la secretaría pasar lista para constatar el número de diputados presentes, y de no existir quórum, el presidente declarará un receso o levantará la sesión.
 
-La reparación del daño comprende, según la naturaleza del delito, lo siguiente:
-
-I. El restablecimiento de las cosas al estado en que se encontraban antes de cometer el delito;
-
-II. La restitución de la cosa obtenida por el delito, incluyendo sus frutos y accesorios y, si no es posible, el pago de su valor actualizado. Si se trata de bienes fungibles, la autoridad judicial podrá condenar a la entrega de un objeto igual al que sea materia del delito;
-
-III. La indemnización de los daños materiales, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud psíquica y física de la víctima;
-
-IV. La reparación del daño moral sufrido por la víctima o las personas con derecho a la reparación;
-
-V. El resarcimiento de los perjuicios ocasionados, y
-
-VI. El pago de salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 55.
 
-Reglas generales para la determinación de la reparación del daño
-
-Para la debida reparación del daño se estará a lo dispuesto en las siguientes reglas:
-
-I. La reparación del daño será fijada por el juez según el daño o perjuicio que sea preciso reparar y de acuerdo con los elementos obtenidos durante el proceso;
-
-II. La obligación de reparar el daño es preferente al pago de cualquiera otra sanción pecuniaria u obligación contraída con posterioridad a la comisión del delito, salvo las referentes a alimentos y relaciones laborales, y
-
-III. En todo proceso penal el Ministerio Público estará obligado a solicitar, si procede, la condena a la reparación de daños o perjuicios y probar el monto correspondiente, y el juzgador deberá resolver lo conducente. Su incumplimiento será sancionado con cincuenta a quinientos días multa.
+Todas las sesiones de la Legislatura serán públicas, salvo que tengan el carácter de reservadas.
 
 ###### Artículo 56.
 
-Derecho a la reparación del daño
+A las sesiones públicas podrá concurrir cualquier persona en los lugares señalados al efecto atendiendo a las limitaciones de espacio.
 
-Tienen derecho a la reparación del daño:
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
-I. La víctima y el ofendido, o
+En las sesiones reservadas, permanecerán en el recinto únicamente los diputados, los servidores públicos de apoyo legislativo y las personas que, en su caso, el Presidente de la Legislatura autorice. Los concurrentes están obligados a guardar absoluta reserva sobre lo tratado en la sesión.
 
-II. A falta de la víctima o del ofendido, sus dependientes económicos, herederos o derechohabientes, en la proporción que señale el derecho sucesorio y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 57.
 
-Terceros obligados a reparar el daño
+Las sesiones reservadas se llevarán a cabo en los casos siguientes:
 
-Están obligados a reparar el daño:
+I.- Cuando se trate de asuntos relacionados con acusaciones en contra de servidores públicos que gocen de fuero constitucional;
 
-I. Los padres, tutores, curadores o custodios, por los ilícitos cometidos por los inimputables que estén bajo su autoridad;
+II.- Cuando se traten asuntos de carácter interno de la Legislatura;
 
-II. Los dueños, empresas o encargados de negociaciones o establecimientos mercantiles de cualquier especie, por los delitos que cometan sus obreros, jornaleros, empleados domésticos y artesanos con motivo y en desempeño de sus servicios;
+III.- En los casos previstos en las disposiciones legales;
 
-III. Las sociedades o agrupaciones por los delitos de socios o gerentes o directores en los mismos términos en que, conforme a las leyes, sean responsables por las demás obligaciones que los segundos contraigan. Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus propios bienes, y
+IV.- Cuando así lo acuerde la Asamblea;
 
-IV. El Estado y sus municipios responderán solidariamente por los delitos que cometan sus servidores públicos con motivo del ejercicio de sus funciones, quedando a salvo el derecho de aquél para ejercer las acciones correspondientes en contra del servidor público responsable.
+V.- Por determinación del Presidente de la Legislatura.
+
+> <small>(ADICIONADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
+En ningún caso, lo dispuesto por este artículo podrá contravenir las disposiciones de transparencia y acceso a la información pública establecidas en la legislación correspondiente.
 
 ###### Artículo 58.
 
-Supletoriedad de la Ley Federal del Trabajo
-
-Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
+Cuando por imposibilidad material o fuerza mayor no fuere posible llevar a cabo una sesión, el Presidente de la Legislatura resolverá lo conducente.
 
 ###### Artículo 59.
 
-Plazos para la reparación del daño
-
-De acuerdo con el monto de los daños o perjuicios y de la situación económica del sentenciado, el juez podrá fijar plazos para su pago, que en conjunto no excederán de un año, pudiendo exigir garantía si lo considera conveniente.
+Las sesiones podrán suspenderse, por mayoría de votos de los diputados presentes o por determinación del presidente, siempre que hubiere razones fundadas para ello.
 
 ###### Artículo 60.
 
-Exigibilidad de reparación del daño
-
-Para los efectos de hacer efectiva la reparación del daño se atenderán las reglas generales establecidas para la pena de multa y las disposiciones que en esta materia establece el Código de Procedimientos Penales y la Ley de Ejecución Penal del Estado.
-
-Cuando sean varios los ofendidos y no resulte posible satisfacer los derechos de todos, se cubrirán proporcionalmente los daños y perjuicios. En todo caso, el afectado podrá optar en cualquier momento por el ejercicio de la acción civil correspondiente.
-
-Si la víctima o el ofendido, o sus derechohabientes renuncian o no cobran la reparación del daño, el importe de éste se entregará al Fondo de Atención y Apoyo a las Víctimas del Delito, en los términos de la legislación aplicable.
+La Legislatura no podrá suspender sus sesiones por más de tres días, salvo caso fortuito o fuerza mayor, debiendo reanudarlas en cuanto desaparezca el impedimento.
 
 ###### Artículo 61.
 
-Sanción económica
-
-En los delitos cometidos por servidores públicos, la sanción económica consistirá en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
+La Legislatura en la misma fecha podrá celebrar dos o más sesiones, cuando sea necesario.
 
 ### Capítulo XII. Supervisión de la autoridad
 
 ###### Artículo 62.
 
-Concepto, aplicación y duración
-
-La supervisión de la autoridad consiste en la observación y orientación de la conducta de la persona sentenciada, ejercidas por personal especializado dependiente de la autoridad competente, con la finalidad exclusiva de coadyuvar a la reinserción social de la persona sentenciada.
-
-El juez de ejecución dispondrá esta supervisión en los casos en que sustituya la pena de prisión por otra sanción o conceda la suspensión condicional de la ejecución de la sentencia. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
+De cada sesión la secretaría elaborará el acta correspondiente, que será entregada en copia a las fracciones legislativas en la siguiente, salvo la última del período que se entregará al concluir la sesión.
 
 ### Capítulo XIII. Prohibición de ir a un lugar determinado o residir en él
 
 ###### Artículo 63.
 
-Concepto y duración
+El acta de la sesión deberá contener:
 
-En atención a las circunstancias de comisión del delito, de la víctima, la persona ofendida y la persona sentenciada, el juzgador impondrá las medidas siguientes: prohibir al sentenciado que vaya a un lugar determinado o que resida en él, conciliando la exigencia de seguridad pública y tranquilidad de la víctima u ofendido. Estas medidas no podrán ser mayores al término de la pena impuesta.
+I.- El nombre del diputado que la presidió;
 
-En su calidad de medidas de seguridad, la prohibición de ir a un lugar determinado o residir en él, podrán ser solicitadas por el Ministerio Público durante el procedimiento al juez de control, sin que dicha medida pueda exceder de un año.
+II.- Lugar, fecha y hora de apertura;
 
-En el caso señalado en el párrafo anterior, la medida de seguridad únicamente podrá constreñirse a aquellos lugares en los que la persona inculpada haya cometido el hecho típico y donde residan la víctima, ofendido o sus familiares.
+III.- Registro de asistencia de los diputados;
 
-La persona que se vea afectada por el quebrantamiento de la medida de seguridad decretada por el juez de control, podrá requerir el auxilio y colaboración de la fuerza pública, sin perjuicio de que la persona inculpada pueda ser detenida en flagrancia por los delitos de desobediencia o resistencia de particulares.
+IV.- Orden del día;
+
+V.- Trámite de los asuntos con que se dé cuenta a la Asamblea;
+
+VI.- En su caso, las discusiones;
+
+VII.- Resultado de las votaciones;
+
+VIII.- Acuerdos emitidos;
+
+IX.- Hora de clausura y fecha de próxima sesión;
+
+X.- Firma de los secretarios.
 
 ### Capítulo XIV. Tratamiento de personas inimputables o de personas imputables disminuidas
 
 ###### Artículo 64.
 
-Medidas para personas inimputables
-
-En el caso de que la inimputabilidad sea permanente, conforme lo dispone la parte conducente de la fracción VIII del artículo 31 de este código, el órgano jurisdiccional correspondiente dispondrá la medida de tratamiento aplicable, ya sea en internamiento o en libertad, previo al procedimiento penal respectivo. En el primer caso, el inimputable será internado en la institución correspondiente para su tratamiento durante el tiempo necesario para su curación, sin superar el término previsto en el artículo 35 de este código.
-
-Si la inimputabilidad proviene de trastorno mental transitorio, no se aplicará medida de seguridad alguna, a no ser que el órgano jurisdiccional correspondiente, previa determinación de los peritos en la materia, considere necesaria la imposición de alguna medida, en cuyo caso se aplicará la menos gravosa y sin perjuicio de que se reparen los daños y perjuicios a que haya lugar.
-
-En los casos de personas con desarrollo intelectual retardado o trastorno mental, la medida de seguridad tendrá carácter terapéutico en el lugar más adecuado para su aplicación, el cual en ningún caso podrá ser una institución de reclusión preventiva, de ejecución de sanciones penales o anexos.
+Para cada tipo de sesión se observarán las disposiciones normativas que la rijan, así como las protocolarias que correspondan.
 
 ###### Artículo 65.
 
-Entrega de personas inimputables a quienes legalmente corresponda hacerse cargo de ellas
+Durante las sesiones, los diputados podrán inconformarse con los acuerdos que dicte el presidente en relación con los trámites legislativos, motivando su pretensión tan luego como aquéllos se hayan producido; y escuchando a un orador en pro y otro en contra de la inconformidad si los hubiere, la Asamblea resolverá lo que corresponda.
 
-El juez de ejecución correspondiente podrá entregar a la persona inimputable a sus familiares o a las personas que conforme a la ley tengan la obligación de hacerse cargo de él, siempre que previamente se repare el daño, se obliguen a tomar las medidas adecuadas para el tratamiento y supervisión del inimputable y se garantice el cumplimiento de las obligaciones contraídas.
-
-Esta medida podrá revocarse cuando se deje de cumplir con las obligaciones contraídas.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 2011)</small>
 
 ###### Artículo 66.
 
-Modificación o conclusión de la medida
+Antes de la clausura de los períodos ordinarios, la secretaría dará cuenta de los asuntos que hubiera en cartera, y serán resueltos los dictámenes de las iniciativas que con carácter de preferente hubiere presentado el Gobernador del Estado o, en su caso, las propias iniciativas, y los demás asuntos que hayan sido dictaminados y aquellos que sean declarados de obvia o urgente resolución. El resto de los asuntos en cartera serán remitidos a la Diputación Permanente para que continúe su trámite.
 
-El juez de ejecución correspondiente podrá resolver sobre la modificación o conclusión de la medida, considerando las necesidades del tratamiento, mismas que se acreditarán mediante revisiones periódicas y con la frecuencia y características del caso.
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Las comisiones legislativas y los comités continuarán sus trabajos de estudio respecto de las iniciativas o asuntos que les hayan sido turnados y que se encuentren pendientes de resolución.
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Darán cuenta de los dictámenes al Presidente de la Legislatura o de la Diputación Permanente de conformidad con los términos establecidos en la ley.
 
 ###### Artículo 67.
 
-Tratamiento para personas con imputabilidad disminuida
+Las determinaciones de la Diputación Permanente se tomarán por mayoría de votos, teniendo el presidente o quien lo supla, en caso de empate, voto de calidad.
 
-Si la capacidad del autor sólo se encuentra notablemente disminuida, por desarrollo intelectual retardado o por trastorno mental, a juicio del juzgador se le impondrá de una cuarta parte de la mínima hasta la mitad de la máxima de las penas aplicables para el delito cometido o las medidas de seguridad correspondientes, o bien ambas, tomando en cuenta el grado de inimputabilidad basado en los dictámenes de cuando menos dos peritos en la materia.
+Si la sesión no pudiera efectuarse por falta de quórum, se girará nuevo citatorio a los propietarios y suplentes, para que tenga lugar en la nueva fecha y hora indicados.
 
 ###### Artículo 68.
 
-Duración del tratamiento
-
-La duración del tratamiento para una persona inimputable no podrá exceder de la mitad del máximo de la pena que se aplicaría por ese mismo delito a una persona imputable. Concluido el tiempo del tratamiento la persona inimputable quedará en absoluta libertad.
+El diputado que presente una iniciativa se denominará diputado presentante.
 
 ### Capítulo XV. Tratamiento de deshabituación o desintoxicación
 
 ###### Artículo 69.
 
-Aplicación y alcances
+Las iniciativas que no provengan de los diputados, serán leídas por uno de los secretarios, sin perjuicio de que puedan darle lectura los dos, o inciuso (sic) los prosecretarios, siempre que sea recomendable por la extensión de aquéllas.
 
-Cuando la persona haya sido sentenciada por un delito cuya comisión obedezca a la inclinación o abuso de bebidas alcohólicas, estupefacientes, psicotrópicos o sustancias que produzcan efectos similares, independientemente de la pena que corresponda por el delito cometido, se le podrá aplicar tratamiento de deshabituación o desintoxicación, el cual no podrá exceder del término de la pena impuesta por el delito y para lo cual deberá contarse, sin excepción, con el consentimiento de la persona sentenciada.
-
-Cuando se trate de penas no privativas o restrictivas de libertad, el tratamiento no excederá de seis meses.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ### Capítulo XVI. Suspensión, disolución, prohibición de realizar determinadas operaciones, remoción e intervención de personas jurídicas
 
 ###### Artículo 70.
 
-Modelos y alcances en su aplicación
-
-Las consecuencias jurídicas accesorias para las personas jurídicas se aplicarán conforme a las siguientes reglas:
-
-I. Suspensión. Consiste en cesar la operación de la persona jurídica durante un máximo de cinco años según lo determine el juzgador;
-
-II. Disolución. Consiste en la conclusión definitiva de toda actividad de la persona jurídica, la cual no podrá volverse a constituir por las mismas personas en forma real o encubierta. La conclusión de toda actividad social se hará sin perjuicio de la realización de los actos necesarios para la disolución y liquidación total. El juzgador designará en el mismo acto un liquidador que procederá a cumplir todas las obligaciones contraídas hasta entonces por la persona jurídica incluyendo las responsabilidades derivadas del delito cometido, observando las disposiciones legales sobre prelación de créditos, conforme a la naturaleza de éstos y de la entidad objeto de la liquidación;
-
-III. Prohibición de realizar determinadas operaciones. Su duración podrá ser hasta por diez años y se referirá, exclusivamente, a las operaciones expresamente determinadas por el juez, mismas que deberán tener relación directa con el delito cometido. Los administradores y el comisario de la sociedad serán responsables ante el juez del cumplimiento de esta prohibición e incurrirán en las penas que establece este código por desobediencia a un mandato de la autoridad;
-
-IV. Remoción. Consiste en la sustitución de los administradores por uno designado por el juzgador durante un periodo máximo de cinco años. Para realizar la designación, el juzgador podrá atender la propuesta que formulen los socios o asociados que no hayan tenido participación en el delito, y
-
-V. Intervención. Consiste en la supervisión de las funciones que realizan los órganos de representación de la persona jurídica y se ejercerá con las atribuciones que la ley confiere al interventor hasta por el término de cinco años.
+Las iniciativas de ley o decreto que sean presentadas a la Legislatura, pasarán desde luego a la comisión o a las comisiones legislativas correspondientes.
 
 ###### Artículo 71.
 
-Salvaguarda de derechos
+Cuando las iniciativas no cumplan con los requisitos establecidos en la Constitución o los señalados en la ley, serán devueltas por el presidente a su autor, previniéndole para que complemente dichos requisitos y no podrán volver a presentarse antes de los treinta días posteriores al acuerdo respectivo. En caso de persistir las deficiencias sólo podrán presentarse hasta el siguiente período.
 
-Al imponer las consecuencias jurídicas accesorias previstas en este capítulo, el juzgador tomará las medidas pertinentes para dejar a salvo los derechos de los trabajadores y terceros frente a la persona jurídica colectiva, así como aquellos otros derechos que sean exigibles frente a otras personas, derivados de actos celebrados con la persona jurídica sancionada.
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
 
-Estos derechos quedan a salvo aun cuando el juzgador no tome las medidas a que se refiere el párrafo anterior.
+Las iniciativas que el Gobernador del Estado presentare con carácter de preferente fuera del plazo a que se refiere el artículo 81 fracción V, inciso a), de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, se considerarán como presentadas sin tal carácter.
+
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+Si las iniciativas carecen del apartado previsto por el inciso c) de la fracción citada, el Presidente solicitará de inmediata (sic) a su autor que subsane la omisión dentro del plazo de 48 horas y ordenará que las iniciativas se turnen a comisiones una vez recibida la información. Si la omisión no es subsanada dentro del plazo citado, podrá presentarlas nuevamente dentro del mismo período de sesiones con el carácter de preferente, si aún se encontrare dentro del plazo a que se refiere el artículo 81 fracción V, inciso a), de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México. Si dicho plazo hubiere transcurrido sin que la omisión hubiere sido subsanada, las iniciativas se tendrán por presentadas sin el carácter de preferente.
 
 ## Título Quinto. Aplicación de penas y medidas de seguridad
 
@@ -883,283 +1053,177 @@ Estos derechos quedan a salvo aun cuando el juzgador no tome las medidas a que s
 
 ###### Artículo 72.
 
-Regla general
+Las proposiciones que no tengan el carácter de iniciativas de ley o decreto, presentadas por uno o más miembros de la Legislatura, sin formar mayoría quienes la suscriben, se sujetarán a los trámites siguientes:
 
-Dentro de los límites fijados por la ley, los jueces y tribunales impondrán las consecuencias jurídicas establecidas para cada delito, con perspectiva de género, considerando las circunstancias exteriores de la ejecución y de la persona que cometió el delito, conforme a lo establecido en el artículo 74 de este código:
+I.- Deberán presentarse por escrito y firmadas por el diputado o diputados que las proponen y serán leídas durante la sesión en que sean presentadas, pudiendo el autor, o uno de ellos, hacer uso de la palabra a fin de exponer los motivos y fundamentos de la propuesta;
 
-Cuando se trate de pena alternativa, en la que se contemple pena de prisión, el juez deberá imponer la pena menos gravosa para el sentenciado. Únicamente se impondrá la pena privativa de la libertad cuando de forma debidamente motivada el juez considere que ésta es indispensable para los fines de prevención especial y la reinserción social de la persona sentenciada.
+II.- Harán uso de la palabra un diputado en contra de la proposición y otro en pro, por una sola vez;
+
+III.- Agotadas las intervenciones se preguntará a la Asamblea si se admite o no a trámite la proposición, en caso afirmativo se turnará a las comisiones que corresponda y en caso contrario se tendrá por desechada.
+
+Si los firmantes constituyeren mayoría, el presidente acordará el trámite que corresponda.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 73.
 
-Determinación de la disminución o aumento de la pena
-
-En los casos en que este código contemple penas en proporción a las previstas para el delito doloso consumado, la punibilidad aplicable será para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista por aquél.
-
-Cuando se prevea la disminución o el aumento de una pena con referencia a otra, se fijará con relación a los términos mínimo y máximo de la punibilidad que sirva de referencia. En estos casos, el juzgador individualizará la pena tomando como base el nuevo marco de referencia que resulte del aumento o disminución.
-
-En ningún caso se podrán rebasar los extremos previstos en este código.
-
-Lo previsto en el párrafo anterior no es aplicable para la reparación del daño ni la sanción económica.
+Los asuntos serán turnados a la comisión que le corresponda en razón del tema a tratar, pudiendo ser turnados a dos y en su caso recabarse la opinión de una tercera comisión cuando el asunto de que se trate sea también de su competencia.
 
 ###### Artículo 74.
 
-Criterios para la individualización de las penas o medidas de seguridad
+La dispensa de trámites a que se refiere la Constitución y la ley, será solicitada por conducto del presidente o de cualquier miembro de la Legislatura y procederá sólo respecto a los trámites que fueren acordados por ésta.
 
-La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites establecidos, con base en la gravedad del injusto penal y el grado de culpabilidad del agente, tomando en consideración:
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-I. Las características de la acción u omisión y los medios empleados para realizarla;
+###### Artículo 74 Bis.
 
-II. La magnitud del daño causado al bien jurídico tutelado o del peligro al que fue expuesto;
+Las iniciativas de Ley, Decreto o de Acuerdo que hayan sido presentadas en una Legislatura, quedarán a disposición de la siguiente sólo en los siguientes casos:
 
-III. Las circunstancias de tiempo, modo, lugar u ocasión del hecho realizado;
+I. Cuando un dictamen haya sido aprobado por la comisión o comisiones correspondientes, sin que hubiera sido sometido al Pleno de la Legislatura o Diputación Permanente.
 
-IV. La forma y grado de intervención del agente en la comisión del delito; los vínculos de parentesco, amistad o relación entre los sujetos activo y pasivo, así como su calidad y la de la víctima u ofendido;
+II. Cuando por mandato constitucional o legal deba expedirse la ley o decreto en un plazo determinado;
 
-V. La edad, el género, el nivel educativo, las costumbres, condiciones sociales y culturales del agente, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando la persona procesada pertenezca a un grupo étnico o pueblo indígena, se tomarán en cuenta, además, sus usos y costumbres;
-
-VI. Las condiciones fisiológicas y psíquicas específicas en que se encontraba el sujeto activo en el momento de la comisión del delito;
-
-VII. Las circunstancias de los sujetos activo y pasivo, antes y durante la comisión del delito, que resulten relevantes para individualizar la consecuencia jurídica, así como el comportamiento posterior de la persona sentenciada con relación al delito cometido, y
-
-VIII. Las demás circunstancias especiales del sujeto activo que sean relevantes para determinar la posibilidad que tuvo de haber ajustado su conducta a las exigencias de la norma.
-
-Para la adecuada aplicación de las penas y medidas de seguridad, la autoridad judicial deberá tomar conocimiento directo del sujeto activo, de la víctima y de las circunstancias del hecho y, en su caso, podrá tomar en consideración los dictámenes periciales y otros medios de prueba para los fines señalados en el presente artículo.
-
-Si existen antecedentes de violencia de género entre la persona acusada y la víctima, la autoridad judicial deberá considerar la condición y posición de género para individualizar las sanciones aplicables.
-
-La autoridad judicial considerará, además, la condición de mujeres con hijos menores de veintitrés años que acrediten que están realizando estudios en instituciones legalmente autorizadas y que demuestren que se dedican a una actividad lícita; madres solteras, indígenas monolingües; trabajadoras o jornaleros, asalariados o no, que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona.
+III. Por acuerdo de la Junta de Coordinación Política.
 
 ###### Artículo 75.
 
-Ausencia de conocimientos especiales
-
-No es atribuible a la persona acusada el aumento en la gravedad del delito generado por circunstancias particulares de la persona ofendida si las ignoraba al cometer el delito.
+Cuando un asunto sea turnado a varias comisiones, éstas trabajarán unidas y emitirán un solo dictamen por mayoría de votos de los integrantes de cada una de las comisiones. Los dictámenes serán aprobatorios o desaprobatorios.
 
 ###### Artículo 76.
 
-Comunicabilidad de las circunstancias
-
-El aumento o disminución de la pena, fundados en las relaciones personales o en las circunstancias subjetivas del autor de un delito, no son aplicables a los demás sujetos que intervinieron en aquél. Son aplicables las que se fundamenten en circunstancias objetivas, siempre que los demás sujetos tengan conocimiento de ellas.
+Antes de la discusión de un dictamen, uno de los secretarios de la directiva expondrá en forma sucinta los antecedentes del asunto a que se refiera.
 
 ###### Artículo 77.
 
-Pena innecesaria
+Cuando las comisiones consideren que no existen los elementos suficientes para dictaminar sobre un asunto, o que no es oportuna la emisión del dictamen, podrán acordar se remita a reserva o sea devuelta la iniciativa, informando de ello a la Asamblea para la discusión en su caso.
 
-La autoridad judicial, de oficio o a petición de parte, podrá prescindir de la imposición de la pena privativa o restrictiva de la libertad o sustituirla por una menos grave o por una medida de seguridad, cuando la imposición de alguna de aquéllas resulte innecesaria e irracional, porque el sujeto activo:
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
 
-I. Con motivo del delito haya sufrido consecuencias graves en su persona;
-
-II. Presente senilidad avanzada, o
-
-III. Padezca enfermedad grave e incurable, avanzada o precario estado de salud. En estos casos, el juez tomará en cuenta el resultado de los dictámenes médicos y asentará con precisión, en la sentencia, las razones de su determinación.
-
-Se exceptúa la reparación del daño y la sanción económica.
+Tratándose de las iniciativas que el Gobernador del Estado hubiere presentado con carácter de preferente, las comisiones podrán solicitar, por conducto del Presidente de la Legislatura, la información adicional que requieran. Si, a juicio de las comisiones, aun con la información adicional no existen los elementos suficientes para emitir su dictamen, las iniciativas serán turnadas al Presidente de la Legislatura para su discusión en el Pleno.
 
 ### Capítulo II. Punibilidad de los delitos culposos
 
 ###### Artículo 78.
 
-Punibilidad del delito culposo
+Los dictámenes se presentarán por escrito y contendrán una exposición clara y precisa del asunto a que se refieran; las consideraciones sobre si se reúnen los requisitos de forma y fondo; en su caso, las propuestas de modificaciones a la iniciativa; los puntos resolutivos, que serán las proposiciones concretas que comprendan la opinión de las comisiones sobre el asunto respectivo; y, el texto del proyecto de ley o decreto.
 
-En los casos de delitos culposos se impondrá al sujeto activo del delito hasta la mitad del máximo de las sanciones aplicables al delito doloso correspondiente, con excepción de aquellos para los cuales la ley señale una pena específica. Además se podrá imponer, en su caso, la suspensión de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
+> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2010)</small>
 
-Esta suspensión de derechos no podrá exceder del tiempo fijado en la pena de prisión, salvo que este código disponga otra cosa.
-
-Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
-
-Cuando el delito se cometa en la conducción de vehículo de motor en virtud de la prestación del servicio de transporte público de pasajeros, de personal, de escolares o de turismo y se cause homicidio, las sanciones podrán ser hasta las tres cuartas partes del máximo de las correspondientes a las del delito doloso. Se tomará en consideración lo establecido por el artículo 149 de este código.
+Si a juicio de la Legislatura resulta necesario, se deberá incorporar también un glosario de términos, a fin de dar mayor claridad y objetividad al proyecto de decreto de que se trate.
 
 ###### Artículo 79.
 
-Incriminación cerrada para la punibilidad de los delitos culposos o sistema de números clausus
-
-Sólo se sancionarán como delitos culposos los siguientes: homicidio, contemplado en el artículo 130; lesiones, contemplado en artículo 139; aborto, a que se refiere la primera parte del artículo 156; lesiones por contagio, contemplado en el artículo 170; daños, a que se refiere el artículo 247; ejercicio indebido del servicio público, a que se refieren las fracciones III y IV del artículo 269 en las siguientes hipótesis: destruir, alterar o inutilizar información o documentación bajo su custodia o a la cual tenga acceso; propicie daños, pérdida o sustracción de objetos; evasión de presos, a que se refieren los artículos 310, 311, 312 fracción II y 313 segundo párrafo; suministro de medicinas nocivas o inapropiadas, contemplados en los artículos 333 y 334; ataques a las vías y a los medios de comunicación, contemplados en los artículos 335, 336 y 337; delitos contra el ambiente, contemplados en los artículos 351, 353 y 354, y los demás casos contemplados específicamente en el presente código y otras disposiciones legales.
+Los dictámenes presentados por las comisiones serán firmados por quienes los hubieren aprobado; los diputados que estuvieren en contra, podrán expresar su voto particular y solicitar que se anexe al expediente respectivo.
 
 ###### Artículo 80.
 
-Clasificación de la gravedad de la culpa e individualización de la sanción para el delito culposo
-
-La calificación de la gravedad de la culpa queda al arbitrio del juez, quien deberá considerar las circunstancias generales señaladas en el artículo 74 de este código y las especiales siguientes:
-
-I. La mayor o menor posibilidad de prever y evitar el daño causado;
-
-II. El deber de cuidado de la persona sentenciada que le es exigible por las circunstancias y condiciones personales que la actividad o el oficio que desempeñe le impongan;
-
-III. El tiempo del que dispuso para desplegar la acción cuidadosa necesaria de cara a no producir o evitar el daño causado, y
-
-IV. El estado del equipo, vías y demás condiciones de funcionamiento mecánico, tratándose de infracciones cometidas en los servicios de transporte y, en general, por conductores de vehículos.
+Concluido un dictamen, el presidente de la comisión lo remitirá al Presidente de la Legislatura, quien dispondrá su presentación a la Asamblea.
 
 ### Capítulo III. Punibilidad de la tentativa
 
 ###### Artículo 81.
 
-Punibilidad de la tentativa
+El diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura y en su caso también a las modificaciones que hubiese tenido el proyecto de ley o decreto; concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
 
-A quien resulte responsable de la comisión de un delito cometido en grado de tentativa se le aplicarán hasta las dos terceras partes de la pena correspondiente al delito doloso consumado que el sujeto activo quiso realizar.
-
-En la aplicación de las consecuencias jurídicas señaladas en este artículo, la autoridad judicial tomará en consideración, además de lo previsto en el artículo 74 de este código, el mayor o menor grado de aproximación a la consumación del delito y la magnitud del peligro al que fue expuesto el bien jurídico.
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
 
 ### Capítulo IV. Punibilidad en los casos de concurso de delitos y delito continuado
 
 ###### Artículo 82.
 
-Aplicación de consecuencias jurídicas para los casos de concurso de delitos
-
-La aplicación de consecuencias jurídicas para los casos de concurso de delitos y delito continuado son:
-
-I. Punibilidad del concurso ideal. En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos. En ningún caso, las sanciones aplicables podrán exceder de los máximos señalados en este código, y
-
-II. Punibilidad del concurso real. En caso de concurso real se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda de los máximos señalados en este código.
+Cuando algún dictamen sea desaprobatorio, se hará del conocimiento del Presidente de la Legislatura, del diputado presentante y, en su caso, del Gobernador del Estado tratándose de las iniciativas que hubiere presentado con carácter de preferentes, quienes, conociendo el sentido del dictamen, podrán retirarlo o solicitar al primero que sea sometido a la consideración de la Asamblea.
 
 ###### Artículo 83.
 
-Punibilidad del delito continuado
+Cuando un dictamen desaprobatorio sea sometido a la consideración de la Asamblea, ésta determinará si se desecha la iniciativa o se devuelve el dictamen a comisiones para que amplíen su estudio. Si nuevamente resultara desaprobatorio el dictamen, se someterá a discusión, resolviendo la Asamblea en definitiva.
 
-En caso de delito continuado, se aumentará la sanción hasta una mitad de la correspondiente al máximo del delito cometido.
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
+
+Tratándose del dictamen de las iniciativas que el Gobernador del Estado, hubiere enviado con carácter de preferente, podrá devolverse a comisiones si aún no se ha realizado la penúltima sesión del Pleno. En caso contrario, el Pleno podrá discutirlo y resolver en definitiva.
 
 ### Capítulo V. Punibilidad para la complicidad, auxilio en cumplimiento de promesa anterior y autoría indeterminada
 
 ###### Artículo 84.
 
-Punibilidad de la complicidad y del encubrimiento
-
-Para los casos señalados en las fracciones V y VI del artículo 26 de este código, se impondrán hasta las tres cuartas partes de la pena o medida de seguridad señalada para el delito cometido.
+Cuando las comisiones emitan dictamen desaprobatorio por improcedencia de una iniciativa, sin más trámite, pasará de inmediato a la consideración de la Asamblea para que se resuelva lo conducente.
 
 ###### Artículo 85.
 
-Punibilidad de la autoría indeterminada
-
-Para el caso previsto en el artículo 28 de este código, se impondrán hasta las tres cuartas partes de la pena o medida de seguridad señaladas para el delito cometido.
+Presentado un dictamen a la Asamblea, ésta votará su turno a discusión.
 
 ### Capítulo VI. Punibilidad para los casos de error vencible y exceso en las causas de justificación
 
 ###### Artículo 86.
 
-Error de tipo vencible y error de prohibición vencible
+Las iniciativas rechazadas por la Asamblea para su discusión o en las que sea ratificado el dictamen desaprobatorio, no podrán volver a presentarse, sino hasta el siguiente período ordinario; si en éste también fueren rechazadas, no podrán presentarse nuevamente durante el ejercicio de la Legislatura.
 
-En caso de que el error a que se refiere el inciso a) fracción VIII del artículo 31 de este código sea de carácter vencible, se impondrá la pena o medida de seguridad señalada para el delito culposo, siempre que el tipo penal acepte dicha forma de realización.
+> <small>(ADICIONADO, G.G. 3 DE MARZO DE 2011)</small>
 
-Si el error vencible es el previsto en el inciso b) de la misma fracción, se impondrá hasta una tercera parte de la pena o medida de seguridad señalada para el delito correspondiente.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+La Asamblea no podrá rechazar la discusión de las iniciativas presentadas con carácter de preferente, pero no dictaminadas en tiempo. Si después de discutidas, dichas iniciativas no fueren aprobadas por la Asamblea, no podrán volver a presentarse sino hasta el siguiente período ordinario.
 
 ###### Artículo 87.
 
-Exceso en las causas de justificación
+Las discusiones en la Asamblea, respecto de iniciativas de ley o decreto, proposiciones, dictámenes o de cualquier otro asunto, se sujetarán a lo dispuesto por la ley y el reglamento y al orden del día aprobado.
 
-A quien incurra en exceso en los casos previstos en las fracciones V y VI del artículo 31 de este código, se le impondrá la cuarta parte de la pena o medida de seguridad correspondiente al delito de que se trate, siempre que con relación al exceso no se actualice otra causa de exclusión del delito.
-
-No se considerará exceso en la defensa legítima propia, cuando concurran circunstancias en las que la persona que se defiende se encuentre en estado de confusión, miedo o terror, que afecte su capacidad para determinar el límite adecuado de su respuesta o racionalidad de los medios empleados para defenderse.
+> <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
 
 ### Capítulo VII. Sustitución de penas
 
 ###### Artículo 88.
 
-Sustitución de la prisión
+Previo a la discusión, el presidente tomará las providencias necesarias para que copia de los dictámenes sean entregadas a los diputados. Lo mismo aplicará en el caso de las iniciativas que, con carácter de preferente, hubieren sido presentadas por el Gobernador del Estado, pero no dictaminadas en tiempo.
 
-La autoridad judicial, considerando lo dispuesto en el artículo 74 de este código, podrá sustituir la pena de prisión en los términos siguientes:
+> <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
 
-I. Por multa, trabajo a favor de la víctima o de la comunidad o tratamiento en libertad cuando no exceda de cuatro años, y
+Una copia de los dictámenes recaídos a las iniciativas que presenten el Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa o que estén relacionados con su ámbito competencial, en su caso, será entregada a éstos o a los representantes que hubieren designado para participar en la discusión.
 
-II. Por tratamiento en semilibertad cuando no exceda de cinco años.
-
-La equivalencia de la multa sustitutiva de la pena de prisión será en razón de un día multa por un día de prisión y de acuerdo con las posibilidades económicas de la persona sentenciada.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ###### Artículo 89.
 
-Sustitución de la multa
-
-La multa podrá ser sustituida por trabajo a favor de la víctima o de la comunidad.
-
-Tratándose de mujeres con hijos menores de edad, madres solteras, mujeres mayores de sesenta y cinco años de edad; personas con alguna discapacidad; jóvenes menores de veintitrés años que acrediten que están realizando estudios en instituciones legalmente autorizadas y que demuestren que se dedican a una actividad lícita; indígenas monolingües; trabajadores o jornaleros, asalariados o no, que tengan dependientes económicos y cuya remuneración no sea superior al salario mínimo general de la zona, y que compruebe tener un modo honesto de vivir, cada jornada de trabajo saldará dos días de multa.
+Puesto a discusión un asunto o dictamen, el presidente, con auxilio de los secretarios, procederá a elaborar la lista de oradores en contra y en pro, concediéndoles el uso de la palabra en forma alterna, iniciando el primer orador inscrito en contra. Cuando se hubiese acordado un formato determinado para la participación del Gobernador del Estado o de las autoridades a quienes la Constitución otorga el derecho de iniciativa, el presidente se sujetará a tal formato en lo tocante a la discusión de los dictámenes en los que dichas autoridades estén facultadas para intervenir.
 
 ###### Artículo 90.
 
-Reglas para la sustitución de penas
-
-La sustitución de penas se llevará a cabo conforme a las siguientes reglas:
-
-I. La sustitución de la pena privativa de libertad procederá cuando se haya cubierto la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello de acuerdo a la situación económica de la persona sentenciada, sin que dicho plazo pueda ser superior a seis meses, o
-
-II. La sustitución de la pena de prisión no podrá aplicarse cuando se trate de una persona a la que anteriormente se le haya condenado en sentencia ejecutoriada por delito doloso perseguible de oficio; o cuando el delito se haya cometido en agravio de una persona menor de dieciocho años de edad o de quien no tenga capacidad para comprender el significado del hecho.
+Tratándose del dictamen de una iniciativa de ley o decreto, el presidente lo someterá a discusión, primero en lo general, y sólo aprobado en este sentido, lo hará en lo particular respecto a los artículos o fracciones que para el efecto hayan sido separados. Cuando conste de un sólo artículo será discutido una sola vez.
 
 ###### Artículo 91.
 
-Revocación de la sustitución de la pena
-
-La autoridad judicial podrá dejar sin efecto la sustitución y ordenar que se ejecute la pena de prisión impuesta en los siguientes casos:
-
-I. Cuando la persona sentenciada no cumpla con las condiciones que le fueran señaladas para tal efecto, salvo que el juzgador estime conveniente apercibirlo de que si incurre en una nueva falta, se hará efectiva la sanción sustituida. En estos casos se fijará garantía para asegurar el cumplimiento de sus obligaciones con motivo del sustitutivo concedido, o
-
-II. Cuando a la persona sentenciada se le condene en otro proceso por la comisión de un delito doloso.
-
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual la persona sentenciada haya cumplido la pena sustitutiva.
+Si un proyecto constare de más de cien artículos, aprobado en lo general se podrá discutir parcialmente por libros, títulos, capítulos, secciones, artículos o fracciones, pero se votará separadamente cada uno de los artículos o fracciones impugnadas.
 
 ###### Artículo 92.
 
-Obligación del fiador en la sustitución
+Cuando un proyecto de ley o decreto fuere aprobado en lo general y no hubiese discusión en lo particular, se tendrá por aprobado, sin necesidad de someterlo a nueva votación, previa declaratoria del presidente.
 
-En caso de haberse designado un fiador para el cumplimiento de los deberes inherentes a la sustitución de las penas, la obligación de éste concluirá al extinguirse la pena impuesta.
-
-Cuando el fiador tenga motivos para no continuar en su desempeño, los expondrá al juez a fin de que éste prevenga a la persona sentenciada para que presente nuevo fiador dentro del plazo fijado por el juez, apercibido de que de no hacerlo se le hará efectiva la pena.
-
-En caso de muerte o insolvencia del fiador, el sentenciado deberá poner el hecho en conocimiento del juez para los efectos señalados en el párrafo anterior.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ### Capítulo VIII. Suspensión condicional de la ejecución de la pena
 
 ###### Artículo 93.
 
-Requisitos para la procedencia de la suspensión
-
-La autoridad judicial, al dictar sentencia condenatoria, suspenderá motivadamente la ejecución de las penas, de oficio o a petición de parte, siempre que concurran los siguientes requisitos:
-
-I. Que la duración de la pena impuesta no exceda de cinco años de prisión;
-
-II. Que en atención al delito cometido no haya necesidad de sustituir las penas en función del fin para el que fueron impuestas;
-
-III. Que la persona sentenciada cuente con antecedentes personales positivos y modo honesto de vivir, y
-
-IV. Que no se trate de un delito cometido en contra de una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho.
+Para la discusión en lo particular de un dictamen, los diputados que pretendan intervenir, indicarán los artículos o fracciones del proyecto que desean impugnar y estrictamente sobre ellos versará el debate. El Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, podrán solicitar que se discuta un artículo o fracción en particular. Si la Asamblea lo aprueba, se procederá a la discusión.
 
 ###### Artículo 94.
 
-Requisitos para obtener la suspensión condicional de la ejecución de la pena
+La discusión en lo particular de determinados artículos o fracciones, se desarrollará en el orden en que estén enumerados.
 
-Para obtener el beneficio a que se refiera el artículo anterior, la persona sentenciada deberá:
-
-I. Otorgar la garantía o sujetarse a las medidas que se fijen para asegurar su comparecencia ante la autoridad cada vez que sea requerida por ésta;
-
-II. Obligarse a residir en un lugar previamente determinado del cual no podrá ausentarse sin permiso de la autoridad que ejerza el cuidado o supervisión;
-
-III. Desempeñar una ocupación lícita;
-
-IV. Abstenerse de causar molestias al ofendido o a sus familiares, y
-
-V. Acreditar que se ha cubierto la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica de la persona sentenciada.
+Si algún artículo o fracción fuere objeto de varias impugnaciones, se pondrá a discusión separadamente una después de otra.
 
 ###### Artículo 95.
 
-Efectos y duración de la suspensión
-
-La suspensión comprenderá la pena de prisión y la multa. En cuanto a las demás sanciones impuestas, la autoridad judicial resolverá según las circunstancias del caso, teniendo la suspensión una duración igual a la de la pena suspendida.
-
-Una vez transcurrida ésta, se considerará extinguida la pena impuesta, siempre que durante ese término la persona sentenciada no dé lugar a un nuevo proceso que concluya con sentencia condenatoria, en cuyo caso el juzgador, considerando la gravedad del delito, resolverá si debe aplicarse o no la pena suspendida.
-
-Los hechos que originan el nuevo proceso interrumpen el plazo de la suspensión, tanto si se trata de delito doloso como culposo, hasta que se dicte sentencia ejecutoria. Si la persona sentenciada falta al cumplimiento de las obligaciones contraídas, la autoridad judicial podrá hacer efectiva la pena suspendida o apercibirla de que si vuelve a infringir alguna de las condiciones fijadas se hará efectiva la misma.
+Cuando durante la discusión se proponga alguna modificación al proyecto de ley o decreto, deberá hacerse por escrito y se someterá a votación para determinar si se admite o no; en caso afirmativo, pasará a formar parte del proyecto, de lo contrario, se tendrá por desechada.
 
 ### Capítulo IX. Reglas generales para la sustitución y suspensión de las consecuencias jurídicas del delito
 
 ###### Artículo 96.
 
-Promoción de la suspensión
-
-La persona sentenciada que considere que al dictarse la sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover el incidente respectivo ante la autoridad judicial.
+Si se tratare de la discusión de una proposición escrita de algún diputado, que no se refiera a iniciativa de ley, decreto o acuerdo, se regirá en lo aplicable por las disposiciones de este capítulo.
 
 ###### Artículo 97.
 
-Jurisdicción y supervisión
+Ningún orador podrá hacer uso de la palabra si no le ha sido concedido. El presidente cuidará que no se establezca diálogo entre el orador en turno y los demás legisladores.
 
-La autoridad judicial conservará jurisdicción para conocer las cuestiones relativas al cumplimiento, revocación y modificación de la sustitución o suspensión de sanciones y supervisará su cumplimiento.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ## Título Sexto. Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad
 
@@ -1167,301 +1231,263 @@ La autoridad judicial conservará jurisdicción para conocer las cuestiones rela
 
 ###### Artículo 98.
 
-Causas de extinción
+El orador que hubiese solicitado el uso de la palabra y no esté presente al momento de su intervención, perderá su turno.
 
-La pretensión punitiva, y la potestad para ejecutar las penas y medidas de seguridad, se extinguen por las siguientes causas:
-
-I. Cumplimiento de la pena o medida de seguridad;
-
-II. Muerte de la persona inculpada o sentenciada;
-
-III. Reconocimiento de la inocencia de la persona sentenciada o anulación de la sentencia;
-
-IV. Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente;
-
-V. Rehabilitación;
-
-VI. Conclusión del tratamiento de personas inimputables;
-
-VII. Indulto;
-
-VIII. Amnistía;
-
-IX. Prescripción;
-
-X. Supresión del tipo penal;
-
-XI. Existencia de una sentencia anterior dictada en proceso instaurado por los mismos hechos, o
-
-XII. Cumplimiento de criterio de oportunidad, acuerdo reparatorio, o de las condiciones decretadas en la suspensión condicional del proceso.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ###### Artículo 99.
 
-Procedencia de la extinción
-
-La extinción punitiva se resolverá de oficio o a solicitud de parte.
+Concedido el uso de la palabra por el presidente, los diputados podrán hacer uso de la misma desde su curul o en la tribuna. Cuando sea concedido al Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, éstas harán uso de la voz desde la tribuna; tratándose de representantes con niveles de mando superior que hubiesen designado para tal fin, éstas harán uso de la misma desde el lugar que les hubiese sido asignado en el salón de sesiones. La tribuna sólo podrá ser utilizada con carácter exclusivo por la persona a quien haya sido concedido el uso de la palabra.
 
 ###### Artículo 100.
 
-Alcances de la extinción
+En uso de la palabra el orador en turno, dispondrá hasta de quince minutos para exponer su posición respecto al dictamen en discusión y sólo a éste se referirá en su discurso; agotado el tiempo, podrá solicitar una prórroga, hasta por diez minutos. En caso de contravenir las disposiciones de la ley o el reglamento será llamado al orden por el presidente.
 
-La extinción que se produzca en los términos del artículo 98 no abarca el decomiso de instrumentos, objetos y productos del delito ni afecta a la reparación de daños y perjuicios, salvo disposición legal expresa o cuando la potestad para ejecutar dicha sanción pecuniaria se extinga por alguna causa.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MARZO DE 2011)</small>
 
 ### Capítulo II. Cumplimiento de la pena o medida de seguridad
 
 ###### Artículo 101.
 
-Efectos del cumplimiento
+Concedido el uso de la palabra a un orador, sólo podrá ser interrumpido por el presidente cuando:
 
-La potestad para ejecutar la pena o medida de seguridad impuesta, se extingue por cumplimiento de las mismas o de las penas por las que se hayan sustituido o conmutado. Asimismo, la sanción suspendida se extinguirá por el cumplimiento de los requisitos establecidos para el otorgamiento de la suspensión, en los términos y dentro de los plazos legalmente aplicables.
+I.- Se trate de una moción de orden a proposición de alguno de los diputados, para ajustar la sesión a las disposiciones de la ley o el reglamento;
+
+II.- Se viertan injurias contra alguna persona o institución;
+
+III.- Se aparte del asunto a discusión;
+
+IV.- Se exceda del tiempo que le hubiese sido concedido;
+
+V.- Le sea solicitada una explicación pertinente.
+
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ### Capítulo III. Muerte de la persona inculpada o sentenciada
 
 ###### Artículo 102.
 
-Extinción por muerte
+Cuando algún miembro de la Asamblea solicite del orador en uso de la palabra una explicación pertinente, deberá dirigirse al presidente, quien consultará al primero si acepta la solicitud, en caso afirmativo se escuchará al interpelante y la respuesta será dirigida a la Asamblea; de no aceptarla, continuará el orador en uso de la palabra.
 
-La muerte de la persona inculpada extingue la pretensión punitiva; la de la persona sentenciada extingue a su vez las penas o medidas de seguridad impuestas, a excepción del decomiso y la reparación del daño.
+> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
 ### Capítulo IV. Reconocimiento de inocencia o anulación de la sentencia
 
 ###### Artículo 103.
 
-Pérdida del efecto de la sentencia por reconocimiento de inocencia del sentenciado o anulación de la sentencia ejecutoria
-
-Cualquiera que sea la consecuencia jurídica impuesta en sentencia que cause ejecutoria, procederá la anulación de ésta, cuando se pruebe que la persona sentenciada es inocente del delito por el que se le juzgó.
-
-El reconocimiento de inocencia o anulación de la sentencia ejecutoria produce la extinción de cualquier consecuencia jurídica del delito, incluida la reparación del daño.
-
-El Gobierno del Estado cubrirá el daño a quien, habiendo sido condenado, haya obtenido el reconocimiento de su inocencia.
+Los diputados podrán solicitar a la presidencia el uso de la palabra hasta por diez minutos, para referirse a hechos relacionados con algún asunto tratado por el orador o para contestar alusiones personales; concluida la intervención se proseguirá con la lista de oradores.
 
 ### Capítulo V. Perdón de la persona ofendida en delitos de querella
 
 ###### Artículo 104.
 
-Perdón de la persona ofendida
-
-El perdón de la persona ofendida o de la legitimada para otorgarlo, extingue la pretensión punitiva respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público, o ante el órgano jurisdiccional antes de que cause ejecutoria la sentencia. En caso de que la sentencia haya causado ejecutoria, la persona ofendida podrá acudir ante la autoridad judicial a otorgar el perdón. Ésta procederá de inmediato a decretar la extinción de la potestad de ejecutar las penas y medidas de seguridad.
-
-El perdón sólo beneficia a la persona imputada en cuyo favor se otorga. Cuando sean varias las personas ofendidas y cada una pueda ejercer separadamente la facultad de perdonar a la persona responsable del delito, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
+Si el presidente desea tomar parte en la discusión de un asunto, pedirá en voz alta la palabra y hará uso de ella desde la tribuna conforme a las reglas descritas para el caso, entre tanto, ejercerá sus funciones uno de los vicepresidentes.
 
 ### Capítulo VI. Rehabilitación
 
 ###### Artículo 105.
 
-Objeto de la rehabilitación
+Una vez iniciadas las discusiones, solo podrán ser suspendidas en los siguientes casos:
 
-La rehabilitación tiene por objeto reintegrar a la persona sentenciada en el goce de los derechos, funciones o empleo de cuyo ejercicio se le haya suspendido o inhabilitado en virtud de sentencia firme.
+I.- Cuando la Asamblea acuerde dar preferencia a otro asunto de mayor urgencia o interés;
 
-La persona sentenciada que considere tener derecho a la rehabilitación, podrá promover el incidente respectivo ante la autoridad judicial.
+II.- Por una moción suspensiva que presente alguno de los diputados;
+
+III.- Cuando se retire el dictamen o proposición que se discuta;
+
+IV.- Por desintegración del quórum;
+
+V.- Por causas graves de alteración del orden en el salón de sesiones;
+
+VI.- Cuando así lo decida la Asamblea;
+
+VII.- Por acuerdo del presidente.
 
 ### Capítulo VII. Conclusión de tratamiento de personas inimputables
 
 ###### Artículo 106.
 
-Extinción de las medidas de tratamiento
-
-La potestad para la ejecución de las medidas de tratamiento a personas inimputables se considerará extinguida si se acredita que la persona ya no necesita tratamiento. Si la persona inimputable se encontrara prófuga y posteriormente sea detenida, la potestad para la ejecución de dicha medida se considerará extinguida, siempre que se acredite que las condiciones personales del sujeto que dieron origen a su imposición, ya han cesado.
+En caso de moción suspensiva, se escuchará al solicitante para que la funde y en su caso, a algún impugnador; a continuación será sometida a la Asamblea para que resuelva si se discute o no; si resuelve afirmativamente, podrán hablar dos oradores en contra y dos en pro e inmediatamente se someterá a votación; si la Asamblea la desecha se continuará la discusión del asunto, de lo contrario se reservará su conocimiento para otra sesión, de acuerdo con la moción suspensiva. Sólo podrá presentarse una moción suspensiva en la discusión de un asunto.
 
 ### Capítulo VIII. Indulto
 
 ###### Artículo 107.
 
-Efectos y procedencia del indulto
+Agotado el turno de oradores, el presidente consultará a la Asamblea si se estima suficientemente discutido el asunto; en caso afirmativo se pasará a votación de inmediato y en caso contrario concluirá la discusión con un orador en contra y en su caso uno en pro. De igual forma se procederá en las discusiones en lo particular.
 
-El indulto extingue la potestad de ejecutar las penas y las medidas de seguridad impuestas en sentencia ejecutoria, salvo el decomiso de instrumentos, objetos y productos relacionados con el delito, así como la reparación del daño.
-
-El titular del Ejecutivo podrá otorgar el indulto respecto al fallo ejecutoriado, tomando siempre en consideración el grado de reinserción social de la persona sentenciada, el hecho de que su liberación no represente un peligro para la tranquilidad y la seguridad pública.
-
-No podrá otorgarse el indulto a los sentenciados por los delitos de violación, homicidio doloso, secuestro, tráfico de menores y de los que no tengan capacidad para comprender el significado del hecho, corrupción de personas menores de edad, pornografía infantil, trata de personas, lenocinio con personas menores de edad y de aquellos delitos que atenten contra el libre desarrollo de la personalidad.
+(REFORMADO, G.G. 19 DE AGOSTO DE 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2004)
 
 ### Capítulo IX. Amnistía
 
 ###### Artículo 108.
 
-Efectos y procedencia de la amnistía
+Aprobado un proyecto de ley o decreto, el presidente, lo remitirá a la Secretaría de Asuntos Parlamentarios para su revisión.
 
-La amnistía solamente puede ser concedida por el Poder Legislativo en caso de delitos políticos previstos en este código y los que sean consecuencia necesaria de éstos, cuando a su juicio lo exija la conveniencia pública.
+> <small>(REFORMADO, G.G. 5 DE ENERO DE 2006)</small>
 
-La amnistía extingue la pretensión punitiva o la potestad de ejecutar las penas y medidas de seguridad impuestas, excepto la reparación del daño, en los términos de la Ley que se dictare concediéndola; pero si no lo expresare, se entenderá que la pretensión punitiva o la potestad de ejecutar las penas y medidas de seguridad impuestas se extinguen con todos sus efectos en relación con todos los responsables del delito o de los delitos a que la propia resolución se refiera.
+Concluida la revisión, se le asignará el número de ley, decreto o acuerdo correspondiente y la remitirá al Ejecutivo para los efectos procedentes.
 
 ### Capítulo X. Prescripción
 
 ###### Artículo 109.
 
-Efectos y características de la prescripción
-
-La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad, siendo suficiente para ello el transcurso del tiempo señalado por la ley.
+La ley o decreto que expida la Legislatura, deberá ajustarse a los términos del proyecto aprobado y será suscrito por el presidente y los secretarios, quienes tendrán la obligación de comunicarlo al Ejecutivo del Estado.
 
 ###### Artículo 110.
 
-Promoción de la prescripción
+La ley o decreto aprobados por la Legislatura, se expedirán bajo la siguiente fórmula: "La Honorable (número romano que corresponda) Legislatura del Estado de México decreta:
 
-La prescripción se resolverá de oficio o a petición de parte.
+> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+
+(número de decreto)
+
+(El texto de la ley o decreto).
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, Capital del Estado de México, a los ... días del mes de ... de .... diputado Presidente.- diputados Secretarios.- (nombres y rúbricas)".
+
+En caso de que la resolución sea emitida fuera de la capital del Estado, se adecuará la parte correspondiente.
 
 ###### Artículo 111.
 
-Plazos
+La votación económica se hará por la simple manifestación de levantar la mano, a solicitud de la Presidencia, para expresar que están a favor, en contra o en abstención.
 
-Los plazos para la prescripción de la pretensión punitiva serán continuos; en ellos se considerará el delito con sus modalidades y se contarán a partir de:
-
-I. El momento en que se consumó el delito, si es instantáneo;
-
-II. El momento en que cesó la consumación, si el delito es permanente;
-
-III. El día en que se realizó la última conducta, si el delito es continuado;
-
-IV. El momento en que se realizó el último acto de ejecución o se omitió la conducta debida, si se trata de una tentativa, y
-
-V. El día en que el juez o tribunal haya librado orden de aprehensión, reaprehensión o comparecencia, respecto de la persona que se sustraiga a la acción de la justicia.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
 
 ###### Artículo 112.
 
-Duplicación de plazos
-
-Los plazos para que opere la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio del Estado, sin que por esa circunstancia no sea posible concluir la investigación, el proceso o la ejecución de la sentencia.
+Cuando en una votación económica, se aprecie que no existe diferencia marcada, se repetirá la votación y se contarán los votos.
 
 ###### Artículo 113.
 
-Plazos para la prescripción de la potestad para ejecutar penas y medidas de seguridad
+La votación nominal, se efectuará de la siguiente manera:
 
-Los plazos para la prescripción de la potestad de ejecutar penas y medidas de seguridad serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se sustraiga de la acción de la justicia, siempre que las penas o medidas de seguridad fueran privativas o restrictivas de libertad. En caso contrario, desde la fecha en que cause ejecutoria la sentencia.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2014)</small>
+
+I.- Cada miembro de la Legislatura, comenzando por los diputados ubicados a la izquierda de la directiva y continuando por filas, puesto de pie dirá en voz alta su apellido o apellidos y nombre si fuere necesario para distinguirse de otro, agregando la expresión "SI", "NO" o "ABSTENCIÓN", según el sentido de su voto;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2014)</small>
+
+II.- Un secretario de la directiva, anotará los votos a favor, en contra o en abstención del asunto sujeto a votación, auxiliado en su caso por el otro secretario;
+
+III.- Concluido este acto, el mismo secretario preguntará dos veces en voz alta, si falta algún diputado por emitir su voto, y no faltando ninguno se procederá a recabar el del presidente;
+
+IV.- El secretario hará enseguida el cómputo de los votos e informará el resultado, al presidente.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 113 BIS.- La votación nominal se efectuará mediante el sistema electrónico de asistencia y votación, en la forma siguiente:
+
+El sistema electrónico de asistencia y votación, se abrirá y cerrará previa instrucción de la Secretaría, hasta por el tiempo que señale el Presidente de la Directiva, después de lo cual, el Secretario en funciones preguntará si falta algún diputado por emitir su voto, y de ser así y habiendo vencido el término establecido para hacerlo, lo registrará de manera nominal.
+
+En caso de que no se pueda utilizar el sistema electrónico, la votación se realizará de conformidad con lo señalado en el artículo anterior.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+Artículo 113 BIS I.- Los diputados deberán registrar su asistencia al inicio de las sesiones, a través del sistema electrónico.
+
+Si un diputado, por cualquier causa, no registrara oportunamente su asistencia a través del sistema electrónico, podrá hacerlo ante la Secretaría de la Directiva.
+
+En los casos en que se requiera la verificación del quórum, el Presidente de la Directiva ordenará abrir el sistema electrónico y votación por 5 minutos.
+
+Si no es posible la operación del sistema electrónico, se procederá de acuerdo con lo establecido en las disposiciones aplicables.
 
 ###### Artículo 114.
 
-Prescripción de la potestad punitiva en los casos de delitos de querella
+La votación secreta se efectuará de la siguiente manera:
 
-Salvo disposición en contrario, la pretensión punitiva que surja de un delito que sólo puede perseguirse por querella del ofendido o algún acto equivalente, prescribirá en un año, contado a partir del día en el que quienes pueden formular la querella o el acto equivalente, tengan conocimiento del hecho ilícito y del probable sujeto activo, y en tres años fuera de esta circunstancia.
+I.- El Presidente de la Legislatura instruirá a la secretaría para que distribuya entre los diputados las cédulas respectivas, que serán llenadas en forma personal y directa por éstos, con los nombres y cargos de las personas a elegir;
 
-Una vez cumplido el requisito de procedibilidad dentro del plazo antes mencionado, la prescripción seguirá corriendo según las reglas previstas para los delitos perseguibles de oficio.
+II.- Cada diputado depositará su voto en la urna dispuesta para el efecto, haciéndolo al final el presidente;
+
+III.- Concluida la votación, los Secretarios contarán las cédulas depositadas y certificarán que su número coincida con el de los diputados asistentes. Acto continuo, procederán al cómputo de votos dando a conocer el resultado.
 
 ###### Artículo 115.
 
-Prescripción de la pretensión punitiva según el tipo de pena
+El voto de los diputados es personal e indelegable, por lo que durante la votación, deberán permanecer en el salón de sesiones.
 
-La pretensión punitiva respecto de delitos que se persigan de oficio prescribirá:
-
-I. En un plazo igual al término medio aritmético de la pena privativa de la libertad, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años. Esta regla se aplicará cuando la pena privativa de la libertad esté señalada en forma conjunta o alterna con otra diversa, o
-
-II. En un año, si el delito se sanciona con pena no privativa de la libertad.
+Para efectos del cómputo, la abstención se sumará al resultado mayoritario de la votación.
 
 ###### Artículo 116.
 
-Prescripción de la pretensión punitiva en caso de concurso de delitos
+Las votaciones no podrán interrumpirse salvo caso fortuito o fuerza mayor; mientras se desarrollen no se concederá el uso de la palabra a ningún diputado.
 
-En caso de concurso de delitos se estará a la prescripción del delito que merezca pena mayor.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
 
 ###### Artículo 117.
 
-Necesidad de resolución o declaración previa
-
-Cuando para ejercer o continuar la pretensión punitiva sea necesaria una resolución previa de autoridad jurisdiccional, la prescripción comenzará a correr desde que se dicte la sentencia irrevocable.
-
-Si para deducir la pretensión punitiva la ley exigiera previa declaración o resolución de alguna autoridad, las gestiones que con ese fin se practiquen, dentro de los términos señalados en el artículo 115 de este código interrumpirán la prescripción.
+Los diputados en las votaciones económica y nominal tienen la obligación de emitir su voto a favor, en contra o en abstención. Tratándose de votación secreta, ningún diputado puede excusarse de depositar su voto; las cédulas que no sean útiles se computarán a favor de quien o quienes obtengan la mayoría, y serán aquellas depositadas en blanco, a favor de alguna persona inhabilitada para desempeñar el cargo o que contengan expresiones impropias.
 
 ###### Artículo 118.
 
-Interrupción de la prescripción de la pretensión punitiva
-
-La prescripción de la pretensión punitiva se interrumpirá por las actuaciones que se practiquen en investigación del delito y de la persona inculpada, aunque por ignorarse quién sea éste, no se practiquen las diligencias contra persona determinada.
-
-La prescripción de la pretensión punitiva se interrumpirá también por el requerimiento de auxilio en la investigación del delito o de la persona inculpada, por las diligencias que se practiquen para obtener la extradición internacional y por el requerimiento de entrega del sujeto activo que formalmente haga el Ministerio Público al de otra entidad federativa donde aquél se refugie, se localice o se encuentre detenido por el mismo delito o por otro. En el primer caso también se interrumpirá con las actuaciones que practique la autoridad requerida, y en el segundo, subsistirá la interrupción hasta en tanto ésta niegue la entrega o desaparezca la situación legal del detenido que dé motivo al aplazamiento de su entrega.
-
-Si se deja de actuar, la prescripción empezará a correr de nuevo desde el día siguiente al de la última diligencia.
+Cuando se requiera mayoría calificada en la votación de una resolución de la Legislatura y ésta no se dé, podrá repetirse la votación y si persiste la misma situación, se abrirá de nuevo la discusión. Si después de ella no varía el resultado, se presentará en próxima sesión, en la que se discutirá y resolverá en definitiva.
 
 ###### Artículo 119.
 
-Excepción a la interrupción
-
-No operará la interrupción
-
-de la prescripción de la pretensión punitiva, cuando las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción, contados a partir de los momentos a que se refieren las fracciones I a IV del artículo 111 de este código.
+Al iniciar una votación, podrá llamarse a los diputados ausentes del salón de sesiones para que participen en la resolución del asunto de que se trate.
 
 ###### Artículo 120.
 
-Lapso de prescripción de la potestad de ejecutar las penas
-
-Salvo disposición legal en contrario, la potestad para ejecutar la pena privativa de libertad o medida de seguridad, prescribirá en un tiempo igual al fijado en la condena, pero no podrá ser inferior a tres años.
-
-La potestad para ejecutar la pena de multa prescribirá en un año. Para las demás sanciones prescribirá en un plazo igual al que deberían durar éstas, sin que pueda ser inferior a dos años.
-
-En los casos no previstos por la ley, la potestad para ejecutar las penas prescribirá en dos años y la de la reparación del daño en un tiempo igual al de la pena privativa de libertad impuesta.
-
-Los plazos serán contados a partir de la fecha en que cause ejecutoria la resolución.
+A solicitud de cualquier diputado, el presidente instruirá al secretario que haga constar el sentido en que aquél emite su voto.
 
 ###### Artículo 121.
 
-Prescripción y extinción de la condena
-
-Cuando el sentenciado haya extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
+Si por alguna circunstancia existiera confusión en la votación, el presidente podrá ordenar su repetición.
 
 ###### Artículo 122.
 
-Interrupción de la prescripción de la potestad para ejecutar la pena o medida de seguridad
-
-La prescripción de la potestad para ejecutar la pena o medida privativa de la libertad, sólo se interrumpe con la aprehensión de la persona sentenciada, aunque se ejecute por un delito diverso o por la solicitud formal de entrega que el Ministerio Público haga al de otra entidad federativa, donde se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive aplazar su cumplimiento.
-
-La prescripción de la potestad de ejecutar las demás sanciones se interrumpirá por cualquier acto de autoridad competente para hacerlas efectivas. También se interrumpirá la prescripción de las penas pecuniarias, por las promociones que el ofendido o persona a cuyo favor se haya decretado dicha reparación, haga ante la autoridad correspondiente y por las actuaciones que esa autoridad realice para ejecutarlas, así como por el inicio de juicio ejecutivo ante autoridad civil usando como título la sentencia condenatoria correspondiente.
+Después de cada votación y previo informe de la secretaría respecto del resultado del cómputo, el presidente hará la declaratoria que corresponda.
 
 ###### Artículo 123.
 
-Autoridad competente para resolver la extinción
-
-La extinción de la pretensión punitiva será resuelta por el titular del Ministerio Público durante la investigación, o por el órgano jurisdiccional durante el proceso, según sea el caso.
-
-La declaración de extinción de la potestad de ejecutar las penas y medidas de seguridad corresponde al órgano jurisdiccional.
+El procedimiento para la suspensión de ayuntamientos, declarar que éstos han desaparecido; suspender o revocar el mandato de alguno de sus miembros, se sujetará a las disposiciones de este capítulo.
 
 ###### Artículo 124.
 
-Facultad jurisdiccional en la ejecución
+La Comisión de Instrucción y Dictamen se integra en la forma prevista en la ley. Para cada asunto que le sea turnado elegirá de entre sus miembros un presidente, un secretario y un prosecretario.
 
-Si durante la ejecución de las penas o medidas de seguridad se advierte que se había extinguido la pretensión punitiva o la potestad de ejecutarlas, tales circunstancias se plantearán por la vía incidental ante el órgano jurisdiccional que haya conocido del asunto y éste resolverá lo procedente.
+Para que pueda sesionar y tomar determinaciones en forma colegiada será necesaria la concurrencia de la mayoría de sus integrantes, entre quienes deberá estar quien la presida.
+
+Serán aplicables en lo conducente las disposiciones relativas al funcionamiento de las comisiones de dictamen.
 
 ### Capítulo XI. Supresión del tipo penal
 
 ###### Artículo 125.
 
-Supresión del tipo penal
+Presentada ante la Legislatura la solicitud respectiva, se turnará a la Comisión de Instrucción y Dictamen para la substanciación del procedimiento, de conformidad con las reglas siguientes:
 
-Cuando la ley suprima un tipo penal se extinguirá la potestad punitiva respectiva o la de ejecutar las penas o medidas de seguridad impuestas, se pondrá en absoluta e inmediata libertad a la persona inculpada o sentenciada y cesarán todos los efectos del procedimiento penal o de la sentencia.
+I.- Recibido el expediente, la Comisión de Instrucción y Dictamen ordenará la notificación personal de la instauración del procedimiento, al ayuntamiento o a los miembros a quienes se les imputen causas graves previstas en la Ley Orgánica Municipal, corriéndoseles traslado de la solicitud respectiva; asimismo hará de su conocimiento el derecho que tienen a expresar lo que a su derecho convenga y a rendir pruebas, citándolos para ambos efectos en fecha y hora determinada a una audiencia, que se llevará a cabo después de cinco y antes de quince días, a partir de la notificación;
+
+II.- En la audiencia a que se refiere la fracción anterior, la comisión acordará la admisión de las pruebas que se relacionen con el asunto planteado y se desahogarán en la misma fecha, quedando a cargo de los oferentes su presentación; de ser necesario, la audiencia se prolongará por el tiempo que se requiera para el desahogo de todas las pruebas admitidas, pasando a la etapa de alegatos, los que podrán formuiarse (sic) verbalmente o por escrito;
+
+III.- Los implicados tendrán derecho a estar asistidos por un defensor en todo el procedimiento. En caso de que los interesados no asistan a la primera audiencia se tendrá por precluido su derecho y por presuntivamente ciertos los hechos que motiven las causas graves imputadas;
+
+IV.- Celebrada la audiencia, deberá en su caso emitirse el dictamen respectivo que será sometido a la consideración de la Asamblea; si el dictamen considera procedente la solicitud, se requerirá el voto favorable de las dos terceras partes de los integrantes de la Legislatura para declarar en su caso la suspensión, desaparición o revocación correspondiente.
+
+La resolución que se emita será definitiva e inatacable, la que se notificará a los interesados y será publicada en la Gaceta del Gobierno.
 
 ### Capítulo XII. Existencia de una sentencia anterior dictada en proceso seguido por los mismos hechos
 
 ###### Artículo 126.
 
-Non bis in ídem
-
-Nadie puede ser juzgado dos veces por los mismos hechos, ya sea que en el juicio se le absuelva o se le condene.
-
-Cuando existan en contra de la misma persona y por la misma conducta:
-
-I. Dos procedimientos distintos, se archivará o sobreseerá de oficio el que se haya iniciado en segundo término;
-
-II. Una sentencia y un procedimiento distinto, se archivará o sobreseerá de oficio el procedimiento distinto, o
-
-III. Dos sentencias, dictadas en procesos distintos, se hará la declaratoria de nulidad de la sentencia que corresponda al proceso que se inició en segundo término y se extinguirán sus efectos.
+El público asistente a las sesiones, permanecerá en el lugar del recinto destinado al efecto y guardará respeto, silencio y compostura; por ningún motivo podrá tomar parte en las discusiones, ni realizar manifestaciones de aprobación o rechazo que alteren el orden.
 
 ### Capítulo XIII. Cumplimiento del criterio de oportunidad, acuerdo reparatorio o de las condiciones decretadas en la suspensión condicional del proceso
 
 ###### Artículo 127.
 
-Extinción de la potestad para el ejercicio de la acción penal
+Los asistentes que incumplan con lo dispuesto en el artículo anterior, podrán ser desalojados del salón; pero si la infracción fuere grave o la conducta de alguno o varios de los asistentes pudiere constituir delito, el Presidente ordenará su detención y los pondrá a disposición de las autoridades competentes, o en su caso, formulará la denuncia correspondiente.
 
-La potestad para ejercer la acción penal se extingue en casos de cumplimiento de criterio de oportunidad, acuerdo reparatorio o de las condiciones decretadas en la suspensión condicional del proceso, en las formas previstas en el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 128.
 
-Resolución de la extinción de la acción penal
-
-La extinción de la acción penal será resuelta por el Ministerio Público durante la investigación o por el órgano jurisdiccional en cualquier otra etapa del procedimiento.
-
-La declaración de extinción de la potestad de ejecutar las penas y medidas de seguridad, corresponde a la autoridad judicial.
+Si las medidas adoptadas por el presidente para restablecer el orden en el salón no fueren suficientes, podrá suspender la sesión pública y disponer su continuación con carácter de reservada.
 
 ###### Artículo 129.
 
-Libertad absoluta en la etapa de ejecución
-
-Si durante la ejecución de las penas o medidas de seguridad, se advierte que se extinguió la acción penal o la potestad ejecutiva, sin que esta circunstancia se haya hecho valer en la investigación o durante el proceso, el juez de ejecución ordenará la libertad absoluta del sentenciado.
+El presidente, cuando las circunstancias lo requieran, podrá tomar las medidas que estime necesarias en relación con el acceso del público al recinto, para la celebración de las sesiones públicas.
 
 # Libro Segundo. Parte especial
 
@@ -1471,175 +1497,139 @@ Si durante la ejecución de las penas o medidas de seguridad, se advierte que se
 
 ###### Artículo 130.
 
-Homicidio simple
+Al inicio de cada período de sesiones, el Presidente de la Legislatura hará la declaratoria solemne de apertura del período de sesiones, en los términos siguientes:
 
-A quien prive de la vida a otra persona, se le impondrán de ocho a veinte años de prisión.
+"La Honorable (número ordinal que corresponda) Legislatura del Estado Libre y Soberano de México, siendo las ... horas del (día, mes y año), abre su (período que corresponda) de sesiones (ordinarias o extraordinarias)."
 
 ###### Artículo 131.
 
-Homicidio en razón de parentesco o relación
+Elegida la Diputación Permanente, su presidente la declarará formalmente instalada inmediatamente después de clausurado el período ordinario, expresando:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-A quien con conocimiento de la relación que le une con el sujeto pasivo, prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, al nacido vivo en primer grado, hermano, adoptante o adoptado, se le impondrán de veinte a cincuenta años de prisión y suspensión de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio, hasta por el mismo término de la pena impuesta.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-Cuando el delito se cometa en contra del cónyuge, concubina o concubinario, o persona con quien se mantenga una relación de pareja permanente, se impondrá la pena prevista para el delito de feminicidio.
-
-Si en la comisión de este delito concurre alguna circunstancia agravante de las previstas en el artículo 147 de este código, se impondrán las penas del homicidio calificado.
+"Siendo las ... horas del (día, mes y año) queda formalmente instalada la Diputación Permanente para el período de receso que hoy inicia."
 
 ###### Artículo 132.
 
-Homicidio calificado
+Cuando asista a alguna sesión el Presidente de la República, ocupará el lugar situado a la izquierda del Presidente de la Legislatura, el Gobernador del Estado el de la izquierda de aquél y el Presidente del Tribunal Superior de Justicia al lado derecho del Presidente de la Legislatura.
 
-A quien cometa el delito de homicidio calificado se le impondrán de veinte a cincuenta años de prisión.
+En los demás casos, el Gobernador del Estado ocupará el lugar de la izquierda del Presidente de la Legislatura.
+
+En caso de que el Titular del Ejecutivo Federal designare un representante, éste se ubicará a la izquierda del Gobernador del Estado.
 
 ###### Artículo 133.
 
-Homicidio a petición de la víctima
-
-A quien prive de la vida a otra persona, por petición expresa, libre, reiterada, seria e inequívoca de la víctima, siempre que medien razones humanitarias y el sujeto pasivo padezca de una enfermedad incurable en fase terminal, se le impondrán de dos a seis años de prisión.
+En la sesión en la que el Gobernador electo del Estado, deba rendir la protesta constitucional, cuando asista el Presidente de la República éste ocupará el lugar a la derecha del Presidente de la Legislatura y aquél ocupará el lugar a la derecha del Titular del Ejecutivo Federal; en caso contrario, a la derecha del Presidente de la Legislatura; a la izquierda de éste el Gobernador del Estado en funciones, a la izquierda de éste el Presidente del Tribunal Superior de Justicia del Estado y a la derecha del Gobernador electo, el representante presidencial en su caso.
 
 ###### Artículo 134.
 
-Homicidio en riña
+Las sesiones en las que el Gobernador del Estado rinda la protesta constitucional, se sujetarán al siguiente procedimiento:
 
-A quien prive de la vida a otra persona en riña se le impondrá hasta la mitad de las penas señaladas para el delito simple si se trata del provocador y hasta la tercera parte en el caso del provocado.
+I.- Lista de asistencia, verificación de quórum y declaratoria de apertura de la sesión;
 
-La riña es la contienda de obra entre dos o más personas con el propósito de causarse daño recíprocamente.
+II.- Designación de comisiones protocolarias para introducirle al recinto y acompañarle en su salida;
 
-No se configurará homicidio en riña cuando existan antecedentes de violencia familiar o de género entre quien provoca y quien es provocada o provocado.
+III.-Receso;
+
+IV.- Reinicio de la sesión;
+
+V.- Himno Nacional;
+
+VI.- Protesta constitucional del Gobernador del Estado;
+
+VII.- Uso de la palabra al Gobernador del Estado;
+
+VIII.- En su caso, uso de la palabra al Presidente Constitucional de los Estados Unidos Mexicanos;
+
+IX.- Himno del Estado de México;
+
+X.- Clausura de la sesión.
 
 ###### Artículo 135.
 
-Feminicidio
+En las sesiones a las que asistan el Gobernador del Estado y el Presidente del Tribunal Superior de Justicia, el Presidente de la Legislatura designará comisiones protocolarias de cortesía para conducirlos al recinto y acompañarles en su salida del salón de sesiones.
 
-Comete el delito de feminicidio quien, por razones de género, prive de la vida a una mujer.
-
-Existen razones de género cuando ocurra cualquiera de los supuestos siguientes:
-
-I. La víctima presente señales de violencia sexual de cualquier tipo;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes, denigrantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
-
-III. Existan antecedentes o datos de cualquier tipo de violencia, cometido en el ámbito familiar, laboral o escolar, cometido por el sujeto activo en contra de la víctima;
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
-
-IV. Existan antecedentes o datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
-
-V. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de hecho, amistad, laboral, docente o de confianza;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-VI. El cuerpo de la víctima sea expuesto, arrojado o exhibido en un lugar público;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y multa de quinientos a mil veces de la Unidad de Medida y Actualización.
-
-Además de las sanciones señaladas en el presente artículo, la persona sentenciada perderá todos sus derechos con relación a la víctima, incluidos los de carácter familiar y sucesorio.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
-
-En el caso de que tenga hijas e/o hijos con la víctima, el sujeto activo en su caso, perderá sobre ellas y/o ellos la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, que le correspondiere. Sanción que se aplicará igualmente en caso de tentativa.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
-
-Al servidor público que retarde, entorpezca u obstruya maliciosamente o por negligencia la procuración o administración de justicia en cualquier etapa del procedimiento o difunda a través de cualquier medio imágenes, audios, videos o documentos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos relacionados con el procedimiento penal, se le impondrán pena de prisión de tres a ocho años y multa de quinientos a mil quinientos veces el valor de la Unidad de Medida y Actualización, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
-
-Cuando el delito sea cometido por persona integrante de alguna institución policial, las penas previstas en este artículo se incrementarán hasta en una mitad.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
-
-Cuando el feminicidio sea cometido en contra de una niña, adolescentes, mujer indígena o rural, adulta mayor, o bien la víctima cuente con algún tipo de discapacidad, la pena prevista aumentará de una mitad de su mínimo hasta una mitad de su máximo.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
-
-Tratándose de casos en grado de tentativa se seguirán las reglas establecidas en los artículos 24 y 81 del presente código.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
-
-Las autoridades no podrán excusarse de la investigación de este delito por considerarlo violencia en el ámbito familiar.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
-
-Cuando existan niñas, niños o adolescentes como victimas indirectas derivado del hecho delictivo, las instancias de procuración y administración de justicia deberán de considerar el principio de interés superior de la infancia en todas las etapas procesales, hasta la reparación integral del daño.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 136.
 
-Homicidio en razón de la orientación sexual
+Las sesiones en las que el Gobernador del Estado asista a entregar el informe sobre el estado que guarda la administración pública se sujetarán al siguiente procedimiento:
 
-A quien dolosamente prive de la vida a otra persona por su orientación sexual o razón de género, se le impondrá una pena de veinte a cincuenta años de prisión.
+I.- Lista de asistencia y declaración de quórum;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+II.- Designación de comisiones protocolarias para recibir y conducir al interior del recinto al Gobernador y al Presidente del Tribunal Superior de Justicia, y posteriormente acompañarles en su salida del salón de sesiones;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+III.- Receso;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+IV.- Reanudación de la sesión;
+
+V.- Himno Nacional;
+
+VI.- (DEROGADA, G.G. 9 DE AGOSTO DE 2013)
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+VII.- Uso de la palabra hasta por siete minutos a un diputado por cada una de las fracciones legislativas que integren la Legislatura;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+VIII.- Uso de la palabra al Gobernador del Estado para que rinda el informe;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+IX.- Uso de la palabra por el Presidente de la Legislatura;
+
+> <small>(REFORMADA, G.G. 15 DE ENERO DE 1999)</small>
+
+X.- Himno del Estado de México;
+
+> <small>(ADICIONADA, G.G. 15 DE ENERO DE 1999)</small>
+
+XI.- Clausura de la sesión.
 
 ###### Artículo 137.
 
-Lesión mortal
-
-Se tendrá como mortal una lesión, cuando la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, a algunas de sus consecuencias inmediatas o alguna complicación determinada inevitablemente por la lesión
+Al entrar y salir del salón de sesiones el Gobernador y el Presidente del Tribunal Superior de Justicia del Estado, se pondrán de pie los miembros de la Legislatura, a excepción de su Presidente, quien sólo lo hará cuando hayan llegado al lugar que deban ocupar.
 
 ### Capítulo II. Lesiones
 
 ###### Artículo 138.
 
-Lesiones
+Las demás sesiones solemnes y las especiales que acuerde la Asamblea, se sujetarán al protocolo que previamente se determine en el respectivo orden del día.
 
-A quien cause a otra persona un daño o alteración en su salud, se le impondrán:
-
-I. De seis meses a un año de prisión y multa de veinte a cincuenta días de salario, si las lesiones tardan en sanar hasta quince días;
-
-II. De uno a dos años de prisión y de cincuenta a cien días multa, cuando tarden en sanar más de quince y menos de sesenta días;
-
-III. De dos a cuatro años de prisión, si tardan en sanar más de sesenta días;
-
-IV. De tres a cinco años de prisión, cuando dejen cicatriz permanentemente notable en la cara;
-
-V. De tres a seis años de prisión, cuando disminuyan alguna facultad o el normal funcionamiento de un órgano o de un miembro;
-
-VI. De cuatro a siete años de prisión, si producen la pérdida de cualquier función orgánica, de un miembro, de un órgano o de alguna facultad, o provoquen una enfermedad incurable o una deformidad incorregible, y
-
-VII. De cuatro a ocho años de prisión, cuando pongan en peligro la vida.
-
-Además de las penas previstas en las fracciones III a VIII, se impondrán de cien a cuatrocientos días multa.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 139.
 
-Lesiones en razón de parentesco o relación
+La comparecencia de los servidores públicos del Poder Ejecutivo, de los magistrados del Tribunal Superior de Justicia, de los titulares de los Organismos Autónomos y de los integrantes de los ayuntamientos de los municipios de la entidad, se llevará a cabo conforme a las siguientes reglas:
 
-A quien cause lesiones a un ascendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, pareja sentimental, adoptante o adoptado, se le incrementará en dos terceras partes la pena que corresponda por las lesiones inferidas.
+I.- Para su recepción se designarán comisiones protocolarias;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+II.- El compareciente ocupará el lugar que al efecto le hubiere sido asignado;
+
+III.- El Presidente de la Legislatura le concederá el uso de la palabra para que en la tribuna, o desde su lugar, lleve a cabo la exposición general del asunto o asuntos que motiven su comparecencia;
+
+IV.- Los coordinadores de las fracciones legislativas o los diputados designados por cada uno de éstos, tendrán una intervención hasta por 10 minutos, con el propósito de formular comentarios o plantear interrogantes de orden general sobre el asunto o asuntos que dieron origen a la comparecencia;
+
+V.- El compareciente hará uso de la palabra para referirse a las cuestiones planteadas de manera general por los diputados;
+
+VI.- A continuación, se concederá el uso de la palabra hasta por 5 minutos a los diputados de cada una de las fracciones legislativas, en el número y orden previamente convenidos por los coordinadores;
+
+VII.- El servidor público contestará a las interrogantes de los diputados, pudiendo hacerlo, de manera individual o por grupos de intervenciones, según lo hayan convenido los coordinadores;
+
+VIII.- Durante su comparecencia, los servidores públicos no podrán hacer proposiciones, modificaciones o adiciones sobre las iniciativas de ley o decreto;
+
+IX.- En ningún caso podrá establecerse diálogo personal entre el compareciente y los diputados;
+
+X.- Concluida la etapa de preguntas y respuestas, el presidente dará por terminada la comparecencia del servidor público, instruyendo a la comisión de protocolo que se sirva acompañarle en su salida del salón de sesiones.
 
 ###### Artículo 140.
 
-Lesiones por condición de género.
-
-A quien cause lesiones a otra persona por su condición de género y en razón de este, se le impondrán de seis a nueve años de prisión y multa de cuatrocientos a mil días de multa del valor diario de la Unidad de Medida y Actualización.
-
-Pero si se trata de lesiones por razón de género causadas a una mujer, se aumentará en una tercera parte más de la sanción correspondiente al delito de lesiones calificadas.
-
-Se consideran (sic) que existen razones de género cuando concurra cualquiera de los siguientes supuestos:
-
-I. Que las lesiones causadas sean infamantes, degradantes o se provoque mutilación del cuerpo;
-
-II. (DEROGADA, P.O. 28 DE JUNIO DE 2024)
-
-III. Cuando las lesiones consistan en la resección parcial o total de los genitales externos femeninos o masculinos. Así como otras lesiones de los órganos genitales por motivos no médicos; o
-
-IV. Que previo a la lesión infringida existan elementos de prueba, que establezcan que se han cometido amenazas, acoso o violencia del sujeto activo contra la víctima. Si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza, de parentesco, laboral, docente o cualquier (sic) que implique subordinación o superioridad y se prueba que en virtud de esa relación se infringieron las lesiones infamantes, degradantes o mutilaciones.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+Las comisiones de protocolo serán integradas por uno de los miembros de la directiva y los diputados que designe el presidente.
 
 ###### Artículo 140 Bis.
 
@@ -1673,83 +1663,45 @@ Se considerará Feminicidio en grado de tentativa, cuando las lesiones cometidas
 
 ###### Artículo 141.
 
-Lesiones en razón de la orientación sexual
+En la última sesión de cada período de sesiones, el presidente designará comisiones protocolarias para informar al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia de la clausura del período.
 
-A quien cause lesiones a otra persona por su orientación sexual se le impondrá la pena correspondiente al delito de lesiones calificadas.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 142.
 
-Lesiones causadas a persona menor de edad, incapaz o adulto mayor
-
-A quien cause lesiones, con crueldad o frecuencia, a una persona menor de dieciocho años de edad, incapaz o adulto mayor, sujeta a la patria potestad, tutela o custodia del sujeto activo, se le impondrá la pena correspondiente al delito de lesiones calificadas y se decretará la suspensión de los derechos que tenga el agente en relación con la víctima por el doble de tiempo al de la pena de prisión que se imponga.
+Lo acontecido en las sesiones y reuniones de trabajo de los órganos de la Legislatura, será registrado fielmente.
 
 ###### Artículo 143.
 
-Lesiones en riña
+La grabación contendrá íntegra la versión del desarrollo de las reuniones, sesiones, discusiones, acuerdos y todo lo tratado en las mismas. Las cintas que se utilicen, una vez realizada la traducción correspondiente, deberán quedar registradas con clave, datos de clasificación y codificación para su resguardo en el registro legislativo.
 
-A quien cause lesiones en una contienda de obra o agresión física entre dos o más personas con el propósito de causarse daño recíprocamente, se le impondrá hasta la mitad de las penas que correspondan por las lesiones inferidas, siempre que se trate del provocador, y hasta la tercera parte si se trata del provocado.
+Los diputados podrán hacer consultas en el registro legislativo y obtener las copias que requieran por conducto de la secretaría.
+
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 144.
 
-Lesiones calificadas
-
-Cuando las lesiones sean calificadas, conforme a lo dispuesto en el artículo 147 de este código, la pena correspondiente a las lesiones simples se incrementará hasta en dos terceras partes.
+La Legislatura contará con un órgano oficial de difusión denominado "Diario de Debates" en el que se publicarán las fechas y lugares de las sesiones públicas, insertando en el mismo, el sumario respectivo, nombre de quien presida, así como la versión mecanográfica del desarrollo de las sesiones y discusiones, y el contenido de los documentos a los que se hubiese dado lectura. No se publicarán en este instrumento, lo relacionado con las sesiones reservadas, ni las expresiones ofensivas cuando quien las profiera solicite que sean omitidas.
 
 ###### Artículo 145.
 
-Lesiones perseguidas por querella
+El contenido del "Diario de Debates", deberá ser recopilado para su publicación oficial al término de cada período ordinario, debiendo editarse en un plazo no mayor de seis meses.
 
-Se perseguirán por querella las lesiones previstas en el artículo 138, fracciones I y II. Lo mismo se aplicará a las lesiones culposas, salvo que se hayan cometido con motivo del tránsito de vehículos y en los siguientes casos:
-
-I. Que el conductor haya realizado la conducta en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos o de cualquier otra sustancia que produzca efectos similares, o
-
-II. Que el conductor abandone a la víctima.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2014)</small>
 
 ### Capítulo III. Disposiciones comunes para los delitos de homicidio y lesiones
 
 ###### Artículo 146.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2017)
+La Junta de Coordinación Política dará la difusión necesaria al "Diario de Debates" y a la "Gaceta Parlamentaria", disponiendo al efecto su distribución en medio impreso o digitalizado, debiendo conservar ejemplares para la Biblioteca del Poder Legislativo. Los diputados recibirán un ejemplar impreso o digitalizado de la Gaceta Parlamentaria, cuando menos, previamente a cada sesión de la Legislatura o de la Diputación Permanente.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 147.
 
-Circunstancias calificativas
+Las características y formas del "Diario de Debates" y de la "Gaceta Parlamentaria", serán fijadas por el Presidente de la Junta de Coordinación Política.
 
-El homicidio y las lesiones son calificados cuando se cometen con premeditación, ventaja, traición, alevosía, retribución, por el medio empleado o saña.
-
-I. Existe premeditación: Cuando el agente, intencionalmente, decide cometer el hecho tras detenida y cuidadosa reflexión y ponderación de los factores que concurran en su perpetración.
-
-II. Existe ventaja:
-
-a) Cuando el sujeto activo es superior en fuerza física a la víctima y ésta no se halla armada;
-
-b) Cuando el sujeto activo es superior por las armas empledas (sic), por su mayor destreza en el manejo de éstas o por el número de personas que intervengan con él;
-
-c) Cuando el sujeto activo se vale de algún medio que debilita la defensa del sujeto pasivo;
-
-d) Cuando el sujeto pasivo se halla inerme o caído y el sujeto activo se encuentra armado o de pie, o
-
-e) Cuando existe una situación de vulnerabilidad motivada por la discriminación o violencia por razones o condición de género.
-
-III. Existe traición:
-
-Cuando el sujeto activo realiza el hecho quebrantando la confianza o seguridad que expresamente le había prometido al sujeto pasivo o las mismas que de forma tácita debía éste esperar de aquel por las relaciones de confianza real y actual que existen entre ambos.
-
-IV. Existe alevosía:
-
-Cuando el agente realiza el hecho sorprendiendo intencionalmente a alguien de improviso, o empleando acechanza u otro medio que no le dé lugar a defenderse ni a evitar el mal que se le quería hacer.
-
-V. Existe retribución:
-
-Cuando el agente comete el hecho por pago o prestación prometida o entregada.
-
-VI. Por los medios empleados:
-
-Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud.
-
-VII. Existe saña:
-
-Cuando el sujeto activo procede con crueldad o con fines depravados.
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 147 Bis.
 
@@ -1781,11 +1733,9 @@ k) Los demás documentos que envíen a la Directiva de la Legislatura, cuando lo
 
 ###### Artículo 148.
 
-Declaración de responsabilidad penal sin pena
+El Organo Superior de Fiscalización del Estado de México, se regirá por lo dispuesto en su ley y su reglamento interior.
 
-No se impondrá pena o medida de seguridad alguna, a quien de forma culposa ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta; hermano, adoptante o adoptado, cónyuge, concubina, concubinario, o cuando entre el sujeto activo y el pasivo exista relación de amistad o de familia, salvo que el sujeto activo se encuentre bajo el efecto de bebidas embriagantes, de estupefaciente o psicotrópicos, sin que medie prescripción médica, o bien que se dé a la fuga y no auxilie a la víctima.
-
-Lo señalado en el artículo anterior no excluye al sujeto activo de ser sometido a un proceso penal y de ser, en su caso, declarado penalmente responsable del delito cometido.
+> <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
 
 ###### Artículo 148 Bis.
 
@@ -1795,47 +1745,117 @@ La Unidad de Información se regirá por lo dispuesto en la Ley de Transparencia
 
 ###### Artículo 149.
 
-Homicidio o lesiones culposas con motivo de tránsito vehicular
+La Secretaría de Asuntos Parlamentarios estará a cargo de un titular denominado Secretario de Asuntos Parlamentarios que será nombrado por la Legislatura a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del Presidente de la misma y por lo que hace a las funciones del proceso legislativo, del Presidente de la Directiva.
 
-Cuando el homicidio o las lesiones se cometan culposamente con motivo del tránsito vehicular, se impondrá la mitad de las penas previstas en los artículos 130 y 138, salvo en los siguientes casos:
-
-I. Cuando el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares, o
-
-II. No auxilie a la víctima del delito o se dé a la fuga.
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
-
-III. Que el conductor transporte a menores de edad sin las protecciones necesarias y/o conduzca el vehículo automotor con un número mayor de pasajeros para la capacidad que fue diseñado.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ### Capítulo IV. Ayuda e inducción al suicidio
 
 ###### Artículo 150.
 
-Ayuda al suicidio
+Para ser Secretario de Asuntos Parlamentarios se requiere:
 
-A quien ayude a otra persona para que se prive de la vida, se le impondrán de dos a cuatro años de prisión, siempre que el suicidio se consume. Si el sujeto activo del delito presta el auxilio hasta el punto de ejecutar él mismo la muerte, se le impondrán de cuatro a ocho años de prisión.
+I.- Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
+
+III.- Poseer título de licenciado en derecho, con antigüedad mínima de tres años.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 151.
 
-Inducción al suicidio
+La organización administrativa de la Secretaría de Asuntos Parlamentarios será la que determine la Junta de Coordinación Política y la establecida en el manual de organización.
 
-A quien induzca a otra persona para que se prive de la vida se le impondrán de cuatro a ocho años de prisión, si el suicidio se consuma.
-
-Si el suicidio no se consuma por causas ajenas a la voluntad de quien induce o ayuda, pero sí se causan lesiones, se impondrán las dos terceras partes de la pena anterior, sin que exceda de la pena que corresponda a las lesiones de que se trate.
-
-En caso de que no se cause lesión alguna, la pena será de una tercera parte de las señaladas en este artículo.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 152.
 
-Inducción o ayuda al suicidio de persona menor de edad o que viva situación de violencia familiar
+Corresponden a la Secretaría de Asuntos Parlamentarios, las siguientes atribuciones:
 
-Si la persona a quien se induce o ayuda al suicidio es menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, o viva una situación de violencia familiar, se impondrán al sujeto activo las penas señaladas para el homicidio o las lesiones previstos en los artículos 130 y 138 de este código.
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+I.- Auxiliar al Presidente y a los secretarios de la directiva de la Legislatura en el ejercicio de sus funciones;
+
+II.- Coordinar las actividades de las áreas administrativas a su cargo;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III.- Acordar con el Presidente de la Junta de Coordinación Política el despacho de los asuntos de su competencia;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+IV.- Proporcionar los servicios de apoyo necesarios para la celebración de sesiones de la Legislatura, de la Diputación Permanente, de la Junta de Coordinación Política y de las reuniones de trabajo de las comisiones y comités;
+
+V.- Formular y preparar la documentación que se requiera para el funcionamiento del proceso legislativo;
+
+VI.- Presentar para su firma las resoluciones y correspondencia del presidente y secretarios de la Legislatura y de la Diputación Permanente, así como remitir en tiempo y forma las leyes, decretos o acuerdos para su promulgación y publicación;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VII.- Proporcionar a las comisiones, comités, grupos parlamentarios y diputados en particular, los apoyos, atención y documentación que requieran, para el adecuado cumplimiento de sus funciones legislativas;
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+VIII.- Atender y en su caso controlar los servicios de estenografía y/o taquigrafía, grabación, sonido, sistema electrónico de asistencia y votación y cualquier otro mecanismo técnico autorizado;
+
+> <small>(REFORMADA, G.G. 18 DE AGOSTO DE 2010)</small>
+
+IX.- Coadyuvar al cuidado y conservación del archivo histórico y biblioteca de la Legislatura;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+X.- Coadyuvar en la vigilancia de la impresión, publicación y distribución del "Diario de Debates" y de la "Gaceta Parlamentaria";
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 29 DE AGOSTO DE 2011)</small>
+
+XI.- Administrar y resguardar los archivos que genere el sistema electrónico de asistencia y votación;
+
+XII.- Llevar libros de control para el despacho de los asuntos de recepción y remisión de documentos, en los que se asienten los documentos recibidos por la Oficialía de Partes;
+
+XIII.-Turnar de inmediato a sus destinatarios la correspondencia que reciba;
+
+XIV.- Llevar el control de expedientes, iniciativas, leyes, decretos y acuerdos que expida la Legislatura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE AGOSTO DE 2011)</small>
+
+XV.- Coadyuvar para que, una vez que hayan sido publicadas las leyes y disposiciones de carácter general en el Periodico Oficial "Gaceta del Gobierno", sean traducidas para su consulta, al braille y a las lenguas originarias del Estado de México;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+XVI.- Coordinar y supervisar las actividades realizadas por los secretarios técnicos de las comisiones legislativas y comités en apoyo a sus integrantes;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+XVII.- Coordinar y supervisar las actividades realizadas por la Coordinación Jurídica de la Legislatura; y
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XVIII.- Las demás que le señale la directiva de la Legislatura, la Diputación Permanente, la Junta de Coordinación Política y la Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2011)</small>
+
+Artículo 152 BIS.- El titular de la Biblioteca Legislativa "Dr. José María Luis Mora" será el encargado de cuidar y conservar el archivo histórico a su cargo, de formar la colección de decretos y leyes que se publiquen en los Periódicos Oficiales de la Federación y del Estado, así como de traducir a las lenguas originarias del Estado de México y al braille para su consulta, las leyes y disposiciones de carácter general que expida la Legislatura. De igual manera, deberá encargarse del registro de la obra editorial, y ejercerá las demás atribuciones que este Reglamento y otros ordenamientos aplicables le confieran.
+
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
+
+Artículo 152 TER.- La Biblioteca Legislativa "Dr. José Maria Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
+
+Artículo 152 QUÁTER.- La estructura de la Biblioteca será la que determine la Junta de Coordinación Política, dentro de la cual deberá estar una Librería, que se encargará de la venta de la obra editorial de la Legislatura y de aquellas obras que por su naturaleza se relacionen con el Poder Legislativo.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2010)</small>
+
+Artículo 152 QUINQUIES.- El Cronista Legislativo será el encargado de relatar, de manera escrita, el acontecer histórico de lo más destacado del trabajo de la Legislatura, velando en todo momento por la objetividad y certeza de lo narrado, y preservando su conservación oficial. Ejercerá, además, las atribuciones que este Reglamento y otros ordenamientos aplicables le confieran.
+
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 153.
 
-Agravación por razón de parentesco
+La Contraloría es la dependencia del Poder Legislativo, que ejerce funciones de auditoría, vigilancia, control, evaluación e inspección y las demás que le señalen otras disposiciones legales.
 
-Cuando el cónyuge, concubina, concubinario o pareja sentimental, instigue o ayude al otro a suicidarse, se aumentarán hasta en una mitad más las penas previstas en los artículos 150 y 151 de este Código.
+La Contraloría estará a cargo de un titular denominado Contralor, quien será nombrado por la Asamblea a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del presidente de la misma.
 
 ### Capítulo V. Aborto
 
@@ -1843,71 +1863,93 @@ Cuando el cónyuge, concubina, concubinario o pareja sentimental, instigue o ayu
 
 ###### Artículo 154.
 
-Concepto de aborto
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
-
-Aborto es la interrupción del embarazo.
+Para ser Contralor se requieren los mismos requisitos que para Oficial Mayor, excepto el de la profesión que podrá ser cualquier otra afín a sus funciones.
 
 ###### Artículo 155.
 
-Aborto con consentimiento
+La Contraloría tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
-A quien practique el aborto a una mujer transcurridas las doce semanas de embarazo, con consentimiento de ésta, se le impondrá de seis meses a dos años de prisión, con excepción de las excluyentes de responsabilidad.
+I.- Instaurar y llevar a cabo el procedimiento administrativo previsto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, tratándose de los diputados, los demás servidores públicos del Poder Legislativo y los integrantes de los ayuntamientos de los municipios de la entidad, poniéndolos en estado de resolución para someterlos a la Junta de Coordinación Política;
+
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
+II.- Conocer de las responsabilidades administrativas y hacer efectivas las sanciones que correspondan, cuando así lo acuerde la Junta de Coordinación Política;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III.- Ejecutar, por acuerdo de la Junta de Coordinación Política, y en su caso, verificar se hagan efectivas las sanciones administrativas impuestas a los miembros de los ayuntamientos de los municipios de la entidad, en términos de las leyes respectivas;
+
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+IV.- Substanciar los medios de impugnación que se presenten en materia de responsabilidad administrativa, turnándolos a la Junta de Coordinación Política para que emita la resolución correspondiente;
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2006)</small>
+
+V.- Vigilar que se cumplan las disposiciones legales en materia de Manifestación de Bienes, debiendo recibirlas, registrarlas y custodiarlas, dando seguimiento a su evolución patrimonial;
+
+VI.- Contar con un sistema de atención de quejas y denuncias, respecto de la actuación de los servidores públicos;
+
+VII.- Establecer coordinación con otras dependencias de control, para el mejor desempeño de sus funciones;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VIII.- Establecer y aplicar dentro del ámbito de su competencia, los criterios de control, evaluación y auditoría para optimizar la función de las dependencias administrativas de la Legislatura;
+
+IX.- Asesorar en el ámbito de su competencia a los órganos y dependencias de la Legislatura, para el mejor cumplimiento de sus programas;
+
+X.- Evaluar los criterios que regulen el funcionamiento de los instrumentos, sistemas y procedimientos de control de la administración del Poder Legislativo, con el fin de asegurar su eficiencia;
+
+XI.- Participar en los procesos de licitaciones para adquisiciones, arrendamientos y enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen, verificando el cumplimiento de las disposiciones contenidas en la ley de la materia;
+
+XII.- Vigilar que se realice y actualice periódicamente el inventario de los bienes muebles e inmuebles asignados o propiedad del Poder Legislativo;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XIII.- Coordinar y supervisar la entrega-recepción de la Presidencia de la Junta de Coordinación Política, así como de las dependencias del Poder Legislativo;
+
+XIV.- Opinar sobre normas de contabilidad y de control en materia de programación, presupuestación, administración de personal, así como de recursos materiales y financieros del Poder Legislativo;
+
+XV.- Establecer los mecanismos para difundir la información sobre sus funciones y actividades;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XVI.- Informar anualmente a la Asamblea, por conducto del Presidente de la Junta de Coordinación Política, de las labores desarrolladas;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XVII.- Las demás que le señalen los ordenamientos legales o que determine la Junta de Coordinación Política o su presidente.
 
 ###### Artículo 156.
 
-Aborto sin consentimiento
+La Contraloría contará con las unidades administrativas y el presupuesto necesario para el eficiente y oportuno ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
-
-A quien hiciere abortar a una mujer sin su consentimiento, en cualquier momento del embarazo, se le impondrán de tres a ocho años de prisión. Si mediare violencia física o moral se impondrán de seis a nueve años de prisión.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 157.
 
-Aborto específico
+La Secretaría de Administración y Finanzas, es la dependencia del Poder Legislativo encargada de la administración de la Legislatura.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
-
-Si el aborto lo causare un médico cirujano, comadrón o partera, enfermero o practicante, y se practicase sin el consentimiento de la mujer embarazada, además de las consecuencias jurídicas que le correspondan conforme al artículo anterior, se le suspenderá por el tiempo de la pena de prisión impuesta en el ejercicio de su profesión u oficio.
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 158.
 
-(DEROGADO, P.O. 20 DE MAYO DE 2022)
+La Secretaría de Administración y Finanzas, tendrá como titular un Secretario, nombrado por la Legislatura a propuesta de la Junta de Coordinación Política.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 159.
 
-Excluyentes de responsabilidad específicas
+Para ser Secretario de Administración y Finanzas se requiere:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE MAYO DE 2022)</small>
+I.- Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
 
-La responsabilidad penal por el delito de aborto con consentimiento se excluye en los siguientes casos:
+II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
+III.- Poseer título profesional en cualquier ramo de la administración o afín a sus funciones.
 
-I. Cuando el embarazo sea resultado de una violación o de una inseminación artificial no consentida, sin necesidad de que exista denuncia por dichos delitos;
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
-
-II. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de afectación a su salud o esté en riesgo su vida, situación que deberá asentarse en el dictamen que emita el médico que la asista;
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
-
-III. Cuando a juicio de un médico especialista en la materia, sustentado en estudios específicos, exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, siempre que se tenga el consentimiento de la mujer embarazada;
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2022)</small>
-
-IV. Que sea resultado de una conducta culposa de la mujer embarazada; o
-
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
-
-V. Cuando se acredite por cualquier medio que alguna autoridad le hubiese negado a la mujer embarazada la posibilidad de interrumpir su embarazo dentro de las primeras doce semanas de la gestación.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2022)</small>
-
-En estos casos, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ## Título Segundo. Procreación asistida, inseminación artificial y manipulación genética
 
@@ -1915,57 +1957,173 @@ En estos casos, los médicos tendrán la obligación de proporcionar a la mujer 
 
 ###### Artículo 160.
 
-Disposición ilícita de óvulos o esperma
+La Secretaría de Administración y Finanzas, tendrá las siguientes atribuciones:
 
-A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes, se le impondrán de dos a cinco años de prisión y de cincuenta a cuatrocientos días multa.
+I.- Planear, organizar, coordinar y controlar el desarrollo del personal y los recursos financieros y materiales con los que cuente el Poder Legislativo;
+
+II.- Definir y establecer objetivos, políticas y procedimientos en materia de administración y desarrollo de personal, recursos materiales y financieros del Poder Legislativo;
+
+> <small>(ADICIONADA, G.G. 15 DE DICIEMBRE DE 2010)</small>
+
+II Bis.- El Secretario de Administración y Finanzas, asumirá de la manera más amplia la representación y defensa jurídica del Poder Legislativo, en los juicios laborales en que sea parte, contando para tal efecto, con facultades para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio para la debida representación jurídica;
+
+III.- Brindar apoyo a las dependencias del Poder Legislativo para su óptimo funcionamiento;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+IV.- Elaborar el proyecto de presupuesto anual de egresos del Poder Legislativo de acuerdo a los lineamientos de la Junta de Coordinación Política;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+V.- Realizar y tramitar con la autorización del Presidente de la Junta de Coordinación Política, las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VI.- Dar a conocer al Comité de Administración las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VII.- Informar periódicamente a la Junta de Coordinación Política del ejercicio y desarrollo del presupuesto y programas;
+
+VIII.- Administrar la aplicación de los recursos y efectuar las comprobaciones, para efectos de la contabilidad pública;
+
+IX.- Concertar, a través de su titular, las operaciones y convenios financieros y crediticios con instancias externas;
+
+X.- Autorizar y firmar la documentación referente a las erogaciones y pagos que con cargo al presupuesto de egresos ejerza el Poder Legislativo;
+
+XI.- Integrar la nómina de la Legislatura, vigilando que los pagos se efectúen en los términos de ley;
+
+XII.- Establecer y operar un sistema integral de capacitación y desarrollo de personal, acorde a las necesidades del Poder Legislativo;
+
+XIII.- Coordinar la elaboración y aplicación de programas de incentivos, calificación de méritos, evaluación del rendimiento y estímulos que propicien la superación de los servidores públicos;
+
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XIV.- Diseñar, Instrumentar y operar programas internos de Seguridad, Higiene y Protección Civil en el trabajo, que prevengan y protejan contra riesgos, siniestros o desastres al personal, instalaciones, bienes y acervos documentales del Poder Legislativo, causados por la presencia de agentes perturbadores;
+
+XV.- Administrar y garantizar la conservación y mantenimiento del patrimonio del Poder Legislativo;
+
+XVI.- Efectuar la recepción, guarda, custodia, registro y control de los bienes destinados al uso de las dependencias del Poder Legislativo;
+
+XVII.- Planear, organizar, coordinar y controlar las actividades referentes a adquisiciones, almacenes, suministros, servicios generales, acervo administrativo, control patrimonial y servicios médico preventivos:
+
+XVIII.- Administrar el archivo general del Poder Legislativo;
+
+XIX.- Desarrollar permanentemente programas de modernización y simplificación administrativa que contribuyan a eficientar la operación de las áreas técnico administrativas de la Legislatura;
+
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+XX.- Elaborar y publicar en el Periódico Oficial "Gaceta del Gobierno", los manuales de organización que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+XXI.- Mantener, conservar y proveer los apoyos técnicos, humanos y financieros que se requieran, para la operación del sistema electrónico de asistencia y votación;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XXII.- Ejercer el control y supervisión del personal de seguridad y vigilancia de la Legislatura;
+
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+XXIII.- Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política o su presidente.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 161.
 
-Inseminación artificial
+La Secretaría de Administración y Finanzas, contará con las unidades administrativas que determine la Junta de Coordinación Política y que serán las necesarias para cumplir con sus funciones y se establecerán en el respectivo manual de organización.
 
-A quien sin consentimiento de una mujer mayor de dieciocho años o con el consentimiento de una mujer menor de edad o que no tenga capacidad para comprender el significado del hecho o para resistirlo, realice en ella inseminación artificial, se le impondrán de tres a seis años de prisión.
-
-Si la inseminación se realiza con violencia o de ésta resulta un embarazo, se impondrán de cuatro a doce años de prisión.
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 162.
 
-Procreación asistida
+La Dirección General de Comunicación Social, es la Dependencia del Poder Legislativo encargada de la Comunicación Social de la Legislatura y de la coordinación de las respectivas áreas de Comunicación Social de los grupos parlamentarios.
 
-A quien implante a una mujer un óvulo fecundado, utilizado para ello un óvulo propio o ajeno, o esperma de donante no autorizado, sin el consentimiento expreso de la paciente, del donante o con el consentimiento de una persona menor de dieciocho años de edad o de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, se le impondrán de tres a seis años de prisión.
-
-Si el delito se realiza con violencia o de ésta resulta un embarazo, se impondrán de cuatro a doce años de prisión.
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 163.
 
-Punibilidad para agentes cualificados
+La Dirección General de Comunicación Social, tendrá como titular un Director General, nombrado por la Legislatura a propuesta de los diferentes grupos parlamentarios que integran la Legislatura.
 
-Además de las penas previstas en el capítulo anterior, se impondrá suspensión para ejercer la profesión o, en caso de servidores públicos, destitución e inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta.
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 1999)</small>
 
 ###### Artículo 164.
 
-Persecución por querella
+Para ser Director General de Comunicación Social se requiere:
 
-Cuando entre los sujetos activo y pasivo, exista una relación de matrimonio, concubinato o relación de pareja, los delitos previstos en los artículos anteriores se perseguirán por querella.
+I. Ser ciudadano del Estado en pleno ejercicio de sus derechos civiles y políticos;
+
+ll. No haber sido condenado mediante sentencia ejecutoria, por delito grave o doloso de carácter patrimonial, ni sancionado con destitución del empleo, cargo o comisión, o inhabilitación en procedimiento de responsabilidad administrativa;
+
+III. Poseer conocimiento profesional en cualquier ramo de comunicación o afin a sus funciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ### Capítulo I. Omisión de cuidado o auxilio
 
 ###### Artículo 165.
 
-Manipulación genética
+La Dirección General de Comunicación Social, tendrá las siguientes atribuciones:
 
-Se impondrán de dos a cinco años de prisión, destitución e inhabilitación, en su caso, así como suspensión por igual término para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a quien:
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
-I. Manipule genes humanos de manera que se altere el genotipo, salvo que ésta se realice con la finalidad de eliminar o disminuir enfermedades graves;
+I. Organizar, coordinar y controlar el desarrollo del Proceso de Comunicación entre la Legislatura, los medios y la ciudadanía;
 
-II. Fecunde óvulos humanos con cualquier fin distinto al de la procreación humana, o
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
 
-III. Genere seres humanos por clonación o realice procedimientos de ingeniería genética con fines ilícitos.
+II. Proponer las subdirecciones, jefaturas, departamentos y personal requerido para el cumplimiento de sus actividades;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+III. Definir y establecer objetivos, políticas y procedimientos en materia de comunicación, en coordinación con el comité de Comunicación Social;
+
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2003)</small>
+
+IV. Administrar en coordinación con la Secretaría de Administración y Finanzas, el presupuesto anual autorizado por el Comité de Comunicación Social;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+V. Brindar apoyo a las Dependencias del Poder Legislativo para la difusión de actividades legislativas, previo acuerdo del Comité de Comunicación Social;
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VI. Apoyar a la Junta de Coordinación Política en el acopio y difusión de información legislativa;
+
+> <small>(ADICIONADA, G.G. 9 DE MARZO DE 1999)</small>
+
+VII. Elaborar el proyecto de presupuesto anual de egresos de la Dirección General de Comunicación Social;
+
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+
+VIII. Elaborar el proyecto de presupuesto anual para cada grupo parlamentario, que no excederá del cincuenta por ciento del presupuesto total de la Dirección General de Comunicación Social.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 166.
 
-Punibilidad específica
+La Coordinación Jurídica tendrá las siguientes atribuciones:
 
-Si de la comisión de alguno de los delitos previstos en los artículos anteriores resultaren hijos, la reparación del daño podrá comprender, además, el pago de alimentos para éstos y para la madre conforme a la legislación civil.
+I. Planear las actividades que en el ámbito jurídico deba desarrollar la Legislatura, sus órganos de gobierno y de dirección, a fin de someterlos a la consideración del Secretario de Asuntos Parlamentarios;
+
+> <small>(F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+II. Elaborar y sustanciar los procedimientos administrativos que le instruyan la Ley Orgánica del Poder Legislativo del Estado de México, el reglamento y el Secretario de Asuntos Parlamentarios;
+
+III. Elaborar los recursos y promociones legales que requiera la Legislatura así como las contestaciones de demanda de amparo y cualesquiera que le instruya el Secretario de Asuntos Parlamentarios;
+
+IV. Representar con el Secretario de Asuntos Parlamentarios a la Legislatura en los casos en que le sea otorgado poder bastante, para los fines en que éste sea expedido;
+
+V. Elaborar los proyectos de reglamentos internos de la Legislatura que sean necesarios;
+
+VI. Revisar los proyectos de iniciativa de ley y reglamentos que le someta a consideración el Secretario de Asuntos Parlamentarios;
+
+VII. Brindar asesoría y apoyo técnico a los órganos de gobierno y de dirección que el Secretario de Asuntos Parlamentarios le instruya; y
+
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VIII. Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política, su presidente o el Secretario de Asuntos Parlamentarios.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ## Título Tercero. Delitos de peligro para la vida o la salud de las personas
 
@@ -1973,35 +2131,17 @@ Si de la comisión de alguno de los delitos previstos en los artículos anterior
 
 ###### Artículo 167.
 
-Omisión de cuidado
-
-A quien abandone a una persona que no tenga capacidad para valerse por sí misma, teniendo la obligación de cuidarla, se le impondrán de tres meses a dos años de prisión o de cincuenta a doscientos días multa. Si el sujeto activo es ascendiente o tutor del sujeto pasivo se le suspenderá de la patria potestad o la tutela hasta por el doble del tiempo de la pena impuesta.
-
-Si el sujeto activo es médico o profesionista similar o auxiliar, se le suspenderá en el ejercicio de su profesión hasta por dos años.
-
-Si por la comisión de este delito se cometiera algún otro, se aplicarán las reglas del concurso de delitos contempladas en este código.
+Los secretarios técnicos de las comisiones legislativas y de los comités dependerán del presidente de cada comisión o comité y corresponde su coordinación al Secretario de Asuntos Parlamentarios. Estos secretarios estarán encargados de verificar y sugerir las alternativas y mecanismos apropiados para el buen desarrollo de las tareas legislativas de los diputados integrados en comisiones y comités dentro de la legislatura.
 
 ###### Artículo 168.
 
-Omisión de auxilio o de solicitud de asistencia
-
-A quien omita prestar el auxilio necesario a la persona que se encuentre desamparada y en peligro manifiesto, o a quien no estando en condiciones de prestar el auxilio, no dé aviso inmediato a la autoridad o no solicite auxilio a quienes puedan prestarlo, cuando según las circunstancias pueda hacerlo sin riesgo propio ni de terceros, se le impondrá prisión de tres meses a dos años o de cincuenta a doscientos días multa.
-
-Las mismas penas se aplicarán a quien, después de lesionar a una persona, culposa o fortuitamente, no le preste auxilio o no solicite la asistencia que requiere pudiendo hacerlo, independientemente de la pena que proceda por el delito cometido.
-
-Si del abandono se pone en situación de peligro la integridad física o psicológica del abandonado, se impondrán de seis meses a tres años de prisión, y si resulta algún otro delito, se aplicarán las reglas de la acumulación.
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 169.
 
-Exposición de incapaces
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
-A quien exponga a una persona incapaz de valerse por sí misma, respecto de la cual tenga la obligación de cuidado o se encuentre legalmente a su cargo, en una institución, o ante cualquier otra persona, se le impondrán de tres meses a dos años de prisión.
-
-Los ascendientes o tutores que entreguen en una casa de asistencia o beneficencia a una persona menor de doce años de edad que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre éste y sus bienes.
-
-No se procederá contra la madre que entregue a su hijo por ignorancia o pobreza extremas o cuando sea producto de algún delito.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 169 Bis.
 
@@ -2017,17 +2157,23 @@ De igual manera se incrementará la pena hasta la mitad, cuando derivado del aba
 
 ###### Artículo 170.
 
-Peligro de contagio
+Los secretarios técnicos de las comisiones legislativas y de los comités tendrán las siguientes atribuciones:
 
-A quien con conocimiento de que padece una enfermedad grave en período infectante, ponga en peligro de contagio la salud de otro, por relaciones sexuales u otro medio transmisible, siempre que el sujeto pasivo no tenga conocimiento de esa circunstancia, se le impondrán de uno a cuatro años de prisión y de cincuenta a doscientos días multa.
+I. Brindar la asesoría y apoyo técnico en las sesiones de las comisiones y comités a los diputados que las integren;
 
-Si la enfermedad es incurable, se le impondrán al sujeto de dos a diez años de prisión y de cien a quinientos días multa.
+II. Elaborar los proyectos legislativos que les instruyan las comisiones y en su caso, los comités correspondientes;
 
-Este delito se perseguirá por querella de la víctima.
+III. Informar al Secretario de Asuntos Parlamentarios de los acuerdos recaídos en las sesiones de las comisiones legislativas o comités según corresponda; así como los proyectos legislativos o de estudio que tengan a su cargo;
 
-(NOTA: EL 23 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 117/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 30 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 491, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+IV. Auxiliar al secretario de la comisión o del comité en la elaboración de la minuta de los acuerdos de cada una de las sesiones que lleven a cabo, a fin de darle puntual seguimiento y preparar la documentación técnica de apoyo para la siguiente reunión, debiendo someterla a consideración previa del presidente de la comisión legislativa o del comité respectivo; y
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+V. Llevar un control de los asuntos que les sean encomendados con sus respectivos expedientes y mantenerlo actualizado para ser entregado al término de la Legislatura que corresponda al Pleno de la nueva Comisión;
+
+> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+
+VI. Las demás que le señale la Ley Orgánica del Poder Legislativo, el reglamento, el presidente de la comisión o comité respectivo y el Secretario de Asuntos Parlamentarios.
 
 ###### Artículo 170 Bis.
 
@@ -2043,25 +2189,11 @@ Estas sanciones serán independientes de las que establezca el Artículo 464 Bis
 
 ###### Artículo 171.
 
-Corrupción de personas menores de edad
-
-A quien induzca, procure o facilite el que una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporales o sexuales, prostitución, prácticas sexuales, consumo de algún narcótico o bebida embriagante, la comisión de algún delito o a formar parte de una asociación delictuosa, se le aplicarán de cuatro a diez años de prisión y de cuatrocientos a mil días multa.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
-
-A quien induzca, obligue o someta (sic) cualquier persona a la práctica de la mendicidad, se le impondrán de tres a seis años de prisión y de trescientas a mil veces el valor de la Unidad de Medida y Actualización.
-
-No constituirán corrupción de personas menores de edad, los programas preventivos, educativos o de cualquier índole que diseñen e impartan las instituciones públicas, privadas o sociales que tengan por objeto educación sexual, educación sobre la función reproductiva, prevención de enfermedades de transmisión sexual y embarazo de adolescentes, siempre que estén aprobados por la autoridad competente.
-
-Cuando de la práctica reiterada de los actos de corrupción la persona menor de edad o la persona que no tenga la capacidad para comprender el significado del hecho, adquiera el hábito de la farmacodependencia, o se dedique a la prostitución, la pena se aumentará hasta en un tercio más de la prevista en el primer párrafo de este artículo.
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 172.
 
-Corrupción de personas menores de edad mediante su empleo
-
-A quien empleé a una persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, en cantinas, tabernas, bares, antros, centros de vicio o cualquier otro lugar donde se afecte de forma negativa su sano desarrollo físico, mental o emocional, se le impondrá prisión de tres a seis y de trescientos a seiscientos días multa.
-
-Incurrirán en la misma pena los que ejerzan la patria potestad, la tutela o custodia y guarda de personas menores de edad o de personas que no tengan capacidad para comprender el significado del hecho y promuevan o acepten que éstos se empleen en los referidos establecimientos.
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ### Capítulo IV. Pederastia
 
@@ -2069,27 +2201,11 @@ Incurrirán en la misma pena los que ejerzan la patria potestad, la tutela o cus
 
 ###### Artículo 173.
 
-Pornografía de personas menores de edad
-
-Comete el delito de pornografía de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho:
-
-I. Quien induzca, procure, facilite o permita por cualquier medio a persona menor de edad o que no tenga capacidad para comprender el significado del hecho, a realizar actos de índole sexual o de exhibicionismo corporal, reales o simulados, con el fin de grabarlos, audiograbarlos, videograbarlos, fotografiarlos, filmarlos, exhibirlos o describirlos a través de anuncios impresos, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, independientemente de que se logre la finalidad;
-
-II. Quien fije, grabe, audiograbe, videograbe, fotografíe, filme o describa actos de exhibicionismo corporal, reales o simulados, de índole sexual, en los que participe una persona menor de edad o que no tenga capacidad para comprender el significado del hecho;
-
-III. Quien posea, reproduzca, ofrezca, almacene, distribuya, venda, compre, rente, exponga, publique, publicite, transmita, importe, o exporte por cualquier medio las grabaciones, audiograbaciones, videograbaciones, fotografías, filmes o descripciones a que se refieren las conductas descritas en la fracción II de este artículo, y
-
-IV. Quien financie cualquiera de las actividades descritas en las fracciones anteriores.
-
-Se impondrá pena de seis a diez años de prisión y de seiscientos a mil días multa, al sujeto activo de los delitos previstos en las fracciones I y II. Se impondrá pena de ocho a doce años de prisión y de ochocientos a mil doscientos mil días multa, al autor de los delitos previstos en las fracciones III y IV. En todos los casos se decomisarán los instrumentos del delito.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 174.
 
-Comete el delito de turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho, quien financie, gestione, promueva, publicite, invite o facilite a cualquier persona a viajar al interior o exterior del territorio del Estado con la finalidad de que realice cualquier tipo de actos sexuales, reales o simulados, con persona menor de edad o persona que no tenga capacidad para comprender el significado del hecho, o a éstos se les haga viajar con esa finalidad. Al sujeto activo de este delito se le impondrá una pena de siete a doce años de prisión y de ochocientos a dos mil doscientos días multa.
-
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2016)</small>
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
 ###### Artículo 174 Bis.
 
@@ -2099,9 +2215,9 @@ A quien realice cualquier tipo de relación sexual, real o simulada, con una o v
 
 ###### Artículo 175.
 
-(DEROGADO, P.O. 12 DE MARZO DE 2024)
+(DEROGADO, G.G. 21 DE JULIO DE 2006)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ### Capítulo VI. Cohabitación forzada
 
@@ -2141,11 +2257,11 @@ En los casos en que el sentenciado se niegue o no pueda garantizar la atención 
 
 ###### Artículo 176.
 
-Punibilidad específica
+El Instituto de Estudios Legislativos, es un órgano administrativo del Poder Legislativo del Estado de México, cuyo propósito es la investigación y difusión de los temas relacionados con el estudio de la historia, funciones, actividad y prácticas parlamentarias del Estado, así como coadyuvar tanto a los legisladores y demás servidores públicos de la Asamblea en el perfeccionamiento de los instrumentos jurídicos legislativos que se elaboren en la misma.
 
-A los sujetos activos de los delitos previstos en los Capítulos I, II y III, del Título Cuarto, Libro Segundo de este código, se les suspenderá del derecho a ejercer la patria potestad, la tutela o curatela, según el caso, hasta por el doble del tiempo de la pena de prisión impuesta.
+El Instituto sin exclusión de otros propósitos, clasificará la información que en su caso suministra el Congreso de la Unión y los estatales, realizando investigaciones sobre los temas que atañen al Estado de México.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, G.G. 30 ABRIL DE 2004)</small>
 
 ###### Artículo 176 Bis.
 
@@ -2153,21 +2269,17 @@ Serán imprescriptibles las sanciones señaladas en los artículos 171, 172, 173
 
 ###### Artículo 177.
 
-Agravantes
+Para ser Vocal Ejecutivo del Instituto de Estudios Legislativos de la Legislatura, se requiere:
 
-Las sanciones señaladas en los artículos 171, 172 y 173 se aumentarán de conformidad con lo siguiente:
+I. Tener cuando menos 30 años cumplidos el día de su designación;
 
-I. Hasta una tercera parte del máximo de la sanción, si el delito es cometido por servidor público en contra de una persona menor de dieciocho años de edad. Además, se impondrá la destitución del empleo, cargo o comisión e inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta;
+Il. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
 
-II. Hasta una mitad del máximo de la sanción, si el delito es cometido en contra de una persona menor de doce años de edad;
+III. Ser designado por el pleno de la Legislatura, a propuesta de la Junta de Coordinación Política contando con la aprobación del Comité de Estudios Legislativos;
 
-III. Hasta una mitad del máximo de la sanción, cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima; además, según las circunstancias del hecho, se le suspenderá la patria potestad, el derecho a alimentos que le corresponda por su relación con la víctima y el derecho que pueda tener respecto a los bienes de ésta hasta por el doble del tiempo de la pena de prisión impuesta, y
+IV. Ser mexiquense, en los términos de lo establecido por el artículo 23 de la Constitución Política del Estado Libre y Soberano de México.
 
-IV. Hasta una mitad del máximo de la sanción, cuando se haga uso de violencia física o moral.
-
-Para los efectos de los delitos contemplados en este título, el consentimiento no excluye la responsabilidad penal.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ### Capítulo I. Violación
 
@@ -2205,43 +2317,15 @@ QUEDAN EXCEPTUADOS DE ESTE TIPO PENAL LOS PADRES DE FAMILIA Y/O QUIENES EJERZAN 
 
 ###### Artículo 178.
 
-Violación
+El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su reglamento.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
-
-A quien por medio de la violencia física o moral realice cópula con otra persona, se le impondrán de doce a veinticuatro años de prisión y de seiscientos a mil doscientos días de multa del valor diario de la Unidad de Medida y Actualización.
-
-Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal o bucal.
-
-Se sancionará con la pena antes señalada, a quien introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene, por medio de la violencia física o moral.
-
-Se impondrá la pena prevista en este artículo, si entre los sujetos activo y pasivo de la violación existe un vínculo matrimonial, de concubinato o de pareja. En estos casos el delito se perseguirá por querella.
-
-> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 28 DE MARZO DE 2025)</small>
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 179.
 
-Violación equiparada
+El Consejo Consultivo de Valoración Salarial es un órgano auxiliar del Poder Legislativo del Estado de México, ciudadano y multidisciplinario, encargado de realizar estudios y emitir opiniones, en materia de remuneraciones de los servidores públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
-
-Se equipará a la violación y se sancionará de doce a cuarenta años de prisión:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-I. Al que sin violencia realice cópula con persona menor de quince años de edad;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-II. Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-III. Al que introduzca por vía anal o vaginal cualquier elemento o instrumento distinto del miembro viril en una persona menor de quince años de edad o persona que no tenga capacidad de comprender el significado del hecho, o por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ### Capítulo IV. Acoso sexual
 
@@ -2249,69 +2333,33 @@ Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se
 
 ###### Artículo 180.
 
-Abuso sexual
+El Consejo Consultivo de Valoración Salarial se integrará por siete consejeros propietarios y tres suplentes, que serán designados por la Legislatura, por mayoría calificada de los diputados presentes, a propuesta de la Junta de Coordinación Política, de entre representantes de los sectores académico, empresarial y social del Estado de México; mismos que no podrán ser ni haber sido dirigentes de sindicatos o de partidos políticos, o candidatos de partido político alguno.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+Los consejeros durarán en su desempeño tres años y su cargo será honorífico.
 
-Al que sin consentimiento de una persona, sea cual fuere su sexo y sin el propósito de llegar a la cópula, ejecute en ella un acto o actos sexuales o la haga ejecutarlo, se le impondrá de tres a seis años de prisión y una multa de cuatrocientos cincuenta a novecientos del valor diario de la Unidad de Medida y Actualización.
-
-Para efectos de este código se entiende por acto sexual cualquier acción lujuriosa como tocamientos o manoseos corporales obscenos, o representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
-
-Si se hace uso de violencia física o psicológica, la pena prevista se aumentará en una mitad.
-
-Este delito se perseguirá por querella, salvo que concurra violencia.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
-
-Cuando la víctima sea menor de 15 años, se perseguirá de oficio.
-
-> <small>(REFORMADO SU ACÁPITE, P.O. 28 DE MARZO DE 2025)</small>
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 181.
 
-Abuso sexual contra niñas, niños y adolescentes
+Los integrantes del Consejo Consultivo de Valoración Salarial serán elegidos mediante el proceso de selección siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
+I. La Junta de Coordinación Política expedirá la convocatoria correspondiente;
 
-Si el acto sexual se ejecuta en niñas, niños o adolescentes, en quien no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, se le impondrá una pena de doce a diecisiete años de prisión y una multa de quinientos a novecientos cincuenta del valor diario de la Unidad de Medida y Actualización y pago de la reparación del daño.
+II. Durante los diez días hábiles siguientes a la fecha de expedición de la convocatoria, la Secretaría Técnica de la Junta de Coordinación Política recibirá la documentación de los aspirantes;
 
-Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a ejecutarle actos sexuales o la obligue a sí misma a realizarlo en su caso a un tercero.
+III. La Junta de Coordinación Política analizará los perfiles de cada aspirante y propondrá a la Asamblea la integración del Consejo Consultivo de Valoración Salarial, una vez electos, se procederá a tomarles protesta; y
 
-También se considera abuso sexual la exhibición ante la víctima, sin su consentimiento, de los glúteos o de los genitales.
+IV. La designación realizada por la Legislatura, será publicada en la Gaceta del Gobierno.
 
-Si se hace uso de violencia física o psicológica, la pena prevista se aumentará en una mitad.
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 182.
 
-Agravantes
+Para la integración de Consejo Consultivo de Valoración Salarial, la Legislatura expedirá la convocatoria respectiva, a más tardar el 15 de septiembre del año de su renovación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MARZO DE 2024)</small>
+El Consejo Consultivo de Valoración Salarial deberá quedar instalado y entrar en funciones, a partir de la segunda quincena del mes de octubre del año que corresponda.
 
-Las penas previstas para la violación y el abuso sexual se aumentarán hasta en una mitad más cuando sean cometidos:
-
-I. Con intervención directa o inmediata de dos o más personas;
-
-II. Por ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el padrastro o la madrastra contra su hijastro, éste contra cualquiera de ellos, el concubino o concubina de la madre o del padre contra cualquiera de los hijos de éstos o los hijos contra aquellos.
-
-Además de la pena de prisión, a la persona responsable se le suspenderán los derechos relativos a la patria potestad o la tutela, en los casos en que la ejerza sobre la víctima, así como los derechos sucesorios con respecto de ésta hasta por el doble del tiempo de la pena de prisión impuesta;
-
-III. Por quien desempeñe un cargo o empleo público, ejerza su profesión, empleo o ministerio religioso, utilizando los medios o circunstancias que éstos le proporcionen. Además de la pena de prisión, la persona sentenciada será destituida e inhabilitada del cargo o empleo, o suspendida por el término de cinco años en el ejercicio de dicha profesión.
-
-Si el sujeto activo es ministro de culto religioso, se hará del conocimiento a la Instancia correspondiente para los efectos respectivos;
-
-IV. Por la persona que tenga a la víctima bajo su custodia, guarda o educación o aproveche la confianza en ella depositada;
-
-V. En lugar despoblado o solitario;
-
-VI. Dentro de los centros educativos, culturales, deportivos, religiosos, de trabajo, o cualquier otro de naturaleza social, o se ejecute en inmuebles públicos.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
-
-VII. Cuando el acto se comenta (sic) en un medio de transporte de personas, público o privado.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MARZO DE 2024)</small>
-
-VIII. Cuando el delito sea cometido en contra de una niña, niño, adolescentes, mujer indígena o rural, persona adulta mayor, o bien la víctima cuente con algún tipo de discapacidad.
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ### CAPÍTULO V. DE LA DIVULGACIÓN NO CONSENTIDA DE IMÁGENES O VIDEOS ÍNTIMOS O SEXUALES
 
@@ -2319,65 +2367,59 @@ VIII. Cuando el delito sea cometido en contra de una niña, niño, adolescentes,
 
 ###### Artículo 183.
 
-Hostigamiento sexual
+Los integrantes del Consejo Consultivo de Valoración Salarial podrán ser removidos por la Junta de Coordinación Política, en los siguientes casos:
 
-> <small>[N. DE E. DEL ANALISIS SE ADVIERTE QUE SE FUSIONARON LOS PÁRRAFOS PRIMERO Y SEGUNDO]</small>
+I. Incumplir con las atribuciones propias de su cargo;
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+II. Sustraer, destruir, ocultar o utilizar indebidamente la documentación o información que por razón de su cargo, tenga a su cuidado o custodia o que exista en el Consejo, con motivo del ejercicio de sus atribuciones; y
 
-A quien con fines o móviles lascivos asedie a otra persona, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, religiosas, domésticas, o cualquier otra que implique subordinación, se le impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+III. Por incapacidad física o mental definitiva que impida el cabal cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
-
-Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, además de la pena prevista en el párrafo anterior, será destituido e inhabilitado del cargo o empleo por el mismo tiempo de la pena de prisión impuesta.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE AGOSTO DE 2024)</small>
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 184.
 
-Hostigamiento sexual contra niñas, niños y adolescentes
+El Consejo Consultivo contará con un consejero presidente electo por sus integrantes, durará en su cargo un año y podrá ser reelecto por un periodo igual.
 
-A quien realice los actos previstos en el artículo anterior en contra (sic) niñas, niños y adolescentes, o que no tengan capacidad para comprender el significado del hecho, se le impondrá de cuatro a diez años de prisión y de ciento cincuenta a quinientos días de multa del valor diario de la Unidad de Medida y Actualización.
+Los consejeros deberán conducirse con la mayor probidad, honradez y profesionalismo.
 
-Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, además de la pena prevista en el párrafo anterior, será destituido del cargo que desempeña e inhabilitado para ocupar cualquier cargo, empleo o comisión en el servicio público por un periodo igual al de la pena de prisión impuesta.
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ### Capítulo VI. Incesto
 
 ###### Artículo 185.
 
-Acoso sexual
+El Consejo Consultivo de Valoración Salarial sesionará de manera ordinaria, previa convocatoria por parte de su Presidente, en caso de que éste no convoque o se encuentre imposibilitado para hacerlo, por mayoría simple de sus integrantes.
 
-A quien con fines o móviles lascivos asedie a otra persona con la que no exista relación de subordinación, se le impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+Se integrará quórum con la mitad más uno de sus integrantes, incluido su presidente. Los consejeros tendrán voz y voto y sus determinaciones se tomarán por mayoría simple de votos; en caso de empate, el presidente tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2025)</small>
+La Junta de Coordinación Política proveerá lo necesario para que el Consejo Consultivo de Valoración Salarial cumpla con sus obligaciones.
+
+El Consejo Consultivo de Valoración Salarial designará de entre sus miembros a un Secretario Técnico, que integrará el orden del día, elaborará las minutas de las reuniones y hará el seguimiento de los acuerdos emitidos por el Consejo.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 186.
 
-Acoso sexual contra niñas, niños y adolescentes
+El Consejo Consultivo de Valoración Salarial emitirá sus recomendaciones verificando que:
 
-A quien realice los actos previstos en el artículo anterior en contra de una niña, niño o adolescente, o que no tenga capacidad para comprender el significado del hecho, se le impondrán de cuatro a diez años de prisión y de cien a cuatrocientos días multa del valor diario de la Unidad de Medida y Actualización.
+I. Los niveles mínimos y máximos de las remuneraciones estén apegados a los lineamientos establecidos por la Ley;
 
-> <small>(F. DE E., P.O. 29 DE ABRIL DE 2025)</small>
+II. Los niveles mínimos y máximos de las remuneraciones para los empleos, cargos o comisiones públicas sean conforme a la actividad y responsabilidad que desempeñen;
 
-Si se ejerciere violencia física o psicológica las penas previstas se aumentarán en una mitad.
+III. Se privilegie el cumplimiento de las atribuciones de los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios;
 
-> <small>(F. DE E., P.O. 29 DE ABRIL DE 2025)</small>
+IV. Se respeten las medidas de protección al salario estipuladas por la Ley;
 
-Este delito se perseguirá por querella.
+V. Se determinen los niveles mínimos y máximos de las remuneraciones concordantes con el catálogo general de puestos y el tabulador anual, identificando en su caso, aquellas que no lo sean o que resulten descomunales o desproporcionadas;
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+VI. El catálogo general y el tabulador anual, contengan todos los conceptos de remuneraciones por cargo, empleo o comisión públicas, sin omisión alguna; y
 
-(sic)186 bis. Acoso sexual callejero
+VII. La estructura de las remuneraciones promueva y estimule el mejor desempeño y el desarrollo profesional de los servidores públicos.
 
-A quien con fines o móviles lascivos asedie a otra persona, tome fotos y/o grabe su cuerpo sin su consentimiento, tenga contacto físico y/o arrinconamiento no consentido, persiga, se masturbe con o sin eyaculación o realice exhibicionismo en lugares públicos y/o privados de acceso público, vías y transporte público y provoque malestar en la víctima dañando su dignidad e integridad personal, se le impondrá de tres a ocho años de prisión y de doscientos a quinientos días multa.
+Para el cumplimiento de sus atribuciones, podrá solicitar información sobre remuneraciones a los Poderes Públicos, Organismos Auxiliares, Organismos Autónomos y Municipios, a través del Organo Superior de Fiscalización.
 
-Cuando el agresor sea reincidente, o exista la participación de dos o más agresores o la conducta sea realizada por servidores públicos la penalidad referida se duplicará.
-
-Este delito se perseguirá a petición de parte ofendida, salvo que exista la participación de servidores públicos en cuyo caso será de oficio.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
 ### Capítulo VII. Reparación del daño
 
@@ -2385,13 +2427,9 @@ Este delito se perseguirá a petición de parte ofendida, salvo que exista la pa
 
 ###### Artículo 187.
 
-Comete el delito de violación a la intimidad sexual, aquella persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización.
+El Consejo Consultivo de Valoración Salarial revisará las remuneraciones mínimas y máximas propuestas en el proyecto de Presupuesto de Egresos del Estado, emitiendo en su caso observaciones, a más tardar el cinco de diciembre. Tratándose de los municipios, las remuneraciones serán revisadas antes del 25 de febrero de cada año.
 
-Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
-
-Estas conductas se sancionarán con una pena de tres a seis años de prisión y una multa de quinientas a mil Unidades de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
+El Consejo Consultivo de Valoración Salarial turnará sus recomendaciones a la Legislatura, para su publicación inmediata en la Gaceta del Gobierno, para que determine lo conducente al dictaminar el Presupuesto de Egresos y en su caso, formule las recomendaciones correspondientes a los municipios.
 
 ## TRANSITORIOS
 
@@ -5399,29 +5437,39 @@ Rúbrica.
 
 P.O. 26 DE AGOSTO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 174 Y SE ADICIONA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 35.- POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-###### ARTÍCULO PRIMERO.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-###### ARTÍCULO SEGUNDO.
+TERCERO. La integración de la comisión para la protección al desarrollo de las personas con discapacidad, así como los asuntos que le hayan sido turnados, corresponderán a la comisión para la atención de grupos vulnerables.
 
-Comuníquese al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
+G.G. 14 DE MARZO DE 2016.
 
-P.O. 2 DE DICIEMBRE DE 2016.
+###### ARTICULO PRIMERO.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO SEGUNDO.
 
-El presente Decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-###### ARTÍCULO SEGUNDO.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 70.- POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA EL PRIMER PÁRRAFO Y SU INCISO G) Y SE ADICIONA EL INCISO H) A LA FRACCIÓN X DEL ARTÍCULO 13 A, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-Comuníquese al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 27 DE DICIEMBRE DE 2016.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La integración de la Comisión de Protección Ambiental, así como los asuntos que le hayan sido turnados, corresponderán a la Comisión de Protección Ambiental y Cambio Climático.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ###### ARTICULO TERCERO.
 
@@ -5437,13 +5485,13 @@ G.G. 14 DE SEPTIEMBRE DE 2006.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 416 POR EL QUE SE ADICIONA EL ARTÍCULO 223 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
+El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 ###### ARTICULO TERCERO.
 
@@ -5605,11 +5653,39 @@ PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-###### ARTÍCULO TERCERO.
+G.G. 16 DE DICIEMBRE DE 2014.
 
-Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-P.O. 18 DE JULIO DE 2017.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 14 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las iniciativas de Ley, Decreto o de Acuerdo pendientes de resolución de la Legislatura "LVIII” y anteriores se tendrán por precluidas, ello, no será impedimento para que puedan volver a presentarse como nuevas iniciativas.
+
+G.G. 4 DE DICIEMBRE DE 2015.
+
+###### ARTICULO TERCERO.
+
+La "LVI" Legislatura elegirá a los nuevos titulares de las dependencias o ratificará a los actuales durante el mes de septiembre del segundo año de su ejercicio constitucional.
+
+G.G. 21 DE JULIO DE 2006.
+
+DECRETO NÚMERO 240, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 179, 180, 181, 182, 183, 184, 185, 186 Y 187 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 470 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
