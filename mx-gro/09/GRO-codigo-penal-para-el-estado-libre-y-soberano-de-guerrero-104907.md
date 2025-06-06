@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-05-30"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2047,7 +2047,13 @@ III. Quien posea, reproduzca, ofrezca, almacene, distribuya, venda, compre, rent
 
 IV. Quien financie cualquiera de las actividades descritas en las fracciones anteriores.
 
-Se impondrá pena de seis a diez años de prisión y de seiscientos a mil días multa, al sujeto activo de los delitos previstos en las fracciones I y II. Se impondrá pena de ocho a doce años de prisión y de ochocientos a mil doscientos mil días multa, al autor de los delitos previstos en las fracciones III y IV. En todos los casos se decomisarán los instrumentos del delito.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+Se impondrá pena de ocho a doce años de prisión y de mil a mil doscientas veces de la Unidad de Medida y Actualización (UMA), al sujeto activo de los delitos previstos en las fracciones I y II. Se impondrá pena de diez a catorce años de prisión y de mil doscientas a mil cuatrocientas veces de la Unidad de Medida y Actualización (UMA), al autor de los delitos previstos en las fracciones III y IV. En todos los casos se decomisarán los instrumentos del delito.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2016)</small>
 
@@ -2146,6 +2152,10 @@ A quien coaccione a una persona menor de dieciocho años de edad o que no tenga 
 A quien solicite, gestione, oferte o induzca la cohabitación forzada, o se beneficie de ésta, se le aplicarán de tres a diez años de prisión y multa de ciento cincuenta a quinientas veces el valor diario de la unidad de medida y actualización.
 
 Si el autor es pariente de la víctima por consanguinidad en línea recta ascendente o colateral hasta el cuarto grado, o por afinidad, se le impondrá hasta un tercio más de las sanciones previstas en los dos supuestos anteriores de este artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+Las penas previstas en los párrafos anteriores se aumentarán hasta en un tercio, en su mínimo y en su máximo, sí la victima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2024)</small>
 
@@ -2961,6 +2971,24 @@ I. Utilice energía eléctrica o cualquier otro fluido, o
 
 II. Se apodere de una cosa mueble de su propiedad, si ésta se encuentra en poder de otra persona por cualquier título legítimo.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+###### Artículo 224 Bis.
+
+Rapiña
+
+Cometa el delito de rapiña quien, con violencia o sin ella, se apodere de una cosa mueble ajena, aprovechando la situación de confusión o vulnerabilidad causada por:
+
+I. Un catástrofe de origen natural o antrópico, incluyendo fenómenos astronómicos, geológicos, hidrometeorológicos, químicos o sanitarios, ya sea ocurran de forma aislada o concatenada.
+
+II. Un accidente terrestre, aéreo o marítimo, o
+
+III. La consternación derivada de una desgracia privada que afecte al ofendido o a su familia.
+
+La persona responsable del delito de rapiña será sancionada conforme a las mismas penas previstas por el artículo 223 de este código.
+
+El delito se considerará consumado desde el momento en que la persona tenga en su poder la cosa mueble, aun cuando la abandone posteriormente o sea desapoderada de ella. Si la cosa mueble se encuentra en el interior de un inmueble, el delito se consumará al momento de sustraerla del mismo.
+
 ###### Artículo 225.
 
 Robo de uso
@@ -2997,11 +3025,25 @@ VII. Por los dueños, dependientes, encargados o empleados de empresas o estable
 
 VIII. Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daños a terceros. Si el delito lo comete una persona, que en calidad de servidor público, labore en la dependencia en la que se cometió el robo, se le impondrá, además, destitución e inhabilitación de uno a cinco años para desempeñar otro empleo, cargo o comisión públicos.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+###### Artículo 227 Bis.
+
+Agravantes del delito de rapiña
+
+Las penas previstas para el delito de rapiña, se aumentará (sic) hasta en una mitad cuando el delito se cometa:
+
+I.- Por quien dirija, organice o incite a oras (sic) personas a introducirse en el domicilio de una persona jurídica colectiva, sea de carácter público o privado o en inmuebles destinados a actividades comerciales, industriales o de prestación de servicios, para cometer el delito de rapiña, y
+
+II. Por una persona servidora pública, en cuyo caso también se impondrá destitución del empleo, cargo o comisión, así como inhabilitación para desempeñar otro, por un periodo igual al de la pena de prisión impuesta.
+
 ###### Artículo 228.
 
 Agravantes genéricas
 
-Además de las penas previstas en el artículo 223, se impondrán de dos a seis años, cuando el robo se cometa:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2025)</small>
+
+Además de las penas previstas en el artículo 223, se impondrá de dos a seis años, cuando el robo se cometa;
 
 I. En lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles;
 
@@ -3011,7 +3053,7 @@ III. En una oficina bancaria, recaudadora, u otra en que se conserven caudales o
 
 IV. Encontrándose la víctima en un vehículo particular o de transporte público;
 
-V. Aprovechando la situación de confusión causada por una catástrofe, desorden público o la consternación que una desgracia privada cause al ofendido o a su familia;
+V. (DEROGADA, P.O. 6 DE JUNIO DE 2025)
 
 VI. Por quien haya sido o sea miembro de algún cuerpo de seguridad pública o personal operativo de empresas que presten servicios de seguridad privada, aunque no esté en servicio;
 
@@ -5612,3 +5654,49 @@ PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su pub
 SEGUNDO. Remítase a la titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y désele difusión en el portal Web del H. Congreso del Estado y en sus redes sociales, para conocimiento general y efectos legales procedentes.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 223, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO Y SE ADICIONA UN PÁRRAFO DEL ARTÍCULO 173 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 224 BIS y 227 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 499".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito de robo y por virtud de las presentes reformas, se denomina, penaliza o agrava como rapiña, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos afectados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia, el juez podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+TERCERO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+CUARTO. Remítase a la persona Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales correspondientes.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la página WEB del Congreso del Estado y en dos diarios de mayor circulación en la entidad para su conocimiento general.
+
+SEXTO.- Con la promulgación del presente Decreto, se deroga cualquier norma o disposición que le sea contraria.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228, POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 177 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
