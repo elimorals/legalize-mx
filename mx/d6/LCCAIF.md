@@ -4,7 +4,7 @@ identifier: "LCCAIF"
 country: "mx"
 rank: "ley"
 publication_date: "1960-12-31"
-last_updated: "2014-12-29"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCAIF"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCIÓN EN MÉXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1960.
 
@@ -42,13 +42,11 @@ LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDE
 
 Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-Se autoriza al Gobierno Federal para que por conducto del Banco de México efectúe la siguiente aportación a la Asociación Internacional de Fomento hasta por el equivalente en Derechos Especiales de Giro, que a continuación se indica:
-
-a) 66´140,000 (sesenta y seis millones ciento cuarenta mil), por concepto de suscripción adicional correspondiente a la Decimosexta Reposición de Capital, cantidad que se adicionará a las suscripciones anteriores efectuadas por nuestro país.
+Se Autoriza al Gobierno Federal efectuar una aportación a la Asociación Internacional de Fomento hasta por el equivalente a 17,000,000 (diecisiete millones) de dólares de los Estados Unidos de América, correspondiente a la vigésima reposición de recursos. Esta cantidad se debe adicionar a las aportaciones anteriores efectuadas por nuestro país.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -92,9 +90,11 @@ En ningún caso los Tribunales dictarán providencias precautorias sobre los bie
 
 Los funcionarios y empleados de la Asociación Internacional de Fomento, así como las propiedades y bienes de este Organismo, sus archivos y sus comunicaciones oficiales, disfrutarán de las inmunidades, privilegios y exenciones tributarias a que se refiere el Texto del Convenio aprobado por los Directores Ejecutivos del Banco Internacional de Reconstrucción y Fomento el 26 de enero de 1960.
 
+> <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 11.
 
-El Gobierno Federal requerirá la autorización expresa del Congreso de la Unión para aceptar modificaciones a la suscripción de México a la Asociación Internacional de Fomento, aceptar enmiendas al Convenio respectivo, hacer préstamos a este Organismo y separarse del mismo.
+El Gobierno Federal requiere exclusivamente de la aprobación de la Cámara de Senadores del Congreso de la Unión, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Constitutivo de la Asociación Internacional de Fomento. Esto de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TRANSITORIO
 
@@ -195,3 +195,9 @@ Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refie
 D.O.F. 29 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA LEY QUE ESTABLECE BASES PARA LA EJECUCIÓN EN MÉXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DE LA ASOCIACIÓN INTERNACIONAL DE FOMENTO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
