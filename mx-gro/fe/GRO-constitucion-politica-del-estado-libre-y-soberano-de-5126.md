@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-05-30"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -1027,7 +1027,13 @@ Resultará electo Diputado al Congreso del Estado el candidato que una vez reali
 
 1. Ante la ausencia definitiva de un Diputado, se procederá como sigue:
 
-I. De un Diputado de mayoría relativa la vacante será cubierta por el suplente de la fórmula electa. A falta de ambos se notificará al Consejo General del Instituto Electoral y de Participación Ciudadana para que convoque a elecciones extraordinarias;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE JUNIO DE 2025)</small>
+
+I. De un Diputado de mayoría relativa, la vacante será cubierta por el suplente de la fórmula electa. A falta de ambos, se procederá conforme a lo siguiente:
+
+a) Si la ausencia ocurre en el primer año del ejercicio constitucional de la Legislatura, se hará del conocimiento al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero para que convoque a elecciones extraordinarias, y
+
+b) Si la ausencia ocurre después del primer año del ejercicio constitucional de la Legislatura, de inmediato se hará del conocimiento al partido político que postuló a la fórmula de Diputados ausentes para que dentro de un plazo que no deberá exceder de quince días hábiles contados a partir del día siguiente al de la notificación, proponga una terna al Congreso formada por personas del mismo género al que corresponda la vacante, quienes deberán cumplir los requisitos constitucionales y legales para ser Diputado, y siguiendo el trámite que corresponda, el Pleno con el voto de las dos terceras partes de las Diputadas y Diputados presentes, dentro de un lapso de hasta veinte días naturales posteriores al envío de la terna, nombrará a la persona que ocupará la curul por el resto del periodo legislativo.
 
 II. De un Diputado de representación proporcional, será cubierta por el suplente de la fórmula. Si la vacante se presenta respecto de la fórmula completa será cubierta por aquella fórmula de candidatos del mismo partido que siga en el orden de la lista respectiva;
 
@@ -2827,6 +2833,10 @@ b) Fiscalía Especializada en Combate a la Corrupción; y
 
 c) Fiscalía especializada en materia de desaparición forzada y búsqueda de personas desaparecidas.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+
+d) Fiscalía especializada contra el secuestro y combate a la extorsión.
+
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IV. Fiscalías especiales y regionales;
@@ -4107,7 +4117,15 @@ e. La elaboración de un informe anual que contenga los avances y resultados del
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
-Los Ayuntamientos deberán elaborar un programa municipal en la materia y coordinarse con las autoridades estatales competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción en los términos que establezca la Ley del Sistema Estatal y Municipal Anticorrupción.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO [N. DE E. PERTENECIENTE A LA FRACCIÓN III], P.O. 6 DE JUNIO DE 2025)</small>
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2025)</small>
+
+IV. Los Ayuntamientos deberán elaborar un programa municipal y coordinarse con las autoridades del ámbito estatal para la prevención y sanción, en su caso, de responsabilidades administrativas por hechos de corrupción, en los términos que señale la ley.
+
+[N. DE E. PERTENECE A LA FRACCIÓN IV, P.O. 6 DE JUNIO DE 2025)
+
+Asimismo, deberá instalar su Sistema Municipal Anticorrupción, el cual será la instancia de coordinación y coadyuvancia con el Sistema Estatal que concurrentemente tendrá por objeto establecer principios, bases generales, políticas públicas, acciones y procedimientos en la prevención, detección y sanción de faltas administrativas, actos y hechos de corrupción, así como coadyuvar con las autoridades competentes en la fiscalización y control de recursos públicos en los términos que establezca la Ley del Sistema Estatal Anticorrupción de Guerrero.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -5588,3 +5606,75 @@ SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Const
 TERCERO. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
 
 CUARTO. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 782 POR EL QUE SE ADICIONA UNA FRACCIÓN IV Y SE DEROGA EL PÁRRAFO ÚLTIMO DE LA FRACCIÓN III, DEL ARTÍCULO 198 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente, y
+
+###### ARTÍCULO CUARTO.
+
+Emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 783 QUE REFORMA LA FRACCIÓN I DEL NUMERAL 1 DEL ARTÍCULO 47 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, RELACIONADO CON LAS AUSENCIAS DEFINITIVAS DE DIPUTADOS DE MAYORÍA RELATIVA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+La presente adición constitucional entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 734 POR EL QUE SE ADICIONA UN INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 140 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, RELATIVO A LA FISCALÍA ESPECIALIZADA CONTRA EL SECUESTRO Y COMBATE A LA EXTORSIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos del artículo 199, numeral 1, fracción III y 67 párrafo tercero, ambos de la Constitución Política del Estado Libre y Soberano de Guerrero en relación con el diverso 295 de la Ley Orgánica del Poder Legislativo del Estado en vigor, remítase el presente Decreto a los Ayuntamientos de la Entidad para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez acontecida la circunstancia prevista en el artículo 199, numeral 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, procédase de inmediato a formular la declaración correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Emitida la declaratoria referida en el punto que antecede, de manera inmediata remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos constitucionales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+La presente reforma constitucional entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado Libre y Soberano de Guerrero deberá realizar las adecuaciones legislativas que correspondan a la Ley Orgánica de la Fiscalía General del Estado de Guerrero, a efecto de armonizar el texto constitucional, dentro de los noventa días posteriores a la entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
