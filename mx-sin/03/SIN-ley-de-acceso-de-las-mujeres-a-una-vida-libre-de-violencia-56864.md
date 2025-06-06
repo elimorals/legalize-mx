@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2025-02-24"
+last_updated: "2025-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -193,9 +193,9 @@ XXII. Protocolo Alba: El Protocolo de Atención, Reacción, Coordinación y Cola
 
 XXIII. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2025)</small>
 
-XXIV. Noviazgo: Es el periodo durante el cual dos personas que se sienten atraídas mutuamente y no están en matrimonio o concubinato, mantienen una relación sentimental con el objetivo de avanzar en el conocimiento mutuo;
+XXIV. Noviazgo: Es un acto de voluntad transitorio entre dos personas que mantienen una relación sentimental por tiempo indefinido, el cual les brinda la oportunidad del conocimiento mutuo y que presupone el propósito de tener una relación permanente o legalmente constituida.
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2025)</small>
 
@@ -619,11 +619,11 @@ El Gobierno del Estado y los Ayuntamientos coadyuvarán con el Gobierno Federal 
 
 ### CAPÍTULO VI. DE LA VIOLENCIA EN EL NOVIAZGO
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2025)</small>
 
 ###### Artículo 24 Bis.
 
-La violencia en el noviazgo son todos los actos realizados por una de las partes en contra de la otra, dentro de una relación sentimental, mediante los cuales, se presenten ataques intencionales de tipo sexual, físico o psicológico de manera forzada en la relación, con el objeto de controlar, someter y obligar a la persona a realizar diversos actos en contra de su voluntad.
+La violencia en el noviazgo son todas las acciones o conductas intencionales, que de manera directa e indirecta generan daño o sufrimiento, por cualquier tipo de violencias, por una de las partes en contra de la otra, con quien se tenga o se haya tenido una relación sentimental, con el objeto de presionar, manipular, maltratar, humillar, dominar, agredir, hostigar, controlar, someter u obligar a realizar diversos actos en contra de la voluntad de una de las partes.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -2134,3 +2134,9 @@ La Secretaría de las Mujeres expedirá las normas a las que deberá sujetarse e
 CUARTO. El Poder Ejecutivo deberá realizar las acciones necesarias para asignar una partida presupuestaria en la Ley de Ingresos y Presupuesto de Egresos de cada ejercicio fiscal, a fin de garantizar la entrega del apoyo económico a que se refiere el presente Decreto.
 
 QUINTO. Se derogan todas las disposiciones que contravenga (sic) a lo establecido en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 115 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA DEL ARTÍCULO 10, LA FRACCIÓN XXIV Y EL ARTÍCULO 24 BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
