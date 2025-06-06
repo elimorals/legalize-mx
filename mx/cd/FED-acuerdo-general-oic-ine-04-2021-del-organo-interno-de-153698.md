@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-oic-ine-04-2021-del-organo-interno-de-153698"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-12-27"
-last_updated: "2023-02-09"
+last_updated: "2025-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2021-12-17"
 ---
 # ACUERDO GENERAL OIC-INE/04/2021 DEL ORGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LOS LINEAMIENTOS QUE REGULAN LA PRESENTACION DE LAS DECLARACIONES DE SITUACION PATRIMONIAL Y DE INTERESES, ASI COMO LAS CONSTANCIAS DE PRESENTACION DE DECLARACIONES FISCALES; EL PROCESO DE VERIFICACION DE LA EVOLUCION PATRIMONIAL; Y LA TRANSMISION DE PROPIEDAD U OFRECIMIENTO DE USO DE BIENES EN FORMA GRATUITA A LAS PERSONAS SERVIDORAS PUBLICAS, EN EL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO DEL ACUERDO Y TRANSITORIO SEGUNDO DE LOS LINEAMIENTOS QUE REGULAN LA VERIFICACIÓN DE EVOLUCIÓN PATRIMONIAL EN EL INSTITUTO NACIONAL ELECTORAL, PUBLICADOS EN EL D.O.F. DE 6 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EXPIDEN LOS LINEAMIENTOS QUE REGULAN LA VERIFICACIÓN DE EVOLUCIÓN PATRIMONIAL EN EL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 6 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EMITEN LOS LINEAMIENTOS QUE REGULAN LA PRESENTACIÓN DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES, ASÍ COMO LAS CONSTANCIAS DE PRESENTACIÓN DE DECLARACIONES FISCALES; EL PROCESO DE VERIFICACIÓN DE LA EVOLUCIÓN PATRIMONIAL; Y LA TRANSMISIÓN DE PROPIEDAD U OFRECIMIENTO DE USO DE BIENES EN FORMA GRATUITA A LAS PERSONAS SERVIDORAS PÚBLICAS, EN EL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2025 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 27 de diciembre de 2021.
 
@@ -742,3 +742,15 @@ QUINTO. Conforme a lo dispuesto por el artículo 82, inciso xx) del Reglamento I
 [...]
 
 En cumplimiento al resolutivo Cuarto de dicho acuerdo se publican los puntos resolutivos del Acuerdo General OIC-INE/02/2023 en el Diario Oficial de la Federación y las ligas donde puede ser consultado en su integridad el acuerdo y su anexo: en la Gaceta Electoral del Instituto Nacional Electoral localizable en la página electrónica https://www.ine.mx/gaceta-electoral-no-65/, asimismo, se encuentra localizable en la siguiente liga electrónica www.dof.gob.mx/2023/INE/ACUERDO_OIC-INE02-2023.pdf
+
+D.O.F. 6 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE EXPIDEN LOS LINEAMIENTOS QUE REGULAN LA VERIFICACIÓN DE EVOLUCIÓN PATRIMONIAL EN EL INSTITUTO NACIONAL ELECTORAL”.]
+
+Primero.- Los presentes lineamientos entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Con fundamento en el artículo 3, numeral 1, inciso g) del Reglamento de Sesiones del Consejo General del Instituto Nacional Electoral, publíquese este acuerdo en la Gaceta Electoral del Instituto Nacional Electoral, en la página de internet del Instituto Nacional Electoral, en la página de intranet en la sección relativa a este Órgano Interno de Control y en los estrados del propio Órgano Interno de Control, Lineamientos que entraran en vigor al día siguiente hábil de su publicación.
+
+Tercero.- Con la entrada en vigor de los presentes lineamientos, se abrogan los “Lineamientos que regulan la presentación de las declaraciones de situación patrimonial y de intereses, así como las constancias de presentación de declaraciones fiscales; el proceso de verificación de la evolución patrimonial; y la transmisión de propiedad u ofrecimiento de uso de bienes en forma gratuita a las personas públicas, en el Instituto Nacional Electoral” emitidos mediante Acuerdo General OIC-INE/04/2021
+
+Cuarto.- Los asuntos que se encuentren en trámite a la entrada en vigor de los presentes lineamientos, continuarán y serán resueltos, conforme a las normas vigentes al momento de su inicio.
