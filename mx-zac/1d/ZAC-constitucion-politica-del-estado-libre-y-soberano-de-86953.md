@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2025-01-14"
+last_updated: "2025-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2025.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -589,6 +589,12 @@ Para la atención de los conflictos laborales, los trabajadores y los patrones, 
 
 La función conciliatoria estará a cargo de un organismo descentralizado de la administración pública, el cual contará con personalidad jurídica y patrimonio propios, dotado con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, que se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento estará determinada en la Ley.
 
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 193/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2025)</small>
+
+EL ORGANISMO DESCENTRALIZADO TAMBIÉN TENDRÁ COMPETENCIA PARA CONOCER DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SINDICATOS DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y LOS MUNICIPIOS, Y CONOCERÁ DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS MISMOS.
+
 ###### Artículo 29.
 
 La autoridad ante la cual se haya ejercido el derecho de petición en los términos del artículo 8° de la Constitución Política de los Estados Unidos Mexicanos, tendrá la obligación de comunicar su acuerdo al peticionario dentro de los treinta días hábiles siguientes a la presentación del escrito, salvo lo dispuesto por la ley para casos especiales.
@@ -599,15 +605,21 @@ Para el ejercicio del derecho de acceso a la información, el Estado y los Munic
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
 
-l. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo, Judicial y de los Municipios, organismos autónomos, partidos políticos, fideicomisos, fondos públicos y asociaciones civiles, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito, estatal o municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo, Judicial y de los Municipios, organismos autónomos, partidos políticos, fideicomisos, fondos públicos y asociaciones civiles, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito, estatal o municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2025)</small>
+
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados señalados en la fracción anterior contarán con las facultades suficientes para su atención.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2025)</small>
+
+Por lo que hace a la información relacionada con los datos personales en posesión de los sujetos obligados, la ley determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2025)</small>
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos, que se sustanciarán en los términos que establezca la ley.
+IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes en la materia;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2016)</small>
 
@@ -617,23 +629,19 @@ VI. Las leyes determinarán la manera en que los sujetos obligados deberán hace
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2016)</small>
+VIII. (DEROGADA, P.O. 7 DE JUNIO DE 2025)
 
-VIII. El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, es un organismo público autónomo especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar la transparencia, y los derechos de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2025)</small>
 
-El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad; conocerá de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquiera de los sujetos obligados.
+IX. Los sujetos obligados señalados en la fracción I de este artículo deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales.
 
-Sus resoluciones serán vinculatorias, definitivas e inatacables para los sujetos obligados.
+Las leyes estatales en la materia determinarán las bases, principios generales y procedimientos para el ejercicio de tales derechos, así como la competencia de las autoridades de control interno y vigilancia, para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-La Ley establecerá la información que se considere reservada o confidencial.
+Los sujetos obligados se regirán por las leyes estatales en la materia, las que definirán la competencia de sus órganos internos de control u homólogos y que serán responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por la Constitución Federal, esta Constitución y la ley general en la materia.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 7 DE JUNIO DE 2025)
 
-El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, se integrará por tres Comisionados, de acuerdo al procedimiento que establezca la ley de la materia. Los comisionados del Instituto, no podrán tener otro empleo, cargo o comisión, con excepción de actividades en instituciones docentes, científicas o de beneficencia. Además, contará con un órgano interno de control que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos del instituto, mismo que será designado por la votación las dos terceras partes de los miembros presentes de la Legislatura del Estado.
-
-En su conformación se procurará la equidad de género.
-
-El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, tendrá un Consejo Consultivo integrado por cinco Consejeros, que serán designados por la Legislatura del Estado, mediante el procedimiento que establezca la Ley en la materia.
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
 ###### Artículo 30.
 
@@ -865,11 +873,19 @@ j) Todas las no reservadas al Instituto Nacional Electoral;
 
 k) Las delegadas por el Instituto Nacional Electoral, en los términos que señale la ley, y
 
-l) Las demás que determinen las leyes de la materia; y
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
+l) Las demás que determinen las leyes de la materia;
 
-XIV. El Instituto Electoral del Estado de Zacatecas, rendirá un informe de actividades a la Legislatura del Estado, en los términos que establezca la ley.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2025)</small>
+
+XIV. El Instituto Electoral del Estado de Zacatecas, rendirá un informe de actividades a la Legislatura del Estado, en los términos que establezca la ley, y
+
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 193/2025, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2025)</small>
+
+XV. EL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS TENDRÁ COMPETENCIA PARA CONOCER DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA Y LA PROTECCIÓN DE DATOS PERSONALES A CARGO DE LOS PARTIDOS POLÍTICOS LOCALES, TAMBIÉN CONOCERÁ DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS PARTIDOS POLÍTICOS DE LA ENTIDAD, EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY.
 
 ###### Artículo 39.
 
@@ -1643,9 +1659,7 @@ XLVII. Investigar por sí o a través de sus comisiones, el desempeño de los ay
 
 XLVIII. Legislar en materia de transparencia gubernamental, acceso a la información pública y protección de datos personales en posesión de los sujetos obligados, así como en materia de organización y administración homogénea de los archivos, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales en la materia y la presente Constitución;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
-
-XLIX. Nombrar a los comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, así como a los integrantes del Consejo Consultivo de dicha Comisión, en los términos establecidos en la ley; y
+XLIX. (DEROGADA, P.O. 7 DE JUNIO DE 2025)
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2020)</small>
 
@@ -2007,9 +2021,7 @@ XXXIV. Expedir los títulos profesionales de las personas que hayan hecho sus es
 
 XXXIV-A. Solicitar se convoque a consultas populares; y
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2020)</small>
-
-XXXIV-B. Objetar los nombramientos de los Comisionados del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales a que se refiere el artículo 29, por una sola ocasión debidamente sustentado, teniendo un plazo hasta de cinco días contados a partir de su designación, en los términos establecidos por esta Constitución y la ley en la materia.
+XXXIV-B. (DEROGADA, P.O. 7 DE JUNIO DE 2025)
 
 XXXV. Las demás que expresamente le señale la presente Constitución.
 
@@ -3205,7 +3217,9 @@ El ejercicio de los recursos que administren los entes públicos estatales y mun
 
 Se crea el Sistema Estatal Anticorrupción que será la instancia de coordinación entre las autoridades, órganos, organismos y tribunales competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la fiscalización y control de recursos públicos. La ley establecerá las bases para el cumplimiento de su objeto, la cual se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, el titular del órgano interno de control del Poder Ejecutivo del Estado, por el Presidente del Tribunal de Justicia Administrativa del Estado de Zacatecas y del titular del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales; así como por un representante del Tribunal Superior de Justicia y otro del Comité de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2025)</small>
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado, de la Fiscalía Especializada en Combate a la Corrupción, el titular del órgano interno de control del Poder Ejecutivo del Estado, por el Presidente del Tribunal de Justicia Administrativa del Estado de Zacatecas y un representante del Tribunal Superior de Justicia y otro del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley;
 
@@ -3305,11 +3319,11 @@ Asimismo, se integrará con los ingresos provenientes del impuesto sobre diversi
 
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2025)</small>
 
 ###### Artículo 147.
 
-Para los efectos de las responsabilidades a que se refiere esta Constitución, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los integrantes, del Instituto Electoral del Estado, de la Comisión de Derechos Humanos del Estado, del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, de la Fiscalía General de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado de Zacatecas, a los Magistrados de otros tribunales y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal, paramunicipal e intermunicipal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que se refiere esta Constitución, se reputará como servidores públicos a los representantes de elección popular estatales y municipales; a los miembros del Poder Judicial del Estado; a los funcionarios y empleados de los Poderes Legislativo y Ejecutivo; a los integrantes, del Instituto Electoral del Estado, de la Comisión de Derechos Humanos del Estado, de la Fiscalía General de Justicia del Estado, del Tribunal de Justicia Administrativa del Estado de Zacatecas, a los Magistrados de otros tribunales y, en general, a toda persona que desempeñe algún empleo, cargo o comisión de cualquier naturaleza al servicio de la Administración Pública centralizada y paraestatal, municipal, paramunicipal e intermunicipal, quienes serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -4432,3 +4446,41 @@ La Legislatura del Estado y los órganos constituidos que se encuentren en funci
 Décimo Cuarto. El Ejecutivo del Estado, a través del Secretario de Finanzas, podrá realizar las adecuaciones presupuestarias de acuerdo a la disponibilidad financiera, con cargo a los ingresos excedentes de libre disposición, para cubrir los requerimientos que deriven de la implementación de la presente reforma.
 
 Décimo Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 124.- REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas. Se derogan todas las disposiciones que se opongan al presente instrumento legislativo.
+
+SEGUNDO. Conforme a la Ley General de Transparencia y Acceso a la Información Pública, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, quedará extinto el 15 de junio de 2025.
+
+La Legislatura del Estado, previo al 15 de junio del 2025, deberá aprobar la legislación secundaria que garantice el derecho de acceso a la información, la protección de datos personales en posesión de sujetos obligados y las facultades, competencias y obligaciones que asumirán las autoridades en esta materia.
+
+Dicha legislación secundaria, otorgará a las nuevas autoridades garantes, las atribuciones en materia de medios de impugnación, así como los procedimientos relativos al cumplimiento de las obligaciones de transparencia, previstos en la Plataforma Nacional de Transparencia. Reservando para el Órgano Interno de Control del Poder Ejecutivo del Estado de Zacatecas las relativas a la promoción del Derecho a la Transparencia, el Acceso a la Información y la Protección de Datos Personales en la entidad.
+
+TERCERO. Con la entrada en vigor del presente Decreto, se crea la Comisión de Transición en materia de transparencia del Estado de Zacatecas integrada por las comisionadas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales que se encuentren en funciones previo a la entrada en vigor de este Instrumento y las personas titulares de la Secretaría de Finanzas, Secretaría de Administración y la Secretaría de la Función Pública, del Gobierno del Estado de Zacatecas y será presidida por la persona titular de esta última dependencia.
+
+La Comisión de Transición en materia de transparencia del Estado de Zacatecas acordará y coordinará las acciones encaminadas a realizar una transición ordenada de las facultades, obligaciones, presupuestos, recursos materiales, tecnológicos, financieros, archivos y capital humano que se realicen con motivo del presente Decreto.
+
+Dicha Comisión se extinguirá concluida su función.
+
+CUARTO. Los derechos laborales de las personas servidoras públicas del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, serán respetados, en términos de la legislación aplicable; los recursos humanos con los que cuente el Instituto podrán pasar a formar parte de la Secretaría de la Función Pública, cuando corresponda, y el resto será liquidado conforme a la ley.
+
+QUINTO. Para llevar a cabo las liquidaciones y la extinción de las obligaciones fiscales, financieras y laborales del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, se deberá gestionar ante la Secretaría de Finanzas del Gobierno del Estado, la recalendarización de los recursos presupuestales aprobados para el ejercicio fiscal 2025, conforme a lo establecido en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios.
+
+En caso de existir remanentes de los recursos presupuestales aprobados para dicho ejercicio fiscal, estos deberán ser transferidos a la Secretaría de Finanzas del Estado, a fin de solventar los compromisos adquiridos conforme a las nuevas atribuciones asignadas a la Secretaría de la Función Pública del Gobierno del Estado de Zacatecas.
+
+SEXTO. Todos los recursos materiales, archivos, plataformas, bases de datos, sistemas informáticos con los que cuente el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales serán entregados a la Secretaría de la Función Pública del Gobierno del Estado de Zacatecas a más tardar el 15 de junio del 2025.
+
+Dicha entrega se sujetará a lo establecido conforme al régimen de responsabilidades correspondiente.
+
+En materia de archivos en posesión del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales también se entregará una copia fiel para el resguardo a la Dirección General de Archivos del Gobierno del Estado de Zacatecas.
+
+SÉPTIMO. Previo a su extinción, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales deberá entregar a la Secretaría de Finanzas la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al primer y segundo trimestre del ejercicio fiscal en curso con cierre al 15 de junio del 2025, de conformidad con las disposiciones jurídicas aplicables.
+
+OCTAVO. El Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, transferirá a más tardar el 15 de junio del 2025, los expedientes y procedimientos en curso a la Secretaría de la Función Pública del Gobierno del Estado de Zacatecas para que en un plazo de 30 días hábiles dicha institución los transfiera a las nuevas autoridades garantes conforme a las competencias que les otorgue la legislación secundaria.
+
+NOVENO. Los expedientes y procedimientos iniciados ante el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales con anterioridad a la vigencia del presente Decreto, se sustanciarán conforme a los ordenamientos vigentes en el momento de su inicio por la Secretaría de la Función Pública, por lo que los términos y plazos quedarán suspendidos durante 30 días naturales contados a partir de la extinción del citado Instituto.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos personales o cualquier otra relativa al ejercicio de sus funciones, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría de la Función Pública.
