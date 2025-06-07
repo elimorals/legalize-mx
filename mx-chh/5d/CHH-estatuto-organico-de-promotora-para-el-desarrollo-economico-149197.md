@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-de-promotora-para-el-desarrollo-economico-149
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-21"
-last_updated: "2021-04-21"
+last_updated: "2025-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 ESTATUTO ORGÁNICO DE PROMOTORA PARA EL DESARROLLO ECONÓMICO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Número 32 del Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de abril de 2021.
 
@@ -586,3 +586,25 @@ LIC. DENISSE ALEXA GUTIÉRREZ MORALES
 PROMOTORA PARA EL DESARROLLO ECONÓMICO DE CHIHUAHUA COORDINADOR GENERAL
 
 ING. FABIÁN ALEJANDRO SANTANA MÁRQUEZ
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE PROMOTORA PARA EL DESARROLLO ECONÓMICO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 7 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE PROMOTORA PARA EL DESARROLLO ECONÓMICO DE CHIHUAHUA”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo mediante el cual se expidió el Estatuto Orgánico de Promotora para el Desarrollo Económico de Chihuahua, publicado en el folleto anexo a la edición número 32 del Periódico Oficial del Estado de fecha 21 de abril del 2021.
+
+TERCERO. Inscríbase el presente Estatuto Orgánico en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda del Poder Ejecutivo del Estado de Chihuahua.
+
+CUARTO. Quedan sin efectos todos los acuerdos y demás disposiciones administrativas que se opongan al presente Acuerdo.
+
+QUINTO. En los casos no previstos en el presente Estatuto Orgánico y en los que se presente controversia en cuanto a su aplicación y observancia, será la persona titular de la Coordinación General quien determinará lo conducente.
+
+SEXTO. Para su mayor difusión, publíquese el presente Acuerdo en la página electrónica oficial del Organismo.
+
+SÉPTIMO. En tanto se elaboren y expidan los manuales de organización derivados del presente Estatuto Orgánico, la persona titular del Organismo queda facultado para resolver las cuestiones que conforme a dichos manuales deben regular el cabal funcionamiento del mismo.
