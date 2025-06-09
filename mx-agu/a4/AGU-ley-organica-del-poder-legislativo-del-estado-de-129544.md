@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2024-12-02"
+last_updated: "2025-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -2001,11 +2001,13 @@ Todas las Leyes, Decretos, Acuerdos o Reglamentos que expida el Congreso del Est
 
 Para lo cual, la Mesa Directiva remitirá la documentación respectiva al Titular del Poder Ejecutivo para su sanción, promulgación y publicación en el Periódico Oficial del Estado. Tratándose de esta Ley y sus Reglamentos, así como de los Decretos o Acuerdos en que no se requiera la sanción por parte del Titular del Poder Ejecutivo, dicha remisión será exclusivamente para los efectos de su publicación en el Periódico Oficial.
 
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 150.
 
-La Mesa Directiva mandará publicar las Leyes, Decretos y Acuerdos del Congreso del Estado en la Gaceta Parlamentaria, misma que deberá ser publicada después de cada período ordinario, extraordinario o de la Diputación Permanente. En ella se consignarán también los trabajos de las diversas comisiones y comités.
+La Secretaría General publicará la Gaceta Parlamentaria semanalmente, conteniendo los documentos establecidos en el artículo 188 del presente ordenamiento.
 
-La Mesa Directiva vigilará la publicación del Diario de Debates después de cada sesión, en el cual se consignarán sucintamente los hechos ocurridos en las sesiones ordinarias, extraordinarias o de la Diputación Permanente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 151.
 
@@ -2123,9 +2125,9 @@ VII. Supervisar y vigilar que se cumplan las políticas, lineamientos y acuerdos
 
 VIII. Informar trimestralmente a la Mesa Directiva en turno, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios parlamentarios, administrativos y financieros;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
 
-IX. La coordinación, elaboración, publicación, distribución y el adecuado archivo y resguardo tanto de los ejemplares de la Gaceta Parlamentaria del Congreso del Estado de Aguascalientes, como de los documentos remitidos para ser publicados en dicha gaceta; y
+IX. La coordinación, elaboración, publicación, distribución y el adecuado archivo y resguardo digital de los ejemplares de la Gaceta Parlamentaria del Congreso del Estado de Aguascalientes, así como de manera física los documentos remitidos para ser publicados en dicha gaceta; y
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2024)</small>
 
@@ -2347,11 +2349,11 @@ Si el delito se cometiera durante el receso o después de levantada la sesión, 
 
 La Gaceta Legislativa es el órgano oficial de difusión de las actividades del Poder Legislativo del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 187.
 
-La Gaceta Legislativa se publicará, en edición digital, la cual deberá estar disponible en la página de Internet oficial del Poder Legislativo del Estado.
+La Gaceta Legislativa se publicará exclusivamente en formato digital, según lo establecido en el artículo 150 del presente ordenamiento, la cual deberá estar disponible en la página de Internet oficial del Poder Legislativo del Estado.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
 
@@ -2359,13 +2361,21 @@ La Gaceta Legislativa se publicará, en edición digital, la cual deberá estar 
 
 Deberán publicarse íntegramente en la Gaceta Legislativa los siguientes documentos:
 
-I. Las comunicaciones oficiales o síntesis de las mismas que sean dirigidas al Poder Legislativo del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
 
-II. Las convocatorias, citatorios y el Proyecto de Orden del Día de las sesiones del Pleno;
+I. Síntesis de los oficios que sean dirigidos al Poder Legislativo del Estado de Aguascalientes;
 
-III. Las convocatorias, citatorios y los proyectos de Orden del Día de las reuniones de comisiones y de comités;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
 
-IV. Las iniciativas de ley, decretos y puntos de acuerdo legislativos presentadas ante el Poder Legislativo del Estado de Aguascalientes;
+II. Las convocatorias, citatorios y el Proyecto de Orden del Día de las sesiones ordinarias y extraordinarias del Pleno o de la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
+
+III. Las convocatorias, citatorios y los proyectos de Orden del Día de las sesiones ordinarias y extraordinarias de las comisiones legislativas;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
+
+IV. Las iniciativas de ley, decretos y puntos de acuerdo que sean turnados a las comisiones legislativas y resueltos por el Poder Legislativo del Estado de Aguascalientes;
 
 V. Las actas, informes, resoluciones, acuerdos, declaraciones y pronunciamientos del Pleno, la Mesa y las comisiones del Poder Legislativo del Estado de Aguascalientes
 
@@ -2373,13 +2383,21 @@ VI. Los dictámenes emitidos por comisiones y comités, así como sus votos part
 
 VII. Las convocatorias a mesas de trabajo y foros para consultar con la sociedad sobre el trabajo legislativo;
 
-VIII. Las solicitudes de licencia de los diputados y diputadas;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
 
-IX. El registro de asistencia e inasistencia de los diputados y diputadas a las sesiones del Pleno;
+VIII. Las solicitudes de licencia de las personas legisladoras;
 
-X. El registro de asistencia e inasistencia de los diputados y diputadas a las reuniones de comisiones y de comités; y
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
 
-XI. Los demás que ordene la asamblea, la Junta de Coordinación Política o la Mesa Directiva, o bien los que autorice directamente la persona titular de la Secretaria General.
+IX. El registro de asistencia e inasistencia de las personas legisladoras a las sesiones del Pleno o de la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
+
+X. El registro de asistencia e inasistencia de las personas legisladoras a las sesiones de las comisiones; y
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2025)</small>
+
+XI. Los demás que ordene la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2024)</small>
 
@@ -2646,3 +2664,11 @@ P.O. 2 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 196.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
