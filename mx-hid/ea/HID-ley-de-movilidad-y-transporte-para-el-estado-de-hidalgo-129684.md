@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2024-10-15"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -767,6 +767,10 @@ V. Eficiencia. Optimizar los desplazamientos ágiles y asequibles maximizando lo
 
 VI. Equidad. Equiparar las oportunidades de la población para alcanzar un efectivo ejercicio de su derecho a la movilidad, poniendo especial énfasis en grupos en desventaja física, social y económica, promoviendo el acceso al transporte de calidad, seguro y eficiente, con políticas públicas incluyentes y acciones para eliminar la violencia contra las mujeres por razón de género y el acoso sexual;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+VI Bis. Habitabilidad. Generar condiciones para que las vías cumplan con las funciones de movilidad y creación de espacio público de calidad, a través de la interacción social, la diversidad de actividades y la articulación de servicios, equipamientos e infraestructura;
+
 VII. Multimodalidad. Ofrecer a los diferentes grupos de usuarios opciones de movilidad y modos de transporte integrados, que proporcionen disponibilidad, rapidez, accesibilidad, seguridad e interconexión;
 
 VIII. Resiliencia. Movilidad y transporte con capacidad para soportar situaciones fortuitas o de fuerza mayor, y una recuperación de bajo costo para la sociedad y al medio ambiente;
@@ -793,7 +797,13 @@ I. Integración de los Servicios de Transporte: Promoción e implementación de 
 
 II. Uso eficiente del Espacio Público: Impulso a programas de calles seguras, funcionales, accesibles y cómodas para todas las personas usuarias, siempre respetando la jerarquía de movilidad. Como espacio prioritario de tránsito y convivencia, debe ofrecer una buena experiencia de viaje, ya sea que las personas caminen, viajen en bicicleta, usen el transporte público o circulen en su automóvil.
 
-Procurar en las vialidades primarias, establecer el concepto de «Calle para todos» con espacios diseñados bajo criterios de seguridad vial, diseño universal y eficiencia para cada tipo de persona usuaria de la vía;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+Procurar en las vialidades primarias, establecer el concepto de «Calle para todos» con espacios diseñados bajo criterios de seguridad vial, diseño universal, habitabilidad y eficiencia para cada tipo de persona usuaria de la vía; En el diseño de la red vial, urbana y carretera se deberá considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+La conducción de las autoridades competentes sobre las vías debe fortalecer ambas funciones, a través de criterios diferenciados en función de la jerarquía de la movilidad, tomando en consideración las necesidades diferenciadas de los grupos en situación de vulnerabilidad;
 
 III. Movilidad con visión megalopolitana: Enfocar la movilidad hacia la megalópolis, con el propósito de generar que los tramos de viaje con cualquier finalidad sean más eficientes y accesibles.
 
@@ -2049,9 +2059,17 @@ XXXII. Impedir de cualquier forma que el Centro General de Gestión de Operacion
 
 XXXIII. Incurrir, efectuar o fomentar prácticas monopólicas en términos del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXXIV. Condicionar o negar el servicio a las personas con discapacidad que para deambular requieran de llevar consigo animales especialmente adiestrados o aparatos; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-XXXV. Colocar o difundir propaganda electoral en los vehículos o unidades de transporte público, cualquiera que sea su diseño o presentación.
+XXXIV. Condicionar o negar el servicio a las personas con discapacidad que para deambular requieran de llevar consigo animales especialmente adiestrados o aparatos;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+XXXV. Colocar o difundir propaganda electoral en los vehículos o unidades de transporte público, cualquiera que sea su diseño o presentación, y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+XXXVI. Utilizar teléfonos celulares o cualquier dispositivo electrónico que cause distracciones al conducir vehículos o unidades de transporte público, que pueda poner en riesgo la integridad de las personas pasajeras o transeúntes, salvo que se realice mediante tecnología de manos libres.
 
 ### CAPITULO XIX. DE LOS USUARIOS
 
@@ -3087,9 +3105,15 @@ XXVIII. Cuando el concesionario, permisionario o el titular de una autorización
 
 XXIX. Por utilizar combustible distinto al especificado por el fabricante; salvo que se cuente con la autorización de la Autoridad Competente para las modificaciones para el uso de otro tipo de combustible;
 
-XXX. Cuando la unidad o sus partes, se encuentren en notorio mal estado o en condiciones físico- mecánicas que signifiquen un riesgo para los usuarios, de acuerdo a las determinaciones de la Autoridad Competente; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-XXXI. Por las demás causas que señalen esta Ley y el Reglamento respectivo.
+XXX. Cuando la unidad o sus partes, se encuentren en notorio mal estado o en condiciones físicomecánicas que signifiquen un riesgo para los usuarios, de acuerdo a las determinaciones de la Autoridad Competente;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+XXXI. Cuando el conductor de la unidad de transporte público, sea sorprendido utilizando teléfono celular o cualquier otro dispositivo electrónico que cause distracciones al conducir y que pueda poner en riesgo la integridad de las personas pasajeras o transeúntes, salvo que se realice mediante tecnología de manos libres, y
+
+XXXII. Por las demás causas que señalen esta Ley y el Reglamento respectivo.
 
 ###### Artículo 271.
 
@@ -3297,9 +3321,9 @@ IX. A quien transgreda de cualquier manera las condiciones de prestación del se
 
 X. Se les impondrá multa por el importe de setenta y cinco hasta cien veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 154 fracciones IX y XXXI, 233, 270 fracciones XV, XXII, XXIII, XXIV y XXVIII;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-XI. Se impondrá multa de cuarenta y cinco hasta sesenta y cinco veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 79, 80, 94 fracción V, 95, 134, 138, 147, 151 fracciones I, III, VI, VII, VIII, XI, XIII, XIV, XVII y XX, 154 fracciones II, VI, VII, XIII, XIV, XVIII, XX, XXI y XXXV, 215 fracción II, 239, 240, 251 y 270 fracciones XVI, XVII y XXV;
+XI. Se impondrá multa de cuarenta y cinco hasta sesenta y cinco veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos: 79, 80, 94 fracción V, 95, 134, 138, 147, 151 fracciones I, III, VI, VII, VIII, XI, XIII, XIV, XVII y XX, 154 fracciones II, VI, VII, XIII, XIV, XVIII, XX, XXI, XXXV y XXXVI, 215 fracción II, 239, 240, 251 y 270 fracciones XVI, XVII y XXV;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3562,3 +3586,9 @@ P.O. 15 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1038 POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 249.- LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
