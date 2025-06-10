@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-02-27"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -66,6 +66,10 @@ IV.- La extensión de actitudes solidarias y responsables de la población en la
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
 V.- El acceso a servicios de salud y de asistencia social que satisfaga eficaz y oportunamente las necesidades de la población; con pleno respeto a la autonomía de la persona, quien tendrá derecho a otorgar su consentimiento informado.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+Tratándose de casos de violencia familiar, el consentimiento informado será recabado procurando un enfoque de perspectiva de género;
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
 
@@ -374,6 +378,10 @@ I Bis.- Garantizar la atención primaria de la salud con personal médico de cal
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2023)</small>
 
 I Ter.- Promover, difundir e impulsar programas que integren el uso y aprovechamiento de las tecnologías de la información y las comunicaciones para ampliar la cobertura y acceso a los servicios de salud;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+I Quater.- Otorgar atención prioritaria a las personas víctimas de violencia familiar en los casos de urgencia médica, procurando el enfoque de perspectiva de género. La atención se brindará de forma integral y con la oportuna referencia a los servicios especializados de acuerdo con los protocolos establecidos por cada institución del Sistema Estatal de Salud;
 
 II.- Ejercer la vigilancia y control de la sanidad en los límites con otras Entidades Federativas;
 
@@ -2800,5 +2808,11 @@ P.O. 17 DE SEPTIEMBRE DE 2024.
 P.O. 27 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 204 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 142 Y SE ADICIONA UN ARTÍCULO 140 BIS A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LAS PERSONAS USUARIAS DE ESTABLECIMIENTOS ESPECIALIZADOS EN ADICCIONES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 252 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN PRIORITARIA A LAS PERSONAS VÍCTIMAS DE VIOLENCIA FAMILIAR".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
