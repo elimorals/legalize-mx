@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2024-12-23"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -410,6 +410,42 @@ De la Retención
 ###### Artículo 24.
 
 En el caso de operaciones consignadas en escritura pública, los Notarios Públicos o Fedatarios, bajo su responsabilidad calcularán y retendrán el Impuesto referido y lo enterarán mediante declaración que se presentarádentro (sic) de los quince días siguientes a la fecha en que se firme la escritura, en las formas aprobadas por la Secretaría a través del SATQ. Quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2025)</small>
+
+La relevación a que se refiere el párrafo anterior operará, siempre que las personas físicas dedicadas a actividades empresariales declaren ante las y los Notarios Públicos o Fedatarios que el inmueble forma parte del activo de su actividad empresarial. Para tal efecto se deberá integrar al testimonio notarial la documentación siguiente:
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+I. Licencia de funcionamiento estatal vigente expedida por el SATQ;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+II. Acuse del aviso de enajenación de bienes inmuebles por personas físicas con actividad empresarial, expedido por el SATQ;
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO, P.O. 10 DE JUNIO DE 2025)</small>
+
+III. Acuse de recibo de la declaración anual correspondiente al último año calendario, o bien, tratándose del primer año calendario de actividad empresarial, se integrará cualquiera de los siguientes:
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+a) Copia de la constancia de inscripción en el Registro Federal de Contribuyentes;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+b) Copia de la cédula de identificación fiscal, o
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+c) Acuse único de inscripción en el Registro Federal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+Lo dispuesto en el párrafo anterior no exime a las personas físicas dedicadas a actividades empresariales de realizar el cálculo y entero correspondiente del impuesto referido, dentro de los quince días siguientes a la fecha en que se firme la escritura, cuando enajenen un inmueble que forme parte del activo de su actividad empresarial.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+Los Notarios Públicos o Fedatarios, relevados de la retención a que hace referencia este artículo, deberán informarlo mediante declaración que se presentará dentro de los quince días siguientes a la fecha en que se firme la escritura, en las formas aprobadas por la Secretaría a través del SATQ.
 
 Si para calcular el impuesto señalado, los contribuyentes o los notarios públicos atienden al valor del avalúo del bien objeto de la enajenación, practicado por las personas inscritas en el Registro de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo establecido en el siguiente artículo, deberán presentar la información relativa a los avalúos utilizados, en la declaración que corresponda, en términos de este artículo.
 
@@ -1554,3 +1590,11 @@ TERCERO. Las personas físicas, morales y unidades económicas que tengan el car
 CUARTO. Para el cumplimiento de lo previsto en el último párrafo del artículo 60 Octodecies, la Secretaría de Finanzas y Planeación dentro del plazo de 180 días naturales, contados a partir del inicio de la vigencia del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el Fideicomiso sin estructura denominado Fondo de Protección de Especies Marinas.
 
 QUINTO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 125 POR EL QUE SE ADICIONAN DIVERSAS PROPORCIONES NORMATIVAS AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
