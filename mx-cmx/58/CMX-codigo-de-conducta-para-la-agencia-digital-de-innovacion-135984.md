@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-para-la-agencia-digital-de-innovacion-135984
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-08"
-last_updated: "2019-05-08"
+last_updated: "2025-06-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135984&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-05-06"
 ---
 # CODIGO DE CONDUCTA PARA LA AGENCIA DIGITAL DE INNOVACION PUBLICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL QUE SE DA A CONOCER EL CÓDIGO DE CONDUCTA DE LA AGENCIA DIGITAL DE INNOVACIÓN PÚBLICA, PUBLICADO EN LA G.O. DE 10 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA PARA LA AGENCIA DIGITAL DE INNOVACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2025 (SIN EFECTOS).
 
 Código publicado al Número 86 de la Gaceta Oficial de la Ciudad de México, el miércoles 8 de mayo de 2019.
 
@@ -30,7 +32,7 @@ ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
 Agencia Digital de Innovación Pública
 
-José Antonio Peña Merino, Titular de la Agencia Digital de Innovación Pública de la Ciudad de México, con fundamento en lo dispuesto en los artículos 2, 3 fracción II , 11 fracción I, 17 y 19 de la Ley Orgánica del Poder Ejecutivo y la Administración Pública de la Ciudad de México; 2, 8 y 12 de la Ley de Operación e Innovación Digital para la Ciudad de México; 2, 3 fracción III, 6 último párrafo, 273, 277, 278 numeral 1 y 279 fracciones XXIII y XXIV del Reglamento Interior del Ejecutivo y de la Administración Pública de la Ciudad de México y Segundo Transitorio del Código de Ética de la Administración Pública de la Ciudad de México, he tenido a bien emitir el siguiente:
+José Antonio Peña Merino, Titular de la Agencia Digital de Innovación Pública de la Ciudad de México, con fundamento en lo dispuesto en los artículos 2, 3 fracción II, 11 fracción I, 17 y 19 de la Ley Orgánica del Poder Ejecutivo y la Administración Pública de la Ciudad de México; 2, 8 y 12 de la Ley de Operación e Innovación Digital para la Ciudad de México; 2, 3 fracción III, 6 último párrafo, 273, 277, 278 numeral 1 y 279 fracciones XXIII y XXIV del Reglamento Interior del Ejecutivo y de la Administración Pública de la Ciudad de México y Segundo Transitorio del Código de Ética de la Administración Pública de la Ciudad de México, he tenido a bien emitir el siguiente:
 
 CONSIDERANDO
 
@@ -433,3 +435,15 @@ EL TITULAR DE LA AGENCIA DIGITAL DE INNOVACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 (Firma)
 
 JOSÉ ANTONIO PEÑA MERINO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER SU CÓDIGO DE CONDUCTA DE LA AGENCIA DIGITAL DE INNOVACIÓN PÚBLICA”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se deja sin efectos el Código de Conducta para la Agencia Digital de Innovación Pública, publicado en la Gaceta Oficial de la Ciudad de México el 08 de mayo de 2019.
