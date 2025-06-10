@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2024-12-31"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -1043,7 +1043,7 @@ Artículo 42 A. Se causarán y pagarán derechos por los servicios públicos que
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 16 DE DICIEMBRE DE 2023, PÁGINAS DE LA 7 A LA 8.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 6 A LA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS, P.O. 21 DE DICIEMBRE DE 2024, PÁGINAS DE LA 6 A LA 7; Y 10 DE JUNIO DE 2025, PÁGINA 2.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -1582,3 +1582,11 @@ SÉPTIMO. En un plazo de treinta días naturales posteriores a la entrada en vig
 OCTAVO. En un plazo de ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Honestidad, Transparencia y Función Pública deberán adecuar y armonizar su normatividad respectiva para el cumplimiento del presente Decreto.
 
 NOVENO. Los Ayuntamientos, deberán emitir la normatividad aplicable a sus Padrones de Contratistas Municipales, en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETÓ NÚM. 668.- MEDIANTE EL CUAL SE REFORMAN EN EL ARTÍCULO 42 A, LA FRACCIÓN VI EN SU CONCEPTO, SU INCISO a) EN LA DESCRIPCIÓN DEL SERVICIO Y EL ENCABEZADO E IMPORTE DE LA CUOTA; Y SE DEROGA EL INCISO d) Y SU CUOTA, DE LA FRACCIÓN III DEL ARTÍCULO 42 A; TODOS DE LA LEY ESTATAL DE DERECHOS DE OAXACA”]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
