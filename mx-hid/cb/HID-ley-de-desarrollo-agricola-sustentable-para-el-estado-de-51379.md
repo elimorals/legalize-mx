@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2025-02-27"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -801,13 +801,17 @@ VIII.- Promover la economía solidaria, el comercio justo, mutualismo, la buena 
 
 IX.- Crear una instancia de apoyo y seguimiento técnico de los organismos campesinos de financiamiento rural, para vigilar que los recursos lleguen en tiempo y forma, se apliquen adecuadamente y proporcione el asesoramiento especializado;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-X.- Incentivar las actividades de diversificación productiva y todos aquellos métodos y técnicas asociadas con el aprovechamiento sustentable de los recursos naturales y el patrimonio natural; y
+X.- Incentivar las actividades de diversificación productiva y todos aquellos métodos y técnicas asociadas con el aprovechamiento sustentable de los recursos naturales y el patrimonio natural;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-XI.- Fomentar el desarrollo de un mercado estatal de consumidores de productos orgánicos, ecológicos y naturales.
+XI.- Fomentar el desarrollo de un mercado estatal de consumidores de productos orgánicos, ecológicos y naturales, y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+XII. Promover mecanismos de apoyo técnico tendentes a implementar y fortalecer zonas de riego en cultivos estratégicos, mediante programas de infraestructura hídrica, tecnificación del riego y aprovechamiento sustentable del recurso.
 
 ### CAPITULO VII. DE LA INFRAESTRUCTURA PRODUCTIVA
 
@@ -1526,5 +1530,11 @@ P.O. 28 DE ENERO DE 2025.
 P.O. 27 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 201 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN Y TRANSFERENCIA TECNOLÓGICA EN LA ACTIVIDAD AGRÍCOLA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 248 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 44 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, EN MATERIA DE MECANISMOS PARA FORTALECER LAS ZONAS DE RIEGO EN CULTIVOS ESTRATÉGICOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
