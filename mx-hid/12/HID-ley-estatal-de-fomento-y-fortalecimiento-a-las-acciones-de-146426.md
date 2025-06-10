@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-fomento-y-fortalecimiento-a-las-acciones-de-1464
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-20"
-last_updated: "2025-05-26"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el miércoles 20 de enero de 2021.
 
@@ -145,6 +145,10 @@ f. Impulsar el bienestar y la calidad de vida.
 
 g. Impulso y fortalecimiento al emprendimiento
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+h. Fomento y promoción de acciones a favor del desarrollo urbano y territorial.
+
 II. Participación social y ciudadana:
 
 a. Cívicas enfocadas a promover la participación ciudadana en asuntos de interés público;
@@ -153,13 +157,21 @@ b. Prestación de servicios de apoyo a la creación y fortalecimiento de Organiz
 
 c. Promoción y defensa de los derechos de los consumidores;
 
-d. Promoción de la participación ciudadana a favor de la transparencia, rendición de cuentas, contraloría social, observatorios ciudadanos y combate a la corrupción.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+d. Promoción de la participación ciudadana a favor de la transparencia, rendición de cuentas, contraloría social, observatorios ciudadanos, combate a la corrupción y protección de datos personales.
 
 III. Asistencia social:
 
 a. Acciones conforme a lo establecido en la Ley de Asistencia Social del Estado de Hidalgo;
 
-b. Apoyo a la alimentación popular.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+b. Apoyo a la alimentación popular y la mejora nutricional;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+c. Creación y atención de albergues temporales para personas en situación de calle y movilidad.
 
 IV. Igualdad de género:
 
@@ -170,6 +182,10 @@ b. Implementar acciones de prevención y atención de violencia de género.
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
 c. Creación y funcionamiento, conforme con la legislación y normatividad aplicable, de refugios para mujeres víctimas de violencia, así como de sus hijas e hijos;
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+d. Implementación, impulso y fortalecimiento de acciones que favorezcan la autonomía económica de las mujeres.
 
 V. Derechos humanos, sociedad incluyente y cohesión social:
 
@@ -578,5 +594,11 @@ P.O. 30 DE MAYO DE 2024.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE TRATO DIGNO A LAS PERSONAS HIDALGUENSES REPATRIADAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 251 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY ESTATAL DE FOMENTO Y FORTALECIMIENTO A LAS ACCIONES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN DE ATRIBUCIONES A LAS ORGANIZACIONES CIVILES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
