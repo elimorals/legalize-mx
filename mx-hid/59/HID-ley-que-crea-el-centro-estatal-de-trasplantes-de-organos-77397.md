@@ -4,7 +4,7 @@ identifier: "HID-ley-que-crea-el-centro-estatal-de-trasplantes-de-organos-77397"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-22"
-last_updated: "2024-04-16"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 22 de noviembre de 2010.
 
@@ -41,7 +41,9 @@ QUE INSTITUYE LA LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJI
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de la facultades que le confiere el Artículo 56 fracciones I y II, de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S ...
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -131,9 +133,19 @@ III.- Regular el manejo, conservación y disposición de cadáveres humanos en l
 
 IV.- (DEROGADA, P.O. 25 DE JULIO DE 2016)
 
-V.- Promover la cultura de la donación de órganos tejidos y células de seres humanos con fines de trasplante entre la población hidalguense, para coadyuvar en el tratamiento o curación de los pacientes que las requieran; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-VI.- Fomentar, propiciar y desarrollar programas de estudio e investigación relacionados con la disposición de órganos, tejidos, células y cadáveres de seres humanos, particularmente en lo que respecta a trasplantes, trasfusiones y otros procedimientos terapéuticos.
+V.- Promover la cultura de la donación de órganos, tejidos y células de seres humanos con fines de trasplante entre la población hidalguense, para coadyuvar en el tratamiento o curación de los pacientes que las requieran, mediante estrategias de efectividad probada que incluyan la aceptación cultural.
+
+La política en materia de donación y trasplantes deberá guiarse por la transparencia, la equidad y la eficiencia, debiendo procurar el derecho a la salud del receptor, la autonomía del donante y, en su caso, de los familiares como disponentes secundarios, a través de la obtención del consentimiento informado;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+VI.- Fomentar, propiciar y desarrollar programas de estudio e investigación relacionados con la disposición de órganos, tejidos, células y cadáveres de seres humanos, particularmente en lo que respecta a trasplantes, trasfusiones y otros procedimientos terapéuticos, y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+VII.- Elaborar y llevar a cabo campañas permanentes de concientización sobre la importancia de la donación de órganos, tejidos y células para fines de trasplantes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2016)</small>
 
@@ -608,5 +620,11 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 830 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 247 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY QUE CREA EL CENTRO ESTATAL DE TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS DE SERES HUMANOS PARA EL ESTADO DE HIDALGO, EN MATERIA DE AUTONOMÍA DE LAS PERSONAS DONANTES Y CONCIENTIZACIÓN SOBRE LA DONACIÓN DE ÓRGANOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
