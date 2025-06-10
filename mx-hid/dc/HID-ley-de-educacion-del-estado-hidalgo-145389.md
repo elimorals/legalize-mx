@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-05-26"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -671,11 +671,17 @@ V. Realizar los ajustes razonables en función de las necesidades de las persona
 
 VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad;
 
-VII. Garantizar que las personas con discapacidad aprendan, desarrollen, consoliden y se certifiquen en las competencias para el trabajo y la vida, que favorezcan su inclusión laboral a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad, y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2025)</small>
+VII. Garantizar que las personas con discapacidad aprendan, desarrollen, consoliden y se certifiquen en las competencias para el trabajo y la vida, que favorezcan su inclusión laboral a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad;
 
-VIII. Supervisar periódicamente las acciones implementadas en favor de la educación inclusiva, con la intervención de todos los actores que conforman el Sistema Educativo Estatal, de acuerdo con los lineamientos que emita la Secretaría.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+VIII. Supervisar periódicamente las acciones implementadas en favor de la educación inclusiva, con la intervención de todos los actores que conforman el Sistema Educativo Estatal, de acuerdo con los lineamientos que emita la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+IX. Fomentar la educación emocional para potenciar el desarrollo cognitivo y de la personalidad.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2025)</small>
 
@@ -1703,9 +1709,17 @@ V. Atender de manera oportuna y continua las recomendaciones emitidas por profes
 
 VI. Acudir a los llamados de las autoridades educativas y escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años;
 
-VII. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-VIII. Respetar a los trabajadores de la educación y demás miembros de la comunidad escolar dentro y fuera de los planteles.
+VII. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar y comunitaria;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+VIII. Respetar a los trabajadores de la educación y demás miembros de la comunidad escolar dentro y fuera de los planteles, y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+IX. Contribuir al fortalecimiento de la inteligencia emocional de sus hijas, hijos y pupilos, propiciando la comprensión y gestión positiva de las emociones en el entorno familiar.
 
 En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia o tutores, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
@@ -2588,3 +2602,9 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 234 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE NIÑAS, ADOLESCENTES Y JÓVENES MUJERES EN LAS CIENCIAS, LA TECNOLOGÍA, LAS INGENIERÍAS Y LAS MATEMÁTICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 246 – LXVI QUE APRUEBA CON MODIFICACIONES LA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO A LA EDUCACIÓN EMOCIONAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
