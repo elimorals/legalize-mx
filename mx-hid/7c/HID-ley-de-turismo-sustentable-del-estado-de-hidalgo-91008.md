@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2025-05-26"
+last_updated: "2025-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -397,25 +397,29 @@ XXIX Ter 1.- Promover en coordinación con los Municipios, los sectores privado 
 
 XXIX Quater.- Conjuntar esfuerzos en materia de verificación e inspección, mediante convenios de coordinación con las autoridades en materia de salubridad, seguridad, protección civil, higiene o protección al consumidor, así como con los municipios;
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2025)</small>
 
-XXIX Quinter. Promover e impulsar estrategias institucionales para el desarrollo del astroturismo en coordinación con los municipios; y
+XXIX Quinter.- Promover e impulsar estrategias institucionales para el desarrollo del astroturismo en coordinación con los municipios;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+XXX.- Establecer, instrumentar, conducir y evaluar las políticas referentes a la obtención y conservación del distintivo “Pueblos con Sabor”, con el objetivo de preservar y promover la riqueza de la cocina hidalguense, y
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXX.- Establecer acuerdos con los pueblos y comunidades indígenas para intensificar su participación en la formulación de políticas, estrategias y programas relativos a la gestión y conservación de los espacios, recursos naturales y manifestaciones culturales asentadas en su territorio y que representan potencial turístico;
+XXXI.- Establecer acuerdos con los pueblos y comunidades indígenas para intensificar su participación en la formulación de políticas, estrategias y programas relativos a la gestión y conservación de los espacios, recursos naturales y manifestaciones culturales asentadas en su territorio y que representan potencial turístico;
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXXI.- Proporcionar una mayor competitividad de los productos artesanales elaborados por las comunidades indígenas en las zonas turísticas del Estado, promoviendo el desarrollo local y regional;
+XXXII.- Proporcionar una mayor competitividad de los productos artesanales elaborados por las comunidades indígenas en las zonas turísticas del Estado, promoviendo el desarrollo local y regional;
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXXII.- Vigilar en lo general el cumplimiento de esta Ley, de la Ley General y demás disposiciones reglamentarias que de ella se deriven; y
+XXXIII.- Vigilar en lo general el cumplimiento de esta Ley, de la Ley General y demás disposiciones reglamentarias que de ella se deriven; y
 
 > <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-XXXIII.- Las demás necesarias para el logro de los fines establecidos en la presente Ley, en la Ley General y las previstas en otros ordenamientos.
+XXXIV.- Las demás necesarias para el logro de los fines establecidos en la presente Ley, en la Ley General y las previstas en otros ordenamientos.
 
 ### CAPÍTULO III. DE LA CONCURRENCIA EN MATERIA TURÍSTICA
 
@@ -520,6 +524,10 @@ XIII.- Las demás previstas en éste y otros ordenamientos aplicables.
 Corresponde a los Municipios, de conformidad con lo dispuesto en esta Ley y en el marco jurídico relativo y aplicable en materia turística, las siguientes atribuciones:
 
 I.- Dirigir, coordinar y evaluar la política turística Municipal;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2025)</small>
+
+I Bis.- Implementar acciones para la promoción, difusión y, en su caso, conservación del distintivo “Pueblos con Sabor”;
 
 II.- Celebrar e instrumentar convenios en materia turística, conforme las disposiciones legales y normativas aplicables;
 
@@ -815,13 +823,19 @@ Corresponde a la Secretaría elaborar en coordinación con el Consejo Nacional p
 
 La Secretaría organizará con carácter anual, con la concurrencia de los sectores público, social y privado, de manera permanente, la Feria Gastronómica del Estado de Hidalgo, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover a nivel nacional e internacional, la cocina tradicional hidalguense, elemento fundamental de nuestra identidad cultural.
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2025)</small>
 
 ###### Artículo 36 Quinquies.
 
-La Secretaría de manera conjunta con los Ayuntamientos y los sectores social, privado y académico interesados, diseñará las rutas gastronómicas en la Entidad, con la finalidad de ofrecer a los visitantes locales, nacionales e internacionales la experiencia culinaria a través de la diversidad de los platillos típicos de la cocina hidalguense.
+La Secretaría de manera conjunta con los Ayuntamientos y los sectores social, privado y académico interesados, diseñará las rutas gastronómicas en la Entidad, promoviendo los municipios con distintivo de “Pueblos con Sabor”, con la finalidad de ofrecer a los visitantes locales, nacionales e internacionales la experiencia culinaria a través de la diversidad de los platillos típicos de la cocina hidalguense.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 La Secretaría promoverá los recorridos turísticos por las rutas gastronómicas aprovechando los atractivos culturales, históricos y naturales con que cuenta el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2025)</small>
+
+La Secretaría, en coordinación con los municipios de la entidad, así como como con la concurrencia de los sectores público, social y privado, emitirá la convocatoria tanto para la obtención como para la conservación del distintivo “Pueblos con Sabor”, conforme a los lineamientos específicos que para cada caso se establezcan.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -1518,3 +1532,9 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 238 - LXVI POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE CONSEJOS CONSULTIVOS MUNICIPALES DE TURISMO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE OBTENCIÓN Y CONSERVACIÓN DEL DISTINTIVO “PUEBLOS CON SABOR”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
