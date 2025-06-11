@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-175015"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-09"
-last_updated: "2024-12-16"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2024.
 
@@ -73,7 +73,9 @@ La Administración Pública paraestatal se conforma por los organismos públicos
 
 El Estado garantizará el derecho a un gobierno democrático y a una eficiente administración pública, priorizará la atención a la población en el territorio y deberá estar orientada al interés general, con la finalidad de lograr el bienestar de las personas, especialmente de los pueblos indígenas y afromexicanos, así como de otros grupos vulnerables; para lo cual deberá regirse por los principios de honestidad, igualdad de género, sostenibilidad, responsabilidad, legalidad, honradez, profesionalismo, inclusión, racionalidad, imparcialidad, eficiencia, eficacia, economía y transparencia.
 
-Para los efectos del párrafo anterior, la persona titular del Poder Ejecutivo determinará los mecanismos y lineamientos para que las Dependencias y Entidades coadyuven desde los Centros Integradores, para la implementación de políticas públicas, programas y servicios que garanticen los derechos a la salud, educación, movilidad, cultura, deporte, medio ambiente y vivienda, promoviendo el uso de las tecnologías de la información y el acceso al gobierno digital. La Administración Pública mantendrá el vínculo y comunicación directa con la sociedad desde los Centros Integradores, para la atención a sus demandas, a través de la eficiente coordinación interinstitucional e intergubernamental.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+Para los efectos del párrafo anterior, la persona titular del Poder Ejecutivo determinará los mecanismos y lineamientos para que las Dependencias, Órganos y Entidades coadyuven, desde los Centros Integradores, para la implementación de políticas públicas, programas y servicios que garanticen los derechos a la salud, educación, movilidad, cultura, deporte, medio ambiente y vivienda, promoviendo el uso de las tecnologías de la información y el acceso al gobierno digital. La Administración Pública mantendrá el vínculo y comunicación directa con la sociedad desde los Centros integradores, para la atención a sus demandas, a través de la eficiente coordinación interinstitucional e intergubernamental.
 
 ###### Artículo 5.
 
@@ -91,9 +93,9 @@ IV. Centros Integradores: los espacios destinados al bienestar de las personas, 
 
 V. Dependencias: las Secretarías y la Consejería Jurídica del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-VI. Dependencias Globalizadoras: la Secretaría de Gobierno, la Secretaría de Administración y Finanzas, la Secretaría Anticorrupción y Buen Gobierno y la Consejería Jurídica del Poder Ejecutivo del Estado, que tienen a su cargo emitir disposiciones de cumplimiento general para las demás Dependencias, las cuales podrán ser normativas, de vigilancia, planeación y control;
+VI. Dependencias Globalizadoras: la Secretaría de Gobierno, la Secretaría de Administración y Finanzas, la Secretaría Anticorrupción y Buen Gobierno y la Consejería Jurídica del Poder Ejecutivo del Estado, que tienen a su cargo emitir disposiciones de cumplimiento general para la Administración Pública, las cuales podrán ser normativas, de vigilancia, planeación y control.
 
 VII. Entidades: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
 
@@ -125,7 +127,9 @@ Además de las otorgadas en la Constitución y otras normas, son facultades y ob
 
 I. Promover la revisión y actualización de la legislación y normatividad que regula a la Administración Pública a su cargo;
 
-II. Expedir disposiciones reglamentarias de las leyes secundarias locales y reglamentos interiores de las Dependencias, Entidades y Órganos;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+II. Expedir las disposiciones reglamentarias de las leyes secundarias locales, los reglamentos interiores y estatutos orgánicos de las Dependencias, Entidades y Órganos, así como ordenar su publicación en el Periódico Oficial;
 
 III. Determinar, expedir y dirigir el diseño y la instrumentación de las políticas públicas del Poder Ejecutivo;
 
@@ -137,7 +141,9 @@ VI. Dirigir y coordinar el Sistema Estatal de Planeación Democrática y las rel
 
 VII. Resolver, en caso de duda, sobre la competencia de alguna Dependencia para conocer de algún asunto determinado y reasignar la misma según corresponda;
 
-VIII. Ordenar la publicación en el Periódico Oficial de los manuales administrativos de las Dependencias, Órganos y Entidades que al respecto se hubieren autorizado;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+VIII. Supervisar la publicación en el Periódico Oficial de los manuales administrativos de las Dependencias, Órganos y Entidades que al respecto se hubieren autorizado;
 
 IX. Informar de manera permanente y transparente mediante el sistema de gobierno abierto sobre los actos de la Administración Pública;
 
@@ -167,7 +173,9 @@ III. No ser ministro o ministra de algún culto religioso;
 
 IV. No haber sido condenado o condenada por sentencia firme por delito doloso que merezca pena corporal o por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
-V. No haber sido declarada persona deudora alimentaria morosa;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+V. No estar inscrita o inscrito en el Registro Estatal de Obligaciones Alimentarias;
 
 VI. Contar, preferentemente, con estudios profesionales relativos al ejercicio de las atribuciones o experiencia en actividades laborales, profesionales o académicas en la materia que le compete al ente público de que se trate; y
 
@@ -687,9 +695,13 @@ II. Fortalecer, fomentar, coordinar y formular acciones que incidan en el bienes
 
 III. Fomentar y conducir la participación de las organizaciones de la sociedad civil, Dependencias y Entidades de la Administración Pública y en su caso, de los gobiernos municipales, en materia de bienestar para el mejoramiento del nivel de vida de la población, con base en la legislación aplicable, procurándose que las normas, criterios y lineamientos que deriven de la política general de bienestar se apliquen con perspectiva de género;
 
-IV. Normar, ejecutar y supervisar las políticas y programas que incidan en el bienestar de la población, desarrollo social y protección de los grupos vulnerables;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-V. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de su competencia, así como depurar sus duplicidades y remitir la información a las Dependencias o Entidades que la persona titular del Poder Ejecutivo determine, colaborando en el análisis de la misma;
+IV. Formular, normar, emitir y coordinar las políticas, reglas de operación y programas que incidan en el bienestar de la población, el desarrollo social y la protección de los grupos vulnerables, difundiéndolos con base en los principios de inclusión, equidad, igualdad de oportunidades y justicia distributiva;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+V. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de los programas sociales de su competencia, así como depurar sus duplicidades y remitir la información a las Dependencias o Entidades que la persona titular del Poder Ejecutivo determine de conformidad con la normatividad aplicable y en apego a la protección de datos personales en posesión de sujetos obligados;
 
 VI. Conducir, ejecutar y, en su caso, correlacionar las políticas y programas sectoriales en materia de bienestar social, combate a la pobreza y desarrollo humano con base en la legislación estatal y federal aplicable, así como las normas y lineamientos que determine la persona titular del Poder Ejecutivo en el marco del Sistema Estatal de Planeación Democrática;
 
@@ -725,7 +737,9 @@ XXI. Definir y proponer la organización y participación social como eje fundam
 
 XXII. Desarrollar los sistemas y procesos de recepción, acopio y sistematización de información para que, en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, se realicen los diagnósticos y la evaluación de impacto de las políticas orientadas al bienestar de la población, combate a la pobreza y desarrollo humano;
 
-XXIII. Administrar, operar y controlar el Padrón Único de Beneficiarios respecto de los diferentes apoyos que se otorgan a la población. Asimismo, emitir los criterios y orientaciones a que deberán sujetarse las instituciones de la misma con respecto a la asignación y control de los beneficios respectivos y la utilización del Padrón citado;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XXIII. Administrar, operar y controlar el Padrón Único de Beneficiarios respecto de los diferentes apoyos que se otorgan a la población. Asimismo, emitir los criterios y orientaciones a que deberán sujetarse las instituciones y Dependencias de la Administración Pública Estatal, con respecto a la asignación y control de los beneficios pertinentes y la utilización del Padrón citado, para una mayor transparencia de los recursos otorgados;
 
 XXIV. Colaborar con el Comité de Planeación para el Desarrollo del Estado en la incorporación al Sistema de Información de los programas municipales para el desarrollo social y sus beneficiarios. Asimismo, en la ampliación y fortalecimiento de los vínculos con el Gobierno Federal para el intercambio de información;
 
@@ -761,7 +775,9 @@ XXXIX. Coadyuvar en las políticas públicas que garanticen el pleno ejercicio d
 
 XL. Formular y conducir las políticas de fomento y desarrollo del sector social de la economía;
 
-XLI. Colaborar con la Secretaría de Administración y Finanzas en la integración de los programas y presupuestos para el bienestar de la población, combate a la pobreza y desarrollo humano; así como instrumentar y supervisar con las Dependencias relacionadas a los sectores productivos, los proyectos y la adecuada ejecución de los programas que involucren el mejoramiento de las comunidades; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XLI. Colaborar con la Secretaría de Administración y Finanzas en la integración de los programas y presupuestos, así como en la dispersión de los apoyos correspondientes a los programas sociales en beneficio y para el bienestar de la población, combate a la pobreza y desarrollo humano; así como instrumentar y supervisar con las Dependencias relacionadas a los sectores productivos, los proyectos y la adecuada ejecución de los programas que involucren el mejoramiento de las comunidades; y
 
 XLII. Las demás que se prevean en otras disposiciones y las que le sean encomendadas por la persona titular del Poder Ejecutivo.
 
@@ -1227,7 +1243,9 @@ XXII. Designar a los prestadores de servicios profesionales de auditorías exter
 
 XXIII. Formular y conducir la política de la Administración Pública para establecer medidas que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas, el acceso por parte de los particulares a la información que aquélla genere y la protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como promover dichas acciones hacia la sociedad;
 
-XXIV. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XXIV. Atender las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, así como lo relativo a los procedimientos para su protección y demás asuntos conforme se establezca en la ley de la materia;
 
 XXV. Establecer las políticas, bases y normativa para la determinación de la información de interés público que, en materia de anticorrupción y buen gobierno, se deba difundir proactivamente;
 
@@ -1253,7 +1271,9 @@ XXXV. Promover, en coordinación con la Secretaría de Educación e Institucione
 
 XXXVI. Participar en el establecimiento de las bases y principios de coordinación de los integrantes de los Sistemas de Anticorrupción y de Fiscalización;
 
-XXXVII. Ejercer las atribuciones que correspondan al Ejecutivo Estatal en el Sistema Estatal Anticorrupción, en términos de las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XXXVII. Ejercer las atribuciones que correspondan al Ejecutivo Estatal en el Sistema Estatal Anticorrupción, así como proveer la asistencia técnica al Comité Coordinador del Sistema Estatal Anticorrupción, para el desempeño de sus atribuciones de conformidad con las disposiciones jurídicas aplicables;
 
 XXXVIII. Implementar las políticas de coordinación que promueva el Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública, en términos de las disposiciones jurídicas aplicables;
 
@@ -1261,7 +1281,9 @@ XXXIX. Vigilar el cumplimiento de la política de contrataciones públicas regul
 
 XL. Acceder en el ámbito de su competencia, a la información, documentación, datos e imágenes, registros y demás relacionadas en poder de la Administración Pública que contribuyan con las investigaciones, actos de fiscalización, incluida su programación y, en general, con cualquier acción anticorrupción, para lo cual puede celebrar convenios, acuerdos y demás instrumentos jurídicos con instituciones públicas y privadas, así como con el gobierno federal;
 
-XLI. Nombrar y remover a las personas titulares de los Órganos Internos de Control, así como a las personas titulares de sus jefaturas de departamento en las Dependencias y Entidades, los cuales dependerán jerárquica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno. La persona titular del órgano interno de control de la Secretaría será designada por la persona titular del Poder Ejecutivo, y se encargará de atender los asuntos de la Secretaría. Los órganos Internos de Control de las Dependencias atenderán los asuntos de sus órganos Desconcentrados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2025)</small>
+
+XLI. Nombrar y remover a las personas titulares de los Órganos Internos de Control, así como a las personas titulares de sus áreas en las Dependencias y Entidades, los cuales dependerán jerárquica y funcionalmente de la Secretaría Anticorrupción y Buen Gobierno. La persona titular del órgano interno de control de la Secretaría será designada por la persona titular del Poder Ejecutivo, y se encargará de atender los asuntos de la Secretaría. Los Órganos Internos de Control de las Dependencias atenderán además los asuntos de sus Órganos Desconcentrados, conforme a las disposiciones administrativas y normatividad aplicable.
 
 Los Órganos Internos de Control de las Dependencias y Entidades, se coordinarán con la Consejería Jurídica del Poder Ejecutivo del Estado para realizar la defensa jurídica en la esfera administrativa y ante los Tribunales, en el ámbito de su competencia;
 
@@ -1603,6 +1625,10 @@ I. Coordinar la función jurídica de la Administración Pública, con excepció
 
 II. Brindar la asistencia jurídica que requiera la persona titular del Poder Ejecutivo en los asuntos que ésta le encomiende y encargarse de los asuntos jurídicos que requiera la Oficina de la Gubernatura y representación legal;
 
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+II Bis. Solicitar la publicación en el Periódico Oficial de los instrumentos jurídicos emitidos por la persona titular del Poder Ejecutivo del Estado, y los demás que le instruya;
+
 III. Asesorar y asistir jurídicamente a las Dependencias, Entidades y Órganos, cuando lo soliciten;
 
 IV. Elaborar y revisar los proyectos de leyes, reglamentos, decretos, acuerdos, resoluciones administrativas y demás instrumentos de carácter jurídico y normativo, atendiendo a la opinión y necesidades de las Dependencias, Entidades y Órganos, a efecto de someterlos a la consideración y firma de la persona titular del Poder Ejecutivo;
@@ -1663,7 +1689,9 @@ XXXI. Someter a consideración y aprobación de la persona titular del Poder Eje
 
 XXXII. Coordinar los procesos de transferencias de los servicios públicos a los municipios, conforme a las disposiciones constitucionales y legales aplicables;
 
-XXXIII. Regular, coordinar y supervisar la integración y funcionamiento de las unidades responsables de operar en la Administración Pública Centralizada y Paraestatal del Estado, el Sistema Estatal de Acceso y Transparencia de la Información Pública Gubernamental, Administración de los Datos Personales, asegurando que en su desempeño se cumpla con los términos previstos en la legislación y normatividad de la materia;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XXXIII. Coadyuvar con la Secretaría Anticorrupción y Buen Gobierno en la regulación, coordinación y supervisión de la integración y funcionamiento de las unidades responsables de atender las solicitudes de información que formulen las personas, asegurando que su desempeño se cumpla con los términos previstos en la legislación y normatividad de la materia;
 
 XXXIV. Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje del Estado y sus Juntas Especiales 1, 2 y 3, en términos de lo dispuesto por la Ley Federal del Trabajo, así como, las comisiones que se formen para regular las relaciones obrero patronales y vigilar su funcionamiento, en términos de las demás disposiciones legales en materia de trabajo, sin perjuicio de su autonomía e independencia jurisdiccional;
 
@@ -1699,9 +1727,11 @@ Las Entidades gozarán de autonomía de gestión para el cumplimiento de sus pro
 
 La persona titular del Poder Ejecutivo podrá disponer de manera directa o solicitar al Congreso del Estado, la creación, fusión o liquidación de empresas de participación estatal o la constitución y liquidación de fideicomisos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 41.
 
-Son organismos descentralizados las entidades creadas por ley o decreto, con personalidad jurídica y patrimonio propio, cualquiera que sea la estructura legal que adopten. La ley o decreto de creación deberá precisar su objeto, la fuente de recursos para integrar su patrimonio, la conformación del órgano de gobierno y la forma de nombrar a la persona titular y sus funciones.
+Son organismos públicos descentralizados las Entidades creadas por ley, decreto o acuerdo, con personalidad jurídica y patrimonio propio, cualquiera que sea la estructura legal que adopten. La ley, decreto o acuerdo de creación deberá precisar su objeto, la fuente de recursos para integrar su patrimonio, la conformación del órgano de gobierno y la forma de nombrar a la persona titular y sus funciones.
 
 Las universidades y demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
 
@@ -1709,11 +1739,23 @@ Las universidades y demás instituciones de educación superior a las que la Ley
 
 Cuando algún organismo descentralizado deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista económico o del interés público, la Secretaría de Administración y Finanzas, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá a la persona titular del Poder Ejecutivo la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 43.
 
-Son empresas de participación estatal mayoritaria las sociedades de cualquier naturaleza en las que el Poder Ejecutivo, o una de sus Entidades paraestatales, aporten o sean propietarias de más del 50% del capital social, le corresponda la facultad de nombrar a la mayoría de los órganos de gobierno o su equivalente, o bien designar al presidente o director general, o cuando tengan facultades para vetar los acuerdos del órgano de gobierno.
+Son empresas de participación estatal mayoritaria las sociedades de cualquier naturaleza en que se satisfaga alguno de los siguientes requisitos:
 
-Se asimilan a las empresas de participación estatal mayoritaria las sociedades civiles en las que la mayoría de los asociados sean Dependencias o Entidades, o servidores públicos de ésta que participen en razón de sus cargos, o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+I. El Poder Ejecutivo o una de sus Entidades paraestatales, aporten o sean propietarias de más del 50% del capital social; o
+
+II. El Poder Ejecutivo tenga la facultad de nombrar a la mayoría de las y los integrantes de los órganos de gobierno o su equivalente, o bien de designar al presidente o director general, o cuando tengan facultades para vetar los acuerdos del órgano de gobierno.
+
+Se asimilan a las empresas de participación estatal mayoritaria las sociedades civiles en las que:
+
+I. La mayoría de los asociados sean Dependencias o Entidades;
+
+II. La mayoría de los asociados sean servidores públicos que participen en razón de sus cargos; o
+
+III. Alguna o varias de las Dependencias o Entidades, se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
 Corresponde a la persona titular del Poder Ejecutivo el ejercicio o delegación de las facultades de suscripción de capital y nombramientos.
 
@@ -1735,13 +1777,17 @@ Los fideicomisos contarán, en su caso, con una estructura orgánica análoga a 
 
 La persona titular del Poder Ejecutivo deberá determinar la forma de integración del respectivo comité técnico. La Secretaría de Administración y Finanzas designará a sus representantes ante los órganos de gobierno de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 48.
 
-En los contratos de los fideicomisos se deberán precisar las facultades especiales, si las hubiere, que en adición a las que establece esta Ley para los Órganos de Gobierno, determine la persona titular del Poder Ejecutivo para el Comité Técnico, indicando cuáles asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan al fiduciario, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para la institución Fiduciaria.
+La persona titular del Poder Ejecutivo deberá precisar, en su caso, las facultades especiales del Comité Técnico en los contratos de los fideicomisos públicos, indicando cuales asuntos requieren de la aprobación del mismo, para el ejercicio de acciones y derechos que correspondan a la institución fiduciaria, entendiéndose que las facultades del citado cuerpo colegiado constituyen limitaciones para ésta.
 
 La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el Fideicomitente, o en violación a las cláusulas del contrato de Fideicomiso, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
 
-Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier circunstancia, la institución fiduciaria procederá a consultar a la persona titular del Poder Ejecutivo a través de la dependencia coordinadora de sector, según corresponda, quedando facultada para ejecutar aquellos actos que autoricen los mismos.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al Comité Técnico por cualquier circunstancia, la institución fiduciaria procederá a consultar a la persona titular del Poder Ejecutivo a través de la Secretaría de Administración y Finanzas, quedando facultada para ejecutar aquellos actos que le autorice.
 
 ###### Artículo 49.
 
@@ -1820,3 +1866,15 @@ SEGUNDO.- Las menciones y atribuciones contenidas en otras leyes, reglamentos y,
 TERCERO.- Las autoridades correspondientes deberán llevar a cabo los ajustes normativos y presupuestales necesarios para implementar las disposiciones del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 119 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4, PÁRRAFO SEGUNDO; 5, FRACCIÓN VI; 8, FRACCIONES II Y VIII; 11, FRACCIÓN V; 25, FRACCIONES IV, V, XXIII Y XLI; 30, FRACCIONES XXIV, XXXVII Y XLI; 35, FRACCIÓN XXXIII; 41, PÁRRAFO PRIMERO; 43; Y 48, PÁRRAFOS PRIMERO Y TERCERO; Y SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 35 TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las autoridades correspondientes deberán llevar a cabo los ajustes administrativos, normativos y presupuestales necesarios para implementar las disposiciones del presente Decreto.
+
+TERCERO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido en el presente Decreto.
+
+CUARTO. Las Entidades deberán realizar los trámites correspondientes en el presente ejercicio fiscal, para que a más tardar el 1 de enero de 2026 cuenten con sus órganos internos de control en sus estructuras y el presupuesto autorizado para su operación.
