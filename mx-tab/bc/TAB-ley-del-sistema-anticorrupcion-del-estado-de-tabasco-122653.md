@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-anticorrupcion-del-estado-de-tabasco-122653"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-07-15"
+last_updated: "2025-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DEL SISTEMA ANTICORRUPCION DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 11 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 15 de julio de 2017.
 
@@ -750,3 +752,53 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 118 POR EL QUE “SE EXPIDE LA NUEVA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Sistema Estatal Anticorrupción del Estado de Tabasco, publicada en el Suplemento B, al Periódico Oficial del Estado, Edición 7811 de fecha 15 de Julio de 2017, y todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+TERCERO.- Se extingue la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción se entenderán hechas o conferidas a la Secretaría Técnica, unidad administrativa de la Secretaría Anticorrupción y Buen Gobierno.
+
+CUARTO.- Al día siguiente de la entrada en vigor del presente Decreto, la Secretaría de Administración y Finanzas deberá designar a la persona liquidadora quien contará con las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquellas que en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones legales aplicables, así como realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación.
+
+El proceso de liquidación de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción deberá llevarse a cabo conforme a la normatividad y disposiciones jurídicas aplicables. La persona liquidadora que al efecto se designe coadyuvará para dar cumplimiento a lo dispuesto en el presente Decreto y deberá de manera enunciativa más no limitativa:
+
+1. Realizar el pago de las prestaciones correspondientes a los trabajadores como consecuencia de la extinción de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, en términos de la legislación y normativa aplicable;
+
+2. Atender en coordinación con la autoridad competente los expedientes, demandas o procedimientos laborales que se encuentren en trámite hasta su conclusión;
+
+3. Realizar el conteo de los saldos bancarios a efecto de que, en su oportunidad, los remanentes sean transferidos a la cuenta bancaria que se instruya por la Secretaría de Administración y Finanzas;
+
+4. Gestionar la cancelación o baja a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción ante (sic) Servicio de Administración Tributaria (SAT) y demás instancias o autoridades administrativas que corresponda; y
+
+5. Las demás inherentes a sus atribuciones, que le otorgue la legislación aplicable, y que resulten necesarias para llevar a cabo la liquidación y extinción de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
+
+QUINTO.- Las personas servidoras públicas de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción que dejen de prestar sus servicios y que estén obligadas a presentar declaración patrimonial y de intereses lo realizarán conforme a la normatividad aplicable.
+
+De igual manera deberán presentar acta administrativa de entrega-recepción, de conformidad con la normatividad correspondiente a la persona liquidadora que designe la Secretaría de Administración y Finanzas en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+SEXTO.- Las personas que integran el Comité de Participación Ciudadana podrán continuar en el mismo por el tiempo para el que fueron designadas, debiendo dar cumplimiento a las disposiciones de esta Ley, y atender las convocatorias y requerimientos que realice la Secretaría Técnica para la integración del Comité Coordinador, salvo aquellas que soliciten su renuncia como integrantes del Comité de Participación Ciudadana ante la Comisión de Selección.
+
+Las personas integrantes de la Comisión de Selección nombradas mediante Decreto 236, publicado en el Suplemento G, al Periódico Oficial del Estado, Edición 8512 de fecha 3 de abril de 2024, podrán continuar en sus cargos hasta que cumplan con el periodo para el cual fueron designados.
+
+La sesión de instalación del Comité de (sic) Coordinador del Sistema Estatal Anticorrupción, deberá efectuarse dentro del plazo de quince días hábiles posteriores a la designación de la persona titular de la Secretaría Técnica.
+
+SÉPTIMO.- Los recursos materiales con los que cuente la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, serán entregados dentro del término de diez días hábiles siguientes a la entrada en vigor del presente Decreto a la persona liquidadora designada por la Secretaría de Administración y Finanzas, quien posterior a su recepción deberá transferir en un plazo de diez días hábiles a la Secretaría Anticorrupción y Buen Gobierno.
+
+OCTAVO.- La Secretaría Ejecutiva del Sistema Estatal Anticorrupción entregará dentro de los diez días hábiles siguientes a la entrada en vigor a la persona liquidadora designada por la Secretaría de Administración y Finanzas los recursos financieros, y esta de conformidad con las disposiciones jurídicas aplicables hará entrega de los mismos a la Secretaría de Administración y Finanzas.
+
+Asimismo, la Secretaría Ejecutiva del Sistema Estatal Anticorrupción deberá entregar a la persona liquidadora la información y formatos necesarios para integrar la Cuenta Pública y demás informes trimestrales correspondientes.
+
+NOVENO.- Los sistemas y equipos informáticos del organismo descentralizado Secretaría Ejecutiva del Sistema Estatal Anticorrupción, incluida su documentación, titularidad y derechos, así como los archivos que tenga a su cargo, serán entregados a la persona liquidadora designada por la Secretaría de Administración y Finanzas dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, para que posterior a su recepción sean entregados en un plazo de diez días hábiles a la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley de Archivos para el Estado de Tabasco y demás disposiciones jurídicas aplicables, serán entregados a la persona liquidadora designada por la Secretaría de Administración y Finanzas dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, para que posterior a su recepción sea entregado en un plazo de diez días hábiles a la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO PRIMERO.- El Poder Ejecutivo del Estado contará con un plazo de hasta sesenta días naturales siguientes a la entrada en vigor del presente Decreto para realizar las adecuaciones normativas, administrativas y presupuestales para integrar las funciones y estructura de la Secretaría Técnica en la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO SEGUNDO.- La Secretaría de Administración y Finanzas y la Secretaría Anticorrupción y Buen Gobierno, dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente Decreto y su régimen transitorio.
