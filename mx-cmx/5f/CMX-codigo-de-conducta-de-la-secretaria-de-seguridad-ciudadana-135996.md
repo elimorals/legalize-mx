@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-secretaria-de-seguridad-ciudadana-1359
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-08"
-last_updated: "2019-05-08"
+last_updated: "2025-06-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-04-29"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO 30/2025 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 11 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025 (SIN EFECTOS).
 
 Código publicado al Número 86 de la Gaceta Oficial de la Ciudad de México, el miércoles 8 de mayo de 2019.
 
@@ -539,3 +541,15 @@ t. Actuar con honestidad, atendiendo siempre a la verdad, conduciéndose de esta
 ## TITULO SEXTO. Vigilancia
 
 9.- Corresponde al Órgano Interno de Control, Dirección General de Asuntos Internos, Consejo de Honor y Justicia, y a la Dirección General de Asuntos Jurídicos, vigilar el cumplimiento del presente Código, previo, durante y con posterioridad a la atención o resolución de las materias o asuntos competencia de los entes públicos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 30/2025 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se deja sin efectos el ACUERDO 27/2019 POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, publicado en la Gaceta Oficial de la Ciudad de México, el 08 de mayo de 2019.
