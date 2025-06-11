@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2023-10-24"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -246,6 +246,16 @@ IX. De la educación:
 a. A recibir de manera preferente el derecho a la educación en términos de lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con lo establecido en el artículo 10 de esta Ley, atendiendo en todo momento a un enfoque diferencial, de universalidad, de inclusión y respeto, y
 
 b. Las instituciones educativas, públicas y privadas, procurarán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores incorporando información sobre el tema del envejecimiento digno, así como los derechos y garantías de las personas adultas mayores.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 11 DE JUNIO DE 2025)</small>
+
+X. Del patrimonio:
+
+a. Las personas adultas mayores tienen derecho al uso y goce de su patrimonio personal, la edad no será motivo de privación ni discriminación en el goce y disfrute de su patrimonio;
+
+b. A recibir el apoyo de las autoridades administrativas y jurisdiccionales en el ejercicio, respeto y protección de su derecho al patrimonio y, cuando sea el caso, testar sin presiones ni violencia; y
+
+c. En caso de menoscabar o limitar este derecho, incluyendo el fraude y enajenación ilegal con engaños o sin consentimiento, la autoridad o persona de apoyo, procederá conforme al artículo 206 del Código Penal del Estado de Campeche.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
 
@@ -912,3 +922,13 @@ P.O. 24 DE OCTUBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 94 POR EL QUE “SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
