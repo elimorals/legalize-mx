@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-05-28"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2496,6 +2496,10 @@ IV. De tres a seis años de prisión y multa de seiscientos a ochocientos días 
 V. De cuatro a diez años de prisión y multa de ochocientos a mil doscientos días de salario cuando exceda de dos mil veces el salario mínimo;
 
 VI. De uno a cinco años de prisión y multa de trescientos a seiscientos días de salario cuando no sea posible determinar el monto o valor de lo defraudado.
+
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+Cuando el fraude se cometa en contra de una persona adulta mayor o que no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo, las penas se incrementarán en una tercera parte.
 
 Cuando el delito se cometa en contra de tres o más personas, se aumentará la sanción hasta en una mitad.
 
@@ -5410,3 +5414,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 94 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 206 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
