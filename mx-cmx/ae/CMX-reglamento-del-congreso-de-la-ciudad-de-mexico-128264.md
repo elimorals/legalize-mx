@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2025-05-09"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -101,6 +101,14 @@ XVII Bis. Diputación Migrante: La persona diputada dentro del Congreso que repr
 > <small>(ADICIONADA, G.O. 9 DE MAYO DE 2025)</small>
 
 XVII Ter. Formato de Lectura Fácil. Texto complementario al principal redactado en lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, eliminando barreras y dificultades para su comprensión, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2025)</small>
+
+XVII Quáter. Firma Digital Electrónica: Herramienta tecnológica institucional utilizada por el Congreso para validar actos legislativos y administrativos, consiste en el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa, para lo cual el Congreso establecerá la plataforma digital para su implementación, administración y operación;
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2025)</small>
+
+XVII Quinquies. Firma Autógrafa. Signo mediante el cual las personas legisladoras manifiestan su voluntad en los actos que realizan en forma escrita;
 
 XVIII. Gaceta parlamentaria: Documento de difusión interno de los instrumentos parlamentarios inscritos en el orden del día del Congreso;
 
@@ -652,7 +660,9 @@ Tratándose de disminución de la dieta se observará lo siguiente:
 
 I. La sanción será aplicada por la Oficialía Mayor a petición de la o el Presidente de la Mesa Directiva, de la Comisión Permanente o de la o el Presidente de la Comisión o Comité respectivo, debiendo informar de su aplicación, y
 
-II. Para la aplicación de la sanción correspondiente a descuento por inasistencia, la o el Presidente respectivo, deberá enviar a la Oficialía Mayorcopia (sic) simple, con su firma autógrafa de la lista de asistencia que corresponda al descuento que habrá de aplicarse.
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2025)</small>
+
+II. Para la aplicación de la sanción correspondiente a descuento por inasistencia, la o el Presidente respectivo, deberá enviar a la Oficialía Mayor copia simple, con su firma autógrafa o digital electrónica de la lista de asistencia que corresponda al descuento que habrá de aplicarse.
 
 Durante los primeros cinco días de cada mes, la Coordinación de Servicios Parlamentarios, con base en la información que se obtenga de las sesiones del Pleno y de la Comisión Permanente, enviará a la Coordinación de Comunicación Social, las listas de asistencias de las y los Diputados que hayan concurrido a éstas para que las publique en la página de internet del Congreso.
 
@@ -1412,7 +1422,9 @@ VI. Resolutivos, que expresen el sentido del dictamen mediante proposiciones cla
 
 En el caso de iniciativas, el proyecto de decreto, que debe contener la denominación del proyecto de ley o decreto; el texto normativo que se somete a la consideración del Pleno, así como los artículos transitorios;
 
-VII. El voto aprobatorio de la mayoría que corresponda conforme a este Reglamento de las y los Diputados integrantes de la o las Comisiones dictaminadoras mediante firma autógrafa o electrónica conforme a las disposiciones emitidas por la Junta;
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2025)</small>
+
+VII. El voto aprobatorio de la mayoría que corresponda conforme a este Reglamento de las y los Diputados integrantes de la o las Comisiones dictaminadoras mediante firma autógrafa o digital electrónica conforme a las disposiciones emitidas por la Junta;
 
 > <small>(REFORMADA, G.O. 9 DE MAYO DE 2025)</small>
 
@@ -3294,11 +3306,11 @@ Previo de la realización de una votación nominal se verificará el quórum.
 
 Para que la Comisión pueda aprobar acuerdos y dictámenes, deberá contar necesariamente con el quórum establecido en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. Y FUSIONADOS PÁRRAFOS], G.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 278.
 
-Las y los Diputados deberán expresar su voto en un dictamen colocando a un lado de su nombre, firma autógrafa y el sentido de su voto o bien, deberán manifestar su abstención.
-
-Cada Diputada o Diputado Integrante de la Comisión, mencionará en voz alta su nombre y apellido, así como la expresión "a favor", "en contra" o "abstención";
+Las y los Diputados deberán expresar su voto en un dictamen colocando a un lado de su nombre, firma autógrafa o digital electrónica y el sentido de su voto o bien, deberán manifestar su abstención. Cada Diputada o Diputado Integrante de la Comisión mencionará en voz alta su nombre y apellido, así como la expresión “a favor”, “en contra” o “abstención”.
 
 La o el Secretario anotará en una lista los nombres de las y los Diputados Integrantes que aprueben el dictamen correspondiente y en otra los que la rechacen, realizará el cómputo respectivo y dará a conocer el resultado y por último la o el Presidente declarará el sentido de la votación y los resolutivos correspondientes.
 
@@ -6555,3 +6567,15 @@ PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. El Congreso de la Ciudad de México, por conducto de la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, deberá elaborar la Guía para la Elaboración de Formatos de Lectura Fácil en Instrumentos Legislativos del Congreso de la Ciudad de México, dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XVII QUÁTER Y XVII QUINQUIES AL ARTÍCULO 4 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVII QUÁTER Y XVII QUINQUIES AL ARTÍCULO 2 Y SE REFORMAN EL ARTÍCULO 45, LA FRACCIÓN VII DEL ARTÍCULO 106 Y EL ARTÍCULO 278 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México estará facultada para determinar, mediante acuerdo, las plataformas digitales institucionales que habrán de utilizarse para la implementación, administración y operación de la firma digital electrónica en los actos legislativos y administrativos internos, garantizando en todo momento la integridad, autenticidad y seguridad de los documentos generados electrónicamente.
+
+CUARTO. Todas aquellas referencias hechas en materia de firma electrónica se entenderán hechas a la firma digital electrónica.
