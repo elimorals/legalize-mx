@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2025-05-09"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -127,6 +127,14 @@ XVII Bis. Diputación Migrante: La persona diputada dentro del Congreso que repr
 > <small>(ADICIONADA, G.O. 9 DE MAYO DE 2025)</small>
 
 XVII Ter. Formato de Lectura Fácil. Texto complementario al principal redactado en lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, eliminando barreras y dificultades para su comprensión, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2025)</small>
+
+XVII Quáter. Firma Digital Electrónica: Herramienta tecnológica institucional utilizada por el Congreso para validar actos legislativos y administrativos, consiste en el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa, para lo cual el Congreso establecerá la plataforma digital para su implementación, administración y operación;
+
+> <small>(ADICIONADA, G.O. 11 DE JUNIO DE 2025)</small>
+
+XVII Quinquies. Firma Autógrafa. Signo mediante el cual las personas legisladoras manifiestan su voluntad en los actos que realizan en forma escrita;
 
 XVIII. Gaceta parlamentaria: Documento de difusión interna de los instrumentos parlamentarios inscritos en el orden del día del Congreso;
 
@@ -2943,3 +2951,15 @@ PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. El Congreso de la Ciudad de México, por conducto de la Comisión de Normatividad, Estudios y Prácticas Parlamentarias, deberá elaborar la Guía para la Elaboración de Formatos de Lectura Fácil en Instrumentos Legislativos del Congreso de la Ciudad de México, dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE SE "ADICIONAN LAS FRACCIONES XVII QUÁTER Y XVII QUINQUIES AL ARTÍCULO 4 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE ADICIONAN LAS FRACCIONES XVII QUÁTER Y XVII QUINQUIES AL ARTÍCULO 2 Y SE REFORMAN EL ARTÍCULO 45, LA FRACCIÓN VII DEL ARTÍCULO 106 Y EL ARTÍCULO 278 DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México estará facultada para determinar, mediante acuerdo, las plataformas digitales institucionales que habrán de utilizarse para la implementación, administración y operación de la firma digital electrónica en los actos legislativos y administrativos internos, garantizando en todo momento la integridad, autenticidad y seguridad de los documentos generados electrónicamente.
+
+CUARTO. Todas aquellas referencias hechas en materia de firma electrónica se entenderán hechas a la firma digital electrónica.
