@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2025-01-13"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -143,71 +143,163 @@ Los adolescentes a quienes se les atribuya la comisión o participación en un h
 
 En cada caso, las medidas de orientación, protección y tratamiento que se impongan a los adolescentes deberán ser racionales y proporcionales al hecho realizado y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades, atendiendo en todo momento a la protección integral y al interés superior de la niñez. El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad. Los niños y las niñas menores de doce años sólo serán sujetos de asistencia social.
 
-(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2023) (F. DE E., G.O. 26 DE MARZO DE 2024)
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 5.
 
-El Estado tiene una composición pluricultural y diversidad étnica sustentada originalmente en sus pueblos indígenas u originarios y sus diferentes expresiones lingüísticas. La ley promoverá y protegerá el desarrollo de sus lenguas, culturas, usos y costumbres, recursos y formas específicas de organización social; y garantizará a sus integrantes el acceso efectivo a la jurisdicción del Estado. En los juicios y procedimientos en que aquéllos sean parte, se tomarán en cuenta sus prácticas y costumbres en los términos que establezca la ley otorgando la garantía más amplia en el acceso a la justicia y la participación ciudadana.
+El Estado de Veracruz de Ignacio de la Llave forma parte de la Nación Mexicana, con asiento en la grandeza de sus pueblos indígenas u originarios y los afromexicanos, y culturas que viven y habitan en su territorio.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+El Estado tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas u originarios, en su calidad de colectividades con una continuidad histórica de las sociedades precoloniales establecidas en su territorio; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas.
 
-Los pueblos indígenas tienen derecho a la libre determinación dentro del marco constitucional. La expresión concreta de ésta es la autonomía de las comunidades indígenas en los términos establecidos por la ley.
+La conciencia de la identidad indígena o afromexicana deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas u originarios y afromexicanos.
 
-(ADICIONADO, G.O. 3 DE NOVIEMBRE DE 2023) (F. DE E., G.O. 26 DE MARZO DE 2024)
+Son comunidades integrantes de pueblos indígenas u originarios y afromexicanos, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
 
-Los pueblos indígenas u originarios tienen derecho a participar plenamente en la vida política, económica social y cultural del Estado.
+El derecho de los pueblos indígenas u originarios, así como de los afromexicanos, a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de esos pueblos y comunidades, se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
 
-> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2006)</small>
+Se reconoce a los pueblos y comunidades indígenas u originarios y afromexicanos como sujetos de derecho público, con personalidad jurídica y patrimonio propio.
 
-En la regulación y solución de sus conflictos internos, deberán aplicar sus propios sistemas normativos, con sujeción a los principios generales de esta Constitución, respecto a las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres.
+A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas u originarios y afromexicanos a la libre determinación y, en consecuencia, a la autonomía para:
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+I. Decidir, conforme a sus sistemas normativos y de acuerdo con la Constitución Federal y esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural.
 
-Las comunidades indígenas podrán elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, así como representantes ante los Ayuntamientos, observando el principio de paridad de género, de modo que se garantice la participación de las mujeres en condiciones de igualdad frente a los hombres en un marco que respete el pacto federal y la soberanía del estado.
+II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Federal y esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres, con sujeción a las leyes que de ambos ordenamientos deriven y que establezcan los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+La jurisdicción indígena o afromexicana se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas u originarios y afromexicanos, dentro del marco del orden jurídico vigente, en los términos de la Constitución Federal, esta Constitución y leyes aplicables que de una u otra deriven.
 
-El uso y disfrute colectivo de los recursos naturales por las comunidades indígenas se realizará de acuerdo con las formas y modalidades de propiedad previstas por la Constitución Federal.
+III. Elegir, de acuerdo con sus sistemas normativos, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas y afromexicanos disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado de Veracruz de Ignacio de la Llave. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
 
-> <small>(REFORMADO, G.O. 20 DE JUNIO DE 2019)</small>
+IV. Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes.
 
-El Estado y los municipios, en el ámbito de sus respectivas competencias, reconocerán el derecho de las comunidades indígenas a promover su desarrollo equitativo y sustentable, por lo que para la elaboración de los respectivos planes estatal y municipales de desarrollo consultarán previamente a las comunidades indígenas, conforme a los medios de consulta que para tal efecto se establezcan en la Ley de Planeación, así como la forma en que participen en el ejercicio y vigilancia de las acciones a ellas destinadas; también se reconocerá su derecho a una educación laica, obligatoria, bilingüe y pluricultural. Asimismo, en los términos previstos por la ley, se impulsarán el respeto y reconocimiento de las diversas culturas existentes en la Entidad y combatirán toda forma de discriminación.
+V. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural del Estado y de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan.
 
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2023)</small>
+VI. Participar, en términos del artículo 3° de la Constitución Federal y 10 de la Constitución del Estado, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación y de Veracruz de Ignacio de la Llave con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje.
 
-Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado de Veracruz de Ignacio de la Llave. Tendrán, en lo conducente, los derechos señalados en el presente artículo, en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo integral e inclusión en todos los ámbitos de la vida pública.
+VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud.
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2023)</small>
+VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia.
 
-Corresponde al Estado promover y proteger el patrimonio cultural y natural de las comunidades de afrodescendientes radicados en la Entidad, a través de la implementación de las políticas públicas pertinentes, así como garantizar los derechos siguientes de los pueblos y comunidades afromexicanas, enunciados de manera no limitativa: a alcanzar su desarrollo integral con igualdad sustantiva y perspectiva de género; a proteger, restaurar, conservar, defender y aprovechar sosteniblemente los recursos naturales, ecosistemas, biodiversidad y demás elementos medioambientales que integran su hábitat y sustentan su cultura e identidad; a preservar, enriquecer y transmitir generacionalmente la práctica de su memoria histórica, arte, tecnologías, sistemas alternativos de salud, tradiciones orales y culinarias, filosofías y demás elementos de identidad y cultura; a participar activa y creativamente en la vida pública, la organización económica y productiva, la generación de empleos, la preservación de la salud, el establecimiento de infraestructura sostenible y el mejoramiento del ingreso; a contar, de conformidad con las leyes de la materia, con programas y materiales educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, su historia, cosmovisión y aportaciones sociales, políticas, económicas, culturales y democráticas; y a ejercer la autoadscripción calificada.
+IX. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas que prevé la propia Constitución Federal. Para estos efectos, las comunidades podrán asociarse en términos de ley.
 
-> <small>(ADICIONADO, G.O. 16 DE AGOSTO DE 2023)</small>
+X. Elegir, en los municipios con población indígena y afromexicana, representantes en los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Esta Constitución y demás leyes que deriven de esta, reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política.
 
-El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de los planes y programas de política pública, en los presupuestos de egresos que aprueben, así como los mecanismos y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+XI. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales, con respeto a los preceptos que establece la Constitución Federal y esta Constitución.
 
-> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2018)</small>
+Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística.
 
-El Estado reconoce los aportes de su población migrante, sea ésta de origen, retorno, destino o tránsito, nacional o internacional, y se compromete a tutelar y hacer efectivos sus derechos, poniendo especial énfasis en la atención a las particulares condiciones y necesidades de los menores, mujeres e indígenas migrantes.
+XII. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales, en términos de las disposiciones jurídicas aplicables.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 6. Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad, dando especial atención a la integración de las personas con discapacidad."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+XIII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
+Las consultas indígenas y afromexicanas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas u originarios y los afromexicanos reconocidos por la Constitución Federal y esta Constitución.
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas u originarios y afromexicanos un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+Los pueblos y comunidades indígenas u originarios y afromexicanos son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción, conforme a la ley de la materia que regule los términos, condiciones y procedimientos para llevar a cabo la impugnación.
+
+B. El Estado y los Municipios de la Entidad deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas u originarios y afromexicanos, y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
+
+Para tal efecto, las autoridades estatales y municipales tienen la obligación de:
+
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas u originarios y afromexicanos, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+
+Lo anterior, de conformidad con las leyes aplicables que establezcan los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas u originarios y afromexicanos, y reconozcan el trabajo comunitario como parte de su organización social y cultural.
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas u originarios y afromexicanos, que serán administradas directamente por éstos.
+
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas u originarios y afromexicanos, en los términos que establezca la ley.
+
+IV. Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
+
+a) La alfabetización y la educación en todos los niveles, gratuita, laica, integral y con pertinencia cultural y lingüística;
+
+b) La formación de profesionales indígenas y la implementación de la educación comunitaria;
+
+c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+
+d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas u originarios; y
+
+e) La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas u originarios, su importancia para la Nación y para Veracruz de Ignacio de la Llave; así como la promoción de una relación intercultural, de no discriminación y libre de racismo.
+
+V. Asegurar el acceso efectivo a los servicios de salud mediante la participación en la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional.
+
+VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil.
+
+VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas u originarios y afromexicanos, y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales.
+
+VIII. Garantizar la participación efectiva de las mujeres indígenas y afromexicanas, en condiciones de igualdad, en los procesos de desarrollo integral de sus pueblos y comunidades; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos.
+
+IX. Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas u originarios y afromexicanos, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha, con apego a las disposiciones federales y estatales aplicables.
+
+X. Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas u originarios y afromexicanos puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales, con apego a las disposiciones federales y estatales aplicables.
+
+XI. Adoptar medidas para que los pueblos y comunidades indígenas u originarios y los afromexicanos accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena y afromexicana, con apego a las disposiciones federales y estatales aplicables.
+
+XII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas u originarios y afromexicanos mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+XIII. Establecer políticas públicas para proteger a las comunidades y personas indígenas y afromexicanas migrantes, tanto en el territorio estatal como en el de los municipios, en especial, mediante acciones destinadas a:
+
+a) Reconocer las formas organizativas de las comunidades indígenas y afromexicanas residentes y de las personas indígenas y afromexicanas migrantes, en sus contextos de destino en el territorio del Estado y de sus municipios;
+
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+
+d) Velar permanentemente por el respeto de sus derechos humanos; y
+
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
+
+Lo anterior, de conformidad con las leyes que establezcan los mecanismos para que las personas indígenas y afromexicanas residentes y las migrantes puedan mantener la ciudadanía mexicana y el vínculo con sus comunidades de origen.
+
+XIV. Consultar a los pueblos indígenas u originarios y a los afromexicanos en la elaboración del Plan Veracruzano de Desarrollo y de los Municipios y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas u originarios y afromexicanos, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo.
+
+El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que los pueblos y comunidades indígenas u originarios y afromexicanos las administren y ejerzan conforme a las leyes de la materia.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas y afromexicanos, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá, en lo conducente, los mismos derechos, en los términos que dispongan las leyes aplicables.
+
+C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación y de Veracruz de Ignacio de la Llave. Tendrán, en lo conducente, los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezcan la Constitución Federal y esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
+
+Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio nacional desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
+
+Los pueblos y comunidades afromexicanas, como sujetos de derecho público, con personalidad jurídica y patrimonio propio, tienen además derecho a:
+
+I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;
+
+II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y estatal y a la diversidad cultural de la Nación y de Veracruz de Ignacio de la Llave, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Nacional y del Sistema Educativo Estatal, en los términos que señalen las leyes aplicables, y
+
+III. Ser incluidas en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros.
+
+Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
+
+El Estado y los Municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en la Constitución Federal y esta Constitución, con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas u originarios y afromexicanos.
+
+Lo anterior, de conformidad con la ley general que establezca las normas y mecanismos que aseguren el respeto y la implementación de los derechos de los pueblos y comunidades indígenas u originarias y afromexicanas reconocidos en la Constitución Federal y esta Constitución.
+
+Las leyes del Estado y todos los demás ordenamientos de cualquier jerarquía normativa, que se expidan en el orden estatal y municipal, prevendrán las bases y mecanismos para asegurar la efectiva observancia de todo lo dispuesto en el presente artículo, en los respectivos ámbitos de competencia de las autoridades estatales y municipales, y de conformidad con lo dispuesto por la Constitución Federal, esta Constitución y las leyes aplicables que de una y otra deriven.
+
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "Artículo 6. Las autoridades del estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, todas las autoridades en el ámbito de sus competencias, garantizarán el derecho al honor, a la intimidad personal y familiar, y al libre desarrollo de la personalidad dando especial atención a la integración de las personas con discapacidad."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 6.
 
-LAS AUTORIDADES DEL ESTADO PROMOVERÁN LAS CONDICIONES NECESARIAS PARA EL PLENO GOCE DE LA LIBERTAD, IGUALDAD, SEGURIDAD Y LA NO DISCRIMINACIÓN DE LAS PERSONAS; ASIMISMO, TODAS LAS AUTORIDADES EN EL ÁMBITO DE SUS COMPETENCIAS, GARANTIZARÁN EL DERECHO AL HONOR, A LA INTIMIDAD PERSONAL Y FAMILIAR, Y AL LIBRE DESARROLLO DE LA PERSONALIDAD DANDO ESPECIAL ATENCIÓN A LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD.
+Las autoridades del Estado promoverán las condiciones necesarias para el pleno goce de la libertad, igualdad, seguridad y la no discriminación de las personas; asimismo, garantizarán el derecho al honor, a la intimidad personal y familiar y al libre desarrollo de la personalidad, dando especial atención a la integración de las personas con discapacidad.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el hombre en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos, atendiendo el principio de paridad de género."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: " La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el hombre en la vida política, social, económica y cultural del estado. asimismo, garantizará que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos, atendiendo el principio de paridad de género."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, G.O. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
-LA LEY GARANTIZARÁ QUE LA MUJER NO SEA OBJETO DE DISCRIMINACIÓN Y QUE TENGA LOS MISMOS DERECHOS Y OBLIGACIONES QUE EL HOMBRE EN LA VIDA POLÍTICA, SOCIAL, ECONÓMICA Y CULTURAL DEL ESTADO. ASIMISMO, GARANTIZARÁ QUE LA IGUALDAD ENTRE HOMBRES Y MUJERES SE REGULE TAMBIÉN EN LAS DENOMINACIONES CORRESPONDIENTES A LOS CARGOS PÚBLICOS, ATENDIENDO EL PRINCIPIO DE PARIDAD DE GÉNERO.
+La ley garantizará que la mujer no sea objeto de discriminación y que tenga los mismos derechos y obligaciones que el hombre en la vida política, social, económica y cultural del Estado. Asimismo, promoverá que la igualdad entre hombres y mujeres se regule también en las denominaciones correspondientes a los cargos públicos, atendiendo el principio de paridad de género.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
-
-LAS AUTORIDADES ESTATALES EN SU ÁMBITO DE COMPETENCIA GARANTIZARÁN Y VIGILARÁN QUE LAS PERSONAS JÓVENES NO SEAN OBJETO DE DISCRIMINACIÓN Y QUE TENGAN ACCESO EFECTIVO A LA CIUDADANÍA POLÍTICA, SOCIAL, ECONÓMICA Y CULTURAL DEL ESTADO, CON RESPETO A SUS EXPRESIONES DE INDEPENDENCIA Y EMANCIPACIÓN EN EL MARCO DE LOS DERECHOS HUMANOS QUE PROTEGEN LA CONSTITUCIÓN FEDERAL Y ESTA CONSTITUCIÓN.
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: "Las autoridades estatales en su ámbito de competencia garantizarán y vigilarán que las personas jóvenes no sean objeto de discriminación y que tengan acceso efectivo a la ciudadanía política, social, económica y cultural del estado, con respeto a sus expresiones de independencia y emancipación en el marco de los derechos humanos que protegen la constitución federal y esta constitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -221,11 +313,7 @@ El interés superior de la niñez deberá ser considerado de manera primordial e
 
 Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos y principios reconocidos a las niñas, niños y adolescentes. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
-(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL SÉPTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 22 DE JUNIO DE 2020)</small>
-
-LAS AUTORIDADES ESTATALES Y MUNICIPALES DEBERÁN OTORGAR LA PROTECCIÓN MÁS AMPLIA E INSTRUMENTAR TODOS LOS RECURSOS QUE TENGA A SU ALCANCE PARA GARANTIZAR EL ACCESO A LA JUSTICIA Y LA PROTECCIÓN DE LAS PERSONAS MAYORES.
+(NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL SÉPTIMO PÁRRAFO DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA INVALIDEZ SE DETERMINÓ ES: “Las autoridades estatales y municipales deberán otorgar la protección más amplia e instrumentar todos los recursos que tenga a su alcance para garantizar el acceso a la justicia y la protección de las personas mayores."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -235,15 +323,27 @@ El Estado promoverá, en la medida de los recursos presupuestales disponibles, e
 
 Toda persona gozará del derecho a la información, así como al de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados.
 
-(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 205/2025, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO DÉCIMO (ANTES OCTAVO) DE ESTE ARTÍCULO INDICADAS CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
 
 En el Estado, los poderes públicos, organismos autónomos, ayuntamientos o concejos municipales, entidades paraestatales y paramunicipales creadas por uno o más ayuntamientos, ORGANIZACIONES POLÍTICAS; los fideicomisos, fondos públicos Y SINDICATOS DE CUALQUIERA DE ÉSTOS, además de toda persona física o moral que reciba y ejerza recursos públicos, así como aquellas que realicen actos de autoridad o que desempeñen funciones o servicios públicos, son sujetos obligados en materia de acceso a la información y de protección de datos personales que obren en su posesión, en los términos de esta Constitución y la ley.
 
-> <small>(ADICIONADO, G.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.O. 11 DE JUNIO DE 2025)</small>
 
-La información o documentación que los sujetos obligados generen o posean por cualquier título es pública. Éstos permitirán a las personas acceder a ella y reproducirla, de manera proactiva, en atención a los lineamientos generales definidos por el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, diseñados para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo la ley, teniendo por objeto promover la reutilización de la información que generen los sujetos obligados, sin mayor restricción que la protección a los datos personales y el interés público. En todo momento deberá prevalecer, para el ejercicio libre de este derecho, su interpretación con sujeción al principio de máxima publicidad.
+La información o documentación que los sujetos obligados generen o posean por cualquier título es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, y la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2025)</small>
+
+Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fijen la Constitución Federal y las leyes.
+
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2025)</small>
+
+Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes de la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos. En términos de éstas, los órganos encargados de la contraloría u homólogos de los Poderes Ejecutivo, Legislativo y Judicial, así como de los Organismos Autónomos del Estado serán responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales, siendo competentes para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados respectivos.
+
+> <small>(ADICIONADO, G.O. 11 DE JUNIO DE 2025)</small>
+
+Los sujetos obligados se regirán por la ley general en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos emitidos por el Congreso de la Unión, donde se establecen las bases, principios generales y procedimientos del ejercicio de este derecho.
 
 > <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2018)</small>
 
@@ -2093,65 +2193,7 @@ El Congreso designará al titular del Órgano de Fiscalización Superior, por el
 
 Para ser titular del Órgano de Fiscalización Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 58 de esta Constitución, los que señale la ley. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-> <small>(REFORMADA, G.O. 27 DE ABRIL DE 2016)</small>
-
-IV. La garantía y tutela del derecho a la información de las personas, así como de acceso, rectificación, cancelación y oposición al tratamiento de sus datos personales, frente a los sujetos obligados, corresponde al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, como organismo autónomo del Estado, de funcionamiento colegiado, y de naturaleza especializada en la difusión, capacitación y cultura de la transparencia, imparcial y con jurisdicción material en su ámbito de competencia; al efecto, el Instituto:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
-
-1. Funcionará en Pleno y se integrará por tres Comisionadas o Comisionados, quienes durarán en su encargo siete años. Para su nombramiento, el Congreso del Estado, previa realización de una amplia consulta a la sociedad, a propuesta de los grupos legislativos, con el voto de las dos terceras partes de los miembros presentes, nombrará a la Comisionada o al Comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador del Estado en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo la persona nombrada por el Congreso del Estado.
-
-En caso de que el Gobernador del Estado objetara el nombramiento, el Congreso del Estado nombrará una nueva propuesta, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, el Congreso del Estado, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al Comisionado que ocupará la vacante.
-
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
-
-El Congreso del Estado resolverá sobre las renuncias que presenten los Comisionados o Comisionadas. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a una Comisionada o un Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
-
-Para ser Comisionada o Comisionado deberán satisfacerse los requisitos siguientes:
-
-a) Ser ciudadano veracruzano con residencia efectiva en el Estado, cuando menos dos años anteriores al día de su designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el Estado;
-
-b) Contar con título profesional expedido por autoridad o institución legalmente facultada para ello, preferentemente, con estudios de posgrado;
-
-c) Tener, cuando menos, treinta y cinco años cumplidos al día de su designación;
-
-d) Gozar de buena reputación, prestigio profesional, y contar, preferentemente, con experiencia en materia de acceso a la información pública y protección de datos personales;
-
-e) No haber sido condenado por delito doloso;
-
-f) No haber sido ministro de culto religioso, ni dirigente de partido o asociación política, cuando menos cinco años antes de su designación; y
-
-g) No haber sido candidato a cargo de elección popular, cuando menos tres años antes de su designación.
-
-En la conformación del Instituto se procurará la equidad de género.
-
-Los Comisionados designarán, de entre ellos, a su Presidente, quien fungirá en ese cargo por un periodo de tres años, salvo que fenezca su nombramiento. El Presidente no podrá ser reelegido para el período inmediato y, en los términos que señale la ley, deberá rendir un informe anual de actividades al Congreso del Estado.
-
-Los Comisionados sólo podrán ser removidos de sus cargos por las causas y conforme a los procedimientos previstos en el Título Quinto de esta Constitución;
-
-2. Se sujetará en su actuación a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Los Comisionados del Instituto, durante el ejercicio de su cargo, no podrán ser dirigentes de ningún partido político, ni desempeñar otro empleo, cargo o comisión, excepto los del ramo de la enseñanza no remunerados;
-
-3. Aprobará, en términos de ley, las disposiciones de orden reglamentario, lineamientos, criterios y demás normativa necesaria para el cumplimiento de sus atribuciones, con base en los lineamientos del Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la cual será obligatoria para los sujetos obligados y los particulares;
-
-4. Conocerá del recurso de revisión a petición de parte, que será el medio de impugnación, en primera instancia, para controvertir las determinaciones que emitan los sujetos obligados con motivo de procedimientos de solicitud de acceso a la información pública y de solicitud de derechos de acceso, rectificación, cancelación y oposición de datos personales, en cuya fase de instrucción aplicará la suplencia de la deficiencia de la queja y en sus resoluciones realizará ejercicios de ponderación, observando los principios pro persona y de interpretación en materia de derechos humanos, las cuales serán expeditas, vinculantes, definitivas e inatacables en el orden jurídico local, formando precedentes que serán publicados y de observancia obligatoria en los términos que dispongan las leyes;
-
-5. Certificará, a petición de parte, mediante un procedimiento administrativo expedito, la falta de respuesta de los sujetos obligados a las solicitudes de las personas en materia de acceso a la información y de protección de datos personales, dentro de los plazos que señalen las leyes, procediendo en consecuencia a conceder lo solicitado, con las excepciones que las leyes prevean; así como a ejercer ante la autoridad competente la responsabilidad administrativa, en los términos de este artículo;
-
-6. Interpretará, con efectos vinculantes en el ámbito administrativo, el contenido de las leyes aplicables en materia de transparencia y datos personales;
-
-7. Se auxiliará, para el desempeño de sus atribuciones, por las autoridades y los servidores de los sujetos obligados, quienes coadyuvarán con el Instituto, en los términos que les sea solicitado, y le otorgarán apoyo, en el ámbito de sus respectivas competencias;
-
-8. Denunciará ante las autoridades administrativas y ministeriales competentes, en cada caso, así como ante el Congreso del Estado, los incumplimientos que los servidores de los sujetos obligados actualicen respecto de los deberes en materia del derecho a la información y protección de datos personales contenidos en las leyes, para lo cual deberá previamente agotar de manera progresiva medios de apremio, a fin de lograr el cumplimiento de sus resoluciones en los términos que dispongan las leyes, consistentes en apercibimiento, multa y solicitud de suspensión o remoción del servidor ante el superior jerárquico. Las autoridades competentes deberán emitir de forma expedita, de acuerdo al procedimiento aplicable, la resolución que corresponda; en caso contrario, incurrirán en responsabilidad administrativa;
-
-9. Coordinará acciones con el Órgano de Fiscalización Superior, así como con la dependencia encargada del control de la administración pública estatal, a efecto de que, desde el ámbito de sus respectivas competencias, desarrollen políticas públicas homogéneas tendentes a fortalecer la cultura de la transparencia, mediante mecanismos de apertura gubernamental para robustecer el sistema de rendición de cuentas ciudadano en el Estado;
-
-10. Vigilará que los sujetos obligados cuenten con sus respectivas Unidades de Transparencia, como áreas administrativas responsables de hacer efectivos los derechos de acceso a la información y de acceso, rectificación, cancelación y oposición de datos personales, dictando medidas obligatorias que las fortalezcan y legitimen, a efecto de que cumplan a cabalidad su función;
-
-11. Verificará que los sujetos obligados pongan a disposición de las personas información de calidad, con atención a las mejores prácticas nacionales e internacionales; y
-
-12. El Instituto contará con un Consejo Consultivo, conformado por Consejeros que serán honoríficos. En la integración del Consejo se deberá garantizar la igualdad de género y la inclusión de personas con experiencia en materia de transparencia y acceso a la información y, en general, de derechos humanos, provenientes de organizaciones de la sociedad civil y la academia. La ley señalará lo relativo a la integración, funcionamiento, procedimiento transparente de designación, temporalidad en el cargo y su renovación.
+IV. (DEROGADA, G.O. 11 DE JUNIO DE 2025)
 
 > <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2012)</small>
 
@@ -2235,9 +2277,9 @@ El Sistema Estatal Anticorrupción es la instancia de coordinación entre las au
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, G.O. 11 DE JUNIO DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador, que estará integrado por los titulares del Órgano de Fiscalización Superior del Estado de Veracruz; de la Fiscalía Especializada en Combate a la Corrupción; y de la Contraloría General; por el Presidente del Tribunal de Justicia Administrativa del Estado; el Presidente del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales; un representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador, que estará integrado por los titulares del Órgano de Fiscalización Superior del Estado de Veracruz; de la Fiscalía Especializada en Combate a la Corrupción; y de la Contraloría General del Estado; por el Presidente del Tribunal de Justicia Administrativa del Estado; un representante del Tribunal de Disciplina Judicial del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley;
 
@@ -2497,11 +2539,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 77.
 
-Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: las y los Diputados; la persona titular del Ejecutivo del Estado; las y los Secretarios de Despacho; la persona titular de la Contraloría General; la persona titular de la Fiscalía General del Estado; las personas juzgadoras del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, y del Tribunal de Disciplina Judicial; las personas integrantes del Pleno del Órgano de Administración Judicial; las Juezas y los Jueces de Primera Instancia; las y los Presidentes Municipales o de Concejos Municipales, así como las y los Síndicos; la persona titular de la Contraloría General del organismo público que ejerza la autoridad electoral administrativa; las y los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales; y las y los titulares, o sus equivalentes, de las entidades de la administración pública estatal y municipal.
+Podrán ser sujetos de juicio político, por los actos u omisiones que conforme a la ley afecten a los intereses públicos fundamentales y a su correcto despacho: las y los Diputados; la persona titular del Ejecutivo del Estado; las y los Secretarios de Despacho; la persona titular de la Contraloría General; la persona titular de la Fiscalía General del Estado; las personas juzgadoras del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, y del Tribunal de Disciplina Judicial; las personas integrantes del Pleno del Órgano de Administración Judicial; las Juezas y los Jueces de Primera Instancia; las y los Presidentes Municipales o de Concejos Municipales, así como las y los Síndicos; la persona titular de la Contraloría General del organismo público que ejerza la autoridad electoral administrativa; y las y los titulares, o sus equivalentes, de las entidades de la administración pública estatal y municipal.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -2523,11 +2565,11 @@ La responsabilidad política se exigirá durante el período en el cual el servi
 
 Las declaraciones y resoluciones del Congreso y del Tribunal Superior de Justicia no admitirán recurso alguno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 78.
 
-El Congreso del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder por la comisión de delitos durante el tiempo de su cargo, en contra de: las y los Diputados; la persona titular del Ejecutivo del Estado; las y los titulares de las Secretarías de Despacho y de la Contraloría General; la persona titular de la Fiscalía General del Estado; las personas juzgadoras del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, y del Tribunal de Disciplina Judicial; las personas integrantes del Pleno del Órgano de Administración Judicial; las Juezas y los Jueces de Primera Instancia; las y los Presidentes Municipales o de Concejos Municipales, así como las y los Síndicos; quien presida el Consejo, así como las y los Consejeros Electorales y la persona titular de la Secretaría Ejecutiva del organismo público que ejerza la autoridad electoral administrativa; la persona titular de la presidencia de la Comisión Estatal de Derechos Humanos; y las y los Comisionados del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
+El Congreso del Estado, por las dos terceras partes de los votos de la totalidad de sus integrantes, declarará si ha lugar a proceder por la comisión de delitos durante el tiempo de su cargo, en contra de: las y los Diputados; la persona titular del Ejecutivo del Estado; las y los titulares de las Secretarías de Despacho y de la Contraloría General; la persona titular de la Fiscalía General del Estado; las personas juzgadoras del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, y del Tribunal de Disciplina Judicial; las personas integrantes del Pleno del Órgano de Administración Judicial; las Juezas y los Jueces de Primera Instancia; las y los Presidentes Municipales o de Concejos Municipales, así como las y los Síndicos; quien presida el Consejo, así como las y los Consejeros Electorales y la persona titular de la Secretaría Ejecutiva del organismo público que ejerza la autoridad electoral administrativa; y la persona titular de la presidencia de la Comisión Estatal de Derechos Humanos. En el procedimiento que se siga, se respetarán las garantías de audiencia y legalidad.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -4316,3 +4358,41 @@ G.O. 13 DE ENERO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 248 QUE REFORMA EL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía en el Estado de Veracruz de Ignacio de la Llave, que se opongan al presente Decreto.
+
+G.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado tendrá un plazo máximo de setenta días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones necesarias a las leyes que correspondan para darle cumplimiento.
+
+TERCERO. Una vez que entre en vigor la legislación a que hace referencia el artículo Segundo Transitorio, se entenderá extinto el Instituto Veracruzano de Acceso a la Información Pública y Protección de Datos Personales.
+
+Los Comisionados del Instituto Veracruzano de Acceso a la Información Pública y Protección de Datos Personales que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones al iniciar vigencia la legislación a que alude el artículo Segundo Transitorio.
+
+CUARTO. Los derechos laborales de las personas servidoras públicas del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales serán respetados en términos de la legislación aplicable. Los recursos humanos con que cuente el referido Instituto pasarán a formar parte de la Contraloría General del Estado. El Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales transferirá los recursos correspondientes al valor del inventario o plantilla de plazas a la Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave, dentro de los veinte días hábiles siguientes contados a partir de la entrada en vigor de la legislación a que hace referencia el artículo Segundo Transitorio, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+Las personas servidoras públicas del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Contraloría General del Estado habilitados para tal efecto. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+QUINTO. Los recursos materiales con que cuente el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales serán transferidos a la Contraloría General del Estado, dentro de los veinte días hábiles siguientes a la entrada en vigor de la legislación a que hace referencia el artículo Segundo Transitorio.
+
+El Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales transferirá los recursos financieros a la Secretaría de Finanzas y Planeación, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, el referido Instituto deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes, de conformidad con las disposiciones jurídicas aplicables, dentro de los diez días hábiles siguientes a la entrada en vigor de la legislación referida en el artículo Segundo Transitorio.
+
+SEXTO. Los registros, padrones, sistemas informáticos y claves de acceso, tanto internos como externos, que eran utilizados por el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Contraloría General del Estado dentro de los veinte días hábiles siguientes a la entrada en vigor de la legislación referida en el artículo Segundo Transitorio.
+
+SÉPTIMO. Hasta en tanto no se realicen las adecuaciones necesarias a la legislación que dispone el artículo Segundo Transitorio, el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales continuará operando y realizará las atribuciones que le son conferidas a las autoridades garantes locales en términos de la Ley General de Transparencia y Acceso a la Información Pública.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
