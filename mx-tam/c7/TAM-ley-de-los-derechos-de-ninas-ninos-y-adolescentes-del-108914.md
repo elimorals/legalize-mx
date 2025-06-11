@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2025-04-08"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -911,9 +911,17 @@ XV.- Establecer medidas tendentes a la prevención, atención, combate y rehabil
 
 XVI.- Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
 
-XVII.- Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-XVIII.- Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
+XVII.- Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XVIII.- Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+XIX.- Establecer estrategias de prevención, atención y protección para salvaguardar la salud mental de niñas, niños y adolescentes ante los efectos negativos del uso excesivo de dispositivos digitales, a través de campañas de concienciación dirigidas tanto a ellos como a madres, padres y personas tutoras, así como mediante el desarrollo de protocolos específicos que promuevan un uso equilibrado y saludable de la tecnología.
 
 2. Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -1193,9 +1201,17 @@ I. La difusión de información y materiales pertinentes, necesarios que contrib
 
 II. Campañas sobre la cultura de la denuncia a la violación de los derechos de niñas, niños y adolescentes;
 
-III. La prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-IV. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones.
+III. La prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+IV. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones; y
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+V. La implementación de estrategias de prevención, atención y protección para salvaguardar la salud mental de niñas, niños y adolescentes ante los efectos negativos del uso excesivo de dispositivos digitales, a través de campañas de concienciación dirigidas tanto a ellos como a madres, padres y personas tutoras, así como mediante el desarrollo de protocolos específicos que promuevan un uso equilibrado y saludable de la tecnología.
 
 ###### ARTÍCULO 46.
 
@@ -2366,6 +2382,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-273 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 63, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-337 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 34, PÁRRAFO 1, FRACCIONES XVII Y XVIII; 45, FRACCIONES III Y IV; Y SE ADICIONAN LAS FRACCIONES XIX AL ARTÍCULO 34; Y V AL ARTÍCULO 45, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
