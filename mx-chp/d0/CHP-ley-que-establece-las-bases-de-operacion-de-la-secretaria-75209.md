@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2025-05-07"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -71,57 +71,39 @@ En ese sentido, se deben establecer acciones efectivas para proveer y ejecutar m
 
 Además, la Secretaría de Seguridad del Pueblo contará con las herramientas científicas y tecnológicas necesarias para investigar y combatir el fenómeno delictivo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 3.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
-
 I. Carrera: Al Servicio Profesional de Carrera.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+II. Guardia Estatal Complementaria: A la Guardia Estatal Auxiliar, adscrita a la Subsecretaría de Servicios Estratégicos de Seguridad, la cual presta los servicios de protección, custodia, vigilancia y seguridad a las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal, y a personas físicas o morales, mediante el pago de la contraprestación correspondiente.
 
-II. Fuerza Ciudadana: A la policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Operación Policial.
+III. Guardia Estatal Fuerza Ciudadana: A la Guardia profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad del Pueblo.
 
-III. Instituciones de seguridad pública: A las Instituciones Policiales, de Procuración de Justicia, además a todas aquellas dependencias y entidades encargadas de la seguridad pública a nivel local y municipal.
+IV. Guardia Estatal Procesal: A la Guardia Estatal de seguridad penitenciaria adscrita a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, encargada de resguardar la seguridad y el orden de los establecimientos penitenciarios; así como velar por la integridad física de las partes y sujetos intervinientes en las audiencias de juicios orales y traslados.
 
-IV. Instituciones policiales: A las corporaciones de la policía fuerza ciudadana, la complementaria, de vigilancia, de protección, de seguridad y de custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las dependencias encargadas de la seguridad pública a nivel local, que realicen funciones similares.
+V. Guardia Estatal Preventiva: A las corporaciones operativas adscritas a la Secretaría de Seguridad del Pueblo.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+VI. Instituciones Policiales: A las corporaciones de la Guardia Estatal Fuerza Ciudadana, la complementaria, de vigilancia, de protección, de seguridad y de custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las dependencias encargadas de la seguridad pública a nivel local, que realicen funciones similares.
 
-V. Instituto: Al Instituto de Formación Policial, órgano desconcentrado de la Secretaría de Seguridad del Pueblo.
+VII. Instituciones de seguridad pública: A las Instituciones Policiales, de Procuración de Justicia, además a todas aquellas dependencias y entidades encargadas de la seguridad pública a nivel local y municipal.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+VIII. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría de Seguridad del Pueblo y que desempeñen funciones de carácter operativo, de servicios y administrativos, vinculados a la seguridad pública.
 
-VI. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría de Seguridad del Pueblo, y que desempeñen funciones de carácter operativo o de servicios, vinculadas a la seguridad pública.
+IX. Ley: A la Ley que Establece las Bases de Operación de la Secretaría de Seguridad del Pueblo del Estado de Chiapas.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+X. Secretaría: A la Secretaría de Seguridad del Pueblo.
 
-VII. Ley: A la Ley que Establece las Bases de Operación de la Secretaría de Seguridad del Pueblo del Estado de Chiapas.
+XI. Secretario: Al titular de la Secretaría de Seguridad del Pueblo.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
+XII. Servicio: A la actividad física o intelectual que desempeña un integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
 
-VIII. Policía Complementaria: A la policía auxiliar adscrita a la Subsecretaría de Operación Policial, la cual presta los servicios de protección, custodia, vigilancia y seguridad a las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal, y a personas físicas o morales, mediante el pago de la contraprestación correspondiente.
+XIII. Sistema Nacional: Al Sistema Nacional de Seguridad Pública.
 
-IX. Policía Procesal: A la policía de seguridad penitenciaria adscrita a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, encargada de resguardar la seguridad y el orden de los establecimientos penitenciarios; así como velar por la integridad física de las partes y sujetos intervinientes en las audiencias de juicios orales y traslados.
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
-
-X. Policías Preventivas del Estado: A las corporaciones operativas adscritas a la Secretaría de Seguridad del Pueblo.
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
-
-XI. Secretaría: A la Secretaría de Seguridad del Pueblo.
-
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
-
-XII. Secretario: Al titular de la Secretaría de Seguridad del Pueblo.
-
-XIII. Servicio: A la actividad física o intelectual que desempeña un integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
-
-XIV. Sistema Nacional: Al Sistema Nacional de Seguridad Pública.
+XIV. Universidad: A la Universidad de Seguridad Pública del Sureste, órgano desconcentrado de la Secretaría de Seguridad del Pueblo.
 
 ### Capítulo II. De la Organización y Atribuciones de la Secretaría
 
@@ -147,7 +129,9 @@ IV. Establecer los mecanismos de coordinación operativa, logística, de intelig
 
 V. Implementar programas de prevención social del delito con perspectiva de género, así como acciones y proyectos que permitan incrementar la participación de la comunidad en la contención de delitos mediante intervenciones policiales oportunas y efectivas; empleando las herramientas tecnológicas necesarias para prevenir la comisión de delitos cibernéticos, poniendo al alcance de la sociedad mecanismos eficaces para realizar la denuncia de los mismos; a fin de optimizar los recursos destinados a la participación ciudadana.
 
-VI. Controlar la operatividad de las Policías Preventivas del Estado para garantizar el cumplimiento de los objetivos encomendados, así como sancionar las faltas disciplinarias en las que incurran y mantener en ellas un alto sentido del cumplimiento del deber y salvaguarda de la seguridad y paz pública.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+VI. Controlar la operatividad de las Guardias Estatales Preventivas, para garantizar el cumplimiento de los objetivos encomendados, así como sancionar las faltas disciplinarias en las que incurran y mantener en ellas un alto sentido del cumplimiento del deber y salvaguarda de la seguridad y paz pública.
 
 VII. Establecer los modelos y mecanismos de profesionalización, carrera policial, ascensos y recompensas, sistema disciplinario y normativo interno de la Secretaría.
 
@@ -209,69 +193,59 @@ La Secretaría deberá ejercer y controlar la coordinación en materia de Seguri
 
 ### Capítulo I. De la Estructura Organizacional de la Secretaría
 
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 7.
 
-La Secretaría, para el desarrollo de sus funciones, estará organizada de la forma siguiente:
+La Secretaría, para su funcionamiento, se organizará de la forma siguiente:
 
-I. Oficina del C. Secretario.
+I. Despacho del C. Secretario.
 
 II. Unidades de Apoyo al Secretario.
 
 a) Coordinación Técnica.
 
-b) División de la Policía Operativa.
+b) Unidad de Apoyo Jurídico.
 
-c) División de la Policía de Servicios.
+c) Unidad de Asuntos Internos.
 
-d) Unidad de Apoyo Jurídico.
+d) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas.
 
-e) Unidad de Asuntos Internos.
+e) Unidad de Prevención del Delito y Política Criminal.
 
-f) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas.
+f) Unidad de Transmisiones Digitales.
 
-g) Unidad de Prevención del Delito y Política Criminal.
-
-h) Unidad de Transmisiones Digitales.
-
-i) Dirección de Control de Servicios de Seguridad Privada.
-
-j) Dirección Fuerza de Reacción Inmediata Pakal.
-
-k) Dirección de la Policía Auxiliar.
+g) Dirección Fuerza de Reacción Inmediata Pakal.
 
 III. Unidades de Apoyo a la Secretaría.
 
-a) Subsecretaría de Operación Policial.
+a) Subsecretaría de Seguridad del Pueblo.
 
-1. Dirección de la Policía Estatal Preventiva.
+1. Dirección de la Guardia Estatal Preventiva.
 
-2. Dirección de la Policía Estatal Fronteriza.
+2. Dirección de la Guardia Estatal Fronteriza.
 
-3. Dirección de la Policía Fuerza Ciudadana.
+3. Dirección de la Guardia Estatal Fuerza Ciudadana.
 
-4. Dirección de la Policía Estatal de Caminos.
+4. Dirección de la Guardia Estatal de Caminos.
 
-b) Subsecretaría de Inteligencia e Investigación Policial.
+5. División de la Guardia Operativa.
 
-1. Dirección de la Policía Cibernética.
+b) Subsecretaría de Inteligencia e Investigación.
+
+1. Dirección de la Guardia Estatal Cibernética.
 
 2. Dirección de Análisis, Estadística y Plataforma México.
 
 3. Dirección Estatal de Coordinación, Control, Comando, Comunicación y Cómputo.
 
-4. Dirección de Inteligencia e Investigación Policial.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ENERO DE 2025)</small>
+4. Dirección de Inteligencia e Investigación.
 
 c) Subsecretaría Vial Preventiva y de Turismo.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
+1. Dirección de la Guardia Estatal Vial Preventiva
 
-1. Dirección de la Policía Vial Preventiva.
-
-2. Dirección de la Policía Estatal de Turismo.
+2. Dirección de la Guardia Estatal de Turismo.
 
 d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
@@ -279,7 +253,7 @@ d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
 2. Unidad Especializada en la Ejecución de Medidas para Adolescentes.
 
-3. Dirección de la Policía Procesal.
+3. Dirección de la Guardia Estatal Procesal.
 
 4. Centro de Externación y Libertad Regulada.
 
@@ -315,7 +289,13 @@ d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
 20. Centro Estatal de Reinserción Social de Sentenciados No. 17 “El Bambú”, Catazajá.
 
-e) Coordinación General de Administración y Finanzas.
+e) Subsecretaría de Servicios Estratégicos de Seguridad.
+
+1. Dirección de la Guardia Estatal Complementaria.
+
+2. Dirección de Control de Servicios de Seguridad Privada.
+
+f) Coordinación General de Administración y Finanzas.
 
 1. Dirección de Recursos Humanos.
 
@@ -329,9 +309,11 @@ e) Coordinación General de Administración y Finanzas.
 
 6. Dirección de Tecnologías y Gestión de la Información.
 
-IV. Órgano Desconcentrado:
+7. División de la Guardia de Servicios.
 
-a) Instituto de Formación Policial.
+IV. Órgano Desconcentrado.
+
+a) Universidad de Seguridad Pública del Sureste.
 
 V. Comisión de Honor y Justicia.
 
@@ -363,15 +345,17 @@ La Coordinación Técnica para su funcionamiento estará conformada por cuatro a
 
 La Coordinación Técnica podrá integrar los aspectos que se requieran y especializarlas en asuntos específicos a fin de estar en condiciones de cumplir con las exigencias del Secretario en materia de asesoría e información.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 12.
 
-El Secretario podrá, en su caso y mediante acuerdo por escrito, delegar funciones en materia de Seguridad Pública, operación y control de las Policías Preventivas del Estado; sin menoscabo del control central de las mismas que ejerce el Titular; estando en todo momento en capacidad de retirar las facultades asignadas si así lo determina.
+El Secretario podrá, en su caso y mediante acuerdo por escrito, delegar funciones en materia de Seguridad Pública, operación y control de las Guardias Estatales Preventivas; sin menoscabo del control central de las mismas que ejerce el Titular; estando en todo momento en capacidad de retirar las facultades asignadas si así lo determina.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 13.
 
-De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Operación Policial, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
+De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad del Pueblo, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
@@ -425,15 +409,13 @@ La Comisión del Servicio Profesional de Carrera, será la encargada de conocer 
 
 ### Capítulo V. De los Órganos Desconcentrados
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 20 Bis.
 
-El Instituto de Formación Policial, es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Seguridad del Pueblo, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción en materia de capacitación y adiestramiento policial, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
+La Universidad es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción en materia de capacitación y adiestramiento policial, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
-
-El objeto fundamental del Instituto es coordinar su funcionamiento, planear, organizar, dirigir y aplicar los planes y programas de estudio y de investigación; así como preparar e impartir cursos de capacitación, adiestramiento continuo, y actualización profesional, dirigido al personal operativo y de servicios que integran la Secretaría, las Instituciones de Seguridad Pública y los prestadores de servicios de seguridad privada.
+El objeto fundamental de la Universidad es coordinar su funcionamiento, planear, organizar, dirigir y aplicar los planes y programas de estudio y de investigación; así como preparar e impartir cursos de capacitación, adiestramiento continuo, y actualización profesional, dirigido al personal operativo y de servicios que integran la Secretaría, las Instituciones de Seguridad Pública y los prestadores de servicios de seguridad privada.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -572,6 +554,10 @@ El personal perteneciente a la Secretaría estará contemplado en dos áreas:
 I. Áreas operativas.
 
 II. Áreas de servicios.
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+III. Áreas Administrativas, únicamente en el caso de los Órganos Desconcentrados.
 
 El personal que colabora con la Secretaría recibirá por su trabajo la remuneración económica que señalen las leyes, reglamentos y demás normas administrativas especializadas en la materia.
 
@@ -823,15 +809,17 @@ b) Oficial.
 
 c) Suboficial
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 11 DE JUNIO DE 2025)</small>
+
 V. Escala Básica:
 
-a) Policía Primero.
+a) Guardia Primero.
 
-b) Policía Segundo.
+b) Guardia Segundo.
 
-c) Policía Tercero.
+c) Guardia Tercero.
 
-d) Policía.
+d) Guardia.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -841,15 +829,15 @@ La forma de ascender dentro del escalafón jerárquico será únicamente por los
 
 Para ocupar un grado dentro de la Secretaría, se deberán reunir los requisitos establecidos por la normatividad vigente especializada en la materia.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 40.
 
 El orden de las categorías jerárquicas y grado máximo al que puede acceder el personal estará limitado a:
 
-I. Las áreas operativas, de policía a Comisario General.
+I. Las áreas operativas, de Guardia a Secretario.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
-
-II. Las áreas de servicios, de policía a Comisario Jefe.
+II. Las áreas de servicios, de Guardia a Comisario General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -909,9 +897,11 @@ Todos los servidores públicos adscritos a la Secretaría que no pertenezcan a l
 
 Los integrantes de la Secretaría podrán ser separados de sus cargos, si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones y mediante procedimiento disciplinario ante la Comisión de Honor y Justicia, por las conductas previstas en su reglamento correspondiente, atendiendo en cuanto a la forma de terminación del servicio, lo dispuesto por el párrafo segundo de la fracción XIII, del Apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; procediendo en su caso, el registro correspondiente ante el Registro Nacional de Personal de las Instituciones de Seguridad Pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 45.
 
-Las Policías Preventivas del Estado, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
+Las Guardias Preventivas del Estado, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
 
 I. Investigación: a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
 
@@ -957,7 +947,9 @@ I. La Secretaría, deberá consultar los antecedentes de cualquier aspirante en 
 
 II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Control de Confianza Certificado.
 
-III. Ninguna persona podrá ingresar a las Policías Preventivas del Estado si no ha sido debidamente certificado y registrado en el Sistema.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+III. Ninguna persona podrá ingresar a las Guardias Preventivas del Estado si no ha sido debidamente certificado y registrado en el Sistema.
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1025,9 +1017,11 @@ Para ocupar un grado dentro de la Secretaría, se deberán reunir los requisitos
 
 Se considera escala de rangos policiales a la relación que contiene a todos los integrantes y los ordena en forma descendente de acuerdo a su categoría, jerarquía, división, servicio, antigüedad y demás elementos pertinentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 55.
 
-La antigüedad se clasificará y computará para cada uno de los integrantes de las Policías Preventivas del Estado, de la siguiente forma:
+La antigüedad se clasificará y computará para cada uno de los integrantes de las Guardias Preventivas del Estado, de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -1047,9 +1041,11 @@ La conclusión del servicio de un integrante es la terminación de su nombramien
 
 Los integrantes que hayan alcanzado la edad límite para la permanencia, además de aquellos que por razones de salud o discapacidad desempeñen su servicio en áreas operativas, podrán ser reubicados, en otras áreas de servicios de la Secretaría.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### Artículo 58.
 
-La certificación es el proceso mediante el cual los integrantes de las Policías Preventivas del Estado se someten a las evaluaciones periódicas establecidas por el Centro Estatal de Control de Confianza Certificado, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación es el proceso mediante el cual los integrantes de las Guardias Estatales Preventivas se someten a las evaluaciones periódicas establecidas por el Centro Estatal de Control de Confianza Certificado, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
 La Secretaría contratará únicamente al personal que cuente con el requisito de certificación expedido por el Centro Estatal de Control de Confianza Certificado.
 
@@ -1209,11 +1205,11 @@ IV. El acompañamiento y/o canalización a la instancia correspondiente, cuando 
 
 V. Otras, en los términos del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y la Legislación Local.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### Artículo 78.
 
-Las Policías Preventivas del Estado, las áreas de vinculación ministerial, atención a víctimas y servicios médicos de la Secretaría, así como todas las que están en primer contacto con la víctima procuraran la vinculación de la misma a un área especializada en su atención, garantizando siempre un enfoque transversal de género y diferencial, durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata, con plena observancia a los derechos humanos.
+Las Guardias Estatales Preventivas, las áreas de vinculación ministerial, atención a víctimas y servicios médicos de la Secretaría, así como todas las que están en primer contacto con la víctima procuraran la vinculación de la misma a un área especializada en su atención, garantizando siempre un enfoque transversal de género y diferencial, durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata, con plena observancia a los derechos humanos.
 
 T r a n s i t o r i o s
 
@@ -1390,3 +1386,19 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan a lo establecido en el presente Decreto.
 
 Artículo Tercero.- Las disposiciones contenidas en el presente Decreto, no conllevan el otorgamiento de remuneraciones extraordinarias; por lo que, cada policía operativo mantendrá la categoría nominal con la que se encuentra dado de alta y acorde a los Manuales de Instrucciones y Dictámenes de Integración de las Plazas, que administrativa y jurídicamente se encuentran vigentes y validadas por la Secretaría de Finanzas.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 273 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD DEL PUEBLO DEL ESTADO DE CHIAPAS Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
+
+Artículo Tercero.- Las referencias o menciones contenidas en otros ordenamientos legales, normativos o administrativos, relacionadas al término “Policía Estatal”, se entenderán realizadas a la “Guardia Estatal”.
+
+Las referencias, atribuciones o menciones conferidas en otros ordenamientos legales, normativos o administrativos, referentes al Instituto de Formación Policial, se entenderán conferidos y serán asumidos por la Universidad.
+
+Artículo Cuarto.- El Secretario, en un término no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá llevar a cabo las adecuaciones a su marco normativo interno, para efectos de dar cumplimiento a las disposiciones del presente Decreto.
+
+Artículo Quinto.- Las Dependencias y Entidades normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
