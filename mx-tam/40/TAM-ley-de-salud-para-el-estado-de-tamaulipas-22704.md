@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-04-15"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -173,7 +173,9 @@ J).- La información relativa a las condiciones, recursos y servicios de salud y
 
 K).- La educación para la salud;
 
-L).- La orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+L).- La orientación, vigilancia y promoción del mejoramiento de la nutrición y de las condiciones de alimentación, con especial atención a la prevención y combate de la obesidad, el sobrepeso y los trastornos alimentarios;
 
 M).- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -4128,6 +4130,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 15 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-277 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX, X Y SE ADICIONA UNA FRACCIÓN XI, AL ARTÍCULO 2° TER, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-336 MEDIANTE EL CUAL SE REFORMA EL INCISO L), DE LA FRACCIÓN I, DEL ARTÍCULO 3°, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
