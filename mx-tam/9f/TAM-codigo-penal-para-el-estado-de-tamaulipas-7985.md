@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-05-24"
+last_updated: "2025-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -83,13 +83,17 @@ La sentencia penal firme, pronunciada en el extranjero o en las distintas entida
 
 La sanción aplicable al delito se determinará conforme a la ley vigente en el momento de la conducta punible.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 7o.
 
-Si la sanción fuese modificada durante la realización del delito, se aplicará la prevista en la Ley más favorable al reo.
+Si la sanción fuese modificada durante la realización del delito, se aplicará la prevista en la Ley más favorable a la persona imputada.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 8o.
 
-Si la sanción fuere modificada durante el lapso comprendido de la realización del delito a la sentencia que debiera pronunciarse, se aplicará la más favorable al reo.
+Si la sanción fuere modificada durante el lapso comprendido de la realización del delito a la sentencia que debiera pronunciarse, se aplicará la más favorable a la persona imputada.
 
 ###### ARTICULO 9o.
 
@@ -751,9 +755,11 @@ La sanción de prisión produce la suspensión de los derechos políticos y los 
 
 La caución de no ofender consiste en la garantía que el Juez debe exigir al sentenciado, en los casos que proceda legalmente y lo estime conveniente para que no cause un nuevo daño al ofendido, y que será fijada atendiendo a sus condiciones personales. Si el nuevo daño se realiza, la garantía se hará efectiva en favor del ofendido; si el sentenciado prueba que no puede otorgar la garantía, el Juez la substituirá por vigilancia de la (sic) autoridades.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 51.
 
-La amonestación consiste: En la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, según parezca prudente al Juez.
+La amonestación consiste: En la advertencia que la o el Juez dirige a la persona acusada, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, según parezca prudente a la o al Juez.
 
 ###### ARTICULO 52.
 
@@ -979,15 +985,19 @@ En todo caso, la valoración por parte del juez se apoyará en dictámenes de pe
 
 Los delitos culposos se castigarán con prisión de tres días a cinco años y suspensión por igual término o privación definitiva de derechos para ejercer profesión u oficio, según la gravedad de la culpa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 73.
 
-La calificación de la gravedad de la culpa queda al arbitrio del Juez, quien deberá tomar en consideración las circunstancias generales señaladas en el Artículo 69 y las que a continuación se mencionan:
+La calificación de la gravedad de la culpa queda al arbitrio de la o el Juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 69 y las que a continuación se mencionan:
 
 I.- La mayor o menor facilidad para evitar el resultado;
 
 II.- Si se ha representado como posible el resultado, pero ha confiado en que no se producirá;
 
-III.- Si el acusado ha delinquido anteriormente en circunstancias semejantes; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+III.- Si la persona acusada ha delinquido anteriormente en circunstancias semejantes; y
 
 IV.- Si tuvo tiempo para obrar con el cuidado necesario.
 
@@ -1059,9 +1069,11 @@ Las reglas señaladas en los artículos 81 y 82 también regirán para la aplica
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 85.
 
-Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes del responsable o con el producto de su trabajo en la prisión, el reo liberado seguirá sujeto a la obligación de pagar la parte que falte.
+Si no alcanza a cubrirse la responsabilidad pecuniaria con los bienes de la o el responsable o con el producto de su trabajo en la prisión, la persona imputada liberada seguirá sujeto a la obligación de pagar la parte que falte.
 
 ###### ARTICULO 86.
 
@@ -1457,35 +1469,45 @@ La condena condicional suspende la ejecución de las sanciones impuestas por sen
 
 I.- Deberá otorgarse, a petición de parte o de oficio, al pronunciarse sentencia definitiva, que no exceda de cinco años de prisión, si concurren los siguientes requisitos:
 
-a).- Que no hubiera sido condenado con anterioridad por sentencia firme;
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+a).- Que no hubiera sido condenada o condenado con anterioridad por sentencia firme;
 
 b).- Que haya observado buena conducta después de la comisión del delito y antes de la sentencia;
 
 c).- Que haya observado con anterioridad modo honesto de vivir;
 
-d).- Que otorgue fianza que fijará el Juez o Tribunal de que se presentará ante la autoridad, siempre que fuere requerido; y
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+d).- Que otorgue fianza que fijará la o el Juez o Tribunal de que se presentará ante la autoridad, siempre que fuere requerido; y
 
 e).- Que haya reparado el daño causado o depositado el monto de la condena por este concepto.
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, el sentenciado observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquella.
+II.- Si durante un término igual al de la sanción suspendida, contado desde la fecha en que se le concedió el beneficio, la persona sentenciada observa buena conducta, demuestra tener modo honesto de vivir, cumple con las sanciones distintas, a la privativa de la libertad y multa, impuesta por la o el Juez, y no diere lugar a nuevo proceso en el que se dicte auto de formal prisión, se considerará extinguida la sanción fijada en aquella.
 
-En caso contrario, se revocará el beneficio concedido y se hará efectiva la sanción suspendida.
+En caso contrario, se revocará el beneficio concedido y se hará efectiva la sanción suspendida;
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-III.- Al otorgar la suspensión, el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III del artículo 108 de éste Código según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa.
+III.- Al otorgar la suspensión, la o el Juez podrá imponer como condición para gozar de este beneficio, una o varias de las medidas previstas en el inciso b) de la fracción III del artículo 108 de este Código según el caso. De esta manera, la suspensión comprenderá sólo la sanción privativa de la libertad y la multa;
 
-IV.- A los delincuentes a quienes se conceda el beneficio de la condena condicional, se les hará saber el contenido de las fracciones II y III de este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en las mismas;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-V.- Los reos que disfruten del beneficio de la condena condicional, quedarán sujetos a la vigilancia de la autoridad;
+IV.- A las o los delincuentes a quienes se conceda el beneficio de la condena condicional, se les hará saber el contenido de las fracciones II y III de este artículo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en las mismas;
 
-VI.- La obligación contraída por el fiador a que se refiere el inciso d) de la fracción I de este artículo, concluirá en los supuestos previstos en la fracción II;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2011)</small>
+V.- Las personas sentenciadas que disfruten del beneficio de la condena condicional, quedarán sujetos a la vigilancia de la autoridad;
 
-VII.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Juez de Ejecución de Sanciones, a fin de que, si se estiman justificados, se prevenga al reo para que presente nuevo fiador dentro del plazo que deberá fijársele, apercibido de que, si no lo verifica, se hará efectiva la sanción suspendida.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+VI.- La obligación contraída por la o el fiador a que se refiere el inciso d) de la fracción I de este artículo, concluirá en los supuestos previstos en la fracción II; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+VII.- Cuando la o el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá a la o al Juez de Ejecución de Sanciones, a fin de que, si se estiman justificados, se prevenga a la persona imputada para que presente nuevo fiador dentro del plazo que deberá fijársele, apercibido de que, si no lo verifica, se hará efectiva la sanción suspendida.
 
 ## TITULO SEPTIMO. DE LA EJECUCION DE SENTENCIAS
 
@@ -1559,9 +1581,11 @@ El indulto sólo podrá concederse por el Ejecutivo del Estado, cuando haya sanc
 
 (DEROGADO, P.O. 22 DE JUNIO DE 1998)
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 119.
 
-Podrá concederse indulto, cuando el reo haya presentado importantes servicios a la Nación o al Estado, y cuando, prudencial o discrecionalmente, así lo resuelva el Ejecutivo por razones humanitarias o sociales, para quienes, por la conducta observada en la reclusión, o su constante dedicación al trabajo, se les considere merecedores del mismo.
+Podrá concederse indulto, cuando la persona imputada haya prestado importantes servicios a la Nación o al Estado, y cuando, prudencial o discrecionalmente, así lo resuelva el Ejecutivo por razones humanitarias o sociales, para quienes, por la conducta observada en la reclusión, o su constante dedicación al trabajo, se les considere merecedores del mismo.
 
 ###### ARTICULO 120.
 
@@ -1601,7 +1625,9 @@ Por la prescripción se extingue la acción y las sanciones penales.
 
 La prescripción es personal y para que opere basta el simple transcurso del tiempo señalado por la ley.
 
-La prescripción producirá su efecto, aunque no la invoque el acusado.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+La prescripción producirá su efecto, aunque no la invoque la persona acusada.
 
 La autoridad la hará valer de oficio, sea cual fuere el estado del procedimiento.
 
@@ -1657,17 +1683,21 @@ Cuando para deducir la acción penal sea necesario que antes se termine un juici
 
 La prescripción de las acciones se interrumpirá por las diligencias que se practiquen en la averiguación previa del delito y del presunto responsable, aunque por ignorarse quien sea éste, no se practiquen dichas diligencias contra personas determinadas. Si se dejara de actuar, la prescripción comenzará de nuevo a contar desde el día de la última diligencia.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 135.
 
-Lo prevenido en el artículo anterior no comprende el caso en que las diligencias se practiquen después de que haya transcurrido la mitad del término de la prescripción, pues entonces ya no se podrá interrumpir ésta, sino por la aprehensión del acusado.
+Lo prevenido en el artículo anterior no comprende el caso en que las diligencias se practiquen después de que haya transcurrido la mitad del término de la prescripción, pues entonces ya no se podrá interrumpir ésta, sino por la aprehensión de la persona acusada.
 
 ###### ARTICULO 136.
 
 Si para deducir la acción penal la Ley exigiere previa declaración de alguna autoridad, no comenzará a contar la prescripción sino hasta que se emita aquélla.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 137.
 
-Una vez consignada la averiguación, la prescripción se computará desde que el Juez debió resolver sobre la orden de aprehensión solicitada, y sólo se interrumpirá con la detención del acusado. La misma situación se observará tratándose de la reaprehensión.
+Una vez consignada la averiguación, la prescripción se computará desde que la o el Juez debió resolver sobre la orden de aprehensión solicitada, y sólo se interrumpirá con la detención de la persona acusada. La misma situación se observará tratándose de la reaprehensión.
 
 #### Sección II. PRESCRIPCION DE LA SANCION
 
@@ -1691,11 +1721,13 @@ Las causas de extinción de la acción penal y de la sanción, no se extienden a
 
 Cuando el sentenciado hubiere extinguido una parte de la sanción, se necesitará para la prescripción tanto tiempo como el que le falte de la condena y una cuarta parte más, pero estos períodos no excederán de quince años.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 142.
 
-La prescripción de las sanciones privativas de libertad sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso.
+La prescripción de las sanciones privativas de libertad sólo se interrumpe aprehendiendo a la persona acusada de un delito, aunque la aprehensión se ejecute por otro delito diverso.
 
-La prescripción de las obligaciones económicas impuestas al reo, sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
+La prescripción de las obligaciones económicas impuestas a la persona imputada, sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -1823,9 +1855,11 @@ IV.- Al que voluntariamente desempeñe un empleo, un cargo subalterno o comisió
 
 A los Jefes y Servidores del Gobierno y a los rebeldes o Agentes de éstos que después del combate dieren muerte a los prisioneros, se les aplicarán de quince a treinta años de prisión.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 150.
 
-A los extranjeros que cometan los delitos previstos en este capítulo se les aplicarán las sanciones señaladas en el mismo, las que se aumentarán hasta una tercera parte más.
+A las o los extranjeros que cometan los delitos previstos en este capítulo se les aplicarán las sanciones señaladas en el mismo, las que se aumentarán hasta una tercera parte más.
 
 ###### ARTICULO 151.
 
@@ -3395,9 +3429,13 @@ Se impondrá una sanción de tres meses a tres años de prisión y multa de cinc
 
 I.- Patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
 
-II.- Abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-III.- Al defensor de un acusado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional, sin dirigirlo en su defensa y sin promover más pruebas.
+II.- Abandonar la defensa de una o un cliente o negocio sin motivo justificado y causando daño; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+III.- A la o al defensor de una persona acusada, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional, sin dirigirlo en su defensa y sin promover más pruebas.
 
 ###### ARTICULO 243.
 
@@ -4713,9 +4751,11 @@ Por riña se entiende el acometimiento recíproco por vías de hecho.
 
 Cuando las conductas señaladas en el presente Capítulo sean cometidas al interior o en las inmediaciones de una institución educativa pública o privada o deriven de actos previos de violencia escolar, se investigarán de oficio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 341.
 
-Hay premeditación cuando el acusado causa intencionalmente lesiones u homicidio, después de haber reflexionado sobre el delito que va a cometer.
+Hay premeditación cuando la persona acusada causa intencionalmente lesiones u homicidio, después de haber reflexionado sobre el delito que va a cometer.
 
 Se presume que existe premeditación, cuando las lesiones o el homicidio se cometa por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra substancia nociva a la salud; por contagio venéreo, asfixia o enervantes; por retribución dada o prometida; por tormento, actos depravados o brutal ferocidad.
 
@@ -4731,9 +4771,9 @@ II.- Cuando sea superior por las armas empleadas, por su mayor destreza en el ma
 
 III.- Cuando valga de algún medio que debilite la defensa del pasivo;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
 
-IV.- Cuando la víctima se halle inerme o caído y el acusado armado o de pie;
+IV.- Cuando la víctima se halle inerme o caído y la persona acusada armada o de pie;
 
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -4747,7 +4787,9 @@ VI.- El homicidio y las lesiones se ocasionen en situaciones de violencia famili
 
 VII.- Exista una situación de vulnerabilidad motivada por la condición física o mental por discriminación.
 
-La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halle armado o de pie fuera el agredido, y además, hubiere corrido peligro su vida por no aprovechar esa circunstancia.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
+
+La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halle armado o de pie fuera la o el agredido, y además, hubiere corrido peligro su vida por no aprovechar esa circunstancia.
 
 ###### ARTICULO 343.
 
@@ -4779,11 +4821,15 @@ IV.- Existe estado de alteración voluntaria: cuando el agente lo comete en esta
 
 V.- Existe odio: cuando el agente lo comete por la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; la nacionalidad o lugar de origen; el color o cualquier otra característica genética; sexo; lengua; género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; identidad de género; estado civil; ocupación o actividad de la víctima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 347.
 
-Además de las sanciones señaladas en los dos capítulos anteriores, el juzgador podrá:
+Además de las sanciones señaladas en los dos capítulos anteriores, la o el juzgador podrá:
 
-I.- Declarar a los reos sujetos a la vigilancia de la policía; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+I.- Declarar a las personas imputadas sujetas a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
@@ -5963,15 +6009,19 @@ En el caso de adquisición o pignoración de semovientes o sus despojos se estar
 
 En el caso de la fracción I del artículo 439, no se impondrá sanción a aquéllos que no puedan cumplir la obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado; y los que no puedan ser compelidos por las autoridades a revelar secreto que se les hubiera confiado en el ejercicio de su profesión o encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 443.
 
-No se impondrá sanción al que oculte al acusado de un delito o los efectos, objetos, o instrumentos del mismo o impida que se averigüe, cuando lo hiciere por un interés lícito y no se empleare algún medio delictuoso, siempre que se trate de:
+No se impondrá sanción al que oculte a la persona acusada de un delito o los efectos, objetos, o instrumentos del mismo o impida que se averigüe, cuando lo hiciere por un interés lícito y no se empleare algún medio delictuoso, siempre que se trate de:
 
 I.- Sus ascendientes o descendientes consanguíneos o afines, adoptante o adoptado;
 
 II.- Su cónyuge o parientes colaterales o por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; y
 
-III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amistad o afecto íntimo.
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2025)</small>
+
+III.- Los que estén ligados con la persona acusada por respeto, gratitud, estrecha amistad o afecto íntimo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -6337,11 +6387,11 @@ La autoridad ambiental proporcionará, en las materias de su competencia, los di
 
 Cuando una o más de las conductas descritas en el presente Capítulo resulte cometida a nombre, bajo el amparo o en beneficio de una persona, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de su responsabilidad penal en los hechos ejecutados por las personas físicas en la comisión del delito.
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 475.
 
-El juez, de oficio o a petición de parte, podrá reducir las penas correspondientes a los delitos previstos en el presente Título, hasta en tres cuartas partes, cuando el acusado, en forma voluntaria y sin que medie resolución administrativa que le imponga alguna obligación, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizar la conducta delictiva o, cuando ello no sea posible, mediante la ejecución de acciones y obras que compensen los daños ambientales que se hubieren generado, con excepción de los delitos cometidos por servidores públicos.
+La o el Juez, de oficio o a petición de parte, podrá reducir las penas correspondientes a los delitos previstos en el presente Título, hasta en tres cuartas partes, cuando la persona acusada, en forma voluntaria y sin que medie resolución administrativa que le imponga alguna obligación, haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizar la conducta delictiva o, cuando ello no sea posible, mediante la ejecución de acciones y obras que compensen los daños ambientales que se hubieren generado, con excepción de los delitos cometidos por personas servidoras públicas.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2023)</small>
 
@@ -7786,6 +7836,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-331 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE AL ARTÍCULO 463 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-334 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
