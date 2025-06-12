@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2024-12-30"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE JUNIO DE 2025.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -39,167 +39,189 @@ Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembr
 
 ## TITULO PRELIMINAR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 12 DE JUNIO DE 2025)</small>
 
 ###### Artículo 1.
 
-Los Derechos del Hombre son la base y el objeto de las instituciones sociales. En el Estado de Sonora toda persona gozará de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establezca. El Estado de Sonora tutela el derecho a la vida, al sustentar que desde el momento de la fecundación de un individuo, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural. Se exceptúa de este reconocimiento, el aborto causado por culpa de la mujer embarazada o cuando el embarazo sea resultado de una violación o cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, así como los casos de donación de órganos humanos, en los términos de las disposiciones legales aplicables.
+Los Derechos de las personas, son la base y el objeto de las instituciones sociales. En el Estado de Sonora toda persona gozará de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establezca. El Estado de Sonora tutela el derecho a la vida, al sustentar que, desde el momento de la fecundación de un individuo, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural. Se exceptúa de este reconocimiento, el aborto causado por culpa de la mujer embarazada o cuando el embarazo sea resultado de una violación o cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, así como los casos de donación de órganos humanos, en los términos de las disposiciones legales aplicables.
 
 Las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, las garantías y las prerrogativas que esta Constitución Local concede.
 
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Estado de Sonora tiene una composición pluricultural sustentada originalmente en los pueblos indígenas, que son aquellos que descienden de poblaciones que habitaban en el territorio actual del Estado al momento de iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
-
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía, asegurando la unidad estatal, para:
-
-A).- Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
-
-B).- Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales que se establecen en la Constitución Política de los Estados Unidos Mexicanos, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
-
-C).- Elegir de acuerdo con sus normas, usos y costumbres, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado.
-
-D).- Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
-
-E).- Conservar y mejorar el hábitat y sus recursos naturales y preservar la integridad de sus tierras, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes respectivas.
-
-F).- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos, las comunidades podrán asociarse en términos de ley.
-
-G).- Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, en los términos dispuestos en la Ley.
-
-H).- Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes respectivas. Los indígenas tienen, en todo tiempo, el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
-
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-El Estado y los municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos. Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
-
-A).- Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los diferentes órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán, equitativamente, las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos.
-
-B).- Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior; establecer un sistema de becas para los estudiantes indígenas en todos los niveles; definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas, e impulsar el respeto y conocimiento de las diversas culturas existentes en el Estado.
-
-C).- Asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
-
-D).- Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
-
-E).- Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a las actividades productivas, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
-
-F).- Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación.
-
-G).- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
-
-H).- Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio estatal como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
-
-I).- Consultar a los pueblos indígenas en la elaboración de los planes estatal y municipales de desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
-
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2010)</small>
-
-Para garantizar el cumplimiento de las obligaciones señaladas en el párrafo que antecede, el Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
-
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
-
 En el Estado de Sonora queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra.
-
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 Las niñas y los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
 
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
-
 Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos.
-
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
 
-> <small>(ADICIONADO, B.O. 13 DE JULIO DE 2023)</small>
-
 El Gobierno del Estado establecerá un sistema universal de becas para las y los estudiantes de todos los niveles escolares del sistema de educación estatal para prevenir y combatir la deserción escolar, así como fomentar la formación integral y de competencias académicas, deportivas y culturales para las niñas, niños, adolescentes y jóvenes, con un enfoque inclusivo, dando prioridad a regiones o grupos con mayor rezago educativo, pobreza, marginación, vulnerabilidad, violencia, discapacidad física, discapacidad mental o alguna condición mental. El presupuesto asignado será progresivo y no podrá disminuirse respecto del asignado en el ejercicio fiscal inmediato anterior.
-
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
 
 Toda persona tiene derecho a la cultura física y al deporte. Corresponde al Estado conforme a las Leyes en la materia su promoción, normativa, fomento, estímulo y difusión.
 
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
-
-El Estado garantizará como un derecho del hombre el tener la posibilidad de acceder a la conectividad de redes digitales de información y comunicación, como una política pública que otorga igualdad de oportunidades a sus habitantes en el acceso a nuevas tecnologías, con el fin de fortalecer el desarrollo cultural, económico, social y político del Estado.
-
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
+El Estado garantizará como un derecho de las personas, el tener la posibilidad de acceder a la conectividad de redes digitales de información y comunicación, como una política pública que otorga igualdad de oportunidades a sus habitantes en el acceso a nuevas tecnologías, con el fin de fortalecer el desarrollo cultural, económico, social y político del Estado.
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a ese derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque, en términos de lo dispuesto por la Ley.
 
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 2014)</small>
-
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
-
-> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2022)</small>
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
-> <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADO, B.O. 12 DE JUNIO DE 2025)</small>
+
+Toda persona tiene derecho a disfrutar de vivienda adecuada. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+
+> <small>(ADICIONADO, B.O. 12 DE JUNIO DE 2025)</small>
+
+El Estado garantizará la rehabilitación y habilitación de las personas que viven con discapacidad permanente, dando prioridad a las personas menores de dieciocho años de edad, en términos que fije la ley.
+
+> <small>(ADICIONADO, B.O. 12 DE JUNIO DE 2025)</small>
+
+El Estado destinará anualmente los recursos presupuestarios suficientes y oportunos, conforme al principio de progresividad, para garantizar los derechos establecidos en este artículo que impliquen la transferencia de recursos directos hacia la población destinataria. El monto de los recursos asignados no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
+
+> <small>(ADICIONADO, B.O. 12 DE JUNIO DE 2025)</small>
+
+Artículo 1 BIS.- El Estado de Sonora tiene una composición pluricultural y multiétnica, sustentada originalmente en los pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio actual del Estado, y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas.
+
+Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
+
+El Estado de Sonora reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
+
+A.- Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía, asegurando la unidad estatal, para:
+
+I.- Decidir, conforme a sus sistemas normativos y de acuerdo con la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural.
+
+II.- Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales que se establecen en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
+
+La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
+
+III.- Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+
+IV.- Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyan su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes.
+
+V.- Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan.
+
+VI.- Participar, en términos del artículo 3o. constitucional, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje.
+
+VII.- Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud.
+
+VIII.- Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia.
+
+IX.- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos, las comunidades podrán asociarse en términos de ley.
+
+X.- Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Las leyes estatales reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política.
+
+XI.- Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes respectivas.
+
+Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística.
+
+XII.- Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables.
+
+XIII.- Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
+
+Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos por la Constitución Política de los Estados unidos Mexicanos y esta Constitución.
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.
+
+B.- El Estado y los municipios, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos. Para tal efecto, dichas autoridades tienen la obligación de:
+
+I.- Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
+
+La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural.
+
+II.- Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos.
+
+III.- Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley.
+
+IV.- Garantizar y fortalecer la educación indígena, intercultural y plurilingüe, mediante:
+
+a).- La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;
+
+b).- La formación de profesionales indígenas y la implementación de la educación comunitaria;
+
+c).- El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
+
+d).- La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
+
+e).- La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo.
+
+V.- Asegurar el acceso efectivo a los servicios de salud, mediante la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional.
+
+VI.- Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil.
+
+VII.- Mejorar las condiciones de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales.
+
+VIII.- Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos.
+
+IX.- Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha.
+
+X.- Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales.
+
+XI.- Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena.
+
+XII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+XIII.- Establecer políticas públicas para proteger a los migrantes de los pueblos indígenas, tanto en el territorio estatal como en el extranjero, mediante acciones destinadas a:
+
+a) Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;
+
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+
+d) Velar permanentemente por el respeto de sus derechos humanos, y
+
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
+
+XIV.- Consultar a los pueblos indígenas en la elaboración de los planes estatal y municipales de desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+Para garantizar el cumplimiento de las obligaciones señaladas en el párrafo que antecede, el Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, y tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal.
+
+D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
+
+El Estado y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
+
+> <small>(REFORMADO, B.O. 12 DE JUNIO DE 2025)</small>
 
 ###### Artículo 2.
 
 En Sonora la investidura de los funcionarios públicos emana de la Ley y está sujeta a ella. Las prescripciones legales constituyen el único límite a la libertad individual. En este concepto, las autoridades sólo pueden obrar ejercitando facultades expresas de la Ley y los particulares pueden hacer todo lo que ésta no les prohíba.
 
-En materia de información pública:
+En materia de información pública, el Estado de Sonora reconoce y garantiza el derecho humano a la información. Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión.
 
-APARTADO A.- El Estado de Sonora reconoce el derecho humano de toda persona al libre acceso a la información veraz, verificable, confiable, actualizada, accesible, comprensible y oportuna. Comprende su facultad para solicitar, buscar, difundir, investigar y recibir información. Es obligación de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, para garantizar el libre ejercicio de este derecho, para difundir y hacer del conocimiento público la información que se le solicite así como poner a disposición las obligaciones de transparencia y toda aquella información que se considere de interés público que fijen las leyes.
+Para garantizar el derecho humano a la información, los sujetos obligados, se regirán por los siguientes principios y bases:
 
-La información que se refiere a la vida privada y los datos personales serán protegida en los términos y con las excepciones que fijen las leyes.
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-Para el (sic) garantizar el derecho humano a la información, los sujetos obligados que se aluden en el párrafo anterior, se regirán por los siguientes principios y bases:
+II.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
-> <small>(F. DE E., B.O. 3 DE MARZO DE 2016)</small>
+Por lo que hace a la información relacionada con los datos personales en posesión de particulares, la ley en la materia determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones.
 
-I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal es pública y sólo podrá ser considerada reservada de forma temporal por razones de interés público. La ley de la materia determinará los criterios con base en los cuales la información podrá ser considerada reservada o confidencial.
+III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. Para ello, deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+IV.- Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija la Constitución Política Federal, esta Constitución y las leyes en la materia.
 
-III.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso a la información pública, a sus datos personales o a la rectificación de éstos. Para ello se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución. En la interpretación del derecho a la Información, deberá prevalecer el principio de máxima publicidad.
+V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
-IV.- La inobservancia a las disposiciones en materia de acceso a la información pública por parte de los sujetos obligados, será sancionada en los términos que dispongan las leyes.
+VI.- Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+VII.- La inobservancia a las disposiciones en materia de acceso a la información pública por parte de los sujetos obligados, será sancionada en los términos que dispongan las leyes.
 
-V.- El Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, es un organismo público autónomo, especializado, imparcial, colegiado e independiente en sus decisiones y funcionamiento, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, que será responsable de garantizar el ejercicio de los derechos de acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados en los términos de la legislación vigente.
+VIII.- Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos para conocer los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
+Los sujetos obligados se regirán por la legislación general y local en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos que ésta se emita por el Congreso de la Unión y el Congreso local, para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
 
-En su funcionamiento el organismo garante se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad y contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
-
-El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en el ámbito de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, incluidas sociedades, organizaciones e instituciones de derecho privado con participación estatal y municipal, así como cualquier persona física, moral o sindicato que reciba, administre y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, sin perjuicio de las demás atribuciones que fijen las leyes. También conocerá de los recursos que interpongan los particulares respecto de los actos de autoridad que determinen la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezcan las leyes en la materia.
-
-Las resoluciones del organismo serán vinculatorias, definitivas e inatacables para los sujetos obligados y contra ellas sólo procederán los mecanismos de impugnación expresamente señalados en la ley de la materia.
-
-El organismo garante estará conformado por tres comisionados que serán nombrados por las dos terceras partes de los Diputados presentes en la sesión correspondiente.
-
-Los comisionados durarán en su cargo siete años, serán sustituidos de manera escalonada para asegurar la autonomía del organismo, y en el proceso de su designación se procurará una amplia participación de la sociedad, máxima publicidad y se garantizará la igualdad de género. Los comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Sexto de la presente Constitución y serán sujetos de juicio político.
-
-El comisionado presidente ejecutará las decisiones del organismo garante y será su representante legal.
-
-El organismo garante contará con facultades para imponer medidas de apremio a los sujetos obligados para asegurar el cumplimiento de sus decisiones, en los términos de lo que establezca la ley de la materia.
-
-> <small>(REFORMADO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
-
-APARTADO B.- En la designación de los comisionados del organismo garante, el Congreso del Estado deberá asegurar la participación ciudadana y su realización conforme al siguiente procedimiento:
-
-> <small>(REFORMADA, B.O. 7 DE JUNIO DE 2023)</small>
-
-I.- El Congreso del Estado emitirá y difundirá en los medios de comunicación una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma, en la cual deberá contemplar entre los requisitos de idoneidad para el cargo, no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios.
-
-II.- Concluido el plazo para el registro, la Mesa Directiva del Congreso del Estado, dentro de los cinco días naturales siguientes, hará público un listado de la misma manera en que se hizo pública la convocatoria, en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la convocatoria. De la misma manera, en la citada lista se establecerá y hará pública la posibilidad de que, dentro de los cinco días naturales siguientes a la publicación de la lista, cualquier persona interesada, con apoyo en pruebas suficientes, pueda presentar comentarios y objeciones a la candidatura de cualquiera de los aspirantes;
-
-III.- Los aspirantes señalados en la lista a que se refiere la fracción anterior, dentro de los diez días siguientes a la fecha de vencimiento del plazo para la recepción de comentarios y objeciones serán convocados a comparecer en audiencia ante la comisión legislativa correspondiente;
-
-IV.- Concluido el período de comparecencias, la comisión correspondiente, tomando en consideración la opinión de la sociedad expresada en los términos de la fracción III que antecede, realizará la propuesta de designación de comisionados, especificando a la o el ciudadano que habrá de fungir como Presidente del Órgano Garante, mediante el dictamen correspondiente, y lo presentará al Pleno del Congreso del Estado para su discusión y, en su caso, aprobación; y
-
-V.- El dictamen que presente la comisión correspondiente se aprobará cuando obtenga el voto favorable de las dos terceras partes de los diputados presentes en la sesión convocada para tal efecto. En caso de que el dictamen no hubiera obtenido la votación requerida para su aprobación, la comisión deberá presentar otra propuesta a consideración del Pleno del Congreso del Estado hasta obtener la aprobación correspondiente.
-
-En todo caso, el dictamen que presente la comisión correspondiente en los términos antes señalados, deberá hacerse en los términos del Artículo 53 de esta Constitución
-
-El nombramiento podrá ser objetado por el Poder Ejecutivo en un plazo de diez días hábiles. Si el Poder Ejecutivo no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de comisionado la persona nombrada por la Legislatura.
+El ejercicio del derecho a la información se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. La ley de la materia determinará los criterios con base en los cuales la información podrá ser considerada reservada o confidencial.
 
 ## TITULO PRIMERO.
 
@@ -429,15 +451,21 @@ Fuera de los casos ya especificados en el artículo anterior, la ley determinar�
 
 El Estado de Sonora garantizará una política pública encaminada a eliminar la discriminación y violencia contra la mujer comprometiéndose a:
 
-I.- Consagrar el principio de la igualdad del hombre y de la mujer y asegurar por ley u otros medios apropiados la realización práctica de ese principio;
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+I.- Consagrar el principio de la igualdad del hombre y de la mujer garantizando el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres, asegurando por ley u otros medios apropiados la realización práctica de esos principios;
 
 II.- Adoptar medidas adecuadas, legislativas y reglamentarias, que prohíban toda discriminación y violencia contra la mujer;
 
-III.- Garantizar a hombres y mujeres la igualdad en el goce de todos los derechos civiles, políticos, económicos, sociales y culturales;
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+III.- Garantizar a hombres y mujeres la igualdad en el goce de todos los derechos civiles, políticos, económicos, sociales y culturales, asegurando el derecho a la igualdad sustantiva de las mujeres;
 
 IV.- Realizar acciones a efecto de lograr la modificación de los patrones socioculturales de conducta de hombres y mujeres, con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres;
 
-V.- Garantizar el derecho a tener igualdad de acceso a las funciones públicas del Estado y a participar en los asuntos públicos, incluyendo la toma de decisiones;
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+V .- Garantizar el derecho a tener igualdad de acceso a las funciones públicas del Estado y a participar en los asuntos públicos, incluyendo la toma de decisiones, observando el principio de paridad de género, conforme a las formas y modalidades que determinen las leyes;
 
 VI.- Establecer el derecho de la mujer a ser valorada y educada libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
@@ -445,19 +473,27 @@ VII.- Abstenerse de incurrir en todo acto a práctica de discriminación contra 
 
 VIII.- Adoptar medidas con perspectiva antidiscriminatoria, que se apliquen y desarrollen de manera transversal y progresiva en el quehacer público y privado;
 
-IX.- Evitar cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, político, obstétrico o sexual tanto en el ámbito privado como en el público;
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-X.- Llevar una estadística detallada de los delitos cometidos contra las mujeres en el que se haya empleado cualquier tipo de violencia con ellas, tanto en la Fiscalía General de Justicia del Estado como en el Instituto Sonorense de las Mujeres;
+IX.- Garantizar el derecho de las mujeres a vivir una vida libre de violencias, evitando cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, político, obstétrico o sexual tanto en el ámbito privado como en el público;
+
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+X.- Llevar una estadística detallada de los delitos cometidos contra las mujeres en el que se haya empleado cualquier tipo de violencia con ellas, tanto en la Fiscalía General de Justicia del Estado como en la Secretaría de las Mujeres del Estado de Sonora, a fin de garantizar los deberes reforzados de protección del Estado con las mujeres;
 
 XI.- Impulsar que el Congreso del Estado legisle y los Ayuntamientos reglamenten con perspectiva de género;
 
 XII.- Promover y difundir en la sociedad, políticas públicas para evitar y prevenir conductas misóginas en contra de las mujeres;
 
-XIII.- Proporcionar recursos al sector público y sociedad civil organizada para llevar a cabo los programas y la implementación de las acciones de prevención y promoción del combate a la discriminación y violencia contra la mujer;
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+XIII.- Proporcionar recursos al sector público y sociedad civil organizada para llevar a cabo los programas y la implementación de las acciones de prevención y promoción del combate a la discriminación y todo tipo de violencias contra la mujer;
 
 XIV.- Adoptar medidas educativas y culturales para evitar la utilización de lenguaje sexista consistente en expresiones de la comunicación humana que invisibilizan a las mujeres, las subordinan, las humillan o estereotipan;
 
-XV.- Establecer un grupo permanente de carácter interinstitucional y multidisciplinario con perspectiva de género, conformado por sociedad-gobierno que dé el seguimiento a las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida; y
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+XV.- Establecer un grupo permanente de carácter interinstitucional y multidisciplinario con perspectiva de género, conformado por sociedad-gobierno que dé el seguimiento a las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida y todo tipo de violencias contra la mujer, a fin de garantizar los deberes reforzados de protección del Estado con las mujeres; y
 
 XVI.- Utilizar acciones afirmativas en caso de la vulneración de los derechos fundamentales de las mujeres.
 
@@ -488,6 +524,12 @@ La organización de las elecciones es una función estatal que se realiza a trav
 > <small>(REFORMADO, B.O. 20 DE ABRIL DE 2022)</small>
 
 El Instituto Estatal Electoral y de Participación Ciudadana será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño. El Consejo General será su máximo órgano de dirección y se integrará por un consejero Presidente y seis consejeros electorales con derecho a voz y voto, designados por el Instituto Nacional Electoral, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos. De igual manera, el Instituto Estatal Electoral contará con un Órgano Interno de Control, cuyo titular será designado conforme a lo dispuesto en la fracción XV del artículo 64 de esta Constitución.
+
+(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII.1, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 196/2025, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, B.O. 12 DE JUNIO DE 2025)</small>
+
+EL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA TENDRÁ COMPETENCIA PARA CONOCER DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA Y LA PROTECCIÓN DE DATOS PERSONALES A CARGO DE LOS PARTIDOS POLÍTICOS LOCALES; TAMBIÉN CONOCERÁ DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS PARTIDOS POLÍTICOS LOCALES EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY.
 
 Los siete consejeros electorales durarán en su encargo un período de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, en los términos dispuestos en las leyes aplicables.
 
@@ -683,7 +725,9 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-Los diputados podrán ser electos, de manera consecutiva, hasta por cuatro periodos consecutivos sin que la suma de dichos periodos exceda de doce años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. En los casos de los diputados que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
+> <small>(REFORMADO, B.O. 12 DE JUNIO DE 2025)</small>
+
+Las diputadas y los diputados no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubiesen estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -727,7 +771,9 @@ Para ser Diputada o Diputado Propietario o Suplente al Congreso del Estado se re
 
 I. Ser ciudadano sonorense en ejercicio de sus derechos políticos.
 
-II. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
+> <small>(REFORMADA [N. DE ADICIONADA], B.O. 12 DE JUNIO DE 2025)</small>
+
+II. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADA, B.O. 15 DE MAYO DE 2017)</small>
 
@@ -737,17 +783,17 @@ III. Tener vecindad y residencia efectiva dentro del distrito electoral correspo
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
-> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-V. No tener el carácter de servidor público, dentro de los noventa días inmediatamente anteriores al día de la elección, salvo que se trate de reelección del cargo o de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
+V. No tener el carácter de servidor público, dentro de los noventa días inmediatamente anteriores al día de la elección, salvo que se trate de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
 
 > <small>(REFORMADA, B.O. 19 DE FEBRERO DE 1977)</small>
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
-> <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-VII. No haber sido Diputado Propietario durante cuatro periodos consecutivos al año en que se efectúe la elección.
+VII. No haber sido Diputada Propietaria o Diputado Propietario en el período en que se efectúe la elección.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2011)</small>
 
@@ -1099,9 +1145,9 @@ Adicionalmente, el Congreso podrá designar a una persona que formará parte del
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia.
 
-> <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-XIX Bis. Para ratificar o rechazar el nombramiento del Fiscal General de Justicia que haga el Ejecutivo del Estado, así como para objetar el nombramiento de los Fiscales Especializados en materia de delitos electorales y anticorrupción que haga el Fiscal General, las cuales serán por votación de las dos terceras partes de los diputados presentes en la sesión;
+XIX Bis. Para ratificar o rechazar el nombramiento del Fiscal General de Justicia que haga el Ejecutivo del Estado, la cual será por votación de las dos terceras partes de los diputados presentes en la sesión;
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -1257,9 +1303,9 @@ XLIII. Para expedir leyes y reglamentos concernientes a la recta aplicación de 
 
 XLIII Bis. Para expedir la ley que regule las atribuciones del Tribunal de Justicia Administrativa, en los términos previstos en esta Constitución; asimismo, para instituir tribunales de conciliación y arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del servicio civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
-> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-XLIII Bis-A. Para designar, mediante votación de las dos terceras partes de los integrantes del Congreso, a los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, los miembros del consejo consultivo del mismo, legislar en materia de transparencia, acceso a la información pública y protección a datos personales en Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
+XLIII Bis-A. Para legislar en materia de transparencia, acceso a la información pública y protección a datos personales en el Estado de Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado, la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
 
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
@@ -1491,7 +1537,9 @@ I. Ser mexicano por nacimiento, hijo de padres mexicanos y nativo del Estado; y 
 
 II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
-III. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE JUNIO DE 2025)</small>
+
+III. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo.
 
 > <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1663,9 +1711,9 @@ XVIII. Formar y aprobar, en su caso, el Reglamento interior de cada una de sus d
 
 XIX. Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación.
 
-> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas; así como transmitir a la policía preventiva municipal las órdenes necesarias en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público. El mando de la Policía Preventiva Municipal estará a cargo del Presidente Municipal.
+XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas, garantizando el derecho de toda persona a vivir una vida libre de violencias, cumpliendo con los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, conforme a las bases y modalidades previstas en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución; así como transmitir a la policía preventiva municipal las ordenes necesarias en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público. El mando de la Policía Preventiva Municipal estará a cargo del Presidente Municipal.
 
 XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
@@ -1675,9 +1723,9 @@ XXII. Hacer observaciones por una sola vez en el improrrogable término de diez 
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
-> <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-XXIV. Nombrar y remover libremente a los Secretarios y Subsecretarios, cuando no opte por un gobierno de coalición. Integrar y remitir al Congreso del Estado la terna a que se refiere el artículo 98 de esta Constitución.
+XXIV. Nombrar y remover libremente a las y los Secretarios y Subsecretarios, cuando no opte por un gobierno de coalición.
 
 XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
@@ -1793,7 +1841,9 @@ Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones qu
 
 Los Subsecretarios de Gobierno auxiliarán en sus funciones y suplirán en sus ausencias temporales al Secretario de Gobierno y tendrán las facultades y obligaciones que les señale la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 12 DE JUNIO DE 2025)</small>
+
+Los nombramientos de las personas titulares de la administración pública del Poder Ejecutivo del Estado, deberán observar el principio de paridad de género, conforme a las formas y modalidades que determine la Ley.
 
 > <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
 
@@ -1909,9 +1959,9 @@ El Ministerio Público, como Institución de buena fe y en su carácter de repre
 
 I. Perseguir los delitos del orden común cometidos en el territorio del Estado, con estricto respeto a los derechos humanos que precisa la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-II. Velar por la legalidad, en la esfera de su competencia, como uno de los principios rectores de la convivencia social, y promover la pronta, completa e imparcial procuración e impartición de justicia.
+II. Velar por la legalidad, en la esfera de su competencia, como uno de los principios rectores de la convivencia social, y promover la pronta, completa e imparcial procuración e impartición de justicia, con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1925,7 +1975,9 @@ IV. Cuidar la correcta aplicación de las medidas de política criminal, en la e
 
 V. Defender a la Hacienda Pública del Estado en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
 
-VI. (DEROGADA, B.O. 27 DE NOVIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 12 DE JUNIO DE 2025)</small>
+
+VI. Garantizar el derecho de toda persona a vivir una vida libre de violencias, cumpliendo con los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, conforme a las bases y modalidades previstas en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 > <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1997,11 +2049,11 @@ Para ser Fiscal General de Justicia se necesitan los mismos requisitos que para 
 
 El Fiscal General de Justicia del Estado rendirá la protesta de ley ante el Presidente del Congreso y el Titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, B.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 12 DE JUNIO DE 2025)</small>
 
 ###### Artículo 101.
 
-La Agencia Ministerial de Investigación Criminal, como auxiliar y subordinado directo del Ministerio Público, en coordinación con las instituciones encargadas de la seguridad pública conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la investigación y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial con respeto irrestricto a los derechos humanos.
+La Agencia Ministerial de Investigación Criminal, como auxiliar y subordinado directo del Ministerio Público, en coordinación con las instituciones encargadas de la seguridad pública conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la investigación y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial, actuando con estricto respeto a los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -2411,11 +2463,11 @@ Los Ayuntamientos serán órganos colegiados deliberantes, integrados por un Pre
 
 Todos los Regidores Propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 12 DE JUNIO DE 2025)</small>
 
 ###### Artículo 131.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para un periodo adicional, en términos de lo dispuesto en el artículo 133 de esta Constitución, sin que la suma de dichos periodos exceda de 6 años. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electos para un período adicional, en los términos del presente artículo. En los casos de los integrantes del ayuntamiento que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición. Tomarán posesión el día 16 de septiembre del año de su elección.
+Los Presidentes y Presidentas Municipales, Regidores y Regidoras, y personas síndicas de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato posterior al ejercicio de su mandato. Las personas servidoras públicas antes mencionadas cuando tengan el carácter de propietarias, no podrán ser electas para el período inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas propietarias para el período inmediato, siempre que no hubiesen estado en ejercicio. Tomarán posesión el día 16 de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -2441,15 +2493,19 @@ IV. No haber sido persona condenada por la comisión de un delito doloso, salvo 
 
 V. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-VI. No tener el carácter de servidor público, a menos que no haya ejercido o se separe del cargo noventa días antes de la elección, salvo que se trate de reelección del cargo, o de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
+VI. No tener el carácter de servidor público, a menos que no haya ejercido o se separe del cargo noventa días antes de la elección, salvo que se trate de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(ADICIONADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+VII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JUNIO DE 2025)</small>
 
 ###### Artículo 133.
 
-El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años. Podrán ser electos para el mismo cargo por un periodo adicional, siempre y cuando el periodo del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Tomarán posesión el día 16 de septiembre del año de su elección.
+Los Presidentes y Presidentas Municipales, Regidores y Regidoras, y personas síndicas de los ayuntamientos durarán en sus cargos tres años. No podrán ser electas para el mismo cargo en el periodo inmediato posterior al ejercicio de su mandato. Tomarán posesión el día 16 de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -2515,9 +2571,9 @@ X. Proteger y conservar la cultura de los grupos étnicos asentados en sus terri
 
 XI. Vigilar que los habitantes del Municipio realicen sus actividades con respeto a derechos de terceros, al orden e interés público y en general en pro del bienestar colectivo, de acuerdo a las Leyes y reglamentos.
 
-> <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-XII. Prestar los servicios de seguridad pública, policía preventiva municipal y tránsito, sin perjuicio de lo establecido por la fracción XX del artículo 79 de esta Constitución.
+XII. Prestar los servicios de seguridad pública, policía preventiva municipal y tránsito, garantizando el derecho de toda persona a vivir una vida libre de violencias, cumpliendo con los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, conforme a las bases y modalidades previstas en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, sin perjuicio de lo establecido por la fracción XX del Artículo 79 de esta Constitución.
 
 > <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -2571,7 +2627,9 @@ XXIX Bis. Proponer la fundación y la nomenclatura de los centros de población.
 
 XXX. Conceder licencias al Presidente Municipal y Concejales, en los términos de la Ley Orgánica respectiva.
 
-XXXI. Nombrar y remover a los funcionarios y empleados de la administración pública municipal directa y concederles licencia, de acuerdo a lo que establezcan las Leyes.
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
+
+XXXI. Nombrar y remover a los funcionarios y empleados de la Administración Pública Municipal directa y concederles licencia, de acuerdo a lo que establezcan las leyes. Los nombramientos de las personas titulares de la administración pública municipal, deberán observar el principio de paridad de género, conforme a las formas y modalidades que determine la Ley.
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 1991)</small>
 
@@ -2727,11 +2785,13 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 12 DE JUNIO DE 2025)</small>
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal, directa o paraestatal, así como municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral, del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, del Instituto Superior de Auditoría y Fiscalización, del Tribunal de Justicia Administrativa y quienes laboren en los organismos públicos con autonomía legal.
+Se reputará como servidor público para los efectos de este título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la administración pública estatal, directa o paraestatal, así como municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Instituto Estatal Electoral y de Participación Ciudadana, Consejeros Distritales Electorales, Consejeros Municipales Electorales, del Tribunal Estatal Electoral, del Instituto Superior de Auditoría y Fiscalización, del Tribunal de Justicia Administrativa y quienes laboren en los organismos públicos con autonomía constitucional.
+
+> <small>(REFORMADO, B.O. 13 DE AGOSTO DE 2018)</small>
 
 En los términos y condiciones que establezca la Ley respectiva los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, fiscal y de intereses.
 
@@ -2745,9 +2805,9 @@ Las causas graves a las que se refiere esta Constitución para la remoción los 
 
 Artículo 143 A. El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 12 DE JUNIO DE 2025)</small>
 
-I.- El Sistema contará con un Comité Coordinador que estará integrado por los titulares del Instituto Superior de Auditoría y Fiscalización; de la Fiscalía Especializada Anticorrupción; de la Secretaría del Ejecutivo del Estado responsable del control interno; por el presidente del Tribunal de Justicia Administrativa; el presidente del organismo garante que establece el artículo 2, Apartado A de esta Constitución; así como por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
+I.- El Sistema contará con un Comité Coordinador que estará integrado por las y los titulares del Instituto Superior de Auditoría y Fiscalización; de la Fiscalía Especializada Anticorrupción; de la Secretaría del Ejecutivo del Estado responsable del control interno; por el presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 13 DE ENERO DE 2017)</small>
 
@@ -2809,9 +2869,9 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, B.O. 12 DE JUNIO DE 2025)</small>
 
-Solo podrán ser sujetos a juicio político las Diputadas y los Diputados al Congreso del Estado, las Magistradas o Magistrados del Supremo Tribunal de Justicia, las Magistradas o Magistrados del Tribunal de Disciplina Judicial, las Magistradas o Magistrados de cualquier Órgano Jurisdiccional o Administrativo, las personas integrantes del Órgano de Administración del Poder Judicial del Estado, la o el Fiscal General de Justicia y las y los Fiscales Especializados, las y los Secretarios y Subsecretarios, las Juezas y los Jueces, las y los Agentes del Ministerio Público, quienes presidan los Tribunales de Conciliación y Arbitraje, las y los Consejeros Estatales Electorales, la o el Secretario del Instituto Estatal Electoral y de Participación Ciudadana, las Magistradas o Magistrados y Secretario General del Tribunal Estatal Electoral, las y los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, las Presidentas y los Presidentes Municipales, las y los Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como las y los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político las Diputadas y los Diputados al Congreso del Estado, las Magistradas o Magistrados del Supremo Tribunal de Justicia, las Magistradas o Magistrados del Tribunal de Disciplina Judicial, las Magistradas o Magistrados de cualquier Órgano Jurisdiccional o Administrativo, las personas integrantes del Órgano de Administración del Poder Judicial del Estado, la o el Fiscal General de Justicia y las y los Fiscales Especializados, las y los Secretarios y Subsecretarios, las Juezas y los Jueces, las y los Agentes del Ministerio Público, quienes presidan los Tribunales de Conciliación y Arbitraje, las y los Consejeros Estatales Electorales, la o el Secretario del Instituto Estatal Electoral y de Participación Ciudadana, las Magistradas o Magistrados y Secretario General del Tribunal Estatal Electoral, las Presidentas y los Presidentes Municipales, las y los Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como las y los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -4622,5 +4682,87 @@ En caso de renuncia, fallecimiento, ausencia temporal o definitiva y licencias, 
 En tanto se realicen las adecuaciones a las leyes respectivas a la facultad de proponer a Magistradas y Magistrados, Juezas y Jueces para cubrir las faltas temporales o definitivas, así como las renuncias de los mismos, se aplicarán las disposiciones que sobre la materia se encuentran vigentes y en ningún caso estas designaciones provisionales deberán de exceder del plazo de la toma de protesta de la persona electa.
 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+B.O. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 77, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realice el cómputo respectivo, y en caso de resultar aprobada la presente Ley por la mayoría de los ayuntamientos del Estado, la remita al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 78, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN MATERIAS DE BIENESTAR Y DE IGUALDAD SUSTANTIVA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberán notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora, y una vez que entre en vigor la Ley número 77, que reforma y adiciona diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, aprobada el 27 de marzo de 2025 en la sesión ordinaria por el Pleno del Congreso del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen la declaración correspondiente y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en el supuesto de resultar aprobada.
+
+En caso de que la mencionada Ley número 77, sea rechazada expresamente por la mayoría del número total de los Ayuntamientos del Estado, los párrafos que se adicionan al artículo 1º, deberán adicionarse al final del mismo.
+
+B.O. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 79, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN MATERIAS DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN, NO REELECCIÓN Y NEPOTISMO ELECTORAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen la declaración correspondiente y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en el supuesto de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las economías y ahorros que se generen derivado de lo dispuesto en la presente Ley, se destinarán al Sistema Universal de Becas a que se refiere la presente constitución, en términos de la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado contará con un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente Ley para expedir las leyes en materia de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor de la presente Ley, continuará en funciones el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, y se extinguirá una vez que entre en vigor la legislación a la que se hace referencia en el artículo tercero transitorio que antecede a éste.
+
+Los actos jurídicos emitidos por el Instituto en mención, con anterioridad a la entrada en vigor de la ley secundaria que emita el Congreso del Estado, de conformidad con el artículo tercero transitorio, surtirán todos sus efectos legales.
+
+Los plazos para resolver los recursos de revisión que, a la entrada en vigor de la ley secundaria prevista en el artículo tercero transitorio, no hayan sido resueltos por el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, serán interrumpidos por noventa dias hábiles, a fin de que las autoridades que asuman la competencia puedan conocer de ellos.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a la o las instituciones que asuman las funciones del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales que se extingue conforme al presente artículo transitorio pasarán a formar parte de aquellas dependencias que asuman sus atribuciones, según corresponda, en los términos de la presente ley y de la legislación secundaria que al efecto se emita.
+
+###### ARTÍCULO QUINTO.
+
+Los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales que a la entrada en vigor de la presente Ley continúen en su encargo, concluirán sus funciones a la entrada en vigor de la Legislación que emita el Congreso en términos del artículo tercero transitorio de la presente Ley, salvo aquellos cuya vigencia de su nombramiento concluya previamente.
+
+Cuando para efectos de integrar el quórum del Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, requiera realizarse un nuevo nombramiento, la temporalidad de éste no podrá exceder en ningún caso a la entrada en vigor de la Legislación secundaria referida en el artículo tercero transitorio de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los Derechos Laborales de las personas servidoras públicas serán respetados en su totalidad, en términos de la legislación aplicable. Los recursos humanos con que cuente el Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales que se extingue a consecuencia de la presente Ley podrán formar parte de la dependencia o institución que asuma sus atribuciones, cuando corresponda.
+
+(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII.1, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 196/2025, DECLARÓ LA INVALIDEZ DEL ARTÍCULO SÉPTIMO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+###### ARTÍCULO SÉPTIMO.
+
+EL TRIBUNAL DE JUSTICIA ADMINISTRATIVA CONOCERÁ DE LOS ASUNTOS RELACIONADOS CON EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SINDICATOS DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y DE LOS RECURSOS DE REVISIÓN QUE INTERPONGAN LOS PARTICULARES RESPECTO DE LAS RESOLUCIONES DE LOS MISMOS, HASTA EN TANTO SE INSTALE EL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE.
+
+El Centro de Conciliación y Arbitraje tendrá la competencia para conocer de los asuntos relacionados con el acceso a la información pública de los sindicatos y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos, en términos de la ley en la materia.
+
+###### ARTÍCULO OCTAVO.
+
+Las reformas a los artículos 33, fracción II; 70, fracción III; y 132, fracción VII; de esta Constitución, en materia de nepotismo electoral, serán aplicables a partir de los procesos electorales, a celebrarse en 2027.
+
+###### ARTÍCULO NOVENO.
+
+Las reformas a los artículos 30, párrafo segundo; 33, fracción V y VII; 131; 132, fracción VI y 133, párrafo primero de esta Constitución, respecto de la prohibición de la reelección de las personas servidoras públicas en ellas mencionadas, serán aplicables a partir de los procesos electorales a celebrarse en 2030. Por lo que, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO DÉCIMO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
