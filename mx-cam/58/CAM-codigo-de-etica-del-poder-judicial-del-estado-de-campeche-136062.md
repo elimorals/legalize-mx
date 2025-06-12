@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-etica-del-poder-judicial-del-estado-de-campeche-13606
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-23"
-last_updated: "2024-06-21"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2025.
 
 Código publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 23 de abril de 2019.
 
@@ -203,19 +203,39 @@ CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
 Asimismo, reconocen que la posición de autoridad que detentan, se les ha otorgado para la prestación del servicio de impartición de justicia, por lo que al brindar el mismo se conducen con respeto al valor, dignidad e igualdad de todas las personas receptoras o destinatarias del mismo.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO SEGUNDO BIS. Virtudes de la persona juzgadora
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+29. Templanza como virtud esencial del juzgador.
+
+Esta virtud podemos comprenderla si partimos de la definición que da la Real Academia Española: “Una de las cuatro virtudes cardinales, que consiste en moderar los apetitos y el uso excesivo de los sentidos, sujetándolos a la razón.” La templanza es el hábito de saber regularse, a fin de mantener despejada la inteligencia y poder comprender el fondo de las cosas. En tal virtud no es posible que una persona delibere, juzgue y ordene de manera correcta, si es vencido y dominado por emociones sin regular.
+
+La templanza implica, en la persona juzgadora, la moderación de los impulsos que tienden a sobrepasar la medida fijada por la razón (prudencia). La templanza nos lleva a moderar los efectos al aplicar las resoluciones para que puedan ser justas y equitativas.
+
+La persona juzgadora, al llevar a cabo la delicada, importante, trascendente y llena de responsabilidad función de impartir justicia, debe tratar con personas, todos o la mayoría súbditos del poder público que se someten a su deliberación jurisdiccional. Debe tratar a las y los justiciables, a las víctimas y a las partes involucradas en el proceso, con suma atención, cortesía, autoridad, respeto, con esmerada educación, con conciencia de la solemne investidura, con tacto, etcétera.
+
+Deberá aplicar la regla de oro de la convivencia humana:
+
+"Trata a los demás como quisieras que te trataran a ti" (referido en tono positivo); "no hagas a otro, lo que no quieres que te hagan a ti" (señalado en tono negativo).
+
+El trato de la persona impartidora de justicia deberá ser templado con todas las personas: sus pares (sic), colegas, personal judicial, la ciudadanía, etcétera.
+
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
 ### CAPÍTULO TERCERO. Principios que rigen a personas Magistradas y Juezas
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
-29. Dentro de la estructura del Poder Judicial del Estado de Campeche, las personas Magistradas y Juezas realizan las funciones sustantivas inherentes a la impartición de justicia, dando cumplimiento a la trascendental responsabilidad social que garantiza el Estado de Derecho, en consecuencia, además de los valores generales exigibles a las personas servidoras judiciales, deben ajustar su función profesional a los siguientes principios.
+30. Dentro de la estructura del Poder Judicial del Estado de Campeche, las personas Magistradas y Juezas realizan las funciones sustantivas inherentes a la impartición de justicia, dando cumplimiento a la trascendental responsabilidad social que garantiza el Estado de Derecho, en consecuencia, además de los valores generales exigibles a las personas servidoras judiciales, deben ajustar su función profesional a los siguientes principios.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE INDEPENDENCIA
 
-30. Las personas Magistradas y Juezas deben:
+31. Las personas Magistradas y Juezas deben:
 
 a) Formular sus resoluciones evitando aceptar cualquier tipo de influencia externa ajena al derecho, de manera que en sus decisiones sobre los casos sometidos a su potestad y el sentido de su resolución quede suficientemente fundado y motivado en derecho.
 
@@ -231,11 +251,11 @@ f) Abstenerse de insinuar o sugerir cualquier tipo de opinión respecto del sent
 
 g) Evitar tomar decisiones por influencia pública, temor a la crítica, consideraciones de popularidad, notoriedad o por motivaciones impropias o inadecuadas a la función judicial, en consecuencia, deben, mediante el estudio y la reflexión serena de los asuntos, superar los prejuicios y las dudas respecto de la apreciación de los hechos, la valoración de las pruebas, la interpretación y aplicación de la ley.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE IMPARCIALIDAD
 
-31. Las personas Magistradas y Juezas deben, por la imparcialidad a la que están obligados:
+32. Las personas Magistradas y Juezas deben, por la imparcialidad a la que están obligados:
 
 a) Juzgar con rectitud de criterio y objetividad de conciencia, a fin de que prevalezca el estricto apego al derecho en sus resoluciones, en consecuencia, omitirán prejuicios, designios anticipados o la prevención a favor, o en contra, de alguna de las partes.
 
@@ -249,11 +269,11 @@ e) Abstenerse de emitir opiniones que impliquen prejuzgar algún asunto en proce
 
 f) Evitar en conciencia, en los asuntos sometidos a su potestad, los prejuicios que puedan incidir en la recta apreciación de los hechos y en la valoración de las pruebas, así como en la interpretación y aplicación de la ley, de manera que la imparcialidad sea manifiesta (sic) en su resolución.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE OBJETIVIDAD
 
-32. Las personas Magistradas y Juezas deben:
+33. Las personas Magistradas y Juezas deben:
 
 a) Emitir sus resoluciones conforme a derecho, evitando que prevalezca su modo de pensar o de sentir respecto de un asunto. En la decisión que formulen debe prevalecer la estricta aplicación del derecho.
 
@@ -265,11 +285,11 @@ d) Atender los comentarios y sugerencias que les formulen sus colaboradoras y co
 
 e) Actuar, en el ejercicio de sus funciones, con serenidad, ecuanimidad, seriedad y madurez, asimismo, tener presente la expectativa de justicia que la sociedad espera de sus resoluciones y la alta condición de personas servidoras públicas que el Estado les ha conferido.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE PROFESIONALISMO
 
-33. Las personas Magistradas y Juezas deben:
+34. Las personas Magistradas y Juezas deben:
 
 a) Capacitarse humana y profesionalmente. Esto supone entender que la actualización constituye un proceso permanente que se realiza a través de la asistencia y participación en cursos de especialización y cultura jurídica, lo cual les permitirá desarrollar con excelencia la función jurisdiccional que les está encomendada.
 
@@ -289,11 +309,11 @@ h) Esforzarse por cumplir con excelencia sus deberes, de manera que las demás p
 
 i) Actuar con transparencia y profesionalismo en el ejercicio de sus funciones judiciales, de manera que su conducta genere respeto, credibilidad y confianza en otras personas servidoras judiciales, justiciables y en la sociedad.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE EXCELENCIA
 
-34. La actuación de personas Magistradas y Juezas debe caracterizarse por:
+35. La actuación de personas Magistradas y Juezas debe caracterizarse por:
 
 a) Un recto sentido del humanismo para concretar la justicia. Esto supone, dirigir su conducta con apego a la ley y en beneficio de la sociedad a la que de manera natural deben su servicio.
 
@@ -313,51 +333,57 @@ h) La sencillez en el trato con sus superiores, pares y personal subordinado, de
 
 i) La sobriedad en el estilo de vida, de manera que eviten las actitudes frívolas o de ostentación que generan suspicacias y demeritan la respetabilidad del cargo.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE CORTESIA JUDICIAL
 
-35. La cortesía es la puerta de entrada a la ética y al buen trato social. Consiste en el respeto y consideración que las personas juzgadoras han de dispensar a justiciables, testigos, las y los abogados, a su personal subalterno, colegas, y en general a todas aquellas personas que directa o indirectamente se relacionen con la administración de justicia, mostrando la consideración debida a sus circunstancias físicas, psicológicas, sociales y culturales. Brindándoles las explicaciones y aclaraciones que requieran, en la medida en que sean procedentes, oportunas y no supongan la vulneración de alguna norma jurídica. Las personas juzgadoras deben:
+36. La cortesía es la puerta de entrada a la ética y al buen trato social. Consiste en el respeto y consideración que las personas juzgadoras han de dispensar a justiciables, testigos, las y los abogados, a su personal subalterno, colegas, y en general a todas aquellas personas que directa o indirectamente se relacionen con la administración de justicia, mostrando la consideración debida a sus circunstancias físicas, psicológicas, sociales y culturales. Brindándoles las explicaciones y aclaraciones que requieran, en la medida en que sean procedentes, oportunas y no supongan la vulneración de alguna norma jurídica. Las personas juzgadoras deben:
 
 a) Escuchar y atender con respeto las intervenciones comedidas de las partes, de las y los abogados, y de toda persona que requiera der (sic) escuchada.
 
 b) Abstenerse de emitir opiniones irrespetuosas acerca del trabajo de otras personas Magistradas, Juezas y compañeras de trabajo.
 
-c) Relacionarse con todas las personas de manera cortés y equilibrada, sin incurrir en exabruptos, altanerías, favoritismos o conductas arbitrarias.
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+
+c) Relacionarse con todas las personas de manera cortés y equilibrada, sin incurrir en exabruptos,altanerías, (sic) favoritismos o conductas arbitrarias.
 
 d) Mostrar una actitud tolerante y respetuosa hacia las recomendaciones dirigidas a sus decisiones y comportamientos.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE INTEGRIDAD
 
-36. La integridad de la conducta de las personas juzgadoras fuera del ámbito estricto de la actividad jurisdiccional, contribuye a una fundada confianza de la ciudadanía en la judicatura. Las personas juzgadoras deben:
+37. La integridad de la conducta de las personas juzgadoras fuera del ámbito estricto de la actividad jurisdiccional, contribuye a una fundada confianza de la ciudadanía en la judicatura. Las personas juzgadoras deben:
 
 a) Exhibir y promover altos estándares de conducta acorde a los valores y principios éticos, para reforzar la credibilidad y confianza de la sociedad en el Poder Judicial.
 
-b) Cuidar que su conducta esté por encima de cualquier crítica a los ojos de cualquier persona observadora razonable (18).
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
 
-(18) Cualquier ciudadana o ciudadano en pleno goce de sus facultades físicas y mentales que desde un plano imparcial advierta situaciones que se contrapongan con la función de la persona juzgadora o servidora judicial.
+b) Cuidar que su conducta esté por encima de cualquier crítica a los ojos de cualquier persona observadora razonable (1).
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+(1) Cualquier ciudadana o ciudadano en pleno goce de sus facultades físicas y mentales que desde un planoimparcial (sic) advierta situaciones que se contrapongan con la función de la persona juzgadora o servidora judicial.
 
 c) Guardar prudencia respecto a los lugares y las personas que frecuenta, rehusando aquellos que puedan despertar suspicacias sobre su imparcialidad o probidad, así como implicarlo en disputas violentas, o exponerlo a situaciones que vayan en demérito de su dignidad funcional o del prestigio del Poder Judicial.
 
 d) Ser consciente de que el ejercicio de la función jurisdiccional supone exigencias que no rigen para el resto de la ciudadanía, para dar respuestas óptimas a las y los justiciables y cuyo incumplimiento afecta la imagen y la confianza en el Poder Judicial.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE DIGNIDAD
 
-37. La dignidad constituye un importante aspecto de la libertad social y moral de las personas, regula también la actitud hacia ellas por parte de quienes les rodean y de la sociedad en su conjunto, incluyendo las exigencias de respeto a la personalidad y de reconocimiento de sus derechos. Las personas juzgadoras deben:
+38. La dignidad constituye un importante aspecto de la libertad social y moral de las personas, regula también la actitud hacia ellas por parte de quienes les rodean y de la sociedad en su conjunto, incluyendo las exigencias de respeto a la personalidad y de reconocimiento de sus derechos. Las personas juzgadoras deben:
 
 a) Cultivar sus virtudes personales y velar por su buen nombre y honor en todos los ámbitos de su desenvolvimiento personal.
 
 b) Mostrar en su actuación pública y privada con trascendencia pública, prudencia y sobriedad en sus palabras, actitudes y comportamientos, firme compromiso con la justicia y constante defensa de las normas constitucionales y legales que dan sustento a la convivencia.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE HONESTIDAD
 
-38. La honestidad es el atributo que refleja el recto proceder de las personas, que les permite actuar con decencia, recato y pudor. Las personas juzgadoras deben:
+39. La honestidad es el atributo que refleja el recto proceder de las personas, que les permite actuar con decencia, recato y pudor. Las personas juzgadoras deben:
 
 a) Adoptar las medidas necesarias para evitar que pueda surgir cualquier duda razonable sobre la legitimidad de sus ingresos y de su situación patrimonial.
 
@@ -365,31 +391,33 @@ b) Exhibir en su vida profesional y privada una conducta coherente con los valor
 
 c) Responder con actuaciones que reflejen un manejo correcto de los recursos sin que surjan dudas.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE HONRADEZ
 
-39. La honradez es la cualidad de la persona que obra y actúa con rectitud, justicia y honestidad. Se basa en el respeto a la otra persona y en la valoración de la verdad como un valor fundamental de la vida en sociedad. Las personas juzgadoras deben:
+40. La honradez es la cualidad de la persona que obra y actúa con rectitud, justicia y honestidad. Se basa en el respeto a la otra persona y en la valoración de la verdad como un valor fundamental de la vida en sociedad. Las personas juzgadoras deben:
 
 a) Actuar con rectitud de ánimo, honorabilidad e integridad, al cumplir con su función en los términos que el propio derecho exige.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE RESPONSABILIDAD
 
-40. Responsabilidad es la disposición y diligencia en el cumplimiento de las competencias, funciones y tareas encomendadas. Las personas juzgadoras deben:
+41. Responsabilidad es la disposición y diligencia en el cumplimiento de las competencias, funciones y tareas encomendadas. Las personas juzgadoras deben:
 
 a) Mantener un comportamiento profesional incorruptible, que manifieste seriedad y firmeza de carácter en el ejercicio de sus funciones.
 
-b) Contribuir en la defensa de la integridad e independencia del sistema de administración de justicia y en todo lo que ayude a mejorar el funcionamiento del mismo.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+b) Contribuir en la defensa de la integridad e independencia del sistema de administraciónde (sic) justicia y en todo lo que ayude a mejorar el funcionamiento del mismo.
 
 c) Asumir un compromiso activo en el buen funcionamiento de todo el sistema judicial.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE TRANSPARENCIA
 
-41. La transparencia implica un proceder de carácter público y accesible al conocimiento de toda persona natural o jurídica, garantizando que las actuaciones estén acordes a la ética y la moral. Las personas juzgadoras deben:
+42. La transparencia implica un proceder de carácter público y accesible al conocimiento de toda persona natural o jurídica, garantizando que las actuaciones estén acordes a la ética y la moral. Las personas juzgadoras deben:
 
 a) Documentar los actos de su gestión y garantizar accesibilidad a la información en el marco legal vigente.
 
@@ -397,17 +425,23 @@ b) Exhibir una conducta que tienda a reafirmar la confianza del público en la i
 
 c) Procurar, sin infringir el derecho vigente, ofrecer información útil, pertinente, comprensible y fiable a las personas usuarias y público en general.
 
-d) Comportarse, en relación con los medios de comunicación social, de manera equitativa y prudente, poniendo especial esmero para que no resulten perjudicados los derechos e intereses legítimos de las partes y personas asesoras técnicas.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+d) Comportarse, en relación con los medios de comunicación social, de manera equitativa yprudente (sic), poniendo especial esmero para que no resulten perjudicados los derechos e intereses legítimos de las partes y personas asesoras técnicas.
+
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE PRUDENCIA
 
-42. Es el comportamiento, actitud y decisión producto de un juicio de conciencia, justificado racionalmente, luego de haber meditado y valorado argumentos y contra argumentos disponibles en el marco de la norma vigente. Las personas juzgadoras deben:
+43. Es el comportamiento, actitud y decisión producto de un juicio de conciencia, justificado racionalmente, luego de haber meditado y valorado argumentos y contra argumentos disponibles en el marco de la norma vigente. Las personas juzgadoras deben:
 
-a) Mantener una actitud abierta y paciente para escuchar y reconocer nuevos argumentos o sugerencias con el propósito de confirmar o rectificar criterios asumidos.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
 
-b) Ejercer con moderación la autoridad que acompaña al ejercicio de la funciónjurisdiccional (sic).
+a) Mantener una actitud abierta y paciente para escuchar y reconocer nuevos argumentoso (sic) sugerencias con el propósito de confirmar o rectificar criterios asumidos.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+b) Ejercer con moderación la autoridad que acompaña al ejercicio de la función jurisdiccional.
 
 c) Analizar las distintas alternativas durante la toma de decisiones, y valorar las diferentes consecuencias que traerán aparejadas cada una de ellas.
 
@@ -417,21 +451,23 @@ e) Actuar con respeto, consideración, comprensión y tolerancia hacia las perso
 
 f) Evitar comportamientos o actitudes que puedan entenderse como búsqueda injustificadao (sic) desmesurada de reconocimiento social.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE DEBIDA DILIGENCIA
 
-43. La debida diligencia consiste en realizar la función de la manera más ordenada, con dedicación, teniendo en cuenta cada detalle que pueda afectar el trabajo y presentarlo en el momento preciso. Exige el cuidado, esfuerzo y prontitud para llevar a cabo las acciones encaminadas a evitar una decisión tardía. En cumplimiento a este principio las personas juzgadoras están obligadas a:
+44. La debida diligencia consiste en realizar la función de la manera más ordenada, con dedicación, teniendo en cuenta cada detalle que pueda afectar el trabajo y presentarlo en el momento preciso. Exige el cuidado, esfuerzo y prontitud para llevar a cabo las acciones encaminadas a evitar una decisión tardía. En cumplimiento a este principio las personas juzgadoras están obligadas a:
 
-a) Realizar sus funciones de manera oportuna y precisa, con el fin de garantizar el derechode (sic) acceso a la justicia y de evitar vulneraciones de derechos humanos.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+a) Realizar sus funciones de manera oportuna y precisa, con el fin de garantizar el derecho de acceso a la justicia y de evitar vulneraciones de derechos humanos.
 
 b) No contraer obligaciones que perturben o impidan el cumplimiento apropiado y oportunode (sic) sus funciones específicas.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE IGUALDAD
 
-44. Todas las personas son iguales ante la ley. A fin de garantizar el cumplimiento efectivo de este principio, las personas juzgadoras deben:
+45. Todas las personas son iguales ante la ley. A fin de garantizar el cumplimiento efectivo de este principio, las personas juzgadoras deben:
 
 a) Evitar toda apariencia de trato preferencial o especial con las personas abogadas y usuarias.
 
@@ -443,11 +479,11 @@ c) Requerir a las personas defensoras públicas y/o abogadas particulares, que e
 
 ### CAPÍTULO CUARTO. Principios básicos de Equidad de Género y No Discriminación
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE LA NO VIOLENCIA
 
-45. No propiciar, cooperar o ejercer cualquier tipo de acción, omisión, segregación o exclusión realizada en forma reiterativa, que tenga por objeto o efecto la degradación de las condiciones de trabajo que afecten los derechos y la dignidad del personal, bajo posibles formas de maltrato físico, psíquico o social, hostigamiento y acoso sexual, mediante el abuso de poder que dañe la autoestima, salud, integridad, libertad y seguridad de la víctima y comprometa su futuro laboral.
+46. No propiciar, cooperar o ejercer cualquier tipo de acción, omisión, segregación o exclusión realizada en forma reiterativa, que tenga por objeto o efecto la degradación de las condiciones de trabajo que afecten los derechos y la dignidad del personal, bajo posibles formas de maltrato físico, psíquico o social, hostigamiento y acoso sexual, mediante el abuso de poder que dañe la autoestima, salud, integridad, libertad y seguridad de la víctima y comprometa su futuro laboral.
 
 a) En caso de sentirse amenazada o amenazado y/o considerar que está en riesgo la seguridad personal o de cualquier otra persona, se deberá notificar inmediatamente.
 
@@ -463,11 +499,11 @@ f) No se debe aprovechar injustamente de nadie a través de manipulaciones, arti
 
 g) No se tolerará ninguna conducta violenta o amenazas de violencia como: comportamiento peligroso o agresivo, intimidación o amenazas verbales, violencia psicológica, hostigamiento o acecho.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 PRINCIPIO DE LA NO DISCRIMINACIÓN
 
-46. El principio de no discriminación se basa en reconocer la importancia de promover relaciones sociales igualitarias, prohibiendo toda diferencia injusta, desproporcionada o arbitraria que implique que la aceptación estereotipada de roles sociales designados a hombres o mujeres le niegue un derecho o beneficio, imponga una carga o vulnere la dignidad de la persona o la margine.
+47. El principio de no discriminación se basa en reconocer la importancia de promover relaciones sociales igualitarias, prohibiendo toda diferencia injusta, desproporcionada o arbitraria que implique que la aceptación estereotipada de roles sociales designados a hombres o mujeres le niegue un derecho o beneficio, imponga una carga o vulnere la dignidad de la persona o la margine.
 
 a) El Poder Judicial del Estado de Campeche se encargará de mantener un ambiente saludable, justo, armonioso y agradable para todas las personas.
 
@@ -481,9 +517,9 @@ d) En el Poder Judicial del Estado de Campeche, no se acepta que las personas se
 
 ### CAPÍTULO QUINTO. Disposiciones que rigen a las personas que se desempeñan como mediadoras y conciliadoras
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
-47. Además de los valores éticos que prescribe este Código, la conducta de las personas que se desempeñan como mediadoras y conciliadoras debe guiarse por las disposiciones que atendiendo a su labor le obligan. Las personas mediadoras y conciliadoras, deben:
+48. Además de los valores éticos que prescribe este Código, la conducta de las personas que se desempeñan como mediadoras y conciliadoras debe guiarse por las disposiciones que atendiendo a su labor le obligan. Las personas mediadoras y conciliadoras, deben:
 
 a) Ofrecer a las partes beligerantes sus conocimientos, voluntad, disposición y ánimo con el fin de propiciar el diálogo y entendimiento que facilite la mediación y conciliación extrajudicial.
 
@@ -499,37 +535,41 @@ e) Actuar con prudencia y extrema discreción, a fin de lograr en las partes una
 
 ### CAPÍTULO SEXTO. Observación y Aplicación
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
-48. El presente Código prevé los valores y principios que se consideran idóneos para constituir un referente deontológico, que pueda guiar la conducta de las y los servidores judiciales en general y facilitar la reflexión ética sobre los diversos aspectos de la función que desempeñan. Tales valores y principios no son elaborados con la finalidad de complementar o reglamentar la legislación vigente en materia de cualquier tipo de responsabilidad jurídica de las y los miembros del propio Poder Judicial.
+49. El presente Código prevé los valores y principios que se consideran idóneos para constituir un referente deontológico, que pueda guiar la conducta de las y los servidores judiciales en general y facilitar la reflexión ética sobre los diversos aspectos de la función que desempeñan. Tales valores y principios no son elaborados con la finalidad de complementar o reglamentar la legislación vigente en materia de cualquier tipo de responsabilidad jurídica de las y los miembros del propio Poder Judicial.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 21 DE JUNIO DE 2024)
 
-49. La observancia y aplicación de las disposiciones aquí contenidas, constituye, por consiguiente, un referente objetivo para la valoración de la conducta personal de cada una de las y los integrantes de este Poder Judicial.
+50. La observancia y aplicación de las disposiciones aquí contenidas, constituye, por consiguiente, un referente objetivo para la valoración de la conducta personal de cada una de las y los integrantes de este Poder Judicial.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 21 DE JUNIO DE 2024)
 
 Disposiciones Supletorias
 
-50. Los principios contenidos en el Código Modelo Iberoamericano, en el Código Nacional Mexicano y en los Principios de Bangalore sobre la Conducta Judicial, de las Naciones Unidas, serán supletorios del presente Código de Ética, y a su vez el presente Código de Ética será supletorio de las disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado y su Reglamento, en lo que rige la conducta de las personas servidoras judiciales.
+51. Los principios contenidos en el Código Modelo Iberoamericano, en el Código Nacional Mexicano y en los Principios de Bangalore sobre la Conducta Judicial, de las Naciones Unidas, serán supletorios del presente Código de Ética, y a su vez el presente Código de Ética será supletorio de las disposiciones contenidas en la Ley Orgánica del Poder Judicial del Estado y su Reglamento, en lo que rige la conducta de las personas servidoras judiciales.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
 ### CAPÍTULO SÉPTIMO. Del Comité de Ética
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 21 DE JUNIO DE 2024)
 
 Atribuciones
 
-51. Son atribuciones del Comité:
+52. Son atribuciones del Comité:
 
 I. Difundir y promover el conocimiento del Código de Ética del Poder Judicial del Estado; Realizar las interpretaciones del Código de Ética del Poder Judicial del Estado, de las disposiciones, cánones y principios de Ética Judicial;
 
 II. Alentar y procurar el apego de las personas servidoras judiciales a los principios y virtudes éticas que deben regir su conducta;
 
-III. Emitir pronunciamiento en forma de Recomendación (19) ante las solicitudes que los miembros del Comité presenten en torno a situaciones dudosas sobre el comportamiento ético que se deba adoptar por el personal judicial, con especial énfasis en asuntos que involucren a personas magistradas, consejeras y juezas.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
 
-(19) Atribución adicionada mediante Acuerdo General Conjunto número 05/PTSJCJCAM/21-2022.
+III. Emitir pronunciamiento en forma de Recomendación (2) ante las solicitudes que los miembros del Comité presenten en torno a situaciones dudosas sobre el comportamiento ético que se deba adoptar por el personal judicial, con especial énfasis en asuntos que involucren a personas magistradas, consejeras y juezas.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+(2) Atribución adicionada mediante Acuerdo General Conjunto número 05/PTSJ-CJCAM/21-2022.
 
 IV. Coordinar investigaciones y estudios sobre Ética Judicial;
 
@@ -545,11 +585,11 @@ IX. Evaluar periódicamente los resultados de aplicación y difusión del Códig
 
 X. Las demás que deriven de la Ley Orgánica del Poder Judicial del Estado, del Código de Ética del Poder Judicial del Estado y de los acuerdos emitidos por los Plenos del Honorable Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura Local.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 Integración
 
-52. El Comité de Ética del Poder Judicial del Estado estará integrado por seis miembros y conformado de la siguiente manera:
+53. El Comité de Ética del Poder Judicial del Estado estará integrado por seis miembros y conformado de la siguiente manera:
 
 I. La persona titular de la Presidencia del Honorable Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura Local, quien lo presidirá y será la única integrante con carácter permanente;
 
@@ -567,11 +607,11 @@ VII. Para la suplencia de las y los demás integrantes de la Comisión, ya sea t
 
 VIII. Para el caso de ausencia temporal o definitiva de la Secretaria Técnica, ésta podrá ser sustituida por la persona que designe la Presidencia o el Pleno del Honorable Tribunal Superior de Justicia del Estado, según sea el caso, en términos de la Ley Orgánica delPoder (sic) Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 Funcionamiento
 
-53. El Comité celebrará por lo menos una sesión ordinaria de forma trimestral. Igualmente podrá celebrar sesiones extraordinarias en cualquier momento, ante la urgencia o relevancia de los asuntos a tratar.
+54. El Comité celebrará por lo menos una sesión ordinaria de forma trimestral. Igualmente podrá celebrar sesiones extraordinarias en cualquier momento, ante la urgencia o relevancia de los asuntos a tratar.
 
 Las convocatorias de las sesiones ordinarias se enviarán por la Secretaría Técnica, con una antelación mínima de tres días hábiles a la fecha de la sesión correspondiente.
 
@@ -583,19 +623,19 @@ El envío de las convocatorias y la documentación relacionada con los puntos de
 
 En la convocatoria se hará constar el lugar, la fecha y la hora de la sesión, así como el orden del día de la misma o referencia de los asuntos que vayan a ser tratados por el Comité.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
 Difusión y Comunicación
 
-54. Los Plenos del Honorable Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura Local, deberán adoptar las medidas y procedimientos necesarios para asegurarla (sic) difusión y comunicación del Código de Ética, de las actividades del Comité, de sus objetivos y resultados obtenidos. Para ello, la Secretaría Técnica lo hará del conocimiento a dichos órganos colegiados, a más tardar dentro de los tres días hábiles siguientes al en que sean emitidas las determinaciones a cargo del Comité.
+55. Los Plenos del Honorable Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura Local, deberán adoptar las medidas y procedimientos necesarios para asegurarla (sic) difusión y comunicación del Código de Ética, de las actividades del Comité, de sus objetivos y resultados obtenidos. Para ello, la Secretaría Técnica lo hará del conocimiento a dichos órganos colegiados, a más tardar dentro de los tres días hábiles siguientes al en que sean emitidas las determinaciones a cargo del Comité.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
 ### CAPÍTULO OCTAVO. Compromiso de comprensión y aceptación
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+(REUBICADO, P.O. 12 DE JUNIO DE 2025)
 
-55. Las personas magistradas, consejeras, juezas y demás servidoras judiciales, deben comprometerse de manera expresa con todos los términos, misión, valores y principios éticos de conducta que rigen al Poder Judicial del Estado, entendiendo que su cumplimiento es obligatorio y que con ello se contribuye a crear un ambiente laboral en el que se garantiza la credibilidad de la judicatura y del servicio de justicia.
+56. Las personas magistradas, consejeras, juezas y demás servidoras judiciales, deben comprometerse de manera expresa con todos los términos, misión, valores y principios éticos de conducta que rigen al Poder Judicial del Estado, entendiendo que su cumplimiento es obligatorio y que con ello se contribuye a crear un ambiente laboral en el que se garantiza la credibilidad de la judicatura y del servicio de justicia.
 
 En consecuencia, cada integrante del Poder Judicial del Estado, debe firmar la siguiente Carta Compromiso de cumplimiento del Código de Ética del Poder Judicial del Estado de Campeche:
 
@@ -603,7 +643,7 @@ CARTA COMPROMISO
 
 Hago constar que comprendo el contenido del Código de Ética del Poder Judicial del Estado en todas sus partes, así como la misión, valores y principios que lo rigen, destacando de forma especial, pero sin limitar el cumplimiento de los demás valores y principios, los de lealtad, integridad y honestidad. Entiendo que su cumplimiento es obligatorio, por lo que me comprometo a respetarlos, y así contribuir a crear un ambiente laboral en el cual se garantiza la credibilidad del Poder Judicial y el servicio de administración de justicia.
 
-Nombre y Apellidos:________________________________________________
+Nombre y Apellidos:______________________________________
 
 Número de empleada (o): ____________________
 
@@ -658,6 +698,20 @@ P.O. 21 DE JUNIO DE 2024.
 PRIMERO: Publíquese el presente Acuerdo General Conjunto en el Periódico Oficial del Estado, en los estrados de la Secretaría General de Acuerdos, de la Secretaría Ejecutiva, de las Salas del Honorable Tribunal, de los Juzgados, así como en las Áreas Administrativas, Órganos Auxiliares, Auxiliares de la Administración de Justicia, Auxiliares Administrativos, Direcciones, Coordinaciones, Departamentos, Centros y/o Centrales, y en el Portal de Transparencia del Poder Judicial del Estado de Campeche.
 
 SEGUNDO: Se reforma el Código de Ética del Poder Judicial del Estado de Campeche, publicado el día tres de mayo de dos mil veintidós en el Periódico Oficial del Estado, y se derogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
+
+TERCERO: Las reformas al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO: Los Plenos del Honorable Tribunal Superior de Justicia del Estado y del Consejo de la Judicatura Local, dentro del ámbito de sus respectivas competencias, proveerán lo conducente para la promoción, difusión y observancia del presente Código, a través del Comité de Ética del Poder Judicial del Estado de Campeche.
+
+QUINTO: La Dirección de Recursos Humanos, hará llegar a todas las áreas jurisdiccionales y administrativas de este Poder Judicial, el documento que contenga la Carta Compromiso a que se hace referencia en el Capítulo Octavo, para su adhesión por parte de las personas titulares y del personal a su cargo, misma que deberá ser integrada al expediente personal de cada una de las personas servidoras judiciales. En los casos de nuevo ingreso del personal, la adhesión correspondiente deberá hacerse de manera simultánea a la entrega del nombramiento o firma del contrato respectivo. Cúmplase.
+
+P.O. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO: Publíquese el presente Acuerdo General Conjunto en el Periódico Oficial del Estado, en los estrados de la Secretaría General de Acuerdos, de la Secretaría Ejecutiva, de las Salas del Honorable Tribunal, de los Juzgados, así como en las Áreas Administrativas, Órganos Auxiliares, Auxiliares de la Administración de Justicia, Auxiliares Administrativos, Direcciones, Coordinaciones, Departamentos, Centros y/o Centrales, y en el Portal de Transparencia del Poder Judicial del Estado de Campeche.
+
+SEGUNDO: Se reforma el Código de Ética del Poder Judicial del Estado de Campeche, publicado el día veintiuno de junio de dos mil veinticuatro en el Periódico Oficial del Estado, y se abrogan todas las disposiciones reglamentarias y administrativas en lo que se opongan al contenido del presente Decreto.
 
 TERCERO: Las reformas al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
