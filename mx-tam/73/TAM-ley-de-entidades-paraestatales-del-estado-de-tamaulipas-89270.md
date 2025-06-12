@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2019-08-20"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -123,11 +123,15 @@ III. El objeto del organismo;
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
 
-V. La manera de integrar el órgano de gobierno y de designar al Director General, así como a los servidores públicos en las dos jerarquías inferiores a éste;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+V. La manera de integrar el órgano de gobierno y de designar a la persona titular de la Dirección General, así como a las y los servidores públicos en las dos jerarquías inferiores a éste;
 
 VI. Las facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
 
-VII. Las facultades y obligaciones del Director General, quien tendrá la representación legal del organismo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+VII. Las facultades y obligaciones de la Dirección General, quien tendrá la representación legal del organismo;
 
 VIII. El establecimiento de su órgano de vigilancia, así como sus facultades;
 
@@ -135,7 +139,9 @@ IX. El régimen laboral a que se sujetarán las relaciones de trabajo;
 
 X. La forma y términos de su extinción y liquidación; y
 
-XI. En su caso, la formalización de Patronatos, Consejos Consultivos o Ejecutivos, así como la forma de nombrar a los miembros que lo integran, cuya función será siempre honorífica.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+XI. En su caso, la formalización de Patronatos, Consejos Consultivos o Ejecutivos, así como la forma de nombrar a sus integrantes, cuya función será siempre honorífica.
 
 2. El órgano de gobierno deberá expedir el Estatuto Orgánico en el que se establezcan las bases de organización así como las facultades y funciones que correspondan a las distintas áreas que integren el organismo.
 
@@ -155,11 +161,17 @@ La rectoría y administración de los organismos descentralizados estará a carg
 
 ###### ARTÍCULO 15.
 
-En ningún caso podrán ser miembros del órgano de gobierno:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2025)</small>
 
-I. El Director General del organismo de que se trate;
+En ningún caso podrán pertenecer al órgano de gobierno:
 
-II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado civil con cualquiera de los miembros del órgano de gobierno o con el Director General;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+I. La persona titular de la Dirección General del organismo de que se trate;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+II. Las y los cónyuges, ni las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado civil con cualquiera de quienes integran el órgano de gobierno o con quien ocupa la titularidad de la Dirección General;
 
 III. Las personas que tengan litigios pendientes con el organismo de que se trate; y
 
@@ -167,7 +179,9 @@ IV. Las personas sentenciadas por delitos dolosos, las inhabilitadas para ejerce
 
 ###### ARTÍCULO 16.
 
-1. El órgano de gobierno se reunirá con la periodicidad que se señale en la ley o decreto de creación o en su Estatuto Orgánico, sin que pueda ser menor de 4 veces al año.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+1. El órgano de gobierno se reunirá con la periodicidad que se señale en la ley o decreto de creación o en su Estatuto Orgánico, sin que pueda ser menor de 5 veces al año.
 
 2. El órgano de gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre que la mayoría de los asistentes sean representantes de la administración pública estatal. Las resoluciones se tomarán por la mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
 
@@ -193,9 +207,9 @@ III. Fijar y ajustar los precios de bienes y servicios que, en su caso, produzca
 
 IV. Aprobar la propuesta de obligaciones para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo y disponibilidades financieras;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
 
-V. Aprobar la información contable, presupuestal, patrimonial y programática, además de los estados financieros dictaminados por los auditores externos que para efectos le asigne la Contraloría Gubernamental en su caso; previo informe de los comisarios;
+V. Aprobar la información contable, presupuesta! (sic), patrimonial y programática, además de los estados financieros dictaminados mediante auditorías de carácter externo que para efectos le asigne la Contraloría Gubernamental en su caso; previo informe de las o los comisarios;
 
 VI. Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con los bienes de la entidad;
 
@@ -205,21 +219,37 @@ VIII. Aprobar la constitución de reservas y aplicación de excedentes financier
 
 IX. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que la entidad estatal requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
 
-X. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
 
-XI. Aprobar y autorizar el Estatuto Orgánico y los manuales administrativos de la entidad; y
+X. Analizar y aprobar en su caso, los informes periódicos que rinda la persona titular de la Dirección General con la intervención que corresponda a los comisarios;
 
-XII. Las demás que le determine el instrumento de creación de la entidad paraestatal.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+XI. Aprobar y autorizar el Estatuto Orgánico y los manuales administrativos de la entidad;
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+XII. Aprobar Lineamientos y Reglas de Operación que deban ser expedidos para la aplicación y ejercicio de programas presupuestarios, cuando su expedición sea determinada en disposiciones y normatividad estatales; y
+
+XIII. Las demás que le determine el instrumento de creación de la entidad paraestatal.
 
 ###### ARTÍCULO 20.
 
-1. El Director General tiene a su cargo la administración de la entidad paraestatal.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
 
-2. El Director General de todas las entidades paraestatales será designado por el Gobernador del Estado, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+1. La Dirección General tiene a su cargo la administración de la entidad para estatal (sic).
 
-I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2025)</small>
 
-II. No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno señalan las fracciones II, III y IV del artículo 15 de esta ley;
+2. La designación de las personas titulares de las Direcciones Generales de todas las entidades paraestatales será efectuada por la o el Gobernador del Estado, o, de ser el caso, por el titular de la Dependencia que corresponda, en ejercicio de la facultad delegatoria de representación conferida para nombramientos y el despacho de los asuntos públicos, debiendo reunir para tales efectos los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+I. Tener nacionalidad mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+II. No encontrarse en alguno de los impedimentos que para ser integrante del Órgano de Gobierno señalan las fracciones II, III y IV del artículo 15 de esta ley;
 
 III. Contar con un perfil profesional y académico acordes al objeto o fines del organismo descentralizado; y
 
@@ -227,7 +257,9 @@ IV. Los demás que se señalen en el instrumento de creación de la entidad para
 
 ###### ARTÍCULO 21.
 
-1. Los Directores Generales de los organismos descentralizados, tendrán la representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, y estarán facultados expresamente para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2025)</small>
+
+1. Las Direcciones Generales de los organismos descentralizados, tendrán la representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, y estarán facultados expresamente para:
 
 I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
@@ -253,7 +285,9 @@ X. Certificar copias y cualquier otro documento elaborado por el organismo; y
 
 XI. Las demás que le determine el instrumento de creación de la entidad estatal;
 
-2. Los Directores Generales ejercerán las facultades a que se refieren las fracciones II, III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el Estatuto Orgánico.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+2. Las Direcciones Generales ejercerán las facultades a que se refieren las fracciones 11 (sic), III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el Estatuto Orgánico.
 
 ### CAPÍTULO III. DEL REGISTRO ESTATAL DE ORGANISMOS DESCENTRALIZADOS
 
@@ -261,9 +295,9 @@ XI. Las demás que le determine el instrumento de creación de la entidad estata
 
 1. Los organismos descentralizados deberán inscribirse en el Registro Estatal de Organismos Descentralizados, que estará a cargo de la Contraloría Gubernamental.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
 
-2. Los Directores Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones, reformas o liquidación, serán responsables en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+2. Las Direcciones Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones, reformas o liquidación, serán responsables en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 23.
 
@@ -273,7 +307,9 @@ I. El Estatuto Orgánico y sus reformas o modificaciones;
 
 II. Los nombramientos de los integrantes del Órgano de Gobierno así como sus remociones;
 
-III. Los nombramientos y sustituciones del Director General;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+
+III. Los nombramientos y sustituciones de la persona titular de la Dirección General;
 
 IV. Los poderes generales y sus revocaciones;
 
@@ -291,9 +327,11 @@ El Registro Estatal de Organismos Descentralizados podrá expedir certificacione
 
 Procederá la cancelación de las inscripciones en el Registro Estatal de los Organismos Descentralizados, en el caso de su extinción una vez que se haya concluido su liquidación.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 26.
 
-Para acreditar la personalidad y facultades, según se trate, de los miembros del Órgano de Gobierno, del Director General y de los apoderados generales para actos de dominio y de administración de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Estatal de Organismos Descentralizados.
+Para acreditar la personalidad y facultades, según se trate, de quienes integran el Órgano de Gobierno, la Dirección General y de las personas que ostentan poderes generales para actos de dominio y de administración de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Estatal de Organismos Descentralizados.
 
 ### CAPÍTULO IV. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -323,13 +361,15 @@ Las empresas en que participe de manera mayoritaria el Gobierno del Estado o una
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en la legislación aplicable, deberá sujetarse a los términos que se consignan en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 30.
 
-1. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, nombrará a los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+1. El Ejecutivo Estatal, por conducto de la Secretaría de Finanzas, nombrará a las personas servidoras públicas que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
 
-2. Tales funcionarios deberán tener la experiencia necesaria para el adecuado cumplimiento de la función que se les encomienda y no tener por cuenta propia o ajena un interés contrario al de la entidad paraestatal, ni encontrarse en alguno de los impedimentos señalados en las fracciones II, III y IV del artículo 15 de esta ley.
+2. Las personas funcionarias deberán tener la experiencia necesaria para el adecuado cumplimiento de la función que se les encomienda y no tener por cuenta propia o ajena un interés contrario al de la entidad paraestatal, ni encontrarse en alguno de los impedimentos señalados en las fracciones II, III y IV del artículo 15 de esta ley.
 
-3. Los servidores públicos que contravengan esta disposición, serán responsables de los daños y perjuicios que se causen a la entidad paraestatal.
+3. Las personas servidoras públicas que contravengan esta disposición, serán responsables de los daños y perjuicios que se causen a la entidad paraestatal.
 
 ###### ARTÍCULO 31.
 
@@ -347,9 +387,11 @@ La organización, administración y vigilancia de las empresas de participación
 
 Los Consejos de Administración o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades específicas que se le otorguen en los Estatutos y legislación de la materia, tendrán las facultades señaladas en el artículo 19 de esta Ley en lo que les resulten compatibles, con las salvedades de aquellas que sean propias de las asambleas ordinarias o extraordinarias.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 34.
 
-Los Directores Generales o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades y obligaciones que se les atribuyen en los Estatutos y legislación aplicable a su tipo social, tendrán las que se mencionan en el artículo 21 de esta Ley.
+Las Direcciones Generales o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades y obligaciones que se les atribuyen en los Estatutos y legislación aplicable a su tipo social, tendrán las que se mencionan en el artículo 21 de esta Ley.
 
 ###### ARTÍCULO 35.
 
@@ -383,7 +425,9 @@ Los Directores Generales o sus equivalentes de las empresas de participación es
 
 5. En los documentos contractuales que creen y regulen los fideicomisos públicos del Estado, deberán precisarse los derechos y obligaciones que corresponda ejercer al fiduciario sobre el patrimonio fideicomitido, sus limitaciones, así como las facultades y derechos que el fideicomitente se reserve.
 
-6. Los Comités Técnicos y los Directores Generales, en caso de contar con estructura propia, de los fideicomisos públicos que sean entidades paraestatales, se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en la presente ley se establecen para los Órganos de Gobierno y para los Directores Generales de los Organismos Públicos Descentralizados, en cuanto sea compatible a su naturaleza.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+6. Los Comités Técnicos y las Direcciones Generales, en caso de contar con estructura propia, de los fideicomisos públicos que sean entidades paraestatales, se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en la presente ley se establecen para los Órganos de Gobierno y para las Direcciones Generales de los Organismos Públicos Descentralizados, en cuanto sea compatible a su naturaleza.
 
 ###### ARTÍCULO 39.
 
@@ -555,9 +599,11 @@ Cuando una entidad paraestatal no cumpla con el objeto para el cual fue constitu
 
 Es obligación de toda entidad paraestatal realizar todos los trámites de liquidación, los cuales deberán prever el contrato o documento o decreto de su constitución, debiendo enviar a la Secretaría de Finanzas y a la Contraloría Gubernamental los documentos en los que conste la disolución, los estados financieros y la cuenta pública del último ejercicio fiscal, dentro de un término de 30 días naturales siguientes a la fecha de disolución.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 61.
 
-El Órgano de Gobierno y el Director General serán responsables solidarios de las obligaciones que resultaren a cargo de la entidad paraestatal que no fueron cumplidas durante su gestión.
+El Órgano de Gobierno y la persona titular de la Dirección General serán responsables solidarios de las obligaciones que resultaren a cargo de la entidad paraestatal que no fueron cumplidas durante su gestión.
 
 T R A N S I T O R I O S
 
@@ -608,3 +654,23 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-338 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Dependencias Gubernamentales, a través de su titular, remitirán de manera inmediata, los nombramientos que, en su caso, emitan con motivo de la facultad que se les delega, al Titular de la dependencia denominada Oficina del Gobernador.
+
+###### ARTÍCULO TERCERO.
+
+Las y los titulares de las Dependencias Gubernamentales, sólo podrán emitir aquellos nombramientos que, en apego a su competencia, les permita su estructura orgánica.
+
+###### ARTÍCULO CUARTO.
+
+Para la emisión de los nombramientos, las y los titulares de las Dependencias Gubernamentales, deberán considerar las previsiones establecidas en el Presupuesto de Egresos del Estado, al igual que las disposiciones jurídicas vigentes en materia de requisitos de ingreso.
