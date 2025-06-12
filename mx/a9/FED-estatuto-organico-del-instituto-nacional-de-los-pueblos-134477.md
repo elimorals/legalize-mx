@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-los-pueblos-134477"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-03-20"
-last_updated: "2025-01-23"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-03-04"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de marzo de 2019.
 
@@ -249,11 +249,45 @@ XXI. Brindar asesoría y capacitación a las dependencias y entidades de la Admi
 
 XXII. Someter a aprobación de la Junta de Gobierno los proyectos de modificaciones del Estatuto;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XXIII. Convocar y dirigir las sesiones de la Asamblea Directiva para el análisis y deliberación de asuntos relevantes de la Institución que permitan una adecuada toma de decisiones, y
+XXIII. Dirigir la organización y funcionamiento de las Oficinas de Representación y de los Centros Coordinadores del Instituto;
 
-XXIV. Las demás que le confieran otras disposiciones jurídicas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXIV. Establecer acciones para la colaboración, coordinación y concertación de las Oficinas de Representación y los Centros Coordinadores del Instituto, con las representaciones de la Administración Pública Federal, entidades federativas y municipales, así como con los pueblos indígenas y afromexicano;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXV. Establecer e instrumentar los mecanismos para la creación, organización y funcionamiento de las Oficinas de Representación y de los Centros Coordinadores del Instituto; coordinar y articular su relación con las Unidades Administrativas del Instituto, con el objeto de que cumplan las políticas, estrategias, programas, proyectos y acciones del Instituto, así como establecer la Unidad Administrativa que fungirá como enlace en la atención de los requerimientos formulados por las Unidades Administrativas del Instituto, la Unidad de Transparencia, los Órganos Fiscalizadores y las dependencias y entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXVI. Coordinar acciones para la colaboración, coordinación y concertación de las Oficinas de Representación y los Centros Coordinadores del Instituto, con las representaciones de la Administración Pública Federal, entidades federativas y municipales, así como con los pueblos indígenas y afromexicano;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXVII. Difundir los criterios, normas, lineamientos, programas y demás disposiciones que se emitan, para su observancia en las Oficinas de Representación y Centros Coordinadores del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXVIII. Determinar los movimientos de personal de las Oficinas de Representación y de los Centros Coordinadores del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXIX. Dirigir la atención de las solicitudes realizadas por los pueblos y comunidades indígenas y afromexicanas, sus autoridades y representantes y público en general, para canalizarlas a las Unidades Administrativas del Instituto o a las instancias competentes de los tres órdenes de gobierno, así como realizar el seguimiento y supervisar el cumplimiento de su atención y, en su caso, tomar las medidas o previsiones necesarias;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXX. Convocar y dirigir las sesiones de la Asamblea Directiva para el análisis y deliberación de asuntos relevantes de la Institución que permitan una adecuada toma de decisiones, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JUNIO DE 2025)</small>
+
+XXXI. Autorizar, dirigir, coordinar y verificar las actividades de comunicación social y del Sistema de Radiodifusoras Culturales Indígenas, de manera que las difusiones o transmisiones del Instituto se ajusten a las disposiciones que para tales efectos emitan las autoridades competentes, y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIV], D.O.F. 12 DE JUNIO DE 2025)
+
+XXXII. Las demás que le confieran otras disposiciones jurídicas.
 
 ###### Artículo 10.
 
@@ -266,6 +300,8 @@ El funcionamiento del Consejo se regirá por las disposiciones que para tal efec
 ###### Artículo 11.
 
 La Dirección General, para el cumplimiento del objeto y funciones del Instituto, contará con las unidades administrativas siguientes:
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 12 DE JUNIO DE 2025)</small>
 
 A. Coordinaciones Generales:
 
@@ -293,17 +329,17 @@ VII. De Asuntos Jurídicos, y
 
 VIII. De Administración y Finanzas.
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2025)</small>
+a) (DEROGADO, D.O.F. 12 DE JUNIO DE 2025)
 
-a) Oficinas de Representación en las Entidades Federativas, y
+b) (DEROGADO, D.O.F. 12 DE JUNIO DE 2025)
 
-> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-b) Centros Coordinadores de Pueblos Indígenas.
+B. Oficinas de Representación en las Entidades Federativas, y
 
-> <small>(DEROGADO APARTADO B, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-> <small>(DEROGADO APARTADO C, D.O.F. 23 DE ENERO DE 2025)</small>
+C. Centros Coordinadores de Pueblos Indígenas.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2024)</small>
 
@@ -773,6 +809,8 @@ XVIII. Expedir copias certificadas de los documentos que integran los expediente
 
 XIX. Las que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende el Director General.
 
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL D.O.F EL 12 DE JUNIO DE 2025, SE ADVIERTE QUE FUERON DEROGADAS LAS FRACCIONES III, IV, V, VI Y VII RECORRIENDOSE EN SU ORDEN LAS SUBSECUENTES, VEASE PAGINAS 131, 132 Y 133.]</small>
+
 ###### Artículo 20.
 
 Compete a la Coordinación General de Administración y Finanzas:
@@ -781,89 +819,69 @@ I. Dirigir la planeación y administración de los recursos humanos, financieros
 
 II. Coordinar y supervisar el desempeño de las funciones inherentes a la administración de recursos humanos, materiales y financieros del Instituto, por parte de los enlaces administrativos;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
-
-III. Establecer e instrumentar los mecanismos para la creación, organización y funcionamiento de las Oficinas de Representación y de los Centros Coordinadores del Instituto, así como coordinar y articular su relación con las Unidades Administrativas del Instituto, con el objeto de que cumplan las políticas, estrategias, programas, proyectos y acciones del Instituto;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
-
-IV. Coordinar las acciones que determine el Director General, para la colaboración, coordinación y concertación de las Oficinas de Representación y los Centros Coordinadores del Instituto, con las representaciones de la Administración Pública Federal, entidades federativas y municipales, así como con los pueblos indígenas y afromexicano;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
-
-V. Difundir los criterios, normas, lineamientos, programas y demás disposiciones que se emitan, para su observancia en las Oficinas de Representación y Centros Coordinadores del Instituto;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
-
-VI. Proponer los movimientos de personal de las Oficinas de Representación y de los Centros Coordinadores del Instituto;
-
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
-
-VII. Coordinar la atención de las solicitudes realizadas por los pueblos y comunidades indígenas y afromexicanas, sus autoridades y representantes y público en general, para canalizarlas a las Unidades Administrativas del Instituto o a las instancias competentes de los tres órdenes de gobierno, así como realizar el seguimiento y supervisar el cumplimiento de su atención y, en su caso, tomar las medidas o previsiones necesarias;
-
-VIII. Dirigir el funcionamiento de los comités y subcomités que se conformen para atender las materias referidas en la fracción I de este artículo y los demás que se señalen en las leyes y disposiciones correspondientes;
+III. Dirigir el funcionamiento de los comités y subcomités que se conformen para atender las materias referidas en la fracción I de este artículo y los demás que se señalen en las leyes y disposiciones correspondientes;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
 
-IX. Autorizar los nombramientos y movimientos del personal, así como la terminación de la relación laboral y la expedición de Hojas Únicas de Servicio, cuando así corresponda;
+IV. Autorizar los nombramientos y movimientos del personal, así como la terminación de la relación laboral y la expedición de Hojas Únicas de Servicio, cuando así corresponda;
 
-X. Administrar las políticas laborales contenidas en el contrato colectivo de trabajo, así como representar y conducir las relaciones del Instituto con el Sindicato Nacional de Trabajadores Indigenistas;
-
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
-
-XI. Administrar, cuando corresponda, el Servicio Profesional de Carrera del Instituto y proponer al Director General modificaciones al Estatuto del Servicio Profesional de Carrera del Instituto para que, en su caso, se someta a la autorización de la Junta de Gobierno y expedir los nombramientos del personal sujeto al mismo;
+V. Administrar las políticas laborales contenidas en el contrato colectivo de trabajo, así como representar y conducir las relaciones del Instituto con el Sindicato Nacional de Trabajadores Indigenistas;
 
 > <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
 
-XII. Autorizar el otorgamiento de licencias, estímulos, recompensas y prestaciones que establezcan las disposiciones jurídicas aplicables, así como imponer sanciones por incumplimiento a sus obligaciones en materia laboral al personal del Instituto;
+VI. Administrar, cuando corresponda, el Servicio Profesional de Carrera del Instituto y proponer al Director General modificaciones al Estatuto del Servicio Profesional de Carrera del Instituto para que, en su caso, se someta a la autorización de la Junta de Gobierno y expedir los nombramientos del personal sujeto al mismo;
 
-XIII. Coordinar el diseño y las modificaciones de la estructura organizacional del Instituto, y proponerlos al Director General para su autorización;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
 
-XIV. Coordinar la elaboración del Manual General de Organización, de procedimientos y de servicios al público del Instituto, para someterlos a la autorización del Director General;
+VII. Autorizar el otorgamiento de licencias, estímulos, recompensas y prestaciones que establezcan las disposiciones jurídicas aplicables, así como imponer sanciones por incumplimiento a sus obligaciones en materia laboral al personal del Instituto;
 
-XV. Presentar propuestas de modificación de los tabuladores de sueldos y esquemas de prestaciones aplicables al personal del Instituto y solicitar su autorización y registro ante las instancias correspondientes;
+VIII. Coordinar el diseño y las modificaciones de la estructura organizacional del Instituto, y proponerlos al Director General para su autorización;
 
-XVI. Administrar el Programa Anual de Capacitación del Personal del Instituto;
+IX. Coordinar la elaboración del Manual General de Organización, de procedimientos y de servicios al público del Instituto, para someterlos a la autorización del Director General;
 
-XVII. Promover y coordinar el Programa de Servicio Social y prácticas profesionales;
+X. Presentar propuestas de modificación de los tabuladores de sueldos y esquemas de prestaciones aplicables al personal del Instituto y solicitar su autorización y registro ante las instancias correspondientes;
+
+XI. Administrar el Programa Anual de Capacitación del Personal del Instituto;
+
+XII. Promover y coordinar el Programa de Servicio Social y prácticas profesionales;
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
 
-XVIII. Coadyuvar con la Coordinación General de Planeación, Investigación y Evaluación, en el diseño y seguimiento de los criterios, metodologías y mecanismos que permitan orientar la formulación del proyecto de presupuesto consolidado relativo a pueblos indígenas y afromexicano, etiquetados en el correspondiente anexo del Presupuesto de Egresos de la Federación, en términos del artículo 4, fracción XXXIV de la Ley;
+XIII. Coadyuvar con la Coordinación General de Planeación, Investigación y Evaluación, en el diseño y seguimiento de los criterios, metodologías y mecanismos que permitan orientar la formulación del proyecto de presupuesto consolidado relativo a pueblos indígenas y afromexicano, etiquetados en el correspondiente anexo del Presupuesto de Egresos de la Federación, en términos del artículo 4, fracción XXXIV de la Ley;
 
-XIX. Gestionar la autorización del presupuesto del Instituto, así como de los recursos provenientes de las aportaciones y donativos de otras instituciones públicas y privadas;
+XIV. Gestionar la autorización del presupuesto del Instituto, así como de los recursos provenientes de las aportaciones y donativos de otras instituciones públicas y privadas;
 
-XX. Proponer los criterios para definir la estructura programática y los programas institucionales de mediano y largo plazo, así como para el proyecto de presupuesto anual del Instituto;
+XV. Proponer los criterios para definir la estructura programática y los programas institucionales de mediano y largo plazo, así como para el proyecto de presupuesto anual del Instituto;
 
-XXI. Autorizar las erogaciones de acuerdo con lo establecido en la fracción I de este artículo, vigilar el ejercicio del presupuesto autorizado y supervisar su registro contable en los sistemas correspondientes establecidos por la Secretaría de Hacienda y Crédito Público;
+XVI. Autorizar las erogaciones de acuerdo con lo establecido en la fracción I de este artículo, vigilar el ejercicio del presupuesto autorizado y supervisar su registro contable en los sistemas correspondientes establecidos por la Secretaría de Hacienda y Crédito Público;
 
-XXII. Someter a consideración del Director General las adecuaciones presupuestarias y la distribución de los recursos adicionales;
+XVII. Someter a consideración del Director General las adecuaciones presupuestarias y la distribución de los recursos adicionales;
 
-XXIII. Planear, organizar y dirigir el registro contable de las operaciones financieras del Instituto, y el de sus bienes patrimoniales y obligaciones, así como coordinar el proceso de formulación e integración de la Cuenta de la Hacienda Pública Federal del ejercicio del Presupuesto de Egresos de la Federación que corresponda;
+XVIII. Planear, organizar y dirigir el registro contable de las operaciones financieras del Instituto, y el de sus bienes patrimoniales y obligaciones, así como coordinar el proceso de formulación e integración de la Cuenta de la Hacienda Pública Federal del ejercicio del Presupuesto de Egresos de la Federación que corresponda;
 
-XXIV. Verificar el cumplimiento de las obligaciones fiscales y administrativas del Instituto, estableciendo medidas de control correspondientes;
+XIX. Verificar el cumplimiento de las obligaciones fiscales y administrativas del Instituto, estableciendo medidas de control correspondientes;
 
-XXV. Dirigir las acciones de vinculación de los programas presupuestarios con las estrategias que deriven del Plan Nacional de Desarrollo vigente;
+XX. Dirigir las acciones de vinculación de los programas presupuestarios con las estrategias que deriven del Plan Nacional de Desarrollo vigente;
 
-XXVI. Coordinar los procesos para la contratación de adquisiciones de bienes, servicios y obra pública que requieran celebrar las Unidades Administrativas del Instituto;
+XXI. Coordinar los procesos para la contratación de adquisiciones de bienes, servicios y obra pública que requieran celebrar las Unidades Administrativas del Instituto;
 
-XXVII. Administrar los bienes muebles e inmuebles a cargo del Instituto, en los términos de las disposiciones jurídicas aplicables;
+XXII. Administrar los bienes muebles e inmuebles a cargo del Instituto, en los términos de las disposiciones jurídicas aplicables;
 
-XXVIII. Establecer, dirigir y coordinar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información del Instituto, así como emitir las normas necesarias para su operación, desarrollo y vigilancia;
+XXIII. Establecer, dirigir y coordinar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información del Instituto, así como emitir las normas necesarias para su operación, desarrollo y vigilancia;
 
-XXIX. Supervisar los procesos de seguimiento en el ejercicio presupuestal, realizando concurrentemente acciones de coordinación con las Unidades Administrativas del Instituto;
+XXIV. Supervisar los procesos de seguimiento en el ejercicio presupuestal, realizando concurrentemente acciones de coordinación con las Unidades Administrativas del Instituto;
 
-XXX. Coordinar con las Unidades Administrativas del Instituto el seguimiento para la atención de las observaciones emitidas y los requerimientos de información solicitados por las instancias de fiscalización, designando al servidor público adscrito a la Coordinación General a su cargo, que fungirá como enlace;
+XXV. Coordinar con las Unidades Administrativas del Instituto el seguimiento para la atención de las observaciones emitidas y los requerimientos de información solicitados por las instancias de fiscalización, designando al servidor público adscrito a la Coordinación General a su cargo, que fungirá como enlace;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2025)</small>
 
-XXXI. Coadyuvar con la Coordinación General de Planeación, Investigación y Evaluación en la integración del informe anual del Instituto, de conformidad con el artículo 4, fracción XLVI de la Ley;
+XXVI. Coadyuvar con la Coordinación General de Planeación, Investigación y Evaluación en la integración del informe anual del Instituto, de conformidad con el artículo 4, fracción XLVI de la Ley;
 
-XXXII. Celebrar instrumentos jurídicos y administrativos necesarios para el cumplimiento de sus atribuciones, así como emitir los acuerdos y las autorizaciones que le correspondan;
+XXVII. Celebrar instrumentos jurídicos y administrativos necesarios para el cumplimiento de sus atribuciones, así como emitir los acuerdos y las autorizaciones que le correspondan;
 
-XXXIII. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia, y
+XXVIII. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia, y
 
-XXXIV. Las que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende el Director General.
+XXIX. Las que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende el Director General.
 
 ###### Artículo 21.
 
@@ -871,9 +889,9 @@ Compete a las Oficinas de Representación:
 
 I. Promover, en el ámbito de su competencia, el reconocimiento y el ejercicio de los derechos, así como el desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicano, la igualdad y la no discriminación, transparencia y acceso a la información, fomentando el ejercicio de la rendición de cuentas y garantizando la transversalidad institucional;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-II. Representar al Instituto en los actos o en las comisiones que el Director General y la Coordinación General de Administración y Finanzas determinen, a quienes mantendrán informados sobre el desarrollo, ejecución y conclusión de los mismos, asimismo, atender las solicitudes de información que les realicen las Unidades Administrativas del Instituto;
+II. Representar al Instituto en los actos o en las comisiones que el Director General determine, a quien mantendrá informado sobre el desarrollo, ejecución y conclusión de los mismos, asimismo, atender las solicitudes de información que les realicen las Unidades Administrativas del Instituto;
 
 III. Apoyar, en el ámbito de su competencia, la elaboración, gestión, impulso, seguimiento y evaluación de los Planes Integrales de Desarrollo Regional de los Pueblos Indígenas, de manera conjunta y coordinada con los pueblos interesados;
 
@@ -887,13 +905,13 @@ VII. Identificar y proponer la cobertura territorial de los Centros Coordinadore
 
 VIII. Verificar que las unidades administrativas que tengan adscritas, cumplan con los criterios, reglas de operación y lineamientos en la ejecución de los programas, proyectos y acciones a cargo del Instituto;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-IX. Supervisar el trabajo de los Centros Coordinadores que se encuentren en su ámbito territorial, de conformidad con las políticas, normas y procedimientos que dicte el Instituto, así como evaluar su desempeño, informando de ello a la Coordinación General de Administración y Finanzas;
+IX. Supervisar el trabajo de los Centros Coordinadores que se encuentren en su ámbito territorial, de conformidad con las políticas, normas y procedimientos que dicte el Instituto, así como evaluar su desempeño, informando de ello a la Dirección General;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-X. Promover y fortalecer mecanismos de colaboración, coordinación y concertación con las autoridades federales, de las entidades federativas, municipales y de los pueblos y comunidades indígenas y afromexicanas en su ámbito territorial, para la gestión y atención de los asuntos relacionados con el reconocimiento y ejercicio de sus derechos, así como el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas, informando de ello a la Coordinación General de Planeación, Investigación y Evaluación;
+X. Promover y fortalecer mecanismos de colaboración, coordinación y concertación con las autoridades federales, de las entidades federativas, municipales y de los pueblos y comunidades indígenas y afromexicanas en su ámbito territorial, para la gestión y atención de los asuntos relacionados con el reconocimiento y ejercicio de sus derechos, así como el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas, informando de ello a la Dirección General, así como a la Coordinación General de Planeación, Investigación y Evaluación;
 
 XI. Celebrar instrumentos jurídicos y administrativos necesarios para el cumplimiento de sus atribuciones, así como emitir los acuerdos y las autorizaciones que les correspondan, previo acuerdo con el Director General;
 
@@ -917,15 +935,15 @@ XIX. Atender las solicitudes que le sean turnadas, así como realizar el seguimi
 
 XX. Brindar y dar acompañamiento, cuando así lo soliciten los Centros Coordinadores, a la asistencia técnica o administrativa y asesoría en el ejercicio de sus atribuciones;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XXI. Informar y acordar con el Director General y el Coordinador General de Administración y Finanzas, los asuntos de su competencia;
+XXI. Informar y acordar con el Director General los asuntos de su competencia;
 
 XXII. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia, y
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XXIII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Director General y el Coordinador General de Administración y Finanzas.
+XXIII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Director General.
 
 ###### Artículo 22.
 
@@ -933,9 +951,9 @@ Compete a los Centros Coordinadores:
 
 I. Promover, en el ámbito de su competencia, el reconocimiento y el ejercicio de los derechos, así como el desarrollo integral, intercultural y sostenible de los pueblos indígenas y afromexicano, la igualdad y la no discriminación, transparencia y acceso a la información, fomentando el ejercicio de la rendición de cuentas y garantizando la transversalidad institucional;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-II. Representar al Instituto en los actos o en las comisiones que determine el Director General, el Coordinador General de Administración y Finanzas, o el Titular de la Oficina de Representación que corresponda, a quienes mantendrán informado sobre el desarrollo, ejecución y conclusión de los mismos, asimismo, atender las solicitudes de información que les realicen las Unidades Administrativas del Instituto;
+II. Representar al Instituto en los actos o en las comisiones que determine el Director General o el Titular de la Oficina de Representación que corresponda, a quienes mantendrán informado sobre el desarrollo, ejecución y conclusión de los mismos, asimismo, atender las solicitudes de información que les realicen las Unidades Administrativas del Instituto;
 
 III. Ejecutar e instrumentar los programas y acciones del Instituto en el ámbito de su competencia;
 
@@ -953,9 +971,9 @@ IX. Verificar que el personal de su adscripción, cumpla con los criterios, regl
 
 X. Identificar y proponer las comunidades y municipios indígenas y afromexicanos que conformen su cobertura territorial, en acuerdo con dichas comunidades y municipios;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XI. Promover y fortalecer mecanismos de colaboración, coordinación y concertación con las autoridades federales, las entidades federativas, municipales y de los pueblos y comunidades indígenas y afromexicanas en su ámbito territorial, para la gestión y atención de los asuntos relacionados con el reconocimiento y ejercicio de sus derechos, así como el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas, informando de ello a la Dirección General del Instituto, así como a la Coordinación General de Administración y Finanzas;
+XI. Promover y fortalecer mecanismos de colaboración, coordinación y concertación con las autoridades federales, las entidades federativas, municipales y de los pueblos y comunidades indígenas y afromexicanas en su ámbito territorial, para la gestión y atención de los asuntos relacionados con el reconocimiento y ejercicio de sus derechos, así como el desarrollo integral, intercultural y sostenible de los pueblos y comunidades indígenas y afromexicanas, informando de ello a la Dirección General del Instituto;
 
 XII. Celebrar instrumentos jurídicos y administrativos necesarios para el cumplimiento de sus atribuciones, así como emitir los acuerdos y las autorizaciones que les correspondan, previo acuerdo con el Titular de la Oficina de Representación correspondiente;
 
@@ -971,19 +989,19 @@ XVII. Apoyar la realización de diagnósticos, levantamiento de información, es
 
 XVIII. Coadyuvar con las Unidades Administrativas competentes del Instituto en acciones de capacitación, inducción y sensibilización, conforme a las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XIX. Atender las solicitudes que reciba o le sean turnadas, así como realizar el seguimiento de su atención, informando a la Dirección General del Instituto, así como a la Coordinación General de Administración y Finanzas y al Titular de la Oficina de Representación correspondiente, del trámite otorgado;
+XIX. Atender las solicitudes que reciba o le sean turnadas, así como realizar el seguimiento de su atención, informando a la Dirección General del Instituto y al Titular de la Oficina de Representación correspondiente, del trámite otorgado;
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XX. Informar y acordar con la Dirección General del Instituto, así como a la Coordinación General de Administración y Finanzas y al Titular de la Oficina de Representación correspondiente, los asuntos de su competencia;
+XX. Informar y acordar con la Dirección General del Instituto, así como con el Titular de la Oficina de Representación correspondiente, los asuntos de su competencia;
 
 XXI. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia, y
 
-> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2025)</small>
 
-XXII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Director General, el Coordinador General de Administración y Finanzas, o el Titular de la Oficina de Representación correspondiente.
+XXII. Las demás que le confieran otras disposiciones jurídicas, así como aquellas funciones que le encomiende el Director General o el Titular de la Oficina de Representación correspondiente.
 
 ### CAPÍTULO III. DEL MECANISMO PARA LA IMPLEMENTACIÓN Y PROTECCIÓN DE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS Y AFROMEXICANO
 
@@ -1080,3 +1098,13 @@ Segundo. En virtud de la reasignación de competencias, los asuntos que, en su c
 Tercero. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto corresponda a las disposiciones que establecen el presente Acuerdo, de cuya modificación informará a la Junta de Gobierno.
 
 Cuarto. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones, a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente ordenamiento.
+
+D.O.F. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, PUBLICADO EL 20 DE MARZO DE 2019".]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En virtud de la reasignación de competencias, los asuntos que, en su caso, se encuentren en trámite a la fecha de publicación del presente Acuerdo, serán atendidos y resueltos por las unidades administrativas del Instituto Nacional de los Pueblos Indígenas a las que se les asigne competencia en los mismos.
+
+Tercero. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto corresponda a las disposiciones que establecen el presente Acuerdo, de cuya modificación informará a la Junta de Gobierno.
