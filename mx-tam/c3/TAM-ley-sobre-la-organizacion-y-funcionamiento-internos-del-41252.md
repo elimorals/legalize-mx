@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2025-05-21"
+last_updated: "2025-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1426,6 +1426,26 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 3. La Unidad de Servicios Administrativos y Financieros, instrumentará una política de “Cero Papel” por la cual se reducirá el uso de papel en los procesos parlamentarios y administrativos del Congreso del Estado, en los que no se requieran datos en papel para garantizar autenticidad, confiabilidad e inalterabilidad de alguna información. Para ello, instrumentará los mecanismos tecnológicos, procesales y de capacitación necesarios hasta lograr reducir el uso de papel en el Congreso del Estado. La Junta de Gobierno evaluará y validará los resultados de las estrategias adoptadas al inicio de cada periodo de sesiones y se comunicará el resultado al Pleno.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+4. Implementará una política de cero desechables no biodegradables en todas las instalaciones del Congreso del Estado, salvo aquellos que sean compostables o reciclables conforme a la normatividad ambiental aplicable e instalará purificadores y dispensadores de agua.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2025)</small>
+
+5. Asimismo, deberá implementar un sistema integral para la separación, recolección y disposición adecuada de residuos sólidos, diferenciando claramente entre residuos orgánicos e inorgánicos.
+
+Para ello:
+
+I. Instalará contenedores adecuados y señalizados en todas las áreas del Congreso;
+
+II. Capacitar al personal sobre prácticas de separación y reciclaje; y
+
+III. Llevar a cabo campañas de concientización ambiental dirigidas a legisladores, personal administrativo y visitantes.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 5, P.O. 12 DE JUNIO DE 2025]</small>
+
+Las áreas administrativas promoverán el uso de materiales reutilizables o compostables en actividades oficiales y eventos del Congreso.
 
 ###### ARTICULO 65.
 
@@ -4334,3 +4354,15 @@ P.O. 21 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+P.O. 12 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-341 MEDIANTE EL CUAL SE ADICIONAN LOS NUMERALES 4 Y 5 AL ARTÍCULO 64 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto se implementará en forma gradual, conforme a la disponibilidad presupuestal hasta cumplir su objetivo.
