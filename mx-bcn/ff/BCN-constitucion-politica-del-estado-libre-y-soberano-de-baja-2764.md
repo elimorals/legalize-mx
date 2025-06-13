@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2025-05-13"
+last_updated: "2025-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -459,9 +459,9 @@ Asimismo, esta Constitución garantiza el derecho a establecer sus propios medio
 
 En términos del inciso C) del artículo 2, de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los párrafos anteriores del presente artículo en los términos que establezcan las leyes, a fin de garantizar su libre determinación, autonomía, desarrollo e inclusión social.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2025)</small>
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, mismo que incluye el respeto y trato digno a los animales para su bienestar integral; asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, mismo que incluye el respeto y trato digno a los animales para su bienestar integral; asimismo, a la salud, el derecho a la igualdad y a la no discriminación; a vivir una vida libre de violencias, la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar; primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MAYO DE 2025)</small>
 
@@ -781,9 +781,9 @@ XVII.- A que se les indemnice en los términos de la ley de la materia, cuando l
 
 XVIII.- Las víctimas de un delito a que se les atienda y a la reparación del daño en los términos de la ley y el presupuesto del Estado.
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2025)</small>
 
-XIX.- A que se aplique el principio de la paridad de género en la integración del gabinete legal y ampliado y en los puestos de la administración pública Estatal y Municipal.
+XIX.- A que se aplique el principio de la paridad de género en los nombramientos de las personas servidoras públicas titulares que integren el gabinete legal y ampliado en la administración pública estatal y municipal.
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
 
@@ -800,6 +800,10 @@ XXII.- A que el Estado les proporcione el servicio de defensoría pública gratu
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MAYO DE 2025)</small>
 
 XXIII.- Si son mujeres jefas de familia en situación de vulnerabilidad económica, recibir un apoyo económico periódico de acuerdo al presupuesto aprobado. El referido apoyo se entregará en los términos y condiciones del programa que para tal efecto se expida.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2025)</small>
+
+XXIV.- A que las funciones de procuración de justicia se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -2603,13 +2607,13 @@ III. En caso de que el Congreso no apruebe la terna enviada, el Gobernador del E
 
 Los Titulares de las Fiscalías estarán sujetos al sistema de responsabilidades que fija esta Constitución en su Título Octavo y la Ley de Responsabilidades Administrativas del Estado, y podrán ser removidos de su cargo cuando incurran en alguna de las causas previstas en esta Constitución y las Leyes.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 72.
 
-El Fiscal General del Estado, el Fiscal Especializado en Atención a Delitos Electorales, el Fiscal Especializado en Combate a la Corrupción, los Fiscales y Agentes del Ministerio Público que determine la Ley, ejercen y representan a la institución del Ministerio Público.
+Las personas titulares de la Fiscalía General del Estado, la Fiscalía Especializada en Atención a Delitos Electorales, la Fiscalía Especializada en Combate a la Corrupción, la Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres, las Fiscalías y Agencias del Ministerio Público que determine la Ley, ejercen y representan a la institución del Ministerio Público.
 
-La Ley establecerá las bases para la formación y actualización de los servidores públicos de las Fiscalías, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La Ley establecerá las bases para la formación y actualización de los servidores públicos de las Fiscalías, así como para el desarrollo de la carrera profesional de los mismos; la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -3359,27 +3363,43 @@ Los funcionarios públicos no tienen más facultades que las que expresamente le
 
 Los Servidores Públicos adscritos a los Poderes Ejecutivo, Legislativo, Judicial y de los Ayuntamientos, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos; Instituciones y Organismos Públicos Autónomos y en general, toda persona que desempeñe un empleo, cargo o comisión, en cualquier órgano o entidad de carácter público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su empleo, cargo o comisión proporcional a sus responsabilidades.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 13 DE JUNIO DE 2025)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2014)</small>
+
 I.- Las remuneraciones que por el desempeño de su función cargo o comisión reciban los servidores públicos, deberán determinarse de manera congruente y equitativa con la situación socioeconómica que guarde el Estado y con las condiciones de la Hacienda Pública, y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2014)</small>
 
 II.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2014)</small>
+
 III.- Ningún servidor público podrá recibir una remuneración superior a la aprobada en el Presupuesto de Egresos del Estado para el Gobernador del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2014)</small>
 
 IV.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2014)</small>
+
 V.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2014)</small>
 
 VI.- Las remuneraciones que perciban los servidores públicos, así como los tabuladores en que estas se establezcan serán públicas, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie, y
 
-VII.- El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, así como para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de estas disposiciones.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2025)</small>
+
+VII.- El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas; establecer mecanismos tendientes a reducir y erradicar la brecha salarial de género, así como para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de estas disposiciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 98.
 
-En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los requisitos que señale la Ley.
+En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los requisitos que señale la Ley. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres, y tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -5938,3 +5958,19 @@ Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamiento
 Segundo.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 Tercero.- El otorgamiento del apoyo económico a que se refiere el presente Decreto, se entregará conforme a las reglas de operación detallados en el “Programa Tarjeta Violeta” expedido por la Secretaría de Bienestar para el ejercicio fiscal que corresponda.
+
+P.O. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 98 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7, 8, 72, 97 Y 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+Primero. Aprobadas las presentes reformas por el Pleno del Congreso del Estado, túrnese a los Ayuntamientos del Estado de Baja California para el proceso legislativo previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Segundo. Agotado el proceso legislativo a que se refiere el transitorio anterior, y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+Tercero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Cuarto. En observancia al principio de paridad de género a que se refiere el artículo 8, fracción XIX de la Constitución Política del Estado Libre y Soberano de Baja California, materia de este Decreto, y a efecto de garantizar una correcta entrega y recepción, así como de mantener la continuidad del servicio y la correcta instrumentación de las políticas públicas estatales y municipales, la paridad de género de las personas servidoras públicas titulares que integren el gabinete legal y ampliado se llevará a cabo gradualmente dentro de los 180 días siguientes a la publicación del presente decreto.
+
+Quinto. La Fiscalía General del Estado tendrá el plazo de noventa días naturales contados a partir de la entrada en vigor de las presentes reformas para realizar las modificaciones reglamentarias que resulten necesarias.
+
+Hasta en tanto no se realicen las modificaciones reglamentarias, toda referencia a la Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género se entenderá hecha a la Fiscalía Especializada en Delitos Relacionados con las Violencias de Género Contra las Mujeres.
