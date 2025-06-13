@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2025-04-16"
+last_updated: "2025-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3369,7 +3369,9 @@ II.- Al que, para eludir la práctica de una diligencia decretada por una autori
 
 III.- Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
-#### SECCION SEXTA.- USURPACION DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2025)</small>
+
+#### SECCIÓN SEXTA.- USURPACION DE IDENTIDAD, DE FUNCIONES PUBLICAS O DE PROFESION Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -3408,6 +3410,16 @@ Para los efectos del presente ordenamiento, se considerará como Servidor Públi
 ###### Artículo 258 Bis.
 
 Se impondrá de uno a cuatro años de prisión y multa de cincuenta a doscientas Unidades de Medida y Actualización, al responsable o encargado del establecimiento en que se preste (sic) servicios de atención a la salud mental o adicciones, sin contar con el aviso de funcionamiento respectivo, así como con el registro como institución especializada ante la Comisión Nacional contra las Adicciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2025)</small>
+
+###### Artículo 258 Ter.
+
+Comete el delito de usurpación de identidad quien obtenga, transfiera, posea datos personales de otra persona de manera indebida o se atribuya la identidad de está u otorgue su consentimiento para realizar la conducta con el fin de obtener un lucro o cualquier beneficio, o producir un daño patrimonial o moral.
+
+A la persona responsable de la comisión de la conducta se le impondrá una sanción de seis a ocho años de prisión y multa de mil a dos mil Unidades de Medida y Actualización.
+
+La sanción señalada en el párrafo anterior se aumentará en una mitad a la persona que se valga de la homonimia, parecido físico o utilice tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital.
 
 #### SECCION SEPTIMA.- DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
@@ -3700,6 +3712,12 @@ Comete el delito de ciberacoso quien hostigue o amenace por medio de las nuevas 
 Se le impondrá la pena de once meses a tres años de prisión y multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
 
 Cuando la víctima sea menor de edad, se presumirá el daño a la dignidad por tratarse de una persona en desarrollo psicoemocional y físico y la sanción se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2025)</small>
+
+###### Artículo 278 Decies.
+
+A la persona que utilice tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital, para contactar a niñas, niños, adolescentes y personas incapaces con el propósito de crear un vínculo de confianza, para controlarlos emocionalmente o chantajearlos con fines sexuales, se le impondrá pena de quince meses a cinco años de prisión y multa de setenta a quinientos días del valor diario de la Unidad de Medida y Actualización vigente al momento de la comisión del delito.
 
 ### CAPITULO DUODECIMO.- DELITOS CONTRA LA FAMILIA
 
@@ -5543,13 +5561,17 @@ XXII.- Al que se coloque en estado de insolvencia con el objeto de eludir el cum
 
 XXIII.- Al que hiciere creer a una persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2025)</small>
 
-XXIV.- Al que preste servicios notariales, sin contar con la patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar; y
+XXIV.- Al que preste servicios notariales, sin contar con la patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2025)</small>
 
-XXV.- Al que intercambie o haga efectivas tarjetas, títulos, vales, documentos o instrumentos utilizados para el consumo de bienes y servicios, con conocimiento de que son falsos.
+XXV.- Al que intercambie o haga efectivas tarjetas, títulos, vales, documentos o instrumentos utilizados para el consumo de bienes y servicios, con conocimiento de que son falsos; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2025)</small>
+
+XXVI.- La persona que a través de las tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital se haga pasar por una institución financiera o empleado de esta, con la finalidad de que por sí o por la persona usuaria acceda a un sitio en el ciberespacio para obtener sus datos personales o cualquier información confidencial de esta última y obtener cualquier beneficio indebido.
 
 ###### Artículo 405.
 
@@ -6775,6 +6797,24 @@ Al que estando autorizado para acceder a sistemas y equipos de informática del 
 
 A quien, estando autorizado o sin autorización para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie, utilice o divulgue información que contengan, se le impondrá pena de dos a cinco años de prisión y multa de quinientas a mil Unidades de Medida y Actualización general vigente. Dicha penalidad se aumentará hasta en una mitad, si la información está clasificada como reservada o confidencial, en términos de la legislación en la materia o si el responsable es o hubiera sido servidor público en una institución de seguridad pública, en términos de la legislación aplicable, quien además será destituido e inhabilitado por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2025)</small>
+
+###### Artículo 479.
+
+Comete el delito de espionaje digital la persona que a través del uso de las tecnologías de la información y comunicación, acceda a un equipo o sistema informático sin la autorización de su legítimo titular o propietario a efecto de conocer u obtener sus datos o cualquier tipo de información o documentos personales.
+
+A la persona responsable de la conducta descrita en el párrafo anterior se le impondrá sanción de uno a tres años de prisión y multa de cincuenta a doscientos cincuenta días del valor diario de la Unidad de Medida y Actualización vigente al momento de la comisión del delito.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2025)</small>
+
+###### Artículo 480.
+
+Comete el delito de ciberasedio quien a través de la utilización de las tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital insulte, injurie, ofenda, agravie o veje a otra persona, con la insistencia necesaria para causarle un daño o menoscabo en su integridad física o emocional.
+
+A la persona responsable de la conducta descrita en el párrafo anterior se le impondrá la pena de once meses a tres años de prisión y multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
+
+Cuando la víctima sea menor de edad, se presumirá el daño a la dignidad por tratarse de una persona en desarrollo psicoemocional y físico, y la sanción se aumentará desde una tercera parte de la pena mínima, hasta dos terceras partes de la pena máxima.
+
 T R A N S I T O R I O S:
 
 ###### ARTICULO 1º.
@@ -7918,6 +7958,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 267 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN SEXTA DEL CAPÍTULO DÉCIMO “FALSEDAD” DEL LIBRO SEGUNDO “DELITOS EN LO PARTICULAR” Y LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 404, Y SE ADICIONA EL ARTÍCULO 258 TER, EL 278 DECIES, LA FRACCIÓN XXVI AL 404, EL 479 Y EL 480; TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
