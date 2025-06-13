@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2024-08-05"
+last_updated: "2025-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -655,7 +655,9 @@ XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de s
 
 XIII. El reconocimiento de la diversidad de capacidades de las personas, a partir de reconocer su ritmo, estilo e intereses en el aprendizaje, así como el uso del Lenguaje de Señas Mexicanas, y fortalecer el ejercicio de los derechos de todas las personas;
 
-XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2025)</small>
+
+XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro, la educación financiera y el consumo consciente y sostenible de los recursos económicos;
 
 XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en las y los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
@@ -1271,9 +1273,9 @@ Para tal efecto realizarán, entre otras, las siguientes acciones:
 
 I. Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas dignas y demás apoyos económicos que prioricen a las y los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2023)</small>
+(REFORMADA, P.O. 13 DE JUNIO DE 2025
 
-II. Establecer, de acuerdo con la suficiencia presupuestal, programas de diseño, elaboración y entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica y media superior en instituciones oficiales;
+II. Establecer, de acuerdo con la suficiencia presupuestal, programas de diseño, elaboración y entrega gratuita de uniformes y útiles escolares, calzado, anteojos y de productos de gestión menstrual preferentemente reutilizables y ecológicos para estudiantes de educación básica y media superior de instituciones oficiales;
 
 III. Proporcionar apoyos a educandos cuya madre, padre, tutora o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -2362,6 +2364,22 @@ TERCERO. En el caso específico de modificación o actualización de acuerdos de
 P.O. 5 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 91 Y ADICIONA LA FRACCIÓN IX BIS AL 69 Y LA FRACCIÓN X AL 91, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 69 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 119 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
