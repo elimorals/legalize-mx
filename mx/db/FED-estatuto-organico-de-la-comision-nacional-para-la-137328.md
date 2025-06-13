@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-137328"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-07-15"
-last_updated: "2019-07-15"
+last_updated: "2025-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137328&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-07-03"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS, PUBLICADO EN EL D.O.F. DE 13 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Número 14 del Diario Oficial de la Federación, el lunes 15 de julio de 2019.
 
@@ -2130,3 +2132,21 @@ Séptimo. La Comisión Nacional tendrá un plazo de hasta 180 días naturales co
 Atentamente,
 
 Ciudad de México, a 03 de julio de 2019.- El Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Óscar Rosado Jiménez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS”.]
+
+Primero. El presente Estatuto Orgánico entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, publicado en el Diario Oficial de la Federación del 15 de julio de 2019.
+
+Tercero. Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las Unidades Administrativas de la Comisión que dejan de tener vigencia o cambian de denominación por virtud del presente ordenamiento, se entenderán hechas o conferidas a las Unidades Administrativas que resulten competentes conforme al mismo.
+
+Cuarto. Las Delegaciones a que hace referencia la Ley de Protección y Defensa al Usuario de Servicios Financieros, para efectos del presente Estatuto serán las Unidades de Atención a Usuarios, por lo que cualquier referencia a las Delegaciones Regionales, Estatales o Locales, y a las Subdelegaciones, deberán entenderse hechas a las Direcciones de Control y Supervisión y a las Unidades de Atención a Usuarios, de acuerdo a la competencia otorgada a cada una en este Estatuto.
+
+Quinto. Las actuaciones que hayan sido iniciadas por las Unidades Administrativas previstas en el Estatuto Orgánico que deja de tener vigencia serán concluidas por aquellas áreas a las cuales este ordenamiento les otorga las atribuciones correspondientes.
+
+Sexto. Continuarán en vigor las disposiciones, acuerdos y demás normatividad que hayan sido expedidos por la Comisión, así como los demás instrumentos jurídicos que actualmente se encuentren vigentes en lo que no se opongan a las disposiciones del presente ordenamiento.
