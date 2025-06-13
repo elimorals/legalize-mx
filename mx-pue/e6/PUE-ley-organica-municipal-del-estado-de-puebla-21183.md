@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2024-10-04"
+last_updated: "2025-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1225,11 +1225,13 @@ El Concejo Municipal tendrá las mismas facultades que el Ayuntamiento. Los miem
 
 #### SECCIÓN IV. DE LAS SESIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 70.
 
-El Ayuntamiento celebrará por lo menos una sesión ordinaria mensualmente, y las extraordinarias que sean necesarias cuando existan motivos que las justifiquen. Estas sesiones deberán ser transmitidas en directo a través de las plataformas digitales o medios electrónicos con que cuente el Ayuntamiento. Las versiones digitales deberán estar disponibles para su consulta pública.
+El Ayuntamiento celebrará por lo menos una sesión ordinaria mensualmente, y las extraordinarias que sean necesarias cuando existan motivos que las justifiquen. A las sesiones podrán asistir las personas Titulares de las Presidencias de las Juntas Auxiliares, quienes se sujetarán a la normatividad aplicable y participarán con voz, pero sin voto.
+
+Estas sesiones deberán ser transmitidas en directo a través de las plataformas digitales o medios electrónicos con que cuente el Ayuntamiento. Las versiones digitales deberán estar disponibles para su consulta pública.
 
 Cuando se presente algún problema técnico o cualquier otra causa que imposibilite la transmisión en directo, el Ayuntamiento deberá grabar la sesión correspondiente y sin edición digital que altere el contenido la hará pública posteriormente.
 
@@ -1743,7 +1745,7 @@ XVI.- Exigir de los encargados de las oficinas respectivas, las noticias que per
 
 XVII.- Ejercer las facultades de Juez del Registro del Estado Civil de las Personas por Ministerio de Ley, en términos de las disposiciones aplicables;
 
-XVIII.- Suplir a los menores de edad el consentimiento que necesiten para contraer matrimonio, excepto en la Capital del Estado, en los casos de irracional negativa de los ascendientes o tutores. En estos casos oirán a los que hayan negado el consentimiento y al Ministerio Público;
+XVIII.- (DEROGADA, P.O. 13 DE JUNIO DE 2025)
 
 XIX.- Dispensar las publicaciones para contraer matrimonio, de acuerdo con la Ley;
 
@@ -4688,6 +4690,22 @@ TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor 
 P.O. 4 DE OCTUBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXIX DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 70 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
