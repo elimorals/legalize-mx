@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-coordinacion-general-de-asuntos-142138
 country: "mx"
 rank: "codigo"
 publication_date: "2020-02-19"
-last_updated: "2020-02-19"
+last_updated: "2025-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA COORDINACION GENERAL DE ASUNTOS JURIDICOS DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025 (ABROGADO).
 
 Código publicado en el Suplemento L al Número 8082 del Periódico Oficial del Estado de Tabasco, el miércoles 19 de febrero de 2020.
 
@@ -212,3 +214,13 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS DIEZ DÍ
 GUILLERMO DEL RIVERO LEÓN
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. DE 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO”.]
+
+PRIMERO.- El Presente Código de Conducta de las Personas Servidoras Públicas de la Consejería Jurídica del Poder Ejecutivo del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Coordinación General de Asuntos Jurídicos, publicado el 19 de febrero de 2020 en el Periódico Oficial del Estado número 8082, Suplemento L.
