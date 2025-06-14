@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2023-12-30"
+last_updated: "2025-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -192,6 +192,10 @@ II. Familia y comunidad: A través de políticas que promuevan la recreación, p
 III. Actividad física de personas adultas mayores: Promoviendo la actividad física y recreación deportiva para las personas adultas mayores, conforme a sus capacidades y posibilidades.
 
 IV. Personas con discapacidad: Prestando especial atención a las personas con discapacidad, a objeto de contribuir a su plena integración social.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2025)</small>
+
+V. Personas indígenas y afromexicanas: con el objeto de preservar, fomentar y promover la práctica de Ios juegos y deportes autóctonos y tradicionales de los pueblos y comunidades indígenas y afromexicanas del Estado de Oaxaca, como una expresión de nuestro origen, historia, desarrollo, composición pluricultural y multiétnica, identidad, cosmovisión, cultura y patrimonio, y con la finalidad de reconocer su importancia en el desarrollo físico, espiritual, emocional y formativo en valores de las personas y nuestra sociedad, y sus aportes a la grandeza de nuestros pueblos y culturas, reconociendo a Oaxaca como un Estado multiétnico, pluricultural y multilingüe.
 
 ###### Artículo 9.
 
@@ -2382,6 +2386,14 @@ SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su
 P.O. 30 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1619.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXXIX Y XLI DEL ARTÍCULO 22, LA FRACCIÓN VII DEL ARTÍCULO 60, EL PÁRRAFO PRIMERO DEL ARTÍCULO 178, LA FRACCIÓN IX DEL ARTÍCULO 179 Y LA FRACCIÓN III DEL ARTÍCULO 183 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 664.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN V AL ARTÍCULO 8 DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
