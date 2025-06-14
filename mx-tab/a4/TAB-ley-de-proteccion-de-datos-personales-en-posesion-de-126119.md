@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-de-datos-personales-en-posesion-de-126119"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-09"
-last_updated: "2017-09-09"
+last_updated: "2025-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 14 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento 7827 B del Periódico Oficial del Estado de Tabasco, el 9 de septiembre de 2017.
 
@@ -2202,3 +2204,69 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 117 POR EL QUE “SE EXPIDE LA NUEVA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el Extraordinario al Periódico Oficial del Estado, número 118 de fecha 15 de diciembre de 2015; y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tabasco, publicada en el Suplemento B al Periódico Oficial del Estado, número 7827 de fecha 9 de septiembre de 2017.
+
+TERCERO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Tabasqueño de Transparencia y Acceso a la Información Pública se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO.- Al día siguiente de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas deberá designar a la persona liquidadora quien contará con las más amplias facultades para actos de administración, dominio, pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquellas que en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones legales aplicables, así como realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación.
+
+El proceso de liquidación y transferencia del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública deberá llevarse a cabo conforme a las disposiciones jurídicas y normativa aplicable.
+
+La persona liquidadora de la Secretaría de Administración y Finanzas que al efecto se designe, coadyuvará para dar cumplimiento a lo dispuesto en el presente Decreto y deberá de manera enunciativa más no limitativa:
+
+1. Realizar el pago de las prestaciones correspondientes a los trabajadores como consecuencia de la extinción del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en términos de la legislación y normativa aplicable;
+
+2. Atender en coordinación con la autoridad competente los expedientes, demandas o procedimientos laborales que se encuentren en trámite hasta su conclusión;
+
+3. Realizar el conteo de los saldos bancarios a efecto de que, en su oportunidad, los remanentes sean transferidos a la cuenta bancaria que se instruya por la Secretaría de Administración y Finanzas;
+
+4. Gestionar la cancelación o baja del órgano autónomo Instituto Tabasqueño de Transparencia y Acceso a la Información Pública ante (sic) Servicio de Administración Tributaria (SAT) y demás instancias o autoridades administrativas que corresponda; y
+
+5. Las demás inherentes a sus atribuciones, que le otorgue la legislación aplicable, y que resulten necesarias para llevar a cabo la liquidación y extinción del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+QUINTO.- Las personas servidoras públicas del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses lo realizarán conforme a la normatividad aplicable.
+
+De igual manera, deberán presentar acta administrativa de entrega-recepción, de conformidad con la normatividad aplicable a la persona liquidadora que designe la Secretaría de Administración y Finanzas en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+SEXTO.- Los recursos materiales con los que cuente el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, serán entregados dentro del término de diez días hábiles siguientes a la entrada en vigor del presente Decreto a la persona liquidadora designada por la Secretaría de Administración y Finanzas, quien posterior a su recepción los resguardará y deberá transferir al Instituto de Transparencia para el Pueblo del Estado de Tabasco al momento que este se encuentre en funcionamiento.
+
+SÉPTIMO.- El Instituto Tabasqueño de Transparencia y Acceso a la Información Pública entregará a la persona liquidadora designada por la Secretaría de Administración y Finanzas dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, los recursos financieros, y esta de conformidad con las disposiciones jurídicas aplicables hará entrega de los mismos a la Secretaría de Administración y Finanzas.
+
+Asimismo, el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública deberá entregar a la persona liquidadora la información y formatos necesarios para integrar la Cuenta Pública y demás informes trimestrales correspondientes de conformidad con las disposiciones jurídicas aplicables.
+
+OCTAVO.- Los elementos de seguridad para el acceso a la Plataforma Nacional de Transparencia, así como lo (sic) servidores con los que cuenta el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, serán entregados a la persona liquidadora designada por la Secretaría de Administración y Finanzas a más tardar dentro de los cinco días hábiles siguientes a la entrada en vigor del presente Decreto, para que posterior a su recepción sean entregados en un plazo no mayor a cinco días hábiles a quien designe la persona titular de la Secretaría de Administración y Finanzas, para su operación y funcionamiento en tanto entra en funcionamiento el Instituto de Transparencia para el Pueblo del Estado de Tabasco.
+
+NOVENO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en materia de acceso a la información pública y datos personales se sustanciarán ante el Instituto de Transparencia para el Pueblo del Estado de Tabasco conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en materia de acceso a la información pública y datos personales, así como el seguimiento de los que se encuentren en trámite, se llevará a cabo por el Instituto de Transparencia para el Pueblo del Estado de Tabasco.
+
+El Instituto de Transparencia para el Pueblo del Estado de Tabasco podrá remitir a la Autoridad Garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+DÉCIMO.- El Poder Ejecutivo deberá expedir las adecuaciones normativas y presupuestales para la estructura orgánica y emisión del Reglamento Interior del órgano desconcentrado denominado Instituto de Transparencia para el Pueblo del Estado de Tabasco, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, a fin de dar cumplimiento al mismo.
+
+DÉCIMO PRIMERO.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán entregados a la persona liquidadora designada por la Secretaría de Administración y Finanzas dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, y los entregará al Instituto de Transparencia para el Pueblo del Estado de Tabasco al momento que este se encuentre en funcionamiento.
+
+El Instituto de Transparencia para el Pueblo del Estado de Tabasco dentro de los veinte días naturales siguientes captados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+DÉCIMO SEGUNDO.- El Órgano Interno de Control del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán entregados a la persona liquidadora designada por la Secretaría de Administración y Finanzas dentro del término de diez días hábiles siguientes a la entrada en vigor del presente Decreto, para posteriormente ser entregados al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los diez días hábiles siguientes a su recepción, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+DÉCIMO TERCERO.- Los Comisionados y titulares de las unidades administrativas del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública serán los encargados de realizar la entrega y recepción de los asuntos que se señalan en los transitorios Sexto, Séptimo, Octavo y Décimo Primero, así como realizar las demás acciones que considere necesarias para dichos efectos la persona liquidadora designada por la Secretaría de Administración y Finanzas.
+
+DÉCIMO CUARTO.- El Comité del Subsistema Estatal de Transparencia deberá instalarse dentro de los sesenta días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno.
+
+DÉCIMO QUINTO.- Los poderes Legislativo y Judicial, así como los órganos constitucionales autónomos deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este Decreto en un plazo máximo de treinta días naturales, contados a partir de la entrada en vigor del mismo.
+
+Para los efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+En tanto entra en funciones el Instituto de Transparencia para el Pueblo del Estado de Tabasco la Secretaría Anticorrupción y Buen Gobierno atenderá las consultas sobre la gestión de solicitudes en la Plataforma Nacional de Transparencia.
+
+DÉCIMO SEXTO.- La Secretaría de Administración y Finanzas y la Secretaría Anticorrupción y Buen Gobierno, dictarán los lineamientos y disposiciones de carácter general en el ámbito de sus respectivas competencias que se estimen necesarios, en todo aquello que no se haya considerado expresamente en el presente Decreto y su régimen transitorio.
