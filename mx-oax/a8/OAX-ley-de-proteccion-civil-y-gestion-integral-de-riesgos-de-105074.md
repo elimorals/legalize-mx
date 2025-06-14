@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2025-04-12"
+last_updated: "2025-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -1039,7 +1039,13 @@ X. Promover la constitución del Fondo Estatal de Prevención de Riesgos y Prote
 
 XI. Suscribir convenios de colaboración administrativa con los municipios en materia de prevención de riesgos de desastre y protección civil;
 
-XII. Gestionar ante las autoridades correspondientes, la incorporación y ampliación de contenidos de protección civil con un enfoque de Gestión Integral de Riesgos en el Sistema Educativo Estatal en los niveles, básico, medio superior y superior;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2025)</small>
+
+XII. Gestionar ante las autoridades correspondientes, la incorporación y ampliación de contenidos de protección civil con un enfoque de Gestión Integral de Riesgos en el Sistema Educativo Estatal en los niveles, básico, medio superior y superior; así como, la incorporación de acuerdo con el nivel educativo, de programas y talleres en materia de primeros auxilios y prevención de accidentes, los cuales podrán impartirse a través de las tecnologías de la información y las comunicaciones;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2025)</small>
+
+XII Bis. Realizar en coordinación con las autoridades correspondientes, capacitaciones periódicas en materia de primeros auxilios y Gestión Integral de Riesgos, para el personal docente;
 
 XIII. Impulsar la creación de la Escuela Estatal de Protección Civil y Gestión Integral de Riesgos de Desastre.
 
@@ -1691,7 +1697,9 @@ Un objetivo prioritario del Sistema Estatal es fomentar una cultura preventiva y
 
 A fin de impulsar una cultura preventiva y de protección civil, la Coordinación Estatal con la participación de los sectores público, privado, social y académico, deberá:
 
-I. Promover la incorporación de contenidos temáticos de prevención de riesgos de desastres y protección civil con un enfoque de cambio climático en los planes de estudio de todos los niveles educativos, públicos y privados;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2025)</small>
+
+I. Promover la incorporación de contenidos temáticos de prevención de riesgos de desastres y protección civil con un enfoque de cambio climático en los planes de estudio de todos los niveles educativos, públicos y privados; así como, la incorporación de acuerdo con el nivel educativo, de programas y talleres en materia de primeros auxilios y prevención de accidentes, los cuales podrán impartirse a través de las tecnologías de la información y las comunicaciones;
 
 II. Realizar cursos y eventos de capacitación masiva en los que se impartan los conocimientos básicos que permitan el aprendizaje de conductas y prácticas preventivas y de autoprotección;
 
@@ -2374,3 +2382,11 @@ TERCERO. Quedan a salvo los derechos laborales del personal de base que hayan es
 CUARTO. El personal de base que ingrese después de la vigencia del presente decreto, regirá su relación laboral por lo dispuesto en el Apartado "A" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 QUINTO. La Coordinación Estatal de Protección Civil y Gestión de Riesgos deberá a la brevedad posible, llevar a cabo los procedimientos correspondientes para registrar al personal de contrato, confianza, mandos medios y superiores en el régimen de seguridad social del Instituto Mexicano del Seguro Social.
+
+P.O. 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 659.- MEDIANTE EL CUAL REFORMA LAS FRACCIONES XII DEL ARTÍCULO 35 Y I DEL ARTÍCULO 80; Y SE ADICIONA LA FRACCIÓN XII BIS AL ARTÍCULO 35, DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
