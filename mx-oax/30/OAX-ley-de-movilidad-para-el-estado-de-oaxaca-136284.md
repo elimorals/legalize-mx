@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2025-05-24"
+last_updated: "2025-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -531,9 +531,13 @@ Los estacionamientos ubicados en las empresas identificadas como centros comerci
 
 Los estacionamientos públicos y privados, deberán contar con las instalaciones necesarias para garantizar la seguridad de las personas y de los vehículos. Dispondrán de espacios exclusivos para vehículos que cuenten con distintivo oficial o el permiso, para personas con discapacidad, mujeres embarazadas y personas adultas mayores, así como de instalaciones necesarias para proporcionar el servicio a los usuarios de bicicletas y motocicletas.
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2025)</small>
 
-Los estacionamientos a que se refiere el presente artículo, deberán reservar por lo menos un espacio por cada quince, para uso exclusivo de personas con discapacidad debidamente acreditadas, los cuales estarán ubicados en lugares preferentes y de fácil acceso.
+Los estacionamientos a que se refiere el presente artículo, deberán reservar por lo menos un 10% de sus espacios para uso exclusivo e indistinto de personas con discapacidad o movilidad limitada, embarazadas o personas adultas mayores, debidamente acreditadas, los cuales estarán ubicados en lugares preferentes y de fácil acceso.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2025)</small>
+
+A quienes infrinjan lo dispuesto en el párrafo anterior, se les impondrá hasta el monto máximo de la multa establecida en la fracción I del artículo 226 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -3524,3 +3528,13 @@ P.O. 24 DE MAYO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 657.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA EL TERCER PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES DEL ARTÍCULO 24 TER DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los propietarios de los estacionamientos deberán realizar las adecuaciones en los espacios correspondientes, en un plazo de (sic) mayor a treinta días posteriores a la entrada en vigor.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
