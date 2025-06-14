@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2024-09-14"
+last_updated: "2025-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -461,7 +461,13 @@ IX. Expedir el Reglamento de la presente Ley; y
 
 X. Diseñar e instrumentar programas de empleo temporal dirigidos a aquellos municipios que presentan una fuerte intensidad de migrantes retornados, y prueben que perdieron su empleo por causas de la pandemia.
 
-XI. Las demás que le señalen expresamente la normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2025)</small>
+
+XI. Proponer el empleo temporal de migrantes, y migrantes oaxaqueños en retorno, con la participación de los Municipios del Estado y del sector privado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2025)</small>
+
+XII. Las demás que le señalen expresamente la normatividad aplicable.
 
 ### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE ATENCIÓN AL MIGRANTE
 
@@ -1016,3 +1022,11 @@ P.O. 14 DE SEPTIEMBRE DE 2024.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 665.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 23 DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
