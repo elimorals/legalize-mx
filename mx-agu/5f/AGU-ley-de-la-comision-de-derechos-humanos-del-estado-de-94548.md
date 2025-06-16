@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2024-11-25"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -797,9 +797,11 @@ I. De manera verbal, sea compareciendo personalmente o vía telefónica; o
 
 II. Por escrito, a través de carta, nota, telegrama, facsímil, medios electrónicos u otros de los que pueda disponer el denunciante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 44.
 
-No se admitirán quejas anónimas. En caso de que el Quejoso no se identifique ni suscriba la queja, deberá ratificarla dentro de los tres días hábiles siguientes y de no hacerlo se tendrá por no presentada.
+No se admitirán quejas anónimas. En caso de que el Quejoso no se identifique ni suscriba la queja, deberá ratificarla dentro de los cinco días hábiles siguientes y de no hacerlo se tendrá por no presentada.
 
 No obstante, las quejas que no sean ratificadas podrán ser estudiadas a fin de determinar si existen elementos para iniciar oficiosamente un procedimiento.
 
@@ -1366,6 +1368,14 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 P.O. 25 DE NOVIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 201.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
