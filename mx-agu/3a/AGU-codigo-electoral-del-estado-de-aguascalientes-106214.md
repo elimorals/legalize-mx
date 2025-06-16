@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2024-12-23"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -7599,4 +7599,20 @@ QUINTO.- El Consejo de la Judicatura entregará al Congreso, a más tardar al ci
 
 SEXTO.- Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral Extraordinario 2025 y pretendan una postulación para un cargo o partido judicial diverso, deberán informarlo al Congreso del Estado, hasta cinco días previos al cierre de la convocatoria general a que hace referencia el artículo 54 de la Constitución.
 
-SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+SÉPTIMO.- Las personas que resulten electas en el proceso electoral extraordinario de 2025, por única ocasión, tomarán protesta a más tardar el 1 de septiembre de 2025. Su periodo de encargo será determinado conforme a los (sic) dispuesto en el Artículo Cuarto Transitorio del Decreto 79 de reforma constitucional publicado el 18 de diciembre de 2024 en el Periódico Oficial del Estado de Aguascalientes, observando el principio de escalonamiento y la duración diferenciada establecida en dicho Decreto.
+
+OCTAVO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 214.- SE ADICIONA UN NUEVO ARTÍCULO TRANSITORIO SÉPTIMO Y SE RECORRE EL SUBSECUENTE DEL DECRETO NÚMERO 102 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
