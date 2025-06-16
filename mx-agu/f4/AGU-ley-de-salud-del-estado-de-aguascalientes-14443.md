@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2025-05-05"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -389,9 +389,17 @@ IV.- Promover y establecer mecanismos para la coordinación de esfuerzos en mate
 
 V.- Proponer proyectos para su incorporación al Programa Operativo Anual del Organismo y del Instituto;
 
-VI.- Invitar especialistas en materia de salud a sus sesiones; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2025)</small>
 
-VII.- Las demás que establezcan la presente Ley, el Reglamento Interior de la Secretaría y demás disposiciones legales aplicables.
+VI.- Establecer mecanismos de coordinación transversal, así como desarrollar, implementar y evaluar políticas, investigaciones, acciones y programas en materia de atención y protección a personas con la condición del espectro autista;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2025)</small>
+
+VII.- Invitar especialistas en materia de salud a sus sesiones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2025)</small>
+
+VIII.- Las demás que establezcan la presente Ley, el Reglamento Interior de la Secretaría y demás disposiciones legales aplicables.
 
 > <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1425,27 +1433,79 @@ Los Comités y subcomités de Salud a que se refiere el Artículo 66 de esta Ley
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales y municipales de salud.
 
+> <small>(ADICIONADO CON LO ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO VI BIS. Atención y Protección a Personas con la Condición del Espectro Autista
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+ARTICULO 78 BIS.- Corresponde al Estado garantizar el respeto y ejercicio de los derechos de las personas con la condición del espectro autista, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y en esta Ley Estatal, con la finalidad de impulsar su plena integración e inclusión a la sociedad.
+
+Para los efectos de este Capítulo se entenderá por personas con la condición del espectro autista, a todas aquellas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos; y por habilitación terapéutica, al proceso de duración limitada y con un objetivo definido de orden médico, psicológico, social, educativo y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas con la condición de espectro autista para lograr su más acelerada integración social y productiva.
+
+Para la aplicación de las normas previstas en el presente Capítulo será suficiente la sospecha de que la persona presenta algún grado de la condición del espectro autista, por lo que la falta de diagnóstico no será impedimento alguno para su aplicación.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+ARTICULO 78 TER.- Las personas con la condición del espectro autista tienen derecho a no ser discriminadas en ningún ámbito de su vida, así como en los términos de las disposiciones aplicables, gozar de los derechos siguientes:
+
+I.- Tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios;
+
+II. Tener una evaluación continua y recibir consultas clínicas;
+
+III.- Recibir habilitación terapéutica especializada, entendiendo a ésta como el proceso de duración limitada y con un objetivo definido de orden médico, psicológico, social y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas para lograr su más acelerada integración social y productiva;
+
+IV.- Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias; y
+
+V.- Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de conformidad con la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+ARTICULO 78 QUATER.- Todas las actuaciones que realicen las autoridades al tenor del presente Capítulo, deberán centrarse en los principios de actuación siguientes:
+
+I.- Autonomía: coadyuvar para que las personas con la condición del espectro autista se puedan valer por sí mismas;
+
+II.- Corresponsabilidad social: procurar en lo conducente la responsabilidad compartida por parte de la sociedad civil, en el tratamiento y atención de las personas con la condición del espectro autista;
+
+III.- Equidad: otorgar a las personas con la condición del espectro autista, la atención que responda a sus necesidades particulares y derechos de manera individualizada;
+
+IV.- Inclusión efectiva: incentivar la actuación sin discriminación ni prejuicios, en la interacción de los integrantes de la sociedad civil;
+
+V.- Comunicación Efectiva: dar a conocer a los padres, tutores y/o quien ejerza la patria potestad de una niña, niño o adolescente con condición del espectro autista, todas las actuaciones que realicen para su atención y cuidado; así como atender en lo conducente, a las observaciones que les realicen éstos primeros; e
+
+VI.- Inviolabilidad de derechos: prohibir el que cualquier persona o ente público, atente, dañe o lesione sus derechos humanos, o bien las políticas públicas y programas en favor de las personas con la condición del espectro autista.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+ARTICULO 78 QUINQUIES.- Queda estrictamente prohibido para la atención y preservación de los derechos de las personas con la condición del espectro autista y sus familias:
+
+I.- Rechazar su atención en hospitales y centros de salud, tanto del sector público como del privado;
+
+II.- Negar la orientación necesaria para un diagnóstico y tratamiento adecuado, y desestimar el traslado de individuos a instituciones especializadas, en el supuesto de carecer de los conocimientos necesarios para su atención adecuada;
+
+III.- Actuar con negligencia y realizar acciones que pongan en riesgo la salud de las personas, así como aplicar terapias riesgosas, indicar sobre-medicación que altere el grado de la condición u ordenar internamientos injustificados en instituciones psiquiátricas; y
+
+IV.- Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+ARTICULO 78 SEXTIES.- Para garantizar los derechos de las personas con la condición de espectro autista el Gobierno y los municipios, a través de sus dependencias y entidades, formularán, respecto de los asuntos de su competencia, las propuestas de políticas, programas, objetivos, metas, estrategias y acciones, basadas en los principios fundamentales previstos en el artículo 6 de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, las cuales deberán implementar de manera progresiva, conforme a la disponibilidad presupuestaria.
+
+El Gobierno y los municipios podrán celebrar convenios de coordinación con el gobierno federal, con el fin de alinear los programas a su cargo con la politica pública en materia de atención y protección a personas con la condición de espectro autista, a fin de lograr una efectiva transversalidad de las políticas públicas.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+ARTICULO 78 SEPTIES.- Además de las atribuciones señaladas en el artículo 28 de la Ley Estatal, la Secretaría en atención a esta materia deberá:
+
+I.- Realizar estudios e investigaciones clínicas y científicas, epidemiológicas, experimentales de desarrollo tecnológico y básico en las áreas biomédicas y socio-médicas para el diagnóstico y tratamiento de las personas con la condición del espectro autista;
+
+II.- Vincular sus actividades con los centros de investigación de las universidades públicas y privadas del estado en materia de atención y protección a personas con la condición del espectro autista;
+
+III.- Realizar campañas de información sobre las características propias de la condición del espectro autista, a fin de crear conciencia al respecto en la sociedad; particularmente en el marco del Día Mundial de Concienciación sobre el Autismo, se deberá exponer la necesidad de ayudar y mejorar las condiciones de vida de las niñas, niños, adolescentes y adultos que sufren este trastorno; e
+
+IV.- impulsar la participación del sector público y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud respecto a las personas con trastornos del espectro autista, mediante redes de apoyo, en el ámbito de sus respectivas competencias.
+
 ### CAPITULO VII. Salud Mental
-
-### CAPITULO VIII. Enfermedad Renal
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
-
-ARTICULO 83 SEPTIES.- Corresponde al Estado, a través de las autoridades sanitarias y del Instituto, la atención integral de la enfermedad renal, que incluye la prestación del servicio de salud de manera oportuna, eficiente y de calidad, conformado por un proceso de investigación, prevención, consejería, detección oportuna, diagnóstico y tratamiento de la enfermedad renal, así como seguimiento, evaluación y vigilancia en el Estado de Aguascalientes, observando en todo momento lo establecido por la Ley General, la Ley Estatal, las Normas Oficiales Mexicanas en la materia, los lineamientos que emitan Organismos Internacionales, la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes y demás instrumentos jurídicos aplicables.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
-
-ARTICULO 83 OCTIES.- El Instituto, tendrá por objeto coordinarse con las autoridades sanitarias del Estado, los sectores público, social y privado, en el establecimiento de las bases para la implementación, atención, regulación y vigilancia en la prestación de servicios de salud que permitan la atención integral de la enfermedad renal, a través de políticas públicas para la investigación, prevención, consejería, detección, diagnóstico, tratamiento, control y seguimiento, en atención a las disposiciones legales aplicables para tal efecto.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
-
-ARTICULO 83 NONIES.- El Instituto estará conformado en los términos establecidos por la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
-
-ARTICULO 83 DECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
-
-ARTICULO 83 UNDECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### ARTICULO 79.
 
@@ -1555,6 +1615,30 @@ ARTICULO 83 SEXIES 3.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2023)</small>
 
+### CAPITULO VIII. Enfermedad Renal
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 83 SEPTIES.- Corresponde al Estado, a través de las autoridades sanitarias y del Instituto, la atención integral de la enfermedad renal, que incluye la prestación del servicio de salud de manera oportuna, eficiente y de calidad, conformado por un proceso de investigación, prevención, consejería, detección oportuna, diagnóstico y tratamiento de la enfermedad renal, así como seguimiento, evaluación y vigilancia en el Estado de Aguascalientes, observando en todo momento lo establecido por la Ley General, la Ley Estatal, las Normas Oficiales Mexicanas en la materia, los lineamientos que emitan Organismos Internacionales, la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes y demás instrumentos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 83 OCTIES.- El Instituto, tendrá por objeto coordinarse con las autoridades sanitarias del Estado, los sectores público, social y privado, en el establecimiento de las bases para la implementación, atención, regulación y vigilancia en la prestación de servicios de salud que permitan la atención integral de la enfermedad renal, a través de políticas públicas para la investigación, prevención, consejería, detección, diagnóstico, tratamiento, control y seguimiento, en atención a las disposiciones legales aplicables para tal efecto.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
+
+ARTICULO 83 NONIES.- El Instituto estará conformado en los términos establecidos por la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
+
+ARTICULO 83 DECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
+
+ARTICULO 83 UNDECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
+## TITULO QUINTO BIS (SIC)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+
 ### CAPITULO I (SIC). La consulta Médica
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
@@ -1565,17 +1649,11 @@ Cuando el paciente sea una niña, niño o adolescente, deberá estar acompañado
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
-## TITULO QUINTO BIS (SIC)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-### CAPITULO I
-
 ## TITULO QUINTO BIS
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO II
+### CAPITULO I
 
 ###### ARTICULO 83 Bis 1.
 
@@ -1595,7 +1673,7 @@ Cuando el paciente sea una niña, niño o adolescente, deberá estar acompañado
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+### CAPITULO II
 
 ###### ARTICULO 83 Bis 5.
 
@@ -1635,7 +1713,7 @@ Cuando el paciente sea una niña, niño o adolescente, deberá estar acompañado
 
 ## TITULO SEXTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 84.
 
@@ -1677,9 +1755,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica y demás disposiciones legales aplicables.
 
-### CAPITULO III. Formación, Capacitación y Actualización del Personal
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 88.
 
@@ -1705,7 +1781,9 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Aguascalientes, de conformidad con las disposiciones legales del Estado aplicables al ejercicio profesional.
 
-### CAPITULO UNICO
+### CAPITULO III. Formación, Capacitación y Actualización del Personal
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 93.
 
@@ -1757,53 +1835,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
 
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 A.- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
-
-Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad que para el efecto sean creados.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
-
-I. Un Comité Hospitalario de Bioética, para:
-
-a. La resolución de los problemas derivados de la prestación de los servicios de salud a que se refiere el Título Quinto de esta ley;
-
-b. El análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparta en el área de salud;
-
-c. Promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia en salud; y
-
-d. Promover la educación bioética permanente de sus miembros y del personal a su cargo.
-
-II. Un Comité de Ética en Investigación, en los casos de instituciones prestadoras de servicios de salud que lleven a cabo actividades de investigación en seres vivos, para:
-
-a. Evaluar y dictaminar los protocolos de investigación en seres vivos, formulando las recomendaciones de carácter ético que correspondan; y
-
-b. Elaborar lineamientos y guías institucionales para la investigación en salud y sus repercusiones en el medio ambiente, debiendo dar seguimiento a sus recomendaciones.
-
-III. En su caso un Comité de Bioseguridad encargado de determinar y normar al interior del centro, cuando en éste sean utilizados métodos, técnicas y materiales que impliquen riesgo para la salud de usuarios y operadores.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
-
-ARTICULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
-
-Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.
+### CAPITULO UNICO
 
 ###### ARTICULO 98.
 
@@ -1881,13 +1913,59 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 A.- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
+
+Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad que para el efecto sean creados.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
+
+I. Un Comité Hospitalario de Bioética, para:
+
+a. La resolución de los problemas derivados de la prestación de los servicios de salud a que se refiere el Título Quinto de esta ley;
+
+b. El análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparta en el área de salud;
+
+c. Promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia en salud; y
+
+d. Promover la educación bioética permanente de sus miembros y del personal a su cargo.
+
+II. Un Comité de Ética en Investigación, en los casos de instituciones prestadoras de servicios de salud que lleven a cabo actividades de investigación en seres vivos, para:
+
+a. Evaluar y dictaminar los protocolos de investigación en seres vivos, formulando las recomendaciones de carácter ético que correspondan; y
+
+b. Elaborar lineamientos y guías institucionales para la investigación en salud y sus repercusiones en el medio ambiente, debiendo dar seguimiento a sus recomendaciones.
+
+III. En su caso un Comité de Bioseguridad encargado de determinar y normar al interior del centro, cuando en éste sean utilizados métodos, técnicas y materiales que impliquen riesgo para la salud de usuarios y operadores.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+
+ARTICULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
+
+Dichos comités serán interdisciplinarios y deberán estar integrados por el personal de atención de la salud y por profesionales de otras disciplinas que cuenten-con capacitación o conocimientos en bioética, siendo imprescindible contar con representantes del núcleo afectado o de personas usuarias de los servicios de salud, hasta el número convenido de sus miembros, quienes podrán estar adscritos o no a la unidad de salud o institución.
 
 ## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 105.
 
@@ -1927,7 +2005,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO NOVENO. PROMOCION DE LA SALUD
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 107.
 
@@ -1947,9 +2025,7 @@ IV.- Salud ocupacional; y
 
 V.- Fomento sanitario.
 
-### CAPITULO III. Nutrición
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 109.
 
@@ -1967,7 +2043,9 @@ III.- Orientar y capacitar a la población preferentemente en materia de nutrici
 
 Las autoridades sanitarias estatales y municipales en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
+### CAPITULO III. Nutrición
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 111.
 
@@ -1989,7 +2067,7 @@ Además, el Consejo Estatal de Nutrición creará un listado de alimentos que de
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO V. Salud Ocupacional
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 ###### ARTICULO 113.
 
@@ -2033,6 +2111,20 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
+### CAPITULO V. Salud Ocupacional
+
+###### ARTICULO 118.
+
+El Organismo tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+
+###### ARTICULO 119.
+
+El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
 ### CAPITULO VI. De la Donación de Órganos
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
@@ -2059,25 +2151,11 @@ Sólo en caso de que la pérdida de la vida del donante esté relacionada con la
 
 ARTICULO 119 QUINQUIES.- La cultura de donación de órganos, tejidos y células son de interés público. El Gobierno implementará programas permanentes destinados a fomentar la donación de órganos, tejidos y células, en coordinación con el Centro Nacional de Trasplantes. La Secretaría promoverá con las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado de Aguascalientes, los poderes legislativo y judicial, así como los órganos autónomos, en el ámbito de sus respectivas competencias, mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
-###### ARTICULO 118.
-
-El Organismo tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con las disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
-
-###### ARTICULO 119.
-
-El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
 ### CAPITULO I. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
-
-## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
-
-### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 120.
 
@@ -2085,7 +2163,7 @@ Corresponde al Organismo en coordinación con las autoridades internacionales, f
 
 Corresponde al Instituto, en coordinación con las autoridades e instituciones de salud públicas o privadas, en el orden internacional, federal, estatal o municipal, respetando el ámbito de sus respectivas competencias, realizar actividades de investigación, prevención, consejería, detección, diagnóstico, tratamiento, control, seguimiento, evaluación y vigilancia de la enfermedad renal.
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
 
 ###### ARTICULO 121.
 
@@ -2199,7 +2277,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 135.
 
@@ -2223,9 +2301,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 138.
 
@@ -2255,7 +2331,9 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
-### CAPITULO I. De la Asistencia Social
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 139 Bis.
 
@@ -2399,7 +2477,7 @@ En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
 ## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPITULO II. De la Discapacidad
+### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 140.
 
@@ -2479,9 +2557,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. De la Discapacidad
 
 ###### ARTICULO 153.
 
@@ -2527,7 +2603,9 @@ El Organismo y el Instituto en coordinación con otras instituciones públicas, 
 
 ## TITULO SEGUNDO (SIC)
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 158.
 
@@ -2551,15 +2629,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
-
-ARTICULO 161 A.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
-
-ARTICULO 161 B.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
-
-ARTICULO 161 C.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 160.
 
@@ -2587,6 +2657,16 @@ IV. El tratamiento del tabaquismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
+### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
+
+ARTICULO 161 A.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
+ARTICULO 161 B.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
+ARTICULO 161 C.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
+
 ### CAPITULO IV. Disposiciones Comunes
 
 ARTICULO 161 D.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
@@ -2595,11 +2675,9 @@ ARTICULO 161 E.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
 ARTICULO 161 F.- (DEROGADO, P.O. 7 DE AGOSTO DE 2023)
 
-### CAPITULO I. Disposiciones Comunes
-
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 162.
 
@@ -2651,7 +2729,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
 ###### ARTICULO 169.
 
@@ -2669,7 +2747,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 172.
 
@@ -2705,7 +2783,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO IV. Servicios Funerarios
 
 ###### ARTICULO 180.
 
@@ -2729,7 +2807,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 184.
 
@@ -2767,9 +2845,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 189.
 
@@ -2815,7 +2891,9 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 199.
 
@@ -2841,7 +2919,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 205.
 
@@ -2861,7 +2939,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 209.
 
@@ -2875,9 +2953,7 @@ El agua que se utilice en los baños públicos deberá ser potable y cumplir con
 
 ARTICULO 210 BIS.- Los establecimientos públicos y privados, que permitan el acceso de personas menores de edad, deberán en la medida de lo posible y de manera progresiva adoptar medidas como cambiadores de pañales para niñas y niños, tanto en baños públicos de mujeres, así como baños públicos de hombres; los cuales, tendrán que cumplir con la normatividad que establezca la Secretaría de Salud y (sic) Oficiales Mexicanas.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 211.
 
@@ -2889,7 +2965,9 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2016)</small>
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 213.
 
@@ -2899,7 +2977,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 215.
 
@@ -2915,7 +2993,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 217.
 
@@ -2925,7 +3003,7 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
 
 ###### ARTICULO 219.
 
@@ -2935,13 +3013,13 @@ Para los efectos de esta Ley, se entiende por establecimientos destinados al alm
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 222.
 
@@ -2987,9 +3065,7 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 226.
 
@@ -2997,9 +3073,9 @@ Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 226 Bis.
 
@@ -3007,7 +3083,7 @@ La realización de cualquier procedimiento médico o de cirugía plástica, est�
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -3057,7 +3133,9 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 236.
 
@@ -3119,9 +3197,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
+### CAPITULO III. Certificados
 
 ###### ARTICULO 244.
 
@@ -3177,9 +3253,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO I
+### CAPITULO UNICO
 
-Medidas de Seguridad Sanitaria.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 251.
 
@@ -3283,7 +3359,9 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 263.
 
@@ -3393,7 +3471,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 275.
 
@@ -3491,7 +3569,7 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 La resolución que contenga la determinación de la sanción a que se refiere este artículo se comunicará a la autoridad correspondiente para que la lleve a cabo.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 287.
 
@@ -3531,7 +3609,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 296.
 
@@ -3585,9 +3663,7 @@ Cuando del contenido de un acta de verificación se desprenda la posible comisi�
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2004)
 
-### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 309.
 
@@ -3610,6 +3686,10 @@ Los interesados podrán hace valer la prescripción, por vía de acción o excep
 ## TITULO DECIMO OCTAVO (SIC). DE LA BENEFICENCIA PÚBLICA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 313.
 
@@ -4628,3 +4708,19 @@ P.O. 5 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 195.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular del Poder Ejecutivo Estatal deberá en un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, reformar, adicionar y/o derogar las disposiciones reglamentarias conducentes, a efecto que, éstas sean de conformidad con el mismo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
