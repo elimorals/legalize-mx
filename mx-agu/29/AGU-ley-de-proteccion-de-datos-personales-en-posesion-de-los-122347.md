@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122347
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-03"
-last_updated: "2024-05-13"
+last_updated: "2025-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 16 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025 (ABROGADO).
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de julio de 2017.
 
@@ -1950,3 +1952,23 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Con la entrada en vigor del presente Decreto se abrogan la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios, publicadas (sic) 07 de noviembre de 2016 y 03 de julio de 2017, respectivamente, en el Periódico. Oficial del Estado de Aguascalientes, así como las reformas subsecuentes a dicha Ley.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia del Estado de Aguascalientes, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones en las Leyes que se expiden en el Artículo Primero y Artículo Segundo del presente Decreto, según corresponda.
+
+CUARTO. Las autoridades garantes, descritas en la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes, y en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes, que se expiden en los Artículos Primero y Segundo del presente Decreto, deberán llevar a cabo las actualizaciones que correspondan a su normatividad, dentro de los treinta días siguientes, a la entrada en vigor del presente Decreto.
+
+Para efectos de lo previsto en este Transitorio, se suspenden por un plazo de treinta días naturales, a la entra (sic) en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y demás medios de impugnación establecidos en este instrumento y normativa aplicable, así como para el cumplimiento de las obligaciones en la Plataforma Nacional de Transparencia, con excepción de la recepción y atención a las solicitudes de información que se tramiten a través de la Plataforma Nacional de Transparencia.
+
+Los sujetos obligados que determinan la Ley de Transparencia y Acceso a la Información del Estado de Aguascalientes y Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes, deberán llevar a cabo la instalación de los Comités de Transparencia y Unidades de Transparencia, según corresponda, en un término a treinta días naturales siguientes, a la entrada en vigor del presente Decreto.
+
+QUINTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia del Estado de Aguascalientes, en materia de transparencia, acceso a la información pública y datos personales o cualquier otra distinta a la mencionada en el Transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio, ante las autoridades garantes correspondientes.
+
+SEXTO. Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
