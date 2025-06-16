@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-mental-del-estado-de-aguascalientes-174218"
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-28"
-last_updated: "2025-05-19"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD MENTAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en el Número 50 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 28 de agosto de 2024.
 
@@ -129,27 +129,41 @@ XXI. Trastorno de la Salud Mental: Afectación de la salud mental de una persona
 
 Las personas usuarias de los servicios de salud mental, tienen derecho:
 
-I. Al acceso oportuno y adecuado a los servicios de salud mental.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-II. A la atención psicológica o médica psiquiátrica dependiendo de su necesidad.
+I. Al acceso oportuno y adecuado a los servicios de salud mental en las unidades de primer, segundo y tercer nivel de atención del Estado.
 
-III. A la toma de decisiones relacionadas con su atención y su tratamiento.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-IV. A ser informado sobre las campanas, planes, programas y servicios que proporcione las instituciones públicas sociales y privadas en materia de salud mental.
+II. A la atención psicológica o médica psiquiátrica dependiendo de su necesidad en las unidades de primer, segundo y tercer nivel de atención del Estado.
 
-V. A conservar la confidencialidad de información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-VI. A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea niña, niño o adolescente o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y centros de atención integral juvenil, así´ como a grupos vulnerables.
+III. A la atención integral proporcionada por equipo multidisciplinario e interinstitucional, que ofrezca acompañamiento durante todas las etapas del proceso de tratamiento, rehabilitación y reincorporación social.
 
-VII. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas.
+> <small>(ADICIONADA [N. DE E. REPUBLICADA ANTES FRACCIÓN III], P.O. 16 DE JUNIO DE 2025)</small>
 
-VIII. A solicitar su diagnóstico, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reincorporación al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado o estén siendo atendido en alguna de las Unidades de Salud Mental del Estado.
+IV. A la toma de decisiones relacionadas con su atención y su tratamiento.
 
-IX. A ser referido a algún Hospital General u Hospital de Psiquiatría, cuando el diagnóstico corresponda a ese nivel de atención.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-X. A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional por la psicóloga tratante u otra.
+V. A ser informado sobre las campañas, planes, programas y servicios que proporcione las instituciones públicas sociales y privadas en materia de salud mental.
 
-XI. A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo ordenamientos judiciales.
+VI. A conservar la confidencialidad de información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios.
+
+VII. A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea niña, niño o adolescente o incapaz. Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y centros de atención integral juvenil, así como a grupos vulnerables.
+
+VIII. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+IX. A solicitar su diagnóstico, a recibir atención especializada, a contar con un plan o programa integral de tratamiento para la recuperación de sus funciones cerebrales, habilidades cognitivas, proceso de aprendizaje, así como a la reincorporación al ámbito social y productivo, conservando su integridad psicológica, incluyendo a pacientes que hayan estado o estén siendo atendidos en alguna de las Unidades de Salud Mental del Estado.
+
+X. A ser referido a algún Hospital General u Hospital de Psiquiatría, cuando el diagnóstico corresponda a ese nivel de atención.
+
+XI. A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional por la psicóloga tratante u otra.
+
+XII. A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo ordenamientos judiciales.
 
 ###### Artículo 8.
 
@@ -187,7 +201,7 @@ III. La Promoción en los municipios de la salud mental e incentivar la particip
 
 IV. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que, en cada uno de los municipios del Estado, se cuente, mínimamente con un Instituto Municipal de Salud Mental;
 
-V. Los pacientes con un Trastorno de la Salud Mental podrán acceder a la atención integral proporcionada por un equipo multidisciplinario e interinstitucional, que ofrezca acompañamiento durante todas las etapas del proceso de tratamiento, rehabilitación y reincorporación social, siempre y cuando no sean derechohabientes de alguna institución pública de seguridad social, este servicio garantizará un enfoque integral y continuo, destinado a promover la recuperación y el bienestar de aquellos que no cuentan con cobertura en el sistema de seguridad social;
+V. (DEROGADA, P.O. 16 DE JUNIO DE 2025)
 
 VI. Implementar la guía práctica y el protocolo de intervención para los servicios de emergencia del paciente con Trastorno de la Salud Mental en fase crítica;
 
@@ -518,3 +532,11 @@ P.O. 19 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 194.- SE REFORMA LA LEY DE SALUD MENTAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
