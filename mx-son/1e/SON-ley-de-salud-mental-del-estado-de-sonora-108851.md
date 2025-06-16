@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-mental-del-estado-de-sonora-108851"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-16"
-last_updated: "2020-12-24"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SON"
 
 LEY DE SALUD MENTAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el lunes 16 de diciembre de 2013.
 
@@ -64,9 +64,17 @@ IV.- Definir los mecanismos y lineamientos para promover la participación de la
 
 V.- Proteger a la población afectada por trastornos mentales a través de los servicios de salud en el Estado de Sonora;
 
-VI.- Promover la erradicación de los prejuicios y estigmas contra las personas que padecen trastornos mentales; y
+> <small>(REFORMADA, B.O. 16 DE JUNIO DE 2025)</small>
 
-VII.- Las demás que le señalen esta Ley y demás disposiciones aplicables.
+VI.- Promover la erradicación de los prejuicios y estigmas contra las personas que padecen trastornos mentales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE JUNIO DE 2025)</small>
+
+VII.- Garantizar la atención y apoyo psicológico a las niñas, niños y adolescentes que afronten dificultades emocionales, conflictos familiares, problemas de salud mental y víctimas de violencia, abuso sexual o cualquier delito; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 16 DE JUNIO DE 2025)</small>
+
+VIII.- Las demás que le señalen esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 3.
 
@@ -1031,3 +1039,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
+
+B.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 47, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 2° DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
