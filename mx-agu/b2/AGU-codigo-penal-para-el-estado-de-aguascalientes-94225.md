@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2025-05-26"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1201,11 +1201,11 @@ I. En vindicación próxima de una ofensa grave causada al responsable, a su có
 
 II. Por móviles de piedad, mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 99.
 
-Homicidio Doloso agravado. Cuando el Homicidio Doloso se cometa por motivo de tortura, violación, robo, después de concluida una rebelión, en el interior de casa habitación o sus dependencias a la que el responsable haya penetrado de manera furtiva, con engaño, con violencia o sin permiso de la persona autorizada para otorgarlo, cuando la víctima presente signos de violencia sexual previos o contemporáneos a la realización del homicidio, o el hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello, se aplicarán al responsable de 20 a 40 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, atendiendo en este caso, además, las reglas del concurso.
+Homicidio Doloso agravado. Cuando el Homicidio Doloso se cometa por motivo de tortura, violación, robo, después de concluida una rebelión, en el interior de casa habitación o sus dependencias a la que el responsable haya penetrado de manera furtiva, con engaño, con violencia o sin permiso de la persona autorizada para otorgarlo, cuando la víctima presente signos de violencia sexual previos o contemporáneos a la realización del homicidio, o el hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello, se aplicarán al responsable de 35 a 45 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, atendiendo en este caso, además, a las reglas del concurso.
 
 ###### ARTÍCULO 100.
 
@@ -4498,3 +4498,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 198.- SE REFORMA CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
