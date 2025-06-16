@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2024-12-27"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -599,7 +599,9 @@ IV.- Los resultados de las finanzas públicas que abarquen un periodo de los cin
 
 V.- Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
 
-VI.- En su caso, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada celebrados o por celebrarse durante el siguiente ejercicio fiscal.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+VI.- En su caso, las previsiones de gasto necesarias para hacer frente a los compromisos de pago que se deriven de los contratos de Asociación Público-Privada y de Obra Pública Financiada celebrados o por celebrarse durante el siguiente ejercicio fiscal.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -696,6 +698,10 @@ IV.- Los tabuladores para la remuneración de los servidores públicos, la indic
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
 V.- Los rubros con las partidas plurianuales, con las cuales se harán los pagos plurianuales para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios o Asociaciones Público-Privadas que hayan sido aprobados previamente por el Congreso. Para el caso de Proyectos de Prestación de Servicios o Asociaciones Público-Privadas con recursos federales, se observará lo dispuesto en el Artículo 4° Fracción IV de la Ley de Asociaciones Público Privadas;
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+Asimismo, se debe incluir los rubros con las partidas plurianuales, con las cuales se harán los pagos plurianuales para cumplir con las obligaciones contraídas bajo la modalidad de Obra Pública Financiada.
 
 VI.- Los pagos autorizados por la Secretaría y las Tesorerías, en su caso, que rebasen un ejercicio presupuestal con cargo a diferentes presupuestos; y
 
@@ -1087,7 +1093,9 @@ III. Con anterioridad al ejercicio o contratación de cualquier programa o proye
 
 Para los propósitos señalados en el párrafo anterior, el Gobierno del Estado o cada Municipio deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública productiva del Estado o de los Municipios. Estarán exceptuados de lo anterior, los Municipios con menos de 200 mil habitantes de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
 
-Tratándose de proyectos de Inversión pública productiva que pretendan contratar los Ejecutores del Gasto bajo un esquema de Proyectos de Prestación de Servicios o de Asociación Público-Privada, deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+Tratándose de proyectos de Inversión pública productiva que pretendan contratar los Ejecutores del Gasto bajo un esquema de Proyectos de Prestación de Servicios, de Asociación Público-Privada o de Obra Pública Financiada, deberán acreditar, por lo menos, un análisis de conveniencia para llevar a cabo el proyecto a través de dicho esquema, en comparación con un mecanismo de obra pública tradicional y un análisis de transferencia de riesgos al sector privado.
 
 Dichas evaluaciones deberán ser públicas a través de las páginas oficiales de Internet de la Secretaría, Tesorería Municipal o sus equivalentes.
 
@@ -1341,9 +1349,15 @@ Los Ejecutores de Gasto que ejerzan recursos públicos federales, se apegarán a
 
 Los pagos con cargo al Presupuesto de Egresos serán justificados y comprobados con los documentos respectivos y se efectuarán preferentemente en forma electrónica mediante abono en cuenta de los beneficiarios, salvo en las localidades donde no haya disponibilidad de servicios bancarios, o bien, las circunstancias del caso exijan otro medio de pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2025)</small>
+
 ###### Artículo 55.
 
-Las Dependencias y Entidades del Ejecutivo así como de los Municipios, podrán celebrar compromisos de pago plurianuales aprobados conforme a la Ley de Proyectos de Prestación de Servicios del Estado de Aguascalientes, en los términos del Artículo 27, Fracción III y Fracción XXXIV, de la Constitución Política del Estado.
+Las Dependencias y Entidades del Ejecutivo, así como de los Municipios, podrán celebrar compromisos de pago plurianuales aprobados conforme a la Ley de Asociaciones Público-Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes, en los términos del Artículo 27, Fracción III y Fracción XXXIV, de la Constitución Política del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+De igual manera, las Dependencias y Entidades del Ejecutivo, así como de los Municipios, podrán celebrar compromisos de pago plurianuales aprobados conforme al Capítulo Octavo Ter de la Ley de Obras Públicas y Servicios relacionados para el Estado de Aguascalientes y sus Municipios.
 
 Asimismo, los Ejecutores de Gasto, podrán asumir compromisos de pago que rebasen un ejercicio presupuestal, según las siguientes modalidades:
 
@@ -1902,3 +1916,11 @@ Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decret
 ###### ARTÍCULO TERCERO.
 
 Las solicitudes de autorización de la constitución de fideicomisos por parte de Entidades Paraestatales, que se hubieran presentado ante la Secretaría de Finanzas con anterioridad al inicio de la vigencia del presente Decreto, se concluirán conforme a la legislación vigente al momento de que la Entidad Paraestatal presentara su solicitud de autorización.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 208.- SE REFORMA LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
