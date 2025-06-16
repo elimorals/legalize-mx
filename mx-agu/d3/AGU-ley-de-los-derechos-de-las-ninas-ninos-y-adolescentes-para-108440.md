@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-05-26"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE MAYO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1317,13 +1315,27 @@ XVIII. Establecer mecanismos para fomentar el uso responsable y seguro de las te
 
 XIX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-XX. Conformar una instancia multidisciplinaria responsable de establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia o discriminación que se produzca contra niñas, niños y adolescentes en los centros educativos del Estado; y
+XX. Conformar una instancia multidisciplinaria responsable de establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia o discriminación que se produzca contra niñas, niños y adolescentes en los centros educativos del Estado;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-XXI. Inculcar en niñas, niños y adolescentes la cultura de paz y la educación cívica.
+XXI. Inculcar en niñas, niños y adolescentes la cultura de paz y la educación cívica; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+XXII. Implementar acciones para evitar el ausentismo, el abandono y la deserción escolar. Asimismo, establecer mecanismos de coordinación con el Instituto de Educación del Estado de Aguascalientes, a fin de que, en los casos detectados de ausentismo injustificado, se actúe conforme a lo previsto en el artículo 79 de la Ley de Educación del Estado de Aguascalientes. En aquellos supuestos en que dicho ausentismo, abandono o deserción escolar represente indicios de vulneración o restricción a los derechos de niñas, niños o adolescentes, las autoridades escolares deberán notificar dicha situación a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado, conforme a los procedimientos y criterios establecidos en los protocolos de actuación para la atención oportuna y especializada de estos casos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2025)</small>
+
+Ante dicha notificación será aplicable el procedimiento establecido en el artículo 120 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 16 DE JUNIO DE 2025)</small>
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -3528,3 +3540,11 @@ El presente Decreto iniciará su vigencia a partir del día siguiente al de su p
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 191.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
