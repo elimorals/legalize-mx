@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2025-03-05"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -111,7 +111,9 @@ XXV. Perspectiva de género: Es una visión científica, analítica, política c
 
 La presente Ley tiene por objeto:
 
-I. Fomentar la promoción, atracción y facilitación de la inversión directa en el Estado, a través de incentivos claros y transparentes que otorguen seguridad institucional a los inversionistas, fortaleciendo la competitividad de las actuales empresas instaladas y facilitando el establecimiento de nuevas fuentes de trabajo que generen empleos estables en la entidad, mejor remunerados y de un alto valor agregado;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+I. Fomentar la promoción, atracción y facilitación de la inversión directa en el Estado, a través de incentivos claros y transparentes que otorguen seguridad institucional a los inversionistas, fortaleciendo la competitividad de las actuales empresas instaladas y facilitando el establecimiento de nuevas fuentes de trabajo que generen empleos estables en la entidad, mejor remunerados y de un alto valor agregado. Asimismo, las empresas deberán implementar medidas para adecuar sus entornos laborales, garantizando la inclusión de personas adultas mayores y/o aquellas que padezcan enfermedades crónicas o mórbidas, en aras de promover la igualdad y el respeto a los derechos fundamentales en el ámbito laboral;
 
 II. Establecer las medidas que propicien la competitividad de las empresas en el Estado;
 
@@ -129,9 +131,17 @@ VIII. Coadyuvar en el fortalecimiento de la infraestructura logística, comercia
 
 IX. Integrar un banco de datos que permita contar con información suficiente y oportuna como apoyo para las labores de planeación y promoción económica del Estado;
 
-X. Promover, establecer y consolidar mecanismos financieros que permitan contar con mayores recursos para el fomento a la inversión y el empleo en el Estado; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-XI. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas.
+X. Promover, establecer y consolidar mecanismos financieros que permitan contar con mayores recursos para el fomento a la inversión y el empleo en el Estado;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+XI. Estimular el comercio exterior con especial énfasis en el desarrollo de programas estratégicos que impulsen el desarrollo y promoción de la oferta exportable, así como el fortalecimiento de cadenas productivas, el desarrollo de proveedores y la captación de divisas; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+XII. Fomentar la igualdad de oportunidades laborales, garantizando que no se límite el acceso, la permanencia o el desarrollo en el empleo por razones de edad, discapacidad y/o condiciones de salud crónicas o mórbidas.
 
 ###### Artículo 6.
 
@@ -915,7 +925,11 @@ P.O. 5 DE MARZO DE 2025.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-243 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 31; Y SE ADICIONA EL ARTÍCULO 121 BIS DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 055. SE REFORMAN LAS FRACCIONES I, X Y XI DEL ARTÍCULO 5 Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 5 DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-353 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 59, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
 
