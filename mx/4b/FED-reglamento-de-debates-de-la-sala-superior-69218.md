@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-debates-de-la-sala-superior-69218"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-23"
-last_updated: "2009-07-23"
+last_updated: "2025-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69218&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-07-06"
 ---
 # REGLAMENTO DE DEBATES DE LA SALA SUPERIOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL EXTRACTO DEL ACUERDO SS/11/2025, DENOMINADO “ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DE LA SALA SUPERIOR”, PUBLICADO EN EL D.O.F. DE 16 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE DEBATES DE LA SALA SUPERIOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JUNIO DE 2025 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de julio de 2009.
 
@@ -230,3 +232,19 @@ Segundo.- Los casos no previstos en este ordenamiento serán resueltos por el Pl
 Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
 
 Así lo acordó el Pleno de la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, en sesión del día seis de julio de dos mil nueve, ordenándose su publicación en el Diario Oficial de la Federación.- Firman el Magistrado Francisco Cuevas Godínez, Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, y la licenciada Rosana Edith de la Peña Adame, Secretaria General de Acuerdos, quien da fe.- Rúbricas.
+
+D.O.F. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “EXTRACTO DEL ACUERDO SS/11/2025, DENOMINADO ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DE LA SALA SUPERIOR”.]
+
+Primero.- Publíquese el presente Acuerdo en la página de internet del Tribunal; y un extracto del mismo en el Diario Oficial de la Federación.
+
+Segundo.- El presente Acuerdo entrará en vigor, a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero.- A partir de la entrada en vigor del presente Acuerdo, se abroga el diverso G/19/2009.
+
+Cuarto.- Los casos no previstos en este ordenamiento serán resueltos por el Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa.
+
+Quinto.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
+
+Sexto.- Las referencias al Código Federal de Procedimientos Civiles contenidas en el presente Reglamento, se entenderán hechas, en lo conducente, a los correlativos al Código Nacional de Procedimientos Civiles y Familiares, una vez a su entrada en vigor.
