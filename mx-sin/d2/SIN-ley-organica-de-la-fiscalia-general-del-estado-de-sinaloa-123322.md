@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2022-09-23"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -352,6 +352,10 @@ XXXII. Las demás que prevean otras disposiciones jurídicas aplicables.
 La Fiscalía General para el despacho de los asuntos que le competen, estará integrada en forma enunciativa, mas no limitativa, con:
 
 I. Las Vicefiscalías General, Regionales y/o Especializadas;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+I Bis. Vicefiscalía Especializada de Derechos Humanos, Protección de Personas Defensoras de los Derechos Humanos y Periodistas;
 
 II. Fiscalía Especializada en Combate a la Corrupción;
 
@@ -1960,3 +1964,19 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO 5 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SINALOA; ASÍ COMO EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 154 POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SINALOA; Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA, EXPEDIDO EL 24 DE MAYO DE 2022, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA» NO. 064, DE FECHA 27 DE MAYO DE 2022; Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 9 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado deberá realizar las adecuaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa, en un plazo que no deberá exceder de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
