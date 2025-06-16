@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-137185"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-08"
-last_updated: "2025-05-19"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2019.
 
@@ -67,35 +67,51 @@ Los poderes Judicial y Legislativo, así como los Organismos Constitucionales Au
 
 Los actos, acuerdos, cláusulas compromisorias, contratos y convenios que los Sujetos de la Ley realicen en contravención a lo dispuesto por la misma, serán nulos de pleno derecho.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
+
 ###### Artículo 2°.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Análisis de Indirectos: Es el análisis detallado de los gastos generales necesarios para la ejecución de los trabajos no incluidos en los costos directos que realiza el contratista, tanto en sus oficinas centrales como en la obra, y comprende entre otros: los gastos de administración, organización, dirección técnica, vigilancia;
+I. Amortización programada: La contraprestación periódica que el Sujeto de la Ley Ejecutor está obligado a cubrir al contratista, una vez entregada la Obra Pública Financiada. Dichos pagos se realizarán contra certificados de avance que se generaron durante el desarrollo de la obra.; (sic)
 
-II. Autoridad Resolutora: Aquella que en el ámbito de su competencia impone las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+II. Análisis de Indirectos: Es el análisis detallado de los gastos generales necesarios para la ejecución de los trabajos no incluidos en los costos directos que realiza el contratista, tanto en sus oficinas centrales como en la obra, y comprende entre otros: los gastos de administración, organización, dirección técnica, vigilancia; quedando la comprobación implícita con la ejecución de cada uno de los trabajos o servicios realizados;
 
-III. Catálogo de Conceptos: Es un documento que enlista todas las actividades que se desarrollaran para la ejecución de una Obra, en este se especifican las descripciones, cantidades y unidades;
+III. Aprobación de expediente técnico de obra: Documento mediante el cual el Órgano de Planeación, aprueba la viabilidad técnica, así como de la suficiencia presupuestal de los recursos financieros programados de las fuentes de financiamiento ordinarias disponibles en el Presupuesto de Egresos del ejercicio fiscal vigente, para que los sujetos de ley ejecutores procedan a gestionar la licitación, contratación, ejecución y control de la obra pública y servicios relacionados con la misma;
 
-IV. Contratista: La persona física o moral que celebre contratos de obra pública o de servicios relacionados con la misma;
+IV. Autoridad Resolutora: Aquella que en el ámbito de su competencia impone las sanciones previstas en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
-V. Convocante: Dependencia o entidad encargada de realizar el procedimiento de licitación y de adjudicación de las obras públicas y servicios relacionados en base a las especificaciones técnicas del ente requirente;
+V. Catálogo de Conceptos: Es un documento que enlista todas las actividades que se desarrollarán para la ejecución de una Obra, en este se especifican las descripciones, cantidades y unidades;
 
-VI. Costos Adicionales: Diferencia entre el importe que le representaría a la dependencia o entidad concluir con otro contratista los trabajos pendientes y el costo de los trabajos no ejecutados al momento de rescindir el contrato;
+VI. Certificados de avance: Es el documento mediante el cual el Sujeto de la Ley Ejecutor reconoce los cumplimientos de los programas de ejecución de obra al Contratista en el caso de Obra Pública Financiada, en los plazos y condiciones pactados y su liberación estará sujeta a lo establecido en el artículo 57 Undecies fracciones II y III;
 
-VII. Dependencias: Las definidas como tales en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes o en la Ley Municipal del Estado de Aguascalientes y las señaladas en la fracción I del Artículo 1° de este ordenamiento jurídico;
+VII. Contratista: La persona física o moral que celebre contratos de obra pública o de servicios relacionados con la misma;
 
-VIII. Entes requirentes: Dependencias del ejecutivo o de los municipios que respectivamente soliciten a la Secretaría de Obras Públicas o sus similares en los municipios, la contratación de obra pública o servicios relacionados con las mismas;
+VIII. Convocante: Dependencia o entidad encargada de realizar el procedimiento de licitación y de adjudicación de las obras públicas y servicios relacionados en base a las especificaciones técnicas del ente requirente;
 
-IX. Entidades: Las señaladas en las fracciones II, III y IV del Artículo 1° de la presente Ley;
+IX. Costos Adicionales: Diferencia entre el importe que le representaría a la dependencia o entidad concluir con otro contratista los trabajos pendientes y el costo de los trabajos no ejecutados al momento de rescindir el contrato;
 
-X. Ley: La presente Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus municipios;
+X. Dependencias: Las definidas como tales en la Ley Orgánica de la Administración Pública Estatal o en la Ley Municipal del Estado de Aguascalientes y las señaladas en la fracción I del Artículo 1° de este ordenamiento jurídico;
 
-XI. Licitación Pública: Procedimiento de adjudicación de los contratos, tanto de obra pública como de servicios relacionados, que requiere de la publicación, en los medios que indica esta Ley, de una convocatoria, donde se abra la participación a todo aquel que se encuentre interesado en ejecutar los trabajos, siempre que cumpla con los requisitos solicitados;
+XI. Entes requirentes: Dependencias del ejecutivo o de los municipios que respectivamente soliciten a la Secretaría de Obras Públicas o sus similares en los municipios, la contratación de obra pública o servicios relacionados con las mismas;
 
-XII. Licitante: La persona física o moral que participa en cualquier procedimiento de licitación pública o bien de invitación restringida;
+XII. Ente privado: Persona física o moral, o asociación establecida en los términos de la presente Ley, que lleve a cabo actividades comerciales relacionadas con el objeto del proyecto a desarrollar.
 
-XIII. Obra Pública: Todo trabajo que tenga por objeto: construir, ampliar instalar, rehabilitar, restaurar, conservar, mantener, reparar, modificar y demoler bienes inmuebles que por su naturaleza o por disposición de Ley, pertenezcan a cualquier Sujeto de la Ley, o bien, se utilice presupuesto público para ello, incluyendo las siguientes:
+XIII. Entidades: Las señaladas en las fracciones II, III y IV del Artículo 1° de la presente Ley;
+
+XIV. Expediente técnico de obra: Documento integrado y elaborado conforme a lo establecido en la Ley de Obras Públicas y de su Reglamento por las dependencias y entidades ejecutoras de obra pública y servicios relacionados, que deberán presentarse ante el Órgano de Planeación, para su análisis y, en su caso, aprobación, visto bueno o pertinencia respecto de la suficiencia presupuestal de los recursos financieros programados;
+
+XV. Ficha Técnica del Proyecto: Expediente documental registrado por los sujetos de ley ejecutores, a través del SEPI;
+
+XVI. Informe de Pertinencia: Documento mediante el cual el Órgano de Planeación determina la pertinencia del expediente técnico de obra para su financiamiento y la conveniencia de su ejecución;
+
+XVII. Ley: La presente Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes y sus Municipios;
+
+XVIII. Licitación Pública: Procedimiento de adjudicación de los contratos, tanto de obra pública como de servicios relacionados, que requiere de la publicación, en los medios que indica esta Ley, de una convocatoria, donde se abra la participación a todo aquel que se encuentre interesado en ejecutar los trabajos, siempre que cumpla con los requisitos solicitados;
+
+XIX. Licitante: La persona física o moral que participa en cualquier procedimiento de licitación pública o bien de invitación restringida;
+
+XX. Obra Pública: Todo trabajo que tenga por objeto: construir, ampliar, instalar, rehabilitar, restaurar, conservar, mantener, reparar, modificar y demoler bienes inmuebles que por su naturaleza o por disposición de Ley, pertenezcan a cualquier Sujeto de la Ley, o bien, se utilice presupuesto público para ello, incluyendo las siguientes:
 
 a. El mantenimiento, la conservación o restauración de bienes muebles incorporados o adheridos a un inmueble propiedad de las dependencias, entidades o Municipios, cuando implique modificación al propio inmueble;
 
@@ -105,37 +121,35 @@ c. Los trabajos que se realicen con presupuesto público, de exploración, local
 
 d. Los trabajos de infraestructura agropecuaria que se realicen con presupuesto público;
 
-e. La instalación, montaje, colocación o aplicación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble propiedad de las dependencias, entidades o Municipios, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista, o bien cuando incluya la adquisición o fabricación de los mismos y que el precio de éstos sea inferior al de los trabajos que se contraten, incluyendo las pruebas de operación de los bienes muebles; y
+e. La instalación, montaje, colocación o aplicación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble propiedad de las dependencias, entidades o Municipios, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista, o bien cuando incluya la adquisición o fabricación de estos y que el precio de éstos sea inferior al de los trabajos que se contraten, incluyendo las pruebas de operación de los bienes muebles; y
 
 f. Todas aquellas actividades de naturaleza análoga, que determine el Órgano de Control.
 
 Quedan excluidos de ser considerados como obra pública, los trabajos regulados por la Ley de Asociaciones Público - Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes;
 
-XIV. Órgano de Control: La Contraloría del Estado;
+XXI. Obra Pública Financiada: Aquella obra que tenga cualquiera de los objetos descritos en la fracción anterior, adjudicada por cualquier modalidad de contratación, cuyo costo se financia totalmente por entes privados en las condiciones y términos de ejecución y de pago establecidas en las bases de la licitación y el contrato respectivo;
 
-XV. Órgano Interno de Control de los Sujetos de la Ley: Para la fracción III del Artículo 1 de la Ley, las Contralorías Municipales; para las fracciones I, II y IV del Artículo 1° de la Ley, las contralorías internas de cada Sujeto de la Ley;
+XXII. Órgano de Control: La Contraloría del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+XXIII. Órgano Interno de Control de los Sujetos de la Ley: Para la fracción III del Artículo 1 de la Ley, las Contralorías Municipales u homólogos; para las fracciones I, II y IV del Artículo 1° de la Ley, las contralorías internas de cada Sujeto de la Ley;
 
-XVI. Órgano de Planeación: Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, o su equivalente en los Municipios;
+XXIV. Órgano de Planeación: Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, o su equivalente en los Municipios;
 
-XVII. Programa Anual de Obra Pública: Documento a través del cual se presentan los proyectos de inversión y monto programado de la obra pública;
+XXV. Programa Anual de Obra Pública: Documento a través del cual se presentan los proyectos de inversión y monto programado de la obra pública;
 
-XVIII. Residente de Supervisión: Persona física y/o servidor público que realiza la actividad de supervisar los trabajos ejecutados por el contratista con el objeto de controlar el tiempo, calidad y costo de la obra;
+XXVI. Residente de Supervisión: Persona física y/o servidor público que realiza la actividad de supervisar los trabajos ejecutados por el contratista con el objeto de controlar el tiempo, calidad y costo de la obra;
 
-XIX. Secretaría: La Secretaría de Obras Públicas del Estado;
+XXVII. Secretaría: La Secretaría de Obras Públicas del Estado;
 
-XX. Servicios Relacionados con la Obra Pública: Los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías especializadas que se vinculen con las acciones que regula esta Ley; la dirección o supervisión de la ejecución de las obras y los estudios que tengan por objeto rehabilitar, corregir o incrementar la eficiencia de la infraestructura e instalaciones y los de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, quedando también comprendidos los siguientes conceptos:
+XXVIII. SEPI: Sistema Estatal de Proyectos de Inversión, implementado por el Órgano de Planeación, en el que las Dependencias y Entidades del ejecutivo del Estado o su similar en los Municipios, deberán conformar la cartera de programas y proyectos de inversión, permitiéndoles integrar sus necesidades de infraestructura y servicios relacionados, para que el Órgano de Planeación lleve a cabo la planeación y analice las alternativas que resuelvan eficientemente sus requerimientos para incorporar los programas y proyectos de inversión en el anteproyecto de Presupuesto de Egresos del Estado, y en su caso, al Programa Anual de Obra Pública;
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+XXIX. Servicios Relacionados con la Obra Pública: Los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto de obra pública; las investigaciones, estudios, asesorías y consultorías especializadas que se vinculen con las acciones que regula esta Ley; la dirección o supervisión de la ejecución de las obras y los estudios que tengan por objeto rehabilitar, corregir o incrementar la eficiencia de la infraestructura e instalaciones y los de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, quedando también comprendidos los siguientes conceptos:
 
-a. La planeación, anteproyecto, proyecto ejecutivo y Presupuestación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto arquitectónico, urbano o de ingeniería, que se requiera para integrar un proyecto ejecutivo de obra pública;
+a. La planeación, anteproyecto, y presupuestación, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto arquitectónico, urbano o de ingeniería, que se requiera para integrar el proyecto ejecutivo de obra pública;
 
 b. La planeación, el anteproyecto y el diseño, incluyendo los trabajos que tengan por objeto concebir, diseñar, proyectar y calcular los elementos que integran un proyecto urbano, arquitectónico y de cualquier otra especialidad del diseño, de la arquitectura y el urbanismo, que se requiera para integrar un proyecto ejecutivo de obra pública;
 
 c. Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, topografía, geología, geotécnica, geofísica, geotérmica, meteorología, aerofotogrametría, ambientales, ecológicos, de ingeniería de tránsito, sismología y geodesia;
-
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
 d. Los estudios de preinversión, económicos, técnicos y legales, con el objetivo de evaluar la conveniencia de realizar un proyecto de inversión pública, que incluye la evaluación de la factibilidad técnico-económica y social, financiera, de adaptación, certeza legal de posesión de los inmuebles a intervenir u ocupar, de desarrollo y de restitución de la eficiencia de las instalaciones;
 
@@ -149,45 +163,19 @@ h. Los estudios que tienen por objeto rehabilitar, ampliar, corregir, sustituir 
 
 i. Los estudios que tienen por objeto corregir, sustituir o incrementar el apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología; y
 
-j. Los estudios de factibilidad técnica, económica y social, de impacto ambiental, de prevención de riesgos, de planeación, de pre inversión, de tenencia de la tierra, financieros, de desarrollo y restitución de la eficiencia de las instalaciones.
+j. Los estudios de factibilidad técnica, económica y social, de impacto ambiental, de prevención de riesgos, de planeación, de pre-inversión, de tenencia de la tierra, financieros, de desarrollo y restitución de la eficiencia de las instalaciones.
 
-XXI. Sujeto de la Ley Ejecutor: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de realizar las obras de infraestructura, su equipamiento o los servicios relacionados con estas en el ámbito de su competencia;
+XXX. Sujeto de la Ley Ejecutor: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de realizar las obras de infraestructura, su equipamiento o los servicios relacionados con estas en el ámbito de su competencia;
 
-XXII. Sujeto de la Ley Normativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de emitir la factibilidad técnica en el ámbito de su competencia las obras de infraestructura, su equipamiento y los servicios relacionados en el Estado, o en su caso de los municipios;
+XXXI. Sujeto de la Ley Normativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de emitir la factibilidad técnica en el ámbito de su competencia las obras de infraestructura, su equipamiento y los servicios relacionados en el Estado, o en su caso de los municipios;
 
-XXIII. Sujeto de la Ley Operativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de utilizar, manejar u operar en el ámbito de su competencia las obras de infraestructura y su equipamiento que les sean entregadas por los Sujetos de la Ley Ejecutores en el Estado, o en su caso de los municipios;
+XXXII. Sujeto de la Ley Operativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de utilizar, manejar u operar en el ámbito de su competencia las obras de infraestructura y su equipamiento que les sean entregadas por los Sujetos de la Ley Ejecutores en el Estado, o en su caso de los municipios;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+XXXIII. Sujetos de la Ley: Los que se indican en el Artículo 1° de esta Ley, incluidos los señalados en las fracciones XXX, XXXI y XXXII de este artículo;
 
-XXIV. Sujetos de la Ley: Los que se indican en el Artículo 1° de esta Ley, incluidos los señalados en las fracciones XXI, XXII y XXIII de este Artículo;
+XXXIV. Términos de referencia: Documento en el cual se plasman las especificaciones técnicas que describen de manera detallada las características que se pretende tengan el servicio prestado; y
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXV. Términos de referencia: Documento en el cual se plasman las especificaciones técnicas que describen de manera detallada las características que se pretende tengan el servicio prestado;
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXVI. SEPI: Sistema Estatal de Proyectos de Inversión, implementado por el Órgano de Planeación, en el que las Dependencias y Entidades del ejecutivo del Estado o su similar en los Municipios, deberán conformar la cartera de programas y proyectos de inversión, permitiéndoles integrar sus necesidades de infraestructura y servicios relacionados, para que el Órgano de Planeación lleve a cabo la planeación y analice las alternativas que resuelvan eficientemente sus requerimientos para incorporar los programas y proyectos de inversión en el anteproyecto de Presupuesto de Egresos del Estado, y en su caso, al Programa Anual de Obra Pública;
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXVII. Expediente técnico de obra: Documento integrado y elaborado conforme a lo establecido en la Ley de Obras Públicas y de su Reglamento por las dependencias y entidades ejecutoras de obra pública y servicios relacionados, que deberán presentarse ante el Órgano de Planeación, para su análisis y, en su caso, aprobación, visto bueno o pertinencia respecto de la suficiencia presupuestal de los recursos financieros programados;
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXVIII. Ficha Técnica del Proyecto: Expediente documental registrado por los sujetos de ley ejecutores, a través del SEPI.
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXIX. Informe de Pertinencia: Documento mediante el cual el Órgano de Planeación determina la pertinencia del expediente técnico de obra para su financiamiento y la conveniencia de su ejecución.
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXX. Aprobación de expediente técnico de obra: Documento mediante el cual el Órgano de Planeación, aprueba la viabilidad técnica, así como de la suficiencia presupuestal de los recursos financieros programados de las fuentes de financiamiento ordinarias disponibles en el Presupuesto de Egresos del ejercicio fiscal vigente, para que los sujetos de ley ejecutores, procedan a gestionar la licitación, contratación, ejecución y control de la obra pública y servicios relacionados con la misma.
-
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
-
-XXXI. Visto bueno de expediente técnico de obra: Documento mediante el cual el Órgano de Planeación, otorga visto bueno respecto de la viabilidad técnica, así como de la disponibilidad de los recursos de las fuentes de financiamiento propias de las entidades durante el ejercicio fiscal vigente, previa aprobación o autorización emitida por la dependencia o entidad competente en la administración y control del origen de los recursos.
+XXXV. Visto bueno de expediente técnico de obra: Documento mediante el cual el Órgano de Planeación, otorga visto bueno respecto de la viabilidad técnica, así como de la disponibilidad de los recursos de las fuentes de financiamiento propias de las entidades durante el ejercicio fiscal vigente, previa aprobación o autorización emitida por la dependencia o entidad competente en la administración y control del origen de los recursos.
 
 ###### Artículo 3°.
 
@@ -325,7 +313,9 @@ La programación y ejecución de las obras públicas y los servicios relacionado
 
 El monto total de las obras señaladas en el párrafo anterior no deberá exceder del 25% del monto autorizado en ese ejercicio fiscal y deberá informarse al Congreso o Cabildo, según corresponda, para su inclusión en el Presupuesto de Egresos del Ejercicio Fiscal siguiente.
 
-En el caso de aquellas obras públicas o servicios relacionados con las mismas que se contemple que requieran recursos por más de un ejercicio presupuestal, deberá determinarse el presupuesto total de la obra y los presupuestos que correspondan a cada uno de los ejercicios de que se trate. Para los presupuestos de los ejercicios subsecuentes, deberán tomarse en cuenta los costos que en su momento se encuentren vigentes, las medidas previsibles para los ajustes de costos y, en su caso, los convenios de ampliación que aseguren la continuidad y terminación de los trabajos.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+El ejecutivo y los municipios con Balance Presupuestario Sostenible que contraten bajo el esquema de Obra Pública Financiada, no aplicarán lo establecido en el segundo párrafo del presente artículo. En el caso de aquellas obras públicas o servicios relacionados con las mismas, incluida la Obra Pública Financiada que se contemple que requieran recursos por más de un ejercicio presupuestal, deberá determinarse el presupuesto total de la obra y los presupuestos que correspondan a cada uno de los ejercicios de que se trate. Para los presupuestos de los ejercicios subsecuentes, deberán tomarse en cuenta los costos que en su momento se encuentren vigentes, las medidas previsibles para los ajustes de costos y, en su caso, los convenios de ampliación que aseguren la continuidad y terminación de los trabajos, así como los importes correspondientes de las amortizaciones programadas, especificando los plazos, términos y condiciones en los que se efectuarán los pagos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -469,11 +459,11 @@ La Secretaría dará publicidad al Padrón Estatal de Contratistas de Obra Públ
 
 Los Sujetos de la Ley podrán llevar un registro de calificaciones para procedimientos de selección y consideración para adjudicaciones directas o invitación restringida. Por lo cual se deberán incluir, en el Reglamento de esta Ley los criterios a seguir para la calificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2025)</small>
 
 ###### Artículo 29.
 
-Las personas físicas o morales interesadas en inscribirse al Padrón Estatal de Contratistas de Obra Pública y participar como contratistas y/o como prestadores de servicios relacionados, deberán de presentar a la Secretaría, por medios electrónicos conforme a las disposiciones administrativas y el sistema informático que para el efecto implemente la Secretaría, lo que corresponda a la siguiente documentación:
+Las personas físicas o morales interesadas en inscribirse al Padrón Estatal de Contratistas de Obra Pública y participar como contratistas y/o como prestadores de servicios relacionados, deberán de proporcionar a la Secretaría, en forma presencial y/o por medios electrónicos conforme a las disposiciones administrativas y el sistema informático que para el efecto implemente la Secretaría lo que corresponda de la siguiente documentación:
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -641,7 +631,9 @@ IX. La fecha, hora y el lugar de celebración de la junta de aclaraciones, del a
 
 X. La indicación de sí la licitación es estatal, nacional o internacional;
 
-XI. La descripción general de la obra o del servicio relacionado con la misma y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, la indicación de que podrán subcontratarse partes de los mismos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+XI. La descripción general de la obra o del servicio relacionado con la misma y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, la indicación de que podrán subcontratarse partes de estos; cuando se trate de Obra Pública Financiada, deberá indicarse expresamente que la contratación se realizara bajo éste esquema.
 
 XII. El plazo de ejecución de los trabajos determinado en días calendario, indicando la fecha estimada de inicio de los mismos;
 
@@ -718,6 +710,10 @@ XXI. Tratándose de contratos a precio alzado o las condiciones y forma de pago;
 XXII. Tratándose de contratos a precios unitarios la forma de medición y pago, el procedimiento de ajuste de costos que se aplicará.
 
 XXIII. Descripción detallada de los documentos técnicos y económicos que deberán incluirse en la propuesta.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+XXIV. Para la Obra Pública Financiada, deberán establecerse las condiciones de pago conforme al tipo de contrato, incluyendo plazos, términos y demás requisitos aplicables.
 
 Cualquier modificación a las bases de la licitación, derivada de la o las juntas de aclaraciones, será considerada como parte integrante de las propias bases de licitación.
 
@@ -815,6 +811,10 @@ a) Que las propuestas incluyan la información, documentos y requisitos solicita
 
 b) Que el programa financiero de obra sea factible de realizar, con los recursos considerados por el licitante;
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+Para el caso de Obra Pública Financiada, el Sujeto de la Ley Ejecutor solicitará a la Secretaría de Finanzas la evaluación financiera, y la emisión del dictamen correspondiente el cual deberá realizarse en los términos que establece el Reglamento de la Ley.
+
 c) Que el análisis, cálculo e integración de los precios unitarios de cada propuesta, se haya realizado según lo establecido en esta Ley y en el Reglamento de la presente Ley;
 
 d) Que los análisis de precios unitarios contengan cantidades y rendimientos acordes a la solicitud establecida en la descripción del concepto;
@@ -839,9 +839,11 @@ La convocante emitirá un dictamen fundado y motivado que servirá como base par
 
 Contra la resolución que contenga el fallo no procederá recurso alguno en el momento del acto de fallo, pero los licitantes podrán inconformarse en los términos del Capítulo Décimo Tercero de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2025)</small>
+
 ###### Artículo 44.
 
-Los Sujetos de la Ley no adjudicarán el contrato cuando las posturas presentadas no reúnan los requisitos indicados en esta Ley y en las bases de la licitación o sus precios no fueren aceptables o las propuestas rebasen el techo financiero aprobado declarándose desierta la licitación, y expedirán una segunda convocatoria.
+Los Sujetos de la Ley no adjudicarán el contrato cuando las posturas presentadas no reúnan los requisitos indicados en esta Ley y en las bases de la licitación o sus precios no fueren aceptables o las propuestas rebasen el techo financiero aprobado declarándose desierta la licitación.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -931,9 +933,11 @@ Para los efectos de esta Ley, los contratos de obra pública y de servicios rela
 
 I. Sobre la base de precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado;
 
-II. A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por la obra totalmente terminada y ejecutada en plazo establecido.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-Las propuestas que presenten los contratistas para la celebración de estos contratos, tanto en sus aspectos técnicos como económicos, deberán estar desglosadas por lo menos en cinco capítulos de las actividades comprendidas dentro de los terminos de referencia del catálogo de conceptos en programas de obra y financiero; el presente párrafo no será aplicable para los casos a que refieren las fracciones II, V y VI del Artículo 45 de esta Ley; o
+II. A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por la obra totalmente terminada y ejecutada en (sic) plazo establecido o por los avances correspondientes.
+
+Las propuestas que presenten los contratistas para la celebración de estos contratos, tanto en sus aspectos técnicos como económicos, deberán estar desglosadas por lo menos en cinco capítulos de las actividades comprendidas dentro de los términos de referencia del catálogo de conceptos en programas de obra y financiero; el presente párrafo no será aplicable para los casos a que refieren las fracciones II, V y VI del Artículo 45 de esta Ley; o
 
 III. Mixtos, cuando contengan una parte de los trabajos sobre la base de unitarios y la otra, a precio alzado.
 
@@ -942,6 +946,12 @@ Los Sujetos de la Ley, por ningún motivo, podrán modificar las condiciones pac
 Los contratos a precio alzado o la parte de los mixtos de esta naturaleza, no podrán ser modificados en monto o en plazo, ni estarán sujetos a ajustes de costos; sin embargo, cuando con posterioridad a la adjudicación de un contrato, se presenten circunstancias económicas de tipo general que sean ajenas a la responsabilidad de las partes y que por tal razón no pudieron haber sido objeto de consideración en la proposición que sirvió de base para la adjudicación del contrato correspondiente; como son, entre otras: variaciones en la paridad cambiaria de la moneda o cambios en los precios nacionales o internacionales que provoquen directamente un aumento o reducción en los costos de los insumos de los trabajos no ejecutados conforme al programa de ejecución; los Sujetos de la Ley deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita el Órgano de Control.
 
 Lo anterior sin perjuicio de que los costos de los insumos de los trabajos se actualicen por una sola ocasión cuando, por causas no imputables al contratista, los trabajos inicien con posterioridad a ciento veinte días naturales contados a partir de la fecha de presentación de las proposiciones. Para tales efectos, se utilizará el promedio de los índices de precios al productor y comercio exterior-actualización de costos de obras públicas publicados por el Instituto Nacional de Estadística y Geografía, tomando como base para su cálculo el mes de presentación y apertura de las proposiciones y el mes que inicia la obra.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 50 Bis.
+
+Los documentos que integran y son respaldo de la propuesta ganadora, no podrán ser modificados en su estructura; cualquier cambio en esta se deberá de realizar por los medios autorizados por la Ley, antes de la formulación del finiquito.
 
 ###### Artículo 51.
 
@@ -1105,11 +1115,273 @@ Las disposiciones a que se refieren las fracciones IX y X de este Artículo debe
 
 Los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, deberán cubrir el punto cinco por ciento sobre derechos de inspección de vigilancia para el Órgano de Control o en su caso a la equivalente a nivel municipal dependiendo el origen de los recursos públicos; el punto dos por ciento a favor del órgano de fiscalización del H. Congreso del Estado para ejercer sus facultades de fiscalización; el punto dos por ciento para la capacitación de los trabajadores del contratista; y el punto uno por ciento para la actualización profesional y capacitación de los agremiados a los colegios de profesionistas según corresponda conforme a lo que se establezca en el Reglamento de esta Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2025)</small>
+
+### CAPITULO OCTAVO BIS. Proyectos Integrales o Llave en Mano
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Bis.
+
+Estos proyectos se realizarán cuando el Sujeto de la Ley Ejecutor considera conveniente, con el propósito de reducir los tiempos y determinar un precio fijo, adjudicar a un único contratista, salvo en el caso de que la propuesta que resulte ganadora haya sido presentada en los términos del párrafo sexto del artículo 39 de la Ley, tanto el desarrollo del anteproyecto, proyecto ejecutivo, consecución de licencias y permisos, así como la ejecución de la obra hasta su terminación y la transferencia tecnológica, en su caso.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Ter.
+
+Los proyectos integrales o llave en mano deberán estructurase en etapas claramente definidas, las cuales como mínimo deben ser:
+
+a) Anteproyecto y estudios de viabilidad, mecánica de suelos, entre otros.
+
+b) Proyecto Ejecutivo que considere todo tipo de ingenierías.
+
+c) Ejecución de la obra, que deberá estar divida en partidas y subpartidas para el caso de precio unitario, o actividades y subactividades para precio alzado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2025)</small>
+
+### CAPITULO OCTAVO TER. Obra Pública Financiada
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Quater.
+
+El objeto de la Obra Pública Financiada es fungir como un mecanismo para realizar inversiones públicas productivas para las cuales se requiere establecer una relación contractual que puede ser a largo plazo entre las entidades y dependencias del Estado y Municipios y un ente privado, para la construcción, mejora y/o el mantenimiento de la infraestructura pública en el Estado, con el fin de satisfacer las necesidades de la población, promover el bienestar social y económico, y contribuir al progreso sostenido del Estado.
+
+Los avances de este tipo de obra serán reconocidos mediante certificados de avance, los cuales serán pagados por el Sujeto de la Ley conforme al calendario de amortizaciones programadas establecido en el contrato respectivo.
+
+En caso de que la Secretaría de Finanzas determine que existe la suficiencia presupuestaria derivada de ingresos excedentes en los términos del artículo 40 Bis de la Ley de Presupuesto Gasto Público y Responsabilidad Hacendaria, o de cualquier otra fuente de financiamiento para realizar adelantos en las amortizaciones programadas, y esto resultara financieramente conveniente para el Gobierno del Estado, el calendario de amortizaciones programadas podrá ser modificado, por lo que se deberá suscribir el convenio modificatorio respectivo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Quinquies.
+
+Cualquier ente privado interesado en realizar un proyecto de Obra Pública Financiada podrá presentar su Proyecto de Inversión Promovido por Particulares al Órgano de Planeación Estatal o Municipal competente, el cual se deberá presentar acompañada con el estudio preliminar de factibilidad, que deberá incluir los aspectos siguientes:
+
+I. Descripción del proyecto propuesto, con sus características y viabilidad técnica;
+
+II. Descripción de los permisos, licencias, autorizaciones y concesiones que, en su caso, resultarían necesarios para desarrollar el proyecto, con especial atención en las autorizaciones de uso de suelo;
+
+III. La viabilidad económica, financiera y jurídica del proyecto;
+
+IV. La justificación socioeconómica del proyecto;
+
+V. Las estimaciones de inversión y aportaciones, en efectivo y en especie, tanto del Estado o del o los municipios, así como de los particulares, en las que se haga referencia al costo estimado de adquisición de los inmuebles, bienes y derechos necesarios para el proyecto;
+
+VI. Las características esenciales del contrato de Obra Pública Financiada a celebrar; y
+
+VII. El costo de los estudios y análisis realizados, así como de los derechos de autor y de propiedad industrial correspondientes.
+
+El Reglamento de la Ley señalará los alcances de los requisitos mencionados en las fracciones del párrafo anterior, sin que puedan establecerse requisitos adicionales.
+
+La presentación del Proyecto de Inversión Promovido por Particulares no será vinculante para el Órgano de Planeación competente y solo da derecho al ente privado interesado a que éste las analice y evalúe.
+
+Si el Proyecto de Inversión Promovido por Particulares incumple alguno de los requisitos a que se refiere este artículo, o los estudios se encuentran incompletos, no será analizada.
+
+En los casos en que por cualquier circunstancia el proyecto no se lleve a cabo, el ente privado interesado, al presentar un Proyecto de Inversión Promovido por Particulares acepta ceder al Sujeto de la Ley Ejecutor a título gratuito los estudios y análisis realizados, junto con los derechos de autor y de propiedad industrial correspondientes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Sexies.
+
+El Proyecto de Inversión Promovido por Particulares que cumplan con los requisitos señalados en (sic) artículo anterior, serán analizadas y evaluadas (sic) por el Órgano de Planeación Estatal o Municipal, según corresponda, el cual, una vez que lo reciba, deberá confirmar si es competente y, caso contrario, lo remitirá a otro ente del sector público que si lo sea.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Septies.
+
+Según el sentido de la opinión emitida por el Órgano de Planeación, se estará a lo siguiente:
+
+I. Si el Proyecto de Inversión Promovido por Particulares se considera no procedente por no ser de interés público, por razones presupuestarias o por cualquier otra razón, el Sujeto de la Ley Ejecutor competente comunicará al ente privado interesado las razones de su improcedencia, y el proyecto le será devuelto sin ninguna otra responsabilidad para el Sujeto de la Ley Ejecutor.
+
+II. En el caso de que se agote el plazo establecido en el artículo anterior, y que el Órgano de Planeación no se haya pronunciado, deberá concluirse que la (sic) Proyecto de Inversión Promovido por Particulares se considera no procedente.
+
+III. Si el Proyecto de Inversión Promovido por Particulares se considera procedente y se decide impulsar su desarrollo, El Sujeto de la Ley Ejecutor competente procederá a preparar el proyecto de conformidad con lo previsto en la presente Ley.
+
+La opinión por la cual un Proyecto de Inversión Promovido por Particulares se considere o no procedente y, en su caso, se decida o no impulsar su desarrollo, no representa un acto de autoridad y contra ella no procederá instancia ni medio de defensa alguno.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Octies.
+
+Adicional a las autorizaciones que deba emitir el Órgano de Planeación, para la autorización presupuestal y previo al inicio del procedimiento de la contratación de Obra Pública Financiada, deberá integrarse un expediente que cumpla con los siguientes requisitos:
+
+I. Descripción de la obra pública que se propone contratar bajo este esquema, especificando si se trata de un proyecto integral o llave en mano, así como el tipo de contratación de los previstos en el artículo 50 de la Ley.
+
+II. Definición del Proyecto Integral de la obra, que deberá incluir, al menos, lo siguiente:
+
+a) Estudio de viabilidad técnica de la obra;
+
+b) Responsabilidades del Contratista;
+
+c) Proyectos complementarios, en caso de ser requeridos por la obra;
+
+d) Permisos y licencias necesarios;
+
+e) Estatus jurídico de los inmuebles o polígonos en donde se pretende desarrollar la obra;
+
+f) Cronograma de ejecución, relación de actividades y/o catálogo de conceptos; y
+
+g) Presupuesto estimado del costo de la obra, así como los calendarios de pagos a corto, mediano y largo plazo, según corresponda.
+
+III. Análisis de alineación con el Plan de Desarrollo del Estado o con el Plan de Largo Plazo para el Desarrollo del Estado de Aguascalientes, o los homólogos para el ámbito municipal según corresponda, y debiendo justificar el beneficio social.
+
+IV. Dictamen de viabilidad jurídica.
+
+V. Impacto presupuestario que considere, como mínimo: el monto total del Proyecto a Valor Presente y la proyección del costo del financiamiento; así como la necesidad de los recursos para cada ejercicio fiscal, en caso de proyectos plurianuales.
+
+VI. Análisis de costo-beneficio que justifique la conveniencia de llevar a cabo el proyecto bajo este esquema de contratación, y que deberá contener, como mínimo:
+
+a) Resumen ejecutivo;
+
+b) Situación Actual del Problema: diagnóstico, resaltando la problemática que se pretende resolver; análisis de la oferta o infraestructura existente; diagnóstico de la interacción de la oferta-demanda;
+
+c) Situación sin el Proyecto de Inversión;
+
+d) Situación con el Proyecto de Inversión;
+
+e) Alternativas de solución;
+
+f) Ventaja financiera frente a otras formas de ejecución del Proyecto de Inversión que deberá contener como mínimo tres, entre las que deberán considerar: obra pública, Obra Pública Financiada y otra (sic);
+
+g) La comparación entre la implementación del Proyecto de Obra Pública Financiada y las alternativas disponibles para resolver la problemática con la obtención de los servicios, actividades y la infraestructura requeridos. Para tal efecto se elaborarán las proyecciones físicas y financieras correspondientes, especificando para cada caso, el impacto presupuestal, el efecto en las Garantías de Pago evaluadas y el comportamiento de los Pagos Plurianuales;
+
+h) Los aspectos formales del Contrato, como son: objeto; Garantía de Pago que se pretenda otorgar; causales de rescisión; terminación anticipada y sus consecuencias económicas.
+
+i) Descripción de los inmuebles, infraestructura existente y bienes necesarios para la realización del Proyecto.
+
+Con respecto a los responsables de la elaboración de los documentos del expediente al que se refiere este artículo, se estará en lo dispuesto en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Nonies.
+
+Para la aprobación y autorización del expediente se atenderá a lo siguiente:
+
+I. Para los Proyectos del Poder Ejecutivo o de sus entidades paraestatales, se constituirá una Comisión Intersecretarial encargada de revisar la documentación; recomendar acciones; dictaminar la pertinencia y autorizar su ejecución; y, en caso de que el calendario de pagos exceda el periodo de la Administración Constitucional, aprobar su presentación ante el Congreso.
+
+La Comisión Intersecretarial se integrará con un representante de:
+
+a) Órgano de Planeación;
+
+b) La Coordinación General de Gabinete;
+
+c) La Secretaría;
+
+d) La Secretaría de Finanzas;
+
+e) La Consejería Jurídica;
+
+f) El Sujeto de la Ley Ejecutor; y
+
+g) Las dependencias o entidades paraestatales, que en el ámbito de sus competencias deban opinar por la naturaleza del Proyecto.
+
+Participará con voz, pero sin voto un representante de la Contraloría.
+
+Los integrantes de la Comisión comprendidos del inciso a) al inciso f) deberán ser representados por su titular y no podrán nombrar un suplente.
+
+II. En el caso de Proyectos Municipales o sus entidades paramunicipales, se constituirá una Comisión Municipal encargada de revisar la documentación; recomendar acciones; dictaminar la pertinencia y autorizar su ejecución; y, en caso de que el calendario de pagos exceda el periodo de la Administración Constitucional, aprobar su presentación ante el Congreso.
+
+La Comisión Municipal se integrará con un representante de:
+
+a) Órgano de Planeación;
+
+b) La Secretaría del Ayuntamiento;
+
+c) La Secretaría de Obras Públicas o su similar;
+
+d) La Tesorería o su similar;
+
+e) El Área Jurídica que tenga dentro de sus atribuciones la representación legal del Municipio;
+
+f) El Sujeto de la Ley Ejecutor; y
+
+g) Las dependencias, direcciones o entidades paramunicipales, que en el ámbito de sus competencias deban opinar por la naturaleza del Proyecto.
+
+Participará con voz, pero sin voto un representante del órgano interno de control.
+
+Los integrantes de la Comisión comprendidos del inciso a) al inciso f) deberán ser representados por su titular y no podrán nombrar un suplente.
+
+III. Previo a la emisión del Dictamen a que se refiere la fracción V de este artículo, las Comisiones solicitarán a la Secretaría de Finanzas o la Tesorería una opinión sobre la viabilidad financiera y presupuestal, para la ejecución del Proyecto, considerando en su caso los Pagos Plurianuales.
+
+IV. Las Comisiones sólo sesionarán cuando se encuentren presentes los titulares de la Secretarías o su similar en el caso de los Municipios, así como la mayoría de sus integrantes con derecho a voto, y sus decisiones se tomarán por mayoría de los presentes.
+
+V. El Dictamen que emitan las Comisiones deberá contener lo siguiente:
+
+a) En caso de que sea positivo:
+
+1. La problemática que se pretende resolver; la congruencia del Proyecto con las atribuciones y facultades del Sujeto de la Ley Ejecutor y con el Plan Estatal o Municipal de Desarrollo, según sea el caso; y los beneficios sociales y/o económicos que se pretenden obtener;
+
+2. Aceptación del análisis costo-beneficio, exponiendo las razones por las que el Proyecto Propuesto es la mejor opción en términos financieros y de política pública al compararlo con otras alternativas, y determinar su apego a lo dispuesto por esta Ley, su Reglamento y otras disposiciones legales;
+
+3. En su caso, emitir la solicitud a la Secretaría de Finanzas para la creación de la Partida Plurianual en el Presupuesto de Egresos.
+
+4. Aprobación del Proyecto para su presentación ante el Congreso, de acuerdo con las fracciones I y II de este artículo, y ante el Ayuntamiento en el caso de los Municipios.
+
+b) En caso de que sea negativo:
+
+1. Las razones por las que se rechaza cualquier Proyecto: ya sea que los documentos no cumplan con los requisitos legales o bien que con la información presentada no se pueda concluir que el Proyecto es la mejor alternativa.
+
+VI. Los órganos de gobierno de las entidades paraestatales o paramunicipales en su carácter de Sujeto de la Ley Ejecutor deberán aprobar el Proyecto previamente a su presentación ante las Comisiones.
+
+VII. En el caso de los Ayuntamientos, el Sujeto de la Ley Ejecutor integrará y presentará ante el Ayuntamiento la documentación necesaria del Proyecto, con la aprobación emitida por la Comisión Municipal.
+
+El Ayuntamiento, en su caso, acordará con las dos terceras partes de sus integrantes, la aprobación de lo siguiente:
+
+a) La celebración y la realización del Proyecto;
+
+b) La creación de la Partida Plurianual durante la vigencia del Contrato;
+
+c) Los plazos y montos en términos del Presupuesto de Egresos vigente de los Pagos Plurianuales e incluirlos en los Presupuestos subsecuentes;
+
+d) La Garantía de Pago para dar cumplimiento a los Pagos Plurianuales;
+
+e) La afectación patrimonial de los inmuebles, la infraestructura existente y los bienes necesarios para la realización del Proyecto;
+
+f) La celebración de los actos jurídicos necesarios; y
+
+g) Solicitar la autorización del Congreso.
+
+La participación de las Comisiones con respecto a las modificaciones del proyecto se regulará conforme a lo dispuesto en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Decies.
+
+En materia de presupuestación, se estará en los (sic) dispuesto en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+Los pagos correspondientes a la Obra Pública Financiada se efectuarán conforme a lo establecido en el Presupuesto de Egresos del Estado del ejercicio que se trate, de acuerdo con los calendarios de pago previamente aprobados, independientemente de que la obra o sus etapas se concluyan anticipadamente.
+
+Cuando las amortizaciones programadas, asociadas a la Obra Pública Financiada, rebasen el período constitucional para el cual fue elegido el titular del Ejecutivo Estatal o Municipal según corresponda, se requerirá la autorización del Congreso del Estado. Para los efectos de esta fracción, la persona titular del Ejecutivo correspondiente deberá presentar la solicitud de autorización, conforme al artículo 55 de la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+Artículo 57 Undecies.– Los contratos que se celebren bajo este esquema, deberán señalar, además de lo establecido en el artículo 51 de la Ley, lo siguiente:
+
+I. Los términos, plazos y condiciones en los que se emitirán los certificados de avance a los que se refieren el artículo 2 fracción VI y 50 de la Ley. En estos se establecerá, entre otros aspectos, las fechas y montos de pago, incluyendo el costo por diferimiento aplicable.
+
+II. Los plazos en que el contratista debe presentar las estimaciones o avances correspondientes. La liberación de los certificados de avance se realizará siempre y cuando los avances correspondan a la entrega de infraestructura o instalaciones operables.
+
+III. La forma en que serán pagados siempre y cuando se cumpla el calendario de ejecución y dichos avances estén amparados por los certificados de avance correspondientes.
+
+IV. El costo por diferimiento aplicable a los costos directos e indirectos y los costos de contratación. Dicho costo será el que represente las mejores condiciones para la Contratante en términos del proceso que se lleve a cabo conforme el artículo 21 de la presente Ley.
+
+V. Los costos de contratación aplicables del contratista y/o de la contratante. Dichos costos de contratación podrán incluir, entre otros, gastos financieros, costo de permisos, asesoría legal e ingeniería independiente, asesorías, elaboración de proyectos ejecutivos y sus similares y/o supervisión de obra.
+
+Dichos costos de contratación formarán parte del costo total del contrato, pero deberán desglosarse en el monto del contrato respectivo y no formarán parte del costo directo de la obra. La manera de comprobar los gastos de contratación será pactada en el contrato respectivo y determinada por la Contratante.
+
+VI. Las penas en caso de incumplimiento.
+
+VII. Las causales de rescisión o terminación anticipada.
+
+Los certificados de avance a los que se refiere la fracción I de este artículo constituirán obligaciones incondicionales e irrevocables de pago, siendo exigibles en los supuestos establecidos por la presente Ley y el contrato respectivo.
+
+Los certificados de avance derivados de estimaciones aprobadas por actividades y/o trabajos ejecutados, no estarán sujetos a deducciones, ajustes, descuentos, compensaciones, retenciones o penas convencionales de ningún tipo y se cubrirán en las fechas y por los montos que en ellos se establezcan, conforme a los términos pactados en el contrato respectivo. Estos conceptos se deberán aplicar previo a la emisión de los certificados de avance.
+
+En el caso de Obra Pública Financiada, cuando existan razones fundadas y motivadas, que ameriten modificar los contratos de obras públicas o de servicios relacionados con las mismas, sin menoscabo de lo establecido en el Artículo 50 de la Ley, se deberá celebrar un convenio adicional entre las partes respecto de las nuevas condiciones, que deberá ser autorizado por la Comisión a que hace referencia el Artículo 57 Nonies fracciones I o II según corresponda, de acuerdo al procedimiento que para tales efectos establezca el Reglamento de la Ley.
+
+De las modificaciones a que se refiere el párrafo anterior, el Sujeto de la Ley Ejecutor informará a su órgano de control, y a la Secretaría de Finanzas en un plazo no mayor de veinte días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+
 ### CAPITULO NOVENO. La Ejecución
-
-### CAPITULO DÉCIMO. La Administración Directa
-
-### CAPITULO DÉCIMO PRIMERO. La Información y Verificación
 
 ###### Artículo 58.
 
@@ -1125,11 +1397,15 @@ El residente de supervisión designado será el representante del Sujeto de la L
 
 Por su parte, de manera previa al inicio de los trabajos, los contratistas designarán al residente de construcción o de servicios, indicado en la propuesta, facultado para oír y recibir toda clase de notificaciones relacionadas con los trabajos, aún las de carácter personal, así como tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
+
 ###### Artículo 60.
 
-Las estimaciones de trabajos ejecutados se presentarán por el contratista al Sujeto de la Ley con una periodicidad no mayor de quince días. En caso de incumplimiento de lo anterior, el residente de supervisión lo registrará en bitácora, y se aplicarán las penas convencionales que para tal efecto se establezcan en los contratos. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para el pago de las estimaciones que hubiere fijado la dependencia o entidad en el contrato, acompañadas de la documentación que acredite la procedencia de su pago; la residencia de obra para realizar la revisión y autorización de las estimaciones contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, éstas se resolverán e incorporarán en la siguiente estimación, aplicando aditivas o deductivas en la volumetría, según sea el caso, las cuales se aplicarán de común acuerdo y sin perjuicio de las partes.
+Las estimaciones de trabajos ejecutados se presentarán por el contratista al Sujeto de la Ley con una periodicidad no mayor de quince días, salvo en la Obra Pública Financiada, que se podrá presentar con una periodicidad no mayor a 30 días. En caso de incumplimiento de lo anterior, el residente de supervisión lo registrará en bitácora, y se aplicarán las penas convencionales que para tal efecto se establezcan en los contratos. El contratista deberá presentarlas a la residencia de obra dentro de los seis días naturales siguientes a la fecha de corte para el pago de las estimaciones que hubiere fijado la dependencia o entidad en el contrato, acompañadas de la documentación que acredite la procedencia de su pago; la residencia de obra para realizar la revisión y autorización de las estimaciones contará con un plazo no mayor de quince días naturales siguientes a su presentación. En el supuesto de que surjan diferencias técnicas o numéricas que no puedan ser autorizadas dentro de dicho plazo, éstas se resolverán e incorporarán en la siguiente estimación, aplicando aditivas o deductivas en la volumetría, según sea el caso, las cuales se aplicarán de común acuerdo y sin perjuicio de las partes.
 
-Las estimaciones por trabajos ejecutados deberán pagarse por parte de los Sujetos de la Ley, bajo su responsabilidad, dentro de los veinte días calendario siguientes a la presentación de la estimación debidamente autorizada por el Sujeto de la Ley Ejecutor, fecha que deberá quedar asentada en la bitácora de la obra.
+Las estimaciones por trabajos ejecutados deberán pagarse por parte de los Sujetos de la Ley, bajo su responsabilidad, dentro de los veinte días calendario siguientes a la presentación de la estimación debidamente autorizada por el Sujeto de la Ley Ejecutor, fecha que deberá quedar asentada en la bitácora de la obra, salvo aquellas que se contraten mediante el esquema de Obra Pública Financiada, las cuales serán mediante amortizaciones programadas, las cuales están sujetas al reconocimiento de avance de obra mediante los certificados de avance, y al calendario de pago establecido en el contrato.
+
+En el caso de Obra Pública Financiada la obligación de pago de las estimaciones se genera una vez terminada la obra con el certificado de avance, los cuales pueden corresponder a una o varias estimaciones según se haya establecido en el contrato.
 
 Las estimaciones por trabajos ejecutados son independientes una de otra en su pago y, por tanto, cualquier secuencia es sólo para efecto de control administrativo. Las diferencias técnicas o numéricas pendientes de pago se resolverán e incorporarán en la siguiente estimación a través de aditivas o deductivas en la volumetría según sea el caso, las cuales se aplicarán de común acuerdo y sin perjuicio de las partes.
 
@@ -1347,7 +1623,7 @@ Una vez concluida la obra o parte utilizable de la misma, los Sujetos de la Ley 
 
 Los Sujetos de la Ley bajo cuya responsabilidad quede una obra pública después de terminada, estarán obligados a mantenerla en niveles apropiados de funcionamiento. Los órganos internos de control de cada Sujeto de la Ley vigilarán que su uso, operación, mantenimiento y conservación, se realicen conforme a los objetivos y acciones de los programas respectivos.
 
-### CAPITULO DÉCIMO SEGUNDO. Las Infracciones y de las Sanciones
+### CAPITULO DÉCIMO. La Administración Directa
 
 ###### Artículo 76.
 
@@ -1387,7 +1663,7 @@ El Sujeto de la Ley deberá prever y proveer todos los recursos humanos, técnic
 
 En la ejecución de obras por administración directa serán aplicables en lo conducente, las disposiciones de esta Ley.
 
-### CAPITULO DÉCIMO TERCERO. Las Inconformidades ante el Órgano de Control y del Recurso de Revisión
+### CAPITULO DÉCIMO PRIMERO. La Información y Verificación
 
 ###### Artículo 80.
 
@@ -1405,15 +1681,21 @@ El Órgano Superior de Fiscalización del Estado de Aguascalientes, el Órgano d
 
 De igual forma, dichas instancias podrán realizar las visitas e inspecciones que estimen pertinentes a los Sujetos de la Ley que realicen obras públicas y servicios relacionados con las mismas, así como solicitar a los servidores públicos y contratistas todos los datos e informes relacionados con los actos de que se trate e intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+Si en la revisión existen pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso, más los intereses correspondientes, tomando como referencia sólo la tasa que se establezca en la Ley de Ingresos del Estado de Aguascalientes del ejercicio que corresponda, para los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días calendario desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición del Sujeto de la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista sean compensadas demostrando la ejecución de cantidades de cualquier concepto que no hayan sido reconocidos para pago.
+
 ###### Artículo 82.
 
 La comprobación de la calidad de los trabajos se hará en los laboratorios, instituciones educativas y de investigación, empresas o con las personas físicas que determine el Órgano de Control en los términos que establece la Ley Federal de Meteorología y Normalización y que podrán ser aquellos con los que cuente el Sujeto de Ley.
 
 El resultado de las comprobaciones se hará constatar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el contratista y el representante del Sujeto de la Ley si hubieren intervenido. La falta de firma del contratista no invalidará dicho dictamen.
 
-### CAPITULO DÉCIMO CUARTO. El Procedimiento de Conciliación
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
+### CAPITULO DÉCIMO SEGUNDO. Las Infracciones y de las Sanciones
 
 ###### Artículo 83.
 
@@ -1483,7 +1765,7 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 
 No se impondrán sanciones o multas cuando se haya incurrido en la infracción por causas de fuerza mayor o de caso fortuito; o cuando se comunique u observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el incumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas. Así como en el supuesto de la fracción IV del Artículo 84 de esta Ley.
 
-### CAPITULO DÉCIMO QUINTO. El Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial
+### CAPITULO DÉCIMO TERCERO. Las Inconformidades ante el Órgano de Control y del Recurso de Revisión
 
 ###### Artículo 90.
 
@@ -1715,6 +1997,10 @@ De estimarlo procedente, podrá decretarse la suspensión de los actos del proce
 
 Resulta aplicable al procedimiento de intervención de oficio, en lo conducente, las disposiciones previstas en esta Ley para el trámite y resolución de inconformidades.
 
+### CAPITULO DÉCIMO CUARTO. El Procedimiento de Conciliación
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE MAYO DE 2025)</small>
+
 ###### Artículo 105.
 
 Los contratistas podrán presentar quejas ante el Órgano de Control con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con los Sujetos de la Ley.
@@ -1738,6 +2024,8 @@ De toda diligencia deberá levantarse acta circunstanciada en la que consten los
 ###### Artículo 107.
 
 Cuando el contrato correspondiente haya sido finiquitado de conformidad por las partes, precluye para el contratista el plazo para la presentación de queja al respecto.
+
+### CAPITULO DÉCIMO QUINTO. El Arbitraje, Otros Mecanismos de Solución de Controversias y Competencia Judicial
 
 ###### Artículo 108.
 
@@ -1836,6 +2124,14 @@ El presente Decreto entrará en (sic) al día siguiente de su publicación en el
 P.O. 19 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 163.- SE REFORMAN LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 208.- SE REFORMA LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
 
 ###### ARTÍCULO ÚNICO.
 
