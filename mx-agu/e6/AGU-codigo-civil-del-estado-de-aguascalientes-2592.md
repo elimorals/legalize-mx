@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-05-26"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -719,13 +719,17 @@ Si de acuerdo con lo dispuesto en el Artículo 199 fuere necesario que las capit
 
 VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado o copia certificada de la sentencia de nulidad del matrimonio en caso de que alguno de los pretendientes hubiese estado casado anteriormente.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-VII.- Copia del documento en que se haya otorgado la dispensa de impedimentos si los hubo; y
+VII.- Copia del documento en que se haya otorgado la dispensa de impedimentos si los hubo;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-VIII.- Constancia del curso prematrimonial expedida por el Sistema para el Desarrollo Integral de la Familia en el Estado.
+VIII.- Constancia del curso prematrimonial expedida por el Sistema para el Desarrollo Integral de la Familia en el Estado; y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+IX.- Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -2133,7 +2137,9 @@ III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyug
 
 IV.- En su caso, la designación del cónyuge al que corresponderá el uso del domicilio conyugal y su menaje;
 
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario que considere respecto a los bienes muebles, inmuebles y animales de compañía, en su caso; avalúo y el proyecto de participación;
 
 VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez resolverá atendiendo a las circunstancias especiales de cada caso.
 
@@ -2167,17 +2173,33 @@ A. De oficio:
 
 I.- En los casos en que el Juez lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
 
-II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda, debiéndose girar los oficios necesarios para conocer la capacidad económica del deudor alimentista, y en todos los casos decretar los apercibimientos de ley;
 
 III.- Las que se estimen convenientes para que los cónyuges no puedan causar perjuicio en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges la anotación preventiva de la demanda de divorcio en el Registro Público de la Propiedad que corresponda, según la ubicación de los bienes;
 
 IV.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el Artículo 2468 de este Código;
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+V.- Las que sean necesarias para proteger íntegramente a la mujer que se encuentre embarazada.
+
 B. Una vez contestada la solicitud:
 
 I.- El Juez determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
 
-II.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos, o bien, que ambos compartan la guarda y custodia mediante convenio. En defecto de ese acuerdo, el cónyuge que solicita el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos, el Juez, con audiencia del otro cónyuge y tomando en cuenta la opinión del menor resolverá lo conducente;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2025)</small>
+
+II.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieran designado los cónyuges, pudiendo ser uno de estos, o bien, que ambos compartan la guarda y custodia mediante convenio. En defecto de ese acuerdo, la persona juzgadora deberá, en todos los casos, ponderar el interés superior de la niñez, garantizando que reciba una protección integral de sus derechos fundamentales, para lo cual las niñas, niños y adolescentes podrán manifestar su opinión en relación con la guarda y custodia, misma que podrá que (sic) ser tomada en cuenta al momento de emitir la resolución respectiva.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+En todos los casos la persona juzgadora determinará la custodia de los niños, niñas y adolescentes, atendiendo a las circunstancias concretas del caso específico, garantizando las mejores condiciones para el desarrollo, cuidado y protección de las niñas, niños y adolescentes, si estos quedan al cuidado de la madre, del padre o incluso de persona ajena a sus progenitores.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+En el entendido de que no será obstáculo para la preferencia en la custodia, el hecho de que la madre o el padre por dedicarse al trabajo de cuidados en el hogar carezca de recursos económicos;
 
 III.- El Juez escuchará a los hijos y atenderá al interés superior de los mismos, al resolver las modalidades del derecho de visita o convivencia con sus padres;
 
@@ -2199,21 +2221,37 @@ V.- Las demás que el Juez considere necesarias.
 
 En el Juicio de divorcio se fijará la situación de los hijos menores de edad o incapaces, para lo cual en la sentencia respectiva, se deberá resolver lo siguiente:
 
-I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza; y al derecho de los hijos a convivir con ambos progenitores, el cual sólo deberá limitarse o suspenderse cuando exista riesgo para los hijos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JUNIO DE 2025)</small>
+
+I.- Los derechos y deberes derivados de la patria potestad, así como su pérdida, suspensión o limitación, la guarda y custodia, y las obligaciones relacionadas con la crianza, podrán ser restringidos en casos donde se pongan en peligro el desarrollo integral del menor. Esta restricción también se aplica al derecho de los hijos a convivir con ambos progenitores, cuando existan situaciones que amenacen su bienestar. Dichas restricciones se evaluarán en función de los tipos de violencia establecidos en el Código Penal del Estado de Aguascalientes, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Aguascalientes.
 
 Sólo podrá condenarse a la pérdida de la patria potestad cuando se actualice algunas de las hipótesis previstas en el Artículo 466 del presente Código.
 
 II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno; en caso necesario podrá dictar medidas de protección para los hijos, para evitar y corregir los actos de violencia familiar.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
 
-En aquellos casos en que se presente alguna de las circunstancias señaladas en el párrafo anterior, el juez solicitará a aquellas dependencias que tengan un área de atención psicológica brinden acompañamiento a aquellos menores de edad cuyos intereses se vean involucrados en el procedimiento.
+En aquellos casos en que se presente alguna de las circunstancias señaladas en el párrafo anterior, el juez solicitara a aquellas dependencias que tengan un área de atención psicológica brinden acompañamiento a aquellos niñas, niños o adolescentes cuyos intereses se vean involucrados en el procedimiento.
 
 III.- Tomando en consideración, en su caso, los datos recabados en términos del Artículo 292 de este Código, el Juez fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos.
 
 Los padres estarán obligados a contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
 
-IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los niños, niñas o adolescentes;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+V.- Las medidas necesarias para garantizar la convivencia de las hijas y los hijos con sus progenitores, la cual deberá ser limitada o suspendida cuando exista riesgo para los niños, niñas o adolescentes, o peligro para su sano desarrollo, considerando los tipos de violencia descritos en los demás cuerpos normativos nacionales y estatales.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+VI.- Para el caso de las personas mayores de edad en estado de salvaguardia que se encuentren sujetos a la tutela, cuidado de alguno de los padres o estado de salvaguardia, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este articulo para su protección.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2025)</small>
+
+VII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de la niñez.
 
 Para lo dispuesto en el presente Artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los hijos.
 
@@ -2222,6 +2260,18 @@ Para lo dispuesto en el presente Artículo, de oficio o a petición de parte int
 ###### Artículo 294.
 
 En caso de que los padres hayan acordado la guarda y custodia compartida, el Juez deberá garantizar que los padres cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 294 Bis.
+
+El padre o la madre que haya perdido la patria potestad, está obligado a seguir cumpliendo con todas las obligaciones que tienen para con sus hijos.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+###### Artículo 294 Ter.
+
+En caso de que ambos cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 289 y éste no contravenga ninguna disposición legal, el juez lo aprobará de plano, decretando el divorcio mediante sentencia.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
@@ -2245,9 +2295,9 @@ El Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo
 
 I.- La edad y el estado de salud de los cónyuges;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2025)</small>
 
-II.- Su calificación profesional y posibilidad de acceso a un empleo;
+II.- Su calificación profesional y posibilidad de acceso a un empleo remunerado, tomando en consideración el grado de estudios y experiencia profesional;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
@@ -2776,6 +2826,30 @@ Queda prohibido el ejercicio de la violencia vicaria en términos de lo establec
 ###### Artículo 347 Quinquies.
 
 Todos los integrantes de la familia, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Para tal efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+Artículo 347 Quinquies (SIC).- Las medidas que se dicten para salvaguardar la integridad y seguridad de las personas víctimas de violencia familiar, deberán ser suficientes para salvaguardar la integridad física, psicoemocional, sexual, los bienes, propiedades e incluso la vida, y podrán ser, entre otras:
+
+I.- La desocupación de la persona agresora del domicilio donde habite la persona que ha sido violentada, independientemente de la acreditación de la propiedad o posesión del inmueble, aun en los casos de arrendamiento de este, ya sea durante el matrimonio, en sociedad conyugal o en la separación de bienes y, en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+
+II.- La prohibición de la persona agresora de acercarse o ingresar al domicilio, lugar de trabajo o de estudios o cualquier otro que frecuente la persona víctima de violencia familiar;
+
+III.- La prohibición de la persona agresora para que se acerque a las personas víctimas de violencia familiar a la distancia que la persona juzgadora considere pertinente;
+
+IV.- Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad de las personas víctimas de violencia familiar;
+
+V.- La prohibición a la persona agresora de comunicarse con las personas víctimas de violencia familiar por sí o por interpósita persona por cualquier medio incluyendo redes sociales;
+
+VI.- La suspensión a la persona agresora de un régimen de visitas y convivencias con las niñas, niños y adolescentes que sean víctimas de violencia familiar;
+
+VII.- Prohibición a la persona agresora de enajenar o hipotecar bienes de la sociedad conyugal o los que se encuentren en el domicilio común en caso de concubinato; y
+
+VIII.- Las demás que se consideren necesarias.
+
+Tratándose de violencia contra las mujeres y niñas además de lo señalado en líneas anteriores se estará a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Aguascalientes.
+
+La sentencia definitiva determinará las medidas que deberán quedar vigentes, así como la forma de cumplimiento de las mismas.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
@@ -18274,3 +18348,19 @@ El presente Decreto iniciará su vigencia a partir del día siguiente al de su p
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 193.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
