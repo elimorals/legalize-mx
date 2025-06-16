@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-jesus-maria-aguascalientes-176
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2024-12-27"
+last_updated: "2025-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Cuarta Sección del Número 68 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
