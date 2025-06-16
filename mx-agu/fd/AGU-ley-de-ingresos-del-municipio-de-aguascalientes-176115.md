@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-aguascalientes-176115"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-27"
-last_updated: "2025-01-20"
+last_updated: "2025-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Número 68 del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de diciembre de 2024.
 
