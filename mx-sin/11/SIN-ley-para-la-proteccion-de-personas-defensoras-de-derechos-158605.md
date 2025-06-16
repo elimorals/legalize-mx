@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-proteccion-de-personas-defensoras-de-derechos-15860
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-27"
-last_updated: "2022-05-27"
+last_updated: "2025-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
 
 Ley publicada en el Número 064 del Periódico Oficial del Estado de Sinaloa, el viernes 27 de mayo de 2022.
 
@@ -121,7 +121,9 @@ La atención de las agresiones implica, de manera enunciativa más no limitativa
 
 El deber de investigación incluye la obligación de indagar exhaustivamente el origen de las agresiones, su esclarecimiento total y, en su caso, la sanción de los responsables.
 
-La Fiscalía General del Estado cumplirá con este deber de investigación a través de la Fiscalía Especializada para la Protección de Personas Defensoras de los Derechos Humanos y Periodistas.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+La Fiscalía General del Estado cumplirá con este deber de investigación a través de la Vicefiscalía Especializada de Derechos Humanos, Protección de Personas Defensoras de los Derechos Humanos y Periodistas.
 
 ### CAPÍTULO II. DE LAS LIBERTADES Y DERECHOS DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS
 
@@ -869,7 +871,9 @@ TERCERO. Dentro de los sesenta días hábiles siguientes al del inicio de la vig
 
 En tanto, se aplicarán los acuerdos del Consejo Consultivo y las circulares que emita el Director General.
 
-CUARTO. Dentro de los sesenta días posteriores al inicio de vigencia del presente Decreto el Congreso del Estado deberá realizar las adecuaciones correspondientes a la Ley Orgánica de la Fiscalía General del Estado de Sinaloa para regular la creación de la Fiscalía Especializada para la Protección de Personas Defensoras de los Derechos Humanos y Periodistas.
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
+
+CUARTO. Corresponde a la Vicefiscalía de Derechos Humanos, Protección de Personas Defensoras de los Derechos Humanos y Periodistas, atender e investigar las agresiones a personas defensoras de los derechos humanos y periodistas, para lo cual, la Fiscalía General del Estado deberá realizar las adecuaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa, en un plazo que no deberá exceder de los 90 días posteriores al inicio de vigencia del presente Decreto.
 
 QUINTO. En tanto inicia sus funciones el Instituto, continuará funcionando la Unidad Estatal de Protección para Personas Defensoras de Derechos Humanos y Periodistas.
 
@@ -906,3 +910,21 @@ ENRIQUE INZUNZA CÁZAREZ
 El Secretario de Administración y Finanzas
 
 ENRIQUE ALFONSO DÍAZ VEGA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO 5 DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SINALOA; ASÍ COMO EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 154 POR EL QUE SE EXPIDE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE SINALOA; Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA, EXPEDIDO EL 24 DE MAYO DE 2022, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA» NO. 064, DE FECHA 27 DE MAYO DE 2022; Y SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 9 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa'.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado deberá realizar las adecuaciones pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Sinaloa, en un plazo que no deberá exceder de los 90 días posteriores al inicio de vigencia del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
