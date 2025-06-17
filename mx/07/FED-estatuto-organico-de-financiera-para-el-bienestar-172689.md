@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-financiera-para-el-bienestar-172689"
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-04-17"
-last_updated: "2025-06-04"
+last_updated: "2025-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172689&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2024-04-04"
 ---
 # ESTATUTO ORGANICO DE FINANCIERA PARA EL BIENESTAR
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR, PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2025 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR, PUBLICADO EN EL D.O.F. DE 17 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO UNA VEZ QUE “SE CUMPLAN LAS CONDICIONES ESTIPULADAS EN LOS ARTÍCULOS TRANSITORIOS SEGUNDO, CUARTO, QUINTO, SÉPTIMO Y OCTAVO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONA Y DEROGAN DIVERSOS ARTÍCULOS DEL DECRETO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO FINANCIERA PARA EL BIENESTAR, ANTES TELÉGRAFOS NACIONALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 01 DE ABRIL DE 2025.”]</small>
 
 ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2025 (ABROGADO).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 17 DE JUNIO DE 2025.]</small>
 
 Estatuto publicado en el Número 21 del Diario Oficial de la Federación, el miércoles 17 de abril de 2024.
 
@@ -747,7 +747,9 @@ D.O.F. DE 4 DE JUNIO DE 2025.
 
 PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Se abroga el Estatuto Orgánico de Financiera para el Bienestar publicado en el Diario Oficial de la Federación el 17 de abril de 2024.
+> <small>(F. DE E., D.O.F. 17 DE JUNIO DE 2025)</small>
+
+SEGUNDO. Se abroga el Estatuto Orgánico de Financiera para el Bienestar publicado en el Diario Oficial de la Federación el 17 de abril de 2024, a excepción de las atribuciones de la Dirección de la Red de Telecomunicaciones y Mexsat, las cuales seguirán siendo ejercidas por dicha unidad administrativa en términos del artículo 17 y artículo sexto transitorio de dicho estatuto, hasta en tanto se cumplan las condiciones estipuladas en los artículos transitorios SEGUNDO, CUARTO, QUINTO, SÉPTIMO y OCTAVO del DECRETO por el que se reforman, adiciona y derogan diversos artículos del Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales, publicado en el Diario Oficial de la Federación el 01 de abril de 2025.
 
 TERCERO. A partir de la entrada en vigor de este Estatuto Orgánico, las Unidades Administrativas asumirán el ejercicio de las facultades, atribuciones y funciones que les correspondan, conforme a lo establecido en la normatividad vigente.
 
@@ -764,3 +766,9 @@ IV. La persona Titular de la anterior Dirección de Cumplimiento e Inteligencia,
 El Organismo propondrá el nombramiento del titular de la Unidad Administrativa ante la Junta Directiva y gestionará ante la SHCP y la SABG, la aprobación y registro de la Estructura Orgánica, en términos de la normatividad aplicable.
 
 QUINTO. El Organismo emitirá el Manual de Organización Institucional en un plazo no mayor a 100 días hábiles posteriores a la aprobación y registro de la Estructura Orgánica.
+
+D.O.F. 17 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR, PUBLICADO EL 4 DE JUNIO DE 2025.”]
+
+ÚNICO.- La presente nota aclaratoria entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
