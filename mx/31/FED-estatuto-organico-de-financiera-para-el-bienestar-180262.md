@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-financiera-para-el-bienestar-180262"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-06-04"
-last_updated: "2025-06-04"
+last_updated: "2025-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180262&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-05-26"
 ---
 # ESTATUTO ORGANICO DE FINANCIERA PARA EL BIENESTAR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JUNIO DE 2025 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE FINANCIERA PARA EL BIENESTAR
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 17 DE JUNIO DE 2025.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 4 de junio de 2025.
 
@@ -665,7 +665,9 @@ La Junta Directiva a propuesta de la persona Titular de la Presidencia o cuando 
 
 PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO. Se abroga el Estatuto Orgánico de Financiera para el Bienestar publicado en el Diario Oficial de la Federación el 17 de abril de 2024.
+> <small>(F. DE E., D.O.F. 17 DE JUNIO DE 2025)</small>
+
+SEGUNDO. Se abroga el Estatuto Orgánico de Financiera para el Bienestar publicado en el Diario Oficial de la Federación el 17 de abril de 2024, a excepción de las atribuciones de la Dirección de la Red de Telecomunicaciones y Mexsat, las cuales seguirán siendo ejercidas por dicha unidad administrativa en términos del artículo 17 y artículo sexto transitorio de dicho estatuto, hasta en tanto se cumplan las condiciones estipuladas en los artículos transitorios SEGUNDO, CUARTO, QUINTO, SÉPTIMO y OCTAVO del DECRETO por el que se reforman, adiciona y derogan diversos artículos del Decreto por el que se crea el organismo descentralizado denominado Financiera para el Bienestar, antes Telégrafos Nacionales, publicado en el Diario Oficial de la Federación el 01 de abril de 2025.
 
 TERCERO. A partir de la entrada en vigor de este Estatuto Orgánico, las Unidades Administrativas asumirán el ejercicio de las facultades, atribuciones y funciones que les correspondan, conforme a lo establecido en la normatividad vigente.
 
