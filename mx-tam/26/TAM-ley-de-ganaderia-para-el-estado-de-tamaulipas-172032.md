@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ganaderia-para-el-estado-de-tamaulipas-172032"
 country: "mx"
 rank: "ley"
 publication_date: "2024-03-07"
-last_updated: "2024-03-07"
+last_updated: "2025-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE GANADERIA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2025.
 
 Ley publicada en el Número 30 del Periódico Oficial del Estado de Tamaulipas, el jueves 7 de marzo de 2024.
 
@@ -49,9 +51,11 @@ LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPÍTULO PRIMERO. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley se declara de orden público e interés social y tiene como finalidad fomentar las actividades productivas que se desarrollan en el sector rural para contribuir en alcanzar la suficiencia alimentaria, mejorando la producción, productividad, sanidad y calidad de manera sostenible, impulsar las actividades en el sector primario de manera sustentable, con la participación colaborativa de las y los productores tamaulipecos.
+La presente Ley se declara de orden público e interés social y tiene como finalidad fomentar las actividades productivas que se desarrollan en el sector rural para contribuir en alcanzar la suficiencia alimentaria, mejorando la producción, productividad, sanidad y calidad de manera sostenible, impulsar las actividades en el sector primario de manera sustentable, con la participación colaborativa de las y los ganaderos tamaulipecos.
 
 ###### Artículo 2.
 
@@ -97,7 +101,9 @@ En lo no previsto por la presente Ley, se aplicará de forma supletoria en prime
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Acopiador: Persona física o moral que en un centro de acopio reúne ganado cuyo origen se encuentra en diversas unidades de producción pecuaria, que lo ubica en instalaciones fijas o transitoriamente en unidades móviles y cuya posesión o propiedad fue adquirida por los medios previstos por la presente Ley y las demás que fueren aplicables;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+I. Acopiador: Persona física o moral que reúne animales o lotes de animales procedentes de diferentes Unidades de Producción Pecuaria para su incorporación a las diferentes fases de producción o bien para su comercialización;
 
 II. Acta circunstanciada: Documento oficial levantado por un servidor público estatal, en el ejercicio de sus atribuciones en el que se hacen constar o se relatan actos o hechos acontecidos durante una verificación, inspección o cualquier otra diligencia, en los términos previstos por la presente Ley;
 
@@ -113,25 +119,41 @@ VII. Apicultura: Actividad relativa a la cría, explotación y mejoramiento de l
 
 VIII. Auxiliares: Entidades públicas o entes privados, personas físicas o morales, y organizaciones ganaderas constituidas en términos de la Ley de Organizaciones Ganaderas que coadyuvan con las autoridades competentes en la aplicación de la presente Ley y en la normatividad que de ella derive;
 
-IX. Aves de corral: Gallináceas, pavo común, patos, gansos, palomas y codornices;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+IX. Aves de corral: Aquellas aves que se crían para abasto, tales como gallinas, gansos, patos, guajolotes, entre otras;
 
 X. Avicultura: Actividad relativa a la cría, reproducción, mejoramiento y explotación de las especies y variedades de aves, así como para el aprovechamiento de sus productos y subproductos y que es desarrollada por personas físicas o morales denominadas avicultores;
 
-XI. Bienestar animal: Se considera que un animal se encuentra en un estado satisfactorio de bienestar, cuando se encuentra sano, confortable y bien alimentado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XI. Bienestar Animal: Conjunto de actividades encaminadas a proporcionar comodidad, tranquilidad, protección y seguridad a los animales durante su crianza, mantenimiento, explotación, transporte y sacrificio;
 
 XII. Buenas prácticas pecuarias: conjunto de procedimientos, actividades, condiciones y controles que se aplican en las unidades de producción de animales con el objeto de disminuir los peligros asociados a agentes físico, químicos o biológicos, así como los riesgos zoosanitarios en los bienes de origen animal, sin perjuicio de otras disposiciones legales aplicables en materia de salud pública;
 
-XIII. CAE: Corrales de Acopio para Exportación: Establecimientos que son instalados y operados por personas físicas y/o morales, autorizados por la Secretaría y las autoridades federales competentes, para proporcionar a los ganaderos el acopio temporal de animales destinados a estaciones cuarentenarias de exportación;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XIII. CAE: Corrales de Acopio para Exportación. Establecimientos autorizados por la Secretaría a Prestadores de Servicios Ganaderos registrados en el Padrón Ganadero Nacional para acopiar ganado para fines de comercio internacional;
 
 XIV. Caprinocultura: Actividad relativa a la cría, reproducción, mejoramiento y explotación de las cabras, que es desarrollada por personas físicas o morales denominadas caprinocultores;
 
 XV. Centro o corral de acopio: Espacio físico o instalación ubicada en territorio del Estado, en donde se alojan animales o sus productos adquiridos por un acopiador, procedentes de diferentes unidades de producción, cuya finalidad es su posterior incorporación en alguna de las fases de la cadena productiva, o bien, para su comercialización;
 
-XVI. Centro o corral de engorda: Espacio físico o instalación en donde se alojan animales, con el objetivo de someterlos a un régimen alimenticio intensivo, propiciando una mayor producción de tejidos musculares, en un periodo de tiempo determinado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-XVII. Certificado zoosanitario: Documento oficial expedido por los servidores públicos adscritos a la Secretaría de Agricultura y Desarrollo Rural o por quienes dicha dependencia acredite tal atribución, para verificar el cumplimiento de las leyes, reglamentos, Normas Oficiales Mexicanas o cualquier otra disposición en materia de sanidad animal, requerido por la Secretaría, o quien ésta autorice, para el ingreso de animales al Estado, provenientes de otras entidades federativas;
+XVI. Corral de engorda: Espacio físico o instalación en donde se alojan animales, con el objetivo de someterlos a un régimen alimenticio intensivo, propiciando una mayor producción de tejidos musculares, en un periodo de tiempo determinado;
 
-XVIII. CN: Consumo Nacional;
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XVI Bis. Centro Expedidor: Instalación de la Secretaría o de algún auxiliar, autorizado y habilitado para la revisión de los requisitos zoosanitarios que establezca la SADER por conducto del SENASICA y aquellas disposiciones que establezca el estado;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XVII. Certificado zoosanitario: Documento oficial expedido por la SADER o los organismos de certificación acreditados y aprobados en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización, en el que se hace constar el cumplimiento de las disposiciones de sanidad animal;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XVIII. CN: Consumo nacional. Ganado destinado al consumo interior del país que no está certificado para exportación;
 
 XIX. Coeficiente de agostadero: Superficie requerida para sostener una unidad animal al año, en forma permanente y sin deteriorar los recursos naturales, expresada como: Número de hectáreas por unidad animal al año;
 
@@ -145,11 +167,25 @@ XXIII. Cuarentena: Acuerdo temporal, fundado y motivado dictado como medida de s
 
 XXIV. DINESA: Dispositivo Nacional de Emergencia de Sanidad Animal;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXIV Bis. Dispositivo de Identificación Oficial: Instrumento autorizado por la SADER y empleado por el SINIDA para identificar de manera única, permanente e irrepetible a los bovinos, ovinos, caprinos y colmenas, los cuales siempre son aplicados en par, los que podrán ser según la especie: aretes, discos, placas, transpondedores o una combinación de éstos, acorde a las especificaciones técnicas autorizadas por la SADER;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXIV Ter. Decomiso: Se refiere a la acción de confiscar ganado o productos de origen animal por causa legal o sanitaria, infracciones a esta ley, problemas sanitarios o comercio ilegal;
+
 XXV. Enfermedad: Alteración de la salud o ruptura del equilibrio en la interacción entre un animal, agente biológico y del medio ambiente, que provoca alteraciones en las manifestaciones vitales del animal;
 
 XXVI. Especies diversas: Abejas, conejos, perros, gatos, y todos aquellos animales que constituyan una explotación zootécnico-económica;
 
-XXVII. Estación cuarentenaria: Conjunto de instalaciones especializadas para el aislamiento de animales, donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas de los animales;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXVII. Estación cuarentenaria: Establecimientos que instala y opera, autoriza o habilita la SADER, especializados para el aislamiento temporal de animales en donde se aplican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades o plagas que los afecten;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXVII Bis. Establecimiento de Sacrificio: Instalaciones donde se realizan actividades de matanza de animales. En este tipo de establecimientos se puede incluir a los mataderos, rastros municipales, rastros privados y rastros Tipo Inspección Federal (TIF);
 
 XXVIII. Estado: Estado de Tamaulipas;
 
@@ -157,7 +193,9 @@ XXIX. Fierro corrido: Marca que se aplica con hierro candente para desfigurar un
 
 XXX. Fierro de herrar: Figura única e individual propuesta por un ganadero y autorizada por la Secretaría, para marcar sus animales mediante un hierro candente, pintura indeleble, ácido corrosivo o marcado en frío;
 
-XXXI. Fleje: Dispositivo de seguridad autorizado y expedido por la Secretaría, colocado en los contenedores, jaulas, remolques o cualquier otro vehículo para el transporte del ganado que tiene como finalidad evitar y/o evidenciar su apertura en el trayecto de una movilización;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXXI. Fleje: Dispositivos de material autorizado por la SADER y/o la Secretaría, para evitar que los contenedores, jaulas u otro transporte, sean abiertos en su trayecto y pierdan las condiciones de seguridad e inocuidad, con las cuales las mercancías reguladas fueron certificadas al ser embarcadas;
 
 XXXII. Ganadería: Conjunto de actividades necesarias para la cría, reproducción, acopio, comercialización, mejoramiento, engorda, sacrificio, industrialización y explotación del ganado, sus productos y subproductos, desarrolladas por personas físicas o morales conocidas como ganaderos;
 
@@ -177,21 +215,25 @@ XXXIX. GEESA: Grupo de Emergencia Estatal de Sanidad Animal, de respuesta rápid
 
 XL. Gobierno del Estado: Gobierno del Estado de Tamaulipas;
 
-XLI. Guía de tránsito: Documento oficial para la movilización del ganado, aves de corral, especies diversas, sus productos y sub-productos, una vez verificada y acreditada la propiedad del mismo, así como el cumplimiento de los requisitos para su movilización;
+XLI. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
-XLII. Guía de tránsito electrónica: Guía de tránsito emitida mediante un sistema de registro electrónico de la movilización;
+XLII. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
 XLIII. Identificador electrónico: Dispositivo electrónico que se implanta en un animal, conteniendo sus datos de identificación, según los términos de autorización emitidos por la Secretaría;
 
-XLIV. Identificador SINIDA: Dispositivo de identificación oficial utilizado por el Sistema Nacional de Identificación Animal para Bovinos, Equinos, Ovinos, Caprinos y Colmenas, autorizado en sus especificaciones técnicas y modo de aplicación por la Secretaría de Agricultura y Desarrollo Rural, mediante las Normas Oficiales Mexicanas, para identificar la propiedad, origen y movilización del ganado, así como su captura en una base de datos;
+XLIV. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
 XLV. Inspección: Acto que realizan los servidores públicos autorizados de la Secretaría para constatar mediante la verificación el cumplimiento de esta Ley y de las disposiciones que de ella deriven;
 
-XLVI. Inspector auxiliar de ganadería: Persona física, preferentemente médico veterinario zootecnista, integrante de algún auxiliar acreditado de la Secretaría, que ha recibido tal autorización y nombramiento por parte de la Secretaría para coadyuvar con las funciones realizadas por el inspector de ganadería, en los términos señalados en la presente Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XLVI. Inspector auxiliar de ganadería: Persona física, preferentemente médico veterinario zootecnista, integrante de algún organismo auxiliar acreditado de la Secretaría, que ha recibido tal autorización y nombramiento por parte de la Secretaría para coadyuvar con las funciones realizadas por el inspector de ganadería, en los términos se (sic) señalados en la presente Ley;
 
 XLVII. Inspector de ganadería: Servidor público adscrito al Gobierno del Estado y que ha recibido tal nombramiento por parte de la Secretaría, para realizar las funciones que señala la presente Ley;
 
-XLVIII. Introductor: Persona física o moral que introduce ganado en centros de acopio, engorda, en rastros, para sacrificio o bien, que lo ingresa al Estado proveniente de otra entidad, con cualquier fin;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XLVIII. Introductor: Persona física o moral que reúne animales o lotes de animales procedentes de diferentes Unidades de Producción Pecuaria para su incorporación a un Establecimiento de Sacrificio;
 
 XLIX. Marca: Aplicación de un fierro de herrar realizada en el ganado mayor;
 
@@ -199,7 +241,9 @@ L. Manejo sin estrés: Conocimientos científicos que se utilizan para minimizar
 
 LI. Médico veterinario: Profesionista con cédula profesional expedida por la autoridad competente, para ejercer la medicina veterinaria y zootecnia;
 
-LII. Movilización: Embarque, transporte, arreo o traslado del ganado en pie, sus productos, subproductos, pieles, restos o desechos de un lugar a otro en el interior del Estado, con fines de venta, abasto, cambio de agostadero o cualquier otro;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LII. Movilización: Traslado de animales, bienes de origen animal, productos biológicos, químicos, farmacéuticos, plaguicidas o alimenticios para uso en animales o consumo por éstos, equipo e implementos pecuarios usados, desechos y cualquier otra mercancía regulada, de un sitio de origen a uno de destino predeterminado, el cual se puede llevar a cabo en vehículos o mediante arreo dentro del territorio nacional;
 
 LIII. Movilizador: Persona que interviene directa o indirectamente en la movilización del ganado;
 
@@ -221,17 +265,35 @@ LXI. Producción pecuaria: Bienes de consumo obtenidos directamente del aprovech
 
 LXII. Producto pecuario: Bien de consumo derivado del ganado bovino, porcino, ovino, caprino, avícola y apícola, como son carne, huevo, miel, leche y cualquier otro producto resultado de la producción primaria del ganado;
 
-LXIII. Prestador de servicios ganaderos: persona física o moral de carácter público o privado, orientado al apoyo de la actividad pecuaria y registrado en el Padrón Ganadero Nacional;
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-LXIV. Punto de expedición y ruta pecuaria: Son las Instalaciones de la Secretaría o de algún organismo auxiliar, autorizado y habilitado para inspeccionar las movilizaciones del ganado sus productos y sub-productos, además de la expedición de guías de tránsito;
+LXII Bis. Propietario o Poseedor: Persona física o moral que ostenta la propiedad de los animales, lotes o colmenas y es responsable de mantener la identificación oficial permanente del animal.
 
-LXV. Punto de verificación e inspección: Instalación ubicada en un sitio determinado dentro del territorio del Estado, operada en los términos y por personal autorizado por la Secretaría, destinada a constatar el cumplimiento de las disposiciones señaladas por la presente Ley, por la normatividad que de esta derive y, en su caso, previo convenio, por las leyes, reglamentos y Normas Oficiales Mexicanas en materia de sanidad y movilización animal, mediante la revisión física del ganado, sus productos y subproductos, así como de los documentos oficiales requeridos para su movilización;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXIII. Prestador de Servicios Ganaderos (PSG): Persona física o moral de carácter público o privado, que desarrolla actividades asociadas a la ganadería diferentes a la cría de animales y se encuentra registrado en el Padrón Ganadero Nacional (PGN);
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXIV. Punto de Expedición y Ruta Pecuaria: Instalaciones de la Secretaría o de algún organismo auxiliar, autorizado y habilitado para inspeccionar las movilizaciones del ganado sus productos y subproductos, además de la expedición del REEMO;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXV. Punto de verificación e inspección: Instalación ubicada en un sitio determinado dentro del territorio del Estado, operada en los términos del Convenio de coordinación con la SADER para realizar acciones de verificación e inspección vinculadas al control de la movilización agropecuaria, acuícola y pesquera, con personal oficial, destinado a constatar el cumplimiento de las disposiciones señaladas por la presente Ley, por la normatividad que de esta derive, por las leyes, reglamentos y Normas Oficiales Mexicanas en materia de sanidad y movilización animal, mediante la revisión física del ganado, sus productos y subproductos, así como de los documentos oficiales requeridos para su movilización;
 
 LXVI. Rastreabilidad: Conjunto de acciones, medidas y procedimientos técnicos y administrativos de naturaleza epidemiológica, que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus últimas consecuencias, a fin de llevar a cabo su control y erradicación;
 
-LXVII. Rastro: Establecimiento donde se presta el servicio de sacrificio del ganado, destinado al consumo humano y la comercialización al mayoreo de sus productos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-LXVIII. REEMO. Registro Electrónico de la Movilización;
+LXVII. Rastro: Establecimiento municipal, de Tipo Inspección Federal y otros, donde se presta el servicio de sacrificio del ganado, destinado al consumo humano y la comercialización al mayoreo de sus productos;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXVIII. REEMO: Registro Electrónico de la Movilización. Documento expedido por el inspector acreditado por la Secretaría, para la movilización de ganado dentro y fuera del Estado, una vez verificada y acreditada la propiedad del mismo, así como el cumplimiento de los requisitos para su movilización;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXVIII Bis. Ruta Pecuaria: Trayecto predeterminado que un propietario, poseedor y/o transportista dispone del origen al destino para la entrega de ganado, productos y subproductos;
 
 LXIX. SADER: Secretaría de Agricultura y Desarrollo Rural;
 
@@ -247,21 +309,27 @@ LXXIV. Subproducto: El que se deriva de un proceso de transformación de un prod
 
 LXXV. Tatuaje: La impresión de dibujos, letras o números indelebles en el cuerpo del ganado;
 
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXXV Bis. Transportista: Persona que moviliza animales, productos y subproductos de un punto a otro;
+
 LXXVI. Trazabilidad: Serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con el nacimiento, crianza, engorda, reproducción, sacrificio y procesamiento de un animal, los bienes de origen animal, así como de los productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales o consumido por éstos, hasta su consumo final, ubicando en cada etapa su ubicación espacial y, en su caso, los factores de riesgo zoosanitario y de contaminación que pueden estar presentes en cada una de las actividades;
 
-LXXVII. Unidad de Medida y Actualización: Valor diario expresado en pesos, que se establece por la autoridad competente y se utiliza para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+LXXVII. Unidad de Medida y Actualización (UMA): Referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en la presente Ley, así como en las disposiciones jurídicas que emanen de la misma;
 
 LXXVIII. Unidad de producción pecuaria: Espacio físico e instalaciones de un predio o rancho ubicadas dentro del territorio del Estado, en el que nace o permanece un animal en una etapa determinada de su vida y que está registrada en el Padrón Ganadero Nacional;
 
-LXXIX. Zona “A” o libre: Área geográfica determinada dentro del territorio del Estado, donde se han eliminado o no se han presentado casos positivos de una enfermedad o plaga específica en los animales, durante un periodo preciso, de acuerdo con las Normas Oficiales Mexicanas y las medidas zoosanitarias que establezca la SADER;
+LXXIX. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
-LXXX. Zona “B” de alta prevalencia: Área geográfica determinada dentro del territorio del Estado, en donde se presenta una mayor frecuencia de casos recientes de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específicos;
+LXXX. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
-LXXXI. Zona “B” de baja prevalencia: Área geográfica determinada dentro del territorio del Estado en donde se presenta una frecuencia mínima de casos recientes de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específicos;
+LXXXI. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
-LXXXII. Zona de control: Área geográfica determinada dentro del territorio del Estado, en la que operan medidas zoosanitarias de control ganadero tendientes a disminuir la incidencia o prevalencia de una enfermedad o plaga de animales, en un periodo de tiempo y especie animal específico, de acuerdo con lo señalado en las medidas zoosanitarias que establezca la SADER; y
+LXXXII. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
-LXXXIII. Zona de erradicación: Zona “B” en la que se operan medidas zoosanitarias tendientes a la eliminación total de una enfermedad o plaga de animales, o se realizan estudios epizootiológicos con el objeto de comprobar la ausencia de dicha enfermedad o plaga en un periodo de tiempo y especie animal específicos, de acuerdo con las Normas Oficiales Mexicanas y las medidas zoosanitarias que la SADER establezca.
+LXXXIII. (DEROGADA, P.O. 17 DE JUNIO DE 2025)
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
 
@@ -299,19 +367,27 @@ Las atribuciones que conforme a éste artículo sean conferidas por las autorida
 
 Para los efectos de la presente Ley, el Ejecutivo del Estado, tendrá las siguientes facultades:
 
-I. Celebrar convenios de coordinación y colaboración con el Ejecutivo Federal, respecto de la aplicación de normatividad federal en materia de sanidad, fomento y control de la actividad pecuaria en la entidad;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+I. Celebrar convenios de coordinación y colaboración con el Ejecutivo Federal, respecto de la aplicación de normatividad federal en materia de sanidad, fomento y control de la actividad ganadera en la entidad;
 
 II. Emitir los decretos, reglamentos y demás disposiciones necesarias para la instrumentación y cumplimiento de lo dispuesto por la presente Ley;
 
 III. Celebrar por si, o por conducto de la Secretaría, convenios de coordinación y colaboración con dependencias u organismos del gobierno federal, con los ayuntamientos de los municipios del Estado, con otras entidades federativas, organizaciones ganaderas, así como con los auxiliares previstos por esta Ley para su cumplimiento;
 
-IV. Requerir en caso de fenómenos naturales, enfermedades exóticas o epizooticas que pongan en peligro a las especies animales y/o la salud pública, a todos los organismos auxiliares, instituciones educativas, profesionistas, técnicos y todas aquellas entidades públicas y privadas relacionadas con el ramo, a prestar sus servicios para la debida conformación del GEESA.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2025)</small>
+
+IV. Requerir en caso de fenómenos naturales, enfermedades exóticas o epizoóticas que pongan en peligro a las especies animales y/o la salud pública, a todos los organismos auxiliares, instituciones educativas, profesionistas, técnicos y todas aquellas entidades públicas y privadas relacionadas con el ramo, a prestar sus servicios para la debida conformación del GEESA.
 
 Dicho grupo se conformará de acuerdo al Dispositivo Nacional de Emergencia de Sanidad Animal y el plan de emergencia previamente establecido por la autoridad competente;
 
-V. Incluir en el Presupuesto de Egresos del Estado, los recursos destinados al cumplimiento de los objetivos previstos por esta Ley y las disposiciones que de ella deriven, en materia de sanidad animal, fomento y control de la actividad ganadera, contingencias climatológicas o meteorológicas o cualquier tipo de eventualidad que la afecten, debiendo atender las propuestas que planteen las organizaciones ganaderas en el Estado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-VI. Proponer en la Ley de Ingresos para el Estado de Tamaulipas del ejercicio fiscal que corresponda, en la Ley de Hacienda para el Estado de Tamaulipas y demás leyes estatales aplicables, los montos de los derechos que por los conceptos señalados en la presente Ley;
+V. Incluir en el Presupuesto de Egresos del Estado, los recursos destinados al cumplimiento de los objetivos previstos por esta Ley y las disposiciones que de ella deriven, en materia de sanidad animal, fomento y control de la actividad ganadera, contingencias climatológicas o meteorológicas o cualquier tipo de eventualidad que la afecten, debiendo atender las propuestas que planteen los organismos del sector;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+VI. Proponer en la Ley de Ingresos para el Estado de Tamaulipas del ejercicio fiscal que corresponda, en la Ley de Hacienda para el Estado de Tamaulipas y demás leyes estatales aplicables, los montos de los derechos por los servicios o derechos de administración y control en materia agropecuaria por los conceptos señalados en la presente Ley;
 
 VII. Fomentar la investigación en materia de explotación de la actividad ganadera en el Estado;
 
@@ -329,13 +405,21 @@ La Secretaría, respecto de la presente Ley, tendrá las siguientes atribuciones
 
 I. Elaborar, implementar y vigilar el cumplimiento de programas especiales para el fomento, explotación y mejora de la actividad ganadera en el Estado, de conformidad con el Plan Estatal de Desarrollo vigente;
 
-II. Promover la participación de la organización de los productores pecuarios en los organismos auxiliares para operación de campañas zoosanitarias, inocuidad pecuaria, buenas prácticas pecuarias y vigilancia epidemiológica;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-III. Promover una mayor participación de las mujeres en las actividades pecuarias del Estado;
+II. Promover la participación de los productores ganaderos en campañas zoosanitarias, inocuidad pecuaria, buenas prácticas pecuarias y vigilancia epidemiológica a través de los organismos auxiliares;
 
-IV. Fomentar el bienestar animal por parte de los productores pecuarios en el Estado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-V. Fomentar la sustentabilidad de las actividades ganaderas en el Estado e impulsar el uso de técnicas modernas que incidan en la diversificación y mejoramiento de la producción ganadera y eleven su eficiencia;
+III. Promover una mayor participación de las mujeres en las actividades ganaderas del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+IV. Fomentar el bienestar animal por parte de los productores ganaderos en el Estado;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+V. Fomentar la sustentabilidad de las actividades ganaderas en el Estado e impulsar el uso de técnicas innovadoras que incidan en la diversificación y mejoramiento de la producción ganadera y eleven su eficiencia;
 
 VI. Emitir autorizaciones o restricciones de introducción del ganado, sus productos y subproductos hacia el interior del Estado, previa verificación del cumplimiento de los requisitos legales de propiedad y zoosanitarios;
 
@@ -349,7 +433,9 @@ X. Coordinar y fomentar de manera permanente las acciones y medidas necesarias p
 
 XI. Coadyuvar en el control de la estadística pecuaria del Estado con las instancias competentes en la obtención de información y datos en el Estado, a fin de mantener actualizada la base de datos de esta actividad;
 
-XII. Determinar el destino, conservación, y en su caso, remate del ganado, los productos y subproductos retenidos, asegurados y/o mostrencos, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XII. Determinar el destino, conservación, y en su caso, remate del ganado, los productos y subproductos retenidos, decomisados, asegurados y/o mostrencos, en los términos de la presente Ley;
 
 XIII. Promover, en coordinación con la Secretaría de Seguridad Pública, la Fiscalía General de Justicia del Estado y los auxiliares, acciones para la prevención y el combate de los delitos relacionados con la actividad pecuaria;
 
@@ -363,7 +449,9 @@ XVII. Proponer al Ejecutivo del Estado la asignación de partidas y montos de re
 
 XVIII. Designar y remover a los inspectores de ganadería y sus auxiliares, supervisar sus actividades y verificar de manera permanente su capacitación y profesionalización;
 
-XIX. Rendir informes, realizar diligencias e intervenir de cualquier forma en el auxilio de autoridades judiciales, de investigación o procuración de justicia, y en general, de cualquier otra, en los términos señalados por la Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XIX. Colaborar en la rendición de informes, realizar diligencias e intervenir de cualquier forma en el auxilio de autoridades judiciales, de investigación o procuración de justicia, y en general, de cualquier otra, en los términos señalados por la Ley;
 
 XX. Expedir y distribuir, por si o por conducto de sus auxiliares, las guías de tránsito del ganado, aves de corral, especies diversas, sus productos y subproductos, en cualquiera de sus modalidades;
 
@@ -381,13 +469,19 @@ XXVI. Organizar y actualizar permanentemente el registro de inspectores de ganad
 
 XXVII. Determinar mediante acuerdos publicados en el Periódico Oficial del Estado, medidas restrictivas y regulatorias de movilización respecto de horarios y vías pecuarias, a fin (sic) prevenir actividades delictivas y reforzar el control de la movilización del ganado en zonas determinadas o en la totalidad de territorio del Estado, observando en todo caso que dichas medidas no afecten la actividad ganadera en ninguna de sus etapas;
 
-XXVIII. Asesorar y brindar capacitación a las personas que pretendan dedicarse a cualquiera de las actividades pecuarias previstas en esta Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXVIII. Asesorar y brindar capacitación a las personas que pretendan dedicarse a cualquiera de las actividades ganaderas previstas en esta Ley;
 
 XXIX. Fomentar y promover la integración de organizaciones de productores ganaderos, de aves de corral y especies diversas;
 
-XXX. Fomentar la investigación y las buenas prácticas pecuarias, en las actividades pecuarias, que deriven en la difusión y utilización de las técnicas y medidas que hagan más productivas y sustentables dichas actividades;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-XXXI. Realizar Exposiciones Locales, Regionales y Estatales de ganadería, concediendo franquicias y premios para estimular a los productores; y
+XXX. Fomentar la investigación y las buenas prácticas pecuarias, en las actividades ganaderas, que deriven en la difusión y utilización de las técnicas y medidas que hagan más productivas y sustentables dichas actividades;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XXXI. Realizar Exposiciones Locales, Regionales y Estatales de ganadería, concediendo galardones y estímulos; y
 
 XXXII. Las demás que disponga la presente Ley y las leyes u ordenamientos que coadyuven al cumplimiento del objeto de la presente.
 
@@ -421,7 +515,9 @@ III. Verificar, previa autorización por la Secretaría y por conducto de un ins
 
 IV. Presentar las denuncias correspondientes por los delitos de los que formalmente tenga conocimiento, contemplados en la presente Ley y coadyuvar en su investigación y deslinde de responsabilidades;
 
-V. Coadyuvar con la Secretaría en el Registro Estatal de Fierros de Herrar en los términos previstos en la presente Ley; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+V. Coadyuvar a solicitud de la Secretaría en el Registro Estatal de Fierros de Herrar en los términos previstos en la presente Ley; y
 
 VI. Las demás que disponga la presente Ley y las leyes u ordenamientos que coadyuven al cumplimiento del objeto de la presente.
 
@@ -451,25 +547,39 @@ La propiedad originaria del ganado se adquiere y acredita de manera obligatoria,
 
 I. Ganado Mayor:
 
-a) En el caso de los bovinos de carne y equinos, con la marca del fierro de herrar sobre el ganado en los términos autorizados por la Secretaría, los fierros de herrar deberán tener las siguientes medidas: fierro 8.0 centímetros de altura por 12.0 centímetros de ancho; venta y marca 6.0 centímetros de altura por 7.0 centímetros de ancho. Se compondrán de letras, números y signos, pudiendo ser combinados entre sí, sin que contengan más de tres figuras y cuatro milímetros de grueso en la parte de la marca, pero sin rebasar los setenta centímetros lineales la figura del fierro. Se acredita por parte del criador mediante el certificado con el registro del fierro de herrar y señal de sangre autorizado y expedido por la Secretaría; y
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
-b) En el caso de los bovinos, con el identificador SINIDA colocado en la oreja del ganado. Se acredita por parte del criador con el registro de su unidad de producción pecuaria en el Padrón Ganadero Nacional y la numeración de los identificadores SINIDA asignados a la misma.
+a) En el caso de los bovinos y equinos, con la marca del fierro de herrar sobre el ganado en los términos autorizados por la Secretaría, los fierros de herrar deberán tener las siguientes medidas: fierro 8.0 centímetros de altura por 12.0 centímetros de ancho; venta y marca 6.0 centímetros de altura por 7.0 centímetros de ancho. Se compondrán de letras, números y signos, pudiendo ser combinados entre sí, sin que contengan más de tres figuras y cuatro milímetros de grueso en la parte de la marca, sin rebasar setenta centímetros lineales. Se acredita por parte del criador mediante el certificado con el registro del fierro de herrar y señal de sangre autorizado y expedido por la Secretaría;
 
-Asimismo, con la señal de sangre del ganado, en los términos autorizados por la Secretaría. Se acredita por parte del criador mediante el certificado con el registro del fierro de herrar y señal de sangre autorizado y expedido por la Secretaría. Toda señal de sangre deberá ir relacionada con un fierro de herrar;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+b) En el caso de los bovinos, además deberán contar con el identificador SINIDA colocado en la oreja del ganado. Se acredita por parte del criador con el registro de su unidad de producción pecuaria en el Padrón Ganadero Nacional y la numeración de los identificadores SINIDA asignados a la misma.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+Asimismo, será opcional la señal de sangre del ganado, en los términos autorizados por la Secretaría; y
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+c) Se acredita por parte del productor o poseedor del ganado con el registro de su Unidad de Producción Pecuaria en el Padrón Ganadero Nacional y la numeración de los identificadores SINIDA asignados a la misma, así como mediante el certificado con el registro del fierro de herrar y señal de sangre autorizado y expedido por la Secretaría;
 
 II. Ganado Menor:
 
-a) En el caso de los caprinos y ovinos, con la señal de sangre del ganado en los términos autorizados por la Secretaría. Se acredita por parte del criador mediante el certificado con el registro del fierro de herrar y la señal de sangre autorizado y expedido por la Secretaría. Sin que las cortadas o incisiones sean más de cinco y/o cubran una superficie mayor a la media oreja;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+a) En el caso de los caprinos y ovinos, con la señal de sangre del ganado en los términos autorizados por la Secretaría, además del tatuaje cuando el ganadero los registre. Se acredita por parte del criador mediante el certificado con el registro del fierro de herrar y la señal de sangre autorizado y expedido por la Secretaría. Sin que las cortadas o incisiones sean más de cinco y/o cubran una superficie mayor a la media oreja;
 
 b) En el caso de los caprinos y ovinos, con el identificador SINIDA. Se acredita por parte del criador con el registro de su unidad de producción pecuaria en el Padrón Ganadero Nacional y la numeración del identificador SINIDA; y
 
-c) En el caso de las colmenas, con la marca prevista en la Ley para el Fomento de la Apicultura en el Estado de Tamaulipas, la cual consistirá en el fierro de herrar en los términos autorizados por la Secretaría y que deberá tener unas dimensiones de 8.0 centímetros de altura por 12.0 centímetros de ancho; venta y marca 6.0 centímetros de altura por 7.0 centímetros de ancho. Se acredita por parte del criador mediante el certificado con el registro del fierro de herrar autorizado y expedido por la Secretaría.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+c) En el caso de las colmenas, con la marca prevista en la Ley para el Fomento de la Apicultura en el Estado de Tamaulipas, la cual consistirá en el fierro de herrar en los términos autorizados por la Secretaría y que deberá tener unas dimensiones de 8.0 centímetros de altura por 12.0 centímetros de ancho; venta y marca 6.0 centímetros de altura por 7.0 centímetros de ancho. Se acredita por parte del apicultor mediante el certificado con el registro del fierro de herrar autorizado y expedido por la Secretaría.
 
 En todos los casos, la utilización de identificadores electrónicos, tatuajes o cualquier otro medio, no será obligatoria sino optativa, de acuerdo a las necesidades y conveniencia de cada ganadero, por lo que su ausencia no producirá efecto legal alguno y su presencia únicamente constituirá indicio respecto de la propiedad del ganado, cuando se encuentre adminiculado o relacionado con alguna de las formas señaladas en este artículo y el artículo 21 de la presente Ley.
 
 Son obligatorios todos los requisitos de propiedad originaria y las formas de acreditarla previstos en el presente artículo.
 
-La marca será opcional por parte del productor siempre y cuando esté registrada ante la Secretaría, sin embargo, el ganadero que desee marcar sus animales con fierro de herrar en la etapa de vida del animal que no afecte su productividad, podrá realizarlo para acreditar la propiedad de los mismos, de forma complementaria al identificador SINIDA, previa colocación del mismo, siempre y cuando ambos elementos sean coincidentes en los registros que para tal efecto existan.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 20.
 
@@ -513,9 +623,11 @@ Cada ganadero en lo individual, sea persona física o moral, podrá tener solo u
 
 Una sola unidad de producción, puede albergar ganado marcado con diversos fierros de herrar, es decir, perteneciente a distintos dueños.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 27.
 
-Los criadores del ganado mayor deberán marcarlo con su fierro de herrar en su lado izquierdo.
+Los criadores de ganado mayor deberán marcarlo con su fierro de herrar en su lado izquierdo.
 
 Para el caso de las colmenas, éstas deberán ser marcadas al frente, mediante fierro caliente y/o placa de SINIDA, debiendo ser visibles cuando menos a dos metros de distancia.
 
@@ -537,9 +649,11 @@ Dicho registro incluirá el nombre, ubicación y georreferenciación del princip
 
 La información del registro de fierro de herrar será considerada como datos personales que constituyen información confidencial en los términos de la legislación respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 31.
 
-Las solicitudes de los ganaderos respecto de los registros de fierros de herrar, serán presentadas a la Secretaría, a través de los ayuntamientos de los municipios o las organizaciones ganaderas previstas en esta Ley, en donde se encuentre su unidad de producción o donde tenga su asiento principal, por conducto de quien ésta determine para tal efecto.
+Las solicitudes de los ganaderos respecto de los registros de fierros de herrar, serán presentadas en la Secretaría, en los ayuntamientos de los municipios o las organizaciones ganaderas previstas en esta Ley, en donde se encuentre su unidad de producción o donde tenga su asiento principal, por conducto de quien ésta determine para tal efecto.
 
 La Secretaría podrá celebrar convenios de colaboración para el registro de fierros de herrar con los Ayuntamientos u organizaciones ganaderas para que a través de éstos reciban las solicitudes de registro y realicen el trámite correspondiente.
 
@@ -549,29 +663,43 @@ Los requisitos que se requieren para la expedición, revalidación, traspaso o d
 
 I. Copia del dictamen de la prueba de tuberculina;
 
-II. Copia de la unidad de producción pecuaria actualizada;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+II. Copia del Registro de la unidad de producción pecuaria actualizada ante el Padrón Ganadero Nacional;
 
 III. Copia certificada de documento que acredite la propiedad del predio o posesión legal del mismo;
 
-IV. Copia de credencial de elector;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+IV. Copia de identificación oficial;
 
 V. Copia de la CURP;
 
-VI. Copia del registro de fierro anterior en caso de revalidación; y
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-VII. Los demás requisitos que determine la Secretaría para el cumplimiento de la presente ley.
+VI. Copia del registro de fierro anterior en caso de revalidación;
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+VII. Copia de comprobante de domicilio; y
+
+VIII. Los demás requisitos que determine la Secretaría para el cumplimiento de la presente ley.
 
 A fin de evitar duplicidades o inscripción de figuras de fácil alteración en el registro, cada solicitud de un nuevo registro, deberá contener tres propuestas de figura de fierro de herrar, y venta, a efecto de que la Secretaría resuelva de conformidad con el orden de prelación planteado. Si a consideración fundada y motivada de la Secretaría ninguna resulta procedente, deberá presentarse una nueva solicitud por parte de los ganaderos, permaneciendo válidos, cuando ya lo hubieren sido, los demás requisitos presentados con la solicitud rechazada.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+La Secretaría publicará de manera permanente en la página oficial los requisitos antes señalados.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 32.
 
-La Secretaría determinará, mediante acuerdo dictado por su titular y publicado en el Periódico Oficial del Estado, los requisitos para la expedición, revalidación, traspaso o cancelación de los registros de fierros de herrar y señales de sangre. Además, serán permanentemente publicados en la página oficial y portales de transparencia de la misma.
+Los solicitantes deberán cubrir el importe de los derechos correspondientes para la expedición del registro.
 
-Los solicitantes deberán cubrir el importe de los derechos correspondientes.
+Asimismo, los solicitantes podrán señalar en su escrito la persona a quien designan como su administrador, en caso de fallecimiento únicamente respecto del uso de su registro del fierro de herrar y señal de sangre. El sucesor no lo será respecto de la propiedad de los animales marcados con el mismo, la cual se determinará de conformidad con el derecho común.
 
-Asimismo, los solicitantes podrán señalar en su escrito la persona a quien designan como su administrador, en caso de fallecimiento únicamente respecto del uso de su registro del fierro de herrar y señal de sangre transcurrido el plazo de dos años previsto en el artículo 40 de la presente Ley. El sucesor no lo será respecto de la propiedad de los animales marcados con el mismo, la cual se determinará de conformidad con el derecho común.
-
-En caso de actualizarse lo previsto en el párrafo anterior, el uso indebido del registro de fierro de herrar y señal de sangre por parte del administrador traerá como consecuencia las responsabilidades civiles y penales correspondientes independientemente a las establecidas en esta Ley.
+En caso de actualizarse lo previsto en el párrafo anterior, el uso indebido del registro de fierro de herrar y señal de sangre por parte del administrador, traerá como consecuencia las responsabilidades civiles y penales correspondientes, independientemente a las establecidas en esta Ley.
 
 ###### Artículo 33.
 
@@ -583,15 +711,17 @@ Los registros de fierro de herrar y señal de sangre, solo podrán usarse cuando
 
 La Secretaría expedirá un documento de registro de fierro y venta que indique la figura de éstas, el nombre y domicilio del titular, número nombre y georreferenciación de su unidad de producción pecuaria, cantidad del ganado, fecha de alta y número de folio del registro.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 35.
 
-Los registros de fierro de herrar podrán ser traspasados por su titular a otra persona, únicamente cuando exista acuerdo de voluntad entre ambas partes, previa autorización por parte de la Secretaría una vez cumplidos los requisitos exigidos por la misma.
+Los registros de fierro de herrar podrán ser traspasados por su titular a otra persona, únicamente cuando exista acuerdo de voluntad entre ambas partes, expresado por escrito y avalado por testigos, previa autorización por parte de la Secretaría una vez cumplidos los requisitos exigidos por la misma.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 36.
 
-Para efectos de la presente Ley, el registro del fierro de herrar únicamente constituye la forma, en que una persona acredita la propiedad originaria sobre el ganado marcado con la figura registrada, por lo que la utilización de la figura registrada para otros fines de explotación económica, comercial o de cualquier tipo, se regirá de acuerdo con lo previsto en la normatividad aplicable. De la misma manera, las figuras inscritas en registros de patentes y marcas o de cualquier otro tipo para su explotación económica o comercial y que no se encuentren debidamente inscritas en el registro general de fierros de herrar operado por la Secretaría, no servirán para acreditar la propiedad del ganado marcado con las mismas.
-
-Por tanto, dicho registro no formará parte del patrimonio de la persona que aparezca como su titular, sino únicamente lo constituirán los animales marcados con el mismo, siempre y cuando se acredite su propiedad por cualquiera de los medios previstos por la Ley.
+Para efectos de la presente Ley, el registro del fierro de herrar únicamente constituye la forma, en que una persona acredita la propiedad sobre el ganado marcado con la figura registrada, la utilización de ésta para otros fines de explotación económica, comercial o de cualquier tipo, se regirá de acuerdo con lo previsto en la normatividad aplicable. Las figuras registradas ante otros organismos que no estén inscritas en el Registro de Fierros de Herrar operados por la Secretaría no tendrán derecho de propiedad, el ganado marcado con éstos deberá acreditarse por cualquiera de los medios previstos por la ley.
 
 ###### Artículo 37.
 
@@ -635,9 +765,11 @@ XV. Cuando el titular haya sido sancionado administrativamente por más de tres 
 
 La cancelación del registro de fierro de herrar se iniciará de oficio o a petición de parte interesada mediante escrito libre, donde mencione sus datos generales y los motivos de la cancelación, debiendo entregar el documento original de registro de fierro de herrar o copia certificada expedida por la Secretaría y se determinará la procedencia por parte de la misma una vez desahogado el procedimiento administrativo respectivo, dándose cumplimiento a la garantía de audiencia.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 40.
 
-En caso de cancelación de un registro de fierro de herrar por cualquier motivo, la Secretaría no expedirá a terceras personas registros de fierros de herrar y señal de sangre con esas figuras y señales, durante un periodo de cinco años contados a partir de la fecha de la última revalidación. Únicamente en los casos de cancelación del registro por fallecimiento del titular, falta de revalidación, propia voluntad y traspaso, éste plazo será de dos años y se podrá estar a lo previsto en el artículo siguiente.
+En caso de cancelación de un registro de fierro de herrar por cualquier motivo, la Secretaría no expedirá a terceras personas registros de fierros de herrar y señal de sangre con esas figuras y señales. Únicamente en los casos de cancelación del registro por fallecimiento del titular, falta de revalidación, propia voluntad y traspaso, éste plazo será de dos años y se podrá estar a lo previsto en el artículo siguiente.
 
 ###### Artículo 41.
 
@@ -657,9 +789,11 @@ Una vez transcurrido el primer año posterior a la cancelación del registro, se
 
 Toda persona que utilice fierros de herrar, señales de sangre, identificadores SINIDA o cualquier otro medio de identificación y acreditación de la propiedad del ganado registrado ante la Secretaría, sin el consentimiento del titular, será sancionado en los términos señalados en el capítulo de sanciones administrativas de la presente Ley, y en su caso, por los delitos previstos en el Código Penal para el Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 44.
 
-Cuando se deje de usar en forma definitiva el fierro de herrar que se hubiese registrado conforme a esta Ley, se dará aviso de este hecho, en un plazo no mayor a treinta días hábiles, a la autoridad municipal del lugar y ésta a su vez lo notificará a la Secretaría para que se proceda a su cancelación.
+Cuando se deje de usar en forma definitiva el fierro de herrar que se hubiese registrado conforme a esta Ley, el propietario dará aviso de este hecho, a la autoridad municipal del lugar y ésta a su vez lo notificará a la Secretaría para que se proceda a su cancelación.
 
 ###### Artículo 45.
 
@@ -671,9 +805,11 @@ Los traspasos del fierro de herrar que no hayan sido autorizados por la Secretar
 
 La propiedad del ganado se transmite en la forma prevista por el artículo 21 de esta Ley, debiendo en todos los casos, hacerse constar en el instrumento y acompañarse al mismo, la identificación de las partes mediante los documentos que la Ley prevé para tal efecto, de forma oficial y que deberá, cuando menos, contener su nombre, domicilio y fotografía.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 47.
 
-La propiedad de las pieles del ganado se acredita con la declaración de degüello firmada por el médico veterinario o el administrador del rastro y previa cancelación del documento que acredite la propiedad, el cual deberá conservarse en la administración del rastro. La declaración quedará en posesión del propietario del animal sacrificado.
+La propiedad de las pieles del ganado se acredita con la declaración del sacrificio firmada por el médico veterinario o el administrador del rastro y previa cancelación del documento que acredite la propiedad, el cual deberá conservarse en la administración del rastro. La declaración quedará en posesión del propietario del animal sacrificado.
 
 ###### Artículo 48.
 
@@ -729,7 +865,9 @@ III. El que tenga fierro o señal que no sea posible identificar, así como todo
 
 IV. El ganado identificado que en forma reiterada, es decir, en por lo menos tres ocasiones, aparezca en la vía pública y sea oficialmente retenido por alguna autoridad para su control; y
 
-V. El que sea retenido como parte de un procedimiento administrativo, asegurado por alguna autoridad judicial o como parte de una carpeta de investigación penal y que caiga en cualquiera de los supuestos previstos en las fracciones anteriores.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+V. El que sea asegurado por alguna autoridad judicial o como parte de una carpeta de investigación penal y que caiga en cualquiera de los supuestos previstos en las fracciones anteriores.
 
 ###### Artículo 57.
 
@@ -743,9 +881,11 @@ Si la Secretaría, sus auxiliares, alguna otra autoridad o cualquier persona ide
 
 Si el propietario no atiende la notificación, o acudiendo ante la autoridad se niega a pagar los gastos ocasionados por el ganado, se procederá a la venta del mismo en los términos del artículo siguiente, poniéndose el producto resultante a disposición del propietario, luego de descontar los gastos que se hubiesen realizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 59.
 
-Si no se identifica al propietario del ganado, la autoridad municipal dentro de un plazo de quince días naturales, a partir de aquél en que se haya recibido el aviso previsto en el artículo 57 de esta Ley, comunicará a la Secretaría el inicio del proceso de remate del ganado en subasta pública, a fin de que de manera conjunta desahoguen dicho procedimiento, fijando de inicio el precio base y observando para ello las siguientes reglas:
+Cuando no se identifique al propietario del ganado, la autoridad municipal dentro de un plazo de quince días naturales, a partir de aquél en que se haya recibido el aviso previsto en el artículo 57 de esta Ley, comunicará a la Secretaría el inicio del proceso de remate del ganado en subasta pública, a fin de que de manera conjunta desahoguen dicho procedimiento, fijando de inicio el precio base y observando para ello las siguientes reglas:
 
 I. La Secretaría ordenará un avalúo del ganado, el cual será realizado por dos peritos oficiales autorizados por la misma como auxiliares para tal efecto;
 
@@ -775,6 +915,12 @@ La autoridad municipal llevará un registro de animales mostrencos, en el que se
 
 En caso de extravío de semovientes, el interesado o quien legalmente lo represente, dará aviso a la autoridad municipal y a la Secretaría, proporcionando las características de identificación de los animales.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+###### Artículo 62 Bis.
+
+El ganado mostrenco que sea detectado en movilización o derivado de una retención por parte de los inspectores de ganadería, no podrá entrar en el procedimiento establecido en el presente capitulo.
+
 ### CAPÍTULO CUARTO. DE LOS PREDIOS GANADEROS Y LAS VÍAS PECUARIAS
 
 ###### Artículo 63.
@@ -785,9 +931,11 @@ Se declara de orden público la conservación y el mejoramiento de los pastos na
 
 Para efectos de esta Ley, se consideran predios ganaderos las extensiones de terrenos de agostadero de propietarios particulares y de los ejidos, incluidas las instalaciones albergadas en ellos, cuyo uso se destinará preferentemente al aprovechamiento de los recursos naturales como medio de alimentación para fines de la cría y explotación animal, considerando aquellos casos en que las leyes permitan un uso parcial diverso de los terrenos.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 65.
 
-Los ganaderos, pequeños propietarios o ejidatarios, que tengan en explotación pastizales naturales, procurarán cumplir con los coeficientes de agostaderos y las buenas prácticas de manejo evitando el sobrepastoreo y la erosión del suelo, determinadas por las autoridades competentes, por los auxiliares o por los centros de estudio e investigación, los cuales deberán ser oficializados por la Secretaría. Asimismo, deberán implementar medidas de sanidad animal de forma permanente a fin de prevenir y atacar enfermedades propias del ganado.
+Los ganaderos, pequeños propietarios o ejidatarios, que tengan en explotación pastizales naturales, procurarán cumplir con los coeficientes de agostaderos y las buenas prácticas de manejo evitando el sobrepastoreo y la erosión del suelo, determinadas por las autoridades competentes, por los auxiliares o por los centros de estudio e investigación, los cuales deberán ser oficializados por la Secretaría. Asimismo, deberán implementar medidas de sanidad animal de forma permanente a fin de prevenir y controlar enfermedades propias del ganado.
 
 ###### Artículo 66.
 
@@ -917,11 +1065,15 @@ Son facultades y obligaciones de los inspectores de ganadería:
 
 I. Verificar el cumplimiento de las disposiciones establecidas en la presente Ley, por parte de los sujetos obligados de la misma;
 
-II. Expedir y cancelar guías de tránsito;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+II. Expedir y cancelar el REEMO;
 
 III. Levantar actas circunstanciadas respecto de los hechos que representen transgresiones a las disposiciones previstas en la presente Ley y remitirlas de inmediato y sin excepción a la Secretaría;
 
-IV. Detener hasta por doce horas el ganado, sus productos y subproductos, que se hallen en tránsito o en cualquiera de los sitios señalados en el artículo 83 de la presente Ley, y en su caso, retornar el ganado a un punto de verificación reconocido por la Secretaría únicamente en los casos en que después de realizada una inspección haya levantado un acta circunstanciada por transgresiones administrativas graves o por la posible comisión de algún delito;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+IV. Detener hasta por cuarenta y ocho horas el ganado, sus productos y subproductos, que se hallen en tránsito o en cualquiera de los sitios señalados en el artículo 81 de la presente Ley, y en su caso, retornar el ganado a un punto de verificación reconocido por la SADER únicamente en los casos en que después de realizada una inspección haya levantado un acta circunstanciada por transgresiones administrativas graves o por la posible comisión de algún delito;
 
 V. Supervisar que el sacrificio del ganado mayor y menor, se realice únicamente en establecimientos autorizados para tal efecto, previa comprobación y acreditación de los requisitos de propiedad y de movilización del ganado a sacrificar;
 
@@ -985,21 +1137,27 @@ En caso de que los inspectores o sus auxiliares falten a lo dispuesto por el pre
 
 Los ganaderos y todos aquellos sujetos de la presente Ley, en todo caso estarán obligados a someterse a las revisiones e inspecciones en las formas y lugares previstos en la presente Ley y presentar la documentación correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 91.
 
-Es responsabilidad de los inspectores de ganadería o sus auxiliares, verificar y cotejar las marcas, identificadores SINIDA y demás características de los animales, antes de expedir guías de tránsito. Los ganaderos deberán presentar sus animales en los lugares dispuestos para tal efecto y atender las solicitudes que para su verificación les hagan los inspectores de ganadería.
+Es responsabilidad de los inspectores de ganadería o sus auxiliares, verificar y cotejar las marcas, aretes y demás características de los animales, antes de expedir el REEMO. Los ganaderos deberán presentar sus animales en los lugares dispuestos para tal efecto y atender las solicitudes que para su verificación les hagan los inspectores de ganadería.
 
 ###### Artículo 92.
 
 Tratándose del ganado comprado a otro ganadero y que por tanto no cuente con la marca del fierro de herrar del adquirente, el inspector o su auxiliar deberá verificar lo señalado en los artículos 21 y 46 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 93.
 
-En todos los casos, las guías de tránsito deberán asentar los datos de la unidad de producción o de prestación de servicios de ganadería de origen y destino del ganado.
+En todos los casos, el REEMO deberá asentar los datos de la unidad de producción o de prestación de servicios de ganadería de origen y destino del ganado.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 94.
 
-El inspector de ganadería cancelará las guías de tránsito cuando el ganado llegue a sacrificio o salga del Estado, asentando la fecha, firma y sello correspondiente.
+El inspector de ganadería cancelará el REEMO cuando la documentación no corresponda a la emitida y/o cuando no se realice la movilización.
 
 ###### Artículo 95.
 
@@ -1085,21 +1243,25 @@ La Secretaría y las autoridades o auxiliares, que la misma autorice para tal ef
 
 Para la movilización de colmenas se atenderá a lo que resulte aplicable en esta Ley y en la Ley para el Fomento de la Apicultura en el Estado de Tamaulipas.
 
-Para tal efecto, vigilará la operación de los puntos de inspección y verificación instalados, puntos de expedición y ruta pecuaria en las ubicaciones determinadas por la Secretaría, en coordinación con las autoridades federales competentes, así como de los filtros de revisión móviles dispuestos en las vías pecuarias que se designen.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
-Es obligación de los ganaderos y movilizadores detenerse en los puntos de verificación e inspección, puntos de expedición y ruta pecuaria y en los filtros de revisión instalados por la Secretaría o sus auxiliares, o en su caso por la Policía del Estado, para poner a su ganado a disposición de los inspectores de ganadería o sus auxiliares a efecto de que revisen la documentación y los animales movilizados.
+Para tal efecto, vigilará la operación de los puntos de inspección y verificación instalados, puntos de expedición y ruta pecuaria, en coordinación con las autoridades federales competentes, así como de los filtros de revisión móviles dispuestos en las vías pecuarias que se designen.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+Es obligación de los ganaderos y transportistas detenerse en los puntos de verificación e inspección, puntos de expedición y ruta pecuaria y en los filtros de revisión instalados en coordinación con las autoridades federales competentes, para la revisión física y documental de su ganado, por parte de los inspectores de ganadería o sus auxiliares, pudiendo en su caso, solicitar el apoyo de la Guardia Estatal.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 107.
 
-Toda movilización del ganado en el interior del Estado, deberá ampararse bajo una guía de tránsito, previo pago de derechos correspondientes. En dichos documentos deben asentarse los datos oficiales de la unidad de producción pecuaria o de prestación de servicios de ganadería de origen y destino, así como el fierro de herrar, señal de sangre, identificador SINIDA y una descripción de las características del ganado y del vehículo donde se moviliza.
+Toda movilización del ganado en el interior del Estado, deberá ampararse bajo los requisitos señalados por la normatividad aplicable.
 
-Se exceptuará la marca de venta para ganado de exportación y ganado de registro.
-
-Quien asiente datos falsos o altere, falsifique o simule los documentos previstos en este artículo, para la movilización del ganado o sustituya los animales una vez que le sean expedidos tales documentos, será sancionado en los términos señalados en la misma.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 108.
 
-Las guías de tránsito serán emitidas en los puntos de inspección u organizaciones ganaderas previstas en esta Ley, y podrán expedirse con la misma validez en su modalidad ordinaria, es decir, llenado el formato de manera manuscrita o en su modalidad electrónica.
+El REEMO será emitido por los inspectores de ganadería, punto de expedición y de ruta pecuaria, punto de verificación o sus auxiliares y podrán expedirse con la misma validez en su modalidad ordinaria, es decir, llenado el formato de manera manuscrita o en su modalidad electrónica.
 
 La Secretaría implementará mecanismos de control de la expedición, uso, destino, clasificación, información y archivo de las guías de tránsito en sus dos modalidades, llevando una supervisión permanente de los registros que al respecto posea o de los que sus auxiliares le informen bimestralmente.
 
@@ -1117,31 +1279,39 @@ Las movilizaciones del ganado deberán realizarse utilizando un fleje oficial em
 
 La Secretaría supervisará la utilización de los flejes, y dichos materiales podrán ser entregados, instalados y retirados por los auxiliares, en los términos que aquella le autorice.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 112.
 
-Todas las guías de tránsito deberán ser firmadas por el inspector de ganadería de la Secretaría o por los auxiliares autorizados para tal efecto y por el titular de la unidad de producción pecuaria o de prestación de servicios de ganadería de origen o su representante legal, y por el movilizador, en su caso.
+Todos los REEMOS deberán ser firmados por el inspector de ganadería de la Secretaría, por los puntos de expedición y de ruta pecuaria y/o por los auxiliares autorizados para tal efecto.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 113.
 
-La guía de tránsito tendrá una vigencia de siete días naturales a partir de la fecha de su expedición. Las movilizaciones que se realicen estando vencido el documento señalado, se considerarán irregulares y serán sancionados en los términos previstos por la presente Ley.
+El REEMO tendrá una vigencia de cinco días naturales a partir de la fecha de su expedición. Las movilizaciones que se realicen estando vencido el documento señalado, se considerarán irregulares y serán sancionados en los términos previstos por la presente Ley.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 114.
 
-La Secretaría sancionará administrativamente, a toda persona que proporcione o asiente datos falsos en las guías de tránsito, sin perjuicio de las responsabilidades penales en que pudiera incurrir.
+La Secretaría sancionará administrativamente, a toda persona que proporcione o asiente datos falsos en el REEMO sin perjuicio de las responsabilidades penales en que pudiera incurrir.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 115.
 
-La expedición de la guía de tránsito en la entidad, deberá cubrirse conforme al pago de derechos correspondientes.
+La expedición del REEMO en la entidad, deberá cubrirse conforme al pago de derechos que establezca la Ley de Ingresos para el Estado de Tamaulipas del ejercicio fiscal que corresponda, en la Ley de Hacienda para el Estado de Tamaulipas o demás leyes estatales aplicables.
 
-Para la expedición de las guías de tránsito, la Secretaría podrá celebrar convenios de colaboración con la organización ganadera reconocida en esta Ley, en donde se establecerán los derechos y obligaciones de las partes, así como el cobro por la prestación de dicho servicio y mecanismos de distribución de éste.
-
-En lo que corresponde al cobro del servicio de las guías referidas en el párrafo anterior por parte de la organización ganadera será de acuerdo a lo que estas determinen.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 116.
 
-Para la expedición de guías de tránsito, los interesados deberán cubrir los siguientes requisitos:
+Para la expedición del REEMO, los interesados deberán cubrir los siguientes requisitos:
 
-I. Acreditar la propiedad del ganado que vaya a movilizarse con contrato de traslación de dominio, factura o comprobante fiscal digital, con dibujo de fierro de origen, marca de fuego, de fierro en el animal, identificador SINIDA y registro de fierro;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+I. Acreditar la propiedad del ganado que vaya a movilizarse con contrato de traslación de dominio, factura o comprobante fiscal digital, con dibujo de fierro de origen, marca de fierro en el animal, identificador SINIDA y registro de fierro;
 
 II. Facilitar el desahogo de la inspección del ganado a movilizarse;
 
@@ -1149,25 +1319,35 @@ III. Acreditar la unidad de producción pecuaria o de prestación de servicios d
 
 IV. Obtener la certificación que se establece en el artículo 13 de la Ley de Organizaciones Ganaderas; y
 
-V. Pagar los derechos correspondientes y exhibir el comprobante.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+V. Pagar los derechos correspondientes, o en su caso exhibir el comprobante.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 117.
 
-Las guías de tránsito estarán foliadas progresivamente y se extenderán en las oficinas de la Secretaría o de sus auxiliares autorizados, para tal efecto.
+Los REEMOS estarán foliados progresivamente y se extenderán en las oficinas de la Secretaría, Centros Expeditores y/o de sus auxiliares autorizados, para tal efecto.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 118.
 
-Los inspectores de ganadería de la Secretaría, las organizaciones ganaderas previstas en esta Ley, y los auxiliares, podrán expedir guías de tránsito para todo el territorio de la entidad.
+Los inspectores de ganadería de la Secretaría, Centros Expeditores y/o sus auxiliares autorizados, podrán expedir los REEMOS para todo el territorio de la entidad.
 
-Los inspectores de ganadería y sus auxiliares solicitarán a los movilizadores el comprobante del pago de derechos original, realizado para la emisión de la guía de tránsito.
+Los inspectores de ganadería, Centros Expeditores y/o sus auxiliares solicitarán a los transportistas el comprobante del pago de derechos original, realizado para la emisión del REEMO.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 119.
 
-Cuando no se utilice una guía de tránsito, deberá informarse de inmediato a la instancia que la haya expedido, a efecto de su cancelación, misma que deberá ser informada a la brevedad a la Secretaría.
+Cuando no se utilice el REEMO, el interesado deberá informar de inmediato a la instancia que la haya expedido, a efecto de su cancelación, misma que deberá ser informada a la brevedad a la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 120.
 
-Las guías de tránsito se expedirán por triplicado y se distribuirán de la siguiente manera:
+El REEMO se expedirá por triplicado y se distribuirán de la siguiente manera:
 
 I. Original, para el propietario movilizador;
 
@@ -1175,9 +1355,11 @@ II. Primera copia, para la autoridad o auxiliar que la haya expedido; y
 
 III. Segunda copia, para la Secretaría.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 121.
 
-Toda Guía de Tránsito causará cancelación de manera automática al llegar a su destino o al término de su vigencia.
+El REEMO quedará sin efecto al llegar el ganado al destino señalado en la misma, previa inspección y cotejo de los datos señalados.
 
 ###### Artículo 122.
 
@@ -1185,23 +1367,31 @@ La Secretaría podrá restringir o impedir temporalmente la movilización de ani
 
 La Secretaría podrá aplicar las medidas de seguridad previstas en la presente ley en caso de actualizarse tal prohibición.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 123.
 
-Si por caso fortuito o fuerza mayor el ganado no llega a su lugar de destino, el propietario o conductor deberá presentarse ante el inspector de ganadería de la zona donde quedó el ganado, quien previo cumplimiento de los requisitos legales podrá cancelar la guía de tránsito, expresando las razones que justifiquen dicha medida.
+Si por caso fortuito o fuerza mayor el ganado no llega a su lugar de destino, el propietario o transportista deberá presentarse ante el inspector de ganadería de la zona donde quedó el ganado, quien previo cumplimiento de los requisitos legales podrá cancelar el REEMO, expresando las razones que justifiquen dicha medida.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 124.
 
-En los casos de movilización del ganado destinado a sacrificio, la guía de tránsito original se entregará al inspector autorizado asignado al rastro, o en su defecto, al administrador del mismo. Tanto éste como aquél, al presentar sus informes a la Secretaría, deberán adjuntar las guías de tránsito.
+En los casos de movilización del ganado destinado a sacrificio, el REEMO original se entregará al inspector autorizado asignado al rastro o establecimiento de sacrificio, o en su defecto, al administrador del mismo. Tanto éste como aquél, al presentar sus informes a la Secretaría, deberán adjuntarlo.
 
-En caso de que se detecten inconsistencias o irregularidades en las movilizaciones en la introducción del ganado a rastro, se cancelará su sacrificio y se inmovilizará por el inspector hasta por doce horas, levantará un acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes o de ejercer la acción legal respectiva, en caso de que existan indicios de conductas delictivas.
+En caso de que se detecten inconsistencias o irregularidades en las movilizaciones en la introducción de ganado a rastro y/o establecimiento de sacrificio, se cancelará su sacrificio y se inmovilizará por el inspector hasta por doce horas, levantará un acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes o de ejercer la acción legal respectiva, en caso de que existan indicios de conductas delictivas.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 125.
 
-En caso de movilización del ganado en dos o más vehículos o unidades de transporte, se deberá utilizar una guía de tránsito por cada uno de los vehículos. En caso de que en un mismo vehículo se transporte ganado con diferentes fierros se podrá utilizar una sola guía de tránsito.
+En caso de movilización de ganado en dos o más vehículos o unidades de transporte, se deberá utilizar el REEMO por cada uno de los vehículos. En caso de que en un mismo vehículo se transporte ganado con diferentes fierros se podrá utilizar un REEMO, en aquellos casos en donde el origen sea un PSG.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 126.
 
-En caso de que los inspectores detecten alteraciones en una guía de tránsito o en su correspondencia con el ganado movilizado, cancelará el documento e inmovilizará el ganado hasta por doce horas, levantará un acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes.
+En caso de que los inspectores detecten alteraciones en el REEMO o en su correspondencia con el ganado movilizado, cancelará el documento e inmovilizará el ganado hasta por doce horas, levantará un acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes.
 
 ###### Artículo 127.
 
@@ -1209,13 +1399,17 @@ Los elementos de policía que por autorización de la Secretaría realicen funci
 
 En caso de que en el ejercicio de tales funciones, los elementos policiacos encuentren la posible comisión de un delito por no acreditarse plenamente la propiedad del ganado, por la posible falsificación de los documentos presentados o por cualquier otra irregularidad que consideren necesario, deberán informar de inmediato al inspector de ganadería y pondrán a disposición del Ministerio Público a los detenidos, el ganado, los vehículos y cualquier otro objeto asegurado, si los hubiere, en los términos previstos por la legislación aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 128.
 
-En caso de que los sujetos obligados de la presente Ley, incumplan con los requisitos de movilización del ganado, pero acrediten la propiedad mediante todos los requisitos previstos por esta Ley, el inspector de ganadería levantará el acta circunstanciada correspondiente con todos los datos de identificación del movilizador, de los animales y del vehículo y remitirá al movilizador a el centro expeditor de guías que le corresponda, a fin de que regularice su movilización.
+En caso de que los sujetos obligados de la presente Ley, incumplan con alguno de los requisitos establecidos para la movilización de ganado, el inspector de ganadería levantará el acta correspondiente con todos los datos de identificación del transportista, de los animales y del vehículo y remitirá al transportista a la autoridad correspondiente de acuerdo con el hecho, a fin de que regularice su movilización.
 
 Si incumplen con los requisitos de movilización, pero acreditan la propiedad del ganado solo mediante alguno de los requisitos previstos por esta Ley, el inspector de ganadería podrá inmovilizar el ganado hasta por doce horas, levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes.
 
-Si incumplen con los requisitos de movilización y no acreditan la propiedad del ganado mediante ninguno de los requisitos previstos por esta Ley, el inspector de ganadería deberá inmovilizar el ganado hasta por doce horas, levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo, dictar las medidas de seguridad correspondientes y presentar la denuncia correspondiente por la posible comisión de un delito.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+Si incumplen con los requisitos de movilización y no acreditan la propiedad del ganado mediante ninguno de los requisitos previstos por esta Ley, el inspector de ganadería deberá inmovilizar el ganado hasta por cuarenta y ocho horas, levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo, dictar las medidas de seguridad correspondientes y presentar la denuncia correspondiente por la posible comisión de un delito.
 
 ###### Artículo 129.
 
@@ -1229,19 +1423,23 @@ A solicitud del interesado, la Secretaría por conducto del inspector de ganader
 
 La alteración, falsificación, simulación de hechos o documentos relativos a la certificación señalada en el presente artículo o en cualquier trámite en que intervenga la Secretaría o sus auxiliares relativo a la exportación del ganado, así como la sustitución de animales que haya sido objeto de los mismos, será sancionado administrativa y penalmente en los términos de la presente Ley, sin perjuicio de la responsabilidad civil en que se incurra.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 131.
 
-Toda persona que transmita la propiedad del ganado que se encuentre en su unidad de producción pecuaria o de prestación de servicios de ganadería deberá suscribir la guía de tránsito con destino a la del comprador o nuevo dueño, perfeccionando con esto la transmisión de la propiedad.
+Toda persona que trasfiera la propiedad de ganado deberá entregar el REEMO expedido por el inspector y/o centro expeditor del comprador o nuevo propietario, perfeccionando con esto la trasferencia de la propiedad.
 
 ### CAPÍTULO CUARTO. DE LA INTERNACIÓN Y LA SALIDA DEL ESTADO DEL GANADO, SUS PRODUCTOS Y SUBPRODUCTOS
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 132.
 
-Para la entrada y salida del Estado del ganado será necesaria la autorización previa, por parte de la Secretaría o el auxiliar, que para tal efecto designe mediante el permiso de internación correspondiente, además de la guía de tránsito emitida por la misma, sin perjuicio del cumplimiento de los requisitos sanitarios federales de movilización.
+Para ingresar al Estado por cualquier motivo, todas las especies deberán cumplir con los requisitos zoosanitarios correspondientes, en los casos que corresponda, deberán portar el dispositivo de identificador SINIDA y proceder de una Unidad de Producción Pecuaria o prestación de Servicios Ganaderos vigente al momento de ingresar al Estado.
 
-Todo ganado mayor, menor, aves de corral y especies diversas, que ingresen al Estado por cualquier motivo, deberán estar previamente identificados por lo menos, con el identificador SINIDA y tener origen en una unidad de producción pecuaria o de prestación de servicios de ganadería vigente al momento del ingreso al Estado.
+Todo ganado bovino y colmenas que ingresen al Estado por cualquier motivo, deberán estar previamente identificados, en su caso con el arete identificador SINIDA, REEMO de origen y documentación sanitaria reglamentada por la Secretaría.
 
-A fin de homologar los requisitos de movilización en regiones ganaderas interestatales, la Secretaría, mediante acuerdo fundado y motivado publicado en el Periódico Oficial del Estado y convenio de coordinación, podrá reconocer los documentos y requisitos de movilización de similar naturaleza a los previstos en la presente Ley, contemplados en legislaciones de estados colindantes, siempre y cuando el origen, tránsito y destino de los animales sea una zona de igual estatus o condición sanitaria, sin perjuicio de que los mismos se encuentren en dos entidades federativas distintas. En tales casos, no serán necesarios los permisos de internación y salida previstos en el presente artículo.
+La Secretaría, mediante las disposiciones sanitarias vigentes y el convenio de coordinación, podrá reconocer los documentos y requisitos de movilización de similar naturaleza a los previstos en la presente Ley, contemplados en legislaciones de los diferentes Estados, sin perjuicio de que los mismos se encuentren en dos entidades federativas distintas.
 
 ###### Artículo 133.
 
@@ -1251,9 +1449,11 @@ Como medida de prevención, el inspector de ganadería autorizado deberá evalua
 
 Asimismo, validará de manera fehaciente con el titular de la unidad de producción o de prestación de servicios de ganadería de destino en el Estado, la veracidad de la recepción y la conformidad en el número y tipo del ganado que pretende internarse en el mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 134.
 
-Las personas a quienes se les haya autorizado y emitido un permiso de internación, deberán cumplir los lineamientos y condiciones sanitarios y de movilización señalados en los mismos y deberán permitir en cualquier momento la inspección y verificación de su cumplimiento por parte de los inspectores de ganadería.
+Las personas a quienes se les haya autorizado y emitido un permiso de internación, deberán cumplir los lineamientos y condiciones zoosanitarias y de movilización señalados en los mismos y deberán permitir en cualquier momento la inspección y verificación de su cumplimiento por parte de los inspectores de ganadería.
 
 En caso de que la autorización sea favorable, para la introducción del ganado proveniente de zonas con menor situación zoosanitaria a la que se presente en el Estado de Tamaulipas, el solicitante deberá realizar el pago de derechos correspondientes para el seguimiento epidemiológico del ganado, aves de corral y especies diversas a ingresar, el cual será realizado por el personal autorizado por la Secretaría.
 
@@ -1279,9 +1479,11 @@ VII. Los demás que establezca el permiso de internación.
 
 Para el caso de las salidas del ganado del Estado, el permiso de internación corresponde al requerido por la entidad federativa de destino, en su caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 136.
 
-Las internaciones y salidas del ganado, para los efectos del artículo anterior, solo podrán realizarse en los puntos autorizados por la Secretaría.
+Las internaciones y salidas del ganado, el titular del permiso o la persona designada por él para tal efecto, deberá exhibir los requerimientos señalados en la normatividad aplicable y demás acuerdos aplicables, así como en el convenio de coordinación entre la federación y el Estado.
 
 El ganado en tránsito por el Estado no requerirá el permiso de internación de la Secretaría, solo será verificada la permanencia de su fleje y, en su caso, el cumplimiento de los requisitos sanitarios federales.
 
@@ -1293,11 +1495,15 @@ Los permisos de internación del ganado, sus productos y subproductos, son perso
 
 El permiso de internación tendrá una vigencia de cinco días a partir de su expedición. En caso de que no se realice la movilización, el titular del permiso deberá dar aviso a la Secretaría o a la instancia auxiliar para la cancelación del mismo quienes tomarán las medidas necesarias para su inutilización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 139.
 
-En caso de introducción del ganado, sus productos y subproductos que se introduzcan al Estado, sin contar con el permiso de internación correspondiente, o contando con uno alterado, cancelado o que no corresponda a su titular o a los animales movilizados, o que su internación sea realizada en lugar distinto a los autorizados por la Secretaría será inmovilizado hasta por doce horas por el inspector de ganadería o sus auxiliares, quien levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes.
+En caso de introducción del ganado, sus productos y subproductos que no cuenten con el permiso de internación correspondiente, o contando con uno alterado, cancelado o que no corresponda a su titular o a los animales movilizados, o que su internación sea realizada en lugar distinto a los autorizados por la Secretaría será inmovilizado hasta por doce horas por el inspector de ganadería o sus auxiliares, quien levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes.
 
-En caso de introducción del ganado, sus productos o subproductos, de procedencia ilegal por no acreditarse su propiedad, que se presuma enfermo o puedan causar enfermedades, con infestaciones, que ponga en riesgo la condición zoosanitaria, la salud pública o las actividades ganaderas en el mismo, el inspector de ganadería o sus auxiliares inmovilizarán el ganado hasta por doce horas, levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes y, a la policía, en caso de no acreditarse la propiedad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+En caso de introducción del ganado, sus productos o subproductos, de procedencia ilegal por no acreditarse su propiedad, que se presuma enfermo o puedan causar enfermedades, con infestaciones, que ponga en riesgo la condición zoosanitaria, la salud pública o las actividades ganaderas en el mismo, el inspector de ganadería o sus auxiliares inmovilizarán el ganado hasta por doce horas, levantará el acta circunstanciada y dará aviso de inmediato a la Secretaría, a efecto de dar inicio al procedimiento administrativo y dictar las medidas de seguridad correspondientes y, a la autoridad correspondiente, en caso de no acreditarse la propiedad.
 
 En todos los casos la Secretaría procederá administrativamente de conformidad con lo siguiente:
 
@@ -1315,9 +1521,11 @@ V. Si el propietario de los vehículos y de los animales acredita plenamente su 
 
 ### CAPÍTULO PRIMERO. DE LOS PRESTADORES DE SERVICIOS GANADEROS
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 140.
 
-Los prestadores de servicios ganaderos para operar deberán estar inscritos en el Padrón Ganadero Nacional y estar autorizados por la Secretaría, una vez cumplidos los requisitos que para tal efecto emita y sean publicados en el Periódico Oficial del Gobierno del Estado, entre los que se incluirá el pago de los derechos correspondientes.
+Los prestadores de servicios ganaderos para operar deberán estar inscritos en el Padrón Ganadero Nacional y estar autorizados por la Secretaría, una vez cumplidos los requisitos que para tal efecto emita, mismos que la Secretaría publicará en la página oficial y portales de transparencia.
 
 ###### Artículo 141.
 
@@ -1331,7 +1539,9 @@ La Secretaría llevará un registro, control y supervisión de los prestadores d
 
 Los prestadores de servicios ganaderos deberán contar con un sistema de registro de entradas y salidas del ganado, en el que de forma obligatoria e individual por animal deberán verificar, cotejar y asentar lo siguiente:
 
-I. Fecha de ingreso, número REEMO y Folio de Guía de Tránsito;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+I. Fecha de ingreso, número REEMO;
 
 II. Nombre y domicilio del introductor o movilizador del ganado y de los propietarios originarios o derivados, así como la unidad de producción, municipio y entidad federativa de origen de los animales;
 
@@ -1343,13 +1553,19 @@ V. La coincidencia en animales y documentos de las marcas de fierro de herrar, s
 
 VI. Especie, sexo y peso de los animales;
 
-VII. La guía de tránsito y su comprobante de pago de derechos;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+VII. El REEMO y su comprobante de pago de derechos;
 
 VIII. El certificado zoosanitario, en su caso;
 
-IX. Para los corrales de engorda y los centros de acopio en todas sus modalidades, estaciones cuarentenarias y comercializadoras, la hora fecha, el motivo, la guía de tránsito y en su caso, certificado zoosanitario, de la salida de los animales;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
 
-X. Para los rastros, la fecha de sacrificio, el peso de los animales una vez sacrificados y la guía de tránsito de salida de las canales; y
+IX. Para los corrales de engorda y los centros de acopio en todas sus modalidades, estaciones cuarentenarias y comercializadoras, la hora fecha, el motivo, el REEMO y en su caso, certificado zoosanitario, de la salida de los animales;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+X. Para los rastros o establecimientos de sacrificio, la fecha de sacrificio, el peso de los animales una vez sacrificados y el certificado zoosanitario de salida de las canales; y
 
 XI. Demás observaciones e incidencias que llegaren a presentarse de la llegada a la salida de los animales, o las canales en su caso.
 
@@ -1375,71 +1591,45 @@ Ante la presencia de tuberculosis en el ganado que se pretenda exportar o ante e
 
 ### CAPÍTULO SEGUNDO. DE LOS CORRALES DE ACOPIO PARA EXPORTACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 148.
 
-Los corrales de acopio para exportación ubicados en el Estado exclusivamente, podrán exportar ganado originario de Tamaulipas, aplicando las medidas zoosanitarias y documentales establecidas para la exportación.
+Los corrales de acopio para exportación ubicados en el Estado, podrán exportar exclusivamente ganado originario de Tamaulipas, aplicando las medidas zoosanitarias y documentales establecidas para la exportación.
 
 El propietario del ganado a exportar deberá presentar la documentación requerida conforme al estatus zoosanitario vigente.
 
 ###### Artículo 149.
 
-El propietario del ganado a exportar deberá presentar a la Secretaría, el contrato del corral celebrado con el MVRA ante SENASICA, quien será responsable del manejo y sanidad de los animales, mientras estén en el corral de acopio de exportación y de la verificación del cumplimiento del protocolo de exportación.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 150.
 
-Los propietarios de corrales de acopio para exportación deberán presentar informes mensuales electrónicos firmados y sellados por el MVRA a la Secretaría por conducto de la Subsecretaría de Desarrollo Pecuario y Forestal, el cual deberá contener todos los movimientos efectuados del ganado como los son ingresos, egresos, desechos y decesos.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 151.
 
-El MVRA deberá entregar los identificadores SINIDA de los decesos en el corral de acopio para exportación que corresponda al Inspector de Ganadería que determine la Secretaría.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 152.
 
-El propietario del corral de acopio para exportación deberá aplicar el protocolo vigente establecido para el tratamiento contra la garrapata del ganado bovino de exportación con la supervisión del MVRA que designó como responsable.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 153.
 
-El exportador deberá conservar bajo su resguardo, en la oficina designada dentro de las instalaciones de los corrales, la documentación correspondiente al ingreso de cada animal por un periodo de tres años, la cual consiste en:
-
-I. Contrato traslativo de dominio, o Factura o Comprobante Fiscal Digital;
-
-II. Tarjeta de identificación SINIDA;
-
-III. Guía de Transito expedida por el inspector de ganadería y verificación de ruta u organismos auxiliares ubicada en el municipio de origen;
-
-IV. Registro de fierro actualizado ante la Secretaría; y
-
-V. Dictamen de Barrido contra la Tuberculosis Bovina. No mayor a 10 meses en su caso.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 154.
 
-El propietario de los corrales de acopio para exportación deberá mantener en todo momento limpias las instalaciones e infraestructura de los corrales debiendo aplicar las siguientes medidas:
-
-I. Aplicar herbicida para mantener libre de maleza alrededor de los corrales;
-
-II. Asperjar ixodicida alrededor de los corrales con la periodicidad que recomiende la Secretaría, por medio de sus inspectores de ganadería; y
-
-III. Cualquier otra medida sanitaria que establezca la Secretaría.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 155.
 
-El propietario de los corrales de acopio para exportación, será responsable de la movilización del ganado en transporte flejado con un fleje proporcionado por la Secretaría desde el CAE, hasta las estaciones cuarentenarias para exportación.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 156.
 
-Sera causal para la cancelación del registro de corrales de acopio para exportación, las siguientes:
-
-I. Acopiar bovinos sin identificador SINIDA;
-
-II. Proporcionar información o documentación apócrifa a los inspectores de ganadería, para el otorgamiento del registro;
-
-III. Alterar las marcas de identificación, así como los documentos oficiales que acrediten la propiedad del origen del ganado; y
-
-IV. Contar con antecedentes de infracciones a la legislación aplicable en materia ganadera.
-
-La Secretaría analizará la gravedad de la infracción cometida, para efecto de determinar la procedencia o improcedencia del registro a que hace referencia este artículo.
-
-Para llevar a cabo dicho análisis se deberá solicitar la opinión de las autoridades competentes en la materia.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ### CAPÍTULO TERCERO. DEL SACRIFICIO DEL GANADO Y LOS RASTROS
 
@@ -1455,15 +1645,19 @@ La Secretaría, de conformidad con la presente Ley y previa solicitud de los Ayu
 
 Los administradores de los rastros deberán cumplir para su designación con los mismos requisitos que los inspectores de ganadería previstos en la presente Ley, a excepción de lo previsto en las fracciones III y V del artículo 85 esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 158.
 
-La Secretaría llevará un registro de los rastros en operación en el Estado, así como de sus administradores, inspectores auxiliares y demás personal que realice funciones propias de la presente Ley.
+La Secretaría llevará un registro de los rastros y establecimientos de sacrificio en operación en el Estado, así como de sus administradores, inspectores auxiliares y demás personal que realice funciones propias de la presente Ley.
 
-Los municipios y los representantes legales de los rastros en operación en el Estado deberán informar y actualizar anualmente, o antes, de ser el caso, sobre las personas y las funciones que realizan en los rastros con la documentación legal que les acredite en su desempeño.
+Los municipios y los representantes legales de los rastros y establecimientos de sacrificio en operación en el Estado deberán informar y actualizar anualmente, o antes, de ser el caso, sobre las personas y las funciones que realizan en los rastros con la documentación legal que les acredite en su desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 159.
 
-Para llevar a cabo el sacrificio, el propietario del ganado deberá presentar ante la administración del rastro los siguientes documentos:
+Para llevar a cabo el sacrificio, el propietario del ganado, introductor y/o comercializador, deberá presentar ante la administración del establecimiento de sacrificio rastro los siguientes documentos:
 
 I. Los que acrediten la propiedad de los animales en los términos previstos en la presente ley;
 
@@ -1499,19 +1693,25 @@ IV. Vigilar el cumplimiento de las Normas Oficias (sic) Mexicanas Sanitarias y l
 
 El médico veterinario autorizado como auxiliar por la Secretaría será responsable respecto de los actos u omisiones que resulten del desempeño de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 162.
 
-La movilización de los productos y subproductos del ganado sacrificado, deberá realizarse mediante la expedición de la guía de tránsito emitida por el inspector de ganadería o sus auxiliares, autorizados para tal efecto.
+La movilización de los productos y subproductos del ganado sacrificado, deberá realizarse mediante la expedición de la documentación correspondiente emitida por autoridad competente.
 
-Las guías de tránsito de productos de origen animal, se emitirá (sic) en la misma forma que las asignadas al tránsito del ganado, resultando igualmente obligatoria. Los productos movilizados deberán contener el sello autorizado del rastro correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 163.
 
 Los animales introducidos a rastro sin cumplir con los requisitos en la presente Ley, no podrán ser sacrificados.
 
-En caso de no cumplir con tales requisitos, el inspector de ganadería o el inspector auxiliar de ganadería, deberá levantar un acta circunstanciada de los hechos, dando aviso inmediato a la Secretaría a efecto de iniciar el procedimiento administrativo correspondiente y en su caso, dictar las medidas de seguridad.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
-En caso de que no se acredite la propiedad de los animales, el inspector de ganadería y/o el administrador del rastro deberán dar aviso a la policía y al Ministerio Público para que determinen lo que en derecho corresponda.
+En caso de no cumplir con los requisitos establecidos, el inspector de ganadería o el inspector auxiliar de ganadería, deberá levantar un acta circunstanciada de los hechos, dando aviso inmediato a la Secretaría a efecto de iniciar el procedimiento administrativo correspondiente y en su caso, dictar las medidas de seguridad.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+En caso de que no se acredite la propiedad de los animales, el inspector de ganadería y/o el administrador del rastro deberán dar aviso a la autoridad correspondiente para que determinen lo que en derecho corresponda.
 
 En caso de que derivado del procedimiento administrativo se subsane el incumplimiento atribuido, y en su caso, se demuestre la propiedad legal de los animales, se podrá iniciar de nueva cuenta el procedimiento de sacrificio previsto en la presente Ley.
 
@@ -1567,7 +1767,7 @@ La carne del ganado sacrificado fuera de la Entidad, que pretenda introducirse a
 
 ###### Artículo 172.
 
-El proceso de certificación del origen tamaulipeco de la carne del ganado, leche, huevo y subproductos se inicia en los predios ganaderos, avícolas y establos del Estado donde es producido el ganado y leche, incluyendo corrales de acopio, engorda, granjas, rastros, frigoríficos, almacenes, industriales lácteos y comercios.
+(DEROGADO, P.O. 17 DE JUNIO DE 2025)
 
 ###### Artículo 173.
 
@@ -1619,9 +1819,11 @@ La Secretaría establecerá puntos de control en las entradas del Estado sobre c
 
 No se podrán realizar movilizaciones del ganado cuando en la unidad de producción pecuaria, de prestación de servicios de ganadería o región de que se trate, se presente algún brote de enfermedades o plagas que afecten la sanidad del ganado, hasta en tanto no se hayan tomado las medidas sanitarias correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 183.
 
-El ganado que fallezca por causa de enfermedad, deberá ser incinerado controladamente por su propietario, de lo cual dará aviso inmediato al inspector de ganadería o a la autoridad municipal correspondiente. Cuando no sea posible su incineración completa, deberán sepultarse los restos y cenizas, cubriéndose totalmente con una capa de cal, a una profundidad no menor de metro y medio.
+Cuando la muerte de un animal se produzca por causa de enfermedad, deberá ser incinerado controladamente por su propietario, de lo cual dará aviso inmediato al inspector de ganadería o a la autoridad municipal correspondiente. Cuando no sea posible su incineración completa, deberán sepultarse los restos y cenizas, cubriéndose totalmente con una capa de cal, a una profundidad no menor de metro y medio.
 
 ###### Artículo 184.
 
@@ -1647,7 +1849,9 @@ Cuando se requiera despoblar una Unidad de Producción o de Prestación de Servi
 
 Para evitar la movilización del ganado, hasta en tanto se determina lo conducente, la Secretaría podrá solicitar el apoyo de la fuerza pública.
 
-En los casos de oposición a las medidas de seguridad dictadas por la Secretaría por parte del dueño del ganado o del propietario o poseedor, donde este se encuentre, la Secretaría podrá concentrar y controlar el ganado, a través de corridas en el predio de que se trate, sin perjuicio del inicio de procedimientos o presentación de denuncias para la imposición de las sanciones administrativas o penales que al efecto correspondan.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+En los casos de oposición a las medidas de seguridad dictadas por la Secretaría por parte del propietario, poseedor o transportista, donde este se encuentre, la Secretaría podrá concentrar y controlar el ganado, a través de corridas en el predio de que se trate, sin perjuicio del inicio de procedimientos o presentación de denuncias para la imposición de las sanciones administrativas o penales que al efecto correspondan.
 
 ###### Artículo 187.
 
@@ -1675,13 +1879,21 @@ VIII. La clausura y pérdida de registro del ganadero o prestador de servicios g
 
 IX. La intervención de la fuerza pública;
 
-X. La quema del ganado con la marca “CN” y la que corresponda al ganado mostrenco, de conformidad con esta Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+X. Marcar el ganado como "CN" en los casos en donde no se compruebe la legítima propiedad y procedencia u origen mediante documentación, identificadores oficiales y marcas de herrar del propietario y la que corresponda al ganado orejano y en los casos en donde su origen provenga de otro Estado sin acreditar su ingreso, lo cual será constatado previamente en el acta correspondiente elaborada por el Inspector de Ganadería, y en aquellos casos que represente un riesgo zoosanitario para el Estado;
 
 XI. La suspensión temporal de servidores públicos del ejercicio de su función, así como de las autorizaciones a los auxiliares de la Secretaría o de cualquier otra persona que realice actividades relacionadas con la ganadería en el Estado;
 
 XII. La suspensión definitiva e inhabilitación de servidores públicos en el ejercicio de su función, así como la cancelación de las autorizaciones a los auxiliares de la Secretaría o de cualquier otra persona que realice actividades relacionadas con la ganadería en el Estado; y
 
-XIII. Las demás que establezca esta Ley y las normas jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XIII. El decomiso de ganado, productos y subproductos; y
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+XIV. Las demás que establezca esta Ley y las normas aplicables.
 
 Las medidas de seguridad señaladas en este artículo, podrán dictarse antes, durante el desahogo y como parte de la resolución de un procedimiento administrativo sancionador o de responsabilidades administrativas, según sea el caso y de acuerdo a lo dispuesto por la presente Ley.
 
@@ -1703,7 +1915,9 @@ IV. Las demás que le confieran la presente Ley y las demás normas jurídicas a
 
 En los programas de apoyo o inversión a las actividades pecuarias tendrán prioridad los productores que observen las disposiciones sanitarias y de movilización emitidas por la autoridad competente, en coordinación con la Secretaría.
 
-Toda persona que introduzca al Estado, ganado enfermo o portador de plagas, o sin observar los procedimientos previstos para dicha introducción, o lo movilice dentro del Estado sin cumplir las disposiciones sanitarias, será excluida de los programas de apoyo gubernamentales, sin perjuicio de las sanciones a que se haga acreedor.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+Toda persona que introduzca al Estado, ganado enfermo o portador de plagas, y no observe los procedimientos previstos para la introducción, o lo movilice dentro del Estado sin cumplir las disposiciones sanitarias, será excluida de los programas de apoyo gubernamentales, sin perjuicio de las sanciones a que se haga acreedor.
 
 ###### Artículo 191.
 
@@ -1745,9 +1959,11 @@ Solo podrán internarse al Estado, ganado porcino, sus productos y subproductos,
 
 La introducción o salida del ganado porcino, sus productos o subproductos, deberá realizarse con autorización de la Secretaría, mediante los requisitos de movilización previstos por la presente Ley, sin perjuicio de los requisitos federales dispuestos, para tal efecto.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 198.
 
-La Secretaría revisará documental y físicamente, los embarques del ganado porcino, sus productos y subproductos, en los puntos de verificación e inspección zoosanitaria instalados en las entradas y salidas del Estado.
+En coordinación con las autoridades federales competentes, la Secretaría revisará documental y físicamente, los embarques del ganado porcino, sus productos y subproductos, en los puntos de verificación e inspección zoosanitaria instalados en las entradas y salidas del Estado.
 
 ###### Artículo 199.
 
@@ -1793,9 +2009,11 @@ La Secretaría expedirá las autorizaciones que procedan para la internación o 
 
 En las autorizaciones de referencia, la Secretaría informará sobre los requisitos necesarios que deban cumplirse, a efecto de no poner en riesgo la condición y estatus sanitario de la avicultura del Estado. Además, conforme a lo dispuesto por los títulos tercero y cuarto de la presente Ley, en lo que les resulte aplicable.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 208.
 
-La Secretaría revisará documental y físicamente los embarques de aves, productos y subproductos en los puntos de verificación e inspección zoosanitaria instalados en las entradas y salidas del Estado.
+En coordinación con las autoridades federales competentes, la Secretaría revisará documental y físicamente los embarques de aves, productos y subproductos en los puntos de verificación e inspección zoosanitaria instalados en las entradas y salidas del Estado.
 
 ###### Artículo 209.
 
@@ -1827,9 +2045,11 @@ Los avicultores organizados o en lo individual, tendrán la obligación de parti
 
 La Secretaría, llevará registro y control de las unidades ovinas y/o caprinas, a fin de vigilar que toda unidad se encuentre registrada y autorizada como lo dispone la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 216.
 
-Todo ovinocultor y caprinocultor deberá dar aviso del inicio de operaciones de sus unidades de producción a la Secretaría, proporcionándole toda la información correspondiente a la infraestructura y número de obejas (sic) y cabras en aprovechamiento, con las especificaciones respectivas.
+Todo ovinocultor y caprinocultor deberá dar aviso del inicio de operaciones de sus unidades de producción a la Secretaria, proporcionándole toda la información correspondiente a la infraestructura y número de ovejas y cabras en aprovechamiento, con las especificaciones respectivas.
 
 Las unidades de producción deberán contar con instalaciones, equipos higiénicos y planes de manejo, de conformidad con las Normas Oficiales Mexicanas y las normas técnicas aplicables en la materia.
 
@@ -1855,9 +2075,11 @@ Los productores o comercializadores deberá (sic) hacer del conocimiento de la S
 
 Cuando se pretenda trasladar la propiedad o movilizar ganado ovino o caprino, así como productos y subproductos, se deberá realizar con el dictamen negativo y vigente, a fin de acreditar que el ganado se encuentra libre de brucelosis.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 222.
 
-En caso de que se confirme una enfermedad que afecte a la ovinocultura, caprinocultura o a la salud pública, la Secretaría, en coordinación con las SADER, las autoridades municipales y las instancias auxiliares, implementará las acciones necesarias para aplicar las medidas correspondientes a fin de controlar el problema presentado.
+En caso de que se confirme una enfermedad que afecte a la ovinocultura, caprinocultura o a la salud pública, la Secretaría, en coordinación con la SADER, las autoridades municipales y las instancias auxiliares, implementarán las acciones necesarias para aplicar las medidas correspondientes a fin de controlar el problema presentado.
 
 ###### Artículo 223.
 
@@ -1893,9 +2115,11 @@ La Secretaría coadyuvará en la protección de las zonas y plantas nectarpolin�
 
 La Secretaría, de manera coordinada con la SADER y las instancias auxiliares, en apego a la normatividad aplicable vigente, proveerá y fomentará la introducción y cría de reinas de razas puras europeas como medida para controlar la africanización.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 230.
 
-En la movilización de colmenas o núcleos, el apicultor deberá llevarla a cabo con la guía de tránsito y en vehículos perfectamente protegidos con malla, la cual deberá evitar la salida de las abejas, con el fin de proteger a la población civil y de conformidad con las disposiciones relativas a la movilización, previstas en la presente Ley y la Ley para el Fomento de la Apicultura en el Estado de Tamaulipas.
+La movilización de colmenas o núcleos, deberá llevarse a cabo con la documentación sanitaria correspondiente y en vehículos perfectamente protegidos con malla, la cual deberá evitar la salida de las abejas, con el fin de proteger a la población civil y de conformidad con las disposiciones relativas a la movilización, previstas en la presente Ley y la Ley para el Fomento de la Apicultura en el Estado de Tamaulipas.
 
 ## TÍTULO NOVENO. DE LAS SANCIONES ADMINISTRATIVAS Y RECURSOS
 
@@ -1951,13 +2175,23 @@ Se impondrá una multa por el equivalente de 5 a 250 veces el valor diario de la
 
 Se impondrá una multa por el equivalente de 250 a 500 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las penas que correspondan por los delitos o las responsabilidades civiles en que hubieren incurrido, a quienes transgredan o incumplan con lo previsto por los artículos 21; 23; 25; 57; 60; 87; 98; 108; 110; 112; 113; 114; 115; 118; 125; 127; 128; 131; 134; 136; 140; 145; 146; 162; 163; 174; 182; 184; 185; 186; 196 y 197, de esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### Artículo 241.
 
-Se impondrá una multa por el equivalente de 500 a 750 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las penas que correspondan por los delitos o las responsabilidades civiles en que hubieren incurrido, a quienes transgredan o incumplan con lo previsto por los artículos 18; 19; 22; 29; 43; 88; 89; 90; 106; 107; 111; 124; 126; 130; 132; 133; 135; 139; 141; 143; 144; 157; 164; 187; 202; 213 y 218, de la presente Ley.
+Se impondrá una multa por el equivalente de 500 a 750 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las penas que correspondan por los delitos o las responsabilidades civiles en que hubieren incurrido, a quienes transgredan o incumplan con lo previsto por los artículos 18; 19; 22; 29; 43; 88; 89; 90; 107; 111; 124; 126; 130; 132; 133; 135; 139; 141; 143; 144; 157; 164; 187; 202; 213 y 218, de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+###### Artículo 241 Bis.
+
+Se impondrá una multa por el equivalente de 25 a 150 el valor diario de la UMA, a quien evada el Punto de Verificación e Inspección, Puntos de Expedición y ruta Pecuaria para la verificación de los documentos y animales movilizados, independientemente de las penas que correspondan por los delitos o las responsabilidades civiles en que hubieren incurrido, a quienes transgredan o incumplan con lo previsto por el artículo 106.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2025)</small>
 
 ###### Artículo 242.
 
-Sin perjuicio de las demás sanciones previstas en la presente Ley, se impondrá una multa por el equivalente de 1,000 a 2,000 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las penas que correspondan por los delitos en que hubieren incurrido o la responsabilidad civil a que se hagan acreedores, a quienes:
+Sin perjuicio de las demás sanciones previstas en la presente Ley, se impondrá una multa por el equivalente de 100 a 2,000 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las penas que correspondan por los delitos en que hubieren incurrido o la responsabilidad civil a que se hagan acreedores, a quienes:
 
 I. Introduzcan ganado al Estado, sin cumplir con las disposiciones sanitarias vigentes;
 
@@ -1965,7 +2199,9 @@ II. Hagan parecer por cualquier acto, omisión o medio como nacido en el Estado,
 
 III. Hagan parecer por cualquier acto, omisión o medio, como nacido en una zona de baja prevalencia de tuberculosis de cualquier parte del país ganado nacido en una zona de alta prevalencia de tuberculosis, de cualquier parte del país de conformidad con la zonificación establecida por las autoridades federales competentes;
 
-IV. Acopien, movilicen y/o comercialicen, con fines de exportación para consumo de carne, el ganado en pie clasificado o marcado para consumo nacional y del ganado de razas consideradas como especializadas para producción lechera y sus cruzas;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2025)</small>
+
+IV. Acopien, movilicen y/o comercialicen, con fines de exportación, el ganado en pie clasificado o marcado para consumo nacional y del ganado de razas consideradas como especializadas para producción lechera y sus cruzas;
 
 V. Acopien, movilicen y/o comercialicen ganado sin identificar su origen mediante el identificador SINIDA y sin fierro;
 
@@ -1999,6 +2235,12 @@ Además, por transgresiones a lo dispuesto por esta Ley y una vez concluido el p
 
 En los demás casos de incumplimiento de obligaciones a cargo de particulares no considerados en los artículos 239; 240; 241; 242 y 243, de esta Ley, la Secretaría podrá imponer sanciones económicas de entre 250 y 2,000 veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+###### Artículo 245.
+
+Sin prejuicio (sic) de las demás sanciones previstas en la presente Ley, se impondrá una multa por el equivalente de 50 veces el valor diario de la UMA por animal que no presente identificación alguna, independientemente de las penas que correspondan por los delitos o las responsabilidades civiles en que hubiera incurrido, a quienes transgredan o incumplan lo previsto en el artículo 188 fracción X.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -2009,9 +2251,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Se abroga la Ley Ganadera para el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado anexo al número 38 de fecha 12 de mayo de 1993.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley y demás normatividad aplicable, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor de la misma.
+El Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley y demás normatividad aplicable, en un plazo no mayor a 1 año, a partir de la entrada en vigor de la misma.
 
 ###### ARTÍCULO CUARTO.
 
@@ -2044,3 +2288,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los diecisiete días del mes de octubre del año dos mil veintitrés.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-325 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA GANADERA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
