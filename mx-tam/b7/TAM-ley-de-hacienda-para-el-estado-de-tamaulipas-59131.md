@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-01-16"
+last_updated: "2025-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -4315,23 +4317,39 @@ d).- Vehículos de más de 10 toneladas, catorce veces el valor diario de la Uni
 
 VII.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 23 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE JUNIO DE 2025)</small>
 
-VIII.- Por la movilización y obtención del Documento Único o Guía de Tránsito de Ganado en pie y otras especies se pagará:
+VIII.- Por la verificación, revisión e inspección física y documental de Ganado en pie y otras especies se pagará:
 
-a) Movilización interna de ganado bovino, cero punto cuarenta y ocho veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
-b) Movilización de ganado bovino de Prestador de Servicios Ganaderos, cero punto veintitrés veces el valor diario de la Unidad de Medida y Actualización;
+a) De ganado bovino, cero punto cuarenta y ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Movilización de ganado bovino que ingresa al Estado, cero punto sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
 
-d) Movilización de tránsito o paso de ganado bovino en el Estado, cero punto cuarenta y seis veces el valor diario de la Unidad de Medida y Actualización;
+b) De ganado bovino de Prestador de Servicios Ganaderos, cero punto veintitrés veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+c) De ganado bovino que ingresa al Estado, cero punto sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2025)</small>
+
+d) De ganado bovino que pasa por el Estado, cero punto cuarenta y seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 e) Ganado equino, cero punto cuarenta y tres veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
 f ) Ganado caprino, ovino y porcino, cero punto doce veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
+
 g) Aves de corral, cero punto cero cero cero tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2023)</small>
 
 h) Abejas por alzas, cero punto quince veces el valor diario de la Unidad de Medida y Actualización.
 
@@ -5024,3 +5042,11 @@ La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán su
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-325 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA GANADERA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
