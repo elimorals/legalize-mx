@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-seguridad-vial-del-estado-de-puebla-168725"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-05"
-last_updated: "2025-02-28"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Edición Vespertina del Número 3 del Periódico Oficial del Estado de Puebla.
 
@@ -369,7 +369,9 @@ III. Personas usuarias y prestadoras del servicio de transporte de pasajeros, co
 
 IV. Personas prestadoras de servicios de transporte, de distribución de bienes y mercancías, y
 
-V. Personas usuarias de vehículos motorizados particulares.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+V. Personas usuarias de vehículos motorizados particulares, con un enfoque diferenciado atendiendo las características del vehículo y la protección que brinda a sus ocupantes.
 
 Las autoridades estatales y municipales, en el ámbito de sus competencias considerarán esta jerarquía en sus estrategias, planes, programas, proyectos, políticas fiscales, presupuestos relativos al diseño, construcción, operación, uso de la infraestructura vial, servicios de transporte, así como las normas de circulación y controles vehiculares.
 
@@ -623,7 +625,9 @@ XXVIII. Igualar o seguir en velocidad a un vehículo destinado a la prestación 
 
 XXIX. Circular sobre los corredores de transporte público de pasajeros o de uso exclusivo del sistema de transporte público;
 
-XXX. Circular sin licencia de conducir, o sin placas, o sin seguro de responsabilidad civil por daños a terceros, o sin tarjeta de circulación, o sin calcomanías y hologramas autorizados por la autoridad competente, o con placas, tarjeta de circulación, calcomanías y hologramas que correspondan a otros vehículos;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XXX. Circular sin licencia de conducir, o sin placas, o sin seguro de responsabilidad civil por daños a terceros, o sin tarjeta de circulación, o sin calcomanías, hologramas o distintivos, según corresponda, autorizados por la autoridad competente, o con placas, tarjeta de circulación, calcomanías y hologramas que correspondan a otros vehículos, o con placas alteradas u ocultas total o parcialmente;
 
 XXXI. Hacer uso del perifoneo y propaganda sin la autorización correspondiente;
 
@@ -1085,9 +1089,17 @@ VI. Mejorar la eficiencia de la distribución de bienes y mercancías, incentiva
 
 VII. Cumplir con las metas, estándares y criterios internacionales de emisiones de ruido, de contaminantes a la atmósfera y de gases de efecto invernadero;
 
-VIII. Promover la participación ciudadana en la toma de decisiones en materia de movilidad dentro de los procesos de planeación, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-IX. Priorizar las necesidades de seguridad en materia de movilidad de las mujeres, así como de quienes realizan trabajo de cuidado, en la planeación de servicios de transporte y de infraestructura vial, a fin de garantizar el diseño de soluciones con el objetivo de reducir las desigualdades sociales y erradicar las violencias de género. Lo anterior, debe tomar en consideración la interseccionalidad de las mujeres y los principios de equidad y transversalidad.
+VIII. Promover la participación ciudadana en la toma de decisiones en materia de movilidad dentro de los procesos de planeación;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+IX. Priorizar las necesidades de seguridad en materia de movilidad de las mujeres, así como de quienes realizan trabajo de cuidado, en la planeación de servicios de transporte y de infraestructura vial, a fin de garantizar el diseño de soluciones con el objetivo de reducir las desigualdades sociales y erradicar las violencias de género. Lo anterior, debe tomar en consideración la interseccionalidad de las mujeres y los principios de equidad y transversalidad, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+X. Contribuir al fortalecimiento de la seguridad vial en el ámbito de su competencia, estableciendo criterios de movilidad que ordenen el tránsito y faciliten la identificación de las personas conductoras de vehículos, incluyendo estrategias y mecanismos de detección y seguimiento tecnológico.
 
 ###### ARTÍCULO 56.
 
@@ -1755,17 +1767,59 @@ I. Uso de cinturón de seguridad de acuerdo con los requisitos establecidos en l
 
 II. Cualquier persona menor de doce años o que por su constitución física lo requiera, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
-III. En vehículos motorizados el número de pasajeros no debe rebasar la capacidad máxima especificada de acuerdo con las Normas Oficiales Mexicanas respectivas;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-IV. El uso adecuado de casco de seguridad estandarizado, que cumpla con la Norma Oficial Mexicana aplicable en la materia, debe ser obligatorio para las personas conductoras y pasajeras de motocicletas, de monopatín o bicicleta eléctrica cuyo motor genere impulso a una velocidad mayor a 25 kilómetros por hora;
+III. En vehículos motorizados el número de pasajeros no debe rebasar la capacidad máxima especificada en la tarjeta de circulación, para lo cual se tornará en cuenta el diseño del fabricante y lo dispuesto por las Normas Oficiales Mexicanas respectivas;
 
-V. La prohibición de manipular teléfonos celulares o cualquier otro dispositivo electrónico o de comunicación, así como hablar, leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice con tecnología de manos libres, mediante un sujetador que facilite su uso y que no obstaculice la visibilidad al conducir, y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+IV. El uso adecuado y de su talla del casco de seguridad estandarizado, el cual deberá cumplir con lo establecido en la Norma Oficial Mexicana aplicable en la materia y ser obligatorio para las personas conductoras y pasajeras de motocicletas, de monopatín o bicicleta eléctrica cuyo motor genere impulso a una velocidad mayor a 25 kilómetros por hora.
+
+El casco de seguridad de las personas conductoras de motocicletas deberá tener adherido un distintivo que contenga el código y/o secuencia alfanumérica, o cualquier otra que determine la autoridad competente, que permita la identificación de aquellas a través del sistema implementado por la Secretaría de Movilidad y Transporte. Para efectos de lo anterior, el distintivo de referencia se diseñará con materiales que permitan la conservación de la calidad y la certificación de los cascos, y se colocará atendiendo la normatividad aplicable.
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+V. La prohibición de manipular teléfonos celulares o cualquier otro dispositivo electrónico o de comunicación, así como hablar, leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice con tecnología de manos libres, mediante un sujetador que facilite su uso y que no obstaculice la visibilidad al conducir;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA CON SUS INCISOS], P.O. 18 DE JUNIO DE 2025)</small>
 
 VI. La prohibición de conducir vehículos habiendo consumido sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto y de todos aquellos fármacos cuyo uso afecte su capacidad para conducir, así como rebasando los niveles de alcohol en la sangre. Para tal efecto queda prohibido conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05g/dL en sangre, salvo las siguientes consideraciones:
 
 a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre, y
 
 b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+VII. Las bicicletas eléctricas, monopatines eléctricos y otros dispositivos de tracción asistida que sean capaces de superar los 25 kilómetros por hora, no podrán circular por vías primarias, de acceso controlado o de alta velocidad, salvo en los casos en que exista infraestructura segregada y segura destinada para su tránsito.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+###### ARTÍCULO 123 Bis.
+
+Además de las disposiciones contenidas dentro de la presente Ley y otros ordenamientos aplicables, corresponde a las personas usuarias de las motocicletas lo siguiente:
+
+I. El uso de chaleco o chaqueta que cuando menos tenga el veinte por ciento de material reflejante será obligatorio en cualquier horario para las motocicletas utilizadas para el servicio de mensajería y paquetería, cuando estén prestando aquel servicio.
+
+Las autoridades competentes deberán realizar campañas de concientización para promover el uso generalizado de la prenda reflejante, principalmente en horario nocturno y cuando las condiciones ambientales dificulten la visibilidad.
+
+II. Todas las motocicletas, sin excepción, deberán circular en todo momento con las luces encendidas;
+
+III. No podrán tripular las motocicletas menores de doce años de edad. Adicionalmente y sin perjuicio de lo anterior, queda prohibido transportar en motocicleta personas que no puedan sostenerse por sí mismas;
+
+IV. En relación con el contenido de la fracción III del artículo anterior, solo podrá tripular la motocicleta el conductor y, en su caso, el número de acompañantes determinados en la tarjeta de circulación. Para efectos del presente párrafo, queda prohibida la alteración de motocicletas para la ampliación de asientos.
+
+Para el caso de motocicletas destinadas al servicio de mensajería y paquetería en activo, solo podrá circular la persona conductora.
+
+V. Las motocicletas que presten servicio de mensajería y paquetería deberán adaptar el dispositivo de reparto de manera que no obstruya la visibilidad de la placa ni de los espejos laterales durante la conducción;
+
+VI. Estarán impedidos para realizar maniobras peligrosas, cortes y cambios de circulación abruptos;
+
+VII. No podrán portar el casco de seguridad cuando desciendan de la motocicleta;
+
+VIII. Deberán circular en medio del carril y no podrán circular dos o más motocicletas en el mismo carril, y
+
+IX. Reportar de manera inmediata el extravío o robo del distintivo del casco de seguridad otorgado por la autoridad, a través de los mecanismos o sistemas que para el efecto se pongan a su disposición.
 
 ###### ARTÍCULO 124.
 
@@ -1825,9 +1879,11 @@ VII. Ninguna intersección, independientemente de la naturaleza de la vía, podr
 
 Son exceptuados los vehículos de emergencia, siempre y cuando cumplan con las señales luminosas y acústicas establecidas en las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 126.
 
-Las autoridades estatales y municipales, en el ámbito de sus competencias, establecerán sistemas, aplicaciones y equipos automatizados de registro de infracciones de tránsito, que incluyan necesariamente el de los límites de velocidad.
+Las autoridades estatales y municipales, en el ámbito de sus competencias, establecerán sistemas, aplicaciones y equipos automatizados de identificación de la unidad y la persona conductora, así como de registro de infracciones de tránsito, que incluyan necesariamente el de los límites de velocidad.
 
 Los dispositivos o medios tecnológicos de detección automática pueden ser utilizadas (sic) para cualquier infracción de tránsito que pueda ser identificada a través de una imagen o video, tales como:
 
@@ -1891,13 +1947,17 @@ A fin de preservar el medio ambiente, evitar el desequilibrio ecológico que pue
 
 Todo vehículo motorizado que transite en las vías del territorio del Estado deberá contar con las placas, tarjeta de circulación, calcomanías y hologramas autorizados por la autoridad correspondiente.
 
-Las placas, la tarjeta de circulación y las calcomanías y hologramas son intransferibles.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+Las placas, la tarjeta de circulación y las calcomanías, hologramas y distintivos de los cascos de seguridad de motocicletas son intransferibles.
 
 #### SECCIÓN CUARTA. SENSIBILIZACIÓN, EDUCACIÓN Y FORMACIÓN EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 133.
 
-La Secretaría, en coordinación con las autoridades competentes deberá diseñar, implementar, ejecutar, evaluar y dar seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías. Para esto, se deberá promover la participación de personas especialistas y la academia en el diseño e implementación de programas, campañas y acciones en materia de educación vial, movilidad, y perspectiva de género que generen el desarrollo de políticas sostenibles e incluyentes con especial atención a los grupos en situación de vulnerabilidad, orientadas a las personas peatonas, ciclistas, al transporte público y al uso racional del automóvil particular.
+La Secretaría, en coordinación con las autoridades competentes deberá diseñar, implementar, ejecutar, evaluar y dar seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular, la regularidad vehicular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías. Para esto, se deberá promover la participación de personas especialistas y la academia en el diseño e implementación de programas, campañas y acciones en materia de educación vial, movilidad, y perspectiva de género que generen el desarrollo de políticas sostenibles e incluyentes con especial atención a los grupos en situación de vulnerabilidad, orientadas a las personas peatonas, ciclistas, al transporte público y al uso racional del automóvil particular.
 
 ###### ARTÍCULO 134.
 
@@ -1911,11 +1971,17 @@ II. Explicación de las causas y consecuencias en materia de movilidad y segurid
 
 III. Adopción de prácticas que propicien un ambiente seguro para la movilidad activa y no motorizada;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-IV. Respeto entre las personas usuarias de la vía y hacia las Autoridades Competentes que atienden la seguridad vial en el Estado y en los municipios y prestadores de servicio de transporte público de pasajeros, y
+IV. Respeto entre las personas usuarias de la vía y hacia las Autoridades Competentes que atienden la seguridad vial en el Estado y en los municipios y prestadores de servicio de transporte público de pasajeros;
 
-V. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+V. La importancia de contar con vehículos regulares y ejercer una movilidad ordenada que se ajuste a lo dispuesto dentro de la presente ley y demás disposiciones aplicables, así como de denunciar en caso de robo de unidades o aditamentos viales para evitar el suplanto de identidad y la comisión de delitos, y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+VI. Importancia de la incorporación de la perspectiva de género, así como del trato digno y no discriminación hacia grupos en situación de vulnerabilidad.
 
 ###### ARTÍCULO 135.
 
@@ -1957,9 +2023,13 @@ La Dirección tomará las medidas necesarias para evitar el bloqueo en vías pri
 
 #### SECCIÓN SEXTA. MEDIDAS PREVENTIVAS EN LA VIALIDAD
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 139.
 
-Se retirarán de circulación con grúa o cualquier otro medio idóneo las motocicletas que no porten placas de circulación o permiso provisional correspondiente, con o sin la presencia del conductor, siendo retenidas en el depósito vehicular, debiendo cumplir con los requisitos previstos en Ley para su devolución.
+Se retirarán de circulación con grúa o cualquier otro medio idóneo las motocicletas que no porten placa de circulación, con o sin la presencia de la persona conductora, siendo retenidas en el depósito vehicular, debiendo cumplir con los requisitos previstos en Ley para su devolución.
+
+De manera excepcional y en términos de la normatividad aplicable, las motocicletas nuevas podrán circular sin placa, únicamente para el traslado del punto de venta al domicilio de resguardo, para cuyo efecto el punto de venta proporcionará un permiso provisional para traslado único que autorice la Secretaría de Planeación, Finanzas y Administración.
 
 ###### ARTÍCULO 140.
 
@@ -2264,3 +2334,27 @@ TERCERO. En un plazo de 90 días hábiles, se deberán realizar las adecuaciones
 CUARTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de este Decreto deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que se establezcan las unidades administrativas que deban conocer aquéllos, en términos de este Decreto.
 
 QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La persona Titular de la Secretaría de Planeación, Finanzas y Administración, dentro de los ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto, realizará las modificaciones necesarias a los instrumentos que tengan relación con su aplicación, y en tanto no se expidan las mismas, seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
+
+CUARTO. La Secretaría de Movilidad y Transporte, en el ámbito de su competencia, dentro de los ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto, realizará las acciones necesarias para la implementación del mecanismo de expedición del distintivo referido dentro del presente Decreto, asegurando su diseño, producción y distribución en coordinación con las instancias competentes. Asimismo, llevará a cabo los procedimientos administrativos y contractuales que resulten necesarios para garantizar el suministro adecuado de distintivos, priorizando la continuidad del servicio y evitando afectaciones a los motociclistas en cumplimiento de las disposiciones establecidas en este Decreto.
+
+QUINTO. Para el caso de los propietarios, tenedores o usuarios de motocicletas que, previo a la entrada en vigor del presente Decreto, hayan realizado el trámite de emplacamiento, la Secretaría de Planeación, Finanzas y Administración realizará, en su caso, las gestiones para la sustitución de la tarjeta de circulación.
+
+SEXTO. Las personas Titulares de la Secretaría de Planeación, Finanzas y Administración y de la Secretaría de Movilidad y Transporte, en el ámbito de su competencia, dentro de los ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto, realizarán las gestiones necesarias para la modificación del formato y contenido de la tarjeta de circulación, a fin de que ésta contenga la información relativa al número máximo de personas que pueden viajar en el vehículo. Asimismo, deberán implementar los mecanismos administrativos, contractuales y técnicos necesarios para su expedición, procurando la continuidad del servicio y evitando afectaciones a las personas usuarias en cumplimiento de las disposiciones establecidas en este Decreto.
+
+SÉPTIMO. Las autoridades competentes realizarán las modificaciones al Acuerdo de la Secretaría de Planeación y Finanzas del Gobierno del Estado, por el que se definen, clasifican y dan a conocer las Formas Oficiales Valoradas, Formas Oficiales de Reproducción Restringida impresas o digitales que se utilizan en la prestación de los servicios establecidos en la Ley de Ingresos del Estado de Puebla, y las Formas Oficiales de Libre Reproducción necesarias para el cumplimiento de obligaciones a cargo de los contribuyentes, en un plazo que no excederá de ciento ochenta días hábiles posteriores a la entrada en vigor del mismo.
+
+OCTAVO. La Secretaría de Movilidad y Transporte dictará los mecanismos y especificaciones aplicables a los distintivos a que se refieren el presente Decreto, conforme a las disposiciones jurídicas aplicables.
+
+Asimismo, instruirá e implementará, en el ámbito de su competencia, las acciones necesarias para integrar el sistema de información para la identificación de los distintivos de las y los motociclistas, en términos del presente Decreto.
+
+NOVENO. Las autoridades competentes, en coordinación con los municipios, promoverán la adecuación de los reglamentos de tránsito locales, a fin de armonizarlos con la presente reforma. Además, promoverán la capacitación a los agentes de vialidad para el conocimiento y aplicación del contenido del presente Decreto.
