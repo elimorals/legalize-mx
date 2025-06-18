@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-movilidad-y-transporte-del-estado-de-chiapas-144707"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-28"
-last_updated: "2025-01-22"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PÚBLICADA EN EL PERÍODICO OFICIAL: 22 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de octubre de 2020.
 
@@ -101,7 +101,19 @@ X. Concesionario: A la persona que es titular de una concesión.
 
 XI. Conductor: A la persona que lleva el dominio del movimiento de un vehículo.
 
-XII. Constancia de Autorización de Plataforma Tecnológica: Al documento expedido por el Secretario mediante el cual autoriza a personas morales para promover, administrar u operar plataformas tecnológicas que brinden el servicio público de transporte con unidades concesionadas o con permiso.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XII. Constancia de Autorización de Plataforma Tecnológica y/o Informática: Al documento expedido por la Secretaría mediante el cual autoriza a personas morales para promover, administrar u operar plataformas tecnológicas que brinden el servicio público de transporte con unidades concesionadas o con permiso.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XII. Bis. Constancia de Registro: Documento expedido por la Secretaría, previo pago de derechos correspondientes, por medio del cual se hace constar el registro de las personas morales que operan, administran y/o utilizan aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, para la prestación del Servicio de transporte de pasajeros privado especializado con chofer.
+
+Para los efectos del pago antes referido, se estará a lo establecido en Ley de Derechos del Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XII. Ter. Constancia de Registro Vehicular: Documento expedido por la Secretaría, previo pago de derechos correspondientes, otorgado a las personas físicas que operan, administran y/o utilizan aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, para la prestación del Servicio de transporte de pasajeros privado especializado con chofer, en el que consta el registro de cada vehículo para la prestación del servicio, previo cumplimiento de los requisitos y características que emita la Secretaría.
 
 XIII. Constancia de Autorización de Ruta: Al documento que expide la Secretaría para la explotación de un itinerario determinado, con vehículos especialmente diseñados para cada modalidad y operadores capacitados y legalmente facultados para ello.
 
@@ -117,7 +129,9 @@ XVIII. Intermunicipal: A la vinculación operacional, administrativa, gubernamen
 
 XIX. Itinerario: Al recorrido o trayecto autorizado por la Secretaría que realizan las unidades de transporte público.
 
-XX. Jerarquía de movilidad: A la prioridad que se otorga para la utilización del espacio vial, de acuerdo al siguiente orden: 1) Personas con discapacidad o movilidad reducida; 2) Peatones; 3) Ciclistas y usuarios de otros medios no motorizados; 4) Usuarios del servicio público de transporte; 5) Prestadores del servicio público de transporte de pasajeros; 6) Prestadores del servicio público de transporte de bienes y mercancías; 7) Conductores del servicio privado y particular de transporte.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XX. Jerarquía de movilidad: A la prioridad que se otorga para la utilización del espacio vial, de acuerdo al siguiente orden: 1) Personas con discapacidad o movilidad reducida; 2) Peatones; 3) Ciclistas y usuarios de otros medios no motorizados; 4) Usuarios del servicio público de transporte; 5) Prestadores del servicio público de transporte de pasajeros; 6) Prestadores del servicio público de transporte de bienes y mercancías; 7) Conductores y usuarios del servicio privado particular de transporte; 8) Conductores y operadores (sic) Servicio de transporte de pasajeros privado especializado con chofer.
 
 XXI. Ley: A la Ley de Movilidad y Transporte del Estado de Chiapas.
 
@@ -164,6 +178,10 @@ XXXIX. Servicio especial: Al servicio de transporte que se presta a través de u
 XL. Servicio particular de transporte: A la actividad que tiene por objeto satisfacer las necesidades particulares de quien lo realiza, sin mayor limitación que el registro vehicular y el cumplimiento de las normas de circulación emitidas por la autoridad competente.
 
 XLI. Servicio privado de transporte: A la actividad que se lleva a cabo como complemento necesario o adecuado para el eficaz cumplimiento de las actividades esenciales que realizan empresas o establecimientos.
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XLI. Bis. Servicio de transporte de pasajeros privado especializado con chofer: A la actividad que se presta con base en tecnologías que permiten conectar a usuarios que demandan servicio de transporte con conductores privados que ofrecen dicho servicio mediante el uso de las aplicaciones o plataformas tecnológicas y/o informáticas. Este concepto incluye asimismo el servicio de entregas a domicilio y de transporte privado de mercaderías.
 
 XLII. Servicio público de transporte: A la actividad a través de la cual el Poder Ejecutivo del Estado satisface las necesidades de transporte de pasajeros o carga, por sí o a través de concesionarios o permisionarios, que se ofrece de forma continua, uniforme, regular, permanente e ininterrumpida a persona indeterminada o al público en general, mediante diversas modalidades.
 
@@ -247,7 +265,9 @@ VIII. Igualdad: Condición para que la población ejerza su derecho a la movilid
 
 IX. Innovación tecnológica: Uso de sistemas tecnológicos que permitan un desarrollo eficiente de la movilidad, generando eficacia y seguridad en los sistemas y modalidades de transporte y en el desplazamiento de personas, bienes y mercancías.
 
-X. Jerarquización de Movilidad: Es la política pública encaminada a formar una cultura de movilidad en la población y las autoridades, que priorice la utilización del espacio vial, de acuerdo al siguiente orden: 1) Personas con discapacidad o movilidad reducida; 2) Peatones; 3) Ciclistas y usuarios de otros medios no motorizados; 4) Usuarios del servicio público de transporte; 5) Prestadores del servicio público de transporte de pasajeros; 6) Prestadores del servicio público de transporte de bienes y mercancías; 7) Conductores del servicio privado y particular de transporte.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+X. Jerarquización de Movilidad: A la prioridad que se otorga para la utilización del espacio vial, de acuerdo al siguiente orden: 1) Personas con discapacidad o movilidad reducida; 2) Peatones; 3) Ciclistas y usuarios de otros medios no motorizados; 4) Usuarios del servicio público de transporte; 5) Prestadores del servicio público de transporte de pasajeros; 6) Prestadores del servicio público de transporte de bienes y mercancías; 7) Conductores y usuarios del servicio privado particular de transporte; 8) Conductores y operadores del Servicio de transporte de pasajeros privado especializado con chofer.
 
 XI. Limpieza: Compromiso de participación entre los principales actores de la movilidad, usuarios, concesionarios, permisionarios, operadores y autoridades competentes para el cuidado e higiene de los vehículos, así como del espacio físico donde realizan sus operaciones.
 
@@ -407,7 +427,9 @@ V. Prestadores del servicio público de transporte de pasajeros.
 
 VI. Prestadores del servicio público de transporte de bienes y mercancías.
 
-VII. Conductores del servicio privado y particular de transporte.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+VII. Conductores del servicio privado, particular de transporte y servicio de transporte de pasajeros privado especializado con chofer.
 
 ###### Artículo 16.
 
@@ -1219,11 +1241,17 @@ I. Transporte particular.
 
 II. Transporte privado.
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+III. Transporte de pasajeros privado especializado con chofer.
+
 ###### Artículo 103.
 
 Se considera transporte particular el que tiene por objeto satisfacer las necesidades de movilidad de carácter personal del titular del vehículo.
 
-En ningún caso el particular podrá utilizar su vehículo, por sí o a través de otra persona, para prestar un servicio mediante contraprestación monetaria.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+En ningún caso el particular podrá utilizar su vehículo, por sí o a través de otra persona, para prestar un servicio mediante contraprestación monetaria y/o para el uso de las aplicaciones o plataformas tecnológicas y/o informáticas, sin cumplir con las disposiciones normativas contenidas en la presente ley.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2025)</small>
 
@@ -1243,25 +1271,45 @@ II. Para trasladar mercancías o personas de los establecimientos.
 
 Queda prohibido exigir un pago por la prestación de este servicio de transporte.
 
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+###### Artículo 105 Bis.
+
+Se considera Transporte de pasajeros privado especializado con chofer, al servicio que conecta a usuarios que demandan servicio de transporte con conductores privados que ofrecen dicho servicio mediante el uso de las aplicaciones o plataformas tecnológicas y/o informáticas. Este concepto incluye asimismo el servicio de entregas a domicilio y de transporte privado de mercaderías.
+
+El pago por la prestación de este servicio de transporte queda sujeto en los términos del Reglamento y en las disposiciones y/o lineamientos que para el efecto emita la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### Artículo 106.
 
-Las instituciones, empresas o establecimientos que ofrezcan el servicio privado de transporte deberán cumplir las siguientes condiciones:
+Las instituciones, empresas o establecimientos que ofrezcan el servicio privado de transporte y el servicio de transporte de pasajeros privado especializado con chofer, deberán cumplir las siguientes condiciones:
 
 I. Transporte de personas. Podrán trasladar a trabajadores, educandos o personas vinculadas con los fines de la institución, empresa o establecimiento.
 
 II. Transporte de mercancías. Podrán trasladar productos para su almacenamiento, entrega, venta, compra, alquiler, reparación o transformación.
 
-III. Los vehículos podrán ser propiedad de las instituciones, empresas o establecimientos y estar matriculados a nombre de los mismos. En su caso, los vehículos podrán ser arrendados.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-IV. Los vehículos serán conducidos por el personal de la institución, empresa o establecimiento.
+III. Los vehículos podrán ser propiedad de las instituciones, empresas o establecimientos y estar matriculados a nombre de los mismos y/o de personas físicas. En su caso, los vehículos podrán ser arrendados.
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+IV. Los vehículos serán conducidos por el personal de la institución, empresa o establecimiento y/o personas físicas en su carácter de socios, debidamente acreditados.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
 
 ###### Artículo 107.
 
-La institución, empresa o establecimiento que no cumpla las condiciones establecidas en el artículo anterior, será sancionada conforme al régimen jurídico del servicio público de transporte.
+La institución, empresa o establecimiento que no cumpla las condiciones establecidas en el presente capítulo, será sancionada conforme al régimen jurídico del servicio público y privado de transporte; así como del servicio de transporte de pasajeros privado especializado con chofer, según sea el caso.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
 
 ###### Artículo 108.
 
-Las instituciones, empresas o establecimientos deberán registrar en la Secretaría los vehículos con los que se preste este servicio. La Secretaría podrá denegar el registro en los términos del Reglamento.
+Para que las instituciones, empresas o establecimientos puedan operar el servicio privado y de Transporte de pasajeros privado especializado con chofer, deberán registrar previamente al inicio de sus operaciones ante la Secretaría los vehículos con los que se preste el Servicio, así como los socios acreditados por ellos.
+
+La Secretaría podrá denegar en ambos casos el registro y operación del servicio en los términos del Reglamento.
 
 ## Título Cuarto. De la Modernización del Transporte
 
@@ -1343,9 +1391,65 @@ Deberán cumplir con la capacidad que determinen la Ley y el Reglamento y estar 
 
 Los servicios de plataformas tecnológicas o sistemas electrónicos que desarrolle el Estado para la mejora y modernización del servicio público de transporte en todas sus modalidades serán regulados de acuerdo a lo establecido en el Reglamento.
 
-### Capítulo III. De los Sistemas Integrados de Transporte
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE JUNIO DE 2025)</small>
 
-### Capítulo IV. De la Operación y Funcionamiento de las Terminales y Servicios Auxiliares y Conexos
+### Capítulo II Bis. Del Servicio de transporte de pasajeros privado especializado con chofer
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+###### Artículo 117 Bis.
+
+Las personas morales que operen, administren y/o utilicen aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, por medio de los cuales los particulares pueden contratar el Servicio de Transporte de Pasajeros Privado, Especializado con Chofer, están obligados a registrarse ante la Secretaría, en los términos y plazos que ésta determine.
+
+Toda empresa y/o sociedad que pretenda obtener su registro ante la Secretaría como Servicio de transporte de pasajeros privado especializado con chofer a través de plataformas tecnológicas, tendrá que estar constituida ante fedatario público y conforme lo señala la Ley General de Sociedades Mercantiles y su objeto social ineludiblemente deberá ser exclusivamente como proveedora de movilidad de servicio, incluyendo los servicios de red de transporte, entrega de alimentos, entrega de paquetes, mensajería y transporte de carga.
+
+Cualquier empresa que cuyo objeto social sea distinto al señalado en este artículo, no podrá obtener el registro.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+###### Artículo 117 Ter.
+
+Las personas morales que presten el Servicio de transporte de pasajeros privado especializado con chofer a través de plataformas tecnológicas tendrán las siguientes obligaciones:
+
+I. Realizar el pago de derechos para la expedición de las constancias que establece la presente Ley y su Reglamento.
+
+II. Contar con la constancia vigente anual.
+
+III. Obtener la Constancia de Registro y la Constancia de Registro Vehicular vigentes expedidos por la Secretaría, los cuales deberán portar en forma visible. Para obtener o renovar la Constancia de Registro y la Constancia de Registro Vehicular correspondiente, las personas morales deberán realizar el procedimiento de conformidad con los términos que especifique esta Ley, su Reglamento y en las disposiciones y/o lineamientos que para el efecto emita la Secretaría.
+
+IV. Registrarse en un padrón permanente y actualizado de los operadores y vehículos que prestan este servicio, el cual estará a disposición de la Secretaría.
+
+V. Capacitar a sus socios operadores y/o conductores en materia de Derechos Humanos y Perspectiva de género.
+
+VI. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del Servicio de transporte de pasajeros privado especializado con chofer contratado a través de plataformas tecnológicas o el incumplimiento de esta Ley u otras disposiciones legales y normativas aplicables.
+
+VII. Realizar los cobros por la prestación del Servicio de transporte de pasajeros privado especializado con chofer contratado a través de plataformas tecnológicas y/o informáticas o efectivo.
+
+VIII. Como requisito para obtener la Constancia de Registro, la persona moral está obligada a leer y firmar de conformidad el Convenio de Aportación por cada viaje realizado al Fideicomiso que determine la Secretaría, correspondiente al 1.5%, el cual será destinado a mejorar las condiciones de la red de servicio público de Transporte del Estado, privilegiando en todo momento la jerarquía de la movilidad.
+
+El incumplimiento a lo establecido en el Convenio será causal para revocar la constancia de registro otorgada a la persona moral.
+
+IX. Prohibición de hacer sitio y ofrecer el servicio en la vía pública, a fin de no competir con el servicio público de transporte en su modalidad de pasajero tipo taxi.
+
+X. Las demás que establezca esta Ley, el Reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+###### Artículo 117 Quater.
+
+Los operadores del Servicio de transporte de pasajeros privado especializado con chofer, contratados a través de plataformas tecnológicas y/o informáticas, tienen las siguientes obligaciones:
+
+I. Someterse a las inspecciones que requiera la Secretaría para verificar el cumplimiento de esta Ley, y su Reglamento, así como las demás disposiciones legales y normativas aplicables.
+
+II. Apoyar y brindar todas las facilidades durante la prestación del servicio a los usuarios con movilidad reducida.
+
+III. Podrá prestar dicho servicio en más de una aplicación o plataforma informática para el control, programación y/o geolocalización en dispositivos fijos o móviles, siempre y cuando se encuentre registrado ante la Secretaría y cuente con la Constancia de Registro y la Constancia de Registro Vehicular por cada aplicación o plataforma bajo la cual preste el servicio.
+
+IV. En ningún caso, la persona moral titular de la Constancia de Registro podrá establecer condiciones de exclusividad para las personas conductoras o vehículos dados de alta en sus plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles.
+
+V. Los vehículos registrados para prestar el Servicio de transporte de pasajeros privado especializado con chofer en el Estado de Chiapas, deberán realizar una validación vehicular anual, constante en una revisión documental y un proceso de inspección físico-mecánica conforme lo determine la Secretaría, el resultado de la consulta al Registro Público Vehicular (REPUVE) de la placa vehicular, así como el resultado de la consulta del número de identificación vehicular (NIV); y Póliza de seguro vigente, que especifique el uso para prestar el Servicio de transporte de pasajeros privado especializado con chofer, que indemnice los daños y perjuicios que pudiese ocasionar a los usuarios, peatones, conductores o terceros en su persona o patrimonio, con una cobertura mínima de 2500 veces la Unidad de Medida y Actualización vigente.
+
+### Capítulo III. De los Sistemas Integrados de Transporte
 
 ###### Artículo 118.
 
@@ -1409,11 +1513,13 @@ VI. Los servicios publicitarios y los de promoción visual.
 
 VII. Los demás que señale el Reglamento.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### Artículo 125.
 
-En la conformación de sistemas integrados de transporte se podrán considerar dentro de la infraestructura vial redes de ciclovías, las cuales contarán con señalética que identifiquen claramente los puntos de cruce, sentido de circulación y demás características necesarias para el adecuado uso y respeto de la misma, otorgando a los ciclistas movilidad segura y preferencial ante el transporte del servicio público, privado y el particular, en términos de lo que establece la Ley, el Reglamento y demás ordenamientos aplicables.
+En la conformación de sistemas integrados de transporte se podrán considerar dentro de la infraestructura vial redes de ciclovías, las cuales contarán con señalética que identifiquen claramente los puntos de cruce, sentido de circulación y demás características necesarias para el adecuado uso y respeto de la misma, otorgando a los ciclistas movilidad segura y preferencial ante el transporte del servicio público, privado, de transporte de pasajeros privado especializado con chofer y el particular, en términos de lo que establece la Ley, el Reglamento y demás ordenamientos aplicables.
 
-### Capítulo I. De la Cesión, Transmisión, Cancelación de Permisos y Revocación de Concesiones
+### Capítulo IV. De la Operación y Funcionamiento de las Terminales y Servicios Auxiliares y Conexos
 
 ###### Artículo 126.
 
@@ -1443,7 +1549,7 @@ La Secretaría llevará a cabo la supervisión, inspección y vigilancia de la o
 
 ## Título Quinto. De la Supervisión y Vigilancia
 
-### Capítulo II. De la Vigilancia del Servicio Público de Transporte
+### Capítulo I. De la Cesión, Transmisión, Cancelación de Permisos y Revocación de Concesiones
 
 ###### Artículo 132.
 
@@ -1523,7 +1629,7 @@ XXIII. Por emplear más unidades que las autorizadas en el título de Concesión
 
 XXIV. Los demás casos que establezcan la Ley y el Reglamento.
 
-### Capítulo III. De la Medicina del Transporte
+### Capítulo II. De la Vigilancia del Servicio Público de Transporte
 
 ###### Artículo 138.
 
@@ -1535,7 +1641,9 @@ II. Vigilar el cumplimiento y aplicación de horarios, itinerarios, rutas, zonas
 
 III. Vigilar el cumplimiento de las disposiciones de seguridad, comodidad e higiene de las terminales y de los vehículos destinados a la prestación del servicio público de transporte.
 
-IV. Vigilar que los operadores, durante la prestación del servicio, porten la documentación vigente que acredita la autorización correspondiente: placas, tarjeta de circulación, copia de la factura del vehículo, póliza de seguro, copia de la concesión o permiso, constancia de autorización de ruta o zona, permiso de penetración si se trata de transporte foráneo, certificado vehicular para el servicio de transporte a través de plataformas, licencia de chofer y certificado de aptitud. La documentación referida deberá ser presentada cuando las autoridades competentes la requieran.
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+IV. Vigilar que los operadores, durante la prestación del servicio, porten la documentación vigente que acredita la autorización correspondiente: placas, tarjeta de circulación, copia de la factura del vehículo, póliza de seguro, copia de la concesión o permiso, constancia de autorización de ruta o zona, permiso de penetración si se trata de transporte foráneo, certificado vehicular para el servicio de transporte a través de plataformas y/o informáticas, constancia de registro, constancia de registro vehicular para el servicio de transporte de pasajeros privado especializado con chofer, licencia de chofer y certificado de aptitud. La documentación referida deberá ser presentada cuando las autoridades competentes la requieran.
 
 V. Realizar las actividades necesarias para el control, cumplimiento y mejoramiento del servicio público de transporte en todas sus modalidades.
 
@@ -1553,7 +1661,7 @@ Para una mejor vigilancia del servicio público de transporte, la Secretaría po
 
 La Secretaría podrá realizar, una vez al año, evaluación del servicio en los que se consideren indicadores de la operación, calidad del servicio y seguridad de cumplimiento que presten los concesionarios o permisionarios. Al término de cada evaluación, la Secretaría determinará las acciones necesarias para mejorar el servicio.
 
-### Capítulo IV. De la Preservación del Medio Ambiente
+### Capítulo III. De la Medicina del Transporte
 
 ###### Artículo 141.
 
@@ -1583,7 +1691,7 @@ En caso de emergencia sanitaria, los usuarios del servicio público de transport
 
 La Secretaría, en coordinación con otras autoridades, coadyuvará en el ámbito de su competencia, en el cumplimiento de los protocolos de seguridad emitidos por las autoridades de salud y podrá establecer programas emergentes de movilidad segura.
 
-### Capítulo I. De las Sanciones
+### Capítulo IV. De la Preservación del Medio Ambiente
 
 ###### Artículo 148.
 
@@ -1593,9 +1701,11 @@ La Secretaría, en coordinación con las autoridades en materia ambiental en el 
 
 La Secretaría, en el ámbito de su competencia, tomará las medidas necesarias para reducir la emisión de contaminantes con el objeto de preservar el medio ambiente a través del establecimiento de programas de verificación vehicular, restricción de circulación de vehículos, renovación de flota vehicular y promoción de los medios de movilidad no contaminantes. Estos programas estarán sujetos a las disposiciones establecidas en la Ley, el Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### Artículo 150.
 
-Los conductores del servicio público de transporte y del servicio particular y privado se abstendrán de usar de manera innecesaria el claxon o bocina, y evitarán la modificación de los silenciadores y la instalación de otros accesorios que produzcan un ruido mayor a los niveles establecidos por el fabricante del vehículo y permitidos por la ley de la materia. Para el cumplimiento de lo establecido se estará sujeto a la Ley y el Reglamento.
+Los conductores del servicio público de transporte, del servicio particular, privado y del servicio de transporte de pasajeros privado especializado con chofer, se abstendrán de usar de manera innecesaria el claxon o bocina, y evitarán la modificación de los silenciadores y la instalación de otros accesorios que produzcan un ruido mayor a los niveles establecidos por el fabricante del vehículo y permitidos por la ley de la materia. Para el cumplimiento de lo establecido se estará sujeto a la presente Ley y el Reglamento.
 
 ###### Artículo 151.
 
@@ -1603,7 +1713,7 @@ Los concesionarios, permisionarios, operadores y usuarios están obligados a coa
 
 ## Título Sexto. Del Procedimiento Sancionador y del Recurso
 
-### Capítulo II. Del Recurso
+### Capítulo I. De las Sanciones
 
 ###### Artículo 152.
 
@@ -1623,9 +1733,11 @@ En caso de la prestación del servicio público de transporte sin concesión o p
 
 Se cancelará el expediente de solicitud de concesión o permiso al conductor y al propietario del vehículo con que se preste el servicio público de transporte sin autorización.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### Artículo 156.
 
-Cuando el operador incurra en conducta que implique faltas a la moral y al buen trato que debe dar a los usuarios se le cancelará el Certificado de Aptitud y el Certificado Vehicular, en su caso, y además se le sancionará como dispone el Reglamento.
+Cuando el operador incurra en conducta que implique faltas a la moral y al buen trato que debe dar a los usuarios se le cancelará el Certificado de Aptitud, Certificado Vehicular, la Constancia de Registro y la Constancia de Registro Vehicular, en su caso, y además se le sancionará como dispone el Reglamento.
 
 ###### Artículo 157.
 
@@ -1638,6 +1750,8 @@ Cuando el infractor cometa varias transgresiones a la Ley en un mismo acto, se l
 ###### Artículo 159.
 
 Cuando el infractor reincida en la misma falta, se multará con el doble de la sanción equivalente establecida en el Reglamento, y en el supuesto de que el infractor cuente con un expediente de solicitud de concesión, se cancelará con base en el procedimiento correspondiente.
+
+### Capítulo II. Del Recurso
 
 ###### Artículo 160.
 
@@ -1698,3 +1812,17 @@ Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta d
 Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un “Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
 
 Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 263 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. La Secretaría de Finanzas deberá en un término de 60 días naturales realizar todas las adecuaciones presupuestales necesarias, así como la creación de los instrumentos jurídicos necesarios para el cumplimiento del presente Decreto.
+
+Artículo Cuarto. Las plataformas digitales, personas morales y socios que presten los servicios contenidos en el presente decreto contarán con un plazo de 30 días naturales para ajustarse a las disposiciones contenidas en esta normatividad.
+
+Artículo Quinto. La Secretaría de Movilidad y Transporte deberá realizar las adecuaciones necesarias a su Reglamento en un término de 120 días hábiles contados a partir de la entrada en vigor del presente Decreto.
