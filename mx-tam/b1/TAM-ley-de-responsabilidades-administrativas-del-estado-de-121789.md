@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-administrativas-del-estado-de-121789"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2023-07-13"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo al Extraordinario Número 10 del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -115,9 +115,13 @@ XXI. Órganos Constitucionales Autónomos: Organismos a los que la Constitución
 
 XXII. Órganos Internos de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;
 
-XXIII. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida Ley, así como los contenidos previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-XXIV. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 149 de la Constitución Política del Estado Libre y Soberano de Tamaulipas;
+XXIII. Personas Servidoras Públicas: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 149 de la Constitución Política del Estado de Tamaulipas. Toda referencia sobre Servidor Público y/o Servidores Públicos, se entenderá como el contenido de esta fracción;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XXIV. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción, que contará con los sistemas que establece la referida Ley, así como los contenidos previstos en la presente Ley;
 
 XXV. Sistema Nacional Anticorrupción: La instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos;
 
@@ -157,9 +161,11 @@ V. Cuenten, al menos, con los mismos deberes de diligencia y lealtad aplicables 
 
 Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### Artículo 7.
 
-Los servidores públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los servidores públicos observarán las siguientes directrices:
+Las personas servidoras públicas observarán en el desempeño de su empleo, cargo o comisión, los principios de austeridad, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia, eficiencia y racionalidad en el uso de los recursos públicos, que rigen el servicio público. Para la efectiva aplicación de dichos principios, los servidores públicos observarán las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -199,9 +205,13 @@ II. Los Órganos internos de control;
 
 III. La Auditoría Superior;
 
-IV. El Tribunal de Justicia Administrativa del Estado; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal de Justicia Administrativa del Estado de Tamaulipas; y el Consejo de la Judicatura Estatal, de acuerdo a lo previsto (sic) el artículo 114 de la Constitución Política del Estado y su reglamentación interna correspondiente. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+IV. El Tribunal de Justicia Administrativa del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+V. Tratándose de las responsabilidades administrativas de los Servidores Públicos del Poder Judicial del Estado serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal de Justicia Administrativa del Estado de Tamaulipas; y en lo que corresponda, el Tribunal de Disciplina Judicial, de acuerdo a lo que establezca (sic) Constitución Política del Estado, y la legislación de la materia y su reglamentación interna correspondiente. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos; y
 
 VI. El Congreso del Estado, a través de sus Comisiones, tratándose de las responsabilidades administrativas de los servidores públicos miembros de los Ayuntamientos, será competente para investigar e imponer las sanciones que correspondan.
 
@@ -1227,9 +1237,11 @@ La presentación de los testigos será responsabilidad de la parte que los ofrez
 
 Quienes por motivos de edad o salud no pudieran presentarse a rendir su testimonio ante la autoridad resolutora, se les tomará su testificación en su domicilio o en el lugar donde se encuentren, pudiendo asistir las partes a dicha diligencia.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
 ###### Artículo 148.
 
-Los representantes de elección popular, magistrados y jueces del Poder Judicial del Estado, los consejeros del Consejo de la Judicatura del Poder Judicial del Estado, los servidores públicos que sean ratificados o nombrados con la intervención del Poder Legislativo del Estado, los titulares de las dependencias del Poder Ejecutivo del Estado, y los titulares de los organismos a los que la Constitución Política del Estado otorgue autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
+Las personas representantes de elección popular, magistradas y magistrados, juezas y jueces del Poder Judicial del Estado, magistradas y magistrados del Tribunal de Disciplina Judicial, los miembros del Órgano de Administración Judicial, las personas servidoras públicas que sean ratificados o nombrados con la intervención del Poder Legislativo del Estado, los titulares de las dependencias del Poder Ejecutivo del Estado, y los titulares de los organismos a los que la Constitución Política del Estado otorgue autonomía, rendirán su declaración por oficio, para lo cual les serán enviadas por escrito las preguntas y repreguntas correspondientes.
 
 ###### Artículo 149.
 
@@ -1864,6 +1876,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-597 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS; DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-344 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES XXIII Y XXIV; 7, PÁRRAFO ÚNICO; 9, FRACCIONES IV Y V; Y 148, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
