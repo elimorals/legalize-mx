@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-las-y-los-servidores-publicos-de-150486"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-21"
-last_updated: "2021-07-21"
+last_updated: "2025-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DE SECRETARIA DE SALUD Y DE SERVICIOS DE SALUD DE NUEVO LEON, ORGANISMO PUBLICO DESCENTRALIZADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD DE NUEVO LEÓN Y DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARIA DE SALUD Y DE SERVICIOS DE SALUD DE NUEVO LEÓN, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 21 de julio de 2021.
 
@@ -386,3 +388,15 @@ Así lo acuerda y firma a los 12-doce días del mes de julio del 2021-dos mil ve
 EL C. SECRETARIO DE SALUD y DIRECTOR GENERAL DE SERVICIOS DE SALUD DE NUEVO LEÓN, ORGANISMO PÚBLICO DESCENTRALIZADO.
 
 DR. MED. MANUEL ENRIQUE DE LA O CAVAZOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO EN EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD DE NUEVO LEÓN Y EL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta de las y los Servidores Públicos de Secretaría de Salud y de Servicios de Salud de Nuevo León, Organismo Público Descentralizado, publicado el 21-veintiuno de Julio del año 2021-dos mil veintiuno.
+
+TERCERO.- Las personas servidoras públicas de la Dependencia y del Organismo, contarán con un plazo de 30 días hábiles para protestar y suscribir la carta compromiso.
