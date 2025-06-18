@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-159399"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-07-13"
-last_updated: "2023-09-30"
+last_updated: "2025-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Número 56 del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de julio del 2022.
 
@@ -2108,3 +2110,47 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. En los términos de la presente, se abroga la Ley Orgánica del Poder Judicial del Estado de Zacatecas publicada en el Periódico Oficial, Órgano de Gobierno del Estado de fecha 13 trece de julio del año dos mil veintidós.
+
+Tercero. Se abrogan los acuerdos, acuerdos generales, reglamentos y demás disposiciones emitidas por el Pleno del Tribunal Superior de Justicia.
+
+Cuarto. El Pleno del Tribunal Superior de Justicia, el Pleno del Órgano de Administración Judicial y el Pleno del Tribunal de Disciplina Judicial, deberán emitir los acuerdos generales, reglamentos, lineamientos y manuales que correspondan, respectivamente, en uso de sus facultades y atribuciones con relación a la función que les compete.
+
+Quinto. Se respetará el ingreso, permanencia y promoción de los servidores públicos del Poder Judicial mediante la Carrera Judicial en todas las categorías que lo conforman, con excepción de los cargos de juezas, jueces, magistradas y magistrados que se elegirán en términos del procedimiento establecido por el artículo 96 de la Constitución Política del Estado Libre y Soberano de Zacatecas a través de decreto 94 publicado en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas en fecha 14 de enero de dos mil veinticinco.
+
+Sexto. La disposición contenida en el artículo 94 del Decreto 94 que reforma y adiciona diversas disposiciones a la Constitución Política del Estado Libre y Soberano de Zacatecas, con relación al artículo 11 de la presente Ley, aplicará a las Juezas y Jueces que resulten electos a partir del Proceso Electoral Extraordinario 2025.
+
+Séptimo. En tanto el Órgano de Administración Judicial emite acuerdo general respectivo en términos del párrafo sexto del artículo 90 de la Constitución Política del Estado Libre y Soberano de Zacatecas, determine o, en su caso, ratifique el número, división en distritos, competencia territorial y especialización por materias, continuará vigente la disposición judicial contenida en el artículo 4 de la Ley Orgánica del Poder Judicial del Estado que se abroga en el artículo segundo transitorio del presente decreto.
+
+Octavo. Para el caso de la ausencia, renuncia, incapacidad o vacantes de Magistraturas que no hayan sido sometidas a elección en el Proceso Electoral Extraordinario 2025, y hasta que tomen protesta las personas electas en el Proceso Electoral 2026-2027, el Titular del Poder Ejecutivo podrá hacer la designación de la Magistratura Provisional correspondiente.
+
+Noveno. En caso de ausencia, renuncia, incapacidad, o vacantes de Juezas y Jueces que se generen durante el lapso citado en el artículo transitorio anterior, así como en el caso de Juezas y Jueces que resulten electos para un cargo diverso al que actualmente ocupan, en la inteligencia de que únicamente se elegirán los cargos precisados en la convocatoria emitida por la Legislatura del Estado, el Órgano de Administración Judicial hará las designaciones provisionales correspondientes y tomara las protestas de Ley.
+
+Décimo. A partir de la entrada en vigor de la presente Ley el Pleno del Tribunal Superior de Justicia a través de su presidente contará con un término improrrogable de 15 días naturales para la entrega total de la administración y todas las áreas administrativas que integran al Poder Judicial del Estado al Órgano de Administración Judicial.
+
+Al Órgano de Administración Judicial se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, conforme a lo siguiente:
+
+A. Los Órganos Auxiliares: Centro Publico de Mecanismos Alternativos de Solución de Controversias, Escuela Estatal de Formación Judicial, Biblioteca Central, la Unidad de Investigaciones Históricas del Poder Judicial del Estado, Centro Estatal de Convivencia Familiar Supervisada, Central de Peritos Judiciales, Archivo General del Poder Judicial, Órgano Interno de Control, la Oficialía de Partes, Comunicación Social, las Centrales de Notificadores y Actuarios de Zacatecas y Fresnillo, Pensiones y Cuerpo de Peritos;
+
+B. Las Unidades administrativas: Oficialía Mayor, Dirección de Recursos Humanos, Dirección de Recursos Financieros, Dirección de Recursos Materiales y Servicios Generales, Dirección de Informática, Unidad de Igualdad de Género y Derechos Humanos, Unidad de Transparencia, Unidad de Planeación, Programación y Estadística, y
+
+C. El Fondo Auxiliar para la Administración de Justicia.
+
+A partir de la entrada en vigor del presente decreto a la Escuela de Formación y Especialización Judicial se le denominara Escuela Estatal de Formación Judicial.
+
+A partir de la entrada en vigor del presente decreto al Centro Estatal de Justicia Alternativa se le denominará Centro Público de Medios Alternativos de Solución de Controversias.
+
+A partir de la entrada en vigor del presente decreto a la Unidad de Estadística se le denominará Unidad de Planeación, Programación y Estadística.
+
+A partir de la entrada en vigor del presente decreto la Oficial Mayor entregará todo lo que tenga a su cargo al Órgano de Administración Judicial, para que esté a su vez lo asigne a las áreas competentes.
+
+La entrega-recepción se llevará a cabo de acuerdo con las formalidades de una entrega-recepción individual establecida en la Ley de Entrega-Recepción del Estado de Zacatecas.
+
+Décimo primero. Se derogan las disposiciones que se opongan al presente Decreto.
