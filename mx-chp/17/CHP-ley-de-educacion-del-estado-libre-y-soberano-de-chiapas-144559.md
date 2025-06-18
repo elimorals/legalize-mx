@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-educacion-del-estado-libre-y-soberano-de-chiapas-144559"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-14"
-last_updated: "2025-01-10"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de octubre de 2020.
 
@@ -735,7 +735,9 @@ Para ejercer la docencia en instituciones normales oficiales del Estado de Chiap
 
 La educación física, artística y tecnológica son consideradas actividades de desarrollo que forman parte de los planes y programas de educación básica obligatoria.
 
-En el Estado de Chiapas se podrá impartir como optativa la materia de educación ambiental y quedará a consideración de la autoridad educativa estatal incluirla en los planes de estudios de cada uno de los niveles con los que se conforma el Sistema Educativo Estatal.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2025)</small>
+
+En el Estado de Chiapas se podrá impartir como optativa la materia de educación ambiental con contenidos adaptados a la diversidad ecológica, cultural y territorial del Estado de Chiapas, su enseñanza deberá fomentar el respeto por el entorno, el conocimiento de la biodiversidad local, la participación comunitaria en la conservación y la adopción de prácticas sostenibles, conforme a los principios del desarrollo sostenible y quedará a consideración de la autoridad educativa estatal incluirla en los planes de estudios de cada uno de los niveles con los que se conforma el Sistema Educativo Estatal.
 
 ###### Artículo 56.
 
@@ -2318,3 +2320,11 @@ P.O. 10 DE ENERO DE 2025.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 268 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 55 DE LA LEY DE EDUCACIÓN PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
