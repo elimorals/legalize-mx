@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2024-12-24"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,9 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA EL 24 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -210,45 +208,33 @@ Toda persona tiene derecho a la identidad y a ser registrada de manera inmediata
 
 Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON EL DECRETO NO. 264 PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2025, CON RESPECTO A LA REFORMA DEL PÁRRAFO 11 DEL ARTÍCULO 7, SE APLICÓ CONSIDERANDO EL CONTENIDO DE ESTE PÁRRAFO.]</small>
 
-Toda persona tiene derecho a la información pública. La garantía de acceso a la información pública, es un derecho fundamental que comprende difundir, investigar y recabar información pública, y se definirá a partir de los principios siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 18 DE JUNIO DE 2025)</small>
 
-I. Su fundamento reside en el estado humanista, social y democrático de derecho que establece esta Constitución.
+Toda persona tiene derecho al libre acceso a información pública de manera plural y oportuna, así como a investigar, buscar, recabar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión y se definirá a partir de los siguientes principios y bases:
 
-II. El acceso libre, gratuito, sencillo, antiformal, eficaz, pronto y expedito a la información.
+I. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-III. La interpretación constitucional más favorable del principio de publicidad, salvo las excepciones que por razones de interés público establezca la ley en sentido estricto.
+Las personas sujetas obligadas deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia y coordinación de las autoridades de control interno y vigilancia u homólogos en el ámbito estatal y municipal para conocer de los procedimientos de revisión contra los actos que emitan las personas sujetas obligadas.
 
-IV. La protección de los datos personales.
+II. El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-V. La obligación de transparencia del Poder Público o cualquier otra entidad que utilice, reciba o disponga de recursos públicos, en los términos de la ley.
+III. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes.
 
-VI. La administración, conservación y preservación de la documentación pública a través de mecanismos confiables, eficientes y eficaces.
+La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-VII. La constitución de un organismo público autónomo conforme a las bases previstas en esta Constitución y las siguientes:
+La ley establecerá aquella información que se considere reservada o confidencial.
 
-1. Será autoridad constitucional en la materia, independiente en sus funciones y decisiones, y profesional en su desempeño.
+IV. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, las personas sujetas obligadas contarán con las facultades suficientes para su atención.
 
-2. Contará con autonomía política, jurídica, administrativa presupuestal, patrimonial y financiera, en los términos que establezca la ley.
+V. Las y los servidores públicos deberán cumplir las obligaciones en materia de transparencia que imponga la legislación a las personas sujetas obligadas en términos de la Constitución Federal, esta Constitución y las leyes generales y locales que resulten aplicables.
 
-3. Tendrá a su cargo la rectoría de las siguientes materias:
+Las leyes determinarán la manera en que las personas sujetas obligadas deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-a) El acceso a la información pública.
+VI. Las personas sujetas obligadas deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
-b) La cultura de transparencia informativa.
-
-c) Los datos personales.
-
-d) (DEROGADO, P.O. 27 DE MARZO DE 2007)
-
-e) La realización de estadísticas, sondeos, encuestas o cualquier instrumento de opinión pública.
-
-f) Las demás atribuciones que establezca la ley.
-
-4. Su actuación se regirá por los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
-
-5. Sus integrantes serán designados por el voto de cuando menos las dos terceras partes del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+VII. Las autoridades responsables de garantizar el derecho de acceso a la información pública y protección de datos personales en posesión de las personas sujetas obligadas, serán en el Poder Ejecutivo, la secretaría del ejecutivo estatal responsable el (sic) control interno, quien además conocerá de los recursos administrativos en materia de transparencia y acceso a la información de los municipios; en los poderes Legislativo y Judicial, así como en los organismos públicos autónomos, serán sus órganos internos de control quienes resuelvan sus propios recursos, en los términos que establezcan las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2020)</small>
 
@@ -1354,9 +1340,7 @@ V. A los organismos públicos autónomos, en todo lo concerniente a su competenc
 
 VI. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residido en el Estado por más de tres años. Este derecho se ejercerá en los términos que establezca la ley.
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
-
-VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Comisionado Presidente, previo acuerdo del Consejo General.
+VII. (DEROGADA, P.O. 18 DE JUNIO DE 2025)
 
 VIII. (DEROGADA, P.O. 14 DE JULIO DE 2017)
 
@@ -1516,9 +1500,7 @@ III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya
 
 IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-V. Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7° de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
+V. (DEROGADA, P.O. 18 DE JUNIO DE 2025)
 
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
@@ -1556,7 +1538,7 @@ XI. Suspender ayuntamientos; declarar que estos han desaparecido; suspender o re
 
 XII. Fijar el territorio que corresponda a los Municipios; arreglar sus límites y, por el voto de las dos terceras partes de sus miembros, modificar la extensión de los mismos, suprimirlos y crear otros, cuando así lo exija el buen servicio público; asimismo otorgar su aprobación para la celebración de convenios de coordinación o asociación de los Municipios del Estado con los Municipios de otros Estados de la República, para la más eficaz prestación de los servicios públicos municipales o el mejor ejercicio de las funciones que les corresponden.
 
-XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
+XIII. Cambiar provicionalmente (sic) la residencia de los Poderes del Estado por la misma mayoría que exije (sic) la fracción anterior, en los términos de esta Constitución.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4166,9 +4148,9 @@ Si el servidor público ha vuelto a ejercer sus funciones propias o ha sido nomb
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Delitos por Hechos de Corrupción; de la secretaria del Ejecutivo Estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; el Presidente del Instituto Coahuilense de Acceso a la Información; así como por un representante del Tribunal de Disciplina Judicial y otro del Consejo de Participación Ciudadana, que será quien presida el Comité de Coordinación en los términos que establece la ley de la materia.
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Delitos por Hechos de Corrupción; de la Secretaría del Ejecutivo Estatal responsable del control interno; por la presidencia del Tribunal de Justicia Administrativa de Coahuila de Zaragoza; así como por una persona representante del Tribunal de Disciplina Judicial y otra del Consejo de Participación Ciudadana, que será quien presida el Comité Coordinador en los términos que establece la ley de la materia.
 
 II. El Consejo de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -4183,6 +4165,8 @@ c) La determinación de los mecanismos de suministro, intercambio, sistematizaci
 d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos.
 
 e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+> <small>(N. DE E. PERTENECE AL INCISO E, P.O. 14 DE JULIO DE 2017)</small>
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
@@ -4266,7 +4250,7 @@ Los recursos económicos de que dispongan el Estado, los Municipios, los organis
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
-Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezca el Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los artículos 67 fracción XXXIV y 158P fracción III.
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezca el Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los artículos 67 fracción XXXIV y 158 P fracción III.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4552,7 +4536,7 @@ En el caso de que ninguna de las prevenciones anteriores fuese aplicable a la de
 
 ### CAPITULO UNICO.
 
-De la Inviolavilidad (sic) y reforma de la Constitución.
+De la Inviolavilidad (sic) y Reforma de la Constitución.
 
 ###### Artículo 194.
 
@@ -4668,7 +4652,7 @@ IV. Publicación del expediente por la prensa.
 
 V. Que la adición o reforma sea aprobada por la mayoría absoluta de los Ayuntamientos del Estado.
 
-VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos Ayuntamientos.
+VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayuntamientos, la Comisión que conoció de la iniciativa, pronunciándose en sentido afirmativo o negativo, según el sentir de la mayoría absoluta de los respectivos a Ayuntamientos.
 
 VII. Declaración del Congreso, con vista y discusión del dictamen de la comisión.
 
@@ -6325,3 +6309,23 @@ Para la implementación y aplicación de este Decreto, los órganos del Estado d
 ###### ARTÍCULO NOVENO.
 
 Se derogan y quedan sin efecto, todas las disposiciones que contravengan este Decreto.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 264.- SE REFORMA EL PÁRRAFO 11 Y SUS FRACCIONES I, II, III, IV, V, VI Y VII DEL ARTÍCULO 7; LA FRACCIÓN I DEL ARTÍCULO 167; SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 59, Y LA FRACCIÓN V DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las adecuaciones legislativas necesarias para la armonización en materia de acceso a la información pública y protección de datos personales, a la Ley de Acceso a la Información Pública del Estado de Coahuila y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Coahuila de Zaragoza y demás disposiciones legales que correspondan, deberán realizarse dentro del plazo establecido en el artículo cuarto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Coahuilense de Acceso a la Información Pública quedará extinto una vez que entre en vigor la legislación a que hace referencia el artículo segundo transitorio, la cual, además, deberá establecer las bases para su liquidación, transferencia de asuntos en trámite, recursos materiales, financieros y humanos, así como lo relativo a su entrega - recepción.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
