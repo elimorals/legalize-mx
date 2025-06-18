@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1424
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-01"
-last_updated: "2021-12-22"
+last_updated: "2025-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 1 de abril de 2020.
 
@@ -2690,3 +2692,55 @@ P.O. 22 DE DICIEMBRE DE 2021.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto se abrogan: la Ley de Transparencia y Acceso a la Información Pública del Estado de Chiapas, publicada en el Periódico Oficial Número 095, Tomo III, de fecha 01 de abril de 2020 y sus correspondientes modificaciones; así como la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Chiapas, publicada en el Periódico Oficial Número 315, Segunda Sección, Tomo III, de fecha 30 de agosto de 2017 y sus correspondientes modificaciones.
+
+Asimismo, se derogan todas las disposiciones de igual o menor jerarquía que se opongan o contravengan lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Las personas que ostentan cargos de Comisionado o Comisionada del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas concluirán sus funciones a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas se entenderán hechas o conferidas a las Autoridades Garantes, según corresponda.
+
+Artículo Quinto.- La persona Titular del Poder Ejecutivo, en un término no mayor de 30 días naturales siguientes a la entrada en vigor del presente Decreto, deberá expedir el Decreto de creación del Órgano desconcentrado denominado Transparencia para el Pueblo de Chiapas.
+
+Artículo Sexto.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto tenga asignados o le correspondan al Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas que por este Decreto se extingue, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, en términos de la normatividad aplicable.
+
+Artículo Séptimo.- Las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas que dejen de prestar sus servicios en dicho Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría Anticorrupción y Buen Gobierno habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Estatal.
+
+Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el referido Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que dentro de los diez días hábiles previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, incluyendo a las y los Comisionados, deben realizar el proceso de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría Anticorrupción y Buen Gobierno del Estado designe, conforme a la normativa aplicable a la Administración Pública Estatal en los sistemas de la referida Dependencia habilitados para tales efectos o en los medios que esta determine, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+Artículo Octavo.- Los registros y padrones correspondientes al Estado de Chiapas que integran la Plataforma Nacional de Transparencia con los que cuenta el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, dentro de los siete días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Noveno.- Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, en materia de transparencia, acceso a la información pública y protección de datos personales o cualquier otra distinta, se sustanciarán ante las Autoridades Garantes que resulten competentes, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, en materia de transparencia, acceso a la información pública y protección de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevarán a cabo por la Secretaría Anticorrupción y Buen Gobierno.
+
+El Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, denominado Transparencia para el Pueblo de Chiapas, deberá remitir a las Autoridades Garantes competentes para su atención, los asuntos referidos en los párrafos anteriores que les correspondan, conforme al ámbito de sus respectivas atribuciones.
+
+Artículo Décimo.- Las personas titulares de la Secretaría Anticorrupción y Buen Gobierno y del Órgano Desconcentrado jerárquicamente subordinado a la misma, al momento que se encuentre en funciones, deberán someter a consideración de la persona Titular del Poder Ejecutivo, las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, en el ámbito de su respectiva competencia, dentro de los ciento veinte días naturales posteriores a la entrada en vigor del presente Decreto, con la finalidad de armonizarlos a las disposiciones del mismo.
+
+Artículo Décimo Primero.- Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas para el ejercicio de sus atribuciones, facultades o funciones sustantivas, de conformidad con la Ley de Archivos del Estado de Chiapas y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, dentro de los diez días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Transparencia para el Pueblo de Chiapas, al momento que se encuentre en funciones, deberá transferir los expedientes y archivos, que se mencionan en el párrafo anterior, a la autoridad competente que corresponda, dentro de los treinta días naturales siguientes contados a partir de que se reciban los mismos.
+
+Artículo Décimo Segundo.- A la entrada en vigor del presente Decreto, los asuntos y procedimientos, así como los expedientes y archivos que a la entrada en vigor del presente Decreto se encontraban asignados o en trámite ante el órgano de control interno del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas que se extingue, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, dentro de los diez días naturales siguientes y serán tramitados y resueltos por dicho Órgano Desconcentrado, conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Artículo Décimo Tercero.- Para efectos de lo dispuesto en los transitorios sexto, séptimo, octavo, noveno y décimo primero del presente Decreto el Pleno del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por las personas que se desempeñaban como Comisionados o Comisionadas y cinco personas servidoras públicas titulares de las direcciones del extinto Instituto, que tengan conocimiento o a su cargo los asuntos que se mencionan en los propios transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de diez días naturales, en el que sus integrantes participarán con el Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno al momento que se encuentre en funciones, para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+Artículo Décimo Cuarto.- El Comité del Subsistema de Transparencia del Estado de Chiapas deberá instalarse a más tardar en noventa días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría Anticorrupción y Buen Gobierno a través de su Órgano Desconcentrado, jerárquicamente subordinado a la misma, al momento que se encuentre en funciones.
+
+Artículo Décimo Quinto.- La persona titular de la Secretaría Técnica del Comité del Subsistema de Transparencia del Estado de Chiapas, propondrá las reglas de operación y funcionamiento de dicho órgano colegiado, a efecto de ser sometidas a la aprobación correspondiente.
+
+Artículo Décimo Sexto.- El órgano de control interno, homólogo o equivalente de cada uno de los órganos de los Poderes Legislativo y Judicial, de los Organismos u Órganos Autónomos y de los Ayuntamientos, Concejos Municipales y Organismos Públicos Descentralizados de los Municipios, así como el Instituto de Elecciones y Participación Ciudadana, los Juzgados Especializados en Materia Burocrática y el Centro de Conciliación Laboral del Estado de Chiapas, en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Artículo Décimo Séptimo.- Para efectos de lo previsto en el presente Decreto, se suspenden por un plazo de noventa días naturales, contados a partir de su entrada en vigor, todos y cada uno de los trámites, procedimientos y medios de impugnación, establecidos en el presente Decreto y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información pública y de ejercicio de Derechos ARCO que se tramitan a través de la Plataforma Nacional de Transparencia, así como el reporte de las obligaciones de transparencia, por parte de las Autoridades Garantes y Sujetos Obligados.
