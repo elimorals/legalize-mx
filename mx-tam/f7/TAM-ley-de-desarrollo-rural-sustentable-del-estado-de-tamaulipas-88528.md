@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2024-08-21"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -245,13 +245,17 @@ XIII. Promover el incremento de recursos financieros disponibles para el desarro
 
 XIV. Fomentar la producción de cultivos alternativos de mayor rentabilidad, integrar cadenas productivas y proyectos que den valor agregado a la producción primaria;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-XV. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural; y,
+XV. Promover la concurrencia de los órdenes de gobierno y sectores en la gestión del desarrollo rural;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2025)</small>
 
-XVI. Fortalecer la organización social y productiva de la mujer rural.
+XVI. Fortalecer la organización social y productiva de la mujer rural; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XVII. Garantizar la participación de las mujeres del medio rural en la toma de decisiones en la comunidad, entorno al control, protección y aprovechamiento de los recursos naturales.
 
 ###### ARTÍCULO 7.
 
@@ -1638,6 +1642,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-892 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 2, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-343 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XV Y XVI; Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 6 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
