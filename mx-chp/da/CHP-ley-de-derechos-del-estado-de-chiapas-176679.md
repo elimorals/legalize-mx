@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-176679"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-31"
-last_updated: "2025-01-22"
+last_updated: "2025-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2024.
 
@@ -1807,6 +1807,14 @@ XVIII. Por la expedición de la constancia de autorización de zona para el serv
 
 XIX. Por la renovación anual de la constancia de autorización de zona para el servicio público de transporte en vehículos denominados mototaxis. $210.00
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XX. Por la expedición de la Constancia de Registro del uso de plataformas tecnológicas para el servicio de transporte de pasajeros privado especializado con chofer. $5,250.00
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+XXI. Por renovación anual de la Constancia de Registro del uso de plataformas tecnológicas para el servicio de transporte de pasajeros privado especializado con chofer. $3,150.00
+
 #### Sección Tercera. Servicios que presta la Dirección de Proyectos Estratégicos y Capacitación Integral al Sector
 
 ###### Artículo 38.
@@ -1832,6 +1840,14 @@ V. Por expedición de certificado vehicular para prestar el servicio público de
 VI. Por reposición de certificado vehicular de operadores para prestar el servicio público a través del uso de plataformas tecnológicas con vigencia de origen, robo o extravío. $158.00
 
 VII. Por expedición de Constancia de Antigüedad como operador del servicio público de transporte. $116.00
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+VIII. Por expedición de Constancia de Registro Vehicular para prestar el servicio de transporte de pasajeros privado especializado con chofer a través del uso de plataformas tecnológicas, a un año: $158.00
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+
+IX. Por reposición de Constancia de Registro Vehicular de operadores para prestar el servicio de transporte de pasajeros privado especializado con chofer a través del uso de plataformas tecnológicas con vigencia de origen, robo o extravío. $158.00
 
 #### Sección Cuarta. Servicios que presta la Coordinación de Oficinas de Enlace
 
@@ -2692,3 +2708,11 @@ Artículo Cuarto. Los ayuntamientos municipales en un plazo no mayor a treinta d
 Artículo Quinto. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo a través de la Secretaría de Finanzas, implementará un “Programa para el Suministro Gratuito de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Chiapas.
 
 Las erogaciones que se generen con motivo de la implementación del programa mencionado en el párrafo anterior, se cubrirán con cargo al presupuesto asignado a la Secretaría de Finanzas, por lo que no se asignarán partidas presupuestales adicionales durante el presente ejercicio fiscal.
+
+P.O. 18 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 272 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opogan a lo dispuesto en el presente Decreto.
