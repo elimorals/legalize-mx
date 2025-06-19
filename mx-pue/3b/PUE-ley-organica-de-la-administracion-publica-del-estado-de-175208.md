@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-175208"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-28"
-last_updated: "2025-03-14"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
 
 Ley publicada en la Tercera Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el jueves 28 de noviembre de 2024.
 
@@ -419,7 +419,9 @@ X. SECRETARÍA DE SALUD;
 
 XI. SECRETARÍA DE DEPORTE Y JUVENTUD;
 
-XII. SECRETARÍA DE EDUCACIÓN;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XII. SECRETARÍA DE EDUCACIÓN PÚBLICA;
 
 XIII. SECRETARÍA DE CIENCIA, HUMANIDADES, TECNOLOGÍA E INNOVACIÓN;
 
@@ -897,7 +899,9 @@ XLVI. Llevar a cabo los programas de educación, capacitación y vinculación pa
 
 XLVII. Promover la formación y el desarrollo integral de la y el trabajador como elemento esencial para dignificar y humanizar el trabajo;
 
-XLVIII. Trabajar de manera coordinada con la Secretaría de Educación para la capacitación, el impulso del empleo, así como el incremento a la productividad laboral entre los distintos sectores de la producción;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XLVIII. Trabajar de manera coordinada con la Secretaría de Educación Pública para la capacitación, el impulso del empleo, así como el incremento a la productividad laboral entre los distintos sectores de la producción;
 
 XLIX. Promover, en coordinación con la Secretaría de Seguridad Pública, programas de capacitación e integración laboral para las personas privadas de su libertad en los centros penitenciarios en el Estado;
 
@@ -1001,7 +1005,9 @@ XXIV. Impulsar la promoción y difusión de las y los artistas y artesanos pobla
 
 XXV. Promover, impulsar, fomentar y organizar la difusión, exposición, exhibición y el desarrollo del sector artesanal y, en especial, de las artesanías y productos artesanales, elaborados por los pueblos y comunidades indígenas y afromexicanas de la Entidad, en el ámbito de su competencia, y articularse con la Secretaría de Desarrollo Económico y Trabajo para estimular su comercialización y exportación;
 
-XXVI. Estimular la creación y la difusión editorial y fortalecer, en conjunto con la Secretaría de Educación, acciones dirigidas al fomento y la promoción de la lectura;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XXVI. Estimular la creación y la difusión editorial y fortalecer, en conjunto con la Secretaría de Educación Pública, acciones dirigidas al fomento y la promoción de la lectura;
 
 XXVII. Coadyuvar con la Secretaría de Gobernación y los municipios del Estado que lo soliciten, en el manejo y preservación de los archivos históricos, como parte del patrimonio cultural del Estado;
 
@@ -1053,7 +1059,9 @@ XVIII. Emplear los medios masivos de comunicación, las tecnologías de la infor
 
 XIX. Proponer e impulsar la formación de asociaciones, comités, consejos, otras formas de organización y patronatos de carácter público, privado o mixto de naturaleza turística para apoyar el desarrollo económico y turístico, y fomentar los valores regionales del Estado;
 
-XX. Proponer a la Secretaría de Educación formas de organización, desarrollo y promoción de la educación turística;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XX. Proponer a la Secretaría de Educación Pública formas de organización, desarrollo y promoción de la educación turística;
 
 XXI. Promover e impulsar programas y proyectos turísticos vinculados a segmentos afines a las tradiciones, usos y costumbres de los pueblos y comunidades indígenas y afromexicanas del Estado, ejecutándolos conjuntamente y con pleno respeto y reconocimiento a su autonomía, desarrollo integral y sustentable;
 
@@ -1361,7 +1369,9 @@ XIII. Promover la participación ciudadana en la formulación y ejecución de lo
 
 XIV. Elaborar y administrar un sistema de información y seguimiento de los programas y acciones en materia de deporte y juventud, con el fin de conocer sus resultados y, en su caso, rediseñar su contenido y operación para eficientar su funcionamiento;
 
-XV. Vincular los programas y acciones en materia de deporte y juventud, con las estrategias de desarrollo educativo de la Secretaría de Educación del Estado;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XV. Vincular los programas y acciones en materia de deporte y juventud, con las estrategias de desarrollo educativo de la Secretaría de Educación Pública del Estado;
 
 XVI. Elaborar, promover y ejecutar políticas específicas en materia de deporte y juventud, para la atención, desarrollo e integración de las personas adultas mayores e integrantes de los pueblos y comunidades indígenas y afromexicanas de nuestro Estado, según corresponda;
 
@@ -1395,11 +1405,15 @@ XXX. Convocar, organizar y vincular a las personas jóvenes de la Entidad con la
 
 XXXI. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones aplicables.
 
-### CAPÍTULO XIII. DE LA SECRETARÍA DE EDUCACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO XIII. DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 43.
 
-A la Secretaría de Educación le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Educación Pública le corresponde el despacho de los siguientes asuntos:
 
 I. Prestar el servicio público de educación sin perjuicio de la concurrencia de los municipios del Estado y de la federación conforme a las leyes y reglamentos aplicables;
 
@@ -1511,13 +1525,17 @@ IX. Promover la comunicación y coordinación entre el Estado y las institucione
 
 X. Promover el desarrollo en los campos científico, humanístico, tecnológico e innovación, garantizando el respeto a las libertades de investigación, invención, docencia, expresión y autonomía en las universidades, mediante el intercambio y colaboración nacional e internacional;
 
-XI. Asesorar a la Secretaría de Educación, cuando ésta se lo solicite, para el establecimiento de nuevos centros de enseñanza en materia científica, humanística, tecnológica e innovación, según corresponda;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XI. Asesorar a la Secretaría de Educación Pública, cuando ésta se lo solicite, para el establecimiento de nuevos centros de enseñanza en materia científica, humanística, tecnológica e innovación, según corresponda;
 
 XII. Fomentar la coordinación en la materia, entre la Entidad con la Federación y los municipios del Estado, con el fin de alinear los objetivos estatales e impulsar el desarrollo municipal en materia científica, humanística, tecnológica e innovación;
 
 XIII. Promover la colaboración y corresponsabilidad entre las instituciones de educación superior y las comunidades académicas, científicas, tecnológicas y productivas, para que el conocimiento científico y humanístico, el desarrollo tecnológico y la innovación se conviertan en motores de progreso económico y de bienestar social;
 
-XIV. Coordinar y facilitar la integración de enfoques y contenidos de ciencias, humanidades, tecnologías e innovación en los planes y programas de estudio, en colaboración con la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XIV. Coordinar y facilitar la integración de enfoques y contenidos de ciencias, humanidades, tecnologías e innovación en los planes y programas de estudio, en colaboración con la Secretaría de Educación Pública;
 
 XV. Fomentar, en coordinación con la Secretaría de Desarrollo Económico y Trabajo, la instalación de empresas que produzcan o empleen tecnologías para la producción de bienes y servicios;
 
@@ -1583,7 +1601,9 @@ XLV. Asesorar y coadyuvar con las instancias públicas y privadas, previa solici
 
 XLVI. Desarrollar e implementar programas de cooperación y movilidad en los ámbitos estatal, nacional e internacional, y promover la creación de redes y alianzas, así como establecer espacios de trabajo colaborativo entre las comunidades académicas y científico-tecnológicas de la Entidad;
 
-XLVII. Colaborar con la Secretaría de Educación para ampliar la oferta educativa de nivel medio superior y superior, mediante la expansión de instituciones y programas que fortalezcan la educación universitaria con un enfoque multidisciplinario que promueva el desarrollo científico, humanístico y tecnológico de la Entidad;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XLVII. Colaborar con la Secretaría de Educación Pública para ampliar la oferta educativa de nivel medio superior y superior, mediante la expansión de instituciones y programas que fortalezcan la educación universitaria con un enfoque multidisciplinario que promueva el desarrollo científico, humanístico y tecnológico de la Entidad;
 
 XLVIII. Facilitar y coordinar la participación de los sectores público, social y privado en actividades y proyectos de investigación científica y humanística, así como en desarrollo tecnológico e innovación, mediante asociaciones estratégicas que maximicen el efecto de las inversiones conjuntas en áreas clave y emergentes con alto potencial de impacto para la atención de las prioridades regionales y locales;
 
@@ -2256,3 +2276,21 @@ OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en el
 NOVENO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente ordenamiento, se refiera a la Secretaría de Planeación, Finanzas y Administración o a la Unidad Administrativa que deje de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a la Secretaría Anticorrupción y Buen Gobierno a que se refiere el presente ordenamiento y a las que se asignen las facultades específicas que en cada caso se relacionen.
 
 DÉCIMO. La persona Titular del Poder Ejecutivo del Estado de Puebla, dentro de los noventa días naturales a partir de la entrada en vigor del presente Decreto, expedirá las reformas a los reglamentos interiores correspondientes. En tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
+
+P.O. 19 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 31, LA FRACCIÓN XLVIII DEL 35, LA FRACCIÓN XXVI DEL 36, LA FRACCIÓN XX DEL 37, LA FRACCIÓN XV DEL 42, EL ACÁPITE DEL 43, LAS FRACCIONES XI, XIV Y XLVII DEL 44 Y LA DENOMINACIÓN DEL CAPÍTULO XIII DEL TÍTULO II “DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA”; TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La persona Titular de la Secretaría de Educación Pública, dentro de los noventa días naturales a partir de la entrada en vigor del presente Decreto, realizará las modificaciones necesarias a los instrumentos correspondientes y en tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
+
+CUARTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material que, a la entrada en vigor del presente Decreto, se refiera a la “Secretaría de Educación”, se entenderá que se refiere a la “Secretaría de Educación Pública”.
+
+QUINTO. La Secretaría de Planeación, Finanzas y Administración, llevará a cabo las modificaciones correspondientes al Acuerdo de la Secretaría de Planeación y Finanzas del Gobierno del Estado, por el que se definen, clasifican y dan a conocer las Formas Oficiales Valoradas, las Formas Oficiales de Reproducción Restringida, ya sean impresas o digitales, que se utilizan en la prestación de los servicios establecidos en la Ley de Ingresos del Estado de Puebla, así como las Formas Oficiales de Libre Reproducción necesarias para el cumplimiento de las obligaciones a cargo de los contribuyentes, con la intervención de la Secretaría de Educación Pública del Estado. El plazo para realizar estas modificaciones no excederá de sesenta días naturales posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Sin perjuicio de lo anterior, las Formas Oficiales Valoradas existentes al momento de la entrada en vigor del presente Decreto y que contienen la denominación “Secretaría de Educación”, se seguirán utilizando hasta que se agoten o se autorice su destrucción de acuerdo con la normatividad aplicable.
+
+SÉPTIMO. El personal, mobiliario, archivo y en general el equipo que haya utilizado la “Secretaría de Educación”, a la entrada en vigor del presente Decreto se entenderá a cargo de la “Secretaría de Educación Pública”.
