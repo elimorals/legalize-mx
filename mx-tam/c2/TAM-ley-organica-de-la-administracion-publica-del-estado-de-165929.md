@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-05-22"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -769,9 +769,21 @@ XIII. Fomentar y coordinar con sectores público y privado exposiciones y museos
 
 XIV. Promover la cultura y recreación entre los trabajadores y sus familias;
 
-XV. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Juventud de Tamaulipas; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
 
-XVI. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XV. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Juventud de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XVI. Proporcionar la asesoría para que las personas empleadoras implementen los protocolos para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XVII. Vigilar la existencia del protocolo para prevenir la discriminación por razones de género y atender casos de violencia, acoso u hostigamiento sexual, así como verificar que dicho protocolo sea del conocimiento del personal y se encuentre accesible dentro del centro de trabajo; y
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XVIII. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende la Gobernadora o el Gobernador del Estado con relación a sus competencias.
 
 #### Sección IX. De la Secretaría de Desarrollo Rural, Pesca y Acuacultura
 
@@ -1818,3 +1830,15 @@ Se instruye a la Oficina del Gobernador, así como a la Contraloría Gubernament
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-347 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XV Y XVI; Y SE ADICIONAN LAS FRACCIONES XVI Y XVII, RECORRIÉNDOSE LA ACTUAL XVI PARA SER XVIII, DEL ARTÍCULO 32, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas empleadoras tendrán 90 días a partir de la entrada en vigor del presente decreto para elaborar y, en su caso, registrar ante la Secretaría del Trabajo y Previsión Social del Estado de Tamaulipas, los protocolos que implementen para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual.
