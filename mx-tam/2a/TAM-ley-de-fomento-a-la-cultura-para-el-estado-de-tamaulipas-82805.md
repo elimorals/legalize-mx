@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-cultura-para-el-estado-de-tamaulipas-82805"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2025-02-04"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
 
 Ley publicada el Periódico Oficial, el jueves 1 de septiembre de 2011.
 
@@ -149,13 +149,17 @@ VIII. Organizar el Sistema, así como todo tipo de actividades culturales y art�
 
 IX. Otorgar el Premio Estatal de Cultura, conforme lo dispuesto en la Ley de Premios, Estímulos y Recompensas del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
 
-X. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas; y
+X. Diseñar, desarrollar y mantener actualizado el Padrón Estatal de Artistas;
 
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
 
-XI. Promover las artesanías, artes, obras o cualquier otra expresión cultural de autores nacidos o radicados en Tamaulipas, por medio de la realización de campañas permanentes de difusión a través de los medios digitales oficiales a los que tenga acceso.
+XI. Promover las artesanías, artes, obras o cualquier otra expresión cultural de autores nacidos o radicados en Tamaulipas, por medio de la realización de campañas permanentes de difusión a través de los medios digitales oficiales a los que tenga acceso; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2025)</small>
+
+XII. Impulsar la participación de empresas extranjeras y nacionales en actividades culturales conjuntas con la autoridad estatal, mediante diversas acciones dentro y fuera de las instalaciones.
 
 ###### ARTÍCULO 8.
 
@@ -636,6 +640,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “NO. 66-234 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LAS FRACCIONES III Y IV, Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 49 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-345 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES X Y XI; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
