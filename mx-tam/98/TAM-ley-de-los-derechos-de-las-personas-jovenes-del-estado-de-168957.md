@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-jovenes-del-estado-de-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2023-12-21"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Número 153 del Periódico Oficial del Estado de Tamaulipas, el jueves 21 de diciembre de 2023.
 
@@ -389,9 +389,11 @@ Las autoridades en el ámbito de sus competencias propiciarán que se respete es
 
 Las autoridades ministeriales y judiciales emplearán todos los medios científicos y técnicos más avanzados que se conozcan para recibir y salvaguardar la información de las personas jóvenes, a fin de preservar su integridad, salud física y mental, y proteger su sano desarrollo.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 42.
 
-Las personas jóvenes tendrán derecho al acceso a la información pública y a la protección de sus datos personales, conforme a la legislación aplicable. Los servidores públicos estarán obligados a proporcionarles todo tipo de información de acuerdo a las disposiciones legales en la materia, así como promover la accesibilidad a las nuevas tecnologías de información y las comunicaciones; homologando los criterios y espacios donde se proporcione, difunda o coloque información pública para personas jóvenes invidentes y débiles visuales, a quienes se les garantizará el acceso pleno a la información pública en los medios adecuados.
+Las personas jóvenes tendrán derecho al acceso a la información pública y a la protección de sus datos personales, conforme a la legislación aplicable. Los servidores públicos estarán obligados a proporcionarles todo tipo de información de acuerdo a las disposiciones legales en la materia, así como promover la accesibilidad a las nuevas tecnologías de información y las comunicaciones; homologando los criterios y espacios donde se proporcione, difunda o coloque información pública para personas jóvenes con discapacidad visual, a quienes se les garantizará el acceso pleno a la información pública en los medios adecuados.
 
 ###### ARTÍCULO 43.
 
@@ -1290,3 +1292,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los catorce días del mes de diciembre del año dos mil veintitrés.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-346 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
