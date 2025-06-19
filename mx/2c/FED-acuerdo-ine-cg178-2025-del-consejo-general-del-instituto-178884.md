@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg178-2025-del-consejo-general-del-instituto-178884
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-03-18"
-last_updated: "2025-03-18"
+last_updated: "2025-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178884&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2025-02-19"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS, PROCEDIMIENTOS DE FISCALIZACIÓN Y LIMITES DE APORTACIONES APLICABLES PARA LAS ORGANIZACIONES CIUDADANAS QUE PRETENDEN OBTENER REGISTRO COMO PARTIDO POLÍTICO NACIONAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 19 DE JUNIO DE 2025, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2025.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 18 de marzo de 2025.
 
@@ -218,3 +220,25 @@ https://ine.mx/sesion-extraordinaria-del-consejo-general-19-de-febrero-de-2025/
 Página DOF
 
 www.dof.gob.mx/2025/INE/CGext202502_19_ap_11.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE JUNIO DE 2025.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE DA CUMPLIMIENTO A LA SENTENCIA DICTADA POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL EXPEDIENTE SUP-JDC-1697/2025, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDA
+
+PRIMERO. Se modifica el artículo 60, del Apartado 1 del Acuerdo INE/CG178/2025, por el que se emitieron los Lineamientos y Procedimientos de Fiscalización para las Organizaciones Ciudadanas que pretenden obtener registro como Partido Político Nacional, en los términos precisados en los Considerando 4 del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección Ejecutiva de Asuntos Jurídicos de este Instituto para que informe a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, el cumplimiento a lo ordenado al resolver el expediente SUP-JDC-1697/2025.
+
+TERCERO. Se instruye a la Unidad Técnica de Fiscalización para que, por el medio más idóneo, de conformidad con lo dispuesto en el artículo 9, numeral 1, incisos e bis) y f) del Reglamento de Fiscalización, notifique a las organizaciones ciudadanas que pretendan obtener registro como partido político nacional el presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva del Instituto, para que haga del conocimiento a las Direcciones Ejecutivas de Prerrogativas y Partidos Políticos, así como de Organización Electoral, el presente Acuerdo.
+
+Asimismo, la Dirección Ejecutiva de Organización Electoral informará el presente Acuerdo a las Juntas Locales y Distritales Ejecutivas del Instituto, para su debida difusión y cumplimiento.
+
+QUINTO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo General
+
+SEXTO. Publíquese en la página de Internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
