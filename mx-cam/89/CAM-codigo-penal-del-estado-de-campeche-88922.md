@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-06-11"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -4787,9 +4787,25 @@ I. Si las lesiones ponen en peligro la vida del animal;
 
 II. Si causan mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales de manera parcial o total y permanente al animal sin fines médicos o justificación realizada por especialista o persona que cuente con conocimientos técnicos en la materia;
 
-III. Si provocan una incapacidad parcial o total al animal o disminuyen alguna de sus facultades o el normal funcionamiento de un órgano o miembro del animal; o
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
 
-IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los fotografía o videograba para hacerlos públicos por cualquier medio.
+III. Si provocan una incapacidad parcial o total al animal o disminuyen alguna de sus facultades o el normal funcionamiento de un órgano o miembro del animal;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los fotografíe o videograbe para hacerlos públicos por cualquier medio;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+V. Si los hechos se hubieren ejecutado en presencia de un menor de edad, con excepción de lo establecido en el artículo 385 Bis de este Código;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+VI. Si en el acto de maltrato o crueldad animal se emplee el uso de pirotecnia o armas de fuego; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+VII. Cuando se atropelle de manera intencional a un animal, pudiendo evitarse, ya sea en calles, avenidas o carreteras de cualquier tipo, vías primarias o secundarias, caminos rurales o comunales, o se traslade o arroje a un animal a estas vías de comunicación para ser atropellado.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2024)</small>
 
@@ -5424,3 +5440,13 @@ Artículo Primero.- El presente decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 95 POR EL QUE "SE REFORMAN LAS FRACCIONES III Y IV Y, SE ADICIONAN LAS FRACCIONES V, VI Y VII AL ARTÍCULO 383 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
