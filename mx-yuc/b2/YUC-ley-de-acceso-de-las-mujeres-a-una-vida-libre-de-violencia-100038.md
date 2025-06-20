@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2024-07-02"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE JUNIO DE 2025.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -43,11 +43,13 @@ Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatá
 
 ### Capítulo único. Disposiciones preliminares
 
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2025)</small>
+
 ###### Artículo 1.
 
 Objeto
 
-Esta ley es de orden público, de interés social y de observancia general en el estado de Yucatán y tiene por objeto garantizar el derecho de las mujeres a una vida libre de violencia, a través de la regulación de los principios de actuación y mecanismos de coordinación entre las autoridades y las medidas de atención a las víctimas.
+Esta Ley es de orden público, de interés social y de observancia general en el estado de Yucatán y tiene por objeto garantizar el derecho de todas las mujeres en igualdad de condiciones, a una vida libre de violencia, a través de la regulación de los principios de actuación y mecanismos de coordinación entre las autoridades y las medidas de atención a las víctimas, velando en todo momento por brindar un debido acompañamiento a las mismas, así como también evitar y erradicar la revictimización.
 
 ###### Artículo 2.
 
@@ -95,11 +97,17 @@ IX. Programa especial: el Programa Especial para Prevenir, Atender, Sancionar y 
 
 X. Sistema estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-XI. Víctima: la niña, adolescente o mujer de cualquier edad a quien se le inflige algún tipo de violencia contra las mujeres.
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2025)</small>
+
+XI. Víctima: es toda aquella niña, adolescente o mujer de cualquier edad, origen, creencia y autodeterminación, a quien se le inflige algún tipo de violencia contra las mujeres.
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
 XII. Violencia contra las mujeres: la acción u omisión por motivo de género, que tenga como resultado violencia económica, física, psicológica, sexual, estética, obstétrica o cause la muerte de la mujer, en términos del artículo 6 de esta ley; tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
+XIII. Debido acompañamiento: Es la obligación de las personas servidoras públicas y de la sociedad en general a quienes corresponda la atención de las víctimas, de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva con la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
 ###### Artículo 3.
 
@@ -124,6 +132,10 @@ III. La no discriminación por razones de género, en términos del último pár
 IV. La libertad y autonomía de las mujeres.
 
 V. La perspectiva de género.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
+VI. Autodeterminación humana.
 
 ###### Artículo 5.
 
@@ -167,7 +179,15 @@ XIII. En caso de tener alguna discapacidad, a recibir los servicios necesarios p
 
 XIV. Ser debidamente asesorado e informado por parte del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, sobre el alcance y procedimiento para poder ejercitar el derecho de cancelación establecido en la Ley Federal de Protección de Datos Personales en Posesión de Particulares.
 
-XV. Los demás derechos previstos en esta ley, en la ley general, en las leyes general y estatal de víctimas, y en otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
+XV. A no ser revictimizadas por parte de los servidores públicos y de la sociedad en general a quienes corresponda su atención.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
+XVI. A que se les brinde un debido acompañamiento, aplicando las bases propias de la confianza, trato digno, respeto a la víctima, y limitando las actuaciones jurídicas en pro y salvaguarda de la integridad de la mujer.
+
+XVII. Los demás derechos previstos en esta ley, en la ley general, en las leyes general y estatal de víctimas, y en otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 6.
 
@@ -175,7 +195,9 @@ Tipos de violencia
 
 Las medidas de atención a que se refiere esta ley corresponderán a los tipos de violencia siguientes:
 
-I. Violencia económica: es toda acción u omisión del agresor que se manifiesta a través de limitaciones encaminadas a controlar el ingreso de las percepciones económicas de la víctima, en la negación injustificada para obtener recursos económicos, en la exigencia de exámenes de no gravidez, en el incumplimiento de las condiciones de trabajo, en la explotación laboral y en la percepción de un salario menor por igual trabajo dentro de un mismo centro laboral.
+> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2025)</small>
+
+I. Violencia económica: es toda acción u omisión del agresor que se manifiesta a través de limitaciones encaminadas a controlar el ingreso de las percepciones económicas de la víctima, en la negación injustificada para obtener recursos económicos, en la exigencia de exámenes de no gravidez, en el incumplimiento de las condiciones de trabajo, en la explotación laboral y en la percepción de un salario menor por igual trabajo dentro de un mismo centro laboral; así como la omisión total o parcial en el pago de la pensión alimenticia.
 
 > <small>(REFORMADA, D.O. 2 DE JULIO DE 2024)</small>
 
@@ -1073,11 +1095,13 @@ El consejo estatal, para el cumplimiento de su objeto y sus atribuciones, contar
 
 ### Capítulo I. Medidas de atención
 
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2025)</small>
+
 ###### Artículo 40.
 
 Objeto de las medidas de atención
 
-Las medidas de atención, a cargo de las autoridades estatales y municipales, en los términos de las competencias establecidas en esta ley, tienen por objeto brindar atención a las víctimas, así como otorgarles protección y seguridad para garantizar el acceso a una vida libre de violencia.
+Las medidas de atención, a cargo de las autoridades estatales y municipales, en los términos de las competencias establecidas en esta ley, tienen por objeto brindar atención pronta, digna y suficiente a las víctimas, así como otorgarles protección y seguridad para garantizar el acceso a una vida libre de violencia.
 
 ###### Artículo 41.
 
@@ -1089,9 +1113,13 @@ I. Órdenes de protección.
 
 II. Refugios temporales.
 
-III. Centros de reeducación.
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
-IV. Las demás medidas de atención que son competencia de las autoridades integrantes del sistema estatal previstas en el título segundo de esta ley.
+III. Debido acompañamiento a las mujeres víctimas de violencia.
+
+IV. Centros de reeducación.
+
+V. Las demás medidas de atención que son competencia de las autoridades integrantes del sistema estatal previstas en el título segundo de esta ley.
 
 ### Capítulo II. Órdenes de Protección
 
@@ -1407,13 +1435,69 @@ XI. Los demás que dispongan las autoridades en la materia.
 
 Los servicios a cargo de los refugios temporales deberán prestarse con perspectiva de género a fin de que las víctimas al concluir su estancia estén en la posibilidad de acceder a una vida libre de violencia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE JUNIO DE 2025)</small>
+
+### Capítulo III Bis. Del debido acompañamiento a las mujeres víctimas de violencia
+
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+
+###### Artículo 61 Bis.
+
+Del debido acompañamiento
+
+Con el objetivo de tener mayor confianza por parte de las víctimas para con las autoridades e incentivar la cultura de la denuncia o demanda, este mecanismo debe emplear técnicas de sensibilización respecto de las víctimas, con el objeto de salvaguardar la integridad de las mismas, así como también evitar una revictimización o victimización secundaria, para lo cual, los servidores públicos y de la sociedad en general a quienes corresponda la atención de las víctimas, deberán desarrollar esta figura jurídica, conforme a los (sic) dispuesto en el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales respecto de los derechos humanos, y derechos de las mujeres.
+
+Es por ello que, los servidores públicos y la sociedad en general a quienes corresponda la atención de las víctimas, deberán capacitarse y prepararse en temas de trato digno, sensibilización y todo lo referente a los derechos de las mujeres.
+
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+
+###### Artículo 61 Ter.
+
+Objetivos del debido acompañamiento
+
+Los objetivos del debido acompañamiento a mujeres víctimas de violencia, son:
+
+I. Establecer las bases y aspectos teóricos y jurídicos para la atención de mujeres víctimas.
+
+II. Especificar las características de los servicios de acompañamiento, incluida la sensibilización y trato digno.
+
+III. Forjar la confianza y el alcance de la prestación de servicios de acompañamiento por parte de los servidores públicos y de la sociedad en general a quienes corresponda la atención de las víctimas.
+
+IV. Facilitar la comprensión de todo lo concerniente a un debido acompañamiento, así como también de todas y cada una de las actuaciones judiciales.
+
+V. Evitar la revictimización de las mujeres en situación de violencia.
+
+VI. Vincular con los servicios médicos, psicológicos, sociales, jurídicos o cuales quiera (sic) que tengan injerencia en el caso que se trate, para que, en coadyuvancia, la víctima se sienta protegida y en confianza.
+
+VII. Mantener un ambiente donde la víctima se siente en confianza y protección.
+
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+
+###### Artículo 61 Quáter.
+
+El acompañamiento a víctimas
+
+El acompañamiento de las víctimas buscará en todo momento:
+
+I. Orientar y asesorar a las víctimas utilizando un lenguaje claro y sencillo, que deberá ser de respeto y digno.
+
+II. Representar a las víctimas directas e indirectas ante cualquier instancia institucional a efecto de restablecer sus derechos humanos, así como aplicar normas y estándares internacionales en todas las actuaciones pertinentes.
+
+III. Hacer del conocimiento de los derechos que les confiere la Ley de Protección a las Víctimas, el Código Nacional de Procedimientos Penales, o la normatividad en materia de violencia a las mujeres, tanto federal como estatal.
+
+IV. Comunicar a la víctima el derecho que tiene para solicitar a la autoridad ministerial y judicial las órdenes de protección que correspondan.
+
+V. Garantizar que cuando la víctima sea una menor de edad, deberá estar acompañada por su tutor o quien tenga su representación legal, en cuyo caso el o la asesor jurídico tendrá la obligación de informarles en un lenguaje claro y sencillo, con respeto y velando por la dignidad de sus derechos, todo lo concerniente al procedimiento jurídico del que se trate. Vigilando en todo momento que se cumpla con el interés superior de la infancia por parte de las autoridades.
+
+VI. Asegurar que el acompañamiento de la víctima se realicen las solicitudes que se hagan al Ministerio Público o Fiscalía competente, para que éste dicte las medidas de protección requeridas, mismas que deberán de guardar congruencia con los hechos delictivos y que sean las más prontas, expeditas y favorables para las víctimas.
+
+VII. Canalizar a las víctimas a los servicios médicos que así lo requiera (sic), tomando como base la autorización de la víctima.
+
+VIII. Toda actuación, procedimiento o acción, deberá ser en primera instancia informado a la víctima de su realización, y de manera discrecional, velando por la integridad de ésta, se realizarán.
+
+IX. La integridad y la dignidad de toda mujer serán los que prevalezcan en cada una de las actuaciones que debe contener el debido acompañamiento.
+
 ### Capítulo IV. Centros de reeducación
-
-### Capítulo V
-
-De los Protocolos de Actuación para la Prevención, Atención, Sanción y Erradicación de Violencia contra Mujeres, Niñas y de Género.
-
-> <small>(ADICIONADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 62.
 
@@ -1460,6 +1544,12 @@ III. Información jurídica sobre las consecuencias legales de su conducta.
 IV. Los demás que dispongan las autoridades en la materia.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JUNIO DE 2021)</small>
+
+### Capítulo V
+
+De los Protocolos de Actuación para la Prevención, Atención, Sanción y Erradicación de Violencia contra Mujeres, Niñas y de Género.
+
+> <small>(ADICIONADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 67.
 
@@ -1972,3 +2062,15 @@ D.O. 2 DE JULIO DE 2024.
 Entrada en vigor
 
 Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 83/2025 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA ECONÓMICA, Y DEBIDO ACOMPAÑAMIENTO A LAS MUJERES VÍCTIMAS DE VIOLENCIA”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a este decreto.
