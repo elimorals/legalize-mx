@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2024-07-08"
+last_updated: "2025-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 20 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -3624,3 +3626,13 @@ P.O. 8 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 337 EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 72, EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, expedida por la Sexagésima Tercera Legislatura contenida en el Decreto Legislativo número 167 y publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 207, séptima parte, de 27 de diciembre de 2016.
+
+Artículo Tercero. Las presidencias de las comisiones permanentes legislativas tendrán treinta días a partir de la entrada en vigor del presente Decreto, para pronunciarse sobre los pendientes legislativos turnados en las legislaturas anteriores, de no hacerlo se tendrán por archivados definitivamente.
