@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1133
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-04"
-last_updated: "2023-10-09"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE JUNIO DE 2025.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 4 de marzo de 2016.
 
@@ -33,7 +33,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 “EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 Y 34 FRACCIÓN XIII DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE EL SIGUIENTE;
 
-EXPOSICIÓN DE MOTIVOS:...
+EXPOSICIÓN DE MOTIVOS:
+
+[...]
 
 En tal virtud, con fundamento en el artículo30 (sic) fracción V de la Constitución Política, y artículos 18, 43 fracción XII inciso a) y 44 fracción VIII de la Ley de Gobierno del Poder Legislativo, y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -551,13 +553,17 @@ Los informes anuales del Gobernador del estado deberán contener el estado que g
 
 #### Sección primera. De los objetivos y acciones de la Política Estatal de Igualdad entre Mujeres y Hombres
 
-> <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JUNIO DE 2025)</small>
 
 ###### Artículo 32 Bis.
 
-De la igualdad entre mujeres y hombres en la vida económica estatal
+De la igualdad entre mujeres y hombres en la vida económica Estatal
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE MAYO DE 2020)</small>
 
 Con el fin de alcanzar el fortalecimiento para la igualdad entre mujeres y hombre (sic) en materia económica, serán objetivos y acciones de la política estatal y municipal, en sus debidos ámbitos de competencia:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 22 DE MAYO DE 2020)</small>
 
 I. OBJETIVOS
 
@@ -573,13 +579,17 @@ e) Promover la igualdad de oportunidades entre mujeres y hombres en el uso y apr
 
 Para los efectos de lo previsto en este artículo, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 22 DE MAYO DE 2020)</small>
+
 II. ACCIONES
 
 a) Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género.
 
 b) Fomentar la incorporación a la educación y formación de las personas que en razón de su género están relegadas.
 
-c) Fomentar el acceso al trabajo de las personas que en razón de su género están relegadas de puestos directivos, especialmente.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2025)</small>
+
+c) Garantizar el acceso al trabajo de las personas que en razón de su género están relegadas de puestos directivos, especialmente.
 
 d) Reforzar la cooperación entre los tres órdenes de gobierno, para supervisar la aplicación de las acciones que establece el presente artículo.
 
@@ -643,11 +653,15 @@ c) Evaluar por medio del área competente de la Comisión de Derechos Humanos de
 
 d) Promover participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos.
 
-e) Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2025)</small>
+
+e) Garantizar la participación igualitaria de mujeres y hombres en altos cargos públicos.
 
 f) Desarrollar y actualizar estadísticas desagregadas por género, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil.
 
-g) Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos laborales de los poderes Ejecutivo, Legislativo y Judicial.
+> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2025)</small>
+
+g) Garantizar la paridad de género y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos laborales de los poderes Ejecutivo, Legislativo y Judicial y de cualquier autoridad estatal o municipal.
 
 > <small>(ADICIONADO, D.O. 22 DE MAYO DE 2020)</small>
 
@@ -1032,3 +1046,23 @@ Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor j
 Obligación Normativa
 
 Artículo Tercero. La persona Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento del Código de la Administración Pública de Yucatán, en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+D.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 82/2025 POR EL QUE SE MODIFICA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE YUCATÁN, EN MATERIA DE PARTICIPACIÓN Y REPRESENTACIÓN EN LA VIDA ECONÓMICA Y POLÍTICA DE LAS MUJERES".]
+
+Entrada en vigor.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Designaciones y nombramientos.
+
+Artículo Segundo. A partir de la entrada en vigor de la presente reforma, los titulares de los Poderes Ejecutivo, Legislativo y Judicial, así como en cualquier autoridad estatal o municipal del Estado de Yucatán, deberán asegurar que, en las nuevas designaciones y nombramientos, se cumpla con el principio de paridad de género, garantizando que mujeres y hombres ocupen los altos cargos en condiciones de igualdad.
+
+Implementación escalonada.
+
+Artículo Tercero. La implementación de la paridad de género en los altos cargos de los Poderes Ejecutivo, Legislativo y Judicial, así como en cualquier autoridad estatal o municipal del Estado de Yucatán, se llevará a cabo de forma escalonada, de acuerdo con la vacante de los puestos disponibles.
+
+Derogación tácita.
+
+Artículo Cuarto. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente decreto.
