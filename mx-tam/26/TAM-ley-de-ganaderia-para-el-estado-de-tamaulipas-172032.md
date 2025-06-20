@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ganaderia-para-el-estado-de-tamaulipas-172032"
 country: "mx"
 rank: "ley"
 publication_date: "2024-03-07"
-last_updated: "2025-06-17"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE GANADERIA PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2025.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE JUNIO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 63-325 PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2025.]</small>
 
 Ley publicada en el Número 30 del Periódico Oficial del Estado de Tamaulipas, el jueves 7 de marzo de 2024.
 
