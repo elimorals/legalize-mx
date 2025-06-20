@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-mecanismos-alternativos-de-solucion-de-controversias-694
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2025-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS EN EL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 20 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS EN EL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE JUNIO DE 2025 (ABROGADO).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2009.
 
@@ -788,3 +790,55 @@ GOBERNADORA DEL ESTADO
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 84/2025 POR EL QUE SE EXPIDE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Esta Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley de Mecanismos Alternativos de Solución de Controversias en el Estado de Yucatán, publicada en el Decreto 212 de fecha 24 de julio de 2009 en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuación normativa
+
+Artículo tercero. El Poder Judicial del Estado y el Tribunal de Justicia Administrativa del Estado, deberán realizar las adecuaciones normativas necesarias para armonizarlas a las disposiciones señaladas en este decreto, dentro de un plazo de ciento ochenta días naturales contados a partir del día siguiente a su entrada en vigor.
+
+Obligación normativa
+
+Artículo cuarto. El Congreso del Estado deberá realizar las modificaciones a la legislación estatal vigente, que sean necesarias para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contados a partir del día siguiente a su entrada en vigor.
+
+Disposiciones reglamentarias
+
+Artículo quinto. Los ayuntamientos, en el ámbito de su competencia, deberán realizar las adecuaciones normativas necesarias para armonizarlas a las disposiciones señaladas en este decreto, dentro de un plazo de ciento ochenta días naturales contados a partir del día siguiente a su entrada en vigor.
+
+Adecuación presupuestal
+
+Artículo sexto. El Poder Judicial del Estado y el Tribunal de Justicia Administrativa del Estado deberán realizar los ajustes a sus respectivos presupuestos para la aplicabilidad de esta Ley, dentro del plazo de ciento ochenta días naturales contados a partir del día siguiente a la entrada en vigor de este Decreto.
+
+El Poder Judicial y el Tribunal de Justicia Administrativa deberá contemplar en su Presupuesto de Egresos para el ejercicio fiscal 2026, los recursos necesarios para el funcionamiento de los Centros Públicos de Solución de Controversias.
+
+Asuntos en trámite.
+
+Artículo séptimo. Los procedimientos y demás asuntos que se iniciaron con anterioridad a la entrada en vigor de este decreto, que se encuentren en trámite o pendientes de resolución, se tramitarán y continuarán hasta su conclusión en los términos de las disposiciones de las leyes con las que se iniciaron.
+
+Del Poder Judicial
+
+Artículo octavo. El Poder Judicial del Estado, a través del órgano o instancia correspondiente, deberá llevar a cabo las acciones necesarias para la creación y funcionamiento del Registro Estatal de Personas Facilitadoras y del Sistema Estatal de Convenios, en su respectivo ámbito de competencias.
+
+Certificaciones
+
+Artículo noveno. Las certificaciones que hayan sido expedidas a las personas facilitadoras previo a la entrada en vigor de este Decreto seguirán siendo vigentes hasta su vencimiento.
+
+Titular del Centro Estatal de Solución de Controversias
+
+Artículo décimo. La persona titular del Centro Estatal de Solución de Controversias continuará en sus funciones hasta el término señalado en su nombramiento.
+
+Cláusula derogatoria
+
+Artículo décimo primero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
