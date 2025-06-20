@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-preservacion-del-patrimonio-cultural-del-estado-de-3075"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-18"
-last_updated: "2024-05-31"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 18 de agosto de 1995.
 
@@ -411,9 +411,11 @@ El Consejo del Patrimonio Cultural de Baja California deberá proponer a la Secr
 
 La Secretaría emitirá y turnará a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado la declaratoria de vigencia de los acuerdos y el contenido de estos. El cumplimiento de las especificaciones de dichos acuerdos deberá ser de carácter obligatorio, de conformidad con los términos que en ellas mismas se indiquen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2025)</small>
+
 ###### ARTICULO 22.
 
-El Consejo del Patrimonio Cultural estará conformado por los titulares o representantes de las siguientes entidades; quienes a su vez podrán nombrar a un suplente; cada uno de los miembros del consejo tiene derecho a voz y voto:
+El Consejo del Patrimonio Cultural estará conformado por las personas titulares o personas representantes de las siguientes entidades; quienes a su vez podrán nombrar a una persona suplente, cada uno de los miembros del consejo tiene derecho a voz y voto:
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2024)</small>
 
@@ -459,9 +461,9 @@ X.- Una persona representante de cada uno de los Colegios de Ingeniería Civil r
 
 XI.- Una persona representante de los organismos y asociaciones civiles legalmente constituidas, que tengan como fin o interés la defensa y preservación del Patrimonio Cultural y que estén debidamente acreditados ante la Secretaría;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
 
-XII.- Un Diputado integrante de la Comisión de Educación, Cultura, Ciencia y Tecnología del Congreso del Estado de baja California;
+XII.- La diputación que presida la Comisión de Cultura y Deporte del Congreso del Estado de Baja California;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2024)</small>
 
@@ -1450,3 +1452,9 @@ P.O. 31 DE MAYO DE 2024.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los expedientes que se encuentren en trámite a la entrada en vigor de la presente reforma, relativos a declaratorias de patrimonio cultural, el Instituto de Cultura de Baja California deberá remitirlos a la Secretaría de Cultura para continuar con las gestiones correspondientes dentro del plazo de 30 días.
+
+P.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 96 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 22 DE LA LEY DE PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
