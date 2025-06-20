@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2025-06-16"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -333,6 +333,10 @@ El Consejo Consultivo Ciudadano de la Secretaría que se establezca en los térm
 
 Adicionalmente a lo dispuesto por los tratados internacionales, ley de inversión extranjera, leyes fiscales estatales y municipales, así como en el Plan Estatal de Desarrollo, el Consejo en los términos de la presente Ley, podrá aprobar el otorgamiento de incentivos a la inversión nacional y extranjera, para la creación de nuevas empresas y fomentar el empleo para fortalecer e incrementar la capacidad de operación de las empresas ya existentes en el Estado, con el fin de seguir creando nuevas fuentes de empleo.
 
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2025)</small>
+
+Para tal efecto el Consejo deberá ponderar los beneficios señalados en el párrafo anterior, a aquellas empresas que se instalen en zonas que se encuentren fuera del área metropolitana, como un apoyo prioritario de las zonas rurales.
+
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2023)</small>
 
 ###### Artículo 21 Bis.
@@ -349,9 +353,17 @@ b) Personas adultas mayores; y
 
 c) Mujeres en situación de vulnerabilidad.
 
-III. Empresas que tengan instaladas guarderías; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
 
-IV. Empresas creadas por mujeres emprendedoras.
+III. Empresas que tengan instaladas guarderías;
+
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+IV. Empresas creadas por mujeres emprendedoras; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+V. Empresas instaladas en la zona fuera del área metropolitana o zonas rurales del Estado.
 
 ###### Artículo 22.
 
@@ -481,7 +493,13 @@ III. La ubicación geográfica del proyecto, entendiéndose por esta la Región 
 
 IV. El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares, así como la instalación de tecnologías para el cuidado del medio ambiente;
 
-V. El impacto ambiental, entendiéndose por el uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente; y
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+V. El impacto ambiental entendiéndose por el uso de tecnologías más limpias que permitan la protección y el mejoramiento del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2025)</small>
+
+V Bis. La instalación de la empresa fuera del área metropolitana o zonas rurales del Estado; y
 
 VI. Los demás que se establezcan en el reglamento de la Ley.
 
@@ -931,6 +949,10 @@ P.O. 16 DE JUNIO DE 2025.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-353 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 59, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+P.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 056. SE REFORMA LA FRACCIÓN III Y IV DEL ARTÍCULO 21 BIS, LA FRACCIÓN V AL ARTÍCULO 31. SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 21, UNA FRACCIÓN V AL ARTÍCULO 21 BIS Y LA FRACCIÓN V BIS AL ARTÍCULO 31 TODOS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. El presente Decreto entrara en vigor al siguiente día de su publicación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-535 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
