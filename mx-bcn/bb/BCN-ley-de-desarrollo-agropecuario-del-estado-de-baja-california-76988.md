@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2024-08-16"
+last_updated: "2025-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -109,7 +109,7 @@ Los Productores, Organizaciones, Sociedades, Asociaciones y Uniones de Productor
 
 ### CAPÍTULO II. DE LA TERMINOLOGÍA EMPLEADA EN ESTA LEY
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 20 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 5.
 
@@ -122,6 +122,10 @@ II.- Actividad ganadera o pecuaria: Conjunto de acciones para la explotación ra
 III.- Agricultor: A toda persona física o moral que con fines de explotación y aprovechamiento cultive, posea o sea propietario de terrenos o aproveche instalaciones para la producción agrícola;
 
 IV.- Agricultor especializado: A toda persona física o moral que se dedique a la explotación de terrenos o instalaciones en el cultivo de determinada especie y específicamente a la producción de semillas patrones o especies para trasplante ya sean hortícolas o frutales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA Y REUBICADA, ANTES FRACCIÓN XXXIV], P.O. 20 DE JUNIO DE 2025)</small>
+
+IV BIS.- Agricultura regenerativa: Es la rehabilitación del suelo con el objetivo de mantenerlo productivo el mayor tiempo posible para evitar la expansión agresiva a nuevas áreas, mediante métodos productivos que a través de prácticas que (sic) mejoren las productividades y contribuyan a la salud de los recursos naturales, el bienestar social y la seguridad económica de las personas productoras;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
@@ -201,6 +205,10 @@ XXI.- Granjas o Plantas Avícolas: Las empresas especializadas en la reproducci�
 
 XXII.- Granja porcícola: La empresa pecuaria especializada en la cría, reproducción, mejoramiento y manejo de los cerdos para pie de cría o abasto;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JUNIO DE 2025)</small>
+
+XXII BIS.- Guía de tránsito Electrónica: Guía de tránsito emitida mediante un Sistema de Registro Electrónico de la Movilización;
+
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 XXIII.- Ley: La Ley de Desarrollo Agropecuario del Estado de Baja California;
@@ -237,17 +245,13 @@ XXX.- Reconversión Productiva: Es el cambio o transformación voluntaria hacia 
 
 XXXI.- Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
 
-XXXII.- Señal de sangre: Las cortadas, incisiones o perforaciones que se hagan en las orejas del ganado;
+XXXII.- Señal de sangre: Las cortadas, incisiones o perforaciones que se hagan en las orejas del ganado; y,
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2025)</small>
 
-XXXIII.- Tatuajes: La impresión de dibujos, letras, números indelebles en las orejas o en el labio del animal; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
-
-XXXIV.- Agricultura regenerativa: Es la rehabilitación del suelo con el objetivo de mantenerlo productivo el mayor tiempo posible para evitar la expansión agresiva a nuevas áreas, mediante métodos productivos que a través de prácticas que (sic) mejoren las productividades y contribuyan a la salud de los recursos naturales, el bienestar social y la seguridad económica de las personas productoras.
+XXXIII.- Tatuajes: La impresión de dibujos, letras, números indelebles en las orejas o en el labio del animal.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES COMPETENTES
 
@@ -1021,9 +1025,11 @@ Queda prohibido efectuar movilizaciones de ganado en cada rancho mientras se est
 
 Toda conducción de animales en lo individual o en hato, productos y subproductos de origen animal, deberán ampararse con un documento que se denominará "guía de tránsito".
 
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 96.
 
-La guía de tránsito será expedida a solicitud del propietario, por los inspectores agropecuarios de la zona correspondiente, previo reconocimiento de los animales, productos o subproductos y exhibición del certificado zoosanitario.
+La guía de tránsito será expedida a solicitud de la persona propietaria de manera física, por las y los inspectores agropecuarios de la Secretaría o las personas habilitadas por esta, así como en su modalidad electrónica en la zona correspondiente, previo reconocimiento de los animales y exhibición del certificado zoosanitario.
 
 ###### ARTÍCULO 97.
 
@@ -1686,3 +1692,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 455 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 13 Y LA ADICIÓN DE LOS ARTÍCULOS 35 TER Y 35 QUATER DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Baja California.
+
+P.O. 20 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 97 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 5 Y 96 DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
