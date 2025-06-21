@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-la-universidad-politecnica-del-sur-de-9630
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-12"
-last_updated: "2013-10-12"
+last_updated: "2025-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,13 @@ ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DEL SUR DE ZACATECAS
 
 TEXTO ORIGINAL.
 
-Estatuto publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de octubre de 2013.
+Estatuto publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 12 de octubre de 2013. (REPUBLICADO EN EL P.O. 21 DE JUNIO DE 2025).
 
 LA JUNTA DE GOBIERNO DE LA UNIVERSIDAD POLITÉCNICA DEL SUR ZACATECAS (SIC), EN EJERCICIO DE LAS ATRIBUCIONES QUE LE CONFIERE EL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO; 13 PÁRRAFO SEGUNDO Y 56 FRACCIÓN VIII DE LA LEY DE LAS ENTIDADES PÚBLICAS PARAESTATALES Y 21 FRACCIÓN III DEL DECRETO GUBERNATIVO DE LA PROPIA UNIVERSIDAD; Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto, hemos tenido a bien expedir el presente:
 
@@ -155,7 +157,7 @@ XII. Conocer los dictámenes correspondientes que emita el Comisario Público re
 
 XIII. Proporcionar al Comisario Público la información que le solicite, relacionada con las funciones que desarrolla la Junta; y
 
-XIV. Ejercer las demás funciones que, en su calidad de órgano supremo de gobierno, le otorguen el Decreto y otras disposiciones legales o reglamentarias aplicables; (sic)
+XIV. Ejercer las demás funciones que, en su calidad de órgano supremo de gobierno, le otorguen el Decreto y otras disposiciones legales o reglamentarias aplicables;
 
 ###### Artículo 11.
 
