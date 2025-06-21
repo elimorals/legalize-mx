@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1804
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-14"
-last_updated: "2025-06-14"
+last_updated: "2025-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TABASCO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE A FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE JUNIO DE 2025.]</small>
 
 Ley publicada en el Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 14 de junio de 2025.
 
@@ -893,55 +893,77 @@ b) De las adjudicaciones directas:
 
 XXVII. Los informes que generen de conformidad con las disposiciones jurídicas;
 
-> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXVIII ES IDÉNTICA A LA FRACCIÓN XXX.]</small>
-
 XXVIII. Las estadísticas que generen en cumplimiento de sus facultades, competencias o funciones;
-
-> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXIX ES IDÉNTICA A LA FRACCIÓN XXXI.]</small>
 
 XXIX. Los informes de avances programáticos o presupuestales, balances generales y su estado financiero;
 
-> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXX ES IDÉNTICA A LA FRACCIÓN XXVIII.]</small>
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XXX. Las estadísticas que generen en cumplimiento de sus facultades, competencias o funciones;
+XXX. El padrón de proveedores y contratistas en los sistemas habilitados para ello, de conformidad con las disposiciones jurídicas aplicables;
 
-> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XXXI ES IDÉNTICA A LA FRACCIÓN XXIX.]</small>
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XXXI. Los informes de avances programáticos o presupuestales, balances generales y su estado financiero;
+XXXI. Los convenios de coordinación de concertación con los sectores social y privado;
 
-XXXII. El padrón de proveedores y contratistas en los sistemas habilitados para ello, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XXXIII. Los convenios de coordinación de concertación con los sectores social y privado;
+XXXII. El inventario de bienes muebles e inmuebles en posesión y propiedad;
 
-XXXIV. El inventario de bienes muebles e inmuebles en posesión y propiedad;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XXXV. Las recomendaciones emitidas por los órganos públicos del Estado mexicano u organismos internacionales garantes de los derechos humanos, así como las acciones que han llevado a cabo para su atención;
+XXXIII. Las recomendaciones emitidas por los órganos públicos del Estado mexicano u organismos internacionales garantes de los derechos humanos, así como las acciones que han llevado a cabo para su atención;
 
-XXXVI. Las resoluciones que se emitan en procesos o procedimientos seguidos en forma de juicio;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XXXVII. Los mecanismos de participación ciudadana;
+XXXIV. Las resoluciones que se emitan en procesos o procedimientos seguidos en forma de juicio;
 
-XXXVIII. Los programas que ofrecen, incluyendo información sobre la población, objetivo y destino, así como los trámites, tiempos de respuesta, requisitos y formatos para acceder a los mismos;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XXXIX. Las actas y resoluciones del Comité de Transparencia de los Sujetos Obligados;
+XXXV. Los mecanismos de participación ciudadana;
 
-XL. Las evaluaciones y encuestas que hagan los Sujetos Obligados a programas financiados con recursos públicos;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XLI. Los estudios financiados con recursos públicos;
+XXXVI. Los programas que ofrecen, incluyendo información sobre la población, objetivo y destino, así como los trámites, tiempos de respuesta, requisitos y formatos para acceder a los mismos;
 
-XLII. El listado de personas jubiladas y pensionadas, así como el monto que reciben;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XLIII. Los ingresos recibidos por cualquier concepto señalando el nombre de las personas responsables de recibirlos, administrarlos y ejercerlos, así como su destino;
+XXXVII. Las actas y resoluciones del Comité de Transparencia de los Sujetos Obligados;
 
-XLIV. Las donaciones hechas a terceros en dinero o en especie;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XLV. El catálogo de disposición y guía de archivo documental;
+XXXVIII. Las evaluaciones y encuestas que hagan los Sujetos Obligados a programas financiados con recursos públicos;
 
-XLVI. Las actas de sesiones ordinarias y extraordinarias, así como las opiniones y recomendaciones que, en su caso, emitan los consejos consultivos;
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
 
-XLVII. El listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de Internet para la intervención de comunicaciones privadas, el acceso al registro de comunicaciones y la localización geográfica en tiempo real de equipos de comunicación, que contenga exclusivamente el objeto, el alcance temporal y los fundamentos legales del requerimiento, así como, en su caso, la mención de que cuenta con la autorización judicial correspondiente; y
+XXXIX. Los estudios financiados con recursos públicos;
 
-XLVIII. Cualquier otra información que sea de utilidad o se considere relevante, y la que se encuentre prevista en otras disposiciones jurídicas aplicables.
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XL. El listado de personas jubiladas y pensionadas, así como el monto que reciben;
+
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XLI. Los ingresos recibidos por cualquier concepto señalando el nombre de las personas responsables de recibirlos, administrarlos y ejercerlos, así como su destino;
+
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XLII. Las donaciones hechas a terceros en dinero o en especie;
+
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XLIII. El catálogo de disposición y guía de archivo documental;
+
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XLIV. Las actas de sesiones ordinarias y extraordinarias, así como las opiniones y recomendaciones que, en su caso, emitan los consejos consultivos;
+
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XLV. El listado de solicitudes a las empresas concesionarias de telecomunicaciones y proveedores de servicios o aplicaciones de Internet para la intervención de comunicaciones privadas, el acceso al registro de comunicaciones y la localización geográfica en tiempo real de equipos de comunicación, que contenga exclusivamente el objeto, el alcance temporal y los fundamentos legales del requerimiento, así como, en su caso, la mención de que cuenta con la autorización judicial correspondiente; y
+
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+XLVI. Cualquier otra información que sea de utilidad o se considere relevante, y la que se encuentre prevista en otras disposiciones jurídicas aplicables.
 
 Los Sujetos Obligados deberán informar a las Autoridades Garantes de forma fundada y motivada cuáles son las fracciones de este artículo que les resultan aplicables, para efecto de que las Autoridades Garantes las validen. Una vez que cuenten con la validación de referencia los Sujetos Obligados procederán a publicarlas en la Plataforma Nacional.
 
@@ -2007,7 +2029,9 @@ III. El pago de la certificación de los documentos, cuando proceda.
 
 Las cuotas de los derechos aplicables deberán establecerse en (sic) Ley de Hacienda del Estado y en la Ley de Hacienda Municipal del Estado de Tabasco, los cuales se publicarán en los sitios de internet de los Sujetos Obligados. En su determinación se deberá considerar que los montos permitan o faciliten el ejercicio del derecho de acceso a la información, asimismo, se establecerá la obligación de fijar una cuenta bancaria única y exclusivamente para que la persona solicitante realice el pago íntegro del costo de la información que solicitó.
 
-Los Sujetos Obligados a los que no les sea aplicable la Ley Federal de Derechos deberán establecer cuotas que no deberán ser mayores a las dispuestas en dicha ley.
+> <small>(F. DE E., P.O. 21 DE JUNIO DE 2025)</small>
+
+Los Sujetos Obligados a los que no les sean aplicables las leyes mencionadas en el párrafo anterior deberán establecer cuotas que no deberán ser mayores a las dispuestas en las mismas.
 
 La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples. Las Unidades de Transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas de la persona solicitante.
 
