@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-05-28"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -537,13 +537,17 @@ XIII. Intervenir en la formulación y aplicación de programas de transporte pú
 
 XIV. Contar con atlas municipal de riesgos;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-XV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos, o la asunción de atribuciones, a través de la celebración de los convenios respectivos, y
+XV. Asociarse en comisiones intermunicipales para enfrentar problemas comunes, para la ejecución y operación de obras, prestación de servicios públicos, concesiones de éstos, administración de ingresos y egresos, o la asunción de atribuciones, a través de la celebración de los convenios respectivos;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-XVI. Apoyar, en la medida de sus respectivas capacidades presupuestales, al Fondo Municipal para la Cultura y las Artes previsto en el artículo 12 fracción XX de la Ley de Cultura para el Estado y Municipio de San Luis Potosí, con el objeto de propiciar la creación, formación y desarrollo de los creadores y artistas de cada municipio.
+XVI. Apoyar, en la medida de sus respectivas capacidades presupuestales, al Fondo Municipal para la Cultura y las Artes previsto en el artículo 12 fracción XX de la Ley de Cultura para el Estado y Municipio de San Luis Potosí, con el objeto de propiciar la creación, formación y desarrollo de los creadores y artistas de cada municipio, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XVII. La promoción de una cultura de separación de los residuos, e instrumentos de acciones y programas que garanticen la recolección de desechos sólidos de manera diferenciada entre orgánicos e inorgánicos.
 
 b) En materia Normativa:
 
@@ -1359,9 +1363,17 @@ XVI. Cuidar el funcionamiento de la Junta Municipal de Reclutamiento;
 
 XVII. En los municipios que no cuenten con Oficial Mayor, atender lo relativo a las relaciones laborales con los empleados del Ayuntamiento. Así como elaborar y revisar permanentemente, con el concurso de las demás dependencias municipales, los manuales de, organización; y de procedimientos; que requiera la administración pública municipal;
 
-XVIII. Imponer sanciones a quienes corresponda, por violación al Reglamento Interior del Ayuntamiento, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-XIX. Las demás que le señalen las leyes y reglamentos municipales.
+XVIII. Imponer sanciones a quienes corresponda, por violación al Reglamento Interior del Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XIX. Expedir y autentificar con su firma y bajo su estricta responsabilidad las constancias, anuencias y certificaciones vinculadas a trámites administrativos y de fe pública.
+
+Los reglamentos internos de cada Ayuntamiento dispondrán los requisitos necesarios para la expedición de dichos documentos; el costo de estos se establecerá en las leyes de ingresos respectivas; y
+
+XX. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO V. De la Tesorería
 
@@ -1883,9 +1895,9 @@ IX. Educación Pública y Bibliotecas;
 
 X. Gobernación;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-XI. Grupos Vulnerables;
+XI. Grupos de Atención Prioritaria;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -3588,6 +3600,34 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0206.- QUE REFORMA EL ARTÍCULO 80, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0216.- QUE REFORMA EL ARTÍCULO 89, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente decreto los ayuntamientos de la entidad contaran con un plazo de 90 días naturales para adecuar su normativa interna.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0217.- QUE REFORMA Y ADICIONA AL ARTÍCULO 78, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente decreto los ayuntamientos de la entidad contaran con un plazo de 180 días naturales para adecuar su normativa interna.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0218.- QUE REFORMA Y ADICIONA AL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
