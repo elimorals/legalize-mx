@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-05-29"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -2129,7 +2129,9 @@ n) La Secretaría de Comunicaciones y Transportes.
 
 o) La Comisión Estatal de Derechos Humanos.
 
-p) El Instituto de las Mujeres del Estado.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
+p) La Secretaría de las Mujeres e Igualdad Sustantiva
 
 q) El DIF Estatal.
 
@@ -2842,3 +2844,11 @@ P.O. 29 DE MAYO DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
