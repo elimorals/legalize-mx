@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2023-06-23"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -239,9 +239,9 @@ l) El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades indí
 
 m) El Instituto de la Vivienda del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
 
-n) El Instituto de las Mujeres del Estado.
+n) La Secretaría de las Mujeres e Igualdad Sustantiva.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2019)</small>
 
@@ -984,3 +984,11 @@ P.O. 23 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
