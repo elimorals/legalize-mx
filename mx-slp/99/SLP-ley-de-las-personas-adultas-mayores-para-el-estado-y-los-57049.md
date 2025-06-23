@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2024-07-05"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -131,7 +131,9 @@ XIX. Defensoría Social y de Oficio;
 
 XX. Instituto Estatal de Educación para Adultos;
 
-XXI. Instituto de las Mujeres del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XXI. Secretaría de las Mujeres e Igualdad Sustantiva;
 
 XXII. Instituto Potosino del Deporte;
 
@@ -477,7 +479,9 @@ i) Las presidencias de las comisiones de grupos vulnerables de los ayuntamientos
 
 j) titular de la Comisión Estatal de Derechos Humanos.
 
-k) Titular del Instituto de las Mujeres del Estado.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
+k) Titular de la Secretaría de las Mujeres e Igualdad Sustantiva.
 
 l) Titular del Consejo Estatal de Población.
 
@@ -1402,3 +1406,11 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
