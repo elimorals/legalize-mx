@@ -4,7 +4,7 @@ identifier: "MEX-estatutos-del-sistema-estatal-de-fiscalizacion-del-estado-18086
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-23"
-last_updated: "2021-04-23"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 ESTATUTOS DEL SISTEMA ESTATAL DE FISCALIZACIÓN, DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JUNIO DE 2025.
 
 Estatuto publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 23 de abril de 2021.
 
@@ -161,35 +161,61 @@ Los grupos de trabajo tendrán una duración indefinida, temporalidad que estar�
 
 En cualquier caso, se atenderá y dará seguimiento a los temas de los grupos establecidos en el SEF y el SNF, respectivamente.
 
-Asimismo, los grupos de trabajo se integrarán conforme a regiones y en el orden de los temas señalados en el artículo 11 de los presentes Estatutos, para quedar de la forma siguiente:
+> <small>(REFORMADO [N. DE E. CON SUS ZONAS Y REGIONES], G.G. 23 DE JUNIO DE 2025)</small>
 
-(1) NORMAS PROFESIONALES. REGIÓN I. ZONA TOLUCA.
+Asimismo, los grupos de trabajo se integrarán conforme a las zonas y regiones, conforme a los temas señalados en el artículo 11 de los presentes Estatutos, para quedar de la forma siguiente:
 
-Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Joquicingo, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, Rayón, San Mateo Atenco, San Antonio la Isla, Temoaya, Tenango del Valle, Texcalyacac, Tianguistenco, Toluca, Villa Victoria, Xalatlaco, Xonacatlán y Zinacantepec.
+ZONA 1. ORIENTE. CREACIÓN DE CAPACIDADES.
 
-(2) CONTROL INTERNO. REGIÓN II. ZONA NORTE.
+Región 1: Chalco. Con los municipios de: Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Juchitepec, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa y Tlalmanalco.
 
-Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jilotepec, Jiquipilco, Jocotitlán, Morelos, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
+Región 2: lxtapaluca. Con los municipios de: Ixtapaluca, La Paz y Valle de Chalco Solidaridad.
 
-(3) JURÍDICO CONSULTIVO. REGIÓN III. ZONA NORESTE.
+Región 3: Texcoco. Con los municipios de: Atenco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Papalotla, Tepetlaoxtoc, Texcoco y Tezoyuca.
 
-Acolman, Apaxco, Axapusco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Jaltenco, Nextlalpan, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa, Teotihuacán, Tequixquiac, Tezoyuca, Tonanitla y Zumpango.
+Región 4: Nezahualcóyotl. Con el municipio de: Nezahualcóyotl.
 
-(4) TRANSPARENCIA. REGIÓN IV. ZONA METROPOLITANA.
+ZONA 2 NORORIENTE. JURÍDICO CONSULTIVO.
 
-Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Huixquilucan, Isidro Fabela, Jilotzingo, Melchor Ocampo, Naucalpan, Nicolás Romero, Teoloyucan, Tepotzotlán, Tlalnepantla, Tultepec, Tultitlán y Villa del Carbón.
+Región 5: Ecatepec. Con el municipio de: Ecatepec de Morelos.
 
-(5) CREACIÓN DE CAPACIDADES. REGIÓN V. ZONA ORIENTE.
+Región 6: Tecámac. Con los municipios de: Acolman, Axapusco, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa y Teotihuacán.
 
-Amecameca, Atenco, Atlautla, Ayapango, Chalco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Cocotitlán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Papalotla, Temamatla, Tenango del Aire, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tlalmanalco y Valle de Chalco Solidaridad.
+Región 7: Zumpango. Con los municipios de: Apaxco, Coyotepec, Huehuetoca, Hueypoxtla, Teoloyucan, Tepotzotlán, Tequixquiac y Zumpango.
 
-(6) PLATAFORMA DIGITAL. REGIÓN VI. ZONA SUR.
+Región 8: Tultitlán. Con los municipios de: Coacalco de Berriozábal, Cuautitlán, Jaltenco, Melchor Ocampo, Nextlalpan, Tonanitla, Tultepec y Tultitlán.
 
-Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzoloapan, San Simón de Guerrero, Santo Tomás, Tejupilco, Temascaltepec, Tlatlaya, Valle de Bravo, Villa de Allende y Zacazonapan; y,
+ZONA 3. CENTRO. TRANSPARENCIA.
 
-(7) ÉTICA. REGIÓN VII. ZONA SURESTE.
+Región 9: Tlalnepantla. Con los municipios de: Atizapán de Zaragoza, Cuautitlán lzcalli y Tlalnepantla de Baz.
 
-Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Malinalco, Ocuilan, Sultepec, Tenancingo, Texcaltitlán, Tonatico, Villa Guerrero, Zacualpan y Zumpahuacán.
+Región 15: Naucalpan. Con los municipios de: Huixquilucan y Naucalpan de Juárez.
+
+ZONA 4. NORTE. CONTROL INTERNO
+
+Región 11: Jilotepec. Con los municipios de: Acambay de Ruiz Castañeda, Aculco, Chapa de Mota, Jilotepec, Morelos, Polotitlán, Soyaniquilpan de Juárez, Temascalcingo, Timilpan y Villa del Carbón.
+
+Región 12: lxtlahuaca. Con los municipios de: Atlacomulco, El Oro, lxtlahuaca, Jiquipilco, Jocotitlán, San Felipe del Progreso, San José del Rincón y Villa Victoria.
+
+ZONA 5. VALLE DE TOLUCA. NORMAS PROFESIONALES.
+
+Región 10: Nicolás Romero. Con los municipios de: Isidro Fabela, Jilotzingo, Nicolás Romero, Otzolotepec, Temoaya y Xonacatlán.
+
+Región 14: Toluca. Con los municipios de: Almoloya de Juárez, Almoloya del Río, Calimaya, Metepec, Mexicaltzingo, San Mateo Atenco, Toluca y Zinacantepec.
+
+Región 16: Lerma. Con los municipios de: Atizapán, Capulhuac, Chapultepec, Lerma, Ocoyoacac, San Antonio la Isla, Texcalyacac, Tianguistenco y Xalatlaco.
+
+ZONA 6. SUR PLATAFORMA DIGITAL.
+
+Región 13: Valle de Bravo. Con los municipios de: Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Temascaltepec, Valle de Bravo, Villa de Allende y Zacazonapan.
+
+Región 19: Tejupilco. Con los municipios de: Amatepec, Luvianos, Tejupilco y Tlatlaya.
+
+ZONA 7. ÉTICA.
+
+Región 17: Tenancingo. Con los municipios de: Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Rayón, Tenancingo, Tenango del Valle, Tonatico, Villa Guerrero y Zumpahuacán.
+
+Región 18: Sultepec. Con los municipios de: Almoloya de Alquisiras, San Simón de Guerrero, Sultepec, Texcaltitlán y Zacualpan.
 
 ###### Artículo 13.
 
@@ -380,3 +406,13 @@ Contralor del Ayuntamiento de Toluca
 Everardo Hernández González
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 12 DE LOS ESTATUTOS DEL SISTEMA ESTATAL DE FISCALIZACIÓN”.]
+
+PRIMERO. Publíquese el presente en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
