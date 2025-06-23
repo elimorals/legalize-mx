@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2022-11-08"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -531,9 +531,9 @@ El Sistema de Indicadores de la Gestión Pública Estatal, será definido por la
 
 El Sistema de Indicadores de la Gestión Pública Municipal, será definido por las dependencias y entidades de la Administración Pública Municipal, de acuerdo a los lineamientos emitidos por la Dirección de Planeación Municipal o su equivalente; tales indicadores serán proporcionados al Sistema Municipal de Información que lleve cada municipio.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
 
-Adicionalmente, los planes y programas tanto estatales como municipales, deberán ser evaluados en cuanto a la inclusión de la perspectiva de género, de acuerdo con los criterios y lineamientos que emita el Instituto de las Mujeres del Estado de San Luis Potosí, con base en la información que genere el Banco Estatal de Indicadores de Género.
+Adicionalmente, los planes y programas tanto estatales como municipales, deberán ser evaluados en cuanto a la inclusión de la perspectiva de género, de acuerdo con los criterios y lineamientos que emita la Secretaría de las Mujeres e Igualdad Sustantiva, con base en la información que genere el Banco Estatal de Indicadores de Género.
 
 ###### ARTICULO 30.
 
@@ -794,3 +794,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
