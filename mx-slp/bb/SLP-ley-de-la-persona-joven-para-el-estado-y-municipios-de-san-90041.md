@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2024-02-07"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -1053,7 +1053,9 @@ g) Sistema para el Desarrollo Integral de la Familia.
 
 h) Instituto Potosino de Cultura Física y Deporte.
 
-i) Instituto de las Mujeres del Estado.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+i) Secretaría de las Mujeres e Igualdad Sustantiva.
 
 j) Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas;
 
@@ -1470,5 +1472,13 @@ P.O. 7 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1002.- SE REFORMA EL ARTÍCULO 70 EN SUS FRACCIONES I, II, III Y IV, DE LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
