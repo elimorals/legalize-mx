@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2024-09-09"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -427,9 +427,9 @@ Los Consejos Regionales tendrán como objetivo trabajar en forma coordinada y es
 
 En el padrón empresarial del Estado quedarán inscritas las empresas que pretendan acceder a los estímulos y beneficios que se establecen en la presente Ley, por lo que la inscripción será estrictamente voluntaria en los términos que fije el Reglamento.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
 
-La Secretaría elaborará además, el Padrón Empresarial Digital del Estado, para dar a conocer las MIPYMES en los ámbitos local, nacional e internacional, a través de la red y dentro del portal web de la Secretaría.
+La Secretaría elaborará el Padrón Empresarial Digital del Estado, para dar a conocer las MIPYMES en los ámbitos local, nacional e internacional, a través de la red y dentro de su portal web. En el Padrón Empresarial Digital del Estado, la Secretaría indicará las empresas que pertenezcan a las mujeres y a las personas jóvenes de entre dieciocho y veintinueve años de edad, que lo integren.
 
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2017)</small>
 
@@ -1204,6 +1204,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 9 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1100.- SE ADICIONA EL ARTÍCULO 13 TER, A LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0221.- QUE REFORMA EL ARTÍCULO 25, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
