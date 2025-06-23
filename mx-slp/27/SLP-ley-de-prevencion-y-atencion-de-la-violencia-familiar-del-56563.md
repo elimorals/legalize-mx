@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2021-12-27"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -165,7 +165,9 @@ h) El Sistema para el Desarrollo Integral de la Familia del Estado.
 
 i) La Procuraduría de Protección de Niñas, Niños, y Adolescentes.
 
-j) El Instituto de las Mujeres del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
+j) La Secretaría de las Mujeres e Igualdad Sustantiva;
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -309,9 +311,11 @@ IX. Remitir a las autoridades competentes, los informes o constancias que solici
 
 X. Las demás que le confieran los ordenamientos legales aplicables.
 
-###### ARTICULO 14.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2025)</small>
 
-Corresponde al Instituto de las Mujeres del Estado:
+###### ARTÍCULO 14.
+
+Corresponde a la Secretaría de las Mujeres e Igualdad Sustantiva:
 
 I. Coadyuvar en la erradicación de la violencia familiar;
 
@@ -375,13 +379,15 @@ IV. Los Servicios de Salud en el Estado;
 
 V. La Secretaría de Educación de Gobierno del Estado;
 
-VI. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+VI. La Fiscalía General del Estado;
 
 VII. La Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-VIII. El Instituto de las Mujeres del Estado de San Luis Potosí;
+VIII. La Secretaría de las Mujeres e Igualdad Sustantiva;
 
 > <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -878,3 +884,11 @@ P.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
