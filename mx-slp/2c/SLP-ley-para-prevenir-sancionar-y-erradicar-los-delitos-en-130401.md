@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-130401"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2025-02-11"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR, SANCIONAR, Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS; Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 30 de agosto de 2018.
 
@@ -677,7 +677,9 @@ VIII. Secretaría de Turismo;
 
 IX. Fiscalía General del Estado;
 
-X. Sistema Estatal para el Desarrollo Integral de la Familia DIF a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+X. Sistema Estatal para el Desarrollo Integral de la Familia DIF, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes; y de la Procuraduría de la Defensa de las Personas Adultas Mayores;
 
 XI. Comisión Ejecutiva Estatal de Atención a Víctimas, a través de la Unidad de Primer Contacto y Atención Inmediata;
 
@@ -691,7 +693,9 @@ XV. Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
 
 XVI. Instituto de Migración y Enlace Internacional del Estado;
 
-XVII. Instituto de las Mujeres del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XVII. Secretaría de las Mujeres e Igualdad Sustantiva;
 
 XVIII. Instituto Potosino de la Juventud;
 
@@ -711,7 +715,9 @@ En las reuniones el suplente contará con las mismas facultades que los propieta
 
 Podrán participar en las reuniones de la Comisión con derecho a voz pero sin voto:
 
-I. Un representante del Congreso del Estado, que será el Diputado o Diputada que presida la Comisión de Derechos Humanos, Equidad y Género;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+I. Un representante del Congreso del Estado, que será el Diputado o Diputada que presida la Comisión de Derechos Humanos;
 
 II. Un Magistrado o magistrada representante del Poder Judicial del Estado, designado por el Consejo de la Judicatura del Estado;
 
@@ -849,7 +855,9 @@ g) Vigilará que se preste atención especializada a las víctimas, ofendidos, y
 
 h) Diseñará e implementará programas de capacitación, formación y actualización en materia de prevención y sanción de la esclavitud, trata de personas o explotación, dirigidos, como mínimo, a los agentes del Ministerio Público y de la Policía Investigadora;
 
-X. El Sistema Estatal para el Desarrollo Integral de la Familia-DIF estatal, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor del Estado, se encargará de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2025)</small>
+
+X. El Sistema Estatal para el Desarrollo Integral de la Familia-DIF estatal, a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes; y de la Defensa de las Personas Adultas Mayores, se encargarán de:
 
 a) Proteger y atender antes, durante y después del proceso, de todas aquellas víctimas de los delitos en materia de trata de personas que sean menores de dieciocho años cuidando que sus necesidades especiales sean satisfechas en los albergues para víctimas del mencionado ilícito; y dictará medidas de protección para la restitución de sus derechos vulnerados, en términos de la ley de la materia.
 
@@ -887,7 +895,9 @@ XV. La Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, se coordi
 
 XVI. El Instituto de Migración y Enlace Internacional del Estado, en coordinación con la Secretaria General de Gobierno, y el Consejo Estatal de Población, implementará las medidas necesarias para garantizar en condiciones de seguridad la estancia de las víctimas del delito de trata de personas en territorio estatal por el tiempo necesario y hasta antes de su regreso voluntario a su lugar de origen o de residencia permanente;
 
-XVII. El Instituto de las Mujeres del Estado, se encargará de la protección y atención psicológica y acompañamiento de las mujeres víctimas del delito de trata de personas antes, durante y después del proceso, cuidando que sus necesidades especiales sean satisfechas en los albergues para víctimas de los referidos delitos; asimismo impulsará la transversalidad de la perspectiva de género en el diseño, implementación y evaluación de las políticas públicas, que garanticen el pleno ejercicio de los derechos de las mujeres desde un enfoque intercultural que impida que éstas sean victimizadas por la comisión de los delitos de trata de personas;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XVII. La Secretaría de las Mujeres e Igualdad Sustantiva, se encargará de la protección y atención psicológica y acompañamiento de las mujeres víctimas del delito de trata de personas antes, durante y después del proceso, cuidando que sus necesidades especiales sean satisfechas en los albergues para víctimas de los referidos delitos; asimismo impulsará la transversalidad de la perspectiva de género en el diseño, implementación y evaluación de las políticas públicas, que garanticen el pleno ejercicio de los derechos de las mujeres desde un enfoque intercultural que impida que éstas sean victimizadas por la comisión de los delitos de trata de personas;
 
 XVIII. El Instituto Potosino de la Juventud, llevará a cabo campañas y actividades tendientes al conocimiento y la prevención de los delitos de trata de personas entre las y los jóvenes de todos (sic) el Estado, con contenidos que tomen en cuenta la cultura y estado socioeconómico de las regiones de la Entidad, para su mayor penetración e impacto;
 
@@ -1190,3 +1200,11 @@ P.O. 11 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto será vigente al día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
