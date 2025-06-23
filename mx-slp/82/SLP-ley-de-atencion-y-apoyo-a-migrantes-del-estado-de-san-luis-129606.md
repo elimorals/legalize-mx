@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2025-03-10"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -415,7 +415,9 @@ VII. La Secretaría de Desarrollo Social y Regional;
 
 VIII. La Fiscalía General del Estado;
 
-IX. El Instituto de las Mujeres;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+IX. La Secretaría de las Mujeres e Igualdad Sustantiva;
 
 X. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -646,6 +648,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 10 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0171.- SE REFORMAN LAS FRACCIONES XXII Y XXIII DEL ARTÍCULO 30; Y ADICIONA LA FRACCIÓN XXIV AL MISMO ARTÍCULO 30, DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
