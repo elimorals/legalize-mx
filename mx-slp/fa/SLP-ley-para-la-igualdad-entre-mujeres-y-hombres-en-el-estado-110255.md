@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2022-10-14"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -83,11 +83,11 @@ III. Todos aquellos contenidos en la Constitución Política del Estado Libre y 
 
 Son sujetos de los derechos que establece esta Ley, las personas que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico nacional o regional, condición social o económica, salud, religión, opinión, discapacidad, orientación, preferencia sexual, identidad de género, o cualquier otra causa, se encuentren con algún tipo de desventaja política, social, económica, cultural, civil o de cualquiera otra índole, ante la violación del principio de igualdad que esta Ley tutela.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 4º.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; Ley Federal para Prevenir y Eliminar la Discriminación; la Ley para Prevenir y Erradicar la Discriminación para el Estado de san Luis Potosí; la Ley de la Comisión Estatal de los Derechos Humanos, la Ley de Instituto de las Mujeres del Estado de San Luis Potosí; los instrumentos internacionales ratificados por el Estado mexicano, y los demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; Ley Federal para Prevenir y Eliminar la Discriminación; la Ley para Prevenir y Erradicar la Discriminación para el Estado de san Luis Potosí; la Ley de la Comisión Estatal de los Derechos Humanos, la Ley del Centro de Justicia para Mujeres del Estado de San Luis Potosí, el Reglamento Interior de la Secretaría de las Mujeres e Igualdad Sustantiva; los instrumentos internacionales ratificados por el Estado mexicano, y los demás ordenamientos aplicables en la materia.
 
 En la interpretación para la aplicación de las disposiciones de esta Ley, las autoridades, deberán utilizar con prelación de importancia, los criterios y derechos que beneficien en mayor medida a las personas en situación o frente a algún tipo de desigualdad.
 
@@ -119,7 +119,9 @@ VII. Igualdad Sustantiva. Es el acceso al mismo trato y oportunidades para el re
 
 VIII. Igualdad: situación social, política, cultural y económica que implica la eliminación de toda forma de discriminación y estereotipos de género en cualquiera de los ámbitos de la. vida, que se genere por pertenecer a cualquier sexo; en tanto principio jurídico político, garantiza el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin distinción de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, discapacidad o cualesquiera otra situación de las personas;
 
-IX. Instituto: Instituto de las Mujeres del Estado de San Luís Potosí;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+IX. Secretaría: Secretaría de las Mujeres e Igualdad Sustantiva;
 
 X. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone identificar, cuestionar y eliminar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres y promueve la igualdad entre la diversidad de los géneros, a través de la equidad, la progresividad y el bienestar de las personas; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos, y a la representación política y social en los ámbitos de toma de decisiones;
 
@@ -489,7 +491,9 @@ El Sistema se integrará de la siguiente forma:
 
 I. Por una (sic) Presidente Honorario que será el Gobernador o Gobernadora Constitucional del Estado;
 
-II. Una Secretaría Ejecutiva a cargo del Instituto de las Mujeres del Estado;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+II. Una Secretaría Ejecutiva a cargo de la Secretaría de las Mujeres e Igualdad Sustantiva;
 
 III. La o el Titular de la Secretaría de Finanzas;
 
@@ -996,5 +1000,13 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0410.- SE REFORMA EL ARTÍCULO 14 EN SUS FRACCIONES XI Y XVI; Y ADICIONA AL MISMO ARTÍCULO 14 DOS FRACCIONES, ÉSTAS COMO XVI Y XVII, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
