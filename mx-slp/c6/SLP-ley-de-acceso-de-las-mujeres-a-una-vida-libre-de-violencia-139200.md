@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2025-05-08"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -95,7 +95,9 @@ VII. Igualdad: el principio que establece el acceso a las garantías, oportunida
 
 VII Bis. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
 
-VIII. Instituto: el Instituto de las Mujeres del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+VIII. Secretaría: Secretaría de las Mujeres e Igualdad Sustantiva;
 
 IX. Ley General: la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
@@ -417,7 +419,9 @@ VIII. Secretaría de Seguridad Púbica;
 
 IX. Secretaría del Trabajo y Previsión Social;
 
-X. Instituto de las Mujeres del Estado, quien ocupará la Secretaría Ejecutiva del Sistema;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+X. Secretaría de las Mujeres e Igualdad Sustantiva, quien ocupara la Secretaría Ejecutiva del Sistema;
 
 XI. Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -471,9 +475,9 @@ V. Establecer un Banco Estatal de Información sobre la Violencia contra las Muj
 
 VI. Llevar un registro administrativo de las sentencias condenatorias sobre hostigamiento o acoso sexual, con los nombres de los agresores, guardando el anonimato de la o las quejosas, con la información que le hagan llegar las instancias que reciban dichas quejas o denuncias;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-VII. Constituir un Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, que estará a cargo del Instituto de las Mujeres del Estado, quien podrá crear una comisión específica en coordinación y con la participación de por lo menos la Secretaría de Seguridad y Protección Ciudadana, la Fiscalía General del Estado, el Poder Judicial del Estado, el Centro de Justicia para las Mujeres de la Entidad y los Refugios para las Víctimas de Violencia en el Estado, con el fin de apoyar las acciones de política criminal y otras que correspondan, así como facilitar el intercambio de información entre las instancias y determinar de manera anual la información y los indicadores que los entes obligados deberán reportar al mismo. Al efecto, las autoridades jurisdiccionales y administrativas que generen y ejecuten órdenes y/o medidas de protección, deberán reportar la información conducente a dicho Banco, con el fin de que se genere la información estadística correspondiente;
+VII. Constituir un Banco de Datos sobre Órdenes de Protección y Personas Sujetas a ellas, que estará a cargo de la Secretaría, quien podrá crear una comisión específica en coordinación y con la participación de por lo menos la Secretaría de Seguridad y Protección Ciudadana, la Fiscalía General del Estado, el Poder Judicial del Estado, el Centro de Justicia para las Mujeres de la Entidad y los Refugios para las Víctimas de Violencia en el Estado, con el fin de apoyar las acciones de política criminal y otras que correspondan, así como facilitar el intercambio de información entre las instancias y determinar de manera anual la información y los indicadores que los entes obligados deberán reportar al mismo. Al efecto, las autoridades jurisdiccionales y administrativas que generen y ejecuten órdenes y/o medidas de protección, deberán reportar la información conducente a dicho Banco, con el fin de que se genere la información estadística correspondiente;
 
 VIII. Participar, a través de su Presidente, en la elaboración del Programa Nacional Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
@@ -501,7 +505,9 @@ XIX. Impulsar la participación de las organizaciones privadas dedicadas a la pr
 
 XX. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
-XXI. Proporcionar al Banco Estatal de Indicadores de Género a cargo del Instituto de las Mujeres, la información con que cuente, desagregada por sexo, específicamente la relativa a los programas, obras y acciones que emprenda el Sistema, y en lo particular, las instituciones que lo integran, en relación con la prevención, sanción, y erradicación de la violencia contra las mujeres; así como a las demás instancias encargadas de la elaboración de las estadísticas en la materia, la información con que cuente;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XXI. Proporcionar al Banco Estatal de Indicadores de Género a cargo de la Secretaría, la información con que cuente, desagregada por sexo, específicamente la relativa a los programas, obras y acciones que emprenda el Sistema, y en lo particular, las instituciones que lo integran, en relación con la prevención, sanción, y erradicación de la violencia contra las mujeres; así como a las demás instancias encargadas de la elaboración de las estadísticas en la materia, la información con que cuente;
 
 XXII. Difundir por todos los medios de comunicación el contenido de esta Ley, y
 
@@ -561,7 +567,9 @@ II. Asesorar a las dependencias y entidades, integrantes del Sistema para asegur
 
 III. Diseñar con perspectiva de género, las normas y lineamientos de carácter técnico-presupuestal en la formulación de los programas y acciones;
 
-IV. Coordinar con el Instituto de las Mujeres, la capacitación a las áreas competentes de las dependencias y entidades, para la elaboración de presupuestos con perspectiva de género, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+IV. Coordinar con la Secretaría, la capacitación a las áreas competentes de las dependencias y entidades, para la elaboración de presupuestos con perspectiva de género, y
 
 V. Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -643,7 +651,9 @@ XVIII. Garantizar, mediante acciones, que la educación que se imparte en el Est
 
 XIX. Desarrollar modelos de intervención para detectar la violencia contra las alumnas en albergues y centros educativos;
 
-XX. Realizar, en coordinación con el Instituto de las Mujeres del Estado, campañas de prevención de la violencia en el noviazgo, entre la población de adolescentes y jóvenes estudiantes de la Entidad;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XX. Realizar, en coordinación con la Secretaría, campañas de prevención de la violencia en el noviazgo, entre la población de adolescentes y jóvenes estudiantes de la Entidad;
 
 XXI. Establecer programas preventivos anuales para la revisión del estado de salud psicoemocional de docentes y personal que tenga contacto con las y los estudiantes en los planteles educativos públicos y privados, con el fin de evaluar riesgos y salvaguardar la integridad física, emocional o sexual de las niñas, niños y adolescentes. Para tal efecto podrán celebrar convenios con universidades públicas y privadas que impartan la carrera de psicología o afines, así como con las instituciones del sector salud, y
 
@@ -767,11 +777,15 @@ X. Diseñar políticas y programas con perspectiva de género de carácter integ
 
 XI. Las demás previstas para el cumplimiento de la presente Ley.
 
-### CAPÍTULO IX. INSTITUTO DE LAS MUJERES DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO IX. SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 26.
 
-Corresponde al Instituto de las Mujeres del Estado:
+Corresponde a la Secretaría:
 
 I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
 
@@ -1423,9 +1437,9 @@ VI. De manera específica brindar la atención, asesoría, acompañamiento, prot
 
 VII. Realizar las acciones tendentes a garantizar a las víctimas el derecho a la justicia, y
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
 
-VIII. Tratándose de violencia vicaria se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes; Secretaría General de Gobierno, a través del Sistema Estatal de Protección Integral de Niñas, y Niños y Adolescentes; Instituto de las Mujeres, Centro de Justicia para Mujeres, y en su caso del Poder Judicial; con el objetivo de implementar un sistema de protección y acompañamiento integral para las mujeres y sus hijas e hijos.
+VIII. Tratándose de violencia vicaria se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia través de la Procuraduría de Protección de Niñas, Niños y Adolescentes; Secretaria General de Gobierno, a través del Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes; la Secretaría, Centro de Justicia para Mujeres, y en su caso el Poder Judicial; con el objetivo de 0implementar (sic) un sistema de protección y acompañamiento integral para las mujeres y sus hijas e hijos.
 
 Los servidores públicos adscritos a las instituciones municipales, o estatales obligadas, que nieguen u omitan sin justa causa, la realización de las acciones de atención a las víctimas, serán sancionados de acuerdo a la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, sin menoscabo de lo aplicable por esta Ley.
 
@@ -1790,3 +1804,11 @@ P.O. 8 DE MAYO DE 2025.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
