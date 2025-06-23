@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-del-municipio-de-el-llano-del-estado-de-78652"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-17"
-last_updated: "2025-02-10"
+last_updated: "2025-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE EL LLANO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de enero de 2011.
 
@@ -641,6 +641,10 @@ G. Coordinarse con la SEPLAPDE, para implementar, integrar y operar en el ámbit
 
 H. Coordinarse con la SEPLAPDE, para implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales;
 
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+LXIV. Nombrar al titular del Órgano Interno de Control este mediante la terna que resulte de la convocatoria misma que debe de ser publicada en el periódico oficial del Estado, así mismo podrán realizar las designaciones respetivas (sic) de la (sic) unidades investigadora, subtanciadora y resolutora previa convocatoria pública. Además, cumplir con lo respectivo al artículo 51 bis de la ley Municipal para el Estado de Aguascalientes.
+
 ###### ARTÍCULO 36.
 
 Es obligación del Ayuntamiento del Municipio de el Llano, propiciar la cooperación ciudadana para la limpieza de los centros de población del municipio; sin que exista trato diferenciado por razones de género en esta actividad. Así como promover y organizar la cultura cívica y la participación ciudadana en los asuntos públicos, a fin de propiciar y desarrollar un efectivo ejercicio democrático y representativo del gobierno; buscando ante todo la igualdad entre mujeres y hombres.
@@ -654,6 +658,8 @@ El Presidente presidirá al Ayuntamiento y al Gobierno Municipal. Tendrá a su c
 ###### ARTÍCULO 38.
 
 El Presidente Municipal es el ejecutor de las determinaciones emanadas del Ayuntamiento, y el encargado de realizar la administración del municipio, atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la Ley Municipal para el Estado de Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 39.
 
@@ -687,7 +693,9 @@ XIII. Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y r
 
 XIV. Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto federales como locales, así como las disposiciones de carácter municipal;
 
-XV. Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Director de Administración y Finanzas Municipal y proponer la terna para la elección del Director de Seguridad Pública y Vialidad Municipal;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2025)</small>
+
+XV. Proponer al Ayuntamiento los nombramientos del secretario del Ayuntamiento, Director de Administración y Finanzas Municipal y proponer la terna para la elección del Director de Seguridad Pública y Vialidad Municipal, así como al titular del Órgano Interno de Control, así como a los demás funcionarios que estarán al frente de las unidades que integran dicho órgano, conforme a lo dispuesto en el artículo 35 fracción LXIV.
 
 XVI. Otorgar los nombramientos a los Funcionarios Públicos Municipales;
 
@@ -953,9 +961,11 @@ El servidor público que concluye en el desempeño de sus funciones con motivo d
 
 En caso de que el servidor público que deba recibir, aún no haya sido designado, el Presidente Municipal entrante nombrará al servidor público que celebrará la recepción del despacho, comunicando a la Controlaría Municipal tal designación.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 60.
 
-Si por causa imputable a la Administración saliente no hubiera entrega del despacho, el servidor público que debió recibir, será el responsable de que se levante el acta correspondiente, con asistencia de dos testigos, donde se anote el estado en que se encuentran los asuntos y recursos del funcionario saliente, haciéndolo del conocimiento de su jefe inmediato y de la Contraloría Municipal, a efecto de que se ejecuten las acciones correspondientes a la aplicación de responsabilidades de los servidores públicos.
+Si por causa imputable a la Administración saliente no hubiera entrega del despacho, el servidor público que debió recibir, será el responsable de que se levante el acta correspondiente, con asistencia de dos testigos, donde se anote el estado en que se encuentran los asuntos y recursos del funcionario saliente, haciéndolo del conocimiento de su jefe inmediato y del Órgano Interno de Control, a efecto de que se ejecuten las acciones correspondientes a la aplicación de responsabilidades de los servidores públicos.
 
 ###### ARTÍCULO 61.
 
@@ -989,11 +999,11 @@ Corresponde al Órgano Interno de Control la coordinación de las acciones del P
 
 Cuando el Servidor Público saliente no efectúe la Entrega que señala este ordenamiento, será requerido por el Órgano Interno de Control, para que en un término de 10 días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 65.
 
-Dentro del Programa de Entrega-Recepción, el Órgano Interno de Control establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría Municipal, el cual se instrumentará y operará mediante ensayos previos.
+Dentro del Programa de Entrega-Recepción, el Órgano Interno de Control establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por el propio Órgano Interno de Control, el cual se instrumentará y operará mediante ensayos previos.
 
 ###### ARTÍCULO 66.
 
@@ -1149,11 +1159,19 @@ VII. Resoluciones adoptadas.
 
 El acta se debe acompañar de los documentos a los que se le dé lectura. De igual manera puede llevarse un archivo a parte (sic) con la versión estenográfica de la sesión, grabaciones de voz o video.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 84.
 
-El Ayuntamiento celebrará sus sesiones en el salón de Cabildo dentro del Palacio Municipal. Este recinto será inviolable, en consecuencia se impedirá el acceso al mismo de la fuerza pública, salvo el caso que lo solicite el Presidente Municipal, en cuyo caso sólo será para garantizar la salvaguarda del recinto.
+El Ayuntamiento celebrará sus sesiones en el salón de Cabildo dentro del Palacio Municipal. Este recinto será inviolable, en consecuencia, se impedirá el acceso al mismo de la fuerza pública, salvo el caso que lo solicite el Presidente Municipal, en cuyo caso sólo será para garantizar la salvaguarda del recinto.
 
-Para llevarse a cabo sesión de Cabildo en lugar distinto al Recinto Oficial, se requiere el acuerdo de la mayoría de los integrantes del Cabildo en sesión que así lo declare, previamente, recinto oficial el lugar donde ha de llevarse a cabo la sesión temporalmente.
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2025)</small>
+
+Adicionalmente, cualquier persona que desee video grabar y audio grabar la sesión, deberá registrarse en una bitácora antes de entrar a la sesión y acreditar personalidad con identificación oficial vigente y comprobante.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO], P.O. 23 DE JUNIO DE 2025)</small>
+
+Para llevarse a cabo sesión de Cabildo en lugar distinto al Recinto Oficial, se requiere el acuerdo de la mayoría de los integrantes del Cabildo en sesión que así lo declare, previamente, recinto oficial el lugar donde ha de llevarse a cabo la sesión temporalmente
 
 ###### ARTÍCULO 85.
 
@@ -1197,13 +1215,15 @@ Es obligación del público dentro de las sesiones de Cabildo observar buena con
 
 Las Sesiones Ordinarias deberán celebrarse el primer lunes de cada mes, los Regidores y Síndico deberán ser citados con 72 horas de anticipación como mínimo por el Presidente Municipal, a través del Secretario del Honorable Ayuntamiento, proveyendo todos los documentos o datos necesarios donde se sustentan los puntos a tratar en el orden del día, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, anexándose al citatorio, el orden del día.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 93.
 
 Las sesiones ordinarias se sujetarán al siguiente orden:
 
 I. Pase de lista de asistencia y verificación del quórum legal;
 
-II. Instalación legal de la sesión, mediante la declaración realizada por el Presidente o por quien lo sustituya legalmente;
+II. Instalación legal de la sesión, mediante la declaración realizada por el presidente o por quien lo sustituya legalmente;
 
 III. Lectura y aprobación, en su caso del orden del día;
 
@@ -1213,7 +1233,7 @@ V. Desahogo de los puntos correspondientes;
 
 VI. Asuntos generales;
 
-VII. Citación para la próxima sesión; y
+VII. Presentación de los Informes mensuales de los Regidores y Síndico Municipal
 
 VIII. Clausura de la sesión.
 
@@ -2477,19 +2497,23 @@ C. DEPARTAMENTO DE PREVENCIÓN DEL DELITO.
 
 ### CAPÍTULO IV. De los Funcionarios Públicos Municipales
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 216.
 
 Los nombramientos de los servidores públicos, se realizarán con las formalidades requeridas para su validez por la Ley Municipal para el Estado de Aguascalientes, conforme a las siguientes consideraciones:
 
-I. En el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno o Director de Administración y Finanzas, Juez Calificador y Director de Seguridad Pública y Vialidad serán nombrados por el Ayuntamiento a propuesta del Presidente Municipal.
+I. En el caso del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno o Director de Administración y Finanzas, serán nombrados por el Ayuntamiento a propuesta del Presidente Municipal; así como al titular del Órgano Interno de Control y las unidades investigadora y substanciadora y resolutora, conforme a lo dispuesto en el artículo 35 fracción LXIV.
 
 II. El otorgamiento de los demás nombramientos, por disposición de la ley, corresponderá al Presidente Municipal, el cual deberá de nombrar a la persona más calificada a su consideración para ocupar el puesto que se trate.
 
 III. El concursante a ocupar algún puesto dentro de la Administración Pública Municipal, deberá acreditar fehacientemente tener conocimientos suficientes en el área donde pretenda desempeñarse, así mismo deberá de contar con reconocida solvencia moral y notoria buena costumbre.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 217.
 
-Los servidores públicos municipales que no cumplan satisfactoriamente con su encargo podrán ser cesados o removidos de su función. Tratándose del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Director de Administración y Finanzas, Juez Calificador y del Director de Seguridad Pública y Vialidad, el cese o remoción será decretado por el Ayuntamiento; en el caso de los demás servidores públicos, el Presidente Municipal podrá cesarlos o removerlos, siempre y cuando exista causa justificada para el cese o remoción.
+Los servidores públicos municipales que no cumplan satisfactoriamente con su encargo podrán ser cesados o removidos de su función. Tratándose del titular de la Secretaría del Ayuntamiento y Dirección General del Gobierno, Director de Administración y Finanzas, titular del Órgano Interno de Control y las unidades investigadora, substanciadora y resolutora, el cese o remoción será decretado por el Ayuntamiento; en el caso de los demás servidores públicos, el Presidente Municipal podrá cesarlos o removerlos, siempre y cuando exista causa justificada para el cese o remoción.
 
 ###### ARTÍCULO 218.
 
@@ -2627,13 +2651,21 @@ VI. No ser pariente consanguíneo en línea recta en cualquier grado o en línea
 
 VII. No presentar antecedentes criminales, ni penales, ni policiales relativos a haber sufrido condena por la comisión de delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 230.
 
 Al frente del Órgano Interno de Control, habrá un profesionista, que se denominará Titular del Órgano Interno de Control, servidor público que será nombrado por el Ayuntamiento. El Presidente Municipal en un plazo no mayor de 30 días hábiles después de la instalación del Ayuntamiento, someterá en la sesión de cabildo una terna de candidatos a ocupar dicho cargo, quienes serán entrevistados por los miembros del Ayuntamiento con derecho a voz y voto, seleccionando a la persona más idónea para ocupar el cargo, mediante la votación de la mayoría relativa de los miembros del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2025)</small>
+
+En caso de que el cargo de Titular del Órgano Interno de Control quede acéfalo temporalmente por ausencia de su titular, por no haber sido designado dentro del plazo establecido o por cualquier otra causa, este puede ser suplido por esa ausencia temporal o definitiva, para lo cual el Presidente Municipal designará inmediatamente y de manera directa a una persona Encargada de Despacho, quien deberá ser un servidor público adscrito al Órgano Interno de Control y deberá de tener el perfil más idóneo para ejercer dicho cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2025)</small>
+
+La persona designada como Encargado(a) de Despacho asumirá todas las facultades, atribuciones, responsabilidades y retribuciones inherentes al cargo de Titular del Órgano Interno de Control, con la finalidad (sic) garantizar la gestión de los trámites y la continuidad operacional del Órgano Interno de Control, ejerciendo en todo momento sus funciones con plena autonomía técnica.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 231.
 
@@ -2643,13 +2675,15 @@ I. Ser mexicano, en pleno ejercicio de sus derechos y mayor de 21 años;
 
 II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo;
 
-III. Poseer título expedido en alguna carrera profesional de las ciencias económicas, administrativas o contables;
+III. Poseer título expedido en alguna carrera profesional en Derecho, Contaduría, Administración Pública o alguna otra que sea a fin (sic).
 
-IV. Tener experiencia mínima de un año en procesos de auditoría contable, fiscal o de procesos internos;
+IV. Tener experiencia mínima de un año en procesos de auditoría contable, fiscal o de procesos internos o en procedimientos de responsabilidades administrativa (sic).
 
 V. No ser pariente consanguíneo en línea recta en cualquier grado o en línea colateral hasta el cuarto grado, del Presidente Municipal; y
 
 VI. No presentar antecedentes criminales, ni penales, ni policiales relativos a haber sufrido condena por la comisión de delito doloso de carácter patrimonial o condena superior a dos años de prisión por delito doloso diverso.
+
+VII. Así como los previstos en el artículo 51 Bis de la Ley Municipal para el Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2024)</small>
 
@@ -17428,3 +17462,23 @@ P.O. 10 DE FEBRERO DE 2025.
 PRIMERO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- El (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 39, 60, 65, 93, 216, 217, 225, 230 Y 231 Y ADICIÓN AL ARTÍCULO 35 LA FRACCIÓN LXIV, ASÍ COMO LA ADICIÓN DE DOS PÁRRAFOS AL ARTÍCULO 84 DEL CÓDIGO MUNICIPAL DE EL LLANO, AGUASCALIENTES”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye a la Secretaria del H. Ayuntamiento para que solicite su publicación el (sic) Periódico Oficial.
+
+P.O. 23 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA Y ADICIÓN DE VARIOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE EL LLANO EN MATERIA DEL ÓRGANO INTERNO DE CONTROL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto surte efectos a partir de su aprobación por este Cuerpo Colegiado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial del Estado de Aguascalientes.
