@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-06-19"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -899,7 +899,9 @@ II. Impulsar la participación corresponsable de los grupos beneficiarios de los
 
 III. Diseñar, concertar, ejecutar y dar seguimiento a los programas sociales en los ámbitos rural y urbano para la atención de grupos específicos y sectores marginales, promoviéndose la participación de los sectores social y privado;
 
-IV. Impulsar la igualdad de oportunidades de los grupos sociales vulnerables y en desventaja, para el acceso de los servicios de salud, a la educación, al trabajo, a una vivienda digna y a los servicios públicos básicos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2025)</small>
+
+IV. Impulsar la igualdad de oportunidades de los grupos sociales vulnerables y en desventaja, para el acceso de los servicios de salud, a la educación, al trabajo, a una vivienda adecuada y a los servicios públicos básicos;
 
 V. Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios de coordinación que se suscriban al efecto;
 
@@ -1842,3 +1844,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las personas empleadoras tendrán 90 días a partir de la entrada en vigor del presente decreto para elaborar y, en su caso, registrar ante la Secretaría del Trabajo y Previsión Social del Estado de Tamaulipas, los protocolos que implementen para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
