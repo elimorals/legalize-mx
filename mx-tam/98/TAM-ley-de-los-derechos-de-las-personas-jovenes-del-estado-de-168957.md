@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-jovenes-del-estado-de-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2025-06-19"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Número 153 del Periódico Oficial del Estado de Tamaulipas, el jueves 21 de diciembre de 2023.
 
@@ -481,9 +481,11 @@ El Instituto fungirá como gestor, facilitador y difusor de los programas y serv
 
 ### CAPÍTULO XI. DEL DERECHO A LA VIVIENDA
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 56.
 
-Las personas jóvenes tienen derecho a una vivienda digna, de acuerdo con la normatividad establecida por las instancias correspondientes.
+Las personas jóvenes tienen derecho a una vivienda adecuada, de acuerdo con la normatividad establecida por las instancias correspondientes.
 
 ###### ARTÍCULO 57.
 
@@ -1298,6 +1300,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAUL
 P.O. 19 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-346 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA”.]
 
 ###### ARTÍCULO ÚNICO.
 
