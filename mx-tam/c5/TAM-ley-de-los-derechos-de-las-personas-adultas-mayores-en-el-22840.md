@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2024-04-03"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -309,9 +309,9 @@ VI.- A la Asistencia Social:
 
 a).- Ser sujetos de programas de asistencia social cuando se encuentren en situación de riesgo o desamparo, que garanticen su atención integral;
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
 
-b).- Ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;
+b).- Ser sujetos de programas para contar con una vivienda adecuada y adaptada a sus necesidades;
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -1040,6 +1040,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-835 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, FRACCIONES VIII Y IX; Y 5°, FRACCIONES V, INCISO A) Y X, INCISO A); Y SE ADICIONAN UNA FRACCIÓN X AL ARTÍCULO 4° Y UNA FRACCIÓN XI AL ARTÍCULO 5°, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA”.]
 
 ###### ARTÍCULO ÚNICO.
 
