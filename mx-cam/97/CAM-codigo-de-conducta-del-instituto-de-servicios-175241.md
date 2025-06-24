@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-del-instituto-de-servicios-175241"
 country: "mx"
 rank: "codigo"
 publication_date: "2024-03-25"
-last_updated: "2024-03-25"
+last_updated: "2025-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS DESCENTRALIZADOS DE SALUD PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SERVICIOS DESCENTRALIZADOS DE SALUD PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 24 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE SERVICIOS DESCENTRALIZADOS DE SALUD PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 25 de marzo de 2024.
 
@@ -556,3 +558,13 @@ Nombre y firma de la Servidora o Servidor Público
 Cargo
 
 Unidad Administrativa
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE SE "EMITE EL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SERVICIOS DESCENTRALIZADOS DE SALUD PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se abroga el Artículo Primero del Acuerdo por el que se emite el Acuerdo por el que se emite (sic) el Código de Conducta al que deberán sujetarse las personas servidoras públicas del Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche, publicado en el Periódico Oficial del Estado de Campeche el 25 de marzo de 2024; así como cualquier disposición de índole administrativa que se contraponga al presente Código de igual o menor jerarquía.
