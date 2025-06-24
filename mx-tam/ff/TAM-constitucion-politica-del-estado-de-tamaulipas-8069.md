@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-05-13"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -289,9 +289,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Tamaulipas deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
 
-En Tamaulipas se adoptarán las medidas legislativas y ejecutivas necesarias para lograr, progresivamente y mediante la aplicación de los máximos recursos disponibles a la luz de las finanzas públicas, la plena efectividad de los derechos sociales materia de su competencia conforme a los órdenes jurídicos nacional y estatal, particularmente a la alimentación, protección de la salud, educación, trabajo, vivienda digna y decorosa y medio ambiente sano, en aras de la igualdad de oportunidades para toda la población.
+En Tamaulipas se adoptarán las medidas legislativas y ejecutivas necesarias para lograr, progresivamente y mediante la aplicación de los máximos recursos disponibles a la luz de las finanzas públicas, la plena efectividad de los derechos sociales materia de su competencia conforme a los órdenes jurídicos nacional y estatal, particularmente a la alimentación, protección de la salud, educación, trabajo, vivienda adecuada y medio ambiente sano, en aras de la igualdad de oportunidades para toda la población.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -5902,3 +5902,11 @@ Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Para efectos de expedir la Ley de Transparencia del Estado, que refieren los párrafos segundo y tercero de la fracción V del artículo 17, el cual se adiciona en el presente decreto, el Congreso del Estado Libre y Soberano de Tamaulipas, contará con un término de 60 días naturales, contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
