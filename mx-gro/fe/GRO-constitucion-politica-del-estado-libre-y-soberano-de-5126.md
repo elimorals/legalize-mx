@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-06-06"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -339,7 +339,13 @@ I. Quienes hayan nacido en el territorio del Estado;
 
 II. Los hijos de padre o madre guerrerense que hayan nacido fuera de la entidad; y,
 
-III. Los mexicanos que tengan residencia permanente en el Estado por más de cinco años.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2025)</small>
+
+III. Las y los mexicanos que tengan residencia permanente en el Estado por más de cinco años, y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2025)</small>
+
+IV. Las y los mexicanos con el carácter de vecinos, cuando hayan procreado en el territorio del Estado de Guerrero.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1001,23 +1007,31 @@ La ley de la materia regulará lo concerniente a la elección y asignación de l
 
 #### SECCIÓN II. ESTATUTO DE LOS LEGISLADORES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2025)</small>
 
-###### ARTICULO 46.
+###### Artículo 46.
 
-Para ser diputado al Congreso del Estado se requiere:
+Para ser diputada o diputado al Congreso del Estado se requiere:
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Ser ciudadano guerrerense, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener veintiún años de edad cumplidos el día de la elección;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2025)</small>
+
+II. Tener dieciocho años de edad cumplidos el día de la elección;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Ser originario del Distrito o Municipio si éste es cabecera de dos o más Distritos, o tener una residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección, con las excepciones que establezcan las leyes de la materia; y,
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
 
-No podrán ser electos diputados los titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, los representantes populares federales, estatales o municipales; los Magistrados de los Tribunales Superior de Justicia, Electoral y de Justicia Administrativa del Estado de Guerrero; los Jueces, los titulares de los órganos autónomos y con autonomía técnica; así como los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08 y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
+No podrán ser electas diputadas o diputados las personas titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, las o los representantes populares federales, estatales o municipales; las o los Magistrados de los Tribunales Superior de Justicia, Electoral y de Justicia Administrativa del Estado de Guerrero; las o los Jueces, los titulares de los órganos autónomos y con autonomía técnica; así como las y los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado de Guerrero vigente y las y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -5678,3 +5692,29 @@ El Congreso del Estado Libre y Soberano de Guerrero deberá realizar las adecuac
 ###### ARTÍCULO SEXTO.
 
 Para conocimiento general y efectos legales procedentes, publíquese el presente Decreto en la Gaceta Parlamentaria y en la página de internet de este Congreso.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 259 POR EL QUE SE REFORMA LA FRACCIÓN III, Y SE ADICIONA UNA FRACCIÓN IV, AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 677 POR EL QUE SE REFORMA LA FRACCIÓN II Y SEGUNDO PÁRRAFO DEL ARTÍCULO 46, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. La presente reforma causará efectos para su aplicación para el proceso electoral 2026-2027, realícense las reformas a las leyes secundarias procedentes.
+
+TERCERO. En términos del numeral 1 fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+CUARTO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
