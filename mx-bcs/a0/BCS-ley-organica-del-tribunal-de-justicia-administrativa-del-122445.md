@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-tribunal-de-justicia-administrativa-del-122445
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-27"
-last_updated: "2021-12-14"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario al No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -271,11 +271,11 @@ Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para im
 
 El Tribunal estará compuesto por tres integrantes, Magistradas y Magistrados, debiendo observarse para su integración el principio de paridad de género; además de los Secretarios de Estudio y Cuenta. Secretarios de Acuerdos, los Actuarios y el personal administrativo que se requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE JUNIO DE 2025)</small>
 
 ###### Artículo 18.
 
-Las Magistradas y los Magistrados del Tribunal, serán electos en términos del Artículo 92 de la Constitución del Estado, por el Poder Legislativo, de entre la terna propuestas (sic) por el Titular de la Gubernatura del Estado, previa comparecencia de las personas propuestas.
+Las Magistradas y los Magistrados del Tribunal, serán electos en términos de las fracciones XLIV y XLV Artículo 64 de la Constitución del Estado, por el Poder Legislativo, de entre la terna propuestas (sic) por el Titular de la Gubernatura del Estado, previa comparecencia de las personas propuestas.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -291,11 +291,105 @@ Si el Congreso no resolviere dentro de ese plazo, ocupará el cargo de Magistrad
 
 Las Magistradas y los Magistrados durarán en su encargo seis años, computados a partir de la toma de protesta al cargo, al concluir el período para el que fueron nombrados, podrán ser considerados para ejercer hasta un periodo más de seis años, en los términos establecidos en la Constitución del Estado.
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 24 DE JUNIO DE 2025)</small>
+
+Para la reelección de las Magistradas y Magistrados, estos deberán demostrar poseer los atributos que se les reconocieron al habérseles designado, y que su trabajo cotidiano lo desempeñaron de manera pronta, completa e imparcial, como expresión de honorabilidad, diligencia, excelencia profesional y honestidad invulnerable, remitiendo al Congreso del Estado los escritos y documentos conducentes a tal efecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], B.O. 24 DE JUNIO DE 2025)</small>
+
+Para la reelección o no de las Magistradas y Magistrados, se seguirá el siguiente procedimiento:
+
+I.- Con una anticipación no menor a sesenta días naturales ni mayor a noventa días naturales, de que concluya el período para el que fue nombrado, la Magistrada o Magistrado de que se trate, en uso de su garantía de audiencia presentará por escrito y por duplicado ante el Congreso del Estado, a través de la Presidenta o Presidente de la Mesa Directiva o de la Diputación Permanente, su intención de reelegirse o no.
+
+En caso de que la Magistrada o Magistrado de que se trate se abstenga de presentar el escrito mencionado dentro del plazo señalado perderá su derecho a ser reelecto para un nuevo periodo de seis años.
+
+Con el duplicado del escrito a que se refiere el párrafo anterior, se dará vista a la Comisión dictaminadora correspondiente;
+
+II.- La Comisión Legislativa dictaminadora deberá solicitar al Pleno del Tribunal de Justicia Administrativa, toda aquella información y documentación que resulte útil y necesaria para conocer el desempeño en el ejercicio del cargo de la Magistrada o Magistrado sujeto a evaluación, de conformidad con lo establecido en el artículo 20 TER de la presente ley, quedando estos obligados a proporcionarla en breve término.
+
+La Infracción a estas disposiciones por parte del Pleno del Tribunal, será causa de juicio político.
+
+De igual forma, deberá solicitar a la Magistrada o el Magistrado sujeto a evaluación la información y documentación que considere pertinente, pudiendo además, solicitar a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo de la Magistrada o Magistrado, y estas quedan obligadas a proporcionar en breve término.
+
+III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este artículo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si la Magistrada o el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 20 BIS de esta ley, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
+
+IV.- El Congreso del Estado con base en lo anterior, resolverá en definitiva sobre su reelección o no reelección al menos quince días antes de que concluya el periodo para el que fue electo dicho funcionario judicial, con una votación de mayoría absoluta.
+
+Si el Congreso resuelve la no reelección, se procederá a realizar un nuevo nombramiento en los términos que establece esta Constitución y la Magistrada o el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado; y
+
+V.- La resolución del Congreso se hará del conocimiento del funcionario, mediante notificación personal, y de la sociedad en general, mediante su publicación en el Boletín oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 2025)</small>
 
 ###### Artículo 20.
 
-Las y Los Magistrados del Tribunal, deberán reunir los mismos requisitos que el Artículo 91 de la Constitución del Estado exige para ser Magistrada o Magistrado del Tribunal Superior de Justicia del Estado.
+Para ser Magistrada o Magistrado, se requiere:
+
+I.- Ser ciudadana o ciudadano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de su elección.
+
+II.- Tener cuando menos treinta y cinco años cumplidos el día de su elección;
+
+III.- Poseer al día de su elección, con una antigüedad mínima de diez años, Título y Cédula Profesional de Licenciado en Derecho, expedidos por la autoridad o Institución legalmente facultada para ello.
+
+IV.- Tener preferentemente estudios en materia fiscal, administrativa, de fiscalización, responsabilidades administrativas, hechos de corrupción o rendición de cuentas;
+
+V.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+VI.- No ser Secretario de Despacho del Poder Ejecutivo, ni Procurador General de Justicia del Estado, ni subsecretario en la Administración Pública Estatal, ni Magistrada o Magistrado del Tribunal Superior de Justicia, ni Magistrada o Magistrado del Tribunal Electoral del Estado, ni Magistrada o Magistrado del Tribunal de Disciplina Judicial, a menos que se haya separado de su cargo con un año antes del día de su designación.
+
+VII.- No desempeñar ni haber desempeñado cargo de presidente estatal o equivalente en algún partido político en los últimos cuatro años anteriores a la designación.
+
+Las Magistradas y Magistrados del Tribunal de Justicia Administrativa serán elegidos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(ADICIONADO, B.O. 24 DE JUNIO DE 2025)</small>
+
+###### Artículo 20 Bis.
+
+En caso de resultar reelectos las Magistradas y Magistrados, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+
+I.- Al cumplir doce años en el cargo de Magistrada o Magistrado;
+
+II.- Por incapacidad física o mental que impida el buen desempeño de sus funciones;
+
+III.- Si no conserva los requisitos establecidos para su nombramiento, previstos en esta ley;
+
+IV.- Incurran en faltas de probidad u honradez, mala conducta o negligencia en el desempeño de sus labores;
+
+V.- Si no gozan de buena reputación con motivo del ejercicio de su encargo;
+
+VI.- Sean condenados por sentencia ejecutoriada en juicio de responsabilidad administrativa de servidores públicos o juicio político que los inhabilite o destituya, en los casos que éstos procedan;
+
+VII.- Sean jubilados en los términos legales o renuncien a su puesto, y
+
+VIII.- Desempeñen otro empleo o encargo de la Federación, del Estado, de algún Municipio o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
+
+> <small>(ADICIONADO, B.O. 24 DE JUNIO DE 2025)</small>
+
+###### Artículo 20 Ter.
+
+El Pleno del Tribunal deberá rendir al Congreso del Estado, los informes y documentación que éste le solicite en relación con los procedimientos de reelección de Magistrados.
+
+La información para procedimiento de reelección de algún Magistrado, deberá entregarse dentro del plazo de diez días naturales contados a partir del día siguiente a aquel en que se formula la solicitud, incluyendo:
+
+I. La información estadística, que contendrá el número total de asuntos que fueron turnados a su adscripción y los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
+
+II. El total de asuntos turnados a la Sala que tiene a su cargo el Magistrado, precisando cuántos han sido resueltos y cuantos están pendientes de resolución;
+
+III. El número desglosado del total de sentencias elaboradas por la Sala a la que pertenezca el Magistrado, en las que se concedió el amparo y protección de la Justicia Federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano, para efectos y sobreseídos;
+
+IV. La información de los resultados que el Pleno haya recibido en materia de quejas procesales o administrativas contra la ponencia del Magistrado en cuestión, las cuales deberán contener la evolución de los procedimientos respectivos y el resultado de su procedencia o no, así como las sanciones impuestas en su caso;
+
+V. Las comisiones realizadas en el desempeño de su encargo;
+
+VI. La documentación que acredite la impartición de cursos, conferencias o seminarios justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su cargo; y
+
+VII. El total de sesiones del Pleno del Tribunal celebradas, tanto ordinarias como extraordinarias, y el número total de éstas a las que asistió la Magistrada o el Magistrado sujeto al procedimiento de reelección.
+
+En el supuesto de que el Magistrado Presidente esté sujeto al procedimiento de reelección, se deberá acompañar, además, la siguiente documentación:
+
+a) Los informes anuales de labores, y
+
+b) Los decretos expedidos por el Congreso del Estado mediante los cuales se determina el resultado de la revisión y fiscalización de las cuentas públicas anuales, correspondientes a su periodo.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -722,3 +816,13 @@ B.O. 14 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+B.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3161 SE REFORMAN LOS ARTÍCULOS 18, 19 Y 20 Y SE ADICIONAN LOS ARTÍCULOS 20 BIS Y 20 TER A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las Magistradas y Magistrados que hayan sido electos con anterioridad a la expedición del presente Decreto, para efectos del procedimiento de reelección, se aplicaran las disposiciones vigentes al momento de su elección.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
