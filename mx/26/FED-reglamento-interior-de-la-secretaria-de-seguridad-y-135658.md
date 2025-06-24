@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-y-135658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-30"
-last_updated: "2022-07-29"
+last_updated: "2025-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-04-25"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA, PUBLICADO EN EL D.O.F. DE 24 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JUNIO DE 2025 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 2019.
 
@@ -2102,3 +2104,31 @@ SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan
 TERCERO.- Las referencias y atribuciones que se hagan y se otorguen respectivamente en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas que desaparezcan o cambien de denominación por virtud del presente Decreto, se entenderán hechas o conferidas, en su caso, a las unidades administrativas competentes de conformidad con el presente ordenamiento.
 
 CUARTO.- Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que este ordenamiento le atribuya la competencia respectiva.
+
+D.O.F. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Seguridad y Protección Ciudadana publicado el 30 de abril del 2019, en el Diario Oficial de la Federación.
+
+Se abroga el Reglamento Interior de la Coordinación Nacional Antisecuestro y Delitos de Alto Impacto publicado en el Diario Oficial de la Federación el 20 de agosto del 2024 y su Decreto de creación publicado el 29 de enero del 2014 en el Diario Oficial de la Federación.
+
+Se derogan todas aquellas disposiciones administrativas que se opongan al presente reglamento.
+
+TERCERO. Los recursos humanos, financieros y materiales con que cuenta la Coordinación Nacional Antisecuestro y Delitos de Alto Impacto, serán transferidos a las unidades administrativas de la Secretaría.
+
+La Unidad de Administración y Finanzas de la Secretaría de Seguridad y Protección Ciudadana determinará lo conducente a fin de realizar las gestiones administrativas y laborales necesarias para transferir los recursos humanos, financieros, tecnológicos y materiales que sean necesarios para el ejercicio de las atribuciones conferidas en este ordenamiento a las unidades administrativas de la Secretaría, así como vigilar que dicha transferencia se sujete a las disposiciones jurídicas aplicables.
+
+CUARTO. Las referencias y atribuciones que se hagan y se otorguen respectivamente en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas y órganos administrativos desconcentrados que se suprimen o cambian de denominación por virtud del presente decreto, se entenderán hechas o conferidas, en su caso, a las unidades administrativas competentes de conformidad con este ordenamiento.
+
+QUINTO. Los asuntos que, a la entrada en vigor del presente ordenamiento, se encuentren en trámite o pendientes de conclusión, deberán ser atendidos por las unidades administrativas que asuman la competencia de conformidad con este decreto y serán resueltos de acuerdo con las disposiciones vigentes al momento de iniciar dicho trámite.
+
+SEXTO. Las erogaciones que deriven por la implementación del presente decreto se cubrirán con cargo al presupuesto autorizado de la Secretaría de Seguridad y Protección Ciudadana en el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto.
+
+Las modificaciones a la estructura orgánica de la Secretaría de Seguridad y Protección Ciudadana que se realicen en el presente ejercicio fiscal, que en su caso deriven por la entrada en vigor del presente decreto, se llevarán a cabo mediante movimientos compensados, en términos de las disposiciones aplicables.
+
+Para ejercicios fiscales subsecuentes se deberán prever las asignaciones de recursos correspondientes en el anteproyecto de presupuesto de la Secretaría de Seguridad y Protección Ciudadana con sujeción a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SÉPTIMO. La Comisión de Honor y Justicia de la Secretaría, prevista en el artículo 77 del presente reglamento, deberá quedar constituida dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto.
