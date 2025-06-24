@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2019-08-20"
+last_updated: "2025-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -45,7 +45,9 @@ LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
 ###### ARTÍCULO 1.
 
-1. Esta Ley reglamenta en el orden estatal lo dispuesto en el párrafo séptimo del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y en el párrafo sexto del artículo 16 de la Constitución Política del Estado de Tamaulipas, sobre el derecho social de acceso a vivienda digna y decorosa para las familias.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
+
+1. Esta Ley reglamenta en el orden estatal lo dispuesto en el párrafo séptimo del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y en el párrafo sexto del artículo 16 de la Constitución Política del Estado de Tamaulipas, sobre el derecho social de acceso a vivienda adecuada para las familias.
 
 2. Las disposiciones de la presente Ley son de orden público, interés social y observancia obligatoria para las instituciones públicas del Estado de Tamaulipas; deberán aplicarse bajo principios de equidad e inclusión social, de manera que todas las familias puedan ejercer su derecho constitucional a la vivienda, sin importar el origen étnico o nacional, género, salud, religión, opiniones, preferencias o el estado civil de sus miembros.
 
@@ -109,7 +111,9 @@ XV. Situación de vulnerabilidad: la exposición a riesgos, contingencias o pres
 
 XVI. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional; y,
 
-XVII. Vivienda digna y decorosa: el bien inmueble privado, de costo razonable, proveniente de la inversión privada, social, pública o mixta, con espacio suficiente, accesibilidad física, seguridad de tenencia, estabilidad y durabilidad estructurales, iluminación y ventilación suficientes, infraestructura básica que incluya servicios de abastecimiento de agua, drenaje sanitario, energía eléctrica, factores apropiados de calidad del medio ambiente y relacionados con la salud, desplazamiento adecuado, acceso al trabajo y servicios básicos.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2025)</small>
+
+XVII. Vivienda adecuada: el bien inmueble privado, de costo razonable, proveniente de la inversión privada, social, pública o mixta, con espacio suficiente, accesibilidad física, seguridad de tenencia, estabilidad y durabilidad estructurales, iluminación y ventilación suficientes, infraestructura básica que incluya servicios de abastecimiento de agua, drenaje sanitario, energía eléctrica, factores apropiados de calidad del medio ambiente y relacionados con la salud, desplazamiento adecuado, acceso al trabajo y servicios básicos.
 
 ###### ARTÍCULO 4.
 
@@ -179,7 +183,9 @@ Compete a los Ayuntamientos:
 
 I. Expedir disposiciones administrativas por las que se establezcan normas arquitectónicas y de edificación de vivienda;
 
-II. Propiciar que las familias tengan acceso a vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2025)</small>
+
+II. Propiciar que las familias tengan acceso a vivienda adecuada;
 
 III. Formular, aprobar, ejecutar y administrar el Programa Municipal de Vivienda y Suelo, así como evaluar y vigilar su cumplimiento;
 
@@ -325,11 +331,11 @@ XI. Las demás que le otorguen esta Ley y otros ordenamientos.
 
 ### CAPÍTULO III. POLÍTICA ESTATAL DE VIVIENDA Y SUELO
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-La política estatal de vivienda y suelo es el conjunto de disposiciones y criterios, lineamientos, medidas y acciones que fortalezcan o realicen autoridades estatales por si o en coordinación con los gobiernos federales, de otras entidades federativas y municipales, en concertación con los sectores social y privado, para hacer efectivo el derecho de acceso a la vivienda digna y decorosa en condiciones sustentables y salubres, así como el acceso a suelo con servicios básicos.
+La política estatal de vivienda y suelo es el conjunto de disposiciones y criterios, lineamientos, medidas y acciones que fortalezcan o realicen autoridades estatales por si o en coordinación con los gobiernos federales, de otras entidades federativas y municipales, en concertación con los sectores social y privado, para hacer efectivo el derecho de acceso a la vivienda adecuada, en condiciones sustentables y salubres, así como el acceso a suelo con servicios básicos.
 
 ###### ARTÍCULO 13.
 
@@ -567,9 +573,11 @@ IX. Impulsar y desarrollar modelos educativos para formar especialistas en la ma
 
 X. Las demás acciones que para el cumplimiento de esta Ley acuerden las partes.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 29.
 
-El Ejecutivo del Estado fomentará la participación de los sectores social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con los parámetros de certificación y los principios de la vivienda digna y decorosa.
+El Ejecutivo del Estado fomentará la participación de los sectores social y privado en esquemas de financiamiento dirigidos al desarrollo y aplicación de nuevas tecnologías en vivienda y saneamiento, principalmente de bajo costo y alta productividad, que cumplan con los parámetros de certificación y los principios de la vivienda adecuada.
 
 ###### ARTÍCULO 30.
 
@@ -908,6 +916,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA".]
 
 ###### ARTÍCULO ÚNICO.
 
