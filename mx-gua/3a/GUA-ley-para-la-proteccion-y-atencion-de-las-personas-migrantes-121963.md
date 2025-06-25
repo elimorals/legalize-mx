@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-atencion-de-las-personas-migrantes-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2024-07-08"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Quinta Parte al Número 96 del Periódico Oficial del Estado de Guanajuato, el viernes 16 de junio de 2017.
 
@@ -131,7 +131,9 @@ IX. Programa Estatal: Programa Estatal de Migración, Hospitalidad e Intercultur
 
 X. Registro Estatal: Registro Estatal de Organizaciones Migrantes Guanajuatenses; y
 
-XI. Secretaría: la Secretaría del Migrante y Enlace Internacional.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. Secretaría: la Secretaría de Derechos Humanos.
 
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
 
@@ -529,7 +531,9 @@ V. Una persona representante de las organizaciones civiles en el Estado que atie
 
 VI. Una diputada o diputado integrante de la Comisión de Atención al Migrante del Congreso del Estado;
 
-VII. La persona titular del Instituto para las Mujeres Guanajuatenses; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VII. La persona titular de la Secretaría de las Mujeres; y
 
 VIII. Tres personas representantes de tres municipios que tengan un alto grado de intensidad migratoria con base a los estudios poblacionales que determine el Instituto Nacional de Estadística y Geografía.
 
@@ -994,3 +998,33 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su 
 Integración del Consejo Consultivo
 
 Artículo Segundo. La incorporación del Instituto para las Mujeres Guanajuatenses y de las tres personas representantes de los tres municipios con mayor incidencia de población migrante al Consejo Consultivo de Migración, deberá realizarse en la sesión próxima «ordinaria o extraordinaria de dicho Consejo», posterior a la entrada en vigor del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
