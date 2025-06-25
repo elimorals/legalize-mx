@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-administracion-publica-del-estado-de-175296"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-12-05"
-last_updated: "2025-06-18"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE JUNIO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO 276 PUBLICADO EN EL P.O. DE 18 DE JUNIO DE 2025.]</small>
 
 Ley publicada en el Número 382 del Periódico Oficial del Estado de Chiapas, el jueves 5 de diciembre de 2024.
 
@@ -217,7 +217,7 @@ Asimismo, tendrán facultades para expedir las circulares y acuerdos administrat
 
 ###### Artículo 18.
 
-Para el despacho de los asuntos de su competencia, las y los titulares de las Dependencias Públicas podrán proponer a la persona titular del Poder Ejecutivo la creación de órganos desconcentrados con autonomía para atender prioridades, que les estarán jerárquicamente subordinados.
+Para el despacho de los asuntos de su competencia, las y los titulares de las Dependencias Públicas podrán proponer a la persona titular del Poder Ejecutivo la creación de órganos desconcentrados con autonomía para atender prioridades, que les estarán jerárquicamente subordinados. Los órganos desconcentrados podrán ser creados mediante acuerdo o decreto administrativo que para tal efecto emita la persona titular del Poder Ejecutivo.
 
 Los órganos desconcentrados podrán ser creados mediante acuerdo o decreto administrativo que para tal efecto emita la persona titular del Poder Ejecutivo.
 
