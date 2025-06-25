@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-prevencion-social-de-la-violencia-y-la-134382"
 country: "mx"
 rank: "ley"
 publication_date: "2019-03-12"
-last_updated: "2024-04-23"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte al Número 51 del Periódico Oficial del Estado de Guanajuato, el martes 12 de marzo de 2019.
 
@@ -141,7 +139,9 @@ XI. Programa Estatal. El Programa Estatal para la Prevención Social de la Viole
 
 XII. Proximidad. Resolución pacífica de conflictos, con estrategias claras, coherentes y estables, de respeto a los derechos humanos, la promoción de la cultura de la paz y sobre las bases del trabajo social comunitario, así como del contacto permanente con los actores sociales y comunitarios;
 
-XIII. Secretaría. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XIII. Secretaría. La Secretaría de Seguridad y Paz;
 
 XIV. Violencia. El uso deliberado del poder o de la fuerza física, ya sea en grado de amenaza o efectivo, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones. Quedan incluidas las diversas manifestaciones que tiene la violencia como la de género, la juvenil, la delictiva, la institucional y la social, entre otras; y
 
@@ -287,7 +287,9 @@ Consejo Estatal
 
 El Consejo Estatal es la máxima instancia para la coordinación y definición de las políticas de prevención social de la violencia y la delincuencia, con participación ciudadana de acuerdo con lo estipulado en la Ley del Sistema de Seguridad Pública para el Estado de Guanajuato.
 
-La Secretaría de Seguridad Pública coordinará e implementará las políticas de prevención social de la violencia y la delincuencia en los términos que señala esta Ley.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+La Secretaría de Seguridad y Paz coordinará e implementará las políticas de prevención social de la violencia y la delincuencia en los términos que señala esta Ley.
 
 Para dar seguimiento al cumplimiento de las disposiciones aplicables, la Secretaría se coordinará con la Comisión Intersecretarial.
 
@@ -309,13 +311,19 @@ V. Promover la generación de indicadores y métricas estandarizados para los in
 
 VI. Las demás que establezcan otras disposiciones legales para el funcionamiento del Sistema Estatal de Seguridad Pública en las materias propias de esta Ley.
 
-### CAPÍTULO II. SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Secretaría de Seguridad Pública
+### CAPÍTULO II. SECRETARÍA DE SEGURIDAD Y PAZ
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Secretaría de Seguridad y Paz
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 19.
 
-La Secretaría de Seguridad Pública del Estado de Guanajuato, en materia de prevención social de la violencia y la delincuencia, tendrá las siguientes atribuciones:
+La Secretaría de Seguridad y Paz del Estado de Guanajuato, en materia de prevención social de la violencia y la delincuencia, tendrá las siguientes atribuciones:
 
 I. Elaborar en coordinación con las demás instancias del Sistema Estatal de Seguridad Pública, las propuestas de contenido del Programa Estatal de Prevención Social de la Violencia y la Delincuencia, y todos aquellos vinculados con esta materia;
 
@@ -371,9 +379,13 @@ Integrantes de la Comisión Intersecretarial
 
 La Comisión Intersecretarial se integrará por:
 
-I. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. La Secretaría de Desarrollo Social y Humano, quien fungirá como Secretaría Técnica;
+I. La Secretaría de Seguridad y Paz;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. La Secretaría del Nuevo Comienzo, quien fungirá como Secretaría Técnica;
 
 III. La Secretaría de Gobierno;
 
@@ -383,17 +395,29 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría de Salud;
 
-VII. La Secretaría de Desarrollo Económico Sustentable;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VIII. La Secretaría de la Transparencia y Rendición de Cuentas;
+VII. La Secretaría de Economía;
 
-IX. La Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-X. La Secretaría de Turismo;
+VIII. La Secretaría de la Honestidad;
 
-XI. La Secretaría de Infraestructura, Conectividad y Movilidad;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-XII. (DEROGADA, P.O. 22 DE JULIO DE 2020)
+IX. La Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+X. La Secretaría de Turismo e Identidad;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. La Secretaría de Obra Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2025)</small>
+
+XII. La Secretaría de las Mujeres;
 
 XIII. La Coordinación General de Comunicación Social;
 
@@ -405,7 +429,7 @@ XV. La Comisión de Deporte del Estado de Guanajuato;
 
 XVI. El Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato;
 
-XVII. El Instituto para las Mujeres Guanajuatenses;
+XVII. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
 
 XVIII. El Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
 
@@ -413,11 +437,15 @@ XIX. El Instituto Guanajuatense para las Personas con Discapacidad;
 
 XX. El Instituto de Alfabetización y Educación Básica para Adultos;
 
-XXI. El Instituto de Infraestructura Física Educativa de Guanajuato; y
+XXI. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
 
-XXII. El Instituto Estatal de la Cultura.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-La Coordinación de la Comisión Intersecretarial estará a cargo de la Secretaría de Seguridad Pública, y su funcionamiento, organización y atribuciones se regulan en su Decreto de creación.
+XXII. La Secretaría de Cultura.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+La Coordinación de la Comisión Intersecretarial estará a cargo de la Secretaría de Seguridad y Paz, y su funcionamiento, organización y atribuciones se regulan en su Decreto de creación.
 
 ### CAPÍTULO IV. MUNICIPIOS
 
@@ -495,9 +523,11 @@ Las autoridades de los gobiernos estatal y municipales, en el ámbito de sus res
 
 Instrumentación de las políticas de prevención social de la violencia y la delincuencia
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 27.
 
-El Programa Estatal será aprobado por el titular del Poder Ejecutivo de conformidad con las disposiciones de la Ley de Planeación para el Estado de Guanajuato, en el que deberá referirse la atención de la violencia y la delincuencia en zonas de atención prioritaria, así como contener acciones y metas a realizar por parte de las dependencias y organismos públicos estatales con la participación que le corresponda a los municipios involucrados bajo un enfoque coordinado, intersectorial y transversal.
+El Programa Estatal será aprobado por la persona titular del Poder Ejecutivo de conformidad con las disposiciones de la Ley de Planeación para el Estado de Guanajuato, en el que deberá referirse la atención de la violencia y la delincuencia en zonas de atención prioritaria, así como contener acciones y metas a realizar por parte de las dependencias y organismos públicos estatales con la participación que le corresponda a los municipios involucrados bajo un enfoque coordinado, intersectorial y transversal.
 
 Los municipios y su deber para con las políticas de prevención social
 
@@ -607,7 +637,9 @@ Integración del Consejo Estatal y Municipales de Consulta y Participación Ciud
 
 Los Consejos Estatal y municipales de Consulta y Participación Ciudadana a que se refiere el artículo anterior, se integrarán al menos de la siguiente forma:
 
-I. Por un presidente, que será el titular del Ejecutivo del Estado en el caso del Consejo Estatal de Consulta y Participación Ciudadana, y por el Presidente Municipal en el caso de los municipios. El titular de la Secretaría asumirá la presidencia en las ausencias del Gobernador y en el supuesto de los municipios, la función del presidente del Consejo se podrá ejercer por delegación, sin menoscabo de la participación del propio titular municipal en cualquier momento;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. Por un presidente, que será la persona titular del Ejecutivo del Estado en el caso del Consejo Estatal de Consulta y Participación Ciudadana, y por la persona titular de la presidencia municipal en el caso de los municipios. La persona titular de la Secretaría asumirá la presidencia en las ausencias de la persona titular del Poder Ejecutivo y en el supuesto de los municipios, la función de la presidencia del Consejo se podrá ejercer por delegación, sin menoscabo de la participación del propio titular municipal en cualquier momento;
 
 II. Por un secretario técnico, nombrado por los presidentes de los Consejos Estatal y municipales de Consulta y Participación Ciudadana, respectivamente;
 
@@ -992,3 +1024,33 @@ Artículo Décimo Cuarto. La Secretaría de Finanzas, Inversión y Administraci�
 Plazo para actualización de reglamentación municipal
 
 Artículo Décimo Quinto. Los municipios expedirán o, en su caso, actualizarán los reglamentos que deriven del contenido del presente Decreto, en un plazo no mayor de ciento ochenta días contados a partir de la entrada en vigor del mismo.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
