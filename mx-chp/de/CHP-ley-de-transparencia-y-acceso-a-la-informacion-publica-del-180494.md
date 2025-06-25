@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1804
 country: "mx"
 rank: "ley"
 publication_date: "2025-06-18"
-last_updated: "2025-06-18"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JUNIO DE 2025.]</small>
 
 Ley publicada en el Número 45 del Periódico Oficial del Estado de Chiapas, el miércoles 18 de junio de 2025.
 
@@ -515,9 +515,11 @@ Para el ejercicio y desempeño de las atribuciones, facultades, competencias o f
 
 ### Capítulo IV. Transparencia para el Pueblo de Chiapas
 
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 37.
 
-Transparencia para el Pueblo de Chiapas, es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Anticorrupción y Buen Gobierno, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción para el cumplimiento de las obligaciones de transparencia y el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
+Transparencia para el Pueblo de Chiapas, es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Anticorrupción y Buen Gobierno, con plena autonomía administrativa, técnica, de gestión y de ejecución, con facultades de decisión y promoción para el cumplimiento de las obligaciones de transparencia y el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
 
 El objeto fundamental de Transparencia para el Pueblo de Chiapas, es garantizar dentro de los Sujetos Obligados del Poder Ejecutivo del Estado y de los Municipios de la Entidad, el cumplimiento de las obligaciones de transparencia y el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y las bases establecidos en los artículos 6o, Aparatado A y 16, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos y el artículo 5, fracciones XV y XVI de la Constitución Política del Estado Libre y Soberano de Chiapas; así como por lo previsto en la Ley General; la presente Ley; la Ley General de Datos Personales en Posesión de Sujetos Obligados; la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Chiapas y demás disposiciones jurídicas aplicables.
 
