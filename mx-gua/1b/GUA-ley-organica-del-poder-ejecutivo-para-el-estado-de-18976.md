@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2024-09-17"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -197,31 +197,35 @@ La Administración Pública Centralizada del Poder Ejecutivo se constituye por:
 
 I. Secretaría de Gobierno;
 
-II. Secretaría de Finanzas;
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-III. Secretaría de Educación;
+II. Secretaría de las Mujeres;
 
-IV. Secretaría de Cultura;
+III. Secretaría de Finanzas;
 
-V. Secretaría del Nuevo Comienzo;
+IV. Secretaría de Educación;
 
-VI. Secretaría de Salud;
+V. Secretaría de Cultura;
 
-VII. Secretaría de Economía;
+VI. Secretaría del Nuevo Comienzo;
 
-VIII. Secretaría del Campo;
+VII. Secretaría de Salud;
 
-IX. Secretaría de Obra Pública;
+VIII. Secretaría de Economía;
 
-X. Secretaría de Seguridad y Paz;
+IX. Secretaría del Campo;
 
-XI. Secretaría de la Honestidad;
+X. Secretaría de Obra Pública;
 
-XII. Secretaría de Turismo e Identidad;
+XI. Secretaría de Seguridad y Paz;
 
-XIII. Secretaría del Agua y Medio Ambiente; y
+XII. Secretaría de la Honestidad;
 
-XIV. Secretaría de Derechos Humanos.
+XIII. Secretaría de Turismo e Identidad;
+
+XIV. Secretaría del Agua y Medio Ambiente; y
+
+XV. Secretaría de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
@@ -502,6 +506,52 @@ n) Realizar en coordinación con la Secretaría del Nuevo Comienzo, así como co
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 V.- Las demás que le señalen las leyes y reglamentos en la Entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Artículo 23 bis. La Secretaría de las Mujeres, es la dependencia encargada de diseñar, implementar, coordinar y evaluar las políticas públicas, programas y acciones encaminadas a impulsar el ejercicio pleno de los derechos humanos de las mujeres, su participación igualitaria en todos los ámbitos desde la perspectiva de género, la Igualdad sustantiva entre mujeres y hombres, así como prevenir, atender, y erradicar la violencia y la no discriminación en contra de las mujeres. A la Secretaría de las Mujeres le competen las siguientes atribuciones:
+
+I. Formular, coordinar, ejecutar, promover y dar seguimiento a la instrumentación de políticas públicas transversales, programas y acciones que fomenten la igualdad de género, la prevención, atención, sanción y erradicación de la violencia contra las mujeres; e incorporar la perspectiva de género en los planes de desarrollo de la Administración Pública Estatal;
+
+II. Diseñar e Impulsar políticas que aseguren la participación igualitaria de las mujeres en el desarrollo económico, político, social y cultural, así como en cualquier ámbito en el estado, a fin de eliminar los estereotipos y prácticas sociales que refuerzan la discriminación y violencia;
+
+III. Diseñar políticas públicas y acciones relacionadas con el desarrollo de las mujeres, de acuerdo con el Plan Estatal de Desarrollo y el Programa de Gobierno del Estado, así como establecer los mecanismos para su implementación y evaluación de resultados en coordinación con las instancias correspondientes;
+
+IV. Promover entre los poderes del Estado, los organismos con autonomía constitucional, los ayuntamientos y con las organizaciones de la sociedad civil, acciones dirigidas a mejorar la condición social de las mujeres y la erradicación de todas las formas de discriminación en los ámbitos de la vida social, económica, política y cultural;
+
+V. Proponer estrategias para la orientación del recurso público que contribuyan al mejoramiento de las condiciones económicas, políticas, culturales y sociales de las mujeres concentrando esfuerzos y recursos a los sectores de mayor rezago en el estado;
+
+VI. Fomentar una cultura que elimine los estereotipos e imágenes que atentan contra la dignidad de las mujeres, y propiciar y difundir masivamente una cultura de no violencia hacia las mujeres y de igualdad sustantiva entre mujeres y hombres;
+
+VII. Capacitar y asesorar a las dependencias y entidades de la administración pública estatal, autoridades municipales y sectores social y privado, sobre los derechos humanos de las mujeres, tipos y ámbitos de las violencias y prevención de la violencia feminicida, e implementar mecanismos para evaluar la Igualdad de género en las instituciones públicas;
+
+VIII. Promover y realizar acciones para el reconocimiento público y difusión de las actividades sobresalientes de las mujeres en el ámbito político, cultural, económico, deportivo, científico, académico y social;
+
+IX. Promover el acceso de las mujeres a la justicia con perspectiva de género y pleno respeto a sus derechos, así como de la cultura de la denuncia por actos que violenten los derechos humanos de las mujeres, para el efecto, se coordinará con las instituciones competentes;
+
+X. Proponer y celebrar convenios de colaboración con organizaciones gubernamentales y no gubernamentales nacionales e internacionales, así como con los tres órdenes de gobierno, en las materias relacionada con su objeto;
+
+XI. Convocar a través de los mecanismos establecidos a las diferentes organizaciones civiles y sociales, a los sectores académicos y educativos a fin de elaborar propuestas, programas, estrategias y acciones para mejorar la calidad de vida de las mujeres;
+
+XII. Impulsar el desarrollo de las mujeres a través de capacitaciones, dando particular importancia a la lucha contra la pobreza, analfabetismo, enfermedades y la violencia contra las mujeres;
+
+XIII. Coordinar esfuerzos con instituciones educativas, organismos gubernamentales y la sociedad civil para garantizar que las mujeres tengan acceso a programas y recursos que les permitan concluir la educación básica y media superior, y en su caso, superior;
+
+XIV. Operar, coordinar y supervisar los refugios, así como espacios seguros destinados a la protección y atención integral de mujeres en situación de violencia, que garanticen su seguridad;
+
+XV. Establecer modelos, protocolos y rutas de atención a las violencias contra las mujeres en los distintos ámbitos;
+
+XVI. Proporcionar el servicio gratuito psicológico, de orientación, y asesoría jurídica de mujeres receptoras de violencia de género;
+
+XVII. Generar acciones que promuevan los derechos sexuales y reproductivos de las mujeres, en coordinación con las instancias competentes;
+
+XVIII. Diseñar e implementar planes de formación, capacitación, especialización, profesionalización de las y los servidores públicos en materia de perspectiva de género, igualdad de género, derechos humanos de las mujeres, prevención de los tipos y ámbitos de las violencias en contra de las mujeres;
+
+XIX. Colaborar con la Fiscalía General del Estado, la Secretaría de Seguridad y Paz y los Ayuntamientos para implementar medidas de prevención, protección y atención de cualquier forma de violencia y discriminación contra las mujeres;
+
+XX. Mantener un contacto permanente con las autoridades de los centros de reinserción social y realizar visitas periódicas para garantizar el respeto irrestricto de los derechos humanos de las mujeres internas. Asimismo, llevar a cabo actividades de atención y acompañamiento que faciliten su reinserción a la sociedad, promoviendo su acceso a programas de capacitación, educación y salud; y
+
+XXI. Las demás que le señalen las leyes y reglamentos en la Entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2878,3 +2928,33 @@ Artículo Noveno. El personal de la Jefatura de Gabinete del Poder Ejecutivo del
 A partir de la entrada en vigor del presente Decreto, la Jefatura de Gabinete del Poder Ejecutivo no deberá adquirir nuevos derechos u obligaciones, correspondiéndole llevar a cabo todos los actos respectivos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Décimo. El Congreso del Estado Libre y Soberano de Guanajuato deberá, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones a las leyes para armonizar el marco jurídico estatal con las reformas establecidas en el presente Decreto que reforma la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
