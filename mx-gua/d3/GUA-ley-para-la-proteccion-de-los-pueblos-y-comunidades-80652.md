@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-pueblos-y-comunidades-80652"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2018-10-10"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de abril de 2011.
 
@@ -123,7 +121,9 @@ XII. Pueblo indígena: es aquél que desciende de poblaciones que habitaban en e
 
 XIII. Representante indígena: es la persona perteneciente a uno de los pueblos o comunidades indígenas establecidos en la entidad, a la que le es conferido un cargo o representación en su comunidad o por su pueblo, de acuerdo a sus usos, costumbres y tradiciones ancestrales;
 
-XIV. Secretaría: la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XIV. Secretaría: la Secretaría del Nuevo Comienzo;
 
 XV. SIDESIG: el Sistema para el Desarrollo Integral y Sustentable de los Pueblos y Comunidades Indígenas de Guanajuato;
 
@@ -183,7 +183,9 @@ III. Resguardar las actividades tradicionales y los sitios sagrados del pueblo o
 
 IV. Desempeñar las funciones que les asigne la autoridad indígena.
 
-A solicitud de la autoridad indígena, la Secretaría de Seguridad Pública del Estado, realizará programas de capacitación a quienes integren los sistemas de seguridad comunitaria indígena.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+A solicitud de la autoridad indígena, la Secretaría de Seguridad y Paz, realizará programas de capacitación a quienes integren los sistemas de seguridad comunitaria indígena.
 
 Quienes integren los sistemas de seguridad comunitaria indígena, se conducirán con pleno respeto a la dignidad de las personas.
 
@@ -459,9 +461,11 @@ El Estado implementará programas de difusión dirigidos a las poblaciones indí
 
 Capacitación a las autoridades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 47.
 
-El Poder Judicial del Estado, la Procuraduría General de Justicia del Estado, la Defensoría Pública en materia penal y la Representación Gratuita en materia civil, capacitarán a sus servidores públicos cuyas funciones sean desempeñadas en territorios de municipios del Estado con presencia indígena, sobre la lengua, usos, costumbres y tradiciones.
+El Poder Judicial del Estado, la Fiscalía General del Estado, la Defensoría Pública en materia penal y la Representación Gratuita en materia civil, capacitarán a sus servidores públicos cuyas funciones sean desempeñadas en territorios de municipios del Estado con presencia indígena, sobre la lengua, usos, costumbres y tradiciones.
 
 Las agencias del Ministerio Público cuyo ámbito de competencia incida en los territorios y municipios con presencia indígena, deberán contar preferentemente con al menos un servidor público que domine la lengua indígena de la región de que se trate y conozca sus usos y costumbres.
 
@@ -579,35 +583,53 @@ Integración del Comité
 
 El Comité estatal de los Pueblos y las comunidades indígenas, estará integrado por:
 
-I. El titular de la Secretaría de Desarrollo Social y Humano, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. El titular de la Secretaría de Gobierno;
+I. La persona titular de la Secretaría del Nuevo Comienzo, quien asumirá la presidencia;
 
-III. El titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. El titular de la Secretaría de Salud;
+II. La persona titular de la Secretaría de Gobierno;
 
-V. El titular de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+III. La persona titular de la Secretaría de Seguridad y Paz;
 
-VI. El titular de la Secretaría de Desarrollo Agroalimentario y Rural;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VII. El titular de la Procuraduría General de Justicia del Estado;
+IV. La persona titular de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VIII. La titular del Instituto para las Mujeres Guanajuatenses;
+V. La persona titular de la Secretaría de Educación;
 
-IX. El titular del Instituto de la Juventud Guanajuatense;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+VI. La persona titular de la Secretaría del Campo;
 
-X. El titular de la Secretaría de Medio Ambiente y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-XI. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+VII. La persona titular de la Fiscalía General del Estado;
 
-XII. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VIII. La persona titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX. La persona titular del Instituto de las Juventudes;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+X. La persona titular de la Secretaría del Agua y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. La persona titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XII. La persona titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
 XIII. Tres representantes de organizaciones no gubernamentales que atiendan el tema de la protección de los derechos de los indígenas;
 
@@ -762,3 +784,33 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
