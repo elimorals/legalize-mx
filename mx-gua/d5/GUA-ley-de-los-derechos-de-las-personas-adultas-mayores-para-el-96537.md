@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-965
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-08"
-last_updated: "2021-07-08"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de noviembre de 2013.
 
@@ -77,9 +77,11 @@ III. Los ciudadanos y la sociedad civil organizada.
 
 Previsión presupuestal y administrativa
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 4.
 
-El titular del Poder Ejecutivo y los ayuntamientos deberán incluir, en su proyecto de presupuesto de egresos, los recursos suficientes para la atención adecuada de las personas adultas mayores, y tomar las medidas administrativas para garantizar el cumplimiento de esta Ley.
+La persona Titular del Poder Ejecutivo y los ayuntamientos deberán incluir, en su proyecto de presupuesto de egresos, los recursos suficientes para la atención adecuada de las personas adultas mayores, y tomar las medidas administrativas para garantizar el cumplimiento de esta Ley.
 
 Glosario
 
@@ -285,7 +287,9 @@ Son autoridades para la aplicación de esta Ley, en el ámbito de sus respectiva
 
 I. En el ámbito estatal:
 
-a) El titular del Poder Ejecutivo;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+a) La persona Titular del Poder Ejecutivo;
 
 b) El Consejo Estatal; y
 
@@ -301,9 +305,11 @@ b) Las dependencias y entidades de la administración pública municipal.
 
 Atribuciones del titular del Poder Ejecutivo del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 10.
 
-El titular del Poder Ejecutivo del Estado tendrá las siguientes atribuciones:
+La persona Titular del Poder Ejecutivo del Estado tendrá las siguientes atribuciones:
 
 I. Celebrar convenios de colaboración en esta materia en representación del Estado, con la Federación, otras entidades federativas y los municipios de la entidad;
 
@@ -371,27 +377,29 @@ VIII. Impulsar, en coordinación con la Secretaria de Salud, que las institucion
 
 IX. Gestionar la capacitación para el trabajo, así como el adiestramiento de las personas adultas mayores, de acuerdo a sus condiciones físicas y mentales; y
 
-X. Las demás que le otorgue la presente Ley u otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+X. Fomentar en las instituciones educativas del tipo superior la incorporación en la currícula, de temas especializados en atención a la población adulta mayor;
 
-Atribuciones de la Secretaría de Innovación, Ciencia y Educación Superior
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. Impulsar, en coordinación con la Secretaría de Salud, que las instituciones educativas del tipo superior y de seguridad social establezcan disciplinas y programas para la formación de especialistas en los servicios de salud requeridos por las personas adultas mayores; y
+
+XII. Las demás que le otorguen la presente Ley u otras disposiciones legales.
 
 ###### Artículo 12 Bis.
 
-La Secretaría de Innovación, Ciencia y Educación Superior tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 25 DE JUNIO DE 2025)
 
-I. Fomentar en las instituciones educativas del tipo superior la incorporación en la currícula, de temas especializados en atención a la población adulta mayor;
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. Impulsar, en coordinación con la Secretaría de Salud, que las instituciones educativasdel (sic) tipo superior y de seguridad social establezcan disciplinas y programas para la formación de especialistas en los servicios de salud requeridos por las personas adultas mayores; y
+Atribuciones de la Secretaría del Nuevo Comienzo
 
-III. Las demás que le otorguen la presente Ley u otras disposiciones legales.
-
-Atribuciones de la Secretaria de Desarrollo Social y Humano
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 13.
 
-La Secretaria de Desarrollo Social y Humano tendrá las siguientes atribuciones:
+La Secretaría del Nuevo Comienzo tendrá las siguientes atribuciones:
 
 I. Orientar la participación de los sectores social y privado en la promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores;
 
@@ -447,11 +455,15 @@ XVI. Fomentar que las instituciones educativas y de seguridad social, establezca
 
 XVII. Las demás que le otorgue la presente Ley u otras disposiciones legales.
 
-Atribuciones de la Secretaria de Desarrollo Económico Sustentable
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la Secretaría de Economía
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 15.
 
-La Secretaría de Desarrollo Económico Sustentable tendrá las siguientes atribuciones:
+La Secretaría de Economía tendrá las siguientes atribuciones:
 
 I. Implementar los programas necesarios a efecto de promover empleos y trabajo remunerado para las personas adultas mayores, así como actividades lucrativas o voluntarias, conforme a su oficio, habilidad, profesión, experiencia y conocimientos teóricos y prácticos, tanto en el sector público como privado;
 
@@ -549,15 +561,15 @@ V. Brindar asesoría e información a las personas adultas mayores, asociaciones
 
 VI. Las demás que le otorgue la presente Ley u otras disposiciones legales.
 
-> <small>(REFORMADO ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Atribuciones del Instituto para las Mujeres Guanajuatenses
+Atribuciones de la Secretaría de las Mujeres
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 18.
 
-El Instituto para las Mujeres Guanajuatenses tendrá las siguientes atribuciones:
+La Secretaría de las Mujeres tendrá las siguientes atribuciones:
 
 I. Promover, coordinar, operar y evaluar políticas y programas de apoyo para las mujeres adultas mayores y su bienestar social;
 
@@ -645,29 +657,45 @@ Integración del Consejo Estatal
 
 El Consejo Estatal estará integrado por:
 
-I. El titular del Poder Ejecutivo, quien lo presidirá;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. El titular de la Secretaría de Gobierno;
+I. La persona titular del Poder Ejecutivo, quien lo presidirá;
 
-III. El titular de la Secretaría de Educación de Guanajuato;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. El titular de la Secretaría de Desarrollo Social y Humano, quien lo presidirá en ausencia del titular del Poder Ejecutivo;
+II. La persona titular de la Secretaría de Gobierno;
 
-V. El titular de la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VI. El titular de la Secretaría de Desarrollo Económico Sustentable;
+III. La persona titular de la Secretaría de Educación de Guanajuato;
 
-VII. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, quien fungirá como secretario técnico;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+IV. La persona titular de la Secretaría del Nuevo Comienzo, quien lo presidirá en ausencia de la persona titular del Poder Ejecutivo;
 
-VIII. El Director General de la Comisión de Deporte del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+V. La persona titular de la Secretaría de Salud;
 
-IX. El Director General del Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-X. El Procurador de los Derechos Humanos del Estado de Guanajuato; y
+VI. La persona titular de la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VII. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, quien asumirá la secretaria técnica;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VIII. La persona titular de la Dirección General de la Comisión de Deporte del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX. La persona titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+X. La persona titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato; y
 
 XI. Cuatro representantes de organizaciones no gubernamentales especializadas en la protección de los derechos de las personas adultas mayores.
 
@@ -1250,3 +1278,33 @@ P.O. 8 DE JULIO DE 2021.
 Inicio de vigencia
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
