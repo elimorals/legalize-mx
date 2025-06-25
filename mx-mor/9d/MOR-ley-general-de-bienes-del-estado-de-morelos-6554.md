@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-bienes-del-estado-de-morelos-6554"
 country: "mx"
 rank: "ley_general"
 publication_date: "1989-07-05"
-last_updated: "2017-03-01"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE BIENES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 1989.
 
@@ -355,9 +355,13 @@ III.- DESAPARICION DE SU FINALIDAD O DEL BIEN OBJETO DE LA CONCESION;
 
 IV.- NULIDAD, REVOCACION Y CADUCIDAD;
 
-V.- DECLARATORIA DE RESCATE; Y
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VI.- CUALQUIERA OTRA PREVISTA EN LAS LEYES, REGLAMENTOS, DISPOSICIONES ADMINISTRATIVAS, O EN LA CONCESION MISMA, QUE A JUICIO DEL EJECUTIVO HAGA IMPOSIBLE SU EJECUCION.
+V.- QUIEBRA DEL CONCESIONARIO;
+
+VI.- DECLARATORIA DE RESCATE; Y
+
+VII.- CUALQUIERA OTRA PREVISTA EN LAS LEYES, REGLAMENTOS, DISPOSICIONES ADMINISTRATIVAS, O EN LA CONCESIÓN MISMA, QUE A JUICIO DEL EJECUTIVO HAGA IMPOSIBLE SU EJECUCIÓN.
 
 ###### ARTICULO 21.
 
@@ -1138,3 +1142,11 @@ Segunda.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Tercera.- Todas las menciones al salario mínimo como unidad de cuenta, índice base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en esta Ley, se entenderán referidas a la Unidad de Medida y Actualización.
 
 Cuarta.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS SIETE.- POR EL QUE SE REFORMA EL ARTÍCULO 20 DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para que, en términos de lo dispuesto por los artículos 44; 47, y 70, fracciones XVI y XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
