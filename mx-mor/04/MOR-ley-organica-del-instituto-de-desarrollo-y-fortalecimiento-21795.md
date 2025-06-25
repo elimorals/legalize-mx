@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-2179
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-07-20"
-last_updated: "2016-03-16"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 20 de julio de 2001.
 
@@ -145,11 +145,15 @@ II. Un Director General; y
 
 III. La estructura orgánica que requiera para su funcionamiento.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 8.
 
-La Junta de Gobierno es el máximo órgano del Instituto y se integrará por los Presidentes Municipales de la Entidad o bien, por el miembro del Ayuntamiento que cada uno de ellos designe para representarlo.
+La Junta de Gobierno es el máximo órgano del Instituto y se integrará por las personas titulares de las Presidencias Municipales de la Entidad o bien, por la persona integrante del Ayuntamiento que cada una de ellas designe para representar el Municipio.
 
-El cargo de integrante de la Junta de Gobierno tendrá el carácter de honorífico.
+Así como la persona legisladora que presida la Comisión de Fortalecimiento Municipal, Desarrollo Regional, Pueblos y Comunidades Indígenas y Afromexicanas del Congreso del Estado, quien contara con derecho a voz, pero sin voto.
+
+El cargo de persona integrante de la Junta de Gobierno tendrá el carácter de honorifico. El cargo de persona integrante de la Junta de Gobierno tendrá el carácter de honorifico.
 
 ### CAPÍTULO II. DE LA JUNTA DE GOBIERNO
 
@@ -488,3 +492,13 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO TRESCIENTOS DOS POR EL QUE SE REFORMA EL ARTÍCULO 8 A LA LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
