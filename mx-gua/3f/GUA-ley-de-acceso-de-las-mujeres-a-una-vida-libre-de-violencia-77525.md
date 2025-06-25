@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2025-03-14"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -79,9 +79,7 @@ VI. Empoderamiento de las Mujeres: El proceso por medio del cual las mujeres tra
 
 VII. Enfoque diferencial. Aquel que tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por su género, edad, etnia, discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto sean pertenecientes a grupos sociales o culturales específicos. Lo anterior con la finalidad de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-VIII. IMUG: el Instituto para las Mujeres Guanajuatenses;
+VIII. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
 
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2023)</small>
 
@@ -105,15 +103,19 @@ XIV. Programa Estatal: el Programa Estatal para Prevenir, Atender, Sancionar y E
 
 XV. Refugio: los albergues o establecimientos constituidos para la atención y protección de las víctimas y sus hijos menores e incapaces;
 
-XVI. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2025)</small>
 
-XVII. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XVI. Secretaría: La Secretaría de las Mujeres;
 
-XVIII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
+XVII. Sistema Estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XVIII. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+XIX. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+XX. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 Principios rectores
 
@@ -161,9 +163,11 @@ X. El enfoque diferencial.
 
 Planeación presupuestal y administrativa
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 4.
 
-El titular del Poder Ejecutivo del Estado y los ayuntamientos deberán tomar las medidas presupuestales y administrativas correspondientes, para garantizar el cumplimiento de esta Ley, de las obligaciones que impone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia al Estado y, de los objetivos correspondientes del Sistema Estatal y del Programa Estatal.
+La persona titular del Poder Ejecutivo del Estado y los ayuntamientos deberán tomar las medidas presupuestales y administrativas correspondientes, para garantizar el cumplimiento de esta Ley, de las obligaciones que impone la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia al Estado y, de los objetivos correspondientes del Sistema Estatal y del Programa Estatal.
 
 ### Capítulo II. Tipos y ámbitos de violencia
 
@@ -387,17 +391,17 @@ El Consejo Estatal tendrá a su cargo la coordinación de las acciones del Siste
 
 I. Una ciudadana designada por el Gobernador del Estado, quien presidirá el Consejo;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. La Secretaría de Desarrollo Social y Humano;
+II. La Secretaría del Nuevo Comienzo;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 III. La Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. La Secretaría de Seguridad Pública;
+IV. La Secretaría de Seguridad y Paz;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
@@ -407,21 +411,21 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VII. La Secretaría de la Transparencia y Rendición de Cuentas;
+VII. La Secretaría de la Honestidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VIII. La Secretaría de Desarrollo Económico Sustentable;
+VIII. La Secretaría de Economía;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 IX. La Fiscalía General del Estado de Guanajuato;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-X. El Instituto para las Mujeres Guanajuatenses, quien ocupará la Secretaría Ejecutiva del Consejo;
+X. La Secretaría, quien ocupará la Secretaría Ejecutiva del Consejo;
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
@@ -463,17 +467,21 @@ XIX. Cuatro representantes de los municipios, por lo menos; y
 
 XX. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-Cuando acuda el Gobernador o Gobernadora del Estado, ésta asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambos conservarán el derecho a voz y voto.
+La Secretaría Ejecutiva del Consejo será designada por el Consejo a partir de la propuesta que formule la Secretaría.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Cuando acuda la persona titular del Poder Ejecutivo, ésta asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambas conservarán el derecho a voz y voto.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 Las personas integrantes a que se refieren las fracciones I, XIX y XX de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-Por cada integrante del Consejo Estatal habrá una suplencia quien cubrirá sus ausencias.
+Por cada persona integrante del Consejo Estatal habrá una suplencia quien cubrirá sus ausencias.
 
 Facultades del Consejo Estatal
 
@@ -481,7 +489,9 @@ Facultades del Consejo Estatal
 
 El Consejo Estatal tendrá las siguientes facultades:
 
-I. Proponer al titular del Poder Ejecutivo del Estado el Programa Estatal, para su aprobación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. Proponer a la persona titular del Poder Ejecutivo del Estado el Programa Estatal, para su aprobación;
 
 II. Ejecutar, promocionar, dar seguimiento y evaluar el desarrollo del Programa Estatal y, en su caso, formular observaciones a las dependencias, entidades e instituciones encargadas de aplicar esta Ley;
 
@@ -489,11 +499,15 @@ III. Aprobar y llevar un registro de los modelos para la prevención, atención,
 
 IV. Vigilar que todas las dependencias y entidades de la administración pública implementen en sus planes y programas, la cultura de respeto a los derechos humanos de las mujeres;
 
-V. Rendir anualmente al titular del Poder Ejecutivo del Estado, un informe de actividades del Programa Estatal;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+V. Rendir anualmente a la persona titular del Poder Ejecutivo del Estado, un informe de actividades del Programa Estatal;
 
 VI. Estudiar e investigar las causas y consecuencias que generan la violencia en los ámbitos familiar, laboral, docente, institucional y comunitario para su prevención, atención, sanción y erradicación;
 
-VII. Proponer al titular del Poder Ejecutivo del Estado, anteproyectos de iniciativas que contengan las adecuaciones al marco jurídico estatal para prevenir y atender la violencia, así como las adecuaciones pertinentes a los planes y programas en materia de violencia contra las mujeres y a sus reglamentos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VII. Proponer a la persona titular del Poder Ejecutivo del Estado, anteproyectos de iniciativas que contengan las adecuaciones al marco jurídico estatal para prevenir y atender la violencia, así como las adecuaciones pertinentes a los planes y programas en materia de violencia contra las mujeres y a sus reglamentos;
 
 VIII. Aprobar su programa operativo anual para el cumplimiento de los objetivos establecidos en el Programa Estatal;
 
@@ -693,17 +707,19 @@ II. Vigilar que la Representación Gratuita en Materia Civil se ejerza con respe
 
 III. Las demás previstas para el cumplimiento de esta Ley.
 
-#### Sección Cuarta. Facultades del titular de la Secretaría de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO SU EPÍGRAFE, P.O. 14 DE MARZO DE 2025)</small>
+#### Sección Cuarta. Facultades de la persona titular de la Secretaría de Seguridad y Paz
 
-Facultades del titular de la Secretaría de Seguridad y Paz
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2025)</small>
+Facultades de la persona titular de la Secretaría de Seguridad y Paz
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 19.
 
-El titular de la Secretaría de Seguridad y Paz ejercerá las siguientes facultades:
+La persona titular de la Secretaría de Seguridad y Paz ejercerá las siguientes facultades:
 
 I. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
 
@@ -775,11 +791,13 @@ XI. Las demás previstas para el cumplimiento de esta Ley.
 
 Facultades del Secretario de Salud
 
-#### Sección Octava. Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
+#### Sección Octava. Facultades de la persona titular de la Secretaría de la Honestidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
+Facultades de la persona titular de la Secretaría de la Honestidad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 21.
 
@@ -805,9 +823,9 @@ IX. Brindar atención de emergencia y, canalizar en su caso a las víctimas, a l
 
 X. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Novena. Facultades del titular de la Fiscalía General del Estado
+#### Sección Novena. Facultades de la persona titular de la Fiscalía General del Estado
 
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
@@ -817,7 +835,7 @@ Facultades de la Fiscalía General del Estado
 
 ###### Artículo 22.
 
-El titular de la Secretaría de la Transparencia y Rendición de Cuentas ejercerá las siguientes facultades:
+La persona titular de la Secretaría de la Honestidad ejercerá las siguientes facultades:
 
 I. Fomentar la cultura de la denuncia respecto de los actos de violencia en el ámbito institucional;
 
@@ -827,11 +845,15 @@ III. Fomentar la conducta ética del servidor público en atención al respeto d
 
 IV. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Décima. Facultades del titular del Instituto para las Mujeres Guanajuatenses
+#### Sección Décima. Facultades de la persona titular de la Secretaría
 
-Facultades del titular del IMUG
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona titular de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 23.
 
@@ -869,7 +891,7 @@ X. Desarrollar campañas de difusión y promoción sobre los derechos que tienen
 
 XI. Las demás previstas para el cumplimiento de esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
 #### Sección Undécima. Facultades del titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
 
@@ -881,7 +903,7 @@ Facultades del titular del Instituto para el Desarrollo y Atención a las Juvent
 
 ###### Artículo 24.
 
-El titular del IMUG ejercerá las siguientes facultades:
+La persona titular de la Secretaría ejercerá las siguientes facultades:
 
 I. Proponer a las autoridades encargadas de la aplicación de la Ley, los programas, las medidas y las acciones, con la finalidad de prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
@@ -1243,7 +1265,9 @@ Las órdenes de protección administrativas, además del Ministerio Público, po
 
 I. Secretaría de Gobierno;
 
-II. Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. La Secretaría;
 
 III. Instituciones de seguridad pública municipales; e
 
@@ -1878,3 +1902,33 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Plazo para adecuaciones normativas
 
 Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado adecuará las disposiciones normativas en un plazo que no exceda de sesenta días.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
