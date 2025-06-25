@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-9305
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2024-04-23"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de marzo de 2013.
 
@@ -107,15 +105,17 @@ VI. Igualdad: estado ideal de la sociedad que implica la eliminación de toda fo
 
 VII. Igualdad sustantiva: la igualdad entre mujeres y hombres que se concreta a través de acciones, medidas y políticas efectivas diseñadas para eliminar la desventaja e injusticia que impiden el ejercicio de los derechos, con la finalidad de proteger el principio de autonomía personal, basada en el análisis de las diferencias entre las mujeres y los hombres, en cuanto a su reconocimiento como pares desde el paradigma de la equivalencia humana;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+VIII. Instancia Municipal de la Mujer: unidad administrativa que tiene la responsabilidad de articular las acciones del gobierno municipal en favor de las mujeres, así como promover y proponer políticas públicas desde la perspectiva de género para mejorar la condición y situación de las mujeres;
 
-VIII. IMUG: El Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IX. Instancia Municipal de la Mujer: unidad administrativa que tiene la responsabilidad de articular las acciones del gobierno municipal en favor de las mujeres, así como promover y proponer políticas públicas desde la perspectiva de género para mejorar la condición y situación de las mujeres;
+IX. Perspectiva de género: metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres y los hombres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la igualdad de género;
 
-X. Perspectiva de género: metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres y los hombres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
+X. Programa para la Igualdad: el Programa Estatal para la Igualdad entre Mujeres y Hombres del estado de Guanajuato;
 
-XI. Programa para la Igualdad: el Programa Estatal para la Igualdad entre Mujeres y Hombres del estado de Guanajuato;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. Secretaría: La Secretaría de las Mujeres;
 
 XII. Sistema para la Igualdad: el Sistema Estatal para la Igualdad entre Mujeres y Hombres del estado de Guanajuato; y
 
@@ -151,9 +151,11 @@ Para la planeación, ejecución, seguimiento y evaluación del presupuesto de lo
 
 Revisión anual de los resultados de los presupuestos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 10.
 
-La Secretaría de la Transparencia y Rendición de Cuentas será la encargada de revisar anualmente los resultados de los presupuestos en relación con los programas de las dependencias y entidades de la administración pública estatal en materia de perspectiva de género en su ámbito de competencia. Para dicha revisión se utilizarán los siguientes lineamientos enunciativos y no limitativos:
+La Secretaría de la Honestidad será la encargada de revisar anualmente los resultados de los presupuestos en relación con los programas de las dependencias y entidades de la administración pública estatal en materia de perspectiva de género en su ámbito de competencia. Para dicha revisión se utilizarán los siguientes lineamientos enunciativos y no limitativos:
 
 I. Identificar de forma clara los beneficios específicos para mujeres y hombres;
 
@@ -625,11 +627,17 @@ Conformación del Sistema para la Igualdad
 
 El Sistema para la Igualdad contará con un órgano directivo integrado por:
 
-I. La Secretaría de Desarrollo Social y Humano, quien lo presidirá;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. El IMUG, quien fungirá como Secretaría Ejecutiva;
+I. La Secretaría de las Mujeres, quien lo presidirá;
 
-III. La Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. La Secretaría del Nuevo Comienzo;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+III. La Secretaría de Finanzas;
 
 IV. La Secretaría de Gobierno;
 
@@ -637,7 +645,9 @@ V. La Secretaría de Educación;
 
 VI. La Secretaría de Salud;
 
-VII. La Secretaría de la Transparencia y Rendición de Cuentas;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VII. La Secretaría de la Honestidad;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DEL 2020)</small>
 
@@ -669,11 +679,17 @@ XV. Ocho representantes de la sociedad civil con experiencia en la materia regul
 
 XVI. Los 46 municipios del Estado.
 
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+La Secretaría Ejecutiva será designada por el órgano directivo la (sic) Sistema para la Igualdad, de la propuesta que formule la Secretaría de las Mujeres.
+
 Coordinación de acciones del Sistema para la Igualdad
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 37.
 
-El IMUG coordinará las acciones del Sistema para la Igualdad, la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, así como las medidas para vincularlo con otros sistemas de carácter nacional y las demás que sean necesarias para cumplir con los objetivos de la Ley.
+La Secretaría de las Mujeres coordinará las acciones del Sistema para la Igualdad, la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad, así como las medidas para vincularlo con otros sistemas de carácter nacional y las demás que sean necesarias para cumplir con los objetivos de la Ley.
 
 Objetivos del Sistema para la Igualdad
 
@@ -962,3 +978,33 @@ P.O. 8 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 76 EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 41 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
