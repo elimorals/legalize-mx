@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2024-06-28"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO EL 28 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -369,17 +367,25 @@ I. En el ámbito estatal:
 
 a) El Poder Ejecutivo del Estado:
 
-1. El Gobernador del Estado;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-2. La Secretaría de Educación;
+1. La persona Titular del Poder Ejecutivo;
 
-3. La Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-4. La Secretaría de Salud;
+2. La persona Titular de la Secretaría de Educación;
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-4-1. La Secretaría del Migrante y Enlace Internacional;
+3. La persona Titular de la Secretaría del Nuevo Comienzo;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+4. La persona Titular de la Secretaría de Salud;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+4-1. La persona Titular de la Secretaría de Derechos Humanos;
 
 5. El Sistema; y
 
@@ -401,11 +407,15 @@ c) Las Procuradurías Auxiliares.
 
 III. Los organismos autónomos.
 
-Atribuciones del Gobernador
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la persona Titular del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 18.
 
-El Gobernador del Estado tendrá las siguientes atribuciones:
+La persona Titular del Poder Ejecutivo tendrá las siguientes atribuciones:
 
 I. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno los objetivos, metas, estrategias y acciones que garanticen dar protección a niñas, niños y adolescentes en el Estado;
 
@@ -455,11 +465,15 @@ VII. Establecer acciones afirmativas para garantizar el derecho a la educación 
 
 VIII. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
 
-Atribuciones de la Secretaría de Desarrollo Social y Humano
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la Secretaría del Nuevo Comienzo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 20.
 
-La Secretaría de Desarrollo Social y Humano tendrá las siguientes atribuciones:
+La Secretaría del Nuevo Comienzo tendrá las siguientes atribuciones:
 
 I. Coordinar la implementación y ejecución de la (sic) políticas públicas que deriven de esta Ley;
 
@@ -505,13 +519,15 @@ VI. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
 
 El Sistema Estatal de Salud, en conjunto con el Sistema Nacional de Salud, en el marco de sus competencias, deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Atribuciones de la Secretaría del Migrante y Enlace Internacional
+Atribuciones de la Secretaría de Derechos Humanos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 21
 
-1. La Secretaría del Migrante y Enlace Internacional tendrá las siguientes atribuciones:
+1. La Secretaría de Derechos Humanos tendrá las siguientes atribuciones:
 
 I. Promover y difundir los derechos humanos y las medidas de protección para niñas, niños y adolescentes migrantes, que garanticen el pleno ejercicio de sus derechos;
 
@@ -773,39 +789,55 @@ Integración del Consejo Directivo de la Procuraduría de Protección
 
 4. El Consejo Directivo de la Procuraduría de Protección estará integrado por:
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-I. El titular de la Secretaría de Gobierno, quien asumirá la presidencia;
+I. La persona titular de la Secretaría de Gobierno, quien asumirá la presidencia;
 
-II. El titular de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-III. El titular de la Secretaría de Salud;
+II. La persona titular de la Secretaría de Educación;
 
-IV. El titular de la Secretaría del Migrante y Enlace Internacional;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-V. El titular del Instituto Guanajuatense para las Personas con Discapacidad;
+III. La persona titular de la Secretaría de Salud;
 
-VI. El titular del Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VII. El titular del Instituto Estatal de Capacitación;
+IV. La persona titular de la Secretaría de Derechos Humanos;
 
-VIII. El titular de la Secretaría Ejecutiva del Sistema Estatal de Protección; y
+V. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
 
-IX. El titular del Sistema.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+VI. La persona titular de la Secretaría de las Mujeres;
 
-X. El titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+VII. La persona titular del Instituto Estatal de Capacitación;
 
-XI. El titular de la Secretaría de Desarrollo Social y Humano; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+VIII. La persona titular de la Secretaría Ejecutiva del Sistema Estatal de Protección;
 
-XII. El titular de la Procuraduría de Protección.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-Los titulares de la Fiscalía General del Estado de Guanajuato, de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, y de la Secretaría de la Transparencia y Rendición de Cuentas serán invitados permanentes a las sesiones del Consejo Directivo.
+IX. La persona titular del Sistema;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+X. La persona titular de la Secretaría de Seguridad y Paz;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. La persona titular de la Secretaría del Nuevo Comienzo; y
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XII. La persona titular de la Procuraduría de Protección.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Las personas titulares de la Fiscalía General del Estado de Guanajuato, de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, y de la Secretaría de la Honestidad serán invitados permanentes a las sesiones del Consejo Directivo
 
 Asimismo, a propuesta de su Presidente, podrá invitarse a las sesiones del Consejo Directivo a las personas cuyos conocimientos o experiencia profesional se considere valiosa, cuando se discuta un asunto o tema en particular.
 
@@ -2109,43 +2141,63 @@ Integrantes del Sistema Estatal de Protección
 
 El Sistema Estatal de Protección, estará integrado por:
 
-I. El Gobernador del Estado, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. El Titular de la Secretaría de Gobierno;
+I. La persona Titular del Poder Ejecutivo, quien asumirá la presidencia;
 
-III. El Titular de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. El Titular de la Secretaría de Desarrollo Social y Humano;
+II. La persona Titular de la Secretaría de Gobierno;
 
-V. El Titular de la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VI. El Titular de la Secretaría de Seguridad Pública;
+III. La persona Titular de la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VII. El Fiscal General del Estado de Guanajuato;
+IV. La persona Titular de la Secretaría del Nuevo Comienzo;
 
-VIII. El titular del Instituto Guanajuatense para las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2020)</small>
+V. La persona Titular de la Secretaría de Salud;
 
-IX. El Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+VI. La persona Titular de la Secretaría de Seguridad y Paz;
 
-X. El Titular de la Secretaría del Migrante y Enlace Internacional;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-XI. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+VII. La persona Titular de la Fiscalía General del Estado;
 
-XII. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
+VIII. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-XII-1. La titular del Instituto para las Mujeres Guanajuatenses; y
+IX. La persona Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato;
 
-XIII. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-XIV. Tres representantes de la sociedad civil, designados por el Gobernador en los términos de la convocatoria que para tal efecto se emita, y de conformidad con el Reglamento de esta Ley.
+X. La persona Titular de la Secretaría de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XI. La persona Titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XII. La persona Titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XII-1. La persona Titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XIII. La persona Titular de la Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia; y
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+XIV. Tres personas representantes de la sociedad civil, designados por la persona titular del Poder Ejecutivo en los términos de la convocatoria que para tal efecto se emita, y de conformidad con el Reglamento de esta Ley.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -2680,3 +2732,33 @@ Artículo Tercero. La Secretaría del Migrante y Enlace Internacional y la Procu
 Derogaciones
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
