@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2024-04-23"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -107,9 +105,11 @@ XIII. Violencia: Es todo acto u omisión con la intención de agredir a otra per
 
 Previsión de recursos en el Presupuesto de Egresos
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 4.
 
-El titular del Poder Ejecutivo del Estado y los Ayuntamientos deberán incluir en su presupuesto de egresos de cada ejercicio los recursos necesarios para el cumplimiento de esta Ley.
+La persona titular del Poder Ejecutivo del Estado y los Ayuntamientos deberán incluir en su presupuesto de egresos de cada ejercicio los recursos necesarios para el cumplimiento de esta Ley.
 
 ### Capítulo II. Principios Rectores
 
@@ -339,13 +339,19 @@ Integración del Consejo Estatal
 
 El Sistema Estatal contará con un órgano de dirección denominado Consejo Estatal, encargado de coordinar las acciones del Sistema Estatal y estará integrado por los siguientes titulares:
 
-I. Del Poder Ejecutivo del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. De la persona titular del Poder Ejecutivo del Estado, quien lo presidirá;
 
 II. De la Secretaría de Gobierno;
 
-III. De la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. De la Secretaría de Seguridad Pública;
+III. De la Secretaría del Nuevo Comienzo;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IV. De la Secretaría de Seguridad y Paz;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -357,13 +363,13 @@ VII. De la Secretaría de Salud;
 
 VII bis. (DEROGADA, P.O. 22 DE JULIO DE 2020)
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VIII. De la Secretaría de la Transparencia y Rendición de Cuentas;
+VIII. De la Secretaría de la Honestidad;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IX. Del Instituto para las Mujeres Guanajuatenses;
+IX. De la Secretaría de las Mujeres;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2020)</small>
 
@@ -399,7 +405,9 @@ Facultades del Consejo Estatal
 
 El Consejo Estatal tendrá las siguientes facultades:
 
-I. Proponer, al Titular del Poder Ejecutivo del Estado, el Programa Estatal para su aprobación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. Proponer, a la persona Titular del Poder Ejecutivo del Estado, el Programa Estatal para su aprobación;
 
 II. Ejecutar, promocionar, dar seguimiento y evaluar el desarrollo del Programa Estatal y, en su caso, formular observaciones a las dependencias, entidades e instituciones encargadas de aplicar esta Ley;
 
@@ -411,13 +419,17 @@ V. Llevar un registro de los modelos que se implementen por las instituciones en
 
 VI. Vigilar que todas la dependencias y entidades de la administración pública implementen en sus planes y programas la cultura de paz;
 
-VII. Rendir anualmente al Titular del Poder Ejecutivo del Estado, un informe de actividades del Programa Estatal;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VII. Rendir anualmente a la persona Titular del Poder Ejecutivo del Estado, un informe de actividades del Programa Estatal;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
 
 VIII. Estudiar e investigar las causas y consecuencias que generan la violencia en los ámbitos familiar, laboral, educativo y comunitario para su prevención, atención y erradicación;
 
-IX. Proponer al Titular del Poder Ejecutivo del Estado, anteproyectos de iniciativas que contengan las adecuaciones al marco jurídico estatal para prevenir y atender la violencia, así como las adecuaciones pertinentes a los planes y programas en materia de violencia y a sus reglamentos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX. Proponer a la persona Titular del Poder Ejecutivo del Estado, anteproyectos de iniciativas que contengan las adecuaciones al marco jurídico estatal para prevenir y atender la violencia, así como las adecuaciones pertinentes a los planes y programas en materia de violencia y a sus reglamentos;
 
 X. Establecer criterios para que las dependencias e instituciones elaboren programas y modelos de prevención y atención de la violencia, buscando consolidar la cultura de paz;
 
@@ -473,17 +485,25 @@ XII. Las demás que establezcan esta Ley y las demás establecidas en otras disp
 
 Facultades Específicas
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-Los integrantes del Consejo Estatal, tendrán facultades específicas de acuerdo a su competencia, encaminadas a prevenir, atender y erradicar la violencia en el Estado.
+###### Articulo 29.
 
-#### Sección Tercera. Del Titular del Poder Ejecutivo
+Las personas integrantes del Consejo Estatal tendrán facultades específicas de acuerdo a su competencia, encaminadas a prevenir, atender y erradicar la violencia en el Estado.
 
-Facultades del Titular del Poder Ejecutivo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
+
+#### Sección Tercera. De la persona Titular del Poder Ejecutivo
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 30.
 
-El Titular del Poder Ejecutivo tendrá las siguientes facultades:
+La persona Titular del Poder Ejecutivo tendrá las siguientes facultades:
 
 I. Aprobar el Programa Estatal propuesto por el Consejo Estatal;
 
@@ -495,25 +515,39 @@ IV. Vigilar que las dependencias y entidades estatales instauren programas de ca
 
 V. Impulsar la creación de refugios para las personas receptoras de violencia cuando, previo diagnóstico, se determine la necesidad de su implementación.
 
-#### Sección Cuarta. Del Titular de la Secretaría de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Secretario de Gobierno
+#### Sección Cuarta. De la persona Titular de la Secretaría de Gobierno
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular de la Secretaría de Gobierno
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 31.
 
-El Titular de la Secretaría de Gobierno tendrá las siguientes facultades:
+La persona Titular de la Secretaría de Gobierno tendrá las siguientes facultades:
 
-I. Suplir al Presidente del Consejo Estatal en caso de ausencia; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. Suplir a la presidencia del Consejo Estatal en caso de ausencia; y
 
 II. Establecer vínculos de coordinación para el cumplimiento de la Ley.
 
-#### Sección Quinta. Del Titular de la Secretaría de Desarrollo Social y Humano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Secretario de Desarrollo Social y Humano
+#### Sección Quinta. De la persona Titular de la Secretaría del Nuevo Comienzo
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular de la Secretaria (sic) del Nuevo Comienzo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 32.
 
-El Titular de la Secretaría de Desarrollo Social y Humano tendrá las siguientes facultades:
+La persona Titular de la Secretaría del Nuevo Comienzo tendrá las siguientes facultades:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de las familias para garantizarles una vida libre de violencia;
 
@@ -525,13 +559,19 @@ IV. Promover políticas de igualdad de condiciones y oportunidades, así como de
 
 V. Impulsar programas para el desarrollo de los grupos sociales en una situación de vulnerabilidad y la mejora en su calidad de vida.
 
-#### Sección Sexta. Del Titular de la Secretaría de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Secretario de Seguridad Pública
+#### Sección Sexta. De la persona Titular de la Secretaría de Seguridad y Paz
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular de la Secretaría de Seguridad y Paz
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 33.
 
-El Titular de la Secretaría de Seguridad Pública tendrá las siguientes facultades:
+La persona Titular de la Secretaría de Seguridad y Paz tendrá las siguientes facultades:
 
 I. Establecer en sus programas, acciones, metas y estrategias para la prevención de la violencia;
 
@@ -539,19 +579,19 @@ II. Implementar las acciones y medidas para la reeducación y reinserción de la
 
 III. Capacitar a promotores comunitarios para la ejecución de programas preventivos de la violencia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Séptima. Del Titular de la Fiscalía General del Estado de Guanajuato
+#### Sección Séptima. De la persona Titular de la Fiscalía General del Estado de Guanajuato
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Fiscal General
+Facultades de la persona Titular de la Fiscal (sic) General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 34.
 
-El Fiscal General del Estado de Guanajuato tendrá las siguientes facultades:
+La persona Titular de la Fiscalía General del Estado de Guanajuato tendrá las siguientes facultades:
 
 I. Ejecutar la política en materia de procuración de justicia para la atención y erradicación de la violencia en el Estado;
 
@@ -563,13 +603,19 @@ III. Proporcionar periódicamente tratamiento de contención al personal especia
 
 IV. Expedir y ejecutar las órdenes de protección que sean procedentes conforme a las disposiciones aplicables y garantizar la integridad física de quienes denuncian.
 
-#### Sección Octava. Del Titular de la Secretaría de Educación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Secretario de Educación
+#### Sección Octava. De la persona Titular de la Secretaría de Educación
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular de la Secretaria (sic) de Educación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 35.
 
-El Titular de la Secretaría de Educación tendrá las siguientes facultades:
+La persona Titular de la Secretaría de Educación tendrá las siguientes facultades:
 
 I. Incluir en sus políticas, programas y contenidos educativos, la prevención de la violencia, así como para la resolución pacífica de conflictos;
 
@@ -581,13 +627,19 @@ IV. Hacer del conocimiento a la autoridad competente los casos de violencia que 
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JULIO DE 2020)</small>
 
-#### Sección Novena. Del Titular de la Secretaría de Salud
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Secretario de Salud
+#### Sección Novena. De la persona Titular de la Secretaría de Salud
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular de la Secretaria (sic) de Salud
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 36.
 
-El Titular de la Secretaría de Salud tendrá las siguientes facultades:
+La persona Titular de la Secretaría de Salud tendrá las siguientes facultades:
 
 I. Difundir entre la población los servicios de salud que, en coordinación con el Sistema Nacional de Salud, se brinden a las personas receptoras o generadoras de violencia;
 
@@ -595,19 +647,19 @@ II. Proporcionar atención médica con respeto a la dignidad humana y aplicació
 
 III. Canalizar a las personas receptoras de violencia a las instituciones correspondientes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Décima. Del Titular de la Secretaría de la Transparencia y Rendición de Cuentas
+#### Sección Décima. De la persona Titular de la Secretaría de la Honestidad
 
-> <small>(REFORMADO ACÁPITE, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades de la Secretaría de la Transparencia y Rendición de Cuentas
+Facultades de la persona Titular de la Secretaría de la Honestidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 37.
 
-El Titular de la Secretaría de la Transparencia y Rendición de Cuentas tendrá las siguientes facultades:
+La persona Titular de la Secretaría de la Honestidad tendrá las siguientes facultades:
 
 I. Implementar programas que promuevan y fortalezcan el derecho de servidores públicos a una vida libre de violencia en sus relaciones laborales; y
 
@@ -621,19 +673,19 @@ II. Implementar un procedimiento especializado de tratamiento cuando el servidor
 
 (DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Duodécima. Del Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
+#### Sección Duodécima. De la persona Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
 
-> <small>(REFORMADO ACÁPITE, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
+Facultades de la persona Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 39.
 
-El Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato tendrá las siguientes facultades:
+La persona Titular del Instituto para el Desarrollo y Atención a las Juventudes del Estado de Guanajuato tendrá las siguientes facultades:
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2020)</small>
 
@@ -645,13 +697,19 @@ III. Diseñar programas que impulsen el desarrollo integral de los jóvenes; y
 
 IV. Distribuir instrumentos y diseñar campañas de prevención de la violencia contra los jóvenes y entre los jóvenes, de conformidad con el Programa Estatal.
 
-#### Sección Décima Tercera. Del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
+#### Sección Décima Tercera. De la persona Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 40.
 
-El Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato tendrá las siguientes facultades:
+La persona Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato tendrá las siguientes facultades:
 
 I. Vigilar que la organización y modelos de atención en los refugios se apeguen a lo señalado en esta ley, así como supervisar su correcta aplicación;
 
@@ -665,25 +723,33 @@ III. Apoyar de manera subsidiaria y coordinada a las autoridades a las que se re
 
 IV. Promover el desarrollo de la familia y de la comunidad en un ambiente libre de violencia.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-#### Sección Décima Tercera Bis. Del Titular del Instituto para las Mujeres Guanajuatenses
+#### Sección Décima Tercera Bis. De la persona Titular de la Secretaría de las Mujeres
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Titular del Instituto para las Mujeres Guanajuatenses
+Facultades de la persona Titular de la Secretaría de las Mujeres
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 40 Bis.
 
-El Titular del Instituto para las Mujeres Guanajuatenses, tendrá las mismas facultades que el Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, en el ámbito de su respectiva competencia.
+La persona Titular de la Secretaría de las Mujeres, tendrá las mismas facultades que la persona Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, en el ámbito de su respectiva competencia.
 
-#### Sección Décima Cuarta. Del Titular del Consejo Estatal de la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JUNIO DE 2025)</small>
 
-Facultades del Titular del Consejo Estatal de la Familia
+#### Sección Décima Cuarta. De la persona Titular del Consejo Estatal de la Familia
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona Titular del Consejo Estatal de la Familia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 41.
 
-El Titular del Consejo Estatal de la Familia tendrá las siguientes facultades:
+La persona Titular del Consejo Estatal de la Familia tendrá las siguientes facultades:
 
 I. Cuidar que la política pública de familia tenga acciones preventivas para la violencia;
 
@@ -703,7 +769,9 @@ I. Instrumentar y articular la política municipal orientada a prevenir, atender
 
 II. Supervisar que la atención proporcionada en las instituciones públicas o privadas de los municipios cumpla las disposiciones normativas en la materia;
 
-III. Capacitar a los servidores y funcionarios públicos que atiendan a las personas receptoras y generadoras de violencia;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+III. Capacitar a las personas servidoras y funcionarias públicas que atiendan a las personas receptoras y generadoras de violencia;
 
 IV. Difundir y fomentar campañas para la prevención y atención de la violencia que establezca la política estatal en la materia;
 
@@ -729,21 +797,25 @@ El Consejo Estatal celebrará sesiones ordinarias de manera cuatrimestral y extr
 
 Derecho a voz y voto y suplencias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 44.
 
-Todos los integrantes del Consejo Estatal tendrán derecho a voz y voto, a excepción del integrante señalado en la fracción VIII del artículo 26 de la Ley. En caso de empate el presidente tendrá voto dirimente.
+Todas las personas integrantes del Consejo Estatal tendrán derecho a voz y voto, a excepción de la persona integrante señalado (sic) en la fracción VIII del artículo 26 de la Ley. En caso de empate la persona titular de la presidencia tendrá voto dirimente.
 
 Los cargos en el Consejo Estatal serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
 
-Todos los integrantes del Consejo Estatal deberán contar con un suplente que será el servidor público de jerarquía inmediata inferior que designen, a excepción del Presidente que será suplido por el Secretario de Gobierno.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Todas las personas integrantes del Consejo Estatal deberán contar con un suplente que será la persona servidora pública de jerarquía inmediata inferior que designen, a excepción de la persona Titular de la presidencia que será suplida por la persona Titular de la Secretaría de Gobierno.
 
 Invitación a las sesiones
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 45.
 
-El Presidente del Consejo Estatal podrá invitar a participar en sus sesiones a personas o instituciones del sector público, social y privado que en razón de su actividad conozcan de asuntos de violencia, atendiendo al tema que se vaya a desarrollar en la sesión, quienes tendrán derecho a voz pero no a voto.
+La presidencia del Consejo Estatal podrá invitar a participar en sus sesiones a personas o instituciones del sector público, social y privado que en razón de su actividad conozcan de asuntos de violencia, atendiendo al tema que se vaya a desarrollar en la sesión, quienes tendrán derecho a voz, pero no a voto.
 
 Reglamento del Sistema Estatal
 
@@ -799,9 +871,11 @@ La prevención es el conjunto de acciones, medidas y estrategias encaminadas a i
 
 Medidas de Prevención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 50.
 
-Los integrantes del Consejo Estatal considerarán como medidas de prevención:
+Las personas integrantes del Consejo Estatal considerarán como medidas de prevención:
 
 I. Los modelos y las acciones establecidas en el Programa Estatal y su programa operativo anual, en las diferentes áreas y órdenes de la administración pública;
 
@@ -835,9 +909,11 @@ III. Los servicios reeducativos integrales especializados y gratuitos a las pers
 
 Acciones y campañas para implementar una Cultura de Paz
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 52.
 
-Los integrantes del Sistema Estatal, para el desarrollo de una cultura de paz, llevarán a cabo las siguientes acciones y campañas, de conformidad con el Programa Estatal:
+Las personas integrantes del Sistema Estatal, para el desarrollo de una cultura de paz, llevarán a cabo las siguientes acciones y campañas, de conformidad con el Programa Estatal:
 
 I. Procurar el desarrollo integral de las personas, basado en la libertad, en el respeto a sus derechos y en el cumplimiento de sus obligaciones;
 
@@ -951,9 +1027,9 @@ IX. Técnicas de intervención psicológica y nuevos métodos terapéuticos; y
 
 X. Técnicas de orientación civil y penal, y en caso de litigio.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses podrán brindar al personal municipal competente para la atención de la violencia la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y la Secretaría de las Mujeres podrán brindar al personal municipal competente para la atención de la violencia la capacitación para la prevención, atención y erradicación de la violencia, así como su actualización.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -1125,9 +1201,11 @@ II. Información jurídica sobre las consecuencias legales de sus conductas.
 
 Creación de los Refugios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 66.
 
-El Titular del Poder Ejecutivo del Estado y los ayuntamientos, para salvaguardar a las personas receptoras de violencia, podrán:
+La persona Titular del Poder Ejecutivo del Estado y los ayuntamientos, para salvaguardar a las personas receptoras de violencia, podrán:
 
 I. Crear refugios regionales o municipales, según el ámbito de su competencia; y
 
@@ -1590,3 +1668,33 @@ P.O. 7 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 65 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 48 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
