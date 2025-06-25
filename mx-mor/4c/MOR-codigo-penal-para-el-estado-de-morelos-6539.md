@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2024-09-18"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1867,9 +1867,17 @@ III. Que el agente sea servidor público;
 
 IV. Que la privación de libertad se prolongue por más de ocho días;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-V. Que la privación de la libertad tenga el propósito de realizar un acto erótico o sexual.
+V. Que la privación de la libertad tenga el propósito de realizar un acto erótico o sexual, y
+
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VI. Cuando la privación ocurra en vehículos destinados al transporte público o en aquellos de servicio de transporte contratado mediante plataformas digitales.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 25 DE JUNIO DE 2025]</small>
+
+Para los efectos de este Código, se entiende por servicio de transporte contratado mediante plataformas digitales, aquel que es solicitado y proporcionado a través de aplicaciones o herramientas tecnológicas operadas por personas físicas o morales, que permiten la intermediación entre el usuario y el conductor del vehículo.
 
 ###### ARTICULO 139.
 
@@ -2167,11 +2175,13 @@ Se impondrán de seis meses a dos años de prisión, al que sin consentimiento d
 
 Al que por medio de la violencia física o moral realice cópula con persona de cualquier sexo, se le impondrá prisión de veinte a veinticinco años. Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo. También comete el delito de violación la persona que utilizando la violencia física o moral penetre con uno o más dedos por vía vaginal o anal al sujeto pasivo.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 153.
 
-Cuando la violación se cometa con la intervención de dos o más personas, o el sujeto activo tenga con el ofendido una relación de autoridad, de hecho o de derecho, se impondrá de veinticinco a treinta años de prisión.
+Cuando la violación se cometa con la intervención de dos o más personas, el sujeto activo tenga con el ofendido una relación de autoridad, de hecho o de derecho, o el delito se comete en servicio de transporte contratado mediante plataformas digitales o del transporte público, se impondrá de veinticinco a treinta años de prisión.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2020)</small>
 
 En el segundo supuesto del párrafo anterior, el juez privará al agente, en su caso, del ejercicio de la patria potestad, la tutela o la custodia y de los derechos sucesorios que pudiere tener en relación con el ofendido.
 
@@ -2181,9 +2191,9 @@ En el segundo supuesto del párrafo anterior, el juez privará al agente, en su 
 
 Se aplicará la pena privativa de libertad prevista en el artículo 153, cuando el agente realice cópula, o introduzca cualquier elemento o instrumento distinto vía vaginal o anal con fines lascivos o erótico-sexuales con persona menor de doce años de edad o que no tenga capacidad para comprender, o por cualquier causa no pueda resistir la conducta delictuosa.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-Si el sujeto activo convive con el pasivo con motivo de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente o como autoridad o empleado administrativo en algún centro educativo, religioso, laboral, médico, cultural, deportivo, doméstico o de cualquier índole, se le impondrá una pena de treinta a treinta y cinco años de prisión.
+Si el sujeto activo convive con el pasivo con motivo de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente o como autoridad o empleado administrativo en algún centro educativo, religioso, laboral, médico, cultural, deportivo, doméstico o de cualquier índole, o el delito se comete en servicio de transporte contratado mediante plataformas digitales o del transporte público, se le impondrá una pena de treinta a treinta y cinco años de prisión.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
@@ -2233,7 +2243,13 @@ Si el sujeto activo fuera servidor público, docente o parte del personal admini
 
 Si el sujeto pasivo es menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se duplicará.
 
-Estos delitos se perseguirán por querella, salvo el supuesto previsto en los dos párrafos anteriores, en que se perseguirán de oficio.
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Si el delito es cometido en servicio de transporte contratado mediante plataformas digitales o del transporte público, las penas se aumentarán hasta en dos terceras partes.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Estos delitos se perseguirán por querella, salvo el supuesto previsto en los tres párrafos anteriores, en que se perseguirán de oficio.
 
 > <small>(ADICIONADO, P.O. 22 DE ENERO DE 2020)</small>
 
@@ -2269,9 +2285,9 @@ Las autoridades educativas de los centros escolares y del Gobierno relacionadas 
 
 Al que sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico sexual o la haga ejecutarlo, se le impondrá de tres a cinco años de prisión.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-La sanción prevista en el párrafo anterior se incrementará de 5 a 10 años de prisión, destitución e inhabilitación del cargo por el mismo término que la prisión impuesta, en el caso de que el sujeto activo sea integrante de alguna institución de educación pública o de asistencia social o convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo; en caso de reincidencia, la inhabilitación será definitiva.
+La sanción prevista en el párrafo anterior se incrementará de 5 a 10 años de prisión, (sic) el delito se comete en servicio de transporte contratado mediante plataformas digitales o del transporte público, y destitución e inhabilitación del cargo por el mismo término que la prisión impuesta, en el caso de que el sujeto activo sea integrante de alguna institución de educación pública o de asistencia social o convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo; en caso de reincidencia, la inhabilitación será definitiva.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -2283,9 +2299,9 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 Al que sin propósito de llegar a la cópula ejecute un acto erótico sexual en persona menor de edad, o que no tenga capacidad de comprender, o que por cualquier causa no pueda resistir dichos actos, o la obligue a ejecutarlos, se le impondrá una pena de ocho a diez años de prisión. Esta sanción se incrementará hasta en una mitad más cuando se empleare violencia física.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
+Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo o de asistencia social o el delito se comete en servicio de transporte contratado mediante plataformas digitales o del transporte público, se le impondrá una pena de ocho a doce años de prisión y además, en el caso de prestar sus servicios en alguna institución pública, se le destituirá e inhabilitará en el cargo por un término igual a la prisión impuesta; en caso de reincidencia, la inhabilitación será definitiva.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -2397,21 +2413,21 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodere por
 
 Se agravará hasta con una mitad más la (sic) penas previstas en las fracciones que contempla este artículo, con independencia de las calificativas que contiene el artículo 176 de este ordenamiento, a la persona o personas que se apoderen de cosas muebles ajenas que sean instrumentos o maquinarias de labranza, cosecha, espigado, empacado o transporte de frutos o productos agrícolas, de los postes, alambres o mallas utilizados como cercas en el sector agropecuario, sin que se cuente con el consentimiento de quien legalmente lo pueda otorgar.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-ARTICULO 174 BIS.- A quien se apodere de frutos o productos de las plantas o árboles, con ánimo de dominio y sin tener el consentimiento de quien legalmente lo pueda otorgar, ya sea en el lugar en que se cultiven, produzcan, almacenen o estén pendientes de recolectar o ya recolectados, se sancionará:
+ARTICULO 174 BIS.- A quien se apodere de frutos de árboles, arbustos o plantas, de la cosecha de semilla y del corte de árboles con ánimo de dominio y sin tener el consentimiento de quien legalmente lo pueda otorgar, ya sea en el lugar en que se cultiven, produzcan, almacenen o estén pendientes de recolectar o ya recolectados o cause daño a los árboles o plantas, o bien se adueñe o apodere con ánimo de dominio y sin tener el consentimiento de quien legalmente lo pueda otorgar de postes, bombas, alambres, maquinaria, fertilizantes, plaguicidas, implementos, infraestructura o de equipo o material que se utilice para las cosechas o producción agrícola, se sancionará:
 
 I.- Con prisión de un año a cuatro años y multa de uno a diez días de salario, si el importe de los frutos o productos robados no excede de la suma de treinta días de salario.
 
 II.- Con prisión de dos a cinco años y multa de cinco a cincuenta días de salario, si el importe de los frutos o productos robados excede de la suma de treinta días de salario, pero no de doscientos;
 
-III.- Con prisión de cuatro a nueve años y multa de quince a ciento cincuenta días de salario si el importe de los frutos o productos robados excede del valor de doscientos días de salario.
+III.- Con prisión de cuatro a doce años y multa de quince a ciento cincuenta días de salario si el importe de los frutos o productos robados excede del valor de doscientos días de salario.
 
 No se aplicará sanción en los casos siguientes:
 
 I. Cuando sin engaños ni medios violentos, se apodere una sola vez de los frutos estrictamente indispensables para satisfacer su imperiosa necesidad de alimentación personal o familiar del momento, y
 
-II. Cuando el valor de los frutos robados no rebase de diez veces el salario mínimo vigente, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre y cuando no se haya ejecutado el robo de frutos o productos por medio de violencia.
+II. Cuando el valor de los frutos o productos robados no rebase de veinte veces la unidad de medida y actualización, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre y cuando no se haya ejecutado el robo de frutos por medio de violencia.
 
 ###### ARTICULO 175.
 
@@ -2663,15 +2679,29 @@ V. Desvíe o haga uso de las aguas propias o ajenas, en los casos en que la ley 
 
 VI. Ejerza actos de dominio que lesionen derechos legítimos del usuario de dichas aguas.
 
-Las sanciones previstas en este Capítulo se impondrán aunque los derechos posesorios sean dudosos o estén sujetos a litigio.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
+VII. Obtenga constancias de posesión o documentos análogos en bienes comunales o ejidales, con el fin de ocupar un inmueble que legítimamente pertenece a otra persona o impedirle su disfrute.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Las sanciones previstas en este capítulo se impondrán, aunque los derechos posesorios sean dudosos o estén sujetos a litigio.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 185.
 
 Se incrementarán hasta en una mitad las sanciones aplicables conforme al artículo anterior, con respecto a quienes figuren como inductores en la comisión del delito de despojo.
 
-La misma sanción prevista en el párrafo anterior se aplicará cuando el despojo se realice por tres o más personas, o con empleo de violencia, o se cometa en lugar despoblado.
+La sanción prevista en el párrafo anterior se aplicará cuando el despojo se cometa:
+
+I. Por tres o más personas;
+
+II. Con empleo de violencia;
+
+III. En lugar despoblado, o
+
+IV. Contra su concubina o concubino, cónyuge o contra quien mantenga una relación de hecho.
 
 ### CAPITULO VI. ADMINISTRACION FRAUDULENTA
 
@@ -5962,3 +5992,35 @@ PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal pa
 SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS TRES.- POR EL CUAL SE REFORMA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO TRESCIENTOS CUATRO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente ordenamiento.
+
+TERCERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado Libre y Soberano de Morelos, para los efectos constitucionales que correspondan.
+
+CUARTA. En lo relacionado con los derechos y obligaciones patrimoniales de los concubinos, las disposiciones de este artículo remitirán al Código Familiar para el Estado Libre y Soberano de Morelos.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS SEIS.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
