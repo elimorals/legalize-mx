@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-las-personas-de-la-diversidad-sexual-y-de-genero-17338
 country: "mx"
 rank: "ley"
 publication_date: "2024-06-07"
-last_updated: "2024-06-07"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LAS PERSONAS DE LA DIVERSIDAD SEXUAL Y DE GÉNERO DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de junio de 2024.
 
@@ -173,11 +173,17 @@ Son autoridades competentes para la aplicación de la presente Ley:
 
 I. En el ámbito estatal:
 
-a) El titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-1. La Secretaría de Gobierno;
+a) La persona titular del Poder Ejecutivo del Estado;
 
-2. La Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+1. La Secretaría de Derechos Humanos;
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+2. La Secretaría del Nuevo Comienzo;
 
 3. La Secretaría de Educación;
 
@@ -185,7 +191,9 @@ a) El titular del Poder Ejecutivo del Estado;
 
 5. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
-6. El Instituto Estatal de la Cultura;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+6. La Secretaría de Cultura;
 
 7. El Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
 
@@ -193,7 +201,9 @@ a) El titular del Poder Ejecutivo del Estado;
 
 9. El Instituto Guanajuatense para las Personas con Discapacidad;
 
-10. El Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+10. La Secretaría de las Mujeres;
 
 11. La Comisión de Deporte del Estado de Guanajuato;
 
@@ -209,11 +219,15 @@ a) Los ayuntamientos; y
 
 b) Los organismos municipales.
 
-Competencia del titular del Poder Ejecutivo
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Competencia de la persona titular del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 6.
 
-Compete al titular del Poder Ejecutivo del Estado:
+Compete a la persona titular del Poder Ejecutivo del Estado:
 
 I. Aprobar el Programa Estatal para las Personas de la Diversidad Sexual y de Género, el cual será propuesto por el titular de la Secretaría de Gobierno;
 
@@ -223,11 +237,15 @@ III. Incluir en la iniciativa de Ley del Presupuesto General de Egresos del Esta
 
 IV. Las demás que le otorgue esta Ley y demás ordenamientos jurídicos aplicables.
 
-Atribuciones de la Secretaría de Gobierno
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la Secretaría de Derechos Humanos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 7.
 
-La Secretaría de Gobierno tendrá las siguientes atribuciones:
+La Secretaría de Derechos Humanos tendrá las siguientes atribuciones:
 
 I. Coordinar la ejecución de las políticas públicas a fin de mejorar el nivel de vida de las personas de la diversidad sexual y de género, así como sus expectativas y derechos;
 
@@ -247,11 +265,15 @@ VIII. Generar políticas que garanticen que las personas de la diversidad sexual
 
 IX. Las demás que le otorgue esta Ley y demás ordenamientos jurídicos aplicables.
 
-Atribuciones de la Secretaría de Desarrollo Social y Humano
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la Secretaría del Nuevo Comienzo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 8.
 
-La Secretaría de Desarrollo Social y Humano tendrá las siguientes atribuciones:
+La Secretaría del Nuevo Comienzo tendrá las siguientes atribuciones:
 
 I. Determinar políticas, programas y acciones a favor del bienestar social de las personas de la diversidad sexual y de género; ejecutarlas, darles seguimiento y evaluarlas;
 
@@ -319,11 +341,15 @@ III. Brindar servicios de asistencia y orientación jurídica de forma gratuita 
 
 IV. Las demás que le otorgue esta Ley y demás ordenamientos jurídicos aplicables.
 
-Atribuciones del Instituto Estatal de la Cultura
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la Secretaría de Cultura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 12.
 
-El Instituto Estatal de la Cultura tendrá las siguientes atribuciones:
+La Secretaría de Cultura tendrá las siguientes atribuciones:
 
 I. Promover actividades de rescate y transmisión de la cultura y de la historia de la diversidad sexual y de género;
 
@@ -373,15 +399,23 @@ II. Difundir la cultura de respeto de los derechos humanos de las personas de la
 
 III. Las demás que le otorgue esta Ley y demás ordenamientos jurídicos aplicables.
 
-Atribuciones del Instituto para las Mujeres Guanajuatenses
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Atribuciones de la Secretaría de las Mujeres
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 16.
 
-Corresponde al Instituto para las Mujeres Guanajuatenses
+La Secretaría de las Mujeres tendrá las siguientes atribuciones:
 
 I. Fomentar programas para dar atención y eliminar la discriminación hacia las mujeres de la diversidad sexual y de género; y
 
-II. Las demás que le otorgue esta Ley y demás ordenamientos jurídicos aplicables.
+> <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. Realizar acciones afirmativas para atender a las mujeres de la diversidad sexual y de género en situación de vulnerabilidad; y
+
+III. Las demás que le otorgue esta Ley y demás ordenamientos jurídicos aplicables.
 
 Atribuciones de la Comisión del Deporte del Estado de Guanajuato
 
@@ -489,9 +523,11 @@ IV. Los mecanismos de coordinación y concertación.
 
 Unidad responsable
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Gobierno contará con una unidad responsable de la ejecución, promoción e impulso de las acciones en materia de diversidad sexual y de género del Gobierno del Estado.
+La Secretaría de Derechos Humanos contará con una unidad responsable de la ejecución, promoción e impulso de las acciones en materia de diversidad sexual y de género del Gobierno del Estado.
 
 Titular de la unidad
 
@@ -501,15 +537,19 @@ El titular de la unidad contará con el nivel de director general, y será una p
 
 Desarrollo humano integral
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Gobierno a través de la unidad, procurara´ el desarrollo humano integral de las personas de la diversidad sexual y de género, entendiéndose por este el proceso tendiente a brindar a este sector de la población las oportunidades necesarias para alcanzar niveles de bienestar y alta calidad de vida, orientado a reducir las desigualdades extremas y las inequidades de género, que aseguren sus necesidades básicas y desarrollen su capacidad en un entorno social incluyente.
+La Secretaría de Derechos Humanos a través de la unidad, procurará el desarrollo humano integral de las personas de la diversidad sexual y de género, entendiéndose por este el proceso tendiente a brindar a este sector de la población las oportunidades necesarias para alcanzar niveles de bienestar y alta calidad de vida, orientado a reducir las desigualdades extremas y las inequidades de género, que aseguren sus necesidades básicas y desarrollen su capacidad en un entorno social incluyente.
 
 Respeto a los derechos humanos
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 28.
 
-La Secretaría de Gobierno será responsable de garantizar el respeto, la protección y el acceso pleno a los derechos humanos y a la no discriminación a través de alianzas estratégicas con organizaciones de la sociedad civil y organismos públicos y privados, a fin de construir una sociedad digna y equitativa en igualdad de derechos y oportunidades.
+La Secretaría de Derechos Humanos será responsable de garantizar el respeto, la protección y el acceso pleno a los derechos humanos y a la no discriminación a través de alianzas estratégicas con organizaciones de la sociedad civil y organismos públicos y privados, a fin de construir una sociedad digna y equitativa en igualdad de derechos y oportunidades.
 
 Coordinación
 
@@ -586,3 +626,35 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 J. JESÚS OVIEDO HERRERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
