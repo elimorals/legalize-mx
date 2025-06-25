@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2024-07-05"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 310 PUBLICADO EN EL P.O. DEL 7 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -357,9 +355,9 @@ XVI bis. Perro guía o animal de servicio: Animales que han sido certificados pa
 
 XVI ter. Plataforma tecnológica: Son infraestructuras digitales que permiten que dos o más grupos interactúen, por lo tanto, participan como intermediarios a través de la cual se contratan servicios de transporte privado y se proporciona exclusivamente mediante aplicaciones o contenidos en formato digital a través de internet, incluso pueden no requerir una intervención humana, es decir, pueden estar automatizados;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-XVI quater. Secretaría: La Secretaría de Infraestructura, Conectividad y Movilidad;
+XVI quater. Secretaría: La Secretaría de Obra Pública;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -433,9 +431,9 @@ VIII. Los indicadores; y
 
 IX. La información necesaria para que la ciudadanía pueda identificar con facilidad las acciones y obras que se implementarán en cada región, así como el plazo en que serán ejecutadas y concluidas.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-El Programa Estatal de Movilidad y Seguridad Vial será emitido por el Gobernador del Estado dentro de los seis meses siguientes a la expedición del Programa de Gobierno y podrá actualizarse de conformidad con lo establecido en la Ley de Planeación para el Estado de Guanajuato, o cuando ocurran cambios en la Estrategia Nacional de Movilidad y Seguridad Vial.
+El Programa Estatal de Movilidad y Seguridad Vial será emitido por la persona Titular del Poder Ejecutivo dentro de los seis meses siguientes a la expedición del Programa de Gobierno y podrá actualizarse de conformidad con lo establecido en la Ley de Planeación para el Estado de Guanajuato, o cuando ocurran cambios en la Estrategia Nacional de Movilidad y Seguridad Vial.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -731,7 +729,9 @@ Autoridades estatales
 
 Son autoridades estatales en materia de movilidad, de conformidad con sus respectivas competencias:
 
-I. El titular del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. La persona titular del Poder Ejecutivo;
 
 II. La Secretaría de Gobierno;
 
@@ -739,7 +739,9 @@ II. La Secretaría de Gobierno;
 
 II bis. La Secretaría;
 
-III. La Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+III. La Secretaría de Finanzas;
 
 IV. La Policía Estatal de Caminos;
 
@@ -749,7 +751,9 @@ VI. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
 VII. El registrador de concesiones y permisos de transporte, jefes de oficinas regionales de movilidad e inspectores de movilidad; y
 
-VIII. Los Jefes de las Oficinas Recaudadoras del Estado.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VIII. Las personas titulares de las Oficinas Recaudadoras del Estado.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -763,11 +767,15 @@ Unidad administrativa de transporte
 
 Artículo 15 ter. La Secretaría de Gobierno contará con una unidad administrativa en materia de transporte encargada de ordenar, planear, promover y administrar el servicio público y especial de transporte en el Estado, así como la educación vial.
 
-Facultades del titular del Poder Ejecutivo
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la persona titular del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 16.
 
-El titular del Poder Ejecutivo tiene las siguientes facultades:
+La persona titular del Poder Ejecutivo tiene las siguientes facultades:
 
 I. Dictar y aplicar, en cualquier tiempo, cuando así lo requiera el interés público, las medidas necesarias para el cumplimiento de esta Ley y su reglamento;
 
@@ -883,11 +891,15 @@ VII. Ejecutar los acuerdos del Gobernador del Estado en todo lo que se refiere a
 
 VIII. Las demás que en esta materia le confiera la normatividad aplicable.
 
-Facultades de la Secretaría de Finanzas, Inversión y Administración
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE JUNIO DE 2025)</small>
+
+Facultades de la Secretaría de Finanzas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Secretaría de Finanzas, Inversión y Administración:
+Corresponde a la Secretaría de Finanzas:
 
 I. Expedir y hacer entrega a los propietarios o legítimos poseedores de vehículos de las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios serequieran (sic);
 
@@ -1303,19 +1315,27 @@ I. Quien sea titular de la Secretaría, correspondiendo a esta ejercer la presid
 
 II. Quien sea titular de la Secretaría de Gobierno;
 
-III. Quien sea titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+III. Quien sea titular de la Secretaría de Seguridad y Paz;
 
 IV. Quien sea titular de la Secretaría de Salud;
 
-V. Quien sea titular de la Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VI. Quien sea titular de la Secretaría de Medio Ambiente y Ordenamiento Territorial;
+V. Quien sea titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+VI. Quien sea titular de la Secretaría del Agua y Medio Ambiente;
 
 VII. Quien sea titular del Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato.
 
 VIII. Quien sea titular del Instituto Guanajuatense para las Personas con Discapacidad;
 
-IX. Quien sea titular del Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX. Quien sea titular de la Secretaría de las Mujeres;
 
 X. Quien sea titular de la Coordinación Estatal de Protección Civil de Guanajuato;
 
@@ -1671,15 +1691,15 @@ Vehículos de uso o tránsito eventual
 
 Se da el nombre de vehículos de uso o tránsito eventual, a aquellos que utilizan las vías públicas de la entidad de manera temporal en sus desplazamientos, en virtud de provenir de otros puntos de la Federación o del extranjero o que por el servicio específico que llevan a cabo, se encuentran sometidos a otra jurisdicción distinta de la estatal. Asimismo, se consideran dentro de esta categoría aquellas unidades que en virtud de convenios de enlace, fusión de equipos o intercambio de servicios, celebrado entre concesionarios o permisionarios locales con concesionarios o permisionarios del servicio federal o de entidades federativas limítrofes, requieren hacer uso de las vías públicas estatales.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 Registro
 
 ###### Artículo 62.
 
-Todos los vehículos que circulen por las vías públicas del Estado de Guanajuato y que en razón de su actividad y domicilio y que no estén registrados en otra entidad federativa, deberán efectuar su registro ante la Secretaría de Finanzas, Inversión y Administración. Las condiciones y requisitos para cada tipo y clase de vehículo, son las que al respecto se señalen en esta Ley y sus reglamentos.
+Todos los vehículos que circulen por las vías públicas del Estado de Guanajuato y que en razón de su actividad y domicilio y que no estén registrados en otra entidad federativa, deberán efectuar su registro ante la Secretaría de Finanzas. Las condiciones y requisitos para cada tipo y clase de vehículo son las que al respecto se señalen en esta Ley y sus reglamentos.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-La Secretaría de Finanzas, Inversión y Administración, la Secretaría de Gobierno y la unidad administrativa correspondiente en el municipio, establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
+La Secretaría de Finanzas, la Secretaría de Gobierno y la unidad administrativa correspondiente en el municipio, establecerán los mecanismos de coordinación para eficientar el registro vehicular en la entidad.
 
 ### Capítulo IV. Conductores y operadores de vehículos motorizados
 
@@ -1893,7 +1913,9 @@ Registro de vehículos
 
 El registro de los vehículos se acreditará mediante la tarjeta de circulación que deberá llevar siempre el conductor del mismo, así como con las placas y la calcomanía correspondiente, que deberán ser colocadas en los lugares que determine el reglamento de esta Ley.
 
-La Secretaría de Finanzas, Inversión y Administración expedirá las placas y la calcomanía que permita identificar a los vehículos conducidos por o en que habitualmente viajen personas con discapacidad.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+La Secretaría de Finanzas expedirá las placas y la calcomanía que permita identificar a los vehículos conducidos por o en que habitualmente viajen personas con discapacidad.
 
 Vehículos extranjeros
 
@@ -1909,9 +1931,15 @@ No se podrá suspender la circulación a ningún vehículo por elementos de la P
 
 Padrón vehicular
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 69.
 
-La Secretaría de Finanzas, Inversión y Administración, la Policía Estatal de Caminos y las autoridades municipales, en los términos del artículo 62 de esta Ley, llevarán un control veraz y actualizado de los vehículos automotoressometidos (sic) a la jurisdicción estatal, debiendo integrar y operar un padrón que contenga los datos relativos a los mismos. Para cumplir con este objetivo podrán hacer uso de los medios técnicos que estimen más adecuados.
+La Secretaría de Finanzas, la Policía Estatal de Caminos y las autoridades municipales, en los términos del artículo 62 de esta Ley, llevarán un control veraz y actualizado de los vehículos automotores sometidos a la jurisdicción estatal, debiendo integrar y operar un padrón que contenga los datos relativos a los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE JUNIO DE 2025)</small>
+
+Para cumplir con este objetivo podrán hacer uso de los medios técnicos que estimen más adecuados.
 
 Requisitos para el registro vehicular
 
@@ -1959,9 +1987,11 @@ Cuando con posterioridad al registro, ocurra alguna modificación relativa a los
 
 Convenios de colaboración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 73.
 
-El Ejecutivo del Estado podrá celebrar convenios de colaboración o coordinación con las autoridades federales o de otros estados de la República, para la integración y actualización del registro de los vehículos.
+La persona titular del Poder Ejecutivo podrá celebrar convenios de colaboración o coordinación con las autoridades federales o de otros estados de la República, para la integración y actualización del registro de los vehículos.
 
 Como resultado de dichos convenios se podrán establecer, cuando se haga necesario, otros requisitos para el registro de los vehículos, además de los señalados anteriormente.
 
@@ -1969,9 +1999,11 @@ Como resultado de dichos convenios se podrán establecer, cuando se haga necesar
 
 Otorgamiento de placas de circulación
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 74.
 
-Las placas de circulación que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y su reglamento serán otorgadas por la Secretaría de Finanzas, Inversión y Administración.
+Las placas de circulación que requieren los vehículos registrados de conformidad con las disposiciones de esta Ley y su reglamento serán otorgadas por la Secretaría de Finanzas.
 
 Obligación de portar placas de circulación
 
@@ -1981,9 +2013,11 @@ Ningún vehículo podrá desplazarse por las vías públicas del Estado sin llev
 
 Tipos de placas de circulación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 76.
 
-La Secretaría de Finanzas, Inversión y Administración expedirá los tipos de placas siguientes, para:
+La Secretaría de Finanzas expedirá los tipos de placas siguientes, para:
 
 I. Transporte privado:
 
@@ -2137,6 +2171,8 @@ Clasificación de la vía pública
 
 Seguridad y educación vial
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ## TÍTULO QUINTO. LICENCIAS Y PERMISOS PARA CONDUCIR Y REGISTRO ESTATAL
 
 ### Capítulo III. Estacionamientos Públicos
@@ -2207,15 +2243,17 @@ Integración del Sistema Estatal de Ciclovías
 
 ###### Artículo 90.
 
-El Ejecutivo del Estado y los municipios promoverán y ejecutarán acciones en materia de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte; y población en general, haciendo uso de los diferentes medios de comunicación, los avances tecnológicos y lo establecido en la fracción I, inciso b), del artículo 5 de la presente Ley.
+La persona titular del Poder Ejecutivo y los municipios promoverán y ejecutarán acciones en materia de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte; y población en general, haciendo uso de los diferentes medios de comunicación, los avances tecnológicos y lo establecido en la fracción I, inciso b, del artículo 5 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE JULIO DE 2020)</small>
 
 Fomento de educación vial
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 91.
 
-El Ejecutivo del Estado, por conducto de la unidad administrativa de transporte y en coordinación con la Secretaría de Educación, promoverá en la educación preescolar, primaria, secundaria, nivel medio superior y superior la impartición de cursos y talleres de educación, seguridad y cultura peatonal y vial.
+La persona titular del Poder Ejecutivo, por conducto de la unidad administrativa de transporte y en coordinación con la Secretaría de Educación, promoverá en la educación preescolar, primaria, secundaria, nivel medio superior y superior la impartición de cursos y talleres de educación, seguridad y cultura peatonal y vial.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2343,13 +2381,15 @@ Los interesados en obtener algún tipo de licencia, deben cumplir con los requis
 
 Las licencias de conducir, se otorgarán solo a personas mayores de edad, lo que se deberá acreditar en los términos que establezca el reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Cursos y exámenes
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 106.
 
-La Secretaría de Seguridad Pública dispondrá la impartición de cursos y la aplicación de exámenes psicométricos, teóricos y prácticos necesarios con objeto de corroborar que los interesados cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
+La Secretaría de Seguridad y Paz dispondrá la impartición de cursos y la aplicación de exámenes psicométricos, teóricos y prácticos necesarios con objeto de corroborar que las personas interesadas cuentan con los conocimientos y habilidades requeridas para el manejo de vehículos de motor. Auxiliándose para ello, en su caso, del equipo o mecanismos tecnológicos que resulten adecuados y de conformidad con lineamientos generales que se expidan para tal fin.
 
 ###### Artículo 107.
 
@@ -2381,13 +2421,15 @@ Cuando al obtener una licencia o permiso de conducir, el interesado haya proporc
 
 El servidor público que otorgue una licencia o permiso de conducir en contravención a lo dispuesto por esta Ley y su reglamento incurrirá en falta grave que será sancionada conforme a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las responsabilidades civiles o penales que se generen.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Escuelas de manejo
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 112.
 
-La Secretaría de Seguridad Pública podrá celebrar convenios con personas físicas o jurídico colectivas, así como con entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas, para reconocerlos en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta Ley y su reglamento.
+La Secretaría de Seguridad y Paz podrá celebrar convenios con personas físicas o jurídicas colectivas, así como entidades públicas y privadas que cumplan con las características legales, técnicas y administrativas, para reconocerlas en la impartición de cursos de manejo a conductores de vehículos particulares con el objeto, en su caso, de establecer acciones coordinadas respecto de las pruebas o exámenes que deben realizarse para la obtención de la licencia o permiso de conducir conforme a lo establecido en esta ley y su reglamento.
 
 ### Capítulo I. Disposiciones comunes a los servicios Público y Especial de Transporte
 
@@ -2585,11 +2627,11 @@ La prórroga de la unidad, se otorgará únicamente a los vehículos que ya est�
 
 Renovación de parque vehicular
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 128.
 
-El Ejecutivo del Estado a través de la unidad administrativa de transporte, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, deberán implementar los programas y campañas para renovar el parque vehicular de los servicios público y especial de transporte, en los términos de esta Ley y, en su caso, por vehículos eléctricos, híbridos o de bajas emisiones que utilicen energías limpias atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+La persona titular del Poder Ejecutivo a través de la unidad administrativa de transporte, y los ayuntamientos, independientemente de los años de vida útil de los vehículos, deberán implementar los programas y campañas para renovar el parque vehicular de los servicios público y especial de transporte, en los términos de esta Ley y, en su caso, por vehículos eléctricos, híbridos o de bajas emisiones que utilicen energías limpias atendiendo al orden público, la eficiencia y calidad de los mismos, así como el uso de la tecnología sustentable. Dichas disposiciones deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
 Organización de los concesionarios y permisionarios
 
@@ -3387,9 +3429,11 @@ La revocación de una concesión sólo podrá ser declarada por el Secretario de
 
 Efectos de la revocación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 198.
 
-Revocada la concesión, se publicarán en el Periódico Oficial de Gobierno del Estado los puntos resolutivos y se notificará a la Secretaría de Finanzas, Inversión y Administración con el objeto de que proceda a dar de baja el registro del o los vehículos con los cuales se prestaba el servicio.
+Revocada la concesión, se publicarán en el Periódico Oficial de Gobierno del Estado los puntos resolutivos y se notificará a la Secretaría de Finanzas con el objeto de que proceda a dar de baja el registro del o los vehículos con los cuales se prestaba el servicio.
 
 De igual manera, se ordenará la inscripción de la resolución de la revocación en el Registro Estatal de Concesiones y Permisos del Transporte.
 
@@ -3623,13 +3667,15 @@ En cualquier caso, los titulares de los depósitos, deberán acreditar de manera
 
 Enajenación de vehículos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 220.
 
-El Ejecutivo del Estado o los ayuntamientos, a través de la dependencia o entidad que corresponda, llevarán a cabo las acciones para la enajenación de los vehículos que pasen a propiedad del fisco del Estado o del municipio.
+La persona titular del Poder Ejecutivo o los ayuntamientos, a través de la dependencia o entidad que corresponda, llevarán a cabo las acciones para la enajenación de los vehículos que pasen a propiedad del fisco del Estado o del municipio.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-La enajenación de los vehículos que pasen a propiedad del fisco del Estado podrá llevarse a cabo conforme a los lineamientos que emita la Secretaría de Finanzas, Inversión y Administración y siempre y cuando se actualice el supuesto jurídico contenido en el artículo 86, fracción III de la Ley de Contrataciones Públicas para el Estado de Guanajuato.
+La enajenación de los vehículos que pasen a propiedad del fisco del Estado podrá llevarse a cabo conforme a los lineamientos que emita la Secretaría de Finanzas y siempre y cuando se actualice el supuesto jurídico contenido en el artículo 86, fracción III de la Ley de Contrataciones Públicas para el Estado de Guanajuato.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2020)</small>
 
@@ -3645,7 +3691,9 @@ Aplicación de los recursos económicos
 
 El decreto o acuerdo respectivo establecerá los porcentajes para la distribución de los recursos económicos que se obtengan de los vehículos enajenados, mismos que se destinarán a lo siguiente:
 
-I. A la Secretaría de Finanzas, Inversión y Administración y los Municipios para el pago en su caso de la infracción que originó el depósito y demás adeudos fiscales generados por los vehículos;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. A la Secretaría de Finanzas y los Municipios para el pago en su caso de la infracción que originó el depósito y demás adeudos fiscales generados por los vehículos;
 
 II. Al pago de los adeudos que los particulares tengan con los permisionarios de los depósitos por concepto de los servicios prestados por la guarda y custodia del vehículo y demás maniobras de arrastre, salvamento y cualquier otra anexidad;
 
@@ -4217,15 +4265,15 @@ La persona que preste el servicio público de transporte en la modalidad de alqu
 
 Competencia para imponer sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 266.
 
-El titular de la unidad administrativa de transporte será competente para imponer las sanciones previstas en las fracciones I, II, V, VI, IX, X y XI del artículo 249 de esta Ley.
+La persona titular de la unidad administrativa de transporte será competente para imponer las sanciones previstas en las fracciones I, II, V, VI, IX, X y XI del artículo 249 de esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-La Secretaría de Seguridad Pública, a través de la unidad administrativa que señale su Reglamento Interior será competente para imponer las sanciones previstas en las fracciones III, IV y VII del artículo 249 de esta Ley.
+La Secretaría de Seguridad y Paz, a través de la unidad administrativa que señale su Reglamento Interior será competente para imponer las sanciones previstas en las fracciones III, IV y VII del artículo 249 de esta Ley.
 
 Para la aplicación de las sanciones anteriores se deberá observar el procedimiento establecido en el reglamento correspondiente.
 
@@ -4257,11 +4305,11 @@ Podrán retirarse de la vía pública y remitirse para su resguardo a un depósi
 
 Imposibilidad de efectuar trámites con adeudos de multas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 269.
 
-La Secretaría de Finanzas, Inversión y Administración y la Secretaría de Seguridad Pública en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
+La Secretaría de Finanzas y la Secretaría de Seguridad y Paz en su caso, no darán curso a ningún trámite relativo al registro vehicular, o para reposición de licencias o placas, al propietario del vehículo o conductor que no cubra previamente las multas en que haya incurrido.
 
 Derecho a inconformarse
 
@@ -4646,3 +4694,33 @@ Artículo Cuarto. La sesión de conformación del Consejo de Movilidad y Segurid
 Plazo para las adecuaciones reglamentarias
 
 Artículo Quinto. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para su cumplimiento, en un plazo que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
