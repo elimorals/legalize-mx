@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-discriminacion-en-1016
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2025-03-14"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -301,39 +301,55 @@ Integrantes del Consejo
 
 El Consejo estará integrado por:
 
-I. Un ciudadano designado por el Gobernador del Estado, quien presidirá el Consejo;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, quien fungirá como la Secretaría Ejecutiva del Consejo;
+I. Una persona ciudadana designada por la persona Titular del Poder Ejecutivo, quien presidirá el Consejo;
 
-III. El titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. El titular de la Secretaría de Desarrollo Social y Humano;
+II. La persona titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, quien fungirá como la Secretaría Ejecutiva del Consejo;
 
-V. El titular de la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VI. El titular de la Secretaría de Salud;
+III. La persona titular de la Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VII. El director del Instituto para las Mujeres Guanajuatenses;
+IV. La persona titular de la Secretaría del Nuevo Comienzo;
 
-VIII. El director del Instituto Guanajuatense para las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IX. El director del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+V. La persona titular de la Secretaría de Educación;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IX bis. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+VI. La persona titular de la Secretaría de Salud;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IX ter. El titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+VII. La persona titular de la Secretaría de las Mujeres;
+
+VIII. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX. La persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX bis. La persona titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX ter. La persona titular de la Secretaría Ejecutiva del Sistema de Protección de los derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
 X. Cuatro representantes de los municipios, por lo menos; y
 
 XI. Dos representantes de organizaciones de la sociedad civil especializadas en el trabajo contra la discriminación en el estado.
 
-Cuando acuda el Gobernador del Estado, éste asumirá la presidencia y el ciudadano presidente fungirá como vocal; ambos conservarán el derecho a voz y voto.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Cuando la persona Titular del Poder Ejecutivo acuda, ésta asumirá la presidencia y el ciudadano presidente fungirá como vocal; ambos conservarán el derecho a voz y voto.
 
 Los integrantes a que se refieren las fracciones I, X y XI de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento de esta Ley.
 
@@ -341,9 +357,11 @@ Por cada integrante del Consejo habrá un suplente quien lo cubrirá en sus ause
 
 Carácter honorífico de los cargos del Consejo
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 17.
 
-El cargo de los integrantes del Consejo será de naturaleza honorífica, por lo que no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
+El cargo de las personas integrantes del Consejo será de naturaleza honorífica, por lo que no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
 
 Sesiones del Consejo
 
@@ -483,9 +501,11 @@ El Consejo proporcionará a las personas que presuntamente hayan sido discrimina
 
 Actuación del Consejo a petición de parte o de manera oficiosa
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 31.
 
-El Consejo, dentro de su ámbito de competencia, podrá iniciar sus actuaciones a petición de parte o actuar de oficio cuando tenga conocimiento de actos, omisiones o prácticas discriminatorias o por infracciones a esta Ley, en aquellos casos que el presidente lo determine. La instrucción de las actuaciones podrá encomendarse al funcionario de la Secretaría de Gobierno que se designe en acuerdo específico, siempre que no exista acuerdo del Consejo asignado en esta encomienda.
+El Consejo, dentro de su ámbito de competencia, podrá iniciar sus actuaciones a petición de parte o actuar de oficio cuando tenga conocimiento de actos, omisiones o prácticas discriminatorias o por infracciones a esta Ley, en aquellos casos que quien presida lo determine. La instrucción de las actuaciones podrá encomendarse al funcionario de la Secretaría de Gobierno que se designe en acuerdo específico, siempre que no exista acuerdo del Consejo asignado en esta encomienda.
 
 Auxilio al Consejo
 
@@ -910,3 +930,33 @@ P.O. 14 DE MARZO DE 2025.
 Inicio de vigencia
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de las derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
