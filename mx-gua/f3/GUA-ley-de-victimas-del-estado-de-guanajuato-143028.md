@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-victimas-del-estado-de-guanajuato-143028"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-27"
-last_updated: "2023-11-20"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 27 de mayo de 2020.
 
@@ -229,7 +229,9 @@ Garantía de la reparación del daño
 
 Cuando el imputado se sustraiga de la acción de la justicia, deje de presentarse ante la autoridad jurisdiccional que conozca de su caso los días que se hubieran señalado para tal efecto u omita comunicar a la autoridad jurisdiccional los cambios de domicilio que tuviere o se ausentase del lugar del juicio de autorización de la autoridad jurisdiccional, esta última ordenará, sin demora alguna, que entregue la suma que garantiza la reparación del daño a la víctima, dejando constancia en el expediente del pago definitivo de la cantidad depositada, lo que no implica que se haya efectuado la reparación integral del daño correspondiente.
 
-En los casos en que la garantía fuese hecha por hipoteca o prenda, la autoridad jurisdiccional remitirá dichos bienes a la Secretaría de Finanzas, Inversión y Administración para su cobro, el cual deberá entregarse sin dilación a la víctima. En los mismos términos los fiadores están obligados a pagar en forma inmediata la reparación del daño, aplicándose para su cobro, en todo caso, el procedimiento económico coactivo señalado en el Código Fiscal para el Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+En los casos en que la garantía fuese hecha por hipoteca o prenda, la autoridad jurisdiccional remitirá dichos bienes a la Secretaría de Finanzas para su cobro, el cual deberá entregarse sin dilación a la víctima. En los mismos términos los fiadores están obligados a pagar en forma inmediata la reparación del daño, aplicándose para su cobro, en todo caso, el procedimiento económico coactivo señalado en el Código Fiscal para el Estado de Guanajuato.
 
 Derecho de la víctima de intervenir en el proceso penal
 
@@ -253,7 +255,9 @@ Derecho de la víctima de optar por solución de conflictos
 
 Las víctimas tendrán derecho a optar por la solución de conflictos conforme a las reglas de la justicia alternativa, a través de instituciones como la conciliación y la mediación, a fin de facilitar la reparación del daño y la reconciliación de las partes y las medidas de no repetición.
 
-Para llevarse a cabo la conciliación o la mediación, deberá acreditarse a través de los medios idóneos, que la víctima está en condiciones de tomar esa decisión. El Ministerio Público llevará un registro y una auditoría sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, notificando en todo caso al Instituto para las Mujeres Guanajuatenses, a fin de que se cercioren que la víctima en caso de ser mujer tuvo la asesoría requerida para la toma de dicha decisión, cuando se trate de delitos de violencia de género. Se sancionará a los servidores públicos que conduzcan a las víctimas a tomar estas decisiones sin que éstas estén conscientes de las consecuencias que conlleva.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Para llevarse a cabo la conciliación o la mediación, deberá acreditarse a través de los medios idóneos, que la víctima está en condiciones de tomar esa decisión. El Ministerio Público llevará un registro y una auditoría sobre los casos en que la víctima haya optado por alguna de las vías de solución alterna de conflictos, notificando en todo caso a la Secretaría de las Mujeres, a fin de que se cercioren que la víctima en caso de ser mujer tuvo la asesoría requerida para la toma de dicha decisión, cuando se trate de delitos de violencia de género. Se sancionará a las personas servidoras públicas que conduzcan a las víctimas a tomar estas decisiones sin que éstas estén conscientes de las consecuencias que conlleva.
 
 ### CAPÍTULO IV. DERECHO A LA VERDAD
 
@@ -539,9 +543,11 @@ La información y asesoría deberán brindarse en forma gratuita y por profesion
 
 Afectaciones y consecuencias del hecho victimizante, y principios generales de la Ley General
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 41.
 
-La Comisión Ejecutiva, la Secretaría de Seguridad Pública, la Secretaría de Educación de Guanajuato, la Secretaría de Desarrollo Social y Humano y demás entidades obligadas, así como en aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la Ley General y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos humanos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+La Comisión Ejecutiva, la Secretaría de Seguridad y Paz, la Secretaría de Educación de Guanajuato, la Secretaría del Nuevo Comienzo y demás entidades obligadas, así como en aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la Ley General y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos humanos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
 Medidas de asistencia gratuitas
 
@@ -563,9 +569,11 @@ Las instituciones del sistema educativo estatal impartirán educación de manera
 
 Apoyos especiales a escuelas en pro de la víctima
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 45.
 
-La Secretaría de Educación de Guanajuato y la Secretaría de Innovación, Ciencia y Educación Superior, en el ámbito de sus competencias otorgarán apoyos especiales a las escuelas que, por la particular condición de la asistencia y atención a víctimas, enfrenten mayor posibilidad de atrasos o deserciones, debiendo promover las acciones necesarias para compensar los problemas educativos derivados de dicha condición.
+La Secretaría de Educación de Guanajuato otorgará apoyos especiales a las escuelas que, por la particular condición de la asistencia y atención a víctimas, enfrenten mayor posibilidad de atrasos o deserciones, debiendo promover las acciones necesarias para compensar los problemas educativos derivados de dicha condición.
 
 Prestación de servicios educativos gratuitos y preferentes
 
@@ -587,9 +595,11 @@ El Ejecutivo del Estado a través de sus dependencias, entidades y organismos de
 
 Apoyos a víctimas para acceder a programas académicos
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 49.
 
-El Ejecutivo del Estado a través de la Secretaría de Innovación, Ciencia y Educación Superior y la Universidad de Guanajuato en el marco de su autonomía, establecerán los apoyos para que las víctimas participen en los procesos de selección, admisión y matrícula que les permitan acceder a los programas académicos ofrecidos por estas instituciones, para lo cual incluirán medidas de exención del pago de formulario de inscripción y de derechos de grado.
+El Ejecutivo del Estado a través de la Secretaría de Educación y la Universidad de Guanajuato en el marco de su autonomía, establecerán los apoyos para que las víctimas participen en los procesos de selección, admisión y matrícula que les permitan acceder a los programas académicos ofrecidos por estas instituciones, para lo cual incluirán medidas de exención del pago de formulario de inscripción y de derechos de grado.
 
 ### CAPÍTULO II. MEDIDAS ECONÓMICAS Y DE DESARROLLO
 
@@ -901,27 +911,33 @@ I. Por el Poder Ejecutivo a través del titular de:
 
 a) La Secretaría de Gobierno, quien lo presidirá;
 
-b) La Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+b) La Secretaría de Seguridad y Paz;
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
 b) (sic) La Secretaría de Salud;
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-d) La Secretaría de Desarrollo Social y Humano; y
+d) La Secretaría del Nuevo Comienzo; y
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-e) El Instituto para las Mujeres Guanajuatenses;
+e) La Secretaría de las Mujeres;
 
 II. La Fiscalía General del Estado de Guanajuato;
 
 III. La Procuraría de los Derechos Humanos del Estado de Guanajuato;
 
-IV. Los presidentes municipales;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-V. El titular de la Comisión;
+IV. Las personas titulares de las Presidencias Municipales;
+
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+V. La persona titular de la Comisión.
 
 VI. Cuatro personas propuestas por grupos, colectivos de víctimas u organizaciones de la sociedad civil con reconocida especialización en los temas materia de la presente Ley; y
 
@@ -1013,7 +1029,9 @@ El patrimonio de la Comisión se integra:
 
 I. Con los recursos que le asigne el Congreso del Estado a través del presupuesto general de egresos del estado;
 
-II. Los bienes muebles e inmuebles que le sean asignados por conducto de la Secretaría de Finanzas, Inversión y Administración; y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. Los bienes muebles e inmuebles que le sean asignados por conducto de la Secretaría de Finanzas; y
 
 III. Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título jurídico.
 
@@ -1033,7 +1051,9 @@ I. Un representante de:
 
 a) La Secretaría de Gobierno, quien la presidirá;
 
-b) La Secretaría de Finanzas, Inversión y Administración;
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+b) La Secretaría de Finanzas;
 
 c) La Secretaría de Educación de Guanajuato; y
 
@@ -1041,7 +1061,9 @@ d) La Secretaría de Salud;
 
 II. Cuatro representantes del Consejo Consultivo, designados por éste; y
 
-III. El presidente de la Comisión.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+III. La persona titular de la presidencia de la comisión;
 
 Los integrantes referidos en la fracción I de este artículo, serán los titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente. En sus decisiones los integrantes tendrán derecho a voz y voto.
 
@@ -1091,7 +1113,9 @@ La convocatoria para integrar el Consejo Consultivo atenderá a un criterio de r
 
 I. Región 1: Ocampo, San Felipe, San Diego de la Unión, Dolores Hidalgo Cuna de la Independencia Nacional y San Miguel de Allende;
 
-II. Región 2: San Luis de la Paz, Victoria, Doctor Mora, San José Iturbide, Tierra Blanca, Santa Catarina, Xichú y Atarjea;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. Región 2: San Luis de la Paz, Victoria, Doctor Mora, San José de Iturbide, Tierra Blanca, Santa Catarina, Xichú y Atarjea;
 
 III. Región 3: Comonfort, Santa Cruz de Juventino Rosas, Celaya, Villagrán, Apaseo el Grande, Apaseo el Alto y Cortazar;
 
@@ -1113,9 +1137,11 @@ Las funciones del Consejo Consultivo estarán previstas en el Reglamento de la p
 
 Elección del presidente de la Comisión
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 88.
 
-La Comisión estará a cargo de un presidente elegido por el voto de las dos terceras partes de los integrantes presentes del Congreso del Estado, de la terna que enviará el titular del Poder Ejecutivo, previa expedición de convocatoria.
+La Comisión estará a cargo de una presidenta o presidente elegido por el voto de las dos terceras partes de los integrantes presentes del Congreso del Estado, de la terna que enviará la persona titular del Poder Ejecutivo, previa expedición de convocatoria.
 
 Requisitos para ser presidente de la Comisión
 
@@ -1499,9 +1525,11 @@ El Estado y los municipios, coadyuvarán para el cumplimiento de los objetivos d
 
 Competencia de dependencias y organismo autónomo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 112.
 
-La Secretaría de Seguridad Pública, la Secretaría de Desarrollo Social y Humano, la Secretaría de Salud, la Secretaría de Educación de Guanajuato, la Secretaría de Innovación, Ciencia y Educación Superior, la Secretaría del Migrante y Enlace Internacional, el Sistema Estatal para el Desarrollo Integral de la Familia, el Instituto para las Mujeres Guanajuatenses, el Instituto Guanajuatense para las Personas con Discapacidad, sus correlativos en los municipios, así como la Procuraduría de los Derechos Humanos del Estado de Guanajuato dentro de su ámbito de competencia, deberán:
+La Secretaría de Seguridad y Paz, la Secretaría del Nuevo Comienzo, la Secretaría de Salud, la Secretaría de Educación de Guanajuato, la Secretaría de Derechos Humanos, la Secretaría de las Mujeres, el Sistema Estatal para el Desarrollo Integral de la Familia, sus correlativos en los municipios, así como la Procuraduría de los Derechos Humanos del Estado de Guanajuato dentro de su ámbito de competencia, deberán:
 
 I. Organizar, desarrollar, dirigir y adecuar las medidas, a través de planes, programas, líneas de acción, convenios de cooperación y coordinación, entre otros, para garantizar los derechos de las víctimas de delitos o de violación a sus derechos humanos;
 
@@ -1527,13 +1555,17 @@ XI. Brindar las medidas de atención prioritaria, determinadas por la Comisión,
 
 XII. Las demás previstas para el cumplimiento de la presente Ley, las normas reglamentarias respectivas y el Programa.
 
-La Secretaría de Educación de Guanajuato y la Secretaría de Innovación, Ciencia y Educación Superior, establecerán un programa de becas permanente para el caso de las víctimas directas e indirectas que se encuentren cursando los tipos básico, medio superior y superior en instituciones públicas, con la finalidad de que puedan continuar con sus estudios. Estos apoyos continuarán hasta el término de su educación superior.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+La Secretaría de Educación de Guanajuato establecerá un programa de becas permanente para el caso de las víctimas directas e indirectas que se encuentren cursando los tipos básico, medio superior y superior en instituciones públicas, con la finalidad de que puedan continuar con sus estudios. Estos apoyos continuarán hasta el término de su educación superior.
 
 En los casos en que la víctima esté cursando sus estudios en una institución particular, el apoyo se brindará hasta la conclusión del ciclo escolar en curso.
 
 La Secretaría de Salud, brindará de manera integral e interdisciplinaria atención médica, psicológica y servicios integrales a las víctimas, asegurando que en la prestación de los servicios se respeten sus derechos humanos.
 
-La Secretaría de Seguridad Pública e instituciones de seguridad pública municipales, deberán salvaguardar la integridad y patrimonio de las víctimas en situación de peligro cuando se vean amenazadas por disturbios y otras situaciones que impliquen violencia o riesgos inminentes o durante la prevención de la comisión de algún delito o violación a sus derechos humanos.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+La Secretaría de Seguridad y Paz e instituciones de seguridad pública municipales, deberán salvaguardar la integridad y patrimonio de las víctimas en situación de peligro cuando se vean amenazadas por disturbios y otras situaciones que impliquen violencia o riesgos inminentes o durante la prevención de la comisión de algún delito o violación a sus derechos humanos.
 
 ### CAPÍTULO II. ACCESO A LA JUSTICIA
 
@@ -1941,19 +1973,25 @@ El Fondo Estatal será fiscalizado anualmente por la Auditoría Superior del Est
 
 Subrogación en los derechos de las víctimas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 138.
 
-La Secretaría de Finanzas, Inversión y Administración se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al Fondo Estatal. Para tal efecto, se aportarán los medios de prueba idóneos para el ejercicio de los derechos derivados de la subrogación.
+La Secretaría de Finanzas se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al Fondo Estatal. Para tal efecto, se aportarán los medios de prueba idóneos para el ejercicio de los derechos derivados de la subrogación.
 
-El Ministerio Público estará obligado a ofrecer los medios probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor de la Secretaría de Finanzas, Inversión y Administración, en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+El Ministerio Público estará obligado a ofrecer los medios probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor de la Secretaría de Finanzas, en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
 
 En el caso de las compensaciones por error judicial, éstas se cubrirán con cargo al presupuesto del Poder Judicial del Estado de Guanajuato.
 
 Procedimiento económico coactivo y la subrogación
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 139.
 
-La Secretaría de Finanzas, Inversión y Administración ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación conforme a las disposiciones aplicables, sin perjuicio de que dicho cobro pueda reclamarse por la víctima en la vía civil, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en términos de las disposiciones que resulten aplicables.
+La Secretaría de Finanzas ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación conforme a las disposiciones aplicables, sin perjuicio de que dicho cobro pueda reclamarse por la víctima en la vía civil, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en términos de las disposiciones que resulten aplicables.
 
 Funcionamiento del Fondo Estatal en el Reglamento
 
@@ -2358,3 +2396,33 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La titular del Instituto para las Mujeres Guanajuatenses se integrará al Sistema Estatal de Búsqueda de Personas y al Sistema Estatal de Atención Integral a Víctimas de Guanajuato dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
