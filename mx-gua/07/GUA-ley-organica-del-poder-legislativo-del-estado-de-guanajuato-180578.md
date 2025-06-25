@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-180
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-06-20"
-last_updated: "2025-06-20"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2025 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JUNIO DE 2025.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 20 de junio de 2025.
 
@@ -1869,9 +1869,11 @@ No se publicarán las discusiones y documentos relacionados con las sesiones pri
 
 Lo anterior se aplicará en lo conducente a las Comisiones legislativas.
 
+> <small>(F. DE E., P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 159.
 
-Los asuntos generales que se presenten en sesión ordinaria no podrán exceder de tres minutos; en caso de contener alguna iniciativa, acuerdo o proposición estas no serán sometidas a discusión ni votación o turnadas a Comisión legislativa, en todo caso se enlistarán en el orden del día de la siguiente sesión ordinaria, para que, en el caso de las últimas informar sobre el turno.
+Los asuntos generales que se presenten en sesión ordinaria no podrán exceder de cinco minutos; en caso de contener alguna iniciativa, acuerdo o proposición estas no serán sometidas a discusión ni votación o turnadas a Comisión legislativa, en todo caso se enlistarán en el orden del día de la siguiente sesión ordinaria, para que, en el caso de las últimas informar sobre el turno.
 
 Se podrá solicitar el uso de la voz para alusiones personales o rectificación de hechos cuando concluya la persona oradora, por persona diputada por una sola ocasión hasta por tres minutos desde su curul.
 
