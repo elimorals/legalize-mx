@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-03"
-last_updated: "2024-07-19"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la segunda parte del Número 111 del Periódico Oficial del Estado de Guanajuato, el miércoles 3 de junio de 2020.
 
@@ -251,11 +251,11 @@ Todas las acciones que se emprendan para la investigación y búsqueda de Niñas
 
 Salvaguarda de derechos
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 10.
 
-Las autoridades de búsqueda e investigación, en el ámbito de sus competencias, se coordinarán con la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato para salvaguardar los derechos de las Niñas, Niños y Adolescentes y, en el caso de las mujeres con el Instituto para las Mujeres Guanajuatenses, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+Las autoridades de búsqueda e investigación, en el ámbito de sus competencias, se coordinarán con la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato para salvaguardar los derechos de las Niñas, Niños y Adolescentes y, en el caso de las mujeres con la Secretaría de las Mujeres, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
@@ -281,9 +281,9 @@ Servicios de asesoría
 
 La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato prestará servicios de asesoría a los familiares de Niñas, Niños y Adolescentes desaparecidas, sin perjuicio de los servicios que preste la Comisión de Búsqueda.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
 
-En el caso de mujeres desparecidas el Instituto para las Mujeres Guanajuatenses, prestará los servicios a que se refiere el párrafo anterior.
+En el caso de mujeres desparecidas la Secretaría de las Mujeres, prestará los servicios a que se refiere el párrafo anterior.
 
 Asimismo, podrá participar en las acciones de búsqueda y localización que realice la Comisión de Búsqueda o en las investigaciones que conduzca la Fiscalía Especializada.
 
@@ -307,9 +307,11 @@ La búsqueda e investigación será permanente y continua, en tanto la suerte y 
 
 Sanción ante el incumplimiento de la Ley
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 15.
 
-Los servidores públicos estatales y municipales que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionados en los términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y demás marco jurídico aplicable.
+Las personas servidoras públicas estatales y municipales que incumplan injustificadamente con alguna de las obligaciones previstas en esta Ley y que no constituyan un delito, serán sancionadas en los términos de lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y demás marco jurídico aplicable.
 
 Conductas graves
 
@@ -333,39 +335,61 @@ Integración del Sistema Estatal
 
 El Sistema Estatal se integra por:
 
-I. El titular de la Secretaría de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-II. El titular de la Fiscalía General del Estado;
+I. La persona titular de la Secretaría de Gobierno, quien lo presidirá;
 
-III. El titular de la Comisión de Búsqueda, quien fungirá como Secretaría Ejecutiva;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-IV. El titular de la Secretaría de Seguridad Pública;
+II. La persona titular de la Fiscalía General del Estado;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-V. El titular de la Secretaría de Salud;
+III. La persona titular de la Comisión de Búsqueda, quien fungirá como Secretaría Ejecutiva;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VI. El titular del Instituto para las Mujeres Guanajuatenses;
+IV. La persona titular de la Secretaría de Seguridad y Paz;
 
-VII. Tres integrantes del Consejo Ciudadano;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VIII. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
+V. La persona titular de la Secretaría de Salud;
 
-IX. El titular de la Comisión de Víctimas.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-Así como un representante del Poder Judicial del Estado de Guanajuato, que deberá ser convocado a cada reunión del Sistema Estatal, quien tendrá solo derecho a voz y no a voto.
+VI. La persona titular de la Secretaría de los Mujeres;
 
-Los presidentes municipales deberán ser convocados a las reuniones del Sistema Estatal, cuando se traten asuntos de su competencia, en dichas reuniones tendrán solo derecho a voz. Algún integrante del ayuntamiento será suplente del presidente municipal.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-Los integrantes del Sistema Estatal podrán nombrar a sus respectivos suplentes, quienes deben contar con el nivel jerárquico inmediato inferior.
+VII. Tres personas integrantes del Consejo Ciudadano;
 
-Tratándose del titular de la Fiscalía General, será suplente la persona titular de la Fiscalía Especializada.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+VIII. La persona titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
-Los integrantes e invitados del Sistema Estatal no recibirán pago o compensación alguna por su participación en el mismo.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IX. La persona titular de la Comisión de Víctimas.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Así como una persona representante del Poder Judicial del Estado de Guanajuato, que deberá ser convocada a cada reunión del Sistema Estatal, quien tendrá solo derecho a voz y no a voto.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Las personas titulares de las presidencias municipales deberán ser convocadas a las reuniones del Sistema Estatal, cuando se traten asuntos de su competencia, en dichas reuniones tendrán solo derecho a voz. Alguna persona integrante del Ayuntamiento será suplente de la persona titular de la presidencia municipal.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Las personas integrantes del Sistema Estatal podrán nombrar a sus respectivos suplentes, quienes deben contar con el nivel jerárquico inmediato inferior.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Tratándose de la persona titular de la Fiscalía General, será suplente la persona titular de la Fiscalía Especializada.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Las personas integrantes e invitadas del Sistema Estatal no recibirán pago o compensación alguna por su participación en el mismo.
 
 Quien presida el Sistema Estatal podrá invitar a las sesiones a representantes de los organismos autónomos, organismos internacionales, académicos, especialistas en la materia, según la naturaleza de los asuntos a tratar quienes tendrán solo derecho a voz.
 
@@ -2370,3 +2394,33 @@ P.O. 19 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 338 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 18 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán (sic) adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de las derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
