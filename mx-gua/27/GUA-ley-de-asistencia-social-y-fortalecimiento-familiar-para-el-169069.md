@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-asistencia-social-y-fortalecimiento-familiar-para-el-169
 country: "mx"
 rank: "ley"
 publication_date: "2024-01-04"
-last_updated: "2024-01-04"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ASISTENCIA SOCIAL Y FORTALECIMIENTO FAMILIAR PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Número 4 del Periódico Oficial del Estado de Guanajuato, el jueves 4 de enero de 2024.
 
@@ -345,25 +345,33 @@ El Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanaju
 
 Integrantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 13.
 
-Son integrantes del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato:
+Son las personas integrantes del Sistema de Asistencia Social y Fortalecimiento Familiar del Estado de Guanajuato:
 
 I. La Secretaría de Salud;
 
-II. La Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+II. Secretaría del Nuevo Comienzo;
 
 III. La Secretaría de Educación;
 
-IV. La Secretaría del Migrante y Enlace Internacional;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+IV. La Secretaría de Derechos Humanos;
 
 V. La Procuraduría de los Derechos Humanos del Estado de Guanajuato;
 
 VI. La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
 
-VII. El Instituto para las Mujeres Guanajuatenses;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
 
-VIII. El Instituto Guanajuatense para las Personas con Discapacidad;
+VII. La Secretaría de las Mujeres;
+
+VIII. (DEROGADA, P.O. 25 DE JUNIO DE 2025)
 
 IX. El Instituto para el Desarrollo y Atención de las Juventudes del Estado de Guanajuato;
 
@@ -515,11 +523,15 @@ Integración
 
 La Junta de Gobierno se integra por las personas siguientes:
 
-I. Titular de la Secretaría de Desarrollo Social y Humano, a quien corresponderá la presidencia;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. Titular de la Secretaría del Nuevo Comienzo, a quien corresponderá la presidencia;
 
 II. Titular de la Secretaría de Salud;
 
-III. Titular de la Secretaría de la Transparencia y Rendición de Cuentas;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+III. Titular de la Secretaría de la Honestidad;
 
 IV. Titular de la Dirección General del DIF Estatal; y
 
@@ -527,7 +539,9 @@ V. Titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adoles
 
 La Junta de Gobierno contará con una Secretaría Técnica designada por la misma, a propuesta de la persona titular de la Dirección General del DIF Estatal.
 
-Las personas integrantes de la Junta de Gobierno tendrán derecho a voz y voto, con excepción de la persona titular de la Secretaría de la Transparencia y Rendición de Cuentas, quien sólo tendrá derecho a voz.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+
+Las personas integrantes de la Junta de Gobierno tendrán derecho a voz y voto, con excepción de la persona titular de la Secretaría de la Honestidad, quien sólo tendrá derecho a voz.
 
 Las personas integrantes de la Junta de Gobierno serán suplidas por quienes designen como representantes, previa comunicación por escrito a la Secretaría Técnica.
 
@@ -1003,7 +1017,9 @@ Integración
 
 El Consejo Regulador estará integrado por:
 
-I. Una persona representante de la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2025)</small>
+
+I. Una persona representante de la Secretaría del Nuevo Comienzo;
 
 II. Una persona representante de la Secretaría de Salud;
 
@@ -1160,3 +1176,35 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 J. JESÚS OVIEDO HERRERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 66 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; ASÍ COMO TAMBIÉN SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE OTROS CATORCE ORDENAMIENTOS LEGALES, PARA CREAR LA SECRETARÍA DE LAS MUJERES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración
+
+Artículo Segundo. La Secretaría de las Mujeres, sustituye en su ámbito de competencia en todas sus obligaciones y asume los compromisos adquiridos por el Instituto de las Mujeres Guanajuatenses.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto para las Mujeres Guanajuatenses no deberán adquirir nuevos derechos y obligaciones.
+
+El personal del Instituto para las Mujeres Guanajuatenses pasará a integrar la Secretaría de las Mujeres, sin menoscabo de los derechos adquiridos de las personas trabajadoras de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar la Secretaría de Finanzas para esos exclusivos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos del Instituto para las Mujeres Guanajuatenses serán transferidos a la Secretaría de las Mujeres mediante la entrega recepción correspondiente, contando con la participación de los liquidadores en términos del párrafo siguiente.
+
+En el término de 10 días hábiles, a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado mediante oficio por la persona titular de la Secretaría de las Mujeres.
+
+En el mismo plazo señalado en el párrafo anterior, la Secretaría de Finanzas conformará un Comité de Extinción, que generará los Lineamientos para la liquidación y le dará seguimiento.
+
+El liquidador contará con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones del Instituto para las Mujeres Guanajuatenses y deberá enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así como la contabilidad se encuentre liquidada, cesarán sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Referencias
+
+Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
