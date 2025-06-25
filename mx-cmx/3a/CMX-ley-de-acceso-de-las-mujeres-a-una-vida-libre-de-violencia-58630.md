@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2025-04-11"
+last_updated: "2025-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -228,13 +228,15 @@ X. A la protección de su identidad y la de su familia.
 
 ### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 6.
 
 Los tipos de violencia contra las mujeres son:
 
-I. Violencia Psicoemocional: Toda acción u omisión dirigida a desvalorar, intimidar o controlar sus acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
+
+I. Violencia Psicoemocional: Toda acción u omisión dirigida a desvalorar, intimidar o controlar sus acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, celotipia, desdén, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, culpabilizar o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -250,17 +252,19 @@ La violencia física se sanciona de acuerdo con lo establecido en los artículos
 
 III. Violencia Patrimonial: Toda acción u omisión que ocasiona daño o menoscabo en los bienes muebles o inmuebles de la mujer y su patrimonio; también puede consistir en la sustracción, destrucción, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores o recursos económicos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
 
-La violencia patrimonial se sanciona de acuerdo con lo establecido en los artículos 200 y 236 del Código Penal para el Distrito Federal.
+La violencia patrimonial se sanciona de acuerdo con lo establecido en los artículos 200, 232 y 232 BIS del Código Penal para el Distrito Federal.
 
 IV. Violencia Económica: Toda acción u omisión que afecta la economía de la mujer, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, en la restricción, limitación y/o negación injustificada para obtener recursos económicos, percepción de un salario menor por igual trabajo, explotación laboral, exigencia de exámenes de no gravidez, así como la discriminación para la promoción laboral;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
 
-La violencia económica se sanciona de acuerdo con lo establecido en el artículo 193 del Código Penal para el Distrito Federal.
+La violencia económica se sanciona de acuerdo con lo establecido en los artículos 193, 194, 195, 196 y 197 del Código Penal para el Distrito Federal.
 
-V. Violencia Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no voluntarias, acoso, violación, explotación sexual comercial, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
+
+V. Violencia Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la mujer, como miradas o palabras lascivas, hostigamiento, prácticas sexuales no consensuadas, acoso, violación, explotación sexual comercial, tortura sexual, trata de personas para la explotación sexual o el uso denigrante de la imagen de la mujer;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -274,11 +278,13 @@ VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que lim
 
 La violencia contra los derechos reproductivos se concreta al no cumplir con lo establecido en el artículo 144 del Código Penal para el Distrito Federal.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 22 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
 
-VII. Violencia Obstétrica: Es toda acción u omisión que provenga de una o varias personas, que proporcionen atención médica o administrativa, en un establecimiento privado o institución de salud pública del gobierno de la Ciudad de México que dañe, lastime, o denigre a las mujeres de cualquier edad, cultura, grupo étnico u origen durante el embarazo, parto o puerperio, así como la negligencia, juzgamiento, maltrato, discriminación y vejación en su atención médica; se expresa por el trato deshumanizado, abuso de medicación y patologización de los procesos naturales, vulnerando la libertad e información completa, así como la capacidad de las mujeres para decidir libremente sobre su cuerpo, salud, sexualidad o sobre el número y espaciamiento de sus hijos. Se caracteriza por:
+VII. Violencia Obstétrica: Es toda acción u omisión que provenga de una o varias personas, que proporcionen atención médica o administrativa, en un establecimiento privado o institución de salud pública del gobierno de la Ciudad de México que dañe, lastime, o denigre a las mujeres o personas gestantes de cualquier edad, cultura, grupo étnico u origen durante el embarazo, parto o puerperio, así como la negligencia, juzgamiento, maltrato, discriminación y vejación en su atención médica; se expresa por el trato deshumanizado, abuso de medicación y patologización de los procesos naturales, vulnerando la libertad e información completa, así como la capacidad de las mujeres o personas gestantes para decidir libremente sobre su cuerpo, salud, sexualidad o sobre el número y espaciamiento de sus hijos. Se caracteriza por:
 
-a) Omitir o retardar la atención oportuna y eficaz de las emergencias y servicios obstétricos; especialmente cuando se trate de mujeres indígenas y/o afrodescendientes;
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+a) Omitir o retardar la atención oportuna y eficaz de las emergencias y servicios obstétricos; especialmente cuando se trate de mujeres indígenas y/o afrodescendientes o personas de la diversidad sexo-genérica;
 
 b) Obligar a la mujer a parir en condiciones ajenas a su voluntad o contra sus prácticas culturales, cuando existan los medios necesarios para la realización del parto humanizado y parto natural;
 
@@ -286,13 +292,21 @@ c) Obstaculizar el apego precoz de la niña o niño con su madre sin causa médi
 
 d) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de medicamentos o técnicas de aceleración, sin obtener el consentimiento voluntario, culturalmente adecuado, expreso e informado de la mujer;
 
-e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, o; Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, culturalmente adecuado, expreso e informado de la mujer; y
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, o; Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, culturalmente adecuado, expreso e informado de la mujer o persona gestante; y
 
 VIII. Violencia Feminicida: Toda acción u omisión que constituye la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujeres.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
 La violencia feminicida se sanciona de acuerdo con lo establecido en el artículo 148 Bis del Código Penal para el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 25 DE JUNIO DE 2025)</small>
+
+VIII Bis. Violencia Transfeminicida: Toda acción u omisión que constituye la forma extrema de violencia contra una mujer trans o persona cuya identidad o expresión de género, real o percibida, se encuentre dentro del espectro femenino de género, producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujer trans.
+
+La violencia transfeminicida se sanciona de acuerdo con lo establecido en el artículo 148 Ter del Código Penal para el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -310,9 +324,17 @@ Este tipo de violencia puede cometerse también a través de familiares o person
 
 Es particularmente grave cuando las instituciones destinadas a la atención y acceso a la justicia, al no reconocerla, emiten determinaciones, resoluciones y sentencias sin perspectiva de género vulnerando derechos humanos de las mujeres y el interés superior de la niñez.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE JUNIO DE 2025)</small>
+
+La violencia vicaria se sanciona de acuerdo con lo establecido en el artículo 201 Ter del Código Penal para el Distrito Federal.
+
 > <small>(ADICIONADA, G.O. 19 DE FEBRERO DE 2024)</small>
 
 XI. Violencia por ataques con ácido, sustancias químicas o corrosivas: Es cualquier acción u omisión que cause o busque causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuesto químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE JUNIO DE 2025)</small>
+
+La violencia por ataques con ácido, sustancias químicas o corrosivas se sanciona de acuerdo con lo establecido en los artículos 135 Bis, 135 Ter, 135 Quáter, y 135 Quinquies, del Código Penal para el Distrito Federal.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -338,7 +360,9 @@ II. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional
 
 La violencia en el noviazgo se sanciona de acuerdo con lo establecido en los artículos 131 y 148 Bis del Código Penal para el Distrito Federal;
 
-III. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
+
+III. Violencia Laboral: Es aquella que ocurre cuando se presenta la negativa a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, el acoso, la manipulación psicológica, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -432,9 +456,9 @@ r) Impedir u obstaculizar los derechos de asociación y afiliación en los parti
 
 s) Cualquier otro que tenga por objeto o resultado coartar los derechos político-electorales, incluyendo los motivados en razón de sexo o género.
 
-> <small>(ADICIONADA, G.O. 22 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 25 DE JUNIO DE 2025)</small>
 
-X. Violencia digital.- Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
+X. Violencia digital: Es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico, o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados o por inteligencia artificial de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -520,11 +544,11 @@ III. Todas aquellas que se consideren necesarias para atender, erradicar y sanci
 
 ### CAPÍTULO I. DEL GABINETE DE IGUALDAD SUSTANTIVA Y VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 11.
 
-Para la efectiva aplicación de la presente Ley, las dependencias, órganos y entidades de la Ciudad de México establecerán el Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México, entre las Secretarías de Gobierno, Inclusión y Bienestar Social, Seguridad Ciudadana, Trabajo y Fomento al Empleo, Salud, Educación, Ciencia, Tecnología e Innovación, Cultura, Desarrollo Urbano y Vivienda, Fiscalía General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y las dieciséis Alcaldías. El Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México establecido en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+Para la efectiva aplicación de la presente Ley, las dependencias, órganos y entidades de la Ciudad de México establecerán el Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México, entre las Secretarías de Gobierno, Bienestar e Igualdad Social, Seguridad Ciudadana, Trabajo y Fomento al Empleo, Salud, Educación, Ciencia, Tecnología e Innovación, Cultura, Vivienda, Planeación, Ordenamiento Territorial y Coordinación Metropolitana, Gestión Integral del Agua, Atención y Participación Ciudadana, Fiscalía General de Justicia, Consejería Jurídica y de Servicios Legales, Secretaría de las Mujeres, Procuraduría Social, Sistema de Transporte Público, Sistema para el Desarrollo Integral de la Familia de la Ciudad de México y las dieciséis Alcaldías. El Gabinete de Igualdad Sustantiva y Violencia contra las Mujeres para la Ciudad de México estableciendo (sic) en esta Ley se coordinará con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
 > <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
@@ -631,6 +655,40 @@ III. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
 IV. (DEROGADA, G.O. 2 DE SEPTIEMBRE DE 2021)
 
 V. Suscribir los convenios con instituciones públicas, privadas y académicas necesarios para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+###### Artículo 15 Ter.
+
+La Secretaría de Planeación, Ordenamiento Territorial y Coordinación Metropolitana, tendrá las siguientes atribuciones:
+
+I. Incorporar la perspectiva de género en las acciones de planeación y ordenamiento territorial, así como en los proyectos estratégicos metropolitanos, en el marco de sus facultades;
+
+II. Promover la coordinación entre los gobiernos de la zona metropolitana para la implementación de acciones y programas preventivos diseñados por las autoridades competentes, con el objetivo de prevenir la comisión de delitos y otros actos de violencia contra las mujeres, y
+
+III. Las demás que señalen las disposiciones legales correspondientes
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+###### Artículo 15 Quater.
+
+La Secretaría de Gestión Integral del Agua, tendrá las siguientes atribuciones:
+
+I. Diseñar e implementar políticas públicas que garanticen el acceso equitativo y no discriminatorio de las mujeres a los recursos hídricos;
+
+II. Fomentar la participación activa de las mujeres en la formulación, ejecución y evaluación de programas y proyectos relacionados con el abastecimiento y gestión del agua; y
+
+III. Las demás que le confieran las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+Artículo 15 Quintus. La Secretaría de Atención y Participación Ciudadana, tendrá las siguientes atribuciones:
+
+I. Coordinarse con la Secretaría de las Mujeres para la promoción y difusión de acciones de prevención territorial y comunitaria con el propósito de garantizar el respeto a los derechos de las mujeres, en particular su derecho a una vida libre de violencia;
+
+II. Fomentar la participación activa de las mujeres en asuntos públicos y en la solución de problemáticas que las afecten, particularmente aquellas relacionadas con la prevención de delitos y otros actos de violencia de género; y
+
+III. Las demás que le confieran las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
 
@@ -792,9 +850,11 @@ VIII. Reconocer e incentivar a las empresas que se abstengan de solicitar a las 
 
 IX. Las demás que le señalen las disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JUNIO DE 2025)</small>
+
 ###### Artículo 21.
 
-La Secretaría de Desarrollo Urbano y Vivienda deberá:
+La Secretaría de Vivienda deberá:
 
 I. Elaborar programas y acciones de desarrollo urbano y vivienda, que beneficien con créditos accesibles, otorgamiento y mejoramiento de vivienda, entre otros, a las mujeres víctimas de violencia, en forma prioritaria a aquellas que se encuentren en mayor condición de vulnerabilidad; y
 
@@ -1076,15 +1136,17 @@ III. Las dependencias, entidades de la Ciudad de México y las Alcaldías que at
 
 La Secretaría de las Mujeres de la Ciudad de México deberá:
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 I. Realizar acciones de atención multidisciplinaria y especializada, detección de riesgo de violencia feminicida y, en su caso, acompañamiento a mujeres y niñas en situación de violencia de género, que acudan (sic) las Unidades Territoriales de Atención, LUNAS, ubicadas en cada alcaldía. La atención se brindará con enfoque de género y derechos humanos;
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 II. Garantizar la aplicación de los instrumentos para la atención inicial, orientación jurídica y psicológica, y asistencia social en las Unidades Territoriales de Atención, LUNAS, quienes realizarán:
 
-a) Entrevista inicial a la víctima, elaboración de la Cédula de Registro único, detección de riesgo y en el caso de delitos sexuales, se deberá canalizar y acompañarla sin dilación alguna a la Procuraduría;
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+a) Entrevista inicial a la víctima, elaboración de la Cédula de Registro único, detección de riesgos y en el caso de delitos sexuales, se deberá canalizar y acompañarla sin dilación alguna a la Fiscalía:
 
 b) La orientación y asesoría jurídica a las víctimas de violencia de género;
 
@@ -1100,15 +1162,15 @@ d) Canalizar a la víctima para seguimiento y atención a la instancia correspon
 
 e) La gestión de su ingreso a los Centros de Refugio, en caso de resultar necesario.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 III. Coordinar y administrar el Programa de Reinserción Social para las mujeres egresadas de los Centros de Refugio, con la finalidad de generar las condiciones necesarias que les permitan superar su situación de exclusión social;
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 IV. Generar programas específicos en conjunto con la Secretaría de Salud de la Ciudad de México para atención de las mujeres en reclusión, internas en hospitales psiquiátricos y mujeres con capacidades especiales o diferentes;
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 V. Gestionar:
 
@@ -1118,13 +1180,15 @@ b) Ante la Secretaría del Trabajo y Fomento al Empleo, incentivar en las empres
 
 c) Ante el Sistema de Transporte Público, la obtención de credenciales que permitan la gratuidad del transporte para las mujeres que se encuentren en un albergue, por el espacio en que dure su estancia en el mismo;
 
-d) Ante la Secretaría de Desarrollo Urbano y Vivienda, facilitar los trámites para que las mujeres víctimas de violencia de género obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda;
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
+
+d) Ante la Secretaría de Vivienda, facilitar los trámites para que las mujeres víctimas de violencia de género obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda;
 
 e) Ante el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, el acceso preferencial y gratuito o a bajo costo, a estancias o guarderías para las y los hijos de las mujeres víctimas de violencia y, en conjunción con la Secretaría de Educación, Ciencia, Tecnología e Innovación, gestionar un programa de becas exclusivo para este tipo de población en riesgo y privilegiar su ingreso a escuelas cercanas al albergue o domicilio de las víctimas; y
 
 f) Con la Secretaría de Administración y Finanzas, la exención del pago en la emisión de documentos que requieran las víctimas de violencia de género para la substanciación de procedimientos en materia penal y civil instaurados con motivo de la violencia que viven.
 
-> <small>(REFORMADO, G.O. 19 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 19 DE OCTUBRE DE 2020)</small>
 
 VI. Dar seguimiento a los casos integrando el expediente con la cédula de registro único, documentos de referencia y soporte; y
 
@@ -1194,11 +1258,11 @@ I. Gestionar para que a las mujeres víctimas de violencia se les brinden facili
 
 II. Las demás que le atribuyan otras leyes y el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 25 DE JUNIO DE 2025)</small>
 
 ###### Artículo 40.
 
-La Secretaría de Desarrollo Urbano y Vivienda, en coordinación con la Secretaría de las Mujeres de la Ciudad de México y la Fiscalía, deberá facilitar los trámites para que las mujeres víctimas de violencia obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda. Este programa deberá considerar las condiciones de vulnerabilidad en las que se encuentren las mujeres víctimas.
+La Secretaría de Vivienda, en coordinación con la Secretaría de las Mujeres de la Ciudad de México y la Fiscalía, deberá facilitar los trámites para que las mujeres víctimas de violencia obtengan vivienda y/o créditos accesibles para la adquisición o mejoramiento de la vivienda. Este programa deberá considerar las condiciones de vulnerabilidad en las que se encuentren las mujeres víctimas.
 
 > <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
 
@@ -2347,3 +2411,21 @@ G.O. 11 DE ABRIL DE 2024.
 PRIMERO.- Remítase a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 25 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 11, EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 21, EL INCISO A) DE LA FRACCIÓN II Y EL INCISO D) DE LA FRACCIÓN V DEL ARTÍCULO 35, EL ARTÍCULO 40 Y SE ADICIONAN LOS ARTÍCULOS 15 TER, 15 QUATER Y 15 QUINTUS, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
