@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2025-03-08"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -571,11 +571,27 @@ Para efectos del artículo anterior, se considera información privilegiada la q
 
 La restricción prevista en el artículo anterior será aplicable inclusive cuando el Servidor Público se haya retirado del empleo, cargo o comisión, hasta por un plazo de un año.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2025)</small>
 
 ###### Artículo 57.
 
-Incurrirá en abuso de funciones el servidor público que ejerza atribuciones que no tenga conferidas o se valga de las que tenga, para realizar o inducir actos u omisiones arbitrarios, para generar un beneficio para sí o para las personas a las que se refiere la presente Ley o para causar perjuicio a alguna persona o al servicio público. Así como a quien utilice el ejercicio de su cargo público y/o los recursos públicos para cometer algún acto de violencia de género o a las infancias valiéndose de su poder o autoridad, contempladas en las leyes y códigos relativos a la materia correspondiente.
+Comete abuso de funciones el servidor público en el desempeño de su cargo, cuando por actos u omisiones, incurra en alguna de las siguientes conductas:
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+I. Ejercer atribuciones que no le hayan sido conferidas o utilizar las que tenga asignadas, para realizar o inducir actos u omisiones arbitrarios que beneficien a sí mismo, a terceros, o que perjudiquen a una persona o al servicio público;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+II. Efectuar, tolerar o propiciar, por sí mismo o a través de otra persona, conductas de acoso sexual, hostigamiento sexual o cualquier otra forma de violencia que atente contra la dignidad, derechos e integridad de las personas, incluyendo aquellas previstas en la Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo; y,
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+III. Utilizar su posición para menoscabar los derechos humanos o generar un ambiente hostil que vulnere el respeto, la igualdad y el desarrollo de las personas afectadas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+Estas conductas serán sancionadas conforme a la legislación aplicable, con el propósito de erradicar la violencia, garantizar el respeto a los derechos humanos.
 
 > <small>(ADICIONADO, P.O. 25 DE ENERO DE 2021)</small>
 
@@ -1896,3 +1912,9 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo (sic), así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 26 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 184 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LAS FRACCIONES I, II Y III Y, UN SEGUNDO PÁRRAFO AL ARTÍCULO 57 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
