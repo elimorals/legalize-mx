@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-social-y-humano-para-el-estado-y-los-50742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2018-09-21"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de junio de 2006.
 
@@ -73,13 +73,17 @@ VII. Fomentar el sector social de la economía;
 
 VIII. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-IX. Fomentar la organización y participación ciudadana para el desarrollo social y humano, y
+IX. Fomentar la organización y participación ciudadana para el desarrollo social y humano;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-X. Establecer mecanismos de evaluación de los programas y acciones de la política pública estatal.
+X. Establecer mecanismos de evaluación de los programas y acciones de la política pública estatal; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XI. Implementar acciones para la protección y restauración del tejido social.
 
 ###### Artículo 2.
 
@@ -105,21 +109,23 @@ VII. Políticas públicas: Las políticas públicas estatal y municipales para e
 
 VIII. Programa social: Instrumento que conjuga acciones y proyectos gubernamentales coherentes con las políticas públicas, tendiente a contribuir y fortalecer las condiciones y oportunidades de diferentes sectores de la población, para satisfacer sus necesidades individuales y sociales, que permitan elevar su calidad de vida;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-IX. Secretaría: La Secretaría de Desarrollo Social y Humano;
+IX. Secretaría: Secretaría del Nuevo Comienzo;
 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 X. Sector social de la economía: Aquel que se encuentra conformado por los ejidos, organizaciones de trabajadores, cooperativas, comunidades, empresas sociales y, en general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XI. Sistema Estatal: El Sistema Estatal para el Desarrollo Social y Humano, y
+XI. Sistema Estatal: El Sistema Estatal para el Desarrollo Social y Humano;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XII. Zonas de atención prioritaria: Conjunto de localidades urbanas o rurales definidas por la Secretaría, con base en los índices de marginación y rezago social, caracterizadas por su población que vive condiciones de vulnerabilidad.
+XII. Tejido social: Se entiende como un conjunto de redes de relaciones, vínculos y prácticas sociales que contribuyen al bienestar y la cohesión de una comunidad, fomentando un sentido de pertenencia, solidaridad, el altruismo, la cooperación y responsabilidad compartida entre sus integrantes; y
+
+XIII. Zonas de atención prioritaria: Conjunto de localidades urbanas o rurales definidas por la Secretaría, con base en los índices de marginación y rezago social, caracterizadas por su población que vive condiciones de vulnerabilidad.
 
 ###### Artículo 3.
 
@@ -187,15 +193,25 @@ IX. Implementar los mecanismos de coordinación para ejercer los fondos y recurs
 
 X. Informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el ejercicio de los fondos y recursos federales que los ayuntamientos realicen en los términos de los convenios específicos;
 
-XI. Informar a la sociedad sobre las acciones en torno al desarrollo social, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+XI. Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
-XII. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social y humano, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XII. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social y humano;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XIII. Implementar acciones para la protección y restauración del tejido social;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XIV. Llevar a cabo diagnósticos cualitativos y cuantitativos para identificar la condición del tejido social y promover las acciones para evitar su deterioro, así como aquellas enfocadas, en su caso, para su restauración; y
 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-XIII. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
+XV. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
 
 ###### Artículo 7.
 
@@ -501,11 +517,27 @@ V. Fomentar en sus miembros la participación y acceso a la capacitación, el tr
 
 El Ejecutivo del Estado en coordinación con los municipios estimulará la organización de personas, familias y grupos sociales, destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
 
-### CAPÍTULO I. Del objeto e integración
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO V. De las acciones para la protección y restauración del tejido social
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 20 Quinquies.
+
+La Secretaría en coordinación con las autoridades correspondientes, llevará a cabo las siguientes acciones:
+
+I. Implementar programas de educación cívica, emocional y en derechos humanos, así como campañas de sensibilización para fomentar valores como el respeto, la tolerancia, la empatía, la responsabilidad social y la no violencia;
+
+II. Fomentar actividades culturales, artísticas, deportivas y recreativas que fortalezcan el sentido de comunidad y pertenencia, así como el desarrollo de habilidades sociales y emocionales;
+
+III. Impulsar la creación, mantenimiento y mejora de espacios públicos seguros y accesibles que promuevan la convivencia comunitaria, el desarrollo cultural y el esparcimiento sano, tales como parques, centros comunitarios, bibliotecas y otros lugares de encuentro; y
+
+IV. Promover iniciativas comunitarias ciudadanas que contribuyan a la protección y restauración del tejido social, priorizando aquellas que fomenten la integración social el desarrollo comunitario, la prevención de la violencia y la promoción de la paz.
 
 ## TÍTULO TERCERO. Del Sistema Estatal de Desarrollo Social y Humano
 
-### CAPÍTULO II. Del Consejo Consultivo para el Desarrollo Social y Humano
+### CAPÍTULO I. Del objeto e integración
 
 ###### Artículo 21.
 
@@ -535,9 +567,7 @@ VI. Impulsar y fortalecer al sector social de la economía.
 
 La coordinación del Sistema Estatal corresponde al Ejecutivo del Estado, a través de la Secretaría, con la concurrencia de las dependencias y entidades estatales relacionadas con la materia, los municipios, las organizaciones y el sector social de la economía, de conformidad con la Ley de Planeación para el Estado de Guanajuato y en concordancia con el Sistema Nacional de Desarrollo Social.
 
-### CAPÍTULO III. Del Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO II. Del Consejo Consultivo para el Desarrollo Social y Humano
 
 ###### Artículo 23.
 
@@ -593,7 +623,9 @@ El funcionamiento y organización del Consejo se regulará además de lo dispues
 
 La Secretaría prestará al Consejo la colaboración y apoyo necesario para el ejercicio de sus atribuciones.
 
-### CAPÍTULO I. De la participación de las organizaciones
+### CAPÍTULO III. Del Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 29.
 
@@ -617,7 +649,7 @@ El Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano s
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO II. Del Registro Estatal de Organizaciones de la Sociedad
+### CAPÍTULO I. De la participación de las organizaciones
 
 ###### Artículo 32.
 
@@ -637,9 +669,7 @@ El Gobierno del Estado y los ayuntamientos estimularán la organización de pers
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO ÚNICO. De la evaluación de la política pública estatal de desarrollo social y humano
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+### CAPÍTULO II. Del Registro Estatal de Organizaciones de la Sociedad
 
 ###### Artículo 36.
 
@@ -655,7 +685,7 @@ El Gobierno del Estado y los ayuntamientos estimularán la organización de pers
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPÍTULO ÚNICO. De las Sanciones
+### CAPÍTULO ÚNICO. De la evaluación de la política pública estatal de desarrollo social y humano
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -686,6 +716,10 @@ La evaluación será interna o externa, misma que se le deberá dar publicidad.
 ## TÍTULO SEXTO. De las Responsabilidades
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPÍTULO ÚNICO. De las Sanciones
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 41.
 
@@ -758,3 +792,9 @@ Artículo Cuarto. El Gobernador del Estado expedirá el Reglamento de la Ley par
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Quinto. El Gobernador del Estado expedirá el Programa Estatal de Migración, Hospitalidad, e Interculturalidad, en un plazo que no exceda de ciento ochenta días, contados a partir de la constitución de la Secretaría del Migrante y Enlace Internacional.
+
+P.O. 26 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 69, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
