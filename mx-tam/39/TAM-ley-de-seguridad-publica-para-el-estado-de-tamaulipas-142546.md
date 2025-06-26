@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2025-05-24"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -403,7 +403,9 @@ V.- Ejecutar los acuerdos y convenios que se suscriban en materia de seguridad p
 
 VI.- Proponer al Ayuntamiento el nombramiento de los titulares de la Dirección de Seguridad Pública Municipal, de la Policía Preventiva y de Tránsito y Vialidad, previa consulta de los antecedentes del aspirante en el Registro de Personal de Seguridad Pública a que se refiere esta Ley y que avalen su propuesta; asimismo, hará lo propio tratándose de cualquier otro cargo directivo, ya sea operativo, técnico o administrativo, adscrito, dependiente o vinculado a las tareas de seguridad pública;
 
-VII.- Autorizar altas, bajas y cambios de adscripción del personal de las instituciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta Ley o a los reglamentos respectivos, informando de ello a la Secretaría y a la Dirección de Enlace Informático del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+VII.- Autorizar altas, bajas y cambios de adscripción del personal de las instituciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta Ley o a los reglamentos respectivos, informando de ello a la Secretaría y a la Dirección del Centro Estatal de Información del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 VIII.- Establecer, actualizar y fortalecer el Registro Municipal del Personal de las Instituciones Preventivas de Policía y Tránsito. Dicho Registro contendrá: los datos generales de identificación del servidor público, sus huellas dactilares, fotografías de frente y de perfil, tipo sanguíneo; de ser el caso, las señas particulares que tuviera, datos de escolaridad y antecedentes laborales, condecoraciones, estímulos y, en su caso, sanciones merecidas, cursos de actualización recibidos y, en general, toda información que permita una exacta identificación del servidor público. Igualmente, la información general de su familia y amistades;
 
@@ -447,9 +449,11 @@ XXVII.- Establecer la instancia idónea para la defensa legal, en todas las etap
 
 XXVIII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-Los Presidentes Municipales, ya sea directamente o por conducto del o los titulares de las áreas de seguridad pública, tienen la obligación de registrar y consultar, permanentemente, en la Dirección de Enlace Informático del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la totalidad de la información a que se refiere el Capítulo III, del Título Sexto de esta Ley.
+Las y los Presidentes Municipales, ya sea directamente o por conducto del o los titulares de las áreas de seguridad pública, tienen la obligación de registrar y consultar, permanentemente, en la Dirección del Centro Estatal de Información del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la totalidad de la información a que se refiere el Capítulo III, del Título Sexto de esta Ley.
 
 ## TÍTULO TERCERO. DE LAS DEPENDENCIAS DE SEGURIDAD PÚBLICA
 
@@ -463,7 +467,9 @@ La Secretaría es la dependencia encargada de la función de seguridad pública 
 
 ###### ARTÍCULO 18.
 
-1.- El Secretario vigilará que las instituciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Dirección de Enlace Informático del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Sexto de esta Ley, según corresponda.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+1.- La persona titular de la Secretaría vigilará que las instituciones a su cargo y los cuerpos de seguridad municipales registren y consulten permanentemente en la Dirección del Centro Estatal de Información del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la información a que se refiere el Capítulo III, del Título Sexto de esta Ley, según corresponda.
 
 2.- En caso de incumplimiento, impondrán las sanciones establecidas en esta Ley a los titulares de las instituciones a su cargo y tratándose de instituciones municipales, sugerirá a los Presidentes Municipales lo propio, con respecto a los titulares de los cuerpos de seguridad de ese ámbito que hayan incumplido con las disposiciones relativas.
 
@@ -807,7 +813,9 @@ I.- Formular y ejecutar el programa de trabajo de la institución a su cargo e i
 
 II.- Ejecutar las acciones y operativos específicos que le instruya su inmediato superior jerárquico;
 
-III.- Registrar y consultar permanentemente en la Dirección de Enlace Informático del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la información a que se refiere el Capítulo III del Título Sexto de esta Ley, según corresponda, absteniéndose de autorizar el ingreso de quien tuviera antecedentes negativos o inconvenientes;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+III.- Registrar y consultar permanentemente en la Dirección del Centro Estatal de Información del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la información a que se refiere el Capítulo III del Título Sexto de esta Ley, según corresponda, absteniéndose de autorizar el ingreso de quien tuviera antecedentes negativos o inconvenientes;
 
 IV.- Promover el Servicio Profesional de Carrera a los Integrantes que se encuentren a su mando;
 
@@ -869,7 +877,9 @@ IX.- Las demás que les señalen las disposiciones jurídicas y reglamentarias a
 
 ###### ARTÍCULO 30.
 
-Las personas titulares de las instituciones estatales y municipales de seguridad pública, presentarán un informe trimestral o con la periodicidad que se requiera, ante sus instancias superiores y dispondrán su registro en la Dirección de Enlace Informático del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la información relativa a la evaluación de la actuación de las instituciones de seguridad pública a su cargo, que por lo menos comprenderá:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE JUNIO DE 2025)</small>
+
+Las personas titulares de las instituciones estatales y municipales de seguridad pública, presentarán un informe trimestral o con la periodicidad que se requiera, ante sus instancias superiores y dispondrán su registro en la Dirección del Centro Estatal de Información del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la información relativa a la evaluación de la actuación de las instituciones de seguridad pública a su cargo, que por lo menos comprenderá:
 
 I.- La capacidad de respuesta a los llamados, para la intervención de las instituciones de seguridad pública actuantes en su territorio, referente a:
 
@@ -1621,7 +1631,9 @@ La estructura de los Consejos Municipales e Intermunicipales de Seguridad Públi
 
 ### CAPÍTULO III. DE LA INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
-#### Sección Primera. DE LA DIRECCIÓN DE ENLACE INFORMÁTICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2025)</small>
+
+#### Sección Primera. DE LA DIRECCIÓN DEL CENTRO ESTATAL DE INFORMACIÓN
 
 ###### ARTÍCULO 91.
 
@@ -1669,19 +1681,25 @@ e).- Pérdida de la confianza; o
 
 f).- Los demás que señale cualquier otra disposición legal.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 96.
 
-La información relativa al personal de seguridad pública, sólo podrá registrarse ante la Dirección de Enlace Informático del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en los lugares que se designen para tal efecto, siempre y cuando cumpla con la consulta previa de antecedentes y haber acreditado el proceso de evaluación en materia de control de confianza.
+La información relativa al personal de seguridad pública, sólo podrá registrarse ante la Dirección del Centro Estatal de Información del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en los lugares que se designen para tal efecto, siempre y cuando cumpla con la consulta previa de antecedentes y haber acreditado el proceso de evaluación en materia de control de confianza.
 
 ###### ARTÍCULO 97.
 
-1.- El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, una vez efectuado el registro en la Dirección de Enlace Informático, expedirá y remitirá a la autoridad requirente la constancia que contenga la Clave Única de Identificación Permanente que se haya asignado, la cual deberá insertarse en el texto del nombramiento que se otorgue.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+1.- El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, una vez efectuado el registro en la Dirección del Centro Estatal de Información, expedirá y remitirá a la autoridad requirente la constancia que contenga la Clave única de Identificación Permanente que se haya asignado, la cual deberá insertarse en el texto del nombramiento que se otorgue.
 
 2.- La credencial que expida la persona titular de la dependencia que corresponda, deberá contener la Clave Única de Identificación Permanente, además de los datos que las disposiciones legales aplicables ordenen.
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
 ###### ARTÍCULO 98.
 
-Los integrantes de las dependencias e instituciones de seguridad pública están obligados a notificar, ante su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad, y éstos, de notificarlo a la Dirección de Enlace Informático.
+Las y los integrantes de las dependencias e instituciones de seguridad pública están obligados a notificar, ante su superior jerárquico inmediato, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad, y éstos, de notificarlo a la Dirección del Centro Estatal de Información.
 
 ### CAPÍTULO IV. DEL SERVICIO DE ATENCIÓN AL PÚBLICO
 
@@ -2698,3 +2716,19 @@ P.O. 24 DE MAYO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-352 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría de Seguridad Pública a realizar las adecuaciones normativas y reglamentarias a las que haya lugar, derivados de la presente reforma, sin que se exceda el plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
