@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2025-02-20"
+last_updated: "2025-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1341,6 +1341,10 @@ XV. Las demás que establezcan las disposiciones legales aplicables.
 
 La certificación es el proceso mediante el cual los integrantes de las instituciones policiales se someten a las evaluaciones periódicas establecidas por el Centro Estatal de Evaluación y Control de Confianza, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos, médicos, toxicológicos y de confianza a través del polígrafo u otros métodos, en los procedimientos de ingreso, promoción y permanencia.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+Los resultados de los procesos de evaluación y los expedientes integrados al efecto, serán confidenciales, salvo en aquellos casos en que deban presentarse por las partes, en procedimientos administrativos o judiciales debiendo mantener en reserva en los términos de las disposiciones jurídicas aplicables.
+
 ###### ARTICULO 60.
 
 La certificación tiene por objeto:
@@ -2634,3 +2638,11 @@ La Secretaría General de Gobierno, en coordinación con la Contraloría Guberna
 ###### ARTÍCULO TERCERO.
 
 El Secretariado Ejecutivo del Sistema de Seguridad Pública deberá expedir la normatividad secundaria del Servicio Profesional de Carrera de los servicios de emergencia 911 y de denuncia ciudadana 089, en un término de 60 días naturales. Asimismo, deberá realizar las modificaciones administrativas y presupuestales correspondientes en el mismo término.
+
+P.O. 26 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-353 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 59, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
