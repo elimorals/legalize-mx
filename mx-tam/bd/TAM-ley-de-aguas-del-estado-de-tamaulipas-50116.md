@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2025-03-06"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -386,6 +386,24 @@ LXXVII. Uso Público: La utilización de agua de uso público urbano para el uso
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 LXXVIII. Usuarios: Las personas físicas o morales que reciban los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 2 Bis.
+
+La presente Ley se regirá por los siguientes principios:
+
+I. El agua es un bien de dominio público, vital, vulnerable y finito, con valor económico, social y ambiental, cuya preservación en cantidad y calidad es una responsabilidad compartida entre el Estado y la sociedad;
+
+II. Queda prohibida toda discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar el derecho al acceso a los servicios de agua potable y tratamiento para consumo personal y doméstico;
+
+III. La prestación de los servicios debe realizarse con eficiencia, eficacia y promoverse su aprovechamiento sustentable, su recirculación y reutilización;
+
+IV. La gestión de los servicios públicos debe generar recursos económicos y financieros necesarios para realizar las tareas a cargo de las y los prestadores del servicio, reconociendo socialmente que éstos deben cuantificarse y pagarse por quienes los utilizan, conforme a lo establecido en la presente Ley y demás disposiciones aplicables;
+
+V. El uso doméstico y el público urbano del agua son preferentes respecto de cualquier otro uso; y
+
+VI. Las personas físicas o morales que contaminen el agua son responsables de restaurar su calidad, con independencia de hacerse acreedoras a las sanciones que establezcan las disposiciones aplicables.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -3675,4 +3693,12 @@ P.O. 6 DE MARZO DE 2025.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 26 DE JUNIO DE 2025.
+
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-251 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN XVIII, Y 176, FRACCIÓN III, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-356 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
