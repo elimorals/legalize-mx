@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2024-09-25"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -78,6 +78,10 @@ V. Educación de excelencia: entendida como el mejoramiento integral constante q
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
 
 V bis. Educación en gestión menstrual: los conocimientos y acciones tendientes a disminuir las brechas de desigualdad en el proceso educativo para las mujeres con motivo de la menstruación, entendiendo esta como el sangrado vaginal que ocurre como parte del ciclo sexual femenino;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+V ter. Educación sexual integral y reproductiva: implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual, así como la detección de cualquier conducta de riesgo;
 
 VI. Educando: a las niñas, niños, adolescentes, jóvenes y todas aquellas personas que cursan sus estudios en alguna institución de los tipos de educación básico, medio superior y superior, de carácter público o privado con autorización o reconocimiento de validez oficial de estudios por parte de las autoridades correspondientes;
 
@@ -541,9 +545,9 @@ X. Realizarán programas educativos que tiendan a elevar los niveles académicos
 
 XI. Desarrollarán programas con perspectiva de género, para otorgar becas y demás apoyos económicos, preferentemente a educandos que enfrenten condiciones económicas y sociales desfavorables, a efecto de que puedan ejercer su derecho a la educación;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XI. bis. Coordinarse con la Secretaría de Salud para realizar acciones afirmativas para impulsar la educación menstrual, la prevención del embarazo infantil y adolescente, y facilitarles continuar su proceso educativo en el caso de embarazo, sin discriminación en las escuelas pertenecientes al Sistema Educativo Estatal;
+XI bis. Coordinarse con la Secretaría de Salud para realizar acciones afirmativas para impulsar la educación sexual integral y reproductiva, la educación menstrual, la prevención del embarazo infantil y adolescente, y facilitarles continuar su proceso educativo en el caso de embarazo, sin discriminación en las escuelas pertenecientes al Sistema Educativo Estatal;
 
 XII. Impulsarán programas dirigidos a los padres de familia, que les permitan dar mejor atención a sus hijas, hijos o pupilos, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
@@ -721,9 +725,9 @@ VIII. Gestionar los recursos para el apoyo de los servicios educativos de su com
 
 IX. Vigilar el cumplimiento del calendario escolar aplicable a la educación básica;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-X. Promover de manera progresiva conforme a su edad, desarrollo educativo, cognoscitivo y madurez en los educandos, el conocimiento y formación en materia de educación sexual, prevención del embarazo infantil y adolescente, orientación vocacional con perspectiva de género y métodos de estudio, que contribuya al desarrollo de sus proyectos de vida;
+X. Promover de manera progresiva conforme a su edad, desarrollo educativo, cognoscitivo y madurez en los educandos, el conocimiento y formación en materia de educación sexual integral y reproductiva, prevención del embarazo infantil y adolescente, orientación vocacional con perspectiva de género y métodos de estudio, que contribuya al desarrollo de sus proyectos de vida;
 
 XI. Establecer los mecanismos administrativos para que el Sistema Educativo Estatal opere en forma integrada, con el seguimiento y evaluación de su ejecución;
 
@@ -767,9 +771,9 @@ XXIX. Prohibir la comercialización o la distribución dentro de las institucion
 
 XXX. Diseñar, implementar, promover, organizar y apoyar programas de actividades físicas, deportivas, de recreación y nutrimentales para preservar la salud física y mental de los educandos;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XXXI. Implementar programas de formación, dirigidos a los padres de familia, tutores o quienes ejerzan la patria potestad, para la prevención del embarazo infantil y adolescente, así como impulsar el desarrollo familiar y de competencias socioemocionales que favorezcan la formación integral de sus hijas, hijos o pupilos;
+XXXI. Implementar programas de formación, dirigidos a los padres de familia, tutores o quienes ejerzan la patria potestad, en materia de educación sexual integral y reproductiva, para la prevención del embarazo infantil y adolescente, así como impulsar el desarrollo familiar y de competencias socioemocionales que favorezcan la formación integral de sus hijas, hijos o pupilos;
 
 XXXII. Promover en los educandos e instituciones educativas la práctica de una cultura sobre el uso racional del agua y los recursos naturales;
 
@@ -841,9 +845,9 @@ XI. Coadyuvar con las demás autoridades educativas en la promoción e impulso d
 
 XII. Aplicar la totalidad de los recursos destinados o aprobados para la promoción o prestación de servicios educativos, sin modificar su finalidad o asignación, en los términos de esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XIII. Colaborar con las autoridades competentes en la realización de programas de educación para la salud, prevención del embarazo infantil y adolescente, el mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar las adicciones, de conformidad con los convenios que para tal efecto se celebren; y
+XIII. Colaborar con las autoridades competentes en la realización de programas de educación para la salud y educación sexual integral y reproductiva, prevención del embarazo infantil y adolescente, el mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar las adicciones, de conformidad con los convenios que para tal efecto se celebren; y
 
 XIV. Las demás que le señalen otras disposiciones legales.
 
@@ -1981,9 +1985,11 @@ Además, colaborarán con las autoridades educativas y escolares, para que sus h
 
 Orientación para las familias de los educandos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2025)</small>
+
 ###### Artículo 160.
 
-En el ámbito de sus respectivas competencias, las autoridades educativas de la Entidad desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, vínculo afectivo, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, prevención del embarazo infantil y adolescente, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a los padres de familia, proporcionar una mejor atención y educación a sus hijas, hijos o pupilos.
+En el ámbito de sus respectivas competencias, las autoridades educativas de la Entidad desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, vínculo afectivo, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, educación sexual integral y reproductiva, prevención del embarazo infantil y adolescente, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a los padres de familia, proporcionar una mejor atención y educación a sus hijas, hijos o pupilos.
 
 Derechos de los padres de familia
 
@@ -2041,9 +2047,9 @@ VIII. Conocer la normativa aplicable de los centros escolares y coadyuvar en su 
 
 IX. Conducirse en un marco de respeto ante la comunidad educativa;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-IX. bis. Tomar la capacitación que les proporcionen las autoridades educativas y de salud en materia de prevención del embarazo infantil y adolescente; y
+IX bis. Participar en las actividades en materia de educación sexual integral y reproductiva y de prevención del embarazo infantil y adolescente que organicen las comunidades educativas y autoridades; y
 
 X. Las demás que se desprendan de las disposiciones aplicables.
 
@@ -2123,9 +2129,9 @@ XII. Colaborar con las autoridades educativas en las actividades y campañas de 
 
 XIII. Presentar quejas por presuntas irregularidades que cometan las autoridades educativas en sus funciones, conforme a las leyes y reglamentos respectivos;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XIII bis. Socializar la importancia de las acciones orientadas a la prevención del embarazo infantil y adolescente;
+XIII bis. Socializar la importancia de la educación sexual integral y reproductiva y de las acciones orientadas a la prevención del embarazo infantil y adolescente;
 
 XIV. Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; y
 
@@ -3334,3 +3340,9 @@ P.O. 25 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 346, POR EL CUAL SE REFORMAN LOS ARTÍCULOS 34 EN SU FRACCIÓN XI BIS; 42 EN SUS FRACCIONES X, XXXI Y XLIII; 43 EN SU FRACCIÓN XIII; 160 Y 162 EN SU FRACCIÓN IX; Y SE ADICIONAN A LOS ARTÍCULOS 162 LA FRACCIÓN IX BIS; Y 169 LA FRACCIÓN XIII BIS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 26 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 67, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
