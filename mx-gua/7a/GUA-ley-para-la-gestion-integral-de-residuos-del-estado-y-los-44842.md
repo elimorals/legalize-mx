@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-gestion-integral-de-residuos-del-estado-y-los-44842
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2024-01-04"
+last_updated: "2025-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el 10 de mayo de 2005.
 
@@ -41,9 +41,11 @@ LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJU
 
 ### CAPÍTULO ÚNICO. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto propiciar el desarrollo sustentable por medio de la regulación de la generación, valorización y gestión integral de los residuos sólidos urbanos y de manejo especial, así como la prevención de la contaminación y la remediación de suelos contaminados con residuos.
+La presente Ley es de orden público e interés general y tiene por objeto propiciar el desarrollo sustentable por medio de la regulación de la generación, valorización y gestión integral de los residuos sólidos urbanos y de manejo especial, así como la prevención de la contaminación y la remediación de sitios contaminados con residuos.
 
 ###### Artículo 2.
 
@@ -65,37 +67,73 @@ III. Composteo: El proceso de descomposición aerobia de la materia orgánica me
 
 IV. Contenedor: El recipiente destinado al depósito ambientalmente adecuado y de forma temporal de residuos sólidos urbanos o de manejo especial, durante su acopio y traslado;
 
-V. Diagnóstico básico: El estudio elaborado por la autoridad correspondiente que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-VI. Empresa de servicio de manejo: Persona física o moral registrada y autorizada a prestar servicios a terceros para realizar cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
+V. Co-procesamiento: Integración ambientalmente segura de los residuos generados por una industria o fuente conocida, como insumo a otro proceso productivo;
 
-VII. Gran generador: Persona física o moral que genere una cantidad igual o mayor a diez toneladas de residuos al año;
+VI. Diagnóstico básico: El estudio elaborado por la autoridad correspondiente que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente;
 
-VIII. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
+VII. Empresa de servicio de manejo: Persona física o moral registrada y autorizada a prestar servicios a terceros para realizar cualquiera de las etapas comprendidas en el manejo integral de los residuos de manejo especial y de aquellas etapas del manejo integral de residuos sólidos urbanos susceptibles de autorización;
 
-IX. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
+VIII. Gran generador: Persona física o moral que genere una cantidad igual o mayor a diez toneladas de residuos al año;
 
-X. Minimización: El conjunto de medidas dirigidas a disminuir la generación de residuos y a aprovechar el valor de aquellos cuya generación no sea posible evitar;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+IX. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+X. Intermunicipales: Que se administra por dos o más municipios;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XI. Inventario de residuos: Base de datos en la cual se asientan con orden y clasificación los volúmenes de generación de los diferentes residuos, que se integra a partir de la información proporcionada por los generadores en los formatos establecidos para tal fin, de conformidad con lo dispuesto en este ordenamiento;
+
+XII. Ley General: Ley General para la Prevención y Gestión Integral de los Residuos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XIII. Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+
+XIV. Minimización: El conjunto de medidas dirigidas a disminuir la generación de residuos y a aprovechar el valor de aquellos cuya generación no sea posible evitar;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XV. Pequeño generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-XI. Procuraduría: La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato;
+XVI. Procuraduría: La Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato;
 
-XII. Recolección: La acción de recibir los residuos sólidos urbanos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas, almacenarlos, reutilizarlos, reciclarlos, tratarlos o disponer de ellos en rellenos sanitarios o en sitios controlados;
+XVII. Recolección: La acción de recibir los residuos sólidos urbanos o de manejo especial de sus generadores y trasladarlos a las instalaciones autorizadas, almacenarlos, reutilizarlos, reciclarlos, tratarlos o disponer de ellos en rellenos sanitarios o en sitios controlados;
 
-XIII. Residuos inorgánicos: Son aquellos no biodegradables;
+XVIII. Residuos inorgánicos: Son aquellos no biodegradables;
 
-XIV. Residuos orgánicos: Aquellos que por sus características son biodegradables;
+XIX. Residuos orgánicos: Aquellos que por sus características son biodegradables;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XV. Secretaría: La Secretaría de Medio Ambiente y Ordenamiento Territorial;
+XX. Secretaría: La Secretaría del Agua y Medio Ambiente;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XVI. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales, y
+XXI. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
 
-XVII. Sistema de manejo ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XXII. Sistema de manejo ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de los entes públicos, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta con sus políticas de adquisiciones la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XXIII. Sitio contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XXIV. Termovalorización: Aprovechamiento de residuos orgánicos para la generación de energía eléctrica; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XXV. Valorización: Principio conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ###### Artículo 5.
 
@@ -133,7 +171,9 @@ IV. Los ayuntamientos.
 
 El Ejecutivo del Estado tendrá las siguientes facultades:
 
-I. Establecer la política estatal en materia de residuos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+I. Establecer y evaluar la política estatal en materia de residuos;
 
 II. Vincular e integrar a la política ambiental, así como las disposiciones que esta Ley establece en materia de gestión integral de residuos;
 
@@ -159,9 +199,21 @@ XII. Coadyuvar con el Gobierno Federal en la integración de los subsistemas de 
 
 XIII. Suscribir convenios y acuerdos con los grupos y organizaciones privadas y sociales, para cumplir con el objeto de esta Ley;
 
-XIV. Diseñar el establecimiento y aplicación de los instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o reducir la generación de residuos y su gestión integral, y
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XV. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+XIII Bis. Establecer políticas públicas dirigidas a los establecimientos comerciales y empresas para el consumo responsable de los productos que se entreguen al consumidor dentro de los establecimientos o para transportación y carga;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XIV. Fomentar, el aprovechamiento de la materia orgánica de los residuos sólidos urbanos y de manejo especial en procesos de generación de energía;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XV. Evaluar el Programa Estatal de Remediación de sitios contaminados;
+
+XVI. Diseñar el establecimiento y aplicación de los instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o reducir la generación de residuos y su gestión integral, y
+
+XVII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -187,7 +239,9 @@ VII. Elaborar un padrón de empresas de servicios de manejo;
 
 VIII. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
 
-IX. Realizar los estudios y proyectos de obras de infraestructura para el manejo de residuos sólidos urbanos y de manejo especial;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+IX. Realizar los estudios y proyectos de obras de infraestructura para el manejo de residuos sólidos urbanos municipales e intermunicipales y de manejo especial;
 
 X. Emitir opinión sobre el diseño, construcción, operación y cierre de estaciones de transferencia, plantas de selección y tratamiento, y sitios de disposición final de residuos;
 
@@ -215,13 +269,29 @@ XVIII. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas 
 
 XIX. Inspeccionar y vigilar el manejo integral de los residuos de manejo especial;
 
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XX. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la federación y con los municipios, conforme a lo dispuesto en los artículos 11 y 12 de este ordenamiento, y
+XX. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con la federación y con los municipios, conforme a lo dispuesto en los artículo (sic) 11 y 12 de este ordenamiento;
+
+(ADICIONADA, P.O. 26 DE JUNIO DE 2025
+
+XXI. Formular el Programa Estatal de Remediación de Sitios Contaminados;
+
+(ADICIONADA, P.O. 26 DE JUNIO DE 2025
+
+XXII. Promover la capacitación para la operación adecuada de rellenos sanitarios;
+
+(ADICIONADA, P.O. 26 DE JUNIO DE 2025
+
+XXIII. Crear un sistema de información relativa a la generación y gestión integral de los residuos peligrosos, sólidos urbanos y de manejo especial, así como de sitios contaminados y remediados en coordinación con la Procuraduría Ambiental y de Ordenamiento Territorial del Estado de Guanajuato y los Municipios;
+
+(ADICIONADA, P.O. 26 DE JUNIO DE 2025
+
+XXIV. Coadyuvar con los ayuntamientos en la elaboración de convenios para la prestación de los servicios públicos de limpia, recolección, traslado, tratamiento y disposición final de residuos, y el establecimiento de sitios de disposición final intermunicipales; y
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-XXI. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
+XXV. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 9.
 
@@ -247,11 +317,15 @@ II. Expedir los reglamentos y demás disposiciones jurídico-administrativas de 
 
 III. Establecer programas graduales de separación de la fuente de residuos orgánicos e inorgánicos y los mecanismos para promover su aprovechamiento;
 
-IV. Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+IV. Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos y, en coordinación con la Secretaría, aprovechar la materia orgánica de dichos residuos en procesos de generación de energía;
 
 V. Capacitar a los servidores públicos que intervienen en la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
-VI. Concesionar de manera total o parcial la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos, estos servicios forman parte del manejo integral;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+VI. Prestar el servicio público de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos a través de un organismo público descentralizado o concesionarlo de manera total o parcial;
 
 VII. Autorizar aquellas etapas del manejo integral de residuos sólidos urbanos que no sean consideradas como servicio público;
 
@@ -271,13 +345,25 @@ XIII. Proponer al Congreso del Estado, las tarifas aplicables al derecho por la 
 
 XIV. Evitar los tiraderos a cielo abierto o sitios no controlados de residuos sólidos urbanos;
 
-XV. Difundir entre la población prácticas de separación, reutilización y reciclaje de residuos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XVI. Instalar en la vía pública equipamiento para el depósito por separado de residuos sólidos urbanos;
+XV. Difundir en la población prácticas de separación, reutilización y reciclaje de residuos, así como implementar programas de educación ambiental, estimular la investigación y el desarrollo de materiales reutilizables, reciclables y compostables;
 
-XVII. Promover y dar seguimiento a la formulación, implementación y evaluación del sistema de manejo ambiental en las dependencias y entidades de la administración pública municipal, y
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-XVIII. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XVI. Celebrar convenios entre dos o mas municipios para la prestación de los servicios públicos de limpia, recolección, traslado, tratamiento y disposición final de residuos, así como para el establecimiento de sitios de disposición final intermunicipales;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XVII ES SIMILAR A LA FRACCIÓN XVIII.]</small>
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+XVII. Promover y dar seguimiento a la formulación, implementación y evaluación del sistema de manejo ambiental en las dependencias y entidades de la administración pública municipal, así como establecer políticas públicas dirigidos a los establecimientos comerciales y empresas, para el consumo dentro de los establecimientos o para transportación y carga;
+
+> <small>[N. DE E. EL CONTENIDO DE LA FRACCIÓN XVIII ES SIMILAR A LA FRACCIÓN XVII.]</small>
+
+XVIII. Promover y dar seguimiento a la formulación, implementación y evaluación del sistema de manejo ambiental en las dependencias y entidades de la administración pública municipal, y
+
+XIX. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN
 
@@ -307,7 +393,9 @@ El Ejecutivo del Estado establecerá el Programa Estatal para la Prevención y G
 
 El Programa Estatal para la Prevención y Gestión Integral de los Residuos deberá formularse en concordancia con lo que establezca el Programa Nacional de la materia, considerando los siguientes lineamientos:
 
-I. Aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+I. Aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos, eficiencia ambiental, tecnológica y económica;
 
 II. Adoptar medidas para la reducción de la generación de residuos, su separación en la fuente de origen, así como su adecuado aprovechamiento, tratamiento y disposición final;
 
@@ -345,11 +433,15 @@ Los programas a que hace referencia el artículo anterior, deberán contener al 
 
 I. La política en materia de residuos sólidos urbanos y de manejo especial, según corresponda;
 
-II. La definición de objetivos y metas para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias y plazos para su cumplimiento;
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-III. Los medios de financiamiento de las acciones consideradas en los programas, y
+II. El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
 
-IV. Los mecanismos para fomentar la vinculación entre los programas correspondientes, a fin de crear sinergias.
+III. La definición de objetivos y metas para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos y de manejo especial, así como las estrategias y plazos para su cumplimiento;
+
+IV. Los medios de financiamiento de las acciones consideradas en los programas, y
+
+V. Los mecanismos para fomentar la vinculación entre los programas correspondientes, a fin de crear sinergias.
 
 ### CAPÍTULO III. DE LOS PLANES DE MANEJO
 
@@ -357,7 +449,9 @@ IV. Los mecanismos para fomentar la vinculación entre los programas correspondi
 
 Los planes de manejo de residuos sólidos urbanos y de manejo especial, deberán estar encaminados, entre otros a:
 
-I. Identificar formas de prevenir o reducir su generación;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+I. Identificar formas de prevenir o reducir su generación y la valorización de los residuos, así como el manejo integral;
 
 II. Establecer esquemas de manejo en los que aplique el principio de responsabilidad compartida de los distintos sectores involucrados;
 
@@ -455,11 +549,23 @@ El Ejecutivo del Estado, en coordinación con las autoridades competentes, evalu
 
 En aquellos casos en que sea técnica y económicamente factible, se promoverá la creación de cadenas productivas y se brindarán incentivos para el establecimiento de los planes de manejo.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
 
 ###### Artículo 26.
 
-La Secretaría promoverá la aplicación de incentivos para alentar la inversión del sector privado en el desarrollo tecnológico; adquisición de equipos y en la construcción de infraestructura para facilitar la prevención de la generación, la reutilización, el reciclaje, el tratamiento y la disposición final ambientalmente adecuados de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
+La Secretaría y los ayuntamientos en el ámbito de sus respectivas competencias, promoverán la aplicación de incentivos para alentar la inversión del sector privado en el desarrollo tecnológico, adquisición de equipos y en la construcción de infraestructura para facilitar la reducción de la generación, la reutilización, el reciclaje, el tratamiento y el co-procesamiento para la valorización de los residuos sólidos urbanos y de manejo especial, así como de los residuos peligrosos domiciliarios y los generados por los microgeneradores.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 26 Bis.
+
+Se consideran prioritarias, para efectos del otorgamiento de estímulos fiscales que se establezcan conforme a la Ley de Ingresos para el Estado de Guanajuato del ejercicio fiscal correspondiente, o en su caso, en las leyes de ingresos de los Municipios del ejercicio fiscal correspondiente a las actividades relacionadas con:
+
+I. La investigación científica y tecnológica, incorporación, innovación o utilización de mecanismos, equipos y tecnologías que tengan por objetivo prevenir o reducir la generación de residuos sólidos urbanos y de manejo especial, su valorización y su gestión integral y sustentable; así como prevenir la contaminación de sitios por residuos y, en su caso, su remediación;
+
+II. La investigación e incorporación de sistemas para el aprovechamiento de residuos como fuente de energía; y
+
+III. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas para el manejo de residuos sólidos urbanos y de manejo especial.
 
 ### CAPÍTULO VI. DE LA EDUCACIÓN
 
@@ -571,6 +677,16 @@ Los residuos sólidos urbanos podrán clasificarse en orgánicos e inorgánicos 
 
 La clasificación de residuos sólidos urbanos y de manejo especial sujetos a planes de manejo, se llevará a cabo de conformidad con los criterios que se establezcan en las normas oficiales mexicanas que al efecto se expidan.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 34 Bis.
+
+La Secretaría en coordinación con la Procuraduría y los Municipios, coadyuvaran en informes sobre los aspectos relevantes sobre los inventarios de generación de residuos peligrosos, residuos sólidos urbanos y residuos de manejo especial, de acuerdo con sus atribuciones respectivas, para lo cual se deben basar en los datos que les sean proporcionados por los generadores y las empresas de servicios de manejo de residuos.
+
+Además, integrarán inventarios de tiraderos de residuos o sitios donde se han abandonado clandestinamente residuos de diferente índole en los municipios, de los cuales se asienten datos sobre su ubicación, el origen, características y otros elementos de información que sean útiles, para desarrollar medidas tendentes a evitar o reducir riesgos.
+
+La integración de inventarios se sustentará en criterios, métodos y sistemas informáticos, conforme a lo dispuesto en la presente Ley y en los ordenamientos jurídicos que de ella deriven.
+
 ### CAPÍTULO II. DE LAS OBLIGACIONES GENERALES
 
 ###### Artículo 35.
@@ -590,6 +706,18 @@ III. Cumplir con las disposiciones específicas, criterios, normas y recomendaci
 IV. Poner en conocimiento de las autoridades competentes las infracciones que se estimen se hubieran cometido contra la normatividad de los residuos, y
 
 V. Las demás que establezcan los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 36 Bis.
+
+Los generadores de residuos peligrosos tendrán las siguientes categorías:
+
+I. Grandes generadores;
+
+II. Pequeños generadores; y
+
+III. Microgeneradores.
 
 ###### Artículo 37.
 
@@ -614,6 +742,20 @@ V. Llevar a cabo el manejo integral de sus residuos, de conformidad con las disp
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Presentar a la Secretaría un informe anual de los volúmenes de generación y formas de manejo de los residuos de manejo especial generados en grandes volúmenes.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 37 Bis.
+
+Los pequeños generadores de residuos peligrosos están obligados a:
+
+I. Registrarse ante la Secretaría;
+
+II. Establecer los planes de manejo y los planes de manejo con enfoque en economía circular, cuando sea aplicable;
+
+III. Contar con una bitácora en la que llevarán el registro del volumen anual de residuos peligrosos que generan y las modalidades de manejo; y
+
+IV. Llevar el registro de los casos en los que transfieran residuos peligrosos a industrias para que los utilicen como insumos o materia prima dentro de sus procesos indicando la cantidad o volumen transferidos y el nombre, denominación o razón social y domicilio legal de la empresa que los utilizará.
 
 ###### Artículo 38.
 
@@ -667,15 +809,17 @@ La etapa de limpia o barrido se excluye del manejo integral de residuos de manej
 
 Tratándose de los residuos sólidos urbanos, las etapas de limpia o barrido, recolección, traslado o trasportación, tratamiento y disposición final estarán a cargo de los municipios por ser un servicio público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2025)</small>
 
 ###### Artículo 41.
 
-Se requiere autorización de la Secretaría para llevar a cabo las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III y de la V a la XII del artículo anterior.
+Los pequeños y grandes generadores de residuos de manejo especial y los prestadores de servicios requerirán autorización de la Secretaría para llevar a cabo cualquiera de las etapas del manejo integral de residuos de manejo especial establecidas en las fracciones II, III, V, VII, VIII, IX, X, XI y XII del artículo anterior.
 
 Los ayuntamientos podrán autorizar las etapas del manejo integral de los residuos sólidos urbanos señaladas en las fracciones V, VII, IX y XI del artículo anterior.
 
-Las autorizaciones deberán otorgarse por tiempo determinado.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+Las autorizaciones deberán otorgarse por tiempo determinado y, en su caso, podrán ser renovadas.
 
 ###### Artículo 42.
 
@@ -683,23 +827,45 @@ Para el otorgamiento de autorizaciones se requiere:
 
 I. Ubicarse en lugares que reúnan los criterios que establezca la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-II. Instrumentar un plan de manejo registrado ante la Secretaría para la operación segura y ambientalmente adecuada de los residuos que maneje;
+II. Información de soporte técnico de los procesos o tecnologías a los que se someterán los residuos, así como elementos de información que demuestren que se propone la mejor tecnología disponible y económicamente accesible y formas de operación acordes con las mejores prácticas ambientales;
 
-III. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-IV. Contar con personal capacitado y continuamente actualizado, y
+III. Contar con programas de capacitación del personal involucrado en el manejo de residuos de manejo especial, en la operación de los procesos, equipos, medios de transporte, y otros aspectos relevantes, según corresponda;
 
-V. Otorgar garantías para asegurar que al cierre de las operaciones de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+IV. Contar con programas para prevenir y responder a contingencias o emergencias ambientales y accidentes;
 
-Además de los requisitos señalados en este artículo, la persona física o moral deberá atender a las condiciones de carácter técnico que por la naturaleza del servicio le sean exigibles por la Secretaría, mismas que formarán parte de la autorización.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2025)</small>
+
+V. Contar con seguros o garantías financieras que, en su caso, se requieran, vigentes y suficientes en todo momento, que amparen los daños ambientales que se pudieran causar en las etapas de manejo que se pretendan llevar a cabo, así como para asegurar que, al cierre de sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y al ambiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2025)</small>
+
+VI. Las demás que determinen el Reglamento de la presente Ley y las normas oficiales mexicanas que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+El procedimiento para tramitar las autorizaciones privilegiará el uso de medios electrónicos y firma electrónica; para tal efecto, en el Reglamento se fijarán las disposiciones jurídicas correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
 
 ###### Artículo 43.
 
-Durante la vigencia de la autorización la empresa de servicio de manejo deberá presentar informes acerca de los residuos recibidos y las formas de manejo a los que fueron sometidos en los términos que la autorización establezca.
+Durante la vigencia de la autorización, los pequeños y grandes generadores de residuos de manejo especial y los prestadores de servicios de manejo integral de residuos deberán presentar reportes anuales acerca de los residuos generados o recibidos, según corresponda, y las formas de manejo a los que fueron sometidos dichos residuos en los términos que la autorización establezca.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 43 Bis.
+
+Las autorizaciones para el manejo integral de residuos de manejo especial podrán ser transferidas, siempre y cuando:
+
+I. Se cuente con el previo consentimiento por escrito de la Secretaría; y
+
+II. Se acredite la subsistencia de las condiciones bajo las cuales fueron otorgadas. En el Reglamento se especificarán los supuestos en los que se podrá realizar la transferencia de las autorizaciones, así como el procedimiento respectivo.
 
 ###### Artículo 44.
 
@@ -781,19 +947,101 @@ III. Las mejores rutas de transporte, dependiendo de los lugares de salida y des
 
 Los sitios destinados al tratamiento y disposición final de residuos sólidos urbanos y de manejo especial además de cumplir con los requisitos señalados en el artículo 42 de esta Ley, deberán contar con la autorización de impacto ambiental en los términos que se establecen en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Bis.
+
+Tratándose de procesos de tratamiento por incineración y tratamiento térmico por termólisis, la solicitud de autorización especificará las medidas para dar cumplimiento a las normas oficiales mexicanas que se expidan de conformidad con los convenios internacionales de los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Ter.
+
+El co-procesamiento y la incineración de residuos se restringirán a las condiciones que se establezcan en el Reglamento y en las normas oficiales mexicanas correspondientes, en las cuales se estipularán los grados de eficiencia y eficacia que deberán alcanzar los procesos, y los parámetros ambientales que deberán cumplirse a fin de verificar la prevención o reducción de la liberación al ambiente de sustancias contaminantes, particularmente de aquellas que son tóxicas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Quáter.
+
+Para el co-procesamiento de los residuos deberá seguirse la jerarquía de manejo de los residuos que determine la Secretaría, y considerar las mejores técnicas disponibles por razones de viabilidad técnica, económica o de protección ambiental.
+
+Los residuos que no sean susceptibles para ser reutilizados o reciclados, pero que en su caso sean aptos para el co-procesamiento en procesos de producción industrial, su manejo deberá ser acorde con el Reglamento de la presente Ley y las normas oficiales mexicanas aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Quinquies.
+
+La Secretaría diferenciará la operación de los procesos de incineración, termovalorización y co-procesamiento, cumpliendo con las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Sexies.
+
+La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán promover la reducción de la generación, valorización y gestión integral de los residuos sólidos urbanos y de manejo especial, a fin de proteger la salud y prevenir y controlar la contaminación ambiental producida por su manejo, de conformidad con lo establecido en esta Ley y la Ley General.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Septies.
+
+Para la prevención en la generación de residuos, es obligación de toda persona generadora de residuos sólidos urbanos y de manejo especial:
+
+I. Reducir el consumo de productos que eventualmente generen residuos;
+
+II. Reducir la cantidad de residuos que se generen como consecuencia del consumo de productos;
+
+III. Separar los residuos generados;
+
+IV. Fomentar la reutilización y reciclaje de los residuos;
+
+V. Evitar que se mezclen con otros residuos generados y prolongar su vida útil;
+
+VI. Aplicar las diversas acciones en cuanto a la valorización de los residuos; y
+
+VII. Las demás que establezca la presente Ley y la normativa jurídica aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Octies.
+
+Los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial, deberán:
+
+I. Promover la reducción o sustitución de materiales por aquellos que sean reutilizables, reciclables, compostables o aprovechables bajo principios de factibilidad ambiental, económica y técnica, la sustitución de los materiales que se empleen como insumos en los procesos que generen residuos, por otros materiales que al procesarse no generen dichos residuos; o integrar materiales que, al convertirse en residuos, puedan ser valorizados;
+
+II. Fomentar en los consumidores, en términos de las disposiciones jurídicas aplicables, sobre las posibilidades de valorizar los residuos generados como consecuencia de su consumo;
+
+III. Informarse y aplicar las medidas y prácticas de manejo que les ayuden a prevenir o reducir riesgos a la salud, el ambiente o los bienes, por los productos que al desecharse se convierten en residuos;
+
+IV. Procurar destinar los residuos a su valorización;
+
+V. Al realizar campañas publicitarias, usar preferentemente materiales valorizables y hacerse cargo de ellos cuando se desprendan de los lugares en los que fueron colocados; y
+
+VI. Las demás que establezca la presente Ley y la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 57 Nonies.
+
+Quienes generen residuos sólidos urbanos o de manejo especial, así como los involucrados en su manejo, previo a la disposición final, deberán considerar alternativas de reutilización, reciclaje, tratamiento y co-procesamiento para su valorización.
+
 ### CAPÍTULO III. DE LA VALORIZACIÓN DE LOS RESIDUOS
 
 #### SECCIÓN PRIMERA. DEL RECICLAJE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2025)</small>
+
 ###### Artículo 58.
 
-Los productores y comercializadores cuyos productos y servicios generen residuos susceptibles de valorización mediante procesos de reciclaje realizarán planes de manejo que establezcan las acciones para minimizar la generación de sus residuos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
+Los productores e importadores cuyos productos generen residuos susceptibles de valorización mediante procesos de reutilización y reciclaje, en sus planes de manejo establecerán las acciones para minimizar la generación de sus residuos, su manejo responsable y para orientar a los consumidores sobre las oportunidades y beneficios de dicha valorización para su aprovechamiento.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+Deberán privilegiar el uso de envases y embalajes que una vez utilizados sean susceptibles de valorización mediante procesos de reutilización y reciclaje.
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
 
 ###### Artículo 59.
 
-La Secretaría en coordinación con los ayuntamientos de conformidad con el Programa Estatal para la Prevención y Gestión Integral de los Residuos, instrumentarán programas para la utilización de materiales o subproductos provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
+La Secretaría en coordinación con los ayuntamientos, de conformidad con el Programa Estatal de Residuos, instrumentarán programas para la utilización de materiales provenientes de los residuos a fin de promover mercados para su aprovechamiento, vinculando al sector privado, organizaciones sociales y otros agentes económicos.
 
 ###### Artículo 60.
 
@@ -819,7 +1067,53 @@ La composta que no pueda ser aprovechada deberá ser enviada a los rellenos sani
 
 Toda persona que lleve a cabo procesos de tratamiento de residuos sólidos urbanos orgánicos para composta deberá cumplir con las disposiciones que establecen las normas oficiales mexicanas y las normas técnicas ambientales en la materia.
 
-## TÍTULO SEXTO. PREVENCIÓN, CONTROL Y REMEDIACIÓN DEL SUELO
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 63 Bis.
+
+Toda empresa agrícola, pecuaria, industrial o agroindustrial procesarán los residuos biodegradables generados en sus procesos productivos, utilizándolos como fuente energética, transformándolos en composta o utilizando técnicas equivalentes que no deterioren el ambiente, previa presentación del plan de manejo a la Secretaría.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 63 Ter.
+
+La determinación de la conveniencia de someter a tratamiento térmico residuos sólidos urbanos o de manejo especial, deberá sustentarse en el diagnóstico básico de los residuos que se generan en la entidad, y de la disponibilidad y factibilidad técnica y económica de alternativas para su valorización o tratamiento por otros medios.
+
+Los residuos señalados, sólo podrán ser sujetos a tratamientos térmicos autorizados por la Secretaría o los Ayuntamientos, según corresponda, y cuyo desempeño ambiental sea acorde a lo dispuesto en la Ley General, las normas oficiales mexicanas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 63 Quáter.
+
+La Secretaría y los Ayuntamientos en el ámbito de sus competencias, deberán determinar el tipo de residuos factibles para someterlos a un co-procesamiento, con la finalidad de aprovechar los residuos como sustitutos de materias primas y combustibles no renovables.
+
+Para tal efecto, deberán distinguir los residuos que, por sus características, volúmenes de generación y acumulación, problemas ambientales e impactos económicos y sociales que ocasiona su manejo inadecuado, pueden ser objeto de co-procesamiento.
+
+Dependiendo del tipo de residuos se establecerán restricciones al co-procesamiento mediante combustión de aquellos susceptibles de ser valorizados mediante otros procesos, cuando éstos estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles. En tales casos, se promoverán acciones que tiendan a fortalecer la infraestructura de valorización de estos residuos por otros medios.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 63 Quinquies.
+
+La disposición final de residuos sólidos urbanos o de manejo especial en rellenos sanitarios, es considerada como la última opción dentro de la jerarquía de manejo integral, una vez que se hayan agotado las posibilidades de valorizar los residuos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 63 Sexies.
+
+Los responsables de los sitios e instalaciones para la disposición final de los residuos sólidos urbanos y de manejo especial, deberán cumplir con la normativa ambiental aplicable para la selección del sitio, diseño, construcción, operación, monitoreo, clausura, mantenimiento de post clausura y obras complementarias.
+
+Deberán implementar infraestructura para el aprovechamiento del biogás generado en los rellenos sanitarios o sitios de disposición final, para la producción de energía eléctrica o, al menos, asegurarse del manejo debido del biogás producto de la descomposición anaerobia; así como contar con seguros o garantías financieras vigentes y suficientes en todo momento, que amparen daños ambientales, hasta que en los sitios se logre la eliminación de riesgos.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2025)</small>
+
+###### Artículo 63 Septies.
+
+Las áreas ocupadas por las celdas de confinamiento de los residuos, al igual que el resto de las instalaciones de los rellenos sanitarios, clausuradas debidamente de conformidad con la normatividad aplicable, podrán ser aprovechadas para cualquier tipo de proyecto compatible con los usos de suelo autorizados en la zona, siempre y cuando se garantice la eliminación de riesgos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2025)</small>
+
+## TÍTULO SEXTO. PREVENCIÓN, CONTROL Y REMEDIACIÓN DE SITIOS CONTAMINADOS
 
 ### CAPÍTULO I. DE LA PREVENCIÓN Y CONTROL DE SITIOS
 
@@ -839,15 +1133,19 @@ I. Evitar el confinamiento de residuos líquidos o semilíquidos, sin que hayan 
 
 II. Evitar el confinamiento de residuos mezclados que sean incompatibles y que puedan provocar afectaciones al medio ambiente.
 
-### CAPÍTULO II. DE LA REMEDIACIÓN DEL SUELO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO II. DE LA REMEDIACIÓN DE SITIOS CONTAMINADOS
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2025)</small>
 
 ###### Artículo 67.
 
-Quienes resulten responsables de la contaminación del suelo, así como de daños a la salud como consecuencia de ésta, independientemente de las sanciones penales o administrativas que procedan, estarán obligados a:
+Quienes resulten responsables de la contaminación del sitio como resultado de la generación, manejo o liberación, descarga, infiltración o incorporación de materiales o residuos peligrosos al ambiente, así como de daños a la salud, independientemente de las sanciones penales o administrativos que procedan, estarán obligados a:
 
-I. Llevar a cabo las acciones necesarias para remediar las condiciones del suelo, de acuerdo a lo establecido en las disposiciones jurídicas aplicables, y
+I. Llevar a cabo las acciones necesarias para remediar las condiciones del sitio contaminado, de acuerdo con lo establecido en las disposiciones jurídicas aplicables, y
 
-II. En caso de que la remediación no fuera factible, a reparar el daño causado a terceros o al ambiente de conformidad con la legislación aplicable.
+II. En caso de que la remediación no fuera factible, está obligado a reparar el daño causado a terceros o al ambiente y, en su caso a la compensación correspondiente, de conformidad a lo previsto por la Ley Federal de Responsabilidad Ambiental.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1014,3 +1312,13 @@ P.O. 4 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 300, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN IX, RECORRIENDO EN SU ORDEN EL CONTENIDO DE LAS ACTUALES FRACCIONES IX Y X, AL ARTÍCULO 28 DE LA LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 26 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 70, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El reglamento de la presente Ley deberá actualizarse por la persona titular del Poder Ejecutivo del Estado en un plazo que no exceda de 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los Ayuntamientos, así como los generadores y prestadores de servicios de residuos de manejo especial contarán con un período de 180 días naturales posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
