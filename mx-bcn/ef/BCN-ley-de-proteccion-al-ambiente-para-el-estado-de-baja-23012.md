@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2024-08-16"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1689,9 +1689,15 @@ En todas las descargas de contaminantes a la atmósfera, el agua y los suelos, d
 
 La Secretaría, en los términos que señale el reglamento correspondiente, establecerá un Registro de Emisiones y Transferencia de Contaminantes, complementario al de la Federación, el cual contendrá el inventario de emisiones a la atmósfera, el registro de descargas de aguas residuales y el inventario de materiales y residuos de competencia estatal y municipal que generen las obras o actividades que se realicen en el Estado. Este registro será la base para la creación de un sistema consolidado de información y evaluación de desempeño de las emisiones y transferencia de contaminantes en el Estado.
 
-Los responsables de establecimientos industriales, comerciales y de servicios, de competencia Estatal y Municipal, están obligados a proporcionar datos y documentos necesarios para integrar el Registro de Emisiones y Transferencia de Contaminantes.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Las personas responsables de los establecimientos industriales, comerciales y de servicios, de competencia Estatal y Municipal, están obligadas a proporcionar datos y documentos necesarios para integrar el Registro de Emisiones y Transferencia de Contaminantes.
 
 El Registro de Emisiones y Transferencia de Contaminantes se deberá integrar con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2025)</small>
+
+La Secretaría determinará la periodicidad en la que deberá actualizarse el inventario de emisiones y será responsable de que la información se difunda de forma accesible a toda la población.
 
 ###### ARTÍCULO 109.
 
@@ -3370,3 +3376,11 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 456 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 111 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 108 DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de la presente reforma, la Secretaría contará con un plazo de 60 días para establecer la periodicidad a que hace referencia el artículo 108 y a partir de esa fecha iniciar el registro para su actualización permanente.
