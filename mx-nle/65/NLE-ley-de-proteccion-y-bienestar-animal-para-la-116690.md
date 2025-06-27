@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2023-06-07"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -49,7 +49,9 @@ LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEV
 
 La presente Ley es de observancia general en el Estado de Nuevo León; sus disposiciones son de orden público e interés social, tienen por objeto proteger a los animales, brindarles alojamiento, desarrollo natural, salud y evitarles el maltrato, la crueldad, el sufrimiento y la zoofilia.
 
-El Gobierno del Estado, la Secretaría, las Secretarías de Salud y Educación, así como los Municipios, deberán implementar anualmente programas específicos para difundir la cultura y las conductas de trato adecuado y respetuoso a los animales.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+El Gobierno del Estado, la Secretaría, las Secretarías de Salud y Educación, así como los Municipios, deberán implementar anualmente programas específicos para difundir la cultura y las conductas de trato adecuado y respetuoso a los animales. En dichos programas se deberán contemplan (sic) actividades preferentemente para llevarse a cabo mensualmente.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -85,23 +87,37 @@ d) Atención veterinaria en clínicas fijas y móviles, hospitales, consultorios
 
 e) Transporte y movilización de animales de acuerdo a las Normas Oficiales Mexicanas y demás disposiciones legales que resulten aplicables;
 
-f) Atención de animales en unidades o centros de control animal;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+f) Atención y protección de los animales en los Centros de Atención, Protección y Bienestar Animal;
 
 g) Operación de crematorios y otros espacios de sacrificio de animales; y
 
-h) Centros de control animal en los municipios, y cualquier lugar destinado a decomisos o resguardo de animales en el Estado, por autoridades federales, estatales o municipales.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-VIII (SIC). Prohibir el manejo de los animales de trabajo en actividades de carga y tiro en las áreas urbanas;
+h) Centros de Atención, Protección y Bienestar Animal en los municipios, y cualquier lugar destinado a decomisos o resguardo de animales en el Estado, por autoridades federales, estatales o municipales.
 
-IX. Regular la experimentación y las prácticas profesionales en instituciones educativas y centros médicos y de investigación;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-X. Observar la creación y funcionamiento de los centros de control animal, con apego a los reglamentos municipales y normas oficiales, así como de unidades de prevención de zoonosis en las jurisdicciones sanitarias estatales y cualquier otra unidad de acopio;
+IX. Prohibir el manejo de los animales de trabajo en actividades de carga y tiro en las áreas urbanas;
 
-XI. Establecer las bases para la creación y operación del Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León y su marco de acción para asesorar, evaluar y colaborar con la ciudadanía, las instituciones académicas, los colegios médicos, las organizaciones de la sociedad civil y las autoridades en la aplicación de la presente Ley y en el proceso de generación de políticas públicas en el Estado que permitan la adecuada aplicación de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XII. Impulsar la creación de programas de inversión, fondos financieros y fideicomisos públicos, privados y mixtos, la gestión de presupuestos de índole federal, estatal y municipal, así como ejercer los recursos recaudados por la aplicación de esta Ley para el efectivo desarrollo, protección y bienestar animal integral y sostenible; y
+X. Regular la experimentación y las prácticas profesionales en instituciones educativas y centros médicos y de investigación;
 
-XIV (SIC). Fijar los procedimientos administrativos, medidas de seguridad, sanciones administrativas, recursos de defensa e inconformidad y acceso a los denunciantes a los procedimientos administrativos que se entablen para lograr su transparencia y desahogo pronto y expedito.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XI. Observar la creación y funcionamiento de los Centros de Atención, Protección y Bienestar Animal, con apego a los reglamentos municipales y normas oficiales, así como de unidades de prevención de zoonosis en las jurisdicciones sanitarias estatales y cualquier otra unidad de acopio;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XII. Establecer las bases para la creación y operación del Consejo Ciudadano de Protección y Bienestar Animal del Estado de Nuevo León y su marco de acción para asesorar, evaluar y colaborar con la ciudadanía, las instituciones académicas, los colegios médicos, las organizaciones de la sociedad civil y las autoridades en la aplicación de la presente Ley y en el proceso de generación de políticas públicas en el Estado que permitan la adecuada aplicación de esta Ley y su Reglamento;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XIII. Impulsar la creación de programas de inversión, fondos financieros y fideicomisos públicos, privados y mixtos, la gestión de presupuestos de índole federal, estatal y municipal, así como ejercer los recursos recaudados por la aplicación de esta Ley para el efectivo desarrollo, protección y bienestar animal integral y sostenible; y
+
+XIV. Fijar los procedimientos administrativos, medidas de seguridad, sanciones administrativas, recursos de defensa e inconformidad y acceso a los denunciantes a los procedimientos administrativos que se entablen para lograr su transparencia y desahogo pronto y expedito.
 
 ###### Artículo 3.
 
@@ -225,13 +241,21 @@ XLV. Actitud de Respeto para los Animales: Que incluye todas y cada una de las d
 
 XLVI. Sacrificio Humanitario: Acto que provoca la muerte sin sufrimiento de cualquier animal, en razón de estar comprometido su bienestar por el sufrimiento que le cause un accidente, enfermedad, incapacidad física o trastornos seniles, atendiendo a las Normas Oficiales Mexicanas y las Normas Ambientales Estatales expedidas para tal efecto;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XLVII. Registro de Animales: Registro de Animales del Estado de Nuevo León, en el cual se deben inscribir los animales de compañía convencionales, animales de compañía no convencionales, animales de asistencia, animales silvestres en cautiverio y animales de carga, tiro y monta, cuya coordinación, operación y actualización estará a cargo de la Secretaría; y
+XLVII. Registro de Animales: Registro de Animales del Estado de Nuevo León, en el cual se deben inscribir los animales de compañía convencionales, animales de compañía no convencionales, animales de asistencia, animales silvestres en cautiverio y animales de carga, tiro y monta, cuya coordinación, operación y actualización estará a cargo de la Secretaría;
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XLVIII. Consejo Ciudadano: Consejo Ciudadano de Protección y Bienestar Animal, regulado en el Capítulo XVIII de esta Ley.
+XLVIII. Consejo Ciudadano: Consejo Ciudadano de Protección y Bienestar Animal, regulado en el Capítulo XVIII de esta Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XLIX. Espacio amigable con animales de compañía: Todo establecimiento que se declare amigable con los animales de compañía, permitiendo su ingreso bajo condiciones que aseguren un trato respetuoso y digno; e
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+L. Insignia de espacio amigable con animales de compañía: Distintivo otorgado por la Secretaría, a todos aquellos establecimientos que cumplen con las condiciones de trato digno y respetuoso, así como de salubridad para albergar animales de compañía en sus instalaciones durante la estancia de los clientes o usuarios.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -297,7 +321,13 @@ c) Las personas físicas y morales que se dediquen o realicen actividades de exh
 
 d) Centro de Atención Veterinaria;
 
-e) Establecimientos fijos o móviles que proporcionen un servicio de limpieza, cuidado o resguardo de los animales.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+e) Establecimientos fijos o móviles que proporcionen un servicio de limpieza, cuidado o resguardo de los animales; y
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+f) Establecimientos de espacio amigable con animales de compañía.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -307,13 +337,25 @@ II. Reglamentar la comercialización, procesos de adopción y el traslado de ani
 
 III. Previa solicitud de persona interesada, emitir una constancia de no existencia de sanción administrativa por ejercer algún tipo de maltrato o crueldad animal.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-IV. Llevar a cabo, en coordinación con cada uno de los Municipios del Estado, la Instalación de los Centros de Control Canino y Felino; y
+IV. Llevar a cabo, en coordinación con cada uno de los Municipios del Estado, la Instalación de los Centros de Atención, Protección y Bienestar Animal;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2025)</small>
 
-V. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
+V. Educar y capacitar en materia de protección y bienestar animal, al personal encargado de la procuración e impartición de justicia, policías estatales, municipales y demás servidores públicos encargados de las políticas de prevención, atención y sanción de la violencia contra los animales;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. En conjunto con la Secretaría de Educación desarrollar programas de educación y capacitación en materia de protección, trato digno y respetuoso a los animales, en las instituciones de educación básica, media superior y superior del Estado, para ello podrá convenir con asociaciones protectoras de animales y organizaciones no gubernamentales legalmente constituidas;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VII. Emitir, previa solicitud de los establecimientos y bajo el cumplimiento de los lineamientos, criterios y adecuaciones de infraestructura que para tal efecto establezca esta Secretaría, la insignia de espacio amigable con animales de compañía; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+VIII. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -337,19 +379,29 @@ Son facultades y atribuciones de los Municipios en relación a la presente Ley:
 
 I. Coadyuvar con la Secretaría de Salud en las campañas permanentes de esterilización, vacunación antirrábica, educativa de tenencia responsable, y prevención de enfermedades zoonóticas;
 
-II. La creación de espacios públicos apropiados para la convivencia con animales, con la infraestructura adecuada y con instalación de contenedores de basura, acceso a agua potable, entre otros;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
+
+II. La creación, acondicionamiento y operación de espacios públicos exclusivos y apropiados para la recreación y convivencia con animales de compañía, estos contarán con la infraestructura adecuada y con instalación de contenedores de basura, acceso a agua potable, y las demás especificaciones que señale el reglamento de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Para lo anterior podrán hacer convenios de coordinación con la iniciativa privada, para la habilitación de dichos espacios.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
 III. Formular, aprobar y aplicar un Reglamento que garantice la protección y bienestar animal, apegado a la presente Ley y a las normas jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-IV. La Instalación de por lo menos un Centro de Control Canino y Felino, o bien en caso de requerirlo el municipio podrá generar convenios de coordinación con entidades públicas o privadas para llevar a cabo las acciones establecidas en esta Ley; y
+IV. La Instalación de por lo menos un Centro de Atención, Protección y Bienestar Animal, o bien en caso de requerirlo el municipio podrá generar convenios de coordinación con entidades públicas o privadas para llevar a cabo las acciones establecidas en esta Ley;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2025)</small>
 
-V. Las demás atribuciones que le otorgue esta Ley, su Reglamento y las normas jurídicas aplicables.
+V. Educar y capacitar en coordinación con la Secretaría en materia de protección y bienestar animal, a las policías municipales y demás servidores públicos encargados de las políticas de prevención, atención y sanción de la violencia contra los animales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. Las demás atribuciones que le otorgué esta Ley, su Reglamento y las normas jurídicas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -611,25 +663,59 @@ XIII (SIC). Promover la cultura, protección, atención y buen trato a los anima
 
 XIII. Las demás que establezca la normatividad aplicable.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO III BIS. DE LOS ANIMALES DE COMPAÑÍA CONVENCIONALES EN ESPACIOS AMIGABLES
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 16 Bis.
+
+Todo propietario que ingrese a espacios amigables con animales de compañía convencional deberá ser mayor de edad, o en el caso de poseedores menores de edad, deberán estar acompañados en todo momento por una persona mayor de edad.
+
+Este requisito será dispensable cuando la necesidad y derecho de la persona con discapacidad, requiera el ingreso de su animal de compañía para su apoyo.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 16 Bis 1.
+
+Para el ingreso responsable o permanencia dentro de los lugares de espacio amigable con animales de compañía, el propietario de un animal tendrá las siguientes obligaciones:
+
+I. Tener el control de su mascota en todo momento;
+
+II. Mantener a su mascota con correa, placa de identificación y en caso de ser necesario, bozal o transportadora;
+
+III. Cumplir con las normas de higiene y seguridad en los establecimientos, haciéndose responsable de limpiar toda aquella necesidad biológica que el animal de compañía genere dentro del establecimiento;
+
+IV. Identificar al animal de compañía de acuerdo con el Código Universal de Colores para Mascotas publicado por la Secretaría a fin de distinguir el carácter y personalidad de esta; y
+
+V. Las demás previstas en esta Ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 16 Bis 2.
+
+El propietario de un animal deberá asumir la responsabilidad civil, administrativa o penal que se derive por cualquier acto que genere su animal de compañía, y se deberá ajustar al reglamento.
+
 ### CAPÍTULO IV. DE LOS ESPECTÁCULOS QUE UTILICEN ANIMALES
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
-
-### CAPÍTULO IV BIS. DE LOS PARQUES ZOOLÓGICOS
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 17.
 
 Se prohíbe el uso de animales en cualquier tipo de eventos o espectáculos públicos o privados, en instalaciones fijas, móviles o itinerantes, así como de recreación en instituciones educativas, ferias y kermeses en donde los animales sufran miedo, se les involucre en actos de violencia, maltrato o sufrimiento, así como cualquier acto que infrinja un daño o represente un peligro para su vida, integridad física o mental o salud del animal.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 18.
 
-Se recomienda que en todos los lugares que involucren recreación, exhibición, venta y cautiverio de animales, tales como tiendas, mercados, ferias, zoológicos, bio-parques, colecciones privadas de animales y otros similares, tengan áreas de enriquecimiento ambiental para los animales y su operación deberá sujetarse al cumplimiento de esta Ley y de su Reglamento, de las normas oficiales y de las disposiciones legales y reglamentarias aplicables.
+Se recomienda que en todos los lugares que involucren recreación, exhibición, venta y cautiverio de animales, tales como tiendas, mercados, ferias, zoológicos, bio-parques, colecciones privadas de animales y otros similares, tengan áreas de enriquecimiento ambiental para promover el bienestar de los animales, cumpliendo con la legislación correspondiente. Además, las instalaciones fijas donde se realicen espectáculos o competencias donde participen animales deberán estar debidamente registradas ante la Secretaría.
 
-Se considera área de enriquecimiento ambiental un lugar apto que vaya conforme a la naturaleza dimensiones y demás condiciones que propicien su bienestar.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Se considera área de enriquecimiento ambiental un lugar apto que vaya conforme a la naturaleza, dimensiones y demás condiciones que propicien su bienestar, donde se deberá prever las condiciones de seguridad, ventilación, iluminación, alimentación, así como las necesarias para la estancia de los animales en las instalaciones de resguardo durante los periodos en los que no se encuentren en exhibición para su comercialización.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 Las instalaciones fijas donde se realicen espectáculos o competencias donde participen animales deberán estar debidamente registradas ante la Secretaría.
 
@@ -653,7 +739,9 @@ Queda estrictamente prohibido el privar de alimento, agua, aire, luz o espacio a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO V. DE LA PARTICIPACIÓN CIUDADANA Y LAS ORGANIZACIONES EN MATERIA DE PROTECCIÓN ANIMAL
+### CAPÍTULO IV BIS. DE LOS PARQUES ZOOLÓGICOS
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 ###### Artículo 21 Bis.
 
@@ -753,9 +841,7 @@ IV. El maltrato, abandono o deterioro intencionados o por negligencia, de los an
 
 El incumplimiento de lo anterior por parte de los servidores públicos que se desempeñen en los parques zoológicos y que permitan, ayuden o consientan dichas conductas, será causa de responsabilidad en términos de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Nuevo León, independientemente de las sanciones penales o civiles que pudieran generarse.
 
-### CAPÍTULO VI. DEL MALTRATO Y CRUELDAD CONTRA LOS ANIMALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
+### CAPÍTULO V. DE LA PARTICIPACIÓN CIUDADANA Y LAS ORGANIZACIONES EN MATERIA DE PROTECCIÓN ANIMAL
 
 ###### Artículo 22.
 
@@ -775,15 +861,21 @@ II. Proporcionar albergue y custodia temporal a los animales asegurados con moti
 
 III. Establecer y operar albergues para animales.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 25.
 
-Todos los animales rescatados de la calle, por parte de los Centros de Atención Canino y Felino, que sean entregados en custodia temporal o definitiva por una autoridad, o que sean donados por un particular por su incapacidad manifiesta o comprobada para cuidarlo, y por cualquier otra situación similar donde un animal no cuente con un hogar y propietario definitivo, podrán entregarse a las organizaciones civiles que así lo soliciten y que cuenten con un convenio suscrito para tal efecto con la Secretaría.
+Todos los animales rescatados de la calle, por parte de los Centros de Atención, Protección y Bienestar Animal, que sean entregados en custodia temporal o definitiva por una autoridad, o que sean donados por un particular por su incapacidad manifiesta o comprobada para cuidarlo, y por cualquier otra situación similar donde un animal no cuente con un hogar y propietario definitivo, podrán entregarse a las organizaciones civiles que así lo soliciten y que cuenten con un convenio suscrito para tal efecto con la Secretaría.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 26.
 
-Todo animal rescatado por las autoridades de la calle o que se encuentre en condiciones de abandono, será canalizado a la Secretaría, o bien, a las organizaciones de la sociedad civil que lo soliciten y que hayan celebrado un convenio de colaboración con la Secretaría para la custodia temporal de animales.
+Todo animal rescatado por las autoridades de la calle o que se encuentre en condiciones de abandono, será canalizado a los Centros de Atención, Protección y Bienestar Animal, o bien, a las organizaciones de la sociedad civil que lo soliciten y que hayan celebrado un convenio de colaboración con la Secretaría para la custodia temporal de animales.
 
-### CAPÍTULO VII. DE LA REPRODUCCIÓN Y ENAJENACIÓN DE ANIMALES DE COMPAÑÍA
+### CAPÍTULO VI. DEL MALTRATO Y CRUELDAD CONTRA LOS ANIMALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2022)</small>
 
 ###### Artículo 27.
 
@@ -843,9 +935,9 @@ VIII. Destruir nidos, madrigueras o refugios de animales, excepto cuando se real
 
 IX. Destruir o extraer huevos fértiles de aves, a excepción de aquellos permitidos para consumo humano;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-X. Olvidar o abandonar animales en veterinarias, estéticas, pensiones, hoteles, guarderías, escuelas de entrenamiento, centros de investigación o centros de control canino y felino donde se vayan a realizar procedimientos veterinarios específicos a los animales u otros lugares afines;
+X. Olvidar o abandonar animales en veterinarias, estéticas, pensiones, hoteles, guarderías, escuelas de entrenamiento, centros de investigación o Centros de Atención, Protección y Bienestar Animal donde se vayan a realizar procedimientos veterinarios específicos a los animales u otros lugares afines;
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -899,7 +991,7 @@ Adicionalmente a las prohibiciones establecidas en el artículo 19, y demás apl
 
 También quedará prohibido azuzar animales para que se acometan entre ellos y hacer de las peleas así provocadas, un espectáculo público o privado, y facilitar inmuebles aún a título gratuito, para que tengan lugar dichas peleas.
 
-### CAPÍTULO VIII. DE LA ESTANCIA, HOSPEDAJE Y OTROS SERVICIOS PARA ANIMALES
+### CAPÍTULO VII. DE LA REPRODUCCIÓN Y ENAJENACIÓN DE ANIMALES DE COMPAÑÍA
 
 ###### Artículo 29.
 
@@ -1009,11 +1101,25 @@ Los establecimientos autorizados para comercializar aves de compañía, deberán
 
 Los animales de compañía convencionales en exhibición y a la venta en tiendas autorizadas de animales y similares no deberán de permanecer por periodos prolongados en jaulas, corrales, vitrinas o similares.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Así mismo se deberán atender las necesidades básicas de bienestar de los animales de compañía convencionales, de acuerdo a sus características, y cumpliendo las disposiciones de las autoridades correspondientes, esta Ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE JUNIO DE 2025)</small>
+
+Aunado a lo anterior, deberán:
+
+I. Garantizar su protección, y asegurarles un trato digno y respetuoso;
+
+II. Evitar el maltrato y la crueldad hacia dichas especies tanto por parte de los comerciantes, sus empleados o ayudantes, así como por parte quien los adquiere; y
+
+III. Asegurar que los animales estén resguardados, previo a su venta, en lugares que cuenten con áreas e infraestructura necesaria para su manejo, y que quienes lleven a cabo la comercialización tengan capacidad técnica y operativa suficiente.
+
 ###### Artículo 37.
 
 Las personas físicas y morales que realicen actividades de exhibición y enajenación de animales de compañía que arriben al territorio del Estado con animales de otras Entidades Federativas deberán estar inscritos ante la Secretaria y deberá presentar el Certificado de Salud de cada uno de los animales, así como el Certificado de Libre de Enfermedades Infecciosas y cumplir con las inspecciones a que haya lugar.
 
-### CAPÍTULO IX. DE LOS ANIMALES DE CARGA, TIRO Y MONTA
+### CAPÍTULO VIII. DE LA ESTANCIA, HOSPEDAJE Y OTROS SERVICIOS PARA ANIMALES
 
 ###### Artículo 38.
 
@@ -1061,7 +1167,7 @@ Todo Médico Veterinario Zootecnista que tenga conocimiento de que algún animal
 
 Las personas físicas o morales cuya actividad involucre el manejo de animales estarán obligadas a fijar y mantener avisos visibles del riesgo de contagio de enfermedades zoonóticas, así como capacitar a su personal sobre el manejo seguro de animales para evitar los contagios, y contar con un plan de manejo de riesgos asociados con su giro.
 
-### CAPÍTULO X. DEL ADIESTRAMIENTO, ENTRENAMIENTO Y COMPETENCIA DE ANIMALES
+### CAPÍTULO IX. DE LOS ANIMALES DE CARGA, TIRO Y MONTA
 
 ###### Artículo 48.
 
@@ -1181,7 +1287,7 @@ Las organizaciones civiles legalmente constituidas y las instituciones educativa
 
 La Secretaría, los Municipios y el Consejo Ciudadano de Protección y Bienestar Animal diseñarán y llevarán a cabo un programa de sustitución o reemplazo progresivo de animales de carga y tiro por vehículos automotores, de tracción humana u otras alternativas disponibles, considerando programas que incluyan en la medida de posibilidad de cada municipio el beneficio social de las personas y sus familias que utilizan a estos animales como parte de su trabajo y sustento.
 
-### CAPÍTULO XI. DE LOS CENTROS DE CONTROL CANINO Y FELINO Y SACRIFICIO DE ANIMALES
+### CAPÍTULO X. DEL ADIESTRAMIENTO, ENTRENAMIENTO Y COMPETENCIA DE ANIMALES
 
 ###### Artículo 56.
 
@@ -1223,11 +1329,41 @@ Los adiestradores de animales de compañía potencialmente peligrosos contarán 
 
 Durante el entrenamiento de un animal de compañía, se deberán evitar el hacinamiento, confinamiento en espacios reducidos, dejar de proporcionar agua y alimento, u otras técnicas similares que pongan en peligro el bienestar animal.
 
-### CAPÍTULO XII. DE LOS RASTROS Y DEL SACRIFICIO DE ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO XI. DE LOS CENTROS DE ATENCIÓN, PROTECCIÓN Y BIENESTAR ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 66.
 
-El Estado, en coordinación con la Federación y los Municipios, podrá establecer Centros de Control Canino y Felino cuyas funciones serán las de llevar a cabo campañas de vacunación antirrábica, observación de animales agresores, necropsias, toma y envió de muestras de animales sospechosos de enfermedades zoonóticas y campañas de esterilización.
+El Estado, en coordinación con la Federación y los Municipios, podrá establecer Centros de Atención, Protección y Bienestar Animal cuyas funciones serán:
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+I. Promover la adopción de animales en situación de calle;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+II. Brindar servicios de consultas veterinarias;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+III. Llevar a cabo campañas de vacunación y esterilización;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+IV. Mantener en observación animales agresores o sospechosos de enfermedades zoonóticas; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+V. En caso de necropsias, tomar y enviar las muestras de animales sospechosos de enfermedades zoonóticas.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Lo anterior mediante convenios de colaboración con universidades, asociaciones civiles e iniciativa privada y de acuerdo a las capacidades presupuestales del Estado y los Municipios, las cuales se buscarán que sean a bajo costo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE JUNIO DE 2025)</small>
 
 Asimismo, deberán atender los reportes de la ciudadanía o de alguna autoridad sobre animales sin dueño aparente en la vía pública, llevar a cabo la captura, transportación, resguardo o en su caso sacrificio de los animales, encabezar campañas de educación sobre tenencia responsable y atender los ordenamientos de las autoridades judiciales competentes.
 
@@ -1245,39 +1381,65 @@ El propietario o poseedor del animal de compañía deberá aplicar anualmente la
 
 La Secretaria y las demás autoridades competentes, deberán notificar oportunamente a la comunidad sobre las fechas de las campañas de vacunación a domicilio, a través de los medios que se estimen apropiados para la correcta cobertura en los Municipios del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 69.
 
-Los Centros de Control Canino y Felino proporcionarán servicio permanente y gratuito de esterilización, aplicación de vacunas y de eutanasia previamente determinada por un médico veterinario o bajo su supervisión.
+Los Centros de Atención, Protección y Bienestar Animal proporcionarán servicio permanente y gratuito de esterilización, aplicación de vacunas y de eutanasia previamente determinada por un médico veterinario o bajo su supervisión.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Dichos servicios deberán ser sin restricción para todos y difundidos ampliamente a la población.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 70.
 
-Las instalaciones y quirófanos del Centro de Control Canino y Felino deberán contar con un esquema de fumigación y desinfección permanente para evitar el contagio de animales.
+Las instalaciones y quirófanos del Centro de Atención, Protección y Bienestar Animal deberán contar con un esquema de fumigación y desinfección permanente para evitar el contagio de animales.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 71.
 
-El Centro de Control Canino y Felino deberá realizar campañas constantes de educación y tenencia responsable, así como proporcionar información y pláticas a la población en general sobre: zoonosis, cuidado de animales de compañía, alimentación, hidratación y bienestar animal, así como informar sobre la adopción de perros y gatos a través de las organizaciones de la sociedad civil registradas para tal efecto.
+El Centro de Atención, Protección y Bienestar Animal deberá realizar campañas constantes de educación y tenencia responsable, así como proporcionar información y pláticas a la población en general sobre: zoonosis, cuidado de animales de compañía, alimentación, hidratación y bienestar animal, así como informar sobre la adopción de perros y gatos a través de las organizaciones de la sociedad civil registradas para tal efecto.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 72.
 
-Cuando el propietario, poseedor o responsable de un animal sano exprese la imposibilidad para brindar los cuidados adecuados al mismo y demuestre la imposibilidad de que se efectúe su adopción por al menos una asociación de animales, podrá solicitar la eutanasia del animal a los Centros de Control Canino y Felino del Estado.
+Cuando el propietario, poseedor o responsable de un animal sano exprese la imposibilidad para brindar los cuidados adecuados al mismo podrá solicitar su resguardo y disponibilidad de adopción en los Centros de Atención, Protección y Bienestar Animal.
 
 ###### Artículo 73.
 
 Todos los animales capturados deberán ser identificados y registrados de inmediato.
 
-El Médico Veterinario Zootecnista responsable del Centro de Control Canino y Felino estará obligado a verificar que los animales capturados cuentan con placa de identificación, identificador o tatuaje, con el fin de proceder a contactar de inmediato al propietario, poseedor o encargado del animal para informarle sobre la captura del animal y solicitar su presencia en el Centro.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-El Centro de Control Canino y Felino deberá dar parte de inmediato a la Secretaría sobre las capturas de animales y de sus particularidades, con el fin de que la Secretaría evalúe e imponga las sanciones administrativas correspondientes a los propietarios, poseedores o encargados de los animales capturados en los términos de esta Ley.
+El Médico Veterinario Zootecnista responsable de los Centros de Atención, Protección y Bienestar Animal estará obligado a verificar que los animales capturados cuentan con placa de identificación, identificador de microchip o tatuaje, con el fin de proceder a contactar de inmediato al propietario, poseedor o encargado del animal para informarle sobre la captura del animal y solicitar su presencia en el Centro.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Así mismo a través de las redes sociales de los Centros, promoverán la difusión de fotografías de los animales capturados, con la finalidad de que sean identificados por sus dueños y estos puedan acudir a recogerlos de manera inmediata en las instalaciones de los Centros, de conformidad con el artículo 6 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Los Centros de Atención, Protección y Bienestar Animal deberá (sic) dar parte de inmediato a la Secretaría sobre las capturas de animales y de sus particularidades, con el fin de que la Secretaría evalúe e imponga las sanciones administrativas correspondientes a los propietarios, poseedores o encargados de los animales capturados en los términos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 74.
 
-Los animales sin reporte de extravío serán alojados en el Centro de Control Canino y Felino por un plazo de hasta 10 días naturales, en términos de lo dispuesto por el tercer párrafo del artículo 6 de esta Ley.
+Los animales sin reporte de extravío serán alojados en los Centros de Atención, Protección y Bienestar Animal por un plazo de hasta 10 días naturales, en términos de lo dispuesto por el tercer párrafo del artículo 6 de esta Ley.
 
-En el caso de los animales reportados como extraviados a la Secretaría, el lapso máximo de estancia dentro del Centro de Control Canino y Felino será de 20 días naturales a partir de la fecha de su ingreso al Centro para que su propietario, poseedor o encargado pase a recogerlos.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+En el caso de los animales reportados como extraviados a la Secretaria, el lapso máximo de estancia dentro de los Centros de Atención, Protección y Bienestar Animal, deberán ser de 20 días naturales a partir de la fecha de su ingreso al Centro para que su propietario, poseedor o encargado pase a recogerlos.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 Todos los animales capturados deberán ser ingresados al Centro dentro de las 4 horas posteriores a su captura. Durante el periodo de estancia del animal en el Centro, el mismo deberá recibir diariamente alimento y agua limpia suficientes; asimismo, deberá recibir atención médica-veterinaria preventiva por lo menos una vez al ingresar al Centro y atención médica-veterinaria curativa siempre que lo necesite el animal.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 Al cumplir el lapso establecido, la disposición de estos animales se realizará conforme lo establecido en esta Ley y el marco jurídico aplicable, pero bajo ninguna circunstancia podrá sacrificarse al animal, salvo que se trate del caso estipulado en la fracción XLVI del artículo 3 de esta Ley.
 
@@ -1293,21 +1455,29 @@ III. Si el animal fue motivado por el agredido a través de sustos, golpes o mal
 
 Ningún animal podrá ser sacrificado considerando únicamente su raza, sino que el Médico Veterinario Zootecnista responsable del Centro deberá tomar en cuenta todos los elementos relacionados con el ataque, para determinar el destino del animal.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 76.
 
-A excepción de los plazos establecidos en los artículos 6 y 74 de la presente Ley, y con el objetivo de identificar enfermedades o comportamientos que pongan en peligro a los propietarios o a la comunidad, los animales ingresados en el Centro de Control Canino y Felino, deberán de cumplir con un periodo de estadía para observación clínica que determine el médico veterinario responsable del Centro, que tendrá como mínimo 72 horas y máximo de 10 días naturales. Periodo necesario para determinar previa firma responsiva, si se regresa a sus propietarios cuando los hubiera, o se procede al Sacrificio Humanitario en los casos que ameriten.
+A excepción de los plazos establecidos en los artículos 6 y 74 de la presente Ley, y con el objetivo de identificar enfermedades o comportamientos que pongan en peligro a los propietarios o a la comunidad, los animales ingresados en los Centros de Atención, Protección y Bienestar Animal, deberán de cumplir con un periodo de estadía para observación clínica que determine el médico veterinario responsable del Centro, que tendrá como mínimo 72 horas y máximo de 10 días naturales. Periodo necesario para determinar previa firma de responsiva, si se regresa a sus propietarios cuando los hubiera, o se procede al Sacrificio Humanitario en los casos que ameriten.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
 En el caso de que se trate de un animal agresor, el plazo forzoso de observación descrito en el párrafo anterior será de 10 días, durante el cual teniendo en cuenta el artículo 75 de la presente Ley, se determinará si el animal representa un peligro para el dueño o para la sociedad, y si es posible su devolución a sus propietarios.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
+
 Cuando el Centro determine el sacrificio humanitario del animal agresor, los propietarios podrán inconformarse y recurrir a un proceso de valoración externo, realizado por el organismo que previamente haya sido autorizado por el Consejo Ciudadano. Para dicha valoración, el Organismo podrá solicitar la custodia del animal hasta por 10 días naturales, periodo durante el cual se analizará el comportamiento y deberá de emitir una opinión técnica.
 
-En el caso de que la opinión técnica emitida por el Organismo descrito en el párrafo anterior sea contraria a la anteriormente emitida por el Centro de Control Canino y Felino, será atribución de la Secretaría de Salud del Estado determinar en un plazo de hasta 5 días hábiles posteriores, de manera fundada y motivada, si procede la liberación a sus dueños o el procedimiento de Sacrificio Humanitario.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+En el caso de que la opinión técnica emitida por el Organismo descrito en el párrafo anterior sea contraria a la anteriormente emitida por los Centros de Atención, Protección y Bienestar Animal, será atribución de la Secretaría de Salud del Estado determinar en un plazo de hasta 5 días hábiles posteriores, de manera fundada y motivada, si procede la liberación a sus dueños o el procedimiento de Sacrificio Humanitario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 77.
 
-El procedimiento de eutanasia se realizará en animales que hayan ingresado al Centro de Control Canino y Felino en los siguientes supuestos:
+El procedimiento de eutanasia se realizará en animales que hayan ingresado a los Centros de Atención, Protección y Bienestar Animal en los siguientes supuestos:
 
 I. Cuando sean asegurados y no reclamados en un plazo de tres hasta 15 días naturales contados a partir de su ingreso al Centro por deambular en la vía pública y se encuentren sin asistencia y cuidado humano, salvo aquellos que hayan sido seleccionados para adopción;
 
@@ -1325,9 +1495,11 @@ V. Cuando los animales agresores, en un período de observación de 10 días nat
 
 VI. Cuando una autoridad de salud así lo ordene por medio de una resolución, conforme al cuarto párrafo del artículo 76 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 78.
 
-El procedimiento de sacrificio de emergencia de animales en los Centros de Control Canino y Felino se realizará después de que el animal haya sido valorado por un Médico Veterinario Zootecnista, considerando que cuente con lesiones que no sean compatibles con la vida, o enfermedades terminales o condición que le produzcan un sufrimiento excesivo y siguiendo los procedimientos establecidos en la norma oficial aplicable.
+El procedimiento de sacrificio de emergencia de animales en los Centros de Atención, Protección y Bienestar Animal se realizará después de que el animal haya sido valorado por un Médico Veterinario Zootecnista, considerando que cuente con lesiones que no sean compatibles con la vida, o enfermedades terminales o condición que le produzcan un sufrimiento excesivo y siguiendo los procedimientos establecidos en la norma oficial aplicable.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1337,15 +1509,19 @@ Salvo la eutanasia de emergencia, está prohibido proceder al sacrificio en la v
 
 A los procesos de aplicación del Sacrificio Humanitario, podrán asistir como observadores, guardando el decoro y siguiendo las instrucciones y normas del Centro, los propietarios de los animales agresores, los integrantes del Consejo Ciudadano, las Organizaciones de la Sociedad Civil legalmente constituidas dedicadas a la protección, defensa y bienestar de los animales y los médicos veterinarios zootecnistas debidamente acreditados y certificados por la Secretaria de Salud. No se permitirá la entrada como observadores a menores de edad.
 
-Para cumplir con lo anterior, el personal del Centro de Control Canino y Felino deberá de comunicar al Consejo Ciudadano y publicar en estrados con al menos un día de anticipación, la calendarización que se tenga de procedimientos de Sacrificio Humanitario, con excepción de los que establece el artículo 77 fracciones III y IV y el artículo 78 de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Para cumplir con lo anterior, el personal de los Centros de Atención, Protección y Bienestar Animal deberá de comunicar al Consejo Ciudadano y publicar en estrados con al menos un día de anticipación, la calendarización que se tenga de procedimientos de Sacrificio Humanitario, con excepción de los que establece el artículo 77 fracciones III y IV y el artículo 78 de la presente Ley.
 
 ###### Artículo 80.
 
 La Secretaría será responsable de coordinarse con las autoridades competentes para el tratamiento y destino de los animales decomisados, con base en las leyes, reglamentos, disposiciones aplicables y los convenios suscritos.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 81.
 
-Las organizaciones de la sociedad civil dedicadas a la protección, defensa y bienestar de los animales, podrán solicitar a los Centros de Control Canino y Felino la donación de perros y gatos clínicamente sanos, que hayan sido entregados voluntariamente o que hayan sido capturados y no sean reclamados por su propietario, poseedor o encargado una vez transcurrido el período establecido en la presente Ley, con la finalidad de ofrecerlos en adopción.
+Las organizaciones de la sociedad civil dedicadas a la protección, defensa y bienestar de los animales, podrán solicitar a los Centros de Atención, Protección y Bienestar Animal la donación de perros y gatos clínicamente sanos, que hayan sido entregados voluntariamente o que hayan sido capturados y no sean reclamados por su propietario, poseedor o encargado una vez transcurrido el período establecido en la presente Ley, con la finalidad de ofrecerlos en adopción.
 
 ###### Artículo 82.
 
@@ -1361,59 +1537,85 @@ IV. Contar con un Médico Veterinario Zootecnista responsable, personal debidame
 
 V. Contar con instalaciones adecuadas y suficientes, ya sea propias o de terceros.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 83.
 
-Los responsables de los Centros de Control Canino y Felino deberán ser Médicos Veterinarios Zootecnistas con cédula profesional vigente y no haber sido sancionados por ejercer algún tipo de maltrato o crueldad animal, lo cual acreditarán a través de la constancia emitida por la Secretaría en los términos de la fracción III del artículo 11 de esta Ley.
+Los responsables de los Centros de Atención, Protección y Bienestar Animal deberán ser Médicos Veterinarios Zootecnistas con cédula profesional vigente y no haber sido sancionados por ejercer algún tipo de maltrato o crueldad animal, lo cual acreditarán a través de la constancia emitida por la Secretaría en los términos de la fracción III del artículo 11 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 84.
 
-El personal encargado de llevar a cabo los diversos procedimientos y actividades en el Centro de Control Canino y Felino deberá capacitarse en las áreas de bienestar animal, técnicas de captura, traslado y sacrificio para proporcionar un trato digno, respetuoso, y un manejo responsable de los perros y gatos.
+El personal encargado de llevar a cabo los diversos procedimientos y actividades en los Centros de Atención, Protección y Bienestar Animal deberá capacitarse en las áreas de bienestar animal, técnicas de captura, traslado, adopción responsable y sacrificio humanitario para proporcionar un trato digno, respetuoso, y un manejo responsable de los perros y gatos.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 85.
 
-El Centro de Control Canino y Felino deberá contar con los expedientes actualizados de todo su personal, los cuales deberán contar con al menos copias simples de su título y cédula profesional, diplomados, especialidades u otros que lo avalen. Dichos expedientes contendrán los resultados de las evaluaciones psicológicas periódicas practicadas a su personal y la constancia de no existencia de sanción por ejercer algún tipo de maltrato o crueldad animal emitida por la Secretaría en los términos de la fracción III del artículo 11 de esta Ley.
+Los Centros de Atención, Protección y Bienestar Animal deberán contar con los expedientes actualizados de todo su personal, los cuales deberán contar con al menos copias simples de su título y cédula profesional, diplomados, especialidades u otros que lo avalen. Dichos expedientes contendrán los resultados de las evaluaciones psicológicas periódicas practicadas a su personal y la constancia de no existencia de sanción por ejercer algún tipo de maltrato o crueldad animal emitida por la Secretaría en los términos de la fracción III del artículo 11 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 85 Bis.
 
-El Centro de Control Canino y Felino deberá de contar con los expedientes actualizados de todos los animales que ingresen al Centro, el cual deberá de incluir todos los procedimientos que tuvieron los dichos animales durante su custodia. Dichos expedientes deberán de ser compartidos de forma expedita, previo oficio de solicitud, a la persona que demuestre un interés legítimo, así como al Consejo Ciudadano.
+Los Centros de Atención, Protección y Bienestar Animal deberán de contar con los expedientes actualizados de todos los animales que ingresen al Centro, el cual deberá de incluir todos los procedimientos que tuvieron los dichos animales durante su custodia. Dichos expedientes deberán de ser compartidos de forma expedita, previo oficio de solicitud, a la persona que demuestre un interés legítimo, así como al Consejo Ciudadano.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2020)</small>
 
 Además, el Centro publicará en estrados para consulta de las personas interesadas, la relación de animales ingresados, egresados y de aquellos sometidos al sacrificio humanitario, teniendo dicha información actualizada de forma diaria. Para realizar lo anterior podrá auxiliarse de cualquier medio visual que permita una identificación de los animales enlistados.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 86.
 
-Los Centros de Control Canino y Felino deberán contar con la separación física de las áreas, y de mantenerlas limpias, desinfectadas y libres de olores que puedan causar molestia a los vecinos.
+Los Centros de Atención, Protección y Bienestar Animal deberán contar con la separación física de las áreas, y de mantenerlas limpias, desinfectadas y libres de olores que puedan causar molestia a los vecinos.
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 86 Bis.
 
-En el Centro de Control Canino y Felino deberán de considerarse las siguientes medidas de buen trato y seguridad para los animales:
+En los Centros de Atención, Protección y Bienestar Animal deberán de considerarse las siguientes medidas de buen trato y seguridad para los animales:
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
 
 I. Contar con un buen sistema de asideros, que los aseguren y no los maltraten en la piel o sujetándolos fuertemente;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
 II. Hacer la separación entre madres gestantes, madres con cachorros, animales de diferentes especies, de diferentes tamaños, animales agresivos, animales en agonía, entre otras separaciones que deban hacerse para garantizar la integridad física de los animales durante sus días de estancia;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
 
 III. Asegurarse que jaulas y drenajes cuenten con las puertas y rejillas y registros de drenaje en buen estado, de tal forma que no vayan a caerse o a salirse los animales pequeños de su lugar de confinamiento o que no vayan a lastimarse los animales en general;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
 IV. Se debe tener iluminación y ventilación suficiente, así como sistemas de limpieza y desinfección diaria y fumigación periódica;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
 
 V. Las camionetas de recolección deben estar en buen estado y deben tener las separaciones correspondientes para que los animales viajen en forma segura y ninguno corra peligro;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
 VI. Todos los animales deberán recibir agua y comida diariamente en comederos a su alcance, y sin que la diferencia de tamaños deje a animales pequeños, débiles o de mayor edad sin acceso al alimento;
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
 
 VII. El sacrificio deberá realizarse respetando los días de estancia para que sus dueños vayan a recogerlos, y cumpliendo con la normativa correspondiente del uso de sedantes para la insensibilización previa, y barbitúricos, siempre dejando el tiempo necesario para que haga efecto el sedante, y asegurando su muerte con estetoscopio o con algún método que garantice su muerte antes de proceder con el envío de cadáveres.
 
 Está prohibido todo sacrificio que no sea sacrificio humanitario, en los términos de la fracción XLV del artículo 3 de esta Ley;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
 VIII. Los animales que lleguen en dolor o en agonía y estén en sufrimiento, deberán ser sujetos a valoración médico veterinaria y en su caso realizar el sacrificio humanitario lo antes posible, siempre que éste tenga por fin salvaguardar el bienestar animal;
 
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
+
 IX. Las placas y medidas de identificación, tales como tatuajes, chips de identificación u otros métodos, deberán ser revisados de todos los animales que ingresen para la notificación a sus propietarios, y que cumplan con la responsabilidad respectiva que haya decidido el Municipio; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
 
 X. Se debe privilegiar la adopción de los animales, para lo cual se trabajará en colaboración con las organizaciones civiles y la ciudadanía.
 
@@ -1431,7 +1633,7 @@ III. Deben contar con la asignación de ropa de trabajo adecuada para realizar s
 
 IV. Deben ser revisados periódicamente por un profesional médico y por un profesional de psicología, mínimo una vez al año, y en caso de requerirlo recibir la terapia que en su caso se requiera.
 
-### CAPÍTULO XIII. DE LA EUTANASIA DE LOS ANIMALES Y DEL SACRIFICIO DE EMERGENCIA
+### CAPÍTULO XII. DE LOS RASTROS Y DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 87.
 
@@ -1445,7 +1647,7 @@ Queda prohibido el sacrificio de animales de consumo en rastros clandestinos, o 
 
 Queda prohibida la presencia de personas menores de 10 años en las salas de sacrificio, antes, durante y después del sacrificio de cualquier animal. Los propietarios, administradores o encargados de los rastros o salas de sacrificio serán responsables del cumplimiento de esta disposición.
 
-### CAPÍTULO XIV. DE LOS SERVICIOS Y CENTROS DE ATENCIÓN VETERINARIA
+### CAPÍTULO XIII. DE LA EUTANASIA DE LOS ANIMALES Y DEL SACRIFICIO DE EMERGENCIA
 
 ###### Artículo 89.
 
@@ -1459,7 +1661,7 @@ Se podrá practicar la eutanasia de animales como una medida para el combate de 
 
 En el caso de contingencias como: accidentes viales, explosiones, actos delincuenciales, desastres naturales o ambientales, donde se encuentren involucrados uno o más animales, las autoridades competentes estarán obligados a solicitar la presencia de un Médico Veterinario Zootecnista para que evalué la condición en que se encuentran los animales y determinar, en caso de ser necesario, cuáles de ellos requieran un sacrificio de emergencia, siempre con base a lo establecido en la Norma Oficial aplicable.
 
-### CAPÍTULO XV. DE LA EXPERIMENTACIÓN Y PRÁCTICAS PROFESIONALES CON ANIMALES
+### CAPÍTULO XIV. DE LOS SERVICIOS Y CENTROS DE ATENCIÓN VETERINARIA
 
 ###### Artículo 92.
 
@@ -1481,11 +1683,13 @@ III. Cuando hayan prestado servicios de guardia y protección y su vida útil ha
 
 IV. Cuando medie orden de una autoridad competente para practicar la eutanasia a un animal.
 
-### CAPÍTULO XVI. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO XV. DE LA EXPERIMENTACIÓN Y PRÁCTICAS PROFESIONALES CON ANIMALES
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 95.
 
-Las instituciones de educación superior, colegios profesionales de medicina y centros de investigación e innovación tecnológica podrán llevar a cabo actividades de docencia y experimentación con animales en el Estado, y podrán solicitar a los Centros de Control Canino y Felino la donación de perros y gatos que hayan sido destinados al procedimiento de eutanasia.
+Las instituciones de educación superior, colegios profesionales de medicina y centros de investigación e innovación tecnológica podrán llevar a cabo actividades de docencia y experimentación con animales en el Estado, y podrán solicitar a los Centros de Atención, Protección y Bienestar Animal la donación de perros y gatos que hayan sido destinados al procedimiento de eutanasia.
 
 ###### Artículo 96.
 
@@ -1527,7 +1731,7 @@ VII. La medicina legal y forense.
 
 En materia de investigación y docencia, siempre y cuando existan alternativas disponibles, queda prohibido causar o inducir lesiones, heridas o fracturas en animales, así como implementar otras prácticas similares que causen daño físico o que afecten el bienestar de los animales.
 
-### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO, MEDIDAS DE SEGURIDAD Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO XVI. DE LA DENUNCIA CIUDADANA
 
 ###### Artículo 99.
 
@@ -1605,7 +1809,7 @@ La autoridad estará obligada, cuando así proceda el caso, de dar parte a otras
 
 La formulación de la denuncia, así como los acuerdos, resoluciones y recomendaciones que emita la autoridad competente, no afectarán el ejercicio de otros derechos o medios de defensa que pudieran corresponder a los afectados, conforme a las disposiciones jurídicas aplicables, y tampoco suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad.
 
-### CAPÍTULO XVIII. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XVII. DEL PROCEDIMIENTO ADMINISTRATIVO, MEDIDAS DE SEGURIDAD Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 108.
 
@@ -1853,9 +2057,7 @@ Cuando se compruebe que el daño causado fue realizado en forma imprudencial, o 
 
 La Secretaría en caso de reincidencia en cualquiera de las infracciones establecidas en este capítulo, podrá aumentar la multa hasta por el doble de la sanción pecuniaria correspondiente.
 
-### CAPÍTULO XIX. DEL CONSEJO CIUDADANO DE PROTECCIÓN Y BIENESTAR ANIMAL
-
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+### CAPÍTULO XVIII. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 130.
 
@@ -1875,7 +2077,7 @@ Transcurrido el plazo para el desahogo de las pruebas y presentación de alegato
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2020)</small>
 
-### CAPÍTULO XX. FIDEICOMISO MIXTO DE PROTECCIÓN Y BIENESTAR ANIMAL
+### CAPÍTULO XIX. DEL CONSEJO CIUDADANO DE PROTECCIÓN Y BIENESTAR ANIMAL
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -1991,7 +2193,9 @@ III. Gestionar con las autoridades competentes para que atiendan y resuelvan las
 
 IV. Proponer y realizar vínculos de coordinación con los responsables de las diferentes instancias de gobierno, así como con las organizaciones de la sociedad civil;
 
-V. Verificar de manera periódica el funcionamiento de los Centros de Control Canino y Felino, para asegurar el cabal cumplimiento de esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+V. Verificar de manera periódica el funcionamiento de los Centros de Atención, Protección y Bienestar Animal, para asegurar el cabal cumplimiento de esta Ley y su Reglamento;
 
 VI. Observar el funcionamiento de espectáculos con animales en establecimientos fijos, móviles e itinerantes en los términos de esta Ley y su Reglamento y, en su caso, emitir recomendaciones no vinculantes a la Secretaría cuando ésta vaya a autorizar su operación en territorio estatal;
 
@@ -2018,6 +2222,10 @@ XVI. Expedir su Reglamento Interior y su Manual de Organización, así como mand
 XVII. Las demás previstas en esta Ley, su Reglamento y el Reglamento Interior del Consejo Ciudadano de Protección y Bienestar Animal.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2020)</small>
+
+### CAPÍTULO XX. FIDEICOMISO MIXTO DE PROTECCIÓN Y BIENESTAR ANIMAL
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
 
 ###### Artículo 145.
 
@@ -2088,6 +2296,34 @@ V. Un representante del Congreso del Estado de Nuevo León, que será un integra
 VI. Un representante del Consejo Ciudadano de Protección y Bienestar Animal, que será quien tenga el carácter de Presidente del mismo.
 
 Lo anterior, con la finalidad de garantizar la total transparencia en el manejo y uso de los recursos que se administren por la fiduciaria para la protección y el bienestar animal integral y sostenible.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO XXI. DE LOS ESPACIOS AMIGABLES CON ANIMALES DE COMPAÑÍA
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 149.
+
+Se denomina establecimiento amigable con animales de compañía, a todo lugar que permite el ingreso de mascotas de manera responsable y ordenada, ofreciendo trato digno y responsable para los animales de compañía y sus dueños.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 150.
+
+Todo establecimiento que sea considerado como amigable con animales de compañía, deberá contar con lo siguiente:
+
+I. Estar visiblemente identificados como establecimiento amigable;
+
+II. Condiciones higiénicas adecuadas para evitar riesgos sanitarios;
+
+III. Espacios claramente delimitados donde las mascotas puedan permanecer, evitando conflictos con áreas no destinadas a su acceso;
+
+IV. Medidas de seguridad para prevenir incidentes entre los animales y entre estos y las personas;
+
+V. Difusión del Código Universal de Colores para Mascotas publicado por la Secretaría, con el fin de identificar sus necesidades y comportamientos para una convivencia segura dentro del establecimiento; y
+
+VI. Las demás previstas en esta Ley.
 
 ## TRANSITORIOS
 
@@ -2262,3 +2498,15 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO.. (sic) El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO. Los parques zoológicos de la entidad tendrán un plazo de un año, a partir de la entrada en vigor del presente Decreto, para hacer los ajustes necesarios para cumplir con las disposiciones de esta Ley.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 112. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente día (sic) al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las erogaciones en que se incurra por la implementación de lo previsto en el presente Decreto se hará de acuerdo con la disponibilidad presupuestal.
+
+TERCERO.- Una vez que entre en vigor el presente Decreto, la Secretaría de Medio Ambiente y los Ayuntamientos, contará (sic) con un plazo de 180 días hábiles para establecer en sus reglamentos correspondientes las disposiciones necesarias tendientes a la observancia y debido cumplimiento del presente Decreto.
+
+CUARTO.- La Secretaría dispondrá de un plazo de 60-sesenta días a partir de la entrada en vigor del presente decreto, para establecer y publicar el Código Universal de Colores para Mascotas referido en los artículos 16 Bis 1 y 150 de la Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Nuevo León. A los establecimientos que deban implementar pautas con base a dicho código, se les dará un periodo de gracia de 10 días posteriores a la publicación del mismo.
