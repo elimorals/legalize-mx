@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2025-05-08"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -949,9 +949,9 @@ II. Concertar, coordinar, instrumentar, evaluar y ejecutar programas y acciones 
 
 III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado y sustentable de los asentamientos humanos del Estado;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-IV. Promover y ejecutar los programas y acciones de vivienda, así como los tendientes al mejoramiento del entorno urbano privilegiando condiciones de resiliencia, sustentabilidad y protección al medio ambiente.
+IV. Instrumentar, ejecutar y vigilar los programas y acciones de vivienda urbana y rural, así como aquellos relacionados con el mejoramiento, rehabilitación y autoconstrucción, privilegiando condiciones de resiliencia, sustentabilidad y protección al ambiente, procurando en todo momento que dichos programas y acciones permitan contemplar, además de la regularización de la tenencia de la tierra y de la vivienda, la entrega de apoyos en especie, destinados a la construcción y mejoramiento de las viviendas;
 
 V. Asesorar, apoyar y promover técnica y jurídicamente, la incorporación de la tierra de origen rural al desarrollo urbano;
 
@@ -971,9 +971,9 @@ IX. Determinar en los períodos que señalen las disposiciones legales, las cara
 
 X. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda a los organismos descentralizados especializados en la materia;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XI. Otorgar los Dictámenes en materia de Impacto Territorial, de Verificación de Congruencia, así como las Constancias de Compatibilidad Territorial en su caso, de conformidad con las disposiciones legales aplicables; así como otorgar las escrituras públicas y los títulos de propiedad sobre los predios que enajene, comercialice o que regularice en todo o en parte de conformidad con las disposiciones legales aplicables;
+XI. Otorgar las Constancias y los Dictámenes de Verificación de Congruencia que al efecto correspondan; así como expedir los Títulos de Propiedad o las Escrituras Públicas, que deriven del cumplimiento de las obligaciones contractuales relacionadas con aquellos predios o fracciones de terreno que haya comercializado o enajenado, así como de aquellos que regularice en términos de los programas y acciones que se implementen para tal fin, de conformidad con las disposiciones legales aplicables;
 
 XII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2024)
 
@@ -989,7 +989,9 @@ XVI. Proponer criterios y acciones para la regulación y mejoramiento de los ase
 
 XVII. Coadyuvar con los Gobiernos Federal y Municipal, en el sistema tendiente a satisfacer las necesidades de tierra para vivienda y para el desarrollo urbano;
 
-XVIII. Coadyuvar en la vigilancia del cumplimiento de las declaraciones de usos, destinos, reservas y provisiones de predios que se expidan en el Estado, en coordinación con las autoridades competentes;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XVIII. Coadyuvar en la vigilancia del cumplimiento de las declaraciones de usos, destinos, reservas y provisiones de predios que se expidan en el Estado, así como presentar las denuncias correspondientes en materia de delitos en contra del desarrollo urbano ante autoridades competentes;
 
 XIX. Programar de manera coordinada con las autoridades federales, estatales y municipales competentes, la inversión pública y la realización de acciones de desarrollo urbano que se ejecuten en la Entidad y evaluar sus resultados;
 
@@ -1021,13 +1023,19 @@ XXVIII. Convenir con el Gobierno Federal y en su caso, con los Ayuntamientos la 
 
 XXIX. Promover en congruencia con el programa de desarrollo urbano aplicable, la desincorporación de porciones de tierra o predios de la reserva territorial, para que pasen a formar parte del área de expansión del centro de población correspondiente;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XXX. Fomentar la construcción y comercialización, en su caso, de lotes con servicios, obras de equipamiento y acciones urbanísticas de vivienda social o producción social de vivienda, para su venta o renta a personas que carezcan de vivienda, y cuya capacidad económica no les permita adquirirla;
+XXX. Fomentar la construcción y comercialización de desarrollos inmobiliarios y/o conjuntos urbanos, de interés social, destinados para venta o renta a personas que carezcan de vivienda y cuya capacidad económica no les permita adquirirla;
 
 XXXI. (DEROGADA, P.O. 19 DE JULIO DE 2017)
 
-XXXII. Promover y realizar programas de mejoramiento y rehabilitación de vivienda urbana y rural;
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XXXI Bis. Enajenar de manera directa y sin intermediarios, los predios habitacionales o de naturaleza social, que tenga en administración o disposición, así como aquellos que le sean aportados por algún ente público competente en la materia, para lo cual tendrá facultad plena para realizar cualquier acto, promesa o contrato traslativo de dominio sobre los mismos a favor de terceros, de conformidad con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XXXII. Impulsar la regularización de los asentamientos humanos para atender la demanda de vivienda en el Estado, mediante la instrumentación de programas tendientes a la promoción, asesoría y acompañamiento para la titulación y ordenamiento de la propiedad privada, así como promover la reducción de los costos y la simplificación de los trámites y procedimientos que se implementen para ese fin, pudiendo llevar a cabo todas las operaciones técnicas, jurídicas y administrativas necesarias para elaborar los proyectos a los que se refiere el presente artículo y conforme a lo establecido en las demás disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2960,3 +2968,11 @@ TERCERO. Se derogan todas las disposiciones legales, de igual o menor jerarquía
 CUARTO. La entrada en vigor del presente Decreto no afectará los recursos humanos, materiales y financieros que correspondan a la Agencia de Proyectos Estratégicos del Estado de Quintana Roo y que, en virtud del presente Decreto, se sectoriza a la Secretaría de Finanzas y Planeación, por lo que no se afectarán regímenes, derechos laborales ni el cumplimiento de obligaciones previamente contraídas por el citado Organismo Público Descentralizado.
 
 QUINTO. Los asuntos, procedimientos y demás trámites vigentes a cargo de la Agencia de Proyectos Estratégicos del Estado de Quintana Roo y que se encuentren pendientes de resolución al momento de la entrada en vigor de este Decreto, serán informados de inmediato a la Secretaría de Finanzas y Planeación, para la coordinación y seguimiento correspondiente.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 129 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
