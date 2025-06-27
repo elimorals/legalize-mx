@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-74811"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-30"
-last_updated: "2018-11-30"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 2010.
 
@@ -107,7 +107,9 @@ XIII. Recursos Hídricos: Son los recursos de agua en términos de disponibilida
 
 XIV. Reglamento: El Reglamento de la Ley de Desarrollo Forestal Sustentable del Estado de Baja California;
 
-XV. Secretaría: Secretaría de Protección al Ambiente;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XV. Secretaría: Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
 XVI. Sistema Estatal: El Sistema Estatal de Información Forestal;
 
@@ -661,7 +663,9 @@ V. Impulsar la participación de promotores forestales voluntarios;
 
 VI. Encabezar programas de capacitación relacionados con la difusión de la cultura de conservación forestal;
 
-VII. Desarrollar proyectos de educación ambiental, prevención de incendios forestales y de difusión de la cultura para la protección de los recursos forestales;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VII. Realizar campañas de difusión permanentes en redes sociales y medios de comunicación, para informar a la población sobre las medidas de prevención y acciones que deben tomarse para evitar, combatir y reducir los incendios en zonas forestales aunado a desarrollar proyectos de educación ambiental, prevención y de difusión de la cultura para la protección de los recursos forestales;
 
 VIII. Impartir en escuelas públicas y privadas educación forestal y acciones de prevención a contingencias ambientales;
 
@@ -790,3 +794,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 110 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
