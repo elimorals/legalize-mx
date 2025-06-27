@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12304
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-11"
-last_updated: "2024-02-09"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección I al Número 37 del Periódico Oficial del Estado de Baja California, el viernes 11 de agosto de 2017.
 
@@ -394,6 +394,10 @@ III. Fiscalizar los subsidios y subvenciones que otorgue el Gobierno del Estado 
 IV. Proponer a las instancias correspondientes, en los términos de la Ley General de Contabilidad Gubernamental y demás legislación aplicable, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto, financiamientos y obligaciones; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías;
 
 V. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los Programas, conforme a los indicadores establecidos en el Presupuesto de Egresos y tomando en cuenta el Plan Estatal de Desarrollo, los planes Municipales de Desarrollo, los programas sectoriales, los Programas Operativos Anuales, y demás Programas de las entidades fiscalizadas, entre otros, a efecto de verificar el desempeño de los mismos y, en su caso, el uso de recursos públicos;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+V BIS. Practicar auditorías forenses que tengan por objeto la revisión de los procesos, hechos y evidencias para la detección de actos u omisiones que pudieran implicar alguna irregularidad o conducta ilícita, documentando con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades detectadas, apoyándose con la tecnología y herramienta forense en los términos y las materias de competencia de la presente fracción.
 
 VI. Verificar que las Entidades Fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los Programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
@@ -1305,6 +1309,10 @@ XX. Solicitar a la Secretaría de Hacienda, el cobro de las multas que se impong
 
 XXI. Instruir la presentación de las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos, de conformidad con las disposiciones legales aplicables;
 
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XXI BIS. Ordenar la práctica de Auditorías Forenses, mediante la revisión de hechos o evidencias que permitan decretar o investigar actos u omisiones que impliquen probables irregularidades o conductas ilícitas, así como sus causas, efectos y consecuencias, de conformidad con el procedimiento, los alcances y en los términos que determine la Constitución, la presente Ley, su Reglamento Interior y demás disposiciones que resulten aplicables.
+
 XXII. Expedir la política de remuneraciones, prestaciones y estímulos del personal de confianza de la Auditoría Superior del Estado, observando lo aprobado en el Presupuesto de Egresos correspondiente y a las disposiciones de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California;
 
 XXIII. Elaborar y aprobar para su envío a la Comisión, el plan estratégico de la Auditoría Superior del Estado;
@@ -1608,3 +1616,9 @@ P.O. 9 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 387 MEDIANTE EL CUAL, SE APRUEBA LA REFORMA QUE MODIFICA EL ARTÍCULO CUARTO TRANSITORIO DEL RESOLUTIVO SEGUNDO DEL DECRETO NO. 310, PUBLICADO EN FECHA 06 DE NOVIEMBRE DE 2023, EN EL TOMO CXXX, ÍNDICE, SECCIÓN I, NO. 62, DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 107 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO Y SUS MUNICIPIOS, CON EL PROPÓSITO DE ADICIONAR COMO ATRIBUCIÓN DE LA AUDITORÍA SUPERIOR DEL ESTADO DE BAJA CALIFORNIA, COMO DEL TITULAR LA PRÁCTICA DE LA AUDITORÍA FORENSE”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
