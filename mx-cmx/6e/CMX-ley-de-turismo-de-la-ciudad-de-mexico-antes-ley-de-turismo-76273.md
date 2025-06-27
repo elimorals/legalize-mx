@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-de-la-ciudad-de-mexico-antes-ley-de-turismo-7627
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-30"
-last_updated: "2024-10-03"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76273&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-23"
 
 LEY DE TURISMO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de agosto de 2010.
 
@@ -341,6 +341,10 @@ XII. Apoyar la celebración de ferias y eventos promocionales de turismo, que se
 > <small>(ADICIONADA, G.O. 4 DE ABRIL DE 2024)</small>
 
 XII Bis. Promover y fomentar en coordinación con la Secretaría de Salud, el desarrollo de programas y proyectos para impulsar el Turismo de Salud;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2025)</small>
+
+XII Ter. Promover y fomentar en coordinación con la Secretaría de Movilidad y la Secretaría de Seguridad Ciudadana, en el ámbito de sus respectivas competencias, la identificación de las necesidades de señalización en las vías de acceso a las zonas turísticas y la regulación del transporte turístico;
 
 XIII. Diseñar, instrumentar, ejecutar y evaluar los programas de investigación para el desarrollo turístico local;
 
@@ -1172,9 +1176,17 @@ Todos los prestadores de servicios que brinden el servicio de hospedaje y estanc
 
 I. Solicitar la exhibición de credencial de elector o de cualquier otro documento oficial que demuestre la mayoría de edad;
 
-II. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia; y
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2025)</small>
 
-III. Notificar a las autoridades correspondientes, en caso de advertir la posible comisión de un delito.
+II. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones o inmuebles de uso habitacional destinado a la prestación del servicio de hospedaje o estancia turística eventual, exclusivamente en compañía de quien acredite mediante documento idóneo tener parentesco, o ser quien ejerza la patria potestad, tutela o guarda y custodia;
+
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2025)</small>
+
+III. Notificar a las autoridades correspondientes, en caso de advertir la posible comisión de un delito; y
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2025)</small>
+
+IV. Capacitar y sensibilizar a su personal en la prevención y rechazo de cualquier acto de abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
 
 ###### Artículo 61.
 
@@ -1217,6 +1229,10 @@ VI. Contar con instalaciones seguras e higiénicas para el uso de los turistas;
 VII. Informar a los vecinos inmediatos sobre el uso turístico de los inmuebles ofertados y proporcionar números de contacto para recibir reportes sobre el mal uso o situaciones de emergencia sobre dichos inmuebles;
 
 VIII. Garantizar los requisitos de seguridad, atendiendo la normatividad en materia de gestión integral de riesgos y protección civil;
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2025)</small>
+
+VIII Bis. Capacitar y sensibilizar a su personal y/o prestador de servicio en la prevención y rechazo de cualquier acto de abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
 
 IX. Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable;
 
@@ -1557,3 +1573,13 @@ G.O. 3 DE OCTUBRE DE 2024.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación y promulgación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 7, ADICIONÁNDOSE UNA FRACCIÓN XII TER.; SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 60 BIS Y SE ADICIONA UNA FRACCIÓN VIII BIS., AL ARTÍCULO 61 TER., DE LA LEY DE TURISMO DE LA CIUDAD DE MÉXICO”.]
+
+Artículo Primero. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Artículo Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Artículo Tercero. Las autoridades competentes, en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones reglamentarias correspondientes.
