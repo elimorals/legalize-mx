@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-fiscalia-general-del-estado-de-coahuila-1233
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-12"
-last_updated: "2023-08-11"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Segunda Sección al Número 73 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de septiembre de 2017.
 
@@ -721,7 +721,9 @@ c) Dirección General de Servicios Periciales.
 
 De los Requisitos para ser Fiscal Especializado.
 
-Los fiscales especializados serán nombrados y removidos libremente por el Fiscal General; para ser nombrado Fiscal Especializado, se deberán satisfacer los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Los fiscales especializados serán nombrados y removidos libremente por el Fiscal General, excepto el Fiscal Especializado en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, cuya remoción será conforme al penúltimo párrafo del artículo 113 de la Constitución Local; para ser nombrado Fiscal Especializado, se deberán satisfacer los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento o por naturalización, en pleno ejercicio de sus derechos;
 
@@ -761,7 +763,9 @@ III. Las que le otorguen el Fiscal General, la Constitución General, la Constit
 
 Deberes y atribuciones de la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-En el ámbito de su competencia la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes contará con los deberes y atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+
+En el ámbito de su competencia la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes contará con independencia, imparcialidad, autonomía técnica y operativa, y con los deberes y atribuciones siguientes:
 
 I. Iniciar de manera inmediata y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
@@ -2602,3 +2606,9 @@ TERCERO.- El Congreso del Estado determinará en el presupuesto de egresos corre
 CUARTO.- Cualquier mención que se haga de la Fiscalía Especializada en la Investigación de Delitos Cometidos por Agentes del Estado, se entenderá hecha la Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles Inhumanos o Degradantes.
 
 QUINTO.- Dentro del término de ciento veinte días, siguientes al inicio de la vigencia de la presente ley, deberán de realizarse las adecuaciones al Reglamento de la ley Orgánica de la Fiscalía General del Estado y demás normatividad que se requiera en materia de Investigación y Persecución del Delito de Tortura y Otros Tratos o Penas Crueles Inhumanos o Degradantes; para el pleno cumplimiento a la Ley General de la Materia.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 260.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 18 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 20 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
