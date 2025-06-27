@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-el-acoso-escolar-para-el-102656"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2024-04-05"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -307,9 +307,11 @@ II. Los demás integrantes del sector privado y organismos de la sociedad civil 
 
 ### Capítulo III. Definición y Modalidades del Acoso Escolar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 12.
 
-El acoso escolar es cualquier forma de agresión o maltrato psicológico, físico directo o indirecto, verbal o cibernético, dentro o fuera del centro escolar, producido entre alumnos, de forma reiterada, de manera que interfiera en su rendimiento escolar, integración social o la participación en programas educativos, y perjudique la disposición de un estudiante a participar o aprovechar los programas o actividades educativos (sic) del centro escolar, al hacerle sentir un temor razonable a sufrir algún daño de cualquier tipo.
+El acoso escolar es todo acto u omisión que, agreda de forma física, física indirecta, psicoemocional, patrimonial, sexual, verbal o por medios cibernéticos a una niña, niño u adolescente; realizado bajo el cuidado de las instituciones escolares, sean públicas o privadas, dentro o fuera del centro escolar, producido entre alumnado, de forma reiterada, de manera que interfiera en su rendimiento escolar, integración social o la participación en programas educativos; y perjudique la disposición de una o un estudiante a participar o aprovechar los programas o actividades educativos (sic) del centro escolar, al hacerle sentir un temor razonable a sufrir algún daño de cualquier tipo.
 
 También se considera acoso escolar cuando se ocasiona daño o menoscabo en las pertenencias del estudiante, como la sustracción, desaparición, ocultamiento o retención de sus objetos.
 
@@ -662,3 +664,9 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 402 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 14, 17 Y LA ADICIÓN DEL ARTICULO 28 BIS DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 114 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
