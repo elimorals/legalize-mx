@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-secretaria-de-seguridad-publica-del-145358"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-11-25"
-last_updated: "2020-11-25"
+last_updated: "2025-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 27 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en el Número Extraordinario 94 del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 25 de noviembre de 2020.
 
@@ -2176,3 +2178,23 @@ EL SECRETARIO DE GOBIERNO
 ING. JOSÉ MARÍA FRAUSTRO SILLER
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro de los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, se deberá expedir el reglamento interior respectivo, así como los lineamientos y disposiciones reglamentarias y administrativas necesarias para instrumentar las disposiciones de la presente Ley.
+
+TERCERO. Las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de esta Ley seguirán aplicándose en todo lo que no se opongan a lo dispuesto en la misma, hasta en tanto se realice la armonización correspondiente con el presente Decreto.
+
+CUARTO. Se abroga la Ley Orgánica de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza publicada en fecha 25 de noviembre de 2020, y todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan a esta Ley.
+
+QUINTO. Los asuntos en trámite que son atendidos por unidades administrativas que modifican su denominación y/o sus atribuciones en virtud de la entrada en vigor del presente Decreto, continuarán siendo atendidos y resueltos por las unidades administrativas a las que se les de la competencia correspondiente en este ordenamiento.
+
+SEXTO. Las referencias que se hagan y las atribuciones que se otorguen en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones legales, a las unidades administrativas de la Secretaría de Seguridad Pública que cambian de denominación por la entrada en vigor del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes en este ordenamiento.
+
+SÉPTIMO. La Secretaría de Finanzas, en coordinación con la Secretaría de Seguridad Pública, realizará las adecuaciones y gestiones jurídico - administrativas, presupuestales y de movimientos de personal, para la adecuada instrumentación de las disposiciones que establece esta Ley.
