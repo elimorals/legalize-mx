@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-02-14"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2573,9 +2573,9 @@ Consumación del robo.- Para la aplicación de la sanción se dará por consumad
 
 Punibilidad.- A quien cometa el delito de robo se le impondrán las penas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-I.- De seis meses a tres años de prisión y hasta cien veces el valor diario de la Unidad de Medida y Actualización.
+I.- De seis meses a tres años de prisión y hasta cien días multa, cuando el valor de lo robado no exceda de ochenta veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -3109,6 +3109,10 @@ IV.- Bibliotecas, museos, escuelas, edificios o documentos públicos; y
 
 V.- Montes, bosques, pastos, o cultivos de cualquier género.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE JUNIO DE 2025)</small>
+
+Se incrementará la pena hasta en una tercera parte cuando las actividades descritas en el primer párrafo del presente artículo se lleven a cabo o afecten un área natural protegida de competencia estatal o municipal.
+
 ###### Artículo 230.
 
 Acumulación.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas de la acumulación.
@@ -3571,17 +3575,25 @@ Profanación de cadáveres.- La misma pena prevista en el artículo anterior o, 
 
 ### CAPITULO I. PORTACION, FABRICACION, IMPORTACION Y ACOPIO DE ARMAS PROHIBIDAS
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)
+
 ###### Artículo 245.
 
 Tipo.- Para los efectos de este Código son armas prohibidas:
 
-I.- Los puñales, cuchillos, verduguillos y demás armas ocultas o disimuladas en bastones u otros objetos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+I.- Los puñales, cuchillos, verduguillos y demás armas ocultas o disimuladas en bastones u otros objetos.
 
 II.- Los boxes, manoplas, macanas, hondas, correas con balas, pesas o puntas y las demás similares.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2018)</small>
 
 III.- A quien porte, fabrique, importe o acopie sin un fin lícito instrumentos que sólo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales o recreativas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+IV.- Las estrellas, abrojos, cuchillas, erizos, púas, picos y demás que puedan utilizarse para obstaculizar las vías de tránsito.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2018)</small>
 
@@ -6710,3 +6722,21 @@ P.O. 14 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 44 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 179 Y 180 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 201 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 100 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 245 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 102 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 229 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
