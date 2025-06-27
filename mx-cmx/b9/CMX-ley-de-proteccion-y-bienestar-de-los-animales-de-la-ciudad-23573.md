@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2025-05-02"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -862,25 +862,7 @@ h. Realizar operativos en los mercados y establecimientos que se tengan identifi
 
 Asimismo, podrán realizar operativos en escuelas de adiestramiento o lugares que brinden servicio de pensión para animales, a efecto de verificar que no existan violaciones a la presente Ley.
 
-> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], G.O. 16 DE DICIEMBRE DE 2020)</small>
-
-i. En los casos que exista flagrancia estará justificado su ingreso a un lugar cerrado sin orden judicial, cuando:
-
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
-
-1. Sea necesario para evitar la comisión de los delitos previstos en los artículos 350 Bis y 350 Ter del Capítulo IV “Delitos cometidos por actos de maltrato o crueldad en contra de animales no humanos”, del Código Penal para el Distrito Federal; o
-
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
-
-2. Se realiza con consentimiento de quien se encuentre facultado para otorgarlo.
-
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2021)</small>
-
-En los casos del numeral 2, se procederá en términos de lo previsto en el artículo 290 del Código Nacional de Procedimientos Penales.
-
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2020)</small>
-
-Los motivos que determinaron la intromisión sin orden judicial constarán detalladamente en el informe que al efecto se levante.
+i. (DEROGADO, G.O. 27 DE JUNIO DE 2025)
 
 > <small>(ADICIONADO, G.O. 27 DE MAYO DE 2021)</small>
 
@@ -2981,3 +2963,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+G.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL INCISO I) DE LA FRACCIÓN II DEL ARTÍCULO 10 BIS DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
