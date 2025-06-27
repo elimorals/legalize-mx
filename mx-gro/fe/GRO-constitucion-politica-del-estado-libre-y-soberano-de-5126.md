@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-06-24"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -153,7 +153,9 @@ IV. El derecho a la salud integral;
 
 V. El derecho a la alimentación;
 
-VI. El derecho de acceder al agua; toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, de acuerdo a la participación que se establezca con la federación y los municipios de la entidad; así como la participación de la ciudadanía para la consecución de dichos fines;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. El derecho Humano al agua. Toda persona tiene derecho a disfrutar del agua para consumo personal y doméstico, en forma suficiente y saludable, con base en lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales suscritos por el Estado Mexicano. El Estado de acuerdo a su capacidad presupuestal garantizará el acceso, disposición y saneamiento del agua y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, de acuerdo a la participación que se establezca con la federación, el estado, los municipios de la entidad; así como la participación de la ciudadanía en esquemas comunitarios para la consecución de dichos fines; bajo los principios de solidaridad, complementariedad, reciprocidad, equidad, diversidad, racionalidad, autogestión y sustentabilidad. El servicio público de agua estará a cargo del municipio y en los términos de la ley aplicable y no será sujeto de privatización. La gestión del agua será pública y sin fines de lucro.
 
 VII. El derecho a un medio ambiente sano para su desarrollo y bienestar. La ley definirá las bases, apoyos y modalidades para enfrentar los efectos adversos del cambio climático, estableciendo las medidas necesarias, así como la participación de la federación con el Estado y sus municipios, los diferentes sectores sociales para la consecución de dichos fines.
 
@@ -907,19 +909,29 @@ APARTADO CUARTO
 
 PROCESO ELECTORAL
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 40.
 
 La duración de las campañas electorales en el Estado será de:
 
-I. Un máximo de noventa días para elegir Gobernador;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-II. Un máximo de sesenta días para elegir diputados; y,
+I. Un máximo de noventa días para elegir Gobernadora o Gobernador;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+II. Un máximo de sesenta días para elegir Diputadas o Diputados; y,
+
+(REPUBLICADA, P.O. 27 DE JUNIO DE 2025)
 
 III. Un máximo de cuarenta días para elegir ayuntamientos.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 1. Las precampañas de los partidos políticos para la selección interna de candidatos, en ningún caso podrán durar más de dos terceras partes de las respectivas campañas electorales; y,
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 2. La ley establecerá las normas a que se sujetarán las campañas y precampañas electorales, así como las sanciones para quienes las infrinjan.
 
@@ -965,11 +977,13 @@ VIII. Las demás normas que se requieran para la adecuada organización de las e
 
 #### SECCIÓN I. DEL CONGRESO DEL ESTADO Y SU INTEGRACIÓN
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 43.
 
-El Poder Legislativo se deposita en un órgano denominado Congreso del Estado integrado por representantes populares denominados diputados, se renovará en su totalidad cada tres años y funcionará a través de la Legislatura correspondiente.
+El Poder Legislativo se deposita en un órgano denominado Congreso del Estado integrado por representantes populares denominados diputadas o diputados, se renovará en su totalidad cada tres años y funcionará a través de la Legislatura correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 Residirá en la capital del Estado, pero por acuerdo de las dos terceras partes de sus integrantes podrá cambiar provisionalmente su sede.
 
@@ -985,33 +999,27 @@ II. Administrará sus recursos de manera autónoma y garantizará que todos sus 
 
 III. Tomará sus resoluciones conforme al principio de mayoría absoluta de los diputados presentes en la sesión, entendiendo que abrirá válidamente sus sesiones con la misma mayoría del total de los integrantes del Congreso, salvo cuando esta Constitución o la ley determinen una votación distinta.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 45.
 
-El Congreso del Estado se integra por 28 diputados de mayoría relativa y 18 diputados de representación proporcional, en los términos que señale la ley respectiva, los cuales gozarán del mismo estatus jurídico sin diferencia alguna en el ejercicio de la función representativa y deliberativa.
+El Congreso del Estado se integra por 28 Diputadas o Diputados de mayoría relativa y 18 Diputadas o Diputados de representación proporcional, en los términos que señale la ley respectiva, los cuales gozarán del mismo estatus jurídico sin diferencia alguna en el ejercicio de la función representativa y deliberativa.
 
-Un diputado por el principio de representación proporcional tendrá el carácter de migrante o binacional, que será electo conforme lo determine la ley electoral del Estado. Se entenderá por diputado migrante al representante popular que satisfaga las exigencias previstas en la Constitución Política de los Estados Unidos Mexicanos y su ley reglamentaria en materia de nacionalidad y ciudadanía.
+Una Diputada o Diputado por el principio de representación proporcional tendrá el carácter de migrante o binacional, que será electo conforme lo determine la ley electoral del Estado. Se entenderá por Diputada o Diputado migrante al representante popular que satisfaga las exigencias previstas en la Constitución Política de los Estados Unidos Mexicanos y su ley reglamentaria en materia de nacionalidad y ciudadanía.
 
-Por cada diputado propietario se elegirá un suplente, del mismo género, mediante sufragio universal, libre, directo y secreto.
+Por cada Diputada o Diputado propietario se elegirá un suplente, del mismo género, mediante sufragio universal, libre, directo y secreto.
 
-Los diputados al Congreso del Estado podrán ser electos de manera consecutiva hasta por cuatro periodos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado.
-
-Tratándose de los candidatos independientes sólo podrán postularse con ese carácter.
-
-La jornada electoral se verificará el primer domingo del mes de junio del año de la elección.
-
-La ley de la materia regulará lo concerniente a la elección y asignación de las diputaciones, la competencia del Instituto Electoral y de Participación Ciudadana del Estado y las propias del Instituto Nacional Electoral, conforme a lo previsto en la Base V, apartados B y C, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos.
+Las Diputadas y los Diputados al Congreso del Estado podrán ser electos de manera consecutiva hasta por cuatro periodos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado.
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN II. ESTATUTO DE LOS LEGISLADORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
-###### Artículo 46.
+###### ARTICULO 46.
 
-Para ser diputada o diputado al Congreso del Estado se requiere:
+Para ser Diputada o Diputado al Congreso del Estado se requiere:
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1029,103 +1037,121 @@ III. Ser originario del Distrito o Municipio si éste es cabecera de dos o más 
 
 IV. En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-No podrán ser electas diputadas o diputados las personas titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, las o los representantes populares federales, estatales o municipales; las o los Magistrados de los Tribunales Superior de Justicia, Electoral y de Justicia Administrativa del Estado de Guerrero; las o los Jueces, los titulares de los órganos autónomos y con autonomía técnica; así como las y los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado de Guerrero vigente y las y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
+No podrán ser electas Diputadas o Diputados las y los titulares de las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, los representantes populares federales, estatales o municipales; las y los Magistrados de los Tribunales Superior de Justicia, Electoral y de Justicia Administrativa del Estado de Guerrero; las y los Jueces, las y los titulares de los órganos autónomos y con autonomía técnica; así como las y los demás servidores públicos que señala la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08 y las y los servidores públicos que manejen recursos públicos o ejecuten programas gubernamentales, a no ser que se separen definitivamente de sus empleos o cargos noventa días antes de la jornada electoral.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 47.
 
-Resultará electo Diputado al Congreso del Estado el candidato que una vez realizada la elección y los cómputos respectivos, obtenga la constancia correspondiente por parte de la autoridad electoral.
+Resultará electo Diputada o Diputado al Congreso del Estado la candidata o el candidato que una vez realizada la elección y los cómputos respectivos, obtenga la constancia correspondiente por parte de la autoridad electoral.
 
-1. Ante la ausencia definitiva de un Diputado, se procederá como sigue:
+(REPUBLICADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2025)
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE JUNIO DE 2025)</small>
+1.- Ante la ausencia definitiva de un Diputado, se procederá como sigue:
 
-I. De un Diputado de mayoría relativa, la vacante será cubierta por el suplente de la fórmula electa. A falta de ambos, se procederá conforme a lo siguiente:
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-a) Si la ausencia ocurre en el primer año del ejercicio constitucional de la Legislatura, se hará del conocimiento al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero para que convoque a elecciones extraordinarias, y
+I. De una Diputada o un Diputado de mayoría relativa la vacante será cubierta por la o el suplente de la fórmula electa. A falta de ambos se notificará al Consejo General del Instituto Electoral y de Participación Ciudadana para que convoque a elecciones extraordinarias;
 
-b) Si la ausencia ocurre después del primer año del ejercicio constitucional de la Legislatura, de inmediato se hará del conocimiento al partido político que postuló a la fórmula de Diputados ausentes para que dentro de un plazo que no deberá exceder de quince días hábiles contados a partir del día siguiente al de la notificación, proponga una terna al Congreso formada por personas del mismo género al que corresponda la vacante, quienes deberán cumplir los requisitos constitucionales y legales para ser Diputado, y siguiendo el trámite que corresponda, el Pleno con el voto de las dos terceras partes de las Diputadas y Diputados presentes, dentro de un lapso de hasta veinte días naturales posteriores al envío de la terna, nombrará a la persona que ocupará la curul por el resto del periodo legislativo.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-II. De un Diputado de representación proporcional, será cubierta por el suplente de la fórmula. Si la vacante se presenta respecto de la fórmula completa será cubierta por aquella fórmula de candidatos del mismo partido que siga en el orden de la lista respectiva;
+II. De una Diputada o un Diputado de representación proporcional, será cubierta por la o el suplente de la fórmula. Si la vacante se presenta respecto de la fórmula completa será cubierta por aquella fórmula de candidatas o candidatos del mismo partido que siga en el orden de la lista respectiva;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Tratándose de ausencias temporales la Mesa Directiva del Congreso llamará al suplente correspondiente; y,
 
-IV. La licencia concedida a un Diputado lo suspende temporalmente de su inmunidad constitucional, como en el ejercicio de sus funciones representativas y de sus derechos, obligaciones y garantías.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+IV. La licencia concedida a una Diputada o Diputado lo suspende temporalmente de su inmunidad constitucional, como en el ejercicio de sus funciones representativas y de sus derechos, obligaciones y garantías.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 48.
 
-La asignación de los Diputados por el principio de representación proporcional se sujetará a lo siguiente:
+La asignación de las Diputadas y los Diputados por el principio de representación proporcional se sujetará a lo siguiente:
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Tendrán derecho a participar en la asignación los partidos políticos o coaliciones que registren candidaturas de mayoría relativa en al menos 15 distritos electorales del Estado y obtengan por lo menos el tres por ciento del total de la votación válida emitida;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. La asignación seguirá el orden establecido en las listas registradas por los partidos políticos;
 
-III. Ningún partido político podrá contar con más de veintiocho diputados por ambos principios de representación; y,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-IV. El porcentaje máximo de sobrerrepresentación (sic) entre el número de diputados y la votación estatal obtenida por cada partido político, será de ocho puntos porcentuales, con excepción de los casos en que los triunfos de mayoría relativa superen ese porcentaje.
+III. Ningún partido político podrá contar con más de veintiocho Diputadas o Diputados por ambos principios de representación; y,
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-V. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación emitida menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignado un diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+IV. El porcentaje máximo de sobrerrepresentación entre el número de Diputadas o Diputados y la votación estatal obtenida por cada partido político, será de ocho puntos porcentuales, con excepción de los casos en que los triunfos de mayoría relativa superen ese porcentaje.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+V. En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación emitida menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignada una Diputada o un Diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 49.
 
-Los diputados deberán rendir la protesta constitucional de su cargo el día de la instalación del Congreso del Estado.
+Las Diputadas y los Diputados deberán rendir la protesta constitucional de su cargo el día de la instalación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 50.
 
-El período de ejercicio del cargo dentro de la función legislativa será de tres años con la posibilidad de elección consecutiva hasta por 4 periodos que sumarán, de ser el caso hasta 12 años y atendiendo a lo dispuesto en el artículo 45, párrafo cuarto, de la presente Constitución. Los diputados suplentes tendrán el derecho de postularse como candidatos propietarios.
+El período de ejercicio del cargo dentro de la función legislativa será de tres años con la posibilidad de elección consecutiva hasta por 4 periodos que sumarán, de ser el caso hasta 12 años y atendiendo a lo dispuesto en el artículo 45, párrafo cuarto, de la presente Constitución. Las Diputadas y los Diputados suplentes tendrán el derecho de postularse como candidatos propietarios.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 51.
 
-Los diputados recibirán una remuneración digna y adecuada acorde a la naturaleza de su cargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el período para el que fueron electos.
+Las Diputadas y los Diputados recibirán una remuneración digna y adecuada acorde a la naturaleza de su cargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el período para el que fueron electos.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 52.
 
-Durante el ejercicio de su cargo los diputados no podrán desempeñar ninguna comisión pública o empleo remunerado dependiente de la Federación, del Estado, de algún municipio o de sus respectivas administraciones públicas paraestatales, sin licencia previa del Congreso del Estado.
+Durante el ejercicio de su cargo las Diputadas y los Diputados no podrán desempeñar ninguna comisión pública o empleo remunerado dependiente de la Federación, del Estado, de algún municipio o de sus respectivas administraciones públicas paraestatales, sin licencia previa del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Quedan exceptuadas las actividades docentes y los cargos honoríficos en asociaciones científicas, culturales o de beneficencia, siempre y cuando no sean remuneradas incluidas las consideradas como estímulos o reconocimientos, que impliquen conflicto de intereses o pongan en riesgo su dedicación exclusiva a la actividad; y,
 
-2. La infracción de estas disposiciones será sancionada con la pérdida del carácter de diputado, previa resolución del Congreso.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+2. La infracción de estas disposiciones será sancionada con la pérdida del carácter de Diputada o Diputado, previa resolución del Congreso.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 53.
 
-Los diputados no podrán ser perseguidos o reconvenidos por las opiniones que manifiesten en el desempeño de su cargo ni por el sentido de sus votos.
+Las Diputadas y los Diputados no podrán ser perseguidos o reconvenidos por las opiniones que manifiesten en el desempeño de su cargo ni por el sentido de sus votos.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 54.
 
-Los diputados gozan de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado.
+Las Diputadas y los Diputados gozan de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado.
 
-Durante el tiempo de su ejercicio constitucional los diputados no podrán ser removidos de su cargo, sino exclusivamente por causas graves y conforme al título Décimo Tercero de esta Constitución y en los procedimientos previstos en las leyes.
+Durante el tiempo de su ejercicio constitucional Las Diputadas y los Diputados no podrán ser removidos de su cargo, sino exclusivamente por causas graves y conforme al título Décimo Tercero de esta Constitución y en los procedimientos previstos en las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 55.
 
-Los Diputados se encuentran sujetos a responsabilidad política, penal y administrativa, en los términos del título Décimo Tercero de la presente Constitución y de las demás leyes aplicables.
+Las Diputadas y los Diputados se encuentran sujetos a responsabilidad política, penal y administrativa, en los términos del título Décimo Tercero de la presente Constitución y de las demás leyes aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 56.
 
-La ley establecerá los derechos y obligaciones de los diputados al Congreso del Estado y garantizará, en todo caso, su derecho a participar en la deliberación y votación de los asuntos de su competencia, la igualdad de su categoría, el valor igual de su voto, el derecho a integrar los órganos internos del Congreso y la obligación de ejercer el cargo, salvo por causa grave calificada por el Pleno.
+La ley establecerá los derechos y obligaciones de las Diputadas y los Diputados al Congreso del Estado y garantizará, en todo caso, su derecho a participar en la deliberación y votación de los asuntos de su competencia, la igualdad de su categoría, el valor igual de su voto, el derecho a integrar los órganos internos del Congreso y la obligación de ejercer el cargo, salvo por causa grave calificada por el Pleno.
+
+(…) (sic)
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1167,35 +1193,57 @@ Serán públicas, pero cuando se traten asuntos que exijan reserva las sesiones 
 
 La Ley Orgánica y su reglamento señalarán las formalidades para la apertura, clausura y desarrollo de los períodos de sesiones.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 61.
 
 Son atribuciones del Congreso del Estado:
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 I. Aprobar, reformar, derogar y abrogar las leyes o decretos, de conformidad con sus atribuciones;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Iniciar leyes y decretos ante el Congreso de la Unión;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 III. Emitir las leyes del Estado cuya expedición haga obligatoria la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Aprobar y promulgar, sin intervención del Gobernador, su Ley Orgánica y la normativa interior necesaria para el adecuado cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+IV. Aprobar y promulgar, sin intervención de la Gobernadora o del Gobernador, su Ley Orgánica y la normativa interior necesaria para el adecuado cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Expedir las leyes orgánicas de los poderes del Estado, de los Órganos Autónomos y de los municipios;
 
-VI. Ordenar la publicación de leyes y decretos aprobados por el Congreso, sin que se requiera refrendo, cuando no sean promulgados y publicados por el Gobernador, en los plazos dispuestos en la Ley;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. Ordenar la publicación de leyes y decretos aprobados por el Congreso, sin que se requiera refrendo, cuando no sean promulgados y publicados por la Gobernadora o el Gobernador, en los plazos dispuestos en la Ley;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. Determinar la traducción a las diversas lenguas indígenas, de esta Constitución y de las leyes más significativas del Estado;
 
-VIII. Invitar al Gobernador a que haga uso de su derecho de voz, por sí o a través de los titulares de las dependencias y entidades de la administración pública, cuando se discuta una ley o se estudie un asunto concerniente a su respectivo ámbito de atribuciones;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VIII. Invitar a la Gobernadora o al Gobernador a que haga uso de su derecho de voz, por sí o a través de las y los titulares de las dependencias y entidades de la administración pública, cuando se discuta una ley o se estudie un asunto concerniente a su respectivo ámbito de atribuciones;
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
 IX. Ratificar el nombramiento, en el ámbito de sus atribuciones, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Guerrero y de los integrantes de los órganos autónomos, de conformidad con los procedimientos estipulados en la presente Constitución;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 X. Establecer y cumplir los procedimientos de ratificación de los servidores públicos de su competencia, y fundar y motivar el sentido de su resolución;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XI. Ejercer las atribuciones que le correspondan dentro del procedimiento de reforma a la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XII. Autorizar en el presupuesto de egresos del Estado, erogaciones plurianuales para proyectos de inversión en infraestructura. Las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
@@ -1207,31 +1255,59 @@ XIII. Revisar los informes financieros semestrales y fiscalizar las cuentas púb
 
 XIV. Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, el desempeño de la Auditoría Superior del Estado de Guerrero, en términos de la ley;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XV. Erigir nuevos municipios o suprimir los existentes, con el voto de las dos terceras partes del total de sus integrantes, de conformidad con las modalidades estipuladas en la ley;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XVI. Aprobar, con el voto de las dos terceras partes del total de sus integrantes, la suspensión de Ayuntamientos, la declaración de que estos han desaparecido, o la suspensión o revocación del mandato de sus integrantes, previo cumplimiento de la garantía de audiencia y de conformidad con las causas previstas en la ley;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XVII. Designar de entre los residentes, con la aprobación de las dos terceras partes del total de sus miembros, a quienes integrarán el concejo municipal respectivo, en caso de declararse desaparecido un Ayuntamiento, de presentarse la renuncia, o la falta absoluta de la mayoría o la totalidad de sus integrantes, de no haberse realizado la calificación de la correspondiente elección, o de declararse la nulidad de la misma;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XVIII. Recibir la protesta constitucional del cargo de los titulares de los Poderes del Estado y de los integrantes de los órganos autónomos y los demás que señale esta Constitución;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XIX. Convocar a los órganos autónomos para que emitan su opinión sobre las leyes que en el ámbito de su competencia se discutan en el Congreso del Estado;
 
-XX. Resolver al Gobernador, a los Diputados, a los integrantes de los ayuntamientos, a los magistrados y a los titulares de los órganos autónomos, licencia temporal para separarse de su cargo por un periodo máximo de seis meses;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XXI. Resolver sobre las licencias que presenten el Gobernador, los Diputados, los integrantes de los Ayuntamientos, los Magistrados y los titulares de los Órganos Autónomos del Estado;
+XX. Resolver a la Gobernadora o al Gobernador, a las Diputadas y Diputados, a las y los integrantes de los ayuntamientos, a las y los magistrados o magistradas y a las y los titulares de los órganos autónomos, licencia temporal para separarse de su cargo por un periodo máximo de seis meses;
 
-XXII. Llamar a los suplentes respectivos en casos de ausencia, inhabilitación, suspensión temporal o definitiva, o licencia de los Diputados y de los integrantes de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XXIII. Informar al Instituto Electoral y de Participación Ciudadana del Estado las ausencias e inhabilitaciones permanentes de los integrantes de los Ayuntamientos y de los Diputados, cuando amerite la convocatoria a elecciones extraordinarias;
+XXI. Resolver sobre las licencias que presenten la Gobernadora o el Gobernador, las y los Diputados, las y los integrantes de los Ayuntamientos, las y los Magistrados o magistradas y las y los titulares de los Órganos Autónomos del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XXII. Llamar a los suplentes respectivos en casos de ausencia, inhabilitación, suspensión temporal o definitiva, o licencia de las Diputadas y los Diputados y de las y los integrantes de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XXIII. Informar al Instituto Electoral y de Participación Ciudadana del Estado las ausencias e inhabilitaciones permanentes de las y los integrantes de los Ayuntamientos y de las Diputadas y los Diputados, cuando amerite la convocatoria a elecciones extraordinarias
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXIV. Resolver el mantenimiento o la suspensión de la inmunidad constitucional de los servidores públicos que hayan sido acusados por la comisión de algún delito;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXV. Conocer de la responsabilidad política contra los servidores públicos a los que se refiere el título Décimo Tercero de esta Constitución, y erigirse en gran jurado en los juicios políticos que contra ellos se sigan;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXVI. Determinar en el presupuesto de egresos, la retribución que corresponda a los empleos públicos establecidos en la ley. En caso que por cualquier circunstancia se omita fijar la remuneración, se entenderá por señalada la que hubiera tenido en el presupuesto anterior o en la ley que estableció el empleo;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXVII. Integrar en el presupuesto de egresos las aportaciones y participaciones federales a los municipios, de acuerdo a las leyes correspondientes;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXVIII. Establecer las bases sobre las cuales se podrá autorizar a los Ayuntamientos para:
 
@@ -1255,21 +1331,39 @@ h) Celebrar convenios de coordinación con municipios de otras entidades federat
 
 i) Crear entidades paramunicipales.
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXIX. Formular solicitud al Instituto Electoral y de Participación Ciudadana para que organice referéndum, plebiscitos, consultas populares y demás instrumentos de participación ciudadana;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXX. Aprobar el Plan Estatal de Desarrollo y supervisar y dar seguimiento continuo, a través de las comisiones competentes, al cumplimiento de los objetivos y metas trazados en aquél;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXXI. Solicitar la comparecencia de los representantes institucionales de los Órganos Autónomos, para que informen sobre los asuntos de su competencia;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXII. Convocar a comparecer a las autoridades que no acepten o no cumplan alguna de las recomendaciones de la Comisión de los Derechos Humanos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXXIII. Requerir la comparecencia de los secretarios de despacho del gabinete, de los titulares de las dependencias y entidades de la administración pública, previa convocatoria formal en los términos de la Ley Orgánica; de los representantes de los municipios, de los Órganos Autónomos y con Autonomía Técnica, así como a los demás servidores públicos del Estado, para que informen sobre los asuntos de su competencia, o respondan las preguntas e interpelaciones que se les formulen, conforme a lo establecido en la presente Constitución;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXIV. Integrar comisiones de investigación para profundizar en el conocimiento de hechos y actos constitutivos de responsabilidades, atribuibles a los servidores de la administración pública estatal;
 
-XXXV. Constituirse en colegio electoral para nombrar al Gobernador interino o sustituto, según proceda;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XXXVI. Autorizar al Gobernador para celebrar convenios sobre los límites del territorio del Estado;
+XXXV. Constituirse en colegio electoral para nombrar a la Gobernadora o Gobernador interino o sustituto, según proceda;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XXXVI. Autorizar a la Gobernadora o Gobernador para celebrar convenios sobre los límites del territorio del Estado
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXVII. Ejercer ante las instancias correspondientes las acciones en defensa del territorio y de la autonomía del Estado;
 
@@ -1277,21 +1371,27 @@ XXXVII. Ejercer ante las instancias correspondientes las acciones en defensa del
 
 XXXVII-Bis. Expedir las leyes que establezcan la coordinación del Estado y sus Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, así como en materia de movilidad y seguridad vial;
 
-XXXVIII. Expedir bases para autorizar al Gobernador y a los municipios la celebración de contratos para la prestación de servicios de mediano y largo plazo, dirigidos a crear infraestructura pública con la participación del sector privado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XXXVIII. Expedir bases para autorizar a la Gobernadora o Gobernador y a los municipios la celebración de contratos para la prestación de servicios de mediano y largo plazo, dirigidos a crear infraestructura pública con la participación del sector privado;
 
-XXXIX. Expedir bases para determinar la capacidad de endeudamiento del Estado, los requisitos para autorizar al Gobernador la negociación de empréstitos, sus límites y condiciones, así como las formas de supervisión de las finanzas públicas de conformidad con la legislación federal aplicable;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+XXXIX. Expedir bases para determinar la capacidad de endeudamiento del Estado, los requisitos para autorizar a la Gobernadora o Gobernador la negociación de empréstitos, sus límites y condiciones, así como las formas de supervisión de las finanzas públicas de conformidad con la legislación federal aplicable;
 
-XL. Otorgar autorización al Gobernador para que recurra al endeudamiento como fuente de recursos, atendiendo a lo previsto en el artículo 62, fracción IV, de esta Constitución;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XL. Otorgar autorización a la Gobernadora o Gobernador para que recurra al endeudamiento como fuente de recursos, atendiendo a lo previsto en el artículo 62, fracción IV, de esta Constitución
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XLI. Cambiar la residencia de los Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XLII. Autorizar al Gobernador, con el voto de las dos terceras partes del total de sus integrantes, para enajenar, donar o permutar bienes inmuebles de propiedad estatal, en los términos que fije la Ley;
+XLII. Autorizar al Gobernador o a la Gobernadora con el voto de las dos terceras partes del total de sus integrantes, para enajenar, donar o permutar bienes inmuebles de propiedad estatal, en los términos que fije la Ley;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XLIII. Conceder la ciudadanía honoraria a los vecinos de otros Estados que por sus méritos se hagan acreedores a ella; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado, y establecer distinciones a quienes hayan brindado servicios eminentes al Estado de Guerrero; y,
 
@@ -1303,15 +1403,21 @@ XLIV. Designar, por el voto de las dos terceras partes de sus integrantes, a los
 
 XLV. Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, ésta Constitución y las que sean necesarias para hacer efectivas sus atribuciones;
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 62.
 
 El Congreso tendrá como asuntos de atención preferente:
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 I. Recibir, discutir y aprobar, en su caso, la Ley de Ingresos y el Presupuesto de Egresos del Estado;
 
-II. En caso que el presupuesto de egresos propuesto por el Gobernador no fuera aprobado al 31 de diciembre de cada año, seguirá vigente el aprobado el del año inmediato anterior, hasta que se sancione, en plazo perentorio, el del ejercicio presupuestal que corresponda;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+II. En caso que el Presupuesto de Egresos propuesto por la Gobernadora o Gobernador no fuera aprobado al 31 de diciembre de cada año, seguirá vigente el aprobado el del año inmediato anterior, hasta que se sancione, en plazo perentorio, el del ejercicio presupuestal que corresponda;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Examinar, discutir y aprobar las leyes de ingresos de los municipios, las cuales no podrán establecer exenciones ni subsidios a favor de persona o institución alguna;
 
@@ -1323,13 +1429,21 @@ Cualesquiera que sea el supuesto de endeudamiento, el Congreso del Estado analiz
 
 La contratación de obligaciones y empréstitos del Estado, Municipios y organismos públicos, será en observancia a lo previsto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y las Leyes de la materia.
 
-V. Legislar en materia de responsabilidad hacendaria, previendo lo relativo a las obligaciones que corresponden al Gobernador y a los Ayuntamientos de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente, así como un sistema de alertas sobre el manejo de la deuda y las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-VI. Examinar, discutir y aprobar las iniciativas preferentes enviadas o identificadas como tales por el Gobernador del Estado;
+V. Legislar en materia de responsabilidad hacendaria, previendo lo relativo a las obligaciones que corresponden a la Gobernadora o Gobernador y a los Ayuntamientos de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente, así como un sistema de alertas sobre el manejo de la deuda y las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. Examinar, discutir y aprobar las iniciativas preferentes enviadas o identificadas como tales por la Gobernadora o Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. Recibir el informe del resultado de la fiscalización de la cuenta pública, dictaminar y, en su caso, aprobar o rechazar la cuenta pública anual de las entidades fiscalizables; y,
 
-VIII. Recibir del Gobernador, el informe del estado que guarda la administración pública estatal, para su evaluación y aprobación, y a los integrantes del gabinete, para la glosa del mismo informe.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VIII. Recibir de la Gobernadora o Gobernador, el informe del estado que guarda la administración pública estatal, para su evaluación y aprobación, y a las y los integrantes del gabinete, para la glosa del mismo informe. (SIC)
 
 > <small>(ADICIONADA, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -1347,7 +1461,9 @@ El máximo órgano de gobierno del Congreso del Estado es el Pleno de los Diputa
 
 1. El Congreso del Estado contará con una Mesa Directiva y una Junta de Coordinación Política, cuya integración, duración, funcionamiento, facultades y obligaciones serán determinadas en la Ley Orgánica del Poder Legislativo y su Reglamento;
 
-2. En ningún caso, la presidencia de la Mesa Directiva recaerá en un Diputado que pertenezca al grupo parlamentario que presida la Junta de Coordinación Política en el mismo año legislativo; y,
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+2. En ningún caso, la presidencia de la Mesa Directiva recaerá en una Diputada o un Diputado que pertenezca al grupo parlamentario que presida la Junta de Coordinación Política en el mismo año legislativo; y,
 
 3. Los coordinadores de los grupos parlamentarios no podrán formar parte de la Mesa Directiva.
 
@@ -1361,23 +1477,37 @@ La Ley Orgánica del Poder Legislativo, regulará lo relativo a la organización
 
 #### SECCIÓN V. PROCESO LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 65.
 
 El derecho de iniciar leyes o decretos compete:
 
-I. A los Diputados del Congreso del Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-II. Al Gobernador del Estado quien, además, podrá presentar durante el transcurso de los diez primeros días de inicio de cada periodo ordinario de sesiones hasta dos iniciativas de ley o decreto con el carácter de preferente o señalar, con tal carácter, hasta dos que hubiere presentado en los periodos anteriores, las cuales seguirán el trámite en Comisiones y deberán ser votadas en el Pleno antes de que concluya el periodo respectivo.
+I. A las Diputadas y los Diputados del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+II. A la Gobernadora o Gobernador del Estado quien, además, podrá presentar durante el transcurso de los diez primeros días de inicio de cada periodo ordinario de sesiones hasta dos iniciativas de ley o decreto con el carácter de preferente o señalar, con tal carácter, hasta dos que hubiere presentado en los periodos anteriores, las cuales seguirán el trámite en Comisiones y deberán ser votadas en el Pleno antes de que concluya el periodo respectivo.
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Al Tribunal Superior de Justicia, en lo relacionado con la Ley Orgánica del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. A los Ayuntamientos, en el ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VI. A los Órganos Autónomos, en lo relativo a su Ley Orgánica; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. A los ciudadanos del Estado, mediante iniciativa popular, con excepción de las materias penal y tributaria, en los términos que establezca la ley.
 
@@ -1409,21 +1539,35 @@ Las iniciativas que no sean dictaminadas dentro de la correspondiente Legislatur
 
 #### SECCIÓN VI. COMISIÓN PERMANENTE
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 69.
 
-La Comisión Permanente, se sujetará a lo siguiente:
+La Comisión Permanente, se sujetará a lo siguiente
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Funcionará en los períodos de receso del Congreso;
 
-II. Será electa por el voto de las dos terceras partes de los Diputados presentes;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+II. Será electa por el voto de las dos terceras partes de las Diputadas y los Diputados presentes;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Se integrará con un presidente, dos vicepresidentes, dos secretarios y siete vocales. Por cada secretario y vocal propietario se nombrará un suplente;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Se elegirá el penúltimo día de cada período ordinario de sesiones; y,
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 V. En el año de renovación del Congreso funcionará como comisión de instalación de la nueva legislatura.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VII (sic). Llamar a los suplentes respectivos en casos de licencia de las Diputadas y los Diputados, de ausencia, inhabilitación y, en su caso, suspensión temporal o definitiva;
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1449,43 +1593,45 @@ VIII. Dar seguimiento a los dictámenes de los asuntos pendientes para el siguie
 
 IX. Las demás que le señale esta Constitución.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2025)</small>
 
 ## TÍTULO SEXTO. PODER EJECUTIVO
+
+DE LA GOBERNADORA O GOBERNADOR DEL ESTADO
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 #### SECCIÓN I. DEL GOBERNADOR DEL ESTADO
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 71.
 
-El Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernador Constitucional del Estado de Guerrero. No podrá durar en su encargo más de seis años y su mandato podrá ser revocado.
+El Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernadora o Gobernador Constitucional del Estado de Guerrero.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 72.
 
-El Gobernador iniciará el ejercicio de su cargo el quince de octubre del año de renovación del periodo constitucional.
+La Gobernadora o Gobernador iniciará el ejercicio de su cargo el quince de octubre del año de renovación del periodo constitucional.
 
 El Poder Ejecutivo residirá en la capital del Estado, pero por acuerdo de las dos terceras partes de los integrantes del Congreso podrá cambiar su sede provisionalmente.
 
-Las atribuciones del Gobernador son intransferibles. Se delegarán exclusivamente en aquellos casos previstos en esta Constitución y en las leyes.
+Las atribuciones de la Gobernadora o Gobernador son intransferibles. Se delegarán exclusivamente en aquellos casos previstos en esta Constitución y en las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 73.
 
-El Gobernador enviará al Poder Legislativo, en la primera quincena de octubre, el informe sobre el estado que guarda la administración pública del Estado correspondiente al año natural inmediato anterior.
+La Gobernadora o Gobernador enviará al Poder Legislativo, en la primera quincena de octubre, el informe sobre el estado que guarda la administración pública del Estado correspondiente al año natural inmediato anterior.
 
-En el último año de ejercicio del cargo, el Gobernador presentará el informe en la primera quincena de julio.
+En el último año de ejercicio del cargo, la Gobernadora o Gobernador presentará el informe en la primera quincena de julio.
 
-1. Si el Gobernador del Estado asiste a la sede del Poder Legislativo para entregar el informe y pronunciar un mensaje sobre el mismo, la sesión del Congreso deberá ser solemne.
+1. Si la Gobernadora o Gobernador del Estado asiste a la sede del Poder Legislativo para entregar el informe y pronunciar un mensaje sobre el mismo, la sesión del Congreso deberá ser solemne.
 
-El presidente de la Mesa Directiva del Congreso contestará el informe en términos generales, y al efecto se invitará a un representante del Presidente de la República para pronunciar un mensaje alusivo; y,
+La Presidenta o Presidente de la Mesa Directiva del Congreso contestará el informe en términos generales, y al efecto se invitará a un representante de la Presidenta o Presidente de la República para pronunciar un mensaje alusivo; y,
 
-2. Si el gobernador no acude al Congreso, los secretarios de despacho del gabinete estarán obligados a presentarse ante el Poder Legislativo durante el mes de noviembre, para la glosa del informe, y para responder a los planteamientos que sobre este último hagan los diputados, esto sin perjuicio de la presentación de sus respectivas memorias del ramo y de su comparecencia ante el Congreso en los términos dispuestos en esta Constitución. En el último año de gobierno se presentarán en el mes de agosto para el debido desahogo de las comparecencias e interpelaciones.
+2. Si la Gobernadora o Gobernador no acude al Congreso, las y los Secretarios de Despacho del Gabinete estarán obligados a presentarse ante el Poder Legislativo durante el mes de noviembre, para la glosa del informe, y para responder a los planteamientos que sobre este último hagan las Diputadas y los Diputados, esto sin perjuicio de la presentación de sus respectivas memorias del ramo y de su comparecencia ante el Congreso en los términos dispuestos en esta Constitución. En el último año de gobierno se presentarán en el mes de agosto para el debido desahogo de las comparecencias e interpelaciones.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1493,145 +1639,157 @@ El presidente de la Mesa Directiva del Congreso contestará el informe en térmi
 
 La Ley Orgánica de la Administración Pública del Estado regulará lo relativo a la organización, integración, funcionamiento y ámbito competencial de las dependencias del Poder Ejecutivo.
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2025)</small>
 
-#### SECCIÓN II. ESTATUTO JURÍDICO DEL GOBERNADOR
+#### SECCIÓN II. ESTATUTO JURÍDICO DE LA GOBERNADORA O GOBERNADOR
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 75.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. Haber nacido en el Estado o tener residencia efectiva en él, no menor a cinco años inmediatamente anteriores al día de la elección; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Tener treinta años de edad cumplidos al día de la elección.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 76.
 
-Están impedidos para ser Gobernador del Estado, a menos que se separen definitivamente de su empleo, cargo o comisión, noventa días antes del día de la elección; en caso de elección extraordinaria, cinco días antes de publicada la convocatoria:
+Están impedidos para ser Gobernadora o Gobernador del Estado, a menos que se separen definitivamente de su empleo, cargo o comisión, noventa días antes del día de la elección; en caso de elección extraordinaria, cinco días antes de publicada la convocatoria:
 
 > <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
 
 I. Los Magistrados de los Tribunales Superior de Justicia y de Justicia Administrativa del Estado de Guerrero;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. Los titulares de alguna dependencia, entidad u organismo de la administración pública federal, estatal o municipal;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Los representantes populares federales, estatales o municipales;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Los servidores públicos de los señalados en la ley orgánica respectiva;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Quienes pertenezcan al estado eclesiástico o sean ministros de algún culto religioso, se regirán por lo dispuesto en la Ley de Asociaciones Religiosas y Culto Público;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VI. Los militares en servicio activo o miembros de las fuerzas públicas del Estado; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. Los miembros de algún Órgano Autónomo o con Autonomía Técnica del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 77.
 
-La elección del Gobernador será mediante sufragio universal, libre, secreto y directo, en los términos que disponga la ley electoral respectiva.
+La elección de la Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, en los términos que disponga la ley electoral respectiva.
 
 La jornada electoral se llevará a cabo el primer domingo de junio del año que corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-###### ARTICULO 78.
+ARTICULO.78. Resultará electo Gobernadora o Gobernador del Estado la candidata o el candidato que, una vez realizada la elección, escrutinio y los cómputos respectivos, obtenga la constancia de mayoría expedida por la autoridad electoral.
 
-Resultará electo Gobernador del Estado el candidato que, una vez realizada la elección, escrutinio y los cómputos respectivos, obtenga la constancia de mayoría expedida por la autoridad electoral.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 79.
 
-El Gobernador deberá rendir la protesta constitucional de su cargo ante el Pleno del Congreso del Estado.
+La Gobernadora o Gobernador deberá rendir la protesta constitucional de su cargo ante el Pleno del Congreso del Estado.
 
-En caso de que el Gobernador no pueda rendir protesta ante el Pleno, lo hará ante la Mesa Directiva o ante la Comisión Permanente; en su caso, ante el Pleno del Tribunal Superior de Justicia.
+En caso de que la Gobernadora o Gobernador no pueda rendir protesta ante el Pleno, lo hará ante la Mesa Directiva o ante la Comisión Permanente; en su caso, ante el Pleno del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2018)</small>
+La Gobernadora o Gobernador del Estado, protestará su cargo, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así que la Nación y el Estado me lo demanden".
 
-El Gobernador del Estado, protestará su cargo, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo mirando en todo por el bien y prosperidad de la Unión y del Estado y si no lo hiciere así que la Nación y el Estado me lo demanden".
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 80.
 
-El cargo de Gobernador constitucional sólo será renunciable por causa grave calificada por las dos terceras partes del total de los miembros del Congreso del Estado.
+El cargo de Gobernadora o Gobernador constitucional sólo será renunciable por causa grave calificada por las dos terceras partes del total de los miembros del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 81.
 
-El mandato del Gobernador será de seis años improrrogables.
+El mandato de la Gobernadora o Gobernador será de seis años improrrogables.
 
-1. El Gobernador cuyo origen sea la elección popular no podrá volver a ocupar ese cargo bajo ningún carácter;
+1. La Gobernadora o Gobernador cuyo origen sea la elección popular no podrá volver a ocupar ese cargo bajo ningún carácter;
 
-2. El Gobernador sustituto, o aquel que se designe para concluir el período en caso de falta absoluta no podrá ser electo para el periodo inmediato; y,
+2. La Gobernadora o Gobernador sustituto, o aquel que se designe para concluir el período en caso de falta absoluta no podrá ser electo para el periodo inmediato; y,
 
-3. El Gobernador interino, provisional, o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, no podrá ser electo para el periodo inmediato, siempre que desempeñe el cargo los dos últimos años del período.
+3. La Gobernadora o Gobernador interino, provisional, la o el ciudadano que bajo cualquier denominación supla las faltas temporales de la Gobernadora o Gobernador, no podrá ser electo para el periodo inmediato, siempre que desempeñe el cargo los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 82.
 
-El Gobernador podrá ser removido de su cargo mediante revocación de mandato y por las causas establecidas en el Título Décimo Tercero de esta Constitución.
+La Gobernadora o Gobernador no podrá ser removido de su cargo sino exclusivamente por las causas establecidas en el título Décimo Tercero de esta Constitución.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+1. La Gobernadora o Gobernador recibirá una remuneración digna y adecuada, acorde a la naturaleza de su cargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el período para el que fue electo;
+
+2. La Gobernadora o Gobernador gozará de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado; y,
+
+3. La Gobernadora o Gobernador será sujeto de responsabilidad política y penal, en los términos del Título Décimo Tercero de la presente Constitución y de las demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 83.
 
-Si al iniciar el mandato constitucional el Gobernador electo no se presenta, si la elección no se ha realizado o declarado válida, cesará en sus funciones el Gobernador cuyo período haya concluido.
+Si al iniciar el mandato constitucional La Gobernadora o Gobernador electo no se presenta, si la elección no se ha realizado o declarado válida, cesará en sus funciones La Gobernadora o Gobernador cuyo período haya concluido.
 
-1. Al efecto, el Congreso del Estado designará un Gobernador interino por las dos terceras partes del total de sus integrantes.
+1.- Al efecto, el Congreso del Estado designará una Gobernadora o Gobernador interino por las dos terceras partes del total de sus integrantes.
 
 Cuando ello suceda, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, convocará de inmediato a elecciones extraordinarias, que deberán realizarse en un plazo no mayor de doce meses a partir del inicio del período constitucional; y,
 
-2. Si la falta del Gobernador electo es temporal, derivada de una causa grave, prevista en el Título Décimo Tercero de esta Constitución, calificada por las dos terceras partes del total de los integrantes del Congreso del Estado, se nombrará un Gobernador interino por el tiempo que dure la ausencia. Al efecto, se observará a lo dispuesto en el artículo 86 de esta Constitución.
+2. Si la falta de la Gobernadora o Gobernador electo es temporal, derivada de una causa grave, prevista en el Título Décimo Tercero de esta Constitución, calificada por las dos terceras partes del total de las y los integrantes del Congreso del Estado, se nombrará una Gobernadora o Gobernador interino por el tiempo que dure la ausencia. Al efecto, se observará a lo dispuesto en el artículo 86 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 84.
 
-Las ausencias temporales del Gobernador que no excedan de diez días serán cubiertas por el Secretario General de Gobierno, en calidad de encargado del despacho, sin que sea necesario dar aviso al Congreso del Estado.
+Las ausencias temporales de la Gobernadora o Gobernador que no excedan de diez días serán cubiertas por el Secretario General de Gobierno, en calidad de encargado del despacho, sin que sea necesario dar aviso al Congreso del Estado.
 
-1. Las ausencias temporales del Gobernador que excedan de diez, pero no de treinta días, serán cubiertas por el Secretario General de Gobierno, en calidad de encargado del despacho, y será necesario avisar al Congreso del Estado;
+1. Las ausencias temporales de la Gobernadora o Gobernador que excedan de diez, pero no de treinta días, serán cubiertas por el Secretario General de Gobierno, en calidad de encargado del despacho, y será necesario avisar al Congreso del Estado;
 
-2. Las ausencias temporales del Gobernador que excedan de treinta días requerirán la solicitud de licencia. Al efecto, el Congreso del Estado deberá designar a un Gobernador interino con una votación de las dos terceras partes del total de sus integrantes, por el tiempo que dure la ausencia;
+2. Las ausencias temporales de la Gobernadora o Gobernador que excedan de treinta días requerirán la solicitud de licencia. Al efecto, el Congreso del Estado deberá designar a una Gobernadora o Gobernador interino con una votación de las dos terceras partes del total de sus integrantes, por el tiempo que dure la ausencia;
 
-3. La licencia concedida al Gobernador suspende temporalmente el ejercicio de las funciones representativas, derechos, obligaciones y garantías;
+3. La licencia concedida a la Gobernadora o Gobernador suspende temporalmente el ejercicio de las funciones representativas, derechos, obligaciones y garantías;
 
-4. No se concederá licencia al Gobernador con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses; y,
+4. No se concederá licencia a la Gobernadora o Gobernador con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses; y,
 
-5. Si la ausencia temporal del Gobernador se convierte en definitiva, se procederá como lo dispone el artículo siguiente.
+5. Si la ausencia temporal a la Gobernadora o Gobernador se convierte, en definitiva, se procederá como lo dispone el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 85.
 
-Ante la ausencia definitiva del Gobernador, ocurrida en los dos primeros años del período respectivo, el Congreso se constituirá en colegio electoral para nombrar, por el voto de las dos terceras partes del total de sus miembros, un Gobernador interino.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+Ante la ausencia definitiva de la Gobernadora o Gobernador, ocurrida en los dos primeros años del período respectivo, el Congreso se constituirá en colegio electoral para nombrar, por el voto de las dos terceras partes del total de sus miembros, una Gobernadora o Gobernador interino.
 
 El Congreso deberá notificar al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, para que expida la convocatoria a elecciones, procurando que la fecha señalada coincida, si es posible, con la de las próximas elecciones a Diputados.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+Cuando la ausencia de la Gobernadora o Gobernador ocurra dentro de los cuatro últimos años del período respectivo, el Congreso designará, por el voto de las dos terceras partes del número total de sus miembros, una Gobernadora o Gobernador sustituto, que deberá concluir el período.
 
-Cuando la ausencia del Gobernador ocurra dentro de los cuatro últimos años del período respectivo, el Congreso designará, por el voto de las dos terceras partes del número total de sus miembros, un Gobernador sustituto, que deberá concluir el período.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2025)</small>
+###### ARTÍCULO 86.
 
-En caso de haberse revocado el mandato del Gobernador, el Congreso del Estado, dentro de los treinta días siguientes y por el voto de las dos terceras partes del número total de sus miembros, nombrará a un Gobernador Sustituto, quien concluirá el período constitucional.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-###### ARTICULO 86.
-
-En tanto el Congreso nombra al Gobernador interino o sustituto, el Secretario General de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo. La titularidad provisional de la correspondiente secretaría recaerá en la subsecretaría que al efecto determine la Ley Orgánica de la Administración Pública del Estado.
+En tanto el Congreso nombra a la Gobernadora o Gobernador interino o sustituto, la o el Secretario General de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo. La titularidad provisional de la correspondiente secretaría recaerá en la subsecretaría que al efecto determine la Ley Orgánica de la Administración Pública del Estado.
 
 Quien ocupe provisionalmente el gobierno no podrá remover a los secretarios del despacho sin autorización previa de las dos terceras partes del total de los integrantes de Congreso del Estado y por causa fundada y motivada.
 
@@ -1639,29 +1797,27 @@ Quien ocupe provisionalmente el gobierno no podrá remover a los secretarios del
 
 #### SECCIÓN III. FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 87.
 
-Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador se auxiliará de secretarios de despacho y de los servidores públicos que las necesidades de la administración pública demanden, en los términos de la ley orgánica respectiva.
+Para el despacho de los asuntos que competen al Poder Ejecutivo, la Gobernadora o Gobernador se auxiliará de Secretarias y Secretarios de Despacho y de los servidores públicos que las necesidades de la administración pública demanden, en los términos de la ley orgánica respectiva.
 
-1. La ley establecerá los requisitos que deban cumplir los secretarios de despacho, los titulares de las dependencias y entidades de la administración pública, así como los servidores públicos a su cargo; y,
-
-2. Al efecto, se observarán los principios de idoneidad, experiencia, honorabilidad, especialización, profesionalismo, equidad de género e igualdad de oportunidades.
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 88.
 
-El Poder Ejecutivo funcionará a través de secretarías y dependencias centralizadas y entidades paraestatales, en los términos señalados en su ley orgánica.
+El Poder Ejecutivo funcionará a través de Secretarías y dependencias centralizadas y entidades paraestatales, en los términos señalados en su ley orgánica.
 
-1. La organización, atribuciones, control y evaluación de las secretarías y dependencias centralizadas, así como las relaciones entre ellas, se regularán por la propia ley orgánica y los reglamentos correspondientes;
+1. La organización, atribuciones, control y evaluación de las Secretarías y dependencias centralizadas, así como las relaciones entre ellas, se regularán por la propia ley orgánica y los reglamentos correspondientes; y,
 
-2. La ley establecerá las bases generales de creación de las entidades paraestatales y la intervención del Gobernador Constitucional del Estado de Guerrero en su operación, así como las relaciones entre estas, el Gobernador y las secretarías, dependencias y órganos de la administración pública centralizada;
+2. La Ley establecerá las bases generales de creación de las entidades paraestatales y la intervención de la Gobernadora o Gobernador Constitucional del Estado de Guerrero en su operación, así como las relaciones entre estas, la Gobernadora o Gobernador y las secretarías, dependencias y órganos de administración pública centralizada;
 
-3. El Gobernador representará al Estado en los asuntos en que éste sea parte, por conducto del Consejero Jurídico del Poder Ejecutivo; y
+3.- La Gobernadora o Gobernador representará al Estado en los asuntos en que este sea parte. Por conducto de la Consejera o Consejero Jurídico del Poder Ejecutivo; y
 
-4. La atribución de representar y asesorar jurídicamente al Gobernador del Estado, estará a cargo de quién ejerza la función de Consejero Jurídico del Poder Ejecutivo, en los términos que establezca la ley.
+4.- La atribución de representar y asesorar jurídicamente a la Gobernadora o Gobernador del estado, estará a cargo de quien ejerza la función de Consejera o Consejero Jurídico del Poder Ejecutivo, en los términos que establezca la Ley.
+
+(…) (sic)
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1683,29 +1839,49 @@ Todo servidor público de la administración pública estatal será responsable 
 
 #### SECCIÓN IV. ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 91.
 
-El Gobernador tiene las siguientes atribuciones:
+La Gobernadora o Gobernador tiene las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ellas emanen;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 II. Ordenar la promulgación y publicación de las leyes y decretos que expida el Congreso del Estado en los plazos dispuestos en la ley, y la publicación de los bandos y reglamentos que acuerden los Ayuntamientos, cuando no cuenten con sus propios órganos de difusión oficial;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 III. Ejercer el derecho de iniciativa, ordinaria o preferente, ante el Congreso del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Fijar su posición ante el Congreso, por sí o a través de los secretarios de despacho, cuando se discuta una ley o se estudie un asunto concerniente a su respectivo ámbito de atribuciones, cuando así lo considere conveniente;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Enviar al Congreso la iniciativa de la Ley Orgánica de la Administración Pública del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VI. Expedir los reglamentos necesarios para el desarrollo, la eficacia y cumplimiento de las leyes y decretos aprobados por el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. Realizar observaciones, dentro del término de diez días hábiles siguientes al de su recepción, a las leyes y decretos aprobados por el Congreso del Estado;
 
-VIII. Presentar al Congreso, en la primera quincena de octubre de cada año, las iniciativas de Ley de Ingresos y del Presupuesto de Egresos para el ejercicio fiscal siguiente. En el primer año de ejercicio constitucional del Gobernador, ambas iniciativas se presentarán, a más tardar en la segunda quincena de noviembre;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VIII. Presentar al Congreso, en la primera quincena de octubre de cada año, las iniciativas de Ley de Ingresos y del Presupuesto de Egresos para el ejercicio fiscal siguiente. En el primer año de ejercicio constitucional de la Gobernadora o Gobernador, ambas iniciativas se presentarán, a más tardar en la segunda quincena de noviembre;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IX. Planear y conducir el desarrollo integral del Estado en el ámbito de su competencia, y establecer los procedimientos de consulta para la formulación, implementación, ejecución, control y evaluación del Plan Estatal de Desarrollo y los programas que de él se deriven;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 X. Mantener relaciones políticas e institucionales con el gobierno federal y con los gobiernos de las demás entidades federativas;
 
@@ -1717,31 +1893,59 @@ XI. Recurrir al endeudamiento y contratar empréstitos para inversiones pública
 
 XII. Enajenar, donar o permutar bienes inmuebles de propiedad estatal, previa autorización del Congreso del Estado que habrá de votar con las dos terceras partes del total de sus integrantes.
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XIII. Proveer a la eficaz satisfacción de los servicios públicos del Estado, de conformidad con los presupuestos aprobados, y gestionar aquellos que puedan proporcionar otras entidades públicas o privadas;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XIV. Rendir ante el Pleno del Congreso, el informe anual del estado que guarda la administración pública del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XV. Nombrar y remover libremente a los servidores públicos y empleados del Poder Ejecutivo, cuyo nombramiento o causa de remoción no estén regulados en esta Constitución o en las leyes correspondientes;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XVI. Solicitar a la Comisión Permanente la convocatoria a periodo extraordinario de sesiones del Congreso del Estado, mediante escrito fundado y motivado en el que se precisen los asuntos a tratar;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XVII. Vigilar la recaudación, distribución y administración de los recursos públicos, dirigir las finanzas públicas y preservar el patrimonio del Estado, con arreglo a las leyes de la materia;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XVIII. Establecer las políticas públicas tendientes a preservar el medio ambiente, el equilibrio ecológico, y procurar que los recursos naturales sean utilizados en forma racional para su óptimo aprovechamiento;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XIX. Garantizar la protección y la seguridad ciudadana, la conservación del orden, la tranquilidad y la seguridad en el Estado, y disponer de las corporaciones policiales estatales y municipales, en aquellos casos de fuerza mayor o alteración grave del orden público;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XX. Establecer protocolos de actuación para el uso de la fuerza pública y hacer efectiva la responsabilidad por los excesos en que se haya incurrido;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXI. Elevar y garantizar la cobertura y calidad de la educación pública, así como la enseñanza bilingüe e intercultural en las zonas predominantemente indígenas;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXII. Garantizar el ejercicio efectivo de los derechos y libertades de los ciudadanos y procurar el progreso y bienestar social en el Estado;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXIII. Gestionar ante el gobierno federal que las transferencias de recursos otorgadas al Estado sean proporcionales, de conformidad con criterios técnicos, y atender a sus carencias económicas y sociales, a efecto de lograr la equidad en la distribución de las mismas;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXIV. Conceder subsidios a quienes establezcan en el Estado empresas o industrias en beneficio del desarrollo económico;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXV. Fomentar la creación de industrias y empresas rurales y buscar la participación armónica de los factores de la producción;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXVI. Promover el desarrollo de la actividad turística, mediante el debido aprovechamiento de los atractivos con que cuenta el Estado;
 
@@ -1749,25 +1953,47 @@ XXVI. Promover el desarrollo de la actividad turística, mediante el debido apro
 
 XXVII. Remitir al Congreso del Estado, a través de la Auditoría Superior del Estado de Guerrero, la cuenta pública correspondiente al año inmediato anterior, de conformidad con lo establecido en la ley de la materia. La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente.
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXVIII. Solicitar al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero la convocatoria y organización, en su caso, de referendos, plebiscitos, consultas populares y demás instrumentos de participación ciudadana;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXIX. Celebrar convenios y contratos con los gobiernos federal, estatales o municipales, y con sus correspondientes entidades descentralizadas, así como con personas físicas o morales de carácter público o privado;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXX. Suscribir convenios sobre los límites del territorio del Estado, previa aprobación de las dos terceras partes del total de los integrantes del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXI. Acordar la realización de obras y prestación de servicios de mediano y largo plazo, dirigidos a crear infraestructura pública con la participación del sector privado, previa autorización de las dos terceras partes del total de los integrantes del Congreso del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXXII. Convenir con los municipios, para que el Estado se haga cargo de alguna de las funciones relacionadas con la administración de sus contribuciones; para que se responsabilice temporalmente de la ejecución, la operación de obras y la prestación de servicios municipales; o para que los municipios se hagan cargo de alguna o algunas de las funciones, o de la ejecución y operación de obras y la prestación de servicios públicos que correspondan al Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXIII. Declarar los casos en que proceda la expropiación de bienes y derechos de particulares por causa de utilidad pública, en la forma que establezcan las leyes;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXXIV. Decretar, de acuerdo con la legislación respectiva, las medidas necesarias para ordenar los asentamientos humanos y establecer provisiones, usos, reservas y destino de tierras, aguas y bosques, a efecto de ejecutar obras públicas, así como planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXV. Expedir títulos y grados profesionales, o delegar esta facultad en las instituciones de enseñanza constituidas con arreglo a las leyes;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXXVI. Crear, dirigir y supervisar el Registro Público de la Propiedad con plena observancia a lo previsto en la ley de la materia;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XXXVII. Proporcionar al Poder Judicial y, en general, a los órganos que administran justicia, el auxilio que le soliciten para el adecuado cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XXXVIII. Procurar que el presupuesto asignado anualmente a la administración de justicia, procuración de justicia, seguridad pública, tránsito, justicia administrativa y reinserción social, sea el suficiente para la debida prestación del servicio;
 
@@ -1775,17 +2001,31 @@ XXXVIII. Procurar que el presupuesto asignado anualmente a la administración de
 
 XXXIX. Nombrar a los Magistrados del Tribunal Superior de Justicia del Estado, al Consejero para integrar el Consejo de la Judicatura del Estado, así como a los Magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que establece esta Constitución;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XL. Nombrar a sus representantes, ante las Juntas Locales de Conciliación y Arbitraje;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XLI. Autorizar, expedir y revocar patentes para el desempeño de la función notarial, con estricto apego a los procedimientos previstos en la Ley del Notariado del Estado, observando en todo las garantías de audiencia, debido proceso y respeto a los derechos humanos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XLII. Avisar al Congreso del Estado por ausencias temporales que no excedan de treinta días, y solicitar licencia en aquellas que superen este periodo;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XLIII. Conceder o negar licencias con goce de sueldo a los servidores públicos de la administración pública estatal, de conformidad con las leyes respectivas;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XLIV. Celebrar convenios con la Federación, con los Ayuntamientos y con otros Estados de la República, para la realización de obras, la prestación de servicios públicos o cualquier otro propósito de beneficio colectivo;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XLV. Conceder el indulto a los reos sentenciados por los Tribunales del Estado, conforme a la ley; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XLVI. Las demás que se deriven de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen.
 
@@ -1939,21 +2179,33 @@ VII. No haber sido secretario de despacho del Ejecutivo, Fiscal General o diputa
 
 2. La Ley Orgánica del Poder Judicial del Estado determinará los requisitos que deban reunir los demás servidores públicos judiciales y la forma de ingreso para el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 97.
 
-Los nombramientos de Magistrados y Jueces integrantes del Poder Judicial, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en el esquema de la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+Los nombramientos de las y los Magistrados o Magistradas, Juezas y Jueces integrantes del Poder Judicial, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en el esquema de la carrera judicial o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-1. Los Magistrados serán nombrados por el Gobernador del Estado;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+1.- Las Magistradas y los Magistrados serán nombrados por la Gobernadora o Gobernador del Estado;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 2. El Congreso del Estado ratificará los nombramientos de los Magistrados por el voto de las dos terceras partes del total de sus integrantes, previa comparecencia de las personas propuestas;
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 3. En los recesos del Congreso, la Comisión Permanente deberá convocar a sesión extraordinaria del Pleno, para efectos de la designación que corresponda;
 
-4. En aquellos casos en que la propuesta sea rechazada o no alcance la votación requerida, se notificará al Gobernador del Estado para que envíe una nueva propuesta dentro de los diez días siguientes;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+4. En aquellos casos en que la propuesta sea rechazada o no alcance la votación requerida, se notificará a la Gobernadora o Gobernador del Estado para que envíe una nueva propuesta dentro de los diez días siguientes;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 5. La resolución del Congreso que ratifique o rechace un nombramiento deberá fundarse, motivarse y emitirse en un término improrrogable de cuarenta y cinco días contados a partir de la recepción de la propuesta; y,
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 6. La ley garantizará que en el nombramiento de Magistrados y Jueces se respete el principio de equidad de género.
 
@@ -1981,29 +2233,49 @@ Los Magistrados durarán en su encargo 7 años contados a partir de la fecha de 
 
 4. En caso de retiro forzoso o voluntario, enfermedad o vejez, los Magistrados y Jueces tendrán derecho a un haber de retiro por los servicios prestados al Estado, en los términos que disponga la ley orgánica.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 100.
 
-Los Magistrados no podrán ser removidos de su encargo durante el periodo de su designación, salvo por causas graves estipuladas en la presente Constitución, en la Ley Orgánica del Poder Judicial del Estado y con la misma votación requerida para su nombramiento, previa audiencia del servidor público, conforme a los procedimientos previstos en el título Décimo Tercero de esta Constitución.
+Las Magistradas y los Magistrados no podrán ser removidos de su encargo durante el periodo de su designación, salvo por causas graves estipuladas en la presente Constitución, en la Ley Orgánica del Poder Judicial del Estado y con la misma votación requerida para su nombramiento, previa audiencia del servidor público, conforme a los procedimientos previstos en el título Décimo Tercero de esta Constitución.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Los Magistrados y Jueces recibirán una remuneración digna y adecuada, acorde a la naturaleza de su encargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el periodo para el que fueron designados;
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 2. Los Magistrados y Jueces están impedidos para desempeñar empleo, cargo o comisión que sean ajenos a la función jurisdiccional. Quedan exceptuadas las actividades docentes y los cargos honoríficos en asociaciones científicas, culturales o de beneficencia, las cuales se prestarán siempre a título gratuito e implican la no recepción de estímulos o cualesquier otra denominación que se les dé, y siempre que no comprometan la independencia o su desempeño profesional;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. La Ley Orgánica del Poder Judicial del Estado regulará las causas y las modalidades por las que procederá la excusa o recusación de los Magistrados y Jueces en el conocimiento de los asuntos de su competencia;
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 4. Las ausencias temporales de los Magistrados y Jueces serán suplidas por los funcionarios judiciales que determine la Ley Orgánica del Poder Judicial del Estado;
 
-5. En caso de ausencia definitiva de un Magistrado, el Presidente del Tribunal Superior de Justicia del Estado, notificará al Gobernador del Estado para que se instaure el proceso de nombramiento de un nuevo Magistrado;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+5. En caso de ausencia definitiva de una Magistrada o un Magistrado, la o el Presidente del Tribunal Superior de Justicia del Estado, notificará a la Gobernadora o Gobernador del Estado para que se instaure el proceso de nombramiento de una nueva o un nuevo Magistrado.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 6. Ante la ausencia definitiva de un Juez, el Pleno del Consejo de la Judicatura hará una nueva propuesta en los términos de esta Constitución y de la Ley Orgánica del Poder Judicial del Estado;
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 7. Los Magistrados y Jueces no podrán ser perseguidos o reconvenidos por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus votos o resoluciones;
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 8. Los Magistrados y Jueces gozan de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado y conforme a las previsiones de la presente Constitución;
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 9. Los Magistrados y Jueces son sujetos a responsabilidad política, penal, administrativa y civil, en los términos del título Décimo Tercero de la presente Constitución y de las demás leyes aplicables; y,
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 10. Los Jueces, en caso de infracciones y faltas, quedarán sujetos a los procedimientos sustanciados ante el Consejo de la Judicatura del Estado y conforme lo determine la Ley Orgánica del Poder Judicial del Estado.
 
@@ -2071,39 +2343,69 @@ APARTADO II
 
 ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 104.
 
 Son atribuciones del Tribunal Superior de Justicia del Estado:
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 I. Velar por la observancia de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen, dentro del ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 II. Cuidar la independencia y autonomía del Poder Judicial del Estado;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 III. Interpretar y aplicar las normas que conforman el ordenamiento jurídico del Estado y aquellas del ordenamiento jurídico mexicano sujetas a jurisdicción concurrente y, en su caso, coincidente, así como los Tratados y Convenios internacionales ratificados por el Senado de la República;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 IV. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal, o entre los Juzgados de Primera Instancia;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 V. Nombrar cada tres años a su Presidente, en los términos establecidos en la Ley Orgánica del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 VI. Designar, a propuesta de su Presidente, un Consejero de la Judicatura de entre los integrantes del Pleno del Tribunal Superior de Justicia, por un periodo de tres años, conforme a la facultad reconocida en esta Constitución, el cual podrá ser ratificado por única ocasión e igual periodo;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 VII. Nombrar a los jueces, previa propuesta y dictamen favorable del Consejo de la Judicatura, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 VIII. Revisar, y en su caso, modificar la competencia de los órganos jurisdiccionales del Poder Judicial del Estado, de acuerdo con las necesidades de la impartición de justicia, y con la votación calificada de por lo menos las dos terceras partes de sus integrantes;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 IX. Nombrar al personal jurisdiccional y administrativo de confianza del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 X. Emitir tesis y establecer jurisprudencia obligatoria para su cumplimiento por los poderes públicos y habitantes del Estado;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 XI. Establecer políticas anuales para que la impartición de justicia se realice de conformidad con los principios de eficiencia, eficacia, prontitud, expedites, completitud, gratuidad y máxima publicidad;
 
-XII. Formular su proyecto de presupuesto de egresos anual, integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo al Gobernador para que lo incorpore al presupuesto de egresos correspondiente;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XII. Formular su proyecto de presupuesto de egresos anual, integrarlo al que le presente el Consejo de la Judicatura para el resto del Poder Judicial y remitirlo a la Gobernadora o Gobernador para que lo incorpore al Presupuesto de Egresos correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 XIII. Determinar mecanismos para garantizar la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
+
 XIV. Aprobar o solicitar al Consejo de la Judicatura expida los reglamentos y acuerdos generales para la debida regulación de su organización, funcionamiento, administración y competencias; y
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2020)</small>
 
 XV. Las demás que le confieran esta Constitución y las leyes.
 
@@ -2357,37 +2659,65 @@ Dichos nombramientos deberán recaer en personas que se hayan caracterizado por 
 
 #### SECCIÓN III. ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 119.
 
 La Comisión de los Derechos Humanos del Estado de Guerrero tiene las atribuciones siguientes:
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 I. Conocer e investigar las quejas presentadas por cualquier persona en contra de actos u omisiones de naturaleza administrativa que violen derechos humanos, provenientes de cualquier autoridad o servidor público, excepto las que se refieran al ámbito electoral;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Formular recomendaciones públicas no vinculantes, propuestas, informes y denuncias ante las autoridades correspondientes;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 III. Recibir y comunicar al Congreso del Estado las respuestas de las autoridades y de los servidores públicos en las que rechacen las recomendaciones formuladas;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IV. Solicitar al Congreso del Estado la comparecencia del o los titulares de las autoridades que no acepten o no cumplan alguna de sus recomendaciones;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 V. Opinar sobre las leyes que en materia de derechos y libertades se discutan en el Congreso del Estado;
 
-VI. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o cuando lo solicite el Gobernador o el Congreso del Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. Investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o cuando lo solicite la Gobernadora Gobernador o el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. Interponer, con la aprobación del Consejo Consultivo, acciones de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado que vulneren derechos humanos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VIII. Conocer del procedimiento en materia de desaparición forzada de personas;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IX. Determinar, con la aprobación del Consejo Consultivo, las políticas de prevención y eliminación de la tortura y las prácticas discriminatorias;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 X. Definir, con la aprobación del Consejo Consultivo, las políticas de protección de los derechos humanos de los grupos vulnerables, en particular de indígenas y afromexicanos, menores de edad, víctimas de la violencia, incapaces, adultos mayores, madres solteras, personas en pobreza extrema, desplazados internos y migrantes;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XI. Implementar, con la aprobación del Consejo Consultivo, programas de difusión, capacitación y actualización, y coordinarse con otras instituciones para el fortalecimiento de la educación y la cultura de los derechos humanos;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XII. Supervisar el cumplimiento de las obligaciones de respeto y garantía de los derechos y libertades;
 
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XIII. Conocer del recurso extraordinario de exhibición de personas en los casos de privación ilegal de la libertad o desaparición forzada conforme al procedimiento prescrito en la ley de la materia; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XIV. Las demás que determine la ley y su reglamento.
 
@@ -2633,13 +2963,17 @@ La actuación del Tribunal Electoral del Estado de Guerrero deberá regirse por 
 
 #### SECCIÓN II. ATRIBUCIONES
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 134.
 
 El Tribunal Electoral del Estado de Guerrero tiene las atribuciones siguientes:
 
-I. Resolver las impugnaciones que se presenten en las elecciones de ayuntamientos, diputados y Gobernador del Estado, excepto aquellas que organice el Instituto Nacional Electoral conforme lo prescrito en la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, las cuales serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+I. Resolver las impugnaciones que se presenten en las elecciones de ayuntamientos, diputadas o diputados y Gobernadora o Gobernador del Estado, excepto aquellas que organice el Instituto Nacional Electoral conforme lo prescrito en la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, las cuales serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Resolver las impugnaciones en contra de actos y resoluciones que violen los derechos político-electorales de los ciudadanos, previo agotamiento del principio de definitividad;
 
@@ -2647,23 +2981,43 @@ II. Resolver las impugnaciones en contra de actos y resoluciones que violen los 
 
 III. Conocer de los medios de impugnación relacionados con los instrumentos de participación ciudadana, así como en materia de revocación de mandato.
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IV. Resolver los medios de impugnación en contra de actos y resoluciones de la autoridad electoral del Estado que violen normas constitucionales o legales;
 
-V. Resolver las impugnaciones en contra de la declaración de validez y el otorgamiento de las constancias de mayoría en las elecciones de Gobernador, Diputados de mayoría relativa y Ayuntamientos, así como la asignación de Diputados y Regidores de representación proporcional;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+V. Resolver las impugnaciones en contra de la declaración de validez y el otorgamiento de las constancias de mayoría en las elecciones de Gobernadora o Gobernador, Diputadas o Diputados de mayoría relativa y Ayuntamientos, así como la asignación de Diputadas o Diputados y Regidoras o Regidores de representación proporcional;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VI. Declarar la nulidad de una elección por las causales que expresamente se establezcan en las leyes;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VII. Determinar, dentro de los medios de impugnación de su competencia, la inaplicación de normas electorales contrarias a la Constitución Política de los Estados Unidos Mexicanos y a los tratados internacionales;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VIII. Revisar la determinación e imposición de sanciones por parte del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero a quienes infrinjan las disposiciones de esta Constitución y de las leyes respectivas;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 IX. Ordenar la realización de recuentos totales o parciales de la votación, en los supuestos y bajo las condiciones establecidos (sic) en la ley;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 X. Conocer y resolver los conflictos y diferencias laborales entre el Tribunal Electoral del Estado de Guerrero, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero y sus respectivos servidores públicos;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XI. Emitir jurisprudencia obligatoria en la materia, en los términos de su ley orgánica;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 XII. Comunicar al Congreso del Estado y al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, las resoluciones en las que declare la nulidad de una elección; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 XIII. Las demás que determine la ley y su reglamento.
 
@@ -2701,11 +3055,11 @@ La función de tutelar los derechos de las personas contra actos u omisiones de 
 
 #### SECCIÓN II. NOMBRAMIENTO E INTEGRACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 136.
 
-Los Magistrados de la Sala Superior y de las Salas Regionales del Tribunal de Justicia Administrativa del Estado de Guerrero serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de sus integrantes del Congreso del Estado. Durarán en su encargo 7 años a partir de que rindan protesta de ley, y podrán ser ratificados para un segundo periodo de 8 años improrrogables.
+Las Magistradas y los Magistrados de la Sala Superior y de las Salas Regionales del Tribunal de Justicia Administrativa del Estado de Guerrero serán designados por la Gobernadora o Gobernador del Estado y ratificados por el voto de las dos terceras partes del total de sus integrantes del Congreso del Estado. Durarán en su encargo 7 años a partir de que rindan protesta de ley, y podrán ser ratificados para un segundo periodo de 8 años improrrogables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE JULIO DE 2017)</small>
 
@@ -2901,29 +3255,49 @@ Los Fiscales especiales y regionales, Ministerios Públicos, Policías, Peritos 
 
 #### SECCIÓN III. NOMBRAMIENTO
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 142.
 
-El Fiscal General durará en su encargo 6 años improrrogables.
+La Fiscal o Fiscal General durará en su encargo 6 años improrrogables.
 
-1. A partir de la ausencia definitiva del Fiscal General, el Congreso del Estado, contará con 20 días para integrar una lista de al menos 10 candidatos al cargo previa convocatoria pública, aprobada por las dos terceras partes del total de sus miembros, que enviará al Gobernador del Estado, en un plazo no mayor de 10 días;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-2. Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna;
+1. A partir de la ausencia definitiva de la o el Fiscal General, el Congreso del Estado, contará con 20 días para integrar una lista de al menos 10 candidatos al cargo previa convocatoria pública, aprobada por las dos terceras partes del total de sus miembros, que enviará a la Gobernadora o Gobernador del Estado, en un plazo no mayor de 10 días;
 
-3. Recibida la lista a que se refiere el numeral 1, dentro de los 10 días siguientes el Gobernador formulará una terna y la enviará a la consideración del Congreso del Estado;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+2. Si la Gobernadora o Gobernador no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna y designará provisionalmente a la o el Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, la o el Fiscal General designado podrá formar parte de la terna;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+3. Recibida la lista a que se refiere el numeral 1, dentro de los 10 días siguientes la Gobernadora o Gobernador formulará una terna y la enviará a la consideración del Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 4. El Congreso del Estado con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes del total de sus miembros en el plazo de 10 días;
 
-5. En caso que el Gobernador no envíe la terna a que se refiere el numeral anterior, el Congreso del Estado tendrá 10 días para designar al Fiscal General de entre los candidatos de la lista que señala el numeral 1 del presente artículo;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-6. Si el Congreso del Estado no hace la designación en los plazos que establecen los numerales anteriores, el Gobernador del Estado designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva;
+5. En caso que la Gobernadora o Gobernador no envíe la terna a que se refiere el numeral anterior, el Congreso del Estado tendrá 10 días para designar a la o el Fiscal General de entre los candidatos de la lista que señala el numeral 1 del presente artículo;
 
-7. El Fiscal General podrá ser removido por el Gobernador del Estado por las causas graves previstas en esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero. La remoción podrá ser objetada por el voto de las dos terceras partes del total de los miembros del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción;
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+6. Si el Congreso del Estado no hace la designación en los plazos que establecen los numerales anteriores, la Gobernadora o Gobernador del Estado designará a la o el Fiscal General de entre las y los candidatos que integren la lista o, en su caso, la terna respectiva;
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+7. La o el Fiscal General podrá ser removido por la Gobernadora o Gobernador del Estado por las causas graves previstas en esta Constitución y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero. La remoción podrá ser objetada por el voto de las dos terceras partes del total de los miembros del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso la o el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 8. En los recesos del Congreso del Estado, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 9. Las ausencias del Fiscal General serán suplidas en los términos que determine su ley orgánica; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 10. El Fiscal General nombrará a los fiscales especializados con el visto bueno de las dos terceras partes del Congreso del Estado, dentro del plazo perentorio de 30 días, en caso de no pronunciarse se entenderá que aprueba dichos nombramientos.
 
@@ -3147,15 +3521,21 @@ XV. Derivado de sus investigaciones, promover las responsabilidades que sean pro
 
 La función de planificación de las políticas públicas para el desarrollo social del Estado y de los Municipios, se realizará a través de un órgano adscrito y dependiente del Poder Ejecutivo del Estado de Guerrero denominado Consejo de Políticas Públicas.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 155.
 
 El Consejo de Políticas Públicas se integrará con:
 
-I. Un consejero presidente designado por el Gobernador del Estado; y,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+I. Una Consejera o Consejero Presidente designado por la Gobernadora o Gobernador del Estado; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Cuatro consejeros de políticas públicas designados por el voto de las dos terceras partes del total de los integrantes del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 En el ejercicio de su función contará con un órgano asesor integrado por académicos, profesionistas, organizaciones gremiales y de la sociedad civil, con el carácter de honoríficos, en el número y con las atribuciones que les señale la ley orgánica respectiva.
 
@@ -3167,13 +3547,17 @@ Para ser consejero de políticas públicas se requiere, además de los requisito
 
 Los consejeros de políticas públicas durarán en su encargo tres años con posibilidad de una sola ratificación.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 157.
 
-El Consejo de Políticas Públicas ejercerá su función mediante la planificación, diseño, seguimiento y verificación de resultados de políticas públicas dirigidas al desarrollo social del Estado, a través de la consulta y asesoría al Gobernador y a la administración pública estatal y municipal, procurando que la acción del gobierno se dirija al cumplimiento de objetivos y metas verificables en su eficacia y eficiencia.
+El Consejo de Políticas Públicas ejercerá su función mediante la planificación, diseño, seguimiento y verificación de resultados de políticas públicas dirigidas al desarrollo social del Estado, a través de la consulta y asesoría a la Gobernadora o Gobernador y a la administración pública estatal y municipal, procurando que la acción del gobierno se dirija al cumplimiento de objetivos y metas verificables en su eficacia y eficiencia.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. En el ejercicio de su función deberá observar los principios de objetividad, especialización, profesionalismo, ética, transparencia y máxima publicidad; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 2. El Consejo coordinará sus actividades, en los términos que disponga la ley, con el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
@@ -3193,27 +3577,45 @@ El Consejo Directivo actuará exclusivamente en pleno.
 
 #### SECCIÓN II. COMPETENCIA
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [REPUBLICADO PRIMER PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 159.
 
 El Consejo de Políticas Públicas será competente para:
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 I. Coadyuvar en la planeación estratégica del desarrollo estatal y determinar las prioridades de políticas públicas en cada una de las ramas de la administración, de conformidad con los objetivos y metas del Estado en el corto, mediano y largo plazo;
 
-II. Constituirse en órgano de consulta del Gobernador del Estado y de la administración pública estatal y municipal para el diseño, evaluación y seguimiento de políticas públicas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-III. Proponer al Gobernador del Estado iniciativas legislativas para establecer las bases, lineamientos y criterios a que deberán ajustarse las políticas públicas del Estado;
+II. Constituirse en órgano de consulta de la Gobernadora o Gobernador del Estado y de la administración pública estatal y municipal para el diseño, evaluación y seguimiento de políticas públicas;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+III. Proponer a la Gobernadora o Gobernador del Estado iniciativas legislativas para establecer las bases, lineamientos y criterios a que deberán ajustarse las políticas públicas del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IV. Formular opiniones y recomendaciones para el diseño, elaboración, implementación, seguimiento y evaluación del Plan Estatal de Desarrollo, los planes y programas sectoriales y municipales;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 V. Formular a la administración pública estatal y municipal las recomendaciones necesarias para promover y eficientar el desarrollo económico y social del Estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VI. Verificar las políticas, planes, programas y proyectos públicos para determinar su sujeción al Plan Estatal de Desarrollo;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VII. Vigilar que la formulación de políticas públicas se realice observando los enfoques transversales de género, perspectiva generacional, pertenencia étnica, equilibrio geográfico, interculturalidad, discapacidad y desarrollo sustentable;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VIII. Promover políticas públicas encaminadas al desarrollo sustentable y equilibrado entre los municipios del Estado; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IX. Las demás que determine la ley y su reglamento.
 
@@ -3249,9 +3651,13 @@ II. La administración y vigilancia de los bienes muebles e inmuebles del Poder 
 
 ###### ARTICULO 161.
 
-El Consejo de la Judicatura se integrará con cinco consejeros:
+El Consejo de la Judicatura se integrará con cinco consejeras o consejeros:
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 I. El presidente del Tribunal Superior de Justicia del Estado de Guerrero, quien también lo será del Consejo;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Un consejero elegido entre los Jueces de primera instancia por votación libre y directa de todos sus integrantes;
 
@@ -3259,9 +3665,15 @@ II. Un consejero elegido entre los Jueces de primera instancia por votación lib
 
 III. Un consejero designado por el Pleno del Tribunal Superior de Justicia del Estado de entre sus magistrados, a propuesta de su Presidente;
 
-IV. Un consejero designado por el Gobernador del Estado; y,
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+IV. Una consejera o consejero designado por la Gobernadora o Gobernador del Estado; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 V. Un consejero designado por las dos terceras partes del total de los miembros del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Durante el ejercicio de su encargo, los consejeros provenientes del Poder Judicial del Estado de Guerrero no realizarán funciones jurisdiccionales. Al término del encargo se reincorporarán a sus respectivas adscripciones;
 
@@ -3277,17 +3689,21 @@ V. Un consejero designado por las dos terceras partes del total de los miembros 
 
 4. La Ley Orgánica del Poder Judicial del Estado y el Reglamento Interior del Consejo de la Judicatura establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito competencial del mismo.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 #### SECCIÓN II. INTEGRACIÓN, NOMBRAMIENTO Y COMPETENCIAS
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 162.
 
-En el nombramiento de los consejeros que competen al Gobernador y al Congreso del Estado deberá observarse lo dispuesto en los numerales 1, 2, 3 y 4 del artículo 112 de esta Constitución.
+En el nombramiento de las y los consejeros que competen a la Gobernadora o Gobernador y al Congreso del Estado deberá observarse lo dispuesto en los numerales 1, 2, 3 y 4 del artículo 112 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Los consejeros, con excepción del presidente del Consejo, durarán en su cargo tres años con posibilidad de ser ratificados por única ocasión; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 2. Los consejeros no representan a quien los designa. Ejercerán su función con independencia e imparcialidad.
 
@@ -3457,15 +3873,17 @@ Los municipios ejercerán sus competencias a través de un órgano representativ
 
 1. Los Ayuntamientos ejercerán el gobierno municipal y no habrá autoridad intermedia alguna entre éste y los Poderes del Estado;
 
-2. Los Ayuntamientos se instalarán el 30 de septiembre del año de la elección; y,
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+2. Los Ayuntamientos se instalarán el 01 de enero del año siguiente al de la elección; y,
 
 3. La administración pública municipal se conformará y organizará según determine la ley respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 172.
 
-Los Ayuntamientos se integrarán por un Presidente Municipal, Síndicos y Regidores, en los términos dispuestos en la ley y abrirán válidamente sus sesiones con la mayoría de sus integrantes.
+Los Ayuntamientos se integrarán por una presidenta o presidente municipal, sindicas y síndicos y regidoras y regidores, en los términos dispuestos en la ley y abrirán válidamente sus sesiones con la mayoría de sus integrantes.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3477,9 +3895,9 @@ Los Ayuntamientos se integrarán por un Presidente Municipal, Síndicos y Regido
 
 Los Ayuntamientos también contarán con Consejos de Participación Ciudadana, que coadyuvarán a la mejor atención de las materias de interés vecinal;
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-3. La seguridad pública estará a cargo de una policía preventiva bajo el mando del Presidente Municipal en los términos de la ley estatal correspondiente, con excepción de los convenios celebrados en la materia con los gobiernos Federal y Estatal. La policía acatará las órdenes que el Gobernador del Estado le transmita en los casos que juzgue como de fuerza mayor o alteración grave del orden público;
+3. La seguridad pública estará a cargo de una policía preventiva bajo el mando de la Presidenta o Presidente Municipal en los términos de la ley estatal correspondiente, con excepción de los convenios celebrados en la materia con los gobiernos Federal y Estatal. La policía acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en los casos que juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3525,11 +3943,13 @@ La elección de los miembros del Ayuntamiento será mediante sufragio universal,
 
 Cuando la elección de ayuntamientos no se realice, sus integrantes no concurran a su instalación, cuando se declare su desaparición, no se haya calificado la elección o se haya declarado su nulidad, el Congreso del Estado notificará inmediatamente al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero o, en su caso, al Instituto Nacional Electoral para que convoque a una elección extraordinaria.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 176.
 
-Los presidentes municipales, síndicos y regidores deberán rendir la protesta constitucional de su cargo el día de la instalación de los Ayuntamientos que integran, que será el día 30 de septiembre del año de la elección.
+Las y los presidentes municipales, síndicos y regidores deberán rendir la protesta constitucional de su cargo, ante los ayuntamientos salientes, en sesión solemne que se celebrará el día 31 de diciembre del año de la elección.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE ABRIL DE 2014)</small>
 
 1. El período de ejercicio de los integrantes de los Ayuntamientos será de tres años, con posibilidad de reelección inmediata por un sólo periodo constitucional, bajo las siguientes bases:
 
@@ -3537,7 +3957,11 @@ I. La postulación para los efectos de la reelección inmediata sólo podrá ser
 
 II. Los ciudadanos podrán participar como candidatos independientes. Quien así contienda lo hará siempre bajo la misma calidad, no pudiendo ser postulados por un partido político o coalición en tratándose de la reelección inmediata;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 2. Quienes hayan sido designados en Consejo Municipal o como suplentes, podrán ser electos para el período inmediato de conformidad con las bases anteriores; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. Los miembros de los Ayuntamientos son sujetos de responsabilidad política, penal y administrativa de conformidad con el Título Décimo Tercero de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
 
@@ -3671,21 +4095,33 @@ VI. Las rentas que deba percibir; y,
 
 VII. Los demás ingresos que determinen las leyes fiscales o que se generen en su favor por cualquier causa legal.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 181.
 
-La hacienda pública del Estado será administrada por el Gobernador del Estado de Guerrero, en los términos que señalen las leyes respectivas.
+La Hacienda Pública del Estado será administrada por la Gobernadora o Gobernador del Estado de Guerrero, en los términos que señalen las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Todo servidor público o empleado que maneje fondos públicos del Estado o del municipio deberá otorgar fianza en términos de ley;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 2. Los servidores públicos del Estado y de los municipios tienen la obligación de aplicar los recursos públicos que están bajo su responsabilidad con racionalidad presupuestaria, imparcialidad, eficiencia, eficacia, economía, transparencia, honradez, oportunidad y máxima publicidad, para satisfacer los objetivos a los que estén destinados;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. Las finanzas públicas del Estado deberán ceñirse a criterios de racionalidad y de estricta disciplina fiscal, procurando que el nivel de gasto establecido anualmente en el presupuesto de egresos sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 4. Los contratos administrativos que se celebren se ajustarán a los principios de legalidad, publicidad, igualdad, concurrencia, transparencia y máxima publicidad, en los términos dispuestos en la ley;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 5. Los miembros de la administración pública estatal, serán responsables solidarios de los actos y hechos ilícitos que se cometan en la administración de los fondos estatales a su cargo; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 6. La ley determinará la organización y funcionamiento de las oficinas y dependencias de la hacienda pública del Estado.
 
@@ -3817,11 +4253,13 @@ DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, PARTICULARES VINCULADOS CO
 
 #### SECCIÓN I. SERVIDORES PÚBLICOS
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 191.
 
-Son servidores públicos del Estado los representantes de elección popular, los funcionarios, empleados y, en general, toda persona que con independencia de su jerarquía o adscripción desempeñe un empleo, cargo o comisión dentro de los poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos, los Órganos Autónomos y los Órganos con Autonomía Técnica.
+Son Servidoras y Servidores públicos del Estado las y los representantes de elección popular, las y los funcionarios, empleados y, en general, toda persona que con independencia de su jerarquía o adscripción desempeñe un empleo, cargo o comisión dentro de los poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos, los Órganos Autónomos y los Órganos con Autonomía Técnica.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Los servidores públicos se encuentran sujetos al siguiente régimen jurídico:
 
@@ -3847,15 +4285,23 @@ II. Están obligados a cumplir con sus responsabilidades en las formas y en los 
 
 De acuerdo a ello, los ciudadanos podrán exigir en todo momento ante la autoridad competente, que los servidores públicos, exceptuando a los electos por voto popular, puedan ser sujetos a procesos de evaluación al desempeño de sus funciones, mediante la verificación del cumplimiento de las metas señaladas en sus respectivos planes de desarrollo y, como consecuencia, en los Programas Operativos Anuales. Los resultados que deriven de ello podrán ser las sanciones establecidas en la ley correspondiente, según sea el caso.
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 III. Deben aplicar con imparcialidad los recursos públicos que estén bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IV. Tienen prohibida la difusión de propaganda o la realización de actos de promoción personalizada que incluya su nombre, imagen, voz o símbolos. La propaganda gubernamental deberá tener carácter institucional y fines informativos, educativos o de orientación social;
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-V. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+V. Deberán recibir una remuneración adecuada y proporcional a sus responsabilidades por el desempeño de su función. Ninguna Servidora o Servidor público podrá recibir una remuneración igual o mayor a la de su superior jerárquico, ni superior a la establecida para la Gobernadora o Gobernador del Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VI. Tienen prohibido desempeñar a la vez dos o más cargos o empleos públicos por los que se disfrute sueldo, excepto los de enseñanza, investigación o beneficencia pública que no impliquen remuneración o estímulo económico y que no comprometan su desempeño o resulten incompatibles; y,
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VII. No podrán ser objeto de ningún género de descuento sin su consentimiento, excepto cuando lo determine la ley o la autoridad judicial correspondiente.
 
@@ -3879,11 +4325,19 @@ XI. Las remuneraciones de todos los servidores públicos y sus tabuladores será
 
 XII. Las remuneraciones de todos los servidores públicos deberán ser equitativas en el presupuesto de egresos correspondiente, el cual deberá sujetarse a las bases establecidas en fracciones anteriores.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 2. Los servidores públicos de base tendrán garantizada la estabilidad en el trabajo cuando la naturaleza del servicio lo requiera. Los servidores públicos de confianza disfrutarán de las medidas de protección al salario y de los beneficios de la seguridad social;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. Las relaciones entre el Estado, los municipios y los servidores públicos, y entre éstos y los usuarios de servicios públicos, se conducirán con respeto irrestricto a la dignidad y los derechos humanos;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 4. En la renovación de los Poderes del Estado y de los municipios se procurará que los derechos laborales de los servidores públicos y los derechos de los beneficiarios de los servicios públicos no se vean afectados; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 5. Con independencias (sic) de las causas en materia de responsabilidad política previstas en el presente Título, se consideran causas graves:
 
@@ -3935,69 +4389,125 @@ La responsabilidad del Estado y de los municipios por los daños que, con motivo
 
 #### SECCIÓN IV. RESPONSABILIDAD POLÍTICA
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 195.
 
-Incurren en responsabilidad política los servidores públicos que en ejercicio de sus funciones realicen actos u omisiones que vulneren los principios fundamentales de la presente Constitución o infrinjan las leyes que regulan el manejo del patrimonio del Estado o de los municipios.
+Incurren en responsabilidad política las y los Servidores públicos que en ejercicio de sus funciones realicen actos u omisiones que vulneren los principios fundamentales de la presente Constitución o infrinjan las leyes que regulan el manejo del patrimonio del Estado o de los municipios.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 Además, procederá el fincamiento de responsabilidad política por las siguientes causas graves:
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 I. Se ataque a las instituciones democráticas;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Se ataque la forma de gobierno republicano, representativo y federal;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 III. Por violaciones graves y sistemáticas a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 IV. Ataque a la libertad de sufragio;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 V. Usurpación de atribuciones;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 VI. Abandono del cargo;
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 VII. Cualquier infracción a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y a las leyes federales o del Estado cuando cause perjuicios graves a la Federación, al propio Estado de Guerrero, o motive algún trastorno en el funcionamiento normal de las instituciones; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JUNIO DE 2025)</small>
 
 VIII. Violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública y a las leyes que determinen el manejo de los recursos patrimoniales o económicos de la Entidad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
+
 1. Son sujetos de responsabilidad política:
 
-I. Los diputados del Congreso del Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-II. El Gobernador del Estado;
+I. Los (sic) las Diputadas y los Diputados del Congreso del Estado;
 
-III. Los secretarios de despacho y el Contralor General del Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-IV. Los Magistrados y Jueces del Poder Judicial del Estado de Guerrero;
+II. La Gobernadora o Gobernador del Estado;
 
-V. Los Presidentes, Síndicos y Regidores de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-VI. Los titulares de las dependencias, entidades u organismos de la administración pública estatal o municipal;
+III. Las y los Secretarios de Despacho y la o el Contralor General del Estado;
 
-VII. El Presidente y los consejeros de la Comisión de los Derechos Humanos del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-VIII. Los consejeros del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero;
+IV. Las y los Magistrados, Juezas y Jueces del Poder Judicial del Estado de Guerrero;
 
-IX. Los Magistrados del Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-X. El Fiscal General;
+V. Las Presidentas o Presidentes, Sindicas o Síndicos y Regidoras o Regidores de los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XI. El Auditor Superior del Estado;
+VI. Las y los titulares de las dependencias, entidades u organismos de la administración pública estatal o municipal;
 
-XII. Los consejeros del Consejo de Políticas Públicas;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-XIII. Los consejeros del Consejo de la Judicatura; y,
+VII. La presidenta o Presidente y las y los consejeros de la Comisión de los Derechos Humanos del Estado de Guerrero;
 
-XIV. El Defensor General del Instituto de la Defensoría Pública.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+VIII. Las y los consejeros del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+IX. Las y los Magistrados del Tribunal de lo Contencioso Administrativo;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+X. La Fiscal o Fiscal General;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XI. La Auditora o Auditor Superior del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XII. Las consejeras y Los consejeros del Consejo de Políticas Públicas;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XIII. Las consejeras y Los consejeros del Consejo de la Judicatura; y,
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+XIV. La Defensora o Defensor General del Instituto de la Defensoría Pública.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 2. La responsabilidad política se sancionará con la destitución del servidor público y su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público del Estado o de los municipios, por un periodo máximo de diez años, en los términos dispuestos en la ley;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 3. La responsabilidad política se impondrá mediante juicio político ante el Congreso del Estado. Corresponde a la Comisión Instructora sustanciar el procedimiento establecido en la ley y formular la acusación ante el Pleno del Congreso del Estado, erigido en gran jurado, quién dictará resolución con el voto de las dos terceras partes del total de sus miembros;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 4. La resolución del Congreso del Estado será definitiva e inatacable;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 5. Si la resolución es absolutoria, el servidor público continuará en el ejercicio de sus funciones; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 6. La responsabilidad política sólo será exigible durante el período en el cual el servidor público ejerza el empleo, cargo o comisión, o dentro de los dos años siguientes a partir de que concluya su encargo.
 
@@ -4005,29 +4515,49 @@ XIV. El Defensor General del Instituto de la Defensoría Pública.
 
 #### SECCIÓN V. RESPONSABILIDAD PENAL
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 196.
 
-Incurren en responsabilidad penal los servidores públicos que en el ejercicio de sus funciones realicen actos u omisiones tipificados como delitos.
+Incurren en responsabilidad penal las y los servidores públicos que en el ejercicio de sus funciones realicen actos u omisiones tipificados como delitos.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 1. Son sujetos de responsabilidad penal los servidores públicos mencionados en el artículo 195.1 de esta Constitución;
 
-2. El Gobernador, durante el ejercicio de su encargo, sólo podrá ser acusado por la comisión de delitos graves del orden común previstos en el Código Penal del Estado. Por los demás delitos podrá ser acusado, conforme a esta Constitución y las leyes respectivas, al concluir su mandato;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
+
+2. La Gobernadora o Gobernador, durante el ejercicio de su encargo, sólo podrá ser acusado por la comisión de delitos graves del orden común previstos en el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+Por los demás delitos podrá ser acusado, conforme a esta Constitución y las leyes respectivas, al concluir su mandato;
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
 3. La comisión de delitos o hechos de corrupción por parte de cualquier servidor público o particulares, será sancionada en los términos de la legislación penal aplicable. Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su empleo, cargo o comisión, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan. La responsabilidad penal se sustanciará ante las autoridades judiciales competentes;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 4. Para ejercitar la responsabilidad de los servidores públicos con inmunidad constitucional se requerirá agotar previamente la declaración de procedencia ante el Congreso del Estado. Quedan exceptuados quienes cometan un delito durante el tiempo en que se encuentren separados de su encargo;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 5. Corresponde a la Comisión Instructora sustanciar el procedimiento establecido en la ley y formular el proyecto de resolución ante el Pleno del Congreso del Estado, quien dictará la resolución correspondiente por el voto de los (sic) dos terceras partes del total de sus miembros, en la que confirme o suspenda la inmunidad;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 6. Si el Congreso del Estado declara la suspensión de la inmunidad, el servidor público quedará separado de su encargo y a disposición de las autoridades competentes para que actúen de conformidad con la ley;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 7. Si la resolución confirma la inmunidad, se suspenderá todo procedimiento ulterior y la responsabilidad penal podrá ejercitarse, únicamente, cuando el servidor público haya concluido el ejercicio de su encargo. La resolución no prejuzga los fundamentos de la imputación;
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 8. Cuando el proceso penal culmine en sentencia absolutoria, el servidor público podrá reasumir el ejercicio de sus funciones; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 9. La responsabilidad penal será exigible de acuerdo con los plazos de prescripción consignados en el Código Penal del Estado de Guerrero. Los plazos de prescripción se interrumpen mientras el servidor público se encuentre en el ejercicio de su encargo.
 
@@ -4153,21 +4683,33 @@ ARTICULO 198 TER.- El Comité de Participación Ciudadana del Sistema, tiene com
 
 #### SECCIÓN ÚNICA. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCIÓN
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 199.
 
 La presente Constitución puede ser reformada o adicionada por el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 1. Para que las reformas o adiciones lleguen a ser parte de la Constitución se deberá cumplir con el siguiente procedimiento:
 
-I. Son sujetos legitimados para presentar iniciativas los Diputados del Congreso y el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+I. Son sujetos legitimados para presentar iniciativas las Diputadas y los Diputados del Congreso y la Gobernadora o Gobernador del Estado.
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
 
 II. Las reformas deberán ser aprobadas por las dos terceras partes del total de los integrantes del Congreso del Estado; y,
 
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+
 III. Ser aprobadas por el cincuenta por ciento más uno de los Ayuntamientos, en sesión de Cabildo, en un plazo improrrogable de 60 días naturales contados a partir del día siguiente en que la reciban.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+
 2. El Congreso del Estado o, en su caso, la Comisión Permanente, cumplido el término de 60 días, realizará el cómputo de los votos de los Ayuntamientos y levantará el Acta correspondiente. Cuando se reciba el voto de la mayoría de los Ayuntamientos, se procederá de inmediato a la declaración. El decreto de reformas y/o adiciones se remitirá de inmediato al Ejecutivo del Estado para su debida promulgación y publicación en el Periódico Oficial; y,
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 3. En el trámite y desahogo del procedimiento de reforma constitucional se observará, en lo conducente, la Ley Orgánica del Poder Legislativo del Estado.
 
@@ -5718,3 +6260,43 @@ TERCERO. En términos del numeral 1 fracción III del artículo 199 de la Consti
 CUARTO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
 
 QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 678 POR EL QUE SE REFORMA ARTÍCULO 171 NUMERAL 2 Y 176 PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Los Ayuntamientos que hayan de instalarse el 30 de septiembre de 2027 durarán en su encargo por única ocasión hasta el 31 de diciembre de 2030, es decir tres años y 3 meses.
+
+TERCERO. Este Poder Legislativo deberá de llevar a cabo las reformas de leyes secundarias a efecto de que se armonicen con el presente decreto.
+
+CUARTO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+QUINTO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 828 POR EL QUE SE REFORMA Y ADICIONA A LOS ARTÍCULOS 40, 43, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 61, 62, 63, 65, 69, TITULO SEXTO, 71, 72, 73, SECCIÓN II, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 91, 97, 100, 104, 119, 134, 136, 142, 155, 157, 159, 161, 162, 172, 181, 191, 195, 196 Y 199 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+CUARTO. Remítase a la Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 829 POR EL QUE SE REFORMA LA FRACCIÓN VI, NUMERAL 1, DEL ARTÍCULO 6, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+TERCERO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
