@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2021-02-23"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -3277,27 +3277,29 @@ Intervención subsidiaria del Centro de Profesionalización
 
 Los municipios solo podrán celebrar convenios con el Centro de Profesionalización a fin de subsidiar a través de éste las acciones de formación y capacitación de sus cuerpos de seguridad.
 
-## TÍTULO TERCERO. DEL CENTRO DE COMUNICACIONES, CÓMPUTO, CONTROL Y COMANDO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2025)</small>
+
+## TÍTULO TERCERO. DEL CENTRO DE COMUNICACIONES, CÓMPUTO, CONTROL, COMANDO E INTELIGENCIA
 
 ### CAPÍTULO ÚNICO. REGULACIÓN
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 203.
 
 Definición
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+El Centro de Comunicaciones, Cómputo, Control, Comando e Inteligencia es una unidad administrativa adscrita a la Secretaría de Seguridad encargada de implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública; así como proveer su uso a favor de las instituciones y corporaciones autorizadas en beneficio de la comunidad.
 
-El Centro de Comunicaciones, Cómputo, Control y Comando es una unidad administrativa adscrita a la Secretaría de Seguridad encargada de implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública; así como proveer su uso a favor de las instituciones y corporaciones autorizadas en beneficio de la comunidad, comprenderá también el registro, atención y despacho de las llamadas al Sistema de Emergencia y Denuncia Anónima.
+El Centro de Comunicaciones, Cómputo, Control, Comando e Inteligencia deberá de coordinarse en la ejecución de sus funciones con las instituciones de seguridad pública, protección civil, y demás autoridades que intervienen en la atención de emergencias, correspondiendo el mando operativo a la Secretaría de Seguridad.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-El Centro de Comunicaciones, Cómputo, Control y Comando deberá de coordinarse en la ejecución de sus funciones con las instituciones de seguridad pública, protección civil, y demás autoridades que intervienen en la atención de emergencias, correspondiendo el mando operativo a la Secretaría de Seguridad.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### Artículo 204.
 
 De la coordinación
 
-El Centro de Comunicaciones, Cómputo, Control y Comando instrumentará a través de las unidades administrativas correspondientes, la coordinación operativa, táctica y estratégica de la información relativa a las acciones de seguridad pública; así como del control, resguardo y registro del equipo de radio comunicación, debiendo comunicar cualquier cambio a la unidad administrativa de Sistemas de Información.
+El Centro de Comunicaciones, Cómputo, Control, Comando e Inteligencia instrumentará a través de las unidades administrativas correspondientes, la coordinación operativa, táctica y estratégica de la información relativa a las acciones de seguridad pública; así como del control, resguardo y registro del equipo de radio comunicación, debiendo comunicar cualquier cambio a la unidad administrativa de Sistemas de Información.
 
 ## TÍTULO CUARTO. INFORMACIÓN ESTATAL SOBRE SEGURIDAD PÚBLICA
 
@@ -4100,3 +4102,21 @@ P.O. 23 DE FEBRERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 970.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 9 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 259.- SE CREA LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Dentro de los ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, se deberá expedir el reglamento interior respectivo, así como los lineamientos y disposiciones reglamentarias y administrativas necesarias para instrumentar las disposiciones de la presente Ley.
+
+TERCERO. Las disposiciones reglamentarias y administrativas vigentes a la fecha de entrada en vigor de esta Ley seguirán aplicándose en todo lo que no se opongan a lo dispuesto en la misma, hasta en tanto se realice la armonización correspondiente con el presente Decreto.
+
+CUARTO. Se abroga la Ley Orgánica de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza publicada en fecha 25 de noviembre de 2020, y todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan a esta Ley.
+
+QUINTO. Los asuntos en trámite que son atendidos por unidades administrativas que modifican su denominación y/o sus atribuciones en virtud de la entrada en vigor del presente Decreto, continuarán siendo atendidos y resueltos por las unidades administrativas a las que se les de la competencia correspondiente en este ordenamiento.
+
+SEXTO. Las referencias que se hagan y las atribuciones que se otorguen en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones legales, a las unidades administrativas de la Secretaría de Seguridad Pública que cambian de denominación por la entrada en vigor del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes en este ordenamiento.
+
+SÉPTIMO. La Secretaría de Finanzas, en coordinación con la Secretaría de Seguridad Pública, realizará las adecuaciones y gestiones jurídico - administrativas, presupuestales y de movimientos de personal, para la adecuada instrumentación de las disposiciones que establece esta Ley.
