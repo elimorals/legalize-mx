@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-prevencion-de-la-violencia-familiar-para-3296
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-04"
-last_updated: "2024-05-07"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección I, del Periódico Oficial de Baja California, el viernes 4 de julio de 2003.
 
@@ -37,17 +37,17 @@ LEY DE ATENCION Y PREVENCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos tendientes a salvaguardar la integridad física, psicológica, sexual y económica de los miembros de la familia, mediante la atención y prevención de la violencia familiar en el Estado de Baja California.
+Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto establecer las bases y procedimientos tendientes a salvaguardar la integridad física, psicológica, sexual, económica y patrimonial de los miembros de la familia, mediante la atención y prevención de la violencia familiar en el Estado de Baja California.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
 
 ###### ARTÍCULO 2.
 
-Se considera como violencia familiar, todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica, económica o sexualmente a cualquier miembro de la familia, dentro o fuera del domicilio y que tiene por efecto causar daño en cualquiera de los aspectos entendidos por esta Ley como:
+Se considera como violencia familiar, todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psicológica, económica, sexual o patrimonialmente a cualquier miembro de la familia, dentro o fuera del domicilio y que tiene por efecto causar daño en cualquiera de los aspectos entendidos por esta Ley como:
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2018)</small>
 
@@ -62,6 +62,14 @@ IV. Económico: toda omisión por la cual no se logre cubrir las necesidades bá
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2018)</small>
 
 V. Verbal: toda palabra o series de palabras proferidas con las cuales se busque menoscabar la integridad moral de la víctima.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+VI. Patrimonial: Todo acto u omisión que ocasionen daño directo o indirecto, a bienes muebles o inmuebles, tales como perturbación en la propiedad o posesión, sustracción, destrucción, menoscabo, desaparición, ocultamiento o retención de objetos, documentos personales, bienes o valores, derechos patrimoniales o recursos económicos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+VII. Cualquiera otra forma análoga que lesione o sea susceptibles de dañar la dignidad, integridad o libertad de las personas.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -610,3 +618,9 @@ P.O. 7 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 413 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 101 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1 Y 2 DE LA LEY DE ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
