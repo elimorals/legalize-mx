@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-personas-con-autismo-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-21"
-last_updated: "2024-06-28"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Baja California, el viernes 21 de octubre de 2016.
 
@@ -279,13 +279,37 @@ VIII. Abusar de las personas en el ámbito laboral.
 
 IX. Negar la asesoría jurídica necesaria para el ejercicio de sus derechos civiles.
 
-X. Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en la presente Ley y los demás ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+X. La existencia de barreras u obstáculos en el entorno educativo para las personas con la condición del Espectro Autista, que estén dentro del ámbito de las autoridades educativas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE JUNIO DE 2025)</small>
+
+XI. Todas aquellas acciones que atenten o pretendan desvirtuar lo dispuesto en la presente Ley y los demás ordenamientos aplicables.
 
 #### SECCIÓN II. SANCIONES
 
 ###### Artículo 14.
 
 Las responsabilidades y faltas administrativas, así como los hechos delictivos que eventualmente se cometan por la indebida observancia a la presente Ley, se sancionarán en los términos de las leyes administrativas y penales aplicables que correspondan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JUNIO DE 2025)</small>
+
+### CAPÍTULO QUINTO. EDUCACIÓN Y TRASTORNO DEL ESPECTRO AUTISTA
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 15.
+
+El Estado a través de la Secretaría de Educación, brindará educación especial a las personas que presenten la condición del Trastorno Espectro Autista o algunas de sus manifestaciones, considerando los espacios adecuados para ello, con elementos que faciliten su proceso de integración a escuelas de educación regular.
+
+La Secretaría de Educación impulsará la capacitación multidisciplinaria a las escuelas regulares que integran a alumnos con la condición del Trastorno Espectro Autista, a través del personal especializado.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+###### Artículo 16.
+
+Los familiares de personas con condición de Trastorno del Espectro Autista, deberán recibir información, educación y capacitación adecuadas, para que sean coparticipes eficientes en las actividades educativas y formativas, asumiendo responsabilidades especificas sugeridas en el informe de evaluación psicopedagógica o el plan de intervención.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -328,5 +352,11 @@ P.O. 5 DE ABRIL DE 2024.
 P.O. 28 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 438 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 112 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 13 TODOS DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
