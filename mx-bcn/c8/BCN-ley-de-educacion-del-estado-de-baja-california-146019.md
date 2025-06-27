@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-03-14"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -461,9 +461,11 @@ En la educación que se imparta en el Estado se promoverá un enfoque humanista,
 
 De igual forma, para resolver situaciones problemáticas de manera autónoma y colectivamente, aplicar los conocimientos aprendidos a situaciones concretas de su realidad y desarrollar sus actitudes y habilidades para su participación en los procesos productivos, democráticos y comunitarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2025)</small>
+
 ###### Artículo 35.
 
-La autoridad educativa estatal generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas. En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas: debiendo cumplir con los siguientes propósitos generales de la educación artística:
+La autoridad educativa estatal generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas para la educación básica y media superior. En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas: debiendo cumplir con los siguientes propósitos generales de la educación artística:
 
 I. Se orientará a potenciar en los niños la sensibilidad, la iniciativa, la curiosidad, la espontaneidad, la imaginación, el gusto estético y la creatividad, para que expresen sus sentimientos mediante el arte y la experimentación de sensaciones de logro;
 
@@ -1952,3 +1954,9 @@ P.O. 14 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 113 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
