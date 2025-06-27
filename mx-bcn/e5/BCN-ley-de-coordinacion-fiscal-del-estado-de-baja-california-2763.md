@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2023-12-22"
+last_updated: "2025-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -227,19 +227,27 @@ El Consejo de Coordinación Hacendaria, tiene por objeto vigilar el desarrollo y
 
 El Consejo de Coordinación Hacendaria, se integrará por:
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-I.- El Ejecutivo del Estado, por conducto del Secretario de Hacienda, quien lo presidirá, y tendrá a su cargo, la convocatoria para sesionar y la designación de la persona que deberá asumir el cargo de Secretario del Consejo.
+I.- La persona a cargo de la Gubernatura del Estado, por conducto de la persona titular de la Secretaría de Hacienda, quien lo presidirá, y tendrá a su cargo, la convocatoria para sesionar y la designación de la persona que deberá asumir el cargo de la Secretaría del Consejo.
 
-El Secretario de Hacienda, podrá ser suplido por el funcionario que de acuerdo con las disposiciones legales, le competa el o los asuntos que se vayan a tratar en las sesiones del Consejo.
+La persona titular de la Secretaría de Hacienda podrá ser suplido por el funcionario que, de acuerdo con las disposiciones legales, le competa el o los asuntos que se vayan a tratar en las sesiones del Consejo.
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2025)</small>
 
-II.- El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Presupuesto, o por la persona que la propia comisión designe, siempre y cuando sea integrante de la misma.
+El Consejo deberá reunirse cuando menos una vez cada año, previa convocatoria de la Secretaría de Hacienda.
 
-III.- Los Municipios del Estado, por conducto de los Tesoreros de cada uno de los Ayuntamientos, los cuales podrán ser suplidos con la autoridad fiscal inmediata inferior, o por el funcionario que aquellos designen.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
 
-El Consejo de Coordinación Hacendaria, fungirá como un órgano de consulta, análisis técnico y consenso de los temas que regula la presente Ley.
+II.- El Congreso del Estado, por conducto de la Presidencia de la Comisión de Hacienda y Presupuesto, o por la persona que la propia comisión designe, siempre y cuando sea integrante de la misma.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+
+III.- Los Municipios del Estado, por conducto de las personas a cargo de las Tesorerías de cada uno de los Ayuntamientos, que podrán ser suplidas con la autoridad fiscal inmediata inferior, o por la persona funcionaria que designen.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+
+El Consejo de Coordinación Hacendaria, fungirá como órgano de consulta, análisis técnico y consenso de los temas que regula la presente Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -388,3 +396,11 @@ SEGUNDO. La Secretaría de Hacienda en coordinación con los Municipios de esta 
 TERCERO. La Secretaría de Hacienda a más tardar el último día hábil del mes de enero de cada ejercicio fiscal, deberá publicar en el Periódico Oficial del Estado de Baja California, la actualización del monto de incentivo señalado en el artículo 7 BIS de la presente reforma.
 
 CUARTO. La Secretaría de Hacienda deberá llevar a cabo las previsiones necesarias para la distribución oportuna de las participaciones estatales y de la cantidad señalada en el primer párrafo del artículo 7 BIS de esta Ley, iniciando su distribución al mes siguiente que los municipios hayan celebrado el Convenio para la administración del Impuesto Predial con el Poder Ejecutivo del Estado.
+
+P.O. 27 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 109 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA QUE ADICIONA DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Poder Ejecutivo del Estado deberá adecuar su normatividad interna dentro de los ciento ochenta días siguientes a que entre en vigor la presente reforma, de ser necesario y de conformidad con la Ley.
