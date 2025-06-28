@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2024-12-18"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -73,9 +73,9 @@ Las contribuciones se clasifican en impuestos y derechos; los que se definen de 
 
 I. Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y jurídicas colectivas que se encuentren en la situación jurídica o de hecho previstas por la misma que sean distintas a las señaladas en la fracción II de este artículo; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-II. Derechos son las contribuciones establecidas en la Ley de Hacienda del Estado por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público.
+II. Derechos son las contribuciones establecidas en la Ley de Hacienda del Estado de Tabasco por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -117,11 +117,17 @@ Son leyes fiscales del Estado de Tabasco:
 
 I. El presente Código;
 
-II. Ley de Ingresos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-III. Ley de Hacienda;
+II. Ley de Ingresos del Estado de Tabasco;
 
-IV. Ley de Catastro; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+III. Ley de Hacienda del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+IV. Ley de Catastro del Estado de Tabasco;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -141,87 +147,87 @@ La aplicación de las disposiciones a que se refiere este artículo le correspon
 
 Son autoridades fiscales del Estado de Tabasco:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+I. El Gobernador o Gobernadora del Estado;
 
-II. El Secretario de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+II. La persona titular de la Secretaría de Administración y Finanzas;
 
-III. El Subsecretario de Ingresos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+III. La persona titular de la Subsecretaría de Ingresos;
 
-IV. El Procurador Fiscal;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+IV. La persona titular de la Procuraduría Fiscal;
 
 V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-VI. El Director de Recaudación;
+VI. La persona titular de la Dirección de Recaudación;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-VII. El Director Técnico de Recaudación;
+VII. La persona titular de la Dirección de Recaudación y Obligaciones;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-VIII. El Director de Auditoría Fiscal;
+VIII. La persona titular de la Dirección de Auditoría Fiscal;
 
 IX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-X. El Director de Licencias e Inspecciones;
+X. La persona titular de la Dirección General de Licencias e Inspecciones;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-X BIS. El Coordinador General de Auditoría Fiscal;
+X BIS. (DEROGADA, P.O. 28 DE JUNIO DE 2025)
 
 XI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
 XI BIS. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XII. El Director de Catastro;
+XII. La persona titular de la Dirección de Catastro;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XIII. El Titular de la Unidad de Ejecución Fiscal;
+XIII. La persona titular de la Dirección de Ejecución Fiscal;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XIV. El Subdirector de Control de Procesos;
+XIV. La persona titular de la Dirección de Asuntos Fiscales;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XV. Los Receptores de Rentas;
+XV. Los Receptores y Receptoras de Rentas;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XVI. Los Notificadores;
+XVI. Los Notificadores y Notificadoras;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XVII. Los Ejecutores;
+XVII. Los Ejecutores y Ejecutoras;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XVIII. Los Visitadores;
+XVIII. Los Visitadores y Visitadoras;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XIX. Los Verificadores;
+XIX. Los Verificadores y Verificadoras;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XX. Los Auditores; y
+XX. Los Auditores y Auditoras; y
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XXI. Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Administración y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+XXI. Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso de la persona titular de la Secretaría de Administración y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
@@ -311,11 +317,11 @@ En los casos en que una sociedad entre en liquidación, sea fusionada o se escin
 
 Cuando las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que corresponde al mes de calendario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2025)</small>
 
 ###### Artículo 15.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero y el 27 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 16 de septiembre; el 2 y el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero y el 27 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 16 de septiembre; el 2 y el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de octubre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -813,7 +819,9 @@ VIII. Neutralidad tecnológica: Utilización de cualquier tecnología, sin que s
 
 IX. Autenticidad: Certeza de que un mensaje de datos o un documento electrónico determinado fue emitido por el titular, y que, por lo tanto, el contenido y las consecuencias jurídicas que del mismo deriven, le son atribuibles a éste, en tanto se consideran expresión de su voluntad;
 
-X. Conservación: Conjunto de procedimientos y medidas destinados a asegurar la preservación y la prevención de alteraciones físicas y de información de los documentos en archivo, en términos de la Ley de Archivos Públicos del Estado de Tabasco, su Reglamento y criterios que formule el Sistema Estatal de Archivos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+X. Conservación de archivos: al conjunto de procedimientos y medidas destinados a asegurar la prevención de alteraciones físicas de los documentos en papel y la preservación de los documentos digitales a largo plazo, en términos de la Ley de Archivos para el Estado de Tabasco y criterios que formule el Sistema Estatal de Archivos de Tabasco;
 
 XI. Confidencialidad: Garantía de que sólo las personas autorizadas tendrán acceso a la información contenida en el mensaje de datos o documento electrónico;
 
@@ -1333,29 +1341,35 @@ La visita en el domicilio fiscal se sujetará a lo siguiente:
 
 I. Se realizará en el lugar o lugares señalados en la orden de visita;
 
-II. Si al presentarse los visitadores al lugar en donde deba practicarse la diligencia, no estuviere el contribuyente o su representante, le dejarán citatorio con la persona que se encuentre en dicho lugar, para que los espere a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-Los visitadores al citar al contribuyente o a su representante, podrán hacer una relación de los sistemas, libros, registros y demás documentación que integren la contabilidad. Si el Contribuyente presenta aviso de cambio de domicilio, después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y, de ser posible, en el anterior, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten.
+II. Si al presentarse los visitadores y visitadoras al lugar en donde deba practicarse la diligencia, no estuviere el contribuyente o su representante, le dejarán citatorio con la persona que se encuentre en dicho lugar, para que los espere a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado.
 
-Cuando exista el peligro de que el contribuyente se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+Los visitadores y visitadoras al citar al contribuyente o a su representante, podrán hacer una relación de los sistemas, libros, registros y demás documentación que integren la contabilidad. Si el Contribuyente presenta aviso de cambio de domicilio, después de recibido el citatorio, la visita podrá llevarse a cabo en el nuevo domicilio y, de ser posible, en el anterior, sin que para ello se requiera nueva orden o ampliación de la orden de visita, haciendo constar tales hechos en el acta que levanten.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+Cuando exista el peligro de que el contribuyente se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores y visitadoras podrán proceder al aseguramiento de la contabilidad.
 
-Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en la acta que levanten, sin que esta circunstancia invalide los resultados de la visita. Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita; y
+Al iniciarse la visita en el domicilio fiscal, los visitadores y visitadoras que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores y visitadoras los designarán, haciendo constar esta situación en la acta que levanten, sin que esta circunstancia invalide los resultados de la visita. Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores y visitadoras podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita; y
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-III. Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas, notificando al visitado la sustitución de autoridad y de visitadores. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
+III. Las autoridades fiscales podrán solicitar el auxilio de otras autoridades fiscales que sean competentes, para que continúen una visita iniciada por aquéllas, notificando al visitado la sustitución de autoridad y de visitadores y visitadoras. Podrán también solicitarles practiquen otras visitas para comprobar hechos relacionados con la que estén practicando.
 
 IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2025)</small>
+
 ###### Artículo 40.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los cuales los visitadores podrán sacar copias para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas finales o parciales que se levanten con motivo de la visita, asimismo, de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
+Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores y visitadoras el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los cuales los visitadores y visitadoras podrán sacar copias para que, previo cotejo con sus originales, se certifiquen por éstos y sean anexados a las actas finales o parciales que se levanten con motivo de la visita, asimismo, de los documentos, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados.
 
-Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Los visitadores podrán recoger la contabilidad para examinarla en las oficinas de la autoridad fiscal, cuando se dé algunos de los supuestos siguientes:
+Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, deberán poner a disposición de los visitadores y visitadoras el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2025)</small>
+
+Los visitadores y visitadoras podrán recoger la contabilidad para examinarla en las oficinas de la autoridad fiscal, cuando se dé algunos de los supuestos siguientes:
 
 I. El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden;
 
@@ -1367,31 +1381,39 @@ IV. No se hayan presentado todas las declaraciones periódicas a que obligan las
 
 V. Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados, o cuando los documentos no aparezcan asentados en dicha contabilidad, dentro del plazo que señalen las disposiciones fiscales, o cuando sean falsos o amparen operaciones inexistentes;
 
-VI. Se desprendan, alteren o destruyan, parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores o se impida, por medio de cualquier maniobra que se logre el propósito para el que fueron colocados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+VI. Se desprendan, alteren o destruyan, parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores y visitadoras o se impida, por medio de cualquier maniobra que se logre el propósito para el que fueron colocados;
 
 VII. Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores; y
 
-VIII. Si el visitado, su representante o la persona con quien se entienda la visita, se niega a permitir a los visitadores el acceso a los lugares donde se realizará la visita; así como mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+VIII. Si el visitado, su representante o la persona con quien se entienda la visita, se niega a permitir a los visitadores y visitadoras el acceso a los lugares donde se realizará la visita; así como mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
 
 En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otros, los papeles, discos, cintas y cualquier otro medio procesable de almacenamiento de datos.
 
-En los casos en que los visitadores recojan la contabilidad, deberán levantar acta parcial, la cual deberá reunir los requisitos que establece el artículo 41 de este Código, con la que se terminará la visita domiciliaria, continuándose el ejercicio de las facultades de comprobación en las oficinas de las autoridades fiscales, donde se levantará el acta final.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores recojan sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos que se recojan, pudiendo continuar la visita en el domicilio o establecimiento del visitado.
+En los casos en que los visitadores y visitadoras recojan la contabilidad, deberán levantar acta parcial, la cual deberá reunir los requisitos que establece el artículo 41 de este Código, con la que se terminará la visita domiciliaria, continuándose el ejercicio de las facultades de comprobación en las oficinas de las autoridades fiscales, donde se levantará el acta final.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores y visitadoras recojan sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos que se recojan, pudiendo continuar la visita en el domicilio o establecimiento del visitado.
 
 ###### Artículo 41.
 
 La visita en el domicilio fiscal se desarrollará conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-I. De toda visita en el domicilio fiscal se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado, salvo, prueba en contrario. Asimismo, quedará a cargo de la autoridad fiscal, determinar las consecuencias legales de tales hechos u omisiones, las que se podrán hacer constar en la misma acta o en documento por separado;
+I. De toda visita en el domicilio fiscal se levantará acta, en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores y visitadoras. Los hechos u omisiones consignados por los visitadores y visitadoras en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el período revisado, salvo, prueba en contrario. Asimismo, quedará a cargo de la autoridad fiscal, determinar las consecuencias legales de tales hechos u omisiones, las que se podrán hacer constar en la misma acta o en documento por separado;
 
 II. Si la visita se realiza en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-III. Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho argumento no impida la realización de las actividades del visitado. Para efectos de esta fracción se considera que no se impide la realización de actividades cuando se asegure la contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. Cuando algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea requerido por el visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo;
+III. Durante el desarrollo de la visita los visitadores y visitadoras a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho argumento no impida la realización de las actividades del visitado. Para efectos de esta fracción se considera que no se impide la realización de actividades cuando se asegure la contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. Cuando algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea requerido por el visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores y visitadoras, quienes podrán sacar copia del mismo;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1407,9 +1429,9 @@ V. Cuando resulte imposible continuar o concluir el ejercicio de las facultades 
 
 En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos, firmarán la acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; y
+VI. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores y visitadoras que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos, firmarán la acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; y
 
 VII. Las actas parciales forman parte del acta final de la visita, aunque no se señale así expresamente.
 
@@ -1531,17 +1553,17 @@ Para los efectos de lo dispuesto por los artículos 31 Quáter y 37, fracción V
 
 I. Se llevará a cabo en el domicilio fiscal, establecimientos, sucursales, locales, oficinas, bodegas, almacenes, puestos fijos y semifijos en la vía pública, de los contribuyentes, siempre que se encuentren abiertos al público en general, donde se realicen enajenaciones, presten servicios o contraten el uso o goce temporal de bienes, así como en los lugares donde se almacenen las mercancías;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-II. Al presentarse los visitadores en el lugar donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
+II. Al presentarse los visitadores y visitadoras en el lugar donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-III. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
+III. Los visitadores y visitadoras se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores y visitadoras los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-IV. En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección;
+IV. En toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores y visitadoras, en los términos de este Código o, en su caso, las irregularidades detectadas durante la inspección;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -2347,9 +2369,9 @@ V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos q
 
 VI. Impedir a (sic) que se practique la verificación de cumplimiento de obligaciones en el domicilio fiscal, sucursal, instalaciones, edificios, parques industriales, clínicas, hospitales, conjuntos habitacionales, almacenes y cualquiera que sea el lugar en donde se presuma la existencia de personal que reciba por su trabajo, el pago a que hace referencia el artículo 26 de la Ley de Hacienda del Estado de Tabasco; y
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-VII. Tratándose de establecimientos que comercialicen motocicletas, motocarros o motonetas, que no retengan y enteren el pago del derecho establecido en el artículo 85, fracción I, inciso b) de la Ley de Hacienda para el Estado de Tabasco, y cuando se dé el supuesto previsto en el cuarto párrafo del artículo 81-A de la Ley de Hacienda del Estado de Tabasco.
+VII. Tratándose de establecimientos que comercialicen motocicletas, motocarros, motonetas y vehículos recreativos todo terreno, que no retengan y enteren el pago del derecho establecido en el artículo 85, fracción I, incisos b) y c) de la Ley de Hacienda del Estado de Tabasco, y cuando se dé el supuesto previsto en el cuarto párrafo del artículo 81-A de la Ley de Hacienda del Estado de Tabasco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -2437,7 +2459,9 @@ Son infracciones relacionadas con el ejercicio de la facultad de comprobación, 
 
 I. Oponerse a que se practique la visita en el domicilio fiscal, no suministrar los datos e informes que legalmente exijan las autoridades fiscales, no proporcionar la contabilidad o parte de ella, el contenido de las cajas de valor o los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros; y
 
-II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores le dejen en depósito.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores y visitadoras le dejen en depósito.
 
 ###### Artículo 73.
 
@@ -2729,13 +2753,13 @@ V. Por instructivo, solamente en los casos y con las formalidades a que se refie
 
 La Secretaría de Administración y Finanzas podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo las formalidades previstas en este Código.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Para los efectos del artículo 56 primer párrafo de este Código, los notificadores habilitados están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para ese fin, observando en todo momento los convenios de confidencialidad suscritos con la Secretaría de Administración y Finanzas.
+Para los efectos del artículo 56 primer párrafo de este Código, los notificadores y notificadoras habilitados están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para ese fin, observando en todo momento los convenios de confidencialidad suscritos con la Secretaría de Administración y Finanzas.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Para los efectos de los artículos 95, 96 y 97 de este Código, los notificadores habilitados, deberán identificarse ante la persona con quien se entienda la diligencia, mediante la constancia de identificación que para tales actos emita la Secretaría de Administración y Finanzas.
+Para los efectos de los artículos 95, 96 y 97 de este Código, los notificadores y notificadoras habilitados, deberán identificarse ante la persona con quien se entienda la diligencia, mediante la constancia de identificación que para tales actos emita la Secretaría de Administración y Finanzas.
 
 ###### Artículo 95.
 
@@ -3139,9 +3163,9 @@ La declaratoria de prescripción de los créditos fiscales podrá realizarse de 
 
 Las Autoridades fiscales podrán cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, dicha cancelación no libera de su pago.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 16 veces el valor diario de la Unidad de Medida y Actualización (UMA) en esta entidad; aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 1,611 veces el valor diario de la Unidad de Unidad de (sic) Medida y Actualización (UMA) en esta entidad, cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 16 veces el valor diario de la Unidad de Medida y Actualización (UMA) en esta entidad; aquéllos cuyo importe sea inferior o igual al equivalente en moneda nacional a 1,611 veces el valor diario de la Unidad de Medida y Actualización (UMA) en esta entidad, cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -5090,3 +5114,11 @@ DÉCIMO OCTAVO. La presentación del comprobante de pago de derechos de refrendo
 DÉCIMO NOVENO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2020, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+P.O. 28 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 122 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN II; 7, FRACCIONES II, III Y IV; 8, FRACCIONES I, II, III, IV, VI, VII, VIII, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI; 15, PRIMER PÁRRAFO; 30 BIS, FRACCIÓN X; 39, FRACCIONES II Y III; 40, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, FRACCIONES VI Y VIII, QUINTO Y SEXTO; 41, FRACCIONES I, III Y VI; 42 QUATER, FRACCIONES II, III Y IV; 68, FRACCIÓN VII; 72, FRACCIÓN II; 94, PÁRRAFOS TERCERO Y CUARTO; 116 BIS, PÁRRAFO SEGUNDO; Y SE DEROGA LA FRACCIÓN X BIS DEL ARTÍCULO 8; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que sean contrarias a lo establecido al presente Decreto.
