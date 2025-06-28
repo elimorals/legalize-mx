@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2024-10-12"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -803,9 +803,27 @@ El ordenamiento ecológico regional del estado deberá ser revisado cada seis a�
 
 Los ordenamientos ecológicos locales se revisarán y actualizarán en los mismos plazos que se establecen en el Código Urbano para la revisión y actualización del Programa Municipal de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
 ###### Artículo 18.
 
-Terminados los trabajos de elaboración de los ordenamientos ecológicos regional del estado o locales, estos deberán ser sometidos a consulta pública, previo a su declaratoria y expedición correspondientes. Los criterios emanados de los mismos serán obligatorios a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+Terminados los trabajos de elaboración de los ordenamientos ecológicos regional del estado o locales, éstos deberán ser sometidos a consulta pública, previo a su declaratoria y expedición correspondiente.
+
+Los criterios emanados de los ordenamientos ecológicos regionales serán obligatorios a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Los ordenamientos ecológicos locales deberán ser publicados en la Gaceta electrónica Oficial del municipio o en el medio oficial de divulgación previsto por el reglamento aplicable, en caso de no existir éstos, en el Periódico Oficial “El Estado de Jalisco”; y serán obligatorios a partir del día siguiente de su publicación.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+###### Artículo 18 Bis.
+
+Los ordenamientos ecológicos locales deberán guardar congruencia con los ordenamientos aplicables en la federación y el estado, sujetándose al orden jerárquico que establece su ámbito territorial y contando con el dictamen de congruencia emitido por la Secretaría.
+
+El municipio, previo a la aprobación del Programa de Ordenamiento Ecológico Local, deberá consultar a la Secretaría sobre la apropiada congruencia, coordinación y ajuste de los ordenamientos ecológicos aplicables en el ámbito federal, estatal y regional.
+
+La autoridad estatal tiene un plazo de noventa días hábiles para dar respuesta, contados a partir de que sea presentada la solicitud y señalará con precisión si existe o no la congruencia y ajuste.
+
+En caso de no ser favorable el dictamen, la autoridad estatal deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes para que el ayuntamiento efectúe las modificaciones correspondientes, respetando su autonomía y atribuciones legales conforme a su ámbito de competencia.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -3530,3 +3548,11 @@ P.O. 12 DE OCTUBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29559/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 28, 31, 46 Y 49 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29839/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 18 Y ADICIONA EL ARTÍCULO 18 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
