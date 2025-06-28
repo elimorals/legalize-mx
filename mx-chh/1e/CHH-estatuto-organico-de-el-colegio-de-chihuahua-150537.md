@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-de-el-colegio-de-chihuahua-150537"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-08-07"
-last_updated: "2021-08-07"
+last_updated: "2025-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # ESTATUTO ORGANICO DE EL COLEGIO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE EL COLEGIO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE EL COLEGIO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2025 (ABROGADO).
 
 Estatuto publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 7 de agosto de 2021.
 
@@ -708,3 +710,21 @@ Académico invitado
 Dr. Cuauhtémoc Calderón Villareal
 
 Académico invitado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE EL COLEGIO DE CHIHUAHUA”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo publicado en el Periódico Oficial del Estado No. 63 del 7 de agosto del 2021, mediante el cual se expidió el Estatuto Orgánico del Colegio de Chihuahua.
+
+TERCERO. Inscríbase el presente Estatuto Orgánico en el Registro Público de Organismos Descentralizados a cargo de la Secretaría de Hacienda del Gobierno del Estado de Chihuahua.
+
+CUARTO. Quedan sin efectos todos los acuerdos y demás disposiciones administrativas que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+QUINTO. Para su mayor difusión, publíquese el presente Acuerdo en la página electrónica de internet de la Institución.
+
+SEXTO. En tanto se elaboren y expidan los manuales de organización y reglamentos derivados del presente Estatuto, la persona titular de la Dirección General de El Colegio queda facultada para resolver las cuestiones que conforme a dichos manuales o reglamentos deben regular el cabal funcionamiento de la Institución.
