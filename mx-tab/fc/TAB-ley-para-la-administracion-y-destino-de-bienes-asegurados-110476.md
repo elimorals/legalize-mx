@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-administracion-y-destino-de-bienes-asegurados-11047
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-28"
-last_updated: "2019-11-23"
+last_updated: "2025-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2025.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de octubre de 2015.
 
@@ -69,9 +69,9 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Aprovechamientos: Los ingresos que bajo esa denominación percibe el Estado conforme a lo dispuesto por la Ley de Hacienda del Estado de Tabasco;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-II. Autoridad Administrativa: La Secretaría de Seguridad y Protección Ciudadana y las Direcciones de Tránsito Municipales, así como aquellas otras autoridades de orden administrativo, estatal o municipal establecidas en las leyes, entre cuyas atribuciones se hallen las de realizar aseguramientos distintos de los relacionados con los procedimientos penales;
+II. Autoridad Administrativa: La Secretaría de Seguridad y Protección Ciudadana, la Secretaría de Movilidad, las Autoridades de Seguridad Pública y Tránsito Municipales, así como aquellas otras autoridades de orden administrativo, estatal o municipal establecidas en las leyes, entre cuyas atribuciones se hallen las de realizar aseguramientos distintos de los relacionados con los procedimientos penales;
 
 III. Autoridad Jurisdiccional: Los órganos jurisdiccionales competentes para instruir los procedimientos penales o administrativos, en los términos establecidos por la legislación aplicable;
 
@@ -93,15 +93,17 @@ XI. Interesado: La persona que acredite interés jurídico sobre los bienes aseg
 
 XII. Ley: La Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco;
 
-XIII. Órgano de Gobierno: El Órgano de Gobierno del Servicio Estatal de Administración y Destino de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+XIII. Órgano de Gobierno: El Órgano de Gobierno del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco;
 
 XIV. Reglamento: El Reglamento de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco; que expida el Gobernador del Estado;
 
 XV. Representante Legal: El encargado de la representación jurídica del interesado, mediante poder otorgado por el mismo;
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-XV Bis. Secretaría: La Secretaría de Administración e Innovación Gubernamental;
+XV Bis. Secretaría: La Secretaría de Administración y Finanzas;
 
 XVI. Servicio Estatal de Administración: El Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco; y
 
@@ -173,19 +175,27 @@ El Órgano de Gobierno estará integrado por:
 
 I. El titular de la Secretaría, quien lo presidirá;
 
-II. El titular de la Secretaría de Finanzas;
+II. (DEROGADA, P.O. 28 DE JUNIO DE 2025)
 
-III. El titular de la Coordinación General de Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+III. El titular de la Consejería Jurídica del Poder Ejecutivo del Estado;
 
 IV. El titular de la Secretaría de Seguridad y Protección Ciudadana;
 
-IV Bis. El titular de la Secretaría de la Función Pública, en su calidad de Comisario, quien tendrá derecho a voz pero sin voto; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+IV Bis. El titular de la Secretaría Anticorrupción y Buen Gobierno, en su calidad de Comisario, quien tendrá derecho a voz pero sin voto; y
 
 V. El Titular, quien fungirá como Secretario Técnico, con derecho a voz pero sin voto.
 
-Los integrantes del Órgano de Gobierno, con excepción del Titular, podrán nombrar a sus respectivos suplentes, quienes deberán tener un nivel no menor a Director.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Serán invitados permanentes a las sesiones del Órgano de Gobierno, con voz pero sin voto, el Poder Judicial del Estado, representado por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura; y la Fiscalía General del Estado, representada por el Fiscal General. Cada uno podrá designar como suplente a un Consejero de la Judicatura o a un Vicefiscal, según corresponda. También asistirá a dichas sesiones, de forma permanente, el titular del Órgano Interno de Control del Servicio Estatal de Administración.
+Los integrantes del Órgano de Gobierno, podrán nombrar a sus respectivos suplentes, quienes deberán tener un nivel no menor a Subdirector.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Serán invitados permanentes a las sesiones del Órgano de Gobierno, con voz pero sin voto, el Poder Judicial del Estado, representado por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura; y la Fiscalía General del Estado, representada por el Fiscal General. Cada uno podrá designar como suplente al Servidor Público que determinen, según corresponda. También asistirá a dichas sesiones, de forma permanente, el titular del Órgano Interno de Control del Servicio Estatal de Administración.
 
 ###### Artículo 8.
 
@@ -279,13 +289,25 @@ Requisitos.
 
 El Titular deberá reunir los requisitos siguientes:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-II. Ser mayor de treinta años de edad;
+I. Ser ciudadana mexicana o ciudadano mexicano;
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
 
-IV. Poseer el día de la designación, cédula profesional, indistintamente, de Licenciatura en Contaduría Pública, Derecho, Economía, Administración, o de cualquier otra profesión relacionada con las actividades de administración, expedida por autoridad o institución legalmente facultada para ello.
+II. Tener 21 años como mínimo en la fecha de su designación;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+III. No haber sido condenado o condenada por sentencia firme por delito doloso que merezca pena corporal o por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, ni haber sido declarada como persona deudora alimentaria morosa;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+IV. Contar, preferentemente, con estudios profesionales de Licenciatura en Contaduría Pública, Derecho, Economía, Administración o de cualquier otra profesión relacionada con las actividades de administración, expedida por autoridad o institución legalmente facultada para ello, o experiencia en actividades laborales, profesionales o académicas en la materia; y
+
+(ADICIONADA, P.O. 28 DE JUNIO DE 2025).
+
+V. Las demás que determine el artículo 11 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -295,7 +317,9 @@ Atribuciones
 
 El Titular tendrá las atribuciones siguientes:
 
-I. Representar legalmente al Servicio Estatal de Administración en las controversias que se susciten por causa del ejercicio de sus funciones, ante cualquier autoridad, quien podrá delegar o sustituir por escrito de forma conjunta y mancomunada con el titular de la Coordinación General de Asuntos Jurídicos, la representación jurídica del Servicio Estatal de Administración en los asuntos en materia penal, civil, laboral, administrativa, fiscal y autoral, de acuerdo con la legislación aplicable;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+I. Representar legalmente al Servicio Estatal de Administración en las controversias que se susciten por causa del ejercicio de sus funciones, ante cualquier autoridad, quien podrá delegar o sustituir por escrito de forma conjunta y mancomunada con la persona titular de la Consejería Jurídica del Poder Ejecutivo del Estado, la representación jurídica del Servicio Estatal de Administración en los asuntos en materia penal, civil, laboral, administrativa, fiscal y autoral, de acuerdo con la legislación aplicable;
 
 II. Coordinar el resguardo, conservación y administración de los bienes que sean puestos a disposición del Servicio Estatal de Administración, de conformidad con las disposiciones jurídicas aplicables;
 
@@ -327,7 +351,13 @@ XV. Proponer al Órgano de Gobierno el proyecto de Estatuto Orgánico del Servic
 
 XVI. Fungir como Secretario Técnico del Órgano de Gobierno; y
 
-XVII. Las demás que le correspondan de conformidad con las leyes, el Reglamento, el Estatuto Orgánico y demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2025)</small>
+
+XVII. Disponer de los recursos que provengan de aprovechamientos obtenidos de la enajenación de bienes declarados en abandono, para cubrir los costos de administración del propio Servicio Estatal de Administración, para lo cual debe de cumplir con la normatividad y demás lineamientos que señala la Secretaría e informarlo al Órgano de Gobierno en la sesión inmediata siguiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2025)</small>
+
+XVIII. Las demás que le correspondan de conformidad con las leyes, el Reglamento, el Estatuto Orgánico y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -351,9 +381,13 @@ Las relaciones laborales entre el Servicio Estatal de Administración y sus trab
 
 Del Órgano Interno de Control del Servicio Estatal de Administración.
 
-El Servicio Estatal de Administración contará con un Órgano Interno de Control, cuyo titular será designado y removido, previo acuerdo del Gobernador, por la Secretaría de la Función Pública y dependerá jerárquica y funcionalmente de la misma, de conformidad con lo establecido en la fracción X del artículo 43 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Tendrá las funciones y responsabilidades que establecen la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública y las que señalen los demás ordenamientos aplicables en la materia. Para ello, contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, con la finalidad de garantizar la independencia entre ambas en el ejercicio de dichas funciones.
+El Servicio Estatal de Administración contará con un Órgano Interno de Control, cuyo titular será nombrado y removido por la Secretaría Anticorrupción y Buen Gobierno y dependerá jerárquica y funcionalmente de la misma, de conformidad con lo establecido en la fracción XLI del artículo 30 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Tendrá las funciones y responsabilidades que establecen la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno y las que señalen los demás ordenamientos aplicables en la materia. Para ello, contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, con la finalidad de garantizar la independencia entre ambas en el ejercicio de dichas funciones.
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS BIENES ASEGURADOS
 
@@ -419,7 +453,9 @@ La Autoridad Administrativa o el depositario, interventor o administrador de bie
 
 Armas de fuego, municiones y explosivos.
 
-Las armas de fuego, municiones y explosivos serán remitidos a la Secretaría de la Defensa Nacional, observándose para ello lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos, su Reglamento y el Código Nacional.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Cuando la Secretaría de Seguridad y Protección Ciudadana y la Fiscalía General del Estado aseguren armas de fuego, municiones o explosivos deberán de remitirlos a la Secretaría de la Defensa Nacional, observándose para ello lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos, su Reglamento y el Código Nacional.
 
 ###### Artículo 19.
 
@@ -439,9 +475,11 @@ Para la debida conservación y, en su caso, buen funcionamiento de los Bienes As
 
 Los depositarios, interventores y administradores que el Servicio Estatal de Administración designe, tendrán sólo las facultades para pleitos y cobranzas y de administración que dicho Servicio les otorgue.
 
-El aseguramiento de bienes no implica que éstos entren al erario estatal. Para su administración, no serán aplicables las disposiciones propias de los bienes del patrimonio estatal ni municipal, conforme a lo señalado en el artículo 57 de esta Ley.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Quienes soliciten bienes en depositaría están obligados a realizarlo por escrito y debidamente justificado, en los términos establecidos en el artículo 34, párrafo segundo, de la Ley.
+El aseguramiento de bienes no implica que éstos entren al erario estatal.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 28 DE JUNIO DE 2025)</small>
 
 ###### Artículo 21.
 
@@ -481,7 +519,9 @@ Las obras de arte y las piezas arqueológicas o de valor histórico, que se aseg
 
 Semovientes, fungibles o perecederos.
 
-Los bienes semovientes, fungibles o perecederos y los que sean de mantenimiento incosteable a juicio del Servicio Estatal de Administración, previa autorización del Juez de Control, en su caso, serán enajenados, atendiendo a la naturaleza del caso, conforme a lo señalado en el artículo 52 de la Ley.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Los bienes semovientes, fungibles o perecederos y los que sean de mantenimiento incosteable a juicio del Servicio Estatal de Administración, serán enajenados, atendiendo a la naturaleza del caso, conforme a lo señalado en el artículo 52 de la Ley, previa autorización del Fiscal que lo aseguró o del Juez en caso de haberse judicializando la carpeta de investigación.
 
 ###### Artículo 27.
 
@@ -527,9 +567,21 @@ Salvo lo previsto en los artículos siguientes para el caso del aseguramiento de
 
 Aseguramiento de vehículos por autoridad administrativa.
 
-Los vehículos automotores que sean asegurados por la Autoridad Administrativa competente, estarán bajo su custodia por un lapso de tres meses en el lugar que la propia autoridad determine. Si en ese plazo no comparece el legítimo propietario o su poseedor a recoger la unidad motriz, las autoridades administrativas la remitirán o pondrán a disposición al Servicio Estatal de Administración para su guarda y custodia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2025)</small>
 
-En el caso de vehículos depositados por la autoridad en inmuebles particulares, una vez que se pongan a disposición del Servicio Estatal de Administración, éste señalará las condiciones específicas para el resguardo de los mismos; en caso de abandono y enajenación, resarcirá a través de convenio con los propietarios o administradores de los inmuebles particulares un porcentaje por la guarda y custodia de los automotores, siempre y cuando no exista deterioro o hecho alguno en ellos que demerite su valor.
+Los vehículos automotores que sean asegurados por la Autoridad Administrativa competente estarán bajo su custodia por un lapso de tres meses en el lugar que la propia autoridad determine. La autoridad administrativa deberá de notificar a los propietarios de los vehículos a través del procedimiento señalado en el artículo 4 de la Ley, para que acudan ante sus instancias a substanciar el procedimiento correspondiente a fin de liberarlos. Si en ese plazo no comparece el legítimo propietario o su poseedor a recoger la unidad motriz, las autoridades administrativas la remitirán y pondrán material y legalmente a disposición al Servicio Estatal de Administración para su guarda y custodia.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+En el caso de vehículos depositados por la autoridad en inmuebles particulares o depósitos concesionados por el Estado, la misma autoridad deberá informarle y ordenarle al depositario que hagan entrega de los vehículos al Servicio Estatal de Administración.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Una vez que se pongan a disposición del Servicio Estatal de Administración, éste señalará las condiciones específicas para el resguardo de los mismos; en caso que el Servicio Estatal de Administración decida que los vehículos se queden resguardados en los inmuebles particulares o depósitos concesionados, lo hará mediante convenio contabilizado a partir de la fecha en la que las autoridades administrativas los hayan puesto de disposición.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+En caso que, se llegara a declarar el abandono y la enajenación de los mismos, convendrá con los particulares o concesionarios de los depósitos, un porcentaje por la guarda y custodia de los automotores.
 
 En todo caso, las autoridades administrativas deberán:
 
@@ -677,7 +729,9 @@ Los bienes que sean declarados abandonados a favor del Estado, así como su dest
 
 Aprovechamientos.
 
-Los bienes abandonados y los decomisados, sus frutos y productos, así como los derivados de su enajenación, serán considerados Aprovechamientos. Aquellos distintos al numerario serán enajenados conforme al procedimiento previsto por esta Ley.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Los bienes abandonados y los decomisados, sus frutos y productos, así como los derivados de su enajenación, serán considerados ingresos para el Servicio Estatal de Administración. Aquellos distintos al numerario serán enajenados conforme al procedimiento previsto por esta Ley.
 
 ###### Artículo 49.
 
@@ -693,15 +747,21 @@ En lo relativo a bienes a disposición del Servicio Estatal de Administración r
 
 Otros Destinatarios.
 
-Cuando los aprovechamientos se deriven de bienes abandonados o decomisados en el transcurso de procedimientos administrativos, el Órgano de Gobierno del Servicio Estatal de Administración acordará, según la naturaleza de los bienes, que en lugar de su enajenación sean destinados a mejorar la labor del propio Servicio Estatal de Administración, de la Fiscalía, del Poder Judicial, de algún organismo autónomo u otra dependencia, entidad o institución educativa, según sus necesidades.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Cuando los aprovechamientos se deriven de bienes abandonados en el transcurso de procedimientos administrativos, el Órgano de Gobierno del Servicio Estatal de Administración acordará, según la naturaleza de los bienes, que en lugar de su enajenación sean destinados a mejorar la labor del propio Servicio Estatal de Administración.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+En el caso de los recursos derivados de la enajenación de bienes declarados en abandono o decomisados en procedimientos administrativos, serán destinados a la operación y mejora del Servicio Estatal de Administración.
 
 ###### Artículo 51.
 
 Coordinación de actividades.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-El Servicio Estatal de Administración establecerá la coordinación necesaria con la Secretaría de Finanzas y demás autoridades administrativas competentes, para llevar a cabo los procesos de documentación de vehículos asegurados, abandonados, decomisados o enajenados a efecto de brindar seguridad jurídica a sus poseedores o adquirentes finales.
+El Servicio Estatal de Administración establecerá la coordinación necesaria con la Secretaría y demás autoridades administrativas competentes, para llevar a cabo los procesos de documentación de vehículos asegurados, abandonados, decomisados o enajenados a efecto de brindar seguridad jurídica a sus poseedores o adquirentes finales.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO DE ENAJENACIÓN
 
@@ -779,15 +839,17 @@ Para reclamar por las condiciones en que se entreguen los bienes o las cuentas q
 
 Medios de prueba.
 
-Podrán ofrecerse toda clase de pruebas, excepto la confesional, siempre que tengan relación con las condiciones reclamadas o cuentas recurridas. Al interponerse el recurso de inconformidad deberán ofrecerse las pruebas correspondientes y acompañarse los documentos relativos.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
+
+Los recurrentes acompañarán su escrito de las pruebas documentales que apoyen su inconformidad o señalarán los lugares donde la autoridad pueda recabarlas, si son de aquellas que no pueden allegarse por sí mismos.
 
 ###### Artículo 62.
 
 Desahogo de pruebas.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2025)</small>
 
-Si se ofrecen pruebas que ameriten desahogo, se concederá al Interesado un plazo no menor de diez ni mayor de treinta días naturales para tal efecto. La Secretaría podrá allegarse de los elementos de convicción que considere necesarios. En lo no previsto en esta Ley en materia de pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Tabasco.
+Si se ofrecen pruebas que ameriten desahogo, se concederá al recurrente un plazo no menor de diez ni mayor de treinta días naturales para tal efecto. La Secretaría podrá allegarse de los elementos de convicción que considere necesarios. En lo no previsto en esta Ley en materia de pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Tabasco.
 
 ###### Artículo 63.
 
@@ -803,7 +865,9 @@ Improcedencia.
 
 El recurso de inconformidad será improcedente en los casos siguientes:
 
-I. Cuando se presente fuera de tiempo;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2025)</small>
+
+I. Cuando se presente fuera del plazo señalado en el artículo 60;
 
 II. Cuando no se acredite fehacientemente la personalidad con que se actúa; y
 
@@ -866,3 +930,15 @@ CUARTO. Dentro de los noventa días siguientes a la entrada en vigor del present
 QUINTO. El titular del Poder Ejecutivo del Estado deberá expedir el Estatuto Orgánico del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco, en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 SEXTO. Los asuntos que se encuentran actualmente en trámite en el Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco, serán atendidos por el nuevo organismo descentralizado que se crea por virtud del presente Decreto.
+
+P.O. 28 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 121 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, FRACCIONES II, XIII Y XV BIS; 7, FRACCIONES III Y IV BIS, PÁRRAFOS SEGUNDO Y TERCERO; 11, FRACCIONES I, II, III Y IV; 12, FRACCIONES I Y XVII; 12 QUATER; 18; 20, PÁRRAFO CUARTO; 26; 32, PÁRRAFOS PRIMERO Y SEGUNDO; 48; 50; 51; 61; 62; 64, FRACCIÓN I; SE ADICIONAN LA FRACCIÓN V AL ARTÍCULO 11; LA FRACCIÓN XVIII AL ARTÍCULO 12; LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 32, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE; UN PÁRRAFO SEGUNDO AL ARTÍCULO 50; Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 7; Y EL PÁRRAFO QUINTO DEL ARTÍCULO 20; TODOS DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco.
+
+TERCERO. En un plazo de noventa días naturales, a partir de la entrada en vigor del presente Decreto, el Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco, deberá expedir su Estatuto Orgánico.
+
+CUARTO. Se derogan todas aquellas disposiciones que sean contrarias a lo establecido al presente Decreto.
