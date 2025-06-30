@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2025-06-12"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2741,9 +2741,9 @@ g) La Presidencia de la Mesa Directiva, de la Diputación Permanente o de la com
 
 ###### ARTICULO 131.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas, de la Comisión de Derechos Humanos del Estado, del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales de Tamaulipas o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
+1. Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidoras o servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas, de la Comisión de Derechos Humanos del Estado o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
@@ -2771,9 +2771,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 ###### ARTICULO 133.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistradas y Magistrados del Tribunal de Justicia Administrativa; de las personas titulares de los órganos internos de control de los órganos constitucionalmente autónomos; de la persona Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de las y los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas; de la persona titular de la Fiscalía General de Justicia del Estado; y de la persona Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistradas y Magistrados del Tribunal de Justicia Administrativa; de las personas titulares de los órganos internos de control de los órganos constitucionalmente autónomos; de la persona Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de la persona titular de la Fiscalía General de Justicia del Estado; y de la persona Titular de la Fiscalía Especializada en Combate a la Corrupción se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
@@ -2879,33 +2879,19 @@ f) El dictamen final a que hace referencia el inciso que antecede, será sometid
 
 g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas que concluyan su periodo y que sean susceptibles a ser reelectos, podrán participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2020)</small>
+10. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2025)
 
-10. La designación de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas se sujetará al siguiente procedimiento:
+a) (DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
-> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
+b) (DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fueron electos, la Junta de Gobierno del Congreso del Estado lanzará una convocatoria pública, a efecto de que participen las y los ciudadanos que cumplan con los requisitos legales y estén en aptitud de ser considerados para ocupar el cargo.
+c) (DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
+d) (DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
-b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en dos diarios de circulación en la entidad, así como en la página de internet del Congreso.
+e) (DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
-
-c) La Comisión de Transparencia y Acceso a la Información Pública o la Diputación Permanente durante los recesos, realizará la evaluación preliminar de los documentos presentados por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
-
-d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas entrevistas serán determinadas mediante acuerdo emitido por la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
-
-e) Concluida la etapa señalada en el inciso que antecede, la Comisión de Transparencia y Acceso a la Información Pública del Congreso o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con la lista de los candidatos que cumplen con los requisitos legales y que solventaron las reuniones de trabajo o entrevistas previstas en el inciso d) de este párrafo.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
-
-f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realicen la designación de los cargos a que se refiere este párrafo con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, debiendo privilegiar la experiencia en materia de acceso a la información pública y protección de datos personales, así como procurar la igualdad de género.
+f) (DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -4366,3 +4352,11 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto se implementará en forma gradual, conforme a la disponibilidad presupuestal hasta cumplir su objetivo.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-362 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 131, NUMERAL 1; Y 133, NUMERAL 1; Y SE DEROGA EL NUMERAL 10, CON SUS INCISOS DEL A) AL F) DEL ARTÍCULO 134, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial de (sic) Estado.
