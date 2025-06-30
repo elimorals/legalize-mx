@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-prevencion-atencion-integral-y-control-de-las-16730
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-07"
-last_updated: "2023-08-07"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Número 32 del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de agosto de 2023.
 
@@ -207,7 +207,9 @@ Las personas con trastornos adictivos por el consumo perjudicial de sustancias p
 
 I.- Acceder voluntariamente a los servicios de detección, prevención, tratamiento y rehabilitación, como parte de la atención integral del consumo de sustancias psicoactivas, en los términos previstos en la presente Ley;
 
-II.- Recibir tratamiento en una institución u organismo especializado avalado conforme a las leyes aplicables, conforme a los principios médicos científicamente aceptados y con pleno respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+II.- Recibir tratamiento en una institución u organismo especializado avalado de acuerdo con las leyes aplicables, conforme a los principios médicos científicamente aceptados y con pleno respeto a los derechos humanos, para lo cual la persona usuaria del servicio deberá ser valorada a su ingreso por un médico dentro de un plazo no mayor de cuarenta y ocho horas, garantizando con ello una atención oportuna y adecuada a su condición;
 
 III.- Ser atendidas de manera oportuna, eficiente y con calidad por personal especializado, con respeto a sus derechos, dignidad, vida privada, integridad física y mental, usos y costumbres;
 
@@ -561,7 +563,9 @@ XIV.- La Procuraduría para la Protección de los Derechos de las Niñas, Niños
 
 XV.- La Fiscalía General del Estado;
 
-XVI.- La Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+XVI.- La Comisión de Derechos Humanos del Estado de Aguascalientes;
 
 XVII.- Los municipios del Estado; y
 
@@ -935,6 +939,12 @@ XXVII.- En ningún proceso de tratamiento se permitirán grabaciones de audio, v
 
 XXVIII.- Notificar mensualmente al SISVEA, mediante el llenado de cuestionarios, sobre consumo de drogas para cada usuario de nuevo ingreso registrado, siempre respetando el anonimato de la persona usuaria.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+###### Artículo 64 Bis.
+
+Los centros de atención de adicciones deberán garantizar que la admisión de usuarios no exceda su capacidad instalada y operativa, la cual será determinada en función de su infraestructura, recursos humanos, equipamiento y condiciones de habitabilidad, de acuerdo con los lineamientos establecidos por la autoridad competente. Para ello, el ISSEA deberá realizar evaluaciones periódicas que acrediten su capacidad de atención efectiva, asegurando que cada usuario reciba tratamiento adecuado y digno.
+
 ###### Artículo 65.
 
 La Secretaría, a través de la Comisión revisará el cumplimiento de los requisitos a que se refiere el artículo anterior, para la constitución y funcionamiento de los Centros de atención de adicciones
@@ -959,9 +969,17 @@ VII.- Ministración de medicamentos;
 
 VIII.- Enfermedades trasmisibles o contagiosas;
 
-IX.- Proceso de referencia y contra referencia; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
 
-X.- De quejas y sugerencias realizadas por personas usuarias o familiares de estas.
+IX.- Proceso de referencia y contra referencia;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+X.- De quejas y sugerencias realizadas por personas usuarias o familiares de estas; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+XI.- La capacidad de atención de usuarios.
 
 ###### Artículo 67.
 
@@ -980,6 +998,12 @@ Todo tratamiento bajo la modalidad residencial deberá ser notificado por el res
 El ingreso obligatorio se lleva a cabo cuando lo solicita la autoridad legal competente, siempre y cuando la persona usuaria lo amerite de acuerdo con el examen médico que le sea practicado.
 
 Tratándose de una persona menor de 16 años, sólo se le ingresará cuando existan programas y espacios adecuados e independientes, de acuerdo con la edad y sexo, de lo contrario deberá ser referida a los centros encargados de la atención a personas menores;
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+###### Artículo 70 Bis.
+
+Dentro de los quince días hábiles de ingresada la persona usuaria del servicio y de manera constante según sus necesidades, será evaluada por el equipo de salud del establecimiento; el médico certificará la evolución y asentará en la historia clínica su valoración sobre la continuidad de tratamiento residencial o no residencial.
 
 ###### Artículo 71.
 
@@ -1129,6 +1153,10 @@ Las visitas se podrán realizar para determinar la necesidad de orientación, ca
 
 Las referidas visitas solo podrán ser realizadas por personal verificador con identificación vigente expedida por la autoridad competente y podrán llevarse a cabo de manera coordinada con la autoridad estatal o municipal, atendiendo al ámbito de su competencia y de acuerdo a la intervención que deban tener de acuerdo con la presente Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Durante las diligencias, deberán acompañar a los verificadores, los funcionarios de la Comisión de Derechos Humanos del Estado de Aguascalientes, del Consejo u otras autoridades competentes que el ISSEA instruya para tal efecto.
+
 ###### Artículo 86.
 
 Si de la verificación se observa algún incumplimiento de las disposiciones señaladas o que no brinden un trato digno y de respeto a los derechos humanos de las personas que se encuentren en tratamiento, se dictarán las medidas de seguridad y sanciones que correspondan conforme a la presente Ley y la normatividad aplicable.
@@ -1139,9 +1167,15 @@ En caso de oposición al realizar la visita de verificación o monitoreo o super
 
 Los Centros de atención de adicciones a que se refiere esta Ley, serán objeto de visitas de verificación, monitoreo o supervisión de manera periódica, en los siguientes casos:
 
-I.- De oficio o a petición de parte; o
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+I.- De oficio, las cuales deberán realizarse al menos una vez cada seis meses, sin perjuicio de aquellas que puedan efectuarse en cualquier momento por razones fundadas o a petición de parte; o
 
 II.- Cuando medie queja o denuncia de particulares o a petición de autoridad;
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+El incumplimiento injustificado de las verificaciones de oficio por parte del ISSEA derivará en sanciones administrativas conforme a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 #### SECCIÓN SEGUNDA. SUPERVISIÓN Y SEGUIMIENTO
 
@@ -1149,15 +1183,21 @@ II.- Cuando medie queja o denuncia de particulares o a petición de autoridad;
 
 El ISSEA instrumentará acciones para llevar a cabo el registro de los Centros de atención de adicciones que brinden sus servicios en el Estado, actualizando y difundiendo mediante medios electrónicos un padrón de los mismos.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Este padrón deberá ser difundido de manera accesible para garantizar que la población tenga la información confiable sobre los establecimientos especializados en el tratamiento de adicciones que se ubican dentro del Estado y son reconocidos por la Comisión Nacional contra las Adicciones.
+
 ###### Artículo 89.
 
 La Comisión dará seguimiento de los programas, estrategias y acciones que realicen los Centros de atención de adicciones, para evaluar los resultados obtenidos y opinar sobre el cumplimiento de los objetivos para los que fueron creados.
 
 Las acciones en materia de seguimiento y evaluación deben orientarse hacia la estructura, proceso, resultado e impacto de los programas de prevención, tratamiento, rehabilitación, participación comunitaria, enseñanza, capacitación e investigación sobre el consumo perjudicial de sustancias psicoactivas.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
+
 ###### Artículo 90.
 
-El ISSEA diseñará mecanismos para que los establecimientos especializados en atención a las adicciones integren un reporte trimestral de sus actividades.
+El ISSEA diseñará mecanismos para que los establecimientos especializados en atención a las adicciones integren un reporte trimestral de sus actividades, el cual por lo menos deberá contener el número de las personas internadas, las causas de su internamiento, el avance que tengan en su rehabilitación y el promedio de personas que se atienden en función del personal contratado.
 
 ### CAPÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -1165,15 +1205,29 @@ El ISSEA diseñará mecanismos para que los establecimientos especializados en a
 
 Para establecer las sanciones de conformidad con la presente Ley y la normatividad aplicable, el ISSEA fundamentará y motivará sus resoluciones considerando para su individualización, lo establecido en el artículo 418 de la Ley General, así como en las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+###### Artículo 91 Bis.
+
+Los representantes legales de los centros de atención de adicciones, serán responsables de las omisiones administrativas que se cometan por la prestación de los servicios, sin que ello impida que pueda fincarse cualquier tipo de responsabilidad respecto de los trabajadores del centro.
+
 ###### Artículo 92.
 
 La contravención a la presente ley y demás normativa aplicable, dependiendo de la gravedad del asunto, dará lugar a:
 
 I.- La imposición de medidas de seguridad;
 
-II.- La clausura, ya sea permanente o temporal; o
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
 
-III.- La revocación de las autorizaciones otorgadas.
+II.- La clausura, ya sea permanente o temporal;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+III.- La revocación de las autorizaciones otorgadas; o
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+IV.- La imposición de una multa.
 
 ###### Artículo 93.
 
@@ -1194,6 +1248,14 @@ VI.- Por hacinamiento;
 VII.- Por presentar alguna condición física o de salud de los usuarios que no les permita permanecer en el mismo; y
 
 VIII.- Por no contar con un tratamiento adecuado de acuerdo a la población existente en el centro de Atención de adicciones.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+###### Artículo 93 Bis.
+
+En la imposición de las medidas de seguridad señaladas en el artículo anterior, se apercibirá al centro para que, de manera inmediata, inicie los trámites pertinentes a fin de regularizar su operación.
+
+En tanto no acredite el cumplimiento íntegro de la normatividad aplicable, le quedará estrictamente prohibido admitir nuevos usuarios.
 
 ###### Artículo 94.
 
@@ -1234,6 +1296,14 @@ II.- Cuando la alimentación no sea adecuada o se elabore o proporcione en condi
 III.- Cuando se haga caso omiso a un acuerdo de requerimiento con apercibimiento; o
 
 IV.- Por suministrar sustancias prohibidas durante el tratamiento a los usuarios.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+###### Artículo 96 Bis.
+
+El ISSEA podrá imponer una multa de 100 a 1000 veces el valor diario de la Unidad de Medida y Actualización, cuando el Centro de Atención de Adicciones no cuente con el registro como institución especializada ante el CONADIC.
+
+En la imposición de la multa se apercibirá al infractor para que de forma inmediata realice los trámites correspondientes a efecto de regularizar su funcionamiento.
 
 ###### Artículo 97.
 
@@ -1318,3 +1388,13 @@ CUAUHTÉMOC ESCOBEDO TEJADA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 28 de julio de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 206.- SE REFORMA LA LEY PARA LA PREVENCIÓN, ATENCIÓN INTEGRAL Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
