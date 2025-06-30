@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2024-09-02"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -59,7 +59,9 @@ IV. Reducir la vulnerabilidad de la población y los ecosistemas del Estado fren
 
 V. Fomentar la educación, investigación, desarrollo y transferencia de tecnología e innovación y difusión en materia de adaptación y mitigación al cambio climático;
 
-VI. Establecer las bases para la concertación con la sociedad; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+VI. Establecer las bases para la concertación con la sociedad para el diseño y ejecución de políticas, así como de acciones que permitan transparencia, corresponsabilidad y participación activa de los sectores público, privado, social y académico, incluyendo a grupos en situación de vulnerabilidad; y
 
 VII. Promover la transición hacia una economía competitiva, sustentable y de bajas emisiones de carbono.
 
@@ -77,9 +79,13 @@ II. Autoridades Estatales y Municipales: la Administración Pública Central y P
 
 III. Comisión: Comisión Intergubernamental de Cambio Climático;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+III BIS. Consejo: Al Consejo Consultivo de Cambio Climático.
+
 IV. Eficiencia Energética: Todas las acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía. Queda incluida dentro de esta definición, la sustitución de fuentes no renovables de energía por fuentes renovables de energía;
 
-V. Estrategia: Estrategia Estatal de Cambio Climático;
+V. (DEROGADA, P.O. 30 DE JUNIO DE 2025)
 
 VI. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto:
 
@@ -111,13 +117,19 @@ XIII. Programa Estatal: Programa Estatal de Acción contra el Cambio Climático;
 
 XIV. Reglamento: Reglamento de la Ley de Cambio Climático para el Estado de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+XIV BIS. Riesgo climático: potencial de consecuencias adversas para sistemas ecológicos o humanos, reconociendo la diversidad de valores y objetivos asociados con dichos sistemas;
+
 XV. Secretaría: Secretaria de Sustentabilidad, Medio Ambiente y Agua; y
 
 XVI. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
 
-###### Artículo 3º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2025)</small>
 
-Las disposiciones de la presente Ley serán de aplicación a los sectores energéticos, procesos industriales, agricultura, desechos y uso de suelo y cambio de uso de suelo y silvicultura.
+###### Artículo 3°.
+
+Las disposiciones de la presente Ley serán de aplicación a los sectores vinculados a la energía, la industria, la agricultura, la ganadería, la biodiversidad, el manejo de residuos, el uso y cambio de uso del suelo, la silvicultura, así como, la infraestructura crítica y los servicios esenciales susceptibles de ser afectados por el cambio climático.
 
 Los destinatarios de esta Ley, las autoridades estatales y municipales, así como las personas físicas y morales de naturaleza privada que realicen actividades en el Estado, deberán cumplir con lo establecido en sus disposiciones.
 
@@ -155,11 +167,11 @@ Las autoridades en materia de cambio climático en el Estado serán las encargad
 
 ### CAPÍTULO II. Distribución de Competencias en Materia de Cambio Climático
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2025)</small>
 
 ###### Artículo 6°.
 
-Es competencia del Gobierno del Estado por conducto de la Secretaría de Sustentabilidad, Medio Ambiente y Agua:
+Es competencia del Gobierno del Estado por conducto de la Secretaría, lo siguiente:
 
 I. Formular, conducir y evaluar la política estatal en materia de cambio climático en concordancia con la política nacional;
 
@@ -187,7 +199,9 @@ j) Prevención y atención de enfermedades derivadas de los efectos del cambio c
 
 III. Incorporar en sus instrumentos de política ambiental, criterios de mitigación y adaptación al cambio climático;
 
-IV. Elaborar e instrumentar la Estrategia Estatal de Cambio Climático con su respectivo Programa Estatal de Acción frente al Cambio Climático promoviendo la participación social, escuchando y atendiendo a los sectores público, privado, académico y la sociedad en general;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+IV. Elaborar e instrumentar el Programa Estatal promoviendo la participación social, escuchando y atendiendo a los sectores público, privado, académico y la sociedad en general;
 
 V. Establecer criterios y procedimientos para evaluar y vigilar el cumplimiento del programa estatal en la materia y establecer metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que implementen;
 
@@ -213,7 +227,9 @@ XV. Diseñar y promover el establecimiento y aplicación de incentivos que promu
 
 XVI. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas hacia el cumplimiento de su programa;
 
-XVII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones en la materia;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+XVII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones en la materia, así como llevar a cabo acciones, en el ámbito de su competencia, para el diseño y aplicación de instrumentos económicos, fiscales, financieros y de reconocimiento social vinculados a un medio ambiente sano;
 
 XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de esta ley y los demás ordenamientos que de ella se deriven, así como sancionar su incumplimiento; y
 
@@ -251,11 +267,15 @@ VI. Promover el fortalecimiento de capacidades institucionales y sectoriales par
 
 VII. Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente ley;
 
-VIII. Coadyuvar con las autoridades federales y estatales en la instrumentación de la Estrategia Nacional, la Estrategia Estatal, y sus respectivos programas;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+VIII. Coadyuvar con las autoridades federales y estatales en la instrumentación de la Estrategia Nacional y el Programa Estatal;
 
 IX. Gestionar y administrar recursos para ejecutar acciones de adaptación y mitigación ante el cambio climático;
 
-X. Elaborar e integrar, en colaboración con el Instituto Nacional de Ecología y Cambio Climático y la OCC, la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Nacional y Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+X. Elaborar e integrar, en colaboración con las distintas autoridades federales y estatales competentes, la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Nacional y Estatal, conforme a los criterios e indicadores elaborados por la federación en la materia;
 
 XI. Vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella; y
 
@@ -275,13 +295,23 @@ IV. Promover, difundir y apoyar proyectos en materia de mitigación y adaptació
 
 V. Promover el desarrollo e integración de un marco jurídico estatal congruente con la política pública en materia de cambio climático a nivel Nacional;
 
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+V BIS. Suscribir documentos e implementar mecanismos que permitan el desarrollo y fortalecimiento de las acciones encaminadas a impulsar un medio ambiente sano;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+V TER. Promover el fortalecimiento de capacidades individuales e institucionales en materia de prevención, adaptación y mitigación al cambio climático;
+
 VI. Establecer mecanismos de vigilancia para el cumplimiento de esta ley; y
 
 VII. Las demás que establezca esta Ley.
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-Para el debido despacho de los asuntos en materia de cambio climático, la Secretaría contará con un órgano desconcentrado denominado Oficina de Cambio Climático, cuya estructura y funcionamiento se regularán en el acuerdo que para el efecto expida el Poder Ejecutivo, así como en su respectivo reglamento.
+###### Artículo 9°.
+
+Para el debido despacho de los asuntos en materia de cambio climático, la Secretaría contará con una unidad administrativa, denominada Oficina de Cambio Climático, cuya estructura y funcionamiento se regularán a través del reglamento interior de dicha Secretaría.
 
 ###### Artículo 10.
 
@@ -295,7 +325,9 @@ III. Coadyuvar en la preparación de recursos humanos calificados, a fin de aten
 
 IV. Realizar análisis de prospectiva sectorial y colaborar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con el desarrollo sustentable, el medio ambiente y el cambio climático, incluyendo la estimación de los costos futuros asociados al cambio climático, y los beneficios derivados de las acciones para enfrentarlo;
 
-V. Evaluar el cumplimiento de los objetivos de adaptación y mitigación previstos en la Ley, así como las metas y acciones contenidas en la (sic) Estrategias Nacional y Estatal y sus respectivos programas a que se refiere este ordenamiento; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+V. Evaluar el cumplimiento de los objetivos de adaptación y mitigación previstos en la Ley, así como las metas y acciones contenidas en la Estrategia Nacional y los programas nacional y estatal; y
 
 VI. Elaborar informes de seguimiento considerando técnicas de Monitoreo, Reporte y Verificación (MRV) en el caso de mitigación y técnicas de Monitoreo y Evaluación (M y E) en el caso de adaptación.
 
@@ -409,11 +441,13 @@ Son atribuciones de la Comisión:
 
 I. Formular y establecer periódicamente un Programa General de Trabajo a propuesta del Presidente.
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
 
-II. Aprobar las políticas integrales y metas de cambio climático con perspectiva de género para el Estado y su incorporación en la Estrategia Estatal de Cambio Climático considerando los compromisos suscritos por el Estado en la Materia y las recomendaciones de instancias nacionales o internacionales;
+II. Aprobar las políticas integrales y metas de cambio climático con perspectiva de género para el Estado y su incorporación en el Programa Estatal considerando los compromisos suscritos por el Estado en la materia y las recomendaciones de instancias nacionales o internacionales;
 
-III. Garantizar la coordinación entre leyes, programas, medidas y acciones de adaptación y mitigación al cambio climático por parte de las dependencias de la administración pública estatal, así como con los programas creados por el gobierno federal para la elaboración de la Estrategia Estatal de Cambio Climático.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+III. Garantizar la coordinación entre leyes, programas, medidas y acciones de adaptación y mitigación al cambio climático por parte de las dependencias de la administración pública estatal, así como con los programas creados por el gobierno federal para la elaboración del Programa Estatal.
 
 IV. Conocer y opinar sobre la temporalidad en la elaboración y actualización del Programa, del Programa Estatal de Acción contra el Cambio Climático, del Atlas de Riesgo, del Programa de Ordenamiento Ecológico Territorial del Estado, de las evaluaciones de impacto ambiental, y demás estudios que se consideren necesarios para hacer frente al cambio climático en el Estado, en términos de la ley de la materia;
 
@@ -423,23 +457,75 @@ VI. Evaluar el diseño, desempeño, resultados e impacto del Programa Estatal de
 
 VII. Supervisar la colaboración de todas las dependencias de la administración pública estatal con las acciones establecidas por el Programa Estatal de Acción frente al Cambio Climático;
 
-VIII. Garantizar la coherencia del Programa Estatal de Acción frente al Cambio Climático con la Estrategia Estatal de Cambio Climático; y
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+VII BIS. Llevar a cabo mecanismos de participación incluyente, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad en la elaboración del proyecto del Programa Estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+VII TER. Emitir el reglamento para el funcionamiento y operación del Consejo;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+VIII. Garantizar la coherencia del Programa Estatal con la Estrategia y Programas nacionales; y
 
 IX. Las demás que establezca esta Ley.
 
-### CAPÍTULO IV. Instrumentos de Planeación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2025)</small>
 
-### CAPÍTULO V. Inventario
+### CAPÍTULO III BIS. Consejo
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 15 BIS.- El Consejo, es el órgano de consulta técnica de la Comisión y se integrará hasta por 5 personas representantes de los sectores público, social, privado y académico, con reconocidos méritos y experiencia en matera de cambio climático.
+
+Serán designados por la persona titular del Poder Ejecutivo en los términos establecidos por el reglamento que para tal efecto expida la Comisión.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 15 TER.- El Consejo se deberá integrar de la siguiente manera:
+
+a) Una persona titular de la Presidencia;
+
+b) Tres personas vocales, que deberán representar por cada una a los sectores académico, social y privado; y
+
+c) La persona titular de la OCC, quien fungirá como secretario técnico.
+
+El reglamento deberá normar los términos para su integración y funcionamiento.
+
+Las personas integrantes del Consejo ejercerán su encargo de manera honorífica y por un periodo de 3 años, pudiendo ser reelectos por un periodo más.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 15 QUÁTER.- El Consejo tendrá las funciones siguientes:
+
+I. Fungir como órgano de consulta técnico de la Comisión y de la Secretaría en los asuntos de su competencia;
+
+II. Sesionar de manera ordinaria 2 veces al año;
+
+III. Recomendar a la Comisión realizar estudios y adoptar políticas, acciones y metas tendientes a enfrentar los efectos adversos del cambio climático;
+
+IV. Promover la participación social, informada y responsable, a través de las consultas públicas que determine en coordinación con la Comisión;
+
+V. Dar seguimiento al Programa Estatal y las políticas climáticas municipales; así como formular propuestas a la Comisión;
+
+VI. Integrar y presentar a la Comisión, a través de la persona titular de la presidencia, el informe anual de sus actividades, el cual deberá emitirse en la segunda sesión ordinaria de este Consejo; y
+
+VII. Las demás que se establezcan en el reglamento que para tal efecto expida la Comisión.
+
+### CAPÍTULO IV. Instrumentos de Planeación
 
 ###### Artículo 16.
 
 Son instrumentos de planeación de la Política Estatal de Cambio Climático los siguientes:
 
-I. La Estrategia Estatal;
+I. (DEROGADA, P.O. 30 DE JUNIO DE 2025)
 
 II. El Programa Estatal de Acción contra el Cambio Climático; y
 
-III. Los Programas de los Municipios.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+III. Las políticas municipales de cambio climático.
 
 ###### Artículo 17.
 
@@ -447,59 +533,99 @@ La planeación de la Política Estatal en Materia de Cambio Climático comprende
 
 I. La proyección de los periodos constitucionales que correspondan a las administraciones federales y estatales; y
 
-II. La proyección en mediano y largo plazo que tendrán previsiones a diez, veinte y cuarenta años, conforme se determine en la Estrategia Estatal.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
+
+II. La proyección en mediano y largo plazo que tendrán previsiones a diez, veinte y cuarenta años, conforme se determine en el Programa Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 17 BIS.- Dentro de los instrumentos de política pública para la adaptación y mitigación al cambio climático, así como la aplicación de la presente Ley, el Estado, a través de las autoridades correspondientes, deberá incorporar y privilegiar los siguientes principios de justicia climática:
+
+I. El Estado reconoce la importancia que tiene la naturaleza como una unidad ecológica y de interdependencia de todas las especies que en ella subsisten, por lo que tiene un valor tutelable en sí misma, en consecuencia, su protección y conservación debe ir más allá de su conectividad con una utilidad para el ser humano o por los efectos que su degradación podría causar en otros derechos de las personas;
+
+II. Los procesos de consulta, participación o toma de decisiones sobre los impactos y las acciones climáticas deben ser inclusivos, justos y transparentes, especialmente para los grupos en situación vulnerable a estos impactos y acciones. Las acciones ante el cambio climático deben apuntar a disminuir las desigualdades estructurales. Las cargas, los impactos y los beneficios asociados al cambio climático se deben distribuir de manera justa y equitativa, promoviendo que aquellas no contribuyan a una mayor marginación en contra de los grupos en situación vulnerable; y
+
+III. El Estado debe garantizar la prevención y atención prioritaria de los grupos en situación vulnerable, para reducir su vulnerabilidad.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2025)</small>
 
 #### SECCIÓN I. De la Estrategia
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2017)</small>
-
 ###### Artículo 18.
 
-La política climática del Estado en materia de mitigación y adaptación al cambio climático será formulada con perspectiva de género y se plasmará en la Estrategia Estatal de Cambio Climático. Dicha Estrategia integrará, para cada periodo de referencia, las estrategias y políticas sectoriales en los ámbitos a los que es de aplicación la presente Ley.
-
-La Estrategia será aprobada por el Titular del Poder Ejecutivo a propuesta de la Secretaría y será remitida a los integrantes de la Comisión del Medio Ambiente y Recursos Naturales del Poder Legislativo.
+(DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
 ###### Artículo 19.
 
-La OCC deberá elaborar anualmente un informe de seguimiento del Programa Estatal de Acción contra el Cambio Climático en relación con el cumplimiento de sus objetivos en materia de mitigación y adaptación al cambio climático.
+(DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
-A. El contenido mínimo que deberá tener el informe sobre el cumplimiento de los objetivos de mitigación de emisiones será el siguiente:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2025)</small>
 
-I. Cantidad de emisiones netas del Estado durante el periodo de referencia del informe;
+#### SECCIÓN II. Del Programa Estatal
 
-II. Evolución de las emisiones netas con respecto al periodo anterior;
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-III. Otros indicadores que permitan el seguimiento de la evolución de las emisiones tales como el tamaño de la población o el Producto Interno Bruto entre otros y su comparación con los valores de otros estados; y
+Artículo 19 BIS.- El Programa Estatal es el instrumento rector de la política estatal en el corto, mediano y largo plazo, integrará las estrategias y políticas sectoriales en los ámbitos a los que es de aplicación la presente Ley.
 
-IV. Identificación de los métodos utilizados para medir o calcular la cantidad de emisiones.
-
-B. El contenido mínimo que deberá tener el informe sobre el cumplimiento de los objetivos de adaptación al cambio climático será el siguiente:
-
-I. Indicadores de impacto de las acciones desarrolladas en materia de adaptación.
-
-II. Responsables y logros de las acciones ejecutadas; y
-
-III. Evaluación y monitoreo del grado de cumplimiento de los objetivos de adaptación.
-
-Como resultado del seguimiento realizado sobre los objetivos establecidos en el Programa Estatal de Acción contra el Cambio Climático, este podrá ser revisado y modificado con los mismos trámites previstos para su aprobación.
-
-Los informes mencionados en los apartados anteriores serán remitidos al Poder Legislativo antes de finalizar el año en el que deba ser elaborado.
-
-#### SECCIÓN II. Del Programa
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2025)</small>
 
 ###### Artículo 20.
 
-El Programa Estatal de Acción contra el Cambio Climático será elaborado por la Secretaría, con la participación y aprobación de la Comisión. En dicho Programa se establecerán los objetivos, estrategias, acciones y metas para enfrentar el cambio climático mediante la definición de prioridades en materia de adaptación, mitigación, investigación, así como la asignación de responsabilidades, tiempos de ejecución, coordinación de acciones y de resultados y estimación de costos, de acuerdo con el Plan Sexenal de Gobierno y la Estrategia Estatal y Nacional.
+El Programa Estatal será elaborado y publicado en el Periódico Oficial del Estado por la Secretaría, dentro de los tres meses siguientes de la publicación del Plan Estatal de Desarrollo de la Administración Pública de que se trate, se deberá considerar la participación y aprobación de la Comisión.
 
-En la integración del Programa, la OCC integrará los planes sectoriales y estratégicos que elaboren las entidades de la administración pública, competentes en materia de industria, energía, transportes, desarrollo urbano, desarrollo rural, vivienda y medio ambiente.
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+En el Programa Estatal, además de lo establecido por los artículos 71, 72 y 73 de la Ley General de Cambio Climático, se deberá considerar la asignación de responsabilidades, tiempos de ejecución, coordinación de acciones y de resultados y estimación de costos, de acuerdo con el Plan de Desarrollo del Estado de Aguascalientes y la Estrategia Nacional.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+En la integración del Programa, la OCC integrará los planes sectoriales y estratégicos que elaboren las dependencias y entidades paraestatales de la administración pública, competentes en materia de industria, energía, transportes, desarrollo urbano, desarrollo rural, vivienda y medio ambiente.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+El Programa Estatal podrá revisarse y modificarse, en atención a los informes que expida la OCC, siempre y cuando sean considerados y aprobados por la Comisión.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 20 BIS.- La OCC deberá elaborar anualmente, a partir de la publicación del Programa Estatal, un informe de seguimiento en relación con el cumplimiento de los objetivos en materia de mitigación y adaptación al cambio climático, el cual deberá contener, al menos lo siguiente:
+
+I. Sobre mitigación:
+
+a) Cantidad de emisiones netas del Estado durante el periodo de referencia del informe;
+
+b) Evolución de las emisiones netas con respecto al periodo anterior;
+
+c) Otros indicadores que permitan el seguimiento de la evolución de las emisiones tales como el tamaño de la población o el Producto Interno Bruto entre otros y su comparación con los valores de otros estados; y
+
+d) Identificación de los métodos utilizados para medir o calcular la cantidad de emisiones.
+
+II. Sobre adaptación:
+
+a) Indicadores de impacto de las acciones desarrolladas en materia de adaptación;
+
+b) Responsables y logros de las acciones ejecutadas; y
+
+c) Evaluación y monitoreo del grado de cumplimiento de los objetivos de adaptación.
+
+Este informe deberá ser presentado antes de su publicación a la Comisión para su análisis y en su caso, aprobación correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
 ###### Artículo 21.
 
-Las acciones de mitigación y adaptación que se incluyan en los programas sectoriales, el Programa Estatal de Acción contra el Cambio Climático y los Programas de los Municipios, serán congruentes con los Principios de la Política Nacional; de Adaptación y de Mitigación que al efecto establece la Ley General de Cambio Climático.
+Las acciones de mitigación y adaptación que se incluyan en los programas sectoriales, el Programa Estatal y las Políticas Municipales, serán congruentes con los Principios de la Política Nacional de Adaptación y Mitigación, en los términos establecidos por la Ley General de Cambio Climático.
 
-### CAPÍTULO VI. Integración de los objetivos de reducción de emisiones en las políticas sectoriales
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE JUNIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+#### SECCIÓN III. De las Políticas Municipales
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 21 BIS.- Los municipios, en el ámbito de sus competencias, integrarán en sus planes municipales de desarrollo, las políticas climáticas que sean transversales a todos los sectores, tomarán en cuenta el Inventario, las cuales deberán ser congruentes con el Programa Estatal, las disposiciones de esta Ley, y demás disposiciones legales aplicables, además deberán contar con indicadores de cumplimiento.
+
+Para efectos del presente artículo, se deberá garantizar la participación inclusiva, equitativa, diferenciada, corresponsable y efectiva de todos los sectores de la sociedad en la implementación de las políticas climáticas, mediante las herramientas que sean conducentes conforme a la legislación correspondiente.
+
+### CAPÍTULO V. Inventario
 
 ###### Artículo 22.
 
@@ -519,7 +645,19 @@ III. La estimación del total de las emisiones por las fuentes y las absorciones
 
 La OCC proporcionará al Instituto Nacional de Ecología y Cambio Climático los datos, documentos y registros relativos a información relacionada con las categorías de fuentes emisoras previstas por la Ley General de Cambio Climático, que se originen en el ámbito de su jurisdicción, conforme a los formatos, las metodologías y los procedimientos que se determinen en las disposiciones jurídicas que al efecto se expidan.
 
-### CAPÍTULO VII. Fomento de Instrumentos para Reducción de Emisiones
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 24 BIS.- Las autoridades del Estado y los Municipios, proporcionarán a la OCC, los datos, documentos y registros relativos a información relacionada con las categorías de fuentes emisoras, que se originen en el ámbito de sus respectivas jurisdicciones, conforme a los formatos, las metodologías y los procedimientos que se determinen en las disposiciones jurídicas que al efecto expida la autoridad estatal.
+
+Para el caso de las personas físicas o morales responsables de las fuentes emisoras que sean requeridas por OCC para proporcionar los informes, datos o documentos que integran el reporte de emisiones estatal, deberán hacerlo a través de la Cédula de Operación Anual, de conformidad con las disposiciones que para tal efecto se expidan a través de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Artículo 24 TER.- Las personas físicas o morales responsables de las fuentes sujetas al reporte de sus emisiones de gases y compuestos de efecto invernadero, que se encuentren dentro del Estado, deberán cumplir con todas las obligaciones, guías, lineamientos y criterios emitidos por la Secretaría, además del Reglamento.
+
+### CAPÍTULO VI. Integración de los objetivos de reducción de emisiones en las políticas sectoriales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
 
 ###### Artículo 25.
 
@@ -553,9 +691,11 @@ Los Programas de Ordenamiento Ecológico Territorial considerarán los aspectos 
 
 Los Programas de Ordenamiento Ecológico Territorial deberán contemplar el desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático de conformidad con lo establecido por la Ley General de Cambio Climático.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
+
 ###### Artículo 29.
 
-Las Autoridades Estatales y Municipales, elaborarán y desarrollarán sus Planes Integrales de Movilidad Urbana Sustentable los cuales deberán ser alineados a la Estrategia Estatal de Cambio Climático y se incorporarán a los mismos los principios establecidos en la presente Ley, sin perjuicio de lo que disponga la normativa específica que en esta materia se apruebe en el Estado.
+Las Autoridades Estatales y Municipales, elaborarán y desarrollarán sus Planes Integrales de Movilidad Urbana Sustentable los cuales deberán ser alineados al Programa Estatal y se incorporarán a los mismos los principios establecidos en la presente Ley, sin perjuicio de lo que disponga la normativa específica que en esta materia se apruebe en el Estado.
 
 ###### Artículo 30.
 
@@ -603,9 +743,7 @@ De igual manera, promoverán la implementación de un sistema tarifario por el u
 
 Artículo 33 BIS.- Con la finalidad de reducir las emisiones de carbono, así como de llevar a cabo la transición a la electromovilidad, la legislación y la planeación que se aprueben en el Estado en estas materias, tendrán por objeto, al menos, la de fortalecer el diseño, la elaboración de políticas y acciones de mitigación que se encuentren vinculadas a sectores públicos y privados, tomando como consideración la de promover, crear y desarrollar infraestructura urbana y de construcción que colaboren para la instalación de estaciones de carga privadas y públicas.
 
-### CAPÍTULO VIII
-
-Desarrollo del Conocimiento e Innovación sobre Cambio Climático.
+### CAPÍTULO VII. Fomento de Instrumentos para Reducción de Emisiones
 
 ###### Artículo 34.
 
@@ -633,7 +771,9 @@ Las autoridades Estatales y Municipales competentes actuarán en los ámbitos qu
 
 El Gobierno del Estado incluirá, en sus contratos de obras, especificaciones técnicas y criterios de adjudicación que contribuyan a alcanzar los objetivos que en materia de acción de cambio climático se establecen en esta Ley.
 
-### CAPÍTULO IX. Información y Participación Pública
+### CAPÍTULO VIII
+
+Desarrollo del Conocimiento e Innovación sobre Cambio Climático.
 
 ###### Artículo 39.
 
@@ -643,7 +783,7 @@ Con el fin de lograr estos objetivos, las instituciones competentes en materia d
 
 Con el objetivo de coordinar la lucha en materia de mitigación y de adaptación al cambio climático en el Estado y de adoptar las iniciativas necesarias, la OCC, establecerá canales de comunicación y líneas de trabajo permanentes con las instituciones educativas, científicas y tecnológicas, fomentando el intercambio continuo de conocimiento.
 
-### CAPÍTULO X. De la Inspección y Vigilancia
+### CAPÍTULO IX. Información y Participación Pública
 
 ###### Artículo 40.
 
@@ -661,7 +801,7 @@ Las páginas electrónicas mencionadas en el apartado anterior incluirán un esp
 
 La Secretaría llevará a cabo acciones que tendrán por finalidad sensibilizar a la ciudadanía en materia de lucha contra el cambio climático, mediante campañas de comunicación sobre su impacto y la forma de prevenirlo y corregirlo.
 
-### CAPÍTULO XI. Medidas de Seguridad
+### CAPÍTULO X. De la Inspección y Vigilancia
 
 ###### Artículo 43.
 
@@ -671,13 +811,19 @@ La Procuraduría será el órgano competente para realizar actos de inspección 
 
 Las personas físicas o morales responsables de las fuentes emisoras que sean requeridas por la Secretaría para proporcionar los informes, datos o documentos que integran el reporte de emisiones tendrán la obligación de hacerlo dentro de un plazo no mayor a quince días hábiles, contados a partir del día siguiente al de la fecha de su notificación.
 
-### CAPÍTULO XII. Sanciones
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+### CAPÍTULO XI. Medidas de Seguridad
 
 ###### Artículo 45.
 
 Cuando de las visitas de inspección realizadas a las personas físicas o morales responsables de las fuentes emisoras, sujetas a reporte se determine que existe riesgo inminente derivado de contravenir las disposiciones de la presente Ley o cuando los actos u omisiones pudieran dar lugar a la imposición de sanciones, la Procuraduría podrá ordenar las medidas de seguridad previstas en la Ley de Protección Ambiental para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Estas medidas de seguridad deberán ser proporcionales al riesgo identificado y orientadas a prevenir daños ambientales significativos, garantizando así la protección de la salud pública y el medio ambiente. La Procuraduría coordinará sus acciones con otras autoridades competentes para asegurar la efectividad de las medidas implementadas.
+
+### CAPÍTULO XII. Sanciones
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 ###### Artículo 46.
 
@@ -870,3 +1016,23 @@ ARTÍCULO NOVENA (SIC).- Para el cumplimiento del presente Decreto, se deberán 
 ###### ARTÍCULO DÉCIMO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 219.- SE REFORMA (SIC) LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo Consultivo de Cambio Climático deberá instalarse a más tardar dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión intergubernamental de Cambio Climático deberá expedir el Reglamento para el funcionamiento y operación del Consejo Consultivo de Cambio Climático, a más tardar dentro de los 30 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
