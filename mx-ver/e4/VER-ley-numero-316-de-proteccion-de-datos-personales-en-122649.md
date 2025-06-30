@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-316-de-proteccion-de-datos-personales-en-122649"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-27"
-last_updated: "2017-07-27"
+last_updated: "2025-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 316 DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS PARA EL ESTADO DE VERACRUZ DE IGNACIO LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 251 DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 30 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el jueves 27 de julio de 2017.
 
@@ -2130,3 +2132,27 @@ Miguel Ángel Yunes Linares
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 251 DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. A la entrada en vigor de la presente Ley se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado el 27 de julio de 2017.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley ante el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, en materia de datos personales, se sustanciarán ante la Contraloría General del Estado de Veracruz de Ignacio de la Llave conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, en materia de datos personales, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevarán a cabo por la Contraloría General del Estado de Veracruz de Ignacio de la Llave.
+
+La Contraloría General del Estado podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+QUINTO. El Poder Judicial del Estado, el Poder Legislativo de la entidad, los Organismos Constitucionales Autónomos y el Organismo Público Local Electoral, en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor de esta Ley, deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
