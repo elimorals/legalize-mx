@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2022-12-21"
+last_updated: "2025-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 250 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 30 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2025 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -4014,3 +4016,43 @@ SEGUNDO.- Dentro de los noventa días siguientes a que entre en vigor el present
 TERCERO.- Dentro de los ciento ochenta días siguientes de la entrada en vigor del presente Decreto, el Pleno del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales emitirá los criterios, términos y lineamientos de la certificación a que se refiere el párrafo tercero del artículo 133 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 250 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
+
+SEGUNDO. A la entrada en vigor de la presente Ley se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado el 29 de septiembre de 2016.
+
+TERCERO. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+CUARTO. Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley ante el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, en materia de acceso a la información pública, se sustanciarán ante la Contraloría General del Estado de Veracruz de Ignacio de la Llave conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevarán a cabo por la Contraloría General del Estado de Veracruz de Ignacio de la Llave.
+
+La Contraloría General del Estado podrá remitir a la Autoridad garante competente aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+QUINTO. Los municipios deberán cumplir con las obligaciones a su cargo en materia de transparencia y acceso a la información, en los términos previstos por el artículo Décimo Primero Transitorio de la Ley General de Transparencia y Acceso a la Información Pública.
+
+SEXTO. La persona titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley, a fin de armonizarlos a lo previsto en la misma.
+
+SÉPTIMO. Los expedientes y archivos que a la entrada en vigor de la presente Ley estén a cargo del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Contraloría General del Estado dentro de los veinte días hábiles siguientes a la entrada en vigor de esta Ley.
+
+La Contraloría General del Estado, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+OCTAVO. El Órgano Interno de Control del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales queda extinto y sus asuntos y procedimientos que a la entrada en vigor de la presente Ley estén a su cargo, así como los expedientes y archivos, serán transferidos a la Contraloría General del Estado de Veracruz dentro de los veinte días hábiles siguientes a su entrada en vigor, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+NOVENO. El Comité del Subsistema de Transparencia deberá instalarse a más tardar en sesenta días naturales a partir de la entrada en vigor de la presente Ley, previa convocatoria que al efecto emita la Contraloría General del Estado.
+
+DÉCIMO. El Poder Judicial del Estado, el Poder Legislativo de la entidad, los Organismos Constitucionales Autónomos y el Organismo Público Local Electoral, en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor de esta Ley, deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Para efectos de lo previsto en este transitorio, se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor de este Decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades que se mencionan en el párrafo anterior.
+
+DÉCIMO PRIMERO. Con la entrada en vigor de la presente Ley, se crea la Comisión de Transición en materia de Transparencia del Estado de Veracruz de Ignacio de la Llave, integrada por la persona titular de la Secretaría Ejecutiva del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales que se encuentren en funciones previo a la entrada en vigor de este ordenamiento y las personas titulares de la Secretaría de Finanzas y Planeación y la Contraloría General del Estado ambas del Estado de Veracruz de Ignacio de la Llave y será presidida por la persona titular de esta última dependencia.
+
+La Comisión de Transición en materia de Transparencia del Estado acordará y coordinará las acciones encaminadas a realizar una transición ordenada de las facultades, obligaciones, presupuestos, recursos materiales, tecnológicos, financieros, archivos y capital humano que se realicen con motivo de lo dispuesto en esta Ley.
+
+La Comisión de Transición estará vigente por un periodo máximo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
