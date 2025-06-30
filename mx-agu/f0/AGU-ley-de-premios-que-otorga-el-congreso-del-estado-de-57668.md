@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-12-25"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -49,9 +49,9 @@ LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley tiene por objeto regular los casos, términos y condiciones para aquellas personas que por su conducta, méritos, obras o virtudes, reciban el reconocimiento por parte del Congreso del Estado y los premios que la presente Ley establece.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-Los premios se otorgarán en el Segundo Año de Ejercicio Constitucional de la Legislatura correspondiente, en Sesión Solemne que será convocada para el mes de junio de la respectiva Legislatura.
+Los premios se otorgarán en el Segundo Año de Ejercicio Constitucional de la Legislatura correspondiente, en Sesión Solemne que será convocada para el mes de septiembre de la respectiva Legislatura.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -470,3 +470,11 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 569.- SE REFORMA LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 224.- SE REFORMA LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente Proyecto de Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
