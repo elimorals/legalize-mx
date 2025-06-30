@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2025-06-11"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2025.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -659,11 +659,13 @@ b) Para los demás casos que establezcan esta Constitución y la ley.
 
 El plebiscito será obligatorio en los casos que señalen esta Constitución y la ley.
 
-> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JUNIO DE 2025)</small>
 
 ###### Artículo 18.
 
-Las diputadas, los diputados y los ediles se elegirán por sufragio universal, libre, secreto, directo, personal e intransferible, de acuerdo con los principios de mayoría relativa y de representación proporcional, con las modalidades que establezca la ley.
+Las diputadas, los diputados y los ediles se elegirán por sufragio universal, libre, secreto, directo, personal e intransferible, de acuerdo con los principios de mayoría relativa y de representación proporcional, con las modalidades que establezca la ley, debiendo cumplir para su postulación y permanencia en el cargo con los requisitos de elegibilidad que esta Constitución señala, incluyendo lo dispuesto en el artículo 18 Bis.
+
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
 La Gobernadora o el Gobernador del Estado se elegirá por el principio de mayoría relativa. El procedimiento de revocación de mandato se realizará bajo el de mayoría absoluta. En ambos casos a través de sufragio universal, libre, secreto, directo, personal e intransferible.
 
@@ -671,7 +673,35 @@ La Gobernadora o el Gobernador del Estado se elegirá por el principio de mayor�
 
 Las Magistradas y Magistrados, de los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, así como las Juezas y Jueces de Primera Instancia del Poder Judicial, se elegirán por el principio de mayoría relativa, a través de sufragio universal, libre, secreto, directo, personal e intransferible.
 
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
+
 En los casos a que se refieren los párrafos anteriores, la jornada electoral deberá coincidir con la que tenga por objeto elegir a los poderes federales y tendrá lugar el primer domingo de junio del año que corresponda, con excepción de la revocación de mandato que se realizará conforme lo establecido en esta Constitución.
+
+> <small>(ADICIONADO, G.O. 30 DE JUNIO DE 2025)</small>
+
+###### Artículo 18 Bis.
+
+Para ocupar cualquier cargo, empleo o comisión en el servicio público, ya sea por elección o por designación, además de los requisitos específicos que esta Constitución o las leyes señalen para cada caso, será indispensable no incurrir en los siguientes impedimentos, condición que deberá acreditarse al momento del registro de la candidatura o de la propuesta para la designación, según corresponda:
+
+I. Estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias, salvo que se acredite fehacientemente estar al corriente del pago de la obligación alimentaria, se cancele en su totalidad la deuda, o bien, se tramite y obtenga el descuento correspondiente;
+
+II. Encontrarse inscrito en el Registro Nacional o Estatal de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género; y
+
+III. Contar con sentencia firme por la comisión dolosa de alguno de los delitos siguientes:
+
+a) Contra la vida y la integridad corporal, en su modalidad de feminicidio;
+
+b) Contra la libertad y la seguridad sexual, en sus modalidades de violencia sexual, abuso sexual o violación;
+
+c) Contra el normal desarrollo psicosexual, en sus modalidades de pederastia o turismo sexual;
+
+d) Contra la familia, en su modalidad de violencia familiar, violencia vicaria o violencia equiparada a la familiar;
+
+e) Violencia política contra las mujeres en razón de género; o
+
+f) Contra la intimidad personal.
+
+El impedimento al que se refiere esta fracción subsistirá por un periodo igual al de la pena de prisión impuesta en la sentencia correspondiente, el cual comenzará a computarse a partir del día siguiente a aquel en que se haya compurgado la pena.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MAYO DE 2020)</small>
 
@@ -830,6 +860,10 @@ IV. Los militares en servicio activo o con mando de fuerzas;
 V. Quienes pertenezcan al estado eclesiástico o sean ministros de algún culto religioso, a menos que se separen de su ministerio conforme a lo establecido en la Constitución Federal y la ley de la materia; y
 
 VI. Quienes tengan antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2025)</small>
+
+VII. Quienes incurran en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
 
 La prohibición para los servidores públicos mencionados en las fracciones II, III y IV, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección.
 
@@ -1401,6 +1435,10 @@ VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto relig
 
 VII. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2025)</small>
+
+VIII. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
+
 La prohibición para los servidores públicos mencionados en las fracciones IV y V, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE OCTUBRE DE 2024)</small>
@@ -1539,9 +1577,9 @@ El Poder Ejecutivo, para el despacho de los asuntos de su competencia, tendrá l
 
 La ley establecerá las bases generales de creación de las entidades de la administración pública descentralizada y la intervención del Ejecutivo en su operación; así como las relaciones entre dichas entidades y el Ejecutivo, o entre aquéllas y los órganos de la administración pública centralizada.
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2025)</small>
 
-Los titulares de las dependencias y entidades de la administración pública deberán ser veracruzanas o veracruzanos, y contar con título profesional expedido por autoridad o institución legalmente facultada para ello, y cumplir con los demás requisitos que establezca la ley.
+Los titulares de las dependencias y entidades de la administración pública deberán ser veracruzanas o veracruzanos, y contar con título profesional expedido por autoridad o institución legalmente facultada para ello, no incurrir en los impedimentos establecidos en el artículo 18 Bis de esta Constitución, y cumplir con los demás requisitos que establezca la ley.
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2020)</small>
 
@@ -1681,7 +1719,9 @@ V. No haber ocupado el cargo de Gobernador, Gobernadora, Secretario de Estado o 
 
 VI. Los demás requisitos que señale la ley.
 
-No podrá ser Magistrada, Magistrado, Jueza o Juez de Primera Instancia del Poder Judicial, quien, al día de la publicación de la convocatoria correspondiente, se encuentre inscrito en los padrones de deudores alimentarios morosos o personas responsables de violencia familiar, violencia política o violencia de género.
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2025)</small>
+
+No podrá ser Magistrada, Magistrado, Jueza o Juez de Primera Instancia del Poder Judicial, quien incurra en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
 
 ###### Artículo 58 Bis.
 
@@ -2021,9 +2061,9 @@ Conforme a esta Constitución y la ley, los Organismos Autónomos del Estado con
 
 Para efectos de que los Organismos Autónomos del Estado rindan cuentas sobre el estado que guarda su gestión, deberán presentar anualmente un informe de actividades a los Poderes Legislativo y Ejecutivo dentro de los primeros quince días del mes de diciembre, y sus titulares comparecer ante el Poder Legislativo en sesión pública en la última quincena del mes de enero, conforme al formato que establezca la Ley Orgánica del Poder Legislativo y su respectivo Reglamento. El Tribunal Estatal de Justicia Administrativa sólo estará obligado a presentar el informe de actividades.
 
-> <small>(ADICIONADO, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2025)</small>
 
-En la designación de las personas titulares o de los órganos colegiados que forman parte de los Organismos Autónomos, se observará en lo conducente, el principio de paridad en los términos de la ley y su normatividad interna.
+En la designación de las personas titulares o de los órganos colegiados que forman parte de los Organismos Autónomos, se observará en lo conducente, el principio de paridad en los términos de la ley y su normatividad interna, y no deberán encontrarse en ninguno de los supuestos previstos en el artículo 18 Bis de esta Constitución.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE MAYO DE 2020)</small>
 
@@ -2328,6 +2368,10 @@ III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
 
 IV. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
+
+> <small>(ADICIONADA, G.O. 30 DE JUNIO DE 2025)</small>
+
+V. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
 
 (NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 70. Los ediles durarán en su cargo cuatro años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley.
 
@@ -4396,3 +4440,11 @@ SEXTO. Los registros, padrones, sistemas informáticos y claves de acceso, tanto
 SÉPTIMO. Hasta en tanto no se realicen las adecuaciones necesarias a la legislación que dispone el artículo Segundo Transitorio, el Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales continuará operando y realizará las atribuciones que le son conferidas a las autoridades garantes locales en términos de la Ley General de Transparencia y Acceso a la Información Pública.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
