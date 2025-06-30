@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2025-03-31"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -425,17 +425,17 @@ Toda persona ejercerá su derecho de acceso a la información que se encuentre e
 
 a) Toda la información en posesión de los sujetos obligados, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional en los términos que fije la ley de la materia. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad; los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información. De igual forma los sujetos obligados deberán difundir la información no reservada, siempre que no constituya información confidencial y que dicha publicación no contravenga las leyes de la materia, a través de tecnologías de la información y comunicación o cualquier otro medio de difusión y procurarán que su sitio web incluya la normatividad que les sea aplicable;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley de la materia;
+b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley de la materia. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención;
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-d) Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se substanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución;
+d) Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes;
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
 
@@ -457,9 +457,15 @@ g) No podrá reservarse o alegar la confidencialidad de información relacionada
 
 h) La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan (sic) la ley de la materia; e
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2025)</small>
 
-i) El organismo autónomo a que se refiere el artículo 97 de esta Constitución será responsable de garantizar el cumplimiento del derecho de acceso a la información pública y de protección de los datos personales en posesión de los sujetos obligados en términos de esta constitución y de la Ley de la materia.
+i) Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito local para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+Los sujetos obligados se regirán por las leyes en materia de transparencia y acceso a la información pública, así como de protección de datos personales, para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.
+
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Las autoridades garantes serán responsables de proteger, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, así como por lo previsto en la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables, mismas que serán las contralorías u homólogos de los poderes ejecutivo, legislativo y judicial, así como los órganos constitucionales autónomos;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1131,6 +1137,10 @@ XIV. Determinar las participaciones que correspondan a los municipios de los imp
 
 XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Estado, los municipios, organismos autónomos y los organismos paraestatales con sus trabajadores, con base en lo dispuesto por los artículos 115 y 123 de la Constitución Política de los Estados Unidos Mexicanos, así como las relativas al sistema de seguridad social de que deban gozar éstos. Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2025)</small>
+
+Para tal efecto se creará un Tribunal de Conciliación y Arbitraje, con autonomía técnica para emitir sus resoluciones y patrimonio propio, dotado de plena jurisdicción para conocer de los conflictos individuales y colectivos de carácter laboral y de seguridad social; asimismo, conocerá de los asuntos relacionados con el acceso a la información pública de los sindicatos de trabajadores al servicio del Estado y de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos. El Tribunal se compondrá por tres magistraturas, cuyas personas titulares serán electas de manera libre, directa y secreta por la ciudadanía en la misma jornada electoral de las elecciones estatales ordinarias, conforme al procedimiento establecido en el artículo 84 de esta Constitución. La postulación de las personas candidatas se realizará a través del Comité de Evaluación del Poder Ejecutivo.
+
 Las personas que aspiren a ocupar una magistratura en el Tribunal de Conciliación y Arbitraje del Estado deberán cumplir con los requisitos para ser magistradas o magistrados establecidos en el artículo 83 de esta Constitución, así como acreditar experiencia profesional en materia de derecho laboral y de seguridad social.
 
 Las magistradas y magistrados del Tribunal de Conciliación y Arbitraje, ejercerán su encargo por un periodo de nueve años y podrán ser reelectos por un periodo adicional de la misma duración.
@@ -1291,9 +1301,7 @@ LVII Bis. Tomar la protesta de Ley a las magistradas y magistrados, juezas y jue
 
 LVIII. Legislar sobre la integración del patrimonio del Estado y de los municipios, y
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2016)</small>
-
-LIX. Nombrar a los Comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala; y
+LIX. (DEROGADA, P.O. 30 DE JUNIO DE 2025)
 
 > <small>(REFORMADA, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2437,6 +2445,10 @@ El Instituto Tlaxcalteca de Elecciones es el órgano encargado de la organizaci�
 
 El Instituto Tlaxcalteca de Elecciones solamente podrá intervenir en los asuntos internos de los partidos políticos en los términos que señale esta Constitución y la ley de la materia; y ésta, sólo establecerá las obligaciones y prohibiciones que conciernen directamente a los partidos políticos, a sus militantes, dirigentes, representantes y candidatos a cargos de elección popular y las sanciones a las que se hagan acreedores.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+El Instituto Tlaxcalteca de Elecciones tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales a cargo de los partidos políticos; también conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los partidos políticos en los términos que establezca la ley de la materia.
+
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 En el cumplimiento de sus atribuciones y la consecución de sus fines, el Instituto Tlaxcalteca de Elecciones se conducirá en todos sus actos de acuerdo con los principios de constitucionalidad, legalidad, imparcialidad, objetividad, equidad, certeza, profesionalismo, independencia y máxima publicidad.
@@ -2617,39 +2629,13 @@ Para ser titular de la Comisión se requiere ser preferentemente Licenciado en D
 
 El titular de la Comisión y los integrantes del Consejo Consultivo durarán en su encargo cuatro años y podrán ser reelectos una sola vez por otro período igual, para lo cual se seguirá el procedimiento que para tal efecto establezca la ley de la materia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2025)</small>
 
 ### CAPITULO III. DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2016)</small>
-
 ###### ARTICULO 97.
 
-El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, es un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el derecho humano que tiene toda persona para obtener información creada, administrada o en poder de los sujetos obligados, la cual no tendrá más limitación o excepción que aquella información que sea reservada o clasificada por comprometer la seguridad nacional, del Estado o la de los municipios y aquella que ponga en riesgo la privacidad o la seguridad de los particulares; así como de proteger los datos personales en posesión de los sujetos obligados. Los sujetos obligados a proporcionar la información tendrán la facultad de clasificar y reservarla en atención a lo dispuesto por esta Constitución y la ley de la materia.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
-
-Su funcionamiento se regirá bajo los principios de certeza, independencia, imparcialidad, eficacia, profesionalismo, transparencia, objetividad, legalidad y máxima publicidad.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
-
-Los poderes públicos estatales, los ayuntamientos, los órganos constitucionales autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal y cualquier otro organismo, dependencia o entidad estatal o municipal, estarán obligados a rendir la información pública que se les solicite.
-
-> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2021)</small>
-
-Se dotará al Instituto de la estructura administrativa y de los recursos necesarios para el ejercicio de sus funciones.
-
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2021)</small>
-
-El Instituto contará con un Pleno integrado por tres comisionados propietarios y sus respectivos suplentes, mismos que serán electos por el voto de las dos terceras partes de los diputados integrantes de la Legislatura que corresponda, mediante convocatoria pública abierta, expedida por el Congreso del Estado en la forma y términos que la Ley señale. En la conformación del organismo garante se observará el principio de paridad de género y se privilegiará la experiencia en materia de acceso a la información pública y protección de datos personales.
-
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2016)</small>
-
-Los comisionados durarán en su encargo siete años y serán electos de manera escalonada sin posibilidad de reelección y no podrán ser cesados de su cargo durante el periodo para el que fueron nombrados, salvo por causa grave que calificará el Congreso del Estado conforme lo disponga la Ley de la materia. El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años. Estará obligado a rendir un informe anual ante el Congreso Local, en la fecha y en los términos que disponga la Ley. Este cargo es incompatible con cualquier otro empleo o actividad, salvo la docencia y la investigación académica.
-
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2021)</small>
-
-El Instituto contará con un Consejo Consultivo, conformado por cinco Consejeros, que durarán en su cargo cuatro años. En la integración del Consejo se preferirá la inclusión de personas con experiencia en materia de transparencia y acceso a la información así como, en general, de derechos humanos. La ley establecerá lo relativo a la instalación del Consejo Consultivo, su estructura y funcionamiento; sus facultades, atribuciones y deberes jurídicos, así como las de sus integrantes; el procedimiento de designación de los consejeros, la forma de suplirlos durante sus ausencias y el espacio físico que el Consejo Consultivo ocupará.
+(DEROGADO, P.O. 30 DE JUNIO DE 2025)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2023)</small>
 
@@ -2923,11 +2909,11 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos y particulares, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2025)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra la persona titular del Poder Ejecutivo, diputadas y diputados, magistradas y magistrados del Tribunal Superior de Justicia, Tribunal de Disciplina Judicial, Tribunal de Justicia Administrativa, juezas o jueces del Poder Judicial del Estado y órgano de administración judicial, las personas titulares de las Secretarías del Poder Ejecutivo, Oficialía Mayor, Coordinaciones y organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos; magistradas y magistrados del Tribunal de Conciliación y Arbitraje, de la persona titular del Órgano de Fiscalización Superior, magistradas y magistrados del Tribunal Electoral del Estado, la persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos, de las y los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, persona titular de la Fiscalía General de Justicia, consejero (sic) electorales del Consejo General del Instituto Tlaxcalteca de Elecciones y Secretaría General de éste, las y los presidente (sic) municipales e integrantes de los ayuntamientos de los municipios del Estado, así como de las personas titulares de las secretarías u organismos descentralizados de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho de acuerdo a las prevenciones siguientes:
+El juicio político procede contra la persona titular del Poder Ejecutivo, diputadas y diputados, magistradas y magistrados del Tribunal Superior de Justicia, Tribunal de Disciplina Judicial, Tribunal de Justicia Administrativa, juezas o jueces del Poder Judicial del Estado y órgano de administración judicial, las personas titulares de las Secretarías del Poder Ejecutivo, Oficialía Mayor, Coordinaciones y organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos; magistradas y magistrados del Tribunal de Conciliación y Arbitraje, de la persona titular del Órgano de Fiscalización Superior, magistradas y magistrados del Tribunal Electoral del Estado, la persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos, la persona titular de la Fiscalía General de Justicia, las y los consejeros electorales del Consejo General del Instituto Tlaxcalteca de Elecciones y Secretaría General de éste, las y los presidentes municipales e integrantes de los ayuntamientos de los municipios del Estado, así como de las personas titulares de las secretarías u organismos descentralizados de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho de acuerdo a las prevenciones siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -3019,9 +3005,9 @@ ARTICULO 112 BIS.- El Sistema Anticorrupción del Estado de Tlaxcala es la insta
 
 Para el cumplimiento de su objeto, el Sistema Anticorrupción del Estado de Tlaxcala se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
 
-I. Contará con un Comité Coordinador que estará integrado por los titulares del Órgano de Fiscalización Superior , de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de la Función Pública, del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado; la persona que presida el Tribunal de Justicia Administrativa; así como por un representante del Tribunal de Disciplina Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá;
+I. Contará con un Comité Coordinador que estará integrado por las personas titulares del Órgano de Fiscalización Superior, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría Anticorrupción y Buen Gobierno, de la Presidencia del Tribunal de Justicia Administrativa; así como un representante del Tribunal de Disciplina Judicial del Estado y por un representante del Comité de Participación Ciudadana, quien lo presidirá;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
@@ -4484,3 +4470,63 @@ El Congreso del Estado tendrá un plazo de ciento ochenta días naturales contad
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 155.- SE REFORMAN LOS INCISOS B), D), E I) DE LA FRACCIÓN V DEL ARTÍCULO 19, EL PÁRRAFO SEGUNDO DE LA FRACCIÓN XV DEL ARTÍCULO 54, EL ARTÍCULO 109; LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 112 BIS; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 95, RECORRIÉNDOSE LOS SUBSECUENTES Y SE DEROGAN LA FRACCIÓN LIX DEL ARTÍCULO 54, EL CAPÍTULO III DENOMINADO "DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE TLAXCALA", DEL TÍTULO VIII "DE LOS ÓRGANOS AUTÓNOMOS" Y EL ARTÍCULO 97, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En cumplimiento a lo previsto por el párrafo primero del artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos de los municipios que conforman esta Entidad Federativa, para los efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se extingue el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala y sus unidades administrativas, en armonía con el artículo cuarto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica.
+
+Las contralorías u homólogos de los poderes Ejecutivo, Legislativo y Judicial, así como de los órganos constitucionales autónomos, serán las autoridades garantes, y estarán a cargo de la protección, en el ámbito de su competencia, de los derechos de acceso a la información pública y de protección de datos personales conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución local y demás disposiciones jurídicas aplicables.
+
+Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, respecto al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones y funciones, según corresponda.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado de Tlaxcala tendrá un plazo máximo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento a éste.
+
+Una vez realizadas dichas adecuaciones, las contralorías u homólogos de los poderes Ejecutivo, Legislativo y Judicial, así como de los órganos constitucionales autónomos, deberán realizar las adecuaciones necesarias a su estructura orgánica a efecto de asumir las funciones y atribuciones que en materia de transparencia le correspondían al Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales con que cuente el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los cuarenta y cinco días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Los registros, padrones y sistemas, internos y externos, que integran la Plataforma de Transparencia con los que cuenta el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, también serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los cuarenta y cinco días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, transferirá los recursos financieros a la Secretaría de Finanzas del Gobierno del Estado, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, dentro de los cuarenta y cinco días hábiles siguientes a la entrada en vigor del presente Decreto, deberá entregar a la Secretaría de Finanzas del Gobierno del Estado la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al periodo que va del mes de enero de 2025 al último mes en que se publique el presente Decreto, de conformidad con las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO QUINTO.
+
+La comisionada y los comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, concluirán sus funciones a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos laborales de las personas servidoras públicas del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala serán respetados, en términos de la legislación aplicable.
+
+Los recursos humanos con que cuente el referido Instituto serán liquidados conforme a las leyes aplicables en la materia, en el momento de su extinción.
+
+El Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, transferirá toda información que integre el rubro financiero, administrativo y de recursos humanos con el que operó dicho Instituto a la Secretaría de Finanzas, dentro de los cuarenta y cinco días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+Las personas servidoras públicas del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Tlaxcala, que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán durante el proceso de extinción del Instituto referido.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los municipios deberán cumplir con las obligaciones a su cargo en materia de transparencia y acceso a la información pública, en términos de lo previsto en el artículo Décimo Transitorio de la Ley General de Transparencia y Acceso a la Información Pública abrogada conforme al Decreto por el que se expiden la Ley General de Transparencia y Acceso a la Información Pública y otras, publicado en el Diario Oficial de la Federación el veinte de marzo del dos mil veinticinco.
+
+###### ARTÍCULO OCTAVO.
+
+El Congreso del Estado de Tlaxcala contara con hasta cuarenta y cinco días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a la Ley Orgánica de la Administración Pública del Estado de Tlaxcala para dar cumplimiento al presente Decreto.
+
+Hasta en tanto el Congreso del Estado de Tlaxcala, realice las adecuaciones respectivas, se entenderá por Secretaría Anticorrupción y Buen Gobierno a la Secretaría de la Función Pública del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO NOVENO.
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
