@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2024-12-13"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -1415,6 +1415,10 @@ I. Copia certificada de la constancia, o del documento del acto del estado civil
 
 La apostilla o legalización de los documentos emitidos por autoridades extranjeras a que se refiere el párrafo anterior, podrán dispensarse cuando existan, medios electrónicos simplificados y autorizados por el Registro Nacional de Población, para constatar el nacimiento y la filiación. La información que por estos medios conozcan los oficiales del registro civil será impresa y certificada por los mismos y se guardará en el apéndice del archivo;
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2025)</small>
+
+Tratándose de documentos de nacimiento de personas nacidas en el extranjero de madre o padre o ambos mexicanos, o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla, bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento original del padre o madre mexicanos para el registro de su nacimiento, con lo que quedara acreditada su identidad y su nacionalidad mexicana, lo anterior de conformidad con lo establecido el (sic) Código Nacional de Procedimientos Civiles y Familiares y demás normatividad aplicable.
+
 II. Si las constancias estuvieren redactadas en idioma diferente al español, se deberá adjuntar traducción realizada por perito registrado, y
 
 III. Tratándose de persona extranjera que haya realizado algún acto jurídico con persona mexicana, deberá presentar las constancias que la ley respectiva de la materia imponga.
@@ -1738,3 +1742,11 @@ P.O. 13 DE DICIEMBRE DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0222.- QUE REALIZA ADICIÓN AL ARTÍCULO 154, DE LA LEY DE REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
