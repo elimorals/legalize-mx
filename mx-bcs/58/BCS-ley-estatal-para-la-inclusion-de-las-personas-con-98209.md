@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2025-05-20"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -84,6 +84,26 @@ X.- Consejo Consultivo: Consejo Consultivo para el Desarrollo e Inclusión de la
 XI.- DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia en Baja California Sur;
 
 XII.- DIF Municipales: A los Sistemas Municipales para el Desarrollo Integral de la Familia en La Paz, Comondú, Loreto, Mulegé y Los Cabos.
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2025)</small>
+
+XII Bis.- Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2025)</small>
+
+XII Ter.- Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2025)</small>
+
+XII Quater.- Discapacidad Mental: A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2025)</small>
+
+XII Quinquies.- Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(ADICIONADA, B.O. 30 DE JUNIO DE 2025)</small>
+
+XII Sexies.- Discapacidad Sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 XIII.- Diseño Universal. Se entenderá el diseño de productos, entornos, programas y servicios que pueden utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten.
 
@@ -1656,3 +1676,11 @@ B.O. 20 DE MAYO DE 2025.
 Primero.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se exhorta a los Ayuntamientos en el Estado de Baja California Sur, en el ámbito de sus facultades y atribuciones, a que realicen las adecuaciones normativas correspondientes a fin de "garantizar que las instalaciones de los Parques y espacios públicos de nueva creación o donde se realicen remodelaciones, cuenten con condiciones de accesibilidad a las personas con discapacidad; Así mismo cuando se instalen Juegos infantiles en los espacios antes mencionados, se garantice también la existencia de juegos infantiles inclusivos"
+
+B.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3156 SE ADICIONAN LAS FRACCIONES XII BIS, XII TER, XII QUATER, XII QUINQUIES, XII SEXIES, XXI BIS, AL ARTÍCULO 3 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
