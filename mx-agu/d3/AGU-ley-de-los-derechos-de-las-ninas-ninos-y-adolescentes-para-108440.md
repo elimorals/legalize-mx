@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-06-16"
+last_updated: "2025-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -393,9 +393,9 @@ VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
 IX. Derecho a la protección de la salud y a la seguridad social;
 
-(REFORMADA, P.O. 19 DE MAYO DE 2025) (F. DE E., P.O. 26 DE MAYO DE 2025)
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2025)</small>
 
-X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad física, mental, intelectual y/o visual;
+X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad, sin importar el tipo o grado de la misma, garantizando su participación plena y efectiva en la sociedad en igualdad de condiciones;
 
 XI. Derecho a la educación;
 
@@ -3544,6 +3544,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 16 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 191.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 205.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
