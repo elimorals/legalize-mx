@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2025-03-08"
+last_updated: "2025-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "MIC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO INCISO A) DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 30 DE JUNIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE OCTUBRE DE 2025 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025 (ABROGADO).
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -2536,3 +2540,59 @@ SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días há
 TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
 
 CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al (sic) mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.
+
+P.O. 30 DE JUNIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, conforme a lo siguiente:
+
+a) A partir del 15 de septiembre de 2025, se abroga la Ley Orgánica del Poder Judicial del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 3 de diciembre de 2014.
+
+b) Hasta en tanto las personas integrantes del Órgano de Administración Judicial, las magistraturas y las personas juzgadoras de primera instancia y menores tomen protesta de su encargo ante el Congreso del Estado de Michoacán, el Poder Judicial del Estado de Michoacán se regirá, para todos los efectos, por las normas contenidas en la Ley Orgánica del Poder Judicial del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 3 de diciembre de 2014, en lo conducente y en tanto no se opongan al presente Decreto y a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, así como por las disposiciones normativas que hayan derivado de ella.
+
+SEGUNDO. Los reglamentos que se requieran, con motivo de este Decreto, serán expedidos por el Poder Judicial en un periodo no mayor a 180 días hábiles contados a partir del 15 de septiembre de 2025. En tanto se expidan dichos reglamentos, seguirán aplicándose los vigentes en lo conducente y en tanto no se opongan a lo señalado en el presente Decreto.
+
+TERCERO. Los actos y procedimientos administrativos o jurisdiccionales iniciados bajo la vigencia de la Ley abrogada se continuarán y concluirán conforme a las disposiciones vigentes al momento de su inicio, salvo disposición expresa en contrario o que se emitan lineamientos para su adecuación al nuevo marco normativo.
+
+CUARTO. Los acuerdos emitidos por el Consejo de la Judicatura continuarán vigentes en todo lo que no se opongan a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, y al presente Decreto, hasta en tanto el Órgano de Administración y el Tribunal de Disciplina emitan sus propios Acuerdos.
+
+QUINTO. El Órgano de Administración Judicial contará con un plazo no mayor a 90 días hábiles contados a partir de su toma de protesta ante el Congreso del Estado de Michoacán, para realizar las adecuaciones pertinentes al organigrama, las categorías y las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado de Michoacán, de conformidad con lo señalado en este Decreto.
+
+SEXTO. El Órgano de Administración Judicial deberá publicar, a más tardar el primer día hábil del mes de enero de 2026, el Programa Anual de Desarrollo Archivístico, así como los instrumentos de control y de consulta que mandata la Ley General de Archivos.
+
+SÉPTIMO. El Consejo de la Judicatura determinará, mediante acuerdo, la organización, plan, bases y medidas del régimen de transición y transferencia de los recursos humanos, materiales, financieros y presupuestales a los distintos órganos y áreas del Poder Judicial, de acuerdo con las atribuciones señaladas en el presente Decreto, hasta en tanto el Órgano de Administración determine lo conducente.
+
+OCTAVO. El funcionamiento integral y operativo de las Salas del Supremo Tribunal de Justicia, de las unidades administrativas del Órgano de Administración Judicial, así como del Tribunal de Disciplina Judicial, deberá ser garantizado por el Consejo del Poder Judicial del Estado de Michoacán, atendiendo a los plazos, términos y condiciones establecidos en los transitorios del Decreto 03 publicado en el Periódico Oficial del Estado el 14 de noviembre de 2024, mediante el cual se reforman, derogan y adicionan distintas disposiciones de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia del Poder Judicial. Lo anterior, hasta en tanto entren en funciones y determinen lo conducente los integrantes del Órgano de Administración.
+
+NOVENO. Al Tribunal de Disciplina le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas del Consejo de la Judicatura, que actualmente ejercen funciones de disciplina, vigilancia y control interno. Los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura, le serán respetados en todo momento, de conformidad con lo dispuesto en la legislación laboral y demás disposiciones aplicables.
+
+DÉCIMO. Al Órgano de Administración se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial. Los derechos laborales de todo el personal administrativo que sea readscrito del Consejo de la Judicatura serán respetados, de conformidad con lo dispuesto en la legislación laboral y demás disposiciones aplicables.
+
+DÉCIMO PRIMERO. Para la transferencia de los recursos humanos, materiales, financieros y presupuestales señalados en los transitorios anteriores, el Consejo de la Judicatura podrá adoptar las medidas que considere pertinentes relativas al movimiento, adscripción y readscripción del personal, a fin de garantizar el funcionamiento integral y operativo de las diversas unidades administrativas, mismas que podrán ser ratificadas, modificadas o revocadas por el Órgano de Administración.
+
+DÉCIMO SEGUNDO. Serán respetados todos los derechos de las personas que hayan obtenido resultados aprobatorios en los concursos de oposición realizados con anterioridad a la entrada en vigor de este Decreto, con excepción de los cargos de magistraturas, personas juzgadoras de primera instancia y menores, y de la Contraloría Interna. Para este último cargo, se emitirá nueva convocatoria de inmediato.
+
+DÉCIMO TERCERO. Las condiciones generales de trabajo que tenga actualmente celebradas el Poder Judicial del Estado de Michoacán con el Sindicato de Trabajadores se mantendrán vigentes; para tal efecto, el Órgano de Administración Judicial asumirá las obligaciones a cargo del Consejo de la Judicatura, en todo lo que no se oponga al presente Decreto.
+
+DÉCIMO CUARTO. Los comités internos y cualquier otra instancia colegiada de coordinación del Poder Judicial del Estado de Michoacán, distintos de los previstos en este Decreto, quedarán extintos el 15 de septiembre de 2025.
+
+DÉCIMO QUINTO. Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor de la presente Ley se substanciarán por el Tribunal de Disciplina Judicial, conforme a las disposiciones vigentes en aquel momento. En todo lo no previsto en la presente Ley, el Pleno del Tribunal de Disciplina Judicial regulará, mediante acuerdo, la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura del Estado de Michoacán.
+
+DÉCIMO SEXTO. La competencia, distribución territorial e integración de los órganos jurisdiccionales de primera instancia en materia penal del sistema tradicional se regirá, en lo conducente, conforme a las normas contenidas en la Ley Orgánica del Poder Judicial del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 3 de diciembre de 2014, así como por las disposiciones normativas que hayan derivado de ella.
+
+DÉCIMO SÉPTIMO. Lo dispuesto en los artículos 27, fracciones I y VI; 28, fracción III; 29, fracción I; 49, fracción III; y, 51 del presente Decreto entrarán en vigor cuando el Congreso del Estado emita la declaratoria a que se refiere el transitorio segundo del Código Nacional de Procedimientos Civiles y Familiares.
+
+DÉCIMO OCTAVO. El periodo de las magistraturas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial, y de las personas juzgadoras de primera instancia y menores que resultaron ganadoras en la elección extraordinaria celebrada en el año 2025 durarán ocho años en su cargo, por lo que vencerá en el año 2033.
+
+Corresponderá al Órgano de Administración realizar la adscripción de los juzgados penales, atendiendo exclusivamente a los principios y criterios establecidos en el artículo 226 del presente Decreto, hasta en tanto se apruebe la reglamentación respectiva.
+
+Por esta primera y única ocasión, la adscripción para el caso de las magistraturas en materia penal será a través de un mecanismo de insaculación. Dichas magistraturas deberán rotarse cada tres años y las adscripciones subsecuentes se realizarán a través de los mecanismos y criterios que se establezcan por el Pleno del Supremo Tribunal de Justicia.
+
+DÉCIMO NOVENO. La Comisión Interinstitucional de Transición será la responsable de coordinar y ejecutar las acciones necesarias, suficientes y oportunas que garanticen que el proceso de entrega-recepción a que haya lugar con motivo de la entrada en vigor de este Decreto se realice en forma ordenada, transparente y con absoluto respeto a la normatividad aplicable. Dicha Comisión estará integrada por tres representantes de cada uno de los Poderes Constitucionales del Estado. Serán designados de la siguiente forma: el del Poder Ejecutivo, por el Gobernador del Estado; el del Poder Legislativo, por la persona que preside la Mesa Directiva del Congreso; y el del Poder Judicial, por el Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial.
+
+Tendrán facultades para solicitar informes a cualquier autoridad, organismo o dependencia, en el ámbito de su competencia y para el adecuado ejercicio de sus atribuciones. El Consejo del Poder Judicial facilitara a los integrantes de la Comisión de Transición, toda información, documentos y recursos que se requieran para el ejercicio de su encomienda constitucional.
+
+VIGÉSIMO. El Órgano de Administración podrá cubrir, con recursos del Fondo Auxiliar para la Administración de Justicia, el Programa de Retiro Anticipado de Jueces y Juezas establecido en la normatividad transitoria de la Constitución del Estado, así como la prestación de retiro forzoso de jueces y magistrados conforme a los supuestos legales aplicables.
+
+VIGÉSIMO PRIMERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto. Los casos no previstos, así como los que requieran aclaración en materia administrativa y de organización interna del Poder Judicial del Estado, serán resueltos por el Pleno del Supremo Tribunal de Justicia y por el Órgano de Administración Judicial, según corresponda y conforme a las necesidades del servicio.
