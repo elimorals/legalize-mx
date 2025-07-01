@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-05-26"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1080,6 +1080,10 @@ d BIS).- Velar por la creación de planes de conservación, mantenimiento, prote
 Asimismo, coadyuvar en los términos de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, en los casos en los que ciertas actividades sean competencia exclusiva de otros entes, o emitir ordenamientos municipales para perseguir dichos fines.
 
 De igual manera, será tarea del Ayuntamiento, hacer del conocimiento de los ciudadanos, respecto del patrimonio al que hace referencia la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y que se encuentre dentro de su propiedad, y todas las acciones que se llevarán a cabo para la conservación del mismo, observando en todo momento los ordenamientos jurídicos aplicables;
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2025)</small>
+
+d TER).- Impulsar la práctica de disciplinas de deporte adaptado, procurando que las instalaciones deportivas a su cargo cuenten con la infraestructura necesaria para tal efecto;
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
@@ -3703,9 +3707,9 @@ Para mejorar la atención de las adicciones se efectuarán los programas bajo un
 
 III. Impartir talleres que promuevan habilidades sociales y estilos de vida saludables.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-IV. Impartir talleres ocupacionales de diferentes disciplinas artísticas y deportivas.
+IV. Impartir talleres ocupacionales de diferentes disciplinas artísticas y deportivas, y cooperar con el desarrollo del deporte adaptado;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
@@ -5198,3 +5202,9 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 233 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE LOS DERECHOS DE PERSONAS MIGRANTES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 262 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN AL DEPORTE ADAPTADO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
