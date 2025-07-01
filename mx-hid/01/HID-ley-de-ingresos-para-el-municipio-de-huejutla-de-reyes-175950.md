@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ingresos-para-el-municipio-de-huejutla-de-reyes-175950"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2024-12-31"
-last_updated: "2024-12-31"
+last_updated: "2025-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE HUEJUTLA DE REYES, HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2025
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERÍODICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Alcance once al Núm. 53 del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2024.
 
