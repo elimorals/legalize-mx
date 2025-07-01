@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-de-las-personas-jovenes-del-estado-de-173888"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-15"
-last_updated: "2025-05-26"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Número 29 Alcance Uno del Periódico Oficial del Estado de Hidalgo, el lunes 15 de julio de 2024.
 
@@ -817,11 +817,13 @@ Por cada persona titular habrá una persona suplente, quien será designada por 
 
 La organización, funcionamiento y vigilancia del Instituto Hidalguense de la Juventud y de la Junta de Gobierno estará regulado por la Ley de Entidades Paraestatales del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
+
 ###### Artículo 88.
 
-La persona titular del Instituto Hidalguense de la Juventud será nombrado y removido libremente por la persona titular del Poder Ejecutivo.
+La persona titular del Instituto Hidalguense de la Juventud será nombrada y removida libremente por la persona titular del Poder Ejecutivo.
 
-La persona titular del Instituto Hidalguense de la Juventud deberá contar con ciudadanía hidalguense, en pleno ejercicio de sus derechos y contar con un máximo de veintinueve años cumplidos al momento de su designación.
+La persona titular del Instituto Hidalguense de la Juventud deberá contar con ciudadanía hidalguense, estar en pleno ejercicio de sus derechos, tener máximo veintinueve años al momento de su designación, y contar con un perfil académico, profesional o laboral que demuestre su experiencia, conocimientos o aptitudes relacionadas con el ejercicio, protección, promoción o defensa de los derechos de las personas jóvenes.
 
 ###### Artículo 89.
 
@@ -954,5 +956,11 @@ P.O. 11 DE ABRIL DE 2025.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 241 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 80 DE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE RECONOCIMIENTO A SUS APORTACIONES A LA CULTURA POLÍTICA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 258 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 88 DE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, EN MATERIA DE CRITERIOS PARA LA DESIGNACIÓN DE LA PERSONA TITULAR DEL INSTITUTO HIDALGUENSE DE LA JUVENTUD”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
