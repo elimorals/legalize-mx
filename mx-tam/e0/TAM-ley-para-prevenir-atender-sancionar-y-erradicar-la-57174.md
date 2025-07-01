@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2025-03-28"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -71,9 +71,9 @@ b) La dignidad de las mujeres;
 
 c) La no discriminación;
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
-d) La libertad de las mujeres;
+d) La libertad y autonomía de las mujeres;
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
@@ -1692,6 +1692,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 28 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-264 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 368 BIS, PÁRRAFOS PRIMERO Y TERCERO; Y SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 368 QUATER DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS Y SE ADICIONA EL ARTÍCULO 8 SEPTIES A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-359 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, INCISO D) DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
