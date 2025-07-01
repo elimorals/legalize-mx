@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2024-09-17"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -1491,33 +1491,45 @@ Para adoptar, deberán consentir, en sus respectivos casos:
 
 I.- Quien ejerza la patria potestad o la tutela;
 
-II.- Quien haya acogido durante seis meses al que se pretenda adoptar, y lo trate como hijo, cuando no hubiere quien ejerza la patria potestad sobre él, o no tenga tutor;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+II.- Quien haya acogido durante seis meses al que se pretenda adoptar, y lo trate como hija o hijo, cuando no hubiere quien ejerza la patria potestad sobre ella o él, o no tenga tutor;
 
 III.- El Ministerio Público, cuando sean desconocidos los padres de quien se pretenda adoptar, y carezca de tutor o persona que lo proteja;
 
-IV.- El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, a través del titular de la Procuraduría de la Defensa del Menor y la Familia, cuando el menor o menores de edad que se pretendan adoptar se encuentren por cualquier medio bajo su cuidado y;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2025)</small>
+
+IV.- El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, a través de la persona titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, cuando las niñas, niños o adolescentes que se pretendan adoptar se encuentren por cualquier medio bajo su cuidado y:
 
 a).- No haya quien ejerza la patria potestad o tutela sobre los mismos;
 
 b).- Habiendo quien debiera ejercer la patria potestad, haya sido declarada su pérdida mediante sentencia ejecutoriada; y
 
-c).- Se trate de menores expósitos o abandonados por más de seis meses consecutivos;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
-V.- Si el menor de edad a adoptar tiene más de doce años, deberá otorgar su consentimiento para la adopción.
+c).- Se trate de niñas, niños o adolescentes expósitos o abandonados por más de seis meses consecutivos;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+V.- Conforme al criterio de autonomía progresiva, la niña, niño o adolescente a adoptar podrá otorgar su consentimiento o su opinión para llevar a cabo la adopción; siempre que a criterio de la persona juzgadora cuenta con suficiente madurez social y psicoemocional para tomar dicha decisión, debiendo considerar su edad, contexto y características particulares en cada caso.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
 ###### Artículo 211.
 
-Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia en el Estado, a través del titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo no consienten en la adopción, deberán expresar la causa en que se funden. El juez valorará la causa de la negativa y atendiendo al interés superior de la niñez, podrá autorizar la adopción, cuando notare que la misma es conveniente para los intereses de éste.
+Si la propia persona a adoptar, su tutor o tutora, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia en el Estado, a través de la persona titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo no consienten en la adopción, deberán expresar la causa en que se funden. La persona juzgadora valorará la causa de la negativa y atendiendo al interés superior de la niñez, podrá autorizar la adopción, cuando notare que la misma es conveniente para los intereses del niño, niña o adolescente a adoptar.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
 ###### Artículo 212.
 
-El consentimiento para la adopción podrá ser otorgado ante el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo a través del titular de la Procuraduría de la Defensa del Menor y la Familia, por quien o quienes ejerzan la patria potestad sobre el menor de edad susceptible de ser adoptado, debidamente identificados, quienes deberán presentar aviso de nacimiento o constancia de alumbramiento o copia certificada del acta de nacimiento del menor de edad; sólo para el caso de adopciones que sean tramitadas por el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo.
+El consentimiento para la adopción podrá ser otorgado ante el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo a través del titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, por quien o quienes ejerzan la patria potestad sobre la niña, niño o adolescente susceptible de ser adoptada o adoptado, debidamente identificados, quienes deberán presentar aviso de nacimiento, certificado de nacimiento o copia certificada del acta de nacimiento; así como la entrega de forma voluntaria de la niña, niño o adolescente con fines de adopción, para su ingreso a un Centro de Asistencia Social, solo para el caso de adopciones que sean tramitadas por el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo.
 
-El titular de la Procuraduría de la Defensa del Menor y la Familia deberá instruir suficientemente a quien o quienes otorguen el consentimiento ante él, sobre los efectos de la adopción y constatar por escrito que el mismo es otorgado libremente, sin remuneración, presión o coacción alguna y después del nacimiento del menor; dicho consentimiento será exhibido dentro del procedimiento jurídico de adopción. Una vez otorgado el consentimiento para la adopción, no podrá ser revocado.
+La persona titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo deberá instruir suficientemente a quien o quienes otorguen el consentimiento ante él, sobre los efectos de la adopción y constatar por escrito que el mismo es otorgado libremente, sin remuneración, presión o coacción alguna y después del nacimiento de la niña o niño; dicho consentimiento será exhibido dentro del procedimiento jurídico de adopción. Una vez otorgado el consentimiento para la adopción, no podrá ser revocado.
 
-Una vez iniciado el procedimiento jurídico de adopción, el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo a través del titular de la Procuraduría de la Defensa del Menor y la Familia, podrá realizar la entrega física del menor o menores de edad susceptibles de adopción al matrimonio o concubinato solicitante, quienes tendrán la obligación de alimentar al menor o menores de edad recibidos para propiciar su desarrollo integral y facilitar su adaptación familiar. El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo a través del titular de la Procuraduría de la Defensa del Menor y la Familia vigilará y supervisará dicha adopción, por lo que, de no considerarlo conveniente, lo hará inmediatamente del conocimiento al juez competente, para que tome las medidas pertinentes a su protección e interés superior del menor.
+Una vez iniciado el procedimiento jurídico de adopción, el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo a través de la persona titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, podrá realizar la integración de la niña, niño o adolescente susceptibles de adopción en acogimiento preadoptivo a la persona, matrimonio o concubinato solicitante idóneos, previa asignación del Consejo Técnico de Adopciones, para propiciar su desarrollo integral y facilitar su adaptación familiar. Dichas personas tendrán la obligación de alimentar y procurar todos los derechos de la niña, niño o adolescente recibidos.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, a través de la persona titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo vigilará y supervisará dicha adopción, por lo que, de no considerarlo conveniente, lo hará inmediatamente del conocimiento al juez competente, para que tome las medidas pertinentes a su protección e interés superior de la niñez.
 
 ###### Artículo 213.
 
@@ -1665,19 +1677,19 @@ I.- Cuidar de ellos, tenerlos bajo su custodia y alimentarlos en todo lo que ell
 
 II.- Representar y administrar sus bienes.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
 ###### Artículo 225.
 
-Quienes ejerzan la patria potestad, la custodia o tutela, tienen el deber de guiar la conducta de los menores de edad o personas con capacidades diferentes con actitud de disposición positiva, mostrando buen ejemplo. Dicha facultad no implica infligir al menor actos que atenten contra su integridad.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2021)</small>
+Quienes ejerzan la patria potestad, la custodia o tutela, tienen el deber de guiar la conducta de la niña, niño o adolescente con actitud de disposición positiva, conforme al principio de autonomía progresiva de la o el adoptado. Dicha facultad no implica infligir a la niña, niño o adolescente actos que atenten contra su integridad física o mental.
 
 Queda prohibido que quienes ejercen la patria potestad, la custodia o tutela o cualquier persona que tenga a su cargo el cuidado y atención de niñas, niños y adolescentes, utilice el castigo corporal o cualquier tipo de trato y castigo humillante como forma de corrección o disciplina. Lo anterior en términos de lo dispuesto en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
 
-Se concede acción popular para denunciar los malos tratos a los menores de edad, pudiendo ser de manera anónima para su investigación oficiosa, dando vista de manera inmediata al Ministerio Público para su intervención.
+Toda persona, institución o autoridad que tenga conocimiento o presuma fundadamente la existencia de alguna conducta o hecho que vulnere derechos que pudieran afectar el desarrollo integral de alguna niña, niño o adolescente, sin perjuicio de prestarle el auxilio inmediato que requiera, tiene el deber de denunciarlo por cualquier medio y sin necesidad de formalidad alguna, en especial cuando se detecten hechos relacionados con la posible comisión de algún delito en agravio de personas menores de edad, cuyo caso se debe atender conforme al Código Nacional de Procedimientos Penales y dar aviso inmediato al Agente del Ministerio Público.
 
-Las instituciones de asistencia pública o privada del Estado Libre y Soberano de Hidalgo que tengan bajo su cuidado y protección a menores que hayan sufrido los actos previstos en los párrafos anteriores están legitimadas para ejercitar la acción de suspensión o pérdida de la patria potestad, por conducto del titular de la Procuraduría de la Defensa del menor del Sistema Estatal para el Desarrollo Integral de la Familia.
+Solo cuando el reporte provenga de un particular, podrá realizarlo de manera anónima, garantizando la reserva y confidencialidad de sus datos personales.
+
+La persona titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo está legitimada para ejercitar la acción de suspensión o pérdida de la patria potestad en los casos de niñas, niños y adolescentes que hayan sufrido los actos previstos en los párrafos anteriores, y que se encuentren bajo el cuidado de un Centro de Asistencia Social público o privado.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2021)</small>
 
@@ -1751,21 +1763,37 @@ Quienes ejercen la patria potestad entregarán a sus hijos, al llegar a la mayor
 
 La patria potestad se termina:
 
-I.- Por la muerte del titular o la declaración de presunción de su muerte, si no hay persona en quien recaiga;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-II.- Por la mayoría de edad del hijo;
+I.- Por la muerte de la persona titular o la declaración de presunción de su muerte, si no hay persona en quien recaiga;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+II.- Por la mayoría de edad de la hija o hijo;
 
 III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016); y
 
-IV.- Con la adopción del hijo, en cuyo caso, la filiación se trasmite al adoptante.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+IV.- Con la adopción de la hija o hijo, en cuyo caso, la filiación se trasmite al adoptante; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2025)</small>
+
+V.- Cuando quien ejerza la patria potestad de una niña, niño o adolescente, lo entregue por medio de un consentimiento de adopción ante el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo, para su ingreso a un Centro de Asistencia Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2025)</small>
 
 ###### Artículo 242.
 
-La patria potestad se pierde:
+La patria potestad se pierde por resolución judicial firme que acredite alguno de los siguientes supuestos:
 
-I.- Por abandono del menor de edad por más de seis meses consecutivos y éste se encuentre en alguna institución de asistencia social pública o privada;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-II.- Por poner al menor en peligro de perder la vida;
+I.- Por certificación de abandono o exposición de una niña, niño o adolescente por más de seis meses consecutivos y esta o este se encuentre en algún Centro de asistencia social público o privado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+II.- Cuando quien la ejerza hubiera puesto en un riesgo inminente la vida, seguridad o libertad de la niña, niño o adolescente;
 
 III.- Por la ausencia declarada en forma;
 
@@ -1779,15 +1807,21 @@ V.- Cuando el que haya sido suspendido del ejercicio de la patria potestad, habi
 
 VI.- (DEROGADA, P.O. 31 DE MARZO DE 2011).
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-VII.- Cuando el que la ejerza sea condenado en sentencia ejecutoriada por delito grave en agravio de sus hijos o del otro progenitor, desapareciendo expresamente la pérdida de ese derecho; y
+VII.- Cuando la persona que la ejerza sea condenada en sentencia ejecutoriada por delito cometido en agravio de sus hijas o hijos o del otro progenitor o progenitora, la cual contemple expresamente la pérdida de ese derecho;
 
-VIII.- Por inducir a quienes están bajo su cuidado al consumo de alcohol, al uso no terapéutico de sustancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos o al hábito de juego.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2016)</small>
+VIII.- Por inducir a quienes están bajo su cuidado al consumo de alcohol, al uso no terapéutico de sustancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicoactivos o al hábito de juego;
 
-IX.- Por cometer conductas de violencia familiar descritas en el artículo 243 Bis, del Código Penal para el Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+IX.- Por cometer conductas de violencia familiar descritas en el artículo 243 Bis del Código Penal para el Estado de Hidalgo, y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2025)</small>
+
+X.- Cuando quien la ejerza cometa el delito de feminicidio en contra de la madre de las niñas, niños o adolescentes sujetos a la patria potestad.
 
 ###### Artículo 243.
 
@@ -3604,3 +3638,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Registro del Estado Familiar del Estado de Hidalgo deberá en un plazo de 60 sesenta días naturales armonizar su reglamento con el presente decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 260 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO A LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES RELACIONADOS CON PROCEDIMIENTOS JUDICIALES DE ADOPCIÓN Y PÉRDIDA DE LA PATRIA POTESTAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
