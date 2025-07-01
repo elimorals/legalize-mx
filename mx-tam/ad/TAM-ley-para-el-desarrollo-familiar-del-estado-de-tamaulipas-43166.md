@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2025-04-08"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -79,9 +79,9 @@ d) definir los principios para su formación, atención, protección y desarroll
 
 1. Los principios rectores de la familia son:
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
-a) Toda persona mayor de edad tiene derecho a contraer matrimonio, o estar en concubinato. El matrimonio es el acuerdo de voluntades libremente expresadas, con objeto de unir sus vidas en forma permanente a fin de procurarse ayuda mutua y que se celebra ante la autoridad competente y con los requisitos y formalidades que la ley dispone; el concubinato es la relación de hecho que se genera entre dos personas que, sin tener ningún vínculo matrimonial y siendo mayores de edad, han tenido descendencia o han emprendido un proyecto de vida en común fundado en la afectividad, el consentimiento y la solidaridad libremente aceptada con la finalidad de convivir de forma estable;
+a) Toda persona mayor de dieciocho años, tiene derecho a contraer matrimonio, célula básica de la familia. El matrimonio es el acuerdo de voluntades libremente expresadas por las personas contrayentes, con objeto de unir sus vidas en forma permanente a fin de procurarse ayuda mutua y la preservación de la especie, que se celebra ante la autoridad competente y con los requisitos y formalidades que la ley dispone;
 
 b) la integración estable y permanente del núcleo familiar para la convivencia;
 
@@ -279,7 +279,9 @@ Quien funja como representante de la familia gozará de las facultades de un man
 
 1. Cuando los padres, independientemente de la causa que le haya dado origen, decidan disolver el vínculo matrimonial, por este acto no pierden los derechos y obligaciones que en esta ley se establecen respecto de los hijos.
 
-2. De igual manera, los hijos mayores de edad o menores de edad con el consentimiento de sus padres, que contraigan nupcias y formen una nueva familia, igualmente conservarán los mismos derechos y obligaciones que por su filiación consanguínea o civil les corresponde.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
+
+2. De igual manera, las hijas e hijos que contraigan nupcias y formen una nueva familia, igualmente conservarán los mismos derechos y obligaciones que por su filiación consanguínea o civil les corresponde.
 
 ###### ARTICULO 10.
 
@@ -864,6 +866,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-269 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, PÁRRAFO 1; 3, PÁRRAFO 1, INCISO A); Y SE ADICIONA UN SUBPÁRRAFO SEGUNDO AL PÁRRAFO 1 DEL ARTÍCULO 35 DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-361 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO 1, INCISO A); Y 9, PÁRRAFO 2, DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
