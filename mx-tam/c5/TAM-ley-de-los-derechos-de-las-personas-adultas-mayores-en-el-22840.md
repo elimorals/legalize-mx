@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2025-06-24"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -685,11 +685,11 @@ La Administración Pública del Estado, a través de la dependencia o entidad co
 
 Es obligación de las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores, otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 26.
 
-La Secretaría de Desarrollo Económico promoverá la celebración de convenios con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría de Economía del Estado de Tamaulipas promoverá la firma de convenios con la iniciativa privada, para garantizar una atención preferencial a las personas adultas mayores, incluyendo orientación y apoyo personalizado en el uso de tecnologías de la información y de comunicación, así como la instalación de módulos de apoyo presencial para agilizar y asegurar la realización de trámites. Además, se buscará que esta atención especializada esté disponible en instituciones bancarias, tiendas de autoservicio y otros establecimientos comerciales.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1048,6 +1048,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-360 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 26 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
