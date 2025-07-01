@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2025-04-11"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -1581,9 +1581,9 @@ I. Ser mexicano por nacimiento, en el ejercicio de sus derechos políticos;
 
 II. Ser hidalguense por nacimiento o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-III. Tener treinta años de edad cumplidos el día de la elección;
+III. Tener al menos dieciocho años de edad;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2117,9 +2117,7 @@ A. Para ser titular de la Fiscalía General de Justicia del Estado, de la Fiscal
 
 I. Ser hidalguense en pleno goce de sus derechos;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-II. Tener cuando menos 35 años cumplidos al día de su designación;
+II. (DEROGADA, P.O. 1 DE JULIO DE 2025)
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
 
@@ -2817,9 +2815,9 @@ I. Ser hidalguense en pleno goce de sus derechos;
 
 II. Ser vecino del municipio correspondiente, con residencia no menor de dos años inmediatamente anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-III. Tener, al menos 21 años de edad en el caso del Presidente y de los Síndicos y de 18 años de edad en el caso de Regidores, al día de la Elección;
+III. Tener al menos dieciocho años de edad;
 
 IV. Tener modo honesto de vivir;
 
@@ -4626,3 +4624,13 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 227-LXVI QUE REFORMA EL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 276 - LXVI POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE EDAD MÍNIMA PARA EL ACCESO A CARGOS PÚBLICOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado tendrá con un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a la normatividad secundaria, a fin de armonizarla con el contenido de este.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto se derogan todas las disposiciones que se opongan al mismo.
