@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2025-04-11"
+last_updated: "2025-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -283,9 +283,17 @@ VII.- Protección y progresividad del Espacio Público. Crear condiciones de hab
 
 VIII.- Resiliencia, seguridad urbana y riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de zonas de alto riesgo;
 
-IX.- Sustentabilidad ambiental. Promover prioritariamente el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones; asimismo, evitar que se rebase la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-X.- Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público, peatonal y no motorizado.
+IX.- Sustentabilidad ambiental. Promover prioritariamente el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones; asimismo, evitar que se rebase la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+X.- Accesibilidad universal y movilidad. Promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas con medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, un patrón coherente de redes viales primarias, la distribución jerarquizada de los equipamientos y una efectiva movilidad que privilegie las calles completas, el transporte público, peatonal y no motorizado, y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2025)</small>
+
+XI.- Ciudad compacta. Fomentar el desarrollo y la planeación de ciudades con una mayor densificación y una mezcla de usos de suelo que impulsen la actividad económica, reduzcan la necesidad de desplazamientos extensos y favorezcan la accesibilidad a servicios para la habitabilidad. Este modelo promueve la sostenibilidad en la expansión urbana, la inclusión social y la disminución de los impactos ambientales, priorizando la movilidad activa y el uso eficiente del transporte público.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2023)</small>
 
@@ -1155,9 +1163,9 @@ III.- La celebración de Convenios y Acuerdos de Coordinación en su caso, con l
 
 IV.- La adquisición, asignación o destino de inmuebles para el sector público;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
-V.- La determinación de las condiciones de ubicación y construcción de vivienda, infraestructura y equipamiento de los centros de población;
+V.- La determinación de las condiciones de ubicación, construcción y desarrollo de vivienda, infraestructura y equipamiento de los centros de población, priorizando el modelo de ciudad compacta y ordenada, e incorporando tecnologías sostenibles, la construcción ecológica y la promoción de energías renovables.
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -1319,7 +1327,9 @@ Se entiende contribución por plusvalía, el incremento de valor de los inmueble
 
 El Estado y los Municipios, en coordinación con la Federación en su caso, llevarán a cabo acciones en materia de reservas territoriales para el desarrollo urbano y la vivienda, con objeto de:
 
-I.- Establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
+
+I.- Establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda, dando prioridad a las acciones de ciudad compacta y promoviendo la inclusión social;
 
 II.- Evitar la especulación de inmuebles aptos para el desarrollo urbano y la vivienda;
 
@@ -2884,5 +2894,11 @@ CUARTO. Los Fraccionadores que efectúen obras, construcciones, instalaciones o 
 P.O. 11 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DE IMAGEN URBANA PARA EL ESTADO DE HIDALGO, EN MATERIA DE URBANISMO HOSTIL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE CIUDAD COMPACTA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
