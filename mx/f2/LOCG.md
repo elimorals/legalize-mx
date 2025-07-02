@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2022-12-09"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1810,9 +1810,15 @@ k) Realizar la defensa jurídica de las resoluciones que emita, cuando sean impu
 
 l) Expedir con la intervención de su titular, la certificación de los documentos que obren en sus archivos cuando así se requiera;
 
-m) Emitir las normas administrativas internas, en el ámbito de sus atribuciones, que estime convenientes para regular su funcionamiento, las cuales deberán ser previamente sancionadas por la Mesa Directiva, y
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2025)</small>
 
-n) Las demás que determine la Mesa Directiva.
+m) Emitir las normas administrativas internas, en el ámbito de sus atribuciones, que estime convenientes para regular su funcionamiento, las cuales deberán ser previamente sancionadas por la Mesa Directiva;
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2025)</small>
+
+n) Ejercer las funciones, competencias y atribuciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados que se establecen en las leyes de la materia, y
+
+ñ) Las demás que determine la Mesa Directiva.
 
 2. La Contraloría Interna se auxiliará de las áreas que a continuación se enlistan, cuyas funciones se organizarán y desarrollarán en los ordenamientos administrativos y manuales correspondientes:
 
@@ -1822,9 +1828,17 @@ b) Subcontraloría de Responsabilidades, Quejas y Denuncias;
 
 c) Subcontraloría de Evaluación de la Gestión Administrativa;
 
-d) Subcontraloría de Evaluación de la Gestión Parlamentaria, y
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2025)</small>
 
-e) Coordinación de Auditoría a Grupos Parlamentarios.
+d) Subcontraloría de Evaluación de la Gestión Parlamentaria;
+
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2025)</small>
+
+e) Coordinación de Auditoría a Grupos Parlamentarios, y
+
+> <small>(ADICIONADO, D.O.F. 2 DE JULIO DE 2025)</small>
+
+f) Unidad de Anticorrupción y Transparencia.
 
 3. Las resoluciones del contralor interno se darán a conocer previamente a la Mesa Directiva por conducto de su Presidente.
 
@@ -2793,5 +2807,11 @@ Segundo. La Mesa Directiva de la Cámara de Diputados resolverá el turno de los
 D.O.F. 9 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 100 TER A LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UN INCISO N) AL NUMERAL 1, Y UN INCISO F) AL NUMERAL 2 AL ARTÍCULO 113 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
