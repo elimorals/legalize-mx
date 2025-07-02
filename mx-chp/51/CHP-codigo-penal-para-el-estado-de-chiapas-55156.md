@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2025-06-18"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -6011,9 +6011,63 @@ Se impondrá prisión de uno a seis años y multa de cien a quinientos días de 
 
 ## Título Vigésimo Séptimo. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
 
+### Capítulo Único. Del Maltrato o Crueldad Contra los Animales de Compañía
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
 ###### Artículo 493.
 
 Se impondrá pena de prisión de cuatro a diez años y multa de cien a doscientos días de salario, a quien atente contra los símbolos patrios o valores históricos del Estado, causándoles daño, denostándolos, ridiculizándolos, distorsionándolos, desmeritándolos o de cualquier otra forma ofensiva o agresiva contra los mismos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2025)</small>
+
+## Título Vigésimo Octavo. Delitos en Contra de los Animales de Compañía
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE JULIO DE 2025)</small>
+
+###### Artículo 494.
+
+Para efectos de este Código se entenderá por animales de compañía los pertenecientes a la especie canina (canis lupus familiaris) perro y felina (felis catus) gato, los cuales habitan con seres humanos, viven bajo sus cuidados, preferentemente establecen una relación afectiva en la que ambos resultan beneficiados, que son considerados seres vivos pluricelulares, no humanos, y constituidos por diferentes tejidos, por lo que su tutela conlleva la responsabilidad de garantizar su bienestar físico y psicológico, asegurando condiciones adecuadas de alimentación, hidratación, refugio, atención médica veterinaria, trato digno y respetuoso. Así como aquellos que deambulen libremente por la vía pública sin que habiten o estén bajo el cuidado de una persona.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+###### Artículo 495.
+
+Comete el delito de maltrato o crueldad contra animales de compañía quien, por acción u omisión, cause daño, sufrimiento, lesiones, deterioro a la salud o alteración de su comportamiento, mediante actos de violencia, negligencia o privación de necesidades básicas. Este delito se sancionará con las penas siguientes:
+
+I. Cuando el maltrato y/o crueldad en contra de cualquier animal de compañía, cause lesiones leves que no pongan en peligro la vida del animal y que no produzca un detrimento físico permanente, a la persona que resulte responsable se le impondrá una pena de seis a doce meses de prisión y multa de cincuenta a cien Unidades de Medida y Actualización vigente.
+
+II. Cuando el maltrato y/o crueldad en contra de cualquier animal de compañía cause lesiones que deriven en una afectación física permanente en el animal, a la persona que resulte responsable se le impondrá una pena de doce a veinticuatro meses, así como con una multa equivalente de doscientos a cuatrocientos días de la Unidad de Medida y Actualización vigente. Además, si el responsable ejerce una actividad profesional, técnica o comercial relacionada con el cuidado de animales, se le impondrá la inhabilitación hasta por un periodo de dos años para continuar desempeñándose en dicha labor.
+
+III. Cuando el maltrato y/o crueldad en contra de cualquier animal de compañía resultare en la muerte del animal, a la persona que resulte responsable se le impondrá una pena de dos a cinco años de prisión, y una multa de trescientos a seiscientos días de la Unidad de Medida y Actualización vigente. En caso de que el sujeto activo se dedique al cuidado de animales, se le impondrá, además, inhabilitación hasta por tres años para ejercer dicha profesión, oficio o actividad.
+
+Cuando se utilicen métodos que ocasionen un sufrimiento grave al animal de compañía antes de causarle la muerte, las penas se incrementarán en una mitad. Se considerarán como métodos que provocan un grave sufrimiento aquellos que no produzcan una muerte inmediata y prolonguen la agonía del animal, ya sea por las lesiones infligidas o por el deterioro progresivo de su salud.
+
+IV. Cuando el maltrato y/o crueldad en contra de cualquier animal de compañía se manifieste mediante actos de crueldad extrema, tales como prácticas sádicas, zoofílicas o aquellas que impliquen explotación excesiva de la capacidad física del animal, a la persona que resulte responsable se le impondrá una pena de tres a cinco años de prisión, y una multa de cuatrocientos a seiscientos cincuenta días de la Unidad de Medida y Actualización vigente. En aquellos casos en los que el agresor ejerza una ocupación relacionada con el manejo o cuidado de animales, se le aplicará también una inhabilitación de hasta cinco años para desempeñar dicha actividad.
+
+Para efectos de este Capítulo se considerará como crueldad animal toda conducta intencional dirigida a provocar dolor o sufrimiento a un animal, así como aquellas acciones en las que exista un beneficio o placer derivado del acto violento ejercido en contra de animales de compañía, cuando dicho acto represente un riesgo para su vida o culmine en su muerte, particularmente si esta se produce mediante métodos no autorizados por la legislación vigente, incluyendo el envenenamiento.
+
+Se entenderá por maltrato animal cualquier conducta, ya sea por acción u omisión, atribuible al ser humano, que genere dolor, sufrimiento o deterioro físico, ponga en riesgo la vida o comprometa gravemente la salud e integridad física de animales de compañía.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+###### Artículo 496.
+
+A quien abandone un animal de compañía, poniendo en riesgo la vida o integridad de éste, se le impondrá una pena de dieciocho meses a tres años de prisión, y una multa de cien a doscientos días del valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+###### Artículo 497.
+
+Se impondrán de dos a cuatro años de prisión y una multa de quinientos a mil días de la Unidad de Medida y Actualización vigente, así como el decomiso de los objetos, instrumentos y productos del delito, la clausura del establecimiento y la cancelación del permiso o licencia, a quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, todo acto cuyo objeto sea la pelea de perros, ya sea en un espectáculo público o privado.
+
+Las mismas penas se impondrán a quien ayude a procurar la desaparición o alteración de los rastros, pruebas o instrumentos utilizados para organización o de las actividades previstas en este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+###### Artículo 498.
+
+Los delitos previstos en este Capítulo se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
 ## Transitorios
 
@@ -6486,3 +6540,11 @@ Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor 
 Artículo Tercero.- Los Entes Públicos en el ámbito de sus respectivas competencias, deberán realizar de inmediato las adecuaciones normativas, reglamentarias y administrativas pertinentes para proveer al eficaz cumplimiento a las disposiciones del presente Decreto.
 
 Artículo Cuarto.- Para el caso que se pudieran generar erogaciones con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los recursos de los Entes Públicos en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 285 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE PROTECCIÓN Y CUIDADO DE ANIMALES DE COMPAÑÍA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
