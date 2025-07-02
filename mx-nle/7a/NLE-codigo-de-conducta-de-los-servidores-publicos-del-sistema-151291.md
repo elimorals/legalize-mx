@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-del-sistema-15129
 country: "mx"
 rank: "codigo"
 publication_date: "2021-09-24"
-last_updated: "2021-09-24"
+last_updated: "2025-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL SISTEMA INTEGRAL PARA EL MANEJO ECOLOGICO Y PROCESAMIENTO DE DESECHOS, O.P.D. (SIMEPRODE)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA INTEGRAL PARA EL MANEJO ECOLÓGICO Y PROCESAMIENTO DE DESECHOS (SIMEPRODE) DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL SISTEMA INTEGRAL PARA EL MANEJO ECOLÓGICO Y PROCESAMIENTO DE DESECHOS, O.P.D. (SIMEPRODE)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en el Número 117 del Periódico Oficial del Estado de Nuevo León, el viernes 24 de septiembre de 2021.
 
@@ -240,3 +242,15 @@ Así lo acuerda y firma a los 2-dos días del mes de septiembre de 2021-dos mil 
 EL C. DIRECTOR GENERAL DEL SISTEMA ÍNTEGRAL PARA EL MANEJO ECOLÓGICO Y PROCESAMIENTO DE DESECHOS, O.P.D. (SIMEPRODE)
 
 LIC. FERNANDO LARIOS OSORIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA INTEGRAL PARA EL MANEJO ECOLÓGICO Y PROCESAMIENTO DE DESECHOS (SIMEPRODE)".]
+
+PRIMERO. El presente Código de Conducta, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Conducta de los servidores públicos del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos (SIMEPRODE), del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 24 de septiembre de 2021.
+
+TERCERO. Las personas servidoras públicas del Sistema Integral para el Manejo Ecológico y Procesamiento de Desechos (SIMEPRODE), a la entrada en vigor del presente Código de Conducta, contarán con un plazo de 30 días hábiles para protestar y suscribir una carta compromiso en la que asentarán conocer, comprender y dar cumplimiento, tanto al presente Código de Conducta como al Código de Ética.
