@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2025-05-21"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -1480,6 +1480,14 @@ II. Sugerir las medidas que estimen pertinentes para el mejoramiento del Servici
 III. Recibir percepciones acordes con las características de sus funciones y niveles de responsabilidad y riesgo en el desempeño de las mismas, de conformidad con la disponibilidad presupuestal y las normas aplicables.
 
 IV. Gozar de las prestaciones y servicios en materia de seguridad social, conforme a las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+En el caso de las mujeres integrantes de las instituciones policiales, tendrán derecho durante el período de gravidez, a ser cambiadas de su área de adscripción, con el fin de no poner en riesgo su salud y la del producto; así como, a que les sea garantizado el derecho humano a la lactancia materna y el acceso a acciones integrales que den seguimiento a su salud gestacional.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+Todo esto, preferentemente dentro del lugar de su residencia.
 
 V. Acceder al sistema de estímulos o reconocimientos cuando su conducta y desempeño así lo ameriten, de acuerdo con las normas aplicables y la disponibilidad presupuestal.
 
@@ -4714,3 +4722,11 @@ Vocal: Diputado Pedro Torres Estrada.
 Pudiendo auxiliarse en cualquier momento, del Diputado Octavio Javier Borunda Quevedo.
 
 Secretaría Técnica: Guillermo Trejo Neder.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0205/2025 II P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 74, FRACCIÓN IV, LOS PÁRRAFOS SEGUNDO Y TERCERO, DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
