@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2025-05-28"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -2623,11 +2623,11 @@ Derivado de las controversias que se susciten en los procedimientos de los siste
 
 La educación superior en Chiapas deberá incidir en el desarrollo de las comunidades y regiones del Estado, a través de la investigación, de la extensión y socialización del conocimiento y la cultura y de la formación de profesionales con compromiso social competentes para participar en la resolución de los problemas de la sociedad con el fin de fortalecer la gobernabilidad democrática, la vigencia del Estado de Derecho e impulsar las bases para la inversión y el desarrollo sostenible en la región.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2025)</small>
 
 ###### Artículo 104.
 
-La Universidad Autónoma de Chiapas, desde su fundación está orientada a la formación de ciudadanos que contribuyan al desarrollo sostenible de sus comunidades para lo que se constituye como un organismo autónomo descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado.
+La Benemérita Universidad Autónoma de Chiapas, desde su fundación está orientada a la formación de ciudadanos que contribuyan al desarrollo sostenible de sus comunidades para lo que se constituye como un organismo autónomo descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2025)</small>
 
@@ -5306,3 +5306,13 @@ Los recursos materiales, así como los registros, padrones, plataformas y sistem
 Artículo Quinto.- Los personas que se desempeñan como Comisionados o Comisionadas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor de la legislación secundaria aludida en el artículo Tercero Transitorio.
 
 Artículo Sexto.- Los derechos laborales de las personas servidoras públicas adscritas al Órgano Garante en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Chiapas, serán respetados en su totalidad, en términos de la legislación aplicable. Los recursos humanos con que cuente el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Chiapas, pasarán a formar parte del Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría Anticorrupción y Buen Gobierno, que asuma sus funciones, cuando corresponda.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 282 POR EL QUE SE REFORMA EL ARTÍCULO 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto, el Honorable Congreso del Estado, deberá llevar a cabo las modificaciones a la Ley Orgánica de la Universidad Autónoma de Chiapas, a efecto de armonizarla a este instrumento legislativo.
