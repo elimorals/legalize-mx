@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2024-09-25"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -257,9 +257,9 @@ XXIV. Promover, en conjunto con organismos especializados, programas que conteng
 
 XXV. Promover la educación intercultural en pro de la paz y el entendimiento entre las expresiones culturales compartidas.
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE JULIO DE 2025)</small>
 
-XXVI. Promover la higiene bucodental.
+XXVI. Concientizar al alumnado sobre la importancia de la prevención y detección oportuna de todos los tipos de cáncer, a fin de que puedan tomar decisiones saludables y reducir los riesgos de contraerlos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -4710,6 +4710,14 @@ La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las 
 P.O. 25 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0894/2024 XIII P.E., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 111 BIS A LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0208/2025 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXVI, DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ###### ARTÍCULO ÚNICO.
 
