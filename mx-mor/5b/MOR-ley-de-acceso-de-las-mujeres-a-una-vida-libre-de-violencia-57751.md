@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2024-09-30"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -485,9 +485,13 @@ X.- Violencia Vicaria.- Es la acción u omisión cometida en contra de una mujer
 
 La Fiscalía General del Estado de Morelos, las autoridades jurisdiccionales y cualquier otra autoridad que conozca de un asunto de violencia vicaria, en el ámbito de su competencia, deberán realizar todos los actos necesarios para salvaguardar la integridad física y psicológica de las mujeres, sus hijas e hijos de manera inmediata una vez teniendo conocimiento formal de la configuración de la Violencia Vicaria.
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2025)</small>
+
+XI.- Violencia ácida.– Aquella que causa daño en la salud o integridad física de una mujer, por medio del empleo de ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que provoca lesiones internas, externas, o ambas, en razón de género, con el fin de causar de forma deliberada y permanente dolor, sufrimiento y humillación, además de provocar daño físico, psicológico y emocional irreversible.
+
 > <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2018)</small>
 
-XI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
 
@@ -2348,3 +2352,13 @@ DÉCIMA PRIMERA. Los asuntos que se encuentren en trámite o en proceso en las S
 DÉCIMA SEGUNDA. Las Secretarías de Hacienda, de la Contraloría y de Administración tendrán un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los actos administrativos idóneos y necesarios, así como la transferencia de recursos humanos, materiales, organizacionales, financieros, presupuestales y demás que resulten necesarios por los cambios contemplados en el presente Decreto.
 
 DÉCIMA TERCERA. El personal de las Secretarías o Dependencias que, con la aplicación de este Decreto se adscriba a otras, en ninguna forma podrá resultar afectado en los derechos que haya adquirido por su relación laboral con la Administración Pública del Estado de Morelos, debiéndose tomar las acciones necesarias para ello.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS NUEVE.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado.
+
+TERCERO. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
