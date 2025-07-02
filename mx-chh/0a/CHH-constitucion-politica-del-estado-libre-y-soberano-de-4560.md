@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2024-12-28"
+last_updated: "2025-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE DICIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -198,6 +196,14 @@ En todas las decisiones y actuaciones del Estado se velará y cumplirá con el p
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2021)</small>
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+Toda persona tiene derecho a la protección de la salud física y mental. La Ley en la materia definirá las bases y modalidades para el acceso a los servicios de salud del Estado y establecerá la concurrencia con los municipios en materia de salubridad local.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2025)</small>
+
+Toda persona tiene derecho a una alimentación adecuada, nutritiva, suficiente y de calidad. La Ley en la materia establecerá la forma y términos en los que se garantizará este derecho.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3187,9 +3193,9 @@ C) Coadyuvará en la Seguridad Escolar y contribuirá a la mejor convivencia hum
 
 D) Será intercultural a fin de propiciar el establecimiento de relaciones sociales horizontales, encaminadas al entendimiento y enriquecimiento de las diferentes culturas, tanto en lo personal como en lo colectivo.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2025)</small>
 
-E) Fomentará el cuidado y la conservación del medio ambiente, para el desarrollo sustentable y bienestar de las y los chihuahuenses, contribuyendo al respeto del derecho a un medio ambiente sano y la prevención del daño y deterioro ambiental.
+E) Fomentará el cuidado y la conservación del medio ambiente, el uso racional de los recursos naturales para el desarrollo sustentable y bienestar de las y los chihuahuenses, contribuyendo al respeto del derecho a un medio ambiente sano y la prevención del daño y deterioro ambiental.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -5764,3 +5770,27 @@ DÉCIMO.- El lunes 16 de junio de 2025 se conformará e iniciará sus funciones 
 UNDÉCIMO.- Por única ocasión, la renovación de los cargos del Poder Judicial del Estado se realizará en el año 2025, por un periodo de 8 años, con el fin de homologarse con el calendario de renovación del Poder Judicial federal.
 
 DUODÉCIMO.- En atención a lo que dispone el artículo 202 de la Constitución Política del Estado de Chihuahua, envíese copia de las iniciativas, del dictamen y del Diario de los Debates al Congreso del Estado, a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVIII/RFCNT/0085/2024 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 144, FRACCIÓN II, INCISO E), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFCNT/0088/2024 I P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 4º, LOS PÁRRAFOS VIGÉSIMO OCTAVO Y VIGÉSIMO NOVENO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
