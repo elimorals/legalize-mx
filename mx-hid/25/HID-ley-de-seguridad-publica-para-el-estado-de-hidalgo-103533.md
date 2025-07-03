@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2024-07-02"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -1319,9 +1319,13 @@ V. Vigilar el cumplimiento y aplicación de disposiciones en materia de tránsit
 
 Son derechos de los integrantes de las instituciones policiales, los siguientes:
 
-I. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-II. Asistir y participar en los cursos de capacitación, actualización, profesionalización y especialización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas nacionales y del extranjero que tengan relación con sus funciones, conforme a la disponibilidad presupuestal y las necesidades del servicio;
+I. Gozar de un trato digno, respetuoso y decoroso por parte de sus superiores jerárquicos, iguales o subalternos, así como de todas las personas que habitan o se encuentran en tránsito en el Estado;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
+
+II. Recibir en igualdad de oportunidades, los cursos de profesionalización capacitación, y actualización, especialización correspondientes, así como en aquellos que se acuerden con otras instituciones académicas nacionales y del extranjero que tengan relación con sus funciones, conforme a la disponibilidad presupuestal y las necesidades del servicio;
 
 III. Revisar periódicamente y en su caso, solicitar que se rectifiquen sus datos en el Registro de Personal, a fin de que la información contenida sea verídica y actual;
 
@@ -3276,3 +3280,9 @@ P.O. 2 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1005 QUE REFORMA EL ARTÍCULO 7, 16 FRACCIÓN V, 30 PÁRRAFO PRIMERO Y 31 PÁRRAFO TERCERO INCISO B) DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 279 - LXVI QUE REFORMA LA FRACCIÓN I Y II DEL ARTÍCULO 50 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
