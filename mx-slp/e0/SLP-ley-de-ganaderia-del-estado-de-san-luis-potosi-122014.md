@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2023-05-17"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -838,6 +838,10 @@ III. Fomentar la organización de productores, la integración de iniciativa pri
 IV. Cuando se establezcan atendiendo a la (sic) políticas de reordenación territorial, y
 
 V. Cuando favorezcan la capacitación y especialización del personal y fomentar la tecnificación y especialización de la actividad, generando mejores condiciones de productividad, competitividad y mejores condiciones de vida de los productores y sus familias que se dedican a la actividad pecuaria en el Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2025)</small>
+
+ARTÍCULO 38 BIS. El Poder Ejecutivo del estado a través de la SEDARH, realizará campañas de difusión e información sobre los programas que otorguen apoyos a la ganadería, tanto de carácter estatal, municipal y federal, al igual que aquellos ofrecidos por organismos internacionales.
 
 ### Capítulo III. De las Exposiciones, Subastas, Concursos, y Eventos Ganaderos
 
@@ -2164,5 +2168,13 @@ P.O. 17 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0755.- SE REFORMA EL ARTÍCULO 43, EN SUS FRACCIONES I, IV Y V; Y ADICIONA AL MISMO ARTÍCULO 43, LA FRACCIÓN VI, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0223.- QUE ADICIONA EL ARTÍCULO 38 BIS A LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 79 BIS A LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
