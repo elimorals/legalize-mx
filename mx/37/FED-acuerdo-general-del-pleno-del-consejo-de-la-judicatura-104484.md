@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2023-09-07"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2025.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -2151,17 +2151,17 @@ Cuando se trate de averiguaciones con dos o más inculpados, las columnas previs
 
 #### SECCIÓN TERCERA. LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES, D.O.F. 3 DE JULIO DE 2025)</small>
 
 ###### Artículo 111.
 
-En el libro de asuntos civiles, administrativos y/o laborales se anotarán sin excepción, todos los asuntos civiles, mercantiles, administrativos y/o laborales, así como los procedimientos no contenciosos que se promuevan en el juzgado de Distrito o tribunal laboral federal respectivo.
+En el libro de asuntos civiles, administrativos y/o laborales se anotarán sin excepción, todos los asuntos civiles, mercantiles, administrativos, laborales, los procedimientos de ejecución cuando se acuda a la instancia jurisdiccional para dar cumplimiento a un laudo arbitral, sentencia dictada en un conflicto colectivo de naturaleza económica o un convenio celebrado ante el Centro Federal de Conciliación y Registro Laboral, así como los procedimientos no contenciosos que se promuevan en el juzgado de Distrito o tribunal laboral federal respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES, D.O.F. 3 DE JULIO DE 2025)</small>
 
 ###### Artículo 112.
 
-El libro de asuntos civiles, administrativos y/o laborales constará de seis apartados: Demanda o promoción inicial, Auto inicial, Sentencia, Apelación, Archivo y Observaciones, los cuales se utilizarán de la siguiente forma:
+El libro de asuntos civiles, administrativos y/o laborales constará de seis apartados: Demanda o promoción inicial, Auto inicial, Sentencia o resolución, Apelación, Archivo y Observaciones, los cuales se utilizarán de la siguiente forma:
 
 I. Demanda o promoción inicial: se dividirá en seis rubros: Número de orden, Actor o promovente, Demandado, Materia, Naturaleza del procedimiento y Prestación demandada, en los cuales, se anotará:
 
@@ -2173,9 +2173,13 @@ c) Demandado: se anotará el nombre de la o las personas en contra de las cuales
 
 d) Materia: se anotará precisamente la materia a la que pertenezca el asunto que se promueva;
 
-e) Naturaleza del procedimiento: se indicará si se trata de un juicio ordinario, ejecutivo, etcétera, o de diligencias de jurisdicción voluntaria. Cuando se promueva un procedimiento distinto de los señalados, deberá especificarse con claridad el tipo de asunto de que se trate; y
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES, D.O.F. 3 DE JULIO DE 2025)</small>
 
-f) Prestación demandada: se anotarán en forma breve las prestaciones que se demanden en el juicio respectivo, o en el caso de diligencias de jurisdicción voluntaria o de cualquier otro tipo de procedimiento especial no contencioso, el objeto de los mismos;
+e) Naturaleza del procedimiento: se indicará si se trata de un juicio ordinario, ejecutivo, procedimientos de ejecución, etcétera, o de diligencias de jurisdicción voluntaria. Cuando se promueva un procedimiento distinto de los señalados, deberá especificarse con claridad la naturaleza del procedimiento de que se trate; y
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES, D.O.F. 3 DE JULIO DE 2025)</small>
+
+f) Prestación demandada: contendrá en forma breve las prestaciones que se demanden en el juicio respectivo. En el caso de los procedimientos de ejecución, diligencias de jurisdicción voluntaria o de cualquier otro tipo de procedimiento especial no contencioso, el objeto de los mismos;
 
 II. Auto inicial: constará de dos rubros: Fecha y Sentido, en los cuales se anotará:
 
@@ -2187,7 +2191,9 @@ III. Sentencia o resolución: contendrá dos rubros: Fecha y Sentido, en los que
 
 a) Fecha: el día, mes y año en que se dicte la sentencia definitiva o la resolución que ponga fin al procedimiento; y
 
-b) Sentido: se registrará el sentido de la sentencia o la resolución mencionadas, anotando a manera de ejemplo, las expresiones: "impedimento", "incompetencia", "desechamiento", "acumulación", "desistimiento", "sin materia", "caducidad", "absolutoria", "declaratoria", "condenatoria", etcétera;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES, D.O.F. 3 DE JULIO DE 2025)</small>
+
+b) Sentido: se registrará el sentido de la sentencia o la resolución mencionadas, anotando a manera de ejemplo, las expresiones: “impedimento”, “incompetencia”, “desechamiento”, “acumulación”, “desistimiento”, “sin materia”, “caducidad”, “absolutoria”, “declaratoria”, “condenatoria”, “conclusión de procedimiento de ejecución”, “no procede la solicitud del procedimiento de ejecución”, etcétera;
 
 IV. Apelación constará de dos rubros: Fecha de remisión y Resolución, en los que se anotará:
 
@@ -6908,3 +6914,13 @@ OCTAVO. El órgano jurisdiccional que se encuentre gozando su periodo vacacional
 NOVENO. Se instruye a la Dirección General de Tecnologías de la Información y a la Dirección General de Gestión Judicial del Consejo de la Judicatura Federal, para que a más tardar a los dos meses después de la entrada en vigor del presente Acuerdo, realicen los ajustes necesarios en el Sistema Integral de Seguimiento de Expedientes y en el Portal de Servicios en Línea del Poder Judicial de la Federación, a efecto de que las partes que pretendan presentar una promoción electrónica dirigida a un Juzgados (sic) de Distrito que se encuentre gozando de su periodo vacacional conforme al calendario, sean informadas que únicamente se dará trámite si corresponde a los supuestos de la Guardia Vacacional, en caso contrario, será atendida hasta el regreso de actividades del órgano jurisdiccional, así como para que se informe que no corren plazos ni términos durante el periodo vacacional de cada juzgado en asuntos que no son competencia de la referida Guardia.
 
 DÉCIMO. Se instruye a la Dirección General de Comunicación Social del Consejo de la Judicatura Federal para que realice las campañas necesarias para dar plena difusión al contenido del presente Acuerdo y el calendario anexo entre los integrantes de la sociedad y el foro jurídico para su pleno conocimiento.
+
+D.O.F. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON EL LIBRO TRES DE ASUNTOS CIVILES, ADMINISTRATIVOS Y LABORALES PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información deberán llevar a cabo las acciones necesarias en el Sistema Integral de Gestión de Expedientes para el debido cumplimiento de este Acuerdo.
