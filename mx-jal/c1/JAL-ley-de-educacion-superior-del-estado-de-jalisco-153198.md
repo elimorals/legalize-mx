@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-superior-del-estado-de-jalisco-153198"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-25"
-last_updated: "2023-08-03"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada al Sección VI al Número 3 del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2021.
 
@@ -175,7 +175,9 @@ V. La construcción de relaciones sociales, económicas y culturales basadas en 
 
 VI. El combate a todo tipo y modalidad de discriminación y violencia, con especial énfasis en la que se ejerce contra las niñas y las mujeres, las personas con discapacidad o en situación de vulnerabilidad social, y la promoción del cambio cultural para construir una sociedad que fomente la igualdad sustantiva entre mujeres y hombres;
 
-VII. El respeto y cuidado del medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de la naturaleza con los temas sociales y económicos, para garantizar su preservación y promover estilos de vida sustentables;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
+
+VII. El respeto y cuidado del medio ambiente y la protección y el cuidado de los animales, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación de la naturaleza con los temas sociales y económicos, para garantizar su preservación y promover estilos de vida sustentables;
 
 VIII. La formación en habilidades digitales y el uso responsable de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el proceso de construcción de saberes como mecanismo que contribuya a mejorar el desempeño y los resultados académicos; y
 
@@ -207,7 +209,9 @@ X. La cultura de la paz y la resolución pacífica de los conflictos, así como 
 
 XI. La accesibilidad a los ámbitos de la cultura, el arte, el deporte, la ciencia, la tecnología, la innovación y el conocimiento humanístico y social en lo local, nacional y universal;
 
-XII. El respeto, cuidado y preservación del medio ambiente y la biodiversidad;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
+
+XII. El respeto, cuidado y preservación del medio ambiente y la biodiversidad, la protección y el cuidado de los animales;
 
 XIII. La transparencia, el acceso a la información, la protección de los datos personales y la rendición de cuentas, a través del ejercicio disciplinado, honesto y responsable de los recursos financieros, humanos y materiales, de conformidad con la normatividad aplicable;
 
@@ -257,7 +261,9 @@ III. Promover la actualización y el aprendizaje a lo largo de la vida con el fi
 
 IV. Fomentar los conocimientos y habilidades digitales a fin de coadyuvar a la eliminación de la brecha digital en la enseñanza;
 
-V. Coadyuvar, a través de la generación, transmisión, aplicación y difusión del conocimiento, a la solución de los problemas locales, regionales, nacionales e internacionales, al cuidado y sustentabilidad del medio ambiente, así como al desarrollo sostenible del país y a la conformación de una sociedad más justa e incluyente;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
+
+V. Coadyuvar, a través de la generación, transmisión, aplicación y difusión del conocimiento, a la solución de los problemas locales, regionales, nacionales e internacionales, al cuidado y sustentabilidad del medio ambiente, la protección y el cuidado de los animales, así como al desarrollo sostenible del país y a la conformación de una sociedad más justa e incluyente;
 
 VI. Contribuir a la preservación, enriquecimiento y difusión de los bienes y valores de las diversas culturas;
 
@@ -739,7 +745,9 @@ XV. Todas aquellas que contribuyan al logro de los criterios, fines y políticas
 
 ###### Artículo 40.
 
-1. Se promoverá que el establecimiento y extensión de las instituciones de educación superior o la creación de programas educativos, tomen en cuenta el Programa Sectorial de Educación, los Programas Nacional y Estatales de Educación Superior, así como los planes de las instituciones de educación superior y las demandas de la sociedad en la materia, bajo criterios de pertinencia, excelencia, equidad, inclusión ,interculturalidad y cuidado del medio ambiente, además del entorno mundial y las necesidades nacionales, regionales, estatales y locales.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+1. Se promoverá que el establecimiento y extensión de las instituciones de educación superior o la creación de programas educativos, tomen en cuenta el Programa Sectorial de Educación, los Programas Nacional y Estatales de Educación Superior, así como los planes de las instituciones de educación superior y las demandas de la sociedad en la materia, bajo criterios de pertinencia, excelencia, equidad, inclusión, interculturalidad, cuidado del medio ambiente, la protección y el cuidado de los animales, además del entorno mundial y las necesidades nacionales, regionales, estatales y locales.
 
 ###### Artículo 41.
 
@@ -1464,3 +1472,11 @@ P.O. 3 DE AGOSTO DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Las personas titulares del Poder Ejecutivo y de la Secretaría de Innovación, Ciencia y Tecnología del Estado de Jalisco, emitirán y adecuarán los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en el presente decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29844/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 11, PRIMER PÁRRAFO Y FRACCIÓN V, 14, PRIMER PÁRRAFO Y FRACCIÓN V, Y 15 FRACCIÓN III DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; ASÍ COMO LOS ARTÍCULOS 9, NUMERAL 1, FRACCIÓN VII, 10, NUMERAL 1, FRACCIÓN XII, 11, NUMERAL 1, FRACCIÓN V, Y 40 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación del Estado de Jalisco y la Secretaría de Innovación, Ciencia y Tecnología del Estado de Jalisco, deberán realizar las acciones que consideren necesarias para llevar a cabo lo establecido en el presente decreto.
