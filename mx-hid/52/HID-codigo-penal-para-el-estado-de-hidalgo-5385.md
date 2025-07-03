@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2025-03-26"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -3769,7 +3769,7 @@ Cuando el responsable tenga el carácter de particular, el Juez deberá además 
 
 ## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JULIO DE 2025)</small>
 
 ### CAPITULO IV. FALSEDAD ANTE LA AUTORIDAD
 
@@ -3935,9 +3935,9 @@ Se duplicará la punibilidad prevista en este artículo, cuando cualquiera de la
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PÚBLICOS
+### CAPITULO I. DELITOS COMETIDOS POR PERSONAS SERVIDORAS PÚBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2025)</small>
 
 ### CAPITULO II. FRAUDE PROCESAL
 
@@ -3953,7 +3953,7 @@ Se duplicará la punibilidad prevista en este artículo, cuando cualquiera de la
 
 ###### ARTICULO 322.
 
-Se impondrá de tres a ocho años de prisión y multa de 10 a 200 veces el valor diario de la Unidad de Medida y Actualización, al servidor público encargado de la procuración o administración de justicia que dolosamente cometa alguna de las siguientes conductas:
+Se impondrá de tres a ocho años de prisión y multa de 10 a 200 veces el valor diario de la Unidad de Medida y Actualización, a la persona servidora pública que, en contra de la procuración y administración de justicia, cometa alguna de las siguientes conductas:
 
 I.- Conocer de negocios para los cuales tenga impedimento legal o abstenerse de conocer de los que le corresponda, sin tener impedimento legal para ello;
 
@@ -4049,9 +4049,13 @@ XXXI.- No dicte auto de vinculación a proceso o de libertad de un detenido, den
 
 XXXII.- De a conocer a quien no tenga derecho, los documentos, constancias o información que obren en un expediente, carpeta de investigación o en un proceso penal y que, por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
 
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-XXXIII.- Desvíe u obstaculice la investigación del hecho delictuoso de que se trate o favorezca que el imputado se sustraiga de la acción de la justicia.
+XXXIII.- Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga de la acción de la justicia; y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2025)</small>
+
+XXXIV.- Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, numerario, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia.
 
 > <small>(REFORMADO, P.O. 10 JULIO DE 2023)</small>
 
@@ -5076,3 +5080,9 @@ P.O. 26 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 217 – LXVI QUE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 230 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 278 - LXVI QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, EL PRIMER PÁRRAFO DEL ARTÍCULO 322 Y SU FRACCIÓN XXXIII; Y SE ADICIONA LA FRACCIÓN XXXIV DEL ARTÍCULO 322, DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
