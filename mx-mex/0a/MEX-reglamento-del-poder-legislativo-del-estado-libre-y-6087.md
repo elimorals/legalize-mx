@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2025-04-09"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2025.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -241,9 +241,13 @@ c) Las correspondientes a la adopción de medidas de previsión social; y
 
 d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-VI. La Comisión de Educación, Cultura, Ciencia y Tecnología, conocerá de los temas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE JULIO DE 2025)</small>
 
-a) La legislación relacionada con la educación, cultura, ciencia, e investigación científica y tecnológica del Estado;
+VI. La Comisión de Educación, Cultura, Ciencia, Tecnología e Innovación, conocerá de los temas siguientes:
+
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2025)</small>
+
+a) La legislación relacionada con la educación, cultura, ciencia, innovación, e investigación científica y tecnológica del Estado;
 
 b) La Ley Orgánica de la Universidad Autónoma del Estado de México y demás relativas; y
 
@@ -3406,3 +3410,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
+
+G.G. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 124.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VI Y SU INCISO A) DEL ARTÍCULO 13-A, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
