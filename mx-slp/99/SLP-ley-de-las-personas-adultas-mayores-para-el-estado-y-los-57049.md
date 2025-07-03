@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2025-06-23"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -189,6 +189,10 @@ XVIII. Inclusión: conjunto de acciones que aseguran a las personas adultas mayo
 
 XIX. INFONAVIT: Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2025)</small>
+
+XIX BIS. Integración social: resultado de las acciones que realizan las dependencias y entidades de la administración pública, estatal y municipal, las familias y la sociedad civil organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral;
+
 XX. Personas adultas mayores: toda persona de sesenta años o más de edad;
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
@@ -281,9 +285,9 @@ V. Al trabajo:
 
 a) A gozar de igualdad de oportunidades en el acceso al trabajo, o de otras opciones que le permitan un ingreso propio, y desempeñarse en forma productiva tanto tiempo como lo deseen, así como a recibir protección de los ordenamientos de carácter laboral.
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE JULIO DE 2025)</small>
 
-b) A la plena inclusión laboral en los organismos públicos y privados;
+b) A ser sujetos de acciones y políticas públicas de parte de las instituciones, estatales y municipales, a efecto de fortalecer su plena integración social;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -665,6 +669,10 @@ e) Realizar campañas de sensibilización en coordinación con el INAPAM, para l
 
 f) Las demás que establezca el Reglamento de esta Ley;
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2025)</small>
+
+g) Fomentar en la familia, el Estado y la sociedad, una cultura de aprecio a la vejez para lograr un trato digno, favorecer su revalorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, género, estado físico o condición social;
+
 II. Atención:
 
 a) Asistir a las personas adultas mayores en situación de violencia, en estancias temporales y permanentes.
@@ -691,7 +699,9 @@ a) Establecer en coordinación con el INAPAM, la política estatal en materia de
 
 b) Proponer en sus respectivos proyectos anuales de presupuesto de egresos, de forma gradual, a corto, mediano y largo plazo, los recursos necesarios para el desarrollo de infraestructura de primer, segundo y tercer nivel, consistentes en consultorios gerontológicos, unidades gerontológicas en hospitales generales y un hospital geriátrico.
 
-c) Incentivar, apoyar y coordinar con el INAPAM, la Secretaría de Educación de Gobierno del Estado, Universidad Autónoma de San Luis Potosí, el Consejo Potosino de Ciencia y Tecnología, y demás instituciones de educación media y superior, la realización de conferencias, convenciones, congresos e investigaciones en materia de geronto-geriátrica.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+c) Incentivar, apoyar y coordinar con el INAPAM, la Secretaría de Educación de Gobierno del Estado, Universidad Autónoma de San Luis Potosí, el Consejo Potosino de Ciencia y Tecnología, y demás instituciones de educación media y superior, la realización de conferencias, convenciones, congresos e investigaciones en materia de geronto-geriátrica y garantizar el acceso a las nuevas tecnologías.
 
 d) Apoyar e impulsar a especialistas en materia geriátrica para intercambios nacionales e internacionales, y/o cooperación en materia de investigación científica.
 
@@ -1414,3 +1424,19 @@ P.O. 23 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0224.- QUE REFORMA EL ARTÍCULO 24, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0228.- QUE REALIZA ADICIONES A LOS ARTÍCULOS 5°, 6° Y 23, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
