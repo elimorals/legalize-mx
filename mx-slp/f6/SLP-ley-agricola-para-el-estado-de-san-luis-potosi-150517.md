@@ -4,7 +4,7 @@ identifier: "SLP-ley-agricola-para-el-estado-de-san-luis-potosi-150517"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-05"
-last_updated: "2023-03-14"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 2021.
 
@@ -837,6 +837,10 @@ III. Respaldar a los productores y organizaciones agrícolas en la comercializac
 
 Los comités directivos de las organizaciones agrícolas serán los órganos de comunicación entre el productor agrícola asociado, las instituciones financieras y las que se funden con recursos de los mismos productores agrícolas, para todo lo relacionado con la obtención y aplicación de créditos. El solicitante presentará a la organización agrícola a la que pertenezca su petición por escrito, la que deberá contener los requisitos que determine la institución financiera que corresponda.
 
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2025)</small>
+
+ARTÍCULO 79 BIS. El Poder Ejecutivo del estado a través de la SEDARH, realizará campañas de difusión e información sobre los programas que otorguen apoyos a la agricultura, tanto de carácter estatal, municipal, federal, al igual que aquellos ofrecidos por organismos internacionales.
+
 ### Capítulo VI. Investigación Agrícola y Transferencia de Tecnología
 
 ###### ARTÍCULO 80.
@@ -1048,5 +1052,13 @@ P.O. 14 DE MARZO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0716.- SE REFORMAN LOS ARTÍCULOS 3º, EN SU FRACCIÓN IV, 7º EN SUS FRACCIONES XVII Y XXIII, 34 Y 56 EN SU FRACCIÓN II; Y ADICIONA AL ARTÍCULO 4º, LA FRACCIÓN XXIII, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0223.- QUE ADICIONA EL ARTÍCULO 38 BIS A LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 79 BIS A LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
