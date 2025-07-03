@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-y-apoyo-a-migrantes-del-estado-de-san-luis-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-13"
-last_updated: "2025-06-23"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 13 de julio de 2018.
 
@@ -139,13 +139,17 @@ I. El otorgamiento de información respecto a programas de atención a migrantes
 
 II. La inscripción de los migrantes en el Registro Estatal;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-III. El acceso a servicios y prestaciones de los programas de atención a migrantes, y
+III. El acceso a servicios y prestaciones de los programas de atención a migrantes;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-IV. Garantizar en todo momento el respeto y protección de sus derechos humanos.
+IV. Garantizar en todo momento el respeto y protección de sus derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2025)</small>
+
+V. Salvaguardar el interés superior de niñas, niños y adolescentes migrantes, observando lo establecido en la Ley de los Derechos de Niñas Niños y Adolescentes del Estado de San Luis Potosí.
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO DE MIGRACIÓN Y ENLACE INTERNACIONAL DEL ESTADO DE SAN LUIS POTOSÍ
 
@@ -658,5 +662,13 @@ P.O. 23 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- QUE REFORMA DIVERSAS LEYES ESTATALES EN MATERIA SOCIAL Y DE IGUALDAD DE GÉNERO, RELACIONADAS CON LA SECRETARÍA DE LAS MUJERES E IGUALDAD SUSTANTIVA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0227.- QUE REFORMA Y ADICIONA EL ARTÍCULO 10, DE LA LEY DE ATENCIÓN Y APOYO A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
