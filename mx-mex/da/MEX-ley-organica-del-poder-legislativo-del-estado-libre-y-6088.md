@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2025-04-09"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2025.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1131,7 +1131,9 @@ IV. Planeación y Gasto Público;
 
 V. Trabajo, Previsión y Seguridad Social;
 
-VI. Educación, Cultura, Ciencia y Tecnología;
+> <small>(REFORMADA, G.G. 3 DE JULIO DE 2025)</small>
+
+VI. Educación, Cultura, Ciencia, Tecnología e Innovación;
 
 VII. Desarrollo Urbano;
 
@@ -2820,3 +2822,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
+
+G.G. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 124.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VI Y SU INCISO A) DEL ARTÍCULO 13-A, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
