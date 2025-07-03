@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2024-03-09"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -191,11 +191,11 @@ VIII. Promover el valor de la justicia, la igualdad de derechos entre las person
 
 Bases para el fomento de la educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2025)</small>
 
 ###### Artículo 11.
 
-En el estado de Jalisco se fomentará en las personas una educación basada en:
+En el Estado de Jalisco se fomentará en las personas una educación basada en:
 
 I. La identidad y el sentido de pertenencia como jalisciense, además del respeto desde la interculturalidad, para considerarse como parte de una nación pluricultural y plurilingüe con una historia que cimienta perspectivas del futuro, que promueva la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;
 
@@ -207,9 +207,9 @@ III. La participación activa en la transformación de la sociedad, al emplear e
 
 IV. El desarrollo de habilidades para acceder y generar sentimientos que faciliten la habilidad de percibir, valorar y expresar las emociones que promuevan el crecimiento intelectual y de convivencia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-V. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida saludables, sostenibles; y
+V. El respeto y cuidado al medio ambiente, la protección y el cuidado de los animales, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida saludables, sostenibles, el trato ético y responsable hacia los animales; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
@@ -291,9 +291,11 @@ X. Todos aquellos que contribuyan al bienestar y desarrollo del país y del esta
 
 Criterios de la educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2025)</small>
+
 ###### Artículo 14.
 
-La educación impartida en el estado de Jalisco se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en todos los ámbitos de gobierno del Estado.
+La Educación impartida en el estado de Jalisco se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en todos los ámbitos de gobierno del Estado.
 
 Además, responderá a los siguientes criterios:
 
@@ -305,7 +307,9 @@ III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las pe
 
 IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
 
-V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y mitigación de los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
+
+V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y mitigación de los efectos del cambio climático, la protección y el cuidado de los animales, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
 VI. Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
 
@@ -331,9 +335,9 @@ I. Programas Culturales;
 
 II. Programas de preservación y mejoramiento de la salud;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-III. Programas de conocimiento y mejoramiento del medio ambiente, los efectos del cambio climático, preservación ecológica y desarrollo sustentable, para su conservación, prevención y mitigación;
+III. Programas de conocimiento y mejoramiento del medio ambiente, los efectos del cambio climático, preservación ecológica y desarrollo sustentable, la protección y el cuidado de los animales, para su conservación, prevención y mitigación;
 
 IV. Fomento del desarrollo artístico y artesanal;
 
@@ -2770,3 +2774,11 @@ P.O. 9 DE MARZO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. La Secretaría de Educación, con sujeción a la disponibilidad presupuestaria asignada para tal efecto para el presente ejercicio fiscal y los subsecuentes, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29844/LXIV/25 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 11, PRIMER PÁRRAFO Y FRACCIÓN V, 14, PRIMER PÁRRAFO Y FRACCIÓN V, Y 15 FRACCIÓN III DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; ASÍ COMO LOS ARTÍCULOS 9, NUMERAL 1, FRACCIÓN VII, 10, NUMERAL 1, FRACCIÓN XII, 11, NUMERAL 1, FRACCIÓN V, Y 40 DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Educación del Estado de Jalisco y la Secretaría de Innovación, Ciencia y Tecnología del Estado de Jalisco, deberán realizar las acciones que consideren necesarias para llevar a cabo lo establecido en el presente decreto.
