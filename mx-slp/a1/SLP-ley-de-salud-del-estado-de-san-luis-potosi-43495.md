@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2025-05-27"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -208,6 +208,10 @@ III. La atención e información sobre el ejercicio responsable de la sexualidad
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
 IV. La salud mental, los trastornos alimenticios, la prevención y atención del suicidio;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2025)</small>
+
+IV BIS. Para la prevención, diagnóstico, tratamiento y seguimiento del cáncer en sus diferentes tipos, el Estado formulará recomendaciones en materia presupuestal para la operación de los programas presupuestarios específicos, para asegurar la continuidad y fortalecimiento de los procesos de tamizaje, evaluación complementaria, confirmación diagnóstica y tratamiento; promoviendo que los recursos no sean inferiores a las asignaciones del ejercicio fiscal anterior;
 
 > <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -405,6 +409,10 @@ VII. Establecer un sistema estatal de información básica en materia de salud;
 
 VIII. Formular recomendaciones a las dependencias competentes, sobre la asignación de los recursos que requieran los programas de salud del Estado, vigilando que cada institución asigne un monto razonable de recursos para el cuidado y protección del personal médico;
 
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2025)</small>
+
+VIII BIS. Formular recomendaciones en materia presupuestal para la prevención, diagnóstico, tratamiento y seguimiento del cáncer en sus diferentes tipos; a fin de que cuenten con los recursos presupuestales suficientes para su operación; promoviendo que los recursos no sean inferiores a las asignaciones del ejercicio fiscal anterior;
+
 IX. Impulsar en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
 
 X. Colaborar con las dependencias federales competentes, a la regulación y control de la transferencia de tecnología en el área de salud;
@@ -496,6 +504,10 @@ II. Celebrar acuerdos con la Secretaría de Salud de la Federación para que és
 III. Coordinar el Sistema Estatal de Salud, y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
 IV. Formular y vigilar el desarrollo de los programas de salud en el marco de los sistemas Nacional y Estatal, de acuerdo con los principios y objetivos del Plan Nacional de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2025)</small>
+
+IV. BIS. Promover y recomendar que los programas presupuestarios orientados a la prevención, diagnóstico, tratamiento, y seguimiento del cáncer en sus diferentes tipos, cuenten con los recursos presupuestales para su operación, promoviendo que los recursos no sean inferiores a las asignaciones del ejercicio fiscal anterior, asegurando su distribución equitativa y priorizando la atención de grupos en situación de vulnerabilidad;
 
 V. Vigilar, en la esfera de su competencia, el cumplimiento de la Ley General de Salud, de la presente Ley, y demás disposiciones aplicables;
 
@@ -5060,3 +5072,11 @@ TERCERO. Las autoridades de salud deberán garantizar el acceso universal y grat
 CUARTO. A partir de la entrada en vigor del presente Decreto, las instituciones de salud pública, contarán con un plazo de sesenta días naturales para expedir o adecuar sus reglamentos, lineamientos y protocolos en materia de interrupción legal del embarazo.
 
 QUINTO. Se derogan las disposiciones que se contravengan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0226.- QUE REALIZA ADICIONES A LOS ARTÍCULOS 5°, 8° Y 13, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
