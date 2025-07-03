@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2025-07-01"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -209,137 +209,263 @@ El Estado otorgará facilidades a los particulares, para que se coadyuve al cump
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-El Estado de Hidalgo tiene una composición pluricultural y plurilingüe sustentada originalmente en los pueblos indígenas Nahua, Otomí, Tepehua, Tének y Pame, así como las autodenominaciones que se deriven de los mismos; que conservan sus propias estructuras sociales, económicas, culturales y políticas, o parte de ellas. Asimismo, se reconoce la presencia de otros pueblos indígenas en su territorio, a los que les serán garantizados los derechos establecidos en esta constitución.
+El Estado de Hidalgo tiene una composición pluricultural, multiétnica y plurilingüe sustentada originalmente en los pueblos indígenas Nahua, Otomí, Tepehua, Tének y Pame, así como las autodenominaciones que se deriven de los mismos; que conservan sus propias estructuras sociales, normativas, económicas, culturales y políticas, o parte de ellas. Asimismo, se reconoce la presencia de otros pueblos indígenas en su territorio, a los que les serán garantizados los derechos establecidos en esta constitución.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+La autoadscripción indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. La Ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta además de los anteriores, los criterios etnolingüísticos.
+Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales ya establecidos, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-El Estado reconoce a los pueblos y comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios, en sujeción de lo prescrito en la Constitución Federal, la del Estado y demás legislación en la materia.
+El Estado reconoce a los pueblos y comunidades indígenas como sujetos de derecho público, con personalidad jurídica y patrimonio propios, en sujeción de lo prescrito en la Constitución Federal, la del Estado y demás legislación en la materia.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 El derecho de los pueblos y comunidades indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-Los pueblos y comunidades indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, respetando los preceptos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en ésta Constitución.
+Los pueblos y comunidades indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, conforme a sus sistemas normativos respetando los preceptos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
 
-(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204 QUE REFORMA EL PÁRRAFO DÉCIMO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+Los pueblos y comunidades indígenas tienen derecho a la protección, salvaguarda, preservación, promoción y desarrollo integral de su patrimonio cultural, material e inmaterial. Para tal efecto, el Estado establecerá las medidas legislativas y administrativas necesarias para garantizar ese derecho, previa consulta a dichos pueblos y comunidades indígenas. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes. La Ley protegerá, preservará y promoverá la lengua y la cultura, así como las prácticas tradicionales, recursos y formas específicas de organización social de los pueblos y comunidades indígenas.
 
-LOS PUEBLOS Y COMUNIDADES INDÍGENAS TIENEN DERECHO A LA PROTECCIÓN, SALVAGUARDA, PRESERVACIÓN, PROMOCIÓN Y DESARROLLO INTEGRAL DE SU PATRIMONIO CULTURAL, PARA TAL EFECTO, EL ESTADO ESTABLECERÁ LAS MEDIDAS LEGISLATIVAS Y ADMINISTRATIVAS NECESARIAS PARA GARANTIZAR ESE DERECHO, PREVIA CONSULTA A DICHOS PUEBLOS Y COMUNIDADES INDÍGENAS. LA LEY PROTEGERÁ Y PROMOVERÁ LA LENGUA Y LA CULTURA, ASÍ COMO LAS PRÁCTICAS TRADICIONALES, RECURSOS Y FORMAS ESPECÍFICAS DE ORGANIZACIÓN SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2025)</small>
 
 Esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
-I.- Para decidir libremente la forma en que organizarán su vida interna en lo social, económico, político y cultural.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-II.- Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los lineamientos y principios establecidos en la Ley de la materia, respetando los derechos humanos así como sus garantías y, de manera relevante, la dignidad e integridad de las mujeres.
+I. Para decidir libremente conforme a sus sistemas normativos y de acuerdo con esta Constitución, sus formas internas de gobierno en lo social, económico, político y cultural;
 
-La Ley establecerá que se debe entender por conflictos internos y sistemas normativos, así como delimitar facultades y competencias.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204 QUE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los lineamientos y principios establecidos en la Ley de la materia, respetando los derechos humanos, así como sus garantías y, de manera relevante, la dignidad e integridad de las mujeres.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
 
-III.- ELEGIR DE ACUERDO CON SUS NORMAS, PROCEDIMIENTOS O PRÁCTICAS TRADICIONALES, A LAS AUTORIDADES O REPRESENTANTES PARA EL EJERCICIO DE SUS FORMAS PROPIAS DE GOBIERNO INTERNO, GARANTIZANDO QUE LAS MUJERES Y HOMBRES INDÍGENAS DISFRUTARÁN Y EJERCERÁN SU DERECHO DE VOTAR Y SER VOTADOS EN CONDICIONES DE IGUALDAD; ASÍ COMO ACCEDER Y DESEMPEÑAR LOS CARGOS PÚBLICOS Y DE ELECCIÓN POPULAR PARA LOS QUE HAYAN SIDO ELECTOS O DESIGNADOS, EN UN MARCO QUE RESPETE EL PACTO FEDERAL, LA SOBERANÍA DEL ESTADO Y LA AUTONOMÍA DE LOS MUNICIPIOS. EN NINGÚN CASO LAS PRÁCTICAS COMUNITARIAS PODRÁN LIMITAR LOS DERECHOS POLÍTICO-ELECTORALES DE LA CIUDADANÍA EN LA ELECCIÓN DE SUS AUTORIDADES MUNICIPALES.
+La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de esta Constitución y leyes aplicables.
 
-IV.- Preservar y desarrollar su cultura, su lengua, conocimientos, y todos los elementos que constituyen parte de su identidad; así como las actividades y productos materiales y espirituales de cada pueblo y comunidad indígena.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
-V.- Conservar y mejorar el hábitat y preservar la integridad de sus tierras, territorios y recursos naturales, entendiendo por territorios, lo que cubre la totalidad del hábitat de las regiones que los pueblos y comunidades interesados ocupan o utilizan de alguna otra manera.
+La Ley establecerá qué se debe entender por conflictos internos y sistemas normativos, así como delimitar facultades y competencias.
 
-VI.- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan los pueblos y comunidades indígenas, salvo aquellos que corresponden a las áreas estratégicas, respetando los regímenes de propiedad de tenencia de la tierra establecidos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-Para estos efectos las comunidades podrán asociarse en términos de Ley.
+III. Elegir de acuerdo con sus sistemas normativos, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía del Estado y la autonomía de los municipios. En ningún caso sus sistemas normativos podrán limitar los derechos político-electorales de la ciudadanía en la elección de sus autoridades municipales;
 
-VII.- Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-La Ley establecerá las funciones que tendrá dicha representación, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
+IV.- Preservar, proteger y desarrollar su patrimonio cultural, su lengua, conocimientos, y todos los elementos que constituyen su cultura e identidad; así como las actividades y productos materiales y espirituales de cada pueblo y comunidad indígena;
 
-VIII.- Acceder plenamente a la jurisdicción del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
 
-Para garantizar este derecho, las instancias de procuración y administración de justicia, en todos los juicios y procedimientos en que sean parte indígenas, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes, traductores y defensores que tengan conocimiento de su lengua y cultura, los cuales serán proporcionados por la instancia que corresponda, de manera gratuita.
+V. Participar, en términos de la Constitución Federal y de esta Constitución, en la construcción de los modelos educativos para reconocer la composición pluricultural del Estado con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
+
+VI. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 3 DE JULIO DE 2025)</small>
+
+VII. Conservar y mejorar el hábitat y preservar la bioculturalidad e integridad de sus tierras, territorios y recursos naturales, entendiendo por territorios, lo que cubre la totalidad del hábitat de las regiones que los pueblos y comunidades interesados ocupan o utilizan de alguna otra manera;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 3 DE JULIO DE 2025)</small>
+
+VIII. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan los pueblos y comunidades indígenas, salvo aquellos que corresponden a las áreas estratégicas, respetando los regímenes de propiedad de tenencia de la tierra establecidos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Para estos efectos las comunidades podrán asociarse en términos de Ley;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 3 DE JULIO DE 2025)</small>
+
+IX. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+La Ley reconocerá y regulará este derecho, con el propósito de fortalecer la participación y representación política;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 3 DE JULIO DE 2025)</small>
+
+X. Acceder plenamente a la jurisdicción del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+Para garantizar este derecho, las instancias de procuración y administración de justicia, en todos los juicios y procedimientos en que sean parte indígenas, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos. Las personas indígenas tienen en todo tiempo el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras y defensoras especializadas en derecho indígena, pluralismo jurídico, perspectiva de género y diversidad lingüística y cultural, las cuales serán proporcionadas por la instancia que corresponda, de manera gratuita.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 Las leyes que correspondan, deberán establecer los mecanismos para garantizar este derecho.
 
-IX.- Ser consultados en las medidas legislativas o administrativas que sean susceptibles de afectarles directamente, con el fin de lograr su consentimiento libre, previo e informado de acuerdo a la medida propuesta.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+XI. Ser consultados en las medidas legislativas o administrativas que sean susceptibles de afectarles directamente, con el fin de lograr su consentimiento libre, previo e informado de acuerdo a la medida propuesta.
 
-El Estado garantizará la igualdad de oportunidades de los indígenas, eliminando cualquier práctica discriminatoria, a través de sus instituciones, determinando las políticas necesarias para la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+El Estado y los municipios, a través de sus instituciones, determinarán las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2025)</small>
 
 Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
 
-I.- Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2025)</small>
 
-II.- Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación.
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
 
-III.- Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
 
-IV.- Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos.
+La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural;
 
-V.- Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
 
-VI.- Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen.
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos;
 
-VII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
 
-VIII.- Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley;
 
-IX.- Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN II], P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+IV. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación plurilingüe e intercultural, la alfabetización en todos sus niveles, gratuita, integral y con pertenencia cultural y lingüística. Establecer un sistema de becas para las personas indígenas en todos los niveles. Definir y desarrollar programas educativos bilingües de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación, así como la promoción de una relación intercultural, de no discriminación y libre de racismo;
 
-Para garantizar el cumplimiento de las obligaciones anteriormente señaladas, la Legislatura del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN III], P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+V. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal con perspectiva intercultural, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de las personas indígenas mediante programas de alimentación, en especial para la población infantil;
 
-Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la Ley.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+VI. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales;
+
+> <small>(REFORMADA [N. DE E ANTES FRACCIÓN V], P.O. 3 DE JULIO DE 2025)</small>
+
+VII. Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 3 DE JULIO DE 2025)</small>
+
+VIII. Extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información haciendo usos de sus lenguas y otros elementos culturales, en los términos que las leyes de la materia determinen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
+
+IX. Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 3 DE JULIO DE 2025)</small>
+
+X. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+> <small>(REFORMADA CON SUS INCISOS Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], P.O. 3 DE JULIO DE 2025)</small>
+
+XI. Establecer políticas públicas para proteger a las comunidades indígenas y personas indígenas migrantes, tanto en el territorio nacional como en el extranjero, en especial mediante acciones destinadas a:
+
+a) Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;
+
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
+
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
+
+d) Velar permanentemente por el respeto de sus derechos humanos, y
+
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], P.O. 3 DE JULIO DE 2025)</small>
+
+XII. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de Desarrollo y municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
+
+XIII. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos del presente artículo.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+La Legislatura del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
+
+Sin perjuicio de los derechos aquí establecidos a favor de las personas indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio nacional desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 3 DE JULIO DE 2025)</small>
+
+Los pueblos y comunidades afromexicanas tienen el carácter de sujetos de derecho público, con personalidad jurídica y patrimonio propio. Tienen además derecho a:
+
+I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;
+
+II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia y a la diversidad cultural del Estado, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Estatal; y
+
+III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JULIO DE 2025)</small>
+
+El Estado y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo. El Estado garantizará el respeto a ese derecho. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su territorio. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la Ley.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
-Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y domestico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la Ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la Ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 Toda persona tiene derecho al acceso a la cultura y a ejercer en condiciones de igualdad y no discriminación sus derechos culturales. Toda persona tiene derecho a acceder al Patrimonio Cultural de la entidad, así como a los bienes y servicios culturales que presta el Estado. Las autoridades estatales y municipales promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades estatales y municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 La juventud tiene derecho a su desarrollo integral, el cual se alcanzará mediante la protección de los Derechos Humanos y las Garantías Individuales reconocidas en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que nuestro país sea parte, así como en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 El Estado y los Municipios, en función de sus atribuciones, tomarán en consideración la perspectiva de género para el diseño, ejecución, seguimiento y evaluación de las políticas públicas.
 
-(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204 QUE ADICIONA EL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+Toda persona tiene el derecho humano a la participación ciudadana en los asuntos públicos del Estado y los municipios. La Ley establecerá los mecanismos específicos para la participación ciudadana.
 
-TODA PERSONA TIENE EL DERECHO HUMANO A LA PARTICIPACIÓN CIUDADANA EN LOS ASUNTOS PÚBLICOS DEL ESTADO Y LOS MUNICIPIOS. LA LEY ESTABLECERÁ LOS MECANISMOS ESPECÍFICOS PARA LA PARTICIPACIÓN CIUDADANA.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
@@ -4634,3 +4760,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. El Congreso del Estado tendrá con un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a la normatividad secundaria, a fin de armonizarla con el contenido de este.
 
 TERCERO. A partir de la entrada en vigor del presente Decreto se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 275 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 5° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de su entrada en vigor, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado de Hidalgo y los Ayuntamientos deben realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente instrumento.
+
+CUARTO. Las erogaciones que se generen con motivo de la reforma efectuada por este Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por el Congreso del Estado en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los ejecutores, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos en el presente ejercicio fiscal.
+
+QUINTO. El Poder Ejecutivo del Estado de Hidalgo dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
+
+SEXTO. Para la interpretación de lo dispuesto en este Decreto, se tomará en cuenta lo previsto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte, así como las consideraciones del dictamen.
