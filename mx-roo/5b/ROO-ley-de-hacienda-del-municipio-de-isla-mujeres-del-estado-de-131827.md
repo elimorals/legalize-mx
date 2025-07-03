@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2025-02-24"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -541,15 +541,11 @@ El valor más alto será actualizado de acuerdo a lo previsto en el Código Fisc
 
 Para los fines de este impuesto se considera que el usufructo o la nuda propiedad tienen un valor cada uno de ellos del 50% del valor de la propiedad a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
 ###### Artículo 25.
 
-El impuesto se calculará aplicando las tasas de conformidad con la siguiente tabla:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 16 DE DICIEMBRE DE 2024, PÁGINAS 334 Y 335.]</small>
-
-Para el cálculo, a la base del impuesto se le disminuirá el límite inferior que corresponda, el resultado será el excedente del límite inferior y se le aplicará la tasa marginal, el resultado se le sumará la cuota fija que corresponda, y el importe de dicha operación será el impuesto a pagar.
+El impuesto se calculará aplicando una tasa del 4% al valor del inmueble.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -3958,6 +3954,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 24 DE FEBRERO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 100 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 127 POR EL QUE SE REFORMA EL ARTÍCULO 25 DE LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
