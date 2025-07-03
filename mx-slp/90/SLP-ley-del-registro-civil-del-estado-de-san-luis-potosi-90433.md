@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2025-06-30"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -752,6 +752,10 @@ En las poblaciones en que no haya Oficial, el recién nacido será presentado an
 ###### ARTÍCULO 67.
 
 La primera copia certificada del acta de nacimiento será gratuita, y se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, respetando el orden de los apellidos que de común acuerdo determinen ambos progenitores, asentando la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2025)</small>
+
+En el caso de que alguno de los progenitores manifieste o se auto determine como integrante de algún pueblo o comunidad indígena o afromexicana, el oficial del Registro Civil está obligado a registrar en el acta de nacimiento el nombre solicitado, con estricto apego a las formas orales, funcionales y simbólicas de comunicación pertenecientes a las lenguas indígenas.
 
 Sí éste se presenta como hija o hijo de madre y padre desconocidos, el Oficial, le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
 
@@ -1750,3 +1754,11 @@ P.O. 30 DE JUNIO DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0225.- QUE REALIZA ADICIÓN AL ARTÍCULO 67, DE LA LEY DEL REGISTRO CIVIL; Y AL ARTÍCULO 19, DEL CÓDIGO CIVIL, AMBOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
