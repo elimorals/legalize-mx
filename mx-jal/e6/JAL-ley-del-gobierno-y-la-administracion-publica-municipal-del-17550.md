@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2023-07-18"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1049,13 +1049,17 @@ XVIII. Auxiliar a la Unidad Estatal de Medidas Cautelares de conformidad a la Le
 
 XIX. Conformar un Consejo de Participación Ciudadana Municipal como órgano auxiliar para la organización y desarrollo de los mecanismos de participación establecidos en la Ley de Participación Ciudadana y Popular para la Gobernanza del Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
-XX. Contar con un Órgano Interno de Control quien además de las obligaciones señaladas por la normatividad en la materia promoverá el seguimiento y el combate a la Corrupción; y
+XX. Contar con un Órgano Interno de Control quien además de las obligaciones señaladas por la normatividad en la materia promoverá el seguimiento y el combate a la Corrupción;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
 
-XXI. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+XXI. Designar a los funcionarios municipales de su competencia observando el principio de paridad de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2025)</small>
+
+XXII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -3532,3 +3536,13 @@ P.O. 18 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29214/LXIII/23 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 24, DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 3 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29847/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA LAS FRACCIONES XX Y XXI Y ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Para el debido cumplimiento de este Decreto, los Ayuntamientos deberán aplicar el principio de paridad de forma progresiva y gradual a partir de las nuevas designaciones y nombramientos que correspondan de conformidad con las disposiciones jurídicas aplicables, teniendo las calidades que establezca la ley a quiénes tomen posesión de su encargo, en términos de las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
+
+TERCERO. La entrada en vigor del presente decreto no menoscabará o afectará la estabilidad laboral y demás condiciones de trabajo y respetará los derechos laborales adquiridos de los servidores públicos.
