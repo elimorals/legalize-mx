@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2025-04-09"
+last_updated: "2025-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2025.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -241,9 +241,13 @@ c) Las correspondientes a la adopción de medidas de previsión social; y
 
 d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-VI. La Comisión de Educación, Cultura, Ciencia y Tecnología, conocerá de los temas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE JULIO DE 2025)</small>
 
-a) La legislación relacionada con la educación, cultura, ciencia, e investigación científica y tecnológica del Estado;
+VI. La Comisión de Educación, Cultura, Ciencia, Tecnología e Innovación, conocerá de los temas siguientes:
+
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2025)</small>
+
+a) La legislación relacionada con la educación, cultura, ciencia, innovación, e investigación científica y tecnológica del Estado;
 
 b) La Ley Orgánica de la Universidad Autónoma del Estado de México y demás relativas; y
 
@@ -3407,31 +3411,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 224 BIS y 227 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 499".]
+G.G. 3 DE JULIO DE 2025.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 124.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA LA FRACCIÓN VI Y SU INCISO A) DEL ARTÍCULO 13-A, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
 
-SEGUNDO. A partir de la entrada en vigor de este Decreto, para el caso en que las reformas contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito de robo y por virtud de las presentes reformas, se denomina, penaliza o agrava como rapiña, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-I. En los casos de hechos que constituyan alguno de los delitos afectados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
-
-II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
-
-III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
-
-IV. En los procesos pendientes de dictarse sentencia, el juez podrá efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
-
-V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
-
-TERCERO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
-
-CUARTO. Remítase a la persona Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales correspondientes.
-
-QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la página WEB del Congreso del Estado y en dos diarios de mayor circulación en la entidad para su conocimiento general.
-
-SEXTO.- Con la promulgación del presente Decreto, se deroga cualquier norma o disposición que le sea contraria.
-
-P.O. 6 DE JUNIO DE 2025.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228, POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 177 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
