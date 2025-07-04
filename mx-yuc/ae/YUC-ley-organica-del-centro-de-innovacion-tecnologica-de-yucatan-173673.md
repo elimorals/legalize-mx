@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-centro-de-innovacion-tecnologica-de-yucatan-17
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-06-27"
-last_updated: "2024-06-27"
+last_updated: "2025-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY ORGANICA DEL CENTRO DE INNOVACION TECNOLOGICA DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO 93/2025 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA, CIENCIA Y TECNOLOGÍA Y REQUISITOS CONSTITUCIONALES, PUBLICADO EN EL D.O. DE 4 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL CENTRO DE INNOVACIÓN TECNOLÓGICA DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en el Suplemento del Número 35,423 del Diario Oficial del Estado de Yucatán, el jueves 27 de junio de 2024.
 
@@ -524,3 +526,41 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 93/2025 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA, CIENCIA Y TECNOLOGÍA Y REQUISITOS CONSTITUCIONALES”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Salvaguarda de derechos
+
+El actual titular de la Auditoría Superior del Estado de Yucatán continuará en el cargo en los términos de su nombramiento y por el plazo para el cual fue designado.
+
+Artículo tercero. Extinción
+
+Se declara la extinción del Centro de Innovación Tecnológica de Yucatán a partir de la entrada en vigor de este decreto.
+
+Artículo cuarto. Referencias
+
+Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia al Centro de Innovación Tecnológica de Yucatán, se entenderá que se refiere, en todos los casos, a aquella que asuma la rectoría en la materia de Ciencia, Humanidades, Tecnología e Innovación en la entidad.
+
+Artículo quinto. Destino de recursos
+
+El Gobernador, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, ahorros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados al Centro de Innovación Tecnológica de Yucatán.
+
+Artículo sexto. Actos en trámite
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto realizado por el Centro de Innovación Tecnológica de Yucatán serán asumidos por aquellas que asuman sus atribuciones, de conformidad con las disposiciones legales y normativas aplicables.
+
+Artículo séptimo. Previsiones presupuestales
+
+El Gobernador, a través de la Secretaría de Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para su debida aplicación de este decreto.
+
+Artículo octavo. Abrogación
+
+Se abroga la Ley Orgánica del Centro de Innovación Tecnológica de Yucatán publicada en el Diario Oficial del Gobierno del Estado Yucatán bajo el decreto 772 de fecha 27 de junio de 2024.
