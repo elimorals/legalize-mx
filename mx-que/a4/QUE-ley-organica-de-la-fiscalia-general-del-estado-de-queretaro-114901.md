@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2025-04-04"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "QUE"
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JULIO DE 2025.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -1495,9 +1497,9 @@ XXII. Expedir las constancias de No inhabilitación respecto de servidores públ
 
 XXIII. Llevar a cabo el procedimiento administrativo de ejecución derivado de sanciones pecuniarias o multas administrativas impuestas al personal de la Fiscalía General, de conformidad con las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024) (F. DE E., P.O. 4 DE JULIO DE 2025)
 
-XXIV. Investigar las conductas de los servidores públicos de la Fiscalía General que puedan construir (sic) responsabilidades administrativas;
+XXIV. Investigar las conductas de los servidores públicos de la Fiscalía General que puedan constituir responsabilidades administrativas;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
 
