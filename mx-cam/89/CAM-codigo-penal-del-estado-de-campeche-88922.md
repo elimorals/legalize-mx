@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-06-20"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1273,6 +1273,10 @@ VI. Secuestro;
 
 VII. Trata de personas;
 
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2025)</small>
+
+VII Bis. Transfeminicidio;
+
 > <small>(ADICIONADA, P.O. 13 DE MAYO DE 2025)</small>
 
 VIII. Aquellos que atenten contra el cumplimiento de la obligación alimentaria; y
@@ -1746,6 +1750,52 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
 Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia tratándose del delito de feminicidio, será sancionado conforme dispone el artículo 315 de este código penal.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 160 Bis.
+
+Comete el delito de transfeminicidio quien, por razón de identidad de género o expresión de género, prive de la vida a una mujer trans o a una persona cuya identidad o expresión de género, real o percibida, se encuentre dentro del espectro femenino de género.
+
+Existen razones de identidad o expresión de género cuando se presente cualquiera de los siguientes supuestos:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida, se le haya cortado o quemado el cabello, existan actos de necrofilia o relacionados con su expresión y/o identidad de género;
+
+III. Existan antecedentes o datos que indiquen que previo o posterior a la privación de la vida, el activo utilizó expresiones verbales de rechazo, no reconocimiento u odio a la víctima por motivo de su identidad o expresión de género, o que el sujeto activo cometió amenazas, acoso, violencia, lesiones, daño o sufrimiento físico, psicológico, patrimonial, económico, sexual o cualquier otro tipo de violencia en el ámbito familiar, laboral, escolar, ya sea público o privado o cualquier otro ámbito de la víctima;
+
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva, laboral, transaccional, de servicio, docente y/o de confianza;
+
+V. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación de servicio, hecho o amistad, subordinación o superioridad;
+
+VI. El cuerpo de la víctima sea expuesto, exhibido, depositado, arrojado en un lugar público, enterrado o incinerado por el activo;
+
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento;
+
+VIII. La víctima se haya encontrado en un estado de indefensión, entendiéndose este como la situación de desprotección real o incapacidad que imposibilite su defensa, ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio, o
+
+IX. Cuando las pertenencias, objetos personales o vestimenta de la víctima sean despojadas, destruidas, incineradas, o intercambiadas por otras relacionadas con el género masculino, toda vez que dichas pertenencias sean distintivas de la identidad de género o la expresión de género de la víctima.
+
+A quien cometa transfeminicidio se le impondrá de cuarenta y cinco a setenta años de prisión y multa de quinientas a mil Unidades de Medida y Actualización. La pena se agravará hasta en una tercera parte de la sanción prevista, cuando concurra cualquiera de las siguientes circunstancias:
+
+a) Cuando la víctima presente señales de saña relacionadas con su identidad de género o expresión de género. Se considera que existe saña cuando el agente actúe con crueldad o bien aumente deliberadamente el dolor o sufrimiento de la víctima;
+
+b) Cuando el delito sea cometido en el contexto del trabajo sexual o se hayan ejercido actos de explotación sexual o trata de personas en agravio de la víctima, así como cuando existan señales de saña con sus objetos relativos como persona trabajadora sexual;
+
+c) Cuando el delito sea cometido en presencia de una o más personas con quienes la víctima tuviere un vínculo de parentesco, afectivo, laboral o de confianza;
+
+d) Cuando la víctima sea una niña, niño o adolescente, persona con discapacidad o adulta mayor, o persona en situación de calle;
+
+e) Cuando el delito sea cometido por dos o más personas; o
+
+f) Cuando la víctima haya recibido amenazas de muerte relacionadas con su identidad o expresión de género, ya sea de forma presencial o virtual.
+
+Tratándose de los incisos c) y d), el sujeto activo perderá todos los derechos en relación con la víctima incluidos los de carácter sucesorio.
+
+En el caso de que no se pueda acreditar el delito de transfeminicidio, se aplicarán las reglas del delito de feminicidio o de homicidio, según sea el caso.
+
+Para la acreditación del delito de transfeminicidio, la Fiscalía y demás instancias correspondientes deberán seguir los requisitos establecidos por el Protocolo Nacional de Actuación LGBTI+.
 
 ### CAPÍTULO I. VIOLACIÓN
 
@@ -5450,3 +5500,11 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 96 POR EL QUE “SE ADICIONAN LA FRACCIÓN VII BIS AL ARTÍCULO 122 Y EL ARTÍCULO 160 BIS AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
