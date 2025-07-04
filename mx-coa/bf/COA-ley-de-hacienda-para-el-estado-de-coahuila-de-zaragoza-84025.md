@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2024-12-24"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -537,9 +537,9 @@ SUJETO
 
 Son sujetos de este impuesto las personas físicas y morales, que presten los servicios a que se refiere el artículo anterior, quienes deberán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
 
-En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 33, de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
+En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 33, de esta Ley, cuando la prestación por servicios de hospedaje se cubra, oferte o promocione a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
@@ -589,15 +589,19 @@ Si el contribuyente tuviera varios establecimientos en el territorio de Coahuila
 
 Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así lo requieran.
 
-> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
 
-Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán enterarlo mediante declaraciones definitivas en términos del primer párrafo de este artículo, proporcionando la información de las personas físicas o morales que prestaron el servicio de hospedaje y de la totalidad de las operaciones en las que hayan intervenido.
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán enterarlo mediante declaraciones definitivas en términos del primer párrafo de este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
 
-###### ARTÍCULO 39.
+Para efectos de lo dispuesto en este artículo, se estará a las Reglas de Simplificación Administrativa que para tal efecto emita la Secretaría de Finanzas, para las personas física o morales que, en su carácter de intermediaria o facilitadora, sean responsables solidarios de retener este impuesto.
 
-Los contribuyentes personas físicas o personas morales, así como aquellas que tengan el carácter de intermediario, promotor o facilitador, que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2025)</small>
+
+###### ARTICULO 39.
+
+Los contribuyentes personas físicas o personas morales, propietarios o poseedores de bienes inmuebles en los que se presten los servicios de hospedaje, incluso los contratados a través de plataformas tecnológicas, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
 
 > <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
@@ -622,6 +626,18 @@ V. Llevar un registro detallado por nombre, o en su defecto, por placa de vehíc
 > <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 26 DE DICIEMBRE DE 2023)</small>
 
 VI. Presentar las declaraciones mensuales de este impuesto, de conformidad con lo establecido en el presente Capítulo y en las reglas de carácter general.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 4 DE JULIO DE 2025]</small>
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
+
+Las personas físicas o morales que presten los servicios de hospedaje a través de intermediarios, promotores o facilitadores, no estarán obligados a presentar las declaraciones a que se refiere esta fracción.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
+
+###### ARTICULO 39-A.
+
+Las obligaciones señaladas en las fracciones III y V, del artículo anterior, no serán aplicables a las personas físicas o morales que, en su carácter de intermediarias, promotoras o facilitadoras, oferten servicios de hospedaje a través del uso de plataformas tecnológicas.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 65], P.O. 31 DE DICIEMBRE DE 2019)
 
@@ -5514,3 +5530,13 @@ El presente Decreto entrará en vigor el día primero de enero de dos mil veinti
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 265.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 34, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 38 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 39; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 38, EL SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 39, ASÍ COMO EL ARTÍCULO 39-A, TODOS DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado.
