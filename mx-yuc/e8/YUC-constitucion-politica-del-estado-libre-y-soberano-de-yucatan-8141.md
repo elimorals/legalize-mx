@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2025-03-05"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE JULIO DE 2025.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -623,9 +623,9 @@ I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadan
 
 II.- Tener dieciocho años cumplidos el día de la elección;
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 2025)</small>
 
-III.- No ser Gobernador del Estado; Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios; Consejero de la Judicatura; regidor o síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
+III.- No ser Gobernador del Estado; Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa del Estado de Yucatán o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios; integrante del Órgano de Administración Judicial; regidor o síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;
 
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
@@ -1095,9 +1095,7 @@ LIII.- Designar y, en su caso, remover a la persona Titular de la Secretaría T�
 
 LIV.- Designar, por el voto de las dos terceras partes de sus integrantes, a la persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, en los términos establecidos en esta Constitución y en las Leyes aplicables;
 
-> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
-
-LV.- Designar y, en su caso, remover a la persona Titular del Centro de Innovación Tecnológica de Yucatán, conforme al procedimiento previsto en esta Constitución, y
+LV.- (DEROGADA, D.O. 4 DE JULIO DE 2025)
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -1231,9 +1229,9 @@ II.- recibir el Compromiso Constitucional a los funcionarios que deban prestarla
 
 III.- Recibir durante los recesos del Congreso, las iniciativas de Ley, Decreto o Acuerdo, proposiciones y demás asuntos dirigidos a éste y turnarlos para su estudio y dictamen a las comisiones respectivas del Congreso conforme a lo dispuesto en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán, a fin de que se les dé el trámite que corresponda en el inmediato período de sesiones.
 
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 2025)</small>
 
-IV.- Resolver sobre las peticiones de licencia del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado en los términos de esta Constitución; resolver sobre las renuncias colectivas de miembros de Ayuntamientos y acerca de la desintegración de los mismos, nombrando Concejos en los términos de la fracción XL del artículo 30 de la presente Constitución;
+IV.- Resolver sobre las peticiones de licencia de sus miembros, del Auditor Superior del Estado, del Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso, cuando traten de separarse temporalmente de sus respectivos encargos; resolver sobre las renuncias de los Magistrados e integrantes del Órgano de Administración Judicial del Poder Judicial del Estado, en los términos de esta Constitución; resolver sobre las renuncias colectivas de los miembros de los Ayuntamientos y acerca de la desintegración de estos, nombrando Concejos en los términos de la fracción XL del artículo 30 de esta Constitución;
 
 > <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1321,13 +1319,37 @@ IV.- Promover y denunciar, derivado de sus investigaciones, las responsabilidade
 
 El Congreso del estado designará al Auditor Superior del Estado por el voto de las dos terceras partes de sus miembros integrantes. La ley en la materia determinará el procedimiento para su designación. El Auditor Superior del Estado será electo para desempeñar su cargo por ocho años y podrá ser reelecto por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el título décimo de esta Constitución.
 
-> <small>(REFORMADO, D.O. 13 DE MARZO DE 2020)</small>
-
-Para ser titular de la Auditoría Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, IV, V, VI y VII del artículo 65 de esta Constitución, contar con título y cédula profesional, y acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidad, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O. 4 DE JULIO DE 2025)</small>
 
 > <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 Los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales deberán proporcionar la información, documentación y auxilios que soliciten la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
+
+> <small>(ADICIONADO, D.O. 4 DE JULIO DE 2025)</small>
+
+###### Artículo 43 Ter.
+
+Para ser titular de la Auditoría Superior del Estado se requiere cumplir, además de los requisitos previstos en la ley, los siguientes:
+
+I.- Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- Tener cuando menos treinta años cumplidos el día de su designación;
+
+III.- Contar, al día de su designación, con título y cédula profesional;
+
+IV.- Acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades de los servidores públicos;
+
+V.- Gozar de buena reputación;
+
+VI.- No estar cumpliendo sentencia firme emitida por una autoridad judicial competente, que imponga pena privativa de la libertad, por la comisión de un delito intencional o actos de corrupción, que amerite la inhabilitación para ocupar cargos públicos;
+
+VII.- No ser titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local o Presidente Municipal, a menos que se separe del cargo un año antes de la designación;
+
+VIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y
+
+IX.- No ser deudor alimentario moroso.
+
+Durante el ejercicio de su encargo, la persona titular de la Auditoría Superior del Estado no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1399,9 +1421,9 @@ VIII.- no estar comprendido en alguna de las causas de incapacidad establecidas 
 
 IX.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.
 
-> <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 2025)</small>
 
-X.- No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Fiscal y Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, Consejero de la Judicatura, Diputado local, Regidor o Síndico, a menos que se separe de su cargo 120 días antes de la fecha de la elección;
+X.- No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, integrante del Órgano de Administración Judicial, Diputado local, Regidor o Síndico, a menos que se separe de su cargo ciento veinte días antes de la fecha de la elección;
 
 > <small>(REFORMADA, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1761,9 +1783,9 @@ Si el Congreso del estado, nuevamente, no designara a la o el Fiscal General del
 
 Para ser Fiscal General del Estado se requiere: ser ciudadano mexicano; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, no ser deudor alimentario moroso, y no tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
 
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 2025)</small>
 
-La Fiscal o el Fiscal General del Estado podrá ser removido por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la o el Fiscal General del Estado para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la o el fiscal general, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover a la Fiscal o el Fiscal General del Estado por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la o el Fiscal General del Estado por el tiempo por el que fue designado.
+La Fiscal o el Fiscal General del Estado podrá ser removido por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de las personas diputadas que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia que le dará vista a la o el Fiscal General del Estado para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la o el fiscal general, el Pleno del Tribunal Superior de Justicia, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia califica como graves las causas, el Congreso podrá remover a la Fiscal o el Fiscal General del Estado por el voto de las dos terceras partes de las personas diputadas que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la o el Fiscal General del Estado por el tiempo por el que fue designado.
 
 > <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -2299,9 +2321,7 @@ VIII.- La Fiscalía General del Estado de Yucatán;
 
 IX.- La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, y
 
-> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
-
-X.- El Centro de Innovación Tecnológica de Yucatán.
+X. (DEROGADA, D.O. 4 DE JULIO DE 2025)
 
 Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
 
@@ -2421,7 +2441,31 @@ El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo p�
 
 El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por la Gobernadora o Gobernador y ratificados por el voto de las dos terceras partes de los miembros integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley. No podrá haber más de dos magistrados del mismo género.
 
-Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado de Yucatán se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Poder Judicial del Estado. El magistrado presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados del tribunal, de conformidad con el procedimiento que establezca la ley respectiva.
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 2025)</small>
+
+Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado de Yucatán se requiere cumplir con los siguientes requisitos:
+
+I.- Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II.- Tener cuando menos treinta años cumplidos el día de su designación;
+
+III.- Contar al día de su designación, con título y cédula profesional de abogado o licenciado en derecho;
+
+IV.- Acreditar, al menos, cinco años de experiencia en materia de derecho administrativo y responsabilidades de los servidores públicos;
+
+V.- Gozar de buena reputación;
+
+VI.- No estar cumpliendo sentencia firme emitida por una autoridad judicial competente, que imponga pena privativa de la libertad, por la comisión de un delito intencional o actos de corrupción, que amerite la inhabilitación para ocupar cargos públicos;
+
+VII.- No ser titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local o Presidente Municipal, a menos que se separe del cargo un año antes de la designación;
+
+VIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y
+
+IX.- No ser deudor alimentario moroso.
+
+> <small>(ADICIONADO, D.O. 4 DE JULIO DE 2025)</small>
+
+El magistrado presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados del tribunal, de conformidad con el procedimiento que establezca la ley respectiva.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
@@ -2483,7 +2527,9 @@ La administración pública estatal, los municipios, los poderes, así como los 
 
 La persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán durará en el cargo quince años, contados a partir de la fecha en la que rinda el compromiso constitucional, y al término del cual no podrá ser ratificada para un segundo período.
 
-La persona Titular de la Agencia a que se refiere este artículo podrá ser removida por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la persona Titular de la Agencia para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la persona Titular de la Agencia, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover a la persona Titular de la Agencia por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la persona Titular de la Agencia por el tiempo por el que fue designada.
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 2025)</small>
+
+La persona Titular de la Agencia a que se refiere este artículo podrá ser removida por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia que le dará vista a la persona Titular de la Agencia para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la persona Titular de la Agencia, el Pleno del Tribunal Superior de Justicia dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia califica como graves las causas, el Congreso podrá remover a la persona Titular de la Agencia por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la persona Titular de la Agencia por el tiempo para el que fue designada.
 
 Para efectos de lo previsto en el párrafo anterior, serán consideradas como causas graves las contempladas en el Capítulo II del Título Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas; así como encontrarse compurgando sentencia firme por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y 167 del Código Nacional de Procedimientos Penales; adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por médico competente y cometer violaciones graves a esta Constitución.
 
@@ -2517,7 +2563,7 @@ La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán conta
 
 La persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, será designada por el Congreso del Estado y durará en el cargo quince años, contados a partir de la fecha en la que rinda el compromiso constitucional respectivo, al término del cual no podrá ser ratificada para un segundo período. Para ocupar el cargo, deberá cumplir con los requisitos y el procedimiento que establezca la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 27 DE JUNIO DE 2024)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 4 DE JULIO DE 2025)</small>
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
@@ -2525,41 +2571,9 @@ La persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patr
 
 ### CAPITULO X. Del Centro de Innovación Tecnológica de Yucatán
 
-> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
-
 ###### Artículo 75 Octies.
 
-El Centro de Innovación Tecnológica de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es coadyuvar en la adopción de mejores prácticas de tecnología, innovación y seguridad digital en el estado de Yucatán. Así como propiciar el pleno ejercicio y acceso a los derechos humanos relacionados con las tecnologías y la innovación.
-
-El Centro se encargará también de impulsar la innovación y la accesibilidad en el ámbito digital, fomentando y proponiendo la generación de proyectos que contribuyan al desarrollo económico, social y cultural del estado, a través de la colaboración entre sectores público, privado y social para garantizar su implementación efectiva y continua.
-
-Todo ello alineado con el compromiso de promover un entorno tecnológico que contribuya al desarrollo integral y sostenible de Yucatán.
-
-La persona titular del Centro de Innovación Tecnológica de Yucatán durará en el cargo cinco años, contados a partir de la fecha en la que rinda el compromiso constitucional, con posibilidad de ocuparlo por dos periodos más de cinco años cada uno, siempre y cuando el Congreso no decida, por el voto de las dos terceras partes de sus integrantes, su no ratificación en cada ocasión.
-
-La persona Titular del Centro a que se refiere este artículo podrá ser removida por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la persona Titular del Centro para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la persona Titular del Centro, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover a la persona Titular del Centro por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la persona Titular del Centro por el tiempo por el que fue designada.
-
-Para efectos de lo previsto en el párrafo anterior, serán consideradas como causas graves las contempladas en el Capítulo II del Título Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas; así como encontrarse compurgando sentencia firme por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y 167 del Código Nacional de Procedimientos Penales; adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por médico competente y cometer violaciones graves a esta Constitución.
-
-Para ser titular del Centro de Innovación Tecnológica de Yucatán se deberán cumplir los siguientes requisitos:
-
-I. Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
-
-II. Tener cuando menos veinticinco años cumplidos el día de su designación.
-
-III. Contar, al día de su designación, con estudios de maestría o posgrado en innovación, tecnología, administración pública, políticas públicas o carrera afín a estas materias.
-
-IV. Acreditar tener, cuando menos, cinco años de experiencia comprobable en materia de innovación, tecnología, políticas públicas, administración o en un área afín a estas materias.
-
-V. No ser deudor alimentario moroso.
-
-VI. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
-
-La persona titular del Centro de Innovación Tecnológica de Yucatán será designada mediante el siguiente procedimiento: la persona titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a quien deba ocupar el cargo, mediante el voto de las dos terceras partes de sus integrantes presentes en la sesión de que se trate. En caso de que no se alcance la votación requerida, la persona titular del Poder Ejecutivo someterá otra terna a la consideración del Congreso. En caso (sic) que nuevamente no se alcance la votación requerida, ocupará el cargo la persona que designe la persona titular del Poder Ejecutivo, que deberá ser integrante de la segunda terna propuesta.
-
-La persona titular del Centro de Innovación Tecnológica de Yucatán no podrá tener otro empleo, cargo o comisión, en los sectores público, social o privado, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
-
-El presupuesto del Centro de Innovación Tecnológica de Yucatán no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior, publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado al Centro en comento en el año anterior.
+(DEROGADO, D.O. 4 DE JULIO DE 2025)
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -2701,9 +2715,9 @@ III.- Saber leer y escribir;
 
 IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 2025)</small>
 
-V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o Consejero de la Judicatura, durante el año calendario de la elección, a menos que se separe de sus funciones 120 días antes de la elección;
+V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o del Tribunal de Disciplina Judicial o integrante del Órgano de Administración Judicial, durante el año calendario de la elección, a menos que se separe de sus funciones ciento veinte días antes de la elección;
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -3419,11 +3433,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE JULIO DE 2025)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos de juicio político los diputados locales en funciones; las magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
+Podrán ser sujetos de juicio político los diputados locales en funciones; las magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; las personas titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3447,9 +3461,9 @@ Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
 El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios y las personas integrantes del Órgano de Administración Judicial.
 
-> <small>(REFORMADO, D.O. 5 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 2025)</small>
 
-Los diputados locales; los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
+Los diputados locales; los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -3495,9 +3509,9 @@ El Sistema Estatal Anticorrupción tendrá como objeto realizar acciones y polí
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 4 DE JULIO DE 2025)</small>
 
-I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; el presidente del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Estado y otro del comité de participación ciudadana.
+I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; el presidente del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; un representante del Tribunal de Disciplina del Poder Judicial; así como por un representante del comité de participación ciudadana.
 
 II.- El comité de participación ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -6278,3 +6292,39 @@ Artículo décimo sexto. Se abroga la Ley de Justicia Constitucional para el Est
 Derogación tácita
 
 Artículo décimo séptimo. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido de este decreto.
+
+D.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 93/2025 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA, CIENCIA Y TECNOLOGÍA Y REQUISITOS CONSTITUCIONALES”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Salvaguarda de derechos
+
+El actual titular de la Auditoría Superior del Estado de Yucatán continuará en el cargo en los términos de su nombramiento y por el plazo para el cual fue designado.
+
+Artículo tercero. Extinción
+
+Se declara la extinción del Centro de Innovación Tecnológica de Yucatán a partir de la entrada en vigor de este decreto.
+
+Artículo cuarto. Referencias
+
+Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia al Centro de Innovación Tecnológica de Yucatán, se entenderá que se refiere, en todos los casos, a aquella que asuma la rectoría en la materia de Ciencia, Humanidades, Tecnología e Innovación en la entidad.
+
+Artículo quinto. Destino de recursos
+
+El Gobernador, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, ahorros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados al Centro de Innovación Tecnológica de Yucatán.
+
+Artículo sexto. Actos en trámite
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto realizado por el Centro de Innovación Tecnológica de Yucatán serán asumidos por aquellas que asuman sus atribuciones, de conformidad con las disposiciones legales y normativas aplicables.
+
+Artículo séptimo. Previsiones presupuestales
+
+El Gobernador, a través de la Secretaría de Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para su debida aplicación de este decreto.
+
+Artículo octavo. Abrogación
+
+Se abroga la Ley Orgánica del Centro de Innovación Tecnológica de Yucatán publicada en el Diario Oficial del Gobierno del Estado (sic) Yucatán bajo el decreto 772 de fecha 27 de junio de 2024.
