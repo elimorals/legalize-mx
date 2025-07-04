@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2025-06-05"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -33,7 +33,9 @@ DECRETO 363
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, DECRETA:
 
-EXPOSICION DE MOTIVOS...
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Finalmente, el Título Octavo denominado Del Programa Sectorial de Cultura y de los Programas de Desarrollo Cultural Municipal, cuenta con dos capítulos; el primero Del Programa Sectorial de Cultura, que es el documento rector que contiene las directrices de política cultural en la Entidad, sin olvidar hacer mención de los objetivos a que está enfocado; el segundo, De los Programas de Desarrollo Cultural Municipal, instruye a los ayuntamientos en la creación de un programa municipal acorde al estatal, el cual deberá ser aprobado por el cabildo y emitido por el presidente municipal.
 
@@ -353,9 +355,9 @@ VIII. Garantizar que el contenido y en los espacios en donde se realicen program
 
 IX. Garantizar que los espacios culturales cuenten con las condiciones adecuadas para que ambos progenitores puedan cumplir con sus obligaciones respecto del cuidado y protección de sus hijas e hijos;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2025)</small>
 
-X. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del municipio; en el caso de los municipios con presencia indígena, actuar como instancias de intermediación entre las autoridades estatales y federales y los representantes de los pueblos indígenas de la región, para la realización de los procesos de promoción de la traducción intercultural, garantizando el respeto a sus valores cosmovisión, cultura, creencias, costumbres y prácticas culturales y religiosas;
+X. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del municipio; en el caso de los municipios con presencia indígena, actuar como instancias de intermediación entre las autoridades estatales y federales y los representantes de los pueblos indígenas de la región, para la realización de los procesos de promoción de la traducción intercultural, garantizando el respeto a sus valores cosmovisión, cultura, creencias, costumbres y prácticas culturales y religiosas en concordancia con los usos y costumbres;
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 2018)</small>
 
@@ -554,6 +556,8 @@ La cultura popular se conforma por el conjunto de las prácticas sociales y mani
 ###### ARTICULO 23.
 
 Independientemente de las obligaciones específicas de cada autoridad, éstas tendrán en materia de cultura popular, las siguientes:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA EN SU NUMERACIÓN], P.O. 4 DE JULIO DE 2025)</small>
 
 I. Reconocer todas aquellas expresiones de cultura popular que propicien tanto el fortalecimiento, como la preservación del patrimonio cultural del Estado;
 
@@ -946,5 +950,13 @@ P.O. 5 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0211.- QUE REFORMA LOS ARTÍCULOS 11, 17, 28, 52, 54 Y LAS DENOMINACIONES DEL TÍTULO CUARTO Y CAPÍTULO IV, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ.”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0233.- QUE REFORMA LOS ARTÍCULOS 12 Y 23, DE LA LEY DE CULTURA PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
