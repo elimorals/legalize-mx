@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-de-la-junta-de-asistencia-privada-del-136093
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-10"
-last_updated: "2019-05-10"
+last_updated: "2025-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136093&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-04-30"
 ---
 # CODIGO DE CONDUCTA DE LA JUNTA DE ASISTENCIA PRIVADA DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.jap.org.mx/portal/others/CODIGO%20DE%20CONDUCTA_20190429.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL QUE SE DA A CONOCER A LAS INSTITUCIONES DE ASISTENCIA PRIVADA EL CÓDIGO DE CONDUCTA DE LA JUNTA DE ASISTENCIA PRIVADA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 4 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA DE LA JUNTA DE ASISTENCIA PRIVADA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado al Número 88 de la Gaceta Oficial de la Ciudad de México, el viernes 10 de mayo de 2019.
 
@@ -369,3 +369,15 @@ Lic. Carlos Leonardo Madrid Varela
 Presidente de la Junta de Asistencia Privada del Distrito Federal
 
 Ciudad de México, a 29 de abril de 2019
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER A LAS INSTITUCIONES DE ASISTENCIA PRIVADA EL CÓDIGO DE CONDUCTA DE LA JUNTA DE ASISTENCIA PRIVADA DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La Dirección Administrativa de la Junta de Asistencia Privada del Distrito Federal notificará mediante oficio a todos los servidores públicos adscritos a esta Junta el contenido del presente Código de Conducta.
+
+TERCERO. Se abroga el Código de Conducta de la Junta de Asistencia Privada del Distrito Federal, publicado en la Gaceta Oficial de la Ciudad de México el 10 de mayo de 2019, en su edición número 88.
