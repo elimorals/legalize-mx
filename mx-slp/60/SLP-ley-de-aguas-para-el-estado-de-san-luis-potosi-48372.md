@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2025-05-29"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -291,7 +291,9 @@ XIV. Fomentar la instalación y operación de las organizaciones de usuarios con
 
 XV. Promover y apoyar la instalación de los dispositivos de medición, en las fuentes de abastecimiento y en los sistemas de servicios hídricos de toda índole;
 
-XVI. Formular, para su debida autorización, en términos de la fracción XII del artículo 34 de la Ley Orgánica de la Administración Pública del Estado, sus programas, presupuestos, estructura y calendario de gasto a más tardar el día treinta de septiembre de cada año;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2025)</small>
+
+XVI. Formular, para su debida autorización, en los términos y plazos previstos en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, sus programas, presupuestos, estructura y calendario de gasto;
 
 XVII. Elaborar y mantener actualizado el inventario de sus bienes;
 
@@ -429,9 +431,13 @@ IV. La persona titular de la Presidencia del Consejo Estatal Hídrico.
 
 Por cada integrante propietario se designará un suplente, con todas las atribuciones que corresponden al propietario.
 
-El Director General de la Comisión fungirá como secretario de la Junta de Gobierno, a cuyas sesiones asistirá con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
 
-Serán invitados permanentes a las sesiones de la Junta de Gobierno, cuatro presidentes municipales, uno por cada zona económica del Estado, cuya designación se realizará en los términos que al efecto prevenga el reglamento interior de la Comisión, los que únicamente contarán con voz.
+La Directora o el Director General de la Comisión fungirán como secretaria o secretario de la Junta de Gobierno, a cuyas sesiones asistirá con voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+Serán invitados permanentes a las sesiones de la Junta de Gobierno, cuatro presidentas y presidentes municipales, uno por cada zona económica del Estado, cuya designación se realizará en los términos que al efecto prevenga el reglamento interior de la Comisión, los que únicamente contarán con voz.
 
 Adicionalmente, se podrán invitar a las sesiones de la Junta de Gobierno, a otros representantes de dependencias federales, estatales o municipales, así como a particulares, a quienes se podrá dar el uso de la voz.
 
@@ -848,6 +854,26 @@ Para la elección y designación de las personas que integrarán el Consejo Híd
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2025)</small>
 
 La convocatoria deberá exhortar a las organizaciones, asociaciones, instituciones y público en general, involucrados en el tema hídrico, a participar en el procedimiento de elección; dicha convocatoria deberá reflejar de forma clara y precisa los requisitos necesarios a cumplir por quien aspire a integrar el Consejo. La Comisión Legislativa del Agua elaborará el dictamen correspondiente con elementos que justifiquen de forma clara y precisa, bajo los principios de paridad de género, legalidad y transparencia, la elección de los aspirantes a fin de presentar ante el Pleno a las personas señaladas, para, en su caso, integrarse el Consejo Hídrico Estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
+
+ARTICULO 33 BIS. Las personas que aspiren a integrar el Consejo Hídrico Estatal, deberán cumplir con los requisitos previstos en la Convocatoria Pública que emita el Congreso del Estado, mismos que cuando menos deberán ser los siguientes:
+
+I. Acreditar residencia efectiva en el Estado de cuando menos dos años;
+
+II. No ser servidor público en los gobiernos federal, estatal o municipal;
+
+III. No haber desempeñado ningún cargo de elección popular, o algún cargo en un partido político en los últimos tres años, contados a partir de la fecha de la publicación de la convocatoria;
+
+IV. Acreditar conocimientos académicos o experiencia en los temas que le son inherentes al Consejo Hídrico Estatal, y
+
+V. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Ser deudor alimentario moroso o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -1361,6 +1387,10 @@ En los casos en los que los municipios presten de forma centralizada los servici
 
 Los municipios podrán destinar los ingresos obtenidos por la prestación de los servicios públicos establecidos en la presente Ley, exclusivamente a hacer eficiente la administración y operación de los sistemas, y a ampliar la infraestructura hidráulica correspondiente, en ese orden de prioridad.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
+
+ARTICULO 80 BIS. Cuando los servicios públicos de agua potable, alcantarillado sanitario, alcantarillado pluvial, tratamiento y disposición de aguas residuales sean prestados de forma centralizada por los ayuntamientos, la Dirección de Agua Potable y Conexos o equivalente, en el primer mes de ejercicio de la Administración Municipal integrarán el respectivo Consejo Consultivo en los términos, objetivos y funciones previstas en la sección quinta del Capítulo IV del Título Quinto de esta Ley.
+
 ### CAPITULO III. De los Comités de Agua Rurales
 
 ###### ARTICULO 81.
@@ -1587,9 +1617,9 @@ I. Establecer en el ámbito de su competencia, los lineamientos y políticas en 
 
 II. Aprobar el Programa Operativo Anual que le presente el Director General;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2025)</small>
 
-III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el quince de octubre de cada año, con excepción del año de instalación de los ayuntamientos, en el que lo harán a más tardar el cinco de noviembre, propuestas que deberán cumplir con los requisitos y formalidades que se disponen en la presente Ley; de no hacerlo oportunamente, o de no apegarse a la metodología para el cálculo de las cuotas y tarifas, se tomará como propuesta las que hubiesen regido durante el año fiscal inmediato anterior;
+III. Remitir al Congreso, para su aprobación, a través del Ayuntamiento respectivo, las cuotas y tarifas por la prestación del servicio, a más tardar el cinco de noviembre del año anterior a su vigencia, propuestas que deberán cumplir con los requisitos y formalidades que se disponen en la presente Ley; de no presentarlas o de no hacerlo oportunamente, se tomará como propuesta las que hubiesen regido durante el año fiscal inmediato anterior;
 
 IV. Designar y remover al Director General del organismo;
 
@@ -3926,3 +3956,21 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Se concede un plazo de seis meses a partir de la entrada en vigencia de este Decreto, para que los ayuntamientos actualicen los reglamentos de los comités de agua rurales.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0230.- QUE ADICIONA EL ARTÍCULO 33 BIS, A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0234.- QUE REFORMA LOS ARTÍCULOS 8°, 10 Y 96; Y ADICIONA EL ARTÍCULO 80 BIS, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. Para los efectos de lo dispuesto por el artículo 80 Bis de este Decreto, la integración del Consejo Consultivo de los ayuntamientos que presten centralizado los servicios de agua potable y conexos, será la Dirección de Agua Potable y Conexos o equivalente del Municipio respectivo, quien lo integre en los términos previstos de la Sección Quinta del Capítulo IV en su Título Quinto de la Ley de Aguas para el Estado, dentro del plazo de los treinta días hábiles siguientes a la entrada en vigencia de este Decreto.
