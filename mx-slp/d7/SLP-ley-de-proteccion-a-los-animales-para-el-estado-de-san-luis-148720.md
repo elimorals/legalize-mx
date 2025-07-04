@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-a-los-animales-para-el-estado-de-san-luis-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-23"
-last_updated: "2025-03-21"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 23 de marzo de 2021.
 
@@ -122,6 +122,10 @@ XI. Comunidades Armónicas: Modelo para crear relaciones pacíficas entre los se
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2022)</small>
 
 XII. Consejo Consultivo Mixto: Es el órgano colegiado y plural, integrado por diversos sectores de la sociedad civil, que tiene como propósito proponer y analizar estrategias dirigidas a la protección animal, coadyuvar en su implementación y emitir su opinión en cualquier problemática relativa a la competencia de esta Ley. Las opiniones que emita dicho órgano, así como las estrategias y propuestas de este Consejo, deberán ser tomadas en cuenta por las autoridades involucradas como eje rector;
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2025)</small>
+
+XII BIS. ESPECIES EN PELIGRO DE EXTINCION: Aquellas cuyas áreas de distribución o tamaño de sus poblaciones en el territorio nacional han disminuido drásticamente poniendo en riesgo su viabilidad biológica en todo su hábitat natural, debido a factores tales como la destrucción o modificación drástica del hábitat, aprovechamiento no sustentable, enfermedades o depredación, entre otros.
 
 XIII. Hogar temporal: Lugar, predio, finca, refugio o casa de entrega responsable o similar, en el que por un tiempo permanecen los animales para su rehabilitación física, esterilización o cuidado de cualquier índole;
 
@@ -1220,6 +1224,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0177.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 1º, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0231.- QUE REALIZA ADICIÓN AL ARTÍCULO 4°, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
