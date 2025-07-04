@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2025-06-18"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -946,7 +946,9 @@ I. En materia competencial:
 
 3. La selección de los listados de las candidaturas para elegir los cargos judiciales populares, le corresponderá de manera exclusiva a los poderes ejecutivo, legislativo y judicial, en los términos previstos por esta Constitución y las demás leyes aplicables;
 
-4. La preparación, organización, cómputo y calificación de la jornada del proceso judicial electoral le corresponderá de manera exclusiva al Instituto Electoral de Coahuila, en los términos que establezca esta Constitución y las demás leyes aplicables; y
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+4. La preparación, organización, cómputo y calificación de la jornada del proceso judicial electoral corresponderá al Instituto Electoral de Coahuila. Lo anterior en coordinación con el Instituto Nacional Electoral en el marco de sus respectivas competencias, en términos de los (sic) previsto en la Constitución Federal, la Constitución y las leyes aplicables.
 
 5. El (sic) Tribunal Electoral del Estado le corresponderá conocer y resolver las controversias que únicamente presenten las personas aspirantes y/o candidatas conforme a la Ley.
 
@@ -982,7 +984,9 @@ IV. En materia de prohibiciones:
 
 1. Se prohíben los actos anticipados de campaña. La ley establecerá las sanciones correspondientes;
 
-2. Se prohíbe cualquier financiamiento público y/o privado. Solo se permiten los gastos personales de las personas candidatas que serán autorizados, auditados y sancionados por el Instituto Electoral de Coahuila, en los términos previstos por la Ley;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+2. Se prohíbe cualquier financiamiento público o privado. Solo se permiten los gastos personales de las personas candidatas que serán fiscalizados por el Instituto Nacional Electoral. El Instituto Electoral de Coahuila podrá fiscalizarlos cuando así lo determine el Instituto Nacional Electoral, en los términos previstos por las disposiciones jurídicas aplicables. En todo caso, el organismo estatal deberá operar conforme a los reglamentos, acuerdos, lineamientos y directrices que aquél emita.
 
 3. Se prohíbe la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar las candidaturas;
 
@@ -2886,7 +2890,9 @@ V. Contar con la certificación de perfil judicial idóneo, por parte de la inst
 
 VI. Emitir por escrito una declaración de no conflicto de interés;
 
-VII. No haber ocupado el cargo de Secretaría del Ramo o su equivalente, en la Administración Pública Estatal, de la Fiscalía General del Estado, del Congreso del Estado o alguno de los cargos a que se refiere el artículo 97, fracción V de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de la convocatoria;
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+VII. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, Fiscal General del Estado, Diputada o Diputado del Congreso del Estado o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de la convocatoria;
 
 VIII. No tener sentencia firme por la comisión intencional de delitos contra la función pública, la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
 
@@ -6220,7 +6226,9 @@ Para la renovación de la totalidad de los cargos de elección popular del Poder
 
 I. Para llevar a cabo la jornada electoral del primero de junio de 2025 de la Elección Extraordinaria, se observarán las reglas siguientes:
 
-1. El Proceso Electoral Judicial 2024-2025 para el régimen local dará inicio el veinte de diciembre de dos mil veinticuatro, por lo que a partir de esa fecha todos los días y horas son hábiles para las actuaciones de las autoridades que se encargarán de este proceso conforme a este Decreto y se regirá por las bases, procedimientos, términos, modalidades y requisitos que señala esta Constitución, el Código Electoral de Coahuila, la Ley de Medios de Impugnación en Materia Político Electoral y de Participación Ciudadana y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+1. El Proceso Electoral Judicial 2024-2025 para el régimen local dará inicio el veinte de diciembre de dos mil veinticuatro, por lo que a partir de esa fecha todos los días y horas son hábiles para las actuaciones de las autoridades que se encargarán de este proceso conforme a este decreto y se regirá por las bases, procedimientos, términos, modalidades y requisitos que señalan, en lo conducente, la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
 
 2. Se autoriza habilitar y facultar expresamente desde el inicio del proceso, para que, en forma urgente, puedan sesionar o reunirse válidamente el Congreso del Estado, a través de la Diputación Permanente, la Junta de Gobierno, la Comisión de Gobernación, Puntos Constitucionales y Justicia, según corresponda; el Poder Judicial del Estado, a través del Pleno del Tribunal Superior de Justicia o el Consejo de la Judicatura, según corresponda; y el Poder Ejecutivo del Estado, a través de la Secretaría de Gobierno, a fin de que se emitan los actos, acuerdos o lineamientos necesarios para implementar este Decreto.
 
@@ -6250,9 +6258,15 @@ f) El plazo fatal en el que los funcionarios judiciales en funciones solicitará
 
 9. Una vez que el Congreso del Estado reciba del Pleno del Tribunal la información anterior para llevar a cabo la elección, se turnará y citará de manera urgente a la Comisión de Gobernación, Puntos Constitucionales y Justicia, para la elaboración del proyecto de la Convocatoria General que deberá aprobar el Congreso en los términos previstos en este Decreto.
 
-10. La preparación, organización, validación e impugnación de las elecciones judiciales estarán a cargo del Instituto Electoral y el Tribunal Electoral del Estado, conforme a este Decreto y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
 
-11. Para la elección extraordinaria solo se establecerá una circunscripción estatal única para facilitar la votación, la boleta y la jornada electoral en todo el Estado.
+10. La preparación, organización, cómputo y calificación de la jornada del proceso judicial electoral corresponderá al Instituto Electoral de Coahuila. Lo anterior en coordinación con el Instituto Nacional Electoral en el marco de sus respectivas competencias, en términos de los previsto en la Constitución Federal, la Constitución y las leyes aplicables.
+
+De la impugnación de las elecciones judiciales conocerán los tribunales especializados en materia electoral que corresponda.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+11. Para la elección extraordinaria se establecerán en la entidad la o las circunscripciones que determinen las autoridades electorales competentes.
 
 12. En el Presupuesto de Egresos para el ejercicio fiscal del año siguiente, el Congreso del Estado aprobará la partida que corresponda para llevar a cabo la elección judicial extraordinaria.
 
@@ -6272,13 +6286,17 @@ c) Para la elección judicial de la jornada de primero de junio de dos mil veint
 
 II. Para llevar a cabo la Elección Extraordinaria Judicial Local 2026-2027, que tendrá lugar el día de la elección federal ordinaria del año 2027, se observarán las reglas que establezca la legislación local aplicable, pero en todo caso el Congreso del Estado o, en sus recesos, la Diputación Permanente, expedirá la convocatoria respectiva conforme a este Decreto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO CUARTO.
 
-El Instituto Electoral de Coahuila, en forma extraordinaria, podrá emitir los acuerdos que estime necesarios para la preparación, organización y desarrollo de las elecciones judiciales 2025 y 2027, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género que establece este Decreto.
+El Instituto Electoral de Coahuila, podrá emitir los acuerdos que estime necesarios para la preparación, organización y desarrollo de las elecciones judiciales 2025 y 2027, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género que establece este decreto.
 
 Los partidos políticos, nacionales y locales, no podrán participar en ningún caso en las acciones, sesiones, reuniones, debates, casillas, centros de votación o cualquier actividad relacionada con este proceso judicial electoral.
 
-El Instituto Electoral, en lo conducente, se coordinará con el Instituto Nacional Electoral para llevar a cabo el proceso judicial conforme al Código Electoral de Coahuila.
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2025)</small>
+
+El Instituto Electoral de Coahuila, en todo caso, deberá operar conforme a los reglamentos, acuerdos, lineamientos y directrices que emita el Instituto Nacional Electoral que le sean vinculantes.
 
 El Instituto Electoral podrá realizar las adecuaciones presupuestales necesarias para el cumplimiento de este Decreto. Las elecciones extraordinarias se ajustarán al principio de austeridad conforme a la disponibilidad presupuestaria.
 
@@ -6329,3 +6347,13 @@ El Instituto Coahuilense de Acceso a la Información Pública quedará extinto u
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 263.- SE REFORMA EL NUMERAL 4 DE LA FRACCIÓN I, EL NUMERAL 2 DE LA FRACCIÓN IV DEL ARTÍCULO 27 BIS Y LA FRACCIÓN VII DEL ARTÍCULO 138, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN LOS NUMERALES 1, 10 Y 11 DE LA FRACCIÓN I DEL ARTÍCULO TERCERO TRANSITORIO; Y EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 218 POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 20 DE DICIEMBRE DE 2024".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. En el Proceso Judicial Electoral Extraordinario 2024-2025 iniciado el 20 de diciembre de 2024 en el Estado, se aplicarán los lineamientos o directrices en materia de fiscalización de candidaturas judiciales que emita el Instituto Nacional Electoral.
+
+TERCERO. Se derogan y quedan sin efecto alguno todas las disposiciones que se opongan y contravengan este Decreto.
