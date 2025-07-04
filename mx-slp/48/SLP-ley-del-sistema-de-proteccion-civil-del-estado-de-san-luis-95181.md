@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2024-07-05"
+last_updated: "2025-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -899,6 +899,16 @@ Previo a la realización de eventos públicos y de concentración masiva, deber�
 
 Así mismo, las coordinaciones a que se refiere este artículo, podrán promover ante las autoridades competentes, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 65 Bis.
+
+La autoridad que haya llevado a cabo la verificación, además del acta correspondiente, deberá colocar en el exterior del inmueble, instalación o equipo verificados, una calcomanía en la que se indique por lo menos, la fecha de verificación, si se cumplieron todos los estándares de seguridad o bien, si de la misma resultaron observaciones y las medidas de seguridad en su caso dictadas.
+
+Asimismo, deberán contar con un apartado en su sitio web, en donde cualquier persona pueda hacer consulta de las verificaciones que lleven a cabo, atendiendo las disposiciones en materia de transparencia y protección de datos personales.
+
+El Reglamento determinará las características de las calcomanías de verificación.
+
 ### Capítulo II. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 66.
@@ -1120,3 +1130,11 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0232.- QUE ADICIONA EL ARTÍCULO 65 BIS, A LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación del (sic) el Periódico Oficial del Estado “Plan de San Luis”.
+
+Segundo. El Ejecutivo del Estado de San Luis Potosí, en un plazo que no exceda de noventa días naturales, deberá llevar a cabo las adecuaciones al Reglamento de la Ley del Sistema de Protección Civil, con el fin de establecer las características físicas de las calcomanías de verificación a que se refiere el artículo 65 Bis de la Ley del Sistema de Protección Civil del Estado de San Luis Potosí.
