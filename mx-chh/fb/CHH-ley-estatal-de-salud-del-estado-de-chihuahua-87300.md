@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2025-03-05"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -585,7 +585,13 @@ IX.- La educación y promoción nutricional.
 
 X.- La atención médica a las personas en situación de vulnerabilidad, en los términos de la normatividad correspondiente. Las instituciones de salud de la Entidad brindarán atención médica de calidad a las víctimas de los delitos previstos en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, sin importar si se trata de derechohabientes o no, hasta su total recuperación y rehabilitación.
 
-XI.- Las demás que establezca esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2025)</small>
+
+XI.- La atención médica a las personas adultas mayores en áreas de salud geriátrica.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE JULIO DE 2025)</small>
+
+XII.- Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 35.
 
@@ -1449,9 +1455,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud.
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2025)</small>
 
-III.- Orientar y capacitar a la población en materia de nutrición, lactancia materna, sobrepeso y obesidad, salud mental, salud bucal, salud reproductiva, donación y trasplante de órganos y tejidos, donación de sangre, intoxicaciones, riesgos de automedicación, prevención de accidentes, adicciones y discapacidades, cuidados paliativos, salud ocupacional, uso adecuado de los servicios de salud, rehabilitación de personas con adicciones y en situación de discapacidad, detección oportuna de enfermedades, primordialmente cánceres de mama, cérvico-uterino y de próstata, hipertensión arterial, diabetes, prevención del suicidio y la autolesión.
+III.- Orientar y capacitar a la población en materia de nutrición, lactancia materna, sobrepeso y obesidad, salud mental, salud bucal, salud reproductiva, donación y trasplante de órganos y tejidos, donación de sangre, intoxicaciones, riesgos de automedicación, prevención de accidentes, adicciones y discapacidades, cuidados paliativos, salud ocupacional, uso adecuado de los servicios de salud, rehabilitación de personas con odicciones (sic) y en situación de discapacidad, detección oportuna de enfermedades, primordialmente cánceres de mama, cérvico-uterino y de próstata, hipertensión arterial, todos los tipos de diabetes, prevención del suicidio y la autolesión.
 
 ###### Artículo 119.
 
@@ -2035,9 +2041,11 @@ II.- Fortalecer en la población las oportunidades para mejorar, conservar y pro
 
 III.- Normar, planear, coordinar, supervisar, evaluar y asesorar las acciones para promover la salud de la población, por medio de la elaboración y difusión de normas, modelos operativos, documentos técnicos y materiales de apoyo, así como la capacitación del personal responsable a nivel estatal.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2025)</small>
+
 ###### Artículo 180.
 
-Los programas para la salud de nutrición, sobrepeso y obesidad, adicciones, enfermedades de transmisión sexual, síndrome de inmunodeficiencia adquirida, cánceres, donación y trasplante de órganos y tejidos, medicina transfusional, toxicología y trastornos mentales, se promoverán a través de campañas permanentes de orientación, que permitan a las personas tener estilos de vida saludables y faculte a las comunidades a crear y consolidar ambientes saludables y se reduzcan los riesgos de enfermedad.
+Los programas para la salud de nutrición, sobrepeso y obesidad, diabetes infantil, adicciones, enfermedades de transmisión sexual, síndrome de inmunodeficiencia adquirida, cánceres, donación y trasplante de órganos y tejidos, medicina transfusional, toxicología y trastornos mentales, se promoverán a través de campañas permanentes de orientación, que permitan a las personas tener estilos de vida saludables y faculte a las comunidades a crear y consolidar ambientes saludables y se reduzcan los riesgos de enfermedad.
 
 ###### Artículo 181.
 
@@ -2477,11 +2485,47 @@ XI.- La Secretaría, en la medida de sus posibilidades económicas, creará un b
 
 Por lo que tiene que ver con pérdida de la vida, deberá estarse a las disposiciones contenidas en la Ley General de Salud y en la Ley de Donación y Trasplantes de Órganos, Tejidos y Células del Estado de Chihuahua.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2025)</small>
+
+### CAPÍTULO VIII BIS. PROGRAMA ESTATAL DE DIABETES INFANTIL
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2025)</small>
+
+###### Artículo 222 Bis.
+
+La prevención y el control de diabetes infantil se basará en diferenciar el diagnóstico y atención de la diabetes infantil, así como realizar las acciones necesarias y coordinadas, considerando la atención oportuna y adecuada, el derecho a la insulina y a los insumos necesarios para el tratamiento de niñas, niños y adolescentes, atendiendo al Compendio Nacional de Insumos; lo anterior sujeto a la disponibilidad presupuestal y en apego a las normas, programas, lineamientos o protocolos vigentes, incluyendo las siguientes etapas:
+
+a) Detección.
+
+b) Diagnóstico.
+
+c) Tratamiento.
+
+d) Control.
+
+e) Vigilancia.
+
+f) Educación terapéutica y preventiva en diabetes infantil.
+
+Estas acciones estratégicas serán prioritarias a partir de la infancia, requiriendo la participación activa de los sectores educativo, público y privado; de la sociedad civil y la familia.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2025)</small>
+
+###### Artículo 222 Ter.
+
+Corresponde a la Secretaría, a través de las dependencias respectivas, lo siguiente:
+
+I. Garantizar el acceso a los servicios de salud para la atención de la diabetes infantil.
+
+II. Desarrollar programas permanentes en los que se incorporen acciones de prevención, atención y control de la diabetes infantil.
+
+III. Ejecutar campañas de difusión y sensibilización para la sociedad, encaminadas a prevenir la diabetes infantil.
+
+IV. Fomentar la educación terapéutica a las personas que padezcan diabetes infantil, incluyendo a sus familias, con la finalidad de propiciar un estilo de vida saludable en su entorno inmediato, que aminore la percepción de aislamiento del enfermo, aumente la eficacia en su propio tratamiento y contribuya a prevenir o retrasar la aparición de nuevos casos de diabetes.
+
+V. Implementar en los planteles de educación básica, en coordinación con la Secretaría de Educación y Deporte del Gobierno del Estado, programas y actividades de educación con enfoque en niñas, niños y adolescentes, propiciando la prevención, la concientización, la inclusión y no discriminación de los menores con diagnóstico de diabetes.
+
 ### CAPÍTULO IX. CADÁVERES
-
-### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 223.
 
@@ -2565,9 +2609,9 @@ Los establecimientos en los que se realicen actos relacionados con cadáveres de
 
 La Secretaría coordinará las acciones de las dependencias de la administración pública en la autorización del programa, así como promover la concertación de acciones con instituciones de los sectores público, privado y social, para operar dicho programa.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 237.
 
@@ -2729,7 +2773,9 @@ TÍTULO DECIMOTERCERO
 
 DE LA PARTICIPACIÓN DEL ESTADO EN LA PERSECUCIÓN DE LOS DELITOS CONTRA LA SALUD, EN SU MODALIDAD DE NARCOMENUDEO
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE EXPIDE ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 243.
 
@@ -2753,7 +2799,7 @@ TÍTULO DECIMOCUARTO
 
 DE LA SALUBRIDAD LOCAL
 
-### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 246.
 
@@ -2787,7 +2833,7 @@ III.- Contar, en su caso, con los auxiliares del responsable sanitario que deter
 
 Tratándose de moteles, establecimientos autorizados para expender e ingerir bebidas alcohólicas en los términos de la Ley respectiva y demás lugares que determine la reglamentación, deberán expenderse condones.
 
-### CAPÍTULO III. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
+### CAPÍTULO II. DE LOS ESTABLECIMIENTOS
 
 ###### Artículo 252.
 
@@ -2807,7 +2853,7 @@ Los establecimientos podrán dedicarse a las actividades y servicios a los que e
 
 Los propietarios o poseedores de los establecimientos están obligados a realizar los cambios en infraestructura y equipamiento que la autoridad sanitaria considere necesarios para cumplir con las condiciones de higiene y salubridad que establezcan las disposiciones legales y normas técnicas aplicables.
 
-### CAPÍTULO IV. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO III. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
 ###### Artículo 256.
 
@@ -2831,7 +2877,7 @@ El Ejecutivo del Estado, a través de la Secretaría, podrá celebrar convenios 
 
 En ningún caso y de ninguna forma se podrán expender o suministrar bebidas alcohólicas a menores de edad.
 
-### CAPÍTULO V. DE LAS CONSTRUCCIONES
+### CAPÍTULO IV. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 261.
 
@@ -2845,7 +2891,7 @@ Los mercados y centros de abasto estarán bajo la vigilancia de la autoridad san
 
 Los vendedores, locatarios y toda persona cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a observar las condiciones higiénicas y de salud indispensables para el desempeño de sus actividades, sujetándose a lo que dispone esta Ley, sus Reglamentos y las normas correspondientes.
 
-### CAPÍTULO VI. FUNERARIAS, CREMATORIOS Y PANTEONES
+### CAPÍTULO V. DE LAS CONSTRUCCIONES
 
 ###### Artículo 264.
 
@@ -2881,7 +2927,7 @@ Cuando los edificios, construcciones o terrenos presenten un peligro por su insa
 
 En última instancia, la autoridad sanitaria podrá ejecutar u ordenar la ejecución de las obras que estime pertinentes por su urgencia, con cargo al propietario del establecimiento.
 
-### CAPÍTULO VII. LIMPIEZA PÚBLICA
+### CAPÍTULO VI. FUNERARIAS, CREMATORIOS Y PANTEONES
 
 ###### Artículo 272.
 
@@ -2897,7 +2943,7 @@ Para establecer un panteón se requiere constancia de no inconveniente expedida 
 
 Para la actividad de funerarias y crematorios es indispensable el aviso de funcionamiento de la autoridad sanitaria.
 
-### CAPÍTULO VIII. RASTROS
+### CAPÍTULO VII. LIMPIEZA PÚBLICA
 
 ###### Artículo 275.
 
@@ -2927,7 +2973,7 @@ La basura deberá manipularse higiénicamente antes de llegar al basurero o a la
 
 Para toda actividad relacionada con este Capítulo, se estará a lo dispuesto por esta Ley, sus Reglamentos y normas aplicables.
 
-### CAPÍTULO IX. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VIII. RASTROS
 
 ###### Artículo 282.
 
@@ -2945,7 +2991,7 @@ Queda prohibida la matanza de animales en casas o domicilios particulares, cuand
 
 La matanza de animales en los rastros autorizados, se efectuará en los días y horas que fije la autoridad sanitaria, teniendo en consideración las condiciones del lugar y los elementos que la propia autoridad disponga para realizar las verificaciones correspondientes, utilizando la tecnología adecuada.
 
-### CAPÍTULO X. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO IX. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 286.
 
@@ -2985,7 +3031,7 @@ Queda prohibido que los desechos líquidos o sólidos que conduzcan los caños s
 
 En todo caso deberán ser tratados previamente y cumplir con las disposiciones de la Ley de la materia.
 
-### CAPÍTULO XI. CENTROS DE REINSERCIÓN SOCIAL
+### CAPÍTULO X. ESTABLOS, GRANJAS, CABALLERIZAS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 295.
 
@@ -3003,7 +3049,7 @@ Para el funcionamiento de los lugares a que se refiere este Capítulo, se requie
 
 Las condiciones sanitarias que deban reunir los establos, granjas, caballerizas y los establecimientos similares, serán fijadas por los ordenamientos legales correspondientes.
 
-### CAPÍTULO XII. BAÑOS PÚBLICOS, ALBERCAS Y SIMILARES
+### CAPÍTULO XI. CENTROS DE REINSERCIÓN SOCIAL
 
 ###### Artículo 299.
 
@@ -3017,7 +3063,7 @@ Los Centros de Reinserción Social, en cuanto a sus condiciones sanitarias estar
 
 Los Centros de Reinserción Social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños de regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario su traslado a un hospital.
 
-### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO XII. BAÑOS PÚBLICOS, ALBERCAS Y SIMILARES
 
 ###### Artículo 302.
 
@@ -3033,7 +3079,7 @@ Los baños públicos y albercas, para brindar el servicio al público, deberán 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, sus reglamentos y las normas técnicas correspondientes.
 
-### CAPÍTULO XIV. GIMNASIOS
+### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 305.
 
@@ -3043,7 +3089,7 @@ Se entiende por centros de reunión, todas aquellas edificaciones destinadas al 
 
 Los establecimientos a que se refiere el presente Capítulo, para su funcionamiento deberán contar con licencia expedida por la autoridad competente, previa constancia de no inconveniente emitida por la Secretaría, en cumplimiento a lo dispuesto en esta Ley, Reglamentos y las normas correspondientes.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, SALONES DE MASAJE Y OTROS
+### CAPÍTULO XIV. GIMNASIOS
 
 ###### Artículo 307.
 
@@ -3077,7 +3123,7 @@ La falta de cumplimiento a esta disposición, se sancionará conforme a los art�
 
 La Secretaría, en ejercicio de sus facultades, será la autoridad competente para expedir la constancia de no inconveniente para la operación de estos centros y supervisar su operación.
 
-### CAPÍTULO XVI. DE LA ROPA USADA
+### CAPÍTULO XV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, SALONES DE MASAJE Y OTROS
 
 ###### Artículo 313.
 
@@ -3099,7 +3145,7 @@ VI.- Procedimientos de embellecimiento, aquellos servicios en los que se utilice
 
 Para el funcionamiento de estos establecimientos se deberá obtener constancia de no inconveniente por parte de la Secretaría y cumplir con lo establecido en esta Ley, sus reglamentos y normas técnicas correspondientes.
 
-### CAPÍTULO XVII. ESTABLECIMIENTOS DE HOSPEDAJE
+### CAPÍTULO XVI. DE LA ROPA USADA
 
 ###### Artículo 315.
 
@@ -3109,7 +3155,7 @@ La Secretaría realizará acciones de prevención para impulsar prácticas de hi
 
 Las personas dedicadas a la compraventa y renta de ropa usada, con fines de lucro, deberán impulsar las buenas prácticas de higiene y sanidad en el manejo de estas prendas, principalmente evitar la acumulación en condiciones de humedad y su limpieza periódica.
 
-### CAPÍTULO XVIII. ESTABLECIMIENTOS DE TATUAJES Y/O PERFORACIONES
+### CAPÍTULO XVII. ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### Artículo 316.
 
@@ -3121,7 +3167,7 @@ La Secretaría, por falta de higiene o incumplimiento de las disposiciones estab
 
 Para la operación de estos establecimientos, se requiere constancia de no inconveniente emitida por la Secretaría.
 
-### CAPÍTULO XIX. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPÍTULO XVIII. ESTABLECIMIENTOS DE TATUAJES Y/O PERFORACIONES
 
 ###### Artículo 318.
 
@@ -3153,7 +3199,7 @@ I.- Menores de edad, salvo cuando estén acompañados por sus padres y emitan la
 
 II.- Quien se encuentre mentalmente impedido para tomar decisiones.
 
-### CAPÍTULO XX. GASOLINERAS
+### CAPÍTULO XIX. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 322.
 
@@ -3163,7 +3209,7 @@ Se entiende por transporte, todo vehículo cuya acción es llevar o trasladar un
 
 Los prestadores de estos servicios deberán cumplir con la legislación aplicable, así como las normas expedidas en materia de salubridad e higiene.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XX. GASOLINERAS
 
 ###### Artículo 324.
 
@@ -3177,7 +3223,7 @@ TÍTULO DECIMOQUINTO
 
 AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### Artículo 326.
 
@@ -3267,7 +3313,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se recaudarán en la forma que establezca la legislación fiscal.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 337.
 
@@ -3335,7 +3381,7 @@ La resolución de revocación surtirá efectos, en su caso, de clausura definiti
 
 En la tramitación del procedimiento administrativo contenido en este Capítulo, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### Artículo 345.
 
@@ -3404,8 +3450,6 @@ TÍTULO DECIMOSEXTO
 VIGILANCIA SANITARIA
 
 ### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 350.
 
@@ -3483,7 +3527,9 @@ TÍTULO DECIMOSÉPTIMO
 
 DE LA PUBLICIDAD
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 360.
 
@@ -3493,7 +3539,7 @@ TÍTULO DECIMOCTAVO
 
 MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 361.
 
@@ -3617,7 +3663,7 @@ La desocupación o desalojo de casa, edificios, establecimientos y, en general, 
 
 En el resto de los casos, la observancia de la garantía de audiencia y de dictamen pericial será previa a la acción de la autoridad sanitaria.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 374.
 
@@ -3715,7 +3761,7 @@ Sólo procederá esta sanción, si previamente se aplicó cualquiera otra de las
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO IV. RECURSOS DE REVISIÓN Y REVOCACIÓN
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 386.
 
@@ -3789,7 +3835,7 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente, formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la medida de seguridad o de la imposición de la sanción administrativa que proceda.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSOS DE REVISIÓN Y REVOCACIÓN
 
 ###### Artículo 396.
 
@@ -3864,6 +3910,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### Artículo 406.
 
 En la tramitación de los recursos que se regulan en este Capítulo, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### Artículo 407.
 
@@ -4332,3 +4380,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El suministro gratuito de productos de gestión menstrual, medicamentos básicos e insumos esenciales para la salud, que atiendan los síntomas de la menstruación, se sujetará a la disponibilidad presupuestaria de la Secretaría de Salud del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0232/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0246/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
