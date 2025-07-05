@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2024-09-09"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -2041,7 +2041,7 @@ A la persona mayor de edad, que tenga cópula con persona de catorce años de ed
 
 Sólo se procederá contra el activo, previa querella de la víctima u ofendido, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el procurador de la defensa del menor y la familia.
 
-### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL, ACOSO LABORAL Y ACOSO SEXUAL
+### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL, ACOSO LABORAL, ACOSO SEXUAL Y VIOLENCIA DIGITAL
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
 
@@ -2077,7 +2077,7 @@ IV.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o eje
 
 V.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2025)</small>
 
 ### CAPÍTULO V. VIOLENCIA DIGITAL
 
@@ -2115,17 +2115,35 @@ Se impondrá de un año a tres años de prisión y multa de doscientas cincuenta
 
 En caso de que el acosador sea un servidor público además de la pena mencionada se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
-(REPUBLICADO Y REUBICADO [N. DE E. ANTES EN CAPÍTULO V DE ESTE TÍTULO SEGUNDO], P.O. 18 DE FEBRERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2025)</small>
 
-ARTÍCULO 152 TER. Comete el delito de acoso sexual, al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, será sancionado con seis meses a un año de prisión y multa de cincuenta a cien unidades de medida y actualización.
+ARTÍCULO 152 TER. Comete el delito de acoso sexual, al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, será sancionado con dos a cuatro años de prisión y multa de cincuenta a cien unidades de medida y actualización.
+
+(REPUBLICADO Y REUBICADO, P.O. 18 DE FEBRERO DE 2023)
 
 Solamente será punible el acoso sexual cuando se cause daño o perjuicio.
 
-Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2025)</small>
 
-Al responsable del delito de acoso sexual, cuando el pasivo sea menor de dieciocho años de edad, tenga alguna discapacidad, no tenga capacidad para comprender el significado del hecho o no tenga la capacidad para resistirlo, se le impondrá una pena de un año a un año seis meses de prisión y multa por el importe equivalente de cien a ciento cincuenta días de unidades de medida y actualización y en este caso se perseguirá de oficio.
+Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores se perseguirá de oficio.
 
-Se impondrá de ocho meses a año seis meses de prisión y multa de cien a ciento cincuenta unidades de medida y actualización al responsable de acoso sexual que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video del acoso sexual o solicite un encuentro sexual.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2025)</small>
+
+Al responsable del delito de acoso sexual, cuando el pasivo sea menor de dieciocho años de edad, tenga alguna discapacidad, no tenga capacidad para comprender el significado del hecho o no tenga la capacidad para comprender el significado del hecho o no tenga la capacidad para resistirlo, se le impondrá una pena de cuatro a ocho años de prisión y multa por el importe equivalente de doscientas a cuatrocientas días de unidades de medida y actualización y en este caso se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2025)</small>
+
+Se impondrá de tres a cinco años de prisión y multa de doscientas a trescientas cincuenta unidades de medida y actualización al responsable de acoso sexual que, haciendo uso de medios de radiodifusión, telecomunicaciones informáticas o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video del acoso sexual o solicite un encuentro sexual.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE JULIO DE 2025)</small>
+
+En caso de reincidencia las sanciones previstas en este artículo se incrementarán en una mitad.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2025)</small>
+
+ARTÍCULO 152 QUÁTER. Comete el delito de violencia digital a quién haciendo uso de la Inteligencia Artificial, manipule imágenes, audios y/o videos, de una persona con el fin de crear hechos falsos con apariencia real de índole sexual o con fines lascivos, con el objeto de exponer, distribuir, difundir, transmitir, reproducir, comercializar, intercambiar, almacenar y/o compartir a través de cualquier medio, ya sea digital o físico, sin consentimiento expreso y voluntario de la persona pasiva. Al responsable de realizar dicha conducta se le impondrá una pena de prisión de cuatro a cinco años. En caso de que la persona pasiva de este delito sea menor de dieciocho años de edad, la pena aumentará de dos a cuatro años.
+
+Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial a las aplicaciones, programas o tecnología que analicen y/o procesen fotografías, audios o videos y que realicen ajustes automáticos para hacer alteraciones o modificaciones con el fin de crear nuevas imágenes, audios y/o videos.
 
 En caso de reincidencia las sanciones previstas en este artículo se incrementarán en una mitad.
 
@@ -4890,3 +4908,15 @@ P.O. 9 DE SEPTIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. La Secretaría de Salud contará con un lapso no mayor a 180 días a la entrada en vigor del presente Decreto para coordinarse con las autoridades correspondientes a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
+
+P.O. 5 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 143.- POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO IV, ASÍ COMO EL ARTÍCULO 152 TER Y SE ADICIONA EL ARTÍCULO 152 QUÁTER, TODOS DEL TÍTULO SEGUNDO “DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL”, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
