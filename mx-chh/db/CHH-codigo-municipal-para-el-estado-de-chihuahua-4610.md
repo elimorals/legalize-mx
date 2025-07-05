@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2024-09-04"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -3945,6 +3945,12 @@ Para efectos de la fracción I, del presente artículo, en relación con el art�
 
 Para atender la violencia contra las mujeres, los Módulos podrán regionalizarse de tal manera que estos atiendan a dos o más municipios, en cuyo caso los municipios involucrados deberán convenir sobre la operación de los mismos. Los municipios donde ya operen los Centros de Justicia para las Mujeres impulsarán la instalación de áreas para atender y canalizar a dichos Centros a las personas que se estime sean víctimas de violencia familiar y de género.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2025)</small>
+
+Para proponer la instalación de los Módulos de Atención a la Violencia Familiar y de Género o la creación de unidades de asistencia y protección a las mujeres víctimas de violencia en los municipios, además de sus previsiones presupuestales, podrán tomar en consideración parámetros como índices delictivos, poblacionales, percepción delincuencial, sociales y geográficos, entre otros.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 5 DE JULIO DE 2025)</small>
+
 En los municipios que se cuente con la figura de Administración de la Ciudad, la persona que ocupe su titularidad será responsable de la evaluación y supervisión de lo dispuesto por este artículo de conformidad a los reglamentos particulares de cada Municipio, con excepción de lo previsto en su fracción I.
 
 ###### ARTICULO 181.
@@ -5924,3 +5930,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFCOD/0242/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
