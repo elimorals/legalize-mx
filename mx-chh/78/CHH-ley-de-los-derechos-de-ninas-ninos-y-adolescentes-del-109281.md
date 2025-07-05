@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-04-09"
+last_updated: "2025-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -784,6 +784,10 @@ XXI. Protegerlos del consumo de sustancias adictivas, así como de la exposició
 XXII. Brindar atención médica prenatal y postnatal a las mujeres en gestación.
 
 XXIII. Recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal.
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2025)</small>
+
+XXIV. Combatir todos las (sic) tipos de diabetes a través de la realización de campañas preventivas y diagnóstico oportuno, y en los casos diagnosticados dar un seguimiento a las niñas, niños y adolescentes con la enfermedad que incluya educación terapéutica para ellos y sus familiares, así como el acceso a tratamientos gratuitos de insulina y a los insumos necesarios para su tratamiento, en los casos que corresponda, atendiendo al Compendio Nacional de Insumos.
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -3006,6 +3010,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0185/2025 II P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, PRIMER PÁRRAFO, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0246/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
