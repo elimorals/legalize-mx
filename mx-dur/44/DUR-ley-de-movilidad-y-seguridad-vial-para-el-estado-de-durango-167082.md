@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-movilidad-y-seguridad-vial-para-el-estado-de-durango-167
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-27"
-last_updated: "2023-07-27"
+last_updated: "2025-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
 
 Ley publicada en el Número 60 del Periódico Oficial del Estado de Durango, el jueves 27 de julio de 2023.
 
@@ -583,9 +583,15 @@ IX. Fomentar la movilidad activa y el uso cotidiano, masivo y seguro de la bicic
 
 X. Realizar los operativos de alcoholimetría en el ámbito de su respectiva competencia;
 
-XI. Vigilar el cumplimiento de las disposiciones de seguridad vial y vehicular; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
-XII. Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+XI. Vigilar el cumplimiento de las disposiciones de seguridad vial y vehicular;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+XII. Promover, incentivar e impulsar la participación de las mujeres como operadoras de vehículos de transporte público, en un marco de igualdad, seguridad y respeto a sus derechos humanos; y
+
+XIII. Las demás que les otorguen la presente Ley, sus Reglamentos y demás disposiciones administrativas.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE MOVILIDAD Y SEGURIDAD VIAL
 
@@ -1184,3 +1190,13 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 177 QUE CONTIENEN REFORMAS Y ADICIONES A LA LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
