@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-16667
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-04"
-last_updated: "2023-06-04"
+last_updated: "2025-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
 
 Ley publicada en el No. 45 del Periódico Oficial del Estado de Durango, el domingo 4 de junio de 2023.
 
@@ -425,7 +425,9 @@ VI. Tratándose de edificaciones de vivienda de interés social, se procurará q
 
 VII. Los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse; en estos casos los proyectos deberán incluir, en la medida de lo posible, la implementación de todos los insumos que en materia de construcción se emplean puedan ser de carácter renovable, ecológico y sustentable, para que se preserven o restauren las condiciones ambientales y los procesos ecológicos, y
 
-VIII. Se utilice, preferentemente, el empleo de recursos humanos y de materiales propios de la región.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
+
+VIII. Se utilice, preferentemente, el empleo de recursos humanos y de materiales propios de la región, así como reciclados o reutilizables.
 
 ###### Artículo 28.
 
@@ -1680,3 +1682,15 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLAREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 181 QUE CONTIENE REFORMA A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE DURANGO Y SUS MUNICIPIOS”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, se deberán adecuar las disposiciones reglamentarias respectivas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
