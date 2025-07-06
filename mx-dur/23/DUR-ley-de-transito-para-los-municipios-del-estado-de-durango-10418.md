@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2024-05-19"
+last_updated: "2025-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -521,11 +521,13 @@ III.- MOTOCICLISTA
 
 La persona que conduce este tipo de vehículos.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 40.
 
-Las licencias para automovilistas, choferes y motociclistas, serán expedidas y renovadas por el Gobierno del Estado de Durango, previa la constancia de aprobación del Examen de Manejo de la Dirección Municipal, así como el llenado y revisión de la documentación correspondiente.
+Las licencias para automovilistas, choferes y motociclistas, serán expedidas y renovadas por el Gobierno del Estado de Durango, previa la constancia de aprobación del Examen de Manejo de la Dirección Municipal, el certificado de No Deudor Alimentario Moroso expedido por el Registro Nacional de Obligaciones Alimentarias, así como el llenado y revisión de la documentación correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
 Las licencias deberán contener la información suficiente para la identificación del interesado, así como su manifestación sobre ser o no donador de órganos, ello de acuerdo al formato que al efecto haga entrega la Secretaría de Salud a través de los entes correspondientes y el cual deberá ser llenado al momento de la solicitud.
 
@@ -980,3 +982,11 @@ P.O. 19 DE MAYO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente decreto.
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 178 POR EL QUE SE REFORMA EL ARTÍCULO 40 DE LA LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
