@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2025-01-21"
+last_updated: "2025-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -101,11 +101,13 @@ Para la consecución de la paz, el Estado y sus municipios priorizarán la preve
 
 Toda persona tiene derecho a vivir en un ambiente libre de corrupción.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2025)</small>
 
 ###### Artículo 4.
 
-Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, menores de edad, personas con discapacidad, adultos mayores, comunidades menonitas y grupos o etnias indígenas.
+Se reconoce y garantiza a toda persona el derecho a la integridad física, psíquica y sexual, y a una vida libre de violencia en los ámbitos público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda clase de violencia o abuso, físico, psíquico o sexual, especialmente en contra de mujeres, personas con discapacidad, adultos mayores, comunidades menonitas, grupos o etnias indígenas, las niñas, niños y las y los adolescentes, por lo que se garantizará el cumplimiento de las obligaciones de todo deudor alimentario.
+
+El estado garantizará el cumplimiento de las obligaciones alimentarias de conformidad con la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
 
@@ -469,7 +471,9 @@ III. La información que se refiere a la vida privada y los datos personales ser
 
 IV. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos, en términos de la ley.
 
-V. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante un órgano especializado, imparcial y autónomo.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
+
+V. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos de la legislación aplicable.
 
 VI. Los sujetos obligados deberán preservar los documentos en archivos administrativos, en términos de la ley, y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre los planes, programas, evaluaciones, indicadores de desempeño y la relativa al ejercicio y resultados de la gestión pública.
 
@@ -881,7 +885,17 @@ II. Permitir que derechos de propiedad ajenos se registren u ostenten como de su
 
 III. Por estado de interdicción judicialmente declarado.
 
-IV. En los casos y términos previstos por la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+IV. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+V. Por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
+
+VI. En los casos y términos previstos por la Constitución Política de los Estados Unidos Mexicanos.
 
 Los derechos del ciudadano se recobrarán al cesar la causa que dio motivo a la suspensión, excepto lo dispuesto en las fracciones I y II.
 
@@ -1125,7 +1139,7 @@ III. Tener dieciocho años cumplidos el día de la elección.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
-IV. No ser Secretario, Secretaria o Subsecretario, Subsecretaria (sic), Comisionado, Comisionada o Consejero, Consejera de un órgano constitucional autónomo, Magistrado, Magistrada, integrante del Órgano de Administración del Poder Judicial del Estado, Auditora o Auditor Superior del Estado, Presidenta o Presidente Municipal, Síndica o Sindico, Regidora o Regidor de algún Ayuntamiento, servidora o servidor público de mando superior de la Federación o militar en servicio activo, salvo que se hubieren separado de su encargo de manera definitiva noventa días antes del día de la elección.
+IV. No ser Secretario, Secretaria o Subsecretario, Subsecretaria, Comisionado, Comisionada o Consejero, Consejera de un órgano constitucional autónomo, Magistrado, Magistrada, integrante del Órgano de Administración del Poder Judicial del Estado, Auditora o Auditor Superior del Estado, Presidenta o Presidente Municipal, Síndica o Sindico, Regidora o Regidor de algún Ayuntamiento, servidora o servidor público de mando superior de la Federación o militar en servicio activo, salvo que se hubieren separado de su encargo de manera definitiva noventa días antes del día de la elección.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -1138,6 +1152,10 @@ VI. No haber sido sentenciado o sentenciada con resolución firme de autoridad j
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE JULIO DE 2023)</small>
 
 VII. No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+VIII. No ser deudora o deudor alimentario moroso.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1697,9 +1715,13 @@ V. No ser Secretaria o Secretario, Subsecretaria o Subsecretario, Consejera o Co
 
 VI. No haya sido condenado por la comisión de delito doloso.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
-VIII (SIC). No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+VII. No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+VIII. No ser deudora o deudor alimentario moroso.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1969,9 +1991,17 @@ I. Ser ciudadana mexicana o ciudadano mexicano en pleno goce de sus derechos.
 
 II. Ser mayor de treinta y cinco años de edad.
 
-III. Poseer el día de su nombramiento Título Profesional de Licenciado en Derecho y contar con experiencia en materia penal de por lo menos cinco años.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
-IV. No haber sido condenado por delito doloso.
+III. Poseer el día de su nombramiento Título Profesional de Licenciatura en Derecho y contar con experiencia en materia penal de por lo menos cinco años.
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
+
+IV. No haber sido sentenciada o sentenciado por resolución firme de autoridad judicial competente, por la comisión de delito intencional que amerite pena privativa de libertad o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos o por delitos de violencia política contra las mujeres por razones de género; así como no tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+V. No ser deudora o deudor alimentario moroso.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2531,9 +2561,9 @@ Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su funci
 
 Los órganos constitucionales autónomos tendrán personalidad jurídica y patrimonio propios, gozarán de autonomía técnica, operativa, presupuestaria y de gestión en el ejercicio de sus atribuciones; las leyes de su creación determinarán la integración y funciones de sus consejos, órganos directivos, consultivos o de gobierno, así como su estructura orgánica y funcionamiento. El Congreso del Estado, designará con el voto de las dos terceras partes de sus integrantes presentes, a los titulares de sus órganos internos de control, mismos que no serán reelectos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ENERO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JULIO DE 2025)</small>
 
-Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana, el Tribunal Electoral del Estado de Durango, el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción; los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
+Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Electoral y de Participación Ciudadana, el Tribunal Electoral del Estado de Durango, el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción; los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2603,37 +2633,17 @@ La Comisión podrá investigar hechos que constituyan violaciones graves de dere
 
 La Comisión estará integrada por un Presidente y un Consejo de cinco miembros. El Presidente de la Comisión durará cinco años en su cargo y podrá ser reelecto una sola vez. Los Consejeros tendrán un único periodo de cinco años.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JULIO DE 2025)</small>
 
 ### Capítulo III. Del Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales
 
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 136.
 
-El Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales tiene como objeto garantizar, promover y difundir el ejercicio del derecho de acceso a la información pública y proteger los datos personales en poder de los sujetos obligados.
-
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
-
-El Instituto tendrá un Consejo General, que será el órgano máximo de autoridad y estará integrado por tres comisionados propietarios, quienes designarán a su presidente de entre sus miembros.
-
-(ADICIONADO, P.O. 6 DE AGOSTO DE 2015) (F. DE E., P.O. 20 DE AGOSTO DE 2015)
-
-Los comisionados durarán en su cargo por un periodo que no excederá de siete años, sin posibilidad de reelección.
-
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
-
-Para el cumplimiento de sus objetivos, el Instituto se regirá por los principios de: certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo y transparencia.
-
-Por lo que hace a la protección de los datos personales, se regirá por los principios de calidad de los datos, utilización no abusiva, exactitud, derecho al olvido, oportunidad y consentimiento.
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+(DEROGADO, P.O. 6 DE JULIO DE 2025)
 
 ###### Artículo 137.
 
-Los sujetos obligados deberán dar a conocer y entregar la información pública que se les solicite y difundir de oficio la que la ley disponga por los medios que esta señale.
-
-La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley.
+(DEROGADO, P.O. 6 DE JULIO DE 2025)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2836,6 +2846,10 @@ V. No haber sido sentenciado o sentenciada con resolución firme de autoridad ju
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2023)</small>
 
 VI. No tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+VII. No ser deudora o deudor alimentario moroso.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
@@ -5068,3 +5082,67 @@ CUARTO. En un plazo que no exceda de noventa días a partir de la entrada en vig
 QUINTO. Se abroga la Ley de Evaluación de Políticas Públicas del Estado de Durango.
 
 SEXTO. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 162 QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE LA LEY 3 DE 3 CONTRA LA VIOLENCIA HACIA LA MUJER”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Congreso del estado tendrá un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan, para dar cumplimiento a éste.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 163 QUE CONTIENE REFORMAS Y DEROGACIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE SIMPLIFICACIÓN ORGÁNICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se extingue el Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación, en los términos que para tal efecto señala la Constitución Política de los Estados Unidos Mexicanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto serán concluidos por las y los titulares de las unidades administrativas del Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, responsables de las mismas, conforme a las disposiciones jurídicas aplicables.
+
+El Consejo General del Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, continuará en funciones hasta que inicie el proceso de liquidación del órgano.
+
+La liquidación del Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, estará a cargo de un liquidador nombrado por la Secretaria de Finanzas y de Administración del Gobierno del Estado, quien tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o clausula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+El liquidador realizará lo siguiente:
+
+I. Verificará el inventario de los bienes propiedad del organismo.
+
+II. Someter a dictamen del auditor designado por la Secretaría de Contraloría del Gobierno del Estado, los estados financieros inicial y final de liquidación
+
+III. Someter a dictamen del Congreso del Estado los estados financieros inicial y final. de liquidación a la Comisión de Hacienda, Presupuesto y Cuenta Pública.
+
+IV. Informará mensualmente a las Secretaría de Contraloría y la Secretaría de Finanzas y de Administración, el avance y estado que guarde el proceso.
+
+V. Llevará a cabo la entrega de los bienes materiales, así como los registros, padrones, plataformas y sistemas electrónicos propiedad del Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial.
+
+VI. Transferir en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado.
+
+VII. Se apegará a los acuerdos que emita el Gobierno del Estado, mediante los entes gubernamentales que se designen para tal efecto, y;
+
+VIII. Las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación.
+
+A partir de la entrada en vigor del presente Decreto, se tendrá por concluida la relación jurídico-laboral entre el Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales y los trabajadores de este, salvo los servidores públicos responsables de los asuntos señalados en el presente instrumento jurídico, quienes serán considerados trabajadores transitorios.
+
+En todo momento los derechos laborales de los trabajadores del organismo extinto se respetarán, las indemnizaciones correspondientes se harán conforme a lo dispuesto en la normatividad aplicable.
+
+Los juicios promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Órgano Constitucional Autónomo, denominado Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, pendientes de resolución, se continuaran de conformidad con las atribuciones y normas aplicables. a la Secretaría de Contraloría del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Contraloría del Gobierno del Estado, será la responsable de sancionar el proceso de entrega-recepción del organismo que se extingue mediante el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado tendrá un plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan para dar cumplimiento en materia de acceso a la información pública y protección de datos personales.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
