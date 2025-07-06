@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transportes-para-el-estado-de-durango-25645"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-13"
-last_updated: "2023-07-27"
+last_updated: "2025-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 13 de junio de 2002.
 
@@ -317,7 +317,9 @@ I. Expedir el Reglamento de la presente Ley, así como las demás disposiciones 
 
 II. Dictar y aplicar las medidas necesarias para el cumplimiento de esta Ley y su Reglamento;
 
-III. Celebrar los convenios necesarios con la Federación, con las Entidades Federativas y los Ayuntamientos, a fin de que sea eficiente, eficaz y de calidad la prestación del servicio de transporte público;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
+
+III. Celebrar los convenios necesarios con la Federación, las Entidades Federativas, los Ayuntamientos y el sector privado y social, mediante los cuales puedan implementar esquemas de financiamiento para renovar y mejorar el parque vehicular, a fin de que la prestación del servicio de transporte público sea eficiente, eficaz y de calidad;
 
 IV. La planeación del transporte, para lo cual aprobará, evaluará y modificará el Programa;
 
@@ -1942,3 +1944,11 @@ OCTAVO. En su oportunidad deberá adecuarse las correspondientes Ley de Hacienda
 NOVENO. Los recursos que se obtengan conforme a lo establecido en el artículo 95 DUODECIES de la presente ley, serán destinados preferentemente a la modernización y mejoramiento de la movilidad y el transporte público.
 
 DÉCIMO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 179 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
