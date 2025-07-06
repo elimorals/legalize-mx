@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-mental-para-el-estado-de-durango-159793"
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-07"
-last_updated: "2022-07-07"
+last_updated: "2025-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2025.
 
 Ley publicada en el Número 54 del Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2022.
 
@@ -131,37 +131,47 @@ XVIII. Perspectiva de género: A la visión científica, analítica y política 
 
 XIX. Posvención: Acciones e intervenciones posteriores a la conducta suicida destinadas a trabajar con las personas sobrevivientes, familia y entorno;
 
-XX. Profesional de salud mental: Psicólogos, psiquiatras, neurólogos, así como las personas especializadas en el área de salud mental y certificadas por la autoridad competente;
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
 
-XXI. Psicoeducación (Educación para la salud mental): Proceso multidisciplinario, mediante el cual se busca orientar acerca de la naturaleza de la enfermedad, promoviendo la autonomía, el empoderamiento y la reintegración social, así como a la no estigmatización y/o la discriminación de los usuarios y pacientes, a fin de modificar o sustituir determinadas conductas que alteren la salud mental, por conductas y actitudes saludables en lo individual y colectivo y en su relación con el medio ambiente;
+XX. Primeros Auxilios Psicológicos: intervención breve, empática y centrada en el bienestar emocional de personas que enfrentan una situación de crisis, accidente o acontecimiento traumático, con el fin de brindar contención inicial, reducir el estrés y facilitar la canalización a atención especializada posterior;
 
-XXII. Red de Salud Mental: La organización y vinculación de instituciones y organismos del sector público, privado y social, cuyos recursos y acciones en los diferentes niveles de atención, se orientan a la promoción, prevención, tratamiento, rehabilitación y reintegración social de las personas que padezcan o estén en riesgo de padecer una condición de salud mental;
+XXI. Profesional de salud mental: Psicólogos, psiquiatras, neurólogos, así como las personas especializadas en el área de salud mental y certificadas por la autoridad competente;
 
-XXIII. Reglamento: Reglamento de la Ley de Salud Mental para el Estado de Durango;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
-XXIV. Rehabilitación: Es la fase de tratamiento que se orienta a la recuperación y/o al aprendizaje de estrategias, comportamientos y actitudes, así como cambios en el entorno que permitan alcanzar el máximo nivel posible de funcionamiento independiente en la comunidad;
+XXII. Psicoeducación (Educación para la salud mental): Proceso multidisciplinario, mediante el cual se busca orientar acerca de la naturaleza de la enfermedad, promoviendo la autonomía, el empoderamiento y la reintegración social, así como a la no estigmatización y/o la discriminación de los usuarios y pacientes, a fin de modificar o sustituir determinadasconductas (sic) que alteren la salud mental, por conductas y actitudes saludables en lo individual y colectivo y en su relación con el medio ambiente;
 
-XXV. Reintegración: Es el conjunto de acciones dirigidas a promover un mejor estilo de vida dirigido a las personas que se han rehabilitado con la intención de lograr un buen funcionamiento interpersonal, laboral y social;
+XXIII. Red de Salud Mental: La organización y vinculación de instituciones y organismos del sector público, privado y social, cuyos recursos y acciones en los diferentes niveles de atención, se orientan a la promoción, prevención, tratamiento, rehabilitación y reintegración social de las personas que padezcan o estén en riesgo de padecer una condición de salud mental;
 
-XXVI. Secretaría: Secretaría de Salud del Estado de Durango;
+XXIV. Reglamento: Reglamento de la Ley de Salud Mental para el Estado de Durango;
 
-XXVII. Sistema: Sistema Estatal de Salud Mental;
+XXV. Rehabilitación: Es la fase de tratamiento que se orienta a la recuperación y/o al aprendizaje de estrategias, comportamientos y actitudes, así como cambios en el entorno que permitan alcanzar el máximo nivel posible de funcionamiento independiente en la comunidad;
 
-XXVIII. Síndrome del cuidador: La situación de crisis, estrés y desgaste psicofísico y de salud en general en el cuidado constante y continuado del paciente que se presenta en el cuidador primario, derivada por múltiples factores, entre ellos, la información que reciben del paciente, la vivencia del desgaste psicofísico de su paciente, la innegable manifestación de sentimientos y emociones que se generan en esta etapa de la vida, todo eso aunado a las diferencias familiares, los conflictos laborales o escolares y el insuficiente periodo de descanso;
+XXVI. Reintegración: Es el conjunto de acciones dirigidas a promover un mejor estilo de vida dirigido a las personas que se han rehabilitado con la intención de lograr un buen funcionamiento interpersonal, laboral y social;
 
-XXIX. Suicidio: Acto deliberado e intencional realizado por una persona para quitarse la vida;
+XXVII. Secretaría: Secretaría de Salud del Estado de Durango;
 
-XXX. Suicidio colectivo: Es una forma de suicidio que ocurre cuando un grupo de personas se suicidan simultáneamente;
+XXVIII. Sistema: Sistema Estatal de Salud Mental;
 
-XXXI. Trastorno mental (psicopatología): Síndrome caracterizado por una alteración clínicamente significativo del estado cognitivo, la regulación emocional o el comportamiento de un individuo, que refleja una disfunción de los procesos psicológicos, biológicos, emocionales o del desarrollo que subyacen en su función mental;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
-XXXII. Unidad de Atención de Salud Mental: Los espacios públicos, privados y sociales que presten servicios ambulatorios, urgencias, consulta, evaluación, prevención, diagnóstico, atención y tratamiento, en materia de salud mental, adicciones, del suicidio y la posvención y en su caso canalización a atención médico-psiquiátrico;
+XXIX. Síndrome del cuidador: La situación de cri (sic)
 
-XXXIII. Unidad de Atención Integral Médico-Psiquiátrico: Establecimiento que brinda el servicio de urgencias, consulta, evaluación, diagnóstico, hospitalización breve y tratamiento en materia de salud mental;
+(sic) sis, estrés y desgaste psicofísico y de saluden (sic) general en el cuidado constante y continuado del paciente que se presenta en el cuidador primario, derivada por múltiples factores, entre ellos, la información que reciben del paciente, la vivencia del desgaste psicofísico de su paciente, la innegable manifestación de sentimientos y emociones que se generan en esta etapa de la vida, todo eso aunado a las diferencias familiares, los conflictos laborales o escolares y el insuficiente periodo de descanso;
 
-XXXIV. Usuario: La persona que utiliza y elige los servicios brindados por el sector público, privado o social para preservar y mejorar su salud mental y por tanto su calidad de vida, y
+XXX. Suicidio: Acto deliberado e intencional realizado por una persona para quitarse la vida;
 
-XXXV. Violencias (sic): Cualquier acción u omisión que cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, incluido el maltrato.
+XXXI. Suicidio colectivo: Es una forma de suicidio que ocurre cuando un grupo de personas se suicidan simultáneamente;
+
+XXXII. Trastorno mental (psicopatología): Síndrome caracterizado por una alteración clínicamente significativo del estado cognitivo, la regulación emocional o el comportamiento de un individuo, que refleja una disfunción de los procesos psicológicos, biológicos, emocionales o del desarrollo que subyacen en su función mental;
+
+XXXIII. Unidad de Atención de Salud Mental: Los espacios públicos, privados y sociales que presten servicios ambulatorios, urgencias, consulta, evaluación, prevención, diagnóstico, atención y tratamiento, en materia de salud mental, adicciones, del suicidio y la posvención y en su caso canalización a atención médico-psiquiátrico;
+
+XXXIV. Unidad de Atención Integral Médico-Psiquiátrico: Establecimiento que brinda el servicio de urgencias, consulta, evaluación, diagnóstico, hospitalización breve y tratamiento en materia de salud mental;
+
+XXXV. Usuario: La persona que utiliza y elige los servicios brindados por el sector público, privado o social para preservar y mejorar su salud mental y por tanto su calidad de vida, y
+
+XXXVI. Violencias (sic): Cualquier acción u omisión que cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte, incluido el maltrato.
 
 ###### Artículo 5.
 
@@ -525,9 +535,17 @@ XXII. Proponer anualmente modificaciones a los programas de salud mental, lineam
 
 XXIII. Administrar el presupuesto asignado;
 
-XXIV. Valorar los protocolos de investigación en salud mental que deben someterse a su consideración, de acuerdo a la normatividad aplicable vigente, y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2025)</small>
 
-XXV. Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
+XXIV. Valorar los protocolos de investigación en salud mental que deban someterse a su consideración, de acuerdo con la normatividad aplicable vigente;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2025)</small>
+
+XXV. Diseñar e implementar, en coordinación con las instituciones de seguridad pública y protección civil estatales y municipales, un programa de capacitación en primeros auxilios psicológicos, con especial atención en la prevención del suicidio, dirigido al personal operativo que se desempeña en tareas de primer contacto con la población; para lo cual podrá emplear las Tecnologías de Información.
+
+El Instituto de Salud Mental, elaborará en colaboración con dichas instituciones, un protocolo de atención ante situaciones de crisis suicida, que garantice una respuesta humanizada, oportuna y coordinada; y
+
+XXVI. Las demás que le otorgue la presente Ley y otras disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -1110,3 +1128,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 SECRETARIO GENERAL DE GOBIERNO
 
 M.A.P. JORGE CLEMENTE MOJICA VARGAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 182 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD MENTAL PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
