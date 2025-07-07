@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2025-05-31"
+last_updated: "2025-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2025.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -351,17 +351,19 @@ VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a
 
 VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
 
-> <small>[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, EL ANTERIOR PÁRRAFO DÉCIMO CON SUS FRACCIONES Y LOS ADICIONADOS DÉCIMO PRIMERO AL VIGÉSIMO SÉPTIMO PASAN A SER APARTADO "B".]</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2016)</small>
+B.- Toda persona tiene derecho al libre acceso de información publica de manera oportuna, así como a buscar, recibir y difundir información e ideas de toda índole, por cualquier medio de expresión. De igual forma, tiene derecho al acceso, rectificación, cancelación, oposición y protección de sus datos personales, los cuales serán garantizados por el Estado en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes respectivas. Para proteger y garantizar el ejercicio efectivo de los derechos de acceso a la información pública y de protección de datos personales, se observarán los siguientes principios, criterios y bases:
 
-B.- Toda persona tiene derecho de acceder a la información pública, así como al acceso, rectificación, cancelación u oposición y protección de sus datos personales, el cual será garantizado por el Estado en los términos de la Constitución General de la República, esta Constitución y la ley respectiva. Para proteger el derecho fundamental de acceso a la información, se establecen los siguientes criterios, principios y bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2016)</small>
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos, órganos constitucionales autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal es pública y sólo podrá ser reservada temporalmente por razones de interés público o de seguridad pública en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
 
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad publica en los términos que fijen las leyes. En la interpretación y aplicación de este derecho deberá prevalecer el principio de máxima publicidad.
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2016)</small>
 
 Los Sujetos Obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinara los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+
+> <small>(REFORMADO, B.O. 27 DE ABRIL DE 2016)</small>
 
 Se presumirá que la información debe existir si se refiere a las facultades, competencias y funciones que los ordenamientos jurídicos aplicables otorgan a los sujetos obligados. En los casos en que ciertas facultades, competencias o funciones no se hayan ejercido, se deberá motivar la respuesta en función de las causas que motiven la inexistencia. Ante la negativa del acceso a la información o su inexistencia, el sujeto obligado deberá demostrar que la información solicitada está prevista en alguna de las excepciones contenidas en la Ley o, en su caso, demostrar que la información no se refiere a alguna de sus facultades, competencias o funciones.
 
@@ -373,113 +375,79 @@ II. El ejercicio del derecho de acceso a la información, de acceso a datos pers
 
 III. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
-> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2025)</small>
 
-IV. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales, la rectificación, cancelación y oposición de éstos, en los términos que las leyes dispongan.
+IV. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, así como a sus datos personales y a la rectificación, cancelación, oposición y protección de éstos en los términos que dispongan las leyes.
 
-> <small>(REFORMADA, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 7 DE JULIO DE 2025)</small>
 
-V. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Los procedimientos se sustanciarán ante el organismo garante de la transparencia en el Estado, cuyo funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Las resoluciones que emita el organismo garante podrán ser combatidas por los particulares en los términos que establezca la ley.
+V. Las leyes en la materia determinarán los mecanismos, bases y principios generales que regirán los procedimientos para acceder a la información pública, así como las competencias de las autoridades garantes de los poderes ejecutivo, legislativo y judicial y demás sujetos obligados responsables de garantizar el derecho de acceso al a (sic) información pública y de protección de datos personales en posesión de los sujetos obligados, cuyo funcionamiento se regirá por los principios de certeza, congruencia, documentación, excepcionalidad, exhaustividad, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Las resoluciones que emitan las autoridades garantes podrán ser combatidas por los particulares en los términos que establezca la ley.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2025)</small>
+
+De igual forma en la ley de la materia se definirá la naturaleza jurídica, organización y funcionamiento de la autoridad garante local que tendrá competencia para conocer de de (sic) los asuntos en materia de transparencia y acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados tanto del Poder Ejecutivo como de los Ayuntamientos de la entidad.
 
 > <small>(REFORMADA, B.O. 27 DE ABRIL DE 2016)</small>
 
 VI. Los sujetos obligados deberán organizar el uso de la información pública y preservar sus documentos en archivos administrativos actualizados, publicando a través de los medios electrónicos disponibles, la información relativa completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
 
-VII.- Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+VII. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
 > <small>(REFORMADA, B.O. 27 DE ABRIL DE 2016)</small>
 
 VIII. La inobservancia de las disposiciones en materia de acceso a la información pública y protección de datos personales, será sancionada en los términos que dispongan las leyes.
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-El Estado contará con un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propio, el cual se denominará Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, el cual gozará de plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar la transparencia y el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos establecido en las Leyes.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-El organismo autónomo previsto en el párrafo anterior, se regirá por la ley en materia de transparencia y acceso a la información pública que emita el Congreso del Estado, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Transparencia y Acceso a la Información Pública, así como de las bases, principios generales y procedimientos del ejercicio de este derecho. En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, profesionalismo, transparencia y máxima publicidad. Para dar cumplimiento a la transparencia, el organismo garante y los sujetos obligados deberán contar con un área de informática, misma que estará determinada en la Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, B.O. 26 DE MAYO DE 2016)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-El Organismo Garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Autoridad Municipal, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba o ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal. También podrá interponer las acciones de inconstitucionalidad en contra de disposiciones legales en materia de transparencia, acceso a la información pública y protección de datos personales.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO OCTAVO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados. Los particulares podrán impugnar las resoluciones del órgano garante ante las autoridades jurisdiccionales que dispongan las leyes.
+> <small>(DEROGADO NOVENO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO DÉCIMO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
+> <small>(DEROGADO DÉCIMO PRIMERO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
+> <small>(DEROGADO DÉCIMO TERCERO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(DEROGADO DÉCIMO CUARTO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-El organismo garante se compondrá por tres integrantes, Comisionadas y Comisionados, observando en su integración el principio de paridad de género. Para su nombramiento, el Congreso del Estado, a través de la Comisión Permanente respectiva realizará una amplia consulta pública a la sociedad, siguiendo el procedimiento establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+> <small>(DEROGADO DÉCIMO QUINTO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(DEROGADO DÉCIMO SEXTO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-Para la elección de la Comisionada o Comisionado que deba cubrir la vacante se integrará una terna y se requerirá el voto de las dos terceras partes de los miembros del Congreso.
+> <small>(DEROGADO DÉCIMO SÉPTIMO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO DÉCIMO OCTAVO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-Una vez electo, se le tomará la protesta ante el Pleno del Congreso, y se mandará publicar el decreto correspondiente.
+a) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+b) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-El Titular de la Gubernatura del Estado podrá objetar a la Comisionada o Comisionado electo en uso de su facultad de veto prevista en la Constitución, en estos casos el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección.
+c) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+d) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-El cargo de Comisionada y Comisionado comenzará a correr a partir del día siguiente de la publicación del Decreto correspondiente en el Boletín Oficial del Gobierno del Estado.
+e) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+f) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-La Comisionada o Comisionado durarán en su encargo siete años y deberán cumplir con los requisitos establecidos en este artículo.
+g) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+h) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
-La Comisionada presidenta o Comisionado presidente se elegirá entre las y los comisionados por un periodo de dos años, también en este cargo se deberá observar el principio de paridad y garantizar la alternancia entre mujeres y hombres cada periodo electivo, sin perjuicio de lo anterior, la Comisionada o Comisionado presidente podrá ser reelegida o reelegido para el periodo inmediato y estará obligado a rendir un informe anual ante el Congreso del Estado de Baja California Sur, en la fecha y en los términos que disponga la ley.
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-La rotación o reelección, en su caso, de la Comisionada presidenta o Comisionado presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación.
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-Las Comisionadas o Comisionados no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones públicas como privadas ya sean docentes, científicas o de beneficencia, los cuales podrá desempeñar fuera de su horario de trabajo y solo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución y podrán ser sujetos a Juicio Político.
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-El Congreso del Estado resolverá sobre las renuncias que presenten las Comisionadas o los Comisionados. En esos casos, así como en los de fallecimiento, ausencia, remoción, inhabilitación o cualquier otra circunstancia que le impida a una Comisionada o Comisionado concluir su encargo, el Congreso del Estado designará a quien lo sustituya, conforme a lo establecido en los párrafos precedentes, únicamente para concluir el período respectivo.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-Para ser Comisionada o Comisionado del organismo garante, se requiere:
-
-a) Ser ciudadano mexicano y residente en el Estado, por lo menos cinco años antes al día de su elección;
-
-b) Tener cuando menos treinta años cumplidos el día de la designación;
-
-c) Poseer el día de la designación, título profesional, expedido por autoridad o institución legalmente facultad para ello y tres años de experiencia en el ejercicio profesional;
-
-d) No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
-
-e) No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
-
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
-
-f) No haber contendido o ejercido por el cargo de elección popular de gobernador, integrante de los ayuntamientos o diputado por mayoría, durante los cinco años anteriores al día de su nombramiento
-
-g) No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador General de Justicia, Fiscales Especializados, Contralor General, Titular de la Auditoría Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
-
-h) No haber fungido como ministro de algún culto religioso cinco años antes al de su designación.
-
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
-
-El organismo garante tendrá un Consejo Consultivo, integrado por cinco Consejeras y Consejeros, observando en su integración el principio de paridad de género, que serán elegidos por el voto de las dos terceras partes de los miembros del Congreso. La ley determinará los procedimientos a seguir para la presentación de las propuestas al Congreso del Estado.
+> <small>(DEROGADO DÉCIMO NOVENO PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -1473,9 +1441,9 @@ XLVI bis.- Elegir, con el voto de las dos terceras partes de los miembros que co
 
 XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de las ciudadanas y ciudadanos, los actos del Poder Ejecutivo que sean trascendentales para el orden público o el interés social del Estado, y en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
 
-> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2025)</small>
 
-XLVIII.- Elegir a la Presidenta o Presidente, Consejeras y Consejeros, y la persona titular del Órgano Interno de Control de la Comisión Estatal de Derechos Humanos; así como a las Comisionadas y Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
+XLVIII.- Elegir a la Presidenta o Presidente, Consejeras y Consejeros, y la persona titular del Órgano Interno de Control de la Comisión Estatal de Derechos Humanos de conformidad al procedimiento indicado para ello en la ley respectiva;
 
 > <small>(ADICIONADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -3195,9 +3163,9 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en la presente Constitución y las demás leyes de la materia, sin perjuicio de las atribuciones de la Auditoría Superior del Estado sobre el manejo, la custodia y aplicación de recursos públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JULIO DE 2025)</small>
 
-158.- Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, las Magistradas y Magistrados del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de Justicia Administrativa, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General de Justicia, los subprocuradores, los Fiscales Especializados y/o Regionales de la Procuraduría General de Justicia, el Contralor General, del Auditor Superior del Estado, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
+158.- Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, las Magistradas y Magistrados del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial, los Magistrados del Tribunal Estatal Electoral, los Magistrados del Tribunal de Justicia Administrativa, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Procurador General de Justicia, los subprocuradores, los Fiscales Especializados y/o Regionales de la Procuraduría General de Justicia, el Contralor General, del Auditor Superior del Estado, los Coordinadores de las Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, Presidentes de Juntas y Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales.
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -3315,7 +3283,7 @@ c) El titular de la Fiscalía Especializada en materia de Combate a la Corrupci�
 
 d) El titular de la Contraloría General;
 
-e) El Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+e) (DEROGADO, B.O. 7 DE JULIO DE 2025)
 
 > <small>(REFORMADO, B.O. 14 DE MARZO DE 2025)</small>
 
@@ -3349,7 +3317,7 @@ II. Las recomendaciones, políticas públicas e informes que emita deberán tene
 
 III. Rendirá un informe público a los titulares de los Poderes del Estado, en el que dará cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones.
 
-IV.- Las demás facultades y atribuciones que dispongan las leyes de la materia.
+IV. Las demás facultades y atribuciones que dispongan las leyes de la materia.
 
 > <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
 
@@ -5026,3 +4994,25 @@ B.O. 31 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3146 SE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+B.O. 7 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3178 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor día 01 de enero de 2026 previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, sin perjuicio de lo establecido en el artículo transitorio segundo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado deberá armonizar la legislación secundaria en materia de transparencia y acceso a la información pública, así como de protección de datos personales en posesión de los sujetos obligados, conforme al presente decreto, a más tardar el día 31 de octubre de 2025 la cual entrará en vigor a partir del día 01 de enero de 2026.
+
+En el regimen de disposiciones transitorias de dicha legislación se deberán establecer las previsiones legales relativas a los recursos materiales, presupuestales, sobre los derechos laborales de las personas servidoras públicas y demás que sean necesarias para dar paso a la extinción (sic) Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor la legislación a la que hacen referencia los artículo primero y Segundo transitorio del presente decreto se entenderá extinto el organismo autónomo Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
