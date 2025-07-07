@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2025-02-24"
+last_updated: "2025-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2025.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -4830,6 +4830,32 @@ Los programas que se deriven del Plan Municipal de Desarrollo, especificarán su
 ###### ARTÍCULO 321°.
 
 La aprobación, actualización o sustitución de los programas que se deriva (sic) del Plan Municipal de Desarrollo también es coordinada por el Comité de Planeación para el Desarrollo Municipal.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2025)</small>
+
+ARTÍCULO 321° bis.- Se crea la Coordinación Municipal de Planeación (COMUPLA), es objeto de la Coordinación Municipal de Planeación ser una instancia técnica de Evaluación, al contar con un sistema de evaluación del desempeño municipal y así propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén designados.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2025)</small>
+
+ARTÍCULO 321° ter.- La competencia, facultades y obligaciones de los integrantes de la Coordinación Municipal de Planeación serán las señaladas en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2025)</small>
+
+ARTÍCULO 321° quater.- La Coordinación Municipal de Planeación se integrará de la siguiente manera:
+
+a) Presidente: Presidente Municipal;
+
+b) Coordinador: Tesorero municipal;
+
+c) Integrante: Síndico Municipal;
+
+d) Integrante: Titular de Contraloría municipal;
+
+e) Integrante: Dirección de Planeación y Obras Públicas;
+
+e) (sic) Integrante: Dirección de Planeación, Desarrollo Urbano y Asentamientos Humanos Irregulares;
+
+i) (sic) Integrante: Dirección de Desarrollo Social;
 
 ### CAPÍTULO III. Del Presupuesto de Egresos
 
@@ -19250,3 +19276,15 @@ P.O. 24 DE FEBRERO DE 2025.
 Primero.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Segundo.- Se tendrá un plazo de 30 días para expedir los nombramientos a que da origen el presente decreto.
+
+P.O. 7 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL CÓDIGO MUNICIPAL PARA ASIENTOS".]
+
+###### ARTÍCULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO SEGUNDO.
+
+SE TENDRÁ UN PLAZO DE 30 DÍAS PARA CONFORMACIÓN Y TOMA DE PROTESTA POR EL H. AYUNTAMIENTO, A QUE DA ORIGEN A LA PRESENTE REFORMA.
