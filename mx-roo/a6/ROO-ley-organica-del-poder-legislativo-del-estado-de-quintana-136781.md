@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2024-08-28"
+last_updated: "2025-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2025.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -1033,7 +1033,9 @@ IV. Comisión de Hacienda, Presupuesto y Cuenta;
 
 V. Comisión de Asuntos Municipales;
 
-VI. Comisión de Desarrollo Humano, Poblacional y Productividad;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2025)</small>
+
+VI. Comisión del Bienestar Humano y Poblacional.
 
 VII. Comisión de Desarrollo Juvenil con Igualdad de Oportunidades;
 
@@ -2820,3 +2822,11 @@ SEGUNDO. Las disposiciones establecidas en el presente Decreto respecto a la eta
 La Presidencia y Secretaría de la Comisión Permanente del Segundo Receso del Segundo Año de Ejercicio Constitucional de la Honorable XVII Legislatura llevará a cabo las funciones conferidas para la Junta Preparatoria de la Honorable XVIII Legislatura del Estado.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 7 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 123 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
