@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2025-07-02"
+last_updated: "2025-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -974,19 +974,21 @@ d) Cumplir las demás funciones que le confieren esta ley y los ordenamientos re
 
 #### Sección Cuarta. De otros Organos Técnicos de la Cámara
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 53.
 
-1. La Cámara cuenta con su propia Contraloría Interna, cuyo titular tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas; así como conocer de los recursos de revocación, de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores conforme a la normatividad aplicable. La Contraloría se ubica en el ámbito de la Conferencia para la Dirección y Programación de los Trabajos Legislativos y debe presentar a ésta un informe trimestral sobre el cumplimiento de sus funciones. Su titular es nombrado a propuesta de dicha Conferencia, por las dos terceras partes de los individuos presentes en el Pleno.
+1. La Cámara cuenta con su propia Contraloría Interna, cuyo titular tiene a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas, así como conocer de los recursos de revocación, de conformidad con la Ley General de Responsabilidades Administrativas; llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores conforme a la normatividad aplicable; recibir y resguardar las declaraciones de situación patrimonial, de intereses y constancia de presentación de declaración fiscal que deban presentar las personas servidoras públicas y vigilar su registro; dar seguimiento y verificar la evolución patrimonial e intereses y, en su caso, emitir los certificados de no anomalías en la evolución patrimonial; participar en actos de fiscalización en materia de adquisiciones, obra pública y servicios relacionados con las mismas, vigilar el cumplimiento de la Norma en materia de entrega y recepción, practicar evaluaciones del desempeño a las unidades administrativas y parlamentarias, así como emitir opiniones a los proyectos de actualización de la normatividad interna; vigilar la atención de las obligaciones de transparencia que le competen conforme a sus atribuciones; tutelar los derechos de acceso a la información y la protección de datos personales; conocer y resolver los recursos de revisión interpuestos por personas solicitantes. La Contraloría se ubica en el ámbito de la Conferencia para la Dirección y Programación de los Trabajos Legislativos y debe presentar a ésta un informe trimestral sobre el cumplimiento de sus funciones. Su titular es nombrado a propuesta de dicha Conferencia, por las dos terceras partes de los individuos presentes en el Pleno.
 
-2. La Contraloría Interna cuenta con las Direcciones Generales de Auditoría, de Control y Evaluación y de Quejas, Denuncias e Inconformidades.
+2. La Contraloría Interna cuenta con las Direcciones Generales de Auditoría; de Control y Evaluación; de Quejas, Denuncias e Inconformidades; y de Situación y Evolución Patrimonial:
 
-a) A la Dirección General de Auditoría le corresponde elaborar, aplicar y verificar el cumplimiento del programa anual de control y auditoría, realizar auditorías y aclaración de las observaciones hasta la solventación y/o elaboración de los dictámenes de responsabilidades; vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables.
+a) A la Dirección General de Auditoría le corresponde elaborar, aplicar y verificar el cumplimiento del programa anual de auditoría, realizar auditorías y aclaración de las observaciones hasta la solventación y/o elaboración de los proyectos de oficio de vista; vigilar que el manejo y aplicación de los recursos financieros, humanos y materiales se lleven a cabo de acuerdo con las disposiciones aplicables.
 
-b) A la Dirección General de Control y Evaluación le corresponde diseñar, implantar, supervisar y evaluar los mecanismos de control de la gestión de las unidades administrativas de la Cámara y participar en actos de fiscalización.
+b) A la Dirección General de Control y Evaluación le corresponde diseñar, implantar, supervisar y evaluar los mecanismos de control de la gestión de las unidades administrativas de la Cámara; intervenir en actos de control y verificación, de entrega y recepción y promover la cultura de mejora continua y de rendición de cuentas.
 
-c) A la Dirección General de Quejas, Denuncias e Inconformidades le corresponde recibir e investigar las quejas, denuncias e inconformidades interpuestas contra servidores públicos de la Cámara, en el desempeño de sus funciones o con motivo de ellas, notificar el inicio del procedimiento de responsabilidad administrativa, investigar y substanciar los procedimientos en materia de responsabilidades administrativas e inconformidades previstos en las disposiciones legales y normativas aplicables, dictar las resoluciones correspondientes, e imponer las sanciones en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; atender e intervenir en los diferentes medios de impugnación ante las autoridades competentes e interponer los recursos legales que correspondan en los asuntos que intervenga, así como representar a la Contraloría Interna en los recursos legales y ante las autoridades jurisdiccionales locales o federales.
+c) A la Dirección General de Quejas, Denuncias e Inconformidades le corresponde recibir e investigar las quejas, denuncias e inconformidades interpuestas contra personas servidoras públicas de la Cámara, en el desempeño de sus funciones o con motivo de ellas, notificar el inicio del procedimiento de responsabilidad administrativa, investigar y substanciar los procedimientos en materia de responsabilidades administrativas, dictar las resoluciones correspondientes, e imponer las sanciones en términos de la Ley General de Responsabilidades Administrativas; atender e intervenir en los diferentes medios de impugnación ante las autoridades competentes e interponer los recursos legales que correspondan en los asuntos que intervenga, representar a la Contraloría Interna en los recursos legales y ante las autoridades jurisdiccionales locales o federales, substanciar y/o resolver las inconformidades, conciliaciones y medios de impugnación previstos en las disposiciones en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas de la Cámara de Diputados y los Lineamientos Generales en Materia de Administración del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos.
+
+d) A la Dirección General de Situación y Evolución Patrimonial le corresponde asesorar, recibir, resguardar y registrar las declaraciones de situación patrimonial y de intereses que deban presentar las personas servidoras públicas; dar seguimiento, investigar y verificar la evolución patrimonial; emitir el certificado de no anomalías conforme a la ley de la materia y demás disposiciones aplicables, así como, certificar documentos que, por el ejercicio de sus funciones, obren en sus archivos.
 
 ###### ARTICULO 54.
 
@@ -1102,9 +1104,13 @@ k) Aprobado el dictamen, cuando así lo acuerde el Presidente, el candidato cuyo
 
 ARTICULO 57 QUÁTER.
 
-1. La Cámara de Diputados a través de la instancia que determine la ley, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de los titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación.
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2025)</small>
 
-2. Asimismo será competente para investigar y sustanciar las faltas administrativas graves cuya sanción corresponde al Tribunal Federal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
+1. La Cámara de Diputados a través de la Dirección General de Quejas, Denuncias e Inconformidades de la Contraloría Interna, podrá investigar, sustanciar, y resolver sobre las faltas administrativas no graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos de la Federación.
+
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 2025)</small>
+
+2. Asimismo será competente para investigar y sustanciar las faltas administrativas graves de las personas titulares de los Órganos Internos de Control de los organismos con autonomía reconocida en la Constitución, cuya sanción corresponde al Tribunal Federal de Justicia Administrativa, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas y demás normas jurídicas aplicables.
 
 3. En el ejercicio de sus funciones, dicha instancia deberá garantizar la separación entre las áreas encargadas de la investigación, sustanciación y resolución de los procedimientos, en los términos previstos por la Ley General de Responsabilidades Administrativas.
 
@@ -2815,3 +2821,11 @@ D.O.F. 2 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UN INCISO N) AL NUMERAL 1, Y UN INCISO F) AL NUMERAL 2 AL ARTÍCULO 113 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 53 Y 57 QUÁTER, DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En un plazo no mayor a seis meses, a partir de la entrada en vigor de esta reforma, se deberán adecuar los instrumentos normativos internos, conforme a las atribuciones conferidas en el presente Decreto a la Contraloría Interna de la Cámara de Diputados.
