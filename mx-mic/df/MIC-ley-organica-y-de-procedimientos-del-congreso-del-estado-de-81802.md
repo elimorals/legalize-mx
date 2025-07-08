@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2025-05-19"
+last_updated: "2025-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -813,11 +813,11 @@ III. De protocolo.
 
 Las Comisiones deberán contar para el desempeño de sus funciones, con los elementos humanos, materiales y financieros necesarios.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 53.
 
-Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso hasta con un máximo de cinco Diputados, presididas por el primero de los nombrados a propuesta de la Junta. Las comisiones especiales se integrarán por el número de diputados que disponga su acuerdo de creación.
+Todas las Comisiones son colegiadas y se integrarán procurando reflejar la pluralidad del Congreso, hasta con un máximo de cinco diputadas y diputados, y un mínimo de tres, presididas por la o el primero de los nombrados a propuesta de la Junta. Las comisiones especiales se integrarán por el número de diputados que disponga su acuerdo de creación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2022)</small>
 
@@ -1171,17 +1171,23 @@ IX. Los planes y programas en materia de cultura; y,
 
 X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 71.
 
 Corresponde a la Comisión de Derechos Humanos, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
 
-I. Los relativos a la promoción, defensa y preservación de los derechos humanos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2018)</small>
+I. Conocer y dictaminar sobre asuntos relacionados con la promoción, defensa, ejercicio, protección y preservación de los derechos humanos, así como de las personas de la diversidad sexual, LGBT+, y protección de las personas dedicadas a la actividad periodística o relacionadas con la libertad de expresión;
 
-II. Los relativos al nombramiento y destitución del Presidente y Consejeros, así como el nombramiento del titular del Órgano Interno de Control, de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-III. Los relativos a denuncias sobre violación de Derechos Humanos, para su conocimiento y canalización, en su caso;
+II. Los relativos al nombramiento y destitución de la o el Presidente y consejeras y consejeros, así como el nombramiento de la o el titular del Órgano Interno de Control, de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+III. Recibir los informes correspondientes a las denuncias sobre violación de los Derechos Humanos, de las personas de la diversidad sexual, LGBT+, y de las personas dedicadas a la actividad periodística, para su conocimiento y trabajar de manera coordinada con las autoridades competentes de los tres órdenes de gobierno en la materia, para la defensa, ejercicio, protección y preservación (sic) sus derechos;
 
 IV. Dar seguimiento a las recomendaciones emitidas por las Comisiones tanto Nacional, como a la Comisión de Derechos Humanos del Estado;
 
@@ -1193,21 +1199,33 @@ VII. Revisar la legislación del Estado, con el objeto de establecer propuestas 
 
 VIII. Los que se relacionen con el tutelaje y protección de los derechos de los grupos en situación de vulnerabilidad;
 
-IX. Las iniciativas relativas al fortalecimiento de la familia como núcleo básico de la sociedad;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-X. Las iniciativas en materia de la regulación de los derechos de la infancia;
+IX. La Legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas adultas mayores, tendiente a mejorar su calidad de vida;
 
-XI. La Legislación relativa a la protección, apoyo, reconocimiento, estímulo y desarrollo de las personas adultos mayores, tendiente a mejorar su calidad de vida;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-XII. Fomentar iniciativas y proyectos legislativos tendientes a proteger los derechos humanos de las personas con discapacidad, así como las acciones orientadas a erradicar los mecanismos que impiden la inclusión, integración y desarrollo humanos (sic) y social;
+X. Fomentar iniciativas y proyectos legislativos tendientes a proteger los derechos humanos de las personas con discapacidad, así como las acciones orientadas a erradicar los mecanismos que impiden la inclusión, integración y desarrollo humano y social;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-XIII. Revisar la legislación del Estado para reformar o derogar todas las normas que impliquen discriminación motivada por origen étnico o nacional, el género, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+XI. Revisar la legislación del Estado para reformar o derogar todas las normas que impliquen discriminación motivada por origen étnico o nacional, el género, personas de la diversidad sexual, LGBT+, de las personas dedicadas a la actividad periodística, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-XIV. Fomentar el desarrollo de políticas, planes y programas para el fortalecimiento de los Derechos Humanos; y,
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-XV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+XII. Proponer acciones a corto y mediano plazo para impulsar reformas legislativas, establecimiento de prioridades y una agenda estatal, fomentar el desarrollo de políticas, planes y programas para el fortalecimiento de los Derechos Humanos, así como de las personas de la diversidad sexual, LGBT+, y protección de las personas dedicadas a la actividad periodística o relacionadas con la libertad de expresión;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+XIII. El impulso de políticas públicas para el respeto, promoción, defensa, ejercicio, protección y preservación de los derechos humanos, así como de las personas de la diversidad sexual, LGBT+, y de las personas dedicadas a la actividad periodística;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+XIV. Conocer y en su caso canalizar ante las diferentes instancias los casos de violencia contra las personas de la diversidad sexual, LGBT+, de las personas dedicadas a la actividad periodística o relacionadas con la libertad de expresión en el estado; y,
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+XV. Los análogos a los anteriores que, a juicio de la Presidencia del Congreso, sean materia del análisis de esta Comisión.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
 
@@ -4848,3 +4866,21 @@ PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en té
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. Notifíquese el presente Decreto a las presidencias de las comisiones de dictamen correspondientes, para su conocimiento.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 199.- ÚNICO.- SE REFORMA EL ARTÍCULO 53 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El presente Decreto entrará en vigor a partir del día 15 de septiembre de 2027, fecha en la que entrará en funciones la siguiente Legislatura.
+
+P.O. 8 DE JULIO DE 2025.
+
+[N. DE E TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 200.- ÚNICO.- SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 71 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos de lo dispuesto en el segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente Decreto a la presidencia de la Comisión de Derechos Humanos del Congreso del Estado, para su conocimiento.
