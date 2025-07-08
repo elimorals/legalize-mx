@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2025-06-26"
+last_updated: "2025-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -263,7 +263,9 @@ XII.- Las demás que le señalen las disposiciones constitucionales, legales y r
 
 ###### ARTÍCULO 13.
 
-Son atribuciones del Secretario:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JULIO DE 2025)</small>
+
+Son atribuciones de la persona titular de la Secretaría:
 
 I.- Desarrollar las políticas de seguridad pública y proponer en el ámbito estatal los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Gobernador del Estado;
 
@@ -361,11 +363,15 @@ XLII.- Elaborar las evaluaciones de riesgo y llevar a cabo el seguimiento de las
 
 XLIII.- Establecer y operar un sistema de información y plataformas informáticas compartidas, que contribuya a preservar el orden y la tranquilidad social, así como la estabilidad y permanencia de las instituciones constitucionales del Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-XLIV.- Implementar, dirigir y ejecutar las atribuciones en materia de tránsito de competencia estatal, en los términos expresados en el artículo 3º de la Ley de Tránsito; y
+XLIV.- Implementar, dirigir y ejecutar las atribuciones en materia de tránsito de competencia estatal, en los términos expresados en el artículo 3° de la Ley de Tránsito;
 
-XLV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
+
+XLV.- Especializar en materia de justicia penal para adolescentes a todo el personal que interviene en su atención; y
+
+XLVI.- Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -479,11 +485,15 @@ La Secretaría es la dependencia encargada de la función de seguridad pública 
 
 1.- A fin de lograr el pleno cumplimiento de los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, por parte de los Integrantes, así como de los servidores públicos a ellas adscritos, el Centro Estatal de Evaluación y Control de Confianza, aplicará los procedimientos de evaluación y control de confianza para la permanencia en el servicio activo de los Integrantes y servidores públicos de las Instituciones Policiales
 
-2.- La Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los Integrantes, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario. De igual forma conocerá de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones por faltas graves al régimen disciplinario, cometidas por los Integrantes, preservando la reserva de las actuaciones.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-La Dirección de Asuntos Internos desarrollará la fase de investigación previa, por tanto gozará de las más amplias facultades para practicar las diligencias que le permitan allegarse de los elementos necesarios para emitir el acuerdo correspondiente, preservando la reserva de las actuaciones; en caso de que se identifique la persona denunciante, deberá de oficio, poner a su disposición el resultado de la investigación.
+2.- La Dirección de Asuntos Internos verificará el cumplimiento de los principios de actuación constitucionales, obligaciones y deberes disciplinarios de los Integrantes, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados a la persona titular de la Secretaría. De igual forma, podrá iniciar de oficio, por denuncia o a petición de parte, la fase de investigación previa y conocerá de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones al régimen disciplinario, cometidas por los Integrantes de las instituciones preventivas de seguridad pública estatales, preservando la reserva de las actuaciones.
 
-Todo Integrante y servidor público en general tienen la obligación de concurrir al proceso de investigación seguido ante la Dirección de Asuntos Internos, cuando sean citados y de declarar la verdad de cuanto conozcan y les sea preguntado; asimismo, no deberán ocultar hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia, salvo disposición en contrario.
+En los casos que se deduzcan que son notoriamente infundados o no reúnan los requisitos previstos en los ordenamientos legales aplicables, se resolverá el acuerdo procedente y se mantendrá hasta en tanto, aparezcan elementos que permitan iniciar o continuar con la investigación previa o que transcurra el término que establece la presente ley para la prescripción.
+
+La Dirección de Asuntos Internos desarrollará la fase de investigación previa, por tanto, gozará de las más amplias facultades para practicar las diligencias que le permitan allegarse de los elementos necesarios para emitir el acuerdo correspondiente; en caso de que se identifique la persona denunciante, deberá de oficio, poner a su disposición el resultado de la investigación.
+
+Todo Integrante y persona servidora en general tienen la obligación de concurrir a la investigación previa seguida ante la Dirección de Asuntos Internos, cuando sean citados y de declarar la verdad de cuanto conozcan y les sea preguntado; asimismo, no deberán ocultar hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia, salvo disposición en contrario.
 
 3.- El Órgano de Control Interno de la Contraloría Gubernamental adscrito a la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
@@ -2732,3 +2742,27 @@ Se derogan las disposiciones normativas que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Se instruye a la Secretaría de Seguridad Pública a realizar las adecuaciones normativas y reglamentarias a las que haya lugar, derivados de la presente reforma, sin que se exceda el plazo de 60 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-350 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Seguridad Pública, así como a la Secretaría de Desarrollo Urbano y Medio Ambiente, a realizar, en el ámbito de sus competencias, los procedimientos correspondientes para llevar a cabo las adecuaciones reglamentarias y normativas a las que haya lugar, derivado del presente Decreto, sin que tales adecuaciones puedan exceder de 60 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas en coordinación con las áreas competentes deberá realizar los trámites administrativos necesarios para expedir la Licencia Digital, cuando así se lo soliciten, así como los permisos para circular sin placas en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas realizará, en su caso, las modificaciones presupuestales necesarias para dar cumplimiento a lo establecido en el presente Decreto.
