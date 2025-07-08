@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2025-04-18"
+last_updated: "2025-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -693,19 +693,15 @@ Se entiende por resto mayor, el remanente de votación más alto de cada partido
 
 d) Se establece una circunscripción única para todo el Estado; cada partido registrará dos listas de representación proporcional, una de hombres y otra de mujeres, con fórmulas de candidaturas.
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Ningún partido político podrá contar con más de dieciséis diputaciones por ambos principios. El número máximo de diputaciones por ambos principios que puede alcanzar cualquier partido político deberá corresponder a su porcentaje de votación respecto de la votación total emitida, más el ocho por ciento. Esta base no se aplicará al partido político que, por sus triunfos en distritos, obtenga un porcentaje de diputaciones superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignada una diputación de representación proporcional a los partidos políticos que lo hayan obtenido en la ronda de porcentaje específico de conformidad con este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+e) En caso de que algún partido político se encuentre subrepresentado de conformidad a los límites constitucionales, la diputación se deberá reducir al partido político con mayor sobrerrepresentación siempre y cuando la diputación no corresponda al principio de mayoría ni a la asignación de representación proporcional en la ronda de porcentaje específico. En todos los casos, se deberá respetar la pluralidad política de los partidos políticos que obtuvieron legítimamente diputaciones al superar el umbral del 3% de la votación válida emitida, en la ronda del porcentaje específico.
 
-e) NINGÚN PARTIDO POLÍTICO PODRÁ CONTAR CON MÁS DE DIECISIETE DIPUTACIONES POR AMBOS PRINCIPIOS. EL NÚMERO MÁXIMO DE DIPUTACIONES POR AMBOS PRINCIPIOS QUE PUEDE ALCANZAR CUALQUIER PARTIDO POLÍTICO DEBERÁ CORRESPONDER A SU PORCENTAJE DE VOTACIÓN RESPECTO DE LA VOTACIÓN TOTAL EMITIDA, MÁS EL OCHO POR CIENTO. ESTA BASE NO SE APLICARÁ AL PARTIDO POLÍTICO QUE, POR SUS TRIUNFOS EN DISTRITOS, OBTENGA UN PORCENTAJE DE DIPUTACIONES SUPERIOR A LA SUMA DEL PORCENTAJE DE SU VOTACIÓN ESTATAL EMITIDA MÁS EL OCHO POR CIENTO. ASIMISMO, EN LA INTEGRACIÓN DE LA LEGISLATURA, EL PORCENTAJE DE REPRESENTACIÓN DE UN PARTIDO POLÍTICO NO PODRÁ SER MENOR AL PORCENTAJE DE VOTACIÓN QUE HUBIERE RECIBIDO MENOS OCHO PUNTOS PORCENTUALES. ESTA FÓRMULA SE APLICARÁ UNA VEZ QUE LE SEA ASIGNADA UNA DIPUTACIÓN DE REPRESENTACIÓN PROPORCIONAL A LOS PARTIDOS POLÍTICOS QUE LO HAYAN OBTENIDO EN LA RONDA DE PORCENTAJE ESPECÍFICO DE CONFORMIDAD CON ESTE CÓDIGO.
+(NOTA: EL 24 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2025 Y SUS ACUMULADAS 83/2025, 85/2025, 86/2025 Y 87/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO f) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO f) AL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO, ANTES INCISO E], P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-f) CONCLUIDO EL PROCEDIMIENTO ANTERIOR, EL CONSEJO GENERAL DEL INSTITUTO PROCEDERÁ A REALIZAR EN LA MISMA SESIÓN LA ASIGNACIÓN DE LAS DIPUTACIONES DE REPRESENTACIÓN DE GRUPOS VULNERABLES, LAS CUALES SERÁN ASIGNADAS A LOS PARTIDOS POLÍTICOS CONFORME AL CÓMPUTO QUE OBTENGAN EL MAYOR PORCENTAJE DE VOTOS EN CADA UNA DE LAS DOS CIRCUNSCRIPCIONES ESPECIALES QUE ESTABLECE EL ARTÍCULO 33 DE LA CONSTITUCIÓN LOCAL.
-
-EL INSTITUTO VELARÁ EN TODO MOMENTO POR LOS LÍMITES DE SOBRE Y SUBREPRESENTACIÓN, ASÍ COMO POR EL CUMPLIMIENTO DE LA PARIDAD DE GÉNERO EN LA INTEGRACIÓN FINAL DEL CONGRESO, PARA LO CUAL DEBERÁ REALIZAR LAS SUSTITUCIONES Y AJUSTES NECESARIOS AL ORDEN DE PRELACIÓN DE LAS LISTAS DE CANDIDATURAS DE GRUPO VULNERABLE QUE PRESENTEN LOS PARTIDOS POLÍTICOS.
+f) Ningún partido político podrá contar con más de dieciséis diputaciones por ambos principios. El número máximo de diputaciones por ambos principios que puede alcanzar cualquier partido político deberá corresponder a su porcentaje de votación respecto de la votación TOTAL EMITIDA, más el ocho por ciento. Esta base no se aplicará al partido político que, por sus triunfos en distritos, obtenga un porcentaje de diputaciones superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará después de las asignaciones de diputaciones de representación proporcional a los partidos políticos que lo hayan obtenido en la ronda de cociente natural de conformidad con este Código. Por lo tanto, en ningún caso se podrá reducir la diputación obtenida por porcentaje específico como mecanismo de compensación en casos de subrepresentación.
 
 (NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO g) AL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1611,7 +1607,11 @@ f) Para el caso de la interposición de los medios de impugnación previstos en 
 
 ###### Artículo 76.
 
-1. La solicitud de registro del convenio de coalición, según sea el caso, deberá presentarse al presidente del Consejo General del Instituto, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate. Durante las ausencias del presidente del Consejo General el convenio se podrá presentar ante el Secretario Ejecutivo del Instituto.
+(NOTA: EL 24 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 82/2025 Y SUS ACUMULADAS 83/2025, 85/2025, 86/2025 Y 87/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
+
+1. La solicitud de registro del convenio de coalición, según sea el caso, deberá presentarse al presidente del Consejo General del Instituto, acompañado de la documentación pertinente, dentro de los quince días siguientes al inicio del proceso electoral, cuando se trate de una elección no concurrente con alguna elección federal. Durante las ausencias del presidente del Consejo General el convenio se podrá presentar ante el Secretario Ejecutivo del Instituto.
 
 2. El presidente del Consejo General del Instituto integrará el expediente e informará al Consejo General.
 
@@ -2603,9 +2603,9 @@ Ley General.
 
 ###### Artículo 167.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-1. El proceso electoral ordinario se inicia con la sesión que celebre el Consejo General del Instituto el primer día del mes de enero del año correspondiente a la elección y concluye al resolverse el último de los medios de impugnación que se hayan interpuesto o cuando se tenga constancia de que no se presentó ninguno.
+1. El proceso electoral ordinario se inicia con la sesión que celebre el Consejo General del Instituto el primer día del mes de diciembre del año anterior a la elección y concluye al resolverse el último de los medios de impugnación que se hayan interpuesto o cuando se tenga constancia de que no se presentó ninguno.
 
 2. Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -2663,9 +2663,9 @@ d) Dictamen y declaración de validez de la elección.
 
 a) Las precampañas en el caso de que se renueve, en el mismo proceso electoral, el Poder Ejecutivo, Poder Legislativo y Ayuntamientos, iniciarán cuarenta días después de iniciado el proceso. No podrán durar más de cuarenta días.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-b) Respecto a las precampañas en que se renueve, únicamente, el Poder Legislativo, darán inicio sesenta días después de iniciado el proceso. No podrán durar más de veinticinco días.
+b) Respecto a las precampañas en que se renueve, únicamente, el Poder Legislativo, darán inicio noventa días después de iniciado el proceso. No podrán durar más de veinte días.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
 
@@ -3047,9 +3047,9 @@ e) El Consejo General del Instituto determinará los montos a que se refiere est
 
 1. En el año en que se renueve el Poder Ejecutivo, Legislativo y Ayuntamientos, tendrán una duración de sesenta días.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-2. Las campañas en que se renueve el Poder Legislativo, tendrán una duración de cuarenta días.
+2. Las campañas en que se renueve el Poder Legislativo, tendrán una duración de treinta días.
 
 3. Las campañas en que se renueve el Poder Ejecutivo y el Poder Legislativo, tendrán una duración de 60 días.
 
@@ -3251,11 +3251,13 @@ l) Número de folio desprendible en numeración progresiva, según la votación 
 
 m) Las medidas impresas de seguridad que impidan su falsificación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
 n) Fotografía de la persona candidata a la gubernatura, en los términos y con los elementos técnicos precisados por el Instituto en la convocatoria respectiva.
 
-De igual forma, en el caso de elecciones de Ayuntamientos se incluirá la fotografía de la (sic) personas candidatas a la Presidencia Municipal, ya sea por vía independiente o de partidos.
+De igual forma, en el caso de elecciones de Ayuntamientos se incluirá la fotografía de las personas candidatas a la Presidencia Municipal, ya sea por vía independiente o de partidos.
+
+Por lo que respecta a la elección de diputaciones locales, se incluirá la fotografía a color de la persona candidata propietaria, ya sea por vía independiente o de partidos.
 
 (NOTA: EL 12 DE AGOSTO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 212/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO ñ) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE AGOSTO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -8702,3 +8704,35 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- En el Proceso Judicial Electoral Extraordinario 2024-2025 iniciado el 20 de diciembre de 2024 en el Estado, se aplicarán los lineamientos o directrices en materia de fiscalización de candidaturas judiciales, de urnas y voto electrónico, y de capacitación electoral que emita el Instituto Nacional Electoral.
 
 TERCERO.- Se derogan y quedan sin efecto alguno todas las disposiciones que contravengan este Decreto.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 271.- SE REFORMA EL INCISO E) Y SE ADICIONA EL INCISO F) AMBOS DEL NUMERAL 1, DEL ARTÍCULO 18 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 272.- SE REFORMAN LOS ARTÍCULOS 76 NUMERAL 1, Y 167 NUMERAL 1, DEL CÓDIGO ELECTORAL PARA EL ESTADO DE 3 COAHUILA DE ZARAGOZA.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 273.- SE REFORMAN LOS ARTÍCULOS 169, NUMERAL 1, INCISO B) Y 193, NUMERAL 2, DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente Decreto.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 274.- SE REFORMA EL ARTÍCULO 203, NUMERAL 3, INCISO N), DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones contrarias al presente decreto.
