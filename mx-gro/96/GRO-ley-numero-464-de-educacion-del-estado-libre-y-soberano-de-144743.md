@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2024-07-02"
+last_updated: "2025-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -63,25 +63,29 @@ La aplicación y la vigilancia del cumplimiento de esta Ley corresponden a las a
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. Autoridad educativa federal: La Secretaría de Educación Pública de la Administración Pública Federal;
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
 
-II. Autoridad educativa estatal: La Secretaría de Educación Guerrero;
+I. Acoso escolar: conducta u omisión reiterada que cause daño físico, psicológico, emocional, patrimonial o sexual a una niña, niño o adolescente, dentro del entorno escolar o durante actividades organizadas, autorizadas o supervisadas por instituciones educativas, cometida por integrantes de la comunidad escolar, y que tenga por objeto o resultado la intimidación, sometimiento, exclusión o afectación de su dignidad o derechos.
 
-III. Autoridad educativa municipal: Los Ayuntamientos de cada municipio a través del sistema de Gobierno legalmente constituido, del Estado de Guerrero;
+II. Autoridad educativa federal: La Secretaría de Educación Pública de la Administración Pública Federal;
 
-IV. Autoridades escolares: El personal que lleva a cabo funciones de dirección y/o supervisión en los sectores, zonas o centros escolares;
+III. Autoridad educativa estatal: La Secretaría de Educación Guerrero;
 
-V. Constitución General: La Constitución Política de los Estado Unidos Mexicanos;
+IV. Autoridad educativa municipal: Los Ayuntamientos de cada municipio a través del sistema de Gobierno legalmente constituido, del Estado de Guerrero;
 
-VI. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Guerrero;
+V. Autoridades escolares: El personal que lleva a cabo funciones de dirección y/o supervisión en los sectores, zonas o centros escolares;
 
-VII. Educandos: Las niñas, niños, adolescentes, las y los jóvenes, así como, toda persona que recibe educación en cualquiera de los niveles y/o tipos educativos en el Estado;
+VI. Constitución General: La Constitución Política de los Estado Unidos Mexicanos;
 
-VIII. Estado: El Estado de Guerrero;
+VII. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Guerrero;
 
-IX. Ley: La Ley de Educación del Estado Libre y Soberano de Guerrero, y
+VIII. Educandos: Las niñas, niños, adolescentes, las y los jóvenes, así como, toda persona que recibe educación en cualquiera de los niveles y/o tipos educativos en el Estado;
 
-X. Ley General: La Ley General de Educación.
+IX. Estado: El Estado de Guerrero;
+
+X. Ley: La Ley de Educación del Estado Libre y Soberano de Guerrero, y
+
+XI. Ley General: La Ley General de Educación.
 
 ###### Artículo 5.
 
@@ -301,7 +305,17 @@ Además de lo anterior, se consideran parte del Sistema Educativo Estatal la for
 
 La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley.
 
-De acuerdo con las necesidades educativas específicas de la población, podrá impartirse educación comunitaria con programas o contenidos particulares para ofrecerle una oportuna atención.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
+
+Deberá impartirse educación comunitaria con programas o contenidos particulares para ofrecer una atención oportuna, cuando las necesidades educativas específicas de la población así lo requieran.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+El Estado estará obligado a coadyuvar con el Consejo Nacional de Fomento Educativo, en el marco de sus competencias y atribuciones, para verificar que la educación comunitaria impartida en comunidades de alta y muy alta marginación cumpla con los principios de una educación de calidad conforme a lo establecido en las leyes estatales y federales, así como en los tratados internacionales suscritos por el Estado mexicano.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+La Secretaría de Educación Guerrero estará obligada a solicitar al Consejo Nacional de Fomento Educativo la atención educativa en aquellas comunidades del Estado clasificadas con alta o muy alta marginación, con base en diagnósticos técnicos y conforme a los criterios establecidos en la normatividad aplicable.
 
 ###### Artículo 21.
 
@@ -959,7 +973,9 @@ VIII. Realizar campañas, mediante el uso de las tecnologías de la información
 
 IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de violencia y maltrato escolar, así como coordinar campañas de información sobre las mismas.
 
-X. Fomentar la utilización responsable de los dispositivos móviles: celulares, tabletas electrónicas o cualquier dispositivo móvil de comunicación y de navegación en internet, en el nivel de educación básica, únicamente para fines pedagógicos o de enseñanza, determinado (sic) por el Consejo de participación Escolar, con la finalidad de prevenir la comisión de hechos que afecten el libre desarrollo del educando o de delitos relacionados con su uso.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+X. Restringir el uso de teléfonos celulares, tabletas electrónicas o cualquier otro dispositivo móvil de comunicación o navegación por internet en el nivel de educación básica, durante el horario escolar, permitiéndolo únicamente para fines pedagógicos o de enseñanza, en situaciones de emergencia familiar o bajo circunstancias debidamente justificadas, determinadas por la persona docente o, en su caso, por el Consejo de Participación Escolar, si éste se encuentra instalado. La autoridad educativa estatal, en coordinación con las autoridades escolares, deberá implementar programas de sensibilización y capacitación dirigidos a estudiantes, madres y padres de familia, tutoras y tutores, así como al personal docente, sobre el uso responsable de la tecnología y los riesgos asociados a su uso excesivo.
 
 ###### Artículo 83.
 
@@ -1695,7 +1711,11 @@ XXV. Omitir dar a conocer por escrito a las personas usuarias de los servicios e
 
 XXVI. Difundir o transmitir datos personales sin consentimiento expreso del titular de los mismos o en caso de ser menor de edad de su madre o padre, tutora o tutor, y
 
-XXVII. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
+
+XXVII. Tolerar, encubrir o desatender conductas constitutivas de acoso escolar en perjuicio de las y los educandos, cuando exista conocimiento directo o razonable de su ocurrencia, sin implementar las medidas preventivas, correctivas o de protección que correspondan conforme a la normatividad aplicable, y
+
+XXVIII. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 ###### Artículo 138.
 
@@ -1890,3 +1910,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales procedentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto a la titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en la Gaceta Parlamentaria del Poder Legislativo del Estado.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 82 DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y publicación correspondiente.
