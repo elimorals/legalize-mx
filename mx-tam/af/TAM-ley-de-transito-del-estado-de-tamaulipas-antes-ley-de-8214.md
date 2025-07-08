@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2024-06-20"
+last_updated: "2025-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -63,6 +63,10 @@ Asimismo, se entenderá por:
 
 a) Agente de Tránsito.- La persona servidora pública municipal a cargo de la vigilancia del tránsito de vehículos y personas, en su calidad de Policía Preventivo de Tránsito, en términos de la Ley de Seguridad Pública para el Estado de Tamaulipas;
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+aa) Depósito de vehículos.- Es el lugar para la guarda y custodia en locales autorizados por el Poder Ejecutivo, de vehículos y/o remolques abandonados, retenidos, accidentados o descompuestos en caminos y puentes de jurisdicción estatal y municipal, y/o en su caso, remitidos por la autoridad competente;
+
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
 b) Guardia de Tránsito Estatal.- La persona integrante de la Dirección de Tránsito Estatal a cargo de la vigilancia del tránsito de vehículos y personas, autorizada para expedir y firmar las boletas de sanción con motivo de infracciones a las disposiciones en materia de tránsito, captadas mediante sistemas tecnológicos y equipos electrónicos portátiles;
@@ -70,6 +74,10 @@ b) Guardia de Tránsito Estatal.- La persona integrante de la Dirección de Trá
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
 c) Infracción.- Es la consecuencia directa e inmediata, imputable a un conductor, persona peatona o pasajero que trasgreda alguna disposición de Tránsito, por la que le deriva una sanción, que podrá ser registrada manualmente en una boleta oficial o en el dispositivo electrónico que se disponga para tal fin;
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+cc) Licencia digital.- Documento electrónico para consulta en línea, a través de dispositivos móviles con el cual se acredita que la persona portadora cuenta con licencia física;
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -94,6 +102,10 @@ h) Secretaría.- La Secretaría de Seguridad Pública;
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
 i) Secretaría de Finanzas.- La Secretaría de Finanzas;
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+ii) Servicios auxiliares.- Al que hace referencia el artículo 4, fracción XXIII de la Ley de Transporte del Estado de Tamaulipas;
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -231,21 +243,31 @@ III.- Los Ayuntamientos del Estado, por cuanto hace a sus atribuciones propias y
 
 IV.- Las personas Titulares de las Direcciones de Seguridad Pública Municipal;
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
+
+IV Bis.- La persona titular de la Secretaría de Finanzas;
+
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
 
 V.- Las personas Titulares de las Direcciones o Delegaciones de Tránsito en los Municipios;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+VI.- (DEROGADA, P.O. 8 DE JULIO DE 2025)
 
-VI.- Las personas Peritos de Tránsito;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2024)</small>
+VII.- Las personas Agentes de Tránsito;
 
-VII.- Las personas Agentes de Tránsito; y
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
+
+VIII.- La Secretaría General de Gobierno, a través de la Subsecretaría de Transporte Público;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
+
+IX.- La Secretaría de Desarrollo Urbano y Medio Ambiente, a través de la Subsecretaría de Desarrollo Urbano; y
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-VIII.- Las demás que con ese carácter prevean las disposiciones reglamentarias de la materia.
+X.- Las demás que con ese carácter prevean las disposiciones reglamentarias de la materia.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -289,11 +311,27 @@ III.- Por el servicio que prestan.
 
 Las disposiciones reglamentarias estatales o las de los municipios, establecerán lo que corresponda a cada categoría.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 9°.
 
-Toda persona residente del Estado de Tamaulipas que sea propietaria de vehículos automotores a los que esta Ley se refiere, previo a ponerlos en circulación deberán de registrarlos en la Secretaría de Finanzas; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, copia de la tarjeta de circulación, seguro de responsabilidad civil de daños contra terceros y, en su caso la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo.
+Toda persona residente del Estado de Tamaulipas que sea propietaria de vehículos motorizados a los que esta Ley se refiere, previo a ponerlos en circulación deberán de registrarlos en la Secretaría de Finanzas; dicho requisito se comprobará mediante la portación adecuada de las placas, la calcomanía o engomado correspondiente a ésta, tarjeta de circulación, seguro de responsabilidad civil de daños contra terceros y, en su caso, la acreditación de la revisión mecánica, mismos que deberán llevarse en el vehículo; en el caso de transporte de pasajeros los demás requisitos que establezca la Secretaría General de Gobierno a través de la Subsecretaría de Transporte Público.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 9° Bis.
+
+Para registrar un vehículo en la Secretaría de Finanzas se requiere:
+
+I.- Solicitud por escrito conteniendo: Nombre y domicilio del propietario, descripción del vehículo (marca, modelo, modalidades, número de serie y número de motor), manifestación de responder solidariamente del pago de las multas que se impongan al conductor del vehículo; así como cualquier otra información relacionada con el mismo;
+
+II.- Documento que acredite la propiedad del vehículo;
+
+III.- Constancia de inscripción en el Registro Público Vehicular;
+
+IV.-Comprobante de pago de los derechos de Registro; y
+
+V.- En su caso, el comprobante de baja correspondiente, debiendo entregar las placas, tarjeta de circulación o cualquier otro documento que se encuentre en su poder o a su disposición, cuando se trate de vehículos registrados fuera del Estado de Tamaulipas. Tratándose de vehículos de servicio público de transporte, además de cumplir con los anteriores requisitos, deberán presentar el permiso o la concesión otorgada para la explotación del servicio público.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -337,19 +375,21 @@ Los vehículos que no cuenten con placas del Estado de Tamaulipas y que circulen
 
 La Guardia Estatal deberá auxiliar a las autoridades de tránsito estatal y municipal, cuando así lo soliciten, conforme (sic) las facultades otorgadas en la ley correspondiente, o en caso de una infracción en flagrancia, podrá verificar que los vehículos cuenten con el engomado expedido por la Secretaría de Finanzas y la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; en caso de que el vehículo o el poseedor del mismo, no cuenten o no exhiban la póliza de seguro vigente o con el engomado referido según sea el caso, se emitirán las sanciones correspondientes.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 14 Ter.
 
-Los Guardias de Tránsito Estatal o Agentes de Tránsito Municipal que violen las disposiciones legales y reglamentarias en la materia, o que en aplicación de las mismas soliciten el arrastre de un vehículo y su remisión a un depósito autorizado sin causa justificada, se le aplicarán las sanciones correspondientes.
-
-Los particulares pueden acudir ante la autoridad ministerial, la Dirección de Asuntos Internos de la Secretaría de Seguridad u órganos de disciplina de los municipios a denunciar presuntos actos ilícitos de los Guardias de Tránsito Estatal o Agentes de Tránsito municipal.
+Los Guardias de Tránsito Estatal o Agentes de Tránsito Municipal que violen las disposiciones legales y reglamentarias en la materia, o que en aplicación de las mismas soliciten el arrastre de un vehículo y su remisión a un depósito de vehículos sin causa justificada, se le aplicarán las sanciones correspondientes.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
+Los particulares pueden acudir ante la autoridad ministerial, la Dirección de Asuntos Internos de la Secretaría de Seguridad u órganos de disciplina de los municipios a denunciar presuntos actos ilícitos de los Guardias de Tránsito Estatal o Agentes de Tránsito municipal.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 14 Quater.
 
-Si con motivo del arrastre de un vehículo, éste sufriera daños o robo, las personas prestadoras del servicio de grúa de arrastre y/o de depósito autorizados de vehículos, tienen la obligación de reparar los daños o indemnizar económicamente al propietario del vehículo.
+Si con motivo del arrastre de un vehículo, éste sufriera daños o robo, las personas prestadoras del servicio de grúa de arrastre y/o de depósito de vehículos, tienen la obligación de reparar los daños o indemnizar económicamente al propietario del vehículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -357,13 +397,35 @@ Si con motivo del arrastre de un vehículo, éste sufriera daños o robo, las pe
 
 Las placas vehiculares que expida la dependencia competente del Ejecutivo estatal podrán ser:
 
-I.- Para servicio particular;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-II.- Para servicio público de transporte;
+I.- PARA SERVICIO PARTICULAR: Son las destinadas al vehículo para uso privado de su propietario;
 
-III.- Para uso oficial; y,
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
-IV.- Para demostración.
+II.- PARA SERVICIO PÚBLICO DE TRANSPORTE: Son las otorgadas a los usufructuarios de una concesión o permiso de transporte público;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+III.- PARA USO OFICIAL: Son las destinadas a vehículos propiedad del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+IV.- PARA DEMOSTRACIÓN: Son las que se otorgan a los distribuidores para la demostración y comercialización de sus vehículos; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2025)</small>
+
+V.- PARA USO EXCLUSIVO PARA PERSONAS CON DISCAPACIDAD: Son matriculas especiales que se pueden solicitar para facilitar la movilidad y seguridad de las personas con limitaciones físicas, mentales, intelectuales o sensoriales.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 15 Bis.
+
+Los permisos para circular sin placas en jurisdicción estatal o municipal, sólo podrán ser expedidos por la Secretaría de Finanzas, en los supuestos siguientes:
+
+I.- Vehículos nuevos; y
+
+II.- Por cambio de entidad federativa.
 
 ### CAPITULO III. DE LOS PEATONES, PASAJEROS Y CONDUCTORES
 
@@ -409,7 +471,9 @@ El Estado y los Municipios se coordinarán para la realización de los exámenes
 
 Al efecto, se deberá cumplir con los siguientes requisitos:
 
-I. Tener dieciocho o más años de edad al momento de solicitar la expedición de la licencia. Los mayores de dieciséis años podrán obtener licencia para conducir y operar vehículos automotores, previo escrito de los padres o representantes legales, mediante el cual expresen su aceptación de la responsabilidad civil solidaria;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+I. Tener dieciocho o más años de edad al momento de solicitar la expedición de la licencia. Los menores de dieciocho años y los mayores de dieciséis años podrán obtener licencia de aprendiz para conducir y operar vehículos automotores, previo escrito de los padres o representantes legales, mediante el cual expresen su aceptación de la responsabilidad civil solidaria;
 
 II. Acreditar el curso de manejo teórico y práctico en términos del presente artículo y de lo que establezca el Reglamento correspondiente; y
 
@@ -452,6 +516,116 @@ II. Conducir usando dispositivos de comunicación, tales como radios, teléfonos
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 III. Conducir llevando en sus manos, brazos o regazo, a personas, animales o bultos. Asimismo, maquillándose o desmaquillándose, hacer uso de aparatos de comunicación celular, satelital o de radio comunicación, ya sea en su uso básico o en cualquier otra función de que esté previsto el sistema de éste; así como las demás prohibiciones que prevean las normas reglamentarias estatales o municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 19 Quater.
+
+Los tipos de licencia para manejar que expida la Secretaría de Finanzas son:
+
+I.- Chofer particular;
+
+II.- Automovilista;
+
+III.- Motociclista; y
+
+IV.- Aprendiz.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 19 Quinquies.
+
+Las licencias de manejo física o digital, deberán contener:
+
+I.- Fotografía;
+
+II.- Nombre completo;
+
+III.- Firma del interesado;
+
+IV.- Vigencia;
+
+V.- Número de licencia;
+
+VI.- Tipo de licencia;
+
+VII.- Firma del titular de la Secretaría de Finanzas;
+
+VIII.- Código QR; y
+
+IX.- Las observaciones que la autoridad expedidora considere necesario incluir, en relación a la persona titular de la licencia, tales como:
+
+a) Grupo sanguíneo y factor Rh;
+
+b) Mención si se trata de donador altruista de órganos;
+
+c) Alergias; y
+
+d) Mención, en su caso, de que está obligado a usar lentes, prótesis u otros aparatos.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 19 Sexies.
+
+La Secretaría de Finanzas expedirá licencias de aprendiz para manejar automóviles de servicio particular, cuando se reúnan los requisitos siguientes:
+
+I.- Presentar solicitud elaborada ante la oficina recaudadora o expendedora dependiente de la Secretaría de Finanzas, mediando declaración bajo protesta de decir verdad que los datos manifestados por el padre, madre o tutor o quien ejerza la patria potestad son correctos, mismos que asumirán plenamente la responsabilidad de las infracciones o delitos que en su caso se cometan. La solicitud señalara en forma precisa nombre, domicilio para oír y recibir notificaciones;
+
+II.- Comprobante de pago de los derechos correspondientes;
+
+III.- Identificación oficial del padre, madre, tutor o quien ejerza la patria potestad;
+
+IV.- Comprobante de domicilio;
+
+V.- Acta de nacimiento del menor;
+
+VI.- Identificación del menor;
+
+VII.- Ser mayor de 16 años;
+
+VIII.- Carta Responsiva del padre, madre, tutor o quien ejerza la patria potestad relativa al pago de daños que con motivo de la conducción del vehículo se lleguen a ocasionar;
+
+IX.- Aprobar el examen de pericia y el examen médico determinados por la Autoridad;
+
+X.- Esta licencia tendrá una vigencia a partir de la fecha de expedición hasta que cumpla la mayoría de edad; y
+
+XI.- Contar con póliza de seguro de daños a terceros.
+
+Para el caso de la reposición de la licencia de aprendiz para conducir, deberán presentarse los documentos establecidos en las fracciones II, III, IV y VI del presente artículo.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 19 Septies.
+
+Los requisitos para la renovación de la licencia de conducir física o digital, son los siguientes:
+
+a) Acudir el interesado;
+
+b) Licencia de conducir anterior (copia en caso de querer conservar la original);
+
+c) Comprobante de domicilio (recibo de agua o luz no mayor a tres meses de antigüedad);
+
+d) Debe estar a nombre de quien solicite el alta o familiar directo; si el contribuyente está rentando deberá presentar contrato de arrendamiento (si la persona no cuenta con contrato de arrendamiento, deberá presentar el comprobante de domicilio endosado por la persona de quien corresponda el comprobante, anexando copia de identificación oficial);
+
+e) Identificación oficial con fotografía, Credencial de Elector, Licencia de conducir, Cédula Profesional (formato con fotografía) o Pasaporte;
+
+f) Cédula de Identificación Fiscal (R.F.C.) únicamente en caso de que el registro del contribuyente se encuentre incompleto o cuente con error; y
+
+g) CURP obtenido de la página oficial de RENAPO (https://www.gob.mx/curp/).
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+###### ARTICULO 19 Octies.
+
+Los requisitos para la reposición de la licencia de conducir son los siguientes:
+
+a) Acudir el interesado;
+
+b) Identificación oficial con fotografía, Credencial de Elector, Licencia de conducir, Cédula Profesional (formato con fotografía) o Pasaporte;
+
+c) Comprobante de domicilio (recibo de agua o luz no mayor a tres meses de antigüedad). Debe estar a nombre de quien solicite el alta o familiar directo; si el contribuyente está rentando deberá presentar contrato de arrendamiento (si la persona no cuenta con contrato de arrendamiento, deberá presentar el comprobante de domicilio endosado por la persona de quien corresponda el comprobante, anexando copia de identificación oficial); y
+
+d) Constancia o documento extraviado emitido por la Fiscalía General de Justicia del Estado de Tamaulipas.
 
 ###### ARTICULO 20.
 
@@ -863,51 +1037,93 @@ II. Suspensión de licencia:
 
 a).- Por orden de autoridad competente;
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-b).- Por la acumulación de infracciones cometidas en forma reiterada a esta ley o a su reglamento, ya sea estatal o el de algún municipio; y
+b).- Por la acumulación de infracciones cometidas en forma reiterada a esta ley o a su reglamento, ya sea estatal o el de algún municipio;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
-c).- A quien infrinja lo establecido en el artículo 19 Ter, fracciones I, incisos b) y c), II y III de esta ley, o sus colectivos en el Reglamento estatal o municipal de que se trate, pudiendo suspenderse hasta por seis meses, independientemente de otras infracciones a que se haga acreedor.
+c).- A la persona que infrinja lo establecido en el artículo 19 Ter, fracciones I, inciso b), II y III de esta ley, o sus colectivos en el Reglamento estatal o municipal de que se trate, pudiendo suspenderse hasta por seis meses, independientemente de otras infracciones a que se haga acreedora;
 
-III. Cancelación de licencia:
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+d).- Cuando la persona titular cometa en el término de doce meses, tres infracciones, de las que se sancionen con más de 10 veces el valor diario de la Unidad de Medida y Actualización;
 
-a).- Por orden de autoridad competente; y,
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+e).- Cuando la persona contraiga una enfermedad o le sobrevenga alguna discapacidad o lesión que lo inhabilite temporalmente para conducir y no acredite contar con certificado médico expedido por institución de salud pública en que se señale que es apto para conducir vehículos motorizados;
 
-b).- A los menores de dieciocho años por la infracción a lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) de esta ley, o sus relativos en el Reglamento estatal o municipal de que se trate, la que podrá solicitar nuevamente hasta su mayoría de edad, siempre y cuando haya transcurrido por lo menos un año posterior a la sanción.
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+f).- A los que incurran por 3 veces consecutivas, en un año calendario, en exceso de velocidad;
 
-IV.- Arresto administrativo de 8 hasta por 16 horas, a quien infrinja lo establecido en el artículo 19 Ter, fracción I incisos b) y c), de esta ley; en caso de reincidencia el arresto mínimo será de 16 a 36 horas.
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+g).- Quienes habiendo cometido una infracción se den a la fuga y no obedezcan las indicaciones de las autoridades de tránsito para que se detengan empleando violencia física o moral; independientemente de la suspensión correspondiente, los guardias de tránsito estatal o agente (sic) autorizados procederán a su detención y puesta (sic) disposición ante el agente del ministerio público local de conformidad con el artículo 181 del Código Penal para el Estado de Tamaulipas; y
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+h).- Quienes conduzcan vehículos motorizados con una cantidad de alcohol en la sangre conforme lo establecido en el artículo 19 Ter, fracción I, inciso a), de esta ley. Solo se levantará la suspensión cuando las personas conductoras que consuman algún tipo de droga comprueben haberse sometido a rehabilitación o terminado el tratamiento médico.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+En el caso de instalarse, en el ámbito jurisdiccional estatal o municipal, los puntos de control de alcoholimetría estos deberán realizarse de conformidad con el Protocolo para la implementación de puntos de control de alcoholimetría, que determine la autoridad Estatal de Tránsito.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 8 DE JULIO DE 2025)</small>
+
+III. Cancelación de licencia o Certificado Médico Toxicológico para operadores de transporte público:
+
+a).- Por orden de autoridad competente;
+
+b).- A los menores de dieciocho años por la infracción a lo establecido en el artículo 19 Ter, fracción I, inciso b) de esta ley, o sus relativos en el Reglamento estatal o municipal de que se trate, la que podrá solicitar nuevamente hasta su mayoría de edad, siempre y cuando haya transcurrido por lo menos un año posterior a la sanción.; (sic)
+
+c).- Manejar bajo el efecto de drogas enervantes o psicotrópicos;
+
+d).- Conducir con una cantidad de alcohol en la sangre conforme lo establecido en el artículo 19 Ter, fracción I, inciso a), de esta ley. Las personas conductoras de vehículos de transporte público de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deberán presentar ninguna cantidad de alcohol en la sangre o en aire espirado;
+
+e).- Cuando la persona titular contraiga una enfermedad o le sobrevenga alguna discapacidad o lesión que lo imposibilite permanentemente para conducir y no acredite contar con certificado médico expedido por institución de salud pública en que se señale que es apto para conducir vehículos motorizados;
+
+f).- Cuando (sic) la persona titular se le sancione en 2 ocasiones con la suspensión de la licencia para conducir vehículos;
+
+g).- Cuando se compruebe que la información o documentos proporcionados para su expedición sea falsa;
+
+h).- Por resolución judicial o administrativa firme;
+
+i).- Cuando la Dirección de Tránsito Estatal tenga conocimiento de que ha ocurrido cualquiera de los casos que motiven la suspensión o cancelación de licencias procederá, dentro de las 72 horas siguientes, a remitir el expediente correspondiente a la autoridad competente, para que esta tramité y determiné si procede o no la suspensión o la cancelación de la licencia; y
+
+j).- Cuando así lo determine la autoridad judicial, de manera fundada y motivada, por el tiempo que al efecto señale.
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
+
+IV. Arresto administrativo de 8 hasta por 16 horas, a quien infrinja lo establecido en el artículo 19 Ter, fracción I inciso b) de esta ley; en caso de reincidencia el arresto mínimo será de 16 a 36 horas.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
-V.- Trabajo a favor de la comunidad. Esta sanción se impondrá en jornadas máximas de 8 horas, sin afectar horarios de escuela o de labores, si se tratara de estudiantes o trabajadores, respectivamente.
+V. Trabajo a favor de la comunidad. Esta sanción se impondrá en jornadas máximas de 8 horas, sin afectar horarios de escuela o de labores, si se tratara de estudiantes o trabajadores, respectivamente.
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
 
-VI.- Asistencia a tres sesiones de centros asistenciales o instituciones para la rehabilitación de personas con problemas de adicciones, que esté debidamente acreditado, y que expida las constancias respectivas, mismas que deberá hacer llegar a la autoridad competente, a quien infrinja lo establecido en el artículo 19 Ter, fracción I de esta Ley, sin demérito de la multa a la que haya lugar.
+VI. Asistencia a tres sesiones de centros asistenciales o instituciones para la rehabilitación de personas con problemas de adicciones, que esté debidamente acreditado, y que expida las constancias respectivas, mismas que deberá hacer llegar a la autoridad competente, a quien infrinja lo establecido en el artículo 19 Ter, fracción I de esta Ley, sin demérito de la multa a la que haya lugar.
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2023)</small>
 
-VII.- Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta dos veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
+VII. Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta dos veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
 
 No obstante lo establecido en la fracción VII del presente artículo, no será remitido a las instituciones de resguardo el vehículo en caso de que su propietario o el conductor del mismo retire el objeto que obstruya la visibilidad del conductor; o impida la visión al interior del vehículo, en el momento que la autoridad correspondiente se lo solicite, lo anterior sin demérito de la aplicación de la multa correspondiente.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Para el supuesto de que el vehículo o el poseedor del vehículo no exhiba o cuente con el seguro vehicular vigente, se aplicará una multa desde cuarenta hasta sesenta veces el valor diario de la Unidad de Medida y Actualización; y en el caso de que el vehículo no cuente con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, se procederá a la detención del vehículo automotor y se remitirá a las instituciones de resguardo que correspondan y además se aplicará la multa mencionada en este artículo.
+VIII. Para el supuesto de que el vehículo o el poseedor del vehículo no exhiba o cuente con el seguro vehicular vigente, se aplicará una multa desde cuarenta hasta sesenta veces el valor diario de la Unidad de Medida y Actualización; y en el caso de que el vehículo no cuente con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, se procederá a la detención del vehículo automotor y se remitirá a las instituciones de resguardo que correspondan y además se aplicará la multa mencionada en este artículo.
 
 Dichas multas no podrán ser condonadas ni reducidas.
 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2020)</small>
 
 ARTICULO 49 TER.- Las sanciones a que hace referencia el artículo inmediato anterior, podrán ser conmutadas por trabajo a favor de la comunidad de manera proporcional a la falta cometida, siempre que la multa correspondiente no exceda hasta nueve veces el valor diario de la Unidad de Medida y Actualización, en los términos del artículo 49 Bis, fracción V de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
+
+ARTICULO 49 QUATER.- Los ingresos que por concepto de multas se recauden, se distribuirán en estímulos y equipamiento de la Dirección de Tránsito Estatal, en los porcentajes que se establezcan en el Reglamento de Tránsito de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -923,11 +1139,11 @@ Sin demérito del monto de tarifas que por multa prevé esta ley a los infractor
 
 En el ejercicio de sus atribuciones reglamentarias privilegiarán el cumplimiento de los preceptos constitucionales.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 51 Bis.
 
-Contra las sanciones por infracción a las disposiciones normativas en la materia, procede el recurso de revisión expresado en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
+Contra las sanciones por infracción a las disposiciones normativas en la materia, procede el recurso de revisión expresado en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas y el plazo para interponerlo será de quince días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación del acto o resolución que se recurra.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
 
@@ -1366,3 +1582,27 @@ P.O. 20 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-350 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Seguridad Pública, así como a la Secretaría de Desarrollo Urbano y Medio Ambiente, a realizar, en el ámbito de sus competencias, los procedimientos correspondientes para llevar a cabo las adecuaciones reglamentarias y normativas a las que haya lugar, derivado del presente Decreto, sin que tales adecuaciones puedan exceder de 60 días naturales, contados a partir de la entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas en coordinación con las áreas competentes deberá realizar los trámites administrativos necesarios para expedir la Licencia Digital, cuando así se lo soliciten, así como los permisos para circular sin placas en un plazo no mayor a 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas realizará, en su caso, las modificaciones presupuestales necesarias para dar cumplimiento a lo establecido en el presente Decreto.
