@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-tribunal-de-justicia-administrativa-del-180190
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-05-28"
-last_updated: "2025-05-28"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JULIO DE 2025 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 9 DE JULIO DE 2025.]</small>
 
 Ley publicada en el Número 042 del Periódico Oficial del Estado de Chiapas, el miércoles 28 de mayo de 2025.
 
@@ -551,7 +551,9 @@ I. SER CIUDADANO CHIAPANECO O CHIAPANECA EN EJERCICIO DE SUS DERECHOS CIVILES Y 
 
 II. Contar con experiencia mínima de cinco años en materia fiscal, administrativa, o en áreas de fiscalización, responsabilidades administrativas, hechos de corrupción o rendición de cuentas.
 
-III. Contar con la Licenciatura en Derecho con título y cédula profesional debidamente registrados ante la autoridad competente, por lo menos con cinco años de antigüedad a la fecha de su nombramiento.
+> <small>(F. DE E., P.O. 9 DE JULIO DE 2025)</small>
+
+III. Contar con la Licenciatura en Derecho con título y cédula profesional debidamente registrados ante la autoridad competente y por lo menos con cinco años de experiencia a la fecha de su nombramiento.
 
 IV. No pertenecer al estado eclesiástico, ni ser ministra o ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación.
 
