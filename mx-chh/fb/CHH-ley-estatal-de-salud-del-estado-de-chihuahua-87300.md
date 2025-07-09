@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2025-07-05"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -883,6 +883,10 @@ VII.- Fomentar que en los hospitales públicos y privados que presten servicios 
 
 VIII.- Fomentar la práctica e informar las ventajas del parto natural.
 
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+IX. La realización periódica de actividades de sensibilización y difusión, respecto de la muerte perinatal y neonatal.
+
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
 
 ###### Artículo 67 Bis.
@@ -914,6 +918,14 @@ Asimismo, se establecerán acciones de orientación y vigilancia institucional, 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2023)</small>
 
 En los casos de muerte perinatal o neonatal, se implementará un protocolo de atención específico para las madres y padres de familia, además de un seguimiento psicológico para favorecer su recuperación emocional. Así mismo, se procurará contar con un área específica para la recuperación de las madres en duelo gestacional, durante su estancia hospitalaria.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Además, se les brindará información pertinente, oportuna y veraz, acerca de los procesos de inhibición fisiológica o farmacológica de la lactancia y, en su caso, la posibilidad de donar la leche materna.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Las autoridades sanitarias, de acuerdo con su disponibilidad presupuestaria, capacitarán al personal de salud para abordar integralmente, con sentido ético, respetuoso y humanitario, la muerte perinatal y neonatal.
 
 ###### Artículo 71.
 
@@ -2371,6 +2383,10 @@ La Secretaría contará con programas permanentes de detección, para efectuar l
 
 La Secretaría será responsable de planear, organizar, coordinar, ejecutar y vigilar dichos programas.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+La política de prevención, para promover conductas favorables a la salud que disminuyan la posibilidad de desarrollar estos tipos de cánceres, atenderá a las especificaciones de cada factor de riesgo, de acuerdo con los lineamientos establecidos en las normas oficiales mexicanas correspondientes.
+
 ###### Artículo 216.
 
 Los Programas de Cáncer, tienen las siguientes prioridades:
@@ -3479,9 +3495,11 @@ Los verificadores, en tratándose de establecimientos y consultorios que suminis
 
 La autoridad sanitaria competente podrá encomendar a sus verificadores, además de lo señalado en el artículo anterior, actividades de orientación, educación y, en su caso, aplicación de las medidas de seguridad a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 355.
 
-Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras, se efectuarán en días y horas hábiles y, las segundas, en cualquier tiempo.
+Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras, se efectuarán de manera regular, de acuerdo con la disponibilidad presupuestaria en días y horas hábiles y, las segundas, en cualquier tiempo.
 
 Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual.
 
@@ -4392,6 +4410,30 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 5 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0246/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0223/2025 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 355, PRIMER PÁRRAFO, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFLEY/0230/2025 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 215, UN SEGUNDO PÁRRAFO, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFLEY/0231/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
