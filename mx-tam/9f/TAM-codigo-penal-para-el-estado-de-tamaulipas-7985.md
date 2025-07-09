@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-06-11"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3624,6 +3624,10 @@ Las penas a que se refiere este artículo se aumentarán desde un tercio y hasta
 ###### ARTICULO 255.
 
 Comete el delito de falsedad en informes dados a una autoridad el que los rinda a ésta afirmando una falsedad o negando la verdad en todo o en parte.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTICULO 255 BIS.- Comete el delito de falsedad en informes contra la vigilancia y verificación ambiental el que asiente datos falsos en los registros, bitácoras o cualquier otro documento, con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental del Estado o de los municipios, o destruya, altere u oculte información, registros, reportes o cualquier otro documento que sea indispensable mantener o archivar de conformidad con la propia normatividad ambiental.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -7844,6 +7848,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 11 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-334 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-363 MEDIANTE EL CUAL SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
