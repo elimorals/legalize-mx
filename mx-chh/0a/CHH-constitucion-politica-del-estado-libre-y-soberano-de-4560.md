@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2025-07-02"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -63,11 +63,11 @@ DE LOS DERECHOS FUNDAMENTALES.
 
 ### CAPITULO I.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Art. 4o.
 
-En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución. La mujer y el hombre son iguales ante la Ley.
+En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución. La mujer y el hombre son iguales ante la Ley. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
 
@@ -5786,6 +5786,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFCNT/0088/2024 I P.O., MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 4º, LOS PÁRRAFOS VIGÉSIMO OCTAVO Y VIGÉSIMO NOVENO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFCNT/0193/2025 III P.E., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 4º, PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
 
 ###### ARTÍCULO PRIMERO.
 
