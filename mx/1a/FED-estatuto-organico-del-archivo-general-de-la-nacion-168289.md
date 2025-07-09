@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-archivo-general-de-la-nacion-168289"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-10-26"
-last_updated: "2023-10-26"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168289&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2023-10-11"
 
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JULIO DE 2025.
 
 Estatuto publicado en el Número 24 del Diario Oficial de la Federación, el jueves 26 de octubre de 2023.
 
@@ -127,9 +127,11 @@ XVIII. Unidades administrativas: A la Dirección General, Memoria Histórica y d
 
 XIX. Presidencia: A la Presidencia del Órgano de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 3.
 
-La persona titular de la Dirección de Asuntos Jurídicos y Archivísticos interpretará administrativamente el presente instrumento normativo, en atención a las solicitudes que presenten las Unidades y Áreas administrativas; Instancias colegiadas; u Órganos de vigilancia del Archivo General.
+La persona titular de la Dirección de Asuntos Jurídicos interpretará administrativamente el presente instrumento normativo, en atención a las solicitudes que presenten las Unidades y Áreas administrativas; Instancias colegiadas; u Órganos de vigilancia del Archivo General.
 
 Las discrepancias competenciales que pudieran derivar entre las Unidades y Áreas administrativas deberán ser resueltas según la naturaleza y función que el presente Estatuto establece para cada una de las Unidades y Áreas administrativas de la Entidad.
 
@@ -225,15 +227,23 @@ IV. La Dirección de Desarrollo Archivístico Nacional;
 
 V. La Dirección de Gestión Acceso y Difusión del Patrimonio Documental;
 
-VI. La Dirección de Asuntos Jurídicos y Archivísticos; y
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI. La Dirección de Asuntos Jurídicos; y
 
 VII. La Dirección de Administración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 16.
 
-La Dirección General tendrá adscrita la siguiente Área administrativa:
+La Dirección General tendrá adscritas las siguientes Áreas administrativas:
 
 I. La Subdirección de Vinculación.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. La Subdirección de Proyectos Especiales.
 
 ###### Artículo 17.
 
@@ -265,21 +275,35 @@ III. La Subdirección de Investigación y Conservación del Patrimonio Documenta
 
 IV. La Subdirección de Investigación, Dictaminación y Certificación del Patrimonio Documental; y
 
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+IV Bis. La Subdirección para la Protección y Restitución del Patrimonio Documental; y
+
 V. El Departamento de Control y Seguimiento Administrativo para la Preservación del Patrimonio Documental.
 
 ###### Artículo 19.
 
 La Dirección de Desarrollo Archivístico Nacional tendrá adscritas las siguientes Áreas administrativas:
 
-I. La Subdirección de Desarrollo Archivístico;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-II. La Subdirección de Cumplimiento Normativo Archivístico;
+I. La Subdirección de Desarrollo Archivístico Nacional;
 
-III. La Subdirección de Disposición Documental;
+II. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-IV. La Subdirección de Capacitación y Asesoría Archivística; y
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+III. La Subdirección para el Rescate, Diagnósticos, Gestión de Riesgos y Disposición Documental;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+IV. La Subdirección de Capacitación, Certificación y Asesoría Archivística; y
 
 V. La Subdirección de Coordinación de Archivos.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI. La Subdirección para la Gestión y Operación del Consejo Nacional de Archivos.
 
 ###### Artículo 20.
 
@@ -291,9 +315,11 @@ II. La Subdirección de Divulgación del Patrimonio Documental; y
 
 III. La Subdirección de Acceso y Servicios al Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 21.
 
-La Dirección de Asuntos Jurídicos y Archivísticos tendrá adscritas las siguientes Áreas administrativas:
+La Dirección de Asuntos Jurídicos tendrá adscritas las siguientes Áreas administrativas:
 
 I. La Subdirección de Dictaminación Normativa;
 
@@ -301,9 +327,9 @@ II. La Subdirección de Contratos y Convenios;
 
 III. La Subdirección de lo Contencioso;
 
-IV. La Subdirección para la Protección y Restitución del Patrimonio Documental;
+IV. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-V. La Subdirección para la Gestión y Operación del Consejo Nacional de Archivos; y
+V. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
 VI. El Departamento de Procedimientos de Transparencia, Acceso a la Información y Datos Personales.
 
@@ -353,7 +379,9 @@ Ante la ausencia definitiva de la persona titular de la Dirección General, fung
 
 I. Dirección de Administración;
 
-II. Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. Dirección de Asuntos Jurídicos;
 
 III. Dirección de Preservación del Patrimonio Documental;
 
@@ -543,7 +571,9 @@ XVII. Aprobar el estatuto orgánico del Archivo General y sus modificaciones;
 
 XVIII. Autorizar la creación de comités que lo apoyen;
 
-XIX. Ratificar el nombramiento o remoción de la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos, según el planteamiento que realice la Consejería Jurídica del Ejecutivo Federal o la Dirección General;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XIX. Ratificar el nombramiento o remoción de la persona titular de la Dirección de Asuntos Jurídicos, según el planteamiento que realice la Consejería Jurídica del Ejecutivo Federal o la Dirección General;
 
 XX. Nombrar a propuesta de la persona titular de la Dirección General, a las personas titulares de las siguientes Unidades y Áreas administrativas del Archivo General:
 
@@ -803,7 +833,9 @@ III. Aprobar los lineamientos en materia de concentración y resguardo en el Arc
 
 IV. Aprobar los proyectos de investigación archivística y sobre el Patrimonio Documental, que en su caso le propongan las unidades administrativas;
 
-V. Resolver los medios de impugnación en materia administrativa que se interpongan en contra de cualquier resolución que emitan las unidades administrativas, de conformidad con el proyecto que le presente la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V. Resolver los medios de impugnación en materia administrativa que se interpongan en contra de cualquier resolución que emitan las unidades administrativas, de conformidad con el proyecto que le presente la Dirección de Asuntos Jurídicos;
 
 VI. Aprobar el Manual de Organización General del Archivo General para que sea expedido por el Director de Administración;
 
@@ -841,11 +873,15 @@ XIX. Autorizar o instruir a las Unidades administrativas para que colaboren con 
 
 XX. Autorizar o instruir a las Unidades administrativas para que participen, investiguen u organicen cumbres, foros, conferencias, paneles, eventos y demás tipo (sic) de reuniones de carácter nacional e internacional, con el objeto de fortalecer el desarrollo archivístico nacional o regional;
 
-XXI. Emitir las condiciones generales de trabajo del Archivo General, previo dictamen favorable de la Dirección de Asuntos Jurídicos y Archivísticos, respecto de la legalidad del proyecto; y de la Dirección de Administración, respecto de la viabilidad presupuestaria; y la opinión que, en su caso, emita el sindicato;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXI. Emitir las condiciones generales de trabajo del Archivo General, previo dictamen favorable de la Dirección de Asuntos Jurídicos, respecto de la legalidad del proyecto; y de la Dirección de Administración, respecto de la viabilidad presupuestaria; y la opinión que, en su caso, emita el sindicato;
 
 XXII. Reconsiderar la imposición de sanciones por incumplimiento de las obligaciones laborales, según las solicitudes que presenten las personas titulares de las Unidades administrativas;
 
-XXIII. Emitir, avalar y negociar los títulos de créditos a nombre del Archivo General, previo visto bueno de la Dirección de Asuntos Jurídicos y Archivísticos y la Dirección de Administración;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXIII. Emitir, avalar y negociar los títulos de créditos a nombre del Archivo General, previo visto bueno de la Dirección de Asuntos Jurídicos y la Dirección de Administración;
 
 XXIV. Otorgar poderes generales y especiales con las atribuciones que le competan, sin perder el ejercicio de éstas, inclusive las que requieran de autorización o cláusula especial; así como sustituir y revocar dichos poderes; y
 
@@ -855,11 +891,17 @@ XXV. Las demás que las disposiciones legales o reglamentarias le atribuyan en e
 
 Para la atención de los asuntos que deriven de sus atribuciones, la Dirección General podrá solicitar la intervención de las Unidades administrativas, según su ámbito competencial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 72.
 
-La operación administrativa de la Dirección General estará a cargo de la siguiente área administrativa:
+La operación administrativa de la Dirección General estará a cargo de las siguientes áreas administrativas:
 
 I. La Subdirección de Vinculación.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. La Subdirección de Proyectos Especiales.
 
 ###### Artículo 73.
 
@@ -885,6 +927,42 @@ IX. Las demás que las disposiciones legales o reglamentarias le atribuyan en el
 
 La persona titular de la subdirección referida y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Dirección General.
 
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 73 Bis.
+
+La Subdirección de Proyectos Especiales tendrá la función de dirigir e implementar los proyectos que le encomiende la persona titular de la Dirección General, así como brindarle asesoría en temas administrativos del Archivo General.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 73. Ter.
+
+La persona titular de la Subdirección de Proyectos Especiales tendrá las siguientes atribuciones:
+
+I. Implementar las acciones que le permitan asesorar a la persona titular de la Dirección General en los temas que esta le solicite;
+
+II. Implementar las acciones que le permitan establecer mecanismos para el análisis, diseño e implementación de los proyectos especiales que le instruya la persona titular de la Dirección General;
+
+III. Implementar las acciones que le permitan asesorar a las personas titulares de las Unidades administrativas en los temas que determine la persona titular de la Dirección General;
+
+IV. Implementar las acciones que le permitan colaborar con las personas titulares de las Unidades administrativas en la atención de proyectos especiales, conforme a las instrucciones de la persona titular de la Dirección General.
+
+V. Implementar las acciones que le permitan identificar áreas de oportunidad en los procesos administrativos, a fin de proponer proyectos especiales orientados a la mejora institucional.
+
+VI. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de su Área administrativa;
+
+VII. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección General;
+
+VIII. Acordar con la persona titular de la Dirección General el despacho de los asuntos de su competencia; y
+
+IX. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección General.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 73.
+
+Quarter. Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección de Proyectos Especiales contará con las colaboradoras y los colaboradores que para tal efecto le sean asignados por la persona titular de la Dirección General, quienes deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Dirección General.
+
 ### Capítulo II. De las atribuciones genéricas de las Unidades administrativas
 
 ###### Artículo 74.
@@ -893,7 +971,9 @@ Las personas titulares de las Unidades administrativas tendrán las siguientes a
 
 I. Acordar con la persona titular de la Dirección General el despacho de los asuntos de su competencia;
 
-II. Aprobar la normativa de observancia general o la no vinculante, en materia de gestión documental y administración de archivos o cualquier otra que disponga (sic) las leyes o disposiciones reglamentarias, según su ámbito competencial; previa autorización de la Dirección General y dictamen de viabilidad de la Dirección de Asuntos Jurídicos y Archivísticos, cuando se trate de algún instrumento no referido expresamente en el Estatuto;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. Aprobar la normativa de observancia general o la no vinculante, en materia de gestión documental y administración de archivos o cualquier otra que dispongan las leyes o disposiciones reglamentarias, según su ámbito competencial; previa autorización de la Dirección General y dictamen de viabilidad de la Dirección de Asuntos Jurídicos, cuando se trate de algún instrumento no referido expresamente en el Estatuto;
 
 III. Proponer a la Dirección General la implementación de proyectos especiales, de cualquier naturaleza, en materia de archivos o vinculadas con la misma;
 
@@ -949,7 +1029,9 @@ XXVIII. Participar en foros y eventos académicos o de socialización de la mate
 
 XXIX. Desempeñar las comisiones que la persona titular de la Dirección General le encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
 
-XXX. Remitir a la Dirección de Asuntos Jurídicos y Archivísticos los recursos administrativos de impugnación que por cualquier motivo reciban;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXX. Remitir a la Dirección de Asuntos Jurídicos los recursos administrativos de impugnación que por cualquier motivo reciban;
 
 XXXI. Ejercer las facultades que mediante acuerdos y disposiciones generales le delegue la persona titular de la Dirección General, para la mejor conducción del Archivo General; y
 
@@ -1247,7 +1329,9 @@ La Dirección de Estrategia y Procesos Jurídicos tendrá la función de dirigir
 
 La persona titular de la Dirección de Estrategia y Procesos Jurídicos tendrá las siguientes atribuciones:
 
-I. Asesorar y acompañar jurídicamente a la persona titular de Memoria Histórica, a sus Áreas administrativas y a la Dirección de Asuntos Jurídicos y Archivísticos, en las materias del derecho a la memoria nacional, derechos de autor y propiedad industrial;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+I. Asesorar y acompañar jurídicamente a la persona titular de Memoria Histórica, a sus Áreas administrativas y a la Dirección de Asuntos Jurídicos, en las materias del derecho a la memoria nacional, derechos de autor y propiedad industrial;
 
 II. Proponer a la persona titular de Memoria Histórica, para su aprobación, los tipos o expresiones documentales que deberán utilizarse en esa Unidad administrativa para formalizar sus actos administrativos o de administración;
 
@@ -1305,6 +1389,10 @@ III. La Subdirección de Investigación y Conservación del Patrimonio Documenta
 
 IV. La Subdirección de Investigación, Dictaminación y Certificación del Patrimonio Documental; y
 
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+IV Bis. La Subdirección para la Protección y Restitución del Patrimonio Documental; y
+
 V. El Departamento de Control y Seguimiento Administrativo para la Preservación del Patrimonio Documental.
 
 ###### Artículo 95.
@@ -1321,9 +1409,43 @@ IV. Establecer los mecanismos que permitan a sus Áreas administrativas preserva
 
 V. Definir, y en su caso, unificar los fondos documentales que integran el Acervo histórico del Archivo General;
 
-VI. Establecer los mecanismos que permitan a sus Áreas administrativas preservar el Acervo histórico del Archivo General;
+VI. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-VII. Establecer los mecanismos que permitan a sus Áreas administrativas identificar y registrar los documentos históricos no localizados o presuntamente extraviados, y en su caso notificar a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental para restringir la consulta, y a la Dirección de Asuntos Jurídicos y Archivísticos, para los fines que determine la normatividad aplicable;
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI Bis. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades encaminadas a prevenir el tráfico ilícito del patrimonio documental, así como a recuperar el sustraído de la entidad;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI Ter. Emitir los siguientes actos administrativos:
+
+a. Declaratoria de patrimonio documental de la nación;
+
+b. Declaratoria de documentos o archivos privados de interés público;
+
+c. Ejercicio del derecho preferente de adquisición de patrimonio documental;
+
+d. Autorización de salida patrimonio documental;
+
+e. Expropiación de patrimonio documental; y
+
+f. Recuperación de la posesión del patrimonio documental de la nación;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI Quarter. Fungir como la persona coordinadora de los trabajos que realice el Consejo Especializado en Valoración de Patrimonio Documental, a que se refiere el artículo 92, tercer párrafo, de la Ley General;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI Quinquies. Exhortar a cualquier instancia pública o privada para que se abstenga de realizar cualquier tipo de acto que pudiera poner en riesgo al patrimonio documental;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI Sexies. Imponer las multas a las infracciones administrativas previstas en la Ley General o cualquier otro instrumento normativo que no le competan al Tribunal Federal de Justicia Administrativa y que se relacionen con la materia de tráfico ilícito o protección del patrimonio documental; según lo dispuesto en la Ley Federal del Procedimiento Administrativo;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VII. Establecer los mecanismos que permitan a sus Áreas administrativas identificar y registrar los documentos históricos no localizados o presuntamente extraviados, y en su caso notificar a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental para restringir la consulta, y a la Dirección de Asuntos Jurídicos, para los fines que determine la normatividad aplicable;
 
 VIII. Autorizar la implementación de las acciones y controles que le propongan sus Áreas administrativas, en materia de conservación, preservación, organización, descripción y trazabilidad, así como de registro de incidencias, siniestros y extravíos;
 
@@ -1581,6 +1703,50 @@ II. El Departamento de Investigación, Dictaminación y Análisis Material del P
 
 Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección de Investigación Documental, Dictaminación y Certificación del Patrimonio Documental.
 
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 107 Bis.
+
+La Subdirección para la Protección y Restitución del Patrimonio Documental tendrá la función de gestionar las actividades que permitan prevenir y combatir el tráfico ilícito del patrimonio documental o respecto de la recuperación del que haya sido sustraído de forma ilícita del Archivo General.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 107 Ter.
+
+La persona titular de la Subdirección para la Protección y Restitución del Patrimonio Documental tendrá las siguientes atribuciones:
+
+I. Acompañar a la Subdirección de lo Contencioso en los asuntos contenciosos relacionados con el combate al tráfico ilícito del patrimonio documental y en la recuperación del que haya sido sustraído de forma ilícita de la Entidad;
+
+II. Proponer a la Subdirección de lo Contencioso las acciones legales que permitan la correcta defensa de los intereses del Patrimonio Documental de la Nación; así como en las materias de combate al tráfico ilícito del patrimonio documental, y de recuperación del que haya sido sustraído de forma ilícita de la Entidad;
+
+III. Implementar las acciones que permitan la promoción, posicionamiento y concientización social respecto de la prevención y combate al tráfico ilícito del patrimonio documental;
+
+IV. Implementar las acciones que permitan al Archivo General participar ante las instancias nacionales e internacionales que promuevan la prevención y combate al tráfico ilícito del patrimonio documental;
+
+V. Implementar las acciones que permitan sustanciar los procedimientos que deriven en los siguientes actos administrativos, según la normativa que para tal efecto emita la persona titular de la Dirección de Preservación del Patrimonio Documental:
+
+a. Declaratoria de patrimonio documental de la nación;
+
+b. Declaratoria de documentos o archivos privados de interés público;
+
+c. Ejercicio del derecho preferente de adquisición de patrimonio documental;
+
+d. Autorización de salida del patrimonio documental;
+
+e. Expropiación de patrimonio documental; y
+
+f. Recuperación de la posesión del patrimonio documental de la nación;
+
+VI. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Preservación del Patrimonio Documental;
+
+VII. Acordar con la persona titular de la Dirección de Preservación del Patrimonio Documental el despacho de los asuntos de su competencia; y
+
+VIII. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Preservación del Patrimonio Documental.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+Artículo 107 Quarter. Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección para la Protección y Restitución del Patrimonio Documental contará con las colaboradoras y los colaboradores que para tal efecto le sean asignados por la persona titular de la Dirección de Preservación del Patrimonio Documental; quienes deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina.
+
 ### Capítulo V. De la Dirección de Desarrollo Archivístico Nacional y sus Áreas administrativas
 
 #### Sección primera. De la Dirección de Desarrollo Archivístico Nacional
@@ -1589,15 +1755,25 @@ Las personas titulares de los departamentos referidos y sus colaboradoras y cola
 
 La Dirección de Desarrollo Archivístico Nacional tendrá la función de dirigir el seguimiento del desarrollo archivístico en los sujetos obligados de la Ley General, de la Administración Pública Federal y contará con las siguientes Áreas administrativas:
 
-I. La Subdirección de Desarrollo Archivístico;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-II. La Subdirección de Cumplimiento Normativo Archivístico;
+I. La Subdirección de Desarrollo Archivístico Nacional;
 
-III. La Subdirección de Disposición Documental;
+II. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-IV. La Subdirección de Capacitación y Asesoría Archivística; y
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+III. La Subdirección para el Rescate, Diagnósticos, Gestión de Riesgos y Disposición Documental;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+IV. La Subdirección de Capacitación, Certificación y Asesoría Archivística; y
 
 V. La Subdirección de Coordinación de Archivos.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VI. La Subdirección para la Gestión y Operación del Consejo Nacional de Archivos.
 
 ###### Artículo 109.
 
@@ -1617,7 +1793,29 @@ VI. Aprobar el Programa Anual de Desarrollo Archivístico del Archivo General;
 
 VII. Autorizar la implementación de las acciones y controles internos que le propongan sus Áreas administrativas, que permitan garantizar el correcto funcionamiento del sistema institucional de archivos del Archivo General;
 
-VIII. Establecer los mecanismos que permitan la correcta administración, funcionamiento, validez jurídica y evaluación del registro nacional de archivos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII. Establecer los mecanismos que permitan la correcta administración, funcionamiento, validez jurídica y evaluación del Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII Bis. Establecer los mecanismos que permitan a sus Áreas administrativas recolectar, sistematizar y verificar la información contenida e ingresada por los sujetos obligados en el Registro Nacional, según las cargas que impone la Ley General a sus sujetos obligados;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII Ter. Establecer los mecanismos que permitan a sus Áreas administrativas realizar visitas de verificación a los sujetos obligados por la Ley General con la finalidad de constatar la información reportada en el Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII Quarter. Establecer los mecanismos que permitan a sus Áreas administrativas emitir recomendaciones que deriven de las visitas de verificación de los datos concentrados en el Registro Nacional y notificarlas a los sujetos obligados de la Ley General, haciendo de conocimiento a la entidad fiscalizadora correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII Quinquies. Establecer los mecanismos que permitan a sus Áreas administrativas monitorear el otorgamiento y seguimiento del licenciamiento del Sistema Automatizado de Gestión de Archivos desarrollado por el Archivo General;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII Sexies. Establecer los mecanismos que permitan a sus Áreas administrativas materializar el Programa de rescate de la Memoria Histórica de los Archivos del Gobierno Federal, así como supervisar las acciones que estas realicen con respecto a los archivos en peligro de destrucción y sobre siniestros archivísticos;
 
 IX. Establecer los mecanismos que permitan la conceptualización, gestión y seguimiento de una plataforma web del sistema nacional de archivos; en coordinación con la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental y la Dirección de Administración;
 
@@ -1639,7 +1837,9 @@ XIV. Establecer los mecanismos que permitan a sus Áreas administrativas analiza
 
 XV. Emitir las buenas prácticas que establezcan las técnicas de preparación para la reproducción de los documentos de trámite o concentración, en soporte analógico;
 
-XVI. Establecer los mecanismos que permitan a sus Áreas administrativas informar a la Dirección de Asuntos Jurídicos y Archivísticos cuando en el ejercicio de sus atribuciones se percaten de la comisión de algún delito previsto en el artículo 121 de la Ley General;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XVI. Establecer los mecanismos que permitan a sus Áreas administrativas informar a la Dirección de Asuntos Jurídicos cuando en el ejercicio de sus atribuciones se percaten de la comisión de algún delito previsto en el artículo 121 de la Ley General;
 
 XVII. Establecer los mecanismos que permitan a sus Áreas administrativas asesorar, registrar y acompañar a los sujetos obligados por la Ley General, respecto de archivos en peligro de destrucción, así como durante siniestros archivísticos, para identificar y mitigar los riesgos sanitarios;
 
@@ -1663,7 +1863,19 @@ b. Visitas de verificación en materia de cumplimiento archivístico;
 
 XXI. Fungir como la persona Suplente del titular de la Presidencia del Consejo Nacional de Archivos;
 
-XXII. Informar a la Dirección de Asuntos Jurídicos y Archivísticos cuando el personal a su cargo identifique la comisión de algún delito previsto en el artículo 121 de la Ley General de Archivos;
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXI Bis. Supervisar el correcto funcionamiento de la Secretaría Técnica del Consejo Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXI Ter. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades de la Secretaría Técnica del Consejo Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXI Quarter. Establecer los mecanismos que permitan la elaboración y seguimiento de la Política Nacional de Gestión Documental y Administración de Archivos;
+
+XXII. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
 XXIII. Emitir la normativa interna que permita el correcto funcionamiento y operación de la Dirección de Desarrollo Archivístico Nacional;
 
@@ -1673,15 +1885,53 @@ XXV. Implementar las acciones, mecanismos o controles internos que garanticen el
 
 XXVI. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección General.
 
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 109 Bis.
+
+La Subdirección para la Gestión y Operación del Consejo Nacional de Archivos tendrá la función de gestionar el correcto funcionamiento del Consejo Nacional, así como el de sus comisiones y grupos de trabajo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 109 Ter.
+
+La persona titular de la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos tendrá las siguientes atribuciones:
+
+I. Fungir como la persona titular de la Secretaría Técnica del Consejo Nacional;
+
+II. Implementar las acciones que permitan la planeación, organización, desahogo y seguimiento de las sesiones ordinarias y extraordinarias del Consejo Nacional, así como de sus comisiones y grupos de trabajo;
+
+III. Implementar las acciones que permitan la elaboración y seguimiento de la Política Nacional de Gestión Documental y Administración de Archivos;
+
+IV. Implementar las acciones que permitan un adecuado desempeño político y administrativo de la Secretaría Técnica con las personas integrantes del Consejo Nacional, así como con cualquier instancia pública o privada, nacional o internacional, con la que se relacione el Consejo Nacional;
+
+V. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Desarrollo Archivístico Nacional;
+
+VI. Acordar con la persona titular de la Dirección de Desarrollo Archivístico Nacional el despacho de los asuntos de su competencia; y
+
+VII. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Desarrollo Archivístico Nacional.
+
+> <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
+Artículo 109 Quarter. Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos contará con la siguiente Área administrativa:
+
+I. Departamento para la Gestión y Operación del Consejo Nacional de Archivos.
+
+La persona titular del departamento referido y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos.
+
 #### Sección segunda. De la Subdirección de Desarrollo Archivístico
+
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 110.
 
-La Subdirección de Desarrollo Archivístico tendrá la función de gestionar el acompañamiento técnico que requieran los sujetos obligados por la Ley General, así como implementar las gestiones necesarias para medir el desarrollo archivístico a nivel nacional.
+La Subdirección de Desarrollo Archivístico Nacional tendrá la función de administrar el Registro Nacional e implementar las gestiones necesarias para medir el desarrollo archivístico a nivel nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 111.
 
-La persona titular de la Subdirección de Desarrollo Archivístico tendrá las siguientes atribuciones:
+La persona titular de la Subdirección de Desarrollo Archivístico Nacional tendrá las siguientes atribuciones:
 
 I. Implementar las acciones que permitan conceptualizar y dotar de información la plataforma web del sistema nacional de archivos;
 
@@ -1691,7 +1941,25 @@ III. Emitir los criterios y recomendaciones archivísticos relacionados con los 
 
 IV. Implementar las acciones que permitan administrar el Registro Nacional;
 
-V. Implementar las acciones que permitan incentivar las inscripciones y refrendos ante el Registro Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V. Implementar las acciones que permitan recolectar, sistematizar y verificar la información contenida e ingresada por los sujetos obligados en el Registro Nacional, según las cargas que impone la Ley General;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V Bis. Implementar las acciones que permitan realizar visitas de verificación a los sujetos obligados por la Ley General con la finalidad de constatar la información reportada en el Registro Nacional;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V Ter. Implementar las acciones que permitan emitir recomendaciones que deriven de las visitas de verificación de los datos concentrados en el Registro Nacional y notificarlas a los sujetos obligados de la Ley General, haciendo de conocimiento a la entidad fiscalizadora correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V Quarter. Implementar las acciones que permitan el monitoreo del otorgamiento y seguimiento del licenciamiento del Sistema Automatizado de Gestión de Archivos desarrollado por el Archivo General;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V Quinquies. Implementar las acciones necesarias para que se informe a la Dirección de Asuntos Jurídicos cuando el personal de la Dirección de Desarrollo Archivístico Nacional identifique la comisión de algún delito previsto en el artículo 121 de la Ley General de Archivos;
 
 VI. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de su Área administrativa;
 
@@ -1705,9 +1973,13 @@ IX. Las demás que las disposiciones legales o reglamentarios (sic) le atribuyan
 
 Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección de Desarrollo Archivístico contará con las siguientes Áreas administrativas:
 
-I. El Departamento de Vinculación Normativa y Transparencia; y
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-II. El Departamento del Registro Nacional de Archivos.
+I. El Departamento de Desarrollo Archivístico en el Gobierno Federal; y
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. Departamento de Desarrollo Archivístico en Estados y Municipios.
 
 Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección de Desarrollo Archivístico.
 
@@ -1715,63 +1987,59 @@ Las personas titulares de los departamentos referidos y sus colaboradoras y cola
 
 ###### Artículo 113.
 
-La Subdirección de Cumplimiento Normativo Archivístico tendrá la función de diagnosticar de forma permanente el cumplimiento normativo archivístico de los Sujetos Obligados de la Administración Pública Federal.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 114.
 
-La persona titular de la Subdirección de Cumplimiento Normativo Archivístico tendrá las siguientes atribuciones:
-
-I. Implementar las acciones que permitan recolectar, sistematizar y verificar la información relacionada con el cumplimiento normativo, según las cargas que impone la Ley General a los sujetos obligados de la Administración Pública Federal;
-
-II. Validar los instrumentos de control archivísticos de los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
-
-III. Implementar las acciones que permitan el registro y validación de los instrumentos de control archivísticos de los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
-
-IV. Implementar las acciones que permitan realizar visitas a los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
-
-V. Implementar las acciones que permitan asesorar a los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal cuando estén sujetos a alguna fusión, extinción o cambio de adscripción;
-
-VI. Implementar las acciones que permitan asesorar y acompañar a los sujetos obligados por la Ley General en materia de administración de riesgos en los archivos de trámite y concentración;
-
-VII. Implementar las acciones que permitan asesorar, registrar y acompañar a los sujetos obligados por la Ley General, respecto de archivos en peligro de destrucción, así como durante siniestros archivísticos, para identificar y mitigar los riesgos sanitarios; para lo cual podrán emitir las actas administrativas de hechos que estimen pertinentes;
-
-VIII. Implementar las acciones que permitan asesorar y acompañar a los sujetos obligados durante los diagnósticos de infraestructura que realicen a sus archivos de concentración, y en su caso, históricos;
-
-IX. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de su Área administrativa;
-
-X. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Desarrollo Archivístico Nacional;
-
-XI. Acordar con la persona titular de la Dirección Desarrollo Archivístico Nacional el despacho de los asuntos de su competencia; y
-
-XII. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Desarrollo Archivístico Nacional.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 115.
 
-Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección de Cumplimiento Normativo Archivístico contará con las siguientes Áreas administrativas:
-
-I. El Departamento de Validación de Instrumentos de Control;
-
-II. El Departamento de Cumplimiento Normativo Archivístico; y
-
-III. El Departamento de Diagnósticos y Gestión de Riesgos.
-
-Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección de Cumplimiento Normativo Archivístico.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 #### Sección cuarta. De la Subdirección de Disposición Documental
 
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 116.
 
-La Subdirección de Disposición Documental tendrá la función de gestionar la emisión de los dictámenes para que los Sujetos Obligados de la Administración Pública Federal puedan realizar sus bajas documentales y transferencias secundarias.
+La Subdirección para el Rescate, Diagnósticos, Gestión de Riesgos y Disposición Documental tendrá la función de coadyuvar en el rescate de los archivos federales en peligro de destrucción, así como emitir los dictámenes de baja documental o transferencia secundaria de la Administración Pública Federal.
+
+REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 117.
 
-La persona titular de la Subdirección de Disposición Documental tendrá las siguientes atribuciones:
+La persona titular de la Subdirección para el Rescate, Diagnósticos, Gestión de Riesgos y Disposición Documental tendrá las siguientes atribuciones:
 
-I. Emitir los dictámenes de baja documental para los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-II. Emitir los dictámenes de transferencia secundaria para los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal, para lo cual deberá tomar en cuenta la normativa y criterios que emita la Dirección de Preservación del Patrimonio Documental, cuando se pretenda realizar una incorporación al Acervo histórico de la Entidad;
+I. Emitir los dictámenes de baja documental para los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal, ya sea en soporte papel o a través de una herramienta informática;
 
-III. Implementar las acciones que permitan registrar la toma de conocimiento y la eliminación de documentación de comprobación administrativa inmediata que realicen los sujetos obligados por la Ley General pertenecientes a la Administración Pública Federal;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. Emitir los dictámenes de transferencia secundaria para los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal, para lo cual deberá tomar en cuenta la normativa y criterios que emita la Dirección de Preservación del Patrimonio Documental, cuando se pretenda realizar una incorporación al Acervo histórico de la Entidad, ya sea en soporte papel o a través de una herramienta informática;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II Bis. Implementar las acciones que permitan materializar el Programa de rescate de la Memoria Histórica de los Archivos del Gobierno Federal, cuando se identifique el riesgo de pérdida de información de documentación con probable valor histórico que resguarden los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II Ter. Implementar las acciones que permitan aplicar diagnósticos a los sujetos obligados por la Ley General en materia de infraestructura, equipamiento y estado de la documentación que se resguarda en sus archivos;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II Quarter. Implementar las acciones que permitan asesorar y acompañar a los sujetos obligados por la Ley General, en materia de administración de riesgos en los archivos de trámite y concentración;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II Quinquies. Implementar las acciones que permitan asesorar, registrar y acompañar a los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal, en relación con archivos en peligro de destrucción y siniestros archivísticos, para identificar y mitigar los riesgos, para lo cual podrán emitir las actas administrativas de hechos que estimen pertinentes;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II Sexies. Implementar las acciones que permitan asesorar a los sujetos obligados por la Ley General para la recuperación de la documentación con probable valor histórico afectada por un siniestro;
+
+III. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
 IV. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de su Área administrativa;
 
@@ -1781,35 +2049,51 @@ VI. Acordar con la persona titular de la Dirección (sic) Desarrollo Archivísti
 
 VII. Las demás que las disposiciones legales o reglamentarios (sic) le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Desarrollo Archivístico Nacional.
 
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 118.
 
-Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección de Disposición Documental contará con la siguiente Área administrativa:
+Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección para el Rescate, Diagnósticos, Gestión de Riesgos y Disposición Documental contará con las siguientes Áreas administrativas:
 
-I. El Departamento de Disposición Documental; y
+I. El Departamento de Rescate y Diagnósticos en Estados y Municipios; y
 
-II. El Departamento de Atención a Solicitudes de Dictamen de Transferencia Secundaria.
+II. El Departamento (sic) Rescate, Riesgos y Diagnósticos del Gobierno Federal.
 
-La persona titular del departamento referido y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección de Disposición Documental.
+Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección para el Rescate, Diagnósticos, Gestión de Riesgos y Disposición Documental.
 
 #### Sección quinta. De la Subdirección de Capacitación y Asesoría Archivística
 
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 119.
 
-La Subdirección de Capacitación y Asesoría Archivística tendrá la función de gestionar las capacitaciones archivísticas que impartirá el Archivo General a los sujetos obligados por la Ley General y al público en general.
+La Subdirección de Capacitación, Certificación y Asesoría Archivística tendrá la función de gestionar las capacitaciones, certificaciones, asesorías y consultas que soliciten los sujetos obligados; así como la validación y registro de los instrumentos de control archivístico de los sujetos obligados pertenecientes a la Administración Pública Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 120.
 
-La persona titular de la Subdirección de Capacitación y Asesoría Archivística tendrá las siguientes atribuciones:
+La persona titular de la Subdirección de Capacitación, Certificación y Asesoría Archivística tendrá las siguientes atribuciones:
 
 I. Implementar las acciones que permitan ejecutar el programa anual de capacitación en materia de gestión documental y administración de archivos;
 
-II. Implementar las acciones que permitan asesorar y capacitar a los sujetos obligados por la Ley General, en materia de gestión documental y administración de archivos de trámite, concentración e histórico;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II. Implementar las acciones que permitan asesorar y capacitar a los sujetos obligados por la Ley General, en materia archivística;
 
 III. Implementar las acciones que permitan capacitar a las personas servidoras públicas del Archivo General, en materia de gestión documental y administración de archivos;
 
 IV. Emitir los contenidos, temarios y materiales didácticos que se utilizarán en las capacitaciones que prestará el Archivo General;
 
 V. Implementar las acciones que permitan la participación del Archivo General ante las instancias y procesos de certificación de competencias laborales con estándares en procesos archivísticos;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V Bis. Validar los instrumentos de control archivísticos de los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V Ter. Implementar las acciones que permitan el registro y validación de los instrumentos de control archivísticos de los sujetos obligados por la Ley General, correspondientes a la Administración Pública Federal;
 
 VI. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de su Área administrativa;
 
@@ -1826,6 +2110,10 @@ Para la atención de los asuntos que deriven de sus atribuciones, la Subdirecci�
 I. El Departamento de Capacitación Archivística; y
 
 II. El Departamento de Asesoría y Certificación.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+III. Departamento de Procesos y Desarrollo de Contenidos Archivísticos.
 
 Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección de Capacitación y Asesoría Archivística.
 
@@ -1915,7 +2203,9 @@ XI. Establecer los mecanismos que permitan a sus Áreas administrativas traslada
 
 XII. Establecer los mecanismos que permitan resguardar el acervo bibliohemerográfico, para lo cual podrá solicitar el acompañamiento y servicios de la Dirección de Preservación del Patrimonio Documental;
 
-XIII. Establecer los mecanismos que permitan a sus Áreas administrativas identificar los documentos históricos vulnerables por su estado de conservación, faltantes o extraviados, incluidos los bibliohemerográficos; para avisar a la Dirección de Preservación del Patrimonio Documental y a la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XIII. Establecer los mecanismos que permitan a sus Áreas administrativas identificar los documentos históricos vulnerables por su estado de conservación, faltantes o extraviados, incluidos los bibliohemerográficos; para avisar a la Dirección de Preservación del Patrimonio Documental y a la Dirección de Asuntos Jurídicos;
 
 XIV. Establecer los mecanismos que permitan la incorporación, registro, catalogación, protección y clasificación de los documentos bibliohemerográficos que resguarda el Archivo General;
 
@@ -2083,7 +2373,9 @@ III. Implementar las acciones que permitan trasladar, y posteriormente, devolver
 
 IV. Implementar las acciones que permitan colaborar con instituciones que requieren por medio de proyectos especiales acceso al Patrimonio Documental en resguardo del Archivo General;
 
-V. Implementar las acciones que permitan identificar los documentos históricos vulnerables por su estado de conservación o extraviados, incluidos los bibliohemerográficos; para avisar según el caso a la Dirección de Preservación del Patrimonio Documental o a la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+V. Implementar las acciones que permitan identificar los documentos históricos vulnerables por su estado de conservación o extraviados, incluidos los bibliohemerográficos; para avisar según el caso a la Dirección de Preservación del Patrimonio Documental o a la Dirección de Asuntos Jurídicos;
 
 VI. Llevar a cabo las acciones que permitan la implementación y actualización de instrumentos de consulta en sistemas automatizados para generar un mayor acceso al acervo histórico y bibliohemerográfico;
 
@@ -2121,9 +2413,11 @@ Las personas titulares de los departamentos referidos y sus colaboradoras y cola
 
 #### Sección primera. De la Dirección de Asuntos Jurídicos y Archivísticos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 136.
 
-La Dirección de Asuntos Jurídicos y Archivísticos tendrá la función de representar a la entidad ante cualquier instancia para defender sus intereses, así como la de dirigir las asesorías jurídicas que requieran las Unidades administrativas y contará con las siguientes Áreas administrativas:
+La Dirección de Asuntos Jurídicos es la unidad de apoyo jurídico del Archivo General y tendrá la función de representar a la entidad ante cualquier instancia para defender sus intereses, así como de dirigir las asesorías jurídicas que requieran las Unidades administrativas y contará con las siguientes Áreas administrativas:
 
 I. La Subdirección de Dictaminación Normativa;
 
@@ -2131,15 +2425,17 @@ II. La Subdirección de Contratos y Convenios;
 
 III. La Subdirección de lo Contencioso;
 
-IV. La Subdirección para la Gestión y Operación del Consejo Nacional de Archivos;
+IV. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-V. La Subdirección para la Protección y Restitución del Patrimonio Documental; y
+V. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
 VI. El Departamento de Procedimientos de Transparencia, Acceso a la Información y Datos Personales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 137.
 
-La persona titular de la Dirección de Asuntos Jurídicos y Archivísticos tendrá las siguientes atribuciones:
+La persona titular de la Dirección de Asuntos Jurídicos tendrá las siguientes atribuciones:
 
 I. Representar al Archivo General ante toda instancia gubernamental o política, así como ante cualquier autoridad administrativa, judicial o jurisdiccional, para defender sus intereses o intervenir en cualquier asunto en el que tenga injerencia, con todos los derechos y prerrogativas que las leyes reconozcan a las personas físicas y morales;
 
@@ -2185,31 +2481,19 @@ XXI. Tramitar los medios de impugnación administrativos que le corresponda cono
 
 XXII. Establecer los mecanismos que permitan el seguimiento, adecuación y evaluación de las acciones legales que haya emprendido la Subdirección de lo Contencioso;
 
-XXIII. Fungir como la persona titular de la Secretaría Técnica del Consejo Nacional;
+XXIII. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-XXIV. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades de la Secretaría Técnica del Consejo Nacional;
+XXIV. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
 XXV. Fungir como la persona titular de la Prosecretaría del Órgano de Gobierno del Archivo General;
 
 XXVI. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades de la Prosecretaría del Órgano de Gobierno del Archivo General;
 
-XXVII. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades encaminadas a prevenir y combatir el tráfico ilícito del patrimonio documental, así como a recuperar el sustraído de la entidad;
+XXVII. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-XXVIII. Emitir los siguientes actos administrativos, según los dictámenes de viabilidad que requiera de las Unidades y Áreas administrativas especializadas de la Entidad o, incluso, de especialistas externos; así como la normativa que para tal efecto apruebe:
+XXVIII. (DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
-a. Declaratoria de patrimonio documental de la nación;
-
-b. Declaratoria de documentos o archivos privados de interés público;
-
-c. Ejercicio del derecho preferente de adquisición de patrimonio documental;
-
-d. Autorización de salida patrimonio documental;
-
-e. Expropiación de patrimonio documental; y
-
-f. Recuperación de la posesión del patrimonio documental de la nación;
-
-XXIX. Fungir como la persona coordinadora de los trabajos que realice el Consejo Especializado en Valoración de Patrimonio Documental, a que se refiere el artículo 92, tercer párrafo, de la Ley General;
+XXIX. D(DEROGADA, D.O.F. 9 DE JULIO DE 2025)
 
 XXX. Exhortar a cualquier instancia pública o privada para que se abstenga de realizar cualquier tipo de acto que pudiera poner en riesgo al patrimonio documental;
 
@@ -2217,25 +2501,35 @@ XXXI. Fungir como la persona titular de la Unidad de Transparencia del Archivo G
 
 XXXII. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades de la Unidad de Transparencia del Archivo General;
 
-XXXIII. Emitir la normativa interna que permita el correcto funcionamiento y operación de la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-XXXIV. Definir las prioridades y criterios a seguir en la Dirección de Asuntos Jurídicos y Archivísticos, para garantizar su correcto funcionamiento, así como el de sus Áreas administrativas;
+XXXIII. Emitir la normativa interna que permita el correcto funcionamiento y operación de la Dirección de Asuntos Jurídicos;
 
-XXXV. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de la Dirección de Asuntos Jurídicos y Archivísticos; y
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXXIV. Definir las prioridades y criterios a seguir en la Dirección de Asuntos Jurídicos, para garantizar su correcto funcionamiento, así como el de sus Áreas administrativas;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XXXV. Implementar las acciones, mecanismos o controles internos que garanticen el correcto funcionamiento de la Dirección de Asuntos Jurídicos; y
 
 XXXVI. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección General.
 
 #### Sección segunda. De la Subdirección de Dictaminación Normativa
 
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2025)</small>
+
 ###### Artículo 138.
 
-La Subdirección de Dictaminación Normativa tendrá la función de gestionar el acompañamiento normativo que requieran las demás unidades administrativas de la entidad; así como las medidas de control interno en la Dirección de Asuntos Jurídicos y Archivísticos.
+La Subdirección de Dictaminación Normativa tendrá la función de gestionar el acompañamiento normativo que requieran las demás unidades administrativas de la entidad; así como las medidas de control interno en la Dirección de Asuntos Jurídicos.
 
 ###### Artículo 139.
 
 La persona titular de la Subdirección de Dictaminación Normativa tendrá las siguientes atribuciones:
 
-I. Acompañar a la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos durante la elaboración y formalización de los instrumentos normativos que pretenda emitir;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+I. Acompañar a la persona titular de la Dirección de Asuntos Jurídicos durante la elaboración y formalización de los instrumentos normativos que pretenda emitir;
 
 II. Implementar las acciones que permitan el correcto funcionamiento y operación de la Prosecretaría del Órgano de Gobierno del Archivo General;
 
@@ -2251,19 +2545,31 @@ VII. Implementar las acciones que permitan la publicación de los instrumentos n
 
 VIII. Fungir como enlace auxiliar ante el Sistema de Compilación y Consulta del Orden Jurídico Nacional, así como establecer el mecanismo que permita la conducción, seguimiento y evaluación de las actividades que desempeñe;
 
-IX. Fungir como la persona responsable del archivo de trámite de la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-X. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades del archivo de trámite de la Dirección de Asuntos Jurídicos y Archivísticos, previo visto bueno de la persona titular de esa Unidad administrativa;
+IX. Fungir como la persona responsable del archivo de trámite de la Dirección de Asuntos Jurídicos;
 
-XI. Implementar las acciones que permitan el registro, control, seguimiento, atención y evaluación de los asuntos que deba atender y despachar la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+X. Establecer los mecanismos que permitan la conducción, seguimiento y evaluación de las actividades del archivo de trámite de la Dirección de Asuntos Jurídicos, previo visto bueno de la persona titular de esa Unidad administrativa;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XI. Implementar las acciones que permitan el registro, control, seguimiento, atención y evaluación de los asuntos que deba atender y despachar la Dirección de Asuntos Jurídicos;
 
 XII. Fungir como la persona asesora del Comité de Ética del Archivo General;
 
-XIII. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-XIV. Acordar con la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia; y
+XIII. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos;
 
-XV. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XIV. Acordar con la persona titular de la Dirección de Asuntos Jurídicos el despacho de los asuntos de su competencia; y
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XV. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos.
 
 ###### Artículo 140.
 
@@ -2289,6 +2595,10 @@ I. Implementar las acciones que permitan que las Unidades administrativas sean a
 
 II. Implementar las acciones que permitan a las Unidades administrativas, cuando así lo soliciten, recibir un acompañamiento legal durante las negociaciones que puedan derivar en la formalización de un instrumento consensual;
 
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+II Bis. Asesorar y acompañar jurídicamente a las Unidades administrativas del Archivo General en las materias de derechos de autor y propiedad industrial, cuando se relacionen con el acervo histórico;
+
 III. Emitir los dictámenes de viabilidad jurídica sobre los instrumentos consensuales, cuando así se lo solicite alguna Unidad administrativa;
 
 IV. Establecer los mecanismos que permitan a sus Áreas administrativas emitir los dictámenes de viabilidad jurídica sobre los instrumentos consensuales, cuando la carga de trabajo lo requiera;
@@ -2297,11 +2607,17 @@ V. Establecer los mecanismos que permitan a sus Áreas administrativas participa
 
 VI. Implementar las acciones que permitan el registro de los instrumentos consensuales que hayan sido dictaminados por su Área administrativa, de tal forma que se le pueda dar seguimiento a los compromisos allí previstos;
 
-VII. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-VIII. Acordar con la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia; y
+VII. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos;
 
-IX. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+VIII. Acordar con la persona titular de la Dirección de Asuntos Jurídicos el despacho de los asuntos de su competencia; y
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+IX. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos.
 
 ###### Artículo 143.
 
@@ -2327,6 +2643,10 @@ La persona titular de la Subdirección de lo Contencioso tendrá las siguientes 
 
 I. Representar al Archivo General ante cualquier autoridad o instancia administrativa, judicial o jurisdiccional, para defender sus intereses o intervenir en cualquier asunto en el que tenga injerencia, con todos los derechos y prerrogativas que las leyes reconozcan a las personas físicas y morales;
 
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+I Bis. Determinar las estrategias y acciones contenciosas a implementarse para combatir el tráfico ilícito del patrimonio documental, y la recuperación del que haya sido sustraído de forma ilícita de la Entidad, ante cualquier autoridad o instancia, conforme a las propuestas y asesoría que reciba por parte de la Subdirección para la Protección y Restitución del Patrimonio Documental;
+
 II. Implementar las acciones legales que permitan la correcta defensa de los intereses del Archivo General ante cualquier autoridad o instancia administrativa, judicial o jurisdiccional;
 
 III. Establecer los mecanismos que le permitan identificar y prevenir riesgos contenciosos en la Entidad;
@@ -2347,15 +2667,25 @@ X. Participar como integrante en las Comisiones de Escalafón; Seguridad e Higie
 
 XI. Implementar las acciones que permitan la notificación de los actos administrativos o de administración de la entidad que, por su naturaleza, deba observarse aluna formalidad específica para garantizar su validez, según las instrucciones y mecanismos vigentes;
 
-XII. Implementar las acciones que permitan a la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos instruir las actas administrativas que requieran las Unidades administrativas para hacer constar los hechos relacionados con el ejercicio de sus funciones o aquellas que correspondan a la materia laboral;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-XIII. Implementar las acciones que permitan a la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos sustanciar los medios de impugnación administrativos que le corresponda conocer a la Dirección General, según la Ley Federal de Procedimiento Administrativo y los que estén previstos en la normativa interna del Archivo General;
+XII. Implementar las acciones que permitan a la persona titular de la Dirección de Asuntos Jurídicos instruir las actas administrativas que requieran las Unidades administrativas para hacer constar los hechos relacionados con el ejercicio de sus funciones o aquellas que correspondan a la materia laboral;
 
-XIV. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-XV. Acordar con la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia; y
+XIII. Implementar las acciones que permitan a la persona titular de la Dirección de Asuntos Jurídicos sustanciar los medios de impugnación administrativos que le corresponda conocer a la Dirección General, según la Ley Federal de Procedimiento Administrativo y los que estén previstos en la normativa interna del Archivo General;
 
-XVI. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XIV. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos;
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XV. Acordar con la persona titular de la Dirección de Asuntos Jurídicos el despacho de los asuntos de su competencia; y
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XVI. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos.
 
 ###### Artículo 146.
 
@@ -2364,6 +2694,10 @@ Para la atención de los asuntos que deriven de sus atribuciones, la Subdirecci�
 I. El Departamento de lo Contencioso; y
 
 II. El Departamento de Estrategias Laborales.
+
+> <small>(ADICIONADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+III. El Departamento para el Combate del Tráfico Ilícito de Patrimonio Documental.
 
 Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección de lo Contencioso.
 
@@ -2377,83 +2711,29 @@ Las Unidades y Áreas administrativas de la Entidad deberán entregar toda la in
 
 ###### Artículo 148.
 
-La Subdirección para la Gestión y Operación del Consejo Nacional de Archivos tendrá la función de gestionar el correcto funcionamiento del Consejo Nacional, así como el de sus comisiones y grupos de trabajo.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 149.
 
-La persona titular de la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos tendrá las siguientes atribuciones:
-
-I. Suplir a la persona titular de la Secretaría Técnica del Consejo Nacional;
-
-II. Implementar las acciones que permitan la planeación, organización, desahogo y seguimiento de las sesiones ordinarias y extraordinarias del Consejo Nacional, así como de sus comisiones y grupos de trabajo;
-
-III. Implementar las acciones que permitan un adecuado desempeño político y administrativo de la Secretaría Técnica con los integrantes del Consejo Nacional, así como con cualquier instancia pública o privada, nacional o internacional, con la que se relacione el consejo;
-
-IV. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos;
-
-V. Acordar con la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia; y
-
-VI. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 150.
 
-Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos contará con las colaboradoras y los colaboradores que para tal efecto le sean asignados por la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos; quienes deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 #### Sección sexta. De la Subdirección para la Protección y Restitución del Patrimonio Documental
 
 ###### Artículo 151.
 
-La Subdirección para la Protección y Restitución del Patrimonio Documental tendrá la función de gestionar las actividades que permitan prevenir y combatir el tráfico ilícito del patrimonio documental o respecto de la recuperación del que haya sido sustraído de forma ilícita del Archivo General.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 152.
 
-La persona titular de la Subdirección para la Protección y Restitución del Patrimonio Documental tendrá las siguientes atribuciones:
-
-I. Representar al Archivo General ante cualquier autoridad o instancia administrativa, judicial o jurisdiccional, para defender sus intereses o intervenir en cualquier asunto relacionado con la prevención o combate al tráfico ilícito del patrimonio documental, así como de la recuperación del que haya sido sustraído de forma ilícita de la Entidad;
-
-II. Implementar las acciones legales que permitan la correcta defensa de los intereses del Archivo General, en la materia de prevención y tráfico ilícito del patrimonio documental, así como de la recuperación del que haya sido sustraído de forma ilícita de la Entidad;
-
-III. Implementar las acciones que permitan la valoración inicial de Patrimonio Documental de la Nación que pretenda ser enajenado;
-
-IV. Asesorar y acompañar jurídicamente a las Unidades administrativas del Archivo General en las materias de derechos de autor y propiedad industrial, cuando se relacionen con el acervo histórico;
-
-V. Emitir e implementar las estrategias legales que permitan la defensa adecuada de los intereses del Archivo General, en la materia de prevención y tráfico ilícito del patrimonio documental, así como de la recuperación del que haya sido sustraído de forma ilícita de la Entidad, ante cualquier autoridad o instancia;
-
-VI. Implementar las acciones que permitan la presentación de las denuncias o querellas por hechos probablemente constitutivos de delitos o alguna falta administrativa en la materia de prevención y tráfico ilícito del patrimonio documental, así como de la recuperación del que haya sido sustraído de forma ilícita de la Entidad;
-
-VII. Implementar las acciones que permitan la promoción, posicionamiento y concientización social respecto de la prevención y combate al tráfico ilícito del patrimonio documental;
-
-VIII. Implementar las acciones que permitan al Archivo General participar ante las instancias nacionales e internacionales que promuevan la prevención y combate al tráfico ilícito del patrimonio documental;
-
-IX. Implementar las acciones que permitan sustanciar los procedimientos que deriven en los siguientes actos administrativos, según la normativa que para tal efecto emita la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos:
-
-a. Declaratoria de patrimonio documental de la nación;
-
-b. Declaratoria de documentos o archivos privados de interés público;
-
-c. Ejercicio del derecho preferente de adquisición de patrimonio documental;
-
-d. Autorización de salida del patrimonio documental;
-
-e. Expropiación de patrimonio documental; y
-
-f. Recuperación de la posesión del patrimonio documental de la nación;
-
-X. Imponer las multas a las infracciones administrativas previstas en la Ley General o cualquier otro instrumento normativo que no le competan al Tribunal Federal de Justicia Administrativa y que se relacionen con la materia de tráfico ilícito o protección del patrimonio documental; las cuales podrán ser revisadas por la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos, según lo dispuesto en la Ley Federal del Procedimiento Administrativo;
-
-XI. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos;
-
-XII. Acordar con la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia; y
-
-XIII. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 ###### Artículo 153.
 
-Para la atención de los asuntos que deriven de sus atribuciones, la Subdirección para la Protección y Restitución del Patrimonio Documental contará con la siguiente Área administrativa:
-
-I. El Departamento para el Combate del Tráfico Ilícito de Patrimonio Documental.
-
-Las personas titulares de los departamentos referidos y sus colaboradoras y colaboradores deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina la persona titular de la Subdirección para la Protección y Restitución del Patrimonio Documental.
+(DEROGADO, D.O.F. 9 DE JULIO DE 2025)
 
 #### Sección séptima. De la Unidad de Transparencia
 
@@ -2483,15 +2763,23 @@ VIII. Implementar las acciones que permitan la defensa de las resoluciones que e
 
 IX. Implementar las acciones que permitan el cumplimiento de las resoluciones que emita la autoridad competente en materia de transparencia, acceso a la información públicas (sic) y protección de datos personales;
 
-X. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
 
-XI. Acordar con la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos el despacho de los asuntos de su competencia; y
+X. Atender las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, emita o precise la persona titular de la Dirección de Asuntos Jurídicos;
 
-XII. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos.
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XI. Acordar con la persona titular de la Dirección de Asuntos Jurídicos el despacho de los asuntos de su competencia; y
+
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XII. Las demás que las disposiciones legales o reglamentarias le atribuyan en el ámbito de su competencia, así como aquellas que le confiera o instruya la persona titular de la Dirección de Asuntos Jurídicos.
+
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 156.
 
-Para la atención de los asuntos que deriven de sus atribuciones, el Departamento de Procedimientos de Transparencia, Acceso a la Información y Datos Personales contará con las colaboradoras y los colaboradores que para tal efecto le sean asignados por la persona titular de la Dirección de Asuntos Jurídicos y Archivísticos; quienes deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina.
+Para la atención de los asuntos que deriven de sus atribuciones, el Departamento de Procedimientos de Transparencia, Acceso a la Información y Datos Personales contará con las colaboradoras y los colaboradores que para tal efecto le sean asignados por la persona titular de la Dirección de Asuntos Jurídicos; quienes deberán ejecutar y cumplir con las asesorías, comisiones, criterios, designaciones, esquemas, estrategias, indicaciones, instrucciones, métodos, plazos, prioridades, proyectos, requerimientos y técnicas que, en su caso, defina.
 
 ### Capítulo VIII. De la Dirección de Administración y sus Áreas administrativas
 
@@ -2887,7 +3175,9 @@ XIII. Establecer los mecanismos que permitan a la Subdirección de Operaciones d
 
 XIV. Emitir los instrumentos normativos en materia de preservación o sostenibilidad digital, almacenamiento, administración y técnicas de reproducción de los recursos del Acervo histórico digital del Archivo General, para lo cual, podrá requerir la intervención de la Subdirección de Operaciones de Digitalización;
 
-XV. Establecer los mecanismos que permitan a la Subdirección de Operaciones de Digitalización identificar los documentos históricos vulnerables por su estado de conservación o extraviados, durante los procesos de digitalización; a efecto de informar a la Dirección de Preservación del Patrimonio Documental, a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental y a la Dirección de Asuntos Jurídicos y Archivísticos;
+> <small>(REFORMADA, D.O.F. 9 DE JULIO DE 2025)</small>
+
+XV. Establecer los mecanismos que permitan a la Subdirección de Operaciones de Digitalización identificar los documentos históricos vulnerables por su estado de conservación o extraviados, durante los procesos de digitalización; a efecto de informar a la Dirección de Preservación del Patrimonio Documental, a la Dirección de Gestión, Acceso y Difusión del Patrimonio Documental y a la Dirección de Asuntos Jurídicos;
 
 XVI. Establecer mecanismos en materia de preservación del Acervo histórico digital del Archivo General;
 
@@ -3054,3 +3344,31 @@ Cuarto. La persona titular de la Subdirección de Recursos Humanos deberá avisa
 Quinto. Con la entrada en vigor del presente acuerdo, el Archivo General de la Nación reconoce como propias todas las obligaciones y prerrogativas que deriven de los instrumentos consensuales suscritos por la Coordinación de Memoria Histórica y Cultural de México de la Oficina de la Presidencia de la República, en materia de derecho a la memoria nacional.
 
 El presente Acuerdo fue aprobado por el Órgano de Gobierno del Archivo General de la Nación, durante su Tercera Sesión Ordinaria de 2023, mediante el Acuerdo (R) OG-O-3-23-4.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DE LA NACIÓN]
+
+PRIMERO. El presente instrumento normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se instruye a la Dirección de Asuntos Jurídicos que gestione la publicación del presente instrumento en el Diario Oficial de la Federación.
+
+TERCERO. Una vez aprobado el presente instrumento por el Órgano de Gobierno del Archivo General de la Nación, se readscriben orgánicamente la Subdirección para la Protección y Restitución del Patrimonio Documental a la Dirección de Preservación del Patrimonio Documental; y la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos a la Dirección de Desarrollo Archivístico Nacional.
+
+CUARTO. Las personas titulares de la Dirección de Preservación del Patrimonio Documental y de la Dirección de Desarrollo Archivístico Nacional deberán dirigir y supervisar el correcto funcionamiento de la Subdirección para la Protección y Restitución del Patrimonio Documental y de la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos, respectivamente. Mientras entra en vigor el presente instrumento, dichas Unidades administrativas podrán solicitar asesoría a la Dirección de Asuntos Jurídicos para realizar lo anterior.
+
+QUINTO. Una vez que entre en vigor el presente instrumento, las personas titulares de la Dirección de Preservación del Patrimonio Documental y de la Dirección de Desarrollo Archivístico Nacional estarán facultadas para ejercer aquellas atribuciones que les confiere el presente instrumento que impliquen la emisión de actos de autoridad.
+
+SEXTO. Los expedientes que hayan producido la Subdirección para la Protección y Restitución del Patrimonio Documental y la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos en el ejercicio de sus atribuciones o que deriven del seguimiento de las actividades que les fueron encomendadas por su superior jerárquico y que obren en el archivo de trámite de la Dirección de Asuntos Jurídicos deberán ser reubicados dentro de los diez días hábiles siguientes a la entrada en vigor del presente instrumento al archivo de trámite de la Dirección de Preservación del Patrimonio Documental y de la Dirección de Desarrollo Archivístico Nacional, respectivamente, a fin de que continúen con su desahogo y ciclo vital.
+
+El proceso referido en el párrafo anterior deberá ser formalizado a través de la suscripción de un acta por parte de las personas responsables de los archivos de trámite de dichas unidades administrativas.
+
+SÉPTIMO. Con respecto a los expedientes que la Subdirección para la Gestión y Operación del Consejo Nacional de Archivos y la Subdirección para la Protección y Restitución del Patrimonio Documental hayan producido en el ejercicio de sus atribuciones o que deriven del seguimiento de las actividades que les fueron encomendadas por su superior jerárquico y que obren en el archivo de concentración de la Entidad; se entenderá que la unidad administrativa productora es la Dirección de Desarrollo Archivístico Nacional y la Dirección de Preservación del Patrimonio Documental respectivamente.
+
+OCTAVO. Se habilita a la Dirección de Asuntos Jurídicos para que continúen utilizando la cuenta de correo electrónico institucional daja@agn.gob.mx, por el tiempo que sea necesario para garantizar su actuación ante las instancias jurisdiccionales.
+
+NOVENO. A partir de la entrada en vigor del presente Acuerdo, todas las referencias que se hagan a la Dirección de Asuntos Jurídicos y Archivísticos, en cualquier acto u ordenamiento jurídico, deberán entenderse hechas a la Dirección de Asuntos Jurídicos.
+
+DÉCIMO. Con la entrada en vigor del presente instrumento, se reasigna para seguimiento y responsabilidad de la Dirección de Preservación del Patrimonio Documental el Acuerdo que aprueba las acciones a implementar en el AGN para conmemorar el 14 de noviembre, día internacional contra el tráfico ilícito de Bienes Culturales, emitido por el Director General del Archivo General de la Nación el 24 de noviembre de 2022.
