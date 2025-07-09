@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2025-04-09"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2959,9 +2959,11 @@ VII.- En general, investigar, vigilar y fomentar cualquier medida protectora de 
 
 ### CAPÍTULO I. DE LA ADOPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 360.
 
-DISPOSICIONES GENERALES. La adopción es la institución jurídica de protección a las niñas, niños, adolescentes e incapacitados, aún cuando sean mayores de edad, por lo que bajo vigilancia del Estado, el adoptado entra a formar parte de la familia o crea una con el adoptante, en calidad de hijo y deja de pertenecer a su familia consanguínea.
+DISPOSICIONES GENERALES. La adopción es la institución jurídica irrevocable de protección a las niñas, niños, adolescentes e incapacitados, aun cuando sean mayores de edad, por lo que, bajo vigilancia del Estado, el adoptado entra a formar parte de la familia o crea una con el adoptante, en calidad de hijo y deja de pertenecer a su familia consanguínea.
 
 La adopción siempre será benéfica para el adoptado, atendiendo al interés superior del mismo y el respeto de sus derechos fundamentales.
 
@@ -5853,9 +5855,11 @@ V.- Los que tengan sesenta años cumplidos; y
 
 VI.- Los que tengan a su cargo otro albaceazgo.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 790.
 
-IMPOSIBILIDAD DE DELEGAR O DE TRANSMITIR EL CARGO DE ALBACEA. El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos, pero no está obligado a obrar personalmente; puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+IMPOSIBILIDAD DE DELEGAR O DE TRANSMITIR EL CARGO DE ALBACEA. El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos, pero no está obligado a obrar personalmente; puede hacerlo, por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos. La designación de tales mandatarios en todo caso sólo podrá hacerse con posterioridad a que el albacea haya aceptado y protestado dicho cargo.
 
 ###### ARTÍCULO 791.
 
@@ -7246,3 +7250,23 @@ P.O. 9 DE ABRIL DE 2025.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 790 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Se remite el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMA EL ARTÍCULO 360 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Se remite el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto
