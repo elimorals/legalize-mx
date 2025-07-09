@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2025-07-02"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -241,9 +241,13 @@ XX. Promover y fomentar el desarrollo de la cultura por la paz y la no violencia
 
 XXI. Prevenir la comisión de delitos en materia de trata de personas; desalentar la demanda que propicia cualquier forma de explotación, así como advertir de los riesgos por el uso del internet y las redes sociales, en los términos de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JULIO DE 2025)</small>
 
-XXII. Promover la formación de personas especializadas en resolución de conflictos, negociación y mediación.
+XXII. Promover la formación de personas especializadas en resolución de conflictos, negociación y mediación, con el fin de consolidar dichas herramientas como las idóneas para la articulación de la cultura de la paz en los centros educativos y dependencias de administración educativa, privilegiando la resolución de conflictos entre autoridades educativas, así como entre quienes integran la comunidad escolar.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+A fin de alcanzar dichos objetivos, se deberá generar la coordinación entre las autoridades judiciales, educativas y la representación sindical a efecto de crear y establecer los mecanismos de formación de personas mediadoras dentro de los centros educativos del Estado de Chihuahua.
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
@@ -1671,6 +1675,10 @@ Se declaran de interés público la orientación profesional y la vocacional. La
 
 Las y los estudiantes de educación media superior en la modalidad terminal, están obligados a realizar servicio social, de conformidad con el reglamento correspondiente.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+El servicio social que realicen las y los estudiantes de nivel medio superior deberá estar enfocado en la sustentabilidad social y alternativamente al cuidado del medio ambiente, lo anterior, con énfasis en la reforestación de los municipios donde se encuentren los planteles educativos. La Autoridad Educativa Estatal, emitirá las adecuaciones a los reglamentos y los lineamientos correspondientes, estableciendo los criterios mínimos para el cumplimiento del servicio social, así como la coordinación con los municipios del Estado de Chihuahua.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 77.
@@ -3037,15 +3045,27 @@ III. Revocación de la autorización o retiro del reconocimiento de validez ofic
 
 #### SECCIÓN III. DEL PROCEDIMIENTO Y RECURSO ADMINISTRATIVO
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 170.
 
-Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
+La mediación en el ámbito educativo, será la instancia preferente a agotar en los centros especializados en medios alternos en la solución de conflictos que para el efecto se establezcan en las representaciones sindicales de las Secciones del Sindicato Nacional de Trabajadores de la Educación en el Estado de Chihuahua; en la Secretaría de Educación y Deporte; y en los Servicios Educativos del Estado de Chihuahua, a fin de facilitar el diálogo entre las partes involucradas, promoviendo soluciones pacíficas y consensuadas. La mediación será conducida por un tercero imparcial y capacitado, quien auxiliará a las partes a alcanzar un acuerdo mutuamente beneficioso para los intereses de ambas partes.
 
-La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JULIO DE 2025)</small>
 
-Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a las y los educandos, la gravedad de la infracción, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
+En todo caso y bajo toda circunstancia, existe prioridad y preeminencia en la aplicación de las normas derivadas de la Constitución Política de los Estados Unidos Mexicanos, de los Tratados Internacionales que de la misma se derivan, de la Constitución Política del Estado de Chihuahua, y de las Leyes General y Estatal de Educación. Ningún acuerdo, acta o convenio tendrá validez por delitos previstos por la legislación penal, por violaciones a los derechos humanos de niñas, niños o adolescentes, y personal involucrado en el proceso educativo, ni por omisión de las responsabilidades de las personas funcionarias públicas previstas en el Marco Local de Convivencia Escolar y Protocolo Único para la Prevención, Detección y Actuación en Casos de Violencia contra Niñas, Niños y Adolescentes de las Escuelas de Educación Básica del Estado de Chihuahua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE JULIO DE 2025)</small>
+
+Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, una vez agotada la instancia de mediación, lo hará del conocimiento de la persona presunta infractora para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE JULIO DE 2025)</small>
+
+La autoridad dictará resolución con base en los datos aportados por la persona presunta infractora y las demás constancias que obren en el expediente.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE JULIO DE 2025)</small>
+
+Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a las y los educandos, la gravedad de la infracción, las condiciones socioeconómicas de quien la comete, el carácter intencional o no de la misma y si se trata de reincidencia.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4722,3 +4742,23 @@ P.O. 2 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0219/2025 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 76, UN SEGUNDO PÁRRAFO, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Autoridad Educativa Estatal tendrá un año, a partir de la entrada en vigor del presente Decreto, para emitir el reglamento y los lineamientos correspondientes.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0222/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, en la medida financiera posible, una partida presupuestal suficiente para garantizar el costo de las capacitaciones que se impartirán al personal que asignen las autoridades educativas, representaciones sindicales y autoridades Judiciales, para los efectos previstos en el presente Decreto.
