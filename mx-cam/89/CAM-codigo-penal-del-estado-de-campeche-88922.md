@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-07-04"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2171,7 +2171,7 @@ Se impondrán de dos a cuatro años de prisión y multa de ciento sesenta a dosc
 
 ### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 184.
 
@@ -2323,41 +2323,33 @@ En todo caso de robo, la autoridad jurisdiccional competente podrá suspender al
 
 ###### Artículo 196.
 
-Comete el delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+Comete del (sic) delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
 
 Para los efectos de este capítulo:
 
-a) Una colonia de abejas es un conjunto de abejas que interactúan intercambiando alimentos y otras sustancias necesarias para su vida y llevando a cabo diferentes actividades.
+a) Se considerará semoviente a toda especie bovina, caballar, asnal, mular, ovina, caprina, porcina, así como todo aquel domesticado, bravo, de pezuña, ganado mayor o ganado menor; independientemente de la actividad típica del animal.
 
-b) Serán considerados instrumentos del delito de abigeato las cabalgaduras o vehículos y objetos que sirvan para su comisión y el transporte de animales o sus productos.
+b) Una colonia de abejas es un conjunto de abejas que interactúan intercambiando alimentos y otras sustancias necesarias para su vida y llevando a cabo diferentes actividades.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2017)</small>
+c) Serán considerados instrumentos del delito de abigeato las cabalgaduras o vehículos y objetos que sirvan para su comisión y el transporte de animales o sus productos.
 
-c) Este delito se sancionará de la forma siguiente:
-
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+d) Este delito se sancionará de la forma siguiente:
 
 I.- Con prisión de tres a cinco años y multa de trescientas a cuatrocientas unidades de medida y actualización diarias vigentes cuando se cometa en una cabeza de ganado o una colonia de abejas.
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
-
 II.- Con prisión de cinco a ocho años y multa de cuatrocientas a quinientas unidades de medida y actualización diarias vigentes cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas.
-
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 III.- Con prisión de ocho a once años y multa de quinientas a mil unidades de medida y actualización diarias vigentes cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
-
 En el supuesto de la fracción I el delito será perseguido por querella de parte.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 196 Bis.
 
-Se equiparará al abigeato la sustracción o el apoderamiento sin derecho y sin consentimiento de quien legalmente pueda disponer de aves, conejos o peces, de cuya crianza consista una actividad de producción pecuaria y se encuentren en las granjas destinadas a estos efectos.
+Se equiparará al abigeato la sustracción o el apoderamiento sin derecho y sin consentimiento de quien legalmente pueda disponer de aves, conejos o peces, de cuya crianza pueda o no consistir en una actividad de producción pecuaria y se encuentren en las granjas destinadas a estos efectos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 Este delito se sancionará de la forma siguiente:
 
@@ -2369,13 +2361,29 @@ III.- Con prisión de dos a cuatro años y multa de trescientos a cuatrocientos 
 
 IV.- Con prisión de cuatro a cinco años y multa de cuatrocientos a quinientos días de salario cuando se cometa en dos o más aves con altura mayor de un metro.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 En el supuesto de las fracciones I y III, el delito será perseguido por querella de parte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+###### Artículo 196 Bis-I.
+
+Se equiparará también al delito de abigeato y se sancionará con las mismas penas establecidas en el artículo 196, a quién incurra en alguna de las conductas siguientes:
+
+I. Al que altere, modifique, destruya, obstruya, cambie, transforme, mueva o manipule, de cualquier forma los vestigios, objetos, huellas, rastros, señales, fragmentos o instrumentos que se encuentren en el lugar en que se hubiere perpetrado el delito de abigeato, o que fueren resultado de la comisión del mismo;
+
+II. Al que, sin haber tenido participación en el delito de abigeato, oculte en interés propio, reciba en prenda, o adquiera, de cualquier modo, uno o más semovientes a sabiendas de su procedencia ilícita;
+
+III. Al que destace o sacrifique ganado sin el consentimiento de quien legalmente deba otorgarlo; y
+
+IV. Al que permita el sacrificio de ganado robado en rastros a sabiendas o sin cerciorarse de la legal procedencia del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 196 Ter.
 
-Con independencia de las penas que correspondan por la comisión de otros delitos, para los efectos de este capítulo las sanciones contenidas en los artículos 196 y 196 bis, se aumentarán en una mitad cuando:
+Con independencia de las penas que correspondan por la comisión de otros delitos, para los efectos de este Capítulo las sanciones contenidas en los artículos 196, 196 bis y 196 bis-I, se aumentarán en una mitad cuando:
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -2421,9 +2429,17 @@ j) Los animales sean destazados en el lugar de crianza y sustraídos en todo o e
 
 k) El o los responsables sean propietarios o posesionarios de los predios colindantes o contiguos, de los que sean sustraídos los animales;
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-l) Cuando para cometer el delito el sujeto activo utilice o se sirva de documentación falsa o alterada.
+l) Cuando para cometer el delito el sujeto activo utilice o se sirva de documentación falsa o alterada;
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+m) Cuando sea cometido por quien tenga una relación laboral o, la persona o personas que lo realicen tengan un parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario; y
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+n) Sea perpetrado por persona o personas que estén formalmente registradas como ganaderos en cualquier institución, unión, asociación o agrupación relacionada con la ganadería.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
 
@@ -2437,27 +2453,29 @@ Se impondrán las mismas sanciones que se señalan en el artículo anterior a lo
 
 Al servidor público que intervenga en la legalización de los documentos que acrediten la propiedad del semoviente o colonia de abejas, o al encargado del rastro o lugar destinado a este fin, si no toma las medidas indispensables para cerciorarse de la procedencia legítima del mismo, se le impondrán de veinticuatro a setenta y ocho jornadas de trabajo a favor de la comunidad y multa de cincuenta a ciento cincuenta Unidades Diarias de Medida y Actualización y destitución del empleo, cargo o comisión.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 199.
 
-Al que, con documentos, ampare animales a sabiendas de su origen ilícito, se le impondrán de uno a tres años de prisión y multa de cincuenta a doscientas Unidades Diarias de Medida y Actualización. Igual sanción se aplicará al que transporte productos o derivados robados de origen animal.
+Al que, con o sin documentos, ampare animales en pie o sacrificados a sabiendas de su origen ilícito, se le impondrán de uno a tres años de prisión y multa de cincuenta a doscientas Unidades de Medida y Actualización. Igual sanción se aplicará al que comercie, posea, suministre y transporte productos o derivados robados de origen animal.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 200.
 
-Al que lucre con pieles, carnes u otros derivados obtenidos del abigeato sin haber tomado las medidas necesarias para cerciorarse de su legal procedencia, se le impondrá multa de ciento cincuenta a trescientas Unidades Diarias de Medida y Actualización.
+Al que lucre, comercie, posea, transporte o suministre productos como pieles, carnes u otros derivados obtenidos del abigeato sin haber tomado las medidas necesarias para cerciorarse de su legal procedencia, se le impondrán las sanciones previstas en la fracción I del inciso d) del artículo 196.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 201.
 
-Al que altere o elimine las marcas o señales, marque, señale, contramarque o contraseñale semovientes o colonias o colmenas de abejas, subproductos o derivados de origen animal o productos o subproductos de origen apícola, sin el consentimiento de quien legalmente pueda otorgarlo, se le impondrán de dos a cuatro años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+Al que altere, modifique o elimine, fierros, marcas o señales, marque, señale, contramarque o contraseñale semovientes o colonias o colmenas de abejas, subproductos o derivados de origen animal o productos o subproductos de origen apícola, sin el consentimiento de quien legalmente pueda otorgarlo, con o sin ánimo de apropiación, se le impondrán de dos a cuatro años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 202.
 
-(DEROGADO, P.O. 26 DE DICIEMBRE DE 2014)
+Se le impondrán hasta dos terceras partes de las sanciones previstas en los artículos 196 y 196 bis, a quien fomente o preste ayuda o auxilio o colaboración o asesore a otro para la comisión de las conductas previstas en los artículos 196, 196 bis y 196 bis-I, con conocimiento previo de las circunstancias, sin perjuicio de los procedimientos que correspondan conforme a la legislación aplicable, y sin perjuicio de las sanciones que correspondan por la comisión de otros delitos.
 
 ###### Artículo 203.
 
@@ -5508,3 +5526,13 @@ P.O. 4 DE JULIO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 97 POR EL QUE “SE REFORMAN EL ARTÍCULO 196; EL PÁRRAFO PRIMERO DEL ARTÍCULO 196 BIS; EL PÁRRAFO PRIMERO Y EL INCISO L) DEL ARTÍCULO 196 TER; LOS ARTÍCULOS 199, 200, 201; SE ADICIONAN EL ARTÍCULO 196 BIS-I; LOS INCISOS M) Y N) AL ARTÍCULO 196 TER, Y SE REPONE CON NUEVO TEXTO EL ARTÍCULO 202, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor de presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
