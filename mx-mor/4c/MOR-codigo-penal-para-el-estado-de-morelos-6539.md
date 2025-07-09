@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2025-07-02"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1076,6 +1076,10 @@ Cuando se cometa delito de despojo, abuso de confianza, fraude o suplantación d
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 Cuando se cometa delito de violación, abuso sexual o robo, utilizando la administración sin consentimiento de la víctima ya sea de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad, se aumentarán hasta en una mitad las sanciones establecidas para esos delitos.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Las sanciones establecidas para los delitos de homicidio y homicidio en grado de tentativa se incrementarán hasta en una tercera parte cuando el hecho delictivo sea cometido utilizando como medio comisivo una motocicleta. Sin que la pena pueda rebasar la máxima establecida en el artículo 29 de este Código.
 
 ###### ARTICULO 59.
 
@@ -2877,7 +2881,9 @@ Para los mismos efectos, se entenderá que el sistema financiero se encuentra in
 
 ARTICULO 202 BIS.- Comete el delito de violencia familiar el miembro de la familia que realice un acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, emocional, sexual, patrimonial o económica, a cualquier miembro de la familia dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, por afinidad, por vínculo de matrimonio o concubinato y que tiene por efecto causar daño o sufrimiento.
 
-Al que cometa el delito de violencia familiar se le impondrá de dos a seis años de prisión, doscientos a quinientos días multa, perdida de los derechos que tenga con respecto al ofendido, inclusive los de carácter sucesorio, patria potestad o tutela, así como la obligación de recibir tratamiento psicológico específico para su rehabilitación.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Al que cometa el delito de violencia familiar se le impondrá de tres a siete años de prisión, doscientos a quinientos días multa, perdida de los derechos que tenga con respecto al ofendido, inclusive los de carácter sucesorio, patria potestad o tutela, así como la obligación de recibir tratamiento psicológico específico para su rehabilitación.
 
 Este delito se perseguirá de oficio.
 
@@ -6078,3 +6084,23 @@ PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Esta
 SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
 
 TERCERO. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS SESENTA POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 58 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS SESENTA Y UNO POR EL QUE SE REFORMA EL ARTÍCULO 202 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
