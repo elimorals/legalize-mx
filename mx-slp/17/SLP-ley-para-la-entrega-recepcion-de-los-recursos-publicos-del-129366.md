@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-entrega-recepcion-de-los-recursos-publicos-del-1293
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-21"
-last_updated: "2023-12-11"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ENTREGA-RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de junio de 2018.
 
@@ -101,7 +101,9 @@ V. Comisión de entrega: órgano responsable de planear, organizar, coordinar, s
 
 VI. Comisión de recepción: órgano responsable de recibir los recursos humanos, financieros, materiales y patrimoniales, así como la documentación, información y asuntos de su competencia para el desempeño de sus funciones;
 
-VII. Ejercicio constitucional: es el periodo que en términos de la Constitución Política del Estado Libre y Soberano de San Luis Potosí durarán en su cargo los servidores públicos de elección popular. Inicia con la toma de protesta del servidor público entrante y concluye con la entrega de poderes por los servidores públicos salientes a los servidores públicos entrantes;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
+
+VII. Ejercicio constitucional: es el periodo que en términos de la Constitución Política del Estado Libre y Soberano de San Luis durarán en su cargo las personas servidoras públicas electas popularmente o quienes accedan por virtud de nombramiento. Inicia con la toma de protesta de la persona servidora pública entrante y concluye con la entrega de poderes por las personas servidoras públicas salientes a las personas servidoras públicas entrantes;
 
 VIII. Entrega-recepción: es el acto legal, de interés público, cuyo cumplimiento es obligatorio en los términos de esta Ley, mediante el cual se hace entrega de la administración de las dependencias, organismos o entes obligados por parte de los servidores públicos salientes a los entrantes y la recepción que éstos efectúan aceptando las obligaciones y derechos que de ello se derivan. Y como acto administrativo, es por el cual los sujetos obligados salientes y entrantes, llevan a cabo formalmente, el proceso;
 
@@ -151,9 +153,11 @@ Las disposiciones de esta Ley deberán interpretarse conforme lo previsto en la 
 
 ### CAPÍTULO II. SUJETOS Y OBJETIVO DEL PROCESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 7°.
 
-Los servidores públicos sujetos a esta Ley son:
+Las personas servidoras públicas sujetas a esta Ley son:
 
 I. En el Poder Legislativo:
 
@@ -213,25 +217,43 @@ h) Jefes de unidad administrativa o su equivalente.
 
 III. En el Poder Judicial y Órganos Jurisdiccionales Autónomos:
 
-a) Magistrados del Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-b) Consejeros de la Judicatura del Poder Judicial del Estado.
+a) Personas Magistradas del Supremo Tribunal de Justicia.
 
-c) Jueces del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-d) Magistrados del Tribunal Electoral del Estado.
+b) Personas Magistradas del Tribunal de Disciplina y personas Consejeras del Órgano de Administración Judicial.
 
-e) Magistrados del Tribunal Estatal de Justicia Administrativa.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-f) Representantes integrantes del Tribunal Estatal de Conciliación y Arbitraje;
+c) Personas Juzgadoras del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+d) Personas Magistradas del Tribunal Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+e) Personas Magistradas del Tribunal Estatal de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+f) Personas Representantes integrantes del Tribunal Estatal de Conciliación y Arbitraje y la persona titular de éste.
 
 g) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2021)
 
-h) Titulares de las Unidades Administrativas, Coordinadores, Directores, Subdirectores, o su Equivalente.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-i) Titulares de sus órganos internos de control.
+h) Personas titulares de las unidades administrativas, así como personas Coordinadoras, Directoras, Subdirectoras, o su equivalente.
 
-j) Secretarios, Actuarios y Sub, Secretarios.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+i) Personas titulares de sus órganos internos de control.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+j) Personas Secretarias, Actuarias y Subsecretarias, así como aquellas que determine su normatividad interna.
 
 IV. En los municipios:
 
@@ -347,15 +369,29 @@ h) Un secretario técnico y enlaces designados, además de los equivalentes que 
 
 III. En el Poder Judicial y en los Órganos Jurisdiccionales autónomos:
 
-a) El Magistrado entrante.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-b) El Magistrado saliente.
+a) La persona Magistrada entrante.
 
-c) El Consejero saliente.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-d) El Consejero entrante o la persona que éste designe.
+b) La persona Magistrada saliente.
 
-e) El titular del área que conforme a su respectiva Ley Orgánica o reglamento interno corresponda llevar los fondos, bienes y valores públicos;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+c) La persona Consejera saliente.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+d) La persona Consejera entrante o la persona que ésta designe.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+e) La persona titular del área que conforme a su respectiva Ley Orgánica o reglamento interno corresponda llevar los fondos, bienes y valores públicos, y
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+f) La persona titular del órgano interno de control.
 
 IV. En los ayuntamientos:
 
@@ -391,9 +427,9 @@ II. El órgano interno de control del Congreso del Estado, respecto de los sujet
 
 III. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2023)
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
 
-IV. El órgano interno de control del Poder Judicial del Estado, respecto de los sujetos obligados señalados en el artículo 7°, fracción III, de esta Ley;
+IV. El órgano interno de control del Poder Judicial del Estado, respecto de los sujetos obligados señalados en el artículo 7° fracción III, incisos a) a c) y h) a j);
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -403,11 +439,21 @@ V. Los órganos internos de control de los órganos constitucionales autónomos,
 
 VI. Los órganos internos de control de las entidades y órganos públicos, respecto de los sujetos obligados señalados en el artículo 7°, fracciones II y V, de esta Ley;
 
-VII. Los órganos internos de control municipales y paramunicipales, organismos, la entrega-recepción individual respecto de los sujetos obligados señalados en el artículo 7, fracciones IV y V, y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+VII. Los órganos internos de control municipales y paramunicipales, organismos, la entrega-recepción individual respecto de los sujetos obligados señalados en el artículo 7, fracciones IV y V, y;
 
-VIII. El Instituto de Fiscalización Superior del Estado, respecto la entrega-recepción de fin e inicio de ejercicio del período constitucional, de los sujetos obligados señalados en el artículo 7 fracción IV, inciso a), así como respecto la entrega-recepción de los sujetos obligados señalados en el artículo 7 fracción V, incisos h), de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JULIO DE 2025)</small>
+
+VIII. El Instituto de Fiscalización Superior del Estado, respecto la entrega-recepción de fin e inicio de ejercicio del período constitucional, de las personas obligadas señaladas en el artículo 7° fracciones III, incisos a) a c) y IV, inciso a), así como respecto la entrega-recepción las personas obligadas señaladas en el artículo 7° fracción V, incisos h), de esta Ley.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Tratándose del proceso de entrega recepción de un ejercicio constitucional de las servidoras públicas del Poder Judicial, la intervención del Instituto de Fiscalización Superior del Estado se circunscribirá a las atribuciones y obligaciones señaladas en el artículo 12, fracciones I y II, de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+IX. El órgano interno de control del Instituto de Fiscalización Superior del Estado, respecto de las personas obligadas señaladas en el artículo 7º fracción I, inciso b), de esta Ley.
 
 ###### ARTÍCULO 12.
 
@@ -435,13 +481,19 @@ Ningún servidor público sujeto a la entrega- recepción individual a que se re
 
 En caso de que el servidor público presente renuncia, se notifique la baja o se lleve a cabo el cambio de cargo, empleo o comisión, el superior jerárquico deberá designar a quien ocupará el cargo, sea temporal o permanente o al servidor público ante quien deberá formularse la entrega recepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-Los servidores públicos sujetos a la entrega- recepción final que corresponda a un periodo constitucional no podrán deslindarse de las obligaciones del cargo sin cumplir el proceso de entrega-recepción.
+Las personas servidoras públicas sujetas a la entrega- recepción final que corresponda a un periodo constitucional no podrán deslindarse de las obligaciones del cargo sin cumplir el proceso de entrega-recepción.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 En caso de incumplir este precepto, se deslindarán por parte del Instituto de Fiscalización Superior del Estado las responsabilidades correspondientes y se promoverán las acciones para la imposición de las sanciones administrativas, sin perjuicio de las civiles y penales a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+El Instituto de Fiscalización Superior del Estado resolverá cualquier situación no prevista relacionada con la entrega-recepción final que corresponda a un periodo constitucional de las personas obligadas señaladas en el artículo 11 fracción VIII, de esta Ley.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
@@ -911,21 +963,141 @@ III. Fase de revisión y cotejo del paquete documental de entrega recepción por
 
 IV. Fase de aprobación del paquete de entrega-recepción por parte del Pleno de la Legislatura. Además de las disposiciones previstas en esta Ley, el Poder Legislativo deberá observar lo dispuesto en la Ley Orgánica del Poder Legislativo y su Reglamento Interno.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 2025)</small>
+
 ### CAPÍTULO VI
 
-ENTREGA-RECEPCIÓN DEL PODER JUDICIAL, TRIBUNAL ELECTORAL, TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, ÓRGANOS JURISDICCIONALES AUTÓNOMOS, ORGANISMOS AUTÓNOMOS, PARAESTATALES Y PARAMUNICIPALES
+ENTREGA-RECEPCIÓN DEL TRIBUNAL ELECTORAL, TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA, ÓRGANOS JURISDICCIONALES AUTÓNOMOS, ORGANISMOS AUTÓNOMOS, PARAESTATALES Y PARAMUNICIPALES
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 51.
 
-El proceso de entrega-recepción del Poder Judicial, Órganos Jurisdiccionales Autónomos, de los organismos públicos autónomos, paraestatal y paramunicipales, se sujetarán adicionalmente a lo que proceda conforme al Capítulo IV denominado, integración de la información de entrega-recepción, y demás disposiciones de esta Ley, a lo dispuesto en sus leyes orgánicas y reglamentos respectivos.
+El proceso de entrega-recepción de los Órganos Jurisdiccionales Autónomos, de los organismos públicos autónomos, paraestatal y paramunicipales, se sujetarán adicionalmente a lo que proceda conforme al Capítulo IV denominado, integración de la información de entrega-recepción, y demás disposiciones de esta Ley, a lo dispuesto en sus leyes orgánicas y reglamentos respectivos.
 
-### CAPÍTULO VII. PROCESO DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+### CAPÍTULO VI BIS. ENTREGA-RECEPCIÓN INDIVIDUAL DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL
 
-### CAPÍTULO VIII. ACTO PROTOCOLARIO DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
 
-### CAPÍTULO IX. VERIFICACIÓN DE LA DOCUMENTACIÓN DEL ACTA ADMINISTRATIVA DE ENTREGA-RECEPCIÓN Y ANEXOS
+ARTÍCULO 51 BIS. El proceso de entrega-recepción individual de las personas servidoras públicas del Poder Judicial, señaladas en el artículo 7° fracción III, incisos a) a c) y h) a j), se sujetará, en lo que proceda, al Capítulo IV, denominado “integración de la información de entrega-recepción”, a las demás disposiciones de esta Ley, a su ley orgánica y a los reglamentos respectivos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2025)</small>
+
+### CAPÍTULO VI TER. PROCESO DE ENTREGA-RECEPCIÓN DEL EJERCICIO CONSTITUCIONAL DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 TER. El proceso de entrega-recepción de las personas Magistradas del Supremo Tribunal de Justicia, las personas Magistradas del Tribunal de Disciplina, las personas Consejeras del Órgano de Administración Judicial y las personas Juzgadoras del Poder Judicial del Estado, se desarrollará conforme al Capítulo IV denominado, "integración de la información de entrega-recepción", en cuanto sea aplicable, así como de conformidad con las disposiciones de esta Ley, la Ley Orgánica del Poder Judicial del Estado y su normatividad interna.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 QUÁTER. Se integrará una comisión de entrega por cada nivel según corresponda e intervendrán:
+
+I. La persona Magistrada del Supremo Tribunal de Justicia, saliente.
+
+II. La persona Magistrada del Tribunal de Disciplina, saliente.
+
+III. La Persona Consejera del Órgano de Administración Judicial, saliente.
+
+IV. La persona Juzgadora, saliente.
+
+V. Una persona representante del órgano interno de control.
+
+VI. Una persona servidora pública adscrita al órgano jurisdiccional o unidad administrativa que se entrega, quien fungirá como Secretaria Técnica.
+
+Las comisiones de entrega se integrarán a más tardar, el veinticinco de agosto del último año de ejercicio constitucional.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 QUINQUE (SIC). Se integrará una comisión de recepción por cada nivel según corresponda e intervendrán:
+
+I. La persona Magistrada del Supremo Tribunal de Justicia, entrante.
+
+II. La persona Magistrada del Tribunal de Disciplina, entrante.
+
+III. La Persona Consejera del Órgano de Administración Judicial, entrante.
+
+IV. La persona Juzgadora, entrante.
+
+V. Las personas facultadas mediante designación efectuada por la persona electa, de entre las cuales se nombrará a una para que ocupe la Secretaría Técnica.
+
+Las personas servidoras públicas electas para acreditar su personalidad deberán exhibir la constancia de mayoría expedida por el Consejo Estatal Electoral y de Participación Ciudadana del Estado de San Luis Potosí.
+
+Las comisiones de recepción se integrarán a más tardar el veinticinco de agosto del último año de ejercicio constitucional.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 SEXTIES. Una vez que las comisiones de entrega y recepción sean integradas, notificarán de inmediato al Instituto de Fiscalización Superior del Estado, y éste emitirá la declaratoria correspondiente de integración de las comisiones, de conformidad con los formatos emitidos por el propio Instituto de Fiscalización Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 SEPTIES. El Instituto de Fiscalización Superior del Estado, designará al personal necesario que dará seguimiento al avance del proceso de entrega-recepción, notificando de tal designación a las personas servidoras públicas electas salientes y entrantes.
+
+En caso de ser necesario a juicio de la persona titular del Instituto de Fiscalización Superior del Estado, las personas representantes de la entidad de fiscalización, podrán acudir en cualquier momento a las oficinas correspondientes del Poder Judicial para solicitar aclaraciones, información y documentación que consideren necesaria para que el proceso de entrega-recepción se ajuste a lo dispuesto en la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 OCTIES. Las personas servidoras públicas salientes en el ámbito de sus respectivas atribuciones, serán responsables de integrar oportunamente el expediente de entrega-recepción de acuerdo a la información que le corresponda a cada órgano jurisdiccional o unidad administrativa, el cual deberá contener, en cuanto resulte aplicable, la información que señala el capítulo IV, de la "integración de la información de entrega recepción" de la presente Ley.
+
+El expediente se emitirá en original y tres copias, debiendo permanecer el original en el órgano jurisdiccional o unidad administrativa, una copia en los archivos del órgano interno de control, la segunda copia será para el Instituto de Fiscalización Superior del Estado y la tercera copia para la persona servidora pública saliente.
+
+Las personas servidoras públicas saliente y entrante, así como el Instituto de Fiscalización Superior del Estado, deberán efectuar la verificación física preliminar del contenido del expediente de entrega-recepción.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 NONIES. El Instituto de Fiscalización Superior del Estado, podrá solicitar informes y canalizar denuncias que se presenten por parte de las personas servidoras públicas saliente y entrante, durante el proceso de entrega recepción o en el acto protocolario del mismo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2025)</small>
+
+### CAPÍTULO VI QUÁTER. ACTO PROTOCOLARIO DE ENTREGA-RECEPCIÓN DEL EJERCICIO CONSTITUCIONAL DEL PODER JUDICIAL
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 DECIES. En el acto protocolario de entrega-recepción del ejercicio constitucional del Poder Judicial, intervendrán las comisiones de entrega y recepción conformadas por las personas servidoras públicas salientes y entrantes, así como el Instituto de Fiscalización Superior del Estado.
+
+El acto protocolario de entrega-recepción del Poder Judicial, iniciará a más tardar el día quince de septiembre del año correspondiente a la conclusión del ejercicio constitucional.
+
+El acto protocolario podrá concluir el mismo día o el día natural inmediato posterior, antes del acto de toma de protesta.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 UNDECIES. El acto protocolario de entrega recepción podrá realizarse en lugar distinto a las oficinas del Poder Judicial, siempre y cuando exista plena justificación y previo acuerdo entre las comisiones de entrega y de recepción.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 DUODECIES. El corte del proceso de entrega-recepción se hará el día veinticinco de agosto del último año de ejercicio constitucional, por lo que, el periodo comprendido entre el veintiséis de agosto y el quince de septiembre del mismo año, en cada órgano jurisdiccional o unidad administrativa se elaborará un informe complementario el cual deberá reunir los mismos requisitos y formalidades previstos en esta Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 TERDECIES. El Instituto de Fiscalización Superior del Estado y el órgano interno de control, al momento de iniciar el acto protocolario de entrega-recepción, harán del conocimiento de las personas servidoras públicas entrantes y salientes, los derechos, obligaciones y responsabilidades señalados en la presente Ley y demás disposiciones que normen el marco de actuación del proceso de entrega-recepción.
+
+Una vez iniciado el acto de entrega-recepción no podrá suspenderse salvo por caso fortuito o de fuerza mayor, en ese caso, las comisiones de entrega y recepción deberán señalar fecha y hora para celebrarla en un plazo que no exceda de veinticuatro horas posteriores a su suspensión.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 QUATERDECIES. En cada órgano jurisdiccional o unidad administrativa se formulará un acta administrativa de entrega recepción y sus respectivos formatos anexos, mismos que no deberán contener borraduras, tachaduras o enmendaduras y se respaldarán en medios magnéticos.
+
+Dichos formatos deberán contener la información prevista en su normatividad interna, así como la señalada (sic) el capítulo IV, de la "integración de la información del proceso de entrega-recepción" de la presente Ley, en cuanto resulte aplicable. La información será actualizada y validada en los términos señalados en el artículo anterior.
+
+El acta, los formatos y sus anexos, serán firmados por quienes intervienen en el acto protocolario de entrega-recepción.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 QUINDECIES. Mediante la firma del acta administrativa de entrega recepción, los formatos y sus anexos se otorga la posesión de las oficinas, bienes, recursos y fondos a la persona servidora pública electa, quien conocerá del estado que guarda el órgano jurisdiccional o unidad administrativa, mediante el contenido del expediente de entrega-recepción y la verificación física final de los datos contenidos en los anexos del acta administrativa, que será realizada con posterioridad al acto protocolario por las personas servidoras públicas entrantes.
+
+La firma del acta de entrega-recepción por parte de las personas servidoras públicas entrantes, no implica la aceptación de irregularidades u omisiones que pudieran existir respecto de los datos e información contenidos en el expediente de entrega-recepción. Asimismo, no libera de responsabilidades administrativas, civiles o penales a que hubiera lugar, a las personas servidoras públicas salientes.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 SEXDECIES. En caso que la persona servidora pública saliente o la entrante se niegue a firmar el acta administrativa de entrega-recepción o la firme bajo protesta, se asentará en la misma, los hechos y razones de la negativa o en su caso de la protesta lo que en ninguno de los casos invalidará el acto protocolario de entrega-recepción.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 51 SEPTDECIES. La recepción del expediente de entrega recepción, se realizará con las reservas de ley, por lo que cualquier manifestación en contrario se tendrán por no interpuesta, por lo tanto, la suscripción de los documentos por parte de la comisión de recepción y del Instituto de Fiscalización Superior del Estado, no implica el aval del contenido de tal expediente.
+
+En el caso de requerirse aclaraciones, información, documentación o se presente cualquier irregularidad, se aplicará lo dispuesto en esta Ley.
 
 ###### ARTÍCULO 52.
 
@@ -951,7 +1123,9 @@ VIII. Relación de rentas y productos de todos los bienes municipales.
 
 Tratándose de entrega-recepción, derivada de cargos honoríficos, ya sea comités, patronatos o cualquier otro tipo de órgano que administre recursos públicos, intervendrán los sujetos obligados que correspondan y aquellos que considere la Contraloría General del Estado u órganos de control interno en el ámbito de su competencia.
 
-### CAPÍTULO X. SANCIONES
+### CAPÍTULO VII. PROCESO DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 54.
 
@@ -1011,6 +1185,8 @@ ARTÍCULO 60 BIS. Acorde a lo establecido por el artículo 81, fracción IX, de 
 
 En el supuesto de que el ayuntamiento saliente no entregue la información financiera respectiva, el ayuntamiento entrante dentro del mismo plazo lo hará del conocimiento del Congreso del Estado, del Instituto de Fiscalización Superior del Estado, y de la Contraloría Interna del ayuntamiento, para los efectos de la determinación de responsabilidades y sanciones.
 
+### CAPÍTULO VIII. ACTO PROTOCOLARIO DE ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
 ###### ARTÍCULO 61.
 
 En el acto protocolario de entrega-recepción de los ayuntamientos intervendrán las comisiones de entrega y recepción de los ayuntamientos saliente y entrante.
@@ -1057,6 +1233,8 @@ Los servidores públicos que al término de su ejercicio constitucional, sean ra
 
 La recepción del expediente de entrega recepción, se realizará con las reservas de ley, por lo que cualquier manifestación en contrario se tendrán (sic) por no interpuesta, por lo tanto, la suscripción de los documentos por parte de la comisión de recepción y del Instituto de Fiscalización Superior del Estado, no implica el aval del contenido de tal expediente. En los casos de requerirse aclaraciones, información, documentación o se presente cualquier irregularidad, se aplicará lo dispuesto en esta Ley.
 
+### CAPÍTULO IX. VERIFICACIÓN DE LA DOCUMENTACIÓN DEL ACTA ADMINISTRATIVA DE ENTREGA-RECEPCIÓN Y ANEXOS
+
 ###### ARTÍCULO 70.
 
 La verificación y validación física del contenido del acta administrativa de entrega-recepción y sus anexos a que se refiere el Capítulo IV denominado, integración de la información de entrega-recepción, deberán llevarse a cabo por el servidor público o administración pública entrante en un término no mayor de treinta días hábiles contados a partir del acto protocolario de entrega-recepción. Una vez transcurrido dicho plazo, se desprenderá un acta circunstanciada que señale los hechos u omisiones que derivaron de la entrega-recepción a cargo del servidor público entrante con el apoyo del órgano interno de control.
@@ -1090,6 +1268,8 @@ Si a pesar del requerimiento realizado, el servidor público saliente dejare de 
 ###### ARTÍCULO 74.
 
 En caso de muerte, incapacidad por enfermedad o ausencia injustificada por más de quince días hábiles del servidor público, el superior jerárquico lo notificará al órgano interno de control que corresponda, quien levantará acta circunstanciada ante su superior inmediato y dos testigos. Lo anterior, a efecto de hacer constar el estado en que se encuentra la dependencia, bienes, recursos y asuntos que le fueron conferidos para el desempeño de la función pública; e inmediatamente se procederá a realizar la entrega a la persona que sea nombrada titular definitivo o designada para recibir la entrega recepción, requiriéndose información al personal adscrito a esa área.
+
+### CAPÍTULO X. SANCIONES
 
 ###### ARTÍCULO 75.
 
@@ -1198,3 +1378,13 @@ P.O. 11 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0237.- QUE REFORMA Y ADICIONA LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, EN MATERIA DE REFORMA JUDICIAL”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Órgano de Administración Judicial, deberá realizar las adecuaciones a la normatividad interna referente al proceso de entrega-recepción del Poder Judicial del Estado de San Luis Potosí, a más tardar el 20 de agosto de 2025.
