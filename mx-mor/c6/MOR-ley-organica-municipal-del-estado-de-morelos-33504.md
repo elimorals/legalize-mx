@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2025-04-09"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -754,6 +754,10 @@ Los 36 municipios del estado de Morelos deberán de crear la Unidad de Derechos 
 ###### Artículo 24 Quinquies.
 
 Los ayuntamientos deberán crear una Dirección de Atención a la Diversidad Sexual, la que tendrá la obligación de implementar las políticas públicas para las poblaciones de la diversidad sexual en cada uno de los municipios, deberán ser encabezadas preferentemente, por personas de la diversidad sexual como una medida de inclusión en los ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Artículo 24 sexties.- En cada uno de los Municipios deberá de existir un área de planeación municipal con el nivel jerárquico que sea determinado por el propio Ayuntamiento, en terminos de lo establecido por la Ley de Planeación para el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -1605,15 +1609,23 @@ Los Ayuntamientos participan en el proceso de reforma a la Constitución Políti
 
 En el procedimiento al que habrán de sujetar los Ayuntamientos a los dictámenes aprobados por el Congreso del Estado que impliquen una adición o reforma a la Constitución Política del Estado de Morelos, se estará a lo siguiente:
 
-Una vez entregado al Ayuntamiento el dictamen aprobado por el Congreso del Estado en los términos de la fracción I del artículo 147 constitucional, deberá ser turnado a la comisión dictaminadora establecida por el número de integrantes del Cabildo que determine el Presidente Municipal en un plazo no mayor de cinco días hábiles;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-La comisión dictaminadora una vez que reciba del Presidente Municipal el dictamen de reforma constitucional, procederá a su análisis y discusión para que en un término no mayor a quince días hábiles someta en sesión de Cabildo a la consideración de sus integrantes el proyecto de acuerdo para su votación correspondiente;
+Una vez entregado al Ayuntamiento el dictamen aprobado por el Congreso del Estado en los términos de la fracción I del artículo 147 constitucional, deberá ser turnado a la comisión dictaminadora establecida por el número de integrantes del Cabildo que determine la persona titular de la presidencia municipal en un plazo no mayor de cinco días hábiles;
 
-De aprobarse el dictamen por las dos terceras partes del Cabildo, deberá remitirse de inmediato al Congreso del Estado en dos tantos acompañados del Acta de Cabildo de la Sesión en el que haya sido votado y en la que se circunstancien, el sentido de la votación de cada uno de los integrantes del Cabildo y el texto de la reforma constitucional en los mismos términos que el aprobado por el Congreso del Estado;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
 
-De no aprobarse el dictamen, el Ayuntamiento deberá remitirlo al Congreso del Estado en los mismos términos de la fracción anterior, manifestando las consideraciones que juzgue necesarias para sustentar su determinación; y
+La comisión dictaminadora una vez que reciba de la persona titular de la presidencia municipal el dictamen de reforma constitucional, procederá a su análisis y discusión para que en un término no mayor a quince días hábiles someta en sesión de Cabildo a la consideración de sus integrantes el proyecto de acuerdo para su votación correspondiente;
 
-En caso que los Ayuntamientos incurran en lo dispuesto por la fracción II del artículo 147 de la Constitución Política del Estado de Morelos, se tendrá por aprobada su determinación en la adición o reforma implícitas en el dictamen que les haya sido remitido por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+De aprobarse el dictamen por las dos terceras partes del Cabildo, deberá remitirse de inmediato al Congreso del Estado en dos tantos acompañados del Acta de Cabildo de la Sesión en el que haya sido votado y en la que se circunstancien, el sentido de la votación de cada uno de los integrantes del Cabildo y el texto de la reforma constitucional en los mismos términos que el aprobado por el Congreso del Estado; y
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+De no aprobarse el dictamen, el Ayuntamiento deberá remitirlo al Congreso del Estado en los mismos términos de la fracción anterior, manifestando las consideraciones que juzgue necesarias para sustentar su determinación.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
 
 ###### Artículo 61.
 
@@ -4724,3 +4736,27 @@ SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. La instalación de la ventanilla de atención incluyente, se realizará hasta en tanto se cuente con la suficiencia presupuestal por parte de cada uno de los 36 ayuntamientos.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y TRES.- POR EL QUE SE ADICIONA EL ARTÍCULO 24 SEXTIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. La implementación del área de planeación municipal, deberá realizarse preferentemente en caso de contar con la suficiencia presupuestal en el ejercicio fiscal dos mil veinticinco y en caso contrario a más tardar el primero de enero del año dos mil veintiséis.
+
+CUARTA. Los Ayuntamiento del Estado de Morelos, en un plazo no mayor a los 90 días naturales posteriores a la vigencia del presente decreto, deberá de actualizar su reglamento respectivo.
+
+QUINTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMA LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para los efectos dispuestos que indica el artículo 44, 47 y 70 la fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
