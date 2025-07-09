@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2023-07-01"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -164,6 +164,14 @@ V. Incorporación de la gestión integral del riesgo, como aspecto fundamental e
 VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en el Estado y municipios.
 
 VII. El conocimiento y la adaptación al cambio climático y, en general, a las consecuencias y efectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+VIII. Promoción, desde la niñez, de una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+IX. Desde la identificación de riesgos, implementación de acciones de prevención, mitigación, auxilio, hasta la recuperación, se dará prioridad a las mujeres en estado de gestación o lactancia, personas con discapacidad, personas mayores, niñas, niños y adolescentes y con neurodivergencias.
 
 ###### ARTÍCULO 7.
 
@@ -307,7 +315,9 @@ Son atribuciones del Consejo Estatal de Protección Civil:
 
 I. Implementar el Programa Estatal de Protección Civil y los programas especiales que de él se deriven.
 
-II. Fungir como órgano consultivo, de planeación, prevención y coordinación de acciones y decisorio del Sistema Estatal de Protección Civil, a fin de orientar las políticas y acciones de protección civil.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
+
+II. Fungir como órgano consultivo, de planeación, prevención y coordinación de acciones y decisorio del Sistema Estatal de Protección Civil, a fin de orientar las políticas y acciones de protección civil, las cuales habrán de integrarse con perspectiva de género, edad y discapacidad.
 
 III. Aprobar el Programa Estatal de Protección Civil y los programas especiales que de él se deriven y evaluar su cumplimiento por lo menos anualmente.
 
@@ -751,6 +761,20 @@ VI. Los mecanismos para su control y evaluación.
 
 En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población de una determinada localidad o región se podrán elaborar programas especiales de protección civil.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+ARTÍCULO 50 BIS. En el Programa Estatal de Protección Civil, se establecerán de manera transversal, estrategias y acciones que incluyan a las mujeres en estado de gestación o lactancia, personas con discapacidad, personas mayores, niñas, niños y adolescentes y con neurodivergencias y que por este hecho se puedan encontrar en mayor riesgo ante las situaciones de emergencia, desastre o disturbios que se presenten en el Estado. Para lo cual podrán crearse programas especiales.
+
+En estos programas, se deberá redimensionar la acción pública para que, en toda política donde se vean involucrados los derechos de niñas, niños y adolescentes, se atienda su interés superior, el cual exige medidas de protección reforzada; así mismo, en cuanto a los demás grupos en situación de vulnerabilidad, deberán contemplarse acciones para la eliminación de barreras, por lo que en el marco de su competencia y en coordinación con las autoridades competentes, se deberá considerar lo siguiente:
+
+I. La defensa, preservación y respeto a sus derechos.
+
+II. Asegurar el cumplimiento de las disposiciones tendientes a la Prevención y Condiciones de Seguridad en materia de Protección Civil en situación de emergencia o desastre para personas con discapacidad.
+
+III. Prever las mejores formas de comunicar los programas de una manera veraz, adecuada y comprensible a todos los grupos de la población, siendo accesible para niñas, niños y adolescentes, y en sistema braille, para el seguimiento de las acciones de las autoridades.
+
+IV. Crear estrategias seguras y adecuadas a las necesidades de las personas en situación de vulnerabilidad, para la etapa de recuperación. La normatividad referente a su seguridad en los centros a los que eventualmente acceden, tales como hospitales, centros educativos, escuelas, centros de recreación y muy especialmente en estancias infantiles, entre otros, deberá atender a las más altas exigencias que demanda la protección de la integridad física.
+
 ### CAPÍTULO XI. DEL PROGRAMA INTERNO DE PROTECCIÓN CIVIL
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
@@ -758,6 +782,10 @@ En el caso de que se identifiquen riesgos específicos que puedan afectar de man
 ###### ARTÍCULO 51.
 
 El Programa Interno de Protección Civil, es aquel instrumento de planeación y operación, implementado en un inmueble público o privado, con el fin de establecer acciones preventivas para mitigar los riesgos previamente identificados y estar en condiciones de atender cualquier tipo de emergencia o desastre, brindando el auxilio inmediato necesario para salvaguardar la integridad física de los ocupantes, de las propias instalaciones, e información vital. En su caso, deberá estar integrado por el Código Adam.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2025)</small>
+
+En la elaboración del Programa Interno de Protección Civil, de todos y cada uno de los establecimientos de los sectores público y privado de la Entidad, deberán incluir acciones para atender a las mujeres en estado de gestación o lactancia, personas con discapacidad, personas mayores, niñas, niños y adolescentes, y personas con neurodivergencias, en caso de emergencia o desastre, y que sea acorde con las características específicas de cada tipo de discapacidad, priorizando la eliminación de barreras físicas en las rutas de evacuación.
 
 ###### ARTÍCULO 52.
 
@@ -1151,7 +1179,9 @@ Como resultado del informe de inspecciones efectuadas, las autoridades estatal o
 
 Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
-En caso de riesgo inminente, las dependencias de la administración pública federal, estatal y municipal, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y el medio ambiente, para garantizar el normal funcionamiento de los servicios esenciales de la comunidad.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+En caso de riesgo inminente, las dependencias de la administración pública federal, estatal y municipal, ejecutarán las medidas de seguridad que les competan, a fin de proteger la vida de la población y sus bienes, la planta productiva y el medio ambiente, para garantizar el normal funcionamiento de los servicios esenciales de la comunidad. Dichas medidas, deberán incluir acciones para atender a las mujeres en estado de gestación o lactancia, personas con discapacidad, personas mayores, niñas, niños y adolescentes, acordes con las características específicas de cada tipo de discapacidad, priorizando la eliminación de barreras físicas en las rutas de evacuación.
 
 ###### ARTÍCULO 111.
 
@@ -1432,3 +1462,15 @@ P.O. 1 DE JULIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFLEY/0207/2025 II P.O. MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la efectiva implementación del presente Decreto, la Secretaría de Hacienda del Estado, de conformidad con las disposiciones legales vigentes y aplicables, con sujeción a la disponibilidad prevista en el Presupuesto de Egresos del Estado de Chihuahua, realizará las gestiones presupuestales necesarias.
