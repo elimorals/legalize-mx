@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-06-24"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -1213,9 +1213,15 @@ LXXX. Formular, coordinar, promover y ejecutar, por conducto de la Comisión de 
 
 LXXXI. Impulsar los instrumentos de Gobernanza para facilitar la socialización de los programas, proyectos y políticas públicas estatales y municipales, en materia ambiental, desarrollo urbano y movilidad;
 
-LXXXII. Suscribir convenios con Dependencias y Entes de la Administración Pública Federal, Estatal y Municipal; así como con organismos de la sociedad civil e iniciativa privada que procuren la realización de las atribuciones y asuntos descritos en esta sección; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
 
-LXXXIII. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+LXXXII. Suscribir convenios con Dependencias y Entes de la Administración Pública Federal, Estatal y Municipal; así como con organismos de la sociedad civil e iniciativa privada que procuren la realización de las atribuciones y asuntos descritos en esta sección;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+LXXXIII. Implementar y coordinar, en colaboración con los municipios y las autoridades competentes, el registro, seguimiento y vigilancia de las personas físicas o morales dedicadas a la compra, venta, acopio, reciclaje o comercialización de cobre, aluminio, hierro, fibra óptica u otros metales o materiales susceptibles de robo conforme a lo previsto en el Código Penal para el Estado de Tamaulipas, a fin de prevenir y disuadir su sustracción ilegal en perjuicio de los bienes públicos y privados, así como de la infraestructura urbana y rural; y
+
+LXXXIV. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XV. De la Secretaría de Obras Públicas
 
@@ -1848,6 +1854,14 @@ Las personas empleadoras tendrán 90 días a partir de la entrada en vigor del p
 P.O. 24 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-363 MEDIANTE EL CUAL SE REFORMA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
