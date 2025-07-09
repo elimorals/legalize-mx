@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2025-04-29"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -691,9 +691,17 @@ IX.- La regularización de la tenencia de la tierra;
 
 X.- La ejecución de las acciones de resiliencia;
 
-XI.- El establecimiento, protección, ampliación, recuperación, mantenimiento y defensa de los espacios públicos; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
 
-XII.- Las previstas en la Ley y demás normatividad aplicable en la materia.
+XI.- El establecimiento, protección, ampliación, recuperación, mantenimiento y defensa de los espacios públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2025)</small>
+
+XII.- La fundación, consolidación, conservación, mejoramiento y protección de aquellos que se dediquen a garantizar la seguridad alimentaria como: mercados, centrales de abasto y parques agroalimentarios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2025)</small>
+
+XIII.- Las previstas en la Ley y demás normatividad aplicable en la materia.
 
 ###### ARTÍCULO 11.
 
@@ -6279,7 +6287,9 @@ Las construcciones terminadas se autorizarán para constituirse bajo el régimen
 
 Tratándose de proyectos no edificados, que por sus características deban de constituirse en condominio deberán de obtener la autorización como tal por parte del Consejo Estatal o del Municipio de conformidad con el Código, previo a la autorización de construcción.
 
-Para el caso de mercados, centrales de abasto y parques agroalimentarios, se pondrá especial atención en que estos desarrollos cuenten con las características que permitan que su actividad se apegue a la normatividad establecida dependiendo del giro; priorizando a aquellos que se dediquen a garantizar la seguridad alimentaria de la población del Estado.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+Para el caso de mercados, centrales de abasto y parques agroalimentarios, se declaran de utilidad pública y se pondrá especial atención en que estos desarrollos cuenten con las características que permitan que su actividad se apegue a la normatividad establecida dependiendo del giro; priorizando a aquellos que se dediquen a garantizar la seguridad alimentaria de la población del Estado.
 
 ###### ARTÍCULO 460.
 
@@ -9463,9 +9473,17 @@ IX. Determinar la revocación de las concesiones en los supuestos establecidos e
 
 X. Establecer en los títulos de concesión las fórmulas para determinar las indemnizaciones, compensaciones o garantías que correspondan a los concesionarios y sus financiadores por las inversiones realizadas y no recuperadas, particularmente en caso de extinción anticipada de la concesión, sin perjuicio de las sanciones que, en su caso, resulten procedentes;
 
-XI. Autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
 
-XII. Dictar las demás medidas necesarias tendentes a proteger el interés público, pudiendo inclusive modificar las bases de la concesión, por razones debidamente fundadas, motivadas y previa garantía de audiencia al concesionario.
+XI. Autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2025)</small>
+
+XII. Autorizar la ampliación del objeto de los títulos de concesión para la construcción, operación, explotación, conservación y mantenimiento de caminos y puentes de jurisdicción estatal, para incluir dentro del mismo la construcción de carriles adicionales en la vía concesionada y la construcción de nuevos tramos carreteros que conecten directa o indirectamente con la vía concesionada, siempre y cuando la referida ampliación sea técnica y financieramente viable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 9 DE JULIO DE 2025)</small>
+
+XIII. Dictar las demás medidas necesarias tendentes a proteger el interés público, pudiendo inclusive modificar las bases de la concesión, por razones debidamente fundadas, motivadas y previa garantía de audiencia al concesionario.
 
 ###### ARTÍCULO 787.
 
@@ -9501,9 +9519,11 @@ VI. Si existe algún motivo fundado de interés público; o
 
 VII. Cuando a juicio de la autoridad no sea pertinente el otorgamiento de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 792.
 
-Las concesiones sobre carreteras, puentes y otros inmuebles, y obras de infraestructura, salvo excepciones previstas en otras leyes, podrán otorgarse por un plazo de hasta 30 años, el cual podrá ser prorrogado una o varias veces sin exceder otros 30 años adicionales, a juicio de la autoridad concedente, atendiendo tanto para su otorgamiento como para sus prórrogas, a lo siguiente:
+Las concesiones sobre carreteras, puentes y otros inmuebles, y obras de infraestructura, salvo excepciones previstas en otras leyes, podrán otorgarse por un plazo de hasta 30 años, el cual podrá ser prorrogado una o varias veces sin exceder otros 30 años adicionales, a juicio de la autoridad concedente, atendiendo tanto para su otorgamiento, prórrogas y/o ampliación del objeto del título de concesión, a lo siguiente:
 
 I. El monto de la inversión que el concesionario pretenda aplicar;
 
@@ -9515,9 +9535,17 @@ IV. La necesidad de la actividad o del servicio que se preste;
 
 V. El cumplimiento por parte del concesionario de las obligaciones a su cargo y de lo dispuesto por las leyes específicas mediante las cuales se otorgó la concesión;
 
-VI. El valor que al término del plazo de la concesión tengan las obras e instalaciones realizadas al inmueble por el concesionario; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
 
-VII. El monto de la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado.
+VI. El valor que al término del plazo de la concesión tengan las obras e instalaciones realizadas al inmueble por el concesionario;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2025)</small>
+
+VII. El monto de la reinversión que se haga para el mejoramiento de las instalaciones o del servicio prestado; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+VIII. La necesidad de llevar a cabo la ampliación de carreteras, caminos y puentes concesionados, mediante la construcción de carriles adicionales o de nuevos tramos carreteros que conecten directa o indirectamente con dichas carreteras, caminos y puentes, así como el beneficio social y económico que puede resultar de la ampliación.
 
 El titular de una concesión gozará de un término equivalente al 10 % del plazo de la concesión, previo al vencimiento del mismo, para solicitar la prórroga correspondiente. Al término del plazo de la concesión, o de la última prórroga en su caso, las obras e instalaciones adheridas de manera permanente al inmueble concesionado pasarán al dominio de la autoridad concedente.
 
@@ -10240,3 +10268,21 @@ P.O. 29 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 235.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 236.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Dentro de los primeros 60 días hábiles siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir las adecuaciones necesarias al Reglamento de la Fracción VII del Artículo 617 del Código Urbano del Estado de Aguascalientes, publicado el 07 de enero de 2008 en el Periódico Oficial del Estado de Aguascalientes, para establecer las disposiciones normativas necesarias a la regulación de las concesiones en materia de infraestructura vial, tales como carreteras, caminos, puentes y servicios relativos a su preservación, administración del uso y aprovechamiento del derecho de vía, zonas laterales, servicios conexos y auxiliares.
+
+En dichas modificaciones al Reglamento citado, se deberá considerar, además, el cambio de su nomenclatura, con la finalidad de adecuar a las disposiciones normativas vigentes.
+
+TERCERO. Quedan sin efecto aquellas disposiciones que contravengan al presente Decreto.
