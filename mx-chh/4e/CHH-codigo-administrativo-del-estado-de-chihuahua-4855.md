@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2024-12-04"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -565,7 +565,9 @@ El tercer lunes de marzo, en conmemoración del 21 de marzo,
 
 El tercer lunes de noviembre, en conmemoración del 20 de noviembre,
 
-1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal,
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+
+1o. de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal,
 
 25 de diciembre.
 
@@ -11218,3 +11220,11 @@ P.O. 4 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFCOD/0217/2025 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 93, NOVENO PÁRRAFO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
