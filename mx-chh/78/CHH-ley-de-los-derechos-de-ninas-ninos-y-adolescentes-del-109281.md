@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-07-05"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -348,6 +348,10 @@ XVII. Derecho a la intimidad.
 XVIII. Derecho al acceso a la justicia, a la seguridad jurídica y al debido proceso.
 
 XIX. Derecho de acceso a las tecnológicas de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha de internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2025)</small>
+
+XX. Derecho a la lactancia materna y al acceso a leche materna, en condiciones de igualdad.
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos sin discriminación de ningún tipo o condición.
 
@@ -3018,6 +3022,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 5 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0246/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0231/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
