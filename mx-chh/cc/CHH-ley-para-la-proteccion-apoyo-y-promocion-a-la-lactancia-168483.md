@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-proteccion-apoyo-y-promocion-a-la-lactancia-168483"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-15"
-last_updated: "2023-11-15"
+last_updated: "2025-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo del Número 91 del Periódico Oficial del Estado de Chihuahua, el miércoles 15 de noviembre de 2023.
 
@@ -231,7 +231,7 @@ c) Riesgos que representa para la salud del bebé, la alimentación incorrecta c
 
 XIII. Evitar que los materiales informativos y educativos, relativos a la alimentación de lactantes, contengan lo siguiente:
 
-a) Inhiban directa o indirectamente la práctica de la lactancia materna.
+a) (DEROGADO, P.O. 9 DE JULIO DE 2025)
 
 b) Sugieran el uso de sucedáneos.
 
@@ -420,3 +420,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los seis días del mes de octubre del año dos mil veintitrés.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SANTIAGO DE LA PEÑA GRAJEDA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVIII/RFLEY/0231/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA Y DE LA LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
