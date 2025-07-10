@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-05-26"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -415,17 +415,19 @@ La violencia docente es la acción u omisión por quien realice actividades de e
 
 También constituye violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, preferencia sexual, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 12.
 
-Son manifestaciones de la violencia laboral y docente; el hostigamiento, acoso sexual y discriminación, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto del patrón o docente independientemente del tipo penal consagrado en las leyes respectivas.
+Son manifestaciones de la violencia laboral y docente: el hostigamiento, el hostigamiento sexual, el acoso sexual y la discriminación.
+
+El hostigamiento es el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral o docente, que se expresa en conductas verbales, físicas o ambas.
+
+El hostigamiento sexual es el ejercicio del poder, expresado mediante la realización de conductas verbales, físicas o ambas, de connotación lasciva sobre las mujeres, a partir de la subordinación que se tiene respecto del patrón o docente, independientemente del tipo penal consagrado en las leyes respectivas.
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios actos.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2024)</small>
-
-La discriminación en este caso resulta de todo trato diferenciado, realizado en contra de una mujer solicitante de empleo o de una empleada, en razón de su maternidad, embarazo o lactancia.
+La discriminación en este caso resulta de todo trato diferenciado, realizado en contra de una mujer solicitante de empleo o de una empleada, o en el ámbito escolar, en razón de su maternidad, embarazo o lactancia.
 
 ###### ARTÍCULO 13.
 
@@ -1967,7 +1969,7 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 ### CAPÍTULO VI. DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Bis.
 
@@ -2484,3 +2486,9 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 235 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCLUSIÓN FINANCIERA DE LAS MUJERES VÍCTIMAS DE VIOLENCIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 271 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECONOCIMIENTO DEL HOSTIGAMIENTO COMO FORMA DE VIOLENCIA LABORAL Y DOCENTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
