@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2025-07-01"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -55,7 +55,9 @@ QUE CONTIENE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO T
 
 Esta Ley y sus disposiciones reglamentarias, así como los programas que integran el Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano y que expidan las autoridades competentes, son de orden público e interés social y tienen por objeto:
 
-I.- Establecer las normas conforme a las cuales el Estado y los Municipios, a través de las Autoridades competentes, ejercerán sus atribuciones en materia de planeación urbana, asentamientos humanos, desarrollo urbano y ordenamiento territorial para planear y regular la fundación, conservación, mejoramiento y crecimiento de los asentamientos humanos en la Entidad;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+I.- Establecer las normas conforme a las cuales el Estado y los Municipios, a través de las Autoridades competentes, ejercerán sus atribuciones en materia de planeación urbana, asentamientos humanos, desarrollo urbano y ordenamiento territorial para planear y regular la fundación, conservación, mejoramiento y crecimiento de los asentamientos humanos en la Entidad, cumpliendo con las obligaciones que tiene el Estado para promover, respetar, proteger y garantizar plenamente los derechos humanos;
 
 II.- Establecer las bases mediante las cuales se integrará el Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como los instrumentos de gestión y ejecución a través de la regulación, inducción, concertación y coordinación de los agentes públicos, sociales y privados en la materia;
 
@@ -63,13 +65,21 @@ II.- Establecer las bases mediante las cuales se integrará el Sistema Estatal d
 
 III.- Fijar las normas y procedimientos básicos para regular, controlar y vigilar las acciones urbanas y el ordenamiento territorial, en los términos de esta Ley, los programas del Sistema Estatal de Ordenamiento Territorial y Desarrollo Urbano y las demás disposiciones reglamentarias;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-IV.- Definir las bases conforme a las cuales se dará la participación ciudadana en el desarrollo urbano y el ordenamiento del territorio; y
+IV.- Definir las bases conforme a las cuales se dará la participación ciudadana en el desarrollo urbano y el ordenamiento del territorio;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-V.- Garantizar la protección y el acceso equitativo a los espacios públicos y la cercanía de la población con los bienes y servicios, así como a las fuentes de empleo que requieren para desempeñar sus actividades urbanas.
+V.- Garantizar la protección y el acceso equitativo a los espacios públicos y la cercanía de la población con los bienes y servicios, así como a las fuentes de empleo que requieren para desempeñar sus actividades urbanas;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+VI.- Propiciar mecanismos que permitan a la ciudadanía tener acceso a la información relacionada con los procesos de planeación y gestión del territorio, de manera transparente, completa y oportuna; así como participar activamente en la toma de decisiones relacionadas con el uso de suelo y el crecimiento de los asentamientos humanos, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+VII.- Promover espacios e instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en materia de desarrollo urbano y ordenamiento territorial.
 
 ###### ARTICULO 2.
 
@@ -2900,5 +2910,11 @@ P.O. 11 DE ABRIL DE 2025.
 P.O. 1 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE CIUDAD COMPACTA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 267 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 1 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO, EN MATERIA DE AMPLIACIÓN A LOS ALCANCES DEL OBJETO DE DICHA LEY".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
