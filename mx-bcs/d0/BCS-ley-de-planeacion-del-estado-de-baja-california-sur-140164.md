@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-140164"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-20"
-last_updated: "2021-12-15"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 20 de enero de 2020.
 
@@ -107,7 +107,9 @@ X. La elevación del nivel de vida de la población a través de un desarrollo e
 
 XI. La preservación de la seguridad, el orden público y la paz social, y
 
-XII. La orientación de las acciones de gobierno a la generación de resultados y valor público en favor de los habitantes del Estado de Baja California Sur. Para Tal efecto, la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas deberá expedir las disposiciones administrativas que garanticen que el proceso de planeación esté orientado de (sic) la generación de resultados y la obtención de valor público.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+XII. La orientación de las acciones de gobierno a la generación de resultados y valor público en favor de los habitantes del Estado de Baja California Sur. Para Tal efecto, la Jefatura de la Oficina del Ejecutivo deberá expedir las disposiciones administrativas que garanticen que el proceso de planeación esté orientado de (sic) la generación de resultados y la obtención de valor público.
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -125,7 +127,9 @@ IV. COG: Al Clasificador por Objeto del Gasto;
 
 V. COPLADEBCS: Al Comité de Planeación para el Desarrollo del Estado de Baja California Sur;
 
-VI. COPLADEM: A los Comités de Planeación para el Desarrollo Municipal;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+VI. COPLADEMUN: A los Comités de Planeación para el Desarrollo Municipal;
 
 VII. CONAC: Al Consejo Nacional de Armonización Contable;
 
@@ -147,7 +151,9 @@ XV. Indicador Estratégico: A los indicadores de desempeño que miden el grado d
 
 XVI. Indicador de Gestión: A los indicadores de desempeño que miden el avance, logro en proceso y actividades, es decir, sobre la forma en que los bienes y servicios públicos son generados y entregados;
 
-XVII. Ley: A la Ley de Planeación Democrática del Estado de Baja California Sur y sus Municipios;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+XVII. Ley: A la Ley de Planeación del Estado de Baja California Sur;
 
 XVIII. Metodología del Marco Lógico (MML): A la metodología para la elaboración de la Matriz de Indicadores para Resultados (MIR), mediante la cual se describe el Fin, Propósito, Componentes y Actividades, así como los indicadores, las metas, los medios de verificación y supuestos para cada uno de los diferentes ámbitos de acción o niveles de objetivos de los Programas presupuestarios;
 
@@ -157,7 +163,9 @@ XX. Meta: A la expresión concreta del cumplimiento esperado del objetivo genera
 
 XXI. Objetivos Estratégicos de los entes públicos: Al elemento de planeación estratégica del PbR que permite conectar y alinear los objetivos de los Programas presupuestarios con los objetivos y estrategias del PED y sus programas;
 
-XXII. OPEPPP: A la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+XXII. JOE: A la Jefatura de la oficina del Ejecutivo;
 
 XXIII. Plan Estatal de Desarrollo: Al Plan Estatal de Desarrollo del Estado de Baja California Sur;
 
@@ -217,7 +225,9 @@ El Poder Legislativo coadyuvará activamente en el proceso de planeación de con
 
 Los entes públicos conducirán y organizarán sus procesos de planeación de conformidad con lo establecido por las dependencias a las que estén sectorizadas.
 
-Los organismos autónomos organizarán y conducirán sus procesos de planeación de conformidad con las disposiciones que para tal efecto emitan, con arreglo a las disposiciones de la presente Ley y de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur, así como de las disposiciones generales que en materia de planeación emita la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas y la Secretaría.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
+
+Los organismos autónomos organizarán y conducirán sus procesos de planeación de conformidad con las disposiciones que para tal efecto emitan, con arreglo a las disposiciones de la presente Ley y de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur, así como de las disposiciones generales que en materia de planeación emita la Jefatura de la Oficina del Ejecutivo y la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -267,9 +277,9 @@ El Sistema Estatal de Planeación Democrática para el Desarrollo es un mecanism
 
 El Sistema Estatal considerará dentro del proceso de planeación, sus productos intermedios y finales, incluyendo los procedimientos técnicos y la estructura de la administración pública para realizar, promover y mejorar dicho proceso.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-Los sectores social y privado participarán en el Sistema Estatal por conducto del COPLADEBCS y de los COPLADEM.
+Los sectores social y privado participarán en el Sistema Estatal por conducto del COPLADEBCS y de los COPLADEMUN.
 
 A las Dependencias de la Administración Pública Estatal les corresponde elaborar Programas Sectoriales, tomando en cuenta las propuestas que presenten las Entidades del Sector y Grupos Sociales interesados.
 
@@ -287,9 +297,9 @@ I. Autoridades de dirección:
 
 a. El titular del Ejecutivo estatal;
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-b. El Titular de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas;
+b) El Titular de la Jefatura de la Oficina del Ejecutivo;
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -315,9 +325,9 @@ b. Los Comités de Planeación para el Desarrollo de los Municipios.
 
 III. (DEROGADA, B.O. 15 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas es la dependencia del Ejecutivo Estatal encargada de coordinar, dar seguimiento y evaluar las acciones relativas a la planeación democrática para el desarrollo.
+La Jefatura de la Oficina del Ejecutivo es la dependencia del Ejecutivo Estatal encargada de coordinar, dar seguimiento y evaluar las acciones relativas a la planeación democrática para el desarrollo.
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -365,7 +375,9 @@ IX. Exigir el cumplimiento de las disposiciones contenidas en la presente Ley.
 
 El Titular del Ejecutivo Estatal, coordinará el Sistema Estatal en los términos previstos por esta Ley y las demás disposiciones legales aplicables.
 
-A su vez establecerá el marco global de la planeación democrática para el desarrollo; fijará, a través de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, los lineamientos y directrices en la materia; e instruirá las estrategias y dirigirá las políticas públicas del Estado, sin perjuicio de las atribuciones que al caso correspondan a los gobiernos municipales en el ámbito de su competencia respectiva.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
+
+A su vez establecerá el marco global de la planeación democrática para el desarrollo; fijará, a través de la Jefatura de la Oficina del Ejecutivo, los lineamientos y directrices en la materia; e instruirá las estrategias y dirigirá las políticas públicas del Estado, sin perjuicio de las atribuciones que al caso correspondan a los gobiernos municipales en el ámbito de su competencia respectiva.
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -389,9 +401,9 @@ III. Los programas que deben ser elaborados y las acciones a realizar y contempl
 
 El Plan Estatal de Desarrollo deberá guardar congruencia con la Planeación Nacional del Desarrollo, y facilitar la coordinación con el Ejecutivo Federal.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas integrará el proyecto de Plan Estatal de Desarrollo con base en las previsiones establecidas en esta Ley y lo someterá al Titular del Ejecutivo Estatal para su aprobación.
+La Jefatura de la Oficina del Ejecutivo integrará el proyecto de Plan Estatal de Desarrollo con base en las previsiones establecidas en esta Ley y lo someterá al Titular del Ejecutivo Estatal para su aprobación.
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -435,9 +447,9 @@ El Titular del Ejecutivo Estatal convocará a los integrantes del poder legislat
 
 Los programas que deriven del Plan Estatal de Desarrollo serán formulados e instrumentados por la dependencia o entidad de la Administración Pública del Estado que sea competente para conocerlos en razón de la materia, tema o especialidad de que se trate, quien será la responsable de elaborar el proyecto de programa respectivo y de cumplir con sus objetivos y fines una vez que sea aprobado.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas coadyuvará en la observancia de lo previsto en el párrafo anterior y orientará en su cumplimiento. Para ello asesorará a la dependencia o entidad de la Administración Pública del Estado que resulte involucrada, revisará el proyecto del programa respectivo que se le hubiere turnado a fin de asegurar su congruencia con el Plan Estatal y lo remitirá al Titular del Ejecutivo Estatal para su aprobación.
+La Jefatura de la Oficina del Ejecutivo coadyuvará en la observancia de lo previsto en el párrafo anterior y orientará en su cumplimiento. Para ello asesorará a la dependencia o entidad de la Administración Pública del Estado que resulte involucrada, revisará el proyecto del programa respectivo que se le hubiere turnado a fin de asegurar su congruencia con el Plan Estatal y lo remitirá al Titular del Ejecutivo Estatal para su aprobación.
 
 Los programas una vez aprobados por el Gobernador deberán de publicarse en el Boletín Oficial.
 
@@ -445,13 +457,19 @@ El titular del Ejecutivo estatal, por conducto de la Secretaría, realizará una
 
 Las iniciativas de Ley de Ingresos y Proyecto de Presupuesto de Egresos del Estado se deberán elaborar conforme a lo establecido en la legislación local aplicable. De igual forma, deberán observar los requisitos previstos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; y deberán ser congruentes con el Plan Estatal y los programas derivados del mismo.
 
-Todo programa, proyecto, presupuesto o convenio que no sea congruente con el Plan Estatal o Municipal respectivo, podrá ser objeto de modificación o cancelación por parte del titular del Ejecutivo del Estado, a través de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-### CAPÍTULO TERCERO. DE LA OFICINA DE PLANEACIÓN, EVALUACIÓN Y PROMOCIÓN DE POLÍTICAS PÚBLICAS
+Todo programa, proyecto, presupuesto o convenio que no sea congruente con el Plan Estatal o Municipal respectivo, podrá ser objeto de modificación o cancelación por parte del titular del Ejecutivo del Estado, a través de la Jefatura de la Oficina del Ejecutivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2025)</small>
+
+### CAPÍTULO TERCERO. DE LA JEFATURA DE LA OFICINA DEL EJECUTIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 20.
 
-Las siguientes son atribuciones de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas en materia de planeación:
+Las siguientes son atribuciones de la Jefatura de la Oficina del Ejecutivo en materia de planeación:
 
 I. Promover y vigilar la correcta operación del Sistema Estatal de Planeación Democrática para el Desarrollo;
 
@@ -531,9 +549,9 @@ II. Fijar la metodología, criterios y lineamientos para la formulación del Pla
 
 III. Aprobar y evaluar el Plan Municipal de Desarrollo, así como los programas que de él deriven, incluyendo sus actualizaciones o modificaciones;
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-IV. Coordinar al COPLADEM;
+IV. Coordinar al COPLADEMUN;
 
 V. Dirigir e instrumentar el proceso anual de planeación, programación, presupuestación y ejercicio del gasto público del Municipio, en concordancia con los principios, objetivos, estrategias y prioridades del Plan Municipal de Desarrollo;
 
@@ -567,15 +585,15 @@ El Plan Municipal de Desarrollo es el documento rector del proceso de planeació
 
 El Plan Municipal de Desarrollo precisará el diagnostico sociopolítico, económico y ambiental del Municipio, fijará los objetivos, estrategias y prioridades del desarrollo municipal, establecerá los lineamientos de política pública, indicará los programas que deben ser elaborados y las acciones que deban ser realizadas y contemplará los demás elementos que se estimen necesarios para llevar a cabo la planeación del desarrollo del Municipio respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 25.
 
-La dependencia o entidad municipal competente en materia de planeación formulará el proyecto de Plan Municipal de Desarrollo con base en las previsiones establecidas en esta Ley. El proyecto respectivo será sometido a la autorización del Presidente Municipal, quien a su vez lo someterá a la consideración, opinión y validación del COPLADEM respectivo, quien lo autorizará mediante la sesión que celebre para esos efectos.
+La dependencia o entidad municipal competente en materia de planeación formulará el proyecto de Plan Municipal de Desarrollo con base en las previsiones establecidas en esta Ley. El proyecto respectivo será sometido a la autorización del Presidente Municipal, quien a su vez lo someterá a la consideración, opinión y validación del COPLADEMUN respectivo, quien lo autorizará mediante la sesión que celebre para esos efectos.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El proyecto autorizado por el COPLADEM será devuelto al Presidente Municipal para que éste incorpore las opiniones que en su caso se hubieren formulado o bien realice las adecuaciones que estime convenientes.
+El proyecto autorizado por el COPLADEMUN será devuelto al Presidente Municipal para que éste incorpore las opiniones que en su caso se hubieren formulado o bien realice las adecuaciones que estime convenientes.
 
 El Presidente Municipal turnará el proyecto de Plan Municipal a la comisión o comisiones del Cabildo que correspondan para efectos de la elaboración del dictamen respectivo, mismo que será sometido a la consideración del Ayuntamiento, quien aprobará el Plan Municipal, en definitiva.
 
@@ -593,9 +611,9 @@ La dependencia o entidad municipal competente en materia de planeación coadyuva
 
 El Presidente Municipal enviará el proyecto de programa respectivo a la comisión o comisiones del Cabildo que correspondan para efectos de la elaboración del dictamen respectivo, mismo que será sometido a la consideración del Ayuntamiento, quien lo aprobará, en definitiva.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El Presidente Municipal, previo a la aprobación de cualquier proyecto de programa por parte del Ayuntamiento, podrá someterlo a la opinión y validación del COPLADEM.
+El Presidente Municipal, previo a la aprobación de cualquier proyecto de programa por parte del Ayuntamiento, podrá someterlo a la opinión y validación del COPLADEMUN.
 
 Los programas una vez aprobados por el Ayuntamiento deberán de publicarse en el Boletín Oficial del Gobierno del Estado, excepto los Programas presupuestarios.
 
@@ -622,6 +640,10 @@ El COPLADEBCS estará integrado por:
 > <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
 I. El Titular del Ejecutivo Estatal, quien lo presidirá;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+II. El Titular de la Jefatura de la Oficina del Ejecutivo, quien tendrá el carácter de Coordinador General del COPLADEBCS;
 
 > <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -659,9 +681,9 @@ El Gobernador podrá invitar a participar en el seno del COPLADEBCS a cualquier 
 
 Los integrantes del COPLADEBCS tendrán derecho de participar con voz y voto. Por cada integrante del COPLADEBCS habrá un suplente.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-En caso de ausencia del titular del Ejecutivo estatal, éste será representado por el titular de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
+En caso de ausencia del titular del Ejecutivo estatal, éste será representado por el titular de la Jefatura de la Oficina del Ejecutivo.
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -725,23 +747,23 @@ XIII. Las demás que le atribuyan las leyes y reglamentos.
 
 ### CAPÍTULO SEXTO. DE LOS COMITÉS DE PLANEACIÓN PARA EL DESARROLLO DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 33.
 
-Los COPLADEM son los órganos de coordinación y colaboración entre gobierno y sociedad que tienen como propósito llevar a cabo la consulta y concertación de los sectores público, social y privado en materia de planeación democrática para el desarrollo en el ámbito municipal.
+Los COPLADEMUN son los órganos de coordinación y colaboración entre gobierno y sociedad que tienen como propósito llevar a cabo la consulta y concertación de los sectores público, social y privado en materia de planeación democrática para el desarrollo en el ámbito municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-Los COPLADEM estarán integrados por:
+Los COPLADEMUN estarán integrados por:
 
 I. El Presidente Municipal del Ayuntamiento respectivo, quien lo presidirá;
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-II. El titular de la dependencia o entidad municipal en materia de planeación, quien tendrá el carácter de Coordinador General del COPLADEM;
+II. El titular de la dependencia o entidad municipal en materia de planeación, quien tendrá el carácter de Coordinador General del COPLADEMUN;
 
 III. Los titulares de las dependencias y entidades de la Administración Pública Municipal que designe el Presidente Municipal;
 
@@ -759,39 +781,39 @@ VI. Un representante de las dependencias federales y
 
 VII. Los representantes de la sociedad civil organizada.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El Presidente Municipal podrá invitar a participar en el seno del COPLADEM a los representantes del sector público, social o privado que en razón de su competencia o conocimiento estime necesario para lograr los objetivos de los Planes Municipales de Desarrollo.
+El Presidente Municipal podrá invitar a participar en el seno del COPLADEMUN a los representantes del sector público, social o privado que en razón de su competencia o conocimiento estime necesario para lograr los objetivos del (sic) Planes Municipales de Desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 35.
 
-Los integrantes de los COPLADEM tendrán derecho de participar con voz y voto. Por cada integrante de los comités municipales habrá un suplente.
+Los integrantes de los COPLADEMUN tendrán derecho de participar con voz y voto. Por cada Integrante de los comités municipales habrá un suplente.
 
 En caso de ausencia del Presidente Municipal, éste será representado por el Titular de la dependencia o entidad municipal en materia de planeación.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El COPLADEM celebrará sesiones cuantas veces sea necesario, las que no podrán ser menos de una vez al año.
+El COPLADEMUN celebrará sesiones cuantas veces sea necesario, las que no podrán ser menos de una vez al año.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El COPLADEM sesionará con la mayoría de sus integrantes, siempre que esté presente el titular de la dependencia o entidad municipal en materia de planeación o su suplente, sus acuerdos se tomarán por mayoría de votos de los miembros presentes y se harán constar en acta. En caso de empate el Presidente Municipal o quien lo supla en su ausencia tendrá voto de calidad.
+El COPLADEMUN sesionará con la mayoría de sus integrantes, siempre que esté presente el titular de la dependencia o entidad municipal en materia de planeación o su suplente, sus acuerdos se tomarán por mayoría de votos de los miembros presentes y se harán constar en acta. En caso de empate el Presidente Municipal o quien lo supla en su ausencia tendrá voto de calidad.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El COPLADEM para el adecuado desempeño de su función contará con un Secretario Técnico que será designado por el Presidente Municipal, a propuesta del Titular de la dependencia o entidad municipal en materia de planeación. Al Secretario Técnico del COPLADEM le corresponderá convocar y organizar las sesiones del COPLADEM, levantar y autorizar con su firma las actas correspondientes, llevar el control de las mismas y verificar el cumplimiento de los acuerdos adoptados.
+El COPLADEMUN para el adecuado desempeño de su función contará con un Secretario Técnico que será designado por el Presidente Municipal, a propuesta del Titular de la dependencia o entidad municipal en materia de planeación. Al Secretario Técnico del COPLADEMUN le corresponderá convocar y organizar las sesiones del COPLADEMUN, levantar y autorizar con su firma las actas correspondientes, llevar el control de las mismas y verificar el cumplimiento de los acuerdos adoptados.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El funcionamiento y organización del COPLADEM se regulará además de lo dispuesto por esta Ley, en lo que establezca el Reglamento que al efecto expida el Ayuntamiento respectivo.
+El funcionamiento y organización del COPLADEMUN se regulará además de lo dispuesto por esta Ley, en lo que establezca el Reglamento que al efecto expida el Ayuntamiento respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 36.
 
-Son atribuciones de los COPLADEM las siguientes:
+Son atribuciones de los COPLADEMUN las siguientes:
 
 I. Llevar a cabo la consulta y concertación de los sectores público, social y privado en materia de planeación democrática para el desarrollo en el ámbito municipal;
 
@@ -817,9 +839,9 @@ VIII. Llevar el registro de los programas derivados de los Planes Municipales;
 
 IX. Verificar con el Gobierno del Estado, así como con los representantes de las dependencias y entidades de la Administración Pública Federal con actividad en el Estado, que los planes, programas y proyectos que se ejecuten en el Municipio, garanticen su efectividad y cumplimiento;
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-X. Garantizar la participación de la sociedad civil organizada en el seno del COPLADEM y en los distintos subcomités que lo compongan;
+X. Garantizar la participación de la sociedad civil organizada en el seno del COPLADEMUN y en los distintos subcomités que lo compongan;
 
 > <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -985,9 +1007,9 @@ IV. Determinar los instrumentos y responsables de la ejecución de estos program
 
 V. (DEROGADA, B.O. 15 DE DICIEMBRE DE 2021)
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas expedirá los lineamientos, términos de referencia y demás disposiciones administrativas para garantizar el cumplimiento.
+La Jefatura de la Oficina del Ejecutivo expedirá los lineamientos, términos de referencia y demás disposiciones administrativas para garantizar el cumplimiento.
 
 ###### ARTÍCULO 55.
 
@@ -1265,9 +1287,9 @@ CONTROL, EVALUACIÓN Y ACTUALIZACIÓN.
 
 Las etapas de control y evaluación del desempeño consistirán en el conjunto de actividades de verificación, medición, así como de detección y corrección de desviaciones o insuficiencias de carácter cualitativo y cuantitativo, tanto en la instrumentación como en la ejecución de los planes y los programas, centrándose en los correspondientes principios, objetivos, estrategias y prioridades.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El control y evaluación de la planeación democrática del desarrollo estará a cargo de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas y de la dependencia o entidad municipal competente en materia de planeación, en el ámbito de su respectiva competencia.
+El control y evaluación de la planeación democrática del desarrollo estará a cargo de la Jefatura de la Oficina del Ejecutivo y de la dependencia o entidad municipal competente en materia de planeación, en el ámbito de su respectiva competencia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -1313,15 +1335,15 @@ f. Matrices de indicadores para resultados; y
 
 g. Seguimiento a metas e indicadores establecidos en el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-Las metodologías y procedimientos de control, seguimiento y evaluación de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo y de los programas que de él se deriven, serán establecidas por la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
+Las metodologías y procedimientos de control, seguimiento y evaluación de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo y de los programas que de él se deriven, serán establecidas por la Jefatura de la Oficina del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 77.
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, y los ayuntamientos establecerán en el ámbito de su competencia los mecanismos, procedimientos, lineamientos y directrices necesarias para el adecuado control, seguimiento, revisión y evaluación del Plan Estatal, de los Planes Municipales y de los programas que de ellos deriven.
+la Jefatura de la Oficina del Ejecutivo y los ayuntamientos establecerán en el ámbito de su competencia los mecanismos, procedimientos, lineamientos y directrices necesarias para el adecuado control, seguimiento, revisión y evaluación del Plan Estatal, de los Planes Municipales y de los programas que de ellos deriven.
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -1329,9 +1351,9 @@ El Órgano de Control Interno del Poder Ejecutivo del Estado, así como los órg
 
 Las dependencias y entidades de la Administración Pública del Estado y los municipios elaborarán informes del proceso de planeación que les corresponda.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-El COPLADEBCS y los COPLADEM, previo acuerdo de sus integrantes, podrán solicitar cualquier información o dato que consideren deban conocer para cumplir con las funciones que esta Ley les asigna.
+El COPLADEBCS y los COPLADEMUN, previo acuerdo de sus integrantes, podrán solicitar cualquier información o dato que consideren deban conocer para cumplir con las funciones que esta Ley les asigna.
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -1341,19 +1363,19 @@ Los recursos asignados a los Planes y Programas serán materia de control del ga
 
 Para tal efecto la Secretaría y las Tesorerías Municipales emitirán los estados de origen y aplicación de recursos, los informes de gestión financiera y la cuenta pública que derive de la aplicación de dichos recursos se harán en los términos que regula la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur y la demás legislación local aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 79.
 
-El titular del Ejecutivo Estatal, a través de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas y la Secretaría, sin perjuicio de lo previsto por esta Ley, establecerá el Sistema de Evaluación del Desempeño para medir los avances de las dependencias y entidades que integran la Administración Pública del Estado en el logro de los principios, objetivos, estrategias, líneas de acción y prioridades del Plan Estatal y de los programas que deriven del mismo que se hayan comprometido a alcanzar.
+El titular del Ejecutivo Estatal, a través de la Jefatura del Ejecutivo y la Secretaría, sin perjuicio de lo previsto por esta Ley, establecerá el Sistema de Evaluación del Desempeño para medir los avances de las dependencias y entidades que integran la Administración Pública del Estado en el logro de los principios, objetivos, estrategias, líneas de acción y prioridades del Plan Estatal y de los programas que deriven del mismo que se hayan comprometido a alcanzar.
 
 Las Matrices de Indicadores para Resultados, como instrumentos de corto plazo, constituirán el vínculo entre el Plan y los programas de mediano plazo y especificarán el nombre del programa, su contribución a los fines del Plan Estatal, y a los planes sectoriales, los componentes que harán posible cumplir el propósito del programa, las actividades, así como los indicadores, supuestos de cada uno de ellos y los recursos asignados para el ejercicio respectivo.
 
 Los programas incluidos en las Matrices de Indicadores para Resultados deberán ser congruentes entre sí y regirán las actividades de la Administración Pública Estatal y Municipal en su conjunto, durante el año respectivo, y serán considerados para la integración de los anteproyectos de presupuestos anuales que, las propias dependencias y entidades de la Administración Pública Estatal y Municipal, deberán elaborar conforme a la legislación aplicable.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-La Secretaría en coordinación con la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, integrará los proyectos de las Matrices de Indicadores para Resultados de cada una de las dependencias y entidades de la Administración Pública del Estado.
+la Secretaría en coordinación con la Jefatura de la Oficina del Ejecutivo, integrará los proyectos de las Matrices de Indicadores para Resultados de cada una de las dependencias y entidades de la Administración Pública del Estado.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -1399,23 +1421,25 @@ El proceso de evaluación deberá realizarse de tal manera que valore la eficaci
 
 Los resultados que se obtengan de la evaluación deberán retroalimentar las metas y estrategias de los planes y programas de mediano plazo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 85.
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas y la dependencia o entidad municipal competente en materia de planeación, realizarán una evaluación anual del Plan Estatal y el Plan Municipal respectivo, de conformidad con su ámbito de competencia, a fin de asegurar el cumplimiento de sus principios, objetivos, estrategias y prioridades, para su validación por el COPLADEBCS y/o COPLADEM.
+La Jefatura de la Oficina del Ejecutivo y la dependencia o entidad municipal competente en materia de planeación, realizarán una evaluación anual del Plan Estatal y el Plan Municipal respectivo, de conformidad con su ámbito de competencia, a fin de asegurar el cumplimiento de sus principios, objetivos, estrategias y prioridades, para su validación por el COPLADEBCS y/o COPLADEMUN.
 
 La evaluación de los planes y programas estatales y municipales abarcará el impacto y los resultados, tomando como base el compendio de instrumentos e indicadores para la planeación.
 
 > <small>(DEROGADO TERCER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 86.
 
-La actualización de los planes y programas estatales y municipales, producto de las evaluaciones a que se refiere el artículo anterior, será coordinada por el Titular del Ejecutivo Estatal y los ayuntamientos en el ámbito de su competencia, con el auxilio de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, y la dependencia o entidad municipal competente en materia de planeación, ajustándose en lo conducente al procedimiento establecido para su formulación, debiendo tomar en cuenta las propuestas que al efecto realicen los poderes Legislativo y Judicial o la sociedad, y priorizar la continuidad de los programas que hubieran sido previstos.
+La actualización de los planes y programas estatales y municipales, producto de las evaluaciones a que se refiere el artículo anterior, será coordinada por el Titular del Ejecutivo Estatal y los ayuntamientos en el ámbito de su competencia, con el auxilio de la Jefatura de la Oficina del Ejecutivo y la dependencia o entidad municipal competente en materia de planeación, ajustándose en lo conducente al procedimiento establecido para su formulación, debiendo tomar en cuenta las propuestas que al efecto realicen los poderes Legislativo y Judicial o la sociedad, y priorizar la continuidad de los programas que hubieran sido previstos.
 
-El Plan Estatal de Desarrollo y los planes municipales de desarrollo podrán ser modificados o actualizados en cualquier tiempo durante su vigencia, observando el mismo procedimiento que para su formulación. Sus modificaciones o actualizaciones previo a su publicación en el Boletín Oficial del Gobierno del Estado, deberán ser validados por el COPLADEBCS y por el COPLADEM.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
+
+El Plan Estatal de Desarrollo y los planes municipales de desarrollo podrán ser modificados o actualizados en cualquier tiempo durante su vigencia, observando el mismo procedimiento que para su formulación. Sus modificaciones o actualizaciones previo a su publicación en el Boletín Oficial del Gobierno del Estado deberán ser validados por el COPLADEBCS y por el COPLADEMUN.
 
 ## TÍTULO CUARTO
 
@@ -1423,17 +1447,17 @@ El Plan Estatal de Desarrollo y los planes municipales de desarrollo podrán ser
 
 DEL SISTEMA DE INFORMACIÓN.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
-###### ARTÍCULO 87.
+###### ARTICULO 87.
 
-La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas coordinará el Sistema de Información para la Planeación Democrática del Desarrollo del Estado de Baja California Sur, el cual se integrará por las dependencias y entidades públicas que en el Estado generen o capten información necesaria y adecuada para la planeación del desarrollo y la toma de decisiones gubernamentales.
+La Jefatura de la Oficina del Ejecutivo coordinará el Sistema de Información para la Planeación Democrática del Desarrollo del Estado de Baja California Sur, el cual se integrará por las dependencias y entidades públicas que en el Estado generen o capten información necesaria y adecuada para la planeación del desarrollo y la toma de decisiones gubernamentales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO, B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 88.
 
-El Sistema de Información será operado por la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
+El Sistema de Información será operado por la Jefatura de la Oficina del Ejecutivo.
 
 El Sistema de Información para el Desarrollo del Estado captará, procesará y difundirá la información para la planeación democrática del desarrollo; asimismo, definirá las metodologías y criterios que las dependencias y entidades de la Administración Pública del Estado deberán aplicar para mejorar la calidad de la información estadística y geo referencial que generen.
 
@@ -1510,3 +1534,15 @@ PRIMERO.- El presente Decreto entrará en vigor el siguiente día siguiente al d
 SEGUNDO.- Se le concede al Titular del Ejecutivo del Estado el término de 180 días naturales, para efecto de que lleve a cabo las adecuaciones del Reglamento del Comité de Planeación para el Desarrollo del Estado, en términos de lo dispuesto en el presente Decreto
 
 TERCERO.- Se les concede a los Ayuntamientos del Estado, el término de 180 días naturales para efecto de que expidan, o bien, en su caso, lleven a cabo las adecuaciones del Reglamento de los Comités de Planeación para el Desarrollo Municipal que correspondan, en términos de lo dispuesto en el presente Decreto
+
+B.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3171 SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. Se le concede al Titular del Ejecutivo del Estado el término de 180 días naturales, para efecto de que lleve a cabo las adecuaciones del Reglamento del Comité de Planeación para el Desarrollo del Estado, en términos de lo dispuesto en el presente Decreto
+
+Artículo Tercero. Se les concede a los Ayuntamientos del Estado, el término de 180 días naturales para efecto de que expidan, o bien, en su caso, lleven a cabo las adecuaciones del Reglamento de los Comités de Planeación para el Desarrollo Municipal que correspondan, en términos de lo dispuesto en el presente Decreto.
+
+Artículo Cuarto. Se derogan aquellas disposiciones de igual o menor jerarquía que se opongan al presente decreto.
