@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2025-06-12"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -55,7 +55,9 @@ Las entidades de la administración pública paraestatal son aquellas que se det
 
 1. Los organismos a los que la Constitución Política del Estado y las leyes que de ésta emanen, otorguen autonomía, se regirán por sus leyes específicas, quedando excluidos de la aplicación de esta ley.
 
-2. También quedan exceptuadas de las disposiciones de esta ley, la Universidad Autónoma de Tamaulipas y las demás instituciones educativas a las que la ley otorgue autonomía, las cuales se regirán por sus leyes específicas; y la Unidad de Previsión y Seguridad Social del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+2. También quedan exceptuadas de las disposiciones de esta Ley, la Universidad Autónoma de Tamaulipas y las demás instituciones educativas a las que la ley otorgue autonomía, las cuales se regirán por sus leyes específicas.
 
 ###### ARTÍCULO 4.
 
@@ -71,7 +73,9 @@ Corresponderá al Gobernador o, en su caso, a los titulares de las dependencias 
 
 ###### ARTÍCULO 6.
 
-1. La Secretaría de Finanzas formará parte del órgano de gobierno de toda entidad paraestatal.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+1. La Secretaría de Finanzas y la Secretaría de Administración formarán parte del órgano de gobierno de toda entidad paraestatal.
 
 2. Además, la Secretaría de Finanzas será el fideicomitente único en los fideicomisos públicos que se constituyan por el Ejecutivo del Estado y el titular de esta dependencia será quien presida los Comités Técnicos de dichos fideicomisos.
 
@@ -87,15 +91,19 @@ Corresponderá al Gobernador o, en su caso, a los titulares de las dependencias 
 
 1. Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como las que les requieran las demás dependencias.
 
-2. Para el cumplimiento de lo antes establecido, la dependencia coordinadora del sector, conjuntamente con la Secretaría de Finanzas y la Contraloría Gubernamental, harán compatibles los requerimientos de información que demanden las dependencias y entidades, supervisando para tal efecto la información proporcionada.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+2. Para el cumplimiento de lo antes establecido, la dependencia coordinadora del sector, conjuntamente con la Secretaría de Finanzas y la Secretaría Anticorrupción y Buen Gobierno, harán compatibles los requerimientos de información que demanden las dependencias y entidades, supervisando para tal efecto la información proporcionada.
 
 ###### ARTÍCULO 8.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente ley y, en lo que no se oponga a ésta, a los demás que se relacionen con la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 9.
 
-Durante el mes de enero de cada año, la Contraloría Gubernamental publicará en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la administración pública estatal.
+Durante el mes de enero de cada año, la Secretaría Anticorrupción y Buen Gobierno publicará en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la administración pública estatal.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -123,15 +131,15 @@ III. El objeto del organismo;
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-V. La manera de integrar el órgano de gobierno y de designar a la persona titular de la Dirección General, así como a las y los servidores públicos en las dos jerarquías inferiores a éste;
+V. La manera de integrar el órgano de gobierno y de designar a la persona titular de la Dirección General o Dirección, así como a las y los servidores públicos en las dos jerarquías inferiores a éste;
 
 VI. Las facultades y obligaciones del órgano de gobierno, señalando cuáles de dichas facultades son indelegables;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-VII. Las facultades y obligaciones de la Dirección General, quien tendrá la representación legal del organismo;
+VII. Las facultades y obligaciones de la Dirección General o Dirección, quien tendrá la representación legal del organismo;
 
 VIII. El establecimiento de su órgano de vigilancia, así como sus facultades;
 
@@ -165,17 +173,25 @@ La rectoría y administración de los organismos descentralizados estará a carg
 
 En ningún caso podrán pertenecer al órgano de gobierno:
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-I. La persona titular de la Dirección General del organismo de que se trate;
+I. La persona titular del organismo de que se trate;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-II. Las y los cónyuges, ni las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado civil con cualquiera de quienes integran el órgano de gobierno o con quien ocupa la titularidad de la Dirección General;
+II. Las y los cónyuges, ni las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado civil con cualquiera de quienes integran el órgano de gobierno o con quien ocupa la titularidad del organismo de que se trate;
 
-III. Las personas que tengan litigios pendientes con el organismo de que se trate; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-IV. Las personas sentenciadas por delitos dolosos, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+III. Las personas que tengan litigios pendientes con el organismo de que se trate;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+IV. Las personas sentenciadas por delitos dolosos, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+V. La persona titular de la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### ARTÍCULO 16.
 
@@ -207,9 +223,9 @@ III. Fijar y ajustar los precios de bienes y servicios que, en su caso, produzca
 
 IV. Aprobar la propuesta de obligaciones para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo y disponibilidades financieras;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-V. Aprobar la información contable, presupuesta! (sic), patrimonial y programática, además de los estados financieros dictaminados mediante auditorías de carácter externo que para efectos le asigne la Contraloría Gubernamental en su caso; previo informe de las o los comisarios;
+V. Aprobar la información contable, presupuestal, patrimonial y programática, previo informe de los Comisarios, además de los estados financieros dictaminados por los auditores externos cuando sea requerido;
 
 VI. Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con los bienes de la entidad;
 
@@ -219,9 +235,9 @@ VIII. Aprobar la constitución de reservas y aplicación de excedentes financier
 
 IX. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que la entidad estatal requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-X. Analizar y aprobar en su caso, los informes periódicos que rinda la persona titular de la Dirección General con la intervención que corresponda a los comisarios;
+X. Analizar y aprobar en su caso, los informes periódicos que rinda la persona titular de la Dirección General o Dirección con la intervención que corresponda a los comisarios;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
 
@@ -235,13 +251,13 @@ XIII. Las demás que le determine el instrumento de creación de la entidad para
 
 ###### ARTÍCULO 20.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
-1. La Dirección General tiene a su cargo la administración de la entidad para estatal (sic).
+1. La Dirección General o Dirección tiene a su cargo la administración de la entidad paraestatal.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2025)</small>
 
-2. La designación de las personas titulares de las Direcciones Generales de todas las entidades paraestatales será efectuada por la o el Gobernador del Estado, o, de ser el caso, por el titular de la Dependencia que corresponda, en ejercicio de la facultad delegatoria de representación conferida para nombramientos y el despacho de los asuntos públicos, debiendo reunir para tales efectos los siguientes requisitos:
+2. La persona titular de la Secretaría que tenga la coordinación del sector, previo acuerdo con la persona titular del ejecutivo, determinará el nivel jerárquico con el que contará la persona titular de la entidad paraestatal, en función del presupuesto asignado, las responsabilidades conferidas, volumen de trabajo y el número de personas servidoras públicas adscritas, debiendo reunir para tales efectos los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
 
@@ -251,15 +267,17 @@ I. Tener nacionalidad mexicana y estar en pleno goce y ejercicio de sus derechos
 
 II. No encontrarse en alguno de los impedimentos que para ser integrante del Órgano de Gobierno señalan las fracciones II, III y IV del artículo 15 de esta ley;
 
-III. Contar con un perfil profesional y académico acordes al objeto o fines del organismo descentralizado; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+III. Contar con un perfil profesional y académico acordes al objeto o fines de la entidad paraestatal; y
 
 IV. Los demás que se señalen en el instrumento de creación de la entidad paraestatal.
 
 ###### ARTÍCULO 21.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JULIO DE 2025)</small>
 
-1. Las Direcciones Generales de los organismos descentralizados, tendrán la representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, y estarán facultados expresamente para:
+1. Las Direcciones Generales o Direcciones de los organismos descentralizados, tendrán la representación legal, sin perjuicio de las facultades que se les otorguen en otras leyes, ordenamientos o estatutos, y estarán facultados expresamente para:
 
 I. Celebrar y otorgar toda clase de actos y documentos inherentes a su objeto;
 
@@ -285,19 +303,19 @@ X. Certificar copias y cualquier otro documento elaborado por el organismo; y
 
 XI. Las demás que le determine el instrumento de creación de la entidad estatal;
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
-2. Las Direcciones Generales ejercerán las facultades a que se refieren las fracciones 11 (sic), III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el Estatuto Orgánico.
+2. Las Direcciones Generales o Direcciones ejercerán las facultades a que se refieren las fracciones II, III, VI y VII bajo su responsabilidad y dentro de las limitaciones que señale el Estatuto Orgánico.
 
 ### CAPÍTULO III. DEL REGISTRO ESTATAL DE ORGANISMOS DESCENTRALIZADOS
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 22.
 
-1. Los organismos descentralizados deberán inscribirse en el Registro Estatal de Organismos Descentralizados, que estará a cargo de la Contraloría Gubernamental.
+1. Los organismos descentralizados deberán inscribirse en el Registro Estatal de Organismos Descentralizados, que estará a cargo de la Secretaría Anticorrupción y Buen Gobierno.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
-
-2. Las Direcciones Generales o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones, reformas o liquidación, serán responsables en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+2. Las Direcciones Generales o Direcciones o quienes realicen funciones similares en los organismos descentralizados, que no solicitaren la inscripción aludida dentro de los treinta días siguientes a la fecha de su constitución o de sus modificaciones, reformas o liquidación, serán responsables en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 23.
 
@@ -307,9 +325,9 @@ I. El Estatuto Orgánico y sus reformas o modificaciones;
 
 II. Los nombramientos de los integrantes del Órgano de Gobierno así como sus remociones;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-III. Los nombramientos y sustituciones de la persona titular de la Dirección General;
+III. Los nombramientos y sustituciones de la persona titular de la Dirección General o Dirección;
 
 IV. Los poderes generales y sus revocaciones;
 
@@ -327,11 +345,11 @@ El Registro Estatal de Organismos Descentralizados podrá expedir certificacione
 
 Procederá la cancelación de las inscripciones en el Registro Estatal de los Organismos Descentralizados, en el caso de su extinción una vez que se haya concluido su liquidación.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 26.
 
-Para acreditar la personalidad y facultades, según se trate, de quienes integran el Órgano de Gobierno, la Dirección General y de las personas que ostentan poderes generales para actos de dominio y de administración de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Estatal de Organismos Descentralizados.
+Para acreditar la personalidad y facultades, según se trate, de quienes integran el Órgano de Gobierno, la Dirección General o Dirección y de las personas que ostentan poderes generales para actos de dominio y de administración de los organismos descentralizados, bastará con exhibir una certificación de la inscripción de su nombramiento o mandato en el Registro Estatal de Organismos Descentralizados.
 
 ### CAPÍTULO IV. DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -387,23 +405,27 @@ La organización, administración y vigilancia de las empresas de participación
 
 Los Consejos de Administración o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades específicas que se le otorguen en los Estatutos y legislación de la materia, tendrán las facultades señaladas en el artículo 19 de esta Ley en lo que les resulten compatibles, con las salvedades de aquellas que sean propias de las asambleas ordinarias o extraordinarias.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 34.
 
-Las Direcciones Generales o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades y obligaciones que se les atribuyen en los Estatutos y legislación aplicable a su tipo social, tendrán las que se mencionan en el artículo 21 de esta Ley.
+Las Direcciones Generales, Direcciones o sus equivalentes de las empresas de participación estatal mayoritaria, además de las facultades y obligaciones que se les atribuyen en los Estatutos y legislación aplicable a su tipo social, tendrán las que se mencionan en el artículo 21 de esta Ley.
 
 ###### ARTÍCULO 35.
 
 1. La fusión, escisión, transformación o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a las disposiciones o normas establecidas en la legislación aplicable o en los Estatutos de la Empresa.
 
-2. La dependencia coordinadora de sector al que corresponda la empresa, en lo que no se oponga a su normatividad específica y de conformidad a las bases y lineamientos establecidos al respecto por la Contraloría Gubernamental, intervendrá a fin de señalar la manera y términos en que deba efectuarse la fusión, escisión, transformación o disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+2. La dependencia coordinadora de sector al que corresponda la empresa, en lo que no se oponga a su normatividad específica y de conformidad a las bases y lineamientos establecidos al respecto por la Secretaría Anticorrupción y Buen Gobierno, intervendrá a fin de señalar la manera y términos en que deba efectuarse la fusión, escisión, transformación o disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la empresa.
 
 ###### ARTÍCULO 36.
 
 1. La enajenación de títulos representativos del capital social, propiedad del Gobierno del Estado o de las entidades paraestatales, se deberá realizar respetando el derecho de preferencia a favor de los demás accionistas, socios o empleados de las empresas de acuerdo con los términos que establezca la ley, o pactados en los Estatutos Sociales o, en su defecto, a través de las instituciones de crédito o financieras designadas para el efecto, de conformidad con las normas que emita la Secretaría de Finanzas.
 
-2. La Contraloría Gubernamental vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+2. La Secretaría Anticorrupción y Buen Gobierno vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
 
 ###### ARTÍCULO 37.
 
@@ -417,7 +439,9 @@ Las Direcciones Generales o sus equivalentes de las empresas de participación e
 
 1. Los fideicomisos públicos son los constituidos por el Gobierno del Estado con objeto de auxiliarlo en la realización de actividades prioritarias, de interés público o beneficio colectivo.
 
-2. Los fideicomisos públicos podrán contar con estructura análoga a la de las otras entidades, y regirán sus actividades por Comités Técnicos.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+2. Los fideicomisos públicos podrán contar con estructura análoga a la de las otras entidades, y regirán sus actividades por Comités Técnicos, en este supuesto las estructuras orgánicas serán autorizadas por su Comité Técnico, de conformidad con los documentos contractuales que regulen los fideicomisos públicos, en las que no deberá de existir duplicidad de puestos con las autorizadas por las dependencias del ejecutivo del estado, así mismo deberán de operar con recurso propio, quienes no tendrán relación laboral con el Gobierno del Estado.
 
 3. No obstante lo establecido en el párrafo anterior, se podrán constituir fideicomisos públicos sin estructura propia, pero deberán contar al menos con el Comité Técnico.
 
@@ -425,9 +449,9 @@ Las Direcciones Generales o sus equivalentes de las empresas de participación e
 
 5. En los documentos contractuales que creen y regulen los fideicomisos públicos del Estado, deberán precisarse los derechos y obligaciones que corresponda ejercer al fiduciario sobre el patrimonio fideicomitido, sus limitaciones, así como las facultades y derechos que el fideicomitente se reserve.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
-6. Los Comités Técnicos y las Direcciones Generales, en caso de contar con estructura propia, de los fideicomisos públicos que sean entidades paraestatales, se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en la presente ley se establecen para los Órganos de Gobierno y para las Direcciones Generales de los Organismos Públicos Descentralizados, en cuanto sea compatible a su naturaleza.
+6. Los Comités Técnicos y las Direcciones Generales o Direcciones, en caso de contar con estructura propia, de los fideicomisos públicos que sean entidades paraestatales, se ajustarán en cuanto a su integración, facultades y funcionamiento a las disposiciones que en la presente ley se establecen para los Órganos de Gobierno y para las Direcciones Generales o Direcciones de los Organismos Públicos Descentralizados, en cuanto sea compatible a su naturaleza.
 
 ###### ARTÍCULO 39.
 
@@ -507,13 +531,15 @@ Las entidades remitirán a la Secretaría de Finanzas del Poder Ejecutivo la inf
 
 ### CAPÍTULO VI (SIC). DE LA EVALUACIÓN Y CONTROL
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 52.
 
-1. El Órgano de Vigilancia de las entidades paraestatales estará integrado por un Comisario, designado por el Gobernador del Estado, quien evaluará el desempeño general y por funciones de las entidades, con base a lo establecido en el reglamento de esta ley y en los lineamientos que para tal efecto emita la Contraloría Gubernamental en el ámbito de sus atribuciones.
+1. El Órgano de Vigilancia de las entidades paraestatales estará integrado por un Comisario, designado por la Secretaría Anticorrupción y Buen Gobierno, quien evaluará el desempeño general y por funciones de las entidades, con base a lo establecido en el reglamento de esta ley y en los lineamientos que para tal efecto emita la Secretaría Anticorrupción y Buen Gobierno en el ámbito de sus atribuciones.
 
-2. Los Comisarios estarán adscritos jerárquica, técnica y funcionalmente a la Contraloría Gubernamental y tendrán a su cargo las funciones relativas al control y vigilancia de la gestión pública de la entidad conforme a lo dispuesto por los reglamentos aplicables y los lineamientos que emita la propia Contraloría.
+2. Los Comisarios estarán adscritos jerárquica, técnica y funcionalmente a la Secretaría Anticorrupción y Buen Gobierno y tendrán a su cargo las funciones relativas al control y vigilancia de la gestión pública de la entidad conforme a lo dispuesto por los reglamentos aplicables y los lineamientos que emita la propia Secretaría Anticorrupción y Buen Gobierno.
 
-3. El Ejecutivo Estatal, por conducto de la Contraloría Gubernamental, podrá acordar que un mismo Comisario se haga cargo del control y vigilancia de más de una entidad paraestatal, o que en una entidad paraestatal exista más de un Comisario cuando por las funciones que realicen o por el volumen de las operaciones se justifique.
+3. El Ejecutivo Estatal, por conducto de la Secretaría Anticorrupción y Buen Gobierno, podrá acordar que un mismo Comisario se haga cargo del control y vigilancia de más de una entidad paraestatal, o que en una entidad paraestatal exista más de un Comisario cuando por las funciones que realicen o por el volumen de las operaciones se justifique.
 
 ###### ARTÍCULO 53.
 
@@ -527,9 +553,9 @@ Las entidades remitirán a la Secretaría de Finanzas del Poder Ejecutivo la inf
 
 2. Asimismo, deberán examinar, revisar y auditar el ámbito total de la operación de las entidades, las diversas áreas, programas y recursos que la integran, verificando sistemática y permanentemente el cumplimiento de las disposiciones legales, reglamentarías y administrativas; la política sectorial e Institucional por parte de las áreas responsables y de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, obra pública, adquisiciones y patrimonio de las entidades.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
-3. Así como, recibir y desahogar las quejas y denuncias que se presenten respecto a la conducta o desempeño de los servidores públicos, y aquellas derivadas de acuerdos, contratos o convenios que hubiese celebrado la entidad o las que procedan de las revisiones de conformidad con los lineamientos que emita la Contraloría Gubernamental y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+3. Así como, recibir y desahogar las quejas y denuncias que se presenten respecto a la conducta o desempeño de los servidores públicos, y aquellas derivadas de acuerdos, contratos o convenios que hubiese celebrado la entidad o las que procedan de las revisiones de conformidad con los lineamientos que emita la Secretaría Anticorrupción y Buen Gobierno y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ###### ARTÍCULO 55.
 
@@ -565,45 +591,61 @@ h) Los demás que se consideren necesarios;
 
 VII. Evaluar aspectos específicos de las entidades estatales y hacer las recomendaciones procedentes;
 
-VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representante de la Contraloría Gubernamental ante las dependencias, entidades e instancias que intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representante de la Secretaría Anticorrupción y Buen Gobierno ante las dependencias, entidades e instancias que intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
 
 IX. Verificar la debida integración y funcionamiento de los Órganos de Gobierno;
 
 X. Solicitar y verificar que se incluyan en el orden del día de las sesiones de los Órganos de Gobierno de las entidades, los asuntos que consideren necesarios;
 
-XI. Rendir anualmente al Órgano de Gobierno o, en su caso, a la Asamblea de Accionistas, un informe sobre los estados financieros, con base en el dictamen de los Auditores Externos; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-XII. Las demás inherentes a su función y las que les señale expresamente la Contraloría Gubernamental, en el ámbito de su competencia.
+XI. Rendir anualmente al Órgano de Gobierno o, en su caso, a la Asamblea de Accionistas, un informe sobre los estados financieros; y
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+XII. Las demás inherentes a su función y las que les señale expresamente la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de su competencia.
 
 ###### ARTÍCULO 56.
 
-1. Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán a los Órganos de Vigilancia y contarán con los Comisarios que designe el Gobernador del Estado en los términos del presente Capítulo.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
+1. Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán a los Órganos de Vigilancia y contarán con los Comisarios que designe la Secretaría Anticorrupción y Buen Gobierno en los términos del presente Capítulo.
 
 2. Los fideicomisos públicos, se ajustarán en lo que les sea compatible, a las disposiciones establecidas en el presente Capítulo.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 57.
 
-La Contraloría Gubernamental podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los Órganos de Administración y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Secretaría Anticorrupción y Buen Gobierno podrá realizar visitas y auditorías a las entidades paraestatales, por sí o a través de sus comisarios o unidades administrativas, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los Órganos de Administración y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 58.
 
-En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del Capital, se vigilarán las inversiones del Estado, a través del Comisario que se designe conforme al presente Capítulo.
+En aquellas empresas en las que participe la administración pública estatal con Capital, se vigilarán las inversiones del Estado, a través del Comisario que se designe conforme al presente Capítulo.
 
 ### CAPÍTULO VII. DE LA LIQUIDACIÓN
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 59.
 
-Cuando una entidad paraestatal no cumpla con el objeto para el cual fue constituida, la Secretaría de Finanzas y la Contraloría Gubernamental con opinión del titular de la dependencia coordinadora del sector, propondrán al Titular del Ejecutivo su liquidación, observándose para tal efecto las mismas formalidades inherentes a su constitución.
+Cuando una entidad paraestatal no cumpla con el objeto para el cual fue constituida, la Secretaría de Finanzas y la Secretaría Anticorrupción y Buen Gobierno con opinión del titular de la dependencia coordinadora del sector, propondrán al Titular del Ejecutivo su liquidación, observándose para tal efecto las mismas formalidades inherentes a su constitución.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 60.
 
-Es obligación de toda entidad paraestatal realizar todos los trámites de liquidación, los cuales deberán prever el contrato o documento o decreto de su constitución, debiendo enviar a la Secretaría de Finanzas y a la Contraloría Gubernamental los documentos en los que conste la disolución, los estados financieros y la cuenta pública del último ejercicio fiscal, dentro de un término de 30 días naturales siguientes a la fecha de disolución.
+Es obligación de toda entidad paraestatal realizar todos los trámites de liquidación, los cuales deberán prever el contrato o documento o decreto de su constitución, debiendo enviar a la Secretaría de Finanzas y a la Secretaría Anticorrupción y Buen Gobierno los documentos en los que conste la disolución, los estados financieros y la cuenta pública del último ejercicio fiscal, dentro de un término de 30 días naturales siguientes a la fecha de disolución.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 61.
 
-El Órgano de Gobierno y la persona titular de la Dirección General serán responsables solidarios de las obligaciones que resultaren a cargo de la entidad paraestatal que no fueron cumplidas durante su gestión.
+El Órgano de Gobierno y la persona titular de la Dirección General o Dirección serán responsables solidarias de las obligaciones que resultaren a cargo de la entidad paraestatal que no fueron cumplidas durante su gestión.
 
 T R A N S I T O R I O S
 
@@ -674,3 +716,39 @@ Las y los titulares de las Dependencias Gubernamentales, sólo podrán emitir aq
 ###### ARTÍCULO CUARTO.
 
 Para la emisión de los nombramientos, las y los titulares de las Dependencias Gubernamentales, deberán considerar las previsiones establecidas en el Presupuesto de Egresos del Estado, al igual que las disposiciones jurídicas vigentes en materia de requisitos de ingreso.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-370 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo estipulado por el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 90 días posteriores a la entrada en vigor del presente Decreto, se deberán realizar las modificaciones o reformas de los instrumentos constitutivos o estatutos de las entidades paraestatales, para ajustarlos en lo que proceda a las disposiciones del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, deberá de inscribirse en el Registro Estatal de Organismos Descentralizados.
+
+###### ARTÍCULO QUINTO.
+
+La instalación de los nuevos órganos de gobierno deberán de instalarse en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Secretaría de Finanzas, Secretaría de Administración, así como a la Secretaría Anticorrupción y Buen Gobierno y a las entidades paraestatales a realizar de manera inmediata las adecuaciones presupuestales, financieras y de recursos humanos, derivados del presente Decreto, sin que tales procesos puedan exceder de 90 días naturales, contados a partir de su entrada en vigor. Las economías presupuestales que resulten con motivo de las adecuaciones referidas en el presente Decreto, podrán ser aplicadas por la Secretaría de Finanzas en programas o acciones vinculadas con rubros prioritarios en materia de salud, educación y seguridad pública.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor del presente Decreto, los nombramientos de Directoras o Directores Generales emitidos corresponde al de Directora o Director, lo anterior hasta en tanto se expiden los nuevos nombramientos.
+
+###### ARTÍCULO OCTAVO.
+
+Todos los actos jurídicos celebrados antes de la entrada en vigor del presente Decreto, por los titulares de las entidades paraestatales en el ámbito de sus atribuciones, se entenderán vigentes hasta en tanto las partes acuerden lo contrario.
