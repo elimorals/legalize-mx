@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2025-05-23"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2020-07-08"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/TFJA/SS-10-2025.pdf]
+[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/TFJA/SS-15-2025.pdf]
 
 [NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2025.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -103,7 +103,9 @@ XII. Ley de Transparencia: La Ley General de Transparencia y Acceso a la Informa
 
 XIII. Ley de Protección de Datos Personales: La Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-XIV. Manuales y otras normativas emitidas por el Pleno General o la Junta: Son las disposiciones, lineamientos, instructivos o circulares, que obliguen a su cumplimiento a las personas servidoras públicas del mismo a partir de su publicación en los medios electrónicos de la institución y/o en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XIV. Manuales y otras normativas emitidas por el Pleno General o la Junta: Son las disposiciones, lineamientos, instructivos o circulares, que obligan a su cumplimiento a las personas servidoras públicas del mismo a partir de su publicación en los medios electrónicos de la institución y/o en el Diario Oficial de la Federación;
 
 XV. Órganos administrativos del Tribunal: Las Secretarías, Unidades Administrativas; Direcciones Generales, Delegaciones y personas servidoras públicas a que hace referencia el Título Tercero de este Reglamento;
 
@@ -149,9 +151,11 @@ XXXIV. Tribunal: El Tribunal Federal de Justicia Administrativa, y
 
 XXXV. Unidades Administrativas: Son las áreas encargadas de planear, coordinar, ejecutar y evaluar las funciones y atribuciones conferidas por el marco de este reglamento, independientemente del nivel jerárquico de cada Titular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 3.
 
-Los servidores públicos del Tribunal ajustarán su actividad jurisdiccional y administrativa a la Ley, al Estatuto, a los Acuerdos del Pleno General, del Pleno Jurisdiccional, de las Secciones y de la Junta; a las Condiciones Generales de Trabajo, al Código de Ética del Tribunal y demás disposiciones jurídicas aplicables.
+Los servidores públicos del Tribunal ajustarán su actividad jurisdiccional y administrativa a la Ley, al Estatuto, a los Acuerdos del Pleno General, del Pleno Jurisdiccional, de las Secciones y de la Junta; a las Condiciones Generales de Trabajo, al Código de Ética del Tribunal, al Código de Conducta y demás disposiciones jurídicas aplicables.
 
 El Tribunal incorporará la protección a los derechos humanos en materia de perspectiva de género, y combate al hostigamiento y acoso sexual y laboral, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar la paridad en el ejercicio y goce de estos derechos, en igualdad de condiciones y velará por que las unidades y órganos previstos en este Reglamento así lo hagan.
 
@@ -165,11 +169,11 @@ Corresponde al Presidente, al Pleno General, al Pleno Jurisdiccional, a las Secc
 
 El Pleno General resolverá los casos que no puedan ser desahogados en términos del párrafo anterior, así como las consultas que se formulen respecto a lo establecido en el artículo 46 de la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 6.
 
-El horario de labores de las personas servidoras públicas del Tribunal, con excepción de lo que establezcan las Condiciones Generales de Trabajo, será el siguiente y podrá modificarse por la Junta según las necesidades del servicio.
+El horario de labores de las personas servidoras públicas del Tribunal, con excepción de lo que establezcan las Condiciones Generales de Trabajo, será el siguiente, de lunes a viernes, salvo los que el Pleno General declare como inhábiles, y podrá modificarse por la Junta según las necesidades del servicio.
 
 I. Personal operativo, de 8:30 a 15:30 horas;
 
@@ -235,9 +239,13 @@ Son facultades de la Tercera Sección las siguientes:
 
 I. Elegir al Presidente de la Tercera Sección de entre los Magistrados que la integran;
 
-II. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por las Salas Especializadas en materia de Responsabilidades Administrativas;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-III. Ejercer su facultad de atracción para resolver los procedimientos administrativos sancionadores por faltas graves, cuya competencia primigenia corresponda a las Salas Especializadas en materia de Responsabilidades Administrativas, siempre que los mismos revistan los requisitos de importancia y trascendencia; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante en materia de Responsabilidades Administrativas; y, por lo segundo, que sea necesario sentar un criterio que trascienda la resolución del caso, a fin de que sea orientador a nivel nacional. El ejercicio de la facultad de atracción podrá ser solicitada por cualquiera de los Magistrados de la Tercera Sección, o bien por el Pleno de las Salas Especializadas en materia de Responsabilidades Administrativas, por mayoría de votos de sus integrantes;
+II. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por las Salas Especializadas o Auxiliares en materia de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+III. Ejercer su facultad de atracción para resolver los procedimientos administrativos sancionadores por faltas graves, cuya competencia primigenia corresponda a las Salas Especializadas o Auxiliares en materia de Responsabilidades Administrativas, siempre que los mismos revistan los requisitos de importancia y trascendencia; entendiendo por lo primero, que el asunto pueda dar lugar a un pronunciamiento novedoso o relevante en materia de Responsabilidades Administrativas; y, por lo segundo, que sea necesario sentar un criterio que trascienda la resolución del caso, a fin de que sea orientador a nivel nacional. El ejercicio de la facultad de atracción podrá ser solicitada por cualquiera de los Magistrados de la Tercera Sección, o bien por el Pleno de las Salas Especializadas en materia de Responsabilidades Administrativas o Auxiliares, por mayoría de votos de sus integrantes;
 
 IV. Resolver el recurso de reclamación que proceda en los términos de la Ley General de Responsabilidades Administrativas;
 
@@ -257,7 +265,9 @@ XI. Imponer a los particulares que intervengan en actos vinculados con faltas ad
 
 XII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
 
-XIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Superior, que por conducto de la Junta de Gobierno, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia Sección o de las Salas Especializadas en materia de Responsabilidades Administrativas, ejercer con normalidad y autonomía sus atribuciones;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XIII. A petición de su Magistrado Presidente, solicitar al Pleno General, que por conducto de la Junta de Gobierno, se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia Sección o de las Salas Especializadas o Auxiliares en materia de Responsabilidades Administrativas, ejercer con normalidad y autonomía sus atribuciones;
 
 XIV. Dar seguimiento y proveer la ejecución de las resoluciones que emita, y
 
@@ -325,21 +335,29 @@ III. A los Magistrados de Sala Superior: los Secretarios de Acuerdos de Sala Sup
 
 IV. A los Magistrados de Sala Regional y Magistrados Supernumerarios de Sala Regional: los Secretarios de Acuerdos de Sala Regional, los Oficiales Jurisdiccionales, los Archivistas y demás personal asignado a su ponencia;
 
-V. A la Junta: el Coordinador de Actuaría Común del Tribunal con sede en la Ciudad de México, y el Coordinador de Actuaría Común de Salas Especializadas, quienes dependerán operativamente del Coordinador de Salas Metropolitanas o Especializadas según corresponda.
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+V. A la Junta: el Coordinador de Actuaría Común del Tribunal con sede en la Ciudad de México, y el Coordinador de Actuaría Común de Salas Especializadas, quienes dependerán operativamente del Coordinador de Salas en la Ciudad de México o Especializadas según corresponda.
 
 VI. A los Presidentes de las Salas Regionales con sede en la Ciudad de México: los Actuarios de su Sala de adscripción;
 
 VII. Al Coordinador o en su caso, a los Presidentes de Salas Regionales con sede distinta a la Ciudad de México: el Coordinador de Actuaría Común y de Oficialía de Partes, los Actuarios y los Oficiales de Partes de sus Salas de adscripción;
 
-VIII. Al Secretario General de Acuerdos: el Coordinador de Compilación y Sistematización de Tesis, el Oficial de Partes de la Sala Superior y del Pleno Jurisdiccional, los Actuarios y el Jefe de Archivo de Trámite de la Sala Superior y del Pleno Jurisdiccional. Así como el Coordinador de Oficialía de Partes Común de las Salas Regionales Metropolitanas, y el Coordinador de Oficialía de Partes de las Salas Especializadas con sede en la Ciudad de México, quienes dependerán operativamente del Coordinador de Salas Metropolitanas o Especializadas según corresponda;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VIII. Al Secretario General de Acuerdos: el Coordinador de Compilación y Sistematización de Tesis, el Oficial de Partes de la Sala Superior y del Pleno Jurisdiccional, los Actuarios y el Jefe de Archivo de Trámite de la Sala Superior y del Pleno Jurisdiccional. Así como el Coordinador de Oficialía de Partes Común de las Salas Regionales en la Ciudad de México, y el Coordinador de Oficialía de Partes de las Salas Especializadas con sede en la Ciudad de México, quienes dependerán operativamente del Coordinador de Salas en la Ciudad de México o Especializadas según corresponda;
 
 IX. A los Secretarios Adjuntos de Acuerdos de las Secciones: el personal de apoyo de la Sección y los Archivistas adscritos a la misma;
 
-X. A los Coordinadores de Actuaría Común del Tribunal con sede en la Ciudad de México y de Oficialía de Partes Común de las Salas Regionales Metropolitanas: los Actuarios adscritos a la Coordinación de Actuaría Común y los Oficiales de Partes en la Región Metropolitana, respectivamente;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+X. A los Coordinadores de Actuaría Común del Tribunal con sede en la Ciudad de México y de Oficialía de Partes Común de las Salas Regionales en la Ciudad de México: los Actuarios adscritos a la Coordinación de Actuaría Común y los Oficiales de Partes en la Región Ciudad de México, respectivamente;
 
 XI. A los Coordinadores de Actuaría Común y de Oficialía de Partes de las Salas Especializadas con sede en la Ciudad de México: los Actuarios adscritos a la Coordinación de Actuaría Común de las Salas Especializadas con sede en la Ciudad de México y los Oficiales de Partes de las Salas Especializadas con sede en la Ciudad de México, respectivamente;
 
-XII. Al Coordinador de Compilación y Sistematización de Tesis: el personal de base y de confianza que, en su caso, le sea asignado en el presupuesto de egresos correspondiente;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XII. Al Coordinador de Compilación y Sistematización de Tesis: el personal de base y de confianza que, en su caso, le sea asignado en el presupuesto de egresos correspondiente, y
 
 XIII. A la Dirección General de Archivos: el Encargado del Archivo de Concentración y su personal de apoyo.
 
@@ -357,7 +375,9 @@ La facultad de atracción es discrecional y se ejercerá caso por caso, una vez 
 
 Para ejercer la facultad de atracción sobre juicios con características especiales, a que se refieren los artículos 48, fracción I, de la Ley Federal de Procedimiento Contencioso Administrativo, y 17, fracción III, y 18, fracción III, de la Ley, se observarán los criterios siguientes:
 
-I. Corresponderá a las Secciones atraer para su resolución los juicios con características especiales que estén siendo instruidos por las Salas Regionales, en los casos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Corresponderá a las Secciones Primera y Segunda atraer para su resolución los juicios con características especiales que estén siendo instruidos por las Salas Regionales, en los casos siguientes:
 
 a. Cuando su cuantía tenga un valor controvertido igual o superior a la establecida en Acuerdo por el Pleno Jurisdiccional, en el momento de la emisión de la resolución impugnada, y
 
@@ -365,7 +385,9 @@ b. Si para su resolución es necesario establecer por primera vez la interpretac
 
 II. Corresponderá al Pleno Jurisdiccional de la Sala Superior atraer para su resolución los juicios con características especiales en los demás supuestos y materias comprendidas en el artículo 48, fracción I, de la Ley Federal de Procedimiento Contencioso Administrativo.
 
-Para los efectos previstos en el presente artículo, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones deberá diseñar los repositorios conducentes, tanto en el Sistema de Control y Seguimiento de Juicios como en el Sistema de Justicia en Línea, en los que se registren los datos que permitan identificar, de ser posible desde la presentación de la demanda en la Oficialía de Partes, o con el acuerdo de admisión de demanda, aquellos juicios con características especiales susceptibles de ser atraídos por el Pleno Jurisdiccional o las Secciones de la Sala Superior.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Para los efectos previstos en el presente artículo, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones deberá diseñar los repositorios conducentes, tanto en el Sistema de Control y Seguimiento de Juicios como en el Sistema de Justicia en Línea, en los que se registren los datos que permitan identificar, de ser posible desde la presentación de la demanda en la Oficialía de Partes, o con el acuerdo de admisión de demanda, aquellos juicios con características especiales susceptibles de ser atraídos por el Pleno Jurisdiccional o las Secciones Primera y Segunda de la Sala Superior.
 
 ###### Artículo 16.
 
@@ -379,15 +401,21 @@ II. Para su resolución sea necesario establecer, por primera vez, la interpreta
 
 El ejercicio de la facultad de atracción, sobre los juicios con características especiales a que se refiere el artículo 48, fracción I, de la Ley Federal de Procedimiento Contencioso Administrativo, se sujetará al procedimiento siguiente:
 
-I. La facultad de atracción se podrá ejercer de oficio o a petición de parte. En ambos casos, la petición deberá estar fundada y expresará con precisión los motivos que justifiquen que el juicio se ubique en alguno de los supuestos previstos en el artículo 48 de la Ley Federal de Procedimiento Contencioso Administrativo. Dicha petición la podrá formular la Sección, la Sala Regional, el Magistrado Instructor en la vía sumaria a través de la Sala correspondiente, los particulares o las autoridades, después de que se haya producido la contestación de la demanda y, en su caso, la ampliación y la contestación a ésta;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-II. La petición se dirigirá al Presidente, o a los presidentes de las secciones según corresponda, directamente o por conducto de la Sala Regional, la que deberá ser presentada a la Secretaría General de Acuerdos, para su admisión y en su caso trámite, acompañándose copia de la demanda, de la contestación a ésta y, en su caso, de la ampliación y de la contestación a ésta, y de la resolución impugnada, indicando el estado procesal del juicio, así como de cualquier otra constancia que se considere pertinente para justificar la atracción;
+I. La facultad de atracción se podrá ejercer de oficio o a petición de parte. En ambos casos, la petición deberá estar fundada y expresará con precisión los motivos que justifiquen que el juicio se ubique en alguno de los supuestos previstos en el artículo 48 de la Ley Federal de Procedimiento Contencioso Administrativo. Dicha petición la podrá formular la Primera o Segunda Secciones, la Sala Regional, el Magistrado Instructor en la vía sumaria a través de la Sala correspondiente, los particulares o las autoridades, después de que se haya producido la contestación de la demanda y, en su caso, la ampliación y la contestación a ésta;
 
-El Presidente, o los Presidentes de las Secciones según corresponda, resolverán, por conducto de la Secretaría respectiva y dentro del plazo de cinco días hábiles, si es procedente la petición de atracción;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+II. La petición se dirigirá al Presidente, o a los presidentes de las secciones Primera o Segunda, según corresponda, directamente o por conducto de la Sala Regional, la que deberá ser presentada a la Secretaría General de Acuerdos, para su admisión y en su caso trámite, acompañándose copia de la demanda, de la contestación a ésta y, en su caso, de la ampliación y de la contestación a ésta, y de la resolución impugnada, indicando el estado procesal del juicio, así como de cualquier otra constancia que se considere pertinente para justificar la atracción;
+
+El Presidente, o los Presidentes de las Secciones Primera o Segunda, según corresponda, resolverán, por conducto de la Secretaría respectiva y dentro del plazo de cinco días hábiles, si es procedente la petición de atracción;
 
 III. Una vez determinada la procedencia de la petición de atracción, la Secretaría que corresponda, abrirá un expediente de atracción que estará integrado con los documentos señalados en la fracción anterior. En caso de faltar alguna de las constancias necesarias, la Secretaría que corresponda, mediante oficio, requerirá a la Sección, a la Sala Regional o al Magistrado Instructor correspondiente la remisión de éstas;
 
-IV. Una vez integrado el expediente se elaborará el proyecto de acuerdo, el cual será sometido a la consideración del Presidente, o de los presidentes de las secciones, por parte de la Secretaría que corresponda, y
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+IV. Una vez integrado el expediente se elaborará el proyecto de acuerdo, el cual será sometido a la consideración del Presidente, o de los presidentes de las secciones Primera o Segunda, por parte de la Secretaría que corresponda, y
 
 V. El acuerdo correspondiente será comunicado a la Sección, a la Sala Regional o al Magistrado Instructor respectivo, para que proceda en los términos del artículo 48, fracción II, inciso c) de la Ley Federal de Procedimiento Contencioso Administrativo.
 
@@ -395,7 +423,9 @@ V. El acuerdo correspondiente será comunicado a la Sección, a la Sala Regional
 
 El ejercicio de la facultad de atracción para resolver los procedimientos administrativos sancionadores por faltas graves a que se refiere al artículo 20, fracción III, de la Ley, se sujetará a las reglas siguientes:
 
-I. Se podrá solicitar por cualquiera de los Magistrados de la Tercera Sección, o por el Pleno de las Salas Especializadas en Materia de Responsabilidades Administrativas, por mayoría de votos de sus integrantes y hasta antes que se declare el cierre de instrucción;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Se podrá solicitar por cualquiera de los Magistrados de la Tercera Sección, o por el Pleno de las Salas Especializadas o Auxiliares en Materia de Responsabilidades Administrativas, por mayoría de votos de sus integrantes y hasta antes que se declare el cierre de instrucción;
 
 II. La petición deberá estar fundada y expresará con precisión los motivos que justifiquen que el procedimiento administrativo sancionador reviste los requisitos de importancia y trascendencia previstos en el artículo 20, fracción III, de la Ley;
 
@@ -403,43 +433,55 @@ III. La solicitud se dirigirá al Presidente de la Tercera Sección, directament
 
 El Presidente de la Tercera Sección resolverá, por conducto de la Secretaría Adjunta y dentro del plazo de cinco días hábiles, si es procedente la petición de atracción;
 
-IV. Una vez determinada la procedencia de la petición de atracción, la Secretaría Adjunta de Acuerdos de la Tercera Sección, abrirá un expediente de atracción que estará integrado con los documentos señalados en la fracción anterior. En caso de faltar alguna de las constancias necesarias, la Secretaría Adjunta, mediante oficio, requerirá a la Sala Especializada correspondiente la remisión de éstas;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+IV. Una vez determinada la procedencia de la petición de atracción, la Secretaría Adjunta de Acuerdos de la Tercera Sección, abrirá un expediente de atracción que estará integrado con los documentos señalados en la fracción anterior. En caso de faltar alguna de las constancias necesarias, la Secretaría Adjunta, mediante oficio, requerirá a la Sala Especializada o Auxiliar correspondiente la remisión de éstas;
 
 V. Una vez integrado el expediente se elaborará el proyecto de acuerdo, el cual será sometido a la consideración del Presidente de la Tercera Sección, por parte de la Secretaría Adjunta de Acuerdos de la Sección;
 
-VI. La determinación del ejercicio o no de la facultad de atracción, será comunicada a la Sala Especializada que corresponda. El acuerdo que admita la solicitud, o que de oficio decida atraer para su resolución el procedimiento administrativo sancionador, será notificado a las partes por la Sala Especializada, de conformidad con lo establecido en el artículo 48, fracción II, inciso c) de la Ley Federal de Procedimiento Contencioso Administrativo, aplicado de manera supletoria, solicitándoles señalar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, correo electrónico para recibir los avisos electrónicos establecidos en el artículo 65 de la referida Ley. En caso de no hacerlo, la resolución y las actuaciones diversas que dicte la Tercera Sección les serán notificadas en el domicilio que obre en autos, y
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-VII. Una vez que se declare el cierre de instrucción, la Sala Especializada remitirá el expediente original a la Secretaría Adjunta de la Tercera Sección, la que lo turnará al Magistrado ponente que corresponda.
+VI. La determinación del ejercicio o no de la facultad de atracción, será comunicada a la Sala Especializada o Auxiliar que corresponda. El acuerdo que admita la solicitud, o que de oficio decida atraer para su resolución el procedimiento administrativo sancionador, será notificado a las partes por la Sala Especializada o Auxiliar, de conformidad con lo establecido en el artículo 48, fracción II, inciso c) de la Ley Federal de Procedimiento Contencioso Administrativo, aplicado de manera supletoria, solicitándoles señalar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, correo electrónico para recibir los avisos electrónicos establecidos en el artículo 65 de la referida Ley. En caso de no hacerlo, la resolución y las actuaciones diversas que dicte la Tercera Sección les serán notificadas en el domicilio que obre en autos;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VII. Una vez que se declare el cierre de instrucción, la Sala Especializada o Auxiliar remitirá el expediente original a la Secretaría Adjunta de la Tercera Sección, la que lo turnará al Magistrado ponente que corresponda, y
 
 > <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 VIII. Para los efectos previstos en el presente artículo, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones deberá diseñar los repositorios conducentes en el Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA), para el registro de los datos que permitan identificar, desde la emisión del acuerdo de admisión y/o radicación del informe de presunta responsabilidad administrativa, aquellos juicios con características especiales susceptibles de ser atraídos por la Tercera Sección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 19.
 
-Cuando en un juicio del conocimiento del Pleno Jurisdiccional de la Sala Superior o de las Secciones se planteen o sobrevengan causales de sobreseimiento por desistimiento o porque la autoridad dejó sin efecto la resolución o actos impugnados hasta antes del cierre de la instrucción, se estará a lo siguiente:
+Cuando en un juicio del conocimiento del Pleno Jurisdiccional de la Sala Superior o de las Secciones Primera o Segunda se planteen o sobrevengan causales de sobreseimiento por desistimiento o porque la autoridad dejó sin efecto la resolución o actos impugnados hasta antes del cierre de la instrucción, se estará a lo siguiente:
 
 I. En el caso del desistimiento, el Magistrado Instructor acordará lo conducente.
 
 II. Tratándose del supuesto de que la autoridad demandada deja sin efecto la resolución o actos impugnados, la Sala, o en su caso el Magistrado instructor en un juicio sumario, resolverá conforme a derecho corresponda.
 
-En ambos casos, mediante un informe dirigido al Pleno o Sección, la Sala de origen comunicará que en un juicio atraído se actualizó una causal de sobreseimiento por desistimiento, o que la autoridad dejó sin efecto la resolución o actos impugnados previo al cierre de la instrucción y que, con motivo de ello, se sobreseyó en el juicio. De este informe se dará cuenta mediante la emisión de un acuerdo donde, una vez constatado el sobreseimiento de mérito, se tendrá por concluida la carpeta de atracción.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+En ambos casos, mediante un informe dirigido al Pleno Jurisdiccional o Sección, la Sala de origen comunicará que en un juicio atraído se actualizó una causal de sobreseimiento por desistimiento, o que la autoridad dejó sin efecto la resolución o actos impugnados previo al cierre de la instrucción y que, con motivo de ello, se sobreseyó en el juicio. De este informe se dará cuenta mediante la emisión de un acuerdo donde, una vez constatado el sobreseimiento de mérito, se tendrá por concluida la carpeta de atracción.
 
 Finalmente, en el caso que el juicio no se sobresea, éste se remitirá a la Sala Superior a fin de resolver lo que en derecho corresponda.
 
 De presentarse el desistimiento cuando el expediente ya se encuentre en la Sala Superior y aún no se dicte sentencia definitiva, el Secretario General de Acuerdos o, en su caso, el Secretario Adjunto de Acuerdos que corresponda, acordará lo que en derecho proceda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 20.
 
-Cuando un proyecto sometido a consideración de alguna de las Secciones empate en la votación, se diferirá para una sesión posterior.
+Cuando un proyecto sometido a consideración de alguna de la Primera y Segunda Sección empate en la votación, se diferirá para una sesión posterior.
 
 Para la sesión en la que se hubiera listado nuevamente el asunto se convocará a los Magistrados y, en caso de ausencia o por impedimento de alguno de ellos, lo suplirá el Presidente del Tribunal.
 
 En caso de que un Magistrado disienta del criterio de la mayoría, podrá formular voto particular que se insertará o engrosará al final de la sentencia correspondiente, siempre que dicho voto fuere presentado a la Secretaría Adjunta dentro de los cinco días siguientes a la fecha de la sesión.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
-Cuando un asunto atraído por la Primera o Segunda Sección deba ser resuelto por el Pleno Jurisdiccional, o de éste a aquellas, se mantendrá el turno del ponente designado originalmente, cambiándose las claves de identificación en el expediente, según corresponda.
+Cuando un asunto atraído por la Primera o Segunda Sección deba ser resuelto por el Pleno Jurisdiccional, o de éste por aquellas, se mantendrá el turno del ponente designado originalmente, cambiándose las claves de identificación en el expediente, según corresponda.
 
 ### Capítulo III.
 
@@ -475,11 +517,11 @@ IV. Los magistrados que cumplan con los requisitos, podrán solicitar el uso de 
 
 V. Los Magistrados presentes emitirán su voto de manera personal, libre, secreta e intransferible, depositándolo por escrito en una urna;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-VI. Para ser electo presidente del Tribunal, se requerirá la mitad más uno de los votos de los magistrados presentes en la Sesión, que serán computados por dos Magistrados designados como escrutadores para tal efecto. En caso de que ningún aspirante a la Presidencia obtenga la mayoría requerida en la primera ronda, se celebrará una nueva votación en la que solo participarán como aspirantes las dos personas que hayan obtenido en la primera ronda el mayor número de votos, resultando electo aquella persona que alcance la mitad más uno de los votos a su favor. En caso de que en la segunda ronda tampoco se alcance la mayoría señalada, el decano con mayor antigüedad en la Sala Superior tendrá voto de calidad.
+VI. Para ser electo presidente del Tribunal, se requerirá la mitad más uno de los votos de los magistrados presentes en la Sesión, que serán computados por dos Magistrados designados como escrutadores para tal efecto. En caso de que ningún aspirante a la Presidencia obtenga la mayoría requerida en la primera ronda, se celebrará una nueva votación en la que solo participarán como aspirantes las dos personas que hayan obtenido en la primera ronda el mayor número de votos, resultando electo aquella persona que alcance la mitad más uno de los votos a su favor. En caso de que en la segunda ronda tampoco se alcance la mayoría señalada, el decano con mayor antigüedad en la Sala Superior que presida la sesión tendrá voto de calidad.
 
-En caso de que en la primera ronda ningún aspirante a la presidencia obtenga la mayoría requerida y resulten dos aspirantes empatados en segundo lugar, éstos se someterán a una nueva votación y quien alcance la mayoría de votos, pasará a otra ronda de votación con el que hubiera obtenido el primer lugar en la primera ronda, conforme a lo establecido en el párrafo anterior; en caso de que se presente un nuevo empate entre los aspirantes que quedaron en segundo lugar, el decano con mayor antigüedad en la Sala Superior tendrá voto de calidad.
+En caso de que en la primera ronda ningún aspirante a la presidencia obtenga la mayoría requerida y resulten dos aspirantes empatados en segundo lugar, éstos se someterán a una nueva votación y quien alcance la mayoría de votos, pasará a otra ronda de votación con el que hubiera obtenido el primer lugar en la primera ronda, conforme a lo establecido en el párrafo anterior; en caso de que se presente un nuevo empate entre los aspirantes que quedaron en segundo lugar, el decano con mayor antigüedad en la Sala Superior que presida la sesión tendrá voto de calidad.
 
 VII. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
@@ -517,11 +559,15 @@ I. Representar al Tribunal, a la Sala Superior, a los Plenos General y Jurisdicc
 
 II. Atender los recursos de reclamación de responsabilidad patrimonial en contra de las actuaciones atribuidas al propio Tribunal;
 
-III. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción como lo dispone el artículo 113, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; y mantener informado al Pleno General sobre las obligaciones y compromisos del Tribunal, por su participación en dicho Comité, o en comisiones de éste;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+III. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción como lo dispone el artículo 113, fracción I, de la Constitución Política de los Estados Unidos Mexicanos; y mantener informado al Pleno General sobre las obligaciones y compromisos del Tribunal, por su participación en dicho Comité, o en comisiones de éste;
 
 IV. Despachar la correspondencia del Tribunal;
 
-V. Convocar, por sí mismo o a través de las Secretarías General de Acuerdos o Auxiliar de la Junta, según corresponda, a sesiones a los Plenos General y Jurisdiccional de la Sala Superior y a la Junta, dirigir sus debates y conservar el orden;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+V. Convocar, por sí mismo o a través de las Secretarías General de Acuerdos o Técnica de la Junta, según corresponda, a sesiones a los Plenos General y Jurisdiccional de la Sala Superior y a la Junta, dirigir sus debates y conservar el orden;
 
 VI. Hacer del conocimiento del Pleno General y Jurisdiccional de la Sala Superior los asuntos de la competencia del mismo, así como aquéllos que considere necesarios;
 
@@ -537,7 +583,9 @@ X. Ejercer la facultad de atracción de los juicios con características especia
 
 XI. Dictar los acuerdos y providencias de trámite;
 
-XII. Tramitar los incidentes y los recursos, así como la queja, cuando se trate de juicios que se revisen ante el Pleno Jurisdiccional;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XII. Tramitar los incidentes y los recursos, así como la aclaración y la queja, cuando se trate de juicios que se revisen ante el Pleno Jurisdiccional;
 
 XIII. Aplicar medidas de apremio para hacer cumplir las determinaciones de los plenos;
 
@@ -551,11 +599,17 @@ XVII. Rendir mediante la Secretaría General los informes previos y justificados
 
 XVIII. Formular promociones, concurrir a las audiencias, rendir pruebas, formular alegatos, promover cualquier clase de incidentes y recursos, en los procedimientos administrativos o jurisdiccionales en los que el Tribunal sea parte, y delegar el ejercicio de esta función en servidores públicos subalternos sin perjuicio de su ejercicio directo;
 
-XIX. Informar mensualmente o cada vez que se requiera de las acciones jurídicas o los juicios que involucren al Pleno, a la Junta de Gobierno o a sus Magistrados;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XX. Tramitar y someter a la consideración del Pleno las excitativas de justicia y recusaciones de los Magistrados del Tribunal;
+XIX. Informar mensualmente o cada vez que se requiera de las acciones jurídicas o los juicios que involucren a los Plenos, a la Junta de Gobierno o a sus Magistrados;
 
-XXI. Rendir anualmente ante la Sala Superior un informe dando cuenta de la marcha del Tribunal y de las principales jurisprudencias establecidas por el Pleno y las Secciones. Dicho informe deberá rendirse en la primera semana de diciembre del año respectivo;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XX. Tramitar y someter a la consideración del Pleno Jurisdiccional las excitativas de justicia y recusaciones de los Magistrados del Tribunal;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XXI. Rendir anualmente ante el Pleno General un informe dando cuenta de la marcha del Tribunal, de las principales jurisprudencias establecidas por el Pleno Jurisdiccional y las Secciones, así como de las labores de la Junta. Dicho informe deberá rendirse en la primera semana de diciembre del año respectivo;
 
 XXII. Convocar a congresos y seminarios a Magistrados y servidores públicos de la carrera jurisdiccional del Tribunal, así como a asociaciones profesionales representativas e instituciones de educación superior, a fin de promover el estudio del derecho fiscal y administrativo, evaluar la impartición de justicia fiscal y administrativa y proponer las medidas pertinentes para mejorarla;
 
@@ -587,9 +641,9 @@ XXXIII. Designar a la persona servidora pública que lo represente como suplente
 
 XXXIV. Designar a la persona Titular de la Unidad para la Igualdad de Género y someter su nombramiento para aprobación de la Junta;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XXXV. Designar a la persona Titular del Centro Público de Mecanismos Alternativos y someter su nombramiento para aprobación de la Junta;
+XXXV. Designar a la persona Titular del Centro Público de Mecanismos Alternativos y someter su nombramiento para aprobación de la Junta, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -599,11 +653,13 @@ Se requerirá la autorización de la Junta para la suscripción de los convenios
 
 Para realizar sus funciones, el Presidente contará con las unidades administrativas y el personal de apoyo especializado establecidos en el presente Reglamento y que figuren en el presupuesto autorizado.
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 26 Bis.
 
-Los Magistrados que presidan las Secciones serán designadas por quienes integren la Sección correspondiente en la primera sesión de cada año, la cual será privada. Durarán en su cargo un año y no podrán ser reelectos para el periodo inmediato siguiente.
+Los Magistrados que presidan las Secciones serán designados por quienes integren la Sección correspondiente en la primera sesión de cada año, la cual será privada. Durarán en su cargo un año y no podrán ser reelectos para el periodo inmediato siguiente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 En el caso de faltas definitivas de las personas que presiden las Secciones, la Sección respectiva hará la designación para concluir el periodo faltante. La persona designada para concluir el periodo no estará impedida para ser designada en la misma función en el periodo inmediato siguiente.
 
@@ -633,7 +689,9 @@ VIII. Imponer las medidas de apremio para hacer cumplir las determinaciones de l
 
 IX. Ejercer la facultad de atracción de los juicios con características especiales, en términos de las disposiciones aplicables, a efecto de someterlos a la Sección para su resolución;
 
-X. Suplir temporalmente a los Magistrados de la Tercera Sección por ausencia o impedimento de alguno de sus integrantes, en términos del artículo 11 de la Ley, y;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+X. Para quienes presidan la Primera y Segunda Secciones, suplir temporalmente a los Magistrados de la Tercera Sección por ausencia o impedimento de alguno de sus integrantes, en términos del artículo 11 de la Ley, y;
 
 XI. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -757,9 +815,11 @@ Para el caso de la fracción IX, del citado artículo 42 de la Ley, la designaci
 
 El Estatuto establecerá la periodicidad de las evaluaciones a que se someterán los miembros del servicio profesional de carrera jurisdiccional, y fijará el procedimiento para el retiro de los miembros que no aprueben dos evaluaciones consecutivas, o que dejen de cumplir con los requisitos para el cargo que ocupan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 37.
 
-Los sistemas de servicio profesional de carrera jurisdiccional tendrán como principios rectores los siguientes:
+El sistema de servicio profesional de carrera jurisdiccional tendrán (sic) como principios rectores los siguientes:
 
 I. Honestidad: la obligación de conducirse rectamente conforme a lo que establecen las disposiciones que regulan su actuación, el Código de Ética del Tribunal, y al decoro y respeto a sus compañeros de labores;
 
@@ -775,9 +835,11 @@ V. Transparencia y rendición de cuentas en el ejercicio de las funciones a su c
 
 De conformidad con lo previsto en la Ley, la Junta elaborará el proyecto del Estatuto y emitirá las disposiciones generales para el sistema de carrera jurisdiccional, procurando la excelencia por medio de concursos y evaluaciones periódicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 39.
 
-Los concursos que se realicen para el ingreso a las categorías de los sistemas de carrera jurisdiccional del Tribunal, a que se refiere el artículo anterior, deberán divulgarse amplia y oportunamente por convocatorias públicas que contengan cuando menos:
+Los concursos que se realicen para el ingreso a las categorías del sistema de carrera jurisdiccional del Tribunal, a que se refiere el artículo anterior, deberán divulgarse amplia y oportunamente por convocatorias públicas que contengan cuando menos:
 
 I. Objeto, lugar, fecha y sede de los exámenes y entrevistas;
 
@@ -807,9 +869,13 @@ b. En el aspecto cualitativo;
 
 II. Regularidad del trabajo colegiado de Magistrados, Secretarios de Acuerdos y miembros del Sistema Profesional de Carrera Jurisdiccional;
 
-III. Comprobar, al examinar los expedientes, si su instrucción, integración, resolución y, en su caso, el cumplimiento de la sentencia, se han efectuado con arreglo a la ley.
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-IV. Cumplimiento de los plazos establecidos para la instrucción del juicio contencioso administrativo y acatamiento de las disposiciones legales que rigen el desahogo de sus etapas procesales;
+III. Comprobar, al examinar los expedientes, si su instrucción, integración, resolución y, en su caso, el cumplimiento de la sentencia o resolución, se han efectuado con arreglo a la ley.
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+IV. Cumplimiento de los plazos establecidos para la instrucción del juicio contencioso administrativo y del procedimiento de responsabilidades administrativas y acatamiento de las disposiciones legales que rigen el desahogo de sus etapas procesales;
 
 V. Cumplimiento regular de las normas de orden, respeto, vigilancia y disciplina vigentes en las diversas Salas del Tribunal;
 
@@ -855,11 +921,13 @@ Para la integración y desarrollo del Sistema de Información Estadística sobre
 
 El Sistema a que se refiere este artículo podrá diseñarse de tal manera que su estructura informática, su instrumentación y operación contemplen los siguientes elementos:
 
-I. Conocer los plazos de instrucción de los juicios contencioso administrativos que se tramitan en las Salas del Tribunal y los lapsos que transcurren entre cada tramo procesal del procedimiento;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+I. Conocer los plazos de instrucción de los juicios contencioso (sic) administrativos y de los procedimientos de responsabilidades que se tramitan en las Salas del Tribunal y los lapsos que transcurren entre cada tramo procesal del procedimiento;
 
-II. Conocer la productividad jurisdiccional por Sala, Magistrado y Secretario de Acuerdos, Actuario, respecto de demandas nuevas recibidas, sentencias dictadas, inventario inicial e inventario final al día de la consulta, acuerdos dictados, resoluciones interlocutorias emitidas, y todos aquellos datos jurisdiccionales necesarios para verificar el adecuado funcionamiento del Tribunal y sus Salas integrantes; así como, de forma general, el total de notificaciones practicadas y promociones recibidas.
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+II. Conocer la productividad jurisdiccional y en materia de responsabilidades administrativas por Sala, Magistrado y Secretario de Acuerdos, Actuario, respecto de demandas nuevas recibidas, sentencias dictadas, inventario inicial e inventario final al día de la consulta, acuerdos dictados, resoluciones interlocutorias emitidas, y todos aquellos datos jurisdiccionales necesarios para verificar el adecuado funcionamiento del Tribunal y sus Salas integrantes; así como, de forma general, el total de notificaciones practicadas y promociones recibidas.
 
 III. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
@@ -869,19 +937,25 @@ IV. Conocer los montos reclamados en cada juicio y clasificar la información po
 
 V. Identificar las materias de las resoluciones impugnadas en los juicios contencioso-administrativos que se promuevan ante el Tribunal, agrupando los datos por Sala Regional; así como las autoridades más recurrentes en la comisión de actos u omisiones que culminan con sentencias condenatorias.
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-VI. Conocer el número de amparos y revisiones fiscales que se presentan por Sala Regional, magistrado y secretario de acuerdos, identificando el total de casos en los que se ha confirmado la resolución impugnada y aquellos en los que se ha dado la razón a la parte quejosa o recurrente.
+VI. Conocer el número de amparos y revisiones fiscales que se presentan por Sala Regional, Magistrado y Secretario de Acuerdos, identificando el total de casos en los que se ha confirmado el acto reclamado y aquellos en los que se ha dado la razón a la parte quejosa o recurrente.
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-VII. Conocer los inventarios actualizados de los asuntos en trámite que tienen a su cargo los secretarios de acuerdos de cada Sala Regional, indicando la fecha de presentación de la demanda, el acto impugnado, la fecha y naturaleza del último acuerdo recaído en el expediente, la indicación de si el expediente está integrado y no quedan cuestiones pendientes de resolver, si cuenta con cierre de instrucción, si se encuentra en la fase de preparación del proyecto de sentencia, y
+VII. Conocer los inventarios actualizados de los asuntos en trámite que tienen a su cargo los secretarios de acuerdos de cada Sala Regional, indicando la fecha de presentación de la demanda, el acto impugnado, la fecha y naturaleza del último acuerdo recaído en el expediente, la indicación de si el expediente está integrado y no quedan cuestiones pendientes de resolver, si cuenta con cierre de instrucción, si se encuentra en la fase de preparación del proyecto de sentencia;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-VIII. Conocer el historial actualizado de los magistrados, secretarios de acuerdos para relacionar su productividad cuantitativa y cualitativa y su desempeño laboral, con su capacidad profesional y académica, y con su comportamiento y trayectoria en el Tribunal.
+VIII. Conocer el historial actualizado de los magistrados, secretarios de acuerdos para relacionar su productividad cuantitativa y cualitativa y su desempeño laboral, con su capacidad profesional y académica, y con su comportamiento y trayectoria en el Tribunal, y
 
-Los datos mensuales del Sistema del comportamiento jurisdiccional, deberán darse a conocer a los Magistrados integrantes de la Junta, dentro de la segunda quincena del mes siguiente a aquel al que corresponda la información.
+> <small>(ADICIONADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+IX. Conocer los procedimientos de responsabilidades administrativas que tuvieran inactividad procesal, en los que no hubiera algún trámite procesal pendiente de agotar, que tengan un lapso de ciento ochenta días de inactividad, que se haya actualizado la caducidad por inactividad procesal, o bien se encuentren pendientes de remitir a la Tercera Sección, con motivo de la interposición del recurso de apelación.
+
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Los datos mensuales del Sistema del comportamiento jurisdiccional y sancionador, deberán darse a conocer a los Magistrados integrantes de la Junta, dentro de la segunda quincena del mes siguiente a aquel al que corresponda la información.
 
 Con la información del Sistema, sin perjuicio de que conozcan las circunstancias por otros medios, la Junta deberá emitir las determinaciones necesarias para optimizar la función jurisdiccional, y tomar las medidas conducentes para ordenar la corrección de las desviaciones encontradas, así como aplicar, en su caso, las sanciones que procedan por las irregularidades que se hayan detectado, sin perjuicio de que se conozcan tales circunstancias por otros medios.
 
@@ -963,17 +1037,17 @@ IX. Querétaro, que comprende el Estado de Querétaro;
 
 X. Guanajuato I, que comprende los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Doctor Mora, Dolores Hidalgo, Jerécuaro, Salamanca, Salvatierra, San Diego de la Unión, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Tierra Blanca, Victoria, Villagrán y Xichú, del Estado de Guanajuato;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XI. Estado de México I, que comprende los municipios de: Atenco, de la Llave; Atizapán de Zaragoza, Atlautla, Axapusco, Ayapango, Coacalco de Berriozábal, Cocotitlán, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chalco, Chapa de Mota, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatepec de Morelos, Ecatzingo, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotepec, Jilotzingo, Juchitepec, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Nopaltepec, Otumba, Ozumba, Papalotla, Polotitlán, San Martín de las Pirámides, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco, Tonanitla, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Valle de Chalco Solidaridad, Villa del Carbón y Zumpango del Estado de México;
+XI. Estado de México I, que comprende los municipios de: Acolman, Aculco, Amecameca, Apaxco, Atenco, Atizapán de Zaragoza, Atlautla, Axapusco, Ayapango, Coacalco de Berriozábal, Cocotitlán, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chalco, Chapa de Mota, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatepec de Morelos, Ecatzingo, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotepec, Jilotzingo, Juchitepec, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Nopaltepec, Otumba, Ozumba, Papalotla, Polotitlán, San Martín de las Pirámides, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco, Tonanitla, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Valle de Chalco Solidaridad, Villa del Carbón y Zumpango del Estado de México;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 XII. Puebla, que comprenden los Estados de Puebla y de Tlaxcala;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XIII. Veracruz, que comprende el Estado de Veracruz;
+XIII. Veracruz, que comprende el Estado de Veracruz de Ignacio de la Llave;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -1269,17 +1343,19 @@ g) Tercera Sala Regional en Puebla y Auxiliar, con sede en la Ciudad de San Andr
 
 II. (DEROGADA, D.O.F. 31 DE ENERO DE 2024) (REPUBLICADA SU DEROGACIÓN, D.O.F. 23 DE MAYO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región metropolitana, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos.
+III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región Ciudad de México, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos.
 
 > <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2021)</small>
 
 La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios contenciosos administrativos que le sean turnados de manera aleatoria por la oficialía de partes común, señalados en el párrafo anterior; aquellos que le sean enviados para auxiliar a otras Salas; y, los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
 
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 52.
 
-Las Salas que establece el artículo anterior, auxiliarán a Salas Regionales que presenten problemas graves de sobrecargas de trabajo, tanto en la instrucción de los juicios ordinarios, como en el dictado de las sentencias definitivas, incluso en la instancia de aclaración, en el cumplimiento de ejecutorias del Poder Judicial de la Federación y en la instancia de queja, cuando corresponda a sentencias dictadas por ellas mismas, conforme lo determinen los acuerdos del Pleno General de la Sala Superior.
+Las Salas que establece la fracción primera del artículo anterior, auxiliarán a Salas Regionales que presenten problemas graves de sobrecargas de trabajo, tanto en la instrucción de los juicios ordinarios, como en el dictado de las sentencias definitivas, incluso en la instancia de aclaración, en el cumplimiento de ejecutorias del Poder Judicial de la Federación y en la instancia de queja, cuando corresponda a sentencias dictadas por ellas mismas y hasta su destino final, conforme lo determinen los acuerdos del Pleno General de la Sala Superior.
 
 ###### Artículo 53.
 
@@ -1335,7 +1411,9 @@ La ausencia temporal del Coordinador será suplida por un Magistrado de la misma
 
 El Presidente de la Sala que tenga a su cargo la coordinación a que se refiere el artículo anterior, tendrá en las Salas de su Región, las siguientes facultades:
 
-I. Recabar la información conducente que permita identificar contradicciones entre las sentencias emitidas por las Salas de la Región o de éstas con otras Salas Regionales o con las Secciones y el Pleno y, escuchar a los Magistrados integrantes de las Salas, en su caso, antes de formular la denuncia correspondiente ante el Presidente;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Recabar la información conducente que permita identificar contradicciones entre las sentencias emitidas por las Salas de la Región o de éstas con otras Salas Regionales o con las Primera y Segunda Secciones y el Pleno Jurisdiccional y, escuchar a los Magistrados integrantes de las Salas, en su caso, antes de formular la denuncia correspondiente ante el Presidente;
 
 II. Convocar a reuniones de trabajo a los Presidentes y Magistrados de las Salas, con el fin de proponer soluciones a los asuntos administrativos comunes, así como fijar los criterios aplicables para la resolución de trámites y gestiones a su cargo;
 
@@ -1359,7 +1437,9 @@ IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 Corresponde a los Presidentes de Salas Regionales:
 
-I. Informar a la Junta de su designación, por los Magistrados integrantes de la Sala Regional, y del nombramiento del Primer Secretario de Acuerdos de cada ponencia. En caso de que la designación del Primer Secretario de Acuerdos implique un cambio de nombramiento, deberá realizarse el trámite correspondiente ante la Dirección General de Recursos Humanos;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Informar a la Junta de su designación, por los Magistrados integrantes de la Sala Regional, y del nombramiento del Primer Secretario de Acuerdos de cada ponencia. En caso de que la designación del Primer Secretario de Acuerdos implique un cambio de nombramiento, deberá realizarse el trámite correspondiente ante la Dirección General de Recursos Humanos y Servicio Profesional de Carrera;
 
 II. Turnar a la Junta las propuestas de modificación y actualización a la información contenida en el Sistema de Control y Seguimiento de Juicios o en el Sistema de Justicia en Línea y sus Subsistemas, que le formulen los Magistrados Instructores;
 
@@ -1375,7 +1455,9 @@ VI. Las demás que le confieran las reglas de orden y disciplina de la Sala y ot
 
 Para el mejor ejercicio de las funciones conferidas en el artículo 36 de la Ley, corresponde a los Magistrados de Sala Regional:
 
-I. Designar al Primer Secretario de Acuerdos de Sala Regional de su ponencia, de entre aquellos que cumplan los requisitos que establece la Ley, e informarlo al Presidente de la Sala. En caso de que la designación implique un cambio de nombramiento, deberá realizarse el trámite correspondiente ante la Dirección General de Recursos Humanos;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Designar al Primer Secretario de Acuerdos de Sala Regional de su ponencia, de entre aquellos que cumplan los requisitos que establece la Ley, e informarlo al Presidente de la Sala. En caso de que la designación implique un cambio de nombramiento, deberá realizarse el trámite correspondiente ante la Dirección General de Recursos Humanos y Servicio Profesional de Carrera;
 
 II. Vigilar que los Secretarios de Acuerdos de Sala Regional que tengan adscritos formulen oportunamente los proyectos de acuerdos y resoluciones que les encomienden;
 
@@ -1407,7 +1489,9 @@ De las Salas Especializadas en materia de Responsabilidades Administrativas.
 
 La Tercera Sección de la Sala Superior, junto con las Salas Especializadas en Materia de Responsabilidades Administrativas del Tribunal impondrán las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades.
 
-Su competencia material queda comprendida por lo establecido en el artículo 38 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, y por las disposiciones de la Ley General de Responsabilidades Administrativas, en su carácter de autoridades resolutoras. Su competencia territorial atenderá a lo establecido por el artículo 50, fracción V, del presente Reglamento.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Su competencia material queda comprendida por lo establecido en el artículo 38 de la Ley, y por las disposiciones de la Ley General de Responsabilidades Administrativas, en su carácter de autoridades resolutoras. Su competencia territorial atenderá a lo establecido por el artículo 50, fracción V, del presente Reglamento.
 
 ###### Artículo 62.
 
@@ -1425,7 +1509,9 @@ En términos de lo dispuesto por el artículo 49 de la Ley, los Magistrados Supe
 
 I. Cubrir las faltas de los Magistrados de Sala Regional en los casos previstos en la Ley;
 
-II. Sustituir a los Magistrados de Sala Regional que se integren a la Junta durante el tiempo de su encargo;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+II. Sustituir a los Magistrados de Sala Regional que se integren a la Junta durante el tiempo de su encargo, y
 
 III. Cuando no se encuentren cubriendo las faltas señaladas en las fracciones anteriores, desempeñar las tareas que les encomiende el Pleno General, a propuesta de la Junta, orientadas esencialmente a resolver las sobrecargas de trabajo de las Salas Regionales o problemáticas de trabajo jurisdiccional que requieran de medidas excepcionales.
 
@@ -1457,7 +1543,9 @@ III. El Pleno General podrá formular comentarios al anteproyecto;
 
 IV. El Pleno General podrá invitar a los titulares de la Secretaría Operativa de Administración y de la Dirección General de Programación y Presupuesto a la sesión en que se discuta el proyecto de Presupuesto, para escuchar sus comentarios respecto de las observaciones que se formulen;
 
-V. A efecto de que los Magistrados integrantes del Pleno General puedan discutir y, en su caso, aprobar el proyecto de Presupuesto, la Junta deberá entregar a los Magistrados una nota explicativa donde se señalen las modificaciones y variaciones más relevantes;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+V. A efecto de que los Magistrados integrantes del Pleno General puedan discutir y, en su caso, aprobar el proyecto de Presupuesto, la Junta deberá entregar a los Magistrados una nota explicativa donde se señalen las modificaciones y variaciones más relevantes, y
 
 VI. Una vez agotada la discusión del anteproyecto de Presupuesto, los Magistrados integrantes del Pleno General emitirán su voto.
 
@@ -1521,7 +1609,9 @@ IV. La evaluación interna de servidores públicos, para efectos de aprobar y so
 
 V. La elaboración y expedición del Estatuto del Sistema Profesional de Carrera Jurisdiccional;
 
-VI. La instauración y resolución del procedimiento previsto en el artículo 44 de la Ley;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VI. La instauración y resolución del procedimiento previsto en el artículo 44 de la Ley, y
 
 VII. Las demás que el Pleno General, el Pleno Jurisdiccional y la Junta estimen necesario ejercer conjuntamente, de conformidad con la Ley, este Reglamento y demás disposiciones jurídicas aplicables.
 
@@ -1553,7 +1643,9 @@ I. Tramitar la publicación en la Revista de este Tribunal y en el Diario Oficia
 
 II. Elaborar el informe estadístico mensual y anual de los juicios resueltos por el Pleno Jurisdiccional de la Sala Superior, preferentemente por medios electrónicos;
 
-III. Formular, y someter a la aprobación de los Plenos, según corresponda, los manuales de organización y procedimientos del área a su cargo;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+III. Formular, y someter a la aprobación del Pleno Jurisdiccional y del Pleno General, según corresponda, los manuales de organización y procedimientos del área a su cargo;
 
 IV. Dirigir las actividades del personal adscrito a la Secretaría General a su cargo;
 
@@ -1579,11 +1671,13 @@ XIV. Recopilar las versiones mecanográficas de las sesiones del Pleno General y
 
 XV. Recopilar y resguardar las versiones mecanográficas, los audios y videos de las sesiones de la Sala Superior, del Pleno General y del Pleno Jurisdiccional, y enviarlas a las ponencias;
 
-XVI. Certificar la fecha en que haya quedado firme una sentencia emitida por el Pleno Jurisdiccional, cuando deba cumplirse en el plazo a que se refiere el artículo 52 de la Ley Federal de Procedimiento Contencioso Administrativo;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XVI. Certificar la fecha en que haya quedado firme una sentencia emitida por el Pleno Jurisdiccional;
 
 XVII. Dar cuenta al Presidente de los casos en que procede requerir a la autoridad demandada, para que informe sobre el cumplimiento dado a una sentencia emitida por el Pleno Jurisdiccional, una vez transcurrido el plazo mencionado en la fracción anterior;
 
-XVIII. Certificar la firmeza de una sentencia emitida por el Pleno Jurisdiccional de la Sala Superior, a solicitud de parte interesada;
+XVIII. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
 XIX. Coadyuvar en la integración del informe Anual de Labores de la Presidencia y de la Memoria Anual de la Junta mediante los informes respectivos.
 
@@ -1619,11 +1713,13 @@ XII. Remitir a la Coordinación de Compilación y Sistematización de Tesis, pre
 
 XIII. Recopilar y resguardar las versiones mecanográficas, los audios y los videos de las sesiones de la Sección y enviarlas a las ponencias para los engroses respectivos;
 
-XIV. Certificar la fecha en que haya quedado firme una sentencia emitida por la Sección, cuando deba cumplirse en el plazo a que se refiere el artículo 52 de la Ley Federal de Procedimiento Contencioso Administrativo;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XIV. Certificar la fecha en que haya quedado firme una sentencia emitida por la Sección;
 
 XV. Dar cuenta al Presidente de Sección de los casos en que procede requerir a la autoridad demandada, para que informe sobre el cumplimiento dado a una sentencia emitida por la Sección, una vez transcurrido el plazo mencionado en la fracción anterior, y
 
-XVI. Certificar la firmeza de una sentencia emitida por la Sección, a solicitud de parte interesada.
+XVI. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
 En los juicios tramitados a través del Sistema de Justicia en Línea, y siempre que sea procedente, ejercerá las facultades a que se refiere este artículo mediante el citado Sistema.
 
@@ -1723,7 +1819,9 @@ a) Corroborar que los criterios aislados propuestos, reúnan los requisitos nece
 
 4. Reflejar un criterio relevante;
 
-5. No contener datos particulares como nombres, cantidades, objetos;
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+5. No contener datos particulares como nombres, cantidades, objetos, y
 
 6. El texto del criterio aislado debe corresponder a lo resuelto en la sentencia respectiva.
 
@@ -1785,17 +1883,23 @@ X. Supervisar el uso de los sellos de la Sala, que estén bajo su cargo;
 
 XI. Supervisar que los procesos de gestión documental de los expedientes de la mesa correspondiente a la ponencia de su adscripción, se realicen conforme la normatividad aplicable;
 
-XII. Certificar la fecha en que haya quedado firme una sentencia emitida por la Sala Regional, cuando deba cumplirse en el plazo a que se refiere el artículo 52 de la Ley Federal de Procedimiento Contencioso Administrativo;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XII. Certificar la fecha en que haya quedado firme una sentencia emitida por la Sala Regional;
 
 XIII. Dar cuenta al Presidente de la Sala Regional de que procede requerir a la autoridad demandada, para que informe sobre el cumplimiento dado a una sentencia emitida por la Sala Regional, una vez transcurrido el plazo mencionado en la fracción anterior;
 
-XIV. Certificar la firmeza de una sentencia emitida por la Sala Regional, a solicitud de la parte interesada;
+XIV. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
 XV. Cuando tenga conocimiento de que los juicios que se tramitan a través del Sistema de Justicia en Línea fueron modificados, alterados, destruidos o que en ellos se provocó la pérdida de información, avisará de inmediato al Magistrado Instructor;
 
-XVI. Revisar y registrar, cuando así proceda, los documentos electrónicos o en papel que acrediten la personalidad y representación de las partes en los juicios que se tramiten y que sean presentados en la Oficialía de Partes y en el Módulo de Registro de las Salas ubicadas en la Región a la que esté adscrito y hecho lo anterior, remitir la documentación respectiva a la Secretaría General de Acuerdos en el caso de las Salas Regionales Metropolitanas o al Coordinador o Presidente de las Salas Regionales con sede distinta a la Ciudad de México, en los casos en que sea designado para tal efecto por estos últimos;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XVII. Elaborar las versiones públicas correspondientes a los expedientes que estén a su cargo, de conformidad con los lineamientos dispuestos en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás ordenamientos en materia de Transparencia aplicables, y
+XVI. Revisar y registrar, cuando así proceda, los documentos electrónicos o en papel que acrediten la personalidad y representación de las partes en los juicios que se tramiten y que sean presentados en la Oficialía de Partes y en el Módulo de Registro de las Salas ubicadas en la Región a la que esté adscrito y hecho lo anterior, remitir la documentación respectiva a la Secretaría General de Acuerdos en el caso de las Salas Regionales en la Ciudad de México o al Coordinador o Presidente de las Salas Regionales con sede distinta a la Ciudad de México, en los casos en que sea designado para tal efecto por estos últimos;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XVII. Elaborar las versiones públicas correspondientes a los expedientes que estén a su cargo, de conformidad con los lineamientos dispuestos en la Ley de Transparencia y demás ordenamientos en materia de Transparencia aplicables, y
 
 XVIII. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
@@ -1949,7 +2053,9 @@ VII. Rendir un informe mensual y anual de actividades a la Junta y al Presidente
 
 VIII. Las demás que les confieran otras disposiciones jurídicas aplicables y las que les encomiende la Junta.
 
-Sin perjuicio de lo anterior, al Coordinador de Oficialía de Partes de Salas Regionales Metropolitanas y con sedes fuera de la Ciudad de México, le corresponderá rendir los informes a que se refiere la fracción VII del presente artículo, así como vigilar y supervisar que el personal que tenga adscrito cumpla con las obligaciones establecidas en el presente Reglamento para los Oficiales de Partes.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Sin perjuicio de lo anterior, al Coordinador de Oficialía de Partes de Salas Regionales en la Ciudad de México y con sedes fuera de la Ciudad de México, le corresponderá rendir los informes a que se refiere la fracción VII del presente artículo, así como vigilar y supervisar que el personal que tenga adscrito cumpla con las obligaciones establecidas en el presente Reglamento para los Oficiales de Partes.
 
 ###### Artículo 86.
 
@@ -2097,11 +2203,11 @@ Por cuanto hacen a las sesiones públicas de las Salas Regionales que se difunda
 
 De los Lineamientos para el Registro de Peritos del Tribunal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 94.
 
-La Junta llevará el Registro de Peritos del Tribunal, así como de las personas defensoras de oficio, para los efectos de los Lineamientos para Investigar, Substanciar y Sancionar las Responsabilidades Administrativas de las Personas Servidoras Públicas señaladas en las fracciones I a XI del artículo 42 de la Ley, así como para el personal administrativo contemplado en las fracciones XII a XIV y último párrafo del referido artículo, que solicite el Órgano Interno de Control, por conducto de la Unidad de Peritos Terceros, conforme a las normas, reglas de operación y lineamientos que se establezcan.
+La Junta llevará, por conducto de la Unidad de Peritos Terceros, el Registro de Peritos del Tribunal, así como de las personas defensoras de oficio que se soliciten para la atención a los procedimientos de responsabilidades administrativas incoados en contra de las personas servidoras públicas del propio Tribunal, conforme a las normas, reglas de operación y lineamientos que se establezcan.
 
 La integración del Registro de Peritos del Tribunal, así como el desempeño, la permanencia, designación, aceptación del cargo y pago de sus honorarios se sujetarán a los lineamientos siguientes:
 
@@ -2143,11 +2249,17 @@ a. Requerir al perito para que formalice la aceptación y protesta del cargo;
 
 b. Entregar al perito copia del cuestionario de la prueba pericial requerida y demás elementos que considere necesarios, para que éste presente su dictamen, acompañado de una plantilla que contenga el importe y calendarización de sus honorarios y gastos de traslado, en su caso;
 
-c. Comunicar a la Junta, por conducto de la Unidad de Peritos, cualquier irregularidad en la conducta o ética de los peritos, o bien si consideran que han infringido alguna disposición normativa, y
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
-d. Solicitar a la Junta, por conducto del Presidente de la Sala Regional, se autorice el pago de honorarios por un monto superior a los establecidos en el arancel, previa solicitud del perito y justificando su incremento. La solicitud de referencia será analizada por la Unidad de Peritos, la cual verificará que cumpla con lo señalado en este inciso, así como la normativa aplicable y propondrá a la Junta el acuerdo que corresponda para su aprobación.
+c. Comunicar a la Junta, por conducto de la Unidad de Peritos Terceros, cualquier irregularidad en la conducta o ética de los peritos, o bien si consideran que han infringido alguna disposición normativa, y
 
-El Coordinador, el Presidente de Sala Regional o, en su caso, el Magistrado Instructor cuando el juicio se tramite en la vía sumaria, será el responsable de solicitar a la Junta se gestione la búsqueda e inscripción de peritos en materias específicas requeridas en los juicios, que no estén incluidos en el Registro de Peritos del Tribunal, y podrá apoyar a la Unidad de Peritos en la realización de dichas tareas en la sede de la Región.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+d. Solicitar a la Junta, por conducto del Presidente de la Sala Regional, se autorice el pago de honorarios por un monto superior a los establecidos en el arancel, previa solicitud del perito y justificando su incremento. La solicitud de referencia será analizada por la Unidad de Peritos Terceros, la cual verificará que cumpla con lo señalado en este inciso, así como la normativa aplicable y propondrá a la Junta el acuerdo que corresponda para su aprobación.
+
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+El Coordinador, el Presidente de Sala Regional o, en su caso, el Magistrado Instructor cuando el juicio se tramite en la vía sumaria, será el responsable de solicitar a la Junta se gestione la búsqueda e inscripción de peritos en materias específicas requeridas en los juicios, que no estén incluidos en el Registro de Peritos del Tribunal, y podrá apoyar a la Unidad de Peritos Terceros en la realización de dichas tareas en la sede de la Región.
 
 ###### Artículo 96.
 
@@ -2283,7 +2395,9 @@ IV. A la Secretaría Operativa de Tecnologías de la Información y las Comunica
 
 2) La Dirección General de los Sistemas de Información, y
 
-3) Las Delegaciones de Tecnologías de la Información y Telecomunicaciones.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+3) Las Delegaciones de Tecnologías de la Información y Comunicaciones.
 
 ### Capítulo II.
 
@@ -2325,9 +2439,9 @@ XIII. Coadyuvar en la preparación de la memoria anual del funcionamiento del Tr
 
 XIV. Supervisar el correcto funcionamiento de las unidades de Peritos Terceros y de Transparencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XV. Ejecutar la política que, en materia de transparencia, acceso a la información pública y protección de datos, determiné el Comité de Transparencia;
+XV. Ejecutar la política que, en materia de transparencia, acceso a la información pública y protección de datos, determine el Comité de Transparencia;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -2439,9 +2553,9 @@ XXII. Hacer del conocimiento de las áreas administrativas que tenga adscritas, 
 
 XXIII. Supervisar el ejercicio del presupuesto, los pagos, llevar la contabilidad y elaborar los informes necesarios, a través de la Dirección General de Programación y Presupuesto;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XXIV. Aplicar, bajo su más estricta responsabilidad, a través de la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, la normativa en materia de personal que emita el Tribunal, y autorizar las comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta, las que se otorgarán siempre que estén debidamente justificadas de manera excepcional por los requirentes, presentadas a la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, quién realizará la validación;
+XXIV. Aplicar, bajo su más estricta responsabilidad, a través de la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, la normativa en materia de personal que emita el Tribunal, y autorizar las comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta, las que se otorgarán de manera excepcional siempre que estén debidamente justificadas por los requirentes, presentadas a la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, quién realizará la validación;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -2637,7 +2751,9 @@ De las Unidades Administrativas de la Junta.
 
 Corresponde a la Unidad de Peritos Terceros:
 
-I. Llevar y mantener actualizado el registro de Peritos del Tribunal;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Llevar y mantener actualizado el registro de Peritos y de personas defensoras de oficio del Tribunal;
 
 II. Atender las solicitudes de los Presidentes de las Salas Regionales, Especializadas o Auxiliares, respecto a aquellos peritos cuyas materias no estén consideradas en el Registro de Peritos;
 
@@ -2645,7 +2761,7 @@ III. Realizar los procesos para la incorporación de peritos al Registro del Tri
 
 IV. Proponer los acuerdos para la inscripción, permanencia o cancelación de peritos en el Registro, efectuando los asientos que ordene la Junta;
 
-V. Proponer a la Junta el arancel que servirá de base para el pago de los honorarios de los peritos;
+V. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
 VI. Comunicar a la Junta cualquier irregularidad en la conducta o ética de los peritos, así como de cualquier infracción a alguna disposición normativa por parte de éstos;
 
@@ -2689,9 +2805,9 @@ VIII. Proponer a la Junta los programas de capacitación y asesoría archivísti
 
 IX. Coordinar con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, las actividades destinadas a la modernización y automatización de los procesos archivísticos y a la gestión de documentos electrónicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-X. Promover, en coordinación con el Centro de Estudios, el aprovechamiento del conocimiento jurídico resguardado en los archivos del Tribunal.
+X. Promover, en coordinación con el Centro de Estudios, el aprovechamiento del conocimiento jurídico resguardado en los archivos del Tribunal, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -2769,9 +2885,9 @@ Corresponde a la Dirección General de Recursos Humanos y Servicio Profesional d
 
 I. Planear, organizar, dirigir y coordinar, entre otras, las acciones relativas al nombramiento, contratación, control de asistencia, credencialización, pago de remuneraciones, prestaciones, incentivos o cualquier otro pago, de conformidad con la normativa aplicable y los acuerdos de la Junta; así como, expedir y suscribir las constancias de nombramiento, bajas, licencias y comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-II. Administrar los recursos humanos del Tribunal con base en la Ley y en el Estatuto, así como las políticas, normas y procedimientos que aprueben el Pleno Jurisdiccional y la Junta en el ámbito de sus respectivas competencias incluyendo los sistemas de carrera;
+II. Administrar los recursos humanos del Tribunal con base en la Ley y en el Estatuto, así como las políticas, normas y procedimientos que aprueben el Pleno General y la Junta en el ámbito de sus respectivas competencias incluyendo el sistema de carrera;
 
 III. Realizar las acciones relacionadas con la actualización de la estructura ocupacional del Tribunal, previa autorización de la Junta;
 
@@ -2805,41 +2921,41 @@ XI. Integrar y resguardar los expedientes de las personas servidoras públicas d
 
 XII. Participar en la elaboración, revisión y difusión de las Condiciones Generales de Trabajo, aplicarlas y vigilar su cumplimiento;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XIII. Coordinar e implementar los programas de servicio social y prácticas profesionales y meritorios jurisdiccionales en el Tribunal;
+XIII. Coordinar e implementar los programas de servicio social, prácticas profesionales y meritorios jurisdiccionales en el Tribunal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XIV. Elaborar los perfiles de puesto de los Órganos Administrativos del Tribunal, así como los relacionados con los sistemas de carrera jurisdiccional; y someterlos a aprobación de la Junta, previa validación de las respectivas áreas;
+XIV. Elaborar los perfiles de puesto de los Órganos Administrativos del Tribunal, así como los relacionados con el sistema de carrera jurisdiccional; y someterlos a aprobación de la Junta, previa validación de las respectivas áreas;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XV. Identificar e integrar las necesidades de capacitación administrativa de las personas servidoras públicas del Tribunal, así como elaborar y someterlos a aprobación de la Junta, previa validación a la Secretaría Operativa de Administración, los programas relacionados con la capacitación del personal en el ámbito administrativo del Tribunal, así como celebrar los instrumentos jurídicos correspondientes;
+XV. Identificar e integrar las necesidades de capacitación administrativa de las personas servidoras públicas del Tribunal, así como elaborar y someter a aprobación de la Junta, previa validación a la Secretaría Operativa de Administración, los programas relacionados con la capacitación del personal en el ámbito administrativo del Tribunal, así como celebrar los instrumentos jurídicos correspondientes;
 
 > <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 XVI. Aplicar la normativa en materia de personal que emita el Tribunal;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XVII. Proponer a la Secretaría Operativa de Administración los contenidos, criterios técnicos, metodologías y herramientas para instrumentar los sistemas de carrera jurisdiccional del Tribunal, a fin de ser sometidos a la Junta;
+XVII. Proponer a la Secretaría Operativa de Administración los contenidos, criterios técnicos, metodologías y herramientas para instrumentar el sistema de carrera jurisdiccional del Tribunal, a fin de ser sometidos a la Junta;
 
 > <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 XVIII. Aplicar el Estatuto y las normas de carrera jurisdiccional del Tribunal que emita la Junta;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XIX. Verificar el adecuado desempeño del servicio médico dentro del Tribunal, en los casos de las Salas con sede distinta a la Ciudad de México lo hará en coordinación con la Dirección General de Delegaciones Administrativas;
+XIX. Verificar el adecuado desempeño del servicio médico dentro del Tribunal, en los casos de las Salas con sede distinta a la Ciudad de México en coordinación con la Dirección General de Delegaciones Administrativas;
 
 > <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 XX. Coordinar el adecuado desempeño del servicio médico dentro del Tribunal;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XXI. Validar las solicitudes de comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta, siempre que estén debidamente justificadas de manera excepcional por los requirentes, y
+XXI. Validar las solicitudes de comisiones temporales de las personas servidoras públicas que no sean competencia exclusiva de la Junta, siempre que estén debidamente justificadas, de manera excepcional, por los requirentes, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -2903,7 +3019,9 @@ V. Asesorar y coordinar, con las delegaciones administrativas, los procesos de a
 
 VI. Mantener actualizado el “perfil de puesto” que deben cubrir las personas que aspiren a ocupar una delegación administrativa que, en su caso, propongan las Presidencias de las Salas Regionales, en coordinación con la Dirección General de Recursos Humanos y Servicio Profesional de Carrera;
 
-VII. Coordinar con la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, los asuntos relacionados con los programas y las acciones de capacitación, especialización y actualización que requieran las delegaciones administrativas, así como gestionar las necesidades de capacitación de la Dirección General;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VII. Coordinar con la Dirección General de Recursos Humanos y Servicio Profesional de Carrera, los asuntos relacionados con los programas y las acciones de capacitación, especialización y actualización que requieran las delegaciones administrativas, así como gestionar las necesidades de capacitación de tal Dirección General;
 
 VIII. Dar seguimiento, asesorar y fungir como enlace con la Unidad de Transparencia, respecto del cumplimiento de las obligaciones de las delegaciones administrativas en materia de transparencia, acceso a la información y protección de datos personales;
 
@@ -2913,7 +3031,9 @@ X. Coordinar el cumplimiento de directrices, protocolos, políticas y procedimie
 
 XI. Supervisar que las delegaciones administrativas cuenten con los controles suficientes que les permitan vigilar los bienes del Tribunal de las Salas Regionales a las que se encuentren adscritos, así como mantener actualizados los resguardos correspondientes;
 
-XII. Verificar el cumplimiento de las delegaciones administrativas sobre los informes que le sean solicitados por las Direcciones Generales de Recursos Humanos, Programación y Presupuesto y Recursos Materiales y Servicios Generales;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XII. Verificar el cumplimiento de las delegaciones administrativas sobre los informes que le sean solicitados por las Direcciones Generales de Recursos Humanos y Servicio Profesional de Carrera, Programación y Presupuesto, y Recursos Materiales y Servicios Generales;
 
 XIII. Elaborar y someter a autorización del titular de la Secretaría Operativa de Administración, el programa de visitas a las delegaciones administrativas para verificar el adecuado desempeño de sus titulares, y
 
@@ -2955,9 +3075,9 @@ VII. Realizar las investigaciones de mercado de adquisición de bienes y contrat
 
 VIII. Elaborar y suscribir los contratos y convenios modificatorios de adquisiciones y arrendamiento de bienes inmuebles, de prestación de servicios, así como de arrendamiento inmobiliario; y en su caso, rescindirlos o darlos por terminados anticipadamente;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-IX. Supervisar las solicitudes que realicen las Delegaciones Administrativas a la Unidad de Asuntos Jurídicos, en el ámbito de su competencia, respecto de los proyectos de contratos, convenios modificatorios y demás actos que emita, previo a su firma;
+IX. Realizar las solicitudes a la Unidad de Asuntos Jurídicos, en el ámbito de su competencia, respecto de los proyectos de contratos, convenios modificatorios y demás actos que emita, previo a su firma;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3215,15 +3335,13 @@ VIII. Informar oportunamente a la Secretaría Operativa de Tecnologías de la In
 
 IX. Apoyar personalmente en las labores de control y vigilancia de la Junta, verificando la concordancia de los datos registrados en los Sistemas y los asentados en los expedientes en trámite respectivos, y
 
-X. Las demás que le confieran otras disposiciones jurídicas y la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+X. Las demás que le confieran otras disposiciones jurídicas y la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones.
 
 ###### Artículo 113.
 
-El Centro Público de Mecanismos Alternativos es un órgano especializado del Tribunal, con sede en la Ciudad de México, para dar cumplimiento a Ley General de Mecanismos Alternativos de Solución de Controversias.
-
-El Centro Público de Mecanismos Alternativos contará con la organización, estructura, personal y funciones establecidas en el reglamento de la materia, emitido por el Pleno General, en términos de la Ley General de Mecanismos Alternativos de Solución de Controversias.
+(DEROGADO, D.O.F. 10 DE JULIO DE 2025)
 
 ### Capítulo IV.
 
@@ -3239,9 +3357,9 @@ I. Centro Público de Mecanismos Alternativos;
 
 II. Dirección General de Comunicación Social;
 
-> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-III. Dirección General del Centro de Estudios Superiores en Materia de Derecho Fiscal y Administrativo del Tribunal Federal de Justicia Administrativa;
+III. Dirección General del Centro de Estudios Superiores en Materia de Derecho Fiscal y Administrativo del Tribunal;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3271,11 +3389,9 @@ Corresponde a la Dirección General del Centro de Estudios:
 
 I. Elaborar, proponer, implementar, impartir, operar y ejecutar los doctorados, maestrías, especializaciones, diplomados, cursos, talleres, seminarios y programas permanentes de capacitación de forma continua y actualizada en las materias competencia del Tribunal, mediante las modalidades escolarizada y no escolarizada, para capacitar a las personas servidoras públicas y al personal de carrera jurisdiccional que laboran en dicho Tribunal, así como a personas externas al mismo, informando a la Junta y considerando, en materia de responsabilidades administrativas, los criterios que emita el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-II. Diseñar y ejecutar programas de capacitación, actualización, así como realizar la evaluación y certificación de personas facilitadoras en las materias fiscal y administrativa, de conformidad con lo establecido en la Ley General de Mecanismos Alternativos de Solución de Controversias y la normativa que se expida para tales efectos;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-Asimismo, participar en la celebración de convenios con instituciones públicas y privadas para la impartición de cursos de capacitación orientados a la obtención de certificación de personas facilitadoras.
-
-Tratándose de personas externas al Tribunal, podrán establecerse cuotas de recuperación;
+II. Diseñar y ejecutar programas de capacitación, actualización, así como realizar la evaluación y certificación de personas facilitadoras en las materias fiscal y administrativa, de conformidad con lo establecido en la Ley General de Mecanismos Alternativos de Solución de Controversias y la normativa que se expida para tales efectos; así como participar en la celebración de convenios con instituciones públicas y privadas para la impartición de cursos de capacitación orientados a la obtención de la certificación de personas facilitadoras. Tratándose de personas externas al Tribunal, podrán establecerse cuotas de recuperación;
 
 III. Otorgar, negar o renovar la certificación de las personas facilitadoras en las materias fiscal y administrativa, de conformidad con lo establecido en la Ley General de Mecanismos Alternativos de Solución de Controversias y la normativa que se expida para tales efectos;
 
@@ -3309,7 +3425,9 @@ XVII. Supervisar y coordinar la actualización de la información contenida en l
 
 XVIII. Contar, en el ámbito de su competencia, con representaciones acreditadas en términos de lo dispuesto en la Ley del Servicio Exterior Mexicano.
 
-XIX. Actuar en representación del Tribunal ante las autoridades, dependencias y entidades competentes en materia de propiedad intelectual, a efecto de gestionar, inscribir y mantener actualizados los derechos de autor, certificados de licitud de título y contenido, y otros registros análogos, de la Revista y demás obras que publique, así como resguardar y conservar los registros y demás documentación que obtenga, en coordinación con la Unidad de Asuntos Jurídicos del Tribunal, en los ámbitos de sus competencia;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XIX. Actuar en representación del Tribunal ante las autoridades, dependencias y entidades competentes en materia de propiedad intelectual, a efecto de gestionar, inscribir y mantener actualizados los derechos de autor, certificados de licitud de título y contenido, y otros registros análogos, de la Revista y demás obras que publique, así como resguardar y conservar los registros y demás documentación que obtenga, en coordinación con la Unidad de Asuntos Jurídicos del Tribunal, en los ámbitos de su competencia;
 
 XX. Elaborar el informe anual del Centro de Estudios y presentarlo a la Junta;
 
@@ -3317,7 +3435,9 @@ XXI. Coadyuvar en la preparación del Informe Anual de Labores y de la Memoria A
 
 XXII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-Sin perjuicio de su ejercicio directo por parte de la Dirección General del Centro de Estudios, al titular de la Dirección de Difusión corresponderá el ejercicio de las atribuciones previstas en las fracciones XV, XVI, XVII, XVIII y XIX del presente artículo, quedando sujetas las actividades de difusión en coordinación con la Dirección General de Comunicación Social en términos del artículo 117, fracciones IV, VIII y XIII de este Reglamento.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Sin perjuicio de su ejercicio directo por parte de la Dirección General del Centro de Estudios, al titular de la Dirección de Difusión corresponderá el ejercicio de las atribuciones previstas en las fracciones XV, XVI, XVII, XIX y XXI del presente artículo, quedando sujetas las actividades de difusión en coordinación con la Dirección General de Comunicación Social en términos del artículo 117, fracciones IV, VIII y XIII de este Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3403,7 +3523,9 @@ IX. Gestionar la ejecución de las acciones de capacitación y profesionalizaci�
 
 X. Coordinar, por sí o a través de terceros, la difusión, promoción y sensibilización de las personas servidoras públicas respecto a los contenidos de la normativa nacional e internacional relacionada con la materia de igualdad entre mujeres y hombres, perspectiva de género, prevención de la violencia de género y la discriminación, en coordinación con las áreas del Tribunal que corresponda de acuerdo a sus atribuciones, y previa aprobación de la Dirección General de Comunicación Social en términos del artículo 117, fracciones IV, VIII y X de este Reglamento;
 
-XI. Proponer al Presidente del Tribunal la construcción de redes de colaboración con diferentes actores del sector público y privado para la ejecución de las acciones, programas y políticas sugeridas por la Comisión para la Igualdad;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XI. Proponer a la Presidencia del Tribunal la construcción de redes de colaboración con diferentes actores del sector público y privado para la ejecución de las acciones, programas y políticas sugeridas por la Comisión para la Igualdad;
 
 XII. Dar atención a las solicitudes de acceso a la información pública, así como las obligaciones en materia de transparencia que en su caso le correspondan;
 
@@ -3419,21 +3541,21 @@ Corresponde a la Unidad de Asuntos Jurídicos:
 
 I. Revisar y validar la estructura legal de los convenios, contratos, acuerdos y demás actos jurídicos que celebre, emita u otorgue el Tribunal, así como proporcionar asesoría jurídica sobre su interpretación, suspensión, rescisión, revocación, terminación, nulidad y demás aspectos y efectos jurídicos;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-II. Previa autorización de la Junta, presentar denuncia o querella ante el Ministerio Público competente, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico, así como desahogar ante la autoridad competente los mecanismos alternativos de solución de controversias, la suspensión condicional del proceso o procedimiento abreviado o cualquier otro que la normativa en materia penal establezca y sea aplicable, siempre y cuando sea acorde con la legislación correspondiente, no afecten el orden público y el interés social, ni los intereses del Tribunal.
+II. Previa autorización de la Junta, presentar denuncia o querella ante el Ministerio Público competente, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico, así como desahogar ante la autoridad competente los mecanismos alternativos de solución de controversias, la suspensión condicional del proceso o procedimiento abreviado o cualquier otro que la normativa en materia penal establezca y sea aplicable, siempre y cuando sea acorde con la legislación correspondiente, no afecten el orden público y el interés social, ni los intereses del Tribunal;
 
 III. Representar al Presidente, al Pleno General, al Pleno Jurisdiccional de la Sala Superior y a la Junta ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades de trabajo en las controversias laborales, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en los que intervenga, interponiendo los recursos que procedan, absolver posiciones a nombre del Presidente o de los integrantes de la Junta, ejerciendo la representación en el curso del proceso respectivo;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-IV. Representar, sin perjuicio de su ejercicio directo, al Tribunal, a la Presidencia, al Pleno General, a la Junta, a los personas titulares de la Secretaría General de Acuerdos, de la Secretaría Técnica de la Junta de Gobierno y Administración, de la Secretaría Operativa de Administración y de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, así como a Direcciones Generales en los juicios de amparo en los que hayan sido señalados como autoridades responsables o terceros interesados, según corresponda, en términos de la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando el actuar de dichas autoridades no devenga del ejercicio de sus facultades jurisdiccionales, según se trate.
+IV. Representar, sin perjuicio de su ejercicio directo, al Tribunal, a la Presidencia, al Pleno General, a la Junta, a las personas titulares de la Secretaría General de Acuerdos, de la Secretaría Técnica de la Junta, de la Secretaría Operativa de Administración y de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, así como a Direcciones Generales en los juicios de amparo en los que hayan sido señalados como autoridades responsables o terceros interesados, según corresponda, en términos de la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando el actuar de dichas autoridades no devenga del ejercicio de sus facultades jurisdiccionales, según se trate.
 
-Asimismo, brindar orientación, en el ámbito de sus atribuciones, a las personas servidoras públicas que así lo soliciten, por el ejercicio de sus atribuciones y facultades, y para el cumplimiento de sus obligaciones, durante el desempeño del servicio público.
+Asimismo, brindar orientación, en el ámbito de sus atribuciones, a las personas servidoras públicas que así lo soliciten, por el ejercicio de sus atribuciones y facultades, y para el cumplimiento de sus obligaciones, durante el desempeño del servicio público;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-V. Representar a la persona que presida el Tribunal en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando sea parte.
+V. Representar a la persona que presida el Tribunal en las acciones de inconstitucionalidad y controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, cuando sea parte;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3471,43 +3593,75 @@ Para los casos de ausencia de las personas servidoras públicas titulares de los
 
 Corresponde a la Unidad de la Oficina del Presidente:
 
-1. Otorgar el apoyo necesario al Presidente en las actividades inherentes a su cargo;
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 1], D.O.F. 10 DE JULIO DE 2025)</small>
 
-2. Brindar asesoría al Presidente en los asuntos que éste le encomiende;
+I. Otorgar el apoyo necesario al Presidente en las actividades inherentes a su cargo;
 
-3. Dirigir y organizar el personal adscrito a la Presidencia del Tribunal, en los términos que el Presidente indique;
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 2], D.O.F. 10 DE JULIO DE 2025)</small>
 
-4. Recibir las solicitudes, sugerencias y planteamientos que se presenten a la Presidencia del Tribunal, canalizarlas a las áreas o instancias competentes y, en su caso, darles seguimiento;
+II. Brindar asesoría al Presidente en los asuntos que éste le encomiende;
 
-5. Coordinar la debida atención a los compromisos y obligaciones del Presidente como integrante del Sistema Nacional Anticorrupción;
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 3], D.O.F. 10 DE JULIO DE 2025)</small>
 
-6. Auxiliar al Presidente en el cumplimiento de las atribuciones conferidas en la Ley, el presente Reglamento, o en otro ordenamiento legal, y
+III. Dirigir y organizar el personal adscrito a la Presidencia del Tribunal, en los términos que el Presidente indique;
 
-7. Las demás que le encomiende el Presidente.
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 4], D.O.F. 10 DE JULIO DE 2025)</small>
+
+IV. Recibir las solicitudes, sugerencias y planteamientos que se presenten a la Presidencia del Tribunal, canalizarlas a las áreas o instancias competentes y, en su caso, darles seguimiento;
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 5], D.O.F. 10 DE JULIO DE 2025)</small>
+
+V. Coordinar la debida atención a los compromisos y obligaciones del Presidente como integrante del Sistema Nacional Anticorrupción;
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 6], D.O.F. 10 DE JULIO DE 2025)</small>
+
+VI. Auxiliar al Presidente en el cumplimiento de las atribuciones conferidas en la Ley, el presente Reglamento, o en otro ordenamiento legal, y
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES NUMERAL 7], D.O.F. 10 DE JULIO DE 2025)</small>
+
+VII. Las demás que le encomiende el Presidente.
+
+> <small>(ADICIONADO [N. DE E. PRIMER PÁRRAFO], D.O.F. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 120.
 
-Corresponde a la persona Titular del Centro Público de Mecanismos Alternativos.
+El Centro Público de Mecanismos Alternativos es un órgano especializado del Tribunal para dar cumplimiento a la Ley General de Mecanismos Alternativos de Solución de Controversias, el cual podrá tener presencia física en las distintas regiones establecidas en el presente Reglamento, de acuerdo con la disponibilidad presupuestaria y de recursos humanos y materiales.
 
-I. Proponer a la Junta de Gobierno y Administración los nombramientos de las personas servidoras públicas que integren el Centro Público de Mecanismos Alternativos;
+> <small>(ADICIONADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
-II. Vigilar el cumplimiento de Ley General de Mecanismos Alternativos de Solución de Controversias;
+El Centro Público de Mecanismos Alternativos contará con la organización, estructura, personal y funciones establecidas en el reglamento de la materia, emitido por el Pleno General.
 
-III. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos, así como supervisar su correcto funcionamiento;
+> <small>(REFORMADO Y REUBICADO [N. DE E. ESTE PÁRRAFO], D.O.F. 10 DE JULIO DE 2025)</small>
 
-IV. Suscribir convenios de colaboración con instituciones públicas y privadas, nacionales o extranjeras, para la impartición de cursos de capacitación y programas académicos orientados a la Certificación de las personas facilitadoras, conforme al reglamento que se expida para el Centro Público de Mecanismos Alternativos, y
+Corresponde a la persona Titular del Centro Público de Mecanismos Alternativos:
 
-V. Las demás que señale el Reglamento del Centro Público de Mecanismos Alternativos de Solución de Controversias del Tribunal Federal de Justicia Administrativa y demás disposiciones en la materia.
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-El Centro Público de Mecanismos Alternativos podrá tener presencia física en las distintas regiones establecidas en el Reglamento Interior del Tribunal, de acuerdo con la disponibilidad presupuestaria y de recursos humanos y materiales.
+I. Proponer a la Junta los nombramientos de las personas servidoras públicas que integren el Centro Público de Mecanismos Alternativos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+II. Vigilar el cumplimiento de la Ley General de Mecanismos Alternativos de Solución de Controversias;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+III. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos, así como supervisar su correcto funcionamiento, y
+
+IV. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+V. Las demás que señale el Reglamento del Centro Público de Mecanismos Alternativos y demás disposiciones en la materia.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+> <small>[N. DE E. REUBICADO, D.O.F. 10 DE JULIO DE 2025]</small>
 
 ### Capítulo V.
 
 De la Transparencia y el Acceso a la Información.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 ###### Artículo 121.
 
@@ -3521,9 +3675,9 @@ II. La Unidad de Transparencia, y
 
 III. El Comité de Transparencia.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
-Dichas unidades se integrarán, operarán y realizarán las funciones a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como los ordenamientos en las materias que se expidan.
+Dichas unidades se integrarán, operarán y realizarán las funciones a que se refiere la Ley de Transparencia y la Ley de Protección de Datos Personales, así como los ordenamientos que se expidan en esas materias.
 
 La Junta podrá emitir toda la normatividad complementaria que regule dichas materias al interior del Tribunal a propuesta del Comité de Transparencia.
 
@@ -3565,7 +3719,7 @@ XIV. Fungir como enlace del Tribunal ante la Autoridad Garante;
 
 XV. Elaborar propuestas de normativa interna en materia de transparencia, acceso a la información y protección de datos personales, para someterlas a consideración del Comité de Transparencia;
 
-XVI. Las demás que le confiera la Presidencia del Tribunal o la Junta siempre y cuando no contravengan las disposiciones jurídicas de la materia;
+XVI. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
 XVII. Asesorar a las áreas jurisdiccionales y administrativas, sobre la propuesta de clasificación de la información o declaratorias de inexistencia de información, conforme a los lineamientos y criterios sustentados por la Autoridad Garante y por el Comité de Transparencia;
 
@@ -3573,19 +3727,23 @@ XVIII. Prorrogar a petición de las áreas jurisdiccionales y administrativas, y
 
 XIX. Requerir a los enlaces de transparencia para que realicen la búsqueda de la información solicitada en los plazos previstos por la legislación aplicable y, en su caso, efectuar las gestiones necesarias para su entrega;
 
-XX. Elaborar propuestas de normatividad interna en materia de transparencia, acceso a la información y protección de datos personales, para someterlas a consideración del Comité de Transparencia;
+XX. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
-XXI. Verificar que las áreas jurisdiccionales y administrativas operen conforme a los procedimientos para la atención de las solicitudes de acceso a la información y protección de datos personales, aprobados por la Autoridad Garante y el Comité de Transparencia;
+XXI. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
 XXII. Requerir a las áreas jurisdiccionales y administrativas que actualicen la información pública, conforme a las leyes de transparencia, los lineamientos y criterios, el calendario de actualización, las observaciones realizadas por la Autoridad Garante y las demás disposiciones que apruebe el Comité de Transparencia;
 
-XXIII. Requerir a las áreas jurisdiccionales y administrativas que actualicen la información pública, conforme a las leyes de transparencia, los lineamientos y criterios, el calendario de actualización, las observaciones realizadas por el Órgano Garante y las demás disposiciones que apruebe el Comité de Transparencia;
+XXIII. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
 
-XXIV. Elaborar los informes para presentarlos ante el Comité de Transparencia y posteriormente, de ser el caso, a la Autoridad Garante;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XXV. Elaborar propuestas de atención a requerimientos formulados por la Autoridad Garante, para someterlos a consideración del Comité de Transparencia, y
+XXIV. Elaborar los informes para presentarlos ante el Comité de Transparencia y posteriormente, de ser el caso, a la Autoridad Garante, y
 
-XXVI. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Coordinación.
+XXV. (DEROGADA, D.O.F. 10 DE JULIO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XXVI. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Presidencia del Tribunal o la Junta.
 
 La persona titular de la Unidad de Transparencia designará a un oficial de protección de datos personales, quien coadyuvará con las funciones de la Unidad en esa materia y realizará las atribuciones establecidas en la Ley de la materia y demás disposiciones jurídicas aplicables.
 
@@ -3597,9 +3755,9 @@ La persona titular de la Unidad de Transparencia designará a un oficial de prot
 
 El Comité de Transparencia es el órgano especializado, responsable de instruir, coordinar y supervisar el cumplimiento de las obligaciones de transparencia, y el debido ejercicio del derecho de acceso a la información y protección de datos personales, conforme a los principios y bases establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las leyes de la materia.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
-Dicho cuerpo colegiado estará integrado por un número impar de miembros, los cuales serán elegidos por la Junta de conformidad con lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública.
+Dicho cuerpo colegiado estará integrado por un número impar de miembros, los cuales serán elegidos por la Junta de conformidad con lo dispuesto en la Ley de Transparencia.
 
 El Comité de Transparencia, además de las atribuciones que le confieren las leyes específicas de la materia, tendrá las siguientes:
 
@@ -3627,9 +3785,11 @@ VI. Vigilar el cumplimiento de las resoluciones y recomendaciones que emita la A
 
 VII. Las demás que establezca la normatividad vigente.
 
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 125.
 
-En los asuntos de la competencia del Tribunal, en el primer acuerdo que se dicte en el juicio, deberá señalarse a las partes el derecho que les asiste para oponerse por escrito, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la omisión, en el plazo de tres días hábiles, significa su oposición para que la sentencia respectiva y, en su caso, las jurisprudencias, precedentes o tesis aisladas, emitidos por el Pleno de la Sala Superior o las Secciones, así como, los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal y por los Magistrados en los juicios sumarios, que se publiquen en la Revista, incluyan los referidos datos personales.
+En los asuntos de la competencia del Tribunal, en el primer acuerdo que se dicte en el juicio, deberá señalarse a las partes el derecho que les asiste para oponerse por escrito, en relación con terceros, a la publicación de sus datos personales, en la inteligencia de que la omisión, en el plazo de tres días hábiles, significa su oposición para que la sentencia respectiva y, en su caso, las jurisprudencias, precedentes o tesis aisladas, emitidos por el Pleno Jurisdiccional o las Secciones, así como, los criterios aislados emitidos por las Salas Regionales, Especializadas o Auxiliares del Tribunal y por los Magistrados en los juicios sumarios, que se publiquen en la Revista, incluyan los referidos datos personales.
 
 ### Capítulo VI.
 
@@ -3687,13 +3847,13 @@ XII. Participar en los comités, subcomités y grupos conforme a las disposicion
 
 XIII. Supervisar la atención de quejas y denuncias contra personal operativo, la ejecución de investigaciones y la emisión del acuerdo resolutivo sobre la presunción de responsabilidad, para su turno a la Dirección General de Responsabilidades y Registro Patrimonial;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XIV. Instruir los procedimientos, resolver los recursos, así como realizar la defensa jurídica de las resoluciones que emita, representando legalmente al Órgano Interno de Control ante las instancias que conozcan de sus asuntos promovidos con motivo del ejercicio de sus atribuciones. Dicha facultad de representación podrá ser ejercida de manera conjunta o separa por las personas titulares de las Direcciones Generales de Responsabilidades y Registro Patrimonial, y de Denuncias;
+XIV. Instruir los procedimientos, resolver los recursos, así como realizar la defensa jurídica de las resoluciones que emita, representando legalmente al Órgano Interno de Control ante las instancias que conozcan de sus asuntos promovidos con motivo del ejercicio de sus atribuciones. Dicha facultad de representación podrá ser ejercida de manera conjunta o separada por las personas titulares de las Direcciones Generales de Responsabilidades y Registro Patrimonial, y de Denuncias;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XV. Conocer de los recursos de reclamación;
+XV. Conocer de los recursos de reclamación que le competan, en términos de la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3749,17 +3909,17 @@ Corresponde a la Dirección General de Denuncias:
 
 I. Recibir las denuncias que se formulen por posibles actos u omisiones que pudieran constituir faltas administrativas cometidas por las personas servidoras públicas a que hace referencia las fracciones XII a la XIV y último párrafo del artículo 42 de la Ley, o particulares; por conductas sancionables de conformidad con la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-II. Practicar de oficio o por denuncia, o derivado de auditorías practicadas por las autoridades competentes, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de las personas servidoras públicas o de los particulares por conductas sancionables, conforme a lo establecido en el Título IV, artículo 113 de la Constitución Política de los Estados Unidos Mexicanos; la Ley; la Ley General de Protección de Datos Personales en Posesión de los Sujetos Obligados, así como lo dispuesto en la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos vigentes en materia de responsabilidades administrativas;
+II. Practicar de oficio o por denuncia, o derivado de auditorías practicadas por las autoridades competentes, las investigaciones por posibles actos u omisiones que pudieran constituir faltas administrativas por parte de las personas servidoras públicas o de los particulares por conductas sancionables, conforme a lo establecido en el Título IV, artículo 113 de la Constitución Política de los Estados Unidos Mexicanos; la Ley; la Ley de Protección de Datos Personales, así como lo dispuesto en la Ley General de Responsabilidades Administrativas y demás ordenamientos jurídicos vigentes en materia de responsabilidades administrativas;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
 III. Implementar un registro de las denuncias recibidas, investigaciones iniciadas y acciones realizadas hasta la resolución de cada una;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-IV. Citar, cuando lo estime necesario, a la parte denunciante para la ratificación de la denuncia, dicha facultad puede hacerse extensiva, para la citación de otras personas servidoras públicas del Tribunal que tengan conocimiento de los hechos denunciados a fin de constatar la veracidad de los mismos, o, en su caso, aporten elementos, datos o indicios que complementen las investigaciones en contra de las personas denunciadas;
+IV. Citar, cuando lo estime necesario, a la parte denunciante para la ratificación de la denuncia, dicha facultad puede hacerse extensiva, para la citación de otras personas servidoras públicas del Tribunal que tengan conocimiento de los hechos denunciados a fin de constatar la veracidad de los mismos o, en su caso, aporten elementos, datos o indicios que complementen las investigaciones en contra de las personas denunciadas;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3773,9 +3933,9 @@ VII. Ordenar la práctica de visitas de verificación, las cuales se sujetarán 
 
 VIII. Concluidas las diligencias de investigación que integren las denuncias presentadas ante el Órgano Interno de Control, procederá al análisis de los hechos, así como de la información recabada, a fin de determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como faltas administrativas; de existir elementos de presunta responsabilidad, calificará dichas conductas como graves o no graves; notificará el acuerdo a la parte denunciante, y una vez concluido este proceso, remitirá el informe de presunta responsabilidad administrativa a la Dirección General de Responsabilidades y Registro Patrimonial;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+REFORMADA, D.O.F. 10 DE JULIO DE 2025)
 
-IX. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos el de conclusión y archivo del expediente cuando así proceda, así como el informe de presunta responsabilidad administrativa, con el fin de turnarlo a la autoridad substanciadora en el que se incluirá la calificación de la falta administrativa;
+IX. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos el de conclusión y archivo del expediente cuando así proceda, así como el informe de presunta responsabilidad administrativa, con el fin de turnarlo a la autoridad substanciadora, en el que se incluirá la calificación de la falta administrativa;
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3795,17 +3955,17 @@ Para efectos del párrafo anterior, podrá emitir cualquier acuerdo de trámite 
 
 XIII. Acordar con la persona titular del Órgano Interno de Control la resolución de los asuntos relevantes a su cargo;
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XIV. Coordinar la atención a las solicitudes de acceso a la información pública remitidas al Órgano Interno de Control por la Unidad de Transparencia del Tribunal con apego a la Ley General de Transparencia y Acceso a la Información Pública;
+XIV. Coordinar la atención a las solicitudes de acceso a la información pública remitidas al Órgano Interno de Control por la Unidad de Transparencia del Tribunal con apego a la Ley de Transparencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
 XV. Practicar las actuaciones y diligencias que se estimen procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de actos u omisiones que pudieran constituir faltas administrativas, de conformidad con la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XVI. Imponer las medidas de apremio que establece la Ley General de Responsabilidades Administrativas para las autoridades investigadoras para hacer cumplir sus determinaciones, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
+XVI. Imponer las medidas de apremio que establece la Ley General de Responsabilidades Administrativas, en los términos que señalen las autoridades investigadoras para hacer cumplir sus determinaciones, y solicitar las medidas cautelares que se estimen necesarias para la mejor conducción de sus investigaciones;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3855,7 +4015,9 @@ XV. Coordinar las actividades para la divulgación y asesoría sobre la obligaci
 
 XVI. Coordinar, vigilar y controlar la recepción, registro y resguardo de documentación relativa a la comprobación de la presentación de las declaraciones de situación patrimonial de las personas servidoras públicas del Tribunal obligadas a presentarlas, así como realizar la evolución de las declaraciones patrimoniales de las personas servidoras públicas contempladas en las fracciones XII a XIV y último párrafo del artículo 42 de la Ley que instruya la persona titular del Órgano Interno de Control; y de ser el caso, la verificación de la evolución patrimonial de los declarantes, pudiendo emitir la determinación que en términos de la Ley General de Responsabilidades Administrativas y demás normativa aplicable que corresponda;
 
-XVII. Formular requerimientos a las autoridades competentes, dependencias y entidades públicas, así como a las instituciones bancarias y entidades financieras, cuando lo considere necesario, los datos relacionados con registros y operaciones e información bancaria que se requiera para llevar a cabo la evolución y verificación patrimonial;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 10 DE JULIO DE 2025)</small>
+
+XVII. Formular requerimientos a las autoridades competentes, dependencias y entidades públicas, así como a las instituciones bancarias y entidades financieras, cuando lo considere necesario, en cuanto a los datos relacionados con registros y operaciones e información bancaria que se requiera para llevar a cabo la evolución y verificación patrimonial;
 
 La información y documentación podrá solicitarse a las instituciones financieras por conducto de la Comisión Nacional Bancaria y de Valores, Comisión Nacional de Seguros y Fianzas; y la Comisión Nacional de Ahorro para el Retiro previo cumplimiento de los requisitos legales exigidos;
 
@@ -3887,7 +4049,9 @@ V. Presentar, previa aprobación de la persona titular del Órgano Interno de Co
 
 VI. Atender las instrucciones de la persona titular del Órgano Interno de Control, para verificar que se hayan cumplido las recomendaciones de las observaciones formuladas por actos de fiscalización de la Auditoría Superior de la Federación y del propio Órgano Interno;
 
-VII. Turnar a la Dirección General Denuncias el informe de resultados de las auditorías, visitas e inspecciones, cuando de los mismos se adviertan probables faltas administrativas de servidores públicos y/o de particulares;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VII. Turnar a la Dirección General de Denuncias el informe de resultados de las auditorías, visitas e inspecciones, cuando de los mismos se adviertan probables faltas administrativas de servidores públicos y/o de particulares;
 
 VIII. Participar, de manera presencial o por medios electrónicos, en los procesos de entrega de papel de desecho y bienes muebles instrumentales e informáticos, que soliciten los órganos administrativos del Tribunal, en cumplimiento a las disposiciones establecidas en la materia;
 
@@ -3895,13 +4059,19 @@ IX. Intervenir, en términos de lo establecido en el presente Reglamento, de man
 
 X. Formular requerimientos a las personas titulares de los órganos administrativos del Tribunal sobre información, documentación y demás datos necesarios para llevar a cabo las atribuciones y funciones encomendadas en materia de fiscalización, incluyendo aquella que las disposiciones legales consideren con carácter reservada o confidencial, con la obligación de mantener ese tratamiento conforme a lo que determinen las leyes;
 
-XI. Coordinar el cumplimento de las disposiciones en materia de transparencia, acceso a la información y de datos personales relacionado con los informes de resultados de las auditorías y revisiones de control interno practicadas;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-XII. Registrar cronológicamente todos los ejemplares de actas que remitan las personas servidoras públicas salientes y realizar conciliaciones con la Dirección de Administración de Personal para conocer los casos del personal que ha causado baja y que habiendo transcurrido quince días naturales, no haya remitido su acta de entrega recepción o no la haya formulado, a efecto de poder requerirle el cumplimiento de su obligación; y en caso de no hacerlo iniciar el procedimiento para remitir a lo establecido en la Ley General de Responsabilidades Administrativas;
+XI. Coordinar el cumplimento (sic) de las disposiciones en materia de transparencia, acceso a la información y de datos personales, relacionado con los informes de resultados de las auditorías y revisiones de control interno practicadas;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XII. Registrar cronológicamente todos los ejemplares de actas que remitan las personas servidoras públicas salientes y realizar conciliaciones con la Dirección de Administración de Personal para conocer los casos del personal que ha causado baja y que habiendo transcurrido quince días naturales, no haya remitido su acta de entrega recepción o no la haya formulado, a efecto de poder requerir el cumplimiento de su obligación; y en caso de no hacerlo, iniciar el procedimiento establecido en la Ley General de Responsabilidades Administrativas;
 
 XIII. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda a petición de autoridad competente, y
 
-XIV. Las demás que le confiera el Pleno General por conducto de la persona titular del Órgano Interno de Control.
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XIV. Las demás que le confiera el Pleno General, por conducto de la persona titular del Órgano Interno de Control.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -3911,7 +4081,9 @@ Corresponde a la Dirección General de Auditoría del Desempeño y Control Inter
 
 I. Presentar a la persona titular del Órgano Interno de Control, las auditorías del desempeño y las revisiones al control interno que se llevarán a cabo a los órganos administrativos del Tribunal, para su integración al Programa Anual de Actividades del Órgano Interno de Control que se presente al Pleno General para su autorización;
 
-II. Dirigir y coordinar el inicio y la ejecución de las auditorías al desempeño y las revisiones al control interno, a los órganos administrativos del Tribunal, las cuales podrán abarcar periodos de diversos ejercicios conforme al Programa Anual de Actividades autorizado para verificar la observancia de las normas, programas y metas establecidos, así como evaluar la eficiencia y eficacia en el cumplimiento de sus objetivos; así como los acuerdos que emita el Pleno General y la Junta;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+II. Dirigir y coordinar el inicio y la ejecución de las auditorías al desempeño y las revisiones al control interno, a los órganos administrativos del Tribunal, las cuales podrán abarcar periodos de diversos ejercicios conforme al Programa Anual de Actividades autorizado para verificar la observancia de las normas, programas y metas establecidas, y evaluar la eficiencia y eficacia en el cumplimiento de sus objetivos; así como los acuerdos que emita el Pleno General y la Junta;
 
 III. Verificar los hallazgos determinados en las auditorías del desempeño y las revisiones al control interno y presentar los resultados preliminares a los responsables de los órganos administrativos auditados y revisados; y posteriormente formular las observaciones y recomendaciones preventivas sobre acciones susceptibles de mejora y de ser el caso correctivas, que procedan para su atención en el plazo que se establezca;
 
@@ -3929,7 +4101,9 @@ IX. Atender las invitaciones de la Dirección General de Recursos Materiales y S
 
 X. Con los resultados de la Revisión a los Sistemas de Registro y de los Procedimientos de Control Interno que aplican los diversos órganos administrativos del Tribunal, presentar en su caso, una propuesta de actualización de la normativa vigente ante el Comité de Control Interno Institucional y promover que la Junta tenga conocimiento de los acuerdos del Comité relacionados con la normativa en materia administrativa;
 
-XI. Evaluar la consistencia de los Programas Operativos Anuales en cuanto a su planeación estratégica y el cumplimiento de sus metas y objetivos, en el ámbito de competencia;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XI. Evaluar la consistencia de los Programas Operativos Anuales en cuanto a su planeación estratégica y el cumplimiento de sus metas y objetivos, en el ámbito de su competencia;
 
 XII. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda a petición de autoridad competente, y
 
@@ -3943,9 +4117,11 @@ De los Sistemas de Servicios Jurisdiccionales.
 
 Del Sistema de Control y Seguimiento de Juicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 131.
 
-El registro y control de las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional, las Secciones, las Salas Regionales, o las ponencias de los Magistrados Instructores en juicios que se tramiten en la vía sumaria, se efectuarán en forma electrónica, utilizando el Sistema de Control y Seguimiento de Juicios respecto de los juicios que se tengan registrados en él hasta que se concluyan totalmente, o bien, el Sistema de Justicia en Línea respecto de los juicios que ingresen al Tribunal a partir de la fecha que determine la Junta mediante Acuerdo General que expida para tal efecto, sea que se tramiten en línea o en la vía tradicional, todo ello de acuerdo a lo siguiente:
+El registro y control de las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional, las Secciones Primera o Segunda, las Salas Regionales, o las ponencias de los Magistrados Instructores en juicios que se tramiten en la vía sumaria, se efectuarán en forma electrónica, utilizando el Sistema de Control y Seguimiento de Juicios respecto de los juicios que se tengan registrados en él hasta que se concluyan totalmente, o bien, el Sistema de Justicia en Línea respecto de los juicios que ingresen al Tribunal a partir de la fecha que determine la Junta mediante Acuerdo General que expida para tal efecto, sea que se tramiten en línea o en la vía tradicional, todo ello de acuerdo a lo siguiente:
 
 I. La Dirección General de los Sistemas de Información tendrá a su cargo el análisis, diseño, construcción, operación y mantenimiento del Sistema de Control y Seguimiento de Juicios, así como brindar la asesoría, capacitación y apoyo técnico a los usuarios del mismo, además propondrá a la Junta las modificaciones que se requieran para su mejor funcionamiento;
 
@@ -3959,7 +4135,9 @@ V. Los Magistrados de Sala Superior y los Presidentes de las Salas Regionales, s
 
 VI. Los Magistrados Instructores supervisarán la correcta y oportuna captura de los datos a los Sistemas, correspondientes a las acciones realizadas por los servidores públicos que intervienen en su operación;
 
-VII. El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de Secciones, los Secretarios de Acuerdos de Sala Superior y de Sala Regional, los Coordinadores de Actuaría Común, los Oficiales de Partes, los Archivistas, Actuarios, y el personal de apoyo sustantivo del Pleno Jurisdiccional de la Sala Superior y de las Salas Regionales, deberán capturar los datos que requieran los Sistemas, en los términos previstos en este Reglamento;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VII. El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de Secciones Primera o Segunda, los Secretarios de Acuerdos de Sala Superior y de Sala Regional, los Coordinadores de Actuaría Común, los Oficiales de Partes, los Archivistas, Actuarios, y el personal de apoyo sustantivo del Pleno Jurisdiccional de la Sala Superior y de las Salas Regionales, deberán capturar los datos que requieran los Sistemas, en los términos previstos en este Reglamento;
 
 VIII. Los Presidentes de las Salas Regionales deberán enviar en forma mensual a la Dirección General de los Sistemas de Información, a través de medios electrónicos, las copias de resoluciones y acuerdos de la actividad jurisdiccional, generados por los Magistrados Instructores integrantes de la Sala, respecto de los juicios que se registren y controlen a través del Sistema de Control y Seguimiento de Juicios;
 
@@ -4013,7 +4191,9 @@ De las Responsabilidades Administrativas.
 
 Para efectos de lo previsto en el artículo 50 de la Ley, la notoria buena conducta que deberán observar los servidores públicos establecidos en las fracciones I al XI, del artículo 42 de la Ley, deberá expresarse en:
 
-I. Un comportamiento apegado al Código de Ética del Tribunal, durante su desempeño profesional;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+I. Un comportamiento apegado al Código de Ética y al Código de Conducta del Tribunal, durante su desempeño profesional;
 
 II. Una relación laboral respetuosa, armónica y transparente hacia sus colaboradores;
 
@@ -4029,7 +4209,9 @@ Son causas de responsabilidad de los servidores públicos del Tribunal, además 
 
 Sin perjuicio de lo anterior, incurren en responsabilidad los servidores públicos del Tribunal que, sin autorización emitida por autoridad competente, sustraigan de sus instalaciones expedientes de los juicios en trámite o concluidos; o bien, aquellos servidores públicos que informen a las partes o en general a personas ajenas al Tribunal, el sentido de los proyectos de sentencias, antes de que éstas se emitan por el órgano jurisdiccional competente y se notifiquen formalmente. Lo anterior, con la salvedad que, en casos emblemáticos, la Presidencia del Tribunal podrá emitir comunicados sobre determinadas decisiones desde el momento en que se dicten.
 
-La Junta investigará, respecto de conductas que puedan constituir responsabilidades administrativas, de los servidores públicos establecidos en las fracciones I al XI, del artículo 42, de la Ley, conforme a los procedimientos establecidos por la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+La Junta investigará, respecto de conductas que puedan constituir responsabilidades administrativas, de los servidores públicos establecidos en las fracciones I al XI, del artículo 42, de la Ley, conforme a los procedimientos establecidos por la Ley General de Responsabilidades Administrativas y en términos de los Lineamientos que al efecto se emitan.
 
 Para efectos del párrafo anterior, la Junta por conducto de uno de sus Magistrados integrantes investigará las posibles faltas administrativas, determinando su existencia o inexistencia y en su caso, calificando las conductas como graves o no graves.
 
@@ -4037,17 +4219,23 @@ Para efectos del párrafo anterior, la Junta por conducto de uno de sus Magistra
 
 Concluida la etapa de investigación, tratándose de las conductas calificadas como no graves, el Magistrado que realizó la misma emitirá el informe de presunta responsabilidad administrativa, o en el caso de no existir elementos un acuerdo de conclusión y archivo del expediente, en términos de la Ley General de Responsabilidades Administrativas.
 
-La Junta por conducto de otro de sus Magistrados substanciará el procedimiento de responsabilidades administrativas, en los términos de la ley de la materia y una vez concluida ésta, someterá a los tres Magistrados restantes que no participaron en la investigación y substanciación, el proyecto de resolución para que se emita el fallo que corresponda, respecto de las conductas no graves.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+La Junta por conducto de otro de sus Magistrados substanciará el procedimiento de responsabilidades administrativas, en los términos de la ley de la materia y una vez concluida ésta, se someterá a los Magistrados que no participaron en la investigación, el proyecto de resolución para que se emita el fallo que corresponda, respecto de las conductas no graves.
 
 > <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
 En caso excepcional, cuando no exista quórum legal con motivo de la falta de nombramientos de magistrados, para la votación de la resolución a que se refiere el párrafo anterior, el Pleno General designará, mediante Acuerdo y por el periodo de un año, a una magistrada o magistrado para esos efectos.
 
-Respecto de los servidores públicos mencionados en las fracciones V a XI del artículo 42 de la Ley, tratándose de conductas graves, la Junta de Gobierno concluida la substanciación del procedimiento enviará el expediente a la Sala competente del Tribunal, en términos de la Ley de la materia.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Respecto de los servidores públicos mencionados en las fracciones V a XI del artículo 42 de la Ley, tratándose de conductas graves, la Junta concluida la substanciación del procedimiento enviará el expediente a la Sala competente del Tribunal, en términos de la Ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 136.
 
-Para el caso de las conductas graves realizadas por los servidores públicos contemplados en las fracciones I a IV del artículo 42 de la Ley; y, para atender los supuestos de remoción de Magistrados previstos en el artículo 44 de la propia Ley, se seguirá la investigación y en su caso, substanciación del Procedimiento en términos de los establecido en el artículo anterior.
+Para el caso de las conductas graves realizadas por los servidores públicos contemplados en las fracciones I a IV del artículo 42 de la Ley; y, para atender los supuestos de remoción de Magistrados previstos en el artículo 44 de la propia Ley, se seguirá la investigación y en su caso, substanciación del procedimiento en términos de lo establecido en el artículo anterior.
 
 > <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
 
@@ -4071,7 +4259,9 @@ II. Se podrán conceder a los trabajadores licencias con goce de sueldo, hasta p
 
 III. Tratándose de licencias urgentes que formule el personal de base, éstas se podrán conceder con goce de sueldo hasta por diez días económicos en un año, sin exceder de tres días en un mes;
 
-Mismo criterio se observará cuando se traten de licencias requeridos con urgencia por el personal jurisdiccional y administrativo de confianza, siempre que la licencia no rebase de tres días.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Mismo criterio se observará cuando se traten de licencias requeridas con urgencia por el personal jurisdiccional y administrativo de confianza, siempre que la licencia no rebase de tres días.
 
 > <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -4083,15 +4273,21 @@ V. Tratándose de licencias por periodos de hasta tres meses, el personal jurisd
 
 Tratándose de los Magistrados, la licencia con goce de sueldo podrá otorgarse hasta por dos meses, cuando exista causa justificada debidamente acreditada ante la Junta;
 
-VI. La Junta podrá conceder licencias con goce de sueldo, hasta por tres meses, cuando sean solicitadas por los Magistrados, Contralor, Secretario General de Acuerdos y Secretarios Adjuntos de Acuerdos de las Secciones, con el propósito de iniciar y concluir los trámites correspondientes a su jubilación;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
 
-VII. Las licencias a los Secretarios Operativos y Auxiliar de la Junta y al Contralor serán concedidas directamente por la Junta siempre y cuando no excedan de un plazo improrrogable de diez días hábiles en un año;
+VI. La Junta podrá conceder licencias con goce de sueldo, hasta por tres meses, cuando sean solicitadas por los Magistrados, titular del Órgano Interno de Control, Secretario General de Acuerdos y Secretarios Adjuntos de Acuerdos de las Secciones, con el propósito de iniciar y concluir los trámites correspondientes a su jubilación;
+
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+VII. Las licencias a las personas titulares de las Secretarías Operativas y Técnica de la Junta y al titular del Órgano Interno de Control serán concedidas directamente por la Junta siempre y cuando no excedan de un plazo improrrogable de diez días hábiles en un año;
 
 VIII. Las licencias por enfermedad o maternidad al personal del Tribunal, se otorgarán en términos de las leyes aplicables;
 
 IX. (DEROGADA, D.O.F. 23 DE MAYO DE 2025)
 
-Las licencias previstas en las fracciones I y II que se otorguen a los trabajadores, no se tomaran a cuenta de los días económicos a que tienen derecho, cuando así sea el caso.
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
+
+Las licencias previstas en las fracciones I y II que se otorguen a los trabajadores, no se tomarán a cuenta de los días económicos a que tienen derecho, cuando así sea el caso.
 
 La autorización de las licencias previstas en las fracciones I, II y III, serán concedidas al trabajador por el Magistrado o titular de la Secretaría o unidad administrativa a que se encuentren adscritos en términos del presente Reglamento, quienes, para el registro y cómputo correspondiente, tratándose de trabajadores de base, darán cuenta a la Dirección General de Recursos Humanos; respecto a los trabajadores de confianza, a la Junta de Gobierno y Administración.
 
@@ -4117,7 +4313,9 @@ II. Para el despacho de los asuntos administrativos encomendados a la Junta, el 
 
 III. El Presidente integrará Sección, únicamente, cuando sea requerido para integrarla ante la falta de quórum, en cuyo caso presidirá las sesiones o bien, cuando la Sección se encuentre imposibilitada para elegir a su Presidente, caso en el que fungirá provisionalmente como Presidente de la Sección hasta que se logre la elección. En caso de que el Presidente del Tribunal se encuentre ausente, el Presidente de la otra Sección se integrará sólo para el supuesto establecido en esta fracción;
 
-IV. Los Magistrados de la Tercera Sección serán suplidos de manera temporal por el Magistrado Presidente, los presidentes de Sección o por alguno de los Magistrados del Pleno Jurisdiccional, en orden alfabético de sus apellidos. En caso de impedimento o ausencia por causa mayor, el Presidente del Tribunal solicitará a cualquiera de los presidentes de las otras Secciones para que uno de ellos participe en las sesiones de la Tercera Sección en orden de turno. En caso de que ninguno de los dos se encuentre presente, podrá participar el Presidente del Tribunal o cualquier Magistrado de Sala Superior;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+IV. Los Magistrados de la Tercera Sección serán suplidos de manera temporal por el Magistrado Presidente, los presidentes de Sección o por alguno de los Magistrados del Pleno Jurisdiccional, en orden alfabético de sus apellidos. En caso de impedimento o ausencia por causa de fuerza mayor, el Presidente del Tribunal solicitará a cualquiera de los presidentes de las otras Secciones para que uno de ellos participe en las sesiones de la Tercera Sección en orden de turno. En caso de que ninguno de los dos se encuentre presente, podrá participar el Presidente del Tribunal o cualquier Magistrado de Sala Superior;
 
 V. Las faltas temporales de los Magistrados que integren la Junta serán suplidas por los Magistrados de Sala Superior o de Sala Regional que determine la Sala Superior, según sea el caso, siempre que sean elegibles para ello en los términos de la Ley;
 
@@ -4145,7 +4343,9 @@ XI. Las ausencias temporales del titular de la Secretaría Operativa de Tecnolog
 
 XII. Las ausencias temporales de la persona titular de la Secretaría Técnica serán suplidas por la persona titular de la Secretaría General de Acuerdos y de las Secretarías Adjuntas de Acuerdos de la Primera y Segunda Sección, en el orden indicado;
 
-XIII. Las ausencias temporales del Titular del Órgano Interno de Control, serán suplidas por los titulares de la Dirección General de Denuncias; la Dirección General de Responsabilidades y Registro Patrimonial; la Dirección General de Auditoría y la Dirección General de Auditoría del Desempeño y Revisiones al Control Interno Institucional, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
+> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+
+XIII. Las ausencias temporales del Titular del Órgano Interno de Control, serán suplidas por los titulares de la Dirección General de Denuncias; la Dirección General de Responsabilidades y Registro Patrimonial; la Dirección General de Auditoría y la Dirección General de Auditoría del Desempeño y Revisiones al Control Interno, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
 XIV. Las ausencias del Titular de la Unidad de Asuntos Jurídicos en controversias jurídicas o procedimientos administrativos seguidos en forma de juicio serán suplidas por los servidores públicos que hayan sido expresamente acreditados en los mismos, y
 
@@ -4161,11 +4361,11 @@ Disposiciones finales.
 
 Las personas titulares de la Secretaría General de Acuerdos, de las Secretarías Adjuntas de Acuerdos de las Secciones, de la Secretaría Técnica de la Junta, de las Secretarías de Acuerdos de Sala Superior, de la Junta y de Sala Regional, así como de las Actuarías tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad, bajo pena de incurrir en las responsabilidades que prevengan las leyes aplicables.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 140.
 
-Los personas titulares de la Secretaría General de Acuerdos, de las Secretarías Adjuntas de Acuerdos de las Secciones, de la Secretaría Técnica de la Junta, y de las Secretarías de Acuerdos de Sala Superior, de la Junta y de Sala Regional; así como las personas servidoras públicas que los suplan en caso de ausencia, en términos del artículo 138 de este Reglamento, podrán expedir constancias de documentos que obren en los expedientes de la Sala, Junta, Sección o ponencia a la que estén adscritos, en términos de las disposiciones jurídicas aplicables.
+Las personas titulares de la Secretaría General de Acuerdos, de las Secretarías Adjuntas de Acuerdos de las Secciones, de la Secretaría Técnica de la Junta, y de las Secretarías de Acuerdos de Sala Superior, de la Junta y de Sala Regional; así como las personas servidoras públicas que los suplan en caso de ausencia, en términos del artículo 138 de este Reglamento, podrán expedir constancias de documentos que obren en los expedientes de la Sala, Junta, Sección o ponencia a la que estén adscritos, en términos de las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2025)</small>
 
@@ -4342,3 +4542,11 @@ DÉCIMO SEGUNDO.- Dentro de los 30 días naturales siguientes a la entrada en vi
 DÉCIMO TERCERO.- A la entrada en vigor de los lineamientos a que se refiere el transitorio anterior, se deberá contar con la herramienta tecnológica que para tales efectos se implemente; para lo cual el Órgano Interno de Control realizará las gestiones correspondientes para que, en coordinación con la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones se lleve a cabo el diseño y desarrollo de la citada herramienta, y se obtenga la autorización de la Junta de Gobierno y Administración, dicha herramienta deberá contar con mecanismos de seguridad que aseguren la integridad, disponibilidad y autenticidad de la información.
 
 DÉCIMO CUARTO.- La reforma a la fracción XI del artículo 49 entrará en vigor una vez que la Junta de Gobierno y Administración determine el cambio de sede de la Primera y Segunda Salas Regionales Estado de México I.
+
+D.O.F. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “EXTRACTO DEL ACUERDO SS/15/2025 DENOMINADO “SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en la página de internet del Tribunal; en el Medio Oficial de Difusión Normativa del Tribunal Federal de Justicia Administrativa; y un extracto del mismo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
