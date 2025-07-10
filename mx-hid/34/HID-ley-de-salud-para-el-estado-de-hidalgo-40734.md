@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-06-10"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -555,6 +555,10 @@ VII.- Proporcionar orientación a la población respecto de la importancia de la
 
 VIII.- Favorecer el desarrollo de la enseñanza y la investigación científica y tecnológica del sector salud;
 
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+VIII Bis.- Promover el reconocimiento a los conocimientos y desarrollo de la medicina tradicional indígena, de la herbolaria y de la partería tradicional;
+
 IX.- Fortalecer la integración, operación y evaluación de consejos, comités y comisiones en materia de salud, y
 
 X.- Las demás que sean necesarias para el cumplimiento de su objetivo, de conformidad con las disposiciones normativas.
@@ -703,25 +707,29 @@ Artículo 16 Quintus.- El Estado, promoverá acciones conjuntas con las comunida
 
 Las autoridades comunitarias e indígenas, cuando así se establezca, podrán participar como coadyuvantes en las campañas de salud, vacunación y aquéllas referidas a la atención preventiva de la salud y en su caso, en las acciones normativas frente a la aparición de epidemias o pandemias.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2025)</small>
 
-Artículo 16 Sextus.- Las autoridades sanitarias promoverán el reconocimiento y autorización de los médicos tradicionales indígenas, curanderos y parteras de las comunidades, así como de sus asociaciones y organismos, para lo cual la Secretaría de Salud generará programas de registro y acreditación, con la finalidad de crear las condiciones y proporcionarles los elementos necesarios para el desempeño de sus funciones.
+Artículo 16 Sextus.- Las autoridades sanitarias promoverán el reconocimiento de los médicos tradicionales indígenas, curanderos y parteras de las comunidades, así como de sus asociaciones y organismos, para lo cual la Secretaría de Salud generará programas de registro, con la finalidad de crear las condiciones y proporcionarles los elementos necesarios para el desempeño de sus funciones.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
 La Secretaría de Salud mantendrá actualizado el registro a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 16 Septies.
 
-Las autoridades sanitarias, en el ámbito de su competencia y a través de instituciones de educación superior, impulsarán acciones de capacitación, actualización y especialización de médicos tradicionales, curanderos y parteras, para fortalecer su competencia técnica, el manejo de otras técnicas, conocimientos e instrumentos auxiliares de la medicina, con base en los derechos humanos y con un enfoque intercultural.
+Las autoridades sanitarias impulsarán la realización de convenios y acuerdos de colaboración con instituciones de investigación, educación superior y centros de capacitación técnica y profesional para preservar, difundir y fortalecer la medicina y partería tradicional, a través de programas de capacitación acordes a su práctica, con un enfoque intercultural.
 
-Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena relativos a antropología médica y medicina tradicional.
+Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados con valor curricular, dirigidos al personal médico, relativos a antropología médica y medicina tradicional.
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 16 Octies.
 
-Las parteras tradicionales recibirán por parte de la autoridad sanitaria estatal y con base en el registro referido en el Artículo 16 SEXTUS, una remuneración o estimulo como reconocimiento a su labor.
+La autoridad sanitaria garantizará a las parteras tradicionales el ejercicio de dicha actividad en condiciones de dignidad y acordes con sus prácticas, y brindará los apoyos necesarios por lo que podrá otorgar una remuneración o estímulo como reconocimiento a su labor, conforme a las disposiciones aplicables en la materia.
+
+De conformidad con lo que establece la Ley General de Salud, la actividad de las parteras se llevará a cabo sin condicionamientos o acreditaciones, siendo suficiente el reconocimiento comunitario.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
@@ -1967,13 +1975,17 @@ V. Acciones para controlar las enfermedades prevenibles por vacunación, los pro
 
 VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias; y
+VII. Acciones para informar y posibilitar cuando la infraestructura lo permita, el acompañamiento de las mujeres embarazadas por una persona de su confianza y elección durante el trabajo de parto, parto y puerperio, incluyendo el procedimiento de cesárea, en las instituciones de salud públicas y privadas, las cuales deberán tomar las medidas de higiene y seguridad necesarias;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-VIII. La instalación de cambiadores de pañales en los baños o baños familiares, que faciliten la privacidad, accesibilidad, seguridad, comodidad e higiene de los usuarios.
+VIII. La instalación de cambiadores de pañales en los baños o baños familiares, que faciliten la privacidad, accesibilidad, seguridad, comodidad e higiene de los usuarios, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+IX. La cultura de incorporación de lactarios en los centros de trabajo de los sectores público y privado.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
 
@@ -2814,5 +2826,17 @@ P.O. 27 DE FEBRERO DE 2025.
 P.O. 10 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 252 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE ATENCIÓN PRIORITARIA A LAS PERSONAS VÍCTIMAS DE VIOLENCIA FAMILIAR".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 263 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE MEDICINA Y PARTERÍA TRADICIONAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 272 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 142 UNDÉCIES 10 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE LACTARIOS EN LOS CENTROS DE TRABAJO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
