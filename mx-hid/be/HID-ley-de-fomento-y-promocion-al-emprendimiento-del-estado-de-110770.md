@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-promocion-al-emprendimiento-del-estado-de-1107
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-14"
-last_updated: "2024-05-30"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de diciembre de 2015.
 
@@ -61,7 +61,9 @@ Las disposiciones de la presente Ley son de orden público e interés social y t
 
 Los objetivos de la presente Ley son:
 
-I. Integrar y establecer normas así como programas específicos de acción gubernamental que den lugar a la construcción de políticas públicas e institucionales que promuevan la cultura emprendedora, especialmente en los jóvenes y en el sector educativo, impulsando contenidos y actividades en los planes y programas que alienten el espíritu emprendedor en las y los estudiantes;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+I. Integrar y establecer normas, así como programas específicos de acción gubernamental que den lugar a la construcción de políticas públicas e institucionales que promuevan la cultura emprendedora, especialmente en mujeres, jóvenes y en el sector educativo, impulsando contenidos y actividades en los planes y programas que alienten el espíritu emprendedor en las y los estudiantes;
 
 II. Alentar esquemas de colaboración entre la sociedad, centros de investigación, instituciones educativas, organismos empresariales y el gobierno del estado para desarrollar, ampliar, difundir y apoyar programas orientados al emprendimiento;
 
@@ -101,7 +103,9 @@ III. CITNOVA: Consejo de Ciencia, Tecnología e Innovación de Hidalgo;
 
 IV. Ecosistema de Negocios: Entorno en el que las empresas se desarrollan, compiten y (sic) e interactúan para producir e intercambiar bienes y servicios, relacionándose unos con otros en cadenas de valor;
 
-V. Emprendedor: Aquella persona que identifica una oportunidad de negocio o necesidad de un producto o servicio y organiza los recursos necesarios para ponerla en marcha, es convertir una idea en un proyecto concreto, ya sea una empresa o una organización social, que genere algún tipo de innovación y empleos;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+V. Emprendedor: Aquella persona que identifica una oportunidad de negocio o necesidad de un producto o servicio y organiza los recursos necesarios para ponerla en marcha, es convertir una idea en un proyecto concreto, ya sea una empresa o una organización social, que genere algún tipo de innovación, autoempleo o empleos;
 
 VI. Empresa: La persona física o moral legalmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o el intercambio de bienes o servicios para el mercado;
 
@@ -145,7 +149,9 @@ III. Inclusión de procesos a favor de seguridad social, manejo de residuos, pro
 
 IV. Fortalecimiento de procesos de trabajo colaborativo en torno a proyectos productivos viables;
 
-V. Igualdad de oportunidades y equidad entre las y los emprendedores; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+V. Igualdad de oportunidades, equidad entre las y los emprendedores y perspectiva de género; y
 
 VI. Hacer accesible a través de medios de comunicación social, marco normativo, reglas de operación y procesos de esquemas, programas, apoyos e incentivos a los proyectos emprendedores en las diferentes instancias de gobierno.
 
@@ -218,6 +224,10 @@ I. De la cultura emprendedora;
 a. Proponer iniciativas para el rápido desarrollo de la cultura emprendedora y empresarial en la población hidalguense a través de mecanismos institucionales que apoyen la viabilidad y continuidad de los proyectos emprendedores;
 
 b. Impulsar los mecanismos de apertura rápida de empresas y de mejora regulatoria que faciliten la creación y puesta en marcha de las iniciativas emprendedoras que se incorporen a la economía contribuyente.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2025)</small>
+
+c. Fomentar la participación equitativa de mujeres en roles de liderazgo y toma de decisiones.
 
 II. De los esquemas de colaboración;
 
@@ -470,3 +480,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 911 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 264 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO Y PROMOCIÓN AL EMPRENDIMIENTO DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO AL EMPRENDIMIENTO FEMENINO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
