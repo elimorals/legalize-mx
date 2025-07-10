@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-06-10"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -169,13 +169,17 @@ Los planteles educativos del nivel básico y medio superior del Sistema Educativ
 
 Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual, la dignificación del ciclo menstrual y fomentar el uso de métodos anticonceptivos.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
 
-De igual forma, podrán implementar programas de capacitación, orientación y vigilancia, en materia de nutrición, sobrepeso y obesidad.
+De igual forma, podrán implementar programas de capacitación, orientación y vigilancia, en materia de nutrición, sobrepeso, obesidad y buenos hábitos saludables; buscando fomentar una cultura de autocuidado y prevención de enfermedades desde el ámbito educativo.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2025)</small>
 
 También podrán implementar programas y proyectos de capacitación, dirigidos a educandos, docentes y padres de familia, orientados a promover la educación financiera. Para tal efecto, las autoridades competentes podrán establecer vínculos con instituciones financieras del sector público o privado, y con organizaciones de la sociedad civil.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2025)</small>
+
+De la misma manera, podrán implementar programas que promuevan en la comunidad escolar la cultura del respeto, solidaridad y compromiso social hacia las personas adultas mayores.
 
 ###### Artículo 11.
 
@@ -923,7 +927,9 @@ XIII. El reconocimiento de la diversidad de capacidades de las personas; así co
 
 XIV. El fomento de la educación financiera, en donde se incluya el emprendimiento y la cultura del ahorro; así como la cultura tributaria y el civismo fiscal;
 
-XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en las niñas, los niños, adolescentes y jóvenes su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
+
+XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, la prevención de la corrupción, así como el conocimiento de las niñas, los niños, adolescentes y jóvenes sobre su derecho de acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
 XVI. La educación ambiental para la sustentabilidad y la consciencia en el uso racional de los recursos, la protección y cuidado ambiental;
 
@@ -1003,11 +1009,11 @@ El calendario que la Autoridad Educativa Federal determine para cada ciclo lecti
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo. Además de conocer y acatar los lineamientos y protocolos expedidos por la Secretaría para la atención oportuna de situaciones en las que se vean vulnerados los derechos de las niñas, niños, adolescentes y jóvenes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 78.
 
-La Secretaría procurará establecer, de acuerdo con la suficiencia presupuestal, las disposiciones reglamentarias y la planeación para implementar el programa Escuela para Padres, Madres y Tutores en la entidad, que podrá incluir actividades de formación, capacitación y orientación como pláticas, cursos, conferencias, talleres, dinámicas de integración o cápsulas informativas, en los centros escolares o a través de los medios digitales e impresos, para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, igualdad de género, discriminación en razón de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría procurará establecer, de acuerdo con la suficiencia presupuestal, las disposiciones reglamentarias y la planeación para implementar el programa Escuela para Padres, Madres y Tutores en la entidad, que podrá incluir actividades de formación, capacitación y orientación como pláticas, cursos, conferencias, talleres, dinámicas de integración o cápsulas informativas, en los centros escolares o a través de los medios digitales e impresos, para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, cultura de autocuidado y prevención de enfermedades, educación sexual integral y reproductiva, perspectiva de género, igualdad de género, discriminación en razón de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -1115,9 +1121,15 @@ Dentro de las escuelas queda prohibida la distribución y comercialización de l
 
 La Secretaría y la Autoridad Educativa Municipal promoverán ante las autoridades correspondientes, la prohibición de la venta de alimentos con bajo valor nutritivo y alto contenido calórico en las inmediaciones de los planteles escolares.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 87.
 
-La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, higiene bucodental, entre otros. En materia de la promoción de la salud escolar, la Secretaría considerará lo dispuesto en las Normas Oficiales Mexicanas respectivas.
+La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, higiene bucodental, entre otros.
+
+Asimismo las instituciones educativas, en coordinación con la Secretaría de Salud, podrán organizar talleres periódicos orientados a brindar conocimientos sobre la prevención e identificación de factores de riesgo para enfermedades como diabetes, hipertensión arterial y obesidad, procurando sensibilizar a las y los estudiantes sobre la importancia del autocuidado.
+
+En materia de promoción de la salud escolar, la Secretaría considerará lo dispuesto en las Normas Oficiales Mexicanas respectivas.
 
 ###### Artículo 88.
 
@@ -2606,5 +2618,17 @@ P.O. 26 DE MAYO DE 2025.
 P.O. 10 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 246 – LXVI QUE APRUEBA CON MODIFICACIONES LA INICIATIVA CON PROYECTO DE DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO A LA EDUCACIÓN EMOCIONAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 266 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO A LA CULTURA DE PREVENCIÓN DE LA CORRUPCIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 268 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE INCORPORACIÓN DE PROGRAMAS PARA PROMOVER LA CULTURA DEL AUTOCUIDADO Y PREVENCIÓN DE ENFERMEDADES, Y LA CULTURA DE RESPETO HACIA LAS PERSONAS ADULTAS MAYORES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
