@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-27"
-last_updated: "2023-02-14"
+last_updated: "2025-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 10 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025 (ABROGADO).
 
 Ley publicada en el anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de abril de 2016.
 
@@ -2670,3 +2672,99 @@ P.O. 14 DE FEBRERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará a (sic) vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-368 MEDIANTE EL CUAL SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, por Decreto No. LXII-948, del 26 de abril de 2016, publicado en el Anexo al P.O. No. 50, del 27 de abril de 2016.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto y en atención a los artículos TERCERO y SEXTO transitorios del Decreto número 66-318, publicado en el Periódico Oficial del Estado, el 13 de mayo de 2025, se extingue el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT).
+
+###### ARTÍCULO CUARTO.
+
+Se crea el Órgano desconcentrado de la Secretaría Anticorrupción y Buen Gobierno, denominado “Transparencia para el Pueblo de Tamaulipas”, el cual conocerá de los asuntos en materia de transparencia y protección de datos personales con las facultades y atribuciones establecidas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, respecto al Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Los derechos laborales de las personas servidoras públicas del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, serán respetados, en términos de la legislación aplicable. Los recursos humanos con que cuente el referido Instituto pasarán a formar parte, en su caso, de la Secretaría Anticorrupción y Buen Gobierno.
+
+El Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, transferirá los recursos correspondientes al valor del inventario o plantilla de plazas subsistentes a la Secretaría Anticorrupción y Buen Gobierno, dentro de los veinte días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+Las personas servidoras públicas del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT) que dejen de prestar sus servicios y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables la realizarán en los sistemas de la Secretaría Anticorrupción y Buen Gobierno habilitados para tales efectos o en los medios que ésta determine, conforme a la normativa aplicable.
+
+Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que dentro de los diez días previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Tamaulipas (ITAIT), incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la Secretaría Anticorrupción y Buen Gobierno designe y conforme a la normativa aplicable a la Administración Pública Estatal, en los sistemas de la referida dependencia habilitados para tales efectos o en los medios que ésta determine, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por las autoridades competentes con posterioridad.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos materiales con que cuente el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT) serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), transferirá los recursos financieros a la Secretaría Anticorrupción y Buen Gobierno, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al segundo trimestre, de conformidad con las disposiciones jurídicas aplicables, dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los registros, padrones y sistemas, internos y externos, con los que cuenta el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de éste Decreto ante el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), en materia de acceso a la información pública, se sustanciarán ante las autoridades garantes correspondientes, conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), en materia de acceso a la información pública, se llevará a cabo por las autoridades garantes correspondientes.
+
+La Secretaría Anticorrupción y Buen Gobierno a través de Transparencia para el Pueblo de Tamaulipas, remitirá a las autoridades garantes competentes aquellos asuntos que se mencionan en los párrafos anteriores que les correspondan conforme al ámbito de sus atribuciones para su atención.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Sin perjuicio de que la información que generen y posean es considerada pública, de conformidad con lo señalado en la presente Ley y que le son aplicables los procedimientos, principios y bases de la misma; en tanto el Sistema Nacional emite los lineamientos, mecanismos y criterios correspondientes para determinar las acciones a tomar, los municipios con población menor a 70,000 habitantes cumplirán con las obligaciones de transparencia de conformidad con sus posibilidades presupuestarias.
+
+Lo anterior, sin perjuicio de que dichos municipios continuarán cumpliendo con las obligaciones de información a que se refiere la Ley General de Contabilidad Gubernamental y las disposiciones que emanan de ésta, en los plazos, términos y condiciones previstas en dicha ley y en las disposiciones referidas.
+
+Dichos municipios podrán solicitar a Transparencia para el Pueblo de Tamaulipas que, de manera subsidiaria, proporcione mecanismos de apoyo para que éstos puedan divulgar vía Internet las obligaciones de transparencia correspondientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La persona titular del Ejecutivo Estatal deberá expedir las adecuaciones correspondientes a los reglamentos y demás disposiciones aplicables, incluida la emisión del Reglamento Interior de Transparencia para el Pueblo de Tamaulipas, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+El Poder Judicial; los órganos internos de control de los órganos constitucionales autónomos; la contraloría interna del Poder Legislativo, en un plazo máximo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los expedientes y archivos institucionales que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley de Archivos del Estado y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría Anticorrupción y Buen Gobierno dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrán transferirlos a las autoridades garantes correspondientes.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Órgano Interno de Control del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Para efectos de lo dispuesto en los transitorios SEXTO, SÉPTIMO, OCTAVO, NOVENO y DÉCIMO TERCERO, del presente Decreto, el Pleno del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT) deberá integrar en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y personas servidoras públicas del mismo, con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades garantes.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+En tanto inicie funciones el órgano de control y disciplina del Poder Judicial, las atribuciones conferidas a la autoridad garante se efectuarán por el órgano encargado del control interno en dicho Poder.
