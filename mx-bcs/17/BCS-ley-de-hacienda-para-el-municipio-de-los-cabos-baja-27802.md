@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2025-01-31"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE ENERO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -2883,6 +2881,10 @@ ARTÍCULO 137º SEXIES. Están obligados a pagar el derecho de saneamiento ambie
 
 El importe de este derecho deberá ser retenido por los propietarios o poseedores de restaurantes y bares en los cuales se comercialicen alimentos y bebidas alcohólicas, mismo que deberá desglosarse en el comprobante de compra, desglosado después del importe por el consumo y su respectivo Impuesto al Valor Agregado y quienes deberán de proporcionar mensualmente, mediante las formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información relativa a la recaudación que lleven a cabo a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2025)</small>
+
+Se excluyen de la obligación de pagar la contribución prevista en este artículo, a los huéspedes de hoteles, posadas, hostales, casas de huéspedes y moteles que consuman alimentos en los diversos establecimientos y centros de consumo que se encuentren ubicados al interior de estos y que a su vez pertenezcan a la misma razón social que ofrece el servicio de hospedaje.
+
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2024)</small>
 
 ARTÍCULO 137º SEPTIES. Están obligados a pagar el derecho de saneamiento ambiental todas las personas que, en carácter de arrendatarios, suscriban contratos de prestación de servicios para la renta de todo tipo de vehículos automotores dentro de la demarcación del Municipio.
@@ -4276,3 +4278,11 @@ El Comité Técnico de este Fideicomiso durante la vigencia del Programa de Aust
 El ejercicio del gasto llevado a cabo por este fideicomiso municipal será revisado y fiscalizado por la Auditoría Superior del Estado, conforme a la reglas aplicables a los entes públicos sujetos a fiscalización.
 
 En caso de existir remanentes al cierre del ejercicio 2025, estos deberán ser transferidos al Fideicomiso de Saneamiento Ambiental para su aplicación conforme al objeto de dicho fideicomiso.
+
+B.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3170 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 137 SEXIES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan las disposiciones normativas que se opongan a lo establecido en el presente decreto.
