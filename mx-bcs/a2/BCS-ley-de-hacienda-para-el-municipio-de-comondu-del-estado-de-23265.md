@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-comondu-del-estado-de-2326
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2016-10-31"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDÚ DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -1151,137 +1151,31 @@ comercial en el resto de la mancha
 
 urbana 5
 
-### CAPÍTULO CUARTO. AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2025)</small>
+
+### CAPÍTULO CUARTO. AGUA POTABLE, DRENAJE, ALCANTARILLADO, SANEAMIENTO, TRATAMIENTO Y DISPOSICIÓN DE AGUAS RESIDUALES
 
 #### SECCIÓN I. AGUA POTABLE
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
+
 ###### Artículo 47.
 
-La prestación del servicio de agua potable, alcantarillado y saneamiento a que se refiere este capítulo, causará derechos conforme a lo siguiente.
+Las cuotas y tarifas que se causarán y enterarán por la prestación de los servicios de agua potable, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales serán fijadas por la Junta de Gobierno del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú, en cumplimiento a lo determinado por el artículo 108 de la Ley de Aguas del Estado de Baja California Sur.
 
-I. Tarifas para el cobro del sistema de agua potable en el municipio de Comondú.
+A falta del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú, será el Ayuntamiento de Comondú, quien determine los derechos que se causarán conforme a los procedimientos que establece la Ley de Aguas del Estado de Baja California Sur.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 2005)</small>
+#### SECCIÓN III (SIC). SANEAMIENTO
 
-a). Tarifas para servicio medido.
-
-SERVICIO DOMÉSTICO
-
-Consumo mensual en metros cúbicos.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Hasta 20 m3 cuota mínima, 1 vez el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 20 m3, hasta 30 m3, 6.0% del valor diario de la Unidad de Medida y Actualización, por cada M3
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 30 m3, hasta 40 m3, 6.1% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 40 m3, hasta 50 m3, 6.3% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 50 m3, hasta 80 m3, 7.5% del valor diario de la Unidad de Medida y Actualización, por cada m3
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 80M3, 9.0% del valor diario de la Unidad de Medida y Actualización, por cada M3.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Cada metro que exceda de 95 m3, 12% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-SERVICIO COMERCIAL
-
-CONSUMO MENSUAL EN METROS CÚBICOS.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Hasta 20 m3, cuota mínima de 1.47 veces el valor diario de la Unidad de Medida y Actualización,
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 20 m3 hasta 30 m3, 8.08% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 30 m3 hasta 40 m3, 8.87% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 40 m3 hasta 50 m3, 9.76% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 50 m3 hasta 60 m3, 11.22% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 60 M3, 19.54% del valor diario de la Unidad de Medida y Actualización, cada M3.
-
-SERVICIO INDUSTRIAL Y TURISTICO
-
-CONSUMO MENSUAL EN METROS CUBICOS
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Hasta 50 m3, cuota mínima de 6 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 50 m3 hasta 100 m3, 11% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 100 m3 hasta 125 m3, 13.2% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 125 m3, hasta 150 m3, 16.5% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 150 m3, hasta 250 m3, 21.5% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que excedan de 250 m3 hasta 500 m3, 24.6% del valor diario de la Unidad de Medida y Actualización, por cada M3.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los metros que exceda de 500 m3, 27.5% del valor diario de la Unidad de Medida y Actualización, por cada m3.
-
-Esta tarifa será igualmente aplicada a buques cisternas y demás embarcaciones marinas.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-b).- Tarifa cuando no existan medidores.
-
-Consumo mensual únicamente en servicio doméstico, 1.5 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-c).- El usuario pagará el costo del medidor, accesorios, materiales y trabajos extraordinarios por la conexión del servicio de agua potable.
-
-#### SECCION II (SIC). ALCANTARILLADO
-
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 2005)</small>
-
-II.- El usuario del servicio de alcantarillado estará obligado a pagar de la siguiente manera:
-
-a).- Se cubrirá el 30% para el uso doméstico y comercial y el 35% para el uso industrial, del valor del consumo de agua potable.
-
-b).- El usuario pagará los accesorios, materiales y trabajos extraordinarios por la conexión del servicio de alcantarillado
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 48.
 
-Los propietarios o en su caso los poseedores de los predios agropecuarios que utilicen las aguas de las lagunas de oxidación en usufructo estarán obligados a pagar los derechos de cooperación establecidas por el organismo operador del sistema de agua potable y alcantarillado, bajo pena de rescindir los convenios establecidos
+Los propietarios o en su caso los poseedores de los predios agropecuarios que utilicen las aguas de las lagunas de oxidación en usufructo estarán obligados a pagar las tarifas y cuotas que en su caso establezca la Junta de Gobierno del Organismo Operador Municipal del Sistema de Agua Potable, Alcantarillado y Saneamiento en términos del artículo 108 de la Ley de Aguas del Estado de Baja California Sur, bajo pena de rescindir los convenios establecidos.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2025)</small>
+
+A falta del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú, será el Ayuntamiento de Comondú, quien determine los derechos que se causarán conforme a los procedimientos que establece la Ley de Aguas del Estado de Baja California Sur.
 
 ### CAPÍTULO V. PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
 
@@ -1299,33 +1193,21 @@ III. alumbrado publico
 
 IV. electrificación
 
-V. red de agua potable
+V. (DEROGADA, B.O. 10 DE JULIO DE 2025)
 
-VI. red de atarjeas para drenaje sanitario
+VI. (DEROGADA, B.O. 10 DE JULIO DE 2025)
 
-VII. conexión a las redes de agua potable a fraccionamientos de terrenos
+VII. (DEROGADA, B.O. 10 DE JULIO DE 2025)
 
-VIII. conexión a las redes de atarjeas a fraccionamientos de terrenos
+VIII. (DEROGADA, B.O. 10 DE JULIO DE 2025)
 
-IX. red de drenaje y alcantarillado
+IX. (DEROGADA, B.O. 10 DE JULIO DE 2025)
 
-X. reposición o reinstalaciones de agua potable y alcantarillado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+X. (DEROGADA, B.O. 10 DE JULIO DE 2025)
 
 ###### Artículo 50.
 
-Los derechos de cooperación a que se refiere el artículo anterior en sus fracciones de la V a la X, serán calculados en base a presupuesto de ejecución de obra, en múltiplos del valor diario de la Unidad de Medida y Actualización y al resultado del avalúo general del sistema operador entre la producción real, conforme a los siguiente:
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-a) Presupuesto de ejecución de obra, para las fracciones V, VI y IX.
-
-b). Resultado del avalúo del sistema entre la producción, para las fracciones VII y VIII.
-
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-c) De 7 a 10 veces el valor diario de la Unidad de Medida y Actualización, para la fracción X.
+(DEROGADO, B.O. 10 DE JULIO DE 2025)
 
 ###### Artículo 51.
 
@@ -1337,35 +1219,7 @@ II. si son interiores que tengan acceso a la calle en que se hubieren ejecutado 
 
 ###### Artículo 52.
 
-Los propietarios o usuarios de los servicios de agua potable y alcantarillado estarán obligados a pagar los derechos de cooperación por la solicitud de los siguientes trámites o servicios.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-I.- Cambios de propietario o traspaso 02 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-II.- Constancias de certificados de no adeudo o no servicios 1.5 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-III.- Oficios de factibilidad de los servicios de agua potable y alcantarillado 10 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-IV.- Limitaciones, cortes y reconexiones 2 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-V.- Desasolves (sic) y limpieza de fosas sépticas de 15 a 20 veces el valor diario de la Unidad de Medida y Actualización para servicios en el área urbana y de 20 a 35 veces el valor diario de la Unidad de Medida y Actualización para el área rural, exceptuándose casa habitación urbana o rural, mismas que serán consideradas con una tarifa de 5 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-VI.- Venta de agua a pipas m3 30% del valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-VII.- Reparaciones de tomas en pavimentos 05 veces el valor diario de la Unidad de Medida y Actualización por metro cuadrado.
+(DEROGADO, B.O. 10 DE JULIO DE 2025)
 
 ###### Artículo 53.
 
@@ -1379,7 +1233,7 @@ a). Cuando no exista propietarios
 
 b). Cuando la posesión del predio se derive de contratos de promesas de venta con reserva de dominio y de promesa de venta de certificados de participación inmobiliaria, mientras esos contratos estén en vigor y no se traslade el dominio del predio.
 
-Si se trata de las obras a que se refieren las fracciones VII y VIII del artículo 49, los derechos de cooperación estarán a cargo de las empresas fraccionadoras de terrenos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 54.
 
@@ -1401,13 +1255,13 @@ Los notarios públicos no autorizarán actos de traslación de dominio, ni el pe
 
 Para la determinación de los derechos de cooperación para obras públicas se observaran las reglas siguientes.
 
-I. Si se trata de tubería de distribución de agua potable o de atarjeas por cada metro lineal del frente del predio.
+I. (DEROGADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE JULIO DE 2025)
 
-a). Si es una sola tubería y da servicio a ambas aceras, será cobrado un 50% de las cuotas unitarias que correspondan por cada metro lineal de los predios beneficiados.
+a). (DEROGADO, B.O. 10 DE JULIO DE 2025)
 
-b). Si la tubería instalada solo da servicio a los predios de una acera, a los propietarios de estos se les cobrara la cuota unitaria correspondiente.
+b). (DEROGADO, B.O. 10 DE JULIO DE 2025)
 
-c). Si son dos o mas tuberías, ya sea que se instalen a ambos lados del arroyo, o por el eje del mismo y beneficien a ambas aceras, a los propietarios de los predios con frente a uno y a otro lado de la calle, les serán cobradas íntegras las cuotas correspondientes.
+c). (DEROGADO, B.O. 10 DE JULIO DE 2025)
 
 II. En los casos de la construcción de banquetas y guarniciones, los derechos serán cobrados a los propietarios y poseedores de los predios ubicados en la acera en la que se hubieren realizado las obras y se determinaran multiplicando la cuota unitaria que corresponda, atendiendo el costo de la obra, por el numero de metros lineales del ancho de la banqueta.
 
@@ -1433,103 +1287,11 @@ Estarán exentos del pago de derechos de cooperación, la Federación y el estad
 
 INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 58.
 
-La autoridad fiscal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones. Para los efectos de esta ley, cometen infracción las siguientes personas y usuarios, las cuales estarán obligados a pagar los derechos de cooperación en múltiplos o veces el valor diario de la Unidad de Medida y Actualización, como se detalla a continuación:
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-I.- Las personas que instalen en forma clandestina conexiones en cualquiera de las instalaciones del sistema sin estar conectadas 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
-
-El que deteriore cualquier instalación destinada a la prestación de los servicios de agua potable y alcantarillado, 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-II.- El que utilice el servicio de los hidratantes públicos para destinarlos a usos distintos a los de su objeto 5 a 40 veces el valor, diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-III.- Los propietarios o poseedores de los predios dentro de los cuales se localice alguna fuga que no haya sido reparada oportunamente 2 a 51 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-IV.- Los que desperdicien el agua o no utilicen aparatos ahorradores 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-V.- Las personas que impidan la instalación de los servicios de agua potable y alcantarillado 5 a 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-VI.- El que emplee mecanismos para succionar agua de las tuberías de distribución 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-VII.- Los que construyan u operen sistemas para la prestación de los servicios públicos sin la concesión correspondiente 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-VIII.- Los Notarios Públicos o Jueces que autoricen o certifiquen los actos traslativos de dominio de bienes inmuebles urbanos, traspaso de giros comerciales, industriales cuando no se acredite estar al corriente en el pago de las cuotas o tarifas por los servicios públicos 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-IX.- Los que no acondicionen la instalación en el interior de las viviendas, a fin de que la lectura del consumo sea de fácil acceso al personal autorizado para este fin por el organismo operador 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-X.- El que impida las visitas de inspección y reconocimiento que realice el personal autorizado por el organismo operador 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XI.- Los que proporcionen agua a un predio o finca contigua sin importar que dicho consumo se registre por el aparato medidor 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XII.- El que cause desperfectos a un aparato medidor 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XIII.- Los que violen los sellos a un aparato medidor 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XIV.- Los que por cualquier medio alteren la lectura de un aparato medidor 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XV.- Los que sin estar legalmente autorizados para hacerlo, retiren un medidor variando su colocación de manera temporal o definitiva 100 a 500 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XVI.- Los residentes que frente a los inmuebles que habitan se localice una fuga de agua y que ésta le sea imputable 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XVII.- Los que rieguen jardines, calles, arboledas y lavado de banquetas fuera del horario permitido que es de 19:00 horas a 6:00 horas durante los meses de abril a octubre 5 a 20 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XVIII.- A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de agua potable y alcantarillado, no cumplan con la obligación de solicitar la toma de agua correspondiente dentro de los plazos establecidos o impidan la instalación de la misma 5 a 40 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XIX.- A los funcionarios o empleados que concedan licencias para construcciones sin que se les presente el comprobante oficial de haber quedado instalada la toma de agua en el predio que habrá de construirse. 5 a 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XX.- A los que se reconecten o manden reconectar al servicio, de servicios limitados o suspendidos, derivado del incumplimiento al pago de los servicio (sic) de agua potable y alcantarillado 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
-
-XXI.- A los que violen los sellos establecidos en los servicios limitados o suspendidos 30 a 50 veces el valor diario de la Unidad de Medida y Actualización.
-
-XXII.- A los usuarios del servicio doméstico que reincidan en tres ocasiones o más en reconectar o mandar reconectar el servicio limitado se le suspenderá el servicio temporalmente.
-
-Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
-
-Los infractores señalados en la fracción VIII del artículo anterior perderán en beneficio del municipio las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la prestación de los servicios públicos sin perjuicio de la aplicación de la multa señalada en la fracción IV del presente artículo. El organismo operador podrá solicitar a la autoridad correspondiente el desalojo de los infractores y en su caso que se realice la demolición de las obras e instalaciones por cuenta del infractor.
+La Junta de Gobierno del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú, fijara las hipótesis de las infracciones y las multas a que serán sujetos los usuarios del servicio de agua potable, alcantarillado, saneamiento y disposición de aguas residuales en caso de infracción, mismas que serán cobradas en los términos y condiciones que se establezcan en el ordenamiento correspondiente. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas.
 
 ### CAPÍTULO SEXTO. DEL REGISTRO CIVIL
 
@@ -1827,7 +1589,7 @@ II.- De morada conyugal 1 vez el valor diario de la Unidad de Medida y Actualiza
 
 ### CAPÍTULO DÉCIMO TERCERO. SERVICIOS DE SEGURIDAD Y TRÁNSITO
 
-#### SECCIÓN III (SIC). SANEAMIENTO
+#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
 ###### Artículo 80.
 
@@ -2075,7 +1837,9 @@ a). Accesorios, locales, expendios y puestos según el giro:
 
 ### CAPÍTULO PRIMERO
 
-#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+#### SECCIÓN PRIMERA. VENTA O EXPLOTACIÓN DE BIENES INMUEBLES
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 85], B.O. 15 DE FEBRERO DE 2006)
 
 ###### Artículo 87.
 
@@ -2121,9 +1885,9 @@ II.- ... (sic)
 
 (REPUBLICADA, B.O. 15 DE FEBRERO DE 2006)
 
-#### SECCIÓN PRIMERA. VENTA O EXPLOTACIÓN DE BIENES INMUEBLES
+#### SECCIÓN SEGUNDA. SERVICIO DE GRÚA Y ALMACENAJE DE VEHICULOS EN CORRALONES MUNICIPALES
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 85], B.O. 15 DE FEBRERO DE 2006)
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 88], B.O. 15 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 90.
 
@@ -3173,7 +2937,9 @@ IV. Derechos por legalización de firmas expedición de certificados y copias ce
 
 V. Derechos por servicios de control vehicular, únicamente en licencias de conducir para automovilista, placas o calcomanía de un solo vehículo, propiedad del beneficiado.
 
-VI. En el pago de los derechos causados por la prestación del servicio de agua potable y alcantarillado.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+VI. En el pago de los derechos causados por la prestación del servicio de agua potable y alcantarillado en los términos que determiné el Organismo Operador a través de su Junta de Gobierno.
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -3199,9 +2965,13 @@ b). Contratos de crédito a que se refieren los artículos 38 fracción VII y 40
 
 c). Estatutos de personas morales extranjeras, de conformidad con lo dispuesto en la ley general de sociedades mercantiles y en la ley de inversiones extranjeras.
 
-I (SIC). Reducción en el pago de derechos por expedición de licencias de construcción a que se refiere el capítulo tercero del título segundo de la presente ley, y en el pago de derechos por conexión a las redes de agua potable y alcantarillado a que se refieren los artículos 49 y 50 de la presente ley y demás disposiciones legales aplicables; y
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-II. El acreditamiento del monto de la adquisición de predios donde el sujeto beneficiario vaya a realizar sus actividades económicas contra el pago de derechos de cooperación que le correspondiera cubrir en la ejecución de obras públicas que realice el municipio en esos predios establecidos en el capítulo quinto del título segundo de la presente ley.
+V. Reducción en el pago de derechos por expedición de licencias de construcción a que se refiere el capítulo tercero del título segundo de la presente ley; y
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+VI. El acreditamiento del monto de la adquisición de predios donde el sujeto beneficiario vaya a realizar sus actividades económicas contra el pago de derechos de cooperación que le correspondiera cubrir en la ejecución de obras públicas que realice el municipio en esos predios establecidos en el capítulo quinto del título segundo de la presente ley.
 
 (REPUBLICADO, B.O. 15 DE FEBRERO DE 2006)
 
@@ -3306,3 +3076,15 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3169 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMONDÚ DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se le concede el término de 90 días naturales a la Junta de Gobierno del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú para efecto de que emita la regulación administrativa correspondiente en la que se establezcan las cuotas, tarifas hipótesis de infracciones y multas en esta materia.
+
+Hasta en tanto la Junta de Gobierno del Organismo Operador del Sistema de Agua Potable, Alcantarillado y Saneamiento para el Municipio de Comondú no determine o actualice las cuotas y tarifas que se causarán y enterarán por la prestación de los servicios de agua potable, drenaje, alcantarillado, saneamiento, tratamiento y disposición de aguas residuales en términos de la Ley de Aguas del Estado de Baja California Sur, se seguirán aplicando las establecidas antes de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
