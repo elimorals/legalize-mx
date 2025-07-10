@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2025-05-26"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -637,11 +637,11 @@ XIX.- Canalizar a las personas adultas mayores en situación de vulnerabilidad s
 
 XX.- Las demás que le confiera esta Ley y otras disposiciones en (sic) aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2025)</small>
 
 ###### Artículo 22.
 
-En cuanto a la preservación y fomento de los derechos derivados de la educación a favor de los adultos mayores, corresponde al Sistema de Educación Pública de Hidalgo:
+En cuanto a la preservación y fomento de los derechos derivados de la educación a favor de las personas adultas mayores, corresponde al Sistema de Educación Pública de Hidalgo:
 
 I.- Garantizar el acceso a la educación pública en todos sus niveles y modalidades;
 
@@ -669,9 +669,17 @@ VI.- Crear y facilitar el acceso a la expresión a las personas adultas mayores 
 
 VII.- Diseñar programas para efectuar concursos en los que participen activamente las personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2025)</small>
 
-VIII.- Garantizar la educación para las personas adultas mayores, que comprenderá: alfabetización, educación primaria, secundaria, y educación para la vida y el trabajo; y
+VIII.- Garantizar la educación para las personas adultas mayores, que comprenderá: alfabetización, educación primaria, secundaria, y educación para la vida y el trabajo;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+VIII Bis.- Utilizar las tecnologías digitales para ampliar el acceso a la educación;
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2025)</small>
+
+VIII Ter.- Promover la entrega de materiales educativos, y
 
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1236,5 +1244,11 @@ P.O. 28 DE ENERO DE 2025.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 242 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 28 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE ATRIBUCIONES DEL INSTITUTO HIDALGUENSE DE LAS MUJERES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 270 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE EDUCACIÓN Y ALFABETIZACIÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
