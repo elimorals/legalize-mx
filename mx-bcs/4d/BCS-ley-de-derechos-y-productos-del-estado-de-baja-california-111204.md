@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-05-20"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -1555,6 +1555,12 @@ la fecha, por cada año o fracción; $108.00
 
 5 Trámite de actas administrativas por aclaración; $180.00
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2025)</small>
+
+5 BIS. Trámite de Nulidad por duplicidad de actas y
+
+rectificación administrativa; $2,500.00
+
 6 Inexistencia de registro de Nacimiento; $216.00
 
 7 Inexistencia de registro de Matrimonio; $216.00
@@ -2496,3 +2502,11 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan aquellas disposiciones que se opongan al presente decreto.
 
 Artículo Tercero. La modificación de todas las cuotas y tarifas comprendidas en el presente decreto, corresponden a la actualización de dichos cobros vigentes para el año fiscal que transcurre, por lo cual no deberán ser afectadas durante el presente ejercicio fiscal de acuerdo a lo establecido en el artículo primero de la presente ley.
+
+B.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3168 SE ADICIONA EL NUMERAL 5 BIS AL ARTÍCULO 27 FRACCIÓN II DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan las disposiciones normativas que se opongan a lo establecido en el presente decreto.
