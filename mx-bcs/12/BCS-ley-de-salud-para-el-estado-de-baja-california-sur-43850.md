@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2024-06-10"
+last_updated: "2025-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -315,21 +313,33 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-VIII.- Promover un sistema de regulación y fomento sanitario que verifique que los productos y servicios no sean nocivos para la salud.
+VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
+
+VIII.- Promover un sistema de regulación y fomento sanitario que verifique que los productos y servicios no sean nocivos para la salud;
 
 > <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
 
 IX.- Proporcionar orientación a la población respecto de la importancia de la alimentación saludable y su relación con la salud;
 
-> <small>(REFORMADA, B.O. 31 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-X.- Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, que garanticen una prevención, atención y tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria, y cuyos avances y resultados sean objeto de evaluación, y
+X.- Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, que garanticen una prevención, atención y tratamiento eficiente del sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria, y cuyos avances y resultados sean objeto de evaluación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2025)</small>
 
-XI.- Regular los servicios de atención médica prehospitalaria y promover la capacitación, certificación, profesionalización, evaluación y buenas prácticas en la prestación de los servicios de atención a emergencias y urgencias médicas.
+XI.- Regular los servicios de atención médica prehospitalaria y promover la capacitación, certificación, profesionalización, evaluación y buenas prácticas en la prestación de los servicios de atención a emergencias y urgencias médicas;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2025)</small>
+
+XII.- Realizar actividades de prevención y tamizaje del cáncer y demás enfermedades no transmisibles determinadas por las autoridades sanitarias, coordinando con Dependencias y Entidades Públicas y con la Secretaría de Salud del Estado para regular la prevención, control y seguimiento de dichas enfermedades, y
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2025)</small>
+
+XIII.- Garantizar el acceso gratuito al diagnóstico, tratamiento y seguimiento médico para niñas, niños adolescentes con cáncer, así como para mujeres con cáncer cervicouterino o de mama, y hombres con cáncer de próstata.
 
 ###### ARTÍCULO 11.
 
@@ -503,9 +513,11 @@ II.- De salud pública, y
 
 III.- De asistencia social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 31.
 
-Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, preferentemente a los grupos vulnerables.
+En conformidad con las prioridades del sistema estatal de salud, se garantizará la ampliación cuantitativa y cualitativa de los servicios de salud, con especial énfasis en la atención a los grupos en situación de vulnerabilidad, tales como niñas, niños y adolescentes con cáncer, mujeres con cáncer cervicouterino o de mama, y hombres con cáncer de próstata.
 
 Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional.
 
@@ -1532,6 +1544,16 @@ III.- La prevención específica en cada caso y la vigilancia de su cumplimiento
 IV.- La realización de estudios epidemiológicos; y
 
 V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2025)</small>
+
+ARTÍCULO 140 BIS.- La Secretaría de Salud se encargara de dar vigilancia de manera permanente a los programas de educación, prevención, información, socialización y detección del cáncer de próstata en las dependencias y Hospitales del Sector Salud. Estos programas deberán garantizar la realización gratuita de exámenes de próstata a los hombres, al menos una vez al año.
+
+Las unidades de primer nivel de atención, serán responsables de desarrollar acciones comunitarias de promoción de la salud, brindar orientación oportuna, realizar tamizajes iniciales, y canalizar a los pacientes con posibles factores de riesgo o signos de alerta a las unidades de segundo nivel.
+
+Las unidades de segundo nivel de atención, deberán encargarse de conformar el diagnóstico, proporcionar atención médica especializada y dar seguimiento clínico a los casos detectados, en coordinación con las áreas correspondientes de oncología y urología.
+
+En aquellas localidades donde no existan clínicas del sector público, la autoridad Sanitaria Estatal establera convenios de colaboración con ayuntamientos, clínicas privadas o entidades patrocinadoras del sector privado, a fin de asegurar la prestación gratuita de servicios de detección del cáncer próstata.
 
 ###### ARTÍCULO 141.
 
@@ -3532,3 +3554,13 @@ SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en
 > <small>(F. DE E., B.O. 10 DE JUNIO DE 2024)</small>
 
 OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los· Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto.
+
+B.O. 10 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3174 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Secretaría de Salud contara con un plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto, para generar y elaborar los programas de educación, prevención, información, socialización y detección de cáncer de próstata a ejecutar, así como los convenios de colaboración que en su caso se celebren para su cumplimiento.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado de los ejecutores de gasto que correspondan.
