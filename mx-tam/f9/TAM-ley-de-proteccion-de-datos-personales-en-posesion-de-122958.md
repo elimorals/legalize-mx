@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-de-datos-personales-en-posesion-de-122958"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-17"
-last_updated: "2023-02-14"
+last_updated: "2025-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 10 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en el Anexo al Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 17 de agosto de 2017.
 
@@ -2167,14 +2169,38 @@ P.O. 14 DE FEBRERO DE 2023.
 
 El presente Decreto entrará a (sic) vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS PRIMERO Y SEGUNDO FEDERALES PENALES ESPECIALIZADOS EN CATEOS, ARRAIGOS E INTERVENCIÓN DE COMUNICACIONES, CON COMPETENCIA EN TODA LA REPÚBLICA Y RESIDENCIA EN LA CIUDAD DE MÉXICO".]
+P.O. 10 DE JULIO DE 2025
 
-D.O.F. 14 DE AGOSTO DE 2018.
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-369 MEDIANTE EL CUAL SE EXPIDE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS”.]
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciocho, con excepción del artículo 1, y del Transitorio CUADRAGÉSIMO PRIMERO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de su aprobación.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-TERCERO. Se reforman los artículos 4; 5; 7; 10; 13, párrafo segundo; 14; 16; y 19, segundo párrafo, del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, para quedar como sigue:
+###### ARTÍCULO SEGUNDO.
 
-"Artículo 4. El Centro agrupa a ocho Jueces de control y a un Tribunal Unitario de Circuito, en su caso, habilitado como tribunal de Alzada, así como los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+Se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto se abroga la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tamaulipas, publicada en el Periódico Oficial Anexo al número 99 de fecha 17 de agosto de 2017.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante las autoridades garantes correspondientes.
+
+La defensa legal ante las autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevarán a cabo ante las autoridades garantes correspondientes.
+
+La Secretaría Anticorrupción y Buen Gobierno, a través de Transparencia para el Pueblo de Tamaulipas, remitirá a las autoridades garantes competentes aquellos asuntos que se mencionan en los párrafos anteriores que les correspondan conforme al ámbito de sus atribuciones para su atención.
+
+###### ARTÍCULO QUINTO.
+
+Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y en general, en cualquier disposición normativa, respecto al Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, se entenderán hechas o conferidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Se suspenden por un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades garantes.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto inicie funciones el órgano de control y disciplina del Poder Judicial, las atribuciones conferidas a la autoridad garante se efectuarán por el órgano encargado del control interno en dicho Poder.
