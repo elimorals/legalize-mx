@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2025-06-13"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -6805,15 +6805,19 @@ Comete el delito de espionaje digital la persona que a través del uso de las te
 
 A la persona responsable de la conducta descrita en el párrafo anterior se le impondrá sanción de uno a tres años de prisión y multa de cincuenta a doscientos cincuenta días del valor diario de la Unidad de Medida y Actualización vigente al momento de la comisión del delito.
 
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2025)</small>
+(NOTA: EL 14 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2025 Y SU ACUMULADA 88/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 11 DE JULIO DE 2025, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).(REFORMADO, P.O. 11 DE JULIO DE 2025)
 
 ###### Artículo 480.
 
-Comete el delito de ciberasedio quien a través de la utilización de las tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital insulte, injurie, ofenda, agravie o veje a otra persona, con la insistencia necesaria para causarle un daño o menoscabo en su integridad física o emocional.
+Comete el delito de ciberasedio quien, a través de la utilización de las tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital, de forma reiterada o sistemática realice actos de vigilancia, hostigamiento, intimidación u ofensa a otra persona, y como consecuencia altere su vida cotidiana, perturbe su privacidad o dañe su integridad física o emocional.
 
-A la persona responsable de la conducta descrita en el párrafo anterior se le impondrá la pena de once meses a tres años de prisión y multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito.
+Para determinar la existencia del delito, la autoridad deberá considerar el contexto de los hechos.
 
-Cuando la víctima sea menor de edad, se presumirá el daño a la dignidad por tratarse de una persona en desarrollo psicoemocional y físico, y la sanción se aumentará desde una tercera parte de la pena mínima, hasta dos terceras partes de la pena máxima.
+Se perseguirá a petición de parte, salvo que la víctima sea niña, niño, adolescente, persona con discapacidad o exista una relación de autoridad o subordinación, en cuyo caso será perseguible de oficio.
+
+A la persona responsable de la conducta descrita en el presente artículo se le impondrá una pena de seis meses a tres años de prisión y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito. Cuando la víctima sea niña, niño o adolescente, la sanción se aumentará una tercera parte de la pena mínima y hasta dos terceras partes de la pena máxima.
+
+Quedan excluidas del presente artículo, las manifestaciones o críticas que estén orientadas a satisfacer un interés público, garantizar el desarrollo democrático o traten del escrutinio de cualquier órgano del Estado o persona servidora pública, y todas aquellas expresiones emitidas en el ejercicio legítimo de la libertad de expresión y el periodismo, en términos de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia y demás disposiciones aplicables.
 
 T R A N S I T O R I O S:
 
@@ -7968,5 +7972,13 @@ P.O. 13 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN SEXTA DEL CAPÍTULO DÉCIMO “FALSEDAD” DEL LIBRO SEGUNDO “DELITOS EN LO PARTICULAR” Y LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 404, Y SE ADICIONA EL ARTÍCULO 258 TER, EL 278 DECIES, LA FRACCIÓN XXVI AL 404, EL 479 Y EL 480; TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 480 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
