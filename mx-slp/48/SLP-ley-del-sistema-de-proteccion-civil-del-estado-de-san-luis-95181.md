@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2025-07-04"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -103,79 +103,83 @@ En los presupuestos de egresos tanto del Ejecutivo del Estado, como de los ayunt
 
 Para los efectos de esta Ley se entiende por:
 
-I. Agente afectable: asentamientos humanos;
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2018)</small>
+I. Aforo: número de personas que pueden ingresar, permanecer y ser evacuadas de manera segura en un establecimiento. En el reglamento de la ley se establecerán los procedimientos, términos y formas para determinar el número de aforo de cada caso concreto.
 
-I. Bis. Agente Consultor Capacitador: persona o empresa que ofrece, provee u otorga capacitación, asesoría, pláticas, orientación o consultoría en temas de protección civil y la gestión integral del riesgo, de forma privada o comercial y en el ámbito gubernamental;
+II. Agente afectable: asentamientos humanos;
 
-II. Agente perturbador: fenómenos naturales, o de origen humano; respecto del primero se mencionan, los geológicos e hidro-meteorológicos; y en el segundo, los químicos, sanitarios, y socio-organizativos;
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2018)</small>
+
+III. Agente Consultor Capacitador: persona o empresa que ofrece, provee u otorga capacitación, asesoría, pláticas, orientación o consultoría en temas de protección civil y la gestión integral del riesgo, de forma privada o comercial y en el ámbito gubernamental;
+
+IV. Agente perturbador: fenómenos naturales, o de origen humano; respecto del primero se mencionan, los geológicos e hidro-meteorológicos; y en el segundo, los químicos, sanitarios, y socio-organizativos;
 
 > <small>(ADICIONADA, P.O. 15 DE MARZO DE 2017)</small>
 
-III. Actividades pirotécnicas: fabricación, uso, venta, transporte, almacenamiento, comercialización y exhibición de objetos pirotécnicos;
+V. Actividades pirotécnicas: fabricación, uso, venta, transporte, almacenamiento, comercialización y exhibición de objetos pirotécnicos;
 
-IV. Agente regulador: acciones, instrumentos, normas, obras y, en general, todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
+VI. Agente regulador: acciones, instrumentos, normas, obras y, en general, todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
 
-V. Atlas estatal: atlas de riesgos del Estado, es el sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad, y el grado de exposición de los agentes afectables;
+VII. Atlas estatal: atlas de riesgos del Estado, es el sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad, y el grado de exposición de los agentes afectables;
 
-VI. Atlas municipal: atlas de riesgos de cada municipio, es el sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad, y el grado de exposición de los agentes afectables;
+VIII. Atlas municipal: atlas de riesgos de cada municipio, es el sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad, y el grado de exposición de los agentes afectables;
 
-VII. Brigada interna de protección civil: órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar actualizar, operar y vigilar el programa interno de protección civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado o social;
+IX. Brigada interna de protección civil: órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar actualizar, operar y vigilar el programa interno de protección civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado o social;
 
-VIII. Centro estatal: Centro Estatal de Comando de Operaciones;
+X. Centro estatal: Centro Estatal de Comando de Operaciones;
 
-IX. Consejo estatal: Consejo Estatal de Protección Civil;
+XI. Consejo estatal: Consejo Estatal de Protección Civil;
 
-X. Coordinación estatal: Coordinación Estatal de Protección Civil;
+XII. Coordinación estatal: Coordinación Estatal de Protección Civil;
 
-XI. Director general: titular de la Coordinación Estatal;
+XIII. Director general: titular de la Coordinación Estatal;
 
-XII. Coordinación municipal: Coordinación Municipal de Protección Civil, es el organismo con autonomía, administrativa y financiera; de operación y gestión, que dependerá de la secretaría del ayuntamiento respectivo;
+XIV. Coordinación municipal: Coordinación Municipal de Protección Civil, es el organismo con autonomía, administrativa y financiera; de operación y gestión, que dependerá de la secretaría del ayuntamiento respectivo;
 
-XIII. Coordinador municipal: titular de la Coordinación Municipal;
+XV. Coordinador municipal: titular de la Coordinación Municipal;
 
-XIV. Damnificado: persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física, o un perjuicio en sus bienes, de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
+XVI. Damnificado: persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física, o un perjuicio en sus bienes, de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
-XV. Desastre: resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada causan daños, y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
+XVII. Desastre: resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada causan daños, y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
-XVI. Donativo: aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio autorizados o en las instituciones de crédito, para ayudar a las entidades federativas, municipios o comunidades en emergencia o desastre;
+XVIII. Donativo: aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio autorizados o en las instituciones de crédito, para ayudar a las entidades federativas, municipios o comunidades en emergencia o desastre;
 
-XVII. Emergencia: situación anormal que puede causar un daño a la sociedad, y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
+XIX. Emergencia: situación anormal que puede causar un daño a la sociedad, y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-XVIII. Fenómeno antropogénico: agente perturbador producido por la actividad humana;
+XX. Fenómeno antropogénico: agente perturbador producido por la actividad humana;
 
-XIX. Fenómeno natural perturbador: agente perturbador producido por la naturaleza;
+XXI. Fenómeno natural perturbador: agente perturbador producido por la naturaleza;
 
-XX. Fondo: Fondo Estatal de Protección Civil, que tiene como objetivo promover la capacitación, equipamiento y sistematización de la Coordinación Estatal; y de las coordinaciones municipales de la Entidad;
+XXII. Fondo: Fondo Estatal de Protección Civil, que tiene como objetivo promover la capacitación, equipamiento y sistematización de la Coordinación Estatal; y de las coordinaciones municipales de la Entidad;
 
-XXI. Gestión integral de riesgos: conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres, y fortalezcan la resiliencia, o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación; previsión; prevención; mitigación; preparación; auxilio; recuperación, y reconstrucción;
+XXIII. Gestión integral de riesgos: conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres, y fortalezcan la resiliencia, o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación; previsión; prevención; mitigación; preparación; auxilio; recuperación, y reconstrucción;
 
-XXII. Grupos voluntarios: personas morales o las personas físicas que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
+XXIV. Grupos voluntarios: personas morales o las personas físicas que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
 
-XXIII. Ley general: Ley General de Protección Civil;
+XXV. Ley general: Ley General de Protección Civil;
 
-XXIV. Programa Estatal: Programa estatal de Protección Civil, es el documento en el que se definen los objetivos, metas, estrategias, líneas de acción, recursos necesarios, y responsabilidades de los participantes en el Sistema Estatal, de conformidad con los lineamientos determinados por el Sistema Nacional de Protección Civil;
+XXVI. Programa Estatal: Programa estatal de Protección Civil, es el documento en el que se definen los objetivos, metas, estrategias, líneas de acción, recursos necesarios, y responsabilidades de los participantes en el Sistema Estatal, de conformidad con los lineamientos determinados por el Sistema Nacional de Protección Civil;
 
-XXV. Programa especial: instrumento de planeación en cuyo contenido se establecen las medidas de prevención y reacción ante problemas derivados de actividades o eventos públicos de afluencia masiva en áreas o inmuebles distintos a su uso habitual que conlleven un riesgo;
+XXVII. Programa especial: instrumento de planeación en cuyo contenido se establecen las medidas de prevención y reacción ante problemas derivados de actividades o eventos públicos de afluencia masiva en áreas o inmuebles distintos a su uso habitual que conlleven un riesgo;
 
-XXVI. Programa interno: inmuebles e instalaciones fijas y móviles de las dependencias, entidades, instituciones, organismos, industrias o empresas pertenecientes a los sectores, público, privado y social, a que se refiere el Reglamento de esta Ley, que deberán contar con un Programa Interno de Protección Civil;
+XXVIII. Programa interno: inmuebles e instalaciones fijas y móviles de las dependencias, entidades, instituciones, organismos, industrias o empresas pertenecientes a los sectores, público, privado y social, a que se refiere el Reglamento de esta Ley, que deberán contar con un Programa Interno de Protección Civil;
 
-XXVII. Protección civil: acción solidaria y participativa que, en consideración, tanto de los riesgos de origen natural o antrópico, como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores, público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la gestión integral de riesgos y la continuidad de operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva, y el medio ambiente;
+XXIX. Protección civil: acción solidaria y participativa que, en consideración, tanto de los riesgos de origen natural o antrópico, como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores, público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la gestión integral de riesgos y la continuidad de operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva, y el medio ambiente;
 
-XXVIII. Registro: documento expedido por la Coordinación Estatal de Protección Civil, necesario para que particulares o dependencias públicas puedan ejercer la actividad de, asesoría; capacitación; evaluación; y elaboración de programas internos de protección civil;
+XXX. Registro: documento expedido por la Coordinación Estatal de Protección Civil, necesario para que particulares o dependencias públicas puedan ejercer la actividad de, asesoría; capacitación; evaluación; y elaboración de programas internos de protección civil;
 
-XXIX. Riesgo: daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+XXXI. Riesgo: daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
-XXX. Secretaría: Secretaría General de Gobierno del Estado, de quien depende la Coordinación Estatal de Protección Civil;
+XXXII. Secretaría: Secretaría General de Gobierno del Estado, de quien depende la Coordinación Estatal de Protección Civil;
 
-XXXI. Seguro: instrumento de administración y transferencia de riesgos;
+XXXIII. Seguro: instrumento de administración y transferencia de riesgos;
 
-XXXII. Sistema Estatal: Sistema Estatal de Protección Civil;
+XXXIV. Sistema Estatal: Sistema Estatal de Protección Civil;
 
-XXXIII. Zona de desastre: espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad, y
+XXXV. Zona de desastre: espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad, y
 
-XXXIV. Zona de riesgo: espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador.
+XXXVI. Zona de riesgo: espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL
 
@@ -285,9 +289,15 @@ En el caso de asentamientos humanos ya establecidos en zonas de alto riesgo, la 
 
 ### Capítulo III. De los Programas y Brigadas Internas de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 15.
 
-En los inmuebles o instalaciones fijas y móviles de los sectores, público, privado, y social, en que por su naturaleza o por el uso al que se han destinado, se reciba una afluencia constante o masiva de personas, se deberá contar con un Programa Interno de Protección Civil, acorde con los lineamientos que establezca el Programa Estatal, y el Sistema Nacional de Protección Civil.
+Los inmuebles o instalaciones, fijas y móviles, de los sectores público, privado y social que, por su naturaleza o uso, reciban una afluencia constante o masiva de personas, deberán contar con un Programa Interno de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2025)</small>
+
+Asimismo, deberán exhibir de manera visible en el exterior una leyenda que indique la capacidad máxima de aforo autorizada, conforme al reglamento y los lineamientos establecidos por el Programa Estatal y el Sistema Nacional de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2018)</small>
 
@@ -593,13 +603,19 @@ III. Los titulares de las dependencias federales y estatales, grupos voluntarios
 
 ## TÍTULO QUINTO. DE LA CULTURA Y DE LA PARTICIPACIÓN PRIVADA Y SOCIAL
 
-### Capítulo I. De la Cultura de Protección Civil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2025)</small>
+
+### Capítulo I. Difusión de la Cultura en la Gestión Integral de Riesgos y de Protección Civil
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 42.
 
-La población vulnerable y expuesta a un peligro tiene derecho a estar informada de ello, y a contar con las vías adecuadas de opinión y participación en la gestión del riesgo.
+El Sistema Estatal impulsará el fortalecimiento de la cultura de Gestión Integral de Riesgos y Protección Civil que convoque y sume el interés de la población, así como su participación individual y colectiva con un enfoque intercultural y de equidad de género.
 
-Las coordinaciones estatales y municipales fomentarán la cultura en materia de protección civil entre la población, mediante su participación individual y colectiva. Asimismo, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables.
+La población vulnerable y expuesta a un peligro, tiene derecho a estar informada de ello, y a contar con las vías adecuadas de opinión y participación en la gestión integral del riesgo.
+
+Las coordinaciones estatales y municipales fomentarán en el ámbito de sus respectivas competencias la cultura de protección civil entre la población. Asimismo, establecerán mecanismos idóneos para que la sociedad participe en la planeación y supervisión de la protección civil, en los términos de esta Ley, su Reglamento y los demás ordenamientos aplicables.
 
 ###### ARTÍCULO 43.
 
@@ -609,15 +625,31 @@ I. Fomentar las actividades de protección civil;
 
 II. Incorporar, en coordinación con las autoridades educativas del Estado, contenidos temáticos de protección civil en todos los niveles educativos públicos y privados, considerándola como asignatura obligatoria;
 
-III. Concretar el establecimiento de programas educativos a diferentes niveles académicos, que aborden en su amplitud el tema de la protección civil, y la gestión integral de riesgos;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
+
+III. Establecer programas educativos en todos los niveles académicos que integren de manera transversal la Gestión Integral de Riesgos y la Protección Civil, incorporando un enfoque de adaptación y mitigación al cambio climático;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
 IV. Impulsar programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección en temas relacionados con: fugas de gas, incendios, explosiones, desastres naturales (terremotos, sismos), inundaciones y los que considere pertinentes para la protección de la integridad física de las personas;
 
-V. Elaborar, estructurar y promocionar campañas de difusión sobre temas de su competencia relacionados con la protección civil, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
+
+V. Promover y formular campañas permanentes de difusión, a través de los medios masivos de comunicación y otros canales, sobre temas específicos en la Gestión Integral de Riesgos y Protección Civil, adecuados a cada región del Estado.
 
 VI. Promover la celebración de convenios con los sectores, público, social, privado, y académico con el objeto de difundir la cultura de protección civil.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+VII. Organizar de manera periódica simulacros, congresos, foros, consultas y talleres para el análisis de discusión en temas de Gestión Integral de Riesgos y Protección Civil que fomenten la participación de los sectores públicos, privado, social y académico para implementar las medidas necesarias en la materia;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+VIII. Estimular programas de empresas socialmente responsables en materia de protección civil, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+XIX (sic). Promover entre los propietarios o administradores de los (sic) unidades habitacionales e industriales, la importancia de la cultura de protección civil entre los habitantes y empleados, sobre los programas aplicables al tipo de inmueble de que se trate.
 
 ###### ARTÍCULO 44.
 
@@ -851,9 +883,7 @@ XXX. Aquellos negocios que operan en la vía pública y que hacen uso de tanques
 
 XXXI. Otros establecimientos que por sus características y magnitud sean similares a los enunciados en las fracciones.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
-
-De igual forma, las coordinaciones estatal y municipales, en su caso, verificarán que en los inmuebles a que se refieren las fracciones IV, V, VI, y XXII de este artículo, se encuentre disponible el protocolo de prevención y atención de violencia en contra de las mujeres a que se refiere la fracción XVIII del artículo 6º de la Ley del Instituto de las Mujeres del Estado de San Luis Potosí.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 11 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 63.
 
@@ -1138,3 +1168,11 @@ P.O. 4 DE JULIO DE 2025.
 Primero. El presente Decreto entrará en vigor el día de su publicación del (sic) el Periódico Oficial del Estado “Plan de San Luis”.
 
 Segundo. El Ejecutivo del Estado de San Luis Potosí, en un plazo que no exceda de noventa días naturales, deberá llevar a cabo las adecuaciones al Reglamento de la Ley del Sistema de Protección Civil, con el fin de establecer las características físicas de las calcomanías de verificación a que se refiere el artículo 65 Bis de la Ley del Sistema de Protección Civil del Estado de San Luis Potosí.
+
+P.O. 11 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0241.- QUE ADICIONA LOS ARTÍCULOS 6º, 15 Y 43; REFORMA LOS ARTÍCULOS 6°, 15, 42, 43 Y LA DENOMINACIÓN DEL CAPÍTULO I, DEL TÍTULO QUINTO; Y DEROGA EL ARTÍCULO 62, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+Segundo. El Ejecutivo del Estado de San Luis Potosí, en un plazo que no exceda de treinta días hábiles, deberá llevar a cabo las adecuaciones al Reglamento de la Ley del Sistema de Protección Civil, con el fin de establecer los procedimientos para que se cumpla con la obligación de determinar y exhibir en el exterior de los inmuebles a que se refiere el artículo 15 de dicho ordenamiento legal, el aforo.
