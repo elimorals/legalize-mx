@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2025-06-16"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2931,9 +2931,9 @@ Lo dispuesto en este artículo, no será aplicable tratándose de delitos en que
 
 Los delitos previstos en este Título se perseguirán por querella de parte.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2025)</small>
 
-Se exceptúan de lo anterior, los de robo con violencia física o moral sobre las personas o material sobre las cosas, previstos en los artículos 204, fracciones I y II; 205 fracciones I, II, III, VI y VIII; 207; 207 Bis, fracciones I, II, III, IV y V; y, 210; extorsión y encubrimiento por receptación, los cuales se perseguirán de oficio.
+Se exceptúan de lo anterior, los de robo con violencia física o moral sobre las personas o material sobre las cosas, previstos en los artículos 204, fracciones I y II; 205, fracciones I, II, III, VI y VIII; 207; 207 Bis, fracciones I, II, III, IV, V, VI y VII; y, 210; extorsión y encubrimiento por receptación, los cuales se perseguirán de oficio.
 
 ###### ARTICULO 238.
 
@@ -5528,3 +5528,11 @@ La Fiscalía General del Estado deberá realizar las adecuaciones pertinentes al
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 167 POR EL QUE SE REFORMA EL ARTÍCULO 237 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
