@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2024-06-14"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -47,6 +47,10 @@ LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS
 
 Las disposiciones de esta Ley son de orden público, de interés social, de observancia obligatoria, y son reglamentarias del artículo 12 de la Constitución Política del Estado; su objeto es establecer las bases de coordinación para el cumplimiento de la Ley General para la Inclusión de Personas con Discapacidad, y garantizar, promover, proteger, y asegurar, el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, así como el establecimiento de políticas públicas que les permitan, en un marco de respeto, equidad e igualdad de oportunidades, su plena inclusión en todos los ámbitos de la vida.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2025)</small>
+
+Considerando la Perspectiva de Género y promoviendo la igualdad de oportunidades y trato.
+
 ###### ARTICULO 2°.
 
 Para los efectos de la presente Ley, además de las definiciones establecidas; tanto en la Convención sobre los Derechos de las Personas con Discapacidad de la que México forma parte, como en el artículo 2° de la Ley General para la Inclusión de Personas con Discapacidad y los artículos 3° y 4° de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, se entenderá por:
@@ -67,7 +71,13 @@ VI. Progresividad: elemento inherente a la obligación que tienen autoridades y,
 
 VII. Plena inclusión: hacer implícito que las personas con discapacidad son parte de la sociedad, así como la necesidad de su pleno desarrollo;
 
-VIII. Registro Estatal de las Personas con Discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existe en la entidad, para la creación de un padrón único de personas con discapacidad;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE JULIO DE 2025)</small>
+
+VIII. Registro Estatal de las Personas con Discapacidad: es la obtención de información mediante una base de datos sobre el número de personas con discapacidad que existe en la entidad, para la creación de un padrón único de personas con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+IX. Perspectiva de Género: El enfoque que considera las diferencias y desigualdades entre mujeres y hombres, con el fin de promover la igualdad de oportunidades y trato.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
@@ -95,9 +105,17 @@ VI. Respeto y disfrute en el ejercicio de sus derechos;
 
 VII. Equilibrio entre los ajustes razonables y la progresividad;
 
-VIII. Eliminación de prácticas clientelares, electorales y paternalistas, y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
-IX. Diseño de políticas y acciones que se establezcan las asociaciones representativas e interesadas a través de la consulta.
+VIII. Eliminación de prácticas clientelares, electorales y paternalistas;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
+
+IX. Diseño de políticas y acciones que se establezcan las asociaciones representativas e interesadas a través de la consulta. y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+X. Perspectiva de Género
 
 ###### ARTICULO 5°.
 
@@ -911,23 +929,17 @@ I. Derecho de preferencia: Al uso de los sitios destinados a las personas con di
 
 II. Derecho de uso exclusivo: Lugares y servicios que son de uso único y exclusivo para personas con discapacidad, los cuales en ningún momento pueden ser utilizados por otras personas, como es el caso de los cajones de estacionamiento, y los baños públicos, entre otros. Dichos espacios deban estar señalados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, además de la leyenda "USO EXCLUSIVO";
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
-III. Derecho de libre tránsito: libertad de transitar por todos los lugares públicos sin que se obstruya los accesos específicos para su circulación como, rampas, puertas, elevadores, entre otros; deben estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, y
+III. Derecho de libre tránsito: libertad de transitar por todos los lugares públicos sin que se obstruya los accesos específicos para su circulación como, rampas, puertas, elevadores, entre otros; deben estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
-IV. Derecho de libre acceso y permanencia a todo espacio físico público o privado: Toda persona con discapacidad que se encuentre acompañada por su perro guía, y/o asistido por sillas de ruedas, sillas, andaderas, computadoras portátiles, tabletas electrónicas, teléfonos inteligentes y cualquier otra ayuda técnica para la movilidad y para la comunicación, así como que se encuentre acompañada y asistida por una persona en razón de su discapacidad, tiene el derecho a acceder y permanecer junto con los anteriores, en todo espacio público o privado de uso público como lo pueden ser las instalaciones laborales, educativas, recreativas, culturales, deportivas, de espectáculos, comerciales, religiosas, de salud, asistenciales, el transporte de pasajeros, terminales y estaciones de transporte, y demás espacios que requieran utilizar las personas con discapacidad.
+IV. Derecho de libre acceso y permanencia a todo espacio físico público o privado: Toda persona con discapacidad que se encuentre acompañada por su perro guía, y/o asistido por sillas de ruedas, sillas, andaderas, computadoras portátiles, tabletas electrónicas, teléfonos inteligentes y cualquier otra ayuda técnica para la movilidad y para la comunicación, así como que se encuentre acompañada y asistida por una persona en razón de su discapacidad, tiene el derecho a acceder y permanecer junto con los anteriores, en todo espacio público o privado de uso público como lo pueden ser las instalaciones laborales, educativas, recreativas, culturales, deportivas, de espectáculos, comerciales, religiosas, de salud, asistenciales, el transporte de pasajeros, terminales y estaciones de transporte, y demás espacios que requieran utilizar las personas con discapacidad. Las personas con discapacidad que se encuentren acompañadas de perros guías tiene el derecho a acceder y permanecer junto a su perro en los espacios públicos y privados cuyo ingreso no se halle vedado al público en general, cumpliendo con las normas de seguridad correspondientes, y deberán acreditar de modo idóneo que el animal ha adquirido las aptitudes de adiestramiento para acompañamiento, conducción y ayuda. Cuando el acceso a los espacios públicos o privados tengan costo para las personas usuarias, en ningún caso se podrán generar costos adicionales por el acceso y permanencia del perro guía y/o de las ayudas técnicas y/o de la persona que acompaña y asiste, a la persona con discapacidad, y
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV]</small>
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
 
-Las personas con discapacidad que se encuentren acompañadas de perros guías tiene (sic) el derecho a acceder y permanecer junto a su perro en los espacios públicos y privados cuyo ingreso no se halle vedado al público en general, cumpliendo con las normas de seguridad correspondientes, y deberán acreditar de modo idóneo que el animal ha adquirido las aptitudes de adiestramiento para acompañamiento, conducción y ayuda.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV]</small>
-
-Cuando el acceso a los espacios públicos o privados tengan costo para las personas usuarias, en ningún caso se podrán generar costos adicionales por el acceso y permanencia del perro guía y/o de las ayudas técnicas y/o de la persona que acompaña y asiste, a la persona con discapacidad.
-
-La violación a estos derechos será sancionada severa e inmediatamente por las autoridades competentes.
+V. Derecho a tener acceso a la Educación de calidad, empleo bien remunerado y a la protección de la salud sin discriminación por motivos de género.
 
 ###### ARTICULO 28.
 
@@ -1042,6 +1054,10 @@ Los programas de accesibilidad que se diseñen en el Estado deberán ser concurr
 Las autoridades competentes promoverán el derecho de las personas con discapacidad para que, en igualdad de condiciones y de acuerdo a su tipo de discapacidad, reciban un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte, así como asesoría, representación jurídica y accesibilidad en forma gratuita en dichos procedimientos, bajo los términos que establezcan las leyes respectivas, los tratados internacionales y demás disposiciones legales aplicables en la materia.
 
 Asimismo, formularán y establecerán programas de capacitación al personal adscrito a estas dependencias, e independientemente, conformarán un cuerpo de especialistas que asistan, orienten y defiendan a las personas con discapacidad, a fin de procurar la promoción y defensa de sus derechos, considerando los ajustes razonables y la gradualidad en el alcance de tal objetivo.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2025)</small>
+
+ARTICULO 41 BIS. Las autoridades verificaran el cumplimiento de la Presente Ley; ajustando y mejorando las políticas y los programas públicos.
 
 ###### ARTICULO 42.
 
@@ -1430,3 +1446,11 @@ P.O. 14 DE JUNIO DE 2024.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0240.- QUE REALIZA ADICIONES A LOS ARTÍCULOS 1°, 2°, 4°, 27 Y EL ARTÍCULO 41 BIS, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
