@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2025-03-05"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -89,11 +89,11 @@ Cuando no le sea posible a la autoridad judicial que conozca de una controversia
 
 Las y los extranjeros que se encuentren temporal, o definitivamente en el territorio del Estado, están sujetos a las disposiciones de este Código, respecto a su condición y relaciones del orden familiar.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 8°.
 
-Las instituciones públicas de asistencia social, públicas y privadas dedicadas a la atención de las familias, que estén debidamente certificadas por el órgano rector de la asistencia social en el Estado, realizarán cursos de preparación matrimonial, de fortalecimiento de la unión conyugal, para fomentar los valores y actitudes que consoliden la estabilidad y armonía de la familia.
+Las instituciones de asistencia social, públicas y privadas dedicadas a la atención de las familias, que estén debidamente certificadas por el órgano rector de la asistencia social en el Estado, realizarán cursos de preparación matrimonial, de fortalecimiento de la unión conyugal, de fortalecimiento de la equidad, la no violencia, el no machismo, y misoginia, para fomentar los valores y actitudes que consoliden la estabilidad y armonía de la familiar (sic).
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -125,6 +125,10 @@ Las y los menores de edad miembros de la familia, tienen el derecho esencial de 
 
 Para efectos de salvaguarda de ese derecho, en caso de separación, los padres están obligados a evitar conductas de alienación parental, que se define como la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor, rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2025)</small>
+
+Los progenitores están obligados además, a que bajo ninguna circunstancia ejerzan violencia familiar, o violencia vicaria.
+
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2024)</small>
 
 El derecho de convivencia no podrá ser negado arbitrariamente por quien ostente la guarda y custodia.
@@ -139,7 +143,33 @@ En los casos de controversias por cuestiones de convivencia, la autoridad jurisd
 
 Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar, que tenga por efecto causar un daño a otro integrante de la misma.
 
-La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza una persona integrante de la familia en contra de otra persona de la misma, así como cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y el trato humillante, o las omisiones graves que atenten contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2025)</small>
+
+La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza una persona integrante de la familia en contra de otra persona de la misma, así como cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y el trato humillante, la violencia vicaria o las omisiones graves que atenten contra su integridad física, psíquica y emocional independientemente de que pueda producir o no lesiones.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2025)</small>
+
+Se entiende por violencia vicaria, las acciones de violencia ejercida sobre las hijas o hijos de la mujer, con el objetivo de causarle daño, realizadas por una persona agresora que tenga o haya tenido una relación de matrimonio, concubinato, o se mantenga o hayan mantenido una relación de hecho, pudiendo consistir la violencia en cualquiera de las modalidades que reconoce la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, incluyendo la sustracción ilegal de los hijos o hijas del hogar de la madre, y cualquiera otra dirigida a dañar a la mujer a través del daño a sus hijos o hijas.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 11 DE JULIO DE 2025)</small>
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+I. Amenazar con causar daño a las hijas e hijos;
+
+II. Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+III. Utilizar a las hijas e hijos para obtener información respecto de la madre;
+
+IV. Promover, incitar o fomentar actos de violencia física de hijas e hijos en contra de la madre;
+
+V. Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+VI. Ocultar, retener o sustraer a hijas e hijos, así como a familiares o personas allegadas;
+
+VII. Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas e hijos en común; y
+
+VIII. Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
@@ -2095,13 +2125,17 @@ c) Tortura.
 
 d) Tratos crueles, inhumanos, degradantes, violentos, abusivos o humillantes, o
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2025)</small>
 
-e) Todo tipo de práctica que lesione la integridad personal de los niños, niñas y adolescentes, y
+e) Todo tipo de práctica que lesione la integridad personal de los niños, niñas y adolescentes;
 
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
-VIII. Cuando el progenitor de la o el menor teniendo el ejercicio de este derecho, sea condenado mediante sentencia ejecutoria, por la comisión del delito de feminicidio cometido en contra de la progenitora de la o el menor.
+VIII. Cuando el progenitor de la o el menor teniendo el ejercicio de este derecho, sea condenado mediante sentencia ejecutoria, por la comisión del delito de feminicidio cometido en contra de la progenitora de la o el menor, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+IX. Cuando el progenitor ejerza violencia vicaria, sustraiga ilegalmente a los hijos o hijas del hogar, los lesione, o cualquier otra conducta dirigida a perjudicar a la mujer a través del daño a sus hijos o hijas.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2025)</small>
 
@@ -3926,6 +3960,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 5 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0165.- SE ADICIONA EL ARTÍCULO 293 BIS, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0238.- QUE REFORMA LOS ARTÍCULOS 8º, 12, 293; Y REALIZA ADICIONES A LOS ARTÍCULOS 11, 12 Y 293, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
