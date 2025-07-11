@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2025-07-03"
+last_updated: "2025-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -435,13 +435,17 @@ II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor pa
 
 III. Evitar actos de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo la persona, bienes y derechos del adulto mayor;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
-IV. Otorgar alimentos de conformidad con lo establecido en el Código Familiar para el Estado de San Luis Potosí, y
+IV. Otorgar alimentos de conformidad con lo establecido en el Código Familiar para el Estado de San Luis Potosí;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
-V. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares.
+V. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2025)</small>
+
+VI. Fomentar y promover de forma activa, la observancia y la práctica de los derechos contenidos en esta y en otras leyes aplicables, así como garantizar el respeto a la libertad en la toma de decisiones de las personas adultas mayores.
 
 ### CAPITULO II. Consejo Interinstitucional Gerontológico
 
@@ -1440,3 +1444,11 @@ P.O. 3 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 11 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0239.- QUE REFORMA Y REALIZA ADICIONES AL ARTÍCULO 11 BIS, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
