@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2025-06-14"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1129,11 +1129,13 @@ En la proyección de programas, procedimientos de otorgamiento de concesiones y 
 
 Se considera infraestructura pública las terminales y paradas del servicio público de transporte colectivo, la cual podrá ser concesionada a particulares para su construcción, administración y mantenimiento, conforme a las disposiciones y leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### Artículo 62 Bis.
 
-No está permitida la colocación de propaganda impresa o electrónica en el interior y exterior de los vehículos destinados a la prestación del servicio público de transporte que muestren estereotipos sexistas sobre las personas.
+No está permitida la colocación de propaganda impresa o electrónica en el interior y exterior de los vehículos destinados a la prestación del servicio público de transporte que, atente contra la dignidad de las personas y/o vulneren algún derecho reconocido en la Constitución y/o muestren estereotipos sexistas sobre las personas.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
 
 Para efectos de esta Ley, es publicidad sexista aquella que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia los géneros.
 
@@ -3538,3 +3540,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los propietarios de los estacionamientos deberán realizar las adecuaciones en los espacios correspondientes, en un plazo de (sic) mayor a treinta días posteriores a la entrada en vigor.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 12 DE JULIO DE 2025.
+
+> <small>[N. DE E. TRANSITOROS DEL “DECRETO NÚM. 669.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 62 BIS DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
