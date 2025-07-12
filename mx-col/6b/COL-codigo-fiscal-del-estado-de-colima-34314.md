@@ -4,7 +4,7 @@ identifier: "COL-codigo-fiscal-del-estado-de-colima-34314"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-10-04"
-last_updated: "2018-09-28"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO FISCAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
 
 Código publicado en Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 2003.
 
@@ -2039,11 +2039,21 @@ V.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solve
 
 La garantía de un crédito fiscal deberá comprender, además de las contribuciones adeudadas, los recargos, las multas y los demás accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-Cuando la garantía consista en depósito de dinero en la Secretaría, el crédito fiscal dejará de causar recargos a partir de la fecha de su entero. El Reglamento de este Código establecerá los requisitos que deberán reunir las garantías.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Cuando la garantía consista en depósito de dinero en la Secretaría, el crédito fiscal dejará de causar recargos a partir de la fecha de su entero.
 
 La Secretaría vigilará que las garantías sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fuere, exigirá su ampliación o procederá el embargo de otros bienes.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+En las reglas de carácter general en materia fiscal se establecerán los requisitos que deberán reunir las garantías.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+En los casos en que la autoridad fiscal requiera a los contribuyentes la ampliación o sustitución de la garantía, y esta no se lleve a cabo, la autoridad procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal. La garantía deberá constituirse dentro de los treinta días siguientes a aquél en que surta efectos la notificación efectuada por la autoridad fiscal correspondiente de la resolución sobre la cual se deba garantizar el interés fiscal, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
 
 ###### ARTICULO 134.
 
@@ -2443,35 +2453,43 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 La autoridad podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 174.
 
-La base para la enajenación de los bienes embargados, tratándose de inmuebles y negociaciones, será la del avalúo pericial y, en los demás casos, la que fijen de común acuerdo la autoridad y el embargado, en un plazo de seis días contados a partir de la fecha en que el embargado sea citado por la autoridad para dicho efecto; a falta de acuerdo, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
+La base para la enajenación de los bienes y negociaciones embargadas, será la del avalúo practicado por la autoridad fiscal o, en su caso, el que quede firme de conformidad con el recurso señalado en el presente artículo. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
-El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de oposición al procedimiento administrativo de ejecución previsto en este Código, dentro de los quince días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores inscritos en el Registro de Peritos Valuadores del Estado o, en su defecto, un valuador bancario o empresa o institución dedicada a la compraventa y subasta de bienes.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo no designen valuador, se tendrá por aceptado el avalúo hecho conforme al primer párrafo de este artículo.
+El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso b) del artículo 108, en relación con el 112 de este Código, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores inscritos en el Registro de Peritos Valuadores del Estado o, en alguna empresa o institución dedicada a la compraventa y subasta de bienes.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Cuando el embargado o terceros acreedores no interpongan el recurso de revocación dentro del plazo establecido en el artículo 112 de este Código, o haciéndolo no designen valuador, o habiéndose nombrado perito por dichas personas, no se presente el dictamen dentro de los plazos a que se refiere el párrafo quinto de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad fiscal.
 
 Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior en un 10% al determinado conforme al primer párrafo de este artículo, la autoridad ejecutora, dentro del término de seis días, designará un perito tercero valuador que será cualquiera de los señalados en el Registro de Peritos Valuadores del Estado. El avalúo que se fije será la base para la enajenación de los bienes.
 
 En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles, veinte días si son inmuebles y treinta días cuando sean negociaciones, a partir de la fecha de su aceptación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 175.
 
-El remate deberá ser convocado al día siguiente de haber quedado firme el avalúo para que tenga verificativo dentro de los treinta días siguientes. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
+El remate deberá ser convocado al día siguiente de haberse notificado el avalúo para que tenga verificativo dentro de los treinta días siguientes. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente. Además, la convocatoria se dará a conocer en la página electrónica de la Secretaría. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+La convocatoria se publicará en la página electrónica y en un sitio visible de las oficinas de las autoridades fiscales, cuando menos diez días antes de la fecha establecida para el remate y la misma se mantendrá en los medios en que se haya fijado o dado a conocer hasta la conclusión de la subasta. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a mil ochocientas veinticinco unidades de medida y actualización, la convocatoria se publicará en el Periódico Oficial y en uno de los periódicos de mayor circulación en la entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 176.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, el cual deberá obtenerse oportunamente, serán citados para el acto de remate y, en caso de no ser factible hacerlo por alguna de las causas a que se refiere la fracción III del artículo 123 de este Código, se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
+Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, el cual deberá obtenerse oportunamente, serán notificados personalmente del período de remate señalado en la convocatoria y, en caso de no ser factible hacerlo por alguna de las causas a que se refieren las fracciones III y IV, del artículo 123 de este Código, se tendrán por notificados de la fecha en que se efectuará el remate, en aquélla en que la convocatoria haya sido publicada en la página electrónica y en un sitio visible de las oficinas de las autoridades fiscales, siempre que en dicha convocatoria se exprese el nombre de los acreedores.
 
-Los acreedores a que alude el párrafo anterior podrán concurrir al remate y hacer las observaciones que estimen del caso, las cuales serán resueltas por la autoridad ejecutora en el acto de la diligencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 177.
 
@@ -2495,11 +2513,15 @@ Al escrito en que se haga la postura se acompañará necesariamente un recibo of
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los recibos de depósito a los postores, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 181.
 
-El escrito en que se haga la postura deberá contener:
+El escrito en que se haga la postura deberá contener los siguientes datos:
 
-I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor; tratándose de sociedades, el nombre o razón social, la fecha de constitución y el domicilio social;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad, la Clave Única de Registro de Población, el domicilio del postor y la clave del Registro Federal de Contribuyentes; tratándose de personas morales, la denominación o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes y el domicilio fiscal; y
 
 II.- La cantidad que se ofrezca y la forma de pago.
 
@@ -2509,7 +2531,13 @@ El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora ha
 
 El jefe de la oficina ejecutora fincará el remate en favor de quien hubiere hecho la mejor postura.
 
-Si en la última postura se ofrece igual suma de contado por dos o más licitantes, se designará por suerte la que deba aceptarse.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Si en la última postura se ofrece igual suma de contado por dos o más licitantes, se aceptará la primera postura que se haya recibido.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la más alta, se aceptará la primera postura que se haya recibido.
 
 ###### ARTICULO 183.
 
@@ -2557,9 +2585,11 @@ En el caso en que la autoridad fiscal entregue las cantidades pagadas por la adq
 
 Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras, así como a todos aquellos que hubieran intervenido por parte del fisco del Estado en el procedimiento administrativo. El remate efectuado con infracción a este precepto será nulo, sin perjuicio de las sanciones que se puedan imponer a los infractores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 190.
 
-El fisco estatal tendrá preferencia para adjudicarse en cualquier almoneda, los bienes ofrecidos en remate, en los siguientes casos:
+El fisco estatal tendrá preferencia para adjudicarse en la almoneda, los bienes ofrecidos en remate, en los siguientes casos:
 
 I.- A falta de postores;
 
@@ -2567,15 +2597,33 @@ II.- A falta de pujas; y
 
 III.- En caso de posturas o pujas iguales.
 
-La adjudicación se hará al valor que corresponda para la almoneda de que se trate.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+En estos casos el valor de adjudicación será el 60% del valor de avalúo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 191.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los términos del artículo 175 de este Código, con la salvedad de que la publicación se hará por una sola vez.
+Cuando no hubiera postores o no se hubieran presentado posturas legales en la almoneda, la autoridad se adjudicará el bien. En este caso, el valor de la adjudicación será el 60% del valor de avalúo.
 
-La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-Si tampoco se fincare el remate en la segunda almoneda, se considerará que el bien fue enajenado en un 50% del valor del avalúo, aceptándose como dación en pago para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
+Los bienes que se adjudiquen a favor del fisco estatal, podrán ser donados para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas para recibir donativos deducibles del impuesto sobre la renta.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE JULIO DE 2025)</small>
+
+La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Cuando la adjudicación de los bienes se deba inscribir en el Registro Público de la Propiedad y del Comercio, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este artículo, serán considerados para todos los efectos legales, como bienes no sujetos al régimen del dominio público del Estado de Colima, hasta en tanto sean destinados o donados para obras o servicios públicos en los términos de este artículo.
 
 ###### ARTICULO 192.
 
@@ -2585,11 +2633,11 @@ I.- El embargado proponga comprador antes del día en que se finque el remate, s
 
 II.- Se trate de bienes de fácil descomposición o deterioro o de materiales inflamables, siempre que no sea posible guardar o depositar en lugares apropiados para su conservación; y
 
-III.- Se trate de bienes que habiendo salido a remate en primera almoneda, no se hubieran presentado postores.
+III.- (DEROGADA, P.O. 12 DE JULIO DE 2025)
 
 ###### ARTICULO 193.
 
-En el supuesto señalado en la fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes.
+(DEROGADO, P.O. 12 DE JULIO DE 2025)
 
 ###### ARTICULO 194.
 
@@ -2601,11 +2649,19 @@ En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargad
 
 Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y, en caso de no hacerlo, se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinado conforme al artículo 174 de este Código, se aplicará a cubrir los adeudos generados por este concepto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 196.
 
-Cuando existan excedentes del producto obtenido del remate o adjudicación de los bienes a favor del fisco estatal, después de haberse cubierto el crédito fiscal y sus accesorios, se entregarán al deudor, salvo que medie orden de autoridad competente, o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
+Cuando existan excedentes del producto obtenido del remate o adjudicación de los bienes a favor del fisco estatal, se entregarán al deudor, salvo que medie orden de autoridad competente, o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero. La devolución se hará bajo las siguientes modalidades:
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2025)</small>
+
+I. Tratándose de bienes que la autoridad se haya adjudicado, al producto obtenido por la adjudicación se aplicará el monto del crédito fiscal actualizado más sus accesorios, así como el monto de los gastos de administración y mantenimiento en que la autoridad haya incurrido. El remanente del producto mencionado será el excedente que se devuelva al contribuyente; y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2025)</small>
+
+II. Cuando se lleve a cabo la adjudicación por remate, el producto obtenido se aplicará en los términos de lo dispuesto en el artículo 28 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se devolverá al contribuyente.
 
 En caso de conflicto, el remanente se depositará en institución de crédito autorizada en tanto resuelven las autoridades competentes.
 
@@ -3002,3 +3058,11 @@ II. El pago se hará desde el primer día de incapacidad y será cubierto por la
 DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA TRABAJADORES DE LA EDUCACIÓN
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de (sic) educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
+
+P.O. 12 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 152.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
