@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-carreteras-y-puentes-para-el-estado-de-oaxaca-55
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2021-10-16"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS, CARRETERAS Y PUENTES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 14 de abril de 2007.
 
@@ -65,7 +65,9 @@ III. Tránsito: La circulación que se realice en las vías estatales de comunic
 
 IV. Servicios Auxiliares: Aquellos necesarios para una mejor operación de la vía, como son: paradores estaciones de servicio, casetas de vigilancia;
 
-V. C.A.O.: Al organismo público descentralizado denominado CAMINOS Y AEROPISTAS DE OAXACA; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+V. CABIEN: Al organismo público descentralizado denominado CAMINOS BIENESTAR; y
 
 VI. Derecho de vía: La franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía estatal de comunicación.
 
@@ -77,7 +79,9 @@ Son parte de las vías estatales de comunicación los terrenos necesarios para e
 
 Es de competencia administrativa estatal todo lo relacionado con los caminos, carreteras, puentes y tránsito en las vías estatales de comunicación.
 
-Corresponden a C.A.O., sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Estatal las siguientes atribuciones:
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Corresponden a CABIEN sin perjuicio de las otorgadas a otras dependencias de la Administración Pública Estatal las siguientes atribuciones:
 
 I. Planear, formular y conducir las políticas y programas para el desarrollo de los caminos, carreteras, puentes y servicios que se requiera para el uso de los mismos;
 
@@ -97,33 +101,43 @@ VII. Las demás que señalen otros instrumentos legales.
 
 ### CAPITULO II. DE LA CONSTRUCCION, CONSERVACION Y EXPLOTACION DE LAS CARRETERAS Y PUENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 5.
 
-Es de utilidad pública la construcción, modernización, conservación y mantenimiento de las carreteras y puentes. C.A.O por sí, o a petición de los interesados, recibirá en donación, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa, donación o expropiación, se llevará a cabo conforme a la legislación aplicable.
+Es de utilidad pública la construcción, modernización, conservación y mantenimiento de las carreteras y puentes. CABIEN por sí, o a petición de los interesados, recibirá en donación, efectuará la compraventa o promoverá la expropiación de los terrenos, construcciones y bancos de material necesarios para tal fin. La compraventa, donación o expropiación se llevará a cabo conforme a la legislación aplicable.
 
 Los terrenos y aguas nacionales así como los materiales existentes en ellos, podrán ser utilizados para la construcción, conservación y mantenimiento de las carreteras y puentes conforme a las disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 6.
 
-No podrán ejecutarse trabajos de construcción o reconstrucción en las carreteras y puentes concesionados, sin la previa aprobación por C.A.O, de los planos, memoria descriptiva y demás documentos relacionados con las obras que pretendan ejecutarse.
+No podrán ejecutarse trabajos de construcción o reconstrucción en las carreteras y puentes concesionados, sin la previa aprobación por CABIEN, de los planos, memoria descriptiva y demás documentos relacionados con las obras que pretendan ejecutarse.
 
 Se exceptúan de lo dispuesto en el párrafo precedente, los trabajos de urgencia y de mantenimiento que sean necesarios para la conservación y buen funcionamiento de la carretera concesionada.
 
-Para los trabajos de urgencia, C.A.O indicará los lineamientos para su realización. Una vez pasada la urgencia, será obligación del concesionario la realización de los trabajos definitivos que se ajustarán a las condiciones del proyecto aprobado por C.A.O.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Para los trabajos de urgencia, CABIEN indicará los lineamientos para su realización. Una vez pasada la urgencia, será obligación del concesionario la realización de los trabajos definitivos que se ajustarán a las condiciones del proyecto aprobado por CABIEN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### Artículo 7.
 
-Los cruzamientos y entronques de carreteras estatales sólo podrán efectuarse previo permiso de C.A.O.
+Los cruzamientos y entronques de carreteras estatales solo podrán efectuarse previo permiso de CABIEN.
 
 Las obras de construcción y conservación de los cruzamientos se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos establecidos en el permiso y en los reglamentos respectivos.
 
-###### Artículo 8.- C.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-A.O, tomando en cuenta las circunstancias de cada caso, podrá prever la construcción de los libramientos necesarios que eviten el tránsito pesado por las poblaciones.
+###### Artículo 8.
 
-C.A.O, considerando la importancia de la carretera, la continuidad de la vía y la seguridad de los usuarios, podrá convenir con los municipios, su paso por las poblaciones, dejando la vigilancia y regulación del tránsito dentro de la zona urbana a las autoridades locales.
+CABIEN tomando en cuenta las circunstancias de cada caso, podrá prever la construcción de los libramientos necesarios que eviten el tránsito pesado por las poblaciones.
 
-Asimismo, C.A.O podrá convenir con los municipios la conservación, reconstrucción y ampliación de tramos estatales.
+CABIEN, considerando la importancia de la carretera, la continuidad de la vía y la seguridad de los usuarios, podrá convenir con los municipios, su paso por las poblaciones, dejando la vigilancia y regulación del tránsito dentro de la zona urbana a las autoridades locales.
+
+Asimismo, CABIEN podrá convenir con los municipios la conservación, reconstrucción y ampliación de tramos estatales;
 
 ###### Artículo 9.
 
@@ -135,11 +149,15 @@ En los terrenos adyacentes a las vías generales de comunicación materia de est
 
 La franja que determina el derecho de vía de una carretera estatal, tendrá una amplitud mínima absoluta de treinta metros, a cada lado del eje del camino, tratándose de carretera de dos cuerpos, se medirá a partir del eje de cada uno de ellos, la cual podrá ampliarse en los lugares en que esto resulte posible, según las necesidades de la obra tomando en consideración la densidad del tránsito y el entorno topográfico.
 
-Por razones de seguridad, C.A.O podrá exigir a los propietarios de los predios colindantes de las carreteras que los cerquen o delimiten, según se requiera, respecto del derecho de vía.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Por razones de seguridad, CABIEN podrá exigir a los propietarios de los predios colindantes de las carreteras que los cerquen o delimiten, según se requiera, respecto del derecho de vía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### Artículo 11.
 
-Se requiere permiso previo de C.A.O para la instalación de líneas de transmisión eléctrica, postes, cercas, ductos de transmisión de productos derivados del petróleo o cualquiera otra obra subterránea, superficial o aérea, en las vías estatales de comunicación que pudieran entorpecer el buen funcionamiento de las carreteras. C.A.O evaluará, previo dictamen técnico, la procedencia de dichos permisos.
+Se requiere permiso previo de CABIEN para la instalación de líneas de transmisión eléctrica, postes, cercas, ductos de transmisión de productos derivados del petróleo o cualquiera otra obra subterránea, superficial o aérea, en las vías estatales de comunicación que pudieran entorpecer el buen funcionamiento de las carreteras. CABIEN evaluará, previo dictamen técnico, la procedencia de dichos permisos.
 
 El que sin permiso, con cualquier obra o trabajo invada las vías de comunicación a que se refiere esta Ley, estará obligado a demoler la obra ejecutada en la parte de la vía invadida y del derecho de vía delimitado y a realizar las reparaciones que la misma requiera.
 
@@ -147,21 +165,27 @@ El que sin permiso, con cualquier obra o trabajo invada las vías de comunicaci�
 
 El derecho de vía y las instalaciones asentadas en él, no estarán sujetas a servidumbre.
 
-###### Artículo 13.- C.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
 
-A.O podrá otorgar concesiones para construir, mantener, conservar y explotar carreteras y puentes a los particulares o municipios, conforme al procedimiento establecido en la presente Ley; así como para mantener, conservar y explotar caminos y carreteras federales construidos o adquiridos por cualquier título por el Gobierno del Estado. En este último caso, las concesiones no podrán ser por plazos mayores a veinte años. C.A.O garantizará, cuando haya vías alternas, la operación de una libre de peaje.
+###### Artículo 13.
+
+CABIEN podrá otorgar concesiones para construir, mantener, conservar y explotar carreteras y puentes a los particulares o municipios, conforme al procedimiento establecido en la presente Ley, así como para mantener, conservar y explotar caminos y carreteras federales construidos o adquiridos por cualquier título por el Gobierno del Estado. En este último caso, las concesiones no podrán ser por plazos mayores a veinte años. CABIEN garantizará, cuando haya vías alternas, la operación de una libre de peaje:
 
 La construcción, mantenimiento, conservación, explotación, operación y administración de las carreteras y puentes estarán sujetos a lo dispuesto en esta Ley y sus reglamentos, y a las condiciones impuestas en la concesión respectiva.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 14.
 
-No podrán abrirse al uso público los caminos, carreteras y puentes que se construyan, sin que previamente C.A.O constate que su construcción se ajustó al proyecto y especificaciones aprobadas, y que cuenta con los señalamientos establecidos por las normas aplicables. Al efecto, la entidad ejecutora, contratista o el concesionario, en su caso, deberá dar aviso a C.A.O de la terminación de la obra y ésta dispondrá de un plazo de treinta días naturales para resolver lo conducente.
+No podrán abrirse al uso público los caminos, carreteras y puentes que se construyan, sin que previamente CABIEN constate que su construcción se ajustó al proyecto y especificaciones aprobadas, y que cuenta con los señalamientos establecidos por las normas aplicables. Al efecto, la entidad ejecutora, contratista o el concesionario, en su caso, deberá dar aviso a CABIEN de la terminación de la obra y ésta dispondrá de un plazo de treinta días naturales para resolver lo conducente.
 
 ### CAPITULO III. CONCESIONES Y PERMISOS
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 15.
 
-Es atribución del Ejecutivo del Estado, por conducto del CAO, otorgar concesiones sobre los servicios materia de esta ley, de conformidad con lo dispuesto por el artículo 20 décimo párrafo de la Constitución Local.
+Es atribución del Ejecutivo del Estado, por conducto del CABIEN otorgar concesiones sobre los servicios materia de esta ley, de conformidad con Io dispuesto por el artículo 20 décimo párrafo de la Constitución Local.
 
 ###### Artículo 16.
 
@@ -171,7 +195,9 @@ Las concesiones se otorgarán a mexicanos o sociedades constituidas conforme a l
 
 Las concesiones se otorgarán hasta por un plazo de treinta años, pudiendo ser prorrogadas hasta por un plazo equivalente al señalado originalmente, siempre que el concesionario hubiere cumplido con las condiciones impuestas y lo solicite durante la última quinta parte de su vigencia y a más tardar un año antes de su conclusión.
 
-C.A.O., contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de sesenta días naturales contados a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá considerar lo siguiente:
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+CABIEN, contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de sesenta días naturales contados a partir de la fecha de presentación de la misma debidamente requisitada y establecerá las nuevas condiciones de la concesión, para lo cual deberá considerar lo siguiente:
 
 a).- La inversión propuesta;
 
@@ -183,43 +209,61 @@ c).- Las demás proyecciones financieras y operativas que considere la rentabili
 
 Las concesiones a que se refiere este capítulo se otorgarán, conforme a las siguientes reglas:
 
-I. C.A.O. a través de su Consejo de Administración, expedirá convocatoria pública para que, en un plazo de treinta días, se presenten proposiciones en sobre cerrado, que será abierto el día señalado y en presencia de las personas que acudan al acto de recepción y apertura de ofertas.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-Cuando exista la petición de un interesado, C.A.O en un plazo razonable de sesenta días naturales expedirá la convocatoria correspondiente o señalará al interesado las razones de la improcedencia;
+I. CABIEN a través de su Consejo de Administración, expedirá convocatoria pública para que, en un plazo de treinta días, se presenten proposiciones en sobre cerrado, que será abierto el día señalado y en presencia de las personas que acudan al acto de recepción y apertura de ofertas.
+
+Cuando exista la petición de un interesado, CABIEN en un plazo razonable de sesenta días naturales expedirá la convocatoria correspondiente o señalará al interesado las razones de la improcedencia;
 
 II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Gobierno del Estado, en un periódico de amplia circulación estatal y en uno nacional, así como en los medios electrónicos disponibles por el Estado;
 
 III. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión, el lapso de ejecución, los requisitos de calidad de la construcción y operación, la modalidad y monto de las garantías; los criterios para su otorgamiento serán principalmente los precios y las tarifas para el usuario, el tiempo de construcción, el proyecto técnico en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión.
 
-IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida C.A.O;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida CABIEN;
 
 V. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen, y las causas principales que motivaren tal determinación;
 
-VI. C.A.O, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante diez días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+VI. CABIEN, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes. La proposición ganadora estará a disposición de los participantes durante diez días hábiles a partir de que se haya dado a conocer el fallo, para que manifiesten lo que a su derecho convenga;
 
 VII. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumpla con las bases del concurso. En este caso, se declarará desierto el concurso;
 
-VIII. Declarado desierto el concurso C.A.O realizará un nuevo concurso mediante invitación restringida a por lo menos tres interesados, para que presenten sus propuestas que lleven a adjudicar la concesión; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-IX. El Consejo de Administración de C.A.O, o en su defecto, su Director General previa autorización del Consejo; podrán adjudicar directamente la concesión para la ejecución de las obras o servicios correspondientes, cuando se hayan declarado desiertos los concursos en los procedimientos anteriores.
+VIII. Declarado desierto el concurso CABIEN realizará un nuevo concurso mediante invitación restringida a por lo menos tres interesados, para que presenten sus propuestas que lleven a adjudicar la concesión; y
 
-En estos casos, la garantía será fijada de acuerdo al monto total de la obra o servicio a concesionar y podrá ser otorgada mediante garantía hipotecaria o cualquier otra permitida por la ley. El Consejo de Administración de C.A.O podrá determinar por acuerdo administrativo un monto diferente y las modalidades de las garantías que se otorguen.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+IX. El Consejo de Administración de CABIEN, o en su defecto, su Director General previa autorización del Consejo; podrán adjudicar directamente la concesión para la ejecución de las obras o servicios correspondientes, cuando se hayan declarado desiertos los concursos en los procedimientos anteriores.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN IX, P.O. 12 DE JULIO DE 2025]</small>
+
+En estos casos, la garantía será fijada de acuerdo al monto total de la obra o servicio a concesionar y podrá ser otorgada mediante garantía hipotecaria o cualquier otra permitida por la ley. El Consejo de Administración de CABIEN podrá determinar por acuerdo administrativo un monto diferente y las modalidades de las garantías que se otorguen.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### Artículo 18.
 
-CAO podrá otorgar permisos relacionados (sic) la explotación de los servicios auxiliares a que se refiere la presente ley:(sic)
+CABIEN podrá otorgar permisos relacionados (sic) la explotación de los servicios auxiliares a que se refiere la presente ley:
 
 ###### Artículo 19.
 
 Las concesiones y permisos a que se refiere esta Ley se ajustarán a las disposiciones que en materia de competencia económica estén vigentes en el Estado.
 
-###### Artículo 20.- C.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-A.O llevará un registro de las sociedades que se presenten a los concursos que convoque para otorgar las concesiones, así como de concesionarios y permisionarios a que se refiere esta ley.
+###### Artículo 20.
 
-###### Artículo 21.- C.
+CABIEN llevará un registro de las sociedades que se presenten a los concursos que convoque para otorgar las concesiones, así como de concesionarios y permisionarios a que se refiere esta ley.
 
-A.O podrá autorizar, dentro de un plazo de 60 días naturales, contados a partir de la presentación de la solicitud, la cesión de los derechos y obligaciones establecidos en las concesiones o permisos, siempre que éstos hubieren estado vigentes por un lapso no menor a tres años; que el cedente haya cumplido con todas sus obligaciones; y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión o permiso respectivos.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+###### Artículo 21.
+
+CABIEN podrá autorizar, dentro de un plazo de 60 días naturales, contados a partir de la presentación de la solicitud, la cesión de los derechos y obligaciones establecidos en las concesiones o permisos, siempre que éstos hubieren estado vigentes por un lapso no menor a tres años; que el cedente haya cumplido con todas sus obligaciones; y que el cesionario reúna los mismos requisitos que se tuvieron en cuenta para el otorgamiento de la concesión o permiso respectivos.
 
 ###### Artículo 22.
 
@@ -243,7 +287,9 @@ VI. El periodo de vigencia;
 
 VII. El monto del fondo de reserva destinado a la conservación y mantenimiento de la vía;
 
-VIII. Las contraprestaciones que deban cubrirse al gobierno estatal, mismas que serán fijadas por la Secretaría de Finanzas a propuesta de C.A.O, y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+VIII. Las contraprestaciones que deban cubrirse al gobierno estatal, mismas que serán fijadas por la Secretaría de Finanzas a propuesta de CABIEN, y
 
 IX. Las causas de revocación y terminación.
 
@@ -289,9 +335,13 @@ VI. Cambiar de nacionalidad el concesionario o permisionario;
 
 VII. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias;
 
-VIII. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de C.A.O;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-IX. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos, carreteras y puentes o servicios auxiliares sin autorización de C.A.O;
+VIII. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de CABIEN;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+IX. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos, carreteras y puentes o servicios auxiliares sin autorización de CABIEN;
 
 X. Prestar servicios distintos a los señalados en el permiso respectivo;
 
@@ -323,23 +373,25 @@ Los concesionarios deberán otorgar esta garantía en los términos que establez
 
 El derecho a percibir las indemnizaciones establecidas en este capítulo y la fijación del monto se sujetará a las disposiciones del derecho común aplicables.
 
-C.A.O resolverá administrativamente las controversias que se originen en relación con el seguro del viajero o usuario de la vía, sin perjuicio de que las partes sometan la controversia ante los tribunales competentes.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+CABIEN resolverá administrativamente las controversias que se originen en relación con el seguro del viajero o usuario de la vía, sin perjuicio de que las partes sometan la controversia ante los tribunales competentes.
 
 ### CAPITULO V. INSPECCION, VERIFICACION Y VIGILANCIA
 
-###### Artículo 30.- C.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-A.O tendrá a su cargo la inspección, verificación y vigilancia de las carreteras y puentes, en lo relativo a su estado físico, así como de los servicios que en ellos se presten y que se relacionen con el tránsito.
+###### Artículo 30.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+CABIEN tendrá a su cargo la inspección, verificación y vigilancia de las carreteras y puentes, en lo relativo a su estado físico, así como de los servicios que en ellos se presten y que se relacionen con el tránsito.
 
-Para los efectos del presente artículo, C.A.O podrá comisionar a servidores públicos, para que realicen las inspecciones o diligencias y levanten el acta correspondiente sujetándose a los requisitos que se señalan en la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca, C.A.O podrá autorizar a terceros para que lleven a cabo verificaciones de acuerdo con las normas para contratar servicios.
+Para los efectos del presente artículo, CABIEN podrá comisionar a servidores públicos, para que realicen las inspecciones o diligencias y levanten el acta correspondiente sujetándose a los requisitos que se señalan en la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca, CABIEN podrá autorizar a terceros para que lleven a cabo verificaciones de acuerdo con las normas para contratar servicios.
 
-###### Artículo 31.- C.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-A.O realizará visitas de inspección, a través de servidores públicos comisionados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Las visitas de inspección se practicarán en días y horas hábiles, sin embargo, podrán practicarse inspecciones en días y horas inhábiles en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso, previo acuerdo, se deberán habilitar.
+###### Artículo 31.
 
-Los concesionarios, están obligados a proporcionar a los servidores públicos comisionados por C.A.O todos los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por C.A.O.
+CABIEN realizará visitas de inspección, a través de servidores públicos comisionados que exhiban identificación vigente y orden de visita, en la que se especifiquen las disposiciones cuyo cumplimiento habrá de inspeccionarse. Las visitas de inspección se practicarán en días y horas hábiles, sin embargo, podrán practicarse inspecciones en días y horas inhábiles en aquellos casos en que el tipo y la naturaleza de los servicios así lo requieran, en cuyo caso, previo acuerdo, se deberán habilitar. Los concesionarios, están obligados a proporcionar a los servidores públicos comisionados por CABIEN todos los datos o informes que les sean requeridos y permitir el acceso a sus instalaciones para cumplir su cometido conforme a la orden de visita emitida por CABIEN.
 
 ###### Artículo 32.
 
@@ -369,13 +421,17 @@ IX. Síntesis descriptiva sobre la visita, asentando los hechos, datos y omision
 
 Una vez elaborada el acta, el servidor público que realiza la inspección proporcionará una copia de la misma a la persona que atendió la visita, aún en el caso de que ésta se hubiera negado a firmarla, hecho que no afectará su validez.
 
-El visitado contará con un término de diez días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna Infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, C.A.O dictará la resolución que corresponda.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+El visitado contará con un término de diez días hábiles, a fin de que presente las pruebas y defensas que estime conducentes, en el caso de alguna infracción a las disposiciones de la presente Ley. Con vista en ellas o a falta de su presentación, CABIEN dictará la resolución que corresponda.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 34.
 
-Las infracciones a lo dispuesto en esta Ley, serán sancionadas por C.A.O de acuerdo con lo siguiente:
+Las infracciones a lo dispuesto en esta Ley, serán sancionadas por CABIEN de acuerdo con lo siguiente:
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
@@ -393,31 +449,39 @@ III. Colocar intencionalmente objetos o señales con ánimo de ocasionar daño a
 
 IV. Cualquier otra infracción a lo previsto en la presente Ley o a los ordenamientos que de ella se deriven, con multa de hasta 500 veces la Unidad de Medida y Actualización.
 
-En caso de reincidencia, C.A.O podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+En caso de reincidencia, CABIEN podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 Para los efectos del presente Capítulo, se entiende por Unidad de Medida y Actualización, el valor diario de la Unidad de Medida y Actualización vigente en el Estado al momento de cometerse la infracción.
 
-Los ingresos derivados por concepto de multas que se impongan en términos del presente Artículo, se destinarán a C.A.O para cubrir gastos de operación e inversión en tecnología y programas vinculados al transito en las vías estatales de comunicación.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Los ingresos derivados por concepto de multas que se impongan en términos del presente Artículo, se destinarán a CABIEN para cubrir gastos de operación e inversión en tecnología y programas vinculados al tránsito en las vías estatales de comunicación.
 
 ###### Artículo 35.
 
 En las vías estatales de comunicación se aplicaran las normas estatales vigentes en materia de tránsito, por lo que las autoridades en la materia impondrán las sanciones por violaciones a las mismas.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 36.
 
-El que sin haber previamente obtenido concesión o permiso de C.A.O opere o explote carreteras y puentes estatales, perderá en beneficio del Estado, las obras ejecutadas y las instalaciones establecidas.
+El que sin haber previamente obtenido concesión o permiso de CABIEN opere o explote carreteras y puentes estatales, perderá en beneficio del Estado, las obras ejecutadas y las instalaciones establecidas.
 
-Una vez que C.A.O tenga conocimiento de ello, mediante previo acuerdo fundado y motivado, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas poniéndolas bajo la guarda de un interventor, con un inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un plazo de diez días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; pasado dicho término, C.A.O dictará la resolución fundada y motivada que corresponda.
+Una vez que CABIEN tenga conocimiento de ello, mediante previo acuerdo fundado y motivado, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas poniéndolas bajo la guarda de un interventor, con un inventario que al respecto se formule. Posteriormente al aseguramiento, se concederá un plazo de diez días hábiles al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; pasado dicho término, CABIEN dictará la resolución fundada (sic) motivada que corresponda.
 
 ###### Artículo 37.
 
 El monto de las sanciones administrativas que se impongan por violaciones a la presente Ley y a los ordenamientos que de ella se deriven, podrá ser garantizado mediante el otorgamiento de garantía suficiente para responder de las mismas. En caso de que la garantía sea el vehículo, podrá entregarse en depósito a su conductor o a su legítimo propietario, quienes deberán presentarlo ante la autoridad competente cuando ésta lo solicite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 38.
 
-Al imponer las sanciones, C.A.O deberá considerar:
+Al imponer las sanciones, CABIEN deberá considerar:
 
 I. La gravedad de la infracción;
 
@@ -425,17 +489,19 @@ II. Los daños causados; y
 
 III. La reincidencia.
 
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 39.
 
-Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad penal que resulte, o de la revocación de la concesión o permiso que determine C.A.O, cuando así proceda.
+Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad penal que resulte, o de la revocación de la concesión o permiso que determine CABIEN, cuando así proceda.
 
 ### CAPITULO VII. DE LA SUPLETORIEDAD
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
 ###### Artículo 40.
 
-Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones, C.A.O se ajustará a lo que dispone la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.
+Para declarar la revocación de las concesiones y permisos, suspensión de servicios y la imposición de las sanciones, CABIEN se ajustará a lo que dispone la Ley de Procedimientos y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### Artículo 41.
 
@@ -500,3 +566,11 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 12 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 682.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 2, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 4, EL PRIMER PÁRRAFO DEL ARTÍCULO 5, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 6, EL PRIMER PÁRRAFO DEL ARTÍCULO 7, EL ARTÍCULO 8, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10, EL PRIMER PÁRRAFO DEL ARTÍCULO 11, EL PRIMER PÁRRAFO DEL ARTÍCULO 13, LOS ARTÍCULOS 14 y 15, EL CUARTO PÁRRAFO DEL ARTÍCULO 16, LAS·FRACCIONES I, IV, VI, VIII Y IX DEL ARTÍCULO 17, LOS ARTÍCULOS 18, 20 Y 21, LA FRACCIÓN VIII DEL ARTÍCULO 23, LAS FRACCIONES VIII Y IX DEL ARTÍCULO 25, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 29, LOS ARTÍCULOS 30 Y 31, EL TERCER PÁRRAFO DEL ARTÍCULO 33, EL PRIMERO, SEGUNDO Y CUARTO PÁRRAFO DEL ARTÍCULO 34, EL ARTÍCULO 36, EL PRIMER PÁRRAFO DEL ARTÍCULO 38, Y LOS ARTÍCULOS 39 Y 40 DE LA LEY DE CAMINOS, CARRETERAS Y PUENTES PARA EL ESTADO DEOAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor .al día siguiente de su publicación.
