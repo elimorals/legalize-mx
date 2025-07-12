@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-organizaciones-de-asistencia-social-para-el-estado-12611
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-08"
-last_updated: "2017-12-08"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
 
 Ley publicada en el Extra 13 del Periódico Oficial del Estado de Oaxaca, el viernes 8 de diciembre de 2017.
 
@@ -123,7 +123,9 @@ La aplicación y seguimiento de esta Ley corresponde:
 
 I. Al Gobernador Constitucional del Estado de Oaxaca;
 
-II. A la Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+II. Secretaría de Bienestar, Tequio e inclusión;
 
 III. Al Instituto Estatal de Educación Pública de Oaxaca;
 
@@ -155,29 +157,53 @@ El Consejo Estatal de Asistencia Social es el órgano dependiente del DIF Estata
 
 El Consejo Estatal de Asistencia Social estará integrado por:
 
-I. El Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-II. El titular de la Dirección General del DIF Estatal, quien fungirá como Secretario Técnico del Consejo;
+I. La Gobernadora o el Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, quien ocupará la Presidencia del Consejo;
 
-III. El Titular del IEEPO;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-IV. El Titular de la Secretaría de Desarrollo Social y Humano;
+II. La o el titular de la Dirección General del DIF Estatal, quien ocupará la Secretaría Técnica del Consejo;
 
-V. El Titular de la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-VI. El Titular de la Fiscalía General del Estado;
+III. La o el Titular del IEEPO;
 
-VII. El Titular de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-VIII. El Titular de Protección Civil;
+IV. La o el Titular de la Secretaría de Bienestar, Tequio e Inclusión;
 
-IX. El Titular de la Secretaría de la Mujer Oaxaqueña;
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-X. El Titular de la Secretaría Ejecutiva del Sistema Local de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca; y
+V. La o el Titular de la Secretaría de Salud;
 
-XI. Dos representantes de la sociedad civil. Para efectos de esta fracción, el Titular del Poder Ejecutivo invitará a formar parte del Consejo a todas las organizaciones civiles que operen dentro del Estado y que tengan actividades relacionadas con las funciones del Consejo, para que entre ellos se elija a los dos que los representen.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
 
-Los integrantes del Consejo Estatal de Asistencia Social deberán nombrar un suplente, quien deberá tener el nivel de subsecretario o su equivalente dentro de la estructura de cada dependencia, mediante comunicación por escrito dirigida al Secretario Técnico.
+VI. La o el Titular de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+VII. La o el Titular de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+VIII. La o el Titular de Protección Civil;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+IX. La Titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+X. La o el Titular de la Secretaría Ejecutiva del Sistema Local de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca; y
+
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2025)</small>
+
+XI. Dos representantes de la sociedad civil. Para efectos de esta fracción, la o el Titular del Poder Ejecutivo invitará a formar parte del Consejo a todas las organizaciones civiles que operen dentro del Estado y que tengan actividades relacionadas con las funciones del Consejo, para que entre ellas se elijan a las dos personas que las representen.
+
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Las y los integrantes del Consejo Estatal de Asistencia Social deberán nombrar un suplente, quien deberá tener el nivel de subsecretario o su equivalente dentro de la estructura de cada dependencia, mediante comunicación por escrito dirigida a la Secretará Técnica de este Consejo.
 
 ### Capítulo II. Organización y funcionamiento
 
@@ -213,9 +239,11 @@ III. Celebrar convenios de coordinación y colaboración con la Federación, ent
 
 IV. Las demás que le señalen otras disposiciones jurídicas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 13.
 
-La Secretaría de Desarrollo Social y Humano tiene las siguientes atribuciones:
+La Secretaría de Bienestar, Tequio e Inclusión tiene las siguientes atribuciones:
 
 I. Realizar las Visitas de Verificación que en el ámbito de su competencia le correspondan;
 
@@ -329,9 +357,11 @@ IV. Informar al Consejo Estatal de Asistencia Social el resultado de las Visitas
 
 V. Las demás que establezcan otras disposiciones jurídicas en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2025)</small>
+
 ###### Artículo 20.
 
-La Secretaría de la Mujer Oaxaqueña tiene las siguientes atribuciones:
+La Secretaría de las Mujeres tienen (sic) las siguientes atribuciones:
 
 I. Realizar las Visitas de Verificación que en el ámbito de su competencia le correspondan;
 
@@ -845,7 +875,9 @@ El Consejo Estatal de Asistencia Social y la Procuraduría de Protección deber�
 
 El Padrón de Organizaciones de Asistencia Social deberá contener el nombre de la institución, dirección, nombre del responsable, tipo de residentes que atiende y si es pública o privada.
 
-La Secretaría de Desarrollo Social y Humano y el DIF Estatal, a través de su página de internet, publicarán el Padrón de Organizaciones de Asistencia Social.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
+
+La Secretaría de Bienestar, Tequio e Inclusión y el DIF Estatal, a través de su página de internet, publicarán el Padrón de Organizaciones de Asistencia Social.
 
 ###### Artículo 75.
 
@@ -888,3 +920,13 @@ Cuarto. Dentro del término de ciento veinte días contados a partir de la entra
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de septiembre de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Hilda Graciela Pérez Luis, Secretaria.- Dip. Leslie Vibsania Mendoza Zavaleta, Secretaria.- Dip. María Mercedes Rojas Saldaña, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax, a 20 de Octubre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 685.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II DEL ARTÍCULO 5, LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X Y XI DEL ARTÍCULO 7, EL ARTÍCULO 13, EL PRIMER PÁRRAFO DEL ARTÍCULO 20 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 74 DE LA LEY DE ORGANIZACIONES DE ASISTENCIA SOCIAL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
