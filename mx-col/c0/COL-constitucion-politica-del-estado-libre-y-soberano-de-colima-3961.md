@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2025-02-15"
+last_updated: "2025-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -346,6 +346,10 @@ A. La educación gozará de especial atención en el Estado, en los términos qu
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
 La formación de las y los educandos se realizará en el marco de fortalecimiento de los valores de la justicia, la tolerancia, la bondad, la rectitud, la honestidad y el diálogo y, en todo caso, fomentará en ellos la cultura de la paz y la legalidad, como una forma de aprender a vivir en armonía utilizando como métodos alternativos de solución de conflictos.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2025)</small>
+
+Se reconoce a la Lengua de Señas Mexicana como lengua nacional y parte del patrimonio lingüístico del Estado, por lo que se impulsará que las personas Sordas reciban una educación en Lengua de Señas Mexicana, y se promoverá su enseñanza y utilización mediante un esfuerzo coordinado entre el Gobierno del Estado y los Municipios, las instituciones educativas, la sociedad civil y la comunidad de personas Sordas.
 
 B. El Gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
 
@@ -2739,9 +2743,9 @@ Los gobiernos del Estado y los municipios impartirán la educación de tipo bás
 
 Corresponde al Estado la rectoría de la educación, la impartida por éste, además de obligatoria, será universal, inclusiva, pública, gratuita y laica.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2025)</small>
 
-La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje; además como parte de la formación integral de las niñas, niños, adolescentes y jóvenes, el Estado garantizará que reciban educación ambiental, que fomentará la enseñanza en el cuidado del medio ambiente, los ecosistemas, la fauna, la flora, el correcto manejo de residuos, y demás actividades tendientes a que se cuide y se preserve la naturaleza, de conformidad con lo que se disponga en la ley correspondiente.
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje; además como parte de la formación integral de las niñas, niños, adolescentes y jóvenes, el Estado garantizará que reciban educación ambiental, que fomentará la enseñanza en el cuidado del medio ambiente, los ecosistemas, la fauna, la flora, el correcto manejo de residuos, y demás actividades tendientes a que se cuide y se preserve la naturaleza, de conformidad con lo que se disponga en la ley correspondiente. Además, se promoverá la enseñanza de la Lengua de Señas Mexicana en el sistema educativo estatal.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)</small>
 
@@ -4624,3 +4628,9 @@ TERCERO. Los juicios y recursos tramitados con anterioridad a la entrada en vigo
 CUARTO. Las garantías previstas en los artículos 77 y 79 de esta Constitución serán aplicables tanto a las magistradas y magistrados en funciones como a quienes sean designados en los Tribunales de Justicia Administrativa y el Tribunal de Arbitraje y Escalafón del Estado, según corresponda.
 
 QUINTO. Una vez aprobada la reforma constitucional derivada del procedimiento del artículo 129 de la Constitución Política del Estado Libre y Soberano de Colima, el Congreso del Estado realizará las adecuaciones presupuestarias correspondientes para la implementación de la nueva integración del Tribunal de Justicia Administrativa, de conformidad con la propuesta que haga llegar el Pleno, dentro de los quince días siguientes a la aprobación de los nuevos nombramientos.
+
+P.O. 12 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 144.- POR EL QUE SE REFORMA EL ARTÍCULO 97, PÁRRAFO TERCERO, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12, APARTADO A, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, PARA RECONOCER LA LENGUA DE SEÑAS MEXICANAS COMO LENGUA NACIONAL Y PARTE DEL PATRIMONIO LINGÜÍSTICO DEL ESTADO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
