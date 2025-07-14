@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-04-11"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -53,7 +53,9 @@ CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
 1. El presente Código es de observancia general en el Estado de México, sus disposiciones son de orden público e interés social y tienen por objeto regular las materias siguientes:
 
-I. Equilibrio Ecológico, la Protección al Ambiente y el Fomento al Desarrollo Sostenible;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+I. Equilibrio Ecológico, la Protección al Patrimonio Natural y Biocultural del Estado de México y el Fomento al Desarrollo Sostenible;
 
 II. Fomento para el Desarrollo Forestal Sostenible;
 
@@ -87,9 +89,17 @@ VI. Regular y promover la educación y la cultura ambiental en todos los sectore
 
 VII. Propiciar el desarrollo sostenible mediante el aprovechamiento y uso racional de los elementos naturales, de los recursos naturales y de los bienes ambientales;
 
-VIII. Protección, conservación, preservación, rehabilitación, restauración, recuperación y remediación de la biodiversidad y sus componentes; y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-IX. Promover la aplicación racional y el manejo de los pagos de servicios ambientales o ecosistémicos derivados de las actividades humanas sostenibles.
+VIII. Protección, conservación, preservación, rehabilitación, restauración, recuperación y remediación de la biodiversidad y sus componentes;
+
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+IX. Promover la aplicación racional y el manejo de los pagos de servicios ambientales o ecosistémicos derivados de las actividades humanas sostenibles; y
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+X. El reconocimiento, conservación y uso sostenible del Patrimonio Natural y Biocultural del Estado de México como base para el desarrollo sostenible, la justicia ambiental y la equidad intergeneracional.
 
 ###### Artículo 1.
 
@@ -179,7 +189,9 @@ I. Regular el ejercicio de las atribuciones que en materia ambiental corresponde
 
 II. Asegurar el derecho y la obligación corresponsable de la participación de las personas dentro del territorio del Estado, ya sea en forma individual o colectiva en la preservación de la diversidad biológica, la restauración del equilibrio ecológico, el desarrollo sostenible y la protección al medio ambiente; se procurará la participación de los pueblos y las comunidades indígenas, así como de los ejidos y comunidades agrarias, a través de mecanismos que posibiliten la aplicación de sus conocimientos en la preservación de la diversidad biológica y la protección del medio ambiente;
 
-III. Establecer criterios ambientales para el manejo de los recursos y elementos de la naturaleza para la prevención y control de la contaminación del agua, aire y suelo logrando ordenar ecológicamente el territorio de la Entidad, mediante la preservación del patrimonio natural del Estado y de los procesos ambientales esenciales, de los que depende la supervivencia de los ecosistemas, considerados de forma integral;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+III. Establecer criterios ambientales para el manejo de los recursos y elementos de la naturaleza para la prevención y control de la contaminación del agua, aire y suelo logrando ordenar ecológicamente el territorio de la Entidad, mediante la preservación del Patrimonio Natural y Biocultural del Estado de México y de los procesos ambientales esenciales, de los que depende la supervivencia de los ecosistemas, considerados de forma integral;
 
 IV. Promover la cultura ambiental y el conocimiento público sobre la conservación, restauración y la utilización responsable de la biodiversidad;
 
@@ -443,13 +455,21 @@ LVIII. Riesgo ambiental: El daño potencial a la población, sus bienes y al med
 
 LIX. Secretaría: La Secretaría del Medio Ambiente y Desarrollo Sostenible del Estado de México;
 
-LX. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equilibrio en el Estado; y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-LXI. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que por sus cantidades y características puede representar un riesgo a la salud humana, a los organismos vivos y al aprovechamiento de los bienes o propiedades de las personas.
+LX. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equilibrio en el Estado;
 
-> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-LXII. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento.
+LXI. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que por sus cantidades y características puede representar un riesgo a la salud humana, a los organismos vivos y al aprovechamiento de los bienes o propiedades de las personas;
+
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+LXII. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento; y
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+LXIII. Patrimonio Ambiental y Biocultural: Es el conjunto de áreas naturales constituidas por ambientes biológicos, geológicos, fisiográficos, yacimientos paleontológicos y otros elementos dentro del territorio del Estado de México, que, por su valor ambiental, importancia cultural y belleza paisajística es objeto de protección legal para garantizar su preservación en términos de la normatividad aplicable y que constituyen el hábitat natural de las especies de flora y fauna de la entidad.
 
 ### CAPITULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -887,9 +907,11 @@ IV. Se trate de información sobre inventarios e insumos y tecnologías de proce
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 2.
 
-35. Para la formulación y conducción de la política ambiental y aplicación de los instrumentos previstos en este Libro en materia de preservación de la biodiversidad, restauración del equilibrio ecológico, sus hábitats y protección ambiental del Estado, se hará considerando e insertando en ella los siguientes principios:
+35. Para la formulación y conducción de la política ambiental y aplicación de los instrumentos previstos en este Libro en materia de preservación del Patrimonio Natural y Biocultural del Estado de México, la biodiversidad, restauración del equilibrio ecológico, sus hábitats y protección ambiental del Estado, se hará considerando e insertando en ella los siguientes principios:
 
 I. Los ecosistemas y sus hábitats son patrimonio común de la sociedad, su equilibrio depende en que se aseguren las posibilidades productivas y la calidad de vida, acorde con las posibilidades del desarrollo sostenible del Estado, consecuentemente, la conservación y el manejo sustentable de la biodiversidad y recursos asociados del Estado de México prevalecerán sobre cualquier otro tipo de uso y destino que se pretenda asignar;
 
@@ -1177,7 +1199,9 @@ III. El ahorro, uso, aprovechamiento sostenible y la prevención de la contamina
 
 IV. La ubicación y reubicación de instalaciones agropecuarias, industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
-V. El establecimiento, manejo y vigilancia de áreas naturales sometidas a las categorías especiales de protección a las que se refiere el presente Libro; y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+V. El establecimiento, manejo y vigilancia del Patrimonio Natural y Biocultural, así como de las de áreas naturales sometidas a las categorías especiales de protección a las que se refiere el presente Libro; y
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1213,9 +1237,11 @@ IV. las autorizaciones y permisos de aprovechamiento y uso de los elementos natu
 
 62. La Secretaría con el apoyo de otras dependencias y entidades estatales y municipales determinará las zonas y bienes estatales que requieran actividades de preservación, conservación, remediación, rehabilitación y restauración del equilibrio ecológico.
 
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 2.
 
-63. La Secretaría propondrá al titular del Poder Ejecutivo la celebración de acuerdos de coordinación para la formulación y ejecución de proyectos y programas especiales para la conservación, preservación, remediación, rehabilitación, recuperación, restauración y protección del equilibrio ecológico en aquellas zonas de jurisdicción estatal que se encuentran sujetas a graves procesos de deterioro de la biodiversidad, las cuales y para efectos del presente Libro serán consideradas regiones ecológicas de atención prioritaria.
+63. La Secretaría propondrá al titular del Poder Ejecutivo la celebración de acuerdos de coordinación para la formulación y ejecución de proyectos y programas especiales para la conservación, preservación, remediación, rehabilitación, recuperación, restauración y protección del equilibrio ecológico en aquellas zonas de jurisdicción estatal o de Patrimonio Natural y Biocultural que se encuentran sujetas a graves procesos de deterioro de la biodiversidad, las cuales y para efectos del presente Libro serán consideradas regiones.
 
 ###### Artículo 2.
 
@@ -1543,9 +1569,11 @@ En tales reservas podrá determinarse la existencia de la superficie o superfici
 
 En las propias reservas deberán determinarse la superficie o superficies que protejan a la zona núcleo del impacto exterior que serán conceptuadas como zonas de amortiguamiento, dentro de cuyos linderos podrán realizarse actividades y aprovechamientos de los elementos y recursos naturales que sean congruentes con los objetivos y programas de aprovechamiento sostenible, con las características propias y naturales de las actividades de las comunidades o particulares previamente asentados en la zona y que no provoquen un impacto ambiental adverso significativo en los términos de la declaratoria respectiva y del programa de manejo que se formule y expida, considerando las previsiones de los planes de ordenamiento ecológico y el carácter de reserva del área.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 2.
 
-94. Con el propósito de preservar el patrimonio natural en la Entidad la Secretaría podrá celebrar acuerdos de concertación con grupos sociales y particulares interesados para facilitar el logro de los fines para los que se hubieren establecido las áreas naturales protegidas en el Sistema Estatal.
+94. Con el propósito de preservar el Patrimonio Natural y Biocultural del Estado de México, la Secretaría podrá celebrar acuerdos de concertación con grupos sociales y particulares interesados para facilitar el logro de los fines para los que se hubieren establecido las áreas naturales protegidas en el Sistema Estatal.
 
 El titular del Poder Ejecutivo del Estado promoverá la aplicación de los recursos presupuestarios para el desarrollo, conservación y vigilancia de las áreas naturales protegidas de interés estatal con la participación de los tres niveles de gobierno y de los sectores público, social y privado, así como de los propietarios o poseedores de predios comprendidos dentro de las áreas naturales protegidas.
 
@@ -1799,6 +1827,46 @@ El Ejecutivo Estatal promoverá el establecimiento de zoológicos, centros de ex
 
 127. En caso de la celebración de convenios o acuerdos de asunción a favor del Estado y sus Municipios, el Ejecutivo Estatal establecerá los alcances de los mismos en los que se observará lo conducente en el presente Libro a fin de imponer las limitaciones, medidas y modalidades que resulten necesarias al uso o aprovechamiento de la flora y fauna silvestres dentro de las áreas naturales protegidas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE JULIO DE 2025)</small>
+
+### CAPITULO III. DEL PATRIMONIO NATURAL Y BIOCULTURAL DEL ESTADO DE MEXICO
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 2.
+
+127 Bis. El Patrimonio Natural y Biocultural del Estado de México está constituido por los ecosistemas, paisajes, especies, saberes tradicionales, prácticas culturales y expresiones materiales o inmateriales que, en conjunto, reflejan una relación histórica, ecológica y espiritual entre las comunidades humanas y su entorno.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 2.
+
+127 Ter. Son elementos del patrimonio natural y biocultural, entre otros:
+
+l. Fenómenos naturales de belleza o importancia estética sobresaliente;
+
+II. Ecosistemas con procesos ecológicos o biológicos en curso;
+
+III. Regiones que representan etapas significativas de la historia geológica o evolución de la Tierra;
+
+IV. Paisajes naturales que ilustran alguna etapa significativa histórica de la comunidad;
+
+V. Asentamiento humano tradicional de un uso de la tierra que sea representativo de una cultura, o de la interacción humana con el medio ambiente, especialmente cuando este se ha vuelto vulnerable al impacto de un cambio irreversible;
+
+VI. Sitios con asociaciones vivas entre naturaleza y cultura, como paisajes o formas de organización comunitaria vinculadas al ambiente; y
+
+VII. Conocimientos, lenguas, tecnologías, prácticas o expresiones culturales asociadas a la conservación o aprovechamiento sustentable de la naturaleza.
+
+Las Secretarías del Medio Ambiente y Desarrollo Sostenible, y de Cultura y Turismo del Estado, y los Ayuntamientos podrán promover la gestión comunitaria del patrimonio natural y biocultural, así como la transmisión intergeneracional de los saberes asociados a su conservación.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 2.
+
+127 Quater. La alteración grave, destrucción o aprovechamiento ilegal de los elementos declarados como patrimonio natural y biocultural será sancionada conforme a lo establecido en este Código y demás disposiciones aplicables.
+
+## TITULO CUARTO. DEL APROVECHAMIENTO Y USO SOSTENIBLE DE LOS ELEMENTOS Y RECURSOS NATURALES
+
 ### CAPITULO I. DEL APROVECHAMIENTO Y USO SOSTENIBLE DEL AGUA Y LOS ECOSISTEMAS ACUATICOS
 
 > <small>(REFORMADO, G.G. 16 DE JULIO DE 2014)</small>
@@ -1806,6 +1874,8 @@ El Ejecutivo Estatal promoverá el establecimiento de zoológicos, centros de ex
 ###### Artículo 2.
 
 128. El uso racional, administración, manejo eficiente, fomento a su cultura, promoción y concientización sobre el manejo sustentable y gestión integral del agua, se regirá por la Ley del Agua para el Estado de México y Municipios.
+
+### CAPITULO II. DE LA PRESERVACION, USO Y APROVECHAMIENTO SOSTENIBLE DEL SUELO Y SUS RECURSOS
 
 ###### Artículo 2.
 
@@ -1837,10 +1907,6 @@ VI. La realización de las obras públicas o privadas que puedan provocar deteri
 
 VII. Las normas oficiales mexicanas, criterios y normas técnicas estatales.
 
-## TITULO CUARTO. DEL APROVECHAMIENTO Y USO SOSTENIBLE DE LOS ELEMENTOS Y RECURSOS NATURALES
-
-### CAPITULO II. DE LA PRESERVACION, USO Y APROVECHAMIENTO SOSTENIBLE DEL SUELO Y SUS RECURSOS
-
 ###### Artículo 2.
 
 131. Los criterios a los que se refiere el artículo anterior en el ámbito de competencia del Estado y sus Municipios serán observados en:
@@ -1858,10 +1924,6 @@ V. Los estudios previos y las declaratorias para la constitución de las áreas 
 VI. La formulación del Programa de Ordenamiento Ecológico del Territorio Estatal y de los Programas de Ordenamiento Ecológico del Territorio Municipal previstos por este Libro; y
 
 VII. Los apoyos a las actividades agrícolas que otorgue el Gobierno Estatal de manera directa o indirecta para que se promueva la progresiva incorporación de cultivos y técnicas compatibles con la conservación de la biodiversidad.
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, G.G. 10 DE MARZO DE 2025)</small>
 
 ###### Artículo 2.
 
@@ -1883,6 +1945,12 @@ VII. Los apoyos a las actividades agrícolas que otorgue el Gobierno Estatal de 
 
 136. EI titular del Poder Ejecutivo instrumentará a través de la Secretaría programas y acciones de conservación, protección y restauración de la calidad de los suelos adoptando técnicas bioagroecológicas en coordinación con las autoridades federales y estatales competentes.
 
+## TITULO QUINTO. DE LA PROTECCION AL AMBIENTE
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 10 DE MARZO DE 2025)</small>
+
 ###### Artículo 2.
 
 137. La Secretaría en coordinación con los Municipios del Estado en el ámbito de competencia de la Entidad y en los términos que se establezcan en el Reglamento correspondiente deberá llevar un inventario de fuentes fijas o móviles que emitan a la atmósfera sustancias contaminantes, que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente, incluyendo sistemas antigranizo o cualquier otro mecanismo o tecnología que inhiba, modifique o altere el ciclo hidrológico, descargas de aguas residuales en cuerpos receptores de jurisdicción estatal y municipal o que se filtren al subsuelo materiales y residuos de su competencia, coordinar los registros que establezca este Libro, incluyendo el relativo a proveedores de equipos y servicios relacionados con las fuentes fijas o móviles referidas en el presente artículo y crear un sistema único de información de carácter público basado en las autorizaciones, licencias o permisos que en la materia deba otorgar, según su competencia.
@@ -1898,8 +1966,6 @@ Todas las facultades de inspección, vigilancia, imposición de medidas de segur
 139. Lo dispuesto por el artículo precedente se realizará sin perjuicio de los requisitos, condiciones y procedimientos establecidos en el presente Ordenamiento.
 
 Para la adecuada prevención de la contaminación todas las fuentes contaminantes móviles o fijas de cualquier clase serán objeto de verificación en los términos establecidos en el Reglamento correspondiente, misma que deberá realizarse cuando menos una vez al año a efecto de acreditar el cumplimiento de este Libro, su Reglamento, las normas técnicas estatales los criterios ecológicos y las normas oficiales mexicanas.
-
-## TITULO QUINTO. DE LA PROTECCION AL AMBIENTE
 
 ### CAPITULO II. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION ATMOSFERICA
 
@@ -1922,8 +1988,6 @@ En todas las emisiones a la atmósfera deberán cumplirse las disposiciones del 
 I. La calidad del aire debe ser satisfactoria en los asentamientos humanos; y
 
 II. La emisión de contaminantes a la atmósfera sea de fuentes artificiales o naturales, fijas o móviles deben ser controladas y reducidas para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio de los ecosistemas.
-
-### CAPITULO III. DE LAS FUENTES DIVERSAS
 
 ###### Articulo 2.
 
@@ -2051,6 +2115,8 @@ XVI. Ejercerán las demás que les confieran las disposiciones aplicables.
 
 150. Requieren de permiso de la Secretaría quienes realicen quema de materiales a cielo abierto.
 
+### CAPITULO III. DE LAS FUENTES DIVERSAS
+
 ###### Artículo 2.
 
 151. Las emisiones a la atmósfera provocadas por erupciones volcánicas, incendios forestales, tolvaneras y otros siniestros serán objeto de programas de emergencia y contingencias ambientales que establezcan las autoridades federales y estatales en materia de protección civil en coordinación con la Secretaría.
@@ -2058,6 +2124,8 @@ XVI. Ejercerán las demás que les confieran las disposiciones aplicables.
 ###### Artículo 2.
 
 152. Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o desprovistos de vegetación en concertación con las autoridades competentes ejecutarán las medidas de protección, remediación, rehabilitación, recuperación o restauración de los mismos según corresponda para su preservación y conservación.
+
+### CAPITULO IV. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA DE JURISDICCION ESTATAL Y DE LOS ECOSISTEMAS ACUATICOS
 
 ###### Artículo 2.
 
@@ -2072,8 +2140,6 @@ III. El aprovechamiento del agua en actividades productivas susceptibles de cont
 IV. Las aguas residuales de origen urbano deben recibir tratamiento previo a su descarga en ríos, cuencas, vasos y demás depósitos o corrientes de agua incluyendo las del subsuelo; y
 
 V. En las zonas de riego se promoverán las medidas y acciones necesarias para el buen manejo y aplicación de sustancias y agroquímicos que puedan contaminar las aguas superficiales o del subsuelo.
-
-### CAPITULO IV. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA DE JURISDICCION ESTATAL Y DE LOS ECOSISTEMAS ACUATICOS
 
 ###### Artículo 2.
 
@@ -2114,8 +2180,6 @@ b) Observar el cumplimiento de las condiciones generales de descarga que fijen l
 c) Promover el reuso en la industria o en la agricultura de aguas residuales tratadas, derivadas de aguas federales asignadas o concesionadas para la prestación de servicios públicos, así como las que provengan de los sistemas de drenaje y alcantarillado siempre que cumplan con las normas técnicas de calidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
-
-### CAPITULO V. DE LA PROTECCION Y CONTROL DE LA CONTAMINACION DEL SUELO
 
 ###### Artículo 2.
 
@@ -2169,6 +2233,8 @@ Para autorizar la construcción de obras, instalaciones de aguas residuales, gen
 
 163. La Secretaría del Agua, con la participación que corresponda a las dependencias, entidades federales y estatales competentes con el apoyo de los Ayuntamientos, realizará un monitoreo permanente y sistemático de la calidad de las aguas de jurisdicción estatal para detectar la presencia de contaminantes o exceso de desechos orgánicos aplicando las medidas correspondientes en el ámbito de su competencia.
 
+### CAPITULO V. DE LA PROTECCION Y CONTROL DE LA CONTAMINACION DEL SUELO
+
 ###### Artículo 2.
 
 164. Para la prevención y control de la contaminación del suelo se considerarán los siguientes criterios:
@@ -2206,10 +2272,6 @@ I. Hospitalarios no peligrosos;
 II. Industriales no peligrosos; y
 
 III. Agroquímicos de competencia estatal.
-
-### CAPITULO VI
-
-DE LA GENERACION, MANEJO, TRANSPORTE, TRATAMIENTO, REUSO, RECICLAJE Y DISPOSICION FINAL DE LOS RESIDUOS SOLIDOS MUNICIPALES, DOMESTICOS E INDUSTRIALES NO PELIGROSOS
 
 ###### Artículo 2.
 
@@ -2281,6 +2343,10 @@ La Secretaría integrará y operará el Inventario Estatal de Areas y Zonas Eros
 
 La Secretaría otorgará permanentemente información, capacitación y orientación a los productores, técnicos o profesionistas del campo sobre los métodos, procedimientos y formas de uso del suelo coordinándose con las autoridades competentes.
 
+### CAPITULO VI
+
+DE LA GENERACION, MANEJO, TRANSPORTE, TRATAMIENTO, REUSO, RECICLAJE Y DISPOSICION FINAL DE LOS RESIDUOS SOLIDOS MUNICIPALES, DOMESTICOS E INDUSTRIALES NO PELIGROSOS
+
 ###### Artículo 2.
 
 176. Para la expedición de autorizaciones, licencias o permisos a que se refiere el presente Libro se deberá evaluar el impacto ambiental y presentar la manifestación de impacto ambiental correspondiente. Se tomarán en consideración para la autorización y operación de cualquier infraestructura de tratamiento, la disposición final, los factores ecológicos de la zona y las formas de mitigación del impacto ambiental del proyecto.
@@ -2292,8 +2358,6 @@ La Secretaría otorgará permanentemente información, capacitación y orientaci
 ###### Artículo 2.
 
 178. Para la utilización de residuos industriales no peligrosos, se requerirá llevar un control interno por el responsable, así como la presentación de un informe semestral a la Secretaría. Para estos efectos, se entenderá por residuo industrial no peligroso o de manejo especial, al material derivado de un proceso productivo que no rebase los parámetros establecidos por su característica corrosiva, reactiva, explosiva, tóxica, inflamable o biológico-infecciosa.
-
-### CAPITULO VII. DE LAS ACTIVIDADES CONSIDERADAS RIESGOSAS DENTRO DE LA COMPETENCIA DEL ESTADO DE MEXICO
 
 ###### Artículo 2.
 
@@ -2323,6 +2387,8 @@ La Secretaría otorgará permanentemente información, capacitación y orientaci
 
 Para los efectos del párrafo anterior, las autoridades municipales aportarán a la Secretaría del Medio Ambiente y Desarrollo Sostenible la información correspondiente.
 
+### CAPITULO VII. DE LAS ACTIVIDADES CONSIDERADAS RIESGOSAS DENTRO DE LA COMPETENCIA DEL ESTADO DE MEXICO
+
 ###### Artículo 2.
 
 185. Dentro de la jurisdicción del Estado, la Secretaría, mediante acuerdo publicado en la Gaceta del Gobierno, establecerá la clasificación de las actividades que deban considerarse riesgosas para la biodiversidad, el equilibrio ecológico o al ambiente en virtud de las características de los materiales que se generen o manejen en establecimientos industriales, comerciales o de servicios tomando en cuenta los volúmenes de manejo y la ubicación del establecimiento.
@@ -2347,8 +2413,6 @@ V. La infraestructura existente y la necesaria para la atención de emergencias 
 
 VI. La infraestructura para la dotación de servicios básicos.
 
-### CAPITULO VIII. DEL APROVECHAMIENTO DE SUSTANCIAS NO RESERVADAS A LA FEDERACION
-
 ###### Artículo 2.
 
 188. Cuando cambien las condiciones en las que se otorgó una autorización, para el establecimiento de una fuente fija que lleve a cabo actividades consideradas riesgosas, la Secretaría podrá requerir información adicional para ser evaluada y determinar las acciones o medidas para reducir los riesgos que se pudieran presentar.
@@ -2357,9 +2421,15 @@ VI. La infraestructura para la dotación de servicios básicos.
 
 189. La Secretaría promoverá ante la autoridad competente que en los Programas de Desarrollo Urbano se disponga que en las zonas intermedias de salvaguarda decretadas no serán permitidos los usos habitacionales, comerciales ni otros que pongan en riesgo a la población.
 
+### CAPITULO VIII. DEL APROVECHAMIENTO DE SUSTANCIAS NO RESERVADAS A LA FEDERACION
+
 ###### Artículo 2.
 
 190. El aprovechamiento de sustancias no reservadas a la Federación que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su fragmentación que puedan utilizarse para la construcción, industria u ornamento se requerirá autorización de la Secretaría, la cual dictará las medidas de protección al ambiente y de restauración ecológica que deban ponerse en práctica en los bancos de extracción y en las instalaciones de manejo y procesamiento.
+
+### CAPITULO IX. DE LAS ACTIVIDADES NO RIESGOSAS
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
@@ -2368,10 +2438,6 @@ VI. La infraestructura para la dotación de servicios básicos.
 ###### Artículo 2.
 
 192. Las dependencias del Ejecutivo Estatal que resulten competentes, publicarán en la Gaceta del Gobierno las medidas señaladas en el artículo precedente y las difundirán a través de los medios conducentes.
-
-### CAPITULO IX. DE LAS ACTIVIDADES NO RIESGOSAS
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 2.
 
@@ -2433,8 +2499,6 @@ III. Las demás que se establezcan en los programas de emergencia o contingencia
 
 La Secretaría o el Ayuntamiento según corresponda, podrán exentar a los particulares que lo soliciten del programa de contingencia ambiental de conformidad con lo que se establezca el Reglamento correspondiente.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
 ###### Artículo 2.
 
 200. Las limitaciones a la circulación de los vehículos automotores previstas en caso de contingencia ambiental no serán aplicables a los vehículos siguientes:
@@ -2456,6 +2520,10 @@ VII. Los de servicio particular en casos en que se acredite o sea manifestada un
 > <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 VIII. Los vehículos automotores que sean utilizados para transportar una o varias personas discapacitadas.
+
+## TITULO SEXTO. DE LA PARTICIPACION SOCIAL
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 2.
 
@@ -2483,17 +2551,17 @@ V. Realizar en conjunto con las cámaras empresariales, organizaciones de la soc
 
 VI. Promover acciones tendientes a la sustitución de popotes y bolsas o contenedores plásticos, o de poliestireno expandido que no constituyan un empaque primario, en supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, por productos sustentables elaborados con materiales reutilizable (sic), reciclables, compostables o que sean de pronta biodegradación.
 
-###### Artículo 2.
-
-203. Toda persona física o jurídica colectiva que se dedique de manera habitual a actividades relacionadas con la protección al ambiente, la preservación del equilibrio ecológico, defensa y protección de los animales, la difusión de una cultura ambiental de respeto y armonía con la biodiversidad o en general a cualquier actividad análoga que no tenga como objeto la realización de un fin económico de lucro tendrá derecho a los estímulos establecidos en el presente Código.
-
-## TITULO SEXTO. DE LA PARTICIPACION SOCIAL
-
 ### CAPITULO II. DE LAS PERSONAS FISICAS Y JURIDICAS COLECTIVAS CON FINES AMBIENTALISTAS
 
 ###### Artículo 2.
 
+203. Toda persona física o jurídica colectiva que se dedique de manera habitual a actividades relacionadas con la protección al ambiente, la preservación del equilibrio ecológico, defensa y protección de los animales, la difusión de una cultura ambiental de respeto y armonía con la biodiversidad o en general a cualquier actividad análoga que no tenga como objeto la realización de un fin económico de lucro tendrá derecho a los estímulos establecidos en el presente Código.
+
+###### Artículo 2.
+
 204. La Secretaría y los Ayuntamientos respetarán y fomentarán la independencia y posiciones críticas de las personas físicas o jurídicas colectivas a que se refiere el artículo anterior, para lo cual facilitarán y cooperarán con todos los medios necesarios en la medida de sus posibilidades, de conformidad con lo dispuesto en este Libro y su Reglamento para la realización plena de sus objetivos sin perjuicio de dar a todo interesado en asuntos ambientales, aún cuando sea de carácter eventual la oportunidad de participar en los procedimientos establecidos en el presente Ordenamiento.
+
+#### SECCION PRIMERA. DE LA CONSTITUCION Y REGISTRO
 
 ###### Artículo 2.
 
@@ -2503,8 +2571,6 @@ Bajo ninguna circunstancia salvo orden judicial fundada y motivada, se podrá da
 
 Las personas registradas son directamente responsables de mantener actualizados los datos correspondientes en el registro, para los efectos de la parte final del párrafo primero del presente artículo.
 
-### CAPITULO III. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
-
 ###### Artículo 2.
 
 206. Las personas jurídicas colectivas que deseen obtener el registro a que se refiere este Capítulo, deberán constituirse como asociaciones civiles, en términos de lo dispuesto por el Código Civil para el Estado de México y a su vez estar inscritas en el Registro Público de la Propiedad. Dichas asociaciones se regirán por sus estatutos, sin embargo en éstos deberá constar de manera expresa y principal la realización de algunos de los fines establecidos en el presente Ordenamiento para ser sujeto del registro respectivo ante la Secretaría sin perjuicio de otros fines diversos autorizados por las leyes aplicables para las asociaciones civiles.
@@ -2513,7 +2579,7 @@ Las personas registradas son directamente responsables de mantener actualizados 
 
 207. Las personas jurídicas colectivas cuyo domicilio se encuentre fuera del Estado podrán darse de alta en el registro, siempre y cuando cumplan con los requisitos señalados en el artículo anterior.
 
-#### SECCION PRIMERA. DE LA CONSTITUCION Y REGISTRO
+#### SECCION SEGUNDA. DE LOS ESTIMULOS
 
 ###### Artículo 2.
 
@@ -2535,7 +2601,7 @@ II. Dentro de los tiempos oficiales a los que tenga derecho el Gobierno del Esta
 
 La Secretaría gestionará ante las autoridades fiscales correspondientes, la pérdida de estímulos cuando se viole el presente Código y los reglamentos que del mismo emanen sin perjuicio de hacer la denuncia pública.
 
-#### SECCION SEGUNDA. DE LOS ESTIMULOS
+### CAPITULO III. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
 ###### Artículo 2.
 
@@ -2571,13 +2637,13 @@ V. Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro 
 
 VI. Mantener en vigor la fianza para garantizar el cumplimiento de las obligaciones y la confidencialidad durante la vigencia de la autorización correspondiente. La fianza se hará efectiva en caso de que el prestador del servicio contravenga las disposiciones aplicables.
 
+### CAPITULO V. DE LOS VERIFICADORES Y LABORATORIOS AMBIENTALES
+
 ###### Artículo 2.
 
 216. La Secretaría, atendiendo las necesidades de los servicios de verificación de fuentes móviles de su competencia, expedirá autorizaciones a los interesados que cumplan los requisitos correspondientes, para tal efecto emitirá previamente convocatoria pública en la Gaceta del Gobierno en la cual se determinará la capacidad técnica y financiera y demás condiciones que se deberán reunir para obtener la autorización, las normas y procedimientos de verificación que se deberán observar, así como el número y ubicación de las instalaciones de los verificadores ambientales que serán autorizados.
 
 > <small>(ADICIONADO, G.G. 26 DE ENERO DE 2015)</small>
-
-### CAPITULO V. DE LOS VERIFICADORES Y LABORATORIOS AMBIENTALES
 
 ###### Artículo 2.
 
@@ -2592,8 +2658,6 @@ La verificación a que se refiere el párrafo anterior será únicamente a los v
 I. De fuentes fijas; y
 
 II. De fuentes móviles.
-
-### CAPITULO VI. DE LOS PRESTADORES DE SERVICIOS EN MATERIA DE IMPACTO AMBIENTAL
 
 ###### Artículo 2.
 
@@ -2643,6 +2707,8 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 223. Para los efectos del artículo anterior, serán reconocidos los laboratorios acreditados de conformidad con la Ley Federal sobre Metrología y Normalización. La Secretaría llevará el registro correspondiente.
 
+### CAPITULO VI. DE LOS PRESTADORES DE SERVICIOS EN MATERIA DE IMPACTO AMBIENTAL
+
 ###### Artículo 2.
 
 224. Las empresas o particulares que realicen estudios e informes preventivos, manifestaciones, estudios de impacto ambiental o de riesgo que deban presentar los obligados en términos del presente Libro, deberán cumplir con los lineamientos, condiciones que se establezcan en las guías o circulares correspondientes, con criterios, normas oficiales mexicanas, normas técnicas estatales, y todo lo dispuesto en el presente Libro y su Reglamento.
@@ -2655,11 +2721,11 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 226. La Secretaría elaborará una lista de empresas o particulares de servicios profesionales en materia de impacto y riesgo ambiental, que hayan acreditado su capacidad técnica.
 
-### CAPITULO VII. DEL FONDO PARA PROYECTOS AMBIENTALES
-
 ###### Artículo 2.
 
 227. Las empresas o particulares que presten sus servicios en materia de impacto y riesgo ambiental, cuyos informes, manifestaciones o estudios contengan información falsa o incorrecta u omitan la identificación de impactos negativos por negligencia, mala fe, dolo serán sancionados en los términos del presente Libro y los demás ordenamientos jurídicos aplicables.
+
+### CAPITULO VII. DEL FONDO PARA PROYECTOS AMBIENTALES
 
 ###### Artículo 2.
 
@@ -2669,6 +2735,14 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 Tendrán prioridad para acceder a dicho fondo los proyectos productivos presentados por los sectores público, privado y social enfocados a las áreas naturales protegidas y forestales, así como a la construcción de centros ecoturísticos, a la preservación, cuidado, vigilancia y reforestación de los bosques y que beneficien directamente a la población del municipio en el cual se pretenda desarrollar el proyecto.
 
+## TITULO SEPTIMO
+
+DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD, INFRACCIONES, PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS DE REVISION
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+
 ###### Artículo 2.
 
 229. Las disposiciones de este Libro, se aplicarán en la realización de actos de inspección, vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas, de comisión de delitos, sanciones, procedimientos, recursos administrativos; cuando se trate de asuntos de competencia del Estado y de los Municipios regulados por el presente Código, sin perjuicio de lo establecido de manera específica en los Libros que lo conforman. En las materias anteriormente señaladas se aplicarán supletoriamente las disposiciones del Código de Procedimientos Administrativos del Estado de México y Ley de Infraestructura de la Calidad. Tratándose de materias referidas en este Libro que se encuentran reguladas por los otros Libros que conforman el Código, éste será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
@@ -2677,19 +2751,9 @@ Tendrán prioridad para acceder a dicho fondo los proyectos productivos presenta
 
 230. La Secretaría y los Ayuntamientos en el ámbito de sus respectivas competencias, realizarán los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Ordenamiento, así como de las que del mismo se deriven.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
 ###### Artículo 2.
 
 231. Las autoridades competentes, podrán realizar visitas de inspección por conducto del personal debidamente autorizado, sin perjuicio de otras medidas previstas en los otros Libros para verificar el cumplimiento de este Código. Dicho personal al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite y autorice para practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada expedida por autoridad competente en la que se precisará el lugar o zona que habrá de inspeccionarse y el objeto de la diligencia.
-
-## TITULO SEPTIMO
-
-DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD, INFRACCIONES, PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS DE REVISION
-
-### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
 
 ###### Artículo 2.
 
@@ -2707,6 +2771,8 @@ DE LA AUTORREGULACION, AUDITORIAS AMBIENTALES, INSPECCION Y VIGILANCIA, MEDIDAS 
 
 235. La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
+### CAPITULO II. DE LA INSPECCION Y VIGILANCIA
+
 ###### Artículo 2.
 
 236. Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo para que adopte de inmediato las medidas correctivas o de urgente aplicación que resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas señalando el plazo que corresponda para su cumplimiento, fundando y motivando el requerimiento; asimismo deberá señalarse al interesado que cuenta con un término de quince días hábiles para que exponga lo que a su derecho convenga, y en su caso aporte las pruebas que considere procedentes con relación a la actuación de la Secretaría o del Ayuntamiento correspondiente.
@@ -2720,8 +2786,6 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado o habiendo trans
 ###### Artículo 2.
 
 238. En la resolución administrativa correspondiente, se señalarán o se adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo. Cuando se trate de segunda o posterior inspección para verificar el cumplimiento del requerimiento o requerimientos anteriores y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme al presente Código, una sanción adicional que no exceda de los límites máximos señalados en el precepto aplicable. En los casos en que el infractor realice las medidas correctivas, de urgente aplicación, subsane las irregularidades detectadas en los plazos ordenados por la Secretaría o por el Municipio siempre y cuando el infractor no sea reincidente y no se trate de alguno de los supuestos previstos para imponer medidas de seguridad, éstas podrán revocar o modificar la sanción o sanciones impuestas. En los casos en que proceda la autoridad hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
-
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 2.
 
@@ -2763,6 +2827,8 @@ Dicho personal al realizar las visitas de inspección, deberá estar provisto de
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, debiendo constar esta situación en el acta administrativa que se levante sin que esta circunstancia pueda invalidar los efectos de la inspección.
 
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+
 ###### Artículo 2.
 
 245. En toda visita de inspección, se levantará un acta administrativa en la que se deberá hacer constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado en el transcurso (sic) la diligencia.
@@ -2778,8 +2844,6 @@ La información deberá mantenerse por la autoridad en absoluta reserva, si así
 ###### Artículo 2.
 
 247. La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar las visitas de inspección o para la ejecución de las disposiciones que contempla este Código, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de las diligencias correspondientes, independientemente de la aplicación de las sanciones a que haya lugar.
-
-### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 2.
 
@@ -2925,6 +2989,10 @@ III. Donación a organismos públicos e instituciones científicas o de enseñan
 
 IV. Destrucción, cuando se trate de productos o subproductos de flora y fauna silvestre y de productos forestales plagados o que tengan alguna enfermedad que impida su aprovechamiento, y de artes de pesca y caza prohibidos por las disposiciones jurídicas aplicables.
 
+### CAPITULO IV. DE LAS INFRACCIONES Y SANCIONES
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
 ###### Artículo 2.
 
 258. Para efectos de lo previsto en las fracciones I y II del artículo anterior únicamente serán procedentes dichos supuestos cuando los bienes incautados sean susceptibles de apropiación conforme a las disposiciones jurídicas aplicables. En la determinación del valor de los bienes sujetos a remate o venta la Secretaría considerará el precio que respecto de dichos bienes corra en el mercado o bien determine un perito valuador calificado al momento de realizarse la operación.
@@ -2938,10 +3006,6 @@ En ningún caso los responsables de la infracción que hubiera dado lugar a la i
 ###### Artículo 2.
 
 260. La Secretaría competente o los Ayuntamientos intervendrán ante quien suministre servicios públicos, tales como energía eléctrica, agua u otros que requieran para su funcionamiento los establecimientos que no satisfagan las disposiciones que les impone este Código y sus Reglamentos, previamente o durante su funcionamiento cuando se detecte alguna irregularidad o incumplimiento, sin menoscabo de la imposición de las sanciones a que haya lugar, y solicitarán la clausura definitiva o temporal según sea la gravedad de las infracciones en que incurran.
-
-### CAPITULO V. DE LA DENUNCIA CIUDADANA
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 2.
 
@@ -3135,6 +3199,8 @@ IX. Arroje basura, ácidos, combustibles o cualquier producto contaminante en lo
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
+#### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
+
 ###### Artículo 2.
 
 267. Se sancionará con el pago de multa por el equivalente de quinientas a cuarenta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción a quienes verifiquen fuentes móviles que no cumplan con las obligaciones establecidas en el presente Libro o que:
@@ -3182,8 +3248,6 @@ I. Realice actividades riesgosas contraviniendo las medidas preventivas, de cont
 II. Trafique en los asuntos no reservados a la Federación con una o más especies o subespecies silvestres de flora o fauna terrestres, acuáticas, en peligro de extinción, amenazadas, raras o sujetas a protección especial, de conformidad con las normas ambientales aplicables sin perjuicio de la denuncia ante el Ministerio Público.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-#### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
 
 ###### Artículo 2.
 
@@ -3413,6 +3477,8 @@ Si la denuncia fuera presentada ante diversas autoridades estatales o ante la au
 
 En los procedimientos administrativos derivados de una denuncia ciudadana se aplicarán en lo conducente las disposiciones del Código de Procedimientos Administrativos del Estado de México y los reglamentos respectivos.
 
+### CAPITULO V. DE LA DENUNCIA CIUDADANA
+
 ###### Articulo 2.
 
 296. La autoridad ante la que se presente la denuncia ciudadana o a la que se haya remitido ésta, una vez recibida la misma se le notificará al denunciante dentro de los diez días hábiles siguientes a la fecha en que efectivamente la haya recibido si es competente para conocer de la denuncia y en su caso, si es procedente o requiere aclaración.
@@ -3432,8 +3498,6 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 ###### Artículo 2.
 
 298. Una vez concluidas las diligencias y rendidas las pruebas y alegatos respectivos la Secretaría o la autoridad competente dictará la resolución que conforme a derecho proceda en un término que no podrá exceder de treinta días hábiles y la notificará a todos los interesados que se hayan apersonado en el procedimiento dentro de los cinco días hábiles siguientes a su fecha de suscripción.
-
-### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 2.
 
@@ -3473,6 +3537,8 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 El Fondo para la Restauración y Preservación de la Biodiversidad a que se hace referencia en el presente artículo será administrado por la Secretaría a través del fideicomiso que deberá crearse para el efecto. Esta dependencia, previa opinión técnica que emita el Consejo Consultivo de Protección a la Biodiversidad y Desarrollo Sostenible del Estado de México, deberá presentar un informe anual por escrito a la Legislatura del Estado en el que establezca de manera detallada el destino de los recursos que recaude a través del citado Fondo con motivo de las sentencias que se dicten, con el objeto de que la Legislatura del Estado apruebe y sancione el destino de los recursos del mencionado Fondo.
 
+### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
+
 ###### Artículo 2.
 
 307. Cuando el monto a título de indemnización por daño ambiental o deterioro de la biodiversidad y la cantidad que se requiera para la reparación en especie de éstos supere la capacidad financiera de las dependencias y entidades de la administración pública estatal o municipal podrán solicitar apoyo financiero complementario al Ejecutivo Estatal, previa la opinión técnica que emita el Consejo Consultivo de Protección a la Biodiversidad y Desarrollo Sostenible del Estado de México.
@@ -3503,8 +3569,6 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 309. El otorgamiento de la garantía financiera estará sujeto a lo previsto en las disposiciones jurídicas aplicables.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
 ###### Artículo 2.
 
 310. La garantía financiera podrá ser sustituida con la presentación de una póliza de seguro de responsabilidad objetiva por daño y deterioro ambiental, estos documentos darán cobertura suficiente para reparar el posible deterioro y daño que pudiesen ocasionar las actividades sujetas a impacto ambiental.
@@ -3517,21 +3581,21 @@ La resolución de la Secretaría sólo se referirá a los aspecto (sic) ambienta
 
 De igual forma la Secretaría podrá negar la evaluación para efectuar las citadas actividades cuando considere que el desempeño de las mismas será de franca e irremediable afectación ecológica que dañe a la biodiversidad.
 
+## TITULO OCTAVO. DEL FONDO PARA LA RESTAURACION Y PRESERVACION DE LA BIODIVERSIDAD Y DEL FONDO PARA LA REPARACION DEL DETERIORO AMBIENTAL
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
 ###### Artículo 2.
 
 312. Es responsabilidad de las dependencias y entidades de la administración pública estatal y los Municipios dar seguimiento a la recuperación de los seguros de manera oportuna y expedita conforme a los términos contratados.
 
-## TITULO OCTAVO. DEL FONDO PARA LA RESTAURACION Y PRESERVACION DE LA BIODIVERSIDAD Y DEL FONDO PARA LA REPARACION DEL DETERIORO AMBIENTAL
-
 ### CAPITULO II. DE LA GARANTIA FINANCIERA
-
-### CAPITULO I. DEL OBJETO Y APLICACION
 
 # LIBRO TERCERO. DEL FOMENTO PARA EL DESARROLLO FORESTAL SOSTENIBLE DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO II. DE LA TERMINOLOGIA EMPLEADA
+### CAPITULO I. DEL OBJETO Y APLICACION
 
 ###### Artículo 3.
 
@@ -3597,7 +3661,7 @@ IV. La protección y conservación de las zonas que sirvan de refugio a fauna y 
 
 5. En lo no previsto en este Libro se aplicarán en forma supletoria y en lo conducente las disposiciones del Libro Segundo del presente Código, de la Ley General de Desarrollo Forestal Sustentable y demás ordenamientos aplicables en la materia.
 
-### CAPITULO III. DE LA COORDINACION ENTRE FEDERACION, ESTADO Y MUNICIPIOS
+### CAPITULO II. DE LA TERMINOLOGIA EMPLEADA
 
 ###### Artículo 3.
 
@@ -3633,7 +3697,7 @@ VIII. Secretaría: a la Secretaría del Campo.
 
 IX. Veda forestal: Restricción total o parcial del aprovechamiento de recursos forestales en una superficie o para una especie determinada mediante decreto que expida el titular del Ejecutivo Estatal.
 
-### CAPITULO I. DEL SERVICIO ESTATAL FORESTAL
+### CAPITULO III. DE LA COORDINACION ENTRE FEDERACION, ESTADO Y MUNICIPIOS
 
 ###### Artículo 3.
 
@@ -3641,7 +3705,7 @@ IX. Veda forestal: Restricción total o parcial del aprovechamiento de recursos 
 
 ## TITULO SEGUNDO. DE LA ORGANIZACION Y ADMINISTRACION DEL SECTOR PUBLICO FORESTAL
 
-### CAPITULO II. DE LA DISTRIBUCION DE COMPETENCIAS EN MATERIA FORESTAL
+### CAPITULO I. DEL SERVICIO ESTATAL FORESTAL
 
 ###### Artículo 3.
 
@@ -3673,7 +3737,7 @@ Los representantes de las dependencias y entidades que integran el Servicio Esta
 
 11. Los acuerdos serán tomados en la instancia de coordinación pero la ejecución de los proyectos estará a cargo de los Gobiernos Federal, Estatal y Municipal en la parte que les corresponda conforme a las disposiciones legales aplicables.
 
-### CAPITULO III. DE LA COORDINACION INSTITUCIONAL
+### CAPITULO II. DE LA DISTRIBUCION DE COMPETENCIAS EN MATERIA FORESTAL
 
 ###### Artículo 3.
 
@@ -3825,15 +3889,23 @@ XX Bis. Autorizar cualquier tipo de quema en terrenos agropecuarios colindantes 
 
 XXI. Desarrollar viveros y apoyar programas de producción de plantas;
 
-XXII. Hacer del conocimiento a las autoridades competentes y denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal; y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-XXIII. Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales.
+XXII. Hacer del conocimiento a las autoridades competentes y denunciar las infracciones, faltas administrativas o delitos que se cometan en materia forestal;
 
-> <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-XXIV. Coadyuvar con el Gobierno del Estado en la integración e implementación del Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones.
+XXIII. Regular y vigilar la disposición final de residuos provenientes de la extracción de materias primas forestales;
 
-### CAPITULO IV. DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XXIV. Coadyuvar con el Gobierno del Estado en la integración e implementación del Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones; y
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XXV. Reconocer el Patrimonio Natural y Biocultural de su municipio para integrar el Catálogo Estatal del Patrimonio Natural y Biocultural del Estado de México.
+
+### CAPITULO III. DE LA COORDINACION INSTITUCIONAL
 
 ###### Artículo 3.
 
@@ -3863,7 +3935,7 @@ X. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 16. El ejercicio de las anteriores funciones que asume el Gobierno del Estado a través de PROBOSQUE por virtud del convenio de coordinación previsto en el artículo 24 de la Ley General de Desarrollo Forestal Sustentable se regirá por lo dispuesto en la citada Ley y su Reglamento.
 
-### CAPITULO I. DE LOS CRITERIOS DE LA POLITICA ESTATAL EN MATERIA FORESTAL
+### CAPITULO IV. DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
 
 ###### Articulo 3.
 
@@ -3959,7 +4031,7 @@ Los ingresos del organismo y los productos e instrumentos financieros autorizado
 
 ## TÍTULO TERCERO. DE LA POLITICA ESTATAL EN MATERIA FORESTAL
 
-### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA FORESTAL
+### CAPITULO I. DE LOS CRITERIOS DE LA POLITICA ESTATAL EN MATERIA FORESTAL
 
 ###### Artículo 3.
 
@@ -3971,7 +4043,7 @@ Los ingresos del organismo y los productos e instrumentos financieros autorizado
 
 La política en materia forestal sostenible que desarrolle el Ejecutivo Estatal deberá observar los principios y criterios obligatorios de política forestal previstos en la Ley General de Desarrollo Forestal Sustentable.
 
-### CAPITULO III. DE LAS UNIDADES DE MANEJO FORESTAL
+### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA FORESTAL
 
 ###### Artículo 3.
 
@@ -4133,7 +4205,7 @@ IV. Los desequilibrios existentes en los ecosistemas por efecto de las actividad
 
 Dicha ordenación deberá publicarse en la Gaceta del Gobierno.
 
-### CAPITULO I. DEL DERECHO REAL DE SUPERFICIE FORESTAL
+### CAPITULO III. DE LAS UNIDADES DE MANEJO FORESTAL
 
 ###### Artículo 3.
 
@@ -4145,7 +4217,7 @@ Dicha ordenación deberá publicarse en la Gaceta del Gobierno.
 
 ## TITULO CUARTO
 
-### CAPITULO II. DE LOS RECURSOS FORESTALES QUE SE ENCUENTRAN EN LOS PUEBLOS HOSPITAL Y COMUNIDADES INDIGENAS
+### CAPITULO I. DEL DERECHO REAL DE SUPERFICIE FORESTAL
 
 ###### Artículo 3.
 
@@ -4171,13 +4243,13 @@ Dicha ordenación deberá publicarse en la Gaceta del Gobierno.
 
 46. El superficiario gozará del derecho del tanto si el propietario pretende enajenar el terreno, igual derecho tendrá el superficiante si el superficiario pretende enajenar su derecho de superficie.
 
-### CAPITULO III. DE LA INVESTIGACION DE LOS RECURSOS FORESTALES
+### CAPITULO II. DE LOS RECURSOS FORESTALES QUE SE ENCUENTRAN EN LOS PUEBLOS HOSPITAL Y COMUNIDADES INDIGENAS
 
 ###### Artículo 3.
 
 47. El Estado y los Municipios garantizarán que los recursos forestales que se encuentren en los pueblos hospital y comunidades indígenas sirvan como catalizador de desarrollo económico y social a todos esos pueblos y comunidades impulsando la conservación, aprovechamiento y restauración de dichos recursos.
 
-### CAPITULO IV. DE LA SANIDAD FORESTAL
+### CAPITULO III. DE LA INVESTIGACION DE LOS RECURSOS FORESTALES
 
 ###### Artículo 3.
 
@@ -4195,7 +4267,7 @@ Dicha ordenación deberá publicarse en la Gaceta del Gobierno.
 
 51. Si como resultado de la investigación se detecta una plaga o enfermedad forestal se notificará de forma inmediata a la autoridad competente, así como al propietario o poseedor del terreno forestal o preferentemente forestal y se estará a lo dispuesto en el Capítulo relativo a la Sanidad Forestal.
 
-### CAPITULO V. DE LOS INCENDIOS FORESTALES
+### CAPITULO IV. DE LA SANIDAD FORESTAL
 
 ###### Artículo 3.
 
@@ -4207,7 +4279,7 @@ Las dependencias y entidades del Gobierno del Estado y de los Municipios en los 
 
 53. Ante la detección por parte de la autoridad de la presencia de una plaga o enfermedad forestal en terrenos forestales o preferentemente forestales se dará aviso al propietario o poseedor del mismo para que realice e implemente lo necesario a fin de combatir la plaga o enfermedad forestal, el cual podrá solicitar el auxilio y colaboración de la autoridad cuando acredite que no cuenta con los recursos necesarios, si el particular no actuara en tiempo y forma y se acreditara su responsabilidad mediante sentencia judicial por la comisión de un delito ecológico PROBOSQUE podrá intervenir a fin de sanear y restaurar el terreno forestal o preferentemente forestal a costa del propietario o poseedor, la erogación que para el efecto se haga podrá ser recuperable mediante el procedimiento económico coactivo correspondiente.
 
-### CAPITULO VI. DE LA FORESTACION Y REFORESTACION
+### CAPITULO V. DE LOS INCENDIOS FORESTALES
 
 ###### Articulo 3.
 
@@ -4301,7 +4373,7 @@ Cuando los dueños o poseedores de los predios dañados no hagan la restauració
 
 65. La Secretaría y PROBOSQUE fomentarán la capacitación y formación permanente del personal del Estado y de los Municipios que participe en la defensa contra incendios forestales.
 
-### CAPITULO I. DE LOS INSTRUMENTOS ECONOMICOS DEL FOMENTO FORESTAL
+### CAPITULO VI. DE LA FORESTACION Y REFORESTACION
 
 ###### Artículo 3.
 
@@ -4329,7 +4401,7 @@ Para tal efecto el Gobierno del Estado y los Municipios podrán celebrar conveni
 
 ## TITULO QUINTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
-### CAPITULO II. DE LA CULTURA, EDUCACION Y CAPACITACION FORESTALES
+### CAPITULO I. DE LOS INSTRUMENTOS ECONOMICOS DEL FOMENTO FORESTAL
 
 #### SECCION PRIMERA. DE LOS INCENTIVOS ECONOMICOS
 
@@ -4393,7 +4465,7 @@ V. Las aportaciones del sector industrial forestal; y
 
 VI. Los demás recursos legítimos que obtenga por cualquier otro concepto.
 
-### CAPITULO I. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
+### CAPITULO II. DE LA CULTURA, EDUCACION Y CAPACITACION FORESTALES
 
 ###### Artículo 3.
 
@@ -4487,7 +4559,7 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 
 ## TITULO SEXTO. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
 
-### CAPITULO II. DE LOS CONSEJOS EN MATERIA FORESTAL
+### CAPITULO I. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
 
 ###### Artículo 3.
 
@@ -4505,9 +4577,7 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 
 95. Se crea el Consejo Forestal Estatal como órgano de carácter consultivo, asesoramiento y concertación en materia de planeación, supervisión, evaluación de las políticas y aprovechamiento, conservación y restauración de los recursos forestales. Invariablemente deberá solicitársele su opinión en materia de planeación forestal, reglamentos y normas.
 
-### CAPITULO I
-
-DE LA DENUNCIA POPULAR.
+### CAPITULO II. DE LOS CONSEJOS EN MATERIA FORESTAL
 
 ###### Artículo 3.
 
@@ -4527,13 +4597,15 @@ Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procur
 
 ## TITULO SEPTIMO. DE LOS MEDIOS DE CONTROL, VIGILANCIA Y SANCION FORESTALES
 
-### CAPITULO II. DE LAS VISITAS Y OPERATIVOS DE INSPECCION FORESTALES
+### CAPITULO I
+
+DE LA DENUNCIA POPULAR.
 
 ###### Artículo 3.
 
 98. De acuerdo a lo previsto en la Ley General de Desarrollo Forestal Sustentable, previo convenio entre Federación, Estados y Municipios; La Secretaría, PROBOSQUE y Gobiernos Municipales por conducto del personal autorizado podrán realizar visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en este Libro, su reglamento, las normas oficiales mexicanas aplicables y las demás disposiciones que de ellos se deriven.
 
-### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
+### CAPITULO II. DE LAS VISITAS Y OPERATIVOS DE INSPECCION FORESTALES
 
 ###### Artículo 3.
 
@@ -4555,7 +4627,7 @@ Cuando de las visitas u operativos de inspección se determine que existe riesgo
 
 100 Bis. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
 
 ###### Artículo 3.
 
@@ -4599,7 +4671,7 @@ A juicio de la autoridad, se podrá designar al inspeccionado como depositario d
 
 PROBOSQUE podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause efectos, estos recursos se entregarán a quien beneficie el sentido de la resolución. El Reglamento determinará los mecanismos para implementar esta disposición.
 
-### CAPITULO IV. DE LAS INFRACCIONES
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 3.
 
@@ -4609,9 +4681,7 @@ PROBOSQUE podrá dar destino final a los productos maderables o no maderables as
 
 103. Se considerarán como infracciones para efectos de este Libro, los casos previstos en la Ley General de Desarrollo Forestal Sustentable y serán sancionadas administrativamente por la Secretaría de conformidad con la misma Ley General y el Código de Procedimientos Administrativos del Estado.
 
-### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+### CAPITULO IV. DE LAS INFRACCIONES
 
 ###### Artículo 3.
 
@@ -4637,7 +4707,9 @@ La amonestación sólo será aplicable a los infractores por primera vez, a crit
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO II. DE LA COORDINACION y DISTRIBUCION DE COMPETENCIAS
+### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
+
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 4.
 
@@ -4709,7 +4781,7 @@ XXI. Tratamiento: El procedimiento mecánico, físico, químico, biológico, té
 
 XXII. Valorización: Todo procedimiento que permita el aprovechamiento de los recursos contenidos en los residuos, la recuperación del valor remanente o el poder calorífico de los materiales que componen los residuos mediante su reincorporación en procesos productivos bajo criterios de corresponsabilidad, manejo integral y eficiencia ambiental tecnológica y económica sin poner en peligro la salud humana y sin utilizar métodos que puedan causar perjuicios al medio ambiente.
 
-### CAPITULO III. DE LA POLÍTICA PARA EL MANEJO DE RESIDUOS SOLIDOS Y SUS INSTRUMENTOS
+### CAPITULO II. DE LA COORDINACION y DISTRIBUCION DE COMPETENCIAS
 
 ###### Artículo 4.
 
@@ -4779,7 +4851,7 @@ XVIII. Coadyuvar, en el ámbito de su competencia, con las autoridades estatales
 
 8. Corresponde al Ejecutivo expedir el Reglamento del presente Libro.
 
-### CAPITULO I. DE LOS PROGRAMAS Y ESTRATEGIAS
+### CAPITULO III. DE LA POLÍTICA PARA EL MANEJO DE RESIDUOS SOLIDOS Y SUS INSTRUMENTOS
 
 ###### Artículo 4.
 
@@ -4999,7 +5071,7 @@ X. Bioacumulables.
 
 ## TITULO TERCERO. DE LA MINIMIZACION DE LA GENERACION DE RESIDUOS
 
-### CAPITULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
+### CAPITULO I. DE LOS PROGRAMAS Y ESTRATEGIAS
 
 ###### Artículo 4.
 
@@ -5139,7 +5211,7 @@ b) Mecanismos para proceder a su cierre.
 
 c) Mecanismos para evitar la creación de nuevos tiraderos.
 
-### CAPITULO I. DE LAS OBLIGACIONES GENERALES
+### CAPITULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
 
 ###### Artículo 4.
 
@@ -5209,7 +5281,7 @@ IV. La educación, capacitación y difusión orientadas a promover una cultura d
 
 ## TITULO CUARTO. DE LA GENERACION DE RESIDUOS
 
-### CAPITULO II. DE LAS OBLIGACIONES EN PARTICULAR
+### CAPITULO I. DE LAS OBLIGACIONES GENERALES
 
 ###### Artículo 4.
 
@@ -5293,7 +5365,7 @@ XVII. El uso de plásticos de un solo uso que no sean biodegradables o reutiliza
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción de conformidad con las disposiciones establecidas en el presente Libro sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
 
-### CAPITULO I. DE LAS DISPOSICIONES GENERALES
+### CAPITULO II. DE LAS OBLIGACIONES EN PARTICULAR
 
 ###### Artículo 4.
 
@@ -5351,7 +5423,7 @@ Para dar cumplimiento a las disposiciones contenidas en el párrafo anterior se 
 
 ## TITULO QUINTO. DEL MANEJO INTEGRAL DE LOS RESIDUOS
 
-### CAPITULO II. DE LA SEPARACION Y ORGANIZACION DE RESIDUOS
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 4.
 
@@ -5421,7 +5493,7 @@ IX. Contar con un plan para el cierre de las celdas y de los confinamientos de r
 
 X. Contar con una garantía financiera para asegurar que la operación y el cierre de las instalaciones se realice de conformidad con este Libro y demás ordenamientos legales aplicables, así como costear el monitoreo del sitio ulterior al cierre, generar la información con los indicadores ambientales en el sitio y entregarla periódicamente a la autoridad ambiental correspondiente.
 
-### CAPITULO III. DE LA RECOLECCION DE RESIDUOS SOLIDOS
+### CAPITULO II. DE LA SEPARACION Y ORGANIZACION DE RESIDUOS
 
 ###### Artículo 4.
 
@@ -5451,7 +5523,7 @@ Queda prohibida la colocación de anuncios de propaganda comercial e institucion
 
 66. Con la finalidad de alcanzar los objetivos y metas de este Libro, la Secretaría requerirá al productor, distribuidor, comerciante o cualquier otra persona responsable de la comercialización de productos o servicios que generen residuos sólidos en alto volumen para que sus procesos de producción, prestación de servicios o sus productos contribuyan a generar el menor volumen posible de residuos sólidos urbanos o de manejo especial siempre que esto sea técnica y económicamente factible.
 
-### CAPITULO IV. DE LA ORGANIZACION Y SELECCION DE RESIDUOS
+### CAPITULO III. DE LA RECOLECCION DE RESIDUOS SOLIDOS
 
 ###### Artículo 4.
 
@@ -5515,7 +5587,7 @@ Los operadores de vehículos de recolección de residuos sólidos deberán cumpl
 
 76. Los vehículos utilizados en la recolección de residuos sujetos a esquemas de separación en la fuente deberán contar con contenedores distintos que permitan el acopio por separado de los mismos permaneciendo cerrado su contenedor durante el traslado de dichos residuos hacia las plantas de selección, estaciones de transferencia o los sitios de disposición final.
 
-### CAPITULO V. DE LA REUTILIZACION Y APROVECHAMIENTO DE LOS RESIDUOS
+### CAPITULO IV. DE LA ORGANIZACION Y SELECCION DE RESIDUOS
 
 ###### Artículo 4.
 
@@ -5585,7 +5657,7 @@ Estos residuos podrán además ser subclasificados de conformidad a lo que dispo
 
 Tratándose de pequeños Municipios, las áreas de selección de los residuos recolectados por los servicios de limpia podrán establecerse dentro de las instalaciones de los sitios de disposición final de residuos siempre y cuando estén separadas convenientemente de las celdas de confinamiento de residuos y operen de manera segura y ambientalmente adecuada sin daño a la biodiversidad.
 
-### CAPITULO UNICO. DE LAS CADENAS DE RECICLAJE Y REUTILIZACION
+### CAPITULO V. DE LA REUTILIZACION Y APROVECHAMIENTO DE LOS RESIDUOS
 
 ###### Artículo 4.
 
@@ -5699,7 +5771,7 @@ Las áreas ocupadas por las celdas de confinamiento de los residuos al igual que
 
 ## TITULO SEXTO. DE LOS PARTICULARES QUE INTERVIENEN EN LA DISPOSICION Y MANEJO DE LOS RESIDUOS PARA SU RECICLAJE Y REUTILIZACION
 
-### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO UNICO. DE LAS CADENAS DE RECICLAJE Y REUTILIZACION
 
 ###### Artículo 4.
 
@@ -5773,7 +5845,7 @@ Para la remediación de los sitios contaminados como resultado del depósito de 
 
 ## TITULO OCTAVO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES, REPARACION DEL DAÑO Y RECURSO DE INCONFORMIDAD
 
-### CAPITULO II. DE LAS SANCIONES
+### CAPITULO I. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 4.
 
@@ -5791,7 +5863,7 @@ La autoridad correspondiente podrá solicitar el auxilio de la fuerza pública p
 
 Las medidas de seguridad previstas en el presente Capítulo se sujetarán a lo dispuesto en los ordenamientos legales que resulten aplicables.
 
-### CAPITULO III. DE LA REPARACION DEL DAÑO
+### CAPITULO II. DE LAS SANCIONES
 
 ###### Artículo 4.
 
@@ -5887,7 +5959,7 @@ En los casos en que se imponga como sanción la clausura temporal la autoridad d
 
 En todo lo no previsto en el presente Título la autoridad correspondiente se sujetará a lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de México y demás ordenamientos aplicables.
 
-### CAPITULO I. DISPOSICIONES PRELIMINARES
+### CAPITULO III. DE LA REPARACION DEL DAÑO
 
 ###### Artículo 4.
 
@@ -6195,9 +6267,7 @@ La Secretaría deberá considerar en el ejercicio de sus facultades sobre la mat
 
 ## TITULO QUINTO. DE LAS DISPOSICIONES COMUNES PARA LA CONSERVACION Y EL APROVECHAMIENTO SOSTENIBLE DE LA VIDA SILVESTRE
 
-### CAPITULO II. DE LA FORMACION, CAPACITACION, INVESTIGACION Y DIVULGACION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+### CAPITULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 5.
 
@@ -6225,7 +6295,9 @@ IV. Mecanismos de compensación e instrumentos económicos que retribuyan a los 
 
 V. La utilización de mecanismos de compensación y otros instrumentos internacionales por contribuciones de carácter global.
 
-### CAPITULO III. DE LOS CONOCIMIENTOS, INNOVACIONES Y PRACTICAS DE LAS COMUNIDADES RURALES
+### CAPITULO II. DE LA FORMACION, CAPACITACION, INVESTIGACION Y DIVULGACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 5.
 
@@ -6251,13 +6323,13 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 23. La Secretaría promoverá y participará en el desarrollo de programas de divulgación para que la sociedad valore la importancia ambiental y socioeconómica de la conservación y conozca las técnicas para el aprovechamiento sostenible de la vida silvestre y su hábitat.
 
-### CAPITULO IV. DE LA SANIDAD DE LA VIDA SILVESTRE
+### CAPITULO III. DE LOS CONOCIMIENTOS, INNOVACIONES Y PRACTICAS DE LAS COMUNIDADES RURALES
 
 ###### Artículo 5.
 
 24. En las actividades de conservación y aprovechamiento sostenible de la vida silvestre se respetarán, conservarán y mantendrán los conocimientos, innovaciones y prácticas de las comunidades rurales que entrañen estilos tradicionales de vida pertinentes para la conservación y aprovechamiento sostenible de la vida silvestre y su hábitat y se promoverá su aplicación más amplia con la aprobación y la participación de quienes posean esos conocimientos, innovaciones y prácticas. Se fomentará que los beneficios derivados de la utilización de esos conocimientos, innovaciones y prácticas se compartan equitativamente.
 
-### CAPITULO V. DEL TRATO DIGNO Y RESPETUOSO A LA FAUNA SILVESTRE
+### CAPITULO IV. DE LA SANIDAD DE LA VIDA SILVESTRE
 
 ###### Artículo 5.
 
@@ -6267,7 +6339,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 26. La Secretaría determinará a través de las normas oficiales mexicanas correspondientes, las medidas que deberán de aplicarse para evitar que los ejemplares de las especies silvestres en confinamiento sean sometidas a condiciones adversas a su salud y a su vida durante la aplicación de medidas sanitarias.
 
-### CAPITULO VI. DE LOS CENTROS PARA LA CONSERVACION E INVESTIGACION
+### CAPITULO V. DEL TRATO DIGNO Y RESPETUOSO A LA FAUNA SILVESTRE
 
 ###### Artículo 5.
 
@@ -6307,7 +6379,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 35. El Reglamento y las normas técnicas estatales sobre la materia establecerán las medidas necesarias para efecto de lo establecido en el presente Capítulo.
 
-### CAPITULO VII. DEL SUBSISTEMA ESTATAL DE INFORMACION
+### CAPITULO VI. DE LOS CENTROS PARA LA CONSERVACION E INVESTIGACION
 
 ###### Artículo 5.
 
@@ -6315,7 +6387,7 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 En los centros de conservación e investigación, se llevará un registro de las personas físicas y jurídicas colectivas con capacidad de mantener ejemplares de fauna silvestre en condiciones adecuadas. En el caso de que existan ejemplares que no puedan rehabilitarse para su liberación éstos podrán destinarse a las personas físicas y jurídicas colectivas que cuenten con el registro correspondiente.
 
-### CAPITULO VIII. DE LA LEGAL PROCEDENCIA
+### CAPITULO VII. DEL SUBSISTEMA ESTATAL DE INFORMACION
 
 ###### Artículo 5.
 
@@ -6349,7 +6421,7 @@ XI. El directorio de prestadores de servicios y organizaciones vinculados a esta
 
 La Secretaría no pondrá a disposición del público información susceptible de generar derechos de propiedad intelectual.
 
-### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA CONSERVACION
+### CAPITULO VIII. DE LA LEGAL PROCEDENCIA
 
 ###### Artículo 5.
 
@@ -6391,7 +6463,7 @@ II. Los artículos de uso personal, siempre y cuando no excedan de dos piezas de
 
 ## TITULO SEXTO. DE LA CONSERVACION DE LA VIDA SILVESTRE
 
-### CAPITULO II. DEL HABITAT CRITICO PARA LA CONSERVACION DE LA VIDA SILVESTRE
+### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA CONSERVACION
 
 ###### Artículo 5.
 
@@ -6447,7 +6519,7 @@ Las listas a que se refiere este artículo serán actualizadas por lo menos cada
 
 La información relativa a los proyectos de conservación, preservación y recuperación de especies y poblaciones prioritarias para la conservación estará a disposición del público.
 
-### CAPITULO III. DE LAS AREAS DE REFUGIO PARA PROTEGER LAS ESPECIES ACUATICAS
+### CAPITULO II. DEL HABITAT CRITICO PARA LA CONSERVACION DE LA VIDA SILVESTRE
 
 ###### Artículo 5.
 
@@ -6469,7 +6541,7 @@ La realización de cualquier obra pública o privada de aquellas actividades que
 
 En todo momento el Ejecutivo podrá imponer limitaciones de los derechos de dominio en los predios que abarquen dicho hábitat con el objeto de dar cumplimiento a las medidas necesarias para su manejo y conservación.
 
-### CAPITULO IV. DE LA RESTAURACION, REMEDIACION, REHABILITACION, RECUPERACION Y REMEDIACION
+### CAPITULO III. DE LAS AREAS DE REFUGIO PARA PROTEGER LAS ESPECIES ACUATICAS
 
 ###### Artículo 5.
 
@@ -6503,13 +6575,13 @@ En los casos a que se refiere el párrafo anterior corresponderá al director de
 
 57. La realización de cualquier obra pública o privada de aquellas actividades que puedan afectar la protección, recuperación y restablecimiento de los elementos naturales en áreas de refugio para proteger especies acuáticas deberá quedar sujeta a las condiciones que se establezcan como medidas de manejo y conservación en los programas de protección de que se trate, así como del informe preventivo correspondiente de conformidad con lo establecido en el Reglamento.
 
-### CAPITULO V. DE LAS VEDAS
+### CAPITULO IV. DE LA RESTAURACION, REMEDIACION, REHABILITACION, RECUPERACION Y REMEDIACION
 
 ###### Artículo 5.
 
 58. Cuando se presenten problemas de destrucción, contaminación, degradación, desertificación o desequilibrio del hábitat de la vida silvestre la Secretaría formulará y ejecutará a la brevedad posible programas de prevención, de atención de emergencias y de restauración para la recuperación, remediación, rehabilitación, remediación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales de la vida silvestre tomando en cuenta lo dispuesto en el Libro Segundo del presente Código y en los artículos 78, 78 Bis y 78 Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de conformidad con lo establecido en el Reglamento y las demás disposiciones aplicables.
 
-### CAPITULO VI. DE LOS EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
+### CAPITULO V. DE LAS VEDAS
 
 ###### Artículo 5.
 
@@ -6519,7 +6591,7 @@ En casos de desastres naturales o derivados de actividades humanas la Secretarí
 
 Las vedas podrán establecerse, modificarse o levantarse a solicitud de las personas físicas o jurídicas colectivas interesadas las que deberán presentar los estudios de población correspondientes de conformidad con lo establecido en el Reglamento. La Secretaría evaluará estos antecedentes y la información disponible sobre los aspectos biológicos, sociales y económicos involucrados resolviendo lo que corresponda.
 
-### CAPITULO VII. DE LA MOVILIDAD Y DISPERSION DE POBLACION DE ESPECIES SILVESTRES NATIVAS
+### CAPITULO VI. DE LOS EJEMPLARES Y POBLACIONES QUE SE TORNEN PERJUDICIALES
 
 ###### Artículo 5.
 
@@ -6529,7 +6601,7 @@ Los medios y técnicas deberán ser los adecuados para no afectar a otras especi
 
 Se evaluará primero la posibilidad de aplicar medidas de control como captura o colecta para el desarrollo de proyectos de recuperación, actividades de repoblación y reintroducción o de investigación y educación ambiental.
 
-### CAPITULO VIII. DE LA CONSERVACION DE LAS ESPECIES MIGRATORIAS
+### CAPITULO VII. DE LA MOVILIDAD Y DISPERSION DE POBLACION DE ESPECIES SILVESTRES NATIVAS
 
 ###### Artículo 5.
 
@@ -6543,13 +6615,13 @@ Se evaluará primero la posibilidad de aplicar medidas de control como captura o
 
 63. En los casos en que para el desarrollo natural de poblaciones de especies silvestres nativas sea necesario establecer una estrategia que abarque el conjunto de unidades de manejo para la conservación de vida silvestre colindantes, la Secretaría tomará en cuenta la opinión de los involucrados para establecer dicha estrategia y determinará los términos en que ésta deberá desarrollarse en lo posible con la participación de todos los titulares.
 
-### CAPITULO IX. DE LA CONSERVACION DE LA VIDA SILVESTRE FUERA DE SU HABITAT NATURAL
+### CAPITULO VIII. DE LA CONSERVACION DE LAS ESPECIES MIGRATORIAS
 
 ###### Artículo 5.
 
 64. La conservación de las especies migratorias se llevará a cabo mediante la protección y mantenimiento de sus hábitats, el muestreo y seguimiento de sus poblaciones, así como el fortalecimiento y desarrollo de la cooperación internacional de acuerdo con las disposiciones de este Libro, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de las que de ellas se deriven sin perjuicio de lo establecido en los tratados y otros acuerdos internacionales en los que el país sea parte contratante.
 
-### CAPITULO X. DE LA LIBERACION DE EJEMPLARES AL HABITAT NATURAL
+### CAPITULO IX. DE LA CONSERVACION DE LA VIDA SILVESTRE FUERA DE SU HABITAT NATURAL
 
 ###### Artículo 5.
 
@@ -6587,7 +6659,7 @@ VIII. Medidas para garantizar el trato digno y respetuoso durante su confinamien
 
 IX. Cumplir con las Normas Oficiales Mexicanas y Normas Técnicas del Estado de México que para tal efecto se emitan.
 
-### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
+### CAPITULO X. DE LA LIBERACION DE EJEMPLARES AL HABITAT NATURAL
 
 ###### Artículo 5.
 
@@ -6611,7 +6683,7 @@ III. Un control sanitario de los ejemplares a liberar.
 
 ## TITULO SEPTIMO. DEL APROVECHAMIENTO SOSTENIBLE DE LA VIDA SILVESTRE
 
-### CAPITULO II. DEL APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
+### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
 
 ###### Artículo 5.
 
@@ -6699,7 +6771,7 @@ V. Cuando no se cumpla con la tasa de aprovechamiento y su temporalidad.
 
 La autorización de aprovechamiento generará para su titular la obligación de presentar informes periódicos de conformidad con lo establecido en el Reglamento que deberán incluir la evaluación de los efectos que ha tenido el respectivo aprovechamiento sobre las poblaciones y sus hábitats.
 
-### CAPITULO III. DEL APROVECHAMIENTO MEDIANTE LA ACTIVIDAD CINEGETICA
+### CAPITULO II. DEL APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
 
 ###### Artículo 5.
 
@@ -6713,7 +6785,7 @@ Las autoridades competentes promoverán la constitución de asociaciones para es
 
 La Secretaría podrá establecer limitaciones o negar el aprovechamiento en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
 
-### CAPITULO IV. DE LA COLECTA CIENTIFICA Y CON PROPOSITO DE ENSEÑANZA
+### CAPITULO III. DEL APROVECHAMIENTO MEDIANTE LA ACTIVIDAD CINEGETICA
 
 ###### Artículo 5.
 
@@ -6743,7 +6815,7 @@ Las personas que realicen caza deportiva sin contratar a un prestador de servici
 
 Los prestadores de servicios de aprovechamiento deberán contar con una licencia para la prestación de servicios relacionados con la caza deportiva otorgada previo cumplimiento de las disposiciones vigentes.
 
-### CAPITULO V. DEL APROVECHAMIENTO NO EXTRACTIVO
+### CAPITULO IV. DE LA COLECTA CIENTIFICA Y CON PROPOSITO DE ENSEÑANZA
 
 ###### Artículo 5.
 
@@ -6755,7 +6827,7 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 86. Las personas autorizadas para realizar una colecta científica deberán en los términos que establezca el Reglamento presentar informes de actividades y destinar al menos un duplicado del material biológico colectado a instituciones o colecciones científicas estatales, salvo que la Secretaría determine lo contrario por existir representaciones suficientes y en buen estado de dicho material en las mencionadas instituciones o colecciones.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO V. DEL APROVECHAMIENTO NO EXTRACTIVO
 
 ###### Artículo 5.
 
@@ -6767,7 +6839,7 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 ## TITULO OCTAVO. DE LAS MEDIDAS DE CONTROL, SEGURIDAD, INFRACCIONES Y SANCIONES
 
-### CAPITULO II. DE LOS DAÑOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 5.
 
@@ -6777,7 +6849,7 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 90. Se crearán de conformidad con lo establecido en el Reglamento comités mixtos de vigilancia con la participación de las autoridades municipales con el objeto de supervisar la aplicación de las medidas de control y de seguridad previstas en este Título de conformidad a lo que prevean los acuerdos o convenios de coordinación a los que hace alusión los artículos 5.11, 5.12 y 5.13 de este Libro.
 
-### CAPITULO III. DE LAS VISITAS DE INSPECCION
+### CAPITULO II. DE LOS DAÑOS
 
 ###### Artículo 5.
 
@@ -6807,7 +6879,7 @@ No se entenderá conocido el daño o el deterioro ambiental sino cuando se conoz
 
 94. Serán las autoridades jurisdiccionales de la Entidad las competentes para conocer de la acción de responsabilidad por daño a la vida silvestre y su hábitat.
 
-### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO III. DE LAS VISITAS DE INSPECCION
 
 ###### Artículo 5.
 
@@ -6851,7 +6923,7 @@ III. El infractor demuestre que ha cumplido con las obligaciones materia de la i
 
 101. En los casos en que no se pudiera identificar a los presuntos infractores de este Libro y de las disposiciones que de él deriven la Secretaría pondrá término al procedimiento mediante la adopción de las medidas que correspondan para la conservación de la vida silvestre y de su hábitat y ordenará el destino que debe darse a los ejemplares, partes o derivados de la vida silvestre que hayan sido abandonados.
 
-### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 5.
 
@@ -6911,7 +6983,7 @@ En caso de que el depositario incumpla con sus obligaciones legales la Secretar�
 
 En caso de que en la resolución que concluya el procedimiento de inspección respectivo no se ordene la incautación de los bienes perecederos asegurados precautoriamente y éstos hubiesen sido vendidos, la Secretaría deberá entregar al interesado el precio de venta de los bienes de que se trate al momento del aseguramiento más los rendimientos que se hubiesen generado a la fecha de vencimiento de los títulos a que se refiere el párrafo anterior.
 
-### CAPITULO I. DEL OBJETO
+### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 5.
 
@@ -7049,7 +7121,7 @@ Mientras se define el destino de los ejemplares la Secretaría velará por la pr
 
 # LIBRO SEXTO. DE LA PROTECCION Y BIENESTAR ANIMAL
 
-### CAPITULO II. DE LA COMPETENCIA
+### CAPITULO I. DEL OBJETO
 
 ###### Artículo 6.
 
@@ -7169,7 +7241,7 @@ XIII. Por ningún motivo podrá ser obligada o coaccionada ninguna persona, para
 
 5. Toda persona tiene derecho a que las autoridades competentes pongan a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales por lo que el procedimiento se sujetará a lo previsto en este Código y en lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios relativo al derecho a la información. Asimismo, toda persona física o jurídica colectiva que tenga trato o maneje animales tiene la obligación de proporcionar la información que le sea requerida por las autoridades.
 
-### CAPITULO III. DE LA PARTICIPACION CIUDADANA
+### CAPITULO II. DE LA COMPETENCIA
 
 ###### Artículo 6.
 
@@ -7261,9 +7333,7 @@ X. Establecer campañas de vacunación antirrábica, campañas sanitarias para e
 
 XI. Las demás que el presente Libro y demás ordenamientos jurídicos aplicables les confieran.
 
-### CAPITULO IV. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
 ###### Artículo 6.
 
@@ -7285,7 +7355,9 @@ El Reglamento del presente Libro establecerá los requisitos y las condiciones p
 
 15. Los Municipios y la Secretaría de Salud según corresponda autorizarán la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales que así lo soliciten cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin y como cuando se realicen visitas de verificación a establecimientos que manejen animales.
 
-### CAPITULO V. DE LAS NORMAS TECNICAS ESTATALES
+### CAPITULO IV. DEL FONDO PARA LA PROTECCION A LOS ANIMALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 6.
 
@@ -7313,7 +7385,7 @@ III. Los productos de sus operaciones y de la inversión de fondos; y
 
 IV. Los demás recursos que se generen por cualquier otro concepto en relación con la protección y bienestar animal.
 
-### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
+### CAPITULO V. DE LAS NORMAS TECNICAS ESTATALES
 
 ###### Artículo 6.
 
@@ -7331,7 +7403,7 @@ Para la elaboración de las normas técnicas estatales será tomada en cuenta la
 
 El procedimiento para la elaboración de las normas técnicas estatales se definirá en el Reglamento del presente Libro.
 
-### CAPITULO VII. DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
+### CAPITULO VI. DE LA CULTURA Y EDUCACION PARA LA PROTECCION Y CUIDADO A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -7345,7 +7417,7 @@ El procedimiento para la elaboración de las normas técnicas estatales se defin
 
 21. La Secretaría promoverá ante las instancias correspondientes y participará en la capacitación y actualización del personal en el trato, sociabilización, interacción y manejo de animales domésticos y en actividades de inspección y vigilancia a través de cursos, talleres, reuniones, publicaciones y demás proyectos, programas y acciones que contribuyan a los objetivos del presente Capítulo.
 
-### CAPITULO VIII. DE LA PROTECCION, PROPIEDAD Y POSESION DE ANIMALES DOMESTICOS
+### CAPITULO VII. DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -7421,7 +7493,7 @@ Quedan exceptuadas de sanción las charreadas, lidia de toros, novillos o becerr
 
 25. Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela del presente Libro tiene la obligación de informar a la autoridad competente de la existencia del mismo.
 
-### CAPITULO IX. DE LAS MASCOTAS
+### CAPITULO VIII. DE LA PROTECCION, PROPIEDAD Y POSESION DE ANIMALES DOMESTICOS
 
 ###### Artículo 6.
 
@@ -7435,7 +7507,7 @@ Toda persona física o jurídica colectiva, federación, asociación o empresa q
 
 27. La posesión de un animal doméstico manifiestamente feroz o peligroso por su naturaleza requiere de autorización de las autoridades estatales o municipales que correspondan. Si su propietario, poseedor o encargado permite que deambule libremente en la vía pública sin bozal y correa adecuada será sancionado en los términos de este Libro.
 
-### CAPITULO X. DE LOS ANIMALES ABANDONADOS Y CALLEJEROS
+### CAPITULO IX. DE LAS MASCOTAS
 
 ###### Artículo 6.
 
@@ -7493,7 +7565,7 @@ Las indemnizaciones correspondientes serán exigidas mediante el procedimiento q
 
 35. Los animales que asistan a personas con alguna discapacidad o que por prescripción médica deban acompañarse de algún animal tienen libre acceso a todos los lugares y servicios públicos salvo los que pudieran poner en peligro al animal o las personas.
 
-### CAPITULO XI. DE LAS ESPECIES DOMESTICAS EN PARQUES DE EXPOSICION ANIMAL
+### CAPITULO X. DE LOS ANIMALES ABANDONADOS Y CALLEJEROS
 
 ###### Artículo 6.
 
@@ -7515,7 +7587,7 @@ En caso de que no sea reclamada a tiempo por el dueño las autoridades la destin
 
 Es responsabilidad de los centros de control animal o cualquier institución que los ampare temporalmente alimentar adecuadamente y dar de beber agua limpia a todo animal que se retenga.
 
-### CAPITULO XII. DE LOS ANIMALES DE MONTA, CARGA Y TIRO
+### CAPITULO XI. DE LAS ESPECIES DOMESTICAS EN PARQUES DE EXPOSICION ANIMAL
 
 ###### Artículo 6.
 
@@ -7537,7 +7609,7 @@ Es responsabilidad de los centros de control animal o cualquier institución que
 
 43. La dirección de los parques de exhibición animal que operen en el Estado estará a cargo de un médico veterinario o especialista equivalente quién otorgará una responsiva sobre la seguridad de los visitantes, de los trabajadores del parque y sobre el cuidado de los animales domésticos.
 
-### CAPITULO XIII. DE LOS ANIMALES DE EXHIBICION O DE ESPECTACULO
+### CAPITULO XII. DE LOS ANIMALES DE MONTA, CARGA Y TIRO
 
 ###### Artículo 6.
 
@@ -7583,7 +7655,7 @@ Artículo 6 50. A ningún animal destinado a esta clase de servicios deberá dej
 
 54. La exhibición de animales será realizada atendiendo a las normas oficiales mexicanas o a las normas técnicas estatales.
 
-### CAPITULO XIV. DE LOS ANIMALES DEPORTIVOS
+### CAPITULO XIII. DE LOS ANIMALES DE EXHIBICION O DE ESPECTACULO
 
 ###### Artículo 6.
 
@@ -7597,7 +7669,7 @@ Artículo 6 50. A ningún animal destinado a esta clase de servicios deberá dej
 
 57. Las instalaciones para animales deportivos, centros para la práctica de la equitación y pensiones para mascotas serán objeto de regulación específica en el Reglamento del presente Libro.
 
-### CAPITULO XV. DEL TRANSPORTE Y TRASLADO DE ANIMALES
+### CAPITULO XIV. DE LOS ANIMALES DEPORTIVOS
 
 ###### Artículo 6.
 
@@ -7613,7 +7685,7 @@ Si el animal bajo su custodia contrae alguna enfermedad, se lesiona o muere se l
 
 60. Para cumplir con el trato digno en la movilización de animales se deberá cumplir con lo establecido en las normas oficiales mexicanas y en las normas técnicas estatales.
 
-### CAPITULO XVI. DEL COMERCIO DE LOS ANIMALES
+### CAPITULO XV. DEL TRANSPORTE Y TRASLADO DE ANIMALES
 
 ###### Artículo 6.
 
@@ -7651,7 +7723,7 @@ En caso de incumplimiento en lo establecido en el párrafo anterior la Procuradu
 
 67. El comercio de animales vivos en las zonas urbanas del Estado quedará sujeto a los reglamentos y autorizaciones sanitarias previas correspondientes y se realizará en instalaciones adecuadas, ventiladas y con suficiente iluminación respetando las normas de higiene y de seguridad pública.
 
-### CAPITULO XVII. DE LA EXPERIMENTACION CON ANIMALES
+### CAPITULO XVI. DEL COMERCIO DE LOS ANIMALES
 
 ###### Artículo 6.
 
@@ -7673,7 +7745,7 @@ I. Cuando los resultados de la operación sean conocidos con anterioridad; y
 
 II. Cuando la vivisección no tenga una finalidad científica y en particular cuando la experimentación esté destinada a satisfacer una actividad puramente comercial.
 
-### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
+### CAPITULO XVII. DE LA EXPERIMENTACION CON ANIMALES
 
 ###### Artículo 6.
 
@@ -7707,9 +7779,7 @@ II. Por electroanestesia o gases monóxido de carbono; y
 
 III. Por cualquier otro método científico autorizado por las autoridades sanitarias o por las asociaciones protectoras de animales.
 
-### CAPITULO XIX. DE LA DENUNCIA Y VIGILANCIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+### CAPITULO XVIII. DEL SACRIFICIO DE ANIMALES
 
 ###### Artículo 6.
 
@@ -7791,7 +7861,9 @@ Si por la naturaleza de los hechos denunciados se tratare de asuntos de competen
 
 Sin perjuicio de lo anterior los interesados podrán presentar su denuncia directamente ante la Fiscalía General de Justicia del Estado de México si se considera que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito en cuyo caso deberá sujetarse a lo dispuesto por el Código Nacional de Procedimientos Penales.
 
-### CAPITULO XX. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO XIX. DE LA DENUNCIA Y VIGILANCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
 
 ###### Artículo 6.
 
@@ -7819,7 +7891,7 @@ IV. Cualquier acción legal análoga que permita la protección y bienestar a lo
 
 Las autoridades competentes podrán ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos en relación con la protección a los animales.
 
-### CAPITULO XXI. DE LAS SANCIONES
+### CAPITULO XX. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 6.
 
@@ -7836,6 +7908,8 @@ Las autoridades competentes podrán ordenar la ejecución de alguna o algunas de
 Los padres o tutores del menor de edad son responsables por las faltas que éstos cometan. Las personas discapacitadas o sus tutores legales son responsables por los daños que provoquen a un animal y los daños físicos que sus animales causen a terceros.
 
 La imposición de cualquier sanción prevista por el presente Libro no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño correspondiente que puedan recaer sobre el sancionado en términos de lo previsto por este Código.
+
+### CAPITULO XXI. DE LAS SANCIONES
 
 ###### Artículo 6.
 
@@ -8620,3 +8694,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Poder Ejecutivo del Estado de México podrá modificar o actualizar las declaratorias y/o decretos de creación, programas de manejo, recategorización y demás disposiciones relativas a las Áreas Naturales Protegidas de jurisdicción estatal, que hubieran sido creadas mediante actos del Poder Legislativo, fundados en la legislación vigente previo a la entrada en vigor de este Código, siguiendo las formalidades previstas en el presente Decreto.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 131 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA LA
+
+BIODIVERSIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá, en un plazo no mayor a los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, las adecuaciones a los reglamentos necesarios para la aplicación y armonización de las porciones normativas sujetas a la misma.
+
+CUARTO. En tanto se expiden los reglamentos a que se refiere el artículo anterior se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones del Código para la Biodiversidad del Estado de México.
