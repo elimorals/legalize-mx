@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-06-30"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -435,13 +435,17 @@ XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure
 
 XXIII. Derecho a la salud mental, entendido como la atención psicológica que garantice el bienestar emocional, psicológico y social de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad; y
+XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad;
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-XXV. Derecho de las niñas, niños y adolescentes con discapacidad al acceso a la salud, educación y desarrollo de tal manera que las barreras que impone el entorno social, no impidan su inclusión plena y efectiva en la sociedad.
+XXV. Derecho de las niñas, niños y adolescentes con discapacidad al acceso a la salud, educación y desarrollo de tal manera que las barreras que impone el entorno social, no impidan su inclusión plena y efectiva en la sociedad; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXVI. Derecho a ser considerados como sujetos de derecho con autonomía progresiva en todos los ámbitos y niveles de desarrollo.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -3556,3 +3560,11 @@ P.O. 30 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
