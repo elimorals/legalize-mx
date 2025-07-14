@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2025-06-02"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -519,6 +519,26 @@ La Secretaría deberá dar máxima publicidad a las acciones y programas en su p
 
 La Secretaría en coordinación con los Municipios, procurará que el autoempleo se vincule con las necesidades del mercado y sus vocaciones económicas, y se incrementen las oportunidades de empleo y la mejora en el ingreso de su población.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2025)</small>
+
+### CAPITULO XII. Del Sistema Estatal de Información de Desarrollo Económico
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2025)</small>
+
+###### ARTICULO 39.
+
+La Secretaría organizará y coordinará el Sistema Estatal de Información de Desarrollo Económico, con el objeto de obtener, generar y procesar la información necesaria para el fomento y evaluación de las actividades económicas en el Estado, así como para proveer de información oportuna a los agentes económicos que participan en dichas actividades.
+
+Las dependencias y organismos de la administración pública estatal y municipal, así como las empresas deberán proporcionar a la Secretaría los informes que les solicite.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2025)</small>
+
+###### ARTICULO 40.
+
+La Secretaría establecerá el Registro Estatal de Desarrollo Económico, en el que inscribirá, de manera sistematizada, la información que obtenga a través del sistema a que se refiere el artículo anterior.
+
+El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
+
 ## TRANSITORIOS
 
 PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -716,3 +736,19 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología, tendrá 180 días hábiles, contados a partir de la publicación del presente Decreto, para el diseño e implementación del Sistema Estatal de Información de Desarrollo Económico y el Registro Estatal de Desarrollo Económico.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado contará con un plazo de 180 días hábiles, contados a partir de la publicación del presente, para realizar las reformas reglamentarias derivadas del presente Decreto.
