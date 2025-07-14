@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-150952"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-03"
-last_updated: "2021-09-03"
+last_updated: "2025-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER MUNICIPAL DENOMINADO UNIVERSIDAD DE NAUCALPAN DE JUAREZ, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 129, PUBLICADO EN LA G.G. DE 14 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA AL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER MUNICIPAL DENOMINADO UNIVERSIDAD DE NAUCALPAN DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en la Sección Primera Número 43 de la Gaceta del Gobierno del Estado de México, el viernes 3 de septiembre de 2021.
 
@@ -522,3 +524,13 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México a 31 de agosto de 2021.- El GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MÉXICO, LIC. ALFREDO DEL MAZO MAZA.- RÚBRICA.- El SECRETARIO GENERAL DIE GOBIERNO, MTRO. ERNESTO NEMER ALVAREZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 129.- POR EL QUE SE ABROGA LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER MUNICIPAL DENOMINADO UNIVERSIDAD DE NAUCALPAN DE JUÁREZ, PUBLICADA EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL 3 DE SEPTIEMBRE DE 2021”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
