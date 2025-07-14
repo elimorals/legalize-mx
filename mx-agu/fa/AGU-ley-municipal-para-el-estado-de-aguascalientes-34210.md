@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2025-04-16"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -225,7 +225,9 @@ Cada Municipio será gobernado por un Ayuntamiento integrado por un Presidente M
 
 Los ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso de que uno, varios, o la totalidad de sus integrantes, sean elegidos para un periodo más, e iniciarán su período el día 15 de octubre del año de su elección y concluirán el día 14 de octubre del año de las elecciones para su renovación.
 
-Dentro de las setenta y dos horas anteriores al inicio del periodo constitucional correspondiente, deberán comparecer las personas que en los términos de la legislación aplicable resultaron electos para ocupar los cargos de Presidente Municipal, Síndicos y Regidores, con el fin de rendir la protesta de ley para el ejercicio de las funciones inherentes a sus cargos. Esta protesta surtirá sus efectos de manera inmediata al momento en que inicie el ejercicio del período constitucional del Ayuntamiento entrante.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
+Dentro de las ciento veinte horas anteriores al inicio del periodo constitucional correspondiente, deberán comparecer las personas que en los términos de la legislación aplicable resultaron electos para ocupar los cargos de Presidente Municipal, Síndicos y Regidores, con el fin de rendir la protesta de ley para el ejercicio de las funciones inherentes a sus cargos. Esta protesta surtirá sus efectos de manera inmediata al momento en que inicie el ejercicio del período constitucional del Ayuntamiento entrante.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
 
@@ -249,11 +251,11 @@ El Concejo Municipal será provisional, sus miembros rendirán la protesta de le
 
 En la sesión en que se nombre al Concejo Municipal el Congreso del Estado deberá expedir la convocatoria para la elección del Ayuntamiento que debe concluir el período respectivo, debiendo mediar, entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de cuatro meses, ni mayor de seis.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 22.
 
-Para la instalación y toma de protesta constitucional de los ayuntamientos, el Presidente Municipal, los Regidores y Síndicos que se encuentren en funciones y los electos, se reunirán dentro de las setenta y dos horas anteriores al inicio del período constitucional, en el local y hora que determine el Ayuntamiento saliente, en sesión solemne que se desarrollará conforme al procedimiento que la reglamentación municipal establezca.
+Para la instalación y toma de protesta constitucional de los ayuntamientos, el Presidente Municipal, los Regidores y Síndicos que se encuentren en funciones y los electos, se reunirán dentro de las ciento veinte horas anteriores al inicio del período constitucional, en el local y hora que determine el Ayuntamiento saliente, en sesión solemne que se desarrollará conforme al procedimiento que la reglamentación municipal establezca.
 
 ###### Artículo 23.
 
@@ -1621,11 +1623,11 @@ El Ayuntamiento con base en los estudios que realice, declarará la categoría d
 
 ### CAPITULO SEGUNDO. De la Instalación de los Ayuntamientos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 107.
 
-Para la instalación y toma de protesta constitucional de los ayuntamientos, el Presidente Municipal, los Regidores y Síndicos que se encuentren en funciones y los electos, se reunirán dentro de las setenta y dos horas anteriores al inicio del período constitucional, en el local y hora que determine el Ayuntamiento saliente, en sesión solemne que se desarrollará conforme al procedimiento siguiente:
+Para la instalación y toma de protesta constitucional de los ayuntamientos, el Presidente Municipal, los Regidores y Síndicos que se encuentren en funciones y los electos, se reunirán dentro de las ciento veinte horas anteriores al inicio del período constitucional, en el local y hora que determine el Ayuntamiento saliente, en sesión solemne que se desarrollará conforme al procedimiento siguiente:
 
 El Secretario del Ayuntamiento pasará lista de asistencia a los miembros del Ayuntamiento entrante y comprobado el quórum legal, dará la palabra al Presidente Municipal electo:
 
@@ -2926,6 +2928,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 16 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 176.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 36 DE LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 216.- SE REFORMA LA LEY MUNICIPAL DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
