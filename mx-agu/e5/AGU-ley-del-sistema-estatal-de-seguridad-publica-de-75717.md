@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2024-12-23"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -1227,7 +1227,13 @@ El Estado y Municipios aplicarán las sanciones previstas en esta Ley y en los r
 
 Los servidores públicos de índole ministerial y pericial, así como los de las Instituciones Policiales, podrán ser separados de sus cargos si no cumplen con los requisitos que la presente Ley y las leyes vigentes en el momento del acto señalen para permanecer en dicha institución, o bien podrán ser removidos por incurrir en responsabilidad en el desempeño de sus funciones.
 
-Si la autoridad jurisdiccional que conozca del asunto resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, no procederá la reincorporación o reinstalación. En tal supuesto el servidor público únicamente tendrá derecho a recibir las prestaciones que le correspondan al momento de la terminación del servicio y que subsistan vigentes al tiempo de su reclamo, así como una indemnización de tres meses conforme a la última remuneración base diaria percibida. En ningún caso procederá el pago de salarios caídos.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
+Si la autoridad jurisdiccional que conozca del asunto resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, no procederá la reincorporación o reinstalación. En tal supuesto el servidor público únicamente tendrá derecho a recibir las prestaciones que le correspondan al momento de la terminación del servicio y que subsistan vigentes al tiempo de su reclamo, así como una indemnización de tres meses conforme a la última remuneración base diaria integrada, y veinte días de salario por cada uno de los años de servicios prestados, además de los salarios caídos con las limitantes que establece la presente ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2025)</small>
+
+Para determinar la sanción correspondiente al monto de los salarios caídos, en cualquiera de las acciones o reclamaciones intentadas ante la autoridad competente, en ningún caso podrán ser superiores al equivalente a seis meses del salario integrado percibido por el trabajador, que será el tope máximo de imposición de dicha penalidad.
 
 La separación del cargo será registrada de manera inmediata en el Sistema Nacional de Información de Seguridad Pública, así como en los registros estatales correspondientes.
 
@@ -2994,3 +3000,11 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 217.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
