@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-167794"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-11"
-last_updated: "2024-12-17"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
 
 Ley publicada en la Sección Segunda del Número 46 de la Gaceta de Gobierno del Estado de México, el lunes 11 de septiembre de 2023.
 
@@ -1035,7 +1035,9 @@ V. Estimular la creación y la difusión editorial, así como fortalecer, en con
 
 VI. Apoyar, preservar, gestionar, promover y difundir el arte, las artesanías, las expresiones de cultura popular, las festividades y tradiciones del Estado;
 
-VII. Promover, apoyar y gestionar la preservación e incremento del patrimonio histórico, arqueológico, artístico, cultural y arquitectónico del Estado, impulsando la participación de la comunidad en la preservación de su cultura;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+VII. Promover, apoyar y gestionar la preservación e incremento del patrimonio histórico, arqueológico, artístico, cultural, arquitectónico, natural y biocultural del Estado, impulsando la participación de la comunidad en la preservación de su cultura;
 
 VIII. Coordinar los programas culturales del Estado, con los desarrollados por la Federación en el Estado;
 
@@ -1071,7 +1073,9 @@ XXIII. Proponer a la persona titular del Poder Ejecutivo del Estado, en conjunto
 
 XXIV. Promover e impulsar programas y proyectos turísticos vinculados a segmentos afines a las tradiciones, usos y costumbres de los pueblos y comunidades indígenas del Estado, ejecutándolos conjuntamente y con pleno respeto y reconocimiento a su autonomía, desarrollo integral y sustentable;
 
-XXV. Administrar, preservar, restaurar, acrecentar y divulgar el patrimonio turístico; así como, gestionar e impulsar las acciones necesarias para la oportuna y eficaz prestación de los servicios turísticos;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XXV. Administrar, preservar, restaurar, acrecentar y divulgar el patrimonio turístico, natural y biocultural; así como, gestionar e impulsar las acciones necesarias para la oportuna y eficaz prestación de los servicios turísticos;
 
 XXVI. Controlar y supervisar, de acuerdo con las leyes y reglamentos de la materia, la prestación de los servicios turísticos que se realicen en el Estado;
 
@@ -1101,9 +1105,17 @@ XXXVIII. Orientar y estimular las medidas de protección al turismo en el Estado
 
 XXXIX. Organizar, instrumentar y verificar el cumplimiento de acciones tendientes a la orientación y asistencia del turista; así como establecer un sistema de quejas del turista y canalizar las que correspondan a otras autoridades;
 
-XL. Determinar las políticas, criterios y lineamientos, así como coordinar la edición, coedición, registro, producción, resguardo, distribución, difusión y comercialización de las publicaciones generadas por las dependencias y organismos auxiliares del Poder Ejecutivo del Estado; y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-XLI. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
+XL. Determinar las políticas, criterios y lineamientos, así como coordinar la edición, coedición, registro, producción, resguardo, distribución, difusión y comercialización de las publicaciones generadas por las dependencias y organismos auxiliares del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE JULIO DE 2025)</small>
+
+XLI. La Secretaría coadyuvará en su ámbito de competencia con la Secretaría de Medio Ambiente y Desarrollo Sostenible en la integración del Catálogo Estatal del Patrimonio Natural y Biocultural del Estado de México con base al reconocimiento de las autoridades municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE JULIO DE 2025)</small>
+
+XLII. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 46.
 
@@ -1191,7 +1203,9 @@ I. Proponer y coordinar las acciones y medidas necesarias con el fin de proteger
 
 II. Formular, conducir, ejecutar y evaluar las políticas estatales en materia ambiental y para el desarrollo sostenible del Estado, así como el ordenamiento integral del territorio, en coordinación con los sectores público, privado y social;
 
-III. Aplicar y vigilar el cumplimiento de las disposiciones legales y la normatividad aplicables mediante los planes, programas y proyectos en materia tanto de protección, fomento, conservación y restauración de los recursos naturales, como de inspección y vigilancia de los mismos, que al efecto sean concertados con la Federación y los municipios, con el objetivo de salvaguardar el entorno sus riquezas y patrimonio naturales;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+III. Aplicar y vigilar el cumplimiento de las disposiciones legales y la normatividad aplicables mediante los planes, programas y proyectos en materia tanto de protección, fomento, conservación y restauración de los recursos naturales, como de inspección y vigilancia de los mismos, que al efecto sean concertados con la Federación y los municipios, con el objetivo de salvaguardar el entorno sus riquezas y patrimonio natural y biocultural;
 
 IV. Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en cualquier municipio del Estado, o en zonas compartidas con otros estados; para atender los asuntos que establezcan las leyes u otros ordenamientos y que no estén otorgados expresamente a la Federación fomentando la participación de los municipios y de la sociedad en general;
 
@@ -1225,7 +1239,9 @@ XVIII. Planear, realizar, coordinar, supervisar e instrumentar acciones de sanea
 
 XIX. Coadyuvar y colaborar con la Secretaría del Campo en el establecimiento, aplicación y vigilancia del cumplimiento de criterios, lineamientos, requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en las actividades forestales; así como los relativos a la prevención, combate y control de incendios forestales y al uso del fuego en terrenos forestales, en términos de las leyes, acuerdos o convenios respectivos;
 
-XX. Coadyuvar con las autoridades competentes, en la conservación del patrimonio histórico, cultural, natural y paisajístico, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XX. Coadyuvar con las autoridades competentes, en la conservación del patrimonio histórico, cultural, natural, biocultural y paisajístico, así como respetar y hacer respetar su conservación en la ejecución de obras públicas y en los programas de desarrollo urbano;
 
 XXI. Regular, promover y conducir la política estatal sobre la conservación, preservación, la protección y el aprovechamiento sostenible de los recursos de fauna y flora silvestres en territorio del Estado;
 
@@ -1269,7 +1285,9 @@ XL. Promover, fomentar, apoyar y gestionar las investigaciones ecológicas, la p
 
 XLI. Difundir los programas y estrategias relacionadas con el equilibrio ecológico y la protección del ambiente para fomentar la participación de la sociedad en materia de ordenamiento ecológico integral del territorio, así como de protección al ambiente y desarrollo sustentable, conforme lo dispuesto en la legislación aplicable; además de promover, apoyar y gestionar la participación social, de la comunidad científica, y de los sectores productivos en la formulación y aplicación de la política ambiental, y la construcción de la solución a los problemas ambientales y del desarrollo sostenible;
 
-XLII. Establecer e instrumentar en coordinación con autoridades educativas, de investigación y organizaciones de la sociedad civil, programas de educación ecológica y ambiental, así como la participación comunitaria, social y privada, para la preservación y restauración de los recursos naturales y la protección del ambiente; y promover la incorporación de contenidos ambientales y de desarrollo sustentable en la política educativa del Estado y la formación de actitudes y valores de protección y conservación del patrimonio natural;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XLII. Establecer e instrumentar en coordinación con autoridades educativas, de investigación y organizaciones de la sociedad civil, programas de educación ecológica y ambiental, así como la participación comunitaria, social y privada, para la preservación y restauración de los recursos naturales y la protección del ambiente; y promover la incorporación de contenidos ambientales y de desarrollo sustentable en la política educativa del Estado y la formación de actitudes y valores de protección y conservación del patrimonio natural y biocultural;
 
 XLIII. Establecer y ejecutar acciones de control, supervisión, verificación y vigilancia ambientales, así como prevenir, medir, controlar y en su caso imponer sanciones previstas en las disposiciones jurídicas por la contaminación generada por la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales, que puedan dañar el equilibrio ecológico o el ambiente en el territorio del Estado, provenientes de fuentes fijas o móviles, dentro de la esfera de competencia que le otorgue la ley de la materia y demás disposiciones legales aplicables;
 
@@ -1281,9 +1299,17 @@ XLVI. Evaluar y dictaminar la factibilidad ambiental mediante la evaluación de 
 
 XLVII. Emitir las evaluaciones técnicas y resolver las manifestaciones de impacto en materia ambiental y estudios de riesgo en términos del Código para la Biodiversidad del Estado de México, y demás disposiciones jurídicas aplicables;
 
-XLVIII. Diseñar, promover, apoyar y supervisar programas que promuevan o faciliten la regulación, incluyendo la realización de procesos voluntarios de autorregulación de auditorías ambientales en industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal; y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-XLIX. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
+XLVIII. Diseñar, promover, apoyar y supervisar programas que promuevan o faciliten la regulación, incluyendo la realización de procesos voluntarios de autorregulación de auditorías ambientales en industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE JULIO DE 2025)</small>
+
+XLIX. La Secretaría, integrará el Catálogo Estatal del Patrimonio Natural y Biocultural del Estado de México, en coadyuvancia con la Secretaría de Cultura y Turismo en su ámbito de competencia, con base al reconocimiento de las autoridades municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 14 DE JULIO DE 2025)</small>
+
+L. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 50.
 
@@ -1898,3 +1924,15 @@ TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes
 CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
 
 QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 131.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO, Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá, en un plazo no mayor a los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, las adecuaciones a los reglamentos necesarios para la aplicación y armonización de las porciones normativas sujetas a la misma.
+
+CUARTO. En tanto se expiden los reglamentos a que se refiere el artículo anterior se aplicarán las disposiciones reglamentarias en vigor que no sean contrarias a las previsiones del Código para la Biodiversidad del Estado de México.
