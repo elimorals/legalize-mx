@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2025-03-10"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -101,9 +101,17 @@ Además, se entenderá como sinónimos, maestras y maestros;
 
 XIV. Personal con funciones de dirección: a quienes realizan la planeación, programación, coordinación, ejecución y evaluación de las tareas para el funcionamiento de las escuelas de conformidad con el marco jurídico y administrativo aplicable;
 
-XV. Secretaría: a la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado de México, y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-XVI. Tecnologías de la información, comunicación, conocimiento y aprendizaje digital: a las herramientas que facilitan el desarrollo de las habilidades, saberes y competencias digitales, asimismo potencian la creatividad y motivación de las y los alumnos, y fortalecen la labor del personal docente.
+XV. Secretaría: a la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado de México;
+
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XVI. Tecnologías de la información, comunicación, conocimiento y aprendizaje digital: a las herramientas que facilitan el desarrollo de las habilidades, saberes y competencias digitales, asimismo potencian la creatividad y motivación de las y los alumnos, y fortalecen la labor del personal docente; y
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XVII. Masculinidades Corresponsables: a las conductas que promueven una expresión constructiva de corresponsabilidad amplia, diversificada, plural y abierta en las personas, así como la empatía, la igualdad de trato, la participación responsable e igualitaria en todas las actividades, el respeto a la dignidad y el rechazo al sexismo, la misoginia, la violencia, homofobia y discursos de odio.
 
 ### Capítulo II. Del ejercicio del derecho a la educación
 
@@ -145,9 +153,17 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez y las mujeres, y
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos y el desarrollo sostenible.
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país, especialmente la que se ejerce contra la niñez y las mujeres;
+
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos y el desarrollo sostenible; y
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+VI. Fomentar la adopción de masculinidades corresponsables con la intención de generar mayor conciencia sobre la forma en que las personas se relacionan y comunican, así como el impacto que el sexismo, el machismo, la misoginia, los discursos de odio y la homofobia tienen en la generación y el ejercicio de la violencia, especialmente cuando se ejecuta en contra de niñas, niños, adolescentes y mujeres.
 
 ###### Artículo 10.
 
@@ -207,7 +223,9 @@ I. Contribuir al desarrollo integral y permanente de los educandos, para que eje
 
 II. Promover el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas y la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general;
 
-III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, masculinidades corresponsables y promover el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
 
 IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales y estatales;
 
@@ -895,9 +913,11 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 En caso de que los docentes, el personal que labora en los planteles educativos, así como las autoridades educativas, tengan conocimiento de la probable comisión de algún hecho que la Ley señale como delito en agravio de los educandos, lo harán del conocimiento a la autoridad correspondiente con previo e inmediato informe a quien ejerza la patria potestad, tutela o guarda y custodia de la o el menor de dieciocho años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 90.
 
-Las autoridades educativas, en el ámbito de sus respectivas competencias promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+Las autoridades educativas, en el ámbito de sus respectivas competencias promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar, especialmente aquella que se promueva o realice en contra de las niñas y mujeres.
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
@@ -931,9 +951,11 @@ La autoridad educativa estatal realizará la contratación de un seguro escolar 
 
 Las escuelas con autorización o reconocimiento de validez oficial de estudios, deberán contar con una póliza vigente de seguro de gastos médicos para los educandos que cubra el accidente escolar e indemnización por muerte accidental en el plantel educativo.
 
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 93.
 
-La autoridad educativa estatal, en el ámbito de sus respectivas competencias promoverá una cultura de masculinidades positivas en los planteles educativos.
+La autoridad educativa estatal, en el ámbito de sus respectivas competencias promoverá una cultura de masculinidades corresponsables en los planteles educativos.
 
 ## Título Quinto. De la revalorización de las maestras y los maestros
 
@@ -1756,3 +1778,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. La Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado de México emitirá los lineamientos necesarios para la correcta implementación del presente Decreto en un plazo no mayor a noventa días hábiles a partir de su publicación.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 135.- POR EL QUE SE REFORMAN LAS FRACCIONES XV Y XVI DEL ARTÍCULO 5, LAS FRACCIONES IV Y V DEL ARTÍCULO 9, LA FRACCIÓN III DEL ARTÍCULO 12, EL PRIMER PÁRRAFO DEL ARTÍCULO 90 Y EL ARTÍCULO 93; Y SE ADICIONAN LA FRACCIÓN XVII AL ARTÍCULO 5 Y LA FRACCIÓN VI AL ARTÍCULO 9 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
