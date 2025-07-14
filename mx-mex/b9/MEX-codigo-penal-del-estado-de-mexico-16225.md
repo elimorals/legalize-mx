@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-04-03"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -143,11 +143,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refieren los artículos 308 y 308 Bis, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -4217,6 +4217,64 @@ Al responsable se le impondrán de seis meses a dos años de prisión y de trein
 
 Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa punible, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE JULIO DE 2025)</small>
+
+### CAPITULO XII. ACECHO
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 268 Quinquies.
+
+Se le impondrán de seis meses a dos años de prisión y de cien a trescientos días multa a quien, de manera directa o por interpósita persona, aceche o intimide a una persona con la finalidad de generarle un daño, amenaza o temor fundado por su seguridad o integridad personal o de su familia, llevando a cabo de manera reiterada una o varias de las conductas siguientes:
+
+I. La vigile, siga, persiga, rastree o busque cercanía física en contra de su voluntad;
+
+II. Establezca o busque establecer comunicación persistentemente, en dos o más ocasiones, con ella, a través de cualquier medio de comunicación o redes sociales;
+
+La conducta se considerará reiterada cuando se repita más de dos ocasiones.
+
+Este delito se perseguirá por querella, excepto cuando las víctimas sean niñas, niños o adolescentes, en este caso se perseguirá de oficio.
+
+No se considerarán constitutivas de este delito las conductas descritas en el presente artículo, cuando deriven del ejercicio de la libertad de expresión, la actividad periodística, la defensa de derechos humanos, la protesta social o la crítica a personas servidoras públicas en razón de sus funciones.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+Artículo 268 Sexis.- Las penas establecidas en el artículo anterior se agravarán desde una mitad hasta dos tercios cuando concurran las circunstancias siguientes:
+
+I. Cuando cometiere la conducta haciendo uso de cualquier arma u objeto punzocortante, aun cuando no provoque daño físico;
+
+II. Realice actos o conductas que dañen a la persona o sus bienes, o los de quienes mantengan lazos de parentesco o amistad con ella, con el fin de intimidarles;
+
+III. Cuando los actos se cometan para ejercer presión a la víctima para obligarla a realizar alguna acción o a desistir de algún proceso legal; y
+
+IV. Cuando se utilicen directamente por el agente activo o por interpósita persona, dispositivos tecnológicos para la vigilancia, persecución, rastreo o contacto no deseado.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 268 Septies.
+
+Las penas previstas en este Capítulo se incrementarán hasta el doble cuando concurran una o varias de las circunstancias siguientes:
+
+I. Cuando sea cometida por persona servidora pública.
+
+En este caso, además de la pena señalada, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público hasta por la duración de la pena de prisión impuesta;
+
+II. Se cometa el delito quebrantando o incumpliendo alguna medida de protección o cautelar;
+
+III. Cuando el sujeto activo sea persona mayor de edad y el sujeto pasivo sea niña, niño o adolescente;
+
+IV. Se cause daño físico o psicológico a la víctima o a cualquier persona con la que mantenga lazos de parentesco o amistad, sin perjuicio de las penas previstas para el daño que pudiere causar y que incurriere en otros delitos;
+
+V. Cuando los actos se cometan en contra de una mujer embarazada, persona adulta mayor o persona con discapacidad;
+
+VI. Cuando los actos se hayan cometido por quienes tengan o hayan tenido relación con la víctima por motivos familiares, afectivos, laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza o subordinación;
+
+VII. Cuando los actos se cometan en razón de la identidad de género u orientación sexual de la víctima;
+
+VIII. Cuando se cometa por razón de género o existan antecedentes de violencia de género con la víctima; y
+
+IX. Cuando quien comete el delito haya sido condenado por el mismo con anterioridad.
+
 SUBTITULO CUARTO
 
 DELITOS CONTRA LA LIBERTAD SEXUAL
@@ -4226,10 +4284,6 @@ DELITOS CONTRA LA LIBERTAD SEXUAL
 ### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
-
-### CAPITULO II. ABUSO SEXUAL
-
-> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
 
 ###### Artículo 269.
 
@@ -4273,9 +4327,9 @@ Tratándose de una persona servidora pública de institución educativa pública
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO III. ESTUPRO
+### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
 
 ###### Artículo 270.
 
@@ -4313,9 +4367,9 @@ IV. Cuando el ofendido tenga alguna discapacidad, que limite las actividades de 
 
 Es obligación de quien ejerza la patria potestad de las niñas, niños y adolescentes, hacer del conocimiento o denunciar ante las instancias competentes, cualquier presunto caso de abuso sexual en su contra.
 
-### CAPITULO IV. VIOLACION
+### CAPITULO III. ESTUPRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 271.
 
@@ -4327,9 +4381,9 @@ Comete delito de estupro quien tenga cópula con una persona mayor de quince añ
 
 No se procederá contra el inculpado del estupro, si no es por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
 
-### CAPITULO I. VIOLENCIA INSTITUCIONAL
+### CAPITULO IV. VIOLACION
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 273.
 
@@ -4401,9 +4455,9 @@ DELITOS DE VIOLENCIA DE GÉNERO
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO II. VIOLENCIA OBSTÉTRICA
+### CAPITULO I. VIOLENCIA INSTITUCIONAL
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 275.
 
@@ -4411,7 +4465,7 @@ A quien en el ejercicio de la función pública dilate, obstaculice, niegue la d
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO III. VIOLENCIA LABORAL
+### CAPITULO II. VIOLENCIA OBSTÉTRICA
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
@@ -4453,7 +4507,7 @@ Además de las penas señaladas en el párrafo anterior, se impondrá al respons
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV. VIOLENCIA POR PARENTESCO
+### CAPITULO III. VIOLENCIA LABORAL
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
@@ -4479,9 +4533,9 @@ VII. Permita o tolere actos de hostigamiento y/o acoso sexual en contra de algun
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO IV BIS. VIOLENCIA POLÍTICA
+### CAPITULO IV. VIOLENCIA POR PARENTESCO
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 280.
 
@@ -4505,9 +4559,9 @@ Se impondrán de seis meses a dos años de prisión y de cincuenta a doscientos 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPITULO V. FEMINICIDIO
+### CAPITULO IV BIS. VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 280 Bis.
 
@@ -4515,7 +4569,7 @@ A quien por cualquier medio impida u obstaculice a una mujer el acceso a los car
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO VI. DISPOSICIONES GENERALES
+### CAPITULO V. FEMINICIDIO
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
 
@@ -4531,7 +4585,9 @@ III. Existan antecedentes, datos o medios de prueba de cualquier tipo de violenc
 
 IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza.
 
-V. Existan datos o medios de prueba que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
+
+V. Existan datos o medios de prueba que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acecho, acoso o lesiones del sujeto activo en contra de la víctima.
 
 VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
 
@@ -4563,9 +4619,11 @@ Se entenderá como homicidio doloso, la privación de la vida de una mujer por r
 
 > <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO VI. DISPOSICIONES GENERALES
 
-### CAPITULO II. ABIGEATO
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO I. ROBO
 
 ###### Artículo 282.
 
@@ -4623,7 +4681,7 @@ II. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones 
 
 ## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPITULO III. ABUSO DE CONFIANZA
+### CAPITULO II. ABIGEATO
 
 ###### Artículo 287.
 
@@ -4907,7 +4965,7 @@ Respecto a la persona que intervenga en la comisión del delito con los sujetos 
 
 IV. (DEROGADA, G.G. 27 DE OCTUBRE DE 2023)
 
-### CAPITULO IV. FRAUDE
+### CAPITULO III. ABUSO DE CONFIANZA
 
 ###### Artículo 296.
 
@@ -4961,9 +5019,7 @@ Al que cometa cualquiera de las conductas señaladas en las fracciones anteriore
 
 Es aplicable al delito de abigeato, en lo conducente, lo dispuesto en la fracción III del artículo 295.
 
-### CAPITULO IV BIS. FRAUDE FAMILIAR
-
-> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+### CAPITULO IV. FRAUDE
 
 ###### Artículo 302.
 
@@ -5009,7 +5065,9 @@ VI. Si por alguna circunstancia la cuantía del abuso de confianza no pudiere se
 
 El delito de abuso de confianza sólo se perseguirá por querella de la parte ofendida.
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV BIS. FRAUDE FAMILIAR
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
 ###### Artículo 305.
 
@@ -5101,45 +5159,97 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+### CAPITULO V. DESPOJO
 
 ###### Artículo 307 Bis.
 
 A la o el cónyuge o concubino, que sin causa justificada y en detrimento de la sociedad conyugal o del patrimonio común, generado durante el matrimonio o concubinato, oculte o transfiera por cualquier medio, o adquiera a nombre de terceros, los bienes de éstos, se le aplicará sanción de uno a cinco años de prisión, hasta trescientos días de multa y la reparación de daño.
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO VI. DAÑO EN LOS BIENES
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### Artículo 308.
 
 Comete el delito de despojo:
 
-I. El que de propia autoridad ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-II. El que de propia autoridad ocupe un inmueble de su propiedad, en los casos que la ley no le permita, por hallarse en poder de otras personas, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
+I. La persona que dé propia autoridad ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca o impida materialmente el disfrute de uno o de otro;
 
-III. El que en términos de las fracciones anteriores distraiga sin derecho el curso de las aguas.
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
+II. La persona que dé propia autoridad ocupe un inmueble de su propiedad, en los casos que la ley no le permita, por hallarse en poder de otras personas, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 
-Cuando se trate de un predio que por decreto del ejecutivo del Estado haya sido declarado área natural protegida en sus diferentes modalidades de parques estatales, parques municipales, zonas sujetas a conservación ambiental y las demás que determinen las leyes, se impondrán de dos a siete años de prisión y de cincuenta a ciento setenta y cinco días multa.
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-A los autores intelectuales, a quienes dirijan la invasión y a quienes instiguen a la ocupación del inmueble, cuando el despojo se realice por dos o más personas, se les impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
+III. La persona que desvíe o utilice aguas, propias o ajenas, en contravención a lo dispuesto por la ley de la materia, o ejerza un derecho real sobre aguas que no le pertenezcan; o
 
-Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a todos éstos, inculpados de los delitos cometidos.
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+IV. La persona que realice actos de dominio que afecten o lesionen los derechos legítimos de uso, disfrute o aprovechamiento de aguas por parte de su titular.
+
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+
+Al responsable de este delito se le impondrán de cinco a diez años de prisión y de setecientos a mil días multa.
+
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+
+Cuando se trate de un predio que por decreto del Ejecutivo del Estado haya sido declarado área natural protegida en sus diferentes modalidades de parques estatales, parques municipales, zonas sujetas a conservación ambiental y las demás que determinen las leyes, se impondrán de siete a doce años de prisión y de setecientos a mil días multa.
+
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+
+A los autores intelectuales; a las personas servidoras públicas que tengan autoría o participación; a quienes dirijan la invasión; a quienes instiguen a la ocupación del inmueble; o cuando el despojo se realice por dos o más personas, se les impondrán como sanción individualmente de diez a diecisiete años de prisión y de setecientos a mil días multa.
+
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
+
+Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, personas servidoras públicas o, de quienes dirijan la invasión e instigadores, se considerará a todos éstos como inculpados de los delitos cometidos.
 
 > <small>(ADICIONADO, G. G. 24 DE AGOSTO DE 2020)</small>
 
 Este delito tendrá la calidad de permanente, mientras subsista la detentación material del inmueble objeto del ilícito por el activo.
 
-> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2025)</small>
 
-Este delito se actualiza aunque el derecho a la posesión sea dudoso o esté en disputa.
+Este delito se sancionará sin importar si el derecho a la posesión sea dudoso o esté en disputa.
 
-### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+###### Artículo 308 Bis.
+
+La sanción prevista en el artículo anterior se incrementará hasta en una mitad cuando el delito se cometa en cualquiera de los siguientes supuestos:
+
+I. Con violencia física o moral, o mediante el rompimiento de cerraduras, o el forzado de puertas o ventanas;
+
+II. Cuando se cometa en contra de un ascendiente o descendientes;
+
+III. Aprovechando clandestinamente la ausencia del legítimo poseedor o propietario, o mediante engaño o abuso de confianza;
+
+IV. Cuando la víctima sea una persona mayor de sesenta años, menor de dieciocho, mujer embarazada, persona con discapacidad o perteneciente a un pueblo o comunidad indígena;
+
+V. Cuando para la comisión del delito se formalice o inscriba, ante el Instituto de la Función Registral del Estado de México o su equivalente, un acto jurídico traslativo de dominio o posesión, un contrato de mandato o poderes, en cualquiera de los siguientes casos:
+
+a) Se utilicen documentos falsos para su formalización o inscripción;
+
+b) Se suplante la identidad del legítimo propietario o poseedor del bien inmueble o de su representante legal o apoderado;
+
+VI. Cuando el sujeto activo obtenga o intente obtener un lucro, a través de sí o interpósita persona, mediante la ejecución de actos de dominio sobre el inmueble despojado o sobre los bienes muebles ubicados en él;
+
+VII. Cuando participe dolosamente en la comisión del delito una persona servidora pública con acceso, por razón de su cargo, a información o procedimientos relativos al registro de bienes inmuebles;
+
+VIII. Cuando el despojo se ocasione o facilite dolosamente mediante la intervención de una persona titular de notaría pública, en ejercicio o con motivo de sus funciones, al formalizar actos jurídicos, dar fe de hechos o intervenir en procedimientos no contenciosos.
+
+Se considerará igualmente actualizada esta agravante cuando la conducta se lleve a cabo con conocimiento y voluntad dolosa por parte de personas que, sin tener el carácter de notario o notaria, colaboren en la notaría respectiva o tengan acceso, uso, tratamiento o manejo de documentos, papelería, sellos, bases de datos o sistemas de información notarial, en virtud de una relación laboral, o de prestación de servicios, o de gestión o de hecho con la oficina notarial.
+
+En todos los supuestos previstos en esta fracción, deberá acreditarse que la intervención tuvo como propósito facilitar, consumar o encubrir el acto de despojo, y que existió un vínculo funcional, o material o de confianza que haya sido aprovechado indebidamente para vulnerar la posesión legítima del bien afectado;
+
+IX. Cuando se cometa, o realice, o formalice o convenga a través de mecanismos alternativos de solución de controversias, o mediante acuerdos que den como resultado el despojo.
+
+La persona facilitadora o abogada colaborativa ante la que se realicen los mecanismos será responsable cuando partícipe dolosamente con el propósito de facilitar, o consumar o encubrir el despojo;
+
+X. Cuando el bien inmueble objeto del despojo sea propiedad o esté bajo la administración de cualquier ente público estatal o municipal, independientemente de su naturaleza jurídica.
+
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
 
 ###### Artículo 309.
 
@@ -5195,9 +5305,9 @@ II. De dos a siete años de prisión y de cincuenta a ciento setenta y cinco dí
 
 III. De tres a ocho años de prisión y de setenta y cinco a doscientos días multa, cuando se ocasione a bienes muebles o inmuebles, o documentos afectos a él, de manera que interrumpa el servicio público.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 312.
 
@@ -5219,7 +5329,7 @@ Al que sin permiso y fuera de los casos en que la ley lo permita, invada con án
 
 A los autores intelectuales, a quienes dirijan la invasión, y a quienes instiguen a la ocupación del inmueble, cuando la invasión se realice por dos o más personas se les impondrá de seis a doce años de prisión y de trescientos a mil días multa.
 
-### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5233,7 +5343,7 @@ A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmen
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO III. COALICION
+### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5329,7 +5439,7 @@ Cuando la persona que realiza los actos jurídicos descritos en este delito, rev
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. COALICION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5375,7 +5485,7 @@ Cuando los delitos a que se refieren los artículos 332, 340, 341, 345, 346, 347
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5423,7 +5533,7 @@ Al servidor público, que sin causa justificada abandone sus funciones sin haber
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VI. CONCUSION
+### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5435,7 +5545,7 @@ Al que cometa el delito de coalición de servidores públicos se le impondrán d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VII. INTIMIDACION
+### CAPITULO VI. CONCUSION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5527,7 +5637,7 @@ II. De ocho a doce años de prisión y de mil a mil quinientos días multa, dest
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPITULO VII. INTIMIDACION
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5575,7 +5685,7 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO IX. TRAFICO DE INFLUENCIA
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5591,7 +5701,7 @@ II. De tres a nueve años de prisión, de quinientos a un mil días multa y la d
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO X. COHECHO
+### CAPITULO IX. TRAFICO DE INFLUENCIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5607,7 +5717,7 @@ Al que cometa el delito de intimidación, se le impondrán de dos a nueve años 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XI. PECULADO
+### CAPITULO X. COHECHO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5625,7 +5735,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+### CAPITULO XI. PECULADO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5643,7 +5753,7 @@ II. De tres a ocho años de prisión, de quinientos a mil días multa y destituc
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5711,7 +5821,7 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO XIV. DISPOSICIONES COMUNES
+### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 > <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -5739,9 +5849,9 @@ La disposición de bienes para asegurar su conservación y evitar su destrucció
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO XIV. DISPOSICIONES COMUNES
 
-> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 352.
 
@@ -5760,6 +5870,10 @@ II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equ
 III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa, así como la destitución e inhabilitación que corresponda.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 31 DE MAYO DE 2021)</small>
 
 ###### Artículo 353.
 
@@ -7816,3 +7930,19 @@ G.G. 3 DE ABRIL DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 128.- POR EL QUE SE REFORMA EL ARTÍCULO 9, LAS FRACCIONES I, II Y III Y LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SÉPTIMO DEL ARTÍCULO 308; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 308 Y EL ARTÍCULO 308 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 132.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
