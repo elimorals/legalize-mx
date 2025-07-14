@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2025-02-04"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -2815,9 +2815,15 @@ La remoción del Servicio Profesional de Carrera señalada en la fracción VII d
 
 Las resoluciones que determinen la separación o la remoción de algún servidor público de la Fiscalía General, en términos de lo dispuesto por las fracciones VI y VII del artículo 166 y de los artículos 167 y 168 de la presente Ley, serán definitivas y contra ellas no habrá lugar a la interposición de recurso ordinario alguno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 170.
 
-En el caso de que la causa de terminación de la sujeción al régimen del Servicio Profesional de Carrera lo haya sido alguna de las establecidas en las fracciones V, VI y VII del artículo 166, el servidor público de la Fiscalía General tendrá derecho al pago de las cantidades proporcionales que correspondan a los conceptos de vacaciones, prima vacacional y aguinaldo, salvo en el caso de que la causa de terminación haya sido encontrada como injustificada o infundada, en cuyo caso se procederá en términos de lo dispuesto por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, y la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+En el caso de que la causa de terminación de la sujeción al régimen del Servicio Profesional de Carrera lo haya sido alguna de las establecidas en las fracciones V, VI y VII del artículo 166, el servidor público de la Fiscalía General tendrá derecho al pago de las cantidades proporcionales que correspondan a los conceptos de vacaciones, prima vacacional y aguinaldo, salvo en el caso de que la causa de terminación haya sido encontrada como injustificada o infundada, en cuyo caso se procederá en términos de lo dispuesto por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, y la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes. Tratándose de una terminación del servicio injustificada de Agentes del Ministerio Público, Agentes de Policía de Investigación y Peritos se procederá además de las prestaciones previstas en el presente párrafo, al pago de la indemnización correspondiente a tres meses de la última remuneración base diaria percibida, veinte días de salario por cada uno de los años de servicios prestados, además de los salarios caídos con las limitantes que establece la presente ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2025)</small>
+
+Para determinar el monto de los salarios caídos, en cualquiera de las acciones o reclamaciones intentadas ante la autoridad competente, en ningún caso podrán ser superiores al equivalente a seis meses del salario integrado percibido por el trabajador, que será el tope máximo de imposición de dicha penalidad.
 
 Para efectos del presente artículo, se entenderá que la causa de terminación a la que refiere el primer párrafo fue encontrada como injustificada o infundada, cuando alguna autoridad jurisdiccional resuelva, mediante sentencia que haya causado ejecutoria, que en la especie no se configura ninguna causa de rescisión, separación o remoción a las que refieren las fracciones V, VI y VII del artículo 166 de la presente Ley.
 
@@ -3118,3 +3124,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 217.- SE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
