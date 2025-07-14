@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2025-06-02"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -59,47 +59,69 @@ Tiene por objeto garantizar el ejercicio del derecho humano a la ciencia conform
 
 Toda persona de forma individual y colectiva, tiene derecho a participar y acceder al progreso humanístico, científico y tecnológico, así como a gozar de sus beneficios sociales, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 2°.
 
-La presente Ley tiene por objeto:
+La presente Ley tiene como objetivos:
 
-I. Planear, desarrollar, promover y consolidar la actividad científica, tecnológica, la innovación y el emprendimiento para transformar al Estado de Aguascalientes en una Sociedad del Conocimiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-II. Consolidar la política del Estado para conformar un sistema para la Gestión del Conocimiento, sustentado en la integración y fortalecimiento del Sistema de Ciencia, Tecnología, Innovación y Emprendimiento del Estado, como instrumento estratégico para su desarrollo como Sociedad del Conocimiento;
+I. Planear, desarrollar, promover y consolidar la actividad científica, humanística, tecnológica, la innovación y el emprendimiento para transformar al Estado de Aguascalientes en una Sociedad del Conocimiento;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+II. Consolidar la política del Estado para conformar un sistema para la Gestión del Conocimiento, sustentado en la integración y fortalecimiento del Sistema Estatal, como instrumento estratégico para su desarrollo como Sociedad del Conocimiento;
 
 III. Articular las interacciones entre las dependencias encargadas del fomento económico, las instituciones de educación superior, centros de investigación y la iniciativa privada para impulsar una estructura productiva hacia sectores económicos de elevada productividad y competitividad que permitan elevar el contenido tecnológico y de valor agregado en la economía de la entidad, el desarrollo económico y el empleo formal;
 
-IV. Fomentar la vinculación de los sectores educativo, productivo y gubernamental con el desarrollo socioeconómico global, nacional, regional, estatal y municipal, a través de la ciencia, la tecnología, innovación y el emprendimiento para consolidar al Estado de Aguascalientes en una Sociedad del Conocimiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-V. Obtener, administrar y evaluar la aplicación transparente de los recursos que la Federación, el Estado, los Municipios y los particulares destinen a la ciencia, tecnología, innovación y el emprendimiento para hacer del Estado de Aguascalientes una Sociedad del Conocimiento;
+IV. Fomentar la vinculación de los sectores educativo, productivo y gubernamental con el desarrollo socioeconómico global, nacional, regional, estatal y municipal, a través de las humanidades, la ciencia, la tecnología, innovación y el emprendimiento para consolidar al Estado de Aguascalientes en una Sociedad del Conocimiento;
 
-VI. Coordinar las actividades científicas, tecnológicas, de innovación y de emprendimiento de las dependencias y entidades de la administración pública del Estado y la incorporación de los avances en esta materia para su modernización, observando y aplicando las políticas e instrumentos previstos en este ordenamiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+V. Obtener, administrar y evaluar la aplicación transparente de los recursos que la Federación, el Estado, los Municipios y los particulares destinen a las humanidades, la ciencia, tecnología, innovación y el emprendimiento para hacer del Estado de Aguascalientes una Sociedad del Conocimiento;
 
-VII. Integrar, incrementar y consolidar la capacidad del Sistema de Ciencia, Tecnología, Innovación y Emprendimiento del Estado, mediante la organización, el estímulo y el reconocimiento de la comunidad científica y emprendedora, así como la creación de centros, grupos y redes de investigación y fomento a las estructuras de dinamización, impulso y fortalecimiento a las personas emprendedoras;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de personas dedicadas a la investigación, la ciencia y el desarrollo de tecnología de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en instrumento promotor del emprendimiento innovador, de base científica y tecnológica para el desarrollo del Estado de Aguascalientes como Sociedad del Conocimiento;
+VI. Coordinar las actividades humanísticas, científicas, tecnológicas, de innovación y de emprendimiento de las dependencias y entidades de la administración pública del Estado y la incorporación de los avances en esta materia para su modernización, observando y aplicando las políticas e instrumentos previstos en este ordenamiento;
 
-IX. Garantizar la vinculación del Sistema de Ciencia, Tecnología, Innovación y Emprendimiento del Estado con las instituciones de los sectores académico, gubernamental, productivo y social, para que la investigación científica y tecnológica contribuya a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la mejoría de la calidad de vida, la consolidación y transformación cultural del Estado de Aguascalientes a través del emprendimiento de alto impacto para el desarrollo de una Sociedad del Conocimiento;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+VII. Integrar, incrementar y consolidar la capacidad del Sistema Estatal, mediante la organización, el estímulo y el reconocimiento de la comunidad científica y emprendedora, así como la creación de centros, grupos y redes de investigación y fomento a las estructuras de dinamización, impulso y fortalecimiento a los emprendedores;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+VIII. Fortalecer e impulsar la infraestructura, multiplicación de proyectos de investigación y la formación e integración de personas dedicadas a la investigación, la ciencia y el desarrollo de tecnología de alto nivel académico, así como la vinculación de sus resultados a fin de constituirse en instrumento promotor del emprendimiento innovador, de base humanística, científica y tecnológica para el desarrollo del Estado de Aguascalientes como Sociedad del Conocimiento;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+IX. Garantizar la vinculación del Sistema Estatal, con las instituciones de los sectores académico, gubernamental, productivo y social, para que la investigación científica y tecnológica contribuya a la promoción del desarrollo, la competitividad económica, la transformación del sistema educativo, la mejoría de la calidad de vida, la consolidación y transformación cultural del Estado de Aguascalientes a través del emprendimiento de alto impacto para el desarrollo de una Sociedad del Conocimiento;
 
 X. Garantizar la colaboración interinstitucional e intersectorial en los tres niveles de gobierno y los sectores productivos y económicos, con la finalidad de favorecer la coordinación y la descentralización de las actividades científicas, tecnológicas y de innovación en el Estado;
 
 XI. Impulsar el fortalecimiento del Sistema Estatal de Investigación a través de la creación de la RED;
 
-XII. Divulgar y garantizar el acceso abierto a la información científica, tecnológica, de innovación y de emprendimiento en el Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+XII. Divulgar y garantizar el acceso abierto a la información humanista, científica, tecnológica, de innovación y de emprendimiento en el Estado;
 
-XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a la Ciencia, Tecnología, Innovación y Emprendimiento, monto que no podrá ser menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a las Humanidades, la Ciencia, Tecnología, Innovación y Emprendimiento, monto que no podrá ser menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria;
 
-XIV. Impulsar el desarrollo y fortalecimiento del Ecosistema Estatal Emprendedor, basado en la innovación, la ciencia y la tecnología a través del EPICENTRO; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2025)</small>
+XIV. Impulsar el desarrollo y fortalecimiento del Ecosistema Estatal Emprendedor, basado en la innovación, la ciencia y la tecnología a través del EPICENTRO;
 
-XV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registro de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XV. Promover el acceso a la regulación y otorgamiento de patentes de invención, registro de modelos de utilidad, diseños industriales, esquemas de trazados de circuitos integrados, marcas y avisos comerciales, publicación de nombres comerciales, declaración de protección de denominaciones de origen e indicaciones geográficas; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XVI. Establecer los fines, principios y bases de las políticas públicas en materia de humanidades, ciencias, tecnologías e innovación, así como los criterios y medios para su formulación, ejecución y evaluación.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
@@ -107,7 +129,9 @@ XV. Promover el acceso a la regulación y otorgamiento de patentes de invención
 
 La investigación humanística, científica y tecnológica, el desarrollo tecnológico, la innovación y el emprendimiento son actividades prioritarias que corresponden al Gobierno del Estado, centros e instituciones de educación, de investigación y desarrollo tecnológico no gubernamentales; a los sectores académicos, privado, social y empleadores de las Entidades y a las comunidades emprendedoras, científicas y tecnológicas.
 
-El Gobierno del Estado, a través del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, asegurará el ejercicio de este derecho humano a la ciencia, promoverá impulsará, realizará y apoyará actividades de investigación humanística y científica, desarrollo tecnológico, la innovación y el emprendimiento que redunden en el bienestar del pueblo de Aguascalientes, para asegurar el efectivo desarrollo económico, social, educativo y cultural del Estado para consolidarlo en una Sociedad del Conocimiento.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
+El Gobierno del Estado, a través del Instituto promoverá e impulsará la investigación, el desarrollo tecnológico, la innovación y el emprendimiento para asegurar el efectivo desarrollo económico, social, educativo y cultural del Estado para consolidarlo en una Sociedad del Conocimiento.
 
 Los recursos, capacidades e infraestructuras en materia de humanidades, ciencias, tecnologías, innovación y emprendimiento del sector público del Estado, invariablemente serán puestos al servicio del pueblo de Aguascalientes y su uso, aprovechamiento y explotación permanecerán sujetos al interés público.
 
@@ -119,77 +143,155 @@ La aplicación, interpretación y vigilancia de la presente Ley compete al Insti
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acceso abierto: Al acceso a través de una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos, de innovación o fomento al emprendimiento, financiados con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-II. CONACYT: Al Consejo Nacional de Ciencia y Tecnología;
+I. Acceso abierto: Elemento del derecho humano a la ciencia garantizado en la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte;
 
-III. Consejo: Al Consejo Consultivo en Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
 
-IV. Desarrollo tecnológico: Al proceso de aplicación del conocimiento para la adaptación al cambio de tecnología en la producción de bienes o servicios y la transformación de la tecnología de punta aumentando la exportación en excelencia de los productos, con el fin de cumplir con los objetivos y con los estándares más altos de calidad, como la certificación de una ventaja competitiva ante los competidores, utilidad y costo del bien o servicio producido o generado;
+II. Centros Públicos: Centros Públicos de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;
 
-V. Director General: A la persona titular de la Dirección General del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
 
-VI. Economía del conocimiento: Al Conjunto de actividades económicas que requieren un intensivo aporte del conocimiento humano para generar valor y ofrecer a la sociedad nuevos productos y servicios, que pueden ser aprovechados por todas las ramas de la producción;
+III. Comunidad: Conjunto de comunidades académicas, humanísticas, científicas, tecnológicas y de innovación, incluyendo universidades, instituciones de educación superior y centros de investigación;
 
-VII. Emprendedor: A las mujeres y a los hombres con inquietudes empresariales, que estén en proceso de crear, desarrollar o consolidar una micro o pequeña empresa a partir de una idea emprendedora o innovadora;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-VIII. Emprendimiento de alto impacto: Aquella iniciativa o proyecto que tiene un componente innovador en su producto, en su servicio o en su modelo de negocio, no es necesariamente un desarrollo tecnológico pero que generalmente utiliza la tecnología para conseguir su objetivo y sobre todo, tiene un impacto positivo en su cadena de valor y en alguna comunidad dentro de la sociedad;
+IV. Consejo Nacional: Consejo Nacional de Humanidades, Ciencias y Tecnologías;
 
-IX. EPICENTRO: Ecosistema integral de servicios físicos y digitales para la dinamización, desarrollo e impulso del emprendimiento para el Estado de Aguascalientes, con un enfoque inclusivo, sustentable y de visión internacional;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-X. Estado: Al Estado de Aguascalientes;
+V. Consejo: Al Consejo Consultivo en Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento;
 
-XI. Instituto: Al Instituto de Ciencia y Tecnología del Estado de Aguascalientes, denominado por su acrónimo INCyTEA;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XII. Investigación científica y tecnológica: A aquella que abarca la actividad científica, básica y aplicada en todas las áreas del conocimiento, así como aquella actividad tecnológica;
+VI. Derecho humano a la ciencia: Derecho reconocido en la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte, que incluye a las humanidades, las ciencias, las tecnologías y la innovación;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XIII. Investigador: La persona profesional adscrita a las instituciones comprendidas en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, o en el padrón que establezca el Instituto de Ciencia y Tecnología del Estado de Aguascalientes, que ostenta un nivel académico reconocido nacionalmente de: Licenciatura, Especialidad, Maestría o Doctorado y que ejecuta acciones orientadas a la creación, aplicación e innovación de conocimientos, productos procesos o métodos, o participa en la gestión, difusión, divulgación y enseñanza de conocimientos e informa de los resultados y/o avances de una investigación;
+VII. Desarrollo tecnológico: Al proceso de aplicación del conocimiento para la adaptación al cambio de tecnología en la producción de bienes o servicios y la transformación de la tecnología de punta aumentando la exportación en excelencia de los productos, con el fin de cumplir con los objetivos y con los estándares más altos de calidad, como la certificación de una ventaja competitiva ante los competidores, utilidad y costo del bien o servicio producido o generado;
 
-XIV. Junta de Gobierno: A la Junta de Gobierno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XV. Ley: A la Ley de Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+VIII. Director General: A la persona titular de la Dirección General del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
 
-XVI. Ley de Entidades Paraestatales: A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XVII. Ley de Responsabilidades: A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+IX. Economía del conocimiento: Al Conjunto de actividades económicas que requieren un intensivo aporte del conocimiento humano para generar valor y ofrecer a la sociedad nuevos productos y servicios, que pueden ser aprovechados por todas las ramas de la producción;
 
-XVIII. Plan: Al Plan Rector del Sistema Estatal para la Gestión del Conocimiento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XIX. RED: A la red científica y tecnológica es la asociación formal o informal, articulada horizontalmente de instituciones, personas dedicadas a la investigación y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+X. Emprendimiento de alto impacto: Aquella iniciativa o proyecto que tiene un componente innovador en su producto, en su servicio o en su modelo de negocio, no es necesariamente un desarrollo tecnológico pero que generalmente utiliza la tecnología para conseguir su objetivo y sobre todo, tiene un impacto positivo en su cadena de valor y en alguna comunidad dentro de la sociedad;
 
-XX. Reglamento: Al Reglamento Interior del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XXI. REICyTEA: Al Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes, consistente en el documento oficial que contiene los datos del personal de investigación de las instituciones de educación media y superior; centros de investigación, instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión interna y externa o divulgación científica y tecnológica;
+XI. EPICENTRO: Ecosistema integral de servicios físicos y digitales para la dinamización, desarrollo e impulso del emprendimiento para el Estado de Aguascalientes, con un enfoque inclusivo, sustentable y de visión internacional;
 
-XXII. RENIECYT: Al Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XXIII. Sujetos: A las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado dedicados a la investigación científica y tecnológica preferentemente en el Estado;
+XII. Estado: Al Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XXIV. Usuarios: A los entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones científicas y tecnológicas, ya sean personas físicas o morales;
+XIII. Instituto: Al Instituto de Ciencia y Tecnología del Estado de Aguascalientes, denominado por su acrónimo INCyTEA;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-XXV. Vinculación: A la relación formal y estructurada de intercambio científico, innovación, tecnología y emprendimiento en todas las áreas del conocimiento con el objeto de avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la generación de nuevos emprendimientos, levantamiento de capital, fortalecimiento de capacidades técnicas, así como la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado; y
+XIV. Investigación humanística, científica y tecnológica: A aquella que abarca la actividad humanística, científica, básica y aplicada en todas las áreas del conocimiento, así como aquella actividad tecnológica;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
 
-XXVI. Repositorio Estatal: Repositorio Estatal en Materia de Humanidades, Ciencias, Tecnologías, Innovación y Emprendimiento.
+XV. Junta de Gobierno: A la Junta de Gobierno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XVI. Ley: A la Ley de Ciencia, Tecnología, Innovación y Emprendimiento para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XVII. Ley de Entidades Paraestatales: A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XVIII. Ley General: Ley General en Materia de Humanidades, Ciencias, Tecnologías e Innovación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XIX. Ley de Responsabilidades: A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XX. Mecanismos e instrumentos públicos de fomento y apoyo: Aquéllos dirigidos a la formación, investigación, divulgación y desarrollo de proyectos en materia de humanidades, ciencias, tecnologías e innovación;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXI. Persona Emprendedora: Mujeres y hombres con inquietudes empresariales, que estén en proceso de crear, desarrollar o consolidar una micro o pequeña empresa a partir de una idea emprendedora o innovadora;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXII. Persona Investigadora: A las personas profesionales adscritas a las instituciones comprendidas en el Sistema Nacional de Información, o en el padrón que establezca el Instituto de Ciencia y Tecnología del Estado de Aguascalientes, que ostenta un nivel académico reconocido nacionalmente de: Licenciatura, Especialidad, Maestría o Doctorado y que ejecuta acciones orientadas a la creación, aplicación e innovación de conocimientos, productos procesos o métodos, o participa en la gestión, difusión, divulgación y enseñanza de conocimientos e informa de los resultados y/o avances de una investigación;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXIII. Programa: Programa del Sistema Estatal de Humanidades, Ciencia, Tecnología, Innovación y Emprendimiento de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXIV. Políticas públicas: Aquéllas realizadas en materia de humanidades, ciencias, tecnologías e innovación;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXV. RED: A la red científica y tecnológica que es la asociación formal o informal, articulada horizontalmente de instituciones, personas dedicadas a la investigación y demás integrantes de la comunidad científica, que interactúan atendiendo a un interés científico y tecnológico común;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XXVI. Reglamento: Al Reglamento Interior del Instituto de Ciencia y Tecnología del Estado de Aguascalientes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XXVII. REICyTEA: Al Registro de Investigación Humanística, Científica y Tecnológica del Estado de Aguascalientes, consistente en el documento oficial que contiene los datos del personal de investigación de las instituciones de educación media y superior; centros de investigación, instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión interna y externa o divulgación científica y tecnológica;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXVIII. Sistema Estatal: Sistema de Humanidades, Ciencia, Tecnología, Innovación y Emprendimiento del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XXIX. Sistema Nacional de Información: Sistema Nacional de Información en Materia de Humanidades, Ciencias, Tecnologías e Innovación.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XXX. Sujetos: A las instituciones, centros, organismos, empresas o personas físicas de los sectores social y privado dedicados a la investigación humanística, científica y tecnológica preferentemente en el Estado;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XXXI. Usuarios: A los entes susceptibles a ser beneficiados por la adquisición de innovación y/o investigaciones humanísticas, científicas y tecnológicas, ya sean personas físicas o morales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XXXII. Vinculación: A la relación formal y estructurada de intercambio científico, innovación, tecnología y emprendimiento en todas las áreas del conocimiento con el objeto de avanzar en el desarrollo de la ciencia, innovación y tecnología, así como el coadyuvar a la generación de nuevos emprendimientos, levantamiento de capital, fortalecimiento de capacidades técnicas, así como la solución de problemas concretos que permitan tener información suficiente y oportuna para la toma de decisiones de todos los sectores económicos y áreas estratégicas, y la atención de las necesidades tecnológicas para el pleno desarrollo del conocimiento en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2025)</small>
+
+XXXIII. Repositorio Estatal: Repositorio Estatal en Materia de Humanidades, Ciencias, Tecnologías, Innovación y Emprendimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 6°.
 
-Los principios que regirán los apoyos que proporcionen los Gobiernos Federal, Estatal y Municipales, así como la iniciativa privada a través del Instituto para fomentar y desarrollar la investigación científica, tecnológica y de innovación serán los siguientes:
+Los apoyos que proporcionen los Gobiernos Federal, Estatal y Municipales, así como la iniciativa privada a través del Instituto para fomentar y desarrollar la investigación humanística, científica, tecnológica y de innovación se regirá por lo siguiente:
 
-I. Las actividades de investigación científica y tecnológica que se financien con recursos del CONACYT deberán seguir lineamientos y prioridades que establece la presente Ley, la Ley de Planeación para el Desarrollo del Estado de Aguascalientes, el Plan de Desarrollo del Estado y las demás leyes y normas individualizadas aplicables;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+I. Las actividades de investigación humanística, científica y tecnológica que se financien con recursos del Consejo Nacional deberán seguir lineamientos y prioridades que establece la presente Ley, la Ley de Planeación para el Desarrollo del Estado de Aguascalientes, el Plan de Desarrollo del Estado y las demás leyes y normas individualizadas aplicables;
 
 II. El emprendimiento, investigación, innovación y desarrollo tecnológico que apoye el Instituto invariablemente será la respuesta a una necesidad real de uno o varios usuarios y que, a través de su aplicación, beneficie a un sector prioritario para el Estado, la región o la sociedad en general;
 
 III. Los resultados de las actividades de investigación y desarrollo tecnológico que sean objeto de apoyo en términos de esta Ley, serán evaluados y se tomarán en cuenta para el otorgamiento de apoyos posteriores;
 
-IV. La concurrencia de aportaciones de recursos públicos y privados para la generación, ejecución y difusión de proyectos de divulgación e investigación científica y tecnológica, así como el fomento y formación de recursos humanos especializados en la materia se procurará conforme a las necesidades de desarrollo o consolidación que demande el Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+IV. La concurrencia de aportaciones de recursos públicos y privados para la generación, ejecución y difusión de proyectos de divulgación e investigación humanística, científica y tecnológica, así como el fomento y formación de recursos humanos especializados en la materia se procurará conforme a las necesidades de desarrollo o consolidación que demande el Estado;
 
 V. La promoción de la divulgación de la ciencia y la tecnología deberá orientarse a fortalecer la cultura científica y tecnológica en la sociedad para consolidar al Estado como sede de la Sociedad del Conocimiento;
 
@@ -203,9 +305,9 @@ VIII. Las personas físicas e instituciones que lleven a cabo emprendimientos de
 
 IX. Las personas físicas e instituciones que lleven a cabo investigación y desarrollo tecnológico, que reciban apoyo del Gobierno del Estado, deberán difundir, publicar, editar, diseñar, informar a la sociedad sus actividades, los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes y de la información que por razón de su naturaleza deba reservarse;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-X. Los apoyos que otorgue el Instituto deberán definirse con base a los logros sobresalientes de personas, empresas e instituciones que realicen investigación científica, desarrollo tecnológico, innovación y emprendimiento, así como en razón a la vinculación, enlace, intercambio de información, trabajo en equipo, alianza estratégica de la investigación con las actividades educativas y productivas; y
+X. Los apoyos que otorgue el Instituto deberán definirse con base a los logros sobresalientes de personas, empresas e instituciones que realicen investigación humanística, científica, desarrollo tecnológico, innovación y emprendimiento, así como en razón a la vinculación, enlace, intercambio de información, trabajo en equipo, alianza estratégica de la investigación con las actividades educativas y productivas; y
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
 
@@ -287,9 +389,35 @@ El Instituto es un Organismo Descentralizado de la Administración Pública del 
 
 El Instituto es el organismo rector en el Estado en materia de Ciencia, Tecnología, Innovación y Emprendimiento; sus actividades no tendrán fin lucrativo, ya que todos los servicios que presta a la comunidad tienen un fin educativo y de desarrollo económico sustentable e incluyente para lograr que el Estado se consolide como sede de la Sociedad del Conocimiento.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 8°.
 
-El Instituto tendrá por objeto ser la entidad especializada del Poder Ejecutivo Estatal para articular las políticas públicas del Gobierno Estatal y promover el desarrollo de la innovación, la investigación científica y tecnológica, el emprendimiento, la divulgación y la modernización tecnológica del Estado.
+El Instituto es la entidad especializada del Poder Ejecutivo Estatal para articular las políticas públicas del Gobierno Estatal y tiene por objeto promover el desarrollo de la innovación, la investigación humanística, científica y tecnológica, el emprendimiento, la divulgación y la modernización tecnológica del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 8° Bis.
+
+Las políticas públicas en la materia estarán sujetas a:
+
+I. Contar con un carácter integral, de largo plazo, plural, participativo, incluyente, interinstitucional y transversal;
+
+II. Fomentar la cooperación y la solidaridad internacionales, en los casos que sea conducente;
+
+III. Reducir las desigualdades sociales y económicas en el Estado;
+
+IV. Incluir la equidad y perspectiva de género, los enfoques intercultural, de territorialidades y de derechos humanos, así como la responsabilidad ética, social y ambiental;
+
+V. Fomentar en las actividades de humanidades, ciencias, tecnologías e innovación el rigor epistemológico, la igualdad y no discriminación, la inclusión, pluralidad y equidad epistémicas, la interculturalidad, el diálogo de saberes, la producción horizontal y transversal del conocimiento, el trabajo colaborativo, la solidaridad, el beneficio social y la precaución;
+
+VI. Impulsar un entorno favorable para la promoción, desarrollo y comunicación de las humanidades, las ciencias, las tecnologías y la innovación;
+
+VII. Promover la calidad técnica de la investigación, la disposición social y el acceso universal al conocimiento humanístico y científico y a sus beneficios sociales, así como la adecuación cultural y la seguridad humana y ambiental de sus aplicaciones tecnológicas; y
+
+VIII. Respetar la libertad académica y la autonomía que reconozca la ley a las universidades e instituciones públicas de educación superior.
+
+En todo caso, las políticas públicas deberán salvaguardar la investigación humanística y científica, el desarrollo tecnológico y la innovación en las áreas estratégicas y prioritarias del Estado conforme a los artículos 25 y 28 de la Constitución Política de los Estados Unidos y demás legislación aplicable.
 
 ###### Artículo 9°.
 
@@ -299,7 +427,9 @@ I. Formular y proponer las políticas estatales en materia de emprendimiento, in
 
 II. Conformar un Padrón Estatal de personas dedicadas a la investigación derivado del REICyTEA;
 
-III. Apoyar la comercialización de los productos que deriven de la investigación científica básica y aplicada en el Estado, y la formación y consolidación de grupos de expertos en tecnología en las áreas del conocimiento típicas de las vocaciones regionales de la Entidad Federativa;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+III. Apoyar la comercialización de los productos que deriven de la investigación científica básica y aplicada en el Estado, y la formación y consolidación de grupos de expertos en tecnología en las áreas del conocimiento típicas de las vocaciones regionales del Estado;
 
 IV. Dinamizar, desarrollar e impulsar el fortalecimiento del ecosistema emprendedor de alto impacto para el Estado, con un enfoque incluyente, sustentable y de visión internacional;
 
@@ -307,7 +437,9 @@ V. Vincular a emprendedores, personas físicas o morales con organismos de finan
 
 VI. Proponer a la Junta de Gobierno las prioridades, los lineamientos programáticos y los criterios de asignación del gasto para el emprendimiento, innovación, ciencia y tecnología que deberán tomar en cuenta las dependencias y entidades de la Administración Pública Estatal en sus anteproyectos de programa y presupuesto;
 
-VII. Participar en la programación anual del gasto, en base a los anteproyectos de presupuesto del Estado que elaboren las dependencias y entidades de la Administración Pública Estatal para apoyar el emprendimiento, la innovación, la investigación científica y el desarrollo tecnológico, a fin de asegurar su congruencia global con las políticas, prioridades, lineamientos programáticos y criterios de asignación del gasto definidos, mediante la armonización de acciones con la Secretaría de Planeación, Participación y Desarrollo del Estado;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+VII. Participar en la programación anual del gasto, en base a los anteproyectos de presupuesto del Estado que elaboren las dependencias y entidades de la Administración Pública Estatal para apoyar el emprendimiento, la innovación, la investigación humanística, científica y el desarrollo tecnológico, a fin de asegurar su congruencia global con las políticas, prioridades, lineamientos programáticos y criterios de asignación del gasto definidos, mediante la armonización de acciones con la Secretaría de Planeación, Participación y Desarrollo del Estado;
 
 VIII. Apoyar la generación, difusión y aplicación de avances en materia de innovación, ciencia y tecnología;
 
@@ -317,7 +449,9 @@ X. Dictaminar, administrar y evaluar los aspectos técnicos vinculados con la ap
 
 XI. Promover y apoyar la conformación y funcionamiento de centros de investigación en áreas relevantes para el desarrollo regional;
 
-XII. Emitir los criterios generales, términos de referencia y parámetros de evaluación para medir el impacto, los resultados y beneficios de los recursos asignados a los programas de las dependencias, órganos administrativos desconcentrados y entidades paraestatales que realicen innovación, investigación científica y tecnológica, así como de los apoyos otorgados para el emprendimiento, la innovación, la investigación científica y desarrollo tecnológico;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XII. Emitir los criterios generales, términos de referencia y parámetros de evaluación para medir el impacto, los resultados y beneficios de los recursos asignados a los programas de las dependencias, órganos administrativos desconcentrados y entidades paraestatales que realicen innovación, investigación humanística, científica y tecnológica, así como de los apoyos otorgados para el emprendimiento, la innovación, la investigación científica y desarrollo tecnológico;
 
 XIII. Formular estudios, programas y promover, conjuntamente con las autoridades competentes, planes de carrera orientados a ofrecer incentivos para quienes se dedican a la investigación y tecnología, fortalecer y multiplicar grupos de investigación y fomentar su movilidad entre centros, constituir nuevos centros e instituciones, incluyendo aquellos orientados a la formación de recursos humanos de alto nivel y especialización en áreas científicas y tecnológicas y crear redes en áreas estratégicas de propuestas de conocimiento;
 
@@ -327,7 +461,9 @@ XV. Promover y apoyar el desarrollo del EPICENTRO, así como la RED y los proyec
 
 XVI. Formular estudios, programas y promover, conjuntamente con las autoridades competentes, planes de carrera orientados a ofrecer incentivos para quienes se dedican a la innovación, el emprendimiento, la investigación y la tecnología, fortalecer y multiplicar grupos de investigación y fomentar su movilidad entre centros, constituir nuevos centros e instituciones, incluyendo aquellos orientados a la formación de recursos humanos de alto nivel y especialización en áreas científicas y tecnológicas y crear redes en áreas estratégicas de propuestas de conocimiento;
 
-XVII. Participar de acuerdo con la normatividad vigente, en colaboración con los Municipios, en el Sistema de Información sobre Investigación Científica y Tecnológica y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas, derivados del REICyTEA y publicar la información estadística de dicho sistema;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+XVII. Participar de acuerdo con la normatividad vigente, en colaboración con los Municipios, en el Sistema Estatal y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas, derivados del REICyTEA y publicar la información estadística de dicho sistema;
 
 XVIII. Aportar recursos a las instituciones académicas, centros de innovación y, en general, a personas físicas y morales, públicas, sociales y privadas, para el fomento y realización de emprendimientos, innovaciones, investigaciones y desarrollos tecnológicos, en función de programas y proyectos específicos, en los términos de esta Ley, y en su caso, de los convenios que al efecto celebre el Instituto con otros aportantes y con las instituciones o centros interesados, sin perjuicio de que dichas instituciones y centros sigan manejando e incrementando sus propios fondos y patrimonio;
 
@@ -335,7 +471,9 @@ XIX. Promover las publicaciones científicas y fomentar la difusión sistemátic
 
 XX. Investigar en forma directa exclusivamente sobre el desarrollo y estado de la innovación, la ciencia y la tecnología, para lo cual deberá:
 
-a) Sistematizar y mantener actualizada la información de recursos humanos, materiales y financieros dedicados a la innovación, la investigación científica y tecnológica y desarrollo tecnológico en el Estado;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
+a) Sistematizar y mantener actualizada la información de recursos humanos, materiales y financieros dedicados a la innovación, la investigación humanística, científica y tecnológica y desarrollo tecnológico en el Estado;
 
 b) Realizar estudios prospectivos para identificar las necesidades regionales en emprendimiento, innovación, ciencia y tecnología, estudiar los problemas que la afecten y sus relaciones con la actividad general del Estado; y
 
@@ -871,9 +1009,13 @@ El Consejo contará con un Secretario de Actas de entre sus integrantes, mismo q
 
 El Consejo tendrá por función el emitir recomendaciones para la Junta de Gobierno y/o al Instituto, en razón de lo siguiente:
 
-I. Proponer mejoras sobre las políticas públicas y programas de apoyo al desarrollo del ecosistema emprendedor, la investigación científica, el desarrollo tecnológico y la innovación; así como coadyuvar con la Junta de Gobierno en su evaluación;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
 
-II. Proponer áreas y acciones prioritarias en materia de emprendimiento, investigación científica, desarrollo tecnológico, innovación, formación de personas dedicadas al emprendimiento, la investigación, difusión del conocimiento científico y tecnológico y cooperación y formación técnica internacional;
+I. Proponer mejoras sobre las políticas públicas y programas de apoyo al desarrollo del ecosistema emprendedor, la investigación humanística, científica, el desarrollo tecnológico y la innovación; así como coadyuvar con la Junta de Gobierno en su evaluación;
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+II. Proponer áreas y acciones prioritarias en materia de emprendimiento, investigación humanística, científica, desarrollo tecnológico, innovación, formación de personas dedicadas al emprendimiento, la investigación, difusión del conocimiento científico y tecnológico y cooperación y formación técnica internacional;
 
 III. Analizar, estudiar y proponer mejoras sobre las disposiciones legales en la materia, así como formular sugerencias sobre reformas y/o adiciones a las mismas;
 
@@ -907,29 +1049,37 @@ Las relaciones de trabajo entre el Instituto y su personal se regirán por el Es
 
 Para efectos del presente Capítulo se estará en lo dispuesto por el Reglamento, con la observancia a lo previsto en otras disposiciones legales y normativas aplicables, según sea el caso.
 
-## TÍTULO TERCERO. FINANCIAMIENTO, FONDOS Y ESTÍMULOS FISCALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2025)</small>
+
+## TÍTULO TERCERO
+
+FINANCIAMIENTO, FONDOS, ESTÍMULOS FISCALES Y FOMENTO DE LAS HUMANIDADES, LAS CIENCIAS, LAS TECNOLOGÍAS Y LA INNOVACIÓN.
 
 ### CAPÍTULO I. Financiamiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 45.
 
-La persona titular del Poder Ejecutivo, aportará recursos destinados a financiar la realización de proyectos de emprendimiento, investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura emprendedora, científica y tecnológica y a la formación de recursos en una cantidad no menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria.
+La persona titular del Poder Ejecutivo, aportará recursos destinados a financiar la realización de proyectos de emprendimiento, investigación científica, humanística, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura emprendedora, científica y tecnológica y a la formación de recursos en una cantidad no menor al dos por ciento de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria.
 
 En el entendido de que dicho porcentaje se aplicará adicionalmente al presupuesto anual autorizado por el Congreso del Estado al Instituto.
 
 El Instituto gestionará ante los órganos de finanzas, organismos públicos y privados, nacionales e internacionales, apoyos económicos que deberán aplicarse a proyectos de emprendimiento, innovación, ciencia y tecnología.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 46.
 
-Cada dependencia o entidad de la Administración Pública Estatal, podrá aportar anualmente al Instituto recursos económicos, en atención a la prioridad, el costo y el impulso que el correspondiente sector determine para sus proyectos de inversión en desarrollo del ecosistema emprendedor, innovación, ciencia y tecnología, con el fin de aplicarse en el apoyo a proyectos de innovación, investigación científica y desarrollo tecnológico de su sector, bajo la administración del Instituto y la estructura del fondo que más convenga a la inversión.
+Cada dependencia o entidad de la Administración Pública Estatal, podrá aportar anualmente al Instituto recursos económicos, en atención a la prioridad, el costo y el impulso que el correspondiente sector determine para sus proyectos de inversión en desarrollo del ecosistema emprendedor, innovación, ciencia y tecnología, con el fin de aplicarse en el apoyo a proyectos de innovación, investigación humanística, científica y desarrollo tecnológico de su sector, bajo la administración del Instituto y la estructura del fondo que más convenga a la inversión.
 
 La constitución, inversión y manejo de los fondos financieros del Instituto serán presentados en el presupuesto anual para aprobación de la Junta de Gobierno, los cuales se sujetarán a los acuerdos tomados por ésta y se conformarán con las aportaciones hechas por el Poder Ejecutivo del Estado, las diferentes dependencias estatales y/u organismos públicos descentralizados estatales y organismos constitucionales autónomos, para la atención de las prioridades de innovación, investigación y desarrollo tecnológico que cada una haya presentado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 47.
 
-El establecimiento, aplicación y operación de los diversos fondos que se constituyan para el desarrollo del ecosistema emprendedor, la investigación científica, tecnológica e innovación, se sujetarán a los siguientes criterios:
+El establecimiento, aplicación y operación de los diversos fondos que se constituyan para el desarrollo del ecosistema emprendedor, la investigación humanística, científica, tecnológica e innovación, se sujetarán a los siguientes criterios:
 
 I. Prioridades y necesidades estatales;
 
@@ -953,9 +1103,11 @@ II. La canalización de recursos se considerará como erogaciones devengadas del
 
 III. Los beneficiarios podrán ser las personas físicas o jurídicas colectivas que previamente hayan sido seleccionadas por la institución, dependencia o entidad otorgante, previa opinión favorable del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 50.
 
-La concurrencia de los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades de emprendimiento, ciencia, tecnología e innovación que se realicen en el Estado, serán intransferibles a otra actividad distinta por lo que deberá aplicarse exclusiva y obligatoriamente al fomento de las actividades directamente vinculadas a la realización de proyectos específicos de emprendimiento, investigación científica, modernización, innovación y desarrollos tecnológicos; becas y formación de recursos humanos especializados; divulgación de ciencia y la tecnología; creación, desarrollo o consolidación de grupos o centros de investigación, fortalecimiento del ecosistema emprendedor, así como para otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, la investigación o al desarrollo de tecnología.
+La concurrencia de los recursos provenientes del sector público o privado, destinados al financiamiento de las actividades de emprendimiento, ciencia, tecnología e innovación que se realicen en el Estado, serán intransferibles a otra actividad distinta por lo que deberá aplicarse exclusiva y obligatoriamente al fomento de las actividades directamente vinculadas a la realización de proyectos específicos de emprendimiento, investigación humanística, científica, modernización, innovación y desarrollos tecnológicos; becas y formación de recursos humanos especializados; divulgación de ciencia y la tecnología; creación, desarrollo o consolidación de grupos o centros de investigación, fortalecimiento del ecosistema emprendedor, así como para otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, la investigación o al desarrollo de tecnología.
 
 Los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación, aceleración o escalamiento de emprendimientos de alto impacto económico, social o ecológico y empresas tecnológicas de innovación en coordinación con la propia organización, institución, centro o entidad, según corresponda y, en su caso; con terceros.
 
@@ -965,11 +1117,15 @@ Los términos, requisitos y criterios a que se refiere el presente artículo ser
 
 Las actividades a que se refiere el artículo anterior deberán estar orientadas a:
 
-I. Promover e impulsar el emprendimiento, la innovación, la investigación científica, el desarrollo tecnológico y el aprovechamiento de los resultados de estos, en aplicaciones tecnológicas que amplíen los horizontes de competitividad y globalización de la planta productiva;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+I. Promover e impulsar el emprendimiento, la innovación, la investigación humanística, científica, el desarrollo tecnológico y el aprovechamiento de los resultados de estos, en aplicaciones tecnológicas que amplíen los horizontes de competitividad y globalización de la planta productiva;
 
 II. Promover la capacitación y actualización continua de los recursos humanos del Estado, a fin de formar, en el mediano plazo, cuadros de primer nivel en el área técnica y profesional capaces de fortalecer el ecosistema emprendedor e innovador local, así como integrarse o encabezar grupos, centros de investigación, desarrollo tecnológico y empresas, orientando su incorporación hacia las áreas o disciplinas que más convengan al desarrollo económico y social en el Estado;
 
-III. Definir, crear e instrumentar mecanismos de promoción y divulgación de casos de éxito emprendedor e innovador, las actividades científicas y tecnológicas, que constituyen al mismo tiempo un elemento de apoyo para el impulso, mejoramiento y el fortalecimiento del ecosistema local, despertando nuevas vocaciones emprendedoras e innovadoras y de investigación científica, desarrollo tecnológico y la formación de una cultura emprendedora y científica, mediante la generación de espacios para la transferencia de información y difusión de productos editoriales, así como espacios formativos recreativos e interactivos a favor de las necesidades y prioridades del Estado; y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+III. Definir, crear e instrumentar mecanismos de promoción y divulgación de casos de éxito emprendedor e innovador, las actividades científicas y tecnológicas, que constituyen al mismo tiempo un elemento de apoyo para el impulso, mejoramiento y el fortalecimiento del ecosistema local, despertando nuevas vocaciones emprendedoras e innovadoras y de investigación humanística, científica, desarrollo tecnológico y la formación de una cultura emprendedora y científica, mediante la generación de espacios para la transferencia de información y difusión de productos editoriales, así como espacios formativos recreativos e interactivos a favor de las necesidades y prioridades del Estado; y
 
 IV. Promover y estimular la creación equipamiento, mantenimiento y preservación de la infraestructura destinada a la realización de actividades emprendedoras, innovadoras, científicas y tecnológicas.
 
@@ -979,9 +1135,11 @@ Las reasignaciones de recursos de un proyecto que por necesidades del servicio r
 
 ### CAPÍTULO II. Fondos
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 53.
 
-El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo del ecosistema emprendedor del estado, así como de la investigación científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones emprendedoras, innovadoras, científicas y tecnológicas; realización de proyectos específicos de emprendimiento de alto impacto económico, social, ecológico, de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de casos de éxito emprendedor, de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos o centros de investigación, así como otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, y la investigación, así como a personas dedicadas al desarrollo de tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
+El objeto de cada fondo invariablemente será el otorgamiento de apoyos y financiamientos para: actividades directamente vinculadas al desarrollo del ecosistema emprendedor del estado, así como de la investigación humanística, científica, tecnológica e innovación; becas y formación de recursos humanos especializados; desarrollo al impulso del fomento a las vocaciones emprendedoras, innovadoras, humanistas, científicas y tecnológicas; realización de proyectos específicos de emprendimiento de alto impacto económico, social, ecológico, de investigación científica, modernización, innovación, y desarrollos tecnológicos; divulgación de casos de éxito emprendedor, de la ciencia, la tecnología e innovación; creación, desarrollo o consolidación de grupos o centros de investigación, así como otorgar estímulos y reconocimientos a personas dedicadas al emprendimiento, la innovación, y la investigación, así como a personas dedicadas al desarrollo de tecnología, en ambos casos asociados a la evaluación de sus actividades y resultados.
 
 ### CAPÍTULO III. Estímulos Fiscales
 
@@ -993,7 +1151,9 @@ Dicho estímulo fiscal consistirá en reconocer un veinticinco por ciento de los
 
 Para los efectos del presente artículo, se consideran como gastos e inversiones realizados en el ejercicio, en materia de investigación, desarrollo de tecnología y ciencia, aquellos que acrediten el cumplimiento de los Lineamientos que expida la Secretaría de Finanzas del Estado, y que a su vez estén destinados exclusivamente a las actividades estipuladas en el artículo 51 de la presente Ley.
 
-## TÍTULO CUARTO. INSTRUMENTOS DE APOYO AL EMPRENDIMIENTO, LA INNOVACIÓN, LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2025)</small>
+
+## TÍTULO CUARTO. INSTRUMENTOS DE APOYO AL EMPRENDIMIENTO, LA INNOVACIÓN, LA INVESTIGACIÓN HUMANÍSTICA, CIENTÍFICA Y TECNOLÓGICA
 
 ### CAPÍTULO I. Divulgación, Difusión y Fomento de la Cultura Emprendedora, Innovadora y Científica
 
@@ -1021,21 +1181,29 @@ Para incrementar la divulgación y difusión de emprendimiento, ciencia, tecnolo
 
 ### CAPÍTULO II. Jornadas de Divulgación de la Cultura Científica y Fomento al Emprendimiento y la Innovación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 58.
 
-El Gobierno del Estado, a través del Instituto llevará a cabo Jornadas de Divulgación de la Cultura Científica, la Innovación Tecnológica y el Emprendimiento, con el objetivo de propagar el conocimiento, despertar vocaciones emprendedoras y fomentar la investigación en materia de ciencia y tecnología, en los niveles de educación básica, media superior y superior en el Estado.
+El Gobierno del Estado, a través del Instituto llevará a cabo Jornadas de Divulgación de la Cultura Humanística, Científica, la Innovación Tecnológica y el Emprendimiento, con el objetivo de propagar el conocimiento, despertar vocaciones emprendedoras y fomentar la investigación en materia de ciencia y tecnología, en los niveles de educación básica, media superior y superior en el Estado.
 
-Para la adecuada realización de las Jornadas de Divulgación de la Cultura Científica, la Innovación Tecnológica y el Emprendimiento, el Instituto atenderá a lo dispuesto en el Capítulo Tercero del presente Título.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
+Para la adecuada realización de las Jornadas de Divulgación de la Cultura Humanística, Científica, la Innovación Tecnológica y el Emprendimiento, el Instituto atenderá a lo dispuesto en el Capítulo Tercero del presente Título.
 
 ### CAPÍTULO III. Formación de Recursos Humanos
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 59.
 
-El Instituto formulará las políticas que normarán los criterios para la elaboración de programas que tengan por objeto la formación de recursos humanos de alto nivel académico en las diversas áreas del emprendimiento, la ciencia, la tecnología e innovación.
+El Instituto formulará las políticas que normarán los criterios para la elaboración de programas que tengan por objeto la formación de recursos humanos de alto nivel académico en las diversas áreas del humanismo, emprendimiento, la ciencia, la tecnología e innovación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 60.
 
-Para la formación de recursos humanos orientados al emprendimiento, la investigación científica, tecnológica e innovación, el Instituto garantizará la igualdad de oportunidades y la transparencia en el uso de los recursos, para lo cual deberá:
+Para la formación de recursos humanos orientados al emprendimiento, la investigación humanística, científica, tecnológica e innovación, el Instituto garantizará la igualdad de oportunidades y la transparencia en el uso de los recursos, para lo cual deberá:
 
 I. Promover en las dependencias de la Administración Pública Estatal y en los organismos públicos descentralizados del Estado, sector académico, empresarial y social, acciones y estrategias para la formación de recursos humanos de alto nivel académico;
 
@@ -1053,43 +1221,49 @@ IV. Apoyar la integración de las comunidades emprendedoras, innovadoras, cient�
 
 V. Promover la creación de programas de apoyo y becas para mujeres con la finalidad de fortalecer a este sector poblacional, contribuyendo a la consolidación y transformación de perspectiva de género del Estado de Aguascalientes en una Sociedad del Conocimiento.
 
-### CAPÍTULO IV. Plan Rector del Sistema Estatal para la Gestión del Conocimiento
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2025)</small>
+
+### CAPÍTULO IV. Programa del Sistema de Humanidades, Ciencia, Tecnología, Innovación y Emprendimiento del Estado de Aguascalientes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Junta de Gobierno aprobar el Plan y ordenar su publicación en el Periódico Oficial del Estado. Dicho plan tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, difusión, divulgación y aplicación de la ciencia, tecnología e innovación en el Estado, así como su revisión anual.
+Corresponde a la Junta de Gobierno aprobar el programa contemplando las propuestas que presenten las dependencias y entidades de la administración pública local que fomenten, realicen o apoyen actividades de investigación humanística o científica, desarrollo tecnológico e innovación. De igual manera, se tomarán en cuenta las opiniones que emitan los órganos internos consultivos, las universidades, las instituciones de educación superior, los centros de investigación y la comunidad en general, así como los sectores social y privado del Estado.
 
-Dicho plan tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, difusión, divulgación y aplicación del emprendimiento, la ciencia, tecnología e innovación en el Estado, así como su revisión anual.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
-En la elaboración del Plan se promoverá la participación de los distintos grupos sociales y sectores del Estado en los términos de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes.
+El diseño e implementación del Programa deberá contemplar como punto de partida las necesidades, problemáticas, capacidades y vocaciones de los municipios del Estado según corresponda, de conformidad con la legislación aplicable. Asimismo, deberá ser congruente con los fines, principios y bases de las políticas públicas previstas en la presente ley.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 62.
 
-El Plan será elaborado por la Dirección General del Instituto, de acuerdo con las propuestas que le presenten los sectores académico, empresarial y social, así como las dependencias y entidades de la Administración Pública Estatal que apoyen al fortalecimiento del ecosistema emprendedor o innovador o realicen investigación científica y tecnológica.
+El Programa será elaborado por la Dirección General del Instituto, deberá tener los siguientes elementos, además de los previstos en la legislación local aplicable:
 
-En la elaboración del Plan se tomarán en cuenta, además las propuestas de las comunidades emprendedoras, innovadoras, científica y tecnológica, y las que formulen las organizaciones del sector y las instituciones de educación superior en el Estado, el cual deberá contener entre otros los siguientes aspectos:
+I. El diagnóstico y análisis del estado que guardan en el Estado, las humanidades, ciencias, tecnologías e innovación, en relación con los fines, principios y bases de las políticas públicas previstas en la presente ley;
 
-I. Los lineamientos que orienten la política estatal del desarrollo del Estado con base en el emprendimiento, el conocimiento y en la innovación tecnológica;
+II. Las propuestas, alternativas, lineamientos, estrategias, acciones, metas, indicadores y proyectos para el desarrollo en el Estado de las bases de las políticas públicas, incluyendo los asuntos relacionados con la Agenda Nacional, agrupados de manera preferente por sectores y regiones; y
 
-II. Las áreas prioritarias del emprendimiento, el conocimiento y la innovación tecnológica;
+III. Las consideraciones y proyecciones de las estrategias y acciones para el desarrollo en el Estado de las bases de las políticas públicas con una prospectiva de por lo menos veinte años.
 
-III. Los proyectos estratégicos para el desarrollo y transformación del Estado, así como acciones concretas para su realización a corto, mediano y largo plazos;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2025)</small>
 
-IV. El análisis de la situación del Estado respecto de los principales indicadores de organizaciones internacionales de países orientados a la economía del conocimiento; y
+### CAPÍTULO V. Registro de Investigación Humanística, Científica y Tecnológica del Estado de Aguascalientes
 
-V. El planteamiento de las acciones, medidas y esfuerzos a realizar a mediano y largo plazo, por parte de los sectores público, privado, científico y académico para que el Estado alcance niveles de desarrollo económico y social mediante la aplicación de conocimientos e innovaciones tecnológicas equiparables a los de los países de la economía del conocimiento.
-
-### CAPÍTULO V. Registro de Investigación Científica y Tecnológica del Estado de Aguascalientes
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 63.
 
-El REICyTEA estará integrado con la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado.
+El REICyTEA estará integrado con la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado y para su integración y operación se deberán aplicar las especificaciones del Sistema Nacional de Información previstas en la Ley General.
 
-El REICyTEA permitirá establecer el Sistema Estatal de Investigación, el Sistema de Información sobre Investigación Científica y Tecnológica y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas en Aguascalientes.
+El REICyTEA permitirá establecer el Sistema Estatal de Investigación, el Sistema de Información sobre Investigación, Humanística, Científica y Tecnológica y el Registro Estatal de Instituciones y Empresas de Innovación, Científicas y Tecnológicas en Aguascalientes.
 
-El Instituto a través del REICyTEA, en el ámbito de su competencia coadyuvará con el CONACYT a la estrategia nacional para democratizar la información Científica, Tecnológica y de Innovación, con el fin de fortalecer las capacidades del Estado y del país para que el conocimiento universal esté disponible a los educandos, a las personas dedicadas a la enseñanza, la academia, la investigación, la ciencia, la tecnología y a la población en general, a través de un acceso abierto.
+El Instituto a través del REICyTEA, en el ámbito de su competencia coadyuvará con el Consejo Nacional a la estrategia nacional para democratizar la información Humanística, Científica, Tecnológica y de Innovación, con el fin de fortalecer las capacidades del Estado y del país para que el conocimiento universal esté disponible para estudiantes, a las personas dedicadas a la enseñanza, la academia, la investigación, la ciencia, la tecnología y a la población en general, a través de un acceso abierto.
 
-Asimismo, el Instituto a través del REICyTEA establecerá los lineamientos para garantizar el Acceso Abierto a la información científica, tecnológica y de innovación generada con recursos públicos estatales a texto completo, en formatos digitales, en los términos de la presente Ley.
+Asimismo, el Instituto a través del REICyTEA establecerá los lineamientos para garantizar el Acceso Abierto a la información humanística, científica, tecnológica y de innovación generada con recursos públicos estatales a texto completo, en formatos digitales, en los términos de la presente Ley.
 
 ###### Artículo 64.
 
@@ -1117,21 +1291,25 @@ Las dependencias y entidades de la Administración Pública Estatal, Institucion
 
 El personal de dependencias y entidades de la Administración Pública Estatal, Instituciones públicas de educación superior, así como centros de investigación que tengan la calidad de servidores públicos e incurran en conflicto de intereses, serán sancionados conforme a lo establecido por la Ley de Responsabilidades Administrativas independientemente de las responsabilidades en que incurran conforme a los ordenamientos legales vigentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 67.
 
-El proceso de vinculación deberá ser multidisciplinario e interinstitucional; en él se buscará la coordinación de esfuerzos conjuntos en materia de emprendimiento, innovación, ciencia y tecnología.
+El proceso de vinculación deberá ser multidisciplinario e interinstitucional; en él se buscará la coordinación de esfuerzos conjuntos en materia de humanismo, emprendimiento, innovación, ciencia y tecnología.
 
-Para el efecto se promoverá la vinculación permanente de las instituciones que fortalecen el ecosistema emprendedor e innovador, o aquellas que desarrollan investigación científica y tecnológica con el sector productivo del Estado, bajo diversos mecanismos y acciones que sean pertinentes, a través de figuras como las Unidades de Vinculación, convenios de colaboración y transferencia de tecnología y conocimiento.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
+Para el efecto se promoverá la vinculación permanente de las instituciones que fortalecen el ecosistema emprendedor e innovador, o aquellas que desarrollan investigación humanística, científica y tecnológica con el sector productivo del Estado, bajo diversos mecanismos y acciones que sean pertinentes, a través de figuras como las Unidades de Vinculación, convenios de colaboración y transferencia de tecnología y conocimiento.
 
 Las Unidades de Vinculación, y Transferencia de Tecnología y Conocimiento o las que hace referencia el párrafo que antecede, podrán constituirse mediante la figura jurídica que mejor convenga a sus objetivos y en ningún caso podrán pagar su gasto operativo con recursos públicos dedicados al fortalecimiento del ecosistema emprendedor, desarrollo tecnológico, investigación e innovación.
 
 Los recursos que le sean asignados presupuestariamente deberán de destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo emprendedor, tecnológico, investigación e innovación, así como a promover su vinculación con los sectores productivos del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 68.
 
-Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y las organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
+Las instituciones de educación, los Centros Públicos de Investigación, las entidades de la administración pública y las organizaciones de la sociedad civil que realicen actividades de fortalecimiento al ecosistema emprendedor, investigación humanística, científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, centros y entidades, así como del personal académico, de investigación y especializado adscritos a la institución, centro o entidad, que participen en la parte sustantiva del proyecto.
 
 Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones de educación, Centros, entidades u organizaciones de la sociedad civil aprobarán y establecerán lo siguiente:
 
@@ -1175,7 +1353,9 @@ V. Autorizar la apertura de cuentas de inversión financiera, las que siempre se
 
 VI. Autorizar en lo general el programa y los criterios para la celebración de convenios y contratos de prestación de servicios de investigación para la realización de proyectos específicos de emprendimiento, investigación, desarrollo tecnológico, innovación o prestación de servicios técnicos, así como aprobar las asociaciones estratégicas y los proyectos, convenios o contratos que tengan la finalidad de establecer empresas de base tecnológica con o sin la aportación del centro en su capital social;
 
-VII. Expedir las reglas de operación de los fondos de fomento al emprendimiento, investigación científica, desarrollo tecnológico e innovación y aprobar el contenido de los contratos de fideicomiso y cualesquiera modificaciones a éstos, así como la reglamentación interna, o sus modificaciones, que le proponga el titular del centro para la instrumentación de los programas sustantivos;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2025)</small>
+
+VII. Expedir las reglas de operación de los fondos de fomento al emprendimiento, investigación humanística, científica, desarrollo tecnológico e innovación y aprobar el contenido de los contratos de fideicomiso y cualesquiera modificaciones a éstos, así como la reglamentación interna, o sus modificaciones, que le proponga el titular del centro para la instrumentación de los programas sustantivos;
 
 VIII. Aprobar los términos de los convenios de administración por resultados cuya celebración se proponga en los términos de esta Ley, así como decidir su terminación anticipada;
 
@@ -1217,33 +1397,41 @@ Los apoyos a que se refiere el Artículo anterior se otorgarán por un tiempo de
 
 ### CAPÍTULO II. Relaciones entre el Emprendimiento, la Investigación y la Educación
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 72.
 
-El emprendimiento, la innovación y la investigación científica y tecnológica que el Gobierno del Estado apoye buscará contribuir significativamente a desarrollar la economía local, así como a fortalecer el sistema de educación y de capacitación de alta calidad.
+El emprendimiento, la innovación y la investigación humanística, científica y tecnológica que el Gobierno del Estado apoye buscará contribuir significativamente a desarrollar la economía local, así como a fortalecer el sistema de educación y de capacitación de alta calidad.
 
 ###### Artículo 73.
 
 Con el objeto de integrar el emprendimiento, investigación y educación, los centros de investigación, organizaciones e instituciones especializadas y las instituciones de educación superior promoverán, a través de las herramientas que consideren pertinentes, la actualización de los conocimientos y habilidades que respondan a la innovación, los cambios científicos y tecnológicos de nuestro tiempo.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
+
 ###### Artículo 74.
 
-El Gobierno del Estado, a través del Instituto reconocerá los logros sobresalientes de quienes realicen proyectos de emprendimiento o investigación científica y tecnológica, además procurará apoyos para que su actividad contribuya a mantener y fortalecer el desarrollo económico.
+El Gobierno del Estado, a través del Instituto reconocerá los logros sobresalientes de quienes realicen proyectos de emprendimiento o investigación humanística, científica y tecnológica, además procurará apoyos para que su actividad contribuya a mantener y fortalecer el desarrollo económico.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 75.
 
-El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación científica y tecnológica y la solución de problemas en el sector productivo.
+El Gobierno del Estado, a través del Instituto, promoverá ante los sectores social y privado, la creación de centros, grupos, consorcios y redes de investigación y desarrollo tecnológico para el fomento del ecosistema emprendedor e innovador, de la investigación humanística, científica y tecnológica y la solución de problemas en el sector productivo.
 
 ### CAPÍTULO III. Coordinación y Desconcentración
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 76.
 
-La persona titular del Poder Ejecutivo, a través del Instituto, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar el emprendimiento y la innovación, así como la desconcentración de la investigación científica y tecnológica.
+La persona titular del Poder Ejecutivo, a través del Instituto, podrá suscribir convenios de coordinación, integración, cooperación y colaboración con los Municipios, con el Gobierno Federal y con los Gobiernos de otros Estados, o con Instituciones Públicas o Privadas de Investigación y Enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar el emprendimiento y la innovación, así como la desconcentración de la investigación científica, humanística y tecnológica.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2025)</small>
 
 ###### Artículo 77.
 
-El Instituto convendrá con las entidades y dependencias de la administración pública federal, estatal o municipal a efecto de lograr acciones coordinadas que fomenten las actividades en materia de emprendimiento, innovación, ciencia y tecnología.
+El Instituto convendrá con las entidades y dependencias de la administración pública federal, estatal o municipal a efecto de lograr acciones coordinadas que fomenten las actividades en materia de humanismo, emprendimiento, innovación, ciencia y tecnología.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2023)</small>
 
@@ -1448,3 +1636,11 @@ P.O. 2 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 210.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
