@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2025-06-04"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -199,9 +199,9 @@ X. El enfoque diferencial.
 
 Los tipos de Violencia contra las Mujeres son:
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2025)</small>
 
-I. La Violencia Psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conducen a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+I. La Violencia Psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación, amenazas y acecho, las cuales conducen a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 II. La Violencia Física: Es cualquier acto que inflige daño usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
 
@@ -339,13 +339,39 @@ II. El diseño de un sistema de monitoreo del comportamiento violento de las per
 
 III. El establecimiento de un banco de datos a nivel estatal sobre las órdenes de protección que se establezcan y de las personas sujetas a ellas con el fin de realizar las acciones de política criminal y de prevención que correspondan y faciliten el intercambio de información entre las instancias.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 14 DE JULIO DE 2025)</small>
+
+### CAPÍTULO III BIS. ACECHO
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 16 Bis.
+
+El acecho consiste en acciones reiteradas y persistentes del sujeto activo, que se expresa en conductas como intimidación, vigilancia, seguimiento, atención o comunicación no deseada o sin su consentimiento, que causa miedo, inseguridad, angustia y ansiedad, hasta impactar en la modificación del estilo de vida, en la conducta y en la libertad de la víctima.
+
+Se ejerce en agravio de una persona específica, pudiendo provocar daños a su persona, a sus bienes, a su patrimonio, o a personas con quienes la víctima tenga lazos familiares o de amistad, o los bienes de éstas.
+
+El acecho se sancionará en los términos establecidos en el Código Penal del Estado de México.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+###### Artículo 16 Ter.
+
+Constituyen conductas de acecho las siguientes:
+
+I. La vigilancia, el perseguimiento, el rastreo o la búsqueda de cercanía física;
+
+II. El rastreo a través de cualquier medio o aparato electrónico o aplicación que permita conocer la ubicación de la víctima;
+
+III. El establecimiento o la búsqueda reiterada de establecer comunicación con una persona específica, de manera directa o por interpósita persona, utilizando cualquier medio de comunicación o redes sociales;
+
+IV. Realizar actos de presión e intimidación en contra de la víctima, de sus bienes, patrimonio o de personas con las que tenga lazos de parentesco o amistad; y
+
+V. El quebrantamiento de medidas cautelares u órdenes de protección en contra del sujeto activo.
+
 ### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
-
-### CAPÍTULO IV BIS. DE LA VIOLENCIA EN EL NOVIAZGO
-
-> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 17.
 
@@ -391,9 +417,9 @@ En ningún caso podrán laborar en los refugios personas que hayan sido sanciona
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE OCTUBRE DE 2014)</small>
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+### CAPÍTULO IV BIS. DE LA VIOLENCIA EN EL NOVIAZGO
 
-> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 20 Ter.
 
@@ -417,9 +443,9 @@ Las acciones orientadas a controlar, restringir, vigilar a cualquiera de las par
 
 El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el respectivo ámbito de su competencia, llevarán a cabo, mediante la aplicación de políticas públicas, las acciones necesarias tendientes a identificar, prevenir, atender y disminuir los factores que propician los fenómenos de violencia de pareja, en cualquiera de sus tipos y en consecuencia, erradicar los roles discriminatorios, estereotipos sexistas, resolución violenta de conflictos y la misoginia.
 
-### CAPITULO V BIS. DE LA VIOLENCIA OBSTÉTRICA
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
-> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 26 DE MAYO DE 2023)</small>
 
 ###### Artículo 21.
 
@@ -651,9 +677,9 @@ b) La verificación de los hechos y la publicidad de la verdad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE JUNIO DE 2015)</small>
 
-### CAPITULO V TER. DE LA VIOLENCIA POLÍTICA
+### CAPITULO V BIS. DE LA VIOLENCIA OBSTÉTRICA
 
-> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.G. 3 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 27 Bis.
 
@@ -695,9 +721,9 @@ El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrolla
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
 
-### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPITULO V TER. DE LA VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 27 Quinquies.
 
@@ -871,9 +897,9 @@ La violencia política contra las mujeres en razón de género se sancionará en
 
 El Instituto Electoral del Estado de México, el Tribunal Electoral del Estado de México, la Comisión de Derechos Humanos del Estado de México, el Poder Judicial del Estado de México, los gobiernos estatal y municipal, en sus respectivas competencias, tienen la obligación de organizar y dirigir las funciones públicas que garanticen el derecho de las mujeres a una vida libre de violencia política.
 
-### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MAYO DE 2023)</small>
 
 ###### Artículo 28.
 
@@ -1139,11 +1165,9 @@ DE LAS POLÍTICAS DE GOBIERNO, DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y O
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO I BIS
+### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 33.
 
@@ -1151,9 +1175,11 @@ Las políticas de Gobierno que las dependencias y organismos auxiliares del Esta
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO I TER. DEL MECANISMO
+### CAPÍTULO I BIS
 
-> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 34.
 
@@ -1237,11 +1263,9 @@ VI. Las relacionadas con las anteriores que sean necesarias para incrementar la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE MAYO DE 2023)</small>
 
-### CAPÍTULO II
+### CAPÍTULO I TER. DEL MECANISMO
 
-DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 36 Bis.
 
@@ -1289,7 +1313,11 @@ La implementación del mecanismo culminará hasta que la o el titular del Poder 
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II
+
+DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 37.
 
@@ -1345,9 +1373,7 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos del Estado, asignar
 
 DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
 
-### CAPÍTULO II. DE LA COMPETENCIA DEL PODER LEGISLATIVO
-
-> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### Artículo 39.
 
@@ -1951,7 +1977,9 @@ IV. Las demás previstas para el cumplimiento de la presente Ley y otros ordenam
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO III. DE LA COMPETENCIA DEL PODER JUDICIAL
+### CAPÍTULO II. DE LA COMPETENCIA DEL PODER LEGISLATIVO
+
+> <small>(ADICIONADO, G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 52.
 
@@ -1963,7 +1991,7 @@ II. Procurar un adecuado presupuesto para el desarrollo de políticas, programas
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO II], G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-### CAPITULO IV. DE LA COMPETENCIA DE LOS MUNICIPIOS
+### CAPÍTULO III. DE LA COMPETENCIA DEL PODER JUDICIAL
 
 ###### Artículo 53.
 
@@ -1987,9 +2015,7 @@ V. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], G.G. 3 DE NOVIEMBRE DE 2023)</small>
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
+### CAPITULO IV. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### Artículo 54.
 
@@ -2069,9 +2095,9 @@ XVIII. Las demás previstas en esta Ley y en otras disposiciones legales aplicab
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 55.
 
@@ -2114,6 +2140,10 @@ X. Las demás que deriven de esta Ley.
 ###### Artículo 57.
 
 La persona agresora deberá participar obligatoriamente en los programas de reeducación integral, por mandato de autoridad competente.
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MAYO DE 2022)</small>
 
 ###### Artículo 58.
 
@@ -2764,3 +2794,11 @@ G.G. 4 DE JUNIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 132.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
