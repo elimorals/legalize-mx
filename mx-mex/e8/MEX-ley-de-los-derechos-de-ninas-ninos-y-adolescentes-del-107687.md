@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2024-12-27"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -179,6 +179,14 @@ XXV Bis. Maltrato: Toda acción, omisión, desatención o trato negligente e int
 
 XXVI. Medidas de Protección: A los mecanismos idóneos que se ejecutan cuando se advierta un riesgo inminente en contra de niñas, niños o adolescentes.
 
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XXVI Bis. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, las niñas, niños y adolescentes que sean llamados a juicio para ejercer su derecho a emitir su opinión en todo lo que les concierne, lo hagan el menor número de veces posible y fuera del horario escolar.
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XXVI Ter. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: Implica que, en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización y acciones u omisiones que generen recuerdos que afecten la salud mental o victimización secundaria de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido.
+
 XXVII. Órgano Jurisdiccional: A los juzgados o tribunales del Estado de México.
 
 XXVIII. Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
@@ -248,6 +256,14 @@ XII. El principio pro-persona.
 XIII. El acceso a una vida libre de violencia.
 
 XIV. La accesibilidad.
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XV. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+XVI. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos.
 
 ###### Artículo 8.
 
@@ -2564,3 +2580,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 134.- POR EL QUE SE ADICIONAN LAS FRACCIONES XXVI BIS Y XXVI TER AL ARTÍCULO 5 Y LAS FRACCIONES XV Y XVI AL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
