@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2024-05-21"
+last_updated: "2025-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2025.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -583,6 +583,10 @@ El servidor público tendrá derecho a un descanso de media hora cuando trabaje 
 
 Cuando el servidor público no pueda salir del lugar donde presta sus servicios durante la hora de descanso o de comidas, el tiempo correspondiente le será considerado como tiempo efectivo de trabajo.
 
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2025)</small>
+
+Las personas servidoras públicas tienen derecho a contar con un asiento o silla con respaldo y de fácil acceso, que le permita desarrollar su jornada de trabajo de manera más confortable.
+
 ###### Artículo 64.
 
 Cuando por circunstancias especiales deban aumentarse las horas de trabajo establecidas, éstas serán consideradas como extraordinarias y no deberán exceder de tres horas diarias ni de tres veces consecutivas en una semana, con excepción de lo señalado en la fracción I del artículo 57 de esta ley.
@@ -1136,6 +1140,10 @@ V. Reinstalar cuando proceda al servidor público y pagar los sueldos caídos a 
 VI. Cumplir oportunamente los laudos que dicte el Tribunal o la Sala, y pagar el monto de las indemnizaciones y demás prestaciones a que tenga derecho el servidor público;
 
 VII. Proporcionar a los servidores públicos, los útiles, equipo y materiales necesarios para el cumplimiento de sus funciones, así como los reglamentos a observar;
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2025)</small>
+
+VII Bis. Proporcionar el número suficiente de asientos o sillas con respaldo a todas las personas servidoras públicas, para la ejecución de sus funciones o para el descanso periódico durante la jornada laboral. En el caso de descansos periódicos, los asientos o sillas con respaldo deberán estar ubicados en áreas específicas que para tal efecto se designen en las mismas instalaciones del lugar de trabajo;
 
 VIII. Cubrir las aportaciones del régimen de seguridad social que les correspondan, así como retener las cuotas y descuentos a cargo de los servidores públicos y enterarlos oportunamente en los términos que establece la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios;
 
@@ -3658,3 +3666,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan todas las disposiciones de menor o igual jerarquía que contravengan lo dispuesto por el presente decreto.
+
+G.G. 14 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 133.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 63, Y LA FRACCIÓN VII BIS AL ARTÍCULO 98 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los poderes públicos del Estado y ayuntamientos, así como los órganos autónomos, en sus respectivos ámbitos de competencia, contarán con un plazo de hasta 90 días naturales, a partir de la entrada en vigor del presente Decreto, para realizar los ajustes materiales necesarios, a fin de dar cumplimiento al presente Decreto.
