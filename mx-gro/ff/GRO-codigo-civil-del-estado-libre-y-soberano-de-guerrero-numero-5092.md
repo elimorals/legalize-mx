@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2025-04-29"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -12045,6 +12045,14 @@ La donación será un contrato por el que una persona transfiera a otra, gratuit
 
 La donación no podrá comprender bienes futuros ni tampoco todos los presentes, de donde resulta que si el donante expresa en el documento respectivo que dona la totalidad de sus bienes, la donación será nula si aquél no se reserva, en propiedad o en usufructo, lo necesario para poder subsistir según sus necesidades y circunstancias particulares.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+En el caso de que la donación que comprenda la totalidad de los bienes del donante y el o los donantes cuenten con 65 años o más, el usufructo mencionado en el presente artículo será de carácter vitalicio.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+El Notario Público que expida el Instrumento público de donación, deberá incluir la cláusula respectiva de usufructo vitalicio sobre los bienes otorgados a los donatarios.
+
 ###### Artículo 2261.
 
 La donación podrá ser pura, condicional, onerosa o remuneratoria.
@@ -15996,6 +16004,16 @@ DÉCIMO QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, y 
 P.O. 29 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 214 POR EL QUE SE REFORMA EL ARTÍCULO 2386 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 253, POR EL QUE SE ADICIONA DOS PÁRRAFOS AL ARTÍCULO 2260 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
