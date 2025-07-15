@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2025-06-06"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1521,15 +1521,17 @@ Existen razones de género cuando ocurra cualquiera de los supuestos siguientes:
 
 I. La víctima presente señales de violencia sexual de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes, denigrantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+II. El cuerpo o los restos de la víctima presenten; fracturas, quemaduras, cortes, contusiones, decapitación, desollamiento, signos de estrangulamiento, tortura, o cualquier tipo de lesiones o mutilaciones, infamantes degradantes, previas posteriores a la privación de la vida o actos de necrofilia;
 
-III. Existan antecedentes o datos de cualquier tipo de violencia, cometido en el ámbito familiar, laboral o escolar, cometido por el sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
+III. Existan antecedentes o datos de cualquier tipo de violencia, cometido en el ámbito familiar, laboral, escolar, digital, comunitario o político, cometido por el sujeto activo en contra de la víctima;
 
-IV. Existan antecedentes o datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+IV. Existan antecedentes o datos que establezcan hubo amenazas directas o indirectas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima, incluso aquellos encaminados a limitar o anular el ejercicio de los derechos políticos y electorales de la víctima.
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2024)</small>
 
@@ -1539,9 +1541,21 @@ V. Exista o haya existido entre el activo y la víctima una relación de parente
 
 VI. El cuerpo de la víctima sea expuesto, arrojado o exhibido en un lugar público;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+VII. La víctima haya sido incomunicada, o desaparecida cualquiera que sea el tiempo previo a la privación de la vida;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+VIII. El sujeto activo haya ejercido sobre ella cualquier forma de explotación sexual;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+IX. Cuando el sujeto activo se haya valido de su oficio como conductor de un vehículo de transporte de pasajeros o de turismo, público o privado, para la comisión del delito; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+X. La víctima se haya encontrado en un estado de indefensión, que Imposibilite o inhiba su defensa, como la edad, la discapacidad, la situación de embarazo; la alteración del estado de conciencia, causada por el consumo de alcohol, fármacos o drogas.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -1576,6 +1590,10 @@ Las autoridades no podrán excusarse de la investigación de este delito por con
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
 
 Cuando existan niñas, niños o adolescentes como victimas indirectas derivado del hecho delictivo, las instancias de procuración y administración de justicia deberán de considerar el principio de interés superior de la infancia en todas las etapas procesales, hasta la reparación integral del daño.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+Todas las muertes violentas de una mujer, niña o adolescente deberán de investigarse como probable feminicidio, hasta que se descarte esta posibilidad, las autoridades no podrán excusarse de la investigación de delito, por considerarlo violencia en el ámbito familiar.
 
 ###### Artículo 136.
 
@@ -5700,3 +5718,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, IV Y VII Y SE ADICIONAN LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 135 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, EN MATERIA DE FEMINICIDIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se derogan todas las disposiciones que sean contrarias al presente Decreto.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Honorable Congreso del Estado.
