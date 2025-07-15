@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-inscripcion-de-nombres-en-el-muro-de-honor-del-1486
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2021-03-17"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA LA INSCRIPCION DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO DEL ESTADO DE NAYARIT
 
-LEY PARA LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO DEL ESTADO DE NAYARIT
+LEY PARA LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO Y CONSERVACIÓN DE MEMORIA INSTITUCIONAL, HOMENAJES LUCTUOSOS O PÓSTUMOS Y PROTOCOLO CEREMONIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 17 de marzo de 2021
 
@@ -31,17 +31,33 @@ Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos. Po
 
 El Congreso del Estado Libre y Soberano de Nayarit representado por su XXXII Legislatura, decreta:
 
-LEY PARA LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO DEL ESTADO DE NAYARIT.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2025)</small>
 
-### CAPÍTULO ÚNICO. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO
+LEY PARA LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO Y CONSERVACIÓN DE MEMORIA INSTITUCIONAL, HOMENAJES LUCTUOSOS O PÓSTUMOS Y PROTOCOLO CEREMONIAL.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO I. DE LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO
 
 ###### Artículo 1.
 
 Esta Ley es de orden público, y observancia en el Estado de Nayarit, y tiene por objeto:
 
-I. Establecer las bases y procedimiento para la inscripción con letras doradas en el Muro de Honor del Salón de Sesiones Plenarias del Congreso del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-II. Establecer las bases generales para la declaración de mujeres y hombres como beneméritos del Estado de Nayarit y el procedimiento para honrar su memoria.
+I. Establecer las bases y el procedimiento para la inscripción con letras doradas en el Muro de Honor del Salón de Sesiones Plenarias del Congreso del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+II. Establecer las bases generales para la declaración de mujeres y hombres como beneméritos del Estado de Nayarit y el procedimiento para honrar su memoria;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+III. Preservar la memoria institucional del Congreso del Estado de Nayarit, mediante la creación y regulación de la Sala de Presidencias, destinada a la exposición permanente de fotografías y elementos históricos representativos de cada Legislatura y de quienes hayan ocupado la Presidencia de la Comisión de Gobierno, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+IV. Establecer los criterios generales para la realización de homenajes luctuosos o póstumos, con el propósito de rendir tributo solemne a personas cuya trayectoria haya sido relevante para la vida pública, política, legislativa, social o cultural del Estado.
 
 ###### Artículo 2.
 
@@ -105,6 +121,78 @@ Para realizar la inscripción deberá celebrarse una Sesión Solemne a la que co
 
 En caso de llegar a tener conocimiento de un hecho o circunstancia que amerite remover el nombramiento o la inscripción en letras doradas en el Muro de Honor, podrá presentarse una iniciativa detallando claramente tal circunstancia, acompañándose las pruebas que se estimen pertinentes y se seguirá el mismo procedimiento legislativo para la aprobación en su caso, del dictamen correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO II. SALA DE PRESIDENCIAS
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 13.
+
+La Sala (sic) Presidencias es un espacio físico de carácter permanente destinado a la exposición de fotografías de las y los presidentes del Poder Legislativo del Estado, así como de las y los integrantes de cada Legislatura. Asimismo, alberga objetos, piezas, artículos y demás elementos representativos o memorables con valor histórico relacionados con la vida institucional del Congreso del Estado de Nayarit.
+
+En dicha sala se exhibirán:
+
+I. Las fotografías oficiales de las y los integrantes al inicio de cada Legislatura, debidamente enmarcadas de manera uniforme y conforme a las características establecidas por usos anteriores.
+
+Solo podrá integrarse una fotografía oficial por cada periodo constitucional, correspondiente al inicio de la Legislatura. Las eventuales modificaciones en la integración legislativa que ocurran con posterioridad, se documentarán y conservarán en formato digital, y estarán disponibles en el sitio web oficial del Congreso del Estado, y
+
+II. Las fotografías individuales de quienes hayan ocupado la Presidencia de la Comisión de Gobierno durante cada Legislatura, las cuales serán colocadas siguiendo el orden cronológico en que ejercieron el cargo, respetando características análogas a las previamente establecidas.
+
+En los casos en que exista más de una persona titular de la Presidencia de la Comisión de Gobierno durante una misma Legislatura, se colocarán las respectivas fotografías en orden sucesivo conforme a la temporalidad del encargo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 14.
+
+La incorporación de las fotografías oficiales de la Presidencia de la Comisión de Gobierno, así como de objetos, piezas o artículos representativos o memorables con valor histórico del Congreso, deberá realizarse durante el transcurso de la Legislatura en funciones o, en su caso, a más tardar quince días antes de su conclusión, mediante acto solemne y con base en el acuerdo que, para tal efecto, emita la Comisión de Gobierno, en el cual se determinará la fecha y hora de su colocación.
+
+Las fotografías, objetos, piezas o artículos representativos o memorables no podrán ser retirados, sustituidos o removidos, salvo en caso de daño o deterioro debidamente justificado. En tales supuestos, la Comisión de Gobierno correspondiente deberá emitir el acuerdo respectivo para su restauración.
+
+Cuando el deterioro impida su reparación, se procederá a la baja del objeto afectado conforme al mismo procedimiento establecido para su incorporación, debiendo dejar constancia documental de dicha determinación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO III. HOMENAJES LUCTUOSOS O PÓSTUMOS
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 15.
+
+Los homenajes luctuosos de cuerpo presente o los homenajes póstumos son actos solemnes que el Congreso del Estado realiza para rendir honor a personas fallecidas cuya trayectoria haya sido significativa para la vida pública, política, legislativa, social o cultural del Estado.
+
+Dichos homenajes podrán realizarse en:
+
+I. Sesión Solemne del Pleno del Congreso del Estado;
+
+II. Ceremonia institucional en el Patio Central del Recinto Legislativo, o
+
+III. Cualquier otro espacio dentro del recinto parlamentario que la Comisión de Gobierno considere adecuado, en función de la naturaleza del acto y las condiciones del evento.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 16.
+
+La Presidencia de la Comisión de Gobierno, en coordinación con las y los demás integrantes de dicho órgano, será responsable de definir el protocolo de los homenajes luctuosos o póstumos, considerando el perfil de la persona homenajeada y el tipo de acto que se realice.
+
+Cuando el homenaje se realice en Sesión Solemne, su desarrollo se sujetará al Orden del Día aprobado por el Pleno.
+
+En los casos en que la ceremonia tenga lugar en el Patio Central del Congreso o en alguna otra área del recinto legislativo, el acto se desarrollará conforme al protocolo que para el caso en concreto determine la Presidencia de la Comisión de Gobierno.
+
+Los actos de homenaje podrán incluir uno o más de los siguientes elementos:
+
+I. Guardia de honor;
+
+II. Minuto de silencio o minuto de aplausos, cuando así se considere pertinente, y/o
+
+III. Toque de silencio, en caso de tratarse de un homenaje de cuerpo presente, especialmente al momento de la salida del féretro del edificio del Congreso.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 17.
+
+Las Diputadas y los Diputados asistirán a los homenajes luctuosos o póstumos observando la solemnidad que el acto requiera, preferentemente portando vestimenta oscura o formal, como muestra de respeto y dignidad institucional.
+
 ## Artículo Transitorio
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
@@ -112,3 +200,11 @@ En caso de llegar a tener conocimiento de un hecho o circunstancia que amerite r
 Dado en Sesión Pública Virtual del Recinto Oficial de este Honorable Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los dos días del mes de marzo del año dos mil veintiuno.
 
 Dip. Ignacio Alonso Langarica Ávalos, Presidente .- Rúbrica.- Dip. Claudia Cruz Dionisio, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA DENOMINACIÓN DE LA LEY PARA LA INSCRIPCIÓN DE NOMBRES EN EL MURO DE HONOR DEL RECINTO LEGISLATIVO DEL ESTADO DE NAYARIT Y ADICIONAR (SIC) DIVERSAS DISPOSICIONES EN MATERIA DE CONSERVACIÓN DE MEMORIA INSTITUCIONAL, HOMENAJES PÓSTUMOS Y PROTOCOLO CEREMONIAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
