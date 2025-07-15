@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-juventud-del-estado-de-nayarit-70348"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2023-05-10"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 19 de septiembre de 2009.
 
@@ -83,9 +83,17 @@ VI.- La participación libre y democrática de la juventud en los procesos de to
 
 VII.- La inclusión y participación de la juventud en el proceso de desarrollo político, económico, social, deportivo y cultural;
 
-VIII.- El acceso y disfrute a los derechos sociales básicos, especialmente el empleo y la vivienda; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-IX.- El desarrollo cultural y educativo, fomentado a partir de la convivencia, integración y progreso social, así como el libre desarrollo de la personalidad y el respeto al pluralismo étnico, ideológico, político y religioso.
+VIII.- El acceso y disfrute a los derechos sociales básicos, especialmente el empleo y la vivienda;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+IX.- El desarrollo cultural y educativo, fomentado a partir de la convivencia, integración y progreso social, así como el libre desarrollo de la personalidad y el respeto al pluralismo étnico, ideológico, político y religioso, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+X. Impulsar el acceso a una educación donde se promueva el fortalecimiento de las habilidades socioemocionales, potencialidades y los procesos para la toma de decisiones responsables, informadas y libres.
 
 ## Título Segundo. De los Derechos y Deberes de la Juventud y del Fomento a sus Proyectos
 
@@ -93,15 +101,21 @@ IX.- El desarrollo cultural y educativo, fomentado a partir de la convivencia, i
 
 #### Sección Primera. Del derecho al estudio y al trabajo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2025)</small>
+
 ###### Artículo 4.
 
-Los jóvenes tienen derecho a un trabajo digno y bien remunerado que les permita continuar con su educación y que al mismo tiempo posibilite el mejoramiento de su calidad de vida; asimismo tienen derecho a elegir libremente el oficio, empleo, arte o profesión que sea de su interés y que les sean respetados en su integridad los derechos que la legislación laboral consigna a su favor.
+Las y los jóvenes tienen derecho a acceder al sistema educativo del Estado, a un trabajo digno y bien remunerado que les permita continuar con su educación y que al mismo tiempo posibilite el mejoramiento de su calidad de vida; asimismo tienen derecho a elegir libremente el oficio, empleo, arte o profesión que sea de su interés y que les sean respetados en su integridad los derechos que la legislación laboral consigna a su favor.
 
 Tratándose de jóvenes en edad de trabajar y en situación de desventaja social, el Instituto promoverá los mecanismos de colaboración y fomentará programas de protección para los jóvenes menores de edad que tengan necesidad de trabajar, en los términos de la Ley Federal del Trabajo y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
 
 Artículo 4 bis.- La Secretaría de Educación del Estado, promoverá el desarrollo de competencias laborales, teniendo como finalidad la inclusión de los recién egresados en los sectores productivos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+Las políticas de atención de las juventudes en materia educativa promoverán una estrategia de desarrollo integral, transversal y permanente, con la finalidad de que las personas jóvenes, cuenten con competencias laborales.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2017)</small>
 
@@ -818,3 +832,11 @@ P.O. 10 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 8 BIS A LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT, EN MATERIA DE DERECHO A LA SALUD MENTAL DE LAS Y LOS JÓVENES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY PARA LA JUVENTUD DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para su conocimiento y efectos conducentes, notifíquese el Decreto a la Secretaría de Educación, a los Servicios de Educación Pública, ambos del Estado de Nayarit.
