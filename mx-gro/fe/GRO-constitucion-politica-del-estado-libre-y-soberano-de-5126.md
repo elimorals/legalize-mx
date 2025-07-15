@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-06-27"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -283,13 +283,13 @@ En el diseño, implementación y evaluación de las políticas públicas se inco
 
 El Estado establecerá las medidas necesarias para la protección y el acceso a la salud de las mujeres y niñas de los pueblos indígenas y comunidades afromexicanas atendiendo, principalmente, a su salud sexual y reproductiva, proveyendo lo necesario en los aspectos de enfermedades infecto contagiosas y maternidad.
 
-(NOTA: EL 18 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 756 POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 14.
 
-La ley establecerá las bases para una adecuada delimitación de competencias en las materias de seguridad pública e impartición de justicia y de los mecanismos legales de vinculación y coordinación entre los sistemas normativos indígenas y el sistema jurídico estatal, para que los pueblos indígenas y afromexicanos apliquen sus propios sistemas normativos. Tratándose de delitos que afecten bienes jurídicos propios de un pueblo o comunidad indígena o afromexicana, o bienes personales de alguno de sus miembros, se estará a lo dispuesto por la legislación nacional aplicable.
+El Estado reconoce las acciones de seguridad pública para la prevención del delito, que implementen los pueblos y comunidades indígenas y afromexicanas a sus integrantes, dentro de sus comunidades, de acuerdo con sus sistemas normativos internos, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las niñas, niños y mujeres. La implementación y seguimiento de la prevención de los delitos e infracciones se dará por conducto de sus Autoridades, integradas por los miembros de cada comunidad y designadas en Asamblea Comunitaria, garantizando la participación de la mujer en igualdad de condiciones, en estricta cooperación con las autoridades de los tres órdenes de gobierno, para alcanzar los fines que persigue la seguridad pública del Estado.
+
+El Código Nacional de Procedimientos Penales y la ley reglamentaria delimitarán la esfera de competencia de las acciones de seguridad comunitaria Indígena y Afromexicana, ésta última establecerá los mecanismos de vinculación y cooperación que existan con los órganos correspondientes de los Poderes Ejecutivo y Judicial en el tratamiento de asuntos propios de la función que desempeñen.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -6300,3 +6300,31 @@ SEGUNDO. En términos del numeral 1, fracción III del artículo 199 de la Const
 TERCERO. Remítase a la Gobernadora Constitucional del Estado de Guerrero, para los efectos legales conducentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 182 POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE DERECHOS Y CULTURA INDÍGENA Y AFROMEXICANA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese a la Suprema Corte de Justicia de la Nación, en cumplimiento de la Acción de Inconstitucionalidad 78/2018.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese a la Comisión Nacional de los Derechos Humanos, en cumplimiento de la Recomendación 09/2016.
+
+###### ARTÍCULO QUINTO.
+
+Remítase a la Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
