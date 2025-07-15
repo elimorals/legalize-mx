@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2024-10-24"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -214,6 +214,10 @@ XXXV. Germoplasma: Conjunto formado por el total del material hereditario o banc
 XXXVI. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
 XXXVII. Hábitat: El sitio específico en un medio ambiente, físico, ocupado por un organismo, una población, una especie o comunidades de especies en un tiempo determinado;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXXVII bis. Huertos Urbanos: Espacios que se encuentran en zonas urbanas o periurbanas, destinados al cultivo y la producción de alimentos, plantas medicinales o aromáticas, mediante prácticas agroecológicas o sustentables, con fines de autoconsumo, educativos, comunitarios, recreativos o de comercialización local;
 
 XXXVIII. Impacto Ambiental: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
 
@@ -1333,7 +1337,9 @@ La Secretaría desarrollará programas para la capacitación en materia de educa
 
 I.- Apoyar a todas las dependencias y municipios nayaritas en la promoción de actividades ambientales, así como en el fortalecimiento de las capacidades en materia ambiental de los servidores públicos y las autoridades estatales y municipales;
 
-II.- Capacitar y formar docentes y estudiantes de todos los niveles educativos en aspectos de educación y capacitación ambiental;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+II.- Capacitar y formar a docentes y estudiantes de todos los niveles educativos en materia de educación y capacitación ambiental, fomentando además la participación activa de estudiantes, docentes, madres, padres de familia y de la comunidad en general en la construcción de huertos urbanos;
 
 III.- Capacitar a los miembros de sindicatos, organizaciones y comunidades campesinas, propietarios privados y sectores sociales estratégicos, en materia de prevención de problemas ambientales, conservación, protección, restauración y aprovechamiento sustentable de los recursos naturales;
 
@@ -1351,13 +1357,33 @@ VII.- Diseñar, editar y producir materiales educativos en materia de educación
 
 VIII.- Establecer mecanismos de coordinación con los medios de comunicación para el uso de tiempos y espacios concedidos por la Ley al gobierno estatal, para la promoción y difusión de las actividades de la Secretaría, así como de otras instituciones civiles o de gobierno en materia de educación y formación ambiental.
 
-#### SECCIÓN I. Disposiciones Generales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE JULIO DE 2025)</small>
+
+#### SECCIÓN X. De los Huertos Urbanos
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 61 Bis.
+
+La Secretaría, promoverá el establecimiento y mantenimiento de huertos urbanos como estrategia para fomentar la educación ambiental, la seguridad alimentaria, la biodiversidad local, contribuyendo al equilibrio ecológico y al mejoramiento del entorno en zonas urbanas y periurbanas.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 61 Ter.
+
+La Secretaría, en coordinación con los municipios, impulsará programas de sensibilización, capacitación y difusión sobre los beneficios ambientales, sociales y económicos de los huertos urbanos, procurando su implementación en instituciones educativas y comunidades organizadas.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+###### Artículo 61 Quater.
+
+Los huertos urbanos podrán ser promovidos de manera voluntaria por los particulares, asociaciones civiles o comunidades, observando criterios de sustentabilidad, uso racional de los recursos naturales y protección de la biodiversidad.
 
 ## TÍTULO SEGUNDO. DE LA PROTECCION, RESTAURACION Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS NATURALES
 
 ### CAPÍTULO I. Áreas naturales protegidas
 
-#### SECCIÓN II. Áreas Naturales Protegidas
+#### SECCIÓN I. Disposiciones Generales
 
 ###### Artículo 62.
 
@@ -1399,7 +1425,7 @@ XI.- Asegurar la sustentabilidad integral de las actividades turísticas que se 
 
 XII. Establecer jardines de preservación o regeneración de germoplasma de especies nativas de una región.
 
-#### SECCIÓN III. De las Competencias
+#### SECCIÓN II. Áreas Naturales Protegidas
 
 ###### ARTÍCULO 65.
 
@@ -1467,7 +1493,7 @@ Parques urbanos, tanto ecológicos como escénicos, así como otras áreas verde
 
 Áreas de restauración son aquéllas que presentan procesos de degradación o desertificación, o graves desequilibrios ecológicos, que requieren de acciones temporales para su recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban.
 
-#### SECCIÓN IV. Areas Privadas y Sociales de Preservación
+#### SECCIÓN III. De las Competencias
 
 ###### Artículo 72.
 
@@ -1499,7 +1525,7 @@ IV.- Los tipos y formas como se llevará a cabo la investigación y la experimen
 
 V. Las formas y esquemas de concertación con la comunidad, grupos sociales, científicos y académicos.
 
-#### SECCIÓN V. Del Fomento de la Participación Privada y Social en la Conservación, Preservación y Restauración de los Ecosistemas y su Biodiversidad
+#### SECCIÓN IV. Areas Privadas y Sociales de Preservación
 
 ###### Artículo 75.
 
@@ -1559,7 +1585,7 @@ Los jardines privados de preservación o regeneración de especies, son las áre
 
 Se consideran contratos de preservación aquellos acuerdos de voluntades que limiten los derechos de uso, sobre tierras de propiedad privada o social y/o constituyan cargas de carácter real con el objeto de conservar, preservar, proteger y restaurar los atributos ecológicos o naturales en favor de terceros.
 
-#### SECCIÓN VI. Declaratorias para el Establecimiento, Conservación, Administración, Desarrollo y Vigilancia de las Áreas Naturales Protegidas
+#### SECCIÓN V. Del Fomento de la Participación Privada y Social en la Conservación, Preservación y Restauración de los Ecosistemas y su Biodiversidad
 
 ###### Artículo 83.
 
@@ -1571,7 +1597,7 @@ II.- Establecerán o en su caso promoverán la utilización de mecanismos para c
 
 III. Establecerán los incentivos económicos y los estímulos fiscales para quienes destinen sus predios a acciones de preservación, conservación y restauración de los ecosistemas y su biodiversidad en términos de la presente Ley.
 
-#### SECCIÓN VII. Registro Estatal de Espacios Naturales Protegidos
+#### SECCIÓN VI. Declaratorias para el Establecimiento, Conservación, Administración, Desarrollo y Vigilancia de las Áreas Naturales Protegidas
 
 ###### Artículo 84.
 
@@ -1663,7 +1689,7 @@ Declarada un área natural protegida, solo podrá modificarse su extensión y lo
 
 El Estado de Nayarit podrá promover ante la Autoridad Federal competente el establecimiento y declaratoria, en terrenos localizados en su superficie, de Áreas Naturales Protegidas de carácter federal.
 
-#### SECCIÓN VIII. Sistema Estatal de Áreas Naturales Protegidas
+#### SECCIÓN VII. Registro Estatal de Espacios Naturales Protegidos
 
 ###### Artículo 96.
 
@@ -1673,7 +1699,7 @@ El Estado de Nayarit podrá promover ante la Autoridad Federal competente el est
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-#### SECCIÓN IX. Sistema Estatal de Áreas Privadas y Sociales de Preservación
+#### SECCIÓN VIII. Sistema Estatal de Áreas Naturales Protegidas
 
 ###### Artículo 98.
 
@@ -1695,75 +1721,7 @@ Con el propósito de preservar el patrimonio natural del Estado, y de acuerdo a 
 
 Para coadyuvar en la preservación, administración, desarrollo y vigilancia de las áreas naturales protegidas integradas al sistema, las autoridades estatales o municipales, podrán promover la celebración de acuerdos de concertación, para que participen las autoridades federales, así como el sector social y privado.
 
-#### SECCIÓN I. De la Comisión Intersecretarial de Cambio Climático
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
-
-Artículo 119 C.- La Comisión Intersecretarial de Cambio Climático es el órgano deliberativo encargado de planear la política ambiental y promover la coordinación de acciones entre las dependencias estatales y municipales para la mitigación de gases de efecto invernadero y adaptación al cambio climático.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
-
-Artículo 119 D.- La Comisión Intersecretarial se conformará por los titulares de las siguientes Secretarías del Gobierno del Estado:
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
-
-I. De Desarrollo Sustentable, quien la presidirá;
-
-II. General de Gobierno;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
-
-III. De Desarrollo Rural;
-
-IV. De Educación;
-
-V. De Turismo;
-
-VI. De Salud;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
-
-VII. De Infraestructura, y
-
-VIII. De Administración y Finanzas.
-
-Los integrantes de la Comisión tendrán derecho a voz y voto, desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución o compensación alguna.
-
-Los miembros de la Comisión podrán designar por escrito a un suplente para que los represente en las sesiones en caso de ausencia, en términos de su reglamento interno.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
-
-Artículo 119 E.- La Comisión celebrará sesiones ordinarias cuando menos dos veces por año, pudiendo sesionar en forma extraordinaria a petición de la mayoría de sus miembros o cuando se estime necesario en casos de inminente urgencia. Invariablemente las convocatorias a sesiones serán emitidas por su presidente en los términos previstos por el reglamento interno.
-
-Para que las sesiones de la Comisión tengan validez, se requerirá la presencia de la mitad más uno de sus integrantes. Los acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes, en caso de empate el presidente tendrá voto de calidad.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
-
-Artículo 119 F.- La Comisión Intersecretarial tendrá las siguientes atribuciones:
-
-I. Diseñar e implementar políticas ambientales para la adaptación al cambio climático y mitigación de gases de efecto invernadero;
-
-II. Aprobar y en su caso modificar el Programa Estatal de Cambio Climático;
-
-III. Coordinar las acciones a implementar por las dependencias estatales y municipales a fin de mitigar la emisión de gases de efecto invernadero y hacer frente a los efectos del cambio climático;
-
-IV. Dar seguimiento a la ejecución del plan de acción contenido en el Programa Estatal de Cambio Climático;
-
-V. Proponer el establecimiento, de reconocimientos a los esfuerzos más destacados de la sociedad y del sector privado para la mitigación de gases de efecto invernadero así como para enfrentar al cambio climático;
-
-VI. Promover el fortalecimiento de las capacidades de monitoreo, reporte y verificación, en materia de mitigación o absorción de emisiones de gases de efecto invernadero;
-
-VII. Solicitar recomendaciones al Consejo Estatal de Protección al Ambiente y Cambio Climático, sobre las políticas, estrategias, acciones y metas para atender los efectos del cambio climático;
-
-VIII. Diseñar, implementar y coordinar estrategias para la mitigación de gases de efecto invernadero y adaptación al cambio climático en el sector social;
-
-IX. Difundir sus trabajos y resultados así como publicar un informe anual de actividades;
-
-X. Emitir su reglamento interno, y
-
-XI. Las demás que se deriven de la presente ley y demás ordenamientos aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+#### SECCIÓN IX. Sistema Estatal de Áreas Privadas y Sociales de Preservación
 
 ###### Artículo 102.
 
@@ -1817,7 +1775,9 @@ Los notarios y cualesquiera otros fedatarios públicos harán constar tal circun
 
 Será nulo todo acto, convenio o contrato que contravenga lo establecido en la mencionada declaratoria.
 
-### CAPÍTULO III. Flora y Fauna Silvestres
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO III. Flora y Fauna
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -1911,7 +1871,9 @@ e) Regular las condiciones de desarrollo, protección y bienestar integral y sos
 
 El Gobierno del Estado y los Municipios deberán formular, proponer y participar de las políticas de protección del bienestar animal de perros y gatos, así como la prevención y erradicación de la violencia, abuso, actos de crueldad y explotación hacia los mismos.
 
-El Gobierno del Estado podrá implementar, fomentar y gestionar campañas de donación alimentaria, a fin de preservar el bienestar animal de perros y gatos.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
+
+El Gobierno del Estado podrá implementar, fomentar y gestionar campañas de donación alimentaria, a fin de preservar el bienestar animal de perros y gatos, así como de aquellas mascotas que se encuentren en refugios, albergues o centros para animales en estado de abandono.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2024)</small>
 
@@ -1931,7 +1893,9 @@ IV. Permitir a los animales la expresión de su comportamiento natural, y
 
 V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
 
-El Estado, los Municipios y en su caso, con las asociaciones protectoras de animales, promoverán en la medida de lo posible la formulación y ejecución de campañas de esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
+
+El Estado, los Municipios y en su caso, con las asociaciones protectoras de animales, promoverán en la medida de lo posible la formulación y ejecución de campañas de esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario. Asimismo, fomentarán la donación de alimento para mascotas y animales que se encuentren en estado de abandono, así como, de productos en general que aseguren su bienestar.
 
 El Estado y los Municipios podrán coordinarse desde el ámbito de sus respectivas competencias para el cumplimiento de lo dispuesto en el párrafo anterior.
 
@@ -2141,6 +2105,76 @@ Artículo 119 B.- En las zonas que presentan graves alteraciones ambientales, la
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
+#### SECCIÓN I. De la Comisión Intersecretarial de Cambio Climático
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 C.- La Comisión Intersecretarial de Cambio Climático es el órgano deliberativo encargado de planear la política ambiental y promover la coordinación de acciones entre las dependencias estatales y municipales para la mitigación de gases de efecto invernadero y adaptación al cambio climático.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 D.- La Comisión Intersecretarial se conformará por los titulares de las siguientes Secretarías del Gobierno del Estado:
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+I. De Desarrollo Sustentable, quien la presidirá;
+
+II. General de Gobierno;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+III. De Desarrollo Rural;
+
+IV. De Educación;
+
+V. De Turismo;
+
+VI. De Salud;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+
+VII. De Infraestructura, y
+
+VIII. De Administración y Finanzas.
+
+Los integrantes de la Comisión tendrán derecho a voz y voto, desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución o compensación alguna.
+
+Los miembros de la Comisión podrán designar por escrito a un suplente para que los represente en las sesiones en caso de ausencia, en términos de su reglamento interno.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 E.- La Comisión celebrará sesiones ordinarias cuando menos dos veces por año, pudiendo sesionar en forma extraordinaria a petición de la mayoría de sus miembros o cuando se estime necesario en casos de inminente urgencia. Invariablemente las convocatorias a sesiones serán emitidas por su presidente en los términos previstos por el reglamento interno.
+
+Para que las sesiones de la Comisión tengan validez, se requerirá la presencia de la mitad más uno de sus integrantes. Los acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes, en caso de empate el presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 F.- La Comisión Intersecretarial tendrá las siguientes atribuciones:
+
+I. Diseñar e implementar políticas ambientales para la adaptación al cambio climático y mitigación de gases de efecto invernadero;
+
+II. Aprobar y en su caso modificar el Programa Estatal de Cambio Climático;
+
+III. Coordinar las acciones a implementar por las dependencias estatales y municipales a fin de mitigar la emisión de gases de efecto invernadero y hacer frente a los efectos del cambio climático;
+
+IV. Dar seguimiento a la ejecución del plan de acción contenido en el Programa Estatal de Cambio Climático;
+
+V. Proponer el establecimiento, de reconocimientos a los esfuerzos más destacados de la sociedad y del sector privado para la mitigación de gases de efecto invernadero así como para enfrentar al cambio climático;
+
+VI. Promover el fortalecimiento de las capacidades de monitoreo, reporte y verificación, en materia de mitigación o absorción de emisiones de gases de efecto invernadero;
+
+VII. Solicitar recomendaciones al Consejo Estatal de Protección al Ambiente y Cambio Climático, sobre las políticas, estrategias, acciones y metas para atender los efectos del cambio climático;
+
+VIII. Diseñar, implementar y coordinar estrategias para la mitigación de gases de efecto invernadero y adaptación al cambio climático en el sector social;
+
+IX. Difundir sus trabajos y resultados así como publicar un informe anual de actividades;
+
+X. Emitir su reglamento interno, y
+
+XI. Las demás que se deriven de la presente ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 #### SECCIÓN II. Del Programa Estatal de Cambio Climático
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
@@ -2170,8 +2204,6 @@ V. Los demás que determine la presente Ley y las disposiciones que de ella deri
 #### SECCIÓN III. Prevención y Control de la Contaminación de la Atmósfera
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
-
-#### SECCIÓN IV. Emisión de Contaminantes y Gases de Efecto Invernadero Generados por Fuentes Fijas
 
 ###### Artículo 120.
 
@@ -2293,7 +2325,7 @@ Sin perjuicio de las autorizaciones expedidas por otras autoridades competentes,
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN V. Emisión de Contaminantes Generados por Fuentes Móviles
+#### SECCIÓN IV. Emisión de Contaminantes y Gases de Efecto Invernadero Generados por Fuentes Fijas
 
 ###### Artículo 131.
 
@@ -2393,91 +2425,7 @@ Artículo 137 B.- Las autoridades estatales y municipales, en su caso, promover�
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN VI. De los Centros de Verificación
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 A.- La Secretaría pondrá en marcha un sistema de información y comunicación del programa de verificación vehicular el que deberá señalar los tiempos y calendarios para su implementación, así como la ubicación de todos los centros autorizados.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 B.- La Secretaría autorizará, regulará y supervisará la operación de los centros de verificación de fuentes móviles de competencia estatal;
-
-I. Estableciendo los requisitos y condiciones que deben cumplir los interesados en obtener autorizaciones para establecer y operar centros de verificación.
-
-II. Establecer las obligaciones de los responsables de los centros de verificación;
-
-III. Fundamentando las situaciones en las cuales la Secretaría podrá negar la autorización a interesados en establecer y operar centros de verificación.
-
-IV. Definiendo los plazos de duración de las autorizaciones y requisitos para ser prorrogadas; y
-
-V. Estableciendo las causas por las cuales podrán suspenderse, plazos de suspensión, que pasará en caso de reincidencia, motivos para revocación de las autorizaciones y sanciones que puedan imponerse.
-
-El programa de instalación de los Centros de Verificación Vehicular y su funcionamiento, estará a cargo de la Secretaría y sólo se autorizará su concesión a particulares, cuando se acredite la necesidad de ello.
-
-En todo caso, el programa referido dará inicio cuando las normas específicas de medición de contingencia ambiental lo justifiquen.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 C.- El reglamento establecerá los requisitos que deberá cumplir el solicitante para la autorización de centros de verificación vehicular.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 D.- Es obligación de la Secretaría realizar inspecciones periódicas con el propósito de regular el funcionamiento de la red de centros de verificación vehicular.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 145 E.- Una vez otorgada la concesión, el permisionario entregará a la Secretaría de Finanzas antes de 5 días hábiles una fianza que garantice ante la Secretaría el buen desempeño del servicio y el resguardo de la papelería oficial. Esta fianza deberá ser expedida por una institución autorizada por la cantidad equivalente a dos mil veces la UMA.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 F.- El permisionario deberá cubrir ante la Secretaría de Finanzas los derechos de concesión, determinados de acuerdo a la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 G.- El permiso para instalar y operar centros de verificación es personal y solo será transferible en caso de muerte. Tendrá una vigencia de tres años y se podrá renovar previo dictamen técnico favorable de la Secretaría.
-
-Para que surta efectos la transmisión de la propiedad a que se refiere el párrafo anterior deberá ser autorizada por la Secretaría.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 H.- El poseedor de la concesión podrá renunciar a ella ante la Secretaría y solicitar la cancelación de la fianza depositada.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 I.- En los casos de que exista una renuncia o una clausura para la operación de algún centro, la Secretaría procederá a realizar nueva convocatoria y los dictámenes correspondientes con la finalidad de cubrir la concesión vacante.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 J.- La Secretaría extenderá nuevas autorizaciones sólo para la instalación de nuevos centros que atiendan el incremento del parque vehicular registrado en el Estado o para garantizar la cobertura del servicio.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 K.- El Centro de verificación tendrá prohibido utilizar equipos de medición viejos, usados o reconstruidos.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 L.- El Centro debe contar con los equipos completos de verificación para cada una de las líneas de atención disponibles, estos deben ser nuevos y estar homologados por la Secretaría conforme a lo estipulado en las normas de verificación; así mismo, cada uno debe estar dotado con la suficiente cantidad de gases de calibración para pruebas de concentraciones baja y media CAM 97 sin concentración de Nox, gases que se abastecerán de proveedores autorizados conforme a lo establecido en la Ley Federal sobre Metrología y Normalización; y, cerciorarse de que la certificación de la calibración de los analizadores de los equipos de verificación se realice conforme a los procedimientos establecidos en las Normas Oficiales Mexicanas.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 M.- Los equipos deberán generar bases de datos con información de la verificación en formato de solo lectura, incluyendo las lecturas realizadas segundo a segundo, de todos los parámetros que intervienen en la prueba, los datos del vehículo y el resumen de los resultados de la prueba con las lecturas corregidas, así como la información de los eventos, fallas del equipo y los algoritmos de seguridad. Así mismo deben contar con un sistema electrónico permanente que transmita en tiempo real, los datos generados por las verificaciones realizadas, así como las imágenes del proceso de verificación mediante una cámara de video o a través de una conexión virtual del servidor de comunicación del Centro a los servidores de la Secretaría.
-
-El concesionario del centro de verificación estará obligado a remitir mensualmente a la Secretaría un reporte detallado de las incidencias y mantenimiento efectuado al equipo de verificación.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 N.- Las actualizaciones del sistema operativo de los equipos, deberán ser autorizadas por la Secretaría, quien podrá establecer nuevos requerimientos y aplicaciones a los permisionarios y a los proveedores de equipos autorizados, para lo cual los interesados deberán entregar una solicitud por escrito que incluya la justificación, adjuntando copia del expediente. El personal autorizado de la Secretaría llevará a cabo la supervisión en sitio de dicha actualización y una vez que se compruebe que la comunicación con el sistema central de control de verificaciones no fue afectada, la aprobará.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 Ñ.- El personal que labore en la verificación de emisiones deberá estar destinado exclusivamente a esa tarea y será distinto al que labore en otras áreas de los centros; así mismo, deberá contar con una capacitación que lo acredite como técnico verificador.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 145 O.- En caso de dar de baja a técnicos verificadores, el concesionario informará por escrito a la Secretaría en un plazo máximo de tres días hábiles, asimismo deberá registrar al personal de nuevo ingreso y acreditar su capacitación como técnico verificador. De igual forma, se deberán actualizar los datos en caso de darse de baja algún otro personal.
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+#### SECCIÓN V. Emisión de Contaminantes Generados por Fuentes Móviles
 
 ###### Artículo 138.
 
@@ -2639,47 +2587,95 @@ Asimismo, la Secretaría llevará un padrón de empresas cuyas actividades se co
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
+#### SECCIÓN VI. De los Centros de Verificación
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 A.- La Secretaría pondrá en marcha un sistema de información y comunicación del programa de verificación vehicular el que deberá señalar los tiempos y calendarios para su implementación, así como la ubicación de todos los centros autorizados.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 B.- La Secretaría autorizará, regulará y supervisará la operación de los centros de verificación de fuentes móviles de competencia estatal;
+
+I. Estableciendo los requisitos y condiciones que deben cumplir los interesados en obtener autorizaciones para establecer y operar centros de verificación.
+
+II. Establecer las obligaciones de los responsables de los centros de verificación;
+
+III. Fundamentando las situaciones en las cuales la Secretaría podrá negar la autorización a interesados en establecer y operar centros de verificación.
+
+IV. Definiendo los plazos de duración de las autorizaciones y requisitos para ser prorrogadas; y
+
+V. Estableciendo las causas por las cuales podrán suspenderse, plazos de suspensión, que pasará en caso de reincidencia, motivos para revocación de las autorizaciones y sanciones que puedan imponerse.
+
+El programa de instalación de los Centros de Verificación Vehicular y su funcionamiento, estará a cargo de la Secretaría y sólo se autorizará su concesión a particulares, cuando se acredite la necesidad de ello.
+
+En todo caso, el programa referido dará inicio cuando las normas específicas de medición de contingencia ambiental lo justifiquen.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 C.- El reglamento establecerá los requisitos que deberá cumplir el solicitante para la autorización de centros de verificación vehicular.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 D.- Es obligación de la Secretaría realizar inspecciones periódicas con el propósito de regular el funcionamiento de la red de centros de verificación vehicular.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 145 E.- Una vez otorgada la concesión, el permisionario entregará a la Secretaría de Finanzas antes de 5 días hábiles una fianza que garantice ante la Secretaría el buen desempeño del servicio y el resguardo de la papelería oficial. Esta fianza deberá ser expedida por una institución autorizada por la cantidad equivalente a dos mil veces la UMA.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 F.- El permisionario deberá cubrir ante la Secretaría de Finanzas los derechos de concesión, determinados de acuerdo a la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 G.- El permiso para instalar y operar centros de verificación es personal y solo será transferible en caso de muerte. Tendrá una vigencia de tres años y se podrá renovar previo dictamen técnico favorable de la Secretaría.
+
+Para que surta efectos la transmisión de la propiedad a que se refiere el párrafo anterior deberá ser autorizada por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 H.- El poseedor de la concesión podrá renunciar a ella ante la Secretaría y solicitar la cancelación de la fianza depositada.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 I.- En los casos de que exista una renuncia o una clausura para la operación de algún centro, la Secretaría procederá a realizar nueva convocatoria y los dictámenes correspondientes con la finalidad de cubrir la concesión vacante.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 J.- La Secretaría extenderá nuevas autorizaciones sólo para la instalación de nuevos centros que atiendan el incremento del parque vehicular registrado en el Estado o para garantizar la cobertura del servicio.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 K.- El Centro de verificación tendrá prohibido utilizar equipos de medición viejos, usados o reconstruidos.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 L.- El Centro debe contar con los equipos completos de verificación para cada una de las líneas de atención disponibles, estos deben ser nuevos y estar homologados por la Secretaría conforme a lo estipulado en las normas de verificación; así mismo, cada uno debe estar dotado con la suficiente cantidad de gases de calibración para pruebas de concentraciones baja y media CAM 97 sin concentración de Nox, gases que se abastecerán de proveedores autorizados conforme a lo establecido en la Ley Federal sobre Metrología y Normalización; y, cerciorarse de que la certificación de la calibración de los analizadores de los equipos de verificación se realice conforme a los procedimientos establecidos en las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 M.- Los equipos deberán generar bases de datos con información de la verificación en formato de solo lectura, incluyendo las lecturas realizadas segundo a segundo, de todos los parámetros que intervienen en la prueba, los datos del vehículo y el resumen de los resultados de la prueba con las lecturas corregidas, así como la información de los eventos, fallas del equipo y los algoritmos de seguridad. Así mismo deben contar con un sistema electrónico permanente que transmita en tiempo real, los datos generados por las verificaciones realizadas, así como las imágenes del proceso de verificación mediante una cámara de video o a través de una conexión virtual del servidor de comunicación del Centro a los servidores de la Secretaría.
+
+El concesionario del centro de verificación estará obligado a remitir mensualmente a la Secretaría un reporte detallado de las incidencias y mantenimiento efectuado al equipo de verificación.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 N.- Las actualizaciones del sistema operativo de los equipos, deberán ser autorizadas por la Secretaría, quien podrá establecer nuevos requerimientos y aplicaciones a los permisionarios y a los proveedores de equipos autorizados, para lo cual los interesados deberán entregar una solicitud por escrito que incluya la justificación, adjuntando copia del expediente. El personal autorizado de la Secretaría llevará a cabo la supervisión en sitio de dicha actualización y una vez que se compruebe que la comunicación con el sistema central de control de verificaciones no fue afectada, la aprobará.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 Ñ.- El personal que labore en la verificación de emisiones deberá estar destinado exclusivamente a esa tarea y será distinto al que labore en otras áreas de los centros; así mismo, deberá contar con una capacitación que lo acredite como técnico verificador.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 145 O.- En caso de dar de baja a técnicos verificadores, el concesionario informará por escrito a la Secretaría en un plazo máximo de tres días hábiles, asimismo deberá registrar al personal de nuevo ingreso y acreditar su capacitación como técnico verificador. De igual forma, se deberán actualizar los datos en caso de darse de baja algún otro personal.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 #### SECCIÓN VII. Del Proceso de Verificación Vehicular
 
 > <small>(REFORMADO Y REUBICADO, P.O. 4 DE JULIO DE 2007)</small>
-
-#### SECCIÓN VIII. De la Inspección y Vigilancia a los Centros de Verificación
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 N.- La Secretaría realizará la supervisión de todos los centros de Verificación Vehicular a través de su personal acreditado mediante visitas de inspección, con el fin de comprobar que su operación y funcionamiento se realice en estricto cumplimiento a lo dispuesto en la Ley, las Normas Oficiales Mexicanas, Normas Técnicas Ecológicas Estatales, circulares, Manuales de Procedimientos y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 Ñ.- El personal acreditado por la Secretaría deberá identificarse de manera respetuosa al inicio de la visita de inspección exhibiendo una credencial vigente con fotografía, y la orden de inspección que debe dejar en original a la persona del Centro que atienda la diligencia.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 O.- Los propietarios, responsables o personal operante que se encuentren en el Centro durante la visita de inspección, tendrán la obligación de permitir el acceso en todo momento de los inspectores a la información y dar facilidades para que realicen adecuadamente su labor.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 P.- La Secretaría al realizar las visitas de inspección previa orden fundada y motivada, levantará un acta circunstanciada por duplicado de lo observado y practicado en la diligencia. Esta se levantará en presencia de dos testigos propuestos por la persona que atienda la diligencia, en caso de negarse a hacerlo, lo hará el inspector quien deberá firmarla.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 Q.- De toda Acta elaborada se dejará copia al personal que haya atendido la diligencia aunque este se haya negado a firmarla, lo que no afectará la validez de la misma, siempre y cuando se haga constar en la misma. Las Actas elaboradas deberán incluir el nombre, denominación o razón social del Centro inspeccionado, hora, día, mes y año en que se inicie y concluya la diligencia; municipio en que se practique la inspección, calle, numero, colonia, teléfono u otra forma de poder comunicarse con la Secretaría; nombre y domicilio de los testigos; nombre y cargo del inspector; datos relativos a la inspección; declaración de con quien se entendió la diligencia en caso de así desearlo; nombre y firma de todas las personas que participaron.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 R.- Los visitados tendrán derecho a formular observaciones en el acto de la diligencia y presentar pruebas por escrito en relación con los hechos contenidos en el Acta durante los cinco días hábiles posteriores a la entrega del acta de inspección.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 S.- Una vez realizada la inspección, la Secretaría deberá emitir un Acuerdo al concesionario, señalando las medidas urgentes y/o inmediatas que se deben aplicar en el Centro dentro de un plazo de 45 días para subsanar las deficiencias detectadas.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 T.- Transcurrido el plazo otorgado para implementar las medidas requeridas, la Secretaría emitirá una Resolución Administrativa en donde se impongan las sanciones correspondientes y/o en su caso levantar o adicionar medidas urgentes.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 U.- Siguiendo lo establecido en la Ley y con base en los resultados de la inspección, se aplicarán las medidas y/o sanciones que procedan de acuerdo a lo previsto en la presente Ley y su respectivo reglamento.
 
 ###### Artículo 146.
 
@@ -2804,6 +2800,44 @@ VI. Los permisionarios deberán guardar un archivo con los expedientes de los ve
 VII. Los permisionarios y su personal, no deberán expedir certificados, hologramas y constancias de rechazo que pertenezcan a otros Centros.
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN VIII. De la Inspección y Vigilancia a los Centros de Verificación
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 N.- La Secretaría realizará la supervisión de todos los centros de Verificación Vehicular a través de su personal acreditado mediante visitas de inspección, con el fin de comprobar que su operación y funcionamiento se realice en estricto cumplimiento a lo dispuesto en la Ley, las Normas Oficiales Mexicanas, Normas Técnicas Ecológicas Estatales, circulares, Manuales de Procedimientos y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 Ñ.- El personal acreditado por la Secretaría deberá identificarse de manera respetuosa al inicio de la visita de inspección exhibiendo una credencial vigente con fotografía, y la orden de inspección que debe dejar en original a la persona del Centro que atienda la diligencia.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 O.- Los propietarios, responsables o personal operante que se encuentren en el Centro durante la visita de inspección, tendrán la obligación de permitir el acceso en todo momento de los inspectores a la información y dar facilidades para que realicen adecuadamente su labor.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 P.- La Secretaría al realizar las visitas de inspección previa orden fundada y motivada, levantará un acta circunstanciada por duplicado de lo observado y practicado en la diligencia. Esta se levantará en presencia de dos testigos propuestos por la persona que atienda la diligencia, en caso de negarse a hacerlo, lo hará el inspector quien deberá firmarla.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 Q.- De toda Acta elaborada se dejará copia al personal que haya atendido la diligencia aunque este se haya negado a firmarla, lo que no afectará la validez de la misma, siempre y cuando se haga constar en la misma. Las Actas elaboradas deberán incluir el nombre, denominación o razón social del Centro inspeccionado, hora, día, mes y año en que se inicie y concluya la diligencia; municipio en que se practique la inspección, calle, numero, colonia, teléfono u otra forma de poder comunicarse con la Secretaría; nombre y domicilio de los testigos; nombre y cargo del inspector; datos relativos a la inspección; declaración de con quien se entendió la diligencia en caso de así desearlo; nombre y firma de todas las personas que participaron.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 R.- Los visitados tendrán derecho a formular observaciones en el acto de la diligencia y presentar pruebas por escrito en relación con los hechos contenidos en el Acta durante los cinco días hábiles posteriores a la entrega del acta de inspección.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 S.- Una vez realizada la inspección, la Secretaría deberá emitir un Acuerdo al concesionario, señalando las medidas urgentes y/o inmediatas que se deben aplicar en el Centro dentro de un plazo de 45 días para subsanar las deficiencias detectadas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 T.- Transcurrido el plazo otorgado para implementar las medidas requeridas, la Secretaría emitirá una Resolución Administrativa en donde se impongan las sanciones correspondientes y/o en su caso levantar o adicionar medidas urgentes.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 U.- Siguiendo lo establecido en la Ley y con base en los resultados de la inspección, se aplicarán las medidas y/o sanciones que procedan de acuerdo a lo previsto en la presente Ley y su respectivo reglamento.
 
 ### CAPÍTULO II. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
 
@@ -4272,3 +4306,9 @@ P.O. 24 DE OCTUBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. El establecimiento de clínicas veterinarias públicas estará sujeto a la disponibilidad presupuestaria del Estado y de los Municipios en cada ejercicio fiscal.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT, EN MATERIA DE HUERTOS URBANOS Y DONACIÓN ALTRUISTA DE ALIMENTOS PARA MASCOTAS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
