@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-15005
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2024-08-13"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 13 DE AGOSTO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DEL 22 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el lunes 7 de junio de 2021.
 
@@ -165,13 +163,17 @@ XX. Participación en acciones de protección civil;
 
 XXI. Apoyo para el desarrollo de los pueblos y comunidades indígenas;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XXII. Acciones para la cooperación y la cultura en materia de seguridad ciudadana, y
+XXII. Acciones para la cooperación y la cultura en materia de seguridad ciudadana;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XXIII. Acciones que tengan como finalidad el recuperar, recolectar y recibir en donación los alimentos aptos para consumo humano.
+XXIII. Acciones que tengan como finalidad el recuperar, recolectar y recibir en donación los alimentos aptos para consumo humano, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXIV. Fomento a la donación de alimento para mascotas y animales que se encuentren en estado de abandono, así como, de productos en general que aseguren su bienestar.
 
 Las Organizaciones para ser susceptibles del fomento de esta Ley, no deberán contener como objeto más de uno de los contenidos de las fracciones de este artículo, salvo que entre dichos contenidos se dé una relación de medio a fin.
 
@@ -608,5 +610,11 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 22 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 8 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT, EN MATERIA DE DONACIÓN ALTRUISTA DE ALIMENTOS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMAR LAS FRACCIONES XXII Y XXIII, Y ADICIONAR LA FRACCIÓN XXIV AL ARTÍCULO 8 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT, EN MATERIA DE DONACIÓN ALTRUISTA DE ALIMENTOS PARA MASCOTAS".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
