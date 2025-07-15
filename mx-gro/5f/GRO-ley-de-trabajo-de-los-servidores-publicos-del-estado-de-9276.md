@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "2025-05-09"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -343,13 +343,17 @@ IV.- Durante el período de lactancia, en los primeros seis meses tendrán dos d
 
 V.- Disfrutar en los mismos términos de los descansos referidos en la fracción anterior, cuando reciban en adopción un bebé menor de seis semanas de edad;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-VI.- Durante los períodos de descanso a que se refieren las fracciones anteriores de este artículo, percibirá el salario integro, en los casos de prórroga previstos en la fracción III, tendrán derecho al cien por ciento de su salario; y,
+VI.- Durante los períodos de descanso a que se refieren las fracciones anteriores de este artículo, percibirá el salario íntegro, en los casos de prórroga previstos en la fracción III, tendrán derecho al cien por ciento de su salario;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-VII.- Tendrán derecho a regresar al puesto que desempañaban computándose en su antigüedad los períodos de descanso y la prórroga si la hubo.
+VII.- Tendrán derecho a regresar al puesto que desempeñaban computándose en su antigüedad los períodos de descanso y la prórroga si la hubo; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+VIII.- Las mujeres trabajadoras a quienes se les haya diagnosticado con dismenorrea primaria o secundaria en grado incapacitante, dispondrá de un permiso con goce de sueldo para ausentarse de su centro de trabajo hasta por dos días cada mes. Para tal efecto, deberán presentar el certificado médico que lo acredite, mismo que será emitido por personal especializado en alguna institución del Sistema de Salud Pública.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2000)</small>
 
@@ -1488,3 +1492,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 POR EL QUE SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 24 A LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248, Y EL ARTÍCULO 23 BIS A LA LEY NÚMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
