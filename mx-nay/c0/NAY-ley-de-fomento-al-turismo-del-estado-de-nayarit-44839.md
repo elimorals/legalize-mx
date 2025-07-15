@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-al-turismo-del-estado-de-nayarit-44839"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-04"
-last_updated: "2023-10-20"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el miércoles 4 de mayo de 2005.
 
@@ -141,13 +141,17 @@ VIII. Turismo Sustentable.- Aquél que cumple con dar un uso sustentable a los r
 
 IX. Turista: La persona que temporalmente viaja fuera de su lugar de residencia habitual y que utiliza o disfruta dentro del estado algún servicio turístico referido en la presente ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-X. UMA: A la Unidad de Medida y Actualización, considerando su valor diario en términos del artículo 26 Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos, y
+X. UMA: A la Unidad de Medida y Actualización, considerando su valor diario en términos del artículo 26 Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo.
+XI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XII. Zonas de Alto Impacto Turístico: Áreas específicas que destacan por su potencial turístico significativo en el Estado de Nayarit.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -187,9 +191,17 @@ I. Hoteles, moteles, albergues, casas de huéspedes y demás establecimientos de
 
 II.- Museos, galerías de arte, monumentos coloniales e históricos y zonas arqueológicas;
 
-III.- Parques acuáticos, parques temáticos, balnearios, clubes náuticos, playas y otros centros de recreación que presten servicios a Turistas, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-IV.- Restaurantes, cafeterías, bares, centros nocturnos y similares, así como en terminales de transporte aéreas, terrestres y marítimas, zonas con atractivo natural y en general los que son ofrecidos dentro de cualquier zona turística.
+III.- Parques acuáticos, parques temáticos, balnearios, clubes náuticos, playas y otros centros de recreación que presten servicios a Turistas;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+IV.- Restaurantes, cafeterías, bares, centros nocturnos y similares, así como en terminales de transporte aéreas, terrestres y marítimas, zonas con atractivo natural y en general los que son ofrecidos dentro de cualquier zona turística, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+V.- Los parques de Golf.
 
 ###### ARTÍCULO 5°.
 
@@ -299,13 +311,21 @@ XXV. Colaborar con la Secretaría de Economía en las acciones tendientes a fort
 
 XXVI. Participar con las dependencias y entidades de la Administración Pública, para impulsar proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XXVII. Impulsar la elaboración del Índice de Competitividad Turística del Estado, en los términos de esta Ley y su Reglamento, y
+XXVII. Impulsar la elaboración del Índice de Competitividad Turística del Estado, mediante el otorgamiento de incentivos, distintivos, certificados, insignias o reconocimientos a los prestadores de servicios turísticos, en los términos de esta Ley y su Reglamento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2025)</small>
 
-XXVIII. Las demás que señalen las leyes y reglamentos vigentes o que le encomiende el Gobernador, conforme a esta ley.
+XXVIII. Desarrollar, establecer, determinar para su aplicación los mecanismos para la incorporación y permanencia de los Pueblos Mágicos como opción de desarrollo y fuente de bienestar social;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXIX. Expedir la certificación como prestador de servicios turísticos a personas físicas o morales que cuenten con la licencia de funcionamiento y desarrollen actividades turísticas en el Estado, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2025)</small>
+
+XXX. Las demás que señalen las leyes y reglamentos vigentes o que le encomiende el Gobernador, conforme a esta Ley.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -385,9 +405,9 @@ f) Tendencias del sector, y
 
 g) Cualquier información turística que requiera la Secretaría en los términos y condiciones que disponga, a efecto de elaborar indicadores oportunos, confiables y objetivos, que aporten a mejorar las condiciones del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-VI. Inscribirse en el Registro Estatal de Turismo y tramitar, obtener y actualizar la Cédula Estatal de Calidad e Imagen Turística respectiva en los términos y condiciones que la Secretaría disponga, a efecto de que sus servicios puedan operar con plenitud en territorio Nayarita;
+VI. Inscribirse en el Registro Estatal de Turismo y contar con la Cédula Estatal de Calidad e Imagen Turística, en los términos del reglamento respectivo;
 
 > <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -437,13 +457,25 @@ XVII. Prestar servicios atendiendo lo establecido en la presente Ley, la Ley Gen
 
 XVIII. Acatar las resoluciones emitidas por la Secretaría en materia turística;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XIX. Cumplir con los convenios o acuerdos que celebre la Secretaría, con instancias estatales o federales, y
+XIX. Cumplir con los convenios o acuerdos que celebre la Secretaría, con instancias estatales o federales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2025)</small>
 
-XX. Las demás que establezcan esta Ley y otras disposiciones legales y reglamentarias aplicables.
+XX. Obtener la certificación como prestador de servicios turísticos;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXI. Garantizar una buena atención tanto para los visitantes como para los residentes locales en los términos del reglamento respectivo;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXII. En el caso de los Guías Turísticos para desempeñar el ejercicio de su actividad deberán obtener una acreditación o certificación según corresponda, de conformidad a esta Ley y el reglamento respectivo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2025)</small>
+
+XXIII. Las demás que establezca esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -705,13 +737,13 @@ En el caso de la promoción internacional, esta se llevará a cabo en coordinaci
 
 ARTICULO 17 J.- La Secretaría se encargará de expedir los lineamientos técnicos para el diseño y producción de las campañas turísticas publicitarias en la entidad.
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
 
-ARTICULO 17 J Bis.- La marca turística "Nayarit Enamora" es el elemento gráfico que identifica a la entidad como destino turístico en el ámbito local, nacional e internacional.
+ARTICULO 17 J Bis.- La marca turística "Visit Nayarit" y sus derivados, configuran el elemento gráfico que identifica a la entidad como destino turístico en el ámbito local, nacional e internacional.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
 
-ARTICULO 17 K.- La Secretaría promoverá el uso de la marca turística "Nayarit Enamora" así como de otras marcas y regiones turísticas de Nayarit en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
+ARTICULO 17 K.- La Secretaría promoverá el uso de la marca turística "Visit Nayarit" así como de otras marcas y regiones turísticas de Nayarit en todos los materiales gráficos, visuales y electrónicos que se utilicen con fines de promoción y difusión turísticas.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -1103,13 +1135,17 @@ XX. Planificar el uso del suelo, el ordenamiento urbano y territorial, el equipa
 
 XXI. Presentar ante la Secretaría de Turismo Federal, proyectos de declaratoria de zonas de desarrollo turístico sustentable, de acuerdo al procedimiento y requisitos que establezca el reglamento de la Ley General de Turismo;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XXII. Entregar a la Secretaría los datos económicos y estadísticos que generen en materia de Turismo; y
+XXII. Entregar a la Secretaría los datos económicos y estadísticos que generen en materia de Turismo;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2025)</small>
 
-XXIII. Las demás previstas en esta Ley y su reglamento.
+XXIII. Coordinar con los Ayuntamientos la realización de verificaciones por conducto de la autoridad competente, para garantizar el cumplimiento de las normas en materia turística, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2025)</small>
+
+XXIV. Las demás previstas en esta Ley y demás disposiciones reglamentarias.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -1165,9 +1201,33 @@ XXIV. Gestionar la capacitación, actualización y profesionalización de los pr
 
 XXV. Requerir a los prestadores de servicios turísticos, el cumplimiento de sus obligaciones establecidas en la Ley, así como de la Ley General de Turismo, las Normas Oficiales Mexicanas, las Normas Estatales, reglamentaciones y demás disposiciones jurídicas aplicables, en caso de incumplimiento, se deberá dar vista a la Secretaría a la inmediatez posible, para que esta pueda aplicar la sanción correspondiente;
 
-XXVI. Coordinar el seguimiento, actualización y obtención de la ocupación hotelera de los destinos turísticos de su competencia, verificando que la información estadística sea veraz y confiable, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-XXVII. Las demás previstas en esta Ley y su reglamento.
+XXVI. Coordinar el seguimiento, actualización y obtención de la ocupación hotelera de los destinos turísticos de su competencia, verificando que la información estadística sea veraz y confiable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2025)</small>
+
+XXVII. Informar a la Secretaría de manera trimestral de las actividades desarrolladas dentro de los Consejos Consultivos Municipales según corresponda;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXVIII. Realizar verificaciones para el cumplimiento de las normas turísticas, y requerir a los prestadores de servicios turísticos, el cumplimiento de sus obligaciones establecidas en la Ley, así como de la Ley General de Turismo, las Normas Oficiales Mexicanas, las Normas Estatales, reglamentaciones y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXIX. Coadyuvar con la autoridad competente en la regulación del funcionamiento de establecimientos ubicados en zonas de playa, a fin de prevenir actividades ilícitas y contribuir a la seguridad de la población y del turismo;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXX. Informar de manera trimestral a la Secretaría, los datos del registro de vendedores ambulantes autorizados en su ámbito de competencias en Zonas de Alto Impacto Turístico;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XXXI. Promover, en coordinación con las autoridades competentes, que en las zonas turísticas se prohíba el consumo de narcóticos, estupefacientes, psicotrópicos y demás sustancias o vegetales enervantes dentro de los establecimientos de prestadores de servicios turísticos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2025)</small>
+
+XXXII. Las demás previstas en esta Ley y demás disposiciones reglamentarias.
 
 ###### ARTICULO 26.
 
@@ -1239,29 +1299,177 @@ II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incid
 
 III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
 
-### CAPÍTULO IX. Registro Estatal de Turismo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO IX. Registro Estatal de Turismo y Cédula Estatal de Calidad e Imagen Turística
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría organizará el Registro Estatal de Turismo, como un instrumento para la estadística, regulación y control tanto de los prestadores de servicios turísticos previstos en esta ley y disposiciones que de ella emanen, como de los apoyos y estímulos que se les otorguen. Para tal efecto, la Secretaría recabará la opinión de los Ayuntamientos a fin de que coadyuven en su implementación, actualización y control.
+El Registro Estatal de Turismo, es el catálogo público de prestadores de servicios turísticos en Nayarit, el cual constituye el mecanismo de carácter estatal, mismo que tiene como objeto conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+La Cédula Estatal de Calidad e Imagen Turística, es el documento oficial expedido por la Secretaría que tiene el objeto brindar y mejorar el cumplimiento de los estándares de calidad y de seguridad en los productos y servicios turísticos prestados en el Estado de Nayarit.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 36.
 
-Los prestadores de servicios turísticos para poder recibir los apoyos y estímulos previstos en esta ley, tienen la obligación de inscribirse en el Registro Estatal de Turismo en los términos que prevea el reglamento respectivo, y cumplir con los requisitos para expedirle su Cédula Estatal de Calidad e Imagen Turística. En el caso de inversionistas con nuevos proyectos turísticos que soliciten apoyos y estímulos, deberán registrarse y cumplir con las normas respectivas para extenderles la Cédula Estatal de Calidad e Imagen Turística.
+Los prestadores de servicios turísticos en Nayarit, deberán inscribirse en el Registro Estatal de Turismo y cumplir con los requisitos para la obtención de la Cédula Estatal de Calidad e Imagen Turística en los términos que prevea el reglamento respectivo.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO IX BIS. Zonas de Alto Impacto Turístico
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 A.- Las Zonas de Alto Impacto Turístico, son las áreas específicas que destacan por su potencial turístico significativo en el Estado de Nayarit, mismas que se caracterizan por recibir un flujo de visitantes que excede al doble más uno de su población local y que dada a esta alta afluencia, requieren una atención especial para asegurar tanto su desarrollo sostenible como el bienestar de sus residentes.
+
+Las Zonas de Alto Impacto Turístico, se establecerán anualmente durante el mes de enero, mediante declaratoria específica que emitirá la persona titular del Poder Ejecutivo Estatal, a propuesta de la Secretaría, dicha declaratoria deberá ser publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 B.- Para mitigar el impacto de la gentrificación en las comunidades locales, la autoridad competente deberá:
+
+I. Realizar evaluaciones de zonas susceptibles de gentrificación en las áreas de alto impacto turístico, tomando en cuenta factores como ubicación geográfica, variación en los precios de la vivienda y crecimiento demográfico, y
+
+II. Promover la participación de las comunidades locales en proyectos de desarrollo turístico que fortalezcan el tejido social y económico.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 C.- La Secretaría coadyuvará con las diferentes autoridades federales, estatales o municipales para la preservación de los recursos naturales en las Zonas de Alto Impacto Turístico del Estado de Nayarit, conforme a lo dispuesto en este artículo.
+
+I. Las autoridades competentes en materia ambiental, en coordinación con los municipios correspondientes, deberán desarrollar planes y programas específicos para la conservación de los ecosistemas, la biodiversidad y los recursos naturales presentes en las Zonas de Alto Impacto Turístico;
+
+II. Se promoverá la adopción de prácticas turísticas sostenibles en las Zonas de Alto Impacto Turístico, fomentando la educación ambiental y la participación activa de la comunidad local en la gestión y conservación de su entorno natural;
+
+III. Se prohíbe la realización de actividades turísticas que puedan causar daños significativos al medio ambiente, como la contaminación del agua, la deforestación, la degradación de los ecosistemas costeros y la alteración de hábitats naturales protegidos;
+
+IV. Se establecerán medidas de control y seguimiento para garantizar el cumplimiento de las normativas ambientales en las Zonas de Alto Impacto Turístico, incluyendo la realización de evaluaciones periódicas del impacto ambiental de las actividades turísticas y la imposición de sanciones en caso de incumplimiento, y
+
+V. Se fomentará la cooperación interinstitucional y la participación de la sociedad civil en la gestión y protección del medio ambiente en las Zonas de Alto Impacto Turístico, a través de la creación de comités de seguimiento y mecanismos de consulta pública.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 D.- La Secretaría podrá coadyuvar con las diferentes autoridades para desarrollar planes de contingencia y respuesta ante condiciones meteorológicas adversas y desastres naturales en las Zonas de Alto Impacto Turístico del Estado de Nayarit, con la finalidad de salvaguardar el turismo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 E.- Los Ayuntamientos donde existan Zonas de Alto Impacto Turístico, deberán en el ámbito de su competencia contar con lo siguiente:
+
+I. Personal y unidades idóneas para la correcta recolección de los residuos, y
+
+II. Dar un oportuno traslado al sitio de disposición final, así como el debido tratamiento que requieren los residuos.
+
+Lo anterior con el propósito de dar una mejor imagen al turista, así como una mejor calidad de servicio.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 F.- Será responsabilidad de los prestadores de servicios turísticos de las Zonas de Alto Impacto Turístico correspondientes, el manejo integral de residuos sólidos urbanos, comprometiéndose a lo siguiente:
+
+I. Mantener en separación primaria los residuos sólidos urbanos generados;
+
+II. Apoyar con la recolección y separación de los residuos de manejo especial generados por sus consumidores, y
+
+III. Orientar y generar acciones para concientizar a la sociedad sobre la correcta separación y recolección.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 G.- Las personas físicas o morales que se encuentren prestando un servicio o comercio dentro de las zonas turísticas, deberán contar con el Registro Estatal y la Cedula de Calidad de Imagen Turística de conformidad al reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 H.- La Secretaría, por conducto de su personal competente, estará facultada para verificar que los prestadores de servicios turísticos cumplan con la legislación aplicable en materia turística. En caso de incumplimiento, se impondrán las sanciones previstas en esta Ley y demás disposiciones competentes.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 I.- Los prestadores de servicios turísticos y los establecimientos que operen en zonas susceptibles a impacto climático o fenómenos meteorológicos deberán implementar medidas preventivas y planes de contingencia, conforme a la normativa aplicable, con el fin de proteger la integridad de los usuarios y salvaguardar sus instalaciones, para ello tendrán las siguientes atribuciones:
+
+I. Informarse sobre algún próximo posible fenómeno meteorológico;
+
+II. Brindar orientación y/o auxilio ante las excesivas temperaturas, y
+
+III. Promover el cuidado y precaución para salvaguardar a la población y turistas ante posibles fenómenos meteorológicos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 J.- Los prestadores de servicios turísticos de las Zonas de Alto Impacto Turístico dentro de establecimientos deberán:
+
+I. Fomentar un ambiente de trabajo libre de narcóticos o drogas enervantes;
+
+II. Establecer una política clara sobre el uso de drogas en el establecimiento;
+
+III. Contar con capacitación sobre los efectos de las drogas y los signos de abuso de drogas;
+
+IV. Prohibir el ingreso al establecimiento a personas que se encuentren consumiendo o bajo efectos de narcóticos, estupefacientes, psicotrópicos y demás sustancias o vegetales enervantes;
+
+V. Contar con señalización que permita el entendimiento sobre la prohibición dentro del establecimiento del consumo de narcóticos, estupefacientes, psicotrópicos y demás sustancias o vegetales enervantes, y
+
+VI. Dar aviso a las autoridades competentes sobre un posible acto de omisión por parte de un particular.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 K.- Los Ayuntamientos donde existan Zonas de Alto Impacto Turístico, en el ámbito de su competencia, deberán salvaguardar en todo momento la integridad y brindado el apoyo necesario a los turistas.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 L.- Los Ayuntamientos y prestadores de servicios turísticos en su ámbito de competencias, deberán de preservar y conservar los ecosistemas ubicados en las Zonas de Alto Impacto Turístico, conforme a lo siguiente:
+
+I. Fomentar la cultura de preservación y conservación de los ecosistemas;
+
+II. Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos;
+
+III. Orientar sobre el correcto desenvolvimiento dentro de los ecosistemas, y
+
+IV. Respetar la autenticidad sociocultural de la Zona de Alto Impacto.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 M.- Los establecimientos de prestadores de servicios deberán contar con una planeación, organización, señalización y gestión de movilidad de personas y bienes, para una óptima circulación dentro de la Zona de Alto Impacto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO IX TER. Del Otorgamiento de Certificados, Distintivos e Insignias Estatales a Prestadores de Servicios Turísticos
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 N.- La Secretaría con el objeto de optimizar la calidad y competitividad de los Servicios Turísticos, promoverá la certificación, así como el otorgamiento de distintivos, sellos, insignias y reconocimientos a los Prestadores de Servicios Turísticos que se distingan por adoptar mejores prácticas en sus procesos o altos estándares en sus servicios, a través de un proceso de autoevaluación y supervisión por parte de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 O.- Se promoverá el mejoramiento de la calidad de los destinos y servicios turísticos mediante los mecanismos que se establezcan en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 P.- El otorgamiento de certificados, distintivos e insignias estatales a prestadores de servicios turísticos tiene como objetivo:
+
+I. Garantizar la calidad de los Destinos y Servicios Turísticos;
+
+II. Promover mejoras en el sector turístico, conforme a los más altos estándares de
+
+calidad;
+
+III. Promover las soluciones tecnológicas dirigidas a mejorar la competitividad de los Destinos y Servicios Turísticos;
+
+IV. Contribuir a la sustentabilidad de las empresas y Destinos Turísticos del país, y
+
+V. Dar a conocer, entre los Prestadores de Servicios Turísticos, los certificados, distintivos y demás reconocimientos que en materia de calidad de servicios se establezcan en el reglamento para el Otorgamiento de Certificados y Distintivos Estatales a Prestadores de Servicios Turísticos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 Q.- La Secretaría evaluará y promoverá que los Prestadores de Servicios Turísticos y Destinos Turísticos se inscriban en las convocatorias para el Otorgamiento de Certificados, Distintivos e Insignias Estatales, logrando una mayor calidad en los servicios al turista.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 2025)</small>
+
+### CAPÍTULO IX QUATER. Del Consejo Consultivo Estatal para el Desarrollo de Pueblos Mágicos de Nayarit
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+ARTICULO 36 R.- El Consejo Consultivo Estatal para el Desarrollo de Pueblos Mágicos de Nayarit es un órgano de consulta, propuesta y coordinación interinstitucional, incluyente y plural, representativo de la sociedad, cuyo objeto es fortalecer la infraestructura turística, incentivar la inversión privada y promover alianzas público-privadas, así como conservar el patrimonio cultural y natural de los Pueblos Mágicos de Nayarit, el cual se integrará y funcionará conforme al reglamento respectivo.
 
 ### CAPÍTULO X. Protección al Turista
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
-
-### CAPÍTULO XI. De la Verificación
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-### CAPÍTULO XII. Sanciones y Recursos
 
 ###### ARTICULO 37.
 
@@ -1321,6 +1529,10 @@ Si el turista reside en el extranjero, también podrá denunciar ante la Procura
 
 La denuncia podrá presentarse también por conducto de las Representaciones de la Secretaría en el extranjero, a elección del afectado.”
 
+### CAPÍTULO XI. De la Verificación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2023)</small>
+
 ###### ARTICULO 41.
 
 La Secretaría estará facultada para realizar visitas de verificación a los prestadores de servicios turísticos con el objeto de constatar el debido cumplimiento de sus obligaciones establecidas en esta Ley, su Reglamento y, demás normas estatales que resulten aplicables, así como coordinarse con las autoridades fiscales a efecto de que los prestadores de servicios turísticos informen sobre el efectivo cumplimiento al pago del Impuesto al Hospedaje.
@@ -1332,6 +1544,14 @@ Para lo anterior, se auxiliará de Verificadores Turísticos debidamente acredit
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
 Asimismo, y previa la suscripción de los acuerdos de coordinación con la instancia federal correspondiente, la Secretaría podrá realizar una verificación integral en materia turística, asegurando el cumplimiento de las disposiciones vigentes, interviniendo para regularizar a los Prestadores de Servicios Turísticos. En caso de desacato, se procederá en términos de los artículos 49 y 50 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+Los Ayuntamientos podrán suscribir acuerdos de coordinación con la Secretaría para realizar por medio de las autoridades competentes una verificación integral en materia turística, asegurando el cumplimiento de las disposiciones vigentes, interviniendo para regularizar a los Prestadores de Servicios Turísticos. En caso de desacato por parte de los prestadores de servicios turísticos, se procederá en términos de los artículos 49 y 50 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2025)</small>
+
+Las visitas de verificación se realizarán de conformidad a lo previsto en los artículos 43, 44, 45 y 46 de esta Ley, así como de conformidad al acuerdo que se suscriba.
 
 ###### ARTICULO 42.
 
@@ -1381,6 +1601,8 @@ Una vez elaborada el acta, el verificador proporcionará una copia de la misma a
 
 Quienes realicen la verificación, por ningún motivo podrán imponer las sanciones a que se refiere esta Ley.
 
+### CAPÍTULO XII. Sanciones y Recursos
+
 ###### ARTICULO 47.
 
 Los procedimientos y actos administrativos que dicten o ejecuten las autoridades estatales y municipales en materia turística, se sujetarán a lo dispuesto por la Ley de Justicia y Procedimientos Administrativos para el Estado de Nayarit.
@@ -1423,9 +1645,13 @@ I. Amonestación a quienes realicen los actos u omisiones descritos en las fracc
 
 II. Multa de 10 a 300 veces la Unidad de Medida y Actualización, a quienes realicen los actos u omisiones establecidos en las fracciones V, VI, VII, IX, X, XI, XIV, XV, XVI, XVII XVIII, y XIX; así como por reincidir en las infracciones establecidas en las fracciones I, II, III, IV, VIII, IX y XII.
 
-III. Cancelación de la Cédula Estatal de Calidad e Imagen Turística, y multa de 50 a 500 veces la Unidad de Medida y Actualización, a quienes reincidan en los actos u omisiones establecidos en las fracciones IV, VI, IX y X.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-IV. Procederá la Clausura temporal, además de la multa establecida en la fracción III del presente artículo, a quienes reincidan en los actos u omisiones establecidas en las fracciones VIII, X, XII, XIV, XV y XVIII.
+III. Cancelación de la Cédula Estatal de Calidad e Imagen Turística, y multa de 50 a 500 veces la Unidad de Medida y Actualización, a quienes reincidan en los actos u omisiones establecidos en las fracciones IV, VI, IX, X y XI;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+IV. Procederá la Clausura temporal, además de la multa establecida en la fracción III del presente artículo, a quienes reincidan en los actos u omisiones establecidas en las fracciones VI, VIII, X, XII, XIV, XV y XVIII, y
 
 V. Además de las sanciones previstas en las fracciones II, III y IV del presente artículo, procederá la Reposición del Servicio Turístico al Turista o Visitante afectado, consistente en el reembolso, bonificación o compensación, por un tanto igual y hasta el doble de la suma correspondiente al servicio incumplido, así como los gastos y costas que en su caso pudieran generarse; a quienes realicen los actos u omisiones descritos en las fracciones IX y XV.
 
@@ -1518,3 +1744,25 @@ CUARTO.- Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada 
 QUINTO.- Los procedimientos que a la entrada en vigor del presente Decreto que se encuentren en trámite o en proceso de ejecución continuarán rigiéndose hasta su conclusión conforme a la norma vigente con la que se iniciaron.
 
 SEXTO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las Dependencias y Entidades del Poder Ejecutivo señaladas en el presente Decreto deberán destinar recursos materiales, humanos y/o financieros para el cumplimiento del Programa de Actividades autorizado, desde el ámbito de sus respectivas competencias y de conformidad con el Presupuesto de Egresos autorizado.
+
+TERCERO. En un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado de Nayarit, deberá realizar las adecuaciones específicas contenidas en su reglamento interior, en normas legales y demás disposiciones normativas que resulten aplicables, de conformidad con el presente Decreto.
+
+CUARTO. Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de ciento veinte días naturales, deberán realizar las reformas y adecuaciones a los reglamentos, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+QUINTO. A la entrada en vigor del presente Decreto, la Secretaría de Turismo del estado de Nayarit será encargada de realizar ante la autoridad federal en materia de propiedad industrial, los trámites concernientes a la renovación de la marca "Visit Nayarit", cuando por el transcurso del tiempo sea necesario, así como del registro y renovación de aquellas otras que estimen convenientes para la promoción de la entidad en los mercados local, nacional e internacional.
+
+SEXTO. La Secretaría de Turismo del Estado de Nayarit emitiría el Reglamento del Consejo Consultivo Estatal para el Desarrollo de Pueblos Mágicos de Nayarit en un plazo no mayor a noventa días posteriores a la entrada en vigor del presente instrumento.
+
+El Consejo Consultivo Estatal para el Desarrollo de Pueblos Mágicos de Nayarit, deberá integrarse en un plazo no mayor a sesenta días posteriores a la entrada en vigor del Reglamento al que se hace alusión en el párrafo anterior.
+
+SÉPTIMO. Los procedimientos que a la entrada en vigor del presente Decreto que se encuentren en trámite o en proceso de ejecución continuarán rigiéndose hasta su conclusión conforme a la norma vigente con la que se iniciaron.
+
+OCTAVO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes
