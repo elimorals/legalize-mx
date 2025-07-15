@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2022-08-23"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2012-04-03"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CARDIOLOGIA IGNACIO CHAVEZ
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: MODIFICACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/SALUD/inc_estatuto_2025_modificaciones.pdf
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2025.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -37,9 +39,15 @@ ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CARDIOLOGIA IGNACIO CHAVEZ
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 1o.
 
-El Instituto Nacional de Cardiología Ignacio Chávez es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el Sector Salud, que tiene por objeto principal, en el campo de la atención de padecimientos cardiovasculares, la investigación científica, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional.
+El Instituto Nacional de Cardiología Ignacio Chávez es un organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupado en el Sector Salud, que tiene por objeto principal, en el campo de la atención de padecimientos cardiovasculares, la investigación científica, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional, en apego las acciones referentes a la prestación gratuita de medicamentos y demás insumos relacionados.
+
+El Instituto Nacional de Cardiología Ignacio Chávez establecerá entre sus objetivos las acciones necesarias para otorgar atención médica gratuita de alta especialidad en el campo de atención de padecimientos cardiovasculares brindando medicamentos y demás insumos asociados, bajo criterios de gratuidad, universalidad, igualdad e inclusión dirigiendo su política institucional hacia el otorgamiento de servicios con eficiencia, calidad y calidez, con enfoque multidisciplinario en los procesos de diagnóstico, tratamiento, rehabilitación y seguimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 2o.
 
@@ -48,6 +56,12 @@ Para los efectos de este estatuto se entenderá por:
 I. Ley: la Ley de los Institutos Nacionales de Salud, e
 
 II. Instituto: el Instituto Nacional de Cardiología Ignacio Chávez.
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+III. Oficina de Representación: Oficina de Representación en el Instituto Nacional de Cardiología Ignacio Chávez, dependiente de la Secretaría Anticorrupción y Buen Gobierno
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 3o.
 
@@ -61,9 +75,9 @@ III. Promover y realizar reuniones de intercambio científico, de carácter naci
 
 IV. Formar recursos humanos en su área de especialización, así como en aquellas que le sean afines;
 
-> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-V. Formular y ejecutar programas de estudio y cursos de capacitación, educación, especialización y actualización de personal profesional, técnico y auxiliar, en el área de los padecimientos cardiovasculares, así como evaluar y reconocer el aprendizaje;
+V. Desarrollar y ejecutar programas de estudio y cursos de capacitación, educación, especialización y actualización de personal profesional, técnico y auxiliar, en el área de los padecimientos cardiovasculares, así como evaluar y reconocer el aprendizaje;
 
 VI. Otorgar constancias, diplomas, reconocimientos y certificados de estudios, grados y títulos, en su caso, de conformidad con las disposiciones aplicables;
 
@@ -85,7 +99,7 @@ XIII. Coadyuvar con la Secretaría a la actualización de los datos sobre la sit
 
 XIV. Realizar las demás actividades que le corresponda conforme a la Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 4o.
 
@@ -105,7 +119,7 @@ b) Consejo Asesor Externo
 
 c) Consejo Técnico de Administración y Programación
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 III. UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS:
 
@@ -129,7 +143,7 @@ a) Subdirección de Educación Médica
 
 4) Dirección de Enfermería
 
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 15 DE JULIO DE 2025)</small>
 
 5) Dirección de Administración
 
@@ -137,11 +151,9 @@ a) Subdirección de Administración y Desarrollo de Personal
 
 b) Subdirección de Finanzas
 
-c) Subdirección de Recursos Materiales
+c) Subdirección de Recursos Materiales y Servicios Generales
 
-d) Subdirección de Servicios Generales
-
-e) Subdirección de Informática
+d) Subdirección de Informática... (sic)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
@@ -149,9 +161,9 @@ e) Subdirección de Informática
 
 Asimismo, el Instituto contará con las unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-El Instituto cuenta con un Órgano Interno de Control que se regirá conforme a lo dispuesto en el artículo 56 de este Estatuto.
+El Instituto cuenta con un Órgano Interno de Control y una Oficina de Representación conforme a lo establecido en el artículo 1, fracción XVIII, inciso a), numeral vii) del ACUERDO por el que se determina la organización y coordinación de los órganos internos de control y unidades de responsabilidades (DOF: 16/01/2025), que se regirán conforme a lo dispuesto en el artículo 56 del presente Estatuto, así como en las demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
 
@@ -179,37 +191,49 @@ VI. Establecer el sistema de profesionalización del personal del Instituto, con
 
 VII. Determinar las reglas y porcentajes conforme a los cuales el personal que participe en proyectos determinados de investigación podrá beneficiarse de los recursos generados por el proyecto, así como, por un periodo determinado, de las regalías que resulten de aplicar o explotar derechos de propiedad industrial o intelectual, que deriven de proyectos realizados en el Instituto, y
 
-VIII. Aprobar, a propuesta del Director General, el trámite ante la coordinadora de sector para modificar o imponer nombres de médicos o benefactores a instalaciones y áreas del Instituto.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VIII. Aprobar, a propuesta de la persona titular de la Dirección General, el trámite ante la coordinación de sector para modificar o imponer nombres de personas médicas o personas benefactoras a instalaciones y áreas del Instituto.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 7o.
 
-La Junta de Gobierno del Instituto se integrará con el Secretario de Salud quien la presidirá; el Titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad; un representante de la Secretaría de Hacienda y Crédito Público; uno del Patronato del Instituto, y otro que, a invitación del Presidente de la Junta, designe una Institución del Sector Educativo vinculado con la investigación, así como por cuatro vocales designados por el Secretario de Salud, quienes serán personas ajenas laboralmente al Instituto y de reconocida calidad moral, méritos, prestigio y experiencia en el campo de la medicina. Estos últimos durarán en su cargo cuatro años y podrán ser ratificados por una sola ocasión.
+La Junta de Gobierno es el órgano supremo de administración del Instituto y se integrará conforme al principio de paridad de género, por la persona titular de la Secretaría de Salud, quien la presidirá; por la persona titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad; por una persona representante de la Secretaría de Hacienda y Crédito Público; otra representante del Patronato del Instituto, y una que, a invitación de la Presidencia de la Junta, designe una institución del Sector Educativo, vinculada con la investigación, así como por cuatro personas designadas como vocales, por la persona titular de la Secretaría de Salud, quienes serán ajenas laboralmente al Instituto y de reconocida calidad moral, méritos, prestigio y experiencia en su campo de especialidad. Estas últimas durarán en su cargo cuatro años y se podrán ratificar por una sola ocasión.
 
-La Junta de Gobierno contará con un Secretario y un Prosecretario.
+La Junta de Gobierno contará con una Secretaría y Prosecretaría.
 
-El Presidente de la Junta de Gobierno será suplido en sus ausencias por el Titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
+La titularidad de la presidencia de la Junta de Gobierno será suplida por la persona titular de la Comisión Coordinadora de los Institutos Nacionales de Salud y Hospitales de Alta Especialidad.
 
-Los demás miembros de la Junta de Gobierno designarán a sus respectivos suplentes, los cuales deberán estar debidamente acreditados ante la misma. Los nombres tanto del titular como del suplente serán registrados por el Prosecretario de la Junta.
+El resto de las personas integrantes de la Junta de Gobierno designarán a sus suplentes, quienes deberán contar con la acreditación ante la misma. Los nombres, tanto de la persona titular como de la suplente, serán registrados por la Prosecretaría de la Junta.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 8o.
 
-La Junta de Gobierno celebrará sesiones ordinarias dos veces cada año, de acuerdo con un calendario que será aprobado en la primera sesión del ejercicio, así como las extraordinarias que convoque su Presidente o cuando menos tres de sus miembros.
+La Junta de Gobierno celebrará sesiones ordinarias, por lo menos dos veces cada año, de acuerdo con un calendario que será aprobado en la primera sesión del ejercicio, así como las extraordinarias que convoque la persona titular de la Presidencia o cuando menos tres de sus integrantes. Las sesiones ordinarias y extraordinarias podrán llevarse a cabo de forma presencial, virtual o mixta, utilizando los medios tecnológicos institucionales.
 
-Cuando se hubiere convocado a una reunión y ésta no pudiere llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha original, previo aviso a los miembros de la Junta de Gobierno.
+Cuando se hubiere convocado a una reunión y ésta no pudiere llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha original, previo aviso a las personas integrantes de la Junta de Gobierno.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de los miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Los acuerdos se tomarán por la mayoría de los miembros presentes y el Presidente tendrá voto de calidad en caso de empate.
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más una persona integrante y siempre que la mayoría de asistentes sean representantes de la Administración Pública Federal. Los acuerdos se tomarán por la mayoría de integrantes presentes y la persona titular de la Presidencia tendrá voto de calidad en caso de empate.
 
-A las sesiones de la Junta de Gobierno asistirán, con voz pero sin voto, el Secretario, el Prosecretario y el Comisario.
+A las sesiones de la Junta de Gobierno asistirán, con voz pero sin voto, las personas titulares de la Secretaría, Prosecretaria y Comisaria Pública.
 
-La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación, docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado, quienes asistirán con derecho a voz, pero sin voto. Las invitaciones serán enviadas por el Presidente de la Junta de Gobierno, en las que se indicará el propósito de la invitación.
+La Junta de Gobierno podrá invitar a sus sesiones a representantes de instituciones de investigación, docencia o de atención médica, así como a representantes de grupos interesados de los sectores público, social y privado, quienes asistirán con derecho a voz, pero sin voto. Las invitaciones serán enviadas por la persona titular de la Presidencia de manera oficial a través de los medios electrónicos institucionales, en las que se indicará el propósito de la invitación.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 9o.
 
-Para la celebración de las sesiones de la Junta de Gobierno se emitirá convocatoria por el Presidente de la misma. A la convocatoria se acompañará el orden del día y el apoyo documental de los asuntos a tratar, los cuales se harán llegar a los miembros con una antelación no menor de cinco días hábiles.
+Para la celebración de las sesiones de la Junta de Gobierno se emitirá convocatoria por la persona titular de la Presidencia de la misma. A la convocatoria se acompañará el orden del día y el apoyo documental de los asuntos a tratar, los cuales se harán llegar a las personas integrantes con una antelación no menor de cinco días hábiles.
+
+La convocatoria e información necesaria para la celebración de las sesiones podrá ser remitida por escrito o por medios electrónicos, siempre atendiendo en este último supuesto a las disposiciones normativas vigentes para el intercambio de información oficial por medios electrónicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 10o.
 
-El Presidente de la Junta de Gobierno tendrá las atribuciones siguientes:
+La persona titular de la Presidencia de la Junta de Gobierno tendrá las atribuciones siguientes:
 
 I. Representar a la Junta de Gobierno;
 
@@ -223,9 +247,11 @@ V. Someter a votación los asuntos tratados en las sesiones y resolver los casos
 
 VI. Las demás que se consideren necesarias para el cumplimiento de las anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 11o.
 
-El Secretario de la Junta de Gobierno será un servidor público del Sector Salud, pero ajeno laboralmente al Instituto. Será nombrado y removido por la propia Junta, a propuesta de su Presidente; su cargo será honorífico, por lo que no percibirá retribución, emolumento o compensación alguna, y tendrá las siguientes funciones:
+La persona titular de la Secretaría de la Junta de Gobierno, tendrá el carácter de persona servidora pública del Sector Salud, pero ajeno laboralmente al Instituto. Será nombrada y removida por la propia Junta, a propuesta de la persona titular de la Presidencia; su cargo será honorífico, por lo que no percibirá retribución, emolumento o compensación alguna, y tendrá las siguientes funciones:
 
 I. Proponer el contenido del orden del día de las sesiones;
 
@@ -233,15 +259,19 @@ II. Revisar los proyectos de las actas de las sesiones;
 
 III. Asistir a las sesiones de la Junta con voz, pero sin voto;
 
-IV. Comunicar al Director General del Instituto y al Prosecretario para su seguimiento y ejecución, los acuerdos y resoluciones de la Junta, e informar sobre el particular al Presidente de la misma;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IV. Comunicar a la persona titular de la Dirección General del Instituto y a la Prosecretaría para su seguimiento y ejecución, los acuerdos y resoluciones de la Junta, e informar sobre el particular a la persona titular de la Presidencia de la misma;
 
 V. Firmar las actas de las sesiones, y
 
 VI. Las demás que le encomiende la Junta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 12o.
 
-La Junta de Gobierno contará con un Prosecretario, quien será un servidor público del Instituto, nombrado y removido por la propia Junta a propuesta del Director General, el que tendrá las siguientes funciones:
+La Junta de Gobierno contará con una Prosecretaría, quien será una persona servidora pública del Instituto, nombrada y removida por la propia Junta a propuesta de la persona titular de la Dirección General, y tendrá las siguientes funciones:
 
 I. Asistir a las sesiones de la Junta con voz, pero sin voto;
 
@@ -249,7 +279,9 @@ II. Elaborar y controlar la lista de asistencia de las sesiones que se celebren;
 
 III. Elaborar los proyectos de actas de las sesiones y someterlas a consideración del Secretario;
 
-IV. Remitir a los miembros de la Junta, con la oportuna anticipación la convocatoria, el orden del día, la información y documentación de apoyo necesaria sobre los asuntos que se vayan a tratar en las sesiones, previa aprobación del Director General del Instituto;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IV. Remitir a las personas integrantes de la Junta de Gobierno, con la oportuna anticipación, la convocatoria, el orden del día, la información y documentación de apoyo necesaria sobre los asuntos que se vayan a tratar en las sesiones, previa aprobación de la persona titular de la Dirección General del Instituto.
 
 V. Dar seguimiento a los acuerdos que se adopten en las sesiones e informar sobre el particular a los Comités Técnicos de Apoyo a la Junta;
 
@@ -261,19 +293,25 @@ VIII. Mantener actualizados los nombramientos de los integrantes de la Junta de 
 
 IX. Verificar que las actas de las sesiones sean firmadas por los integrantes de la Junta de Gobierno, y
 
-X. Las demás que le encomiende el Presidente de la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+X. Las demás que le encomiende la persona titular de la Presidencia de la Junta de Gobierno.
 
 ### CAPITULO III. DE LA DIRECCION GENERAL
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 13o.
 
-El Director General del Instituto ejercerá las facultades que le confiere la Ley Federal de las Entidades Paraestatales y el artículo 19 de la Ley.
+La persona titular de la Dirección General del Instituto ejercerá las facultades y cumplirá las obligaciones que le confieren y establecen los artículos 59 de la Ley Federal de las Entidades Paraestatales y 19, 54 y 56 de la Ley, así como realizar las acciones referentes a la prestación gratuita de medicamentos y demás insumos relacionados, conforme a lo dispuesto por la regulación en la materia.
 
-El Director General será designado por la Junta de Gobierno, de una terna que deberá presentarle el Presidente de la Junta. El nombramiento procederá siempre y cuando la persona reúna los requisitos establecidos en el artículo 18 de la Ley.
+La persona titular de la Dirección General será designada por la Junta de Gobierno, de una terna que deberá presentarle la persona titular de la Presidencia de la Junta, en los términos establecidos por la ley.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 14o.
 
-El Director General del Instituto durará en su cargo cinco años y podrá ser ratificado por otro período igual en una sola ocasión, siempre que en el momento de la ratificación cumpla con los requisitos a que se refiere el artículo 18 de la Ley. Podrá ser removido por causa plenamente comprobada relativa a incompetencia técnica, abandono de labores o falta de honorabilidad.
+La persona titular de la Dirección General del Instituto durará en su cargo cinco años y podrá ser ratificada por otro período igual en una sola ocasión, de acuerdo al artículo 20 de la Ley, siempre que en el momento de la ratificación cumpla con los requisitos a que se refiere el artículo 18 de la Ley. Podrá ser removida por causa plenamente comprobada relativa a incompetencia técnica, abandono de labores o falta de honorabilidad.
 
 ### CAPITULO IV. DEL PATRONATO
 
@@ -283,19 +321,25 @@ El Director General del Instituto durará en su cargo cinco años y podrá ser r
 
 El Patronato será un órgano de apoyo, asesoría y consulta, que tiene por objeto apoyar las labores de investigación, educación y atención médica del Instituto, principalmente con la obtención de recursos de origen externo.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 16o.
 
-El Patronato se integrará por un Presidente, un Secretario, un Tesorero y por los Vocales que designe la Junta de Gobierno, entre personas de reconocida honorabilidad, pertenecientes a los sectores social y privado o de la comunidad en general, con vocación de servicio, las cuales podrán ser propuestas por el Director General del Instituto o por cualquier miembro de éste.
+El Patronato se integrará por una Presidencia, una Secretaría, una Tesorería y por Vocales que designe la Junta de Gobierno, entre personas de reconocida honorabilidad, pertenecientes a los sectores social y privado o de la comunidad en general, con vocación de servicio, las cuales podrán ser propuestas por la persona titular de la Dirección General del Instituto o por cualquier persona integrante de éste.
 
-Los miembros del Patronato podrán tener un suplente que para tal efecto designe cada uno de ellos.
+Las personas integrantes del Patronato podrán tener una persona suplente que para tal efecto designe cada quien.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 17o.
 
-Los cargos del Patronato serán honoríficos, por lo que sus miembros no percibirán retribución, emolumento o compensación alguna.
+Los cargos del Patronato serán honoríficos, por lo que las personas integrantes no percibirán retribución, emolumento o compensación alguna.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 18o.
 
-El Patronato tendrá las siguientes funciones:
+El Patronato auxiliará a la Junta de Gobierno y tendrá las siguientes funciones:
 
 I. Apoyar las actividades del Instituto y formular sugerencias tendientes a su mejor desempeño;
 
@@ -303,47 +347,65 @@ II. Contribuir a la obtención de recursos que promuevan el cumplimiento de los 
 
 III. Las demás que le señale la Junta de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 19o.
 
-El presidente del Patronato, fungirá como representante de éste ante la Junta de Gobierno y será el enlace entre el Patronato y el Director General.
+La persona titular de la Presidencia del Patronato, fungirá como representante de éste ante la Junta de Gobierno y será el enlace entre el Patronato y la persona titular de la Dirección General.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 20o.
 
-El funcionamiento del Patronato y la duración de sus miembros en sus cargos se determinarán en las Reglas Internas de Operación que al efecto éste expida.
+El funcionamiento del Patronato y la duración de las personas integrantes en sus cargos se determinarán en las Reglas Internas de Operación que al efecto éste expida.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 21o.
 
-El Patronato mantendrá permanentemente informado al Director General acerca de las actividades que se realicen. Asimismo, informará al menos una vez al año, a la Junta de Gobierno acerca del desarrollo de las mismas.
+El Patronato mantendrá permanentemente informada a la persona titular de la Dirección General acerca de las actividades que se realicen. Asimismo, informará al menos una vez al año, a la Junta de Gobierno acerca del desarrollo de las mismas.
 
 ### CAPITULO V. DEL CONSEJO ASESOR EXTERNO
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 22o.
 
-El Consejo Asesor Externo del Instituto se integrará por el Director General, quien lo presidirá, y por personalidades nacionales o extranjeras del ámbito de la cardiología, quienes serán invitados por la Junta de Gobierno a propuesta del Director General.
+El Consejo Asesor Externo del Instituto se integrará por la persona titular de la Dirección General, quien lo presidirá, y por personalidades nacionales o extranjeras del ámbito de la cardiología, quienes serán invitados por la Junta de Gobierno a propuesta de la persona titular de la Dirección General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 23o.
 
 El Consejo Asesor Externo tendrá las siguientes funciones:
 
-I. Asesorar al Director General en asuntos de carácter técnico y científico;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I. Asesorar a la persona titular de la Dirección General en asuntos de carácter técnico y científico;
 
 II. Recibir información general sobre los temas y desarrollo de las investigaciones que se lleven a cabo en el Instituto;
 
-III. Proponer al Director General líneas de investigación, mejoras para el equipamiento o para la atención a pacientes, así como en la calidad y eficiencia del Instituto, y
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+III. Proponer a la persona titular de la Dirección General líneas de investigación, mejoras para el equipamiento o para la atención a personas usuarias, así como en la calidad y eficiencia del Instituto, y
 
 IV. Las demás que le encomiende la Junta de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 24o.
 
-El funcionamiento del Consejo Asesor Externo y la duración de sus miembros en sus cargos se determinará en las Reglas Internas de Operación que al efecto éste expida.
+El funcionamiento del Consejo Asesor Externo y la duración de las personas integrantes en sus cargos se determinará en las Reglas Internas de Operación que al efecto éste expida.
 
 ### CAPITULO VI. DEL CONSEJO TECNICO DE ADMINISTRACION Y PROGRAMACION
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 25o.
 
-El Instituto contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por el Director General del Instituto, quien lo presidirá, por los titulares de las direcciones Médica, de Investigación, Educación, Administración, y Enfermería del Instituto, y por un Secretario Técnico designado por el Director General.
+El Instituto contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por la persona titular de la Dirección General del Instituto, quien lo presidirá, por las personas titulares de las direcciones Médica, de Investigación, de Educación, Administración y Enfermería del Instituto, y por una Secretaría Técnica designada por la persona titular de la Dirección General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 26o.
 
@@ -357,17 +419,25 @@ III. Opinar respecto de las políticas generales y operativas de orden interno;
 
 IV. Analizar problemas relativos a aspectos o acciones comunes a diversas áreas del Instituto y emitir opinión al respecto, y
 
-V. Proponer al Director General la adopción de medidas de orden general tendientes al mejoramiento administrativo y operacional del Instituto.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+V. Proponer a la persona titular de la Dirección General la adopción de medidas de orden general tendientes al mejoramiento administrativo y operacional del Instituto.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 27o.
 
-El funcionamiento del Consejo Técnico de Administración y Programación y la duración de sus miembros en sus cargos se determinará en las Reglas Internas de Operación que al efecto expida dicho Consejo.
+El funcionamiento del Consejo Técnico de Administración y Programación y la duración de las personas integrantes en los cargos se determinará en las Reglas Internas de Operación que al efecto expida dicho Consejo.
 
 ### CAPITULO VII. DE LAS UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 28o.
 
-En apoyo del Director General, el Instituto contará con el personal de confianza para las funciones de directores, subdirectores, jefes de departamento, jefes de servicios y demás personal de confianza a que se refiere el artículo 5 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional, así como el de base que se requiera para la eficaz atención de los asuntos de su competencia, de acuerdo al presupuesto que tenga asignado.
+En apoyo a la persona titular de la Dirección General, el Instituto contará con el personal de confianza para las funciones de titulares de direcciones, subdirecciones, jefaturas de departamento, jefaturas de servicios y demás personal de confianza a que se refiere el artículo 5 de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 constitucional, así como el de base que se requiera para la eficaz atención de los asuntos de su competencia, de acuerdo al presupuesto que tenga asignado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 29o.
 
@@ -375,9 +445,15 @@ La Dirección Médica tendrá las siguientes funciones:
 
 I. Organizar, coordinar y dirigir la prestación de los servicios en materia de atención médico-quirúrgica, servicios de diagnóstico y tratamiento y servicios paramédicos; así como establecer los mecanismos para evaluar el desempeño de las áreas adscritas a la Dirección.
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I bis. Dirigir el manejo de los medicamentos de la Farmacia, con apoyo de la Subdirección de Especialidades Médico Quirúrgicas.
+
 II. Coordinar, conjuntamente con la Dirección de Enfermería, las actividades de enfermería que requieran las áreas médicas del Instituto; así como la participación de los servicios médicos en los programas de formación, capacitación y actualización que desarrolla dicha Dirección.
 
-III. Supervisar las actividades del Departamento de Trabajo Social y Admisión en materia de elaboración y actualización de estudios socioeconómicos, ingreso de pacientes a hospitalización, gestiones para el pago y cobro de servicios y de apoyo asistencial a los pacientes.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+III. Supervisar las actividades del Departamento de Trabajo Social y Admisión en materia de elaboración y actualización de estudios socioeconómicos, ingreso a pacientes al área de hospitalización, gestiones para el pago y cobro de servicios, apoyo asistencial a pacientes e identificación de pacientes no derechohabientes que gozarán de la prestación gratuita del servicio.
 
 IV. Coordinar y dirigir la aplicación de los mecanismos y procesos establecidos para la generación de la información clínica, estadística y epidemiológica del Instituto.
 
@@ -391,7 +467,9 @@ VII. Coordinar la elaboración e instrumentación de los programas dirigidos a m
 
 VIII. Evaluar las necesidades de reposición o adquisición de equipo con alto grado de desarrollo tecnológico que permita un desempeño óptimo de las actividades médicas, de investigación y de docencia, y el cumplimiento de los proyectos a su cargo.
 
-IX. Coordinar y dirigir las gestiones administrativas que realicen las áreas de su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IX. Coordinar y dirigir las gestiones administrativas que realicen las áreas a su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
 
 X. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
@@ -399,17 +477,21 @@ XI. Organizar, coordinar y participar en los comités que le sean propios.
 
 XII. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
 
-XIII. Dirigir y coordinar la atención médica para los pacientes cardiópatas afiliados al Sistema de Protección Social en Salud referidos al Instituto.
+XIII. (DEROGADA, D.O.F. 15 DE JULIO DE 2025)
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 30o.
 
 La Subdirección de Especialidades Médico Quirúrgicas tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-I. Coordinar y supervisar las actividades desarrolladas por la farmacia, la consulta externa y los servicios de hospitalización que proporcionan tratamiento médico, quirúrgico o cateterismo terapéutico a los pacientes del Instituto.
+I. Coordinar y supervisar las actividades desarrolladas por la farmacia, la consulta externa y los servicios de hospitalización que proporcionan tratamiento médico, quirúrgico o cateterismo terapéutico a personas usuarias del Instituto.
 
-II. Supervisar que los servicios a su cargo apliquen los mecanismos y procesos implementados para el diagnóstico y tratamiento médico de los pacientes, para la programación de las intervenciones quirúrgicas y hemodinámicas, y para el manejo previo y posterior a las intervenciones.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+II. Supervisar que los servicios a su cargo apliquen los mecanismos y procesos implementados para el diagnóstico y tratamiento médico a personas usuarias, para la programación de las intervenciones quirúrgicas y hemodinámicas, y para el manejo previo y posterior a las intervenciones.
 
 > <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
@@ -419,7 +501,9 @@ IV. Promover y fomentar la participación de las áreas a su cargo en el desarro
 
 V. Promover y supervisar la investigación y evaluación continua de los recursos de diagnóstico más confiables y de los métodos, sustancias y dispositivos de tratamiento con más amplio margen de seguridad y eficacia.
 
-VI. Promover el desarrollo clínico y técnico del personal de la subdirección a fin de otorgar al paciente asistencia integral de vanguardia.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VI. Promover el desarrollo clínico y técnico del personal de la subdirección a fin de otorgar asistencia médica integral de vanguardia.
 
 VII. Mantener estrecha comunicación con la Dirección de Enfermería y con el Departamento de Trabajo Social para afinar los mecanismos que agilicen y favorezcan la atención médica y el apoyo asistencial a los pacientes.
 
@@ -427,9 +511,9 @@ VII. Mantener estrecha comunicación con la Dirección de Enfermería y con el D
 
 VIII. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-IX. Coordinar y supervisar las gestiones administrativas que realicen las áreas de su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
+IX. Coordinar y supervisar las gestiones administrativas que realicen las áreas a su cargo para que éstas cumplan con las políticas y procedimientos establecidos.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -439,17 +523,21 @@ X. Participar en los Comités que le sean designados por las autoridades del Ins
 
 XI. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
 
-###### ARTICULO 31o.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 31º.
 
 La Subdirección de Servicios de Diagnóstico y Tratamiento tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-I. Coordinar y supervisar las actividades desarrolladas por ingeniería biomédica, los laboratorios y gabinetes que apoyan el diagnóstico, tratamiento y seguimiento de los pacientes del Instituto.
+I. Coordinar y supervisar las actividades desarrolladas por ingeniería biomédica, los laboratorios y gabinetes que apoyan el diagnóstico, tratamiento y seguimiento de personas usuarias del Instituto.
 
 II. Supervisar que los servicios a su cargo apliquen los mecanismos y procesos implementados para la realización de los exámenes, estudios y procedimientos que les sean propios.
 
-III. Supervisar que los médicos especialistas de los servicios a su cargo, proporcionen las interconsultas que les sean propias.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+III. Supervisar que el personal médico especialista de los servicios a su cargo, proporcionen las interconsultas que les sean propias.
 
 IV. Supervisar el aprovisionamiento, clasificación, preparación y almacenamiento de sangre y sus derivados, así como su distribución a solicitud de los distintos servicios del Instituto.
 
@@ -485,11 +573,15 @@ XII bis. Supervisar y vigilar los servicios de mantenimiento preventivo y correc
 
 XIII. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 32o.
 
 La Dirección de Investigación tendrá las siguientes funciones:
 
-I. Planear, organizar, coordinar y dirigir todas las actividades que se llevan a cabo para lograr que las investigaciones realizadas en el Instituto, apoyen el avance científico nacional e internacional, y sus resultados sean aplicados en la atención médica de los pacientes del Instituto.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I. Planear, organizar, coordinar y dirigir todas las actividades que se llevan a cabo para lograr que las investigaciones realizadas en el Instituto, apoyen el avance científico nacional e internacional, y sus resultados sean aplicados en la atención médica de personas usuarias del Instituto.
 
 II. Establecer los vínculos de coordinación para el intercambio de experiencias con instituciones nacionales y extranjeras dedicadas a la investigación.
 
@@ -499,9 +591,7 @@ III. Promover la difusión de la información técnica y científica generada en
 
 IV. Participar en el ámbito de su competencia, en el desarrollo de los programas docentes y de asistencia que lleve a cabo el Instituto.
 
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
-
-V. Participar en el ámbito de su competencia, en la evaluación de protocolos de investigación de los programas de maestría y doctorado en ciencias médicas que se imparten en el Instituto.
+V. (DEROGADA, D.O.F. 15 DE JULIO DE 2025)
 
 VI. Coordinar y dirigir las actividades tendientes a definir las necesidades de equipo especializado para el desarrollo de proyectos de investigación.
 
@@ -591,19 +681,25 @@ IX. Realizar los trabajos especiales que dentro del ámbito de su competencia, l
 
 X. Supervisar que la fabricación de bioprótesis se realice de acuerdo a las normas, políticas y lineamientos establecidos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 35o.
 
 La Dirección de Educación tendrá las siguientes funciones:
 
-I. Coordinar la operación de los mecanismos y procesos establecidos para que los cursos de las especialidades y subespecialidades que se imparten en el Instituto, se lleve a cabo conforme a los programas de estudio que les sean propios, realizando conforme a la normatividad en la materia, las gestiones necesarias para el registro y la certificación de los programas de estudio, alumnos y egresados de las mismas.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-II. Coordinar la operación de los mecanismos y procesos establecidos para que el reclutamiento y la selección de los candidatos que pretendan cursar alguna una de las especialidades o subespecialidades que se imparten en el Instituto, se realice conforme a las normas, lineamientos y políticas establecidas.
+I. Coordinar la operación de los mecanismos y procesos establecidos para que los cursos de las especialidades y subespecialidades, así como los programas de maestría y doctorado en ciencias médicas, que se imparten en el Instituto, se lleve (sic) a cabo conforme a los programas de estudio que les sean propios, realizando conforme a la normatividad en la materia, las gestiones necesarias para el registro y la certificación de los programas de estudio, alumnos y egresados de las mismas.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+II. Coordinar la operación de los mecanismos y procesos establecidos para que el reclutamiento y la selección de las personas candidatas que pretendan cursar alguna de las especialidades o subespecialidades que se imparten en el Instituto, se realice conforme a las normas, lineamientos y políticas establecidas.
 
 III. Coordinar la aplicación de los mecanismos y procesos establecidos para que la selección e integración de las plantillas del personal docente que participará en los programas de formación, se realice conforme a las normas, lineamientos y políticas establecidas tanto por el Instituto y como por las Instituciones involucradas.
 
-IV. Coordinar la operación de los mecanismos y procesos establecidos para que las rotaciones temporales que realizan en el Instituto, los médicos residentes que cursen la especialidad en otra unidad médica, se lleve a cabo conforme a las normas, lineamientos y políticas establecidas.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IV. Coordinar la operación de los mecanismos y procesos establecidos para que las rotaciones temporales que realizan en el Instituto, las personas médicas residentes que cursen la especialidad en otra unidad médica, se lleve a cabo conforme a las normas, lineamientos y políticas establecidas.
 
 V. Coordinar la integración, el análisis y la evaluación de las propuestas para incorporar a los programas de formación que se imparten, los cursos de especialidades o subespecialidades que respondan a los avances tecnológicos diagnósticos y terapéuticos en cardiología y ramas afines.
 
@@ -629,13 +725,15 @@ XI. Expedir y certificar las copias de los documentos o constancias que existan 
 
 XII. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 36o.
 
 La Subdirección de Educación Médica tendrá las siguientes funciones:
 
-I. Coordinar la operación de los mecanismos y procesos establecidos para seleccionar los temas o áreas de interés que integrarán los programas de capacitación y actualización que se imparten en el Instituto; así como para el diseño del programa, la selección de los ponentes y la obtención de los patrocinadores.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I. Coordinar la operación de los mecanismos y procesos establecidos para seleccionar los temas o áreas de interés que integrarán los programas de capacitación y actualización que se imparten en el Instituto; así como para el diseño del programa, la selección de personas ponentes y la obtención del patrocinio.
 
 II. Coordinar la operación de los mecanismos y procesos establecidos para la difusión nacional e internacional de los eventos académicos que se llevan a cabo en el Instituto.
 
@@ -645,9 +743,13 @@ IV. Coordinar la operación de los mecanismos y procesos establecidos para que l
 
 V. Coordinar la aplicación de los mecanismos y procesos establecidos para que la selección e integración de las plantillas del personal docente que participará en los programas de pregrado, se realice conforme a las normas, lineamientos y políticas establecidas tanto por el Instituto y como por las Instituciones involucradas.
 
-VI. Coordinar la operación de los mecanismos y procesos establecidos para realizar conforme a la normatividad en la materia, las gestiones necesarias para el registro y acreditación de los cursos y prácticas que realizan los alumnos de pregrado.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-VII. Apoyar los procesos de reclutamiento y selección de los candidatos que pretendan cursar alguna de las especialidades o subespecialidades que se imparten en el Instituto; así como la integración de las plantillas del personal docente que las imparte.
+VI. Coordinar la operación de los mecanismos y procesos establecidos para realizar conforme a la normatividad en la materia, las gestiones necesarias para el registro y acreditación de los cursos y prácticas que realizan personas estudiantes de pregrado.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VII. Apoyar los procesos de reclutamiento y selección de las personas candidatas que pretendan cursar alguna de las especialidades o subespecialidades que se imparten en el Instituto; así como la integración de las plantillas de las personas servidoras públicas en docencia que las imparte.
 
 > <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
@@ -661,23 +763,33 @@ XI. Representar al Instituto en los foros que le sean propios y participar en lo
 
 XII. Realizar los trabajos especiales que dentro del ámbito de su competencia, le sean solicitados por las autoridades del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 37o.
 
 La Dirección de Enfermería tendrá las siguientes funciones:
 
-I. Dirigir y supervisar las actividades asistenciales, docentes, investigación y administrativas de las áreas de enfermería adscritas a la Dirección con la finalidad de garantizar una atención integral a todos los pacientes del Instituto.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-II. Establecer el índice enfermera-paciente de acuerdo a las necesidades de cada uno de los servicios y a los análisis de puestos de cada categoría.
+I. Dirigir y supervisar las actividades asistenciales, docentes, de investigación y administrativas de las áreas de enfermería adscritas a la Dirección con la finalidad de garantizar una atención integral humanística y de calidad a personas usuarias del Instituto.
 
-III. Planear, organizar, asesorar y evaluar los recursos humanos e instrumentos de planeación, estructura y evaluación necesarios para que se lleven a cabo las acciones de enfermería, en la asistencia al enfermo.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-IV. Dirigir, supervisar y evaluar la calidad de las actividades asistenciales desarrolladas por el personal de enfermería en la atención al paciente a fin de coadyuvar al cumplimiento de los objetivos institucionales.
+II. Establecer el índice de personas servidoras públicas de enfermería - paciente de acuerdo a las necesidades de cada uno de los servicios y a los análisis de puestos de cada categoría.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+III. Planear, organizar, asesorar y evaluar los recursos humanos e instrumentos de planeación, estructura y evaluación necesarios para que se lleven a cabo las acciones de enfermería, en la asistencia a personas usuarias.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IV. Dirigir, supervisar y evaluar la calidad de las actividades asistenciales desarrolladas por el personal de enfermería en la atención a pacientes a fin de coadyuvar al cumplimiento de los objetivos institucionales.
 
 V. Dirigir programas tácticos y programas operativos encaminados a desarrollar procesos de mejora para elevar la calidad del cuidado que ejerce el personal de enfermería que labora en la Institución.
 
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-VI. Proponer instrumentos administrativos de organización de las actividades asistenciales, docentes, administrativas y de investigación de cada uno de los profesionales que conforman la plantilla del personal de Enfermería.
+VI. Proponer instrumentos administrativos de organización de las actividades asistenciales, docentes, administrativas y de investigación de cada persona profesional que conforma la plantilla de enfermería.
 
 > <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -685,9 +797,9 @@ VII. Proponer y aprobar los mecanismos necesarios para establecer las especifica
 
 VIII. Planear, organizar, dirigir y evaluar la capacitación y educación continua del personal de enfermería.
 
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-IX. Conducir la formación de recursos humanos de enfermería de excelencia: licenciados en enfermería que otorguen cuidados de calidad, bilingües y con conocimientos en informática; enfermeras cardiológicas y enfermeras nefrológicas de nivel posgrado; enfermeras administradoras en los servicios de enfermería y enfermeras en circulación extracorpórea en nivel postécnico y maestros en administración de los servicios de salud.
+IX. Conducir la formación de recursos humanos de enfermería con excelencia en: la licenciatura que otorguen cuidados de calidad, bilingües y con conocimientos en informática; profesionales cardiológicas y nefrológicas de nivel posgrado; profesionales administradoras en los servicios; profesionales en circulación extracorpórea en nivel postécnico y maestrías en administración de los servicios de salud.
 
 > <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -695,29 +807,39 @@ X. Proponer y promover la investigación de enfermería en el campo clínico, do
 
 XI. Dirigir y evaluar las actividades de investigación de acuerdo a las normas Institucionales y los recursos financieros, humanos y logísticos.
 
-XII. Participar en los comités que le sean designados por las autoridades del Instituto y realiza los trabajos especiales que dentro del ámbito de su competencia que le sean solicitados por las autoridades del Instituto.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+XII. Participar en los comités que le sean designados por las autoridades del Instituto y realizar los trabajos especiales que dentro del ámbito de su competencia le sean solicitados por las autoridades del Instituto.
 
 > <small>(ADICIONADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
 XIII. Administrar el funcionamiento de albergues de pacientes y familiares del Instituto.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-XIV. Conducir el programa del voluntariado, sigamos aprendiendo y de apoyo espiritual a pacientes y sus familiares.
+XIV. Conducir los programas de enfermería para la atención integral de pacientes y sus familiares: Tanatología, Pedagogía Hospitalaria, Pastoral y Voluntariado.
 
 > <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
 
 XV. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 38o.
 
 La Dirección de Administración tendrá las siguientes funciones:
 
-> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 15 DE JULIO DE 2025)</small>
 
 I. Planear, organizar, coordinar y dirigir los sistemas y procesos inherentes a la administración de los recursos humanos, materiales y financieros del Instituto, para que éstos sean proporcionados con oportunidad y eficiencia, de acuerdo a la Ley Federal de Austeridad Republicana, normatividad vigente y a las políticas internas establecidas.
 
-II. Coordinar y dirigir los sistemas y procesos inherentes a la integración, gestión, ejercicio, evaluación y control del presupuesto anual del Instituto y de las metas programáticas autorizadas, de acuerdo a la normatividad vigente y a las políticas internas establecidas.
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I Bis. Participar en todas aquellas acciones que conforme a las diversas leyes, reglamentos, acuerdos, lineamientos y demás disposiciones, deba realizar en su calidad de oficial mayor o equivalente, conforme al ámbito de su competencia.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+II. Coordinar y dirigir los sistemas y procesos inherentes a la integración, gestión, ejercicio, evaluación y control del presupuesto anual del Instituto de acuerdo a (sic) normatividad vigente y a las políticas internas establecidas.
 
 III. Cuidar el ejercicio del presupuesto, definiendo en su caso los mecanismos de contención de costos, así como coordinar y dirigir su instrumentación una vez que sean aprobados por la Dirección General.
 
@@ -725,7 +847,9 @@ IV. Coordinar y dirigir los sistemas y procesos inherentes a la evaluación sist
 
 V. Planear, organizar, coordinar y dirigir la definición y aplicación de lineamientos para la elaboración de los instrumentos técnico-administrativos que coadyuven a la administración de los recursos disponibles.
 
-VI. Coordinar, organizar y dirigir el análisis, instrumentación, ejecución, seguimiento y evaluación de los programas de gobierno que soliciten las dependencias globalizadoras, de acuerdo con los lineamientos y el marco normativo aplicable.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VI. Participar en la instrumentación, ejecución, seguimiento y evaluación de los programas de gobierno que soliciten las instancias facultadas en la materia, de acuerdo con los lineamientos y el marco normativo aplicable.
 
 VII. Coordinar la emisión y entrega de los reportes periódicos y extraordinarios que se generen en las áreas a su cargo, para que éstas cumplan con los requerimientos de las instancias normativas.
 
@@ -735,6 +859,10 @@ IX. Promover y dirigir los programas para la capacitación y el desarrollo de lo
 
 X. Integrar y proponer o analizar y evaluar las propuestas de reorganización interna, así como coordinar y dirigir las gestiones para modificar la estructura orgánica del Instituto, en apego a la normatividad vigente y a las políticas internas establecidas.
 
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+X Bis. Supervisar la emisión de los informes correspondientes al Comité Interno de Vigilancia del Uso Adecuado de los Recursos Destinados a la Investigación.
+
 XI. Representar al Instituto en los foros que le sean propios, así como coordinar y participar en los comités que le sean designados.
 
 XII. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
@@ -742,6 +870,8 @@ XII. Expedir y certificar las copias de los documentos o constancias que existan
 XIII. Ejercer los poderes y facultades que le sean conferidos dentro del ámbito de su competencia.
 
 XIV. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 39o.
 
@@ -757,7 +887,9 @@ III. Supervisar la correcta elaboración de la nómina, la aplicación de todas 
 
 IV. Coordinar y manejar las relaciones laborales con la representación sindical del Instituto, vigilando que se cumpla con lo establecido en las condiciones generales del trabajo, en apego a la normatividad vigente y a las políticas internas establecidas.
 
-V. Supervisar y vigilar que las sanciones administrativas que se apliquen al personal del Instituto, se apeguen a la normatividad y legislación laboral vigente, y que estén debidamente soportados los expedientes del personal a quienes se rescinda su relación laboral con el Instituto.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+V. Supervisar la debida ejecución de sanciones administrativas que emita la autoridad competente sobre las personas servidoras públicas del Instituto, y en el caso de que éstas deriven de una rescisión, se verifique que los expedientes se encuentren debidamente integrados.
 
 VI. Supervisar la correcta operación e integración del archivo de personal, con objeto de contar con la historia laboral y los datos personales que sirven para analizar el desempeño y la conducta observada de la planta laboral del Instituto, vigilando que se realice en apego a la normatividad vigente y a las políticas internas establecidas.
 
@@ -767,7 +899,9 @@ VIII. Coordinar, supervisar y vigilar que la emisión y entrega de los reportes 
 
 IX. Gestionar las propuestas de adecuación a la estructura orgánica, integrando todos los documentos que la soporten y vigilando que éstos cumplan con la normatividad vigente.
 
-X. Coordinar con la Subdirección de Recursos Materiales la compra de los consumibles utilizados en la subdirección, así como de los vales de despensa, seguros inherentes al personal y uniformes secretariales, en apego a la normatividad vigente y a las políticas internas establecidas.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+X. Coordinar con la Subdirección de Recursos Materiales la adquisición de los consumibles utilizados en la Subdirección, así como vestuario y equipo de protección y la contratación de suministro de vales de despensa y los seguros inherentes al personal, en apego a la normatividad vigente y a las políticas internas establecidas.
 
 XI. Supervisar, vigilar y organizar conforme a la norma respectiva, el archivo y la custodia de la documentación relacionada con sus funciones, para preparar y proporcionar en tiempo y forma la información que institucionalmente le sea requerida.
 
@@ -776,6 +910,18 @@ XII. Supervisar y validar los proyectos y/o actualización de manuales, reglamen
 XIII. Participar en los diversos comités que le sean designados por las autoridades del Instituto.
 
 XIV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+XV. Supervisar y vigilar que las actividades inherentes al levantamiento de actas administrativas, la elaboración, emisión y autorización de los citatorios que se expidan a las personas servidoras públicas que sean participe en algún supuesto que establece la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional, como lo disponen las Condiciones Generales de Trabajo para la Secretaria de Salud, vigilando que el proceso para la integración, autorización, seguimiento y sanción de procedimientos administrativos, se realicen de acuerdo a la normatividad vigente en la materia.
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+XVI. Supervisar y vigilar los procesos correspondientes al levantamiento de actas administrativas
+
+> <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+XVII. Expedir y certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda o a petición de autoridad competente.
 
 ###### ARTICULO 40o.
 
@@ -805,41 +951,49 @@ X. Participar en los diversos comités que le sean designados por las autoridade
 
 XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 41o.
 
-La Subdirección de Recursos Materiales tendrá las siguientes funciones:
-
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+La Subdirección de Recursos Materiales y Servicios Generales tendrá las siguientes funciones:
 
 I. Revisar, validar y proponer para su autorización el Programa Anual de Adquisiciones, Arrendamientos y Servicios.
 
-II. (DEROGADA, D.O.F. 2 DE NOVIEMBRE DE 2016)
+II. Coadyuvar en la elaboración del Programa Operativo Anual del Instituto, en lo relativo a su área de competencia.
 
-III. Coadyuvar en la elaboración del Programa Operativo Anual del Instituto, en lo relativo a su área de competencia.
+III. Coordinar y supervisar las funciones de las áreas de adquisiciones; almacén, activo fijo; intendencia; lavandería; mantenimiento; conservación y construcción; dietética y nutrición; y de seguridad y servicios, así como evaluar que se realicen de acuerdo a sus programas de trabajo y a los manuales de procedimientos respectivos.
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
+IV. Supervisar que la ejecución del Programa Anual de Adquisiciones se desarrolle acorde al presupuesto autorizado.
 
-IV. Coordinar y supervisar las funciones de las áreas de adquisiciones, almacenes y de activo fijo y evaluar que se realicen de acuerdo a sus programas de trabajo y a los manuales de procedimientos respectivos.
+V. Supervisar, conforme a las disposiciones vigentes, los procesos de adjudicación para la adquisición de bienes y la contratación de servicios requeridos.
 
-V. Supervisar que la ejecución del Programa Anual de Adquisiciones se desarrolle acorde al presupuesto autorizado.
+VI. Supervisar el suministro de los bienes que requieran las áreas del Instituto, para el desarrollo de sus funciones.
 
-VI. Supervisar, conforme a las disposiciones vigentes, los procesos de adjudicación para la adquisición de bienes y la contratación de servicios requeridos.
+VII. Coordinar y supervisar la aplicación del programa de levantamiento y actualización del inventario físico del Instituto.
 
-VII. Supervisar el suministro de los bienes que requieran las áreas del Instituto, para el desarrollo de sus funciones.
+VIII. Supervisar la elaboración de los contratos de comodato, depósito y distribución, equipo en demostración y arrendamiento.
 
-VIII. Coordinar y supervisar la aplicación del programa de levantamiento y actualización del inventario físico del Instituto.
+IX. Participar en la elaboración del anteproyecto anual de programa-presupuesto del Instituto.
 
-IX. Supervisar la elaboración de los contratos de comodato, depósito y distribución, equipo en demostración y arrendamiento.
+X. Coordinar y supervisar el manejo de Residuos Peligrosos Biológico Infecciosos requeridos por las diversas áreas del Instituto.
 
-X. Coordinar la integración de la documentación que corresponda a las sesiones de los comités y participar activamente en los que le instruyan las autoridades del Instituto.
+XI. Supervisar y evaluar la prestación de servicios de vigilancia, seguridad, mensajería, transporte y otros servicios de apoyo que se otorga a cada una de las áreas del Instituto, a fin de que se realicen en apego a la normatividad vigente.
 
-XI. Supervisar y aprobar, en coordinación con la Subdirección de Planeación, los proyectos de manuales de procedimientos, de organización, reglamentos, instructivos y programas inherentes a las funciones del área de su competencia.
+XII. Verificar y evaluar los servicios de mantenimiento, conservación y construcción del mobiliario, equipo, planta física e instalaciones de este Instituto.
 
-XII. Proporcionar con oportunidad y veracidad la información que se requiera para analizar y evaluar los resultados alcanzados en el ámbito de su competencia y verificar el cumplimiento de las funciones asignadas.
+XIII. Verificar y evaluar el suministro de los servicios de alimentación y dietética proporcionados a los pacientes, personal, donadores de sangre y usuarios de la cafetería, a fin de que se realicen con calidad y en apego a la normatividad vigente.
 
-XIII. Apoyar, dentro del ámbito de su competencia, en la recepción y atención de solicitudes de información para dar cumplimiento a la Ley de Transparencia y Acceso a la Información Pública Gubernamental.
+XIV. Supervisar y vigilar los servicios de lavandería, ropería y costura que se proporciona a los pacientes y personal de este Instituto, como apoyo básico para el quehacer institucional.
 
-XIV. Las demás funciones que le asignen las autoridades del Instituto dentro del ámbito de su competencia.
+XV. Supervisar la correcta ejecución de los Programas Anuales de Obras Públicas.
+
+XVI. Supervisar la correcta programación, ejecución y cumplimiento de los Programas Anuales de Contratación de Servicios y de Obras Públicas.
+
+XVII. Coordinar la integración de la documentación que corresponda a las sesiones de los comités y participar activamente en los que le instruyan las autoridades del Instituto.
+
+XVIII. Proporcionar con oportunidad y veracidad la información que se requiera para analizar y evaluar los resultados alcanzados en el ámbito de su competencia y verificar el cumplimiento de las funciones asignadas.
+
+XIX. Las demás funciones que le asignen las autoridades del Instituto dentro del ámbito de su competencia.
 
 ###### ARTICULO 42o.
 
@@ -847,37 +1001,9 @@ XIV. Las demás funciones que le asignen las autoridades del Instituto dentro de
 
 ###### ARTICULO 43o.
 
-La Subdirección de Servicios Generales tendrá las siguientes funciones:
+(DEROGADO, D.O.F. 15 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
-
-I. Coordinar y supervisar las actividades de intendencia; lavandería; mantenimiento, conservación y construcción; dietética y nutrición y de seguridad y servicios.
-
-II. Participar en la elaboración del anteproyecto anual de programa-presupuesto del Instituto en lo relativo a servicios generales.
-
-III. Coordinar y supervisar el suministro de los servicios de intendencia y el manejo de Residuos Peligrosos Biológico Infecciosos requeridos por las diversas áreas del Instituto.
-
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2021)</small>
-
-IV. Supervisar y evaluar la prestación de servicios de vigilancia, seguridad, mensajería, transporte y otros servicios de apoyo que se otorga a cada una de las áreas del Instituto, a fin de que se realicen en apego a la normatividad vigente.
-
-V. Verificar y evaluar los servicios de mantenimiento, conservación y construcción del mobiliario, equipo, planta física e instalaciones de este Instituto.
-
-VI. (DEROGADA, D.O.F. 31 DE MARZO DE 2021)
-
-VII. Verificar y evaluar el suministro de los servicios de alimentación y dietética proporcionados a los pacientes, personal, donadores de sangre y usuarios de la cafetería, a fin de que se realicen con calidad y en apego a la normatividad vigente.
-
-VIII. Supervisar y vigilar los servicios de lavandería, ropería y costura que se proporciona a los pacientes y personal de este Instituto, como apoyo básico para el quehacer institucional.
-
-IX. Vigilar que las actividades implementadas en cada una de las áreas adscritas a la Subdirección de Servicios Generales, se desarrollen acorde al presupuesto autorizado, dentro del marco normativo aplicable y a las políticas internas establecidas.
-
-X. Coadyuvar en el proceso de adquisiciones, arrendamientos y obras públicas, a fin de asegurar su desarrollo transparente.
-
-> <small>(REFORMADA, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
-
-XI. Supervisar la correcta programación, ejecución y cumplimiento de los Programas Anuales de Contratación de Servicios y de Obras Públicas.
-
-XII. Participar en los diversos comités que le sean señalados por la normatividad vigente, así como los designados por las autoridades del Instituto.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 44o.
 
@@ -895,7 +1021,9 @@ V. Supervisar y coordinar la aplicación de los sistemas que se operan en la sub
 
 VI. Apoyar en la asignación y utilización del auditorio y de las aulas del Instituto; la asignación y utilización del equipo audiovisual y la elaboración del material requerido para la realización de eventos, así como el apoyo logístico para la realización de los mismos, de acuerdo con las políticas internas establecidas.
 
-VII. Analizar, evaluar y coordinar las actividades de asesoría que se brindan a los diferentes usuarios del Instituto para la implantación y explotación de los sistemas computacionales obtenidos en forma externa para el desarrollo de las interfases, de acuerdo con las políticas internas establecidas.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VII. Analizar, evaluar y coordinar las actividades de asesoría que se brindan a los diferentes usuarios del Instituto para la implantación y explotación de los sistemas computacionales obtenidos en forma externa para el desarrollo de las interfaces, de acuerdo con las políticas internas establecidas.
 
 VIII. Supervisar la aplicación de las políticas institucionales relacionadas con el desarrollo y la operación de los sistemas, de los equipos e instalaciones informáticos y de telecomunicaciones; así como del soporte técnico a usuarios, y el respaldo y resguardo de la información electrónica.
 
@@ -913,39 +1041,63 @@ XIV. Representar al Instituto en los foros relacionados con Informática y Telec
 
 XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
 
-> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ARTICULO 44o BIS. La Subdirección de Planeación tendrá las siguientes funciones:
 
-I. Supervisar y vigilar que las actividades inherentes a la integración, autorización, seguimiento y evaluación de las metas programáticas, indicadores de gestión y registro en cartera de programas y proyectos de Inversión se realicen de acuerdo a los lineamientos establecidos y a la normatividad en la materia.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I. Supervisar y vigilar que las actividades inherentes a la integración, autorización, seguimiento y evaluación de las metas programáticas, indicadores de gestión y registro en cartera de programas y/o proyectos de inversión se realicen de acuerdo con la normatividad en la materia.
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 II. Supervisar y vigilar que las actividades inherentes a la evaluación de los resultados obtenidos por las áreas que realizan funciones sustantivas y la integración de los informes de evaluación, se realicen en tiempo y forma, de acuerdo con la normatividad vigente y a las políticas internas establecidas.
 
-III. Supervisar la elaboración y entrega oportuna de los informes periódicos y reportes especiales que se deriven de la información institucional, vigilando que cumplan con el marco normativo vigente.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-IV. Supervisar el análisis, instrumentación, ejecución, seguimiento, evaluación y control, de los programas que soliciten las dependencias globalizadoras, verificando que se realicen en apego al marco normativo aplicable y a los lineamientos internos establecidos.
+III. Supervisar la elaboración y entrega oportuna de los informes periódicos y reportes especiales que se deriven de la información institucional, en su ámbito de competencia, vigilando que cumplan con el marco normativo vigente.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IV. Coordinar el análisis, seguimiento, evaluación y control, de los programas que soliciten las dependencias globalizadoras, verificando que se realicen en apego al marco normativo aplicable y a los lineamientos internos establecidos.
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 V. Supervisar la edición de los proyectos y/o actualización de los manuales de organización y procedimientos que sean elaborados por las áreas del Instituto, así como validar los proyectos y/o actualización de manuales, reglamentos instructivos y programas inherentes a las funciones que le sean propias, verificando que cumplan con la normatividad establecida.
 
-VI. Supervisar el funcionamiento de los sistemas y procesos implementados para la operación y el mantenimiento del Sistema de Costos Unitarios.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-VII. Supervisar la recolección e integración de la información estadística y cualitativa, que permite analizar y evaluar los resultados obtenidos por las áreas que realizan funciones sustantivas, así como definir las metas programáticas y los indicadores de gestión, vigilando que se realice en los tiempos y términos establecidos.
+VI. Coadyuvar y vigilar el mantenimiento del Sistema de Costos Unitarios.
 
-VIII. Supervisar, vigilar y organizar conforme a la norma respectiva, el archivo y la custodia de la documentación e informes relacionados con sus funciones.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VII. Supervisar la recolección e integración de la información estadística y cualitativa, que permita analizar y evaluar los resultados obtenidos por las áreas que realizan funciones sustantivas, así como coordinar la definición de metas programáticas y los indicadores de gestión, vigilando que se realice en los tiempos y términos establecidos.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VIII. Supervisar, vigilar y organizar conforme a la normatividad vigente, el archivo de concentración y la custodia de la documentación e informes relacionados con sus funciones.
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 IX. Supervisar y vigilar el desarrollo de las auditorías que se practiquen en dicha subdirección.
 
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 X. Participar en los diversos comités que le sean designados por las autoridades del Instituto.
 
-XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+XI. Elaborar y/o supervisar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
 
 ### CAPITULO VIII. DE LAS COMISIONES Y COMITES
 
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 45o.
 
-Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
+La Junta de Gobierno tiene la facultad de autorizar la creación de las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ARTICULO 45o BIS. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
 
@@ -993,17 +1145,21 @@ Comisión Mixta para la Evaluación del Desempeño y Productividad en el Trabajo
 
 Comisión de Vivienda que realizará las funciones indicadas en los Lineamientos Generales para la Asignación y Administración de la Unidad Habitacional para el Personal de Investigación del Instituto Nacional de Cardiología
 
-> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-Comité Hospitalario de Bioética, con fundamento en el artículo 41 bis, fracción I de la Ley General de Salud, para la resolución de los problemas derivados de la atención médica a que se refiere el artículo 33 de la Ley General de Salud; así como para el análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud, así como promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, promoverá la educación bioética permanentemente de sus miembros y del personal del Instituto.
+Consejo Académico cuyo objetivo es fortalecer la formación y capacitación de recursos humanos de alta especialidad, en cardiología y disciplinas a fines (sic) y que realizará las funciones que señala su manual de integración y funcionamiento.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
+Comité Hospitalario de Bioética, con fundamento en el artículo 41 bis, fracción I de la Ley General de Salud, para la resolución de los problemas derivados de la atención médica a que se refiere el artículo 33 de la Ley General de Salud; así como para el análisis, discusión y apoyo en la toma de decisiones respecto a los problemas bioéticos que se presenten en la práctica clínica o en la docencia que se imparte en el área de salud, así como promover la elaboración de lineamientos y guías éticas institucionales para la atención y la docencia médica. Asimismo, promoverá la educación bioética permanentemente de sus integrantes y del personal del Instituto.
 
 > <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
 Comité de Investigación, con fundamento en el artículo 98 fracción I de la Ley General de Salud y el artículo 111 del Reglamento de la Ley General de Salud en Materia de Investigación para la Salud, evaluará la calidad técnica y el mérito científico de la investigación propuesta, formulando la opinión correspondiente, y emitirá el dictamen que, en su caso, debe contener la opinión de los Comités de Ética en Investigación y de Bioseguridad.
 
-> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-Comité de Ética en Investigación, con fundamento en el artículo 98, fracción II, de la Ley General de Salud y el artículo 109 del Reglamento de la Ley General de Salud en Materia de Investigación para la Salud, evaluará y dictaminará los protocolos de investigación en seres humanos, formulando las recomendaciones de carácter ético procedentes, para lo cual revisará los riesgos y los beneficios de la investigación, así como la carta del consentimiento informado del sujeto que será objeto de la investigación, entre otros elementos, para garantizar el bienestar y los derechos de los sujetos de investigación, así como dar seguimiento a dichas recomendaciones. Asimismo, elaborará los lineamientos y guías éticas para la realización de investigación en seres humanos del Instituto.
+Comité de Ética, tendrá las funciones que establece el Acuerdo por el que se emiten los Lineamientos Generales para la integración y funcionamiento de los Comités de Ética.
 
 > <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
 
@@ -1037,9 +1193,9 @@ Comité de Mortalidad Hospitalaria tendrá las funciones que señala su Manual d
 
 Comité de Bienes Muebles, tendrá las funciones que le señalan el artículo 141 de la Ley General.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-Comité de Transparencia, tendrá las funciones establecidas en el artículo 44 de la Ley General de Transparencia y Acceso a la Información Pública, así como lo referido en el artículo 65 de la Ley Federal de Transparencia y Acceso a la Información Pública.
+Comité de Transparencia, tendrá las funciones establecidas en el artículo 40 de la Ley General de Transparencia y Acceso a la Información Pública.
 
 > <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
@@ -1067,9 +1223,13 @@ Comité de Innovación y Desarrollo Tecnológico, efectuará las funciones que i
 
 > <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-Comité de Fármaco y Tecnovigilancia, ejecutará las funciones que indica la NORMA Oficial Mexicana NOM-220-SSA1-2016, Instalación y operación de la farmacovigilancia y la NORMA Oficial Mexicana NOM-240-SSA1-2012, Instalación y operación de la tecnovigilancia
+Comité de Fármacovigilancia y Tecnovigilancia, ejecutará las funciones que indica la NORMA Oficial Mexicana NOM-220-SSA1-2016, Instalación y operación de la farmacovigilancia y la NORMA Oficial Mexicana NOM-240-SSA1-2012, Instalación y operación de la tecnovigilancia
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
+Comité de Mejora Regulatoria Interna, a fin de fortalecer la mejora y modernización de la gestión institucional, mediante el cumplimiento de la mejora y simplificación de procesos y del marco normativo, con acciones que apoyen el uso adecuado de recursos, cumplimiento de objetivos y la eliminación de márgenes de discrecionalidad.
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
@@ -1089,9 +1249,17 @@ Subcomité del Grupo Operativo de Cirugía, tendrá las funciones que establece 
 
 > <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-Subcomité de Evaluación de la Satisfacción del Usuario, tendrá las funciones que establece su Manual de Integración y Funcionamiento
+Subcomité de Trasplante Cardiaco para evaluar y presentar personas receptoras y candidatas, así como proporcionar la información necesaria a persona responsable sanitaria, relativo a los trasplantes cardiacos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
+Subcomité de Trasplante Renal para evaluar y presentar personas receptoras y candidatas, así como proporcionar la información necesaria a persona responsable sanitaria, relativo a los trasplantes renales
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
+Subcomité de Evaluación de Satisfacción de las Personas Usuarias, tendrá las funciones que establece su Manual de Integración y Funcionamiento.
 
 > <small>(DEROGADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
@@ -1103,11 +1271,17 @@ Subcomité de Reporte, Seguimiento y Prevención de Eventos Adversos, tendrá la
 
 > <small>(DEROGADO, D.O.F. 14 DE JULIO DE 2017)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-Subcomité Revisor de Convocatorias, tendrá la función de vigilar que las mismas contengan los requisitos que señalan el artículo 29 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+Subcomité Revisor de Convocatorias, tendrá la función de vigilar que las mismas contengan los requisitos que señalan el artículo 29 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás disposiciones jurídicas aplicables.
 
-(Aprobado en la 1ª. Sesión ordinaria de la Junta de Gobierno, celebrada el 3 de mayo de 2016)
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
+Subcomité Revisor de Convocatorias de Obras Públicas y Servicios Relacionados con las Mismas, tendrá las funciones que establece la Ley de Obras Públicas y Servicios relacionada con las mismas y su reglamento.
+
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 2025)</small>
+
+Grupo Interdisciplinario de Archivos con la finalidad de coadyuvar en la valoración documental institucional.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1119,17 +1293,17 @@ Subcomité Revisor de Convocatorias, tendrá la función de vigilar que las mism
 
 Con el propósito de brindar atención especializada de una determinada patología cardiovascular, el Instituto podrá crear e instaurar clínicas de atención.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 47o.
 
-La misión de las clínicas es mantener el liderazgo en el campo de la cardiología, con respeto y presencia nacional e internacional en la educación, investigación y docencia.
+La misión de las clínicas es mantener el liderazgo en el campo de la cardiología, con respeto y presencia nacional e internacional en la educación e investigación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 48o.
 
-Dichas clínicas proporcionarán atención cardiovascular de alta especialidad, con criterios uniformes consensados en medicina basada en la evidencia, para mejor atención de los enfermos, formación de profesionales y desarrollo de investigación.
+Dichas clínicas proporcionarán atención cardiovascular de alta especialidad, con criterios uniformes consensados en medicina basada en la evidencia, para mejorar la atención médica especializada de las personas usuarias, formación de personas profesionales y desarrollo de investigación.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1137,11 +1311,13 @@ Dichas clínicas proporcionarán atención cardiovascular de alta especialidad, 
 
 El objetivo de las clínicas es identificar pacientes con patologías específicas para generar bases de datos y protocolos de investigación, que resuelvan problemas específicos de la población, que permitan brindar atención especializada y contribuir a la formación de profesionales especializados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 50o.
 
-El Instituto cuenta (sic) las clínicas que a continuación se mencionan:
+El Instituto cuenta con las clínicas que a continuación se mencionan:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 I. Clínica de Complejo Aórtico
 
@@ -1149,15 +1325,27 @@ I. Clínica de Complejo Aórtico
 
 II. Clínica de Cardiopatías Congénitas
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
 III. Clínica de Insuficiencia Cardiaca
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 IV. Clínica de Trasplante Cardiaco
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
 V. Clínica de Anticoagulante
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 VI. Clínica de Cirugía Electiva
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
 VII. Clínica de Cardiopatía y Embarazo
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 VIII. Clínica de Cardiología Geriátrica
 
@@ -1165,15 +1353,21 @@ VIII. Clínica de Cardiología Geriátrica
 
 IX. Clínica de Cardiopatía Isquémica
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
 X. Clínica de Miocardiopatías
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 XI. Clínica de Cardio Oncología
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
 XII. Clínica de Cardiopatías Valvulares
 
-> <small>(REFORMADA, D.O.F. 11 DE JULIO DE 2019)</small>
+XIII. (DEROGADA, D.O.F. 15 DE JULIO DE 2025)
 
-XIII. Clínica de Hipertensión Arterial Sistémica
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 XIV. Clínica de Prevención y Factores de Riesgo
 
@@ -1181,119 +1375,161 @@ XIV. Clínica de Prevención y Factores de Riesgo
 
 XV. Clínica de Síndrome Disautonómico
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 51o.
 
-Los pacientes son evaluados por medio de examen físico, estudios de laboratorio y gabinete, sustancias o elementos presentes en su organismo, a fin de establecer un diagnóstico especializado y para el ingreso a las clínicas.
+A cada persona usuaria se le evalúa por medio de examen físico, estudios de laboratorio y gabinete, sustancias o elementos presentes en su organismo, a fin de establecer un diagnóstico especializado y para el ingreso a las clínicas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 52o.
 
 Las funciones de las clínicas son:
 
-I. Identificar a los pacientes que por su patología son de interés, de acuerdo a las líneas de investigación del Instituto;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+I. Identificar a las personas usuarias que por su patología son de interés, de acuerdo a las líneas de investigación del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 II. Brindar atención médica cardiológica uniforme y de calidad;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
+
 III. Formar profesionales de alta especialidad; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 IV. Contribuir al desarrollo de investigación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 53o.
 
-Para la operación de las clínicas:
+Para la operación de las clínicas de atención especializada en la Consulta Externa:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 I. Todas las clínicas se coordinarán con la Consulta Externa;
 
-II. Contarán con un encargado y un equipo multidisciplinario de profesionales, que podrá comprender médicos, enfermeras y personal administrativo, entre otros.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
 
-III. El encargado de cada clínica será designado por el Titular de la Consulta Externa.
+II. Contarán con una persona encargada y un equipo multidisciplinario de personas profesionales, que podrán comprender personas del área médica, de enfermería y administrativa, entre otros.
+
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+III. La persona encargada de cada clínica será designada por la persona titular de la Consulta Externa.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 IV. Elaborarán los criterios de inclusión de pacientes.
 
-V. A los pacientes que ingresen por primera vez al Instituto, para la atención en alguna clínica, se les deberá realizar estudio socioeconómico para la apertura del expediente clínico.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+V. A cada paciente que ingrese por primera vez al Instituto, para la atención en alguna clínica, se le iniciará un expediente clínico, y en su caso se le realizará un estudio socioeconómico.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 12 DE MARZO DE 2018)</small>
 
 VI. Toda información derivada por la atención de las clínicas, debe ser concentrará (sic) en el expediente clínico de cada paciente, conforme a la normatividad vigente.
 
-VII. Es obligación de Trabajo Social y Admisión verificar que todos los pacientes de las clínicas cuenten con expediente clínico.
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+VII. Es obligación de las personas servidoras públicas de Trabajo Social y Admisión verificar que cada paciente de las clínicas cuente con expediente clínico.
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO IX], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### CAPITULO X. DE LOS ORGANOS DE VIGILANCIA, CONTROL Y EVALUACION
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 46], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 54o.
 
-El órgano de vigilancia se integra por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
+El órgano de vigilancia del Instituto estará integrado por la persona Delegada y Comisaria Pública, titular de la Dirección General de Prevención de la Corrupción y Mejora Continua 1, de la Secretaría Anticorrupción y Buen Gobierno, quien ejercerá el cargo con carácter de propietaria.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 47], D.O.F. 12 DE MARZO DE 2018)</small>
+La persona titular podrá designar como suplentes, de manera indistinta, a las personas responsables de las direcciones de área adscritas a la Dirección General de Prevención de la Corrupción y Mejora Continua 1.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 55o.
 
-El Comisario Público tendrá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría de la Función Pública y demás disposiciones aplicables. El Comisario asistirá a la Junta de Gobierno, con voz, pero sin voto.
+El órgano de vigilancia ejercerá las atribuciones que le otorgan la Ley Federal de las Entidades Paraestatales, la Ley de los Institutos Nacionales de Salud, el Reglamento de la Ley Federal de las Entidades Paraestatales, el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 48], D.O.F. 12 DE MARZO DE 2018)</small>
+La persona Delegada y Comisaria Pública asistirá a la Junta de Gobierno, con voz, pero sin voto.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 56o.
 
-El Instituto cuenta con un Órgano Interno de Control, al frente del cual el Titular designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los Titulares de las Áreas de Auditoría, de Quejas, de Responsabilidades, y de Auditoría para Desarrollo y Mejora de la Gestión Pública designados en los mismos términos.
+El Instituto cuenta con un órgano Interno de Control que se auxiliará por las Áreas de Auditoría, Denuncias e investigaciones, y Responsabilidades, así como por la Oficina de Representación que forma parte de la estructura del Instituto, y que estará a cargo de una Jefa o Jefe de oficina nombrado en términos del artículo 76 del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por los artículos 79 y 80 fracciones I, II incisos a y b y III del Reglamento Interior de la Secretaría de la Función Pública.
+Las personas servidoras públicas a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley de los Institutos Nacionales de Salud, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el capítulo V del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 49], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 57o.
 
-El Órgano Interno de Control forma parte de la estructura del Instituto y tiene por objeto apoyar la función directiva, así como promover el mejoramiento de la gestión del Instituto.
+La Oficina de Representación forma parte de la estructura del Instituto y tiene las funciones previstas en el Reglamento Interior de la Secretaría de Anticorrupción y Buen Gobierno.
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO X], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### CAPITULO XI. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 50], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 58o.
 
-Las ausencias del Director General del Instituto serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Las ausencias de la persona titular de la Dirección General del Instituto, debe suplirse de conformidad con las reglas siguientes:
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+I. La ausencia temporal de la persona titular de la Dirección General del Instituto será suplida por la persona servidora pública con la jerarquía inmediata inferior, que para tal efecto designe la propia persona titular de la Dirección General del Instituto.
+
+II. La ausencia definitiva de la persona titular de la Dirección General del Instituto será suplida por la persona titular de la Dirección de Área que corresponda, conforme al orden de prelación que se indica:
+
+a) Dirección Médica;
+
+b) Dirección de Educación;
+
+c) Dirección de Investigación;
+
+d) Dirección de Enfermería;
+
+e) Dirección de Administración.
+
+Independientemente de la prelación que establezca el presente artículo, la Junta de Gobierno podrá realizar una Sesión Extraordinaria, para ratificar a la persona encargada del despacho de la Dirección General; o bien, para designar a otra de las personas que integran el cuerpo directivo del Instituto, procurando anteponer en su designación a las personas que ocupan las direcciones de las áreas sustantivas.
+
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 59o.
 
-Las ausencias de los titulares de las Direcciones Médica, de Investigación, Educación, Administración, y Enfermería serán cubiertas por las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo. Las suplencias por ausencia deberán ser notificadas por oficio al Director General.
+Las ausencias de las personas titulares de las Direcciones Médica, de Investigación, Educación, Administración y Enfermería serán cubiertas por las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo. Las suplencias por ausencia deberán ser notificadas por oficio a la persona titular de la Dirección General.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+Suplirán las funciones de las Subdirecciones de Área las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo; éstas deberán ser notificadas por oficio (sic) las personas titulares de las Direcciones de Área y a la persona titular de la Dirección General.
 
-Suplirán las funciones de los Subdirectores de Área las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo; éstas deberán ser notificadas por oficio al Director de Área y al Director General.
-
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 60o.
 
-Las ausencias del Titular del Órgano Interno de Control, así como las de los Titulares de las Áreas de Auditoría, de Quejas y de Responsabilidades serán suplidas conforme a lo previsto por el artículo 99 párrafos (sic) primero, del Reglamento Interior de la Secretaría de la Función Pública o quien designe la persona Titular del Órgano Interno de Control.
+Las ausencias del Jefe o Jefa de la Oficina de Representación, serán suplidas conforme a lo previsto en el último párrafo del artículo 84 del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
 > <small>(REFORMADO [N. DE E. REUBICADO ANTES CAPÍTULO XI], D.O.F. 12 DE MARZO DE 2018)</small>
 
 ### CAPITULO XII. INSCRIPCIONES EN EL REGISTRO PUBLICO DE ORGANISMOS DESCENTRALIZADOS
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 53], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 15 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 61o.
 
 Se deberán inscribir en el Registro Público de Organismos Descentralizados:
 
-I. Las modificaciones o reformas al Instituto dentro de los 30 días siguientes a éstas;
+I. (DEROGADA, D.O.F. 15 DE JULIO DE 2025)
 
 II. El Estatuto Orgánico y sus reformas o modificaciones;
 
 III. Los nombramientos de los integrantes de la Junta de Gobierno, así como sus remociones;
 
-IV. Los nombramientos y sustituciones del Director General y, en su caso, de los directores y otros funcionarios que lleven la firma del Instituto;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 2025)</small>
+
+IV. Los nombramientos y sustituciones de las personas titulares de la Dirección General y en su caso de las Direcciones y otras personas funcionarias que lleven la firma de la entidad;
 
 V. Los poderes generales y sus revocaciones;
 
@@ -1311,11 +1547,11 @@ VII. Los demás documentos o actos que determine el Reglamento de la Ley Federal
 
 Será facultad exclusiva de la Junta de Gobierno aprobar las modificaciones al presente Estatuto.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 55], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 2025)</small>
 
-###### ARTICULO 63o.
+###### ARTICULO 63º.
 
-Podrán presentar propuestas de modificaciones al Estatuto para su aprobación por la Junta de Gobierno el Presidente de ésta, el Director General del Instituto y cuando menos dos miembros de la Junta de Gobierno en propuesta conjunta.
+Podrán presentar propuestas de modificaciones al Estatuto para su aprobación por la Junta de Gobierno la Presidencia de ésta, la persona titular de la Dirección General del Instituto y cuando menos dos personas integrantes de la Junta de Gobierno en propuesta conjunta.
 
 ## TRANSITORIOS
 
@@ -1378,3 +1614,27 @@ D.O.F. 23 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]
 
 ÚNICO.- La reforma a los artículos 32, fracción III; 35, fracción VIII y 45 bis, y la adición de la fracción V bis al artículo 34, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, las demás reformas, adiciones y derogaciones entrarán en vigor a partir de que sea aprobada la estructura orgánica del Instituto Nacional de Cardiología Ignacio Chávez, con el cambio de denominación de la Dirección de Educación y el cambio de adscripción de la Subdirección de Planeación.
+
+D.O.F. 15 DE JULIO DE 2025.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE DA A CONOCER LA LIGA ELECTRÓNICA QUE REDIRIGE A LA MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]</small>
+
+[...]
+
+MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ:
+
+Se da a conocer a las autoridades, personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar, el hipervínculo electrónico, para consulta de las modificaciones al Estatuto Orgánico del Instituto Nacional de Cardiología Ignacio Chávez, el cual tiene por objeto actualizar las disposiciones, las bases de organización, así como las facultades y funciones que corresponden a las distintas áreas que integran a este Instituto, mismo que podrá consultarse en la liga electrónica referida en el presente aviso:
+
+Denominación: Modificación al Estatuto Orgánico del Instituto Nacional de Cardiología Ignacio Chávez
+
+Emisor: Instituto Nacional de Cardiología Ignacio Chávez.
+
+Fecha de emisión: el 09 de abril del 2025, aprobado por la Junta de Gobierno del Instituto Nacional de Cardiología Ignacio Chávez, en la Primera Sesión Ordinaria 2025, mediante acuerdo O-01/2025-8.
+
+Medio de consulta: El documento se encuentra publicado para su difusión y consulta en el sitio de internet, en la siguiente liga:
+
+www.dof.gob.mx/2025/SALUD/inc_estatuto_2025_modificaciones.pdf
+
+> <small>[N. DE E. SE TRANSCRIBE EL TRANSITORIO DE LA "MODIFICACIÓN DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]</small>
+
+ÚNICO.- Las reformas al artículo 4, fracción III, consistentes en los incisos c) y d) del numeral 5, así como la reforma al artículo 38, fracción II, y 41, entrarán en vigor de aprobarse las modificaciones a la estructura organizacional por parte de las Secretarías de Hacienda y Crédito Público, y de la Secretaría Anticorrupción y Buen Gobierno, conforme lo dispone el artículo 13 del ACUERDO por el que se establecen las Disposiciones generales en materia de recursos humanos de la Administración Pública Federal. El resto de las reformas entrarán en vigor al día siguiente de su aprobación por la Junta de Gobierno.
