@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-evaluar-el-desempeno-de-servidores-publicos-del-90648"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-17"
-last_updated: "2012-12-17"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EVALUAR EL DESEMPEÑO DE SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el lunes 17 de diciembre de 2012.
 
@@ -105,25 +105,25 @@ Artículo 8° Cuando se trate de la conclusión del primer periodo en el cargo d
 
 La información a que se hace referencia en el artículo anterior, deberá ser entregada dentro de los diez días hábiles siguientes contados a partir del requerimiento del Presidente de la Mesa Directiva del Congreso.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2025)</small>
+
 ### Capítulo Tercero. De los Magistrados del Tribunal Superior de Justicia
 
 ###### Artículo 10.
 
-En términos del artículo 81 de la Constitución, el Congreso por conducto del Presidente de la Mesa Directiva, 120 días previos a la conclusión del cargo del magistrado de que se trate, solicitará al Gobernador Constitucional del Estado, y al Consejo de la Judicatura del Poder Judicial su opinión, a efecto de obtener información y en su oportunidad determinar si el servidor público debe o no ser ratificado en el cargo.
-
-La opinión deberá remitirse al Congreso dentro de los diez días hábiles siguientes a la fecha en la que se formule la solicitud de opinión.
+(DEROGADO, P.O. 15 DE JULIO DE 2025)
 
 ###### Artículo 11.
 
-Para los efectos de fundar su opinión, el Gobernador del Estado podrá tener acceso al expediente de evaluación que se integre en el Congreso.
+(DEROGADO, P.O. 15 DE JULIO DE 2025)
 
 ###### Artículo 12.
 
-Las opiniones deberán estar debidamente fundadas y motivadas; sin que las mismas vinculen la decisión que soberanamente y en definitiva emita el Congreso respecto de la ratificación o no del magistrado sujeto a evaluación.
+(DEROGADO, P.O. 15 DE JULIO DE 2025)
 
 ###### Artículo 13.
 
-La Comisión Legislativa competente durante el proceso de evaluación, deberá atender los principios de la fracción tercera del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y su desarrollo jurisprudencial.
+(DEROGADO, P.O. 15 DE JULIO DE 2025)
 
 ### Capítulo Cuarto. Procedimiento de evaluación
 
@@ -141,9 +141,11 @@ La falta de respuesta, interés o negativa del servidor público de ser evaluado
 
 De actualizarse el supuesto del artículo anterior, el Congreso deberá realizar los trámites legales conducentes para designar a quien deba cubrir la vacante que en su momento se genere.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2025)</small>
+
 ###### Artículo 17.
 
-En el supuesto de que el servidor público aspire a la ratificación en el cargo, el Congreso previa evaluación del desempeño, deberá pronunciarse al respecto a más tardar quince días naturales antes de la conclusión del encargo, salvo en la hipótesis de magistrados del Tribunal Superior de Justicia del Estado en cuyo caso se deberá resolver a más tardar treinta días antes de que fenezca el periodo respectivo. De no resolver en el término previsto sin causa justificada, se entenderá que emite dictamen de ratificación.
+En el supuesto de que el servidor público aspire a la ratificación en el cargo, el Congreso previa evaluación del desempeño deberá pronunciarse al respecto a más tardar quince días naturales antes de la conclusión del encargo. De no resolver en el término previsto sin causa justificada, se entenderá que emite dictamen de ratificación.
 
 La manifestación expresa del servidor público de aspirar a la ratificación, propiciará que la Comisión competente emita el Acuerdo de Trámite que establezca el inicio del procedimiento de evaluación, mismo que concluye con la con la votación que del dictamen con proyecto de decreto correspondiente realice la Asamblea Legislativa.
 
@@ -180,3 +182,13 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. Fátima del Sol Gómez Montero, Secretaria.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los diecisiete días del mes de Diciembre del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EVALUAR EL DESEMPEÑO DE SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT, EN MATERIA DEL PODER JUDICIAL LOCAL".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del (sic) Nayarit.
+
+SEGUNDO. La Evaluación al desempeño de los Servidores públicos del Poder Judicial, se realizará de conformidad con la Constitución Política del Estado Libre y Soberano de Nayarit, la Ley Orgánica del Poder Judicial para el Estado y demás normativa que resulte competente.
