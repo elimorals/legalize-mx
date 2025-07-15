@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-03-16"
+last_updated: "2025-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY GANADERA PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY GANADERA Y DE DESARROLLO PECUARIO PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -1620,3 +1622,29 @@ P.O. 16 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY GANADERA PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY GANADERA Y DE DESARROLLO PECUARIO PARA EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Se abroga la Ley Ganadera para el Estado de Nayarit, publicada el cuatro de julio de dos mil siete en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+TERCERO.- En un plazo no mayor de sesenta días contados a partir de la entrada en vigor del presente instrumento, el titular del Poder Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley.
+
+En tanto no se expidan los reglamentos de esta norma, se aplicarán, en lo que no se contrapongan a ésta, los reglamentos del instrumento que se abroga.
+
+CUARTO.- El Comité Estatal de Origen y Trazabilidad, deberá quedar integrado en un plazo que no exceda de los noventa días contados a partir de la entrada en vigor de la presente norma, de conformidad a los lineamientos que para tales efectos emita la Secretaría.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto por la presente Ley.
+
+SEXTO.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán de conformidad con la disponibilidad presupuestal del Estado y sus municipios para el presente ejercicio fiscal y subsecuentes.
+
+SÉPTIMO.- Los rastros y centros de sacrificio animal deberán contar con el reglamento interno alineando a la legislación vigente de la materia en un término no mayor a 90 días contados a partir de la entrada en vigor de la presente norma.
+
+OCTAVO.- Los municipios en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente Ley deberán realizar las reformas y adecuaciones al marco normativo que resulte necesario.
+
+NOVENO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Secretaría de Desarrollo Rural del Estado de Nayarit.
+
+DÉCIMO.- Para los efectos conducentes, notifíquese el presente Decreto a la Secretaría de Desarrollo Rural, así como a los veinte Ayuntamientos de la entidad.
