@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2025-05-14"
+last_updated: "2025-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -1143,9 +1143,19 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que les permitan ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes, y los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2025)</small>
+
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2025)</small>
+
+XI. Promover e incentivar en niñas, niños y adolescentes el acercamiento y práctica de la lectura que estimule su creatividad, memorización, el pensamiento crítico y asertivo, así como la comprensión y el uso adecuado del lenguaje y la escritura.
+
+Las acciones encaminadas a promover el hábito de la lectura, el pensamiento crítico y el uso adecuado del lenguaje procurarán contemplar el enfoque interseccional, impulsando medidas diferenciadas e inclusivas para niñas, niños y adolescentes en situación de vulnerabilidad.
 
 ###### Artículo 56.
 
@@ -2376,3 +2386,11 @@ P.O. 14 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 43 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE PROHIBICIÓN DEL MATRIMONIO INFANTIL”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 55 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, PARA INCENTIVAR LA PRÁCTICA DE LA LECTURA, EL USO ADECUADO DEL LENGUAJE Y ESCRITURA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para su conocimiento y efectos conducentes, notifíquese el Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit.
