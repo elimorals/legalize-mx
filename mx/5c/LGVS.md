@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2021-05-20"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -768,25 +768,43 @@ V. Se solicite autorización para traslocación de especies o subespecies a zona
 
 VI. Se contravengan en la solicitud o plan de manejo las disposiciones de esta Ley, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 47 Bis 4.
 
-Son causas de revocación de la autorización de aprovechamiento en las Unidades de Manejo para la Conservación de Vida Silvestre, de fauna silvestre:
+Son causas de revocación de la autorización de aprovechamiento en las Unidades de Manejo para la Conservación de Vida Silvestre y los predios o instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural, las siguientes:
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2012)</small>
 
 I. No se cumpla con la tasa de aprovechamiento y su temporalidad;
 
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2012)</small>
+
 II. Se ponga en riesgo la continuidad de las especies o poblaciones comprendidas en la tasa de aprovechamiento;
 
-III. Se detecten inconsistencias en el plan de manejo, en los estudios de población, muestreos o inventarios que presente el responsable de la unidad registrada;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Se detecten inconsistencias en el plan de manejo, en los estudios de población, muestreos o inventarios que presente el responsable de las Unidades de Manejo para la Conservación de Vida Silvestre y los predios o instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2012)</small>
 
 IV. Se detecte duplicidad en los estudios de población y en las tasas de aprovechamiento en más de una Unidad de Manejo para la Conservación de Vida Silvestre;
 
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2012)</small>
+
 V. Durante la visita de supervisión establecida en el artículo 43 de la Ley, se detecten acciones u omisiones violatorias a la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables;
 
-VI. El Informe anual de actividades no sea presentado durante dos años consecutivos, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Se omita la presentación del informe de contingencias o emergencias que ponga en riesgo a la vida silvestre, su hábitat natural o la salud de la población humana, en los términos señalados por la Ley y su Reglamento.
+VI. El Informe anual de actividades no sea presentado durante dos años consecutivos;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Se omita la presentación del informe de contingencias o emergencias que ponga en riesgo a la vida silvestre, su hábitat natural o la salud de la población humana, en los términos señalados por la Ley y su Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. El incumplimiento de lo establecido en el artículo 60 Bis de esta Ley.
 
 La revocación de la autorización de aprovechamiento no implica la eliminación del registro en el Sistema.
 
@@ -932,25 +950,31 @@ El programa de certificación deberá seguir los lineamientos establecidos en el
 
 La Secretaría suscribirá convenios y acuerdos de concertación y coordinación con el fin de promover la recuperación y conservación de especies y poblaciones en riesgo.
 
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 60 Bis.
 
-Ningún ejemplar de mamífero marino, cualquiera que sea la especie podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial, con excepción de la captura que tenga por objeto la investigación científica y la educación superior de instituciones acreditadas.
+Ningún ejemplar de mamífero marino puede ser sujeto de aprovechamiento extractivo, con excepción de la captura que tenga por objeto la investigación científica con fines de protección y conservación de dicha especie y población. La investigación debe ser realizada o avalada por una institución académica o de investigación con registro oficial y contar con un protocolo autorizado por la Secretaría.
 
-El promovente de una autorización para la captura de mamíferos marinos a los que se refiere este artículo, deberá entregar a la autoridad correspondiente un protocolo completo que sustente su solicitud. El resto del trámite quedará sujeto a las disposiciones de la presente Ley y demás ordenamientos aplicables.
+Queda prohibida la posesión y utilización de mamíferos marinos para cualquier actividad que no sean las permitidas en este artículo, con excepción de aquellos:
 
-> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+I. Cuya finalidad sea su reproducción para la conservación a través de la recuperación, la reintroducción y la repoblación de especies y poblaciones amenazadas o en peligro de extinción, o
+
+II. Que sean rescatados y depositados por las autoridades competentes, y no tengan fines de lucro.
+
+Queda prohibida la reproducción de los ejemplares de mamíferos marinos, salvo lo establecido en la fracción I del párrafo segundo del presente artículo.
+
+Para el caso de los ejemplares de mamíferos marinos destinados a la reintroducción o repoblación, estos no podrán ser objeto de exhibición ni de actividades con fines de lucro.
+
+Para el caso de las especies pertenecientes al grupo de los cetáceos, los ejemplares deben estar ubicados en corrales marinos y no en instalaciones de concreto, como albercas y estanques. En caso de que lo anterior no sea posible por la geografía en la que se encuentren dichas instalaciones, los cetáceos deben permanecer en instalaciones abiertas que reciban intercambio de agua del exterior, ya sea por flujo de mareas o por medio de un sistema de bombeo.
+
+Para casos de contingencia, emergencia zoosanitaria, o cualquier otra situación que ponga en riesgo o peligro a los ejemplares de mamíferos marinos, deben trasladarse de manera temporal a instalaciones sin contacto o comunicación directa con el mar, para garantizar su integridad.
+
+El promovente de una autorización para la captura de mamíferos marinos a los que se refiere este artículo deberá entregar a la autoridad correspondiente un protocolo completo que sustente su solicitud. El resto del trámite quedará sujeto a las disposiciones de la presente Ley y demás ordenamientos aplicables.
 
 Para el caso de varamientos de mamíferos marinos se procederá siempre a lo determinado en el “Protocolo de atención para varamiento de mamíferos marinos”.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
-
-Queda prohibida la utilización de ejemplares de mamíferos marinos en espectáculos itinerantes.
-
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
-
-Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial. Sólo se podrá autorizar la captura para actividades de restauración, repoblamiento y de reintroducción de dichas especies en su hábitat natural.
+Ningún ejemplar de primate, cualquiera que sea la especie, podrá ser sujeto de aprovechamiento extractivo, ya sea de subsistencia o comercial. Solo se podrá autorizar la captura para actividades de restauración, repoblamiento y de reintroducción de dichas especies en su hábitat natural.
 
 > <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2006)</small>
 
@@ -1584,7 +1608,9 @@ XV. Marcar y facturar ejemplares de la vida silvestre, así como sus partes o de
 
 XVI. Alterar para fines ilícitos las marcas y facturas de ejemplares de la vida silvestre, así como de sus partes o derivados.
 
-XVII. Omitir la presentación de los informes ordenados por esta Ley y demás disposiciones que de ella se deriven.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVII. Omitir la presentación de los informes e inventarios ordenados por esta Ley y demás disposiciones que de ella se deriven;
 
 XVIII. Realizar la colecta científica sin la autorización requerida o contraviniendo sus términos.
 
@@ -1605,6 +1631,10 @@ XXIII. Realizar actos que contravengan las disposiciones de trato digno y respet
 > <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 2015)</small>
 
 XXIV. Realizar actos que contravengan las disposiciones de conservación de vida silvestre fuera de su hábitat natural, establecidas en la presente Ley y en las disposiciones que de ella se deriven.
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXV. Realizar actividades que contravengan lo establecido en el artículo 60 Bis.
 
 Se considerarán infractores no sólo las personas que hayan participando (sic) en su comisión, sino también quienes hayan participado en su preparación o en su encubrimiento.
 
@@ -1660,9 +1690,9 @@ I. Con el equivalente de 20 a 5000 veces la Unidad de Medida y Actualización a 
 
 II. Con el equivalente de 50 a 50000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXII Bis y XXIV del artículo 122 de la presente Ley, y
 
-> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Con el equivalente de 200 a 75000 veces la Unidad de Medida y Actualización a quien cometa la infracción señalada en la fracción III del artículo 122 de la presente Ley.
+III. Con el equivalente de 200 a 75000 veces la Unidad de Medida y Actualización a quien cometa alguna de las infracciones señaladas en las fracciones III y XXV del artículo 122 de la presente Ley.
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
@@ -2013,3 +2043,47 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 47 BIS 4; 60 BIS; 122 Y 127 DE LA LEY GENERAL
+
+DE VIDA SILVESTRE".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los propietarios y poseedores de mamíferos marinos bajo cuidado profesional continuarán realizando las actividades que les fueron aprobadas en sus planes de manejo antes de la entrada en vigor del presente Decreto, hasta la baja de los ejemplares con excepción de la reproducción de acuerdo con lo establecido en este Decreto.
+
+Los propietarios y poseedores de mamíferos marinos cuentan con un plazo de 90 días naturales, contado a partir de la entrada en vigor del presente Decreto para entregar un inventario de ejemplares a la Secretaría.
+
+Dicho inventario debe indicar lo siguiente:
+
+a) Nombre científico;
+
+b) Nombre común;
+
+c) Sistema y número de marca;
+
+d) Sexo;
+
+e) Edad;
+
+f) Nombre propio, en su caso;
+
+g) Documento que demuestre su legal procedencia;
+
+h) Tratándose de hembras, si se encuentra gestante y, en su caso, el tiempo de gestación;
+
+i) Tratándose de ejemplares nacidos bajo cuidado profesional, fecha de nacimiento, sistema y número de marca de los progenitores, y
+
+j) Para el caso de ejemplares de especies pertenecientes al grupo de los cetáceos deben incluir fotografías de aletas pectorales, dorsal y caudal, así como de cualquier otra marca de identificación visible.
+
+Tercero.- El control de la reproducción de mamíferos marinos debe llevarse a cabo aplicando la mejor metodología para cada especie, ejemplar e instalación, asegurando el trato digno y respetuoso. Al acontecer un nacimiento por caso fortuito, los propietarios o poseedores de los ejemplares reproductores financiarán la manutención y cuidados, los cuales no pueden ser objeto de lucro directo o indirecto, y deben notificar a la Secretaría para que determine si las medidas para evitar la reproducción fueron aplicadas y, en su caso, establecer el manejo de la madre y la cría, incluida su reubicación y custodia de acuerdo con lo dispuesto en el artículo 60 Bis.
+
+Cuarto.- Los propietarios y poseedores de cetáceos bajo cuidado profesional cuentan con un plazo máximo de dieciocho meses posteriores a la presentación del inventario a que se refiere el Transitorio Segundo de este Decreto para reubicar a los ejemplares en corrales marinos o en alguno de los supuestos establecidos en el artículo 60 Bis de esta Ley, de conformidad con los protocolos de traslado que emita la Secretaría de Medio Ambiente y Recursos Naturales.
+
+Quinto.- Para el caso de las especies pertenecientes al grupo de los cetáceos reportados en el inventario a que hace referencia el Transitorio Segundo del presente Decreto, únicamente se permiten actividades en las que el contacto físico entre humanos y ejemplares esté limitado a las conductas de nado libre, interacciones supervisadas por un entrenador, técnico, manejador o asistente, sin tocar los ojos, espiráculo y genitales. Queda prohibida la monta de ejemplares, nadar sujetos de las aletas, empujar con los pies a los participantes o cualquier otra actividad que comprometa su integridad, asegurando en todo momento el trato digno y respetuoso.
+
+Sexto.- Los propietarios y poseedores de mamíferos marinos que cuenten con autorización previa a la entrada en vigor del presente Decreto y consideren que alguno de sus ejemplares puede ser candidato para su liberación, deberán notificarlo a la Secretaría, conforme a lo establecido en la presente Ley, a fin de que, en su caso, se realice la evaluación y se aplique la metodología correspondiente.
+
+Séptimo.- El Ejecutivo Federal expedirá la actualización del Reglamento de la Ley General de Vida Silvestre dentro de los 180 días naturales siguientes de la entrada en vigor del presente Decreto.
