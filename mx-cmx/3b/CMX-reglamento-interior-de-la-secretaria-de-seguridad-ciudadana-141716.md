@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-141
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-02-25"
-last_updated: "2024-07-16"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141716&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2025.
 
 Reglamento publicado en el Número 290 de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -241,6 +241,10 @@ d) Dirección Ejecutiva de Salud y Bienestar Social.
 II. Unidades Administrativas Policiales:
 
 a) Dirección General del Escuadrón de Rescate y Urgencias Médicas.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2025)</small>
+
+b) Dirección Ejecutiva de la Policía Turística.
 
 5. Subsecretaría de Desarrollo Institucional:
 
@@ -614,9 +618,9 @@ XII. Coordinar los programas de servicios de auxilio a la población en casos de
 
 XIII. Establecer los mecanismos de vinculación para la atención de emergencias médicas en diversas instituciones en materia de salud, y de los servicios de auxilio a la población en caso de siniestros, emergencias y desastres;
 
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2025)</small>
 
-XIII Bis. Diseñar, desarrollar y ejecutar acciones, en el ámbito de competencia de la Secretaría, tendientes a garantizar la protección y rescate de animales en situación de riesgo, el fomento a una cultura de respeto a la fauna silvestre y doméstica, así como la tenencia responsable de animales de compañía;
+XIII Bis. Diseñar, desarrollar y ejecutar acciones, en el ámbito de competencia de la Secretaría, tendientes a garantizar la protección y rescate de animales en situación de riesgo, el fomento a una cultura de respeto y trato digno a la fauna silvestre y doméstica, así como la tutela responsable de animales de compañía;
 
 XIV. Coordinar y vigilar que se otorguen los servicios de carácter cultural, social y deportivo, así como los servicios médicos y asistenciales, y
 
@@ -1626,11 +1630,13 @@ Son atribuciones de la Dirección General de Participación Ciudadana:
 
 I. Mantener comunicación abierta para recibir sugerencias, comentarios, quejas y solicitudes relacionadas con los servicios de seguridad ciudadana, canalizando su atención a la instancia responsable;
 
-II. Difundir los programas y mecanismos para que la ciudadanía a través de los diversos grupos, sectores e instituciones, participe en los procesos de seguridad ciudadana que se consideren pertinentes, así como en las encuestas de evaluación de los servicios brindados por la Secretaría;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2025)</small>
+
+II. Difundir los programas y mecanismos para que la ciudadanía a través de los diversos grupos, sectores e instituciones, participe en los procesos de seguridad ciudadana que se consideren pertinentes;
 
 III. Propiciar la participación de grupos organizados para que colaboren con la Secretaría en la identificación de zonas de alto riesgo delictivo, canalizando información al área operativa para su atención correspondiente;
 
-IV. Participar y colaborar con el Consejo Ciudadano para la Seguridad Ciudadana y Procuración de Justicia de la Ciudad de México;
+IV. (DEROGADA, G.O. 16 DE JULIO DE 2025)
 
 V. Promover y fomentar una cultura integral de la participación ciudadana en materia de prevención del delito y seguridad ciudadana, a través de talleres, cursos, pláticas, ferias, jornadas de seguridad y demás acciones que propicien la concientización, la disuasión de factores de riesgo y una actitud participativa;
 
@@ -1676,11 +1682,15 @@ X. Las demás que le atribuya la normatividad vigente.
 
 Son atribuciones de la Dirección General de la Brigada de Vigilancia Animal:
 
-I. Generar una cultura de tenencia responsable y cívica de protección, responsabilidad y respeto digno de los animales;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2025)</small>
+
+I. Generar una cultura de tutela responsable y trato digno de los animales;
 
 II. Responder a situaciones de peligro por agresión animal;
 
-III. Brindar protección a los animales que se encuentren en maltrato u otra situación que ponga en riesgo su vida;
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2025)</small>
+
+III. Brindar protección a los animales que se encuentren en maltrato u otra situación que ponga en riesgo su integridad y/o su vida;
 
 IV. Coadyuvar con asociaciones civiles en la protección y canalización de animales a centros de atención, refugios y albergues de animales;
 
@@ -1696,21 +1706,35 @@ I. Garantizar los servicios médicos y de apoyo técnico médico de primer nivel
 
 II. Vigilar el funcionamiento de las áreas y consultorios destinados a la atención de salud del personal de la Secretaría que se encuentren a su cargo; así como del personal que asigne a dichas áreas con la finalidad de mantener la continuidad del servicio;
 
-> <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2025)</small>
 
-II. Bis. Establecer, en coordinación con la Unidad Administrativa competente, los Lineamientos para la operación de los Centros de Desarrollo Infantil adscritos a la Secretaría, de conformidad con el marco normativo establecido por las instancias competentes;
+II Bis. Expedir, en colaboración con el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, los Lineamientos para la operación de los Centros de Desarrollo Infantil y el Centro de Día y Apoyo Familiar para Niños y Niñas de Mujeres Policías, Atenea, adscritos a la Secretaría, de conformidad con el marco normativo establecido por las instancias correspondientes;
+
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2025)</small>
+
+II Ter. Vigilar, en el ámbito de su competencia, el funcionamiento de las áreas que brindan atención en los Centros de Desarrollo Infantil, y el Centro de Día y Apoyo Familiar para Niños y Niñas de Mujeres Policías, Atenea, adscritos a la Secretaría; así como del personal asignado en las mismas, a fin de garantizar la continuidad del servicio;
 
 III. Dirigir la instrumentación de campañas de salud que contribuyan a la prevención y conservación de la salud del personal de la Secretaría;
 
 IV. Vigilar que se proporcione la atención médica - hospitalaria al personal policial lesionado en servicio, en coordinación con las áreas responsables;
 
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2025)</small>
+
+IV Bis. Vigilar el funcionamiento de la Unidad de Atención y Referencia Psicológica de la Secretaría y de las sedes destinadas a la atención de la salud mental del personal de la Secretaría, así como del personal asignado a las mismas, a fin de garantizar la continuidad del servicio;
+
 V. Formular y proponer estrategias que impulsen proyectos de intercambio cultural, social y deportivo, con instituciones nacionales e internacionales del sector público y privado;
 
 VI. Supervisar la planeación y ejecución de actividades culturales, sociales, turísticas y deportivas para fomentar el desarrollo integral del personal de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2025)</small>
+
+VI Bis. Vigilar el funcionamiento de los grupos musicales adscritos a la Secretaría, así como del personal asignado a los mismos, con la finalidad de garantizar la continuidad de los servicios musicales y la adecuada representación institucional, coadyuvando en las tareas de vinculación ciudadana y proximidad social;
+
 VII. Diseñar y vigilar el desarrollo y difusión de mecanismos que propicien la práctica del deporte para el personal de la Secretaría;
 
-VIII. Fungir como representante de la Secretaría ante la Comisión Nacional del Deporte y el Instituto del Deporte del Gobierno de la Ciudad, y
+> <small>(REFORMADA, G.O. 16 DE JULIO DE 2025)</small>
+
+VIII. Representar a la Secretaría ante las comisiones e institutos, locales y federales, en materia de salud y deporte, y
 
 IX. Las demás que le atribuya la normatividad vigente.
 
@@ -1731,6 +1755,28 @@ V. Diseñar y proponer ante las autoridades correspondientes, el fortalecimiento
 VI. Coordinar la atención de solicitudes de intervención en situaciones de desastre, a solicitud del Sistema Nacional de Protección Civil;
 
 VII. Establecer criterios, políticas y lineamientos para el establecimiento y operación de los mecanismos y procedimientos de activación, movilización, seguridad, búsqueda, localización y rescate de víctimas en estructuras colapsadas, y
+
+VIII. Las demás que le atribuya la normatividad vigente.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 40 Bis.
+
+Son atribuciones de la Dirección Ejecutiva de la Policía Turística:
+
+I. Conducir estrategias de manera coordinada para la protección y atención integral de las personas turistas y prestadores de servicios turísticos, en materia de seguridad en las zonas turísticas de la Ciudad de México;
+
+II. Establecer los servicios operativos de seguridad turística y prevención del delito en zonas turísticas;
+
+III. Coordinar con las Alcaldías, la prestación de los servicios de seguridad turística para mantener el orden público, conforme a las necesidades y características propias de la Demarcación territorial;
+
+IV. Conducir acciones de vinculación y proximidad social con las Embajadas y Consulados en territorio de la Ciudad de México;
+
+V. Establecer acciones que inhiban la comisión de delitos, con la finalidad de salvaguardar la integridad de las personas turistas y sus bienes, así como de las personas prestadores de servicios turísticos;
+
+VI. Supervisar el cumplimiento de planes y programas institucionales en materia de seguridad turística;
+
+VII. Participar en el intercambio de experiencias, cursos y capacitaciones con entidades federativas e instituciones nacionales e internacionales de carácter público o privado, respecto de la seguridad turística, así como de la promoción turística, y
 
 VIII. Las demás que le atribuya la normatividad vigente.
 
@@ -3013,5 +3059,19 @@ SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
 TERCERO. La Secretaría actualizará su estructura orgánica y su Manual Administrativo en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
 
 CUARTO. La Secretaría de Seguridad Ciudadana deberá llevar a cabo las acciones conducentes para el cumplimiento del presente Decreto.
+
+QUINTO. Queda sin efectos toda aquella disposición al interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México que se oponga al presente Decreto.
+
+G.O. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La Secretaría realizará las adecuaciones y gestiones jurídico-administrativas, presupuestales y de movimientos de personal, para la adecuada instrumentación de las disposiciones que establece el presente Decreto.
+
+CUARTO. La Secretaría actualizará su Manual Administrativo en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
 
 QUINTO. Queda sin efectos toda aquella disposición al interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México que se oponga al presente Decreto.
