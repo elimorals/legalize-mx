@@ -4,7 +4,7 @@ identifier: "LFPIORPI"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2012-10-17"
-last_updated: "2021-05-20"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89738&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPIORPI"
 
 LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de octubre de 2012.
 
@@ -50,9 +50,11 @@ Ley Federal para la Prevención e Identificación de Operaciones con Recursos de
 
 La presente Ley es de orden e interés público y de observancia general en los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 2.
 
-El objeto de esta Ley es proteger el sistema financiero y la economía nacional, estableciendo medidas y procedimientos para prevenir y detectar actos u operaciones que involucren recursos de procedencia ilícita, a través de una coordinación interinstitucional, que tenga como fines recabar elementos útiles para investigar y perseguir los delitos de operaciones con recursos de procedencia ilícita, los relacionados con estos últimos, las estructuras financieras de las organizaciones delictivas y evitar el uso de los recursos para su financiamiento.
+El objeto de esta Ley es proteger el sistema financiero y la economía nacional, estableciendo medidas y procedimientos para prevenir y detectar actos u operaciones que involucren recursos de procedencia ilícita, a través de una coordinación interinstitucional, que tenga como fines recabar elementos útiles para investigar y perseguir los Delitos de Operaciones con Recursos de Procedencia Ilícita, los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas así como evitar el uso de los recursos para su financiamiento.
 
 ###### Artículo 3.
 
@@ -62,27 +64,53 @@ I. Actividades Vulnerables, a las actividades que realicen las Entidades Financi
 
 II. Avisos, a aquellos que deben presentarse en términos del artículo 17 de la presente Ley, así como a los reportes que deben presentar las entidades financieras en términos del artículo 15, fracción II, de esta Ley;
 
-III. Beneficiario Controlador, a la persona o grupo de personas que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-a) Por medio de otra o de cualquier acto, obtiene el beneficio derivado de éstos y es quien, en última instancia, ejerce los derechos de uso, goce, disfrute, aprovechamiento o disposición de un bien o servicio, o
+III. Beneficiario Controlador, a la persona física o grupo de personas físicas que:
 
-b) Ejerce el control de aquella persona moral que, en su carácter de cliente o usuario, lleve a cabo actos u operaciones con quien realice Actividades Vulnerables, así como las personas por cuenta de quienes celebra alguno de ellos.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Se entiende que una persona o grupo de personas controla a una persona moral cuando, a través de la titularidad de valores, por contrato o de cualquier otro acto, puede:
+a) Directamente o por medio de alguna persona Cliente o Usuaria obtiene, en última instancia, el beneficio de goce, uso, disfrute, aprovechamiento o disposición del bien o servicio derivado de la realización de un acto u operación con quien realice una Actividad Vulnerable, o
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+b) Ejerce el control efectivo en última instancia de aquella persona moral que, en su carácter de Cliente o Usuaria, lleve a cabo actos u operaciones con quien realice una Actividad Vulnerable, así como las personas por cuenta de quienes celebra alguno de ellos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+Se entiende que una persona o grupo de personas controla de manera efectiva en última instancia a una persona moral cuando, a través de la titularidad de valores, por contrato o cualquier otro acto, en términos de las Reglas de Carácter General aplicables, puede:
 
 i) Imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas, socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes;
 
-ii) Mantener la titularidad de los derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social, o
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ii) Mantener la titularidad de los derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del veinticinco por ciento del capital social, o
 
 iii) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la misma.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para efectos del Capítulo IV Bis de esta Ley, se entenderá como Beneficiario Controlador a quien tenga el control de una persona moral en términos del inciso b) anterior, aunque dicha persona moral no sea Cliente o Usuaria de alguien que realice Actividades Vulnerables o se lleven a cabo actos u operaciones con éstas a su nombre.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para efectos de esta Ley y demás disposiciones jurídicas aplicables, la definición de Beneficiario Controlador, es equiparable a beneficiario final y propietario real.
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III Bis. Cliente o Usuaria, a cualquier persona física o moral, así como fideicomisos que celebren actos u operaciones con quienes realicen Actividades Vulnerables;
+
 IV. Delitos de Operaciones con Recursos de Procedencia Ilícita, a los tipificados en el Capítulo II del Título Vigésimo Tercero del Código Penal Federal;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV Bis. Desarrollo Inmobiliario, al proyecto para la construcción de inmuebles o fraccionamiento de lotes, destinados a su venta o renta;
 
 V. Entidades Colegiadas, a las personas morales reconocidas por la legislación mexicana, que cumplan con los requisitos del artículo 27 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. Entidades Financieras, aquellas reguladas en los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera;
+VI. Entidades Financieras, aquellas entidades financieras y actividades auxiliares de crédito reguladas en los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera;
 
 VII. Fedatarios Públicos, a los notarios o corredores públicos, así como a los servidores públicos a quienes las Leyes les confieran la facultad de dar fe pública en el ejercicio de sus atribuciones establecidas en las disposiciones jurídicas correspondientes, que intervengan en la realización de Actividades Vulnerables;
 
@@ -90,19 +118,39 @@ VIII. Ley, a la Ley Federal para la Prevención e Identificación de Operaciones
 
 IX. Metales Preciosos, al oro, la plata y el platino;
 
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX Bis. Persona Políticamente Expuesta, a aquella persona física que desempeña o ha desempeñado funciones públicas en territorio nacional o en un país extranjero, así como a las personas relacionadas con ellas que cumplan con las condiciones y características que la Secretaría establezca en reglas o disposiciones de carácter general;
+
 X. Piedras Preciosas, las gemas siguientes: aguamarinas, diamantes, esmeraldas, rubíes, topacios, turquesas y zafiros;
 
 > <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
 
 XI. Fiscalía, a la Fiscalía General de la República;
 
-XII. Relación de negocios, a aquella establecida de manera formal y cotidiana entre quien realiza una Actividad Vulnerable y sus clientes, excluyendo los actos u operaciones que se celebren ocasionalmente, sin perjuicio de lo que establezcan otras disposiciones legales y reglamentarias;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público, y
+XII. Relación de negocios, a aquella establecida de manera formal y habitual entre quien realiza una Actividad Vulnerable y sus Clientes o Usuarias, excluyendo los actos u operaciones que se celebren ocasionalmente y la prestación de servicios de fe pública prevista en el artículo 17, fracción XII, de la Ley, sin perjuicio de lo que establezcan otras disposiciones legales y reglamentarias;
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIV. Unidad, a la Unidad Especializada en Análisis Financiero de la Fiscalía.
+XII Bis. Representante Encargada de Cumplimiento, a la persona designada ante la Secretaría en términos de lo establecido en el artículo 20 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XII Ter. Riesgo, a la probabilidad de que las Actividades Vulnerables puedan ser utilizadas para llevar a cabo actos u operaciones a través de los cuales se pudiesen actualizar los Delitos de Operaciones con Recursos de Procedencia Ilícita, los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas, así como evitar el uso de los recursos para su financiamiento;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII. Secretaría, a la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIV. Unidad, a la Unidad Especializada en Investigación de Delitos Fiscales y Financieros de la Fiscalía.
 
 ###### Artículo 4.
 
@@ -112,23 +160,35 @@ I. El Código de Comercio;
 
 II. El Código Civil Federal;
 
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis. La Ley General de Títulos y Operaciones de Crédito;
+
 III. La Ley Federal de Procedimiento Administrativo;
 
-IV. La Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. La Ley General de Transparencia y Acceso a la Información Pública, y
 
 V. La Ley Federal de Protección de Datos Personales en Posesión de Particulares.
 
 ### Capítulo II. De las Autoridades
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 5.
 
-La Secretaría será la autoridad competente para aplicar, en el ámbito administrativo, la presente Ley y su Reglamento.
+La Secretaría será la autoridad competente para aplicar e interpretar, en el ámbito administrativo, la presente Ley, su Reglamento y las reglas de carácter general que emita la propia Secretaría conforme a esta Ley.
 
 ###### Artículo 6.
 
 La Secretaría tendrá las facultades siguientes:
 
 I. Recibir los Avisos de quienes realicen las Actividades Vulnerables a que se refiere la Sección Segunda del Capítulo III;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I Bis. Establecer los requisitos para el alta y registro en el sistema electrónico que determine el Reglamento de la Ley de quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de esta Ley y de las Entidades Colegiadas, así como recibir y administrar la información de dichos trámites;
 
 II. Requerir la información, documentación, datos e imágenes necesarios para el ejercicio de sus facultades y proporcionar a la Unidad la información que le requiera en términos de la presente Ley;
 
@@ -140,9 +200,27 @@ V. Requerir la comparecencia de presuntos infractores y demás personas que pued
 
 VI. Conocer y resolver sobre los recursos de revisión que se interpongan en contra de las sanciones aplicadas;
 
-VII. Emitir Reglas de Carácter General para efectos de esta Ley, para mejor proveer en la esfera administrativa, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VIII. Las demás previstas en otras disposiciones de esta Ley y otros ordenamientos jurídicos aplicables.
+VII. Emitir Reglas de Carácter General para efectos de esta Ley, para mejor proveer en la esfera administrativa;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Coordinar sus funciones con las de la Secretaría de Seguridad y Protección Ciudadana y de la Guardia Nacional para los fines de esta Ley, en términos de las disposiciones aplicables y en el ejercicio de las atribuciones que establezca el Reglamento Interior de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Establecer medidas específicas cuando derivado del ejercicio de sus atribuciones identifique que un país representa un mayor riesgo en materia de Delitos de Operaciones con Recursos de Procedencia Ilícita. Dichas medidas deberán ser proporcionales al riesgo identificado, establecidas en reglas de carácter general que emita la propia autoridad y serán de observancia obligatoria para quienes lleven a cabo Actividades Vulnerables;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X. Promover entre las Entidades Federativas la implementación coordinada de unidades especializadas en la recepción y análisis de información patrimonial, conforme a sus facultades, que contribuya a la prevención y detección de los Delitos de Operaciones con Recursos de Procedencia Ilícita, de las estructuras financieras de las organizaciones delictivas así como evitar el uso de los recursos para su financiamiento;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Fungir como enlace entre el Gobierno Federal y los países, jurisdicciones u organismos internacionales o intergubernamentales, respecto a las materias que estén relacionadas con el objeto de esta Ley y coordinará la implementación de los acuerdos que se adopten, y
+
+XII. Las demás previstas en otras disposiciones de esta Ley y otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
 
@@ -166,9 +244,9 @@ II. Establecer los criterios de presentación de los reportes que elabore la Sec
 
 III. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Fiscalía, en especial la relacionada con los Avisos materia de la presente Ley;
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Coadyuvar con otras áreas competentes de la Fiscalía, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los delitos de operaciones con recursos de procedencia ilícita y medir su riesgo regional y sectorial;
+IV. Coadyuvar con otras áreas competentes de la Fiscalía, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los Delitos de Operaciones con Recursos de Procedencia Ilícita, y con las estructuras financieras de las organizaciones delictivas así como evitar el uso de los recursos para su financiamiento y medir su riesgo regional y sectorial;
 
 V. Generar sus propias herramientas para el efecto de investigar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
 
@@ -192,11 +270,11 @@ XII. Emitir los dictámenes y peritajes en materia de análisis financiero y con
 
 XIII. Las demás que las disposiciones legales y reglamentarias determinen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 9.
 
-Los servidores públicos adscritos a la Unidad, además de reunir los requisitos de ingreso y selección que determine la Ley de la Fiscalía General de la República, deberán:
+Las personas servidoras públicas adscritas a la Unidad, además de reunir los requisitos de ingreso y selección que determine la Ley de la Fiscalía General de la República, deberán:
 
 I. Acreditar cursos de especialización en delitos de operaciones con recursos de procedencia ilícita y delincuencia organizada que se establezcan en las disposiciones aplicables;
 
@@ -208,11 +286,11 @@ III. No haber sido sancionado con suspensión mayor a quince días, destitución
 
 El personal de la Secretaría que tenga acceso a la base de datos que concentre los Avisos relacionados con las Actividades Vulnerables, deberá cumplir con los requisitos precisados en las fracciones del artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 11.
 
-La Secretaría, la Fiscalía y la Policía Federal deberán establecer programas de capacitación, actualización y especialización dirigidos al personal adscrito a sus respectivas áreas encargadas de la prevención, detección y combate al delito de operaciones con recursos de procedencia ilícita y en las materias necesarias para la consecución del objeto de esta Ley, en el ámbito de sus respectivas competencias.
+La Secretaría, la Fiscalía, la Secretaría de Seguridad y Protección Ciudadana y la Guardia Nacional deberán establecer programas de capacitación, actualización y especialización dirigidos al personal adscrito a sus respectivas áreas encargadas de la prevención, detección y combate de los Delitos de Operaciones con Recursos de Procedencia Ilícita, los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas, así como evitar el uso de los recursos para su financiamiento.
 
 ###### Artículo 12.
 
@@ -250,9 +328,9 @@ Para los efectos de esta Sección, los actos, operaciones y servicios que realiz
 
 Las Entidades Financieras, respecto de las Actividades Vulnerables en las que participan, tienen de conformidad con esta Ley y con las leyes que especialmente las regulan, las siguientes obligaciones:
 
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en el Capítulo II del Título Vigésimo Tercero del Código Penal Federal, así como para identificar a sus clientes y usuarios; de conformidad con lo establecido en los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera;
+I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudieran ubicarse en los supuestos previstos en el Capítulo II del Título Vigésimo Tercero del Código Penal Federal, así como para identificar a sus Clientes o Usuarios; de conformidad con lo establecido en los artículos 115 de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera;
 
 II. Presentar ante la Secretaría los reportes sobre actos, operaciones y servicios que realicen con sus clientes y lleven a cabo miembros del consejo administrativo, apoderados, directivos y empleados de la propia entidad que pudieren ubicarse en lo previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones señaladas;
 
@@ -260,9 +338,11 @@ III. Entregar a la Secretaría, por conducto del órgano desconcentrado competen
 
 IV. Conservar, por al menos diez años, la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, sin perjuicio de lo establecido en este u otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 16.
 
-La supervisión, verificación y vigilancia del cumplimiento de las obligaciones a que se refiere esta Sección y las disposiciones de las leyes que especialmente regulen a las Entidades Financieras se llevarán a cabo, según corresponda, por la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro o el Servicio de Administración Tributaria.
+La supervisión, verificación y vigilancia del cumplimiento de las obligaciones a que se refiere esta Sección y las disposiciones de carácter general que emanen de las leyes que especialmente regulen a las Entidades Financieras se llevarán a cabo, según corresponda, por la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
 Los órganos desconcentrados referidos en el párrafo anterior, en el ámbito de sus respectivas competencias, emitirán los criterios y políticas generales para supervisar a las Entidades Financieras respecto del cumplimiento de las obligaciones previstas en esta Sección. La Secretaría coadyuvará con dichos órganos desconcentrados para procurar la homologación de tales criterios y políticas.
 
@@ -272,47 +352,83 @@ Los órganos desconcentrados referidos en el párrafo anterior, en el ámbito de
 
 Para efectos de esta Ley se entenderán Actividades Vulnerables y, por tanto, objeto de identificación en términos del artículo siguiente, las que a continuación se enlistan:
 
-I. Las vinculadas a la práctica de juegos con apuesta, concursos o sorteos que realicen organismos descentralizados conforme a las disposiciones legales aplicables, o se lleven a cabo al amparo de los permisos vigentes concedidos por la Secretaría de Gobernación bajo el régimen de la Ley Federal de Juegos y Sorteos y su Reglamento. En estos casos, únicamente cuando se lleven a cabo bajo las siguientes modalidades y montos:
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-La venta de boletos, fichas o cualquier otro tipo de comprobante similar para la práctica de dichos juegos, concursos o sorteos, así como el pago del valor que representen dichos boletos, fichas o recibos o, en general, la entrega o pago de premios y la realización de cualquier operación financiera, ya sea que se lleve a cabo de manera individual o en serie de transacciones vinculadas entre sí en apariencia, con las personas que participen en dichos juegos, concursos o sorteos, siempre que el valor de cualquiera de esas operaciones sea por una cantidad igual o superior al equivalente a trescientas veinticinco veces el salario mínimo vigente en el Distrito Federal.
+I. Las vinculadas a la práctica de juegos con apuesta, concursos o sorteos que realicen organismos descentralizados conforme a las disposiciones legales aplicables, o se lleven a cabo al amparo de los permisos o autorizaciones vigentes concedidos por la Secretaría de Gobernación bajo el régimen de la Ley Federal de Juegos y Sorteos y su Reglamento. En estos casos, únicamente cuando se lleven a cabo bajo las siguientes modalidades y montos:
 
-Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a seiscientas cuarenta y cinco veces el salario mínimo vigente en el Distrito Federal.
+La venta de boletos, fichas o cualquier otro tipo de comprobante similar para la práctica de dichos juegos, concursos o sorteos, así como el pago del valor que representen dichos boletos, fichas o recibos o, en general, la entrega o pago de premios y la realización de cualquier operación financiera, ya sea que se lleve a cabo de manera individual o en serie de transacciones vinculadas entre sí en apariencia, con las personas que participen en dichos juegos, concursos o sorteos, siempre que el valor de cualquiera de esas operaciones sea por una cantidad igual o superior al equivalente a trescientas veinticinco veces el valor diario de la UMA.
 
-II. La emisión o comercialización, habitual o profesional, de tarjetas de servicios, de crédito, de tarjetas prepagadas y de todas aquellas que constituyan instrumentos de almacenamiento de valor monetario, que no sean emitidas o comercializadas por Entidades Financieras. Siempre y cuando, en función de tales actividades: el emisor o comerciante de dichos instrumentos mantenga una relación de negocios con el adquirente; dichos instrumentos permitan la transferencia de fondos, o su comercialización se haga de manera ocasional. En el caso de tarjetas de servicios o de crédito, cuando el gasto mensual acumulado en la cuenta de la tarjeta sea igual o superior al equivalente a ochocientas cinco veces el salario mínimo vigente en el Distrito Federal. En el caso de tarjetas prepagadas, cuando su comercialización se realice por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco veces el salario mínimo vigente en el Distrito Federal, por operación. Los demás instrumentos de almacenamiento de valor monetario serán regulados en el Reglamento de esta Ley.
+Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a seiscientas cuarenta y cinco veces el valor diario de la UMA;
 
-Serán objeto de Aviso ante la Secretaría, en el caso de tarjetas de servicios o de crédito, cuando el gasto mensual acumulado en la cuenta de la tarjeta sea igual o superior al equivalente a un mil doscientas ochenta y cinco veces el salario mínimo vigente en el Distrito Federal. En el caso de tarjetas prepagadas, cuando se comercialicen por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. La emisión o comercialización, habitual o profesional, distinta a la realizada por las Entidades Financieras de:
+
+a) Tarjetas de servicios o de crédito cuando el gasto mensual acumulado en la cuenta de la tarjeta sea igual o superior al equivalente a ochocientas cinco veces el valor diario de la UMA;
+
+b) Tarjetas prepagadas, cuando su comercialización o abono de recursos se realice por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco veces el valor diario de la UMA, por operación, y
+
+c) Instrumentos de almacenamiento de valor monetario cuando su emisión, comercialización o abono de recursos sea por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco veces el valor diario de la UMA, por operación.
+
+Serán objeto de Aviso ante la Secretaría, en el caso de tarjetas de servicios o de crédito, cuando el gasto mensual acumulado en la cuenta de la tarjeta sea igual o superior al equivalente a mil doscientas ochenta y cinco veces el valor diario de la UMA. En el caso de tarjetas prepagadas e instrumentos de almacenamiento de valor monetario, cuando se comercialicen o se abonen recursos por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco veces el valor diario de la UMA;
 
 III. La emisión y comercialización habitual o profesional de cheques de viajero, distinta a la realizada por las Entidades Financieras.
 
-Serán objeto de Aviso ante la Secretaría cuando la emisión o comercialización de los cheques de viajero sea igual o superior al equivalente a seiscientas cuarenta y cinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Serán objeto de Aviso ante la Secretaría cuando la emisión o comercialización de los cheques de viajero sea igual o superior al equivalente a seiscientas cuarenta y cinco veces el valor diario de la UMA;
 
 IV. El ofrecimiento habitual o profesional de operaciones de mutuo o de garantía o de otorgamiento de préstamos o créditos, con o sin garantía, por parte de sujetos distintos a las Entidades Financieras.
 
-Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a un mil seiscientas cinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. La prestación habitual o profesional de servicios de construcción o desarrollo de bienes inmuebles o de intermediación en la transmisión de la propiedad o constitución de derechos sobre dichos bienes, en los que se involucren operaciones de compra o venta de los propios bienes por cuenta o a favor de clientes de quienes presten dichos servicios.
+Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a mil seiscientas cinco veces el valor diario de la UMA;
 
-Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. La comercialización o intermediación habitual o profesional de Metales Preciosos, Piedras Preciosas, joyas o relojes, en las que se involucren operaciones de compra o venta de dichos bienes en actos u operaciones cuyo valor sea igual o superior al equivalente a ochocientas cinco veces el salario mínimo vigente en el Distrito Federal, con excepción de aquellos en los que intervenga el Banco de México.
+V. La realización habitual o profesional de actividades de construcción o desarrollo de bienes inmuebles, así como de intermediación en la transmisión de la propiedad o constitución de derechos sobre dichos bienes, en los que se involucren operaciones de compra o venta de los propios bienes.
 
-Serán objeto de Aviso ante la Secretaría cuando quien realice dichas actividades lleve a cabo una operación en efectivo con un cliente por un monto igual o superior o equivalente a un mil seiscientas cinco veces el salario mínimo vigente en el Distrito Federal;
+Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA;
 
-VII. La subasta o comercialización habitual o profesional de obras de arte, en las que se involucren operaciones de compra o venta de dichos bienes realizadas por actos u operaciones con un valor igual o superior al equivalente a dos mil cuatrocientas diez veces el salario mínimo vigente en el Distrito Federal.
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a cuatro mil ochocientas quince veces el salario mínimo vigente en el Distrito Federal;
+V Bis. La recepción de recursos que se destinen para llevar a cabo un Desarrollo Inmobiliario cuya finalidad sea su venta o renta.
 
-VIII. La comercialización o distribución habitual profesional de vehículos, nuevos o usados, ya sean aéreos, marítimos o terrestres con un valor igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal.
+Serán objeto de Aviso ante la Secretaría cuando el acto u operación sea por una cantidad igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA;
 
-Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a seis mil cuatrocientas veinte veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IX. La prestación habitual o profesional de servicios de blindaje de vehículos terrestres, nuevos o usados, así como de bienes inmuebles, por una cantidad igual o superior al equivalente a dos mil cuatrocientas diez veces el salario mínimo vigente en el Distrito Federal.
+VI. La comercialización o intermediación habitual o profesional de Metales Preciosos, Piedras Preciosas, joyas o relojes, en las que se involucren operaciones de compra o venta de dichos bienes en actos u operaciones cuyo valor sea igual o superior al equivalente a ochocientas cinco veces el valor diario de la UMA, con excepción de aquellos en los que intervenga el Banco de México.
 
-Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a cuatro mil ochocientas quince veces el salario mínimo vigente en el Distrito Federal;
+Serán objeto de Aviso ante la Secretaría cuando el monto del acto u operación sea igual o superior al equivalente a mil seiscientas cinco veces el valor diario de la UMA;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. La subasta o comercialización habitual o profesional de obras de arte, en las que se involucren operaciones de compra o venta de dichos bienes realizadas por actos u operaciones con un valor igual o superior al equivalente a dos mil cuatrocientas diez veces el valor diario de la UMA.
+
+Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a cuatro mil ochocientas quince veces el valor diario de la UMA;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. La comercialización o distribución habitual o profesional de vehículos, nuevos o usados, ya sean aéreos, marítimos o terrestres con un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA.
+
+Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a seis mil cuatrocientas veinte veces el valor diario de la UMA;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. La prestación habitual o profesional de servicios de blindaje de vehículos terrestres, nuevos o usados, así como de bienes inmuebles, por una cantidad igual o superior al equivalente a dos mil cuatrocientas diez veces el valor diario de la UMA.
+
+Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación sea igual o superior al equivalente a cuatro mil ochocientas quince veces el valor diario de la UMA;
 
 X. La prestación habitual o profesional de servicios de traslado o custodia de dinero o valores, con excepción de aquellos en los que intervenga el Banco de México y las instituciones dedicadas al depósito de valores.
 
-Serán objeto de Aviso ante la Secretaría cuando el traslado o custodia sea por un monto igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 16 DE JULIO DE 2025)</small>
+
+Serán objeto de Aviso ante la Secretaría:
+
+a) Cuando el traslado o custodia sea por un monto igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, o
+
+b) Cuando no sea posible determinar el monto de lo trasladado o custodiado, se presentará el Aviso ante la Secretaría en todos los casos.
 
 XI. La prestación de servicios profesionales, de manera independiente, sin que medie relación laboral con el cliente respectivo, en aquellos casos en los que se prepare para un cliente o se lleven a cabo en nombre y representación del cliente cualquiera de las siguientes operaciones:
 
@@ -330,33 +446,47 @@ Serán objeto de Aviso ante la Secretaría cuando el prestador de dichos servici
 
 XII. La prestación de servicios de fe pública, en los términos siguientes:
 
-A. Tratándose de los notarios públicos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+A. Tratándose de actos u operaciones celebrados ante las y los notarios públicos, las protocolizaciones, así como cualquier otro acto que conlleve a su formalización:
 
 a) La transmisión o constitución de derechos reales sobre inmuebles, salvo las garantías que se constituyan en favor de instituciones del sistema financiero u organismos públicos de vivienda.
 
-Estas operaciones serán objeto de Aviso ante la Secretaría cuando en los actos u operaciones el precio pactado, el valor catastral o, en su caso, el valor comercial del inmueble, el que resulte más alto, o en su caso el monto garantizado por suerte principal, sea igual o superior al equivalente en moneda nacional a dieciséis mil veces el salario mínimo general diario vigente para el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Estas operaciones serán objeto de Aviso ante la Secretaría cuando en los actos u operaciones el precio pactado, el valor catastral, el valor comercial del inmueble o, en su caso, el monto garantizado por suerte principal, el que resulte más alto, sea igual o superior al equivalente a ocho mil veces el valor diario de la UMA;
 
 b) El otorgamiento de poderes para actos de administración o dominio otorgados con carácter irrevocable. Las operaciones previstas en este inciso siempre serán objeto de Aviso;
 
 c) La constitución de personas morales, su modificación patrimonial derivada de aumento o disminución de capital social, fusión o escisión, así como la compraventa de acciones y partes sociales de tales personas.
 
-Serán objeto de Aviso cuando las operaciones se realicen por un monto igual o superior al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-d) La constitución o modificación de fideicomisos traslativos de dominio o de garantía sobre inmuebles, salvo los que se constituyan para garantizar algún crédito a favor de instituciones del sistema financiero u organismos públicos de vivienda.
+Las operaciones previstas en este inciso, siempre serán objeto de aviso.
 
-Serán objeto de Aviso cuando las operaciones se realicen por un monto igual o superior al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+d) La constitución o modificación de fideicomisos traslativos de dominio o de garantía, salvo los que se constituyan para garantizar algún crédito a favor de instituciones del sistema financiero u organismos públicos de vivienda.
+
+Serán objeto de Aviso ante la Secretaría cuando las operaciones se realicen por un monto igual o superior al equivalente a cuatro mil veces el valor diario de la UMA, y
 
 e) El otorgamiento de contratos de mutuo o crédito, con o sin garantía, en los que el acreedor no forme parte del sistema financiero o no sea un organismo público de vivienda.
 
 Las operaciones previstas en este inciso, siempre serán objeto de Aviso.
 
-B. Tratándose de los corredores públicos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-a) La realización de avalúos sobre bienes con valor igual o superior al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal;
+B. Tratándose de actos u operaciones celebrados ante las y los corredores públicos, las protocolizaciones, así como cualquier otro acto que conlleve a su formalización:
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+a) La realización de avalúos sobre bienes con valor igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA;
 
 b) La constitución de personas morales mercantiles, su modificación patrimonial derivada de aumento o disminución de capital social, fusión o escisión, así como la compraventa de acciones y partes sociales de personas morales mercantiles;
 
-c) La constitución, modificación o cesión de derechos de fideicomiso, en los que de acuerdo con la legislación aplicable puedan actuar;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+c) La constitución, modificación o cesión de derechos de fideicomisos, en los que de acuerdo con la legislación aplicable puedan actuar, salvo los que se constituyan para garantizar algún crédito a favor de instituciones que integran el sistema financiero;
 
 d) El otorgamiento de contratos de mutuo mercantil o créditos mercantiles en los que de acuerdo con la legislación aplicable puedan actuar y en los que el acreedor no forme parte del sistema financiero.
 
@@ -364,11 +494,19 @@ Serán objeto de Aviso ante la Secretaría los actos u operaciones anteriores en
 
 C. Por lo que se refiere a los servidores públicos a los que las leyes les confieran la facultad de dar fe pública en el ejercicio de sus atribuciones previstas en el artículo 3, fracción VII de esta Ley.
 
-XIII. La recepción de donativos, por parte de las asociaciones y sociedades sin fines de lucro, por un valor igual o superior al equivalente a un mil seiscientas cinco veces el salario mínimo vigente en el Distrito Federal.
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Serán objeto de Aviso ante la Secretaría cuando los montos de las donaciones sean por una cantidad igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal;
+D. Tratándose de las personas facilitadoras públicas y privadas a que se refiere la Ley General de Mecanismos Alternativos de Solución de Controversias, las previstas en el apartado A de esta fracción, en los términos que se señalan.
 
-XIV. La prestación de servicios de comercio exterior como agente o apoderado aduanal, mediante autorización otorgada por la Secretaría de Hacienda y Crédito Público, para promover por cuenta ajena, el despacho de mercancías, en los diferentes regímenes aduaneros previstos en la Ley Aduanera, de las siguientes mercancías:
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII. La recepción de donativos, por parte de las Asociaciones y Sociedades sin fines de lucro, por un valor igual o superior al equivalente a mil seiscientas cinco veces el valor diario de la UMA.
+
+Serán objeto de Aviso ante la Secretaría cuando los montos de las donaciones sean por una cantidad igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIV. La prestación de servicios de comercio exterior como agente o apoderado aduanal o agencia aduanal, mediante autorización otorgada por la Secretaría, para promover por cuenta ajena, el despacho de mercancías, en los diferentes regímenes aduaneros previstos en la Ley Aduanera, así como el despacho que las personas físicas y morales promuevan sin la intervención de agente aduanal o agencia aduanal, de las siguientes mercancías:
 
 a) Vehículos terrestres, aéreos y marítimos, nuevos y usados, cualquiera que sea el valor de los bienes;
 
@@ -376,31 +514,49 @@ b) Máquinas para juegos de apuesta y sorteos, nuevas y usadas, cualquiera que s
 
 c) Equipos y materiales para la elaboración de tarjetas de pago, cualquiera que sea el valor de los bienes;
 
-d) Joyas, relojes, Piedras Preciosas y Metales Preciosos, cuyo valor individual sea igual o superior al equivalente a cuatrocientas ochenta y cinco veces el salario mínimo vigente en el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-e) Obras de arte, cuyo valor individual sea igual o superior al equivalente a cuatro mil ochocientas quince veces el salario mínimo vigente en el Distrito Federal;
+d) Joyas, relojes, Piedras Preciosas y Metales Preciosos, cuyo valor individual sea igual o superior al equivalente a cuatrocientas ochenta y cinco veces el valor diario de la UMA;
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+e) Obras de arte, cuyo valor individual sea igual o superior al equivalente a cuatro mil ochocientas quince veces el valor diario de la UMA;
 
 f) Materiales de resistencia balística para la prestación de servicios de blindaje de vehículos, cualquiera que sea el valor de los bienes.
 
 Las actividades anteriores serán objeto de Aviso en todos los casos antes señalados, atendiendo lo establecido en el artículo 19 de la presente Ley;
 
-XV. La constitución de derechos personales de uso o goce de bienes inmuebles por un valor mensual superior al equivalente a un mil seiscientas cinco veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación mensual sea igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal.
+XV. La constitución de derechos personales de uso o goce de bienes inmuebles por un valor mensual superior al equivalente a mil seiscientas cinco veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación.
 
-> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
+Serán objeto de Aviso ante la Secretaría las actividades anteriores, cuando el monto del acto u operación mensual sea igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA;
 
-XVI. El ofrecimiento habitual y profesional de intercambio de activos virtuales por parte de sujetos distintos a las Entidades Financieras, que se lleven a cabo a través de plataformas electrónicas, digitales o similares, que administren u operen, facilitando o realizando operaciones de compra o venta de dichos activos propiedad de sus clientes o bien, provean medios para custodiar, almacenar, o transferir activos virtuales distintos a los reconocidos por el Banco de México en términos de la Ley para Regular las Instituciones de Tecnología Financiera. Se entenderá como activo virtual toda representación de valor registrada electrónicamente y utilizada entre el público como medio de pago para todo tipo de actos jurídicos y cuya transferencia únicamente puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como activo virtual la moneda de curso legal en territorio nacional, las divisas ni cualquier otro activo denominado en moneda de curso legal o divisas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-[N. DE E. PERTENECE A LA FRACCIÓN XVI, D.O.F. 9 DE MARZO DE 2018)
+XVI. El ofrecimiento habitual y profesional de intercambio de activos virtuales por parte de sujetos distintos a las Entidades Financieras, que se lleven a cabo a través de plataformas electrónicas, digitales o similares, que administren u operen, facilitando o realizando operaciones de compra o venta de dichos activos propiedad de sus clientes o bien, provean medios para custodiar, almacenar, o transferir activos virtuales distintos a los reconocidos por el Banco de México en términos de la Ley para Regular las Instituciones de Tecnología Financiera, incluidas las operaciones que se realicen con ciudadanos mexicanos desde otra jurisdicción. Se entenderá como activo virtual toda representación de valor registrada electrónicamente y utilizada entre el público como medio de pago para todo tipo de actos jurídicos, cuya transferencia únicamente puede llevarse a cabo a través de medios electrónicos. En ningún caso se entenderá como activo virtual la moneda de curso legal en territorio nacional, las divisas ni cualquier otro activo denominado en moneda de curso legal o divisas.
 
-Serán objeto de Aviso ante la Secretaría cuando el monto de la operación de compra o venta que realice cada cliente de quien realice la actividad vulnerable a que se refiere esta fracción sea por una cantidad igual o superior al equivalente a seiscientas cuarenta y cinco Unidades de Medida y Actualización.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 16 DE JULIO DE 2025)</small>
 
-[N. DE E. PERTENECE A LA FRACCIÓN XVI, D.O.F. 9 DE MARZO DE 2018)
+Serán objeto de Aviso ante la Secretaría:
+
+a) Cuando el monto de la operación que realice cada Cliente o Usuario de quien realice la Actividad Vulnerable a que se refiere esta fracción sea por una cantidad igual o superior al equivalente a doscientas diez veces el valor diario de la UMA.
+
+b) Cuando las operaciones den lugar al cobro de una contraprestación por el servicio brindado, independientemente de su denominación, ésta sea por una cantidad igual o superior al equivalente a cuatro veces el valor diario de la UMA.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Quienes realicen las Actividades Vulnerables establecidas en esta fracción deberán obtener, mantener y poner a disposición de las autoridades competentes, la información precisa sobre las operaciones con activos virtuales del originante, del receptor y, en su caso, del Beneficiario Controlador, de conformidad con lo que dispongan las reglas de carácter general.
 
 En el evento de que el Banco de México reconozca en términos de la Ley para Regular las Instituciones de Tecnología Financiera activos virtuales, las personas que provean los medios a que se refiere esta fracción, deberán obtener las autorizaciones correspondientes en los plazos que señale dicho Banco de México en las disposiciones respectivas.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+También se considerará que realizan las actividades vulnerables previstas en el presente artículo, quienes actúan por medio de fideicomisos o cualquier otra figura jurídica.
+
 Los actos u operaciones que se realicen por montos inferiores a los señalados en las fracciones anteriores no darán lugar a obligación alguna. No obstante, si una persona realiza actos u operaciones por una suma acumulada en un periodo de seis meses que supere los montos establecidos en cada supuesto para la formulación de Avisos, podrá ser considerada como operación sujeta a la obligación de presentar los mismos para los efectos de esta Ley.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI.]</small>
 
 La Secretaría podrá determinar mediante disposiciones de carácter general, los casos y condiciones en que las Actividades sujetas a supervisión no deban ser objeto de Aviso, siempre que hayan sido realizadas por conducto del sistema financiero.
 
@@ -408,19 +564,67 @@ La Secretaría podrá determinar mediante disposiciones de carácter general, lo
 
 Quienes realicen las Actividades Vulnerables a que se refiere el artículo anterior tendrán las obligaciones siguientes:
 
-I. Identificar a los clientes y usuarios con quienes realicen las propias Actividades sujetas a supervisión y verificar su identidad basándose en credenciales o documentación oficial, así como recabar copia de la documentación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Para los casos en que se establezca una relación de negocios, se solicitará al cliente o usuario la información sobre su actividad u ocupación, basándose entre otros, en los avisos de inscripción y actualización de actividades presentados para efectos del Registro Federal de Contribuyentes;
+I. Identificar y conocer de manera directa a las personas Clientes o Usuarias con quienes realicen la Actividad Vulnerable y verificar su identidad basándose en documentos u otros medios de identificación con reconocimiento oficial, así como recabar copia de los mismos, de conformidad con las Reglas de carácter general que emita la Secretaría;
 
-III. Solicitar al cliente o usuario que participe en Actividades Vulnerables información acerca de si tiene conocimiento de la existencia del dueño beneficiario y, en su caso, exhiban documentación oficial que permita identificarlo, si ésta obrare en su poder; en caso contrario, declarará que no cuenta con ella;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Custodiar, proteger, resguardar y evitar la destrucción u ocultamiento de la información y documentación que sirva de soporte a la Actividad Vulnerable, así como la que identifique a sus clientes o usuarios.
+II. Para los casos en que se establezca una Relación de negocios, se solicitará a la Persona Cliente o Usuaria la información sobre su actividad u ocupación, basándose entre otros, en los avisos de inscripción y actualización de actividades presentados para efectos del Registro Federal de Contribuyentes;
 
-La información y documentación a que se refiere el párrafo anterior deberá conservarse de manera física o electrónica, por un plazo de cinco años contado a partir de la fecha de la realización de la Actividad Vulnerable, salvo que las leyes de la materia de las entidades federativas establezcan un plazo diferente;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. Brindar las facilidades necesarias para que se lleven a cabo las visitas de verificación en los términos de esta Ley, y
+III. Cuando la Cliente o Usuaria sea persona moral, fideicomiso u otra figura jurídica, recabar documentos u otros medios de identificación con reconocimiento oficial que permita identificar a su Beneficiario Controlador, de conformidad con las Reglas de carácter general que emita la Secretaría.
 
-VI. Presentar los Avisos en la Secretaría en los tiempos y bajo la forma prevista en esta Ley.
+Cuando la Cliente o Usuaria sea persona física, recabar la declaración acerca de si tiene o no conocimiento de la existencia de una persona Beneficiario Controlador y, en su caso, la documentación que permita identificarla, de conformidad con las Reglas de carácter general que emita la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Custodiar, proteger, resguardar y evitar la destrucción u ocultamiento de la información y documentación que sirva de soporte a la Actividad Vulnerable, incluyendo los registros de las operaciones realizadas que permitan la reconstrucción de operaciones en lo individual, la correspondencia comercial que las partes involucradas se hubieran compartido para llevar a cabo la operación y los resultados de los análisis previos que se hayan realizado en su caso, así como la que identifique a las personas Clientes o Usuarias, en términos de las reglas de carácter general que emita la Secretaría.
+
+La información y documentación a que se refiere el párrafo anterior deberá conservarse de manera física o electrónica, en el domicilio registrado ante la Secretaría para este efecto, excepto para la fracción XIV del artículo 17 de esta Ley, por al menos un plazo de diez años contado a partir de la fecha de la realización de la Actividad Vulnerable, sin perjuicio de lo establecido en otros ordenamientos aplicables. Cuando se trate de información y documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, el plazo para conservarla se interrumpirá en la fecha de su presentación y se reiniciará hasta que la resolución definitiva que se emita quede firme;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV Bis. Realizar su alta y registro o, en su caso, modificación o baja del Padrón de personas que realizan Actividades Vulnerables, a través del Portal en Internet, de conformidad con lo establecido en la Ley, el Reglamento, y las reglas de carácter general.
+
+Para realizar el alta y registro y sus actualizaciones, quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de la Ley deberán enviar la información, documentación, datos e imágenes a través de los medios electrónicos y en el formato oficial que para tales efectos determine la Secretaría, los cuales deberán ser publicados en el Diario Oficial de la Federación, así como sus modificaciones;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Brindar las facilidades necesarias para que se lleven a cabo las visitas de verificación en los términos de esta Ley, su Reglamento, y las reglas de carácter general;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Presentar los Avisos e Informes ante la Secretaría conforme lo establecido en la presente Ley, así como en las reglas de carácter general.
+
+En caso de sospecha o de contar con información basada en hechos o indicios, de que los recursos relacionados con los actos u operaciones pudieran provenir o estar destinados a la comisión de los Delitos de Operaciones con Recursos de Procedencia Ilícita, deberán presentar Aviso dentro de las 24 horas siguientes en que tuvieron conocimiento de dicha información o se generó la sospecha, incluso si el acto u operación no se celebró, considerando las guías que para tal efecto emita la Secretaría, de conformidad con las reglas de carácter general correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Llevar a cabo una evaluación con un enfoque basado en Riesgos, en términos de las reglas de carácter general que al efecto emita la Secretaría, que les permita identificar, analizar, entender y mitigar sus Riesgos, así como los de las personas Clientes o Usuarias;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Elaborar y observar un Manual de Políticas Internas que contenga los criterios, medidas y procedimientos necesarios para cumplir con las obligaciones previstas en la presente Ley, incluyendo las que les permitan identificar y dar seguimiento a los actos u operaciones que lleven a cabo con Personas Políticamente Expuestas, en los términos de las reglas de carácter general que emita la Secretaría.
+
+En caso de que las personas a que se refiere este artículo formen parte de un grupo empresarial, deberán implementar políticas aplicables a todas las sucursales y filiales de propiedad mayoritaria, incluidas las extranjeras, para la prevención de los Delitos de Operaciones con Recursos de Procedencia Ilícita, los Delitos relacionados con estos y con las estructuras financieras de las organizaciones delictivas, así como evitar el uso de los recursos para su financiamiento, conforme a las reglas de carácter general que emita la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Desarrollar procesos para la selección de personal, así como adoptar programas de capacitación anuales, dirigidos a quienes integran su órgano de administración o persona administradora única, directivas, personas representantes encargadas de cumplimiento y empleadas o empleados que tengan relación directa con las personas Clientes o Usuarias, según corresponda, que contemplen la difusión de la Ley y su normativa secundaria, así como del Manual de Políticas Internas señalado en la fracción VIII de este artículo, en términos de las reglas de carácter general que emita la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X. Contar con mecanismos automatizados que les permitan llevar a cabo un monitoreo permanente de los actos u operaciones que realicen con las personas Clientes o Usuarias para identificar aquellas que no se encuentren dentro del perfil transaccional de las personas Clientes o Usuarias conforme a las reglas de carácter general que emita la Secretaría o que deban acumularse conforme al penúltimo párrafo del artículo 17 de la Ley. Dichos mecanismos también deben permitir dar un seguimiento intensificado a las personas Clientes o Usuarias que sean consideradas Personas Políticamente Expuestas o de alto Riesgo, conforme a lo dispuesto por la fracción IX del artículo 6 de la Ley o la evaluación que se realice en términos de la fracción VII de este artículo, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Contar con la revisión por parte del área de auditoría interna o de una persona auditora externa independiente cuando el riesgo de quien realiza la Actividad Vulnerable sea bajo o medio, o bien, de una persona auditora externa independiente cuando el riesgo de quien realiza la Actividad Vulnerable sea alto, según la evaluación realizada conforme a la fracción VII de este artículo, para evaluar y dictaminar en un año calendario la efectividad del cumplimiento de las obligaciones previstas en la Ley y demás disposiciones aplicables. Dichas auditorías se regularán en términos de las reglas de carácter general que emita la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Secretaría, mediante acuerdos publicados en el Diario Oficial de la Federación, podrá establecer excepciones al cumplimiento de las obligaciones previstas en la presente Ley, su reglamento, reglas de carácter general y demás disposiciones legales de aplicación supletoria, en casos fortuitos o de fuerza mayor que afecten a quienes realizan las actividades consideradas vulnerables de la presente Sección.
 
 ###### Artículo 19.
 
@@ -428,53 +632,85 @@ El Reglamento de la Ley establecerá medidas simplificadas para el cumplimiento 
 
 Asimismo, el Reglamento deberá considerar como medio de cumplimiento alternativo de las obligaciones señaladas en los artículos anteriores, el cumplimiento, en tiempo y forma, que los particulares realicen de otras obligaciones a su cargo, establecidas en leyes especiales, que impliquen proporcionar la misma información materia de los Avisos establecidos por esta Ley; para ello la Secretaría tomará en consideración la información proporcionada en formatos, registros, sistemas y cualquier otro medio al que tenga acceso.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Tratándose de Clientes o Usuarios personas morales mexicanas de derecho público, se les deberá aplicar un régimen simplificado de identificación conforme a lo dispuesto en las reglas de carácter general.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 20.
 
-Las personas morales que realicen Actividades Vulnerables deberán designar ante la Secretaría a un representante encargado del cumplimiento de las obligaciones derivadas de esta Ley, y mantener vigente dicha designación, cuya identidad deberá resguardarse en términos del artículo 38 de esta Ley.
+Las personas morales y quienes actúen a través de fideicomisos o cualquier otra figura jurídica que realicen Actividades Vulnerables, deberán designar ante la Secretaría a una persona Representante Encargada del Cumplimiento de las obligaciones derivadas de esta Ley, y mantener vigente dicha designación, cuya identidad deberá resguardarse en términos del artículo 38 de esta Ley.
 
-En tanto no haya un representante o la designación no esté actualizada, el cumplimiento de las obligaciones que esta Ley señala, corresponderá a los integrantes del órgano de administración o al administrador único de la persona moral.
+En tanto no haya una persona Representante Encargada del Cumplimiento o la designación no sea aceptada, el cumplimiento de las obligaciones que esta Ley señala corresponderá a los integrantes del órgano de administración o a quien funja como administrador único de la persona moral; a la parte fideicomitente o su representante, o la persona que funja como administrador en cualquier otra figura jurídica.
 
-Las personas físicas tendrán que cumplir, en todos los casos, personal y directamente con las obligaciones que esta Ley establece, salvo en el supuesto previsto en la Sección Tercera del Capítulo III de esta Ley.
+La persona Representante Encargada del Cumplimiento deberá recibir anualmente capacitación para el cumplimiento de las obligaciones que establece esta Ley, conforme a las reglas de carácter general que emita la Secretaría.
+
+Las personas físicas que realicen Actividades Vulnerables, cumplirán personal y directamente con las obligaciones que esta Ley establece, salvo en el supuesto previsto en la Sección Cuarta del Capítulo III de esta Ley.
 
 ###### Artículo 21.
 
 Los clientes o usuarios de quienes realicen Actividades Vulnerables les proporcionarán a éstos la información y documentación necesaria para el cumplimiento de las obligaciones que esta Ley establece.
 
-Quienes realicen las Actividades Vulnerables deberán abstenerse, sin responsabilidad alguna, de llevar a cabo el acto u operación de que se trate, cuando sus clientes o usuarios se nieguen a proporcionarles la referida información o documentación a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Quienes realicen las Actividades Vulnerables deberán abstenerse, sin responsabilidad alguna, de llevar a cabo el acto u operación de que se trate cuando las personas Clientes o Usuarias se nieguen a proporcionarles la información o documentación a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 22.
 
-La presentación ante la Secretaría de los Avisos, información y documentación a que se refiere esta Ley, por parte de quienes realicen las Actividades Vulnerables no implicará para éstos, transgresión alguna a las obligaciones de confidencialidad o secreto legal, profesional, fiscal, bancario, fiduciario o cualquier otro que prevean las leyes, ni podrá ser objeto de cláusula de confidencialidad en convenio, contrato o acto jurídico alguno.
+La presentación ante la Secretaría de los Avisos, información, documentación, datos e imágenes a que se refiere esta Ley, por parte de quienes realicen las Actividades Vulnerables no implicará para éstos, transgresión alguna a las obligaciones de confidencialidad o secreto legal, profesional, fiscal, bancario, fiduciario o cualquier otro que prevean las leyes, ni podrá ser objeto de cláusula de confidencialidad en convenio, contrato o acto jurídico alguno.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 22 Bis.
+
+La supervisión, verificación y vigilancia del cumplimiento de las obligaciones aplicables a quienes realizan las Actividades Vulnerables a que se refiere esta Ley, con excepción de las establecidas en la Sección Primera del Capítulo III, se llevará a cabo por la Secretaría.
 
 #### Sección Tercera. Plazos y formas para la presentación de Avisos
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 23.
 
-Quienes realicen Actividades Vulnerables de las previstas en esta Sección presentarán ante la Secretaría los Avisos correspondientes, a más tardar el día 17 del mes inmediato siguiente, según corresponda a aquel en que se hubiera llevado a cabo la operación que le diera origen y que sea objeto de Aviso.
+Quienes realicen Actividades Vulnerables de las previstas en el artículo 17 de esta Ley, presentarán ante la Secretaría los Avisos correspondientes, a más tardar el día 17 del mes inmediato siguiente, según corresponda a aquel en que se hubiera llevado a cabo la operación que le diera origen y que sea objeto de Aviso.
+
+La Secretaría, mediante acuerdo publicado en el Diario Oficial de la Federación podrá establecer excepciones al cumplimiento de los plazos para la presentación de los Avisos a los que se refiere el presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 24.
 
-La presentación de los Avisos se llevará a cabo a través de los medios electrónicos y en el formato oficial que establezca la Secretaría.
+La presentación de los Avisos e Informes se llevará a cabo a través de los medios electrónicos y en los formatos oficiales que establezca la Secretaría, los cuales deberán ser publicados en el Diario Oficial de la Federación, así como sus modificaciones.
 
 Dichos Avisos contendrán respecto del acto u operación relacionados con la Actividad Vulnerable que se informe, lo siguiente:
 
 I. Datos generales de quien realice la Actividad Vulnerable;
 
-II. Datos generales del cliente, usuarios o del Beneficiario Controlador, y la información sobre su actividad u ocupación de conformidad con el artículo 18 fracción II de esta Ley, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Datos generales de la persona Cliente o Usuaria y, en su caso, de la persona Beneficiario Controlador, así como la información sobre su actividad u ocupación de conformidad con el artículo 18 fracción II de esta Ley, y
 
 III. Descripción general de la Actividad Vulnerable sobre la cual se dé Aviso.
 
-A los notarios y corredores públicos se les tendrán por cumplidas las obligaciones de presentar los Avisos correspondientes mediante el sistema electrónico por el que informen o presenten las declaraciones y Avisos a que se refieren las disposiciones fiscales federales.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las y los notarios públicos podrán cumplir las obligaciones de presentar los Avisos que señala el inciso a) del Apartado A de la fracción XII del artículo 17 de la Ley, únicamente cuando sean presentados a través de los medios que establezcan las disposiciones fiscales federales para enviar las declaraciones y avisos que en materia fiscal correspondan, siempre y cuando contengan la información que requiere el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 25.
 
-La Secretaría podrá requerir por escrito o durante las visitas de verificación, la documentación e información soporte de los Avisos que esté relacionada con los mismos.
+La Secretaría podrá requerir a quienes realizan Actividades Vulnerables, por escrito o durante las visitas de verificación, la documentación, información, datos e imágenes soporte de los actos u operaciones que lleven a cabo con las personas Clientes o Usuarias, así como de los Avisos e Informes.
 
 #### Sección Cuarta. Avisos por Conducto de Entidades Colegiadas
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 26.
 
-Los sujetos que deban presentar Avisos conforme a lo previsto por la Sección Segunda de este Capítulo, podrán presentarlos por conducto de una Entidad Colegiada que deberá cumplir los requisitos que establezca esta Ley.
+Las personas que realicen Actividades Vulnerables, incluidas quienes actúen por medio de fideicomisos, y deban presentar Avisos conforme a lo previsto por la Sección Segunda de este Capítulo, podrán presentarlos por conducto de una Entidad Colegiada que deberá cumplir los requisitos que establezca esta Ley.
 
 ###### Artículo 27.
 
@@ -502,7 +738,9 @@ IX. Contar con un convenio vigente con la Secretaría que le permita expresament
 
 Las Entidades Colegiadas reconocidas por la Ley podrán, previo convenio con la Secretaría, establecer un órgano concentrador para dar cumplimiento a las disposiciones de esta Ley.
 
-El Reglamento regulará lo necesario para el establecimiento y funcionamiento de los órganos que se establezcan.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El Reglamento de la Ley regulará lo necesario para el establecimiento y funcionamiento de los órganos que se establezcan.
 
 ###### Artículo 28.
 
@@ -518,9 +756,11 @@ Los incumplimientos a las obligaciones a cargo de los integrantes por causas imp
 
 La Entidad Colegiada no será responsable cuando el incumplimiento de las obligaciones a cargo del integrante sea por causas imputables a éste.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 31.
 
-La Entidad Colegiada deberá de informar con cuando menos treinta días de anticipación, a la Secretaría y a sus integrantes, la intención de extinción, disolución o liquidación de la misma, o bien de su intención de dejar de actuar como intermediario entre sus integrantes y la Secretaría.
+La Entidad Colegiada deberá de informar con cuando menos treinta días de anticipación, a sus integrantes y a la Secretaría, la intención de extinción, disolución o liquidación de la misma, o bien de su intención de dejar de actuar como intermediario entre sus integrantes y la Secretaría.
 
 A partir de la extinción, disolución o liquidación, o bien de que deje de actuar como intermediario entre sus integrantes y la Secretaría, ésta ya no recibirá Avisos por conducto de la Entidad Colegiada de que se trate, por lo que sus integrantes deberán dar cumplimiento en forma individual y directa a las obligaciones que deriven de esta Ley.
 
@@ -530,45 +770,99 @@ En aquellos casos en los que deje de tener vigencia el convenio celebrado con la
 
 ### Capítulo IV. Del Uso de Efectivo y Metales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 32.
 
-Queda prohibido dar cumplimiento a obligaciones y, en general, liquidar o pagar, así como aceptar la liquidación o el pago, de actos u operaciones mediante el uso de monedas y billetes, en moneda nacional o divisas y Metales Preciosos, en los supuestos siguientes:
+Queda prohibido dar cumplimiento a obligaciones y, en general, liquidar o pagar, así como aceptar la liquidación o el pago, de actos u operaciones mediante el uso de monedas y billetes, en moneda nacional o divisas y Metales Preciosos, aun cuando la liquidación o el pago se realice en efectivo por conducto de una Entidad Financiera, en los supuestos siguientes:
 
-I. Constitución o transmisión de derechos reales sobre bienes inmuebles por un valor igual o superior al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Transmisiones de propiedad o constitución de derechos reales sobre vehículos, nuevos o usados, ya sean aéreos, marítimos o terrestres por un valor igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación;
+I. Constitución o transmisión de derechos reales sobre bienes inmuebles por un valor igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
 
-III. Transmisiones de propiedad de relojes, joyería, Metales Preciosos y Piedras Preciosas, ya sea por pieza o por lote, y de obras de arte, por un valor igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Adquisición de boletos que permita participar en juegos con apuesta, concursos o sorteos, así como la entrega o pago de premios por haber participado en dichos juegos con apuesta, concursos o sorteos por un valor igual o superior al equivalente a tres mil doscientos diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación;
+II. Transmisiones de propiedad o constitución de derechos reales sobre vehículos, nuevos o usados, ya sean aéreos, marítimos o terrestres por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
 
-V. Prestación de servicios de blindaje para cualquier vehículo de los referidos en la fracción II de este artículo o bien, para bienes inmuebles por un valor igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. Transmisión de dominio o constitución de derechos de cualquier naturaleza sobre los títulos representativos de partes sociales o acciones de personas morales por un valor igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal, al día en que se realice el pago o se cumpla la obligación, o
+III. Transmisiones de propiedad de relojes, joyería, Metales Preciosos y Piedras Preciosas, ya sea por pieza o por lote, y de obras de arte, por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
 
-VII. Constitución de derechos personales de uso o goce de cualquiera de los bienes a que se refieren las fracciones I, II y V de este artículo, por un valor igual o superior al equivalente a tres mil doscientas diez veces el salario mínimo vigente en el Distrito Federal, mensuales al día en que se realice el pago o se cumpla la obligación.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Adquisición de boletos que permita participar en juegos con apuesta, concursos o sorteos, así como la entrega o pago de premios por haber participado en dichos juegos con apuesta, concursos o sorteos por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Prestación de servicios de blindaje para cualquier vehículo de los referidos en la fracción II de este artículo o bien, para bienes inmuebles por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Transmisión de dominio o constitución de derechos de cualquier naturaleza sobre los títulos representativos de partes sociales o acciones de personas morales por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, al día en que se realice el pago o se cumpla la obligación;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Constitución de derechos personales de uso o goce de cualquiera de los bienes a que se refieren las fracciones I, II y V de este artículo, por un valor igual o superior al equivalente a tres mil doscientas diez veces el valor diario de la UMA, mensuales al día en que se realice el pago o se cumpla la obligación, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Consignación de pago relacionada con algún acto u operación a que se refieren las fracciones I a VII de este artículo, conforme a los umbrales dispuestos en cada fracción al día en que se realice la consignación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Secretaría, mediante reglas de carácter general, podrá determinar los casos y condiciones en que la prohibición a que se refiere el párrafo primero de este artículo también aplique a bienes fungibles, de acuerdo al grado de riesgo que representen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 33.
 
-Los Fedatarios Públicos, en los instrumentos en los que hagan constar cualquiera de los actos u operaciones a que se refiere el artículo anterior, deberán identificar la forma en la que se paguen las obligaciones que de ellos deriven cuando las operaciones tengan un valor igual o superior al equivalente a ocho mil veinticinco veces el salario mínimo vigente en el Distrito Federal.
+Las personas depositarias de Fe Pública, en los instrumentos en los que hagan constar cualquiera de los actos u operaciones a que se refiere el artículo anterior, deberán identificar la forma en la que se paguen las obligaciones que de ellos deriven cuando las operaciones tengan un valor igual o superior al equivalente a ocho mil veinticinco veces el valor diario de la UMA.
 
-En caso de que el valor de la operación sea inferior a la cantidad antes referida, o cuando el acto u operación haya sido total o parcialmente pagado con anterioridad a la firma del instrumento, bastará la declaración que bajo protesta de decir verdad hagan los clientes o usuarios.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En caso de que el valor de la operación sea inferior a la cantidad antes referida y cuando el acto u operación haya sido total o parcialmente pagado con anterioridad a la firma del instrumento, bastará la declaración que bajo protesta de decir verdad hagan las personas Clientes o Usuarias.
 
 En los casos distintos de los señalados en el párrafo anterior, los demás actos u operaciones a que se refieren las fracciones II a VII del artículo anterior deberán formalizarse mediante la expedición de los certificados, facturas o garantías que correspondan, o de cualquier otro documento en el que conste la operación, y se verificarán previa identificación de quienes realicen el acto u operación, así como, en su caso, del Beneficiario Controlador. En dichos documentos se deberá especificar la forma de pago y anexar el comprobante respectivo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+### Capítulo IV Bis. Del Beneficiario Controlador
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 33 Bis.
+
+Las sociedades mercantiles deben atender los requerimientos realizados por las autoridades competentes conforme a esta Ley, para determinar claramente a quien sea su Beneficiario Controlador y conservar la información que lo soporte.
+
+Cuando se realice la transmisión de dominio o constitución de derechos de cualquier naturaleza sobre los títulos representativos de partes sociales o acciones de sociedades mercantiles, éstas deberán presentar aviso respecto de la inscripción en el libro de registro de la sociedad en el sistema electrónico que de conformidad con el artículo 34, fracción XXXI, de la Ley Orgánica de la Administración Pública Federal determine y opere la Secretaría de Economía.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 33 Ter.
+
+Las sociedades mercantiles también deben registrar en el sistema electrónico referido en el artículo 33 Bis de la Ley, la información necesaria para identificar a la persona o grupo de personas que cumplan los supuestos para ser consideradas como Beneficiario Controlador de dichas personas morales, conforme a los lineamientos que al efecto emita la Secretaría en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 33 Quáter.
+
+La Secretaría, a través de la unidad administrativa facultada conforme a las disposiciones aplicables, promoverá entre las autoridades competentes de las Entidades Federativas que las sociedades y asociaciones civiles identifiquen a su respectiva persona Beneficiario Controlador, tomando en consideración lo dispuesto en las reglas de carácter general que al efecto emita la Secretaría conforme a esta Ley.
+
 ### Capítulo V. De las Visitas de Verificación
 
-### Capítulo VI. De la Reserva y Manejo de Información
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 34.
 
-La Secretaría podrá comprobar, de oficio y en cualquier tiempo, el cumplimiento de las obligaciones previstas en esta Ley, mediante la práctica de visitas de verificación a quienes realicen las Actividades Vulnerables previstas en la Sección Segunda del Capítulo III de esta Ley, a las Entidades a que se refiere el artículo 26 de esta Ley o, en su caso, al órgano concentrador previsto en el penúltimo párrafo del artículo 27 de la misma.
+La Secretaría podrá comprobar, de oficio y en cualquier tiempo, el cumplimiento de las obligaciones previstas en esta Ley, mediante la práctica de visitas de verificación o requerimientos de información, documentación, datos e imágenes a quienes realicen las Actividades Vulnerables previstas en la Sección Segunda del Capítulo III de esta Ley, a las Entidades Colegiadas a que se refiere el artículo 26 de esta Ley o, en su caso, al órgano concentrador previsto en el penúltimo párrafo del artículo 27 de la misma.
 
-Las personas visitadas deberán proporcionar exclusivamente la información y documentación soporte con que cuenten que esté directamente relacionada con Actividades Vulnerables.
+Las personas requeridas o visitadas deberán proporcionar exclusivamente la información, datos, imágenes y documentación soporte con que cuenten que esté directamente relacionada con las Actividades Vulnerables que realicen.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 35.
 
-El desarrollo de las visitas de verificación, así como la imposición de las sanciones administrativas previstas en esta Ley, se sujetarán a lo dispuesto por la Ley Federal de Procedimiento Administrativo.
+El desarrollo de las visitas de verificación y los requerimientos de información, documentación, datos e imágenes, así como la imposición de sanciones administrativas previstas en esta Ley, se sujetarán a lo previsto en esta Ley, su Reglamento y las reglas de carácter general, observando de manera supletoria la Ley Federal de Procedimiento Administrativo.
 
 ###### Artículo 36.
 
@@ -578,19 +872,25 @@ Las verificaciones que lleve a cabo la Secretaría sólo podrán abarcar aquello
 
 La Secretaría, para el ejercicio de las facultades que le confiere la presente Ley, en su caso, podrá solicitar el auxilio de la fuerza pública cuando las circunstancias así lo requieran. Los mandos de la fuerza pública deberán proporcionar el auxilio solicitado.
 
-### Capítulo VII. De las Sanciones Administrativas
+### Capítulo VI. De la Reserva y Manejo de Información
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 38.
 
-La información y documentación soporte de los Avisos, así como la identidad de quienes los hayan presentado y, en su caso, de los representantes designados en términos del artículo 20 de la Ley y del representante de las Entidades Colegiadas a que se refiere el artículo 27, fracción IV, de este ordenamiento, se considera confidencial y reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+La información y documentación soporte de los Avisos, así como la identidad de quienes los hayan presentado y, en su caso, de las personas Representantes Encargadas del Cumplimiento designadas en términos del artículo 20 de la Ley y del representante de las Entidades Colegiadas a que se refiere el artículo 27, fracción IV, de este ordenamiento, se considera confidencial y reservada en términos de la Ley General de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 39.
 
 La información que derive de los Avisos que se presenten ante las autoridades competentes, será utilizada exclusivamente para la prevención, identificación, investigación y sanción de operaciones con recursos de procedencia ilícita y demás delitos relacionados con éstas.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 40.
 
-La Secretaría deberá informar al Ministerio Público de la Federación de cualquier acto u operación que derive de una Actividad Vulnerable que pudiera dar lugar a la existencia de un delito del fuero federal que se identifique con motivo de la aplicación de la presente Ley.
+La Secretaría deberá denunciar ante la Fiscalía cualquier acto u operación que derive de una Actividad Vulnerable que pudiera dar lugar a la existencia de un delito del fuero federal que se identifique con motivo de la aplicación de la presente Ley.
+
+La Unidad deberá informar semestralmente a la Secretaría el estado de las denuncias presentadas.
 
 ###### Artículo 41.
 
@@ -599,6 +899,12 @@ Durante las investigaciones y el proceso penal federal se mantendrá el resguard
 Los servidores públicos de la Secretaría guardarán la debida reserva de la identidad y de cualquier dato personal a que se refiere el párrafo anterior, así como de la información y documentación que estos hayan proporcionado en los respectivos Avisos, salvo en los casos en los que sea requerida por la Unidad o la autoridad judicial.
 
 Se deberá mantener en reserva y bajo resguardo, la identidad y datos personales de los servidores públicos que intervengan en cualquier acto derivado de la aplicación de la Ley, observando, en su caso, lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 41 Bis.
+
+Para proteger la identidad de las personas oficiales de cumplimiento de las Entidades Financieras y de las Representantes Encargadas del Cumplimiento de quienes realizan las Actividades Vulnerables a que se refiere el Capítulo III de esta Ley, cuando las autoridades judiciales o administrativas requieran su comparecencia para el desahogo de alguna diligencia relacionada con sus funciones o conocimiento de la información que derive de la aplicación de esta Ley, dichas diligencias podrán ser desahogadas por las personas representantes legales o apoderadas de quienes realizan las Actividades Vulnerables señaladas en los artículos 14 y 17 de la Ley.
 
 ###### Artículo 42.
 
@@ -614,13 +920,13 @@ La Secretaría, así como las autoridades competentes en las materias relacionad
 
 La Unidad podrá consultar las bases de datos de la Secretaría que contienen los Avisos de actos u operaciones relacionados con las Actividades Vulnerables y ésta última tiene la obligación de proporcionarle la información requerida.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 45.
 
-La Secretaría y la Fiscalía, en el ámbito de sus respectivas competencias, para efectos exclusivamente de la identificación y análisis de operaciones relacionadas con los delitos de operaciones con recursos de procedencia ilícita, están legalmente facultadas y legitimadas, por conducto de las unidades administrativas expresamente facultadas para ello en sus respectivos reglamentos, para corroborar la información, datos e imágenes relacionados con la expedición de identificaciones oficiales, que obre en poder de las autoridades federales, así como para celebrar convenios con los órganos constitucionales autónomos, entidades federativas y municipios, a efecto de corroborar la información referida.
+La Secretaría y la Fiscalía, en el ámbito de sus respectivas competencias, para efectos exclusivamente de la identificación y análisis de operaciones relacionadas con los Delitos de Operaciones con Recursos de Procedencia Ilícita, están legalmente facultadas y legitimadas, por conducto de las unidades administrativas expresamente facultadas para ello en sus respectivos reglamentos, para recabar y corroborar la información, datos e imágenes relacionados con los registros públicos, bases de datos o con la expedición de identificaciones oficiales, que obren en poder de las autoridades federales, locales o municipales, así como para celebrar convenios con los órganos constitucionales autónomos, entidades federativas, alcaldías y municipios, a efecto de corroborar la información referida.
 
-La Secretaría o la Fiscalía podrán celebrar convenios con las autoridades que administren los registros de los documentos de identificación referidos en este artículo, para el establecimiento de sistemas de consulta remota.
+La Secretaría o la Fiscalía podrán celebrar convenios con las autoridades que administren los registros públicos o de los documentos de identificación referidos en este artículo, para el establecimiento de sistemas de consulta remota.
 
 ###### Artículo 46.
 
@@ -628,11 +934,11 @@ La Unidad podrá solicitar a la Secretaría la verificación de información y d
 
 El Ministerio Público de la Federación podrá solicitar a la Secretaría que ejerza las facultades previstas en esta Ley, en los términos de los acuerdos de colaboración que al efecto suscriban.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 47.
 
-Sin perjuicio de la información y documentación que la Secretaría esté obligada a proporcionar a la Fiscalía en caso de que la Secretaría, con base en la información que reciba y analice en términos de la presente Ley, conozca de la comisión de conductas susceptibles de ser analizadas o investigadas por las instancias encargadas del combate a la corrupción o de procuración de justicia de las entidades federativas, deberá comunicar a dichas instancias, de acuerdo con la competencia que les corresponda, la información necesaria para identificar actos u operaciones, así como personas presuntamente involucradas con recursos de procedencia ilícita.
+Sin perjuicio de la información y documentación que la Secretaría esté obligada a proporcionar a la Fiscalía, en caso de que la Secretaría, con base en la información que reciba y analice en términos de la presente Ley, conozca de la comisión de conductas susceptibles de ser analizadas o investigadas por las instancias encargadas del combate a la corrupción, delitos fiscales o de procuración de justicia de las entidades federativas, deberá comunicar a dichas instancias, de acuerdo con la competencia que les corresponda, la información necesaria para identificar actos u operaciones, así como personas presuntamente involucradas con recursos de procedencia ilícita.
 
 ###### Artículo 48.
 
@@ -644,25 +950,55 @@ La Secretaría podrá dar información conforme a los tratados, convenios o acue
 
 En estos casos quienes reciban la información y los datos de parte de la Secretaría deberán garantizar la confidencialidad y reserva de aquello que se les proporcione.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 50.
 
-Los servidores públicos de la Secretaría, la Fiscalía y las personas que deban presentar Avisos en términos de la presente Ley, que conozcan de información, documentación, datos o noticias de actos u operaciones objeto de la presente Ley y que hayan sido presentados ante la Secretaría, se abstendrán de divulgarla o proporcionarla, bajo cualquier medio, a quien no esté expresamente autorizado en la misma.
+Las personas servidoras públicas de la Secretaría, la Fiscalía y las personas que deban presentar Avisos en términos de la presente Ley, que conozcan de información, documentación, datos o noticias de actos u operaciones objeto de la presente Ley y que hayan sido presentados ante la Secretaría, se abstendrán de divulgarla o proporcionarla, bajo cualquier medio, a quien no esté expresamente autorizado en la misma.
 
-Para que se pueda proporcionar información, documentación, datos e imágenes a los servidores públicos de las entidades federativas, éstos deberán estar sujetos a obligaciones legales en materia de guarda, reserva y confidencialidad respecto de aquello que se les proporcione en términos de esta Ley y su inobservancia esté penalmente sancionada.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para que se pueda proporcionar información, documentación, datos e imágenes a las personas servidoras públicas de las entidades federativas, éstas deberán estar sujetas a obligaciones legales en materia de guarda, reserva y confidencialidad respecto de aquello que se les proporcione en términos de esta Ley y su inobservancia esté penalmente sancionada.
 
 La violación a las reservas que esta Ley impone, será sancionada en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 51.
 
-Los administradores de los sistemas previstos en la Ley de Sistemas de Pago, incluido el Banco de México; las personas morales o fideicomisos que tengan por objeto realizar procesos de compensación o transferencias de información de medios de pagos del sistema financiero, así como compensar y liquidar obligaciones derivadas de contratos bancarios, bursátiles o financieros, y las personas que emitan, administren, operen o presten servicios de tarjetas de crédito, débito, prepagadas de acceso a efectivo, de servicios, de pago electrónico y las demás que proporcionen servicios para tales fines, proporcionarán a la Secretaría la información y documentación a la que tengan acceso y que ésta les requiera por escrito, mismo que les deberá ser notificado en términos de la Ley Federal de Procedimiento Administrativo, para efectos de lo dispuesto en la presente Ley.
+Los administradores de los sistemas previstos en la Ley de Sistemas de Pagos, incluido el Banco de México; las personas morales o fideicomisos que tengan por objeto realizar procesos de compensación o transferencias de información de medios de pagos del sistema financiero, así como compensar y liquidar obligaciones derivadas de contratos bancarios, bursátiles o financieros, y las personas que emitan, administren, operen o presten servicios de tarjetas de crédito, débito, prepagadas de acceso a efectivo, de servicios, de pago electrónico y las demás que proporcionen servicios para tales fines, proporcionarán a la Secretaría la información y documentación a la que tengan acceso y que ésta les requiera por escrito, mismo que les deberá ser notificado en términos de la Ley Federal de Procedimiento Administrativo, para efectos de lo dispuesto en la presente Ley.
 
 Las personas a que se refiere el párrafo anterior proporcionarán la información y documentación que se les requiera, dentro de los treinta días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
-El intercambio de información y documentación a que haya lugar de acuerdo con el párrafo primero de este artículo, entre el Banco de México y la Secretaría, se hará conforme a los convenios de colaboración que, al efecto, celebren.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-### Capítulo VIII. De los Delitos
+El intercambio de información a que haya lugar de acuerdo con el párrafo primero de este artículo, entre el Banco de México y la Secretaría, se hará conforme a los acuerdos que celebren, en los cuales podrán establecer criterios y mecanismos para el acceso a la información que el Banco de México deba proporcionar a la Secretaría conforme al presente artículo. La información que el Banco de México proporcione, quedará sujeta al mismo tratamiento que el aplicable tanto a los Avisos como a la respectiva información soporte, en términos de los artículos 39 y 42 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 51 Bis.
+
+Las dependencias y entidades de la Administración Pública Federal, local, municipal y de las demarcaciones de la Ciudad de México, así como los organismos constitucionales autónomos y empresas públicas del Estado proporcionarán a la Secretaría, la información, datos, imágenes y documentación a la que tengan acceso y que les sea requerida en el ejercicio de sus atribuciones.
+
+La información relativa a los partidos políticos nacionales y locales, agrupaciones políticas nacionales, coaliciones, precandidaturas, candidaturas independientes y de partido será requerida por la Secretaría al Instituto Nacional Electoral u Organismo Público Local Electoral que corresponda, teniendo la obligación de proporcionarla.
+
+La información de los sindicatos y sus dirigentes podrá ser requerida por la Secretaría a la Secretaría del Trabajo y Previsión Social u órgano equivalente a nivel local.
+
+La dependencia encargada de conducir y supervisar la política energética del país en materia energética a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, deberá proporcionar la información que tenga conforme a sus facultades y le sea requerida por la Secretaría en el ejercicio de sus atribuciones.
+
+Las empresas públicas del Estado y sus filiales establecerán medidas internas que tengan como finalidad mitigar el Riesgo de ser utilizadas en Operaciones con Recursos de Procedencia Ilícita. Para tales efectos, podrán celebrar acuerdos de colaboración con la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 51 Ter.
+
+La Secretaría elaborará y mantendrá actualizado un listado nominativo de cargos de personas servidoras públicas que serán consideradas políticamente expuestas.
+
+Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, las dependencias y entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y demarcaciones de la Ciudad de México, la Fiscalía General de la República y las fiscalías o procuradurías locales, los órganos jurisdiccionales que no formen parte de los poderes judiciales, las Empresas públicas del Estado, así como cualquier otro organismo sobre el que tenga control cualquiera de los poderes y órganos públicos citados remitirán a la Secretaría su listado específico de Personas Políticamente Expuestas con los datos de identificación que establezca el formato emitido por la Secretaría.
+
+En caso de que las Entidades Financieras y quienes realicen Actividades Vulnerables, después de haber llevado a cabo la identificación y verificación de identidad del Cliente o Usuario, no puedan determinar si es persona políticamente expuesta, podrán consultar a la Secretaría a efecto de dar cumplimiento a las obligaciones establecidas en las disposiciones de carácter general que emanen de las leyes financieras, así como la fracción VIII del artículo 18 de la Ley.
+
+### Capítulo VII. De las Sanciones Administrativas
 
 ###### Artículo 52.
 
@@ -682,11 +1018,15 @@ II. Incumplan con cualquiera de las obligaciones establecidas en el artículo 18
 
 III. Incumplan con la obligación de presentar en tiempo los Avisos a que se refiere el artículo 17 de esta Ley.
 
-La sanción prevista en esta fracción será aplicable cuando la presentación del Aviso se realice a más tardar dentro de los treinta días siguientes a la fecha en que debió haber sido presentado. En caso de que la extemporaneidad u omisión exceda este plazo, se aplicará la sanción prevista para el caso de omisión en el artículo 55 de esta Ley, o
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La sanción prevista en esta fracción será aplicable cuando la presentación del Aviso se realice a más tardar dentro de los treinta días siguientes a la fecha en que debió haber sido presentado. En caso de que la extemporaneidad exceda este plazo, se aplicará la sanción prevista para el caso de omisión en el artículo 54, fracción II, de esta Ley;
 
 IV. Incumplan con la obligación de presentar los Avisos sin reunir los requisitos a que se refiere el artículo 24 de esta Ley;
 
-V. Incumplan con las obligaciones que impone el artículo 33 de esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Incumplan con las obligaciones que imponen los artículos 33, 33 Bis y 33 Ter de esta Ley;
 
 VI. Omitan presentar los Avisos a que se refiere el artículo 17 de esta Ley, y
 
@@ -696,25 +1036,45 @@ VII. Participen en cualquiera de los actos u operaciones prohibidos por el artí
 
 Las multas aplicables para los supuestos del artículo anterior de esta Ley serán las siguientes:
 
-I. Se aplicará multa equivalente a doscientos y hasta dos mil días de salario mínimo general vigente en el Distrito Federal en el caso de las fracciones I, II, III y IV del artículo 53 de esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Se aplicará multa equivalente a dos mil y hasta diez mil días de salario mínimo general vigente en el Distrito Federal en el caso de la fracción V del artículo 53 de esta Ley, y
+I. Se aplicará multa equivalente a doscientos y hasta dos mil veces el valor diario de la UMA en el caso de las fracciones I, II, III y IV del artículo 53 de esta Ley;
 
-III. Se aplicará multa equivalente a diez mil y hasta sesenta y cinco mil días de salario mínimo general vigente en el Distrito Federal, o del diez al cien por ciento del valor del acto u operación, cuando sean cuantificables en dinero, la que resulte mayor en el caso de las fracciones VI y VII del artículo 53 de esta Ley.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Se aplicará multa equivalente a dos mil y hasta diez mil veces el valor diario de la UMA en el caso de la fracción V del artículo 53 de esta Ley, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Se aplicará multa equivalente a diez mil y hasta sesenta y cinco mil veces el valor diario de la UMA, o del diez al cien por ciento del valor del acto u operación, cuando sean cuantificables en dinero, la que resulte mayor en el caso de las fracciones VI y VII del artículo 53 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 54 Bis.
+
+La Secretaría podrá determinar, conforme a los mecanismos que para tal efecto se emitan en términos de las reglas de carácter general, que quienes realizan Actividades Vulnerables suspendan de manera temporal la realización de actos u operaciones con determinadas personas Clientes o Usuarias en tanto se subsane o resuelva el procedimiento establecido en dichos mecanismos.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 55.
 
-La Secretaría se abstendrá de sancionar al infractor, por una sola vez, en caso de que se trate de la primera infracción en que incurra, siempre y cuando cumpla, de manera espontánea y previa al inicio de las facultades de verificación de la Secretaría, con la obligación respectiva y reconozca expresamente la falta en que incurrió.
+La Secretaría se abstendrá de sancionar al infractor, por única ocasión, el total de las infracciones en que incurra, siempre y cuando cumpla, de manera espontánea y previa al inicio de las facultades de verificación de la Secretaría, con las obligaciones respectivas y reconozca expresamente la falta en que incurrió dentro del plazo inicial del procedimiento de verificación.
+
+Cuando el sujeto obligado ya haya ejercido el beneficio a que se refiere el párrafo anterior, la Secretaría reducirá hasta en un cincuenta por ciento el monto de las multas que correspondan a las infracciones que se regularicen de manera espontánea y previa al inicio de las facultades de verificación, siempre y cuando reconozca expresamente la falta cometida ante la autoridad dentro del plazo inicial del procedimiento sancionador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 56.
 
-Son causas de revocación de los permisos de juegos y sorteos, además de las señaladas en las disposiciones jurídicas aplicables:
+Son causas de revocación de los permisos o autorizaciones otorgadas por autoridades competentes a aquellas personas que realicen las Actividades Vulnerables a que se refieren las fracciones I, IX y X del artículo 17 de esta Ley, además de las señaladas en las disposiciones jurídicas aplicables:
 
 I. La reincidencia en cualquiera de las conductas previstas en el artículo 53 fracciones I, II, III y IV de esta Ley, o
 
 II. Cualquiera de las conductas previstas en el artículo 53 fracciones VI y VII de esta Ley.
 
-La Secretaría informará de los hechos constitutivos de causal de revocación a la Secretaría de Gobernación, a efecto de que ésta ejerza sus atribuciones en la materia y, en su caso, aplique las sanciones correspondientes.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Secretaría informará de los hechos constitutivos de la causal de revocación a las autoridades competentes, a efecto de que éstas ejerzan sus atribuciones en la materia y, en su caso, apliquen las sanciones correspondientes, y solicitará información a dichas autoridades sobre el resultado o conclusión del procedimiento que, en su caso, se haya instaurado.
 
 ###### Artículo 57.
 
@@ -722,19 +1082,29 @@ Son causas de cancelación definitiva de la habilitación que le haya sido otorg
 
 Una vez que haya quedado firme la sanción impuesta por la Secretaría, ésta informará de su resolución a la Secretaría de Economía y le solicitará que proceda a la cancelación definitiva de la habilitación del corredor público que hubiere sido sancionado, y una vez informada, la Secretaría de Economía contará con un plazo de diez días hábiles para proceder a la cancelación definitiva solicitada, conforme a las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 58.
 
-Cuando el infractor sea un notario público, la Secretaría informará de la infracción cometida a la autoridad competente para supervisar la función notarial, a efecto de que ésta proceda a la cesación del ejercicio de la función del infractor y la consecuente revocación de su patente, previo procedimiento que al efecto establezcan las disposiciones jurídicas que rijan su actuación. Darán lugar a la sanción de revocación, por ser consideradas notorias deficiencias en el ejercicio de sus funciones, los siguientes supuestos:
+Cuando la Secretaría determine que una persona notaria o corredora Pública ha incurrido en notorias deficiencias relacionadas con el cumplimiento de esta Ley, informará a la autoridad competente para supervisar el ejercicio de la fe pública, a efecto de que instaure el procedimiento sancionador correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, se consideran notorias deficiencias:
 
 I. La reincidencia en la violación de lo dispuesto en el artículo 53, en sus fracciones I, II, III, IV y V, y
 
 II. La violación a lo previsto en las fracciones VI y VII del artículo 53.
 
-La imposición de las sanciones anteriores se llevará a cabo sin perjuicio de las demás multas o sanciones que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La imposición de sanciones por parte de la autoridad competente para supervisar el ejercicio de la fe pública, se llevará a cabo sin perjuicio de las demás que resulten aplicables en términos de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 59.
 
-Serán causales de cancelación de la autorización otorgada por la Secretaría a los agentes y apoderados aduanales:
+Serán causales de cancelación de la autorización otorgada por la Secretaría a las personas agentes o apoderadas aduanales o agencias aduanales, así como a las personas físicas o morales que promuevan el despacho de mercancía sin la intervención de un agente aduanal o agencia aduanal:
 
 I. La reincidencia en la violación de lo dispuesto en el artículo 53, en sus fracciones I, II, III y IV, y
 
@@ -754,17 +1124,37 @@ II. La cuantía del acto u operación, procurando la proporcionalidad del monto 
 
 III. La intención de realizar la conducta.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 61.
 
-Las sanciones administrativas impuestas conforme a la presente Ley podrán impugnarse ante la propia Secretaría, mediante el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo o directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa a través del procedimiento contencioso administrativo.
+Las sanciones administrativas impuestas conforme a la presente Ley podrán impugnarse ante la propia Secretaría, mediante el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo o directamente ante el Tribunal Federal de Justicia Administrativa a través del procedimiento contencioso administrativo.
+
+### Capítulo VIII. De los Delitos
 
 ###### Artículo 62.
 
 Se sancionará con prisión de dos a ocho años y con quinientos a dos mil días multa conforme al Código Penal Federal, a quien:
 
-I. Proporcione de manera dolosa a quienes deban dar Avisos, información, documentación, datos o imágenes que sean falsos, o sean completamente ilegibles, para ser incorporados en aquellos que deban presentarse;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. De manera dolosa, modifique o altere información, documentación, datos o imágenes destinados a ser incorporados a los Avisos, o incorporados en avisos presentados.
+I. Proporcione a quienes deban dar Avisos, información, documentación, datos o imágenes que sean falsos, para ser incorporados en aquellos que deban presentarse;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Modifique o altere información, documentación, datos o imágenes destinados a ser incorporados a los Avisos o desahogos de los requerimientos de información que le formule la Secretaría en términos de lo dispuesto en esta Ley, o incorporados en avisos presentados, o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Incorpore a los avisos o al desahogo de requerimientos que le formule la Secretaría en términos de lo dispuesto en esta Ley, información, documentación, datos o imágenes ilegibles que impidan el conocimiento efectivo de su contenido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los delitos previstos en este artículo admitirán la comisión culposa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+La comisión culposa de estos delitos, cuando medie un error de tipo vencible y éste sea corregido de manera espontánea antes de que la autoridad tome conocimiento del delito, no será sancionada.
 
 ###### Artículo 63.
 
@@ -891,3 +1281,27 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA, Y SE REFORMA EL ARTÍCULO 400 BIS DEL CÓDIGO PENAL FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo las excepciones previstas en los siguientes artículos.
+
+Segundo. La Secretaría, previa opinión del Servicio de Administración Tributaria, modificará las reglas de carácter general de la Ley que se reforma dentro de los doce meses siguientes a la entrada en vigor de este Decreto.
+
+El periodo anual a que se refieren las fracciones IX y XI del artículo 18 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita para desarrollar programas de capacitación y contar con una auditoría respectivamente, se entenderá por año calendario por lo que el primer periodo iniciará el 1 de enero del año siguiente a aquel en que se publique el presente Decreto y concluirá el 31 de diciembre del mismo año.
+
+Tratándose del primer año de operaciones de quienes realicen Actividades Vulnerables, el periodo comprenderá desde la fecha en que inicien operaciones como Actividad Vulnerable y hasta el 31 de diciembre del siguiente año.
+
+Tercero. Las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma entrarán en vigor en los plazos que para tal efecto establezcan las reglas de carácter general a que se refiere la citada Ley.
+
+Cuarto. Durante los primeros seis meses contados a partir de la entrada en vigor de las reglas de carácter general de la Ley que se reforma, la Unidad de Inteligencia Financiera en coordinación con el Servicio de Administración Tributaria implementarán:
+
+I. Un programa de capacitación y orientación dirigido a las asociaciones y sociedades sin fines de lucro, para el correcto cumplimiento de las obligaciones establecidas en las fracciones VII a XI del artículo 18 de la Ley que se reforma.
+
+II. Las medidas simplificadas de cumplimiento de las obligaciones de las asociaciones y sociedades sin fines de lucro, de acuerdo con el nivel de riesgo que representen, de conformidad con las disposiciones reglamentarias, a efecto de armonizar la debida aplicación de la ley con la protección del espacio cívico y el derecho a la libertad de asociación.
+
+Quinto. Los Congresos de las Entidades Federativas, dentro de un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, realizarán las reformas conducentes para la aplicación de las previsiones contenidas en el artículo 58 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
