@@ -4,7 +4,7 @@ identifier: "FED-ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-723"
 country: "mx"
 rank: "ley"
 publication_date: "1926-03-15"
-last_updated: "2024-05-03"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=723&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1926-03-11"
 ---
 # LEY DE DISCIPLINA DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES LEY DE DISCIPLINA DEL EJERCITO Y FUERZA AEREA MEXICANOS -- ANTES LEY DE DISCIPLINA DEL EJERCITO Y DE LA ARMADA NACIONALES --
 
-LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 15 de marzo de 1926.
 
@@ -33,43 +33,47 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de la autorización concedida al Ejecutivo de la Unión por decreto de 7 de enero de 1926, he tenido a bien expedir la siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE JULIO DE 2025)</small>
 
-LEY DE DISCIPLINA DEL EJERCITO Y FUERZA AEREA MEXICANOS
+LEY DE DISCIPLINA DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 1o.
 
-La presente Ley tiene por objeto preservar la disciplina militar como principio de orden y obediencia que regula la conducta de los individuos que integran el Ejército y Fuerza Aérea Mexicanos. Sus disposiciones son de observancia obligatoria para todos los militares que integran el Ejército y Fuerza Aérea Mexicanos de conformidad con su Ley Orgánica.
+La presente Ley tiene por objeto preservar la disciplina militar como principio de orden y obediencia que regula la conducta de los individuos que integran el Ejército, Fuerza Aérea y Guardia Nacional. Sus disposiciones son de observancia obligatoria para todos los militares que integran el Ejército, Fuerza Aérea y Guardia Nacional.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para el caso de la Guardia Nacional, además de lo dispuesto en esta Ley, le aplicará lo dispuesto en la Ley de la Guardia Nacional y su reglamento.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 1o Bis.
 
-El servicio de las armas exige que el militar lleve el cumplimiento del deber hasta el sacrificio y que anteponga al interés personal, el respeto a la Constitución Política de los Estados Unidos Mexicanos, la soberanía de la Nación, la lealtad a las instituciones y el honor del Ejército y Fuerza Aérea Mexicanos.
+El servicio de las armas exige que el militar lleve el cumplimiento del deber hasta el sacrificio y que anteponga al interés personal, el respeto a la Constitución Política de los Estados Unidos Mexicanos, la soberanía de la Nación, la lealtad a las instituciones y el honor del Ejército, Fuerza Aérea y Guardia Nacional.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 2o.
 
-El militar debe observar buen comportamiento, para que el pueblo deposite su confianza en el Ejército y Fuerza Aérea y los considere como la salvaguarda de sus derechos.
+El militar debe observar buen comportamiento, para que el pueblo deposite su confianza en el Ejército, Fuerza Aérea y Guardia Nacional y los considere como la salvaguarda de sus derechos.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 3o.
 
-La disciplina en el Ejército y Fuerza Aérea es la norma a que los militares deben ajustar su conducta; tiene como bases la obediencia, y un alto concepto del honor, de la justicia y de la moral, y por objeto, el fiel y exacto cumplimiento de los deberes que prescriben las leyes y reglamentos militares.
+La disciplina en el Ejército, Fuerza Aérea y Guardia Nacional, es la norma a la que los militares deben ajustar su conducta; tiene como bases la obediencia, y un alto concepto del honor, de la justicia y de la moral, y por objeto, el fiel y exacto cumplimiento de los deberes que prescriben las leyes y reglamentos militares.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 3o Bis.
 
-La disciplina es la base fundamental del Ejército y Fuerza Aérea Mexicanos, los cuales existen primordialmente para defender los intereses de la Patria y preservar su vida institucional.
+La disciplina es la base fundamental del Ejército, Fuerza Aérea y Guardia Nacional, los cuales existen primordialmente para defender los intereses de la Patria y preservar su vida institucional.
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
@@ -165,11 +169,11 @@ En un acto oficial, donde estuviere un militar y se presentare otro de mayor jer
 
 El comandante de las tropas que arribe a una ciudad o lugar en que no hubiere autoridad militar superior, hará una visita de cortesía a las autoridades civiles.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 21o.
 
-El militar debe comportarse con el más alto grado de cortesía y educación, guardando la compostura que corresponde a su dignidad y la marcialidad que debe ostentar como miembro del Ejército y Fuerza Aérea.
+El militar debe comportarse con el más alto grado de cortesía y educación, guardando la compostura que corresponde a su dignidad y la marcialidad que debe ostentar como miembro del Ejército, Fuerza Aérea y Guardia Nacional.
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -197,11 +201,11 @@ El militar, atendiendo a su honor y principios, debe obrar con equidad y justici
 
 ### CAPITULO III. Correctivos Disciplinarios
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 24o Ter.
 
-Correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército y Fuerza Aérea Mexicanos, por haber infringido las leyes o reglamentos militares, siempre y cuando no constituyan un delito.
+El correctivo disciplinario es la medida coercitiva que se impone a todo militar del Ejército, Fuerza Aérea y Guardia Nacional, por haber infringido las leyes, reglamentos militares, siempre y cuando no constituyan un delito.
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -211,9 +215,17 @@ Los correctivos disciplinarios se clasifican en:
 
 I.- Amonestación;
 
-II.- Arresto, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III.- Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor.
+II.- Arresto;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III.- Cambio de unidad, dependencia, instalación o comisión en observación de su conducta, determinado por el Consejo de Honor, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV.- Suspensión hasta por treinta días naturales, dictaminada por el Consejo de Honor o por el Consejo Superior de Disciplina.
 
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -225,13 +237,13 @@ En ambos casos, quien amoneste lo hará de manera que ningún individuo de menor
 
 Queda prohibida la reprensión que, por ser afrentosa y degradante, es contraria a la dignidad militar.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 25o.
 
-El arresto es la reclusión que sufre un militar en el interior de las unidades, dependencias o instalaciones militares y puede ser impuesto con o sin perjuicio del servicio.
+El arresto es el correctivo disciplinario que se impone a un militar y que debe cumplir en el interior de las unidades, dependencias o instalaciones militares, puede ser impuesto con o sin perjuicio del servicio.
 
-En el primer caso, sólo podrán desempeñarse aquellos servicios que no requieran salir del alojamiento, por estar el militar a disposición de su Comandante o Jefe de la Unidad, Dependencia o Instalación..
+En el primer caso, sólo podrán desempeñarse aquellos servicios que no requieran salir del alojamiento, por estar el militar a disposición de su Comandante o Jefe de la Unidad, dependencia o instalación.
 
 ###### ARTICULO 26o.
 
@@ -263,11 +275,13 @@ El que impida el cumplimiento de un arresto, el que permita que se quebrante, as
 
 El militar que ejerce Superioridad jerárquica o de cargo, podrá imponer correctivos disciplinarios.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-"Superioridad jerárquica" es la que corresponde a la dignidad militar que representa el grado, con arreglo a la escala del Ejército y Fuerza Aérea.
+Superioridad jerárquica, es la que corresponde a la dignidad militar que representa el grado, con arreglo a la escala del Ejército, Fuerza Aérea y Guardia Nacional.
 
-Superioridad de cargo es la inherente a la comisión que desempeña un militar, por razón de sus funciones, y de la autoridad de que está investido.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Superioridad de cargo, es la inherente a la comisión que desempeña un militar, por razón de sus funciones y de la autoridad de que está investido.
 
 > <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -303,7 +317,11 @@ I.- El Secretario, Subsecretario y Oficial Mayor de la Secretaría de la Defensa
 
 II.- En las tropas a su mando:
 
-a) Los Comandantes del Ejército y la Fuerza Aérea, los Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+a) Los Comandantes del Ejército, de la Fuerza Aérea y de la Guardia Nacional, los
+
+Comandantes de Mandos Territoriales, de Unidades y Organismos Circunstanciales; así como, los Coordinadores Territoriales, Estatales y de Unidad de nivel Batallón y Grupos Especializados, Jefes y Oficiales Comandantes de Unidades destacamentadas;
 
 b) Los Directores Generales de las Armas y Servicios, y
 
@@ -331,15 +349,21 @@ El que haya recibido orden de arresto, deberá comunicar al superior de quien de
 
 El militar que esté cumpliendo un arresto y se haga acreedor a otro, empezará a cumplir este último desde el momento en que se le comunique.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 33 Sexies.
+
+La suspensión es el correctivo disciplinario que se impone a la persona militar por observar mala conducta, determinada por el Consejo de Honor o por el Consejo Superior de Disciplina, consistente en la separación del empleo hasta por treinta días, sin goce de haberes y demás emolumentos, así como la interrupción del tiempo de servicios.
+
 > <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. Consejo de Honor
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 34o.
 
-El Consejo de Honor se establecerá en las unidades y dependencias del Ejército y Fuerza Aérea; se constituirá con un presidente y cuatro vocales en las unidades y con un presidente y dos vocales en las dependencias, conforme al Reglamento respectivo.
+El Consejo de Honor se establecerá en las unidades y dependencias del Ejército, Fuerza Aérea y Guardia Nacional; se constituirá con un presidente y cuatro vocales en las unidades y con un presidente y dos vocales en las dependencias, conforme al Reglamento respectivo.
 
 ###### ARTICULO 35o.
 
@@ -371,27 +395,79 @@ I.- Acordar las notas que hayan de ponerse en las Hojas de Servicios de los Ofic
 
 II.- Dictaminar sobre los castigos correccionales que deban imponerse desde Capitán 1o. hasta el Soldado, por faltas, cuyo conocimiento sea de la competencia de este Consejo.
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III.- Acordar se solicite la baja del Ejército y Fuerza Aérea por determinación de mala conducta, para el personal de Tropa, militares de la clase de auxiliar y discentes del Sistema Educativo Militar, y
+III.- Acordar se solicite la baja del Ejército, Fuerza Aérea y Guardia Nacional por determinación de mala conducta, para el personal de Tropa y discentes del Sistema Educativo Militar;
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 1995)</small>
 
 IV.- Turnar al Ministerio Público, las constancias respectivas en los casos en que determine que es competencia de los tribunales correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En caso de la fracción III se otorgará al militar un plazo de quince días naturales para que manifieste lo que su interés convenga.
+V.- Acordar se solicite la suspensión hasta por treinta días del empleo por determinación de mala conducta al personal de Oficiales y Tropa del Ejército, Fuerza Aérea y Guardia Nacional.
 
-> <small>(REFORMADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-### CAPITULO V. Prevenciones Generales
+En caso de las fracciones III y V se otorgará al militar un plazo de quince días naturales para que manifieste lo que su interés convenga.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+### CAPÍTULO IV BIS. Consejo Superior de Disciplina
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### ARTICULO 36 Bis.
+
+El Consejo Superior de Disciplina es un órgano colegiado que conocerá de la conducta de los Generales y Jefes del Ejército, Fuerza Aérea y Guardia Nacional.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### ARTICULO 36 Ter.
+
+El Consejo Superior de Disciplina está integrado por:
+
+I. Presidente: La persona titular de la Subsecretaría de la Defensa Nacional;
+
+II. Primera vocalía: La persona titular de la Oficialía Mayor de la Secretaría de la Defensa Nacional;
+
+III. Segunda vocalía: La persona titular de la Inspección y Contraloría del Ejército, Fuerza Aérea y Guardia Nacional;
+
+IV. Tercera vocalía: La persona titular de la Jefatura del Estado Mayor Conjunto de la Defensa Nacional;
+
+V. Cuarta vocalía: La persona titular de la Comandancia del Ejército Mexicano;
+
+VI. Quinta vocalía: La persona titular de la Comandancia de la Fuerza Aérea Mexicana;
+
+VII. Sexta vocalía: La persona titular de la Comandancia de la Guardia Nacional;
+
+VIII. Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;
+
+IX. Secretaría Adjunta del Consejo: La persona titular de la Jefatura de la Sección Primera (Recursos Humanos) del Estado Mayor Conjunto de la Defensa Nacional;
+
+X. Primera asesoría: La persona titular de la Unidad de Asuntos Jurídicos de la Secretaría de la Defensa Nacional, y
+
+XI. Segunda asesoría: La persona titular de la Asesoría Jurídica del Estado Mayor Conjunto de la Defensa Nacional.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### ARTICULO 36 Quáter.
+
+El Consejo Superior de Disciplina, está facultado para acordar se solicite la suspensión hasta por 30 días del empleo por determinación de mala conducta al personal de Generales y Jefes del Ejército, Fuerza Aérea y Guardia Nacional.
+
+Se otorgará al militar un plazo de quince días naturales para que manifieste lo que a su interés convenga.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 37o.
 
-Los castigos correccionales a que se refiere la fracción II del artículo anterior son:
+Los castigos correccionales a que se refiere la fracción II del artículo 36 son:
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 I.- Para las clases y soldados, el cambio de unidad, dependencia e instalación o el arresto hasta por quince días en prisión militar, y
+
+> <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 II.- Para los Oficiales, el cambio de unidad, dependencia, instalación, comisión o el arresto hasta por quince días en prisión militar.
 
@@ -417,15 +493,17 @@ Los miembros de un Consejo de Honor, serán responsables, conforme al Código de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
+### CAPITULO V. Prevenciones Generales
+
 ###### ARTICULO 42o.
 
 El militar que tenga alguna queja en relación con las disposiciones superiores o las obligaciones que le impone el servicio, podrá acudir ante el superior inmediato para la solución de sus demandas y, en caso de no ser debidamente atendido, podrá llegar por rigurosa escala, hasta el Presidente de la República, si es necesario.
 
-> <small>(ADICIONADO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 43o.
 
-Todo militar que infrinja la presente Ley, así como algún precepto reglamentario, se hará acreedor a un correctivo disciplinario, de acuerdo con su jerarquía en el Ejército y Fuerza Aérea y, si la magnitud de su falta constituye un delito, quedará sujeto a lo dispuesto por el Código de Justicia Militar.
+Todo militar que infrinja la presente Ley, así como algún precepto reglamentario, se hará acreedor a un correctivo disciplinario, de acuerdo con su jerarquía en el Ejército, Fuerza Aérea y Guardia Nacional y, si la magnitud de su falta constituye un delito, quedará sujeto a lo dispuesto por el Código de Justicia Militar.
 
 ## TRANSITORIO
 
@@ -482,3 +560,23 @@ Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 Tercero.- En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.
 
 Cuarto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA GUARDIA NACIONAL Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS; LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; DEL CÓDIGO DE JUSTICIA MILITAR Y DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+
+Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+
+Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+
+Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+
+Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
