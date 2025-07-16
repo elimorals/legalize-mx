@@ -4,7 +4,7 @@ identifier: "FED-ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-47158"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-23"
-last_updated: "2022-01-17"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47158&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-12-16"
 ---
 # LEY DE EDUCACION MILITAR DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES LEY DE EDUCACION MILITAR DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -37,7 +37,9 @@ DECRETO
 
 Artículo Único.- Se expide la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
-LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
@@ -47,39 +49,53 @@ LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
 La presente Ley tiene por objeto regular la Educación que imparte la Secretaría de la Defensa Nacional, orientada al conocimiento y aplicación de la ciencia y el arte militar, así como otras afines a las necesidades del Ejército y Fuerza Aérea Mexicanos, aplicable en igualdad de oportunidades y de trato entre mujeres y hombres.
 
-La aplicación de esta Ley corresponde a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Educación y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La educación de la Guardia Nacional estará orientada al conocimiento y aplicación en materia de seguridad pública, con enfoque de derechos humanos e interseccionalidad y con perspectivas de género e intercultural; en igualdad de oportunidades y de trato entre mujeres y hombres.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La aplicación de esta Ley corresponde a la Secretaría de la Defensa Nacional, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Ley, Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Ley, la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional;
 
 II. Secretaría, la Secretaría de la Defensa Nacional, y
 
-III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### Artículo 3.
 
 La Secretaría establecerá las directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema Educativo Militar.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 4.
 
-La Educación Militar tiene como finalidad formar militares para la práctica y el ejercicio del mando y la realización de actividades de docencia, difusión de la cultura e investigación para el Ejército y Fuerza Aérea Mexicanos, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación y la responsabilidad de difundir a las nuevas generaciones los valores y conocimientos recibidos, así como el respeto de los derechos humanos y el criterio intercultural en la educación.
+La Educación Militar tiene como finalidad formar militares para la práctica y el ejercicio del mando y la realización de actividades de docencia, difusión de la cultura e investigación para el Ejército, Fuerza Aérea y Guardia Nacional, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación y la responsabilidad de difundir a las nuevas generaciones los valores y conocimientos recibidos, así como el respeto de los derechos humanos y el criterio intercultural en la educación.
 
 ###### Artículo 5.
 
 Los objetivos de la Educación Militar son los siguientes:
 
-I. Desarrollar armónica e integralmente a los miembros del Ejército y Fuerza Aérea Mexicanos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Desarrollar armónica e integralmente al personal del Ejército, Fuerza Aérea y Guardia Nacional;
 
 II. Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y de reflexión crítica;
 
 III. Vincular permanentemente la educación y adiestramiento de los militares;
 
-IV. Promover la conciencia institucional, los valores y la doctrina militar;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Promover la conciencia institucional, los valores y la doctrina militar y policial, según corresponda;
 
 V. Fomentar el valor de la justicia, de la observancia de la ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto de los mismos, y
 
@@ -93,19 +109,31 @@ La Universidad del Ejército y Fuerza Aérea tiene las finalidades siguientes:
 
 I. Impartir al personal militar los conocimientos científicos, técnicos, humanísticos, interculturales y de derechos humanos, a nivel de educación medio superior y superior para el cumplimiento de las misiones de las armas y servicios propios del Ejército y Fuerza Aérea Mexicanos;
 
-II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia y el arte militar;
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Formar profesores para las diversas asignaturas que imparten las Instituciones de Educación Militar, y
+Además de lo anterior, la formación policial al personal de Guardia Nacional;
 
-IV. Difundir y enriquecer la cultura del personal del Ejército y Fuerza Aérea Mexicanos.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Realizar investigaciones científicas en lo general, relacionadas con el avance de la ciencia, el arte militar, así como en materia de seguridad pública;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Formar docentes para las diversas asignaturas que imparten las Instituciones de Educación Militar, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Difundir y enriquecer la cultura del personal del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### Artículo 7.
 
 La Universidad del Ejército y Fuerza Aérea depende de la Secretaría, a través de la Dirección General de Educación Militar, misma que ejercerá la función de Rectoría.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 8.
 
-La Secretaría satisface sus necesidades de recursos humanos profesionales, a través de la Educación Militar, a fin de estar en capacidad de cumplir con las misiones generales del Ejército y Fuerza Aérea Mexicanos.
+La Secretaría satisface sus necesidades de recursos humanos profesionales, a través de la educación militar, a fin de estar en capacidad de cumplir con las misiones generales del Ejército y Fuerza Aérea; así como, los fines y atribuciones de la Guardia Nacional.
 
 ###### Artículo 9.
 
@@ -113,9 +141,11 @@ La Dirección y Rectoría dispondrá de los recursos presupuestales que le sean 
 
 ### CAPÍTULO II. DEL SISTEMA EDUCATIVO MILITAR
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 10.
 
-El Sistema Educativo Militar es el conjunto de Instituciones Educativas que imparten conocimientos castrenses de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército y Fuerza Aérea Mexicanos, bajo la conducción de la Dirección y Rectoría.
+El Sistema Educativo Militar es el conjunto de instituciones educativas que imparten conocimientos castrenses y policiales de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército, Fuerza Aérea y Guardia Nacional, bajo la conducción de la Dirección y Rectoría.
 
 ###### Artículo 11.
 
@@ -123,25 +153,39 @@ Los objetivos del Sistema Educativo Militar son los siguientes:
 
 I. Mejorar los niveles de eficiencia terminal, la calidad educativa y el aprovechamiento académico, optimizando los recursos humanos, materiales, técnicos y financieros disponibles;
 
-II. Fortalecer mediante un proceso continuo y permanente el desarrollo profesional del personal del Ejército y Fuerza Aérea Mexicanos en un marco de calidad educativa;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Proporcionar a los miembros del Ejército y Fuerza Aérea Mexicanos los servicios educativos que corresponden a su jerarquía y especialidad;
+II. Fortalecer mediante un proceso continuo y permanente el desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional en un marco de calidad educativa;
 
-IV. Impartir los conocimientos y desarrollar las habilidades necesarias para fortalecer las capacidades de planeo y ejecución de operaciones militares combinadas y conjuntas;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. Desarrollar y fortalecer el conocimiento mediante la práctica de los valores y las virtudes, como parte fundamental de la formación militar;
+III. Proporcionar al personal del Ejército, Fuerza Aérea y Guardia Nacional, los servicios educativos que corresponden a su jerarquía y especialidad;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Impartir los conocimientos y desarrollar las habilidades necesarias para fortalecer las capacidades de planeo y ejecución de operaciones militares y policiales combinadas y conjuntas;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Desarrollar y fortalecer el conocimiento mediante la práctica de los valores y las virtudes, como parte fundamental de la formación militar y policial;
 
 VI. Impulsar, organizar y normar las actividades de investigación sobre el arte y ciencia de la guerra, así como aspectos técnicos y científicos de los servicios del Ejército y Fuerza Aérea Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2022)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército y Fuerza Aérea Mexicanos con base en el respeto de los derechos humanos y el criterio intercultural, y
+Además de lo anterior, las actividades de investigación y aspectos técnicos y científicos relacionados con la Guardia Nacional;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Elevar el nivel de cultura y académico de los recursos humanos del Ejército, Fuerza Aérea y Guardia Nacional, con base en el respeto de los derechos humanos y el criterio intercultural, y
 
 VIII. Proporcionar en forma oportuna y secuencial la formación orientada a la función específica que habrá de cumplir el personal militar.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 12.
 
-La función del Sistema Educativo Militar es adquirir, transmitir y acrecentar la cultura castrense que contribuya al desarrollo integral del militar profesional para el cumplimiento de los deberes que le impone el servicio de las armas.
+La función del Sistema Educativo Militar es adquirir, transmitir y acrecentar la cultura castrense que contribuya al desarrollo integral del militar profesional para el cumplimiento de los deberes que le impone el servicio de las armas y, en su caso, los fines de la Guardia Nacional.
 
 ###### Artículo 13.
 
@@ -214,6 +258,16 @@ El Sistema Educativo Militar impartirá educación del tipo superior, medio supe
 ###### Artículo 19.
 
 Los tipos y niveles, así como las modalidades educativas serán indicados en los Planes de Estudio de los respectivos cursos, de conformidad con el Plan General de Educación Militar.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 19 Bis.
+
+El Programa Anual de Capacitación de la Guardia Nacional, se ajustará en lo conducente a los lineamientos del Programa Rector de Profesionalización emitido por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+El programa de capacitación y profesionalización de la Guardia Nacional, determinará los cursos que deban realizarse para conformar la ruta profesional del personal de dicha fuerza de seguridad pública.
+
+El personal de la Guardia Nacional deberá completar su capacitación y profesionalización policial correspondiente de manera obligatoria, de conformidad con las leyes, reglamentos, manuales y demás disposiciones relativas.
 
 #### SECCIÓN SEGUNDA. DE LA PLANEACIÓN INSTITUCIONAL
 
@@ -297,9 +351,11 @@ Los militares extranjeros becados en el Sistema Educativo Militar conservarán l
 
 Las Autoridades Educativas Militares expedirán al personal becario extranjero los documentos que acrediten satisfactoriamente la conclusión de sus estudios de conformidad al curso realizado.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 37.
 
-El personal becario extranjero deberá reincorporarse a su país de origen y por ningún motivo podrá pertenecer o permanecer en el Ejército y Fuerza Aérea Mexicanos, una vez finalizados sus estudios o causado baja de la Institución de Educación Militar correspondiente.
+El personal becario extranjero deberá reincorporarse a su país de origen y por ningún motivo podrá pertenecer o permanecer en el Ejército, Fuerza Aérea o Guardia Nacional, una vez finalizados sus estudios o causado baja de la Institución de Educación Militar correspondiente.
 
 ###### Artículo 38.
 
@@ -341,9 +397,11 @@ La Dirección y Rectoría establecerá un sistema de créditos, el cual permitir
 
 Las Autoridades Educativas Militares expedirán certificados, constancias, diplomas, títulos y grados académicos a quienes hayan concluido satisfactoriamente sus estudios, de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 47.
 
-La Dirección y Rectoría establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército y Fuerza Aérea Mexicanos.
+La Dirección y Rectoría establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
 
@@ -408,3 +466,23 @@ D.O.F. 17 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA GUARDIA NACIONAL Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS; LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; DEL CÓDIGO DE JUSTICIA MILITAR Y DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+
+Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+
+Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+
+Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+
+Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
