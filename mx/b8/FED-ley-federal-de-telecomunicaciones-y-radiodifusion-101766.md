@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-y-radiodifusion-101766"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-07-14"
-last_updated: "2024-04-01"
+last_updated: "2025-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2014-07-14"
 ---
 # LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSION
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADA EN EL D.O.F. DE 16 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO AL DÍA SIGUIENTE A AQUEL EN QUE SE INTEGRE EL PLENO DE LA COMISIÓN REGULADORA DE TELECOMUNICACIONES.]
 
 LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 14 de julio de 2014.
 
@@ -4866,3 +4868,113 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN Y SE ABROGA LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+Segundo. Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, entrarán en vigor las modificaciones a los párrafos décimo quinto a vigésimo del artículo 28 constitucional reformado mediante el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024.
+
+Tercero. En tanto se integra el Pleno de la Comisión Reguladora de Telecomunicaciones, conforme al artículo Cuarto Transitorio del presente Decreto, el Instituto Federal de Telecomunicaciones continuará en funciones conforme a las disposiciones de la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+Cuarto. El nombramiento y ratificación de las Personas Comisionadas que integrarán el Pleno de la Comisión Reguladora de Telecomunicaciones deberá realizarse de conformidad con los artículos 14 al 18 del presente Decreto, y en los términos del presente artículo transitorio.
+
+Con el objeto de asegurar el escalonamiento en el cargo de las Personas Comisionadas de la Comisión Reguladora de Telecomunicaciones, las Personas Comisionadas concluirán su encargo en la misma fecha en que hayan entrado en funciones de los años 2028, 2029, 2030, 2031 y 2032, respectivamente.
+
+La persona titular del Ejecutivo Federal, al someter los nombramientos a la Cámara de Senadores, señalará los periodos respectivos.
+
+Una vez ratificadas las personas integrantes del Pleno de la Comisión Reguladora de Telecomunicaciones, la persona titular del Ejecutivo Federal designará a la Persona Comisionada Presidenta de la Comisión Reguladora de Telecomunicaciones, en un plazo no mayor a diez días naturales.
+
+El Pleno de la Comisión Reguladora de Telecomunicaciones se entenderá integrado una vez que se encuentren nombradas y ratificadas las cinco Personas Comisionadas y la persona titular del Ejecutivo Federal haya designado a quien fungirá como Persona Comisionada Presidenta.
+
+Quinto. Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, cualquier referencia al Instituto Federal de Telecomunicaciones en la normativa federal o local se entenderá hecha a la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda.
+
+Sexto. Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
+
+Séptimo. A la entrada en vigor del presente Decreto, quedan sin efectos los Acuerdos y otras disposiciones por medio de las cuales se declaran susceptibles de explotarse comercialmente, canales de frecuencias del servicio público de radiodifusión, que hubieran sido emitidos con anterioridad a la Ley Federal de Telecomunicaciones y Radiodifusión, publicada en el Diario Oficial de la Federación el 14 de julio de 2014.
+
+Octavo. Al día siguiente a aquel en que se integre el Pleno de la Comisión Reguladora de Telecomunicaciones, se extingue el Instituto Federal de Telecomunicaciones, y concluirán sus funciones los Comisionados del citado Instituto.
+
+Noveno. Los derechos laborales de las personas servidoras públicas del Instituto Federal de Telecomunicaciones serán respetados, en términos de la legislación aplicable.
+
+El Instituto Federal de Telecomunicaciones dispondrá de los recursos financieros con los que cuente, incluidos los contenidos en el Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones para el pago de liquidaciones o finiquitos según corresponda. Las indemnizaciones se pagarán a las personas servidoras públicas que gocen de estabilidad laboral considerando la fecha en que se integraron al servicio profesional del Instituto, los que no gocen de estabilidad laboral serán finiquitados en términos de las disposiciones aplicables, todas las personas servidoras públicas causarán baja a momento de la extinción del Instituto Federal de Telecomunicaciones.
+
+El Instituto Federal de Telecomunicaciones, una vez cubiertas las obligaciones laborales que le correspondan, de conformidad con la legislación aplicable, transferirá los recursos correspondientes al valor de la estructura o plantilla de plazas a la Secretaría de Hacienda y Crédito Público, a más tardar el último día en funciones, a fin de que esa dependencia realice las acciones que correspondan, conforme a las disposiciones jurídicas y administrativas aplicables, para su asignación y ministración a la Comisión Reguladora de Telecomunicaciones o, en su caso, a la Comisión Nacional Antimonopolio.
+
+Las personas servidoras públicas del Instituto Federal de Telecomunicaciones, incluyendo a las personas Comisionadas, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda conforme a la normativa aplicable a la Administración Pública Federal, en el entendido que la entrega que se realice no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+Décimo. El cumplimiento de los compromisos contractuales previamente adquiridos por el Instituto Federal de Telecomunicaciones se hará con cargo a los recursos del Fideicomiso de Infraestructura y Equipamiento del citado Instituto.
+
+Décimo Primero. El Instituto Federal de Telecomunicaciones previo a su extinción, realizará las gestiones necesarias para la modificación de los instrumentos jurídicos correspondientes al Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones para su transferencia a la Secretaría de Hacienda y Crédito Público, en su carácter de fideicomitente único de la Administración Pública Federal centralizada.
+
+Para tal efecto, el Instituto Federal de Telecomunicaciones se coordinará con la Secretaría de Hacienda y Crédito Público y la Agencia de Transformación Digital y Telecomunicaciones para la formalización de los instrumentos jurídicos respectivos, en los que se establecerá como Unidad Responsable a la Comisión Reguladora de Telecomunicaciones.
+
+La Secretaría de Hacienda y Crédito Público, en coordinación con la Comisión Reguladora de Telecomunicaciones deberá llevar a cabo todas las gestiones necesarias con la finalidad de que dentro de los quince días hábiles siguientes a partir de la entrada en vigor del presente Decreto, se modifiquen las reglas de operación y el contrato del Fideicomiso de Infraestructura y Equipamiento del Instituto Federal de Telecomunicaciones.
+
+Décimo Segundo. Los recursos materiales con que cuente el Instituto Federal de Telecomunicaciones serán transferidos a la Comisión Reguladora de Telecomunicaciones a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+
+Décimo Tercero. Los bienes inmuebles con que cuente el Instituto Federal de Telecomunicaciones serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones para su ocupación conforme a las disposiciones jurídicas y administrativas aplicables, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+
+Décimo Cuarto. El Instituto Federal de Telecomunicaciones, con motivo de su extinción, a más tardar, el último día en que se encuentre en funciones transferirá los recursos financieros con que cuente, a la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones jurídicas aplicables para su asignación y ministración que corresponda a la Comisión Reguladora de Telecomunicaciones.
+
+Asimismo, el Instituto Federal de Telecomunicaciones deberá entregar a la Agencia de Transformación Digital y Telecomunicaciones o a la Comisión Reguladora de Telecomunicaciones, según corresponda, la información y formatos necesarios para integrar los informes financieros correspondientes al ejercicio fiscal 2025, de conformidad con las disposiciones jurídicas aplicables, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+
+Décimo Quinto. Los registros, padrones, repositorios digitales y sistemas, internos y externos con los que cuenta el Instituto Federal de Telecomunicaciones, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+
+Lo anterior, con excepción de aquellos que se encuentren administrados por el Órgano Interno de Control del Instituto, los cuales deberán ser transferidos a la Secretaría Anticorrupción y Buen Gobierno, atendiendo a la naturaleza de la información y de las funciones de la Secretaría.
+
+Décimo Sexto. Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto Federal de Telecomunicaciones para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán puestos a disposición de la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda, a más tardar, el último día en funciones del Instituto Federal de Telecomunicaciones.
+
+Décimo Séptimo. El Órgano Interno de Control del Instituto Federal de Telecomunicaciones queda extinto en la misma fecha de extinción del Instituto, y los asuntos y procedimientos que a la fecha de su extinción estén a su cargo, así como los expedientes y archivos, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno, y serán tramitados y resueltos conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Décimo Octavo. Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad a la entrada en vigor del presente Decreto, incluyendo aquellos relacionados con la determinación de Agentes Económicos Preponderantes en los sectores de telecomunicaciones y radiodifusión y su regulación asimétrica, continuarán surtiendo todos sus efectos legales.
+
+A partir de la entrada en vigor del presente Decreto, la Comisión Reguladora de Telecomunicaciones o la Comisión Nacional Antimonopolio, según corresponda, se sustituirán, en el ámbito de sus respectivas competencias, en todos los derechos, obligaciones y facultades del Instituto Federal de Telecomunicaciones respecto de cualquier procedimiento en curso del que sea parte, sea de naturaleza civil, penal, administrativa o de cualquier otro tipo.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes celebrados por el Instituto Federal de Telecomunicaciones, se entenderán como vigentes y obligarán en sus términos a la Comisión Reguladora de Telecomunicaciones o a la Comisión Nacional Antimonopolio, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o terminarlos anticipadamente.
+
+Décimo Noveno. Los asuntos y procedimientos que se encuentren en trámite ante el Instituto Federal de Telecomunicaciones continuarán su trámite a cargo de la Comisión Reguladora de Telecomunicaciones o de la Comisión Nacional Antimonopolio, según corresponda, en términos de la legislación aplicable al momento de su inicio.
+
+Vigésimo. A partir de la integración del Pleno de la Comisión Reguladora de Telecomunicaciones se suspenden por un plazo de quince días hábiles todos y cada uno de los trámites y procedimientos derivados de las disposiciones del presente Decreto y demás normativa aplicable.
+
+La suspensión establecida en este artículo no aplicará al cumplimiento de las obligaciones a cargo de concesionarios, autorizados, permisionarios, agentes económicos de los sectores de telecomunicaciones y radiodifusión, ni de otros sujetos regulados. Tampoco aplicará a los plazos establecidos en el Capítulo 3 numeral 3.3 del Programa Anual de Uso y Aprovechamiento de Bandas de Frecuencias 2025, publicado en el Diario Oficial de la Federación el 06 de febrero de 2025.
+
+El trámite de Solicitud de Certificado de Homologación de equipos estará sujeto a una suspensión de cinco días hábiles.
+
+La Comisión Reguladora de Telecomunicaciones antes de que fenezca el plazo establecido en el párrafo primero del presente artículo transitorio, podrán emitir Acuerdos para la reanudación de plazos y términos de forma escalonada, los cuales deberán ser publicados en el Diario Oficial de la Federación.
+
+Vigésimo Primero. La Comisión Reguladora de Telecomunicaciones podrá emitir un programa de regularización para concesionarios del servicio público de radiodifusión que hubieren tramitado la prórroga de las concesiones y estas hubiesen sido resueltas conforme a la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+Lo anterior sólo será procedente, siempre que el concesionario hubiere realizado el pago de la contraprestación previo a la entrada en vigor del presente Decreto, pague las actualizaciones correspondientes conforme al artículo 17-A del Código Fiscal de la Federación y acepten las nuevas condiciones que establezca la Comisión Reguladora de Telecomunicaciones.
+
+Vigésimo Segundo. Los permisos o cualquier otro título habilitante emitido con anterioridad a la Ley Federal de Telecomunicaciones y Radiodifusión publicada en el Diario Oficial de la Federación el 14 de julio de 2014, que confieran el derecho para usar y aprovechar bandas de frecuencia del espectro radioeléctrico, y que se encuentren vigentes al momento de la entrada en vigor del presente Decreto, deberán solicitar la transición al régimen de concesión, autorización o constancia de registro correspondiente, a partir de la entrada en vigor del presente Decreto y hasta el año siguiente.
+
+A partir del año siguiente a la entrada en vigor del presente Decreto, sin que se haya presentado solicitud de transición por quien legítima y legalmente tenga derecho a solicitarlo, los títulos habilitantes concluirán su vigencia al finalizar dicho plazo y, en consecuencia, las frecuencias objeto de dichos permisos se revertirán en favor de la Nación de pleno derecho.
+
+Vigésimo Tercero. Los concesionarios de uso social comunitario, uso social indígena y uso social afromexicano cuyo título habilitante haya sido otorgado con anterioridad a la entrada en vigor del presente Decreto, quedarán sujetos exclusivamente al cumplimiento de las obligaciones previstas en el mismo, sin perjuicio de lo dispuesto en las demás disposiciones jurídicas aplicables.
+
+Vigésimo Cuarto. En el caso de los equipos terminales móviles que, previo a la entrada en vigor del presente Decreto, estén sujetos a la vigencia de un contrato celebrado con los concesionarios o autorizados, el desbloqueo deberá efectuarse una vez liquidado el costo.
+
+El concesionario o autorizado, al realizar el desbloqueo del equipo terminal móvil, deberá proporcionar al usuario la clave de desbloqueo.
+
+Vigésimo Quinto. El Congreso de la Unión realizará las armonizaciones legislativas que correspondan, en un plazo de un año contado a partir de la publicación del presente Decreto.
+
+Vigésimo Sexto. La Comisión Reguladora de Telecomunicaciones deberá emitir los criterios para que los concesionarios de radiodifusión sonora que están obligados a transmitir de manera simultánea el mismo contenido en frecuencia modulada y en amplitud modulada para garantizar la continuidad del servicio de radiodifusión sonora, puedan transitar de dicha obligación con base en un nuevo análisis.
+
+Vigésimo Séptimo. La Comisión Reguladora de Telecomunicaciones, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir un plan de licitación de bandas de frecuencia del espectro radioeléctrico para la provisión del servicio de acceso inalámbrico móvil que permita un desarrollo eficiente del sector de telecomunicaciones, a través de la puesta a disposición de bandas de frecuencia para que los concesionarios cuenten con anchos de banda adecuados.
+
+Vigésimo Octavo. En tanto no se emitan los reglamentos, disposiciones de carácter general, lineamientos y otros instrumentos jurídicos establecidos en esta Ley, se continuarán aplicando los vigentes en lo que no contravengan al presente Decreto.
+
+Vigésimo Noveno. Los concesionarios que operan redes públicas de telecomunicaciones que celebren los convenios de interconexión a que se refiere el artículo 114 del presente Decreto, con vigencia a partir del 1 de enero de 2026, deberán aplicar las tarifas y condiciones técnicas mínimas vigentes durante 2025.
+
+Trigésimo. La Comisión Reguladora de Telecomunicaciones, en un plazo que no exceda de ciento veinte días hábiles contados a partir de la entrada en vigor del presente Decreto, emitirá los lineamientos para la identificación de líneas del servicio móvil, los cuales deberán contemplar un calendario de implementación y las medidas que los Concesionarios y, en su caso, autorizados deberán llevar a cabo.
+
+Transcurridos ciento veinte días hábiles posteriores a la conclusión de la implementación de la medida a la que hace referencia el párrafo anterior, toda línea que no se encuentre asociada a un usuario final identificado será suspendida, y solamente podrá ser utilizada para realizar llamadas a números de emergencia y atención ciudadana.
+
+Trigésimo Primero. Para efectos del presente Decreto, por empresa pública del Estado cuyo objeto es contribuir en la provisión del servicio de Internet y telecomunicaciones, se entenderá a la Comisión Federal de Electricidad, en los términos establecidos en los artículos 46, fracción II; 55, fracción II; 78; 79 y 80 de la presente Ley.
+
+Trigésimo Segundo. La Comisión Reguladora de Telecomunicaciones, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, habilitará un mecanismo para difundir información sobre próximos vencimientos de plazos para solicitar las prórrogas de concesiones de uso público y social para el servicio público de radiodifusión, a efecto de que cuenten con la información necesaria para el ejercicio de sus derechos.
