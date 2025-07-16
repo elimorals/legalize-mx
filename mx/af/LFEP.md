@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2023-05-08"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -70,13 +70,17 @@ Las empresas productivas del Estado y sus respectivas empresas productivas subsi
 
 El Banco de México, las sociedades nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y fianzas, los fondos y fideicomisos públicos de fomento así como las entidades paraestatales que formen parte del sistema financiero, quedan sujetas por cuanto a su constitución, organización, funcionamiento, control, evaluación y regulación a su legislación específica. Les será aplicable esta Ley en las materias y asuntos que sus leyes específicas no regulen.
 
-> <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 5o.
 
-El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de Vivienda para los Trabajadores, el Instituto de Seguridad Social de las Fuerzas Armadas, el Instituto Nacional de las Mujeres, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el Consejo Nacional de Humanidades, Ciencias y Tecnologías y los demás organismos de estructura análoga que hubiere, se regirán por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas, se sujetarán a las disposiciones de la presente Ley.
+El Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de Vivienda para los Trabajadores, el Instituto de Seguridad Social para las Fuerzas Armadas, el Instituto Nacional de los Pueblos Indígenas y los demás organismos de estructura análoga que hubiere, se regirán por sus leyes específicas en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquellas leyes específicas, se sujetarán a las disposiciones de la presente Ley.
 
 Aquellas entidades que además de Organo de Gobierno, Dirección General y Organo de Vigilancia cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión Nacional Antimonopolio se regirá en cuanto a la estructura de su órgano de gobierno, unidades administrativas, organización, funcionamiento, operación, desarrollo y control por lo previsto en la Ley Federal de Competencia Económica y su estatuto orgánico y, en lo no previsto por éstas, por esta Ley.
 
 ###### ARTICULO 6o.
 
@@ -1137,3 +1141,95 @@ Vigésimo. Las legislaturas de las entidades federativas, en los términos de la
 Vigésimo Primero. Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
 
 Vigésimo Segundo. Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA Y DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, conforme a los siguientes párrafos.
+
+Las reformas a los párrafos Décimo Quinto a Vigésimo del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio.
+
+Segundo. En tanto se integra el Pleno de la Comisión Nacional Antimonopolio conforme al artículo Tercero Transitorio del presente Decreto, la Comisión Federal de Competencia Económica continuará en sus funciones conforme al marco jurídico previo a la entrada en vigor del presente Decreto.
+
+Los procedimientos iniciados por la Comisión Federal de Competencia Económica y por el Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada, con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán su trámite conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el Estatuto Orgánico que al efecto se emita conforme al artículo Noveno Transitorio.
+
+Tercero. El nombramiento y ratificación de las primeras Personas Comisionadas que integrarán el Pleno de la Comisión Nacional Antimonopolio deberá realizarse en términos del artículo 13 Bis de la Ley Federal de Competencia Económica contenida en este Decreto.
+
+Con el objeto de asegurar el escalonamiento en el cargo de las Personas Comisionadas de la Comisión Nacional Antimonopolio, las primeras Personas Comisionadas concluirán su encargo el mismo día y mes en que hayan entrado en funciones de los años 2028, 2029, 2030, 2031 y 2032, respectivamente.
+
+La persona titular del Ejecutivo Federal, al someter los nombramientos a la Cámara de Senadores, señalará los periodos respectivos.
+
+Una vez designadas las primeras personas integrantes del Pleno de la Comisión Nacional Antimonopolio, la persona titular del Ejecutivo Federal designará a la primera Persona Comisionada Presidenta de la Comisión Nacional Antimonopolio en un plazo no mayor a diez días naturales.
+
+El Pleno de la Comisión Nacional Antimonopolio se entenderá integrado una vez que se encuentren nombradas y ratificadas las cinco Personas Comisionadas y la persona titular del Ejecutivo Federal haya designado a quien fungirá como Persona Comisionada Presidenta.
+
+El procedimiento previsto en este artículo Tercero Transitorio deberá iniciarse al momento en que entre en vigor el presente Decreto.
+
+Cuarto. A partir de que entre en vigor el presente Decreto, se suspenden los plazos de todos los procedimientos de investigación sustanciados por la Autoridad Investigadora de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones de conformidad con los artículos 66 a 79, 94, fracciones I a III, y 96, fracciones I a V, de la Ley Federal de Competencia Económica vigente previo a la entrada en vigor del presente Decreto.
+
+En un plazo no mayor a diez días naturales a partir de que entre en vigor el presente Decreto, las Autoridades Investigadoras de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones deberán emitir un acuerdo donde identifiquen los expedientes cuya tramitación se suspende, mismo que deberá ser publicado en el Diario Oficial de la Federación.
+
+Dichos procedimientos se reanudarán al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio.
+
+Quinto. A partir de que entre en vigor el presente Decreto, la Comisión Federal de Competencia Económica, la Secretaría de Economía y demás dependencias de la Administración Pública Federal iniciarán los trámites administrativos correspondientes para que la Comisión Nacional Antimonopolio se encuentre plenamente funcional una vez que se integre su Pleno.
+
+Sexto. A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, cualquier referencia en la normativa federal o local a la Comisión Federal de Competencia Económica se entenderá como a la Comisión Nacional Antimonopolio.
+
+Séptimo. Los actos jurídicos que la Comisión Federal de Competencia Económica hubiere emitido con anterioridad al día siguiente a la integración del Pleno de la Comisión Nacional Antimonopolio, así como cualquier acto o autorización emitida por el Pleno de la Comisión Federal de Competencia Económica, continuarán surtiendo todos sus efectos legales.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades de la Comisión Federal de Competencia Económica respecto de cualquier procedimiento en curso que ésta tramite o del que sea parte, sea de naturaleza civil, penal, administrativa o de otro tipo.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes celebrados por la Comisión Federal de Competencia Económica, se entenderán como vigentes y obligarán en sus términos a la Comisión Nacional Antimonopolio, sin perjuicio del derecho de las partes a ratificar, modificar o rescindir posteriormente los que, en su caso, correspondan.
+
+Octavo. Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán surtiendo todos sus efectos legales, incluyendo, más no limitado a, las medidas y obligaciones asimétricas impuestas a los Agentes Económicos Preponderantes.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades del Instituto Federal de Telecomunicaciones, únicamente respecto de cualquier procedimiento en curso en materia de competencia económica, de preponderancia y de participación cruzada.
+
+Noveno. El Estatuto Orgánico de la Comisión Nacional Antimonopolio y el Reglamento de la Ley Federal de Competencia Económica se deberán emitir en un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio.
+
+Décimo. En tanto se efectúen las adecuaciones señaladas en el artículo Noveno Transitorio y se expiden las disposiciones reglamentarias de esta Ley, se continuará aplicando el Estatuto Orgánico, las Disposiciones Regulatorias, Criterios, Lineamientos y demás normativa emitida por la Comisión Federal de Competencia Económica, en lo que no se oponga al presente Decreto.
+
+Décimo Primero. Los procedimientos previstos en los artículos 132 y 133 de esta Ley también serán aplicables respecto de actos emitidos por la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada.
+
+Décimo Segundo. Una vez que sea designada la Persona Comisionada Presidente deberá realizar el registro de la Comisión Nacional Antimonopolio en el Registro Público de Organismos Descentralizados, de conformidad con lo previsto en la Ley Federal de las Entidades Paraestatales y demás normativa aplicable.
+
+Décimo Tercero. El titular de la Autoridad Investigadora de la Comisión Federal de Competencia Económica continuará en su encargo como titular de la Autoridad Investigadora de la Comisión Nacional Antimonopolio.
+
+Para efectos de lo anterior, se tomará en consideración el plazo que haya durado en su encargo en la Comisión Federal de Competencia Económica para determinar el plazo restante de su encargo de conformidad con el artículo 31 de la Ley Federal de Competencia Económica.
+
+Décimo Cuarto. La Comisión Nacional Antimonopolio deberá contar con el presupuesto suficiente para cumplir cabalmente con su mandato y desempeñar sus atribuciones durante el resto del ejercicio fiscal de 2025, conforme a lo dispuesto en el artículo Décimo Primero Transitorio del Presupuesto de Egresos de la Federación para el ejercicio Fiscal de 2025.
+
+La Cámara de Diputados o, en su caso, la Secretaría de Hacienda y Crédito Público, asignará el presupuesto necesario para garantizar el cumplimiento de las atribuciones de la Comisión Nacional Antimonopolio durante el ejercicio fiscal de 2026 y subsecuentes, a partir de la propuesta que presente la Comisión Nacional Antimonopolio, en los plazos y términos previstos en la legislación aplicable.
+
+Décimo Quinto. Los recursos materiales, incluyendo los registros, padrones, plataformas o cualquier sistema electrónico, de la Comisión Federal de Competencia Económica y aquellos del Instituto Federal de Telecomunicaciones, exclusivamente relacionados con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada, pasarán a la Comisión Nacional Antimonopolio y continuarán su funcionamiento y obligatoriedad en los términos de las disposiciones que los regulan hasta en tanto se emita la normativa que refiere el artículo Noveno Transitorio del presente Decreto.
+
+La Comisión Nacional Antimonopolio garantizará la confidencialidad, resguardo e integridad de la información confidencial que reciba, misma que deberá ser resguardada de manera independiente y a la que no tendrá acceso ningún otro órgano, entidad o dependencia.
+
+Décimo Sexto. La Comisión Federal de Competencia Económica dispondrá de los recursos financieros con los que cuente, incluidos los contenidos en sus fideicomisos, para el pago de indemnizaciones que incluyan sueldos y salarios de conformidad con la normativa aplicable para el personal que no se transfiera a la Comisión Nacional Antimonopolio, siempre y cuando dichos recursos no se encuentren comprometidos para el cumplimiento de fines de los fideicomisos.
+
+La Comisión Nacional Antimonopolio integrará únicamente la estructura del Instituto Federal de Telecomunicaciones relacionada con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada.
+
+Las personas servidoras públicas de la Comisión Federal de Competencia Económica que dejen de prestar sus servicios en esta y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas habilitados para tales efectos o en los medios que se determinen y conforme a la normativa aplicable a la Administración Pública Federal. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en la Comisión Federal de Competencia Económica que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que dentro de los diez días naturales previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas de la Comisión Federal de Competencia Económica, incluyendo a los Comisionados, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la autoridad competente designe o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Federal, en los sistemas habilitados para tales efectos, en el entendido de que la entrega que se realice, no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+Décimo Séptimo. A la fecha de integración del Pleno de la Comisión Nacional Antimonopolio, la Comisión Federal de Competencia Económica deberá enterar la totalidad de los recursos presupuestales y financieros disponibles con los que cuente, a la Tesorería de la Federación, incluyendo los derivados de la extinción de sus fideicomisos, mandatos o contratos análogos, así como los productos y aprovechamientos derivados de los mismos, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, la Comisión Federal de Competencia Económica deberá entregar a la Comisión Nacional Antimonopolio la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes, de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión Federal de Competencia Económica llevará a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos. Para estos efectos, determinarán las obligaciones de pago que deberán liquidarse con cargo al patrimonio de dichos fideicomisos, previo a su extinción, así como los recursos remanentes que deberán reintegrarse a la Tesorería de la Federación por la institución que actúe como fiduciaria.
+
+Los recursos federales a que se refiere el párrafo primero de este artículo Transitorio deberán ser concentrados por concepto de aprovechamientos en la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público a cubrir las asignaciones presupuestales necesarias para el funcionamiento de la Comisión Nacional Antimonopolio.
+
+Décimo Octavo. El Órgano Interno de Control de la Comisión Federal de Competencia Económica queda extinto a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio. Los asuntos y procedimientos que estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control en la Secretaría de Economía y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Décimo Noveno. A partir de la entrada en vigor del presente Decreto, las personas titulares de las Unidades de Administración y Finanzas o sus equivalentes de la Comisión Federal de Competencia Económica, el Instituto Federal de Telecomunicaciones y la Secretaría de Economía, en el ámbito de sus respectivas competencias, deberán coordinar el proceso de transferencia de los recursos humanos, materiales, financieros, presupuestales, sistemas tecnológicos e informáticos en materia administrativa correspondientes. Lo anterior, sin perjuicio de la coordinación que pudiera existir de manera simultánea entre las unidades administrativas con funciones sustantivas concerniente a los sistemas informáticos, bases de datos, expedientes, entre otros.
+
+Vigésimo. En un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre su Pleno, previa autorización de la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Antimonopolio deberá fijar las tarifas o determinar las contraprestaciones derivadas de aprovechamientos por los bienes y servicios que preste, mediante Acuerdo que emita el Pleno.
+
+Los ingresos propios que sean captados por la Comisión Nacional Antimonopolio por concepto de derechos, así como aquellos derivados de aprovechamientos por la fijación y ajuste de tarifas por los bienes y servicios que preste, deberán contribuir a incrementar su capacidad económica y financiar su operación, reduciendo gradualmente la necesidad de recursos presupuestales.
+
+Para fines de lo anterior, la Comisión Nacional Antimonopolio deberá considerar la cantidad de ingresos propios que recaude durante los ejercicios fiscales correspondientes y solicitar, en su caso, durante el proceso de integración del Presupuesto de Egresos de la Federación de cada año, el importe complementario que resulte necesario para el cabal cumplimiento de su mandato.
