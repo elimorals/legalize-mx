@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2024-12-16"
+last_updated: "2025-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LGSNSP"
 ---
 # LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, PUBLICADA EN EL D.O.F. DE 16 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -2711,3 +2713,31 @@ Segundo.- El Congreso de la Unión deberá prever en el Presupuesto de Egresos l
 Tercero.- Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
 
 Cuarto.- Se dejan sin efecto las disposiciones que se opongan al presente Decreto. Todas las referencias que se contengan en la Ley General del Sistema Nacional de Seguridad Pública a la coordinación o cualquiera otra acción entre la Federación, las entidades federativas y los municipios tendrán por incorporada a las demarcaciones territoriales de la Ciudad de México.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley General del Sistema Nacional de Seguridad Pública publicada en el Diario Oficial de la Federación el 2 de enero de 2009.
+
+Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normativa que las sustituya o las deje sin efectos.
+
+Cuarto.- El Poder Ejecutivo Federal contará con ciento veinte días naturales, a partir de la entrada en vigor de este Decreto, para publicar en el Diario Oficial de la Federación el Reglamento del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+El citado Reglamento contemplará la creación, por lo menos, de tres centros nacionales encargados de las funciones previstas en los Títulos Quinto, Capítulo IV; Sexto; Séptimo y Octavo de esta Ley.
+
+En tanto se emite el nuevo Reglamento y se autoriza la nueva estructura orgánica del Secretariado Ejecutivo, la persona titular de éste podrá asignar las referidas funciones a los centros nacionales actuales.
+
+Una vez que se emita el nuevo reglamento y se autorice la nueva estructura orgánica del Secretariado Ejecutivo, los recursos humanos, financieros y materiales del Centro Nacional de Información, el Centro Nacional de Prevención del Delito y Participación Ciudadana, y el Centro de Certificación y Acreditación pasarán a los centros nacionales que se creen en términos del segundo párrafo de este transitorio.
+
+Quinto.- Los asuntos que, a la entrada en vigor de este Decreto, se encuentren a cargo del Centro Nacional de Prevención del Delito y Participación Ciudadana pasarán a la competencia de la Secretaría, por conducto de las unidades administrativas que ésta determine. Para tal efecto, deberán entregarse a dicha Secretaría los expedientes, archivos, bases de datos y demás elementos vinculados con dichos asuntos.
+
+Sexto.- Las referencias que se hagan en otras disposiciones al Centro Nacional de Información y al Centro de Certificación y Acreditación se entenderán hechas al Secretariado Ejecutivo. Las que se hagan al Centro Nacional de Prevención del Delito y Participación Ciudadana se entenderán hechas a la Secretaría.
+
+Séptimo.- Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada en vigor de este Decreto cuenten con un nivel de estudios inferior al establecido en este para su ingreso o permanencia deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el nivel de estudios que corresponda.
+
+Octavo.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
+
+Noveno.- Dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, la Secretaría de Gobernación expedirá el Acuerdo por el que se regulará la operación, funcionamiento e integración de las mesas de paz de las entidades federativas y regionales.
