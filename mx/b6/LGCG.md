@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2024-04-01"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -1142,17 +1142,19 @@ Los datos de producto interno bruto y los ingresos propios de los estados y muni
 
 ### CAPÍTULO V. De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas
 
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 79.
 
-Los entes públicos deberán publicar en sus páginas de Internet a más tardar el último día hábil de abril su programa anual de evaluaciones, así como las metodologías e indicadores de desempeño.
+Los entes públicos deberán publicar en sus páginas de Internet a más tardar el último día hábil de abril su programa anual de evaluaciones, así como las metodologías e indicadores de desempeño, de conformidad con el artículo 78 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
 Los entes públicos deberán publicar a más tardar a los 30 días posteriores a la conclusión de las evaluaciones, los resultados de las mismas e informar sobre las personas que realizaron dichas evaluaciones.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-La Secretaría de Hacienda y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en el ámbito de su competencia y de conformidad con el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, enviarán al Consejo los criterios de evaluación de los recursos federales ministrados a las entidades federativas, los municipios y los órganos político-administrativos de las demarcaciones territoriales de la Ciudad de México, así como los lineamientos de evaluación que permitan homologar y estandarizar tanto las evaluaciones como los indicadores para que dicho Consejo, en el ámbito de sus atribuciones, proceda a determinar los formatos para la difusión de los resultados de las evaluaciones, conforme a lo establecido en el artículo 56 de esta Ley.
+La Secretaría de Hacienda, de conformidad con el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, enviará al Consejo los criterios de evaluación de los recursos federales ministrados a las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, así como los lineamientos de evaluación que permitan homologar y estandarizar tanto las evaluaciones como los indicadores para que dicho Consejo, en el ámbito de sus atribuciones, proceda a determinar los formatos para la difusión de los resultados de las evaluaciones, conforme a lo establecido en el artículo 56 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
 
@@ -1160,15 +1162,17 @@ La Secretaría de Hacienda y el Consejo Nacional de Evaluación de la Política 
 
 A más tardar el último día hábil de marzo, en los términos del artículo anterior y demás disposiciones aplicables, se revisarán y, en su caso, se actualizarán los indicadores de los fondos de aportaciones federales y de los programas y convenios a través de los cuales se transfieran recursos federales, con base en los cuales se evaluarán los resultados que se obtengan con dichos recursos. Los indicadores actualizados deberán incluirse en los informes trimestrales y en las cuentas públicas, en los términos de los artículos 48 de la Ley de Coordinación Fiscal y 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-La Secretaría de Hacienda, con el apoyo técnico del Consejo Nacional de Evaluación de la Política de Desarrollo Social, entregará conjuntamente con las dependencias coordinadoras de los fondos, programas y convenios, el último día hábil del mes de abril de cada año a la Cámara de Diputados del Congreso de la Unión, un informe sobre las adecuaciones efectuadas, en su caso, a los indicadores del desempeño, así como su justificación.
+La Secretaría de Hacienda entregará conjuntamente con las dependencias coordinadoras de los fondos, programas y convenios, el último día hábil del mes de abril de cada año, a la Cámara de Diputados del Congreso de la Unión, un informe sobre las adecuaciones efectuadas, en su caso, a los indicadores del desempeño, así como su justificación.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
 En ese mismo plazo, la Secretaría de Hacienda entregará a la Cámara de Diputados del Congreso de la Unión, un informe del avance alcanzado por las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en la implantación y operación del Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, en lo que corresponde a los recursos federales transferidos y, en su caso, las medidas que se aplicarán coordinadamente entre estos órdenes de gobierno para el logro de los objetivos definidos en las disposiciones aplicables.
 
-El consejo establecerá las normas, metodologías, clasificadores y los formatos con la estructura y contenido de la información para armonizar la elaboración y presentación de la información a que se refiere este artículo. Asimismo, tratándose de programas sociales, el Consejo desarrollará lo anterior a partir de los indicadores que prevé la Ley General de Desarrollo Social y en coordinación con el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El Consejo establecerá las normas, metodologías, clasificadores y los formatos con la estructura y contenido de la información para armonizar la elaboración y presentación de la información a que se refiere este artículo. Asimismo, tratándose de programas sociales, el Consejo desarrollará lo anterior a partir de los indicadores que prevé la Ley General de Desarrollo Social.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -1479,3 +1483,49 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA Y DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+A la entrada en vigor del presente Decreto se extingue el organismo descentralizado de la Administración Pública Federal, sectorizado a la Secretaría de Bienestar, denominado Consejo Nacional de Evaluación de la Política de Desarrollo Social, conservando su personalidad jurídica para llevar a cabo los actos a que se refiere éste.
+
+Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del presente Decreto seguirán vigentes en lo que no se opongan al mismo, hasta en tanto se emitan las disposiciones que los sustituyan.
+
+Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los recursos presupuestarios, financieros y materiales, además de los inmuebles, derechos y obligaciones sobre dichos recursos al Instituto Nacional de Estadística y Geografía, en los términos que determinen ambas instituciones, sin perjuicio de lo dispuesto en el Artículo Tercero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024, a más tardar a los 20 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá entregar a la Secretaría de Hacienda y Crédito Público la información necesaria para integrar la Cuenta Pública y demás informes correspondientes al primer trimestre del presente año, de conformidad con las disposiciones jurídicas aplicables, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto, deberá dar cumplimiento con lo establecido en el artículo 134, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, para ajustar su estructura orgánica de conformidad con los principios de racionalidad y austeridad republicana, y evitar todo tipo de duplicidad de funciones, con base en las necesidades de mejora y modernización de la gestión pública.
+
+Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en coordinación con la Secretaría de Bienestar, concluya la relación laboral con todo su personal en los términos legales que correspondan. Los pagos correspondientes se realizarán con cargo al patrimonio del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+Las personas servidoras públicas del Consejo Nacional de Evaluación de la Política de Desarrollo Social que dejen de prestar sus servicios en dicho Consejo y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas que la Secretaría Anticorrupción y Buen Gobierno tenga habilitados para tales efectos y conforme a la normativa aplicable a la Administración Pública Federal.
+
+El Instituto Nacional de Estadística y Geografía, conforme a su estructura orgánica y ocupacional, así como a su disponibilidad presupuestaria, contratará al personal que requiera bajo el régimen laboral previsto en el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, en concordancia con la normativa del Instituto.
+
+Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en los ordenamientos jurídicos se hagan o le confieran al Consejo Nacional de Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas al Instituto Nacional de Estadística y Geografía cuando se refieran a la medición de la pobreza y evaluación integral de la Política de Desarrollo Social.
+
+Asimismo, las referencias y atribuciones que se hagan o le confieran al Consejo Nacional de Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas a la Secretaría de Hacienda y Crédito Público cuando se refieran al Presupuesto basado en Resultados y al Sistema de Evaluación del Desempeño.
+
+Séptimo.- Los instrumentos jurídicos celebrados por el Consejo Nacional de Evaluación de la Política de Desarrollo Social seguirán vigentes y surtiendo sus efectos, hasta en tanto se determine su modificación, terminación o celebración de nuevos instrumentos jurídicos.
+
+Octavo.- Los asuntos relacionados con el ejercicio de las atribuciones objeto del presente Decreto, que se encuentren en trámite, continuarán a cargo de las instituciones que asuman las atribuciones en términos del presente Decreto, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Las obligaciones a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social al momento de su extinción estarán a cargo del Instituto Nacional de Estadística y Geografía, incluyendo la defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.
+
+Noveno.- El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá ser puesto a disposición del Instituto Nacional de Estadística y Geografía y, una vez revisado, será puesto a disposición de la ciudadanía en un portal electrónico público.
+
+Décimo.- Para efectos de lo dispuesto en los transitorios tercero, séptimo, octavo y noveno del presente Decreto, el Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por las personas titulares de la Dirección General de Administración del Instituto Nacional de Estadística y Geografía, de la Secretaría Ejecutiva y de la Coordinación General de Administración del Consejo Nacional de Evaluación de la Política de Desarrollo Social, así como cuatro personas servidoras públicas quienes deberán de tener al menos el nivel de Dirección de área o equivalente, así como tener conocimiento o estar a cargo de los asuntos que se mencionan en dichos transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de 20 días naturales contados a partir de la entrada en vigor del presente Decreto, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de existir acciones pendientes, se estará a lo previsto en el segundo párrafo del transitorio octavo de este Decreto.
+
+Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá realizar las reformas necesarias a su Reglamento Interior para atender lo dispuesto en el presente Decreto, a más tardar dentro de los 20 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
+
+Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.
+
+Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
