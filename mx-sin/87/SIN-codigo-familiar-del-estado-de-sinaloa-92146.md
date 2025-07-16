@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2023-08-11"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -6705,6 +6705,16 @@ Los oficiales del registro civil autorizarán los actos del estado familiar y ex
 
 Asimismo podrán hacer la anotación en el Registro de Deudores Alimentarios Morosos a que se refiere el tercer párrafo del artículo 223 y extender la constancia que informe si quien la solicita se encuentra inscrito o no en el Registro como deudor alimentario moroso o deudor alimentario sin adeudo de pagos, según corresponda.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 1097 Bis.
+
+La Dirección del Registro Civil dispondrá las medidas necesarias para facilitar la inscripción gratuita de nacimiento en el Registro Civil respectivo del Estado, de todas aquellas niñas, niños y adolescentes hijos de personas que se desempeñan como jornaleras en campos agrícolas, que no hayan sido registrados oportunamente.
+
+En las poblaciones con campos agrícolas se efectuarán campañas de registro de nacimiento cuando menos dos veces durante el ciclo agrícola. Asimismo, se habilitarán módulos itinerantes del Registro Civil, que tendrán las mismas atribuciones y obligaciones señaladas en este Código para efecto de atender y llevar a cabo legalmente el registro de nacimiento oportuno y extemporáneo.
+
+El registro de nacimiento será realizado por oficiales del registro civil en coordinación con las dependencias federales, estatales y municipales competentes.
+
 ### Capítulo II. De los Formatos del Registro Civil
 
 ###### Artículo 1098.
@@ -7824,3 +7834,11 @@ P.O. 11 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 185 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA EL ARTÍCULO 1097 BIS AL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
