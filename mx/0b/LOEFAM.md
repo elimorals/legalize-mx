@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2024-05-03"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2024
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -53,6 +53,14 @@ III. Auxiliar a la población civil en casos de necesidades públicas;
 IV. Realizar acciones cívicas y obras sociales que tiendan al progreso del país; y
 
 V. En caso de desastre prestar ayuda para el mantenimiento del orden, auxilio de las personas y sus bienes y la reconstrucción de las zonas afectadas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 1/o BIS. La Guardia Nacional, como fuerza de seguridad pública, profesional, de carácter permanente e integrada por personal militar con formación policial para el cumplimiento de sus fines señalados en la Constitución Política de los Estados Unidos Mexicanos, contará con la estructura orgánica y de dirección previstas en su propia ley.
+
+La Guardia Nacional como Fuerza Armada Permanente, dependiente de la Secretaría del ramo de Defensa Nacional, participará con el Ejército y Fuerza Aérea Mexicanos, en la defensa de la integridad, independencia y soberanía de la Nación, así como garantizar la seguridad interior, en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos.
+
+Las disposiciones contenidas en la presente Ley, serán aplicables en lo conducente a la Guardia Nacional.
 
 ARTICULO 2/o. Las misiones enunciadas, podrán realizarlas el Ejército y la Fuerza Aérea, por si o en forma conjunta con la Armada o con otras Dependencias de los Gobiernos Federal, Estatales o Municipales, todo, conforme lo ordene o lo apruebe el Presidente de la República, en ejercicio de sus facultades constitucionales.
 
@@ -112,9 +120,11 @@ Sin distinción de género, los miembros del Ejército y Fuerza Aérea Mexicanos
 
 ### CAPITULO II. MANDO SUPREMO
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 11.
 
-El Mando Supremo del Ejército y Fuerza Aérea Mexicanos, corresponde al Presidente de la República, quien lo ejercerá por sí o a través del Secretario de la Defensa Nacional; para el efecto, durante su mandato se le denominará Comandante Supremo de las Fuerzas Armadas.
+El Mando Supremo del Ejército, Fuerza Aérea y Guardia Nacional, corresponde a la persona titular de la Presidencia de la República, quien lo ejercerá por sí o a través de la persona titular de la Secretaría de la Defensa Nacional; para el efecto, durante su mandato se le denominará persona Comandante Supremo de las Fuerzas Armadas.
 
 ###### ARTICULO 12.
 
@@ -160,9 +170,11 @@ Se organizará y funcionará de acuerdo con el Reglamento respectivo.
 
 #### Sección Primera
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 16.
 
-El Alto Mando del Ejército y Fuerza Aérea lo ejercerá el Secretario de la Defensa Nacional, el cual será un General de División del Ejército, hijo de padres mexicanos; y que, con objeto de establecer distinción respecto del resto de militares del mismo grado, se le denominará solamente General.
+El Alto Mando del Ejército, Fuerza Aérea y Guardia Nacional, lo ejercerá la persona titular de la Secretaría de la Defensa Nacional, la cual será una persona con la jerarquía de General de División del Ejército, hijo de padres mexicanos y que, con objeto de establecer distinción respecto del resto de militares del mismo grado, se le denominará solamente General.
 
 ###### ARTICULO 17.
 
@@ -178,9 +190,11 @@ El Subsecretario y el Oficial Mayor, son auxiliares inmediatos del Alto Mando pa
 
 Para el efecto, el Secretario de la Defensa Nacional, asignará a cada Funcionario, las áreas en las cuales se haga necesario su desempeño.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 20.
 
-Para el cumplimiento de las funciones del Alto Mando, la Secretaría de la Defensa Nacional se constituye en Cuartel General Superior del Ejército y Fuerza Aérea.
+Para el cumplimiento de las funciones del Alto Mando, la Secretaría de la Defensa Nacional se constituye en Cuartel General Superior del Ejército, Fuerza Aérea y Guardia Nacional.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -194,7 +208,9 @@ El Alto Mando, para el cumplimiento de sus funciones, contará con los siguiente
 
 I. Estado Mayor Conjunto de la Defensa Nacional;
 
-II. Inspección y Contraloría General del Ejército y Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Inspección y Contraloría General del Ejército, Fuerza Aérea y Guardia Nacional;
 
 > <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -212,11 +228,11 @@ V. Centro Nacional de Vigilancia y Protección del Espacio Aéreo.
 
 ESTADO MAYOR CONJUNTO DE LA DEFENSA NACIONAL
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 22.
 
-El Estado Mayor Conjunto de la Defensa Nacional es el órgano técnico operativo, colaborador inmediato del Alto Mando, a quien auxilia en la Planeación y coordinación de los asuntos relacionados con la Defensa Nacional y con la organización, adiestramiento, operación y desarrollo de las Fuerzas Armadas de tierra y aire y transforma las decisiones en directivas, instrucciones y órdenes, verificando su cumplimiento.
+El Estado Mayor Conjunto de la Defensa Nacional es el órgano técnico operativo, colaborador inmediato del Alto Mando, a quien auxilia en la planeación y coordinación de los asuntos relacionados con la defensa nacional, la seguridad pública y la organización, adiestramiento, operación y desarrollo del Ejército, Fuerza Aérea y Guardia Nacional; transforma las decisiones en directivas, instrucciones y órdenes, verificando su cumplimiento.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -224,15 +240,21 @@ El Estado Mayor Conjunto de la Defensa Nacional es el órgano técnico operativo
 
 El Estado Mayor Conjunto de la Defensa Nacional estará formado por personal de Estado Mayor perteneciente al Ejército y Fuerza Aérea y por aquel otro que sea necesario.
 
-INSPECCION Y CONTRALORIA GENERAL DEL EJERCITO Y FUERZA AEREA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+INSPECCION Y CONTRALORIA GENERAL DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 24.
 
-La Inspección y Contraloría General del Ejército y Fuerza Aérea es el órgano encargado de la supervisión, fiscalización y auditoría del personal, material, animales e instalaciones en sus aspectos técnico, administrativos y financieros, así como del adiestramiento de los individuos y de las unidades.
+La Inspección y Contraloría General del Ejército, Fuerza Aérea y Guardia Nacional es el órgano encargado de la supervisión, fiscalización y auditoría del personal, material, animales e instalaciones en sus aspectos técnicos, administrativos y financieros, así como del adiestramiento de los individuos y de las unidades.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 25.
 
-La Inspección y Contraloría General del Ejército y Fuerza Aérea, se integrará con personal del Ejército y Fuerza Aérea.
+La Inspección y Contraloría General del Ejército, Fuerza Aérea y Guardia Nacional se integrará con personal del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ORGANOS DEL FUERO DE GUERRA
 
@@ -270,17 +292,19 @@ La organización y funcionamiento del Tribunal Superior Militar, Fiscalía Gener
 
 Los cargos que desempeña el personal que integra las Dependencias del Tribunal Superior Militar, son incompatibles con cualquier otro en el Ejército y Fuerza Aérea, en la Secretaría de la Defensa Nacional y en Dependencias de los Gobiernos: Federal, Estatales y Municipales.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 31.
 
-Los Consejos de Honor y los Superiores Jerárquicos y de cargo conocen de las faltas en contra de la disciplina militar en los términos que establezcan las Leyes y Reglamentos.
+El Consejo Superior de Disciplina, los consejos de honor y los superiores jerárquicos y de cargo conocen de las faltas en contra de la disciplina militar en los términos que establezcan las leyes y reglamentos.
 
 DIRECCIONES GENERALES DE LA SECRETARIA DE LA DEFENSA NACIONAL
 
-> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 32.
 
-Las Direcciones Generales de las Armas, de los servicios y de otras funciones administrativas de la Secretaría de la Defensa Nacional, tendrán a su cargo las actividades relacionadas con el asesoramiento al Alto Mando y a los Comandantes del Ejército y de la Fuerza Aérea, así como la dirección, manejo y verificación de todos los asuntos militares no incluidos en los de carácter táctico o estratégico, que tiendan a la satisfacción de la moral militar y de las necesidades sociales y materiales del Ejército y Fuerza Aérea; de acuerdo con el Reglamento Interior de la Secretaría de la Defensa Nacional u ordenamiento que haga sus veces.
+Las direcciones generales de las armas, de los servicios y de otras funciones administrativas de la Secretaría de la Defensa Nacional, tendrán a su cargo las actividades relacionadas con el asesoramiento al Alto Mando y a los comandantes del Ejército, Fuerza Aérea y Guardia Nacional, así como la dirección, manejo y verificación de todos los asuntos militares no incluidos en los de carácter táctico o estratégico, que tiendan a la satisfacción de la moral militar y de las necesidades sociales y materiales, de acuerdo con el Reglamento Interior de la Secretaría de la Defensa Nacional.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -308,21 +332,25 @@ Los Mandos Superiores, según su función, se dividen en Operativos y de Servici
 
 Los Mandos Superiores Operativos recaerán en:
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-I. La persona Comandante del Ejército;
+I. La persona Comandante del Ejército Mexicano;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. La persona Comandante de la Fuerza Aérea;
+II. La persona Comandante de la Fuerza Aérea Mexicana;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Las personas Comandantes de Regiones Militares o Aéreas;
+II BIS. La persona Comandante de la Guardia Nacional;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Las personas Comandantes de Zonas Militares;
+III. Las personas Comandantes de Regiones Militares o Aéreas, así como Coordinadores Territoriales;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Las personas Comandantes de Zonas Militares y Coordinadores Estatales;
 
 > <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -336,9 +364,9 @@ V. Las personas Comandantes de las Grandes Unidades Terrestres o Aéreas;
 
 VI. Las personas Comandantes de las Unidades conjuntas o combinadas, y
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Las personas Comandantes de las Unidades Circunstanciales que el Alto Mando determine implementar.
+VII. Las personas Comandantes y Coordinadores de las Unidades Circunstanciales que el Alto Mando determine implementar.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -616,6 +644,10 @@ Los Servicios son componentes del Ejército y Fuerza Aérea, que tienen como mis
 
 Los Servicios quedan constituidos por órganos de dirección y órganos de ejecución.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los servicios del Ejército y Fuerza Aérea Mexicanos apoyan a la Guardia Nacional para satisfacer sus necesidades de vida y operación.
+
 ###### ARTICULO 68.
 
 Los Servicios del Ejército y Fuerza Aérea son:
@@ -708,9 +740,11 @@ Las direcciones generales, direcciones, jefaturas y el Centro Nacional de Vigila
 
 Servicio de Ingenieros
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 76.
 
-El Servicio de Ingenieros es parte integrante del Arma de Ingenieros, y será dirigido por el director general de dicha arma.
+El Servicio de Ingenieros es parte integrante del Arma de Ingenieros y será dirigido por la persona titular de la dirección general de dicha arma, que deberá ostentar la jerarquía de General en activo.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -740,9 +774,11 @@ Servicio Cartográfico
 
 El Servicio Cartográfico tendrá a su cargo todos los trabajos de este tipo y los geodésicos, topográficos y fotogramétricos, así como la producción y el abastecimiento de cartas, mapas, mosaicos aéreos y material similar para el Ejército y Fuerza Aérea. Estas actividades podrán coordinarse con otros órganos oficiales semejantes.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 79.
 
-El Director del Servicio Cartográfico será un General procedente de Arma.
+La persona titular de la Dirección del Servicio Cartográfico deberá ostentar la jerarquía de General en activo.
 
 Servicio de Transmisiones
 
@@ -756,9 +792,11 @@ II. Planear, organizar, instalar, operar y conservar los sistemas de telecomunic
 
 III. Auxiliar a los mandos en todos los niveles, en el empleo, operación y conservación de los medios de transmisión a cargo de dichas unidades, y en la capacitación del personal de las Armas y de otros Servicios encargados de tales medios.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 81.
 
-El Director del Servicio de Transmisiones será un General perteneciente a dicho servicio.
+La persona titular de la Dirección del Servicio de Transmisiones deberá ostentar la jerarquía de General en activo.
 
 Servicio de Materiales de Guerra
 
@@ -774,11 +812,11 @@ III. Intervenir en las actividades de control de daños en puestos militares, lo
 
 IV. Apoyar a otros Servicios en la instalación, operación y mantenimiento de equipos industriales y otros de su especialidad, en edificios, bases, campos y establecimientos militares o bajo control militar; y a la Defensa Nacional.
 
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 83.
 
-El Director del Servicio de Materiales de Guerra será un General Ingeniero Industrial.
+La persona titular de la Dirección del Servicio de Materiales de Guerra deberá ostentar la jerarquía de General en activo.
 
 Servicio de Transportes
 
@@ -802,9 +840,11 @@ VI. Diseñar, fabricar, recibir, almacenar, abastecer, evacuar, mantener, repara
 
 VII. Recibir, almacenar y abastecer de combustibles y lubricantes a las Unidades y vehículos automóviles, del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 85.
 
-El Director del Servicio de Transportes, será un General procedente de Arma.
+La persona titular de la Dirección del Servicio de Transportes deberá ostentar la jerarquía de General en activo.
 
 Servicio de Administración
 
@@ -824,9 +864,11 @@ IV. Mantener al corriente la estadística militar, con base en los datos que le 
 
 V. Proporcionar personal especialista para la administración de las Unidades, Dependencias e Instalaciones del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 87.
 
-El Director del Servicio de Administración será un General perteneciente a dicho servicio.
+La persona titular de la dirección del Servicio de Administración deberá ostentar la jerarquía de General en activo.
 
 Servicio de Intendencia
 
@@ -846,9 +888,11 @@ V. Organizar y desarrollar actividades de lavandería, servicio de baños y de o
 
 VI. Fabricar, producir, adquirir, y almacenar los abastecimientos de su responsabilidad.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 89.
 
-El Director del Servicio de Intendencia, será un General perteneciente a dicho servicio.
+La persona titular de la Dirección del Servicio de Intendencia deberá ostentar la jerarquía de General en activo.
 
 Servicio de Sanidad
 
@@ -870,9 +914,11 @@ IV. Fabricar, recibir, almacenar, abastecer, reparar, mantener, recuperar y cont
 
 V. Asesorar el adiestramiento en la impartición de primeros auxilios, de los integrantes del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 91.
 
-El Director del Servicio de Sanidad será un General Médico Cirujano.
+La persona titular de la Dirección del Servicio de Sanidad deberá ostentar la jerarquía de General en activo.
 
 Servicio de Justicia
 
@@ -898,11 +944,11 @@ VI. Tramitar lo necesario respecto a retiros y pensiones en la parte que compete
 
 VII. Practicar los estudios sobre recompensas a los militares.
 
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 93.
 
-El Director del Servicio de Justicia, será un General Licenciado en Derecho, de dicho servicio.
+La persona titular de la Dirección del Servicio de Justicia deberá ostentar la jerarquía de General en activo.
 
 Servicio de Veterinaria y Remonta
 
@@ -920,9 +966,11 @@ IV. Llevar a cabo la inspección sanitaria de los alimentos de origen animal y d
 
 V. Recibir, almacenar, abastecer, reparar, mantener, recuperar y controlar el material y equipo que maneja el Servicio para satisfacer las necesidades del Ejército y las suyas propias.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 95.
 
-El jefe del Servicio de Veterinaria y Remonta será un Coronel Médico Veterinario.
+La persona titular del Servicio de Veterinaria y Remonta deberá ostentar la jerarquía de General en activo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
 
@@ -944,9 +992,9 @@ V. Auxiliar a los mandos en todos los niveles en el empleo, operación y conserv
 
 VI. Las demás que le confieran esta Ley y cualquier disposición aplicable.
 
-> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-ARTICULO 95 TER. El Director del Servicio de informática será un General Ingeniero en Computación e Informática.
+ARTICULO 95 TER. La persona titular de la Dirección del Servicio de Informática deberá ostentar la jerarquía de General en activo.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -966,9 +1014,9 @@ IV. Promover la creación, organización, establecimiento y sostenimiento de bib
 
 V. Las demás que le confieran esta Ley y la normatividad aplicable.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-ARTICULO 95 QUINQUIES. La persona titular de la Dirección del servicio de archivo deberá contar con el grado de General procedente de Arma.
+ARTICULO 95 QUINQUIES. La persona titular de la Dirección del Servicio de Archivo deberá ostentar la jerarquía de General en activo.
 
 Servicio Meteorológico
 
@@ -994,9 +1042,11 @@ III. Establecer coordinación en asuntos de su especialidad con organismos guber
 
 IV. Recibir, abastecer, instalar, operar y mantener en condiciones operativas el material del Servicio.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 97.
 
-El Servicio Meteorológico, operará bajo la supervisión de la Comandancia de la Fuerza Aérea y su Director será un General perteneciente a dicho servicio.
+El Servicio Meteorológico operará bajo la supervisión de la Comandancia de la Fuerza Aérea y la persona titular de la Dirección deberá ostentar la jerarquía de General en activo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -1028,11 +1078,11 @@ IV. Recibir, operar y mantener en condiciones operativas el material del Servici
 
 V. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad, cuando la misión lo requiera.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 99.
 
-La persona titular de la Dirección del Servicio de Defensa Aérea deberá contar con el grado de General perteneciente a dicho Servicio.
+La persona titular de la Dirección del Servicio de Defensa Aérea deberá ostentar la jerarquía de General en activo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -1064,11 +1114,11 @@ IV. Llevar a cabo la investigación científica y tecnológica en aspectos del S
 
 V. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad, cuando la misión lo requiera.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 101.
 
-La persona titular de la Dirección del Servicio de Mantenimiento de Material Aéreo deberá contar con el grado de General perteneciente a dicho Servicio.
+La persona titular de la Dirección del Servicio de Mantenimiento de Material Aéreo deberá ostentar la jerarquía de General en activo.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -1088,9 +1138,9 @@ IV. Llevar a cabo la investigación científica y tecnológica en aspectos del S
 
 V. Llevar el registro estadístico de las refacciones y partes de aviación de la Fuerza Aérea, con el objeto de elaborar los programas presupuestarios y logísticos correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-ARTICULO 101 TER. La persona titular de la Dirección del Servicio de Logística Aérea deberá contar con el grado de General perteneciente a dicho Servicio.
+ARTICULO 101 TER. La persona titular de la Dirección del Servicio de Logística Aérea deberá ostentar la jerarquía de General en activo.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -1110,9 +1160,9 @@ IV. Llevar a cabo la investigación científica y tecnológica en aspectos del S
 
 V. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad, cuando la misión lo requiera.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-ARTICULO 101 QUINQUIES. La persona titular de la Dirección del Servicio de Material Aéreo Electrónico deberá contar con el grado de General perteneciente a dicho Servicio.
+ARTICULO 101 QUINQUIES. La persona titular de la Dirección del Servicio de Material Aéreo Electrónico deberá ostentar la jerarquía de General en activo.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2023)</small>
 
@@ -1138,9 +1188,9 @@ VII. Controlar y operar los sistemas de armas antiaéreas, en coordinación con 
 
 VIII. Formar parte de las tripulaciones de vuelo de la Fuerza Aérea en tareas propias de su especialidad cuando la misión lo requiera.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-ARTICULO 101 SEPTIES. La persona titular de la Dirección del Servicio de Material Bélico de Fuerza Aérea deberá contar con el grado de General perteneciente a dicho Servicio.
+ARTICULO 101 SEPTIES. La persona titular de la Dirección del Servicio de Material Bélico de Fuerza Aérea deberá ostentar la jerarquía de General en activo.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -1238,9 +1288,11 @@ Cuerpo de Música Militar
 
 El Cuerpo de Música Militar, tendrá a su cargo la organización, funcionamiento y administración de las Bandas de Música y Orquestas, las que podrán formar parte orgánica o estar en refuerzo de las Unidades o Dependencias del Ejército y Fuerza Aérea.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 114.
 
-El Cuerpo de Música Militar, estará integrado por el personal que se encuentre dedicado profesional y exclusivamente a las actividades que le son peculiares. Su personal es de las Clases de Servicio y Auxiliares.
+El Cuerpo de Música Militar, estará integrado por el personal que se encuentre dedicado profesional y exclusivamente a las actividades que le son peculiares. Su personal es de la Clase de Servicio.
 
 ###### ARTICULO 115.
 
@@ -1302,11 +1354,13 @@ IV. Escuelas, Centros o Cursos Superiores.
 
 En los sistemas de selección no podrán existir más diferencias por razón de sexo, que las derivadas de las distintas condiciones físicas que, en su caso, puedan considerarse en el cuadro de condiciones exigibles para el ingreso.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 123.
 
-El Plan General de Educación Militar, determinará los Cursos que deban impartirse en los diversos establecimientos de Educación Militar, así como en las Unidades y Dependencias del Ejército y Fuerza Aérea.
+El Plan General de Educación Militar, determinará los cursos que deban impartirse en los diversos establecimientos de educación militar, así como en las unidades y dependencias del Ejército, Fuerza Aérea y Guardia Nacional.
 
-La apliación (sic) de estos Cursos, será supervisada por la Dirección General de Educación Militar.
+La aplicación de estos cursos será supervisada por la Dirección General de Educación Militar.
 
 ###### ARTICULO 124.
 
@@ -1316,9 +1370,11 @@ La Secretaría de la Defensa Nacional, expedirá los títulos profesionales, Dip
 
 ### CAPITULO VIII. DE LOS UNIFORMES Y LAS DIVISAS
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 125.
 
-Los uniformes y las divisas en el Ejército y Fuerza Aérea, estarán especificados en el Reglamento respectivo y son de su uso exclusivo, por lo que no podrán ser utilizados por personas, Corporaciones o Dependencias que les sean ajenas. Quienes violen estas disposiciones quedarán sujetos a lo que dispone la Ley Penal de la Materia.
+Los uniformes y las divisas en el Ejército, Fuerza Aérea y Guardia Nacional, estarán especificados en el reglamento respectivo y son de su uso exclusivo, por lo que no podrán ser utilizados por personas, corporaciones o dependencias que les sean ajenas. Quienes violen estas disposiciones quedarán sujetos a lo que dispone la ley penal de la materia.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -1354,41 +1410,59 @@ IV. Tropa.
 
 Los grados en el orden decreciente son como sigue:
 
-I. Generales en el Ejército y Fuerza Aérea:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Generales en el Ejército, Fuerza Aérea y Guardia Nacional:
 
 A. General de División;
 
-B. General de Brigada o General de Ala; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+B. General de Brigada o General de Ala, y
 
 C. General Brigadier o General de Grupo.
 
-II. Jefes en el Ejército y Fuerza Aérea:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Jefes en el Ejército, Fuerza Aérea y Guardia Nacional:
 
 A. Coronel;
 
-B. Teniente Coronel; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+B. Teniente Coronel, y
 
 C. Mayor.
 
-III. Oficiales en el Ejército y Fuerza Aérea:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Oficiales en el Ejército, Fuerza Aérea y Guardia Nacional:
 
 A. Capitán Primero;
 
 B. Capitán Segundo;
 
-C. Teniente; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+C. Teniente, y
 
 D. Subteniente.
 
-IV. Tropa en el Ejército y Fuerza Aérea.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Tropa en el Ejército, Fuerza Aérea y Guardia Nacional:
 
 A. Clases.
 
 a. Sargento Primero;
 
-b. Sargento Segundo; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-c. Cabo; y
+b. Sargento Segundo;
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+c. Cabo, y
 
 B. Soldado.
 
@@ -1474,15 +1548,21 @@ Los grados y las insignias en el Ejército y Fuerza Aérea son de su uso exclusi
 
 Militares son las mujeres y los hombres que legalmente pertenecen a las Fuerzas Armadas Mexicanas, con un grado de la escala jerárquica. Estarán sujetos a las obligaciones y derechos que para ellos establecen la Constitución, la presente Ley y demás ordenamientos castrenses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 133.
 
-Los militares en el Ejército y Fuerza Aérea, atendiendo a la clase de servicios que desempeñan, se clasifican en:
+Los militares en el Ejército, Fuerza Aérea y Guardia Nacional, atendiendo a la clase de servicios que desempeñan, se clasifican en:
 
 I. De Arma;
 
-II. De Servicio; y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Auxiliares.
+II. De Servicio, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. De Guardia Nacional.
 
 ###### ARTICULO 134.
 
@@ -1494,7 +1574,7 @@ Son Militares de Servicio, los que técnicamente se educan para el mando, adiest
 
 ###### ARTICULO 136.
 
-Son Militares Auxiliares, los que desempeñan actividades técnicas y profesionales exclusivamente en los servicios del Ejército y Fuerza Aérea; mientras pertenezcan a esta clase, su permanencia en las Fuerzas Armadas, será fijada en el contrato respectivo.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -1572,9 +1652,11 @@ Los Conductores, Choferes y Operadores de los vehículos que tengan finalidades 
 
 El personal de los Servicios encuadrado en las pequeñas unidades de las Armas del Ejército, será de la clase de Servicio; igual disposición se aplicará para las unidades de la Fuerza Aérea cuando proceda.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 147.
 
-El personal Auxiliar del Ejército y Fuerza Aérea, será utilizado exclusivamente en comisiones del servicio propias de su Profesión o Especialidad. Cuando se requiera y después de recibir el adiestramiento militar apropiado desempeñará servicios económicos y de armas. Por ningún motivo se le asignarán funciones que específicamente correspondan a los ayudantes de los Altos Funcionarios y de Agregados Militares en el extranjero, ni deberán estar a disposición.
+El personal especialista del Ejército y Fuerza Aérea Mexicanos, será utilizado exclusivamente en comisiones del servicio propias de su profesión o especialidad. Cuando se requiera y después de recibir el adiestramiento militar apropiado desempeñará servicios económicos y de armas.
 
 ###### ARTICULO 148.
 
@@ -1594,17 +1676,15 @@ I. Por conscripción, de conformidad con lo establecido en la Ley del Servicio M
 
 II. Por enganche voluntario, seleccionando a los individuos que lo soliciten, bajo las condiciones estipuladas en los contratos de enganche correspondientes.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 150.
 
-El personal civil o militar que sea admitido para efectuar Cursos de Formación en los Planteles de Educación Militar, deberá firmar contrato o compromiso, respectivamente, en el que se establezca que queda obligado a servir al Ejército y Fuerza Aérea, como mínimo, un tiempo doble al que haya durado el Curso correspondiente.
+El personal civil o militar que sea admitido para efectuar cursos de formación en los planteles de educación militar deberá firmar un contrato o compromiso, respectivamente, en el que se establezca que queda obligado a servir al Ejército, Fuerza Aérea y Guardia Nacional, como mínimo, un tiempo doble al que haya durado el curso correspondiente.
 
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+Los miembros del Ejército, Fuerza Aérea y Guardia Nacional que sean designados o autorizados a su solicitud para efectuar cursos de capacitación, actualización, aplicación, especialización, perfeccionamiento de postgraduados, superiores y otros en el país, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción igual o mayor a seis meses y, en el supuesto que dicho periodo sea menor de seis meses, el tiempo adicional será igual a la duración del curso.
 
-Los miembros del Ejército y Fuerza Aérea, que sean designados o autorizados a su solicitud, para efectuar Cursos de Capacitación, Actualización, Aplicación, Especialización, Perfeccionamiento, de Postgraduados, Superiores y otros en el país, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción igual o mayor a seis meses y, en el supuesto que dicho periodo sea menor de seis meses, el tiempo adicional será igual a la duración del Curso.
-
-> <small>(ADICIONADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
-
-En todos los casos, cuando los Cursos se realicen en el extranjero y a costa del interesado, el tiempo adicional se duplicará y, si las erogaciones son a cargo del Erario Nacional, el tiempo adicional de servicios se triplicará.
+En todos los casos, cuando los cursos se realicen en el extranjero y a costa del interesado, el tiempo adicional se duplicará y, si las erogaciones son a cargo del erario nacional, el tiempo adicional de servicios se triplicará.
 
 ###### ARTICULO 151.
 
@@ -1614,17 +1694,21 @@ Los Generales, Jefes, Oficiales y Sargentos graduados en los Planteles Militares
 
 El personal Profesionista y Técnico que requiera el activo de los Servicios del Ejército y Fuerza Aérea, de cuyas especialidades no existan Escuelas o Cursos Militares de Formación, podrá proceder:
 
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-I. De los militares de Arma y de Servicio que lo soliciten y que acrediten con Título Profesional, Diploma o Certificado, según corresponda, los conocimientos respectivos. Estos militares cubrirán las vacantes existentes con la jerarquía que ostenten o cuando deban tener una superior de acuerdo con la presente Ley, con esta última jerarquía.
+I. De los militares de Arma y de Servicio que lo soliciten y que acrediten con título profesional, diploma o certificado, según corresponda, los conocimientos respectivos. Estos militares cubrirán las vacantes existentes con la jerarquía que ostenten o cuando deban tener una superior de acuerdo con la presente Ley, con esta última jerarquía.
 
-II. Reclutándolo de los egresados de las Escuelas y Universidades civiles, que acrediten con Título Profesional, Diploma o Certificado, según corresponda, los conocimientos respectivos. Causarán alta en los Servicios con el carácter de militares auxiliares, con la jerarquía inicial que para su Especialidad establece esta Ley y deberán efectuar el Curso de Capacitación Militar correspondiente.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Reclutándolo de los egresados de las escuelas y universidades civiles que acrediten con título profesional, diploma o certificado, según corresponda, los conocimientos respectivos. Causarán alta en los servicios, con jerarquía inicial que para su especialidad establece esta Ley y deberán efectuar el curso de capacitación militar correspondiente.
 
 III. En todos los casos los militares tendrán preferencia para ocupar las plazas de que se trata.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 153.
 
-La Secretaría de la Defensa Nacional determinará el tiempo de duración de los contratos de enganche; para el personal que sea aceptado para prestar servicios en el Ejército y Fuerza Aérea en la clase de Arma o Servicio, no podrá exceder de tres años y para el que lo sea en la clase de Auxiliares no excederá de cinco años.
+La Secretaría de la Defensa Nacional determinará el tiempo de duración de los contratos de enganche; para el personal que sea aceptado para prestar servicios en el Ejército, Fuerza Aérea y Guardia Nacional en la clase de Arma, Servicio o Guardia Nacional, no podrá exceder de tres años.
 
 ###### ARTICULO 154.
 
@@ -1632,15 +1716,15 @@ La Secretaría de la Defensa Nacional podrá reenganchar al personal de Cabos y 
 
 En el caso de los Soldados, el total de tiempo de servicios de sus contratos de enganche y los de reenganche admitidos, será como máximo de nueve años.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 155.
 
-El Alto Mando del Ejército y Fuerza Aérea, otorgará a los militares de la clase de Auxiliares, los grados iniciales con que ingresarán a las Fuerzas Armadas, de conformidad con lo estipulado para cada Especialidad en los Artículos 193 y 195 de la presente Ley.
-
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+El Alto Mando del Ejército, Fuerza Aérea y Guardia Nacional, otorgará a los militares especialistas, los grados iniciales con que ingresarán a las Fuerzas Armadas, de conformidad con lo estipulado para cada especialidad en los artículos 193 y 195 de la presente Ley.
 
 ###### ARTICULO 156.
 
-El personal de Militares Auxiliares que ostente grados comprendidos en la clasificación de Tropa, podrá ser reenganchado por períodos que no excederán de cinco años, tantas veces como a juicio de la Secretaría de la Defensa Nacional, considere necesarios sus servicios, hasta el límite de edad para permanecer en el Servicio Activo que señala la Ley de la materia.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 Del Adiestramiento
 
@@ -1648,9 +1732,11 @@ Del Adiestramiento
 
 El adiestramiento militar, en el Ejército y Fuerza Aérea, es obligatorio para todos sus miembros; se impartirá por los Generales, Jefes, Oficiales y Clases, de conformidad con los Reglamentos y Manuales técnicos y tácticos y disposiciones relativas. La Instrucción que se imparta al personal del Ejército y Fuerza Aérea de conformidad con el Plan General de Educación Militar, podrá incluir la utilización de Profesores civiles en los casos en que proceda.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 158.
 
-Los Cursos de Capacitación para los militares Auxiliares, se les impartirán a su ingreso a los Servicios del Ejército y Fuerza Aérea, conforme a lo que establezca el Plan General de Educación Militar.
+Los cursos de capacitación para los militares a que se refiere el artículo 152, fracción II de esta Ley, se les impartirán a su ingreso en los Servicios del Ejército y Fuerza Aérea Mexicanos, conforme a lo que establezca el Plan General de Educación Militar.
 
 ###### ARTICULO 159.
 
@@ -1678,35 +1764,59 @@ El personal de las clases de Arma y de Servicio del Ejército y Fuerza Aérea, a
 
 ###### ARTICULO 163.
 
-Es facultad del Alto Mando, otorgar a los militares de la clase de Auxiliares, según corresponda, los diferentes grados comprendidos en la clasificación de Tropa, siempre que exista vacante.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 De las Reclasificaciones
 
-> <small>(REFORMADO. D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 164.
 
-El personal del activo del Ejército y Fuerza Aérea, podrá ser reclasificado de:
+El personal del activo del Ejército, Fuerza Aérea y Guardia Nacional, podrá ser reclasificado de:
+
+> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 I. Una Fuerza Armada a otra;
 
-II. Un Arma a Otra;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Un Arma a un Servicio;
+II. Un Arma a otra;
 
-IV. Un Servicio a un Arma;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. Un Servicio a Otro, y
+III. Un Arma a Guardia Nacional o a un Servicio;
 
-VI. Una Especialidad a Otra.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Las reclasificaciones se realizarán para satisfacer las necesidades del Ejército o de la Fuerza Aérea Mexicanos y podrán llevarse a cabo por disposición del Secretario de la Defensa Nacional en casos específicos o por concurso en el que el interesado satisfaga los requisitos que se establezcan en la convocatoria respectiva.
+IV. Un Servicio a un Arma o Guardia Nacional;
 
-En el caso de la fracción IV de este artículo, la reclasificación sólo procederá por disposición del Secretario de la Defensa Nacional y, en tiempo de paz, el interesado deberá manifestar su consentimiento para esta reclasificación.
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En los supuestos de reclasificación por disposición del Secretario de la Defensa Nacional, el personal deberá satisfacer los requisitos que para el efecto se establezcan, así como realizar y aprobar previamente el curso de capacitación que corresponda y la nueva Patente o Nombramiento deberá expedirse con la antigüedad que posea el interesado en su grado.
+IV BIS. De Guardia Nacional a un Arma o a un Servicio;
 
-Para el caso de que la reclasificación sea por concurso en el que el interesado haya satisfecho los requisitos establecidos en la convocatoria respectiva, se concederá siempre que exista vacante, y la nueva Patente o Nombramiento deberá expedirse con la fecha en que se verifique la reclasificación.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Un Servicio a otro, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Una especialidad a otra.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las reclasificaciones se realizarán para satisfacer las necesidades del Ejército, Fuerza Aérea y Guardia Nacional y podrán llevarse a cabo por disposición de la persona titular de la Secretaría de la Defensa Nacional en casos específicos o por concurso en el que la persona interesada satisfaga los requisitos que se establezcan en la convocatoria respectiva.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En el caso de la fracción IV de este artículo, la reclasificación sólo procederá por disposición de la persona titular de la Secretaría de la Defensa Nacional y, en tiempo de paz, la persona interesada deberá manifestar su consentimiento para esta reclasificación.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En los supuestos de reclasificación por disposición de la persona titular de la Secretaría de la Defensa Nacional, el personal deberá satisfacer los requisitos que para el efecto se establezcan, así como realizar y aprobar previamente el curso de capacitación que corresponda y la nueva patente o nombramiento deberá expedirse con la antigüedad que posea la persona interesada en su grado.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para el caso de que la reclasificación sea por concurso en el que la persona interesada haya satisfecho los requisitos establecidos en la convocatoria respectiva, se concederá siempre que exista vacante y la nueva patente o nombramiento deberá expedirse con la fecha en que se verifique la reclasificación.
 
 En cualquiera de los casos de reclasificación, deberá cancelarse la Patente o Nombramiento anterior.
 
@@ -1714,15 +1824,15 @@ De la Veteranización
 
 ###### ARTICULO 165.
 
-El personal Auxiliar del Ejército y Fuerza Aérea, mientras tenga asignados grados que correspondan a la clasificación de Tropa, no podrá pasar a la clase de Servicio.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### ARTICULO 166.
 
-El personal de Oficiales, Jefes y Generales Auxiliares, pasará a la clase de Servicio después de cinco años ininterrumpidos de servicios en su Especialidad, siempre que a juicio de la Secretaría de la Defensa Nacional, sus actividades se consideren utilizables para el Ejército y Fuerza Aérea.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### ARTICULO 167.
 
-La Veteranización del personal Auxiliar se sujetará además de lo dispuesto en el Artículo anterior, a los requisitos establecidos sobre aptitud profesional, buena conducta militar y civil y buena salud y capacidad física. Aquel personal que no sea acreedor a este beneficio, causará baja del activo del Ejército y Fuerza Aérea al cumplir el tiempo de servicios especificados en su contrato de enganche.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 De las Vacaciones
 
@@ -1738,9 +1848,11 @@ Las prestaciones de Seguridad Social a que tengan derecho los militares, así co
 
 De las Bajas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 170.
 
-La baja es la separación definitiva de los miembros del Ejército y Fuerza Aérea, del activo de dichas Instituciones y procederá por ministerio de Ley o por Acuerdo del Secretario de la Defensa Nacional en los siguientes casos:
+La baja es la separación definitiva de los miembros del Ejército y Fuerza Aérea Mexicanos, del activo de dichas instituciones y procederá por ministerio de ley o por acuerdo de la persona titular de la Secretaría de la Defensa Nacional en los siguientes casos:
 
 I. Procede por ministerio de Ley:
 
@@ -1748,33 +1860,35 @@ A. Por Muerte; y
 
 B. Por sentencia ejecutoriada que la ordene, dictada por Tribunal competente del Fuero Militar. En estos casos la Secretaría de la Defensa Nacional, deberá girar las órdenes que procedan para que la baja surta sus efectos.
 
-II. Procede por acuerdo del Secretario de la Defensa Nacional:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-A. Por Solicitud del interesado que sea aceptada;
+II. Procede por acuerdo de la persona titular de la Secretaría de la Defensa Nacional:
 
-B. Por ser declarado el militar prófugo de la justicia, por el Tribunal Militar al que hubiere sido consignado, sin perjuicio del proceso que se le siga y siempre que dure en esta situación más de tres meses.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En este caso, antes de girarse la orden de baja, se le emplazará por medio de publicación en la Orden General de la Plaza de México, expresándose el fundamento y motivo, a fin de que dentro del término de quince días a partir de la publicación, manifieste a la Dirección de su Arma o Servicio lo que estime necesario en su defensa; expirado el plazo sin que comparezca por escrito o personalmente, se le tendrá por conforme;
+A. Por solicitud de la persona interesada que sea aceptada;
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+B. Por ser declarado el militar prófugo de la justicia por el Tribunal Militar al que hubiere sido consignado, sin perjuicio del proceso que se le siga y siempre que dure en esta situación más de tres meses.
+
+En este caso, antes de girarse la orden de baja, se le emplazará por medio de publicación en la Orden General de la Plaza de México, expresándose el fundamento y motivo, a fin de que, dentro del término de quince días a partir de la publicación, manifieste a la dirección de su Arma o Servicio lo que estime necesario en su defensa; expirado el plazo sin que comparezca por escrito o personalmente, se le tendrá por conforme;
 
 C. Por desaparición del militar, comprobada esta circunstancia mediante los partes oficiales, siempre que dure en esta situación más de tres meses, en caso de que el individuo de que se trate apareciera y justifique su ausencia, será reincorporado al activo;
 
-> <small>(REFORMADO. D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-D. Por observar mala conducta determinada por el Consejo de Honor de la Unidad, Dependencia o Establecimiento de Educación Militar a que pertenezcan, o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría de la Defensa Nacional, tratándose del personal de Tropa, de los militares de la clase de Auxiliares y de los discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia en su defensa;
+D. Por observar mala conducta determinada por el Consejo de Honor de la unidad, dependencia o establecimiento de educación militar a que pertenezcan, o por colocarse en situación de no poder cumplir con sus obligaciones militares, por causas no imputables a la Secretaría de la Defensa Nacional, tratándose del personal de Tropa y de las personas discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia en su defensa;
 
-E. Los Militares Auxiliares causarán baja, además cuando no se consideren necesarios sus servicios o a consecuencia de cambios orgánicos en las estructuras de las Unidades o Dependencias. En estos casos, también será oído en defensa el afectado.
+E. (DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta y habiendo prestado más de cinco años de servicios, tendrá derecho a una compensación que deberá otorgar el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, cuyo monto será el equivalente al fijado para el retiro con el grado que tenía al ser dado de baja;
+F. Por adquirir otra nacionalidad, y
 
-> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-F. Por adquirir otra nacionalidad;
-
-> <small>(REFORMADO. D.O.F. 3 DE MAYO DE 2024)</small>
-
-G. La rescisión del contrato de enganche o del de su renovación, para las y los Soldados, Cabos y discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia dentro de los quince días hábiles siguientes al de su notificación en los términos del Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos, y
+G. La rescisión del contrato de enganche o del de su renovación, para las y los Soldados, Cabos y discentes del Sistema Educativo Militar, a quienes se les otorgará la garantía de audiencia dentro de los quince días hábiles siguientes al de su notificación en los términos del Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional.
 
 (NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL APARTADO H. DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -1782,7 +1896,13 @@ G. La rescisión del contrato de enganche o del de su renovación, para las y lo
 
 H. PARA EL PERSONAL DE TROPA Y DE LOS MILITARES DE LA CLASE DE AUXILIARES ASIGNADO A LA GUARDIA NACIONAL, POR REMOCIÓN, PREVIO OTORGAMIENTO DE GARANTÍA DE AUDIENCIA.
 
-Salvo los casos de la Fracción I apartado A y Fracción II apartado E, la baja del Ejército y Fuerza Aérea, implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y divisas militares.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Salvo el caso de la fracción I, apartado A, la baja del Ejército y Fuerza Aérea Mexicanos, implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y divisas militares.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Sin perjuicio de lo señalado en el presente artículo, el acuerdo de baja respectivo podrá emitirse por la persona titular de la dirección general que controla técnica y administrativamente al personal de que se trate, de acuerdo con lo previsto en la presente Ley, el Reglamento Interior de la Secretaría de la Defensa Nacional y demás ordenamientos aplicables.
 
 De las Licencias
 
@@ -2110,25 +2230,39 @@ De Subteniente a General de Brigada;
 
 C. De Transmisiones.
 
-De Soldado a General de Brigada; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Soldado a General de Brigada, y
 
 D. Especialistas del Servicio de Transmisiones.
 
 De Soldado a Teniente Coronel.
 
-V. De Materiales de Guerra, que se divide en dos grupos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. De Materiales de Guerra, que se divide en tres grupos:
 
 > <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
 A. Ingenieros Industriales.
 
-De Subteniente a General de Brigada, y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Subteniente a General de Brigada;
 
 > <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
 
 B. De Materiales de Guerra.
 
-De Soldado a Coronel.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Soldado a Coronel, y
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+C. De operarios de industria militar.
+
+De Soldado a Capitán Primero.
 
 VI. De Transportes, que se divide en cuatro grupos:
 
@@ -2142,7 +2276,9 @@ De Cabo a Capitán Segundo;
 
 C. Motociclistas.
 
-De Cabo a Subteniente; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Cabo a Subteniente, y
 
 D. Especialistas del Servicio de Transportes.
 
@@ -2170,7 +2306,7 @@ De Cabo a Teniente Coronel;
 
 D. Especialistas del Servicio de Administración.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 16 DE JULIO DE 2025)</small>
 
 De Soldado a Teniente Coronel, y
 
@@ -2178,13 +2314,19 @@ De Soldado a Teniente Coronel, y
 
 E. Pagadores.
 
-> <small>[N. DE E. PERTENECE AL APARTADO E]</small>
-
 De Capitán Segundo a Coronel.
 
-VIII. De Intendencia.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-De Soldado a General de Brigada.
+VIII. De Intendencia, que se divide en dos grupos:
+
+A. De Intendencia.
+
+De Soldado a General de Brigada, y
+
+B. Especialistas del Servicio de Intendencia.
+
+De Soldado a Capitán Primero.
 
 IX. De Sanidad, que se divide en cinco grupos:
 
@@ -2210,7 +2352,9 @@ De Soldado a Coronel;
 
 D. Enfermeras.
 
-De Soldado a Coronel; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Soldado a Coronel, y
 
 E. Especialistas del Servicio de Sanidad. De Soldado a Teniente Coronel.
 
@@ -2244,7 +2388,9 @@ XII. De Informática, que se divide en dos grupos:
 
 A. Ingeniero en Computación e Informática.
 
-De Subteniente a General de Brigada; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Subteniente a General de Brigada, y
 
 B. Especialistas del Servicio de Informática.
 
@@ -2256,19 +2402,27 @@ XII BIS. Del Servicio de Archivo, que se divide en cinco grupos:
 
 A. Licenciados en Archivonomía.
 
-De Subteniente a Teniente Coronel.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Subteniente a Teniente Coronel;
 
 B. Licenciados en Historia.
 
-De Subteniente a Teniente Coronel.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Subteniente a Teniente Coronel;
 
 C. Licenciados en Biblioteconomía.
 
-De Subteniente a Teniente Coronel.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Subteniente a Teniente Coronel:
 
 D. Archivistas.
 
-De Soldado a Teniente Coronel.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Soldado a Teniente Coronel, y
 
 E. Especialistas del Servicio de Archivo.
 
@@ -2286,7 +2440,9 @@ De Subteniente a General Brigadier;
 
 B. Aerologistas.
 
-De Subteniente a Coronel; y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De Subteniente a Coronel, y
 
 C. Especialistas del Servicio Meteorológico.
 
@@ -2398,9 +2554,11 @@ Los escalafones particulares se formularán en cada grado por antigüedad en ord
 
 El personal del activo únicamente podrá ocupar un lugar en un solo esfalafón (sic) del Ejército y Fuerza Aérea. Por tal motivo a los militares de las clases de arma y de servicio que sean reclasificados pasarán con todos sus derechos y no se les podrán conferir grados en la clase de auxiliares.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 198.
 
-Los militares auxiliares no tendrán escalafones; para su control, cada una de las Direcciones de los Servicios correspondientes o quienes hagan sus veces, llevarán un registro organizado por grados, antigüedad y especialidades.
+Los militares especialistas no tendrán escalafones; para su control, cada una de las direcciones de los Servicios correspondientes o quienes hagan sus veces, llevarán un registro organizado por grados, antigüedad y especialidades.
 
 ###### ARTICULO 199.
 
@@ -2456,23 +2614,27 @@ La Comandancia de la Fuerza Aérea, las Direcciones Generales y los Departamento
 
 ### CAPITULO II. RECURSOS ECONOMICOS
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 206.
 
-El Gobierno Federal proporcionará los medios al personal del Ejército y Fuerza Aérea: vestuario, equipo, alimentación y alojamiento cuando el servicio se preste en Instalaciones militares; viáticos suficientes cuando el servicio no se desempeñe en ellas; pasajes, transporte de menaje de casa y pagas de marcha, cuando el cambio de radicación obedezca a órdenes de autoridad competente; y demás prestaciones que exija el servicio.
+El Gobierno Federal proporcionará los medios al personal del Ejército, Fuerza Aérea y Guardia Nacional: vestuario; equipo; alimentación y alojamiento cuando el servicio se preste en instalaciones militares; viáticos suficientes cuando el servicio no se desempeñe en ellas; pasajes; transporte de menaje de casa y pagas de marcha, cuando el cambio de radicación obedezca a órdenes de autoridad competente, y demás prestaciones que exija el servicio.
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 207.
 
-La Secretaría de la Defensa Nacional hará con oportunidad las previsiones de gasto público que habrá de realizarse para el sostenimiento del Ejército y Fuerza Aérea, a fin de que puedan cumplir con las misiones generales que tienen encomendadas, dichas previsiones deberán incluir también los recursos económicos para cubrir los conceptos señalados en el Artículo anterior, debiendo observarse las normas contenidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el reglamento de ésta, o los Ordenamientos que los substituyan.
+La Secretaría de la Defensa Nacional hará con oportunidad las previsiones de gasto público que habrá de realizarse para el sostenimiento del Ejército, Fuerza Aérea y Guardia Nacional, a fin de que puedan cumplir con las misiones generales que tienen encomendadas, dichas previsiones deberán incluir también los recursos económicos para cubrir los conceptos señalados en el artículo anterior, debiendo observarse las normas contenidas en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el reglamento de ésta, o los ordenamientos que los substituyan.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
 ### CAPITULO III. RECURSOS ANIMALES
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 208.
 
-Los recursos animales son los necesarios para el Ejército y Fuerza Aérea en el cumplimiento de sus funciones, tareas y servicios específicos.
+Los recursos animales son los necesarios para el Ejército, Fuerza Aérea y Guardia Nacional en el cumplimiento de sus funciones, tareas y servicios específicos.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -2480,11 +2642,11 @@ Los recursos animales son los necesarios para el Ejército y Fuerza Aérea en el
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 209.
 
-Los edificios e instalaciones del Ejército y Fuerza Aérea son de carácter permanente o transitorio y comprenden bienes muebles, construcciones, terrenos, Campos Militares, Bases Aéreas y Aeródromos, destinados al alojamiento y operación de las Unidades y el establecimiento de Dependencias, Cuarteles, Oficinas, Almacenes, Parques, Talleres, Prisiones y Juzgados Militares de Control, Hospitales, Escuelas, Criaderos de Ganado, Polígonos de Tiro, así como los destinados al adiestramiento, experimentación, pruebas y Unidades Habitacionales y demás necesarios para sus fines.
+Los edificios e instalaciones destinados al Ejército, Fuerza Aérea y Guardia Nacional son de carácter permanente o transitorio y comprenden bienes muebles, construcciones, terrenos, campos militares, bases aéreas y aeródromos, destinados al alojamiento y operación de las Unidades y el establecimiento de dependencias, cuarteles, oficinas, almacenes, parques, talleres, prisiones y juzgados militares de control, hospitales, escuelas, criaderos de ganado, polígonos de tiro, así como los destinados al adiestramiento, experimentación, pruebas y unidades habitacionales y demás necesarios para sus fines.
 
 ## TRANSITORIOS
 
@@ -2673,3 +2835,23 @@ Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 Tercero.- En un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.
 
 Cuarto.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA GUARDIA NACIONAL Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS; LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; DEL CÓDIGO DE JUSTICIA MILITAR Y DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+
+Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+
+Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+
+Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+
+Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
