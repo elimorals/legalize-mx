@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-88635"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-13"
-last_updated: "2017-05-01"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 13 de julio de 2012.
 
@@ -51,7 +51,9 @@ Para cumplir su objeto, esta Ley tiene como finalidades:
 
 I. Establecer y definir los principios para ordenar, fomentar y regular el manejo integral y aprovechamiento sustentable de la acuacultura, considerando los aspectos sociales, biológicos, tecnológicos, ambientales y productivos;
 
-II. Promover el mejoramiento de la calidad de vida de los pescadores y acuacultores del Estado de Sinaloa a través de los programas que se instrumenten para el sector pesquero y acuícola;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
+
+II. Promover el mejoramiento de la calidad de vida de las personas pescadoras y acuacultoras en el Estado de Sinaloa a través de los programas que se instrumenten para el sector pesquero y acuícola;
 
 III. Establecer las bases para la ordenación, conservación, protección, repoblación y aprovechamiento sustentable de los recursos pesqueros y acuícolas, así como la protección y rehabilitación de los ecosistemas en que se encuentran dichos recursos;
 
@@ -59,7 +61,9 @@ IV. Establecer las bases y mecanismos de coordinación entre las autoridades de 
 
 V. Determinar las competencias de las autoridades de la Administración Pública Estatal en materia de pesca y acuacultura;
 
-VI. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de las comunidades y pueblos indígenas de los lugares que ocupen y habiten, en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
+
+VI. Procurar el derecho al acceso, uso y disfrute preferente de los recursos pesqueros y acuícolas de las comunidades y pueblos indígenas y afromexicanos de los lugares que ocupen y habiten, en los términos de la presente Ley;
 
 VII. Establecer las bases de la organización y funcionamiento del Instituto Sinaloense de Acuacultura y Pesca;
 
@@ -100,6 +104,14 @@ II. Acuacultura comercial: Es la que se realiza con el propósito de obtener ben
 III. Acuacultura de fomento: Es la que tiene como propósito el estudio, la investigación científica y la experimentación en cuerpos de agua de jurisdicción federal, orientada al desarrollo de biotecnologías o a la incorporación de algún tipo de innovación tecnológica, así como la adopción o transferencia de tecnología, en alguna etapa del cultivo de especies de la flora y fauna, cuyo medio de vida total o parcial sea el agua;
 
 IV. Acuacultura didáctica: Es la que se realiza con fines de capacitación y enseñanza de las personas que en cualquier forma intervengan en la acuacultura en cuerpos de agua de jurisdicción federal;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+IV BIS. Acuacultura industrial: Sistema de producción de organismos acuáticos a gran escala, con alto nivel de desarrollo empresarial y tecnológico y gran inversión de capital de origen público o privado;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+IV BIS A. Acuacultura rural: Sistema de producción de organismos acuáticos a pequeña escala, realizada de forma familiar o en pequeños grupos rurales, llevada a cabo en cultivos extensivos o semiintensivos, para el autoconsumo o venta parcial de los excedentes de la cosecha;
 
 V. Agua dulce continental: Los cuerpos de agua permanentes a que refiere el párrafo quinto del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, que se encuentran en el interior del territorio del Estado, con excepción de las aguas continentales que abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la jurisdicción federal;
 
@@ -145,7 +157,9 @@ XXV. Guía de pesca: Es el documento que ampara el transporte por vía terrestre
 
 XXVI. ICATSIN: El Instituto de Capacitación para el Trabajo del Estado de Sinaloa;
 
-XXVII. INAPESCA: El Instituto Nacional de Acuacultura y Pesca;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XXVII. IMIPAS: Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables, órgano público descentralizado sectorizado con la Secretaría de Agricultura y Desarrollo Rural;
 
 XXVIII. Introducción de especies: Actividad que se refiere a aquellas especies no existentes en el cuerpo de agua en el que se pretenden introducir;
 
@@ -205,7 +219,9 @@ LV. Registro Nacional: El Registro Nacional de Pesca y Acuacultura;
 
 LVI. Reglamento: Reglamento de la Ley de Pesca y Acuacultura Sustentable del Estado de Sinaloa;
 
-LVII. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
+
+LVII. SADER: La Secretaría de Agricultura y Desarrollo Rural;
 
 LVIII. SPyA: La Secretaría de Pesca y Acuacultura del Estado de Sinaloa;
 
@@ -309,7 +325,9 @@ e) Determinar, de acuerdo con las condiciones técnicas y naturales, las zonas d
 
 f) Establecer viveros, criaderos y reservas de especies acuáticas y épocas y zonas de veda;
 
-g) Prestar servicios de asesoría, capacitación y asistencia técnica a pescadores y a acuacultores; y
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
+
+g) Prestar servicios de asesoría, capacitación y asistencia técnica a las personas que laboran en la actividad pesquera y acuícola; y
 
 h) Participar con las dependencias competentes de la Administración Pública Federal, en la elaboración de Normas Oficiales Mexicanas y planes de manejo relativos al aprovechamiento integral y sustentable de los recursos pesqueros y acuícolas;
 
@@ -321,9 +339,15 @@ XVIII. Promover y apoyar la investigación aplicada y la innovación y el desarr
 
 XIX. Celebrar convenios de coordinación y colaboración con los Municipios, a efecto de establecer programas para la adecuada y coordinada administración de cultivos, así como para la descentralización de programas, recursos y funciones, con la participación coordinada con el ISAPESCA, universidades y otros centros e institutos de investigación pesquera y acuícola;
 
-XX. Realizar la inspección y vigilancia para el cumplimiento de esta Ley, sus reglamentos, Normas Oficiales Mexicanas y demás disposiciones que de ella se deriven; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
 
-XXI. Las demás que no estén otorgadas expresamente a la Federación.
+XX. Realizar la inspección y vigilancia para el cumplimiento de esta Ley, sus reglamentos, Normas Oficiales Mexicanas y demás disposiciones que de ella se deriven;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XXI. Promover, regular, dirigir e implementar la ejecución de acciones y programas de mitigación y adaptación al cambio climático, así como la conservación integral y sustentable de los recursos pesqueros y acuícolas, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables; y
+
+XXII. Las demás que no estén otorgadas expresamente a la Federación.
 
 ###### ARTÍCULO 9°.
 
@@ -455,9 +479,9 @@ XV. Un representante del sector de la pesca de aguas continentales, como vocal.
 
 Quienes tendrán voz y voto en las decisiones del Consejo Estatal de Pesca y Acuacultura
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
 
-Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto los representantes de la SAGARPA, CONAPESCA, SEMAR, PROFECO, SCT, SE, PGR y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales en el Estado.
+Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto los representantes de la SADER, CONAPESCA, SEMAR, PROFECO, SCT, SE, FGR y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales en el Estado.
 
 ###### ARTÍCULO 17.
 
@@ -493,7 +517,9 @@ II. Que la pesca y la acuacultura se orienten prioritariamente a la producción 
 
 III. Que el aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en los que se encuentren sea compatible con su capacidad natural de recuperación y disponibilidad;
 
-IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para definir e implementar políticas, instrumentos, mecanismos, medidas y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
+
+IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para definir e implementar políticas, instrumentos, mecanismos, medidas y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas, además de ser un instrumento que considere la implementación de acciones en materia de pesca y acuacultura sustentables para la mitigación y adaptación al cambio climático;
 
 V. Reconocer a la Acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población del Estado, así como la generación de divisas;
 
@@ -577,7 +603,9 @@ IV. Las normas aplicables a aspectos de conservación, protección y/o aprovecha
 
 V. La demás información que se determine en el Reglamento de la presente Ley.
 
-La Carta Estatal de Información Pesquera y Acuícola deberá ser actualizada cada año y estará a cargo del ISAPESCA, con la participación que le corresponda por parte del Gobierno Federal al INAPESCA, y deberá publicarse en el Periódico Oficial "El Estado de Sinaloa" y en el Diario Oficial de la Federación.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
+
+La Carta Estatal de Información Pesquera y Acuícola deberá ser actualizada cada año y estará a cargo del ISAPESCA, con la participación que le corresponda por parte del Gobierno Federal al IMIPAS, y deberá publicarse en el Periódico Oficial "El Estado de Sinaloa" y en el Diario Oficial de la Federación.
 
 ### Capítulo III. Del Instituto Sinaloense de Acuacultura y Pesca
 
@@ -687,7 +715,9 @@ V. Un Consejero independiente designado por el Congreso del Estado, con conocimi
 
 Quienes tendrán voz y voto en las decisiones del Consejo Directivo.
 
-También se invitará a formar parte del Consejo Directivo, a los representantes de los organismos regionales de productores pesqueros y acuícolas de los sectores privado y social, y a representantes de SEPyC, SEDESHU, SEDECO, SAGARPA, CONAPESCA, SEMARNAT y PROFEPA, quienes contarán solo con voz en las reuniones del Consejo Directivo.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
+
+También se invitará a formar parte del Consejo Directivo, a los representantes de los organismos regionales de productores pesqueros y acuícolas de los sectores privado y social, y a representantes de SEPyC, SEDESHU, SEDECO, SADER, CONAPESCA, SEMARNAT y PROFEPA, quienes contarán solo con voz en las reuniones del Consejo Directivo.
 
 El Presidente será suplido en sus ausencias por el Vicepresidente.
 
@@ -773,9 +803,11 @@ Para los efectos de la evaluación del Programa Sectorial, deberá de consignars
 
 ### Capítulo I. Del Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca ilegal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 36.
 
-El Estado, con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas, en coordinación con los gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
+El Estado, con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas y afromexicanas, en coordinación con los gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 
 El Estado dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa citado en el párrafo anterior y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
@@ -907,7 +939,9 @@ La SPyA, en coordinación con las dependencias y entidades de la Administración
 
 I. Establecerá servicios de investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a estas actividades;
 
-II. Asesorará a los pescadores y a los acuacultores para que la pesca, cultivo y explotación de la flora y fauna acuática, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas aconsejen; así como en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivo y demás bienes que requiera el desarrollo de la actividad pesquera y acuícola;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
+
+II. Asesorará a las personas pescadoras y acuacultoras para que la pesca, cultivo y explotación de la flora y fauna acuática, se realicen de acuerdo con las prácticas que las investigaciones científicas y tecnológicas aconsejen; así como en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivo y demás bienes que requiera el desarrollo de la actividad pesquera y acuícola;
 
 III. Fomentará, promoverá y realizará acciones tendientes a:
 
@@ -1009,21 +1043,27 @@ La SPyA podrá expedir para la pesca y la acuacultura en agua dulce continental,
 
 La SPyA, implementará los mecanismos y las políticas necesarias para asesorar en la gestión y trámite de los permisos y concesiones a personas, organizaciones o grupos que estén interesados en el ejercicio de las actividades de pesca y acuacultura.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 56.
 
-La SPyA, promoverá ante la SAGARPA-CONAPESCA que las decisiones respecto del otorgamiento de permisos y concesiones se basen en criterios de equidad social y en la información científica disponible del recurso pesquero, así mismo impulsará que éstas se otorguen preferentemente a los habitantes de las comunidades locales.
+La SPyA, promoverá ante la SADER-CONAPESCA que las decisiones respecto del otorgamiento de permisos y concesiones se basen en criterios de equidad social y en la información científica disponible del recurso pesquero, así mismo impulsará que éstas se otorguen preferentemente a las mujeres y a los habitantes de las comunidades locales.
 
-En igualdad de circunstancias, la SPyA, debe impulsar ante la SAGARPA-CONAPESCA para que tengan preferencia las solicitudes de las comunidades pesqueras e indígenas.
+En igualdad de circunstancias, la SPyA, debe impulsar ante la SADER-CONAPESCA para que tengan preferencia las solicitudes de mujeres y de las comunidades pesqueras, indígenas y afromexicanas.
 
-### Capítulo II. De la Legal Procedencia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2025)</small>
+
+### Capítulo II. De la Legal Procedencia y Traslado de los Recursos Pesqueros y Acuícolas
 
 ###### ARTÍCULO 57.
 
 La legal procedencia de los productos acuícolas y pesqueros se acreditará con los avisos de cosecha, de producción, de recolección, y con la guía de pesca, según corresponda, en los términos y con los requisitos que establezca esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 58.
 
-El traslado por vía terrestre, marítima o aérea de productos vivos, frescos, enhielados o congelados provenientes de la acuacultura deberá realizarse al amparo de la guía de pesca, de conformidad con el formato que expida la SAGARPA.
+El traslado por vía terrestre, marítima o aérea de productos vivos, frescos, enhielados o congelados provenientes de la acuacultura deberá realizarse al amparo de la guía de pesca, de conformidad con el formato que expida la SADER.
 
 ###### ARTÍCULO 59.
 
@@ -1037,13 +1077,17 @@ En el ejercicio de sus funciones, el SENASICA coadyuvará en la inspección y vi
 
 ### Capítulo I. De la Sanidad de Especies Acuícolas
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 61.
 
-La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas en los términos de los acuerdos y convenios que se celebren en forma coordinada con la SAGARPA a través del SENASICA, de conformidad con esta Ley, sus disposiciones reglamentarias que de ella deriven y los demás ordenamientos que resulten aplicables.
+La Secretaría, ejercerá sus atribuciones y facultades en materia de sanidad de especies acuícolas en los términos de los acuerdos y convenios que se celebren en forma coordinada con la SADER a través del SENASICA, de conformidad con esta Ley, sus disposiciones reglamentarias que de ella deriven y los demás ordenamientos que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 62.
 
-El CESASIN, se coordinará con la SAGARPA-SENASICA, con el objeto de:
+El CESASIN, se coordinará con la SADER-SENASICA, con el objeto de:
 
 I. Organizar, apoyar y supervisar el funcionamiento de los Organismos Auxiliares;
 
@@ -1061,9 +1105,37 @@ Ante la presencia de enfermedades en las especies acuáticas vivas en un área o
 
 La inocuidad y la calidad de los productos acuícolas y pesqueros a que se refiere este capítulo comprende los productos de la Pesca y la Acuacultura, desde su captura o cosecha y hasta su procesamiento primario.
 
-### Capítulo II. De las Medidas Sanitarias
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2025)</small>
 
-### Capítulo I. Del Sistema Estatal de Información Pesquera y Acuícola
+### Capítulo I Bis. De las Actividades de Siembra y Cosecha de Recursos Acuícolas
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 64 BIS.- Las personas físicas o morales que se dediquen a la acuacultura comercial, de fomento, didáctica y laboratorios de producción acuícola para poder sembrar y cosechar en sus granjas o establecimientos acuícolas especies de recursos pesqueros o acuícolas, deberán contar con los permisos de siembra y notificación de cosecha emitido por el CESASIN y validado por la SPyA.
+
+La mecánica operativa de todo lo relacionado con los permisos de siembra y cosecha se establecerán mediante un comité conformado por la SPyA, STRC y el CESASIN, dicha mecánica se publicará en el Periódico Oficial "El Estado de Sinaloa" antes del inicio de cada ciclo acuícola.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 64 BIS A.- Las personas físicas o morales que se dediquen a la acuacultura comercial, de fomento y didáctica deberán aplicar en los cultivos acuícolas, cualquiera que sea la especie, alimentos libres de agentes contaminantes y que su composición conlleve a un producto acuícola inocuo para el consumo humano.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 64 BIS B.- El periodo de siembra y cosecha del camarón en cada ciclo de cultivo acuícola, será determinado por la SPyA debiendo consultar al CESASIN y las organizaciones gremiales autorizadas, y se publicará en el Periódico Oficial "El Estado de Sinaloa" con cuarenta y cinco días de anticipación al inicio de éste.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 64 BIS C.- La SPyA validara los permisos de siembra de los cultivos acuícolas emitidos por el CESASIN para cada ciclo de cultivo, hasta cinco días antes del inicio de la siembra.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 64 BIS D.- La SPyA en coordinación con el CESASIN autorizará las siembras o cosechas extraordinarias fuera de un ciclo de cultivo establecido. Se deberá considerar en el ciclo de cultivo en planeación:
+
+I. La reconversión de cultivos acuícolas en atención a plagas, enfermedades, contaminación ambiental u otras contingencias.
+
+II. La invalidación de los permisos de siembra derivado del incumplimiento del plan de manejo sanitario u otras contingencias.
+
+### Capítulo II. De las Medidas Sanitarias
 
 ###### ARTÍCULO 65.
 
@@ -1083,11 +1155,33 @@ II. La cuarentena, siendo una medida basada en el aislamiento, observación y re
 
 III. El diagnóstico e identificación de enfermedades de las especies acuáticas.
 
-### Capítulo II. Del Registro Estatal de Pesca y Acuacultura
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2025)</small>
+
+### Capítulo III. De los Puntos de Verificación Sanitaria
+
+(NOTA: EL 10 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 215/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 67 BIS.- Se instalarán puntos de verificación fijos que estarán establecidos en las entradas y salidas principales del Estado, así como puntos de verificación móviles que se establecerán temporalmente en caminos o vías de comunicación terrestre o en pistas aéreas que se consideren necesarios, para verificar la movilización de los recursos pesqueros o acuícolas cumplan con los requisitos establecidos en la presente ley y en las demás disposiciones aplicable (sic), contando con el marco del Convenio específico signado con la Secretaría en estas materias.
+
+(NOTA: EL 10 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 215/2025, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE MARZO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+ARTÍCULO 67 BIS A.- En los puntos de verificación sanitaria la SPyA deberá:
+
+I. Inspeccionar física y documentalmente los transportes de carga para verificar las características de los recursos pesqueros o acuícolas vivos, productos, subproductos, insumos, equipos, materiales de empaque y embalaje que se transportan;
+
+II. Impedir la internación de vehículos cuya carga no cumpla con los requisitos solicitados por la presente ley y las demás disposiciones aplicables;
+
+III. Disponer las medidas sanitarias que establece esta ley, cuando se requiera; y
+
+IV. Levantar, en su caso, las actas correspondientes de retorno de los transportes que no cumplan con los requisitos de internación.
 
 ## TÍTULO SÉPTIMO. DE LA INFORMACIÓN SOBRE PESCA Y ACUACULTURA
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo I. Del Sistema Estatal de Información Pesquera y Acuícola
 
 ###### ARTÍCULO 68.
 
@@ -1101,9 +1195,11 @@ I. Leyes, Reglamentos, Decretos, Acuerdos, Normas Oficiales Mexicanas, Normas Me
 
 II. Los Tratados, Acuerdos y arreglos bilaterales, regionales y multilaterales en las materias mencionadas; y
 
-III. Las resoluciones definitivas expedidas por la SAGARPA acerca de concesiones, permisos y autorizaciones para realizar actividades pesqueras y acuícolas.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
 
-### Capítulo I. De las Infracciones
+III. Las resoluciones definitivas expedidas por la SADER acerca de concesiones, permisos y autorizaciones para realizar actividades pesqueras y acuícolas.
+
+### Capítulo II. Del Registro Estatal de Pesca y Acuacultura
 
 ###### ARTÍCULO 69.
 
@@ -1125,7 +1221,7 @@ La organización y funcionamiento del Registro se determinarán en las disposici
 
 ## TÍTULO OCTAVO. DE LA INSPECCIÓN Y VIGILANCIA
 
-### Capítulo II. De las Sanciones Administrativas
+### Capítulo Único. Disposiciones Generales
 
 ###### ARTÍCULO 70.
 
@@ -1195,7 +1291,7 @@ Respecto de los actos de verificación que realice el SENASICA para la comprobac
 
 ## TÍTULO NOVENO. INFRACCIONES, SANCIONES, RESPONSABILIDADES Y MEDIOS DE DEFENSA
 
-### Capítulo III. De las Responsabilidades
+### Capítulo I. De las Infracciones
 
 ###### ARTÍCULO 79.
 
@@ -1237,7 +1333,7 @@ XVII. No cumplir con las disposiciones sanitarias establecidas en la presente Le
 
 XVIII. Cualquier otra contravención a lo dispuesto en la Ley General y la presente Ley.
 
-### Capítulo IV. De la Enajenación de Bienes Decomisados
+### Capítulo II. De las Sanciones Administrativas
 
 ###### ARTÍCULO 80.
 
@@ -1309,11 +1405,13 @@ Cuando en una sola acta de inspección aparezca que se han cometido diversas inf
 
 Son aplicables supletoriamente a este Capítulo, las disposiciones contenidas en la Ley de Justicia Administrativa para el Estado de Sinaloa.
 
-### Capítulo V. Del Recurso de Revisión
+### Capítulo III. De las Responsabilidades
 
 ###### ARTÍCULO 84.
 
 Las sanciones administrativas a que se refiere el Capítulo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones penales aplicables, y sin perjuicio de la responsabilidad ambiental que pudiera resultar para lo cual será aplicable lo dispuesto por el artículo 203 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
+
+### Capítulo IV. De la Enajenación de Bienes Decomisados
 
 ###### ARTÍCULO 85.
 
@@ -1322,6 +1420,8 @@ A los productos o bienes decomisados, se les dará el destino que disponga la SA
 ###### ARTÍCULO 86.
 
 Los ingresos que se obtengan efectivamente de multas por infracciones a esta Ley, los provenientes de la subastas, o los derivados de la venta directa de los productos y bienes decomisados, se destinarán al Fondo para el Fomento y Apoyo a la Acuacultura y Pesca, que constituirá la SPyA de conformidad con lo que se determine en el Reglamento de esta Ley.
+
+### Capítulo V. Del Recurso de Revisión
 
 ###### ARTÍCULO 87.
 
@@ -1416,3 +1516,15 @@ P.O. 1 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 114 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 148 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
