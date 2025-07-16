@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2025-03-20"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -624,23 +624,27 @@ XII.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 A la Secretaría de la Defensa Nacional, corresponde el despacho de los siguientes asuntos:
 
-I.- Organizar, administrar y preparar al Ejército y la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I.- Organizar, administrar y preparar al Ejército, la Fuerza Aérea y la Guardia Nacional;
 
 II.- Organizar y preparar el servicio militar nacional;
 
 III.- Organizar las reservas del Ejército y de la Fuerza Aérea, e impartirles la instrucción técnica militar correspondiente;
 
-(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+IV.- Manejar el activo del Ejército, Fuerza Aérea y Guardia Nacional;
 
-IV.- Manejar el activo del Ejército y la Fuerza Aérea, Y EJERCER EL CONTROL OPERATIVO Y ADMINISTRATIVO DE LA GUARDIA NACIONAL, CONFORME A LA ESTRATEGIA NACIONAL DE SEGURIDAD PÚBLICA QUE DEFINA LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército y de la Fuerza Aérea;
+V.- Conceder licencias y retiros, e intervenir en las pensiones de los miembros del Ejército, Fuerza Aérea y Guardia Nacional;
 
 VI.- Planear, dirigir y manejar la movilización del país en caso de guerra; formular y ejecutar, en su caso, los planes y órdenes necesarios para la defensa del país y dirigir y asesorar la defensa civil;
 
-VII.- Construir y preparar las fortificaciones, fortalezas y toda clase de recintos militares para uso del Ejército y de la Fuerza Aérea, así como la administración y conservación de cuarteles y hospitales y demás establecimientos militares;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII.- Construir y preparar la infraestructura militar, fortificaciones, fortalezas y toda clase de recintos militares para uso del Ejército, Fuerza Aérea y Guardia Nacional; así como la administración y conservación de cuarteles y hospitales y demás establecimientos militares;
 
 VIII.- Asesorar militarmente la construcción de toda clase de vías de comunicación terrestres y aéreas;
 
@@ -660,7 +664,9 @@ VIII Quáter.- Participar, con la Secretaría de Infraestructura, Comunicaciones
 
 VIII Quinquies.- Establecer, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes, las zonas de vigilancia y protección del espacio aéreo;
 
-IX.- Manejar los almacenes del Ejército y de la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX.- Manejar los almacenes del Ejército, Fuerza Aérea y Guardia Nacional;
 
 X.- Administrar la Justicia Militar;
 
@@ -668,29 +674,59 @@ XI.- Intervenir en los indultos de delitos del orden militar;
 
 XII.- Organizar y prestar los servicios de sanidad militar;
 
-XIII.- Dirigir la educación profesional de los miembros del Ejército y de la Fuerza Aérea, y coordinar, en su caso, la instrucción militar de la población civil;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIV.- Adquirir y fabricar armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército y a la Fuerza Aérea;
+XIII.- Dirigir la educación profesional de los miembros del Ejército, Fuerza Aérea y Guardia Nacional y coordinar, en su caso, la instrucción militar de la población civil;
 
-XV.- Inspeccionar los servicios del Ejército y de la Fuerza Aérea;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+XIV.- Adquirir y fabricar armamento, municiones, vestuario y toda clase de materiales y elementos destinados al Ejército, Fuerza Aérea y Guardia Nacional;
 
-XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no se incluya las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Fuerza Aérea y Armada Mexicanos, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XV.- Inspeccionar los servicios del Ejército, Fuerza Aérea y Guardia Nacional;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVI.- Intervenir en la expedición de licencias para la portación de armas de fuego, con objeto de que no se incluyan las armas prohibidas expresamente por la ley y aquellas que la Nación reserve para el uso exclusivo del Ejército, Fuerza Aérea, Armada y Guardia Nacional, así como vigilar y expedir permisos para el comercio, transporte y almacenamiento de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 
 XVII.- Intervenir en la importación y exportación de toda clase de armas de fuego, municiones, explosivos, agresivos químicos, artificios y material estratégico;
 
 XVIII.- Intervenir en el otorgamiento de permisos para expediciones o exploraciones científicas extranjeras o internacionales en el territorio nacional;
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIX.- Prestar los servicios auxiliares que requieran el Ejército y la Fuerza Aérea, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal;
+XIX.- Prestar los servicios auxiliares que requieran el Ejército, Fuerza Aérea y Guardia Nacional, así como los servicios civiles que a dichas fuerzas señale el Ejecutivo Federal;
 
-> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente, y
+XX.- Establecer acuerdos de colaboración con las instituciones ambientales a efecto de capacitar a los integrantes del servicio militar para la ejecución de actividades tendientes a proteger el medio ambiente;
 
-XXI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXI.- Generar, operar, procesar y utilizar información en materia de seguridad nacional, para advertir riesgos y prevenir amenazas mediante los organismos de inteligencia, que contribuyan a preservar la integridad, estabilidad y permanencia del Estado mexicano, coadyuven con la gobernabilidad y el fortalecimiento del estado de derecho, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXII.- Requerir e intercambiar información en materia de seguridad nacional, previa coordinación con las instancias del Consejo de Seguridad Nacional, para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXIII.- En materia de seguridad nacional, coadyuvar y coordinar, en el ámbito de su competencia, con las instancias de seguridad nacional, acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado mexicano;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXIV.- Respecto a la Guardia Nacional, como Fuerza de Seguridad Pública, a la Secretaría de la Defensa Nacional, le corresponde:
+
+a) Supervisar las operaciones que realice la Guardia Nacional, para la ejecución de la Estrategia Nacional de Seguridad Pública;
+
+b) Verificar el correcto cumplimiento de los fines, atribuciones y obligaciones de la
+
+Guardia Nacional; así como, las responsabilidades de su titular, y
+
+c) Establecer coordinación con el Centro Nacional de Inteligencia y el Centro Nacional de Información, para generar, compartir y obtener información en materia de seguridad pública, que contribuya a restablecer el orden y la paz social, y
+
+XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### ARTICULO 30.
 
@@ -1906,9 +1942,11 @@ V.- Regular y vigilar la administración de los aeropuertos nacionales, conceder
 
 VI.- Administrar la operación de los servicios de control de tránsito, así como de información y seguridad de la navegación aérea;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII.- Construir las vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles, y la vigilancia técnica de su funcionamiento y operación;
+VII.- Construir las vías férreas, patios y terminales de carácter federal para el establecimiento y explotación de ferrocarriles, tanto para el transporte de carga,
+
+como de pasajeros y la vigilancia técnica de su funcionamiento y operación;
 
 > <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
 
@@ -1960,9 +1998,9 @@ XXII.- Construir y conservar caminos y puentes, en cooperación con los gobierno
 
 XXIII.- Construir aeropuertos federales y cooperar con los gobiernos de los Estados y las autoridades municipales, en la construcción y conservación de obras de ese género;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XXIV.- Otorgar concesiones o permisos para construir las obras que le corresponda ejecutar;
+XXIV.- Otorgar concesiones, asignaciones o permisos para construir las obras que le corresponda ejecutar;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1992)</small>
 
@@ -1972,9 +2010,9 @@ XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del de
 
 XXVI.- Promover y en su caso organizar la capacitación, investigación y el desarrollo en materia de comunicaciones y transportes; lo que podrá realizar en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación;
 
-> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XXVII.- Elaborar, planificar, gestionar y regular proyectos que tengan por objeto la construcción, equipamiento y desarrollo de sistemas de transporte público de pasajeros, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables;
+XXVII.- Elaborar, planificar, gestionar y regular proyectos que tengan por objeto la construcción, equipamiento y desarrollo de sistemas de transporte público de pasajeros, directamente o a través de terceros, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables;
 
 > <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
 
@@ -4579,3 +4617,41 @@ Décimo Noveno.- Hasta en tanto las legislaturas de las entidades federativas, e
 Vigésimo.- El Poder Judicial de la Federación deberá habilitar juzgados de Distrito y tribunales Colegiados de Circuito especializados en materia de acceso a la información pública y protección de datos personales, en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, a los cuales se remitirán los juicios de amparo en dichas materias que se encuentran en trámite para su resolución.
 
 Para efectos de lo previsto en este transitorio, se suspenden por un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este Decreto los plazos y términos procesales de los juicios de amparo en materia de acceso a la información pública y protección de datos personales que se encuentran en trámite ante juzgados de Distrito y tribunales Colegiados de Circuito.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA GUARDIA NACIONAL Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS; LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; DEL CÓDIGO DE JUSTICIA MILITAR Y DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+
+Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+
+Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+
+Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+
+Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL; DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y DE LA LEY GENERAL DE BIENES NACIONALES, EN MATERIA FERROVIARIA Y DE ARMONIZACIÓN NORMATIVA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
+
+Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
+
+Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
+
+Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+Sexto.- El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
