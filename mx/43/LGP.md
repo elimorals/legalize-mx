@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2018-07-12"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -548,6 +548,54 @@ El Catálogo de los Extranjeros residentes en la República Mexicana se integra 
 
 Al incorporar a una persona en el Registro Nacional de Población, se le asignará una clave que se denominará Clave Unica de Registro de Población. Esta servirá para registrarla e identificarla en forma individual.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Clave Única de Registro de Población es la fuente única de identidad de las personas, de nacionalidad mexicana, o extranjera que se encuentre en condición de estancia regular en el país, integrada de una secuencia alfanumérica de 18 caracteres que permite identificarlas, la cual contará con, al menos, los siguientes datos:
+
+I. Nombres y apellidos, según corresponda;
+
+II. Fecha de nacimiento, empezando por año, mes y día;
+
+III. Sexo o género;
+
+IV. Lugar de nacimiento, y
+
+V. Nacionalidad.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 91 BIS.- La Clave Única de Registro de Población que, además de los datos previstos en el artículo 91 de esta Ley, contenga huellas dactilares y fotografía, será el documento nacional de identificación obligatorio, de aceptación universal y obligatoria en todo el territorio nacional, y estará disponible en formato físico y digital.
+
+La Secretaría de Gobernación llevará a cabo acciones para integrar los datos biométricos de las personas a la Clave Única de Registro de Población, mediante:
+
+I. La transferencia de los datos biométricos que obren en poder de las autoridades de los tres órdenes de gobierno al Registro Nacional de Población, previa autorización de su titular, o
+
+II. La asistencia de los titulares a los centros que al efecto habilite la Secretaría de
+
+Gobernación para tal efecto.
+
+La integración de los datos biométricos se realizará, previo consentimiento de las personas titulares.
+
+La Secretaría de Gobernación, a través del Registro Nacional de Población, establecerá mecanismos de coordinación y colaboración con las distintas autoridades de los tres órdenes de gobierno para los fines del presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 91 TER.- La Clave Única de Registro de Población que cuente con los datos biométricos se vinculará con el Registro del Sistema Nacional de Salud, que prevé la Ley General de Salud. Asimismo, podrá integrarse a otros registros y sistemas nacionales, en términos de las leyes y normativa aplicable.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 91 QUATER.- El Registro Nacional de Población contará con una Plataforma Única de Identidad, para la consulta, validación y gestión de las Claves Únicas de Registro de Población que permita la integración de los datos a que se refiere el artículo 91 Bis de la presente Ley, a fin de brindar el Servicio Nacional de Identificación Personal.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 91 QUINQUIES.- La versión digital de la Clave Única de Registro de Población como identificación estará a cargo de la Agencia de Transformación Digital y Telecomunicaciones.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 91 SEXIES.- En los términos que fije el Reglamento de esta Ley, así como en otras disposiciones jurídicas aplicables, la Clave Única de Registro de Población deberá ser empleada en los procesos de validación y autenticación de la Identidad de las personas en medios digitales.
+
+Todo ente público o particular estará obligado a solicitar la Clave Única de Registro de Población para la prestación de sus trámites y servicios.
+
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 92.
@@ -749,6 +797,10 @@ VI. Cometan actos u omisiones que violen los derechos humanos de las personas qu
 ###### ARTICULO 114.
 
 Las autoridades federales, estatales o municipales que incurran en violaciones a la presente Ley o a las disposiciones que la reglamenten, que no constituyan delitos, serán sancionados con multa hasta de cinco mil pesos y destitución en caso de reincidencia.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+ARTICULO 114 BIS.- Las autoridades de los tres órdenes de gobierno y particulares que incumplan con las obligaciones previstas en el artículo 91 Bis de esta Ley, previo apercibimiento por el reiterado incumplimiento, serán sancionadas con multas de 10,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 1996)</small>
 
@@ -1109,3 +1161,23 @@ Tercero.- El Sector Salud deberá adecuar, en un plazo no mayor a un año, a par
 Cuarto.- La Secretaría de Gobernación y las autoridades competentes deberán, en un plazo no mayor a 180 días a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, instalar el Registro Nacional de Personas con Discapacidad y llevar a cabo los ajustes técnicos que permitan la impresión del comprobante de la Clave Única de Registro de Población con o sin la información del Certificado de Discapacidad, según los fines que al interesado convengan.
 
 Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO SEGUNDO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, ASÍ COMO DE LA LEY GENERAL DE POBLACIÓN, EN MATERIA DE FORTALECIMIENTO DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN DE PERSONAS DESAPARECIDAS”.]
+
+Primero. La Secretaría de Gobernación, con el apoyo técnico de la Agencia de Transformación Digital y Telecomunicaciones, desarrollará la Plataforma Única de Identidad en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Segundo. Para los efectos del último párrafo del artículo 91 Bis del ordenamiento que se adiciona, las autoridades de los tres órdenes de gobierno habilitarán en un plazo no mayor a 90 días naturales siguientes a la entrada en vigor del presente Decreto los mecanismos necesarios que permitan la consulta, transferencia y validación de la información correspondiente para su integración a la Clave Única de Registro de Población mediante la Plataforma Única de Identidad.
+
+Tercero. A la entrada en operación del Registro del Sistema Nacional de Salud que prevé la Ley General de Salud, la Secretaría de Gobernación, a través del Registro Nacional de Población, y en coordinación con las autoridades competentes en materia de salud, adoptará las medidas necesarias para su integración con la Clave Única de Registro de Población.
+
+Cuarto. Para los efectos del artículo 91 Sexies de este ordenamiento, en un plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, todos los entes públicos y privados adoptarán las medidas necesarias para incluir la Clave Única de Registro de Población como requisito en los trámites y servicios que tengan a su cargo.
+
+Quinto. La Secretaría de Gobernación, en un plazo no mayor a 120 días naturales siguientes a la entrada en vigor del presente Decreto, establecerá el Programa de Integración al Registro Nacional de Población de los datos biométricos de niñas, niños y adolescentes, determinando la coordinación y colaboración con aquellas autoridades de cualquier orden de gobierno que correspondan, las cuales contribuirán de manera efectiva y obligatoria a la integración de la Clave Única de Registro de Población.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, ASÍ COMO DE LA LEY GENERAL DE POBLACIÓN, EN MATERIA DE FORTALECIMIENTO DE BÚSQUEDA, LOCALIZACIÓN E IDENTIFICACIÓN DE PERSONAS DESAPARECIDAS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
