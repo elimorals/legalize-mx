@@ -4,7 +4,7 @@ identifier: "LFCE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2014-05-23"
-last_updated: "2021-05-20"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100934&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCE"
 
 LEY FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -62,21 +62,31 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Agente Económico: Toda persona física o moral, con o sin fines de lucro, dependencias y entidades de la administración pública federal, estatal o municipal, asociaciones, cámaras empresariales, agrupaciones de profesionistas, fideicomisos, o cualquier otra forma de participación en la actividad económica;
 
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I Bis. Agencia: Agencia de Transformación Digital y Telecomunicaciones;
+
 II. Autoridad Investigadora: Aquélla a la que se hace referencia en el artículo 26 de la presente Ley;
 
-III. Autoridad Pública: Toda autoridad de la Federación, de los Estados, del Distrito Federal y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y de cualquier otro ente público;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Autoridad Pública: Toda autoridad de la Federación, de los Estados, de la Ciudad de México y de los Municipios o Demarcaciones Territoriales, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y de cualquier otro ente público;
 
 IV. Barreras a la Competencia y la Libre Concurrencia: Cualquier característica estructural del mercado, hecho o acto de los Agentes Económicos que tenga por objeto o efecto impedir el acceso de competidores o limitar su capacidad para competir en los mercados; que impidan o distorsionen el proceso de competencia y libre concurrencia, así como las disposiciones jurídicas emitidas por cualquier orden de gobierno que indebidamente impidan o distorsionen el proceso de competencia y libre concurrencia;
 
-V. Comisión: La Comisión Federal de Competencia Económica;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. Comisionado: Cada uno de los siete integrantes del Pleno de la Comisión;
+V. Comisión: La Comisión Nacional Antimonopolio;
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Órgano Interno de Control: El Órgano Interno de Control de la Comisión;
+VI. CRT: Comisión Reguladora de Telecomunicaciones;
 
-VIII. Disposiciones Regulatorias: Las disposiciones administrativas de carácter general que la Comisión podrá emitir para el cumplimiento de su función regulatoria conforme a lo establecido en la fracción IV del párrafo vigésimo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos;
+VII. (DEROGADA, D.O.F. 16 DE JULIO DE 2025)
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Disposiciones Regulatorias: Las disposiciones administrativas de carácter general que emita la Comisión para el cumplimiento de sus funciones en términos de esta Ley;
 
 IX. Información Confidencial: Aquélla que de divulgarse pueda causar un daño o perjuicio en la posición competitiva de quien la haya proporcionado, contenga datos personales cuya difusión requiera su consentimiento, pueda poner en riesgo su seguridad o cuando por disposición legal se prohíba su divulgación;
 
@@ -84,11 +94,21 @@ X. Información Pública: Aquélla que se haya dado a conocer por cualquier medi
 
 XI. Información Reservada: Aquélla a la que sólo los Agentes Económicos con interés jurídico en el procedimiento pueden tener acceso;
 
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI Bis. Persona Comisionada: Cada una de las cinco personas integrantes del Pleno de la Comisión;
+
 XII. Órgano encargado de la instrucción: La instancia de la Comisión que tenga a su cargo la instrucción de los procedimientos a que se refiere esta Ley, en los términos que determine el estatuto orgánico;
 
-XIII. Pleno: Es el órgano de gobierno de la Comisión integrado por siete Comisionados, incluyendo al Comisionado Presidente;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII. Pleno: Es el órgano de gobierno de la Comisión Nacional Antimonopolio, mismo que está integrado por cinco personas Comisionadas, incluyendo a la Persona Comisionada Presidente;
 
 XIV. Procuraduría: La Procuraduría Federal del Consumidor;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIV Bis. Reglamento: El reglamento que al efecto se expida de esta Ley;
 
 XV. Secretaría: La Secretaría de Economía.
 
@@ -98,19 +118,15 @@ Están sujetos a lo dispuesto por esta Ley todos los Agentes Económicos. Serán
 
 ###### Artículo 5.
 
-El Instituto Federal de Telecomunicaciones es la autoridad en materia de competencia económica de los sectores de radiodifusión y telecomunicaciones, por lo que en éstos ejercerá en forma exclusiva las facultades que el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y las leyes establecen para la Comisión, conforme a la estructura que determine en su estatuto orgánico.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
-En el momento en que alguno de los órganos mencionados en el párrafo anterior tenga información de que el otro conoce de un asunto que a aquél le corresponda, le solicitará le remita el expediente respectivo. Si el órgano solicitado estima no ser competente deberá remitir el expediente, dentro de los cinco días siguientes a la recepción de la solicitud. Si considera que lo es, en igual plazo hará saber su resolución al órgano solicitante, en cuyo caso suspenderá el procedimiento y remitirá el expediente al Tribunal Colegiado de Circuito especializado en materia de competencia económica, radiodifusión y telecomunicaciones, quien fijará la competencia en un plazo de diez días.
-
-En el caso de que alguno de los órganos mencionados en el primer párrafo de este artículo que conozca de un asunto estime carecer de competencia para conocerlo, enviará dentro de los cinco días siguientes el expediente respectivo al otro órgano. Si éste acepta la competencia, se avocará al conocimiento; en caso contrario, dentro de los cinco días siguientes comunicará su resolución al órgano que declinó la competencia y remitirá los autos al Tribunal Colegiado de Circuito especializado en materia de competencia económica, radiodifusión y telecomunicaciones para que dentro del plazo de diez días fije la competencia.
-
-Los plazos previstos en esta Ley estarán suspendidos desde el inicio de cualquier procedimiento previsto en este artículo hasta su resolución.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 6.
 
-No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas determinadas en la Constitución Política de los Estados Unidos Mexicanos.
+No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas determinadas en la Constitución Política de los Estados Unidos Mexicanos, así como las actividades que realicen las empresas públicas del Estado y las que expresamente señalen las leyes que expida el Congreso de la Unión.
 
-No obstante, los Agentes Económicos que tengan a su cargo las funciones a que se refiere el párrafo anterior, estarán sujetos a lo dispuesto por esta Ley respecto de los actos que no estén expresamente comprendidos en dichos supuestos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 7.
 
@@ -136,9 +152,11 @@ V. No otorguen o distribuyan permisos o autorizaciones cuya expedición correspo
 
 Los Agentes Económicos referidos en este artículo estarán sujetos a lo dispuesto en esta Ley respecto de los actos que no estén expresamente comprendidos dentro de la protección que señala el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 9.
 
-Para la imposición, en los términos del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, de precios máximos a los bienes y servicios que sean necesarios para la economía nacional o el consumo popular, se estará a lo siguiente:
+Para la imposición, en los términos del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, de precios máximos a los bienes y servicios que sean necesarios para la economía nacional o el consumo popular, con excepción de la regulación prevista en la Ley del Sector Hidrocarburos, se estará a lo siguiente:
 
 I. Corresponde exclusivamente al Ejecutivo Federal determinar mediante decreto los bienes y servicios que podrán sujetarse a precios máximos, siempre y cuando no haya condiciones de competencia efectiva en el mercado relevante de que se trate. La Comisión determinará mediante declaratoria si no hay condiciones de competencia efectiva.
 
@@ -148,19 +166,25 @@ La Secretaría podrá concertar y coordinar con los productores o distribuidores
 
 La Procuraduría, bajo la coordinación de la Secretaría, será responsable de la inspección, vigilancia y sanción, respecto de los precios que se determinen conforme a este artículo, de acuerdo con lo que dispone la Ley Federal de Protección al Consumidor.
 
-## TÍTULO II. DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+## TÍTULO II. DE LA COMISIÓN NACIONAL ANTIMONOPOLIO
 
 ### Capítulo I. De la Comisión
 
 #### Sección I. De su Naturaleza, Objeto y Domicilio
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 10.
 
-La Comisión es un órgano autónomo, con personalidad jurídica y patrimonio propio, independiente en sus decisiones y funcionamiento, profesional en su desempeño, imparcial en sus actuaciones y ejercerá su presupuesto de forma autónoma, misma que tiene por objeto garantizar la libre concurrencia y competencia económica, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados.
+La Comisión es un organismo público descentralizado de la Administración Pública Federal, sectorizado a la Secretaría, con personalidad jurídica y patrimonio propio, autonomía de gestión y dotado de independencia técnica y operativa en sus decisiones, organización y funcionamiento; que tiene por objeto garantizar la libre concurrencia y competencia económica en todos los mercados del país, así como prevenir, investigar y combatir los monopolios, las prácticas monopólicas, las concentraciones y demás restricciones al funcionamiento eficiente de los mercados, para lo cual debe desempeñarse de manera profesional e imparcial en sus actuaciones.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 11.
 
-El domicilio de la Comisión será la Ciudad de México y, sujeta a la disponibilidad presupuestaria, podrá establecer delegaciones fuera de la Ciudad de México.
+El domicilio de la Comisión será la Ciudad de México y, sujeta a la disponibilidad presupuestaria, podrá establecer oficinas de representación fuera de la Ciudad de México.
 
 #### Sección II. De las Atribuciones de la Comisión
 
@@ -172,7 +196,9 @@ I. Garantizar la libre concurrencia y competencia económica; prevenir, investig
 
 II. Ordenar medidas para eliminar barreras a la competencia y la libre concurrencia; determinar la existencia y regular el acceso a insumos esenciales, así como ordenar la desincorporación de activos, derechos, partes sociales o acciones de los Agentes Económicos en las proporciones necesarias para eliminar efectos anticompetitivos;
 
-III. Practicar visitas de verificación en los términos de esta Ley, citar a declarar a las personas relacionadas con la materia de la investigación y requerir la exhibición de papeles, libros, documentos, archivos e información generada por medios electrónicos, ópticos o de cualquier otra tecnología, a fin de comprobar el cumplimiento de esta Ley, así como solicitar el apoyo de la fuerza pública o de cualquier Autoridad Pública para el eficaz desempeño de las atribuciones a que se refiere esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Practicar visitas de verificación en los términos de esta Ley y su Reglamento, citar a declarar a las personas relacionadas con la materia de la investigación y requerir la exhibición de papeles, libros, documentos, archivos e información generada por medios electrónicos, ópticos o de cualquier otra tecnología, a fin de comprobar el cumplimiento de esta Ley, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, así como solicitar el apoyo de la fuerza pública o de cualquier Autoridad Pública para el eficaz desempeño de las atribuciones a que se refiere esta Ley;
 
 IV. Establecer acuerdos y convenios de coordinación con las Autoridades Públicas para el combate y prevención de monopolios, prácticas monopólicas, concentraciones ilícitas, barreras a la libre concurrencia y la competencia económica y demás restricciones al funcionamiento eficiente de los mercados;
 
@@ -180,27 +206,37 @@ V. Formular denuncias y querellas ante el Ministerio Público respecto de las pr
 
 VI. Presentar solicitud de sobreseimiento respecto de probables conductas delictivas contra el consumo y la riqueza nacional previstas en el Código Penal Federal, cuando hubiere sido denunciante o querellante;
 
-VII. Ejercer el presupuesto de forma autónoma;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Ejercer su presupuesto;
 
 VIII. Crear los órganos y unidades administrativas necesarias para su desempeño profesional, eficiente y eficaz, de acuerdo con su presupuesto autorizado;
 
-IX. Ordenar la suspensión de los actos o hechos constitutivos de una probable conducta prohibida por esta Ley e imponer las demás medidas cautelares, así como fijar caución para levantar dichas medidas;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Ordenar la suspensión de los actos o hechos constitutivos de una probable conducta prohibida por esta Ley e imponer las demás medidas cautelares;
 
 X. Resolver sobre los asuntos de su competencia y sancionar administrativamente la violación de esta Ley;
 
 XI. Resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de libre concurrencia o competencia económica a que hacen referencia ésta u otras leyes y reglamentos;
 
-XII. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, o a petición de parte, respecto de los ajustes a programas y políticas llevados a cabo por Autoridades Públicas, cuando éstos puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes. Las opiniones citadas deberán publicarse;
+XII. (DEROGADA, D.O.F. 16 DE JULIO DE 2025)
 
-XIII. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, o a petición de parte, respecto de los anteproyectos de disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes. Las opiniones citadas deberán publicarse;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIV. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, de alguna de las Cámaras del Congreso de la Unión o a petición de parte, sobre iniciativas de leyes y anteproyectos de reglamentos y decretos en lo tocante a los aspectos de libre concurrencia y competencia económica, sin que estas opiniones tengan efectos vinculantes. Las opiniones citadas deberán publicarse;
+XIII. Emitir opinión, a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, respecto de los anteproyectos de leyes, disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes;
 
-XV. Emitir opinión cuando lo considere pertinente, o a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, o de alguna de las Cámaras del Congreso de la Unión, respecto de leyes, reglamentos, acuerdos, circulares y actos administrativos de carácter general en materia de libre concurrencia y competencia económica, sin que estas opiniones tengan efectos vinculantes. Las opiniones citadas deberán publicarse;
+XIV. (DEROGADA, D.O.F. 16 DE JULIO DE 2025)
+
+XV. (DEROGADA, D.O.F. 16 DE JULIO DE 2025)
 
 XVI. Resolver sobre las solicitudes de opinión formal, y emitir orientaciones generales en materia de libre concurrencia y competencia económica que le sean formuladas de conformidad con los artículos 104 a 110 de esta Ley;
 
-XVII. Emitir Disposiciones Regulatorias exclusivamente para el cumplimiento de sus atribuciones, así como su estatuto orgánico, que deberán publicarse en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVII. Emitir Disposiciones Regulatorias para el cumplimiento de sus atribuciones, así como su estatuto orgánico, que deberán publicarse en el Diario Oficial de la Federación.
+
+Con independencia de la emisión y publicación de las Disposiciones Regulatorias, la Comisión podrá expedir lineamientos y criterios técnicos, así como guías de carácter orientador para el efectivo cumplimiento de esta Ley;
 
 XVIII. Opinar cuando lo considere pertinente, o a solicitud del Ejecutivo Federal, por sí o por conducto de la Secretaría, o de la Cámara de Senadores del Congreso de la Unión sobre asuntos en materia de libre concurrencia y competencia económica en la celebración de tratados internacionales, en términos de lo dispuesto en la ley de la materia;
 
@@ -210,39 +246,7 @@ XX. Promover, en coordinación con las Autoridades Públicas, que sus actos admi
 
 XXI. Promover el estudio, la divulgación y la aplicación de los principios de libre concurrencia y competencia económica, así como participar en los foros y organismos nacionales e internacionales que tengan ese fin;
 
-XXII. Publicar las Disposiciones Regulatorias que sean necesarias para el cumplimiento de sus atribuciones, entre las que deberán comprenderse las siguientes materias:
-
-a) Imposición de sanciones;
-
-b) Prácticas monopólicas;
-
-c) Determinación de poder sustancial para uno o varios Agentes Económicos;
-
-d) Determinación de mercados relevantes;
-
-e) Barreras a la competencia y la libre concurrencia;
-
-f) Insumos esenciales, y
-
-g) Desincorporación de activos, derechos, partes sociales o acciones de los Agentes Económicos.
-
-Para la expedición de las disposiciones regulatorias deberá realizarse consulta pública, salvo que a juicio de la Comisión se puedan comprometer los efectos que se pretenden lograr con dichas disposiciones o se trate de situaciones de emergencia.
-
-Con independencia de la publicación de las disposiciones regulatorias a que se refiere esta Ley, la Comisión deberá expedir directrices, guías, lineamientos y criterios técnicos, previa consulta pública, en los términos del artículo 138 de esta Ley, en materia de:
-
-a) Concentraciones;
-
-b) Investigaciones;
-
-c) Beneficio de dispensa y reducción del importe de las multas;
-
-d) Suspensión de actos constitutivos de probables prácticas monopólicas o probables concentraciones ilícitas;
-
-e) Determinación y otorgamiento de cauciones para suspender la aplicación de medidas cautelares;
-
-f) Solicitud del sobreseimiento del proceso penal en los casos a que se refiere el Código Penal Federal, y
-
-g) Las que sean necesarias para el efectivo cumplimiento de esta Ley.
+XXII. (DEROGADA, D.O.F. 16 DE JULIO DE 2025)
 
 XXIII. Realizar u ordenar la realización de estudios, trabajos de investigación e informes generales en materia de libre concurrencia y competencia económica, en su caso, con propuestas de liberalización, desregulación o modificación normativa, cuando detecte riesgos al proceso de libre concurrencia y competencia económica, identifique un problema de competencia o así se lo soliciten otras Autoridades Públicas;
 
@@ -258,67 +262,117 @@ XXVIII. Ejercitar las acciones colectivas de conformidad con lo dispuesto en el 
 
 XXIX. Solicitar estudios que evalúen el desempeño de las facultades otorgadas a la Comisión, mismos que serán elaborados por académicos y expertos en la materia de manera independiente a la autoridad, y
 
-XXX. Las demás que le confieran ésta y otras leyes.
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXX. Establecer, al amparo de los convenios internacionales debidamente celebrados por el Gobierno de los Estados Unidos Mexicanos, en coordinación con la Secretaría de Relaciones Exteriores, mecanismos de cooperación y coordinación con autoridades de competencia económica en el extranjero en materia de investigaciones y procedimientos previstos en esta Ley, así como el intercambio de todo tipo de información para efectos de lo anterior;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXI. Imponer límites a la concentración nacional y regional de frecuencias, al concesionamiento y a la propiedad cruzada que controle varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica, en términos de lo establecido en el Libro Cuarto de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXII. Determinar la existencia de Agentes Económicos Preponderantes en los sectores de radiodifusión y de telecomunicaciones, e imponer las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia en estos sectores;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXIII. Declarar la existencia o inexistencia de condiciones de competencia efectiva en los sectores de telecomunicaciones y radiodifusión y, en su caso, la imposición, modificación o extinción de las obligaciones impuestas a los Agentes Económicos Preponderantes en términos de lo establecido en esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXIV. Establecer las medidas e imponer las obligaciones específicas que permitan la desagregación efectiva de la red local del Agente Económico Preponderante en el sector de las telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXV. Compartir información y establecer mecanismos de coordinación con la CRT y, en su caso, con la Agencia;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXVI. Analizar, evaluar y, en su caso, autorizar los planes de separación estructural que le representen los Agentes Económicos Preponderantes a efecto de reducir su participación nacional por debajo del cincuenta por ciento en el sector donde hayan sido determinados como preponderantes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XXXVII. Fijar y ajustar, con la aprobación de la Secretaría de Hacienda y Crédito Público, las tarifas por los servicios que preste, mismas que deberán publicarse en el Diario Oficial de la Federación, y
+
+XXXVIII. Las demás que le confieran ésta y otras leyes.
 
 ### Capítulo II. De la Integración y Atribuciones del Pleno
 
-#### Sección I. De la Integración a través del Comité de Evaluación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+#### Sección I. De la Integración del Pleno
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 13.
 
-El Comité de Evaluación de aspirantes a ser designados como Comisionados a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, no contará con estructura ni presupuesto propios, por lo que, para el ejercicio de sus atribuciones, se auxiliará del personal adscrito a las instituciones de las que son titulares sus integrantes y podrá emplear los recursos materiales y financieros de éstas en los términos que, al efecto, acuerden los integrantes del Comité de Evaluación.
+En la Comisión se garantizará la separación entre la unidad que conoce de los procedimientos de investigación y el Pleno, quien resolverá dichos procedimientos.
 
-Los actos jurídicos que acuerde el Comité de Evaluación se formalizarán a través de los servidores públicos de las instituciones de las que son titulares sus integrantes y que al efecto señale el propio Comité.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 13 Bis.
+
+El Pleno de la Comisión es el órgano de gobierno de la Comisión, mismo que se integra por cinco Personas Comisionadas, incluyendo la Persona Comisionada Presidente.
+
+Dichas Personas Comisionadas serán designadas en forma escalonada por la persona titular del Ejecutivo Federal y ratificados por el voto de la mayoría de las personas integrantes presentes del Senado de la República o, en sus recesos, por la Comisión Permanente, dentro del plazo improrrogable de treinta días naturales a partir de la presentación de la propuesta.
+
+Las Personas Comisionadas durarán en su encargo siete años improrrogables y por ningún motivo podrán desempeñar nuevamente ese cargo.
+
+La Persona Comisionada Presidente de la Comisión será nombrada por la persona titular del Ejecutivo Federal de entre las Personas Comisionadas por un periodo de tres años, prorrogable por una sola ocasión.
+
+Cuando la designación recaiga en una Persona Comisionada que concluya su encargo antes de dicho periodo, desempeñará la presidencia sólo por el tiempo que falte para concluir su encargo como Persona Comisionada.
+
+Las personas aspirantes a ser Personas Comisionadas deberán cumplir los siguientes requisitos:
+
+I. Ser persona ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+
+IV. Tener título profesional, expedido legalmente a su favor;
+
+V. Haberse desempeñado, cuando menos ocho años, en actividades profesionales, de servicio público o académicas relacionadas con materias afines a las de competencia económica;
+
+VI. No haber desempeñado cargo como titular de una Secretaría de Estado, de la Fiscalía General de la República, senaduría, diputación federal o local, persona Gobernadora de algún Estado o Jefatura de Gobierno de la Ciudad de México o algún cargo en partidos políticos, durante los tres años previos a su nombramiento, y
+
+VII. No haber ocupado, en los últimos cinco años, ningún empleo, cargo o función directiva en las empresas que hayan estado sujetas a alguno de los procedimientos sancionatorios que se hayan sustanciado por el órgano a que hace referencia esta Ley.
+
+Para efectos de la ratificación del Senado de la República, se desahogarán las comparecencias correspondientes a las personas propuestas, garantizando la publicidad y transparencia de su desarrollo.
+
+En caso de que el Senado de la República no apruebe dos nombramientos sucesivos respecto de la misma vacante, la persona titular del Ejecutivo Federal hará un tercer nombramiento con carácter de definitivo.
+
+En caso de falta absoluta de alguna Persona Comisionada, la persona titular del Ejecutivo Federal enviará una propuesta de nombramiento en un plazo no mayor a tres meses contados a partir de la ausencia, por lo que se procederá a la designación correspondiente a través del procedimiento previsto en este artículo, a fin de que la nueva Persona Comisionada concluya el periodo respectivo o inicie su encargo, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 13 Ter.
+
+Cuando las Personas Comisionadas estén por concluir el periodo para el que hayan sido nombradas, la Persona Comisionada Presidente, con tres meses de anticipación, deberá notificar esta circunstancia a la persona titular del Ejecutivo Federal.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 13 Quáter.
+
+Las Personas Comisionadas se abstendrán de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
 
 ###### Artículo 14.
 
-Para el cumplimiento de las atribuciones previstas en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, el Comité de Evaluación contará con las atribuciones siguientes:
-
-I. Emitir las convocatorias públicas respectivas para cubrir las vacantes de Comisionados;
-
-II. Integrar y enviar al Ejecutivo Federal las listas de aspirantes a ocupar las vacantes referidas en la fracción anterior;
-
-III. Seleccionar, cuando menos, a dos instituciones de educación superior que emitan su opinión para la formulación del examen de conocimientos que aplicará a los aspirantes y abstenerse de revelar al público las denominaciones de dichas instituciones hasta en tanto envíe al Ejecutivo Federal las listas referidas en la fracción II;
-
-IV. Aplicar, con base en la opinión recibida y las mejores prácticas, los exámenes de conocimientos que le corresponde aplicar a los aspirantes a Comisionados, una vez que haya verificado el cumplimiento de los requisitos que les impone el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, así como elaborar el banco de reactivos con el que se integrarán dichos exámenes;
-
-V. Acordar el establecimiento de un mecanismo para el registro de aspirantes interesados en ocupar los cargos de Comisionados respectivos, así como determinar los documentos e información para acreditar que cumplen con los requisitos referidos en la fracción anterior;
-
-VI. Emitir las bases para su funcionamiento y establecer los procedimientos que seguirá para la selección de los aspirantes, la integración de las listas que enviará al Ejecutivo Federal, así como las normas de conducta que los miembros del Comité de Evaluación deberán observar durante dichos procedimientos de selección;
-
-VII. En cumplimiento de los principios constitucionales en materia de transparencia, clasificar la información que reciba y genere con motivo de sus funciones, acordar la información que deba ser clasificada como reservada o confidencial y la forma en que deberá garantizar, en todo caso, la protección de los datos personales de los aspirantes;
-
-VIII. Seleccionar a los aspirantes que obtengan las calificaciones aprobatorias más altas en el examen correspondiente para integrar las listas mencionadas en la fracción II de este artículo;
-
-IX. Nombrar al Secretario, al Prosecretario y a dos asesores del Comité de Evaluación, quienes deberán ser servidores públicos de las instituciones que representan los propios integrantes del Comité de Evaluación;
-
-X. Acordar la forma en que cubrirán los gastos que se requieran para el cumplimiento de las funciones del Comité de Evaluación y el desarrollo de los procedimientos de evaluación;
-
-XI. Acordar y ejecutar las demás acciones que resulten procedentes para llevar a cabo el procedimiento para la conformación de las listas de aspirantes a Comisionados, y
-
-XII. Acordar y ejecutar los demás actos necesarios para la realización de su objeto.
-
-Cualquiera de los actos del Comité de Evaluación será inatacable, por lo que no procederá contra aquel medio de defensa alguno, ordinario o extraordinario, incluyendo el juicio de amparo, ni podrá ser modificado o revocado por autoridad alguna.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 15.
 
-El Comité de Evaluación contará con las más amplias facultades para analizar y resolver sobre la documentación e información que los aspirantes a Comisionados le presenten, así como aquélla que el propio Comité requiera.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 16.
 
-Para el cumplimiento de sus atribuciones, el Comité de Evaluación podrá auxiliarse de cualquier autoridad federal, estatal y municipal, así como de los órganos autónomos federales o estatales, los cuales estarán obligados a proporcionar, en el ámbito de su competencia, la asistencia que sea necesaria para el ejercicio de las atribuciones del Comité de Evaluación.
-
-Las citadas autoridades así como los particulares a los que les sea requerida información, deberán proporcionarla al Comité de Evaluación, en el plazo que al efecto se señale en las bases a que se refiere la fracción VI del artículo 14 de esta ley, con objeto de verificar o comprobar la información que le hubieren presentado los aspirantes, así como cualquier otra información que dicho comité estime necesaria para el cumplimiento de sus funciones.
-
-Las referidas autoridades y los particulares en ningún caso podrán invocar secreto o reserva para omitir el cumplimiento de tales requerimientos.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 17.
 
-Los actos que el Comité de Evaluación acuerde dar publicidad se darán a conocer a través del Diario Oficial de la Federación, cuando éste así lo determine, así como en los demás medios que al efecto señale.
-
-La información y documentación relativa a los exámenes y reactivos a que se refiere el artículo 14, fracción IV de la presente Ley, así como la metodología de calificación de dichos exámenes y demás información sobre las calificaciones obtenidas por los respectivos aspirantes a Comisionados, tendrá carácter confidencial, por lo que los miembros del Comité de Evaluación y demás servidores públicos que intervengan en el procesamiento de dicha información y documentación en ningún caso podrán revelar dicha información a persona alguna, sino a las autoridades competentes en materia de fiscalización o investigación y, respecto de cada uno de dichos aspirantes, sólo se le podrá comunicar la calificación que hubiere obtenido, sin perjuicio de que, una vez concluido el proceso de selección de aspirantes, el Comité de Evaluación pueda publicar la calificación que obtuvieron los sustentantes del examen de evaluación identificados únicamente por folio o clave de registro. La obligación para guardar secreto a que se refiere el presente párrafo será aplicable a los particulares que, en su caso, intervengan en la formulación de los reactivos y exámenes antes descritos.
-
-Las listas de aspirantes a ocupar las vacantes en los cargos de Comisionados en la Comisión y en el Instituto Federal de Telecomunicaciones que el Comité de Evaluación integre y envíe al Ejecutivo Federal deberán acompañarse con la documentación que presentó el aspirante para acreditar los requisitos que establece el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, así como la calificación que obtuvo en su evaluación.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 #### Sección II. De las Atribuciones del Pleno
 
@@ -330,29 +384,41 @@ Las deliberaciones del Pleno deberán contar con los votos de todos los Comision
 
 En los casos en que los Comisionados no puedan ejercer su voto por causas debidamente justificadas o estén impedidos para ello, y exista empate en la votación del Pleno, el Comisionado Presidente contará con voto de calidad para decidir estos casos.
 
-Las sesiones del Pleno serán de carácter público, excepto aquellas porciones en que se traten temas con Información Confidencial. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-La Comisión deberá hacer pública la versión estenográfica de sus sesiones.
+Las sesiones del Pleno serán de carácter público, a través de la versión estenográfica que se publicará en el sitio de Internet de la Comisión, excepto aquellas porciones en que se traten temas con Información Confidencial o Reservada. Sólo será considerada Información Confidencial la declarada como tal bajo los supuestos establecidos en esta Ley y demás disposiciones aplicables. El Pleno deberá fundar y motivar la resolución en la que determine que una sesión no será pública.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión deberá hacer público el posicionamiento de cada una de las Personas Comisionadas sobre los asuntos listados en el orden del día, el cual será redactado en lenguaje ciudadano, que deberá contener una descripción de los hechos de cada asunto en cuestión, así como el sentido del voto y el razonamiento que lo sustenta.
 
 Los acuerdos y resoluciones del Pleno también serán de carácter público y sólo se reservarán las partes que contengan Información Confidencial o Reservada, en los términos establecidos en esta Ley y demás disposiciones aplicables.
 
-Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXII, XXIII, XXIV y XXV del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12 fracción II, cuando deriven del procedimiento previsto en el artículo 94 de esta Ley; así como las previstas en sus fracciones XVII y XXII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cinco Comisionados.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Corresponde al Pleno el ejercicio de las atribuciones señaladas en las fracciones II, VI, VIII, IX, X, XI, XII, XIII, XIV, XV, XVII, XVIII, XIX, XX, XXIII, XXIV, XXV, XXXI, XXXII, XXXIII, XXXIV y XXXVI del artículo 12 de esta Ley, y las demás atribuciones concedidas expresamente al Pleno en esta Ley. Las atribuciones señaladas en el artículo 12, fracción II, cuando deriven del procedimiento previsto en el artículo 94 de esta Ley; así como las previstas en sus fracciones XVII, XXII, XXXII y XXXIII, solo podrán ser ejercidas por el Pleno cuando las mismas sean resueltas con el voto afirmativo de cuando menos cuatro Personas Comisionadas.
 
 El Pleno determinará en el estatuto orgánico el ejercicio directo o por delegación de las atribuciones previstas en el artículo 12 de esta Ley que no estén comprendidas en los supuestos señalados en el párrafo anterior.
 
 En el estatuto orgánico de la Comisión se establecerán las facultades que ejercerán las diversas unidades de la misma, las cuales estarán bajo el mando y supervisión del Pleno o del Comisionado Presidente, según se trate.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 19.
 
-El Comisionado Presidente presidirá el Pleno y a la Comisión. En caso de ausencia, le suplirá el Comisionado de mayor antigüedad y, a igualdad de antigüedad, el de mayor edad.
+La Persona Comisionada Presidente presidirá el Pleno y a la Comisión. En caso de ausencia, le suplirá la Persona Comisionada de mayor antigüedad y, a igualdad de antigüedad, la de mayor edad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 20.
 
-Corresponde al Comisionado Presidente:
+Corresponde a la Persona Comisionada Presidente:
 
 I. Actuar como representante legal de la Comisión con facultades generales y especiales para actos de administración y de dominio, pleitos y cobranzas, incluso las que requieran cláusula especial conforme a la Ley;
 
-II. Otorgar poderes a nombre de la Comisión para actos de dominio, de administración, pleitos y cobranzas y para ser representada ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares; así como acordar la delegación de las facultades que correspondan, en los términos que establezca el estatuto orgánico. Tratándose de actos de dominio sobre inmuebles destinados a la Comisión o para otorgar poderes para dichos efectos, se requerirá la autorización previa del Pleno. El Presidente estará facultado para promover, previa aprobación del Pleno, controversias constitucionales en términos de lo previsto por el inciso l), de la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Otorgar poderes a nombre de la Comisión para actos de dominio, de administración, pleitos y cobranzas y para ser representada ante cualquier autoridad administrativa o judicial, ante tribunales laborales o ante particulares; así como acordar la delegación de las facultades que correspondan, en los términos que establezca el estatuto orgánico. Tratándose de actos de dominio sobre inmuebles destinados a la Comisión o para otorgar poderes para dichos efectos, se requerirá la autorización previa del Pleno;
 
 III. Dirigir y administrar los recursos humanos, financieros y materiales de la Comisión e informar al Pleno sobre la marcha de la administración en los términos que determine el estatuto orgánico;
 
@@ -362,11 +428,13 @@ V. Convocar y conducir las sesiones del Pleno;
 
 VI. Ejecutar los acuerdos y resoluciones adoptados por el Pleno;
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Dar cuenta al Comité de Evaluación previsto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y a la Cámara de Diputados, de las vacantes que se produzcan en el Pleno o en el Órgano Interno de Control, según corresponda, a efectos de su nombramiento;
+VII. Dar cuenta a la persona titular del Ejecutivo Federal de las vacantes que se produzcan en el Pleno, a efectos de su nombramiento;
 
-VIII. Proponer anualmente al Pleno el anteproyecto de presupuesto de la Comisión para su aprobación y remitirlo, una vez aprobado, a la Secretaría de Hacienda y Crédito Público para su inclusión en el proyecto de decreto de presupuesto de egresos de la federación;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Proponer anualmente al Pleno el anteproyecto de presupuesto de la Comisión para su aprobación;
 
 IX. Presentar para aprobación del Pleno, dentro del mes de enero de cada año, el proyecto del programa anual de trabajo de la Comisión y trimestralmente los proyectos de informes de actividades;
 
@@ -388,9 +456,11 @@ Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo qu
 
 Los Comisionados serán sujetos de juicio político en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Segundo de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 23.
 
-El Senado de la República podrá remover a los Comisionados de su encargo, por las siguientes causas graves:
+La persona titular del Ejecutivo Federal podrá remover a las Personas Comisionadas de su encargo, por las siguientes causas graves:
 
 I. El desempeño de algún empleo, cargo o comisión, distinto de los propios de su cargo como Comisionado y con excepción de los cargos docentes;
 
@@ -408,35 +478,35 @@ VII. Someter a sabiendas, a la consideración del Pleno, información falsa o al
 
 VIII. No excusarse de conocer y votar los asuntos en que tenga algún interés directo o indirecto.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-El Órgano Interno de Control, cuando tenga conocimiento de los hechos que actualicen alguna de las causas de procedencia de la remoción y considere que existen elementos de prueba, notificará inmediatamente y sin demora a la Cámara de Senadores del Congreso de la Unión.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En estos casos, la Cámara de Senadores resolverá sobre la remoción, conforme al siguiente procedimiento:
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-a) La Cámara de Senadores acordará la creación de una Comisión Especial que fungirá como instructora en el procedimiento;
-
-b) La Comisión Especial citará al Comisionado sujeto al proceso de remoción a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de responsabilidad en los términos de esta Ley y demás disposiciones aplicables. En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; los actos u omisiones que se le imputen, y el derecho de éste a comparecer asistido de un defensor. La notificación a que se refiere este inciso se practicará de manera personal. Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días;
-
-c) Concluida la audiencia, se concederá al Comisionado sujeto al proceso de remoción un plazo de diez días para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen, y
-
-d) Desahogadas las pruebas que fueren admitidas, la Comisión Especial dentro de los cuarenta y cinco días siguientes someterá el dictamen con proyecto de resolución al Pleno de la Cámara de Senadores.
-
-La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión. La Mesa Directiva será la encargada de notificar la resolución correspondiente y ejecutar la remoción, sin perjuicio de cualquier otra sanción a que hubiere lugar de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+La remoción requerirá del voto de la mayoría de las personas integrantes presentes del Senado de la República o, en sus recesos, de la Comisión Permanente.
 
 #### Sección IV. De las Prohibiciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 24.
 
-Los Comisionados estarán impedidos y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, los Comisionados estarán impedidos para conocer de un asunto en el que tengan interés directo o indirecto.
+Las Personas Comisionadas estarán impedidas y deberán excusarse inmediatamente de conocer asuntos en los que existan una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad. Para efectos de lo anterior, las Personas Comisionadas estarán impedidas para conocer de un asunto en el que tengan interés directo o indirecto.
 
-Se considerará que existe interés directo o indirecto cuando un Comisionado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+Se considerará que existe interés directo o indirecto cuando una Persona Comisionada:
 
 I. Tenga parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados o sus representantes;
 
-II. Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o sus parientes en los grados que expresa la fracción I de este artículo;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Él, su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredero, legatario, donatario o fiador de alguno de los interesados o sus representantes, si aquéllos han aceptado la herencia, el legado o la donación;
+II. Tenga interés personal, familiar o de negocios en el asunto, incluyendo aquellos de los que pueda resultar algún beneficio para la Persona Comisionada, su cónyuge o sus parientes en los grados que expresa la fracción I de este artículo;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. La Persona Comisionada, su cónyuge o alguno de sus parientes en línea recta sin limitación de grado, sea heredera, legataria, donataria o fiadora de alguna de las personas interesadas o sus representantes, si aquéllas han aceptado la herencia, el legado o la donación;
 
 IV. Haya sido perito, testigo, apoderado, patrono o defensor en el asunto de que se trate, o haya gestionado anteriormente el asunto en favor o en contra de alguno de los interesados, y
 
@@ -444,7 +514,9 @@ V. Haya fijado pública e inequívocamente el sentido de su voto antes de que el
 
 Sólo podrán invocarse como causales de impedimento para conocer asuntos que se tramiten ante la Comisión las enumeradas en este artículo. Bajo ninguna circunstancia podrá decretarse la recusación por la expresión de una opinión técnica, ni por explicar públicamente la fundamentación y motivación de una resolución dictada por la Comisión o por haber emitido un voto particular.
 
-Los Comisionados deberán excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en este artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa del impedimento en que se funde, en cuyo caso el Pleno calificará la excusa, sin necesidad de dar intervención a los Agentes Económicos con interés en el asunto.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las Personas Comisionadas deberán excusarse del conocimiento de los asuntos en que se presente alguno de los impedimentos señalados en este artículo en cuanto tengan conocimiento de su impedimento, expresando concretamente la causa del impedimento en que se funde, en cuyo caso el Pleno calificará la excusa, sin necesidad de dar intervención a los Agentes Económicos con interés en el asunto.
 
 ###### Artículo 25.
 
@@ -454,15 +526,21 @@ Para tal efecto, deberá convocarse a todos los Comisionados, pero la entrevista
 
 De cada entrevista se llevará un registro que al menos deberá contener el lugar, la fecha, la hora de inicio y la hora de conclusión de la entrevista; los nombres completos de todas las personas que estuvieron presentes en la misma y los temas tratados.
 
-Esta información deberá publicarse en el sitio de Internet de la Comisión.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, las demás Personas Comisionadas, la persona titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de una Persona Comisionada.
 
-Las entrevistas serán grabadas y almacenadas en medios electrónicos, ópticos o de cualquier otra tecnología, manteniéndose como información reservada, salvo para las otras partes en el procedimiento en forma de juicio, los demás Comisionados, el titular del Órgano Interno de Control y el Senado de la República en caso de que esté sustanciando un procedimiento de remoción de un Comisionado. La grabación de cada entrevista deberá estar a disposición de los demás Comisionados.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Los Comisionados no podrán ser recusados por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.
+La grabación de cada entrevista deberá estar a disposición de las demás Personas Comisionadas.
 
-Lo dispuesto en este artículo será sin perjuicio de la participación de los Comisionados en foros y eventos públicos.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las Personas Comisionadas no podrán ser recusadas por las manifestaciones que realicen durante las entrevistas, salvo que de éstas se advierta que se vulnera el principio de imparcialidad. En su caso, la recusación deberá ser calificada por el Pleno.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Lo dispuesto en este artículo será sin perjuicio de la participación de las Personas Comisionadas en foros y eventos públicos.
 
 El Pleno emitirá las demás reglas de contacto aplicables a la Autoridad Investigadora en el estatuto orgánico.
 
@@ -484,9 +562,21 @@ La Autoridad Investigadora tendrá un titular que la representará y contará co
 
 La Autoridad Investigadora tendrá las siguientes atribuciones:
 
-I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes las denuncias que se presenten ante la Comisión por probables violaciones a esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Conducir las investigaciones sobre probables violaciones a esta Ley, para lo cual podrá requerir informes y documentos necesarios, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;
+I. Recibir y, en su caso, dar trámite o desechar por notoriamente improcedentes las denuncias o solicitudes en términos de los artículos 94 y 96 de esta Ley que se presenten ante la Comisión por probables violaciones a esta Ley o restricciones al funcionamiento eficiente del mercado;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Conducir las investigaciones sobre probables violaciones a esta Ley, así como los procedimientos previstos en los artículos 94 y 96 de esta Ley, para lo cual podrá requerir informes y documentos necesarios, realizar diligencias de inspección, realizar encuestas o recolectar datos a través de cualquier herramienta, citar a declarar a quienes tengan relación con los asuntos y, en su caso, realizar visitas de verificación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis. Participar en el procedimiento seguido en forma de juicio, en términos de esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis 1. Tramitar las etapas que le correspondan del procedimiento previsto en el artículo 141 de esta Ley, de conformidad con lo establecido en el estatuto orgánico;
 
 III. Solicitar a cualquier Autoridad Pública o autoridad en el extranjero la información y documentación que requiera para indagar sobre posibles violaciones a esta Ley;
 
@@ -504,37 +594,69 @@ VIII. Procurar la aplicación y cumplimiento de esta Ley, sus Disposiciones Regu
 
 IX. Recabar declaraciones de testigos o de Agentes Económicos, y demás medios de convicción necesarios, para lo cual podrá solicitar el auxilio de las Autoridades Públicas;
 
-X. Coadyuvar con el Pleno en la elaboración de Disposiciones Regulatorias, así como los proyectos de directrices, guías, lineamientos y criterios técnicos a que se refiere la fracción XXII del artículo 12 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XI. Ejercer las demás atribuciones que se establezcan en la presente Ley, en las Disposiciones Regulatorias y en el estatuto orgánico de la Comisión.
+X. Coadyuvar con el Pleno en la elaboración de Disposiciones Regulatorias, así como los proyectos de guías, lineamientos y criterios técnicos a que se refiere esta Ley;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Tramitar el Procedimiento de Calificación, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XII. Tramitar los procedimientos previstos en los artículos 100, 102 y 103 de esta Ley, en el ámbito de sus atribuciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII. Tramitar incidentes que puedan derivarse del ejercicio de sus atribuciones, en términos de lo previsto en la presente Ley y su Reglamento, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIV. Ejercer las demás atribuciones que se establezcan en la presente Ley, su Reglamento, las Disposiciones Regulatorias y en el estatuto orgánico de la Comisión.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 29.
 
-Para el desempeño de sus funciones, la Autoridad Investigadora podrá aplicar las medidas de apremio establecidas en esta Ley.
+Para el desempeño de sus funciones, la Autoridad Investigadora podrá aplicar separada o indistintamente las medidas de apremio establecidas en esta Ley, según corresponda.
 
 ### Capítulo III. De su Designación y Remoción
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 30.
 
-El titular de la Autoridad Investigadora será designado y removido por el Pleno de la Comisión por mayoría calificada de cinco Comisionados.
+La persona titular de la Autoridad Investigadora será designada y removida por el Pleno de la Comisión por mayoría de tres Personas Comisionadas, siendo necesario el voto favorable de la Persona Comisionada Presidente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 31.
 
-El titular de la Autoridad Investigadora durará en su encargo cuatro años, pudiendo ser reelecto por una sola vez, previa evaluación objetiva de su desempeño.
+La persona titular de la Autoridad Investigadora durará en su encargo cuatro años, pudiendo ser reelecta por una sola vez, previa evaluación objetiva de su desempeño.
 
 Para ser titular de la Autoridad Investigadora se deberán cumplir los siguientes requisitos:
 
-I. Ser ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+I. Ser persona ciudadana mexicana, en pleno goce de sus derechos civiles y políticos;
 
-III. Poseer al día de la designación, título profesional con antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Tener cuando menos treinta años cumplidos al día de la designación;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Poseer al día de la designación, título profesional expedido por autoridad o institución legalmente facultada para ello;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
-V. Contar con al menos tres años de experiencia en el servicio público;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. Acreditar en los términos del artículo 30 de esta Ley, los conocimientos técnicos necesarios para el ejercicio del cargo;
+V. Contar con al menos cinco años de experiencia en el servicio público;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Haberse desempeñado, cuando menos ocho años, en forma destacada en actividades profesionales, de servicio público o académicas relacionadas con materias afines a las de competencia económica;
 
 VII. No haber ocupado ningún empleo, cargo o función directiva o haber representado de cualquier forma los intereses de algún Agente Económico que haya estado sujeto a alguno de los procedimientos previstos en esta Ley durante los tres años previos a su nombramiento.
 
@@ -542,9 +664,11 @@ Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo en
 
 El incumplimiento a esta disposición se sancionará en términos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 32.
 
-El titular de la autoridad investigadora podrá ser removido del cargo por el Pleno por mayoría calificada de cinco votos, por las siguientes causas:
+La persona titular de la Autoridad Investigadora podrá ser removida del cargo por el Pleno por las siguientes causas:
 
 I. Incumplir las resoluciones definitivas del Pleno;
 
@@ -558,21 +682,27 @@ Para efectos de éste artículo, se considera como causa grave incumplir sistem�
 
 Lo anterior con independencia de las responsabilidades a que se refiere el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 33.
 
-En el desempeño de su encargo, el titular de la Autoridad Investigadora será independiente en sus decisiones y funcionamiento, profesional en su desempeño e imparcial en sus actuaciones, sujetándose a los principios de legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia, así como a las reglas de contacto que se establezcan en el estatuto orgánico.
+En el desempeño de su encargo, la persona titular de la Autoridad Investigadora será independiente en sus decisiones y funcionamiento, profesional en su desempeño e imparcial en sus actuaciones, sujetándose a los principios de legalidad, objetividad, certeza, honestidad, exhaustividad y transparencia, así como a las reglas de contacto que se establezcan en el estatuto orgánico.
 
-### Capítulo IV. De la Responsabilidad del Titular de la Autoridad Investigadora
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+### Capítulo IV. De la Responsabilidad de la Persona Titular de la Autoridad Investigadora
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 34.
 
-Cuando las quejas o denuncias se presenten en contra del titular de la Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado.
+Cuando las quejas o denuncias se presenten en contra de la persona titular de la Autoridad Investigadora, el Órgano Interno de Control resolverá lo conducente únicamente cuando el trámite de los casos a los que se refieran las denuncias haya finalizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 35.
 
-Para efectos de esta Ley, además de los supuestos establecidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el titular de la Autoridad Investigadora podrá ser destituido del cargo por las siguientes causas de responsabilidad administrativa:
+Para efectos de esta Ley, además de los supuestos establecidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la persona titular de la Autoridad Investigadora podrá ser destituida del cargo por las siguientes causas de responsabilidad administrativa:
 
 I. Participar en actos de campaña de partidos políticos en representación de la Comisión;
 
@@ -584,227 +714,105 @@ IV. Contravenir, a sabiendas, las disposiciones del Pleno sobre las reglas de co
 
 ### Capítulo V. De las Prohibiciones
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 36.
 
-El titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedido y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.
+La persona titular de la Autoridad Investigadora se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes. Asimismo, estará impedida y deberá excusarse inmediatamente de conocer asuntos en los que exista una o varias situaciones que razonablemente le impidan resolver un asunto de su competencia con plena independencia, profesionalismo e imparcialidad.
 
-Para efectos de lo anterior, el titular de la Autoridad Investigadora estará impedido para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para los Comisionados en esta Ley.
+Para efectos de lo anterior, la persona titular de la Autoridad Investigadora estará impedida para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos para las Personas Comisionadas en esta Ley.
 
-En caso de impedimento del titular de la Autoridad Investigadora para conocer de un asunto, dicho titular será suplido por el servidor público que señale el estatuto orgánico de la Comisión.
+En caso de impedimento de la persona titular de la Autoridad Investigadora para conocer de un asunto, dicha persona titular será suplida por la persona servidora pública que señale el estatuto orgánico de la Comisión.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ## TÍTULO IV. DEL ÓRGANO INTERNO DE CONTROL DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-### Capítulo I. De su Integración y Funcionamiento
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+### Capítulo I. De su Integración y Funcionamiento
 
 ###### Artículo 37.
 
-El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos de la Comisión y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal Federal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos federales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
-
-El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones en materia de libre concurrencia y competencia económica que esta Ley y las demás disposiciones aplicables confieren a los servidores públicos de la Comisión.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 38.
 
-El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto, el que se determinará en el estatuto orgánico de la Comisión.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ### Capítulo II. De sus Atribuciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
-
 ###### Artículo 39.
 
-El Órgano Interno de Control tendrá las siguientes atribuciones:
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-I. Las que contempla la Ley General de Responsabilidades Administrativas;
-
-II. Verificar que el ejercicio de gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
-
-III. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-IV. Presentar al Pleno de la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión;
-
-V. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
-
-VI. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
-
-VII. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-VIII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el Órgano Interno de Control;
-
-IX. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión, empleando la metodología que determine;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-X. Recibir quejas y denuncias conforme a las leyes aplicables;
-
-XI. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XII. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XIII. Solicitar la información y efectuar visitas a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-XIV. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicios y obras públicas;
-
-XV. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XVI. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión de mandos medios y superiores, en los términos de la normativa aplicable;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-XVII. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
-
-XVIII. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XIX. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XX. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XXI. (DEROGADA, D.O.F. 27 DE ENERO DE 2017)
-
-XXII. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
-
-XXIII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o recursos;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-XXIV. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
-
-XXV. Presentar al Pleno de la Comisión los informes previo y anual de resultados de su gestión, y comparecer ante el mismo, cuando así lo requiera el Comisionado Presidente;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-XXVI. Presentar al Pleno de la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas, y
-
-XXVII. Las demás que le confieran otros ordenamientos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ### Capítulo III. De su Designación
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
-
 ###### Artículo 40.
 
-El titular del Órgano Interno de Control será designado por la Cámara de Diputados del Congreso de la Unión, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 41.
 
-El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
-
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-IV. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-V. Contar con reconocida solvencia moral;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión, o haber fungido como consultor o auditor externo de la Comisión en lo individual durante ese periodo o haber prestado los servicios referidos a un agente regulado por la legislación correspondiente a la Comisión;
-
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2017)</small>
-
-VII. No haber ocupado ningún cargo directivo o haber representado de cualquier forma los intereses regulados por la legislación correspondiente a la Comisión, durante los cuatro años previos a su nombramiento;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE ENERO DE 2017)</small>
-
-VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y
-
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
-
-IX. No haber sido Secretario de Estado, Procurador o Fiscal General de la República o de Justicia de alguna de las entidades federativas, Oficial Mayor de un ente público, Senador, Diputado Federal, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los cuatro años anteriores a la propia designación.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 42.
 
-El titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designado por un periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
-
-Tendrá un nivel jerárquico igual al de un Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Entidad de Fiscalización Superior de la Federación a que se refiere el artículo 79 de la Constitución Política de los Estados Unidos Mexicanos.
-
-Concluido su encargo, por un plazo equivalente a una tercera parte del tiempo en que haya ejercido su función, el titular del Órgano Interno de Control no podrá desempeñarse como consejero, administrador, director, gerente, directivo, ejecutivo, agente, representante o apoderado de un Agente Económico que haya estado sujeto a alguno de los procedimientos sancionatorios previstos en esta Ley en el tiempo en que duró su encargo.
-
-El titular del Órgano Interno de Control deberá rendir informe semestral y anual de actividades a la Comisión, del cual marcará copia a la Cámara de Diputados.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 43.
 
-En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ### Capítulo IV. De la Responsabilidad del Titular del Órgano Interno de Control
 
-> <small>(REFORMAD, D.O.F. 27 DE ENERO DE 2017)</small>
-
 ###### Artículo 44.
 
-El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad en términos de la Ley General de Responsabilidades Administrativas y podrá ser sancionado de conformidad con el procedimiento previsto en la normatividad aplicable.
-
-Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión, serán sancionados por el titular del Órgano Interno de Control o el servidor público en quien delegue la facultad, en términos de la Ley General de Responsabilidades Administrativas.
-
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 45.
 
-El titular del Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos de la Comisión, de conformidad con la Ley General del Sistema Nacional Anticorrupción y la Ley General de Responsabilidades Administrativas.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ### Capítulo V. De las Prohibiciones
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2017)</small>
-
 ###### Artículo 46.
 
-El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
-Para efectos de lo anterior, el titular del Órgano Interno de Control estará impedido para conocer de un asunto cuando se actualice alguno de los casos de impedimento previstos en esta Ley para los Comisionados.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En caso de impedimento del titular del Órgano Interno de Control para conocer de un asunto, dicho titular será suplido por el servidor público con el segundo nivel de mayor jerarquía del Órgano Interno de Control, de conformidad con lo establecido en el estatuto orgánico de la Comisión.
-
-## TÍTULO V. DE LA ADMINISTRACIÓN DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
+## TÍTULO V. DE LA ADMINISTRACIÓN DE LA COMISIÓN NACIONAL ANTIMONOPOLIO
 
 ### Capítulo I. Del Presupuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 47.
 
-De conformidad con lo dispuesto en el artículo 5 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Comisión se sujetará para su tratamiento presupuestario a lo siguiente:
+La Comisión se sujetará a lo dispuesto por el artículo 5, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables.
 
-I. Aprobará su proyecto de presupuesto y deberá enviarlo a la Secretaría de Hacienda y Crédito Público para su integración al proyecto de Presupuesto de Egresos de la Federación, observando los criterios generales de política económica;
+I. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
-II. Ejercerá su presupuesto observando lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, sin sujetarse a las disposiciones generales emitidas por las Secretarías de Hacienda y Crédito Público y de la Función Pública. Dicho ejercicio deberá realizarse con base en los principios de eficiencia, eficacia y transparencia, y estará sujeto a la evaluación y control de los órganos correspondientes;
+II. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
-III. Autorizará las adecuaciones a su presupuesto sin requerir la autorización de la Secretaría de Hacienda y Crédito Público, siempre y cuando no rebasen el techo global de su presupuesto aprobado;
+III. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
-IV. Realizará sus propios pagos;
+IV. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
-V. Determinará los ajustes que correspondan en su presupuesto en caso de disminución de ingresos, observando en lo conducente lo dispuesto en el artículo 21 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y
+V. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
-VI. Llevará la contabilidad y elaborará sus informes conforme a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y deberá enviarlos a la Secretaría de Hacienda y Crédito Público para su integración a los informes trimestrales y a la Cuenta Pública.
+VI. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
-La Cámara de Diputados garantizará la suficiencia presupuestal a fin de permitirle a la Comisión el ejercicio eficaz y oportuno de sus atribuciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ### Capítulo II. Del Patrimonio
 
@@ -858,9 +866,11 @@ Todos los servidores públicos que integran la plantilla laboral de la Comisión
 
 ### Capítulo V. Del Régimen de Responsabilidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 51.
 
-Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Comisión, estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y será sujeto a las sanciones establecidas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Comisión, estará sujeto al régimen de responsabilidades del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y será sujeto a las sanciones establecidas en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables en la materia.
 
 Los servidores públicos de la Comisión estarán sujetos a las reglas de contacto que determine la Comisión en su estatuto orgánico.
 
@@ -876,9 +886,11 @@ Están prohibidos los monopolios, las prácticas monopólicas, las concentracion
 
 ### Capítulo II. De las Prácticas Monopólicas Absolutas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 53.
 
-Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos o combinaciones entre Agentes Económicos competidores entre sí, cuyo objeto o efecto sea cualquiera de las siguientes:
+Se consideran ilícitas las prácticas monopólicas absolutas, consistentes en los contratos, convenios, arreglos, combinaciones o intercambios de información entre Agentes Económicos que sean competidores actuales o potenciales entre sí, cuyo objeto o efecto sea cualquiera de las siguientes:
 
 I. Fijar, elevar, concertar o manipular el precio de venta o compra de bienes o servicios al que son ofrecidos o demandados en los mercados;
 
@@ -888,7 +900,7 @@ III. Dividir, distribuir, asignar o imponer porciones o segmentos de un mercado 
 
 IV. Establecer, concertar o coordinar posturas o la abstención en las licitaciones, concursos, subastas o almonedas, y
 
-V. Intercambiar información con alguno de los objetos o efectos a que se refieren las anteriores fracciones.
+V. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
 Las prácticas monopólicas absolutas serán nulas de pleno derecho, y en consecuencia, no producirán efecto jurídico alguno y los Agentes Económicos que incurran en ellas se harán acreedores a las sanciones establecidas en esta Ley, sin perjuicio de la responsabilidad civil y penal que, en su caso, pudiere resultar.
 
@@ -902,7 +914,9 @@ I. Encuadre en alguno de los supuestos a que se refiere el artículo 56 de esta 
 
 II. Lleve a cabo uno o más Agentes Económicos que individual o conjuntamente tengan poder sustancial en el mismo mercado relevante en que se realiza la práctica, y
 
-III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado, desplazar indebidamente a otros Agentes Económicos, impedirles sustancialmente su acceso o establecer ventajas exclusivas en favor de uno o varios Agentes Económicos.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Tenga o pueda tener como objeto o efecto, en el mercado relevante o en algún mercado relacionado: a) desplazar indebidamente a otros Agentes Económicos; b) impedir sustancialmente el acceso de otros Agentes Económicos; c) establecer ventajas exclusivas en favor de uno o varios Agentes Económicos, o d) limitar indebidamente la capacidad de otros Agentes Económicos para competir en los mercados.
 
 ###### Artículo 55.
 
@@ -978,11 +992,15 @@ IV. Las restricciones normativas de carácter federal, local o internacional que
 
 V. Los demás que se establezcan en las Disposiciones Regulatorias, así como los criterios técnicos que para tal efecto emita la Comisión.
 
-#### Sección II. De la Determinación del Poder Sustancial
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+#### Sección II. De la Determinación del Poder Sustancial o Poder Sustancial Conjunto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 59.
 
-Para determinar si uno o varios Agentes Económicos tienen poder sustancial en el mercado relevante, o bien, para resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de competencia o libre concurrencia a que hacen referencia ésta u otras Leyes, reglamentos o disposiciones administrativas, deberán considerarse los siguientes elementos:
+Para determinar si uno o varios Agentes Económicos tienen poder sustancial o poder sustancial conjunto en el mercado relevante, o bien, para resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de competencia o libre concurrencia a que hacen referencia ésta u otras leyes, reglamentos o disposiciones administrativas, deberán considerarse los siguientes elementos:
 
 I. Su participación en dicho mercado y si pueden fijar precios o restringir el abasto en el mercado relevante por sí mismos, sin que los agentes competidores puedan, actual o potencialmente, contrarrestar dicho poder.
 
@@ -996,7 +1014,29 @@ IV. Las posibilidades de acceso del o de los Agentes Económicos y sus competido
 
 V. El comportamiento reciente del o los Agentes Económicos que participan en dicho mercado, y
 
-VI. Los demás que se establezcan en las Disposiciones Regulatorias, así como los criterios técnicos que para tal efecto emita la Comisión.
+VI. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. El grado de posicionamiento de los bienes o servicios en el mercado relevante;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. La falta de acceso a importaciones o la existencia de costos elevados de internación, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. La existencia de diferenciales elevados en costos que pudieran enfrentar los consumidores al acudir a otros proveedores.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 59 Bis.
+
+Para determinar si dos o más Agentes Económicos independientes entre sí tienen poder sustancial conjunto, la Comisión debe considerar, adicionalmente a lo señalado en el artículo anterior, lo siguiente:
+
+I. Si los Agentes Económicos de que se trate se distinguen del resto de los Agentes Económicos que participan en el mercado relevante, tomando en cuenta los factores que propicien incentivos comunes o comportamiento estratégico interdependiente, o
+
+II. Que dichos Agentes Económicos muestren un comportamiento similar.
 
 #### Sección III. De la Determinación del Insumo Esencial
 
@@ -1004,7 +1044,9 @@ VI. Los demás que se establezcan en las Disposiciones Regulatorias, así como l
 
 Para determinar la existencia de insumo esencial, la Comisión deberá considerar:
 
-I. Si el insumo es controlado por uno, o varios Agentes Económicos con poder sustancial o que hayan sido determinados como preponderantes por el Instituto Federal de Telecomunicaciones;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Si el insumo es controlado por uno, o varios Agentes Económicos con poder sustancial o que hayan sido determinados como Preponderantes;
 
 II. Si no es viable la reproducción del insumo desde un punto de vista técnico, legal o económico por otro Agente Económico;
 
@@ -1042,7 +1084,13 @@ III. Los efectos de la concentración en el mercado relevante con respecto a los
 
 IV. La participación de los involucrados en la concentración en otros agentes económicos y la participación de otros agentes económicos en los involucrados en la concentración, siempre que dichos agentes económicos participen directa o indirectamente en el mercado relevante o en mercados relacionados. Cuando no sea posible identificar dicha participación, esta circunstancia deberá quedar plenamente justificada;
 
-V. Los elementos que aporten los agentes económicos para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Los elementos que aporten los Agentes Económicos para acreditar la mayor eficiencia del mercado que se lograría derivada de la concentración y que incidirá favorablemente en el proceso de competencia y libre concurrencia.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para dichos efectos, en términos de las Disposiciones Regulatorias que al efecto se emitan, el Agente Económico deberá demostrar que las ganancias en eficiencia del mercado que se derivarán específicamente de la concentración superarán de forma continuada sus posibles efectos anticompetitivos en dicho mercado y resultarán en una mejora al bienestar del consumidor, y
 
 VI. Los demás criterios e instrumentos analíticos que se establezcan en las Disposiciones Regulatorias y los criterios técnicos.
 
@@ -1052,9 +1100,17 @@ La Comisión considerará como indicios de una concentración ilícita, que la c
 
 I. Confiera o pueda conferir al fusionante, al adquirente o Agente Económico resultante de la concentración, poder sustancial en los términos de esta Ley, o incremente o pueda incrementar dicho poder sustancial, con lo cual se pueda obstaculizar, disminuir, dañar o impedir la libre concurrencia y la competencia económica;
 
-II. Tenga o pueda tener por objeto o efecto establecer barreras a la entrada, impedir a terceros el acceso al mercado relevante, a mercados relacionados o a insumos esenciales, o desplazar a otros Agentes Económicos, o
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Tenga por objeto o efecto facilitar sustancialmente a los participantes en dicha concentración el ejercicio de conductas prohibidas por esta Ley, y particularmente, de las prácticas monopólicas.
+II. Tenga o pueda tener por objeto o efecto establecer barreras a la entrada, impedir a terceros el acceso al mercado relevante, a mercados relacionados o a insumos esenciales, o desplazar a otros Agentes Económicos;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Tenga o pueda tener por objeto o efecto facilitar sustancialmente a los participantes en dicha concentración el ejercicio de conductas prohibidas por esta Ley, y particularmente, de las prácticas monopólicas, o
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Tenga o pueda tener por objeto o efecto afectar sustancialmente las condiciones de competencia y libre concurrencia en el mercado relevante o mercados relacionados.
 
 #### Sección IV. De las Concentraciones que No Pueden ser Investigadas
 
@@ -1062,7 +1118,9 @@ III. Tenga por objeto o efecto facilitar sustancialmente a los participantes en 
 
 No podrán ser investigadas con fundamento en esta Ley, las concentraciones que hayan obtenido resolución favorable por parte de la Comisión, excepto cuando dicha resolución se haya obtenido con base en información falsa o bien cuando la resolución haya quedado sujeta a condiciones posteriores y las mismas no se hayan cumplido en el plazo establecido para tal efecto.
 
-Tampoco podrán ser investigadas las concentraciones que no requieran ser previamente notificadas a la Comisión, una vez transcurrido un año de su realización.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Tampoco podrán ser investigadas las concentraciones que no requieran ser previamente notificadas a la Comisión, una vez transcurridos tres años a partir de su realización.
 
 # LIBRO TERCERO. DE LOS PROCEDIMIENTOS
 
@@ -1114,6 +1172,14 @@ El acuerdo de la Autoridad Investigadora que tenga por no presentada la denuncia
 
 Si no se emite acuerdo alguno dentro de los plazos antes señalados, la investigación se entenderá iniciada. En este caso, la Autoridad Investigadora, a solicitud del denunciante o de oficio, deberá emitir el acuerdo de admisión.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el artículo 68 de esta Ley, se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio por prácticas monopólicas o concentraciones ilícitas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existe una causa objetiva en términos del artículo 71 de esta Ley, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.
+
 ###### Artículo 70.
 
 La Autoridad Investigadora desechará la denuncia por notoriamente improcedente, cuando:
@@ -1138,17 +1204,25 @@ Es causa objetiva cualquier indicio de la existencia de prácticas monopólicas 
 
 El periodo de investigación comenzará a contar a partir de la emisión del acuerdo de inicio respectivo y no podrá ser inferior a treinta ni exceder de ciento veinte días.
 
-Este periodo podrá ser ampliado hasta en cuatro ocasiones, por periodos de hasta ciento veinte días, cuando existan causas debidamente justificadas para ello a juicio de la Autoridad Investigadora.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Este periodo podrá ser ampliado hasta en tres ocasiones, por periodos de hasta ciento veinte días, cuando existan causas debidamente justificadas para ello a juicio de la Autoridad Investigadora.
 
 ###### Artículo 72.
 
 La Autoridad Investigadora podrá ordenar la acumulación de expedientes que se encuentren relacionados por razón de la materia. De igual forma, podrá ordenar la apertura de nuevas investigaciones por hechos diversos y autónomos a los inicialmente investigados, según resulte más adecuado para la pronta y expedita tramitación de las investigaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 73.
 
-La Autoridad Investigadora podrá requerir de cualquier persona los informes y documentos que estime necesarios para realizar sus investigaciones, debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante, citar a declarar a quienes tengan relación con los hechos de que se trate, así como ordenar y practicar visitas de verificación, en donde se presuma que existen elementos para la debida integración de la investigación.
+La Autoridad Investigadora podrá requerir de cualquier persona, los informes y documentos que estime necesarios para realizar sus investigaciones, debiendo señalar el carácter del requerido como denunciado o tercero coadyuvante; citar a declarar a quienes tengan relación con los hechos de que se trate; ordenar y practicar visitas de verificación en donde se presuma que existen elementos para la debida integración de la investigación, realizar diligencias de inspección o recolectar datos a través de cualquier herramienta, con el fin de allegarse de información para sus investigaciones.
 
 Las personas y las Autoridades Públicas tendrán un plazo de diez días para presentar los informes y documentos requeridos por la Autoridad Investigadora, que a petición de las personas y las Autoridades Públicas requeridas, podrá ampliarse por una sola ocasión hasta por diez días más, si así lo amerita la complejidad o volumen de la información requerida.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En ningún caso lo dispuesto por este artículo implica la obligación de la Comisión de revelar las líneas de investigación o cualquier otra información relacionada con la investigación. El carácter de la persona requerida o compareciente, no prejuzga sobre el carácter que tendrá con posterioridad en la investigación o el procedimiento seguido en forma de juicio.
 
 ###### Artículo 74.
 
@@ -1244,21 +1318,69 @@ En cualquier momento la Autoridad Investigadora podrá presentar denuncia o quer
 
 Si de la investigación se desprenden medios de convicción que presuman una afectación que provoca daños y perjuicios a los consumidores, se dará vista del dictamen de probable responsabilidad a la Procuraduría para los efectos a que haya lugar.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Una vez que se emita el dictamen de probable responsabilidad, se considera que la Autoridad Investigadora tiene conocimiento de las probables conductas violatorias y de quienes probablemente las cometieron, para efectos de lo establecido en el artículo 107 del Código Penal Federal.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión deberá emitir Disposiciones Regulatorias que detallen los criterios y supuestos en los que se presentará querella por el delito previsto en el artículo 254 Bis del Código Penal Federal ante la Fiscalía General de la República.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+#### Sección II Bis. Del Procedimiento de Calificación
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 77 Bis.
+
+Los Agentes Económicos podrán solicitar a la Comisión que se excluya del procedimiento correspondiente, la información y documentos que hubieran proporcionado o que la Comisión haya obtenido en donde consten comunicaciones con sus personas abogadas que tienen como finalidad la obtención de asesoría legal.
+
+El procedimiento se tramitará conforme al procedimiento previsto en esta Ley y su Reglamento, y se suspenderá la investigación o el procedimiento correspondiente hasta que se resuelva la solicitud a la que hace referencia el párrafo anterior.
+
+La Comisión establecerá en su estatuto orgánico las características de los comités calificadores encargados de dar trámite y resolver la solicitud que realicen los Agentes Económicos.
+
+La Comisión únicamente considerará como información objeto de la protección que establece este artículo, aquella que sea intercambiada con una persona abogada con la que el Agente Económico solicitante no cuente con una relación laboral.
+
+Una vez resuelta la solicitud, si la Comisión determina que fue presentada con el único fin de dilatar el procedimiento correspondiente, podrá imponer las sanciones previstas en el artículo 127, fracción III, de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 77 Bis 1.
+
+El procedimiento de calificación se tramitará conforme a lo siguiente:
+
+I. Una vez recibida la solicitud, se remitirá a la Autoridad Investigadora o al Órgano encargado de la instrucción, según corresponda, para que emita un acuerdo en el que remita al comité calificador correspondiente.
+
+II. El Comité Calificador analizará la solicitud dentro de los quince días siguientes a aquél en que se le notifique el acuerdo a que hace referencia la fracción anterior y deberá dictar un acuerdo que:
+
+a) Admita la solicitud, o
+
+b) Prevenga por única ocasión al solicitante, cuando el escrito de solicitud omita alguno de los requisitos previstos en el Reglamento.
+
+Transcurrido el plazo para responder la prevención sin que se desahogue o se cumpla con los requisitos establecidos en el Reglamento, la solicitud se tendrá por no presentada, sin perjuicio de que pueda presentarse nuevamente por única ocasión dentro de los diez días siguientes contados a partir del día siguiente a aquél en que surta efectos la notificación del acuerdo de no presentación.
+
+III. Una vez que surta efectos la notificación del acuerdo de admisión, el Comité Calificador deliberará en forma colegiada y decidirá por mayoría de votos si la información analizada es sujeta de exclusión en términos del artículo 77 Bis de esta Ley.
+
 #### Sección III. De la Conclusión de la Investigación
 
-#### Sección I. Del Emplazamiento
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 78.
 
-Concluida la investigación, la Autoridad Investigadora, en un plazo no mayor de sesenta días, presentará al Pleno un dictamen que proponga:
+Concluida la investigación, la Autoridad Investigadora, en un plazo no mayor de treinta días, presentará al Pleno un dictamen que proponga:
 
 I. El inicio del procedimiento en forma de juicio, por existir elementos objetivos que hagan probable la responsabilidad del o los agentes económicos investigados, o
 
 II. El cierre del expediente en caso de que no se desprendan elementos para iniciar el procedimiento en forma de juicio.
 
-En el supuesto previsto en la fracción I, el Pleno ordenará al órgano encargado de la instrucción del procedimiento conforme al estatuto orgánico, el inicio de éste mediante el emplazamiento a los probables responsables.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En el caso de la fracción II, el Pleno, con base en las constancias que obren en el expediente de investigación, podrá decretar el cierre del expediente u ordenar el inicio del procedimiento seguido en forma de juicio en los términos dispuestos en el párrafo anterior, por existir elementos objetivos que hagan probable la responsabilidad del o los Agentes Económicos investigados.
+En el supuesto previsto en la fracción I, dentro del plazo de diez días siguientes a la fecha en que la Autoridad Investigadora haya presentado el dictamen correspondiente, el Pleno ordenará el inicio del procedimiento seguido en forma de juicio mediante el emplazamiento a los probables responsables.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En el caso de la fracción II, el Pleno decretará el cierre del expediente dentro del plazo de diez días siguientes a la fecha en la que la Autoridad Investigadora haya presentado el dictamen respectivo.
 
 ###### Artículo 79.
 
@@ -1276,7 +1398,7 @@ IV. Los elementos que sustenten el sentido del dictamen y, en su caso, las dispo
 
 ### Capítulo I. Del Procedimiento
 
-#### Sección II. Del Desahogo del Procedimiento
+#### Sección I. Del Emplazamiento
 
 ###### Artículo 80.
 
@@ -1290,7 +1412,7 @@ Son partes en el procedimiento seguido en forma de juicio, el Agente Económico 
 
 Quien haya presentado la denuncia que dio inicio a la investigación será coadyuvante de la Autoridad Investigadora en el procedimiento seguido en forma de juicio, en los términos que determine el estatuto orgánico.
 
-#### Sección III. De la Valoración de las Pruebas
+#### Sección II. Del Desahogo del Procedimiento
 
 ###### Artículo 83.
 
@@ -1300,23 +1422,35 @@ I. Una vez emplazado, el probable responsable tendrá acceso al expediente y un 
 
 El emplazado deberá referirse a cada uno de los hechos expresados en el dictamen de probable responsabilidad. Los hechos respecto de los cuales no haga manifestación alguna se tendrán por ciertos, salvo prueba en contrario. Lo mismo ocurrirá si no presenta su contestación dentro del plazo señalado en el párrafo anterior;
 
-II. Con las manifestaciones del probable responsable, se dará vista a la Autoridad Investigadora para que, en un plazo máximo de quince días hábiles se pronuncie respecto de los argumentos y pruebas ofrecidas;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Con las manifestaciones del probable responsable, se dará vista a la Autoridad Investigadora para que, en caso de considerarlo necesario, se pronuncie respecto de los argumentos y pruebas ofrecidas en un plazo máximo de diez días hábiles;
 
 III. Transcurrido el término que establece la fracción anterior, se acordará, en su caso, el desechamiento o la admisión de pruebas y se fijará el lugar, día y hora para su desahogo. El desahogo de las pruebas se realizará dentro de un plazo no mayor de veinte días, contado a partir de su admisión.
 
-Son admisibles todos los medios de prueba, excepto la confesional y la testimonial a cargo de autoridades. Se desecharán aquéllos que no sean ofrecidos conforme a derecho, no tengan relación con los hechos materia del procedimiento, así como aquéllas que sean innecesarias o ilícitas;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Son admisibles todos los medios de prueba, excepto la confesional y la testimonial a cargo de autoridades. Se desecharán aquéllos que no sean ofrecidos conforme a derecho, no tengan relación con los hechos materia del procedimiento, así como aquéllas que sean innecesarias, ilícitas o respecto de los cuales no se haya expresado con claridad el hecho o hechos que se trata de demostrar con cada uno de ellos;
 
 IV. Una vez desahogadas las pruebas y dentro de los diez días siguientes, la Comisión podrá allegarse y ordenar el desahogo de pruebas para mejor proveer o citar para alegatos, en los términos de la siguiente fracción;
 
-V. Concluido el desahogo de pruebas para mejor proveer, la Comisión fijará un plazo no mayor a diez días para que el probable responsable y la Autoridad Investigadora formulen por escrito los alegatos que correspondan, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. El expediente se entenderá integrado a la fecha de presentación de los alegatos o al vencimiento del plazo referido en la fracción anterior. Una vez integrado el expediente, se turnará por acuerdo del Presidente al Comisionado ponente, de manera rotatoria, siguiendo rigurosamente el orden de designación de los Comisionados, así como el orden cronológico en que se integró el expediente, quien tendrá la obligación de presentar el proyecto de resolución al Pleno para su aprobación o modificación.
+V. Concluido el desahogo de pruebas, la Comisión citará a las partes a la audiencia oral final, para que, en su caso, realicen las manifestaciones que estimen pertinentes y formulen los alegatos que correspondan ante el Pleno, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. El expediente se entenderá integrado al día siguiente en que se celebre la audiencia oral final referida en la fracción anterior. Una vez integrado el expediente, se turnará por acuerdo de la Persona Comisionada Presidente a la Persona Comisionada ponente, de manera rotatoria, siguiendo rigurosamente el orden de designación de las Personas Comisionadas, así como el orden cronológico en que se integró el expediente, quien tendrá la obligación de presentar el proyecto de resolución al Pleno para su aprobación o modificación.
 
 En este último caso el Comisionado ponente incorporará al proyecto las modificaciones o correcciones sugeridas por el Pleno.
 
-Dentro de los diez días siguientes a la fecha en que quedó integrado el expediente, el probable responsable o el denunciante tendrán derecho de solicitar al Pleno una audiencia oral con el objeto de realizar las manifestaciones que estimen pertinentes.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-La Comisión dictará resolución en un plazo que no excederá de cuarenta días.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión dictará resolución en un plazo que no excederá de treinta días.
+
+#### Sección III. De la Valoración de las Pruebas
 
 ###### Artículo 84.
 
@@ -1346,11 +1480,17 @@ IV. La determinación sobre imposición de sanciones.
 
 Las siguientes concentraciones deberán ser autorizadas por la Comisión antes de que se lleven a cabo:
 
-I. Cuando el acto o sucesión de actos que les den origen, independientemente del lugar de su celebración, importen en el territorio nacional, directa o indirectamente, un monto superior al equivalente a dieciocho millones de veces el salario mínimo general diario vigente para el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Cuando el acto o sucesión de actos que les den origen, impliquen la acumulación del treinta y cinco por ciento o más de los activos o acciones de un Agente Económico, cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional importen más del equivalente a dieciocho millones de veces el salario mínimo general diario vigente para el Distrito Federal, o
+I. Cuando el acto o sucesión de actos que les den origen, independientemente del lugar de su celebración, importen en el territorio nacional, directa o indirectamente, un monto superior al equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente;
 
-III. Cuando el acto o sucesión de actos que les den origen impliquen una acumulación en el territorio nacional de activos o capital social superior al equivalente a ocho millones cuatrocientas mil veces el salario mínimo general diario vigente para el Distrito Federal y en la concentración participen dos o más Agentes Económicos cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional conjunta o separadamente, importen más de cuarenta y ocho millones de veces el salario mínimo general diario vigente para el Distrito Federal.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Cuando el acto o sucesión de actos que les den origen, impliquen la acumulación del treinta por ciento o más de los activos o acciones de un Agente Económico, cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional importen más del equivalente a dieciséis millones de veces el valor diario de la Unidad de Medida y Actualización vigente, o
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Cuando el acto o sucesión de actos que les den origen impliquen una acumulación en el territorio nacional de activos o capital social superior al equivalente a siete millones cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización vigente y en la concentración participen dos o más Agentes Económicos cuyas ventas anuales originadas en el territorio nacional o activos en el territorio nacional conjunta o separadamente, importen más de cuarenta millones de veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Los actos realizados en contravención a este artículo no producirán efectos jurídicos, sin perjuicio de la responsabilidad administrativa, civil o penal de los Agentes Económicos y de las personas que ordenaron o coadyuvaron en la ejecución, así como de los fedatarios públicos que hayan intervenido en los mismos.
 
@@ -1430,13 +1570,25 @@ Los requerimientos señalados en el párrafo anterior no suspenderán los plazos
 
 IV. Transcurridos los términos a que se refieren las fracciones I y III anteriores, sin que la Comisión emita y notifique el acuerdo que tenga por no notificada una concentración, el procedimiento continuará su trámite;
 
-V. Para emitir su resolución, la Comisión tendrá un plazo de sesenta días, contado a partir de la recepción de la notificación o, en su caso, de la documentación adicional solicitada. Concluido el plazo sin que se emita resolución, se entenderá que la Comisión no tiene objeción en la concentración notificada.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Para emitir su resolución, la Comisión tendrá un plazo de treinta días, contado a partir de la recepción de la notificación o, en su caso, de la documentación adicional solicitada. Concluido el plazo sin que se emita resolución, se entenderá que la Comisión no tiene objeción en la concentración notificada.
 
 En las concentraciones en que la Comisión considere que existen posibles riesgos al proceso de competencia y libre concurrencia, ésta lo comunicará a los notificantes, al menos con diez días de anticipación a la fecha en que se liste el asunto a efecto de que éstos pudieren presentar condiciones que permitan corregir los riesgos señalados.
 
 La resolución de la Comisión podrá autorizar, objetar o sujetar la autorización de la concentración al cumplimiento de condiciones destinadas a la prevención de posibles efectos contrarios a la libre concurrencia y al proceso de competencia que pudieran derivar de la concentración notificada;
 
-VI. En casos excepcionalmente complejos, la Comisión podrá ampliar los plazos a que se refieren las fracciones III y V del presente artículo, hasta por cuarenta días adicionales;
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Tratándose de una sucesión de actos, la Comisión realizará el análisis de toda la sucesión de los actos que originan la concentración y, en caso de objetarse, podrá ordenar las medidas necesarias para garantizar la protección de la libre competencia y concurrencia económica, incluyendo la restitución de las cosas al estado en que se encontraban antes de la realización de la sucesión de actos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. En casos excepcionalmente complejos, la Comisión podrá ampliar los plazos a que se refieren las fracciones III y V del presente artículo, hasta por veinte días adicionales.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Sin perjuicio de lo anterior, el plazo previsto en la fracción V de este artículo no podrá ser ampliado en aquellos casos en los que el Ejecutivo Federal haya previamente hecho del conocimiento de la Comisión una cuestión relevante para el interés nacional y exista un pronunciamiento conforme al artículo 110 Bis de esta Ley.
 
 VII. Para los efectos de lo dispuesto en las fracciones III y V de este artículo, se entiende recibida la notificación y emitido el acuerdo de recepción a trámite:
 
@@ -1450,7 +1602,13 @@ La resolución favorable de la Comisión tendrá una vigencia de seis meses, pro
 
 Los notificantes podrán presentar, desde su escrito de notificación y hasta un día después de que se liste el asunto para sesión del Pleno, propuestas de condiciones para evitar que como resultado de la concentración se disminuya, dañe o se impida el proceso de competencia y libre concurrencia.
 
-En caso de que las propuestas de condiciones no sean presentadas con el escrito de notificación, el plazo para resolver quedará interrumpido y volverá a contar desde su inicio.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En caso de que las propuestas de condiciones no sean presentadas con el escrito de notificación, el plazo para resolver quedará interrumpido el día en que los notificantes presenten su propuesta de condiciones o cualquier modificación a las mismas y volverá a contar desde su inicio. Los notificantes pueden realizar modificaciones o adiciones a su propuesta inicial de condiciones hasta un día después de que se liste el asunto para sesión del Pleno.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los Agentes Económicos notificantes pueden desistirse del procedimiento hasta antes de que inicie el plazo establecido en la fracción V de este artículo. Emitida la resolución que autorice la concentración notificada o sujete la autorización al cumplimiento de condiciones, puede renunciar al derecho derivado de la misma. En ambos casos, se requerirá ratificación ante la Comisión por el representante común o quien tenga las facultades legales para hacerlo.
 
 ###### Artículo 91.
 
@@ -1502,7 +1660,7 @@ II. Cuando el titular de acciones, partes sociales o unidades de participación 
 
 III. Cuando se trate de la constitución de fideicomisos de administración, garantía o de cualquier otra clase en la que un Agente Económico aporte sus activos, acciones, partes sociales o unidades de participación sin que la finalidad o consecuencia necesaria sea la transferencia de dichos activos, acciones, partes sociales o unidades de participación a una sociedad distinta tanto del fideicomitente como de la institución fiduciaria correspondiente. Sin embargo, en caso de ejecución del fideicomiso de garantía se deberá de notificar si se actualiza alguno de los umbrales referidos en el artículo 86 de esta Ley;
 
-IV. Cuando se trate de actos jurídicos sobre acciones, partes sociales o unidades de participación, o bajo contratos de fideicomiso que se verifiquen en el extranjero relacionadas con sociedades no residentes para efectos fiscales en México, de sociedades extranjeras, siempre que las sociedades involucradas en dichos actos no adquieran el control de sociedades mexicanas, ni acumulen en el territorio nacional acciones, partes sociales, unidades de participación o participación en fideicomisos o activos en general, adicionales a los que, directa o indirectamente, posean antes de la transacción;
+IV. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
 V. Cuando el adquirente sea una sociedad de inversión de renta variable y la operación tenga por objeto la adquisición de acciones, obligaciones, valores, títulos o documentos con recursos provenientes de la colocación de las acciones representativas del capital social de la sociedad de inversión entre el público inversionista, salvo que como resultado o con motivo de las operaciones la sociedad de inversión pueda tener una influencia significativa en las decisiones del Agente Económico concentrado;
 
@@ -1516,9 +1674,25 @@ c) Mantener la titularidad de derechos que permitan, directa o indirectamente, e
 
 d) Dirigir o influenciar directa o indirectamente la administración, operación, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma;
 
-VII. Cuando la adquisición sobre acciones, partes sociales, unidades de participación o fideicomisos sean realizadas por uno o más fondos de inversión con fines meramente especulativos, y que no tengan inversiones en sociedades o activos que participen o sean empleados en el mismo mercado relevante que el Agente Económico concentrado, o
+VII. (DEROGADA D.O.F. 16 DE JULIO DE 2025)
 
 VIII. En los demás casos que establezcan las Disposiciones Regulatorias.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 93 Bis.
+
+El procedimiento para comprobar el cumplimiento de la obligación de no llevar a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86 de esta Ley sin haber obtenido previamente la autorización de la Comisión y, en su caso, determinar si algún fedatario público intervino en actos relativos a una concentración cuando no hubiera sido autorizada, se tramitará de oficio conforme a lo siguiente:
+
+I. Cuando la Comisión tenga conocimiento de elementos objetivos que hagan suponer una probable violación conforme al párrafo primero de este artículo, seguirá el procedimiento previsto en el artículo 133 de esta Ley, o
+
+II. Cuando la Comisión tenga conocimiento de cualquier indicio que haga suponer una probable violación conforme al párrafo primero de este artículo, emitirá un acuerdo de apertura de expediente de verificación.
+
+En el supuesto previsto en esta fracción, la Comisión tendrá un plazo de ciento veinte días contados a partir del acuerdo de apertura de expediente de verificación para realizar requerimientos o practicar las diligencias que estime necesarias.
+
+Concluido el plazo al que hace referencia el párrafo anterior, la Comisión emitirá un acuerdo de terminación y, dentro de los diez días siguientes, emitirá un acuerdo en el que ordene el cierre del expediente de verificación, o bien, inicie el procedimiento en términos de la fracción I de este artículo.
+
+El plazo previsto en el artículo 65 de esta Ley se suspenderá con el inicio del procedimiento incidental previsto en la fracción I de este artículo, o con la emisión del acuerdo de apertura al que hace referencia la fracción II de este artículo.
 
 ## TÍTULO IV. DE LOS PROCEDIMIENTOS ESPECIALES
 
@@ -1532,7 +1706,9 @@ I. La Autoridad Investigadora dictará el acuerdo de inicio y publicará en el D
 
 II. La Autoridad Investigadora contará con todas las facultades de investigación que se prevén en esta Ley, incluyendo requerir los informes y documentos necesarios, citar a declarar a quienes tengan relación con el caso de que se trate, realizar visitas de verificación y ordenar cualquier diligencia que considere pertinente. Tratándose de insumos esenciales, la Autoridad Investigadora deberá analizar durante esta investigación todos los supuestos previstos en el artículo 60 de esta Ley;
 
-III. Concluida la investigación y si existen elementos para determinar que no existen condiciones de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro de los sesenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en caso contrario, propondrá al Pleno el cierre del expediente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Concluida la investigación y si existen elementos para determinar que no existen condiciones de competencia efectiva en el mercado investigado, la Autoridad Investigadora emitirá, dentro de los cuarenta días siguientes a la conclusión de la investigación, un dictamen preliminar; en caso contrario, propondrá al Pleno el cierre del expediente. En este último caso, el Pleno emitirá la resolución de cierre dentro del plazo de quince días contados a partir de que se haya presentado la propuesta correspondiente.
 
 Al emitir el dictamen preliminar, se deberán proponer las medidas correctivas que se consideren necesarias para eliminar las restricciones al funcionamiento eficiente del mercado investigado, para lo cual podrá solicitar, en su caso, una opinión técnica no vinculatoria a la dependencia coordinadora del sector o a la Autoridad Pública que corresponda respecto de dichas medidas correctivas.
 
@@ -1550,7 +1726,9 @@ Dentro de los cinco días siguientes a la recepción del escrito de propuesta de
 
 En caso de que el Pleno no acepte la propuesta presentada por el Agente Económico solicitante, deberá justificar los motivos de la negativa y la Comisión emitirá en un plazo de cinco días el acuerdo de reanudación del procedimiento.
 
-Una vez integrado el expediente, el Pleno emitirá la resolución que corresponda en un plazo no mayor a sesenta días.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Una vez integrado el expediente, el Pleno emitirá la resolución que corresponda en un plazo no mayor a cuarenta días.
 
 La resolución de la Comisión podrá incluir:
 
@@ -1574,17 +1752,33 @@ La resolución relativa a la desincorporación de activos a que se refiere el pr
 
 En todos los casos, la Comisión deberá verificar que las medidas propuestas generarán incrementos en eficiencia en los mercados, por lo que no se impondrán éstas cuando el Agente Económico con interés jurídico en el procedimiento demuestre, en su oportunidad, que las barreras a la competencia y los insumos esenciales generan ganancias en eficiencia e inciden favorablemente en el proceso de competencia económica y libre concurrencia superando sus posibles efectos anticompetitivos, y resultan en una mejora del bienestar del consumidor. Entre las ganancias en eficiencia se podrán contemplar las que sean resultado de la innovación en la producción, distribución y comercialización de bienes y servicios.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El Reglamento establecerá los requisitos que deben cumplir las solicitudes relativas a este artículo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Cuando la solicitud no reúna los requisitos a que se refiere este artículo, dentro de los diez días siguientes al de la presentación del escrito, la Comisión debe prevenir al solicitante para que, en un término que no exceda de quince días prorrogables, presente la información faltante.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Una vez desahogada la prevención que, en su caso, se realice, las solicitudes presentadas por la Secretaría que no cumplan con los requisitos previstos en el Reglamento se tendrán por presentadas únicamente para efectos de que, en un plazo no mayor a treinta días, la Autoridad Investigadora determine si, allegándose de información adicional, existen elementos suficientes para iniciar una investigación de oficio.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Dentro de los diez días siguientes a aquél en que concluya el plazo de análisis referido en el párrafo anterior, si la Autoridad Investigadora considera que existen elementos para iniciar una investigación, dictará el acuerdo de inicio correspondiente y se mandará publicar el extracto del mismo en el Diario Oficial de la Federación. En caso contrario, deberá notificar a la Secretaría las razones por las cuales se considera que no existen elementos suficientes para iniciar una investigación.
+
 ###### Artículo 95.
 
 Las resoluciones en las que la Comisión determine la existencia de barreras a la competencia y libre concurrencia o de insumos esenciales, deberán ser notificadas a las autoridades que regulen el sector del que se trate para que, en el ámbito de su competencia y conforme a los procedimientos previstos por la legislación vigente, determinen lo conducente para lograr condiciones de competencia.
 
-Cuando la Comisión tenga conocimiento de actos o normas generales emitidas por un Estado, el Distrito Federal, un Municipio, que puedan resultar contrarios a lo dispuesto, entre otros, por los artículos 28 y 117, fracciones IV, V, VI y VII de la Constitución Política de los Estados Unidos Mexicanos o que invadan facultades de la Federación, lo hará del conocimiento del Titular del Ejecutivo Federal, por conducto de su Consejero Jurídico, para que aquél, de considerarlo pertinente, inicie una controversia constitucional, o del órgano competente para que éste, de considerarlo procedente, interponga una acción de inconstitucionalidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-La Comisión expresará los motivos por los cuales considera que los actos o normas generales mencionados en el párrafo anterior contravienen los citados preceptos constitucionales.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En caso de que el Ejecutivo Federal no considere pertinente iniciar una controversia constitucional, su Consejero Jurídico, deberá publicar los motivos de su decisión.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En el caso de que la Comisión tenga conocimiento de actos o disposiciones generales de algún órgano constitucional autónomo, del Congreso de la Unión, o del Ejecutivo Federal, que vulneren el ejercicio de sus atribuciones, podrá interponer controversia constitucional en términos de lo previsto por el inciso l), de la fracción I, del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ### Capítulo II. Del Procedimiento para Resolver sobre Condiciones de Mercado
 
@@ -1654,55 +1848,107 @@ IV. La Comisión deberá acordar con la convocante las fechas en que los interes
 
 ### Capítulo IV. De los Procedimientos de Dispensa y Reducción del Importe de Multas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 100.
 
-Antes de que se emita el dictamen de probable responsabilidad, en un procedimiento seguido ante la Comisión por práctica monopólica relativa o concentración ilícita, el Agente Económico sujeto a la investigación, por una sola ocasión, podrá manifestar por escrito su voluntad de acogerse al beneficio de dispensa o reducción del importe de las multas establecidas en esta Ley, siempre y cuando acredite a la Comisión:
+El Agente Económico sujeto a una investigación por práctica monopólica relativa o concentración ilícita podrá, por una sola ocasión, manifestar por escrito su voluntad de acogerse al beneficio de dispensa o reducción del importe de las multas establecidas en esta Ley, siempre y cuando solicite acogerse a este beneficio y presente a la Comisión:
 
 I. Su compromiso para suspender, suprimir o corregir la práctica o concentración correspondiente, a fin de restaurar el proceso de libre concurrencia y competencia económica, y
 
-II. Los medios propuestos sean jurídica y económicamente viables e idóneos para evitar llevar a cabo o, en su caso, dejar sin efectos, la práctica monopólica relativa o concentración ilícita objeto de la investigación, señalando los plazos y términos para su comprobación.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Los medios propuestos para suspender, suprimir o corregir la práctica monopólica relativa o concentración ilícita objeto de la investigación, que deben ser jurídica y económicamente viables e idóneos para tal efecto, señalando los plazos y términos para su comprobación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El Agente Económico que presente la solicitud a la que hace referencia este artículo antes de que la Autoridad Investigadora amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley, podrá obtener la totalidad del beneficio por lo que podrá cerrar el expediente sin imputar responsabilidad alguna.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Transcurrido el plazo establecido en el párrafo anterior, el Agente Económico correspondiente solo podrá presentar su solicitud durante el procedimiento seguido en forma de juicio y hasta antes de la integración del expediente. En caso de que se acepten los compromisos en esta etapa, la Comisión podrá imputar responsabilidad y el Agente Económico se hará acreedor a una reducción de hasta el cincuenta por ciento de la multa que, en su caso, le hubiera correspondido.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En el supuesto previsto en el párrafo anterior, el Agente Económico deberá incluir en su solicitud, además de lo señalado en esta Ley, el Reglamento y las Disposiciones Regulatorias, el reconocimiento de la práctica monopólica o la concentración ilícita que le haya sido imputada en el dictamen de probable responsabilidad correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El Reglamento establecerá el procedimiento conforme al cual se desahogará el procedimiento para el otorgamiento del beneficio a que hace referencia este artículo.
 
 ###### Artículo 101.
 
-Dentro de los cinco días siguientes a la recepción del escrito al que se refiere el primer párrafo del artículo anterior, la Autoridad Investigadora suspenderá la investigación, podrá prevenir al Agente Económico sujeto a la investigación para que en su caso, en un plazo de cinco días presente las aclaraciones correspondientes y dará vista al denunciante si lo hubiera para que en un plazo adicional de cinco días manifieste lo que a su derecho convenga y en un plazo de diez días presente al Pleno un dictamen con su opinión respecto a la pretensión del Agente Económico solicitante y el expediente de la investigación. La Comisión emitirá la resolución en un plazo de veinte días a partir de que la Autoridad Investigadora le presente su dictamen.
-
-En caso de que el Pleno no acepte la propuesta presentada por el Agente Económico solicitante, la Comisión emitirá en un plazo de cinco días el acuerdo de reanudación del procedimiento.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 102.
 
 La resolución a la que se refiere el artículo anterior, podrá decretar:
 
-I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas que pudieran corresponderle, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. El otorgamiento del beneficio de la dispensa o reducción del pago de las multas, según corresponda, en términos del artículo 100 de esta Ley, y
 
 II. Las medidas para restaurar el proceso de libre concurrencia y de competencia económica.
 
-Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva dentro de un plazo de quince días contados a partir de la fecha en que sean notificados.
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El Pleno podrá modificar los términos y condiciones planteados en el escrito por el que se solicite el beneficio a que hace referencia el artículo 100 de esta Ley, para asegurarse de que se restaure el proceso de competencia y libre concurrencia.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los Agentes Económicos deberán aceptar de conformidad expresamente y por escrito la resolución definitiva, dentro de un plazo de diez días contados a partir de la fecha en que sea notificado.
 
 En el evento de que el Agente Económico de que se trate no acepte expresamente la resolución, los procedimientos que hayan sido suspendidos serán reanudados.
 
 Los Agentes Económicos sólo podrán acogerse a los beneficios previstos en este artículo, una vez cada cinco años. Este período se computará a partir de la aceptación de la resolución de la Comisión.
 
-La resolución a la que se refiere este artículo, será sin perjuicio de las acciones que pudieran ejercer terceros afectados que reclamen daños y perjuicios derivados de la responsabilidad civil por la realización de la práctica monopólica relativa o concentración ilícita revelada a la Comisión en términos del artículo anterior.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La resolución a la que se refiere este artículo, será sin perjuicio de las acciones que pudieran ejercer terceros afectados que reclamen daños y perjuicios derivados de la responsabilidad civil por la realización de la práctica monopólica relativa o concentración ilícita revelada a la Comisión.
 
 ###### Artículo 103.
 
 Cualquier Agente Económico que haya incurrido o esté incurriendo en una práctica monopólica absoluta; haya participado directamente en prácticas monopólicas absolutas en representación o por cuenta y orden de personas morales; y el Agente Económico o individuo que haya coadyuvado, propiciado, inducido o participado en la comisión de prácticas monopólicas absolutas, podrá reconocerla ante la Comisión y acogerse al beneficio de la reducción de las sanciones establecidas en esta Ley, siempre y cuando:
 
-I. Sea el primero, entre los Agentes Económicos o individuos involucrados en la conducta, en aportar elementos de convicción suficientes que obren en su poder y de los que pueda disponer y que a juicio de la Comisión permitan iniciar el procedimiento de investigación o, en su caso, presumir la existencia de la práctica monopólica absoluta;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Coopere en forma plena y continua en la sustanciación de la investigación y, en su caso, en el procedimiento seguido en forma de juicio, y
+I. Sea el primero entre los Agentes Económicos o individuos involucrados en la conducta, antes de que se haya iniciado una investigación en el mercado correspondiente, en aportar elementos de convicción suficientes que obren en su poder y de los que pueda disponer y que a juicio de la Comisión permitan presumir la existencia de la práctica monopólica absoluta;
 
-III. Realice las acciones necesarias para terminar su participación en la práctica violatoria de la Ley.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Cumplidos los requisitos anteriores, la Comisión dictará la resolución a que haya lugar e impondrá una multa mínima.
+II. Coopere en forma plena y continua en la sustanciación de la investigación y, en su caso, en el procedimiento seguido en forma de juicio. La Comisión emitirá Disposiciones Regulatorias que detallen el requisito establecido en esta fracción, y
 
-Los Agentes Económicos o individuos que no cumplan con lo establecido en la fracción I anterior, podrán obtener una reducción de la multa de hasta el 50, 30 ó 20 por ciento del máximo permitido, cuando aporten elementos de convicción en la investigación, adicionales a los que ya tenga la Autoridad Investigadora y cumplan con los demás requisitos previstos en este artículo. Para determinar el monto de la reducción la Comisión tomará en consideración el orden cronológico de presentación de la solicitud y de los elementos de convicción presentados.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Los individuos que hayan participado directamente en prácticas monopólicas absolutas, en representación o por cuenta y orden de los Agentes Económicos que reciban los beneficios de la reducción de sanciones, podrán verse beneficiados con la misma reducción en la sanción que a éstos correspondiere siempre y cuando aporten los elementos de convicción con los que cuenten, cooperen en forma plena y continua en la sustanciación de la investigación que se lleve a cabo y, en su caso, en el procedimiento seguido en forma de juicio, y realicen las acciones necesarias para terminar su participación en la práctica violatoria de la Ley.
+III. Realice las acciones necesarias para terminar su participación en la práctica violatoria de la ley, salvo que la Autoridad Investigadora expresamente le solicite lo contrario de manera temporal.
 
-La Comisión mantendrá con carácter confidencial la identidad del Agente Económico y los individuos que pretendan acogerse a los beneficios de este artículo.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Las Disposiciones Regulatorias establecerán el procedimiento conforme al cual deberá solicitarse y resolverse la aplicación del beneficio previsto en este artículo, así como para la reducción en el monto de la multa.
+Cumplidos los requisitos establecidos en las fracciones I a III anteriores, la Comisión dictará la resolución a que haya lugar e impondrá una multa mínima.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los Agentes Económicos o individuos que únicamente cumplan con lo establecido en las fracciones II y III anteriores, podrán obtener una reducción de la multa de hasta el 50, 30 o 20 por ciento del máximo permitido, cuando aporten elementos de convicción adicionales a los que ya tenga la Autoridad Investigadora que permitan presumir la existencia de una práctica monopólica absoluta y cumplan con los demás requisitos previstos en este artículo. Para determinar el monto de la reducción la Comisión tomará en consideración el orden cronológico de presentación de la solicitud y de los elementos de convicción presentados.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión podrá revocar el beneficio previsto en el presente artículo cuando el Agente Económico o individuo incumpla los requisitos establecidos en las fracciones II o III de este artículo, en cuyo caso podrá utilizar la información y elementos de convicción presentados por el mismo. Las Disposiciones Regulatorias que al efecto se emitan detallarán las obligaciones de cooperación previstas en este artículo, y el Reglamento establecerá el procedimiento conforme al cual deberán tramitarse y resolverse las solicitudes presentadas de conformidad con este artículo, así como para su revocación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las personas que hayan participado directamente en prácticas monopólicas absolutas, en representación o por cuenta y orden de los Agentes Económicos que reciban los beneficios de la reducción de sanciones, podrán verse beneficiados con la misma reducción en la sanción que a éstos correspondiere siempre y cuando cumplan con los requisitos ya señalados.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión mantendrá con carácter confidencial la identidad de quienes pretendan acogerse a los beneficios de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El beneficio previsto en este artículo únicamente podrá solicitarse hasta antes de la publicación del acuerdo que amplíe por tercera ocasión el periodo de investigación previsto en el artículo 71 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los Agentes Económicos e individuos que reciban cualquiera de los beneficios establecidos en este artículo no serán inhabilitados en términos del artículo 127 de esta Ley y no serán objeto del ejercicio de acciones colectivas promovidas por la Comisión. Lo anterior, sin perjuicio de las acciones que pudieran ejercer terceros.
 
 ### Capítulo V. Del Procedimiento de Solicitudes de Opinión Formal y Orientaciones Generales en Materia de Libre Concurrencia y Competencia Económica
 
@@ -1790,11 +2036,21 @@ Las opiniones formales se harán públicas en el sitio de internet de la Comisi�
 
 Sin perjuicio del procedimiento para la emisión de opiniones formales, la Comisión deberá ofrecer orientación general a cualquier persona física o moral, así como a cualquier Autoridad Pública, en relación con la aplicación de esta ley, en los términos señalados en las Disposiciones Regulatorias.
 
-### Capítulo I. De la Representación
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+### Capítulo VI. Del Procedimiento de Aviso del Ejecutivo Federal
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 110 Bis.
+
+En cualquier momento, la persona titular del Ejecutivo Federal, a través de la Secretaría, podrá dar aviso a la Comisión respecto de cuestiones relevantes para el interés nacional en materia de libre concurrencia y competencia económica.
+
+En estos casos, la Comisión emitirá un acuerdo pronunciándose respecto de la cuestión planteada en un plazo no mayor a diez días hábiles.
 
 ## TÍTULO V. DE LAS REGLAS GENERALES APLICABLES A LOS PROCEDIMIENTOS
 
-### Capítulo II. De los Requisitos de las Promociones ante la Comisión
+### Capítulo I. De la Representación
 
 ###### Artículo 111.
 
@@ -1808,7 +2064,7 @@ Cuando en su promoción, los Agentes Económicos no especifiquen para qué efect
 
 No podrá tener acceso al expediente persona alguna que no se encuentre autorizada o tenga acreditada su personalidad en el expediente y haya sido acordada en ese sentido por la Comisión, ni fuera del horario establecido para la oficialía de partes.
 
-### Capítulo III. De los Plazos
+### Capítulo II. De los Requisitos de las Promociones ante la Comisión
 
 ###### Artículo 112.
 
@@ -1830,11 +2086,13 @@ Cualquier persona que no hable español, puede asistir a las diligencias acompa�
 
 En lo no previsto, se estará a lo dispuesto en las Disposiciones Regulatorias.
 
-### Capítulo IV. De las Notificaciones
+### Capítulo III. De los Plazos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 114.
 
-Cuando los plazos fijados por esta Ley y por las Disposiciones Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.
+Cuando los plazos fijados por esta Ley, por su Reglamento o por las Disposiciones Regulatorias sean en días, éstos se entenderán como hábiles. Respecto de los establecidos en meses o años, el cómputo se hará de fecha a fecha, considerando incluso los días inhábiles.
 
 Cuando no se especifique plazo, se entenderán cinco días para cualquier actuación.
 
@@ -1844,7 +2102,9 @@ Las actuaciones se practicarán en días y horas hábiles.
 
 Son días hábiles todos los del año, menos los sábados y domingos, y aquellos que se declaren inhábiles conforme al calendario anual correspondiente, publicado en el Diario Oficial de la Federación. Los días en que se suspendan labores o cuando las oficinas de la autoridad permanezcan cerradas, serán considerados como inhábiles para todos los efectos legales, salvo en los casos de habilitación expresa para la realización o práctica de diligencias.
 
-Se entienden horas hábiles para notificar y realizar diligencias las que median desde las siete hasta las diecinueve horas.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Se entienden horas hábiles para notificar y realizar diligencias las que median desde las siete hasta las diecinueve horas. En los procedimientos o trámites sustanciados por medios electrónicos, así como para las promociones presentadas por correo electrónico, y para la emisión de actuaciones con firma electrónica se entenderán hábiles las veinticuatro horas del día.
 
 Se podrán habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias y notificaciones, cuando hubiere causa que lo justifique, expresando cuál es ésta y especificando además las diligencias que hayan de practicarse.
 
@@ -1864,17 +2124,25 @@ Cualquier documento que se presente en forma diversa a la señalada en este art�
 
 En el evento de que la promoción y documentos presentados por transmisión electrónica difieran de los presentados en la oficialía de partes, se tendrán por no presentada la promoción y el documento.
 
-### Capítulo V. De los Procedimientos ante la Comisión por Medios Electrónicos
+### Capítulo IV. De las Notificaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 117.
 
-Quien comparezca a la Comisión, en el primer escrito o en la primera diligencia en que intervenga, deberá designar domicilio para oír y recibir notificaciones en el Distrito Federal o, en su caso, en el domicilio de la delegación de la Comisión que corresponda, si en ella se tramita alguno de los procedimientos de esta Ley.
+Quien comparezca a la Comisión, en el primer escrito o en la primera diligencia en que intervenga, deberá designar domicilio para oír y recibir notificaciones en la Ciudad de México o, en su caso, en el domicilio de la oficina de representación de la Comisión que corresponda, si en ella se tramita alguno de los procedimientos de esta Ley.
 
 Igualmente deberá señalar el domicilio en que ha de hacerse la primera notificación a la persona que le interese que se notifique por la intervención que deban tener en el asunto. No es necesario señalar el domicilio de los servidores públicos, estos siempre serán notificados en su residencia oficial.
 
-Las notificaciones se realizarán en términos de las Disposiciones Regulatorias.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-### Capítulo VI. De la Obligación de Cooperar con la Comisión
+Las notificaciones se realizarán en términos del Reglamento y de las Disposiciones Regulatorias.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Todas las notificaciones surtirán sus efectos al día siguiente a aquel en que se practiquen.
+
+### Capítulo V. De los Procedimientos ante la Comisión por Medios Electrónicos
 
 ###### Artículo 118.
 
@@ -1882,15 +2150,21 @@ Todos los procedimientos a que se refiere esta Ley, así como cualquier solicitu
 
 La Comisión, para los efectos de la substanciación de los actos relativos a la misma, autorizará a las partes que lo soliciten, a generar una firma electrónica cumpliendo con los requisitos que las Disposiciones Regulatorias establezcan.
 
-### Capítulo VII. De las Resoluciones de la Comisión
+### Capítulo VI. De la Obligación de Cooperar con la Comisión
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 119.
 
-Toda persona que tenga conocimiento o relación con algún hecho que investigue la Comisión o con la materia de sus procedimientos en trámite, tiene la obligación de proporcionar en el término de diez días la información, cosas y documentos que obren en su poder en el medio que le sean requeridos; de presentarse a declarar en el lugar, fecha y hora en que sea citada, y de permitir que se realicen las visitas de verificación.
+Toda persona que tenga conocimiento o relación con algún hecho que investigue la Comisión o con la materia de sus procedimientos en trámite, tiene la obligación de proporcionar en el término de diez días la información, cosas y documentos que obren en su poder en el medio que le sean requeridos; de presentarse a declarar en el lugar, fecha y hora en que sea citada, contestando todas las preguntas que le sean formuladas; así como de permitir que se realicen las visitas de verificación.
 
 Para el caso de documentos originales o en copia certificada, la persona requerida podrá optar por exhibir dichas documentales para que le sean devueltas una vez que la Comisión lleve a cabo su reproducción y certificación.
 
-### Capítulo VIII. De la Supletoriedad de esta Ley
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para el debido desahogo de los procedimientos a su cargo, la Comisión puede hacer las prevenciones y reiteraciones que estime pertinentes, salvo disposición en contrario.
+
+### Capítulo VII. De las Resoluciones de la Comisión
 
 ###### Artículo 120.
 
@@ -1900,13 +2174,15 @@ Lo dispuesto en este artículo se aplicará sin perjuicio de las sanciones que p
 
 Todas las resoluciones definitivas de la Comisión adoptadas bajo cualquiera de los procedimientos previstos en esta Ley, deberán resolver las cuestiones efectivamente planteadas por la Autoridad Investigadora y los Agentes Económicos.
 
-### Capítulo IX. De las Disposiciones Finales
+### Capítulo VIII. De la Supletoriedad de esta Ley
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 121.
 
-En lo no previsto por esta Ley o en las Disposiciones Regulatorias, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+En lo no previsto por esta Ley, su Reglamento o en las Disposiciones Regulatorias, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
 
-### Capítulo Único. Clasificación de la Información
+### Capítulo IX. De las Disposiciones Finales
 
 ###### Artículo 122.
 
@@ -1918,7 +2194,7 @@ La Comisión puede allegarse, antes de emitir resolución que ponga fin al proce
 
 ## TÍTULO VI. DE LA INFORMACIÓN
 
-### Capítulo I. De las Medidas de Apremio
+### Capítulo Único. Clasificación de la Información
 
 ###### Artículo 124.
 
@@ -1932,61 +2208,135 @@ Los servidores públicos estarán sujetos a responsabilidad en los casos de divu
 
 Para efectos de esta Ley, la Información Confidencial sólo tendrá tal carácter cuando el Agente Económico así lo solicite, acredite que tiene tal carácter y presente un resumen de la información, a satisfacción de la Comisión, para que sea glosado al expediente o bien, las razones por las que no puede realizar dicho resumen, en cuyo caso la Comisión podrá hacer el resumen correspondiente.
 
-La Comisión en ningún caso estará obligada a proporcionar la Información Confidencial ni podrá publicarla y deberá guardarla en el seguro que para tal efecto tenga.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión en ningún caso estará obligada a proporcionar la Información Confidencial o Reservada, en términos de esta Ley, ni podrá publicarla y deberá guardarla en el seguro que para tal efecto tenga.
 
 Los servidores públicos de la Comisión deberán abstenerse de pronunciarse públicamente o revelar información relacionada con los expedientes o procedimientos ante la Comisión y que cause daño o perjuicio directo a los involucrados, hasta que se haya notificado al Agente Económico investigado la resolución del Pleno, preservando en todo momento las obligaciones derivadas del presente artículo.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Al efecto, lo dispuesto por el artículo 10 de la Ley Federal de las Entidades Paraestatales no será aplicable únicamente respecto de la información Confidencial o Reservada obtenida por la Comisión en ejercicio de sus atribuciones.
+
 ## TÍTULO VII. DE LAS MEDIDAS DE APREMIO Y SANCIONES
 
-### Capítulo II. De las Multas y Sanciones
+### Capítulo I. De las Medidas de Apremio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 126.
 
-La Comisión, para el desempeño de las funciones que le atribuye esta Ley, podrá aplicar indistintamente las siguientes medidas de apremio:
+La Comisión, para el desempeño de las funciones que le atribuye esta Ley, podrá aplicar separada o indistintamente las siguientes medidas de apremio:
 
 I. Apercibimiento;
 
-II. Multa hasta por el importe del equivalente a tres mil veces el salario mínimo general diario vigente para el Distrito Federal, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Multa hasta por el importe del equivalente a ocho mil veces el valor diario de la Unidad de Medida y Actualización, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis. Multa hasta por el importe equivalente a treinta mil veces el valor diario de la Unidad de Medida y Actualización por no asistir a una comparecencia, sin causa justificada, por no contestar las preguntas o posiciones realizadas, o por contestar con ambigüedades o evasivas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis 1. Multa hasta por el importe equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización al Agente Económico que impida u obstaculice el desarrollo de una visita de verificación en los términos que señala el artículo 75 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis 2. Multa hasta por el importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización por incumplir una orden de inhabilitación en términos de la fracción X del artículo 127, cantidad que podrá aplicarse por cada día que transcurra sin cumplimentarse con lo ordenado;
 
 III. El auxilio de la fuerza pública o de otras Autoridades Públicas, y
 
-IV. Arresto hasta por 36 horas.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-### Capítulo III. De la Imposición de Sanciones
+IV. Arresto administrativo hasta por 36 horas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Comisión podrá aplicar las medidas de apremio establecidas en este artículo de manera independiente a las sanciones penales y administrativas correspondientes. En tal caso, no será requerido agotar previamente las medidas de apremio contempladas en este mismo artículo.
+
+### Capítulo II. De las Multas y Sanciones
 
 ###### Artículo 127.
 
 La Comisión podrá aplicar las siguientes sanciones:
 
-I. Ordenar la corrección o supresión de la práctica monopólica o concentración ilícita de que se trate;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Ordenar las medidas necesarias para la corrección o supresión de la práctica monopólica o concentración ilícita de que se trate;
 
 II. Ordenar la desconcentración parcial o total de una concentración ilícita en términos de esta Ley, la terminación del control o la supresión de los actos, según corresponda, sin perjuicio de la multa que en su caso proceda;
 
-III. Multa hasta por el equivalente a ciento setenta y cinco mil veces el salario mínimo general diario vigente para el Distrito Federal, por haber declarado falsamente o entregado información falsa a la Comisión, con independencia de la responsabilidad penal en que se incurra;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Multa hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica absoluta, con independencia de la responsabilidad civil y penal en que se incurra;
+III. Multa de una a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, por haber declarado falsamente o entregado información falsa a la Comisión, con independencia de la responsabilidad penal en que se incurra;
 
-V. Multa hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica relativa, con independencia de la responsabilidad civil en que se incurra;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al quince por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica absoluta, con independencia de la responsabilidad civil y penal en que se incurra;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una práctica monopólica relativa, con independencia de la responsabilidad civil en que se incurra;
 
 VI. Ordenar medidas para regular el acceso a los Insumos Esenciales bajo control de uno o varios Agentes Económicos, por haber incurrido en la práctica monopólica relativa prevista en el artículo 56, fracción XII de esta Ley;
 
-VII. Multa hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber incurrido en una concentración ilícita en términos de esta Ley, con independencia de la responsabilidad civil en que se incurra;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VIII. Multa de cinco mil salarios mínimos y hasta por el equivalente al cinco por ciento de los ingresos del Agente Económico, por no haber notificado la concentración cuando legalmente debió hacerse;
+VII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incurrido en una concentración ilícita en términos de esta Ley, con independencia de la responsabilidad civil en que se incurra;
 
-IX. Multa hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incumplido con las condiciones fijadas en la resolución de una concentración, sin perjuicio de ordenar la desconcentración;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-X. Inhabilitación para ejercer como consejero, administrador, director, gerente, directivo, ejecutivo, agente, representante o apoderado en una persona moral hasta por un plazo de cinco años y multas hasta por el equivalente a doscientas mil veces el salario mínimo general diario vigente para el Distrito Federal, a quienes participen directa o indirectamente en prácticas monopólicas o concentraciones ilícitas, en representación o por cuenta y orden de personas morales;
+VIII. Multa de cincuenta mil veces el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber llevado a cabo una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente.
 
-XI. Multas hasta por el equivalente a ciento ochenta mil veces el salario mínimo general diario vigente para el Distrito Federal, a quienes hayan coadyuvado, propiciado o inducido en la comisión de prácticas monopólicas, concentraciones ilícitas o demás restricciones al funcionamiento eficiente de los mercados en términos de esta Ley;
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XII. Multa hasta por el equivalente al ocho por ciento de los ingresos del Agente Económico, por haber incumplido la resolución emitida en términos del artículo 101 de esta Ley o en las fracciones I y II de este artículo. Lo anterior con independencia de la responsabilidad penal en que se incurra, para lo cual la Comisión deberá denunciar tal circunstancia al Ministerio Público;
+La multa establecida en esta fracción será de doscientas mil veces el valor diario de la Unidad de Medida y Actualización y hasta el equivalente al quince por ciento de los ingresos del Agente Económico cuando la Comisión haya previamente objetado la realización de la concentración correspondiente.
 
-XIII. Multas hasta por el equivalente a ciento ochenta mil veces el salario mínimo general diario vigente para el Distrito Federal, a los fedatarios públicos que intervengan en los actos relativos a una concentración cuando no hubiera sido autorizada por la Comisión;
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIV. Multa hasta por el equivalente al diez por ciento de los ingresos del Agente Económico que controle un insumo esencial, por incumplir la regulación establecida con respecto al mismo y a quien no obedezca la orden de eliminar una barrera a la competencia, y
+Lo anterior, sin perjuicio de poder ordenar la desconcentración parcial o total, la terminación del control o la supresión de los actos, según corresponda, de la concentración correspondiente;
 
-XV. Multa hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por incumplir la orden cautelar a la que se refiere esta Ley.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido con las condiciones fijadas en la resolución de una concentración, sin perjuicio de ordenar la desconcentración;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X. Inhabilitación para ejercer como persona consejera, administradora, directora, gerente, directiva, ejecutiva, agente, asesora, representante o apoderada en una persona moral en el mercado del que se trate hasta por un plazo de cinco años y multas hasta por el equivalente a trescientas cincuenta mil veces el valor diario de la Unidad de Medida y Actualización, a quienes participen directa o indirectamente en prácticas monopólicas o concentraciones ilícitas, en representación o por cuenta y orden de personas físicas o morales;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Multa de una a trescientas mil veces el valor diario de la Unidad de Medida y Actualización, a quienes hayan coadyuvado, propiciado o inducido en la comisión de prácticas monopólicas, concentraciones ilícitas o demás restricciones al funcionamiento eficiente de los mercados en términos de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico, por haber incumplido la resolución emitida en términos del artículo 102 de esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XII Bis. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente a diez por ciento de los ingresos del Agente Económico, por incumplir con lo establecido en las fracciones I, II y VIII, párrafo tercero, de este artículo. Lo anterior con independencia de la responsabilidad penal en que se incurra, para lo cual la Comisión deberá denunciar tal circunstancia al Ministerio Público;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII. Multas de una y hasta por el equivalente a doscientas mil veces el valor diario de la Unidad de Medida y Actualización, a los fedatarios públicos que intervengan en los actos relativos a una concentración que exceda los umbrales monetarios establecidos en el artículo 86, sin haber obtenido previamente la autorización correspondiente;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al doce por ciento de los ingresos del Agente Económico que controle un insumo esencial, por incumplir la regulación establecida con respecto al mismo y a quien no obedezca la orden de eliminar una barrera a la competencia o desincorporar activos en términos del artículo 94, fracción VII, de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XV. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por incumplir la orden cautelar a la que se refiere esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVI. Inhabilitación temporal para participar, de manera directa o por interpósita persona, en procedimientos de contratación pública por un periodo que no será menor de seis meses ni mayor a cinco años, por haber incurrido en una práctica monopólica absoluta en términos del artículo 53, fracción IV, del presente ordenamiento, con independencia de la responsabilidad administrativa, civil y penal en que se incurra y lo previsto en otros ordenamientos, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVII. Multa de una vez el valor diario de la Unidad de Medida y Actualización y hasta por el equivalente al diez por ciento de los ingresos del Agente Económico, por haber incumplido con alguna de las medidas específicas impuestas en virtud de su determinación como preponderante o con las medidas establecidas en el artículo 142 de esta Ley.
 
 Los ingresos a los que se refieren las fracciones anteriores serán los acumulables para el Agente Económico involucrado en la conducta ilícita, excluyendo los obtenidos de una fuente de riqueza ubicada en el extranjero, así como los gravables si éstos se encuentran sujetos a un régimen fiscal preferente, para los efectos del Impuesto Sobre la Renta del último ejercicio fiscal en que se haya incurrido en la infracción respectiva. De no estar disponible, se utilizará la base de cálculo correspondiente al ejercicio fiscal anterior.
 
@@ -1996,11 +2346,17 @@ En caso de reincidencia, se podrá imponer una multa hasta por el doble de la qu
 
 Se considerará reincidente al que:
 
-a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra conducta prohibida por esta Ley, independientemente de su mismo tipo o naturaleza;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado, y
+a) Habiendo incurrido en una infracción que haya sido sancionada en sede administrativa, realice otra conducta prohibida por esta Ley, independientemente de su mismo tipo o naturaleza;
 
-c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+c) Que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.
 
 En el caso de violaciones a esta Ley por servidores públicos, la Comisión deberá enviar oficio debidamente fundado y motivado a la autoridad competente para que, de ser procedente, se inicie el procedimiento de responsabilidad administrativa a que hubiere lugar, sin perjuicio de la responsabilidad penal en que incurra el servidor público.
 
@@ -2008,27 +2364,39 @@ El Ejecutivo Federal ejecutará las multas previstas por este artículo, así co
 
 En ningún caso la Comisión administrará ni dispondrá de los fondos a que se refiere este artículo.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 128.
 
-En el caso de aquellos Agentes Económicos que, por cualquier causa, no declaren o no se les hayan determinado ingresos acumulables para efectos del Impuesto Sobre la Renta, se les aplicarán las multas siguientes:
+En el caso de aquellos Agentes Económicos que, por cualquier causa, no declaren o no se les hayan determinado ingresos acumulables para efectos del Impuesto sobre la Renta o la Comisión no cuente con la información correspondiente por causas imputables al Agente Económico, se les aplicarán las multas siguientes:
 
-I. Multa hasta por el equivalente a un millón quinientas mil veces el salario mínimo general diario vigente para el Distrito Federal, para las infracciones a que se refieren las fracciones IV, IX, XIV y XV del artículo 127 de la Ley;
+I. Multa de una a tres millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones IV, IX, XIV y XV del artículo 127 de la Ley;
 
-II. Multa hasta por el equivalente de novecientas mil veces el salario mínimo general diario vigente para el Distrito Federal, para las infracciones a que se refieren las fracciones V, VII y XII del artículo 127 de la Ley, y
+II. Multa de una a dos millones de veces el valor diario de la Unidad de Medida y Actualización, para las infracciones a que se refieren las fracciones V, VII y XII del artículo 127 de la Ley, y
 
-III. Multa hasta por el equivalente a cuatrocientas mil veces el salario mínimo general diario vigente para el Distrito Federal, para la infracción a que se refiere la fracción VIII del artículo 127 de la Ley.
+III. Multa de una a un millón cuatrocientas mil veces el valor diario de la Unidad de Medida y Actualización, para la infracción a que se refiere la fracción VIII del artículo 127 de la Ley.
 
-### Capítulo IV. De la Sanción de Desincorporación
+### Capítulo III. De la Imposición de Sanciones
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 129.
 
-Sin texto (sic)
+La Comisión deberá garantizar que las multas impuestas en términos de esta Ley tengan carácter disuasivo.
+
+La Comisión deberá emitir Disposiciones Regulatorias que establezcan de manera clara, transparente y predecible la metodología y los criterios para la imposición de multas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 130.
 
-En la imposición de multas se deberán considerar los elementos para determinar la gravedad de la infracción, tales como el daño causado; los indicios de intencionalidad; la participación del infractor en los mercados; el tamaño del mercado afectado; la duración de la práctica o concentración; así como su capacidad económica; y en su caso, la afectación al ejercicio de las atribuciones de la Comisión.
+Para individualizar las multas como sanción se deberá considerar, cuando sean aplicables según el tipo de infracción; la gravedad de la infracción; el daño causado; los indicios de intencionalidad; la participación del infractor en los mercados; el tamaño del mercado afectado; la duración de la práctica o concentración; así como su capacidad económica; y en su caso, la afectación al ejercicio de las atribuciones de la Comisión.
 
-### Capítulo V. Del Cumplimiento y Ejecución de las Resoluciones
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Cuando así proceda, la Comisión podrá estimar un daño para individualizar la sanción que corresponda; en el entendido que este importe base sería uno de los diversos elementos que pueden tomarse en consideración conforme el párrafo anterior. Las sanciones que imponga la Comisión con base en Unidades de Medida y Actualización, se calcularán utilizando el valor diario de la Unidad de Medida y Actualización vigente al momento de la realización de la conducta.
+
+### Capítulo IV. De la Sanción de Desincorporación
 
 ###### Artículo 131.
 
@@ -2038,9 +2406,13 @@ Para los efectos del párrafo anterior, en su resolución, la Comisión deberá 
 
 Para efectos de lo dispuesto en este artículo, se entenderá que el infractor ha sido sancionado previamente cuando:
 
-I. Las resoluciones que impongan sanciones hayan causado estado, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado, y que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
+I. Las resoluciones que impongan sanciones hayan causado estado en sede administrativa, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado en sede administrativa, y que entre el inicio del procedimiento y la resolución que haya causado estado en sede administrativa no hayan transcurrido más de diez años.
 
 Para efectos de este artículo, las sanciones impuestas por una pluralidad de prácticas monopólicas o concentraciones ilícitas en un mismo procedimiento se entenderán como una sola sanción.
 
@@ -2050,11 +2422,17 @@ Los Agentes Económicos tendrán derecho a presentar programas alternativos de d
 
 Cuando la Comisión ordene la desincorporación o enajenación de activos, derechos, partes sociales o acciones de los Agentes Económicos, éstas se ejecutarán hasta que se resuelva el juicio de amparo que, en su caso, se promueva.
 
-### Capítulo Único. De la Reparación de los Daños y Perjuicios
+### Capítulo V. Del Cumplimiento y Ejecución de las Resoluciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 132.
 
-Los incidentes relativos al cumplimiento y la ejecución de las resoluciones de la Comisión se desahogarán de conformidad con el procedimiento incidental previsto en esta Ley. En lo no previsto se aplicará lo dispuesto en el Código Federal de Procedimientos Civiles.
+Los incidentes relativos a la verificación del cumplimiento y ejecución de las resoluciones de la Comisión, la imposición de sanciones relacionadas con el incumplimiento a las medidas específicas impuestas a los Agentes Económicos Preponderantes, la recusación, el otorgamiento de medidas cautelares y la reposición de autos, así como cualquier cuestión procesal accesoria al procedimiento principal se desahogarán de conformidad con el procedimiento incidental previsto en esta Ley y en términos de lo establecido en el Reglamento. En lo no previsto se aplicará lo dispuesto en el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Previo y durante el desahogo del procedimiento incidental establecido, la Comisión puede allegarse y requerir la información y documentos que estime convenientes a los sujetos obligados por la resolución y a cualquier persona que pueda aportar información relevante para la verificación de su cumplimiento, quienes deben presentar la información requerida en un plazo de diez días, mismos que pueden prorrogarse por una sola ocasión.
 
 ###### Artículo 133.
 
@@ -2064,23 +2442,27 @@ Tras los alegatos, la Comisión declarará integrado el expediente incidental y 
 
 ## TÍTULO VIII. DE LA REPARACIÓN
 
-### Capítulo I. De las Medidas Cautelares
+### Capítulo Único. De la Reparación de los Daños y Perjuicios
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 134.
 
-Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración ilícita podrán interponer las acciones judiciales en defensa de sus derechos ante los tribunales especializados en materia de competencia económica, radiodifusión y telecomunicaciones hasta que la resolución de la Comisión haya quedado firme.
+Aquellas personas que hayan sufrido daños o perjuicios a causa de una práctica monopólica o una concentración ilícita, así como la Comisión, cuando corresponda, podrán interponer las acciones judiciales individuales o colectivas en defensa de sus derechos ante los tribunales especializados en materia de competencia económica, radiodifusión y telecomunicaciones una vez que la Comisión haya emitido la resolución correspondiente.
 
-El plazo de prescripción para reclamar el pago de daños y perjuicios se interrumpirá con el acuerdo de inicio de investigación.
+El plazo de prescripción para reclamar el pago de daños y perjuicios se contabilizará a partir de la emisión de la resolución por parte de la Comisión.
 
-Con la resolución definitiva que se dicte en el procedimiento seguido en forma de juicio se tendrá por acreditada la ilicitud en el obrar del Agente Económico de que se trate para efectos de la acción indemnizatoria.
+Con la resolución definitiva que se dicte en el procedimiento seguido en forma de juicio se tendrá por acreditada la ilicitud en el obrar del Agente Económico de que se trate para efectos de las acciones previstas en este artículo.
 
 ## TÍTULO IX. DE LA PRESCRIPCIÓN Y MEDIDAS CAUTELARES
 
-### Capítulo II. De la Prescripción
+### Capítulo I. De las Medidas Cautelares
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 135.
 
-En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de las medidas cautelares relacionadas con la materia de la denuncia o investigación que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado de la investigación y resolución del procedimiento. Dicha facultad incluye, pero no se limita a:
+En cualquier momento, la Autoridad Investigadora podrá solicitar al Pleno la emisión de las medidas cautelares relacionadas con la materia del procedimiento que considere necesarias para evitar un daño de difícil reparación o asegurar la eficacia del resultado del procedimiento y de su resolución. Dicha facultad incluye, pero no se limita a:
 
 I. Órdenes de suspensión de los actos constitutivos de las probables conductas prohibidas por esta Ley;
 
@@ -2092,17 +2474,19 @@ IV. Las demás que se consideren necesarias o convenientes.
 
 ###### Artículo 136.
 
-Contra las medidas cautelares previstas en el artículo anterior, el Agente Económico podrá solicitar al Pleno que, mediante el procedimiento expedito que se establezca en las Disposiciones Regulatorias, le fije caución a fin de levantar dichas medidas. La caución deberá de ser bastante para reparar el daño que se pudiera causar al proceso de libre concurrencia y competencia económica si no obtiene resolución favorable. La Comisión emitirá los criterios técnicos respectivos para la determinación de las cauciones.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
-La suspensión que dicte la Comisión no prejuzga respecto del fondo del asunto y cesará al concluir el plazo fijado por el Pleno o en la fecha en que se emita la resolución definitiva.
+### Capítulo II. De la Prescripción
 
-### Capítulo Único. Del Procedimiento para la Elaboración de Directrices, Guías, Lineamientos y Criterios Técnicos
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 137.
 
-Las facultades de la Comisión para iniciar las investigaciones que pudieran derivar en responsabilidad e imposición de sanciones, de conformidad con esta Ley, se extinguen en el plazo de diez años, contado a partir de la fecha en que se realizó la concentración ilícita o, en otros casos a partir de que cesó la conducta prohibida por esta Ley.
+Las facultades de la Comisión para iniciar los procedimientos que pudieran derivar en responsabilidad e imposición de sanciones de conformidad con esta Ley, se extinguen en un plazo de diez años contados a partir de la fecha en que se realizó la concentración ilícita o no autorizada, o en otros casos, a partir de que cesó la conducta prohibida por esta Ley.
 
 ## TÍTULO X. DE LA ELABORACIÓN DE DIRECTRICES, GUÍAS, LINEAMIENTOS Y CRITERIOS TÉCNICOS
+
+### Capítulo Único. Del Procedimiento para la Elaboración de Directrices, Guías, Lineamientos y Criterios Técnicos
 
 ###### Artículo 138.
 
@@ -2115,6 +2499,132 @@ II. Al término del plazo a que se refiere la fracción anterior, la Comisión r
 III. Publicado el informe al que se refiere la fracción anterior, la Comisión tendrá sesenta días para expedir las directrices, guías, lineamientos y criterios técnicos, las cuales serán publicadas un extracto de las mismas en el Diario Oficial de la Federación, e íntegramente en el sitio de Internet de la Comisión.
 
 Las directrices, guías, lineamientos y criterios técnicos referidos en este artículo, deberán revisarse por lo menos cada cinco años, de conformidad con lo señalado en el artículo 12, fracción XXII, de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 139.
+
+La Comisión podrá certificar, en términos del Reglamento y las Disposiciones Regulatorias que al efecto emita, previo pago de derechos, aquellos programas de cumplimiento que implementen los Agentes Económicos en materia de prevención y detección de actos violatorios de esta Ley.
+
+La certificación emitida por la Comisión en términos de este artículo tendrá una vigencia de tres años.
+
+La Comisión podrá valorar la existencia de un programa de cumplimiento debidamente certificado como atenuante, en los términos que establezca el Reglamento.
+
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+# LIBRO CUARTO. DE LAS TELECOMUNICACIONES Y RADIODIFUSIÓN
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+## TÍTULO ÚNICO. De los Procedimientos y Facultades de la Comisión en los sectores de Telecomunicaciones y Radiodifusión
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+### Capítulo I. De la Preponderancia y Regulación Asimétrica
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 140.
+
+La Comisión determinará la existencia de Agentes Económicos Preponderantes en los sectores de Telecomunicaciones y Radiodifusión y les impondrá las medidas necesarias para evitar que se afecte la competencia y la libre concurrencia.
+
+Para efectos de lo dispuesto en esta Ley, se considerará como Agente Económico Preponderante, en razón de su participación nacional en la prestación de los servicios de Radiodifusión o Telecomunicaciones, a cualquiera que cuente, directa o indirectamente, con una participación nacional mayor al cincuenta por ciento, medido este porcentaje ya sea por el número de usuarios, suscriptores, audiencia, por el tráfico en sus redes o por la capacidad utilizada de las mismas, de acuerdo con los datos que proporcione la CRT o en su caso la Agencia.
+
+Las medidas específicas que, en su caso, se impongan al Agente Económico Preponderante se extinguirán en sus efectos por declaratoria de la Comisión una vez que, conforme a esta Ley, existan condiciones de competencia efectiva en el mercado del que se trate.
+
+Lo anterior, sin perjuicio de las facultades previstas para la Comisión en los demás procedimientos previstos en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 141.
+
+Para la determinación de un Agente Económico como Preponderante, así como para la imposición y revisión de las medidas necesarias para evitar que se afecten la competencia y la libre concurrencia, tanto en el sector de radiodifusión como de telecomunicaciones, la Comisión seguirá el siguiente procedimiento:
+
+I. La Comisión notificará al Agente Económico correspondiente el proyecto de declaratoria de preponderancia, el cual deberá proponer un proyecto de medidas correctivas que se consideren necesarias para evitar que se afecten la competencia y la libre concurrencia.
+
+Previo a la emisión del proyecto de declaratoria, la Comisión solicitará a la CRT un dictamen técnico respecto del proyecto de medidas correctivas propuestas por la Comisión.
+
+La CRT tendrá un plazo de cuarenta días para presentar su dictamen técnico. Transcurrido el plazo anterior sin que la CRT emita el dictamen técnico correspondiente, la Comisión continuará el trámite correspondiente;
+
+II. El presunto Agente Económico Preponderante tendrá un plazo de quince días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación mencionada en la fracción anterior, para que manifieste lo que a su derecho convenga y ofrezca los elementos de prueba que considere necesarios, los cuales deberán estar relacionados con el proyecto de Declaratoria de Preponderancia. En caso de no comparecer dentro del plazo antes señalado, se presumirá que no existe inconformidad u oposición alguna del presunto Agente Económico con el proyecto de declaratoria y el expediente será turnado inmediatamente al Pleno para el dictado de resolución definitiva;
+
+III. Una vez concluido el plazo establecido en la fracción anterior, la Comisión se pronunciará sobre la admisión de las pruebas ofrecidas y, en su caso, ordenará abrir un periodo para su preparación y desahogo por un plazo de hasta quince días hábiles.
+
+Se recibirán toda clase de pruebas, excepto la confesional y la testimonial a cargo de autoridades, ni aquellas que sean improcedentes, innecesarias o contrarias a la moral y al derecho.
+
+Queda a cargo del presunto Agente Económico Preponderante llevar a cabo todas las diligencias y actos necesarios para que sus pruebas sean debidamente desahogadas dentro del plazo antes mencionado, de lo contrario se tendrán por desiertas las mismas.
+
+De ser necesario, se celebrará una audiencia en la cual se desahogarán las pruebas que por su naturaleza así lo ameriten, misma que deberá llevarse a cabo dentro del plazo de quince días antes indicado.
+
+La oposición a los actos de trámite durante el procedimiento deberá alegarse por el presunto Agente Económico Preponderante dentro del plazo de los tres días siguientes a aquél en que haya tenido verificativo la actuación que considere le afecta, para que sea tomada en consideración en la resolución definitiva.
+
+Concluida la tramitación del procedimiento, el presunto Agente Económico Preponderante podrá formular alegatos en un plazo no mayor a cinco días hábiles. Transcurrido este último plazo, con o sin alegatos, se turnará el expediente a resolución;
+
+IV. En caso de que durante la instrucción la Comisión considere que es necesario establecer cautelarmente las medidas específicas que se le impondrán al presunto Agente Económico, ordenará su tramitación en vía incidental y resolverá en definitiva.
+
+Previo a la imposición de las medidas específicas por la vía incidental, la Comisión solicitará a la CRT un dictamen técnico respecto de las medidas correctivas propuestas por la Comisión.
+
+La CRT tendrá un plazo de veinte días para emitir su dictamen técnico. Transcurrido el plazo anterior sin que la CRT presente el dictamen técnico correspondiente, la Comisión continuará el trámite correspondiente.
+
+En el incidente, el presunto Agente Económico Preponderante manifestará lo que a su derecho convenga respecto de las medidas que, en su caso, se hayan determinado, dentro de un plazo que no excederá de cinco días hábiles, contado a partir del día siguiente a aquel en que surta efectos la notificación de la apertura del incidente, pudiendo ofrecer solo las pruebas que estén directamente relacionadas con las medidas que propone la Comisión.
+
+En caso de no hacer manifestaciones dentro del plazo antes señalado, se presumirá que no existe inconformidad u oposición alguna respecto de las medidas propuestas y el expediente incidental se tendrá por integrado y será turnado inmediatamente al Pleno para que se emita la resolución definitiva, y
+
+V. El Pleno contará con un plazo de treinta días hábiles para dictar la resolución definitiva correspondiente.
+
+Dicha resolución deberá ser notificada al Agente Económico y se publicará una versión pública en el Diario Oficial de la Federación y en la página de Internet de la Comisión. Asimismo, se dará vista de dicha resolución a la CRT, para los efectos legales a que haya lugar.
+
+La CRT y, en su caso, la Agencia proporcionarán la información y documentos con los que cuenten para efectos del procedimiento establecido en este artículo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+### Capítulo II. De la Propiedad Cruzada
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 142.
+
+En los casos de concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica que, a opinión vinculante por parte de la Agencia, impida o limite el acceso a información plural en tales mercados y zonas, se estará a lo siguiente:
+
+I. La Comisión indicará al concesionario que preste el servicio de televisión restringida de que se trate aquellos canales de información noticiosa o de interés público que deberá integrar en sus servicios, en la medida en que sea necesario para garantizar el acceso a información plural y oportuna, y
+
+II. El concesionario deberá incluir al menos tres canales cuyos contenidos predominantemente sean producción propia de programadores nacionales independientes cuyo financiamiento sea mayoritariamente de origen mexicano, de conformidad con las reglas emitidas a tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 143.
+
+Cuando el concesionario incumpla lo previsto en el artículo anterior, además de las sanciones previstas en el artículo 127 de esta Ley, la Comisión podrá imponer los límites siguientes:
+
+I. A la concentración nacional o regional de bandas de frecuencias del espectro radioeléctrico destinado a la prestación de servicios de radiodifusión;
+
+II. Al otorgamiento de nuevas concesiones de bandas de frecuencias del espectro radioeléctrico destinadas a la prestación de servicios de radiodifusión, o
+
+III. A la propiedad cruzada de empresas que controlen varios medios de comunicación que sean concesionarios de radiodifusión y telecomunicaciones que sirvan a un mismo mercado o zona de cobertura geográfica.
+
+Para efectos de lo anterior, la Comisión podrá solicitar opinión de la Agencia.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 144.
+
+Para la imposición de los límites a que se refiere el artículo anterior, la Comisión considerará:
+
+I. La existencia de barreras a la entrada de nuevos agentes y los elementos que previsiblemente puedan alterar tanto dichas barreras como la oferta de otros competidores en ese mercado o zona de cobertura;
+
+II. La existencia de otros medios de información y su relevancia;
+
+III. Las posibilidades de acceso del o de los Agentes Económicos y sus competidores a insumos esenciales que les permitan ofrecer servicios similares o equivalentes;
+
+IV. El comportamiento durante los dos años previos del o los Agentes Económicos que participan en dicho mercado, y
+
+V. Las ganancias en eficiencia que pudieren derivar de la actividad del Agente Económico que incidan favorablemente en el proceso de competencia y libre concurrencia en ese mercado y zona de cobertura.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 145.
+
+En el caso de que las medidas impuestas por la Comisión en términos de los dos artículos anteriores no hayan resultado eficaces, la Comisión dará vista a la Agencia para que esta, en su caso, ordene lo conducente en términos de las disposiciones jurídicas aplicables.
 
 ## TRANSITORIOS
 
@@ -2227,3 +2737,95 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE COMPETENCIA ECONÓMICA Y DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, conforme a los siguientes párrafos.
+
+Las reformas a los párrafos Décimo Quinto a Vigésimo del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, entrarán en vigor al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio.
+
+Segundo. En tanto se integra el Pleno de la Comisión Nacional Antimonopolio conforme al artículo Tercero Transitorio del presente Decreto, la Comisión Federal de Competencia Económica continuará en sus funciones conforme al marco jurídico previo a la entrada en vigor del presente Decreto.
+
+Los procedimientos iniciados por la Comisión Federal de Competencia Económica y por el Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada, con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán su trámite conforme a las disposiciones vigentes al momento de su inicio, ante las unidades administrativas que establezca el Estatuto Orgánico que al efecto se emita conforme al artículo Noveno Transitorio.
+
+Tercero. El nombramiento y ratificación de las primeras Personas Comisionadas que integrarán el Pleno de la Comisión Nacional Antimonopolio deberá realizarse en términos del artículo 13 Bis de la Ley Federal de Competencia Económica contenida en este Decreto.
+
+Con el objeto de asegurar el escalonamiento en el cargo de las Personas Comisionadas de la Comisión Nacional Antimonopolio, las primeras Personas Comisionadas concluirán su encargo el mismo día y mes en que hayan entrado en funciones de los años 2028, 2029, 2030, 2031 y 2032, respectivamente.
+
+La persona titular del Ejecutivo Federal, al someter los nombramientos a la Cámara de Senadores, señalará los periodos respectivos.
+
+Una vez designadas las primeras personas integrantes del Pleno de la Comisión Nacional Antimonopolio, la persona titular del Ejecutivo Federal designará a la primera Persona Comisionada Presidenta de la Comisión Nacional Antimonopolio en un plazo no mayor a diez días naturales.
+
+El Pleno de la Comisión Nacional Antimonopolio se entenderá integrado una vez que se encuentren nombradas y ratificadas las cinco Personas Comisionadas y la persona titular del Ejecutivo Federal haya designado a quien fungirá como Persona Comisionada Presidenta.
+
+El procedimiento previsto en este artículo Tercero Transitorio deberá iniciarse al momento en que entre en vigor el presente Decreto.
+
+Cuarto. A partir de que entre en vigor el presente Decreto, se suspenden los plazos de todos los procedimientos de investigación sustanciados por la Autoridad Investigadora de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones de conformidad con los artículos 66 a 79, 94, fracciones I a III, y 96, fracciones I a V, de la Ley Federal de Competencia Económica vigente previo a la entrada en vigor del presente Decreto.
+
+En un plazo no mayor a diez días naturales a partir de que entre en vigor el presente Decreto, las Autoridades Investigadoras de la Comisión Federal de Competencia Económica y del Instituto Federal de Telecomunicaciones deberán emitir un acuerdo donde identifiquen los expedientes cuya tramitación se suspende, mismo que deberá ser publicado en el Diario Oficial de la Federación.
+
+Dichos procedimientos se reanudarán al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio.
+
+Quinto. A partir de que entre en vigor el presente Decreto, la Comisión Federal de Competencia Económica, la Secretaría de Economía y demás dependencias de la Administración Pública Federal iniciarán los trámites administrativos correspondientes para que la Comisión Nacional Antimonopolio se encuentre plenamente funcional una vez que se integre su Pleno.
+
+Sexto. A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, quedan derogadas todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, cualquier referencia en la normativa federal o local a la Comisión Federal de Competencia Económica se entenderá como a la Comisión Nacional Antimonopolio.
+
+Séptimo. Los actos jurídicos que la Comisión Federal de Competencia Económica hubiere emitido con anterioridad al día siguiente a la integración del Pleno de la Comisión Nacional Antimonopolio, así como cualquier acto o autorización emitida por el Pleno de la Comisión Federal de Competencia Económica, continuarán surtiendo todos sus efectos legales.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades de la Comisión Federal de Competencia Económica respecto de cualquier procedimiento en curso que ésta tramite o del que sea parte, sea de naturaleza civil, penal, administrativa o de otro tipo.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes celebrados por la Comisión Federal de Competencia Económica, se entenderán como vigentes y obligarán en sus términos a la Comisión Nacional Antimonopolio, sin perjuicio del derecho de las partes a ratificar, modificar o rescindir posteriormente los que, en su caso, correspondan.
+
+Octavo. Los actos jurídicos que el Instituto Federal de Telecomunicaciones hubiere emitido con anterioridad al día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, continuarán surtiendo todos sus efectos legales, incluyendo, más no limitado a, las medidas y obligaciones asimétricas impuestas a los Agentes Económicos Preponderantes.
+
+A partir del día siguiente a aquel en que se integre el Pleno de la Comisión Nacional Antimonopolio, la Comisión Nacional Antimonopolio se sustituirá en todos los derechos, obligaciones y facultades del Instituto Federal de Telecomunicaciones, únicamente respecto de cualquier procedimiento en curso en materia de competencia económica, de preponderancia y de participación cruzada.
+
+Noveno. El Estatuto Orgánico de la Comisión Nacional Antimonopolio y el Reglamento de la Ley Federal de Competencia Económica se deberán emitir en un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio.
+
+Décimo. En tanto se efectúen las adecuaciones señaladas en el artículo Noveno Transitorio y se expiden las disposiciones reglamentarias de esta Ley, se continuará aplicando el Estatuto Orgánico, las Disposiciones Regulatorias, Criterios, Lineamientos y demás normativa emitida por la Comisión Federal de Competencia Económica, en lo que no se oponga al presente Decreto.
+
+Décimo Primero. Los procedimientos previstos en los artículos 132 y 133 de esta Ley también serán aplicables respecto de actos emitidos por la Comisión Federal de Competencia Económica o del Instituto Federal de Telecomunicaciones, este último exclusivamente en materia de competencia económica, preponderancia y participación cruzada.
+
+Décimo Segundo. Una vez que sea designada la Persona Comisionada Presidente deberá realizar el registro de la Comisión Nacional Antimonopolio en el Registro Público de Organismos Descentralizados, de conformidad con lo previsto en la Ley Federal de las Entidades Paraestatales y demás normativa aplicable.
+
+Décimo Tercero. El titular de la Autoridad Investigadora de la Comisión Federal de Competencia Económica continuará en su encargo como titular de la Autoridad Investigadora de la Comisión Nacional Antimonopolio.
+
+Para efectos de lo anterior, se tomará en consideración el plazo que haya durado en su encargo en la Comisión Federal de Competencia Económica para determinar el plazo restante de su encargo de conformidad con el artículo 31 de la Ley Federal de Competencia Económica.
+
+Décimo Cuarto. La Comisión Nacional Antimonopolio deberá contar con el presupuesto suficiente para cumplir cabalmente con su mandato y desempeñar sus atribuciones durante el resto del ejercicio fiscal de 2025, conforme a lo dispuesto en el artículo Décimo Primero Transitorio del Presupuesto de Egresos de la Federación para el ejercicio Fiscal de 2025.
+
+La Cámara de Diputados o, en su caso, la Secretaría de Hacienda y Crédito Público, asignará el presupuesto necesario para garantizar el cumplimiento de las atribuciones de la Comisión Nacional Antimonopolio durante el ejercicio fiscal de 2026 y subsecuentes, a partir de la propuesta que presente la Comisión Nacional Antimonopolio, en los plazos y términos previstos en la legislación aplicable.
+
+Décimo Quinto. Los recursos materiales, incluyendo los registros, padrones, plataformas o cualquier sistema electrónico, de la Comisión Federal de Competencia Económica y aquellos del Instituto Federal de Telecomunicaciones, exclusivamente relacionados con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada, pasarán a la Comisión Nacional Antimonopolio y continuarán su funcionamiento y obligatoriedad en los términos de las disposiciones que los regulan hasta en tanto se emita la normativa que refiere el artículo Noveno Transitorio del presente Decreto.
+
+La Comisión Nacional Antimonopolio garantizará la confidencialidad, resguardo e integridad de la información confidencial que reciba, misma que deberá ser resguardada de manera independiente y a la que no tendrá acceso ningún otro órgano, entidad o dependencia.
+
+Décimo Sexto. La Comisión Federal de Competencia Económica dispondrá de los recursos financieros con los que cuente, incluidos los contenidos en sus fideicomisos, para el pago de indemnizaciones que incluyan sueldos y salarios de conformidad con la normativa aplicable para el personal que no se transfiera a la Comisión Nacional Antimonopolio, siempre y cuando dichos recursos no se encuentren comprometidos para el cumplimiento de fines de los fideicomisos.
+
+La Comisión Nacional Antimonopolio integrará únicamente la estructura del Instituto Federal de Telecomunicaciones relacionada con el cumplimiento de funciones en materia de competencia económica, preponderancia y participación cruzada.
+
+Las personas servidoras públicas de la Comisión Federal de Competencia Económica que dejen de prestar sus servicios en esta y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas habilitados para tales efectos o en los medios que se determinen y conforme a la normativa aplicable a la Administración Pública Federal. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en la Comisión Federal de Competencia Económica que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Las personas que dentro de los diez días naturales previos a la entrada en vigor del presente Decreto se hayan desempeñado como personas servidoras públicas de la Comisión Federal de Competencia Económica, incluyendo a los Comisionados, deben presentar acta administrativa de entrega-recepción institucional e individual, según corresponda, a la persona servidora pública que la autoridad competente designe o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Federal, en los sistemas habilitados para tales efectos, en el entendido de que la entrega que se realice, no implica liberación alguna de responsabilidades que pudieran llegarse a determinar por la autoridad competente con posterioridad.
+
+Décimo Séptimo. A la fecha de integración del Pleno de la Comisión Nacional Antimonopolio, la Comisión Federal de Competencia Económica deberá enterar la totalidad de los recursos presupuestales y financieros disponibles con los que cuente, a la Tesorería de la Federación, incluyendo los derivados de la extinción de sus fideicomisos, mandatos o contratos análogos, así como los productos y aprovechamientos derivados de los mismos, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, la Comisión Federal de Competencia Económica deberá entregar a la Comisión Nacional Antimonopolio la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes, de conformidad con las disposiciones jurídicas aplicables.
+
+La Comisión Federal de Competencia Económica llevará a cabo los actos y procesos necesarios para extinguir los fondos, fideicomisos, mandatos o contratos análogos. Para estos efectos, determinarán las obligaciones de pago que deberán liquidarse con cargo al patrimonio de dichos fideicomisos, previo a su extinción, así como los recursos remanentes que deberán reintegrarse a la Tesorería de la Federación por la institución que actúe como fiduciaria.
+
+Los recursos federales a que se refiere el párrafo primero de este artículo Transitorio deberán ser concentrados por concepto de aprovechamientos en la Tesorería de la Federación y se destinarán por la Secretaría de Hacienda y Crédito Público a cubrir las asignaciones presupuestales necesarias para el funcionamiento de la Comisión Nacional Antimonopolio.
+
+Décimo Octavo. El Órgano Interno de Control de la Comisión Federal de Competencia Económica queda extinto a partir del día siguiente a aquel en el que se integre el Pleno de la Comisión Nacional Antimonopolio. Los asuntos y procedimientos que estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control en la Secretaría de Economía y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Décimo Noveno. A partir de la entrada en vigor del presente Decreto, las personas titulares de las Unidades de Administración y Finanzas o sus equivalentes de la Comisión Federal de Competencia Económica, el Instituto Federal de Telecomunicaciones y la Secretaría de Economía, en el ámbito de sus respectivas competencias, deberán coordinar el proceso de transferencia de los recursos humanos, materiales, financieros, presupuestales, sistemas tecnológicos e informáticos en materia administrativa correspondientes. Lo anterior, sin perjuicio de la coordinación que pudiera existir de manera simultánea entre las unidades administrativas con funciones sustantivas concerniente a los sistemas informáticos, bases de datos, expedientes, entre otros.
+
+Vigésimo. En un plazo no mayor a ciento ochenta días naturales contados a partir del día siguiente a aquel en el que se integre su Pleno, previa autorización de la Secretaría de Hacienda y Crédito Público, la Comisión Nacional Antimonopolio deberá fijar las tarifas o determinar las contraprestaciones derivadas de aprovechamientos por los bienes y servicios que preste, mediante Acuerdo que emita el Pleno.
+
+Los ingresos propios que sean captados por la Comisión Nacional Antimonopolio por concepto de derechos, así como aquellos derivados de aprovechamientos por la fijación y ajuste de tarifas por los bienes y servicios que preste, deberán contribuir a incrementar su capacidad económica y financiar su operación, reduciendo gradualmente la necesidad de recursos presupuestales.
+
+Para fines de lo anterior, la Comisión Nacional Antimonopolio deberá considerar la cantidad de ingresos propios que recaude durante los ejercicios fiscales correspondientes y solicitar, en su caso, durante el proceso de integración del Presupuesto de Egresos de la Federación de cada año, el importe complementario que resulte necesario para el cabal cumplimiento de su mandato.
