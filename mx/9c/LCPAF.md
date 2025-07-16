@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2023-11-15"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -74,7 +74,9 @@ a) Nacionales: Los construidos por la Federación; con fondos federales o median
 
 b) Internacionales: Los construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios sobre las corrientes o vías generales de comunicación que formen parte de las líneas divisorias internacionales.
 
-VI. Secretaría: La Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Secretaría: La Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 VII. Servicios Auxiliares: Los que sin formar parte del autotransporte federal de pasajeros, turismo o carga, complementan su operación y explotación;
 
@@ -1183,3 +1185,21 @@ D.O.F. 15 DE NOVIEMBRE DE 2023.
 Primero.- El presente Decreto entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Titular del Ejecutivo Federal, por conducto de la Secretaría de Infraestructura, Comunicaciones y Transportes deberá modificar la norma N-LEG-3/07 correspondiente al libro legislación parte 3, "Ejecución de obras", en un plazo no mayor de 90 días naturales, contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL; DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y DE LA LEY GENERAL DE BIENES NACIONALES, EN MATERIA FERROVIARIA Y DE ARMONIZACIÓN NORMATIVA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
+
+Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
+
+Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
+
+Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+Sexto.- El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
