@@ -4,7 +4,7 @@ identifier: "LRSF"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2023-05-03"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSF"
 
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -40,31 +40,41 @@ LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
 ### Capítulo I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular la construcción, operación, explotación, conservación, mantenimiento y garantía de interconexión en las vías férreas cuando sean vías generales de comunicación, así como procurar las condiciones de competencia en el servicio público de transporte ferroviario que en ellas opera y los servicios auxiliares.
+La presente Ley es de orden público y de observancia en todo el territorio nacional, y tiene por objeto regular la construcción, operación, explotación, conservación, mantenimiento y garantía de interconexión en las vías férreas cuando sean vías generales de comunicación, así como procurar las condiciones de competencia en el servicio público de transporte ferroviario de pasajeros y de carga que en ellas opera y los Servicios Auxiliares.
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
-
-El servicio ferroviario es una actividad económica prioritaria y corresponde al Estado ser rector de su desarrollo. Al ejercer sus funciones de rectoría, el Estado protegerá en todo momento la seguridad y la soberanía de la Nación y promoverá el desarrollo del servicio ferroviario en condiciones que garanticen la libre competencia entre los diferentes modos de transporte y la eficiencia operativa en la prestación del servicio público de transporte ferroviario.
+El servicio ferroviario es un área prioritaria para el desarrollo nacional y corresponde al Estado su rectoría. Al ejercer esta función, el Estado protegerá en todo momento la seguridad y la soberanía de la Nación y promoverá el desarrollo del servicio ferroviario en condiciones que garanticen la libre competencia entre los diferentes modos de transporte y la eficiencia operativa en la prestación del servicio público de transporte ferroviario.
 
 ###### Artículo 2.
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-I. Agencia: la Agencia Reguladora del Transporte Ferroviario, órgano desconcentrado de la Secretaría;
+I. Agencia: La Agencia de Trenes y Transporte Público Integrado; organismo descentralizado con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión sectorizado a la Secretaría;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Derecho de arrastre: es el que se concede a un concesionario para que su equipo de arrastre sea manejado con el equipo tractivo, la tripulación y en la vía férrea de otro concesionario mediante el cobro de una contraprestación al concesionario solicitante;
+I Bis. Asignación: Título que otorga la Secretaría para la construcción, operación y explotación de vías férreas que sean vías generales de comunicación, así como la prestación del Servicio Público de Transporte Ferroviario y sus Servicios Auxiliares, sin sujetarse al procedimiento de licitación pública a que se refiere la ley, a las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México y entidades paraestatales de la Administración Pública Federal;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. Derecho de paso: es el que se concede a un concesionario para que sus trenes con su tripulación, transiten en las vías férreas de otro concesionario mediante el cobro de una contraprestación al concesionario solicitante;
+I Ter. Autorización: Aquella que se otorga en términos de la presente Ley, entre otros, para la instalación de líneas de transmisión eléctrica, fibra óptica, postes, cercas, ductos de petróleo o sus derivados o cualquiera otra obra subterránea, superficial o aérea, en las vías generales de comunicación ferroviaria, sin perjuicio de lo establecido en otras disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I Quáter. Concesión: Título que otorga la Secretaría para la construcción, operación y explotación de vías férreas que sean vías generales de comunicación, así como la prestación del Servicio Público de Transporte Ferroviario y sus Servicios Auxiliares, mediante licitación pública en términos de la presente Ley a una persona física o moral;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Derecho de arrastre: Es el que se concede a una persona concesionaria o asignataria para que su equipo de arrastre sea manejado con el equipo tractivo, la tripulación y en la vía férrea de otra persona concesionaria, mediante el cobro de una contraprestación a la persona concesionaria o asignataria solicitante;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Derecho de paso: Es el que se concede a una persona concesionaria o asignataria para que sus trenes con su tripulación transiten en las vías férreas de otra persona concesionaria o asignataria mediante el cobro de una contraprestación a la persona solicitante;
 
 IV. Derecho de vía: la franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación ferroviaria, cuyas dimensiones y características fije la Secretaría de Comunicaciones y Transportes;
 
@@ -72,17 +82,31 @@ V. Equipo ferroviario: los vehículos tractivos, de arrastre o de trabajo que ci
 
 VI. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Interconexión: es el servicio que comprende el intercambio de equipo ferroviario, el tráfico interlineal entre concesionarios, los movimientos, traslados y demás acciones necesarias que deban realizarse para la continuidad del tráfico ferroviario y la entrega o devolución de equipo ferroviario respectivo a su destino u origen, incluyendo los servicios de terminal;
+VII. Interconexión: Es el servicio que comprende el intercambio de equipo ferroviario, el tráfico interlineal entre personas concesionarias o asignatarias, los movimientos, traslados y demás acciones necesarias que deban realizarse para la continuidad del tráfico ferroviario y la entrega o devolución de equipo ferroviario respectivo a su destino u origen, incluyendo los servicios de terminal;
 
-VIII. Secretaría: la Secretaría de Comunicaciones y Transportes;
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII Bis. Permiso: Aquel que se otorga en términos del artículo 15 y demás aplicables de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Secretaría: La Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII Bis. Servicios Auxiliares: Los servicios de terminales de personas pasajeras; terminales de carga; transbordo y trasvases de líquidos; talleres de mantenimiento de equipo ferroviario; centros de abasto para la operación de los equipos; terminales de transporte multimodal, y de transporte integrado;
 
 IX. Sistema ferroviario: las vías generales de comunicación ferroviaria, el servicio público de transporte ferroviario y los servicios auxiliares;
 
 X. Servicio público de transporte ferroviario de carga: el que se presta en vías férreas destinado al porte de bienes, incluyendo el servicio de arrastre de vehículos de terceros;
 
 XI. Servicio público de transporte ferroviario de pasajeros: el que se presta en vías férreas destinado al traslado de personas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI Bis. Supervisor de Proyecto: Persona que cuenta con los conocimientos, capacidad y experiencia necesarios, que cumple con los requisitos establecidos en el Reglamento del Servicio Ferroviario y se encarga de validar el proyecto y demás documentos relacionados con las obras de construcción, conservación, ampliación y mantenimiento en las vías férreas que sean vías generales de comunicación; así como de garantizar la observancia y cumplimiento de la normatividad aplicable en el proyecto ferroviario y las consideraciones técnicas específicas de los subsistemas que lo integran;
 
 XII. Terminal: tratándose del servicio público de transporte ferroviario de pasajeros, las instalaciones en donde se efectúa la salida y llegada de trenes para el ascenso y descenso de pasajeros y, tratándose del servicio público de transporte ferroviario de carga, en las que se realiza la recepción, almacenamiento, clasificación, consolidación y despacho de bienes, y
 
@@ -128,9 +152,17 @@ IV. Los códigos de Comercio; Civil para el Distrito Federal en materia común, 
 
 Corresponde a la Secretaría, en materia de servicio ferroviario, el ejercicio de las atribuciones siguientes:
 
-I. Planear, formular y conducir las políticas y programas, así como regular el desarrollo del sistema ferroviario, con base al Plan Nacional de Desarrollo, y a los planes sectoriales respectivos, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Otorgar las concesiones y permisos a que se refiere esta Ley, verificar su cumplimiento y resolver sobre su modificación o terminación.
+I. Planear, formular y conducir las políticas y programas, así como regular el desarrollo del sistema ferroviario, con base en el Plan Nacional de Desarrollo, y en los programas sectoriales respectivos, por sí o a través de la Agencia;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Otorgar las concesiones y asignaciones a que se refiere esta Ley y resolver sobre su modificación o terminación; así como verificar su cumplimiento por sí o a través de la Agencia;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Administrar el derecho que tiene el Estado para la utilización de las vías ferroviarias, con la finalidad de prestar el servicio público de transporte ferroviario de pasajeros y de carga; dicho servicio podrá otorgarse mediante asignación o concesión.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -138,25 +170,73 @@ II. Otorgar las concesiones y permisos a que se refiere esta Ley, verificar su c
 
 Corresponde a la Agencia el ejercicio de las atribuciones siguientes:
 
-I. Determinar las características y especificaciones técnicas de las vías férreas, del servicio público de transporte ferroviario y de sus servicios auxiliares, de la infraestructura física de interconexión, la expedición y aplicación de las normas oficiales mexicanas aplicables;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Determinar las características y especificaciones técnicas de las vías férreas, del servicio público de transporte ferroviario y de sus Servicios Auxiliares, de la infraestructura física de interconexión, la expedición y aplicación de las normas oficiales mexicanas en materia ferroviaria, así como verificar su cumplimiento;
 
 II. Verificar que las vías férreas, los servicios públicos de transporte ferroviario y sus servicios auxiliares cumplan con las disposiciones aplicables;
 
-III. Garantizar la interconexión en las vías férreas cuando sean vías generales de comunicación; establecer las condiciones y contraprestaciones cuando los concesionarios no lleguen a un acuerdo en los casos de derechos de arrastre y de paso;
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Bis. Asistir a la Secretaría en la planeación del desarrollo estratégico en materia ferroviaria y tramitar ante ésta el otorgamiento de concesiones y asignaciones para la construcción, operación y explotación del Sistema Ferroviario y para la prestación del servicio público de transporte ferroviario, así como su prórroga, modificación, cesión, revocación y terminación, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Ter. Apoyar a la Secretaría en los procesos de licitación pública para la construcción, operación y explotación de vías férreas, así como para la prestación del servicio público de transporte ferroviario;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Quáter. Planear y coordinar con las autoridades administrativas competentes de los tres órdenes de gobierno y con las personas concesionarias, asignatarias o particulares, la construcción, reconstrucción o modernización y ampliación de tramos, así como la construcción de libramientos ferroviarios que eviten el paso por las poblaciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Quinquies. Fomentar el desarrollo de infraestructura multimodal para incrementar la accesibilidad al transporte de pasajeros y de carga del país;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II Sexies. Evaluar las propuestas de las personas concesionarias, asignatarias y terceros, relativas a la planeación, construcción, modernización, reconstrucción y conservación de la obra pública e infraestructura para la prestación del servicio público de transporte ferroviario y multimodal;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Garantizar la interconexión en las vías férreas cuando sean vías generales de comunicación; establecer las condiciones y contraprestaciones cuando las personas concesionarias o asignatarias no lleguen a un acuerdo en los casos de derechos de arrastre y de paso;
 
 IV. Establecer bases de regulación tarifaria cuando no existan condiciones de competencia efectiva;
 
-V. Integrar el registro de las concesiones y permisos que se otorguen conforme a lo dispuesto en la presente Ley;
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV Bis. Proponer a la Secretaría las dimensiones y características del derecho de vía en los proyectos de construcción, reconstrucción o modernización de las vías férreas concesionadas o asignadas, así como su modificación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV Ter. Coadyuvar, en coordinación con la Secretaría y las autoridades competentes de los tres órdenes de gobierno, en las acciones que se requieran para la adquisición, ocupación, liberación y regularización del derecho de vía de las obras que deriven de los programas de construcción, modernización, conservación y reconstrucción de vías ferroviarias;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Integrar el registro de las concesiones, asignaciones y permisos que se otorguen conforme a lo dispuesto en la presente Ley;
 
 VI. Interpretar esta Ley para efectos administrativos;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México competentes y a los concesionarios para que en el ámbito de sus facultades promuevan medidas de Seguridad Pública para la adecuada operación del servicio público ferroviario;
+VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México competentes y a las personas concesionarias, asignatarias y permisionarias para que implementen las acciones necesarias para garantizar el correcto funcionamiento del sistema ferroviario;
 
 VIII. Promover la expansión y el uso de la red ferroviaria;
 
-IX. Cooperar con las autoridades migratorias, de Seguridad Pública y con los concesionarios, para llevar a cabo las acciones necesarias para resolver cuestiones de migración e inseguridad que afecten el servicio público de transporte ferroviario, garantizando que en todo momento se respeten los derechos humanos;
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII Bis. Proponer a la Secretaría, en caso fortuito o de fuerza mayor, la imposición de modalidades en la operación y explotación de las vías férreas, así como en la prestación del servicio público de transporte ferroviario, por el tiempo y proporción que resulte estrictamente necesario;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII Ter. Aprobar las pólizas de los seguros y sus renovaciones que en materia de transporte ferroviario y multimodal deben contratar las personas concesionarias, asignatarias, permisionarias y autorizadas;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Cooperar con las autoridades migratorias, de seguridad pública y con las personas concesionarias, asignatarias y permisionarias para llevar a cabo las acciones necesarias para resolver cuestiones de migración e inseguridad que afecten el servicio público de transporte ferroviario, garantizando que en todo momento se respeten los derechos humanos;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX Bis. Supervisar el cumplimiento y observancia de los criterios, lineamientos, procedimientos y demás disposiciones jurídicas y administrativas que se emitan en materia de transporte ferroviario, sus Servicios Auxiliares y el transporte multimodal, por parte de las personas concesionarias, asignatarias, permisionarias, autorizadas y particulares, en coordinación con la Secretaría;
 
 X. Registrar las tarifas máximas de flete, para los efectos previstos en el artículo 46;
 
@@ -164,47 +244,91 @@ XI. Registrar los servicios diversos, sus reglas de aplicación y sus tarifas, c
 
 XII. Elaborar, registrar y publicar la estadística de los indicadores de los servicios ferroviarios;
 
-XIII. Valorar el uso de vías cortas o ramales que no sean explotadas o se encuentren en desuso por los concesionarios y en su caso, determinar su retorno al Estado para ser concesionadas en términos a lo establecido por esta Ley;
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIV. Imponer sanciones por infracciones a las disposiciones legales, reglamentarias y administrativas, o por incumplimiento a lo dispuesto en los títulos de concesión o las resoluciones, medidas, lineamientos o disposiciones emitidas por la propia Agencia, así como dictar medidas precautorias o declarar, en su caso, la pérdida de bienes en beneficio de la Nación;
+XII Bis. Emitir los lineamientos relativos a la verificación de la operación del sistema ferroviario que tengan por objeto el cumplimiento de las condiciones establecidas en las concesiones, asignaciones, permisos y autorizaciones ferroviarias de transporte multimodal y de Servicios Auxiliares de esta Ley, el Reglamento del Servicio Ferroviario y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XII Ter. Verificar el cumplimiento de las condiciones de esta Ley establecidas en las concesiones, asignaciones, permisos y autorizaciones del transporte público ferroviario y sus Servicios Auxiliares, el Reglamento del Servicio Ferroviario y demás disposiciones aplicables. Asimismo, emitir, en su caso, la recomendación a la Secretaría sobre la modificación o terminación de las concesiones y asignaciones;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIII. Valorar el uso de vías cortas o ramales que no sean explotadas o se encuentren en desuso por las personas concesionarias y asignatarias y, en su caso, determinar su retorno al Estado para ser concesionadas o asignadas en términos de lo establecido por esta Ley;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XIV. Imponer sanciones por infracciones a las disposiciones legales, reglamentarias y administrativas o por incumplimiento a lo dispuesto en las concesiones, asignaciones, permisos, autorizaciones o las resoluciones, medidas, normas oficiales, lineamientos o disposiciones emitidas por la propia Agencia, así como dictar medidas precautorias o declarar, en su caso, la pérdida de bienes en beneficio de la Nación;
 
 XV. Participar y organizar foros y paneles internacionales en materia del servicio ferroviario;
 
-XVI. Realizar estudios e investigaciones en materia ferroviaria, y emitir resoluciones, lineamientos y disposiciones de observancia obligatoria para los concesionarios, permisionarios y usuarios de los servicios ferroviarios;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XVII. Dirimir cualquier controversia entre los usuarios y concesionarios como prestadores del servicio ferroviario;
+XVI. Realizar estudios e investigaciones en materia ferroviaria y emitir resoluciones, lineamientos y disposiciones de observancia obligatoria para las personas concesionarias, asignatarias, permisionarias y usuarias de los servicios ferroviarios;
 
-XVIII. Solicitar a los concesionarios todo tipo de información que permita el ejercicio de sus atribuciones. La información que se solicite podrá incluir, entre otras, la relativa a los criterios que los concesionarios utilicen para la determinación de las tarifas y para la aplicación de descuentos; información respecto de las vías operadas por cada concesionario; características y condiciones de convenios celebrados entre concesionarios o entre éstos y los usuarios, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVII. Dirimir cualquier controversia en materia administrativa entre las personas usuarias, concesionarias, asignatarias, permisionarias, autorizadas, como prestadoras del servicio ferroviario;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVIII. Solicitar a las personas concesionarias, asignatarias, permisionarias, autorizadas o terceras relacionadas con la prestación del servicio público de transporte ferroviario, todo tipo de información que permita el ejercicio de sus atribuciones. La información que se solicite podrá incluir, entre otras, la relativa a los criterios que las personas concesionarias, asignatarias, permisionarias y autorizadas utilicen para la determinación de las tarifas y para la aplicación de descuentos; información respecto de las vías operadas por cada concesión o asignación; características y condiciones de los convenios celebrados entre las personas concesionarias o entre éstas y las personas usuarias;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVIII Bis. Otorgar los permisos y autorizaciones a que se refiere esta Ley, y resolver sobre su modificación o terminación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVIII Ter. Construir vías generales de comunicación ferroviarias, para la operación, explotación y prestación del servicio público de transporte ferroviario;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XVIII Quáter. Adquirir infraestructura férrea, así como sus componentes y equipo de transporte público ferroviario, y
 
 XIX. Las demás que señalen ésta y otras disposiciones legales aplicables.
 
 Al ejercer sus facultades, la Agencia garantizará en todo momento el desarrollo eficiente y en un entorno de competencia de la industria ferroviaria.
 
-### Capítulo II. De las concesiones y permisos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
 
-#### Sección Primera. De las concesiones
+### Capítulo II. De las concesiones, asignaciones y permisos
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+#### Sección Primera. De las concesiones y asignaciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 7.
 
-Se requiere de concesión para:
+Se requiere de concesión o asignación para:
 
 I. Construir, operar y explotar vías férreas, que sean vía general de comunicación.
 
-Los concesionarios podrán contratar con terceros, la construcción, la conservación y el mantenimiento de las vías férreas, pero, en todo momento, el concesionario será el único responsable ante el Gobierno Federal por las obligaciones establecidas a su cargo en la respectiva concesión, y
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las personas concesionarias o asignatarias podrán contratar con terceras personas la construcción, operación, conservación y mantenimiento de las vías férreas, pero, en todo momento, la persona concesionaria o asignataria será la única responsable ante la Secretaría o la Agencia, según corresponda, por las obligaciones establecidas a su cargo en la respectiva concesión o asignación, y
 
 II. Prestar el servicio público de transporte ferroviario.
 
-Las concesiones de que trata el presente artículo podrán comprender los permisos para prestar servicios auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el artículo 15 de la presente Ley.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las concesiones o asignaciones de que trata el presente artículo podrán comprender los permisos para prestar Servicios Auxiliares, caso en el cual no será necesario obtener el permiso a que se refiere el artículo 15 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 8.
 
-Las vías generales de comunicación ferroviaria se mantendrán en todo momento dentro del dominio público de la Federación. Las vías férreas que se construyan al amparo de un título de concesión, pasarán a formar parte del dominio público inmediatamente, con independencia de las condiciones y plazo de la concesión.
+Las vías generales de comunicación ferroviaria se mantendrán en todo momento dentro del dominio público de la Federación. Las Vías férreas que se construyan al amparo de una concesión o asignación pasarán a formar parte del dominio público inmediatamente, con independencia de las condiciones y plazo de la concesión o asignación.
 
-> <small>(ADICIONADO, D.O.F. 8 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 8 Bis.
 
-Para el otorgamiento de los títulos de concesión o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento de esta Ley, lo siguiente:
+Para el otorgamiento de una concesión, asignación o la resolución de las prórrogas a que se refiere la presente Ley, la Secretaría deberá tramitar ante la Secretaría de Hacienda y Crédito Público, en términos del Reglamento del Servicio Ferroviario, lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 8 DE JUNIO DE 2016)</small>
 
 I. La opinión favorable sobre la rentabilidad económica del proyecto respectivo.
 
@@ -214,7 +338,11 @@ Para efectos de esta fracción, la Secretaría deberá remitir a la Secretaría 
 
 En todo caso, los recursos que se destinen para liberar el derecho de vía, se considerarán dentro de los costos totales del proyecto;
 
+> <small>(ADICIONADA, D.O.F. 8 DE JUNIO DE 2016)</small>
+
 II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE JUNIO DE 2016)</small>
 
 III. La determinación de las contraprestaciones que el concesionario deba cubrir al Gobierno Federal, en términos de las disposiciones jurídicas aplicables. Para efectos de esta fracción, la Secretaría deberá presentar a la Secretaría de Hacienda y Crédito Público la propuesta de dichas contraprestaciones.
 
@@ -222,13 +350,17 @@ III. La determinación de las contraprestaciones que el concesionario deba cubri
 
 Las concesiones a que se refiere este capítulo se otorgarán mediante licitación pública, conforme a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-I. La Secretaría, por sí o a petición del interesado, expedirá convocatoria pública para que se presenten proposiciones en presencia de los participantes.
+I. La Secretaría, por sí o a petición de la persona interesada, cuando sea procedente, expedirá convocatoria pública para que se presenten propuestas en los términos establecidos.
 
-Cuando exista petición del interesado, la Secretaría, en un plazo de 180 días naturales, expedirá la convocatoria; o señalará al propio interesado las razones de la improcedencia de su petición, en un plazo no mayor de 90 días naturales.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-En caso de no emitir una convocatoria pública para las nuevas concesiones, conforme al plazo establecido en el párrafo anterior, el interesado podrá interponer su inconformidad ante el superior jerárquico, mismo que en un plazo no mayor a 15 días naturales resolverá lo conducente.
+Cuando exista petición de la persona interesada, la Secretaría, en un plazo de 180 días naturales, expedirá la convocatoria o señalará por escrito de manera fundada y motivada a dicha persona las razones de la improcedencia de su petición, en un plazo no mayor de 90 días naturales.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En caso de no emitir una convocatoria pública o fundar la improcedencia de esta, conforme al plazo establecido en el párrafo anterior, la persona interesada podrá interponer los recursos previstos en la normatividad aplicable.
 
 La Secretaría deberá garantizar, en las bases de licitación y en los títulos de concesión respectivos, que en todos los tramos técnicamente posibles de contacto entre las vías férreas, los concesionarios se otorguen mutuamente los servicios de interconexión y de terminal, incluyendo los derechos de paso obligatorios estipulados en los títulos de concesión y los derechos de arrastre, en términos del artículo 35 de esta Ley.
 
@@ -246,13 +378,19 @@ d) El plazo de la concesión, y
 
 e) Los criterios para el otorgamiento de la concesión, entre los cuales se considerarán, según sea el caso, las contraprestaciones ofrecidas al Estado por el otorgamiento de la concesión; la calidad del servicio que se propone; el programa y calendario de inversiones; los volúmenes de operación; las bases para determinar los precios y las tarifas para el usuario, y las demás condiciones que se consideren convenientes.
 
-IV. Los interesados deberán demostrar su capacidad jurídica, técnica, administrativa y financiera, debiendo señalar en forma preliminar, aquellas actividades cuya ejecución pretendan contratar con terceros y cumplir con los demás requisitos que se establezcan.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Entre tales requisitos, los interesados deberán contar con opinión de la Comisión Federal de Competencia, respecto de su participación en la licitación de que se trate.
+IV. Las personas interesadas deberán demostrar su capacidad jurídica, técnica, administrativa y financiera, debiendo señalar en forma preliminar, aquellas actividades cuya ejecución pretendan contratar con terceras personas y cumplir con los demás requisitos que se establezcan.
 
-V. La Secretaría emitirá el fallo con base en el análisis comparativo de las proposiciones recibidas, el cual será dado a conocer a todos los participantes. La evaluación de las proposiciones se hará con base en los criterios contenidos en las bases a que se refiere el inciso e) de la fracción III anterior;
+Entre tales requisitos, las personas interesadas deberán contar con la opinión de la autoridad competente en materia de competencia económica, respecto de su participación en la licitación de que se trate.
 
-VI. La Secretaría, en su caso, otorgará la concesión dentro del plazo señalado en las bases correspondientes, y el título respectivo se publicará en el Diario Oficial de la Federación a costa del concesionario, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. La Secretaría emitirá el fallo con base en el análisis comparativo de las proposiciones recibidas, el cual será dado a conocer a todas las personas participantes. La evaluación de las proposiciones se hará con base en los criterios contenidos en las bases a que se refiere el inciso e) de la fracción III anterior;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. La Secretaría, en su caso, otorgará la concesión dentro del plazo señalado en las bases correspondientes, y el título respectivo se publicará en el Diario Oficial de la Federación a costa de la persona concesionaria, y
 
 VII. No se otorgará la concesión cuando las proposiciones presentadas no aseguren las mejores condiciones de eficiencia para la prestación del servicio ferroviario; o la proposición económica no sea satisfactoria a juicio de la Secretaría; o no cumplan con los requisitos de las bases de la licitación. En estos casos, se declarará desierta la licitación y podrá expedirse una nueva convocatoria.
 
@@ -260,9 +398,13 @@ VII. No se otorgará la concesión cuando las proposiciones presentadas no asegu
 
 La Secretaría podrá otorgar asignaciones a los estados, municipios y entidades paraestatales de la Administración Pública Federal, sin sujetarse al procedimiento de licitación a que se refiere esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-El título de asignación a favor de entidades paraestatales tendrá una vigencia indefinida. Una vez otorgada dicha asignación no podrá cederse o transferirse bajo ningún título; solo podrá concluir cuando se acredite fehacientemente que no existe utilidad o interés públicos (sic), interés general, interés social o razones de seguridad nacional que lo justifiquen.
+Las personas interesadas deberán demostrar su capacidad jurídica, técnica, administrativa y financiera, debiendo señalar en forma preliminar, aquellas actividades cuya ejecución pretendan contratar con terceras personas.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+El título de asignación a favor de entidades paraestatales de la Administración Pública Federal tendrá una vigencia indefinida. Una vez otorgada dicha asignación no podrá cederse o transferirse bajo ningún título; solo podrá concluir cuando se acredite fehacientemente que no existe utilidad o interés público, interés general, interés social o razones de seguridad nacional que lo justifiquen.
 
 ###### Artículo 11.
 
@@ -276,45 +418,63 @@ III. Acepte las nuevas condiciones que establezca la Secretaría, y
 
 IV. Hubiera realizado el mejoramiento de las instalaciones y la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 12.
 
-El título de concesión deberá contener, como mínimo, lo siguiente:
+El título de concesión o asignación deberá contener, como mínimo, lo siguiente:
 
-I. Nombre y domicilio del concesionario;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Nombre y domicilio de la persona concesionaria o asignataria;
 
 II. Objeto:
 
-a) La vía troncal, ruta o ramal a cubrir por la concesión;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-b) La descripción de los bienes, obras e instalaciones que, en su caso, se concesionan, así como los compromisos de conservación y mantenimiento de los mismos, y
+a) La vía troncal, ruta o ramal a cubrir por la concesión o asignación;
 
-c) Las características y especificaciones del servicio público de transporte ferroviario que, en su caso, se concesiona.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+b) La descripción de los bienes, obras e instalaciones que, en su caso, se concesionan o asignan, así como los compromisos de conservación y mantenimiento de los mismos, y
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+c) Las características y especificaciones del servicio público de transporte ferroviario que, en su caso, se concesiona o asigna.
 
 III. Los servicios auxiliares que, en su caso, podrán prestarse;
 
 IV. Los programas de inversión, construcción, explotación, conservación y modernización de la infraestructura;
 
-V. Los derechos y obligaciones de los concesionarios;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Los derechos y obligaciones de las personas concesionarias o asignatarias;
 
 VI. Los indicadores de eficiencia y seguridad para la evaluación correspondiente;
 
 VII. El periodo de vigencia;
 
-VIII. Las características y el monto de la garantía que, en su caso, deberá otorgar el concesionario, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII. Las características y el monto de la garantía que, en su caso, deberá otorgar la persona concesionaria o asignataria, y
 
 IX. En su caso, forma de pago de las contraprestaciones.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 13.
 
-Los bienes muebles concesionados en los términos de esta Ley, podrán enajenarse cuando en razón de su uso o características hayan sido sustituidos, tales como rieles, durmientes y señales.
+Los bienes muebles concesionados o asignados en los términos de esta ley, podrán enajenarse cuando en razón de su uso o características hayan sido sustituidos, tales como rieles, durmientes y señales.
 
-Los concesionarios, previa autorización de la Secretaría, podrán constituir gravámenes sobre los derechos derivados de la concesión. En las escrituras públicas correspondientes se hará constar que bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión y que al terminar la concesión, por cualquiera de las causas señaladas en el artículo 20 de esta Ley, los bienes de dominio público se reintegrarán a la Nación.
+Las personas concesionarias o asignatarias, previa autorización de la Secretaría, podrán constituir gravámenes sobre los derechos derivados de la concesión o asignación. En las escrituras públicas correspondientes se hará constar que bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión o asignación y que al terminar la concesión, por cualquiera de las causas señaladas en el artículo 20 de esta Ley los bienes de dominio público se reintegrarán a la Nación.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 14.
 
-Las vías férreas, el derecho de vía, los centros de control de tráfico, las señales de operación ferroviaria y los demás bienes que se hubieren concesionado, al terminar la concesión, revertirán a la Nación en buen estado operativo, sin costo alguno.
+Las vías férreas, el derecho de vía, los centros de control de tráfico, las señales de operación ferroviaria y los demás bienes que se hubieren concesionado o asignado, al terminar la concesión o asignación, se revertirán a la Nación en buen estado operativo, sin costo alguno, así como los que se hubieren construido adicionalmente durante la vigencia de la concesión o asignación.
 
-El Gobierno Federal tendrá derecho de preferencia para adquirir el equipo ferroviario y demás bienes que considere necesarios para continuar con la prestación del servicio.
+La Secretaría o la Agencia, según corresponda, tendrán derecho de preferencia para adquirir el equipo ferroviario y demás bienes muebles que consideren necesarios para continuar con la prestación del servicio.
 
 #### Sección Segunda. De los permisos
 
@@ -324,11 +484,11 @@ Se requiere permiso para:
 
 I. Prestar los servicios auxiliares a que se refiere el artículo 44 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Construir accesos, cruzamientos e instalaciones marginales, en el derecho de vía de las vías férreas; excluyendo la construcción e instalación de espuelas, así como de líneas que tengan como objeto únicamente el transporte de carga propia o de pasajeros entre dos puntos dentro de la misma propiedad y que no se conecten a una vía general de trasporte (sic) público ferroviario mismas que se podrán construir sin necesidad de concesión o permiso.
+II. Construir accesos, cruzamientos e instalaciones marginales en el derecho de vía de las vías férreas, excluyendo la construcción e instalación de espuelas, así como de líneas que tengan como objeto únicamente el transporte de carga propia o de pasajeros entre dos puntos dentro de la misma propiedad y que no se conecten a una vía general de transporte público ferroviario, mismas que se podrán construir sin necesidad de concesión, asignación o permiso.
 
-Para efectos del párrafo anterior se entiende por carga propia aquella destinada por el propietario o propietarios de la línea al autoabastecimiento; a su integración en los procesos de producción interna, o a su transporte hacia un punto terminal con las redes del servicio público de transporte ferroviario, siempre y cuando dicho traslado de carga o pasajeros no implique comercialización a terceros.
+Para efectos del párrafo anterior se entiende por carga propia aquella destinada por la persona propietaria o propietarias de la línea al autoabastecimiento, a su integración en los procesos de producción interna o a su transporte hacia un punto terminal con las redes del servicio público de transporte ferroviario, siempre y cuando dicho traslado de carga o personas pasajeras no implique comercialización a terceras personas.
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -338,13 +498,15 @@ III. Instalar anuncios y señales publicitarias en el derecho de vía;
 
 IV. Construir y operar puentes sobre vías férreas, y
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. La construcción, conservación y mantenimiento de vías férreas por parte de las empresas cuando éstas se ofrezcan para su explotación y operación a terceros que tengan concesión para el servicio público de transporte ferroviario, sujeto al pago de una contraprestación.
+V. La construcción, conservación y mantenimiento de vías férreas por parte de las empresas cuando éstas se ofrezcan para su explotación y operación a terceros que tengan concesión o asignación para el servicio público de transporte ferroviario, sujeto al pago de una contraprestación. La Agencia no requerirá de permiso para los previstos en las fracciones II, IV y V del presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 16.
 
-Los permisos a que se refiere el artículo anterior se otorgarán previo cumplimiento de los requisitos exigidos; por los plazos y con las condiciones que establezcan los reglamentos de la presente Ley; y en atención a la naturaleza del servicio.
+Los permisos a que se refiere el artículo anterior se otorgarán previo cumplimiento de los requisitos exigidos; por los plazos y con las condiciones que establezca el Reglamento del Servicio Ferroviario y en atención a la naturaleza del servicio.
 
 En todo caso, la resolución correspondiente deberá emitirse en un plazo que no exceda de 90 días naturales, contado a partir de aquél en que se hubiere presentado la solicitud debidamente integrada.
 
@@ -362,11 +524,13 @@ Los concesionarios deberán dar aviso a la Secretaría de las modificaciones que
 
 Los permisos sólo se otorgarán a personas físicas o morales mexicanas.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 18.
 
-La Secretaría autorizará, dentro de un plazo de 90 días naturales, contado a partir de la presentación de la solicitud, la cesión total o parcial de los derechos y obligaciones establecidos en las concesiones o permisos, siempre que el cesionario se comprometa a realizar las obligaciones que se encuentren pendientes, y asuma las condiciones que, al efecto, establezca la Secretaría.
+La Secretaría tratándose de concesiones y la Agencia de permisos, autorizarán, dentro de un plazo de 90 días naturales, contados a partir de la presentación de la solicitud, la cesión total o parcial de los derechos y obligaciones establecidos en las concesiones o permisos, siempre que la persona cesionaria se comprometa a realizar las obligaciones que se encuentren pendientes, y asuma las condiciones que, al efecto, establezca la Secretaría o la Agencia, según corresponda.
 
-Las partes interesadas, previamente a la presentación de la solicitud a que se refiere el párrafo anterior, deberán dar aviso a la Comisión Federal de Competencia.
+Las partes interesadas, previamente a la presentación de la solicitud a que se refiere el párrafo anterior, deberán dar aviso a la autoridad competente en materia de competencia económica.
 
 ###### Artículo 19.
 
@@ -406,9 +570,9 @@ II. Ceder, gravar o transferir las concesiones o permisos, los derechos en ellos
 
 III. Si el concesionario o permisionario cambian de nacionalidad;
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Interrumpir el concesionario la operación de la vía férrea o la prestación del servicio público de transporte ferroviario, total o parcialmente, salvo en los casos expresamente permitidos por esta Ley, sus reglamentos y las normas oficiales mexicanas;
+IV. Interrumpir el concesionario la operación de la vía férrea o la prestación del servicio público de transporte ferroviario, total o parcialmente, salvo en los casos expresamente permitidos por esta Ley, el Reglamento del Servicio Ferroviario y las normas oficiales mexicanas;
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -434,15 +598,25 @@ IX. En su caso, no otorgar o no mantener en vigor la garantía de cumplimiento d
 
 X. No mantener las vías férreas concesionadas de acuerdo con los estándares establecidos en los reglamentos o normas oficiales mexicanas, y
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XI. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, sus reglamentos y en el título de concesión o permisos respectivos.
+XI. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, el Reglamento del Servicio Ferroviario y en el título de concesión o asignación o en el permiso o autorización respectivo.
 
-> <small>N. DE E. EN CUANTO A LA CANTIDAD DE PÁRRAFOS SE RESPETÓ LA LITERALIDAD DE LA PUBLICACIÓN OFICIAL, VÉASE D.O.F. 26 DE ENERO DE 2015.</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Por solicitud de la Agencia, la Secretaría procederá de inmediato a la revocación de las concesiones y permisos en los supuestos de las fracciones I a III.
+Por solicitud de la Agencia, la Secretaría procederá a la revocación de inmediato de las concesiones o asignaciones en los supuestos de las fracciones I a III.
 
-En los casos de las fracciones IV a XI, la Secretaría, previa opinión de la Agencia, podrá revocar la concesión o el permiso cuando previamente hubiese sancionado al respectivo concesionario o permisionario, en tres ocasiones en un periodo de 5 años por la causa prevista en la misma fracción.
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Agencia procederá a la revocación de los permisos en los supuestos de las fracciones I a III.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En los casos de las fracciones IV a XI, la Secretaría, previa opinión de la Agencia, podrá revocar la concesión cuando previamente la Agencia hubiese sancionado a la respectiva persona concesionaria en tres ocasiones en un periodo de 5 años por la causa prevista en la misma fracción.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Tratándose de permisos en los casos de las fracciones IV a XI, la Agencia podrá revocarlos cuando previamente hubiese sancionado al respectivo permisionario, en tres ocasiones por alguna de las causas previstas en dichas fracciones.
 
 ###### Artículo 22.
 
@@ -458,11 +632,15 @@ Para atender necesidades derivadas de caso fortuito o de fuerza mayor, la Secret
 
 Los servicios ferroviarios se prestarán a todos los usuarios solicitantes de manera permanente, uniforme y en condiciones equitativas en cuanto a oportunidad, calidad y precio.
 
-La Agencia, previa consulta a los concesionarios, permisionarios y usuarios, deberá determinar y publicar, para efectos estadísticos, los indicadores referentes a los servicios, eficiencia operativa, administrativa y de atención que deberán prestar a los usuarios, considerando los criterios o principios que sean reconocidos internacionalmente para tal efecto.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Agencia, previa consulta a los concesionarios, asignatarios permisionarios, y usuarios, deberá determinar y publicar, para efectos estadísticos, los indicadores referentes a los servicios, eficiencia operativa, administrativa y de atención que deberán prestar a los usuarios, considerando los criterios o principios que sean reconocidos internacionalmente para tal efecto.
 
 La Agencia tendrá la facultad de monitorear y evaluar los indicadores establecidos en el párrafo anterior y, en su caso, emitirá recomendaciones particulares para la implementación de acciones a efecto de mantener los estándares del servicio ferroviario.
 
-Los servicios ferroviarios podrán interrumpirse total o parcialmente, previa autorización por parte de la Secretaría, por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los servicios ferroviarios podrán interrumpirse total o parcialmente, previa autorización por parte de la Secretaría, respecto de las fracciones I y II, o de la Agencia respecto de las fracciones III y IV siguientes:
 
 I. La ausencia de condiciones de Seguridad Pública que impidan o no permitan llevar a cabo la prestación del servicio público;
 
@@ -478,45 +656,71 @@ IV. Las demás causas que se establezcan en la presente Ley.
 
 Es de utilidad pública la construcción, conservación y mantenimiento de las vías férreas.
 
-La Secretaría por sí, o a petición y por cuenta de los interesados o concesionarios, efectuará la compraventa o, en su defecto, promoverá la expropiación de los terrenos, construcciones y bancos de material, necesarios para la construcción, conservación y mantenimiento de vías férreas, incluyendo los derechos de vía.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Secretaría, a petición de la Agencia o por cuenta de las personas interesadas, concesionarias o asignatarias, efectuará la compraventa o, en su defecto, promoverá la expropiación de los terrenos, construcciones y bancos de material, necesarios para la construcción, conservación y mantenimiento de vías férreas, incluyendo los derechos de vía.
 
 Los terrenos federales y aguas nacionales, así como los materiales existentes en éstos, podrán ser utilizados para la construcción, conservación y mantenimiento de las vías férreas, y derechos de vía correspondientes, conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 26.
 
-Los concesionarios de vías férreas contarán con centros de control de tráfico, los que se deberán establecer dentro del territorio nacional.
+Las personas concesionarias y asignatarias de vías férreas contarán con centros de control de tráfico, los que se deberán establecer dentro del territorio nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 27.
 
-Para realizar trabajos de construcción o reconstrucción en las vías férreas concesionadas, se requerirá la aprobación previa de la Secretaría del proyecto ejecutivo y demás documentos relacionados con las obras que pretendan ejecutarse.
+Para realizar trabajos de construcción o reconstrucción en las vías generales de comunicación ferroviarias, la persona interesada deberá:
 
-Se exceptúan de lo dispuesto en el párrafo anterior, los trabajos de urgencia, de mantenimiento y los trabajos menores de construcción que los concesionarios realicen para la conservación y buen funcionamiento de las vías férreas concesionadas, en el entendido de que informarán a la Secretaría en los términos que establezcan los reglamentos respectivos.
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Validar el proyecto y los documentos relacionados con las obras que pretendan ejecutarse, debidamente dictaminados y verificados por el Supervisor de Proyecto, que contrate bajo su costa y estricta responsabilidad, quien deberá cumplir con los requisitos establecidos en el Reglamento del Servicio Ferroviario.
+
+El Supervisor de Proyecto deberá aprobar y garantizar que el proyecto ferroviario cumpla con la normatividad vigente, así como las consideraciones técnicas específicas de los subsistemas que lo integran, conforme a los criterios establecidos en el Reglamento del Servicio Ferroviario;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Presentar ante la Agencia la solicitud de factibilidad técnica del proyecto, así como los documentos relacionados con las obras que pretendan ejecutarse, debidamente validados, en términos de la fracción anterior.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Se exceptúan de lo dispuesto en el párrafo anterior, los trabajos de urgencia, de mantenimiento y los trabajos menores de construcción que las personas concesionarias o asignatarias realicen para la conservación y buen funcionamiento de las vías férreas concesionadas o asignadas, en el entendido de que informarán a la Agencia en los términos que establece el artículo 38 de esta Ley y los demás reglamentos respectivos; circunstancias que deberán ser debidamente acreditadas ante la Agencia inmediatamente después de iniciados los trabajos.
 
 En los casos en que se pretenda que las vías férreas crucen centros de población u otras vías de comunicación, los proyectos respectivos deberán contener las previsiones necesarias para garantizar la seguridad de los habitantes y el funcionamiento adecuado de las vías de comunicación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La factibilidad técnica permanecerá vigente durante el tiempo de ejecución de la obra, debiendo solicitarse una nueva cuando existan cambios de acuerdo a las necesidades propias del proyecto.
 
 ###### Artículo 28.
 
 Los concesionarios realizarán la conservación y el mantenimiento de la vía general de comunicación ferroviaria con la periodicidad y las especificaciones técnicas que al efecto establezcan los reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 29.
 
-Si el concesionario no opera, mantiene o conserva las vías férreas en buen estado, en términos de la presente Ley, la Secretaría podrá nombrar un verificador especial por el tiempo que resulte necesario para corregir las irregularidades de que se trate. Los gastos que se originen por tal verificación serán por cuenta del concesionario.
+Si la persona concesionaria o asignataria no opera, mantiene o conserva las vías férreas en buen estado, en términos de la presente Ley, la Agencia podrá nombrar un verificador especial por el tiempo que resulte necesario para corregir las irregularidades de que se trate. Los gastos que se originen por tal verificación serán por cuenta de la persona concesionaria o asignataria.
 
 ###### Artículo 30.
 
 Toda obra que se requiera para la prestación del servicio ferroviario dentro de los límites de un centro de población, deberá cumplir con lo dispuesto en la legislación, programas y zonificación en materia de desarrollo urbano y protección ambiental.
 
-La Secretaría, tomando en cuenta las circunstancias de cada caso, promoverá con los estados, municipios, concesionarios o particulares la conservación, reconstrucción y ampliación de tramos federales, y la construcción de libramientos que eviten el paso por las poblaciones.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+La Secretaría, por sí o a través de la Agencia, tomando en cuenta las circunstancias de cada caso, promoverá con los estados, municipios, personas concesionarias, asignatarias o particulares la conservación, reconstrucción y ampliación de tramos federales, y la construcción de libramientos que eviten el paso por las poblaciones.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 31.
 
-Las obras de construcción y mantenimiento de los cruzamientos de vías férreas se harán por cuenta del operador de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos aplicables.
+Las obras de construcción y mantenimiento de los cruzamientos de vías férreas se harán por cuenta de la persona operadora de la vía u obra que cruce a la ya establecida, previo cumplimiento de los requisitos aplicables.
 
-Los cruzamientos de las vías férreas por otras vías o por otras obras podrán llevarse a cabo por medio de pasos elevados, pasos a desnivel, o a nivel, previa autorización por parte de la Secretaría, en el entendido que, los cruzamientos a nivel en zonas urbanas solamente serán autorizados cuando las condiciones de seguridad, económicas y sociales así lo permitan.
+Los cruzamientos de las vías férreas por otras vías o por otras obras podrán llevarse a cabo por medio de pasos elevados, pasos a desnivel o a nivel, previa autorización por parte de la Agencia, en el entendido que, los cruzamientos a nivel en zonas urbanas solamente serán autorizados cuando las condiciones de seguridad, económicas y sociales así lo permitan.
 
-En todos los casos, los cruzamientos de las vías férreas que se autoricen conforme a este artículo, deberán tener las señalizaciones necesarias con el objeto de minimizar los riesgos y la ocurrencia de accidentes. Las señalizaciones serán construidas, mantenidas y operadas por el operador de la vía u obra que cruce a la establecida con anterioridad.
+En todos los casos, los cruzamientos de las vías férreas que se autoricen conforme a este artículo deberán tener las señalizaciones necesarias con el objeto de minimizar los riesgos y la ocurrencia de accidentes. Las señalizaciones serán construidas, mantenidas y operadas por la persona operadora de la vía u obra que cruce a la establecida con anterioridad.
 
 ###### Artículo 31 Bis.
 
@@ -530,57 +734,71 @@ En todos los casos, los cruzamientos de las vías férreas que se autoricen conf
 
 (DEROGADO, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 32.
 
-En los terrenos adyacentes a las vías generales de comunicación materia de esta Ley, hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse obras o industrias que requieran el empleo de explosivos, salvo previa autorización expresa de la Secretaría.
+En los terrenos adyacentes a las vías generales de comunicación materia de esta Ley, hasta en una distancia de 100 metros del límite del derecho de vía, no podrán establecerse obras o industrias que requieran el empleo de explosivos, salvo previa autorización expresa de la Agencia.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 33.
 
-La Secretaría en coordinación con la autoridad municipal correspondiente, de acuerdo a lo previsto en la legislación aplicable, podrá requerir que los predios colindantes a las vías férreas, se cerquen o delimiten, según se requiera, respecto del derecho de vía, por razones de seguridad.
+La Agencia, en coordinación con la autoridad municipal correspondiente, de acuerdo a lo previsto en la legislación aplicable, podrá requerir que los predios colindantes a las vías férreas, se cerquen o delimiten, según se requiera, respecto del derecho de vía, por razones de seguridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 34.
 
-Se requiere autorización de la Secretaría para la instalación de líneas de transmisión eléctrica, fibra óptica, postes, cercas, ductos de petróleo o sus derivados, o cualquiera otra obra subterránea, superficial o aérea, en las vías generales de comunicación ferroviaria, sin perjuicio de lo establecido en otras disposiciones aplicables.
+Se requiere autorización de la Agencia para la instalación de líneas de transmisión eléctrica, fibra óptica, postes, cercas, ductos de petróleo o sus derivados, o cualquiera otra obra subterránea, superficial o aérea, en las vías generales de comunicación ferroviaria, sin perjuicio de lo establecido en otras disposiciones aplicables.
 
-En estos casos, el Estado podrá obtener una contraprestación por el aprovechamiento de la vía general de comunicación, sin perjuicio de la contraprestación que pudiere corresponder al concesionario de la vía férrea.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Las dependencias del Gobierno Federal, en coordinación con la Secretaría, podrán realizar cualesquiera de las obras señaladas en el primer párrafo de este artículo, dentro del derecho de vía de las vías férreas, sin pagar contraprestación alguna.
+En estos casos, el Estado podrá obtener una contraprestación por el aprovechamiento de la vía general de comunicación, sin perjuicio de la contraprestación que pudiere corresponder a la persona concesionaria o asignataria de la vía férrea.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las dependencias del gobierno federal, en coordinación con la Agencia, podrán realizar cualesquiera de las obras señaladas en el primer párrafo de este artículo, dentro del derecho de vía de las vías férreas, sin pagar contraprestación alguna.
 
 Las obras o instalaciones a que se refiere este artículo no deberán perjudicar la prestación del servicio público de transporte ferroviario o las instalaciones de las vías férreas.
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 35.
 
-Los concesionarios, a cambio de una contraprestación previamente convenida, deberán prestar a otros concesionarios los servicios de interconexión, derecho de arrastre y de terminal requeridos para la prestación del servicio público de transporte ferroviario.
+Las personas concesionarias o asignatarias, a cambio de una contraprestación previamente convenida, deberán prestar a otras personas concesionarias o asignatarias los servicios de interconexión, derecho de arrastre y de terminal requeridos para la prestación del servicio público de transporte ferroviario.
 
-En caso de que los concesionarios no llegaren a un acuerdo dentro de los 60 días naturales siguientes a la fecha en que hubieren iniciado las negociaciones, la Agencia escuchará a las partes, considerando los criterios o principios que sean reconocidos internacionalmente para tal efecto, a fin de establecer las condiciones y contraprestaciones en un plazo máximo de 30 días naturales, conforme a las cuales deberán prestarse dichos servicios, dentro de un procedimiento que incluya a los concesionarios involucrados.
+En caso de que las personas concesionarias y asignatarias no llegaren a un acuerdo dentro de los 60 días naturales siguientes a la fecha en que hubieren iniciado las negociaciones, la Agencia escuchará a las partes, considerando los criterios o principios que sean reconocidos internacionalmente para tal efecto, a fin de establecer las condiciones y contraprestaciones en un plazo máximo de 30 días naturales, conforme a las cuales deberán prestarse dichos servicios, dentro de un procedimiento que incluya a las personas concesionarias y asignatarias involucradas.
 
-Para determinar los criterios o principios para fijar las condiciones y contraprestaciones a que se refiere el párrafo anterior, la Agencia podrá solicitar la opinión de la Comisión Federal de Competencia Económica. Los concesionarios deberán remitir a la Secretaría copia de los convenios que celebren en términos del presente artículo.
+Para determinar los criterios o principios para fijar las condiciones y contraprestaciones a que se refiere el párrafo anterior, la Agencia podrá solicitar la opinión de la autoridad competente en materia de competencia económica. Las personas concesionarias y asignatarias deberán remitir a la Agencia copia de los convenios que celebren en términos del presente artículo.
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 36.
 
-Los concesionarios deberán permitir la interconexión en su modalidad de derechos de paso obligatorios: (i) estipulados en los títulos de concesión; (ii) cuando sean pactados de mutuo acuerdo; o (iii) cuando sean establecidos por la Agencia previa determinación de ausencia de condiciones de competencia efectiva en un trayecto o ruta determinado, por parte de la Comisión Federal de Competencia Económica.
+Las personas concesionarias y asignatarias deberán permitir la interconexión en su modalidad de derechos de paso obligatorios: (i) estipulados en los títulos de concesión y asignación; (ii) cuando sean pactados de mutuo acuerdo; o (iii) cuando sean establecidos por la Agencia previa determinación de ausencia de condiciones de competencia efectiva en un trayecto o ruta determinado, por parte de la autoridad facultada en materia de competencia económica.
+
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 Cualquier derecho de paso otorgado en términos de este artículo deberá de contemplar la vía, los productos, la longitud y los puntos de origen y destino de los derechos de paso.
 
-La longitud total de los derechos de paso que se otorguen en términos de este artículo a un concesionario, no excederán la longitud de las vías otorgadas en concesión, incluyendo en dicha longitud los kilómetros de los derechos de paso establecidos en la concesión inicial otorgada por el Gobierno Federal a través de la Secretaría de Comunicaciones y Transportes a dicho concesionario.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+La longitud total de los derechos de paso que se otorguen en términos de este artículo a una persona concesionaria o asignataria, no excederán la longitud de las vías otorgadas en concesión o asignación, incluyendo en dicha longitud los kilómetros de los derechos de paso establecidos en la concesión o asignación inicial otorgada por el gobierno federal a través de la Secretaría a dicha persona concesionaria o asignataria.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 36 Bis.
 
-A partir de la resolución de ausencia de competencia efectiva por parte de la Comisión Federal de Competencia Económica, la Agencia escuchará a las partes, con el objeto de fijar las condiciones y contraprestaciones de los derechos de paso, en un plazo máximo de 30 días naturales.
+A partir de la resolución de ausencia de competencia efectiva emitida por parte de la autoridad facultada en materia de competencia económica, la Agencia escuchará a las partes, con el objeto de fijar las condiciones y contraprestaciones de los derechos de paso, en un plazo máximo de 30 días naturales.
 
-Para determinar los criterios o principios para fijar las condiciones y contraprestaciones a que se refiere el párrafo anterior, la Agencia considerará los criterios o principios que sean reconocidos internacionalmente para derechos de paso y podrá solicitar la opinión de la Comisión Federal de Competencia Económica.
+Para determinar los criterios o principios para fijar las condiciones y contraprestaciones a que se refiere el párrafo anterior, la Agencia considerará los criterios o principios que sean reconocidos internacionalmente para derechos de paso y podrá solicitar la opinión de la autoridad facultada en materia de competencia económica.
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 36 Ter.
 
-Cuando el servicio público de transporte de carga o pasajeros que solicite el usuario se refiera a rutas que involucren la participación de más de un concesionario, el usuario tendrá el derecho de elegir entre acordar una tarifa de forma independiente con cada concesionario sobre la porción de la ruta que le corresponde o de forma integral sobre el total de la ruta con el concesionario de origen o el concesionario de destino.
+Cuando el servicio público de transporte de pasajeros o de carga que solicite la persona usuaria se refiera a rutas que involucren la participación de más de una persona concesionaria o asignataria, la persona usuaria tendrá el derecho de elegir entre acordar una tarifa de forma independiente con cada persona concesionaria o asignataria sobre la porción de la ruta que le corresponde o de forma integral sobre el total de la ruta con la persona concesionaria o asignataria de origen o la persona concesionaria o asignataria de destino.
 
 ### Capítulo IV
 
@@ -594,9 +812,11 @@ I. De pasajeros, y
 
 II. De carga.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 38.
 
-Los concesionarios que presten el servicio público de transporte ferroviario deberán contar con el equipo adecuado para el tipo de servicio que presten y el personal capacitado para manejarlo, y proporcionarlo en condiciones de seguridad, eficiencia, rapidez y funcionalidad, de acuerdo con lo dispuesto en esta Ley
+Las personas concesionarias o asignatarias que presten el servicio público de transporte ferroviario deberán contar con el equipo adecuado para el tipo de servicio que ejercen y el personal capacitado para manejarlo y proporcionarlo en condiciones de seguridad, eficiencia, rapidez y funcionalidad, de acuerdo con lo dispuesto en esta Ley.
 
 ###### Artículo 39.
 
@@ -604,21 +824,27 @@ El equipo ferroviario deberá cumplir las condiciones de peso, dimensiones, capa
 
 El equipo tractivo deberá contar con dispositivos de control gráfico o electrónico de velocidad máxima.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 40.
 
-El personal que opere o auxilie en la operación del equipo ferroviario deberá obtener licencia federal ferroviaria que expida la Secretaría y someterse a exámenes médicos.
+El personal que opere o auxilie en la operación del equipo ferroviario deberá obtener licencia federal ferroviaria que expida la Agencia, y someterse a los exámenes médicos que establezca la norma.
 
-Los concesionarios estarán obligados a vigilar y constatar que su personal cumpla con lo dispuesto en el párrafo anterior.
+Las personas concesionarias y asignatarias estarán obligadas a vigilar y constatar que su personal cumpla con lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 41.
 
-Los concesionarios del servicio público de transporte ferroviario tendrán la obligación, de conformidad con la ley de la materia, de proporcionar al personal a que se refiere el artículo anterior, la capacitación y el adiestramiento que se requiera para que la prestación de los servicios sea eficiente y segura.
+Las personas concesionarias y asignatarias del servicio público de transporte ferroviario tendrán la obligación, de conformidad con la ley de la materia, de proporcionar al personal a que se refiere el artículo anterior, la capacitación y el adiestramiento que se requiera para que la prestación de los servicios sea eficiente y segura.
 
-La Secretaría, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con otras autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, según sea necesario para garantizar la seguridad en la prestación de los servicios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan. En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que permitan considerar las propuestas y operaciones de los concesionarios del servicio público del transporte ferroviario.
+La Agencia, sin perjuicio de las atribuciones que correspondan a la Secretaría del Trabajo y Previsión Social, en coordinación con las autoridades federales competentes, determinará los lineamientos generales aplicables para la definición de aquellos conocimientos, habilidades y destrezas que requieran de certificación, según sea necesario, para garantizar la seguridad en la prestación de los servicios. Dicha certificación se sujetará al régimen que las autoridades señaladas establezcan. En la determinación de los lineamientos generales antes citados, las autoridades competentes establecerán procedimientos que permitan considerar las propuestas y operaciones de las personas concesionarias y asignatarias del servicio público del transporte ferroviario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 42.
 
-La concesión para la prestación del servicio público de transporte ferroviario de carga autoriza a sus titulares para realizar el transporte de cualquier tipo de bienes.
+La concesión y asignación para la prestación del servicio público de transporte ferroviario de carga autoriza a sus titulares para realizar el transporte de cualquier tipo de bienes.
 
 La Secretaría regulará el transporte de materiales, residuos, remanentes y desechos peligrosos que circulen en las vías férreas, sin perjuicio de las atribuciones que la ley otorga a otras dependencias del Ejecutivo Federal.
 
@@ -626,15 +852,21 @@ La Secretaría regulará el transporte de materiales, residuos, remanentes y des
 
 El Gobierno Federal promoverá la prestación del servicio público de transporte ferroviario en las comunidades aisladas que no cuenten con otro medio de transporte al público.
 
-Los concesionarios estarán obligados a proporcionar servicio a dichas comunidades en los términos y condiciones que establezca la Secretaría, lo que deberá establecerse en el título de concesión respectivo. En estos casos, el Gobierno Federal podrá otorgar un subsidio directamente al concesionario.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Los concesionarios deberán adoptar las medidas necesarias que permitan atender de manera adecuada a los discapacitados y a las personas de edad avanzada.
+Las personas concesionarias y asignatarias estarán obligadas a proporcionar servicio a dichas comunidades en los términos y condiciones que establezca la Secretaría, lo que deberá establecerse en la concesión o asignación respectiva. En estos casos, el gobierno federal podrá otorgar un subsidio directamente al concesionario.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Las personas concesionarias y asignatarias deberán adoptar las medidas necesarias que permitan atender de manera adecuada a las personas con discapacidad y a las personas de edad avanzada.
 
 ### Capítulo V. De los servicios auxiliares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 44.
 
-Los permisos que en los términos de esta Ley otorgue la Secretaría para la prestación de servicios auxiliares, serán los siguientes:
+Los permisos que en los términos de esta Ley otorgue la Agencia para la prestación de Servicios Auxiliares, serán los siguientes:
 
 I. Terminales de pasajeros;
 
@@ -654,31 +886,29 @@ En el caso de las terminales de carga y de los servicios de transbordo y transva
 
 ### Capítulo VI. De las tarifas
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 46.
 
-Los concesionarios y permisionarios fijarán libremente las tarifas, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, eficiencia, competitividad, seguridad y permanencia.
+Las personas concesionarias, asignatarias y permisionarias fijarán libremente las tarifas, en términos que permitan la prestación de los servicios en condiciones satisfactorias de calidad, eficiencia, competitividad, seguridad y permanencia.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+Las personas concesionarias, asignatarias y permisionarias registrarán previamente ante la Agencia, para su puesta en vigor, las tarifas máximas aplicables a la prestación del servicio público de transporte ferroviario, Servicios Auxiliares y a la prestación de los servicios diversos, atendiendo a las características específicas de cada servicio, debiendo publicarlas en medios electrónicos. Se exceptúan de lo anterior, aquellas tarifas que sean pactadas mutuamente entre personas concesionarias y usuarias, las cuales deberán estar disponibles en todo momento a petición de la Agencia.
 
-Los concesionarios y permisionarios registrarán previamente ante la Agencia, para su puesta en vigor, las tarifas máximas aplicables a la prestación del servicio público de transporte ferroviario, servicios auxiliares y a la prestación de los servicios diversos, atendiendo a las características específicas de cada servicio, debiendo publicarlas en medios electrónicos. Se exceptúan de lo anterior, aquellas tarifas que sean pactadas mutuamente entre concesionarios y usuarios, las cuales deberán estar disponibles en todo momento a petición de la Agencia.
+Para el caso de los servicios diversos, además de las tarifas aplicables a los mismos y cualquier otro cargo, las personas concesionarias, asignatarias y permisionarias deberán registrar ante la Agencia el catálogo de dichos servicios y cargos, y sus reglas de aplicación, pudiendo la Agencia, en cualquier momento, solicitar información adicional respecto de la determinación de dichas tarifas.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
+Cualquier modificación a las tarifas máximas de servicios diversos y cargos deberá ser registrada ante la Agencia antes de su aplicación, debiendo la persona concesionaria o permisionaria acompañar la justificación correspondiente. La Agencia podrá emitir recomendaciones respecto de los incrementos propuestos. Asimismo, la Agencia podrá, en cualquier momento, en caso de estimarlo conveniente, solicitar la opinión de la autoridad facultada en materia de competencia económica para que proceda en términos de sus facultades.
 
-Para el caso de los servicios diversos, además de las tarifas aplicables a los mismos y cualquier otro cargo, los concesionarios y permisionarios deberán registrar ante la Agencia el catálogo de dichos servicios y cargos, y sus reglas de aplicación, pudiendo la Agencia, en cualquier momento, solicitar información adicional respecto de la determinación de dichas tarifas.
-
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2018)</small>
-
-Cualquier modificación a las tarifas máximas de servicios diversos y cargos deberá ser registrada ante la Agencia antes de su aplicación, debiendo el concesionario o permisionario acompañar la justificación correspondiente. La Agencia podrá emitir recomendaciones respecto de los incrementos propuestos. Asimismo, la Agencia podrá, en cualquier momento, en caso de estimarlo conveniente, solicitar la opinión de la Comisión Federal de Competencia Económica para que proceda en términos de sus facultades.
-
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 47.
 
-La Agencia deberá establecer bases de regulación tarifaria, por sí o a petición de parte afectada, previa resolución de la Comisión Federal de Competencia Económica que determine que no existen condiciones de competencia efectiva.
+La Agencia deberá establecer bases de regulación tarifaria, por sí o a petición de parte afectada, previa resolución de la autoridad facultada en materia de competencia económica que determine que no existen condiciones de competencia efectiva.
 
-Para los efectos del párrafo anterior la Agencia, dentro de los 30 días naturales siguientes a la resolución por parte de la Comisión Federal de Competencia Económica, previa audiencia de las partes, establecerá la tarifa conforme a la cual deberá prestarse el servicio público para el usuario solicitante, garantizando en todo momento la eficiencia del servicio.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para los efectos del párrafo anterior la Agencia, dentro de los 30 días naturales siguientes a la resolución por parte de la autoridad facultada en materia de competencia económica, previa audiencia de las partes, establecerá la tarifa conforme a la cual deberá prestarse el servicio público para la persona usuaria solicitante, garantizando en todo momento la eficiencia del servicio.
+
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2015)</small>
 
 Las bases tarifarias que se establezcan conforme al párrafo anterior se mantendrán mientras subsistan las condiciones que la (sic) motivaron.
 
@@ -694,17 +924,21 @@ Los equipos ferroviarios extranjeros que se internen en el territorio nacional d
 
 ### Capítulo VIII. De las responsabilidades
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 50.
 
-Las medidas que adopten los concesionarios del servicio público de transporte ferroviario de pasajeros, deberán ser suficientes para garantizar la seguridad e integridad de los pasajeros durante el trayecto, desde que aborden hasta que desciendan del vehículo.
+Las medidas que adopten las personas concesionarias y asignatarias del servicio público de transporte ferroviario de pasajeros, deberán ser suficientes para garantizar la seguridad e integridad de los pasajeros durante el trayecto, desde que aborden hasta que desciendan del vehículo.
 
-Los concesionarios responderán a los usuarios por los daños que sufran en su persona o en su equipaje en la prestación del servicio.
+Las personas concesionarias y asignatarias responderán a las personas usuarias por los daños que sufran en su persona o en su equipaje en la prestación del servicio.
 
-En todo caso, los concesionarios deberán proporcionar un seguro que ampare los daños que pudieren ocasionarse a su persona y a su equipaje.
+En todo caso, las personas concesionarias y asignatarias deberán proporcionar un seguro que ampare los daños que pudieren ocasionarse a su persona y a su equipaje.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 51.
 
-Los concesionarios del servicio público de transporte ferroviario de carga son responsables de las pérdidas y daños que sufran los bienes o productos que transporten, desde el momento en que reciban la carga hasta que la entreguen a su destinatario, excepto en los siguientes casos:
+Las personas concesionarias y asignatarias del servicio público de transporte ferroviario de carga son responsables de las pérdidas y daños que sufran los bienes o productos que transporten, desde el momento en que reciban la carga hasta que la entreguen a su destinatario, excepto en los siguientes casos:
 
 I. Por vicios propios de los bienes o productos, o por embalajes inadecuados;
 
@@ -714,17 +948,19 @@ III. Cuando los bienes se transporten a petición escrita del remitente en vehí
 
 IV. Cuando sean falsas las declaraciones o instrucciones del cargador, del consignatario o destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 52.
 
-En los casos en que el usuario del servicio pretenda que el concesionario responda ante la pérdida o daño que puedan sufrir sus bienes por el precio total de los mismos, inclusive los derivados de caso fortuito o fuerza mayor, deberá declarar el valor correspondiente y, en su caso, cubrir un cargo adicional equivalente al costo de la garantía respectiva que pacte con el concesionario.
+En los casos en que la persona usuaria del servicio pretenda que la persona concesionaria o asignataria responda ante la pérdida o daño que puedan sufrir sus bienes por el precio total de los mismos, inclusive los derivados de caso fortuito o fuerza mayor, deberá declarar el valor correspondiente y, en su caso, cubrir un cargo adicional equivalente al costo de la garantía respectiva que pacte con la persona concesionaria o asignataria.
 
 Cuando el usuario del servicio no declare el valor de la mercancía, la responsabilidad quedará limitada a la cantidad equivalente a 15 días de salario mínimo general vigente en el Distrito Federal por tonelada, o la parte proporcional que corresponda tratándose de embarque de menor peso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 53.
 
-Es obligación de los concesionarios del servicio público de transporte ferroviario de pasajeros o de carga, en los términos que determine la Secretaría, conforme al Reglamento de esta Ley, garantizar el pago de los daños que puedan ocasionarse a terceros en su persona y sus bienes, vías generales de comunicación y cualquier otro daño que pudiera generarse por el equipo o por la carga.
+Es obligación de las personas concesionarias y asignatarias del servicio público de transporte ferroviario de pasajeros o de carga, en los términos que determine la Agencia, conforme al Reglamento del Servicio Ferroviario, garantizar el pago de los daños que puedan ocasionarse a terceros en su persona y sus bienes, vías generales de comunicación y cualquier otro daño que pudiera generarse por el equipo o por la carga.
 
 > <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
 
@@ -756,17 +992,21 @@ El Gobierno Federal, salvo en el caso de guerra internacional, indemnizará a lo
 
 ### Capítulo X. De la verificación
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 57.
 
-La Secretaría verificará el cumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables. Para tal efecto, los concesionarios y permisionarios estarán obligados a permitir el acceso a los verificadores de la Secretaría a sus instalaciones; a transportarlos en sus equipos para que realicen la verificación en términos de la presente Ley, y en general, a otorgarles todas las facilidades para estos fines.
+La Agencia verificará el cumplimiento de esta Ley, el Reglamento del Servicio Ferroviario y demás disposiciones aplicables. Para tal efecto, las personas concesionarias, asignatarias y permisionarias estarán obligadas a permitir el acceso a las personas verificadoras de la Agencia o a las personas verificadoras de las Unidades de Verificación autorizadas a sus instalaciones, a transportarlos en sus equipos para que realicen la verificación en términos de la presente Ley y, en general, a otorgarles todas las facilidades para estos fines.
 
-La Secretaría, por sí o a través de los verificadores, podrá requerir a los concesionarios y permisionarios, informes con los datos que permitan a la Secretaría conocer la operación y explotación del servicio ferroviario.
+La Agencia por sí o a través de las personas verificadoras, podrá requerir a las personas concesionarias, asignatarias y permisionarias, informes con los datos que permitan a la Agencia conocer la operación y explotación del servicio ferroviario.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 58.
 
-Las certificaciones de las unidades de verificación establecidas por terceros tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Secretaría en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+Las certificaciones de las unidades de verificación establecidas por terceros tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Agencia en términos de lo dispuesto por la Ley de Infraestructura de la Calidad.
 
-La Secretaría podrá autorizar directamente a las empresas concesionarias o permisionarias de servicios ferroviarios que puedan contar con los elementos técnicos necesarios y el personal capacitado, para que realicen por sí la verificación físico-mecánica de su equipo ferroviario.
+La Agencia podrá autorizar directamente a las personas concesionarias, asignatarias o permisionarias de servicios ferroviarios que puedan contar con los elementos técnicos necesarios y el personal capacitado para que realicen por sí la verificación físico-mecánica de su equipo ferroviario.
 
 ### Capítulo XI. De las sanciones
 
@@ -776,59 +1016,99 @@ La Secretaría podrá autorizar directamente a las empresas concesionarias o per
 
 Las infracciones a lo dispuesto en la presente ley, serán sancionadas por la Agencia de acuerdo con lo siguiente:
 
-I. Prestar servicio público de transporte ferroviario sin la concesión respectiva, con multa de diez mil a veinticinco mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-II. Prestar servicio público de transporte ferroviario con equipo cuyas condiciones no cumplan con los reglamentos correspondientes y demás disposiciones aplicables, con multa de mil a veinte mil salarios mínimos;
+I. Prestar servicio público de transporte ferroviario sin la concesión o asignación respectiva, con multa de 68 a 169 veces el valor de la UMA anual;
 
-III. No mantener las vías férreas en buen estado operativo, con multa de mil a veinte mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+II. Prestar servicio público de transporte ferroviario con equipo cuyas condiciones no cumplan con los reglamentos correspondientes y demás disposiciones aplicables, con multa de 7 a 136 veces el valor de la UMA anual;
 
-IV. Aplicar tarifas de flete y de servicios diversos superiores a los registrados ante la Agencia o si éstas no se aplican en igualdad de condiciones a los usuarios para servicios comparables, con multa de mil a veinte mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. Tripular en estado de ebriedad o bajo los efectos de enervantes, con multa de doscientos a mil salarios mínimos y suspensión de la licencia por un año; por la segunda infracción, cancelación de la licencia.
+III. No mantener las vías férreas en buen estado operativo, con multa de 7 a 136 veces el valor de la UMA anual;
 
-En el supuesto anterior, al concesionario del servicio de transporte se le impondrá una multa de quinientos a dos mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VI. Rebasar los máximos de velocidad establecidos o no respetar las señales, con multa al o los responsables de doscientos a mil salarios mínimos; suspensión de la licencia por seis meses por la segunda infracción, y cancelación de la misma por la tercera infracción.
+IV. Aplicar tarifas de flete y de servicios diversos superiores a los registrados ante la Agencia o si éstas no se aplican en igualdad de condiciones a los usuarios para servicios comparables, con multa de 7 a 136 veces el valor de la UMA anual;
 
-En el supuesto anterior, al concesionario del servicio de transporte se le impondrá una multa de quinientos a dos mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Conducir vehículos de transporte ferroviario sin la licencia que exige la ley, con multa de doscientos a mil salarios mínimos.
+V. Tripular en estado de ebriedad o bajo los efectos de enervantes, con multa de 2 a 4 veces el valor de la UMA anual; y suspensión de la licencia por un año; por la segunda infracción, cancelación de la licencia.
 
-En el supuesto anterior, al concesionario del servicio de transporte se le impondrá una multa de quinientos a dos mil salarios mínimos;
+En el supuesto anterior, a la persona concesionaria o asignataria del servicio de transporte se le impondrá una multa de 6 a 14 veces el valor de la UMA anual;
 
-VIII. Destruir, inutilizar, desactivar, remover o cambiar una señal establecida para la seguridad de las vías férreas o del equipo ferroviario, con multa de cien a tres mil salarios mínimos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2015)</small>
+VI. Rebasar los máximos de velocidad establecidos o no respetar las señales, con multa al o los responsables de 2 a 4 veces el valor de la UMA anual; suspensión de la licencia por seis meses por la segunda infracción, y cancelación de la misma por la tercera infracción.
 
-IX. Ejecutar obras que invadan o perjudiquen una vía general de comunicación ferroviaria, con multa de cien a tres mil salarios mínimos, además de que será aplicable lo señalado en el artículo siguiente;
+En el supuesto anterior a la persona concesionaria o asignataria del servicio de transporte se le impondrá una multa de 6 a 14 veces el valor de la UMA anual;
 
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-X. Incumplir con los lineamientos en materia de emisiones de ruido y otros contaminantes atribuibles al tránsito ferroviario que se realice al interior de zonas urbanas o centros de población, con multa de mil quinientos a dos mil salarios mínimos, y
+VII. Conducir vehículos de transporte ferroviario sin la licencia que exige la ley, con multa de 2 a 4 veces el valor de la UMA anual;
 
-XI. Cualquier otra infracción a lo previsto en esta Ley, con multa de cien a cinco mil salarios mínimos.
+En el supuesto anterior, la persona concesionaria o asignataria del servicio de transporte se le impondrá una multa de 6 a 14 veces el valor de la UMA anual;
 
-En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta el doble de las cuantías señaladas.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Para los efectos del presente capítulo, se entiende por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
+VIII. Destruir, inutilizar, desactivar, remover o cambiar una señal establecida para la seguridad de las vías férreas o del equipo ferroviario, con multa de 1 a 21 veces el valor de la UMA anual;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Ejecutar obras que invadan o perjudiquen una vía general de comunicación ferroviaria, con multa de 1 a 21 veces el valor de la UMA anual, además de que será aplicable lo señalado en el artículo siguiente;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X. Incumplir con los lineamientos en materia de emisiones de ruido y otros contaminantes atribuibles al tránsito ferroviario que se realice al interior de zonas urbanas o centros de población, con multa de 11 a 14 veces el valor de la UMA anual;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X Bis. No presentar la información requerida en términos del artículo 6 Bis, fracción XVIII, por presentarla incompleta o fuera del plazo otorgado por la Agencia, con multa de 10 a 30 veces el valor de la UMA anual;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X Ter. No contar con la garantía legalmente otorgada o no mantenerla vigente para el cumplimiento de las concesiones, asignaciones, permisos o autorizaciones o las pólizas de seguro se impondrá multa de 20 a 25 veces el valor de la UMA anual.
+
+Adicionalmente al incumplimiento de lo previsto en el párrafo anterior, cuando:
+
+a) Se causen daños a los pasajeros y a terceros en sus personas o bienes, con multa de 30 a 40 veces el valor de la UMA anual.
+
+b) Se cause daño a la carga, las construcciones, instalaciones, equipo tractivo y de arrastre, se sancionará con multa de 20 a 30 veces el valor de la UMA anual;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Cualquier otra infracción a lo previsto en esta Ley, con multa de 1 a 34 veces el valor de la UMA anual;
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+En caso de reincidencia, la Agencia podrá imponer una multa equivalente hasta el doble de las cuantías señaladas.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 60.
 
-Las personas que sin contar con la concesión o el permiso respectivo realicen las obras o instalaciones a que se refieren los artículos 7, fracción I, o 34 de la presente Ley o que por cualquier otro medio invadan u obstruyan una vía general de comunicación ferroviaria, perderán en beneficio de la Nación, las obras ejecutadas y las instalaciones establecidas.
+Las personas que, sin contar con la concesión, asignación o el permiso respectivo realicen las obras o instalaciones a que se refieren los artículos 7, fracción I, o 34 de la presente Ley o que por cualquier otro medio invadan u obstruyan una vía general de comunicación ferroviaria perderán, en beneficio de la Nación, las obras ejecutadas y las instalaciones establecidas.
 
-La Secretaría podrá solicitar a las autoridades competentes el desalojo de los infractores y, en su caso, que se realice la demolición de las obras en la parte de la vía invadida y del derecho de vía, y que se reparen los daños causados.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La Secretaría podrá solicitar a las autoridades competentes el desalojo de las personas infractoras y, en su caso, que se realice la demolición de las obras en la parte de la vía invadida y del derecho de vía, y que se reparen los daños causados.
 
 Una vez que la Secretaría tenga conocimiento de ello, y en tanto se dicta resolución definitiva, procederá al aseguramiento de las obras ejecutadas y las instalaciones establecidas, y las pondrá bajo la guarda de un interventor, previo inventario que al respecto se formule.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 61.
 
-Las sanciones que se señalan en este capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, ni de la revocación que proceda de la concesión o permiso.
+Las sanciones que se señalan en este Capítulo se aplicarán sin perjuicio de la responsabilidad civil o penal que resulte, ni de la revocación que proceda de la concesión, asignación o permiso.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 62.
 
-Para declarar la revocación de las concesiones y permisos; suspensión de servicios; la imposición de las sanciones previstas en esta Ley; así como para la interposición del recurso administrativo de revisión, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+Para declarar la revocación de las concesiones, asignaciones y permisos; suspensión de servicios; la imposición de las sanciones previstas en esta Ley, así como para la interposición del recurso administrativo de revisión, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ## TRANSITORIOS
 
@@ -1001,3 +1281,21 @@ D.O.F. 3 DE MAYO DE 2023.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se adecuarán y armonizarán las normas que se opongan a la presente reforma y se da un plazo de ciento ochenta días hábiles a partir de su publicación para la adecuación de la normatividad aplicable.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL; DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y DE LA LEY GENERAL DE BIENES NACIONALES, EN MATERIA FERROVIARIA Y DE ARMONIZACIÓN NORMATIVA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
+
+Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
+
+Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
+
+Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+Sexto.- El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
