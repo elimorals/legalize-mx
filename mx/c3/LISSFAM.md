@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2019-05-07"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -56,7 +56,9 @@ II. Administrar su patrimonio exclusivamente para el fin señalado en la present
 
 III. Administrar los fondos que reciba con un destino específico, aplicándolos a los fines previstos;
 
-IV. Administrar los recursos del Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea y Armada, a fin de establecer y operar un sistema de financiamiento que les permita obtener crédito barato y suficiente para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Administrar los recursos del Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional, a fin de establecer y operar un sistema de financiamiento que les permita obtener crédito barato y suficiente para:
 
 a) La adquisición en propiedad de habitaciones cómodas e higiénicas, incluyendo las sujetas al régimen de condominio;
 
@@ -64,7 +66,9 @@ b) La construcción, reparación, ampliación o mejoramiento de sus habitaciones
 
 c) El pago de pasivos contraídos por los conceptos anteriores.
 
-V. Coordinar y financiar con recursos del Fondo de la Vivienda programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los miembros del Ejército, Fuerza Aérea y Armada;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Coordinar y financiar con recursos del Fondo de la Vivienda programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los miembros del Ejército, Fuerza Aérea, Armada y Guardia Nacional;
 
 VI. Adquirir todos los bienes muebles e inmuebles necesarios para la realización de sus cometidos;
 
@@ -108,9 +112,13 @@ II. Instituto, el Instituto de Seguridad Social para las Fuerzas Armadas Mexican
 
 III. Junta, la Junta Directiva, Órgano de Gobierno del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-IV. Fuerzas Armadas, el Ejército, la Fuerza Aérea y la Armada mexicanos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-V. Militares, a los miembros del Ejército, de la Fuerza Aérea y de la Armada de México; y, cuando se señalen jerarquías, las disposiciones son aplicables a los grados equivalentes en las Fuerzas Armadas;
+IV. Fuerza Armada Permanente, el Ejército, la Fuerza Aérea, la Armada y la Guardia Nacional;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. Militares, los miembros del Ejército, Fuerza Aérea, Armada y Guardia Nacional; cuando se señalen jerarquías, las disposiciones son aplicables a los grados equivalentes en las Fuerzas Armadas;
 
 VI. Derechohabiente, familiares en línea directa (esposa, esposo, concubina, concubinario, hijos, madre, padre y, en algunos casos hermanos) que tienen derecho a los beneficios estipulados en la Ley;
 
@@ -124,7 +132,9 @@ IX. Declaración de Procedencia de Retiro, el documento que le expide al militar
 
 X. Haber o haberes, la percepción base que se establece en el tabulador que expide la Secretaría de Hacienda y Crédito Público;
 
-XI. Prima de perseverancia, la percepción a que se refieren los artículos 51 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales y 55 de la Ley de Recompensas de la Armada de México;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Prima de perseverancia, la percepción a que se refieren los artículos 51 de la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional y 55 de la Ley de Recompensas de la Armada de México;
 
 XII. Asignación de técnico, la percepción que se cubre a los militares en activo por tener estudios a nivel licenciatura y estar desempeñando funciones específicas de su profesión;
 
@@ -132,9 +142,9 @@ XII. Asignación de técnico, la percepción que se cubre a los militares en act
 
 XIII. Asignación de técnico especial, la percepción que se cubre a los militares del activo de los grados de Coronel a General de División y sus equivalentes en la Armada;
 
-> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-XIV. Asignación de vuelo y de salto, las remuneraciones que se cubren a los miembros del Ejército, Fuerza Aérea y Armada, que habitualmente desempeñan este tipo de actividades;
+XIV. Asignación de vuelo y de salto, las remuneraciones que se cubren a los miembros del Ejército, Fuerza Aérea, Armada y Guardia Nacional, que habitualmente desempeñan este tipo de actividades;
 
 > <small>(ADICIONADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -180,15 +190,15 @@ Serán considerados trabajadores de confianza los que desempeñan funciones simi
 
 El Instituto cuenta con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta Directiva del Instituto y tendrán las atribuciones que les confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 9o.
 
-El Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas tiene un órgano interno de control, al frente del cual el titular del mismo, designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades se auxiliará de los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
+El Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas tiene un órgano interno de control, al frente del cual el titular del mismo, designado en los términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades se auxiliará de los titulares de las áreas de auditoría interna, desarrollo y mejora de la gestión pública, quejas, denuncias e investigaciones y de responsabilidades, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en los artículos 66 y 67 del Reglamento Interior de la Secretaría de la Función Pública.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en los artículos 66 y 67 del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
-Las ausencias del contralor interno, así como la de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo dispuesto por el artículo 74 del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del contralor interno, así como la de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo dispuesto por el artículo 84 del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### Artículo 10.
 
@@ -214,7 +224,9 @@ IV. Conocer y resolver las propuestas para el otorgamiento de créditos hipoteca
 
 V. Conocer y determinar los montos máximos de los créditos que se otorguen, así como la protección de los préstamos y los precios máximos de venta de las habitaciones cuya adquisición o construcción pueda ser objeto de los créditos que se otorguen con cargo al Fondo de la Vivienda para los miembros del activo de las Fuerzas Armadas Mexicanas;
 
-VI. Autorizar créditos a plazo mayor de 10 y hasta 20 años con cargo al Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea y Armada cuando se destinen a la adquisición o construcción de casas habitación. La Junta Directiva tendrá también facultad para autorizar créditos a plazo menor de 10 años cuando se destinen a la reparación, ampliación o mejoramiento de las casas habitación o al pago de los pasivos en los términos del inciso c) de la fracción II del artículo 100 de esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Autorizar créditos a plazo mayor de 10 y hasta 20 años con cargo al Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional cuando se destinen a la adquisición o construcción de casas habitación. La Junta Directiva tendrá también facultad para autorizar créditos a plazo menor de 10 años cuando se destinen a la reparación, ampliación o mejoramiento de las casas habitación o al pago de los pasivos en los términos del inciso c) de la fracción II del artículo 100 de esta Ley;
 
 > <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2012)</small>
 
@@ -230,15 +242,17 @@ XI. Vigilar que las inversiones se hagan de acuerdo con las disposiciones de est
 
 XII. Analizar y aprobar, en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los comisarios, en los términos del artículo 58, fracción XV, de la Ley Federal de las Entidades Paraestatales;
 
-XIII. Conceder licencias a los miembros de la Junta Directiva;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+XIII. Conceder licencias a los miembros de la Junta;
 
-XIV. Proponer al Ejecutivo Federal la expedición del Reglamento de la Ley, así como las reformas a ambos ordenamientos jurídicos;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2006)</small>
+XIV. Proponer al Ejecutivo Federal la expedición del reglamento de la Ley, así como las reformas a ambos ordenamientos jurídicos;
 
-XV. Ordenar se practique auditoría, cuando lo estime conveniente, para determinar la exactitud de los estados financieros y comprobar los avalúos de los bienes materia de operaciones del Instituto. Dichas auditorías se practicarán con independencia de las que, en el ámbito de sus atribuciones, corresponde realizar a la Secretaría de la Función Pública, por sí o a través del órgano interno de control en el Instituto, de conformidad con lo dispuesto por las normas aplicables, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XV. Ordenar se practique auditoría, cuando lo estime conveniente para determinar la exactitud de los estados financieros y comprobar los avalúos de los bienes materia de operaciones del Instituto. Dichas auditorías se practicarán con independencia de las que, en el ámbito de sus atribuciones, corresponde realizar a la Secretaría Anticorrupción y Buen Gobierno, por sí o a través del órgano interno de control en el Instituto, de conformidad con lo dispuesto por las normas aplicables, y
 
 XVI. En general, realizar todos aquellos actos y operaciones legalmente autorizados y los que fuesen necesarios para la mejor administración o gobierno del Instituto.
 
@@ -476,13 +490,17 @@ X. Para los Generales de Brigada 63
 
 XI. Para los Generales de División 65
 
-De las jerarquías del Ejército Mexicano contenidas de la fracción I a XI deberán tomarse los homólogos para la Fuerza Aérea Mexicana y la Armada de México, contenidas en las leyes orgánicas de dichas Fuerzas Armadas.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+De las jerarquías del Ejército Mexicano contenidas de la fracción I a XI deberán tomarse los homólogos para la Fuerza Aérea Mexicana, la Armada y la Guardia Nacional, contenidas en las leyes orgánicas de dichas Fuerzas Armadas y la Ley de la Guardia Nacional, respectivamente.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 26.
 
-Los Diplomados de Estado Mayor, los que hayan obtenido un grado académico a nivel de licenciatura o superior, los especialistas, técnicos, mecánicos y los servidores domésticos de instalaciones militares que presten sus servicios en las Fuerzas Armadas Mexicanas, no obstante haber llegado a la edad límite que señala el artículo anterior, podrán continuar en el activo hasta por cinco años más, cuando las Secretarías de la Defensa Nacional o de Marina lo estimen necesario.
+Los de Estado Mayor, los que hayan obtenido un grado académico a nivel de licenciatura o superior, los especialistas, técnicos, mecánicos y los servidores domésticos de instalaciones militares que presten sus servicios en la Fuerza Armada Permanente, no obstante haber llegado a la edad límite que señala el artículo anterior, podrán continuar en el activo hasta por cinco años más, cuando las Secretarías de la Defensa Nacional o de Marina lo estimen necesario.
 
-Los Generales procedentes de las Armas del Ejército, de la Fuerza Aérea y los Almirantes de la Armada, también pueden ser retenidos en el activo por una sola vez, mediante acuerdo presidencial, no obstante existir alguna causa de retiro, cuando a juicio del titular del Poder Ejecutivo sean necesarios sus servicios.
+Los Generales procedentes de las Armas del Ejército, de la Fuerza Aérea, de la Guardia Nacional y los Almirantes de la Armada, también pueden ser retenidos en el activo por una sola vez, mediante acuerdo presidencial, no obstante existir alguna causa de retiro, cuando a juicio del titular del Poder Ejecutivo sean necesarios sus servicios.
 
 > <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2011)</small>
 
@@ -514,9 +532,11 @@ Los militares que ostenten el grado máximo en un servicio o especialidad que, p
 
 Cuando fallezca el militar en situación de activo y hubiera satisfecho los requisitos de tiempo de servicios y de tiempo en el grado especificados en la tabla anterior, sus familiares tendrán derecho a que, para el cálculo de su beneficio, se tome en cuenta el haber al que hubiere tenido derecho al ascender el militar para efectos de retiro.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 29.
 
-Los militares retirados y los pensionistas tendrán obligación de pasar revista de supervivencia en los términos de las disposiciones reglamentarias. Los Generales y Jefes del Ejército y la Fuerza Aérea, así como los Almirantes y Capitanes de la Armada de México retirados, quedan exceptuados de esta obligación.
+Los militares retirados y los pensionistas tendrán obligación de pasar revista de supervivencia en los términos de las disposiciones reglamentarias. Los Generales y Jefes del Ejército, Fuerza Aérea y Guardia Nacional, así como los Almirantes y Capitanes de la Armada de México retirados, quedan exceptuados de esta obligación.
 
 > <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -822,21 +842,29 @@ El derecho para recibir haber de retiro o compensación se origina por la resolu
 
 El derecho para percibir pensión o compensación en favor de familiares de los militares se origina por la resolución definitiva dictada por el Instituto y sancionada por la Secretaría de Hacienda y Crédito Público, pero la pensión se cubrirá a partir del día siguiente al de la muerte del militar.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 50.
 
-La baja en el Ejército, Fuerza Aérea y Armada de México, salvo la que se ordene por muerte del militar y la señalada en la fracción V del artículo 36 de esta Ley, extingue todo derecho a reclamar haber de retiro, compensación o pensión que se hubiere generado durante la prestación de los servicios militares.
+La baja en el Ejército, Fuerza Aérea, Armada y Guardia Nacional, salvo la que se ordene por muerte del militar y la señalada en la fracción V del artículo 36 de esta Ley, extingue todo derecho a reclamar Haber de retiro, compensación o pensión que se hubiere generado durante la prestación de los servicios militares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 51.
 
-Los derechos a percibir beneficios de retiro se pierden por alguna de las siguientes causas:
+El derecho a percibir beneficios de retiro se pierde por alguna de las siguientes causas:
 
-I. Baja del Ejército, Fuerza Aérea o Armada de México;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Baja del Ejército, Fuerza Aérea, Armada de México o Guardia Nacional;
 
 II. Sentencia ejecutoriada que origine la pérdida del beneficio;
 
 III. Por adquirir otra nacionalidad estando en activo, y
 
-IV. Por dejar de percibir haber de retiro o compensación ya otorgadas o sancionadas sin hacer gestiones de cobro en un lapso de tres años.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Por dejar de percibir Haber de retiro o compensación ya otorgadas o sancionadas sin hacer gestiones de cobro en un lapso de tres años.
 
 ###### Artículo 52.
 
@@ -936,7 +964,9 @@ V. Los militares procesados o sentenciados que no hayan perdido su personalidad 
 
 Es obligación del Instituto pagar por concepto de suma asegurada:
 
-I. El equivalente a cuarenta meses de haberes y sobrehaberes para las Fuerzas Armadas o del sueldo base de servidor público, autorizado conforme a los tabuladores correspondientes que los militares se encuentren disfrutando. En caso de que exista diferencia entre el sueldo base de servidor público y las percepciones anteriormente señaladas, se efectuará el cómputo conforme a la percepción mayor en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. El equivalente a cuarenta meses de haberes y sobrehaberes para la Fuerza Armada Permanente o del sueldo base de servidor público, autorizado conforme a los tabuladores correspondientes que los militares se encuentren disfrutando. En caso de que exista diferencia entre el sueldo base del servidor público y las percepciones anteriormente señaladas, se efectuará el cómputo conforme a la percepción mayor en los siguientes casos:
 
 a) Por fallecimiento del militar en servicio activo, siendo entregada la suma asegurada a sus beneficiarios, y
 
@@ -944,7 +974,9 @@ a) Por fallecimiento del militar en servicio activo, siendo entregada la suma as
 
 b) Por causar baja del activo y alta en situación de retiro por incapacidad clasificada en la primera o segunda categorías, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, contraída en actos del servicio o como consecuencia de ellos, siendo entregado el importe respectivo al militar asegurado o a su representante legal, en su caso.
 
-II. En caso de fallecimiento del militar en situación de retiro que estuviere percibiendo haber de retiro, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de su haber de retiro, siendo entregado el importe respectivo directamente a sus beneficiarios;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. En caso de fallecimiento del militar en situación de retiro que estuviere percibiendo Haber de retiro, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de su Haber de retiro, siendo entregado el importe respectivo directamente a sus beneficiarios;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -952,9 +984,13 @@ III. En caso de fallecimiento o incapacidad en primera o en segunda categoría, 
 
 a) Al personal militar que estudie en planteles militares y que no perciba haberes, el cómputo de la suma asegurada será con base en el haber y el sobrehaber mínimo vigente para las Fuerzas Armadas en la República que corresponda a un Sargento Primero en servicio activo o a su equivalente en la Armada, y
 
-b) Al personal de Defensas Rurales, así como a los soldados o marineros del Servicio Militar Nacional obligatorio que se encuentren bajo bandera encuadrados en las unidades del Servicio Militar Nacional de las Fuerzas Armadas Mexicanas, adscritos a los mandos territoriales, el cómputo de la suma asegurada será con base en el haber y sobrehaber mínimo vigente para las Fuerzas Armadas en la República Mexicana que corresponda a un soldado o su equivalente en la Armada.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. No tendrán derecho al seguro de vida militar los militares que causen baja definitiva de las Fuerzas Armadas Mexicanas por haberla solicitado, por mala conducta, por haber permanecido prófugo de la justicia militar, o bien por efectos de sentencia ejecutoria que determine dicha baja o la destitución del empleo militar.
+b) Al personal de Defensas Rurales, así como a los soldados o marineros del Servicio Militar Nacional obligatorio que se encuentren bajo bandera encuadrados en las unidades del Servicio Militar Nacional de la Fuerza Armada Permanente, adscritos a los mandos territoriales, el cómputo de la suma asegurada será con base en el Haber y sobrehaber mínimo vigente para las Fuerzas Armadas en la República Mexicana que corresponda a un soldado o su equivalente en la Armada.
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. No tendrán derecho al seguro de vida militar los militares que causen baja definitiva de la Fuerza Armada Permanente por haberla solicitado, por mala conducta, por haber permanecido prófugo de la justicia militar, o bien por efectos de sentencia ejecutoria que determine dicha baja o la destitución del empleo militar.
 
 > <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -1132,9 +1168,11 @@ La Junta Directiva dictará las disposiciones administrativas internas que estim
 
 Conforme a lo dispuesto en el artículo 90 de esta Ley, es responsabilidad del Instituto operar y administrar el seguro colectivo de retiro en beneficio de los miembros de las Fuerzas Armadas Mexicanas.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 86.
 
-El seguro colectivo de retiro protegerá a los integrantes del Ejército, Fuerza Aérea y Armada en servicio activo, que perciban haber y sobrehaber y estén aportando las primas correspondientes.
+El seguro colectivo de retiro protegerá a los integrantes del Ejército, Fuerza Aérea, Armada y Guardia Nacional en servicio activo, que perciban Haber y sobrehaber y estén aportando las primas correspondientes.
 
 ###### Artículo 87.
 
@@ -1172,9 +1210,11 @@ III. Por haber permanecido prófugos de la justicia militar, o bien por efectos 
 
 La suma asegurada se calculará conforme a las reglas siguientes:
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
 
-Su cuantía será equivalente a lo que resulte de la suma del haber y sobrehaber mensual mínimo vigente para las Fuerzas Armadas a que tengan derecho los militares conforme a la última jerarquía en que hayan aportado la prima, multiplicado por el factor que corresponda, según los años de servicios efectivos prestados al momento de producirse la baja del activo y alta en situación de retiro, de acuerdo con la tabla siguiente:
+Su cuantía será equivalente a lo que resulte de la suma del Haber y sobrehaber mensual mínimo vigente para la Fuerza Armada Permanente a que tengan derecho los militares conforme a la última jerarquía en que hayan aportado la prima, multiplicado por el factor que corresponda, según los años de servicios efectivos prestados al momento de producirse la baja del activo y alta en situación de retiro, de acuerdo con la tabla siguiente:
+
+> <small>(REFORMADA, D.O.F. 14 DE ENERO DE 2013)</small>
 
 Años de Servicios Factor (meses)
 
@@ -1240,13 +1280,13 @@ Años de Servicios Factor (meses)
 
 50 o más 50
 
-> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-A los militares que se incapaciten en actos del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley; así como a los beneficiarios de los militares que fallezcan en actos del servicio o como consecuencia de ellos, se les cubrirá como suma asegurada el equivalente a 50 meses del haber y sobrehaber mínimo vigente de su grado para las Fuerzas Armadas, independientemente de sus años de servicios efectivos prestados.
+A los militares que se incapaciten en actos del servicio o como consecuencia de ellos en primera o segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley; así como a los beneficiarios de los militares que fallezcan en actos del servicio o como consecuencia de ellos, se les cubrirá como suma asegurada el equivalente a 50 meses del Haber y sobrehaber mínimo vigente de su grado para la Fuerza Armada Permanente, independientemente de sus años de servicios efectivos prestados.
 
-> <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-A los militares que cuenten con menos de 20 años de servicios, que se incapaciten en actos del servicio o como consecuencia de ellos, en tercera categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, se les cubrirá como suma asegurada el equivalente a 16 meses del haber y sobrehaber mínimo vigente de su grado para las Fuerzas Armadas, independientemente de sus años de servicios efectivos prestados.
+A los militares que cuenten con menos de 20 años de servicios, que se incapaciten en actos del servicio o como consecuencia de ellos, en tercera categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, se les cubrirá como suma asegurada el equivalente a 16 meses del Haber y sobrehaber mínimo vigente de su grado para la Fuerza Armada Permanente, independientemente de sus años de servicios efectivos prestados.
 
 > <small>(REFORMADO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
@@ -1260,11 +1300,15 @@ II. El 3.0% (tres punto cero por ciento) del total de los haberes y sobrehaber m
 
 III. El 3.0% (tres punto cero por ciento) a que se refiere la fracción I, será cubierto con cargo al presupuesto de las Secretarías de la Defensa Nacional y de Marina de acuerdo con el número de integrantes en servicio activo de cada Secretaría.
 
-Para integrar la parte de la prima mensual a que se refiere la fracción II, cada militar deberá aportar el 3.0% (el tres punto cero por ciento) del haber y sobrehaber mínimo vigente mensual, el cual será retenido por dichas Secretarías;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para integrar la parte de la prima mensual a que se refiere la fracción II, cada militar deberá aportar el 3.0% (el tres punto cero por ciento) del Haber y sobrehaber mínimo vigente mensual, el cual será retenido por dichas Secretarías;
 
 IV. Sólo en caso de que el personal de procesados o sentenciados que se mantengan en servicio activo aporten al Instituto la prima a que se refiere la fracción II de este artículo, la Secretaría correspondiente aportará el 3.0% (tres punto cero por ciento) a que se refiere la fracción I, el cual será cubierto con cargo al presupuesto de la Secretaría correspondiente. Las aportaciones de la prima mensual hechas por estos militares, les otorgarán el derecho de que el tiempo en que estén en dichas situaciones les sea considerado como tiempo de servicios efectivos prestados, únicamente para efectos de este seguro;
 
-V. En los casos de licencia ilimitada durante el tiempo que la normatividad del Ejército y Fuerza Aérea o de la Armada, les concede para solicitar su reingreso, así como en los casos de licencia especial, los militares podrán aportar directamente al Instituto las primas a que se refieren las fracciones I y II de este artículo, siempre y cuando lo manifiesten por escrito dentro de los 30 días siguientes a la fecha en que se les conceda la licencia, las aportaciones de la prima mensual hecha por estos militares durante la citada licencia, les otorgará el derecho de que el tiempo en que estén en dicha situación les sea considerado como tiempo de servicios prestados, únicamente para efectos de este seguro, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+V. En los casos de licencia ilimitada durante el tiempo que la normatividad del Ejército, Fuerza Aérea, Armada y Guardia Nacional, les concede para solicitar su reingreso, así como en los casos de licencia especial, los militares podrán aportar directamente al Instituto las primas a que se refieren las fracciones I y II de este artículo, siempre y cuando lo manifiesten por escrito dentro de los 30 días siguientes a la fecha en que se les conceda la licencia, las aportaciones de la prima mensual hecha por estos militares durante la citada licencia, les otorgará el derecho de que el tiempo en que estén en dicha situación les sea considerado como tiempo de servicios prestados, únicamente para efectos de este seguro, y
 
 VI. Todas las cantidades anteriores, deberán ser entregadas al Instituto dentro de los cinco días siguientes al pago de la primera quincena de cada mes.
 
@@ -1274,9 +1318,15 @@ La devolución de las aportaciones se realizará conforme a lo siguiente:
 
 I. Se devolverán las aportaciones que efectivamente hubieren realizado los militares, desde la entrada en vigor del presente seguro más un 20% de lo aportado, a las siguientes personas:
 
-a) A los militares que causen baja definitiva de las Fuerzas Armadas Mexicanas por haberla solicitado;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-b) Al personal de tropa del Ejército, Fuerza Aérea y clases y marinería de la Armada que causen baja por haber cumplido su contrato de servicios;
+a) A los militares que causen baja definitiva de la Fuerza Armada Permanente por
+
+haberla solicitado;
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+b) Al personal de tropa del Ejército, Fuerza Aérea, Guardia Nacional y clases y marinería de la Armada que causen baja por haber cumplido su contrato de servicios;
 
 c) A los militares auxiliares que causen baja después de haber cumplido el contrato de servicios respectivo;
 
@@ -1294,9 +1344,13 @@ g) A los militares que causen baja del activo por haberse incapacitado en tercer
 
 II. A los militares o sus beneficiarios que tengan derecho a recibir la suma asegurada de conformidad con el artículo 87 de esta Ley, además de aquellas aportaciones mensuales que cada militar hubiere realizado entre el año cumplido y el subsecuente y no se hubieren considerado para efectos de dicha suma asegurada;
 
-III. A los militares que causen baja definitiva de las Fuerzas Armadas Mexicanas por mala conducta o por efectos de sentencia ejecutoria que determine dicha baja o la destitución del empleo militar, les serán devueltas únicamente las cantidades que por concepto de sus aportaciones hubieren realizado sin importar el tiempo de servicios efectivos prestados, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-IV. Quedan excluidos de la devolución señalada en este artículo los militares que causen baja definitiva de las Fuerzas Armadas por haber permanecido prófugos de la justicia militar.
+III. A los militares que causen baja definitiva de la Fuerza Armada Permanente por mala conducta o por efectos de sentencia ejecutoria que determine dicha baja o la destitución del empleo militar, les serán devueltas únicamente las cantidades que por concepto de sus aportaciones hubieren realizado sin importar el tiempo de servicios efectivos prestados, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Quedan excluidos de la devolución señalada en este artículo los militares que causen baja definitiva de la Fuerza Armada Permanente por haber permanecido prófugos de la justicia militar.
 
 ###### Artículo 92.
 
@@ -1360,21 +1414,31 @@ b) Construir, reparar, ampliar o mejorar sus habitaciones.
 
 c) Pagar los pasivos que tengan por los conceptos anteriores.
 
-III. Coordinar y financiar con el propio fondo, programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los miembros del activo del Ejército, Fuerza Aérea y Armada;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. Coordinar y financiar con el propio fondo, programas de construcción de habitaciones destinadas a ser adquiridas en propiedad por los miembros del activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional;
 
 IV. Administrar, conservar, mejorar y, en su caso, ampliar con casas adicionales, las unidades habitacionales de su propiedad;
 
 V. Adquirir y construir con recursos diversos al fondo de la vivienda militar, casas habitación para ser vendidas a precios módicos a militares en situación de retiro;
 
-VI. Construir unidades habitacionales en plazas importantes del país, para su ocupación temporal mediante cuotas de recuperación, por personal de generales, jefes, oficiales y tropa y sus equivalentes en la Armada de México en situación de retiro, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-VII. Construir unidades habitacionales en lugares próximos a los campos militares, bases navales o aéreas y cuarteles de las Fuerzas Armadas, para ser ocupadas temporalmente mediante cuotas de recuperación, por personal de generales, jefes, oficiales y tropa y sus equivalentes en la Armada de México en servicio activo.
+VI. Construir unidades habitacionales en plazas importantes del país para su ocupación temporal mediante cuotas de recuperación por personal de Generales, Jefes, Oficiales, ropa y sus equivalentes en la Armada en situación de retiro, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Construir unidades habitacionales en lugares próximos a las instalaciones de la Fuerza Armada Permanente, para ser ocupadas temporalmente mediante cuotas de recuperación, por personal de Generales, Jefes, Oficiales, Tropa y sus equivalentes en la Armada en servicio activo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 101.
 
-Los recursos del fondo de la vivienda para los miembros del Ejército, Fuerza Aérea y Armada, se integrarán:
+Los recursos del fondo de la vivienda para los miembros del Ejército, Fuerza Aérea, Armada y Guardia Nacional, se integrarán:
 
-I. Con las aportaciones del cinco por ciento proporcionadas por el Gobierno Federal, sobre los haberes y asignaciones de técnico, de vuelo, de salto o de técnico especial, de los militares en activo del Ejército, Fuerza Aérea y Armada que los estén percibiendo;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Con las aportaciones del cinco por ciento proporcionadas por el Gobierno Federal, sobre los haberes y asignaciones de técnico, de vuelo, de salto o de técnico especial, de los militares en activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional que los estén percibiendo;
 
 II. Con los bienes y derechos adquiridos por cualquier título, y
 
@@ -1384,17 +1448,21 @@ III. Con los rendimientos que se obtengan de las inversiones de los recursos a q
 
 Los recursos del fondo se destinarán:
 
-I. Al otorgamiento de créditos a los militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes, que sean titulares de depósitos constituidos a su favor en el Instituto. El importe de estos créditos deberá aplicarse conforme al artículo 100, fracción II, de esta Ley;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+I. Al otorgamiento de créditos a los militares en activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional que estén percibiendo haberes, que sean titulares de depósitos constituidos a su favor en el Instituto. El importe de estos créditos deberá aplicarse conforme al artículo 100, fracción II, de esta Ley;
 
-En caso de fallecimiento de un militar o de incapacidad en primera o segunda categorías, en acción de armas, sin importar el número de años de servicios y de los depósitos que haya constituido a su favor, a la viuda o viudo, concubina o concubinario con derecho a pensión o al militar incapacitado con haber de retiro, se les podrá otorgar un crédito hipotecario a juicio de la Junta Directiva del Instituto, en los mismos términos y condiciones que al resto de los militares en activo del Ejército, Fuerza Aérea y Armada.
+En caso de fallecimiento de un militar o de incapacidad en primera o segunda categorías, en acción de armas, sin importar el número de años de servicios y de los depósitos que haya constituido a su favor, a la viuda o viudo, concubina o concubinario con derecho a pensión o al militar incapacitado con Haber de retiro, se les podrá otorgar un crédito hipotecario a juicio de la Junta Directiva del Instituto, en los mismos términos y condiciones que al resto de los militares en activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional.
 
-II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes mediante créditos que les otorgue el Instituto con cargo al fondo. Estos financiamientos sólo se concederán por concurso tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE JULIO DE 2025)</small>
+
+II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por militares en activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional que estén percibiendo haberes mediante créditos que les otorgue el Instituto con cargo al fondo. Estos financiamientos sólo se concederán por concurso tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
 
 El Instituto en todos los financiamientos que otorgue con cargo al fondo, para la realización de conjuntos habitacionales, establecerá la obligación para quienes los construyan, de adquirir con preferencia, los materiales que provengan de empresas ejidales, cuando se encuentren de igual o mejor calidad y precio a los que ofrezcan otros proveedores.
 
-Los miembros de las Fuerzas Armadas tienen derecho a ejercer el crédito que se les otorgue, en la localidad que designen;
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Los miembros de la Fuerza Armada Permanente tienen derecho a ejercer el crédito que se les otorgue, en la localidad que designen;
 
 III. Al pago de los depósitos que les corresponden a los militares en los términos de Ley;
 
@@ -1422,9 +1490,11 @@ IV. Cuando el militar quede separado del activo, disfrute de licencia ilimitada 
 
 V. En el caso de que los militares hubieren recibido crédito hipotecario con recursos del fondo de la vivienda, la devolución de los depósitos se hará con deducción de las cantidades que se hubieren aplicado al pago del crédito hipotecario o en los términos de las fracciones I y II de este artículo.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 104.
 
-La aportación del cinco por ciento que deberá entregar el Gobierno Federal se computará sobre el haber presupuestal y asignaciones de técnico, de vuelo, de salto o técnico especial de los miembros del Ejército, Fuerza Aérea y Armada.
+La aportación del cinco por ciento que deberá entregar el Gobierno Federal se computará sobre el Haber presupuestal y asignaciones de técnico, de vuelo, de salto o técnico especial de los miembros del Ejército, Fuerza Aérea, Armada y Guardia Nacional.
 
 ###### Artículo 105.
 
@@ -1468,13 +1538,15 @@ III. Antecedentes militares;
 
 IV. En el caso de cónyuges militares que sean beneficiarios de esta Ley, se podrán otorgar individual o mancomunadamente;
 
-> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-También podrán mancomunarse los créditos de cónyuges que no pertenezcan a las Fuerzas Armadas y que por su actividad laboral sean beneficiarios de créditos del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Comisión Nacional de Vivienda o de cualquier otra institución de seguridad social que otorgue esta prestación a cónyuges o concubinos de militares para adquirir vivienda; así como para la adquisición, construcción, reparación, ampliación o mejoramiento de sus habitaciones o al pago de los pasivos que tengan por los conceptos anteriores;
+También podrán mancomunarse los créditos de cónyuges que no pertenezcan a la Fuerza Armada Permanente y que por su actividad laboral sean beneficiarios de créditos del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Comisión Nacional de Vivienda o de cualquier otra institución de seguridad social que otorgue esta prestación a cónyuges o concubinos de militares para adquirir vivienda; así como para la adquisición, construcción, reparación, ampliación o mejoramiento de sus habitaciones o al pago de los pasivos que tengan por los conceptos anteriores;
 
 V. Se podrán otorgar créditos por segunda ocasión sólo que exista disponibilidad en el fondo y no existan solicitudes de militares que no hayan tenido este beneficio, y
 
-VI. Los casos no previstos serán resueltos por la Junta Directiva del Instituto conforme a las facultades que le otorga esta Ley.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI. Los casos no previstos serán resueltos por la Junta conforme a las facultades que le otorga esta Ley.
 
 ###### Artículo 109.
 
@@ -1526,17 +1598,21 @@ VI. Los ascendientes sea cual fuere su edad o situación.
 
 Los créditos a los militares a que se refieren las fracciones I y II del artículo 102 de esta Ley, devengarán un interés del cuatro por ciento anual sobre saldos insolutos. Tratándose de créditos para la adquisición o construcción de habitaciones, su plazo no será menor de diez años, pudiendo otorgarse hasta un plazo máximo de veinte años. La Junta Directiva podrá autorizar créditos a plazo menor de diez años cuando se destinen a la reparación, ampliación o mejoramiento de las habitaciones, o al pago de pasivos adquiridos en los términos del propio artículo.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 114.
 
-Los depósitos que se hagan para constituir el fondo de la vivienda en favor de los militares en activo del Ejército, Fuerza Aérea y Armada que están percibiendo haberes, asignaciones de técnico de vuelo, de salto o técnico especial estarán exentos de toda clase de impuestos.
+Los depósitos que se hagan para constituir el fondo de la vivienda en favor de los militares en activo del Ejército, Fuerza Aérea, Armada y Guardia Nacional que están percibiendo haberes, asignaciones de técnico, de vuelo, de salto o técnico especial estarán exentos de toda clase de impuestos.
 
 ###### Artículo 115.
 
 Los depósitos constituidos en favor de los militares para la integración del fondo, no podrán ser objeto de cesión o embargo, excepto cuando se trate de los créditos otorgados con cargo al fondo.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 116.
 
-Los derechos de los miembros de las Fuerzas Armadas titulares de depósitos constituidos en el fondo de la vivienda o de sus causahabientes o beneficiarios, prescribirán en un plazo de cinco años.
+Los derechos de los miembros de la Fuerza Armada Permanente titulares de depósitos constituidos en el fondo de la vivienda o de sus causahabientes o beneficiarios, prescribirán en un plazo de cinco años.
 
 ###### Artículo 117.
 
@@ -1614,11 +1690,13 @@ Si por haber causado baja el militar o por causa grave, a juicio de la Junta Dir
 
 El Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, podrá otorgar préstamos a corto plazo a los militares con haber o haber de retiro y a los pensionistas de acuerdo con los recursos disponibles para este fin y conforme a su Ley Orgánica.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 132.
 
-El Instituto establecerá para la venta a bajo precio, de artículos de consumo necesario, de acuerdo con un cuadro básico, tanto de alimentos como de vestido y de otros artículos necesarios para el hogar. Para este efecto, podrá celebrar convenios con instituciones públicas especializadas que puedan ofrecer estos artículos a precios más bajos que los que priven en el mercado. Cuando esto no sea posible, convocará a los particulares que puedan prestar satisfactoriamente dichos servicios, para que mediante concurso, de conformidad con la legislación aplicable; se celebre el contrato respectivo, previo el otorgamiento de las garantías adecuadas.
+El Instituto establecerá para la venta a bajo precio, de artículos de consumo necesario, de acuerdo con un cuadro básico, tanto de alimentos como de vestido y de otros artículos necesarios para el hogar. Para este efecto, podrá celebrar convenios con instituciones públicas especializadas que puedan ofrecer estos artículos a precios más bajos que los que priven en el mercado. Cuando esto no sea posible, convocará a los particulares que puedan prestar satisfactoriamente dichos servicios, para que mediante concurso, de conformidad con la legislación aplicable, se celebre el contrato respectivo, previo el otorgamiento de las garantías correspondientes.
 
-También establecerá sistemas para la explotación de granjas que tiendan a mejorar la alimentación del personal de las Fuerzas Armadas y la de sus familiares.
+También establecerá sistemas para la explotación de granjas que tiendan a mejorar la alimentación del personal de la Fuerza Armada Permanente y la de sus familiares.
 
 ###### Artículo 133.
 
@@ -1628,11 +1706,11 @@ Se establecerán en las unidades habitacionales, centros de servicios económico
 
 Con la finalidad de proporcionar hospedaje a militares en tránsito con motivo del servicio y servicios turísticos de bajo costo a los beneficiarios de esta Ley, el Instituto acorde con su capacidad pecuniaria y en coordinación con las Secretarías de la Defensa Nacional y de Marina, establecerá hoteles cuya organización, funcionamiento y cuotas serán fijadas por el Reglamento respectivo.
 
-> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 135.
 
-El Instituto establecerá casas hogar en poblaciones adecuadas por sus medios de comunicación, buen clima y otros atractivos, en la medida de sus posibilidades económicas, para que los militares retirados que lo soliciten, las habiten por sí solos o con su cónyuge, concubina o concubinario previo al cumplimiento de los requisitos que se fijen y el pago de una cuota mensual por cada uno de los usuarios, cuyo monto satisfaga los gastos de administración y asistencia.
+El Instituto establecerá casas hogar en poblaciones adecuadas por sus medios de comunicación, buen clima y otros atractivos, en la medida de sus posibilidades económicas, para que los militares retirados que lo soliciten, las habiten por sí solos o con su cónyuge, concubina o concubinario o en su caso, el padre, la madre o ambos derechohabientes y los pensionistas, previo al cumplimiento de los requisitos que se fijen y el pago de una cuota mensual por cada uno de los usuarios, cuyo monto satisfaga los gastos de administración y asistencia.
 
 ###### Artículo 136.
 
@@ -1882,9 +1960,11 @@ II. La baja oficial del buque perdido, y
 
 III. La relación oficial de bajas.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 164.
 
-La muerte de los militares ocurrida por caída al mar sin naufragio, encontrándose en embarcaciones dependientes del Ejército, Fuerza Aérea o la Armada de México, será probada con el acta que se levante, y cuando el accidente ocurra en embarcaciones nacionales que no formen parte de las Fuerzas Armadas Mexicanas o de una nación amiga o aliada, con los informes oficiales que se reciban sobre el particular.
+La muerte de los militares ocurrida por caída al mar sin naufragio, encontrándose en embarcaciones dependientes del Ejército, Fuerza Aérea, Armada y Guardia Nacional, será probada con el acta que se levante, y cuando el accidente ocurra en embarcaciones nacionales que no formen parte de las Fuerzas Armadas Mexicanas o de una nación amiga o aliada, con los informes oficiales que se reciban sobre el particular.
 
 ###### Artículo 165.
 
@@ -1998,9 +2078,13 @@ En los casos de retiro por haber cumplido la edad límite que fija esta Ley, se 
 
 I. Con copia certificada del acta de nacimiento expedida por el Registro Civil;
 
-II. A falta de la anterior, con copia certificada de la fe del bautismo del interesado, certificada por notario público o por la autoridad que legalmente lo substituya, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-III. A falta de las anteriores, con prueba documental consistente en las constancias que obren en su expediente oficial relacionadas con la edad que manifestó el interesado al ingresar al Ejército, Fuerza Aérea o Armada, y en su defecto la pericial que determine la edad clínica.
+II. A falta de la anterior, con copia certificada de la fe del bautismo de la persona interesada, certificada por notario público o por la autoridad que legalmente lo substituya, y
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+III. A falta de las anteriores, con prueba documental consistente en las constancias que obren en su expediente oficial relacionadas con la edad que manifestó la persona interesada al ingresar al Ejército, Fuerza Aérea, Armada o Guardia Nacional y, en su defecto, la pericial que determine la edad clínica.
 
 ###### Artículo 176.
 
@@ -2826,45 +2910,81 @@ b) Del cuarto y quinto dedos de la mano dominante.
 
 > <small>(DEROGADA LA LISTA, D.O.F. 27 DE ENERO DE 2015)</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 226 Bis.
 
-Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico.
+Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma, Servicio o Guardia Nacional a petición de un Consejo Médico.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 1. Las alteraciones orgánicas o funcionales irreparables que provoquen que la visión central en cada ojo, aún después de corregir los vicios de refracción, alcance a lo sumo 20/40.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 2. El desprendimiento de la retina tratado, cuando a juicio del médico limite la actividad física.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 3. Los procesos patológicos de la conjuntiva que tengan tendencia a la cronicidad, que no cedan a la terapéutica habitual y que constituyan causa de disfunción visual.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 4. La hipoacusia media de un lado con audición normal del otro.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 5. La hipoacusia superficial.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 6. Las alteraciones alérgicas o vasomotoras de vías respiratorias que requieren que el individuo cambie de medio ambiente.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 7. Las insuficiencias respiratorias menores del 20%, valoradas por espirometría consecutivas a padecimientos pulmonares, pleurales, mediastinales, diafragmáticos o de pared torácica, aún cuando estos padecimientos hayan sido tratados hasta su curación.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 8. La insuficiencia coronaria crónica o aguda, incluyendo al infarto del miocardio, no complicado y sin isquemia residual.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 9. La hipertensión arterial no complicada.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 10. La litiasis renal unilateral recidivante.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 11. La resección parcial del esófago, sin trastornos de la deglución.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 12. La gastrectomía subtotal.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 13. La obesidad con un índice de masa corporal entre 28 a 29.9.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 14. La diabetes mellitus tipo 2 sin complicación crónica.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 15. Las lesiones permanentes orgánicas o funcionales de cualquiera de los tejidos o glándulas del sistema endocrino, que ocasionen hiperfunción o hipofunción de menos del 20%.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 16. Los individuos en quienes se haya realizado trasplante de un tejido, que queden con trastornos funcionales mínimos.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 17. Las dermatosis crónicas rebeldes al tratamiento o de forma recidivante.
+
+> <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN], D.O.F. 27 DE ENERO DE 2015)</small>
 
 18. La pérdida anatómica o funcional permanente o las deformaciones de:
 
@@ -2872,9 +2992,15 @@ a) Pérdida parcial o incompleta de 2 o más dedos de una mano.
 
 b) De falange distal de uno o de ambos pulgares.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 19. La infección por el virus de la inmunodeficiencia humana confirmada con pruebas suplementarias, cuyo control y tratamiento médico limite el desempeño de los actos del servicio.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+
 20. Las alteraciones permanentes, anatómicas o funcionales, de los diversos aparatos y sistemas, que disminuyen la capacidad funcional del individuo entre el 10% y el 20% y que no han quedado comprendidas en esta categoría.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 En todos los casos en que sea médicamente posible, se deberá ajustar el control y tratamiento médico a las actividades específicas del militar, sin afectar al servicio y sin ningún tipo de discriminación.
 
@@ -3043,3 +3169,23 @@ D.O.F. 7 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 152 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LA GUARDIA NACIONAL Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS; LEY DE DISCIPLINA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS; DEL CÓDIGO DE JUSTICIA MILITAR Y DEL CÓDIGO MILITAR DE PROCEDIMIENTOS PENALES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.
+
+Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra normativa de carácter general que se hayan emitido como consecuencia de la Ley a que se refiere el transitorio anterior seguirán vigentes hasta en tanto no se emita la normatividad que las sustituya o las deje sin efectos.
+
+Cuarto.- Se contará con 180 días, a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones reglamentarias en materia de Guardia Nacional.
+
+Quinto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento del inicio de su tramitación.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el correspondiente, respetando su antigüedad en el empleo y especialidad.
+
+Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.
