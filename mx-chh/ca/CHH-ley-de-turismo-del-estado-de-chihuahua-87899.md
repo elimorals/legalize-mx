@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2024-08-28"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -127,6 +127,14 @@ XVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de resi
 
 XIX. Turismo Accesible: Es aquel que brinda servicios que tienen las características para ser usados por personas con diferentes grados de habilidad, tomando en cuenta diferentes tipos de discapacidad.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XIX Bis. Turismo de Aventura: Actividad turística que implica la realización de experiencias recreativas, deportivas o culturales caracterizadas por el desafío físico, el riesgo controlado y la interacción activa del turista en integración con el ambiente, respetando el patrimonio natural, cultural, turístico e histórico.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XIX Ter. Turismo Doméstico: Actividad turística que se desarrolla por residentes del Estado de Chihuahua dentro del territorio estatal, centrándose en los atractivos de una región o comunidad.
+
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 XX. Turismo Médico.- Actividad turística generada con las personas que se trasladan a la Entidad con la finalidad de recibir servicios y tratamientos médicos o relacionados con la Salud.
@@ -181,6 +189,10 @@ XIV. Coordinarse y celebrar convenios con las autoridades federales, estatales o
 
 XV. Promover, fomentar y coordinar la realización de programas de capacitación, tanto para los prestadores de servicios turísticos como para servidores públicos en el Estado.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XV Bis. Promover e impulsar, entre las personas prestadoras de servicios turísticos, la adhesión a los programas nacionales e internacionales vigentes en materia de certificación turística.
+
 XVI. Promover, ante las autoridades competentes, el establecimiento de programas, instituciones y centros de enseñanza para la formación, desarrollo y profesionalización de recursos humanos requeridos para el fomento de la cultura turística.
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
@@ -210,6 +222,14 @@ XXI. Vigilar el cumplimiento de las acciones que garanticen la permanencia y el 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 XXI Bis. Promover y fomentar el agroturismo en las zonas rurales del Estado.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XXI Ter. Implementar y publicitar, mediante convenios con las personas prestadoras de servicios turísticos a los que se refiere el artículo 41 de la presente Ley, programas de facilidades, descuentos y promociones aplicables a residentes de la Entidad, con el fin de impulsar y promover el turismo doméstico en el Estado.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+XXI Quater. Fomentar y promover el desarrollo del turismo de aventura en las diferentes regiones de la Entidad, cuyas características sean apropiadas para ello.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2023)</small>
 
@@ -253,15 +273,19 @@ I. La persona titular de la Secretaría, quien lo presidirá, pudiendo designar 
 
 II. El Titular de la Secretaría de Hacienda, o la persona que éste designe.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
 
-III. La persona que presida la Comisión de Turismo y Cultura del H. Congreso del Estado.
+III. La persona que presida la Comisión legislativa relativa al turismo en el H. Congreso del Estado.
 
 IV. Los Presidentes de los Consejos Consultivos Regionales, mismos que participarán en función de su adscripción territorial atendiendo a la Agenda prevista por el Presidente del Consejo.
 
 V. Tres representantes de las asociaciones del sector turístico debidamente constituidas, quienes tendrán voto en lo particular, cada uno de ellos.
 
 VI. Hasta tres invitados especiales del sector educativo, a propuesta del Presidente del Consejo Consultivo Estatal.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
+
+VII. La persona titular de la Dirección de Fomento y Desarrollo Artesanal del Estado de Chihuahua.
 
 Podrán ser invitadas las instituciones y demás entidades públicas, privadas y sociales que se determinen, y demás personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
 
@@ -687,17 +711,17 @@ XV. Instrumentar mecanismos y acciones para prestar el servicio de primeros auxi
 
 XVI. Cumplir con los ordenamientos y normas en materia de protección al medio ambiente, así como establecer los mecanismos y acciones para la separación y reciclado de productos de desecho.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
 
-XVII. Capacitar a su personal en materia de prevención y detección de la probable comisión de cualquier delito o posible acto de violencia en contra de niñas, niños y adolescentes.
+XVII. Informar, capacitar y sensibilizar a su personal en materia de derechos humanos de niñas, niños y adolescentes, especialmente en la prevención y detección de la probable comisión de cualquier delito o posible acto de violencia en su contra, incluyendo la forma de proceder cuando se advierta la posible comisión de delitos relacionados con dichas conductas.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
 
-XVIII. Denunciar, ante la autoridad competente, la probable comisión de un delito o posible acto de violencia en contra de niñas, niñas (sic) y adolescentes del cual tengan conocimiento en el desarrollo de su actividad.
+XVIII. Denunciar, ante la autoridad competente, la probable comisión de un delito o posible acto de violencia en contra de niñas, niños y adolescentes del cual tengan conocimiento en el desarrollo de su actividad, así como colaborar plenamente con las autoridades correspondientes cuando investiguen la probable comisión de un delito.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2025)</small>
 
-XIX. Solicitar la documentación que acredite el parentesco o relación de personas que soliciten el servicio de hospedaje acompañadas de niñas, niños o adolescentes e informar estos requisitos desde la reservación de hospedaje.
+XIX. Solicitar la documentación que acredite el parentesco o relación de personas que soliciten el servicio de hospedaje acompañadas de niñas, niños o adolescentes, de conformidad con lo establecido en las fracciones XII y XIII del artículo 108 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua, e informar estos requisitos desde la reservación de hospedaje.
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
@@ -737,9 +761,15 @@ La Secretaría promoverá la formación de profesionales en las ramas de la acti
 
 Para efectos del artículo anterior, quien ocupe la titularidad del Ejecutivo del Estado, por conducto de la Secretaría, fijará las bases de coordinación con los sectores público y privado, a efecto de obtener su asistencia y colaboración para la aplicación de cursos de capacitación turística a personas prestadoras de servicios turísticos y servidoras públicas estatales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 54.
 
-Con el objeto de elevar los índices de competitividad en las empresas que ofrecen servicios turísticos, la Secretaría promoverá e impulsará programas de certificación, conforme lo dispuesto en el Reglamento de la presente Ley.
+Con el objeto de elevar los índices de competitividad en las empresas que ofrecen servicios turísticos, la Secretaría, conforme a sus atribuciones, promoverá e impulsará la adhesión de las personas prestadoras de servicios turísticos a los programas nacionales e internacionales vigentes en materia de certificación turística.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2025)</small>
+
+Lo anterior, sin perjuicio de que, en uso de sus atribuciones, la Secretaría pueda promover e impulsar la creación y adhesión de sus propios programas de certificación turística en el Estado.
 
 ###### Artículo 55.
 
@@ -1024,6 +1054,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0858/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVIII/RFLEY/0235/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 7, FRACCIÓN III; 50 FRACCIONES XVII, XVIII Y XIX; Y 54, PÁRRAFO PRIMERO, Y SE ADICIONAN A LOS ARTÍCULOS 3, LAS FRACCIONES XIX BIS Y XIX TER; 4, LAS FRACCIONES XV BIS, XXI TER Y XXI QUATER; 7, LA FRACCIÓN VII, Y 54, UN PÁRRAFO SEGUNDO, DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
