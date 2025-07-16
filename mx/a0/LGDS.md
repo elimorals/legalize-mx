@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2024-04-01"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -112,15 +112,21 @@ XI. Interés superior de la niñez: De conformidad con lo establecido en la Cons
 
 La aplicación de la presente Ley corresponde al Ejecutivo Federal por conducto de sus dependencias y organismos, a los poderes ejecutivos de las entidades federativas y a los municipios en el ámbito de sus respectivas competencias; así como las que les competen, de acuerdo a sus atribuciones, al Poder Legislativo.
 
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+La medición de la pobreza y la evaluación integral de la Política de Desarrollo Social, así como la emisión de recomendaciones corresponde al Instituto Nacional de Estadística y Geografía, de conformidad con el párrafo tercero del apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 5.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Beneficiarios: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social que cumplen los requisitos de la normatividad correspondiente;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. Beneficiarias: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social que cumplen los requisitos de la normativa correspondiente;
 
 II. Consejo Consultivo: Consejo Consultivo de Desarrollo Social;
 
-III. Consejo Nacional de Evaluación: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+III. (DEROGADA, D.O.F. 16 DE JULIO DE 2025)
 
 IV. Comisión Intersecretarial: Comisión Intersecretarial de Desarrollo Social;
 
@@ -128,13 +134,27 @@ V. Comisión Nacional: Comisión Nacional de Desarrollo Social;
 
 VI. Grupos sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
 
-VII. Secretaría: Secretaría de Desarrollo Social del Gobierno Federal;
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VI Bis. Instituto: Instituto Nacional de Estadística y Geografía;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Secretaría: Secretaría de Bienestar del Gobierno Federal;
 
 VIII. Sistema Nacional: Sistema Nacional de Desarrollo Social;
 
-IX. Organizaciones: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social, y
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
 
-X. Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas federales de Desarrollo Social cuyo perfil socioeconómico se establece en la normatividad correspondiente.
+IX. Organizaciones: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
+
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+X. Padrón: Relación oficial de personas beneficiarias que incluye a las personas atendidas por los programas federales de desarrollo social cuyo perfil socioeconómico se establece en la normativa correspondiente, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+XI. Política de Desarrollo Social: Conjunto de programas, proyectos y acciones tendientes a reducir las brechas de desigualdad, pobreza, rezago social y exclusión social, que potencian y garantizan el desarrollo sostenible y con equidad.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS SUJETOS DEL DESARROLLO SOCIAL
 
@@ -160,9 +180,11 @@ Toda persona o grupo social en situación de vulnerabilidad tiene derecho a reci
 
 Los municipios, los gobiernos de las entidades federativas y el Poder Ejecutivo Federal, en sus respectivos ámbitos, formularán y aplicarán políticas compensatorias y asistenciales, así con oportunidades de desarrollo productivo e ingreso en beneficio de las personas, familias, grupos sociales y, en su caso, pueblos y comunidades indígenas y afromexicanas, en situación de vulnerabilidad, destinando los recursos presupuestales necesarios y estableciendo metas cuantificables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 10.
 
-Los beneficiarios de los programas de desarrollo social tienen los siguientes derechos y obligaciones:
+Las personas beneficiarias de los programas de desarrollo social tienen los siguientes derechos y obligaciones:
 
 I. Recibir un trato respetuoso, oportuno y con calidad;
 
@@ -246,13 +268,17 @@ Los municipios serán los principales ejecutores de los programas, recursos y ac
 
 ### Capítulo III. Del Financiamiento y el Gasto
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 18.
 
-Los programas, fondos y recursos destinados al desarrollo social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y evaluación de acuerdo con esta Ley; y no podrán sufrir disminuciones en sus montos presupuestales, excepto en los casos y términos que establezca la Cámara de Diputados al aprobar el Presupuesto de Egresos de la Federación.
+Los programas, proyectos y acciones, incluidos los recursos, que conforman la Política de Desarrollo Social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y evaluación de acuerdo con esta Ley y la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y no podrán sufrir disminuciones en sus montos presupuestales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 19.
 
-Son prioritarios y de interés público:
+La Política de Desarrollo Social está conformada por:
 
 I. Los programas de educación obligatoria;
 
@@ -322,15 +348,17 @@ La publicidad y la información relativa a los programas de desarrollo social de
 
 ### Capítulo IV. De las Zonas de Atención Prioritaria
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 29.
 
-Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza, marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina el Consejo Nacional de Evaluación de la Política de Desarrollo Social que esta Ley señala y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
+Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza y marginación, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios técnicos que para tal efecto defina el Instituto y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 30.
 
-El Ejecutivo Federal revisará anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados de los estudios de medición de la pobreza, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social e informará a la Cámara de Diputados sobre su modificación, desagregado a nivel de localidades en las zonas rurales y a nivel de manzanas en las zonas urbanas, para los efectos de asignaciones del Presupuesto de Egresos de la Federación. La Cámara de Diputados, al aprobar el presupuesto, hará la declaratoria de zonas de atención prioritaria, la cual deberá publicarse en el Diario Oficial de la Federación, junto con el decreto del Presupuesto de Egresos de la Federación.
+El Ejecutivo Federal revisará anualmente las zonas de atención prioritaria, con base en los resultados de la evaluación integral de la Política de Desarrollo Social y de la medición de la pobreza emitida por el Instituto, e informará a la Cámara de Diputados sobre su modificación, desagregado a nivel de localidades en las zonas rurales y a nivel de manzanas en las zonas urbanas, para los efectos de asignaciones del Presupuesto de Egresos de la Federación. La Cámara de Diputados, al aprobar el presupuesto, hará la declaratoria de zonas de atención prioritaria, la cual debe publicarse en el Diario Oficial de la Federación, junto con el decreto del Presupuesto de Egresos de la Federación.
 
 ###### Artículo 31.
 
@@ -366,9 +394,11 @@ El Gobierno Federal y los gobiernos de las entidades federativas podrán aportar
 
 ### Capítulo VI. De la Definición y Medición de la Pobreza
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 36.
 
-Los lineamientos y criterios que establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social para la definición, identificación y medición de la pobreza son de aplicación obligatoria para las entidades y dependencias públicas que participen en la ejecución de los programas de desarrollo social, y deberá utilizar la información que genere el Instituto Nacional de Estadística, Geografía e Informática, independientemente de otros datos que se estime conveniente, al menos sobre los siguientes indicadores:
+Los lineamientos y criterios técnicos que establezca el Instituto para la definición, identificación y medición de la pobreza son de aplicación obligatoria para las entidades y dependencias públicas que participen en la ejecución de los programas de desarrollo social. Asimismo, el Instituto debe procurar la generación de información de al menos los siguientes indicadores:
 
 I. Ingreso corriente per cápita;
 
@@ -398,9 +428,17 @@ VIII. Grado de cohesión social, y
 
 IX. Grado de Accesibilidad a carretera pavimentada.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 37.
 
-Los estudios del Consejo Nacional de Evaluación de la Política de Desarrollo Social deberán hacerse con una periodicidad mínima de cada dos años para cada entidad federativa y con información desagregada a nivel municipal cada cinco años, para lo cual deberán hacerse las previsiones presupuestarias correspondientes en el Presupuesto de Egresos de la Federación, para que el Instituto Nacional de Estadística, Geografía e Informática pueda llevar a cabo los censos, conteos y encuestas correspondientes.
+Las mediciones de pobreza que realice el Instituto deberán hacerse con una periodicidad mínima de cada dos años para cada entidad federativa y con información desagregada a nivel municipal cada cinco años, para lo cual deberá utilizar la información que estime conveniente, así como la información estadística y geográfica de los censos, conteos y encuestas correspondientes, por lo que, la Cámara de Diputados, en términos de las disposiciones jurídicas aplicables, autorizará las previsiones presupuestarias correspondientes en el Presupuesto de Egresos de la Federación, con la finalidad de llevar a cabo estas mediciones.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 37 Bis.
+
+El Instituto llevará a cabo la actualización de los lineamientos y criterios técnicos para la definición, identificación y medición de la pobreza, procurando la homogeneidad y comparabilidad de la información. La actualización de los lineamientos y criterios técnicos deberá mejorar la medición y garantizar que los indicadores de mediciones anteriores puedan seguir siendo estimados en el tiempo y espacio.
 
 ## TÍTULO CUARTO. DEL SISTEMA NACIONAL DE DESARROLLO SOCIAL
 
@@ -460,11 +498,15 @@ V. Promover la celebración de convenios con dependencias del Ejecutivo Federal,
 
 VI. Diseñar los criterios de ejecución anual del Programa en el ámbito de su competencia;
 
-VII. Promover y fomentar la participación de la sociedad, en la elaboración, ejecución y evaluación de las Políticas Públicas de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VII. Promover y fomentar la participación de la sociedad, en la elaboración y ejecución de la Política de Desarrollo Social;
 
 VIII. Promover y apoyar instrumentos de financiamiento en materia de desarrollo social;
 
-IX. Realizar evaluaciones de la Política Nacional de Desarrollo Social e informar a la sociedad sobre las acciones en torno al desarrollo social;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IX. Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
 X. Promover, con la intervención de los gobiernos de los estados respectivos, la participación de los municipios en el diseño y ejecución de los programas de desarrollo social, y
 
@@ -526,17 +568,19 @@ La Comisión Nacional es un instrumento de coordinación de los programas, accio
 
 La Comisión Nacional tiene por objeto consolidar la integralidad y el federalismo sobre bases de coordinación, colaboración y concertación de estrategias y programas de desarrollo social.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 49.
 
-La Comisión Nacional será presidida por el titular de la Secretaría y además estará integrada por:
+La Comisión Nacional será presidida por la persona titular de la Secretaría y además estará integrada por:
 
-I. Los titulares de las Secretarías de Educación Pública; Salud; Trabajo y Previsión Social; Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; así como Medio Ambiente y Recursos Naturales. Además de los titulares de los organismos sectorizados de la Secretaría podrán ser invitados a participar en reuniones específicas los titulares de otras dependencias y entidades de la Administración Pública Federal;
+I. Las personas titulares de las secretarías de Educación Pública; de Salud; del Trabajo y Previsión Social; de Agricultura y Desarrollo Rural, y de Medio Ambiente y Recursos Naturales. Además de las personas titulares de los organismos sectorizados de la Secretaría podrán invitarse a participar en reuniones específicas a las personas titulares de otras dependencias y entidades de la Administración Pública Federal;
 
-II. El titular de la dependencia responsable del desarrollo social en cada gobierno de las entidades federativas. Podrán ser invitados a participar en reuniones específicas, los titulares de otras dependencias de dichos gobiernos;
+II. La persona titular de la dependencia responsable del desarrollo social en cada gobierno de las entidades federativas. Podrá invitarse a participar en reuniones específicas, a las personas titulares de otras dependencias de dichos gobiernos;
 
-III. Un representante de cada una de las asociaciones nacionales de autoridades municipales, legalmente reconocidas, y
+III. Una persona representante de cada una de las asociaciones nacionales de autoridades municipales, legalmente reconocidas, y
 
-IV. Los presidentes de las comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores.
+IV. Las personas que presidan las comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores.
 
 ###### Artículo 50.
 
@@ -570,11 +614,11 @@ XIII. Las demás que le señale esta Ley.
 
 ### Capítulo IV. De la Comisión Intersecretarial de Desarrollo Social
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 51.
 
-La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por los titulares de las secretarías de Bienestar, quien lo presidirá; Gobernación; Hacienda y Crédito Público; Educación Pública; Salud; Medio Ambiente y Recursos Naturales; Energía; Economía; Agricultura y Desarrollo Rural; Infraestructura, Comunicaciones y Transportes; la Función Pública; Trabajo y Previsión Social; Desarrollo Agrario, Territorial y Urbano y Turismo, así como del Instituto Nacional de los Pueblos Indígenas. Podrán ser invitados a participar, con derecho a voz los titulares de otras dependencias y entidades de la Administración Pública Federal. El subsecretario que designe el Titular de la Secretaría será el Secretario Técnico. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
+La Comisión Intersecretarial será el instrumento de coordinación de las acciones del Ejecutivo Federal para garantizar la integralidad en el diseño y ejecución de la Política Nacional de Desarrollo Social. Estará integrada por las personas titulares de las secretarías de Bienestar, quien la presidirá; de Gobernación; de Hacienda y Crédito Público; de Educación Pública; de Salud; de Medio Ambiente y Recursos Naturales; de Energía; de Economía; de Agricultura y Desarrollo Rural; de Infraestructura, Comunicaciones y Transportes; Anticorrupción y Buen Gobierno; del Trabajo y Previsión Social; de Desarrollo Agrario, Territorial y Urbano, y de Turismo, así como del Instituto Nacional de los Pueblos Indígenas. Podrá invitarse a participar, con derecho a voz, a las personas titulares de otras dependencias y entidades de la Administración Pública Federal. La subsecretaría que designe la persona titular de la Secretaría será la Secretaría Técnica. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
 
 ###### Artículo 52.
 
@@ -634,13 +678,17 @@ XII. Expedir su reglamento interno, y
 
 XIII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 57.
 
-El Consejo estará integrado por un Presidente que será el titular de la Secretaría; un Secretario Ejecutivo que designará éste, así como por los consejeros invitados por la Secretaría. El Presidente del Consejo será suplido en sus ausencias por el Secretario Ejecutivo.
+El Consejo estará integrado por una Presidencia a cargo de la persona titular de la Secretaría; una Secretaría Ejecutiva cuya persona titular será designada por la Presidencia, así como por las personas consejeras invitadas por la Secretaría. La Presidencia del Consejo será suplida en sus ausencias por la Secretaría Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 58.
 
-Los consejeros deberán ser ciudadanos mexicanos de reconocido prestigio en los sectores privado y social, así como de los ámbitos académico, profesional, científico y cultural vinculados con el desarrollo social.
+Las personas consejeras deberán contar con ciudadanía mexicana y con un reconocido prestigio en los sectores privado y social, así como de los ámbitos académico, profesional, científico y cultural vinculados con el desarrollo social.
 
 ###### Artículo 59.
 
@@ -652,9 +700,11 @@ El Consejo podrá recibir la colaboración de otras dependencias y entidades de 
 
 ### Capítulo VI. Participación Social
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 61.
 
-El Gobierno Federal, los de las entidades federativas y los municipios garantizarán el derecho de los beneficiarios y de la sociedad a participar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de la política social.
+El Gobierno Federal, los de las entidades federativas y los municipios garantizarán el derecho de las personas beneficiarias y de la sociedad a participar de manera activa y corresponsable en la planeación, ejecución, evaluación y supervisión de la política social.
 
 ###### Artículo 62.
 
@@ -664,13 +714,17 @@ Las organizaciones que tengan como objetivo impulsar el desarrollo social de los
 
 El Gobierno Federal deberá invitar a las organizaciones, mediante convocatorias públicas que deberán contener los requisitos, objetivos y modalidades de participación.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 64.
 
-Las organizaciones podrán recibir fondos públicos para operar programas sociales propios, a excepción de aquéllas en las que formen parte de sus órganos directivos servidores públicos, sus cónyuges o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles.
+Las organizaciones podrán recibir fondos públicos para operar programas sociales propios, a excepción de aquellas en las que formen parte de sus órganos directivos personas servidoras públicas, sus cónyuges o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 65.
 
-Para efectos del artículo anterior, las organizaciones deberán estar formalmente constituidas ante autoridad competente o fedatario público, además de cumplir con lo que establezca el reglamento respectivo.
+Para efectos del artículo anterior, las organizaciones deberán estar formalmente constituidas ante autoridad competente o persona fedataria pública, además de cumplir con lo que establezca el reglamento respectivo.
 
 ###### Artículo 66.
 
@@ -686,13 +740,17 @@ Toda persona u organización podrá presentar denuncia ante la autoridad compete
 
 La denuncia popular podrá ejercitarse por cualquier persona, bastando que se presente por escrito y contenga:
 
-I. El nombre o razón social, domicilio y demás datos que permitan la identificación del denunciante y, en su caso, de su representante legal;
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+I. El nombre, denominación o razón social, domicilio y demás datos que permitan la identificación de quien denuncia y, en su caso, de su representante legal;
 
 II. Los actos, hechos u omisiones denunciados;
 
 III. Los datos que permitan identificar a la presunta autoridad infractora, y
 
-IV. Las pruebas que en su caso ofrezca el denunciante.
+> <small>(REFORMADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+IV. Las pruebas que en su caso ofrezca quien denuncia.
 
 > <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2018)</small>
 
@@ -700,9 +758,11 @@ La denuncia popular podrá ser anónima, y se sujetará únicamente a lo dispues
 
 ### Capítulo VIII. De la Contraloría Social
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 69.
 
-Se reconoce a la Contraloría Social como el mecanismo de los beneficiarios, de manera organizada, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social.
+Se reconoce a la Contraloría Social como el mecanismo de las personas beneficiarias, de manera organizada, para verificar el cumplimiento de las metas y la correcta aplicación de los recursos públicos asignados a los programas de desarrollo social.
 
 ###### Artículo 70.
 
@@ -726,29 +786,41 @@ V. Presentar ante la autoridad competente las quejas y denuncias que puedan dar 
 
 ### Capítulo I. De la Evaluación
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 72.
 
-La evaluación de la Política de Desarrollo Social estará a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social, que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, metas y acciones de la Política de Desarrollo Social, para corregirlos, modificarlos, adicionarlos, reorientarlos o suspenderlos total o parcialmente.
+La evaluación integral de la Política de Desarrollo Social está a cargo del Instituto que podrá realizarla por sí mismo o a través de uno o varios organismos independientes del ejecutor del programa, y tiene por objeto, revisar periódicamente el cumplimiento del objetivo social de los programas, proyectos y acciones, incluidos los recursos, que se requieren para la implementación de la Política de Desarrollo Social.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+###### Artículo 72 Bis.
+
+El Instituto deberá establecer los lineamientos y criterios técnicos para las metodologías de evaluación integral de la Política de Desarrollo Social.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 73.
 
-Los organismos evaluadores independientes que podrán participar serán instituciones de educación superior, de investigación científica u organizaciones no lucrativas. Cuando las evaluaciones se lleven a cabo por un organismo distinto del Consejo, éste emitirá la convocatoria correspondiente y designará al adjudicado.
+Los organismos evaluadores independientes que podrán participar serán instituciones de educación superior, de investigación científica u organizaciones no lucrativas.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 74.
 
-Para la evaluación de resultados, los programas sociales de manera invariable deberán incluir los indicadores de resultados, gestión y servicios para medir su cobertura, calidad e impacto. Las dependencias del Ejecutivo Federal, estatales o municipales, ejecutoras de los programas a evaluar, proporcionarán toda la información y las facilidades necesarias para la realización de la evaluación.
+Para la evaluación integral de la Política de Desarrollo Social, las dependencias de los tres órdenes de gobierno ejecutoras de los programas, proyectos y acciones, incluidos los recursos, de dicha Política proporcionarán al Instituto toda la información y las facilidades necesarias para la realización de la evaluación.
 
 ###### Artículo 75.
 
-Los indicadores de resultados que se establezcan deberán reflejar el cumplimiento de los objetivos sociales de los programas, metas y acciones de la Política Nacional de Desarrollo Social.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 76.
 
-Los indicadores de gestión y servicios que se establezcan deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Nacional de Desarrollo Social.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 77.
 
-El Consejo Nacional de Evaluación, antes de aprobar los indicadores a que se refiere este artículo, los someterá a la consideración de la Secretaría de Hacienda y Crédito Público y a la Cámara de Diputados por conducto de la Auditoría Superior de la Federación, para que emitan las recomendaciones que en su caso estime pertinentes.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ###### Artículo 78.
 
@@ -758,39 +830,73 @@ La evaluación será anual, definiendo como periodo del primero de mayo al trein
 
 Los resultados de las evaluaciones serán publicados en el Diario Oficial de la Federación y deberán ser entregados a las Comisiones de Desarrollo Social de las Cámaras de Diputados y de Senadores del Congreso de la Unión, y a la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### Artículo 80.
 
-De acuerdo con los resultados de las evaluaciones, el Consejo Nacional de Evaluación de la Política de Desarrollo Social podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público.
+De acuerdo con los resultados de las evaluaciones, el Instituto podrá emitir las sugerencias y recomendaciones que considere pertinentes al Ejecutivo Federal y hacerlas del conocimiento público.
 
-### Capítulo II. De Consejo Nacional de Evaluación de la Política de Desarrollo Social
+El Instituto pondrá a disposición del público la evaluación integral de la Política de Desarrollo Social y el informe general sobre el resultado de dicha evaluación, a través del portal institucional y en términos de lo previsto en la legislación en materia de transparencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JULIO DE 2025)</small>
+
+### Capítulo II. Del Instituto Nacional de Estadística y Geografía
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 81.
 
-El Consejo Nacional de Evaluación de la Política de Desarrollo Social es un organismo público descentralizado, con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión de conformidad con la Ley Federal de las Entidades Paraestatales. Tiene por objeto normar y coordinar la evaluación de las Políticas y Programas de Desarrollo Social, que ejecuten las dependencias públicas, y establecer los lineamientos y criterios para la definición, identificación y medición de la pobreza, garantizando la transparencia, objetividad y rigor técnico en dicha actividad.
+El Instituto, en su carácter de evaluador de la Política de Desarrollo Social y medición de pobreza, se regirá por los principios de independencia, objetividad, transparencia y rigor técnico y tendrá las atribuciones siguientes:
+
+I. Normar y coordinar la evaluación integral de la Política de Desarrollo Social y medición de la pobreza;
+
+II. Promover una estrecha comunicación con las personas responsables de los programas de desarrollo social de los tres órdenes de gobierno;
+
+III. Emitir los lineamientos y criterios técnicos para la evaluación integral de la Política de Desarrollo Social y medición de la pobreza con base en indicadores objetivos y cuantificables;
+
+IV. Realizar estudios e investigaciones en materia de pobreza;
+
+V. Someter a consulta las propuestas temáticas y metodológicas de evaluación integral de la Política de Desarrollo Social a los sectores público, social y privado, y analizar la procedencia de sus propuestas;
+
+VI. Celebrar los actos jurídicos necesarios con las autoridades de desarrollo social de los tres órdenes de gobierno y, en su caso, con organizaciones de los sectores social y privado, para promover y realizar la evaluación integral de la Política de Desarrollo Social;
+
+VII. Establecer los mecanismos que permitan que los resultados de las evaluaciones sean comparables, y
+
+VIII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 82.
 
-El Consejo estará integrado de la siguiente forma:
+El Instituto promoverá estrategias para el intercambio de información y experiencias con las autoridades de los tres órdenes de gobierno, que permitan retroalimentarse sobre la evaluación de los programas, proyectos y acciones de la Política de Desarrollo Social.
 
-I. El titular de la Secretaría de Desarrollo Social, o la persona que éste designe;
+Las autoridades de los tres órdenes de gobierno deberán proporcionar toda la información y elementos requeridos por el Instituto, que sean necesarios para la evaluación integral de la Política de Desarrollo Social y medición de la pobreza.
 
-II. Seis investigadores académicos, que sean o hayan sido miembros del Sistema Nacional de Investigadores, con amplia experiencia en la materia y que colaboren en instituciones de educación superior y de investigación inscritas en el Padrón de Excelencia del Consejo Nacional de Ciencia y Tecnología, y
-
-III. Un Secretario Ejecutivo designado por el Ejecutivo Federal.
-
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 83.
 
-Las personas investigadoras académicas a que se refiere el artículo anterior, se nombrarán observando el principio de paridad de género y durarán cuatro años en el cargo y podrán ser reelectas la mitad de ellas. Se designarán por la Comisión Nacional de Desarrollo Social a través de una convocatoria pública cuya responsabilidad será de la Secretaría Ejecutiva.
+Corresponde a la persona titular de la Presidencia del Instituto en materia de medición de la pobreza y de la evaluación integral de la Política de Desarrollo Social, coordinar la integración del informe anual a que se refiere la fracción III del artículo 84 de esta Ley, así como presentarlo ante el Congreso de la Unión, además de aquellas atribuciones que le confieran esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 ###### Artículo 84.
 
-El Consejo tendrá su sede en la ciudad de México y su patrimonio se integrará con los recursos que le sean asignados en el Presupuesto de Egresos de la Federación, a través de la Secretaría, y con los bienes muebles e inmuebles que adquiera por cualquier título.
+Corresponde a la Junta de Gobierno del Instituto, en materia de medición de la pobreza y la evaluación integral de la Política de Desarrollo Social, la emisión de recomendaciones, así como el despacho de los asuntos siguientes:
+
+I. Aprobar los instrumentos, lineamientos, directrices y criterios técnicos a los que se refiere esta Ley, a propuesta de la Presidencia del Instituto;
+
+II. Establecer los criterios técnicos para procesar, interpretar y difundir de manera oportuna y transparente la información que se obtenga de la medición de la pobreza y la evaluación integral de la Política de Desarrollo Social;
+
+III. Aprobar el contenido del informe anual sobre los componentes, procesos y resultados de la medición de la pobreza y la evaluación integral de la Política de Desarrollo Social;
+
+IV. Aprobar, a propuesta de la Presidencia del Instituto, el programa anual para la medición de la pobreza y la evaluación integral de la Política de Desarrollo Social, así como el desarrollo de estudios y diagnósticos al respecto que vaya a realizar el Instituto por sí mismo o a través de evaluadores externos, y
+
+V. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 85.
 
-La administración del Consejo estará a cargo de un Comité Directivo, que presidirá el titular de la Secretaría, o la persona que éste designe; además estará integrado por las personas a que se refiere la fracción II, del artículo 82 de esta Ley. Sus decisiones se tomarán por mayoría.
+(DEROGADO, D.O.F. 16 DE JULIO DE 2025)
 
 ## TRANSITORIOS
 
@@ -889,3 +995,49 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA Y DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+A la entrada en vigor del presente Decreto se extingue el organismo descentralizado de la Administración Pública Federal, sectorizado a la Secretaría de Bienestar, denominado Consejo Nacional de Evaluación de la Política de Desarrollo Social, conservando su personalidad jurídica para llevar a cabo los actos a que se refiere éste.
+
+Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del presente Decreto seguirán vigentes en lo que no se opongan al mismo, hasta en tanto se emitan las disposiciones que los sustituyan.
+
+Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los recursos presupuestarios, financieros y materiales, además de los inmuebles, derechos y obligaciones sobre dichos recursos al Instituto Nacional de Estadística y Geografía, en los términos que determinen ambas instituciones, sin perjuicio de lo dispuesto en el Artículo Tercero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024, a más tardar a los 20 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá entregar a la Secretaría de Hacienda y Crédito Público la información necesaria para integrar la Cuenta Pública y demás informes correspondientes al primer trimestre del presente año, de conformidad con las disposiciones jurídicas aplicables, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto, deberá dar cumplimiento con lo establecido en el artículo 134, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, para ajustar su estructura orgánica de conformidad con los principios de racionalidad y austeridad republicana, y evitar todo tipo de duplicidad de funciones, con base en las necesidades de mejora y modernización de la gestión pública.
+
+Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en coordinación con la Secretaría de Bienestar, concluya la relación laboral con todo su personal en los términos legales que correspondan. Los pagos correspondientes se realizarán con cargo al patrimonio del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+Las personas servidoras públicas del Consejo Nacional de Evaluación de la Política de Desarrollo Social que dejen de prestar sus servicios en dicho Consejo y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas que la Secretaría Anticorrupción y Buen Gobierno tenga habilitados para tales efectos y conforme a la normativa aplicable a la Administración Pública Federal.
+
+El Instituto Nacional de Estadística y Geografía, conforme a su estructura orgánica y ocupacional, así como a su disponibilidad presupuestaria, contratará al personal que requiera bajo el régimen laboral previsto en el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, en concordancia con la normativa del Instituto.
+
+Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en los ordenamientos jurídicos se hagan o le confieran al Consejo Nacional de Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas al Instituto Nacional de Estadística y Geografía cuando se refieran a la medición de la pobreza y evaluación integral de la Política de Desarrollo Social.
+
+Asimismo, las referencias y atribuciones que se hagan o le confieran al Consejo Nacional de Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas a la Secretaría de Hacienda y Crédito Público cuando se refieran al Presupuesto basado en Resultados y al Sistema de Evaluación del Desempeño.
+
+Séptimo.- Los instrumentos jurídicos celebrados por el Consejo Nacional de Evaluación de la Política de Desarrollo Social seguirán vigentes y surtiendo sus efectos, hasta en tanto se determine su modificación, terminación o celebración de nuevos instrumentos jurídicos.
+
+Octavo.- Los asuntos relacionados con el ejercicio de las atribuciones objeto del presente Decreto, que se encuentren en trámite, continuarán a cargo de las instituciones que asuman las atribuciones en términos del presente Decreto, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Las obligaciones a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social al momento de su extinción estarán a cargo del Instituto Nacional de Estadística y Geografía, incluyendo la defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.
+
+Noveno.- El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá ser puesto a disposición del Instituto Nacional de Estadística y Geografía y, una vez revisado, será puesto a disposición de la ciudadanía en un portal electrónico público.
+
+Décimo.- Para efectos de lo dispuesto en los transitorios tercero, séptimo, octavo y noveno del presente Decreto, el Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por las personas titulares de la Dirección General de Administración del Instituto Nacional de Estadística y Geografía, de la Secretaría Ejecutiva y de la Coordinación General de Administración del Consejo Nacional de Evaluación de la Política de Desarrollo Social, así como cuatro personas servidoras públicas quienes deberán de tener al menos el nivel de Dirección de área o equivalente, así como tener conocimiento o estar a cargo de los asuntos que se mencionan en dichos transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de 20 días naturales contados a partir de la entrada en vigor del presente Decreto, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de existir acciones pendientes, se estará a lo previsto en el segundo párrafo del transitorio octavo de este Decreto.
+
+Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá realizar las reformas necesarias a su Reglamento Interior para atender lo dispuesto en el presente Decreto, a más tardar dentro de los 20 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
+
+Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.
+
+Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
