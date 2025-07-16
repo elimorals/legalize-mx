@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-mejora-regulatoria-128491"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-05-18"
-last_updated: "2021-05-20"
+last_updated: "2025-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128491&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-05-18"
 ---
 # LEY GENERAL DE MEJORA REGULATORIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NACIONAL PARA ELIMINAR TRÁMITES BUROCRÁTICOS, PUBLICADA EN EL D.O.F. DE 16 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE MEJORA REGULATORIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el viernes 18 de mayo de 2018.
 
@@ -1350,3 +1352,61 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL PARA ELIMINAR TRÁMITES BUROCRÁTICOS".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga la Ley General de Mejora Regulatoria, publicada en el Diario Oficial de la Federación el 18 de mayo de 2018.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Cuarto.- A los treinta días hábiles de la entrada en vigor del presente Decreto se extingue el órgano administrativo desconcentrado denominado Comisión Nacional de Mejora Regulatoria.
+
+Todas las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de la Comisión Nacional de Mejora Regulatoria se entenderán hechas a la Agencia de Transformación Digital y Telecomunicaciones.
+
+Quinto.- En un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del presente Decreto, la persona titular del Ejecutivo Federal deberá expedir las adecuaciones correspondientes al Reglamento Interior de la Agencia de Transformación Digital y Telecomunicaciones.
+
+Sexto.- En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, se asignarán los recursos financieros y materiales con que cuenta la Comisión Nacional de Mejora Regulatoria a la unidad administrativa que se determine en el Reglamento Interior de la Agencia de Transformación Digital y Telecomunicaciones.
+
+Los derechos laborales de las personas servidoras públicas de la Comisión Nacional de Mejora Regulatoria se respetarán en términos de lo previsto por las disposiciones jurídicas aplicables.
+
+La Comisión Nacional de Mejora Regulatoria asignará los recursos correspondientes al valor de la estructura o plantilla de plazas a la unidad administrativa que se determine en el Reglamento Interior de la Agencia de Transformación Digital y Telecomunicaciones, en términos de las disposiciones jurídicas aplicables.
+
+Las personas titulares de las Unidades de Administración y Finanzas de la dependencia y el órgano desconcentrado a que se refiere el presente artículo serán coordinadoras del proceso de asignación de los recursos a que se refiere este artículo, por lo que proveerán lo necesario para darle cumplimiento y proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+Séptimo.- Los asuntos que se encuentren en trámite ante la Comisión Nacional de Mejora Regulatoria al momento de su extinción continuarán a cargo de la unidad administrativa que se determine en el Reglamento Interior de la Agencia de Transformación Digital y Telecomunicaciones, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Octavo.- Los instrumentos jurídicos celebrados por la Comisión Nacional de Mejora Regulatoria, seguirán vigentes y surtiendo sus efectos, hasta en tanto se determine su modificación, terminación o celebración de nuevos instrumentos jurídicos. La Agencia de Transformación Digital y Telecomunicaciones ejercerá los derechos y obligaciones que deriven de éstos, incluso la defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.
+
+Noveno.- En un plazo no mayor a noventa días hábiles contado a partir de la entrada en vigor del presente Decreto, las dependencias, sus órganos administrativos desconcentrados y entidades de la Administración Pública Federal que, por sí, o a través de terceros operen, administren centros, o contraten la prestación de servicios, para atención telefónica, transferirán a la Agencia de Transformación Digital y Telecomunicaciones los recursos financieros y materiales destinados para tales fines, los cuales serán destinados para la operación del Centro de Atención del Bienestar de la Administración Pública Federal, salvo los casos que determine la Agencia de Transformación Digital y Telecomunicaciones.
+
+Los derechos laborales de las personas servidoras públicas de las dependencias, órganos administrativos desconcentrados y entidades de la Administración Pública Federal a que se refiere el presente artículo se respetarán en términos de lo previsto por las disposiciones jurídicas aplicables.
+
+Las dependencias, órganos administrativos desconcentrados y entidades de la Administración Pública Federal a que se refiere el presente artículo, en un plazo no mayor a noventa días hábiles transferirán a la Agencia de Transformación Digital y Telecomunicaciones los recursos correspondientes al valor de la estructura o plantilla de plazas que se transfiere, en términos de las disposiciones jurídicas aplicables.
+
+Para efectos del presente artículo transitorio, las personas titulares de las Unidades de Administración y Finanzas de las dependencias, entidades u órganos desconcentrados a que se refiere el presente artículo, serán coordinadoras del proceso de transferencia de los recursos, para lo cual definirán un calendario dentro de los treinta días hábiles siguientes a la publicación de este Decreto, para el inicio de operaciones, y proveerán lo necesario para darle cumplimiento, así como para proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+Décimo.- En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, la Autoridad Nacional deberá emitir los Lineamientos para la implementación del Modelo Nacional para Eliminar los Trámites Burocráticos, el Modelo Nacional para la Digitalización, el Modelo Nacional de Homologación de Trámites y Servicios, la Compartición de Soluciones Tecnológicas y Desarrollo de Capacidades Públicas, así como el Modelo Nacional de Atención Ciudadana. Dichos Lineamientos serán de aplicación nacional y observancia obligatoria para los Sujetos Obligados.
+
+Décimo Primero.- En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, las personas titulares de los Sujetos Obligados de la Federación deberán designar a sus respectivos Enlaces de Simplificación y Digitalización y notificarlo a la Agencia de Transformación Digital y Telecomunicaciones.
+
+Décimo Segundo.- En un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, los Sujetos Obligados de la Federación deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que éstas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
+
+Décimo Tercero.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto se abrogan todas las leyes locales que derivan de la Ley General de Mejora Regulatoria, publicada en el Diario Oficial de la Federación el 18 de mayo de 2018; en el mismo término se derogan aquellas disposiciones legales, y quedan sin efectos las disposiciones reglamentarias y administrativas locales que se opongan a lo dispuesto en el presente Decreto.
+
+Dentro del mismo plazo, los Congresos de los Estados y el de la Ciudad de México armonizarán su normatividad de conformidad con el presente Decreto.
+
+Décimo Cuarto.- En un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, las entidades federativas y Municipios deberán establecer sus respectivas Autoridades de Simplificación y Digitalización. En tanto no se establezcan estas autoridades, continuarán en funcionamiento las Autoridades de Mejora Regulatoria, conforme a sus leyes locales y normativa aplicable. Una vez que entren en funcionamiento las nuevas autoridades de simplificación, éstas se regirán por la Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto.
+
+Los asuntos que se encuentren en trámite ante las autoridades estatales de Mejora Regulatoria al momento de su extinción continuarán a cargo de las respectivas Autoridades Locales de Simplificación y Digitalización, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Décimo Quinto.- En un plazo no mayor a treinta días naturales contados a partir del plazo previsto en el Artículo Décimo Cuarto transitorio, las personas titulares de los Sujetos Obligados Estatales o Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+
+La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la respectiva Autoridad Local.
+
+Décimo Sexto.- En un plazo no mayor a treinta días naturales contados a partir del plazo previsto en el Artículo Décimo Cuarto transitorio, las personas titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que éstas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
+
+Décimo Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los mismos, esta deberá llevarse a cabo mediante movimientos compensados, conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
