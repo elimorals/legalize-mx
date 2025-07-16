@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2023-05-03"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -214,7 +214,9 @@ XIV.- Los demás bienes considerados de uso común por otras leyes que regulen b
 
 Todos los habitantes de la República pueden usar los bienes de uso común, sin más restricciones que las establecidas por las leyes y reglamentos administrativos.
 
-Para aprovechamientos especiales sobre los bienes de uso común, se requiere concesión, autorización o permiso otorgados con las condiciones y requisitos que establezcan las leyes.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+Para aprovechamientos especiales sobre los bienes de uso común, se requiere concesión, asignación, autorización o permiso otorgados con las condiciones y requisitos que establezcan las leyes.
 
 > <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2020)</small>
 
@@ -270,9 +272,11 @@ Se regirán, sin embargo, por el Código Civil Federal, los aprovechamientos acc
 
 Los derechos de tránsito, de vista, de luz, de derrames y otros semejantes sobre dichos bienes, se rigen exclusivamente por las leyes, reglamentos y demás disposiciones administrativas de carácter federal.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 16.
 
-Las concesiones, permisos y autorizaciones sobre bienes sujetos al régimen de dominio público de la Federación no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el título de la concesión, el permiso o la autorización correspondiente.
+Las concesiones, asignaciones, permisos y autorizaciones sobre bienes sujetos al régimen de dominio público de la Federación no crean derechos reales; otorgan simplemente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones, de acuerdo con las reglas y condiciones que establezcan las leyes y el título de la concesión o asignación, el permiso o la autorización correspondiente.
 
 ###### ARTÍCULO 17.
 
@@ -292,11 +296,13 @@ V.- Cuando se afecte la seguridad nacional, o
 
 VI.- Si existe algún motivo fundado de interés público.
 
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 18.
 
-La revocación y la caducidad de las concesiones sobre bienes sujetos al régimen de dominio público de la Federación, cuando proceda conforme a la ley, se dictarán por las dependencias u organismos descentralizados que las hubieren otorgado, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
+La revocación y la caducidad de las concesiones o asignaciones sobre bienes sujetos al régimen de dominio público de la Federación, cuando proceda conforme a la ley, se dictarán por las dependencias u organismos descentralizados que las hubieren otorgado, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
 
-En el caso de que la declaratoria quede firme, los bienes materia de la concesión, sus mejoras y accesiones pasarán de pleno derecho al control y administración del concesionante, sin pago de indemnización alguna al concesionario.
+En el caso de que la declaratoria quede firme, los bienes materia de la concesión o asignación, sus mejoras y accesiones pasarán de pleno derecho al control y administración del concesionante, sin pago de indemnización alguna a la persona concesionaria o asignataria.
 
 ###### ARTÍCULO 19.
 
@@ -627,6 +633,10 @@ VI.- Las concesiones sobre inmuebles federales;
 VII.- Las resoluciones judiciales o administrativas relativas a deslindes de inmuebles federales;
 
 VIII.- Las concesiones, permisos o autorizaciones que establezcan que los bienes afectos a las mismas, ingresarán al patrimonio de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE JULIO DE 2025)</small>
+
+VIII Bis.- Las asignaciones que se otorguen en materia ferroviaria;
 
 IX.- Las declaratorias por las que la Federación adquiere el dominio de los bienes afectos a las concesiones, permisos o autorizaciones que así lo establezcan;
 
@@ -2341,3 +2351,21 @@ Segundo. Se derogan aquellas disposiciones que se opongan a lo previsto en el pr
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
 
 Cuarto. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Decreto deberán concluirse y ejecutarse conforme a la legislación vigente al momento de su inicio.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL; DE LA LEY DE VÍAS GENERALES DE COMUNICACIÓN, Y DE LA LEY GENERAL DE BIENES NACIONALES, EN MATERIA FERROVIARIA Y DE ARMONIZACIÓN NORMATIVA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones relativas a la Ley Reglamentaria del Servicio Ferroviario entrarán en vigor el mismo día de la publicación del Decreto de Creación de la Agencia de Trenes y Transporte Público Integrado que emita la persona titular del Ejecutivo Federal.
+
+Segundo.- Los asuntos en trámite a la entrada en vigor de este ordenamiento que deban pasar de la Agencia Reguladora del Transporte Ferroviario a la Agencia de Trenes y Transporte Público Integrado, continuarán su trámite y serán resueltos por esta última.
+
+Tercero.- La Agencia de Trenes y Transporte Público Integrado deberá ser creada por el Ejecutivo Federal en un plazo no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
+
+Cuarto.- Se derogan aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado para tal fin a la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable en el ejercicio fiscal en el que entre en vigor este Decreto.
+
+Sexto.- El Ejecutivo Federal contará con un plazo de 180 días naturales para emitir las modificaciones correspondientes al Reglamento del Servicio Ferroviario.
