@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2025-07-09"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -125,21 +125,21 @@ En el Estado se reconoce el derecho humano a la participación ciudadana, entend
 
 La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado Mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN I], P.O. 16 DE JULIO DE 2025)</small>
 
-I. Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2025)</small>
 
-II. Toda persona tiene derecho a la información.
+I. Corresponde al Estado y a los Municipios la promoción de la práctica del deporte individual y colectivo y de toda actividad física que ayude a cuidar la salud y el desarrollo integral de la persona, tanto en las escuelas como en instalaciones deportivas apropiadas, próximas a las comunidades y que permitan el acceso universal e incluyente.
 
-Toda persona tiene derecho a acceder a la información pública, salvo en aquellos casos establecidos en la ley.
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN II], P.O. 16 DE JULIO DE 2025)</small>
 
-El Estado garantizará el ejercicio de este derecho.
+Toda persona tiene el derecho a la información. Toda persona tiene derecho a acceder a la información pública, salvo en aquellos casos establecidos en la Ley. El Estado garantizará el ejercicio de este derecho.
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ANTES FRACCIÓN III], P.O. 16 DE JULIO DE 2025)</small>
 
-III. Para el ejercicio del derecho de acceso a la información, se estará a los principios y bases a que se refiere el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
+Para el ejercicio del derecho de acceso a la información, se estará a los principios y bases a que se refiere el artículo 6º de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -5802,6 +5802,18 @@ P.O. 9 DE JULIO DE 2025.
 ###### ARTÍCULO PRIMERO.
 
 En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVIII/RFCNT/0220/2025 II P.O., MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS DÉCIMO SEGUNDO, DÉCIMO TERCERO Y DÉCIMO CUARTO, Y SE ADICIONA AL PÁRRAFO DÉCIMO SEGUNDO, UNA FRACCIÓN I, TODOS DEL ARTÍCULO 4º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la Iniciativa, del Dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
