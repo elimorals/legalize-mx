@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2024-04-30"
+last_updated: "2025-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -1170,7 +1170,9 @@ d) Se podrán plantear requerimientos específicos de información;
 
 e) En su caso, se podrán proponer acciones para avanzar en el logro de los objetivos planteados en el Plan Nacional de Desarrollo y los programas que deriven del mismo; y
 
-f) En el caso del Presupuesto de Egresos, la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados deberá establecer mecanismos de participación de las Comisiones Ordinarias en el examen y discusión del Presupuesto por sectores. Los legisladores de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación de los programas y proyectos y las medidas que podrán impulsar el logro de los objetivos y metas anuales.
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
+
+f) En el caso del Presupuesto de Egresos, la Comisión de Presupuesto y Cuenta Pública de la Cámara de Diputados deberá establecer mecanismos de participación de las Comisiones Ordinarias en el examen y discusión del Presupuesto por sectores. Las personas legisladoras de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación que realice la Secretaría y el Instituto Nacional de Estadística y Geografía, en el ámbito de sus respectivas competencias y las medidas que podrán impulsar el logro de los objetivos y metas anuales.
 
 IX. Podrán establecerse mecanismos de coordinación, colaboración y entendimiento entre el Poder Ejecutivo y el Poder Legislativo, con el objeto de hacer más eficiente el proceso de integración, aprobación y evaluación del Presupuesto de Egresos.
 
@@ -1718,9 +1720,9 @@ Las reglas de operación deberán ser simples y precisas con el objeto de facili
 
 Las dependencias, o las entidades a través de su respectiva dependencia coordinadora de sector, deberán realizar una evaluación de resultados de los programas sujetos a reglas de operación, por conducto de expertos, instituciones académicas y de investigación u organismos especializados, de carácter nacional o internacional, que cuenten con reconocimiento y experiencia en las respectivas materias de los programas.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2025)</small>
 
-Las evaluaciones se realizarán conforme al programa anual que al efecto se establezca.
+Las evaluaciones se realizarán conforme al programa anual que al efecto establezca la Secretaría.
 
 Las dependencias y entidades deberán reportar el resultado de las evaluaciones en los informes trimestrales que correspondan.
 
@@ -2246,7 +2248,7 @@ La Secretaría realizará trimestralmente la evaluación económica de los ingre
 
 Para efectos del párrafo anterior, el Ejecutivo Federal enviará trimestralmente a la Cámara de Diputados la información necesaria.
 
-El Consejo Nacional de Evaluación de la Política de Desarrollo Social coordinará las evaluaciones en materia de desarrollo social en términos de lo dispuesto en la Ley General de Desarrollo Social y lo dispuesto en esta Ley.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 16 DE JULIO DE 2025)</small>
 
 La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores estratégicos y de gestión que permitan conocer los resultados de la aplicación de los recursos públicos federales. Para tal efecto, las instancias públicas a cargo de la evaluación del desempeño se sujetarán a lo siguiente:
 
@@ -2909,3 +2911,49 @@ Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar 
 DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
+
+D.O.F. 16 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE DESARROLLO SOCIAL, DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA Y DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+A la entrada en vigor del presente Decreto se extingue el organismo descentralizado de la Administración Pública Federal, sectorizado a la Secretaría de Bienestar, denominado Consejo Nacional de Evaluación de la Política de Desarrollo Social, conservando su personalidad jurídica para llevar a cabo los actos a que se refiere éste.
+
+Segundo.- Las disposiciones y demás ordenamientos jurídicos relacionados con el objeto del presente Decreto seguirán vigentes en lo que no se opongan al mismo, hasta en tanto se emitan las disposiciones que los sustituyan.
+
+Tercero.- El Consejo Nacional de Evaluación de la Política de Desarrollo Social transferirá los recursos presupuestarios, financieros y materiales, además de los inmuebles, derechos y obligaciones sobre dichos recursos al Instituto Nacional de Estadística y Geografía, en los términos que determinen ambas instituciones, sin perjuicio de lo dispuesto en el Artículo Tercero Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación orgánica, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2024, a más tardar a los 20 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+El Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá entregar a la Secretaría de Hacienda y Crédito Público la información necesaria para integrar la Cuenta Pública y demás informes correspondientes al primer trimestre del presente año, de conformidad con las disposiciones jurídicas aplicables, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- El Instituto Nacional de Estadística y Geografía en la implementación del presente Decreto, deberá dar cumplimiento con lo establecido en el artículo 134, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, para ajustar su estructura orgánica de conformidad con los principios de racionalidad y austeridad republicana, y evitar todo tipo de duplicidad de funciones, con base en las necesidades de mejora y modernización de la gestión pública.
+
+Quinto.- Se llevarán a cabo las gestiones a fin de que el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en coordinación con la Secretaría de Bienestar, concluya la relación laboral con todo su personal en los términos legales que correspondan. Los pagos correspondientes se realizarán con cargo al patrimonio del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+Las personas servidoras públicas del Consejo Nacional de Evaluación de la Política de Desarrollo Social que dejen de prestar sus servicios en dicho Consejo y que estén obligadas a presentar declaración patrimonial y de intereses, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas que la Secretaría Anticorrupción y Buen Gobierno tenga habilitados para tales efectos y conforme a la normativa aplicable a la Administración Pública Federal.
+
+El Instituto Nacional de Estadística y Geografía, conforme a su estructura orgánica y ocupacional, así como a su disponibilidad presupuestaria, contratará al personal que requiera bajo el régimen laboral previsto en el artículo 123, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos, en concordancia con la normativa del Instituto.
+
+Sexto.- A partir de la fecha de entrada en vigor de este Decreto, las referencias y atribuciones que, en los ordenamientos jurídicos se hagan o le confieran al Consejo Nacional de Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas al Instituto Nacional de Estadística y Geografía cuando se refieran a la medición de la pobreza y evaluación integral de la Política de Desarrollo Social.
+
+Asimismo, las referencias y atribuciones que se hagan o le confieran al Consejo Nacional de Evaluación de la Política de Desarrollo Social, deberán entenderse hechas o conferidas a la Secretaría de Hacienda y Crédito Público cuando se refieran al Presupuesto basado en Resultados y al Sistema de Evaluación del Desempeño.
+
+Séptimo.- Los instrumentos jurídicos celebrados por el Consejo Nacional de Evaluación de la Política de Desarrollo Social seguirán vigentes y surtiendo sus efectos, hasta en tanto se determine su modificación, terminación o celebración de nuevos instrumentos jurídicos.
+
+Octavo.- Los asuntos relacionados con el ejercicio de las atribuciones objeto del presente Decreto, que se encuentren en trámite, continuarán a cargo de las instituciones que asuman las atribuciones en términos del presente Decreto, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Las obligaciones a cargo del Consejo Nacional de Evaluación de la Política de Desarrollo Social al momento de su extinción estarán a cargo del Instituto Nacional de Estadística y Geografía, incluyendo la defensa legal ante cualquier autoridad administrativa, laboral o jurisdiccional.
+
+Noveno.- El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá ser puesto a disposición del Instituto Nacional de Estadística y Geografía y, una vez revisado, será puesto a disposición de la ciudadanía en un portal electrónico público.
+
+Décimo.- Para efectos de lo dispuesto en los transitorios tercero, séptimo, octavo y noveno del presente Decreto, el Consejo Nacional de Evaluación de la Política de Desarrollo Social deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por las personas titulares de la Dirección General de Administración del Instituto Nacional de Estadística y Geografía, de la Secretaría Ejecutiva y de la Coordinación General de Administración del Consejo Nacional de Evaluación de la Política de Desarrollo Social, así como cuatro personas servidoras públicas quienes deberán de tener al menos el nivel de Dirección de área o equivalente, así como tener conocimiento o estar a cargo de los asuntos que se mencionan en dichos transitorios.
+
+El Comité de Transferencia estará vigente por un periodo de 20 días naturales contados a partir de la entrada en vigor del presente Decreto, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios antes citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+Una vez concluido el plazo que se refiere el párrafo anterior, y en caso de existir acciones pendientes, se estará a lo previsto en el segundo párrafo del transitorio octavo de este Decreto.
+
+Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá realizar las reformas necesarias a su Reglamento Interior para atender lo dispuesto en el presente Decreto, a más tardar dentro de los 20 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
+
+Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.
+
+Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
