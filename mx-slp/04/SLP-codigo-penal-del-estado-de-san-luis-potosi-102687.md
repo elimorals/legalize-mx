@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2025-06-05"
+last_updated: "2025-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2425,7 +2425,9 @@ ARTÍCULO 187 BIS. Comete el delito contra la identidad de las personas, quien s
 
 Será (sic) equiparables al delito contra la identidad de las personas, y se sancionará como tal, a quien:
 
-I. Por algún uso de medio electrónico, telemático o electrónico (sic) obtenga algún lucro indebido para sí o para otro, o genere un daño patrimonial a otro, valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales, o el acceso no autorizado a base de datos automatizados para suplantar identidades;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2025)</small>
+
+I. Por algún uso de medio electrónico, telemático o de inteligencia artificial obtenga algún lucro indebido para sí o para otro, o genere un daño patrimonial a otro, valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales, o el acceso no autorizado a base de datos automatizados para suplantar identidades;
 
 II. Posea o utilice datos identificativos de otra persona con la intención de cometer, favorecer, o intentar cualquier actividad ilícita, causando un daño patrimonial, moral, o que obtenga un lucro indebido, o
 
@@ -2514,6 +2516,14 @@ V. La persona agresora sea servidor público, y utilice los medios o circunstanc
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 En el supuesto al que se refiere la fracción V de este artículo, además de la pena impuesta, la persona agresora será destituida e inhabilitada para ocupar cargo, empleo o comisión en el sector público de tres a seis años.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+Se impondrán las mismas penas señaladas en el párrafo primero de este artículo, a quien haciendo uso de la Inteligencia Artificial, genere, modifique o altere imágenes, audios o videos de una persona sin su consentimiento, para crear hechos falsos con apariencia real de contenido íntimo sexual, así como a quien los almacene, transmita, publique o difunda por cualquier medio. Serán aplicables a las hipótesis contenidas en este párrafo, las mismas reglas establecidas en los párrafos segundo, tercero y cuarto de este artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+Para efectos del párrafo anterior, por Inteligencia Artificial se entiende, las aplicaciones de software, programas informáticos o cualquier software con capacidad de modificar o alterar imágenes, audios o videos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MAYO DE 2018)</small>
 
@@ -6134,3 +6144,9 @@ P.O. 5 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0214.- QUE ADICIONA EL CAPÍTULO I BIS AL TÍTULO CUARTO, Y LOS ARTÍCULOS 184 BIS Y 200 BIS, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 17 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0244.- QUE REFORMA EL ARTÍCULO 187 BIS; Y REALIZA ADICIÓN AL ARTÍCULO 187, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
