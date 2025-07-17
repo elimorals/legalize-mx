@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2025-05-19"
+last_updated: "2025-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,13 @@ state: "MOR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES, POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE ESA ENTIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE JULIO DE DOS MIL VEINTICINCO, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/].
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -834,11 +836,7 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
-
-###### Artículo 24.
-
-El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por doce Diputadas y Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por ocho Diputadas y Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial conformadas de acuerdo con el principio de paridad y encabezadas alternadamente entre mujeres y hombres. El territorio del Estado comprenderá una circunscripción plurinominal única.
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 24.- El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por doce Diputadas y Diputados electos por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales y por ocho Diputadas y Diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial conformadas de acuerdo con el principio de paridad y encabezadas alternadamente entre mujeres y hombres. El territorio del Estado comprenderá una circunscripción plurinominal única.
 
 Al Partido Político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida para Diputados, se le asignará una diputación por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
 
@@ -854,7 +852,29 @@ La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera
 
 Los Diputados Locales Suplentes podrán ser electos para el período inmediato con el carácter de Propietario, pudiendo reelegirse de conformidad con la normatividad.
 
-Ningún Partido Político podrá contar con más de doce Diputados por ambos principios.
+Ningún Partido Político podrá contar con más de doce Diputados por ambos principios."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 24.
+
+El Poder Legislativo se deposita en una Asamblea que se denomina Congreso del Estado de Morelos, integrada por dieciocho personas Diputadas electas por el principio de mayoría relativa, mediante el sistema de Distritos Electorales Uninominales; por cuatro personas Diputadas que serán asignadas conforme al principio de primera minoría estatal; y por ocho personas Diputadas que serán electas según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción territorial, conformadas de acuerdo con el principio de paridad y encabezadas alternadamente entre mujeres y hombres. El territorio del Estado comprenderá una circunscripción plurinominal única.
+
+Las cuatro diputaciones de primera minoría se asignarán, conforme al principio de paridad de género, a las fórmulas de candidaturas que, no habiendo resultado electas por mayoría relativa, hayan obtenido, en lo individual, la mayor votación a nivel estatal, en los términos que determine la ley.
+
+Al Partido Político que obtenga en las respectivas elecciones el tres por ciento de la votación válida emitida para personas Diputadas, se le asignará una diputación por el principio de representación proporcional, independientemente de los triunfos de mayoría que hubiese obtenido.
+
+Realizada la distribución anterior, se procederá a asignar el resto de las diputaciones de representación proporcional conforme a la fórmula establecida en la normatividad aplicable.
+
+En ningún caso, un Partido Político podrá contar con un número de personas Diputadas que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al Partido Político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un Partido Político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+El Congreso del Estado se renovará cada tres años. Por cada persona Diputada Propietaria se elegirá una Suplente; las personas Diputadas Propietarias podrán ser electos hasta por cuatro períodos consecutivos.
+
+La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la Coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su encargo.
+
+Las personas Diputadas Locales Suplentes podrán ser electas para el período inmediato con el carácter de Propietaria, pudiendo reelegirse de conformidad con la normatividad.
+
+Ningún Partido Político podrá contar con más de dieciocho personas Diputadas, por cualquiera de los tres principios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2017)</small>
 
@@ -5831,3 +5851,19 @@ En consecuencia, la persona Titular de la Presidencia del Tribunal Superior de J
 DECIMA CUARTA. Para los efectos precisados en el presente decreto, las referencias al Órgano Político del Congreso del Estado, se entenderán a la Junta Política y de Gobierno, como órgano de la expresión de la pluralidad del Congreso del Estado, encargado de impulsar los entendimientos y convergencias políticas, a fin de alcanzar acuerdos para que el Pleno adopte las decisiones que constitucional y legalmente le correspondan.
 
 DÉCIMA QUINTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan a lo establecido en el presente Decreto.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES, POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE ESA ENTIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE JULIO DE DOS MIL VEINTICINCO, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 17 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; ASÍ COMO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL”.]
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local y hecha la declaratoria emitida por la LVI Legislatura del Estado, con fecha quince de julio de la presente anualidad, remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos, conforme a lo dispuesto por el artículo 147, fracción I, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las reformas contenidas y aprobadas por virtud del ARTÍCULO PRIMERO del presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Una vez efectuada lo señalado por la Disposición Transitoria anterior; las reformas contenidas y aprobadas por virtud del ARTÍCULO SEGUNDO del presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+CUARTA. El aumento en el número de personas Diputadas electas bajo el principio de mayoría relativa y la asignación de cuatro Diputaciones conforme al principio de primera minoría estatal, no implicará por sí mismo un incremento en el presupuesto del Congreso del Estado de Morelos.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
