@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2024-09-04"
+last_updated: "2025-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "MOR"
 
 [NOTA 2: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO Y PARIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL OCHO DE JUNIO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/].
 
+[NOTA 3: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES, POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE ESA ENTIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE JULIO DE DOS MIL VEINTICINCO, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/].
+
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -397,15 +399,9 @@ Para la designación de una Gobernadora o Gobernador interino, provisional o sus
 
 ### CAPÍTULO II. DE LA ELECCIÓN DEL PODER LEGISLATIVO
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
-
-###### Artículo 13.
-
-El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por veinte diputados, doce diputados electos en igual número de distritos electorales, según el principio de mayoría relativa, y ocho diputados electos según el principio de representación proporcional.
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 13. El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por veinte diputados, doce diputados electos en igual número de distritos electorales, según el principio de mayoría relativa, y ocho diputados electos según el principio de representación proporcional.
 
 En la integración del Congreso, ningún partido político podrá contar con más de doce diputados por ambos principios.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 Los partidos políticos y las coaliciones deberán incluir en sus candidaturas para las diputaciones locales por mayoría relativa en los distritos que corresponda a personas reconocidas como indígenas, de acuerdo a lo establecido en este código.
 
@@ -413,37 +409,57 @@ La elección consecutiva de los diputados propietarios a la Legislatura podrá s
 
 La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del término para el que fue electo.
 
-Los diputados que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, cumplir con los requisitos que establece el artículo 25 de la Constitución Local.
+Los diputados que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, cumplir con los requisitos que establece el artículo 25 de la Constitución Local."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 13.
+
+El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado de Morelos, integrada por treinta personas Diputadas, dieciocho personas Diputadas electas en igual número de distritos electorales, según el principio de mayoría relativa; cuatro personas Diputadas que serán asignadas conforme al principio de primera minoría estatal, y ocho personas diputadas electas según el principio de representación proporcional.
+
+En la integración del Congreso, ningún partido político podrá contar con más de dieciocho personas diputadas, por cualquiera de los tres principios.
+
+Los partidos políticos y las coaliciones deberán incluir en sus candidaturas para las diputaciones locales por mayoría relativa en los distritos que corresponda a personas reconocidas como indígenas, de acuerdo a lo establecido en este código.
+
+La elección consecutiva de las personas diputadas propietarias a la Legislatura podrá ser hasta por cuatro periodos consecutivos.
+
+La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición o candidatura común que los hubiere postulado salvo que hayan renunciado o perdido su militancia hasta antes de la mitad del término para el que fue electo.
+
+Las personas Diputadas que pretendan reelegirse deberán estar en pleno ejercicio de sus derechos políticos, cumplir con los requisitos que establece el artículo 25 de la Constitución Local.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 14. El estado de Morelos se divide en doce distritos electorales uninominales, determinados por el Instituto Nacional, de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
 ###### Artículo 14.
 
-El estado de Morelos se divide en doce distritos electorales uninominales, determinados por el Instituto Nacional, de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales.
+El estado de Morelos se divide en dieciocho distritos electorales uninominales, determinados por el Instituto Nacional, de acuerdo a su facultad contenida en el artículo 214, numeral 1, de la Ley General de Instituciones y Procedimientos Electorales.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 15. Para la elección de Diputados, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos ocho diputados según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatos propietarios y sus respectivos suplentes por cada partido político contendiente."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 14 Bis.
+
+Las diputaciones por el principio de primera minoría estatal serán asignadas a las cuatro fórmulas de candidaturas que, no habiendo resultado electas por el principio de mayoría relativa, hayan ocupado el segundo lugar en sus respectivos distritos uninominales y hayan obtenido, en lo individual, el mayor número de votos válidos en todo el Estado.
+
+Para tal efecto, el Instituto Morelense de Procesos Electorales y Participación Ciudadana identificará, en cada distrito electoral uninominal, la fórmula que haya obtenido el segundo lugar. Posteriormente, se ordenarán dichas fórmulas en función de la votación válida total obtenida por cada una de ellas, de mayor a menor. Las cuatro fórmulas que encabecen esta lista serán las que obtendrán las diputaciones por el principio de primera minoría.
+
+En la asignación de las diputaciones de primera minoría deberá observarse estrictamente el principio de paridad de género. Si entre las cuatro fórmulas con mayor votación individual identificadas conforme al artículo anterior, más de dos corresponden a un mismo género, se sustituirá la de menor votación por la siguiente fórmula del género subrepresentado que haya quedado en segundo lugar en su distrito y que registre la votación más alta, hasta alcanzar una integración paritaria de dos mujeres y dos hombres.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 15. Para la elección de Diputados, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electos ocho diputados según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatos propietarios y sus respectivos suplentes por cada partido político contendiente."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
 ###### Artículo 15.
 
-Para la elección de las Diputaciones, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electas ocho diputaciones según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho candidatas y candidatos propietarios y sus respectivos suplentes del mismo género, en listado de prelación alternando fórmulas de género distinto de manera sucesiva, por cada partido político contendiente.
+Para la elección de personas Diputadas, además de los distritos electorales uninominales, existirá una circunscripción plurinominal, constituida por toda la Entidad, en la que serán electas ocho personas Diputadas según el principio de representación proporcional, a través del sistema de lista estatal, integrada por hasta ocho personas candidatas propietarias y sus respectivas suplentes por cada partido político contendiente.
 
-Las listas de representación proporcional que presenten los partidos políticos se integrarán por fórmulas de candidaturas compuestas cada una por un propietario y un suplente del mismo género. En cada lista se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada una de las listas. Posteriormente se intercalará la lista “A” y la “B”, para crear la lista definitiva en términos del presente Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
-
-###### Artículo 16.
-
-Para la asignación de diputaciones de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 16. Para la asignación de diputaciones de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
 
 I. Tendrán derecho a participar partidos políticos que habiendo registrado candidatas o candidatos de mayoría relativa en cuando menos ocho distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva.
 
 Ningún partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de doce diputados por ambos principios.
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 8 DE JUNIO DE 2020)</small>
 
 II. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
 
@@ -453,11 +469,7 @@ b) En una segunda asignación, se distribuirán tantas diputaciones como veces c
 
 c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2023)</small>
-
 III. La asignación de diputaciones se realizará mediante la aplicación de una fórmula en la que se considerará el cociente natural y el resto mayor, en forma independiente a los triunfos en distritos de mayoría que se obtengan y en atención al orden que tuviesen las candidatas o candidatos en las listas respectivas de cada partido político.
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2023)</small>
 
 IV. Para los efectos del presente Código, se entenderá por:
 
@@ -465,69 +477,69 @@ a) Cociente Natural: Como el resultado de dividir la votación válida emitida, 
 
 b) Resto Mayor: Como el remanente más alto, entre el resto de las votaciones de cada partido político, una vez hecha la distribución de diputaciones, mediante la aplicación del cociente natural. El resto mayor se utilizará, siguiendo el orden decreciente, cuando aún hubiese diputaciones por distribuir;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
 V. Lista "A": Relación de cuatro fórmulas de candidaturas a las diputaciones: propietario y suplente del mismo género, listados en orden de prelación alternando fórmulas de género distinto de manera sucesiva, a elegir por el principio de representación proporcional, de las cuales una deberá estar integrada por una fórmula de candidatura indígena;
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 a) Se asignará una diputación a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación válida emitida;
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
-
 b) En una segunda asignación, se distribuirán tantas diputaciones como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello;
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político;
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
-
 d) Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el tres por ciento de la votación válida emitida, se verificará si en el conjunto la integración total de la legislatura se encuentra distribuida paritariamente, es decir, cincuenta por ciento mujeres y cincuenta por ciento hombres, de no ser así, se deducirán tantas diputaciones electas por el principio de representación proporcional como sean necesarias para dar cabida a alcanzar la paridad de género, y se sustituirán por las fórmulas correspondientes. Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida, hasta alcanzar la paridad de género en el Congreso del Estado de Morelos, y
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
 e) Para el caso de la asignación de una diputación de grupos vulnerables, se realizará el mismo ejercicio de verificar si en el conjunto del total de las diputaciones de representación proporcional, se encuentra incluida una fórmula de diputación asignada a personas pertenecientes a la categoría de grupos vulnerables, de no ser así, se hará el ajuste en la última curul de representación proporcional asignada al partido.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
 VI. Lista "B": Relación de cuatro fórmulas de candidaturas a las diputaciones que no resultaron electos por el principio de mayoría relativa del distrito en que participaron, pero que alcanzaron a nivel distrital los mayores porcentajes de la votación local emitida, comparados respecto de otras fórmulas de su propio partido en esa misma elección; con la finalidad de garantizar la paridad de género, una vez que se determinó el primer lugar de ésta lista, el segundo lugar será ocupado por la fórmula del otro género con mayor porcentaje de la votación local emitida, e irán intercalando de esta manera hasta concluir la integración de la lista.
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 VII. Lista Definitiva, es el resultado de intercalar las fórmulas de candidaturas de las Listas "A" y "B". La definición del orden de la lista definitiva integrada por candidaturas de la lista “A” o “B”, corresponde exclusivamente a las dirigencias de los partidos. Dicha lista se integrará una vez obtenida la votación válida emitida o la votación ajustada según sea el caso;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
 VIII. Resto mayor: Es el remanente más alto entre los restos de las votaciones de cada partido, una vez hecha la distribución de espacios mediante cociente natural, el cual se utilizará cuando aún existan diputaciones por distribuir;
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 IX. Votación ajustada: es la que resulte de deducir de la votación válida emitida los votos a favor de los partidos políticos a los que se les dedujo Diputadas o Diputados de representación proporcional por rebasar el límite de sobrerrepresentación y por superar el techo de dieciséis Diputados por ambos principios;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
 X. Votación total emitida: es la suma de todos los votos depositados en las urnas en la elección de Diputaciones en todas las urnas del Estado de Morelos;
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 XI. Votación válida emitida: es la que resulte de deducir de la votación total emitida, los votos a favor de candidatos no registrados y los votos nulos. Servirá para determinar si los partidos políticos cumplen con el umbral de votación establecido en la Constitución;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
 XII. Votación estatal emitida: es la que resulte de deducir de la votación válida emitida, la votación a favor de los candidatos sin partido y los votos a favor de los partidos políticos que no alcanzaron el umbral de la votación válida emitida;
-
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
 
 XIII. Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el cuatro por ciento de la votación válida emitida, se verificará si en conjunto con el total de Diputadas y Diputados electos se cumple con el principio de paridad en la integración del Congreso, y
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2020)</small>
-
 XIV. En caso de existir una integración de las diputaciones electas por ambos principios no paritaria, se deducirán tantas diputaciones electas por el principio de representación proporcional como sean necesarias del género sobrerrepresentado, y se sustituirán por las fórmulas del género subrepresentado, hasta agotar la lista.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida y así sucesivamente en orden ascendente hasta cubrir la paridad."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida y así sucesivamente en orden ascendente hasta cubrir la paridad.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 16.
+
+Para la asignación de diputaciones de representación proporcional se procederá conforme a los siguientes criterios y fórmula de asignación:
+
+I. Tendrán derecho a participar partidos políticos que habiendo registrado candidatas o candidatos de mayoría relativa en cuando menos doce distritos uninominales, hayan alcanzado por lo menos el tres por ciento de la votación estatal efectiva.
+
+Ningún partido político podrá contar con un número de diputaciones por los tres principios que representen un porcentaje del total de la Legislatura, que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento, en todo caso, deberá observarse que ningún partido político sobrepase de dieciocho diputados por los tres principios;
+
+II. Para tal efecto se entenderá como votación estatal emitida; los votos depositados en las urnas, y votación estatal efectiva; la que resulte de deducir de la votación estatal emitida, los votos nulos, los de candidatos no registrados;
+
+III. La asignación de diputaciones se realizará mediante la aplicación de una fórmula en la que se considerará el cociente natural y el resto mayor, en forma independiente a los triunfos en distritos de mayoría que se obtengan y en atención al orden que tuviesen las candidatas o candidatos en las listas respectivas de cada partido político;
+
+IV. Para los efectos del presente Código, se entenderá por:
+
+a) Cociente Natural: Como el resultado de dividir la votación válida emitida, entre las ocho diputaciones de representación proporcional, y
+
+b) Resto Mayor: Como el remanente más alto, entre el resto de las votaciones de cada partido político, una vez hecha la distribución de diputaciones, mediante la aplicación del cociente natural. El resto mayor se utilizará, siguiendo el orden decreciente, cuando aún hubiese diputaciones por distribuir;
+
+V. La aplicación de la fórmula se desarrollará observando el siguiente procedimiento:
+
+a) Se asignará una diputación a cada uno de los partidos políticos que hayan alcanzado por lo menos el tres por ciento de la votación válida emitida;
+
+b) En una segunda asignación, se distribuirán tantas diputaciones como veces contenga el cociente natural la votación obtenida por cada uno de los partidos políticos con derecho a ello;
+
+c) Si aún quedaren diputaciones por asignar, estas se repartirán en orden decreciente, atendiendo al resto mayor de cada partido político;
+
+d) Concluida la asignación total del número de diputaciones por el principio de representación proporcional a cada uno de los partidos políticos que superaron el tres por ciento de la votación válida emitida, se verificará si en el conjunto la integración total de la legislatura se encuentra distribuida paritariamente, es decir, cincuenta por ciento mujeres y cincuenta por ciento hombres, de no ser así, se deducirán tantas diputaciones electas por el principio de representación proporcional como sean necesarias para dar cabida a alcanzar la paridad de género, y se sustituirán por las fórmulas correspondientes. Para este fin, se alternará a los partidos políticos que hayan recibido diputaciones por el principio de representación proporcional, empezando por el partido que recibió el menor porcentaje de votación estatal emitida, y de ser necesario, continuando con el partido que haya recibido el segundo menor porcentaje de la votación estatal emitida, hasta alcanzar la paridad de género en el Congreso del Estado de Morelos, y
+
+e) Para el caso de la asignación de una diputación de grupos vulnerables, se realizará el mismo ejercicio de verificar si en el conjunto del total de las diputaciones de representación proporcional, se encuentra incluida una fórmula de diputación asignada a personas pertenecientes a la categoría de grupos vulnerables, de no ser así, se hará el ajuste en la última curul de representación proporcional asignada al partido.
 
 ### CAPÍTULO III. DE LA ELECCIÓN DE LOS AYUNTAMIENTOS
 
@@ -1625,11 +1637,19 @@ XXXIV. Proveer lo necesario a fin de que los funcionarios de casilla, así como 
 
 XXXV. Implementar y operar el programa de resultados preliminares de las elecciones locales de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional, así como los conteos rápidos que se aprueben;
 
-XXXVI. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN XXXVI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXXVI. Recibir de los Consejos Distritales Electorales el cómputo de la elección de Gobernador y Diputados de mayoría relativa para realizar el cómputo total, declarar la validez de la elección, determinar la distribución y asignación de diputados plurinominales y otorgar las constancias respectivas;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+XXXVI. RECIBIR DE LOS CONSEJOS DISTRITALES ELECTORALES EL CÓMPUTO DE LA ELECCIÓN DE GOBERNADOR Y PERSONAS DIPUTADAS DE MAYORÍA RELATIVA PARA REALIZAR EL CÓMPUTO TOTAL, DECLARAR LA VALIDEZ DE LA ELECCIÓN, DETERMINAR LA DISTRIBUCIÓN Y ASIGNACIÓN DE PERSONAS DIPUTADAS DE PRIMERA MINORÍA Y PLURINOMINALES, ASÍ COMO OTORGAR LAS CONSTANCIAS RESPECTIVAS;
 
 XXXVII. Recibir de los Consejos Municipales Electorales el cómputo de la elección de miembros de los ayuntamientos, distribuir y asignar regidurías, otorgando las constancias respectivas;
 
-XXXVIII. Realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los diputados plurinominales y la asignación de regidores, otorgando en todos los casos las constancias respectivas;
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN XXXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XXXVIII. Realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los diputados plurinominales y la asignación de regidores, otorgando en todos los casos las constancias respectivas;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+XXXVIII. REALIZAR LOS CÓMPUTOS TOTALES, DECLARAR LA VALIDEZ DE LAS ELECCIONES Y DETERMINAR LA DISTRIBUCIÓN DE LAS PERSONAS DIPUTADAS DE PRIMERA MINORÍA Y PLURINOMINALES, Y LA ASIGNACIÓN DE REGIDORES, OTORGANDO EN TODOS LOS CASOS LAS CONSTANCIAS RESPECTIVAS;
 
 XXXIX. Organizar, desarrollar, realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana, en los términos que determine el Consejo Estatal, las normas de la materia y el presente Código;
 
@@ -2971,7 +2991,11 @@ IX. Supervisar las actividades del personal administrativo eventual, para el cum
 
 X. Resolver sobre las peticiones y consultas que sometan a su consideración los candidatos, los partidos políticos y coaliciones, en el ámbito de su competencia;
 
-XI. Realizar el cómputo de la elección de Diputados por el principio de mayoría relativa y entregar las constancias de mayoría relativa a los candidatos triunfadores;
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “XI. Realizar el cómputo de la elección de Diputados por el principio de mayoría relativa y entregar las constancias de mayoría relativa a los candidatos triunfadores;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+XI. REALIZAR EL CÓMPUTO DE LA ELECCIÓN DE LAS DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA Y ENTREGAR LAS CONSTANCIAS DE MAYORÍA RELATIVA A LOS CANDIDATOS TRIUNFADORES; Y REMITIR LOS RESULTADOS CON LOS EXPEDIENTES RESPECTIVOS AL CONSEJO ESTATAL, PARA LA ASIGNACIÓN DE LAS PERSONAS DIPUTADAS POR EL PRINCIPIO DE PRIMERA MINORÍA Y REPRESENTACIÓN PROPORCIONAL, Y ENTREGA DE CONSTANCIAS DE ASIGNACIÓN.
 
 XII. Realizar el cómputo de la elección de Gobernador en el Distrito y remitir los resultados con los expedientes respectivos al Consejo Estatal;
 
@@ -4311,7 +4335,7 @@ En ningún caso se admitirán criterios que tengan como resultado que a alguno d
 
 El registro para efecto de la postulación de fórmulas de candidaturas indígenas, deberá realizarse en los distritos indígenas que en términos de la distritación electoral uninominal local y sus respectivas cabeceras distritales del estado de Morelos, se hayan determinado por el Consejo General del Instituto Nacional Electoral.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
 ###### Artículo 179 Bis.
 
@@ -4319,21 +4343,11 @@ Para evitar que a algún género le sean asignados los Distritos o Municipios en
 
 El Instituto Morelense de Procesos Electorales y Participación Ciudadana, deberá enlistar los distritos y municipios en los que cada partido político local postuló candidaturas a Diputadas o Diputados o a miembros de los Ayuntamientos, en su caso, dicho documento deberá ser proporcionado a los partidos políticos en el mes de enero del año en el que sea declarado el inicio del periodo electoral.
 
-En el caso de las candidaturas integrantes de los Ayuntamientos, se deberán generar tres bloques de los Municipios que hubieran postulado candidaturas, conforme a los porcentajes de votación con base en los resultados obtenidos en la elección inmediata anterior, de lo cual resultará un bloque de municipios con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación. Si al hacer la división de municipios en los tres bloques señalados, restara uno, este se agregará al bloque de votación más baja; si restaran dos, se agregará uno al de votación más baja y el segundo al de votación más alta. En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas a Presidencias Municipales, sean ocupadas por mujeres y la otra por hombres.
-
 Para la postulación de candidaturas a Diputaciones se deberán generar tres bloques en los Distritos que hubieran postulado candidatas o candidatos conforme a los porcentajes de votación y con base en los resultados obtenidos en la elección inmediata anterior por cada partido político, de lo cual resultará un bloque de distritos con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación. Si al hacer la división de distritos en los tres bloques señalados, restara uno, este se agregará al bloque de votación más baja, si restaran dos, se agregará el primero al de votación más baja y el segundo al de votación más alta. En los referidos bloques, el Instituto Morelense de Procesos Electorales y Participación Ciudadana verificará que la mitad de las candidaturas que integran cada bloque sean ocupadas por mujeres y la otra por hombres.
 
 Para acceder a la postulación bajo el criterio de candidatura indígena se debe acreditar que dicha condición deviene de una autoadscripción calificada, misma que tendrá que ser comprobada con la documentación idónea para ello, la cual acredite la pertenencia o vinculación requerida con la comunidad que se trate, debiendo ser expedidas por las asambleas comunitarias, las autoridades administrativas o las autoridades tradicionales reconocidas en cada comunidad.
 
-Obtenida la autoadscripción calificada, esta no podrá ser retirada por la autoridad otorgante una vez concluido el periodo de registros de las candidaturas, reconociéndose a la persona que obtuvo la calidad indígena como tal durante todo el proceso electoral.
-
-La sustitución de alguna de las personas postuladas bajo el criterio indígena, solo será procedente cuando la persona que sustituya posea la misma calidad.
-
-En las postulaciones de personas pertenecientes a grupos vulnerables en ayuntamientos o diputaciones locales, se observará lo siguiente:
-
-En la integración de las fórmulas el titular y suplente deberán pertenecer al mismo grupo vulnerable procurando la interseccionalidad.
-
-En los registros de candidaturas de las personas LGBTI deberán acompañarse de al menos uno de los siguientes documentos:
+Obtenida la autoadscripción calificada, esta no podrá ser retirada por la autoridad otorgante una vez concluido el periodo de registros de las candidaturas, reconociéndose a la persona que obtuvo la calidad indígena como tal durante todo el proceso electoral. La sustitución de alguna de las personas postuladas bajo el criterio indígena, solo será procedente cuando la persona que sustituya posea la misma calidad. En las postulaciones de personas pertenecientes a grupos vulnerables en ayuntamientos o diputaciones locales, se observará lo siguiente: En la integración de las fórmulas el titular y suplente deberán pertenecer al mismo grupo vulnerable procurando la interseccionalidad. En los registros de candidaturas de las personas LGBTI deberán acompañarse de al menos uno de los siguientes documentos:
 
 I) Carta bajo protesta de decir verdad, en la que se precise que la persona se autoadscribe a la comunidad, misma que deberá ser ratificada personalmente ante la Secretaría Ejecutiva del IMPEPAC o una notaría pública.
 
@@ -4367,111 +4381,161 @@ En el caso de sustitución de candidaturas de personas de grupos vulnerables, so
 
 Se reserva como facultad exclusiva del Congreso Local la emisión de las Leyes, Reglamentos o normas que regulen el proceso de postulación de candidaturas, por lo que las disposiciones que al efecto emita la Legislatura del Estado no podrán ser reguladas, modificadas o contrariadas por otras de carácter secundario como acuerdos, lineamientos o reglamentos que por jerarquía se encuentren subordinados a la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 179 Ter.
+
+Para garantizar el principio de paridad de género en la elección de ayuntamientos, en la modalidad de acceso al cargo de las presidencias municipales en el Estado de Morelos, se conformarán tres bloques con respecto a los 33 municipios que se rigen por el sistema de partidos y candidaturas independientes. En dichos bloques se deberá observar el cumplimiento del principio de paridad, conforme a lo siguiente:
+
+I. El primer bloque se denominará “Bloque de Postulación Exclusiva de Mujeres”, y estará integrado por 11 municipios, en los cuales los Partidos Políticos postularán exclusivamente candidaturas pertenecientes a mujeres.
+
+II. El segundo bloque se denominará “Bloque de Alta-Media Población”. Una vez establecido el primer bloque de postulación exclusiva, de los municipios restantes, se agrupará un bloque de 11 municipios de mayor población en orden decreciente hasta llegar a la media población. En este bloque los partidos políticos postularán de forma paritaria conforme a lo dispuesto por este artículo.
+
+III. El tercer bloque se denominará “Bloque de Media-Baja Población” y comprenderá los 11 municipios restantes, agrupados en orden decreciente, partiendo de los municipios de media población hasta llegar a los de baja población. En este bloque, los partidos políticos postularán de manera paritaria, conforme a las bases establecidas en este apartado.
+
+Los bloques segundo y tercero se ordenarán de acuerdo con el censo de población elaborado por el Instituto Nacional de Estadística y Geografía. Además, se verificará que, en dichos bloques, la mitad de las candidaturas sean ocupadas paritariamente por mujeres y hombres. Con base en el principio de autoorganización, los partidos tendrán plena libertad para decidir el género que postularán en los municipios que integran estos bloques, verificando el cumplimiento de paridad.
+
+En la postulación que realicen los partidos políticos dentro de estos bloques, cuando el número de municipios sea impar, no podrán postular candidaturas de un mismo género en más de la mitad más uno de la totalidad de las candidaturas a postular. Los partidos podrán determinar el género que ocupará esa posición impar.
+
+Siempre que así lo determinen ellos mismos, los partidos políticos podrán postular, dentro de los bloques segundo y tercero, más del cincuenta por ciento de candidaturas a favor de mujeres, cuando dicha decisión tenga por objeto promover de manera efectiva la participación política de las mujeres y garantizar un mayor acceso a espacios de representación.
+
+Estas reglas serán verificables para las candidaturas independientes, cuya postulación, al momento de registrar la candidatura, quedará sujeta a la determinación del género asignado al municipio, según el bloque al que pertenezca.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 179 Quáter.
+
+Con el fin de asegurar que todos los municipios del Estado de Morelos sean gobernados de manera paritaria por ambos géneros, el bloque de postulación reservado exclusivamente para mujeres se alternará en cada periodo electoral.
+
+Se garantizará que, en elecciones consecutivas, este bloque no esté integrado por los mismos municipios que lo conformaron en el periodo inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 179 Quinquies.
+
+En términos de lo precisado en el artículo anterior, el bloque de postulación exclusiva de mujeres será alternado por cada periodo electivo hasta configurar un ciclo que se renovará de forma continua, según se detalla a continuación:
+
+I.- Primer periodo electivo a partir de la aplicación del bloque exclusivo de mujeres:
+
+Municipios del bloque de postulación exclusiva de mujeres
+
+1 Axochiapan
+
+2 Ayala
+
+3 Cuautla
+
+4 Jantetelco
+
+5 Jojutla
+
+6 Ocuituco
+
+7 Tetecala
+
+8 Tlalnepantla
+
+9 Tlaquiltenango
+
+10 Yautepec
+
+11 Zacualpan de Amilpas
+
+II.- Segundo periodo electivo a partir de la aplicación del bloque exclusivo de mujeres:
+
+Municipios del bloque de postulación exclusiva de mujeres.
+
+1 Amacuzac
+
+2 Cuernavaca
+
+3 Emiliano Zapata
+
+4 Huitzilac
+
+5 Jiutepec
+
+6 Jonacatepec de Leandro de Valle
+
+7 Mazatepec
+
+8 Miacatlán
+
+9 Puente de Ixtla
+
+10 Temoac
+
+11 Tepoztlán
+
+III.-Tercer periodo electivo a partir de la aplicación del bloque exclusivo para mujeres:
+
+Municipios del bloque de postulación exclusiva de mujeres.
+
+1 Atlatlahucan
+
+2 Coatlán del Río
+
+3 Temixco
+
+4 Tepalcingo
+
+5 Tetela del Volcán
+
+6 Tlaltizapán de Zapata
+
+7 Tlayacapan
+
+8 Totolapan
+
+9 Xochitepec
+
+10 Yecapixtla
+
+11 Zacatepec
+
+Una vez concluido este ciclo, se renovará de manera continua para cubrir los procesos electorales subsecuentes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 179 Sexies.
+
+El cumplimiento del principio de paridad para garantizar el acceso al cargo con respecto a los 3 municipios indígenas del Estado de Morelos, los cuales se rigen bajo sus sistemas normativos conforme al párrafo quinto del artículo 17 de este Código, deberá cumplirse reservando un municipio por cada periodo electivo para postulación exclusiva de mujer, el cual será alternado hasta configurar un ciclo que se renovará de forma continua, como continuación se detalla:
+
+I.- Municipio indígena reservado para postulación exclusiva de mujer en el primer periodo electivo:
+
+1 Coatetelco
+
+II.- Municipio indígena reservado para postulación exclusiva de mujer en el segundo periodo electivo:
+
+1 Hueyapan
+
+III.- Municipio indígena reservado para postulación exclusiva de mujer en el tercer periodo electivo:
+
+1 Xoxocotla
+
+Una vez concluido este ciclo, se renovará de manera continua para cubrir los procesos electorales subsecuentes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 179 Septies.
+
+Se reserva como facultad exclusiva del Congreso del Estado la emisión de las bases normativas que diseñan el modelo de cumplimiento en la ley para garantizar el principio de paridad en el acceso al cargo de la titularidad de las presidencias municipales en ayuntamientos en el Estado de Morelos.
+
+Las disposiciones emitidas por el Congreso en este sentido tendrán carácter prioritario y no podrán ser modificadas, contravenidas ni reguladas por normas de jerarquía inferior, como reglamentos, acuerdos o lineamientos.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+###### Artículo 179 Octies.
+
+Con el propósito de garantizar el acceso al cargo en condiciones de igualdad entre mujeres y hombres, el registro paritario de las candidaturas a presidencias municipales se ajustará al número de postulaciones establecido en las reglas previstas en este Código.
+
+En consecuencia, no se podrá exigir a los partidos políticos un registro de candidaturas distinto al contemplado en los artículos 179 ter y 179 quinquies del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
 ###### Artículo 180.
 
-Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría. Los partidos políticos no podrán postular candidaturas de un mismo género en más de la mitad de sus candidaturas a presidencias municipales si el número de sus candidaturas es par o en más de la mitad más una en caso de candidaturas impares.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
-
-Las candidaturas para miembros de ayuntamientos, se registrarán ante el consejo municipal electoral que corresponda, por planillas integradas por candidaturas a Presidencia Municipal y una Sindicatura propietarias y suplentes, que se elegirán por el principio de mayoría relativa y, en su caso, una lista de regidurías, propietarias y suplentes en número igual al previsto para ese municipio en la legislación, que se elegirán por el principio de representación proporcional.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
-
-Las candidaturas a la presidencia municipal, sindicatura o regidurías indígenas o pertenecientes a un grupo vulnerable que fueron electos con ese reconocimiento tendrán el mismo carácter en caso de contender en una nueva postulación, con excepción de las personas jóvenes que dejen de serlo en razón de su edad.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
-
-De igual forma los partidos políticos deberán observar para el registro de sus planillas de candidatas y candidatos para los 33 municipios que integran el Estado de Morelos un enfoque horizontal, que consiste en que del total de los 33 ayuntamientos se exija el registro de dieciséis candidaturas a la presidencia municipal de un mismo género, de tal manera que los diecisiete restantes correspondan al género distinto. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellas candidaturas a presidencias municipales en las que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
-
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En los demás casos, los partidos políticos deberán registrar sus planillas, de conformidad con los siguientes criterios:”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JUNIO DE 2020)</small>
-
-EN LOS DEMÁS CASOS, LOS PARTIDOS POLÍTICOS DEBERÁN REGISTRAR SUS PLANILLAS, DE CONFORMIDAD CON LOS SIGUIENTES CRITERIOS:
-
-Municipios en que los Mujer Hombre
-
-partidos políticos registren
-
-planillas de candidatos:
-
-33 17 16
-
-31 16 15
-
-29 15 14
-
-27 14 13
-
-25 13 12
-
-23 12 11
-
-21 11 10
-
-19 10 9
-
-17 9 8
-
-15 8 7
-
-13 7 6
-
-11 6 5
-
-9 5 4
-
-7 4 3
-
-5 3 2
-
-3 2 1
-
-1 1
-
-O bien,
-
-Municipios en que los Mujer Hombre
-
-partidos políticos registren
-
-planillas de candidatos:
-
-33 16 17
-
-31 15 16
-
-29 14 15
-
-27 13 14
-
-25 12 13
-
-23 11 12
-
-21 10 11
-
-19 9 10
-
-17 8 9
-
-15 7 8
-
-13 6 7
-
-11 5 6
-
-9 4 5
-
-7 3 4
-
-5 2 3
-
-3 1 2
-
-1 1
+Los partidos políticos y candidatos independientes deberán postular una planilla con candidaturas a la presidencia municipal, sindicatura, y regidurías. La planilla deberá alternar los géneros desde la presidencia municipal hasta la última regiduría.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -5293,7 +5357,11 @@ V. Cuando no exista acta de escrutinio y cómputo en el paquete electoral, pero 
 
 VI. Se levantará por duplicado el acta de cómputo distrital o municipal, por cada elección que se compute, haciendo constar en ella las operaciones practicadas, y el resultado de la elección, y
 
-VII. En el ámbito de su respectiva competencia, los consejos extenderán constancias por conducto del presidente, a los candidatos a Diputados de mayoría relativa o a los candidatos a Presidente Municipal y Sindico de los Ayuntamientos, propietarios y suplentes que hayan resultado triunfadores, remitiendo cómputos y expedientes al Consejo Estatal, para los efectos de asignación de regidores y Diputados por el principio de representación proporcional y entrega de constancias y en su caso de Gobernador en el distrito, remitiendo resultados y paquetes al Consejo Estatal de no existir recuentos totales por desahogar.
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “VII. En el ámbito de su respectiva competencia, los consejos extenderán constancias por conducto del presidente, a los candidatos a Diputados de mayoría relativa o a los candidatos a Presidente Municipal y Sindico de los Ayuntamientos, propietarios y suplentes que hayan resultado triunfadores, remitiendo cómputos y expedientes al Consejo Estatal, para los efectos de asignación de regidores y Diputados por el principio de representación proporcional y entrega de constancias y en su caso de Gobernador en el distrito, remitiendo resultados y paquetes al Consejo Estatal de no existir recuentos totales por desahogar."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
+
+VII. EN EL ÁMBITO DE SU RESPECTIVA COMPETENCIA, LOS CONSEJOS EXTENDERÁN CONSTANCIAS POR CONDUCTO DEL PRESIDENTE, A LOS CANDIDATOS A PERSONAS DIPUTADAS DE MAYORÍA RELATIVA O A LOS CANDIDATOS A PRESIDENTE MUNICIPAL Y SINDICO DE LOS AYUNTAMIENTOS, PROPIETARIOS Y SUPLENTES QUE HAYAN RESULTADO TRIUNFADORES, REMITIENDO CÓMPUTOS Y EXPEDIENTES AL CONSEJO ESTATAL, PARA LOS EFECTOS DE ASIGNACIÓN DE REGIDORES Y PERSONAS DIPUTADAS POR EL PRINCIPIO DE PRIMERA MINORÍA Y DE REPRESENTACIÓN PROPORCIONAL Y ENTREGA DE CONSTANCIAS Y EN SU CASO DE GOBERNADOR EN EL DISTRITO, REMITIENDO RESULTADOS Y PAQUETES AL CONSEJO ESTATAL DE NO EXISTIR RECUENTOS TOTALES POR DESAHOGAR.
 
 ###### Artículo 246.
 
@@ -5391,19 +5459,21 @@ El recuento jurisdiccional deberá desahogarse a partir del acuerdo respectivo.
 
 Concluido el cómputo, los consejeros presidentes de los consejos distritales o municipales, deberán fijar en el exterior del local los resultados de la elección correspondiente.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 254. Por cuanto hace a la elección de Gobernador, se declarará la validez de la elección y se entregará constancia de mayoría al candidato triunfador.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 254. Por cuanto hace a la elección de Gobernador, se declarará la validez de la elección y se entregará constancia de mayoría al candidato triunfador.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2020)</small>
+En relación a la elección de Diputados por el principio de representación proporcional y de regidores a los ayuntamientos, concluido el proceso de cómputo, el Consejo Estatal hará la asignación de los Diputados plurinominales y regidores, declarará en su caso, la validez de las elecciones y entregará constancia a los candidatos electos.
+
+Los cómputos y la asignación, se efectuará el séptimo día de la jornada electoral."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2025)</small>
 
 ###### Artículo 254.
 
-POR CUANTO HACE A LA ELECCIÓN DE GOBERNADORA O GOBERNADOR, SE DECLARARÁ LA VALIDEZ DE LA ELECCIÓN Y SE ENTREGARÁ CONSTANCIA DE MAYORÍA AL CANDIDATO TRIUNFADOR.
+Por cuanto hace a la elección de Gobernador, se declarará la validez de la elección y se entregará constancia de mayoría al candidato triunfador.
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En relación a la elección de Diputados por el principio de representación proporcional y de regidores a los ayuntamientos, concluido el proceso de cómputo, el Consejo Estatal hará la asignación de los Diputados plurinominales y regidores, declarará en su caso, la validez de las elecciones y entregará constancia a los candidatos electos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
-
-EN RELACIÓN A LA ELECCIÓN DE DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE REGIDORES A LOS AYUNTAMIENTOS, CONCLUIDO EL PROCESO DE CÓMPUTO, EL CONSEJO ESTATAL HARÁ LA ASIGNACIÓN DE LAS Y LOS DIPUTADOS PLURINOMINALES Y REGIDORES, DECLARARÁ EN SU CASO, LA VALIDEZ DE LAS ELECCIONES Y ENTREGARÁ CONSTANCIA A LOS CANDIDATOS ELECTOS.
+En relación a la elección de las personas Diputadas por el principio de representación proporcional y de las personas titulares de las regidurías a los ayuntamientos, concluido el proceso de cómputo, el Consejo Estatal hará la asignación de las Personas Diputadas de primera minoría y plurinominales y personas titulares de las regidurías, declarará en su caso, la validez de las elecciones y entregará constancia a las personas candidatas electas.
 
 Los cómputos y la asignación, se efectuará el séptimo día de la jornada electoral.
 
@@ -6391,11 +6461,11 @@ a) Los resultados consignados en las actas de cómputo distrital o municipal en 
 
 b) LA DECLARACIÓN DE VALIDEZ DE DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE MAYORÍA RELATIVA Y DE AYUNTAMIENTOS Y EL OTORGAMIENTO DE LAS CONSTANCIAS RESPECTIVAS;
 
-(NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO C) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES POR EL QUE SE REFORMA EL INCISO c) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
-c) LA ASIGNACIÓN DE DIPUTADAS Y DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y, POR CONSIGUIENTE, EL OTORGAMIENTO DE LAS CONSTANCIAS RESPECTIVAS, POR ERROR EN LA APLICACIÓN DE LA FÓRMULA CORRESPONDIENTE;
+c) LA ASIGNACIÓN DE PERSONAS DIPUTADAS POR EL PRINCIPIO DE PRIMERA MINORÍA Y DE REPRESENTACIÓN PROPORCIONAL, Y, POR CONSIGUIENTE, EL OTORGAMIENTO DE LAS CONSTANCIAS RESPECTIVAS, POR ERROR EN LA APLICACIÓN DE LA FÓRMULA CORRESPONDIENTE;
 
 (NOTA: EL 5 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2020 Y SUS ACUMULADAS 142/2020, 223/2020 Y 226/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA POR EL QUE SE REFORMA EL INCISO D) DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) La asignación de regidores y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -8156,3 +8226,75 @@ SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su
 TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 17 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS SESENTA Y TRES POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, CON LA FINALIDAD DE GARANTIZAR EL PRINCIPIO DE PARIDAD DE GÉNERO EN EL ACCESO AL CARGO DE AYUNTAMIENTOS EN EL ESTADO DE MORELOS”.]
+
+PRIMERO. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Dentro del proceso electoral local ordinario 2026-2027, y con el propósito de garantizar el principio de paridad de género en el acceso al cargo de las presidencias municipales del Estado de Morelos, con base en los datos del Censo de Población y Vivienda 2020, elaborado por el Instituto Nacional de Estadística y Geografía, los bloques se conformarán de la siguiente manera:
+
+BLOQUE 1 BLOQUE 2 BLOQUE 3
+
+POSTULACIÓN ALTA-MEDIA MEDIA-BAJA
+
+EXCLUSIVA POBLACIÓN POBLACIÓN
+
+DE MUJERES
+
+Axochiapan Cuernavaca Atlatlahucan
+
+Ayala Jiutepec Huitzilac
+
+Cuautla Temixco Tlayacapan
+
+Jantetelco Emiliano Zapata Amacuzac
+
+Jojutla Xochitepec Jonacatepec de
+
+Leandro Valle
+
+Ocuituco Yecapixtla Temoac
+
+Tetecala Tepoztlán Miacatlán
+
+Tlalnepantla Tlaltizapán de Tetela del Volcán
+
+Zapata
+
+Tlaquiltenango Puente de Ixtla Totolapan
+
+Yautepec Zacatepec Coatlán del Río
+
+Zacualpan de Tepalcingo Mazatepec
+
+Amilpas
+
+Con el entendido de que, en los procesos electorales subsecuentes, el Instituto Morelense de Procesos Electorales y Participación Ciudadana deberá emitir los bloques de municipios conforme a lo dispuesto en los artículos 179 ter y 179 quinquies del presente decreto.
+
+CUARTO. Para el proceso electoral que se llevará a cabo en el año 2027 en los municipios indígenas del Estado de Morelos, por única ocasión deberá garantizarse la postulación exclusiva de mujeres en los municipios de Coatetelco y Xoxocotla.
+
+QUINTO. El Instituto Morelense de Procesos Electorales y Participación Ciudadana deberá implementar las disposiciones establecidas en el presente decreto durante el Proceso Electoral Local Ordinario 2026-2027, con el propósito de garantizar el principio de paridad de género en el acceso a los cargos de los ayuntamientos en el estado de Morelos.
+
+A partir de la entrada en vigor del presente decreto, quedarán sin efectos todos aquellos reglamentos, acuerdos, lineamientos, acciones afirmativas o disposiciones jurídico-administrativas aprobadas por el Consejo Estatal Electoral que sean contrarias a lo aquí establecido. En un plazo no mayor a treinta días hábiles, el Instituto Morelense de Procesos Electorales y Participación Ciudadana deberá emitir las adecuaciones correspondientes para dar cumplimiento a lo dispuesto en el presente decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+(NOTA: EL 25 DE NOVIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2025, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES, POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS Y SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE ESA ENTIDAD, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE JULIO DE DOS MIL VEINTICINCO, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 17 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS TREINTA Y TRES.- POR EL QUE SE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; ASÍ COMO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES Y SE ADICIONA EL ARTÍCULO 14 BIS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, EN MATERIA DE REPRESENTACIÓN EFECTIVA, EQUITATIVA Y PROPORCIONAL”.]
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local y hecha la declaratoria emitida por la LVI Legislatura del Estado, con fecha quince de julio de la presente anualidad, remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos, conforme a lo dispuesto por el artículo 147, fracción I, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las reformas contenidas y aprobadas por virtud del ARTÍCULO PRIMERO del presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Una vez efectuada (sic) lo señalado por la Disposición Transitoria anterior; las reformas contenidas y aprobadas por virtud del ARTÍCULO SEGUNDO del presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+CUARTA. El aumento en el número de personas Diputadas electas bajo el principio de mayoría relativa y la asignación de cuatro Diputaciones conforme al principio de primera minoría estatal, no implicará por sí mismo un incremento en el presupuesto del Congreso del Estado de Morelos.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
