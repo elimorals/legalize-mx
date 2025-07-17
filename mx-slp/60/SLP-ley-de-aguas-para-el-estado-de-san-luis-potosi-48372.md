@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2025-07-04"
+last_updated: "2025-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -163,6 +163,10 @@ XXXIX. Saneamiento: las medidas y acciones necesarias para colectar, conducir, t
 
 XL. SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2025)</small>
+
+XL Bis. Sectorización de la red: Proceso en que se divide una red de distribución de agua potable en segmentos o sectores específicos, a fin de optimar el control, la gestión y operación de este líquido; facilitando la localización de fugas, el equilibrio de la distribución y el monitoreo de su presión y caudal; y contribuyendo a su administración más sostenible y eficiente;
+
 XLI. SEGAM: Secretaría de Ecología y Gestión Ambiental;
 
 XLII. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
@@ -280,6 +284,10 @@ X. Impulsar el desarrollo de una cultura del agua que considere a este elemento 
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
 XI. Establecer los principios y lineamientos para el diseño, desarrollo, implementación, ejecución y supervisión del programa estatal de cultura de agua, que considera a ésta como recurso vital, escaso y de gran valor social y ambiental; en coordinación con las dependencias competentes en la materia, con la finalidad de propiciar la participación social;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2025)</small>
+
+XI Bis. Emitir los lineamientos en materia de sistemas de recirculación y ecotecnias para el ahorro y reúso del agua;
 
 > <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
 
@@ -1321,6 +1329,10 @@ Cuando los servicios públicos de agua potable, alcantarillado sanitario, alcant
 
 I. Realizar los actos necesarios para la prestación de los servicios públicos en su circunscripción territorial, atendiendo a la Ley de Aguas Nacionales y su reglamento, la legislación de equilibrio ecológico y protección al ambiente, las normas oficiales mexicanas y la legislación aplicable que se emita con relación a los mismos, la presente Ley y sus reglamentos;
 
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2025)</small>
+
+I Bis. Integrar en la planificación, desarrollo y ampliación de su infraestructura hidráulica, esquemas de sectorización de sus redes de agua potable. En el caso que en algunas zonas del municipio el servicio sea prestado por particulares por cualquier vía legal, éstos deberán incorporar sus redes de distribución a la sectorización prevista en la red general municipal;
+
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 II. Realizar por sí, o a través de terceros a los que se les concesionen, o con quien se celebre contrato de conformidad con esta Ley, las obras de infraestructura hidráulica para la prestación, operación, conservación y mantenimiento de los servicios públicos de agua potable, alcantarillado sanitario, alcantarillado pluvial, tratamiento y disposición de las aguas residuales;
@@ -1504,6 +1516,10 @@ La organización y funcionamiento de estos organismos se regirán por la present
 El organismo operador tendrá a su cargo:
 
 I. Ejercer las atribuciones a que se refiere el artículo 79 de la presente Ley, con excepción de las señaladas en las fracciones VIII, IX y X del precitado numeral;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2025)</small>
+
+I Bis. Integrar en la planificación, desarrollo y ampliación de su infraestructura hidráulica, esquemas de sectorización de sus redes de agua potable. En el caso que en algunas zonas del municipio el servicio sea prestado por particulares por cualquier vía legal, éstos deberán incorporar sus redes de distribución a la sectorización prevista en la red general paramunicipal e intermunicipal.
 
 II. Rendir anualmente a los ayuntamientos un informe de su operación, el cual deberá presentarse dentro de los sesenta días siguientes al término del ejercicio fiscal anterior;
 
@@ -2461,13 +2477,17 @@ Los organismos operadores y, en general, los prestadores de los servicios, autor
 
 Para efectos de lo anterior, los prestadores de los servicios informarán, a través del Periódico Oficial del Estado y por lo menos uno de los diarios de mayor circulación en la localidad, el área definida como factible para la prestación de los servicios, cada vez que ésta se actualice o modifique.
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2025)</small>
 
-Los organismos operadores y los prestadores de servicios deberán incluir como parte de la factibilidad de nuevos fraccionamientos o desarrollos urbanos, las descargas y, en su caso, alimentación de tomas domiciliarias de aguas grises que permitan el reuso de agua en los proyectos de construcción.
+Los organismos operadores y los prestadores de servicios deberán incluir, como parte del proceso de evaluación de factibilidad de nuevos fraccionamientos o desarrollos urbanos, la implementación de sistemas de descarga y, en su caso, la infraestructura necesaria para la alimentación de tomas domiciliarias de aguas grises. Estos sistemas deberán permitir y promover el reúso de aguas grises en los proyectos de construcción.
 
 ###### ARTICULO 154.
 
 Para realizar el estudio de factibilidad de la prestación del servicio en los nuevos fraccionamientos o desarrollos habitacionales, comerciales, industriales y de servicios, incluyendo entidades públicas, que se pretendan incorporar, los fraccionadores o urbanizadores interesados deberán presentar al prestador de los servicios un plano con la ubicación geográfica, número de lotes y la vocación del suelo del predio que se pretende urbanizar.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+El estudio de factibilidad, para garantizar la eficiencia en el suministro de agua potable, deberá incluir un análisis detallado de las condiciones físicas y técnicas necesarias para la sectorización de la red de agua potable en el nuevo desarrollo o fraccionamiento; dicho análisis deberá considerar la compatibilidad con la infraestructura existente y asegurar su integración eficiente al sistema de distribución municipal, paramunicipal e intermunicipal, que permita un control adecuado del caudal, la presión y la detección de fugas.
 
 ###### ARTICULO 155.
 
@@ -2481,9 +2501,17 @@ III. Verificar que el proyecto de urbanización cumpla con las especificaciones 
 
 IV. Recabar la opinión técnica del ayuntamiento correspondiente, y en su caso la de la Comisión;
 
-V. Verificar en los archivos el no adeudo por los servicios de agua potable, drenaje y saneamiento, cuando el nuevo desarrollo se proyecte construir en predios que previamente contaron con dichos servicios, y
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2025)</small>
 
-VI. En su caso, aprobar los proyectos relativos a las instalaciones hidráulicas y sanitarias intradomiciliarias, verificando que cumplan con las especificaciones técnicas requeridas y con las leyes y los reglamentos aplicables.
+V. Verificar en los archivos el no adeudo por los servicios de agua potable, drenaje y saneamiento, cuando el nuevo desarrollo se proyecte construir en predios que previamente contaron con dichos servicios;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2025)</small>
+
+VI. En su caso, aprobar los proyectos relativos a las instalaciones hidráulicas y sanitarias intradomiciliarias, verificando que cumplan con las especificaciones técnicas requeridas y con las leyes y los reglamentos aplicables, y
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2025)</small>
+
+VII. Verificar que el estudio de factibilidad contenga las especificaciones necesarias para la sectorización de la red hidráulica, incluyendo la ubicación estratégica de puntos de control, la implementación de sistemas de monitoreo en tiempo real y la delimitación clara de los sectores dentro de la infraestructura propuesta. Asimismo, se deberán contemplar los mecanismos para la integración eficiente con la red municipal existente, garantizando la operatividad, el control del caudal y la presión, así como la detección oportuna de fugas y la optimización en la distribución del recurso hídrico.
 
 ###### ARTICULO 156.
 
@@ -2549,6 +2577,10 @@ Los fraccionadores o urbanizadores deberán construir por su cuenta, las instala
 
 Los fraccionadores o urbanizadores deberán llevar a cabo las obras de cabeza necesarias para proporcionar los servicios, así como la instalación de un medidor general en el sitio de acometida del fraccionamiento, independiente del que se instale en cada uno de los predios y con las especificaciones del prestador de los servicios; dichas obras pasarán a la propiedad de éste.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+Los fraccionadores y urbanizadores estarán obligados a diseñar y construir la red de agua potable conforme a un esquema de sectorización, que integre elementos técnicos y tecnológicos destinados a optimizar la gestión del suministro, facilitar la detección temprana de fugas y permitir el monitoreo en tiempo real del consumo por sectores. La sectorización deberá ser plenamente compatible con la infraestructura hidráulica existente y cumplir con las especificaciones técnicas y operativas establecidas por el prestador de servicios, garantizando la eficiencia, la seguridad y la sostenibilidad del sistema de distribución de agua potable.
+
 ### CAPITULO III. Del Reuso
 
 ###### ARTICULO 163.
@@ -2574,6 +2606,12 @@ d) Los establecimientos dedicados al lavado de autos.
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
 e) Las instituciones públicas o privadas; y negociaciones que se dediquen al servicio de lavandería, o que presten de manera adicional este servicio a sus usuarios o clientes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
+
+ARTICULO 163 BIS. Los prestadores de servicios incorporarán sistemas de recirculación y ecotecnias para el ahorro y reúso del agua, mismos que deberán ser eficientes, seguros y compatibles con la infraestructura hidráulica existente, y vayan de acuerdo con las especificaciones de la normativa Federal y Estatal aplicable; para tal efecto, la Comisión Estatal del Agua emitirá lineamientos para facilitar su implementación.
+
+Los prestadores de servicios podrán fijar criterios con base en los lineamientos referidos en el párrafo anterior de este artículo, para la ejecución más efectiva de los sistemas aludidos.
 
 ### CAPITULO IV. De las Cuotas y Tarifas
 
@@ -3974,3 +4012,13 @@ PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO. Para los efectos de lo dispuesto por el artículo 80 Bis de este Decreto, la integración del Consejo Consultivo de los ayuntamientos que presten centralizado los servicios de agua potable y conexos, será la Dirección de Agua Potable y Conexos o equivalente del Municipio respectivo, quien lo integre en los términos previstos de la Sección Quinta del Capítulo IV en su Título Quinto de la Ley de Aguas para el Estado, dentro del plazo de los treinta días hábiles siguientes a la entrada en vigencia de este Decreto.
+
+P.O. 17 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0243.- QUE REFORMA LOS ARTÍCULOS 153 Y 155; Y REALIZA ADICIÓN A LOS ARTÍCULOS 3°, 8°, 79, 92, 154, 155, 162 Y EL ARTÍCULO 163 BIS, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO. La Comisión Estatal del Agua emitirá los lineamientos que refiere el artículo 163 Bis de este Decreto, dentro del plazo de los ciento ochenta días naturales siguientes a la entrada en vigencia del presente Decreto.
