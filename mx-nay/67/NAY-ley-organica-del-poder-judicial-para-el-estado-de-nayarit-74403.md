@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2024-12-02"
+last_updated: "2025-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 17 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -2834,3 +2834,73 @@ PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Comuníquese el presente Decreto a la Magistrada Aracely Ávalos Lemus, en su carácter de Presidenta del Tribunal Superior de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+P.O. 17 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, salvo lo dispuesto en los transitorios subsecuentes.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial para el Estado de Nayarit, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el 20 de marzo de 2010.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, el Consejo de la Judicatura tendrá un plazo que no excederá de treinta días naturales para implementar un Plan de Trabajo para la transferencia de los recursos humanos, materiales, financieros y presupuestales a los distintos órganos y áreas del Poder Judicial del Estado, de acuerdo con las atribuciones señaladas en esta Ley.
+
+CUARTO. El Poder Legislativo y el Poder Ejecutivo, en los términos señalados en el artículo 85 la Constitución Política del Estado, por única ocasión deberán designar, a más tardar un día antes del 15 de octubre del año 2025, a una persona cada uno para integrar el Pleno del Órgano de Administración.
+
+QUINTO. Hasta en tanto las Magistradas y los Magistrados electos en el proceso electoral extraordinario 2024-2025 rindan protesta, y las personas integrantes del Órgano de Administración entren en funciones, el Poder Judicial se regirá, para todos los efectos legales por la Ley Orgánica del Poder Judicial para el Estado de Nayarit que se abroga.
+
+En el caso del informe por escrito de quien preside actualmente el Tribunal Superior de Justicia, debe rendir ante el Congreso del Estado, respecto del ejercicio de facultades y atribuciones que la Constitución Política del Estado y las Leyes que le confiere al Poder Judicial, se apegará a lo dispuesto en la Ley que se abroga, como si se trataré del último año en el ejercicio, por lo que, el informe deberá remitirse dentro de los primeros quince días del mes de septiembre del año 2025.
+
+SEXTO. El número de magistraturas previstas para la integración del Tribunal Superior de Justicia, conforme a lo establecido en la presente Ley, surtirá efectos una vez concluida la renovación total de dicho Órgano, es decir, al término del Proceso Electoral Ordinario 2026- 2027.
+
+En tanto ello ocurre, el Pleno del Tribunal Superior de Justicia en coadyuvancia con el Órgano de Administración y el Tribunal de Disciplina podrá, por única ocasión, realizar los ajustes necesarios para garantizar su adecuado funcionamiento, incluyendo la implementación de medidas administrativas y organizacionales, así como la adscripción y readscripción de las titularidades conforme al modelo anterior al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado de Nayarit, en materia de reforma al Poder Judicial local, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el veintisiete de enero de dos mil veinticinco.
+
+SÉPTIMO. Al Tribunal de Disciplina le corresponderá recibir los recursos materiales, humanos, financieros y presupuestales de las áreas del Consejo de la Judicatura, que actualmente ejercen funciones de disciplina y control interno.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura al Tribunal de Disciplina, éstos serán respetados en todo momento, de conformidad con lo dispuesto en las Leyes laborales y demás disposiciones aplicables.
+
+OCTAVO. Una vez instalado el Tribunal de Disciplina, sus integrantes contarán con un plazo de hasta ciento ochenta días naturales para emitir los nombramientos, crear la estructura orgánica prevista en la presente Ley y expedir la normativa correspondiente para su funcionamiento.
+
+NOVENO. Al Órgano de Administración se transferirán los recursos materiales, humanos, financieros y presupuestales de las áreas que actualmente ejercen funciones de administración y de carrera judicial, particularmente el área de gestión de personal.
+
+En lo relativo a los derechos laborales del personal administrativo que sea readscrito del Consejo de la Judicatura al Órgano de Administración, éstos serán respetados en todo momento, de conformidad con lo dispuesto en las Leyes laborales y demás disposiciones aplicables.
+
+DÉCIMO. Para la transferencia de los recursos humanos, materiales, financieros y presupuestales señalados en los transitorios anteriores, el Consejo de la Judicatura podrá adoptar las medidas que considere pertinentes relativas al movimiento y readscripción del personal proveniente de otras áreas para la conformación de los nuevos órganos, atendiendo a sus necesidades estructurales y funcionales.
+
+DÉCIMO PRIMERO. El Tribunal Superior y el Consejo de la Judicatura deberán garantizar la continuidad de los instrumentos jurídicos de adquisición de bienes, así como la contratación de servicios, arrendamientos, obras y servicios relacionados con las mismas, que sean estrictamente indispensables para el funcionamiento de los distintos órganos integrantes del Poder Judicial, previendo que las vigencias de los instrumentos contractuales no superen el ejercicio dos mil veinticinco, de conformidad con el presupuesto aprobado por el Congreso del Estado para el año fiscal correspondiente.
+
+De igual forma, las condiciones generales de trabajo que tenga actualmente celebradas el Poder Judicial con los Sindicatos de sus trabajadores se mantendrán vigentes, para tal efecto, las obligaciones a cargo del Consejo de la Judicatura las asumirá el Órgano de Administración.
+
+DÉCIMO SEGUNDO. Los procedimientos disciplinarios iniciados con anterioridad a la entrada en vigor de la presente Ley se substanciarán por el Tribunal de Disciplina o el Órgano de Administración, según corresponda, conforme a las disposiciones vigentes en aquel momento.
+
+DÉCIMO TERCERO. Los procesos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial o en su caso por el Órgano de Administración, conforme a las disposiciones contenidas en el presente Decreto y los acuerdos generales que emita el propio Tribunal de Disciplina Judicial.
+
+DÉCIMO CUARTO. En todo lo no previsto en la presente Ley, el Pleno del Tribunal de Disciplina regulará la transición de los procesos disciplinarios de los que conoce el Consejo de la Judicatura mediante acuerdo general.
+
+DÉCIMO QUINTO. Los precedentes obligatorios de los órganos jurisdiccionales del Poder Judicial que se hubieran emitido con anterioridad a la entrada en vigor de la presente Ley mantendrán su vigencia y, por tanto, su carácter orientativo o vinculante según corresponda.
+
+Para su modificación, las nuevas personas servidoras públicas electas para cargos de decisión jurisdiccional deberán observar y respetar los requisitos previstos para ello en los términos y procedimientos que para tal efecto establezcan las Leyes.
+
+La nueva integración del Pleno del Tribunal Superior estará facultada para dilucidar la posible contradicción de criterios sostenidos entre las anteriores Salas.
+
+DÉCIMO SEXTO. Los acuerdos generales emitidos por el Consejo de la Judicatura continuarán vigentes en todo lo que no se oponga a la (sic) Constituciones Políticas Federal (sic) y del Estado y a la presente Ley, hasta en tanto el Órgano de Administración y el Tribunal de Disciplina emitan sus propios acuerdos.
+
+DÉCIMO SÉPTIMO. El Fondo del Poder Judicial seguirá operando en tanto el Órgano de Administración procede con su conversión en cuenta productiva o mecanismo análogo ante la institución financiera que determine, mediante las medidas legales y administrativas correspondientes para continuar con su función, de acuerdo con los términos de esta Ley.
+
+DÉCIMO OCTAVO. En un plazo de noventa días naturales contados a partir de la toma de protesta de los nuevos integrantes del Poder Judicial se deberán realizar las adecuaciones a las Leyes que correspondan para dar cumplimiento a la presente Ley.
+
+DÉCIMO NOVENO. En un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto se deberá expedir el Reglamento de esta Ley.
+
+VIGÉSIMO. Las ausencias que excedan de un mes, o que no tengan plazo definido, de Magistradas, Magistrados, Juezas o Jueces que hayan sido designados con anterioridad a la entrada en vigor de la Reforma Constitucional en materia judicial de fecha 27 de enero de 2025, que no se sometieron al proceso electoral extraordinario 2025, se regularán conforme a lo siguiente:
+
+I. La Presidencia del órgano jurisdiccional correspondiente deberá notificar por escrito al Órgano de Administración toda ausencia prolongada o indefinida, con las causas que la motivan;
+
+II. El Órgano de Administración podrá designar a una persona servidora pública del Poder Judicial que cumpla con los requisitos legales para suplir provisionalmente a la persona ausente, observando en lo posible el principio de paridad de género y la especialización en la materia jurisdiccional correspondiente;
+
+III. La persona suplente ejercerá el cargo de forma provisional, sin adquirir definitividad ni derechos escalafonarios, hasta en tanto se reincorpore la persona titular, y
+
+IV. En caso de que la persona titular no se reincorpore antes del inicio del proceso electoral ordinario 2027, la persona suplente terminará sus funciones hasta en tanto se tome protesta a los nuevos integrantes del Poder Judicial, conforme a la elección correspondiente.
+
+Estas disposiciones serán aplicables únicamente durante el periodo en que coexistan en funciones personas juzgadoras designadas bajo el régimen anterior y personas electas por sufragio, y quedarán sin efecto una vez que concluyan los nombramientos realizados con base en la elección ordinaria de 2027.
+
+Las personas suplentes que cubran la vacante que corresponda hasta la toma de protesta de quienes sean electos, no serán acreedores al haber por retiro señalado en la presente Ley, sin embargo, sí podrán participar en la elección ordinaria.
