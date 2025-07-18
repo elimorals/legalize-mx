@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2025-04-11"
+last_updated: "2025-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2025.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -963,13 +963,19 @@ Levantada el acta de divorcio se efectuará anotación en la de matrimonio de lo
 
 Ninguna inhumación o cremación se hará sin autorización escrita dada por el Oficial del Registro Civil, o quien ejerza sus funciones, quien se asegurará suficientemente del fallecimiento por certificado expedido por médico legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2025)</small>
 
 ###### ARTICULO 115.
 
-En el acta de defunción se asentarán los datos que el Oficial del Registro Civil o quien ejerza sus funciones, reciba de la declaración que se le haga y será firmada por dos testigos preferentemente parientes, si los hay, o vecinos.
+En el acta de defunción se asentarán los datos que la persona Oficial del Registro Civil o quien ejerza sus funciones, reciba de la declaración que se le haga y será firmada por dos personas que sean testigos preferentemente parientes, si los hay, o personas vecinas.
 
-Si la persona ha muerto fuera de su domicilio, uno de los testigos deberá ser aquél en cuyo domicilio haya ocurrido el fallecimiento, o alguno de los vecinos más inmediatos.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2025)</small>
+
+Si la persona ha muerto fuera de su domicilio, una de las personas que funja como testigo deberá ser aquella en cuyo domicilio haya ocurrido el fallecimiento, o alguna de las personas vecinas más inmediatas.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2025)</small>
+
+Para las actas de defunción de las personas transgénero, en caso de que sus familiares se negaren a realizar el trámite o pudieren vulnerar su identidad o expresión de género, dicha acta podrá ser tramitada por la familia social que comprende aquellas personas que pertenecen al círculo más cercano de la víctima, es decir, amistades, compañeras, compañeros de trabajo, vivienda o cualquier otra que tenga una relación estrecha y reconocida con la víctima.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
 
@@ -16904,3 +16910,11 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 83 MEDIANTE EL CUAL SE APRUEBA LA REFORMA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 115 POR EL QUE “SE APRUEBA LA REFORMA DE ADICIÓN DE UN TERCERO PÁRRAFO AL ARTÍCULO 115 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro de un plazo de 60 días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán modificar sus respectivos Reglamentos.
