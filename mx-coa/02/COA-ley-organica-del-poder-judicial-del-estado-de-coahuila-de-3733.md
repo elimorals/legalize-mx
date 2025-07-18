@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2022-07-15"
+last_updated: "2025-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO FRACCIÓN I DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 18 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2025 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -4814,3 +4816,121 @@ QUINTO.- El Consejo de la Judicatura emitirá mediante acuerdo las disposiciones
 SEXTO.- Los procedimientos en materia laboral que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al haberse iniciado, ante las Juntas de Conciliación y Arbitraje hasta su debida conclusión.
 
 SÉPTIMO.- La selección y nombramiento de los jueces laborales y demás personal jurisdiccional y administrativo adscrito a los Tribunales Laborales, será de conformidad a la normatividad vigente o que se expida para este efecto.
+
+P.O. 18 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 270.- SE CREA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Artículo Primero. Vigencia, abrogación e implementación. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, en los términos, condiciones, límites y plazos de transición siguientes:
+
+I. Se abroga la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial, el martes 11 de diciembre de 1990, así como se dejan sin efectos sus posteriores reformas, adiciones y/o modificaciones, junto con los reglamentos, acuerdos y demás normas de carácter general respectivos expedidos por el Poder Judicial con anterioridad, salvo la aplicación ultraactiva y retrospectiva de dichas normas abrogadas según la fracción IV del artículo Segundo Transitorio del Decreto de Reforma a la Constitución Política del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial número 102 de fecha 20 de diciembre de 2024.
+
+II. El Congreso del Estado, a iniciativa del Pleno del Tribunal Superior de Justicia, discutirá, dictaminará y aprobará, dentro del proceso de transición de este Decreto, la Ley de Disciplina Judicial que regulará el procedimiento, las faltas, vigilancia, supervisión, contraloría, evaluación y demás atribuciones disciplinarias a que se refiere la nueva Ley, sin perjuicio de que se apliquen ultra activamente las normas expedidas con anterioridad conforme a la fracción anterior.
+
+III. El Pleno del Tribunal Superior de Justicia presentará al Congreso del Estado, la Carta de Independencia Judicial, la Carta de los Derechos de Acceso a la Justicia y demás reglamentos para reconocer los derechos y garantías de la función jurisdiccional.
+
+IV. Una vez entrado en vigor el presente Decreto, el Pleno del Tribunal Superior de Justicia emitirá todos los acuerdos necesarios para iniciar el proceso de transición para constituir e implementar gradual, efectiva y plenamente la vigencia de esta Ley Orgánica del Poder Judicial, a partir de la Comisión de Transición que establece los Artículos Segundo y Tercero Transitorios.
+
+V. El Ejecutivo del Estado presentará al Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, la iniciativa de reforma a la legislación respectiva para regular la organización y funcionamiento del Tribunal de Conciliación y Arbitraje a que se refiere la fracción V del artículo Segundo Transitorio del Decreto de Reforma a la Constitución Política del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial número 102 de fecha 20 de diciembre de 2024, sin perjuicio de que mientras tanto continué funcionando en los términos de las disposiciones expedidas con anterioridad.
+
+VI. El Pleno del Tribunal presentará al Congreso del Estado, las iniciativas de ley y/o reformas para adecuar toda la legislación secundaria conforme a este Decreto.
+
+Asimismo, toda vez que el proceso de renovación del Poder Judicial no ha concluido, y dadas las reformas federales que se expidan, esta Ley se podrá modificar conforme se requiera.
+
+Artículo Segundo. Instalación. La Presidencia del Tribunal Superior de Justicia en funciones citará a Sesión del Pleno a todas las magistraturas electas y en funciones del Tribunal Superior para acordar en la primera sesión del Segundo Período Ordinario de Sesiones del Pleno, lo siguiente:
+
+I. El Decreto para la conformación de las trece magistraturas que integrarán el Pleno del Tribunal Superior de Justicia y la creación de sus Salas, conforme a este Decreto;
+
+II. Elegir a la persona titular de la Presidencia del Tribunal Superior de Justicia quien, en atención a que todavía no concluye el proceso de renovación integral del Poder Judicial, por única ocasión y de manera transitoria, durará en el cargo a partir de la fecha de su designación y hasta la fecha en que quede integrado plenamente y en funciones el Tribunal Superior de Justicia con todas las magistraturas electas popularmente en el año dos mil veintisiete, en los términos, condiciones y límites transitorios que determine el propio Pleno. Una vez acontecido lo anterior, se elegirá una nueva Presidencia en los términos, modalidades y límites que establezca el Pleno del Tribunal Superior, de conformidad con lo dispuesto en esta Ley;
+
+III. Se declarará por el Pleno del Tribunal Superior, la instalación formal de las magistraturas que integrarán el Tribunal de Disciplina Judicial, a fin de que comiencen a ejercer plenamente sus funciones conforme a este Decreto;
+
+IV. Se convocará al Poder Ejecutivo y al Poder Legislativo, para que dentro del proceso de transición designen a los integrantes del Órgano de Administración Judicial que le corresponderá sustituir, en el ámbito de su competencia, las funciones del Consejo de la Judicatura que se extinguirá en los términos de este Decreto. En su momento, el Pleno declarará la instalación formal de dicho Órgano; y
+
+V. Expedir los acuerdos necesarios para que, a través de la Presidencia del Tribunal Superior, se ejecuten los recursos legales, administrativos, financieros, laborales y materiales necesarios para implementar este Decreto.
+
+Artículo Tercero. Comisión de Transición. Se crea la Comisión de Transición para implementar este Decreto que estará integrada por:
+
+I. La persona titular de la Presidencia del Tribunal Superior de Justicia, que la presidirá;
+
+II. Una persona representante designado por el Pleno del Tribunal Superior de Justicia;
+
+III. Una persona representante designado por el Congreso del Estado; y
+
+IV. Una persona representante designado por el Ejecutivo del Estado.
+
+El Pleno del Tribunal Superior reglamentará e instalará formalmente a la Comisión de Transición que le corresponderá elaborar el Plan de Transición que guiará todas las acciones necesarias para implementar este Decreto hasta en tanto se reglamentan, transfieren e implementan, en forma gradual y progresivamente, las atribuciones de los órganos y dependencias del Poder Judicial de este Decreto, lo cual no podrá exceder de un plazo de dos años contados a partir de la instalación de dicha Comisión.
+
+Artículo Cuarto. Reglamentación. Dentro del proceso de transición de este Decreto, la Comisión a que se refiere el artículo anterior facilitará los trabajos del Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial para que de manera coordinada se expidan:
+
+I. El Reglamento del Poder Judicial expedido por el Pleno del Tribunal Superior de Justicia;
+
+II. El Reglamento del Tribunal de Disciplina Judicial expedido por el Pleno del Tribunal Superior de Justicia, a propuesta de aquél;
+
+III. El Reglamento del Órgano de Administración Judicial expedido por el Pleno del Tribunal Superior de Justicia, a propuesta de aquél; y
+
+IV. La demás elaboración de iniciativas de reformas, reglamentación y expedición de normas a que se refiere este Decreto.
+
+Artículo Quinto. Implementación jurídica administrativa y disciplinaria. La Presidencia del Tribunal Superior de Justicia convocará al Consejo de la Judicatura en funciones para que, en el ámbito de su competencia, autorice el plan de transferencia de los recursos legales, administrativos, financieros, contables, laborales, materiales y demás que resulten necesarios, para que el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, puedan ejercer sus funciones respectivas conforme al Plan de Transición de este Decreto.
+
+Los asuntos disciplinarios vigentes a la fecha de entrada en vigor de la presente Ley serán desahogados por el Consejo de la Judicatura hasta su finalización.
+
+Una vez que se concluyan los asuntos disciplinarios vigentes y se transfieran plenamente todos los recursos que les correspondan al Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, el Pleno del Tribunal Superior de Justicia, a propuesta de su Presidencia, declarará la extinción del Consejo de la Judicatura para los efectos legales correspondientes.
+
+Artículo Sexto. Los Juzgados Especializados en Materia Hipotecaria en funciones a la entrada en vigor del presente decreto continuarán conociendo y resolviendo:
+
+I. Juicios hipotecarios en cualquier (sic) de las vías establecidas en la ley que tenga por objeto la constitución, ampliación, división, registro, extinción, nulidad y cancelación de una hipoteca, así como el pago o prelación del crédito que garantice;
+
+II. Juicios de otorgamiento de escritura sobre negocios jurídicos que se encuentren garantizados con un crédito hipotecario; y
+
+III. De los demás asuntos que el Órgano de Administración Judicial determine conforme a las necesidades del servicio se requiera.
+
+Los Juzgados Especializados en Materia Ambiental conocerán y resolverán:
+
+I. Procesos jurisdiccionales locales en materia ambiental; y
+
+II. De los demás asuntos que el Órgano de Administración Judicial determine conforme a las necesidades del servicio se requiera (sic).
+
+Los Juzgados Especializados en Salud Mental y Adicciones conocerán y resolverán:
+
+I. Procesos penales en materia de delitos por narcomenudeo, ajustando el procedimiento a los programas de atención de carácter terapéutico implementados;
+
+II. Asuntos que les confiera la Constitución, el Código Nacional de Procedimientos Penales, esta Ley, el Reglamento Interior de los Juzgados Especializados en Salud Mental y Adicciones y demás normatividad aplicable; y
+
+III. De los demás asuntos que el Órgano de Administración Judicial determine conforme a las necesidades del servicio se requiera.
+
+Los Juzgados Especializados en Violencia Familiar conocerán y resolverán con competencia mixta de:
+
+A. En materia familiar:
+
+1. Conocer y resolver hasta su conclusión, del procedimiento especial de violencia familiar regulado en el capítulo sexto, sección sexta del Código de Procedimientos Familiares para Estado de Coahuila de Zaragoza, que presenten mujeres reclamando derechos propios o los de sus hijas e hijos menores de edad;
+
+2. Dictar las medidas preparatorias, cautelares y provisionales reguladas en los Códigos de Procedimientos Familiares y Procesal Civil, ambos vigentes en el Estado de Coahuila de Zaragoza, siempre que sean solicitadas por mujeres en casos de violencia familiar, ya sea que se trate de proteger derechos propios o los de sus hijas e hijos;
+
+3. Emitir las órdenes de protección en caso de violencia familiar reguladas en la Ley para la Familia del Estado de Coahuila de Zaragoza, que sean solicitadas por mujeres, ya sea que se trate de proteger derechos propios o los de sus hijas e hijos;
+
+4. Emitir las órdenes de protección reguladas tanto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, como en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Coahuila de Zaragoza que sean procedentes en la materia familiar y que sean solicitadas por mujeres, ya sea que se trate de proteger derechos propios o los de sus hijas e hijos, así como cumplir con las obligaciones establecidas en las secciones primera y cuarta, del capítulo IX y capítulo X, de la ley local referida;
+
+5. Emitir, en el ámbito de su competencia, las demás medidas para proteger los derechos de las mujeres víctimas de violencia aplicables en materia familiar, ya sea que los reclamen por su propio derecho o en representación de sus hijas e hijos, establecidas en el marco legal, constitucional y convencional de protección de los derechos humanos de las mujeres, niñas y niños, así como en la jurisprudencia nacional e internacional en la materia, y
+
+6. Actos de violencia precisados en los numerales del 1 al 5 de este apartado A, que sean cometidos en el ámbito familiar, es decir, siempre y cuando se hubiesen cometido contra la mujer con quien la persona agresora tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, compañera o ex compañera civil, pareja estable coexistente o ex pareja estable coexistente, respecto a quien tenga o haya tenido relación de pareja o de hecho, respecto de la que esté o haya estado en sociedad en convivencia o en pacto civil de solidaridad, así como también de sus hijas o hijos de la mujer, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las personas nombradas, al igual que contra cualquier otra mujer, en su caso sus hijas e hijos, que estén sujetos a la custodia, guarda, protección, educación o cuidado de la mujer.
+
+B. En materia penal:
+
+l. Conocer de las etapas de investigación (inicial y complementaria) e intermedia del procedimiento penal del sistema acusatorio y oral regulado en el Código Nacional de Procedimientos Penales, respecto de los delitos contenidos en el Código Penal del Estado de Coahuila de Zaragoza siguientes: a) Delitos contra la vida, contenidos en el Libro Segundo, Parte Especial, título primero, capítulos primero, segundo, tercero, cuarto, sexto y séptimo; b) Delitos contra la integridad corporal, contenidos en el Título Segundo, capítulo primero; c) Delitos de peligro para la vida o la salud personal, que se comprenden en el Título Tercero, capítulos primero y segundo; d) Delitos contra la libertad y el derecho a vivir en familia sin intromisiones ilícitas, establecidos en el Título Cuarto, capítulos primero, segundo y tercero; e) Delitos contra la libertad y seguridad sexuales y el desarrollo de la personalidad, que se comprenden en los capítulos primero, segundo, tercero, cuarto, quinto y sexto; f) Delitos contra la libertad y seguridad en el desarrollo psicosexual de personas menores de edad, que se comprenden en los capítulos quinto y sexto; g) Delitos contra el desarrollo de la personalidad de menores de edad, contenidos en el Título Sexto, capítulo primero; h) Delitos contra una familia libre de violencia y contra la subsistencia familiar, que se contienen en el Título Noveno, capítulos primero y segundo; i) Delitos contra la filiación y el matrimonio, comprendidos en el Título Undécimo, capítulos primero y segundo; j) Delitos contra la paz y la identidad personales y contra la inviolabilidad del domicilio, comprendidos en el Título Duodécimo, capítulos primero, segundo y tercero; k) Delitos contra la privacidad e intimidad personales, que se encuentran en el Título Décimo Tercero; capítulos primero, segundo y tercero; l) Delitos contra el patrimonio, que se prevén en el Título Décimo Quinto, capítulos primero, segundo, tercero, sexto y séptimo;
+
+2. Delitos los descritos en los incisos de la a) a la l) que sean cometidos en el ámbito familiar, es decir, siempre y cuando se hubiesen cometido contra la mujer con quien las (sic) persona agresora tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, compañera o ex compañera civil, pareja estable coexistente o ex pareja estable coexistente, respecto a quien tenga o haya tenido relación de pareja o de hecho, respecto de la que esté o haya estado en sociedad en convivencia o en pacto civil de solidaridad, así como también de sus hijos o hijas de la mujer, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, o en contra de los parientes por consanguinidad o afinidad hasta el cuarto grado de las personas nombradas, al igual que contra cualquiera otra mujer, en su caso sus hijas e hijos, que estén sujetos a la custodia, guarda, protección, educación o cuidado del sujeto o persona activa;
+
+3. De los procedimientos penales correspondientes a la justicia para adolescentes que se tramiten con motivo de estos delitos y en los que la o las víctimas sean las personas referidas en el párrafo que antecede, atendiendo a la legislación aplicable;
+
+4. Dictar las medidas cautelares, así como ratificar, modificar o cancelar las medidas de protección ordenadas por el Ministerio Público, de conformidad con el Código Nacional de Procedimientos Penales, siempre y cuando en el procedimiento penal de que se trate, figuren como víctimas las personas referidas en este artículo y se juzguen los delitos señalados en el mismo;
+
+5. Emitir, en el ámbito de su competencia, las demás medidas para proteger los derechos de las mujeres víctimas de violencia establecidas en el marco legal, constitucional y convencional de protección de los derechos humanos de las mujeres, así como en la jurisprudencia nacional e internacional en la materia, de conformidad con el Código Nacional de Procedimientos Penales y demás legislación aplicable, siempre y cuando en el procedimiento penal de que se trate, figuren como víctimas las personas referidas en este artículo y se juzguen los delitos señalados en el mismo;
+
+6. Conocerá la etapa intermedia hasta que resuelva el auto de apertura a juicio oral para después remitirlo al Tribunal de Enjuiciamiento que conocerá la etapa de juicio, siempre y cuando en el procedimiento penal de que se trate figuren como víctimas las personas referidas en este artículo y se juzguen los delitos señalados en el mismo;
+
+7. Atenderá y resolverá en ambas etapas las salidas alternas o la forma de terminación anticipada de conformidad con el Código Nacional de Procedimientos Penales, y
+
+8. Sobreseerá las causas a su cargo cuando se actualicen cualquiera de las hipótesis contenidas en el Código Nacional de Procedimientos Penales.
+
+Artículo Séptimo. Normas supletorias. En todo lo no previsto, el Pleno del Tribunal Superior de Justicia emitirá la reglamentación necesaria, a propuesta de la Comisión de Transición.
