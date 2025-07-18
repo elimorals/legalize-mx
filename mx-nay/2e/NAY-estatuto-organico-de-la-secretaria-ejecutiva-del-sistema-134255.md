@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-134255
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-01-02"
-last_updated: "2019-01-02"
+last_updated: "2025-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCION, DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN DE NAYARIT, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2025 (ABROGADO).
 
 Estatuto publicado en la Sección Quinta al Número 001 del Periódico Oficial del Estado de Nayarit, el miércoles 2 de enero de 2019.
 
@@ -600,3 +602,25 @@ TERCERO. La atribución referida en el artículo 13, fracción IX del presente E
 Dado en las oficinas de la Contraloria General del Estado, ubicado al centro de esta ciudad, Tepic Nayarit, a los diez días de octubre de 2018.- El órgano de Gobierno instruye llevar a cabo los trámites administrativos para su publicación al Secretario Técnico de la Secretaría Ejecutiva del Sistema Local Anticorrupción, Miguel Angel Anaya Rios.- Rúbrica.
 
 Nombre del Integrante: Lic. César Delgadillo Gutiérrez, Presidente del Órgano de Gobierno del Sistema Local Anticorrupción del Estado de Nayarit.- Rúbrica.- Arq. Aide Herrera Santana, Titular de la Secretaría de la Contraloría General del Estado.- Rúbrica.-Lic. Ramiro Antonio Martínez Ortiz, Comisionado Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit.- Rúbrica.- Dr. Jesús Ramírez de la Torre, Presidente del Tribunal de Justicia Administrativa de Nayarit.-Rúbrica.- Lic. Héctor Manuel Benítez Pineda, Encargado del despacho por ministerio de ley de la Auditoria Superior del Estado de Nayarit.- Rúbrica.- Dr. Miguel Angel Anaya Ríos, Secretario Técnico del Sistema Local Anticorrupción del Estado de Nayarit.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Local Anticorrupción publicado el día 02 de enero 2019 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En tanto se realiza la adecuación presupuestal y se nombra a los integrantes del Órgano Interno de Control, se procederá como sigue:
+
+a) Cuando el Órgano Interno de Control sólo se componga de la persona que ocupe la titularidad del mismo, esta fungirá como autoridad investigadora dentro del procedimiento de responsabilidad administrativa conforme a lo establecido en el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza para dicha autoridad integrante del Órgano Interno de Control, sin perjuicio de las demás atribuciones que le otorga el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza, para posteriormente, de ser el caso, continuar el procedimiento de responsabilidad administrativa ante las autoridades substanciadora, resolutora y unidad de auditoría respectivamente, de la Secretaría para la Honestidad y Buena Gobernanza. De actualizarse el supuesto anterior, la persona titular del Órgano Interno de Control deberá suscribir los documentos propios de la investigación identificándose con la denominación que derive de su nombramiento, agregándose, además, que su actuación la efectúa en su carácter de autoridad investigadora en los términos del presente artículo transitorio.
+
+b) Cuando el Órgano Interno de Control sólo cuente con la autoridad investigadora debidamente designada, esta última ejercerá las atribuciones que se establecen en el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza, para posteriormente, de ser el caso, continuar el procedimiento de responsabilidad administrativa ante las autoridades substanciadora, resolutora y unidad de auditoría, respectivamente, de la Secretaría para la Honestidad y Buena Gobernanza.
+
+c) Cuando el Órgano Interno de Control sólo cuente con las autoridades investigadora y substanciadora debidamente designadas, la persona titular del Órgano Interno de Control fungirá como autoridad resolutora dentro del procedimiento de responsabilidad administrativa conforme a lo establecido en el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza para dicha autoridad integrante del Órgano Interno de Control, sin perjuicio de las demás atribuciones que le otorga el Reglamento Interior de la Secretaría para la Honestidad y Buena Gobernanza.
+
+d) En el supuesto en que no se haya designado a la persona Titular de la Autoridad Investigadora, la persona titular del Órgano Interno de Control, fungirá y tendrá el carácter de autoridad investigadora en los procesos de investigación y dentro de los procedimientos de responsabilidad administrativa que se promuevan, conforme lo establecido en el presente ordenamiento legal, en la Ley de Responsabilidades y la Ley General, sin perjuicio de las demás atribuciones que le otorga el presente reglamento, además fungirá o realizará las funciones de la Unidad de auditoría según corresponda.
+
+TERCERO. En tanto no se cuente con suficiencia presupuestal y se nombre a las personas Titulares de la Coordinación de Archivos, Archivo de Concentración, y Archivo Histórico las atribuciones de estas, las realizarán de manera honorífica quienes designe el Secretario Técnico.
