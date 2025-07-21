@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2025-06-16"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -143,11 +143,17 @@ VI.- Instituto: Al Organismo Público Descentralizado denominado Instituto de At
 
 VII.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
 
-Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades;
 
-VIII.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VIII.- El Médico en tu casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio y/o por telemedicina, para mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+
+IX.- Telemedicina: A la atención médica a distancia, consistente en el conjunto de servicios médicos que se proporcionan al individuo, con el fin de promover, proteger y restaurar su salud con el apoyo y uso de las Tecnologías de la Información y Comunicación.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -191,13 +197,17 @@ VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de pr
 
 IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-X.- Proporcionar cuidados paliativos; y
+X.- Proporcionar cuidados paliativos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado.
+XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XII.- Promover el desarrollo de los servicios de salud por telemedicina, usando Tecnologías de la Información y Comunicación, para el intercambio de información válida en el diagnóstico, el tratamiento, la prevención de enfermedades o lesiones, investigación y evaluación, y educación médica a distancia para ampliar la cobertura y mejorar la calidad de atención a la salud.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -289,9 +299,9 @@ XXVII.- Administrar el patrimonio de la beneficencia pública a través del órg
 
 XXVIII.- Desarrollar programas y actividades en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad encaminados a promover hábitos alimentarios adecuados y la activación física, primordialmente en los grupos sociales vulnerables;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud;
+XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud. Esto comprenderá la telemedicina, y el intercambio de información válida en el diagnóstico, el tratamiento, la prevención de enfermedades o lesiones, investigación y evaluación, y educación médica a distancia para ampliar la cobertura y mejorar la calidad de atención a la salud;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
@@ -389,15 +399,15 @@ IV.- Promover y establecer mecanismos para la coordinación de esfuerzos en mate
 
 V.- Proponer proyectos para su incorporación al Programa Operativo Anual del Organismo y del Instituto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN VII], P.O. 21 DE JULIO DE 2025)</small>
 
-VI.- Establecer mecanismos de coordinación transversal, así como desarrollar, implementar y evaluar políticas, investigaciones, acciones y programas en materia de atención y protección a personas con la condición del espectro autista;
+VI.- Invitar especialistas en materia de salud a sus sesiones;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-VII.- Invitar especialistas en materia de salud a sus sesiones; y
+VII.- Promover la telemedicina y la incorporación, uso y aprovechamiento de las Tecnologías de la Información y Comunicación en los servicios de salud; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE JULIO DE 2025)</small>
 
 VIII.- Las demás que establezcan la presente Ley, el Reglamento Interior de la Secretaría y demás disposiciones legales aplicables.
 
@@ -818,6 +828,10 @@ II.- Que los establecimientos de los sectores público, social y privado dedicad
 ###### ARTICULO 43.
 
 Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de promover, proteger y restaurar su salud.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+La atención médica podrá prestarse de conformidad con las disposiciones reglamentarias de la Secretaría, de manera presencial o a distancia por telemedicina.
 
 ###### ARTICULO 44.
 
@@ -1805,9 +1819,9 @@ I.- Promover actividades tendientes a la formación, capacitación y actualizaci
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento para brindar el servicio mediante un trato humano dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+III.- Otorgar facilidades para la enseñanza y capacitación para brindar el servicio mediante un trato humano dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros; así como para dar el servicio a distancia por telemedicina y/o mediante el uso de las Tecnologías de la Información y Comunicación;
 
 IV.- Promover la participación voluntaria, a través de los colegios o asociaciones, o de manera individual, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
 
@@ -1849,7 +1863,9 @@ III.- A la prevención y control de los problemas de salud que se consideren pri
 
 IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
 
-V.- Al estudio de las técnicas y métodos que se recomienden para la prestación de los servicios de salud, y los aspectos relacionados con su óptima utilización.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+V.- Al estudio de las técnicas, métodos y Tecnologías de la Información y Comunicación que se recomienden o empleen para la prestación de los servicios de salud, y los aspectos relacionados con su óptima utilización;
 
 VI.- A la producción nacional de insumos para la salud.
 
@@ -4724,3 +4740,11 @@ La persona titular del Poder Ejecutivo Estatal deberá en un plazo de 90 días n
 ###### ARTÍCULO TERCERO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 230.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
