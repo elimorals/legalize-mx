@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-01-31"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -919,7 +919,9 @@ V.- De los Registros Administrativos de las Detenciones;
 
 VI.- De los Informes Policiales Homologados;
 
-VII .- De los mandamientos administrativos o judiciales, mismos que se integrarán por órdenes de comparecencia, aprehensión, reaprehensión, presentación ejecutadas y pendientes de ejecutar, y órdenes de protección;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VII.- De los mandamientos administrativos o judiciales, mismos que se integrarán por órdenes de comparecencia, aprehensión, reaprehensión, presentación ejecutadas y pendientes de ejecutar, y medidas u órdenes de protección;
 
 VIII.- Del registro de voz de los Miembros, del personal que prevé el Reglamento que regula la prestación de servicios de seguridad privada para el Estado, y de los imputados, acusados y sentenciados;
 
@@ -1939,7 +1941,7 @@ En lo no previsto por este título, se aplicará supletoriamente el Código de P
 
 Las Instituciones Policiales y la Agencia Estatal de Investigación serán de carácter civil, disciplinado y profesional. Deberán fomentar la participación de la comunidad y rendir cuentas en términos de ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 97.
 
@@ -1947,11 +1949,11 @@ Las Instituciones Policiales, para el mejor cumplimiento de sus objetivos, estab
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-I.- Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
+I. Investigación, que será la encargada de la investigación a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-II.- Prevención, que será la encargada de prevenir la comisión de hechos violentos, la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
+II. Prevención, que será la encargada de prevenir la comisión de hechos violentos, la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, así como proporcionar medidas u órdenes de protección inmediatas en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California;
 
 III. Reacción, que será la encargada de garantizar, mantener y restablecer el orden y la paz públicos;
 
@@ -1959,7 +1961,7 @@ IV. Proximidad social, como una actividad auxiliar a las funciones de prevenció
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-V.- La atribución de la investigación para disuasión y prevención de los delitos corresponde a la Fuerza Estatal de Seguridad Ciudadana.
+V. La atribución de la investigación para disuasión y prevención de los delitos corresponde a la Fuerza Estatal de Seguridad Ciudadana.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -2481,9 +2483,9 @@ VI. Cumplimiento de los deberes establecidos en esta Ley.
 
 La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los Miembros de las Instituciones Policiales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el programa rector que apruebe el Sistema Nacional.
+Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje con perspectivas de género, interés superior de la niñez, interculturalidad e interseccionalidad, de acuerdo al programa rector que apruebe el Sistema Nacional.
 
 ### CAPÍTULO V. DERECHOS Y OBLIGACIONES DE LOS MIEMBROS
 
@@ -2593,7 +2595,9 @@ XX. Atender con diligencia la solicitud de informe, queja o auxilio de la ciudad
 
 XXI. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
-XXII. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XXII. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho. Tratándose de las mujeres, adolescentes, niñas y niños víctimas, el auxilio se prestará con perspectiva de género y con la debida diligencia, lo cual implica actuar oportunamente y salvaguardando en todo momento su seguridad para evitar el contacto del o las personas agresoras. Las acciones para su resguardo y protección se implementarán de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y el Código Nacional de Procedimientos Penales;
 
 XXIII. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
@@ -2657,9 +2661,17 @@ LI. Hacer entrega inmediata de los asuntos bajo su responsabilidad, uniforme, pl
 
 LII. Hacer uso racional del armamento, material, municiones y equipo asignado en el desempeño de sus funciones;
 
-LIII. En los casos de flagrancia, detener al presunto responsable de los hechos presuntamente delictuosos; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-LIV. Las demás que establezcan las disposiciones legales aplicables.
+LIII. En los casos de flagrancia, detener al presunto responsable de los hechos presuntamente delictuosos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+LIV. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y el Código Nacional de Procedimientos Penales; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+LV. Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPÍTULO VII. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
 
@@ -3534,3 +3546,9 @@ Segundo.- Dentro de un plazo de 90 días naturales contados a partir de la entra
 Tercero.- Los derechos laborales de las personas servidoras públicas y demás personal del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado de Baja California serán respetados en su totalidad. Los recursos materiales con que cuente el citado Centro, serán transferidos a la Fiscalía General del Estado.
 
 Cuarto.- Los recursos humanos, materiales, presupuestales y demás que estén asignados para la operación del Centro de Control, Comando, Comunicación, Cómputo, Calidad y Contacto Ciudadano del Estado y el Servicio de Asistencia Telefónica, pasarán a cargo de la Fiscalía General del Estado de Baja California y se continuarán realizando las funciones sustantivas correspondientes.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
