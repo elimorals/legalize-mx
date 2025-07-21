@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2025-04-25"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -45,11 +47,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJ
 
 ### CAPÍTULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Estado de Baja California, y tienen por objeto establecer las bases para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, garantizando el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la Ley General, los Tratados Internacionales y las demás leyes vigentes en materia.
+Las disposiciones de la presente Ley son de orden público, interés social y observancia general en el Estado de Baja California, y tienen por objeto establecer las bases para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, los principios y mecanismos para el pleno acceso a una vida libre de violencias, garantizando el goce y ejercicio de sus derechos humanos, así como la protección reforzada del Estado con estas, y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California, la Ley General, los Tratados Internacionales y las demás leyes vigentes en materia.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -141,7 +143,7 @@ Las mujeres con discapacidad tendrán derecho a que los procedimientos sean acce
 
 Los refugios y los Centros de Justicia para las Mujeres deberán contar con todas las condiciones necesarias para proporcionar atención, en igualdad de condiciones y sin discriminación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 4.
 
@@ -203,9 +205,9 @@ XVI. Tipos de violencia: Los distintos daños que puede ocasionar la violencia c
 
 XVII. Víctima indirecta: Familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XVIII. Órdenes de Protección: Son actos de urgente aplicación en función del interés superior de la víctima y victima indirecta, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima;
+XVIII. Medidas u órdenes de Protección: Son actos de urgente aplicación en función del interés superior de la víctima y víctima indirecta, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas y niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -241,13 +243,21 @@ Está orientado a abordar las particularidades de las mujeres de los pueblos ind
 
 XXVI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto (sic) pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XXVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora; y,
+XXVII. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XXVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
+XXVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XXIX. Programa Institucional: Programa Institucional en beneficio de las Mujeres; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XXX. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -255,9 +265,9 @@ XXVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamient
 
 Para efectos de la presente ley, la perspectiva de género es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2025)</small>
 
-## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES, ÓRDENES DE PROTECCIÓN Y REFUGIOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
+## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES, MEDIDAS U ÓRDENES DE PROTECCIÓN Y REFUGIOS PARA MUJERES VÍCTIMAS DE VIOLENCIA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -571,9 +581,9 @@ III. La delimitación georreferenciada de zonas que sufren de violencia comunita
 
 IV. Impulsarán la cultura jurídica, de legalidad y de denuncia de actos violentos, públicos o privados, contra las mujeres;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-V. El establecimiento de un registro en la Base Estatal de las órdenes de protección que se emitan por las autoridades competentes para la protección de las mujeres y de personas sujetas a ellas, para brindar el adecuado seguimiento;
+V. El establecimiento de un registro en la Base Estatal de las medidas u órdenes de protección que se emitan por las autoridades competentes para la protección de las mujeres y de personas sujetas a ellas, para brindar el adecuado seguimiento;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
@@ -675,29 +685,35 @@ IV. Los demás requisitos de forma que se establezcan en el Reglamento.
 
 Artículo 20 TER. Una vez remitida y admitida la solicitud de Alerta de Violencia de Género contra las mujeres, el o los solicitantes en conjunto con las autoridades actuarán y atenderán lo establecido en la Ley General y demás normatividad aplicable.
 
-### CAPÍTULO III. ORDENES DE PROTECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+### CAPÍTULO III. MEDIDAS U ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 21.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Las medidas u órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas o niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+Tienen como propósito prevenir o hacer cesar un acto de violencia, o impedir la comisión de un nuevo acto de violencia o delito.
 
 En materia de violencia política contra las mujeres en razón de género, el organismo público Local Electoral y el Tribunal de Justicia Electoral del Estado, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 22.
 
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+Las medidas u órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
 
-I. Administrativas: que son emitidas por el Ministerio Público y las autoridades municipales competentes; y,
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y las autoridades municipales competentes, así como las proporcionadas y/o dictadas de forma directa por cualquier autoridad policial; y,
 
 II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 
-Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Las medidas u órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
 
 Deberán expedirse de manera inmediata o a más tardar dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
 
@@ -709,25 +725,39 @@ Quien en ejercicio de funciones públicas tenga conocimiento de la probable exis
 
 Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 24.
 
-Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+Las medidas u órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
 
-II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+II. Principio de necesidad y proporcionalidad: Las medidas u órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
 
-IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+IV. Principio de oportunidad y eficacia: Las medidas u órdenes deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática; y,
 
-VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las medidas u órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas, niños o adolescentes, siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las medidas u órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -735,27 +765,43 @@ VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las
 
 Cuando una mujer, adolescente o una niña, víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
 
-La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las medidas u órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
 
 La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
 
-Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
+Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las medidas u órdenes de protección correspondientes.
 
-###### Artículo 26.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
-Para la emisión de las órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
+###### ARTÍCULO 26.
+
+Para la emisión de las medidas u órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 I. Los hechos relatados por la mujer, adolescente o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 II. Las peticiones explícitas de la mujer, adolescente o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
 
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 V. La persistencia del riesgo aún después de su salida de un refugio temporal; y,
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
 
@@ -773,23 +819,39 @@ IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por r
 
 V. Las necesidades expresadas por la mujer, adolescente o niña solicitante.
 
-Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las medidas u órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
 
-Artículo 26 TER. Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+Artículo 26 TER. Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las medidas u órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
 
-Artículo 26 QUÁTER. Las órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+Las medidas u órdenes de protección podrán solicitarse en el Estado de Baja California, aun cuando los hechos hayan ocurrido en otra Entidad Federativa, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+
+Para efectos de lo anterior, y con el propósito de garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección, las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial del Estado podrán celebrar convenios de colaboración entre sí o con las autoridades administrativas, fiscalías y poderes judiciales de las demás entidades federativas o de la federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 26 QUÁTER. Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 I. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 II. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado de Baja California. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública municipal. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público.
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 III. Proporcionar a las mujeres, adolescentes o las niñas, en situación de violencia y a las victimas indirectas alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 IV. De requerirse brindar apoyo económico para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones de salud estatal para que provean gratuitamente y de manera inmediata los servicios de:
 
@@ -799,67 +861,129 @@ b) anticoncepción de emergencia, y;
 
 c) interrupción legal y voluntaria del embarazo en el caso de violación.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VI. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 VII. Facilitar a la mujer, adolescente o la niña, y en su caso a las víctimas indirectas en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VIII. Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 IX. Reingreso de la mujer y en su caso a las víctimas indirectas en situación de violencia al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee. Para el cumplimiento de esta orden se garantizará el acompañamiento, del Ministerio Público y del personal de la policía ministerial o policía municipal, a la mujer en situación de violencia para acceder al domicilio, lugar de trabajo u otro, con el propósito de recuperar sus pertenencias personales y en su caso las de las víctimas indirectas, en cualquier caso, podrá ser acompañada de una persona de su confianza. En caso de que no haya personal ministerial disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública municipal que garantice la seguridad de la mujer.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 X. Protección policíaca permanente a la mujer, o la niña, así como a su familia y/o víctimas indirectas;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 XI. Protección por seguridad privada, en los casos que sea necesario;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 XII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 XIII. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 XIV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso a las víctimas indirectas;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 XV. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 XVI. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 XVII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
 
-XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad; y,
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XIX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer, adolescente o la niña en situación de violencia.
+XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad;
 
-Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+XIX. En casos de peligro inminente o extrema urgencia, el Ministerio Público bajo su más estricta responsabilidad, podrá determinar la desocupación inmediata por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo; y,
 
-Artículo 26 QUINQUIES. Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer, adolescente o la niña en situación de violencia.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Las medidas u órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 26 QUINQUIES. Las medidas u órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 III. La recuperación y entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieren cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre en términos de lo establecido en el artículo 6 fracción IX de la presente Ley;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 IV. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 V. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VI. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, adolescente o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 VII. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 VIII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 IX. Obligación alimentaria provisional e inmediata;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 X. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres;
 
 Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas.
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 XI. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 XII. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
 
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
+
 XIII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza; y,
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2023)</small>
 
 XIV. Las demás que se requieran para brindar una protección a la víctima.
 
@@ -867,21 +991,21 @@ XIV. Las demás que se requieran para brindar una protección a la víctima.
 
 Artículo 26 SEXIES. La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-Artículo 26 SEPTIES. Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+Artículo 26 SEPTIES. Las medidas u órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
 
-Previo a la suspensión de las órdenes de protección decretadas, las autoridades administrativas, ministeriales y órganos jurisdiccionales deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+Previo a la suspensión de las medidas u órdenes de protección decretadas, las autoridades administrativas, ministeriales y órganos jurisdiccionales deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 Artículo 26 OCTIES. En los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o de cualquier otra que tenga registrada.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-Artículo 26 NONIES. Al momento de dictarse sentencia las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
+Artículo 26 NONIES. Al momento de dictarse sentencia las autoridades judiciales competentes determinarán las medidas u órdenes de protección que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
 
-Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+Las medidas u órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar las medidas u órdenes de protección, aun cuando no exista una solicitud.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -893,19 +1017,23 @@ Las autoridades que intervengan en el cumplimiento de una orden, también serán
 
 Artículo 26 UNDECIES. A ninguna mujer, adolescente o niña; y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 26 DUODECIES. Las medidas u órdenes de protección deberán ser registradas en la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 26 TERDECIES. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado deberá solicitar las medidas u órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
-
-Artículo 26 DUODECIES. Las órdenes de protección deberán ser registradas en la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
-
-Artículo 26 TERDECIES. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
 
 En el caso de que las víctimas o víctimas indirectas sean personas menores de dieciocho años, las autoridades administrativas, el Ministerio Público o los órganos jurisdiccionales tendrán en cuenta los principios del interés superior de las niñas, niños y adolescentes, la prevalencia de sus derechos, su protección integral y los derechos consagrados en la Constitución, en los Tratados, así como los previstos en la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California y en la presente Ley.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
-Artículo 26 QUATERDECIES. En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+Artículo 26 QUATERDECIES. En caso de que la persona agresora incumpla la medida u orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
 Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres, adolescentes y niñas.
 
@@ -1009,9 +1137,11 @@ Artículo 29 TER. Es obligación de las autoridades que emitan las medidas de pr
 
 En el caso de la o las personas agresoras, éstos deberán participar obligatoriamente en los programas de reeducación integral, así como acatar cualquiera de las medidas de protección impuestas por la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2025)</small>
 
-## TÍTULO TERCERO. SISTEMA ESTATAL Y PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+## TÍTULO TERCERO
+
+DEL SISTEMA ESTATAL, DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, Y DEL PROGRAMA INSTITUCIONAL EN BENEFICIO DE LAS MUJERES
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1031,7 +1161,9 @@ El Sistema estará integrado por las personas titulares de:
 
 I. La Secretaría General de Gobierno, quien lo presidirá;
 
-II. El Instituto de la Mujer para el Estado, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+II. La Secretaría de las Mujeres, que ejercerá las funciones de una Secretaría Técnica;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -1203,21 +1335,33 @@ XI. Realizar estudios sobre los efectos de la violencia y la discriminación int
 
 XII. Difundir la oferta institucional de servicios especializados que brinden los Centros de Justicia para las Mujeres.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2025)</small>
+
+### CAPÍTULO III. DEL PROGRAMA INSTITUCIONAL EN BENEFICIO DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 35 BIS. El Programa Institucional en beneficio de las Mujeres, es el instrumento elaborado por la Secretaría de las Mujeres que contiene las acciones que, en forma planeada y coordinada, deberán realizarse en beneficio de las mujeres en las dependencias y entidades de la Administración Pública del Poder Ejecutivo, en los Poderes Legislativo y Judicial, y en los Órganos Autónomos.
+
+El Programa se elaborará con base en programas relativos a la mujer que emanen de los Gobiernos Federal y Estatal en esta materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 35 TER. En la elaboración del Programa Institucional a que hace referencia el artículo anterior, la Secretaría de las Mujeres consultará a los sectores público, privado y social, tales como organizaciones no gubernamentales, asociaciones civiles e instituciones académicas y de investigación, así como a los municipios del Estado; de manera que escuche las problemáticas y acciones que le comuniquen los diversos sectores de la sociedad.
+
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
-
-### CAPÍTULO I. GENERALIDAD DE COMPETENCIAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO II. DEL PODER EJECUTIVO DEL ESTADO
+### CAPÍTULO I. GENERALIDAD DE COMPETENCIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 36.
 
-Para la efectiva aplicación de la Ley, las dependencias, entidades del Gobierno del Estado, el Poder Legislativo y el Judicial, y demás órganos, establecerán una coordinación con perspectiva de género, promoviendo la eficiencia en la prestación de sus servicios. Participarán la Secretaría General de Gobierno, Bienestar, Salud, Educación, Trabajo y Previsión Social, Cultura, Inclusión Social e Igualdad de Género, el Instituto de la Mujer para el Estado, Centro de Justicia para las Mujeres del Estado de Baja California, la Secretaría de Seguridad Ciudadana, la Fiscalía General del Estado, así como los Gobiernos Municipales del Estado.
+Para la efectiva aplicación de la Ley, las dependencias, entidades del Gobierno del Estado, el Poder Legislativo y el Judicial, y demás órganos, establecerán una coordinación con perspectiva de género, promoviendo la eficiencia en la prestación de sus servicios. Participarán las Secretarías General de Gobierno, Bienestar, Salud, Educación, Trabajo y Previsión Social, Cultura, Inclusión Social, Mujeres, Centro de Justicia para las Mujeres del Estado de Baja California, la Secretaría de Seguridad Ciudadana, la Fiscalía General del Estado, así como los Gobiernos Municipales del Estado.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1253,7 +1397,7 @@ II. Ser atendidas con prontitud y diligencia cuando estén solicitando ante cual
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO III. DEL PODER LEGISLATIVO
+### CAPÍTULO II. DEL PODER EJECUTIVO DEL ESTADO
 
 ###### Artículo 38.
 
@@ -1311,9 +1455,9 @@ XVIII. Certificar a los Centros de Justicia para las Mujeres de Baja California;
 
 XIX. Todas aquellas que se requieran para tener un Estado libre de violencia de género, en cumplimiento de la presente Ley y las demás disposiciones vigentes.
 
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-Artículo 38 BIS. Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, deberán proporcionar datos obtenidos de la atención que presenten en Refugios y Centros, los cuales el Instituto de la Mujer para el Estado en coordinación con la Secretaría de Seguridad Ciudadana valorarán y analizarán para remitir la información que deba integrarse a la Base Estatal.
+Artículo 38 BIS. Las Organizaciones de la Sociedad Civil especializadas en atención a mujeres víctimas de violencia, deberán proporcionar datos obtenidos de la atención que presenten en Refugios y Centros, los cuales la Secretaría de las Mujeres en coordinación con la Secretaría de Seguridad Ciudadana valorarán y analizarán para remitir la información que deba integrarse a la Base Estatal.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2019)</small>
 
@@ -1331,9 +1475,11 @@ Corresponderá a la Secretaría de Educación, en su ámbito de acción, el impl
 
 Asimismo, la Secretaría de Educación deberá eliminar de los programas educativos estatales los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### Artículo 40.
 
-Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ejecutar políticas y programas de promoción de los derechos humanos de las mujeres y el desarrollo integral de sus capacidades y habilidades en su desempeño laboral. Incorporando en la supervisión de las condiciones laborales de los centros de trabajo, la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, capacitación, ascenso y permanencia de las mujeres, poniendo énfasis en la información sobre las conductas que encuadren en violencia laboral y promoviendo su erradicación.
+Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ejecutar políticas y programas de promoción de los derechos humanos de las mujeres y el desarrollo integral de sus capacidades y habilidades en su desempeño laboral. Incorporando en la supervisión de las condiciones laborales de los centros de trabajo, la vigilancia en el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, capacitación, ascenso y permanencia de las mujeres, poniendo énfasis en la información sobre las conductas que encuadren en violencia laboral y brecha salarial de género, a efecto de promover su erradicación.
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1341,7 +1487,9 @@ Corresponderá a la Secretaría del Trabajo y Previsión Social el formular y ej
 
 Corresponderá a la Secretaría de Salud:
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género e inclusión, la política de prevención, atención y erradicación de la violencia en su contra;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género e inclusión, la política de prevención, atención y erradicación de la violencia en su contra, para lo cual tomará en cuenta la información contenida en el Registro Nacional;
 
 II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas y víctimas indirectas;
 
@@ -1439,17 +1587,23 @@ XI. Proporcionar la información que soliciten a través de los portales de acce
 
 XII. Diseñar, con una visión transversal e interseccional, la política integral con perspectiva de protección a la mujer orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XIII. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro y en la Base Estatal; y,
+XIII. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro y en la Base Estatal;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-XIV. Las demás que determinen las leyes.
+XIV. Cumplir con las facultades y responsabilidades que le correspondan y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XV. Las demás que determinen las leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 43.
 
-Al Instituto de la Mujer para el Estado de Baja California, le corresponderá:
+A la Secretaría de las Mujeres del Estado de Baja California, le corresponderá:
 
 I. La elaboración del Programa Estatal, que deberá ser sometido a consideración del Sistema;
 
@@ -1497,13 +1651,17 @@ XV. Fortalecer los refugios existentes de atención para víctimas directas e in
 
 XVI. Celebrar convenios de cooperación, coordinación y concertación con empresas, organizaciones patronales y sindicatos, para promover los derechos de las mujeres en los ámbitos público y privado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XVII. Impulsar la creación de unidades o módulos especializados de atención y protección a las víctimas de violencia, y
+XVII. Impulsar la creación de unidades o módulos especializados de atención y protección a las víctimas de violencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XVIII. Conforme a lo previsto por la Ley General, dar seguimiento a las solicitudes de alerta de violencia de género.
+XVIII. Conforme a lo previsto por la Ley General, dar seguimiento a las solicitudes de alerta de violencia de género; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XIX. Difundir información sobre el funcionamiento y aprovechamiento del Registro Nacional, así como cumplir con las facultades y responsabilidades que le correspondan y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1559,13 +1717,27 @@ VII. Diseñar y establecer, un modelo de seguridad, basado en igualdad con persp
 
 VIII. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-IX. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia; y,
+IX. Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VIII], P.O. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-X. Las demás que le atribuyan otros ordenamientos legales en materia.
+X. Implementar de manera directa e inmediata dentro de su ámbito competencial, las medidas u órdenes de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la presentación de una denuncia o querella.
+
+Tratándose de delitos relacionados con violencia de género contra las mujeres, la información deberá incorporarse al Registro Nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XI. Coadyuvar con la Secretaría de las Mujeres para el cumplimiento de las funciones previstas con relación al Registro Nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XII. Integrar, procesar y actualizar la información para el Registro Nacional, en términos que establezcan los lineamientos correspondientes; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XIII. Las demás que le atribuyan otros ordenamientos legales en (sic) materia.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
@@ -1603,9 +1775,7 @@ Se celebrarán convenios de colaboración con la Fiscalía General del Estado, P
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO IV. DEL PODER JUDICIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
+### CAPÍTULO III. DEL PODER LEGISLATIVO
 
 ###### Artículo 45.
 
@@ -1623,7 +1793,7 @@ V. Todas aquellas que se requieran en el ámbito de sus facultades o competencia
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO V. DE LOS MUNICIPIOS
+### CAPÍTULO IV. DEL PODER JUDICIAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1659,9 +1829,9 @@ IX. Las demás que le atribuyan otros ordenamientos legales.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO V. DE LOS MUNICIPIOS
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2023)</small>
 
 ###### Artículo 47.
 
@@ -1703,13 +1873,17 @@ XIV. Realizar una evaluación de su reglamentación en materia de género y prom
 
 XV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XVI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres; y,
+XVI. Realizar las acciones necesarias para implementar las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 9 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-XVII. La atención de los demás asuntos que en materia de prevención, atención, sanción o erradicación de la violencia contra las mujeres que les conceda la Ley y su reglamentación interior.
+XVII. Cumplir con las facultades y responsabilidades que le correspondan y que se derivan de la operación del Registro Nacional, en términos de lo dispuesto en la Ley General del Sistema Nacional de Seguridad Pública y la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XVIII. La atención de los demás asuntos que en materia de prevención, atención, sanción o erradicación de la violencia contra las mujeres que les conceda la Ley y su reglamentación interior.
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2023)</small>
 
@@ -1717,15 +1891,19 @@ XVII. La atención de los demás asuntos que en materia de prevención, atenció
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO II. DEL REGISTRO PÚBLICO DE AGRESORES SEXUALES
+### CAPÍTULO I. DE LAS RESPONSABILIDADES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2022)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
 Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las leyes en la materia.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 9 DE JUNIO DE 2023)</small>
+
+### CAPÍTULO II. DEL REGISTRO PÚBLICO DE AGRESORES SEXUALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 49.
 
@@ -2040,3 +2218,11 @@ P.O. 25 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 86 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con salvedad de lo dispuesto en el siguiente párrafo.
+
+Las reformas a los artículos 32, 35 BIS, 35 TER, 36, 38 BIS, 43 y a la denominación del Título Tercero, así como la adición de un Capítulo III del Título Tercero, para llamarse Capítulo III “del Programa Institucional”, entrarán en vigor el 01 de octubre de 2025.
