@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-capacitacion-en-materia-de-genero-de-prevencion-y-177478
 country: "mx"
 rank: "ley"
 publication_date: "2025-02-07"
-last_updated: "2025-02-07"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=177478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en el Número 10 del Periódico Oficial del Estado de Baja California, el viernes 7 de febrero de 2025.
 
@@ -75,7 +75,9 @@ II. Ente obligado: Los órganos de los poderes Ejecutivo, Legislativo y Judicial
 
 III. Estrategia de Capacitación Obligatoria en materia de Género, de Prevención y Erradicación de la Violencia contra las Mujeres: se refiere a las directrices, principios, metas, objetivos, así como a los elementos mínimos que debe contener el plan de capacitación;
 
-IV. Instituto: Instituto de la Mujer para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+IV. Secretaría: Secretaría de las Mujeres del Estado de Baja California;
 
 V. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
 
@@ -93,19 +95,25 @@ XI. Sistema: Al Sistema Estatal de Prevención, Atención, Sanción y Erradicaci
 
 XII. Violencias contra la mujer: aquellas situaciones o conductas que define la Ley de Acceso de las Mujeres a una Vida de Violencia para el Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 4.
 
-La persona Titular del Poder Ejecutivo Estatal, a través del Instituto, es la autoridad rectora para la implementación, seguimiento y evaluación de la presente Ley.
+La persona Titular del Poder Ejecutivo Estatal, a través de la Secretaría, es la autoridad rectora para la implementación, seguimiento y evaluación de la presente Ley.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE QUIENES DESEMPEÑAN UN SERVICIO PÚBLICO
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 5.
 
-Todas las personas que presten un servicio público, sin importar su rango, jerarquía o modalidad de contratación, tienen la obligación de recibir y acreditar capacitación anualmente, en el modo y forma que establezca el Instituto en coordinación con la Unidad de Género o Instituto Municipal correspondiente en la materia y los términos que establece la presente Ley y su reglamento.
+Todas las personas que presten un servicio público, sin importar su rango, jerarquía o modalidad de contratación, tienen la obligación de recibir y acreditar capacitación anualmente, en el modo y forma que establezca la Secretaría en coordinación con la Unidad de Género o Instituto Municipal correspondiente en la materia y los términos que establece la presente Ley y su reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 6.
 
-La capacitación de las personas titulares de cada uno de los tres Poderes de Estado; Secretarias y Secretarios Titulares de las dependencias de la administración pública estatal centralizada y descentralizada, de los Ayuntamientos y de las y los Titulares de los Organismos Constitucionales Autónomos y de los altos mandos, estará a cargo del Instituto en coordinación con la Unidad de Género o Instituto Municipal correspondiente.
+La capacitación de las personas titulares de cada uno de los tres Poderes de (sic) Estado; Secretarias y Secretarios Titulares de las dependencias de la administración pública estatal centralizada y descentralizada, de los Ayuntamientos y de las y los Titulares de los Organismos Constitucionales Autónomos y de los altos mandos, estará a cargo de la Secretaría en coordinación con la Unidad de Género o Instituto Municipal correspondiente.
 
 Tratándose de órganos colegiados, todas las personas integrantes estarán obligadas conforme al párrafo anterior.
 
@@ -113,9 +121,11 @@ Tratándose de órganos colegiados, todas las personas integrantes estarán obli
 
 Las personas servidoras públicas o que presten servicios profesionales a la Administración Pública Estatal, Municipal y Organismos Constitucionales Autónomos tienen la obligación de desempeñarse con estricto apego a la protección de la dignidad de las mujeres y de promover una cultura incluyente, respetuosa de los principios reconocidos en el artículo 2 de esta Ley, en el desempeño de sus funciones y dentro del ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 8.
 
-Toda persona servidora pública o prestadora de servicios profesionales que recién inicie su encargo tendrá un plazo de 90 días naturales para tomar la capacitación. En caso de solicitarlos y no recibirlo deberá dar aviso al Instituto. En el caso de las personas que sean servidoras públicas o presten sus servicios en el Poder Ejecutivo, Legislativo, Judicial, Ayuntamientos o en los Organismos Constitucionalmente Autónomos, esta notificación será a través de la Unidad de Género de cada ente obligado o el Instituto Municipal que corresponda.
+Toda persona servidora pública o prestadora de servicios profesionales que recién inicie su encargo tendrá un plazo de 90 días naturales para tomar la capacitación. En caso de solicitarlos y no recibirlo deberá dar aviso a la Secretaría. En el caso de las personas que sean servidoras públicas o presten sus servicios en el Poder Ejecutivo, Legislativo, Judicial, Ayuntamientos o en los Organismos Constitucionalmente Autónomos, esta notificación será a través de la Unidad de Género de cada ente obligado o el Instituto Municipal que corresponda.
 
 ### CAPÍTULO III. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -123,9 +133,11 @@ Toda persona servidora pública o prestadora de servicios profesionales que reci
 
 Los Poderes Ejecutivo, Judicial y Legislativo, los Ayuntamientos y Organismos Constitucionalmente Autónomos, ejercerán sus atribuciones en materia de capacitación obligatoria en materia de género, prevención y erradicación de todo tipo de violencia contra las mujeres, de conformidad con la distribución de competencias prevista en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 10.
 
-Son facultades del Instituto:
+Son facultades de la Secretaría:
 
 I. Proponer al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia en contra de las Mujeres previsto por el Capítulo I del Título Tercero de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California, la Estrategia Estatal de Capacitación Obligatoria en Materia de Género, de Prevención y Erradicación de todos los tipos de violencia contra las Mujeres y su programa;
 
@@ -149,13 +161,17 @@ X. Identificar a las personas responsables de cumplir con las obligaciones de ca
 
 XI. Proponer a la persona Titular del Poder Ejecutivo Estatal el reglamento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 11.
 
-El Instituto rendirá cada año, un Informe general, pormenorizado, por ente obligado sobre el cumplimiento de lo dispuesto en la presente Ley ante el Congreso del Estado. Para la elaboración de este Informe, las Unidades de Género e Institutos Municipales de cada ente obligado deberán enviarle un Informe anual con las mismas características, según lo determine el reglamento.
+La Secretaría rendirá cada año, un Informe general, pormenorizado, por ente obligado sobre el cumplimiento de lo dispuesto en la presente Ley ante el Congreso del Estado. Para la elaboración de este Informe, las Unidades de Género e Institutos Municipales de cada ente obligado deberán enviarle un Informe anual con las mismas características, según lo determine el reglamento.
 
 Asimismo, publicará este Informe en su página electrónica oficial en formato de datos abiertos el día hábil siguiente a su presentación ante el Congreso del Estado.
 
-Además de los indicadores cuantitativos, el Instituto elaborará indicadores de evaluación sobre el impacto de las capacitaciones realizadas por cada ente obligado. Los resultados deberán integrar el Informe anual referido en el presente artículo.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Además de los indicadores cuantitativos, la Secretaría elaborará indicadores de evaluación sobre el impacto de las capacitaciones realizadas por cada ente obligado. Los resultados deberán integrar el Informe anual referido en el presente artículo.
 
 ###### ARTÍCULO 12.
 
@@ -191,13 +207,17 @@ V. Diseñar los planes de trabajo y de capacitación del ente obligado conforme 
 
 VI. Verificar que en los programas y acciones del ente obligado cuenten con perspectiva de género.
 
-Para efectos de la fracción I de este artículo las Unidades de Género de los entes obligados, con apoyo del Instituto podrán realizar adaptaciones de los materiales y/o programas que desarrolle este último, debiendo obtener el visto bueno del Instituto para su utilización.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Para efectos de la fracción I de este artículo las Unidades de Género de los entes obligados, con apoyo de la Secretaría podrán realizar adaptaciones de los materiales y/o programas que desarrolle este último, debiendo obtener el visto bueno de la Secretaría para su utilización.
 
 ### CAPÍTULO V. RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 14.
 
-El Instituto hará pública y difundirá en su sitio oficial de internet, los nombres y cargos de las personas que, sin causa justificada, se nieguen a participar, en los plazos convocados, en la capacitación obligatoria en materia de género, prevención y erradicación de las violencias contra las mujeres que mandata esta Ley. Las Unidades de Género e Institutos Municipales se encargarán de hacer la misma publicación en sus respectivos ámbitos de competencia, además de informar en un término de 10 días siguientes al término de los plazos de capacitación al Instituto las personas que no se han capacitado.
+La Secretaría hará pública y difundirá en su sitio oficial de internet, los nombres y cargos de las personas que, sin causa justificada, se nieguen a participar, en los plazos convocados, en la capacitación obligatoria en materia de género, prevención y erradicación de las violencias contra las mujeres que mandata esta Ley. Las Unidades de Género e Institutos Municipales se encargarán de hacer la misma publicación en sus respectivos ámbitos de competencia, además de informar en un término de 10 días siguientes al término de los plazos de capacitación a la Secretaría las personas que no se han capacitado.
 
 ###### ARTÍCULO 15.
 
@@ -250,3 +270,11 @@ GOBERNADORA DEL ESTADO DE BAJA CALIFORNIA
 ALFREDO ÁLVAREZ CÁRDENAS
 
 SECRETARIO GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor el primero de octubre de dos mil veinticinco.
