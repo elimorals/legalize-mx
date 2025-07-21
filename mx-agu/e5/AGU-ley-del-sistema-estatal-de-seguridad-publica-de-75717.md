@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2025-07-14"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -107,9 +107,11 @@ VII.- Fomentar la participación social activa en materia de seguridad pública.
 
 El Estado y los municipios en coordinación con la Federación, desarrollarán políticas de prevención social de las violencias y del delito con carácter integral, sobre las causas estructurales que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas de la violencia y el delito. El desarrollo de dichas políticas debe incluir la participación de sus habitantes, promoviendo en el ámbito de su competencia, acciones de coordinación con los sectores público, social y privado.
 
-###### Artículo 3º.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+###### Artículo 3°.
+
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, de Procuración de Justicia, de las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas u órdenes de protección para mujeres, adolescentes, niñas y niños y de medidas cautelares, de suspensión condicional del procedimiento de los responsables de la prisión preventiva y ejecución de penas, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
 ###### Artículo 4º.
 
@@ -237,9 +239,7 @@ XXVI. Red Nacional: A la Red Integrada Nacional de Radiocomunicación.
 
 Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional. Su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos previstos en la Constitución Federal y en los instrumentos internacionales aplicables en la materia. Deberán fomentar la participación ciudadana y la rendición de cuentas en términos de Ley.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
-
-La función de seguridad pública se realizará, en los diversos ámbitos de competencia de las autoridades, por conducto de las Instituciones Policiales y de Procuración de Justicia, de los responsables de la prisión preventiva y ejecución de sentencias.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -317,13 +317,21 @@ XIX. Proporcionar información a la ciudadanía para enfrentar los problemas der
 
 XX. Apoyar la organización, sistematización y el intercambio de experiencias exitosas, investigación académica y aplicación práctica de conocimientos basados en evidencias en el combate al delito;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XXI. Ejecutar los acuerdos del Consejo de manera inmediata, respecto de las solicitudes de medidas de seguridad y protección establecidas en el artículo 61 de la Constitución Política del Estado de Aguascalientes; y
+XXI. Ejecutar los acuerdos del Consejo de manera inmediata, respecto de las solicitudes de medidas de seguridad y protección establecidas en el artículo 61 de la Constitución Política del Estado de Aguascalientes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-XXII. Las demás atribuciones específicas que se establezcan en esta Ley.
+XXII. Generar, compartir, intercambiar, ingresar, almacenar y proveer información, archivos y contenidos a las Bases de Datos que integran el Sistema Nacional de Información, de conformidad con lo dispuesto en la legislación en la materia.
+
+Tratándose de manejo de datos que provengan del Registro Nacional de Detenciones se atenderá a lo dispuesto en la Ley Nacional del Registro de Detenciones;
+
+Tratándose de los datos relacionados con el otorgamiento, ejecución, implementación y seguimiento de medidas u órdenes de protección, también se estará a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y en el Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XXIII. Las demás atribuciones específicas que se establezcan en esta Ley.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -409,9 +417,17 @@ VI. El Delegado Estatal de la Fiscalía General de la República;
 
 VII. El Coordinador Estatal de la Guardia Nacional;
 
-VIII. Un presidente municipal designado por acuerdo de los municipios; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-IX. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+VIII. Un presidente municipal designado por acuerdo de los municipios;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+IX. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+
+X. La persona que ocupe la Presidencia de la Comisión de Seguridad Pública del Congreso del Estado
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -427,9 +443,9 @@ El Magistrado Presidente del Supremo Tribunal de Justicia del Estado podrá asis
 
 Podrá invitarse a autoridades, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-El Presidente de la Comisión Estatal de Derechos Humanos, el Delegado del Centro de Inteligencia y Seguridad Nacional y el Presidente de la Comisión de Seguridad Pública del Congreso del Estado serán invitados permanentes del Consejo, con derecho a voz, pero sin voto.
+El Presidente de la Comisión Estatal de Derechos Humanos y el Delegado del Centro de Inteligencia y Seguridad Nacional, serán invitados permanentes del Consejo, con derecho a voz, pero sin voto.
 
 ### CAPÍTULO III. Atribuciones del Consejo Estatal de Seguridad Pública
 
@@ -583,11 +599,17 @@ VII. Destinar los fondos de ayuda federal para la seguridad pública exclusivame
 
 VIII. Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del país;
 
-IX. Determinar la participación de la comunidad y de instituciones académicas para coadyuvar en los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P. O. 25 DE JUNIO DE 2018)</small>
+IX. Determinar la participación de la comunidad y de instituciones académicas para coadyuvar en los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
 
-X. Fortalecer las remuneraciones y prestaciones de los integrantes de las Instituciones Policiales del Estado y de los municipios, así como los sistemas de seguridad social de los servidores públicos, sus familias y dependientes.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+X. Fortalecer las remuneraciones y prestaciones de los integrantes de las Instituciones Policiales del Estado y de los municipios, así como los sistemas de seguridad social de los servidores públicos, sus familias y dependientes; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XI. Garantizar el cumplimiento de las disposiciones en materia de medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 22.
 
@@ -979,6 +1001,10 @@ II. Preservar la secrecía de los asuntos que por razón del desempeño de su fu
 
 III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 JULIO DE 2025)</small>
+
+Tratándose de las mujeres, adolescentes, niñas y niños víctimas, el auxilio se prestará con perspectiva de género y con la debida diligencia, lo cual implica actuar oportunamente y salvaguardando en todo momento su seguridad para evitar el contacto del o las personas agresoras. Las acciones para su resguardo y protección se implementarán de conformidad con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales;
+
 IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
 V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la Seguridad Pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
@@ -1069,13 +1095,17 @@ a) Recibir denuncias sobre hechos que puedan ser constitutivos de delito e infor
 
 b) Proporcionar atención a víctimas, ofendidos y testigos del delito;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XL. Hacer uso de la fuerza pública dentro de los límites y en los casos y circunstancias que establece la presente Ley, las demás disposiciones legales aplicables y procedimientos previamente establecidos, así como los lineamientos, manuales y acuerdos que al efecto expidan las Instituciones de Seguridad Pública; y
+XL. Hacer uso de la fuerza pública dentro de los límites y en los casos y circunstancias que establece la presente Ley, las demás disposiciones legales aplicables y procedimientos previamente establecidos, así como los lineamientos, manuales y acuerdos que al efecto expidan las Instituciones de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-XLI. Las demás que establezcan el Código y otras disposiciones legales o reglamentarias aplicables.
+XLI. Proporcionar y cumplimentar medidas u órdenes de protección de las mujeres, adolescentes y niñas en términos de lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XLII. Las demás que establezcan el Código y otras disposiciones legales o reglamentarias aplicables.
 
 ###### Artículo 42.
 
@@ -1477,7 +1507,9 @@ c) Los actos que se deban realizar de forma inmediata; o
 
 d) La comisión de un delito en flagrancia.
 
-II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas en los respectivos ámbitos de competencia, y realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+II. Prevención, que será la encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción, así como proporcionar medidas u órdenes de protección inmediatas en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
 
 III. Proximidad social, como una actividad auxiliar a las funciones de prevención, a través de la proactividad y la cooperación con otros actores sociales, bajo una política de comunicación y colaboración interna e interinstitucional que fortalezca la gobernabilidad local y promueva la mediación, como procedimiento voluntario para solucionar pacíficamente conflictos derivados de molestias y problemáticas de la convivencia comunitaria que no constituyan delitos; y
 
@@ -1525,7 +1557,9 @@ XI. Emitir los informes, partes policiales y demás documentos que se generen, c
 
 XII. Proporcionar atención a víctimas, ofendidos o testigos del delito, para tal efecto deberán:
 
-a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+a) Prestar protección y auxilio inmediato, de conformidad con las disposiciones legales aplicables, tratándose de medidas u órdenes de protección inmediata para las mujeres, adolescentes, niñas y niños, se aplicará de manera supletoria con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
 
 b) Procurar que reciban atención médica y psicológica cuando sea necesaria;
 
@@ -1535,7 +1569,9 @@ d) Preservar los indicios y elementos de prueba que la víctima y ofendido aport
 
 e) Asegurar que puedan llevar a cabo la identificación del inculpado sin riesgo para ellos;
 
-XIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tengan conocimiento con motivo de sus funciones; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XIII. Dar cumplimiento a las medidas u órdenes de protección para las mujeres, adolescentes, niñas y niños; a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tenga conocimiento con motivo de sus funciones; y
 
 XIV. Las demás que por ministerio de Ley le sean conferidas.
 
@@ -1869,7 +1905,9 @@ f) Cumplimiento de los deberes establecidos en esta Ley.
 
 La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales.
 
-Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el Programa Rector.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos. En su formulación deberán integrarse de forma transversal las perspectivas de género, interés superior de la niñez, interculturalidad e interseccionalidad, entre otras.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2023)</small>
 
@@ -3008,3 +3046,23 @@ P.O. 14 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 220.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado deberá realizar las modificaciones necesarias al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, en un plazo no mayor a 90 días naturales, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 221.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
