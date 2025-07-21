@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2024-04-01"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2025.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -164,7 +164,7 @@ En los edificios y lugares a que se refiere el primer párrafo del artículo 15 
 
 Las Banderas para los inmuebles a que se refieren los artículos anteriores, tendrán las dimensiones y la conservación adecuadas a su uso y dignidad, y se confiarán al cuidado del personal que para el efecto se designe, el cual vigilará que en las fechas correspondientes sean izadas y arriadas puntualmente, con los honores relativos, en donde fuere posible.
 
-> <small>(REFORMADO, D.O.F. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 18.
 
@@ -172,227 +172,339 @@ En los edificios y lugares a que se refiere el primer párrafo del artículo 15 
 
 I. A toda asta en las fechas y conmemoraciones siguientes:
 
-1. 16 de enero:
+1. 9 de enero:
+
+Conmemoración de la Señora 6 Mono, gobernante mixteca;
+
+2. 16 de enero:
 
 Aniversario del nacimiento de Mariano Escobedo, en 1826;
 
-2. 21 de enero:
+3. 21 de enero:
 
 Aniversario del nacimiento de Ignacio Allende, en 1769;
 
-3. 26 de enero:
+4. 26 de enero:
 
 Aniversario del nacimiento de Justo Sierra Méndez, en 1848;
 
-4. 1 de febrero:
+5. 30 de enero:
+
+Aniversario del nacimiento de Elvia Carrillo Puerto, en 1881;
+
+6. 1o. de febrero:
 
 Apertura del segundo período de sesiones ordinarias del Congreso de la Unión;
 
-5. 5 de febrero:
+7. 5 de febrero:
 
 Aniversario de la promulgación de las Constituciones de 1857 y 1917;
 
-6. 19 de febrero:
+8. 19 de febrero:
 
-"Día del Ejército Mexicano";
+Día del Ejército Mexicano;
 
-7. 24 de febrero:
+9. 24 de febrero:
 
-"Día de la Bandera";
+Día de la Bandera;
 
-8. 1o. de marzo:
+10. 1o. de marzo:
 
 Aniversario de la proclamación del Plan de Ayutla, en 1854;
 
-9. 18 de marzo:
+11. 8 de marzo:
+
+Día Internacional de la Mujer;
+
+12. 14 de marzo:
+
+Aniversario del nacimiento de Matilde Montoya, en 1859;
+
+13. 18 de marzo:
 
 Aniversario de la Expropiación Petrolera, en 1938;
 
-10. 21 de marzo:
+14. 21 de marzo:
 
 Aniversario del nacimiento de Benito Juárez, en 1806;
 
-11. 26 de marzo:
+15. 22 de marzo:
+
+Conmemoración de María Arias Bernal. Funda el Club Lealtad;
+
+16. 26 de marzo:
 
 Día de la Promulgación del Plan de Guadalupe, en 1913;
 
-12. 2 de abril:
+17. 2 de abril:
 
 Aniversario de la Toma de Puebla, en 1867;
 
-13. 1o. de mayo:
+18. 11 de abril:
 
-"Día del Trabajo";
+Aniversario del nacimiento de Gertrudis Bocanegra, en 1765;
 
-14. 5 de mayo:
+19. 19 de abril:
+
+Aniversario del nacimiento de Josefa Ortiz, en 1773;
+
+20. 1o. de mayo:
+
+Día del Trabajo;
+
+21. 5 de mayo:
 
 Aniversario de la Victoria sobre el Ejército Francés en Puebla, en 1862;
 
-15. 8 de mayo:
+22. 8 de mayo:
 
 Aniversario del nacimiento de Miguel Hidalgo y Costilla, iniciador de la Independencia de México, en 1753;
 
-16. 15 de mayo:
+23. 15 de mayo:
 
 Aniversario de la Toma de Querétaro, por las Fuerzas de la República, en 1867;
 
-17. 1o. de junio:
+24. 1o. de junio:
 
-"Día de la Marina Nacional";
+Día de la Marina Nacional y Conmemoración de la Reina Roja, Tz'ak-b'u Ajaw, gobernante maya;
 
-18. 21 de junio:
+25. 2 de junio:
+
+Aniversario del nacimiento de Hermila Galindo Acosta, en 1886;
+
+26. 7 de junio:
+
+Aniversario del nacimiento de Dolores Jiménez y Muro, en 1848;
+
+27. 21 de junio:
 
 Aniversario de la Victoria de las armas nacionales sobre el Imperio, en 1867;
 
-19. 13 de agosto:
+28. 11 de julio:
+
+Conmemoración de Tecuichpo Ixcaxochitzin, mujer cihuapilli mexica;
+
+29. 13 de agosto:
 
 Aniversario de la firma de los Tratados de Teoloyucan, en 1914;
 
-20. 19 de agosto:
+30. 19 de agosto:
 
 Aniversario de la instalación de la Suprema Junta Nacional Americana de Zitácuaro, en 1811;
 
-21. 1o. de septiembre:
+31. 1o. de septiembre:
 
 Apertura del primer período de sesiones ordinarias del Congreso de la Unión;
 
-22. 11 de septiembre:
+32. 5 de septiembre:
+
+Día de las mujeres indígenas y Conmemoración de Xiuhtzatzin, gobernante de Tula;
+
+33. 11 de septiembre:
 
 Aniversario de la Victoria sobre el Ejército Español en Tampico, en 1829;
 
-23. 14 de septiembre:
+34. 14 de septiembre:
 
-Incorporación del estado de Chiapas al Pacto Federal, en 1824;
+Incorporación del estado de Chiapas al Pacto Federal, en 1824 y Día de las Forjadoras Anónimas de la República;
 
-24. 15 de septiembre:
+35. 15 de septiembre:
 
 Conmemoración del Grito de Independencia;
 
-25. 16 de septiembre:
+36. 16 de septiembre:
 
 Aniversario del inicio de la Independencia de México, en 1810;
 
-26. 27 de septiembre:
+37. 27 de septiembre:
 
 Aniversario de la Consumación de la Independencia, en 1821;
 
-27. 30 de septiembre:
+38. 30 de septiembre:
 
 Aniversario del nacimiento de José María Morelos, en 1765;
 
-28. 12 de octubre:
+39. 12 de octubre:
 
-"Día de la Raza" y Aniversario del Descubrimiento de América, en 1492;
+Día de la Raza y Aniversario del Descubrimiento de América, en 1492;
 
-> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2023)</small>
+40. 17 de octubre:
 
-29. 18 de octubre:
+Reconocimiento del derecho de las mexicanas de votar y ser votadas a nivel federal;
+
+41. 18 de octubre:
 
 Aniversario del Natalicio de Servando Teresa de Mier, en 1765;
 
-30. 22 de octubre:
+42. 22 de octubre:
 
 Aniversario de la constitución del Ejército Insurgente Libertador, en 1810;
 
-31. 23 de octubre:
+43. 23 de octubre:
 
-"Día Nacional de la Aviación";
+Día Nacional de la Aviación;
 
-32. 24 de octubre:
+44. 24 de octubre:
 
-"Día de las Naciones Unidas";
+Día de las Naciones Unidas;
 
-33. 30 de octubre:
+45. 30 de octubre:
 
 Aniversario del nacimiento de Francisco I. Madero, en 1873;
 
-34. 6 de noviembre:
+46. 6 de noviembre:
 
 Conmemoración de la promulgación del Acta Solemne de la Declaratoria de Independencia de la América Septentrional por el Primer Congreso de Anáhuac sancionada en el Palacio de Chilpancingo, en 1813;
 
-35. 20 de noviembre:
+47. 11 de noviembre:
+
+Aniversario del nacimiento de Carmen Serdán, en 1873;
+
+48. 12 de noviembre:
+
+Aniversario del nacimiento de Sor Juana Inés de la Cruz, en 1651;
+
+49. 20 de noviembre:
 
 Aniversario del inicio de la Revolución Mexicana, en 1910;
 
-36. 23 de noviembre:
+50. 23 de noviembre:
 
-"Día de la Armada de México";
+Día de la Armada de México;
 
-37. 29 de diciembre:
+51. 29 de diciembre:
 
 Aniversario del nacimiento de Venustiano Carranza, en 1859, y
 
-38. Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión.
+52. Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión, y
 
 II. A media asta en las fechas y conmemoraciones siguientes:
 
-1. 14 de febrero:
+1. 2 de enero:
 
-Aniversario de la muerte de Vicente Guerrero, en 1831;
+Aniversario de la muerte de Margarita Maza, en 1871;
 
-2. 22 de febrero:
+2. 15 de enero:
+
+Aniversario de la muerte de Ignacia Riesch, en 1865;
+
+3. 14 de febrero:
+
+Aniversario de la muerte de Vicente Guerrero, en 1831 y Aniversario de la muerte de Agustina Ramírez, en 1879;
+
+4. 22 de febrero:
 
 Aniversario de la muerte de Francisco I. Madero, en 1913;
 
-3. 28 de febrero:
+5. 28 de febrero:
 
 Aniversario de la muerte de Cuauhtémoc, en 1525;
 
-4. 10 de abril:
+6. 2 de marzo:
+
+Aniversario de la muerte de Josefa Ortiz, en 1829;
+
+7. 10 de abril:
 
 Aniversario de la muerte de Emiliano Zapata, en 1919;
 
-5. 21 de abril:
+8. 16 de abril:
+
+Aniversario de la muerte de Rosario Ibarra, en 2022;
+
+9. 17 de abril:
+
+Aniversario de la muerte de Sor Juana Inés de la Cruz, en 1695;
+
+10. 18 de abril:
+
+Aniversario de la muerte de Elvia Carrillo Puerto, en 1965;
+
+11. 21 de abril:
 
 Aniversario de la gesta heroica de la Defensa del Puerto de Veracruz, en 1914;
 
-6. 2 de mayo:
+12. 2 de mayo:
 
 Conmemoración de la muerte de los pilotos de la Fuerza Aérea Expedicionaria Mexicana, Escuadrón 201, en 1945;
 
-7. 21 de mayo:
+13. 21 de mayo:
 
 Aniversario de la muerte de Venustiano Carranza, en 1920;
 
-8. 22 de mayo:
+14. 22 de mayo:
 
 Aniversario de la muerte de Mariano Escobedo, en 1902;
 
-9. 17 de julio:
+15. 13 de julio:
+
+Aniversario de la muerte de Juana Belén Gutiérrez, en 1942;
+
+16. 16 de julio:
+
+Aniversario de la muerte de María Refugio "Cuca" García, en 1973;
+
+17. 17 de julio:
 
 Aniversario de la muerte del General Álvaro Obregón, en 1928;
 
-10. 18 de julio:
+18. 18 de julio:
 
 Aniversario de la muerte de Benito Juárez, en 1872;
 
-11. 30 de julio:
+19. 30 de julio:
 
 Aniversario de la muerte de Miguel Hidalgo y Costilla, en 1811;
 
-12. 12 de septiembre:
+20. 31 de julio:
+
+Aniversario de la muerte de Sara Pérez Romero, en 1952;
+
+21. 21 de agosto:
+
+Aniversario de la muerte de Leona Vicario, en 1842, y de Carmen Serdán, en 1948;
+
+22. 12 de septiembre:
 
 Conmemoración de la gesta heroica del Batallón de San Patricio, en 1847;
 
-13. 13 de septiembre:
+23. 13 de septiembre:
 
 Aniversario del sacrificio de los Niños Héroes de Chapultepec, en 1847;
 
-> <small>(ADICIONADO, D.O.F. 23 DE MARZO DE 2022)</small>
+24. 19 de septiembre:
 
-14. 19 de septiembre.
+Conmemoración de los sismos de 1985 y 2017;
 
-Conmemoración de los sismos de 1985 y 2017.
+25. 22 de septiembre:
 
-15. 2 de octubre:
+Aniversario de la muerte de Laureana Wright, en 1896;
+
+26. 2 de octubre:
 
 Aniversario de los caídos en la lucha por la democracia de la Plaza de las Tres Culturas en Tlatelolco, en 1968;
 
-16. 7 de octubre:
+27. 7 de octubre:
 
-Conmemoración del sacrificio del senador Belisario Domínguez, en 1913, y
+Conmemoración del sacrificio del senador Belisario Domínguez, en 1913;
 
-17. 22 de diciembre:
+28. 11 de octubre:
+
+Aniversario de la muerte de Gertrudis Bocanegra, en 1817, y de Rita Cetina Gutiérrez, en 1908;
+
+29. 15 de octubre:
+
+Aniversario de la muerte de Dolores Jiménez y Muro, en 1925;
+
+30. 3 de noviembre:
+
+Aniversario de la muerte de Elena Arizmendi, en 1949;
+
+31. 25 de noviembre:
+
+Día Internacional de la eliminación de la violencia contra la mujer, y
+
+32. 22 de diciembre:
 
 Aniversario de la muerte de José María Morelos, en 1815.
 
@@ -1003,3 +1115,9 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES, EN MATERIA DE RECONOCIMIENTO A LAS MUJERES QUE HAN TRANSFORMADO NUESTRA PATRIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
