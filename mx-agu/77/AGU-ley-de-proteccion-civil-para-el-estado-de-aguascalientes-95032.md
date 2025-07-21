@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2024-08-12"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -1317,9 +1317,15 @@ Las Coordinaciones Municipales de Protección Civil previa suscripción de los c
 
 Las infracciones cometidas en violación del presente Capítulo o de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en relación a disposiciones de protección civil, serán sancionadas en los términos de la legislación aplicable.
 
-### CAPÍTULO XIX. Del Financiamiento y Donaciones para Protección Civil
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE JULIO DE 2025)</small>
 
-### CAPÍTULO XX. Del Fondo de Protección Civil
+### CAPÍTULO XVIII BIS. De la Protección Civil en los Centros o Instituciones de Atención de Adicciones
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+ARTÍCULO 116 BIS.- Todas las instituciones o centros que realicen actividades de prevención, tratamiento, atención o reinserción social en materia de adicciones, deberán observar en lo conducente lo dispuesto en el presente Capítulo, y estarán sujetas a las revisiones y sanciones a que hacen referencia los artículos 115 y 148 de la presente Ley.
+
+### CAPÍTULO XIX. Del Financiamiento y Donaciones para Protección Civil
 
 ###### ARTÍCULO 117.
 
@@ -1363,7 +1369,7 @@ Las autoridades estatales o municipales correspondientes, deberán de verificar 
 
 En caso de que alguna autoridad estatal, municipal o servidor público obstaculice, interfiera, desvíe o haga mal uso de los donativos recibidos tanto en efectivo como en especie, será sancionada conforme al Capítulo de sanciones de la presente Ley y el Código Penal para el Estado de Aguascalientes.
 
-### CAPÍTULO XXI. De las Medidas de Seguridad
+### CAPÍTULO XX. Del Fondo de Protección Civil
 
 ###### ARTÍCULO 125.
 
@@ -1393,7 +1399,7 @@ Los recursos del Fondo se erogarán observando los principios de inmediatez, igu
 
 La operación de los recursos del Fondo al ejercerse en fase de emergencia o desastre podrán ser ejecutados por el Comité Técnico de manera directa, previa solicitud que por escrito le formule el Comité Estatal de Emergencias, sujetándose a la fiscalización que realicen los órganos competentes en los términos de ésta y otras legislaciones.
 
-### CAPÍTULO XXII. Detección de Zonas de Riesgo
+### CAPÍTULO XXI. De las Medidas de Seguridad
 
 ###### ARTÍCULO 132.
 
@@ -1425,7 +1431,7 @@ Asimismo las Coordinaciones de Protección Civil y la Secretaría de Gobierno po
 
 Cuando se apliquen las medidas de seguridad previstas en este Capítulo se precisará su temporalidad y en su caso, las acciones para su suspensión.
 
-### CAPÍTULO XXIII. De las Inspecciones
+### CAPÍTULO XXII. Detección de Zonas de Riesgo
 
 ###### ARTÍCULO 135.
 
@@ -1475,7 +1481,7 @@ El Estado deberá de ser dividido en zonas de peligro y riesgo, para todos los f
 
 En caso de asentamientos humanos ya establecidos en zonas de alto riesgo, las autoridades competentes con base en estudios de riesgo específicos, determinarán la realización de obras de infraestructura que sean necesarias para mitigar el riesgo a que están expuestas o, de ser el caso deberán de formular un plan a fin de determinar cuáles de ellos deben ser reubicados o remitidos a un albergue, proponiendo mecanismos financieros que permitan esta acción. Lo anterior se hará conforme a lo que se establezca en el Reglamento de esta Ley.
 
-### CAPÍTULO XXIV. De las Sanciones
+### CAPÍTULO XXIII. De las Inspecciones
 
 ###### ARTÍCULO 144.
 
@@ -1506,6 +1512,8 @@ IX. Los inspectores en el ejercicio de sus funciones, tendrán libre acceso a lo
 ###### ARTÍCULO 146.
 
 Transcurrido el plazo a que se refiere la Fracción VI del Artículo anterior, la autoridad que ordenó la inspección calificará las actas dentro del término de cinco días hábiles, considerando la gravedad de la infracción. Pasando el término anterior, se expedirá resolución debidamente fundada y motivada en donde se enumeren las anomalías e incorrecciones en las medidas de seguridad, las circunstancias en que hubieren ocurrido haciendo una valoración de las pruebas aportadas y los alegatos formulados, y en su caso, deberá dictar resolución en la que establezca entre otras cosas la obligación para que se corrijan las observaciones que deberá atender él o los responsables y las sanciones a aplicar.
+
+### CAPÍTULO XXIV. De las Sanciones
 
 ###### ARTÍCULO 147.
 
@@ -1688,3 +1696,11 @@ P.O. 12 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 222.- SE REFORMA LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+– El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
