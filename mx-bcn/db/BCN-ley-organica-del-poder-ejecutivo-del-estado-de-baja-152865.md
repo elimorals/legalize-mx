@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2025-05-30"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -349,6 +349,8 @@ La creación y organización de los Órganos Desconcentrados debe atender a los 
 
 ### CAPÍTULO II. DE LAS DEPENDENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 30.
 
 Para el estudio, planeación, despacho y ejecución de los asuntos de la Administración Pública, auxiliarán a la Persona Titular del Poder Ejecutivo las dependencias siguientes:
@@ -365,7 +367,9 @@ V. Consejería Jurídica;
 
 VI. Secretaría de Bienestar;
 
-VII. Secretaría de Inclusión Social e Igualdad de Género;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VII. Secretaría de Inclusión Social;
 
 VIII. Secretaría de Educación;
 
@@ -393,9 +397,17 @@ XVIII. Secretaría de la Honestidad y la Función Pública;
 
 XIX. Secretaría de Cultura;
 
-XX. Dirección del Registro Público de la Propiedad y del Comercio; y,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
 
-XXI. Dirección de Comunicación Social.
+XX. Secretaría de las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XXI. Dirección del Registro Público de la Propiedad y del Comercio; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XXII. Dirección de Comunicación Social.
 
 ### CAPITULO III. DE LA COMPETENCIA DE LAS DEPENDENCIAS
 
@@ -453,7 +465,7 @@ XXIV. Promover y garantizar la generación de información pública, la rendici�
 
 XXV. Coordinar, orientar y dar seguimiento, en el ámbito de su competencia, a los compromisos asumidos por el Estado Mexicano en materia de derechos humanos, vinculando acciones de protección, defensa, respeto y capacitación en las diferentes dependencias de la Administración Pública;
 
-XXVI. Formular y supervisar, en el ámbito de su competencia, la política de prevención, protección y atención para el cumplimiento de una vida libre de violencia por cuestión de género y promover una cultura de paz y legalidad mediante programas que refuercen la igualdad, en coordinación con las dependencias de la Administración Pública, gobiernos municipales, instituciones públicas y privadas, y demás autoridades competentes;
+XXVI. (DEROGADA, P.O. 21 DE JULIO DE 2025)
 
 XXVII. Diseñar e instrumentar programas para la atención integral de víctimas y coadyuvar en la celebración de acuerdos de colaboración con otras instituciones del sector público y privado, que contribuyan a prevenir y eliminar la discriminación o vulnerabilidad de grupos sociales;
 
@@ -869,55 +881,89 @@ XXXIII. Impulsar programas en apoyo a los organismos de la sociedad civil, así 
 
 XXXIV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 37.
 
-La Secretaría de Inclusión Social e Igualdad de Género tendrá las atribuciones y obligaciones siguientes:
+La Secretaría de Inclusión Social tendrá las atribuciones y obligaciones siguientes:
 
-I. Proponer, dirigir, promover, ejecutar y evaluar la política estatal en materia de inclusión social y equidad de género, y fungir como dependencia rectora de dicha política;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-II. Coordinar la elaboración del Programa Estatal de Inclusión Social e Igualdad de Género, con las dependencias y entidades paraestatales de la Administración Pública, Ayuntamientos, miembros de la sociedad civil, sector privado, instituciones académicas y grupos de interés;
+I. Proponer, dirigir, promover, ejecutar y evaluar la política estatal en materia de inclusión social, y fungir como dependencia rectora de dicha política;
 
-III. Realizar estudios y diagnósticos, para identificar y ubicar geográficamente a grupos y personas en situación vulnerable, y violencia de género para realizar acciones de intervención y creación o adecuación de políticas públicas para su atención, para lo cual podrá solicitar de las autoridades federales, estatales y municipales, la información que se requiera, incluyendo los diagnósticos que se hayan realizado;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-IV. Elaborar, lineamientos y protocolos de atención, manejo e intervención dirigidos a las dependencias y entidades paraestatales de la Administración Pública, que contribuyan a la erradicación de cualquier manifestación de discriminación, y promuevan la inclusión social, la igualdad y equidad de género;
+II. Coordinar la elaboración del Programa Estatal de Inclusión Social, con las dependencias y entidades paraestatales de la Administración Pública, Ayuntamientos, personas integrantes de la sociedad civil, sector privado, instituciones académicas y grupos de interés;
 
-V. Promover, fomentar, implementar y ejecutar políticas y programas generales para difundir y proteger los derechos relacionados con la equidad de género y la inclusión social de grupos vulnerables y de diversidad sexual;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-VI. Promover la incorporación estratégica y transversal de los derechos humanos, perspectiva de género e inclusión social en el Plan Estatal de Desarrollo y el Presupuesto de Egresos del Estado, desde un enfoque multidisciplinario;
+III. Realizar estudios y diagnósticos, para identificar y ubicar geográficamente a grupos y personas en situación vulnerable, para realizar acciones de intervención y creación o adecuación de políticas públicas para su atención, para lo cual podrá solicitar de las autoridades federales, estatales y municipales, la información que se requiera, incluyendo los diagnósticos que se hayan realizado;
 
-> <small>(REFORMADA, P.O. 31 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-VII. Impulsar el empoderamiento de las mujeres, así como personas adultas mayores, personas con discapacidad, y personas miembros de los pueblos y comunidades indígenas, así como afromexicanas, en cuanto a su participación, promoción y capacitación en la toma de decisiones y en áreas de emprendimiento, en coordinación con las dependencias y entidades paraestatales de la Administración Pública;
+IV. Elaborar lineamientos y protocolos de atención, manejo e intervención dirigidos a las dependencias y entidades paraestatales de la Administración Pública, que contribuyan a la erradicación de cualquier manifestación de discriminación, y promuevan la inclusión social;
 
-VIII. Proponer la creación de refugios seguros para víctimas de la violencia en términos de la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado, así como participar en la evaluación del funcionamiento del Centro de Justicia para las Mujeres del Estado de Baja California, en coordinación con la dependencia de la Administración Pública competente;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-IX. Crear mecanismos de coordinación institucional con instancias del Gobierno Federal, Estatal y Municipal, organismos no gubernamentales, instituciones de educación o investigación públicas o privadas para la promoción de la inclusión social e igualdad de género, en los programas y políticas públicas;
+V. Promover, fomentar, implementar y ejecutar políticas y programas generales para difundir y proteger los derechos relacionados con la inclusión social de grupos vulnerables y de diversidad sexual;
 
-X. Desarrollar acciones necesarias para impulsar la inclusión social e igualdad de género en todas las áreas de la vida económica, política, social y cultural del Estado, así como instrumentar mecanismos de ejecución y evaluación que permitan alcanzar el pleno desarrollo de la personalidad desde una perspectiva de derechos humanos y de género;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XI. Contribuir en las acciones y programas que se establezcan en la Administración Pública, en materia de derechos humanos, inclusión social e igualdad de género con el objetivo de erradicar los actos que atenten contra el libre desarrollo de la personalidad;
+VI. Promover la incorporación estratégica y transversal de los derechos humanos, con perspectiva de inclusión social en el Plan Estatal de Desarrollo y el Presupuesto de Egresos del Estado, desde un enfoque multidisciplinario;
 
-XII. Establecer programas de capacitación, sensibilización, formación y profesionalización en materia de derechos humanos, inclusión social e Igualdad de género, como parte integral de la formación de las y los servidores públicos del Poder Ejecutivo, y otorgar la certificación correspondiente;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XIII. Gestionar programas de difusión y acciones de sensibilización en medios de comunicación masiva y redes sociales, que promuevan la inclusión, una cultura libre de violencia de género y de discriminación, la utilización de lenguaje inclusivo, así como la identificación, erradicación y denuncia de la discriminación en todas sus formas, e incentivar la elaboración de programas educativos y campañas de concientización;
+VII. Impulsar el empoderamiento de las personas adultas mayores, personas con discapacidad, y personas integrantes de los pueblos y comunidades indígenas, así como afromexicanas, en cuanto a su participación, promoción y capacitación en la toma de decisiones y en áreas de emprendimiento, en coordinación con las dependencias y entidades paraestatales de la Administración Pública;
 
-XIV. Participar, en el ámbito de su competencia, en la atención y seguimiento de la declaratoria de alerta de violencia de género contra las mujeres, emitida por la Secretaría de Gobernación del Gobierno Federal, notificada al Poder Ejecutivo;
+VIII. (DEROGADA, P.O. 21 DE JULIO DE 2025)
 
-XV. Coadyuvar con el sector público y privado en las demandas, necesidades y exigencias de inclusión social y equidad de género en el Estado, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XVI. Realizar diagnósticos y estudios con enfoque de inclusión social e igualdad de género, que permitan tener datos actualizados de la problemática en el Estado para su debida atención;
+IX. Crear mecanismos de coordinación institucional con instancias del Gobierno Federal, Estatal y Municipal, organismos no gubernamentales, instituciones de educación o investigación públicas o privadas para la promoción de la inclusión social, en los programas y políticas públicas;
 
-XVII. Establecer y vigilar el cumplimiento de normas, modelos, certificaciones y recomendaciones de protocolos de prevención, atención y manejo institucional para la protección de los derechos humanos vinculados a la inclusión social de los grupos en situación de vulnerabilidad, así como los relacionados con la equidad de género;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+X. Desarrollar acciones necesarias para impulsar la inclusión social en todas las áreas de la vida económica, política, social y cultural del Estado, así como instrumentar mecanismos de ejecución y evaluación que permitan alcanzar el pleno desarrollo de la personalidad desde una perspectiva de derechos humanos y de género;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XI. Contribuir en las acciones y programas que se establezcan en la Administración Pública, en materia de derechos humanos e inclusión social con el objetivo de erradicar los actos que atenten contra el libre desarrollo de la personalidad;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XII. Establecer programas de capacitación, sensibilización, formación y profesionalización en materia de derechos humanos e inclusión social, como parte integral de la formación de las y los servidores públicos del Poder Ejecutivo, y otorgar la certificación correspondiente;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XIII. Gestionar programas de difusión y acciones de sensibilización en medios de comunicación masiva y redes sociales, que promuevan la inclusión, una cultura libre de discriminación, la utilización de lenguaje inclusivo, así como la identificación, erradicación y denuncia de la discriminación en todas sus formas, e incentivar la elaboración de programas educativos y campañas de concientización;
+
+XIV. (DEROGADA, P.O. 21 DE JULIO DE 2025)
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XV. Coadyuvar con el sector público y privado en las demandas, necesidades y exigencias de inclusión social en el Estado, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XVI. Realizar diagnósticos y estudios con enfoque de inclusión social que permitan tener datos actualizados de la problemática en el Estado para su debida atención;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XVII. Establecer y vigilar el cumplimiento de normas, modelos, certificaciones y recomendaciones de protocolos de prevención, atención y manejo institucional para la protección de los derechos humanos vinculados a la inclusión social de los grupos en situación de vulnerabilidad;
 
 XVIII. Impulsar iniciativas y proyectos con la sociedad, organizaciones civiles, comunitarias, instituciones académicas y de investigación, encaminadas al diseño, instrumentación y operación de políticas, programas y acciones relacionados con las materias a su cargo;
 
-XIX. Proponer y ejecutar políticas, programas y acciones en materia de prevención, protección, atención y erradicación para el cumplimiento de una vida libre de violencia específicamente en contra de mujeres niñas, niños y adolescentes en contexto de vulnerabilidad con un enfoque interseccional e intercultural, en coordinación con la Secretaría General de Gobierno y demás dependencias y entidades de la Administración Pública, así como con instituciones públicas y privadas; así como proponer las sanciones que correspondan;
+XIX. (DEROGADA, P.O. 21 DE JULIO DE 2025)
 
-XX. Proporcionar atención integral, asistencia jurídica y psicológica a personas en contexto de vulnerabilidad, que afronte un conflicto relacionado con violencia de género y/o con discriminación en el Estado, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XX. Proporcionar atención integral, asistencia jurídica y psicológica a personas en contexto de vulnerabilidad, que afronte un conflicto relacionado con discriminación en el Estado, en el ámbito de su competencia;
 
 XXI. Generar y aplicar políticas públicas generales encaminadas a la inclusión social, y específicas para las personas que por razones económicas, emocionales o cualesquier condición viva en abandono o en situación de calle, así como a quienes egresen de las instituciones públicas o privadas de rehabilitación o de reinserción social, en coordinación con las dependencias y entidades paraestatales de la Administración Pública competentes;
 
-XXII. Llevar a cabo el registro, evaluación y estadística de las políticas, programas y acciones, que permitan su consulta por parte de las dependencias y entidades paraestatales de la Administración Pública, órganos autónomos y la ciudadanía, a fin de favorecer una participación y distribución equitativa de los recursos, oportunidades y beneficios relacionados con la inclusión social de los grupos en situación de vulnerabilidad, así como los relacionados con la igualdad de género;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XXII. Llevar a cabo el registro, evaluación y estadística de las políticas, programas y acciones, que permitan su consulta por parte de las dependencias y entidades paraestatales de la Administración Pública, órganos autónomos y la ciudadanía, a fin de favorecer una participación y distribución equitativa de los recursos, oportunidades y beneficios relacionados con la inclusión social de los grupos en situación de vulnerabilidad;
 
 XXIII. Proponer en las políticas, programas y acciones de movilidad, obras públicas, servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales, la inclusión de la accesibilidad de las personas con discapacidad y, en su caso, emitir lineamientos para hacerla efectiva; y,
 
@@ -1733,6 +1779,112 @@ XXXV. Interactuar con instituciones públicas, como complemento en aquellos prog
 
 XXXVI. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+ARTÍCULO 49 BIS. La Secretaría de las Mujeres tendrá las atribuciones y obligaciones siguientes:
+
+I. Establecer y conducir la instrumentación, coordinación, supervisión, seguimiento, implementación y evaluación en el ámbito de su competencia, de la Política Estatal en materia de:
+
+a) Mujeres, adolescentes y niñas, igualdad sustantiva y transversalización de la perspectiva de género.
+
+b) Prevención, atención y erradicación de las violencias contra las mujeres, adolescentes y niñas.
+
+c) Sistema de cuidados.
+
+II. Incorporar el principio de igualdad de derechos y oportunidades de desarrollo para la mujer en la formulación de políticas públicas;
+
+III. Impulsar las propuestas de la sociedad para alcanzar la igualdad de derechos y oportunidades de desarrollo para la mujer en el ámbito político, social, cultural y económico;
+
+IV. Impulsar la incorporación de los lineamientos del Programa en el programa anual de cada dependencia y entidad de la Administración Pública del Estado, así como en el de los sectores en general vinculados con estos instrumentos, para la ejecución de sus programas sectoriales o, en su caso, institucionales específicos;
+
+V. Establecer y concertar acuerdos y convenios con las autoridades de los tres órdenes de gobierno para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y subprogramas que se establezcan en el Programa;
+
+VI. Elaborar lineamientos y protocolos de atención, manejo e intervención dirigidos a las dependencias y entidades paraestatales de la Administración Pública, que contribuyan a la erradicación de cualquier manifestación de discriminación contra las Mujeres;
+
+VII. Procurar, impulsar y apoyar ante los poderes públicos del Estado, acciones dirigidas al ejercicio pleno de los derechos de las mujeres, así como el fortalecimiento de mecanismos administrativos para el mismo fin;
+
+VIII. Establecer y operar en coordinación con el Comité de Planeación del Desarrollo del Estado y otras dependencias del Ejecutivo, un sistema de seguimiento de los programas federales, estatales y municipales relacionados con la mujer, de conformidad con lo previsto en las leyes y convenios respectivos;
+
+IX. Establecer vínculos de colaboración con el Poder Legislativo y con los Ayuntamientos del Estado, para promover acciones legislativas y reglamentarias que garanticen a las mujeres la igualdad de derechos y oportunidades de desarrollo;
+
+X. Impulsar el empoderamiento de las mujeres en cuanto a su participación, promoción y capacitación en la toma de decisiones y en áreas de emprendimiento, en coordinación con las dependencias y entidades paraestatales de la Administración Pública;
+
+XI. Crear mecanismos de coordinación institucional con instancias del Gobierno Federal, Estatal y Municipal, organismos no gubernamentales, instituciones de educación o investigación públicas o privadas para la promoción de los derechos humanos de la Mujer en los programas y políticas públicas;
+
+XII. Desarrollar acciones necesarias para impulsar la igualdad sustantiva en todas las áreas de la vida económica, política, social y cultural del Estado, así como instrumentar mecanismos de ejecución y evaluación que permitan alcanzar el pleno desarrollo de la personalidad desde una perspectiva de derechos humanos;
+
+XIII. Gestionar programas de difusión y acciones de sensibilización en medios de comunicación masiva y redes sociales, que promuevan una cultura libre de violencia de género contra la mujer, e incentivar la elaboración de programas educativos y campañas de concientización;
+
+XIV. Proponer la creación de refugios seguros para víctimas de la violencia en términos de la Ley de Acceso a las Mujeres a una Vida Libre de Violencia para el Estado, así como participar en la evaluación del funcionamiento del Centro de Justicia para las Mujeres del Estado de Baja California;
+
+XV. Coadyuvar con el sector público y privado en las demandas, necesidades y exigencias en materia de derechos humanos de las Mujeres en el Estado, haciendo énfasis en las áreas de salud, empleo, educación, capacitación, seguridad, justicia, cultura y recreación;
+
+XVI. Establecer vínculos de colaboración con las instancias administrativas que se ocupen de los asuntos de las mujeres en los Ayuntamientos para promover y apoyar, en su caso, las políticas, programas, y acciones en materia de igualdad de oportunidades y desarrollo para las mujeres;
+
+XVII. Promover la prestación de servicios de seguridad social en apoyo a madres trabajadoras;
+
+XVIII. Promover ante las autoridades competentes que los contenidos y materiales educativos estén libres de prejuicios discriminatorios contra las mujeres y que fomenten la igualdad de derechos y oportunidades;
+
+XIX. Promover ante las autoridades competentes que se garantice el acceso de la mujer, y se aliente su permanencia o reingreso a las instituciones educativas en todos sus niveles, impulsando además a través del proceso de enseñanza-aprendizaje, la igualdad de oportunidades para hombres y mujeres;
+
+XX. Propiciar y fomentar el acceso de las mujeres de la tercera edad, con discapacidad y pertenecientes a pueblos originarios o afromexicanos, a todo tipo de programas destinados a la mujer;
+
+XXI. Promover ante las autoridades Federales, Estatales y Municipales en materia de salud, el acceso de las mujeres a servicios integrales de atención a la salud, considerando las características particulares de su ciclo de vida y condición social;
+
+XXII. Promover en coordinación con otras dependencias del Ejecutivo, acciones de combate a la pobreza, marginación y exclusión de las mujeres de las actividades económicas, culturales y sociales de la entidad, especialmente en el medio rural e indígena;
+
+XXIII. Participar, en el ámbito de su competencia, en la atención y seguimiento de la declaratoria de alerta de violencia de género contra las mujeres, emitida por la Secretaría de Gobernación del Gobierno Federal, notificada al Poder Ejecutivo;
+
+XXIV. Estimular y fomentar la participación activa de las organizaciones que actúan en la promoción y defensa de los derechos de la mujer, en las tareas de formulación, ejecución, seguimiento y evaluación de las políticas y acciones públicas orientadas al desarrollo integral de la mujer;
+
+XXV. Promover ante las autoridades competentes la realización de acciones tendientes a prevenir, sancionar, atender y erradicar la violencia contra la mujer;
+
+XXVI. Promover acciones tendientes a reconocer las aportaciones de la mujer, derivadas de su participación en el desarrollo del Estado;
+
+XXVII. Impulsar en los medios de comunicación, una cultura de igualdad entre el hombre y la mujer, reconociendo y dignificando su imagen ante la sociedad;
+
+XXVIII. Proponer y ejecutar políticas, programas y acciones en materia de prevención, protección, atención y erradicación para el cumplimiento de una vida libre de violencia en contra de mujeres, niñas, niños y adolescentes en contexto de vulnerabilidad con un enfoque interseccional e intercultural, en coordinación con la Secretaría General de Gobierno y demás dependencias y entidades de la Administración Pública, así como con instituciones públicas y privadas; así como proponer las sanciones que correspondan;
+
+XXIX. Servir de enlace con organizaciones locales, nacionales e internacionales que apoyen proyectos dirigidos a la mujer, para lograr la captación de recursos y su adecuada distribución;
+
+XXX. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de proyectos que beneficien a las mujeres;
+
+XXXI. Actuar como órgano de consulta, capacitación y asesoría de las dependencias y entidades de la Administración Pública del Estado, los poderes Legislativo y Judicial, los Órganos Autónomos, así como de las Municipales, y de los sectores social y privado, en materia de equidad e igualdad de derechos y oportunidades para las mujeres;
+
+XXXII. Promover la ejecución de acciones para el reconocimiento público de las mujeres, así como para la difusión nacional e internacional de las actividades que las benefician;
+
+XXXIII. Promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de las condiciones sociales, políticas, económicas y culturales de las mujeres en los distintos ámbitos de la sociedad;
+
+XXXIV. Participar y organizar reuniones y eventos para el intercambio de experiencias e información en los ámbitos de su competencia sobre los temas de las mujeres;
+
+XXXV. Promover, difundir y publicar obras relacionadas con las materias objeto de esta Ley;
+
+XXXVI. Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas, organizaciones privadas y sociales, interesadas en apoyar el logro de la igualdad entre hombres y mujeres;
+
+XXXVII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de igualdad sustantiva entre hombres y mujeres, de conformidad con las disposiciones aplicables;
+
+XXXVIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa, mismos que deberán contener las acciones, metas, indicadores y esquemas de medición necesarios para determinar el cumplimiento de sus objetivos;
+
+XXXIX. Actualizar anualmente el diagnóstico sobre la situación de las mujeres, en relación con los avances y operatividad del programa de conformidad con las siguientes bases:
+
+a) El diagnóstico deberá reflejar por lo menos, el porcentaje de participación de las mujeres en la dinámica social, política y económica de la entidad; el acceso de las mujeres a la educación superior y media superior; así como el índice de violencia familiar y de género contra la mujer a nivel estatal, y por municipio.
+
+b) Para la elaboración del diagnóstico, el instituto invitará a los organismos de la sociedad civil dedicados a temas de la mujer, para que, en los términos del reglamento respectivo, participen de manera activa en la fase de investigación e integración del mismo.
+
+c) La actualización del diagnóstico deberá prever la integración de avances bimestrales en cada uno de los rubros en que este se estructure.
+
+XL. Llevar a cabo todas las acciones que conforme a la normatividad en materia de prevención, atención, sanción y erradicación de violencia en contra de las mujeres le correspondan;
+
+XLI. Proponer e implementar acciones enfocadas a reflexionar, generar cambios de actitud y motivar a las mujeres a participar en talleres y cursos de emprendimiento de oficios, tradicionalmente dirigidos a hombres;
+
+XLII. Proponer, implementar y/o fomentar talleres y cursos de emprendimiento, para las mujeres de oficios tradicionalmente dirigidos a hombres; debiendo darse la máxima publicidad;
+
+XLIII. Diseñar, promover e implementar políticas públicas y acciones en materia de salud integral de las mujeres, con especial énfasis en la garantía de sus derechos sexuales y reproductivos, en coordinación con la Secretaría de Salud y las instituciones integrantes del Sistema Estatal de Salud;
+
+XLIV. Participar y representar al Estado en foros, redes y mecanismos de cooperación nacionales e internacionales en el ámbito de competencia de la Secretaría de las Mujeres; y.
+
+XLV. Las demás que señale el reglamento de esta Ley.
+
 ###### ARTÍCULO 50.
 
 La Dirección del Registro Público de la Propiedad y del Comercio tendrá las atribuciones y obligaciones siguientes:
@@ -2072,3 +2224,37 @@ Sexto. Los contratos cuya naturaleza no sea laboral o burocrática, convenios y 
 Séptimo. Los asuntos, actos o tramites que se encuentren en curso o estén pendientes de resolución o conclusión a la fecha de entrada en vigor de las presentes reformas, y que con motivo de estas deban ser transferidos de una dependencia o entidad a otra dependencia, pasarán a las dependencias que señale la presente Ley de conformidad con el inicio de vigencia de las presentes reformas y de lo dispuesto en el artículo Octavo Transitorio de esta reforma.
 
 Octavo. Las atribuciones en materia de política de tecnologías de la información y telecomunicaciones para las dependencias y entidades paraestatales de la Administración Pública, a que se refiere el artículo 33, fracción XXVIII de la presente Ley, que actualmente están a cargo de la Secretaría de Hacienda a través de la Subsecretaria de Tecnología de la Información y Comunicaciones, las seguirá ejerciendo hasta en tanto no se emita la norma respectiva y se transfieran a la Oficialía Mayor de Gobierno por sí o a través del órgano que se determine; supuesto en el cual dichas atribuciones quedarán circunscritas al ámbito de competencia que le atribuye esta Ley a la Secretaría de Hacienda, con independencia de la vinculación que deberá tener con la Oficialía Mayor de Gobierno o la Dirección General de la Agencia Digital del Estado para el ejercicio de sus atribuciones.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con salvedad de lo dispuesto en las siguientes fracciones:
+
+I.- Las reformas a los artículos 37, fracciones VIII, XIV y XIX y 49 BIS fracciones XIV, XXIII y XXVIII entrarán en vigor el 01 de octubre de 2025.
+
+II.- Las reformas a los artículos 31 y 37, fracciones I, II, III, IV, V, VI, VII, IX, X, XI, XII, XIII, XV, XVI, XVII, XX y XXII y 49 BIS, I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIV, XXV, XXVI, XXVII, XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLI, XLII y XLIII entrarán en vigor el 01 de enero de 2026.
+
+SEGUNDO.- La Persona Titular del Poder Ejecutivo observando el principio constitucional de paridad de género, realizará el nombramiento de la persona que será Titular de la Secretaría de las Mujeres, para que en coordinación con las dependencias relacionadas realice o gestione en el ámbito de las respectivas competencias, los procesos y acciones a que se refiere este apartado de artículos transitorios.
+
+En ese tenor, la Persona Titular de la Secretaría de las Mujeres en coordinación con las diversas unidades administrativas de la Secretaría de Hacienda, realizará las previsiones necesarias para establecer los ramos, programas y partidas presupuestales que correspondan, dentro del Presupuesto de Egresos del Estado de Baja California para el ejercicio fiscal de 2025, con el fin de que la Secretaría de las Mujeres inicie funciones el 01 de octubre de 2025.
+
+TERCERO.- La persona Titular del Poder Ejecutivo, por conducto de la Secretaría de las Mujeres señalará las bases para llevar a cabo la liquidación derivada de la extinción del Instituto de la Mujer para el Estado de Baja California, las cuales deberán considerar la eficacia, eficiencia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público, por lo que podrá resolver cualquier situación inherente a dicho proceso.
+
+CUARTO.- La Persona Titular del Ejecutivo, por conducto de la Oficialía Mayor de Gobierno deberá:
+
+a) Determinar el cambio o adscripción del personal de las dependencias que se separan, o transfieren funciones, transforman o modifican competencia, atendiendo a las funciones que previamente desarrollan; y,
+
+b) Realizar las acciones administrativas necesarias para la transferencia del mobiliario, vehículos, equipos, tecnología, instrumentos, aparatos, maquinaria, archivos, información e instalaciones de las dependencias, subsecretarías y unidades administrativas que se separan o transfieren funciones, transforman o modifican competencia, a la dependencia que corresponda en términos de esta Ley, respetando las funciones que previamente se desarrollan en las mismas.
+
+QUINTO.- En la transferencia de personal que se realice con motivo de las presentes reformas, cualquiera que sea la naturaleza y forma en que presten sus servicios, se respetarán en todo momento sus derechos laborales. Los derechos adquiridos y demás prestaciones del personal de base cuya relación se encuentre tutelada por lo dispuesto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California no se afectarán por el presente decreto.
+
+SEXTO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios, instrumentos jurídicos o programas que sustenten el ejercicio de recursos públicos de orden local o federal y demás compromisos que a la fecha de publicación del Decreto se encuentren vigentes, continuarán surtiendo sus efectos y obligarán en sus términos a la dependencia que señale la presente Ley, de conformidad con la entrada en vigor de las presentes reformas, hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
+
+SÉPTIMO.- Los asuntos, actos, trámites, proyectos, programas, registros, acciones e instrumentos jurídicos y demás que se encuentren en curso o estén pendientes de resolución o conclusión a la fecha de entrada en vigor de las presentes reformas, y deban ser transferidos con motivo de la modificación de la competencia de la Secretaría General de Gobierno y de la Secretaría de Inclusión Social e Igualdad de Género, así como de la extinción del Instituto de la Mujer para el Estado de Baja California, pasarán a la Secretaría de las Mujeres de conformidad con el presente decreto.
+
+OCTAVO.- La Persona Titular del Poder Ejecutivo deberá realizar las modificaciones a la reglamentación que resulten necesarias.
+
+Hasta en tanto se lleven a cabo las adecuaciones reglamentarias correspondientes a que se refiere este artículo, la Secretaría de las Mujeres funcionará conforme a la estructura orgánica y atribuciones que le confieren las disposiciones reglamentarias vigentes al Instituto de la Mujer para el Estado de Baja California, en lo que no se contraponga a las presentes reformas.
+
+NOVENO.- Toda referencia a la Secretaría de Inclusión Social e Igualdad de Género, se entenderá realizada a la Secretaría de Inclusión Social.
