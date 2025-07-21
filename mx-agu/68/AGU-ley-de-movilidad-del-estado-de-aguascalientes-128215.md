@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2025-04-29"
+last_updated: "2025-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -121,7 +121,9 @@ IX. Avenida: Vía pública urbana, generalmente dividida por islas de seguridad 
 
 X. Ayudas Técnicas: Dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
-XI. Bicicleta: Vehículo impulsado directamente por la fuerza humana, que consta de dos o más ruedas y pedales, donde una o más personas se pueden sentar o montar, utilizado como medio de transporte;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XI. Bicicleta: Vehículo impulsado principalmente por la fuerza humana a través de pedales o de pedaleo asistido por motor eléctrico, que consta de dos o más ruedas, donde una o más personas se pueden sentar o montar, utilizado como medio de transporte;
 
 XII. Bici estacionamiento: Espacio físico y/o mobiliario urbano utilizado para sujetar y resguardar bicicletas por tiempo determinado;
 
@@ -241,7 +243,9 @@ LXVII. Lineamientos operativos del SITMA: Documento administrativo general y té
 
 LXVIII. Microterminal: Espacio físico equipado, destinado al cierre de circuito de las unidades de transporte público. Cuenta con área de resguardo de vehículos, bahías para las maniobras de ascenso y descenso de pasajeros, y espacios físicos dedicados a los operadores;
 
-LXIX. Motocicleta: Vehículo motorizado de dos o más ruedas utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cm cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de bicimoto, motoneta, motocicleta con sidecar, trimoto y cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+LXIX. Motocicleta: Vehículo motorizado de hasta dos ruedas, utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cm cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de bicimoto, motoneta, motocicleta con sidecar, trimotor y cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies;
 
 LXX. Movilidad: El conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas;
 
@@ -283,7 +287,9 @@ LXXXVI. Personas con discapacidad: Personas a las que hace referencia la fracci�
 
 LXXXVII. Personas con movilidad limitada: Toda persona cuya movilidad se ha reducido por motivos de edad, embarazo y alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
 
-LXXXVIII. Persona peatona: Persona que transita por la vía a pie o que por su condición de discapacidad o de movilidad limitada utilizan ayudas técnicas para desplazarse; incluye menores de doce años a bordo de un vehículo no motorizado;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+LXXXVIII. Persona peatona: Persona que transita por la vía a pie o que, debido a su condición de discapacidad o movilidad limitada, utiliza ayudas técnicas para desplazarse. También se considera persona peatona aquella que se moviliza en un vehículo no motorizado cuya velocidad no supere los diez kilómetros por hora;
 
 LXXXIX. Persona usuaria: La persona que realiza desplazamientos haciendo uso del sistema de movilidad;
 
@@ -369,17 +375,39 @@ CXXVII. Transversalidad: Es el proceso mediante el cual se instrumentan las pol�
 
 CXXVIII. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+
+CXXVIII BIS. Vehículo de movilidad personal: Vehículo no motorizado diseñado para desplazar a una sola persona, con dos o más ruedas, de una sola plaza, como son de manera enunciativa más no limitativa, sillas de ruedas, monopatines con manubrio o scooter, monociclos, y en general todos aquellos que, con independencia de su denominación comercial o coloquial, encuadren en las características anteriormente señaladas.
+
+Los utilizados para transporte son aquellos diseñados para desplazar a una persona y que alcanzan una velocidad máxima de veinticinco kilómetros por hora. De manera enunciativa, se incluyen los patinetes eléctricos, los monopatines con manubrio y los Scooter no ortopédicos.
+
+Los vehículos utilizados como asistencia en movilidad son aquellos diseñados para personas con discapacidad, movilidad reducida o condiciones médicas que les impiden caminar distancias razonables. También pueden ser empleados por personas que, sin presentar dichas condiciones, requieran apoyo en su desplazamiento. Estos vehículos alcanzan una velocidad máxima de diez kilómetros por hora. De manera enunciativa, se incluyen las sillas de ruedas motorizadas, los Scooter eléctricos ortopédicos y los monociclos.
+
+El reglamento de la presente ley definirá las características particulares de cada unidad o tipo de vehículo de movilidad personal;
+
 CXXIX. Vehículo eficiente: Vehículo que cumple con las Normas Oficiales Mexicanas sobre emisiones y con las obligaciones de verificación;
 
-CXXX. Vehículo motorizado: Vehículo de transporte terrestre de pasajeros o de carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los veinticinco kilómetros por hora;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-CXXXI. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye a aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad;
+CXXX. Vehículo motorizado: Vehículo de transporte terrestre de pasajeros o de carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que les proporciona velocidad superior a los diez kilometros por hora;
 
-CXXXII. Vehículos recreativos todo terreno: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos, sin importar el número de cilindros, de cuatro o más ruedas con capacidades todo terreno, que pueden presentar dirección y pedales tipo automóvil, espacios para una o más personas, de carga y los cuales en forma enunciativa más no limitativa, están destinados específicamente para ser utilizados en actividades deportivas, recreativas, turísticas, de seguridad o laborales;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+CXXXI. Vehículo no motorizado: Vehículo de tracción humana o asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2025)</small>
+
+CXXXI BIS. Vehículo recreativo: Aquellos utilizados de manera recreativa o lúdica, tales como patines, patinetas, patines del diablo, monopatines y bicicletas sin motor con una velocidad máxima de diez kilómetros por hora;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+CXXXII. Vehículos recreativos todo terreno: vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos, sin importar el número de cilindros, de cuatro o más ruedas con capacidades todo terreno, incluyendo las denominadas como motonetas, que pueden presentar dirección y pedales tipo automóvil, espacios para una o más personas, de carga y los cuales, en forma enunciativa mas no limitativa, están destinados específicamente para ser utilizados en actividades deportivas, recreativas, turísticas, de seguridad o laborales;
 
 CXXXIII. Vía: Espacio físico destinado al tránsito de personas peatonas y vehículos;
 
-CXXXIV. Vía ciclista: Vía o sección de la calle destinada al tránsito de bicicletas en forma preferente;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+CXXXIV. Vía ciclista: Vía o sección de infraestructura ciclista, caracterizada por la segregación física de vehículos motorizados y de peatones, destinada para la circulación de vehículos no motorizados que alcancen velocidades de hasta veinticinco kilómetros por hora;
 
 CXXXV. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario;
 
@@ -1659,7 +1687,9 @@ XI. Información sobre los resultados de las auditorías e inspecciones de segur
 
 XII. La información que el Sistema Nacional determine necesaria para la debida integración de las Bases de Datos.
 
-Para el caso de vehículos no motorizados, específicamente bicicletas, monopatines y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Para el caso de vehículos no motorizados, específicamente bicicletas, vehículos de movilidad personal y otros vehículos sin motor de combustión interna, cuya velocidad máxima no supere veinticinco kilómetros por hora y peso menor a treinta y cinco kilogramos, no aplica el registro de vehículos salvo que la persona usuaria del vehículo necesite registrarlo por motivo de robo o extravío.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -1955,9 +1985,11 @@ En ningún momento el propietario de un predio podrá modificar las banquetas pa
 
 #### SECCIÓN TERCERA. Los Ciclistas
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 60.
 
-Las autoridades estatales y municipales favorecerán la implementación de acciones que propicien el uso de la bicicleta como medio de desplazamiento preferente a los vehículos de motor.
+Las autoridades estatales y municipales favorecerán la implementación de acciones que propicien el uso de la bicicleta y de vehículos de movilidad personal como medio de desplazamiento preferente a los vehículos de motor de combustión interna.
 
 ###### ARTÍCULO 61.
 
@@ -1981,11 +2013,15 @@ Todos los niveles de gobierno implementarán campañas de difusión permanentes 
 
 (DEROGADO, P.O. 9 DE DICIEMBRE DE 2024)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 64.
 
-Los ciclistas deberán observar las siguientes disposiciones:
+Las personas ciclistas deberán observar las siguientes disposiciones:
 
-I. Circularán en el carril de extrema derecha de las vías sobre las que transiten;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+I. Circularán exclusivamente en la vía ciclista o en el carril de extrema derecha cuando las vialidades sobre las que transiten no cuenten con dicha infraestructura;
 
 II. Maniobrarán con cuidado al rebasar vehículos estacionados;
 
@@ -1993,15 +2029,21 @@ III. No llevarán personas o carga que les dificulte la visibilidad, el equilibr
 
 IV. No podrán usar radio o reproductores de sonido y demás mecanismos que propicien distracción al conducir;
 
-V. No podrán circular sobre las banquetas o las zonas de seguridad;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+V. No podrán circular en sentido contrario, sobre las banquetas o las zonas de seguridad, carriles centrales o interiores de las vías de acceso controlado, puentes, pasos a desnivel, o que existan señalamientos que restrinjan su circulación;
 
 VI. En la circulación nocturna y lugares de poca visibilidad deberán encender el faro delantero que emita luz blanca y portar reflejante de color rojo en la parte posterior de la bicicleta;
 
 VII. Al circular por las vialidades, en los casos de cambio de carril o viraje en alguna intersección deberá previamente señalar el sentido del movimiento a través de algún medio adecuado que permita su conocimiento a los demás usuarios de la vía;
 
-VIII. Deberán usar los implementos para su protección y para ser distinguidos en situaciones de poca visibilidad; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-IX. Se abstendrán de realizar maniobras que pongan en riesgo su integridad física o la de los demás.
+VIII. Deberán llevar puestos los implementos para su protección, particularmente casco protector, y aditamentos para ser distinguidos en situaciones de poca visibilidad; y
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+IX. Se abstendrán de asirse o sujetar a otro vehículo que transite por la vía pública o realizar maniobras que pongan en riesgo su integridad física o la de los demás.
 
 ###### ARTÍCULO 65.
 
@@ -2017,9 +2059,61 @@ Todas las Dependencias y Entidades de la administración pública estatal y muni
 
 Las personas que transporten bicicletas en el exterior de vehículos automotores, deberán contar con los aditamentos adecuados, a fin de evitar riesgos.
 
-#### SECCIÓN CUARTA. Los Usuarios del Transporte Público
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE JULIO DE 2025)</small>
 
-#### SECCIÓN SEGUNDA (SIC). El Registro y Control de Vehículos
+#### SECCIÓN TERCERA BIS. LOS USUARIOS DE VEHÍCULO DE MOVILIDAD PERSONAL
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+ARTÍCULO 67 BIS.- Los usuarios de vehículos de movilidad personal utilizados para transporte, deberán observar las siguientes disposiciones:
+
+I. Circularán exclusivamente en la vía ciclista o en el carril de extrema derecha cuando las vialidades sobre las que transiten no cuenten con dicha infraestructura;
+
+II. No circular a más de veinticinco kilómetros por hora en cualquier vía que transiten;
+
+III. Solo podrá ser utilizado por una persona;
+
+IV. No podrán circular en sentido contrario, sobre las banquetas, zonas peatonales, carriles centrales o interiores de las vías de acceso controlado, puentes, pasos a desnivel, vialidades regionales o de acceso controlado y en aquellas que existan señalamientos que restrinjan su circulación;
+
+V. Al virar en alguna intersección deberá previamente señalar el sentido del movimiento a través de algún medio adecuado que permita su conocimiento a los demás usuarios de la vía;
+
+VI. No circular entre vehículos y maniobrarán con cuidado al rebasar vehículos estacionados;
+
+VII. No llevar carga que dificulte la visibilidad, el equilibrio o su adecuado manejo;
+
+VIII. No podrán usar o manipular aparatos telefónicos, de radio, reproductores de sonido y demás aparatos que propicien distracción al conducir o reduzcan el sistema auditivo y visual;
+
+IX. En la circulación nocturna y lugares de poca visibilidad deberán encender el faro delantero que emita luz blanca y portar luz de color rojo en la parte posterior del vehículo, así como portar distintivos reflejantes en su persona;
+
+X. Deberán usar casco y lentes de seguridad;
+
+XI. Se abstendrán de asirse o sujetar a otro vehículo que transite por la vía pública o realizar maniobras que pongan en riesgo su integridad física o la de los demás;
+
+XII. Respetar la preferencia de paso de peatones y vehículos de emergencia;
+
+XIII. No circular de manera paralela con otro vehículo dentro de la vía ciclista o del mismo carril;
+
+XIII. Respetar los semáforos, señalizaciones de tránsito y límites de velocidad;
+
+XIV. Cuando se circule en la vía pública, no podrán ser utilizados por personas menores de dieciséis años de edad; y
+
+XIV. Las demás que establezca el Reglamento de esta Ley y las disposiciones municipales en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+###### ARTÍCULO 67.
+
+TER. Los vehículos de movilidad personal deberán contar con el equipamiento mínimo siguiente:
+
+I. Disponer de un sistema de frenado con una desaceleración mínima de 3.5 m/s2;
+
+II. Luz frontal en color blanco y luz trasera en color rojo;
+
+III. Timbre o claxon; y
+
+IV. Así como el que señalen el Reglamento de la presente Ley o reglamentos municipales en la materia.
+
+#### SECCIÓN CUARTA. Los Usuarios del Transporte Público
 
 ###### ARTÍCULO 68.
 
@@ -2149,9 +2243,17 @@ f) Camionetas tipo van;
 
 g) Remolques;
 
-h) Carros de propulsión humana; y
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-i) Vehículos de tracción animal;
+h) Carros de propulsión humana;
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+i) Vehículos de tracción animal; y
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+j) Vehículos de movilidad personal utilizados para transporte.
 
 II. Pesados, los que reportan más de tres y media toneladas de peso bruto vehicular, entre otros:
 
@@ -2195,7 +2297,7 @@ IV. Oficiales, aquellos pertenecientes a la Federación, al Estado, a los Munici
 
 V. De emergencia, aquellos que proporcionan a la comunidad, asistencia médica de urgencias, auxilio, vigilancia o rescate.
 
-#### SECCIÓN TERCERA. El Equipamiento de los Vehículos
+#### SECCIÓN SEGUNDA (SIC). El Registro y Control de Vehículos
 
 ###### ARTÍCULO 80.
 
@@ -2203,9 +2305,11 @@ Los vehículos que transiten dentro del Estado, con excepción de las bicicletas
 
 En el caso de vehículos extranjeros, deberán ser autorizados de acuerdo con las leyes de su origen y contar con los permisos para ingresar al país.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 81.
 
-Los vehículos motorizados que transiten dentro del Estado, deberán reunir las condiciones físicas y mecánicas requeridas por esta Ley y su Reglamento.
+Los vehículos motorizados que transiten dentro del Estado, incluyendo los denominados como vehículos de movilidad personal para transporte, deberán reunir las condiciones físicas y mecánicas requeridas por esta Ley y su Reglamento.
 
 La SSP podrá expedir permiso provisional para circular sin placas, remolcar o de carga, siempre y cuando lo considere justificado.
 
@@ -2259,7 +2363,9 @@ La SSP llevará de manera actualizada los siguientes registros:
 
 I. De vehículos matriculados;
 
-II. Bicicletas y vehículos asimilados;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+II. Bicicletas, vehículos de movilidad personal utilizados para transporte y vehículos asimilados;
 
 III. De licencias y permisos de conducir expedidos;
 
@@ -2285,11 +2391,13 @@ Asimismo la SSP enviará a cada uno de los municipios, la información correspon
 
 La SSP registrará y publicará periódicamente los datos estadísticos relativos al número de hechos de tránsito, sus causas, en su caso, número de muertes o lesionados, así como el informe de los daños materiales y otros que estime convenientes, para que las áreas competentes, tomen acciones tendientes a abatir los hechos de tránsito y difundir las normas de seguridad.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN TERCERA. El Equipamiento de los Vehículos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### ARTÍCULO 88.
 
-Las bicicletas deberán estar equipadas cuando circulen de noche, de faro delantero que emita luz blanca y con reflejante de color rojo en la parte posterior.
+Las bicicletas y los vehículos de movilidad personal deberán estar equipadas (sic) cuando circulen de noche, de faro delantero que emita luz blanca y con reflejante de color rojo en la parte posterior.
 
 Las bicicletas que utilizan motor para su propulsión o que por cualquier otro mecanismo pueda superar la velocidad de 25 kilómetros por hora, serán consideradas dentro de la categoría de motocicletas.
 
@@ -2381,9 +2489,7 @@ Con objeto de hacer efectivas las disposiciones de la presente Sección, a trav�
 
 ### CAPÍTULO SEGUNDO. Las Licencias y Permisos para Conducir
 
-#### SECCIÓN SEGUNDA. Las Autoridades competentes para expedir y renovar las Licencias y Permisos de Conducir
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 97.
 
@@ -2419,9 +2525,9 @@ ARTÍCULO 99 QUATER.- La SSP garantizará la seguridad en el registro y el uso d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2024)</small>
 
-#### SECCIÓN TERCERA. La Clasificación de Licencias y Permisos
+#### SECCIÓN SEGUNDA. Las Autoridades competentes para expedir y renovar las Licencias y Permisos de Conducir
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 100.
 
@@ -2429,7 +2535,9 @@ Las licencias y permisos de conducir para automovilistas, operadores y motocicli
 
 Previa solicitud, los municipios podrán expedir y renovar licencias y permisos para conducir, de conformidad a lo establecido en los convenios de colaboración que se celebren entre éstos y la SSP, en tal supuesto se observará lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN TERCERA. La Clasificación de Licencias y Permisos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 101.
 
@@ -2745,9 +2853,7 @@ La información y registros generados en relación con la atención médica preh
 
 ### CAPÍTULO TERCERO. La Clasificación del Transporte en el Estado
 
-#### SECCIÓN SEGUNDA. El servicio de Transporte Público
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 116.
 
@@ -2761,7 +2867,9 @@ III. De personas contratado a través de plataformas tecnológicas administrado 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2023)</small>
 
-#### SECCIÓN TERCERA. Las Modalidades del Servicio de Transporte Público
+#### SECCIÓN SEGUNDA. El servicio de Transporte Público
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 117.
 
@@ -2815,7 +2923,7 @@ Para ello, se observarán los principios de accesibilidad, prontitud, imparciali
 
 Cuando se trate de personas hablantes de lenguas indígenas o de lengua de señas mexicana o regional, la atención deberá prestarse asegurando que la comunicación se lleve a cabo en su propia lengua.
 
-#### SECCIÓN CUARTA. El Transporte Privado
+#### SECCIÓN TERCERA. Las Modalidades del Servicio de Transporte Público
 
 ###### ARTÍCULO 119.
 
@@ -2981,7 +3089,7 @@ A los concesionarios que no cumplan con la obligación de someter el vehículo a
 
 La CMOV incluirá en las acciones, planes y programas del sector de movilidad los medios e instrumentos, con base en la tecnología de la georreferenciación, que permitan prevenir la violencia contra las mujeres en el transporte público y brinde opciones a éstas para solicitar auxilio y garantice la reacción oportuna de los cuerpos de policía.
 
-#### SECCIÓN QUINTA. El Servicio Contratado a Través de Plataformas Tecnológicas Administrado por Empresas de Redes de Transporte
+#### SECCIÓN CUARTA. El Transporte Privado
 
 ###### ARTÍCULO 133.
 
@@ -2993,155 +3101,7 @@ II. Mercantil y carga: Es aquel servicio de transporte destinado al traslado de 
 
 III. Servicio de transporte accesorio: Es el que prestan en forma gratuita las organizaciones, establecimientos y comercios con la finalidad de transportar exclusivamente a sus clientes, visitantes, afiliados y miembros de manera complementaria a su actividad o giro principal. Este servicio podrá estar sujeto a itinerario y horario determinado, cumpliendo con las características físicas y operativas que al respecto establezcan las autoridades competentes o señale el Reglamento respectivo.
 
-#### SECCIÓN PRIMERA. Disposiciones Preliminares
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 BIS.- El Estado y los municipios establecerán en su normativa aplicable que las obras de infraestructura vial urbana y carretera sean diseñadas y ejecutadas bajo los principios, jerarquía de la movilidad y criterios establecidos en la presente Ley, priorizando aquéllos que atiendan a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada territorio.
-
-Los estándares de diseño vial y dispositivos de control del tránsito deberán ser definidos en concordancia con las normas oficiales mexicanas expedidas para tal efecto.
-
-En materia de prevención de siniestros de tránsito, el Estado y los municipios deberán establecer estrategias, planes y programas de infraestructura vial que, reconociendo la posibilidad del error humano y la interseccionalidad de las personas usuarias de la vía, se encaminen a evitar, a través del mejoramiento de la infraestructura vial, muertes y lesiones, incluidas aquellas en que se adquiere alguna discapacidad.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 TER.- Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad considerando que:
-
-I. La movilidad se enfoca en el tránsito de personas y vehículos; y
-
-II. La habitabilidad se enfoca en la recreación, consumo, socialización, disfrute y acceso a los medios que permiten el ejercicio de los derechos sociales.
-
-La conducción de las autoridades competentes sobre las vías debe fortalecer ambas funciones, a través de criterios diferenciados en función de la jerarquía de la movilidad, tomando en consideración las necesidades diferenciadas de los grupos en situación de vulnerabilidad.
-
-La prioridad en el diseño y operación de las vías y carreteras están definidas en función de la jerarquía de la movilidad mediante un enfoque de sistemas seguros.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 QUÁTER.- El Estado y los municipios, en el ámbito de su competencia considerarán, además de los principios establecidos en la presente Ley, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
-
-I. Diseño universal. La construcción de infraestructura vial deberá considerar espacios de calidad, accesibles y seguros que permitan la inclusión de todas las personas sin discriminación alguna, con especial énfasis en la jerarquía de la movilidad estipulada en esta Ley y el uso equitativo del espacio público. En vías urbanas se considerará el criterio de calle completa y las adicionales medidas que se estimen necesarias.
-
-Se procurará evitar la construcción de pasos elevados o subterráneos cuando haya la posibilidad de adecuar el diseño para hacer el cruce peatonal, así como el destinado a movilidad no motorizada y de tracción humana, y las demás necesarias para garantizar una movilidad incluyente.
-
-Las condiciones mínimas de infraestructura se ordenan de la siguiente manera:
-
-a) Aceras pavimentas reservadas para el tránsito de personas peatonas;
-
-b) Iluminación que permita el transito nocturno y seguro de personas peatonas;
-
-c) Pasos peatonales que garanticen zonas de intersección seguras entre la circulación rodada y el tránsito peatonal;
-
-d) Señales de control de tráfico peatonal, motorizado y no motorizado que regule el paso seguro de personas peatonas;
-
-II. Priorizar a los grupos en situación de vulnerabilidad. El diseño de la red vial debe garantizar que los factores como la velocidad, la circulación cercana a vehículos motorizados y la ausencia de infraestructura de calidad, no pongan en riesgo a personas peatonas ni a las personas usuarias de la vía pública que empleen vehículos no motorizados y de tracción humana;
-
-III. Participación social. En el proceso de diseño y evaluación de la infraestructura vial, se procurarán esquemas de participación social de las personas usuarias de la vía;
-
-IV. Visión integral. Los proyectos de nuevas calles o de rediseño de las existentes en las vialidades urbanas, semiurbanas y rurales, deberán considerar el criterio de calle completa, asignando secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite;
-
-V. Intersecciones seguras. Las intersecciones deberán estar diseñadas para garantizar la seguridad de todas las personas usuarias de la vía, especialmente a las y los peatones y personas con movilidad limitada y grupos en situación de vulnerabilidad;
-
-VI. Pacificación del tránsito. Los diseños en infraestructura vial, sentidos y operación vial, deberán priorizar la reducción de flujos y velocidades vehiculares, para dar lugar al transporte público y a la movilidad activa y no motorizada y de tracción humana, a fin de lograr una sana convivencia en las vías.
-
-El diseño geométrico, de secciones de carriles, pavimentos y señales deberá considerar una velocidad de diseño de 30 km/h máxima para calles secundarias y terciarias, para lo cual se podrán ampliar las banquetas, reducir secciones de carriles, utilizar mobiliario, pavimentos especiales, desviar el eje de la trayectoria e instalar dispositivos de reducción de velocidad;
-
-VII. Velocidades seguras. Las vías deben contar, por diseño, con las características, señales y elementos necesarios para que sus velocidades de operación sean compatibles con el diseño y las personas usuarias de la vía que en ella convivan;
-
-VIII. Legibilidad y autoexplicabilidad. Es la cualidad de un entorno vial que provoca un comportamiento seguro de las personas usuarias simplemente por su diseño y su facilidad de entendimiento y uso. El diseño y la configuración de una calle o carretera autoexplicable cumple las expectativas de las personas usuarias, anticipa adecuadamente las situaciones y genera conductas seguras.
-
-Las vías autoexplicables integran sus elementos de manera coherente y entendible como señales, marcas, dispositivos, geometría, superficies, iluminación y gestión de la velocidad, para evitar siniestros de tránsito y generar accesibilidad para las personas con discapacidad;
-
-IX. Conectividad. Los espacios públicos deben formar parte de una red que permita a las personas usuarias conectar sus orígenes y destinos, entre modos de transporte, de manera eficiente y fácil. También deben permitir el desplazamiento libre de personas peatonas, personas usuarias de movilidad activa o no motorizada y otros prioritarios, incluidos vehículos de emergencia;
-
-X. Permeabilidad. La infraestructura debe contar con un diseño que permita la recolección e infiltración de agua pluvial y su reutilización en la medida que el suelo y el contexto hídrico del territorio lo requiera y con las autorizaciones ambientales y de descarga de la autoridad competente;
-
-XI. Tolerancia. Las vías y sus costados deben prever la posible ocurrencia de errores de las personas usuarias, y con su diseño y equipamiento técnico procurarán minimizar las consecuencias de siniestros de tránsito;
-
-XII. Movilidad sostenible. Transporte cuyos impactos sociales, ambientales y climáticos permitan asegurar las necesidades de transporte de las generaciones actuales sin comprometer la capacidad en los recursos para satisfacer las del futuro y mejorar la calidad ambiental;
-
-XIII. Calidad. Las vías deben contar con un diseño adecuado a las necesidades de las personas, materiales de larga duración, diseño universal y acabados, así como mantenimiento adecuado para ser funcional, atractiva estéticamente y permanecer en el tiempo; y
-
-XIV. Tratamiento de condiciones climáticas. El proyecto debe incorporar un diseño con un enfoque integral que promueva y permita una menor dependencia de los combustibles fósiles, así como hacer frente a la agenda de adaptación y mitigación al cambio climático.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 QUINQUIES.- La infraestructura vial urbana, rural y carretera se compone de los siguientes elementos:
-
-I. Elementos inherentes: banquetas y espacios de circulación peatonal, así como carriles de circulación vehicular y estacionamiento; y
-
-II. Elementos incorporados: infraestructura tecnológica, eléctrica, mobiliario, áreas verdes y señalización.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 SEXIES.- La planeación, diseño e implementación de los planes de la infraestructura por parte del Estado y municipios deberá regirse de manera que se prioricen a las poblaciones con mayor grado de vulnerabilidad, poco desarrollo tecnológico y de escasos recursos, de acuerdo con la siguiente prioridad, basada en el grado de urbanización:
-
-I. Rurales;
-
-II. Semirurales;
-
-III. Urbanas; y
-
-IV. Predominantemente urbanas.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 SEPTIES.- Toda obra en la vía pública destinada a la construcción o conservación de esta, o a la instalación o reparación de servicios, debe contemplar, previamente a su inicio, la colocación de dispositivos de desvíos, reducción de velocidades y protección de obra, conforme a las normas técnicas aplicables a la planeación.
-
-Los tres órdenes de gobierno deberán estandarizar las especificaciones técnicas de seguridad en las zonas de obras viales, conforme a las normas técnicas aplicables a la planeación en concordancia con lo establecido en la Ley General de Movilidad y Seguridad y la presente Ley.
-
-El diseño de las vías públicas deberá atender a la reducción máxima de muerte o lesiones graves a las personas usuarias involucradas en siniestros de tránsito. Asimismo, deberá incorporar criterios que preserven la vida, seguridad, salud, integridad y dignidad de las personas usuarias de la vía, particularmente de los grupos en situación de vulnerabilidad.
-
-Cuando un tramo de vía de jurisdicción estatal se adentre en una zona urbana, ésta deberá adaptar su vocación, velocidad y diseño, considerando la movilidad y seguridad vial de las personas que habitan en esos asentamientos.
-
-Cuando una vía de jurisdicción estatal corte un asentamiento humano urbano a nivel y no existan libramientos, deberá considerarse la construcción de pasos peatonales seguros a nivel, para garantizar la permeabilidad entre las zonas urbanas.
-
-Las vías interurbanas adentradas en zonas urbanas deberán considerar según su uso, el espacio adecuado para las personas que se trasladan a pie y en bicicleta, así como en su caso, espacio para circulación, ascenso y descenso del transporte público.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 OCTIES.- Las autoridades estatal y municipales, deberán considerar la implementación de auditorías e inspecciones, como parte de instrumentos preventivos, correctivos y evaluativos, que analicen la operación de la infraestructura y equipamiento vial e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la presente Ley.
-
-Dichas auditorias se llevarán a cabo conforme a los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial emita El Sistema Nacional.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 NONIES.- El Estado y los municipios, en el ámbito de sus competencias, procurarán que todos los proyectos de infraestructura y equipamiento vial a implementar generen espacios públicos de calidad, respetuosos del medio ambiente, accesibles, seguros, incluyentes, con perspectiva de interseccionalidad y con criterios de diseño universal y habitabilidad para la circulación de personas peatonas y vehículos no motorizados, debiendo considerar también la conectividad con la red vial, a través de intersecciones que sigan los criterios de velocidad, legibilidad, trayectorias directas, multimodalidad, continuidad de superficie, prioridad de paso, paradores seguros y visibilidad.
-
-El Estado y los Municipios, procurarán que por lo menos el treinta y cinco por ciento de las obras públicas cumplan con todos los criterios para el diseño de infraestructura vial, a que hace referencia esta Ley.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 DECIES.- A fin de garantizar la vocación de las vías, todos los proyectos de infraestructura vial urbana deberán considerar lo siguiente:
-
-I. El establecimiento de espacios para personas peatonas y vehículos no motorizados, de calidad, cómodos, accesibles y seguros; y
-
-II. Criterios que garanticen dimensiones, conexiones y espacios suficientes para el disfrute de la vía.
-
-El Estado y los Municipios, en el ámbito de sus competencias, vincularán los estudios técnicos aplicables a la movilidad y la seguridad vial, con los principios y criterios establecidos en esta Ley.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 UNDECIES.- Los programas, acciones y proyectos de infraestructura relacionados con la movilidad y la seguridad vial se enfocarán prioritariamente en lo siguiente:
-
-I. Implementar mejoras a la infraestructura para la movilidad no motorizada y peatonal, así como efectuar acciones para la integración y fortalecimiento del servicio de transporte público del Estado y municipios, con el fin de promover su uso y cumplir con el objeto de esta Ley;
-
-II. La mejora de la infraestructura para la movilidad, servicios auxiliares y el transporte que promuevan el diseño universal y la seguridad vial;
-
-III. Desarrollar políticas para reducir siniestros de tránsito, así como proyectos estratégicos de infraestructura para la movilidad y seguridad vial, priorizando aquellos enfocados en proteger la vida e integridad de las personas usuarias de las vías, donde se considere los factores de riesgo;
-
-IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al fortalecimiento y a mejorar las condiciones del transporte público, su integración con el territorio, así como la distribución eficiente de bienes y mercancías;
-
-V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos;
-
-VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial; y
-
-VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos conforme a la jerarquía de la movilidad.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 216 DUODECIES.- El Estado y sus municipios preverán la elaboración de estudios de evaluación del impacto en la movilidad y la seguridad vial, lo cual tendrá por objeto analizar y evaluar las posibles influencias o alteraciones generadas por la realización de obras y actividades privadas y públicas, sobre los desplazamientos de las personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida, la accesibilidad, la competitividad, y los demás aspectos previstos en esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN QUINTA. El Servicio Contratado a Través de Plataformas Tecnológicas Administrado por Empresas de Redes de Transporte
 
 ###### ARTÍCULO 134.
 
@@ -4327,7 +4287,155 @@ IX. Encender las luces interiores de los vehículos por la noche, cuando se encu
 
 ### CAPÍTULO PRIMERO. Disposiciones Preliminares
 
-#### SECCIÓN SEGUNDA. La Movilidad Urbana
+#### SECCIÓN PRIMERA. Disposiciones Preliminares
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 BIS.- El Estado y los municipios establecerán en su normativa aplicable que las obras de infraestructura vial urbana y carretera sean diseñadas y ejecutadas bajo los principios, jerarquía de la movilidad y criterios establecidos en la presente Ley, priorizando aquéllos que atiendan a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada territorio.
+
+Los estándares de diseño vial y dispositivos de control del tránsito deberán ser definidos en concordancia con las normas oficiales mexicanas expedidas para tal efecto.
+
+En materia de prevención de siniestros de tránsito, el Estado y los municipios deberán establecer estrategias, planes y programas de infraestructura vial que, reconociendo la posibilidad del error humano y la interseccionalidad de las personas usuarias de la vía, se encaminen a evitar, a través del mejoramiento de la infraestructura vial, muertes y lesiones, incluidas aquellas en que se adquiere alguna discapacidad.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 TER.- Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad considerando que:
+
+I. La movilidad se enfoca en el tránsito de personas y vehículos; y
+
+II. La habitabilidad se enfoca en la recreación, consumo, socialización, disfrute y acceso a los medios que permiten el ejercicio de los derechos sociales.
+
+La conducción de las autoridades competentes sobre las vías debe fortalecer ambas funciones, a través de criterios diferenciados en función de la jerarquía de la movilidad, tomando en consideración las necesidades diferenciadas de los grupos en situación de vulnerabilidad.
+
+La prioridad en el diseño y operación de las vías y carreteras están definidas en función de la jerarquía de la movilidad mediante un enfoque de sistemas seguros.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 QUÁTER.- El Estado y los municipios, en el ámbito de su competencia considerarán, además de los principios establecidos en la presente Ley, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
+
+I. Diseño universal. La construcción de infraestructura vial deberá considerar espacios de calidad, accesibles y seguros que permitan la inclusión de todas las personas sin discriminación alguna, con especial énfasis en la jerarquía de la movilidad estipulada en esta Ley y el uso equitativo del espacio público. En vías urbanas se considerará el criterio de calle completa y las adicionales medidas que se estimen necesarias.
+
+Se procurará evitar la construcción de pasos elevados o subterráneos cuando haya la posibilidad de adecuar el diseño para hacer el cruce peatonal, así como el destinado a movilidad no motorizada y de tracción humana, y las demás necesarias para garantizar una movilidad incluyente.
+
+Las condiciones mínimas de infraestructura se ordenan de la siguiente manera:
+
+a) Aceras pavimentas reservadas para el tránsito de personas peatonas;
+
+b) Iluminación que permita el transito nocturno y seguro de personas peatonas;
+
+c) Pasos peatonales que garanticen zonas de intersección seguras entre la circulación rodada y el tránsito peatonal;
+
+d) Señales de control de tráfico peatonal, motorizado y no motorizado que regule el paso seguro de personas peatonas;
+
+II. Priorizar a los grupos en situación de vulnerabilidad. El diseño de la red vial debe garantizar que los factores como la velocidad, la circulación cercana a vehículos motorizados y la ausencia de infraestructura de calidad, no pongan en riesgo a personas peatonas ni a las personas usuarias de la vía pública que empleen vehículos no motorizados y de tracción humana;
+
+III. Participación social. En el proceso de diseño y evaluación de la infraestructura vial, se procurarán esquemas de participación social de las personas usuarias de la vía;
+
+IV. Visión integral. Los proyectos de nuevas calles o de rediseño de las existentes en las vialidades urbanas, semiurbanas y rurales, deberán considerar el criterio de calle completa, asignando secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite;
+
+V. Intersecciones seguras. Las intersecciones deberán estar diseñadas para garantizar la seguridad de todas las personas usuarias de la vía, especialmente a las y los peatones y personas con movilidad limitada y grupos en situación de vulnerabilidad;
+
+VI. Pacificación del tránsito. Los diseños en infraestructura vial, sentidos y operación vial, deberán priorizar la reducción de flujos y velocidades vehiculares, para dar lugar al transporte público y a la movilidad activa y no motorizada y de tracción humana, a fin de lograr una sana convivencia en las vías.
+
+El diseño geométrico, de secciones de carriles, pavimentos y señales deberá considerar una velocidad de diseño de 30 km/h máxima para calles secundarias y terciarias, para lo cual se podrán ampliar las banquetas, reducir secciones de carriles, utilizar mobiliario, pavimentos especiales, desviar el eje de la trayectoria e instalar dispositivos de reducción de velocidad;
+
+VII. Velocidades seguras. Las vías deben contar, por diseño, con las características, señales y elementos necesarios para que sus velocidades de operación sean compatibles con el diseño y las personas usuarias de la vía que en ella convivan;
+
+VIII. Legibilidad y autoexplicabilidad. Es la cualidad de un entorno vial que provoca un comportamiento seguro de las personas usuarias simplemente por su diseño y su facilidad de entendimiento y uso. El diseño y la configuración de una calle o carretera autoexplicable cumple las expectativas de las personas usuarias, anticipa adecuadamente las situaciones y genera conductas seguras.
+
+Las vías autoexplicables integran sus elementos de manera coherente y entendible como señales, marcas, dispositivos, geometría, superficies, iluminación y gestión de la velocidad, para evitar siniestros de tránsito y generar accesibilidad para las personas con discapacidad;
+
+IX. Conectividad. Los espacios públicos deben formar parte de una red que permita a las personas usuarias conectar sus orígenes y destinos, entre modos de transporte, de manera eficiente y fácil. También deben permitir el desplazamiento libre de personas peatonas, personas usuarias de movilidad activa o no motorizada y otros prioritarios, incluidos vehículos de emergencia;
+
+X. Permeabilidad. La infraestructura debe contar con un diseño que permita la recolección e infiltración de agua pluvial y su reutilización en la medida que el suelo y el contexto hídrico del territorio lo requiera y con las autorizaciones ambientales y de descarga de la autoridad competente;
+
+XI. Tolerancia. Las vías y sus costados deben prever la posible ocurrencia de errores de las personas usuarias, y con su diseño y equipamiento técnico procurarán minimizar las consecuencias de siniestros de tránsito;
+
+XII. Movilidad sostenible. Transporte cuyos impactos sociales, ambientales y climáticos permitan asegurar las necesidades de transporte de las generaciones actuales sin comprometer la capacidad en los recursos para satisfacer las del futuro y mejorar la calidad ambiental;
+
+XIII. Calidad. Las vías deben contar con un diseño adecuado a las necesidades de las personas, materiales de larga duración, diseño universal y acabados, así como mantenimiento adecuado para ser funcional, atractiva estéticamente y permanecer en el tiempo; y
+
+XIV. Tratamiento de condiciones climáticas. El proyecto debe incorporar un diseño con un enfoque integral que promueva y permita una menor dependencia de los combustibles fósiles, así como hacer frente a la agenda de adaptación y mitigación al cambio climático.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 QUINQUIES.- La infraestructura vial urbana, rural y carretera se compone de los siguientes elementos:
+
+I. Elementos inherentes: banquetas y espacios de circulación peatonal, así como carriles de circulación vehicular y estacionamiento; y
+
+II. Elementos incorporados: infraestructura tecnológica, eléctrica, mobiliario, áreas verdes y señalización.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 SEXIES.- La planeación, diseño e implementación de los planes de la infraestructura por parte del Estado y municipios deberá regirse de manera que se prioricen a las poblaciones con mayor grado de vulnerabilidad, poco desarrollo tecnológico y de escasos recursos, de acuerdo con la siguiente prioridad, basada en el grado de urbanización:
+
+I. Rurales;
+
+II. Semirurales;
+
+III. Urbanas; y
+
+IV. Predominantemente urbanas.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 SEPTIES.- Toda obra en la vía pública destinada a la construcción o conservación de esta, o a la instalación o reparación de servicios, debe contemplar, previamente a su inicio, la colocación de dispositivos de desvíos, reducción de velocidades y protección de obra, conforme a las normas técnicas aplicables a la planeación.
+
+Los tres órdenes de gobierno deberán estandarizar las especificaciones técnicas de seguridad en las zonas de obras viales, conforme a las normas técnicas aplicables a la planeación en concordancia con lo establecido en la Ley General de Movilidad y Seguridad y la presente Ley.
+
+El diseño de las vías públicas deberá atender a la reducción máxima de muerte o lesiones graves a las personas usuarias involucradas en siniestros de tránsito. Asimismo, deberá incorporar criterios que preserven la vida, seguridad, salud, integridad y dignidad de las personas usuarias de la vía, particularmente de los grupos en situación de vulnerabilidad.
+
+Cuando un tramo de vía de jurisdicción estatal se adentre en una zona urbana, ésta deberá adaptar su vocación, velocidad y diseño, considerando la movilidad y seguridad vial de las personas que habitan en esos asentamientos.
+
+Cuando una vía de jurisdicción estatal corte un asentamiento humano urbano a nivel y no existan libramientos, deberá considerarse la construcción de pasos peatonales seguros a nivel, para garantizar la permeabilidad entre las zonas urbanas.
+
+Las vías interurbanas adentradas en zonas urbanas deberán considerar según su uso, el espacio adecuado para las personas que se trasladan a pie y en bicicleta, así como en su caso, espacio para circulación, ascenso y descenso del transporte público.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 OCTIES.- Las autoridades estatal y municipales, deberán considerar la implementación de auditorías e inspecciones, como parte de instrumentos preventivos, correctivos y evaluativos, que analicen la operación de la infraestructura y equipamiento vial e identifiquen las medidas necesarias que se deben emprender para que se cumplan los principios y criterios establecidos en la presente Ley.
+
+Dichas auditorias se llevarán a cabo conforme a los lineamientos en materia de auditorías e inspecciones de infraestructura y seguridad vial emita El Sistema Nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 NONIES.- El Estado y los municipios, en el ámbito de sus competencias, procurarán que todos los proyectos de infraestructura y equipamiento vial a implementar generen espacios públicos de calidad, respetuosos del medio ambiente, accesibles, seguros, incluyentes, con perspectiva de interseccionalidad y con criterios de diseño universal y habitabilidad para la circulación de personas peatonas y vehículos no motorizados, debiendo considerar también la conectividad con la red vial, a través de intersecciones que sigan los criterios de velocidad, legibilidad, trayectorias directas, multimodalidad, continuidad de superficie, prioridad de paso, paradores seguros y visibilidad.
+
+El Estado y los Municipios, procurarán que por lo menos el treinta y cinco por ciento de las obras públicas cumplan con todos los criterios para el diseño de infraestructura vial, a que hace referencia esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 DECIES.- A fin de garantizar la vocación de las vías, todos los proyectos de infraestructura vial urbana deberán considerar lo siguiente:
+
+I. El establecimiento de espacios para personas peatonas y vehículos no motorizados, de calidad, cómodos, accesibles y seguros; y
+
+II. Criterios que garanticen dimensiones, conexiones y espacios suficientes para el disfrute de la vía.
+
+El Estado y los Municipios, en el ámbito de sus competencias, vincularán los estudios técnicos aplicables a la movilidad y la seguridad vial, con los principios y criterios establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 UNDECIES.- Los programas, acciones y proyectos de infraestructura relacionados con la movilidad y la seguridad vial se enfocarán prioritariamente en lo siguiente:
+
+I. Implementar mejoras a la infraestructura para la movilidad no motorizada y peatonal, así como efectuar acciones para la integración y fortalecimiento del servicio de transporte público del Estado y municipios, con el fin de promover su uso y cumplir con el objeto de esta Ley;
+
+II. La mejora de la infraestructura para la movilidad, servicios auxiliares y el transporte que promuevan el diseño universal y la seguridad vial;
+
+III. Desarrollar políticas para reducir siniestros de tránsito, así como proyectos estratégicos de infraestructura para la movilidad y seguridad vial, priorizando aquellos enfocados en proteger la vida e integridad de las personas usuarias de las vías, donde se considere los factores de riesgo;
+
+IV. Impulsar la planeación de la movilidad y la seguridad vial orientada al fortalecimiento y a mejorar las condiciones del transporte público, su integración con el territorio, así como la distribución eficiente de bienes y mercancías;
+
+V. Realizar estudios para la innovación, el desarrollo tecnológico e informático, así como para promover la movilidad no motorizada y el transporte público en los centros de población con menores ingresos;
+
+VI. Desarrollar programas de información, educación e investigación en materia de sensibilización, educación y formación sobre movilidad y seguridad vial; y
+
+VII. Otros que permitan el cumplimiento de esta Ley, sus principios y objetivos conforme a la jerarquía de la movilidad.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 216 DUODECIES.- El Estado y sus municipios preverán la elaboración de estudios de evaluación del impacto en la movilidad y la seguridad vial, lo cual tendrá por objeto analizar y evaluar las posibles influencias o alteraciones generadas por la realización de obras y actividades privadas y públicas, sobre los desplazamientos de las personas y bienes, a fin de evitar o reducir los efectos negativos sobre la calidad de vida, la accesibilidad, la competitividad, y los demás aspectos previstos en esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 217.
 
@@ -4355,7 +4463,7 @@ La SOP en el ámbito de sus competencias y en coordinación con los municipios, 
 
 Con la finalidad de garantizar un funcionamiento adecuado de las vialidades, así como homologar la nomenclatura y señalización vial en todas las áreas de tránsito peatonal y vehicular, la CMOV en coordinación con la SOP realizará y publicará el Manual de Diseño de la Vía Pública del Estado de Aguascalientes.
 
-#### SECCIÓN TERCERA. Las Vías Ciclistas
+#### SECCIÓN SEGUNDA. La Movilidad Urbana
 
 ###### ARTÍCULO 223.
 
@@ -4393,7 +4501,7 @@ X. El diseño de los mecanismos para mejorar la nomenclatura, señalización, in
 
 Las autoridades de desarrollo urbano estatal y municipal, conforme a lo dispuesto en los programas aplicables deberán prever que las autorizaciones de nuevos centros de población, colonias o fraccionamientos, condominios y desarrollos inmobiliarios especiales atiendan a la jerarquía de la movilidad, procurando la infraestructura, mobiliario y señalética adecuada para cumplir con los principios de esta Ley.
 
-#### SECCIÓN CUARTA. La Clasificación de las Vías Públicas
+#### SECCIÓN TERCERA. Las Vías Ciclistas
 
 ###### ARTÍCULO 227.
 
@@ -4416,6 +4524,104 @@ III. Ciclobanda: Carril para circulación de ciclistas segregado sólo por demar
 IV. Ciclocarril: Carril en la vialidad, destinado exclusivamente para la circulación de los ciclistas, delimitado por elementos de confinamiento y ubicado en el extremo derecho del área de circulación de vehículos automotores, en caso de ser bidireccional, podrá ubicarse en áreas verdes y derechos de vía; y
 
 V. Caja Ciclista: A la zona marcada en el pavimento que permite a los ciclistas aguardar la luz verde del semáforo en una posición adelantada de tal forma que sean visibles a quienes conducen vehículos motorizados.
+
+#### SECCIÓN CUARTA. La Clasificación de las Vías Públicas
+
+###### ARTÍCULO 228.
+
+Las vías públicas se clasifican en:
+
+I. Carreteras Federales y Estatales;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+II. Vialidades Regionales de Acceso Controlado;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+III. Caminos Rurales y Vecinales;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
+
+IV. Vialidades Primarias:
+
+a) Anular o Periférica;
+
+b) Radial;
+
+c) Arterias Principales;
+
+d) Eje Vial;
+
+e) Avenida;
+
+f) Bulevar;
+
+g) Calzada; y
+
+h) Paseo; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
+
+V. Vialidades Secundarias o Colectoras;
+
+a) (DEROGADO, P.O. 23 DE ENERO DE 2023)
+
+b) (DEROGADO, P.O. 23 DE ENERO DE 2023)
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
+
+VI. Vialidades Terciarias o locales;
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
+
+Éstas a su vez pueden ser:
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+a) Calle;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+b) Callejón;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+c) Privada;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+d) Peatonal;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+e) Pasaje;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+f) Andador;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+g) Exclusivo para ciclistas;
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+h) Zonas 30; y
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+i) Área de transferencias, que conectan con estacionamientos y lugares de resguardo para bicicletas, terminales urbanas, suburbanas y foráneas y otras estaciones.
+
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+
+ARTÍCULO 228 BIS.- Las autoridades competentes podrán regular y ordenar la circulación de vehículos mediante el establecimiento de modalidades al flujo vehicular en días, horarios y vías, cuando así lo estimen pertinente, con objeto de mejorar las condiciones ambientales, de salud y de seguridad vial en puntos críticos o derivado de la realización de otras actividades públicas.
+
+La regulación y ordenamiento de la circulación se podrán aplicar considerando el impacto vial y ambiental de cada tipo de vehículo, dando preferencia a vehículos eficientes, sin que ello implique tramitar la expedición de permisos adicionales para la movilidad de bienes y mercancías.
+
+Para efectos del párrafo anterior, las autoridades local y municipales deberán reconocer los permisos otorgados por éstas para suministrar los servicios de transporte.
+
+### CAPÍTULO SEGUNDO. Las Especificaciones en Materia de Circulación de Vehículos
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -4515,111 +4721,15 @@ XIII. Implementación de medidas para la prevención y mitigación de factores d
 
 Las autoridades evaluarán la medida y proporcionalidad de las sanciones de tránsito que se establezcan.
 
-###### ARTÍCULO 228.
-
-Las vías públicas se clasifican en:
-
-I. Carreteras Federales y Estatales;
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
-
-II. Vialidades Regionales de Acceso Controlado;
-
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
-
-III. Caminos Rurales y Vecinales;
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
-
-IV. Vialidades Primarias:
-
-a) Anular o Periférica;
-
-b) Radial;
-
-c) Arterias Principales;
-
-d) Eje Vial;
-
-e) Avenida;
-
-f) Bulevar;
-
-g) Calzada; y
-
-h) Paseo; y
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
-
-V. Vialidades Secundarias o Colectoras;
-
-a) (DEROGADO, P.O. 23 DE ENERO DE 2023)
-
-b) (DEROGADO, P.O. 23 DE ENERO DE 2023)
-
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
-
-VI. Vialidades Terciarias o locales;
-
-> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2023)</small>
-
-Éstas a su vez pueden ser:
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-a) Calle;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-b) Callejón;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-c) Privada;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-d) Peatonal;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-e) Pasaje;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-f) Andador;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-g) Exclusivo para ciclistas;
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-h) Zonas 30; y
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-i) Área de transferencias, que conectan con estacionamientos y lugares de resguardo para bicicletas, terminales urbanas, suburbanas y foráneas y otras estaciones.
-
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
-
-ARTÍCULO 228 BIS.- Las autoridades competentes podrán regular y ordenar la circulación de vehículos mediante el establecimiento de modalidades al flujo vehicular en días, horarios y vías, cuando así lo estimen pertinente, con objeto de mejorar las condiciones ambientales, de salud y de seguridad vial en puntos críticos o derivado de la realización de otras actividades públicas.
-
-La regulación y ordenamiento de la circulación se podrán aplicar considerando el impacto vial y ambiental de cada tipo de vehículo, dando preferencia a vehículos eficientes, sin que ello implique tramitar la expedición de permisos adicionales para la movilidad de bienes y mercancías.
-
-Para efectos del párrafo anterior, las autoridades local y municipales deberán reconocer los permisos otorgados por éstas para suministrar los servicios de transporte.
-
-### CAPÍTULO SEGUNDO. Las Especificaciones en Materia de Circulación de Vehículos
-
-#### SECCIÓN SEGUNDA. La Circulación del Transporte Público de Personas
-
 ###### ARTÍCULO 229.
 
 En materia de circulación, los ciclistas deberán de observar lo dispuesto en el Artículo 64 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 230.
 
-Queda prohibido a los conductores de bicicletas o motocicletas, circular por los carriles centrales o interiores de las vías de acceso controlado y en los que así lo indique el señalamiento.
+Queda prohibido a los conductores de bicicletas, vehículos de movilidad personal utilizados para el transporte o motocicletas, circular por los carriles centrales o interiores de las vías de acceso controlado y en los que así lo indique el señalamiento.
 
 Las motocicletas, cuyo cilindraje sea igual o superior a los 400 centímetros cúbicos, no están sujetas a esta prohibición, pero deberán circular siempre con las luces encendidas.
 
@@ -4641,7 +4751,9 @@ V. Para rebasar un vehículo de motor deberán utilizar el carril de la izquierd
 
 VI. Los conductores de motocicletas deberán usar en la noche o cuando no hubiere suficiente visibilidad durante el día, el sistema de alumbrado tanto en la parte delantera como en la posterior;
 
-VII. Los conductores de motocicletas y en su caso sus acompañantes, deberán usar casco y anteojos protectores;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VII. Los conductores de motocicletas y en su caso sus acompañantes, deberán llevar puestos cascos protectores certificados de conformidad con las Normas Oficiales Mexicanas, abrochados y correctamente colocados durante sus viajes;
 
 VIII. Se abstendrán de asirse o sujetar su vehículo a otros que transiten por la vía pública;
 
@@ -4653,9 +4765,11 @@ XI. No deberán adelantar vehículos circulando por el espacio que dejan los mis
 
 XII. Las demás que disponga la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
 ###### ARTÍCULO 232.
 
-Los conductores de bicicletas o motocicletas podrán llevar carga cuando sus vehículos estén especialmente acondicionados para ello y que no impliquen algún riesgo para la seguridad del conductor.
+Los conductores de bicicletas o motocicletas, así como las personas usuarias de vehículos de movilidad personal para transporte, podrán llevar carga únicamente cuando sus vehículos estén especialmente acondicionados para ello y que no impliquen algún riesgo para la seguridad del conductor o de otras personas.
 
 ###### ARTÍCULO 233.
 
@@ -4885,7 +4999,7 @@ El conductor de un vehículo podrá circular en reversa hasta 20 metros, siempre
 
 En la noche o cuando no exista suficiente visibilidad en el día, los conductores al circular deberán llevar encendidos sus faros delanteros y las luces posteriores reglamentarias, evitando que el haz luminoso deslumbre a quienes transitan en sentido opuesto o en la misma dirección.
 
-#### SECCIÓN TERCERA. La Circulación del Transporte de Carga
+#### SECCIÓN SEGUNDA. La Circulación del Transporte Público de Personas
 
 ###### ARTÍCULO 256.
 
@@ -4949,7 +5063,7 @@ Los automóviles de transporte público de personas sin itinerario fijo, podrán
 
 Los vehículos que presten el servicio para el transporte público de personas no deberán ser abastecidos de combustible con pasajeros a bordo.
 
-#### SECCIÓN CUARTA. El Estacionamiento en la Vía Pública
+#### SECCIÓN TERCERA. La Circulación del Transporte de Carga
 
 ###### ARTÍCULO 264.
 
@@ -5023,9 +5137,7 @@ La autoridad local competente, podrá limitar la circulación en determinadas vi
 
 En el caso del presente Artículo, cualquier aclaración o permiso especial para su circulación, sin obstruir las Leyes de Tránsito Federal, deberán ser solicitadas ante la SSP o la dependencia municipal correspondiente.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+#### SECCIÓN CUARTA. El Estacionamiento en la Vía Pública
 
 ###### ARTÍCULO 270.
 
@@ -5241,7 +5353,9 @@ III. Por recibir el pago en forma distinta a la establecida en esta Ley.
 
 ### CAPÍTULO TERCERO. Las Obligaciones de los Agentes
 
-#### SECCIÓN SEGUNDA. Los Operativos de Alcoholimetría
+#### SECCIÓN PRIMERA. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTÍCULO 282.
 
@@ -5366,6 +5480,8 @@ La aplicación de la presente Ley, por lo que hace a las normas de vialidad y ci
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ARTÍCULO 291 BIS.- El Estado y los municipios realizarán pruebas de alcoholemia de manera permanente con el objetivo de evitar la conducción de cualquier tipo de vehículos bajo el efecto del alcohol, mediante el método aprobado por la Secretaría de Salud Federal o estatal en su caso.
+
+#### SECCIÓN SEGUNDA. Los Operativos de Alcoholimetría
 
 ###### ARTÍCULO 292.
 
@@ -5535,7 +5651,9 @@ Las anteriores sanciones serán impuestas independientemente de aquéllas que am
 
 La facultad del Estado para hacer exigibles las sanciones que se impongan a los infractores de esta Ley prescribirá en el transcurso de tres años, a partir de la fecha en que se notifique la infracción cometida.
 
-En los casos de infracciones cometidas con bicicletas, la autoridad que imponga la sanción se cerciorará de la identidad y domicilio del infractor, a fin de que en este lugar se le haga exigible el cobro de las sanciones económicas a que haya lugar. En caso de que el infractor se niegue a proporcionar estos datos, la autoridad podrá asegurar el vehículo a fin de impedir su circulación. Si se logra conocer la identidad del conductor, pero se niega a proporcionar su domicilio, la sanción se le hará exigible en el domicilio que se tenga registrado en los términos del Artículo 86.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
+
+En los casos de infracciones cometidas con bicicletas o vehículos de movilidad personal utilizado para transporte, la autoridad que imponga la sanción se cerciorará de la identidad y domicilio del infractor, a fin de que en este lugar se le haga exigible el cobro de las sanciones económicas a que haya lugar. En caso de que el infractor se niegue a proporcionar estos datos, la autoridad podrá asegurar el vehículo a fin de impedir su circulación, hasta que se acredite la identidad del conductor y en su caso, se haga el pago de la sanción correspondiente. Si se logra conocer la identidad del conductor, pero se niega a proporcionar su domicilio, la sanción se le hará exigible en el domicilio que se tenga registrado en los términos del Artículo 86.
 
 ###### ARTÍCULO 304.
 
@@ -5980,6 +6098,38 @@ f) Vehículos de transporte público de bienes:
 2. No colocar banderas, reflejos rojos o indicadores de peligro cuando sobresalga la carga; o
 
 3. Transportar fuera de los horarios y rutas autorizadas;
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 21 DE JULIO DE 2025)</small>
+
+g) Vehículos de Movilidad Personal para transporte:
+
+1. No circular por la vía ciclista o en el carril de extrema derecha cuando las vialidades sobre las que transiten no cuenten con dicha infraestructura;
+
+2. Circular a más de veinticinco kilómetros por hora;
+
+3. Hacer uso del vehículo por más de una persona o ser menor de dieciséis años de edad;
+
+4. Asirse o sujetarse de otro vehículo que transite por la vía pública;
+
+5. No usar el casco protector o lentes de seguridad;
+
+6. Virar en alguna intersección sin señalar previamente el sentido del movimiento a través de algún medio adecuado que permita su conocimiento a los demás usuarios;
+
+7. Circular entre los vehículos o de manera paralela con otro vehículo dentro de la vía ciclista o del mismo carril;
+
+8. Circular en sentido contrario, sobre banquetas y zonas peatonales, carriles centrales o interiores de las vías de acceso controlado, puentes, pasos a desnivel, vialidades regionales o de acceso controlado y en aquellas que existan señalamientos que restrinjan su circulación;
+
+9. Circular con carga que dificulte su visibilidad, equilibrio y su adecuado manejo;
+
+10. Por usar o manipular aparatos telefónicos, de radio, reproductores de sonido y demás aparatos que propicien distracción al conducir o reduzcan el sistema auditivo y visual;
+
+11. No respetar la preferencia de paso de peatones y vehículos de emergencia;
+
+12. No respetar los semáforos, señalizaciones de tránsito;
+
+13. Realizar cualquier maniobra que constituya un riesgo para sí o para otras personas usuarias de la vía pública; o
+
+14. Circular sin luces y aditamentos reflejantes, ni contar con timbre o claxon, en los términos señalados por esta Ley.
 
 III. Graves:
 
@@ -6620,3 +6770,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Coordinación General de Movilidad del Estado de Aguascalientes deberá emitir las disposiciones que establezcan las especificaciones de las luces interiores que deban portar los vehículos destinados al servicio de transporte publico de personas en las modalidades previstas del inciso a) al inciso i) de la fracción I del artículo 119 de la Ley de Movilidad del Estado de Aguascalientes, así como los vehículos destinados al servicio de transporte de personas contratado a través de plataformas tecnológicas, dentro (sic) los 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 223.- SE REFORMA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, por conducto de la autoridad competente, deberá realizar las adecuaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Aguascalientes, así como promover ante los ayuntamientos la armonización de sus reglamentos municipales en materia de tránsito, movilidad y espacio público, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a las disposiciones previstas para los Vehículos de Movilidad Personal.
+
+###### ARTÍCULO TERCERO.
+
+La Coordinación Estatal de Protección Civil deberá, en un plazo no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, actualizar sus protocolos de atención a emergencias, inspección y prevención de riesgos, a fin de incorporar consideraciones específicas sobre el uso, almacenamiento, accidentes y componentes de los Vehículos de Movilidad Personal, en concordancia con la Ley de Movilidad del Estado de Aguascalientes y demás disposiciones aplicables.
