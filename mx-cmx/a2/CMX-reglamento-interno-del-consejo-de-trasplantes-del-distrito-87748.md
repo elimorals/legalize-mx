@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-consejo-de-trasplantes-del-distrito-8774
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-15"
-last_updated: "2012-05-15"
+last_updated: "2025-07-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87748&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2012-04-16"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO DE TRASPLANTES DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL CONSEJO DE TRASPLANTES DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 21 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERNO DEL CONSEJO DE TRASPLANTES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE JULIO DE 2025 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2012.
 
@@ -253,3 +255,15 @@ Ciudad de México, Distrito Federal los (sic) dieciséis días del mes de abril 
 Dr. José Armando Ahued Ortega
 
 Vicepresidente del Consejo de Trasplantes del Distrito Federal
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL REGLAMENTO INTERNO DEL CONSEJO DE TRASPLANTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México y estará vigente en tanto no se sustituya.
+
+TERCERO. A partir de la fecha de entrada en vigor del presente Aviso, quedará sin efectos el Reglamento Interno del Consejo de Trasplantes del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 15 de mayo de 2012.
