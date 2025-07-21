@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2025-02-07"
+last_updated: "2025-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL PUNTO SÉPTIMO DEL DECRETO NÚMERO 119, PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2025; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE OCTUBRE DE DOS MIL VEINTICINCO.]</small>
+
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -618,3 +620,25 @@ P.O. 7 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 39 MEDIANTE EL CUAL SE CREA LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, SE REFORMA EL ARTÍCULO 33 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, Y SE REFORMA EL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el 01 de octubre de 2025.
+
+SEGUNDO.- Se extingue el organismo público descentralizado denominado Instituto de la Mujer para el Estado de Baja California, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación, mismo se ejercerá por la persona Titular de la Secretaría de las Mujeres o quien está designe.
+
+Para efecto de lo previsto en el párrafo anterior, a partir de la publicación del presente Decreto la persona Titular de la Secretaría de las Mujeres o quien está designe deberá iniciar con el proceso de extinción del organismo público descentralizado denominado Instituto de la Mujer para el Estado de Baja California, el cual deberá concluir el 30 de septiembre de 2025.
+
+TERCERO.- La persona Titular del Poder Ejecutivo, por conducto de la Secretaría de las Mujeres señalará las bases para llevar a cabo la liquidación derivada de la extinción del Instituto de la Mujer para el Estado de Baja California, las cuales deberán considerar la eficacia, eficiencia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público, por lo que podrá resolver cualquier situación inherente a dicho proceso.
+
+CUARTO.- La Persona Titular del Ejecutivo, por conducto de la Oficialía Mayor de Gobierno, intervendrá, en términos del ordenamiento aplicable y deberá identificar los bienes y recursos tanto humanos como financieros con que cuente el Instituto de la Mujer para el Estado de Baja California, para que según sus atribuciones y estructura orgánica se destinen a la Secretaría de las Mujeres, para el ejercicio de sus funciones.
+
+QUINTO.- En la transferencia de personal que se realice con motivo del presente Decreto, cualquiera que sea la naturaleza y forma en que presten sus servicios, se respetarán en todo momento sus derechos laborales. El personal de base cuya relación se encuentre tutelada por lo dispuesto en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California quedará a disposición de la Oficialía Mayor y sus derechos adquiridos y demás prestaciones no se afectarán por el presente Decreto.
+
+SEXTO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios, instrumentos jurídicos o programas que sustenten el ejercicio de recursos públicos de orden local o federal y demás compromisos suscritos por el Instituto de la Mujer para el Estado de Baja California que a la fecha de publicación del Decreto se encuentren vigentes, continuarán surtiendo sus efectos a cargo de la Secretaría de las Mujeres hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
+
+SÉPTIMO.- Los asuntos, actos, trámites, proyectos, programas, registros, acciones e instrumentos jurídicos y demás que se encuentren en curso o estén pendientes de resolución o conclusión a la fecha de entrada en vigor de las presentes reformas, que deban ser transferidos con motivo de la extinción del Instituto de la Mujer para el Estado de Baja California, pasarán a la Secretaría de las Mujeres de conformidad con el presente Decreto.
+
+OCTAVO.- Una vez extinguido, remítase al Registro Público de Organismos Descentralizados para que proceda a la cancelación de la inscripción de la Entidad.
