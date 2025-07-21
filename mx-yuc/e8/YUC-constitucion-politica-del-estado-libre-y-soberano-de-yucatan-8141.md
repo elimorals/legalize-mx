@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2025-07-04"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JULIO DE 2025.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -98,6 +98,10 @@ Todas las autoridades y organismos autónomos del estado de Yucatán, en el ámb
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2021)</small>
 
 El Estado reconoce el derecho fundamental al acceso libre y universal de banda ancha e internet, a través de los mecanismos y políticas públicas necesarias para asegurar progresivamente a la población su integración a la sociedad de la información y el conocimiento, promoviendo el desarrollo individual y social.
+
+> <small>(ADICIONADO, D.O. 21 DE JULIO DE 2025)</small>
+
+Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de estos, conforme a los principios y bases del Artículo 6º de la Constitución Política de los Estados Unidos Mexicanos y en los términos previstos en las leyes secundarias en la materia.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
@@ -967,9 +971,7 @@ XXXI Ter.- Requerir, a solicitud de la Comisión de Derechos Humanos del Estado 
 
 XXXI Quáter.- Analizar el Informe Anual presentado por la Comisión de Derechos Humanos del Estado de Yucatán y hacer público el resultado del mismo;
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
-
-XXXII.- Nombrar a las comisionadas y comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y a las personas integrantes de su consejo consultivo, en los términos establecidos en esta constitución y en las leyes aplicables;
+XXXII.- (DEROGADA, D.O. 21 DE JULIO DE 2025)
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -1551,9 +1553,7 @@ II.- promulgar, publicar y ejecutar las leyes que expida el Congreso, proveer en
 
 III.- nombrar y remover a los titulares de las dependencias que señala el Código de la Administración Pública de Yucatán, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE ABRIL DE 2016)</small>
-
-III Bis.- Objetar los nombramientos de los comisionados del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales hechos por el Congreso del estado, en los términos establecidos en esta constitución y en las leyes aplicables;
+III Bis.- (DEROGADA, D.O. 21 DE JULIO DE 2025)
 
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -2289,9 +2289,7 @@ Son organismos constitucionales autónomos del Estado de Yucatán:
 
 I.- La Comisión de Derechos Humanos del Estado de Yucatán;
 
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
-
-II.- El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
+II.- (DEROGADA, D.O. 21 DE JULIO DE 2025)
 
 > <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -2343,41 +2341,13 @@ La Comisión de Derechos Humanos del Estado de Yucatán estará facultada para c
 
 Todo servidor público del Estado de Yucatán está obligado a responder las recomendaciones que le presente la Comisión de Derechos Humanos del Estado de Yucatán. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado de Yucatán o, en sus recesos, la Diputación Permanente, podrá requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, a las autoridades o servidores públicos responsables para que comparezcan ante dichos órganos legislativos, a efecto de que expliquen el motivo de su negativa.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE JULIO DE 2025)</small>
 
 ### CAPÍTULO III. Del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
-
 ###### Artículo 75.
 
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales es un organismo público autónomo, especializado, independiente, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el ejercicio de los derechos de acceso a la información y la protección de datos personales, conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos así como lo dispuesto en esta constitución y en las leyes aplicables.
-
-En su funcionamiento, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión o a cargo de cualquier autoridad, entidad, órgano u organismo de los poderes Ejecutivo, Legislativo y Judicial, ayuntamientos, órganos autónomos, partidos políticos estatales y nacionales con registro en el estado, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal o municipal.
-
-Las resoluciones del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales son vinculatorias, definitivas e inatacables para los sujetos obligados.
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará por tres comisionadas y comisionados, quienes serán designados por el Congreso del estado, con el voto de las dos terceras partes de sus integrantes, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta en la que se garantizará la transparencia, independencia y participación de la sociedad. Para su conformación se garantizará la paridad de género y la experiencia en materia de acceso a la información pública y protección de datos personales.
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
-
-El nombramiento podrá ser objetado por la Gobernadora o Gobernador en un plazo de diez días hábiles contados a partir del día de la sesión en que se haya aprobado la designación del comisionado. Cuando la Gobernadora o Gobernador no objete el nombramiento, ocupará el cargo la persona nombrada por el Congreso; en caso de objeción, este designará a la o el comisionado de entre las dos propuestas restantes de la terna.
-
-Los comisionados durarán en su cargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 65 de esta Constitución y contar con título y cédula profesional al día de su elección, con antigüedad mínima de cinco años, expedido por autoridad e institución legalmente facultada para ello. Los nombramientos se realizarán escalonadamente para garantizar el principio de autonomía. No podrán ser reelectos ni tener otro empleo, cargo o comisión, con excepción de los que desempeñen instituciones docentes, científicas o de beneficencia. Únicamente podrán ser removidos de su cargo en los términos del título décimo de esta constitución y serán sujetos de juicio político.
-
-El comisionado presidente será designado por los propios comisionados, mediante voto secreto, para un período de dos años, con posibilidad de ser reelecto por un período igual. El comisionado presidente estará obligado a rendir un informe anual ante el Congreso del estado, en la fecha y en los términos que disponga la ley.
-
-> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
-
-Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos paritariamente por el Congreso del estado para un período de cuatro años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la paridad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
-
-Toda autoridad o servidor público estará obligado a coadyuvar con el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y sus integrantes para el buen desempeño de sus funciones. La ley establecerá las medidas de apremio que podrá imponer el organismo para asegurar el cumplimiento de sus decisiones.
-
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se coordinará con el organismo garante previsto en el artículo 6o., apartado A, de la Constitución Política de los Estados Unidos Mexicanos, y con los de las demás entidades federativas de conformidad con las disposiciones de las leyes en la materia.
+(DEROGADO, D.O. 21 DE JULIO DE 2025)
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -2563,23 +2533,37 @@ La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán conta
 
 La persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, será designada por el Congreso del Estado y durará en el cargo quince años, contados a partir de la fecha en la que rinda el compromiso constitucional respectivo, al término del cual no podrá ser ratificada para un segundo período. Para ocupar el cargo, deberá cumplir con los requisitos y el procedimiento que establezca la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 4 DE JULIO DE 2025)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 21 DE JULIO DE 2025)</small>
+
+## TITULO SEPTIMO BIS. Autoridades Garantes
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 21 DE JULIO DE 2025)</small>
+
+### CAPITULO UNICO. De las Autoridades Garantes locales en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+
+> <small>(ADICIONADO, D.O. 21 DE JULIO DE 2025)</small>
+
+###### Artículo 75 Octies.
+
+La Autoridad Garante Local recaerá en un organismo desconcentrado de la Administración Pública Estatal, dependiente del órgano de control interno del Ejecutivo Estatal denominado "Transparencia para el Pueblo de Yucatán", mismo que tendrá la competencia en materia de acceso a la información pública, transparencia y protección de datos personales conforme a los principios y bases establecidos en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución local, la Ley General, y demás disposiciones secundarias aplicables.
+
+En su estructura se garantizará un órgano de gobierno y un Consejo Consultivo.
+
+(NOTA: EL 13 DE ABRIL DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 194/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O. 21 DE JULIO DE 2025)</small>
+
+###### Artículo 75 Nonies.
+
+Son autoridades garantes estatales, Transparencia para el Pueblo de Yucatán; el órgano de control y disciplina del Poder Judicial; los órganos de control interno de los organismos constitucionales autónomos; la Contraloría interna del Poder Legislativo del Estado; EL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE YUCATÁN, EN CUANTO A LA INFORMACIÓN PÚBLICA DE LOS PARTIDOS POLÍTICOS; EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN Y LOS TRIBUNALES LABORALES DEL PODER JUDICIAL DEL ESTADO, ESTOS DOS ÚLTIMOS EN CUANTO AL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS SINDICATOS, sus atribuciones y obligaciones se establecerán en las leyes que para tal efecto expida el Congreso del Estado.
+
+Los sujetos obligados, deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales en términos de lo previsto en el artículo segundo de esta Constitución local.
+
+(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
-### CAPITULO X. Del Centro de Innovación Tecnológica de Yucatán
-
-###### Artículo 75 Octies.
-
-(DEROGADO, D.O. 4 DE JULIO DE 2025)
-
-(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
-
-## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 76.
 
@@ -2979,9 +2963,9 @@ Los municipios podrán celebrar convenios con el Ejecutivo del Estado, a fin de 
 
 (REUBICADO [N. DE E. ANTES TÍTULO OCTAVO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
-## TITULO DECIMO. De las responsabilidades de los Servidores Públicos y los particulares vinculados con faltas administrativas graves o hechos de corrupción
+## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 86.
 
@@ -3361,9 +3345,9 @@ La planeación del Estado también implicará mecanismos para el uso racional de
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
-## TITULO UNDECIMO. Disposiciones generales
+## TITULO DECIMO. De las responsabilidades de los Servidores Públicos y los particulares vinculados con faltas administrativas graves o hechos de corrupción
 
-> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 97.
 
@@ -3433,11 +3417,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos de juicio político los diputados locales en funciones; las magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; las personas titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
+Podrán ser sujetos de juicio político los diputados locales en funciones; las magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; las personas titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3461,9 +3445,9 @@ Las declaraciones y resoluciones de la Legislatura del Estado son definitivas.
 
 El Congreso del Estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios y las personas integrantes del Órgano de Administración Judicial.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, D.O. 21 DE JULIO DE 2025)</small>
 
-Los diputados locales; los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
+Los diputados locales; los magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, las personas integrantes del Pleno del Órgano de Administración Judicial; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -3509,9 +3493,9 @@ El Sistema Estatal Anticorrupción tendrá como objeto realizar acciones y polí
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, D.O. 21 DE JULIO DE 2025)</small>
 
-I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; el presidente del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; un representante del Tribunal de Disciplina del Poder Judicial; así como por un representante del comité de participación ciudadana.
+I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; un representante del Tribunal de Disciplina del Poder Judicial; así como por un representante del comité de participación ciudadana.
 
 II.- El comité de participación ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -3537,9 +3521,9 @@ La responsabilidad del Estado y de los municipios por los daños que, con motivo
 
 (REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
-## TITULO DUODECIMO. Reforma e inviolabilidad de la Constitución
+## TITULO UNDECIMO. Disposiciones generales
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
 ###### Artículo 102.
 
@@ -3610,6 +3594,10 @@ El estado y los municipios no podrán contraer obligaciones o empréstitos sino 
 El estado y los municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 (REUBICADO [N. DE E. ANTES TÍTULO UNDÉCIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
+
+## TITULO DUODECIMO. Reforma e inviolabilidad de la Constitución
+
+> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 108.
 
@@ -6328,3 +6316,49 @@ El Gobernador, a través de la Secretaría de Administración y Finanzas, en la 
 Artículo octavo. Abrogación
 
 Se abroga la Ley Orgánica del Centro de Innovación Tecnológica de Yucatán publicada en el Diario Oficial del Gobierno del Estado (sic) Yucatán bajo el decreto 772 de fecha 27 de junio de 2024.
+
+D.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 96/2025 POR EL QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SIMPLIFICACIÓN ADMINISTRATIVA DE LA TRANSPARENCIA".]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en los artículos 73 Ter, fracción II, y 75, y en los transitorios tercero, párrafo segundo, cuarto, quinto, sexto, séptimo y octavo que lo harán cuando entren en vigor las adecuaciones en materia de transparencia, acceso a la información pública y protección de datos personales a que se refiere el artículo transitorio siguiente.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del Estado deberá realizar las adecuaciones legales necesarias para armonizar el marco jurídico estatal al contenido de este decreto en un plazo que no exceda de ciento veinte días naturales, contado a partir de su entrada en vigor.
+
+Artículo tercero. Extinción
+
+El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, se entenderá extinto cuando entre en vigor la legislación en materia de transparencia, acceso a la información pública y protección de datos personales a la que hace referencia el artículo segundo transitorio de este decreto.
+
+Artículo cuarto. Movimiento del personal y salvaguarda de derechos laborales
+
+El personal de Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales que, por disposición de las modificaciones contenidas en este decreto pase a formar parte del órgano garante local que asuma sus atribuciones, cuando corresponda, será de acuerdo a la capacidad presupuestaria y las necesidades administrativas, y se estará a lo dispuesto en las disposiciones legales y normativas aplicables en estricto apego a sus derechos laborales.
+
+La Secretaría de Administración y Finanzas del Gobierno del Estado dispondrá lo conducente en todo lo relativo a las liquidaciones que en derecho correspondan para las y los trabajadores que no sean incorporados al órgano garante local en términos del presente artículo, a fin de garantizar plenamente sus derechos laborales.
+
+Artículo quinto. Destino de recursos
+
+El Gobernador, por medio de la Secretaría de Administración y Finanzas, dispondrá lo conducente en relación con el destino de los recursos humanos, financieros, ahorros, materiales, tecnológicos, bienes muebles e inmuebles, así como archivos, expedientes y documentos asignados al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+Artículo sexto. Referencias
+
+Cuando en las leyes estatales, sus reglamentos o en otras disposiciones legales o normativas vigentes se haga referencia al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales o la autoridad en materia de transparencia, acceso a la información pública y protección de datos personales, se entenderá que se refiere, en todos los casos, a aquella que asuma sus atribuciones.
+
+Artículo séptimo. Actos en trámite
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este decreto, realizados por el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, serán asumidos por aquellas que asuman sus atribuciones, de conformidad con las disposiciones legales y normativas aplicables.
+
+Artículo octavo. Cumplimiento de disposiciones
+
+Las disposiciones de las leyes vigentes que, sin oponerse a lo previsto en este decreto, se refieran al Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, continuarán con toda su obligatoriedad y deberán cumplirse por aquellas que, en el marco de este decreto, tengan atribuciones iguales o análogas.
+
+Artículo noveno. Resolución de casos no previstos
+
+Se faculta al Gobernador para resolver las cuestiones que puedan suscitarse con motivo de la aplicación del artículo transitorio anterior.
+
+Artículo décimo. Previsiones presupuestales
+
+El Gobernador, a través de la Secretaría de Administración y Finanzas, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para su debida aplicación.
