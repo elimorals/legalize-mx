@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2025-02-07"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA -- ANTES LEY PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -85,9 +87,9 @@ Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres qu
 
 La trasgresión a los principios y programas que prevé esta Ley, por parte de servidores públicos, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-En lo no previsto por esta Ley, se aplicará supletoriamente, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y la Ley del Instituto de la Mujer para el Estado de Baja California, en lo estrictamente conducente.
+En lo no previsto por esta Ley, se aplicará supletoriamente la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California y la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, en lo estrictamente conducente.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -97,7 +99,11 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Acciones Afirmativas: Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
-II. Discriminación: Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+II. Discriminación: Toda distinción, exclusión o restricción o preferencia que por acción u omisión, con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: origen étnico o nacional, color de piel, cultura, sexo, género, edad, discapacidad, condición social, económica, de salud o jurídica, embarazo, lengua o idioma, creencias religiosas o espirituales, apariencia y/o condición física, características genéticas, situación migratoria, opiniones, identidad de género, orientación sexual, identidad o filiación política, estado civil, situación familiar, responsabilidades familiares, profesión o actividad laboral, antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia;
 
 III. Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
 
@@ -109,7 +115,9 @@ VI. Perspectiva de Género: Concepto que se refiere a la metodología y los meca
 
 VII. Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
 
-VIII. Instituto: Instituto de la Mujer para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VIII. Secretaría: Secretaría de las Mujeres para el Estado de Baja California;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2024)</small>
 
@@ -125,9 +133,21 @@ XII. Programa Estatal: Programa Estatal para la Igualdad entre Mujeres y Hombres
 
 XIII. Sistema Estatal: Sistema Estatal para la Igualdad de (sic) entre Mujeres y Hombres;
 
-XIV. Sistema Nacional. Sistema Nacional para la Igualdad entre Mujeres y Hombres; y,
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XV. Programa Nacional. Programa Nacional para la Igualdad entre Mujeres y Hombres.
+XIV. Sistema Nacional: Sistema Nacional para la Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+XV. Programa Nacional: Programa Nacional para la Igualdad entre Mujeres y Hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XVI. Brecha salarial de género: Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+XVII. Igualdad salarial: Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras.
 
 ###### Artículo 6.
 
@@ -151,11 +171,11 @@ Los Poderes del Estado y los Municipios ejercerán sus atribuciones en materia d
 
 El Ejecutivo Estatal y los Municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 10.
 
-El Ejecutivo Estatal, a través de la Secretaría que corresponda, según la materia de que se trate, y los Municipios, podrán suscribir convenios o acuerdos de coordinación con la participación del Instituto o de los institutos municipales para la mujer, a fin de:
+El Ejecutivo Estatal a través de la Secretaría, y los Municipios, podrán suscribir convenios o acuerdos de coordinación con la participación de los institutos municipales para la mujer, a fin de:
 
 I. Fortalecer sus funciones y atribuciones en materia de igualdad;
 
@@ -169,9 +189,9 @@ III. Impulsar la vinculación interinstitucional en el marco del Sistema;
 
 IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal, y
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria entre mujeres y hombres, en los ámbitos de la economía, política, toma de decisiones y en la vida social, deportiva, cultural y civil.
+V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria entre mujeres y hombres, en los ámbitos de la economía, política, toma de decisiones y en la vida familiar, de cuidados, laboral, social, deportiva, cultural y civil.
 
 ###### Artículo 11.
 
@@ -239,11 +259,15 @@ II. Capacitará a las Magistradas, Magistrados; Jueces, Juezas y al personal jud
 
 III. Garantizará que todas las actuaciones judiciales tengan por sustento los principios de la Constitución Federal, la Constitución del Estado, y los Convenios Internacionales suscritos por México, en materia de derechos humanos, igualdad y no discriminación.
 
-### CAPÍTULO TERCERO. INSTITUTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2025)</small>
+
+### CAPÍTULO TERCERO. SECRETARÍA DE LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 14.
 
-Corresponde al Instituto:
+Corresponde a la Secretaría de las Mujeres:
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -315,15 +339,15 @@ V. Fomentar la participación ciudadana en el diseño e implementación de la pl
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 16.
 
-La Política Estatal establecerá las acciones conducentes para fomentar la igualdad sustantiva en los ámbitos económico, político, social y cultural. La Política Estatal que desarrolle el Ejecutivo del Estado deberá observar los siguientes lineamientos:
+La Política Estatal establecerá las acciones conducentes para fomentar la igualdad sustantiva en los ámbitos familiar, de cuidados, económico, político, de salud, social, laboral y cultural, entre otros. La Política Estatal que desarrolle el Ejecutivo del Estado deberá observar los siguientes lineamientos:
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-I. Fomentar la igualdad sustantiva e igualdad de género;
+I. Fomentar la igualdad sustantiva, así como a la igualdad de género entre mujeres y hombres en todos los ámbitos de la vida: familiar, de cuidados, económico, político, de salud, social, laboral y cultural;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
@@ -373,9 +397,9 @@ XII. Promover que, en las prácticas de comunicación social de las dependencias
 
 XIII. Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva;
 
-> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-XIV. Promover el principio de igualdad de la remuneración entre mujeres y hombres, cuando realicen trabajos de igual valor; y,
+XIV. Establecer medidas tendientes a promover el principio de igualdad de la remuneración entre mujeres y hombres, cuando realicen trabajos de igual valor, y a erradicar en todos los ámbitos de la vida profesional y laboral la brecha salarial de género; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE FEBRERO DE 2025)</small>
 
@@ -405,11 +429,11 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 El Ejecutivo Estatal es el encargado de la aplicación del Sistema Estatal y el Programa Estatal a través de los órganos correspondientes.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 20.
 
-El Instituto a través de su Junta Directiva, sin menoscabo de las atribuciones que le confiere la Ley específica, tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad de género, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+Sin menoscabo de las atribuciones que le confieren las demás leyes, la Secretaría de las Mujeres a través de su Titular tendrá a su cargo la coordinación del Sistema Estatal, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad de género, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
 
 ###### Artículo 21.
 
@@ -427,9 +451,9 @@ El Sistema Estatal es el conjunto orgánico y articulado de estructuras, relacio
 
 El Sistema Estatal tendrá los objetivos siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-I. Promover la igualdad de género y la igualdad sustantiva entre mujeres y hombres;
+I. Promover la igualdad de género y la igualdad sustantiva entre mujeres y hombres, así como contribuir a la erradicación de todo tipo de discriminación; sin distinción de ningún tipo.
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2020)</small>
 
@@ -627,29 +651,35 @@ Será objetivo de la Política Estatal en materia económica y laboral:
 
 I. Desarrollar políticas públicas con perspectiva de género en materia económica;
 
-II. Impulsar liderazgos igualitarios, y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+II. Impulsar liderazgos igualitarios;
 
-III. Establecer fondos para la promoción de la igualdad de género en el trabajo y los procesos productivos.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2022)</small>
+III. Establecer fondos para la promoción de la igualdad de género en el trabajo y los procesos productivos; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+
+IV. Diseñar, implementar, ejecutar y evaluar políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres, para eliminar la brecha de género, en especial la salarial en los sectores público, privado y social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2025)</small>
 
 ###### Artículo 40.
 
-Para los efectos de lo previsto en el artículo anterior, la Secretaría de Economía e Innovación y la Secretaría del Trabajo y Previsión Social del Estado; así como los Municipios, el sector académico y social en sus diversos ámbitos de competencia, desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, la Secretaría de Economía e Innovación y la Secretaría del Trabajo y Previsión Social del Estado; así como los Municipios, el sector académico y social en sus diversos ámbitos de competencia, en coordinación con la Secretaría de las Mujeres desarrollarán las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género;
+I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo o género y la brecha salarial de género;
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
 II. Fomentar la incorporación a la educación y formación de las personas que, en razón de su género, están relegadas;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-III. Fomentar el acceso al trabajo de las personas que, en razón de su género, están relegadas de puestos directivos, especialmente;
+III. Fomentar el acceso al trabajo de las personas que, en razón de su sexo o género están relegadas de puestos directivos, para contribuir a disminuir y erradicar la brecha salarial de género;
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
 
@@ -661,9 +691,9 @@ V. Reforzar la cooperación entre los tres órdenes de gobierno para supervisar 
 
 VI. Financiar las acciones de información y concientización destinadas a fomentar la igualdad de género;
 
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
 
-VII. Evitar la segregación del mercado de trabajo de las personas por razón de su género;
+VII. Reducir y erradicar la brecha salarial y la segregación del mercado de trabajo de las personas por razón de su sexo o género;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -948,3 +978,11 @@ P.O. 7 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 40 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, con salvedad de lo dispuesto en el siguiente párrafo.
+
+Las reformas a los artículos 4, 5 fracción VIII, 10, primer párrafo 14, 20 y a la denominación del Capítulo Tercero del Título II, entrarán en vigor el primero de octubre de dos mil veinticinco.
