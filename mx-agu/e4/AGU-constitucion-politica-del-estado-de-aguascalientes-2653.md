@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-06-02"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -131,9 +131,9 @@ El Estado otorgará facilidades a los particulares para que coadyuven al cumplim
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá prever mecanismos, instituciones y políticas que garanticen la igualdad de oportunidades en condiciones de equidad.
+La mujer y el hombre son iguales ante la Ley, ésta protegerá la organización y desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -184,6 +184,10 @@ Toda persona tiene derecho al libre acceso a información plural y oportuna, as�
 > <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2025)</small>
 
 Las autoridades garantes de los derechos de acceso a la información y protección de datos personales en el Estado, serán, por parte del Ejecutivo, la Contraloría del Estado, quién además, conocerá de los asuntos en materia de transparencia y protección de datos personales de los Municipios; por parte de los Poderes Legislativo, Judicial y demás sujetos obligados, serán sus Órganos Internos de Control; y, el Instituto Estatal Electoral, conocerá de los partidos políticos locales, en términos de lo dispuesto por las leyes secundarias en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La Ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en el párrafo tercero de este artículo y 73 fracción XXI, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1921,9 +1925,9 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 V.- No haber tenido el cargo de Senador, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación, ni haber sido titular de la Fiscalía General del estado de Aguascalientes o su equivalente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
+El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, autonomía, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez, así como perspectiva de género y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -1967,6 +1971,10 @@ Si la renuncia o ausencia definitiva ocurre dentro de los primeros cinco años d
 
 Quien se haya desempeñado como Fiscal General del Estado, no podrá ser reelecto en el cargo.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 59 A.- Para proteger los derechos de las mujeres a una vida libre de violencias, las instituciones de procuración de justicia deberán contar con fiscalías o unidades especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 60.
@@ -1988,6 +1996,10 @@ V.- La Ley establecerá los casos en que proceda la impugnación de las resoluci
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2023)</small>
 
 VI.- Las condiciones para el ingreso, formación y permanencia, exámenes, sanciones y bajas de los agentes del Ministerio Público y del resto del personal que conforma la Fiscalía General se regirán por lo dispuesto en las leyes que emita el Congreso del Estado en materia del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes, observando lo establecido en la legislación federal.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
+
+Artículo 60 A.- La seguridad pública es una función del Estado y sus Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4° de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes de la materia. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2022)</small>
 
@@ -2109,9 +2121,9 @@ El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar l
 
 Tratándose de las partidas plurianuales aprobadas por el Congreso en términos de las Fracciones III y XXXIV del Artículo 27 de esta Constitución, éstas se ejercerán de acuerdo a lo establecido en el Decreto correspondiente, expedido por el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-Los servidores públicos del Estado de Aguascalientes y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Los servidores públicos del Estado de Aguascalientes y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades. A trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género.
 
 > <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
 
@@ -4676,3 +4688,11 @@ P.O. 2 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 207.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Político (sic) del Estado de Aguascalientes.
