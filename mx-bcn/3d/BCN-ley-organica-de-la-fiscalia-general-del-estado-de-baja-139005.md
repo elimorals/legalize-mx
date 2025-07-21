@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-fiscalia-general-del-estado-de-baja-139005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-10-31"
-last_updated: "2025-02-14"
+last_updated: "2025-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
 
 Ley publicada en el No. 49 del Periódico Oficial del Estado de Baja California, el jueves 31 de octubre de 2019.
 
@@ -205,9 +205,9 @@ e. Fiscalía Regional de Playas de Rosarito;
 
 f. Fiscalía Regional de San Quintín;
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2025)</small>
 
-g. Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género;
+g. Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres;
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE ABRIL DE 2021)</small>
 
@@ -621,7 +621,9 @@ IV. Fiscalía Regional de Tecate;
 
 V. Fiscalía Regional de Playas de Rosarito;
 
-VI. Fiscalía Especializada en Investigación de Delitos Contra Mujeres por Razón de Género;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2025)</small>
+
+VI. Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres;
 
 VII. Fiscalía Especializada en Delitos Contra la Vida;
 
@@ -1188,3 +1190,15 @@ P.O. 14 DE FEBRERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 46 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 4 (SIC) DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 119 DE LA XXV LEGISLATURA, MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA, A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA, A LA LEY DE CAPACITACIÓN EN MATERIA DE GÉNERO, DE PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA HACIA LAS MUJERES PARA EL ESTADO DE BAJA CALIFORNIA, Y SE ABROGA LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La Fiscalía General del Estado tendrá el plazo de treinta días naturales contados a partir de la entrada en vigor de las presentes reformas para realizar las modificaciones reglamentarias que resulten necesarias.
+
+Hasta en tanto no se realicen las modificaciones reglamentarias, toda referencia a la Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género se entenderá a la Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres.
+
+TERCERO.- Los contratos cuya naturaleza no sea laboral o burocrática, convenios y demás instrumentos celebrados por la Fiscalía Especializada en Delitos Contra Mujeres por Razón de Género que a la fecha de publicación del Decreto, se encuentren vigentes, continuarán surtiendo sus efectos y obligarán en sus términos a la Fiscalía Especializada en Delitos Relacionados con la Violencia de Género Contra las Mujeres, hasta en tanto no se sustituyan los derechos sobre los bienes o la materia de los mismos, o se den por terminados por cualquier medio.
