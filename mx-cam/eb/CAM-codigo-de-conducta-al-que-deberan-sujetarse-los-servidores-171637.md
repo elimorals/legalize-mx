@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-los-servidores-1716
 country: "mx"
 rank: "codigo"
 publication_date: "2023-12-22"
-last_updated: "2023-12-22"
+last_updated: "2025-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE BIENESTAR DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE BIENESTAR DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en la Sección Quinta del Número 2075 del Periódico Oficial del Estado de Campeche, el viernes 22 de Diciembre de 2023.
 
@@ -840,3 +842,13 @@ Licenciada Elisa María Hernández Romero
 Titular de la Secretaría de Bienestar
 
 del Poder Ejecutivo del Estado de Campeche
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Conducta al que deberán sujetarse las personas servidoras públicas de la Secretaría de Bienestar de la Administración Pública del Estado de Campeche, emitido mediante acuerdo de fecha 22 de diciembre de 2023 y publicado en el Periódico Oficial del Estado el mismo día.
