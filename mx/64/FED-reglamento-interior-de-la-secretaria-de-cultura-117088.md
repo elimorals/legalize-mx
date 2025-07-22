@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-cultura-117088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-11-08"
-last_updated: "2023-04-04"
+last_updated: "2025-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-11-04"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA, PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2025 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de noviembre de 2016.
 
@@ -762,3 +764,17 @@ TERCERO. Los archivos, documentación y acervos bibliográficos de la Dirección
 CUARTO. Se transfieren al Fondo de Cultura Económica los derechos y obligaciones, recursos presupuestarios, derechos de autor, archivos, acervos y demás documentación, en cualquier formato, que se encuentren bajo resguardo de la Dirección General de Publicaciones.
 
 QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado a la Secretaría de Cultura en el Presupuesto de Egresos de la Federación, sin que se incremente su presupuesto regularizable durante el presente ejercicio fiscal.
+
+D.O.F. 22 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Cultura, publicado en el Diario Oficial de la Federación el 8 de noviembre de 2016, así como aquellas disposiciones que se opongan a lo establecido en el presente instrumento.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento se cubrirán con cargo al Presupuesto de Egresos de la Federación para el Ejercicio Fiscal en curso y, para los ejercicios subsecuentes, se cubrirán con cargo al presupuesto que en su caso apruebe la Cámara de Diputados, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable del Ramo 48 Cultura.
+
+CUARTO. Todas las referencias y atribuciones que, en los reglamentos, decretos, acuerdos, manuales, lineamientos, circulares y demás disposiciones administrativas que se hagan o confieran a las unidades administrativas contempladas en el Reglamento Interior de la Secretaría de Cultura, publicado en el Diario Oficial de la Federación el 8 de noviembre de 2016 que por virtud del presente Decreto desaparecen o modifican su denominación o atribuciones, se entenderán referidas o conferidas a las unidades administrativas que conforme a este ordenamiento hayan asumido la competencia.
+
+QUINTO. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de este decreto, que se encuentren pendientes de resolución, se atenderán por las unidades administrativas que conforme a este ordenamiento hayan asumido la competencia y en términos de las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
