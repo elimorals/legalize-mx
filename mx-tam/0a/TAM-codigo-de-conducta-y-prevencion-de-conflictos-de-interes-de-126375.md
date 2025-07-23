@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-126
 country: "mx"
 rank: "codigo"
 publication_date: "2018-01-18"
-last_updated: "2018-01-18"
+last_updated: "2025-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LA UNIVERSIDAD POLITECNICA DE VICTORIA, DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA UNIVERSIDAD POLITÉCNICA DE VICTORIA, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA UNIVERSIDAD POLITÉCNICA DE VICTORIA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025 (DEROGADO).
 
 Código publicado en el Número 9 del Periódico Oficial de Tamaulipas, el jueves 18 de enero de 2018.
 
@@ -360,3 +362,25 @@ El presente Código de Conducta y Prevención de Conflictos de Interés de la Un
 Se derogan las disposiciones legales aplicables que se opongan al presente Código de Conducta.
 
 Cd. Victoria, Tam., a 21 de noviembre de 2017.- ATENTAMENTE.- EL RECTOR DE LA UNIVERSIDAD POLITÉCNICA DE VICTORIA.- OSCAR JESÚS BALLESTEROS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA UNIVERSIDAD POLITÉCNICA DE VICTORIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de la Universidad Politécnica de Victoria, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de la Universidad Politécnica de Victoria, serán resueltos por el Comité de Ética de la Universidad Politécnica de Victoria, a propuesta de su presidente o presidenta.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga el Código de Ética de la Universidad Politécnica de Victoria aprobado por la Junta Directiva, en su Trigésima Novena Sesión Ordinaría, en fecha 21 de noviembre de 2017, y publicado en el Periódico Oficial del Estado de Tamaulipas, TOMO CXLIII, de fecha 18 de enero de 2018, en el Número 09.
