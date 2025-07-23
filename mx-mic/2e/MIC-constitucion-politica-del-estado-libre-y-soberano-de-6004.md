@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2025-04-03"
+last_updated: "2025-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -2627,6 +2627,10 @@ Es obligación del poder público garantizar el desarrollo integral estatal, med
 
 En el desarrollo económico estatal, concurrirán los sectores público, social y privado, correspondiendo al Gobierno del Estado procurar la armonía entre ellos para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
 
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2025)</small>
+
+Todas las autoridades estatales y municipales, de los poderes Ejecutivo, Legislativo y Judicial, Órganos Autónomos, la Universidad Michoacana de San Nicolás de Hidalgo, las Universidades e Institutos Tecnológicos Públicos, partidos políticos, fideicomisos fondos públicos; así como cualquier persona física o moral que ejecute y ejerza recursos públicos o realice actos de autoridad en el Estado, implementarán el Gobierno Digital mediante el uso de las Tecnologías de la Información y Comunicación, así como de internet, en la realización de los trámites y servicios que presta el Gobierno; a fin de fortalecer la transparencia, la rendición de cuentas, promover la participación ciudadana, optimizar la eficiencia en el uso de los recursos públicos y garantizar la protección de los datos personales, así como la seguridad de la información.
+
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2017)</small>
 
 A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos primero y segundo de este artículo, todas las autoridades en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezca la Ley en la materia.
@@ -4524,3 +4528,17 @@ QUINTO. Las personas servidoras públicas del Instituto Michoacano de Transparen
 SEXTO. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
 
 SÉPTIMO. El Titular del Ejecutivo del Estado a través de la Secretaría de Finanzas y Administración remitirá al Congreso del Estado en un plazo no mayor de 30 días hábiles, a la entrada en vigor del presente Decreto, las reformas y las reasignaciones presupuestales necesarias para su aprobación e implementación.
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 164 POR EL QUE “SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 129, Y SE RECORREN LOS SUBSECUENTES EN SU ORDEN DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado, la Minuta con proyecto de Decreto, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo, el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+CUARTO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para el cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+QUINTO. El Gobierno del Estado, las autoridades del Poder Judicial y Legislativo, así como las autoridades municipales, garantizarán la inamovilidad de los trabajadores de base en su fuente de empleo, así como todos los derechos laborales y constitucionales; y, establecerán los instrumentos de capacitación y asesoría para garantizar la adaptación, aprendizaje y el uso adecuado de las tecnologías de la información y comunicación de las personas trabajadoras de los diferentes órdenes de gobierno, con el fin que de manera progresiva se implemente el gobierno digital.
