@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2025-06-05"
+last_updated: "2025-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -181,13 +181,17 @@ XVIII. Ejercer la verificación y el control sanitario de los establecimientos q
 
 XIX. Reconocer, validar y aplicar la práctica de la Medicina Tradicional;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2025)</small>
 
-XX. Reconocer la práctica de la Medicina Homeopática; y
+XX. Reconocer la práctica de la Medicina Homeopática;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE JULIO DE 2025)</small>
 
-XXI. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
+XXI. Fomentar la prevención de las enfermedades relacionadas con el cáncer, de manera especial el de mama, en coordinación con las autoridades federales competentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE JULIO DE 2025)</small>
+
+XXII. Las demás que establezcan la Ley General de Salud y otras disposiciones aplicables.
 
 B.- En materia de salubridad local:
 
@@ -1939,11 +1943,25 @@ El Sistema Estatal para el Desarrollo Integral de la Familia, tendrá entre sus 
 
 El Gobierno del Estado se coordinará con las Autoridades Sanitarias Federales para la ejecución en el Estado, del programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
-I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2025)</small>
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva,
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de las personas alcohólicas;
 
-III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2025)</small>
+
+II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niñas, niños y adolescentes, así como personas en situación de vulnerabilidad, a través de métodos individuales, sociales o de comunicación masiva;
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2025)</small>
+
+III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo;
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2025)</small>
+
+IV. La promoción de los servicios de prevención, detección temprana, orientación, atención, derivación y tratamiento a personas y grupos con uso nocivo del alcohol; y
+
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2025)</small>
+
+V. El fomento de la protección de la salud considerando la educación, promoción de actitudes, factores de protección, habilidades y conductas que favorezcan estilos de vida activa y saludable en los individuos, la familia, la escuela, el trabajo y la comunidad.
 
 ###### ARTICULO 177.
 
@@ -2549,9 +2567,9 @@ ARTICULO 259 TER.- El funcionamiento de los establecimientos señalados en el pr
 
 ARTICULO 259 QUÁTER.- La oferta de los servicios que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por profesionistas que ejerzan cirugía plástica, estética o reconstructiva; así como, los establecimientos o unidades médicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su publicidad los requisitos que se mencionan en los artículos 83, 272 Bis, 272 Bis 1 y en lo previsto en el Capítulo Único del Título XIII de la Ley General de Salud.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2025)</small>
 
-ARTICULO 259 QUINQUIES.- Queda prohibido en el Estado que peluquerías, salones de belleza, estéticas, gimnasios u otras similares, realicen procedimientos de medicina, aplicación de sustancias para aumentar regiones del cuerpo, así como cirugías plásticas, estéticas y reconstructivas.
+ARTICULO 259 QUINQUIES.- Queda prohibido en el Estado que peluquerías, salones de belleza, estéticas, gimnasios, spas u otros establecimientos similares, así como particulares sin la licencia correspondiente, realicen procedimientos de medicina, aplicación, inyección o infiltración de sustancias modelantes o para aumentar regiones del cuerpo, así como cirugías plásticas, estéticas y reconstructivas.
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
@@ -3656,6 +3674,30 @@ TERCERO. El Ejecutivo del Estado deberá realizar a más tardar en 90 días natu
 P.O. 5 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XIX DEL TÍTULO DÉCIMO SEGUNDO Y EL PRIMER PÁRRAFO DEL ARTÍCULO 309; Y ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 259 BIS Y EL 259 BIS 1, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XX Y XXI DEL APARTADO A DEL ARTÍCULO 4 Y ADICIONA LA FRACCIÓN XXII AL APARTADO A DEL 4, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II Y III Y ADICIONA LAS FRACCIONES IV Y V AL ARTÍCULO 176 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 259 QUINQUIES DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
