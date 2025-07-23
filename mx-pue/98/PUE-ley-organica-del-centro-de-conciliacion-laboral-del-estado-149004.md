@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1490
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-04-14"
-last_updated: "2021-04-14"
+last_updated: "2025-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025.
 
 Ley publicada en la Segunda Sección al Número 8 del Periódico Oficial del Gobierno del Estado de Puebla, el miércoles 14 de abril de 2021.
 
@@ -137,7 +137,9 @@ XI. Imponer multas y medidas de apremio por el incumplimiento de las disposicion
 
 XII. Establecer los convenios necesarios con instituciones públicas o privadas, así como con organizaciones de la sociedad civil, para lograr los propósitos de la presente Ley;
 
-XIII. Presentar anualmente al Titular del Poder Ejecutivo del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en la iniciativa de Ley de Egresos del Estado;
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2025)</small>
+
+XIII. Presentar anualmente al Titular del Poder Ejecutivo del Estado un informe general de las actividades realizadas, así como su proyecto de presupuesto de egresos, a fin de que se considere en la iniciativa de Ley de Egresos del Estado. Dicho informe deberá publicarse para conocimiento general de la ciudadanía;
 
 XIV. Establecer un modelo de gestión conciliatoria y administrativa para su adecuado funcionamiento;
 
@@ -552,3 +554,13 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Ordenamient
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de marzo de dos mil veintiuno. Diputada Presidenta. GUADALUPE MUCIÑO MUÑOZ. Rúbrica. Diputada Vicepresidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputada Vicepresidenta. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. ILIANA PAOLA RUÍZ GARCÍA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecinueve días del mes de marzo de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 9 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
