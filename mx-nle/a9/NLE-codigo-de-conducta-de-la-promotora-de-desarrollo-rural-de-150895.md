@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-la-promotora-de-desarrollo-rural-de-15089
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-27"
-last_updated: "2021-08-27"
+last_updated: "2025-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LA PROMOTORA DE DESARROLLO RURAL DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA DE DESARROLLO RURAL DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 23 DE JULIO DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA PROMOTORA DE DESARROLLO RURAL DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025 (ABROGADO).
 
 Código publicado en el Tomo CLVIII al Número 104 del Periódico Oficial del Estado de Nuevo León, el viernes 27 de agosto de 2021.
 
@@ -242,3 +244,13 @@ El Código de Conducta de Promotora de Desarrollo Rural de Nuevo león es aproba
 Ing. Alfredo Villarreal Guajardo
 
 Director General
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA DE DESARROLLO RURAL DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Código de Conducta, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Conducta de los servidores públicos de la Promotora de Desarrollo Rural de Nuevo León, publicado en el Periódico Oficial del Estado el día 27 de agosto de 2021.
