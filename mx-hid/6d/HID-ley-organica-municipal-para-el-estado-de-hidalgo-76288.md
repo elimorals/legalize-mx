@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-07-01"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1315,6 +1315,10 @@ d).- Rendir anualmente al Ayuntamiento, el día 5 de septiembre de cada año, un
 
 e).- Vigilar la recaudación en todas las ramas de la Hacienda Municipal, conforme a las disposiciones que expida el Ayuntamiento;
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+e BIS) Proponer al Ayuntamiento la celebración de convenios o contratos para la implementación o actualización de plataformas digitales para el pago de impuestos, derechos y contribuciones municipales;
+
 f).- Autorizar a la Tesorería Municipal, las órdenes de pago, conforme al Presupuesto aprobado por el Ayuntamiento;
 
 g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la participación de representantes de los sectores público, social y privado, y de profesionistas y técnicos que residan dentro de su territorio; así como el Comité de Desarrollo Urbano Municipal, en los términos del Reglamento respectivo;
@@ -1789,9 +1793,9 @@ k).- De igualdad y Género;
 
 l).- De adultos Mayores;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-m).- De Medio Ambiente y Prevención y Gestión Integral de Residuos Sólidos Urbanos;
+m).- De Protección del Medio Ambiente; Mitigación y Adaptación a los Efectos del Cambio Climático, y Prevención y Gestión Integral de Residuos Sólidos Urbanos;
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
 
@@ -1813,13 +1817,17 @@ o BIS).- De agua potable, drenaje, alcantarillado, tratamiento y disposición y 
 
 p).- De Transparencia y Acceso a la Información Pública;
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-q).- De Mejora Regulatoria, y
+q).- De Mejora Regulatoria;
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-r).- De atención a Migrantes.
+r).- De atención a Migrantes; y
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+s).- De Bienestar e Inclusión Social
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -5208,3 +5216,21 @@ P.O. 1 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 262 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN AL DEPORTE ADAPTADO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 283 – LXVI POR EL QUE SE ADICIONA UN INCISO e BIS A LA FRACCIÓN I DEL ARTÍCULO 60 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE DIGITALIZACIÓN DEL PAGO DE IMPUESTOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 287 – LXVI POR EL QUE SE ADICIONA UN INCISO S) A LA FRACCIÓN I DEL ARTICULO 71 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE CREACIÓN DE LA COMISIÓN PERMANENTE DE BIENESTAR E INCLUSIÓN SOCIAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 289 – LXVI POR EL QUE SE REFORMA EL INCISO m) DE LA FRACCIÓN I DEL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ADAPTACIÓN Y MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
