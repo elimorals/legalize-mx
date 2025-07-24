@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2025-01-28"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -315,9 +315,31 @@ IV. Cuando la o el ascendiente que goza de la licencia, sea contratada por una n
 
 Las disposiciones contenidas en el presente artículo, son aplicables también a las personas que ejerzan la tutela de niñas, niños o adolescentes diagnosticados por autoridad competente con cáncer de cualquier tipo.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
 ###### ARTICULO 18.
 
-Serán días de descanso obligatorio los que señale el calendario oficial.
+Son días de descanso obligatorio:
+
+I.- El 1º. de enero;
+
+II.- El primer lunes de febrero en conmemoración del 5 de febrero;
+
+III.- El tercer lunes de marzo en conmemoración del 21 de marzo;
+
+IV.- El 1º. de mayo;
+
+V.- El 16 de septiembre;
+
+VI.- El tercer lunes de noviembre en conmemoración del 20 de noviembre;
+
+VII.- El 1º. de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
+
+VIII.- El 25 de diciembre;
+
+IX.- El que determinen las leyes federales electorales y el Código Electoral del Estado de Hidalgo, en el caso de elecciones ordinarias, para efectuar la jornada electoral; y
+
+X.- Los demás señalados en el Calendario Oficial.
 
 ###### ARTICULO 19.
 
@@ -1604,3 +1626,9 @@ P.O. 28 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 195 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LAS TRABAJADORAS A PERIODOS DE DESCANSO PARA LACTANCIA MATERNA.”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 288 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO, EN MATERIA DE DÍAS DE DESCANSO OBLIGATORIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
