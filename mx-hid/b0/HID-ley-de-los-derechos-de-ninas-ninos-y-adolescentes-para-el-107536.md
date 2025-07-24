@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-05-26"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -107,9 +107,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2025)</small>
 
-I Bis. Acciones Afirmativas: Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes;
+I Bis. Acciones Afirmativas: Acciones de carácter temporal, de políticas y prácticas de índole normativa, legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes;
 
 II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
@@ -313,9 +313,11 @@ XIV. Justicia Restaurativa; y
 
 XV. Debido Proceso.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
+
 ###### Artículo 7.
 
-El orden jurídico estatal y municipal deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral pleno.
+El orden jurídico estatal y municipal deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones, servicios y mecanismos que permitan su atención, cuidado y desarrollo integral.
 
 ###### Artículo 8.
 
@@ -329,17 +331,23 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2025)</small>
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, situación de orfandad, por haber nacido o vivir con su madre en algún establecimiento penitenciario, o bien, por circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, crearán acciones afirmativas y medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, situación de orfandad, por haber nacido o vivir con su madre en algún establecimiento penitenciario, o bien, por circunstancias relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
 ###### Artículo 11.
 
 Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2025)</small>
+
 ###### Artículo 12.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+Es obligación de toda persona que tenga conocimiento de delitos cometidos contra niñas, niños y adolescentes, o de casos en que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+En cualquier caso, las niñas, niños y adolescentes deben tener un trato diferenciado y especializado durante el transcurso de todo el proceso, procurando utilizar hacia ellos un lenguaje accesible y adecuado a su edad, madurez y contexto específico.
 
 ## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
@@ -3048,5 +3056,11 @@ P.O. 11 DE ABRIL DE 2025.
 P.O. 26 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 232 - LXVI POR EL QUE SE REFORMAN LOS ARTÍCULOS 100 BIS 2 Y 100 BIS 3 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCESO SEGURO AL INTERNET Y A LAS TECNOLOGÍAS DE LA INFORMACIÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 285 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN, CUIDADO Y DESARROLLO INTEGRAL DE LAS INFANCIAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
