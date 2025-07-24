@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2025-07-03"
+last_updated: "2025-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -524,6 +524,12 @@ El Estado procurará el acceso a programas de becas para los alumnos más destac
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
 
 Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+
+###### Artículo 8° Ter.
+
+Esta Constitución reconoce a los animales no humanos como seres sintientes, que poseen una conciencia propia, lo que les permite percibir su entorno y ser capaces de discernir entre lo bueno y lo malo, sentir estados afectivos y experimentar dolor, placer y sufrimiento. Por lo tanto, se consideran sujetos de tutela, garantizándoles con ello las condiciones óptimas que les provean altos niveles de bienestar, así como la preservación de su vida y dignidad. En consecuencia, las personas y el Estado tienen la obligación de respetar y, en su caso, proteger la vida de todo animal, evitando cualquier acto de negligencia, maltrato o crueldad en su contra.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
@@ -4776,3 +4782,9 @@ CUARTO. Las erogaciones que se generen con motivo de la reforma efectuada por es
 QUINTO. El Poder Ejecutivo del Estado de Hidalgo dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
 
 SEXTO. Para la interpretación de lo dispuesto en este Decreto, se tomará en cuenta lo previsto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte, así como las consideraciones del dictamen.
+
+P.O. 24 DE JULIO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 291 – LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 8 TER A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LOS ANIMALES COMO SERES SINTIENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
